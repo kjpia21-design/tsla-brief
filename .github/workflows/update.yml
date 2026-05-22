@@ -1,0 +1,57 @@
+name: Build & Deploy
+
+on:
+  # 매시 정각 (UTC). KST 로는 매시 09분쯤 트리거되어 5~10분 내 배포됨.
+  schedule:
+    - cron: "0 * * * *"
+  # 수동 트리거
+  workflow_dispatch:
+  # main 푸시 시에도 즉시 재빌드
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # ─────────────────────────────────────────────
+      # TODO: 데이터 수집 단계 (다음 작업)
+      # news-brief 또는 RSS 어댑터를 호출해 data/*.json 을 갱신.
+      # 갱신 전까지는 data/ 가 정적이라 cron 빌드는 멱등.
+      # 예시:
+      #   - run: node scripts/fetch-news.mjs
+      # ─────────────────────────────────────────────
+
+      - name: Build
+        run: node build.mjs
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

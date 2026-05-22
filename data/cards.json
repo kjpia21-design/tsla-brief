@@ -1,0 +1,41 @@
+{
+  "asOf": "2026.05.22 09:00 KST 기준 · 카테고리당 핵심 1건",
+  "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "title": "Q2 가이던스 상향 <em>없음</em>. 인도량 컨센서스 <em>43.2만 대</em>",
+      "body": "월가 컨센서스는 직전 대비 -0.4%. 분석가 30명 중 21명이 \"Hold\". 옵션 시장은 어닝 D-day ±7% 변동성 반영.",
+      "sources": { "sec": 1, "official": 1, "press": 3, "rumor": 0 },
+      "href": "#stock"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 신차·제품",
+      "time": "5h ago",
+      "title": "Model Y Juniper, 미국 <em>가격 인하</em> $1,000. 재고 소진 신호",
+      "body": "기본 트림 $42,990 → $41,990. 동시에 7일 인도 가능 재고가 14개 주에서 표시 — 분기말 푸시 본격화.",
+      "sources": { "sec": 0, "official": 1, "press": 2, "rumor": 0 },
+      "href": "#product"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율주행",
+      "time": "8h ago",
+      "title": "FSD <em>v13.4</em> 와이드 릴리스. 인터벤션 간격 372마일로 향상 주장",
+      "body": "테슬라 IR 자료 기준 직전 v13.2 대비 +28%. 단, 측정 방식은 외부 검증 안 됨 — 표본 분포 미공개.",
+      "sources": { "sec": 0, "official": 2, "press": 1, "rumor": 1 },
+      "href": "#fsd"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "MUSK · 일론 동향",
+      "time": "14h ago",
+      "title": "머스크, X에 <em>\"로보택시 통합 데모\"</em> 6월 예고. 회사 공식 발표는 아직",
+      "body": "게시물 원문: \"Robotaxi integrated demo by June, you'll see.\" IR은 같은 날 별도 코멘트 없음. 시장은 약 +3% 반응.",
+      "sources": { "sec": 0, "official": 1, "press": 0, "rumor": 2 },
+      "href": "#musk"
+    }
+  ]
+}

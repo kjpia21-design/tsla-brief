@@ -1,0 +1,30 @@
+{
+  "asOf": "2026.05.21 · 16:00 EDT",
+  "items": [
+    {
+      "label": "Price",
+      "value": "$278.42",
+      "delta": { "text": "+ 1.83%  (+$5.01)", "direction": "up" }
+    },
+    {
+      "label": "Market Cap",
+      "value": "$889.4 B",
+      "sub": "유통주식 3.19B"
+    },
+    {
+      "label": "52W Range",
+      "value": "$182 — $312",
+      "sub": "현재 89% 구간"
+    },
+    {
+      "label": "P/E (TTM)",
+      "value": "68.4",
+      "sub": "섹터 평균 32.1"
+    },
+    {
+      "label": "Next Earnings",
+      "value": "Jul 23",
+      "sub": "2026 Q2 · D-63"
+    }
+  ]
+}

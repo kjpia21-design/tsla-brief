@@ -98,23 +98,75 @@ B(옵티머스 헤드, `assets/mascot-B-optimus.svg`)는 비교 검토용으로 
 테슬라 정보 랜딩 페이지 및 영상 채널 만들기/
 ├── CLAUDE.md                          ← 이 파일
 ├── 00-기획서.md                       ← 전체 기획서 (긴 버전)
-├── home-v1.html                       ← 랜딩 v1 (시작점)
+├── home-v1.html                       ← 랜딩 v1 (템플릿, BLOCK 마커 포함)
 ├── mascot-compare.html                ← 마스코트 A/B 비교 (참조용, 추후 정리 가능)
+├── build.mjs                          ← JSON → home.html 빌드 (의존성 0)
+├── data/                              ← 1시간마다 갱신될 카드/KPI/영상 데이터
+│   ├── kpi.json
+│   ├── cards.json
+│   └── videos.json
+├── dist/                              ← 빌드 산출물 (gitignore, Pages 배포 대상)
+│   └── home.html
+├── .github/workflows/
+│   └── update.yml                     ← cron 1h + Pages 배포
 └── assets/
     ├── mascot-A-cybertruck.svg        ← 채택
     └── mascot-B-optimus.svg           ← 백업 보존
 ```
 
+## 빌드 파이프라인 (1시간 주기 업데이트)
+
+**아키텍처:** ① 정적 재생성(SSG) + ② 클라이언트 fetch 자리 마련(머스크 라이브 박스용, 미구현).
+
+```
+home-v1.html (BLOCK 마커 포함)
+       +
+data/{kpi,cards,videos}.json   ←  cron 으로 갱신 (데이터 수집기 미구현)
+       ↓
+   node build.mjs
+       ↓
+   dist/home.html  →  GitHub Pages 배포
+```
+
+### 마커 규칙
+
+`home-v1.html` 안에 `<!-- BLOCK:NAME --> ... <!-- /BLOCK:NAME -->` 쌍으로 치환 영역을 표시.
+현재 마커: `KPI_TIME`, `KPI_GRID`, `CARDS_TIME`, `CARDS_GRID`, `VIDEOS_GRID`, `BUILD_INFO`.
+마커 사이에 샘플 데이터를 그대로 두면 v1 도 단독으로 브라우저에서 정상 표시됨.
+
+### 데이터 스키마 약속
+
+- **카드 출처 카운트:** `{ sec, official, press, rumor }` 4단계. 0 인 항목은 렌더 시 생략.
+- **출처 표시 순서:** SEC(🟢 1차) → OFFICIAL(🔵 공식) → PRESS(🟠 외신) → RUMOR(⚪ 추측) 로 통일.
+- **카드 제목·바디:** `<em>...</em>` 강조는 데이터(JSON) 안에 마크업 그대로. 빌드는 이 부분만 escape 하지 않음.
+
+### 빌드 명령
+
+```bash
+node build.mjs            # dist/home.html 생성
+python3 -m http.server 5734    # 로컬 미리보기 (preview tool: tsla-static)
+```
+
+### 현재 상태
+
+- ✅ JSON ↔ HTML 분리 + 빌드 스크립트 완성
+- ✅ GitHub Actions cron 1h + Pages 배포 워크플로 작성
+- ⏳ **데이터 수집기 미구현** — `data/*.json` 은 현재 정적 샘플. cron 돌려도 결과 동일(멱등).
+- ⏳ GitHub 리모트·Pages 활성화 미진행
+
 ## 다음 작업 후보
 
 번호순 우선순위 추천:
 
-1. **home-v2 디자인 튜닝** — 다크 톤 강도, 카드 간격, hero 카피 등 디테일 반복. 허라비 home-v1~v5 패턴.
-2. **모바일 v1 (`mobile-v1.html`)** — 768px 이하 전용. 허라비 mobile-v1 참조 가능 (`~/Documents/Claude/Projects/허니라이프 채널 & 사이트 빌드업/mobile-v1.html`).
-3. **뉴스레터 HTML 템플릿** (`newsletter-template.html`) — 실제 발송 가능한 인라인 스타일 메일.
-4. **출처 검증 도장 SVG** (`assets/stamp-verified.svg`) — 허라비 `bee-stamp-verified.svg` 패턴 차용, 마스코트 A 임베드.
-5. **샘플 콘텐츠 상세 페이지** (`sample-stock-q1-earnings.html`) — 출처 4단계가 어떻게 본문에 노출되는지 보여주는 모범 페이지.
-6. **`my-shorts-generator`에 TSLA 시리즈 컴포지션 추가** — 다크 변형 디자인 시스템 컴포넌트 확장.
+1. **데이터 수집기** — news-brief 어댑터 또는 RSS 페처. 출력 = `data/cards.json` 등. 카테고리 자동 분류 + 출처 4단계 라벨링이 핵심.
+2. **GitHub 리모트 + Pages 활성화** — 리포 만들고 워크플로 동작 확인.
+3. **머스크 라이브 박스 (②번 fetch)** — RSS Bridge / 수동 큐레이션으로 시작. 페이지에 `<section id="musk-live">` 슬롯 추가하고 클라이언트 폴링(10분).
+4. **home-v2 디자인 튜닝** — 다크 톤 강도, 카드 간격, hero 카피 등 디테일 반복. 허라비 home-v1~v5 패턴.
+5. **모바일 v1 (`mobile-v1.html`)** — 768px 이하 전용. 허라비 mobile-v1 참조 가능 (`~/Documents/Claude/Projects/허니라이프 채널 & 사이트 빌드업/mobile-v1.html`).
+6. **뉴스레터 HTML 템플릿** (`newsletter-template.html`) — 실제 발송 가능한 인라인 스타일 메일.
+7. **출처 검증 도장 SVG** (`assets/stamp-verified.svg`) — 허라비 `bee-stamp-verified.svg` 패턴 차용, 마스코트 A 임베드.
+8. **샘플 콘텐츠 상세 페이지** (`sample-stock-q1-earnings.html`) — 출처 4단계가 어떻게 본문에 노출되는지 보여주는 모범 페이지.
+9. **`my-shorts-generator`에 TSLA 시리즈 컴포지션 추가** — 다크 변형 디자인 시스템 컴포넌트 확장.
 
 ## 코딩 컨벤션
 
