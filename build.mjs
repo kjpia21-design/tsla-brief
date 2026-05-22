@@ -10,16 +10,18 @@
  * 의존성 0. Node 20+ 권장.
  */
 
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir, cp } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const TEMPLATE_PATH = path.join(ROOT, "home-v1.html");
 const DATA_DIR = path.join(ROOT, "data");
+const ASSETS_DIR = path.join(ROOT, "assets");
 const OUT_DIR = path.join(ROOT, "dist");
 // GitHub Pages 호환을 위해 index.html 로 출력. 템플릿은 home-v1.html 그대로.
 const OUT_PATH = path.join(OUT_DIR, "index.html");
+const OUT_ASSETS = path.join(OUT_DIR, "assets");
 
 const CATEGORY_CLASS = {
   stock: "is-stock",
@@ -167,6 +169,7 @@ async function main() {
 
   await mkdir(OUT_DIR, { recursive: true });
   await writeFile(OUT_PATH, out, "utf8");
+  await cp(ASSETS_DIR, OUT_ASSETS, { recursive: true });
 
   const sizes = {
     template: template.length,
