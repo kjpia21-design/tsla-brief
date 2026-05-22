@@ -18,7 +18,8 @@ const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const TEMPLATE_PATH = path.join(ROOT, "home-v1.html");
 const DATA_DIR = path.join(ROOT, "data");
 const OUT_DIR = path.join(ROOT, "dist");
-const OUT_PATH = path.join(OUT_DIR, "home.html");
+// GitHub Pages 호환을 위해 index.html 로 출력. 템플릿은 home-v1.html 그대로.
+const OUT_PATH = path.join(OUT_DIR, "index.html");
 
 const CATEGORY_CLASS = {
   stock: "is-stock",
