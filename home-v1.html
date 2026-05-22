@@ -1,0 +1,600 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>TSLA Brief — 노이즈 없는 테슬라 브리핑</title>
+<meta name="description" content="테슬라 주주를 위한 일일 브리핑. 주가·실적, 신차·제품, FSD, 머스크 동향을 한 페이지에서.">
+<style>
+  /* =====================================================
+   * TSLA Brief — Landing v1 (Dark, Single-Page)
+   * 디자인 시스템: 다크 베이스 + 레드 액센트 + IBM Plex Mono(숫자)
+   * ===================================================== */
+
+  :root{
+    /* surfaces */
+    --bg:        #0A0A0B;
+    --bg-2:      #111114;
+    --bg-3:      #181820;
+    --bg-grad:   radial-gradient(1200px 600px at 80% -10%, rgba(227,25,55,.10), transparent 60%),
+                 radial-gradient(900px 500px at 10% 10%, rgba(27,108,255,.05), transparent 60%);
+    --line:      #2A2A33;
+    --line-mute: #1E1E26;
+
+    /* ink */
+    --ink:       #F4F4F5;
+    --ink-mid:   #B8B8C0;
+    --ink-mute:  #707078;
+
+    /* brand */
+    --tesla-red: #E31937;
+    --red-deep:  #A30E25;
+    --red-soft:  rgba(227,25,55,.12);
+
+    /* categories */
+    --c-stock:    #E31937;   /* 주가·실적 */
+    --c-product:  #1B6CFF;   /* 신차·제품 */
+    --c-fsd:      #22D3EE;   /* FSD */
+    --c-musk:     #F59E0B;   /* 머스크 */
+
+    /* data */
+    --up:   #16A34A;
+    --down: #EF4444;
+
+    /* scale */
+    --max-w: 1200px;
+    --gutter: clamp(20px, 4vw, 56px);
+    --r-sm: 8px; --r-md: 12px; --r-lg: 18px; --r-xl: 24px; --r-pill: 999px;
+    --shadow-sm: 0 2px 6px rgba(0,0,0,.35);
+    --shadow-md: 0 8px 24px -6px rgba(0,0,0,.55);
+    --shadow-lg: 0 18px 48px -12px rgba(0,0,0,.7);
+    --shadow-red: 0 0 0 1px rgba(227,25,55,.25), 0 12px 40px -10px rgba(227,25,55,.35);
+
+    --ease: cubic-bezier(.2,.7,.2,1);
+    --t-1: 180ms; --t-2: 260ms; --t-3: 360ms;
+  }
+
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--bg) var(--bg-grad);
+    color:var(--ink);
+    font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    line-height:1.65;
+    font-size:16px;
+    -webkit-font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
+  }
+  a{color:inherit;text-decoration:none}
+  img,svg,object{display:block;max-width:100%}
+
+  .wrap{max-width:var(--max-w);margin:0 auto;padding-left:var(--gutter);padding-right:var(--gutter)}
+  .eyebrow{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--ink-mute);font-weight:600}
+  .mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+
+  /* ========== NAV ========== */
+  .nav{
+    position:sticky;top:0;z-index:50;
+    background:rgba(10,10,11,.78);
+    backdrop-filter:blur(12px) saturate(140%);
+    -webkit-backdrop-filter:blur(12px) saturate(140%);
+    border-bottom:1px solid var(--line-mute);
+  }
+  .nav__inner{
+    display:flex;align-items:center;justify-content:space-between;
+    height:64px;
+  }
+  .brand{display:flex;align-items:center;gap:10px}
+  .brand__mark{width:30px;height:30px;display:block}
+  .brand__name{font-weight:800;font-size:16px;letter-spacing:.02em}
+  .brand__name em{font-style:italic;font-family:"Inter","IBM Plex Mono",ui-monospace,monospace;color:var(--tesla-red);font-weight:600}
+
+  .nav__links{display:flex;gap:6px;align-items:center}
+  .nav__links a{
+    padding:8px 12px;font-size:13px;color:var(--ink-mid);border-radius:var(--r-md);
+    transition:color var(--t-1) var(--ease), background var(--t-1) var(--ease);
+  }
+  .nav__links a:hover{color:var(--ink);background:var(--bg-3)}
+  .nav__cta{
+    margin-left:8px;padding:9px 16px;border-radius:var(--r-pill);
+    background:var(--tesla-red);color:#fff;font-size:13px;font-weight:600;
+    transition:background var(--t-1) var(--ease),transform var(--t-1) var(--ease);
+  }
+  .nav__cta:hover{background:var(--red-deep);transform:translateY(-1px)}
+
+  @media (max-width: 720px){
+    .nav__links a:not(.nav__cta){display:none}
+  }
+
+  /* ========== HERO + NEWSLETTER ========== */
+  .hero{position:relative;padding:80px 0 64px;overflow:hidden}
+  .hero__inner{display:grid;grid-template-columns: 1.05fr .95fr;gap:48px;align-items:center}
+  @media (max-width: 920px){.hero__inner{grid-template-columns:1fr;gap:36px}}
+
+  .hero__eyebrow{display:inline-flex;align-items:center;gap:8px;margin-bottom:18px}
+  .hero__dot{width:6px;height:6px;border-radius:50%;background:var(--tesla-red);box-shadow:0 0 12px var(--tesla-red)}
+  .hero h1{
+    font-size:clamp(40px, 6vw, 64px);font-weight:800;line-height:1.08;
+    letter-spacing:-0.025em;margin:0 0 18px;
+  }
+  .hero h1 em{
+    font-style:italic;font-family:"Inter","IBM Plex Mono",ui-monospace,monospace;
+    color:var(--tesla-red);font-weight:600;
+  }
+  .hero p.lead{
+    color:var(--ink-mid);font-size:17px;max-width:48ch;margin:0 0 28px;
+  }
+  .hero__meta{display:flex;gap:18px;flex-wrap:wrap;color:var(--ink-mute);font-size:13px;margin-bottom:28px}
+  .hero__meta b{color:var(--ink);font-weight:600}
+
+  /* newsletter form card */
+  .nl{
+    background:var(--bg-2);border:1px solid var(--line);
+    border-radius:var(--r-xl);padding:28px;
+    box-shadow:var(--shadow-md);
+    position:relative;overflow:hidden;
+  }
+  .nl::before{
+    content:"";position:absolute;inset:0 0 auto 0;height:3px;
+    background:linear-gradient(90deg,var(--tesla-red),transparent 70%);
+  }
+  .nl__head{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+  .nl__title{font-size:15px;font-weight:700;letter-spacing:.01em;margin:0}
+  .nl__badge{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10px;letter-spacing:.18em;color:var(--tesla-red);border:1px solid var(--red-soft);background:var(--red-soft);padding:4px 8px;border-radius:var(--r-pill)}
+  .nl__row{display:flex;gap:8px}
+  .nl input[type=email]{
+    flex:1;padding:13px 14px;border-radius:var(--r-md);
+    background:var(--bg);border:1px solid var(--line);color:var(--ink);
+    font-size:14px;font-family:inherit;
+    transition:border-color var(--t-1) var(--ease);
+  }
+  .nl input[type=email]::placeholder{color:var(--ink-mute)}
+  .nl input[type=email]:focus{outline:none;border-color:var(--tesla-red);box-shadow:0 0 0 3px var(--red-soft)}
+  .nl button{
+    padding:13px 20px;border-radius:var(--r-md);background:var(--tesla-red);
+    color:#fff;border:none;font-weight:700;font-size:14px;cursor:pointer;
+    transition:background var(--t-1) var(--ease);
+  }
+  .nl button:hover{background:var(--red-deep)}
+  .nl__hint{display:flex;justify-content:space-between;gap:10px;color:var(--ink-mute);font-size:11.5px;margin-top:12px;font-family:"IBM Plex Mono",ui-monospace,monospace;letter-spacing:.04em}
+  .nl__hint span b{color:var(--ink-mid);font-weight:600}
+
+  /* ========== STOCK WIDGET ========== */
+  .stock{padding:28px 0 48px}
+  .stock__head{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:18px}
+  .stock__title{font-size:14px;font-weight:600;color:var(--ink-mid);margin:0}
+  .stock__time{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;color:var(--ink-mute);letter-spacing:.05em}
+  .stock__grid{
+    display:grid;grid-template-columns: repeat(5, 1fr);gap:1px;
+    background:var(--line-mute);border:1px solid var(--line);border-radius:var(--r-lg);
+    overflow:hidden;
+  }
+  @media (max-width: 900px){.stock__grid{grid-template-columns:repeat(2, 1fr)}}
+  .kpi{background:var(--bg-2);padding:18px 20px;display:flex;flex-direction:column;gap:6px;min-height:108px}
+  .kpi__label{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10.5px;letter-spacing:.18em;color:var(--ink-mute);text-transform:uppercase}
+  .kpi__value{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:24px;font-weight:600;letter-spacing:-0.01em;color:var(--ink);font-variant-numeric:tabular-nums}
+  .kpi__delta{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:500}
+  .kpi__delta.up{color:var(--up)}
+  .kpi__delta.down{color:var(--down)}
+  .kpi__sub{font-size:11.5px;color:var(--ink-mute)}
+
+  /* ========== CATEGORY CARDS ========== */
+  .cats{padding:24px 0 56px}
+  .cats__head{display:flex;align-items:end;justify-content:space-between;margin-bottom:22px;flex-wrap:wrap;gap:12px}
+  .cats__title{font-size:clamp(24px,3vw,32px);font-weight:800;letter-spacing:-0.02em;margin:0}
+  .cats__sub{color:var(--ink-mute);font-size:13px}
+  .cats__grid{display:grid;grid-template-columns:repeat(2, 1fr);gap:14px}
+  @media (max-width: 760px){.cats__grid{grid-template-columns:1fr}}
+
+  .ccard{
+    position:relative;background:var(--bg-2);border:1px solid var(--line);
+    border-radius:var(--r-lg);padding:22px 22px 20px;
+    display:flex;flex-direction:column;gap:14px;
+    transition:transform var(--t-2) var(--ease),border-color var(--t-2) var(--ease),box-shadow var(--t-2) var(--ease),background var(--t-2) var(--ease);
+    overflow:hidden;
+  }
+  .ccard::before{
+    content:"";position:absolute;inset:0 0 auto 0;height:2px;background:var(--cat-color, var(--tesla-red));opacity:.85;
+  }
+  .ccard:hover{transform:translateY(-2px);background:var(--bg-3);border-color:var(--cat-color, var(--tesla-red));box-shadow:var(--shadow-md)}
+  .ccard__top{display:flex;align-items:center;justify-content:space-between}
+  .ccard__cat{display:inline-flex;align-items:center;gap:8px;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.18em;color:var(--ink-mid)}
+  .ccard__cat::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--cat-color, var(--tesla-red));box-shadow:0 0 10px var(--cat-color, var(--tesla-red))}
+  .ccard__time{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;color:var(--ink-mute)}
+  .ccard h3{font-size:20px;font-weight:700;line-height:1.28;letter-spacing:-0.015em;margin:0;color:var(--ink)}
+  .ccard h3 em{font-style:italic;font-family:"Inter",ui-monospace,monospace;color:var(--cat-color, var(--tesla-red));font-weight:600}
+  .ccard__body{color:var(--ink-mid);font-size:14px;margin:0}
+  .ccard__meta{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:auto;padding-top:8px;border-top:1px dashed var(--line)}
+  .src{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;color:var(--ink-mute);display:flex;gap:10px}
+  .src span{display:inline-flex;align-items:center;gap:4px}
+  .src .d{width:7px;height:7px;border-radius:50%}
+  .src .d-sec{background:#16A34A}        /* 1차 자료 */
+  .src .d-off{background:#1B6CFF}        /* 공식 발언 */
+  .src .d-press{background:#F59E0B}      /* 외신 */
+  .src .d-rumor{background:#707078}      /* 추측 */
+  .ccard__cta{display:inline-flex;align-items:center;gap:4px;color:var(--ink-mid);font-size:12.5px;font-weight:600;transition:gap var(--t-1) var(--ease),color var(--t-1) var(--ease)}
+  .ccard__cta::after{content:"→";display:inline-block}
+  .ccard:hover .ccard__cta{gap:10px;color:var(--ink)}
+
+  /* per-category accents */
+  .ccard.is-stock   { --cat-color: var(--c-stock); }
+  .ccard.is-product { --cat-color: var(--c-product); }
+  .ccard.is-fsd     { --cat-color: var(--c-fsd); }
+  .ccard.is-musk    { --cat-color: var(--c-musk); }
+
+  /* ========== VIDEO GRID ========== */
+  .vids{padding:24px 0 64px}
+  .vids__head{display:flex;align-items:end;justify-content:space-between;margin-bottom:22px;flex-wrap:wrap;gap:12px}
+  .vids__title{font-size:clamp(24px,3vw,32px);font-weight:800;letter-spacing:-0.02em;margin:0}
+  .vids__sub{color:var(--ink-mute);font-size:13px;display:inline-flex;align-items:center;gap:8px}
+  .vids__sub::before{content:"";width:10px;height:10px;border-radius:50%;background:var(--tesla-red);box-shadow:0 0 10px var(--tesla-red)}
+
+  .vids__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  @media (max-width: 980px){.vids__grid{grid-template-columns:repeat(2,1fr)}}
+  @media (max-width: 620px){.vids__grid{grid-template-columns:1fr}}
+
+  .vcard{
+    background:var(--bg-2);border:1px solid var(--line);border-radius:var(--r-lg);
+    overflow:hidden;display:flex;flex-direction:column;
+    transition:transform var(--t-2) var(--ease),border-color var(--t-2) var(--ease),box-shadow var(--t-2) var(--ease);
+  }
+  .vcard:hover{transform:translateY(-2px);border-color:var(--tesla-red);box-shadow:var(--shadow-red)}
+  .vthumb{aspect-ratio:16/9;position:relative;overflow:hidden;background:#000;display:flex;align-items:flex-end;padding:14px}
+  .vthumb::after{
+    content:"";position:absolute;inset:0;
+    background:radial-gradient(circle at 30% 30%, rgba(255,255,255,.06), transparent 50%);
+    pointer-events:none;
+  }
+  .vthumb__series{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10.5px;letter-spacing:.2em;color:#fff;background:rgba(0,0,0,.55);backdrop-filter:blur(4px);padding:4px 9px;border-radius:var(--r-pill);border:1px solid rgba(255,255,255,.18)}
+  .vthumb__dur{position:absolute;right:10px;bottom:10px;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;color:#fff;background:rgba(0,0,0,.7);padding:3px 7px;border-radius:6px}
+  .vthumb__num{position:absolute;right:14px;top:10px;font-family:"Inter",ui-monospace,monospace;font-style:italic;font-weight:700;font-size:64px;color:rgba(255,255,255,.10);letter-spacing:-0.04em}
+
+  /* per-video thumbnail gradients */
+  .vthumb.v-stock   { background: linear-gradient(135deg, #2A0911 0%, #4A1421 50%, #0A0A0B 100%); }
+  .vthumb.v-product { background: linear-gradient(135deg, #06183A 0%, #0A2E70 50%, #0A0A0B 100%); }
+  .vthumb.v-fsd     { background: linear-gradient(135deg, #062E33 0%, #084F5A 50%, #0A0A0B 100%); }
+  .vthumb.v-musk    { background: linear-gradient(135deg, #2E1F02 0%, #5C3D04 50%, #0A0A0B 100%); }
+
+  .vbody{padding:14px 16px 18px;display:flex;flex-direction:column;gap:6px}
+  .vbody h4{font-size:15px;font-weight:700;line-height:1.35;margin:0;color:var(--ink);
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  }
+  .vmeta{display:flex;justify-content:space-between;color:var(--ink-mute);font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.04em}
+
+  /* ========== FOOTER ========== */
+  footer{border-top:1px solid var(--line-mute);padding:48px 0 36px;margin-top:32px}
+  .footer__inner{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:36px}
+  @media (max-width:880px){.footer__inner{grid-template-columns:1fr 1fr;gap:28px}}
+  @media (max-width:520px){.footer__inner{grid-template-columns:1fr}}
+  .footer h5{font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-mute);margin:0 0 14px}
+  .footer ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:9px}
+  .footer ul a{color:var(--ink-mid);font-size:13.5px}
+  .footer ul a:hover{color:var(--ink)}
+  .footer__brand{display:flex;flex-direction:column;gap:14px}
+  .footer__brand p{color:var(--ink-mute);font-size:12.5px;margin:0;max-width:36ch;line-height:1.6}
+  .footer__bottom{
+    margin-top:36px;padding-top:18px;border-top:1px solid var(--line-mute);
+    display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;color:var(--ink-mute);letter-spacing:.04em;
+  }
+  .disclaimer{max-width:62ch;line-height:1.65}
+</style>
+</head>
+<body>
+
+<!-- ============ NAV ============ -->
+<header class="nav">
+  <div class="wrap nav__inner">
+    <a class="brand" href="/">
+      <object class="brand__mark" data="assets/mascot-A-cybertruck.svg" type="image/svg+xml" aria-label="TSLA Brief"></object>
+      <span class="brand__name">TSLA <em>Brief</em></span>
+    </a>
+    <nav class="nav__links" aria-label="Primary">
+      <a href="#stock">주가·실적</a>
+      <a href="#product">신차·제품</a>
+      <a href="#fsd">FSD</a>
+      <a href="#musk">머스크</a>
+      <a class="nav__cta" href="#newsletter">구독</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ============ HERO + NEWSLETTER ============ -->
+<section class="hero" id="newsletter">
+  <div class="wrap hero__inner">
+    <div>
+      <div class="hero__eyebrow">
+        <span class="hero__dot" aria-hidden="true"></span>
+        <span class="eyebrow">Daily Briefing · for shareholders</span>
+      </div>
+      <h1>노이즈 없는<br/>테슬라 <em>브리핑</em>.</h1>
+      <p class="lead">
+        SEC 문서, 어닝 콜, 머스크 게시물까지 — 흩어진 1차 자료를 매일 아침 한 통으로 정리합니다.
+        떡상도, 공포도 말하지 않습니다. 데이터와 출처만 보냅니다.
+      </p>
+      <div class="hero__meta">
+        <span>발송 <b>평일 오전 7시 KST</b></span>
+        <span>·</span>
+        <span>현재까지 <b>142회</b> 발행</span>
+        <span>·</span>
+        <span>구독자 <b>4,820명</b></span>
+      </div>
+    </div>
+
+    <form class="nl" onsubmit="event.preventDefault();alert('구독 신청 데모입니다.')">
+      <div class="nl__head">
+        <h2 class="nl__title">매일 아침 7시, 한 통.</h2>
+        <span class="nl__badge">FREE</span>
+      </div>
+      <div class="nl__row">
+        <input type="email" placeholder="your@email.com" required aria-label="이메일 주소"/>
+        <button type="submit">구독</button>
+      </div>
+      <div class="nl__hint">
+        <span>스팸 없음 · 언제든 해지</span>
+        <span><b>EST. 2025</b></span>
+      </div>
+    </form>
+  </div>
+</section>
+
+<!-- ============ STOCK WIDGET ============ -->
+<section class="stock" id="stock-widget">
+  <div class="wrap">
+    <div class="stock__head">
+      <h2 class="stock__title">TSLA · 마지막 거래 기준</h2>
+      <span class="stock__time">2026.05.21 · 16:00 EDT</span>
+    </div>
+    <div class="stock__grid">
+      <div class="kpi">
+        <span class="kpi__label">Price</span>
+        <span class="kpi__value">$278.42</span>
+        <span class="kpi__delta up">+ 1.83%  (+$5.01)</span>
+      </div>
+      <div class="kpi">
+        <span class="kpi__label">Market Cap</span>
+        <span class="kpi__value">$889.4 B</span>
+        <span class="kpi__sub">유통주식 3.19B</span>
+      </div>
+      <div class="kpi">
+        <span class="kpi__label">52W Range</span>
+        <span class="kpi__value">$182 — $312</span>
+        <span class="kpi__sub">현재 89% 구간</span>
+      </div>
+      <div class="kpi">
+        <span class="kpi__label">P/E (TTM)</span>
+        <span class="kpi__value">68.4</span>
+        <span class="kpi__sub">섹터 평균 32.1</span>
+      </div>
+      <div class="kpi">
+        <span class="kpi__label">Next Earnings</span>
+        <span class="kpi__value">Jul 23</span>
+        <span class="kpi__sub">2026 Q2 · D-63</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CATEGORY CARDS ============ -->
+<section class="cats">
+  <div class="wrap">
+    <div class="cats__head">
+      <div>
+        <h2 class="cats__title">오늘의 카테고리별 한 줄</h2>
+        <span class="cats__sub">2026.05.22 09:00 KST 기준 · 카테고리당 핵심 1건</span>
+      </div>
+      <span class="eyebrow">4 categories · daily</span>
+    </div>
+
+    <div class="cats__grid">
+      <!-- 주가·실적 -->
+      <a class="ccard is-stock" href="#" id="stock">
+        <div class="ccard__top">
+          <span class="ccard__cat">STOCK · 주가·실적</span>
+          <span class="ccard__time">3h ago</span>
+        </div>
+        <h3>Q2 가이던스 상향 <em>없음</em>. 인도량 컨센서스 <em>43.2만 대</em></h3>
+        <p class="ccard__body">월가 컨센서스는 직전 대비 -0.4%. 분석가 30명 중 21명이 "Hold". 옵션 시장은 어닝 D-day ±7% 변동성 반영.</p>
+        <div class="ccard__meta">
+          <div class="src">
+            <span><i class="d d-off"></i> 공식 1</span>
+            <span><i class="d d-press"></i> 외신 3</span>
+            <span><i class="d d-sec"></i> 1차 1</span>
+          </div>
+          <span class="ccard__cta">자세히</span>
+        </div>
+      </a>
+
+      <!-- 신차·제품 -->
+      <a class="ccard is-product" href="#" id="product">
+        <div class="ccard__top">
+          <span class="ccard__cat">PRODUCT · 신차·제품</span>
+          <span class="ccard__time">5h ago</span>
+        </div>
+        <h3>Model Y Juniper, 미국 <em>가격 인하</em> $1,000. 재고 소진 신호</h3>
+        <p class="ccard__body">기본 트림 $42,990 → $41,990. 동시에 7일 인도 가능 재고가 14개 주에서 표시 — 분기말 푸시 본격화.</p>
+        <div class="ccard__meta">
+          <div class="src">
+            <span><i class="d d-off"></i> 공식 1</span>
+            <span><i class="d d-press"></i> 외신 2</span>
+          </div>
+          <span class="ccard__cta">자세히</span>
+        </div>
+      </a>
+
+      <!-- FSD -->
+      <a class="ccard is-fsd" href="#" id="fsd">
+        <div class="ccard__top">
+          <span class="ccard__cat">FSD · 자율주행</span>
+          <span class="ccard__time">8h ago</span>
+        </div>
+        <h3>FSD <em>v13.4</em> 와이드 릴리스. 인터벤션 간격 372마일로 향상 주장</h3>
+        <p class="ccard__body">테슬라 IR 자료 기준 직전 v13.2 대비 +28%. 단, 측정 방식은 외부 검증 안 됨 — 표본 분포 미공개.</p>
+        <div class="ccard__meta">
+          <div class="src">
+            <span><i class="d d-off"></i> 공식 2</span>
+            <span><i class="d d-press"></i> 외신 1</span>
+            <span><i class="d d-rumor"></i> 추측 1</span>
+          </div>
+          <span class="ccard__cta">자세히</span>
+        </div>
+      </a>
+
+      <!-- 머스크 -->
+      <a class="ccard is-musk" href="#" id="musk">
+        <div class="ccard__top">
+          <span class="ccard__cat">MUSK · 일론 동향</span>
+          <span class="ccard__time">14h ago</span>
+        </div>
+        <h3>머스크, X에 <em>"로보택시 통합 데모"</em> 6월 예고. 회사 공식 발표는 아직</h3>
+        <p class="ccard__body">게시물 원문: "Robotaxi integrated demo by June, you'll see." IR은 같은 날 별도 코멘트 없음. 시장은 약 +3% 반응.</p>
+        <div class="ccard__meta">
+          <div class="src">
+            <span><i class="d d-off"></i> 공식 1</span>
+            <span><i class="d d-rumor"></i> 추측 2</span>
+          </div>
+          <span class="ccard__cta">자세히</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ VIDEO GRID ============ -->
+<section class="vids">
+  <div class="wrap">
+    <div class="vids__head">
+      <div>
+        <h2 class="vids__title">유튜브 — 최근 영상</h2>
+        <span class="vids__sub">평일 1편 · 주말 정리편</span>
+      </div>
+      <span class="eyebrow">latest 6</span>
+    </div>
+
+    <div class="vids__grid">
+      <a class="vcard" href="#" aria-label="영상 1">
+        <div class="vthumb v-stock">
+          <span class="vthumb__series">STOCK</span>
+          <span class="vthumb__num">Q2</span>
+          <span class="vthumb__dur">12:08</span>
+        </div>
+        <div class="vbody">
+          <h4>Q2 인도량, 왜 컨센서스가 내려가나 — 3개 시그널</h4>
+          <div class="vmeta"><span>2026.05.21</span><span>· 8.2K views</span></div>
+        </div>
+      </a>
+
+      <a class="vcard" href="#" aria-label="영상 2">
+        <div class="vthumb v-fsd">
+          <span class="vthumb__series">FSD</span>
+          <span class="vthumb__num">13.4</span>
+          <span class="vthumb__dur">09:42</span>
+        </div>
+        <div class="vbody">
+          <h4>FSD v13.4 와이드 릴리스 — 372마일 주장 분해해 보기</h4>
+          <div class="vmeta"><span>2026.05.20</span><span>· 11.5K views</span></div>
+        </div>
+      </a>
+
+      <a class="vcard" href="#" aria-label="영상 3">
+        <div class="vthumb v-product">
+          <span class="vthumb__series">PRODUCT</span>
+          <span class="vthumb__num">Y</span>
+          <span class="vthumb__dur">07:31</span>
+        </div>
+        <div class="vbody">
+          <h4>Model Y Juniper $1,000 인하 — 재고 신호인가, 가격 전략인가</h4>
+          <div class="vmeta"><span>2026.05.19</span><span>· 6.7K views</span></div>
+        </div>
+      </a>
+
+      <a class="vcard" href="#" aria-label="영상 4">
+        <div class="vthumb v-musk">
+          <span class="vthumb__series">MUSK</span>
+          <span class="vthumb__num">06</span>
+          <span class="vthumb__dur">10:15</span>
+        </div>
+        <div class="vbody">
+          <h4>머스크 "6월 로보택시 통합 데모" — 회사 공식과 무엇이 다른가</h4>
+          <div class="vmeta"><span>2026.05.18</span><span>· 14.1K views</span></div>
+        </div>
+      </a>
+
+      <a class="vcard" href="#" aria-label="영상 5">
+        <div class="vthumb v-stock">
+          <span class="vthumb__series">STOCK</span>
+          <span class="vthumb__num">W3</span>
+          <span class="vthumb__dur">15:22</span>
+        </div>
+        <div class="vbody">
+          <h4>주간 정리 — 옵션 시장이 본 TSLA 변동성 ±7%</h4>
+          <div class="vmeta"><span>2026.05.17</span><span>· 9.0K views</span></div>
+        </div>
+      </a>
+
+      <a class="vcard" href="#" aria-label="영상 6">
+        <div class="vthumb v-fsd">
+          <span class="vthumb__series">FSD</span>
+          <span class="vthumb__num">RX</span>
+          <span class="vthumb__dur">08:54</span>
+        </div>
+        <div class="vbody">
+          <h4>로보택시 운영 데이터, 외부 검증이 가능한 항목 5가지</h4>
+          <div class="vmeta"><span>2026.05.16</span><span>· 7.3K views</span></div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer>
+  <div class="wrap footer__inner">
+    <div class="footer__brand">
+      <a class="brand" href="/" style="gap:14px">
+        <object data="assets/mascot-A-cybertruck.svg" type="image/svg+xml" width="56" height="56" aria-label="TSLA Brief"></object>
+        <span class="brand__name" style="font-size:18px">TSLA <em>Brief</em></span>
+      </a>
+      <p>주주를 위한 노이즈 없는 테슬라 브리핑. 1차 자료와 공식 발언 중심, 출처를 카드에 함께 표시합니다.</p>
+    </div>
+
+    <div>
+      <h5>카테고리</h5>
+      <ul>
+        <li><a href="#stock">주가·실적</a></li>
+        <li><a href="#product">신차·제품</a></li>
+        <li><a href="#fsd">FSD</a></li>
+        <li><a href="#musk">머스크</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <h5>채널</h5>
+      <ul>
+        <li><a href="#">유튜브</a></li>
+        <li><a href="#newsletter">뉴스레터</a></li>
+        <li><a href="#">X (Twitter)</a></li>
+        <li><a href="#">RSS</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <h5>정책</h5>
+      <ul>
+        <li><a href="#">출처 표시 정책</a></li>
+        <li><a href="#">면책 고지</a></li>
+        <li><a href="#">개인정보</a></li>
+        <li><a href="#">문의</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="wrap footer__bottom">
+    <span>© 2026 TSLA BRIEF · NOT INVESTMENT ADVICE</span>
+    <span class="disclaimer">본 사이트는 정보 제공을 목적으로 하며, 투자 권유가 아닙니다. 모든 거래 결정의 책임은 본인에게 있습니다.</span>
+  </div>
+</footer>
+
+</body>
+</html>

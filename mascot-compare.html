@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>TSLA Brief · 마스코트 후보 비교</title>
+<style>
+  :root{
+    --bg:#0A0A0B; --bg-2:#111114; --bg-3:#181820;
+    --line:#2A2A33; --ink:#F4F4F5; --ink-mid:#B8B8C0; --ink-mute:#707078;
+    --tesla-red:#E31937; --red-deep:#A30E25;
+  }
+  *{box-sizing:border-box} html,body{margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);font-family:"Pretendard Variable",Pretendard,system-ui,sans-serif;line-height:1.6}
+  .wrap{max-width:1100px;margin:0 auto;padding:48px 24px}
+  h1{font-size:34px;font-weight:800;margin:0 0 6px}
+  .lead{color:var(--ink-mid);margin:0 0 36px;font-size:15px}
+  .eyebrow{font-size:11px;letter-spacing:0.22em;color:var(--ink-mute);font-weight:600;text-transform:uppercase;font-family:"IBM Plex Mono",ui-monospace,monospace}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+  @media(max-width:760px){.grid{grid-template-columns:1fr}}
+  .card{background:var(--bg-2);border:1px solid var(--line);border-radius:18px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:14px;transition:border-color .25s ease,box-shadow .25s ease}
+  .card:hover{border-color:var(--tesla-red);box-shadow:0 0 0 1px rgba(227,25,55,.25),0 12px 40px -10px rgba(227,25,55,.35)}
+  .card svg{width:220px;height:220px}
+  .name{font-size:18px;font-weight:700;margin:0}
+  .tagline{color:var(--ink-mid);font-size:13px;text-align:center;margin:0;max-width:34ch}
+  .pros{font-size:12px;color:var(--ink-mute);text-align:center;max-width:36ch;line-height:1.55;font-family:"IBM Plex Mono",ui-monospace,monospace}
+  .row{display:flex;gap:16px;align-items:center;margin:32px 0 8px}
+  .badge{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10px;letter-spacing:.18em;padding:4px 8px;border:1px solid var(--line);border-radius:999px;color:var(--ink-mid)}
+  /* size variants demo */
+  .sizes{display:flex;align-items:center;gap:18px;justify-content:center;border-top:1px dashed var(--line);padding-top:16px;width:100%}
+  .sizes .lbl{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10px;color:var(--ink-mute)}
+  .sizes svg{display:block}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <span class="eyebrow">Mascot Candidates</span>
+  <h1>TSLA Brief 마스코트 후보 비교</h1>
+  <p class="lead">두 후보 모두 다크 모드 / 레드 액센트와 어울리도록 설계. nav 로고(28~32px), footer 브랜드(80px), 검증 도장(220px) 3가지 크기에서 동작 확인.</p>
+
+  <div class="grid">
+    <!-- A -->
+    <div class="card">
+      <span class="badge">CANDIDATE A</span>
+      <object data="assets/mascot-A-cybertruck.svg" type="image/svg+xml" width="220" height="220" aria-label="Cybertruck mascot"></object>
+      <h2 class="name">사이버트럭 실루엣</h2>
+      <p class="tagline">차량 사이드뷰 추상화. "제품 회사"라는 정체성을 가장 직접적으로 표현.</p>
+      <p class="pros">+ 즉시 인식 가능<br/>+ 영상 인트로에서 좌→우 슬라이드 모션 자연스러움<br/>− 작은 사이즈(28px)에서 디테일 손실 위험</p>
+      <div class="sizes">
+        <span class="lbl">28</span>
+        <object data="assets/mascot-A-cybertruck.svg" type="image/svg+xml" width="28" height="28"></object>
+        <span class="lbl">48</span>
+        <object data="assets/mascot-A-cybertruck.svg" type="image/svg+xml" width="48" height="48"></object>
+        <span class="lbl">80</span>
+        <object data="assets/mascot-A-cybertruck.svg" type="image/svg+xml" width="80" height="80"></object>
+      </div>
+    </div>
+
+    <!-- B -->
+    <div class="card">
+      <span class="badge">CANDIDATE B</span>
+      <object data="assets/mascot-B-optimus.svg" type="image/svg+xml" width="220" height="220" aria-label="Optimus head mascot"></object>
+      <h2 class="name">옵티머스 헤드</h2>
+      <p class="tagline">로봇 헤드 추상화. "테크·AI 회사" 정체성. 친근하지만 너무 귀엽지 않게.</p>
+      <p class="pros">+ 작은 사이즈에서도 식별성 우수<br/>+ 표정/포즈 베리에이션 확장 용이 (각도, 컬러)<br/>− 차량 직접 연상은 약함</p>
+      <div class="sizes">
+        <span class="lbl">28</span>
+        <object data="assets/mascot-B-optimus.svg" type="image/svg+xml" width="28" height="28"></object>
+        <span class="lbl">48</span>
+        <object data="assets/mascot-B-optimus.svg" type="image/svg+xml" width="48" height="48"></object>
+        <span class="lbl">80</span>
+        <object data="assets/mascot-B-optimus.svg" type="image/svg+xml" width="80" height="80"></object>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <span class="badge">RECOMMENDATION</span>
+    <p style="margin:0;color:var(--ink-mid);font-size:14px">
+      소형 사이즈 시인성과 확장성을 고려해 <b style="color:var(--ink)">B (옵티머스 헤드)</b> 권장. 단, "투자자가 보는 채널은 차량이 더 직관적"이라는 판단이면 A로.
+    </p>
+  </div>
+</div>
+</body>
+</html>
