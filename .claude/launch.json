@@ -6,6 +6,12 @@
       "runtimeExecutable": "python3",
       "runtimeArgs": ["-m", "http.server", "4173"],
       "port": 4173
+    },
+    {
+      "name": "tsla-shorts-studio",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "/Users/bb313/my-shorts-generator", "run", "dev"],
+      "port": 3000
     }
   ]
 }

@@ -1,41 +1,61 @@
 {
-  "asOf": "2026.05.22 09:00 KST 기준 · 카테고리당 핵심 1건",
+  "asOf": "2026-05-22 13:50 UTC 기준 · 카테고리당 핵심 1건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "title": "Q2 가이던스 상향 <em>없음</em>. 인도량 컨센서스 <em>43.2만 대</em>",
-      "body": "월가 컨센서스는 직전 대비 -0.4%. 분석가 30명 중 21명이 \"Hold\". 옵션 시장은 어닝 D-day ±7% 변동성 반영.",
-      "sources": { "sec": 1, "official": 1, "press": 3, "rumor": 0 },
-      "href": "#stock"
+      "time": "13m ago",
+      "title": "NIO Drops 6% on First-Ever Profit, Tesla Moves Up 2%: The Two-Speed EV Trade in Action",
+      "body": "NIO Drops 6% on First-Ever Profit, Tesla Moves Up 2%: The Two-Speed EV Trade in Action 24/7 Wall St.",
+      "sources": {
+        "sec": 0,
+        "official": 0,
+        "press": 1,
+        "rumor": 0
+      },
+      "href": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeW03TEdjR3hQWE1oU05hOVhLbFQtZEVqajIwNFR3Wjllb1FkUHV4dzZqVU5xLVduVTE1V3ZDU3A1U3RSSml4bGtzMlVHcElmN1ZkQ2NvQ1l0ZkJpYkltcWVsZk0wdlNGZm16YnR6QW5TczN6bS1RZS1JUVNwd1BGd3dVcmxWYU5tbC1qaEtCUjYzVkhwZERlRWMyQW9HdVVrOFRpOXIyYWxsTFZKdjZBc1JfdWlEcFN4M1FXajN2X0Rib21V?oc=5"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 신차·제품",
-      "time": "5h ago",
-      "title": "Model Y Juniper, 미국 <em>가격 인하</em> $1,000. 재고 소진 신호",
-      "body": "기본 트림 $42,990 → $41,990. 동시에 7일 인도 가능 재고가 14개 주에서 표시 — 분기말 푸시 본격화.",
-      "sources": { "sec": 0, "official": 1, "press": 2, "rumor": 0 },
-      "href": "#product"
+      "time": "21m ago",
+      "title": "Tesla Recalls Model Y SUVs Over Missing Weight Labels",
+      "body": "Tesla is recalling 14,575 Model Y SUVs in the U.S.",
+      "sources": {
+        "sec": 1,
+        "official": 0,
+        "press": 0,
+        "rumor": 0
+      },
+      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-recalls-model-y-suvs-132942004.html?.tsrc=rss"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율주행",
-      "time": "8h ago",
-      "title": "FSD <em>v13.4</em> 와이드 릴리스. 인터벤션 간격 372마일로 향상 주장",
-      "body": "테슬라 IR 자료 기준 직전 v13.2 대비 +28%. 단, 측정 방식은 외부 검증 안 됨 — 표본 분포 미공개.",
-      "sources": { "sec": 0, "official": 2, "press": 1, "rumor": 1 },
-      "href": "#fsd"
+      "time": "1h ago",
+      "title": "[Gasgoo Express] Tesla Officially Announces Supervised FSD Rollout in China; NVIDIA Net Income Surges 211%; Oil Prices Raised",
+      "body": "[Gasgoo Express] Tesla Officially Announces Supervised FSD Rollout in China; NVIDIA Net Income Surges 211%; Oil Prices Raised Gasgoo",
+      "sources": {
+        "sec": 0,
+        "official": 0,
+        "press": 1,
+        "rumor": 0
+      },
+      "href": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVGhfSEJiLXJOSFR1ZjJXMEF6bWtIdUFuNjlETWt5MS1xQWNyeS14OTQ3R09QeG5DMVNsT2Q2R3hyYUJDTnBDUmVTNGtMdVdnS1g5cm1CNjhqbUpNcU0zYVhpX0xrR1JNbkxFclItZTJ1d0xKUnNleDBzQ3U5ZnNxVWRiTjJicm1ETm5qUU9ISUhfQnpWN0JOckhac21CY0hHQUZ5Uy1MS3ZLVEdfOGYyYXR2cWFGekVKaGY4YkZzVXlCYVpiakg4eUZicnpoalZGZTBsRUMxUHJidHUwWmUxdlhSRVctRUZfNS1wZVZMTFhFcXJZSnNYSWJtSWt4V20zdmNsYzgtNzNGVWl4ak9r?oc=5"
     },
     {
       "category": "musk",
       "categoryLabel": "MUSK · 일론 동향",
-      "time": "14h ago",
-      "title": "머스크, X에 <em>\"로보택시 통합 데모\"</em> 6월 예고. 회사 공식 발표는 아직",
-      "body": "게시물 원문: \"Robotaxi integrated demo by June, you'll see.\" IR은 같은 날 별도 코멘트 없음. 시장은 약 +3% 반응.",
-      "sources": { "sec": 0, "official": 1, "press": 0, "rumor": 2 },
-      "href": "#musk"
+      "time": "1h ago",
+      "title": "TSLA stock rises premarket despite Model Y recalls — retail expects Musk to reward Tesla holders in 'overpriced' IPO",
+      "body": "TSLA stock rises premarket despite Model Y recalls — retail expects Musk to reward Tesla holders in 'overpriced' IPO MSN",
+      "sources": {
+        "sec": 0,
+        "official": 0,
+        "press": 4,
+        "rumor": 0
+      },
+      "href": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNlJLSDJ5Q2hCTlRhR0s0UHpPMUJIYXNnZzVMWE5hZlZMVElFZ0tlT0xvQ0hYRUluMU5XaGRIZ29XS29wUkhHanVaZjFCZG9ndVAyYmd3S3BCVGE1NW9JX0I2bzBzUDdVWUJkZnEydHlPVlUtZ3k0ZnRmdDRiMTBua2ZETThpV2ZFZlZiaGJTMm13aDc2R0ZKazF4cVhwNWRtWC1wWXFJN2E5ZEIyUnRYbm9WS3ZpUmx2V0RDQWlVeVlrajgzT1JCVDVWY0V4TGRKNXlsblhfZndkVnh1dlNaNmcyZkctTmI0UlBURzZWMlczczg?oc=5"
     }
   ]
 }
