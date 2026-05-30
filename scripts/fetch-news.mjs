@@ -1,19 +1,21 @@
 #!/usr/bin/env node
 /**
- * TSLA Brief — RSS → data/cards.json 페처
+ * TSLA Brief — RSS → data/raw-cards.json 페처 (v2)
  *
  *   node scripts/fetch-news.mjs
  *
- * - 카테고리별 RSS 1~2개 fetch → 카테고리당 최신 1건 선정
- * - 도메인 기반 출처 4단계 라벨링 (sec / official / press / rumor)
- * - 네트워크 실패 시 기존 cards.json 유지 (덮어쓰기 안 함)
+ * v2 변경 (vs v1)
+ *  - 카테고리당 1건 → top 5건 (총 ~20건 후보) — 한국어 정제 시 선택 폭 ↑
+ *  - href 자동 변환: news.google.com/rss/articles/... → 매체 홈 (sourceUrl 기반)
+ *  - 출력 스키마를 cards.json 과 통일 — 정제 단계에서 slug/summary/title `<em>` 만 채우면 됨
+ *  - 중복 제거 (같은 host + 같은 prefix 4단어)
+ *  - sources 카운트 필드 제거 (build.mjs 가 안 씀, sourceLabel 단일 값으로 충분)
  *
- * 의존성 0. Node 20+ 권장.
+ * 의존성 0. Node 22+ 권장.
  *
- * 한계 (1단계):
- *  - LLM 정제 없음 — 제목·요약은 RSS 원문 그대로
- *  - <em> 강조 자동 부여 안 됨
- *  - 출처 카운트는 카드별 "참여한 소스 수" 로 단순화 (같은 사건 다중 매체 클러스터링은 다음 단계)
+ * 한계
+ *  - 한국어 정제 없음 — 제목·요약은 RSS 영문 원문 그대로 (다음 단계에서 처리)
+ *  - href 는 매체 홈 (개별 기사 URL 풀이는 별도 작업 — Google News redirect 추적 필요)
  */
 
 import { readFile, writeFile } from "node:fs/promises";
@@ -247,8 +249,27 @@ async function fetchRss(url) {
   return await res.text();
 }
 
+// ─────────────────────────────────────────────────────────
+// href 정규화 — Google News redirect URL 을 매체 홈으로 대체
+// (개별 기사 URL 풀이는 redirect 추적이 필요해 별도 작업으로 둠)
+// ─────────────────────────────────────────────────────────
+function normalizeHref(it) {
+  const link = it.link || "";
+  if (!/news\.google\.com\/rss/i.test(link)) return link;
+  // Google News redirect 토큰 — sourceUrl 이 있으면 그 호스트의 홈으로
+  try {
+    const u = new URL(it.sourceUrl || link);
+    return `${u.protocol}//${u.hostname}/`;
+  } catch {
+    return link;
+  }
+}
+
+// 카테고리당 최대 N건 (한국어 정제 시 선택 폭)
+const N_PER_CATEGORY = 5;
+
 async function main() {
-  console.log(`[fetch-news] starting · ${SOURCES.length} sources`);
+  console.log(`[fetch-news] starting · ${SOURCES.length} sources · top ${N_PER_CATEGORY} per category`);
 
   // 카테고리별로 후보 모음
   const buckets = { stock: [], product: [], fsd: [], musk: [] };
@@ -261,16 +282,18 @@ async function main() {
         const host = hostForLabel(it);
         const label = (host && labelForUrl(`https://${host}/`)) || src.defaultLabel;
         const title = cleanTitle(it.title, it.sourceName);
+        if (!title) continue;
         const cat = inferCategory(title, it.description, src.category);
         buckets[cat].push({
           title,
           link: it.link,
+          sourceUrl: it.sourceUrl,
           description: it.description,
           pubDate: it.pubDate,
           ts: Date.parse(it.pubDate) || 0,
           label,
           host,
-          sourceName: it.sourceName,
+          sourceName: it.sourceName || host,
         });
       }
       console.log(`[fetch-news] ${src.category.padEnd(8)} ← ${items.length.toString().padStart(3)} items · ${new URL(src.url).hostname}`);
@@ -279,64 +302,56 @@ async function main() {
     }
   }));
 
-  // 카테고리당 최신 1건 + 같은 사건에 모인 소스 수로 카운트
+  // 카테고리당 top N건 + 중복 제거 (같은 host + 같은 prefix 4단어)
   const cards = [];
   for (const [cat, items] of Object.entries(buckets)) {
     if (items.length === 0) continue;
     items.sort((a, b) => b.ts - a.ts);
-    const top = items[0];
+    const seen = new Set();
+    let picked = 0;
+    for (const it of items) {
+      if (picked >= N_PER_CATEGORY) break;
+      const prefKey = `${it.host}|${it.title.split(/\s+/).slice(0, 4).join(" ").toLowerCase()}`;
+      if (seen.has(prefKey)) continue;
+      seen.add(prefKey);
+      picked += 1;
 
-    // 카테고리 내에서 같은 host 또는 유사 제목 카운트 — 단순화: top.host 외 다른 host 가 등장한 횟수
-    const sources = { sec: 0, official: 0, press: 0, rumor: 0 };
-    sources[top.label] = 1;
-    // 같은 카테고리 내 다른 매체가 같은 사건을 다뤘다면 추가 카운트
-    // (간이 클러스터링: 첫 4단어 공유 시 같은 사건으로 간주)
-    const topPrefix = top.title.split(/\s+/).slice(0, 4).join(" ").toLowerCase();
-    for (const it of items.slice(1)) {
-      if (!topPrefix) break;
-      const pref = it.title.split(/\s+/).slice(0, 4).join(" ").toLowerCase();
-      if (pref === topPrefix && it.host !== top.host) {
-        sources[it.label] = (sources[it.label] || 0) + 1;
-      }
+      const pubIso = it.ts ? new Date(it.ts).toISOString() : "";
+      cards.push({
+        category: cat,
+        categoryLabel: CATEGORY_LABELS[cat],
+        time: timeAgo(it.pubDate),
+        pubDate: pubIso,
+        title: it.title,
+        body: it.description.slice(0, 220) + (it.description.length > 220 ? "…" : ""),
+        sourceName: it.sourceName,
+        sourceLabel: it.label,
+        slug: "",         // 정제 단계에서 채움
+        summary: "",      // 정제 단계에서 채움
+        href: normalizeHref(it),
+      });
     }
-
-    cards.push({
-      category: cat,
-      categoryLabel: CATEGORY_LABELS[cat],
-      time: timeAgo(top.pubDate),
-      title: top.title,
-      body: top.description.slice(0, 220) + (top.description.length > 220 ? "…" : ""),
-      sources,
-      href: top.link,
-      _debug: { host: top.host, pubDate: top.pubDate },
-    });
   }
 
   if (cards.length === 0) {
-    console.warn("[fetch-news] 카드를 한 건도 못 가져왔습니다. 기존 cards.json 유지.");
+    console.warn("[fetch-news] 카드를 한 건도 못 가져왔습니다. 기존 raw-cards.json 유지.");
     process.exit(0);
   }
 
-  // 디버그 필드 제거
-  let clean = cards.map(({ _debug, ...rest }) => rest);
-
-  // 카테고리 표시 순서 보장: stock → product → fsd → musk
-  const ORDER = ["stock", "product", "fsd", "musk"];
-  clean.sort((a, b) => ORDER.indexOf(a.category) - ORDER.indexOf(b.category));
-
-  // 한국어 톤 정제는 이 스크립트의 책임이 아님 —
-  // raw-cards.json 만 저장하고, data/cards.json 갱신은 별도 단계에서 처리한다.
-  // (Claude 구독 내 수동 정제 또는 향후 API 키가 갖춰질 때 llm-refine.mjs 호출.)
+  // 정렬: 최신순 (라이브 사이트 표시 순)
+  cards.sort((a, b) => Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
 
   const out = {
-    asOf: `${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC 기준 · 카테고리당 핵심 1건`,
-    items: clean,
+    asOf: `${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC 기준 · 카테고리당 top ${N_PER_CATEGORY}건`,
+    items: cards,
   };
 
   await writeFile(OUT_PATH, JSON.stringify(out, null, 2) + "\n", "utf8");
-  console.log(`[fetch-news] OK → ${path.relative(ROOT, OUT_PATH)} · ${clean.length} cards`);
-  for (const c of clean) {
-    console.log(`  · ${c.category.padEnd(8)} ${c.sources.sec}/${c.sources.official}/${c.sources.press}/${c.sources.rumor}  ${c.title.slice(0, 70)}`);
+  console.log(`[fetch-news] OK → ${path.relative(ROOT, OUT_PATH)} · ${cards.length} cards`);
+  // 카테고리별 요약 로그
+  const byCat = cards.reduce((acc, c) => ((acc[c.category] = (acc[c.category] || 0) + 1), acc), {});
+  for (const cat of ["stock", "product", "fsd", "musk"]) {
+    console.log(`  · ${cat.padEnd(8)} ${(byCat[cat] || 0).toString().padStart(2)}건`);
   }
 }
 
