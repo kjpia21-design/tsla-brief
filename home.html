@@ -250,7 +250,8 @@
      HOT NEWS — 가격 바 바로 밑. 제목만 5건, 클릭 → 상세.
      티커처럼 빠르게 훑는 영역.
      ============================================================ */
-  .hot-news{padding:4px 0 26px}
+  /* 핫 뉴스 섹션 — 정식 발행 시작 시 display 복원. 1장만 있을 때 "TOP 5" 톤과 어색해서 임시 숨김. */
+  .hot-news{padding:4px 0 26px;display:none}
   .hot-news__head{
     display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:10px;
   }
@@ -680,7 +681,7 @@
   </div>
 </section>
 
-<!-- ============ HOT NEWS (가격 바 밑, 제목 5개) ============ -->
+<!-- ============ HOT NEWS — 정식 발행 시작 시까지 CSS 로 숨김 (.hot-news{display:none}) ============ -->
 <section class="hot-news" id="hot">
   <div class="wrap">
     <div class="hot-news__head">
