@@ -4,7 +4,7 @@
     {
       "name": "tsla-static",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "4173"],
+      "runtimeArgs": ["-m", "http.server", "4173", "--directory", "/Users/bb313/Documents/Claude/Projects/테슬라 정보 랜딩 페이지 및 영상 채널 만들기/dist"],
       "port": 4173
     },
     {

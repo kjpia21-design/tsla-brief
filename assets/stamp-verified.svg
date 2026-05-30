@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  TSLA Brief — "출처 검증" 도장 (verified stamp)
+  허라비 bee-stamp-verified 패턴 차용. 다크 베이스 + 레드 액센트.
+
+  포지셔닝:
+    - 본문 인용·발췌 블록 우측 상단에 배치 (220px 정도)
+    - 출처가 SEC/공식/외신 중 하나 이상으로 "확인됨" 인 콘텐츠에 부착
+    - 시각: 원형 도장 + 외곽 톱니 + 내부 'VERIFIED · 출처' + 4단계 도트 4개
+
+  컬러는 직접 박힘 (페이지에 끼우기 쉽도록). 다른 톤이 필요하면 inline 으로 fill 만 갈아끼면 됨.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 220 220" width="220" height="220"
+     role="img" aria-labelledby="stamp-title stamp-desc">
+  <title id="stamp-title">출처 검증 도장</title>
+  <desc id="stamp-desc">테슬라 브리핑 — 1차 자료·공식 발언·외신·추측 4단계 출처가 함께 검증된 콘텐츠임을 표시하는 도장.</desc>
+
+  <defs>
+    <radialGradient id="stamp-bg" cx="50%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#1B1B22" />
+      <stop offset="100%" stop-color="#0A0A0B" />
+    </radialGradient>
+
+    <!-- 톱니 외곽선 — 32개 작은 사각형이 원을 따라 배치되는 효과를 path 로 표현 -->
+    <path id="stamp-tooth"
+          d="M 110 6 L 113 0 L 117 0 L 120 6 Z" fill="#2A2A33" />
+  </defs>
+
+  <!-- 외곽 톱니 (회전 복제 32개) -->
+  <g>
+    <use href="#stamp-tooth" transform="rotate(0 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(11.25 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(22.5 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(33.75 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(45 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(56.25 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(67.5 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(78.75 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(90 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(101.25 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(112.5 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(123.75 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(135 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(146.25 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(157.5 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(168.75 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(180 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(191.25 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(202.5 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(213.75 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(225 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(236.25 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(247.5 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(258.75 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(270 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(281.25 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(292.5 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(303.75 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(315 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(326.25 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(337.5 110 110)" />
+    <use href="#stamp-tooth" transform="rotate(348.75 110 110)" />
+  </g>
+
+  <!-- 외곽 링 -->
+  <circle cx="110" cy="110" r="102" fill="url(#stamp-bg)" stroke="#2A2A33" stroke-width="2" />
+  <circle cx="110" cy="110" r="96"  fill="none" stroke="#E31937" stroke-width="1.5" opacity="0.7" />
+
+  <!-- 회전 텍스트 ("TSLA BRIEF · SOURCE VERIFIED" 두 번) -->
+  <defs>
+    <path id="stamp-arc-top"
+          d="M 30 110 A 80 80 0 0 1 190 110"
+          fill="none" />
+    <path id="stamp-arc-bot"
+          d="M 30 110 A 80 80 0 0 0 190 110"
+          fill="none" />
+  </defs>
+  <text font-family="ui-monospace, 'IBM Plex Mono', SFMono-Regular, Menlo, monospace"
+        font-size="11" font-weight="700" letter-spacing="4"
+        fill="#B8B8C0">
+    <textPath href="#stamp-arc-top" startOffset="50%" text-anchor="middle">
+      TSLA · BRIEF · SOURCE VERIFIED
+    </textPath>
+  </text>
+  <text font-family="ui-monospace, 'IBM Plex Mono', SFMono-Regular, Menlo, monospace"
+        font-size="10" font-weight="600" letter-spacing="3"
+        fill="#707078">
+    <textPath href="#stamp-arc-bot" startOffset="50%" text-anchor="middle">
+      SEC · OFFICIAL · PRESS · RUMOR
+    </textPath>
+  </text>
+
+  <!-- 중앙 체크 마크 + 라벨 -->
+  <g transform="translate(110 100)">
+    <!-- 체크 배경 원 -->
+    <circle cx="0" cy="0" r="28" fill="#E31937" opacity="0.12" />
+    <circle cx="0" cy="0" r="28" fill="none" stroke="#E31937" stroke-width="1.5" />
+    <!-- 체크 마크 -->
+    <path d="M -12 -1 L -4 9 L 14 -10"
+          fill="none" stroke="#E31937" stroke-width="3.5"
+          stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- 하단 4단계 도트 (SEC / OFFICIAL / PRESS / RUMOR) -->
+  <g transform="translate(110 152)">
+    <circle cx="-30" cy="0" r="4.5" fill="#16A34A" />
+    <circle cx="-10" cy="0" r="4.5" fill="#1B6CFF" />
+    <circle cx="10"  cy="0" r="4.5" fill="#F59E0B" />
+    <circle cx="30"  cy="0" r="4.5" fill="#9CA3AF" />
+  </g>
+
+  <!-- 발급 메타 -->
+  <text x="110" y="178" text-anchor="middle"
+        font-family="ui-monospace, 'IBM Plex Mono', SFMono-Regular, Menlo, monospace"
+        font-size="9" letter-spacing="2.5" font-weight="600"
+        fill="#707078">
+    EST. 2026 · TESLABRIEFING
+  </text>
+</svg>

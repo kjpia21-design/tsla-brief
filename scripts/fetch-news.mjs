@@ -21,7 +21,9 @@ import { fileURLToPath } from "node:url";
 import path from "node:path";
 
 const ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
-const OUT_PATH = path.join(ROOT, "data", "cards.json");
+// raw 영문 RSS 출력 — 매일 cron 으로 덮어씌워짐.
+// 한국어 정제분(data/cards.json)은 별도 흐름으로 갱신 (Claude 구독 내 수동 정제).
+const OUT_PATH = path.join(ROOT, "data", "raw-cards.json");
 
 // ─────────────────────────────────────────────────────────
 // RSS 소스 정의
@@ -99,10 +101,12 @@ function labelForUrl(link) {
 // ─────────────────────────────────────────────────────────
 
 const KEYWORDS = {
-  fsd:     [/\bFSD\b/i, /full[\s-]?self[\s-]?driving/i, /autopilot/i, /robotaxi/i, /\bv1[3-5]\b/i, /autonom/i],
-  musk:    [/\bElon\b/i, /\bMusk\b/i],
-  stock:   [/\bstock\b/i, /\bshares?\b/i, /\bvaluation\b/i, /\bearnings?\b/i, /\bdeliveries\b/i, /\b(Q[1-4]|quarter)\b/i, /\banalyst/i, /\bprice target/i, /\bmarket cap/i],
-  product: [/\bModel [SX3Y]\b/i, /\bCybertruck\b/i, /\bRoadster\b/i, /\bOptimus\b/i, /\bPowerwall\b/i, /\bMegapack\b/i, /\b(price cut|trim|refresh|juniper)\b/i],
+  fsd:     [/\bFSD\b/i, /full[\s-]?self[\s-]?driving/i, /autopilot/i, /robotaxi\b/i, /robo[\s-]?taxi/i, /cybercab/i, /\bv1[3-5]\b/i, /autonom/i],
+  // ELON 카테고리 — Musk 직접 발언 + SpaceX/X/xAI/Neuralink/Boring Co 등 타사 + 경영 관련 발언
+  musk:    [/\bElon\b/i, /\bMusk\b/i, /\bSpaceX\b/i, /\bStarship\b/i, /\bStarlink\b/i, /\bxAI\b/i, /\bGrok\b/i, /\bNeuralink\b/i, /\bBoring (Co|Company)\b/i, /@elonmusk/i],
+  stock:   [/\bstock\b/i, /\bshares?\b/i, /\bvaluation\b/i, /\bearnings?\b/i, /\bdeliveries\b/i, /\b(Q[1-4]|quarter)\b/i, /\banalyst/i, /\bprice target/i, /\bmarket cap/i, /\bdividend/i, /\bbuyback/i],
+  // PRODUCT — 차량 + 에너지(Powerwall/Megapack/Solar) + 옵티머스
+  product: [/\bModel [SX3Y]\b/i, /\bCybertruck\b/i, /\bRoadster\b/i, /\bSemi\b/i, /\bOptimus\b/i, /\bPowerwall\b/i, /\bMegapack\b/i, /\bSolar Roof\b/i, /\bsupercharger/i, /\b(price cut|trim|refresh|juniper|highland)\b/i, /\bbattery (factory|plant|cell)/i],
 };
 
 function inferCategory(title, summary, fallback) {
@@ -228,9 +232,9 @@ function timeAgo(pubDateStr) {
 
 const CATEGORY_LABELS = {
   stock:   "STOCK · 주가·실적",
-  product: "PRODUCT · 신차·제품",
-  fsd:     "FSD · 자율주행",
-  musk:    "MUSK · 일론 동향",
+  product: "PRODUCT · 차량·에너지·옵티머스",
+  fsd:     "FSD · 자율·로보택시",
+  musk:    "ELON · 일론 소식",
 };
 
 async function fetchRss(url) {
@@ -314,11 +318,15 @@ async function main() {
   }
 
   // 디버그 필드 제거
-  const clean = cards.map(({ _debug, ...rest }) => rest);
+  let clean = cards.map(({ _debug, ...rest }) => rest);
 
   // 카테고리 표시 순서 보장: stock → product → fsd → musk
   const ORDER = ["stock", "product", "fsd", "musk"];
   clean.sort((a, b) => ORDER.indexOf(a.category) - ORDER.indexOf(b.category));
+
+  // 한국어 톤 정제는 이 스크립트의 책임이 아님 —
+  // raw-cards.json 만 저장하고, data/cards.json 갱신은 별도 단계에서 처리한다.
+  // (Claude 구독 내 수동 정제 또는 향후 API 키가 갖춰질 때 llm-refine.mjs 호출.)
 
   const out = {
     asOf: `${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC 기준 · 카테고리당 핵심 1건`,

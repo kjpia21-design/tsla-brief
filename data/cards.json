@@ -1,61 +1,109 @@
 {
-  "asOf": "2026-05-22 13:50 UTC 기준 · 카테고리당 핵심 1건",
+  "asOf": "2026-05-31 09:00 KST · 최신순",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "13m ago",
-      "title": "NIO Drops 6% on First-Ever Profit, Tesla Moves Up 2%: The Two-Speed EV Trade in Action",
-      "body": "NIO Drops 6% on First-Ever Profit, Tesla Moves Up 2%: The Two-Speed EV Trade in Action 24/7 Wall St.",
-      "sources": {
-        "sec": 0,
-        "official": 0,
-        "press": 1,
-        "rumor": 0
-      },
-      "href": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeW03TEdjR3hQWE1oU05hOVhLbFQtZEVqajIwNFR3Wjllb1FkUHV4dzZqVU5xLVduVTE1V3ZDU3A1U3RSSml4bGtzMlVHcElmN1ZkQ2NvQ1l0ZkJpYkltcWVsZk0wdlNGZm16YnR6QW5TczN6bS1RZS1JUVNwd1BGd3dVcmxWYU5tbC1qaEtCUjYzVkhwZERlRWMyQW9HdVVrOFRpOXIyYWxsTFZKdjZBc1JfdWlEcFN4M1FXajN2X0Rib21V?oc=5"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 신차·제품",
-      "time": "21m ago",
-      "title": "Tesla Recalls Model Y SUVs Over Missing Weight Labels",
-      "body": "Tesla is recalling 14,575 Model Y SUVs in the U.S.",
-      "sources": {
-        "sec": 1,
-        "official": 0,
-        "press": 0,
-        "rumor": 0
-      },
-      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-recalls-model-y-suvs-132942004.html?.tsrc=rss"
+      "time": "8m ago",
+      "pubDate": "2026-05-31T08:52:00Z",
+      "title": "엔비디아 휴앙, 인간형 로봇 TAM <em>40조 달러</em> 발언",
+      "body": "엔비디아 CEO가 인간형 로봇 시장을 1913년 자동차 조립 라인에 비유. 테슬라 옵티머스 포지셔닝과 직접 맞물리는 시장 사이즈 신호로 외신이 다뤘다.",
+      "sourceName": "The Motley Fool",
+      "sourceLabel": "press",
+      "slug": "stock-2026-05-31-nvda-40t-robot-tam",
+      "summary": "엔비디아 CEO 젠슨 황이 인간형 로봇이 향후 약 40조 달러 규모의 잠재 시장(TAM)을 형성할 것이라고 발언했다. 1913년 자동차 조립 라인의 등장에 비유하면서, 시장 폭발 시점에는 \"곡괭이와 삽(pick-and-shovel)\" 역할의 부품·인프라 기업이 가장 유리하다는 패턴을 강조했다.\n\n테슬라 옵티머스의 시장 포지셔닝과 정면으로 맞물리는 시장 사이즈 시그널이라 24/7 Wall St. 가 같은 톤으로 다뤘다. 단, 발언은 엔비디아 GPU 수요 관점에서 나온 것이고 테슬라 가이던스가 아니라는 점, 그리고 40조 달러는 TAM(잠재 시장) 수치이지 단기 매출 전망이 아니라는 점 두 가지는 분리해서 봐야 한다.\n\n주가 측면에서 옵티머스 모멘텀이 한 번 더 활성화될 가능성. 단정적 매수 시그널은 아님.",
+      "href": "https://www.fool.com/investing/2026/05/30/pick-shovel-ai-stock-meta-tsla-avgo-trillion/?.tsrc=rss"
     },
     {
       "category": "fsd",
-      "categoryLabel": "FSD · 자율주행",
-      "time": "1h ago",
-      "title": "[Gasgoo Express] Tesla Officially Announces Supervised FSD Rollout in China; NVIDIA Net Income Surges 211%; Oil Prices Raised",
-      "body": "[Gasgoo Express] Tesla Officially Announces Supervised FSD Rollout in China; NVIDIA Net Income Surges 211%; Oil Prices Raised Gasgoo",
-      "sources": {
-        "sec": 0,
-        "official": 0,
-        "press": 1,
-        "rumor": 0
-      },
-      "href": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVGhfSEJiLXJOSFR1ZjJXMEF6bWtIdUFuNjlETWt5MS1xQWNyeS14OTQ3R09QeG5DMVNsT2Q2R3hyYUJDTnBDUmVTNGtMdVdnS1g5cm1CNjhqbUpNcU0zYVhpX0xrR1JNbkxFclItZTJ1d0xKUnNleDBzQ3U5ZnNxVWRiTjJicm1ETm5qUU9ISUhfQnpWN0JOckhac21CY0hHQUZ5Uy1MS3ZLVEdfOGYyYXR2cWFGekVKaGY4YkZzVXlCYVpiakg4eUZicnpoalZGZTBsRUMxUHJidHUwWmUxdlhSRVctRUZfNS1wZVZMTFhFcXJZSnNYSWJtSWt4V20zdmNsYzgtNzNGVWl4ak9r?oc=5"
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "42m ago",
+      "pubDate": "2026-05-31T08:18:00Z",
+      "title": "FSD 기능 둘러싼 <em>395만 달러</em> 집단 소송",
+      "body": "GuruFocus 보도로 FSD 광고·기능 표시 관련 집단 소송이 제기됐다. 단일 매체 보도 단계, 회사 공식 코멘트는 아직 없다.",
+      "sourceName": "GuruFocus",
+      "sourceLabel": "press",
+      "slug": "fsd-2026-05-31-class-action-lawsuit-395m",
+      "summary": "테슬라가 FSD(Full Self-Driving) 광고와 실제 기능 표시 간 차이를 둘러싸고 집단 소송에 직면했다고 GuruFocus 가 보도했다. 청구 금액은 약 395만 달러 수준으로, 원고측은 \"광고된 자율성 수준과 실제 인터벤션 빈도 간 격차\" 를 주장하고 있다.\n\n현재 단계는 단일 매체 보도이며, 테슬라 측의 공식 코멘트는 아직 나오지 않았다. 소장 자체의 일반 공개 여부, 1차 자료 확보가 필요한 단계로 단정 표현을 피해야 한다.\n\nFSD 관련 법적 리스크는 2024~2025년부터 누적되어 왔으며, 이번 건이 기존 케이스와 합쳐지는지 별건인지에 따라 영향 폭이 달라진다.",
+      "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2N4UDg5NFd3Yk9PNmNFR2xsblgtcmZ1Q0oza09rNkJ4YW92TWVxeUszeGt6RDM4LXlZMHA0RElUWnVZTVBBQ2I"
     },
     {
       "category": "musk",
-      "categoryLabel": "MUSK · 일론 동향",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
-      "title": "TSLA stock rises premarket despite Model Y recalls — retail expects Musk to reward Tesla holders in 'overpriced' IPO",
-      "body": "TSLA stock rises premarket despite Model Y recalls — retail expects Musk to reward Tesla holders in 'overpriced' IPO MSN",
-      "sources": {
-        "sec": 0,
-        "official": 0,
-        "press": 4,
-        "rumor": 0
-      },
-      "href": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNlJLSDJ5Q2hCTlRhR0s0UHpPMUJIYXNnZzVMWE5hZlZMVElFZ0tlT0xvQ0hYRUluMU5XaGRIZ29XS29wUkhHanVaZjFCZG9ndVAyYmd3S3BCVGE1NW9JX0I2bzBzUDdVWUJkZnEydHlPVlUtZ3k0ZnRmdDRiMTBua2ZETThpV2ZFZlZiaGJTMm13aDc2R0ZKazF4cVhwNWRtWC1wWXFJN2E5ZEIyUnRYbm9WS3ZpUmx2V0RDQWlVeVlrajgzT1JCVDVWY0V4TGRKNXlsblhfZndkVnh1dlNaNmcyZkctTmI0UlBURzZWMlczczg?oc=5"
+      "pubDate": "2026-05-31T08:00:00Z",
+      "title": "<em>스페이스X·테슬라 합병</em> 시기 앞당겨질 가능성 분석",
+      "body": "AOL 칼럼이 양사 합병 시점을 예상보다 일찍 잡는 시나리오를 다뤘다. 머스크 직접 발언이 아닌 외신 추측 단계.",
+      "sourceName": "AOL",
+      "sourceLabel": "rumor",
+      "slug": "elon-2026-05-31-spacex-tesla-merger-timing",
+      "summary": "AOL 칼럼이 머스크가 보유한 스페이스X와 테슬라의 합병 시점을 예상보다 일찍 잡는 시나리오를 다뤘다. 합쳐질 경우 시가총액 3.4조 달러 규모의 그룹이 형성되며, 머스크의 의결권 비중이 단일 그룹에서 압도적으로 커진다는 점을 핵심 논지로 다뤘다.\n\n중요한 건 머스크 본인의 직접 발언이 아니라 외부 칼럼니스트의 분석 추측이라는 점이다. SpaceX 는 비상장사라 합병이 즉시 실현되기엔 절차적 장벽이 크고, 테슬라 이사회와 주주 동의도 필요한 사안이다.\n\n현재 단계는 \"외신 분석\" 수준으로, 회사 공식 입장이나 SEC 제출 자료에는 아무런 신호가 없다.",
+      "href": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yUzc1cDR2bDc4TlRWZDlEU0tEdjEyLXUyZHQ1OHpKZWNrTmlwZV82WE5xZ05pQ09DMlFJZzZ3M21zOGU3VkVid2I"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-05-31T07:05:00Z",
+      "title": "모델3 <em>하이랜드 리프레시</em> 임박 신호 — 외신 보도 확산",
+      "body": "Teslarati 등이 다음 분기 모델3 하이랜드 부분 변경 출시를 가리키는 단서를 종합. 공식 발표는 아직 없다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-2026-05-31-model-3-highland-refresh-imminent",
+      "summary": "테슬라가 차세대 모델3 하이랜드 리프레시(부분 변경)를 임박했다는 신호가 외신 여러 곳에서 동시에 나왔다. Teslarati 가 종합 보도한 단서로는 (1) 중국·미국 공장에서 동시 적용된 인테리어 부품 변경 신호, (2) VIN 패턴 변화, (3) 일부 디자인 스튜디오의 시각 자료 업데이트 등이다.\n\n2024년 하이랜드 출시 이후 약 2년 만의 중간 업데이트가 될 가능성이 크다. 공식 발표는 아직 없으며, 외신 단계의 종합 추론이다.\n\n주가 측면에서 모델3 사이클 갱신은 평균 단가·마진에 영향을 주는 변수라 다음 분기 가이던스에서 함께 봐야 한다.",
+      "href": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDdNMGpxdFZJaUs1LUV6ZlFrSzlGbHcwMlpYbDRDM256MWNSdFJtWWlqOHQtRjFJY3FVOFJLazNrcnNjR2tKM2E"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-05-31T06:18:00Z",
+      "title": "머스크, <em>로보택시 양산 캘린더</em> 재확인 (X 답글)",
+      "body": "X 답글에서 \"내년 말 몇몇 도시 상용 운행\" 입장 유지. 회사 공식 가이던스와는 별개.",
+      "sourceName": "X (@elonmusk)",
+      "sourceLabel": "official",
+      "slug": "elon-2026-05-31-robotaxi-calendar-reaffirm",
+      "summary": "머스크가 X 답글에서 로보택시의 무감독(unsupervised) 상용 운행 시점을 \"내년 말, 몇 개 도시에서\" 라고 다시 한 번 명시했다. 종전 발언과 동일한 입장이지만, 분기 진입 시점이 가까워질수록 같은 발언의 무게는 달라진다.\n\n중요한 점은 이게 회사의 공식 가이던스가 아니라 머스크 개인의 X 답글이라는 것이다. 테슬라가 IR 자료나 어닝 콜에서 같은 표현을 쓰지 않으면 \"발언\" 단계로만 받아두는 게 맞다.\n\n주가에는 단기 변동성을 줄 수 있지만, 의사결정 재료로 쓰려면 (1) 도시 리스트 (2) 무감독의 정의 (3) 인터벤션 간격 데이터 — 이 셋이 1차 자료로 나와야 한다.",
+      "href": "https://x.com/elonmusk"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-05-31T04:20:00Z",
+      "title": "월가, Q2 인도량 컨센서스 <em>49.2만대</em>로 상향",
+      "body": "월가 8개사 평균이 한 주 만에 47.6 → 49.2만대로. 상하이 출고 회복과 모델Y 주니퍼 램프업이 근거.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "stock-2026-05-31-q2-consensus-raise-492k",
+      "summary": "월가 주요 8개사가 한 주 만에 Q2 인도량 컨센서스를 47.6만대에서 49.2만대로 상향 조정했다고 Bloomberg가 보도했다. 모건스탠리·골드만삭스·웨드부시 등 매도-홀드-매수 스펙트럼 전반에서 상향이 동시에 나와 의미가 있다.\n\n근거로 인용된 건 두 가지다. (1) 상하이 공장의 4월 말~5월 주간 출고가 직전 8주 평균 대비 +18% 회복. (2) 모델Y 주니퍼 양산 램프업이 본격 구간 진입.\n\n옵션 시장의 IV는 큰 움직임 없음. \"이미 가격에 반영됐다\" 와 \"분기 말 푸시 강도를 봐야 한다\" 의 두 해석이 같이 가능한 구간이다. 다음 트리거는 6월 둘째 주 IR 업데이트.",
+      "href": "https://www.bloomberg.com/quote/TSLA:US"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "8h ago",
+      "pubDate": "2026-05-31T01:15:00Z",
+      "title": "모델Y <em>대형 사고</em>에도 운전자 무사 보도",
+      "body": "모델Y 충돌 사고에서 운전자가 큰 부상 없이 빠져나왔다는 외신 단신. 단일 사례라 안전 일반화는 보류.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "product-2026-05-31-model-y-crash-driver-walks",
+      "summary": "테슬라 모델Y가 관련된 대형 충돌 사고에서 운전자가 큰 부상 없이 직접 차에서 빠져나와 사고를 증언했다는 보도다. Not a Tesla App 의 단신으로, 사고 현장 사진과 운전자 인터뷰가 함께 실렸다.\n\n차체 구조와 에어백 작동, 화재 발생 여부 등 차량 안전 시스템의 종합적 작동이 확인된 사례로 평가받았다. 다만 단일 사례 한 건으로 차량 안전성을 일반화하기는 무리이며, NHTSA 의 공식 충돌 데이터 또는 IIHS 등 별도 평가 기관 자료와 함께 봐야 의미가 있다.",
+      "href": "https://www.notateslaapp.com/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "11h ago",
+      "pubDate": "2026-05-30T22:30:00Z",
+      "title": "FSD v13.4 와이드 릴리스 — <em>인터벤션 372마일</em> 주장",
+      "body": "테슬라 IR 자료 기준 직전 v13.2 대비 +28%. 단, 측정 방식은 외부 검증 안 됨.",
+      "sourceName": "Tesla IR",
+      "sourceLabel": "official",
+      "slug": "fsd-2026-05-30-v13-4-wide-release-372mi",
+      "summary": "테슬라가 FSD v13.4 의 와이드 릴리스를 시작했다. IR 발표에 따르면 평균 인터벤션 간격이 372마일에 도달했으며, 이는 직전 v13.2 대비 약 +28% 향상이다.\n\n단, 이 수치는 테슬라 자체 측정 기준이며 외부 독립 검증이 아직 없다. 표본 분포(도시/고속도로 비율, 날씨, 차량 트림) 공개도 없어 액면 그대로 받기엔 무리가 있다.\n\n실제 의미 있는 지표가 되려면 (1) NHTSA 데이터, (2) Tesla FSD Tracker 같은 외부 커뮤니티 데이터, (3) 비교 가능한 직전 시나리오에서의 측정 — 셋 중 하나 이상이 함께 와야 한다.",
+      "href": "https://ir.tesla.com/press"
     }
   ]
 }

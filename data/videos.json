@@ -2,63 +2,13 @@
   "items": [
     {
       "category": "stock",
-      "series": "STOCK",
-      "thumbnailLabel": "Q2",
-      "duration": "12:08",
-      "title": "Q2 인도량, 왜 컨센서스가 내려가나 — 3개 시그널",
-      "date": "2026.05.21",
-      "views": "8.2K views",
-      "href": "#"
-    },
-    {
-      "category": "fsd",
-      "series": "FSD",
-      "thumbnailLabel": "13.4",
-      "duration": "09:42",
-      "title": "FSD v13.4 와이드 릴리스 — 372마일 주장 분해해 보기",
-      "date": "2026.05.20",
-      "views": "11.5K views",
-      "href": "#"
-    },
-    {
-      "category": "product",
-      "series": "PRODUCT",
-      "thumbnailLabel": "Y",
-      "duration": "07:31",
-      "title": "Model Y Juniper $1,000 인하 — 재고 신호인가, 가격 전략인가",
-      "date": "2026.05.19",
-      "views": "6.7K views",
-      "href": "#"
-    },
-    {
-      "category": "musk",
-      "series": "MUSK",
-      "thumbnailLabel": "06",
-      "duration": "10:15",
-      "title": "머스크 \"6월 로보택시 통합 데모\" — 회사 공식과 무엇이 다른가",
-      "date": "2026.05.18",
-      "views": "14.1K views",
-      "href": "#"
-    },
-    {
-      "category": "stock",
-      "series": "STOCK",
-      "thumbnailLabel": "W3",
-      "duration": "15:22",
-      "title": "주간 정리 — 옵션 시장이 본 TSLA 변동성 ±7%",
-      "date": "2026.05.17",
-      "views": "9.0K views",
-      "href": "#"
-    },
-    {
-      "category": "fsd",
-      "series": "FSD",
-      "thumbnailLabel": "RX",
-      "duration": "08:54",
-      "title": "로보택시 운영 데이터, 외부 검증이 가능한 항목 5가지",
-      "date": "2026.05.16",
-      "views": "7.3K views",
-      "href": "#"
+      "series": "SOON",
+      "thumbnailLabel": "01",
+      "duration": "—",
+      "title": "첫 영상 준비 중 · 평일 매일 한 편",
+      "date": "준비 중",
+      "views": "구독 + 알림 설정으로 첫 발행 받아보기",
+      "href": "https://www.youtube.com/@teslabriefing"
     }
   ]
 }

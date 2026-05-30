@@ -1,0 +1,36 @@
+{
+  "asOf": "2026-05-30 13:45 KST",
+  "noteHtml": "발언만 모았습니다. 회사 공식 가이던스가 아닙니다.",
+  "items": [
+    {
+      "id": "x-2026-05-30-1",
+      "handle": "@elonmusk",
+      "text": "Cybertruck production ramp this quarter is going better than expected.",
+      "ko": "이번 분기 사이버트럭 양산 램프업이 예상보다 잘 풀리고 있다.",
+      "postedAt": "2026-05-30 12:14 KST",
+      "ageLabel": "1h ago",
+      "kind": "self",
+      "url": "https://x.com/elonmusk/status/0000000000000000001"
+    },
+    {
+      "id": "x-2026-05-30-2",
+      "handle": "@elonmusk",
+      "text": "Robotaxi unsupervised in a few cities by end of next year — high confidence.",
+      "ko": "내년 말까지 몇몇 도시에서 무감독 로보택시 — 자신 있다.",
+      "postedAt": "2026-05-30 09:02 KST",
+      "ageLabel": "4h ago",
+      "kind": "reply",
+      "url": "https://x.com/elonmusk/status/0000000000000000002"
+    },
+    {
+      "id": "x-2026-05-29-1",
+      "handle": "@elonmusk",
+      "text": "Optimus V3 reveal soon. Definitely soon.",
+      "ko": "옵티머스 V3 공개 곧. 정말 곧.",
+      "postedAt": "2026-05-29 23:18 KST",
+      "ageLabel": "16h ago",
+      "kind": "self",
+      "url": "https://x.com/elonmusk/status/0000000000000000003"
+    }
+  ]
+}
