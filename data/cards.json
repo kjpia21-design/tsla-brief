@@ -1,18 +1,57 @@
 {
-  "asOf": "콘텐츠 준비 중 · 첫 발행은 뉴스레터로 안내",
+  "asOf": "2026-05-31 03:12 KST 기준 · 최신순",
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "29m ago",
+      "pubDate": "2026-05-30T17:43:00Z",
+      "title": "스페이스X IPO 임박 분위기 — <em>머스크 합병론</em> 다시 부상",
+      "body": "스페이스X 상장이 가까워지면서 머스크가 보유한 회사 간 합병 시나리오가 외신 칼럼에서 다시 거론. 분석가 단계.",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "elon-2026-05-30-spacex-ipo-merger-talk",
+      "summary": "스페이스X 상장 가시화 분위기에서 일론 머스크가 보유한 스페이스X와 테슬라의 합병 시나리오가 외신 분석 칼럼에서 다시 거론되고 있다. MSN이 신디케이션해 다룬 보도다.\n\n중요한 건 머스크 본인의 공식 발언이나 SEC 제출 자료에는 합병 신호가 없다는 점이다. 외부 분석가의 시나리오 수준이며, 양사의 지배구조·이사회 결정·주주 동의 등 절차적 장벽이 크다.\n\n주가 측면에서는 단기 변동성에 영향을 줄 수 있지만, 의사결정 재료로 받으려면 (1) 양사 이사회 의결 (2) 공식 합병 발표 (3) SEC 제출 — 셋 중 하나가 실제로 나와야 한다.",
+      "href": "https://www.msn.com/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-05-30T17:12:00Z",
+      "title": "테슬라 <em>FSD 유럽 확장</em>, 신규 국가 추가 확인",
+      "body": "Teslarati 보도로 테슬라 FSD 유럽 시장 활성화 범위가 새 국가까지 확장. 회사 공식 라인업 확대 흐름.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-2026-05-30-europe-expansion-new-country",
+      "summary": "Teslarati 보도로 테슬라 FSD(Full Self-Driving) 의 유럽 시장 활성화 범위가 새로운 국가까지 확장됐다.\n\n유럽 시장은 규제 환경 차이로 FSD 활성화 속도가 북미보다 느렸지만, 회사가 점진적 국가 추가 전략을 유지 중이다. 정확한 활성화 국가 리스트와 사용자 수는 IR 자료에서 다음 분기에 함께 봐야 한다.\n\n주가 측면에서 FSD 지역 확장은 구독 매출 잠재 시장(TAM) 변수다. 단기 변동성보다는 분기별 가입자 수치가 더 의미 있는 시그널이다.",
+      "href": "https://www.teslarati.com/"
+    },
+    {
       "category": "stock",
-      "categoryLabel": "NOTICE · 안내",
-      "time": "준비 중",
-      "pubDate": "",
-      "title": "콘텐츠 <em>준비 중</em> · 뉴스레터로 첫 발행 받아보세요",
-      "body": "원본 기사 검증과 한국어 정제 파이프라인을 구축 중입니다. 정식 발행 시작 시점은 뉴스레터로 가장 먼저 안내드립니다.",
-      "sourceName": "Tesla Brief!ng",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "#newsletter"
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-05-30T16:12:00Z",
+      "title": "MSN Money, 테슬라 주가 <em>경기소비재 섹터</em> 비교 분석 업데이트",
+      "body": "테슬라 주가를 다른 경기소비재 종목과 비교한 정기 분석 페이지가 업데이트. 단일 분석 콘텐츠 단계.",
+      "sourceName": "MSN Money",
+      "sourceLabel": "press",
+      "slug": "stock-2026-05-30-consumer-cyclical-comparison",
+      "summary": "MSN Money 가 테슬라 주가를 다른 경기소비재(consumer cyclical) 섹터 종목과 비교한 정기 분석 페이지를 업데이트했다.\n\n테슬라는 자동차 제조사로 분류되지만 시장에서는 기술주·성장주 평가가 동시에 들어가는 종목이라, 단일 섹터 비교만으로는 평가가 어렵다. 이런 종류의 비교 페이지는 정기 업데이트되는 일반 분석 콘텐츠다.\n\n단정적 매수·매도 시그널은 아니며, 섹터 평균 PER·PBR·배당 같은 기본 지표 확인용 참고 자료 단계.",
+      "href": "https://www.msn.com/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "7h ago",
+      "pubDate": "2026-05-30T11:12:00Z",
+      "title": "모델3 <em>하이랜드 리프레시</em> 임박 신호 — 소식통 종합",
+      "body": "Not a Tesla App 이 모델3 하이랜드 부분 변경 출시 임박 단서를 종합. 공식 발표는 아직 없는 단계.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "product-2026-05-30-model-3-highland-refresh-imminent",
+      "summary": "Not a Tesla App 이 모델3 하이랜드 리프레시(부분 변경) 출시가 임박했다는 외부 단서를 종합 보도했다.\n\n2024년 하이랜드 출시 이후 약 2년 만의 중간 업데이트 가능성이 거론되고 있다. 공식 발표는 아직 없는 단계로 외신·커뮤니티 단서 종합 수준이다.\n\n주가 측면에서 모델3 사이클 갱신은 평균 단가(ASP)와 마진에 영향을 주는 변수라, 다음 분기 가이던스에서 인도량 데이터와 함께 봐야 한다.",
+      "href": "https://www.notateslaapp.com/"
     }
   ]
 }
