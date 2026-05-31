@@ -3,11 +3,11 @@
  *
  * Cloudflare Workers (standalone) — 5분 cron + HTTP GET endpoint.
  *
- *   Cron (*/5 * * * *)        → Yahoo Finance fetch → KV put (key: "tsla:kpi")
- *   GET /  또는 /kpi          → KV get → JSON 반환 (CORS 허용)
+ *   Cron (every 5 minutes)    -> Yahoo Finance fetch -> KV put (key: "tsla:kpi")
+ *   GET /  또는 /kpi          -> KV get -> JSON 반환 (CORS 허용)
  *
  * KV namespace binding: PRICE_KV (wrangler.toml 에서 설정)
- * Cron trigger:         wrangler.toml [triggers] crons = ["*/5 * * * *"]
+ * Cron trigger:         wrangler.toml [triggers] crons (every 5 minutes)
  *
  * 출력 스키마: 기존 data/kpi.json 과 동일 (클라이언트 폴링 변경 최소화)
  */
