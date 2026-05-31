@@ -1,0 +1,14 @@
+name = "tesla-briefing-price"
+main = "src/index.js"
+compatibility_date = "2026-05-01"
+workers_dev = true
+
+# 5분마다 Yahoo Finance 페치 → KV 저장
+[triggers]
+crons = ["*/5 * * * *"]
+
+# KV namespace binding — Cloudflare 대시보드에서 namespace 생성 후 id 채워야 함.
+# 가이드: worker/README.md
+[[kv_namespaces]]
+binding = "PRICE_KV"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
