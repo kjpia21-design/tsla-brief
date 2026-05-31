@@ -119,12 +119,14 @@
   .nav__links{display:flex;gap:4px;align-items:center}
   .nav__links a:not(.nav__cta):not(.nav__lang){display:none}    /* 모바일: 카테고리 링크 숨김 */
   .nav__lang{
-    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;font-weight:700;
-    letter-spacing:.04em;color:var(--ink-mid);
-    padding:7px 10px;border:1px solid var(--line);border-radius:var(--r-pill);
-    margin-right:4px;transition:color var(--t-1) var(--ease),border-color var(--t-1) var(--ease),background var(--t-1) var(--ease);
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:700;
+    letter-spacing:.04em;color:var(--ink);
+    padding:8px 14px;border:1px solid var(--line);border-radius:var(--r-pill);
+    background:var(--bg-3);
+    margin-right:12px;        /* Subscribe 버튼과 시각적 간격 */
+    transition:color var(--t-1) var(--ease),border-color var(--t-1) var(--ease),background var(--t-1) var(--ease);
   }
-  .nav__lang:hover{color:var(--ink);border-color:var(--ink-mid);background:var(--bg-3)}
+  .nav__lang:hover{color:#fff;border-color:var(--ink-mid);background:var(--bg-2)}
   .nav__cta{
     padding:8px 14px;border-radius:var(--r-pill);
     background:var(--tesla-red);color:#fff;font-size:12.5px;font-weight:700;letter-spacing:.02em;
