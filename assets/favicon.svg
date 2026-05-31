@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- TESLA Brief!ng favicon — 빨강 라운드 박스 + 흰색 굵은 T (01번 채택) -->
+  <rect width="64" height="64" rx="12" fill="#E31937"/>
+  <text x="32" y="48" text-anchor="middle"
+        font-family="Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif"
+        font-weight="900" font-size="52"
+        fill="#FFFFFF" letter-spacing="-2">T</text>
+</svg>

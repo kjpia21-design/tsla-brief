@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- 배경: 사이트와 동일한 다크 -->
+  <defs>
+    <radialGradient id="bgGrad" cx="80%" cy="-10%" r="60%">
+      <stop offset="0%" stop-color="#E31937" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#0A0A0B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgGrad2" cx="10%" cy="10%" r="50%">
+      <stop offset="0%" stop-color="#1B6CFF" stop-opacity="0.08"/>
+      <stop offset="60%" stop-color="#0A0A0B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0A0A0B"/>
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+  <rect width="1200" height="630" fill="url(#bgGrad2)"/>
+
+  <!-- 우측 상단 LIVE 시그널 (빨강 점 + 글로우) -->
+  <circle cx="1130" cy="60" r="18" fill="#E31937" opacity="0.25"/>
+  <circle cx="1130" cy="60" r="9" fill="#E31937"/>
+  <text x="1098" y="66" text-anchor="end"
+        font-family="'IBM Plex Mono', ui-monospace, Menlo, monospace"
+        font-weight="700" font-size="14" fill="#E31937" letter-spacing="3">LIVE</text>
+
+  <!-- 메인 로고: SPLIT BLOCK (TESLA 빨강 박스 + Brief!ng italic 흰색) -->
+  <!-- 빨강 박스 -->
+  <rect x="170" y="195" width="340" height="120" rx="14" fill="#E31937"/>
+  <text x="340" y="285" text-anchor="middle"
+        font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
+        font-weight="900" font-size="78" fill="#FFFFFF" letter-spacing="3">TESLA</text>
+
+  <!-- Brief!ng (italic, 흰색) -->
+  <text x="540" y="285"
+        font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
+        font-weight="700" font-style="italic" font-size="86"
+        fill="#F4F4F5" letter-spacing="-2">Brief<tspan fill="#E31937">!</tspan>ng</text>
+
+  <!-- 한국어 카피 -->
+  <text x="600" y="412" text-anchor="middle"
+        font-family="'Pretendard Variable', Pretendard, -apple-system, 'Apple SD Gothic Neo', sans-serif"
+        font-weight="700" font-size="48" fill="#D4D4DC" letter-spacing="-0.5">
+    테슬라 뉴스를 <tspan font-style="italic" fill="#E31937">한눈에 빠르게</tspan>
+  </text>
+
+  <!-- 부제: 1차 자료 중심 -->
+  <text x="600" y="475" text-anchor="middle"
+        font-family="'IBM Plex Mono', ui-monospace, Menlo, monospace"
+        font-weight="500" font-size="22" fill="#9494A0" letter-spacing="1.5">
+    SEC · 어닝 콜 · 머스크 발언 — 매일 한 통
+  </text>
+
+  <!-- 좌측 하단: URL -->
+  <text x="60" y="585"
+        font-family="'IBM Plex Mono', ui-monospace, Menlo, monospace"
+        font-weight="600" font-size="20" fill="#B8B8C0" letter-spacing="1">
+    teslabriefing.com
+  </text>
+
+  <!-- 우측 하단: 카테고리 -->
+  <text x="1140" y="585" text-anchor="end"
+        font-family="'IBM Plex Mono', ui-monospace, Menlo, monospace"
+        font-weight="700" font-size="15" fill="#9494A0" letter-spacing="1.5">
+    Stock · Product · FSD/Robotaxi · 머스크 발언
+  </text>
+</svg>
