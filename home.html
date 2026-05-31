@@ -321,6 +321,12 @@
     padding:3px 7px;border-radius:var(--r-pill);margin-left:8px;
     vertical-align:middle;font-weight:700;
   }
+  /* 신선도 라벨 — JS 가 매 1분 갱신 */
+  .cats__fresh{
+    display:inline-block;font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:11px;color:var(--ink-mid);font-weight:600;
+    padding:2px 0;letter-spacing:.02em;
+  }
   .cats__title{
     font-size:clamp(24px,5.5vw,30px);font-weight:700;letter-spacing:-0.005em;margin:0;
     color:#B8B8C0;line-height:1.2;
@@ -982,6 +988,48 @@ function tslaSubscribe(e){
   alert('구독 신청 데모입니다. (실제 발송 연결은 추후)');
   return false;
 }
+</script>
+
+<script>
+// ============ 동적 시각 갱신 ============
+// 카드의 [data-pubdate] = "X분/시간/일 전" 매분 재계산
+// [data-fresh-since] = "약 N분 전 콘텐츠" — 갱신 신선도 표시
+(() => {
+  function fmtRel(iso) {
+    const t = Date.parse(iso);
+    if (Number.isNaN(t)) return "";
+    const diffSec = Math.round((Date.now() - t) / 1000);
+    if (diffSec < 60)        return "방금 전";
+    const diffMin = Math.round(diffSec / 60);
+    if (diffMin < 60)        return `${diffMin}m ago`;
+    const diffHr = Math.round(diffMin / 60);
+    if (diffHr < 24)         return `${diffHr}h ago`;
+    const diffDay = Math.round(diffHr / 24);
+    return `${diffDay}d ago`;
+  }
+  function fmtFresh(iso) {
+    const t = Date.parse(iso);
+    if (Number.isNaN(t)) return "";
+    const diffMin = Math.max(1, Math.round((Date.now() - t) / 60000));
+    if (diffMin < 60)        return `최신 콘텐츠 ${diffMin}분 전`;
+    const diffHr = Math.round(diffMin / 60);
+    if (diffHr < 24)         return `최신 콘텐츠 ${diffHr}시간 전`;
+    const diffDay = Math.round(diffHr / 24);
+    return `최신 콘텐츠 ${diffDay}일 전`;
+  }
+  function tick() {
+    document.querySelectorAll('[data-pubdate]').forEach((el) => {
+      const iso = el.getAttribute('data-pubdate');
+      if (iso) el.textContent = fmtRel(iso);
+    });
+    document.querySelectorAll('[data-fresh-since]').forEach((el) => {
+      const iso = el.getAttribute('data-fresh-since');
+      if (iso) el.textContent = fmtFresh(iso);
+    });
+  }
+  tick();
+  setInterval(tick, 60_000); // 매 1분
+})();
 </script>
 
 <script>

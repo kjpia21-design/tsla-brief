@@ -189,10 +189,11 @@ function renderHotNews(cards) {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const short = CATEGORY_SHORT[c.category] || "NEWS";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
+    const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
     // 제목에 <em> 마크업이 박혀있으니 escape 하지 않고 그대로 살림.
     return `      <li><a class="hot-news__item ${cls}" href="${escapeHtml(href)}">
         <span class="hot-news__cat">${escapeHtml(short)}</span>
-        <span class="hot-news__time">${escapeHtml(c.time || "")}</span>
+        <span class="hot-news__time"${pubAttr}>${escapeHtml(c.time || "")}</span>
         <span class="hot-news__title">${c.title}</span>
         <span class="hot-news__arrow">→</span>
       </a></li>`;
@@ -208,10 +209,11 @@ function renderCards(cards) {
   const items = cards.items.slice(0, 5).map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
+    const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
           <span class="ccard__cat">${escapeHtml(c.categoryLabel)}</span>
-          <span class="ccard__time">${escapeHtml(c.time)}</span>
+          <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
         <h3>${c.title}</h3>
         <p class="ccard__body">${escapeHtml(c.body)}</p>
@@ -229,10 +231,11 @@ function renderAllCards(cards) {
   const items = cards.items.map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
+    const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
           <span class="ccard__cat">${escapeHtml(c.categoryLabel)}</span>
-          <span class="ccard__time">${escapeHtml(c.time)}</span>
+          <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
         <h3>${c.title}</h3>
         <p class="ccard__body">${escapeHtml(c.body)}</p>
@@ -332,7 +335,11 @@ async function generateNewsPage(cards) {
     return false;
   }
   let out = template;
-  out = replaceBlock(out, "NEWS_TIME", escapeHtml(`${cards.asOf} · 총 ${cards.items.length}건`));
+  const freshSince = cards.items[0]?.pubDate || "";
+  const newsAsOf = freshSince
+    ? `${escapeHtml(`${cards.asOf} · 총 ${cards.items.length}건`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">갱신 시각 계산 중…</span>`
+    : escapeHtml(`${cards.asOf} · 총 ${cards.items.length}건`);
+  out = replaceBlock(out, "NEWS_TIME", newsAsOf);
   out = replaceBlock(out, "NEWS_GRID", `\n      ${renderAllCards(cards)}\n      `);
   await writeFile(path.join(OUT_DIR, "news.html"), out, "utf8");
   return true;
@@ -375,7 +382,11 @@ async function main() {
   out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi));
   out = replaceBlock(out, "HOT_NEWS",    renderHotNews(cards));
   out = replaceBlock(out, "HOT_COUNT",   `총 ${Math.min(5, cards.items.length)}건`);
-  out = replaceBlock(out, "CARDS_TIME",  escapeHtml(cards.asOf));
+  const cardsFreshSince = cards.items[0]?.pubDate || "";
+  const cardsAsOf = cardsFreshSince
+    ? `${escapeHtml(cards.asOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">갱신 시각 계산 중…</span>`
+    : escapeHtml(cards.asOf);
+  out = replaceBlock(out, "CARDS_TIME",  cardsAsOf);
   out = replaceBlock(out, "CARDS_GRID",  renderCards(cards));
   out = replaceBlock(out, "VIDEOS_GRID", renderVideos(videos));
   out = replaceBlock(out, "BUILD_INFO",  `<!-- build: ${buildIso} -->`);
