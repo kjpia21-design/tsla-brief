@@ -11,4 +11,4 @@ crons = ["*/5 * * * *"]
 # 가이드: worker/README.md
 [[kv_namespaces]]
 binding = "PRICE_KV"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "4b782cd93a074f778e5442cebcb919fe"
