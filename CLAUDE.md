@@ -1,229 +1,302 @@
-# TSLA Brief — 프로젝트 컨텍스트
+# TESLA Brief!ng — 프로젝트 컨텍스트 (2026-06-01 갱신)
 
 JP에게 친근한 존댓말로 답해주세요.
 
 ## 한 줄 정의
 
-테슬라 주주를 위한, 노이즈 없는 일일 브리핑 — **랜딩 페이지(원페이지) + 유튜브 채널 + 뉴스레터**.
+테슬라 주주를 위한, 노이즈 없는 일일 브리핑 — **랜딩 페이지 (한국어 + 영어) + 유튜브 채널 + 뉴스레터**. **라이브 운영 중** — `https://teslabriefing.com` (한) / `https://teslabriefing.com/en/` (영).
 
-## 타겟·톤
+## 🚀 빠른 컨텍스트 (새 세션이 가장 먼저 봐야 할 것)
 
-- **독자:** 테슬라 주주·예비 주주·장기 보유자. 단타 아님.
-- **톤:** 냉정한 친절함. "사라/팔라" 말하지 않음. 의사결정 재료만.
-- **머스크 발언:** "발언 자체"와 "회사 영향"을 분리해서 다룸.
-- **출처 카운트 4단계:** 🟢 1차 자료 / 🔵 공식 발언 / 🟡 신뢰 외신 / 🟠 추측·루머. 카드 메타에 도트+카운트로 노출.
+| 항목 | 값 |
+|---|---|
+| 라이브 도메인 | `teslabriefing.com` (Cloudflare Pages) |
+| 영어 페이지 | `/en/` (IP 라우팅 자동, cookie 우선) |
+| GitHub 리포 | `kjpia21-design/tsla-brief` (master) |
+| Cloudflare Pages | `tesla-briefing` 프로젝트 (manager@honeylife.co.kr account) |
+| TSLA 가격 API | `https://api.teslabriefing.com/` (Cloudflare Worker, 5분 cron) |
+| 자동 뉴스 정제 | Claude Cloud Routine `tsla-brief-news-refresh` (한국어 + 영어 동시) |
+| RSS 자동 페치 | GitHub Actions cron 2시간 (`.github/workflows/fetch-news.yml`) |
+| Email 수신 | `hello@teslabriefing.com` → JP Gmail (Cloudflare Email Routing) |
+| Email 송신 | 미설정 (옵션 C 보류 — 트래픽 늘면 Resend) |
 
-## 4 카테고리
+## ⚠️ Cloudflare 계정 매핑 (중요 — 이전 디버깅 교훈)
 
-| 키 | 한글명 | 액센트 컬러 | 시리즈 배지 |
-|---|---|---|---|
-| `stock`   | 주가·실적   | `--c-stock: #E31937` | `STOCK`   |
-| `product` | 신차·제품   | `--c-product: #1B6CFF` | `PRODUCT` |
-| `fsd`     | FSD·자율주행 | `--c-fsd: #22D3EE`   | `FSD`     |
-| `musk`    | 머스크·일론  | `--c-musk: #F59E0B`  | `MUSK`    |
+| 이메일 | Cloudflare account | 도메인 |
+|---|---|---|
+| `kjpia21@gmail.com` | `Kjpia21@gmail.com's Account` (id `e461ca0e...`) | **honeylife.co.kr** |
+| `manager@honeylife.co.kr` | `Manager@honeylife.co.kr's Account` (id `2cbcaeb2f077b4531901226e856e89e0`) | **teslabriefing.com** ← 본 프로젝트 |
 
-## 사이트 구조 (랜딩 1페이지 원칙)
+- JP 환경: 크롬 = kjpia21 계정 / 사파리 = manager 계정
+- `wrangler login` 시 시스템 기본 브라우저로 OAuth → **사파리를 기본으로 변경 후 인증해야** manager account 잡힘
+- 또는 API token (manager account 발급) 을 `CLOUDFLARE_API_TOKEN` 환경변수로
+- ❌ 노출 사고 방지: 토큰은 메시지에 적지 말 것
 
-카테고리 전용 페이지 **없음**. 한 페이지에 위→아래 순서:
+## 자동화 아키텍처
 
-1. nav (sticky, blur) — 로고 + 카테고리 4 앵커 + 구독 CTA
-2. 히어로 + 뉴스레터 구독 폼 (메인 액션이 구독)
-3. 주가·시총 KPI 위젯 (5칸: Price / Market Cap / 52W Range / P/E / Next Earnings)
-4. 4개 카테고리 최신 이슈 카드 (2×2 grid)
-5. 유튜브 최신 영상 그리드 6개 (3×2)
-6. 푸터 (브랜드 / 카테고리 / 채널 / 정책 4컬럼)
+```
+┌─ GitHub Actions (cron */2 hours) ──┐
+│  • fetch-news.mjs (RSS) → raw-cards.json 갱신 → push
+│  • claude/* 브랜치 7일 이상 자동 청소
+└─────────────────────────────────────┘
+                ↓ master push
+┌─ Claude Cloud Routine (cron 2h, offset) ┐
+│  • git pull → raw-cards.json 읽기
+│  • 한국어 정제 (full) + 영어 정제 (옵션 C — title/slug/hot)
+│  • cards.json + archive.json (KR, 50 cap)
+│  • cards-en.json + archive-en.json (EN, 50 cap)
+│  • git push origin HEAD:master
+└─────────────────────────────────────────┘
+                ↓ master push
+┌─ Cloudflare Pages (자동 빌드) ────────────┐
+│  • node build.mjs → dist/
+│  • Pages Functions /_middleware → IP 라우팅 (KR → /, 그 외 → /en/)
+│  • cookie lang=ko|en 우선
+└──────────────────────────────────────────┘
 
-추후 트래픽 보고 카테고리 페이지 분리 여부 결정.
+┌─ Cloudflare Worker (별도, cron */5 min) ──┐
+│  • Yahoo Finance fetch → KV (PRICE_KV) put
+│  • GET / → KV get → JSON (CORS)
+│  • Custom Domain: api.teslabriefing.com
+│  • 클라이언트 (home.html JS) 1분 폴링
+│  • Cloudflare Pages 빌드 트리거 X (별도 endpoint)
+└────────────────────────────────────────────┘
+```
 
-## 디자인 시스템 (요약 — 전체 토큰은 home-v1.html `:root` 참조)
+## 디자인 시스템 (요약)
 
 ### 컬러
-
 ```css
 --bg:#0A0A0B; --bg-2:#111114; --bg-3:#181820;
 --line:#2A2A33; --line-mute:#1E1E26;
---ink:#F4F4F5; --ink-mid:#B8B8C0; --ink-mute:#707078;
+--ink:#F4F4F5; --ink-mid:#D4D4DC; --ink-mute:#B8B8C0;  /* 모든 텍스트 가독성 ↑ */
 --tesla-red:#E31937; --red-deep:#A30E25; --red-soft:rgba(227,25,55,.12);
 --up:#16A34A; --down:#EF4444;
 ```
 
+### 4 카테고리
+
+| 키 | 한국어 라벨 | 영어 라벨 | 액센트 컬러 |
+|---|---|---|---|
+| `stock`   | STOCK · 주가·실적                | STOCK · Stock & Earnings              | `#E31937` |
+| `product` | PRODUCT · 차량·에너지·옵티머스   | PRODUCT · Vehicles, Energy & Optimus  | `#1B6CFF` |
+| `fsd`     | FSD · 자율·로보택시              | FSD · Autonomy & Robotaxi             | `#22D3EE` |
+| `musk`    | ELON · 일론 소식                 | ELON · Elon News                      | `#F59E0B` |
+
 ### 타이포
+- 본문: Pretendard Variable
+- 숫자·티커·라벨: IBM Plex Mono (tabular-nums)
+- 헤드라인 강조 italic: Inter italic
+- 로고: SPLIT BLOCK — **[TESLA]** 빨강 박스 + Brief!ng italic (! 빨강)
 
-- 본문: **Pretendard Variable**
-- 숫자·티커·라벨: **IBM Plex Mono** (tabular-nums) — 주가, %, 시총, 날짜
-- 헤드라인 강조 italic: **Inter italic** — h1/h3 안 `<em>`만 italic 처리
-
-### 시그니처 디테일
-
-- 카드: `border-radius: var(--r-lg)` (18px), border 1px solid `--line`, hover 시 카테고리 컬러 + `--shadow-red` 발광
-- 카드 좌상단 카테고리 도트 (`box-shadow` glow) + monospace 라벨
-- 카드 우상단 시간 (`14h ago`, monospace)
+### 핵심 시그니처
+- 카드 좌상단 카테고리 도트 + monospace 라벨
 - 카드 ::before 2~3px 컬러 스트라이프
-- CTA 화살표 `→`: hover 시 `gap: 4px → 10px` 분리
-- 영상 썸네일: 사진 없이 **단색 그라데이션 + 거대 italic 라벨** (`Q2`, `13.4`, `Y` 등)
-- 뉴스레터 폼: `:focus` 시 red soft glow
+- 동적 시각 갱신 (1분 setInterval, `[data-pubdate]` + `[data-fresh-since]`)
+- 가격 박스 1분 폴링 (`api.teslabriefing.com`)
+- 핫뉴스 `hot` 점수 정렬 (0~10) vs 최신뉴스 시간순 — **차별화 명확**
+- Archive 누적 50개 cap (slug 기준 dedup)
 
-## 마스코트
+## 사이트 구조 (1페이지 원칙)
 
-**확정안: A — 사이버트럭 실루엣** (`assets/mascot-A-cybertruck.svg`).
-B(옵티머스 헤드, `assets/mascot-B-optimus.svg`)는 비교 검토용으로 보존.
+한국어 / 영어 동일 구조 (한국어 = `/`, 영어 = `/en/`):
+1. **nav** (sticky blur) — 로고 + 카테고리 4 앵커 + **언어 토글 (KO/EN)** + 구독 CTA
+2. **가격 바** — 라이브 TSLA $XXX (Worker 5분 cron + 클라이언트 1분 폴링)
+3. **핫뉴스** (hot 점수 desc, top 5) — 시간순과 차별화
+4. **최신 뉴스** (시간순, top 5) + "뉴스 전체보기" → `news.html` (archive 50개)
+5. **영상 섹션** — placeholder 1장 ("첫 영상 준비 중") + 큰 채널 CTA
+6. **히어로 + 뉴스레터 구독 폼** (PIPA 필수 동의 체크박스 + 개인정보처리방침 링크)
+7. **푸터** — 브랜드 / 카테고리 / 채널 / 정책 (4 컬럼)
 
-**노출 원칙 (허라비와 동일하게 절제):**
-1. nav 로고 (28~30px)
-2. footer 브랜드 (56~80px)
-3. "출처 검증 도장" SVG (220px, 추후 콘텐츠 페이지에서 사용)
+### 별도 페이지
+- `news.html` / `en/news.html` — archive 전체 (최대 50장)
+- `articles/<slug>.html` / `en/articles/<slug>.html` — 카드 상세 (한 / 영 별도)
+- `privacy.html` — 개인정보처리방침 (PIPA, 라이트 톤)
 
-작은 사이즈 시인성을 위해 검증 도장 패턴은 sample 콘텐츠 페이지 만들 때 별도 작업.
-
-## 영상 채널 (별도 레포: `~/my-shorts-generator`)
-
-`my-shorts-generator`의 허라비 스타일(`summer-electricity-tier3-themed`)을 다크 변형으로 차용. 다음 작업 시 그쪽에 TSLA 시리즈 컴포지션 추가.
-
-- 다크 배경(`#0A0A0B`) + 레드 액센트
-- 인트로: 3줄 카드 스택 + 우상단 `VERIFIED` 또는 `SOURCE.SEC` 도장 + 마스코트
-- 본문 비트: `POINT 01~N` + monospace 데이터 박스
-- 자막: 검정 박스 + 흰 글씨 (허라비 ThemedSubtitle 그대로)
-- 보이스: `ko-KR-Chirp3-HD-*` 차분 톤 후보
-- 시리즈 배지: STOCK / PRODUCT / FSD / MUSK
-
-## 뉴스레터
-
-- **발송:** 평일 오전 7시 KST (장 시작 전)
-- **분량:** 평일 약 800자, 주말 정리편 1500자
-- **구조:** 어제 종가 한 줄 → 오늘의 한 줄(3문장) → 4 카테고리 1~2 헤드라인 → 읽을거리 2~3 링크 → 푸터
-
-## 파일 구조 (현재)
+## 파일 구조
 
 ```
 테슬라 정보 랜딩 페이지 및 영상 채널 만들기/
-├── CLAUDE.md                          ← 이 파일
-├── 00-기획서.md                       ← 전체 기획서 (긴 버전)
-├── home-v1.html                       ← 랜딩 v1 (템플릿, BLOCK 마커 포함)
-├── mascot-compare.html                ← 마스코트 A/B 비교 (참조용, 추후 정리 가능)
-├── build.mjs                          ← JSON → home.html 빌드 (의존성 0)
+├── CLAUDE.md                          ← 이 파일 (새 세션 entry point)
+├── 00-기획서.md
+├── README.md (없음, 필요 시 추가)
+│
+├── home.html                          ← 한국어 메인 (BLOCK 마커)
+├── home-en.html                       ← 영어 메인 (대칭)
+├── news-template.html                 ← 한국어 전체뉴스 (BLOCK 마커)
+├── news-template-en.html              ← 영어 전체뉴스
+├── article-template.html              ← 카드 상세 (라이트 톤, 한·영 공유 + lang 분기)
+├── article-sample.html                ← 옛 샘플 (정리 대상)
+├── privacy.html                       ← 개인정보처리방침 (라이트, 한국어)
+├── home-v2.html, mascot-compare.html  ← 옛 백업 (정리 가능)
+│
+├── build.mjs                          ← KR + EN 빌드 (buildOneLang)
+├── .nvmrc                             ← Node 22 (Cloudflare Pages)
+│
+├── functions/
+│   └── _middleware.js                 ← Pages Functions IP 라우팅 (KR → / / 그 외 → /en/)
+│
+├── worker/                            ← Cloudflare Worker (별도 배포)
+│   ├── src/index.js                   ← TSLA 가격 5분 cron + KV + GET endpoint
+│   ├── wrangler.toml                  ← KV id `4b782cd93a074f778e5442cebcb919fe`
+│   └── README.md                      ← 배포 가이드
+│
 ├── scripts/
-│   └── fetch-news.mjs                 ← RSS → data/cards.json 페처 (의존성 0)
-├── data/                              ← 1시간마다 갱신될 카드/KPI/영상 데이터
-│   ├── kpi.json                       ← 정적 (주가 페처 별도 작업)
-│   ├── cards.json                     ← fetch-news.mjs 가 갱신
-│   └── videos.json                    ← 정적 (유튜브 페처 별도 작업)
-├── dist/                              ← 빌드 산출물 (gitignore, Pages 배포 대상)
-│   └── home.html
+│   ├── fetch-news.mjs                 ← RSS → raw-cards.json (SEED_OUT/WINDOW/N env)
+│   ├── fetch-price.mjs                ← Yahoo (로컬·옛 흐름, worker 가 대체)
+│   ├── llm-refine.mjs                 ← (사용 안 함 — Routine 이 대체)
+│   └── load-env.mjs                   ← (사용 안 함)
+│
+├── data/
+│   ├── raw-cards.json                 ← GitHub Actions 가 2h 마다 갱신 (영문 RSS)
+│   ├── cards.json                     ← Routine 한국어 정제 (4~6장)
+│   ├── cards-en.json                  ← Routine 영어 정제 (옵션 C)
+│   ├── archive.json                   ← 누적 한국어 (50 cap)
+│   ├── archive-en.json                ← 누적 영어 (50 cap)
+│   ├── kpi.json                       ← (legacy, worker 가 대체)
+│   ├── videos.json                    ← 영상 placeholder (1장)
+│   └── musk-live.json                 ← (legacy, 미사용)
+│
+├── assets/
+│   ├── favicon.svg                    ← 빨강 박스 + 흰 T (01번 채택)
+│   ├── og-image.svg                   ← 1200x630 SNS 카드 (한국어)
+│   ├── stamp-verified.svg
+│   ├── mascot-A-cybertruck.svg
+│   └── mascot-B-optimus.svg
+│
 ├── .github/workflows/
-│   └── update.yml                     ← cron 1h + Pages 배포
-└── assets/
-    ├── mascot-A-cybertruck.svg        ← 채택
-    └── mascot-B-optimus.svg           ← 백업 보존
+│   └── fetch-news.yml                 ← cron 2h: fetch + claude/* 청소
+│
+├── dist/                              ← gitignore. Cloudflare Pages 빌드 출력
+│   ├── index.html                     ← 한국어
+│   ├── news.html
+│   ├── articles/*.html                ← archive 전체 (slug 있는 모든 카드)
+│   ├── privacy.html
+│   ├── en/                            ← 영어
+│   │   ├── index.html
+│   │   ├── news.html
+│   │   └── articles/*.html
+│   ├── data/                          ← kpi.json 등 (legacy, 미사용)
+│   └── assets/
+│
+└── .nvmrc                             ← 22
 ```
 
-## 빌드 파이프라인 (1시간 주기 업데이트)
-
-**아키텍처:** ① 정적 재생성(SSG) + ② 클라이언트 fetch 자리 마련(머스크 라이브 박스용, 미구현).
-
-```
-home-v1.html (BLOCK 마커 포함)
-       +
-data/{kpi,cards,videos}.json   ←  cron 으로 갱신 (데이터 수집기 미구현)
-       ↓
-   node build.mjs
-       ↓
-   dist/home.html  →  GitHub Pages 배포
-```
-
-### 마커 규칙
-
-`home-v1.html` 안에 `<!-- BLOCK:NAME --> ... <!-- /BLOCK:NAME -->` 쌍으로 치환 영역을 표시.
-현재 마커: `KPI_TIME`, `KPI_GRID`, `CARDS_TIME`, `CARDS_GRID`, `VIDEOS_GRID`, `BUILD_INFO`.
-마커 사이에 샘플 데이터를 그대로 두면 v1 도 단독으로 브라우저에서 정상 표시됨.
-
-### 데이터 스키마 약속
-
-- **카드 출처 카운트:** `{ sec, official, press, rumor }` 4단계. 0 인 항목은 렌더 시 생략.
-- **출처 표시 순서:** SEC(🟢 1차) → OFFICIAL(🔵 공식) → PRESS(🟠 외신) → RUMOR(⚪ 추측) 로 통일.
-- **카드 제목·바디:** `<em>...</em>` 강조는 데이터(JSON) 안에 마크업 그대로. 빌드는 이 부분만 escape 하지 않음.
-
-### 빌드 명령
+## 빌드·자동화 명령
 
 ```bash
-node scripts/fetch-news.mjs    # RSS → data/cards.json
-node build.mjs                 # dist/home.html 생성
-python3 -m http.server 5734    # 로컬 미리보기 (preview tool: tsla-static)
+# 로컬 빌드 (한국어 + 영어 동시)
+node build.mjs
+
+# 로컬에서 신선한 RSS 페치
+node scripts/fetch-news.mjs
+
+# 일회용 시드 (3일치 더 많이)
+SEED_OUT=raw-archive-seed.json SEED_WINDOW=3d SEED_N=15 node scripts/fetch-news.mjs
+
+# Worker 배포 (manager account, 사파리 OAuth)
+cd worker && wrangler deploy
+
+# 로컬 미리보기 (이미 띄워져 있을 수도)
+# .claude/launch.json 의 tsla-static (port 4173, dist/ 서빙)
 ```
 
-## 데이터 수집기 (fetch-news.mjs)
+## 데이터 흐름 (수동·자동 둘 다)
 
-**Node 22 native, 의존성 0.** 카테고리별 RSS 1~2 소스 fetch → 카테고리 분류 + 도메인 기반 출처 라벨링 → `data/cards.json` 덮어쓰기. 네트워크 실패 시 기존 JSON 유지.
+### 자동 (JP 손 안 가도)
+1. GitHub Actions (cron 2h) — fetch-news.mjs → `raw-cards.json` 갱신 → push
+2. Claude Cloud Routine (cron 2h, offset 권장) — git pull → 한국어+영어 정제 → push
+3. Cloudflare Pages 자동 빌드 → 라이브
+4. Worker (cron 5분, 별도) — Yahoo Finance → KV → `api.teslabriefing.com` 응답
 
-### RSS 소스
+### 수동 트리거 (JP 요청 시)
+- 가장 빠른 신선화: 로컬 `node scripts/fetch-news.mjs && git add data/raw-cards.json && git commit -m "raw" && git push`
+- Routine [Run now] 도 신선도 가드 (30분 이내 차이면 skip)
 
-| 카테고리 | 소스 |
-|---|---|
-| stock   | Google News (Tesla TSLA stock), Yahoo Finance TSLA feed |
-| product | Electrek tesla, Teslarati news |
-| fsd     | Electrek tesla-autopilot, Google News (FSD/robotaxi) |
-| musk    | Google News (Elon Musk Tesla) |
+## Routine prompt (현재 운영 중)
 
-### 출처 4단계 도메인 매핑
+위치: `claude.ai/code/routines` → `tsla-brief-news-refresh`
 
-| 라벨 | 도메인 |
-|---|---|
-| **sec** (🟢 1차)     | sec.gov, ir.tesla.com, finance.yahoo.com, nasdaq.com |
-| **official** (🔵 공식) | tesla.com, x.com, twitter.com |
-| **press** (🟠 외신)   | reuters, bloomberg, cnbc, wsj, ft, nytimes, theverge, electrek, teslarati, insideevs, cnet, engadget, barrons |
-| **rumor** (⚪ 추측)   | reddit, medium, substack, 그 외 분류 안 된 모든 도메인 |
+핵심:
+- Step 0: `git fetch origin master + reset --hard` (master 강제 체크아웃)
+- Step 1~2: raw-cards 읽기 + 신선도 가드 (30분 이내 skip)
+- Step 3: 4~6장 선별 (비영어권 매체 제외)
+- Step 4: 한국어 (full) + 영어 (slug + title + hot 만, 옵션 C) 정제
+- Step 5: cards/archive 4 파일 갱신 (slug dedup, pubDate desc, 50 cap)
+- Step 6: `node build.mjs` 검증
+- Step 7~8: commit + `git push origin HEAD:master` (HEAD:master 형식 필수)
 
-매칭 안 되는 도메인은 RSS 소스의 `defaultLabel` 로 폴백 (현재 모두 `press`).
+❌ 절대 금지: `node scripts/fetch-news.mjs` (Routine IP 가 RSS 403 차단), 외부 HTTP, 새 브랜치 생성, PR 생성, 다른 파일 수정.
 
-### 카테고리 자동 추론
+✅ 인명 표기 가이드 (한국 표준): 젠슨 황 (휴앙 X), 일론 머스크, 사이버트럭, 사이버캡, 로보택시, 옵티머스, 파워월/메가팩, FSD (약어), 모델3/Y/S/X, 하이랜드/주니퍼
 
-Google News 같은 일반 소스는 제목+요약에서 키워드 매칭. 우선순위: `fsd > musk > stock > product`. 매칭 실패 시 소스의 `category` 로 폴백.
+✅ hot 점수 (0~10): 9~10 임팩트 큰 1~2건만, 평균 4~6
 
-### 출처 카운트 (간이 클러스터링)
+## 작업 회고 (큰 그룹 7개 — 92 tasks 압축)
 
-카테고리당 최신 1건 선정 후, **같은 사건을 다룬 다른 매체**가 같은 카테고리 내에 있으면 카운트에 합산. 식별 기준: 제목의 첫 4단어가 일치하고 host 가 다른 경우 (단순 휴리스틱).
+1. **초기 디자인 + 영상 (#1~24)** — Remotion TSLA daily briefing 영상 + mobile-v1.html
+2. **데이터 파이프라인 (#25~46)** — fetch-news (RSS) + LLM 정제 모듈 + 가격 페처 + cards.json schema + 카드 컴팩트화 + 상세 페이지 자동 생성 + news.html
+3. **브랜드 정착 (#47~58)** — Tesla Brief!ng SPLIT BLOCK 로고 (10개 후보 → 9번) + 라이트 톤 article 페이지 + 뉴스레터 폼 + PIPA 동의 + privacy.html
+4. **배포 + 가짜 정리 (#59~67)** — 가상 정보 제거 + Cloudflare Pages + teslabriefing.com 도메인 + 가짜 카드 8장 → placeholder → 실제 RSS 첫 발행 (4장)
+5. **자동화 1차 (#68~78)** — fetch-news v2 (카테고리당 5건) + 시각 동적 갱신 + GitHub Actions cron + Routine prompt + 즉시 raw 갱신 + archive 누적 (50 cap) + 핫뉴스 hot 점수 차별화 + claude/* 청소
+6. **i18n 본격 (#79~87)** — "뉴스 전체보기" + 3일치 시드 (25장 archive) + 영어 페이지 골격 + build.mjs 두 언어 + IP 라우팅 + 토글 + SEO + 영어 데이터 시드 + 한국어 잔여 제거 + TESLA 로고 통일 (TSLA → TESLA)
+7. **Worker + 자산 (#88~92)** — TSLA 가격 5분 cron Worker + api.teslabriefing.com Custom Domain + favicon (01번 채택) + og-image + 메타 태그 + Email Routing 수신
 
-### 한계 (1단계)
+## 결정 보류 항목
 
-- ❌ **LLM 정제 없음** — 제목·본문은 RSS 영문 원문 그대로. JP 의 한국어 친근 톤은 다음 단계.
-- ❌ **`<em>` 강조 자동 부여 없음** — 카드가 v1 샘플보다 다소 밋밋함.
-- ❌ **Google News 링크가 redirect 형태** — 클릭은 작동하지만 깔끔하지 않음. 다음 단계에서 source URL 로 대체 검토.
-- ❌ **클러스터링이 단순** — 첫 4단어만 비교. 같은 사건을 다른 표현으로 다룬 매체는 별개 카드로 떨어질 수 있음.
+- **이메일 송신** (`hello@` 으로 보내기) — Resend SMTP + Gmail Send-as. 현재 수신만 운영, 트래픽 늘면 진행.
+- **fetch-news 화이트리스트** — Reuters/Bloomberg/CNBC tier-1 우선, 비영어권 자동 제외. 정제 품질 ↑.
+- **OG 이미지 PNG 변환** — X/페이스북 SVG og:image 미지원 시 호환성 보강.
+- **kjpia21 account 의 옛 Worker + KV 정리** — `tesla-briefing-price` (kjpia21 의 거) + KV `3d0fd1c4...` 삭제 (비용 0 이라 급하진 않음).
 
-### 현재 상태
+## 다음 작업 후보 (시간 들어가는 것부터)
 
-- ✅ JSON ↔ HTML 분리 + 빌드 스크립트 완성
-- ✅ RSS 페처 작동 (4 카테고리 end-to-end 검증)
-- ✅ GitHub Actions cron 1h + fetch + Pages 배포 워크플로 작성
-- ⏳ GitHub 리모트·Pages 활성화 미진행
-- ⏳ LLM 톤 정제 (한국어, `<em>` 강조) 미구현
-- ⏳ 주가 KPI 5분 페처 미구현
+| # | 작업 | 시간 |
+|---|---|---|
+| 1 | **유튜브 첫 영상 제작** + 사이트 영상 섹션 갱신 | 큰 작업 |
+| 2 | **뉴스레터 발송 시스템** — Resend + 구독 폼 백엔드 + Cloudflare Workers/Pages Functions | 1~2시간 |
+| 3 | **OG 이미지 PNG 변환** | 30분 |
+| 4 | **fetch-news 화이트리스트** | 30분 |
+| 5 | **이메일 송신** (Resend + Gmail Send-as) | 15~20분 |
+| 6 | **kjpia21 account 옛 자원 정리** | 5분 |
+| 7 | 사이트 미세 디자인 튜닝 (로고 크기 등) | 즉시 |
 
-## 다음 작업 후보
+## 주의사항·함정 (디버깅 교훈)
 
-번호순 우선순위 추천:
-
-1. ~~**데이터 수집기**~~ — ✅ 완료 (1단계: RSS + 도메인 라벨링, LLM 정제 보류).
-2. **GitHub 리모트 + Pages 활성화** — 리포 만들고 워크플로 동작 확인.
-3. **머스크 라이브 박스 (②번 fetch)** — RSS Bridge / 수동 큐레이션으로 시작. 페이지에 `<section id="musk-live">` 슬롯 추가하고 클라이언트 폴링(10분).
-4. **LLM 톤 정제** — Claude API 로 RSS 영문 헤드라인 → 한국어 친근 톤 + `<em>` 강조 자동 부여. fetch-news.mjs 마지막 단계로 추가.
-5. **주가 KPI 5분 페처** — Yahoo Finance 또는 다른 무료 소스. `data/kpi.json` 별도 갱신.
-6. **home-v2 디자인 튜닝** — 다크 톤 강도, 카드 간격, hero 카피 등 디테일 반복.
-7. **모바일 v1 (`mobile-v1.html`)** — 768px 이하 전용. 허라비 mobile-v1 참조 가능.
-8. **뉴스레터 HTML 템플릿** (`newsletter-template.html`) — 실제 발송 가능한 인라인 스타일 메일.
-9. **출처 검증 도장 SVG** (`assets/stamp-verified.svg`) — 허라비 `bee-stamp-verified.svg` 패턴 차용.
-10. **샘플 콘텐츠 상세 페이지** — 출처 4단계가 본문에 어떻게 노출되는지 보여주는 모범 페이지.
-11. **`my-shorts-generator`에 TSLA 시리즈 컴포지션 추가** — 다크 변형 디자인 시스템 확장.
+1. **Cloudflare 계정 매핑** — manager@honeylife.co.kr = teslabriefing.com. 모든 Worker/KV/Domain 작업은 manager account 로.
+2. **wrangler login** — macOS 기본 브라우저로 OAuth. 사파리 (manager) 로 가야. 또는 API token + `CLOUDFLARE_API_TOKEN` env.
+3. **Routine push** — 반드시 `git push origin HEAD:master`. 그냥 `git push` 면 새 `claude/*` 브랜치로 가짐.
+4. **fetch-news.mjs 절대 Routine 안에서 실행 X** — Routine 환경 IP 가 RSS 403 차단. RSS 페치는 GitHub Actions 만.
+5. **Cloudflare Pages 무료 빌드 한도** — 월 500. 현재 cron 2h (월 360) 안전 영역.
+6. **`*/N` 패턴 JSDoc 주석 안에 쓰면 esbuild 실패** — JSDoc `*/` 가 종료 마커. 주석에선 "every N minutes" 같은 영어로.
+7. **카카오톡/슬랙은 OG SVG 받음, X/페이스북은 미흡** — 필요 시 PNG 변환.
 
 ## 코딩 컨벤션
 
-- HTML/CSS 1파일 컴포지션 (허라비처럼). React 도입은 영상 작업할 때만(`my-shorts-generator` 쪽).
-- CSS 변수는 `:root`에 한 번 정의, 페이지마다 복붙 OK (허라비와 동일 원칙 — 강한 일관성).
-- 숫자는 항상 `class="mono"` 또는 `font-family: IBM Plex Mono` + `font-variant-numeric: tabular-nums`.
-- 한글 헤드라인 안에 `<em>`으로 강조하는 단어를 italic monospace 처리.
-- 외부 폰트 CDN 호출 안 함 (Pretendard Variable, Inter, IBM Plex Mono은 시스템에 깔려 있다고 가정). 필요 시 `home-v1.html`에 fallback 체인 이미 구성.
+- HTML/CSS 1파일 컴포지션 (허라피 패턴). React 없음.
+- CSS 변수 `:root` 한 번, 페이지마다 복붙 OK.
+- 숫자 = `class="mono"` 또는 `IBM Plex Mono` + `tabular-nums`.
+- 한글 헤드라인 `<em>` italic monospace 강조.
+- 의존성 0 (Node 22 native fetch). worker/ 는 wrangler 만.
+- commit 메시지: `feat:` / `fix:` / `chore:` / `style:` / `content:` 접두사 + 한국어 본문.
+- `Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>` 마지막 줄.
 
 ## 참고 레포지토리
 
-- `~/Documents/Claude/Projects/허니라이프 채널 & 사이트 빌드업` — 디자인 시스템 원형. home-v5, topics-finance, sample-welfare-tips-ep05를 참조하세요.
-- `~/my-shorts-generator` — 영상 렌더링. `src/components/tips/`, `src/compositions/tips-themed/SingleTopicVideo.tsx`.
-- `~/news-brief` — 5단계 딜 파이프라인 뉴스 브리프 (테슬라 어닝/M&A 코멘트에 동일 우선순위 적용 가능).
+- `~/Documents/Claude/Projects/허니라이프 채널 & 사이트 빌드업` — 디자인 시스템 원형 (허라피)
+- `~/my-shorts-generator` — Remotion 영상 렌더 (TSLA 시리즈 확장 가능)
+- `~/news-brief` — 5단계 딜 파이프라인 뉴스 브리프
+
+## 새 세션 빠른 시작 패턴
+
+```
+# 1. CLAUDE.md 자동 로드됨 (현재 파일)
+# 2. 최근 commit 확인
+git log --oneline -10
+
+# 3. 라이브 사이트 상태 확인 (선택)
+curl -s https://api.teslabriefing.com/ | python3 -m json.tool   # 가격 라이브
+# 또는 WebFetch teslabriefing.com
+
+# 4. 결정 보류 / 다음 작업 후보 확인 → JP 와 다음 진행 결정
+```
