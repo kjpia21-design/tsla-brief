@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="ko">
+<html lang="en">
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>TSLA Brief — 노이즈 없는 테슬라 브리핑</title>
-<meta name="description" content="테슬라 주주를 위한 일일 브리핑. 주가·실적, 차량·에너지·옵티머스, FSD/로보택시, 일론 소식을 한 페이지에서.">
+<title>TSLA Brief — A daily Tesla briefing without noise</title>
+<meta name="description" content="A daily briefing for Tesla shareholders. Stock, vehicles & energy & Optimus, FSD & robotaxi, and Elon updates on a single page.">
 <link rel="alternate" hreflang="ko" href="https://teslabriefing.com/">
 <link rel="alternate" hreflang="en" href="https://teslabriefing.com/en/">
 <link rel="alternate" hreflang="x-default" href="https://teslabriefing.com/">
@@ -117,7 +117,14 @@
   .brand--lg .brand__text{font-size:22px}
 
   .nav__links{display:flex;gap:4px;align-items:center}
-  .nav__links a:not(.nav__cta):not(.nav__lang){display:none}    /* 모바일: 카테고리 링크 숨김 (lang 토글은 표시) */
+  .nav__links a:not(.nav__cta):not(.nav__lang){display:none}    /* 모바일: 카테고리 링크 숨김 */
+  .nav__lang{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;font-weight:700;
+    letter-spacing:.04em;color:var(--ink-mid);
+    padding:7px 10px;border:1px solid var(--line);border-radius:var(--r-pill);
+    margin-right:4px;transition:color var(--t-1) var(--ease),border-color var(--t-1) var(--ease),background var(--t-1) var(--ease);
+  }
+  .nav__lang:hover{color:var(--ink);border-color:var(--ink-mid);background:var(--bg-3)}
   .nav__cta{
     padding:8px 14px;border-radius:var(--r-pill);
     background:var(--tesla-red);color:#fff;font-size:12.5px;font-weight:700;letter-spacing:.02em;
@@ -656,12 +663,12 @@
       <span class="brand__text">Brief<em>!ng</em></span>
     </a>
     <nav class="nav__links" aria-label="Primary">
-      <a href="#stock">주가·실적</a>
-      <a href="#product">제품</a>
-      <a href="#fsd">FSD/로보택시</a>
-      <a href="#musk">일론</a>
-      <a class="nav__lang" href="/en/" data-set-lang="en" title="English">EN</a>
-      <a class="nav__cta" href="#newsletter">뉴스레터 구독</a>
+      <a href="#stock">Stock</a>
+      <a href="#product">Product</a>
+      <a href="#fsd">FSD</a>
+      <a href="#musk">Elon</a>
+      <a class="nav__lang" href="/" data-set-lang="ko" title="한국어">한국어</a>
+      <a class="nav__cta" href="#newsletter">Subscribe</a>
     </nav>
   </div>
 </header>
@@ -679,7 +686,7 @@
       <span class="price-bar__meta">
         <span class="price-bar__pill" data-pb-state>—</span>
         <span class="price-bar__range">
-          <b>오늘</b>
+          <b>Today</b>
           <span class="pb-full" data-pb-range-full>— – —</span>
           <span class="pb-short" data-pb-range-short>— – —</span>
         </span>
@@ -694,12 +701,12 @@
 <section class="hot-news" id="hot">
   <div class="wrap">
     <div class="hot-news__head">
-      <span class="hot-news__eyebrow">HOT · 핫 뉴스</span>
-      <span class="hot-news__count"><!-- BLOCK:HOT_COUNT -->총 5건<!-- /BLOCK:HOT_COUNT --></span>
+      <span class="hot-news__eyebrow">HOT · Hot News</span>
+      <span class="hot-news__count"><!-- BLOCK:HOT_COUNT -->5 items<!-- /BLOCK:HOT_COUNT --></span>
     </div>
     <ul class="hot-news__list">
       <!-- BLOCK:HOT_NEWS -->
-      <li><a class="hot-news__item is-stock" href="#"><span class="hot-news__cat">STOCK</span><span class="hot-news__time">—</span><span class="hot-news__title">로딩 중…</span><span class="hot-news__arrow">→</span></a></li>
+      <li><a class="hot-news__item is-stock" href="#"><span class="hot-news__cat">STOCK</span><span class="hot-news__time">—</span><span class="hot-news__title">Loading…</span><span class="hot-news__arrow">→</span></a></li>
       <!-- /BLOCK:HOT_NEWS -->
     </ul>
   </div>
@@ -710,10 +717,10 @@
   <div class="wrap">
     <div class="cats__head">
       <div>
-        <h2 class="cats__title">최신 뉴스 <span class="cats__beta">BETA</span></h2>
-        <span class="cats__sub"><!-- BLOCK:CARDS_TIME -->2026.05.31 09:00 KST 기준 · 최신순<!-- /BLOCK:CARDS_TIME --></span>
+        <h2 class="cats__title">Latest News <span class="cats__beta">BETA</span></h2>
+        <span class="cats__sub"><!-- BLOCK:CARDS_TIME -->2026-05-31 09:00 KST · sorted by latest<!-- /BLOCK:CARDS_TIME --></span>
       </div>
-      <a class="cats__all" href="news.html">뉴스 전체보기</a>
+      <a class="cats__all" href="news.html">View all news</a>
     </div>
 
     <div class="cats__grid">
@@ -732,7 +739,7 @@
             <span><i class="d d-press"></i> 외신 3</span>
             <span><i class="d d-sec"></i> 1차 1</span>
           </div>
-          <span class="ccard__cta">자세히</span>
+          <span class="ccard__cta">More</span>
         </div>
       </a>
 
@@ -749,7 +756,7 @@
             <span><i class="d d-off"></i> 공식 1</span>
             <span><i class="d d-press"></i> 외신 2</span>
           </div>
-          <span class="ccard__cta">자세히</span>
+          <span class="ccard__cta">More</span>
         </div>
       </a>
 
@@ -767,7 +774,7 @@
             <span><i class="d d-press"></i> 외신 1</span>
             <span><i class="d d-rumor"></i> 추측 1</span>
           </div>
-          <span class="ccard__cta">자세히</span>
+          <span class="ccard__cta">More</span>
         </div>
       </a>
 
@@ -784,7 +791,7 @@
             <span><i class="d d-off"></i> 공식 1</span>
             <span><i class="d d-rumor"></i> 추측 2</span>
           </div>
-          <span class="ccard__cta">자세히</span>
+          <span class="ccard__cta">More</span>
         </div>
       </a>
       <!-- /BLOCK:CARDS_GRID -->
@@ -797,8 +804,8 @@
   <div class="wrap">
     <div class="vids__head">
       <div>
-        <h2 class="vids__title">유튜브 — 최신 영상</h2>
-        <span class="vids__sub">평일 1편 · 주말 정리편</span>
+        <h2 class="vids__title">YouTube — Latest</h2>
+        <span class="vids__sub">1 daily · weekend recap</span>
       </div>
     </div>
 
@@ -878,13 +885,13 @@
       <!-- /BLOCK:VIDEOS_GRID -->
     </div>
 
-    <a class="yt-cta" href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener" aria-label="유튜브 채널 바로가기">
+    <a class="yt-cta" href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener" aria-label="Go to YouTube channel">
       <span class="yt-cta__icon" aria-hidden="true">
         <svg viewBox="0 0 24 24" width="28" height="28"><path fill="#fff" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.546 15.568V8.432L15.818 12l-6.272 3.568z"/></svg>
       </span>
       <span class="yt-cta__body">
-        <span class="yt-cta__title">유튜브 채널 <em>Tesla Brief!ng</em></span>
-        <span class="yt-cta__sub">평일 매일 한 편 · 주말 정리편 · 구독 + 알림 설정</span>
+        <span class="yt-cta__title">YouTube channel <em>Tesla Brief!ng</em></span>
+        <span class="yt-cta__sub">Daily on weekdays · weekend recap · subscribe + notifications</span>
       </span>
       <span class="yt-cta__arrow" aria-hidden="true">→</span>
     </a>
@@ -899,32 +906,32 @@
         <span class="hero__dot" aria-hidden="true"></span>
         <span class="eyebrow">Daily Briefing · for shareholders</span>
       </div>
-      <h1>노이즈 없는<br/>테슬라 <em>브리핑</em>.</h1>
+      <h1>A Tesla <em>briefing</em><br/>without noise.</h1>
       <p class="lead">
-        SEC 문서, 어닝 콜, 머스크 게시물까지 — 흩어진 1차 자료를 매일 아침 한 통으로 정리합니다.
-        떡상도, 공포도 말하지 않습니다. 데이터와 출처만 보냅니다.
+        SEC filings, earnings calls, Musk posts — primary sources packed into one daily email for Tesla shareholders.
+        No pumping, no fear. Just data and sources.
       </p>
       <div class="hero__meta">
-        <span>발송 <b>평일 오전 7시 KST</b></span>
+        <span>Sent <b>7am KST · weekdays</b></span>
         <span>·</span>
-        <span><b>BETA</b> · 첫 발행 준비 중</span>
+        <span><b>BETA</b> · first issue pending</span>
       </div>
     </div>
 
     <form class="nl" id="subscribe-form" onsubmit="return tslaSubscribe(event)">
       <div class="nl__head">
-        <h2 class="nl__title">매일 아침 7시, 최신 테슬라 소식</h2>
+        <h2 class="nl__title">Daily 7am — Tesla news, refined</h2>
         <span class="nl__badge">FREE</span>
       </div>
       <div class="nl__row">
         <input type="email" placeholder="your@email.com" required aria-label="이메일 주소"/>
-        <button type="submit">뉴스레터 구독</button>
+        <button type="submit">Subscribe</button>
       </div>
       <label class="nl__consent">
         <input type="checkbox" id="subscribe-consent" required />
         <span>
-          <strong>(필수)</strong> 이메일 수집·이용에 동의합니다 ·
-          <a href="privacy.html" target="_blank" rel="noopener">개인정보처리방침 보기</a>
+          <strong>(Required)</strong> I consent to email collection and use ·
+          <a href="../privacy.html" target="_blank" rel="noopener">See privacy policy</a>
         </span>
       </label>
     </form>
@@ -939,39 +946,39 @@
         <span class="brand__block">TSLA</span>
         <span class="brand__text">Brief<em>!ng</em></span>
       </a>
-      <p>주주를 위한 노이즈 없는 테슬라 브리핑. 1차 자료와 공식 발언 중심, 출처를 카드에 함께 표시합니다.</p>
+      <p>A daily Tesla briefing for shareholders without noise. Primary sources and official statements first, with source labels on every card.</p>
     </div>
 
     <div>
-      <h5>카테고리</h5>
+      <h5>Categories</h5>
       <ul>
-        <li><a href="#stock">주가·실적</a></li>
-        <li><a href="#product">차량·에너지·옵티머스</a></li>
-        <li><a href="#fsd">FSD/로보택시</a></li>
-        <li><a href="#musk">일론 소식</a></li>
+        <li><a href="#stock">Stock</a></li>
+        <li><a href="#product">Vehicles · Energy · Optimus</a></li>
+        <li><a href="#fsd">FSD · Robotaxi</a></li>
+        <li><a href="#musk">Elon updates</a></li>
       </ul>
     </div>
 
     <div>
-      <h5>채널</h5>
+      <h5>Channels</h5>
       <ul>
-        <li><a href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener">유튜브</a></li>
-        <li><a href="#newsletter">뉴스레터</a></li>
+        <li><a href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener">YouTube</a></li>
+        <li><a href="#newsletter">Newsletter</a></li>
       </ul>
     </div>
 
     <div>
-      <h5>정책</h5>
+      <h5>Policies</h5>
       <ul>
-        <li><a href="privacy.html">개인정보처리방침</a></li>
-        <li><a href="mailto:hello@teslabriefing.com">문의 · hello@teslabriefing.com</a></li>
+        <li><a href="../privacy.html">Privacy Policy</a></li>
+        <li><a href="mailto:hello@teslabriefing.com">Contact · hello@teslabriefing.com</a></li>
       </ul>
     </div>
   </div>
 
   <div class="wrap footer__bottom">
     <span>© 2026 TESLA BRIEF!NG · NOT INVESTMENT ADVICE</span>
-    <span class="disclaimer">본 사이트는 정보 제공을 목적으로 하며, 투자 권유가 아닙니다. 모든 거래 결정의 책임은 본인에게 있습니다.</span>
+    <span class="disclaimer">This site is for information purposes only and is not investment advice. All trading decisions are your own responsibility.</span>
   </div>
   <!-- BLOCK:BUILD_INFO --><!-- build: dev (local) --><!-- /BLOCK:BUILD_INFO -->
 </footer>
@@ -979,7 +986,7 @@
 <!-- ============ PRICE BAR 폴링 ============
      1분 주기로 data/kpi.json fetch. SSR 산출 위에 클라이언트 갱신을 덮어씀. -->
 <script>
-// 언어 토글 — 클릭 시 cookie 저장 (1년) — 이후 자동 라우팅이 사용자 선택 우선.
+// Language toggle — save cookie (1 year) so auto-routing respects user choice.
 document.querySelectorAll('[data-set-lang]').forEach(el => {
   el.addEventListener('click', () => {
     const lang = el.getAttribute('data-set-lang');
@@ -987,17 +994,17 @@ document.querySelectorAll('[data-set-lang]').forEach(el => {
   });
 });
 
-// 뉴스레터 구독 폼 제출 (개인정보 보호법: 동의 체크 강제)
+// Newsletter form (consent required by PIPA)
 function tslaSubscribe(e){
   e.preventDefault();
   var f = e.currentTarget;
   var consent = f.querySelector('#subscribe-consent');
   if (consent && !consent.checked){
-    alert('개인정보 수집·이용에 동의해 주세요.');
+    alert('Please consent to email collection and use.');
     consent.focus();
     return false;
   }
-  alert('구독 신청 데모입니다. (실제 발송 연결은 추후)');
+  alert('Subscription is a demo (real form connection coming later).');
   return false;
 }
 </script>

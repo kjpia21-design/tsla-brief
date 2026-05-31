@@ -335,28 +335,30 @@ function renderArticle(template, card) {
   return out;
 }
 
-/** dist/news.html — 모든 카드 최신순 그리드. */
-async function generateNewsPage(cards) {
-  const tplPath = path.join(ROOT, "news-template.html");
+/** {outDir}/news.html — 모든 카드 최신순 그리드. lang 으로 한국어/영어 라벨 분기. */
+async function generateNewsPage(cards, { newsTemplateName = "news-template.html", outDir = OUT_DIR, lang = "ko" } = {}) {
+  const tplPath = path.join(ROOT, newsTemplateName);
   let template;
   try {
     template = await readFile(tplPath, "utf8");
   } catch {
-    console.warn(`[build] news-template.html 없음 — news.html 생성 건너뜀`);
+    console.warn(`[build] ${newsTemplateName} 없음 — news.html 생성 건너뜀`);
     return false;
   }
+  const totalLabel = lang === "en" ? `total ${cards.items.length} items` : `총 ${cards.items.length}건`;
+  const freshLabel = lang === "en" ? "calculating freshness…" : "갱신 시각 계산 중…";
   let out = template;
   const freshSince = cards.items[0]?.pubDate || "";
   const newsAsOf = freshSince
-    ? `${escapeHtml(`${cards.asOf} · 총 ${cards.items.length}건`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">갱신 시각 계산 중…</span>`
-    : escapeHtml(`${cards.asOf} · 총 ${cards.items.length}건`);
+    ? `${escapeHtml(`${cards.asOf} · ${totalLabel}`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">${freshLabel}</span>`
+    : escapeHtml(`${cards.asOf} · ${totalLabel}`);
   out = replaceBlock(out, "NEWS_TIME", newsAsOf);
   out = replaceBlock(out, "NEWS_GRID", `\n      ${renderAllCards(cards)}\n      `);
-  await writeFile(path.join(OUT_DIR, "news.html"), out, "utf8");
+  await writeFile(path.join(outDir, "news.html"), out, "utf8");
   return true;
 }
 
-async function generateArticles(cards) {
+async function generateArticles(cards, { outDir = OUT_DIR } = {}) {
   const tplPath = path.join(ROOT, "article-template.html");
   let template;
   try {
@@ -365,31 +367,48 @@ async function generateArticles(cards) {
     console.warn(`[build] article-template.html 없음 — 상세 페이지 생성 건너뜀`);
     return 0;
   }
-  const outDir = path.join(OUT_DIR, "articles");
-  await mkdir(outDir, { recursive: true });
+  const articlesDir = path.join(outDir, "articles");
+  await mkdir(articlesDir, { recursive: true });
   let generated = 0;
   for (const card of cards.items) {
     if (!card.slug) continue;
     const html = renderArticle(template, card);
-    await writeFile(path.join(outDir, `${card.slug}.html`), html, "utf8");
+    await writeFile(path.join(articlesDir, `${card.slug}.html`), html, "utf8");
     generated++;
   }
   return generated;
 }
 
-async function main() {
-  const [template, kpi, cards, videos] = await Promise.all([
-    readFile(TEMPLATE_PATH, "utf8"),
-    readJson("kpi.json"),
-    readJson("cards.json"),
-    readJson("videos.json"),
-  ]);
+/**
+ * 한 언어 빌드. 한국어/영어 각각 호출.
+ * @param {Object} opts
+ * @param {string} opts.templateName - "home.html" or "home-en.html"
+ * @param {string} opts.cardsName    - "cards.json" or "cards-en.json"
+ * @param {string} opts.archiveName  - "archive.json" or "archive-en.json"
+ * @param {string} opts.newsTemplateName - "news-template.html" or "news-template-en.html"
+ * @param {string} opts.outDir
+ * @param {string} opts.lang         - "ko" or "en"
+ * @param {string} opts.cardsFallback - 폴백 데이터 파일명 (영어가 cards-en.json 없을 때)
+ */
+async function buildOneLang(opts) {
+  const { templateName, cardsName, archiveName, newsTemplateName, outDir, lang, cardsFallback } = opts;
+  const templatePath = path.join(ROOT, templateName);
 
-  // archive.json — 누적 50개. 없거나 비어있으면 cards.json 으로 폴백.
-  // (build.mjs 단독으로는 archive 갱신 안 함 — Routine 이 cards 와 함께 관리)
+  // 데이터 읽기. cards-en.json 없으면 폴백 (raw-cards.json).
+  const template = await readFile(templatePath, "utf8");
+  const kpi = await readJson("kpi.json");
+  const videos = await readJson("videos.json");
+  let cards;
+  try {
+    cards = await readJson(cardsName);
+  } catch {
+    if (!cardsFallback) throw new Error(`${cardsName} not found`);
+    cards = await readJson(cardsFallback);
+    console.log(`[build:${lang}] ${cardsName} 없음 → ${cardsFallback} 폴백`);
+  }
   let archive;
   try {
-    archive = await readJson("archive.json");
+    archive = await readJson(archiveName);
     if (!archive.items || archive.items.length === 0) {
       archive = { ...cards, asOf: cards.asOf };
     }
@@ -400,57 +419,82 @@ async function main() {
   const now = new Date();
   const buildIso = now.toISOString();
 
+  // 라벨 lang 분기
+  const hotCountLabel = lang === "en"
+    ? `${Math.min(5, cards.items.length)} items`
+    : `총 ${Math.min(5, cards.items.length)}건`;
+  const freshLabel = lang === "en" ? "calculating freshness…" : "갱신 시각 계산 중…";
+
   let out = template;
-  // KPI_TIME 마커는 가격 박스 안 data-pb-asof 로 흡수 — 더 이상 home.html 에 없음.
   out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi));
   out = replaceBlock(out, "HOT_NEWS",    renderHotNews(cards));
-  out = replaceBlock(out, "HOT_COUNT",   `총 ${Math.min(5, cards.items.length)}건`);
+  out = replaceBlock(out, "HOT_COUNT",   hotCountLabel);
   const cardsFreshSince = cards.items[0]?.pubDate || "";
   const cardsAsOf = cardsFreshSince
-    ? `${escapeHtml(cards.asOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">갱신 시각 계산 중…</span>`
+    ? `${escapeHtml(cards.asOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">${freshLabel}</span>`
     : escapeHtml(cards.asOf);
   out = replaceBlock(out, "CARDS_TIME",  cardsAsOf);
   out = replaceBlock(out, "CARDS_GRID",  renderCards(cards));
   out = replaceBlock(out, "VIDEOS_GRID", renderVideos(videos));
   out = replaceBlock(out, "BUILD_INFO",  `<!-- build: ${buildIso} -->`);
 
-  await mkdir(OUT_DIR, { recursive: true });
-  await writeFile(OUT_PATH, out, "utf8");
+  await mkdir(outDir, { recursive: true });
+  await writeFile(path.join(outDir, "index.html"), out, "utf8");
+
+  const numArticles = await generateArticles(archive, { outDir });
+  await generateNewsPage(archive, { newsTemplateName, outDir, lang });
+
+  return { numCards: cards.items.length, numArchive: archive.items.length, numArticles, bytes: out.length };
+}
+
+async function main() {
+  // ─── Korean (메인) ─────────────────────────────────────────
+  const ko = await buildOneLang({
+    templateName: "home.html",
+    cardsName: "cards.json",
+    archiveName: "archive.json",
+    newsTemplateName: "news-template.html",
+    outDir: OUT_DIR,
+    lang: "ko",
+  });
+
+  // 정적 자원/페이지/JSON 데이터 — 한 번만 복사 (한·영 공유)
   await cp(ASSETS_DIR, OUT_ASSETS, { recursive: true });
-
-  // 카드별 상세 페이지 — archive 의 slug 가 있는 모든 카드 (누적 50개) article 생성.
-  // 이전 사이클에 노출됐던 카드도 URL 유지 — 외부 링크 깨짐 방지.
-  const numArticles = await generateArticles(archive);
-  // 전체 뉴스 목록 페이지 — archive 누적 카드 전체 최신순.
-  await generateNewsPage(archive);
-
-  // 추가 정적 페이지 — 빌드 마커는 없지만 사이트의 일부로 같이 배포.
   for (const name of ["article-sample.html", "privacy.html"]) {
-    const src = path.join(ROOT, name);
-    try {
-      await cp(src, path.join(OUT_DIR, name));
-    } catch (e) {
-      console.warn(`[build] skip ${name}: ${e.message}`);
-    }
+    try { await cp(path.join(ROOT, name), path.join(OUT_DIR, name)); }
+    catch (e) { console.warn(`[build] skip ${name}: ${e.message}`); }
   }
-
-  // 클라이언트 fetch 대상 JSON (가격 박스·머스크 라이브 박스) 복사.
-  // home.html 의 폴링 스크립트가 dist/data/{kpi,musk-live}.json 을 직접 fetch.
   await mkdir(path.join(OUT_DIR, "data"), { recursive: true });
   for (const name of ["kpi.json", "musk-live.json"]) {
-    const src = path.join(DATA_DIR, name);
-    try {
-      await cp(src, path.join(OUT_DIR, "data", name));
-    } catch (e) {
-      console.warn(`[build] skip data/${name}: ${e.message}`);
-    }
+    try { await cp(path.join(DATA_DIR, name), path.join(OUT_DIR, "data", name)); }
+    catch (e) { console.warn(`[build] skip data/${name}: ${e.message}`); }
   }
 
-  const priceStr = typeof kpi.price === "number"
-    ? `$${kpi.price.toFixed(2)} (${kpi.marketStateLabel || kpi.marketState || "?"})`
+  // ─── English (옵션) ──────────────────────────────────────
+  // home-en.html 이 있으면 영어 빌드 → dist/en/
+  let en = null;
+  try {
+    en = await buildOneLang({
+      templateName: "home-en.html",
+      cardsName: "cards-en.json",
+      cardsFallback: "raw-cards.json",   // cards-en 없으면 raw 영문 그대로
+      archiveName: "archive-en.json",
+      newsTemplateName: "news-template-en.html",
+      outDir: path.join(OUT_DIR, "en"),
+      lang: "en",
+    });
+  } catch (e) {
+    console.warn(`[build] English skipped: ${e.message}`);
+  }
+
+  // 출력 요약
+  const kpiData = await readJson("kpi.json");
+  const priceStr = typeof kpiData.price === "number"
+    ? `$${kpiData.price.toFixed(2)} (${kpiData.marketStateLabel || kpiData.marketState || "?"})`
     : "(no price)";
-  console.log(`[build] OK → ${path.relative(ROOT, OUT_PATH)}`);
-  console.log(`[build] price ${priceStr} · ${cards.items.length} cards · ${archive.items.length} archive · ${numArticles} articles · ${videos.items.length} videos · ${out.length} bytes · ${buildIso}`);
+  console.log(`[build] OK · price ${priceStr}`);
+  console.log(`[build] KO: ${ko.numCards} cards · ${ko.numArchive} archive · ${ko.numArticles} articles · ${ko.bytes} bytes`);
+  if (en) console.log(`[build] EN: ${en.numCards} cards · ${en.numArchive} archive · ${en.numArticles} articles · ${en.bytes} bytes`);
 }
 
 main().catch((err) => {
