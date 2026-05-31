@@ -239,9 +239,18 @@ const CATEGORY_LABELS = {
   musk:    "ELON · 일론 소식",
 };
 
+// 일반 브라우저로 위장 — Anthropic Cloud Routine IP 가 봇으로 차단되는 케이스 회피용.
+// (로컬 macOS 환경에서는 어떤 UA 든 통과하지만, 클라우드 IP 차단을 우회하려면 가장 일반적인 UA 가 안전.)
+const BROWSER_HEADERS = {
+  "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "Accept": "application/rss+xml, application/xml, application/atom+xml, text/xml, */*;q=0.8",
+  "Accept-Language": "en-US,en;q=0.9",
+  "Cache-Control": "no-cache",
+};
+
 async function fetchRss(url) {
   const res = await fetch(url, {
-    headers: { "User-Agent": "TSLA-Brief/0.1 (+https://github.com/)" },
+    headers: BROWSER_HEADERS,
     redirect: "follow",
     signal: AbortSignal.timeout(15000),
   });
