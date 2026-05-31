@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-05-31 15:20 UTC · sorted by latest",
+  "asOf": "2026-05-31 19:07 UTC · sorted by latest",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · Elon News",
-      "time": "20m ago",
+      "time": "4h ago",
       "pubDate": "2026-05-31T15:00:00.000Z",
       "title": "Tesla-SpaceX Merger Could Trigger Musk's <em>$1T Pay Package</em> Automatically",
       "body": "SpaceX has a big IPO coming up, but the next step might be a merger of SpaceX and Tesla. And if so, it could be a backdoor to triggering Elon Musk's trillion-dollar pay package automatically, without having to meet any o…",
@@ -18,7 +18,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · Stock & Earnings",
-      "time": "43m ago",
+      "time": "4h ago",
       "pubDate": "2026-05-31T14:37:10.000Z",
       "title": "Tesla Stock <em>Up 28%</em> in 3 Weeks — Can the Rally Continue?",
       "body": "Up 28% in weeks, could Tesla stock go even higher? Yahoo Finance UK",
@@ -32,10 +32,10 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · Autonomy & Robotaxi",
-      "time": "49m ago",
+      "time": "5h ago",
       "pubDate": "2026-05-31T14:31:20.000Z",
       "title": "Former Tesla <em>AI Trainers</em> Say They Wouldn't Use FSD — Even if Paid",
-      "body": "Elon Musk-Led Tesla's Former AI Trainers Do Not Trust Its Self-Driving Tech, Safety Data: Repor Benzinga",
+      "body": "Elon Musk-Led Tesla's Former AI Trainers Do Not Trust Its Self-Driving Tech, Safety Data: Report Benzinga",
       "sourceName": "Benzinga",
       "sourceLabel": "press",
       "slug": "fsd-2026-05-31-employee-safety-concerns",
@@ -44,9 +44,23 @@
       "hot": 7
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · Vehicles, Energy & Optimus",
+      "time": "5h ago",
+      "pubDate": "2026-05-31T13:53:34.000Z",
+      "title": "This Week In Tesla: European <em>Comeback</em>, New Optimus Patent, Newsom's $1T Bill",
+      "body": "This Week In Tesla: European Comeback, New Optimus Patent, Gavin Newsom's $1 Trillion Bill, And More Benzinga",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "product-2026-05-31-this-week-optimus-patent-newsom",
+      "summary": "",
+      "href": "https://www.benzinga.com/",
+      "hot": 7
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · Autonomy & Robotaxi",
-      "time": "3h ago",
+      "time": "7h ago",
       "pubDate": "2026-05-31T11:56:35.000Z",
       "title": "Estonia Officially Approves Tesla's <em>Self-Driving System</em> for Public Roads",
       "body": "Estonia approves Tesla's self-driving system for its roads Estonian World",
@@ -56,20 +70,6 @@
       "summary": "",
       "href": "https://estonianworld.com/",
       "hot": 6
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · Stock & Earnings",
-      "time": "4h ago",
-      "pubDate": "2026-05-31T11:20:57.000Z",
-      "title": "Jensen Huang: <em>Humanoid Robots</em> a $40T Market — Tesla Optimus in Focus",
-      "body": "Jensen Huang Just Called Humanoid Robots a $40 Trillion Market. Here's Why Wall Street Is Loading Up on Physical AI Stocks 24/7 Wall St.",
-      "sourceName": "24/7 Wall St.",
-      "sourceLabel": "press",
-      "slug": "stock-2026-05-31-jensen-huang-humanoid-40t-optimus",
-      "summary": "",
-      "href": "https://247wallst.com/",
-      "hot": 7
     }
   ]
 }
