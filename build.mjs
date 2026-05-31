@@ -183,14 +183,25 @@ const CATEGORY_SHORT = {
  * 핫 뉴스 — 제목 5건만 stack.
  * cards.items 의 첫 5개. 각 항목 클릭 시 상세 페이지로.
  */
+/**
+ * 핫뉴스 — hot 점수 (0~10) 기준 정렬, top 5.
+ * - 1차 정렬: hot 점수 desc (LLM 정성 판단, Routine 이 부여)
+ * - 2차 정렬 (동률): pubDate desc — 같은 hot 이면 최신 우선
+ * - 폴백: hot 필드 없으면 기본 5 → 사실상 시간순
+ */
 function renderHotNews(cards) {
-  const top = cards.items.slice(0, 5);
+  const ranked = [...cards.items].sort((a, b) => {
+    const hotA = typeof a.hot === "number" ? a.hot : 5;
+    const hotB = typeof b.hot === "number" ? b.hot : 5;
+    if (hotA !== hotB) return hotB - hotA;
+    return Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0);
+  });
+  const top = ranked.slice(0, 5);
   const items = top.map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const short = CATEGORY_SHORT[c.category] || "NEWS";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
     const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
-    // 제목에 <em> 마크업이 박혀있으니 escape 하지 않고 그대로 살림.
     return `      <li><a class="hot-news__item ${cls}" href="${escapeHtml(href)}">
         <span class="hot-news__cat">${escapeHtml(short)}</span>
         <span class="hot-news__time"${pubAttr}>${escapeHtml(c.time || "")}</span>
