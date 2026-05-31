@@ -331,7 +331,7 @@
     padding:3px 7px;border-radius:var(--r-pill);margin-left:8px;
     vertical-align:middle;font-weight:700;
   }
-  /* 신선도 라벨 — JS 가 매 1분 갱신 */
+  /* Freshness label — JS refresh every 1 minute */
   .cats__fresh{
     display:inline-block;font-family:"IBM Plex Mono",ui-monospace,monospace;
     font-size:11px;color:var(--ink-mid);font-weight:600;
@@ -1010,15 +1010,15 @@ function tslaSubscribe(e){
 </script>
 
 <script>
-// ============ 동적 시각 갱신 ============
-// 카드의 [data-pubdate] = "X분/시간/일 전" 매분 재계산
+// ============ Dynamic time refresh ============
+// [data-pubdate] = "X minutes/hours/days ago" — recalculated every minute
 // [data-fresh-since] = "약 N분 전 콘텐츠" — 갱신 신선도 표시
 (() => {
   function fmtRel(iso) {
     const t = Date.parse(iso);
     if (Number.isNaN(t)) return "";
     const diffSec = Math.round((Date.now() - t) / 1000);
-    if (diffSec < 60)        return "방금 전";
+    if (diffSec < 60)        return "just now";
     const diffMin = Math.round(diffSec / 60);
     if (diffMin < 60)        return `${diffMin}m ago`;
     const diffHr = Math.round(diffMin / 60);
@@ -1030,11 +1030,11 @@ function tslaSubscribe(e){
     const t = Date.parse(iso);
     if (Number.isNaN(t)) return "";
     const diffMin = Math.max(1, Math.round((Date.now() - t) / 60000));
-    if (diffMin < 60)        return `최신 콘텐츠 ${diffMin}분 전`;
+    if (diffMin < 60)        return `latest content ${diffMin}m ago`;
     const diffHr = Math.round(diffMin / 60);
-    if (diffHr < 24)         return `최신 콘텐츠 ${diffHr}시간 전`;
+    if (diffHr < 24)         return `latest content ${diffHr}h ago`;
     const diffDay = Math.round(diffHr / 24);
-    return `최신 콘텐츠 ${diffDay}일 전`;
+    return `latest content ${diffDay}d ago`;
   }
   function tick() {
     document.querySelectorAll('[data-pubdate]').forEach((el) => {
@@ -1047,7 +1047,7 @@ function tslaSubscribe(e){
     });
   }
   tick();
-  setInterval(tick, 60_000); // 매 1분
+  setInterval(tick, 60_000); // every 1 minute
 })();
 </script>
 

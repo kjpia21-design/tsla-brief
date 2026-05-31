@@ -38,6 +38,14 @@ const VIDEO_THUMB_CLASS = {
   musk: "v-musk",
 };
 
+// 영어 빌드용 카테고리 라벨 (raw-cards.json 의 한국어 categoryLabel 영문 대체)
+const CATEGORY_LABEL_EN = {
+  stock:   "STOCK · Stock & Earnings",
+  product: "PRODUCT · Vehicles, Energy & Optimus",
+  fsd:     "FSD · Autonomy & Robotaxi",
+  musk:    "ELON · Elon News",
+};
+
 // 4단계 출처 표시 순서: 1차(green) → 공식(blue) → 외신(orange) → 추측(grey)
 const SOURCE_ORDER = [
   { key: "sec",      dot: "d-sec",    label: "1차"  },
@@ -216,21 +224,23 @@ function renderHotNews(cards) {
  * 메인 카드 그리드 — cards.items 의 첫 5개 (최신순).
  * 전체 보기는 news.html 로 이동.
  */
-function renderCards(cards) {
+function renderCards(cards, { lang = "ko" } = {}) {
+  const ctaLabel = lang === "en" ? "More" : "자세히";
   const items = cards.items.slice(0, 5).map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
     const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
+    const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
-          <span class="ccard__cat">${escapeHtml(c.categoryLabel)}</span>
+          <span class="ccard__cat">${escapeHtml(catLabel)}</span>
           <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
         <h3>${c.title}</h3>
         <p class="ccard__body">${escapeHtml(c.body)}</p>
         <div class="ccard__meta">
           <div class="src">${renderCardMeta(c)}</div>
-          <span class="ccard__cta">자세히</span>
+          <span class="ccard__cta">${ctaLabel}</span>
         </div>
       </a>`;
   }).join("\n");
@@ -238,21 +248,23 @@ function renderCards(cards) {
 }
 
 /** 전체 카드 (news.html 용) — 시간순으로 전부. */
-function renderAllCards(cards) {
+function renderAllCards(cards, { lang = "ko" } = {}) {
+  const ctaLabel = lang === "en" ? "More" : "자세히";
   const items = cards.items.map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
     const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
+    const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
-          <span class="ccard__cat">${escapeHtml(c.categoryLabel)}</span>
+          <span class="ccard__cat">${escapeHtml(catLabel)}</span>
           <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
         <h3>${c.title}</h3>
         <p class="ccard__body">${escapeHtml(c.body)}</p>
         <div class="ccard__meta">
           <div class="src">${renderCardMeta(c)}</div>
-          <span class="ccard__cta">자세히</span>
+          <span class="ccard__cta">${ctaLabel}</span>
         </div>
       </a>`;
   }).join("\n");
@@ -347,13 +359,18 @@ async function generateNewsPage(cards, { newsTemplateName = "news-template.html"
   }
   const totalLabel = lang === "en" ? `total ${cards.items.length} items` : `총 ${cards.items.length}건`;
   const freshLabel = lang === "en" ? "calculating freshness…" : "갱신 시각 계산 중…";
+  // 영어 빌드 시 cards.asOf 의 한국어 텍스트 영문화 (raw 폴백 호환)
+  const hasKorean = /[가-힯]/.test(cards.asOf || "");
+  const localizedAsOf = (lang === "en" && hasKorean)
+    ? `${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC · sorted by latest`
+    : cards.asOf;
   let out = template;
   const freshSince = cards.items[0]?.pubDate || "";
   const newsAsOf = freshSince
-    ? `${escapeHtml(`${cards.asOf} · ${totalLabel}`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">${freshLabel}</span>`
-    : escapeHtml(`${cards.asOf} · ${totalLabel}`);
+    ? `${escapeHtml(`${localizedAsOf} · ${totalLabel}`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">${freshLabel}</span>`
+    : escapeHtml(`${localizedAsOf} · ${totalLabel}`);
   out = replaceBlock(out, "NEWS_TIME", newsAsOf);
-  out = replaceBlock(out, "NEWS_GRID", `\n      ${renderAllCards(cards)}\n      `);
+  out = replaceBlock(out, "NEWS_GRID", `\n      ${renderAllCards(cards, { lang })}\n      `);
   await writeFile(path.join(outDir, "news.html"), out, "utf8");
   return true;
 }
@@ -425,16 +442,23 @@ async function buildOneLang(opts) {
     : `총 ${Math.min(5, cards.items.length)}건`;
   const freshLabel = lang === "en" ? "calculating freshness…" : "갱신 시각 계산 중…";
 
+  // 영어 빌드에서 cards.asOf 에 한글이 섞여 있으면 (raw 폴백 등) 영문으로 재생성.
+  // raw-cards.json 의 asOf 는 한국어("...UTC 기준 · 카테고리당 top 5건") 이라 영어 사이트에 어색.
+  const hasKorean = /[가-힯]/.test(cards.asOf || "");
+  const localizedCardsAsOf = (lang === "en" && hasKorean)
+    ? `${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC · sorted by latest`
+    : cards.asOf;
+
   let out = template;
   out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi));
   out = replaceBlock(out, "HOT_NEWS",    renderHotNews(cards));
   out = replaceBlock(out, "HOT_COUNT",   hotCountLabel);
   const cardsFreshSince = cards.items[0]?.pubDate || "";
   const cardsAsOf = cardsFreshSince
-    ? `${escapeHtml(cards.asOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">${freshLabel}</span>`
-    : escapeHtml(cards.asOf);
+    ? `${escapeHtml(localizedCardsAsOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">${freshLabel}</span>`
+    : escapeHtml(localizedCardsAsOf);
   out = replaceBlock(out, "CARDS_TIME",  cardsAsOf);
-  out = replaceBlock(out, "CARDS_GRID",  renderCards(cards));
+  out = replaceBlock(out, "CARDS_GRID",  renderCards(cards, { lang }));
   out = replaceBlock(out, "VIDEOS_GRID", renderVideos(videos));
   out = replaceBlock(out, "BUILD_INFO",  `<!-- build: ${buildIso} -->`);
 
