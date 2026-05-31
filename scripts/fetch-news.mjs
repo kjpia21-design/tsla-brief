@@ -25,7 +25,8 @@ import path from "node:path";
 const ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 // raw 영문 RSS 출력 — 매일 cron 으로 덮어씌워짐.
 // 한국어 정제분(data/cards.json)은 별도 흐름으로 갱신 (Claude 구독 내 수동 정제).
-const OUT_PATH = path.join(ROOT, "data", "raw-cards.json");
+// 환경변수 SEED_OUT 으로 다른 출력 파일 지정 가능 (수동 시드용).
+const OUT_PATH = path.join(ROOT, "data", process.env.SEED_OUT || "raw-cards.json");
 
 // ─────────────────────────────────────────────────────────
 // RSS 소스 정의
@@ -36,7 +37,7 @@ const GN = (q) => `https://news.google.com/rss/search?q=${encodeURIComponent(q)}
 
 const SOURCES = [
   // STOCK ─────────────────────────────
-  { category: "stock",   url: GN("Tesla TSLA stock when:1d"), defaultLabel: "press" },
+  { category: "stock",   url: GN(`Tesla TSLA stock when:${process.env.SEED_WINDOW || "1d"}`), defaultLabel: "press" },
   { category: "stock",   url: "https://feeds.finance.yahoo.com/rss/2.0/headline?s=TSLA&region=US&lang=en-US", defaultLabel: "press" },
 
   // PRODUCT ───────────────────────────
@@ -45,10 +46,10 @@ const SOURCES = [
 
   // FSD ───────────────────────────────
   { category: "fsd",     url: "https://electrek.co/guides/tesla-autopilot/feed/", defaultLabel: "press" },
-  { category: "fsd",     url: GN("Tesla FSD OR \"Full Self-Driving\" OR robotaxi when:2d"), defaultLabel: "press" },
+  { category: "fsd",     url: GN(`Tesla FSD OR "Full Self-Driving" OR robotaxi when:${process.env.SEED_WINDOW || "2d"}`), defaultLabel: "press" },
 
   // MUSK ──────────────────────────────
-  { category: "musk",    url: GN("Elon Musk Tesla when:1d"), defaultLabel: "press" },
+  { category: "musk",    url: GN(`Elon Musk Tesla when:${process.env.SEED_WINDOW || "1d"}`), defaultLabel: "press" },
 ];
 
 // ─────────────────────────────────────────────────────────
@@ -274,8 +275,8 @@ function normalizeHref(it) {
   }
 }
 
-// 카테고리당 최대 N건 (한국어 정제 시 선택 폭)
-const N_PER_CATEGORY = 5;
+// 카테고리당 최대 N건 (한국어 정제 시 선택 폭). 환경변수 SEED_N 으로 override.
+const N_PER_CATEGORY = Number(process.env.SEED_N || 5);
 
 async function main() {
   console.log(`[fetch-news] starting · ${SOURCES.length} sources · top ${N_PER_CATEGORY} per category`);

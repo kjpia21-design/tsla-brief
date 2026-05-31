@@ -5,3 +5,5 @@ node_modules/
 dist/
 .env
 .env.local
+# 일회용 시드/디버그 임시 산출물
+data/raw-archive-seed.json
