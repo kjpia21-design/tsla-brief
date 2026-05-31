@@ -374,6 +374,18 @@ async function main() {
     readJson("videos.json"),
   ]);
 
+  // archive.json — 누적 50개. 없거나 비어있으면 cards.json 으로 폴백.
+  // (build.mjs 단독으로는 archive 갱신 안 함 — Routine 이 cards 와 함께 관리)
+  let archive;
+  try {
+    archive = await readJson("archive.json");
+    if (!archive.items || archive.items.length === 0) {
+      archive = { ...cards, asOf: cards.asOf };
+    }
+  } catch {
+    archive = { ...cards, asOf: cards.asOf };
+  }
+
   const now = new Date();
   const buildIso = now.toISOString();
 
@@ -395,10 +407,11 @@ async function main() {
   await writeFile(OUT_PATH, out, "utf8");
   await cp(ASSETS_DIR, OUT_ASSETS, { recursive: true });
 
-  // 카드별 상세 페이지 — cards.json 의 slug 가 있는 각 카드마다 1개씩.
-  const numArticles = await generateArticles(cards);
-  // 전체 뉴스 목록 페이지 — 모든 카드 최신순.
-  await generateNewsPage(cards);
+  // 카드별 상세 페이지 — archive 의 slug 가 있는 모든 카드 (누적 50개) article 생성.
+  // 이전 사이클에 노출됐던 카드도 URL 유지 — 외부 링크 깨짐 방지.
+  const numArticles = await generateArticles(archive);
+  // 전체 뉴스 목록 페이지 — archive 누적 카드 전체 최신순.
+  await generateNewsPage(archive);
 
   // 추가 정적 페이지 — 빌드 마커는 없지만 사이트의 일부로 같이 배포.
   for (const name of ["article-sample.html", "privacy.html"]) {
@@ -426,7 +439,7 @@ async function main() {
     ? `$${kpi.price.toFixed(2)} (${kpi.marketStateLabel || kpi.marketState || "?"})`
     : "(no price)";
   console.log(`[build] OK → ${path.relative(ROOT, OUT_PATH)}`);
-  console.log(`[build] price ${priceStr} · ${cards.items.length} cards · ${numArticles} articles · ${videos.items.length} videos · ${out.length} bytes · ${buildIso}`);
+  console.log(`[build] price ${priceStr} · ${cards.items.length} cards · ${archive.items.length} archive · ${numArticles} articles · ${videos.items.length} videos · ${out.length} bytes · ${buildIso}`);
 }
 
 main().catch((err) => {
