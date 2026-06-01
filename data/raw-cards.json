@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-01 17:53 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-01 18:51 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18m ago",
+      "time": "17m ago",
+      "pubDate": "2026-06-01T18:33:45.000Z",
+      "title": "Tesla Stock (TSLA) Falls on Robo Attack from Nvidia and OpenAI",
+      "body": "Tesla Stock (TSLA) Falls on Robo Attack from Nvidia and OpenAI TipRanks",
+      "sourceName": "TipRanks",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tipranks.com/news/tesla-stock-tsla-falls-on-robo-attack-from-nvidi-and-openai"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "37m ago",
+      "pubDate": "2026-06-01T18:14:26.000Z",
+      "title": "Tesla’s FSD Supervised completes coast-to-coast drives without human input",
+      "body": "Tesla’s FSD Supervised completes coast-to-coast drives without human input Crypto Briefing",
+      "sourceName": "Crypto Briefing",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://cryptobriefing.com/tesla-fsd-coast-to-coast-drives/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "39m ago",
+      "pubDate": "2026-06-01T18:12:00.000Z",
+      "title": "Tesla Stock Faces Valuation Hurdle Amid Dropping Q1 Revenue",
+      "body": "Tesla Stock Faces Valuation Hurdle Amid Dropping Q1 Revenue asatunews.co.id",
+      "sourceName": "asatunews.co.id",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.asatunews.co.id/en/tesla-stock-faces-valuation-hurdle"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
       "pubDate": "2026-06-01T17:35:14.000Z",
       "title": "NIO Soars 7% on Blowout May Deliveries Up 62%, Tesla Sinks 3% as China EV Battle Intensifies",
       "body": "NIO Soars 7% on Blowout May Deliveries Up 62%, Tesla Sinks 3% as China EV Battle Intensifies 24/7 Wall St.",
@@ -17,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-01T17:30:39.000Z",
       "title": "Tesla Has Renamed FSD Due To Lawsuit By Chinese Buyers",
       "body": "Tesla Has Renamed FSD Due To Lawsuit By Chinese Buyers Yahoo Finance",
@@ -30,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "28m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-01T17:25:50.000Z",
       "title": "Tesla Certifies Model Y For Autonomous Taxi Use In Texas",
       "body": "Tesla Certifies Model Y For Autonomous Taxi Use In Texas AutoSpies.com",
@@ -43,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "40m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-01T17:13:29.000Z",
       "title": "Tesla FSD v14 is so good it’s making me dangerously complacent",
       "body": "I was the first journalist to test Tesla’s Autopilot before it launched over a decade ago. I’ve tested every version of Autopilot and “Full Self-Driving” since. FSD v14 is by far the most impressive — and that’s exactly …",
@@ -56,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "46m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-01T17:07:04.000Z",
       "title": "Tesla Stock (NASDAQ:TSLA) Plunges as BYD Roars Ahead on Liability Issues",
       "body": "Tesla Stock (NASDAQ:TSLA) Plunges as BYD Roars Ahead on Liability Issues TipRanks",
@@ -67,35 +106,9 @@
       "href": "https://www.tipranks.com/news/tesla-stock-nasdaqtsla-plunges-as-byd-roars-ahead-on-liability-issues"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "57m ago",
-      "pubDate": "2026-06-01T16:56:11.000Z",
-      "title": "Tesla (TSLA) Shares Decline as OpenAI Enters Humanoid Robot Market",
-      "body": "Tesla (TSLA) Shares Decline as OpenAI Enters Humanoid Robot Market Blockonomi",
-      "sourceName": "Blockonomi",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://blockonomi.com/tesla-tsla-shares-decline-as-openai-enters-humanoid-robot-market/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "57m ago",
-      "pubDate": "2026-06-01T16:56:00.000Z",
-      "title": "Tesla (TSLA) Shares Decline as OpenAI Enters Humanoid Robot Market",
-      "body": "Tesla (TSLA) Shares Decline as OpenAI Enters Humanoid Robot Market MoneyCheck",
-      "sourceName": "MoneyCheck",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://moneycheck.com/tesla-tsla-shares-decline-as-openai-enters-humanoid-robot-market/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-01T16:42:28.000Z",
       "title": "Tesla Model 3 fell 300 ft off a cliff in Malibu, occupants walked away on their own (video)",
       "body": "Tesla Model 3 fell 300 ft off a cliff in Malibu, occupants walked away on their own (video) Tesla Oracle",
@@ -106,22 +119,9 @@
       "href": "https://www.teslaoracle.com/2026/06/01/tesla-model-3-fell-300-ft-off-the-cliff-in-malibu-occupants-walked-away-on-their-own-video/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-01T16:14:04.000Z",
-      "title": "TSLA stock slips after-hours: Waymo's massive robotaxi lead casts new shadow over Tesla's FSD push",
-      "body": "TSLA stock slips after-hours: Waymo's massive robotaxi lead casts new shadow over Tesla's FSD push MSN",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.msn.com/en-us/autos/news/tsla-stock-slips-after-hours-waymos-massive-robotaxi-lead-casts-new-shadow-over-teslas-fsd-push/ar-AA24k6mQ"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-01T16:02:02.000Z",
       "title": "Tesla Optimus & Musk face a new threat",
       "body": "Tesla Optimus & Musk face a new threat — OpenAI Robotics Yahoo Finance",
@@ -134,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-01T15:41:00.000Z",
       "title": "Tesla Model 3 Plunges 300 Feet Off Cliff, Passengers Survive",
       "body": "Tesla Model 3 Plunges 300 Feet Off Cliff, Passengers Survive Not a Tesla App",
@@ -147,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-01T12:54:00.000Z",
       "title": "The Odds SpaceX Merges With Tesla Are Higher Than You Think",
       "body": "The Odds SpaceX Merges With Tesla Are Higher Than You Think Barron's",
@@ -160,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-01T12:54:00.000Z",
       "title": "SpaceX Merging With Tesla Has Higher Odds Than You Think",
       "body": "SpaceX Merging With Tesla Has Higher Odds Than You Think Barron's",
@@ -173,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-01T12:18:57.000Z",
       "title": "Tesla plans ingenious improvement to one of its best features",
       "body": "Tesla is planning to improve one of the best features on its lineup of cars, a new patent shows. Tesla’s massive glass roof on its premium models is among the coolest additions to the all-electric vehicles, but the desig…",
@@ -186,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-01T09:46:34.000Z",
       "title": "BYD will pay for crashes on its FSD competitor, something Tesla never has",
       "body": "BYD says it will assume full financial liability for at-fault accidents that happen while its “God’s Eye” urban driving system is active in China — with no cap on the payout. It’s a commitment Tesla has never made for “F…",
@@ -199,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-01T06:54:41.000Z",
       "title": "Tesla saves its passengers again – This time after a 300-foot cliff fall in Malibu",
       "body": "A Tesla Model 3 fell 300 feet off a Malibu cliff and both passengers survived. The post Tesla saves its passengers again – This time after a 300-foot cliff fall in Malibu appeared first on TESLARATI.",
@@ -210,22 +210,9 @@
       "href": "https://www.teslarati.com/tesla-crash-malibu-cliff/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
-      "pubDate": "2026-06-01T06:08:00.000Z",
-      "title": "TSLA Stock Slips Overnight: SpaceX IPO Hype Is Starting To Look Like Amazon's Dot-Com Bubble Peak In 2000, Warns Ex-Lehman Trader",
-      "body": "TSLA Stock Slips Overnight: SpaceX IPO Hype Is Starting To Look Like Amazon's Dot-Com Bubble Peak In 2000, Warns Ex-Lehman Trader Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-slips-overnight-spacex-060842762.html"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-01T04:08:42.000Z",
       "title": "Tesla Backs Off Threat to Cancel Australian Graphite Supply Agreement, Syrah Stock Pops Over 23%",
       "body": "Tesla Backs Off Threat to Cancel Australian Graphite Supply Agreement, Syrah Stock Pops Over 23% Yahoo Finance UK",
@@ -238,7 +225,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "18h ago",
+      "time": "19h ago",
       "pubDate": "2026-05-31T23:50:00.000Z",
       "title": "Tesla drops threat to scrap graphite supply deal with Australia's Syrah",
       "body": "Tesla drops threat to scrap graphite supply deal with Australia's Syrah Reuters",
@@ -247,6 +234,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/autos-transportation/tesla-withdraws-termination-notice-graphite-supply-deal-with-australias-syrah-2026-05-31/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
+      "pubDate": "2026-05-31T19:21:00.000Z",
+      "title": "Turns Out, Tesla's Best Cybertruck Customer Is SpaceX",
+      "body": "Turns Out, Tesla's Best Cybertruck Customer Is SpaceX Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-cybertruck-spacex-elon-musk-9d3e1a1e"
     },
     {
       "category": "product",
