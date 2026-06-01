@@ -301,10 +301,29 @@ const SOURCE_LABEL_KR = {
 };
 
 /**
+ * pubDate(ISO) → 실제 게재 날짜 문자열. 상세 페이지에서 "1h ago" 대신 사용.
+ * 기준 시간대 Asia/Seoul. ko: "2026년 6월 1일", en: "Jun 1, 2026".
+ * pubDate 없거나 파싱 실패 시 빈 문자열.
+ */
+function formatArticleDate(pubDate, lang = "ko") {
+  const t = Date.parse(pubDate || "");
+  if (!pubDate || Number.isNaN(t)) return "";
+  const d = new Date(t);
+  const locale = lang === "en" ? "en-US" : "ko-KR";
+  const opts = {
+    year: "numeric",
+    month: lang === "en" ? "short" : "long",
+    day: "numeric",
+    timeZone: "Asia/Seoul",
+  };
+  return new Intl.DateTimeFormat(locale, opts).format(d);
+}
+
+/**
  * cards.items 의 카드 하나 → 상세 페이지 HTML 1개 생성.
  * article-template.html 의 BLOCK 마커를 카드 데이터로 치환.
  */
-function renderArticle(template, card) {
+function renderArticle(template, card, lang = "ko") {
   const catCls = CATEGORY_CLASS[card.category] || "is-stock";
   const srcLabel = card.sourceLabel || "press";
   const srcDot = SOURCE_LABEL_DOT[srcLabel] || "d-press";
@@ -331,7 +350,7 @@ function renderArticle(template, card) {
   out = replaceBlock(out, "A_CAT_CLASS",    catCls, opts);
   out = replaceBlock(out, "A_CAT_LABEL",    escapeHtml(card.categoryLabel), opts);
   out = replaceBlock(out, "A_TITLE",        card.title, opts);  // <em> 살림
-  out = replaceBlock(out, "A_TIME",         escapeHtml(card.time || ""), opts);
+  out = replaceBlock(out, "A_TIME",         escapeHtml(formatArticleDate(card.pubDate, lang) || card.time || ""), opts);
   out = replaceBlock(out, "A_SRC_DOT",      srcDot, opts);
   out = replaceBlock(out, "A_SRC_DOT2",     srcDot, opts);
   out = replaceBlock(out, "A_SRC_NAME",     escapeHtml(sourceName), opts);
@@ -371,7 +390,7 @@ async function generateNewsPage(cards, { newsTemplateName = "news-template.html"
   return true;
 }
 
-async function generateArticles(cards, { outDir = OUT_DIR } = {}) {
+async function generateArticles(cards, { outDir = OUT_DIR, lang = "ko" } = {}) {
   const tplPath = path.join(ROOT, "article-template.html");
   let template;
   try {
@@ -385,7 +404,7 @@ async function generateArticles(cards, { outDir = OUT_DIR } = {}) {
   let generated = 0;
   for (const card of cards.items) {
     if (!card.slug) continue;
-    const html = renderArticle(template, card);
+    const html = renderArticle(template, card, lang);
     await writeFile(path.join(articlesDir, `${card.slug}.html`), html, "utf8");
     generated++;
   }
@@ -461,7 +480,7 @@ async function buildOneLang(opts) {
   await mkdir(outDir, { recursive: true });
   await writeFile(path.join(outDir, "index.html"), out, "utf8");
 
-  const numArticles = await generateArticles(archive, { outDir });
+  const numArticles = await generateArticles(archive, { outDir, lang });
   await generateNewsPage(archive, { newsTemplateName, outDir, lang });
 
   return { numCards: cards.items.length, numArchive: archive.items.length, numArticles, bytes: out.length };
