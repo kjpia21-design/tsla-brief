@@ -100,6 +100,76 @@ function labelForUrl(link) {
 }
 
 // ─────────────────────────────────────────────────────────
+// 화이트리스트 (가산점 방식)
+//   하드 제외가 아니라 "선별 순위"만 조정한다. 카드가 부족해지는 일이 없도록
+//   모든 후보를 남기되, 신뢰도 높은 출처를 위로 끌어올린다.
+//   최종 점수 = 신선도 점수(recency) + 출처 가산점(tier).
+//   (노출 순서는 선별 후 다시 시간순으로 정렬되므로 여기 점수는 "어떤 카드를 고르냐"에만 영향)
+// ─────────────────────────────────────────────────────────
+
+// 도메인 → tier 가산점. 위에서부터 먼저 매칭. 미분류는 DEFAULT_TIER 로 폴백.
+const DOMAIN_TIER = [
+  // 1차·공식 자료 — 가장 신뢰
+  [/(^|\.)sec\.gov$/i,        7],
+  [/(^|\.)ir\.tesla\.com$/i,  7],
+  [/(^|\.)tesla\.com$/i,      7],
+  [/finance\.yahoo\.com/i,    6],
+  [/(^|\.)nasdaq\.com$/i,     6],
+
+  // tier-1 통신사·주요 경제지
+  [/(^|\.)reuters\.com$/i,    8],
+  [/(^|\.)bloomberg\.com$/i,  8],
+  [/(^|\.)cnbc\.com$/i,       8],
+  [/(^|\.)wsj\.com$/i,        8],
+  [/(^|\.)ft\.com$/i,         8],
+  [/(^|\.)nytimes\.com$/i,    7],
+  [/(^|\.)barrons\.com$/i,    7],
+
+  // tier-2 전문·트레이드 매체
+  [/(^|\.)electrek\.co$/i,    4],
+  [/(^|\.)teslarati\.com$/i,  4],
+  [/(^|\.)insideevs\.com$/i,  4],
+  [/(^|\.)theverge\.com$/i,   4],
+  [/(^|\.)cnet\.com$/i,       3],
+  [/(^|\.)engadget\.com$/i,   3],
+
+  // 일론 직접 발언(소셜) — 가치 있지만 검증 약함
+  [/(^|\.)x\.com$/i,          3],
+  [/(^|\.)twitter\.com$/i,    3],
+
+  // rumor — 커뮤니티·블로그. 강한 감점
+  [/(^|\.)reddit\.com$/i,    -8],
+  [/(^|\.)medium\.com$/i,    -8],
+  [/(^|\.)substack\.com$/i,  -8],
+];
+const DEFAULT_TIER = -3; // 분류 안 된 도메인 (비영어권·무명 매체 포함) — 약한 감점
+
+function tierBonus(host) {
+  if (!host) return DEFAULT_TIER;
+  for (const [re, score] of DOMAIN_TIER) {
+    if (re.test(host)) return score;
+  }
+  return DEFAULT_TIER;
+}
+
+// 신선도 점수 — 일일 브리핑이라 24시간 내는 거의 동급으로 본다.
+function recencyBonus(ts) {
+  if (!ts) return -2;
+  const ageHr = (Date.now() - ts) / 3_600_000;
+  if (ageHr < 3)  return 10;
+  if (ageHr < 6)  return 8;
+  if (ageHr < 12) return 6;
+  if (ageHr < 24) return 4;
+  if (ageHr < 48) return 1;
+  return -2;
+}
+
+// 선별용 종합 점수 (높을수록 우선 채택)
+function selectionScore(it) {
+  return recencyBonus(it.ts) + tierBonus(it.host);
+}
+
+// ─────────────────────────────────────────────────────────
 // 카테고리 자동 추론 (Google News 등 일반 소스에서)
 // ─────────────────────────────────────────────────────────
 
@@ -316,7 +386,8 @@ async function main() {
   const cards = [];
   for (const [cat, items] of Object.entries(buckets)) {
     if (items.length === 0) continue;
-    items.sort((a, b) => b.ts - a.ts);
+    // 선별 정렬: 신선도 + 출처 가산점 (동점이면 최신 우선)
+    items.sort((a, b) => (selectionScore(b) - selectionScore(a)) || (b.ts - a.ts));
     const seen = new Set();
     let picked = 0;
     for (const it of items) {
@@ -325,6 +396,7 @@ async function main() {
       if (seen.has(prefKey)) continue;
       seen.add(prefKey);
       picked += 1;
+      console.log(`  · pick ${cat.padEnd(8)} score ${String(selectionScore(it)).padStart(3)} (tier ${String(tierBonus(it.host)).padStart(2)}) ${it.host || "?"}`);
 
       const pubIso = it.ts ? new Date(it.ts).toISOString() : "";
       cards.push({

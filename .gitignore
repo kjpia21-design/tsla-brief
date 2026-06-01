@@ -7,3 +7,6 @@ dist/
 .env.local
 # 일회용 시드/디버그 임시 산출물
 data/raw-archive-seed.json
+data/raw-cards.test.json
+# Cloudflare Worker 로컬 캐시
+worker/.wrangler/
