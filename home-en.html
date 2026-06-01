@@ -222,10 +222,13 @@
   .price-bar{padding:14px 0 22px}
   /* 모바일 (< 520px): 진짜 1줄. 폰트 압축 + nowrap. 너무 길면 좌측 안전 영역 잘라냄. */
   .price-bar__box{
+    /* 주가 박스만 다크 — 카드·핫뉴스와 동일 톤. 범위 내 토큰 재정의. */
+    --bg-2:#111114; --bg-3:#181820; --line:#2A2A33;
+    --ink:#F4F4F5; --ink-mid:#E8E8EE; --ink-mute:#D8D8E2;
     display:flex;flex-wrap:nowrap;align-items:center;gap:8px;
     padding:10px 12px;
     background:var(--bg-2);border:1px solid var(--line);border-radius:var(--r-lg);
-    box-shadow:var(--shadow-sm);
+    box-shadow:0 4px 16px -6px rgba(16,16,20,.18);
     font-family:"IBM Plex Mono",ui-monospace,monospace;
     font-variant-numeric:tabular-nums;
     overflow:hidden;white-space:nowrap;
@@ -303,8 +306,12 @@
   .hot-news__count{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10px;color:var(--ink-mute);letter-spacing:.06em}
 
   .hot-news__list{
+    /* 핫뉴스 박스만 다크 — 카드와 동일 톤. 내부 텍스트가 토큰 기반이라 범위 재정의로 처리. */
+    --bg-2:#111114; --bg-3:#181820; --line:#2A2A33; --line-mute:#262630;
+    --ink:#F4F4F5; --ink-mid:#E8E8EE; --ink-mute:#D8D8E2;
     list-style:none;margin:0;padding:0;
     background:var(--bg-2);border:1px solid var(--line);border-radius:var(--r-md);overflow:hidden;
+    box-shadow:0 4px 16px -6px rgba(16,16,20,.18);
   }
   .hot-news__item{
     display:grid;grid-template-columns:auto auto 1fr auto;gap:8px;align-items:center;
