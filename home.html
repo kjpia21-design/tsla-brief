@@ -47,8 +47,8 @@
        검은 배경 위에서 hero meta · footer · 카드 메타 등 모든 메타 텍스트가 죽지 않도록
        ink-mute 까지 진한 회색으로 끌어올림. */
     --ink:       #F4F4F5;
-    --ink-mid:   #D4D4DC;
-    --ink-mute:  #B8B8C0;
+    --ink-mid:   #DCDCE4;
+    --ink-mute:  #C4C4CE;
 
     /* brand */
     --tesla-red: #E31937;
@@ -85,7 +85,7 @@
     background:var(--bg) var(--bg-grad);
     /* body 기본 색을 진한 회색 톤으로 통일.
        카드 제목 등 강조가 필요한 곳만 .ccard h3 처럼 명시적으로 var(--ink) 사용. */
-    color:#B8B8C0;
+    color:#C4C4CE;
     font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
     line-height:1.6;
     font-size:15px;
@@ -160,7 +160,7 @@
   .hero__inner{display:grid;grid-template-columns:1fr;gap:28px;align-items:center}
   .hero__eyebrow{display:inline-flex;align-items:center;gap:8px;margin-bottom:14px}
   .hero__dot{width:6px;height:6px;border-radius:50%;background:var(--tesla-red);box-shadow:0 0 12px var(--tesla-red)}
-  .hero h1{font-size:clamp(32px,7vw,44px);font-weight:700;line-height:1.15;letter-spacing:-0.01em;margin:0 0 14px;color:#B8B8C0}
+  .hero h1{font-size:clamp(32px,7vw,44px);font-weight:700;line-height:1.15;letter-spacing:-0.01em;margin:0 0 14px;color:var(--ink)}
   .hero h1 em{font-style:italic;font-family:"Inter","IBM Plex Mono",ui-monospace,monospace;color:var(--tesla-red);font-weight:600}
   .hero p.lead{color:var(--ink-mid);font-size:15px;max-width:48ch;margin:0 0 22px;line-height:1.65}
   .hero__meta{display:flex;gap:10px 16px;flex-wrap:wrap;color:var(--ink-mute);font-size:12.5px;margin-bottom:22px}
@@ -346,10 +346,10 @@
   .cats__head{display:flex;flex-direction:row;align-items:baseline;justify-content:space-between;margin-bottom:16px;gap:12px;flex-wrap:wrap}
   .cats__beta{
     display:inline-block;font-family:"IBM Plex Mono",ui-monospace,monospace;
-    font-size:10px;letter-spacing:.18em;color:var(--tesla-red);
-    border:1px solid var(--red-soft);background:var(--red-soft);
+    font-size:9.5px;letter-spacing:.18em;color:var(--ink-mute);
+    border:1px solid var(--line);background:transparent;
     padding:3px 7px;border-radius:var(--r-pill);margin-left:8px;
-    vertical-align:middle;font-weight:700;
+    vertical-align:middle;font-weight:700;position:relative;top:-2px;
   }
   /* 신선도 라벨 — JS 가 매 1분 갱신 */
   .cats__fresh{
@@ -359,19 +359,20 @@
   }
   .cats__title{
     font-size:clamp(24px,5.5vw,30px);font-weight:700;letter-spacing:-0.005em;margin:0;
-    color:#B8B8C0;line-height:1.2;
+    color:var(--ink);line-height:1.2;
   }
   .cats__sub{color:var(--ink-mute);font-size:12.5px;display:block;margin-top:4px}
   .cats__head .eyebrow{display:none}      /* 모바일: 우측 eyebrow 숨김 */
   .cats__all{
     font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:700;
-    color:var(--ink-mid);letter-spacing:.04em;
-    padding:7px 12px;border:1px solid var(--line);border-radius:var(--r-pill);
+    color:var(--ink);letter-spacing:.04em;
+    padding:8px 14px;border:1px solid #3A3A45;border-radius:var(--r-pill);
+    background:var(--bg-3);
     transition:color var(--t-1) var(--ease),border-color var(--t-1) var(--ease),background var(--t-1) var(--ease);
     white-space:nowrap;flex-shrink:0;
   }
   .cats__all::after{content:" →";color:var(--tesla-red);font-weight:700}
-  .cats__all:hover{color:var(--ink);border-color:var(--ink-mid);background:var(--bg-3)}
+  .cats__all:hover{color:#fff;border-color:var(--tesla-red);background:var(--red-soft)}
   .cats__grid{display:grid;grid-template-columns:1fr;gap:12px}
 
   .ccard{
@@ -439,7 +440,7 @@
   @keyframes musk-pulse{0%,100%{opacity:.4}50%{opacity:1}}
   .musk-live__title{
     font-size:clamp(22px,5vw,28px);font-weight:700;letter-spacing:-0.005em;margin:0;
-    color:#B8B8C0;line-height:1.2;
+    color:var(--ink);line-height:1.2;
   }
   .musk-live__title em{font-style:italic;font-family:"Inter",ui-monospace,monospace;color:var(--c-musk);font-weight:600}
   .musk-live__note{
@@ -497,7 +498,7 @@
   .vids__head{display:flex;flex-direction:column;align-items:flex-start;margin-bottom:16px;gap:6px}
   .vids__title{
     font-size:clamp(24px,5.5vw,30px);font-weight:700;letter-spacing:-0.005em;margin:0;
-    color:#B8B8C0;line-height:1.2;
+    color:var(--ink);line-height:1.2;
   }
   .vids__sub{color:var(--ink-mute);font-size:12.5px;display:inline-flex;align-items:center;gap:8px}
   .vids__sub::before{content:"";width:10px;height:10px;border-radius:50%;background:var(--tesla-red);box-shadow:0 0 10px var(--tesla-red)}
@@ -572,8 +573,9 @@
   /* ============================================================
      FOOTER — mobile: 1col stack
      ============================================================ */
-  footer{border-top:1px solid var(--line-mute);padding:40px 0 calc(28px + env(safe-area-inset-bottom));margin-top:24px}
-  .footer__inner{display:grid;grid-template-columns:1fr;gap:28px}
+  footer{border-top:1px solid var(--line-mute);padding:32px 0 calc(24px + env(safe-area-inset-bottom));margin-top:24px}
+  .footer__inner{display:grid;grid-template-columns:1fr 1fr;gap:24px 18px}
+  .footer__brand{grid-column:1 / -1}
   .footer h5{font-size:11.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-mute);margin:0 0 12px}
   .footer ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:9px}
   .footer ul a{color:var(--ink-mid);font-size:13.5px}
@@ -650,7 +652,8 @@
     .vbody h4{font-size:15px}
 
     footer{padding:48px 0 36px;margin-top:32px}
-    .footer__inner{grid-template-columns:1fr 1fr;gap:28px}
+    .footer__inner{grid-template-columns:repeat(4,max-content);justify-content:space-between;gap:32px 40px}
+    .footer__brand{grid-column:auto}
     .footer__bottom{align-items:center}
   }
 
@@ -669,7 +672,8 @@
 
     .vids__grid{grid-template-columns:repeat(3,1fr)}
 
-    .footer__inner{grid-template-columns:1.4fr 1fr 1fr 1fr;gap:36px}
+    .footer__inner{grid-template-columns:repeat(4,max-content);justify-content:space-between;gap:36px 40px}
+    .footer__brand p{max-width:30ch}
   }
 </style>
 </head>
