@@ -381,9 +381,14 @@
   .cats__grid{display:grid;grid-template-columns:1fr;gap:12px}
 
   .ccard{
+    /* 카드 박스만 다크 — 라이트 페이지 위에서 도드라지는 대비.
+       내부 텍스트가 모두 var() 토큰을 쓰므로 카드 범위에서만 토큰을 다크로 재정의. */
+    --bg-2:#111114; --bg-3:#181820; --line:#2A2A33;
+    --ink:#F4F4F5; --ink-mid:#E8E8EE; --ink-mute:#D8D8E2;
     position:relative;background:var(--bg-2);border:1px solid var(--line);
     border-radius:var(--r-md);padding:13px 14px 11px;
     display:flex;flex-direction:column;gap:8px;
+    box-shadow:0 4px 16px -6px rgba(16,16,20,.18);
     transition:transform var(--t-2) var(--ease),border-color var(--t-2) var(--ease),box-shadow var(--t-2) var(--ease),background var(--t-2) var(--ease);
     overflow:hidden;
     min-height:0;
