@@ -16,7 +16,9 @@
  */
 
 const SHEET_ID = 'PASTE_YOUR_SHEET_ID_HERE';
-const SHEET_NAME = 'subscribers';
+// 언어별 탭 이름 — 한/영 구독자를 따로 관리. lang 값(ko/en)으로 라우팅.
+const SHEET_NAME_KO = 'subscribers-ko';
+const SHEET_NAME_EN = 'subscribers-en';
 const TOKEN = ''; // Pages SUBSCRIBE_TOKEN 와 동일 값. 비우면 토큰 검사 생략.
 
 function doPost(e) {
@@ -32,7 +34,11 @@ function doPost(e) {
       return out({ ok: false, error: 'bad email' });
     }
 
-    const sh = sheet_();
+    // lang 정규화 → 해당 언어 탭 선택. (Pages Function 이 이미 ko/en 으로 보냄)
+    const lang = body.lang === 'en' ? 'en' : 'ko';
+    const sh = sheet_(lang);
+
+    // 중복 검사는 해당 언어 탭 안에서만. (같은 이메일이 한·영 양쪽에 가입하면 각 탭에 1건씩 — 의도된 동작)
     const lastRow = sh.getLastRow();
     if (lastRow >= 2) {
       const existing = sh.getRange(2, 2, lastRow - 1, 1).getValues();
@@ -46,7 +52,7 @@ function doPost(e) {
     sh.appendRow([
       new Date(),
       email,
-      String(body.lang || ''),
+      lang,
       String(body.country || ''),
       String(body.source || ''),
     ]);
@@ -61,11 +67,13 @@ function doGet() {
   return out({ ok: true, msg: 'tesla-briefing subscribe webhook alive' });
 }
 
-function sheet_() {
+// 언어별 탭을 반환. 없으면 헤더와 함께 새로 생성.
+function sheet_(lang) {
+  const name = lang === 'en' ? SHEET_NAME_EN : SHEET_NAME_KO;
   const ss = SpreadsheetApp.openById(SHEET_ID);
-  let sh = ss.getSheetByName(SHEET_NAME);
+  let sh = ss.getSheetByName(name);
   if (!sh) {
-    sh = ss.insertSheet(SHEET_NAME);
+    sh = ss.insertSheet(name);
     sh.appendRow(['ts', 'email', 'lang', 'country', 'source']);
   }
   return sh;
