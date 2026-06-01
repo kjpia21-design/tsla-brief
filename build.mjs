@@ -207,12 +207,8 @@ function renderHotNews(cards) {
   const top = ranked.slice(0, 5);
   const items = top.map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
-    const short = CATEGORY_SHORT[c.category] || "NEWS";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
-    const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
     return `      <li><a class="hot-news__item ${cls}" href="${escapeHtml(href)}">
-        <span class="hot-news__cat">${escapeHtml(short)}</span>
-        <span class="hot-news__time"${pubAttr}>${escapeHtml(c.time || "")}</span>
         <span class="hot-news__title">${c.title}</span>
         <span class="hot-news__arrow">→</span>
       </a></li>`;
