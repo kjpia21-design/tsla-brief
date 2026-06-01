@@ -15,6 +15,15 @@
 const SYMBOL = "TSLA";
 const KV_KEY = "tsla:kpi";
 
+// GitHub Actions RSS 페치 강제 트리거 — GitHub 무료 cron 이 새벽에 누락되는 문제 우회.
+// 안정적인 5분 Worker cron 에서 KV 타임스탬프로 ~2시간마다 1회만 workflow_dispatch 발사.
+const GH_OWNER = "kjpia21-design";
+const GH_REPO = "tsla-brief";
+const GH_WORKFLOW = "fetch-news.yml";
+const GH_REF = "master";
+const GH_DISPATCH_KEY = "gh:lastdispatch";
+const GH_DISPATCH_INTERVAL_MS = 115 * 60 * 1000; // ~2h (5분 cron 단위라 115분이면 다음 tick 에 ~2h)
+
 // Yahoo Finance 두 호스트 폴백 (rate-limit 회피)
 const URLS = [
   `https://query2.finance.yahoo.com/v8/finance/chart/${SYMBOL}?interval=1d&range=1d`,
@@ -29,10 +38,13 @@ const ALLOWED_ORIGINS = [
 ];
 
 export default {
-  /** Scheduled cron trigger — 5분마다 Yahoo Finance 갱신 → KV */
+  /** Scheduled cron trigger — 5분마다 Yahoo Finance 갱신 → KV (+ ~2h마다 RSS 페치 트리거) */
   async scheduled(event, env, ctx) {
     ctx.waitUntil(fetchAndStore(env).catch((e) => {
-      console.error("[scheduled] fail:", e.message);
+      console.error("[scheduled] price fail:", e.message);
+    }));
+    ctx.waitUntil(maybeDispatchFetch(env).catch((e) => {
+      console.error("[scheduled] gh dispatch fail:", e.message);
     }));
   },
 
@@ -128,6 +140,42 @@ async function fetchAndStore(env) {
     expirationTtl: 3600, // 1시간 후 TTL (cron 이 매 5분 갱신하므로 안전)
   });
   return out;
+}
+
+/**
+ * GitHub Actions fetch-news 워크플로우를 workflow_dispatch 로 강제 트리거.
+ * KV 에 마지막 발사 시각을 저장해 ~2시간마다 1회만 실행 (5분 cron 안에서 게이팅).
+ * GH_DISPATCH_TOKEN secret 미설정 시 조용히 skip.
+ */
+async function maybeDispatchFetch(env) {
+  const token = env.GH_DISPATCH_TOKEN;
+  if (!token) return; // secret 미설정 → 비활성 (기존 동작 유지)
+
+  const now = Date.now();
+  const last = Number(await env.PRICE_KV.get(GH_DISPATCH_KEY)) || 0;
+  if (now - last < GH_DISPATCH_INTERVAL_MS) return; // 아직 ~2h 안 지남
+
+  const url = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/dispatches`;
+  const res = await fetch(url, {
+    method: "POST",
+    headers: {
+      "Authorization": `Bearer ${token}`,
+      "Accept": "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+      "User-Agent": "tesla-briefing-price-worker",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ ref: GH_REF }),
+  });
+
+  // workflow_dispatch 성공 = 204 No Content. 성공 시에만 타임스탬프 갱신 → 실패 시 다음 tick 재시도.
+  if (res.status === 204) {
+    await env.PRICE_KV.put(GH_DISPATCH_KEY, String(now));
+    console.log("[gh dispatch] fetch-news 트리거 OK");
+  } else {
+    const body = await res.text().catch(() => "");
+    throw new Error(`gh dispatch HTTP ${res.status} ${body.slice(0, 200)}`);
+  }
 }
 
 async function fetchYahoo() {
