@@ -1,33 +1,16 @@
 // Cloudflare Pages Function — middleware for all requests.
-// Korean is the canonical site (`/`); English mirror at `/en/`.
+// 한국어 단일 언어 사이트. 영어 미러(`/en/`)는 폐지됨.
 //
-// Auto-routing rules (only on root `/`):
-//   1) If user has cookie `lang=ko|en`, respect their explicit choice — NO auto-redirect.
-//   2) Otherwise, look at CF-IPCountry:
-//        - KR → serve Korean root (no redirect, fall through)
-//        - any other country → 302 redirect to /en/
-//
-// All other paths (/en/, /news.html, /articles/..., /assets/...) pass through unchanged.
+// 유일한 역할: 옛 `/en/...` 북마크·외부 링크·검색엔진 인덱스를
+// 한국어 홈(`/`)으로 301 영구 리다이렉트. 그 외 경로는 그대로 통과.
 
 export async function onRequest({ request, next }) {
   const url = new URL(request.url);
 
-  // 1. Only intercept the exact root path.
-  if (url.pathname !== "/") return next();
-
-  // 2. Honor user's explicit language preference (cookie set by toggle button).
-  const cookie = request.headers.get("Cookie") || "";
-  if (/(?:^|;\s*)lang=ko(?:;|$)/.test(cookie)) return next();              // serve Korean
-  if (/(?:^|;\s*)lang=en(?:;|$)/.test(cookie)) {
-    return Response.redirect(`${url.origin}/en/`, 302);
+  // 옛 영어 경로(/en, /en/, /en/...) → 한국어 홈으로 영구 이동.
+  if (url.pathname === "/en" || url.pathname.startsWith("/en/")) {
+    return Response.redirect(`${url.origin}/`, 301);
   }
 
-  // 3. First visit: route by IP country.
-  const country = request.headers.get("CF-IPCountry") || "";
-  if (country && country !== "KR") {
-    return Response.redirect(`${url.origin}/en/`, 302);
-  }
-
-  // KR or unknown → serve Korean (canonical default).
   return next();
 }

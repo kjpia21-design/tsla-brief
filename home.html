@@ -6,7 +6,6 @@
 <title>TESLA Brief!ng — 노이즈 없는 테슬라 브리핑</title>
 <meta name="description" content="테슬라 주주를 위한 일일 브리핑. 주가·실적, 차량·에너지·옵티머스, FSD/로보택시, 일론 소식을 한 페이지에서.">
 <link rel="alternate" hreflang="ko" href="https://teslabriefing.com/">
-<link rel="alternate" hreflang="en" href="https://teslabriefing.com/en/">
 <link rel="alternate" hreflang="x-default" href="https://teslabriefing.com/">
 <!-- Favicon (SVG, 모든 사이즈 자동 대응) -->
 <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
@@ -135,16 +134,7 @@
   .brand--lg .brand__text{font-size:22px}
 
   .nav__links{display:flex;gap:4px;align-items:center}
-  .nav__links a:not(.nav__cta):not(.nav__lang){display:none}    /* 모바일: 카테고리 링크 숨김 (lang 토글은 표시) */
-  .nav__lang{
-    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:700;
-    letter-spacing:.08em;color:var(--ink);
-    padding:8px 14px;border:1px solid var(--line);border-radius:var(--r-pill);
-    background:var(--bg-3);
-    margin-right:12px;        /* 구독 버튼과 시각적 간격 */
-    transition:color var(--t-1) var(--ease),border-color var(--t-1) var(--ease),background var(--t-1) var(--ease);
-  }
-  .nav__lang:hover{color:var(--ink);border-color:var(--ink-mid);background:var(--bg-2)}
+  .nav__links a:not(.nav__cta){display:none}    /* 모바일: 카테고리 링크 숨김 */
   .nav__cta{
     padding:8px 14px;border-radius:var(--r-pill);
     background:var(--tesla-red);color:#fff;font-size:12.5px;font-weight:700;letter-spacing:.02em;
@@ -731,7 +721,6 @@
       <a href="#product">제품</a>
       <a href="#fsd">FSD/로보택시</a>
       <a href="#musk">일론</a>
-      <a class="nav__lang" href="/en/" data-set-lang="en" title="English">EN</a>
       <a class="nav__cta" href="#newsletter">뉴스레터 구독</a>
     </nav>
   </div>
@@ -1065,14 +1054,6 @@
 <!-- ============ PRICE BAR 폴링 ============
      1분 주기로 data/kpi.json fetch. SSR 산출 위에 클라이언트 갱신을 덮어씀. -->
 <script>
-// 언어 토글 — 클릭 시 cookie 저장 (1년) — 이후 자동 라우팅이 사용자 선택 우선.
-document.querySelectorAll('[data-set-lang]').forEach(el => {
-  el.addEventListener('click', () => {
-    const lang = el.getAttribute('data-set-lang');
-    document.cookie = `lang=${lang}; path=/; max-age=${60*60*24*365}; SameSite=Lax`;
-  });
-});
-
 // 뉴스레터 구독 폼 제출 (개인정보 보호법: 동의 체크 강제)
 function tslaSubscribe(e){
   e.preventDefault();

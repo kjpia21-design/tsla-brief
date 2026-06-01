@@ -509,31 +509,13 @@ async function main() {
     catch (e) { console.warn(`[build] skip data/${name}: ${e.message}`); }
   }
 
-  // ─── English (옵션) ──────────────────────────────────────
-  // home-en.html 이 있으면 영어 빌드 → dist/en/
-  let en = null;
-  try {
-    en = await buildOneLang({
-      templateName: "home-en.html",
-      cardsName: "cards-en.json",
-      cardsFallback: "raw-cards.json",   // cards-en 없으면 raw 영문 그대로
-      archiveName: "archive-en.json",
-      newsTemplateName: "news-template-en.html",
-      outDir: path.join(OUT_DIR, "en"),
-      lang: "en",
-    });
-  } catch (e) {
-    console.warn(`[build] English skipped: ${e.message}`);
-  }
-
-  // 출력 요약
+  // 출력 요약 (한국어 단일 언어)
   const kpiData = await readJson("kpi.json");
   const priceStr = typeof kpiData.price === "number"
     ? `$${kpiData.price.toFixed(2)} (${kpiData.marketStateLabel || kpiData.marketState || "?"})`
     : "(no price)";
   console.log(`[build] OK · price ${priceStr}`);
   console.log(`[build] KO: ${ko.numCards} cards · ${ko.numArchive} archive · ${ko.numArticles} articles · ${ko.bytes} bytes`);
-  if (en) console.log(`[build] EN: ${en.numCards} cards · ${en.numArchive} archive · ${en.numArticles} articles · ${en.bytes} bytes`);
 }
 
 main().catch((err) => {
