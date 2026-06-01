@@ -1,6 +1,61 @@
 {
-  "asOf": "2026-06-01 06:08 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "39m ago",
+      "pubDate": "2026-05-31T22:27:20.000Z",
+      "title": "테슬라 자율주행 AI팀, <em>내부 신뢰 위기</em> 표면화",
+      "body": "Startup Fortune 보도에 따르면 테슬라 FSD AI 개발팀 내부에서 자율주행 기술의 신뢰성을 둘러싼 갈등이 불거졌다. 외신 분석 단계로 공식 발표는 없다.",
+      "sourceName": "Startup Fortune",
+      "sourceLabel": "press",
+      "slug": "fsd-team-internal-trust-crisis-2026-05-31",
+      "summary": "테슬라 FSD 개발팀 내부에서 자율주행 AI 시스템의 신뢰성을 둘러싼 갈등이 드러났다는 보도가 나왔다. 구체적으로는 FSD 시스템의 예측 가능성과 안전성에 대한 내부 의문이 제기된 것으로 알려졌다.\n\n이 보도는 외신 분석 단계로, 테슬라 측은 공식 입장을 내지 않은 상태다. 유사한 직원 안전 우려 보도가 과거에도 있었으나 이번은 AI팀 내 신뢰 문제에 초점이 맞춰졌다는 점에서 차별화된다.\n\nFSD 고도화 일정과 규제 당국의 자율주행 인허가에 영향을 줄 수 있는 이슈다. 다음 FSD 릴리스 노트와 테슬라 공식 커뮤니케이션에 주목할 필요가 있다.",
+      "href": "https://startupfortune.com/",
+      "hot": 7
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "54m ago",
+      "pubDate": "2026-05-31T22:12:16.000Z",
+      "title": "테슬라 FSD, <em>48개 주 전국 무개입 주행</em> 달성",
+      "body": "테슬라 FSD가 미국 본토 48개 주 전역을 단 한 번의 사람 개입 없이 완주했다는 보고가 나왔다. FSD의 주행 안정성이 크게 향상됐음을 보여주는 성과다.",
+      "sourceName": "BASENOR - Tesla Accessories",
+      "sourceLabel": "press",
+      "slug": "fsd-48states-zero-intervention-2026-05-31",
+      "summary": "테슬라 FSD 시스템이 미국 본토 48개 주 전체를 인간 개입 없이 완주했다는 보고가 나왔다. 단순 고속도로 주행을 넘어 도심·복잡 교차로·다양한 기후 환경을 포함한 대륙 횡단 수준의 기록이다.\n\n이 사례는 FSD 상용화 가속을 뒷받침하는 실증 데이터로 활용될 수 있다. 다만 개인 사용자 레벨의 단일 기록이며 공식 규제 인증과는 별개라는 점을 유의해야 한다.\n\n다음 트리거: NHTSA의 완전 자율주행 인증 진행 현황, 테슬라 로보택시 상용화 일정 추가 발표.",
+      "href": "https://www.basenor.com/",
+      "hot": 7
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-05-31T21:27:47.000Z",
+      "title": "머스크, <em>SpaceX·테슬라 대규모 합병</em> — IPO 앞서 급부상",
+      "body": "일론 머스크가 SpaceX의 기록적 IPO를 앞두고 테슬라와의 대규모 합병을 저울질하고 있다는 외신 보도가 나왔다. 외신 분석 단계로 공식 발표는 없다.",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-ipo-merger-latest-2026-05-31",
+      "summary": "일론 머스크가 SpaceX의 역사적 IPO를 앞두고 테슬라와의 합병을 검토하고 있다는 보도가 MSN을 통해 나왔다. SpaceX IPO 시점과 맞물린 합병 논의는 양사의 지배 구조와 주주 가치에 중대한 파장을 줄 수 있다.\n\n합병 시 테슬라 주주가 SpaceX 지분을 얻는 구조 vs. SpaceX가 테슬라를 흡수하는 구조 등 다양한 시나리오가 거론되고 있다. 외신 분석 단계이며 공식 발표는 없다.\n\n다음 트리거: 머스크 혹은 SpaceX 측 공식 발표, SEC 공시 여부, SpaceX IPO 구체 일정 공개.",
+      "href": "http://www.msn.com/",
+      "hot": 7
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-05-31T21:11:08.000Z",
+      "title": "테슬라 사이버캡, <em>휴스턴 로보택시 허브</em> 규모 확대",
+      "body": "테슬라의 로보택시 사이버캡 차량이 미국 휴스턴 거점에서 꾸준히 늘어나며 상업 운영 규모를 키우고 있다.",
+      "sourceName": "BASENOR - Tesla Accessories",
+      "sourceLabel": "press",
+      "slug": "cybercab-houston-hub-fleet-2026-05-31",
+      "summary": "테슬라 사이버캡이 미국 텍사스주 휴스턴에서 차량 수를 늘리며 로보택시 허브 확장을 이어가고 있다. 휴스턴은 테슬라의 FSD 기반 완전 자율 상업 운행의 핵심 거점 중 하나로, 차량 증가는 서비스 커버리지 확대를 의미한다.\n\n플릿 규모 확장은 데이터 수집 밀도를 높여 FSD 알고리즘 고도화를 뒷받침한다. 에너지 사업과 함께 테슬라의 수익 다각화에 기여할 수 있는 구조다.\n\n다음 트리거: 휴스턴 이외 도시 추가 배포 일정, 무인 요금 적용 범위 공식 발표.",
+      "href": "https://www.basenor.com/",
+      "hot": 6
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
