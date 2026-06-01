@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "17m ago",
+      "pubDate": "2026-06-01T18:33:45.000Z",
+      "title": "엔비디아·오픈AI 로봇 공세에 <em>테슬라 주가 하락</em>",
+      "body": "엔비디아와 오픈AI가 동시에 로봇·AI 시장 공세를 강화하자 테슬라(TSLA) 주가가 하락했다. 테슬라의 핵심 성장 내러티브인 옵티머스·FSD 프리미엄에 대한 경쟁 압박이 커지고 있다.",
+      "sourceName": "TipRanks",
+      "sourceLabel": "press",
+      "slug": "stock-tsla-robo-attack-nvidia-openai-2026-06-01",
+      "summary": "TipRanks가 엔비디아와 오픈AI의 로봇·AI 시장 동시 진출 소식에 테슬라(TSLA) 주가가 하락했다고 분석했다. 엔비디아는 자체 로봇 플랫폼 Isaac을 강화하고 있으며, 오픈AI는 휴머노이드 로봇 사업부 공식 출범을 선언한 상태다.\n\n시장은 테슬라 주가에 옵티머스 로봇과 FSD 기반 로보택시의 장기 성장 옵션 가치를 상당 부분 반영해왔다. 이 프리미엄을 형성하는 '선점 우위'가 엔비디아·오픈AI 등 빅테크의 동시 진입으로 재평가되는 국면이다.\n\n테슬라는 기가 텍사스에 옵티머스 전용 공장을 착공하며 장기 대량 생산을 준비 중이다. 그러나 오픈AI의 AI 역량과 엔비디아의 GPU·로봇 플랫폼이 결합된 경쟁은 테슬라 단독으로 누려온 로봇·자율주행 분야 '선점 프리미엄'을 직접 흔드는 재료다.\n\n다음 트리거: 엔비디아 Isaac 로봇 플랫폼 신규 파트너십 발표, 오픈AI 로봇 사업부 공식 제품 공개, 테슬라 옵티머스 양산 일정 업데이트.",
+      "href": "https://www.tipranks.com/news/tesla-stock-tsla-falls-on-robo-attack-from-nvidi-and-openai",
+      "hot": 8
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "37m ago",
+      "pubDate": "2026-06-01T18:14:26.000Z",
+      "title": "테슬라 FSD 감독형, <em>미 대륙 횡단 무개입 주행</em> 완주",
+      "body": "테슬라 FSD 감독형(Supervised)이 미국 동서 해안 횡단 주행을 사람 개입 없이 완료했다는 보고가 나왔다. FSD의 장거리·다양한 환경 대응 능력이 다시 한번 실증됐다.",
+      "sourceName": "Crypto Briefing",
+      "sourceLabel": "press",
+      "slug": "fsd-coast-to-coast-supervised-2026-06-01",
+      "summary": "크립토 브리핑(Crypto Briefing)이 테슬라 FSD 감독형 시스템이 미국 동서 대륙 횡단 주행을 인간 개입 없이 완료했다는 보고를 전했다. 해안에서 해안(coast-to-coast)까지 이어지는 3,000km 이상의 장거리 경로를 포함해 도심·고속도로·복잡 교차로 등 다양한 환경을 FSD가 자율적으로 통과한 것으로 알려졌다.\n\n이는 앞서 FSD가 미국 본토 48개 주를 무개입 완주한 사례들과 맥을 같이하는 흐름이다. 단일 사용자의 개인 테스트 수준이지만, FSD 비전 온리 신경망의 일반화(generalization) 능력이 크게 향상됐음을 시사한다.\n\n공식 규제 인증 또는 테슬라의 제도적 검증과는 별개의 사안이다. 그러나 실제 사용자 주행 데이터 누적과 성과는 테슬라 로보택시 상용화 일정 논의의 기반이 된다.\n\n다음 트리거: NHTSA FSD 비감독형 인증 심사 진행 현황, 테슬라 공식 FSD 성능 데이터 공개, FSD v14 이후 버전 릴리스 노트.",
+      "href": "https://cryptobriefing.com/tesla-fsd-coast-to-coast-drives/",
+      "hot": 7
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-01T17:35:14.000Z",
+      "title": "NIO 5월 인도량 62% 급증·주가 7% 급등 — <em>테슬라 3% 하락</em>",
+      "body": "중국 전기차 경쟁이 격화되며 NIO가 5월 폭발적 인도량에 7% 급등한 반면, 테슬라는 3% 하락했다. 중국 EV 패권 지형 변화가 주가에 즉각 반영됐다.",
+      "sourceName": "24/7 Wall St.",
+      "sourceLabel": "press",
+      "slug": "stock-nio-vs-tesla-china-ev-2026-06-01",
+      "summary": "24/7 Wall St.가 5월 인도량 발표를 계기로 중국 전기차 경쟁 구도의 변화를 분석했다. NIO는 2026년 5월 인도량이 전년 동기 대비 62% 급증했다고 발표하며 주가가 7% 급등했다. 반면 테슬라 주가는 같은 날 3% 하락했다.\n\nNIO의 62% 인도량 급증은 신모델 출시와 중국 내 보조금 정책 효과가 맞물린 결과로 분석된다. 테슬라의 중국 판매는 BYD·NIO·샤오펑 등 현지 업체들의 가파른 성장으로 점유율 압박을 받는 상황이다.\n\n다만 절대 판매 대수 기준으로 테슬라는 여전히 상위권이며, 중국 상하이 기가팩토리를 통한 현지 생산·수출 경쟁력도 유지하고 있다. 단기 주가 반응보다 Q2 공식 인도량 집계가 실질적인 시장 점유율 변화를 확인할 지표다.\n\n다음 트리거: 테슬라 2026년 Q2 공식 인도량 발표(7월 초), 중국 6월 전기차 판매 집계, 상하이 기가팩토리 생산 가동률 업데이트.",
+      "href": "https://247wallst.com/investing/2026/06/01/nio-soars-7-on-blowout-may-deliveries-up-62-tesla-sinks-3-as-china-ev-battle-intensifies/",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-01T17:13:29.000Z",
+      "title": "FSD v14 리뷰 \"너무 잘 달려서 <em>위험할 정도로 안심</em> 된다\"",
+      "body": "테슬라 오토파일럿을 출시 전부터 취재한 베테랑 전문 기자가 FSD v14를 장기 테스트한 결과를 공개했다. 역대 가장 인상적이지만, 오히려 과도한 신뢰가 걱정이라는 이색 경고가 담겼다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-complacency-review-2026-06-01",
+      "summary": "일렉트렉(Electrek)의 베테랑 기자가 테슬라 FSD v14를 장기 테스트한 리뷰를 공개했다. 이 기자는 10년 전 오토파일럿 출시 직전 최초 테스트를 진행했고, 이후 모든 버전을 직접 평가해온 FSD 관찰의 산증인이다.\n\n리뷰의 핵심 메시지는 역설적이다. FSD v14는 지금까지 테스트한 버전 중 가장 인상적이지만, 그 탁월함이 오히려 운전자의 과도한 신뢰(dangerously complacent)를 유발할 수 있다는 것이다. 시스템이 너무 자연스럽게 작동하다 보면 백업 역할을 해야 하는 운전자가 주의력을 잃기 쉽다는 경고다.\n\n이는 테슬라 FSD가 순수한 기술 도약과 함께 새로운 안전 도전을 동시에 안고 있음을 시사한다. 운전자 모니터링 시스템(DMS)의 중요성이 다시 부각되는 맥락이기도 하다.\n\n다음 트리거: NHTSA의 FSD v14 안전성 검토 착수 여부, 테슬라 공식 DMS 강화 발표, FSD 비감독형 허가 심사에서의 평가 반영 여부.",
+      "href": "https://electrek.co/2026/06/01/tesla-fsd-dangerously-good-complacency-problem/",
+      "hot": 8
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -643,62 +699,6 @@
       "summary": "엔비디아 CEO 젠슨 황이 인간형 로봇 시장의 잠재 시장(TAM)이 약 40조 달러 규모에 이를 것이라고 발언했다고 24/7 Wall St.가 보도했다. 1913년 자동차 조립 라인 등장에 비유하며 폭발적 성장 가능성을 시사했다.\n\n테슬라 옵티머스의 시장 포지셔닝과 직접 맞물리는 TAM 시그널이다. 단, 황의 발언은 엔비디아 GPU 수요 관점에서 나온 것이고, 40조 달러는 TAM(잠재 시장)이지 단기 매출 전망은 아니라는 점은 분리해서 봐야 한다.\n\n다음 트리거: 테슬라 IR 옵티머스 양산 가이던스 업데이트, 다른 휴머노이드 경쟁사(Figure·Agility) 진전 보도.",
       "href": "https://247wallst.com/",
       "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-05-30T15:30:00.000Z",
-      "title": "<em>에스토니아</em>, 테슬라 자율주행 시스템 도로 운행 공식 승인",
-      "body": "Estonian World. 에스토니아 정부가 테슬라 FSD의 도로 운행을 공식 승인. 유럽 신규 국가 추가 사례.",
-      "sourceName": "Estonian World",
-      "sourceLabel": "press",
-      "slug": "fsd-2026-05-30-estonia-fsd-approval",
-      "summary": "에스토니아 정부가 테슬라 FSD 시스템의 자국 도로 운행을 공식 승인했다고 Estonian World가 보도했다. 발트 3국 중 첫 사례로, 동유럽 시장 확대의 진입점이 될 수 있다.\n\n시장 규모 자체는 작지만, 규제 승인 절차의 성공 사례라는 점에서 다른 EU 국가들의 후속 승인에 영향을 미칠 수 있다.\n\n다음 트리거: 다른 동유럽·중유럽 국가(체코·헝가리 등) 승인 여부, 에스토니아 내 실제 활성 사용자 수치.",
-      "href": "https://estonianworld.com/",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-05-30T15:30:00.000Z",
-      "title": "<em>10조 달러 로보택시 시장</em> 본격 개화 — Motley Fool 분석",
-      "body": "Motley Fool. 글로벌 로보택시 시장 10조 달러 TAM 분석. 테슬라가 가장 유리한 포지션이라는 진단.",
-      "sourceName": "The Motley Fool",
-      "sourceLabel": "press",
-      "slug": "fsd-2026-05-30-10t-robotaxi-boom-tam",
-      "summary": "Motley Fool 분석으로 글로벌 로보택시 시장의 잠재 시장(TAM)이 약 10조 달러 규모에 이를 것으로 평가됐다. 테슬라가 차량 보유 댓수, FSD 기술 축적, 충전 인프라 면에서 가장 유리한 포지션이라는 진단이다.\n\n다만 TAM 평가는 30년 장기 시나리오 기준이며, 단기 실현 가능성은 별개다. 도시별 규제 승인, 안전 기록 누적, 보험 모델 정립이 모두 선행 조건이다.\n\n다음 트리거: 미국 주요 도시(샌프란시스코·LA·오스틴) 로보택시 정식 서비스 개시, Waymo·Cruise와의 경쟁 데이터 비교.",
-      "href": "https://www.fool.com/",
-      "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-05-30T13:00:00.000Z",
-      "title": "Fortune: 머스크, <em>3.4조 달러</em> 테슬라·스페이스X 합병 추진 의향",
-      "body": "Fortune 보도로 머스크가 양사 합병을 통한 3.4조 달러 규모 거대 그룹 구상을 직접 언급. 신뢰도 높은 매체 1차 보도.",
-      "sourceName": "Fortune",
-      "sourceLabel": "press",
-      "slug": "musk-2026-05-30-fortune-34t-merger-intent",
-      "summary": "Fortune이 일론 머스크가 테슬라와 스페이스X 합병을 통한 3.4조 달러 규모 통합 그룹 구상을 직접 언급했다고 보도했다. Fortune의 보도 신뢰도가 높아 일반 외신 분석보다 무게가 있다.\n\n합병이 실현되면 머스크 개인 의결권이 한 그룹에 집중되며, AI 통제권·로보택시 사업·옵티머스 등 전략적 자산을 단일 회사 산하로 모을 수 있다.\n\n다음 트리거: 테슬라 또는 스페이스X 이사회 의결, 양사 주주 동의, SEC 8-K 공시. 절차상 시간이 걸리므로 단기 실현은 어려움.",
-      "href": "https://fortune.com/",
-      "hot": 8
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-05-30T13:00:00.000Z",
-      "title": "Gary Black, <em>테슬라-스페이스X 합병 과열</em> 의구심 제기",
-      "body": "Benzinga 보도. 테슬라 강세론자 Gary Black이 합병론 과열에 회의 입장 표명. 반대 시각으로 균형 시그널.",
-      "sourceName": "Benzinga",
-      "sourceLabel": "press",
-      "slug": "musk-2026-05-30-gary-black-merger-doubt",
-      "summary": "Future Fund Gary Black이 Benzinga 인터뷰에서 테슬라-스페이스X 합병론 과열에 회의적 시각을 제시했다. Black은 대표적인 테슬라 강세론자라 그의 반대 의견은 균형 시그널로 의미가 있다.\n\nBlack은 합병이 실현되더라도 테슬라 일반 주주에게 즉시 가치가 돌아가는 구조가 아니라며, 합병 시 스페이스X 비상장 가치 평가 방식 등 실무 장벽을 지적했다.\n\n다음 트리거: 다른 강세론자(웨드부시 Dan Ives 등)의 의견 표명, 머스크 본인의 공식 입장 발표.",
-      "href": "https://www.benzinga.com/",
-      "hot": 6
     }
   ]
 }
