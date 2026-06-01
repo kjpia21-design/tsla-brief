@@ -47,8 +47,8 @@
        검은 배경 위에서 hero meta · footer · 카드 메타 등 모든 메타 텍스트가 죽지 않도록
        ink-mute 까지 진한 회색으로 끌어올림. */
     --ink:       #F4F4F5;
-    --ink-mid:   #DCDCE4;
-    --ink-mute:  #C4C4CE;
+    --ink-mid:   #E8E8EE;
+    --ink-mute:  #D8D8E2;
 
     /* brand */
     --tesla-red: #E31937;
@@ -83,9 +83,9 @@
   html{scroll-behavior:smooth}
   body{
     background:var(--bg) var(--bg-grad);
-    /* body 기본 색을 진한 회색 톤으로 통일.
+    /* body 기본 색 = 밝은 회색 톤. 카드 외 모든 일반 텍스트가 이 값을 상속.
        카드 제목 등 강조가 필요한 곳만 .ccard h3 처럼 명시적으로 var(--ink) 사용. */
-    color:#C4C4CE;
+    color:var(--ink-mid);
     font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
     line-height:1.6;
     font-size:15px;
