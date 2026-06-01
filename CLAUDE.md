@@ -4,18 +4,18 @@ JP에게 친근한 존댓말로 답해주세요.
 
 ## 한 줄 정의
 
-테슬라 주주를 위한, 노이즈 없는 일일 브리핑 — **랜딩 페이지 (한국어 + 영어) + 유튜브 채널 + 뉴스레터**. **라이브 운영 중** — `https://teslabriefing.com` (한) / `https://teslabriefing.com/en/` (영).
+테슬라 주주를 위한, 노이즈 없는 일일 브리핑 — **랜딩 페이지 (한국어 단일) + 유튜브 채널 + 뉴스레터**. **라이브 운영 중** — `https://teslabriefing.com`. (영어 페이지 `/en/` 는 2026-06 폐지 — 콘텐츠 부실로 제거)
 
 ## 🚀 빠른 컨텍스트 (새 세션이 가장 먼저 봐야 할 것)
 
 | 항목 | 값 |
 |---|---|
-| 라이브 도메인 | `teslabriefing.com` (Cloudflare Pages) |
-| 영어 페이지 | `/en/` (IP 라우팅 자동, cookie 우선) |
+| 라이브 도메인 | `teslabriefing.com` (Cloudflare Pages) · **한국어 단일 언어** |
+| 영어 페이지 | ❌ 폐지 (2026-06). `/en/*` → `/` 301 리다이렉트 (`_middleware.js`) |
 | GitHub 리포 | `kjpia21-design/tsla-brief` (master) |
 | Cloudflare Pages | `tesla-briefing` 프로젝트 (manager@honeylife.co.kr account) |
 | TSLA 가격 API | `https://api.teslabriefing.com/` (Cloudflare Worker, 5분 cron) |
-| 자동 뉴스 정제 | Claude Cloud Routine `tsla-brief-news-refresh` (한국어 + 영어 동시) |
+| 자동 뉴스 정제 | Claude Cloud Routine `tsla-brief-news-refresh` (한국어만 · 지침: `scripts/routine-prompt.md`) |
 | RSS 자동 페치 | GitHub Actions cron 2시간 (`.github/workflows/fetch-news.yml`) |
 | Email 수신 | `hello@teslabriefing.com` → JP Gmail (Cloudflare Email Routing) |
 | Email 송신 | 미설정 (옵션 C 보류 — 트래픽 늘면 Resend) |
@@ -42,16 +42,14 @@ JP에게 친근한 존댓말로 답해주세요.
                 ↓ master push
 ┌─ Claude Cloud Routine (cron 2h, offset) ┐
 │  • git pull → raw-cards.json 읽기
-│  • 한국어 정제 (full) + 영어 정제 (옵션 C — title/slug/hot)
-│  • cards.json + archive.json (KR, 50 cap)
-│  • cards-en.json + archive-en.json (EN, 50 cap)
+│  • 한국어 정제만 (full) — 지침: scripts/routine-prompt.md
+│  • cards.json + archive.json (50 cap)
 │  • git push origin HEAD:master
 └─────────────────────────────────────────┘
                 ↓ master push
 ┌─ Cloudflare Pages (자동 빌드) ────────────┐
-│  • node build.mjs → dist/
-│  • Pages Functions /_middleware → IP 라우팅 (KR → /, 그 외 → /en/)
-│  • cookie lang=ko|en 우선
+│  • node build.mjs → dist/ (한국어 단일)
+│  • Pages Functions /_middleware → /en/* 만 / 로 301 리다이렉트
 └──────────────────────────────────────────┘
 
 ┌─ Cloudflare Worker (별도, cron */5 min) ──┐
@@ -99,8 +97,8 @@ JP에게 친근한 존댓말로 답해주세요.
 
 ## 사이트 구조 (1페이지 원칙)
 
-한국어 / 영어 동일 구조 (한국어 = `/`, 영어 = `/en/`):
-1. **nav** (sticky blur) — 로고 + 카테고리 4 앵커 + **언어 토글 (KO/EN)** + 구독 CTA
+한국어 단일 (`/`):
+1. **nav** (sticky blur) — 로고 + 카테고리 4 앵커 + 구독 CTA (언어 토글 폐지)
 2. **가격 바** — 라이브 TSLA $XXX (Worker 5분 cron + 클라이언트 1분 폴링)
 3. **핫뉴스** (hot 점수 desc, top 5) — 시간순과 차별화
 4. **최신 뉴스** (시간순, top 5) + "뉴스 전체보기" → `news.html` (archive 50개)
@@ -109,8 +107,8 @@ JP에게 친근한 존댓말로 답해주세요.
 7. **푸터** — 브랜드 / 카테고리 / 채널 / 정책 (4 컬럼)
 
 ### 별도 페이지
-- `news.html` / `en/news.html` — archive 전체 (최대 50장)
-- `articles/<slug>.html` / `en/articles/<slug>.html` — 카드 상세 (한 / 영 별도)
+- `news.html` — archive 전체 (최대 50장)
+- `articles/<slug>.html` — 카드 상세
 - `privacy.html` — 개인정보처리방침 (PIPA, 라이트 톤)
 
 ## 파일 구조
@@ -122,19 +120,17 @@ JP에게 친근한 존댓말로 답해주세요.
 ├── README.md (없음, 필요 시 추가)
 │
 ├── home.html                          ← 한국어 메인 (BLOCK 마커)
-├── home-en.html                       ← 영어 메인 (대칭)
-├── news-template.html                 ← 한국어 전체뉴스 (BLOCK 마커)
-├── news-template-en.html              ← 영어 전체뉴스
-├── article-template.html              ← 카드 상세 (라이트 톤, 한·영 공유 + lang 분기)
+├── news-template.html                 ← 전체뉴스 (BLOCK 마커)
+├── article-template.html              ← 카드 상세 (라이트 톤)
 ├── article-sample.html                ← 옛 샘플 (정리 대상)
 ├── privacy.html                       ← 개인정보처리방침 (라이트, 한국어)
 ├── home-v2.html, mascot-compare.html  ← 옛 백업 (정리 가능)
 │
-├── build.mjs                          ← KR + EN 빌드 (buildOneLang)
+├── build.mjs                          ← 한국어 단일 빌드 (buildOneLang, lang="ko")
 ├── .nvmrc                             ← Node 22 (Cloudflare Pages)
 │
 ├── functions/
-│   └── _middleware.js                 ← Pages Functions IP 라우팅 (KR → / / 그 외 → /en/)
+│   └── _middleware.js                 ← 옛 /en/* → / 301 리다이렉트 (그 외 통과)
 │
 ├── worker/                            ← Cloudflare Worker (별도 배포)
 │   ├── src/index.js                   ← TSLA 가격 5분 cron + KV + GET endpoint
@@ -143,6 +139,8 @@ JP에게 친근한 존댓말로 답해주세요.
 │
 ├── scripts/
 │   ├── fetch-news.mjs                 ← RSS → raw-cards.json (SEED_OUT/WINDOW/N env)
+│   ├── routine-prompt.md              ← Claude Cloud Routine 붙여넣기 지침 (한국어 단일)
+│   ├── apps-script-subscribe.gs       ← 구독 웹훅 (한/영 탭 분리 — EN 탭은 잔존, 미사용)
 │   ├── fetch-price.mjs                ← Yahoo (로컬·옛 흐름, worker 가 대체)
 │   ├── llm-refine.mjs                 ← (사용 안 함 — Routine 이 대체)
 │   └── load-env.mjs                   ← (사용 안 함)
@@ -150,9 +148,7 @@ JP에게 친근한 존댓말로 답해주세요.
 ├── data/
 │   ├── raw-cards.json                 ← GitHub Actions 가 2h 마다 갱신 (영문 RSS)
 │   ├── cards.json                     ← Routine 한국어 정제 (4~6장)
-│   ├── cards-en.json                  ← Routine 영어 정제 (옵션 C)
 │   ├── archive.json                   ← 누적 한국어 (50 cap)
-│   ├── archive-en.json                ← 누적 영어 (50 cap)
 │   ├── kpi.json                       ← (legacy, worker 가 대체)
 │   ├── videos.json                    ← 영상 placeholder (1장)
 │   └── musk-live.json                 ← (legacy, 미사용)
@@ -172,10 +168,6 @@ JP에게 친근한 존댓말로 답해주세요.
 │   ├── news.html
 │   ├── articles/*.html                ← archive 전체 (slug 있는 모든 카드)
 │   ├── privacy.html
-│   ├── en/                            ← 영어
-│   │   ├── index.html
-│   │   ├── news.html
-│   │   └── articles/*.html
 │   ├── data/                          ← kpi.json 등 (legacy, 미사용)
 │   └── assets/
 │
@@ -185,7 +177,7 @@ JP에게 친근한 존댓말로 답해주세요.
 ## 빌드·자동화 명령
 
 ```bash
-# 로컬 빌드 (한국어 + 영어 동시)
+# 로컬 빌드 (한국어 단일)
 node build.mjs
 
 # 로컬에서 신선한 RSS 페치
@@ -205,7 +197,7 @@ cd worker && wrangler deploy
 
 ### 자동 (JP 손 안 가도)
 1. GitHub Actions (cron 2h) — fetch-news.mjs → `raw-cards.json` 갱신 → push
-2. Claude Cloud Routine (cron 2h, offset 권장) — git pull → 한국어+영어 정제 → push
+2. Claude Cloud Routine (cron 2h, offset 권장) — git pull → 한국어 정제 → push (지침: `scripts/routine-prompt.md`)
 3. Cloudflare Pages 자동 빌드 → 라이브
 4. Worker (cron 5분, 별도) — Yahoo Finance → KV → `api.teslabriefing.com` 응답
 
@@ -216,17 +208,18 @@ cd worker && wrangler deploy
 ## Routine prompt (현재 운영 중)
 
 위치: `claude.ai/code/routines` → `tsla-brief-news-refresh`
+전체 지침 원문: **`scripts/routine-prompt.md`** (이 파일을 그대로 붙여넣어 운영)
 
 핵심:
 - Step 0: `git fetch origin master + reset --hard` (master 강제 체크아웃)
 - Step 1~2: raw-cards 읽기 + 신선도 가드 (30분 이내 skip)
 - Step 3: 4~6장 선별 (비영어권 매체 제외)
-- Step 4: 한국어 (full) + 영어 (slug + title + hot 만, 옵션 C) 정제
-- Step 5: cards/archive 4 파일 갱신 (slug dedup, pubDate desc, 50 cap)
+- Step 4: 한국어만 정제 (영어 필드/파일 절대 생성 금지)
+- Step 5: cards.json + archive.json **2개만** 갱신 (slug dedup, pubDate desc, 50 cap)
 - Step 6: `node build.mjs` 검증
-- Step 7~8: commit + `git push origin HEAD:master` (HEAD:master 형식 필수)
+- Step 7: commit + `git push origin HEAD:master` (HEAD:master 형식 필수)
 
-❌ 절대 금지: `node scripts/fetch-news.mjs` (Routine IP 가 RSS 403 차단), 외부 HTTP, 새 브랜치 생성, PR 생성, 다른 파일 수정.
+❌ 절대 금지: `node scripts/fetch-news.mjs` (Routine IP 가 RSS 403 차단), 외부 HTTP, 새 브랜치 생성, PR 생성, 다른 파일 수정, 영어 데이터(`*-en.json`) 생성 (영어 페이지 폐지).
 
 ✅ 인명 표기 가이드 (한국 표준): 젠슨 황 (휴앙 X), 일론 머스크, 사이버트럭, 사이버캡, 로보택시, 옵티머스, 파워월/메가팩, FSD (약어), 모델3/Y/S/X, 하이랜드/주니퍼
 
