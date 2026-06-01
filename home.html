@@ -410,6 +410,24 @@
   /* 신 스키마: 매체명 직접 노출 */
   .src-name{display:inline-flex;align-items:center;gap:6px;color:var(--ink-mid);font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
   .src-name .d{flex-shrink:0}
+  /* 출처 신뢰 레전드 + 큐레이션 기준 공개 */
+  .src-legend{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;margin:0 0 18px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--bg-2);font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px}
+  .src-legend__items{display:flex;flex-wrap:wrap;gap:8px 16px;color:var(--ink-mid)}
+  .src-legend__items span{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+  .src-legend__items .d{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+  .src-legend__items .d-sec{background:#16A34A}
+  .src-legend__items .d-off{background:#1B6CFF}
+  .src-legend__items .d-press{background:#F59E0B}
+  .src-legend__items .d-rumor{background:#707078}
+  .src-legend__how{margin-left:auto}
+  .src-legend__how summary{cursor:pointer;color:var(--ink-mute);list-style:none;display:inline-flex;align-items:center;gap:5px;transition:color var(--t-1) var(--ease)}
+  .src-legend__how summary::-webkit-details-marker{display:none}
+  .src-legend__how summary::before{content:"ⓘ";font-size:12px;color:var(--tesla-red)}
+  .src-legend__how summary:hover{color:var(--ink)}
+  .src-legend__how[open] summary{color:var(--ink);margin-bottom:8px}
+  .src-legend__how p{flex-basis:100%;margin:0;color:var(--ink-mute);font-family:"Pretendard Variable",system-ui,sans-serif;font-size:12px;line-height:1.7;max-width:78ch}
+  .src-legend__how[open]{flex-basis:100%}
+  @media (max-width:640px){.src-legend__how{margin-left:0}}
   .ccard__cta{display:inline-flex;align-items:center;gap:3px;color:var(--ink-mid);font-size:11px;font-weight:600;transition:gap var(--t-1) var(--ease),color var(--t-1) var(--ease);flex-shrink:0}
   .ccard__cta::after{content:"→";display:inline-block}
   .ccard:hover .ccard__cta{gap:8px;color:var(--ink)}
@@ -747,6 +765,19 @@
       <a class="cats__all" href="news.html">뉴스 전체보기</a>
     </div>
 
+    <div class="src-legend">
+      <span class="src-legend__items">
+        <span><i class="d d-sec"></i> 1차 자료</span>
+        <span><i class="d d-off"></i> 공식</span>
+        <span><i class="d d-press"></i> 외신·전문</span>
+        <span><i class="d d-rumor"></i> 추측·커뮤니티</span>
+      </span>
+      <details class="src-legend__how">
+        <summary>큐레이션 기준</summary>
+        <p>테슬라 주주에게 의미 있는 4개 주제(주가·실적 / 차량·에너지·옵티머스 / 자율·로보택시 / 일론)만 다룹니다. 매 2시간 RSS를 모아 ① 신선도(최근 24시간 가산점)와 ② 출처 신뢰도(증권·공식·전문매체 가산, 익명 커뮤니티·블로그 감점)로 점수를 매겨 카테고리당 상위 항목을 자동 선별합니다. 점 색은 출처 등급을 뜻합니다 — 사람의 의견이 아니라 출처 자체의 성격입니다.</p>
+      </details>
+    </div>
+
     <div class="cats__grid">
       <!-- BLOCK:CARDS_GRID -->
       <!-- 주가·실적 -->
@@ -824,7 +855,8 @@
 </section>
 
 <!-- ============ VIDEO + CHANNEL CTA ============ -->
-<section class="vids">
+<!-- 첫 영상 발행 전까지 숨김 — hidden 제거하면 복구 -->
+<section class="vids" hidden>
   <div class="wrap">
     <div class="vids__head">
       <div>

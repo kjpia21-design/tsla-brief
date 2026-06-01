@@ -91,6 +91,20 @@
   .src .d-sec{background:#16A34A} .src .d-off{background:#1B6CFF} .src .d-press{background:#F59E0B} .src .d-rumor{background:#707078}
   .src-name{display:inline-flex;align-items:center;gap:6px;color:var(--ink-mid);font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
   .src-name .d{flex-shrink:0}
+  .src-legend{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;margin:0 0 18px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--bg-2);font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px}
+  .src-legend__items{display:flex;flex-wrap:wrap;gap:8px 16px;color:var(--ink-mid)}
+  .src-legend__items span{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+  .src-legend__items .d{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+  .src-legend__items .d-sec{background:#16A34A} .src-legend__items .d-off{background:#1B6CFF} .src-legend__items .d-press{background:#F59E0B} .src-legend__items .d-rumor{background:#707078}
+  .src-legend__how{margin-left:auto}
+  .src-legend__how summary{cursor:pointer;color:var(--ink-mute);list-style:none;display:inline-flex;align-items:center;gap:5px}
+  .src-legend__how summary::-webkit-details-marker{display:none}
+  .src-legend__how summary::before{content:"ⓘ";font-size:12px;color:var(--tesla-red)}
+  .src-legend__how summary:hover{color:var(--ink)}
+  .src-legend__how[open] summary{color:var(--ink);margin-bottom:8px}
+  .src-legend__how p{flex-basis:100%;margin:0;color:var(--ink-mute);font-family:"Pretendard Variable",system-ui,sans-serif;font-size:12px;line-height:1.7;max-width:78ch}
+  .src-legend__how[open]{flex-basis:100%}
+  @media (max-width:640px){.src-legend__how{margin-left:0}}
   .ccard__cta{display:inline-flex;align-items:center;gap:3px;color:var(--ink-mid);font-size:11px;font-weight:600;flex-shrink:0}
   .ccard__cta::after{content:"→"}
   .ccard.is-stock   { --cat-color: var(--c-stock); }
@@ -134,6 +148,18 @@
 </section>
 
 <section class="wrap">
+  <div class="src-legend">
+    <span class="src-legend__items">
+      <span><i class="d d-sec"></i> Filings &amp; data</span>
+      <span><i class="d d-off"></i> Official</span>
+      <span><i class="d d-press"></i> Press</span>
+      <span><i class="d d-rumor"></i> Community</span>
+    </span>
+    <details class="src-legend__how">
+      <summary>How we curate</summary>
+      <p>We cover only the 4 topics that matter to Tesla shareholders (Stock &amp; Earnings / Vehicles, Energy &amp; Optimus / Autonomy &amp; Robotaxi / Elon). Every 2 hours we pull RSS feeds and rank them by ① recency (last-24h bonus) and ② source trust (filings, official channels and established press get a bonus; anonymous community and blogs are penalized), then auto-select the top items per category. The dot color marks the source tier — the nature of the source itself, not a human opinion.</p>
+    </details>
+  </div>
   <div class="cats__grid">
     <!-- BLOCK:NEWS_GRID --><a class="ccard is-stock" href="#"><div class="ccard__top"><span class="ccard__cat">STOCK</span><span class="ccard__time">—</span></div><h3>Loading…</h3></a><!-- /BLOCK:NEWS_GRID -->
   </div>
