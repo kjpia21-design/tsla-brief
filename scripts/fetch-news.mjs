@@ -330,19 +330,72 @@ async function fetchRss(url) {
 }
 
 // ─────────────────────────────────────────────────────────
-// href 정규화 — Google News redirect URL 을 매체 홈으로 대체
-// (개별 기사 URL 풀이는 redirect 추적이 필요해 별도 작업으로 둠)
+// href 정규화 — 직접 피드는 link 가 곧 원문, Google News 만 토큰 해석
 // ─────────────────────────────────────────────────────────
-function normalizeHref(it) {
+
+// 매체 홈 fallback (토큰 해석 실패 시).
+function mediaHome(it) {
   const link = it.link || "";
-  if (!/news\.google\.com\/rss/i.test(link)) return link;
-  // Google News redirect 토큰 — sourceUrl 이 있으면 그 호스트의 홈으로
   try {
     const u = new URL(it.sourceUrl || link);
     return `${u.protocol}//${u.hostname}/`;
   } catch {
     return link;
   }
+}
+
+// Google News /rss/articles/<TOKEN> 를 실제 원문 URL 로 2-step 해석.
+//  1) 기사 페이지 GET → data-n-a-sg (서명) + data-n-a-ts (타임스탬프) 추출
+//  2) batchexecute POST (garturlreq) → 응답에서 원문 URL 추출
+// 실패하면 null 반환 → 호출부가 mediaHome 으로 fallback.
+async function decodeGoogleNews(link) {
+  const m = /\/rss\/articles\/([^?/]+)/.exec(link);
+  if (!m) return null;
+  const tok = m[1];
+
+  const page = await fetch(link, {
+    headers: BROWSER_HEADERS,
+    redirect: "follow",
+    signal: AbortSignal.timeout(15000),
+  }).then((r) => (r.ok ? r.text() : ""));
+  if (!page) return null;
+
+  const sg = /data-n-a-sg="([^"]+)"/.exec(page)?.[1];
+  const ts = /data-n-a-ts="([^"]+)"/.exec(page)?.[1];
+  if (!sg || !ts) return null;
+
+  const inner = JSON.stringify([
+    "garturlreq",
+    [["X", "X", ["X", "X"], null, null, 1, 1, "US:en", null, 1, null, null, null, null, null, 0, 1],
+      "en-US", "US", 1, [1, 1, 1], 1, 1, null, 0, 0, null, 0],
+    tok, Number(ts), sg,
+  ]);
+  const freq = JSON.stringify([[["Fbv4je", inner, null, "generic"]]]);
+
+  const res = await fetch("https://news.google.com/_/DotsSplashUi/data/batchexecute", {
+    method: "POST",
+    headers: {
+      ...BROWSER_HEADERS,
+      "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+    },
+    body: "f.req=" + encodeURIComponent(freq),
+    signal: AbortSignal.timeout(15000),
+  }).then((r) => (r.ok ? r.text() : ""));
+  if (!res) return null;
+
+  const url = /https?:\/\/(?!news\.google|www\.google)[^\s"'\\]+/.exec(res)?.[0];
+  return url || null;
+}
+
+// 카드 1건의 최종 href 결정. 직접 피드면 link 그대로, Google News 면 해석.
+async function resolveArticleUrl(it) {
+  const link = it.link || "";
+  if (!/news\.google\.com\/rss/i.test(link)) return link;
+  try {
+    const real = await decodeGoogleNews(link);
+    if (real) return real;
+  } catch { /* 아래 fallback */ }
+  return mediaHome(it);
 }
 
 // 카테고리당 최대 N건 (한국어 정제 시 선택 폭). 환경변수 SEED_N 으로 override.
@@ -383,7 +436,7 @@ async function main() {
   }));
 
   // 카테고리당 top N건 + 중복 제거 (같은 host + 같은 prefix 4단어)
-  const cards = [];
+  const picks = [];
   for (const [cat, items] of Object.entries(buckets)) {
     if (items.length === 0) continue;
     // 선별 정렬: 신선도 + 출처 가산점 (동점이면 최신 우선)
@@ -397,23 +450,41 @@ async function main() {
       seen.add(prefKey);
       picked += 1;
       console.log(`  · pick ${cat.padEnd(8)} score ${String(selectionScore(it)).padStart(3)} (tier ${String(tierBonus(it.host)).padStart(2)}) ${it.host || "?"}`);
-
-      const pubIso = it.ts ? new Date(it.ts).toISOString() : "";
-      cards.push({
-        category: cat,
-        categoryLabel: CATEGORY_LABELS[cat],
-        time: timeAgo(it.pubDate),
-        pubDate: pubIso,
-        title: it.title,
-        body: it.description.slice(0, 220) + (it.description.length > 220 ? "…" : ""),
-        sourceName: it.sourceName,
-        sourceLabel: it.label,
-        slug: "",         // 정제 단계에서 채움
-        summary: "",      // 정제 단계에서 채움
-        href: normalizeHref(it),
-      });
+      picks.push({ cat, it });
     }
   }
+
+  // 원문 URL 해석 (Google News 토큰 → 실제 기사). 동시 4건 제한.
+  const cards = new Array(picks.length);
+  let resolved = 0, gnews = 0, gnewsOk = 0;
+  await Promise.all(
+    Array.from({ length: 4 }, async () => {
+      while (true) {
+        const i = resolved++;
+        if (i >= picks.length) break;
+        const { cat, it } = picks[i];
+        const isGnews = /news\.google\.com\/rss/i.test(it.link || "");
+        if (isGnews) gnews += 1;
+        const href = await resolveArticleUrl(it);
+        if (isGnews && !/news\.google\.com/i.test(href) && !href.endsWith("/")) gnewsOk += 1;
+        const pubIso = it.ts ? new Date(it.ts).toISOString() : "";
+        cards[i] = {
+          category: cat,
+          categoryLabel: CATEGORY_LABELS[cat],
+          time: timeAgo(it.pubDate),
+          pubDate: pubIso,
+          title: it.title,
+          body: it.description.slice(0, 220) + (it.description.length > 220 ? "…" : ""),
+          sourceName: it.sourceName,
+          sourceLabel: it.label,
+          slug: "",         // 정제 단계에서 채움
+          summary: "",      // 정제 단계에서 채움
+          href,
+        };
+      }
+    })
+  );
+  console.log(`[fetch-news] href 해석 · Google News ${gnews}건 중 ${gnewsOk}건 원문 연결 성공`);
 
   if (cards.length === 0) {
     console.warn("[fetch-news] 카드를 한 건도 못 가져왔습니다. 기존 raw-cards.json 유지.");
