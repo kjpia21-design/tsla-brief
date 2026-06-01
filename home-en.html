@@ -192,6 +192,11 @@
     transition:background var(--t-1) var(--ease);
   }
   .nl button:hover{background:var(--red-deep)}
+  .nl button:disabled{opacity:.6;cursor:default}
+  .nl__hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0;pointer-events:none}
+  .nl__status{margin:12px 0 0;font-size:12.5px;line-height:1.5;display:none}
+  .nl__status.is-ok{display:block;color:var(--up)}
+  .nl__status.is-err{display:block;color:var(--down)}
   .nl__hint{display:flex;justify-content:space-between;gap:10px;color:var(--ink-mute);font-size:11px;margin-top:12px;font-family:"IBM Plex Mono",ui-monospace,monospace;letter-spacing:.04em;flex-wrap:wrap}
   .nl__hint span b{color:var(--ink-mid);font-weight:600}
   /* 개인정보 수집·이용 동의 (개인정보 보호법 준수) */
@@ -980,9 +985,10 @@
         <span class="nl__badge">FREE</span>
       </div>
       <div class="nl__row">
-        <input type="email" placeholder="your@email.com" required aria-label="이메일 주소"/>
+        <input type="email" id="subscribe-email" placeholder="your@email.com" required aria-label="Email address"/>
         <button type="submit">Subscribe</button>
       </div>
+      <input type="text" class="nl__hp" id="subscribe-hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
       <label class="nl__consent">
         <input type="checkbox" id="subscribe-consent" required />
         <span>
@@ -990,6 +996,7 @@
           <a href="../privacy.html" target="_blank" rel="noopener">See privacy policy</a>
         </span>
       </label>
+      <p class="nl__status" id="subscribe-status" role="status" aria-live="polite"></p>
     </form>
   </div>
 </section>
@@ -1055,12 +1062,44 @@ function tslaSubscribe(e){
   e.preventDefault();
   var f = e.currentTarget;
   var consent = f.querySelector('#subscribe-consent');
+  var emailEl = f.querySelector('#subscribe-email');
+  var btn = f.querySelector('button[type=submit]');
+  var status = f.querySelector('#subscribe-status');
+  var hp = f.querySelector('#subscribe-hp');
+
+  function show(msg, ok){ status.textContent = msg; status.className = 'nl__status ' + (ok ? 'is-ok' : 'is-err'); }
+
   if (consent && !consent.checked){
-    alert('Please consent to email collection and use.');
+    show('Please consent to email collection and use.', false);
     consent.focus();
     return false;
   }
-  alert('Subscription is a demo (real form connection coming later).');
+
+  var orig = btn.textContent;
+  btn.disabled = true; btn.textContent = 'Subscribing…';
+  fetch('/api/subscribe', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      email: (emailEl.value || '').trim(),
+      lang: 'en',
+      consent: true,
+      hp: hp ? hp.value : ''
+    })
+  }).then(function(res){
+    return res.json().catch(function(){ return {}; }).then(function(data){ return { ok: res.ok, data: data }; });
+  }).then(function(r){
+    if (r.ok && r.data.ok){
+      show(r.data.dup ? "You're already subscribed. Your briefing is on the way." : "You're in! Watch for your first briefing.", true);
+      f.reset();
+    } else {
+      show((r.data && r.data.error) || 'Please try again in a moment.', false);
+    }
+  }).catch(function(){
+    show('Network error. Please try again in a moment.', false);
+  }).finally(function(){
+    btn.disabled = false; btn.textContent = orig;
+  });
   return false;
 }
 </script>

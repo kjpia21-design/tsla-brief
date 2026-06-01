@@ -192,6 +192,11 @@
     transition:background var(--t-1) var(--ease);
   }
   .nl button:hover{background:var(--red-deep)}
+  .nl button:disabled{opacity:.6;cursor:default}
+  .nl__hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0;pointer-events:none}
+  .nl__status{margin:12px 0 0;font-size:12.5px;line-height:1.5;display:none}
+  .nl__status.is-ok{display:block;color:var(--up)}
+  .nl__status.is-err{display:block;color:var(--down)}
   .nl__hint{display:flex;justify-content:space-between;gap:10px;color:var(--ink-mute);font-size:11px;margin-top:12px;font-family:"IBM Plex Mono",ui-monospace,monospace;letter-spacing:.04em;flex-wrap:wrap}
   .nl__hint span b{color:var(--ink-mid);font-weight:600}
   /* 개인정보 수집·이용 동의 (개인정보 보호법 준수) */
@@ -980,9 +985,10 @@
         <span class="nl__badge">FREE</span>
       </div>
       <div class="nl__row">
-        <input type="email" placeholder="your@email.com" required aria-label="이메일 주소"/>
+        <input type="email" id="subscribe-email" placeholder="your@email.com" required aria-label="이메일 주소"/>
         <button type="submit">뉴스레터 구독</button>
       </div>
+      <input type="text" class="nl__hp" id="subscribe-hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
       <label class="nl__consent">
         <input type="checkbox" id="subscribe-consent" required />
         <span>
@@ -990,6 +996,7 @@
           <a href="privacy.html" target="_blank" rel="noopener">개인정보처리방침 보기</a>
         </span>
       </label>
+      <p class="nl__status" id="subscribe-status" role="status" aria-live="polite"></p>
     </form>
   </div>
 </section>
@@ -1055,12 +1062,44 @@ function tslaSubscribe(e){
   e.preventDefault();
   var f = e.currentTarget;
   var consent = f.querySelector('#subscribe-consent');
+  var emailEl = f.querySelector('#subscribe-email');
+  var btn = f.querySelector('button[type=submit]');
+  var status = f.querySelector('#subscribe-status');
+  var hp = f.querySelector('#subscribe-hp');
+
+  function show(msg, ok){ status.textContent = msg; status.className = 'nl__status ' + (ok ? 'is-ok' : 'is-err'); }
+
   if (consent && !consent.checked){
-    alert('개인정보 수집·이용에 동의해 주세요.');
+    show('개인정보 수집·이용에 동의해 주세요.', false);
     consent.focus();
     return false;
   }
-  alert('구독 신청 데모입니다. (실제 발송 연결은 추후)');
+
+  var orig = btn.textContent;
+  btn.disabled = true; btn.textContent = '신청 중…';
+  fetch('/api/subscribe', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      email: (emailEl.value || '').trim(),
+      lang: 'ko',
+      consent: true,
+      hp: hp ? hp.value : ''
+    })
+  }).then(function(res){
+    return res.json().catch(function(){ return {}; }).then(function(data){ return { ok: res.ok, data: data }; });
+  }).then(function(r){
+    if (r.ok && r.data.ok){
+      show(r.data.dup ? '이미 구독 중인 이메일이에요. 곧 브리핑을 받아보세요.' : '구독 신청 완료! 첫 브리핑을 기대해 주세요.', true);
+      f.reset();
+    } else {
+      show((r.data && r.data.error) || '잠시 후 다시 시도해 주세요.', false);
+    }
+  }).catch(function(){
+    show('네트워크 오류입니다. 잠시 후 다시 시도해 주세요.', false);
+  }).finally(function(){
+    btn.disabled = false; btn.textContent = orig;
+  });
   return false;
 }
 </script>
