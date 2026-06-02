@@ -1,10 +1,62 @@
 {
-  "asOf": "2026-06-02 10:46 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-02 12:30 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "37m ago",
+      "pubDate": "2026-06-02T11:54:00.000Z",
+      "title": "Former Tesla employees say full self-driving is nowhere near as capable as Elon Musk claims",
+      "body": "Former Tesla employees say full self-driving is nowhere near as capable as Elon Musk claims TechSpot",
+      "sourceName": "TechSpot",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.techspot.com/news/112611-former-tesla-employees-full-self-driving-nowhere-near.html"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "54m ago",
+      "time": "47m ago",
+      "pubDate": "2026-06-02T11:44:05.000Z",
+      "title": "Natixis Advisors LLC Has $816.42 Million Stock Holdings in Tesla, Inc. $TSLA",
+      "body": "Natixis Advisors LLC Has $816.42 Million Stock Holdings in Tesla, Inc. $TSLA MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-natixis-advisors-llc-has-81642-million-stock-holdings-in-tesla-inc-tsla-2026-06-02/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-02T11:06:16.000Z",
+      "title": "Tesla Shares Surge 14.2 Percent on Robotaxi Expansion Optimism",
+      "body": "Tesla Shares Surge 14.2 Percent on Robotaxi Expansion Optimism asatunews.co.id",
+      "sourceName": "asatunews.co.id",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.asatunews.co.id/en/tesla-shares-surge-robotaxi-expansion"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-02T10:54:02.000Z",
+      "title": "One Capital Management LLC Trims Stock Holdings in Tesla, Inc. $TSLA",
+      "body": "One Capital Management LLC Trims Stock Holdings in Tesla, Inc. $TSLA MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-one-capital-management-llc-trims-stock-holdings-in-tesla-inc-tsla-2026-06-02/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
       "pubDate": "2026-06-02T09:52:47.000Z",
       "title": "Citron Research's Andrew Left Convicted in $20M Stock Manipulation Scheme Involving Tesla (TSLA) and Nvidia (NVDA)",
       "body": "Citron Research's Andrew Left Convicted in $20M Stock Manipulation Scheme Involving Tesla (TSLA) and Nvidia (NVDA) parameter.io",
@@ -17,7 +69,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "55m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-02T09:52:15.000Z",
       "title": "Tesla (TSLA) Sees Surge in New Car Registrations Across Europe",
       "body": "Tesla (TSLA) Sees Surge in New Car Registrations Across Europe GuruFocus",
@@ -28,22 +80,9 @@
       "href": "https://www.gurufocus.com/news/8895500/tesla-tsla-sees-surge-in-new-car-registrations-across-europe"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-06-02T09:33:48.000Z",
-      "title": "Tesla FSD Enters China",
-      "body": "Tesla FSD Enters China - at last Gizchina.com",
-      "sourceName": "Gizchina.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.gizchina.com/tesla/tesla-fsd-enters-china-at-last"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-02T09:30:52.000Z",
       "title": "Wall Street sees Tesla's Q1 earnings as an opportunity for the EV maker to claim its place in the AI era",
       "body": "Wall Street sees Tesla's Q1 earnings as an opportunity for the EV maker to claim its place in the AI era AOL.com",
@@ -54,22 +93,22 @@
       "href": "https://www.aol.com/articles/wall-street-sees-teslas-q1-185704439.html?utm_source"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-02T09:05:57.000Z",
-      "title": "What's going on with Tesla stock Tuesday?",
-      "body": "What's going on with Tesla stock Tuesday? MSN",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-06-02T08:20:39.000Z",
+      "title": "TSLA Stock Climbs Premarket: Elon Musk Revives Tesla's IPO-Era Bull Case To Defend SpaceX's $1.8 Trillion Valuation",
+      "body": "TSLA Stock Climbs Premarket: Elon Musk Revives Tesla's IPO-Era Bull Case To Defend SpaceX's $1.8 Trillion Valuation Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "sec",
       "slug": "",
       "summary": "",
-      "href": "https://www.msn.com/en-us/money/news/what-s-going-on-with-tesla-stock-tuesday/ar-AA2318zZ"
+      "href": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-climbs-premarket-elon-082039981.html"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-02T06:22:08.000Z",
       "title": "SpaceX’s amended S-1 is sparking a major Tesla merger conversation",
       "body": "SpaceX’s amended S-1 is sparking a major Tesla merger conversation Teslarati",
@@ -82,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-02T04:27:00.000Z",
       "title": "Tesla Faces China FSD Lawsuit As Robotics Competition Tests Valuation",
       "body": "Tesla Faces China FSD Lawsuit As Robotics Competition Tests Valuation Yahoo Finance",
@@ -95,20 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-06-02T00:05:00.000Z",
-      "title": "SEC defends Musk settlement over Twitter, saying it reflects 'compromises'",
-      "body": "SEC defends Musk settlement over Twitter, saying it reflects 'compromises' Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/sec-defends-musk-settlement-over-235804940.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-01T23:51:00.000Z",
       "title": "This 83-Year-Old Investor Is Elon Musk’s Biggest Fanboy",
       "body": "This 83-Year-Old Investor Is Elon Musk’s Biggest Fanboy WSJ",
@@ -121,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-01T21:04:22.000Z",
       "title": "Tesla’s European Comeback: Registrations soar in May as recovery gains momentum",
       "body": "Tesla is staging a powerful rebound in Europe. New vehicle registrations surged dramatically across multiple key markets in May 2026, signaling a strong recovery from the challenges of 2025. Data released this week show …",
@@ -134,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-01T20:46:00.000Z",
       "title": "The Odds SpaceX Merges With Tesla Are Higher Than You Think",
       "body": "The Odds SpaceX Merges With Tesla Are Higher Than You Think Barron's",
@@ -147,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-01T17:31:07.000Z",
       "title": "Elon Musk Says We Used To Find Medicine Like Random Sticks In The Woods — Now We Can Program It Like An App And Basically 'Cure Almost Anything'",
       "body": "Elon Musk Says We Used To Find Medicine Like Random Sticks In The Woods — Now We Can Program It Like An App And Basically 'Cure Almost Anything' Yahoo Finance",
@@ -160,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-01T17:30:39.000Z",
       "title": "Tesla Has Renamed FSD Due To Lawsuit By Chinese Buyers",
       "body": "Tesla Has Renamed FSD Due To Lawsuit By Chinese Buyers Yahoo Finance",
@@ -173,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "18h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-01T17:13:29.000Z",
       "title": "Tesla FSD v14 is so good it’s making me dangerously complacent",
       "body": "I was the first journalist to test Tesla’s Autopilot before it launched over a decade ago. I’ve tested every version of Autopilot and “Full Self-Driving” since. FSD v14 is by far the most impressive — and that’s exactly …",
@@ -186,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "22h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-01T12:18:57.000Z",
       "title": "Tesla plans ingenious improvement to one of its best features",
       "body": "Tesla is planning to improve one of the best features on its lineup of cars, a new patent shows. Tesla’s massive glass roof on its premium models is among the coolest additions to the all-electric vehicles, but the desig…",
@@ -195,19 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-plans-ingenious-improvement-best-features/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-06-01T11:21:57.000Z",
-      "title": "New Tesla sales in Spain more than double year-on-year in May",
-      "body": "New Tesla sales in Spain more than double year-on-year in May Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/retail-consumer/new-tesla-sales-spain-more-than-double-year-on-year-may-2026-06-01/"
     },
     {
       "category": "product",
@@ -221,19 +234,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-crash-malibu-cliff/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-05-31T11:20:00.000Z",
-      "title": "The $10 Trillion Robotaxi Boom Is Real. This 1 Stock Is the Smartest Long-Term Buy.",
-      "body": "The $10 Trillion Robotaxi Boom Is Real. This 1 Stock Is the Smartest Long-Term Buy. Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/10-trillion-robotaxi-boom-real-112000827.html"
     },
     {
       "category": "product",
