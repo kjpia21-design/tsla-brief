@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-02 10:30 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-02 10:46 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "38m ago",
+      "time": "54m ago",
       "pubDate": "2026-06-02T09:52:47.000Z",
       "title": "Citron Research's Andrew Left Convicted in $20M Stock Manipulation Scheme Involving Tesla (TSLA) and Nvidia (NVDA)",
       "body": "Citron Research's Andrew Left Convicted in $20M Stock Manipulation Scheme Involving Tesla (TSLA) and Nvidia (NVDA) parameter.io",
@@ -17,7 +17,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "39m ago",
+      "time": "55m ago",
       "pubDate": "2026-06-02T09:52:15.000Z",
       "title": "Tesla (TSLA) Sees Surge in New Car Registrations Across Europe",
       "body": "Tesla (TSLA) Sees Surge in New Car Registrations Across Europe GuruFocus",
@@ -30,7 +30,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "57m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-02T09:33:48.000Z",
       "title": "Tesla FSD Enters China",
       "body": "Tesla FSD Enters China - at last Gizchina.com",
@@ -44,6 +44,19 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
+      "pubDate": "2026-06-02T09:30:52.000Z",
+      "title": "Wall Street sees Tesla's Q1 earnings as an opportunity for the EV maker to claim its place in the AI era",
+      "body": "Wall Street sees Tesla's Q1 earnings as an opportunity for the EV maker to claim its place in the AI era AOL.com",
+      "sourceName": "AOL.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.aol.com/articles/wall-street-sees-teslas-q1-185704439.html?utm_source"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
       "pubDate": "2026-06-02T09:05:57.000Z",
       "title": "What's going on with Tesla stock Tuesday?",
       "body": "What's going on with Tesla stock Tuesday? MSN",
@@ -52,19 +65,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.msn.com/en-us/money/news/what-s-going-on-with-tesla-stock-tuesday/ar-AA2318zZ"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-02T08:46:00.000Z",
-      "title": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus",
-      "body": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus Stocktwits",
-      "sourceName": "Stocktwits",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-ai-trade-hpe-marvell-tesla-spce-asts-stocks-to-watch/cZ0isUxRewE"
     },
     {
       "category": "musk",
@@ -95,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-02T00:05:00.000Z",
       "title": "SEC defends Musk settlement over Twitter, saying it reflects 'compromises'",
       "body": "SEC defends Musk settlement over Twitter, saying it reflects 'compromises' Yahoo Finance",
@@ -121,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-01T21:04:22.000Z",
       "title": "Tesla’s European Comeback: Registrations soar in May as recovery gains momentum",
       "body": "Tesla is staging a powerful rebound in Europe. New vehicle registrations surged dramatically across multiple key markets in May 2026, signaling a strong recovery from the challenges of 2025. Data released this week show …",
@@ -173,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-01T17:13:29.000Z",
       "title": "Tesla FSD v14 is so good it’s making me dangerously complacent",
       "body": "I was the first journalist to test Tesla’s Autopilot before it launched over a decade ago. I’ve tested every version of Autopilot and “Full Self-Driving” since. FSD v14 is by far the most impressive — and that’s exactly …",
