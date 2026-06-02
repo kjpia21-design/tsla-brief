@@ -480,7 +480,17 @@ async function buildOneLang(opts) {
   await mkdir(outDir, { recursive: true });
   await writeFile(path.join(outDir, "index.html"), out, "utf8");
 
-  const numArticles = await generateArticles(archive, { outDir, lang });
+  // 상세 페이지는 cards + archive 합집합(slug dedup)으로 생성.
+  // cards.json 에만 있고 archive 50개 cap 에서 밀려난 카드도 반드시 기사 파일을 갖게 해
+  // 홈/핫뉴스 링크가 깨지지 않도록 한다. (cards 우선 → archive 보충)
+  const articleSeen = new Set();
+  const articleItems = [];
+  for (const card of [...cards.items, ...archive.items]) {
+    if (!card.slug || articleSeen.has(card.slug)) continue;
+    articleSeen.add(card.slug);
+    articleItems.push(card);
+  }
+  const numArticles = await generateArticles({ items: articleItems }, { outDir, lang });
   await generateNewsPage(archive, { newsTemplateName, outDir, lang });
 
   return { numCards: cards.items.length, numArchive: archive.items.length, numArticles, bytes: out.length };
