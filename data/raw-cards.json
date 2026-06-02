@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-02 20:30 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-02 20:57 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "37m ago",
+      "pubDate": "2026-06-02T20:20:00.000Z",
+      "title": "Elon Musk is reportedly weighing a Tesla SpaceX merger weeks before what could be the biggest IPO ever",
+      "body": "Elon Musk is reportedly weighing a Tesla SpaceX merger weeks before what could be the biggest IPO ever Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "sec",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-reportedly-weighing-tesla-202000046.html"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-02T19:20:51.000Z",
       "title": "Tesla Full Self-Driving attempts 150-mile stress test: the good and the bad",
       "body": "Tesla Full Self-Driving attempts 150-mile stress test: the good and the bad Teslarati",
@@ -13,6 +26,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-full-self-driving-attempts-150-mile-stress-test-good-and-bad/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-02T17:50:56.000Z",
+      "title": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus",
+      "body": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus Stocktwits",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-ai-trade-hpe-marvell-tesla-spce-asts-stocks-to-watch/cZ0isUxRewE"
     },
     {
       "category": "stock",
@@ -54,6 +80,19 @@
       "href": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-still-wants-dogecoin-173130714.html"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
+      "pubDate": "2026-06-02T17:06:41.000Z",
+      "title": "Tesla stock rebounding around 1.5% today: what's behind the move?",
+      "body": "Tesla stock rebounding around 1.5% today: what's behind the move? TradingView",
+      "sourceName": "TradingView",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tradingview.com/news/invezz:0117d7425094b:0-tesla-stock-rebounding-around-1-5-today-what-s-behind-the-move/"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "4h ago",
@@ -67,35 +106,9 @@
       "href": "https://www.reuters.com/business/autos-transportation/inside-teslas-self-driving-machine-2026-06-02/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-02T15:50:49.000Z",
-      "title": "Tesla (TSLA) Continues Strong Sales Growth in China Amid Intensi",
-      "body": "Tesla (TSLA) Continues Strong Sales Growth in China Amid Intensi GuruFocus",
-      "sourceName": "GuruFocus",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.gurufocus.com/news/8896090/tesla-tsla-continues-strong-sales-growth-in-china-amid-intensifying-competition"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-02T15:49:30.000Z",
-      "title": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity",
-      "body": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity AOL.com",
-      "sourceName": "AOL.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.aol.com/articles/prediction-tesla-stock-buy-2029-202500000.html"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-02T14:20:20.000Z",
       "title": "Tesla Semi tackles the Grapevine with a loaded trailer, leaves fleet operator ‘amazed’",
       "body": "Covenant Logistics, one of the largest trucking companies in the US with a fleet of over 2,600 tractors, completed a two-week evaluation of the Tesla Semi in California — including a loaded run over the notorious Grapevi…",
@@ -160,19 +173,6 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
-      "pubDate": "2026-06-02T12:20:00.000Z",
-      "title": "Will SpaceX and Tesla Merge? I'm Predicting a Megamerger for 1 Surprising Reason",
-      "body": "Will SpaceX and Tesla Merge? I'm Predicting a Megamerger for 1 Surprising Reason Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merge-im-predicting-122000175.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
       "time": "10h ago",
       "pubDate": "2026-06-02T10:50:00.000Z",
       "title": "Here's Why Tesla Stock Soared in May (And What the SpaceX IPO Means to Tesla Investors)",
@@ -186,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-02T04:27:00.000Z",
       "title": "Tesla Faces China FSD Lawsuit As Robotics Competition Tests Valuation",
       "body": "Tesla Faces China FSD Lawsuit As Robotics Competition Tests Valuation Yahoo Finance",
@@ -199,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-01T21:10:08.000Z",
       "title": "Tesla’s European Comeback: Registrations soar in May as recovery gains momentum",
       "body": "Tesla’s European Comeback: Registrations soar in May as recovery gains momentum Teslarati",
@@ -212,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-01T21:04:22.000Z",
       "title": "Tesla’s European Comeback: Registrations soar in May as recovery gains momentum",
       "body": "Tesla is staging a powerful rebound in Europe. New vehicle registrations surged dramatically across multiple key markets in May 2026, signaling a strong recovery from the challenges of 2025. Data released this week show …",
