@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-02 06:36 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-02 08:35 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-02T07:10:37.000Z",
+      "title": "Tesla's IPO Market Cap Was Just 0.1% of Its Value Today",
+      "body": "Tesla's IPO Market Cap Was Just 0.1% of Its Value Today BASENOR - Tesla Accessories",
+      "sourceName": "BASENOR - Tesla Accessories",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.basenor.com/blogs/news/teslas-ipo-market-cap-was-just-0-1-of-its-value-today"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "14m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-02T06:22:08.000Z",
       "title": "SpaceX’s amended S-1 is sparking a major Tesla merger conversation",
       "body": "SpaceX’s amended S-1 is sparking a major Tesla merger conversation Teslarati",
@@ -17,7 +30,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "33m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-02T06:02:44.000Z",
       "title": "Tesla (TSLA) Sees Significant Growth in European Registrations f",
       "body": "Tesla (TSLA) Sees Significant Growth in European Registrations f GuruFocus",
@@ -30,7 +43,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-02T05:10:08.000Z",
       "title": "Tesla EU sales recovery gains steam in May (TSLA:NASDAQ)",
       "body": "Tesla EU sales recovery gains steam in May (TSLA:NASDAQ) Seeking Alpha",
@@ -41,22 +54,9 @@
       "href": "https://seekingalpha.com/news/4599519-tesla-eu-sales-recovery-gains-steam-in-may"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-02T04:50:32.000Z",
-      "title": "Short Seller Andrew Left Loses Major Fraud Case over Nvidia (NVDA) and Tesla (TSLA) Stock Calls",
-      "body": "Short Seller Andrew Left Loses Major Fraud Case over Nvidia (NVDA) and Tesla (TSLA) Stock Calls TipRanks",
-      "sourceName": "TipRanks",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.tipranks.com/news/short-seller-andrew-left-loses-major-fraud-case-over-nvidia-nvda-and-tesla-tsla-stock-calls"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-02T04:27:00.000Z",
       "title": "Tesla Faces China FSD Lawsuit As Robotics Competition Tests Valuation",
       "body": "Tesla Faces China FSD Lawsuit As Robotics Competition Tests Valuation Yahoo Finance",
@@ -67,22 +67,9 @@
       "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-china-fsd-lawsuit-042744410.html"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-02T04:01:00.000Z",
-      "title": "China catching up to U.S. on autonomous driving tech, experts warn",
-      "body": "China catching up to U.S. on autonomous driving tech, experts warn The Detroit News",
-      "sourceName": "The Detroit News",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.detroitnews.com/story/business/autos/2026/06/02/china-us-autonomous-vehicle-technology-tesla-fsd-waymo-advanced-driver-assostance-robotaxi/90214304007/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-02T00:05:00.000Z",
       "title": "SEC defends Musk settlement over Twitter, saying it reflects 'compromises'",
       "body": "SEC defends Musk settlement over Twitter, saying it reflects 'compromises' Yahoo Finance",
@@ -95,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-01T23:51:00.000Z",
       "title": "This 83-Year-Old Investor Is Elon Musk’s Biggest Fanboy",
       "body": "This 83-Year-Old Investor Is Elon Musk’s Biggest Fanboy WSJ",
@@ -108,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-01T21:04:22.000Z",
       "title": "Tesla’s European Comeback: Registrations soar in May as recovery gains momentum",
       "body": "Tesla is staging a powerful rebound in Europe. New vehicle registrations surged dramatically across multiple key markets in May 2026, signaling a strong recovery from the challenges of 2025. Data released this week show …",
@@ -121,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-01T20:46:00.000Z",
       "title": "The Odds SpaceX Merges With Tesla Are Higher Than You Think",
       "body": "The Odds SpaceX Merges With Tesla Are Higher Than You Think Barron's",
@@ -134,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-01T17:43:33.000Z",
       "title": "Tesla May registrations jump in several European markets as recovery continues",
       "body": "Tesla May registrations jump in several European markets as recovery continues Reuters",
@@ -147,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-01T17:31:07.000Z",
       "title": "Elon Musk Says We Used To Find Medicine Like Random Sticks In The Woods — Now We Can Program It Like An App And Basically 'Cure Almost Anything'",
       "body": "Elon Musk Says We Used To Find Medicine Like Random Sticks In The Woods — Now We Can Program It Like An App And Basically 'Cure Almost Anything' Yahoo Finance",
@@ -160,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-01T17:30:39.000Z",
       "title": "Tesla Has Renamed FSD Due To Lawsuit By Chinese Buyers",
       "body": "Tesla Has Renamed FSD Due To Lawsuit By Chinese Buyers Yahoo Finance",
@@ -173,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-01T17:13:29.000Z",
       "title": "Tesla FSD v14 is so good it’s making me dangerously complacent",
       "body": "I was the first journalist to test Tesla’s Autopilot before it launched over a decade ago. I’ve tested every version of Autopilot and “Full Self-Driving” since. FSD v14 is by far the most impressive — and that’s exactly …",
@@ -186,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-06-01T12:18:57.000Z",
       "title": "Tesla plans ingenious improvement to one of its best features",
       "body": "Tesla is planning to improve one of the best features on its lineup of cars, a new patent shows. Tesla’s massive glass roof on its premium models is among the coolest additions to the all-electric vehicles, but the desig…",
@@ -199,7 +186,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-06-01T11:21:57.000Z",
       "title": "New Tesla sales in Spain more than double year-on-year in May",
       "body": "New Tesla sales in Spain more than double year-on-year in May Reuters",
@@ -212,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21h ago",
+      "time": "23h ago",
       "pubDate": "2026-06-01T09:46:34.000Z",
       "title": "BYD will pay for crashes on its FSD competitor, something Tesla never has",
       "body": "BYD says it will assume full financial liability for at-fault accidents that happen while its “God’s Eye” urban driving system is active in China — with no cap on the payout. It’s a commitment Tesla has never made for “F…",
@@ -221,19 +208,6 @@
       "slug": "",
       "summary": "",
       "href": "https://electrek.co/2026/06/01/byd-gods-eye-accepts-liability-tesla-never-has/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "23h ago",
-      "pubDate": "2026-06-01T07:24:07.000Z",
-      "title": "Tesla Model S Racing Willow Springs Track Day [Video]",
-      "body": "Tesla Model S Racing Willow Springs Track Day [Video] Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-model-s-racing-willow-springs-track/"
     },
     {
       "category": "product",
@@ -249,6 +223,19 @@
       "href": "https://www.teslarati.com/tesla-crash-malibu-cliff/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-05-31T11:20:00.000Z",
+      "title": "The $10 Trillion Robotaxi Boom Is Real. This 1 Stock Is the Smartest Long-Term Buy.",
+      "body": "The $10 Trillion Robotaxi Boom Is Real. This 1 Stock Is the Smartest Long-Term Buy. Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "sec",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/10-trillion-robotaxi-boom-real-112000827.html"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "6d ago",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-dedicated-optimus-factory-construction-officially-underway-giga-texas/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "11d ago",
+      "pubDate": "2026-05-22T09:55:15.000Z",
+      "title": "Tesla recalls 14,575 Model Ys because they may be missing a sticker",
+      "body": "Tesla is recalling 14,575 Model Y vehicles, produced between November ’25 and April ’26, due to a possible missing certification label. more…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/05/22/tesla-is-recalling-14575-model-ys-because-they-may-be-missing-a-sticker/"
     }
   ]
 }
