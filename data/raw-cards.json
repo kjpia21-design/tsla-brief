@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-02 16:45 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-02 18:30 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "43m ago",
+      "pubDate": "2026-06-02T17:48:17.000Z",
+      "title": "Tesla (TSLA) Sees Positive Momentum in Trading Activity",
+      "body": "Tesla (TSLA) Sees Positive Momentum in Trading Activity GuruFocus",
+      "sourceName": "GuruFocus",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.gurufocus.com/news/8896571/tesla-tsla-sees-positive-momentum-in-trading-activity"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "57m ago",
+      "pubDate": "2026-06-02T17:34:27.000Z",
+      "title": "Used Cybertrucks Start Showing Up, Tesla Stock (NASDAQ:TSLA) Gains",
+      "body": "Used Cybertrucks Start Showing Up, Tesla Stock (NASDAQ:TSLA) Gains TipRanks",
+      "sourceName": "TipRanks",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tipranks.com/news/used-cybertrucks-start-showing-up-tesla-stock-nasdaqtsla-gains"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-02T17:06:41.000Z",
+      "title": "Tesla stock rebounding around 1.5% today: what's behind the move?",
+      "body": "Tesla stock rebounding around 1.5% today: what's behind the move? TradingView",
+      "sourceName": "TradingView",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tradingview.com/news/invezz:0117d7425094b:0-tesla-stock-rebounding-around-1-5-today-what-s-behind-the-move/"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-02T16:34:00.000Z",
       "title": "Inside Tesla's self-driving machine",
       "body": "Inside Tesla's self-driving machine Reuters",
@@ -15,9 +54,22 @@
       "href": "https://www.reuters.com/business/autos-transportation/inside-teslas-self-driving-machine-2026-06-02/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-02T16:13:00.000Z",
+      "title": "Tesla China Hits 2026 High With Major Sales Surge in May",
+      "body": "Tesla China Hits 2026 High With Major Sales Surge in May Not a Tesla App",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.notateslaapp.com/news/4237/tesla-china-hits-2026-high-with-major-sales-surge-in-may"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "54m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-02T15:50:49.000Z",
       "title": "Tesla (TSLA) Continues Strong Sales Growth in China Amid Intensi",
       "body": "Tesla (TSLA) Continues Strong Sales Growth in China Amid Intensi GuruFocus",
@@ -28,35 +80,22 @@
       "href": "https://www.gurufocus.com/news/8896090/tesla-tsla-continues-strong-sales-growth-in-china-amid-intensifying-competition"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-06-02T15:36:44.000Z",
-      "title": "Tesla (TSLA) Shares Surge Following Record EV Deliveries",
-      "body": "Tesla (TSLA) Shares Surge Following Record EV Deliveries GuruFocus",
-      "sourceName": "GuruFocus",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-06-02T15:45:16.000Z",
+      "title": "3 forces shaping Tesla’s wild week",
+      "body": "3 forces shaping Tesla’s wild week Rolling Out",
+      "sourceName": "Rolling Out",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.gurufocus.com/news/8896386/tesla-tsla-shares-surge-following-record-ev-deliveries"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-02T15:06:11.000Z",
-      "title": "Tesla stock gains 1.45% as Syrah Resources supply agreement resumed",
-      "body": "Tesla stock gains 1.45% as Syrah Resources supply agreement resumed Traders Union",
-      "sourceName": "Traders Union",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://tradersunion.com/news/financial-news/show/2207323-tesla-gains-1-45percent-today-to/"
+      "href": "https://rollingout.com/2026/06/02/tesla-openai-robotics-rival-china-sales/"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-02T14:20:20.000Z",
       "title": "Tesla Semi tackles the Grapevine with a loaded trailer, leaves fleet operator ‘amazed’",
       "body": "Covenant Logistics, one of the largest trucking companies in the US with a fleet of over 2,600 tractors, completed a two-week evaluation of the Tesla Semi in California — including a loaded run over the notorious Grapevi…",
@@ -69,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-02T13:51:26.000Z",
       "title": "Tesla patents camera wiper for self-driving — resulting in more doubts for FSD owners",
       "body": "Tesla has been granted a new patent for a miniature camera cleaning system with a built-in wiper designed to keep vehicle cameras clear for autonomous driving. The patent addresses one of the most frustrating and well-kn…",
@@ -82,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-02T13:43:48.000Z",
       "title": "Musk-Linked Firm’s Texas Land Buy Hints at Home for Chip Plant",
       "body": "Musk-Linked Firm’s Texas Land Buy Hints at Home for Chip Plant Bloomberg.com",
@@ -95,7 +134,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-02T13:00:06.000Z",
       "title": "Here is What to Know Beyond Why Tesla, Inc. (TSLA) is a Trending Stock",
       "body": "Here is What to Know Beyond Why Tesla, Inc. (TSLA) is a Trending Stock Yahoo Finance",
@@ -106,22 +145,9 @@
       "href": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-tesla-inc-130006170.html"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-06-02T12:52:32.000Z",
-      "title": "Tesla (TSLA) Shanghai Factory Delivers Record Number of EVs in M",
-      "body": "Tesla (TSLA) Shanghai Factory Delivers Record Number of EVs in M GuruFocus",
-      "sourceName": "GuruFocus",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.gurufocus.com/news/8895881/tesla-tsla-shanghai-factory-delivers-record-number-of-evs-in-may"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-02T12:31:06.000Z",
       "title": "SpaceX-Tesla Merger Could Trigger Elon Musk's $1 Trillion Pay Package: Report",
       "body": "SpaceX-Tesla Merger Could Trigger Elon Musk's $1 Trillion Pay Package: Report Yahoo Finance",
@@ -134,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-02T12:20:00.000Z",
       "title": "Will SpaceX and Tesla Merge? I'm Predicting a Megamerger for 1 Surprising Reason",
       "body": "Will SpaceX and Tesla Merge? I'm Predicting a Megamerger for 1 Surprising Reason Yahoo Finance",
@@ -147,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-02T08:20:39.000Z",
       "title": "TSLA Stock Climbs Premarket: Elon Musk Revives Tesla's IPO-Era Bull Case To Defend SpaceX's $1.8 Trillion Valuation",
       "body": "TSLA Stock Climbs Premarket: Elon Musk Revives Tesla's IPO-Era Bull Case To Defend SpaceX's $1.8 Trillion Valuation Yahoo Finance",
@@ -160,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-02T07:32:31.000Z",
       "title": "Elon Musk Says Anthropic-SpaceX Deal Is Short-Term 'Because We Might Need The Compute Back' — Here's What That Means",
       "body": "Elon Musk Says Anthropic-SpaceX Deal Is Short-Term 'Because We Might Need The Compute Back' — Here's What That Means Yahoo Finance",
@@ -173,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-02T04:27:00.000Z",
       "title": "Tesla Faces China FSD Lawsuit As Robotics Competition Tests Valuation",
       "body": "Tesla Faces China FSD Lawsuit As Robotics Competition Tests Valuation Yahoo Finance",
@@ -186,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-06-01T21:04:22.000Z",
       "title": "Tesla’s European Comeback: Registrations soar in May as recovery gains momentum",
       "body": "Tesla is staging a powerful rebound in Europe. New vehicle registrations surged dramatically across multiple key markets in May 2026, signaling a strong recovery from the challenges of 2025. Data released this week show …",
@@ -195,32 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-european-comeback-registrations-soar-may-recovery-gains-momentum/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23h ago",
-      "pubDate": "2026-06-01T17:30:39.000Z",
-      "title": "Tesla Has Renamed FSD Due To Lawsuit By Chinese Buyers",
-      "body": "Tesla Has Renamed FSD Due To Lawsuit By Chinese Buyers Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/sectors/technology/articles/tesla-renamed-fsd-due-lawsuit-173039383.html"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-06-01T17:13:29.000Z",
-      "title": "Tesla FSD v14 is so good it’s making me dangerously complacent",
-      "body": "I was the first journalist to test Tesla’s Autopilot before it launched over a decade ago. I’ve tested every version of Autopilot and “Full Self-Driving” since. FSD v14 is by far the most impressive — and that’s exactly …",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/06/01/tesla-fsd-dangerously-good-complacency-problem/"
     },
     {
       "category": "product",
@@ -251,7 +251,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-06-01T06:54:41.000Z",
       "title": "Tesla saves its passengers again – This time after a 300-foot cliff fall in Malibu",
       "body": "A Tesla Model 3 fell 300 feet off a Malibu cliff and both passengers survived. The post Tesla saves its passengers again – This time after a 300-foot cliff fall in Malibu appeared first on TESLARATI.",
