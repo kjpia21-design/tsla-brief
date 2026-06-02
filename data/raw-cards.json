@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-02 02:41 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-02 04:36 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "30m ago",
+      "time": "35m ago",
+      "pubDate": "2026-06-02T04:01:00.000Z",
+      "title": "China catching up to U.S. on autonomous driving tech, experts warn",
+      "body": "China catching up to U.S. on autonomous driving tech, experts warn The Detroit News",
+      "sourceName": "The Detroit News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.detroitnews.com/story/business/autos/2026/06/02/china-us-autonomous-vehicle-technology-tesla-fsd-waymo-advanced-driver-assostance-robotaxi/90214304007/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
       "pubDate": "2026-06-02T02:11:28.000Z",
       "title": "Tesla Now Selling Used Cybertrucks Directly — Prices, Perks & Details",
       "body": "Tesla Now Selling Used Cybertrucks Directly — Prices, Perks & Details BASENOR - Tesla Accessories",
@@ -15,22 +28,9 @@
       "href": "https://www.basenor.com/blogs/news/tesla-now-selling-used-cybertrucks-directly-prices-perks-details"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-06-02T01:30:24.000Z",
-      "title": "Tesla FSD v14 drives too well, raising safety concerns over reduced driver vigilance",
-      "body": "Tesla FSD v14 drives too well, raising safety concerns over reduced driver vigilance 디지털투데이",
-      "sourceName": "디지털투데이",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.digitaltoday.co.kr/en/view/60120/tesla-fsd-v14-no-need-to-intervene-raises-safety-concerns"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-02T00:39:22.000Z",
       "title": "Assessing Tesla (TSLA) Valuation As Investor Narratives Clash On Future Growth Potential",
       "body": "Assessing Tesla (TSLA) Valuation As Investor Narratives Clash On Future Growth Potential simplywall.st",
@@ -43,20 +43,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-02T00:05:00.000Z",
       "title": "SEC defends Musk settlement over Twitter, saying it reflects 'compromises'",
-      "body": "SEC defends Musk settlement over Twitter, saying it reflects 'compromises' Yahoo! Finance Canada",
-      "sourceName": "Yahoo! Finance Canada",
+      "body": "SEC defends Musk settlement over Twitter, saying it reflects 'compromises' Yahoo Finance",
+      "sourceName": "Yahoo Finance",
       "sourceLabel": "sec",
       "slug": "",
       "summary": "",
-      "href": "https://ca.finance.yahoo.com/news/sec-defends-musk-settlement-over-000508292.html"
+      "href": "https://finance.yahoo.com/markets/stocks/articles/sec-defends-musk-settlement-over-235804940.html"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-02T00:03:20.000Z",
       "title": "NIO Is Up 9% Today: Is It Outperforming Other EV Stocks Like Tesla and Rivian?",
       "body": "NIO Is Up 9% Today: Is It Outperforming Other EV Stocks Like Tesla and Rivian? AOL.com",
@@ -69,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-01T23:51:00.000Z",
       "title": "This 83-Year-Old Investor Is Elon Musk’s Biggest Fanboy",
       "body": "This 83-Year-Old Investor Is Elon Musk’s Biggest Fanboy WSJ",
@@ -82,7 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-01T21:21:34.000Z",
       "title": "Tesla Inc (TSLA) Stock Down 4.6% but Still Overvalued -- GF Scor",
       "body": "Tesla Inc (TSLA) Stock Down 4.6% but Still Overvalued -- GF Scor GuruFocus",
@@ -95,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-01T21:04:22.000Z",
       "title": "Tesla’s European Comeback: Registrations soar in May as recovery gains momentum",
       "body": "Tesla is staging a powerful rebound in Europe. New vehicle registrations surged dramatically across multiple key markets in May 2026, signaling a strong recovery from the challenges of 2025. Data released this week show …",
@@ -108,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-01T20:46:00.000Z",
       "title": "The Odds SpaceX Merges With Tesla Are Higher Than You Think",
       "body": "The Odds SpaceX Merges With Tesla Are Higher Than You Think Barron's",
@@ -121,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-01T19:05:40.000Z",
       "title": "Tesla (TSLA) Stock Falls as OpenAI Launches Humanoid Robotics Division",
       "body": "Tesla (TSLA) Stock Falls as OpenAI Launches Humanoid Robotics Division MEXC",
@@ -132,9 +132,22 @@
       "href": "https://www.mexc.com/news/1123733"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "10h ago",
+      "pubDate": "2026-06-01T18:42:56.000Z",
+      "title": "Tesla Stock (TSLA) Falls on Robo Attack from Nvidia and OpenAI",
+      "body": "Tesla Stock (TSLA) Falls on Robo Attack from Nvidia and OpenAI TipRanks",
+      "sourceName": "TipRanks",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tipranks.com/news/tesla-stock-tsla-falls-on-robo-attack-from-nvidi-and-openai"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-01T17:31:07.000Z",
       "title": "Elon Musk Says We Used To Find Medicine Like Random Sticks In The Woods — Now We Can Program It Like An App And Basically 'Cure Almost Anything'",
       "body": "Elon Musk Says We Used To Find Medicine Like Random Sticks In The Woods — Now We Can Program It Like An App And Basically 'Cure Almost Anything' Yahoo Finance",
@@ -147,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-01T17:30:39.000Z",
       "title": "Tesla Has Renamed FSD Due To Lawsuit By Chinese Buyers",
       "body": "Tesla Has Renamed FSD Due To Lawsuit By Chinese Buyers Yahoo Finance",
@@ -160,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-01T17:13:29.000Z",
       "title": "Tesla FSD v14 is so good it’s making me dangerously complacent",
       "body": "I was the first journalist to test Tesla’s Autopilot before it launched over a decade ago. I’ve tested every version of Autopilot and “Full Self-Driving” since. FSD v14 is by far the most impressive — and that’s exactly …",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-01T16:42:28.000Z",
       "title": "Tesla Model 3 fell 300 ft off a cliff in Malibu, occupants walked away on their own (video)",
       "body": "Tesla Model 3 fell 300 ft off a cliff in Malibu, occupants walked away on their own (video) Tesla Oracle",
@@ -186,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-01T16:02:02.000Z",
       "title": "Tesla Optimus & Musk face a new threat",
       "body": "Tesla Optimus & Musk face a new threat — OpenAI Robotics Yahoo Finance",
@@ -199,20 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-01T15:41:00.000Z",
-      "title": "Tesla Model 3 Plunges 300 Feet Off Cliff, Passengers Survive [VIDEO]",
-      "body": "Tesla Model 3 Plunges 300 Feet Off Cliff, Passengers Survive [VIDEO] Not a Tesla App",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.notateslaapp.com/news/4232/tesla-model-3-plunges-300-feet-off-cliff-passengers-survive"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-01T12:18:57.000Z",
       "title": "Tesla plans ingenious improvement to one of its best features",
       "body": "Tesla is planning to improve one of the best features on its lineup of cars, a new patent shows. Tesla’s massive glass roof on its premium models is among the coolest additions to the all-electric vehicles, but the desig…",
@@ -225,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-01T09:46:34.000Z",
       "title": "BYD will pay for crashes on its FSD competitor, something Tesla never has",
       "body": "BYD says it will assume full financial liability for at-fault accidents that happen while its “God’s Eye” urban driving system is active in China — with no cap on the payout. It’s a commitment Tesla has never made for “F…",
@@ -238,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-01T06:54:41.000Z",
       "title": "Tesla saves its passengers again – This time after a 300-foot cliff fall in Malibu",
       "body": "A Tesla Model 3 fell 300 feet off a Malibu cliff and both passengers survived. The post Tesla saves its passengers again – This time after a 300-foot cliff fall in Malibu appeared first on TESLARATI.",
@@ -249,17 +249,17 @@
       "href": "https://www.teslarati.com/tesla-crash-malibu-cliff/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-06-01T04:08:42.000Z",
-      "title": "Tesla Backs Off Threat to Cancel Australian Graphite Supply Agreement, Syrah Stock Pops Over 23%",
-      "body": "Tesla Backs Off Threat to Cancel Australian Graphite Supply Agreement, Syrah Stock Pops Over 23% Yahoo Finance UK",
-      "sourceName": "Yahoo Finance UK",
-      "sourceLabel": "sec",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5d ago",
+      "pubDate": "2026-05-27T18:28:27.000Z",
+      "title": "Tesla’s dedicated Optimus factory construction officially underway at Giga Texas",
+      "body": "Tesla’s dedicated factory for building up to ten million Optimus units is officially under construction at Gigafactory Texas. Drone footage released on May 27 by Giga Texas observer Joe Tegtmeyer captures the significant…",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://uk.finance.yahoo.com/news/tesla-backs-off-threat-cancel-040842902.html"
+      "href": "https://www.teslarati.com/tesla-dedicated-optimus-factory-construction-officially-underway-giga-texas/"
     }
   ]
 }
