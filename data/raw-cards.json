@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-03 04:30 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-03 04:50 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6m ago",
+      "time": "25m ago",
       "pubDate": "2026-06-03T04:25:09.000Z",
       "title": "Tesla improves Dashcam playback with awesome addition",
       "body": "Tesla improves Dashcam playback with awesome addition Teslarati",
@@ -26,6 +26,19 @@
       "slug": "",
       "summary": "",
       "href": "https://electrek.co/2026/06/02/tesla-cybertruck-kazakhstan-emergency-services/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-06-03T01:39:39.000Z",
+      "title": "Tesla Full Self-Driving attempts 150-mile stress test: the good and the bad",
+      "body": "Tesla Full Self-Driving attempts 150-mile stress test: the good and the bad Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-attempts-150-mile-stress-test-good-and-bad/"
     },
     {
       "category": "musk",
@@ -56,7 +69,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-03T00:04:16.000Z",
       "title": "Tesla Stock Could Soar in the Second Half of 2026. Here's Why.",
       "body": "Tesla Stock Could Soar in the Second Half of 2026. Here's Why. AOL.com",
@@ -78,6 +91,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/tech/3-6-million-an-hourand-other-ways-to-measure-elon-musks-fortune-04e590a5"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-06-02T23:45:47.000Z",
+      "title": "Wall Street sees Tesla's Q1 earnings as an opportunity for the EV maker to claim its place in the AI era",
+      "body": "Wall Street sees Tesla's Q1 earnings as an opportunity for the EV maker to claim its place in the AI era AOL.com",
+      "sourceName": "AOL.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.aol.com/articles/wall-street-sees-teslas-q1-185704000.html"
     },
     {
       "category": "stock",
@@ -119,32 +145,6 @@
       "href": "https://www.digitaltoday.co.kr/en/view/60337/tesla-model-3-plaid-vs-ferrari-luce-high-performance-ev-showdown"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-02T22:54:48.000Z",
-      "title": "Tesla Sales Momentum Accelerates, Says JPMorgan (TSLA)",
-      "body": "Tesla Sales Momentum Accelerates, Says JPMorgan (TSLA) GuruFocus",
-      "sourceName": "GuruFocus",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.gurufocus.com/news/8897206/tesla-sales-momentum-accelerates-says-jpmorgan-tsla"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-06-02T22:38:57.000Z",
-      "title": "Tesla Full Self-Driving attempts 150-mile stress test: the good and the bad",
-      "body": "Tesla Full Self-Driving attempts 150-mile stress test: the good and the bad Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-attempts-150-mile-stress-test-good-and-bad/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "7h ago",
@@ -160,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-02T20:20:00.000Z",
       "title": "Elon Musk is reportedly weighing a Tesla SpaceX merger weeks before what could be the biggest IPO ever",
       "body": "Elon Musk is reportedly weighing a Tesla SpaceX merger weeks before what could be the biggest IPO ever Yahoo Finance",
@@ -199,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-02T14:20:20.000Z",
       "title": "Tesla Semi tackles the Grapevine with a loaded trailer, leaves fleet operator ‘amazed’",
       "body": "Covenant Logistics, one of the largest trucking companies in the US with a fleet of over 2,600 tractors, completed a two-week evaluation of the Tesla Semi in California — including a loaded run over the notorious Grapevi…",
