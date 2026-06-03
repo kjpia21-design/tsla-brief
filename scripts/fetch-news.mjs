@@ -398,6 +398,18 @@ async function resolveArticleUrl(it) {
   return mediaHome(it);
 }
 
+// 재발행된 옛 기사 차단 목록.
+// RSS 매체가 오래된 글을 새 pubDate 로 재발행하면 날짜만으로는 구분 불가 →
+// link / sourceUrl / title 에 아래 문자열이 포함되면 수집 단계에서 제외한다.
+// (예: Teslarati 가 2014년 'Model E'(모델3 옛 코드명) 기사를 2026 날짜로 재발행한 사고)
+const BLOCKLIST = [
+  "tuned-third-generation-tesla-model-e-will-utilize-steel-construction",
+];
+function isBlocked(it) {
+  const hay = `${it.link || ""} ${it.sourceUrl || ""} ${it.title || ""}`.toLowerCase();
+  return BLOCKLIST.some((b) => hay.includes(b.toLowerCase()));
+}
+
 // 카테고리당 최대 N건 (한국어 정제 시 선택 폭). 환경변수 SEED_N 으로 override.
 const N_PER_CATEGORY = Number(process.env.SEED_N || 5);
 
@@ -416,6 +428,10 @@ async function main() {
         const label = (host && labelForUrl(`https://${host}/`)) || src.defaultLabel;
         const title = cleanTitle(it.title, it.sourceName);
         if (!title) continue;
+        if (isBlocked({ link: it.link, sourceUrl: it.sourceUrl, title })) {
+          console.log(`  · BLOCKED ${it.link || title}`);
+          continue;
+        }
         const cat = inferCategory(title, it.description, src.category);
         buckets[cat].push({
           title,
