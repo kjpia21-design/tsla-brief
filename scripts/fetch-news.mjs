@@ -402,11 +402,14 @@ async function resolveArticleUrl(it) {
 // RSS 매체가 오래된 글을 새 pubDate 로 재발행하면 날짜만으로는 구분 불가 →
 // link / sourceUrl / title 에 아래 문자열이 포함되면 수집 단계에서 제외한다.
 // (예: Teslarati 가 2014년 'Model E'(모델3 옛 코드명) 기사를 2026 날짜로 재발행한 사고)
+// 주의: Google News RSS 경유 시 수집 시점의 link 는 토큰 URL 이고 실제 원문 URL 은
+// 선별 후에야 해석된다(resolveArticleUrl). 따라서 URL 뿐 아니라 **제목** 으로도 막는다.
 const BLOCKLIST = [
-  "tuned-third-generation-tesla-model-e-will-utilize-steel-construction",
+  "tuned-third-generation-tesla-model-e-will-utilize-steel-construction", // 원문 URL slug
+  "will utilize steel construction",                                       // 제목 (수집 시점에도 매칭됨)
 ];
 function isBlocked(it) {
-  const hay = `${it.link || ""} ${it.sourceUrl || ""} ${it.title || ""}`.toLowerCase();
+  const hay = `${it.link || ""} ${it.sourceUrl || ""} ${it.title || ""} ${it.href || ""}`.toLowerCase();
   return BLOCKLIST.some((b) => hay.includes(b.toLowerCase()));
 }
 
@@ -483,6 +486,11 @@ async function main() {
         if (isGnews) gnews += 1;
         const href = await resolveArticleUrl(it);
         if (isGnews && !/news\.google\.com/i.test(href) && !href.endsWith("/")) gnewsOk += 1;
+        // 해석된 실제 URL 기준 최종 차단 (Google News 토큰이 풀린 뒤). cards[i] 미할당 → 뒤에서 filter.
+        if (isBlocked({ href, title: it.title, link: it.link })) {
+          console.log(`  · BLOCKED(url) ${href}`);
+          continue;
+        }
         const pubIso = it.ts ? new Date(it.ts).toISOString() : "";
         cards[i] = {
           category: cat,
@@ -502,23 +510,25 @@ async function main() {
   );
   console.log(`[fetch-news] href 해석 · Google News ${gnews}건 중 ${gnewsOk}건 원문 연결 성공`);
 
-  if (cards.length === 0) {
+  // 차단되어 미할당된 슬롯(undefined) 제거.
+  const liveCards = cards.filter(Boolean);
+  if (liveCards.length === 0) {
     console.warn("[fetch-news] 카드를 한 건도 못 가져왔습니다. 기존 raw-cards.json 유지.");
     process.exit(0);
   }
 
   // 정렬: 최신순 (라이브 사이트 표시 순)
-  cards.sort((a, b) => Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
+  liveCards.sort((a, b) => Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
 
   const out = {
     asOf: `${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC 기준 · 카테고리당 top ${N_PER_CATEGORY}건`,
-    items: cards,
+    items: liveCards,
   };
 
   await writeFile(OUT_PATH, JSON.stringify(out, null, 2) + "\n", "utf8");
-  console.log(`[fetch-news] OK → ${path.relative(ROOT, OUT_PATH)} · ${cards.length} cards`);
+  console.log(`[fetch-news] OK → ${path.relative(ROOT, OUT_PATH)} · ${liveCards.length} cards`);
   // 카테고리별 요약 로그
-  const byCat = cards.reduce((acc, c) => ((acc[c.category] = (acc[c.category] || 0) + 1), acc), {});
+  const byCat = liveCards.reduce((acc, c) => ((acc[c.category] = (acc[c.category] || 0) + 1), acc), {});
   for (const cat of ["stock", "product", "fsd", "musk"]) {
     console.log(`  · ${cat.padEnd(8)} ${(byCat[cat] || 0).toString().padStart(2)}건`);
   }
