@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-03 10:30 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-03 11:12 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13m ago",
+      "time": "54m ago",
       "pubDate": "2026-06-03T10:17:49.000Z",
       "title": "Tesla Inc (NASDAQ: TSLA) $423.74 Gains 1.89% Amid Model Y Lease Push",
       "body": "Tesla Inc (NASDAQ: TSLA) $423.74 Gains 1.89% Amid Model Y Lease Push Meyka",
@@ -17,7 +17,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "17m ago",
+      "time": "59m ago",
       "pubDate": "2026-06-03T10:13:29.000Z",
       "title": "Greenwich Wealth Management LLC Boosts Stock Holdings in Tesla, Inc. $TSLA",
       "body": "Greenwich Wealth Management LLC Boosts Stock Holdings in Tesla, Inc. $TSLA MarketBeat",
@@ -30,7 +30,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18m ago",
+      "time": "59m ago",
       "pubDate": "2026-06-03T10:12:34.000Z",
       "title": "Tesla (TSLA) Underperforms Among Tech Giants as Futures Stabiliz",
       "body": "Tesla (TSLA) Underperforms Among Tech Giants as Futures Stabiliz GuruFocus",
@@ -43,7 +43,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "34m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-03T09:56:47.000Z",
       "title": "Tesla (TSLA) Stock; Rebounds as China Sales Surge Boost Investor Sentiment",
       "body": "Tesla (TSLA) Stock; Rebounds as China Sales Surge Boost Investor Sentiment CoinCentral",
@@ -56,7 +56,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-03T09:26:15.000Z",
       "title": "Tesla's China-made EV sales surge in May amid “initial recovery” in domestic market (TSLA:NASDAQ)",
       "body": "Tesla's China-made EV sales surge in May amid “initial recovery” in domestic market (TSLA:NASDAQ) Seeking Alpha",
@@ -67,9 +67,22 @@
       "href": "https://seekingalpha.com/news/4600105-teslas-china-made-ev-sales-surge-in-may-amid-initial-recovery-in-domestic-market"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-03T09:00:00.000Z",
+      "title": "Musk-linked company acquires land near SpaceX's proposed $119B Terafab site",
+      "body": "Musk-linked company acquires land near SpaceX's proposed $119B Terafab site Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "sec",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/sectors/technology/articles/musk-linked-company-acquires-land-090000231.html"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-03T08:16:42.000Z",
       "title": "Tesla's China-made EV sales jump nearly 40% in May as domestic market rebounds",
       "body": "Tesla's China-made EV sales jump nearly 40% in May as domestic market rebounds CNBC",
@@ -82,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-03T07:11:58.000Z",
       "title": "Tesla Faces China FSD Lawsuit As Robotics And Valuation Risks Grow",
       "body": "Tesla Faces China FSD Lawsuit As Robotics And Valuation Risks Grow Yahoo Finance",
@@ -93,9 +106,22 @@
       "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-china-fsd-lawsuit-071158560.html"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
+      "pubDate": "2026-06-03T06:25:00.000Z",
+      "title": "Will Tesla Merge With SpaceX?",
+      "body": "Will Tesla Merge With SpaceX? Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "sec",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-merge-spacex-062500894.html"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-03T02:33:21.000Z",
       "title": "Tesla found new buyers for its Cybertruck: Kazakh emergency services",
       "body": "Kazakhstan’s Ministry of Emergency Situations has confirmed it will purchase additional Tesla Cybertrucks after the electric pickup proved effective in rescue operations in Almaty, the country’s largest city. The Central…",
@@ -108,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-03T01:31:00.000Z",
       "title": "Trump Criticized Canada's China EV Deal—Elon Musk's Tesla Could Be Among Its Biggest Winners",
       "body": "Trump Criticized Canada's China EV Deal—Elon Musk's Tesla Could Be Among Its Biggest Winners Yahoo Finance",
@@ -132,9 +158,22 @@
       "href": "https://www.teslarati.com/leasing-a-tesla-for-500month/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "11h ago",
+      "pubDate": "2026-06-03T00:30:07.000Z",
+      "title": "Tesla China posts Model S and Model X official prices, estimated delivery date",
+      "body": "Tesla China posts Model S and Model X official prices, estimated delivery date Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-model-s-and-model-x-official-prices-china/"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-02T23:28:54.000Z",
       "title": "Tesla improves Dashcam playback with awesome addition",
       "body": "Tesla improves Dashcam playback with awesome addition Teslarati",
@@ -160,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-02T20:20:00.000Z",
       "title": "Elon Musk is reportedly weighing a Tesla SpaceX merger weeks before what could be the biggest IPO ever",
       "body": "Elon Musk is reportedly weighing a Tesla SpaceX merger weeks before what could be the biggest IPO ever Yahoo Finance",
@@ -173,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "18h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-02T16:34:00.000Z",
       "title": "Inside Tesla's self-driving machine",
       "body": "Inside Tesla's self-driving machine Reuters",
@@ -186,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-06-02T14:20:20.000Z",
       "title": "Tesla Semi tackles the Grapevine with a loaded trailer, leaves fleet operator ‘amazed’",
       "body": "Covenant Logistics, one of the largest trucking companies in the US with a fleet of over 2,600 tractors, completed a two-week evaluation of the Tesla Semi in California — including a loaded run over the notorious Grapevi…",
@@ -221,45 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-tesla-inc-130006170.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
-      "pubDate": "2026-06-02T12:31:06.000Z",
-      "title": "SpaceX-Tesla Merger Could Trigger Elon Musk's $1 Trillion Pay Package: Report",
-      "body": "SpaceX-Tesla Merger Could Trigger Elon Musk's $1 Trillion Pay Package: Report Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-could-trigger-123106691.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
-      "pubDate": "2026-06-02T12:20:00.000Z",
-      "title": "Will SpaceX and Tesla Merge? I'm Predicting a Megamerger for 1 Surprising Reason",
-      "body": "Will SpaceX and Tesla Merge? I'm Predicting a Megamerger for 1 Surprising Reason Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merge-im-predicting-122000175.html"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
-      "pubDate": "2026-06-01T21:04:22.000Z",
-      "title": "Tesla’s European Comeback: Registrations soar in May as recovery gains momentum",
-      "body": "Tesla is staging a powerful rebound in Europe. New vehicle registrations surged dramatically across multiple key markets in May 2026, signaling a strong recovery from the challenges of 2025. Data released this week show …",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-european-comeback-registrations-soar-may-recovery-gains-momentum/"
     }
   ]
 }
