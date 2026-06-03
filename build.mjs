@@ -172,11 +172,26 @@ const SOURCE_LABEL_DOT = {
   sec: "d-sec", official: "d-off", press: "d-press", rumor: "d-rumor",
 };
 
+// 출처 신뢰도 배지 — 1차 자료(SEC·규제기관) / 공식(테슬라·일론 직접) 만 강조.
+// 외신·추측은 도트만(클러터 방지). 인라인 스타일이라 템플릿 CSS 변경 불필요.
+const TIER_BADGE = {
+  sec:      { kr: "1차 자료", bg: "#E31937" },
+  official: { kr: "공식",     bg: "#1B6CFF" },
+};
+function tierBadge(label) {
+  const b = TIER_BADGE[label];
+  if (!b) return "";
+  return `<span style="display:inline-block;background:${b.bg};color:#fff;`
+    + `font-size:10px;font-weight:700;letter-spacing:.02em;padding:1px 6px;`
+    + `border-radius:4px;margin-right:6px;vertical-align:middle">${b.kr}</span>`;
+}
+
 /** 카드 메타: 신 스키마(sourceName) 우선, 없으면 옛 sources 카운트 폴백. */
 function renderCardMeta(c) {
   if (c.sourceName) {
     const dot = SOURCE_LABEL_DOT[c.sourceLabel || "press"] || "d-press";
-    return `<span class="src-name"><i class="d ${dot}"></i>${escapeHtml(c.sourceName)}</span>`;
+    const badge = tierBadge(c.sourceLabel);
+    return `${badge}<span class="src-name"><i class="d ${dot}"></i>${escapeHtml(c.sourceName)}</span>`;
   }
   if (c.sources) return renderSources(c.sources);
   return "";

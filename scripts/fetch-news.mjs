@@ -35,20 +35,53 @@ const OUT_PATH = path.join(ROOT, "data", process.env.SEED_OUT || "raw-cards.json
 // Google News RSS 는 hl=en-US&gl=US&ceid=US:en 로 영어 결과 받음
 const GN = (q) => `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-US&gl=US&ceid=US:en`;
 
+// ── 1차·공식 소스 설정 ──────────────────────────────────────
+// SEC EDGAR Atom — 회사/인물 CIK + 공시 종류(type) 별 최신 공시.
+//   · Tesla CIK = 0001318605 / Elon Musk CIK = 0001494730
+//   · SEC 공정접근 정책상 연락처가 포함된 User-Agent 필수 (없으면 403).
+const EDGAR = (cik, type) =>
+  `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${cik}` +
+  `&type=${encodeURIComponent(type)}&dateb=&owner=include&count=20&output=atom`;
+const SEC_HEADERS = {
+  "User-Agent": "TESLA Briefing admin@teslabriefing.com",
+  "Accept": "application/atom+xml, application/xml, text/xml, */*;q=0.8",
+};
+const EDGAR_RECENT_DAYS = 10;   // 이보다 오래된 공시는 "뉴스"가 아님 — 제외
+
+// NHTSA 리콜 JSON API — make/model/modelYear 조합으로 조회. 최근 건만 통과.
+const NHTSA_RECENT_DAYS = 21;
+const NHTSA_VEHICLES = [
+  ["Tesla", "Model 3", 2025], ["Tesla", "Model 3", 2026],
+  ["Tesla", "Model Y", 2025], ["Tesla", "Model Y", 2026],
+  ["Tesla", "Model S", 2025], ["Tesla", "Model S", 2026],
+  ["Tesla", "Model X", 2025], ["Tesla", "Model X", 2026],
+  ["Tesla", "Cybertruck", 2025], ["Tesla", "Cybertruck", 2026],
+];
+
 const SOURCES = [
-  // STOCK ─────────────────────────────
+  // ── 1차·공식 (SEC / 규제기관) ────────────────────────────
+  // Tesla IR(ir.tesla.com)은 SPA라 공개 RSS 없음 → 8-K(실적·중대공시)로 대체.
+  { type: "edgar", category: "stock",   url: EDGAR("0001318605", "8-K"),  sourceName: "SEC · Tesla 8-K",   defaultLabel: "sec", headers: SEC_HEADERS },
+  { type: "edgar", category: "stock",   url: EDGAR("0001318605", "10-Q"), sourceName: "SEC · Tesla 10-Q",  defaultLabel: "sec", headers: SEC_HEADERS },
+  { type: "edgar", category: "stock",   url: EDGAR("0001318605", "10-K"), sourceName: "SEC · Tesla 10-K",  defaultLabel: "sec", headers: SEC_HEADERS },
+  // 일론 머스크 본인 CIK → 테슬라 내부자(Form 4) 거래만 깨끗하게 수집.
+  { type: "edgar", category: "musk",    url: EDGAR("0001494730", "4"),    sourceName: "SEC · 머스크 Form 4", defaultLabel: "sec", headers: SEC_HEADERS },
+  // NHTSA 리콜 (규제기관 1차) — 차량 안전/소프트웨어 결함.
+  { type: "nhtsa", category: "product", sourceName: "NHTSA", defaultLabel: "sec" },
+
+  // ── STOCK ───────────────────────────
   { category: "stock",   url: GN(`Tesla TSLA stock when:${process.env.SEED_WINDOW || "1d"}`), defaultLabel: "press" },
   { category: "stock",   url: "https://feeds.finance.yahoo.com/rss/2.0/headline?s=TSLA&region=US&lang=en-US", defaultLabel: "press" },
 
-  // PRODUCT ───────────────────────────
+  // ── PRODUCT ─────────────────────────
   { category: "product", url: "https://electrek.co/guides/tesla/feed/", defaultLabel: "press" },
   { category: "product", url: "https://www.teslarati.com/category/news/feed/", defaultLabel: "press" },
 
-  // FSD ───────────────────────────────
+  // ── FSD ─────────────────────────────
   { category: "fsd",     url: "https://electrek.co/guides/tesla-autopilot/feed/", defaultLabel: "press" },
   { category: "fsd",     url: GN(`Tesla FSD OR "Full Self-Driving" OR robotaxi when:${process.env.SEED_WINDOW || "2d"}`), defaultLabel: "press" },
 
-  // MUSK ──────────────────────────────
+  // ── MUSK ────────────────────────────
   { category: "musk",    url: GN(`Elon Musk Tesla when:${process.env.SEED_WINDOW || "1d"}`), defaultLabel: "press" },
 ];
 
@@ -57,8 +90,9 @@ const SOURCES = [
 // ─────────────────────────────────────────────────────────
 
 const DOMAIN_LABEL = [
-  // sec — 1차 자료 (정부·증권·테슬라 IR)
+  // sec — 1차 자료 (정부·증권·테슬라 IR·규제기관)
   [/(^|\.)sec\.gov$/i,           "sec"],
+  [/(^|\.)nhtsa\.gov$/i,         "sec"],   // NHTSA 리콜 (규제기관 1차)
   [/(^|\.)ir\.tesla\.com$/i,     "sec"],
   [/finance\.yahoo\.com/i,       "sec"],   // Yahoo Finance 는 1차 fee data 간주
   [/(^|\.)nasdaq\.com$/i,        "sec"],
@@ -111,6 +145,7 @@ function labelForUrl(link) {
 const DOMAIN_TIER = [
   // 1차·공식 자료 — 가장 신뢰
   [/(^|\.)sec\.gov$/i,        7],
+  [/(^|\.)nhtsa\.gov$/i,      6],
   [/(^|\.)ir\.tesla\.com$/i,  7],
   [/(^|\.)tesla\.com$/i,      7],
   [/finance\.yahoo\.com/i,    6],
@@ -300,6 +335,142 @@ function timeAgo(pubDateStr) {
 }
 
 // ─────────────────────────────────────────────────────────
+// SEC EDGAR Atom 파싱 (browse-edgar output=atom)
+//   각 <entry> 의 <content> 안에 filing-type / filing-date / filing-href / items-desc 가 들어 있음.
+//   8-K 의 item 코드는 사람이 읽을 수 있는 설명으로 변환해 영문 제목을 합성한다.
+//   (한국어 정제 단계가 이 영문 제목을 받아 다듬는다.)
+// ─────────────────────────────────────────────────────────
+
+// 8-K Item 코드 → 설명 (자주 쓰이는 것만; 실적은 2.02)
+const EDGAR_8K_ITEMS = {
+  "1.01": "Entry into a Material Definitive Agreement",
+  "1.02": "Termination of a Material Definitive Agreement",
+  "2.01": "Completion of Acquisition or Disposition of Assets",
+  "2.02": "Results of Operations and Financial Condition",
+  "2.03": "Creation of a Direct Financial Obligation",
+  "3.02": "Unregistered Sales of Equity Securities",
+  "5.02": "Departure/Appointment of Directors or Officers",
+  "5.07": "Submission of Matters to a Vote of Security Holders",
+  "7.01": "Regulation FD Disclosure",
+  "8.01": "Other Events",
+  "9.01": "Financial Statements and Exhibits",
+};
+
+function daysAgo(dateStr) {
+  const t = Date.parse(dateStr);
+  if (Number.isNaN(t)) return Infinity;
+  return (Date.now() - t) / 86_400_000;
+}
+
+function parseEdgar(xml, src) {
+  const out = [];
+  const isMusk = /1494730/.test(src.url);  // 머스크 CIK → Form 4 (내부자 거래)
+  const entryRe = /<entry[^>]*>([\s\S]*?)<\/entry>/gi;
+  let m;
+  while ((m = entryRe.exec(xml)) !== null) {
+    const block = m[1];
+    const filingType = extract("filing-type", block) || extract("category", block);
+    const filingDate = extract("filing-date", block);
+    const updated    = extract("updated", block) || filingDate;
+    const hrefMatch  = /<filing-href>([\s\S]*?)<\/filing-href>/i.exec(block);
+    const href       = hrefMatch ? decodeEntities(hrefMatch[1]).trim() : "";
+
+    // 최근 공시만 — 오래된 건 "뉴스"가 아님.
+    if (daysAgo(filingDate || updated) > EDGAR_RECENT_DAYS) continue;
+
+    // items-desc 는 "items 2.02 and 9.01" 처럼 한 줄로 옴 — 코드(N.NN)만 추출.
+    const itemsRaw = (block.match(/<items-desc>([\s\S]*?)<\/items-desc>/gi) || [])
+      .map((s) => decodeEntities(s)).join(" ");
+    const items = (itemsRaw.match(/\d\.\d{2}/g) || []);
+
+    let title, description;
+    if (isMusk || filingType.trim() === "4") {
+      title = `Elon Musk Form 4 — Tesla insider transaction (filed ${filingDate})`;
+      description = "SEC Form 4: Statement of changes in beneficial ownership (Tesla insider transaction by Elon Musk).";
+    } else if (/8-K/i.test(filingType)) {
+      const descs = items.map((c) => EDGAR_8K_ITEMS[c] || `Item ${c}`).filter(Boolean);
+      const tail = descs.length ? ` — ${descs.join("; ")}` : "";
+      title = `Tesla 8-K (${filingDate})${tail}`;
+      description = `SEC 8-K current report filed ${filingDate}.` + (descs.length ? ` Items: ${descs.join("; ")}.` : "");
+    } else if (/10-Q/i.test(filingType)) {
+      title = `Tesla 10-Q quarterly report filed ${filingDate}`;
+      description = `SEC 10-Q: quarterly financial report filed ${filingDate}.`;
+    } else if (/10-K/i.test(filingType)) {
+      title = `Tesla 10-K annual report filed ${filingDate}`;
+      description = `SEC 10-K: annual financial report filed ${filingDate}.`;
+    } else {
+      title = `Tesla SEC ${filingType} filed ${filingDate}`;
+      description = `SEC ${filingType} filing dated ${filingDate}.`;
+    }
+
+    out.push({
+      title,
+      link: href,
+      sourceUrl: "https://www.sec.gov/",
+      description,
+      pubDate: updated,
+      sourceName: src.sourceName,
+    });
+  }
+  return out;
+}
+
+// ─────────────────────────────────────────────────────────
+// NHTSA 리콜 JSON API
+//   GET api.nhtsa.gov/recalls/recallsByVehicle?make=&model=&modelYear=
+//   ReportReceivedDate 는 "DD/MM/YYYY". NHTSACampaignNumber 로 중복 제거.
+//   Autopilot/FSD/software 키워드면 fsd, 그 외 product 로 분류.
+// ─────────────────────────────────────────────────────────
+
+function nhtsaDateToIso(s) {
+  // "DD/MM/YYYY" → ISO
+  const m = /^(\d{2})\/(\d{2})\/(\d{4})$/.exec(String(s || "").trim());
+  if (!m) return "";
+  return `${m[3]}-${m[2]}-${m[1]}T00:00:00Z`;
+}
+
+async function fetchNhtsa(vehicles) {
+  const seen = new Set();
+  const out = [];
+  for (const [make, model, modelYear] of vehicles) {
+    const url = `https://api.nhtsa.gov/recalls/recallsByVehicle?make=${encodeURIComponent(make)}` +
+      `&model=${encodeURIComponent(model)}&modelYear=${modelYear}`;
+    let json;
+    try {
+      const res = await fetch(url, {
+        headers: { "User-Agent": "TESLA Briefing admin@teslabriefing.com", "Accept": "application/json" },
+        redirect: "follow",
+        signal: AbortSignal.timeout(15000),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      json = await res.json();
+    } catch (e) {
+      console.warn(`[fetch-news] NHTSA ${make} ${model} ${modelYear} ← FAIL · ${e.message}`);
+      continue;
+    }
+    for (const r of (json.results || [])) {
+      const camp = r.NHTSACampaignNumber;
+      if (!camp || seen.has(camp)) continue;
+      const iso = nhtsaDateToIso(r.ReportReceivedDate);
+      if (iso && daysAgo(iso) > NHTSA_RECENT_DAYS) continue;
+      seen.add(camp);
+      const comp = `${r.Component || ""} ${r.Summary || ""}`;
+      const isFsd = /autopilot|full self|fsd|software|autonom/i.test(comp);
+      out.push({
+        category: isFsd ? "fsd" : "product",
+        title: `NHTSA recall ${camp} — ${r.Component || "Tesla vehicles"} (${model})`,
+        link: `https://www.nhtsa.gov/recalls?nhtsaId=${encodeURIComponent(camp)}`,
+        sourceUrl: "https://www.nhtsa.gov/",
+        description: (r.Summary || "").slice(0, 220),
+        pubDate: iso,
+        sourceName: "NHTSA",
+      });
+    }
+  }
+  return out;
+}
+
+// ─────────────────────────────────────────────────────────
 // 메인 페치 루프
 // ─────────────────────────────────────────────────────────
 
@@ -319,9 +490,9 @@ const BROWSER_HEADERS = {
   "Cache-Control": "no-cache",
 };
 
-async function fetchRss(url) {
+async function fetchRss(url, headers) {
   const res = await fetch(url, {
-    headers: BROWSER_HEADERS,
+    headers: headers ? { ...BROWSER_HEADERS, ...headers } : BROWSER_HEADERS,
     redirect: "follow",
     signal: AbortSignal.timeout(15000),
   });
@@ -423,6 +594,41 @@ async function main() {
   const buckets = { stock: [], product: [], fsd: [], musk: [] };
 
   await Promise.all(SOURCES.map(async (src) => {
+    // ── 1차·공식: SEC EDGAR / NHTSA — 카테고리·라벨을 강제, inferCategory/cleanTitle 생략 ──
+    if (src.type === "edgar" || src.type === "nhtsa") {
+      try {
+        let items;
+        if (src.type === "edgar") {
+          const xml = await fetchRss(src.url, src.headers);
+          items = parseEdgar(xml, src);
+        } else {
+          items = await fetchNhtsa(NHTSA_VEHICLES);
+        }
+        for (const it of items) {
+          if (!it.title) continue;
+          if (isBlocked({ link: it.link, sourceUrl: it.sourceUrl, title: it.title })) continue;
+          const cat = it.category || src.category;   // NHTSA 는 항목별 fsd/product 자체 판별
+          const host = hostForLabel(it);
+          buckets[cat].push({
+            title: it.title,
+            link: it.link,
+            sourceUrl: it.sourceUrl,
+            description: it.description,
+            pubDate: it.pubDate,
+            ts: Date.parse(it.pubDate) || 0,
+            label: src.defaultLabel,                 // 1차·공식 → "sec" 강제
+            host,
+            sourceName: it.sourceName || src.sourceName,
+          });
+        }
+        console.log(`[fetch-news] ${(src.sourceName || src.type).padEnd(16)} ← ${items.length.toString().padStart(3)} items (1차·공식)`);
+      } catch (e) {
+        console.warn(`[fetch-news] ${(src.sourceName || src.type).padEnd(16)} ← FAIL · ${e.message}`);
+      }
+      return;
+    }
+
+    // ── 일반 RSS ──
     try {
       const xml = await fetchRss(src.url);
       const items = parseRss(xml);

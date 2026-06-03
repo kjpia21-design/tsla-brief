@@ -1,26 +1,38 @@
 /**
- * TESLA Brief!ng — 뉴스레터 구독 수집 웹훅 (Google Apps Script)
+ * TESLA Brief!ng — 뉴스레터 구독 수집 + 명단 조회 웹훅 (Google Apps Script)
  *
- * 배포 방법:
- *   1) script.google.com → 새 프로젝트 → 이 코드 전체 붙여넣기
- *   2) 아래 SHEET_ID 를 구독자 시트 ID 로 교체
+ * 기능
+ *   · doPost            : 구독 폼 접수 → Google Sheet 적재 (한국어 단일 운영)
+ *   · doGet ?action=list: 구독자 이메일 배열 반환 (뉴스레터 발송용, 토큰 필수)
+ *   · doGet ?action=tokchk: [임시 진단] 배포된 TOKEN 의 존재/길이만 반환 (점검 후 삭제 가능)
+ *   · doGet (그 외)      : 헬스 체크
+ *
+ * 배포 방법
+ *   1) script.google.com → 이 코드 전체 붙여넣기
+ *   2) SHEET_ID 를 구독자 시트 ID 로 교체
  *      (시트 URL: docs.google.com/spreadsheets/d/<여기가 ID>/edit)
- *   3) (선택) TOKEN 을 임의 문자열로 채우고, Cloudflare Pages env
- *      SUBSCRIBE_TOKEN 에 같은 값을 넣으면 외부 무단 POST 차단
- *   4) 배포 > 새 배포 > 유형: 웹 앱
- *        - 실행: 나(admin@teslabriefing.com)
- *        - 액세스 권한: 모든 사용자
- *   5) 발급된 웹 앱 URL 을 Cloudflare Pages env SUBSCRIBE_WEBHOOK_URL 에 등록
+ *   3) TOKEN 을 임의 문자열로 채움.
+ *      ⚠️ 같은 값을 3곳에 동일하게:
+ *         - 이 TOKEN
+ *         - Cloudflare Pages env  SUBSCRIBE_TOKEN      (구독 폼 → 쓰기)
+ *         - news-brief/.env       SUBSCRIBER_LIST_TOKEN (뉴스레터 → 읽기)
+ *      ❗ TOKEN 이 비어 있으면 list 조회는 보안상 거부됩니다.
+ *   4) 💾 저장 후 → 배포 > 새 배포(또는 배포 관리 > 편집 > 버전: 새 버전)
+ *        - 실행: 나 / 액세스 권한: 모든 사용자
+ *   5) 발급된 /exec URL 을:
+ *        - Cloudflare Pages env  SUBSCRIBE_WEBHOOK_URL
+ *        - news-brief/.env       SUBSCRIBER_LIST_URL
+ *      에 등록.
  *
- * 코드 수정 후에는 반드시 "새 배포" 또는 "배포 관리 > 편집 > 버전: 새 버전" 해야 반영됩니다.
+ * ※ 코드 수정 후에는 반드시 "💾 저장 → 새 버전 배포" 해야 /exec 에 반영됩니다.
  */
 
-const SHEET_ID = 'PASTE_YOUR_SHEET_ID_HERE';
-// 언어별 탭 이름 — 한/영 구독자를 따로 관리. lang 값(ko/en)으로 라우팅.
+const SHEET_ID = 'PASTE_YOUR_SHEET_ID_HERE';   // ← 본인 구독자 시트 ID
 const SHEET_NAME_KO = 'subscribers-ko';
-const SHEET_NAME_EN = 'subscribers-en';
-const TOKEN = ''; // Pages SUBSCRIBE_TOKEN 와 동일 값. 비우면 토큰 검사 생략.
+const SHEET_NAME_EN = 'subscribers-en';        // (영어 페이지 폐지 — 잔존, 미사용)
+const TOKEN = '';                              // ← 본인 토큰 (위 ③ 참고). 비우면 list 거부.
 
+// ── POST: 구독 접수 ───────────────────────────────
 function doPost(e) {
   try {
     const body = JSON.parse((e && e.postData && e.postData.contents) || '{}');
@@ -34,11 +46,10 @@ function doPost(e) {
       return out({ ok: false, error: 'bad email' });
     }
 
-    // lang 정규화 → 해당 언어 탭 선택. (Pages Function 이 이미 ko/en 으로 보냄)
     const lang = body.lang === 'en' ? 'en' : 'ko';
     const sh = sheet_(lang);
 
-    // 중복 검사는 해당 언어 탭 안에서만. (같은 이메일이 한·영 양쪽에 가입하면 각 탭에 1건씩 — 의도된 동작)
+    // 중복 검사 (해당 언어 탭 안에서만)
     const lastRow = sh.getLastRow();
     if (lastRow >= 2) {
       const existing = sh.getRange(2, 2, lastRow - 1, 1).getValues();
@@ -62,12 +73,38 @@ function doPost(e) {
   }
 }
 
-// 헬스 체크 — 브라우저에서 웹 앱 URL 열면 동작 확인.
-function doGet() {
+// ── GET: 명단 조회 / 진단 / 헬스 체크 ───────────────
+function doGet(e) {
+  const p = (e && e.parameter) || {};
+
+  // [임시 진단] 배포된 TOKEN 의 존재/길이만 반환 (비밀값 자체는 노출 안 함). 점검 후 삭제 가능.
+  if (p.action === 'tokchk') {
+    return out({ ok: true, tokenSet: !!TOKEN, tokenLen: TOKEN ? String(TOKEN).length : 0 });
+  }
+
+  // 구독자 이메일 배열 — 토큰이 설정돼 있고 일치할 때만.
+  if (p.action === 'list') {
+    if (!TOKEN || p.token !== TOKEN) {
+      return out({ ok: false, error: 'unauthorized' });
+    }
+    const lang = p.lang === 'en' ? 'en' : 'ko';
+    const sh = sheet_(lang);
+    const emails = [];
+    const lastRow = sh.getLastRow();
+    if (lastRow >= 2) {
+      const rows = sh.getRange(2, 2, lastRow - 1, 1).getValues(); // B열 = email
+      for (let i = 0; i < rows.length; i++) {
+        const em = String(rows[i][0]).trim().toLowerCase();
+        if (em) emails.push(em);
+      }
+    }
+    return out({ ok: true, count: emails.length, emails: emails });
+  }
+
   return out({ ok: true, msg: 'tesla-briefing subscribe webhook alive' });
 }
 
-// 언어별 탭을 반환. 없으면 헤더와 함께 새로 생성.
+// ── 언어별 탭 (없으면 헤더와 함께 생성) ─────────────
 function sheet_(lang) {
   const name = lang === 'en' ? SHEET_NAME_EN : SHEET_NAME_KO;
   const ss = SpreadsheetApp.openById(SHEET_ID);
