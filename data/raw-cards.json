@@ -1,10 +1,75 @@
 {
-  "asOf": "2026-06-03 17:01 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-03 18:25 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "20m ago",
+      "pubDate": "2026-06-03T18:06:26.000Z",
+      "title": "Tesla stock price forecast: $405–$410 support in focus as TSLA trades flat",
+      "body": "Tesla stock price forecast: $405–$410 support in focus as TSLA trades flat Traders Union",
+      "sourceName": "Traders Union",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://tradersunion.com/news/financial-news/show/2226250-tesla-slips-0-34percent-to-usd422-10/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "58m ago",
+      "pubDate": "2026-06-03T17:27:41.000Z",
+      "title": "Breakingviews - A SpaceX-Tesla merger may be too big to stop",
+      "body": "Breakingviews - A SpaceX-Tesla merger may be too big to stop Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/commentary/breakingviews/spacex-tesla-merger-may-be-too-big-stop-2026-06-03/"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5m ago",
+      "time": "1h ago",
+      "pubDate": "2026-06-03T17:14:42.000Z",
+      "title": "Tesla expands ‘Robotaxi’ to entire Austin metro — but still has only ~20 vehicles",
+      "body": "Tesla announced today that its unsupervised “Robotaxi” service now covers the entire Austin metro area, a significant expansion of its geofenced operating zone. It’s a notable milestone on paper, but the actual fleet ser…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/06/03/tesla-robotaxi-expands-entire-austin-metro-only-20-vehicles/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-03T17:11:50.000Z",
+      "title": "Tesla Stock (NASDAQ:TSLA) Slips as Model Y Resale Values Emerge",
+      "body": "Tesla Stock (NASDAQ:TSLA) Slips as Model Y Resale Values Emerge TipRanks",
+      "sourceName": "TipRanks",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tipranks.com/news/tesla-stock-nasdaqtsla-slips-as-model-y-resale-values-emerge"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-03T17:06:05.000Z",
+      "title": "Tesla responds to Robotaxi skeptics with a massive move in Austin",
+      "body": "Tesla responds to Robotaxi skeptics with a massive move in Austin Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-responds-robotaxi-skeptics-massive-move-austin/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
       "pubDate": "2026-06-03T16:56:47.000Z",
       "title": "Tesla rolls out unsupervised robotaxis in Austin",
       "body": "Tesla rolls out unsupervised robotaxis in Austin Reuters",
@@ -12,12 +77,25 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/"
+      "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-unsupervised-robotaxis-austin-2026-06-03/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-03T16:56:23.000Z",
+      "title": "Tesla rolls out unsupervised robotaxis in Austin",
+      "body": "Tesla rolls out unsupervised robotaxis in Austin Yahoo! Finance Canada",
+      "sourceName": "Yahoo! Finance Canada",
+      "sourceLabel": "sec",
+      "slug": "",
+      "summary": "",
+      "href": "https://ca.finance.yahoo.com/news/tesla-rolls-unsupervised-robotaxis-austin-165623402.html"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-03T16:44:12.000Z",
       "title": "Why Tesla (TSLA) Is a Stock to Avoid",
       "body": "Why Tesla (TSLA) Is a Stock to Avoid MarketWise",
@@ -25,12 +103,25 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://marketwise.com/"
+      "href": "https://marketwise.com/investing/tesla-stock-warning-fsd-safety-concerns/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "2h ago",
+      "pubDate": "2026-06-03T15:57:01.000Z",
+      "title": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity",
+      "body": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity AOL.com",
+      "sourceName": "AOL.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.aol.com/articles/prediction-tesla-stock-buy-2029-202500000.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
       "pubDate": "2026-06-03T15:50:17.000Z",
       "title": "Does Tesla's Improving Europe Story Change the Investment Thesis?",
       "body": "Does Tesla's Improving Europe Story Change the Investment Thesis? The Globe and Mail",
@@ -38,12 +129,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.theglobeandmail.com/"
+      "href": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/2285059/does-teslas-improving-europe-story-change-the-investment-thesis/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-03T15:30:45.000Z",
       "title": "Tesla Registrations Surge 655% In France: What Prediction Markets Say It Means For TSLA",
       "body": "Tesla Registrations Surge 655% In France: What Prediction Markets Say It Means For TSLA Yahoo Finance",
@@ -51,77 +142,38 @@
       "sourceLabel": "sec",
       "slug": "",
       "summary": "",
-      "href": "https://finance.yahoo.com/"
+      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-registrations-surge-655-france-153045206.html?.tsrc"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-03T15:23:00.000Z",
       "title": "Is Tesla's FSD Supervised Gaining Momentum Across Europe?",
-      "body": "Is Tesla's FSD Supervised Gaining Momentum Across Europe? Yahoo Finance Singapore",
-      "sourceName": "Yahoo Finance Singapore",
+      "body": "Is Tesla's FSD Supervised Gaining Momentum Across Europe? Yahoo Finance",
+      "sourceName": "Yahoo Finance",
       "sourceLabel": "sec",
       "slug": "",
       "summary": "",
-      "href": "https://sg.finance.yahoo.com/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-03T15:22:09.000Z",
-      "title": "Tesla stock price forecast: $440 resistance as TSLA gains 1.22%",
-      "body": "Tesla stock price forecast: $440 resistance as TSLA gains 1.22% Traders Union",
-      "sourceName": "Traders Union",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://tradersunion.com/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-03T15:16:16.000Z",
-      "title": "Tesla Stock Is In A Three-Weeks-Tight, Continues Its Recovery From A Deep Slump",
-      "body": "Tesla Stock Is In A Three-Weeks-Tight, Continues Its Recovery From A Deep Slump MSN",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.msn.com/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-03T14:41:44.000Z",
-      "title": "Tesla stock drops. OpenAI is coming for one line of its business.",
-      "body": "Tesla stock drops. OpenAI is coming for one line of its business. MSN",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.msn.com/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-06-03T12:54:19.000Z",
-      "title": "Tesla retroactively added ‘supervised’ to FSD contracts owners signed years ago",
-      "body": "Tesla has retroactively modified “Full Self-Driving” purchase agreements to add “supervised” language that did not exist when owners originally bought the product. In some cases, the original documents have been made ent…",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/06/03/tesla-retroactively-modified-fsd-contracts-supervised/"
+      "href": "https://finance.yahoo.com/sectors/technology/articles/teslas-fsd-supervised-gaining-momentum-152300887.html"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "3h ago",
+      "pubDate": "2026-06-03T14:59:05.000Z",
+      "title": "SpaceX targets fixed $135 IPO roadshow price at $1.75 trillion valuation, source says",
+      "body": "SpaceX targets fixed $135 IPO roadshow price at $1.75 trillion valuation, source says CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/amp/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
       "pubDate": "2026-06-03T12:45:58.000Z",
       "title": "Tesla And SpaceX Merger By 2027? Here's Why Wedbush Believes Odds Have Jumped Above 80%",
       "body": "Tesla And SpaceX Merger By 2027? Here's Why Wedbush Believes Odds Have Jumped Above 80% Yahoo Finance",
@@ -129,25 +181,12 @@
       "sourceLabel": "sec",
       "slug": "",
       "summary": "",
-      "href": "https://finance.yahoo.com/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
-      "pubDate": "2026-06-03T11:21:19.000Z",
-      "title": "Tesla Inc (NASDAQ: TSLA) $423.74 Gains 1.89% Amid Model Y Lease Push",
-      "body": "Tesla Inc (NASDAQ: TSLA) $423.74 Gains 1.89% Amid Model Y Lease Push Meyka",
-      "sourceName": "Meyka",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://meyka.com/"
+      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-merger-2027-heres-124558883.html"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-03T10:01:03.000Z",
       "title": "Tesla Investors Finally Get A Benchmark For The Musk Premium",
       "body": "Tesla Investors Finally Get A Benchmark For The Musk Premium Yahoo Finance",
@@ -155,64 +194,12 @@
       "sourceLabel": "sec",
       "slug": "",
       "summary": "",
-      "href": "https://finance.yahoo.com/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
-      "pubDate": "2026-06-03T08:23:00.000Z",
-      "title": "Should You Buy SpaceX? Here's What History Says About Investing in an Elon Musk-Backed Company.",
-      "body": "Should You Buy SpaceX? Here's What History Says About Investing in an Elon Musk-Backed Company. Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-06-03T08:16:42.000Z",
-      "title": "Tesla's China-made EV sales jump nearly 40% in May as domestic market rebounds",
-      "body": "Tesla's China-made EV sales jump nearly 40% in May as domestic market rebounds CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
-      "pubDate": "2026-06-03T07:11:58.000Z",
-      "title": "Tesla Faces China FSD Lawsuit As Robotics And Valuation Risks Grow",
-      "body": "Tesla Faces China FSD Lawsuit As Robotics And Valuation Risks Grow Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-06-03T06:25:00.000Z",
-      "title": "Will Tesla Merge With SpaceX?",
-      "body": "Will Tesla Merge With SpaceX? Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/"
+      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-investors-finally-benchmark-musk-100103238.html"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-03T02:33:21.000Z",
       "title": "Tesla found new buyers for its Cybertruck: Kazakh emergency services",
       "body": "Kazakhstan’s Ministry of Emergency Situations has confirmed it will purchase additional Tesla Cybertrucks after the electric pickup proved effective in rescue operations in Almaty, the country’s largest city. The Central…",
@@ -225,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-03T00:30:07.000Z",
       "title": "Tesla China posts Model S and Model X official prices, estimated delivery date",
       "body": "Tesla China posts Model S and Model X official prices, estimated delivery date Teslarati",
@@ -233,12 +220,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/"
+      "href": "https://www.teslarati.com/tesla-model-s-and-model-x-official-prices-china/"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-06-02T21:55:53.000Z",
       "title": "Tesla improves Dashcam playback with awesome addition",
       "body": "Tesla has improved Dashcam playback with an awesome new addition, as the company has launched a web-based version that is potentially easier to navigate and operate. The tool is available at dashcam.tesla.com and will be…",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://electrek.co/2026/06/02/covenant-logistics-tesla-semi-grapevine-test-amazed/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2d ago",
+      "pubDate": "2026-06-01T21:04:22.000Z",
+      "title": "Tesla’s European Comeback: Registrations soar in May as recovery gains momentum",
+      "body": "Tesla is staging a powerful rebound in Europe. New vehicle registrations surged dramatically across multiple key markets in May 2026, signaling a strong recovery from the challenges of 2025. Data released this week show …",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-european-comeback-registrations-soar-may-recovery-gains-momentum/"
     }
   ]
 }
