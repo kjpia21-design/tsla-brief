@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-06-03 02:30 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-03 04:30 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-06-03T01:24:20.000Z",
+      "time": "6m ago",
+      "pubDate": "2026-06-03T04:25:09.000Z",
       "title": "Tesla improves Dashcam playback with awesome addition",
       "body": "Tesla improves Dashcam playback with awesome addition Teslarati",
       "sourceName": "Teslarati",
@@ -15,9 +15,48 @@
       "href": "https://www.teslarati.com/tesla-improves-dashcam-playback-awesome-addition/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-03T02:33:21.000Z",
+      "title": "Tesla found new buyers for its Cybertruck: Kazakh emergency services",
+      "body": "Kazakhstan’s Ministry of Emergency Situations has confirmed it will purchase additional Tesla Cybertrucks after the electric pickup proved effective in rescue operations in Almaty, the country’s largest city. The Central…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/06/02/tesla-cybertruck-kazakhstan-emergency-services/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-03T01:31:00.000Z",
+      "title": "Trump Criticized Canada's China EV Deal—Elon Musk's Tesla Could Be Among Its Biggest Winners",
+      "body": "Trump Criticized Canada's China EV Deal—Elon Musk's Tesla Could Be Among Its Biggest Winners Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "sec",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/trump-criticized-canadas-china-ev-013112867.html"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-06-03T00:51:47.000Z",
+      "title": "Third-Generation Tesla ‘Model E’ Will Utilize Steel Construction",
+      "body": "Third-Generation Tesla ‘Model E’ Will Utilize Steel Construction Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tuned-third-generation-tesla-model-e-will-utilize-steel-construction/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-03T00:04:16.000Z",
       "title": "Tesla Stock Could Soar in the Second Half of 2026. Here's Why.",
       "body": "Tesla Stock Could Soar in the Second Half of 2026. Here's Why. AOL.com",
@@ -28,9 +67,22 @@
       "href": "https://www.aol.com/articles/tesla-stock-could-soar-second-100500434.html"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
+      "pubDate": "2026-06-03T00:00:00.000Z",
+      "title": "$3.6 Million an Hour—and Other Ways to Measure Elon Musk’s Fortune",
+      "body": "$3.6 Million an Hour—and Other Ways to Measure Elon Musk’s Fortune WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/tech/3-6-million-an-hourand-other-ways-to-measure-elon-musks-fortune-04e590a5"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-02T23:34:00.000Z",
       "title": "Tesla Stock Price Risks Deeper Pullback as Bearish Pattern Emerges",
       "body": "Tesla Stock Price Risks Deeper Pullback as Bearish Pattern Emerges The Market Periodical",
@@ -43,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-02T23:25:07.000Z",
       "title": "Fully self-driving technology positions Tesla stock for another wave of value creation",
       "body": "Fully self-driving technology positions Tesla stock for another wave of value creation MSN",
@@ -56,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-02T23:00:00.000Z",
       "title": "Tesla 'Model 3 Plaid' vs Ferrari 'Luce' sets up high-performance EV showdown",
       "body": "Tesla 'Model 3 Plaid' vs Ferrari 'Luce' sets up high-performance EV showdown 디지털투데이",
@@ -69,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-02T22:54:48.000Z",
       "title": "Tesla Sales Momentum Accelerates, Says JPMorgan (TSLA)",
       "body": "Tesla Sales Momentum Accelerates, Says JPMorgan (TSLA) GuruFocus",
@@ -82,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-02T22:38:57.000Z",
       "title": "Tesla Full Self-Driving attempts 150-mile stress test: the good and the bad",
       "body": "Tesla Full Self-Driving attempts 150-mile stress test: the good and the bad Teslarati",
@@ -95,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-02T21:55:53.000Z",
       "title": "Tesla improves Dashcam playback with awesome addition",
       "body": "Tesla has improved Dashcam playback with an awesome new addition, as the company has launched a web-based version that is potentially easier to navigate and operate. The tool is available at dashcam.tesla.com and will be…",
@@ -108,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-02T20:20:00.000Z",
       "title": "Elon Musk is reportedly weighing a Tesla SpaceX merger weeks before what could be the biggest IPO ever",
       "body": "Elon Musk is reportedly weighing a Tesla SpaceX merger weeks before what could be the biggest IPO ever Yahoo Finance",
@@ -121,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-02T17:31:30.000Z",
       "title": "Elon Musk Still Wants That Dogecoin Happy Meal At McDonald's—But It'll Cost Him 30% More DOGE Now",
       "body": "Elon Musk Still Wants That Dogecoin Happy Meal At McDonald's—But It'll Cost Him 30% More DOGE Now Yahoo Finance",
@@ -134,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-02T16:34:00.000Z",
       "title": "Inside Tesla's self-driving machine",
       "body": "Inside Tesla's self-driving machine Reuters",
@@ -147,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-02T14:20:20.000Z",
       "title": "Tesla Semi tackles the Grapevine with a loaded trailer, leaves fleet operator ‘amazed’",
       "body": "Covenant Logistics, one of the largest trucking companies in the US with a fleet of over 2,600 tractors, completed a two-week evaluation of the Tesla Semi in California — including a loaded run over the notorious Grapevi…",
@@ -160,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-02T13:51:26.000Z",
       "title": "Tesla patents camera wiper for self-driving — resulting in more doubts for FSD owners",
       "body": "Tesla has been granted a new patent for a miniature camera cleaning system with a built-in wiper designed to keep vehicle cameras clear for autonomous driving. The patent addresses one of the most frustrating and well-kn…",
@@ -173,7 +225,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-02T13:43:48.000Z",
       "title": "Musk-Linked Firm’s Texas Land Buy Hints at Home for Chip Plant",
       "body": "Musk-Linked Firm’s Texas Land Buy Hints at Home for Chip Plant Bloomberg.com",
@@ -186,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-02T13:00:06.000Z",
       "title": "Here is What to Know Beyond Why Tesla, Inc. (TSLA) is a Trending Stock",
       "body": "Here is What to Know Beyond Why Tesla, Inc. (TSLA) is a Trending Stock Yahoo Finance",
@@ -195,45 +247,6 @@
       "slug": "",
       "summary": "",
       "href": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-tesla-inc-130006170.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "14h ago",
-      "pubDate": "2026-06-02T12:31:06.000Z",
-      "title": "SpaceX-Tesla Merger Could Trigger Elon Musk's $1 Trillion Pay Package: Report",
-      "body": "SpaceX-Tesla Merger Could Trigger Elon Musk's $1 Trillion Pay Package: Report Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-could-trigger-123106691.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "14h ago",
-      "pubDate": "2026-06-02T12:20:00.000Z",
-      "title": "Will SpaceX and Tesla Merge? I'm Predicting a Megamerger for 1 Surprising Reason",
-      "body": "Will SpaceX and Tesla Merge? I'm Predicting a Megamerger for 1 Surprising Reason Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merge-im-predicting-122000175.html"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "22h ago",
-      "pubDate": "2026-06-02T04:27:00.000Z",
-      "title": "Tesla Faces China FSD Lawsuit As Robotics Competition Tests Valuation",
-      "body": "Tesla Faces China FSD Lawsuit As Robotics Competition Tests Valuation Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-china-fsd-lawsuit-042744410.html"
     },
     {
       "category": "product",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-european-comeback-registrations-soar-may-recovery-gains-momentum/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
-      "pubDate": "2026-06-01T12:18:57.000Z",
-      "title": "Tesla plans ingenious improvement to one of its best features",
-      "body": "Tesla is planning to improve one of the best features on its lineup of cars, a new patent shows. Tesla’s massive glass roof on its premium models is among the coolest additions to the all-electric vehicles, but the desig…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-plans-ingenious-improvement-best-features/"
     }
   ]
 }
