@@ -30,6 +30,9 @@ jobs:
         run: node scripts/fetch-news.mjs
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          # 수동 실행(workflow_dispatch)은 시각 가드 무시하고 X 강제 — 즉시 테스트용.
+          # 예약 실행(schedule)은 빈 값 → 하루 4회(UTC 2/8/14/20)만 X 호출.
+          X_FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
         continue-on-error: true
 
       - name: Commit & push if raw-cards.json changed
