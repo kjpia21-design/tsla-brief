@@ -451,9 +451,11 @@ async function generateNewsPage(cards, { newsTemplateName = "news-template.html"
     : cards.asOf;
   let out = template;
   const freshSince = cards.items[0]?.pubDate || "";
+  // 사용자용 부제목 — archive.json 내부 asOf 잡텍스트("최신 100건 (slug dedup…)") 노출 금지.
+  const sortLabel = lang === "en" ? "latest first" : "최신순";
   const newsAsOf = freshSince
-    ? `${escapeHtml(`${localizedAsOf} · ${totalLabel}`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">${freshLabel}</span>`
-    : escapeHtml(`${localizedAsOf} · ${totalLabel}`);
+    ? `${escapeHtml(`${totalLabel} · ${sortLabel}`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">${freshLabel}</span>`
+    : escapeHtml(`${totalLabel} · ${sortLabel}`);
   out = replaceBlock(out, "NEWS_TIME", newsAsOf);
   // SSR 은 1페이지(10건)만 — 나머지는 클라이언트가 news-index.json 으로 페이지네이션.
   const seed = { items: cards.items.slice(0, 10) };
