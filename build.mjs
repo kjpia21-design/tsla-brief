@@ -175,8 +175,8 @@ const SOURCE_LABEL_DOT = {
 // 출처 신뢰도 배지 — 1차 자료(SEC·규제기관) / 공식(테슬라·일론 직접) 만 강조.
 // 외신·추측은 도트만(클러터 방지). 인라인 스타일이라 템플릿 CSS 변경 불필요.
 const TIER_BADGE = {
-  sec:      { kr: "1차 자료", bg: "#E31937" },
-  official: { kr: "공식",     bg: "#1B6CFF" },
+  sec:      { kr: "1차 자료", bg: "#16A34A" },   // 초록 — 출처 팔레트(카테고리와 비충돌)
+  official: { kr: "공식",     bg: "#8B5CF6" },   // 보라
 };
 function tierBadge(label) {
   const b = TIER_BADGE[label];
