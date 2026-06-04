@@ -440,7 +440,9 @@ async function generateNewsPage(cards, { newsTemplateName = "news-template.html"
     console.warn(`[build] ${newsTemplateName} 없음 — news.html 생성 건너뜀`);
     return false;
   }
-  const totalLabel = lang === "en" ? `total ${cards.items.length} items` : `총 ${cards.items.length}건`;
+  // 총건수 라벨 — 표시(롤링 100)가 아니라 검색 가능한 전체 이력 기준.
+  const totalCount = (fullArchive && fullArchive.items?.length) ? fullArchive.items.length : cards.items.length;
+  const totalLabel = lang === "en" ? `total ${totalCount} items` : `총 ${totalCount}건`;
   const freshLabel = lang === "en" ? "calculating freshness…" : "갱신 시각 계산 중…";
   // 영어 빌드 시 cards.asOf 의 한국어 텍스트 영문화 (raw 폴백 호환)
   const hasKorean = /[가-힯]/.test(cards.asOf || "");
@@ -453,7 +455,9 @@ async function generateNewsPage(cards, { newsTemplateName = "news-template.html"
     ? `${escapeHtml(`${localizedAsOf} · ${totalLabel}`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">${freshLabel}</span>`
     : escapeHtml(`${localizedAsOf} · ${totalLabel}`);
   out = replaceBlock(out, "NEWS_TIME", newsAsOf);
-  out = replaceBlock(out, "NEWS_GRID", `\n      ${renderAllCards(cards, { lang })}\n      `);
+  // SSR 은 1페이지(10건)만 — 나머지는 클라이언트가 news-index.json 으로 페이지네이션.
+  const seed = { items: cards.items.slice(0, 10) };
+  out = replaceBlock(out, "NEWS_GRID", `\n      ${renderAllCards(seed, { lang })}\n      `);
   await writeFile(path.join(outDir, "news.html"), out, "utf8");
 
   // 클라이언트 필터/검색용 전체 이력 인덱스 (archive-full.json 기반, 없으면 표시분으로 폴백)

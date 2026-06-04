@@ -60,7 +60,7 @@
   .nav__back:hover{color:var(--ink);border-color:var(--ink-mid)}
 
   /* page head */
-  .page-head{padding:28px 0 18px}
+  .page-head{padding-top:28px;padding-bottom:18px}
   .page-head__eyebrow{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10.5px;letter-spacing:.22em;color:var(--tesla-red);text-transform:uppercase;font-weight:700;display:inline-flex;align-items:center;gap:8px}
   .page-head__eyebrow::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--tesla-red);box-shadow:0 0 10px var(--tesla-red)}
   .page-head h1{font-size:clamp(28px,5vw,38px);font-weight:700;letter-spacing:-0.005em;color:var(--ink);margin:14px 0 4px;line-height:1.2}
@@ -141,6 +141,12 @@
   .news-filter__search:focus{border-color:var(--tesla-red)}
   .news-filter__count{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mute);margin:0 0 14px}
   .news-empty{text-align:center;color:var(--ink-mute);padding:44px 0;font-size:15px}
+  /* 페이지네이션 */
+  .news-page{display:flex;align-items:center;justify-content:center;gap:14px;margin:26px 0 8px}
+  .news-page__btn{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:13px;font-weight:600;color:var(--ink);background:var(--bg-2);border:1px solid var(--line);border-radius:999px;padding:9px 17px;cursor:pointer;transition:border-color .15s,color .15s;-webkit-tap-highlight-color:transparent}
+  .news-page__btn:hover:not(:disabled){border-color:var(--tesla-red);color:var(--tesla-red)}
+  .news-page__btn:disabled{opacity:.38;cursor:default}
+  .news-page__info{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12.5px;color:var(--ink-mute);min-width:62px;text-align:center}
   @media (max-width:560px){
     .news-filter__search{max-width:none;width:100%}
   }
@@ -188,13 +194,17 @@
     <input type="search" class="news-filter__search" id="news-search"
            placeholder="키워드 검색 (예: 인도량, 옵티머스, 로보택시)" aria-label="뉴스 검색" autocomplete="off">
   </div>
-  <p class="news-filter__count" id="news-count" hidden></p>
+  <p class="news-filter__count" id="news-count"></p>
 
-  <div class="cats__grid" id="news-default">
+  <div class="cats__grid" id="news-grid">
     <!-- BLOCK:NEWS_GRID --><a class="ccard is-stock" href="#"><div class="ccard__top"><span class="ccard__cat">STOCK</span><span class="ccard__time">—</span></div><h3>로딩 중…</h3></a><!-- /BLOCK:NEWS_GRID -->
   </div>
-  <div class="cats__grid" id="news-results" hidden></div>
   <p class="news-empty" id="news-empty" hidden>일치하는 뉴스가 없습니다. 다른 키워드나 카테고리를 시도해 보세요.</p>
+  <nav class="news-page" id="news-page" aria-label="페이지 이동" hidden>
+    <button type="button" class="news-page__btn" id="news-prev">← 이전</button>
+    <span class="news-page__info" id="news-pageinfo">1 / 1</span>
+    <button type="button" class="news-page__btn" id="news-next">다음 →</button>
+  </nav>
 </section>
 
 <footer>
@@ -244,17 +254,21 @@
 </script>
 
 <script>
-// 카테고리 필터 + 키워드 검색 — 전체 이력(data/news-index.json) 대상, 클라이언트 단독.
+// 카테고리 필터 + 키워드 검색 + 페이지네이션(10/페이지) — 전체 이력(data/news-index.json), 클라이언트 단독.
 (() => {
-  const bar = document.getElementById('news-filter');
-  if (!bar) return;
+  const bar  = document.getElementById('news-filter');
+  const grid = document.getElementById('news-grid');
+  if (!bar || !grid) return;
   const catBtns = bar.querySelectorAll('.nf-cat');
   const search  = document.getElementById('news-search');
-  const def     = document.getElementById('news-default');
-  const results = document.getElementById('news-results');
   const empty   = document.getElementById('news-empty');
   const count   = document.getElementById('news-count');
-  let index = null, cat = 'all', q = '', debounce;
+  const pager   = document.getElementById('news-page');
+  const prevB   = document.getElementById('news-prev');
+  const nextB   = document.getElementById('news-next');
+  const info    = document.getElementById('news-pageinfo');
+  const PER = 10;
+  let index = null, cat = 'all', q = '', page = 0, debounce;
 
   function esc(s){ return (s || '').replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m])); }
   function relTime(iso){
@@ -279,28 +293,48 @@
     catch { index = []; }
     return index;
   }
-  const active = () => cat !== 'all' || q.trim() !== '';
-  async function apply(){
-    if (!active()){
-      def.hidden = false; results.hidden = true; empty.hidden = true; count.hidden = true;
-      results.innerHTML = '';
-      return;
-    }
-    const idx = await ensureIndex();
+  function filtered(){
     const qq = q.trim().toLowerCase();
-    const hits = idx.filter(it => (cat === 'all' || it.category === cat) && (!qq || (it.q && it.q.includes(qq))));
-    def.hidden = true;
-    count.hidden = false;
-    count.textContent = hits.length + '건' + (cat !== 'all' ? ' · ' + (bar.querySelector('.nf-cat.is-active')?.textContent || '') : '') + (qq ? ' · "' + q.trim() + '"' : '');
-    if (!hits.length){ results.hidden = true; results.innerHTML = ''; empty.hidden = false; return; }
-    empty.hidden = true; results.hidden = false;
-    results.innerHTML = hits.map(cardHtml).join('');
+    return index.filter(it => (cat === 'all' || it.category === cat) && (!qq || (it.q && it.q.includes(qq))));
   }
+  function scrollUp(){
+    const y = bar.getBoundingClientRect().top + window.pageYOffset - 70;
+    window.scrollTo({ top: y, behavior: 'smooth' });
+  }
+  function render(scroll){
+    const list = filtered();
+    const pages = Math.max(1, Math.ceil(list.length / PER));
+    if (page >= pages) page = pages - 1;
+    if (page < 0) page = 0;
+    if (!list.length){
+      grid.innerHTML = ''; empty.hidden = false; pager.hidden = true;
+      count.textContent = '0건'; return;
+    }
+    empty.hidden = true;
+    const start = page * PER;
+    const slice = list.slice(start, start + PER);
+    grid.innerHTML = slice.map(cardHtml).join('');
+    count.textContent = '총 ' + list.length + '건 중 ' + (start + 1) + '–' + (start + slice.length);
+    if (pages > 1){
+      pager.hidden = false;
+      info.textContent = (page + 1) + ' / ' + pages;
+      prevB.disabled = page === 0;
+      nextB.disabled = page >= pages - 1;
+    } else { pager.hidden = true; }
+    if (scroll) scrollUp();
+  }
+  async function reset(){ page = 0; await ensureIndex(); render(false); }
+
   catBtns.forEach(b => b.addEventListener('click', () => {
     catBtns.forEach(x => x.classList.remove('is-active'));
-    b.classList.add('is-active'); cat = b.dataset.cat; apply();
+    b.classList.add('is-active'); cat = b.dataset.cat; reset();
   }));
-  search.addEventListener('input', () => { q = search.value; clearTimeout(debounce); debounce = setTimeout(apply, 180); });
+  search.addEventListener('input', () => { q = search.value; clearTimeout(debounce); debounce = setTimeout(reset, 180); });
+  prevB.addEventListener('click', () => { page--; render(true); });
+  nextB.addEventListener('click', () => { page++; render(true); });
+
+  // 초기 로드: 전체 이력 인덱스로 1페이지 렌더 (SSR 10건을 페이지네이션 뷰로 대체)
+  reset();
 })();
 </script>
 
