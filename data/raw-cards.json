@@ -31,6 +31,19 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "3h ago",
+      "pubDate": "2026-06-04T07:30:25.000Z",
+      "title": "More Unfortunate News for Tesla Stock Investors",
+      "body": "More Unfortunate News for Tesla Stock Investors AOL.com",
+      "sourceName": "AOL.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.aol.com/finance/more-unfortunate-news-tesla-stock-225800292.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
       "pubDate": "2026-06-04T07:20:53.000Z",
       "title": "Blue Barn Wealth LLC Sells 1,481 Shares of Tesla, Inc. $TSLA",
       "body": "Blue Barn Wealth LLC Sells 1,481 Shares of Tesla, Inc. $TSLA MarketBeat",
@@ -80,17 +93,17 @@
       "href": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-peerperform-on-tesla-stock-93CH-4665048"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-04T07:08:06.000Z",
-      "title": "Tesla (TSLA) Maintains Dominance in South Korean Import Car Mark",
-      "body": "Tesla (TSLA) Maintains Dominance in South Korean Import Car Mark GuruFocus",
-      "sourceName": "GuruFocus",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-06-04T06:34:44.000Z",
+      "title": "A Look at Tesla’s Updated UI Cards for the Model 3 and Model Y",
+      "body": "A Look at Tesla’s Updated UI Cards for the Model 3 and Model Y Not a Tesla App",
+      "sourceName": "Not a Tesla App",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.gurufocus.com/news/8900597/tesla-tsla-maintains-dominance-in-south-korean-import-car-market"
+      "href": "https://www.notateslaapp.com/news/1101/tesla-brings-back-ui-cards-to-model-3-and-y-with-holiday-update/1000"
     },
     {
       "category": "fsd",
@@ -104,6 +117,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-3-driver-monitoring-we-tested-it/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "9h ago",
+      "pubDate": "2026-06-04T01:11:46.000Z",
+      "title": "Tesla Motors (TSLA) Patents Dual Hinged Vertical Doors For The Model X",
+      "body": "Tesla Motors (TSLA) Patents Dual Hinged Vertical Doors For The Model X Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-motors-patents-vertical-doors-model-x/"
     },
     {
       "category": "musk",
@@ -143,6 +169,19 @@
       "slug": "",
       "summary": "",
       "href": "https://finance.yahoo.com/sectors/technology/articles/tesla-vanishing-altered-fsd-contracts-180926743.html"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "16h ago",
+      "pubDate": "2026-06-03T17:39:58.000Z",
+      "title": "Where You’ll Find a Model S on Every Other Driveway",
+      "body": "Where You’ll Find a Model S on Every Other Driveway Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/where-youll-find-a-model-s-on-every-other-driveway/"
     },
     {
       "category": "musk",
@@ -186,15 +225,15 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "19h ago",
-      "pubDate": "2026-06-03T15:23:00.000Z",
-      "title": "Is Tesla's FSD Supervised Gaining Momentum Across Europe?",
-      "body": "Is Tesla's FSD Supervised Gaining Momentum Across Europe? Yahoo Finance",
-      "sourceName": "Yahoo Finance",
+      "time": "17h ago",
+      "pubDate": "2026-06-03T16:56:23.000Z",
+      "title": "Tesla rolls out unsupervised robotaxis in Austin",
+      "body": "Tesla rolls out unsupervised robotaxis in Austin Yahoo Finance Singapore",
+      "sourceName": "Yahoo Finance Singapore",
       "sourceLabel": "sec",
       "slug": "",
       "summary": "",
-      "href": "https://finance.yahoo.com/sectors/technology/articles/teslas-fsd-supervised-gaining-momentum-152300887.html"
+      "href": "https://sg.finance.yahoo.com/news/tesla-rolls-unsupervised-robotaxis-austin-165623402.html"
     },
     {
       "category": "musk",
@@ -221,45 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://uk.finance.yahoo.com/news/does-teslas-improving-europe-story-140100479.html"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
-      "pubDate": "2026-06-03T02:33:21.000Z",
-      "title": "Tesla found new buyers for its Cybertruck: Kazakh emergency services",
-      "body": "Kazakhstan’s Ministry of Emergency Situations has confirmed it will purchase additional Tesla Cybertrucks after the electric pickup proved effective in rescue operations in Almaty, the country’s largest city. The Central…",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/06/02/tesla-cybertruck-kazakhstan-emergency-services/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
-      "pubDate": "2026-06-02T21:55:53.000Z",
-      "title": "Tesla improves Dashcam playback with awesome addition",
-      "body": "Tesla has improved Dashcam playback with an awesome new addition, as the company has launched a web-based version that is potentially easier to navigate and operate. The tool is available at dashcam.tesla.com and will be…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-improves-dashcam-playback-awesome-addition/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
-      "pubDate": "2026-06-02T14:20:20.000Z",
-      "title": "Tesla Semi tackles the Grapevine with a loaded trailer, leaves fleet operator ‘amazed’",
-      "body": "Covenant Logistics, one of the largest trucking companies in the US with a fleet of over 2,600 tractors, completed a two-week evaluation of the Tesla Semi in California — including a loaded run over the notorious Grapevi…",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/06/02/covenant-logistics-tesla-semi-grapevine-test-amazed/"
     }
   ]
 }
