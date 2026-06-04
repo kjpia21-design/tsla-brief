@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-04 13:52 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-04 14:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "13m ago",
+      "time": "1m ago",
+      "pubDate": "2026-06-04T13:59:37.000Z",
+      "title": "Fidelity has announced that it is making the SpaceX IPO available to any customer with a retail brokerage account wit…",
+      "body": "Fidelity has announced that it is making the SpaceX IPO available to any customer with a retail brokerage account with $2,000 or more in the account (down from up to $500k before). \"SpaceX has decided to reserve a much h…",
+      "sourceName": "Sawyer Merritt (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/SawyerMerritt/status/2062534741706817842"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "21m ago",
       "pubDate": "2026-06-04T13:39:23.000Z",
       "title": "Starlink V3 satellites Bandwidth per Satellite: • V2: 96 Gbps • V3: 1,024 Gbps Bandwidth per Launch: V2: 2,600 Gbps V…",
       "body": "Starlink V3 satellites Bandwidth per Satellite: • V2: 96 Gbps • V3: 1,024 Gbps Bandwidth per Launch: V2: 2,600 Gbps V3: 61,000 Gbps Deployment per Launch: • V2: 27 satellites (on Falcon 9) • V3: 60 (on Starship) Starlink…",
@@ -17,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "21m ago",
+      "time": "29m ago",
       "pubDate": "2026-06-04T13:31:19.000Z",
       "title": "SpaceX says it accepted less than 2% of engineer applications in 2025.",
       "body": "SpaceX says it accepted less than 2% of engineer applications in 2025. https://t.co/ddrE2Q9QMu https://t.co/pCTMg9Y3c0",
@@ -30,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "24m ago",
+      "time": "32m ago",
       "pubDate": "2026-06-04T13:28:28.000Z",
       "title": "SpaceX has released its full IPO roadshow presentation that it's showing to investors. Here are some of the most impo…",
       "body": "SpaceX has released its full IPO roadshow presentation that it's showing to investors. Here are some of the most important slides: https://t.co/aGMmCPTnvW",
@@ -43,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "33m ago",
+      "time": "41m ago",
       "pubDate": "2026-06-04T13:19:57.000Z",
       "title": "Here is the FAQ section on @SpaceX's new IPO website: What is the timeline for the IPO? The IPO process begins with a…",
       "body": "Here is the FAQ section on @SpaceX's new IPO website: What is the timeline for the IPO? The IPO process begins with a roadshow starting on June 4th. The final IPO share price will be set on June 11th, and shares are expe…",
@@ -54,22 +67,9 @@
       "href": "https://x.com/SawyerMerritt/status/2062524759510827519"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "35m ago",
-      "pubDate": "2026-06-04T13:17:26.000Z",
-      "title": "SpaceX has introduced a new website for its IPO, which includes some figures, documents and an FAQ page:",
-      "body": "SpaceX has introduced a new website for its IPO, which includes some figures, documents and an FAQ page: https://t.co/yaLGGIQCJ7 https://t.co/XZW7wbtX7p",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/SawyerMerritt/status/2062524125529153942"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "43m ago",
+      "time": "51m ago",
       "pubDate": "2026-06-04T13:09:53.000Z",
       "title": "New Tesla Supercharger: Carpiquet, France (8 stalls)",
       "body": "New Tesla Supercharger: Carpiquet, France (8 stalls) https://t.co/8gLw5gTdVx https://t.co/gp9HWt6tD2",
@@ -134,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T11:26:52.000Z",
       "title": "Tesla hit with class action in Quebec over up to $400m in heat pump failures",
       "body": "A Quebec Tesla owner has filed a class action request against Tesla over heat pump failures, seeking damages for all Tesla owners in the province after being stuck with a $4,477 repair bill when her Model 3’s heat pump d…",
@@ -212,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-04T05:27:49.000Z",
       "title": "Tesla Full Self-Driving v14.3.3 driver monitoring: We tested it",
       "body": "Tesla Full Self-Driving v14.3.3 driver monitoring: We tested it Teslarati",
