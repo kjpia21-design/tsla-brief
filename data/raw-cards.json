@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-04 23:14 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-04 23:50 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-04T22:27:54.000Z",
+      "title": "At the Tesla Takeover about to interview Maye Musk @TeslaClubAT @teardowntitan @kdallasAT",
+      "body": "At the Tesla Takeover about to interview Maye Musk @TeslaClubAT @teardowntitan @kdallasAT https://t.co/o4J7K6HMSh",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2062662655618216073"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-04T22:26:04.000Z",
+      "title": "Starlink V3 satellites have &gt;10X bandwidth of V2 and there’ll be &gt;10X launched, which means &gt;100X more bandw…",
+      "body": "Starlink V3 satellites have &gt;10X bandwidth of V2 and there’ll be &gt;10X launched, which means &gt;100X more bandwidth. Also, altitude will be 350km vs 550km, so min latency can be cut in half. Light travels 300km/ms …",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2062662195192697233"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-04T21:58:03.000Z",
+      "title": "Hanging out with @TeslaOwnersSLO",
+      "body": "Hanging out with @TeslaOwnersSLO https://t.co/f43J3QYiTV",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2062655144337068227"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-04T21:45:02.000Z",
       "title": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know",
       "body": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know Yahoo Finance",
@@ -13,19 +52,6 @@
       "slug": "",
       "summary": "",
       "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-sinks-market-214502234.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-04T21:42:54.000Z",
-      "title": "SpaceX has officially announced that @Starlink now has over 12 million active customers, up from 10.2M in March 2026 …",
-      "body": "SpaceX has officially announced that @Starlink now has over 12 million active customers, up from 10.2M in March 2026 and 9M last December. Starlink added a record ~27,700 new customers on average per day since they hit 1…",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/SawyerMerritt/status/2062651333463703562"
     },
     {
       "category": "stock",
@@ -43,20 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-04T21:27:56.000Z",
-      "title": "Wow, the S&amp;P Dow Jones Indices has just officially announced that they will NOT be changing their inclusion rules…",
-      "body": "Wow, the S&amp;P Dow Jones Indices has just officially announced that they will NOT be changing their inclusion rules to make it easier for “MegaCap” companies (such as @SpaceX) to be fast-tracked into the S&amp;P 500. T…",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/SawyerMerritt/status/2062647567456813461"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T20:51:34.000Z",
       "title": "SpaceX IPO info",
       "body": "SpaceX IPO info https://t.co/mSsriwGoWo",
@@ -69,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-04T19:13:28.000Z",
       "title": "This provides some sense of scale",
       "body": "This provides some sense of scale https://t.co/gj76JGpCUk",
@@ -82,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-04T19:02:12.000Z",
       "title": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst",
       "body": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst Teslarati",
@@ -109,33 +122,20 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "5h ago",
-      "pubDate": "2026-06-04T17:56:07.000Z",
-      "title": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity",
-      "body": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity AOL.com",
-      "sourceName": "AOL.com",
+      "pubDate": "2026-06-04T18:23:40.000Z",
+      "title": "Global Electric Vehicle Sales Rose 16% in April, Led by Tesla (TSLA)",
+      "body": "Global Electric Vehicle Sales Rose 16% in April, Led by Tesla (TSLA) TipRanks",
+      "sourceName": "TipRanks",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.aol.com/articles/prediction-tesla-stock-buy-2029-202500000.html"
+      "href": "https://www.tipranks.com/news/global-electric-vehicle-sales-rose-16-in-april-led-by-tesla-tsla"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
-      "pubDate": "2026-06-04T17:52:18.000Z",
-      "title": "Tesla Hardware 3 owners could be made whole this month",
-      "body": "Tesla Hardware 3 owners could be made whole this month Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-hardware-3-owners-made-whole-this-month/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-04T17:52:18.000Z",
+      "time": "6h ago",
+      "pubDate": "2026-06-04T18:15:31.000Z",
       "title": "Tesla Hardware 3 owners could be made whole this month",
       "body": "Tesla Hardware 3 owners could be made whole this month Teslarati",
       "sourceName": "Teslarati",
@@ -147,15 +147,15 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-04T17:49:13.000Z",
-      "title": "Rivian Rallies 8% as Tesla, Nio Stall: R2 Launch and Software Growth in Focus",
-      "body": "Rivian Rallies 8% as Tesla, Nio Stall: R2 Launch and Software Growth in Focus AOL.com",
+      "time": "6h ago",
+      "pubDate": "2026-06-04T17:56:07.000Z",
+      "title": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity",
+      "body": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity AOL.com",
       "sourceName": "AOL.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.aol.com/articles/rivian-rallies-8-tesla-nio-170057218.html"
+      "href": "https://www.aol.com/articles/prediction-tesla-stock-buy-2029-202500000.html"
     },
     {
       "category": "fsd",
@@ -173,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-04T13:09:53.000Z",
       "title": "New Tesla Supercharger: Carpiquet, France (8 stalls)",
       "body": "New Tesla Supercharger: Carpiquet, France (8 stalls) https://t.co/8gLw5gTdVx https://t.co/gp9HWt6tD2",
@@ -184,9 +184,22 @@
       "href": "https://x.com/TeslaCharging/status/2062522226591907957"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "11h ago",
+      "pubDate": "2026-06-04T12:41:08.000Z",
+      "title": "Tons of phantom braking on hardware 4 Model 𝕏 in Germany with enhanced autopilot. Not sure what’s going on. Cc @aell…",
+      "body": "Tons of phantom braking on hardware 4 Model 𝕏 in Germany with enhanced autopilot. Not sure what’s going on. Cc @aelluswamy @Tesla_AI",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2062514990238539965"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-04T12:15:34.000Z",
       "title": "Greding Germany Supercharger stop 1 as we go to the Tesla Takeover Europe @TeslaClubAT",
       "body": "Greding Germany Supercharger stop 1 as we go to the Tesla Takeover Europe @TeslaClubAT https://t.co/ERBRTPDL4D https://t.co/m9HVeBBXMC",
@@ -212,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-04T06:50:12.000Z",
       "title": "New Tesla Supercharger: Kristiansund, Norway (8 stalls)",
       "body": "New Tesla Supercharger: Kristiansund, Norway (8 stalls) https://t.co/SYAZh6Aw49 https://t.co/44Adj2z5CC",
@@ -234,19 +247,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-unsupervised-robotaxis-austin-2026-06-03/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-06-03T08:16:42.000Z",
-      "title": "Tesla's China-made EV sales jump nearly 40% in May as domestic market rebounds",
-      "body": "Tesla's China-made EV sales jump nearly 40% in May as domestic market rebounds CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/03/teslas-china-made-ev-sales-surge-in-may-as-domestic-market-rebounds.html"
     },
     {
       "category": "product",
