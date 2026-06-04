@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>소개 · 큐레이션 기준 · TESLA Brief!ng</title>
+<meta name="description" content="TESLA Brief!ng의 미션과 큐레이션 기준 — 4개 카테고리, 출처 신뢰도 등급(1차/공식/외신/추측), 자동 선별 파이프라인, 신선도 갱신 원칙.">
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<link rel="apple-touch-icon" href="/assets/favicon.svg">
+<style>
+  /* Tesla Brief!ng — 개인정보처리방침 (LIGHT, READER MODE)
+   * article-template 과 동일한 라이트 톤. 본문 가독성에 최적화. */
+  :root{
+    --bg:#FFFFFF; --bg-2:#F6F6F8; --bg-3:#EDEDF1;
+    --line:#E2E2E8; --line-mute:#EFEFF3;
+    --ink:#0E0E12; --ink-mid:#3A3A42; --ink-mute:#7A7A84;
+    --tesla-red:#E31937; --red-deep:#A30E25;
+    --max-w:760px; --gutter:clamp(16px,4vw,40px);
+    --r-md:12px; --r-lg:18px; --r-pill:999px;
+    --ease:cubic-bezier(.2,.7,.2,1);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--bg);color:var(--ink);
+    font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    line-height:1.75;font-size:16px;-webkit-font-smoothing:antialiased;
+    padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right);
+  }
+  a{color:var(--tesla-red);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:var(--max-w);margin:0 auto;padding-left:var(--gutter);padding-right:var(--gutter)}
+  .mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+
+  /* nav */
+  .nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.92);backdrop-filter:blur(14px) saturate(140%);-webkit-backdrop-filter:blur(14px) saturate(140%);border-bottom:1px solid var(--line)}
+  .nav__inner{display:flex;align-items:center;justify-content:space-between;height:56px}
+  .brand{display:inline-flex;align-items:center;gap:8px;text-decoration:none}
+  .brand__block{
+    display:inline-flex;align-items:center;justify-content:center;
+    background:var(--tesla-red);color:#fff;
+    padding:4px 8px;border-radius:5px;
+    font-family:"Inter",ui-monospace,monospace;font-weight:900;font-size:12px;
+    letter-spacing:.6px;line-height:1;flex-shrink:0;
+  }
+  .brand__text{
+    font-family:"Inter",ui-monospace,monospace;font-weight:700;font-size:18px;
+    color:var(--ink);letter-spacing:-0.005em;line-height:1;font-style:italic;
+    white-space:nowrap;
+  }
+  .brand__text em{color:var(--tesla-red);font-style:italic;font-weight:700}
+  .nav__back{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink);font-weight:600;
+    padding:8px 14px;border:1px solid var(--line);border-radius:var(--r-pill);
+    background:var(--bg);transition:color var(--ease),border-color var(--ease),background var(--ease);
+  }
+  .nav__back:hover{border-color:var(--ink-mid);background:var(--bg-2)}
+
+  /* hero */
+  .hero{padding:32px 0 18px}
+  .hero__crumb{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.04em;
+    color:var(--ink-mute);display:inline-flex;align-items:center;gap:8px;
+  }
+  .hero__crumb a{color:var(--ink-mid)}
+  .hero__crumb .dot{width:4px;height:4px;border-radius:50%;background:var(--ink-mute)}
+  .hero__kicker{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.22em;
+    color:var(--tesla-red);text-transform:uppercase;font-weight:700;margin:14px 0 6px;
+  }
+  .hero h1{
+    font-size:clamp(28px,5.5vw,38px);font-weight:800;line-height:1.22;
+    letter-spacing:-0.015em;margin:6px 0 16px;color:var(--ink);word-break:keep-all;
+  }
+  .hero__lead{font-size:16px;color:var(--ink-mid);margin:0 0 18px;line-height:1.7;max-width:60ch}
+  .hero__meta{
+    display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+    padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11.5px;
+    color:var(--ink-mute);letter-spacing:.04em;
+  }
+  .hero__meta b{color:var(--ink);font-weight:700}
+
+  /* article body */
+  article{padding:28px 0 32px}
+  article h2{
+    font-size:19px;font-weight:800;letter-spacing:-0.01em;color:var(--ink);
+    margin:36px 0 10px;line-height:1.4;scroll-margin-top:72px;
+  }
+  article h2:first-of-type{margin-top:8px}
+  article h3{
+    font-size:15px;font-weight:700;color:var(--ink);
+    margin:18px 0 6px;letter-spacing:-0.005em;
+  }
+  article p{
+    margin:0 0 14px;color:var(--ink);font-size:15.5px;line-height:1.8;
+    word-break:keep-all;letter-spacing:-0.003em;
+  }
+  article ul,article ol{margin:0 0 14px 0;padding-left:22px;color:var(--ink);font-size:15.5px;line-height:1.8}
+  article li{margin:0 0 6px;word-break:keep-all}
+  article li strong{color:var(--ink);font-weight:700}
+  article table{
+    width:100%;border-collapse:collapse;margin:8px 0 18px;
+    font-size:14px;background:var(--bg-2);border-radius:var(--r-md);overflow:hidden;
+  }
+  article th,article td{
+    text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);
+    color:var(--ink);vertical-align:top;
+  }
+  article th{background:var(--bg-3);font-weight:700;font-size:12.5px;letter-spacing:.02em}
+  article tr:last-child td{border-bottom:0}
+
+  /* back-to-home */
+  .back-home{
+    display:inline-flex;align-items:center;gap:8px;
+    font-size:14px;font-weight:700;color:var(--ink-mid);
+    margin:24px 0 56px;
+  }
+  .back-home:hover{color:var(--tesla-red);text-decoration:underline}
+
+  /* footer */
+  footer{border-top:1px solid var(--line);padding:32px 0 calc(28px + env(safe-area-inset-bottom));color:var(--ink-mute);background:var(--bg-2)}
+  .footer__inner{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.04em;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+  .footer__inner a{color:var(--ink-mid);font-weight:600}
+  .footer__inner a:hover{color:var(--ink)}
+
+  @media (min-width:768px){
+    article{padding:36px 0 48px}
+    article p,article ul,article ol{font-size:16px}
+    article h2{font-size:22px;margin-top:42px}
+  }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav__inner">
+    <a class="brand" href="index.html" aria-label="Tesla Brief!ng — 홈">
+      <span class="brand__block">TESLA</span>
+      <span class="brand__text">Brief<em>!ng</em></span>
+    </a>
+    <a class="nav__back" href="index.html">← 홈으로</a>
+  </div>
+</header>
+
+<section class="hero wrap">
+  <div class="hero__crumb">
+    <a href="index.html">Tesla Brief!ng</a>
+    <span class="dot" aria-hidden="true"></span>
+    <span>소개 · 큐레이션 기준</span>
+  </div>
+  <p class="hero__kicker">About &amp; Editorial Standards</p>
+  <h1>노이즈 없이, 신뢰할 수 있는 테슬라 소식만</h1>
+  <p class="hero__lead">
+    TESLA Brief!ng은 테슬라 주주·관심자를 위해 흩어진 테슬라 뉴스를 한국어로 모아
+    하루 한눈에 정리하는 큐레이션 서비스입니다. 우리가 <b>무엇을, 어떤 기준으로, 어떻게</b>
+    선별하는지를 투명하게 공개합니다.
+  </p>
+  <div class="hero__meta">
+    <span>갱신 <b>2시간마다 자동</b></span>
+    <span>·</span>
+    <span>뉴스레터 <b>평일 오전 7시 KST</b></span>
+    <span>·</span>
+    <span>문의 <b>hello@teslabriefing.com</b></span>
+  </div>
+</section>
+
+<article class="wrap">
+
+  <h2>우리의 미션</h2>
+  <p>
+    테슬라 관련 뉴스는 하루에도 수백 건이 쏟아집니다. 대부분은 같은 내용의 반복이거나,
+    추측·과장·광고성 글입니다. TESLA Brief!ng은 그 소음 속에서
+    <strong>주주에게 실제로 의미 있는 소식만</strong> 골라, 한국어로 빠르게 정리합니다.
+  </p>
+  <p>
+    핵심 원칙은 하나입니다 — <strong>"노이즈 없이, 신뢰할 수 있는 것부터."</strong>
+    1차 자료(공시·규제기관)와 공식 채널(테슬라·일론 머스크)을 우선하고,
+    저품질·추측성 정보는 뒤로 미루거나 거릅니다.
+  </p>
+
+  <h2>4개 카테고리</h2>
+  <p>모든 소식은 다음 네 갈래로 분류됩니다.</p>
+  <table>
+    <thead><tr><th>카테고리</th><th>다루는 내용</th></tr></thead>
+    <tbody>
+      <tr><td><strong>STOCK · 주가·실적</strong></td><td>주가, 실적, 인도량, 애널리스트 목표주가, 자사주 등</td></tr>
+      <tr><td><strong>PRODUCT · 차량·에너지·옵티머스</strong></td><td>모델 라인업, 사이버트럭, 파워월/메가팩, 옵티머스, 슈퍼차저</td></tr>
+      <tr><td><strong>FSD · 자율·로보택시</strong></td><td>FSD, 오토파일럿, 로보택시·사이버캡, 자율주행 규제</td></tr>
+      <tr><td><strong>ELON · 일론 소식</strong></td><td>일론 머스크 발언, SpaceX·xAI 등 관계사 동향</td></tr>
+    </tbody>
+  </table>
+
+  <h2>출처 신뢰도 등급</h2>
+  <p>
+    모든 카드에는 출처의 성격을 나타내는 <strong>신뢰도 등급</strong>이 표시됩니다.
+    같은 사안을 여러 곳이 다룰 때는 <strong>등급이 높은 출처를 우선 채택</strong>하며,
+    1차 자료·공식 출처에는 별도 배지를 답니다.
+  </p>
+  <table>
+    <thead><tr><th>등급</th><th>의미</th><th>예시</th></tr></thead>
+    <tbody>
+      <tr><td><strong>1차 자료</strong></td><td>정부·규제기관·기업 공시 원본</td><td>SEC EDGAR 공시(8-K/10-Q/Form 4), NHTSA 리콜</td></tr>
+      <tr><td><strong>공식</strong></td><td>테슬라·일론·임원의 직접 발언</td><td>@Tesla·@elonmusk·테슬라 엔지니어 공식 X, tesla.com</td></tr>
+      <tr><td><strong>외신</strong></td><td>검증된 보도·전문 매체</td><td>로이터·블룸버그·CNBC·Electrek·Teslarati</td></tr>
+      <tr><td><strong>추측</strong></td><td>커뮤니티·익명·추측성</td><td>미확인 소문, 개인 블로그</td></tr>
+    </tbody>
+  </table>
+  <p>
+    추측성 소식은 가능한 한 <strong>2차 이상 매체의 교차 확인</strong>을 거쳐 등급을 올리며,
+    확인되지 않은 단독 추측은 비중을 낮추거나 제외합니다.
+  </p>
+
+  <h2>어떻게 선별하나 — 자동화 파이프라인</h2>
+  <p>큐레이션은 사람의 편향을 줄이기 위해 자동화 + 편집 검수의 2단계로 작동합니다.</p>
+  <ol>
+    <li><strong>수집</strong> — 2시간마다 tier-1 통신사 RSS, SEC EDGAR·NHTSA 1차 자료, 테슬라·일론·임원의 공식 X 게시물을 모읍니다. 비영어권·저품질 SEO 매체는 자동 감점·제외됩니다.</li>
+    <li><strong>점수화</strong> — 각 후보를 <strong>신선도 + 출처 등급 + 중요도(hot 0~10)</strong>로 채점해 카테고리별 상위 후보만 남깁니다.</li>
+    <li><strong>한국어 정제</strong> — 선별된 소식을 한국어로 요약·정리하고, 옛 기사 재발행·중복을 걸러냅니다.</li>
+    <li><strong>발행</strong> — 사이트(핫뉴스·최신뉴스)와 평일 오전 7시 뉴스레터로 동시 반영됩니다.</li>
+  </ol>
+
+  <h2>신선도 — 항상 최신</h2>
+  <ul>
+    <li>뉴스는 <strong>2시간마다 자동 갱신</strong>되며, 카드의 시각 표시는 실시간으로 다시 계산됩니다.</li>
+    <li>주가 위젯은 별도 시세 서버에서 <strong>1분 단위</strong>로 갱신됩니다.</li>
+    <li><strong>핫뉴스</strong>는 중요도(hot 점수)순, <strong>최신뉴스</strong>는 시간순으로 분리해 노출합니다.</li>
+  </ul>
+
+  <h2>우리가 하지 않는 것</h2>
+  <ul>
+    <li><strong>광고·추적 없음</strong> — 추적 쿠키나 광고 배너로 화면을 어지럽히지 않습니다.</li>
+    <li><strong>낚시·과장 없음</strong> — 클릭을 위한 자극적 제목을 쓰지 않습니다.</li>
+    <li><strong>투자 권유 없음</strong> — 정보 제공이 목적이며, 특정 종목 매매를 권하지 않습니다.</li>
+  </ul>
+
+  <h2>면책</h2>
+  <p>
+    본 사이트는 정보 제공을 목적으로 하며 <strong>투자 권유가 아닙니다.</strong> 번역·요약은
+    편집부가 한국어로 정리한 것으로 원문의 모든 뉘앙스를 담지 않을 수 있으니,
+    중요한 판단은 반드시 <strong>원문(원문 보기 링크)</strong>을 함께 확인하시기 바랍니다.
+    모든 투자 결정의 책임은 본인에게 있습니다.
+  </p>
+  <ul>
+    <li><strong>문의</strong>: <a href="mailto:hello@teslabriefing.com">hello@teslabriefing.com</a></li>
+    <li><strong>개인정보</strong>: <a href="privacy.html">개인정보처리방침</a></li>
+  </ul>
+
+  <a class="back-home" href="index.html">← 홈으로 돌아가기</a>
+</article>
+
+<footer>
+  <div class="wrap footer__inner">
+    <span>© 2026 TESLA BRIEF!NG · NOT INVESTMENT ADVICE</span>
+    <span><a href="index.html">← 홈으로 돌아가기</a></span>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -35,15 +35,19 @@ jobs:
           X_FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
         continue-on-error: true
 
-      - name: Commit & push if raw-cards.json changed
+      - name: Merge long-term archive (Phase B)
+        run: node scripts/archive-merge.mjs
+        continue-on-error: true
+
+      - name: Commit & push if data changed
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name  "GitHub Actions Fetch Bot"
-          git add data/raw-cards.json
+          git add data/raw-cards.json data/archive-full.json
           if git diff --cached --quiet; then
-            echo "[skip] no raw changes"
+            echo "[skip] no data changes"
           else
-            git commit -m "raw: 자동 페치 — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "raw+archive: 자동 페치 — $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push origin master
           fi
 

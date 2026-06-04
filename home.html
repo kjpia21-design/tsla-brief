@@ -348,6 +348,14 @@
   .hot-news__item.is-fsd     { --cat-color: var(--c-fsd); }
   .hot-news__item.is-musk    { --cat-color: var(--c-musk); }
 
+  /* 모바일: 핫뉴스 헤드라인 2줄 허용(잘림 방지) + 터치 여백 확대 */
+  @media (max-width:560px){
+    .hot-news__item{padding:12px 13px;align-items:flex-start}
+    .hot-news__item::before{margin-top:5px}
+    .hot-news__title{-webkit-line-clamp:2;font-size:13.5px}
+    .hot-news__arrow{margin-top:2px}
+  }
+
   /* ============================================================
      CATEGORY CARDS — mobile: 1col stack
      ============================================================ */
@@ -723,6 +731,7 @@
       <a href="#product">제품</a>
       <a href="#fsd">FSD/로보택시</a>
       <a href="#musk">일론</a>
+      <a href="about.html">소개</a>
       <a class="nav__cta" href="#newsletter">뉴스레터 구독</a>
     </nav>
   </div>
@@ -1040,6 +1049,7 @@
     <div>
       <h5>정책</h5>
       <ul>
+        <li><a href="about.html">소개 · 큐레이션 기준</a></li>
         <li><a href="privacy.html">개인정보처리방침</a></li>
         <li><a href="mailto:hello@teslabriefing.com">문의 · hello@teslabriefing.com</a></li>
       </ul>

@@ -282,6 +282,28 @@ function renderAllCards(cards, { lang = "ko" } = {}) {
   return items;
 }
 
+// 클라이언트 필터/검색용 압축 인덱스 1건 — news-index.json 에 들어감.
+//  title/src 는 파이프라인이 생성한 신뢰 HTML, body 는 평문(클라이언트가 escape).
+//  q 는 검색용 소문자 평문(제목+본문+출처).
+function newsIndexEntry(c, lang = "ko") {
+  const cls = CATEGORY_CLASS[c.category] || "is-stock";
+  const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
+  const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
+  const titlePlain = (c.title || "").replace(/<\/?em>/g, "");
+  return {
+    category: c.category || "stock",
+    cls,
+    catLabel,
+    title: c.title || "",
+    body: c.body || "",
+    time: c.time || "",
+    pubDate: c.pubDate || "",
+    href,
+    src: renderCardMeta(c),
+    q: `${titlePlain} ${c.body || ""} ${c.sourceName || ""}`.toLowerCase(),
+  };
+}
+
 function renderVideos(videos) {
   // 메인 페이지에는 최신 영상 1개만 노출 (채널 CTA 박스로 유도).
   const items = videos.items.slice(0, 1).map((v, idx) => {
@@ -409,7 +431,7 @@ function renderArticle(template, card, lang = "ko") {
 }
 
 /** {outDir}/news.html — 모든 카드 최신순 그리드. lang 으로 한국어/영어 라벨 분기. */
-async function generateNewsPage(cards, { newsTemplateName = "news-template.html", outDir = OUT_DIR, lang = "ko" } = {}) {
+async function generateNewsPage(cards, { newsTemplateName = "news-template.html", outDir = OUT_DIR, lang = "ko", fullArchive = null } = {}) {
   const tplPath = path.join(ROOT, newsTemplateName);
   let template;
   try {
@@ -433,6 +455,12 @@ async function generateNewsPage(cards, { newsTemplateName = "news-template.html"
   out = replaceBlock(out, "NEWS_TIME", newsAsOf);
   out = replaceBlock(out, "NEWS_GRID", `\n      ${renderAllCards(cards, { lang })}\n      `);
   await writeFile(path.join(outDir, "news.html"), out, "utf8");
+
+  // 클라이언트 필터/검색용 전체 이력 인덱스 (archive-full.json 기반, 없으면 표시분으로 폴백)
+  const indexSrc = (fullArchive && fullArchive.items && fullArchive.items.length) ? fullArchive : cards;
+  const idx = indexSrc.items.map((c) => newsIndexEntry(c, lang));
+  await mkdir(path.join(outDir, "data"), { recursive: true });
+  await writeFile(path.join(outDir, "data", "news-index.json"), JSON.stringify(idx), "utf8");
   return true;
 }
 
@@ -529,18 +557,21 @@ async function buildOneLang(opts) {
   await mkdir(outDir, { recursive: true });
   await writeFile(path.join(outDir, "index.html"), out, "utf8");
 
-  // 상세 페이지는 cards + archive 합집합(slug dedup)으로 생성.
-  // cards.json 에만 있고 archive 100개 cap 에서 밀려난 카드도 반드시 기사 파일을 갖게 해
-  // 홈/핫뉴스 링크가 깨지지 않도록 한다. (cards 우선 → archive 보충)
+  // 장기 아카이브(Phase B) — 필터/검색 인덱스 + 전체 기사 페이지 생성 소스.
+  let fullArchive = { items: [] };
+  try { fullArchive = await readJson("archive-full.json"); } catch { /* 없으면 archive 로 폴백 */ }
+
+  // 상세 페이지는 cards + archive + 장기아카이브 합집합(slug dedup)으로 생성.
+  // 100개 cap 에서 밀려난 카드도, 검색 결과에서 클릭 시 404 가 안 나도록 기사 파일을 갖게 한다.
   const articleSeen = new Set();
   const articleItems = [];
-  for (const card of [...cards.items, ...archive.items]) {
+  for (const card of [...cards.items, ...archive.items, ...fullArchive.items]) {
     if (!card.slug || articleSeen.has(card.slug)) continue;
     articleSeen.add(card.slug);
     articleItems.push(card);
   }
   const numArticles = await generateArticles({ items: articleItems }, { outDir, lang });
-  await generateNewsPage(archive, { newsTemplateName, outDir, lang });
+  await generateNewsPage(archive, { newsTemplateName, outDir, lang, fullArchive });
 
   return { numCards: cards.items.length, numArchive: archive.items.length, numArticles, bytes: out.length };
 }
@@ -558,7 +589,7 @@ async function main() {
 
   // 정적 자원/페이지/JSON 데이터 — 한 번만 복사 (한·영 공유)
   await cp(ASSETS_DIR, OUT_ASSETS, { recursive: true });
-  for (const name of ["article-sample.html", "privacy.html"]) {
+  for (const name of ["article-sample.html", "privacy.html", "about.html"]) {
     try { await cp(path.join(ROOT, name), path.join(OUT_DIR, name)); }
     catch (e) { console.warn(`[build] skip ${name}: ${e.message}`); }
   }
