@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-04 20:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-04 21:46 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "17m ago",
+      "pubDate": "2026-06-04T21:30:06.000Z",
+      "title": "Tesla (NASDAQ:TSLA) Shares Down 1.2% - Should You Sell?",
+      "body": "Tesla (NASDAQ:TSLA) Shares Down 1.2% - Should You Sell? MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-shares-down-12-should-you-sell-2026-06-04/"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "11m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-04T19:50:18.000Z",
       "title": "Tesla FC Football acquired. “Made on Earth by humans”",
       "body": "Tesla FC Football acquired. “Made on Earth by humans” https://t.co/qCaodCm1O8",
@@ -17,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "47m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T19:13:28.000Z",
       "title": "This provides some sense of scale",
       "body": "This provides some sense of scale https://t.co/gj76JGpCUk",
@@ -30,7 +43,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T18:58:33.000Z",
       "title": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst",
       "body": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst Teslarati",
@@ -43,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T18:32:03.000Z",
       "title": "Space is not for the faint of heart. Out there, there’s no soul except your consciousness, nor gold to seek fortune. …",
       "body": "Space is not for the faint of heart. Out there, there’s no soul except your consciousness, nor gold to seek fortune. Only bravery, endless wonder, and plenty of empty canvas for you to build from zero to one.",
@@ -54,35 +67,48 @@
       "href": "https://x.com/yunta_tsai/status/2062603303830335800"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-04T18:29:07.000Z",
-      "title": "Audi has officially unveiled its first hybrid supercar called the Audi Nuvolari. • Starting price: $697,000 • 0-60mph…",
-      "body": "Audi has officially unveiled its first hybrid supercar called the Audi Nuvolari. • Starting price: $697,000 • 0-60mph: 2.5s • 978 hp • 499 units will be built • Fastest production vehicle in Audi history • Top speed: Ove…",
-      "sourceName": "Sawyer Merritt (X)",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-06-04T18:13:02.000Z",
+      "title": "Tesla Hardware 3 owners could be made whole this month",
+      "body": "Tesla Hardware 3 owners could be made whole this month Teslarati",
+      "sourceName": "Teslarati",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/SawyerMerritt/status/2062602565083074746"
+      "href": "https://www.teslarati.com/tesla-hardware-3-owners-made-whole-this-month/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-06-04T18:13:02.000Z",
+      "title": "Tesla Hardware 3 owners could be made whole this month",
+      "body": "Tesla Hardware 3 owners could be made whole this month Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-hardware-3-owners-made-whole-this-month/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-04T18:23:40.000Z",
-      "title": "Global Electric Vehicle Sales Rose 16% in April, Led by Tesla (TSLA)",
-      "body": "Global Electric Vehicle Sales Rose 16% in April, Led by Tesla (TSLA) TipRanks",
-      "sourceName": "TipRanks",
+      "time": "4h ago",
+      "pubDate": "2026-06-04T17:49:13.000Z",
+      "title": "Rivian Rallies 8% as Tesla, Nio Stall: R2 Launch and Software Growth in Focus",
+      "body": "Rivian Rallies 8% as Tesla, Nio Stall: R2 Launch and Software Growth in Focus AOL.com",
+      "sourceName": "AOL.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.tipranks.com/news/global-electric-vehicle-sales-rose-16-in-april-led-by-tesla-tsla"
+      "href": "https://www.aol.com/articles/rivian-rallies-8-tesla-nio-170057218.html"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-04T17:44:23.000Z",
       "title": "When the real footage looks more futuristic than AI can possibly imagine.",
       "body": "When the real footage looks more futuristic than AI can possibly imagine. https://t.co/hz0zqbcotT",
@@ -93,48 +119,22 @@
       "href": "https://x.com/yunta_tsai/status/2062591307865026846"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-04T17:16:49.000Z",
-      "title": "Tesla Hardware 3 owners could be made whole this month",
-      "body": "Tesla Hardware 3 owners could be made whole this month Teslarati",
-      "sourceName": "Teslarati",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-06-04T16:35:22.000Z",
+      "title": "TSLA Reiterated by TD Cowen -- Price Target Maintained at $490",
+      "body": "TSLA Reiterated by TD Cowen -- Price Target Maintained at $490 GuruFocus",
+      "sourceName": "GuruFocus",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/tesla-hardware-3-owners-made-whole-this-month/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-04T17:16:49.000Z",
-      "title": "Tesla Hardware 3 owners could be made whole this month",
-      "body": "Tesla Hardware 3 owners could be made whole this month Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-hardware-3-owners-made-whole-this-month/"
+      "href": "https://www.gurufocus.com/news/8901519/tsla-reiterated-by-td-cowen-price-target-maintained-at-490"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-04T17:11:36.000Z",
-      "title": "“Quietly Changed”: Tesla Stock (NASDAQ:TSLA) Slips as Contract Language Gets Quietly Altered",
-      "body": "“Quietly Changed”: Tesla Stock (NASDAQ:TSLA) Slips as Contract Language Gets Quietly Altered TipRanks",
-      "sourceName": "TipRanks",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.tipranks.com/news/quietly-changed-tesla-stock-nasdaqtsla-slips-as-contract-language-gets-quietly-altered"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-04T16:00:33.000Z",
       "title": "Tesla stock is down around 1% on Thursday: what's hurting the EV stock?",
       "body": "Tesla stock is down around 1% on Thursday: what's hurting the EV stock? TradingView",
@@ -147,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-04T15:46:09.000Z",
       "title": "Grok Imagine one-shots the Battle of Red Cliffs (赤壁之戰), the famous epic Chinese battle in 208 AD.",
       "body": "Grok Imagine one-shots the Battle of Red Cliffs (赤壁之戰), the famous epic Chinese battle in 208 AD. https://t.co/6ft5U0zT3r",
@@ -160,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-04T15:28:20.000Z",
       "title": "Tesla extends Austin robotaxi coverage amid FSD push",
       "body": "Tesla extends Austin robotaxi coverage amid FSD push Yahoo Finance",
@@ -173,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-04T13:09:53.000Z",
       "title": "New Tesla Supercharger: Carpiquet, France (8 stalls)",
       "body": "New Tesla Supercharger: Carpiquet, France (8 stalls) https://t.co/8gLw5gTdVx https://t.co/gp9HWt6tD2",
@@ -186,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-04T12:15:34.000Z",
       "title": "Greding Germany Supercharger stop 1 as we go to the Tesla Takeover Europe @TeslaClubAT",
       "body": "Greding Germany Supercharger stop 1 as we go to the Tesla Takeover Europe @TeslaClubAT https://t.co/ERBRTPDL4D https://t.co/m9HVeBBXMC",
@@ -199,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-04T11:26:52.000Z",
       "title": "Tesla hit with class action in Quebec over up to $400m in heat pump failures",
       "body": "A Quebec Tesla owner has filed a class action request against Tesla over heat pump failures, seeking damages for all Tesla owners in the province after being stuck with a $4,477 repair bill when her Model 3’s heat pump d…",
@@ -212,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-04T06:50:12.000Z",
       "title": "New Tesla Supercharger: Kristiansund, Norway (8 stalls)",
       "body": "New Tesla Supercharger: Kristiansund, Norway (8 stalls) https://t.co/SYAZh6Aw49 https://t.co/44Adj2z5CC",
@@ -225,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-04T04:12:52.000Z",
       "title": "Training a model versus training a model you trust to take you home are two completely different things.",
       "body": "Training a model versus training a model you trust to take you home are two completely different things.",
@@ -236,17 +236,17 @@
       "href": "https://x.com/yunta_tsai/status/2062387081268416719"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
-      "pubDate": "2026-06-03T20:03:43.000Z",
-      "title": "Used Cybertrucks are in demand, but that won't move Tesla stock",
-      "body": "Used Cybertrucks are in demand, but that won't move Tesla stock Yahoo Finance UK",
-      "sourceName": "Yahoo Finance UK",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "23h ago",
+      "pubDate": "2026-06-03T22:58:33.000Z",
+      "title": "Elon Musk's net worth poised to sail past $1 trillion in SpaceX IPO",
+      "body": "Elon Musk's net worth poised to sail past $1 trillion in SpaceX IPO CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://uk.finance.yahoo.com/video/used-cybertrucks-demand-wont-move-200343181.html"
+      "href": "https://www.cnbc.com/2026/06/03/elon-musks-net-worth-poised-to-sail-past-1-trillion-in-spacex-ipo.html"
     },
     {
       "category": "product",
