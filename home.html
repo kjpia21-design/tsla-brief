@@ -617,12 +617,17 @@
   footer{background:var(--bg);border-top:1px solid var(--line-mute);padding:32px 0 calc(24px + env(safe-area-inset-bottom));margin-top:24px}
   .footer__inner{display:grid;grid-template-columns:1fr 1fr;gap:24px 18px}
   .footer__brand{grid-column:1 / -1}
-  .footer h5{font-size:11.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-mute);margin:0 0 12px}
-  .footer ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:9px}
-  .footer ul a{color:var(--ink-mid);font-size:13.5px}
-  .footer ul a:hover{color:var(--ink)}
+  footer h5{font-size:11.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-mute);margin:0 0 12px}
+  footer ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:9px}
+  footer ul a{color:var(--ink-mid);font-size:13.5px}
+  footer ul a:hover{color:var(--ink)}
   .footer__brand{display:flex;flex-direction:column;gap:12px}
   .footer__brand p{color:var(--ink-mute);font-size:12.5px;margin:0;max-width:36ch;line-height:1.6}
+  /* About 강조 링크 */
+  .footer__about{align-self:flex-start;color:var(--tesla-red);font-weight:700;font-size:13.5px;text-decoration:none;border-bottom:1.5px solid rgba(227,25,55,.45);padding-bottom:2px;transition:border-color var(--ease)}
+  .footer__about:hover{border-bottom-color:var(--tesla-red)}
+  /* 문의 메일 — 줄바꿈 방지 */
+  .footer__mail{white-space:nowrap}
   .footer__bottom{
     margin-top:28px;padding-top:16px;border-top:1px solid var(--line-mute);
     display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:10px;
@@ -693,7 +698,7 @@
     .vbody h4{font-size:15px}
 
     footer{padding:48px 0 36px;margin-top:32px}
-    .footer__inner{grid-template-columns:repeat(4,max-content);justify-content:space-between;gap:32px 40px}
+    .footer__inner{grid-template-columns:1fr auto;gap:32px 56px;align-items:start}
     .footer__brand{grid-column:auto}
     .footer__bottom{align-items:center}
   }
@@ -713,8 +718,8 @@
 
     .vids__grid{grid-template-columns:repeat(3,1fr)}
 
-    .footer__inner{grid-template-columns:repeat(4,max-content);justify-content:space-between;gap:36px 40px}
-    .footer__brand p{max-width:30ch}
+    .footer__inner{grid-template-columns:1fr auto;gap:36px 56px}
+    .footer__brand p{max-width:42ch}
   }
 </style>
 </head>
@@ -1027,32 +1032,14 @@
         <span class="brand__text">Brief<em>!ng</em></span>
       </a>
       <p>테슬라 주주를 위한 일일 브리핑. 주가·실적, 차량·에너지·옵티머스, FSD/로보택시, 머스크 발언을 한 페이지에서.</p>
+      <a class="footer__about" href="about.html">소개 · 큐레이션 기준 보기 →</a>
     </div>
 
     <div>
-      <h5>카테고리</h5>
+      <h5>정책 · 문의</h5>
       <ul>
-        <li><a href="#stock">주가·실적</a></li>
-        <li><a href="#product">차량·에너지·옵티머스</a></li>
-        <li><a href="#fsd">FSD/로보택시</a></li>
-        <li><a href="#musk">일론 소식</a></li>
-      </ul>
-    </div>
-
-    <div>
-      <h5>채널</h5>
-      <ul>
-        <li><a href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener">유튜브</a></li>
-        <li><a href="#newsletter">뉴스레터</a></li>
-      </ul>
-    </div>
-
-    <div>
-      <h5>정책</h5>
-      <ul>
-        <li><a href="about.html">소개 · 큐레이션 기준</a></li>
         <li><a href="privacy.html">개인정보처리방침</a></li>
-        <li><a href="mailto:hello@teslabriefing.com">문의 · hello@teslabriefing.com</a></li>
+        <li><a class="footer__mail" href="mailto:hello@teslabriefing.com">문의 · hello@teslabriefing.com</a></li>
       </ul>
     </div>
   </div>
