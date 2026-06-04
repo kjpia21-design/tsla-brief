@@ -32,6 +32,13 @@ const SHEET_NAME_KO = 'subscribers-ko';
 const SHEET_NAME_EN = 'subscribers-en';        // (영어 페이지 폐지 — 잔존, 미사용)
 const TOKEN = '';                              // ← 본인 토큰 (위 ③ 참고). 비우면 list 거부.
 
+// 신규 구독자 발생 시 텔레그램 알림 (선택). 두 값 비우면 알림 안 감.
+//   · TG_BOT_TOKEN: BotFather 봇 토큰 (뉴스레터 발송에 쓰는 그 봇 그대로 가능)
+//   · TG_CHAT_ID  : 알림 받을 챗 ID
+//   ⚠️ 토큰은 여기(본인 Apps Script)에만 붙여넣기 — 외부에 노출 금지.
+const TG_BOT_TOKEN = '';
+const TG_CHAT_ID   = '';
+
 // ── POST: 구독 접수 ───────────────────────────────
 function doPost(e) {
   try {
@@ -67,9 +74,35 @@ function doPost(e) {
       String(body.country || ''),
       String(body.source || ''),
     ]);
+    // 신규 구독자(중복 아님)만 알림. 그 시점 해당 명단 총 구독자 수 = 행수 - 헤더.
+    const count = Math.max(0, sh.getLastRow() - 1);
+    notifyTelegram_(email, count);
     return out({ ok: true });
   } catch (err) {
     return out({ ok: false, error: String(err) });
+  }
+}
+
+// ── 신규 구독 텔레그램 알림 ────────────────────────
+// 알림 실패가 구독 접수 자체를 막지 않도록 try/catch 로 감싼다.
+function notifyTelegram_(email, count) {
+  if (!TG_BOT_TOKEN || !TG_CHAT_ID) return;
+  try {
+    const text = '🎉 신규 뉴스레터 구독자\n\n'
+      + '📧 ' + email + '\n'
+      + '👥 현재 구독자 ' + count + '명';
+    UrlFetchApp.fetch('https://api.telegram.org/bot' + TG_BOT_TOKEN + '/sendMessage', {
+      method: 'post',
+      contentType: 'application/json',
+      payload: JSON.stringify({
+        chat_id: TG_CHAT_ID,
+        text: text,
+        disable_web_page_preview: true,
+      }),
+      muteHttpExceptions: true,
+    });
+  } catch (err) {
+    // 무시 — 구독은 이미 정상 적재됨
   }
 }
 
