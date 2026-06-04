@@ -496,7 +496,7 @@ async function buildOneLang(opts) {
   await writeFile(path.join(outDir, "index.html"), out, "utf8");
 
   // 상세 페이지는 cards + archive 합집합(slug dedup)으로 생성.
-  // cards.json 에만 있고 archive 50개 cap 에서 밀려난 카드도 반드시 기사 파일을 갖게 해
+  // cards.json 에만 있고 archive 100개 cap 에서 밀려난 카드도 반드시 기사 파일을 갖게 해
   // 홈/핫뉴스 링크가 깨지지 않도록 한다. (cards 우선 → archive 보충)
   const articleSeen = new Set();
   const articleItems = [];

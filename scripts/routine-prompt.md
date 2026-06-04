@@ -97,7 +97,7 @@ git reset --hard origin/master
 
 ## Step 5 — 파일 갱신 (2개만)
 - `data/cards.json` — 이번 선별 4~6장. `asOf` 갱신 ("YYYY-MM-DD HH:mm KST 자동 갱신 · 최신순").
-- `data/archive.json` — 기존 + 신규 누적. **slug 기준 dedup**, `pubDate` 내림차순, **최대 50개 cap**.
+- `data/archive.json` — 기존 + 신규 누적. **slug 기준 dedup**, `pubDate` 내림차순, **최대 100개 cap**.
 - ❌ `cards-en.json` / `archive-en.json` 은 **존재하지 않으며 만들지 않는다.**
 
 ## Step 6 — 빌드 검증
