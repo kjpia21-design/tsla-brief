@@ -26,8 +26,10 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Fetch RSS (실패해도 다음 단계로 — 기존 raw 유지)
+      - name: Fetch RSS + X (실패해도 다음 단계로 — 기존 raw 유지)
         run: node scripts/fetch-news.mjs
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         continue-on-error: true
 
       - name: Commit & push if raw-cards.json changed

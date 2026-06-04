@@ -58,6 +58,35 @@ const NHTSA_VEHICLES = [
   ["Tesla", "Cybertruck", 2025], ["Tesla", "Cybertruck", 2026],
 ];
 
+// ── X(트위터) 1차·공식 소스 설정 ─────────────────────────────
+//   GET /2/tweets/search/recent — from:계정 OR ... 한 번에 묶어 1요청으로 수집(비용 절감).
+//   Bearer 토큰은 GitHub Actions secret `X_BEARER_TOKEN` 으로 주입(코드/리포에 값 미포함).
+//   PPU(종량제) 비용 통제: 매 2h 실행 전부가 아니라 하루 4회(아래 시각, UTC)만 호출.
+const X_BEARER = process.env.X_BEARER_TOKEN || "";
+const X_RECENT_HOURS = 18;             // 최근 N시간 내 게시물만
+const X_MAX_RESULTS = 40;              // 1요청 최대 트윗 수
+const X_FETCH_HOURS_UTC = [2, 8, 14, 20]; // 하루 4회. 20 UTC = 05시 KST → 07시 발송 직전 신선
+// label: official(공식·1차 인사이더) / press(인플루언서·애널리스트)
+// category: 본문 추론의 폴백값(null 이면 musk 폴백)
+const X_ACCOUNTS = [
+  // 공식 채널
+  { username: "Tesla",         id: "13298072",            name: "Tesla",            label: "official", category: "product" },
+  { username: "elonmusk",      id: "44196397",            name: "Elon Musk",        label: "official", category: "musk" },
+  { username: "Tesla_AI",      id: "1659653864138612761", name: "Tesla AI",         label: "official", category: "fsd" },
+  { username: "TeslaCharging", id: "1346535293449428992", name: "Tesla Charging",   label: "official", category: "product" },
+  { username: "cybertruck",    id: "1686044379910131718", name: "Cybertruck",       label: "official", category: "product" },
+  { username: "Tesla_Optimus", id: "1616163256413863943", name: "Tesla Optimus",    label: "official", category: "product" },
+  // 테슬라 임원·엔지니어(1차 인사이더)
+  { username: "aelluswamy",    id: "87657877",            name: "Ashok Elluswamy",  label: "official", category: "fsd" },
+  { username: "larsmoravy",    id: "716024533363208192",  name: "Lars Moravy",      label: "official", category: "product" },
+  { username: "yunta_tsai",    id: "1577705091737432070", name: "Yun-Ta Tsai",      label: "official", category: "fsd" },
+  // 인플루언서·애널리스트(보도·의견 → press)
+  { username: "SawyerMerritt", id: "243013409",           name: "Sawyer Merritt",   label: "press",    category: null },
+  { username: "DivesTech",     id: "1082353582228176896", name: "Dan Ives",         label: "press",    category: "stock" },
+  { username: "JoeTegtmeyer",  id: "1288973134339739648", name: "Joe Tegtmeyer",    label: "press",    category: null },
+  { username: "teslaownersSV", id: "1016059981907386368", name: "Tesla Owners SV",  label: "press",    category: null },
+];
+
 const SOURCES = [
   // ── 1차·공식 (SEC / 규제기관) ────────────────────────────
   // Tesla IR(ir.tesla.com)은 SPA라 공개 RSS 없음 → 8-K(실적·중대공시)로 대체.
@@ -68,6 +97,8 @@ const SOURCES = [
   { type: "edgar", category: "musk",    url: EDGAR("0001494730", "4"),    sourceName: "SEC · 머스크 Form 4", defaultLabel: "sec", headers: SEC_HEADERS },
   // NHTSA 리콜 (규제기관 1차) — 차량 안전/소프트웨어 결함.
   { type: "nhtsa", category: "product", sourceName: "NHTSA", defaultLabel: "sec" },
+  // X(트위터) — 테슬라/일론/제품 공식 + 임원 + 큐레이터. label/category 는 항목별 자체 판별.
+  { type: "x", sourceName: "X" },
 
   // ── STOCK ───────────────────────────
   { category: "stock",   url: GN(`Tesla TSLA stock when:${process.env.SEED_WINDOW || "1d"}`), defaultLabel: "press" },
@@ -199,9 +230,17 @@ function recencyBonus(ts) {
   return -2;
 }
 
+// 라벨(출처 등급) 가산점 — 호스트 tier 로 구분 안 되는 1차·공식을 위로 끌어올린다.
+//   특히 x.com 은 공식 계정·인플루언서가 같은 호스트(+3)라, 라벨로 공식을 우대해야
+//   공식 트윗이 인플루언서 잡담에 밀려 raw 선별에서 탈락하지 않는다.
+const LABEL_BONUS = { sec: 5, official: 4, press: 0, rumor: -6 };
+function labelBonus(label) {
+  return LABEL_BONUS[label] ?? 0;
+}
+
 // 선별용 종합 점수 (높을수록 우선 채택)
 function selectionScore(it) {
-  return recencyBonus(it.ts) + tierBonus(it.host);
+  return recencyBonus(it.ts) + tierBonus(it.host) + labelBonus(it.label);
 }
 
 // ─────────────────────────────────────────────────────────
@@ -471,6 +510,72 @@ async function fetchNhtsa(vehicles) {
 }
 
 // ─────────────────────────────────────────────────────────
+// X(트위터) 최근 게시물 — search/recent 로 여러 계정을 1요청에 묶음
+//   · Bearer 토큰 없으면 조용히 건너뜀(로컬에서 토큰 없이 RSS만 돌릴 때).
+//   · 지정 시각(UTC)이 아니면 건너뜀(PPU 비용 통제). X_FORCE=1 로 강제 가능.
+//   · 리트윗/답글 제외, 순수 링크·초단문 제외(노이즈).
+//   · author_id → 계정 설정 매핑으로 label(official/press)·카테고리 폴백 결정.
+// ─────────────────────────────────────────────────────────
+
+async function fetchX(accounts) {
+  if (!X_BEARER) {
+    console.warn("[fetch-news] X 건너뜀 — X_BEARER_TOKEN 미설정");
+    return [];
+  }
+  const hourNow = new Date().getUTCHours();
+  if (!process.env.X_FORCE && !X_FETCH_HOURS_UTC.includes(hourNow)) {
+    console.log(`[fetch-news] X 건너뜀 — ${hourNow}시 UTC 는 폴링 시각 아님 (${X_FETCH_HOURS_UTC.join(",")}). X_FORCE=1 로 강제 가능`);
+    return [];
+  }
+
+  const byId = new Map(accounts.map((a) => [a.id, a]));
+  const query = `(${accounts.map((a) => `from:${a.username}`).join(" OR ")}) -is:retweet -is:reply`;
+  const startTime = new Date(Date.now() - X_RECENT_HOURS * 3_600_000).toISOString();
+  const url = "https://api.x.com/2/tweets/search/recent"
+    + `?query=${encodeURIComponent(query)}`
+    + `&max_results=${X_MAX_RESULTS}`
+    + `&start_time=${encodeURIComponent(startTime)}`
+    + "&tweet.fields=created_at,public_metrics,lang,author_id";
+
+  let json;
+  try {
+    const res = await fetch(url, {
+      headers: { "Authorization": `Bearer ${X_BEARER}`, "Accept": "application/json" },
+      redirect: "follow",
+      signal: AbortSignal.timeout(15000),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status} ${(await res.text()).slice(0, 120)}`);
+    json = await res.json();
+  } catch (e) {
+    console.warn(`[fetch-news] X ← FAIL · ${e.message}`);
+    return [];
+  }
+
+  const out = [];
+  for (const t of (json.data || [])) {
+    const acct = byId.get(t.author_id);
+    if (!acct) continue;
+    const text = (t.text || "").replace(/\s+/g, " ").trim();
+    // 순수 링크/초단문 제외 (URL 제거 후 15자 미만이면 노이즈)
+    const noUrl = text.replace(/https?:\/\/\S+/g, "").trim();
+    if (noUrl.length < 15) continue;
+    const link = `https://x.com/${acct.username}/status/${t.id}`;
+    out.push({
+      category: acct.category,           // inferCategory 폴백
+      label: acct.label,                 // official | press (강제)
+      title: noUrl.length > 120 ? noUrl.slice(0, 117) + "…" : noUrl,
+      description: text,
+      link,
+      sourceUrl: link,
+      pubDate: t.created_at || "",
+      sourceName: `${acct.name} (X)`,
+    });
+  }
+  console.log(`[fetch-news] X ← ${out.length} posts (검색 ${(json.data || []).length}건 중)`);
+  return out;
+}
+
+// ─────────────────────────────────────────────────────────
 // 메인 페치 루프
 // ─────────────────────────────────────────────────────────
 
@@ -594,20 +699,27 @@ async function main() {
   const buckets = { stock: [], product: [], fsd: [], musk: [] };
 
   await Promise.all(SOURCES.map(async (src) => {
-    // ── 1차·공식: SEC EDGAR / NHTSA — 카테고리·라벨을 강제, inferCategory/cleanTitle 생략 ──
-    if (src.type === "edgar" || src.type === "nhtsa") {
+    // ── 1차·공식: SEC EDGAR / NHTSA / X — inferCategory/cleanTitle 생략, 라벨 강제 ──
+    if (src.type === "edgar" || src.type === "nhtsa" || src.type === "x") {
       try {
         let items;
         if (src.type === "edgar") {
           const xml = await fetchRss(src.url, src.headers);
           items = parseEdgar(xml, src);
-        } else {
+        } else if (src.type === "nhtsa") {
           items = await fetchNhtsa(NHTSA_VEHICLES);
+        } else {
+          items = await fetchX(X_ACCOUNTS);
         }
         for (const it of items) {
           if (!it.title) continue;
           if (isBlocked({ link: it.link, sourceUrl: it.sourceUrl, title: it.title })) continue;
-          const cat = it.category || src.category;   // NHTSA 는 항목별 fsd/product 자체 판별
+          // X 는 본문 기반 카테고리 추론(계정 카테고리 폴백), edgar/nhtsa 는 명시값.
+          const cat = (src.type === "x")
+            ? inferCategory(it.title, it.description, it.category || "musk")
+            : (it.category || src.category);
+          // X 는 항목별 label(official/press), edgar/nhtsa 는 sec 강제.
+          const label = (src.type === "x") ? it.label : src.defaultLabel;
           const host = hostForLabel(it);
           buckets[cat].push({
             title: it.title,
@@ -616,7 +728,7 @@ async function main() {
             description: it.description,
             pubDate: it.pubDate,
             ts: Date.parse(it.pubDate) || 0,
-            label: src.defaultLabel,                 // 1차·공식 → "sec" 강제
+            label,
             host,
             sourceName: it.sourceName || src.sourceName,
           });
