@@ -735,13 +735,18 @@ async function resolveArticleUrl(it) {
 // (예: Teslarati 가 2014년 'Model E'(모델3 옛 코드명) 기사를 2026 날짜로 재발행한 사고)
 // 주의: Google News RSS 경유 시 수집 시점의 link 는 토큰 URL 이고 실제 원문 URL 은
 // 선별 후에야 해석된다(resolveArticleUrl). 따라서 URL 뿐 아니라 **제목** 으로도 막는다.
-const BLOCKLIST = [
-  "tuned-third-generation-tesla-model-e-will-utilize-steel-construction", // 원문 URL slug
-  "will utilize steel construction",                                       // 제목 (수집 시점에도 매칭됨)
+// 공유 차단 목록(data/blocklist.json)을 모듈 로드시 읽어 병합. 빌드·정제·누적과 한 소스.
+let BLOCKLIST = [
+  "tuned-third-generation-tesla-model-e-will-utilize-steel-construction",
+  "will utilize steel construction",
 ];
+try {
+  const extra = JSON.parse(await readFile(path.join(ROOT, "data", "blocklist.json"), "utf8")).substrings || [];
+  BLOCKLIST = [...new Set([...BLOCKLIST, ...extra].map((s) => s.toLowerCase()))];
+} catch { /* 파일 없으면 인라인만 사용 */ }
 function isBlocked(it) {
   const hay = `${it.link || ""} ${it.sourceUrl || ""} ${it.title || ""} ${it.href || ""}`.toLowerCase();
-  return BLOCKLIST.some((b) => hay.includes(b.toLowerCase()));
+  return BLOCKLIST.some((b) => hay.includes(b));
 }
 
 // 카테고리당 최대 N건 (한국어 정제 시 선택 폭). 환경변수 SEED_N 으로 override.

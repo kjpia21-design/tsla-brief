@@ -22,6 +22,7 @@ import path from "node:path";
 const ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const ROLLING = path.join(ROOT, "data", "archive.json");
 const FULL = path.join(ROOT, "data", "archive-full.json");
+const BLOCK = path.join(ROOT, "data", "blocklist.json");
 const CAP = Number(process.env.ARCHIVE_FULL_CAP || 2000);
 
 async function readJsonSafe(p, fallback) {
@@ -31,9 +32,19 @@ async function readJsonSafe(p, fallback) {
 
 const key = (c) => c.slug || c.title || "";
 
+// 재발행 옛 기사 등 영구 차단 — 누적 단계에서도 걸러 archive-full.json 을 깨끗하게 유지.
+function blockedFn(subs) {
+  return (c) => {
+    const hay = `${c.title || ""} ${c.slug || ""} ${c.href || ""} ${c.summary || ""} ${c.body || ""}`.toLowerCase();
+    return subs.some((s) => hay.includes(s));
+  };
+}
+
 async function main() {
   const rolling = await readJsonSafe(ROLLING, { items: [] });
   const full = await readJsonSafe(FULL, { items: [] });
+  const subs = ((await readJsonSafe(BLOCK, { substrings: [] })).substrings || []).map((s) => s.toLowerCase());
+  const isBlocked = blockedFn(subs);
 
   const bySlug = new Map();
   // 기존 이력 먼저
@@ -50,9 +61,9 @@ async function main() {
     bySlug.set(k, c);
   }
 
-  let items = [...bySlug.values()].sort(
-    (a, b) => (Date.parse(b.pubDate || 0) || 0) - (Date.parse(a.pubDate || 0) || 0)
-  );
+  let items = [...bySlug.values()]
+    .filter((c) => !isBlocked(c))   // 차단 목록 제외
+    .sort((a, b) => (Date.parse(b.pubDate || 0) || 0) - (Date.parse(a.pubDate || 0) || 0));
   const before = items.length;
   items = items.slice(0, CAP);
 

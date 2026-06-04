@@ -333,6 +333,28 @@ async function readJson(name) {
   }
 }
 
+// 재발행 옛 기사 등 영구 차단 — data/blocklist.json 의 substring 이 카드 어디든 포함되면 제외.
+// fetch(영문)·정제(한국어) 어느 경로로 들어왔든 빌드 단계에서 최종 차단(보증).
+let _blockSubs = null;
+async function blockSubs() {
+  if (_blockSubs) return _blockSubs;
+  try { _blockSubs = (await readJson("blocklist.json")).substrings.map((s) => s.toLowerCase()); }
+  catch { _blockSubs = []; }
+  return _blockSubs;
+}
+function isBlockedCard(c, subs) {
+  const hay = `${c.title || ""} ${c.slug || ""} ${c.href || ""} ${c.summary || ""} ${c.body || ""}`.toLowerCase();
+  return subs.some((s) => hay.includes(s));
+}
+async function filterBlocked(items) {
+  const subs = await blockSubs();
+  if (!subs.length) return items;
+  const before = items.length;
+  const out = items.filter((c) => !isBlockedCard(c, subs));
+  if (out.length < before) console.log(`[build] 차단 목록으로 ${before - out.length}건 제외`);
+  return out;
+}
+
 // 빌드 시 라이브 시세 — Worker API(api.teslabriefing.com)에서 가져와 초기 렌더를 신선하게.
 // (JS 안 도는 공유 봇·스크래퍼도 최신 시세를 보게 함. JS 사용자는 클라이언트 폴링이 추가 갱신.)
 // 실패하면 data/kpi.json 폴백 — 네트워크 없는 환경/Worker 다운 대비. 빌드는 절대 실패하지 않음.
@@ -531,6 +553,10 @@ async function buildOneLang(opts) {
     archive = { ...cards, asOf: cards.asOf };
   }
 
+  // 차단 목록 필터 — 재발행 옛 기사 등이 데이터에 남아 있어도 사이트엔 절대 노출 안 되게(최종 보증).
+  cards.items = await filterBlocked(cards.items);
+  archive.items = await filterBlocked(archive.items);
+
   const now = new Date();
   const buildIso = now.toISOString();
 
@@ -566,6 +592,7 @@ async function buildOneLang(opts) {
   // 장기 아카이브(Phase B) — 필터/검색 인덱스 + 전체 기사 페이지 생성 소스.
   let fullArchive = { items: [] };
   try { fullArchive = await readJson("archive-full.json"); } catch { /* 없으면 archive 로 폴백 */ }
+  fullArchive.items = await filterBlocked(fullArchive.items);
 
   // 상세 페이지는 cards + archive + 장기아카이브 합집합(slug dedup)으로 생성.
   // 100개 cap 에서 밀려난 카드도, 검색 결과에서 클릭 시 404 가 안 나도록 기사 파일을 갖게 한다.

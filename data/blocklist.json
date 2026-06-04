@@ -1,0 +1,10 @@
+{
+  "_comment": "재발행된 옛 기사 등 영구 차단 목록. title/slug/href/summary/body 어디든 아래 substring(소문자 비교)이 포함되면 fetch·정제·빌드 전 단계에서 제외. 새 사고 발견 시 substring 추가.",
+  "substrings": [
+    "tuned-third-generation-tesla-model-e",
+    "will utilize steel construction",
+    "model-e-steel",
+    "스틸 차체 채택",
+    "기가캐스팅 대신 철강"
+  ]
+}
