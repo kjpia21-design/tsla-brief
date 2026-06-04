@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-04 14:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-04 15:29 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "19m ago",
+      "pubDate": "2026-06-04T15:10:21.000Z",
+      "title": "Buy, Hold, or Sell: Is Tesla Stock a Sell Above $400?",
+      "body": "Buy, Hold, or Sell: Is Tesla Stock a Sell Above $400? 24/7 Wall St.",
+      "sourceName": "24/7 Wall St.",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://247wallst.com/investing/2026/06/04/buy-hold-or-sell-is-tesla-stock-a-sell-above-400/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-04T14:22:30.000Z",
+      "title": "Tesla Stock Falls. Blame Broadcom. -- Barrons.com",
+      "body": "Tesla Stock Falls. Blame Broadcom. -- Barrons.com 富途牛牛",
+      "sourceName": "富途牛牛",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://news.futunn.com/en/post/74139893/tesla-stock-falls-blame-broadcom-barronscom"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-04T13:59:37.000Z",
       "title": "Fidelity has announced that it is making the SpaceX IPO available to any customer with a retail brokerage account wit…",
       "body": "Fidelity has announced that it is making the SpaceX IPO available to any customer with a retail brokerage account with $2,000 or more in the account (down from up to $500k before). \"SpaceX has decided to reserve a much h…",
@@ -17,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "21m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-04T13:39:23.000Z",
       "title": "Starlink V3 satellites Bandwidth per Satellite: • V2: 96 Gbps • V3: 1,024 Gbps Bandwidth per Launch: V2: 2,600 Gbps V…",
       "body": "Starlink V3 satellites Bandwidth per Satellite: • V2: 96 Gbps • V3: 1,024 Gbps Bandwidth per Launch: V2: 2,600 Gbps V3: 61,000 Gbps Deployment per Launch: • V2: 27 satellites (on Falcon 9) • V3: 60 (on Starship) Starlink…",
@@ -30,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "29m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-04T13:31:19.000Z",
       "title": "SpaceX says it accepted less than 2% of engineer applications in 2025.",
       "body": "SpaceX says it accepted less than 2% of engineer applications in 2025. https://t.co/ddrE2Q9QMu https://t.co/pCTMg9Y3c0",
@@ -43,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "32m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-04T13:28:28.000Z",
       "title": "SpaceX has released its full IPO roadshow presentation that it's showing to investors. Here are some of the most impo…",
       "body": "SpaceX has released its full IPO roadshow presentation that it's showing to investors. Here are some of the most important slides: https://t.co/aGMmCPTnvW",
@@ -56,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "41m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-04T13:19:57.000Z",
       "title": "Here is the FAQ section on @SpaceX's new IPO website: What is the timeline for the IPO? The IPO process begins with a…",
       "body": "Here is the FAQ section on @SpaceX's new IPO website: What is the timeline for the IPO? The IPO process begins with a roadshow starting on June 4th. The final IPO share price will be set on June 11th, and shares are expe…",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "51m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-04T13:09:53.000Z",
       "title": "New Tesla Supercharger: Carpiquet, France (8 stalls)",
       "body": "New Tesla Supercharger: Carpiquet, France (8 stalls) https://t.co/8gLw5gTdVx https://t.co/gp9HWt6tD2",
@@ -82,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T12:41:08.000Z",
       "title": "Tons of phantom braking on hardware 4 Model 𝕏 in Germany with enhanced autopilot. Not sure what’s going on. Cc @aell…",
       "body": "Tons of phantom braking on hardware 4 Model 𝕏 in Germany with enhanced autopilot. Not sure what’s going on. Cc @aelluswamy @Tesla_AI",
@@ -95,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T12:15:34.000Z",
       "title": "Greding Germany Supercharger stop 1 as we go to the Tesla Takeover Europe @TeslaClubAT",
       "body": "Greding Germany Supercharger stop 1 as we go to the Tesla Takeover Europe @TeslaClubAT https://t.co/ERBRTPDL4D https://t.co/m9HVeBBXMC",
@@ -108,20 +134,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-04T11:32:16.000Z",
-      "title": "TD Asset Management Inc Increases Position in Tesla, Inc. $TSLA",
-      "body": "TD Asset Management Inc Increases Position in Tesla, Inc. $TSLA MarketBeat",
-      "sourceName": "MarketBeat",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-td-asset-management-inc-increases-position-in-tesla-inc-tsla-2026-06-04/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-04T11:31:22.000Z",
       "title": "Tesla (TSLA) and NVIDIA (NVDA) Underperform as AI Chip Outlook D",
       "body": "Tesla (TSLA) and NVIDIA (NVDA) Underperform as AI Chip Outlook D GuruFocus",
@@ -134,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-04T11:26:52.000Z",
       "title": "Tesla hit with class action in Quebec over up to $400m in heat pump failures",
       "body": "A Quebec Tesla owner has filed a class action request against Tesla over heat pump failures, seeking damages for all Tesla owners in the province after being stuck with a $4,477 repair bill when her Model 3’s heat pump d…",
@@ -147,46 +160,20 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-04T11:22:17.000Z",
-      "title": "WCG Wealth Advisors LLC Acquires 32,704 Shares of Tesla, Inc. $TSLA",
-      "body": "WCG Wealth Advisors LLC Acquires 32,704 Shares of Tesla, Inc. $TSLA MarketBeat",
-      "sourceName": "MarketBeat",
+      "time": "5h ago",
+      "pubDate": "2026-06-04T10:40:25.000Z",
+      "title": "Tesla stock rebounding around 1.5% today: What's behind the move?",
+      "body": "Tesla stock rebounding around 1.5% today: What's behind the move? MSN",
+      "sourceName": "MSN",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-wcg-wealth-advisors-llc-acquires-32704-shares-of-tesla-inc-tsla-2026-06-04/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-04T11:04:12.000Z",
-      "title": "Greenspring Advisors LLC Purchases 3,616 Shares of Tesla, Inc. $TSLA",
-      "body": "Greenspring Advisors LLC Purchases 3,616 Shares of Tesla, Inc. $TSLA MarketBeat",
-      "sourceName": "MarketBeat",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-greenspring-advisors-llc-purchases-3616-shares-of-tesla-inc-tsla-2026-06-04/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-04T11:04:11.000Z",
-      "title": "Intellectus Partners LLC Has $30.29 Million Stock Holdings in Tesla, Inc. $TSLA",
-      "body": "Intellectus Partners LLC Has $30.29 Million Stock Holdings in Tesla, Inc. $TSLA MarketBeat",
-      "sourceName": "MarketBeat",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-intellectus-partners-llc-has-3029-million-stock-holdings-in-tesla-inc-tsla-2026-06-04/"
+      "href": "https://www.msn.com/en-us/autos/news/tesla-stock-rebounding-around-1-5-today-what-s-behind-the-move/ar-AA24EJbr"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-04T07:19:23.000Z",
       "title": "SpaceXAI just launched into your kitchen with their new app",
       "body": "SpaceXAI just powered its first consumer app and it predicts what you want to buy. The post SpaceXAI just launched into your kitchen with their new app appeared first on TESLARATI.",
@@ -199,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-04T06:50:12.000Z",
       "title": "New Tesla Supercharger: Kristiansund, Norway (8 stalls)",
       "body": "New Tesla Supercharger: Kristiansund, Norway (8 stalls) https://t.co/SYAZh6Aw49 https://t.co/44Adj2z5CC",
@@ -212,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-04T05:27:49.000Z",
       "title": "Tesla Full Self-Driving v14.3.3 driver monitoring: We tested it",
       "body": "Tesla Full Self-Driving v14.3.3 driver monitoring: We tested it Teslarati",
@@ -225,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-04T04:12:52.000Z",
       "title": "Training a model versus training a model you trust to take you home are two completely different things.",
       "body": "Training a model versus training a model you trust to take you home are two completely different things.",
@@ -238,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-04T03:10:55.000Z",
       "title": "Video is dense. Our high-fidelity video is even denser, running on the self-cooling edge with every microsecond counted.",
       "body": "Video is dense. Our high-fidelity video is even denser, running on the self-cooling edge with every microsecond counted. https://t.co/vLTUe1J426",
@@ -249,9 +236,22 @@
       "href": "https://x.com/yunta_tsai/status/2062371491279516035"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "19h ago",
+      "pubDate": "2026-06-03T20:03:43.000Z",
+      "title": "Used Cybertrucks are in demand, but that won't move Tesla stock",
+      "body": "Used Cybertrucks are in demand, but that won't move Tesla stock Yahoo Finance UK",
+      "sourceName": "Yahoo Finance UK",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://uk.finance.yahoo.com/video/used-cybertrucks-demand-wont-move-200343181.html"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21h ago",
+      "time": "23h ago",
       "pubDate": "2026-06-03T16:56:47.000Z",
       "title": "Tesla rolls out unsupervised robotaxis in Austin",
       "body": "Tesla rolls out unsupervised robotaxis in Austin Reuters",
