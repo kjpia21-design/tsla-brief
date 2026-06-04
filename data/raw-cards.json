@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-04 08:10 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-04 10:05 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-04T08:53:22.000Z",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "body": "Who is Elon Musk and what is his net worth? Yahoo! Finance Canada",
+      "sourceName": "Yahoo! Finance Canada",
+      "sourceLabel": "sec",
+      "slug": "",
+      "summary": "",
+      "href": "https://ca.finance.yahoo.com/news/elon-musk-net-worth-083738926.html"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "35m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T07:35:16.000Z",
       "title": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus",
       "body": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus Stocktwits",
@@ -17,7 +30,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "50m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T07:20:53.000Z",
       "title": "Blue Barn Wealth LLC Sells 1,481 Shares of Tesla, Inc. $TSLA",
       "body": "Blue Barn Wealth LLC Sells 1,481 Shares of Tesla, Inc. $TSLA MarketBeat",
@@ -28,9 +41,22 @@
       "href": "https://www.marketbeat.com/instant-alerts/filing-blue-barn-wealth-llc-sells-1481-shares-of-tesla-inc-tsla-2026-06-04/"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-04T07:20:46.000Z",
+      "title": "SpaceXAI just launched into your kitchen with their new app",
+      "body": "SpaceXAI just launched into your kitchen with their new app Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/spacexai-just-launched-into-your-kitchen-with-their-new-app/"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "51m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T07:19:23.000Z",
       "title": "SpaceXAI just launched into your kitchen with their new app",
       "body": "SpaceXAI just powered its first consumer app and it predicts what you want to buy. The post SpaceXAI just launched into your kitchen with their new app appeared first on TESLARATI.",
@@ -43,7 +69,20 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "3h ago",
+      "pubDate": "2026-06-04T07:14:11.000Z",
+      "title": "Wolfe Research reiterates Peerperform on Tesla stock",
+      "body": "Wolfe Research reiterates Peerperform on Tesla stock Investing.com",
+      "sourceName": "Investing.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-peerperform-on-tesla-stock-93CH-4665048"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
       "pubDate": "2026-06-04T07:08:06.000Z",
       "title": "Tesla (TSLA) Maintains Dominance in South Korean Import Car Mark",
       "body": "Tesla (TSLA) Maintains Dominance in South Korean Import Car Mark GuruFocus",
@@ -54,22 +93,9 @@
       "href": "https://www.gurufocus.com/news/8900597/tesla-tsla-maintains-dominance-in-south-korean-import-car-market"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-06-04T07:06:26.000Z",
-      "title": "The Short Seller Who Took On GameStop Just Got Convicted Of Fraud – And Says ‘This Is Not Over’",
-      "body": "The Short Seller Who Took On GameStop Just Got Convicted Of Fraud – And Says ‘This Is Not Over’ Stocktwits",
-      "sourceName": "Stocktwits",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://stocktwits.com/news-articles/markets/equity/andrew-left-short-seller-citron-research-game-stop-says-this-is-not-over/cZ0i8E0Revw"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-04T05:27:49.000Z",
       "title": "Tesla Full Self-Driving v14.3.3 driver monitoring: We tested it",
       "body": "Tesla Full Self-Driving v14.3.3 driver monitoring: We tested it Teslarati",
@@ -82,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-03T22:58:33.000Z",
       "title": "Elon Musk's net worth poised to sail past $1 trillion in SpaceX IPO",
       "body": "Elon Musk's net worth poised to sail past $1 trillion in SpaceX IPO CNBC",
@@ -95,8 +121,8 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-03T21:09:56.000Z",
+      "time": "13h ago",
+      "pubDate": "2026-06-03T21:35:29.000Z",
       "title": "Tesla piggybacks recent Supercharger feature with update that takes it further",
       "body": "Tesla piggybacks recent Supercharger feature with update that takes it further Teslarati",
       "sourceName": "Teslarati",
@@ -108,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-03T18:09:26.000Z",
       "title": "Tesla’s Vanishing & Altered FSD Contracts Spark Evidence Tampering Concerns",
       "body": "Tesla’s Vanishing & Altered FSD Contracts Spark Evidence Tampering Concerns Yahoo Finance",
@@ -119,35 +145,9 @@
       "href": "https://finance.yahoo.com/sectors/technology/articles/tesla-vanishing-altered-fsd-contracts-180926743.html"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
-      "pubDate": "2026-06-03T17:39:58.000Z",
-      "title": "Where You’ll Find a Model S on Every Other Driveway",
-      "body": "Where You’ll Find a Model S on Every Other Driveway Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/where-youll-find-a-model-s-on-every-other-driveway/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "15h ago",
-      "pubDate": "2026-06-03T17:31:15.000Z",
-      "title": "Elon Musk-Led Tesla's Former AI Trainers Do Not Trust Its Self-Driving Tech, Safety Data: Repor",
-      "body": "Elon Musk-Led Tesla's Former AI Trainers Do Not Trust Its Self-Driving Tech, Safety Data: Repor Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-led-teslas-former-173115122.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-03T17:27:41.000Z",
       "title": "Breakingviews - A SpaceX-Tesla merger may be too big to stop",
       "body": "Breakingviews - A SpaceX-Tesla merger may be too big to stop Reuters",
@@ -160,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-03T16:56:47.000Z",
       "title": "Tesla rolls out unsupervised robotaxis in Austin",
       "body": "Tesla rolls out unsupervised robotaxis in Austin Reuters",
@@ -173,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-03T16:56:23.000Z",
       "title": "Tesla rolls out unsupervised robotaxis in Austin",
       "body": "Tesla rolls out unsupervised robotaxis in Austin Yahoo! Finance Canada",
@@ -184,9 +184,22 @@
       "href": "https://ca.finance.yahoo.com/news/tesla-rolls-unsupervised-robotaxis-austin-165623402.html"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "19h ago",
+      "pubDate": "2026-06-03T15:23:00.000Z",
+      "title": "Is Tesla's FSD Supervised Gaining Momentum Across Europe?",
+      "body": "Is Tesla's FSD Supervised Gaining Momentum Across Europe? Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "sec",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/sectors/technology/articles/teslas-fsd-supervised-gaining-momentum-152300887.html"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-03T14:59:05.000Z",
       "title": "SpaceX targets $135 IPO price at valuation of $1.77 trillion",
       "body": "SpaceX targets $135 IPO price at valuation of $1.77 trillion CNBC",
@@ -199,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-06-03T14:01:00.000Z",
       "title": "Does Tesla's Improving Europe Story Change the Investment Thesis?",
       "body": "Does Tesla's Improving Europe Story Change the Investment Thesis? Yahoo Finance UK",
@@ -208,32 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://uk.finance.yahoo.com/news/does-teslas-improving-europe-story-140100479.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
-      "pubDate": "2026-06-03T10:01:03.000Z",
-      "title": "Tesla Investors Finally Get A Benchmark For The Musk Premium",
-      "body": "Tesla Investors Finally Get A Benchmark For The Musk Premium Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-investors-finally-benchmark-musk-100103238.html"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-06-03T08:16:42.000Z",
-      "title": "Tesla's China-made EV sales jump nearly 40% in May as domestic market rebounds",
-      "body": "Tesla's China-made EV sales jump nearly 40% in May as domestic market rebounds CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/03/teslas-china-made-ev-sales-surge-in-may-as-domestic-market-rebounds.html"
     },
     {
       "category": "product",
@@ -251,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-06-02T21:55:53.000Z",
       "title": "Tesla improves Dashcam playback with awesome addition",
       "body": "Tesla has improved Dashcam playback with an awesome new addition, as the company has launched a web-based version that is potentially easier to navigate and operate. The tool is available at dashcam.tesla.com and will be…",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-improves-dashcam-playback-awesome-addition/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2d ago",
+      "pubDate": "2026-06-02T14:20:20.000Z",
+      "title": "Tesla Semi tackles the Grapevine with a loaded trailer, leaves fleet operator ‘amazed’",
+      "body": "Covenant Logistics, one of the largest trucking companies in the US with a fleet of over 2,600 tractors, completed a two-week evaluation of the Tesla Semi in California — including a loaded run over the notorious Grapevi…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/06/02/covenant-logistics-tesla-semi-grapevine-test-amazed/"
     }
   ]
 }
