@@ -121,19 +121,19 @@ const SOURCES = [
 // ─────────────────────────────────────────────────────────
 
 const DOMAIN_LABEL = [
-  // sec — 1차 자료 (정부·증권·테슬라 IR·규제기관)
+  // sec — 1차 자료 (정부·증권·테슬라 IR·규제기관). 진짜 1차 자료만.
   [/(^|\.)sec\.gov$/i,           "sec"],
   [/(^|\.)nhtsa\.gov$/i,         "sec"],   // NHTSA 리콜 (규제기관 1차)
   [/(^|\.)ir\.tesla\.com$/i,     "sec"],
-  [/finance\.yahoo\.com/i,       "sec"],   // Yahoo Finance 는 1차 fee data 간주
-  [/(^|\.)nasdaq\.com$/i,        "sec"],
 
   // official — 공식 발언·테슬라 PR·일론 X
   [/(^|\.)tesla\.com$/i,         "official"],
   [/(^|\.)x\.com$/i,             "official"],
   [/(^|\.)twitter\.com$/i,       "official"],
 
-  // press — 외신·전문매체
+  // press — 외신·전문매체 (재배포·애그리게이터 포함 — Yahoo/Nasdaq 는 1차 아님)
+  [/finance\.yahoo\.com/i,       "press"],
+  [/(^|\.)nasdaq\.com$/i,        "press"],
   [/(^|\.)reuters\.com$/i,       "press"],
   [/(^|\.)bloomberg\.com$/i,     "press"],
   [/(^|\.)cnbc\.com$/i,          "press"],
@@ -179,8 +179,6 @@ const DOMAIN_TIER = [
   [/(^|\.)nhtsa\.gov$/i,      6],
   [/(^|\.)ir\.tesla\.com$/i,  7],
   [/(^|\.)tesla\.com$/i,      7],
-  [/finance\.yahoo\.com/i,    6],
-  [/(^|\.)nasdaq\.com$/i,     6],
 
   // tier-1 통신사·주요 경제지
   [/(^|\.)reuters\.com$/i,    8],
@@ -198,6 +196,8 @@ const DOMAIN_TIER = [
   [/(^|\.)theverge\.com$/i,   4],
   [/(^|\.)cnet\.com$/i,       3],
   [/(^|\.)engadget\.com$/i,   3],
+  [/finance\.yahoo\.com/i,    3],   // 재배포 애그리게이터 — 1차 아님
+  [/(^|\.)nasdaq\.com$/i,     3],
 
   // 일론 직접 발언(소셜) — 가치 있지만 검증 약함
   [/(^|\.)x\.com$/i,          3],
