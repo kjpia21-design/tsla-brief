@@ -575,6 +575,41 @@ async function fetchX(accounts) {
   return out;
 }
 
+// X 지속성 — 직전 raw-cards.json 의 최근 X 카드를 후보로 되살린다.
+//   X 는 하루 4회만 호출하므로, 그 사이 비-X 페치가 raw 를 덮어써도 X 가 사라지지 않게 한다.
+//   sourceName 끝의 "(X)" 로 X 카드 식별, X_RECENT_HOURS 이내만 유지.
+//   반환: { category, item(버킷 형태) } 배열. (OUT_PATH 가 아직 이번 실행으로 덮이기 전에 호출)
+async function loadPrevXCards() {
+  try {
+    const prev = JSON.parse(await readFile(OUT_PATH, "utf8"));
+    const cutoff = Date.now() - X_RECENT_HOURS * 3_600_000;
+    const out = [];
+    for (const c of (prev.items || [])) {
+      if (!/\(X\)\s*$/.test(c.sourceName || "")) continue;
+      const ts = Date.parse(c.pubDate) || 0;
+      if (ts < cutoff) continue;               // 18h 초과 → 폐기
+      const href = c.href || "";
+      out.push({
+        category: c.category,
+        item: {
+          title: c.title,
+          link: href,
+          sourceUrl: href,
+          description: c.body || c.summary || c.title || "",
+          pubDate: c.pubDate || "",
+          ts,
+          label: c.sourceLabel || "press",
+          host: "x.com",
+          sourceName: c.sourceName,
+        },
+      });
+    }
+    return out;
+  } catch {
+    return [];   // 파일 없음/파싱 실패 → 무시
+  }
+}
+
 // ─────────────────────────────────────────────────────────
 // 메인 페치 루프
 // ─────────────────────────────────────────────────────────
@@ -771,6 +806,15 @@ async function main() {
       console.warn(`[fetch-news] ${src.category.padEnd(8)} ← FAIL · ${e.message} · ${src.url}`);
     }
   }));
+
+  // X 지속성 — 이번 실행에서 X 를 안 불렀어도(시각 가드/토큰 부재) 직전 raw 의 최근 X 카드를
+  // 후보로 되살린다. 비-X 페치가 X 를 덮어써 사라지던 문제 해결. 중복은 아래 prefix dedup 이 처리.
+  const prevX = await loadPrevXCards();
+  let carried = 0;
+  for (const { category, item } of prevX) {
+    if (buckets[category]) { buckets[category].push(item); carried += 1; }
+  }
+  if (carried) console.log(`[fetch-news] X 지속성 — 직전 raw 의 최근 X 카드 ${carried}건 후보 유지`);
 
   // 카테고리당 top N건 + 중복 제거 (같은 host + 같은 prefix 4단어)
   const picks = [];
