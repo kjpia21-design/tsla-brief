@@ -81,7 +81,7 @@ const X_ACCOUNTS = [
   { username: "larsmoravy",    id: "716024533363208192",  name: "Lars Moravy",      label: "official", category: "product" },
   { username: "yunta_tsai",    id: "1577705091737432070", name: "Yun-Ta Tsai",      label: "official", category: "fsd" },
   // 인플루언서·애널리스트(보도·의견 → press)
-  { username: "SawyerMerritt", id: "243013409",           name: "Sawyer Merritt",   label: "press",    category: null },
+  // (SawyerMerritt 제외 — 비-테슬라 트윗(스포츠·SpaceX 등)이 오해 카드로 유입돼 2026-06 제거)
   { username: "DivesTech",     id: "1082353582228176896", name: "Dan Ives",         label: "press",    category: "stock" },
   { username: "JoeTegtmeyer",  id: "1288973134339739648", name: "Joe Tegtmeyer",    label: "press",    category: null },
   { username: "teslaownersSV", id: "1016059981907386368", name: "Tesla Owners SV",  label: "press",    category: null },
