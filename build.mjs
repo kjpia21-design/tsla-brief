@@ -10,7 +10,7 @@
  * 의존성 0. Node 20+ 권장.
  */
 
-import { readFile, writeFile, mkdir, cp } from "node:fs/promises";
+import { readFile, writeFile, mkdir, cp, rm } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
@@ -311,6 +311,25 @@ async function readJson(name) {
   }
 }
 
+// 빌드 시 라이브 시세 — Worker API(api.teslabriefing.com)에서 가져와 초기 렌더를 신선하게.
+// (JS 안 도는 공유 봇·스크래퍼도 최신 시세를 보게 함. JS 사용자는 클라이언트 폴링이 추가 갱신.)
+// 실패하면 data/kpi.json 폴백 — 네트워크 없는 환경/Worker 다운 대비. 빌드는 절대 실패하지 않음.
+async function loadLivePrice() {
+  try {
+    const res = await fetch("https://api.teslabriefing.com/?ts=" + Date.now(), {
+      signal: AbortSignal.timeout(10000),
+    });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const d = await res.json();
+    if (typeof d.price !== "number") throw new Error("no price field");
+    console.log(`[build] 라이브 시세 사용 · $${d.price.toFixed(2)} (${d.asOf})`);
+    return d;
+  } catch (e) {
+    console.warn(`[build] 라이브 시세 실패(${e.message}) → kpi.json 폴백`);
+    return await readJson("kpi.json");
+  }
+}
+
 const SOURCE_LABEL_KR = {
   sec: "1차 자료", official: "공식", press: "외신", rumor: "추측",
 };
@@ -345,13 +364,25 @@ function renderArticle(template, card, lang = "ko") {
   const srcKr = SOURCE_LABEL_KR[srcLabel] || "외신";
   const sourceName = card.sourceName || "외신";
 
-  // summary 단락 분리: \n\n+ 으로 split. 빈 단락 제거.
-  const summaryHtml = (card.summary || card.body || "")
-    .split(/\n{2,}/)
-    .map((p) => p.trim())
-    .filter(Boolean)
-    .map((p) => `<p>${escapeHtml(p)}</p>`)
-    .join("\n    ");
+  // 리드/본문 중복 제거:
+  //  - 리드(art__lead)는 짧은 도입(card.body), 본문(art__summary)은 상술(card.summary).
+  //  - body 가 summary 첫 단락과 거의 같으면 본문에서 그 단락을 빼 중복을 막는다.
+  //  - body 가 없으면 summary 첫 단락을 리드로 승격.
+  const normTxt = (s) => (s || "").replace(/<\/?em>/g, "").replace(/[\s\p{P}]+/gu, "").toLowerCase();
+  let paras = (card.summary || "").split(/\n{2,}/).map((p) => p.trim()).filter(Boolean);
+  const bodyText = (card.body || "").trim();
+  let leadText;
+  if (bodyText) {
+    leadText = bodyText;
+    if (paras.length) {
+      const a = normTxt(bodyText), b = normTxt(paras[0]);
+      const sh = a.length <= b.length ? a : b, lo = a.length <= b.length ? b : a;
+      if (sh.length >= 20 && lo.startsWith(sh)) paras.shift();   // 첫 단락이 리드와 중복 → 제거
+    }
+  } else {
+    leadText = paras.length ? paras.shift() : "";
+  }
+  const summaryHtml = paras.map((p) => `<p>${escapeHtml(p)}</p>`).join("\n    ");
 
   const titleTxt = card.title.replace(/<\/?em>/g, "");
   const desc = (card.summary || card.body || "").slice(0, 120).replace(/\n+/g, " ").trim() + "…";
@@ -371,8 +402,8 @@ function renderArticle(template, card, lang = "ko") {
   out = replaceBlock(out, "A_SRC_NAME",     escapeHtml(sourceName), opts);
   out = replaceBlock(out, "A_SRC_NAME2",    escapeHtml(sourceName), opts);
   out = replaceBlock(out, "A_SRC_LABEL_KR", escapeHtml(srcKr), opts);
-  out = replaceBlock(out, "A_LEAD",         escapeHtml(card.body || ""), opts);
-  out = replaceBlock(out, "A_SUMMARY",      summaryHtml || `<p>${escapeHtml(card.body || "")}</p>`, opts);
+  out = replaceBlock(out, "A_LEAD",         escapeHtml(leadText), opts);
+  out = replaceBlock(out, "A_SUMMARY",      summaryHtml, opts);
   out = replaceBlock(out, "A_HREF",         escapeHtml(card.href || "#"), opts);
   return out;
 }
@@ -415,6 +446,9 @@ async function generateArticles(cards, { outDir = OUT_DIR, lang = "ko" } = {}) {
     return 0;
   }
   const articlesDir = path.join(outDir, "articles");
+  // 매 빌드마다 청소 — 아카이브에서 밀려난 옛 슬러그 기사(잔재)가 남지 않게.
+  // (Cloudflare 는 매 배포가 fresh 라 무관하지만, 로컬-프로덕션 일치 + 위생)
+  await rm(articlesDir, { recursive: true, force: true });
   await mkdir(articlesDir, { recursive: true });
   let generated = 0;
   for (const card of cards.items) {
@@ -443,7 +477,7 @@ async function buildOneLang(opts) {
 
   // 데이터 읽기. cards-en.json 없으면 폴백 (raw-cards.json).
   const template = await readFile(templatePath, "utf8");
-  const kpi = await readJson("kpi.json");
+  const kpi = await loadLivePrice();
   const videos = await readJson("videos.json");
   let cards;
   try {

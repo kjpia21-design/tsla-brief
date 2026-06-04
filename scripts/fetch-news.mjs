@@ -203,18 +203,38 @@ const DOMAIN_TIER = [
   [/(^|\.)x\.com$/i,          3],
   [/(^|\.)twitter\.com$/i,    3],
 
+  // 저품질·SEO 금융 애그리게이터 — 카드 채울 게 없을 때만 통과하도록 강한 감점.
+  // (tier-1 통신사가 같은 사안을 다루면 항상 그쪽이 채택되게)
+  [/(^|\.)marketbeat\.com$/i,    -5],
+  [/(^|\.)tipranks\.com$/i,      -5],
+  [/(^|\.)tradersunion\.com$/i,  -6],
+  [/(^|\.)meyka\.com$/i,         -6],
+  [/(^|\.)simplywall\.st$/i,     -5],
+  [/(^|\.)stocktitan\.net$/i,    -5],
+  [/(^|\.)insidermonkey\.com$/i, -5],
+  [/(^|\.)zacks\.com$/i,         -4],
+  [/(^|\.)fool\.com$/i,          -4],
+  [/(^|\.)benzinga\.com$/i,      -4],
+  [/(^|\.)gurufocus\.com$/i,     -4],
+  [/(^|\.)investing\.com$/i,     -3],
+
   // rumor — 커뮤니티·블로그. 강한 감점
   [/(^|\.)reddit\.com$/i,    -8],
   [/(^|\.)medium\.com$/i,    -8],
   [/(^|\.)substack\.com$/i,  -8],
 ];
-const DEFAULT_TIER = -3; // 분류 안 된 도메인 (비영어권·무명 매체 포함) — 약한 감점
+const DEFAULT_TIER = -3; // 분류 안 된 도메인 (무명 매체 포함) — 약한 감점
+
+// 비영어권 ccTLD — 영어 1차 매체 우선 원칙상 사실상 제외(카드 부족 시에만 통과).
+// 영어권(.uk/.au/.ca/.ie/.nz/.in/.sg/.za)과 일반 .co(electrek.co 등은 위에서 이미 분류)는 제외.
+const NONENG_TLD = /\.(kr|jp|cn|tw|hk|de|fr|es|it|nl|se|no|fi|dk|pl|ru|br|pt|tr|gr|cz|hu|ro|vn|th|id|sa|ae|il|ir|mx|ar)$/i;
 
 function tierBonus(host) {
   if (!host) return DEFAULT_TIER;
   for (const [re, score] of DOMAIN_TIER) {
     if (re.test(host)) return score;
   }
+  if (NONENG_TLD.test(host)) return -9; // 비영어권 — 사실상 제외
   return DEFAULT_TIER;
 }
 
