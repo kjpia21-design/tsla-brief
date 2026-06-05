@@ -98,7 +98,7 @@ function formatAsOfET(s) {
   const t = Date.parse(String(s).replace(" UTC", "Z").replace(" ", "T"));
   if (Number.isNaN(t)) return s;
   const d = new Date(t);
-  const wd = d.toLocaleDateString("ko-KR", { timeZone: "America/New_York", weekday: "short" });
+  const wd = d.toLocaleDateString("en-US", { timeZone: "America/New_York", weekday: "short" });
   const hm = d.toLocaleTimeString("en-GB", { timeZone: "America/New_York", hour: "2-digit", minute: "2-digit", hour12: false });
   return `${wd} ${hm} ET`;
 }
