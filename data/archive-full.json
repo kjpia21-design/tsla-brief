@@ -1,6 +1,20 @@
 {
-  "asOf": "2026-06-05 11:25 UTC · 누적 173건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-05 13:20 UTC · 누적 174건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-06-05T09:59:28.000Z",
+      "title": "사이버트럭 유럽 상륙 — <em>스티어-바이-와이어</em> 인증이 핵심 과제",
+      "body": "스위스·EU에서 사이버트럭 합법 운행을 위한 형식승인 작업이 진행 중이다. 스티어-바이-와이어 시스템의 EU 안전 인증이 핵심 장벽으로, 특수 테스트 장비로 조향 이중화를 선택적으로 차단하는 검증 절차가 이뤄지고 있다.",
+      "sourceName": "Joe Tegtmeyer (X)",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-eu-steer-by-wire-cert-2026-06-05",
+      "summary": "테슬라 콘텐츠 크리에이터 겸 분석가 조 텍트마이어(Joe Tegtmeyer)가 스위스 현지에서 사이버트럭 유럽 형식승인(Homologation) 작업 현장을 직접 취재했다. 핵심 기술 장벽은 사이버트럭 특유의 스티어-바이-와이어(Steer-by-Wire·SbW) 시스템을 EU·스위스 교통 안전 규정에 맞게 인증받는 것이다.\n\n스티어-바이-와이어는 기계식 조향축 없이 전기 신호로만 바퀴를 제어하는 방식으로, EU 인증에서는 이 시스템의 조향 이중화(redundancy)가 부분 고장 시에도 작동함을 특수 테스트 장비로 입증해야 한다. 각 조향 경로를 선택적으로 차단하며 안전성을 검증하는 절차로, 이 단계를 통과해야만 유럽 공도 주행 허가가 가능하다.\n\n현장 작업은 스위스의 독립 테슬라 딜러·서비스 센터 'Teslab.ct'를 중심으로 진행 중이다. 사이버트럭의 혁신적인 드라이브 아키텍처가 역설적으로 유럽 규제 진입의 가장 높은 장벽이 된 셈이다.\n\n사이버트럭의 유럽 형식승인이 완료되면 테슬라의 고가 픽업·SUV 세그먼트 점유율이 크게 확대될 수 있다. 북미 외 사이버트럭 판매는 전례가 없어, 유럽 인증 성공 시 향후 글로벌 확장의 시금석이 될 전망이다.",
+      "href": "https://x.com/JoeTegtmeyer/status/2062836694156513529",
+      "hot": 5
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
