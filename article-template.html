@@ -63,6 +63,8 @@
     white-space:nowrap;
   }
   .brand__text em{color:var(--tesla-red);font-style:italic;font-weight:700}
+  /* 메인 페이지 로고와 동일하게 — 데스크톱에서 살짝 확대 */
+  @media (min-width:768px){ .brand__block{padding:5px 9px;font-size:13px} .brand__text{font-size:19px} }
   .nav__back{
     font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink);font-weight:600;
     padding:8px 14px;border:1px solid var(--line);border-radius:var(--r-pill);
