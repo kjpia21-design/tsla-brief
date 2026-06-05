@@ -24,10 +24,11 @@ const GH_REF = "master";
 const GH_DISPATCH_KEY = "gh:lastdispatch";
 const GH_DISPATCH_INTERVAL_MS = 115 * 60 * 1000; // ~2h (5분 cron 단위라 115분이면 다음 tick 에 ~2h)
 
-// Yahoo Finance 두 호스트 폴백 (rate-limit 회피)
+// Yahoo Finance 두 호스트 폴백 (rate-limit 회피).
+// includePrePost=true + 2분봉 → 프리/애프터장 체결가까지 close 배열에 포함됨.
 const URLS = [
-  `https://query2.finance.yahoo.com/v8/finance/chart/${SYMBOL}?interval=1d&range=1d`,
-  `https://query1.finance.yahoo.com/v8/finance/chart/${SYMBOL}?interval=1d&range=1d`,
+  `https://query2.finance.yahoo.com/v8/finance/chart/${SYMBOL}?interval=2m&range=1d&includePrePost=true`,
+  `https://query1.finance.yahoo.com/v8/finance/chart/${SYMBOL}?interval=2m&range=1d&includePrePost=true`,
 ];
 
 // CORS — 라이브 도메인 + 미리보기 둘 다 허용
@@ -108,14 +109,29 @@ async function fetchAndStore(env) {
   if (!result?.meta) throw new Error("invalid yahoo response shape");
 
   const m = result.meta;
-  const price = m.regularMarketPrice;
+  const reg = m.regularMarketPrice;
   const prevClose = m.chartPreviousClose ?? m.previousClose;
-  if (typeof price !== "number" || typeof prevClose !== "number") {
+  if (typeof reg !== "number" || typeof prevClose !== "number") {
     throw new Error("price fields missing");
   }
-  const change = price - prevClose;
-  const changePct = (change / prevClose) * 100;
   const ms = deriveMarketState(m);
+
+  // 연장거래 마지막 체결가 — includePrePost 배열의 마지막 유효 close.
+  const closes = result?.indicators?.quote?.[0]?.close || [];
+  let ext = null;
+  for (let i = closes.length - 1; i >= 0; i--) {
+    if (typeof closes[i] === "number") { ext = closes[i]; break; }
+  }
+
+  // 시장 상태별 표시가 + 변동 기준:
+  //  · 프리장  → 프리 체결가, 전일 종가 대비
+  //  · 애프터  → 애프터 체결가, 당일 정규 종가 대비
+  //  · 정규/마감 → 정규가, 전일 종가 대비
+  let price = reg, base = prevClose;
+  if (ms.short === "PRE" && ext != null) { price = ext; base = prevClose; }
+  else if (ms.short === "POST" && ext != null) { price = ext; base = reg; }
+  const change = price - base;
+  const changePct = (change / base) * 100;
 
   const out = {
     asOf: new Date().toISOString().slice(0, 16).replace("T", " ") + " UTC",

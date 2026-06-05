@@ -230,7 +230,8 @@
     line-height:1.1;flex-shrink:0;
   }
   .price-bar__price small{font-size:11px;color:var(--ink-mute);margin-right:4px;font-weight:600;letter-spacing:.04em}
-  .price-bar__change{font-size:13px;font-weight:700;flex-shrink:0}
+  /* 모바일(<520px): 변동폭 숨김 — 기준시간(asOf) 우선 노출 */
+  .price-bar__change{font-size:13px;font-weight:700;flex-shrink:0;display:none}
   .price-bar__change.up{color:var(--up)}
   .price-bar__change.down{color:var(--down)}
   /* 모바일: 짧은 형태(.pb-short), ≥520px: 풀 형태(.pb-full) */
@@ -255,21 +256,22 @@
   .price-bar__pill.is-pre::before{background:var(--c-fsd);box-shadow:0 0 6px var(--c-fsd)}
   .price-bar__pill.is-post::before{background:var(--c-musk);box-shadow:0 0 6px var(--c-musk)}
   .price-bar__pill.is-closed::before{background:var(--ink-mute)}
-  .price-bar__range{color:var(--ink-mid);font-weight:500;font-size:11px;overflow:hidden;text-overflow:ellipsis}
+  /* 모바일(<520px): 범위도 숨김 — 기준시간 우선 */
+  .price-bar__range{display:none;color:var(--ink-mid);font-weight:500;font-size:11px;overflow:hidden;text-overflow:ellipsis}
   .price-bar__range b{display:none}  /* 모바일: "오늘" 라벨 숨김 (공간 절약) */
-  /* 모바일에선 asOf 숨김 — 한 줄에 다 못 들어감 */
-  .price-bar__asof{display:none;color:var(--ink-mute);font-size:10.5px;letter-spacing:.04em;margin-left:auto}
+  /* 모바일: asOf(현재 기준시간) 노출 — 변동폭보다 우선 */
+  .price-bar__asof{display:inline-block;color:var(--ink-mid);font-size:10.5px;letter-spacing:.02em;margin-left:auto;flex-shrink:0}
 
   /* ≥520px: 폰트 크기 회복 + asOf 노출 + "오늘" 라벨 다시 보이게 */
   @media (min-width: 520px){
     .price-bar__box{padding:14px 16px;gap:12px;overflow:visible;white-space:normal;flex-wrap:wrap}
     .price-bar__price{font-size:22px}
     .price-bar__price small{font-size:13px}
-    .price-bar__change{font-size:14px}
+    .price-bar__change{font-size:14px;display:inline-flex}
     .price-bar__meta{flex:1;gap:6px 12px;font-size:12px;min-width:auto}
     .price-bar__pill{padding:3px 9px;font-size:11px;gap:6px}
     .price-bar__pill::before{width:6px;height:6px}
-    .price-bar__range{font-size:12px}
+    .price-bar__range{font-size:12px;display:inline-block}
     .price-bar__range b{display:inline;color:var(--ink-mute);font-weight:600;margin-right:4px;letter-spacing:.06em;font-size:10.5px;text-transform:uppercase}
     .price-bar__asof{display:inline-block;margin-left:auto}
     .pb-full{display:inline}
