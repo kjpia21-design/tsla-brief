@@ -1,23 +1,62 @@
 {
-  "asOf": "2026-06-05 07:35 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-05 09:30 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "14m ago",
-      "pubDate": "2026-06-05T07:21:34.000Z",
-      "title": "43,000 Shares in Tesla, Inc. $TSLA Acquired by Arrowpoint Investment Partners Singapore Pte. Ltd.",
-      "body": "43,000 Shares in Tesla, Inc. $TSLA Acquired by Arrowpoint Investment Partners Singapore Pte. Ltd. MarketBeat",
-      "sourceName": "MarketBeat",
+      "time": "5m ago",
+      "pubDate": "2026-06-05T09:25:23.000Z",
+      "title": "JPMorgan abandons bearish Tesla stance, skyrocketing price target 227% to $475 (TSLA:NASDAQ)",
+      "body": "JPMorgan abandons bearish Tesla stance, skyrocketing price target 227% to $475 (TSLA:NASDAQ) Seeking Alpha",
+      "sourceName": "Seeking Alpha",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-43000-shares-in-tesla-inc-tsla-acquired-by-arrowpoint-investment-partners-singapore-pte-ltd-2026-06-05/"
+      "href": "https://seekingalpha.com/news/4600910-jpmorgan-abandons-bearish-tesla-stance-skyrocketing-price-target-227-to-475"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "47m ago",
+      "pubDate": "2026-06-05T08:43:47.000Z",
+      "title": "Tesla stock drops. OpenAI is coming for one line of its business.",
+      "body": "Tesla stock drops. OpenAI is coming for one line of its business. MSN",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.msn.com/en-us/money/savingandinvesting/tesla-stock-drops-openai-is-coming-for-one-line-of-its-business/ar-AA24y89A"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-05T08:14:50.000Z",
+      "title": "Bitcoin selloff wipes over $220M in value from Tesla's crypto treasury (TSLA:NASDAQ)",
+      "body": "Bitcoin selloff wipes over $220M in value from Tesla's crypto treasury (TSLA:NASDAQ) Seeking Alpha",
+      "sourceName": "Seeking Alpha",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://seekingalpha.com/news/4600928-bitcoin-selloff-wipes-over-220m-in-value-from-teslas-crypto-treasury"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-05T07:36:19.000Z",
+      "title": "Wolfe Research reiterates Peerperform on Tesla stock",
+      "body": "Wolfe Research reiterates Peerperform on Tesla stock Investing.com",
+      "sourceName": "Investing.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-peerperform-on-tesla-stock-93CH-4665048"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "16m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-05T07:19:15.000Z",
       "title": "29 more Starlink satellites. Over 10,000 in orbit now.",
       "body": "29 more Starlink satellites. Over 10,000 in orbit now. https://t.co/QlP4LdWLPf",
@@ -30,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "18m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-05T07:18:08.000Z",
       "title": "Grok supports worktrees",
       "body": "Grok supports worktrees https://t.co/kOdMCNgWal",
@@ -43,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-05T07:16:01.000Z",
       "title": "Grok Build updates",
       "body": "Grok Build updates https://t.co/AANi4hBmSD",
@@ -56,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "22m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-05T07:13:52.000Z",
       "title": "Grok model improvement",
       "body": "Grok model improvement https://t.co/OmAmdVSdU2",
@@ -69,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "25m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-05T07:10:29.000Z",
       "title": "I’ve never been asked to sign a car before now but Marc, one of the 1st @Cybertruck owners in Switzerland asked me to…",
       "body": "I’ve never been asked to sign a car before now but Marc, one of the 1st @Cybertruck owners in Switzerland asked me to do so! What an honor! https://t.co/PPjeJoIrpq",
@@ -82,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "59m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-05T06:36:45.000Z",
       "title": "If you live in Switzerland or Europe and you are interested in owning &amp; importing a @Tesla @Cybertruck, you absol…",
       "body": "If you live in Switzerland or Europe and you are interested in owning &amp; importing a @Tesla @Cybertruck, you absolutely must see the work going on in Switzerland by https://t.co/i5QUJuwtuu and a young man named Raven!…",
@@ -95,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-05T05:22:45.000Z",
       "title": "Day 3 of my European trip had us stop at @Teslab_ct , a Tesla-independent dealer &amp; Service Center run by Raven, a…",
       "body": "Day 3 of my European trip had us stop at @Teslab_ct , a Tesla-independent dealer &amp; Service Center run by Raven, a young and enthusiastic @Tesla fan who is leading the efforts to homologate @cybertruck for legal use i…",
@@ -108,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-05T04:53:42.000Z",
       "title": "Under capitalism, building a product proves an idea that works well enough for people willing to pay for mutual benef…",
       "body": "Under capitalism, building a product proves an idea that works well enough for people willing to pay for mutual benefits. The free flow of capital provides high-fidelity information for reinforcement learning. In contras…",
@@ -121,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-05T04:23:36.000Z",
       "title": "Yes, SPLC is a criminal organization",
       "body": "Yes, SPLC is a criminal organization https://t.co/JInhIgT6Ag",
@@ -132,22 +171,9 @@
       "href": "https://x.com/elonmusk/status/2062752172450681051"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-06-05T03:59:01.000Z",
-      "title": "Where Will Tesla Stock Be in 3 Years?",
-      "body": "Where Will Tesla Stock Be in 3 Years? The Motley Fool",
-      "sourceName": "The Motley Fool",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.fool.com/investing/2026/06/04/where-will-tesla-stock-be-in-3-years/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-05T01:55:00.000Z",
       "title": "Tesla erases the past, CAT electrifies the future, and EV tech training TODAY",
       "body": "On today’s time-traveling episode of Quick Charge, Tesla might be trying to erase evidence of FSD fraud, Caterpillar keeps trying to electrify the construction space, and time is rapidly running out on what’s left of the…",
@@ -160,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-05T01:08:00.000Z",
       "title": "Tesla Robotaxi Expansion And Global Sales Rebound Test Long Term Thesis",
       "body": "Tesla Robotaxi Expansion And Global Sales Rebound Test Long Term Thesis Yahoo Finance",
@@ -173,33 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
-      "pubDate": "2026-06-05T00:41:13.000Z",
-      "title": "Tesla (TSLA) stock sinks as market gains: What you should know",
-      "body": "Tesla (TSLA) stock sinks as market gains: What you should know MSN",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.msn.com/en-us/money/topstocks/tesla-tsla-stock-sinks-as-market-gains-what-you-should-know/ar-AA24RGu5"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-04T23:52:05.000Z",
-      "title": "The Short Seller Who Took On GameStop Just Got Convicted Of Fraud – And Says ‘This Is Not Over’",
-      "body": "The Short Seller Who Took On GameStop Just Got Convicted Of Fraud – And Says ‘This Is Not Over’ Stocktwits",
-      "sourceName": "Stocktwits",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://stocktwits.com/news-articles/markets/equity/andrew-left-short-seller-citron-research-game-stop-says-this-is-not-over/cZ0i8E0Revw"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "13h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-04T19:02:12.000Z",
       "title": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst",
       "body": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst Teslarati",
@@ -212,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-04T18:32:03.000Z",
       "title": "Space is not for the faint of heart. Out there, there’s no soul except your consciousness, nor gold to seek fortune. …",
       "body": "Space is not for the faint of heart. Out there, there’s no soul except your consciousness, nor gold to seek fortune. Only bravery, endless wonder, and plenty of empty canvas for you to build from zero to one.",
@@ -225,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-04T17:44:23.000Z",
       "title": "When the real footage looks more futuristic than AI can possibly imagine.",
       "body": "When the real footage looks more futuristic than AI can possibly imagine. https://t.co/hz0zqbcotT",
@@ -238,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-04T11:26:52.000Z",
       "title": "Tesla hit with class action in Quebec over up to $400m in heat pump failures",
       "body": "A Quebec Tesla owner has filed a class action request against Tesla over heat pump failures, seeking damages for all Tesla owners in the province after being stuck with a $4,477 repair bill when her Model 3’s heat pump d…",
