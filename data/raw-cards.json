@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-04 23:50 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-05 01:45 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "38m ago",
+      "pubDate": "2026-06-05T01:08:00.000Z",
+      "title": "Tesla Robotaxi Expansion And Global Sales Rebound Test Long Term Thesis",
+      "body": "Tesla Robotaxi Expansion And Global Sales Rebound Test Long Term Thesis Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-robotaxi-expansion-global-sales-010836584.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "58m ago",
+      "pubDate": "2026-06-05T00:47:26.000Z",
+      "title": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know",
+      "body": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know sharewise.com",
+      "sourceName": "sharewise.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.sharewise.com/de/news_articles/Tesla_TSLA_Stock_Sinks_As_Market_Gains_What_You_Should_Know_Zacks_20260604_2345"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-04T23:52:05.000Z",
+      "title": "The Short Seller Who Took On GameStop Just Got Convicted Of Fraud – And Says ‘This Is Not Over’",
+      "body": "The Short Seller Who Took On GameStop Just Got Convicted Of Fraud – And Says ‘This Is Not Over’ Stocktwits",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://stocktwits.com/news-articles/markets/equity/andrew-left-short-seller-citron-research-game-stop-says-this-is-not-over/cZ0i8E0Revw"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T22:27:54.000Z",
       "title": "At the Tesla Takeover about to interview Maye Musk @TeslaClubAT @teardowntitan @kdallasAT",
       "body": "At the Tesla Takeover about to interview Maye Musk @TeslaClubAT @teardowntitan @kdallasAT https://t.co/o4J7K6HMSh",
@@ -17,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-04T22:26:04.000Z",
       "title": "Starlink V3 satellites have &gt;10X bandwidth of V2 and there’ll be &gt;10X launched, which means &gt;100X more bandw…",
       "body": "Starlink V3 satellites have &gt;10X bandwidth of V2 and there’ll be &gt;10X launched, which means &gt;100X more bandwidth. Also, altitude will be 350km vs 550km, so min latency can be cut in half. Light travels 300km/ms …",
@@ -28,35 +67,9 @@
       "href": "https://x.com/elonmusk/status/2062662195192697233"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-04T21:58:03.000Z",
-      "title": "Hanging out with @TeslaOwnersSLO",
-      "body": "Hanging out with @TeslaOwnersSLO https://t.co/f43J3QYiTV",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2062655144337068227"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-04T21:45:02.000Z",
-      "title": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know",
-      "body": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-sinks-market-214502234.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-04T21:30:06.000Z",
       "title": "Tesla (NASDAQ:TSLA) Shares Down 1.2% - Should You Sell?",
       "body": "Tesla (NASDAQ:TSLA) Shares Down 1.2% - Should You Sell? MarketBeat",
@@ -69,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-04T20:51:34.000Z",
       "title": "SpaceX IPO info",
       "body": "SpaceX IPO info https://t.co/mSsriwGoWo",
@@ -82,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-04T19:13:28.000Z",
       "title": "This provides some sense of scale",
       "body": "This provides some sense of scale https://t.co/gj76JGpCUk",
@@ -95,7 +108,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-04T19:02:12.000Z",
       "title": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst",
       "body": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst Teslarati",
@@ -108,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-04T18:32:03.000Z",
       "title": "Space is not for the faint of heart. Out there, there’s no soul except your consciousness, nor gold to seek fortune. …",
       "body": "Space is not for the faint of heart. Out there, there’s no soul except your consciousness, nor gold to seek fortune. Only bravery, endless wonder, and plenty of empty canvas for you to build from zero to one.",
@@ -119,22 +132,9 @@
       "href": "https://x.com/yunta_tsai/status/2062603303830335800"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-04T18:23:40.000Z",
-      "title": "Global Electric Vehicle Sales Rose 16% in April, Led by Tesla (TSLA)",
-      "body": "Global Electric Vehicle Sales Rose 16% in April, Led by Tesla (TSLA) TipRanks",
-      "sourceName": "TipRanks",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.tipranks.com/news/global-electric-vehicle-sales-rose-16-in-april-led-by-tesla-tsla"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-04T18:15:31.000Z",
       "title": "Tesla Hardware 3 owners could be made whole this month",
       "body": "Tesla Hardware 3 owners could be made whole this month Teslarati",
@@ -145,22 +145,9 @@
       "href": "https://www.teslarati.com/tesla-hardware-3-owners-made-whole-this-month/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-04T17:56:07.000Z",
-      "title": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity",
-      "body": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity AOL.com",
-      "sourceName": "AOL.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.aol.com/articles/prediction-tesla-stock-buy-2029-202500000.html"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-04T17:44:23.000Z",
       "title": "When the real footage looks more futuristic than AI can possibly imagine.",
       "body": "When the real footage looks more futuristic than AI can possibly imagine. https://t.co/hz0zqbcotT",
@@ -171,9 +158,35 @@
       "href": "https://x.com/yunta_tsai/status/2062591307865026846"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "10h ago",
+      "pubDate": "2026-06-04T16:00:33.000Z",
+      "title": "Tesla stock is down around 1% on Thursday: what's hurting the EV stock?",
+      "body": "Tesla stock is down around 1% on Thursday: what's hurting the EV stock? TradingView",
+      "sourceName": "TradingView",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tradingview.com/news/invezz:60df3107e094b:0-tesla-stock-is-down-around-1-on-thursday-what-s-hurting-the-ev-stock/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10h ago",
+      "pubDate": "2026-06-04T15:46:09.000Z",
+      "title": "Grok Imagine one-shots the Battle of Red Cliffs (赤壁之戰), the famous epic Chinese battle in 208 AD.",
+      "body": "Grok Imagine one-shots the Battle of Red Cliffs (赤壁之戰), the famous epic Chinese battle in 208 AD. https://t.co/6ft5U0zT3r",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2062561555347320904"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-04T13:09:53.000Z",
       "title": "New Tesla Supercharger: Carpiquet, France (8 stalls)",
       "body": "New Tesla Supercharger: Carpiquet, France (8 stalls) https://t.co/8gLw5gTdVx https://t.co/gp9HWt6tD2",
@@ -184,22 +197,9 @@
       "href": "https://x.com/TeslaCharging/status/2062522226591907957"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
-      "pubDate": "2026-06-04T12:41:08.000Z",
-      "title": "Tons of phantom braking on hardware 4 Model 𝕏 in Germany with enhanced autopilot. Not sure what’s going on. Cc @aell…",
-      "body": "Tons of phantom braking on hardware 4 Model 𝕏 in Germany with enhanced autopilot. Not sure what’s going on. Cc @aelluswamy @Tesla_AI",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2062514990238539965"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-04T12:15:34.000Z",
       "title": "Greding Germany Supercharger stop 1 as we go to the Tesla Takeover Europe @TeslaClubAT",
       "body": "Greding Germany Supercharger stop 1 as we go to the Tesla Takeover Europe @TeslaClubAT https://t.co/ERBRTPDL4D https://t.co/m9HVeBBXMC",
@@ -212,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-04T11:26:52.000Z",
       "title": "Tesla hit with class action in Quebec over up to $400m in heat pump failures",
       "body": "A Quebec Tesla owner has filed a class action request against Tesla over heat pump failures, seeking damages for all Tesla owners in the province after being stuck with a $4,477 repair bill when her Model 3’s heat pump d…",
@@ -225,15 +225,15 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-06-04T06:50:12.000Z",
-      "title": "New Tesla Supercharger: Kristiansund, Norway (8 stalls)",
-      "body": "New Tesla Supercharger: Kristiansund, Norway (8 stalls) https://t.co/SYAZh6Aw49 https://t.co/44Adj2z5CC",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
+      "time": "18h ago",
+      "pubDate": "2026-06-04T07:19:23.000Z",
+      "title": "SpaceXAI just launched into your kitchen with their new app",
+      "body": "SpaceXAI just powered its first consumer app and it predicts what you want to buy. The post SpaceXAI just launched into your kitchen with their new app appeared first on TESLARATI.",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2062426675628134427"
+      "href": "https://www.teslarati.com/spacexai-just-launched-into-your-kitchen-with-their-new-app/"
     },
     {
       "category": "fsd",
