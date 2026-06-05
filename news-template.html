@@ -42,22 +42,19 @@
   .nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.92);backdrop-filter:blur(14px) saturate(140%);-webkit-backdrop-filter:blur(14px) saturate(140%);border-bottom:1px solid var(--line-mute)}
   .nav__inner{display:flex;align-items:center;justify-content:space-between;height:56px}
   /* SPLIT BLOCK 로고 */
-  .brand{display:inline-flex;align-items:center;gap:8px;text-decoration:none}
+  /* 워드마크 로고 — Tesla(red) + Brief!ng('!'만 red). 메인 페이지와 동일. */
+  .brand{display:inline-flex;align-items:baseline;gap:5px;text-decoration:none}
   .brand__block{
-    display:inline-flex;align-items:center;justify-content:center;
-    background:var(--tesla-red);color:#fff;
-    padding:4px 8px;border-radius:5px;
-    font-family:"Inter",ui-monospace,monospace;font-weight:900;font-size:12px;
-    letter-spacing:.6px;line-height:1;flex-shrink:0;
+    font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:700;font-size:20px;
+    color:var(--tesla-red);letter-spacing:-0.02em;line-height:1;flex-shrink:0;
   }
   .brand__text{
-    font-family:"Inter",ui-monospace,monospace;font-weight:700;font-size:18px;
-    color:var(--ink);letter-spacing:-0.005em;line-height:1;font-style:italic;
+    font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:800;font-size:20px;
+    color:var(--ink);letter-spacing:-0.02em;line-height:1;font-style:normal;
     white-space:nowrap;
   }
-  .brand__text em{color:var(--tesla-red);font-style:italic;font-weight:700}
-  /* 메인 페이지 로고와 동일하게 — 데스크톱에서 살짝 확대 */
-  @media (min-width:768px){ .brand__block{padding:5px 9px;font-size:13px} .brand__text{font-size:19px} }
+  .brand__text em{color:var(--tesla-red);font-style:normal;font-weight:800}
+  @media (min-width:768px){ .brand__block{font-size:17px} .brand__text{font-size:17px} }
   .nav__back{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mid);padding:8px 14px;border:1px solid var(--line);border-radius:var(--r-pill);transition:color var(--ease),border-color var(--ease)}
   .nav__back:hover{color:var(--ink);border-color:var(--ink-mid)}
 
@@ -160,8 +157,8 @@
 <header class="nav">
   <div class="wrap nav__inner">
     <a class="brand" href="index.html" aria-label="Tesla Briefing — 홈">
-      <span class="brand__block">TESLA</span>
-      <span class="brand__text">Brief<em>!ng</em></span>
+      <span class="brand__block">Tesla</span>
+      <span class="brand__text">Brief<em>!</em>ng</span>
     </a>
     <a class="nav__back" href="index.html">← 홈으로</a>
   </div>
