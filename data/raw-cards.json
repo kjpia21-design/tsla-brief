@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-05 17:11 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-05 18:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "21m ago",
+      "pubDate": "2026-06-05T17:40:00.000Z",
+      "title": "Tesla Employees Leaked Their Thoughts About FSD. They Weren't Pretty",
+      "body": "Tesla Employees Leaked Their Thoughts About FSD. They Weren't Pretty InsideEVs",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://insideevs.com/features/797947/tesla-fsd-podcast/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "50m ago",
+      "pubDate": "2026-06-05T17:10:52.000Z",
+      "title": "Can AI and Robotics Revive Tesla? ETFs Worth Considering",
+      "body": "Can AI and Robotics Revive Tesla? ETFs Worth Considering The Globe and Mail",
+      "sourceName": "The Globe and Mail",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/2329213/can-ai-and-robotics-revive-tesla-etfs-worth-considering/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "51m ago",
+      "pubDate": "2026-06-05T17:09:43.000Z",
+      "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
+      "body": "Prediction: Tesla Stock Will Hit $500 on This Date Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-hit-500-170943287.html"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "24m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-05T16:47:13.000Z",
       "title": "Ferrari CEO’s self-driving stance echoes Elon Musk’s",
       "body": "Ferrari CEO’s self-driving stance echoes Elon Musk’s — sort of Teslarati",
@@ -17,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "35m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-05T16:37:00.000Z",
       "title": "Elon Musk’s $1.8 Trillion SpaceX IPO: Is It a Good Investment?",
       "body": "Elon Musk’s $1.8 Trillion SpaceX IPO: Is It a Good Investment? Barron's",
@@ -28,22 +67,9 @@
       "href": "https://www.barrons.com/articles/spacex-ipo-elon-musk-tesla-stock-6ef52370"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "56m ago",
-      "pubDate": "2026-06-05T16:15:34.000Z",
-      "title": "Tesla Inc Stock (TSLA) Moved Down by 4.11% on Jun 5: What Investors Need To Know",
-      "body": "Tesla Inc Stock (TSLA) Moved Down by 4.11% on Jun 5: What Investors Need To Know TradingKey",
-      "sourceName": "TradingKey",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.tradingkey.com/news/market-movers/261949995-market-movers-tsla-20260605"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-05T15:45:39.000Z",
       "title": "Products do not reach maturity from day one and are always messy to begin with. Yet, that is the difference between c…",
       "body": "Products do not reach maturity from day one and are always messy to begin with. Yet, that is the difference between corporate jobs, where everything is established and you repeat the same things, versus an empty canvas f…",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-05T15:21:13.000Z",
       "title": "Tesla upgrades Model Y’s affordable trims with new interior features",
       "body": "Tesla has upgraded the Model Y’s two most affordable trims, the Rear-Wheel-Drive and All-Wheel-Drive, with two new interior features that bring them level with their “Premium” siblings. The Rear-Wheel-Drive (RWD) and All…",
@@ -80,22 +106,9 @@
       "href": "https://www.teslarati.com/tesla-upgrades-model-y-affordable-trims-new-interior-features/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-05T15:10:51.000Z",
-      "title": "NIO Is Up 9% Today: Is It Outperforming Other EV Stocks Like Tesla and Rivian?",
-      "body": "NIO Is Up 9% Today: Is It Outperforming Other EV Stocks Like Tesla and Rivian? AOL.com",
-      "sourceName": "AOL.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.aol.com/articles/nio-9-today-outperforming-other-183620000.html"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-05T14:48:33.000Z",
       "title": "Elon Musk Dominates List of Highest Paid C.E.O.s",
       "body": "Elon Musk Dominates List of Highest Paid C.E.O.s The New York Times",
@@ -121,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-05T14:04:42.000Z",
       "title": "Real-World Agentic",
       "body": "Real-World Agentic https://t.co/fmkVbJRbik",
@@ -132,22 +145,9 @@
       "href": "https://x.com/yunta_tsai/status/2062898412312518849"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-05T14:04:00.000Z",
-      "title": "Tesla Stock Has One Less Sell Rating. J.P. Morgan Raises Its Price Target by 228%.",
-      "body": "Tesla Stock Has One Less Sell Rating. J.P. Morgan Raises Its Price Target by 228%. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-upgrade-jpmorgan-4a418987"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-05T14:00:00.000Z",
       "title": "Come visit our CVPR booth for hands-on experiences: – Neural video generation + sim drive – Selfies with @Tesla_Optim…",
       "body": "Come visit our CVPR booth for hands-on experiences: – Neural video generation + sim drive – Selfies with @Tesla_Optimus – Real FSD test drives in Tesla models of your choice Chat directly with the team behind it, includi…",
@@ -160,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-05T13:58:00.000Z",
       "title": "Xpeng spends $500M/year on AI training to beat Tesla FSD",
       "body": "Xpeng spends $500M/year on AI training to beat Tesla FSD Electrek",
@@ -173,7 +173,20 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "7h ago",
+      "pubDate": "2026-06-05T11:24:00.000Z",
+      "title": "Tesla Stock Has One Less Sell Rating. J.P. Morgan Raises Its Price Target by 228%.",
+      "body": "Tesla Stock Has One Less Sell Rating. J.P. Morgan Raises Its Price Target by 228%. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-upgrade-jpmorgan-4a418987"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "7h ago",
       "pubDate": "2026-06-05T11:04:07.000Z",
       "title": "A big day Monday in Cupertino for Apple with WWDC…will be discussing what to expect on the AI front from Apple on @CN…",
       "body": "A big day Monday in Cupertino for Apple with WWDC…will be discussing what to expect on the AI front from Apple on @CNBCClosingBell at 3 pm with @TheJudgeCNBC @CNBC 🔥🏆🍿📺🍎📱",
@@ -186,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-05T09:59:28.000Z",
       "title": "What does it take to certify the @cybertruck steer-by-wire system as part of homologating the truck for legal use in …",
       "body": "What does it take to certify the @cybertruck steer-by-wire system as part of homologating the truck for legal use in Switzerland and the EU? A specialized testing harness to selectively disable one or both steering motor…",
@@ -199,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-05T07:10:29.000Z",
       "title": "I’ve never been asked to sign a car before now but Marc, one of the 1st @Cybertruck owners in Switzerland asked me to…",
       "body": "I’ve never been asked to sign a car before now but Marc, one of the 1st @Cybertruck owners in Switzerland asked me to do so! What an honor! https://t.co/PPjeJoIrpq",
@@ -223,35 +236,9 @@
       "href": "https://x.com/JoeTegtmeyer/status/2062785680263061701"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-06-05T05:22:45.000Z",
-      "title": "Day 3 of my European trip had us stop at @Teslab_ct , a Tesla-independent dealer &amp; Service Center run by Raven, a…",
-      "body": "Day 3 of my European trip had us stop at @Teslab_ct , a Tesla-independent dealer &amp; Service Center run by Raven, a young and enthusiastic @Tesla fan who is leading the efforts to homologate @cybertruck for legal use i…",
-      "sourceName": "Joe Tegtmeyer (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/JoeTegtmeyer/status/2062767059134493043"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-06-05T04:53:42.000Z",
-      "title": "Under capitalism, building a product proves an idea that works well enough for people willing to pay for mutual benef…",
-      "body": "Under capitalism, building a product proves an idea that works well enough for people willing to pay for mutual benefits. The free flow of capital provides high-fidelity information for reinforcement learning. In contras…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2062759745614913552"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "22h ago",
+      "time": "23h ago",
       "pubDate": "2026-06-04T19:02:12.000Z",
       "title": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst",
       "body": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst Teslarati",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-tsla-answer-auto-growth-bring-to-u-s-analyst/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "18d ago",
+      "pubDate": "2026-05-19T00:00:00.000Z",
+      "title": "NHTSA recall 26V315000 — EQUIPMENT:OTHER:LABELS (Model Y)",
+      "body": "Tesla, Inc. (Tesla) is recalling certain 2025-2026 Model Y vehicles. The certification label may not have been installed. As such, these vehicles fail to comply with the requirements of 49 C.F.R. Part 567, \"Certification",
+      "sourceName": "NHTSA",
+      "sourceLabel": "sec",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nhtsa.gov/recalls?nhtsaId=26V315000"
     }
   ]
 }
