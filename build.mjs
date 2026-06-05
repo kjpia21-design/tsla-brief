@@ -92,6 +92,17 @@ function escapeHtml(s) {
  *   { price, change, changePct, dayHigh, dayLow, marketState, marketStateLabel, marketStateShort, asOf, ... }
  * SSR 산출은 첫 페인트 fallback. 클라이언트 폴링(1분)이 이후 갱신.
  */
+// asOf("2026-06-05 11:05 UTC") → 뉴욕시간 "요일 HH:MM ET" (클라이언트 fmtAsOf 와 동일)
+function formatAsOfET(s) {
+  if (!s) return "";
+  const t = Date.parse(String(s).replace(" UTC", "Z").replace(" ", "T"));
+  if (Number.isNaN(t)) return s;
+  const d = new Date(t);
+  const wd = d.toLocaleDateString("ko-KR", { timeZone: "America/New_York", weekday: "short" });
+  const hm = d.toLocaleTimeString("en-GB", { timeZone: "America/New_York", hour: "2-digit", minute: "2-digit", hour12: false });
+  return `${wd} ${hm} ET`;
+}
+
 function renderKpi(kpi) {
   // 옛 5칸 스키마 (items 배열) → 빈 placeholder
   if (Array.isArray(kpi.items)) {
@@ -131,7 +142,7 @@ function renderKpi(kpi) {
           <span class="pb-full" data-pb-range-full>${escapeHtml(rangeFull)}</span>
           <span class="pb-short" data-pb-range-short>${escapeHtml(rangeShort)}</span>
         </span>
-        <span class="price-bar__asof" data-pb-asof>${escapeHtml(kpi.asOf || "")}</span>
+        <span class="price-bar__asof" data-pb-asof>${escapeHtml(formatAsOfET(kpi.asOf))}</span>
       </span>
       `;
 }

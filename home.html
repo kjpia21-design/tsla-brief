@@ -230,8 +230,8 @@
     line-height:1.1;flex-shrink:0;
   }
   .price-bar__price small{font-size:11px;color:var(--ink-mute);margin-right:4px;font-weight:600;letter-spacing:.04em}
-  /* 모바일(<520px): 변동폭 숨김 — 기준시간(asOf) 우선 노출 */
-  .price-bar__change{font-size:13px;font-weight:700;flex-shrink:0;display:none}
+  /* 변동은 주가 바로 옆에 표시 (모바일 포함) */
+  .price-bar__change{font-size:12.5px;font-weight:700;flex-shrink:0;margin-right:2px}
   .price-bar__change.up{color:var(--up)}
   .price-bar__change.down{color:var(--down)}
   /* 모바일: 짧은 형태(.pb-short), ≥520px: 풀 형태(.pb-full) */
@@ -1166,6 +1166,16 @@ function tslaSubscribe(e){
     if (typeof n !== 'number' || Number.isNaN(n)) return '—';
     return n.toFixed(digits);
   }
+  // asOf("2026-06-05 11:05 UTC") → 뉴욕시간 "요일 HH:MM ET" (날짜 없이)
+  function fmtAsOf(s) {
+    if (!s) return '';
+    const t = Date.parse(String(s).replace(' UTC', 'Z').replace(' ', 'T'));
+    if (Number.isNaN(t)) return s;
+    const d = new Date(t);
+    const wd = d.toLocaleDateString('ko-KR', { timeZone: 'America/New_York', weekday: 'short' });
+    const hm = d.toLocaleTimeString('en-GB', { timeZone: 'America/New_York', hour: '2-digit', minute: '2-digit', hour12: false });
+    return `${wd} ${hm} ET`;
+  }
 
   function render(d) {
     if (!d || typeof d.price !== 'number') return;
@@ -1187,7 +1197,7 @@ function tslaSubscribe(e){
     }
     if ($rangeFull) $rangeFull.textContent = `${fmt(d.dayLow)} – ${fmt(d.dayHigh)}`;
     if ($rangeShort) $rangeShort.textContent = `${Math.round(d.dayLow)}–${Math.round(d.dayHigh)}`;
-    if ($asof) $asof.textContent = d.asOf || '';
+    if ($asof) $asof.textContent = fmtAsOf(d.asOf);
   }
 
   async function load() {
