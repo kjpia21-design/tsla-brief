@@ -114,24 +114,21 @@
     border-bottom:1px solid var(--line-mute);
   }
   .nav__inner{display:flex;align-items:center;justify-content:space-between;height:56px}
-  /* SPLIT BLOCK 로고 — TSLA 빨강 박스 + Brief!ng italic */
-  .brand{display:inline-flex;align-items:center;gap:8px;min-width:0;text-decoration:none}
+  /* 워드마크 로고 — Tesla(red) + Brief!ng('!'만 red) */
+  .brand{display:inline-flex;align-items:baseline;gap:5px;min-width:0;text-decoration:none}
   .brand__block{
-    display:inline-flex;align-items:center;justify-content:center;
-    background:var(--tesla-red);color:#fff;
-    padding:4px 8px;border-radius:5px;
-    font-family:"Inter",ui-monospace,monospace;font-weight:900;font-size:12px;
-    letter-spacing:.6px;line-height:1;flex-shrink:0;
+    font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:700;font-size:20px;
+    color:var(--tesla-red);letter-spacing:-0.02em;line-height:1;flex-shrink:0;
   }
   .brand__text{
-    font-family:"Inter",ui-monospace,monospace;font-weight:700;font-size:18px;
-    color:var(--ink);letter-spacing:-0.005em;line-height:1;font-style:italic;
+    font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:800;font-size:20px;
+    color:var(--ink);letter-spacing:-0.02em;line-height:1;font-style:normal;
     white-space:nowrap;
   }
-  .brand__text em{color:var(--tesla-red);font-style:italic;font-weight:700}
+  .brand__text em{color:var(--tesla-red);font-style:normal;font-weight:800}
   /* footer 용 큰 variant */
-  .brand--lg .brand__block{padding:6px 11px;font-size:14px;border-radius:6px}
-  .brand--lg .brand__text{font-size:22px}
+  .brand--lg .brand__block{font-size:24px}
+  .brand--lg .brand__text{font-size:24px}
 
   .nav__links{display:flex;gap:4px;align-items:center}
   .nav__links a:not(.nav__cta){display:none}    /* 모바일: 카테고리 링크 숨김 */
@@ -657,8 +654,8 @@
     body{font-size:16px;line-height:1.65}
 
     .nav__inner{height:60px}
-    .brand__block{padding:5px 9px;font-size:13px}
-    .brand__text{font-size:19px}
+    .brand__block{font-size:17px}
+    .brand__text{font-size:17px}
     .nav__links a:not(.nav__cta){
       display:inline-block;
       padding:8px 13px;font-size:14px;color:var(--ink);
@@ -731,8 +728,8 @@
 <header class="nav">
   <div class="wrap nav__inner">
     <a class="brand" href="/" aria-label="Tesla Briefing — 홈">
-      <span class="brand__block">TESLA</span>
-      <span class="brand__text">Brief<em>!ng</em></span>
+      <span class="brand__block">Tesla</span>
+      <span class="brand__text">Brief<em>!</em>ng</span>
     </a>
     <nav class="nav__links" aria-label="Primary">
       <a href="#stock">주가·실적</a>
@@ -1030,8 +1027,8 @@
   <div class="wrap footer__inner">
     <div class="footer__brand">
       <a class="brand brand--lg" href="/" aria-label="Tesla Briefing — 홈">
-        <span class="brand__block">TESLA</span>
-        <span class="brand__text">Brief<em>!ng</em></span>
+        <span class="brand__block">Tesla</span>
+        <span class="brand__text">Brief<em>!</em>ng</span>
       </a>
       <p>테슬라 주주를 위한 일일 브리핑. 주가·실적, 차량·에너지·옵티머스, FSD/로보택시, 머스크 발언을 한 페이지에서.</p>
       <a class="footer__about" href="about.html">소개 · 큐레이션 기준 보기 →</a>
