@@ -484,9 +484,16 @@ async function generateNewsPage(cards, { newsTemplateName = "news-template.html"
   out = replaceBlock(out, "NEWS_GRID", `\n      ${renderAllCards(seed, { lang })}\n      `);
   await writeFile(path.join(outDir, "news.html"), out, "utf8");
 
-  // 클라이언트 필터/검색용 전체 이력 인덱스 (archive-full.json 기반, 없으면 표시분으로 폴백)
-  const indexSrc = (fullArchive && fullArchive.items && fullArchive.items.length) ? fullArchive : cards;
-  const idx = indexSrc.items.map((c) => newsIndexEntry(c, lang));
+  // 클라이언트 필터/검색용 인덱스 — 최신(archive)이 항상 포함되도록 archive ∪ archive-full 합집합.
+  //  archive-full 은 별도 GitHub Action 이 다른 주기로 갱신 → 최신 카드가 잠시 빠질 수 있다.
+  //  신선한 archive(cards 인자) 를 먼저 넣어 우선시하고, archive-full 로 과거 이력을 보충한다.
+  const idxMap = new Map();
+  for (const c of cards.items) { const k = c.slug || c.title; if (k && !idxMap.has(k)) idxMap.set(k, c); }
+  for (const c of (fullArchive?.items || [])) { const k = c.slug || c.title; if (k && !idxMap.has(k)) idxMap.set(k, c); }
+  const idxItems = [...idxMap.values()].sort(
+    (a, b) => (Date.parse(b.pubDate || 0) || 0) - (Date.parse(a.pubDate || 0) || 0)
+  );
+  const idx = idxItems.map((c) => newsIndexEntry(c, lang));
   await mkdir(path.join(outDir, "data"), { recursive: true });
   await writeFile(path.join(outDir, "data", "news-index.json"), JSON.stringify(idx), "utf8");
   return true;
