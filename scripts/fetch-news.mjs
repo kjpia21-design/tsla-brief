@@ -66,6 +66,10 @@ const X_BEARER = process.env.X_BEARER_TOKEN || "";
 const X_RECENT_HOURS = 18;             // 최근 N시간 내 게시물만
 const X_MAX_RESULTS = 40;              // 1요청 최대 트윗 수
 const X_FETCH_HOURS_UTC = [2, 8, 14, 20]; // 하루 4회. 20 UTC = 05시 KST → 07시 발송 직전 신선
+// SEC EDGAR — 공시는 가끔이라 매 2h 검색은 낭비 → 하루 1회만(20 UTC = 05시 KST 새벽).
+//   미국 장 마감(저녁 ET) 이후 공시가 한국 새벽이면 다 반영됨. EDGAR_FORCE=1 로 강제 가능.
+//   미검색 실행에서는 직전 raw 의 최근 SEC 공시를 carry-forward 해 사라지지 않게 한다(loadPrevSecCards).
+const EDGAR_FETCH_HOURS_UTC = [20];
 // label: official(공식·1차 인사이더) / press(인플루언서·애널리스트)
 // category: 본문 추론의 폴백값(null 이면 musk 폴백)
 const X_ACCOUNTS = [
@@ -635,6 +639,38 @@ async function loadPrevXCards() {
   }
 }
 
+// EDGAR 지속성 — EDGAR 를 안 부른 실행(하루 1회 외)에서, 직전 raw 의 최근 SEC 공시를 되살린다.
+//   X 와 같은 이유: 매 2h 페치가 raw 를 덮어쓰므로 carry-forward 안 하면 일 1회 사이 공시가 사라진다.
+//   sourceName 이 "SEC ·" 로 시작하는 EDGAR 카드만(NHTSA 제외), 공시 신선도 창(EDGAR_RECENT_DAYS) 내.
+async function loadPrevSecCards() {
+  try {
+    const prev = JSON.parse(await readFile(OUT_PATH, "utf8"));
+    const out = [];
+    for (const c of (prev.items || [])) {
+      if (!/^SEC[\s·]/.test(c.sourceName || "")) continue;   // EDGAR 카드만
+      if (daysAgo(c.pubDate) > EDGAR_RECENT_DAYS) continue;   // 공시 신선도 창 초과 → 폐기
+      const href = c.href || "";
+      out.push({
+        category: c.category,
+        item: {
+          title: c.title,
+          link: href,
+          sourceUrl: "https://www.sec.gov/",
+          description: c.body || c.summary || c.title || "",
+          pubDate: c.pubDate || "",
+          ts: Date.parse(c.pubDate) || 0,
+          label: c.sourceLabel || "sec",
+          host: "sec.gov",
+          sourceName: c.sourceName,
+        },
+      });
+    }
+    return out;
+  } catch {
+    return [];
+  }
+}
+
 // ─────────────────────────────────────────────────────────
 // 메인 페치 루프
 // ─────────────────────────────────────────────────────────
@@ -763,12 +799,17 @@ async function main() {
   // 카테고리별로 후보 모음
   const buckets = { stock: [], product: [], fsd: [], musk: [] };
 
+  // SEC EDGAR 시각 게이트 — 하루 1회(EDGAR_FETCH_HOURS_UTC=05시 KST)만 검색. 그 외엔 carry-forward 로 유지.
+  const edgarOk = !!process.env.EDGAR_FORCE || EDGAR_FETCH_HOURS_UTC.includes(new Date().getUTCHours());
+  if (!edgarOk) console.log(`[fetch-news] EDGAR 건너뜀 — ${new Date().getUTCHours()}시 UTC 는 검색 시각 아님(${EDGAR_FETCH_HOURS_UTC.join(",")} UTC). 직전 raw 의 SEC 공시 carry-forward.`);
+
   await Promise.all(SOURCES.map(async (src) => {
     // ── 1차·공식: SEC EDGAR / NHTSA / X — inferCategory/cleanTitle 생략, 라벨 강제 ──
     if (src.type === "edgar" || src.type === "nhtsa" || src.type === "x") {
       try {
         let items;
         if (src.type === "edgar") {
+          if (!edgarOk) return;   // 시각 게이트 — 미검색 시각이면 건너뜀(carry-forward 가 대신 채움)
           const xml = await fetchRss(src.url, src.headers);
           items = parseEdgar(xml, src);
         } else if (src.type === "nhtsa") {
@@ -845,6 +886,16 @@ async function main() {
     if (buckets[category]) { buckets[category].push(item); carried += 1; }
   }
   if (carried) console.log(`[fetch-news] X 지속성 — 직전 raw 의 최근 X 카드 ${carried}건 후보 유지`);
+
+  // EDGAR 지속성 — 이 실행에서 EDGAR 를 안 불렀으면(시각 가드) 직전 raw 의 최근 SEC 공시를 되살린다.
+  if (!edgarOk) {
+    const prevSec = await loadPrevSecCards();
+    let csec = 0;
+    for (const { category, item } of prevSec) {
+      if (buckets[category]) { buckets[category].push(item); csec += 1; }
+    }
+    if (csec) console.log(`[fetch-news] EDGAR 지속성 — 직전 raw 의 최근 SEC 공시 ${csec}건 후보 유지`);
+  }
 
   // 카테고리당 top N건 + 중복 제거 (같은 host + 같은 prefix 4단어)
   const picks = [];
