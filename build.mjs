@@ -249,7 +249,6 @@ function renderHotNews(cards) {
     // 모바일 1줄용 축약 — <em> 제거 후 단어 경계로 잘라 "잘린 듯" 보이지 않게.
     return `      <li><a class="hot-news__item ${cls}" href="${escapeHtml(href)}">
         <span class="hot-news__title"><span class="hn-full">${c.title}</span><span class="hn-short">${escapeHtml(c.hotShort || shortHotTitle(c.title))}</span></span>
-        <span class="hot-news__arrow">→</span>
       </a></li>`;
   }).join("\n");
   return `\n${items}\n      `;

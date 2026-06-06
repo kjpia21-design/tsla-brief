@@ -309,7 +309,7 @@
     box-shadow:0 4px 16px -6px rgba(16,16,20,.18);
   }
   .hot-news__item{
-    display:grid;grid-template-columns:auto 1fr auto;gap:8px;align-items:center;
+    display:grid;grid-template-columns:auto 1fr;gap:8px;align-items:center;
     padding:10px 12px;border-top:1px solid var(--line-mute);
     text-decoration:none;color:inherit;
     transition:background var(--t-1) var(--ease);
@@ -343,11 +343,6 @@
   .hn-full{display:none}
   .hn-short{display:inline}
   @media (min-width:560px){ .hn-full{display:inline} .hn-short{display:none} }
-  .hot-news__arrow{
-    color:var(--ink-mute);font-size:13px;font-weight:600;
-    transition:transform var(--t-1) var(--ease),color var(--t-1) var(--ease);
-  }
-  .hot-news__item:hover .hot-news__arrow{color:var(--ink);transform:translateX(2px)}
 
   .hot-news__item.is-stock   { --cat-color: var(--c-stock); }
   .hot-news__item.is-product { --cat-color: var(--c-product); }
@@ -357,7 +352,7 @@
   /* 모바일: 핫뉴스 1줄 고정(스캔 쉽게) + 터치 여백 */
   @media (max-width:560px){
     .hot-news__item{padding:12px 13px}
-    .hot-news__title{font-size:13.5px}
+    .hot-news__title{font-size:13.5px;letter-spacing:-0.02em}
   }
 
   /* ============================================================
