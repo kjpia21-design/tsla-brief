@@ -21,18 +21,10 @@
         font-family="'IBM Plex Mono', ui-monospace, Menlo, monospace"
         font-weight="700" font-size="14" fill="#E31937" letter-spacing="3">LIVE</text>
 
-  <!-- 메인 로고: SPLIT BLOCK (TESLA 빨강 박스 + Brief!ng italic 흰색) -->
-  <!-- 빨강 박스 -->
-  <rect x="170" y="195" width="340" height="120" rx="14" fill="#E31937"/>
-  <text x="340" y="285" text-anchor="middle"
+  <!-- 메인 로고: 워드마크 (Tesla 빨강 + Brief!ng 흰색, ! 빨강 — 사이트 헤더와 동일) -->
+  <text x="600" y="285" text-anchor="middle"
         font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
-        font-weight="900" font-size="78" fill="#FFFFFF" letter-spacing="3">TESLA</text>
-
-  <!-- Brief!ng (italic, 흰색) -->
-  <text x="540" y="285"
-        font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
-        font-weight="700" font-style="italic" font-size="86"
-        fill="#F4F4F5" letter-spacing="-2">Brief<tspan fill="#E31937">!</tspan>ng</text>
+        font-weight="800" font-size="90" letter-spacing="-1"><tspan fill="#E31937">Tesla</tspan><tspan fill="#F4F4F5"> Brief</tspan><tspan fill="#E31937">!</tspan><tspan fill="#F4F4F5">ng</tspan></text>
 
   <!-- 한국어 카피 -->
   <text x="600" y="412" text-anchor="middle"
