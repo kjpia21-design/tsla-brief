@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-06 01:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-06 03:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-06T01:39:01.000Z",
+      "title": "Starlink connecting schools in Bolivia",
+      "body": "Starlink connecting schools in Bolivia https://t.co/WZGBIaJM4j",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063073142306750576"
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19m ago",
+      "time": "2h ago",
+      "pubDate": "2026-06-06T01:06:14.000Z",
+      "title": "Repairing @Tesla vehicles, major components, offering alternative quality post-warranty service &amp; performing besp…",
+      "body": "Repairing @Tesla vehicles, major components, offering alternative quality post-warranty service &amp; performing bespoke modifications to gain certification for the @cybertruck in Switzerland or Europe has created an opp…",
+      "sourceName": "Joe Tegtmeyer (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/JoeTegtmeyer/status/2063064889875173690"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
       "pubDate": "2026-06-06T00:41:19.000Z",
       "title": "tesla-roadster-ferrari-luce",
       "body": "tesla-roadster-ferrari-luce Teslarati",
@@ -17,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-05T23:49:22.000Z",
       "title": "Elon Musk Dominates List of Highest Paid C.E.O.s",
       "body": "Elon Musk Dominates List of Highest Paid C.E.O.s The New York Times",
@@ -28,22 +54,9 @@
       "href": "https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-05T23:08:37.000Z",
-      "title": "Grok has reached the top spot for the search term “AI App” on the Apple App Store 🇺🇸 The ranking places Grok ahead …",
-      "body": "Grok has reached the top spot for the search term “AI App” on the Apple App Store 🇺🇸 The ranking places Grok ahead of some of the biggest names in AI, highlighting its growing momentum and user adoption. The AI race is…",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2063035290210693596"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-05T21:39:54.000Z",
       "title": "A major AI event for Apple next week at WWDC 🐂🏆🍿 @CNBCClosingBell",
       "body": "A major AI event for Apple next week at WWDC 🐂🏆🍿 @CNBCClosingBell https://t.co/Lt6pBE7kBA",
@@ -56,7 +69,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-05T20:56:11.000Z",
       "title": "Great to be on @CNBCClosingBell with @TheJudgeCNBC discussing Apple’s WWDC in Cupertino on Monday and what we expect …",
       "body": "Great to be on @CNBCClosingBell with @TheJudgeCNBC discussing Apple’s WWDC in Cupertino on Monday and what we expect to hear on the AI front in a major day for the tech world with @Kantrowitz on the panel 👇🍎🍿🏆📺📱🐂 …",
@@ -69,7 +82,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-05T19:40:15.000Z",
       "title": "Tesla Roadster unveiling gets pushed again, but new event details emerge",
       "body": "Tesla has reportedly pushed the unveiling of the Roadster once again, but there are also evidently new details about the event that the company plans to show off. The Information reported this morning that Tesla will now…",
@@ -82,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-05T18:46:18.000Z",
       "title": "S&P’s SpaceX Snub Shows Elon Musk the Power of Index Gatekeepers",
       "body": "S&P’s SpaceX Snub Shows Elon Musk the Power of Index Gatekeepers Bloomberg.com",
@@ -95,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-05T18:08:17.000Z",
       "title": "Tesla Model 3 has a tasty Supercharging incentive, but it’s ending soon",
       "body": "Tesla is offering a tasty Supercharging incentive on certain Model 3 trims, but the company has officially put a concrete end date on it, so those interested should act fast. Tesla is offering Free Supercharging for One …",
@@ -108,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-05T17:40:00.000Z",
       "title": "Tesla Employees Leaked Their Thoughts About FSD. They Weren't Pretty",
       "body": "Tesla Employees Leaked Their Thoughts About FSD. They Weren't Pretty InsideEVs",
@@ -121,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-05T17:25:19.000Z",
       "title": "🤔 Can’t think of a single time this happened",
       "body": "🤔 Can’t think of a single time this happened https://t.co/QZXnwo0AZv",
@@ -134,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-05T17:24:33.000Z",
       "title": "These are all common sense!",
       "body": "These are all common sense! https://t.co/udwjH7DJd2",
@@ -147,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-05T17:09:43.000Z",
       "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
       "body": "Prediction: Tesla Stock Will Hit $500 on This Date Yahoo Finance",
@@ -160,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-05T15:45:39.000Z",
       "title": "Products do not reach maturity from day one and are always messy to begin with. Yet, that is the difference between c…",
       "body": "Products do not reach maturity from day one and are always messy to begin with. Yet, that is the difference between corporate jobs, where everything is established and you repeat the same things, versus an empty canvas f…",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-05T15:21:13.000Z",
       "title": "Tesla upgrades Model Y’s affordable trims with new interior features",
       "body": "Tesla has upgraded the Model Y’s two most affordable trims, the Rear-Wheel-Drive and All-Wheel-Drive, with two new interior features that bring them level with their “Premium” siblings. The Rear-Wheel-Drive (RWD) and All…",
@@ -186,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-05T14:04:42.000Z",
       "title": "Real-World Agentic",
       "body": "Real-World Agentic https://t.co/fmkVbJRbik",
@@ -199,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-05T14:00:00.000Z",
       "title": "Come visit our CVPR booth for hands-on experiences: – Neural video generation + sim drive – Selfies with @Tesla_Optim…",
       "body": "Come visit our CVPR booth for hands-on experiences: – Neural video generation + sim drive – Selfies with @Tesla_Optimus – Real FSD test drives in Tesla models of your choice Chat directly with the team behind it, includi…",
@@ -212,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-05T13:58:00.000Z",
       "title": "Xpeng spends $500M/year on AI training to beat Tesla FSD",
       "body": "Xpeng spends $500M/year on AI training to beat Tesla FSD Electrek",
@@ -225,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-05T13:24:35.000Z",
       "title": "JPMorgan Turns Upbeat on Tesla After Replacing Bearish Analyst",
       "body": "JPMorgan Turns Upbeat on Tesla After Replacing Bearish Analyst Bloomberg.com",
@@ -238,7 +251,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-05T11:04:07.000Z",
       "title": "A big day Monday in Cupertino for Apple with WWDC…will be discussing what to expect on the AI front from Apple on @CN…",
       "body": "A big day Monday in Cupertino for Apple with WWDC…will be discussing what to expect on the AI front from Apple on @CNBCClosingBell at 3 pm with @TheJudgeCNBC @CNBC 🔥🏆🍿📺🍎📱",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/DivesTech/status/2062852964675355127"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18d ago",
-      "pubDate": "2026-05-19T00:00:00.000Z",
-      "title": "NHTSA recall 26V315000 — EQUIPMENT:OTHER:LABELS (Model Y)",
-      "body": "Tesla, Inc. (Tesla) is recalling certain 2025-2026 Model Y vehicles. The certification label may not have been installed. As such, these vehicles fail to comply with the requirements of 49 C.F.R. Part 567, \"Certification",
-      "sourceName": "NHTSA",
-      "sourceLabel": "sec",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nhtsa.gov/recalls?nhtsaId=26V315000"
     }
   ]
 }
