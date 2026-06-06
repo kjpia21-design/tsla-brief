@@ -335,9 +335,8 @@
     letter-spacing:.04em;white-space:nowrap;min-width:46px;
   }
   .hot-news__title{
-    color:var(--ink-mid);font-size:13px;font-weight:500;line-height:1.4;
-    word-break:keep-all;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;
-    -webkit-line-clamp:1;-webkit-box-orient:vertical;
+    color:var(--ink-mid);font-size:13px;font-weight:600;line-height:1.4;letter-spacing:-0.01em;
+    min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
   }
   .hot-news__title em{font-style:italic;color:var(--cat-color,var(--tesla-red));font-weight:600}
   .hot-news__arrow{
@@ -351,12 +350,10 @@
   .hot-news__item.is-fsd     { --cat-color: var(--c-fsd); }
   .hot-news__item.is-musk    { --cat-color: var(--c-musk); }
 
-  /* 모바일: 핫뉴스 헤드라인 2줄 허용(잘림 방지) + 터치 여백 확대 */
+  /* 모바일: 핫뉴스 1줄 고정(스캔 쉽게) + 터치 여백 */
   @media (max-width:560px){
-    .hot-news__item{padding:12px 13px;align-items:flex-start}
-    .hot-news__item::before{margin-top:5px}
-    .hot-news__title{-webkit-line-clamp:2;font-size:13.5px}
-    .hot-news__arrow{margin-top:2px}
+    .hot-news__item{padding:12px 13px}
+    .hot-news__title{font-size:13.5px}
   }
 
   /* ============================================================
@@ -378,8 +375,8 @@
     padding:2px 0;letter-spacing:.02em;
   }
   .cats__title{
-    font-size:clamp(24px,5.5vw,30px);font-weight:700;letter-spacing:-0.005em;margin:0;
-    color:var(--ink);line-height:1.2;
+    font-size:clamp(26px,6vw,34px);font-weight:800;letter-spacing:-0.022em;margin:0;
+    color:var(--ink);line-height:1.15;
   }
   .cats__sub{color:var(--ink-mute);font-size:12.5px;display:block;margin-top:4px}
   .cats__head .eyebrow{display:none}      /* 모바일: 우측 eyebrow 숨김 */
