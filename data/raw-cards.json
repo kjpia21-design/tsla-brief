@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-06 23:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-06 23:08 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "27m ago",
+      "time": "36m ago",
       "pubDate": "2026-06-06T22:33:20.000Z",
       "title": "Time for change in Germany",
       "body": "Time for change in Germany https://t.co/tSLxhzcE2b",
@@ -17,7 +17,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "34m ago",
+      "time": "42m ago",
       "pubDate": "2026-06-06T22:26:38.000Z",
       "title": "This is the only way to save democracy in America",
       "body": "This is the only way to save democracy in America https://t.co/3r7vCGKLLv",
@@ -30,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "40m ago",
+      "time": "48m ago",
       "pubDate": "2026-06-06T22:20:45.000Z",
       "title": "Such injustice!",
       "body": "Such injustice! https://t.co/gcQWcVKRSP",
@@ -43,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "46m ago",
+      "time": "54m ago",
       "pubDate": "2026-06-06T22:14:49.000Z",
       "title": "Join Tesla if you want to solve real-world AI",
       "body": "Join Tesla if you want to solve real-world AI https://t.co/dXNBlp5K1c",
@@ -56,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "47m ago",
+      "time": "56m ago",
       "pubDate": "2026-06-06T22:13:09.000Z",
       "title": "Real-world AI is about solving for the edge case, not the average case",
       "body": "Real-world AI is about solving for the edge case, not the average case https://t.co/lFYQFS697W",
@@ -65,6 +65,19 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/Tesla_AI/status/2063383718946075131"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-06T21:42:29.000Z",
+      "title": "JPMorgan sets jaw-dropping Tesla stock price target",
+      "body": "JPMorgan sets jaw-dropping Tesla stock price target AOL.com",
+      "sourceName": "AOL.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.aol.com/finance/jpmorgan-sets-jaw-dropping-tesla-122043813.html"
     },
     {
       "category": "product",
@@ -174,19 +187,6 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "7h ago",
-      "pubDate": "2026-06-06T16:14:25.000Z",
-      "title": "JPMorgan sets jaw-dropping Tesla stock price target",
-      "body": "JPMorgan sets jaw-dropping Tesla stock price target AOL.com",
-      "sourceName": "AOL.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.aol.com/articles/jpmorgan-sets-jaw-dropping-tesla-122043000.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
       "pubDate": "2026-06-06T15:45:31.000Z",
       "title": "JPMorgan Upgrades Tesla Stock and Shifts Analysis to Physical AI",
       "body": "JPMorgan Upgrades Tesla Stock and Shifts Analysis to Physical AI HarianBasis.co",
@@ -212,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-06T05:36:00.000Z",
       "title": "Why Tesla (TSLA) Shares Are Trading Lower Today",
       "body": "Why Tesla (TSLA) Shares Are Trading Lower Today Yahoo Finance",
