@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-06 17:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-06 17:20 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "20m ago",
+      "pubDate": "2026-06-06T17:00:54.000Z",
+      "title": "Tesla’s Own FSD Trainers Don’t Trust The Technology They Helped Build",
+      "body": "Tesla’s Own FSD Trainers Don’t Trust The Technology They Helped Build Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/sectors/technology/articles/tesla-own-fsd-trainers-don-170054211.html"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "35m ago",
+      "time": "55m ago",
       "pubDate": "2026-06-06T16:25:17.000Z",
       "title": "India’s birth rate has fallen below replacement. Among those most educated, India’s birth rate fell below replacement…",
       "body": "India’s birth rate has fallen below replacement. Among those most educated, India’s birth rate fell below replacement many years ago. https://t.co/RsWf0PK6wx",
@@ -17,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "39m ago",
+      "time": "59m ago",
       "pubDate": "2026-06-06T16:21:18.000Z",
       "title": "When Tesla Takeover Europe is a success. There is only one thing to do: Light it up. @TeslaClubAT",
       "body": "When Tesla Takeover Europe is a success. There is only one thing to do: Light it up. @TeslaClubAT https://t.co/Fiy9bplq2M",
@@ -26,6 +39,19 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/teslaownersSV/status/2063295176257466638"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-06T16:14:25.000Z",
+      "title": "JPMorgan sets jaw-dropping Tesla stock price target",
+      "body": "JPMorgan sets jaw-dropping Tesla stock price target AOL.com",
+      "sourceName": "AOL.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.aol.com/articles/jpmorgan-sets-jaw-dropping-tesla-122043000.html"
     },
     {
       "category": "musk",
@@ -41,17 +67,17 @@
       "href": "https://x.com/teslaownersSV/status/2063288514943557931"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-06-06T15:39:59.000Z",
-      "title": "Tesla Robotaxis, FSD Scrutiny And Robotics Rivals Reframe Growth Outlook",
-      "body": "Tesla Robotaxis, FSD Scrutiny And Robotics Rivals Reframe Growth Outlook simplywall.st",
-      "sourceName": "simplywall.st",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-06T15:40:54.000Z",
+      "title": "Tesla stock drops. OpenAI is coming for one line of its business.",
+      "body": "Tesla stock drops. OpenAI is coming for one line of its business. MSN",
+      "sourceName": "MSN",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/tesla-robotaxis-fsd-scrutiny-and-robotics-rivals-reframe-gro"
+      "href": "https://www.msn.com/en-us/money/savingandinvesting/tesla-stock-drops-openai-is-coming-for-one-line-of-its-business/ar-AA24y89A?ocid"
     },
     {
       "category": "stock",
@@ -69,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-06T14:42:31.000Z",
       "title": "SpaceX was less than 10 people back then. We didn’t even have office furniture.",
       "body": "SpaceX was less than 10 people back then. We didn’t even have office furniture. https://t.co/WSM7O8j94X",
@@ -106,19 +132,6 @@
       "href": "https://mshale.com/570ef255/198b4e945kd6_Rf29wg"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-06T11:06:28.000Z",
-      "title": "Tesla Stock MASSIVE MOVE COMING! Huge Inflation Data! TSLA Stock Price Prediction برشلونة ضد الريال (tXRkiPtmIk)",
-      "body": "Tesla Stock MASSIVE MOVE COMING! Huge Inflation Data! TSLA Stock Price Prediction برشلونة ضد الريال (tXRkiPtmIk) Mshale",
-      "sourceName": "Mshale",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://mshale.com/b3e0aa5d/5be40edakrUDz68wUJw"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "7h ago",
@@ -147,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-06T06:48:19.000Z",
       "title": "RL does not stop after you deploy the checkpoint. It is only the start of relentless feedback.",
       "body": "RL does not stop after you deploy the checkpoint. It is only the start of relentless feedback.",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-06T04:31:08.000Z",
       "title": "All you have to do is look at the road – your Tesla does all the rest",
       "body": "All you have to do is look at the road – your Tesla does all the rest https://t.co/MBMwkYSIsR",
@@ -186,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-06T00:41:19.000Z",
       "title": "tesla-roadster-ferrari-luce",
       "body": "tesla-roadster-ferrari-luce Teslarati",
@@ -199,11 +212,11 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-06-05T20:43:35.000Z",
       "title": "JPMorgan Turns Upbeat on Tesla After Replacing Bearish Analyst",
-      "body": "JPMorgan Turns Upbeat on Tesla After Replacing Bearish Analyst Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "body": "JPMorgan Turns Upbeat on Tesla After Replacing Bearish Analyst Bloomberg",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -212,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "21h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-05T19:40:15.000Z",
       "title": "Tesla Roadster unveiling gets pushed again, but new event details emerge",
       "body": "Tesla has reportedly pushed the unveiling of the Roadster once again, but there are also evidently new details about the event that the company plans to show off. The Information reported this morning that Tesla will now…",
@@ -225,7 +238,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-05T17:40:00.000Z",
       "title": "Tesla Employees Leaked Their Thoughts About FSD. They Weren't Pretty",
       "body": "Tesla Employees Leaked Their Thoughts About FSD. They Weren't Pretty InsideEVs",
@@ -234,19 +247,6 @@
       "slug": "",
       "summary": "",
       "href": "https://insideevs.com/features/797947/tesla-fsd-podcast/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-06-04T18:58:12.000Z",
-      "title": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst",
-      "body": "Tesla has its answer to grow its automotive sales over the next few years, TD Cowen analyst Itay Michaeli says, but it just has to bring it to the U.S. On Thursday, Michaeli reiterated his $490 price target and the ‘Buy’…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-tsla-answer-auto-growth-bring-to-u-s-analyst/"
     },
     {
       "category": "product",
