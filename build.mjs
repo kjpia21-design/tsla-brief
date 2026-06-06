@@ -246,12 +246,27 @@ function renderHotNews(cards) {
   const items = top.map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
+    // 모바일 1줄용 축약 — <em> 제거 후 단어 경계로 잘라 "잘린 듯" 보이지 않게.
     return `      <li><a class="hot-news__item ${cls}" href="${escapeHtml(href)}">
-        <span class="hot-news__title">${c.title}</span>
+        <span class="hot-news__title"><span class="hn-full">${c.title}</span><span class="hn-short">${escapeHtml(shortHotTitle(c.title))}</span></span>
         <span class="hot-news__arrow">→</span>
       </a></li>`;
   }).join("\n");
   return `\n${items}\n      `;
+}
+
+// 핫뉴스 모바일 축약 — <em> 제거, 단어 경계 기준 ~MAX 자 이내로. 말줄임표 없이 깔끔하게 끝.
+function shortHotTitle(htmlTitle, MAX = 26) {
+  const plain = (htmlTitle || "").replace(/<\/?em>/g, "").trim();
+  if ([...plain].length <= MAX) return plain;
+  let out = "";
+  for (const part of plain.split(/(\s+)/)) {
+    if ([...(out + part)].length > MAX) break;
+    out += part;
+  }
+  out = out.trim();
+  if (!out) out = [...plain].slice(0, MAX).join("");
+  return out;
 }
 
 /**

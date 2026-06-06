@@ -339,6 +339,10 @@
     min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
   }
   .hot-news__title em{font-style:italic;color:var(--cat-color,var(--tesla-red));font-weight:600}
+  /* 모바일은 축약(hn-short), ≥560px 는 풀 제목(hn-full) */
+  .hn-full{display:none}
+  .hn-short{display:inline}
+  @media (min-width:560px){ .hn-full{display:inline} .hn-short{display:none} }
   .hot-news__arrow{
     color:var(--ink-mute);font-size:13px;font-weight:600;
     transition:transform var(--t-1) var(--ease),color var(--t-1) var(--ease);
@@ -360,7 +364,8 @@
      CATEGORY CARDS — mobile: 1col stack
      ============================================================ */
   .cats{padding:20px 0 40px}
-  .cats__head{display:flex;flex-direction:row;align-items:baseline;justify-content:space-between;margin-bottom:16px;gap:12px;flex-wrap:wrap}
+  .cats__head{margin-bottom:16px}
+  .cats__titlerow{display:flex;align-items:center;justify-content:space-between;gap:12px}
   .cats__beta{
     display:inline-block;font-family:"IBM Plex Mono",ui-monospace,monospace;
     font-size:9.5px;letter-spacing:.18em;color:var(--ink-mute);
@@ -428,8 +433,8 @@
   .src .d{width:8px;height:8px;border-radius:2px;flex-shrink:0}
   .src .d-sec{background:#16A34A}
   .src .d-off{background:#8B5CF6}
-  .src .d-press{background:#6B7280}
-  .src .d-rumor{background:#B8B8C0}
+  .src .d-press{background:#0D9488}
+  .src .d-rumor{background:#9CA3AF}
   /* 신 스키마: 매체명 직접 노출 */
   .src-name{display:inline-flex;align-items:center;gap:6px;color:var(--ink-mid);font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
   .src-name .d{flex-shrink:0}
@@ -440,8 +445,8 @@
   .src-legend__items .d{width:8px;height:8px;border-radius:2px;flex-shrink:0}
   .src-legend__items .d-sec{background:#16A34A}
   .src-legend__items .d-off{background:#8B5CF6}
-  .src-legend__items .d-press{background:#6B7280}
-  .src-legend__items .d-rumor{background:#B8B8C0}
+  .src-legend__items .d-press{background:#0D9488}
+  .src-legend__items .d-rumor{background:#9CA3AF}
   .src-legend__how{margin-left:auto}
   .src-legend__how summary{cursor:pointer;color:var(--ink-mute);list-style:none;display:inline-flex;align-items:center;gap:5px;transition:color var(--t-1) var(--ease)}
   .src-legend__how summary::-webkit-details-marker{display:none}
@@ -807,11 +812,11 @@
 <section class="cats">
   <div class="wrap">
     <div class="cats__head">
-      <div>
+      <div class="cats__titlerow">
         <h2 class="cats__title">최신 뉴스</h2>
-        <span class="cats__sub"><!-- BLOCK:CARDS_TIME -->2026.05.31 09:00 KST 기준 · 최신순<!-- /BLOCK:CARDS_TIME --></span>
+        <a class="cats__all" href="news.html">뉴스 전체보기</a>
       </div>
-      <a class="cats__all" href="news.html">뉴스 전체보기</a>
+      <span class="cats__sub"><!-- BLOCK:CARDS_TIME -->2026.05.31 09:00 KST 기준 · 최신순<!-- /BLOCK:CARDS_TIME --></span>
     </div>
 
     <div class="src-legend">
@@ -822,7 +827,7 @@
         <span><i class="d d-rumor"></i> 추측·커뮤니티</span>
       </span>
       <details class="src-legend__how">
-        <summary>큐레이션 기준</summary>
+        <summary aria-label="큐레이션 기준 설명"></summary>
         <p>테슬라 주주에게 의미 있는 4개 주제(주가·실적 / 차량·에너지·옵티머스 / 자율·로보택시 / 일론)만 다룹니다. 매 2시간 RSS를 모아 ① 신선도(최근 24시간 가산점)와 ② 출처 신뢰도(증권·공식·전문매체 가산, 익명 커뮤니티·블로그 감점)로 점수를 매겨 카테고리당 상위 항목을 자동 선별합니다. 점 색은 출처 등급을 뜻합니다 — 사람의 의견이 아니라 출처 자체의 성격입니다.</p>
       </details>
     </div>
