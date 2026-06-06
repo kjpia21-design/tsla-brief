@@ -23,6 +23,7 @@ const OUT_DIR = path.join(ROOT, "dist");
 // GitHub Pages 호환을 위해 index.html 로 출력. 템플릿은 home-v1.html 그대로.
 const OUT_PATH = path.join(OUT_DIR, "index.html");
 const OUT_ASSETS = path.join(OUT_DIR, "assets");
+const SITE = "https://teslabriefing.com";  // canonical 도메인 (sitemap·canonical·JSON-LD·RSS)
 
 const CATEGORY_CLASS = {
   stock: "is-stock",
@@ -75,7 +76,7 @@ function replaceBlock(html, name, replacement, opts = {}) {
       `<!--\\s*BLOCK:${name}\\s*-->[\\s\\S]*?<!--\\s*/BLOCK:${name}\\s*-->`,
       "g"
     ),
-    out
+    () => out   // 함수 치환 — 값에 $·$& 가 있어도 안전(예: "주가 $500")
   );
 }
 
@@ -497,6 +498,8 @@ function renderArticle(template, card, lang = "ko") {
   out = replaceBlock(out, "A_LEAD",         escapeHtml(leadText), opts);
   out = replaceBlock(out, "A_SUMMARY",      summaryHtml, opts);
   out = replaceBlock(out, "A_HREF",         escapeHtml(card.href || "#"), opts);
+  out = replaceBlock(out, "A_CANON",        escapeHtml(card.slug || ""), opts);   // canonical·og:url 슬러그
+  out = replaceBlock(out, "A_JSONLD",       articleJsonLd(card), opts);            // NewsArticle 구조화 데이터
   return out;
 }
 
@@ -661,7 +664,69 @@ async function buildOneLang(opts) {
   const numArticles = await generateArticles({ items: articleItems }, { outDir, lang });
   await generateNewsPage(archive, { newsTemplateName, outDir, lang, fullArchive });
 
-  return { numCards: cards.items.length, numArchive: archive.items.length, numArticles, bytes: out.length };
+  return { numCards: cards.items.length, numArchive: archive.items.length, numArticles, bytes: out.length, articles: articleItems };
+}
+
+// ─────────────────────────────────────────────────────────────
+// SEO: 구조화 데이터(JSON-LD) · sitemap.xml · robots.txt · rss.xml
+// ─────────────────────────────────────────────────────────────
+function articleJsonLd(card) {
+  const headline = (card.title || "").replace(/<\/?em>/g, "").trim();
+  const url = `${SITE}/articles/${card.slug}`;
+  const desc = (card.summary || card.body || "")
+    .replace(/<\/?em>/g, "").replace(/\s+/g, " ").trim().slice(0, 200);
+  const obj = {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    headline,
+    description: desc,
+    url,
+    mainEntityOfPage: { "@type": "WebPage", "@id": url },
+    image: [`${SITE}/assets/og-image.png`],
+    inLanguage: "ko",
+    author: { "@type": "Organization", name: "Tesla Brief!ng", url: `${SITE}/` },
+    publisher: {
+      "@type": "Organization",
+      name: "Tesla Brief!ng",
+      logo: { "@type": "ImageObject", url: `${SITE}/assets/og-image.png` },
+    },
+  };
+  if (card.pubDate) { obj.datePublished = card.pubDate; obj.dateModified = card.pubDate; }
+  return JSON.stringify(obj);
+}
+
+function buildSitemap(entries) {
+  const body = entries.map((e) => {
+    const t = [`    <loc>${escapeHtml(e.loc)}</loc>`];
+    if (e.lastmod)    t.push(`    <lastmod>${e.lastmod}</lastmod>`);
+    if (e.changefreq) t.push(`    <changefreq>${e.changefreq}</changefreq>`);
+    if (e.priority)   t.push(`    <priority>${e.priority}</priority>`);
+    return `  <url>\n${t.join("\n")}\n  </url>`;
+  }).join("\n");
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${body}\n</urlset>\n`;
+}
+
+function buildRobots() {
+  return `User-agent: *\nAllow: /\n\nSitemap: ${SITE}/sitemap.xml\n`;
+}
+
+function buildRss(items) {
+  const now = new Date().toUTCString();
+  const entries = items.slice(0, 30).map((c) => {
+    const title = escapeHtml((c.title || "").replace(/<\/?em>/g, "").trim());
+    const link = `${SITE}/articles/${c.slug}`;
+    const desc = escapeHtml((c.body || c.summary || "")
+      .replace(/<\/?em>/g, "").replace(/\s+/g, " ").trim().slice(0, 280));
+    const pub = c.pubDate ? new Date(c.pubDate).toUTCString() : now;
+    const cat = escapeHtml(c.categoryLabel || c.category || "");
+    return `    <item>\n      <title>${title}</title>\n      <link>${link}</link>\n` +
+           `      <guid isPermaLink="true">${link}</guid>\n      <pubDate>${pub}</pubDate>\n` +
+           `      <category>${cat}</category>\n      <description>${desc}</description>\n    </item>`;
+  }).join("\n");
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n  <channel>\n` +
+         `    <title>Tesla Brief!ng — 테슬라 브리핑</title>\n    <link>${SITE}/</link>\n` +
+         `    <description>테슬라 주주를 위한, 노이즈 없는 일일 브리핑</description>\n` +
+         `    <language>ko</language>\n    <lastBuildDate>${now}</lastBuildDate>\n${entries}\n  </channel>\n</rss>\n`;
 }
 
 async function main() {
@@ -686,6 +751,27 @@ async function main() {
     try { await cp(path.join(DATA_DIR, name), path.join(OUT_DIR, "data", name)); }
     catch (e) { console.warn(`[build] skip data/${name}: ${e.message}`); }
   }
+
+  // ── SEO: sitemap.xml · robots.txt · rss.xml (clean URL 기준) ──
+  const todayDate = new Date().toISOString().slice(0, 10);
+  const staticPages = [
+    { loc: `${SITE}/`,        lastmod: todayDate, changefreq: "hourly",  priority: "1.0" },
+    { loc: `${SITE}/news`,    lastmod: todayDate, changefreq: "hourly",  priority: "0.8" },
+    { loc: `${SITE}/about`,                       changefreq: "monthly", priority: "0.5" },
+    { loc: `${SITE}/privacy`,                     changefreq: "yearly",  priority: "0.3" },
+  ];
+  const arts = (ko.articles || []).filter((c) => c.slug);
+  const artEntries = arts.map((c) => ({
+    loc: `${SITE}/articles/${c.slug}`,
+    lastmod: c.pubDate ? c.pubDate.slice(0, 10) : todayDate,
+    changefreq: "weekly",
+    priority: "0.6",
+  }));
+  await writeFile(path.join(OUT_DIR, "sitemap.xml"), buildSitemap([...staticPages, ...artEntries]), "utf8");
+  await writeFile(path.join(OUT_DIR, "robots.txt"), buildRobots(), "utf8");
+  const rssSorted = [...arts].sort((a, b) => (Date.parse(b.pubDate || 0) || 0) - (Date.parse(a.pubDate || 0) || 0));
+  await writeFile(path.join(OUT_DIR, "rss.xml"), buildRss(rssSorted), "utf8");
+  console.log(`[build] SEO · sitemap ${staticPages.length + artEntries.length} urls · robots · rss ${Math.min(30, rssSorted.length)}`);
 
   // 출력 요약 (한국어 단일 언어)
   const kpiData = await readJson("kpi.json");
