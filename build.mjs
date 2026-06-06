@@ -243,7 +243,7 @@ function renderHotNews(cards) {
     if (hotA !== hotB) return hotB - hotA;
     return Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0);
   });
-  const top = ranked.slice(0, 4);   // 핫뉴스 4건(5번째 줄은 로보택시 운영현황 박스로 대체)
+  const top = ranked.slice(0, 5);
   const items = top.map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
@@ -349,22 +349,6 @@ function newsIndexEntry(c, lang = "ko") {
     src: renderCardMeta(c),
     q: `${titlePlain} ${c.body || ""} ${c.sourceName || ""}`.toLowerCase(),
   };
-}
-
-// 로보택시 운영현황 1줄 박스 — data/robotaxi.json. '무인 운영 N일째'는 빌드 시 자동 계산(일별 갱신).
-function renderRobotaxiBar(rtx) {
-  if (!rtx || !rtx.driverlessSince) return "";
-  const days = Math.max(0, Math.floor((Date.now() - Date.parse(rtx.driverlessSince)) / 86400000));
-  const href = rtx.sourceUrl || "#";
-  const full = [rtx.cities, rtx.fleet, rtx.serviceArea].filter(Boolean).map(escapeHtml).join(" · ");
-  const short = [rtx.citiesShort || rtx.cities, rtx.fleetShort || rtx.fleet].filter(Boolean).map(escapeHtml).join(" · ");
-  return `
-      <a class="rtx-bar" href="${escapeHtml(href)}" target="_blank" rel="noopener" aria-label="테슬라 로보택시 운영현황 — 출처 텍사스 DMV 자율주행 운영사 등록">
-        <span class="rtx-bar__live" aria-hidden="true"></span>
-        <span class="rtx-bar__label">로보택시</span>
-        <span class="rtx-bar__status"><span class="rtx-bar__d">무인 운영 ${days}일째</span><span class="rtx-full"> · ${full}</span><span class="rtx-short"> · ${short}</span></span>
-        <span class="rtx-bar__arrow" aria-hidden="true">›</span>
-      </a>`;
 }
 
 function renderVideos(videos) {
@@ -625,8 +609,6 @@ async function buildOneLang(opts) {
   const template = await readFile(templatePath, "utf8");
   const kpi = await loadLivePrice();
   const videos = await readJson("videos.json");
-  let robotaxi = {};
-  try { robotaxi = await readJson("robotaxi.json"); } catch { /* 없으면 박스 생략 */ }
   let cards;
   try {
     cards = await readJson(cardsName);
@@ -654,8 +636,8 @@ async function buildOneLang(opts) {
 
   // 라벨 lang 분기
   const hotCountLabel = lang === "en"
-    ? `${Math.min(4, cards.items.length)} items`
-    : `총 ${Math.min(4, cards.items.length)}건`;
+    ? `${Math.min(5, cards.items.length)} items`
+    : `총 ${Math.min(5, cards.items.length)}건`;
   const freshLabel = lang === "en" ? "calculating freshness…" : "갱신 시각 계산 중…";
 
   // 영어 빌드에서 cards.asOf 에 한글이 섞여 있으면 (raw 폴백 등) 영문으로 재생성.
@@ -676,7 +658,6 @@ async function buildOneLang(opts) {
   out = replaceBlock(out, "CARDS_TIME",  cardsAsOf);
   out = replaceBlock(out, "CARDS_GRID",  renderCards(cards, { lang }));
   out = replaceBlock(out, "VIDEOS_GRID", renderVideos(videos));
-  out = replaceBlock(out, "ROBOTAXI",    renderRobotaxiBar(robotaxi));
   out = replaceBlock(out, "BUILD_INFO",  `<!-- build: ${buildIso} -->`);
 
   await mkdir(outDir, { recursive: true });

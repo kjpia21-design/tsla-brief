@@ -366,25 +366,6 @@
     .hot-news__title{font-size:13px}
   }
 
-  /* 로보택시 운영현황 1줄 박스 (핫뉴스 하단, 5번째 줄 대체) */
-  .rtx-bar{
-    display:flex;align-items:center;gap:8px;margin-top:10px;
-    padding:11px 13px;border-radius:var(--r-md);
-    background:var(--bg-2);border:1px solid var(--line);border-left:3px solid var(--c-fsd);
-    text-decoration:none;color:var(--ink-mid);font-size:13px;line-height:1.4;
-    white-space:nowrap;overflow:hidden;transition:background var(--t-1) var(--ease);
-  }
-  .rtx-bar:hover,.rtx-bar:active{background:var(--bg-3)}
-  .rtx-bar__live{flex-shrink:0;width:7px;height:7px;border-radius:50%;background:var(--c-fsd);box-shadow:0 0 8px var(--c-fsd);animation:rtxpulse 2.4s ease-in-out infinite}
-  @keyframes rtxpulse{0%,100%{opacity:1}50%{opacity:.4}}
-  @media (prefers-reduced-motion:reduce){ .rtx-bar__live{animation:none} }
-  .rtx-bar__label{flex-shrink:0;font-weight:700;color:var(--c-fsd);letter-spacing:-0.01em}
-  .rtx-bar__status{min-width:0;overflow:hidden;text-overflow:ellipsis;color:var(--ink-mute)}
-  .rtx-bar__d{color:var(--ink-mid);font-weight:600}
-  .rtx-bar__arrow{margin-left:auto;flex-shrink:0;color:var(--ink-mute);font-size:15px}
-  .rtx-full{display:none}.rtx-short{display:inline}
-  @media (min-width:560px){ .rtx-full{display:inline} .rtx-short{display:none} }
-
   /* ============================================================
      CATEGORY CARDS — mobile: 1col stack
      ============================================================ */
@@ -830,7 +811,6 @@
       <li><a class="hot-news__item is-stock" href="#"><span class="hot-news__title">로딩 중…</span><span class="hot-news__arrow">→</span></a></li>
       <!-- /BLOCK:HOT_NEWS -->
     </ul>
-    <!-- BLOCK:ROBOTAXI --><!-- /BLOCK:ROBOTAXI -->
   </div>
 </section>
 
