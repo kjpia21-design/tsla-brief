@@ -25,6 +25,10 @@
 <meta name="twitter:title" content="TESLA Brief!ng — 테슬라 뉴스를 한눈에 빠르게">
 <meta name="twitter:description" content="테슬라 주주를 위한 일일 브리핑.">
 <meta name="twitter:image" content="https://teslabriefing.com/assets/og-image.png">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.3/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap">
 <style>
   /* =====================================================
    * TSLA Brief — home (Dark, Mobile-first)
@@ -85,7 +89,7 @@
     /* body 기본 색 = 밝은 회색 톤. 카드 외 모든 일반 텍스트가 이 값을 상속.
        카드 제목 등 강조가 필요한 곳만 .ccard h3 처럼 명시적으로 var(--ink) 사용. */
     color:var(--ink-mid);
-    font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    font-family:"Wanted Sans Variable","Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
     line-height:1.6;
     font-size:15px;
     -webkit-font-smoothing:antialiased;
@@ -117,11 +121,11 @@
   /* 워드마크 로고 — Tesla(red) + Brief!ng('!'만 red) */
   .brand{display:inline-flex;align-items:baseline;gap:5px;min-width:0;text-decoration:none}
   .brand__block{
-    font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:700;font-size:20px;
+    font-family:"Wanted Sans Variable","Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:700;font-size:20px;
     color:var(--tesla-red);letter-spacing:-0.02em;line-height:1;flex-shrink:0;
   }
   .brand__text{
-    font-family:"Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:800;font-size:20px;
+    font-family:"Wanted Sans Variable","Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:800;font-size:20px;
     color:var(--ink);letter-spacing:-0.02em;line-height:1;font-style:normal;
     white-space:nowrap;
   }
@@ -148,7 +152,7 @@
   .hero__eyebrow{display:inline-flex;align-items:center;gap:8px;margin-bottom:14px}
   .hero__dot{width:6px;height:6px;border-radius:50%;background:var(--tesla-red);box-shadow:0 0 12px var(--tesla-red)}
   .hero h1{font-size:clamp(32px,7vw,44px);font-weight:700;line-height:1.15;letter-spacing:-0.01em;margin:0 0 14px;color:var(--ink)}
-  .hero h1 em{font-style:italic;font-family:"Inter","IBM Plex Mono",ui-monospace,monospace;color:var(--tesla-red);font-weight:600}
+  .hero h1 em{font-style:italic;color:var(--tesla-red);font-weight:600}
   .hero p.lead{color:var(--ink-mid);font-size:15px;max-width:48ch;margin:0 0 22px;line-height:1.65}
   .hero__meta{display:flex;gap:10px 16px;flex-wrap:wrap;color:var(--ink-mute);font-size:12.5px;margin-bottom:22px}
   .hero__meta b{color:var(--ink);font-weight:600}
@@ -335,7 +339,7 @@
     word-break:keep-all;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;
     -webkit-line-clamp:1;-webkit-box-orient:vertical;
   }
-  .hot-news__title em{font-style:italic;font-family:"Inter",ui-monospace,monospace;color:var(--cat-color,var(--tesla-red));font-weight:600}
+  .hot-news__title em{font-style:italic;color:var(--cat-color,var(--tesla-red));font-weight:600}
   .hot-news__arrow{
     color:var(--ink-mute);font-size:13px;font-weight:600;
     transition:transform var(--t-1) var(--ease),color var(--t-1) var(--ease);
@@ -415,7 +419,7 @@
     margin:2px 0 0;color:var(--ink);word-break:keep-all;
     display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
   }
-  .ccard h3 em{font-style:italic;font-family:"Inter",ui-monospace,monospace;color:var(--cat-color,var(--tesla-red));font-weight:600}
+  .ccard h3 em{font-style:italic;color:var(--cat-color,var(--tesla-red));font-weight:600}
   .ccard__body{
     color:var(--ink-mid);font-size:12.5px;margin:0;line-height:1.5;word-break:keep-all;
     display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
@@ -482,7 +486,7 @@
     font-size:clamp(22px,5vw,28px);font-weight:700;letter-spacing:-0.005em;margin:0;
     color:var(--ink);line-height:1.2;
   }
-  .musk-live__title em{font-style:italic;font-family:"Inter",ui-monospace,monospace;color:var(--c-musk);font-weight:600}
+  .musk-live__title em{font-style:italic;color:var(--c-musk);font-weight:600}
   .musk-live__note{
     display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;
     font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;
