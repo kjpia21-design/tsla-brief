@@ -1,6 +1,38 @@
 {
-  "asOf": "2026-06-06 21:10 UTC · 누적 201건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-06 23:00 UTC · 누적 203건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "20m ago",
+      "pubDate": "2026-06-06T20:40:00.000Z",
+      "title": "Barron's, 일론의 SpaceX IPO <em>\"너무 커서 성공 불가\"</em> 분석",
+      "hotShort": "Barron's, SpaceX IPO <em>성공 어렵다</em> 분석",
+      "body": "Barron's에 따르면 일론 머스크의 SpaceX가 추진 중인 약 1.8조 달러 규모의 IPO가 너무 큰 규모 때문에 성공하기 어렵다는 분석이 나왔다 — 일론의 자본·관심이 SpaceX·xAI 등 다른 벤처에 분산될수록 테슬라 경영 집중도 약화 우려가 함께 커진다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-ipo-too-big-barrons-2026-06-06",
+      "summary": "Barron's가 일론 머스크의 SpaceX IPO 실현 가능성에 의문을 제기하는 분석 기사를 게재했다. 기사 제목이 명시하듯 1.8조 달러($1.8 trillion)로 평가되는 SpaceX의 규모가 IPO 시장이 소화하기에 너무 크다는 것이 핵심 주장이다.\n\n시장에서 1.8조 달러 규모의 IPO가 성사되려면 사상 최대 수준의 투자 수요가 필요하다. Barron's는 이 수준이 현실적이지 않다고 본 것으로, SpaceX의 기업 가치 자체가 시장에서 온전히 소화되기 어렵다는 판단을 담고 있다.\n\n테슬라 주주 관점에서 SpaceX IPO 뉴스는 두 가지 프리즘으로 읽힌다. 첫째, 일론이 SpaceX·xAI·X(트위터) 등 여러 벤처를 병행하는 상황에서 테슬라 경영에 쏟는 실질적 집중도가 분산될 수 있다는 우려다. 둘째, SpaceX IPO 실현이 어렵다면 일론의 개인 유동성 확보 경로가 제한돼 테슬라 지분 담보 압박 등 간접 변수가 생길 수도 있다.\n\n현시점에서는 Barron's의 분석 기사 한 건으로, SpaceX IPO 타임라인과 구체적 조건은 공식 발표를 통해 별도 확인이 필요하다.",
+      "href": "https://www.barrons.com/articles/spacex-ipo-elon-musk-tesla-stock-6ef52370",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-06T20:00:02.000Z",
+      "title": "테슬라 중국 판매 급증에도 <em>고(高) PER</em>이 발목",
+      "hotShort": "테슬라 중국 판매 급증 — 그러나 <em>PER 부담</em>이 문제",
+      "body": "Barchart에 따르면 테슬라의 중국 판매량이 뚜렷이 반등하고 있으나, 극도로 높은 주가수익비율(P/E)을 감내하지 못한다면 이 긍정 신호가 주가 투자 논리로서 의미가 없다는 분석이 나왔다 — 실물 지표 개선에도 밸류에이션 부담이 주가 상승의 핵심 걸림돌로 남아 있다는 경고다.",
+      "sourceName": "Barchart.com",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-china-sales-pe-ratio-2026-06-06",
+      "summary": "Barchart가 테슬라의 중국 판매 동향과 주가 밸류에이션의 괴리를 짚는 분석을 게재했다. 보도에 따르면 테슬라의 중국 내 차량 판매가 뚜렷이 반등하는 흐름을 보이고 있으나, 이 실적 개선이 자동으로 주가 매력도 향상으로 이어지는 것은 아니라는 것이 분석의 핵심이다.\n\n기사가 지적하는 핵심 장벽은 테슬라의 높은 P/E 멀티플이다. 성장 기대치가 이미 주가에 반영돼 있다 보니, 판매 증가라는 실물 호재만으로는 현재 밸류에이션을 정당화하기 어렵다는 논리다. 쉽게 말해 중국 판매가 늘어도 'TSLA 주식이 비싸다'는 인식이 쉽게 바뀌지 않는다는 경고다.\n\n테슬라는 중국을 미국 외 최대 시장으로 두고 있으며, 현지 BYD 등 경쟁사와의 가격 경쟁 및 수요 회복 여부는 분기 인도량 전망의 핵심 변수다. 중국 판매 반등이 실체적 추세인지 일시적 개선인지를 확인하는 것이 투자자에게 중요한 다음 체크포인트다.\n\n장기적으로 테슬라 주가의 재평가는 판매 증가뿐 아니라 FSD 수익화·로보택시 출시·옵티머스 사업화 등 고성장 내러티브의 실현 여부에 달려 있다는 분석이 지배적이다.",
+      "href": "https://www.barchart.com/story/news/2342852/tesla-sales-in-china-are-popping-but-that-means-nothing-if-you-cant-stomach-tsla-stocks-absurd-p-e-ratio",
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
