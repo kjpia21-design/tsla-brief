@@ -1,10 +1,88 @@
 {
-  "asOf": "2026-06-06 05:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-06 07:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3m ago",
+      "time": "12m ago",
+      "pubDate": "2026-06-06T06:48:19.000Z",
+      "title": "RL does not stop after you deploy the checkpoint. It is only the start of relentless feedback.",
+      "body": "RL does not stop after you deploy the checkpoint. It is only the start of relentless feedback.",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2063150977239445852"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "32m ago",
+      "pubDate": "2026-06-06T06:28:16.000Z",
+      "title": "Join our AI recommendations &amp; advertising engineering team!",
+      "body": "Join our AI recommendations &amp; advertising engineering team! https://t.co/j66DGY2K12",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063145931554406899"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "50m ago",
+      "pubDate": "2026-06-06T06:10:28.000Z",
+      "title": "This is simply a fact",
+      "body": "This is simply a fact https://t.co/M6gWF7Bm8H",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063141453929275816"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "51m ago",
+      "pubDate": "2026-06-06T06:09:35.000Z",
+      "title": "𝕏 is strong in the east too. #1 social network of any kind in Japan.",
+      "body": "𝕏 is strong in the east too. #1 social network of any kind in Japan. https://t.co/IF5m87dzpF",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063141229504647393"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-06T05:19:01.000Z",
+      "title": "The car that used to be in my garage is currently in an Earth-Mars elliptical orbit and will be there for at least 10…",
+      "body": "The car that used to be in my garage is currently in an Earth-Mars elliptical orbit and will be there for at least 10 million years https://t.co/SlBthuU5hp",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063128506771345487"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-06T05:04:30.000Z",
+      "title": "𝕏 is the set of all things",
+      "body": "𝕏 is the set of all things https://t.co/fSsxlxLXyj",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063124852312101260"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
       "pubDate": "2026-06-06T04:57:20.000Z",
       "title": "These videos make me wanna go to China to try FSD out in such cases.",
       "body": "These videos make me wanna go to China to try FSD out in such cases. https://t.co/UpVW4RaOKq",
@@ -17,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "30m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-06T04:31:08.000Z",
       "title": "All you have to do is look at the road – your Tesla does all the rest",
       "body": "All you have to do is look at the road – your Tesla does all the rest https://t.co/MBMwkYSIsR",
@@ -28,22 +106,9 @@
       "href": "https://x.com/Tesla/status/2063116454661431761"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-06T01:39:01.000Z",
-      "title": "Starlink connecting schools in Bolivia",
-      "body": "Starlink connecting schools in Bolivia https://t.co/WZGBIaJM4j",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2063073142306750576"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-06T01:06:14.000Z",
       "title": "Repairing @Tesla vehicles, major components, offering alternative quality post-warranty service &amp; performing besp…",
       "body": "Repairing @Tesla vehicles, major components, offering alternative quality post-warranty service &amp; performing bespoke modifications to gain certification for the @cybertruck in Switzerland or Europe has created an opp…",
@@ -56,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-06T00:41:19.000Z",
       "title": "tesla-roadster-ferrari-luce",
       "body": "tesla-roadster-ferrari-luce Teslarati",
@@ -67,22 +132,9 @@
       "href": "https://www.teslarati.com/ferrari-ceo-self-driving-stance-echoes-elon-musk-sort-of/tesla-roadster-ferrari-luce/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-05T23:08:37.000Z",
-      "title": "Grok has reached the top spot for the search term “AI App” on the Apple App Store 🇺🇸 The ranking places Grok ahead …",
-      "body": "Grok has reached the top spot for the search term “AI App” on the Apple App Store 🇺🇸 The ranking places Grok ahead of some of the biggest names in AI, highlighting its growing momentum and user adoption. The AI race is…",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2063035290210693596"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-05T21:39:54.000Z",
       "title": "A major AI event for Apple next week at WWDC 🐂🏆🍿 @CNBCClosingBell",
       "body": "A major AI event for Apple next week at WWDC 🐂🏆🍿 @CNBCClosingBell https://t.co/Lt6pBE7kBA",
@@ -95,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-05T20:56:11.000Z",
       "title": "Great to be on @CNBCClosingBell with @TheJudgeCNBC discussing Apple’s WWDC in Cupertino on Monday and what we expect …",
       "body": "Great to be on @CNBCClosingBell with @TheJudgeCNBC discussing Apple’s WWDC in Cupertino on Monday and what we expect to hear on the AI front in a major day for the tech world with @Kantrowitz on the panel 👇🍎🍿🏆📺📱🐂 …",
@@ -108,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-05T19:40:15.000Z",
       "title": "Tesla Roadster unveiling gets pushed again, but new event details emerge",
       "body": "Tesla has reportedly pushed the unveiling of the Roadster once again, but there are also evidently new details about the event that the company plans to show off. The Information reported this morning that Tesla will now…",
@@ -119,74 +171,9 @@
       "href": "https://www.teslarati.com/tesla-roadster-unveiling-gets-pushed-again-new-event-details-emerge/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-05T18:08:17.000Z",
-      "title": "Tesla Model 3 has a tasty Supercharging incentive, but it’s ending soon",
-      "body": "Tesla is offering a tasty Supercharging incentive on certain Model 3 trims, but the company has officially put a concrete end date on it, so those interested should act fast. Tesla is offering Free Supercharging for One …",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-model-3-tasty-supercharging-incentive-ending-soon/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
-      "pubDate": "2026-06-05T17:40:00.000Z",
-      "title": "Tesla Employees Leaked Their Thoughts About FSD. They Weren't Pretty",
-      "body": "Tesla Employees Leaked Their Thoughts About FSD. They Weren't Pretty InsideEVs",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://insideevs.com/features/797947/tesla-fsd-podcast/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
-      "pubDate": "2026-06-05T17:25:19.000Z",
-      "title": "🤔 Can’t think of a single time this happened",
-      "body": "🤔 Can’t think of a single time this happened https://t.co/QZXnwo0AZv",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2062948898319040749"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
-      "pubDate": "2026-06-05T17:24:33.000Z",
-      "title": "These are all common sense!",
-      "body": "These are all common sense! https://t.co/udwjH7DJd2",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2062948705972486385"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
-      "pubDate": "2026-06-05T17:18:49.000Z",
-      "title": "They should change their name to the Southern False Flag Center!",
-      "body": "They should change their name to the Southern False Flag Center! https://t.co/mu58IfPQR1",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2062947259411468561"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-05T17:09:43.000Z",
       "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
       "body": "Prediction: Tesla Stock Will Hit $500 on This Date Yahoo Finance",
@@ -199,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-05T15:45:39.000Z",
       "title": "Products do not reach maturity from day one and are always messy to begin with. Yet, that is the difference between c…",
       "body": "Products do not reach maturity from day one and are always messy to begin with. Yet, that is the difference between corporate jobs, where everything is established and you repeat the same things, versus an empty canvas f…",
@@ -212,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-05T14:04:42.000Z",
       "title": "Real-World Agentic",
       "body": "Real-World Agentic https://t.co/fmkVbJRbik",
@@ -225,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-05T14:00:00.000Z",
       "title": "Come visit our CVPR booth for hands-on experiences: – Neural video generation + sim drive – Selfies with @Tesla_Optim…",
       "body": "Come visit our CVPR booth for hands-on experiences: – Neural video generation + sim drive – Selfies with @Tesla_Optimus – Real FSD test drives in Tesla models of your choice Chat directly with the team behind it, includi…",
@@ -238,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-05T13:24:35.000Z",
       "title": "JPMorgan Turns Upbeat on Tesla After Replacing Bearish Analyst",
       "body": "JPMorgan Turns Upbeat on Tesla After Replacing Bearish Analyst Bloomberg.com",
@@ -251,15 +238,28 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
-      "pubDate": "2026-06-05T11:04:07.000Z",
-      "title": "A big day Monday in Cupertino for Apple with WWDC…will be discussing what to expect on the AI front from Apple on @CN…",
-      "body": "A big day Monday in Cupertino for Apple with WWDC…will be discussing what to expect on the AI front from Apple on @CNBCClosingBell at 3 pm with @TheJudgeCNBC @CNBC 🔥🏆🍿📺🍎📱",
-      "sourceName": "Dan Ives (X)",
+      "time": "2d ago",
+      "pubDate": "2026-06-04T18:58:12.000Z",
+      "title": "Tesla has its answer to auto growth, it just has to bring it to the U.S.: analyst",
+      "body": "Tesla has its answer to grow its automotive sales over the next few years, TD Cowen analyst Itay Michaeli says, but it just has to bring it to the U.S. On Thursday, Michaeli reiterated his $490 price target and the ‘Buy’…",
+      "sourceName": "www.teslarati.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/DivesTech/status/2062852964675355127"
+      "href": "https://www.teslarati.com/tesla-tsla-answer-auto-growth-bring-to-u-s-analyst/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "18d ago",
+      "pubDate": "2026-05-19T00:00:00.000Z",
+      "title": "NHTSA recall 26V315000 — EQUIPMENT:OTHER:LABELS (Model Y)",
+      "body": "Tesla, Inc. (Tesla) is recalling certain 2025-2026 Model Y vehicles. The certification label may not have been installed. As such, these vehicles fail to comply with the requirements of 49 C.F.R. Part 567, \"Certification",
+      "sourceName": "NHTSA",
+      "sourceLabel": "sec",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nhtsa.gov/recalls?nhtsaId=26V315000"
     }
   ]
 }
