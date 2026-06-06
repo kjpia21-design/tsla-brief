@@ -627,6 +627,27 @@
   .footer__about:hover{border-bottom-color:var(--tesla-red)}
   /* 문의 메일 — 줄바꿈 방지 */
   .footer__mail{white-space:nowrap}
+  /* 푸터 유튜브 채널 — 크게 강조 */
+  .footer__yt{
+    display:flex;align-items:center;gap:14px;margin:22px 0 6px;
+    padding:16px 18px;border-radius:14px;text-decoration:none;color:#fff;
+    background:linear-gradient(135deg,#FF0000,#C4302B);
+    box-shadow:0 10px 30px -12px rgba(255,0,0,.5);
+    transition:transform .15s var(--ease),box-shadow .15s var(--ease);
+  }
+  .footer__yt:hover{transform:translateY(-2px);box-shadow:0 16px 40px -12px rgba(255,0,0,.6)}
+  .footer__yt__icon{flex-shrink:0;display:flex;align-items:center;justify-content:center}
+  .footer__yt__body{display:flex;flex-direction:column;gap:2px;flex:1;min-width:0}
+  .footer__yt__title{font-weight:800;font-size:17px;letter-spacing:-0.01em;line-height:1.2}
+  .footer__yt__handle{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:13.5px;font-weight:600;opacity:.97}
+  .footer__yt__sub{font-size:11.5px;opacity:.9;line-height:1.4}
+  .footer__yt__arrow{font-size:20px;font-weight:700;flex-shrink:0;opacity:.95}
+  @media (min-width:768px){
+    .footer__yt{padding:20px 26px;gap:18px}
+    .footer__yt__title{font-size:20px}
+    .footer__yt__handle{font-size:15px}
+    .footer__yt__sub{font-size:12.5px}
+  }
   .footer__bottom{
     margin-top:28px;padding-top:16px;border-top:1px solid var(--line-mute);
     display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:10px;
@@ -1040,6 +1061,20 @@
         <li><a class="footer__mail" href="mailto:hello@teslabriefing.com">문의 · hello@teslabriefing.com</a></li>
       </ul>
     </div>
+  </div>
+
+  <div class="wrap">
+    <a class="footer__yt" href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener" aria-label="Tesla Briefing 유튜브 채널 구독">
+      <span class="footer__yt__icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#fff" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.546 15.568V8.432L15.818 12l-6.272 3.568z"/></svg>
+      </span>
+      <span class="footer__yt__body">
+        <span class="footer__yt__title">유튜브 채널 구독</span>
+        <span class="footer__yt__handle">@TeslaBriefing</span>
+        <span class="footer__yt__sub">평일 매일 한 편 · 주말 정리편 · 구독 + 알림 설정</span>
+      </span>
+      <span class="footer__yt__arrow" aria-hidden="true">→</span>
+    </a>
   </div>
 
   <div class="wrap footer__bottom">
