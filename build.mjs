@@ -652,6 +652,7 @@ async function buildOneLang(opts) {
   let archive;
   try {
     archive = await readJson(archiveName);
+    if (Array.isArray(archive)) archive = { items: archive, asOf: cards.asOf };  // bare 배열 방어(Routine 구조 슬립)
     if (!archive.items || archive.items.length === 0) {
       archive = { ...cards, asOf: cards.asOf };
     }
@@ -698,6 +699,8 @@ async function buildOneLang(opts) {
   // 장기 아카이브(Phase B) — 필터/검색 인덱스 + 전체 기사 페이지 생성 소스.
   let fullArchive = { items: [] };
   try { fullArchive = await readJson("archive-full.json"); } catch { /* 없으면 archive 로 폴백 */ }
+  if (Array.isArray(fullArchive)) fullArchive = { items: fullArchive };   // bare 배열 방어
+  if (!Array.isArray(fullArchive.items)) fullArchive.items = [];
   fullArchive.items = dropSourceless(await filterBlocked(fullArchive.items), "archive-full");
 
   // 상세 페이지는 cards + archive + 장기아카이브 합집합(slug dedup)으로 생성.

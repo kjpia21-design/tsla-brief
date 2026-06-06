@@ -180,6 +180,9 @@ git reset --hard origin/master
 ## Step 5 — 파일 갱신 (2개만)
 - `data/cards.json` — 이번 선별 4~6장. `asOf` 갱신 ("YYYY-MM-DD HH:mm KST 자동 갱신 · 최신순").
 - `data/archive.json` — 기존 + 신규 누적. **slug 기준 dedup**, `pubDate` 내림차순, **최대 100개 cap**.
+- ⚠️ **두 파일 모두 반드시 `{ "items": [ ... ], "asOf": "..." }` 객체 구조**로 쓴다.
+  **절대 bare 배열 `[ ... ]` 로 쓰지 말 것** — `items` 키가 없으면 사이트가 카드를 못 읽어 아카이브가 비어 버린다.
+  (cards.json 의 기존 구조를 그대로 따르면 됨: 최상위는 객체, 카드들은 `items` 배열 안에.)
 - ❌ `cards-en.json` / `archive-en.json` 은 **존재하지 않으며 만들지 않는다.**
 
 ## Step 6 — 빌드 검증
