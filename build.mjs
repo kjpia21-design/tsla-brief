@@ -103,6 +103,18 @@ function formatAsOfET(s) {
   return `${wd} ${hm} ET`;
 }
 
+// 신선도 라벨 — 빌드 시점에 미리 계산해 SSR. (클라이언트 fmtFresh 와 동일 포맷, JS 가 이어서 갱신)
+// "갱신 시각 계산 중…" 플레이스홀더가 첫 페인트·JS꺼짐·봇에 노출되지 않게.
+function fmtFreshLabel(pubDate) {
+  const t = Date.parse(pubDate);
+  if (Number.isNaN(t)) return "";
+  const min = Math.max(1, Math.round((Date.now() - t) / 60000));
+  if (min < 60) return `최신 콘텐츠 ${min}분 전`;
+  const hr = Math.round(min / 60);
+  if (hr < 24) return `최신 콘텐츠 ${hr}시간 전`;
+  return `최신 콘텐츠 ${Math.round(hr / 24)}일 전`;
+}
+
 function renderKpi(kpi) {
   // 옛 5칸 스키마 (items 배열) → 빈 placeholder
   if (Array.isArray(kpi.items)) {
@@ -432,7 +444,9 @@ function renderArticle(template, card, lang = "ko") {
     if (paras.length) {
       const a = normTxt(bodyText), b = normTxt(paras[0]);
       const sh = a.length <= b.length ? a : b, lo = a.length <= b.length ? b : a;
-      if (sh.length >= 20 && lo.startsWith(sh)) paras.shift();   // 첫 단락이 리드와 중복 → 제거
+      const prefixDup = sh.length >= 20 && lo.startsWith(sh);        // 한쪽이 다른쪽의 접두
+      const headDup = a.length >= 24 && b.length >= 24 && a.slice(0, 24) === b.slice(0, 24); // 도입 24자 동일
+      if (prefixDup || headDup) paras.shift();                       // 첫 단락이 리드와 (거의) 중복 → 제거
     }
   } else {
     leadText = paras.length ? paras.shift() : "";
@@ -487,7 +501,7 @@ async function generateNewsPage(cards, { newsTemplateName = "news-template.html"
   // 사용자용 부제목 — archive.json 내부 asOf 잡텍스트("최신 100건 (slug dedup…)") 노출 금지.
   const sortLabel = lang === "en" ? "latest first" : "최신순";
   const newsAsOf = freshSince
-    ? `${escapeHtml(`${totalLabel} · ${sortLabel}`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">${freshLabel}</span>`
+    ? `${escapeHtml(`${totalLabel} · ${sortLabel}`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">${escapeHtml(fmtFreshLabel(freshSince) || freshLabel)}</span>`
     : escapeHtml(`${totalLabel} · ${sortLabel}`);
   out = replaceBlock(out, "NEWS_TIME", newsAsOf);
   // SSR 은 1페이지(10건)만 — 나머지는 클라이언트가 news-index.json 으로 페이지네이션.
@@ -597,7 +611,7 @@ async function buildOneLang(opts) {
   out = replaceBlock(out, "HOT_COUNT",   hotCountLabel);
   const cardsFreshSince = cards.items[0]?.pubDate || "";
   const cardsAsOf = cardsFreshSince
-    ? `${escapeHtml(localizedCardsAsOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">${freshLabel}</span>`
+    ? `${escapeHtml(localizedCardsAsOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">${escapeHtml(fmtFreshLabel(cardsFreshSince) || freshLabel)}</span>`
     : escapeHtml(localizedCardsAsOf);
   out = replaceBlock(out, "CARDS_TIME",  cardsAsOf);
   out = replaceBlock(out, "CARDS_GRID",  renderCards(cards, { lang }));
