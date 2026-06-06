@@ -88,7 +88,11 @@
   .ccard__top{display:flex;align-items:center;justify-content:space-between;gap:8px}
   .ccard__cat{display:inline-flex;align-items:center;gap:7px;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:9.5px;letter-spacing:.18em;color:var(--ink-mid);font-weight:600}
   .ccard__cat::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--cat-color,var(--tesla-red));box-shadow:0 0 8px var(--cat-color,var(--tesla-red))}
-  .ccard__time{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10px;color:var(--ink-mute);white-space:nowrap}
+  .ccard__time{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10px;color:var(--ink-mute);white-space:nowrap;margin-left:auto}
+  /* 강세/약세 태그(#2) */
+  .senti{font-size:9.5px;font-weight:700;letter-spacing:.02em;padding:1px 7px;border-radius:999px;white-space:nowrap;display:inline-flex;align-items:center;flex-shrink:0}
+  .senti--bull{color:#16A34A;background:rgba(22,163,74,.13)}
+  .senti--bear{color:#EF4444;background:rgba(239,68,68,.12)}
   .ccard h3{font-size:15px;font-weight:700;line-height:1.34;letter-spacing:-0.016em;margin:2px 0 0;color:var(--ink);word-break:keep-all;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
   .ccard h3 em{font-style:italic;color:var(--cat-color,var(--tesla-red));font-weight:600}
   .ccard__body{color:var(--ink-mid);font-size:12.5px;margin:0;line-height:1.5;word-break:keep-all;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
@@ -286,7 +290,7 @@
   }
   function cardHtml(it){
     return '<a class="ccard ' + it.cls + '" href="' + esc(it.href) + '">'
-      + '<div class="ccard__top"><span class="ccard__cat">' + esc(it.catLabel) + '</span>'
+      + '<div class="ccard__top"><span class="ccard__cat">' + esc(it.catLabel) + '</span>' + (it.senti || '')
       + '<span class="ccard__time" data-pubdate="' + esc(it.pubDate) + '">' + esc(relTime(it.pubDate) || it.time) + '</span></div>'
       + '<h3>' + it.title + '</h3>'
       + '<p class="ccard__body">' + esc(it.body) + '</p>'

@@ -220,6 +220,13 @@ function confirmedBadge(c) {
     + `✓ ${n}개 매체</span>`;
 }
 
+// 강세/약세 태그(#2) — sentiment(bull/bear)만 표시(중립·미지정은 생략해 클러터 방지). 색: 상승 초록 / 하락 빨강.
+function sentiBadge(c) {
+  if (c.sentiment === "bull") return `<span class="senti senti--bull">▲ 강세</span>`;
+  if (c.sentiment === "bear") return `<span class="senti senti--bear">▼ 약세</span>`;
+  return "";
+}
+
 /** 카드 메타: 신 스키마(sourceName) 우선, 없으면 옛 sources 카운트 폴백. */
 function renderCardMeta(c) {
   if (c.sourceName) {
@@ -314,7 +321,7 @@ function renderCards(cards, { lang = "ko" } = {}) {
     const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
-          <span class="ccard__cat">${escapeHtml(catLabel)}</span>
+          <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c)}
           <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
         <h3>${c.title}</h3>
@@ -338,7 +345,7 @@ function renderAllCards(cards, { lang = "ko" } = {}) {
     const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
-          <span class="ccard__cat">${escapeHtml(catLabel)}</span>
+          <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c)}
           <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
         <h3>${c.title}</h3>
@@ -370,6 +377,7 @@ function newsIndexEntry(c, lang = "ko") {
     pubDate: c.pubDate || "",
     href,
     src: renderCardMeta(c),
+    senti: sentiBadge(c),
     q: `${titlePlain} ${c.body || ""} ${c.sourceName || ""}`.toLowerCase(),
   };
 }
@@ -548,6 +556,8 @@ function renderArticle(template, card, lang = "ko") {
     ? `<div class="art__source__also">교차확인 · ${card.confirmingSources.map(escapeHtml).join(" · ")}</div>`
     : "";
   out = replaceBlock(out, "A_CONFIRM_SRCS", csrc, opts);
+  const senti = sentiBadge(card);
+  out = replaceBlock(out, "A_SENTI", senti ? ` <span aria-hidden="true">·</span> ${senti}` : "", opts);
   return out;
 }
 

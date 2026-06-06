@@ -115,6 +115,10 @@
   /* 교차검증(#1) */
   .art__confirmed{color:#16A34A;font-weight:700}
   .art__source__also{margin-top:10px;font-size:13px;color:var(--ink-mute);letter-spacing:.01em}
+  /* 강세/약세 태그(#2) */
+  .senti{font-size:11px;font-weight:700;letter-spacing:.02em;padding:1px 8px;border-radius:999px;display:inline-flex;align-items:center;vertical-align:middle}
+  .senti--bull{color:#16A34A;background:rgba(22,163,74,.12)}
+  .senti--bear{color:#DC2626;background:rgba(239,68,68,.10)}
 
   /* lead + summary */
   .art__lead{
@@ -208,7 +212,7 @@
   <div class="art__meta">
     <span><b><!-- BLOCK:A_TIME -->time<!-- /BLOCK:A_TIME --></b></span>
     <span>·</span>
-    <span class="src-dot"><i class="<!-- BLOCK:A_SRC_DOT -->d-press<!-- /BLOCK:A_SRC_DOT -->"></i> 원본 <b><!-- BLOCK:A_SRC_NAME -->source<!-- /BLOCK:A_SRC_NAME --></b></span><!-- BLOCK:A_CONFIRMED --><!-- /BLOCK:A_CONFIRMED -->
+    <span class="src-dot"><i class="<!-- BLOCK:A_SRC_DOT -->d-press<!-- /BLOCK:A_SRC_DOT -->"></i> 원본 <b><!-- BLOCK:A_SRC_NAME -->source<!-- /BLOCK:A_SRC_NAME --></b></span><!-- BLOCK:A_CONFIRMED --><!-- /BLOCK:A_CONFIRMED --><!-- BLOCK:A_SENTI --><!-- /BLOCK:A_SENTI -->
   </div>
 
   <p class="art__lead"><!-- BLOCK:A_LEAD -->lead<!-- /BLOCK:A_LEAD --></p>
