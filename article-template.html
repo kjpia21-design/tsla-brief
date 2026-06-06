@@ -112,6 +112,9 @@
   .art__meta .d-off{background:var(--c-official)}
   .art__meta .d-press{background:var(--c-press)}
   .art__meta .d-rumor{background:var(--c-rumor)}
+  /* 교차검증(#1) */
+  .art__confirmed{color:#16A34A;font-weight:700}
+  .art__source__also{margin-top:10px;font-size:13px;color:var(--ink-mute);letter-spacing:.01em}
 
   /* lead + summary */
   .art__lead{
@@ -205,7 +208,7 @@
   <div class="art__meta">
     <span><b><!-- BLOCK:A_TIME -->time<!-- /BLOCK:A_TIME --></b></span>
     <span>·</span>
-    <span class="src-dot"><i class="<!-- BLOCK:A_SRC_DOT -->d-press<!-- /BLOCK:A_SRC_DOT -->"></i> 원본 <b><!-- BLOCK:A_SRC_NAME -->source<!-- /BLOCK:A_SRC_NAME --></b></span>
+    <span class="src-dot"><i class="<!-- BLOCK:A_SRC_DOT -->d-press<!-- /BLOCK:A_SRC_DOT -->"></i> 원본 <b><!-- BLOCK:A_SRC_NAME -->source<!-- /BLOCK:A_SRC_NAME --></b></span><!-- BLOCK:A_CONFIRMED --><!-- /BLOCK:A_CONFIRMED -->
   </div>
 
   <p class="art__lead"><!-- BLOCK:A_LEAD -->lead<!-- /BLOCK:A_LEAD --></p>
@@ -221,6 +224,7 @@
     </div>
     <a class="art__source__cta" href="<!-- BLOCK:A_HREF -->#<!-- /BLOCK:A_HREF -->" target="_blank" rel="noopener nofollow">발행 매체로 이동</a>
   </aside>
+  <!-- BLOCK:A_CONFIRM_SRCS --><!-- /BLOCK:A_CONFIRM_SRCS -->
 
   <p class="art__disclaimer">
     번역·요약은 <b>Tesla Briefing</b> 편집부가 한국어로 정리한 것이며, 원문의 모든 뉘앙스를 담지 않을 수 있습니다.

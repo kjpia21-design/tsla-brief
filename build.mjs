@@ -210,12 +210,22 @@ function tierBadge(label) {
     + `border-radius:4px;margin-right:6px;vertical-align:middle">${b.kr}</span>`;
 }
 
+// 교차검증 신호(#1): 같은 사건을 N개 매체가 보도 → 신뢰 신호(outlined 배지, CSS 변수로 테마 대응).
+function confirmedBadge(c) {
+  const n = typeof c.confirmedBy === "number" ? c.confirmedBy : 0;
+  if (n < 2) return "";
+  return `<span title="${n}개 매체가 같은 내용을 보도(교차확인)" style="display:inline-block;`
+    + `border:1px solid var(--line);color:var(--ink-mute);font-size:10px;font-weight:600;`
+    + `letter-spacing:.02em;padding:0 6px;border-radius:4px;margin-right:6px;vertical-align:middle">`
+    + `✓ ${n}개 매체</span>`;
+}
+
 /** 카드 메타: 신 스키마(sourceName) 우선, 없으면 옛 sources 카운트 폴백. */
 function renderCardMeta(c) {
   if (c.sourceName) {
     const dot = SOURCE_LABEL_DOT[c.sourceLabel || "press"] || "d-press";
     const badge = tierBadge(c.sourceLabel);
-    return `${badge}<span class="src-name"><i class="d ${dot}"></i>${escapeHtml(c.sourceName)}</span>`;
+    return `${badge}${confirmedBadge(c)}<span class="src-name"><i class="d ${dot}"></i>${escapeHtml(c.sourceName)}</span>`;
   }
   if (c.sources) return renderSources(c.sources);
   return "";
@@ -516,6 +526,15 @@ function renderArticle(template, card, lang = "ko") {
   out = replaceBlock(out, "A_HREF",         escapeHtml(card.href || "#"), opts);
   out = replaceBlock(out, "A_CANON",        escapeHtml(card.slug || ""), opts);   // canonical·og:url 슬러그
   out = replaceBlock(out, "A_JSONLD",       articleJsonLd(card), opts);            // NewsArticle 구조화 데이터
+  // 교차검증(#1): N개 매체 확인 신호 + 확인 매체 목록
+  const confirmedTxt = (typeof card.confirmedBy === "number" && card.confirmedBy >= 2)
+    ? ` <span aria-hidden="true">·</span> <span class="art__confirmed">✓ ${card.confirmedBy}개 매체 교차확인</span>`
+    : "";
+  out = replaceBlock(out, "A_CONFIRMED", confirmedTxt, opts);
+  const csrc = Array.isArray(card.confirmingSources) && card.confirmingSources.length
+    ? `<div class="art__source__also">교차확인 · ${card.confirmingSources.map(escapeHtml).join(" · ")}</div>`
+    : "";
+  out = replaceBlock(out, "A_CONFIRM_SRCS", csrc, opts);
   return out;
 }
 
