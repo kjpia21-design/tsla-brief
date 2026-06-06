@@ -247,13 +247,26 @@ const CATEGORY_SHORT = {
  * - 폴백: hot 필드 없으면 기본 5 → 사실상 시간순
  */
 function renderHotNews(cards) {
-  const ranked = [...cards.items].sort((a, b) => {
-    const hotA = typeof a.hot === "number" ? a.hot : 5;
-    const hotB = typeof b.hot === "number" ? b.hot : 5;
-    if (hotA !== hotB) return hotB - hotA;
-    return Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0);
-  });
-  const top = ranked.slice(0, 5);
+  const hotOf = (c) => (typeof c.hot === "number" ? c.hot : 5);
+  const byHot = (a, b) => (hotOf(b) - hotOf(a)) || (Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
+  const ranked = [...cards.items].sort(byHot);
+
+  // 톤 균형(주주·팬 배려) — 핫뉴스가 부정 일색이 되지 않게 부정(sentiment="bear") 카드를 최대 MAX_NEG 개로 제한.
+  //   중요한 악재는 숨기지 않되, 비부정(강세·중립)이 있으면 우선 채워 균형을 맞춘다.
+  //   sentiment 미지정 카드는 중립 취급(영향 없음) → 필드 채워지기 전엔 기존 동작.
+  const TOP = 5, MAX_NEG = 3;
+  const top = [], spillNeg = [];
+  let neg = 0;
+  for (const c of ranked) {
+    if (top.length >= TOP) break;
+    if (c.sentiment === "bear") {
+      if (neg < MAX_NEG) { top.push(c); neg += 1; } else { spillNeg.push(c); }
+    } else {
+      top.push(c);
+    }
+  }
+  for (const c of spillNeg) { if (top.length >= TOP) break; top.push(c); }  // 비부정 부족 시 보충(억지 X)
+  top.sort(byHot);  // 선정된 5건을 hot 순으로 표시
   const items = top.map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
