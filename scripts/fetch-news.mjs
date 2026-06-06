@@ -65,7 +65,8 @@ const NHTSA_VEHICLES = [
 const X_BEARER = process.env.X_BEARER_TOKEN || "";
 const X_RECENT_HOURS = 18;             // 최근 N시간 내 게시물만
 const X_MAX_RESULTS = 40;              // 1요청 최대 트윗 수
-const X_FETCH_HOURS_UTC = [2, 8, 14, 20]; // 하루 4회. 20 UTC = 05시 KST → 07시 발송 직전 신선
+// X 호출 빈도: 기본 매 실행(2h마다). API 비용이 크면 X_HOURS_UTC env(예 "2,8,14,20")로 하루 N회 제한.
+const X_FETCH_HOURS_UTC = (process.env.X_HOURS_UTC || "").split(",").map((s) => s.trim()).filter(Boolean).map(Number);
 // SEC EDGAR — 공시는 가끔이라 매 2h 검색은 낭비 → 하루 1회만(20 UTC = 05시 KST 새벽).
 //   미국 장 마감(저녁 ET) 이후 공시가 한국 새벽이면 다 반영됨. EDGAR_FORCE=1 로 강제 가능.
 //   미검색 실행에서는 직전 raw 의 최근 SEC 공시를 carry-forward 해 사라지지 않게 한다(loadPrevSecCards).
@@ -552,7 +553,7 @@ async function fetchX(accounts) {
     return [];
   }
   const hourNow = new Date().getUTCHours();
-  if (!process.env.X_FORCE && !X_FETCH_HOURS_UTC.includes(hourNow)) {
+  if (!process.env.X_FORCE && X_FETCH_HOURS_UTC.length && !X_FETCH_HOURS_UTC.includes(hourNow)) {
     console.log(`[fetch-news] X 건너뜀 — ${hourNow}시 UTC 는 폴링 시각 아님 (${X_FETCH_HOURS_UTC.join(",")}). X_FORCE=1 로 강제 가능`);
     return [];
   }
@@ -588,6 +589,12 @@ async function fetchX(accounts) {
     // 순수 링크/초단문 제외 (URL 제거 후 15자 미만이면 노이즈)
     const noUrl = text.replace(/https?:\/\/\S+/g, "").trim();
     if (noUrl.length < 15) continue;
+    // 알맹이 없는 짧은 트윗 제외 — 임원·머스크의 '구체 정보 없는 두줄' 류 노이즈(개인 소회·밈·타사 단상).
+    //   숫자·$%·테슬라 키워드·링크 중 하나도 없고 짧으면(<120자) 드롭. (긴 단상은 Routine 이 의미로 거름)
+    const hasNum  = /\d/.test(noUrl) || /[$%]/.test(text);
+    const hasKw   = /tesla|fsd|full self|robotaxi|robo-?taxi|cybertruck|cybercab|model\s*[3ysxce]|optimus|megapack|powerwall|superchar|autopilot|gigafactory|\bgiga\b|dojo|production|deliver|recall|earnings|revenue|guidance|\brollout\b|launch|software|\bOTA\b/i.test(text);
+    const hasLink = /https?:\/\//.test(text);
+    if (!hasNum && !hasKw && !hasLink && noUrl.length < 120) continue;
     const link = `https://x.com/${acct.username}/status/${t.id}`;
     out.push({
       category: acct.category,           // inferCategory 폴백
