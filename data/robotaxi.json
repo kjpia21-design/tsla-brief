@@ -1,0 +1,14 @@
+{
+  "_comment": "테슬라 로보택시 운영현황 — 홈 1줄 박스. driverlessSince 기준 '무인 운영 N일째'는 빌드 시 자동 계산(일별 갱신). fleet/cities/serviceArea 는 새 소식 시 갱신. 출처: 텍사스 DMV 자율주행 운영사 등록 + 외신 집계(Electrek 등).",
+  "driverlessSince": "2026-01-22",
+  "serviceLaunch": "2025-06-22",
+  "cities": "오스틴·댈러스·휴스턴",
+  "citiesShort": "3개 도시",
+  "fleet": "무인 ~20대",
+  "fleetShort": "~20대",
+  "serviceArea": "오스틴 메트로 245㎢",
+  "milestone": "오스틴 메트로 전역 확대(6/3)",
+  "asOf": "2026-06-05",
+  "sourceUrl": "https://txmccs.txdmv.gov/automated-vehicles/operators",
+  "sourceName": "텍사스 DMV 등록 · 외신 집계"
+}
