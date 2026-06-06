@@ -89,10 +89,12 @@ const X_ACCOUNTS = [
 
 const SOURCES = [
   // ── 1차·공식 (SEC / 규제기관) ────────────────────────────
-  // Tesla IR(ir.tesla.com)은 SPA라 공개 RSS 없음 → 8-K(실적·중대공시)로 대체.
-  { type: "edgar", category: "stock",   url: EDGAR("0001318605", "8-K"),  sourceName: "SEC · Tesla 8-K",   defaultLabel: "sec", headers: SEC_HEADERS },
-  { type: "edgar", category: "stock",   url: EDGAR("0001318605", "10-Q"), sourceName: "SEC · Tesla 10-Q",  defaultLabel: "sec", headers: SEC_HEADERS },
-  { type: "edgar", category: "stock",   url: EDGAR("0001318605", "10-K"), sourceName: "SEC · Tesla 10-K",  defaultLabel: "sec", headers: SEC_HEADERS },
+  // Tesla IR(ir.tesla.com)은 SPA(공개 RSS 없음 — 확인) + tesla.com 피드 403.
+  // → SEC EDGAR 직결을 Tesla 1차 채널로 사용: 8-K(실적·중대공시) · 10-Q/10-K(재무) · DEF 14A(주총·임원보수·의결).
+  { type: "edgar", category: "stock",   url: EDGAR("0001318605", "8-K"),     sourceName: "SEC · Tesla 8-K",        defaultLabel: "sec", headers: SEC_HEADERS },
+  { type: "edgar", category: "stock",   url: EDGAR("0001318605", "10-Q"),    sourceName: "SEC · Tesla 10-Q",       defaultLabel: "sec", headers: SEC_HEADERS },
+  { type: "edgar", category: "stock",   url: EDGAR("0001318605", "10-K"),    sourceName: "SEC · Tesla 10-K",       defaultLabel: "sec", headers: SEC_HEADERS },
+  { type: "edgar", category: "stock",   url: EDGAR("0001318605", "DEF 14A"), sourceName: "SEC · Tesla 주주총회(DEF 14A)", defaultLabel: "sec", headers: SEC_HEADERS },
   // 일론 머스크 본인 CIK → 테슬라 내부자(Form 4) 거래만 깨끗하게 수집.
   { type: "edgar", category: "musk",    url: EDGAR("0001494730", "4"),    sourceName: "SEC · 머스크 Form 4", defaultLabel: "sec", headers: SEC_HEADERS },
   // NHTSA 리콜 (규제기관 1차) — 차량 안전/소프트웨어 결함.
@@ -457,6 +459,9 @@ function parseEdgar(xml, src) {
     } else if (/10-K/i.test(filingType)) {
       title = `Tesla 10-K annual report filed ${filingDate}`;
       description = `SEC 10-K: annual financial report filed ${filingDate}.`;
+    } else if (/DEFA?\s*14A/i.test(filingType)) {
+      title = `Tesla proxy statement (DEF 14A) filed ${filingDate} — annual meeting, executive compensation & shareholder votes`;
+      description = `SEC DEF 14A proxy statement filed ${filingDate}: annual meeting agenda, executive compensation, board nominations and shareholder proposals.`;
     } else {
       title = `Tesla SEC ${filingType} filed ${filingDate}`;
       description = `SEC ${filingType} filing dated ${filingDate}.`;
