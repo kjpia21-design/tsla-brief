@@ -1,6 +1,21 @@
 {
-  "asOf": "2026-06-06 15:00 UTC · 누적 195건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-06 15:21 UTC · 누적 196건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-06T14:00:00.000Z",
+      "title": "테슬라, FSD 계약 조건 조정 — <em>가입 구조 변화</em> 포착",
+      "hotShort": "테슬라 FSD 계약 조정, <em>가입 구조 변화</em> 포착",
+      "body": "전기차 전문 매체 트랜스포트 이볼브드가 테슬라가 FSD 계약 조건을 수정했다고 보도했다 — 구독·계약 구조 조정은 FSD 수익화 본격화를 향한 전략 변화 신호로 읽힌다.",
+      "sourceName": "Transport Evolved",
+      "sourceLabel": "press",
+      "slug": "fsd-tesla-tweaks-fsd-contracts-2026-06-06",
+      "summary": "트랜스포트 이볼브드(Transport Evolved)의 TEN 585 에피소드에서 테슬라가 FSD(완전자율주행) 관련 계약 조건을 조정했다는 소식이 전해졌다. 가입 구조나 서비스 약관 세부 조항의 변경이 포착됐으며, 이는 FSD 제품 전략이 단순 소프트웨어 옵션에서 서비스 수익 구조로 진화하고 있음을 보여준다.\n\n현재 테슬라 FSD는 월 구독(약 $99) 또는 일회성 구매 방식으로 제공된다. 최근 오스틴 등 일부 지역에서 무인 로보택시 운행이 시작되면서 FSD의 계약 구조가 개인 차량 옵션에서 모빌리티 서비스 요금 체계로 전환될 필요성이 커졌다. 이번 계약 조건 변경은 그 과도기적 조율의 일환일 수 있다.\n\nFSD 계약 구조 변화가 주주에게 직접 의미하는 바는 반복 수익(recurring revenue) 모델의 완성도다. 월 구독이 늘수록 소프트웨어 마진율이 높은 안정적 매출이 형성되고, 로보택시 운행 요금 수익도 이 계약 체계 위에서 운영된다. 계약 조건을 손질한다는 것은 이 수익 구조를 정교화하는 과정이다.\n\n구체적인 변경 내용은 트랜스포트 이볼브드 원문 에피소드에서 확인할 수 있다. 가입·계약 관련 변화는 즉각적인 재무 충격보다 장기적인 FSD 수익화 경로를 어떻게 설계하는가에 대한 단서를 제공한다는 점에서 꾸준히 추적할 필요가 있다.",
+      "href": "https://www.transportevolved.com/2026/06/06/ten-585-tesla-tweaks-fsd-contracts-vw-bans-api-access-whats-pedaling/",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
