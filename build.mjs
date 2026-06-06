@@ -402,6 +402,22 @@ async function filterBlocked(items) {
   return out;
 }
 
+// 검증 게이트(#9) 기계적 백스톱 — 진짜 원문 링크(href)가 없는 카드는 제외.
+// 출처 없는 카드 = 신뢰성·추적성 위반(환각·날조 의심) → "출처 기반" 사이트 원칙에 어긋남.
+function dropSourceless(items, label = "") {
+  const out = items.filter((c) => /^https?:\/\//.test((c.href || "").trim()));
+  const dropped = items.length - out.length;
+  if (dropped) {
+    console.warn(`[build] ⚠ 출처(href) 없는 카드 ${dropped}건 제외${label ? ` (${label})` : ""}`);
+    for (const c of items) {
+      if (!/^https?:\/\//.test((c.href || "").trim())) {
+        console.warn(`        · ${(c.title || "").replace(/<\/?em>/g, "").slice(0, 50)}`);
+      }
+    }
+  }
+  return out;
+}
+
 // 빌드 시 라이브 시세 — Worker API(api.teslabriefing.com)에서 가져와 초기 렌더를 신선하게.
 // (JS 안 도는 공유 봇·스크래퍼도 최신 시세를 보게 함. JS 사용자는 클라이언트 폴링이 추가 갱신.)
 // 실패하면 data/kpi.json 폴백 — 네트워크 없는 환경/Worker 다운 대비. 빌드는 절대 실패하지 않음.
@@ -612,8 +628,8 @@ async function buildOneLang(opts) {
   }
 
   // 차단 목록 필터 — 재발행 옛 기사 등이 데이터에 남아 있어도 사이트엔 절대 노출 안 되게(최종 보증).
-  cards.items = await filterBlocked(cards.items);
-  archive.items = await filterBlocked(archive.items);
+  cards.items = dropSourceless(await filterBlocked(cards.items), "cards");
+  archive.items = dropSourceless(await filterBlocked(archive.items), "archive");
 
   const now = new Date();
   const buildIso = now.toISOString();
@@ -650,7 +666,7 @@ async function buildOneLang(opts) {
   // 장기 아카이브(Phase B) — 필터/검색 인덱스 + 전체 기사 페이지 생성 소스.
   let fullArchive = { items: [] };
   try { fullArchive = await readJson("archive-full.json"); } catch { /* 없으면 archive 로 폴백 */ }
-  fullArchive.items = await filterBlocked(fullArchive.items);
+  fullArchive.items = dropSourceless(await filterBlocked(fullArchive.items), "archive-full");
 
   // 상세 페이지는 cards + archive + 장기아카이브 합집합(slug dedup)으로 생성.
   // 100개 cap 에서 밀려난 카드도, 검색 결과에서 클릭 시 404 가 안 나도록 기사 파일을 갖게 한다.
