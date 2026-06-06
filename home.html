@@ -352,7 +352,11 @@
   /* 모바일: 핫뉴스 1줄 고정(스캔 쉽게) + 터치 여백 */
   @media (max-width:560px){
     .hot-news__item{padding:12px 13px}
-    .hot-news__title{font-size:13.5px;letter-spacing:-0.02em}
+    .hot-news__title{font-size:15px;letter-spacing:-0.02em}
+  }
+  /* 초소형 화면(≤340px, 구형 iPhone SE 등) — 1줄 유지 위해 살짝 축소 */
+  @media (max-width:340px){
+    .hot-news__title{font-size:13px}
   }
 
   /* ============================================================

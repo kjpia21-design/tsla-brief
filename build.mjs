@@ -248,7 +248,7 @@ function renderHotNews(cards) {
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
     // 모바일 1줄용 축약 — <em> 제거 후 단어 경계로 잘라 "잘린 듯" 보이지 않게.
     return `      <li><a class="hot-news__item ${cls}" href="${escapeHtml(href)}">
-        <span class="hot-news__title"><span class="hn-full">${c.title}</span><span class="hn-short">${escapeHtml(c.hotShort || shortHotTitle(c.title))}</span></span>
+        <span class="hot-news__title"><span class="hn-full">${c.title}</span><span class="hn-short">${hotShortHtml(c)}</span></span>
       </a></li>`;
   }).join("\n");
   return `\n${items}\n      `;
@@ -266,6 +266,15 @@ function shortHotTitle(htmlTitle, MAX = 26) {
   out = out.trim();
   if (!out) out = [...plain].slice(0, MAX).join("");
   return out;
+}
+
+// hotShort 안전 렌더 — 전체 escape 후 <em>…</em> 만 복원(카테고리색 italic 강조).
+// 그 외 태그·속성(<em onclick> 등)은 정확히 일치하지 않아 escape 유지 → XSS 안전.
+function hotShortHtml(c) {
+  const raw = c.hotShort || shortHotTitle(c.title);
+  return escapeHtml(raw)
+    .replace(/&lt;em&gt;/g, "<em>")
+    .replace(/&lt;\/em&gt;/g, "</em>");
 }
 
 /**
