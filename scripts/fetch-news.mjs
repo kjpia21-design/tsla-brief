@@ -65,12 +65,13 @@ const NHTSA_VEHICLES = [
 const X_BEARER = process.env.X_BEARER_TOKEN || "";
 const X_RECENT_HOURS = 18;             // 최근 N시간 내 게시물만
 const X_MAX_RESULTS = 40;              // 1요청 최대 트윗 수
-// X 호출 빈도: 기본 매 실행(2h마다). API 비용이 크면 X_HOURS_UTC env(예 "2,8,14,20")로 하루 N회 제한.
-const X_FETCH_HOURS_UTC = (process.env.X_HOURS_UTC || "").split(",").map((s) => s.trim()).filter(Boolean).map(Number);
-// SEC EDGAR — 공시는 가끔이라 매 2h 검색은 낭비 → 하루 1회만(20 UTC = 05시 KST 새벽).
-//   미국 장 마감(저녁 ET) 이후 공시가 한국 새벽이면 다 반영됨. EDGAR_FORCE=1 로 강제 가능.
-//   미검색 실행에서는 직전 raw 의 최근 SEC 공시를 carry-forward 해 사라지지 않게 한다(loadPrevSecCards).
-const EDGAR_FETCH_HOURS_UTC = [20];
+// X 호출 빈도: 기본 하루 4회(2,8,14,20 UTC; 20 UTC=05시 KST). PPU 비용 통제.
+//   X_HOURS_UTC env 로 조정 가능 — "0,2,..,22"=매 실행 / "20"=하루 1회 / 빈 값이면 4회 기본.
+const X_FETCH_HOURS_UTC = (process.env.X_HOURS_UTC || "2,8,14,20").split(",").map((s) => s.trim()).filter(Boolean).map(Number);
+// SEC EDGAR + NHTSA — 1차 규제·공시 소스. 가끔만 갱신되니 매 2h 검색은 낭비 → 하루 1회(20 UTC=05시 KST 새벽).
+//   미국 장 마감(저녁 ET) 이후 공시가 한국 새벽이면 다 반영됨. REG_FORCE=1 로 강제 가능.
+//   미검색 실행에선 직전 raw 의 최근 규제 카드(SEC·NHTSA)를 carry-forward(loadPrevRegCards).
+const REG_FETCH_HOURS_UTC = [20];
 // label: official(공식·1차 인사이더) / press(인플루언서·애널리스트)
 // category: 본문 추론의 폴백값(null 이면 musk 폴백)
 const X_ACCOUNTS = [
@@ -646,29 +647,33 @@ async function loadPrevXCards() {
   }
 }
 
-// EDGAR 지속성 — EDGAR 를 안 부른 실행(하루 1회 외)에서, 직전 raw 의 최근 SEC 공시를 되살린다.
-//   X 와 같은 이유: 매 2h 페치가 raw 를 덮어쓰므로 carry-forward 안 하면 일 1회 사이 공시가 사라진다.
-//   sourceName 이 "SEC ·" 로 시작하는 EDGAR 카드만(NHTSA 제외), 공시 신선도 창(EDGAR_RECENT_DAYS) 내.
-async function loadPrevSecCards() {
+// 규제 지속성 — EDGAR·NHTSA 를 안 부른 실행(하루 1회 외)에서, 직전 raw 의 최근 규제 카드를 되살린다.
+//   X 와 같은 이유: 매 2h 페치가 raw 를 덮어쓰므로 carry-forward 안 하면 일 1회 사이 공시·리콜이 사라진다.
+//   SEC EDGAR("SEC ·") + NHTSA("NHTSA") 카드만, 각 신선도 창(EDGAR/NHTSA_RECENT_DAYS) 내.
+async function loadPrevRegCards() {
   try {
     const prev = JSON.parse(await readFile(OUT_PATH, "utf8"));
     const out = [];
     for (const c of (prev.items || [])) {
-      if (!/^SEC[\s·]/.test(c.sourceName || "")) continue;   // EDGAR 카드만
-      if (daysAgo(c.pubDate) > EDGAR_RECENT_DAYS) continue;   // 공시 신선도 창 초과 → 폐기
+      const sn = c.sourceName || "";
+      const isSec = /^SEC[\s·]/.test(sn);
+      const isNhtsa = /^NHTSA/.test(sn);
+      if (!isSec && !isNhtsa) continue;
+      const maxDays = isNhtsa ? NHTSA_RECENT_DAYS : EDGAR_RECENT_DAYS;
+      if (daysAgo(c.pubDate) > maxDays) continue;            // 신선도 창 초과 → 폐기
       const href = c.href || "";
       out.push({
         category: c.category,
         item: {
           title: c.title,
           link: href,
-          sourceUrl: "https://www.sec.gov/",
+          sourceUrl: isNhtsa ? "https://www.nhtsa.gov/" : "https://www.sec.gov/",
           description: c.body || c.summary || c.title || "",
           pubDate: c.pubDate || "",
           ts: Date.parse(c.pubDate) || 0,
           label: c.sourceLabel || "sec",
-          host: "sec.gov",
-          sourceName: c.sourceName,
+          host: isNhtsa ? "nhtsa.gov" : "sec.gov",
+          sourceName: sn,
         },
       });
     }
@@ -806,9 +811,9 @@ async function main() {
   // 카테고리별로 후보 모음
   const buckets = { stock: [], product: [], fsd: [], musk: [] };
 
-  // SEC EDGAR 시각 게이트 — 하루 1회(EDGAR_FETCH_HOURS_UTC=05시 KST)만 검색. 그 외엔 carry-forward 로 유지.
-  const edgarOk = !!process.env.EDGAR_FORCE || EDGAR_FETCH_HOURS_UTC.includes(new Date().getUTCHours());
-  if (!edgarOk) console.log(`[fetch-news] EDGAR 건너뜀 — ${new Date().getUTCHours()}시 UTC 는 검색 시각 아님(${EDGAR_FETCH_HOURS_UTC.join(",")} UTC). 직전 raw 의 SEC 공시 carry-forward.`);
+  // 규제·공시(SEC EDGAR + NHTSA) 시각 게이트 — 하루 1회(REG_FETCH_HOURS_UTC=05시 KST)만 검색. 그 외엔 carry-forward.
+  const regOk = !!process.env.REG_FORCE || REG_FETCH_HOURS_UTC.includes(new Date().getUTCHours());
+  if (!regOk) console.log(`[fetch-news] EDGAR·NHTSA 건너뜀 — ${new Date().getUTCHours()}시 UTC 는 검색 시각 아님(${REG_FETCH_HOURS_UTC.join(",")} UTC). 직전 raw 의 규제 카드 carry-forward.`);
 
   await Promise.all(SOURCES.map(async (src) => {
     // ── 1차·공식: SEC EDGAR / NHTSA / X — inferCategory/cleanTitle 생략, 라벨 강제 ──
@@ -816,10 +821,11 @@ async function main() {
       try {
         let items;
         if (src.type === "edgar") {
-          if (!edgarOk) return;   // 시각 게이트 — 미검색 시각이면 건너뜀(carry-forward 가 대신 채움)
+          if (!regOk) return;   // 규제 시각 게이트 — 미검색 시각이면 건너뜀(carry-forward 가 대신 채움)
           const xml = await fetchRss(src.url, src.headers);
           items = parseEdgar(xml, src);
         } else if (src.type === "nhtsa") {
+          if (!regOk) return;   // 규제 시각 게이트(EDGAR 와 동일 하루 1회) — carry-forward 가 대신 채움
           items = await fetchNhtsa(NHTSA_VEHICLES);
         } else {
           items = await fetchX(X_ACCOUNTS);
@@ -894,14 +900,14 @@ async function main() {
   }
   if (carried) console.log(`[fetch-news] X 지속성 — 직전 raw 의 최근 X 카드 ${carried}건 후보 유지`);
 
-  // EDGAR 지속성 — 이 실행에서 EDGAR 를 안 불렀으면(시각 가드) 직전 raw 의 최근 SEC 공시를 되살린다.
-  if (!edgarOk) {
-    const prevSec = await loadPrevSecCards();
-    let csec = 0;
-    for (const { category, item } of prevSec) {
-      if (buckets[category]) { buckets[category].push(item); csec += 1; }
+  // 규제 지속성 — 이 실행에서 EDGAR·NHTSA 를 안 불렀으면(시각 가드) 직전 raw 의 최근 규제 카드를 되살린다.
+  if (!regOk) {
+    const prevReg = await loadPrevRegCards();
+    let creg = 0;
+    for (const { category, item } of prevReg) {
+      if (buckets[category]) { buckets[category].push(item); creg += 1; }
     }
-    if (csec) console.log(`[fetch-news] EDGAR 지속성 — 직전 raw 의 최근 SEC 공시 ${csec}건 후보 유지`);
+    if (creg) console.log(`[fetch-news] 규제 지속성 — 직전 raw 의 최근 SEC·NHTSA 카드 ${creg}건 후보 유지`);
   }
 
   // 카테고리당 top N건 + 중복 제거 (같은 host + 같은 prefix 4단어)
