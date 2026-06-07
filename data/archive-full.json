@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-07 17:00 UTC · 누적 210건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-07 17:24 UTC · 누적 211건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "product",
@@ -39,6 +39,22 @@
       ],
       "sentiment": "bull",
       "hot": 8
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "6h ago",
+      "pubDate": "2026-06-07T11:38:04.000Z",
+      "title": "퀀트 헤지펀드 윈턴 그룹, 테슬라 <em>신규 지분 취득</em> 공시",
+      "hotShort": "퀀트 헤지펀드 윈턴 그룹, 테슬라 <em>신규 지분 취득</em>",
+      "body": "마켓비트에 따르면 영국계 퀀트 헤지펀드 윈턴 그룹(WINTON GROUP)이 테슬라($TSLA) 주식을 신규 취득했다고 공시했다 — JP모건 투자의견 상향에 이어 기관 수급 유입 흐름이 이어지고 있다는 추가 신호다.",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "stock-winton-acquires-new-stake-2026-06-07",
+      "summary": "윈턴 그룹(WINTON GROUP Ltd)은 영국 기반의 정량적(퀀트) 투자 전략 헤지펀드로, 2026년 6월 7일 기준 테슬라($TSLA) 주식을 신규 취득했다는 공시가 마켓비트(MarketBeat)의 'Instant Alerts'를 통해 확인됐다. 마켓비트 Instant Alerts는 기관 투자자의 SEC 제출 파일(13F-HR 등)을 기반으로 자동 발행되는 공시 알림이다.\n\n구체적인 매입 규모(주수·금액)는 이번 알림 원문에서 확인되지 않았다. 기관 투자자는 분기 종료 후 45일 이내에 13F-HR 보고서를 SEC에 제출해야 하며, 정확한 규모와 보유 비중은 해당 원문 보고서에서 확인할 수 있다.\n\nJP모건의 테슬라 투자의견 상향(2026-06-05~06) 이후 기관들의 테슬라 지분 변화에 시장의 관심이 쏠려 있다. 퀀트 펀드의 신규 매입 공시는 알고리즘 모델이 테슬라를 매수 신호로 포착했음을 시사하는 경우가 많아, 기관 수급 흐름의 한 단면으로 읽힌다.\n\n주주 관점에서 개별 기관 매입 공시는 직접적인 주가 재료라기보다 기관 수급 추세를 파악하는 보조 지표다. 매입 규모와 비중은 SEC EDGAR의 13F 원문을 통해 직접 확인할 것을 권장한다.",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-acquires-new-stake-in-tesla-inc-tsla-2026-06-07/",
+      "sentiment": "bull",
+      "hot": 4
     },
     {
       "category": "musk",
