@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-07 11:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-07 11:53 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3m ago",
+      "time": "15m ago",
+      "pubDate": "2026-06-07T11:38:04.000Z",
+      "title": "WINTON GROUP Ltd Acquires New Stake in Tesla, Inc. $TSLA",
+      "body": "WINTON GROUP Ltd Acquires New Stake in Tesla, Inc. $TSLA MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-acquires-new-stake-in-tesla-inc-tsla-2026-06-07/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "55m ago",
       "pubDate": "2026-06-07T10:57:44.000Z",
       "title": "Strategic Wealth Investment Group LLC Trims Position in Tesla, Inc. $TSLA",
       "body": "Strategic Wealth Investment Group LLC Trims Position in Tesla, Inc. $TSLA MarketBeat",
@@ -17,7 +30,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3m ago",
+      "time": "55m ago",
       "pubDate": "2026-06-07T10:57:44.000Z",
       "title": "Syon Capital LLC Buys 2,295 Shares of Tesla, Inc. $TSLA",
       "body": "Syon Capital LLC Buys 2,295 Shares of Tesla, Inc. $TSLA MarketBeat",
@@ -30,7 +43,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "11m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-07T10:49:42.000Z",
       "title": "ING Groep NV Has $171.02 Million Holdings in Tesla, Inc. $TSLA",
       "body": "ING Groep NV Has $171.02 Million Holdings in Tesla, Inc. $TSLA MarketBeat",
@@ -43,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-07T09:49:08.000Z",
       "title": "Tesla Takeover Europe send off was a nice touch 🖤",
       "body": "Tesla Takeover Europe send off was a nice touch 🖤 https://t.co/DMYYoVnPWc",
@@ -56,7 +69,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-07T09:05:21.000Z",
       "title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch For May 29th, 2025 (Qf1vjMzyRj)",
       "body": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch For May 29th, 2025 (Qf1vjMzyRj) Fathom Journal",
@@ -67,22 +80,9 @@
       "href": "https://fathomjournal.org/b1f84898smm/5689eb61-UigZAFwyLV4sHR0.html"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-07T08:42:18.000Z",
-      "title": "JPMorgan upgrades Tesla with a major price target hike",
-      "body": "JPMorgan upgrades Tesla with a major price target hike MSN",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.msn.com/en-us/money/companies/jpmorgan-upgrades-tesla-with-a-major-price-target-hike/ar-AA24V56R"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-07T07:44:40.000Z",
       "title": "✨ What an unforgettable moment at the Tesla Takeover by @TeslaClubAT! @mayemusk graced the stage with her signature g…",
       "body": "✨ What an unforgettable moment at the Tesla Takeover by @TeslaClubAT! @mayemusk graced the stage with her signature grace and wisdom, sharing insights from her upcoming book Timeless and her extraordinary life story. A r…",
@@ -95,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-07T07:10:41.000Z",
       "title": "One of the bitter lessons in computer vision is the false assumption that solving all the intermediate representation…",
       "body": "One of the bitter lessons in computer vision is the false assumption that solving all the intermediate representations—segmentation, 3D meshes, depth, etc.—is needed to make a computer understand the scene. In the end, i…",
@@ -108,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-07T03:23:30.000Z",
       "title": "Spending an hour making my own The Battle of Red Cliff with a few historical cutscenes: - Scene 1: Cao Cao moved down…",
       "body": "Spending an hour making my own The Battle of Red Cliff with a few historical cutscenes: - Scene 1: Cao Cao moved down the Yangtze River - Scene 2: Zhuge Liang and Sun Quan forming an alliance - Scene 3: Zhuge Liang borro…",
@@ -121,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-07T00:05:39.000Z",
       "title": "Grep timeout issue fixed in latest Grok Build",
       "body": "Grep timeout issue fixed in latest Grok Build https://t.co/baD0Jih4Bs",
@@ -147,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-06T22:13:09.000Z",
       "title": "Real-world AI is about solving for the edge case, not the average case",
       "body": "Real-world AI is about solving for the edge case, not the average case https://t.co/lFYQFS697W",
@@ -160,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-06T18:15:48.000Z",
       "title": "You don’t need qualifications to realize an idea. If you need qualifications, then maybe that idea is not good enough…",
       "body": "You don’t need qualifications to realize an idea. If you need qualifications, then maybe that idea is not good enough to convince you to pursue it.",
@@ -173,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-06T17:58:44.000Z",
       "title": "When I was working on Pixel phones, one of the most important milestones was achieving high DxO benchmark scores for …",
       "body": "When I was working on Pixel phones, one of the most important milestones was achieving high DxO benchmark scores for perceived good image quality, even if irrelevant to daily use cases. Humans often tend to convert subje…",
@@ -186,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-06-06T14:53:16.000Z",
       "title": "Elon Musk to Attend ASML’s Private Tech Event to Discuss Terafab",
       "body": "Elon Musk to Attend ASML’s Private Tech Event to Discuss Terafab Bloomberg.com",
@@ -251,7 +251,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19d ago",
+      "time": "20d ago",
       "pubDate": "2026-05-19T00:00:00.000Z",
       "title": "NHTSA recall 26V315000 — EQUIPMENT:OTHER:LABELS (Model Y)",
       "body": "Tesla, Inc. (Tesla) is recalling certain 2025-2026 Model Y vehicles. The certification label may not have been installed. As such, these vehicles fail to comply with the requirements of 49 C.F.R. Part 567, \"Certification",
