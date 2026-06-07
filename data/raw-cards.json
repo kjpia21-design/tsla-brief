@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-07 05:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-07 07:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "15m ago",
+      "time": "16m ago",
+      "pubDate": "2026-06-07T06:44:22.000Z",
+      "title": "UPDATE: Despite years of predictions that 𝕏 would lose relevance, new data shows the platform grew its U.S. unique v…",
+      "body": "UPDATE: Despite years of predictions that 𝕏 would lose relevance, new data shows the platform grew its U.S. unique visitor base between June 2025 and March 2026. At the same time, several competing social platforms expe…",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2063512372535242777"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "46m ago",
+      "pubDate": "2026-06-07T06:14:01.000Z",
+      "title": "What an amazing @Tesla Takeover Europe 2026 event, so before I head off to my next stop on my trip, I thought a snaps…",
+      "body": "What an amazing @Tesla Takeover Europe 2026 event, so before I head off to my next stop on my trip, I thought a snapshots review of the two days was definitely in order. So many great people, displays, events, speakers &…",
+      "sourceName": "Joe Tegtmeyer (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/JoeTegtmeyer/status/2063504735596904899"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-07T05:39:17.000Z",
+      "title": "One of the bitter lessons in computer vision is that you have to solve all the intermediate representations—segmentat…",
+      "body": "One of the bitter lessons in computer vision is that you have to solve all the intermediate representations—segmentation, 3D meshes, depth, etc.—to make a computer understand the scene. In the end, it is the final policy…",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2063495992411099567"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
       "pubDate": "2026-06-07T04:45:50.000Z",
       "title": "To all 15+ Tesla club leaders and members at Takeover: This year tested Tesla owners like never before — shifting hea…",
       "body": "To all 15+ Tesla club leaders and members at Takeover: This year tested Tesla owners like never before — shifting headlines, and real-life ownership ups and downs. We’ve endured a lot. Yet through it all, our global comm…",
@@ -17,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "48m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-07T04:12:47.000Z",
       "title": "🚀 What an incredible Tesla Takeover moment! Here with leaders from 15+ clubs across Europe – a true powerhouse of pa…",
       "body": "🚀 What an incredible Tesla Takeover moment! Here with leaders from 15+ clubs across Europe – a true powerhouse of passion, innovation, and community driving the future forward. From the energy in the room to the shared …",
@@ -28,9 +67,22 @@
       "href": "https://x.com/teslaownersSV/status/2063474226980434392"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-07T03:36:38.000Z",
+      "title": "🚨 TESLA STOCK CUP & HANDLE SQUEEZE! TSLA, SPY, QQQ, ES, NQ, NVDA, AAPL, META BTC Predictions! 🚀 (OOvEO6a8Eu)",
+      "body": "🚨 TESLA STOCK CUP & HANDLE SQUEEZE! TSLA, SPY, QQQ, ES, NQ, NVDA, AAPL, META BTC Predictions! 🚀 (OOvEO6a8Eu) Fathom Journal",
+      "sourceName": "Fathom Journal",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://fathomjournal.org/fe756798smm/d31fbc8e-LBMNLVwdDiQ3IQ0.html"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-07T03:23:30.000Z",
       "title": "Spending an hour making my own The Battle of Red Cliff with a few historical cutscenes: - Scene 1: Cao Cao moved down…",
       "body": "Spending an hour making my own The Battle of Red Cliff with a few historical cutscenes: - Scene 1: Cao Cao moved down the Yangtze River - Scene 2: Zhuge Liang and Sun Quan forming an alliance - Scene 3: Zhuge Liang borro…",
@@ -43,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-07T00:05:39.000Z",
       "title": "Grep timeout issue fixed in latest Grok Build",
       "body": "Grep timeout issue fixed in latest Grok Build https://t.co/baD0Jih4Bs",
@@ -54,35 +106,9 @@
       "href": "https://x.com/elonmusk/status/2063412033266053340"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-06T23:23:53.000Z",
-      "title": "Helpful tool for improvement. It’s just physics thinking in the limit.",
-      "body": "Helpful tool for improvement. It’s just physics thinking in the limit. https://t.co/IfSYuHMDkX",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2063401522327666828"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-06T22:33:20.000Z",
-      "title": "Time for change in Germany",
-      "body": "Time for change in Germany https://t.co/tSLxhzcE2b",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2063388801330721156"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-06T22:13:09.000Z",
       "title": "Real-world AI is about solving for the edge case, not the average case",
       "body": "Real-world AI is about solving for the edge case, not the average case https://t.co/lFYQFS697W",
@@ -93,22 +119,9 @@
       "href": "https://x.com/Tesla_AI/status/2063383718946075131"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
-      "pubDate": "2026-06-06T21:42:29.000Z",
-      "title": "JPMorgan sets jaw-dropping Tesla stock price target",
-      "body": "JPMorgan sets jaw-dropping Tesla stock price target AOL.com",
-      "sourceName": "AOL.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.aol.com/finance/jpmorgan-sets-jaw-dropping-tesla-122043813.html"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-06T21:00:44.000Z",
       "title": "Tesla Roadster Delayed Again, Demo Scheduled for August. Is It Still Coming?",
       "body": "Tesla Roadster Delayed Again, Demo Scheduled for August. Is It Still Coming? autoevolution",
@@ -121,11 +134,11 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-06T20:00:02.000Z",
       "title": "Tesla Sales in China Are Popping, But That Means Nothing If You Can’t Stomach TSLA Stock’s Absurd P/E Ratio",
-      "body": "Tesla Sales in China Are Popping, But That Means Nothing If You Can’t Stomach TSLA Stock’s Absurd P/E Ratio Barchart",
-      "sourceName": "Barchart",
+      "body": "Tesla Sales in China Are Popping, But That Means Nothing If You Can’t Stomach TSLA Stock’s Absurd P/E Ratio Barchart.com",
+      "sourceName": "Barchart.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -134,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-06T19:25:57.000Z",
       "title": "NIO Soars 7% on Blowout May Deliveries Up 62%, Tesla Sinks 3% as China EV Battle Intensifies",
       "body": "NIO Soars 7% on Blowout May Deliveries Up 62%, Tesla Sinks 3% as China EV Battle Intensifies AOL.com",
@@ -147,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-06T19:10:59.000Z",
       "title": "Stock Technical Analysis On TSLA, PLTR, SOFI, HOOD, IREN, META Arkansas Baseball (dJfWxxJiNJ)",
       "body": "Stock Technical Analysis On TSLA, PLTR, SOFI, HOOD, IREN, META Arkansas Baseball (dJfWxxJiNJ) Mshale",
@@ -160,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-06T18:15:48.000Z",
       "title": "You don’t need qualifications to realize an idea. If you need qualifications, then maybe that idea is not good enough…",
       "body": "You don’t need qualifications to realize an idea. If you need qualifications, then maybe that idea is not good enough to convince you to pursue it.",
@@ -173,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-06T17:58:44.000Z",
       "title": "When I was working on Pixel phones, one of the most important milestones was achieving high DxO benchmark scores for …",
       "body": "When I was working on Pixel phones, one of the most important milestones was achieving high DxO benchmark scores for perceived good image quality, even if irrelevant to daily use cases. Humans often tend to convert subje…",
@@ -184,30 +197,17 @@
       "href": "https://x.com/yunta_tsai/status/2063319693818224985"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-06-06T17:16:15.000Z",
-      "title": "When I was still working on Pixel phones, one of the most important milestones was getting DxO benchmark scores so th…",
-      "body": "When I was still working on Pixel phones, one of the most important milestones was getting DxO benchmark scores so the phone would have perceived good image quality, even if it was irrelevant to daily use cases. Humans h…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2063309001673367690"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-06-06T05:36:00.000Z",
-      "title": "Why Tesla (TSLA) Shares Are Trading Lower Today",
-      "body": "Why Tesla (TSLA) Shares Are Trading Lower Today Yahoo Finance",
-      "sourceName": "Yahoo Finance",
+      "time": "16h ago",
+      "pubDate": "2026-06-06T15:20:43.000Z",
+      "title": "JPMorgan sets jaw-dropping Tesla stock price target",
+      "body": "JPMorgan sets jaw-dropping Tesla stock price target Yahoo Finance Singapore",
+      "sourceName": "Yahoo Finance Singapore",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-shares-trading-053614027.html"
+      "href": "https://sg.finance.yahoo.com/news/jpmorgan-sets-jaw-dropping-tesla-152043401.html"
     },
     {
       "category": "product",
@@ -225,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-06-05T18:08:17.000Z",
       "title": "Tesla Model 3 has a tasty Supercharging incentive, but it’s ending soon",
       "body": "Tesla is offering a tasty Supercharging incentive on certain Model 3 trims, but the company has officially put a concrete end date on it, so those interested should act fast. Tesla is offering Free Supercharging for One …",
