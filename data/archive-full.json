@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-07 03:00 UTC · 누적 204건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-07 04:38 UTC · 누적 205건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "product",
@@ -53,6 +53,22 @@
       "href": "https://www.barchart.com/story/news/2342852/tesla-sales-in-china-are-popping-but-that-means-nothing-if-you-cant-stomach-tsla-stocks-absurd-p-e-ratio",
       "sentiment": "neutral",
       "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "8h ago",
+      "pubDate": "2026-06-06T19:25:57.000Z",
+      "title": "NIO 5월 인도량 62% 폭증 — 중국 EV 경쟁 격화에 테슬라 <em>주가 3% 하락</em>",
+      "hotShort": "NIO 인도량 62% 급증에 테슬라 <em>주가 3% 하락</em>",
+      "body": "NIO의 5월 인도량이 전년 대비 62% 폭증하며 NIO 주가가 7% 급등한 날, 테슬라 주가는 3% 하락했다 — 중국 전기차 시장에서 현지 브랜드의 공세가 투자자 심리에 직접 영향을 미치고 있다는 시장 신호다.",
+      "sourceName": "AOL.com",
+      "sourceLabel": "press",
+      "slug": "stock-nio-blowout-tesla-sinks-china-ev-2026-06-06",
+      "summary": "NIO가 2026년 5월 인도량이 전년 동기 대비 62% 급증했다고 발표한 날, 시장은 뚜렷한 대조를 보였다. NIO 주가가 7% 이상 급등하는 동안 테슬라 주가는 같은 날 3% 내렸다.\n\nNIO의 62% 인도량 성장은 중국 전기차 시장에서 현지 브랜드들의 경쟁력이 얼마나 빠르게 강화되고 있는지를 보여주는 지표다. NIO는 그간 재무 건전성 우려와 치열한 가격 경쟁 속에서도 프리미엄 세그먼트에서 입지를 강화해왔으며, 이번 실적은 그 전략이 결실을 맺기 시작했음을 시사한다.\n\n테슬라에게 중국은 미국 다음으로 가장 큰 단일 시장이다. 현지 브랜드들의 인도량 급증은 테슬라의 중국 시장 점유율과 마진율에 직접적인 하방 압력으로 작용한다. 특히 2분기(4~6월)는 테슬라의 글로벌 인도 실적이 결정되는 시기로, 중국 수요 동향이 전체 분기 성적에 미치는 영향이 크다.\n\nNIO 실적이 테슬라 주가에 직접 영향을 미쳤다고 단정하기보다는, 이 두 사건이 같은 날 겹치면서 중국 EV 경쟁에 대한 투자자들의 우려가 반영됐다고 보는 것이 적절하다. 7월 초 발표될 테슬라의 Q2 인도 리포트에서 중국 시장 성과를 확인하는 것이 가장 중요한 다음 체크포인트다.",
+      "href": "https://www.aol.com/articles/nio-soars-7-blowout-may-173514000.html",
+      "sentiment": "bear",
+      "hot": 6
     },
     {
       "category": "fsd",
