@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-07 09:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-07 09:25 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18m ago",
+      "time": "43m ago",
       "pubDate": "2026-06-07T08:42:39.000Z",
       "title": "Tesla, Inc. $TSLA Shares Sold by Capital International Ltd. CA",
       "body": "Tesla, Inc. $TSLA Shares Sold by Capital International Ltd. CA MarketBeat",
@@ -17,7 +17,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18m ago",
+      "time": "43m ago",
       "pubDate": "2026-06-07T08:42:35.000Z",
       "title": "Capital International Inc. CA Has $118.12 Million Stock Position in Tesla, Inc. $TSLA",
       "body": "Capital International Inc. CA Has $118.12 Million Stock Position in Tesla, Inc. $TSLA MarketBeat",
@@ -30,7 +30,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20m ago",
+      "time": "45m ago",
       "pubDate": "2026-06-07T08:40:34.000Z",
       "title": "Capital Research Global Investors Has $3.69 Billion Stake in Tesla, Inc. $TSLA",
       "body": "Capital Research Global Investors Has $3.69 Billion Stake in Tesla, Inc. $TSLA MarketBeat",
@@ -43,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-07T07:44:40.000Z",
       "title": "✨ What an unforgettable moment at the Tesla Takeover by @TeslaClubAT! @mayemusk graced the stage with her signature g…",
       "body": "✨ What an unforgettable moment at the Tesla Takeover by @TeslaClubAT! @mayemusk graced the stage with her signature grace and wisdom, sharing insights from her upcoming book Timeless and her extraordinary life story. A r…",
@@ -95,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-07T06:44:22.000Z",
       "title": "UPDATE: Despite years of predictions that 𝕏 would lose relevance, new data shows the platform grew its U.S. unique v…",
       "body": "UPDATE: Despite years of predictions that 𝕏 would lose relevance, new data shows the platform grew its U.S. unique visitor base between June 2025 and March 2026. At the same time, several competing social platforms expe…",
@@ -171,19 +171,6 @@
       "href": "https://x.com/Tesla_AI/status/2063383718946075131"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-06-06T21:00:44.000Z",
-      "title": "Tesla Roadster Delayed Again, Demo Scheduled for August. Is It Still Coming?",
-      "body": "Tesla Roadster Delayed Again, Demo Scheduled for August. Is It Still Coming? autoevolution",
-      "sourceName": "autoevolution",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.autoevolution.com/news/tesla-roadster-delayed-again-demo-scheduled-for-august-is-it-still-coming-271099.html"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "15h ago",
@@ -247,6 +234,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-upgrades-model-y-affordable-trims-new-interior-features/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3d ago",
+      "pubDate": "2026-06-04T11:26:52.000Z",
+      "title": "Tesla hit with class action in Quebec over up to $400m in heat pump failures",
+      "body": "A Quebec Tesla owner has filed a class action request against Tesla over heat pump failures, seeking damages for all Tesla owners in the province after being stuck with a $4,477 repair bill when her Model 3’s heat pump d…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/06/04/tesla-class-action-heat-pump-failure-quebec/"
     },
     {
       "category": "product",
