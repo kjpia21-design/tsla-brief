@@ -1,6 +1,22 @@
 {
-  "asOf": "2026-06-07 18:56 UTC · 누적 211건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-07 19:40 UTC · 누적 213건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-07T16:31:00.000Z",
+      "title": "테슬라 로보택시 행보, 주요 지수 <em>기관 관심</em> 자극하나",
+      "hotShort": "로보택시 모멘텀, 주요 지수 <em>기관 관심</em> 자극",
+      "body": "칼킨 미디어가 테슬라의 로보택시 확장 행보가 나스닥 등 주요 지수에서 기관 투자자들의 신규 관심을 이끌어내고 있는지를 분석했다 — JP모건 업그레이드 이후 로보택시 상용화 기대가 테슬라 기관 수급 회복의 핵심 재료로 부상하고 있다는 시각이다.",
+      "sourceName": "Kalkine Media",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-index-interest-2026-06-07",
+      "summary": "칼킨 미디어(Kalkine Media)는 테슬라의 적극적인 로보택시 전략이 나스닥·S&P500 등 주요 주가 지수에서 기관 투자자들의 신규 관심을 유입시키고 있는지를 분석하는 기사를 게재했다. 로보택시 확장이 단순한 제품 이슈를 넘어 테슬라 기관 수급 전반에 영향을 미치는 변수로 부상하고 있다는 관점이다.\n\n최근 JP모건의 테슬라 투자의견 상향 조정이 발표되면서, 기관들이 테슬라를 재평가하는 근거로 로보택시 모멘텀이 자주 거론되고 있다. 완전 자율주행(FSD) 기반의 상용 로보택시 서비스가 가시화될 경우 자율주행 섹터 자금이 테슬라로 집중될 수 있다는 기대가 기관들 사이에서 형성되고 있다.\n\n다만 로보택시 상용화 일정과 규제 승인 경로는 여전히 불확실성이 높다. NHTSA 등 규제 당국의 자율주행 안전 기준 강화도 잠재적 변수로 남아 있다. 칼킨 미디어의 분석은 가능성을 탐색하는 시각이며, 기관 자금 유입이 실제로 확인된 보도는 아니다.\n\n기관 관심이 실수요(매수)로 이어지는지는 7월 초 발표될 Q2 인도 실적과 공개 로보택시 서비스의 구체적 일정이 확인되는 시점이 분수령이 될 전망이다.",
+      "href": "https://kalkinemedia.com/us/stocks/automobile/is-teslas-robotaxi-push-driving-fresh-interest-across-major-indices",
+      "sentiment": "bull",
+      "hot": 4
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -16,6 +32,22 @@
       "href": "https://www.teslarati.com/tesla-roadster-unveiling-teased-few-weeks-exec/",
       "sentiment": "bull",
       "hot": 7
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "7h ago",
+      "pubDate": "2026-06-07T12:17:59.000Z",
+      "title": "MSN, AI·로보틱스가 테슬라 <em>성장 재점화</em> 가능? — ETF 시각",
+      "hotShort": "MSN, AI·로보틱스로 테슬라 <em>성장 재점화</em> 분석",
+      "body": "MSN이 AI·로보틱스 기술을 테슬라의 차기 성장 동력으로 주목하며 관련 ETF 투자 옵션을 소개했다 — 순수 전기차 기업을 넘어 테슬라를 AI·로보틱스 기술주로 재평가하는 주류 금융 미디어의 시각 변화를 보여준다.",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "stock-ai-robotics-etf-revive-2026-06-07",
+      "summary": "MSN은 '테슬라가 AI와 로보틱스를 통해 성장 궤도를 회복할 수 있는가?'를 주제로 한 분석 기사를 게재하며, 관련 ETF 투자 옵션까지 함께 소개했다. 주류 금융 미디어가 이 질문을 핵심 기사 주제로 다룬다는 것 자체가, 테슬라를 전기차 판매 기업에서 AI·자율주행·로보틱스 복합 기술 기업으로 재평가하는 시장 시각의 변화를 반영한다.\n\nFSD(완전 자율주행)·로보택시·옵티머스 휴머노이드 로봇을 성장 축으로 내세우는 테슬라의 전략이 JP모건 투자의견 상향 조정과 맞물리며 재조명을 받고 있다. MSN이 테슬라 단독 주식 대신 AI·자율주행 관련 ETF를 함께 언급한 것은, 섹터 전반에 분산 투자하는 기관·개인 수요가 커지고 있음을 시사한다.\n\n테슬라를 AI·로보틱스 기업으로 바라보는 재평가 시각은 장기적으로 밸류에이션 기준 자체를 변화시킨다. 전통 자동차 업체 PER 기준이 아닌 AI·소프트웨어 기업 멀티플로 테슬라를 평가하려는 시도가 늘어날 경우 상당한 재평가 여지가 생길 수 있다.\n\n다만 MSN 기사는 '가능한가?(Can it revive?)'라는 질문형 제목으로, 재도약을 기정사실화하기보다 가능성을 탐색하는 시각을 유지한다. FSD·로보택시의 수익화 타임라인과 옵티머스의 상용 배치 속도가 이 시나리오의 실현 여부를 가르는 핵심 변수다.",
+      "href": "https://www.msn.com/en-us/money/topstocks/can-ai-and-robotics-revive-tesla-etfs-worth-considering/ar-AA24W0qR",
+      "sentiment": "neutral",
+      "hot": 4
     },
     {
       "category": "stock",
