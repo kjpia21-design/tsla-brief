@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-07 22:00 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-08 02:38 KST 자동 갱신 · 최신순",
   "items": [
     {
       "category": "product",
@@ -31,9 +31,30 @@
       "summary": "JP모건의 테슬라 투자의견 상향 소식이 연일 복수 매체를 통해 재조명되고 있다. 블룸버그가 6월 5일 원 보도를 낸 이후 MSN, 야후 파이낸스 등 주요 매체가 잇따라 후속 보도를 이어가며 이 전환의 파급력을 거듭 강조하고 있다.\n\nJP모건은 그간 테슬라에 월가 최저 수준의 목표주가를 유지하며 지속적인 비관 의견을 내오던 대표적 약세 기관이었다. 약세 기조의 담당 애널리스트 교체 이후 공식 투자 시각을 전환하고 목표주가를 대폭 높인 것은 단순 인사 변경이 아닌 은행 차원의 테슬라 재평가를 의미한다.\n\n대형 투자은행의 스탠스 변화는 JP모건 리서치를 참고하는 연기금·보험사·자산운용사 등 보수적 기관들의 포트폴리오 조정 가능성을 높인다. 이들이 테슬라 비중을 늘리는 방향으로 움직일 경우 중장기 수급에 긍정적 변화가 나타날 수 있다.\n\n월가에서 상징적 약세론자였던 JP모건의 공식 전환은 테슬라 투자 심리 전반의 구조적 변화를 시사하는 이정표다. 다음 체크포인트는 다른 보수적 기관들의 스탠스 변화 여부와 7월 초 발표될 Q2 인도 실적이다.",
       "href": "https://www.msn.com/en-us/money/companies/jpmorgan-upgrades-tesla-with-a-major-price-target-hike/ar-AA24V56R?apiversion",
       "confirmedBy": 4,
-      "confirmingSources": ["Bloomberg", "MSN", "Yahoo Finance", "AOL"],
+      "confirmingSources": [
+        "Bloomberg",
+        "MSN",
+        "Yahoo Finance",
+        "AOL"
+      ],
       "sentiment": "bull",
       "hot": 8
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "6h ago",
+      "pubDate": "2026-06-07T11:38:04.000Z",
+      "title": "퀀트 헤지펀드 윈턴 그룹, 테슬라 <em>신규 지분 취득</em> 공시",
+      "hotShort": "퀀트 헤지펀드 윈턴 그룹, 테슬라 <em>신규 지분 취득</em>",
+      "body": "마켓비트에 따르면 영국계 퀀트 헤지펀드 윈턴 그룹(WINTON GROUP)이 테슬라($TSLA) 주식을 신규 취득했다고 공시했다 — JP모건 투자의견 상향에 이어 기관 수급 유입 흐름이 이어지고 있다는 추가 신호다.",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "stock-winton-acquires-new-stake-2026-06-07",
+      "summary": "윈턴 그룹(WINTON GROUP Ltd)은 영국 기반의 정량적(퀀트) 투자 전략 헤지펀드로, 2026년 6월 7일 기준 테슬라($TSLA) 주식을 신규 취득했다는 공시가 마켓비트(MarketBeat)의 'Instant Alerts'를 통해 확인됐다. 마켓비트 Instant Alerts는 기관 투자자의 SEC 제출 파일(13F-HR 등)을 기반으로 자동 발행되는 공시 알림이다.\n\n구체적인 매입 규모(주수·금액)는 이번 알림 원문에서 확인되지 않았다. 기관 투자자는 분기 종료 후 45일 이내에 13F-HR 보고서를 SEC에 제출해야 하며, 정확한 규모와 보유 비중은 해당 원문 보고서에서 확인할 수 있다.\n\nJP모건의 테슬라 투자의견 상향(2026-06-05~06) 이후 기관들의 테슬라 지분 변화에 시장의 관심이 쏠려 있다. 퀀트 펀드의 신규 매입 공시는 알고리즘 모델이 테슬라를 매수 신호로 포착했음을 시사하는 경우가 많아, 기관 수급 흐름의 한 단면으로 읽힌다.\n\n주주 관점에서 개별 기관 매입 공시는 직접적인 주가 재료라기보다 기관 수급 추세를 파악하는 보조 지표다. 매입 규모와 비중은 SEC EDGAR의 13F 원문을 통해 직접 확인할 것을 권장한다.",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-acquires-new-stake-in-tesla-inc-tsla-2026-06-07/",
+      "sentiment": "bull",
+      "hot": 4
     },
     {
       "category": "fsd",
