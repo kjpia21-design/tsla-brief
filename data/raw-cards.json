@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-08 22:11 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-08 23:15 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "12m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-08T21:58:44.000Z",
       "title": "We view Tim Cook as an all time Hall of Fame CEO with today his last WWDC…leaving Apple in great hands with Ternus @C…",
       "body": "We view Tim Cook as an all time Hall of Fame CEO with today his last WWDC…leaving Apple in great hands with Ternus @CNBCClosingBell @CNBC 🍿📱🍎🐂🏆🎯📺👇 https://t.co/UbkdE40jV5",
@@ -17,7 +17,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "34m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-08T21:37:38.000Z",
       "title": "My trip to Giga Berlin has now brought me and @pithostettler to Prague in the Czech Republic! Just a few images befor…",
       "body": "My trip to Giga Berlin has now brought me and @pithostettler to Prague in the Czech Republic! Just a few images before we begin a sightseeing tour through the city tomorrow with my good friend @OndrejBacina as our local …",
@@ -30,7 +30,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "56m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-08T21:14:52.000Z",
       "title": "We believe Apple hit this WWDC perfect and now has an AI foundation to build on around services and its hardware futu…",
       "body": "We believe Apple hit this WWDC perfect and now has an AI foundation to build on around services and its hardware future @CNBCClosingBell 🍎📱👇🏆🐂 https://t.co/UbkdE40jV5",
@@ -41,9 +41,22 @@
       "href": "https://x.com/DivesTech/status/2064093829398192255"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-08T21:12:50.000Z",
+      "title": "Tesla says FSD Supervised is available in China",
+      "body": "Tesla says FSD Supervised is available in China MSN",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.msn.com/en-us/autos/news/tesla-says-fsd-supervised-is-available-in-china/ar-AA23Io1h?gemSnapshotKey"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-08T20:55:33.000Z",
       "title": "New 5420 Sunset Supercharger: Los Angeles, CA - West Sunset Boulevard (6 stalls)  Learn more about Supercharger for B…",
       "body": "New 5420 Sunset Supercharger: Los Angeles, CA - West Sunset Boulevard (6 stalls) https://t.co/Y2anziuyuK Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/XCJ77Ghzca",
@@ -56,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-08T20:52:22.000Z",
       "title": "The level of fraud here is mind-blowing",
       "body": "The level of fraud here is mind-blowing https://t.co/FkgZp26a7w",
@@ -69,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-08T20:49:35.000Z",
       "title": "The system is rotten",
       "body": "The system is rotten https://t.co/7WMXcA0u7X",
@@ -82,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-08T20:26:25.000Z",
       "title": "Great to be on @CNBCClosingBell with @TheJudgeCNBC from WWDC in Cupertino discussing the AI announcements from @Apple…",
       "body": "Great to be on @CNBCClosingBell with @TheJudgeCNBC from WWDC in Cupertino discussing the AI announcements from @Apple and what it means for consumers looking ahead 🏆📺🐂🎯🍿🍎📱. An insightful panel with @KenzieSigalos …",
@@ -95,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-08T20:16:00.000Z",
       "title": "Tesla Stock Rises Ahead of SpaceX’s Friday IPO",
       "body": "Tesla Stock Rises Ahead of SpaceX’s Friday IPO Barron's",
@@ -108,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-08T19:14:46.000Z",
       "title": "Tesla tipped its hand at where Robotaxi is heading next",
       "body": "Tesla tipped its hand at where Robotaxi is heading next Teslarati",
@@ -121,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-08T19:11:12.000Z",
       "title": "FSD Supervised doesn’t waste your time",
       "body": "FSD Supervised doesn’t waste your time https://t.co/wlr2QPHnaX",
@@ -134,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-08T19:05:44.000Z",
       "title": "🇰🇷🇰🇷 Korea is Awesome 🇰🇷🇰🇷",
       "body": "🇰🇷🇰🇷 Korea is Awesome 🇰🇷🇰🇷 https://t.co/wVTwFjiBpu",
@@ -147,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-08T18:25:50.000Z",
       "title": "Tesla Model 3’s cheapest trim just got a major accolade",
       "body": "The Tesla Model 3’s cheapest trim level just got a major accolade, as Edmunds just revealed the Rear-Wheel-Drive trim of the all-electric sedan is the most efficient EV that is currently in production. The 2026 Tesla Mod…",
@@ -160,7 +173,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-08T17:42:50.000Z",
       "title": "A big day for Apple ahead at WWDC @HalftimeReport 🍎📱👇📺🎯🏆🍿🐂",
       "body": "A big day for Apple ahead at WWDC @HalftimeReport 🍎📱👇📺🎯🏆🍿🐂 https://t.co/WfU4AiB0ZR",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-08T16:53:14.000Z",
       "title": "New Tesla Supercharger: Afyonkarahisar, Türkiye - Dörtyol (12 stalls)",
       "body": "New Tesla Supercharger: Afyonkarahisar, Türkiye - Dörtyol (12 stalls) https://t.co/NeN5tY2dse https://t.co/vSTLbN7s8d",
@@ -186,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-08T16:33:10.000Z",
       "title": "Once voting is this fraudulent, they can get whatever outcome they want, making a sham of democracy",
       "body": "Once voting is this fraudulent, they can get whatever outcome they want, making a sham of democracy https://t.co/PcMGFS61eJ",
@@ -199,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-08T16:22:48.000Z",
       "title": "We often mistake the pursuit of perfection as equivalent to the pursuit of happiness. Perfection may never arrive, as…",
       "body": "We often mistake the pursuit of perfection as equivalent to the pursuit of happiness. Perfection may never arrive, as you could always find flaws, but you can only enjoy happiness while you live.",
@@ -212,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-08T16:09:18.000Z",
       "title": "Sticks and stones won’t break my bones",
       "body": "Sticks and stones won’t break my bones https://t.co/zfc8ZV6qPa https://t.co/AVEQjhZq6T https://t.co/oD74yx9nQW",
@@ -225,7 +238,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-08T14:02:22.000Z",
       "title": "History is a form of compaction. After compacting a few times, we tend to forget or make up our minds based on vague …",
       "body": "History is a form of compaction. After compacting a few times, we tend to forget or make up our minds based on vague abstracts. As humans have a limited rollout in their lifetime, we inevitably begin to make similar mist…",
@@ -238,7 +251,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-08T13:12:36.000Z",
       "title": "Tesla skeptics will hate what this new reliability study says",
       "body": "In a notable shift for electric vehicle perceptions, Tesla has emerged as a standout performer in the latest iSeeCars longevity study, which analyzed over 174 million used vehicles. The data reveals that Tesla models hav…",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-skeptics-hate-new-reliability-study-results/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-06-08T05:06:57.000Z",
-      "title": "As eval is downstream of everything, it determines whether you will spend your time optimizing the right metrics. The…",
-      "body": "As eval is downstream of everything, it determines whether you will spend your time optimizing the right metrics. The current gap between academia and industry AI labs is the attitude toward eval. In academia, the eval s…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2063850243309846779"
     }
   ]
 }
