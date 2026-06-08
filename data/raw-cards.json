@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-08 16:05 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-08 16:16 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "7m ago",
+      "pubDate": "2026-06-08T16:09:18.000Z",
+      "title": "Sticks and stones won’t break my bones",
+      "body": "Sticks and stones won’t break my bones https://t.co/zfc8ZV6qPa https://t.co/AVEQjhZq6T https://t.co/oD74yx9nQW",
+      "sourceName": "Cybertruck (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/cybertruck/status/2064016930579927161"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "50m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-08T15:15:28.000Z",
       "title": "Tesla Inc Stock (TSLA) Moved Up by 3.38% on Jun 8: Drivers Behind the Movement",
       "body": "Tesla Inc Stock (TSLA) Moved Up by 3.38% on Jun 8: Drivers Behind the Movement TradingKey",
@@ -15,22 +28,9 @@
       "href": "https://www.tradingkey.com/news/market-movers/261953284-market-movers-tsla-20260608"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "51m ago",
-      "pubDate": "2026-06-08T15:15:19.000Z",
-      "title": "Tesla stock rebounds 3% after Friday's brutal selloff: what's behind the move?",
-      "body": "Tesla stock rebounds 3% after Friday's brutal selloff: what's behind the move? Invezz",
-      "sourceName": "Invezz",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://invezz.com/en-ae/news/2026/06/08/tesla-stock-rebounds-3percent-after-fridays-brutal-selloff-whats-behind-the-move/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "51m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-08T15:14:22.000Z",
       "title": "The number of Tesla Robotaxis on the road has been going down",
       "body": "The number of Tesla Robotaxis on the road has been going down Sherwood News",
@@ -67,6 +67,32 @@
       "href": "https://eletric-vehicles.com/tesla/tesla-fsd-faces-more-eu-delay-as-june-30-brings-no-vote/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T14:59:14.000Z",
+      "title": "Tesla stock rebounds 3% after Friday's brutal selloff: what's behind the move?",
+      "body": "Tesla stock rebounds 3% after Friday's brutal selloff: what's behind the move? Invezz",
+      "sourceName": "Invezz",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://invezz.com/ca/news/2026/06/08/tesla-stock-rebounds-3percent-after-fridays-brutal-selloff-whats-behind-the-move/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T14:57:01.000Z",
+      "title": "California made it illegal to show or request photo ID to vote. You cannot show your photo ID even voluntarily!",
+      "body": "California made it illegal to show or request photo ID to vote. You cannot show your photo ID even voluntarily! https://t.co/1afSUV2d2j",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063998740474613968"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1h ago",
@@ -93,6 +119,71 @@
       "href": "https://www.msn.com/en-us/money/markets/tesla-stock-rebounds-3-after-friday-s-brutal-selloff-what-s-behind-the-move/ar-AA257htT?ocid"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T14:46:48.000Z",
+      "title": "That’s because fraud at scale takes time!",
+      "body": "That’s because fraud at scale takes time! https://t.co/MJyUHLYmtr",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063996166983848059"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-08T14:45:45.000Z",
+      "title": "The magnitude &amp; brazen nature of the government payment fraud is staggering",
+      "body": "The magnitude &amp; brazen nature of the government payment fraud is staggering https://t.co/r7YBbowQ7x",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063995905452249303"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-08T14:45:07.000Z",
+      "title": "16,000 miles. Mostly fast charging. Still 99% battery health. A Tesla Model Y owner completed a full battery test aft…",
+      "body": "16,000 miles. Mostly fast charging. Still 99% battery health. A Tesla Model Y owner completed a full battery test after six months and found virtually no capacity loss, despite using DC fast charging more than home charg…",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2063995743296237910"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-08T14:44:08.000Z",
+      "title": "The real reason they don’t want voter ID is to commit voting fraud. That is the obvious truth.",
+      "body": "The real reason they don’t want voter ID is to commit voting fraud. That is the obvious truth. https://t.co/TeYCd03Y8U",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063995496381767761"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-08T14:19:56.000Z",
+      "title": "Falcon is a beautiful rocket",
+      "body": "Falcon is a beautiful rocket https://t.co/95QES0I5nl",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2063989409003807122"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "2h ago",
@@ -104,19 +195,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/yunta_tsai/status/2063984986752209047"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-08T13:59:00.000Z",
-      "title": "Tesla Stock Rises Ahead of SpaceX’s Friday IPO",
-      "body": "Tesla Stock Rises Ahead of SpaceX’s Friday IPO Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-spacex-ipo-1f0ca91c"
     },
     {
       "category": "stock",
@@ -132,32 +210,6 @@
       "href": "https://x.com/DivesTech/status/2063983434431967542"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-08T13:35:09.000Z",
-      "title": "Old Town Square and Astronomical Clock",
-      "body": "Old Town Square and Astronomical Clock https://t.co/rxlSxm9ZBU https://t.co/3T6nbgROKu",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2063978136614621324"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-08T13:16:53.000Z",
-      "title": "In the Old Town Square for Prague, at a 360 view terrace. The astronomical clock, the only one in the world. It’s abs…",
-      "body": "In the Old Town Square for Prague, at a 360 view terrace. The astronomical clock, the only one in the world. It’s absolutely insane. https://t.co/PFV68nw0lB",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2063973540726964678"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "3h ago",
@@ -169,45 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-skeptics-hate-new-reliability-study-results/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-08T12:58:52.000Z",
-      "title": "In 2002, he needed to introduce himself, but in 2026, he became the world's first trillionaire.",
-      "body": "In 2002, he needed to introduce himself, but in 2026, he became the world's first trillionaire. https://t.co/iCbW9bU1gk",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2063969005988200689"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-06-08T12:57:00.000Z",
-      "title": "Tesla delays Roadster unveiling again as supercar nears a decade of anticipation",
-      "body": "Tesla delays Roadster unveiling again as supercar nears a decade of anticipation Mezha",
-      "sourceName": "Mezha",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://mezha.ua/en/news/tesla-roadster-demo-delayed-again-312073/amp/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-06-08T05:49:32.000Z",
-      "title": "Worthwhile exercise",
-      "body": "Worthwhile exercise https://t.co/998iHyFXrh",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2063860959282602479"
     },
     {
       "category": "fsd",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-owner-fixes-common-feature-complaint-crafty-diy-retrofit/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
-      "pubDate": "2026-06-07T12:21:31.000Z",
-      "title": "Tesla exec says Roadster unveil is soon — for real this time",
-      "body": "The Tesla Roadster unveiling could be coming “in a few weeks,” according to the company’s Chief Designer Franz von Holzhausen, who said at the Tesla Takeover Europe Event in Austria that the all-electric hypercar could f…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-roadster-unveiling-teased-few-weeks-exec/"
     }
   ]
 }
