@@ -1,20 +1,36 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "11m ago",
+      "pubDate": "2026-06-08T18:04:40.000Z",
+      "title": "시킹알파 \"테슬라 <em>PER 190배</em> 재검토\" — 밸류에이션 논쟁 재점화",
+      "hotShort": "시킹알파, 테슬라 <em>PER 190배</em> 재검토 논쟁",
+      "body": "시킹알파가 테슬라의 현 주가수익비율(PER) 약 190배를 재검토하는 분석을 게재했다 — 시총 1.2조 달러 수준에서 이 높은 프리미엄이 성립하는지를 둘러싼 밸류에이션 논쟁이 다시 주목받고 있다.",
+      "sourceName": "Seeking Alpha",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-190x-pe-ratio-reexamined-2026-06-08",
+      "summary": "시킹알파(Seeking Alpha)가 테슬라의 현재 주가수익비율(PER)이 약 190배에 달한다는 점을 재검토하는 분석 기사를 게재했다. 기사 제목 자체가 190배라는 높은 배수를 명시하며 이를 '재검토(Reexamined)'한다고 밝힌 것으로, 전통 지표로는 설명하기 어려운 테슬라의 프리미엄 밸류에이션이 투자자들 사이에서 여전히 뜨거운 논쟁거리임을 보여준다.\n\n테슬라 주가는 FSD·로보택시·에너지저장·옵티머스 로봇 등 복합 성장 기대감에 높은 밸류에이션을 유지하고 있다. 전통적인 자동차 업체 PER(10~15배 수준)과 비교하면 190배는 이례적으로 높고, 빅테크와 비교해도 상단에 위치한다.\n\n이 프리미엄이 유지되려면 FSD 상용화와 로보택시 규모화, 에너지 부문의 실질 성장 등 테슬라가 제시한 성장 시나리오가 실현돼야 한다는 것이 시장 다수의 시각이다. 분기 실적·FSD 사용자 증가·로보택시 확장 지표가 밸류에이션 정당성의 핵심 검증 변수로 꼽힌다.",
+      "href": "https://seekingalpha.com/article/4912973-tesla-190x-pe-ratio-reexamined",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
-      "pubDate": "2026-06-08T15:14:22.000Z",
-      "title": "Sherwood News \"테슬라 로보택시 도로 운행 대수 <em>줄어드는 추세</em>\"",
-      "hotShort": "테슬라 로보택시 운행 대수 <em>감소세</em>, 확장 의문",
-      "body": "테슬라 로보택시의 실제 도로 운행 대수가 감소하고 있다는 분석이 나왔다 — 서비스 확장을 강조해온 공식 발표와 실제 지표 간 괴리가 드러나면서 로보택시 사업 확대 속도에 의문이 제기되고 있다.",
-      "sourceName": "Sherwood News",
+      "pubDate": "2026-06-08T17:11:48.000Z",
+      "title": "캐시 우드, 오스틴서 테슬라 로보택시 <em>비지도 탑승</em> 직접 체험",
+      "hotShort": "캐시 우드, 오스틴 로보택시 <em>비지도 탑승</em> 체험",
+      "body": "ARK인베스트 창업자 캐시 우드(Cathie Wood)가 텍사스 오스틴에서 테슬라 로보택시를 비지도(Unsupervised) 모드로 직접 탑승했다 — 테슬라의 가장 강력한 지지 투자자가 실제 서비스를 직접 경험했다는 점에서 FSD 기술 신뢰도를 높이는 상징적 장면이다.",
+      "sourceName": "BASENOR",
       "sourceLabel": "press",
-      "slug": "fsd-robotaxi-numbers-declining-2026-06-08",
-      "summary": "Sherwood News는 테슬라 로보택시의 실제 도로 운행 대수가 감소 추세에 있다고 보도했다. 해당 분석은 테슬라의 로보택시 사업 확장 속도와 실제 가동 현황 사이에 괴리가 있음을 시사한다.\n\n테슬라는 사이버캡(CyberCab)을 중심으로 로보택시 서비스를 단계적으로 확대하는 전략을 취하고 있으며, 텍사스 오스틴과 달라스 등에서 시범 서비스를 운영 중이다. 그러나 규제 승인, 기술 검증, 운영 비용 등의 요인이 빠른 확장에 제동을 걸 수 있다는 분석이 꾸준히 나온다.\n\n로보택시 지표는 테슬라 밸류에이션의 핵심 변수인 만큼 주주들이 주목해야 할 대목이다. 현재 이 보도는 Sherwood News 단독으로, 추가 교차 확인이 권장된다.",
-      "href": "https://sherwood.news/tech/the-number-of-tesla-robotaxis-on-the-road-has-been-going-down/",
-      "sentiment": "bear",
-      "hot": 5
+      "slug": "fsd-cathie-wood-robotaxi-unsupervised-austin-2026-06-08",
+      "summary": "ARK인베스트 창업자·CEO 캐시 우드(Cathie Wood)가 텍사스 오스틴에서 테슬라의 비지도(Unsupervised) FSD 기반 로보택시를 직접 탑승하는 경험을 했다. 테슬라 액세서리 브랜드 BASENOR가 단독 보도했다.\n\n캐시 우드는 ARK인베스트를 통해 테슬라의 장기 성장 가능성에 수년째 강한 신뢰를 보내온 대표적 지지자다. 비지도 로보택시 서비스를 직접 탑승하고 그 경험을 공유했다는 것은 FSD 기술의 성숙도에 대한 실사용 검증을 상징하는 장면으로 읽힌다.\n\n테슬라는 현재 텍사스 오스틴을 중심으로 비지도 FSD 로보택시 서비스를 운영하고 있다. 비지도 모드는 차내 안전 요원 없이 소프트웨어만으로 운행되는 단계로, 완전 자율주행 상용화의 핵심 마일스톤이다. 다만 이 보도는 BASENOR 단독 기사로, 추가 교차 확인이 권장된다.",
+      "href": "https://www.basenor.com/blogs/news/cathie-wood-rides-tesla-robotaxi-unsupervised-in-austin",
+      "sentiment": "bull",
+      "hot": 7
     },
     {
       "category": "fsd",
@@ -59,19 +75,19 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-06-08T14:45:07.000Z",
-      "title": "모델 Y, 1만 6천 마일 급속 충전 후에도 <em>배터리 건강도 99%</em>",
-      "hotShort": "모델 Y 1만6천마일 후에도 <em>배터리 99% 건강</em>",
-      "body": "테슬라 모델 Y 오너가 약 1만 6,000마일을 주로 급속 충전으로 주행한 뒤 배터리 건강도를 측정한 결과 99%를 유지한 것으로 나타났다 — 급속 충전이 배터리 수명을 크게 단축한다는 우려를 반박하는 실사용 데이터로 주목된다.",
-      "sourceName": "Tesla Owners SV (X)",
+      "time": "5h ago",
+      "pubDate": "2026-06-08T13:12:36.000Z",
+      "title": "iSeeCars \"1억 7,400만 대 내구성 분석서 테슬라 <em>두드러진 성과</em>\"",
+      "hotShort": "iSeeCars 1.74억 대 분석 — 테슬라 <em>두드러진 성과</em>",
+      "body": "1억 7,400만 대 이상의 중고차를 분석한 iSeeCars 장수 연구에서 테슬라가 두드러진 성과를 기록했다 — 전기차 내구성에 회의적인 시각을 데이터로 정면 반박하는 결과다.",
+      "sourceName": "Teslarati",
       "sourceLabel": "press",
-      "slug": "product-model-y-battery-99pct-fast-charging-2026-06-08",
-      "summary": "테슬라 모델 Y 오너 한 명이 6개월간 약 1만 6,000마일(약 2만 5,750km)을 주로 DC 급속 충전으로 주행한 뒤 전문 테스트로 배터리 건강도를 측정한 결과 99%를 유지하고 있음이 확인됐다. 커뮤니티 계정 Tesla Owners SV가 이 사례를 소개했다.\n\n전기차 구매를 망설이는 소비자들이 가장 우려하는 요소 중 하나가 배터리 수명이다. 특히 DC 급속 충전이 배터리 열화를 가속화한다는 인식이 널리 퍼져 있는 만큼, 이번 실사용 데이터는 그러한 우려를 실질적으로 반박하는 사례로 의미가 있다.\n\n다만 이는 단일 오너의 사례이며 개인별 주행 패턴, 기후 조건, 차량 사양 등에 따라 결과가 다를 수 있다. 테슬라는 배터리 관리 시스템(BMS)을 통해 급속 충전 시 배터리 손상을 최소화하도록 설계돼 있다고 밝혀 왔다.",
-      "href": "https://x.com/teslaownersSV/status/2063995743296237910",
+      "slug": "product-tesla-reliability-iseecars-study-2026-06-08",
+      "summary": "자동차 데이터 분석 기관 iSeeCars의 최신 장수(Longevity) 연구에서 테슬라가 두드러진 성과를 보인 것으로 나타났다고 테슬라라티(Teslarati)가 보도했다. 이번 연구는 1억 7,400만 대 이상의 중고차 데이터를 분석한 대규모 조사로, 전기차 내구성을 둘러싼 논쟁에 데이터 기반 근거를 제공한다.\n\n전기차는 배터리 열화와 소프트웨어 의존도를 이유로 장기 내구성이 부족하다는 우려가 꾸준히 제기돼왔다. 이번 iSeeCars 연구는 실제 중고차 시장 데이터를 토대로 테슬라 모델들이 높은 주행 마일리지에서도 수명을 유지한다는 점을 시사한다.\n\n테슬라라티는 이 결과를 '테슬라 회의론자들이 싫어할 데이터'라고 표현했다. 내구성 데이터는 잔존 가치(Resale Value)와 총보유비용(TCO) 논의에서 중요한 근거로 활용되며, 이 수치가 좋을수록 테슬라의 가격 방어력과 브랜드 신뢰도가 뒷받침된다.\n\n어떤 테슬라 모델이 특히 두드러진 결과를 보였는지, 다른 전기차 브랜드와의 비교 수치는 테슬라라티 원문에서 확인할 수 있다. 장기 보유를 계획하는 오너나 투자자라면 내구성 데이터가 테슬라 브랜드 가치에 긍정적으로 작용한다는 점에 주목할 만하다.",
+      "href": "https://www.teslarati.com/tesla-skeptics-hate-new-reliability-study-results/",
       "sentiment": "bull",
       "hot": 5
     }
   ],
-  "asOf": "2026-06-09 01:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-09 03:20 KST 자동 갱신 · 최신순"
 }
