@@ -1,23 +1,88 @@
 {
-  "asOf": "2026-06-08 18:16 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-08 20:11 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "11m ago",
-      "pubDate": "2026-06-08T18:04:40.000Z",
-      "title": "Tesla: 190x P/E Ratio Reexamined (NASDAQ:TSLA)",
-      "body": "Tesla: 190x P/E Ratio Reexamined (NASDAQ:TSLA) Seeking Alpha",
-      "sourceName": "Seeking Alpha",
+      "time": "30m ago",
+      "pubDate": "2026-06-08T19:41:05.000Z",
+      "title": "JPMorgan Just Dramatically Reversed Course on Tesla Because TSLA Stock Has Massive Physical AI Potential",
+      "body": "JPMorgan Just Dramatically Reversed Course on Tesla Because TSLA Stock Has Massive Physical AI Potential Barchart.com",
+      "sourceName": "Barchart.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://seekingalpha.com/article/4912973-tesla-190x-pe-ratio-reexamined"
+      "href": "https://www.barchart.com/story/news/2364068/jpmorgan-just-dramatically-reversed-course-on-tesla-because-tsla-stock-has-massive-physical-ai-potential"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "33m ago",
+      "time": "36m ago",
+      "pubDate": "2026-06-08T19:35:00.000Z",
+      "title": "Why Is Tesla (TSLA) Stock Rocketing Higher Today",
+      "body": "Why Is Tesla (TSLA) Stock Rocketing Higher Today FinancialContent",
+      "sourceName": "FinancialContent",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://markets.financialcontent.com/stocks/article/stockstory-2026-6-8-why-is-tesla-tsla-stock-rocketing-higher-today"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "56m ago",
+      "pubDate": "2026-06-08T19:14:46.000Z",
+      "title": "Tesla tipped its hand at where Robotaxi is heading next",
+      "body": "Tesla tipped its hand at where Robotaxi is heading next Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-tipped-its-hand-where-robotaxi-heading-next/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T19:11:12.000Z",
+      "title": "FSD Supervised doesn’t waste your time",
+      "body": "FSD Supervised doesn’t waste your time https://t.co/wlr2QPHnaX",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/Tesla/status/2064062706538385660"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T19:05:44.000Z",
+      "title": "🇰🇷🇰🇷 Korea is Awesome 🇰🇷🇰🇷",
+      "body": "🇰🇷🇰🇷 Korea is Awesome 🇰🇷🇰🇷 https://t.co/wVTwFjiBpu",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2064061331418828888"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-08T18:25:50.000Z",
+      "title": "Tesla Model 3’s cheapest trim just got a major accolade",
+      "body": "The Tesla Model 3’s cheapest trim level just got a major accolade, as Edmunds just revealed the Rear-Wheel-Drive trim of the all-electric sedan is the most efficient EV that is currently in production. The 2026 Tesla Mod…",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-model-3-cheapest-trim-major-accolade/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
       "pubDate": "2026-06-08T17:42:50.000Z",
       "title": "A big day for Apple ahead at WWDC @HalftimeReport 🍎📱👇📺🎯🏆🍿🐂",
       "body": "A big day for Apple ahead at WWDC @HalftimeReport 🍎📱👇📺🎯🏆🍿🐂 https://t.co/WfU4AiB0ZR",
@@ -30,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "55m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-08T17:20:49.000Z",
       "title": "Great to be on @HalftimeReport with @TheJudgeCNBC from Cupertino for Apple’s flagship WWDC @Apple as AI is key for Co…",
       "body": "Great to be on @HalftimeReport with @TheJudgeCNBC from Cupertino for Apple’s flagship WWDC @Apple as AI is key for Cook in his last WWDC as Ternus takes over. Great to be on with @KenzieSigalos @BrynTalkington @terranova…",
@@ -41,35 +106,9 @@
       "href": "https://x.com/DivesTech/status/2064034930259276047"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-06-08T17:11:48.000Z",
-      "title": "Cathie Wood Rides Tesla Robotaxi Unsupervised in Austin",
-      "body": "Cathie Wood Rides Tesla Robotaxi Unsupervised in Austin BASENOR - Tesla Accessories",
-      "sourceName": "BASENOR - Tesla Accessories",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.basenor.com/blogs/news/cathie-wood-rides-tesla-robotaxi-unsupervised-in-austin"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-06-08T16:55:53.000Z",
-      "title": "At a $1.2 Trillion Market Cap, Is Tesla Stock Overvalued or Undervalued Right Now?",
-      "body": "At a $1.2 Trillion Market Cap, Is Tesla Stock Overvalued or Undervalued Right Now? AOL.com",
-      "sourceName": "AOL.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.aol.com/articles/1-2-trillion-market-cap-163500000.html"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-08T16:53:14.000Z",
       "title": "New Tesla Supercharger: Afyonkarahisar, Türkiye - Dörtyol (12 stalls)",
       "body": "New Tesla Supercharger: Afyonkarahisar, Türkiye - Dörtyol (12 stalls) https://t.co/NeN5tY2dse https://t.co/vSTLbN7s8d",
@@ -82,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-08T16:33:10.000Z",
       "title": "Once voting is this fraudulent, they can get whatever outcome they want, making a sham of democracy",
       "body": "Once voting is this fraudulent, they can get whatever outcome they want, making a sham of democracy https://t.co/PcMGFS61eJ",
@@ -95,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-08T16:31:59.000Z",
       "title": "No more discrimination",
       "body": "No more discrimination https://t.co/vHHQb0xfby",
@@ -108,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-08T16:30:35.000Z",
       "title": "Suicidal empathy becoming homicidal empathy",
       "body": "Suicidal empathy becoming homicidal empathy https://t.co/8zytsJ5Kd8",
@@ -121,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-08T16:23:17.000Z",
       "title": "Choice of narrative is the biggest lie of the legacy media",
       "body": "Choice of narrative is the biggest lie of the legacy media https://t.co/37HspViXI8",
@@ -134,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-08T16:22:48.000Z",
       "title": "We often mistake the pursuit of perfection as equivalent to the pursuit of happiness. Perfection may never arrive, as…",
       "body": "We often mistake the pursuit of perfection as equivalent to the pursuit of happiness. Perfection may never arrive, as you could always find flaws, but you can only enjoy happiness while you live.",
@@ -147,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-08T16:09:18.000Z",
       "title": "Sticks and stones won’t break my bones",
       "body": "Sticks and stones won’t break my bones https://t.co/zfc8ZV6qPa https://t.co/AVEQjhZq6T https://t.co/oD74yx9nQW",
@@ -158,35 +197,9 @@
       "href": "https://x.com/cybertruck/status/2064016930579927161"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-08T14:57:01.000Z",
-      "title": "California made it illegal to show or request photo ID to vote. You cannot show your photo ID even voluntarily!",
-      "body": "California made it illegal to show or request photo ID to vote. You cannot show your photo ID even voluntarily! https://t.co/1afSUV2d2j",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2063998740474613968"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-06-08T14:55:13.000Z",
-      "title": "U.S. Stocks Move | Tesla (TSLA.US) Rises Over 3% as All-New Roadster All-Electric Supercar Set to Debut in Coming Weeks",
-      "body": "U.S. Stocks Move | Tesla (TSLA.US) Rises Over 3% as All-New Roadster All-Electric Supercar Set to Debut in Coming Weeks Moomoo",
-      "sourceName": "Moomoo",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.moomoo.com/news/post/71208974/us-stocks-move-tesla-tslaus-rises-over-3-as-all"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-08T14:45:07.000Z",
       "title": "16,000 miles. Mostly fast charging. Still 99% battery health. A Tesla Model Y owner completed a full battery test aft…",
       "body": "16,000 miles. Mostly fast charging. Still 99% battery health. A Tesla Model Y owner completed a full battery test after six months and found virtually no capacity loss, despite using DC fast charging more than home charg…",
@@ -199,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-08T14:02:22.000Z",
       "title": "History is a form of compaction. After compacting a few times, we tend to forget or make up our minds based on vague …",
       "body": "History is a form of compaction. After compacting a few times, we tend to forget or make up our minds based on vague abstracts. As humans have a limited rollout in their lifetime, we inevitably begin to make similar mist…",
@@ -212,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-08T13:56:12.000Z",
       "title": "Look forward to joining @TheJudgeCNBC on @HalftimeReport at 12 pm and @CNBCClosingBell at 3 pm from Cupertino for a m…",
       "body": "Look forward to joining @TheJudgeCNBC on @HalftimeReport at 12 pm and @CNBCClosingBell at 3 pm from Cupertino for a major @Apple WWDC with AI front and center in this key day for both Cook and Ternus @CNBC 🔥🏆🍿🎯📺🐂🍎…",
@@ -225,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-08T13:12:36.000Z",
       "title": "Tesla skeptics will hate what this new reliability study says",
       "body": "In a notable shift for electric vehicle perceptions, Tesla has emerged as a standout performer in the latest iSeeCars longevity study, which analyzed over 174 million used vehicles. The data reveals that Tesla models hav…",
@@ -238,7 +251,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-08T05:06:57.000Z",
       "title": "As eval is downstream of everything, it determines whether you will spend your time optimizing the right metrics. The…",
       "body": "As eval is downstream of everything, it determines whether you will spend your time optimizing the right metrics. The current gap between academia and industry AI labs is the attitude toward eval. In academia, the eval s…",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/yunta_tsai/status/2063850243309846779"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-06-08T01:02:53.000Z",
-      "title": "Nothing can replace a kid's drawing, not even AI.",
-      "body": "Nothing can replace a kid's drawing, not even AI. https://t.co/cqYeBG6Kly",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2063788822434050138"
     }
   ]
 }

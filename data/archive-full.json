@@ -1,6 +1,38 @@
 {
-  "asOf": "2026-06-08 18:16 UTC · 누적 231건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-08 20:11 UTC · 누적 233건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "11m ago",
+      "pubDate": "2026-06-08T18:04:40.000Z",
+      "title": "시킹알파 \"테슬라 <em>PER 190배</em> 재검토\" — 밸류에이션 논쟁 재점화",
+      "hotShort": "시킹알파, 테슬라 <em>PER 190배</em> 재검토 논쟁",
+      "body": "시킹알파가 테슬라의 현 주가수익비율(PER) 약 190배를 재검토하는 분석을 게재했다 — 시총 1.2조 달러 수준에서 이 높은 프리미엄이 성립하는지를 둘러싼 밸류에이션 논쟁이 다시 주목받고 있다.",
+      "sourceName": "Seeking Alpha",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-190x-pe-ratio-reexamined-2026-06-08",
+      "summary": "시킹알파(Seeking Alpha)가 테슬라의 현재 주가수익비율(PER)이 약 190배에 달한다는 점을 재검토하는 분석 기사를 게재했다. 기사 제목 자체가 190배라는 높은 배수를 명시하며 이를 '재검토(Reexamined)'한다고 밝힌 것으로, 전통 지표로는 설명하기 어려운 테슬라의 프리미엄 밸류에이션이 투자자들 사이에서 여전히 뜨거운 논쟁거리임을 보여준다.\n\n테슬라 주가는 FSD·로보택시·에너지저장·옵티머스 로봇 등 복합 성장 기대감에 높은 밸류에이션을 유지하고 있다. 전통적인 자동차 업체 PER(10~15배 수준)과 비교하면 190배는 이례적으로 높고, 빅테크와 비교해도 상단에 위치한다.\n\n이 프리미엄이 유지되려면 FSD 상용화와 로보택시 규모화, 에너지 부문의 실질 성장 등 테슬라가 제시한 성장 시나리오가 실현돼야 한다는 것이 시장 다수의 시각이다. 분기 실적·FSD 사용자 증가·로보택시 확장 지표가 밸류에이션 정당성의 핵심 검증 변수로 꼽힌다.",
+      "href": "https://seekingalpha.com/article/4912973-tesla-190x-pe-ratio-reexamined",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T17:11:48.000Z",
+      "title": "캐시 우드, 오스틴서 테슬라 로보택시 <em>비지도 탑승</em> 직접 체험",
+      "hotShort": "캐시 우드, 오스틴 로보택시 <em>비지도 탑승</em> 체험",
+      "body": "ARK인베스트 창업자 캐시 우드(Cathie Wood)가 텍사스 오스틴에서 테슬라 로보택시를 비지도(Unsupervised) 모드로 직접 탑승했다 — 테슬라의 가장 강력한 지지 투자자가 실제 서비스를 직접 경험했다는 점에서 FSD 기술 신뢰도를 높이는 상징적 장면이다.",
+      "sourceName": "BASENOR",
+      "sourceLabel": "press",
+      "slug": "fsd-cathie-wood-robotaxi-unsupervised-austin-2026-06-08",
+      "summary": "ARK인베스트 창업자·CEO 캐시 우드(Cathie Wood)가 텍사스 오스틴에서 테슬라의 비지도(Unsupervised) FSD 기반 로보택시를 직접 탑승하는 경험을 했다. 테슬라 액세서리 브랜드 BASENOR가 단독 보도했다.\n\n캐시 우드는 ARK인베스트를 통해 테슬라의 장기 성장 가능성에 수년째 강한 신뢰를 보내온 대표적 지지자다. 비지도 로보택시 서비스를 직접 탑승하고 그 경험을 공유했다는 것은 FSD 기술의 성숙도에 대한 실사용 검증을 상징하는 장면으로 읽힌다.\n\n테슬라는 현재 텍사스 오스틴을 중심으로 비지도 FSD 로보택시 서비스를 운영하고 있다. 비지도 모드는 차내 안전 요원 없이 소프트웨어만으로 운행되는 단계로, 완전 자율주행 상용화의 핵심 마일스톤이다. 다만 이 보도는 BASENOR 단독 기사로, 추가 교차 확인이 권장된다.",
+      "href": "https://www.basenor.com/blogs/news/cathie-wood-rides-tesla-robotaxi-unsupervised-in-austin",
+      "sentiment": "bull",
+      "hot": 7
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
