@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-08 10:26 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-08 11:08 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "16m ago",
+      "pubDate": "2026-06-08T10:52:47.000Z",
+      "title": "1 Nasdaq 100 Stock to Target This Week and 2 That Underwhelm",
+      "body": "1 Nasdaq 100 Stock to Target This Week and 2 That Underwhelm StockStory",
+      "sourceName": "StockStory",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://stockstory.org/us/stocks/nasdaq/zs/news/buy-or-sell/1-nasdaq-100-stock-to-target-this-week-and-2-that-underwhelm"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3m ago",
+      "time": "40m ago",
+      "pubDate": "2026-06-08T10:28:59.000Z",
+      "title": "Tesla expands Unsupervised Robotaxi Service to the entire Austin Metro Area, Cybercabs spotted across the US",
+      "body": "Tesla expands Unsupervised Robotaxi Service to the entire Austin Metro Area, Cybercabs spotted across the US Tesla Oracle",
+      "sourceName": "Tesla Oracle",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslaoracle.com/2026/06/08/tesla-expands-unsupervised-robotaxi-service-to-the-entire-austin-metro-area-cybercabs-spotted-across-the-us/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "45m ago",
       "pubDate": "2026-06-08T10:23:31.000Z",
       "title": "JPMorgan Raises Tesla's Price Target, Highlights Robotaxi and Optimus Growth Prospects",
       "body": "JPMorgan Raises Tesla's Price Target, Highlights Robotaxi and Optimus Growth Prospects StockInvest.us",
@@ -15,35 +41,9 @@
       "href": "https://stockinvest.us/digest/jpmorgan-raises-teslas-price-target-highlights-robotaxi-and-optimus-growth-prospects"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4m ago",
-      "pubDate": "2026-06-08T10:22:38.000Z",
-      "title": "Tesla, Inc. $TSLA Holdings Lifted by O Shaughnessy Asset Management LLC",
-      "body": "Tesla, Inc. $TSLA Holdings Lifted by O Shaughnessy Asset Management LLC MarketBeat",
-      "sourceName": "MarketBeat",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-tesla-inc-tsla-holdings-lifted-by-o-shaughnessy-asset-management-llc-2026-06-08/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4m ago",
-      "pubDate": "2026-06-08T10:22:37.000Z",
-      "title": "Manchester Capital Management LLC Has $8.30 Million Stock Holdings in Tesla, Inc. $TSLA",
-      "body": "Manchester Capital Management LLC Has $8.30 Million Stock Holdings in Tesla, Inc. $TSLA MarketBeat",
-      "sourceName": "MarketBeat",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-manchester-capital-management-llc-has-830-million-stock-holdings-in-tesla-inc-tsla-2026-06-08/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6m ago",
+      "time": "49m ago",
       "pubDate": "2026-06-08T10:19:48.000Z",
       "title": "Enjoying the largest ancient castle in the world. @teardowntitan Sandy Munro @stephenpallotta",
       "body": "Enjoying the largest ancient castle in the world. @teardowntitan Sandy Munro @stephenpallotta https://t.co/3eDZ4fbfNX https://t.co/xSmeWTpUTF",
@@ -56,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9m ago",
+      "time": "51m ago",
       "pubDate": "2026-06-08T10:17:31.000Z",
       "title": "Enjoying seeing some historic views around with @OndrejBacina and @pithostettler in the Czech Republic today! Beautif…",
       "body": "Enjoying seeing some historic views around with @OndrejBacina and @pithostettler in the Czech Republic today! Beautiful sights and interesting history! https://t.co/BEtvVcARz9",
@@ -69,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "16m ago",
+      "time": "59m ago",
       "pubDate": "2026-06-08T10:10:21.000Z",
       "title": "iPhone 17 Pro Max with 25X camera view from Prague Castle",
       "body": "iPhone 17 Pro Max with 25X camera view from Prague Castle https://t.co/RoVIFIEcF0 https://t.co/Qb2ZY3o4er",
@@ -80,22 +80,9 @@
       "href": "https://x.com/teslaownersSV/status/2063926599502934407"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "17m ago",
-      "pubDate": "2026-06-08T10:08:40.000Z",
-      "title": "Krane Funds Advisors LLC Acquires 3,162 Shares of Tesla, Inc. $TSLA",
-      "body": "Krane Funds Advisors LLC Acquires 3,162 Shares of Tesla, Inc. $TSLA MarketBeat",
-      "sourceName": "MarketBeat",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-krane-funds-advisors-llc-acquires-3162-shares-of-tesla-inc-tsla-2026-06-08/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "19m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-08T10:06:49.000Z",
       "title": "Enjoy the largest ancient castle in the world. @teardowntitan Sandy Munro @stephenpallotta",
       "body": "Enjoy the largest ancient castle in the world. @teardowntitan Sandy Munro @stephenpallotta https://t.co/0JpmxNFBhj https://t.co/xSmeWTpUTF",
@@ -104,6 +91,19 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/teslaownersSV/status/2063925708435620346"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T09:41:45.000Z",
+      "title": "Tesla sales in China are popping, but that means nothing if you can’t stomach TSLA stock’s absurd P/E ratio",
+      "body": "Tesla sales in China are popping, but that means nothing if you can’t stomach TSLA stock’s absurd P/E ratio MSN",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.msn.com/en-us/money/topstocks/tesla-sales-in-china-are-popping-but-that-means-nothing-if-you-can-t-stomach-tsla-stock-s-absurd-pe-ratio/ar-AA2505cC"
     },
     {
       "category": "musk",
@@ -121,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-08T05:06:57.000Z",
       "title": "As eval is downstream of everything, it determines whether you will spend your time optimizing the right metrics. The…",
       "body": "As eval is downstream of everything, it determines whether you will spend your time optimizing the right metrics. The current gap between academia and industry AI labs is the attitude toward eval. In academia, the eval s…",
@@ -132,9 +132,22 @@
       "href": "https://x.com/yunta_tsai/status/2063850243309846779"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "10h ago",
+      "pubDate": "2026-06-08T01:22:39.000Z",
+      "title": "Tesla's Original Roadster: Price, Specs and Range of the Vehicle That Sparked the Electric Revolution",
+      "body": "Tesla's Original Roadster: Price, Specs and Range of the Vehicle That Sparked the Electric Revolution Not a Tesla App",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.notateslaapp.com/tesla-reference/1350/tesla-s-original-roadster-price-specs-and-range-of-the-vehicle-that-sparked-the-electric-revolution"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-08T01:02:53.000Z",
       "title": "Nothing can replace a kid's drawing, not even AI.",
       "body": "Nothing can replace a kid's drawing, not even AI. https://t.co/cqYeBG6Kly",
@@ -147,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-07T23:38:30.000Z",
       "title": "Is Tesla, Inc. (TSLA) among the Top 10 Stocks That Members of Congress Own?",
       "body": "Is Tesla, Inc. (TSLA) among the Top 10 Stocks That Members of Congress Own? Yahoo Finance",
@@ -158,9 +171,22 @@
       "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-among-top-233830575.html"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "13h ago",
+      "pubDate": "2026-06-07T22:10:44.000Z",
+      "title": "Tesla Bitcoin Hit Versus China Growth Puts Focus On Core Value",
+      "body": "Tesla Bitcoin Hit Versus China Growth Puts Focus On Core Value Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-bitcoin-hit-versus-china-221044310.html"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-07T21:05:32.000Z",
       "title": "Among many AI products, Full Self-Driving probably delivers the most consistent results—no special harness, skills, p…",
       "body": "Among many AI products, Full Self-Driving probably delivers the most consistent results—no special harness, skills, plugins, or secret prompts required.",
@@ -184,22 +210,9 @@
       "href": "https://x.com/JoeTegtmeyer/status/2063723314619600927"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
-      "pubDate": "2026-06-07T19:52:03.000Z",
-      "title": "Driving a @Tesla in Europe is fun and works well (will be even better with FSD) … BUT, there is one very common and a…",
-      "body": "Driving a @Tesla in Europe is fun and works well (will be even better with FSD) … BUT, there is one very common and annoying issue that really needs to be addressed. Crossing country borders, especially for those who liv…",
-      "sourceName": "Joe Tegtmeyer (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/JoeTegtmeyer/status/2063710599062900838"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-07T18:03:03.000Z",
       "title": "Camp Mode comes standard with every Tesla 🏕️",
       "body": "Camp Mode comes standard with every Tesla 🏕️ https://t.co/D3jXssQsD5",
@@ -212,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-07T16:34:49.000Z",
       "title": "Tesla owner fixes common feature complaint with crafty DIY retrofit",
       "body": "Tesla owners have long griped about the wireless phone charger in the Model Y and other vehicles. It often turns smartphones into miniature ovens rather than reliably topping them up. Software engineer and Model Y owner …",
@@ -225,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "22h ago",
+      "time": "23h ago",
       "pubDate": "2026-06-07T12:21:31.000Z",
       "title": "Tesla exec says Roadster unveil is soon — for real this time",
       "body": "The Tesla Roadster unveiling could be coming “in a few weeks,” according to the company’s Chief Designer Franz von Holzhausen, who said at the Tesla Takeover Europe Event in Austria that the all-electric hypercar could f…",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-roadster-unveiling-gets-pushed-again-new-event-details-emerge/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3d ago",
-      "pubDate": "2026-06-05T18:08:17.000Z",
-      "title": "Tesla Model 3 has a tasty Supercharging incentive, but it’s ending soon",
-      "body": "Tesla is offering a tasty Supercharging incentive on certain Model 3 trims, but the company has officially put a concrete end date on it, so those interested should act fast. Tesla is offering Free Supercharging for One …",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-model-3-tasty-supercharging-incentive-ending-soon/"
     }
   ]
 }
