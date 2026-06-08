@@ -1,6 +1,54 @@
 {
-  "asOf": "2026-06-08 12:21 UTC · 누적 220건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-08 14:16 UTC · 누적 224건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "28m ago",
+      "pubDate": "2026-06-08T11:53:35.000Z",
+      "title": "바클레이스 \"테슬라 로보택시, AI 전략 <em>핵심 축</em> — 대규모 전환점은 미도달\"",
+      "hotShort": "바클레이스, 로보택시 AI <em>핵심 축</em> — 대규모 전환점 아직",
+      "body": "바클레이스가 테슬라 로보택시를 AI 전략의 핵심 축으로 평가했다 — 단, 수익화 가능한 대규모 전환점에는 아직 이르지 못했다고 진단해 장기 방향성 확인에도 단기 기대는 신중해야 한다는 메시지를 담았다.",
+      "sourceName": "Moomoo",
+      "sourceLabel": "press",
+      "slug": "fsd-barclays-robotaxi-ai-strategy-2026-06-08",
+      "summary": "바클레이스(Barclays)의 최신 리서치가 무무(Moomoo) 해외 리서치 선별 코너를 통해 요약 소개됐다. 핵심 논지는 두 갈래다: 테슬라 로보택시는 자사 AI 전략의 중심축이 됐다는 방향성 확인과, 수익 창출이 가능한 대규모 운영 전환점(Tipping Point for Scale)에는 아직 도달하지 못했다는 신중한 진단이 공존한다.\n\n바클레이스는 JP모건·골드만삭스 등과 함께 테슬라를 커버하는 주요 글로벌 투자은행 중 하나다. 이들의 로보택시 평가는 기관 투자자들이 참고하는 공식 분석으로, '핵심 축'이라는 표현은 로보택시 상용화가 테슬라 미래 성장 서사의 중심임을 인정한 것이다.\n\n'전환점(Tipping Point)'은 로보택시 운영 규모가 고정비를 넘어 실질적 이익을 창출하기 시작하는 임계점이다. 오스틴에서 시작된 테슬라 로보택시 서비스가 수십 개 도시로 확장되고 수천 대 이상의 사이버캡이 수익 주행을 이어갈 때 비로소 이 임계점에 근접할 수 있다는 것이 업계 공통 시각이다.\n\n테슬라 주주 관점에서 이 분석은 긍정 신호와 현실적 경고를 동시에 담고 있다. 로보택시가 AI 전략의 핵심이라는 점은 장기 성장 내러티브를 지지하나, '전환점 미도달' 진단은 단기 수익화 기대를 조정할 필요가 있음을 시사한다.",
+      "href": "https://www.moomoo.com/news/post/71200464/overseas-research-selection-barclays-robotaxi-becomes-core-of-tesla-s",
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "57m ago",
+      "pubDate": "2026-06-08T11:24:00.000Z",
+      "title": "바런스 \"SpaceX 이벤트 앞두고 테슬라 주가 상승 — <em>IPO 수요 회복</em>이 관건\"",
+      "hotShort": "SpaceX 앞두고 테슬라 주가 상승 — <em>IPO 수요</em> 관건",
+      "body": "바런스(Barron's)가 SpaceX 이벤트를 앞두고 테슬라 주가가 상승했다고 전했다 — SpaceX IPO 수요가 실제로 살아나야 이 상승세가 유지된다는 조건부 시각이다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-tsla-rises-spacex-event-ipo-2026-06-08",
+      "summary": "바런스(Barron's)는 SpaceX 이벤트를 앞두고 테슬라 주가가 상승하는 흐름을 포착했다. 제목에 담긴 \"IPO Demand Better Pick Up\"이라는 표현은 단순한 현상 관찰을 넘어, 이 상승이 지속되기 위해선 SpaceX IPO에 대한 시장 수요가 실제로 뒷받침돼야 한다는 조건부 경고를 함께 담고 있다.\n\n일론 머스크가 이끄는 SpaceX는 테슬라와 별개의 법인이지만, 머스크의 핵심 두 기업이라는 점에서 시장은 양사를 연동해 바라보는 경향이 있다. SpaceX 이벤트나 IPO 진척 소식이 긍정적으로 흘러가면 일론 머스크 생태계 전반에 대한 투자 심리가 개선되고, 이 효과가 테슬라 주가에도 유입되는 구조다.\n\n앞서 바런스는 2026년 6월 6일 \"SpaceX IPO가 너무 커서 성공하기 어렵다\"는 분석도 게재한 바 있다. 오늘의 보도는 그 경고를 유지하면서도 단기 주가 반응이 상승으로 나타났다는 사실을 전달하는 것으로 읽힌다.\n\nSpaceX 이벤트의 구체적 내용과 IPO 일정 진행 상황은 바런스 원문에서 확인할 수 있다. 테슬라 투자자라면 SpaceX 관련 뉴스를 TSLA 주가 단기 변동성의 외부 요인 중 하나로 모니터링할 필요가 있다.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-spacex-ipo-1f0ca91c",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T11:00:06.000Z",
+      "title": "야후파이낸스, 일론 머스크의 <em>시장 마법</em> 집중 조명",
+      "hotShort": "야후파이낸스, 일론 머스크가 지닌 <em>시장 마법</em> 집중 조명",
+      "body": "야후파이낸스가 일론 머스크가 시장에 미치는 영향력을 'market magic(시장 마법)'이라고 표현한 분석 기사를 게재했다 — TSLA를 포함한 시장 전반에 대한 머스크 개인의 독보적 파급력을 다시 조명한다.",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "musk-market-magic-yahoo-2026-06-08",
+      "summary": "야후파이낸스가 일론 머스크의 시장 영향력을 'market magic(시장 마법)'이라는 표현으로 분석한 기사를 게재했다. 'market magic'은 한 개인의 발언과 행동이 기업 가치와 시장 심리를 즉각 움직이는 이례적 현상을 묘사하는 표현으로, 일론 머스크의 행보에 특히 잘 어울리는 묘사다.\n\n일론 머스크는 테슬라 CEO이자 SpaceX·xAI·X(트위터)의 수장으로 복수의 주요 기업을 동시에 이끌고 있다. 그의 공개 발언 하나가 테슬라 주가뿐만 아니라 관련 섹터 전반의 투자 심리에 즉각 영향을 주는 현상은 투자자들이 지속적으로 주목해온 주제다.\n\n스타급 창업자 효과(founder premium)는 기업 가치 평가에서 종종 거론된다. 일론 머스크의 경우 이 효과가 특히 강하게 작동해 TSLA 주가의 단기 변동성이 다른 대형 기업보다 머스크 개인 관련 뉴스에 훨씬 민감하게 반응하는 특성이 있다.\n\n야후파이낸스 기사의 구체적 분석 내용과 어떤 사례를 '시장 마법'으로 조명했는지는 원문에서 확인할 수 있다. 테슬라 투자자라면 일론 머스크의 공개 행보를 TSLA 주가 단기 변동의 중요한 외부 변수 중 하나로 지속 모니터링할 필요가 있다.",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-market-magic-110006283.html",
+      "sentiment": "neutral",
+      "hot": 4
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -48,6 +96,22 @@
       "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-among-top-233830575.html",
       "sentiment": "neutral",
       "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "14h ago",
+      "pubDate": "2026-06-07T22:10:44.000Z",
+      "title": "야후파이낸스, 테슬라 <em>비트코인 손실 vs 중국 성장</em> — 핵심 가치에 집중해야",
+      "hotShort": "테슬라 <em>비트코인 손실 vs 중국 성장</em> — 핵심 가치 집중",
+      "body": "야후파이낸스가 테슬라의 비트코인 보유 평가손과 중국 시장 성장이라는 두 상반된 변수를 짚으며 '핵심 가치(Core Value)'에 집중해야 한다는 분석을 내놨다 — 단기 잡음보다 장기 펀더멘털로 테슬라를 봐야 한다는 메시지다.",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "stock-bitcoin-hit-china-growth-core-value-2026-06-07",
+      "summary": "야후파이낸스의 이 분석은 테슬라가 직면한 두 가지 상반된 변수를 주목한다. 하나는 부정적 변수인 '비트코인 손실(Bitcoin Hit)' — 테슬라는 비트코인을 기업 재무에 보유하고 있으며, 비트코인 가격 하락은 테슬라의 암호화폐 포트폴리오 평가손으로 직결된다. 다른 하나는 긍정 변수인 '중국 성장(China Growth)' — 기가상하이 기반의 중국 판매 회복이 실적 기대를 뒷받침하고 있다.\n\n기사 제목이 제시하는 핵심 메시지는 이 두 변수 사이에서 흔들리기보다 '핵심 가치(Core Value)'에 집중하라는 것이다. 비트코인 같은 단기 변동성 변수보다 테슬라의 실질적 사업 펀더멘털 — 전기차 판매량, FSD 기술 성숙도, 로보택시 상용화 경로, 에너지 사업 성장 — 에 시선을 맞추는 것이 장기 투자 관점에서 중요하다는 맥락이다.\n\n테슬라는 2021년 이후 비트코인을 기업 재무 자산으로 편입해왔으며, 이는 암호화폐 가격 변동에 따른 비경상 손익을 발생시키는 변수가 됐다. 중국 판매 성장의 구체적 수치와 비트코인 관련 손실 규모는 야후파이낸스 원문에서 확인할 수 있다.\n\n장기 투자자라면 비트코인 가격 변동에 따른 단기 손익 변화에 과도하게 반응하기보다, 분기별 인도 실적·에너지 저장 사업 성장·FSD 유료화 진행 속도를 핵심 체크포인트로 유지하는 것이 적절하다.",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-bitcoin-hit-versus-china-221044310.html",
+      "sentiment": "neutral",
+      "hot": 5
     },
     {
       "category": "fsd",
