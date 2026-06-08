@@ -1,6 +1,22 @@
 {
-  "asOf": "2026-06-08 04:43 UTC · 누적 218건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-08 06:31 UTC · 누적 219건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-06-08T00:20:00.000Z",
+      "title": "야후파이낸스 \"SpaceX, 테슬라 합병 않는다 — <em>엔비디아 지원 AI 기업 인수</em> 전망\"",
+      "hotShort": "SpaceX, 테슬라 합병 없다 — <em>엔비디아 AI 기업 인수</em> 전망",
+      "body": "야후파이낸스에 실린 예측 분석에 따르면 SpaceX는 테슬라와 합병하지 않을 것이며, 대신 엔비디아의 지원을 받는 특정 AI 기업 인수를 추진할 것이라는 전망이 나왔다 — 일론의 다른 벤처에 자본·관심이 쏠릴 경우 테슬라 경영 집중도 약화 우려와 직결되는 시나리오다.",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-no-merge-tesla-nvidia-ai-2026-06-08",
+      "summary": "야후파이낸스가 'Prediction(예측)' 형식으로 게재한 분석 기사는 SpaceX가 테슬라와 합병하지 않을 것이라고 전망하며, SpaceX가 엔비디아의 투자를 받은 특정 AI 기업 인수를 추진할 가능성을 제기했다. 기사 제목 자체에 '예측'이 명시돼 있어 확인된 사실이 아닌 분석가의 시나리오임을 전제로 읽어야 한다.\n\n테슬라 투자자들 사이에서 SpaceX·xAI 등 일론 머스크의 다른 벤처와의 합병 또는 시너지 기대는 장기적 낙관 시나리오의 하나였다. 이번 분석이 그 시나리오를 배제하고 SpaceX의 독자적 AI 역량 강화를 위한 별도 인수를 예측한 것은, 테슬라-SpaceX 시너지 프리미엄을 기대했던 투자자들에게 중립적 정보로 볼 수 있다.\n\n테슬라 주주 관점에서 이 전망의 핵심 함의는 일론의 자본과 경영 관심이 테슬라 이외 벤처로 더 분산될 수 있다는 점이다. 일론은 이미 테슬라·SpaceX·xAI·X(트위터)·보링 컴퍼니 등 다수 기업을 동시에 운영하며 시간·자원 분산 우려가 꾸준히 제기돼왔다.\n\n인수 대상 기업의 실명과 규모, SpaceX 측의 공식 입장은 이 기사에서 확인되지 않았다. 공식 발표 전에는 하나의 시나리오로 참고하는 것이 적절하며, 후속 공식 발표가 나올 경우 이 분석의 신뢰도를 재평가할 수 있다.",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-wont-merge-tesla-002000174.html",
+      "sentiment": "neutral",
+      "hot": 3
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
