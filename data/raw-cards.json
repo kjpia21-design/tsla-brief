@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-07 23:11 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-08 00:41 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-07T23:38:30.000Z",
+      "title": "Is Tesla, Inc. (TSLA) among the Top 10 Stocks That Members of Congress Own?",
+      "body": "Is Tesla, Inc. (TSLA) among the Top 10 Stocks That Members of Congress Own? Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-among-top-233830575.html"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "50m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-07T22:21:29.000Z",
       "title": "W/ @teardowntitan in Prague 🇨🇿",
       "body": "W/ @teardowntitan in Prague 🇨🇿 https://t.co/muRYCTQ8Vb",
@@ -15,9 +28,22 @@
       "href": "https://x.com/teslaownersSV/status/2063748206580658371"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-06-07T22:08:55.000Z",
+      "title": "Cybertruck Driver's 'Wade Mode' Test Gets Him Stuck In A Lake",
+      "body": "Cybertruck Driver's 'Wade Mode' Test Gets Him Stuck In A Lake – And In Jail AOL.com",
+      "sourceName": "AOL.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.aol.com/lifestyle/cybertruck-drivers-wade-mode-test-174500780.html"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-07T22:03:11.000Z",
       "title": "Maybe largest in this sector of the galaxy",
       "body": "Maybe largest in this sector of the galaxy https://t.co/2qJAnBbyD0",
@@ -30,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-07T21:05:32.000Z",
       "title": "Among many AI products, Full Self-Driving probably delivers the most consistent results—no special harness, skills, p…",
       "body": "Among many AI products, Full Self-Driving probably delivers the most consistent results—no special harness, skills, plugins, or secret prompts required.",
@@ -41,35 +67,9 @@
       "href": "https://x.com/yunta_tsai/status/2063729090746876265"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-07T20:57:20.000Z",
-      "title": "Petrin Gardens in Prague",
-      "body": "Petrin Gardens in Prague https://t.co/G58Gafmd3p",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2063727028801581475"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-07T20:56:47.000Z",
-      "title": "Grok is getting scary good. The motion, realism, and details in this AI-generated video are on another level. 🤯 We’r…",
-      "body": "Grok is getting scary good. The motion, realism, and details in this AI-generated video are on another level. 🤯 We’re entering a new era of content creation https://t.co/M7fpzWNv87",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2063726891056369993"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-07T20:42:34.000Z",
       "title": "Visiting beautiful Český Krumlov in the Czech Republic tonight! Will see more tomorrow than Prague but thoughts share…",
       "body": "Visiting beautiful Český Krumlov in the Czech Republic tonight! Will see more tomorrow than Prague but thoughts share these views … wonderful! https://t.co/9FysfSkgvF",
@@ -82,7 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-07T19:57:50.000Z",
       "title": "Why Tesla stock is up around 2.5% on Monday",
       "body": "Why Tesla stock is up around 2.5% on Monday MSN",
@@ -95,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-07T19:52:03.000Z",
       "title": "Driving a @Tesla in Europe is fun and works well (will be even better with FSD) … BUT, there is one very common and a…",
       "body": "Driving a @Tesla in Europe is fun and works well (will be even better with FSD) … BUT, there is one very common and annoying issue that really needs to be addressed. Crossing country borders, especially for those who liv…",
@@ -108,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-07T19:44:29.000Z",
       "title": "In retrospect, the success of SpaceX and Tesla is not because of a collection of star-studded employees, but because …",
       "body": "In retrospect, the success of SpaceX and Tesla is not because of a collection of star-studded employees, but because of people who stayed behind when the companies needed them most with unwavering commitment.",
@@ -121,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-07T18:03:03.000Z",
       "title": "Camp Mode comes standard with every Tesla 🏕️",
       "body": "Camp Mode comes standard with every Tesla 🏕️ https://t.co/D3jXssQsD5",
@@ -134,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-07T16:34:49.000Z",
       "title": "Tesla owner fixes common feature complaint with crafty DIY retrofit",
       "body": "Tesla owners have long griped about the wireless phone charger in the Model Y and other vehicles. It often turns smartphones into miniature ovens rather than reliably topping them up. Software engineer and Model Y owner …",
@@ -147,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-07T16:01:25.000Z",
       "title": "At Cestlice Czech Tesla supercharger",
       "body": "At Cestlice Czech Tesla supercharger https://t.co/P3D63ULlyW",
@@ -160,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-07T15:23:31.000Z",
       "title": "Tesla Stock Under Pressure After JPMorgan Call and 6.6% Fall",
       "body": "Tesla Stock Under Pressure After JPMorgan Call and 6.6% Fall TechStock²",
@@ -173,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-07T15:19:27.000Z",
       "title": "Go for launch 🍀",
       "body": "Go for launch 🍀 https://t.co/dTvq7j7c3g",
@@ -184,22 +184,22 @@
       "href": "https://x.com/yunta_tsai/status/2063641996968050837"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-07T15:05:15.000Z",
-      "title": "Share Prices, Stock Quotes, Charts, Trade History, Share Chat, Financial News",
-      "body": "Share Prices, Stock Quotes, Charts, Trade History, Share Chat, Financial News - London South East London South East",
-      "sourceName": "London South East",
-      "sourceLabel": "press",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "12h ago",
+      "pubDate": "2026-06-07T13:09:09.000Z",
+      "title": "Why is it only pushed in the West?",
+      "body": "Why is it only pushed in the West? https://t.co/VRT0V4JE96",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
       "slug": "",
       "summary": "",
-      "href": "https://www.lse.co.uk/"
+      "href": "https://x.com/elonmusk/status/2063609205311803522"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-07T13:04:31.000Z",
       "title": "There are two types of product building: one that delegates everything, including understanding of a problem, to othe…",
       "body": "There are two types of product building: one that delegates everything, including understanding of a problem, to others or bots; the other that tries to fix the problems before Mom finds out.",
@@ -210,22 +210,22 @@
       "href": "https://x.com/yunta_tsai/status/2063608041090728335"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-07T12:31:24.000Z",
-      "title": "At Eberstalzell Austria supercharger",
-      "body": "At Eberstalzell Austria supercharger https://t.co/jubsScgE05",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "12h ago",
+      "pubDate": "2026-06-07T12:57:24.000Z",
+      "title": "They are disappearing",
+      "body": "They are disappearing https://t.co/I7CGtZ7xuC",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2063599704840249670"
+      "href": "https://x.com/elonmusk/status/2063606250957341060"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-07T12:21:31.000Z",
       "title": "Tesla exec says Roadster unveil is soon — for real this time",
       "body": "The Tesla Roadster unveiling could be coming “in a few weeks,” according to the company’s Chief Designer Franz von Holzhausen, who said at the Tesla Takeover Europe Event in Austria that the all-electric hypercar could f…",
@@ -238,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-07T09:28:14.000Z",
       "title": "Tesla’s U.S. Sales Tanked In Q1. It Still Gained Market Share",
       "body": "Tesla’s U.S. Sales Tanked In Q1. It Still Gained Market Share InsideEVs",
@@ -251,7 +251,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-07T07:10:41.000Z",
       "title": "One of the bitter lessons in computer vision is the false assumption that solving all the intermediate representation…",
       "body": "One of the bitter lessons in computer vision is the false assumption that solving all the intermediate representations—segmentation, 3D meshes, depth, etc.—is needed to make a computer understand the scene. In the end, i…",
