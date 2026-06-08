@@ -3,6 +3,59 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
+      "time": "45m ago",
+      "pubDate": "2026-06-08T19:41:05.000Z",
+      "title": "JP모건, 테슬라 전망 <em>극적 전환</em> — 'Physical AI' 잠재력 공식 인정",
+      "hotShort": "JP모건, 테슬라 <em>극적 전환</em> — AI 가치 재평가",
+      "body": "JP모건이 테슬라에 대한 오랜 비관적 스탠스를 극적으로 바꿔 테슬라 주식에 'Physical AI' 잠재력이 있다고 공식 인정했다 — 월가에서 가장 회의적이었던 주요 기관의 전향은 기관 수급 개선의 직접 촉매로 작용한다.",
+      "sourceName": "Barchart.com",
+      "sourceLabel": "press",
+      "slug": "stock-jpmorgan-reversal-physical-ai-2026-06-08",
+      "summary": "Barchart.com이 보도한 내용에 따르면 JP모건이 테슬라(TSLA) 주식에 대한 입장을 극적으로 바꿨다. 기사 제목이 'dramatically reversed course'라는 표현을 직접 사용한 점에서 단순 목표주가 조정을 넘어선 스탠스 변화임을 시사하며, 그 근거로 'Physical AI' — 현실 세계와 상호작용하는 AI 기술(자율주행·로봇공학 등)의 잠재력 — 을 꼽았다.\n\nJP모건은 그간 월가 주요 투자은행 중 테슬라에 가장 회의적인 시각을 유지해온 기관 중 하나였다. 이번 전향은 테슬라를 단순 전기차 업체가 아닌 Physical AI 플랫폼으로 재정의하는 밸류에이션 프레임의 확산을 반영하며, 이러한 기관의 스탠스 변화는 해당 리서치를 참고하는 연기금·자산운용사의 포트폴리오 재조정 기대를 높이는 수급 촉매로 작용할 수 있다.\n\n같은 날 FinancialContent도 'Why Is Tesla Stock Rocketing Higher Today'라는 제목으로 테슬라 주가 강세를 별도 보도했다. JP모건이 제시한 구체적 목표주가와 투자의견 레이팅 변경 내용은 Barchart.com 원문에서 확인할 수 있다.",
+      "href": "https://www.barchart.com/story/news/2364068/jpmorgan-just-dramatically-reversed-course-on-tesla-because-tsla-stock-has-massive-physical-ai-potential",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barchart.com",
+        "FinancialContent"
+      ],
+      "sentiment": "bull",
+      "hot": 8
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T19:14:46.000Z",
+      "title": "테슬라, 로보택시 <em>다음 행선지</em> 공개 시사",
+      "hotShort": "테슬라, 로보택시 <em>다음 행선지</em> 공개 시사",
+      "body": "테슬라가 로보택시 서비스의 다음 확장 행선지를 시사했다 — 현재 텍사스 오스틴 중심으로 운영 중인 서비스의 지리적 확장이 가시화되고 있다는 신호로, 로보택시 스케일업 속도가 다음 주목 변수다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-next-expansion-hint-2026-06-08",
+      "summary": "테슬라라티(Teslarati)에 따르면 테슬라가 로보택시 서비스의 다음 확장 행선지를 공개적으로 시사했다. 어떤 도시·지역이 다음 서비스 대상이 될지에 대한 힌트를 테슬라가 직간접적으로 드러냈다는 것으로, 현재 텍사스 오스틴 중심의 서비스가 더 빠르게 확산될 것임을 예고하는 신호다.\n\n테슬라는 현재 사이버캡(CyberCab)과 모델 Y를 활용한 비지도(Unsupervised) FSD 로보택시 서비스를 오스틴에서 운영 중이며, 달라스 등 텍사스 내 도시로의 확장이 꾸준히 언급돼왔다. 이번 보도는 테슬라가 특정 다음 행선지를 내비쳤음을 의미하며, 구체적인 도시·지역은 테슬라라티 원문에서 확인할 수 있다.\n\n로보택시 서비스 지역 확장은 새로운 도시마다 현지 규제 승인, 지역 교통 인프라와의 통합, 보험·법적 책임 체계가 다르게 적용되기 때문에 확장 속도 자체가 테슬라 FSD 기술력과 사업 실행력의 바로미터가 된다. 다음 서비스 도시가 공식 확정되는 시점이 로보택시 주주 가치 실현의 다음 마일스톤이 될 것이다.",
+      "href": "https://www.teslarati.com/tesla-tipped-its-hand-where-robotaxi-heading-next/",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-08T18:25:50.000Z",
+      "title": "에드먼즈, 모델3 RWD를 <em>현 생산 EV 중 최고 효율</em>로 선정",
+      "hotShort": "에드먼즈, 모델3 RWD <em>현 생산 EV 중 최고 효율</em>",
+      "body": "에드먼즈(Edmunds)가 테슬라 모델3 RWD(후륜구동) 트림을 현재 생산 중인 전기차 중 가장 효율적인 모델로 선정했다 — 가장 저렴한 트림이 효율성에서도 정점에 선다는 점에서 테슬라 엔지니어링 역량의 실증적 공인이다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-model3-rwd-edmunds-most-efficient-ev-2026-06-08",
+      "summary": "자동차 전문 평가기관 에드먼즈(Edmunds)가 2026년형 테슬라 모델3 후륜구동(RWD) 트림을 현재 생산 중인 전기차 중 가장 효율적인 모델로 선정했다고 테슬라라티(Teslarati)가 보도했다. 에드먼즈는 독립적인 신차 테스트와 분석을 수십 년간 이어온 신뢰도 높은 자동차 전문 매체로, 이번 선정은 단순 홍보 문구가 아닌 객관적 평가에 기반한 공인이다.\n\n전기차 효율성은 실주행 가능 거리(range)와 전력 효율(MPGe — 전력량 대비 주행 거리) 두 측면을 모두 고려해 평가된다. 모델3 RWD가 이 두 항목 모두에서 현 생산 EV 중 최상위를 차지했다는 것은 테슬라의 파워트레인 및 에너지 관리 설계 역량이 업계 최고 수준임을 입증한다.\n\n엔트리 트림이 최고 효율 타이틀을 얻은 것은 구매 소비자에게도 중요한 신호다 — 가장 저렴한 선택이 동시에 가장 경제적인 운행 비용을 제공한다는 의미이기 때문이다. 효율성 수치는 전기차 총보유비용(TCO) 계산의 핵심 변수이며, 이 수치가 높을수록 테슬라의 가격 경쟁력과 브랜드 신뢰도가 뒷받침된다.",
+      "href": "https://www.teslarati.com/tesla-model-3-cheapest-trim-major-accolade/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "11m ago",
       "pubDate": "2026-06-08T18:04:40.000Z",
       "title": "시킹알파 \"테슬라 <em>PER 190배</em> 재검토\" — 밸류에이션 논쟁 재점화",
@@ -31,6 +84,22 @@
       "href": "https://www.basenor.com/blogs/news/cathie-wood-rides-tesla-robotaxi-unsupervised-in-austin",
       "sentiment": "bull",
       "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-06-08T16:53:14.000Z",
+      "title": "테슬라, 터키 아피욘카라히사르에 <em>슈퍼차저 12기</em> 신규 개통",
+      "hotShort": "테슬라, 터키에 신규 <em>슈퍼차저 12기</em> 개통",
+      "body": "테슬라가 터키(Türkiye) 아피욘카라히사르 도르욜 지역에 12기 규모의 신규 슈퍼차저를 공식 개통했다 — 유럽·중동 지역 충전 인프라 확충이 꾸준히 이어지고 있음을 보여주는 공식 발표다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-turkey-afyonkarahisar-2026-06-08",
+      "summary": "테슬라 슈퍼차저 공식 X 계정이 터키(Türkiye) 아피욘카라히사르(Afyonkarahisar) 도르욜(Dörtyol) 지역에 12기(stall) 규모의 신규 슈퍼차저가 개통됐다고 발표했다. 이는 테슬라의 유럽·중동·아프리카(EMEA) 지역 충전 인프라 확충 계획의 일환이다.\n\n아피욘카라히사르는 터키 중부 아나톨리아 지역의 교통 요충지로, 이 지점 개통은 터키 내륙 장거리 여행 시 테슬라 오너들의 충전 공백 구간을 줄이는 데 기여한다. 테슬라 슈퍼차저 네트워크는 전 세계 고속 충전 인프라 중 신뢰도와 속도 면에서 가장 높은 평가를 받는 독점 충전망이다.\n\n슈퍼차저 네트워크 확장은 테슬라 주주 관점에서 장기 성장 지표의 하나다. 전 세계 슈퍼차저 수가 늘수록 테슬라 차량의 구매 편의성이 높아지고, 타사 차량 개방을 통해 별도 수익원으로 전환할 수 있는 인프라 자산 가치도 함께 성장한다.",
+      "href": "https://x.com/TeslaCharging/status/2064027985590792639",
+      "sentiment": "neutral",
+      "hot": 3
     },
     {
       "category": "fsd",
@@ -1450,63 +1519,7 @@
       "summary": "야후 파이낸스 UK 분석에 따르면, 중고 사이버트럭 시장에서 수요가 꾸준히 증가하고 있다. 초기 고가 프리미엄이 하락하면서 현실적인 가격대에서 사이버트럭을 찾는 소비자가 늘어난 것이 주된 요인이다.\n\n그러나 전문가들은 중고차 거래 증가가 테슬라의 직접 수익에 반영되지 않는다는 점에서 주가 모멘텀으로 이어지기는 어렵다고 본다. 중고 수요는 신차 판매의 대리 지표로서 신뢰성도 제한적이라는 분석이 나온다.\n\n전문가들은 테슬라 주가 재평가를 위해서는 신차 판매 회복세, FSD 수익화 진전, 에너지 사업 성장 등 펀더멘털 개선이 선행돼야 한다고 강조한다. 사이버트럭은 출시 초기 판매 부진 이후 점진적 수요 회복 흐름을 보이고 있다.",
       "href": "https://uk.finance.yahoo.com/video/used-cybertrucks-demand-wont-move-200343181.html",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "49m ago",
-      "pubDate": "2026-06-03T19:36:47.000Z",
-      "title": "테슬라, 슈퍼차저 최신 기능 <em>한발 더 발전시킨</em> 업데이트 배포",
-      "body": "테슬라가 최근 추가된 슈퍼차저 기능을 기반으로 이를 한층 더 강화한 OTA 업데이트를 배포했다고 테슬라라티가 보도했다. 충전 경험을 지속적으로 개선하는 소프트웨어 중심 전략이 이번에도 실증된 사례다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-supercharger-feature-update-2026-06-03",
-      "summary": "테슬라라티(Teslarati)가 테슬라가 최근 슈퍼차저에 추가된 기능을 한층 더 발전시킨 OTA 소프트웨어 업데이트를 차량에 배포했다고 보도했다. 테슬라는 새 기능을 독립적으로 출시하는 대신, 기존 기능에 '편승(piggyback)'해 연속으로 개선을 쌓아 올리는 방식을 즐겨 사용한다.\n\n슈퍼차저 네트워크는 테슬라의 핵심 경쟁력 중 하나다. 북미 주요 완성차 브랜드(GM·포드·리비안 등)가 NACS(North American Charging Standard)를 채택하면서 슈퍼차저는 사실상 북미 전기차 충전의 표준 플랫폼으로 부상했다. 소프트웨어로 충전 경험을 지속 개선하면 타 브랜드 차량 사용자에게도 직접적인 영향을 미친다.\n\n테슬라의 OTA 업데이트 전략은 하드웨어 교체 없이 차량 가치를 지속적으로 높이는 방식이다. 슈퍼차저 관련 기능이 빠르게 쌓이면 충전 예약, 결제, 대기 현황, 에너지 관리 등 전체 충전 에코시스템 경험이 개선된다. 경쟁 충전 네트워크(Electrify America, ChargePoint 등) 대비 사용자 경험 격차를 유지하는 것이 테슬라의 지속적 목표다.\n\n다음 트리거: 슈퍼차저 신규 기능 상세 사항 공식 발표, 슈퍼차저 V4 스테이션 확장 현황, 타 브랜드 차량의 슈퍼차저 이용 데이터 공개.",
-      "href": "https://www.teslarati.com/tesla-piggybacks-recent-supercharger-feature-update-takes-it-further/",
-      "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "52m ago",
-      "pubDate": "2026-06-03T19:33:43.000Z",
-      "title": "테슬라 일본 5월 등록대수 <em>182% 폭증</em> — 1,996대 기록",
-      "body": "테슬라의 일본 5월 신규 등록대수가 전년 동기 대비 182% 폭증한 1,996대를 기록했다고 트레이딩뷰가 보도했다. 프랑스 655%에 이어 일본도 대규모 회복세를 확인하며, 글로벌 다중 시장 동시 반등을 시사한다.",
-      "sourceName": "TradingView",
-      "sourceLabel": "press",
-      "slug": "stock-japan-182pct-may-registrations-2026-06-03",
-      "summary": "트레이딩뷰(TradingView)가 테슬라의 일본 5월 신규 등록대수가 전년 동기 대비 182% 폭증한 1,996대를 기록했다고 보도했다. 이는 앞서 확인된 프랑스 655%에 이어 글로벌 판매 반등이 단일 시장에 그치지 않음을 보여주는 추가 증거다.\n\n일본 시장에서의 의미는 특별하다. 일본은 도요타·혼다·닛산 등 자국 완성차 기업이 시장을 지배하는 구조로, 외산 전기차가 침투하기 어려운 시장으로 꼽혀 왔다. 이 시장에서 182% 폭증한 1,996대라는 수치는 테슬라 브랜드에 대한 일본 소비자의 수용성이 빠르게 높아지고 있음을 보여준다.\n\n글로벌 패턴과 연결하면 시사점이 선명해진다. 유럽(프랑스 655%, 스페인 100%+)과 아시아(일본 182%)가 동시에 회복세를 보이고 있다. 2025년 하반기~2026년 초 불매운동·브랜드 훼손이 소멸하고 모델Y 주니퍼·모델3 하이랜드 신형 효과가 더해진 결과로 해석된다.\n\n투자 관점에서 이 수치의 핵심 가치는 '지속성 판단' 재료다. 단일 시장 이상치가 아닌 복수 시장 동시 반등이라면, Q2 글로벌 인도량 전망이 컨센서스를 웃돌 가능성이 높아진다. Q2 인도량 서프라이즈는 TSLA 밸류에이션 재평가의 가장 강력한 단기 트리거다.\n\n다음 트리거: 테슬라 Q2 공식 인도량 발표(7월 초), ACEA·JAIA 5월 공식 등록 통계, 중국 CPCA 5월 판매 데이터, 한국·호주·싱가포르 등 아시아 시장 추가 등록 현황.",
-      "href": "https://www.tradingview.com/news/stocktwits:31bb85789094b:0-tesla-s-japan-bet-pays-off-1-996-vehicle-registrations-mark-182-jump-in-may/",
-      "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-03T19:20:14.000Z",
-      "title": "테슬라라티 \"FSD v14.3.3 <em>운전자 모니터링</em> 직접 테스트해봤다\"",
-      "body": "테슬라라티가 테슬라 FSD 최신 버전 v14.3.3의 운전자 주의 모니터링 시스템을 직접 테스트하고 그 결과를 공개했다. 오스틴 무감독 로보택시 출범과 맞물린 시점에 FSD의 안전 감지 성능이 주목받고 있다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-3-3-driver-monitoring-2026-06-03",
-      "summary": "테슬라라티(Teslarati)가 테슬라 FSD(완전자율주행) 최신 버전 v14.3.3에 탑재된 운전자 주의 모니터링(driver monitoring) 시스템을 직접 테스트하고 그 결과를 상세히 보도했다.\n\nFSD v14.3.3의 운전자 모니터링은 왜 지금 특히 중요한가. 오스틴에서 무감독 로보택시가 상업 운행을 시작한 직후 나온 이 테스트는, 감독 필요(supervised) 모드에서 FSD가 얼마나 정교하게 운전자 주의 상태를 감지하는지를 실제 데이터로 보여준다. FSD가 감독 모드와 무감독 모드를 자연스럽게 구분하려면 운전자 존재 및 주의 여부 감지가 핵심 기술 요소다.\n\n운전자 모니터링 시스템의 기술적 맥락도 중요하다. 테슬라는 카메라 기반 운전자 주시 감지를 사용하는데, 경쟁사 중 일부는 핸들 압력 감지, 일부는 전용 적외선 카메라 방식을 쓴다. 테슬라가 카메라 온리 방식으로 NHTSA 기준 이상의 운전자 모니터링을 달성할 수 있는지가 규제 및 소비자 안전 측면에서 핵심 평가 포인트다.\n\nv14.3.3은 최근 빠른 속도로 버전업이 이어지는 FSD 시리즈의 최신 버전으로, 소수 베타 사용자에서 확대 배포 중이다. 각 버전 업데이트가 누적되면서 FSD의 안전성 및 자율성 수준이 어떻게 진화하는지 테슬라라티 같은 독립 미디어의 실측 데이터가 중요한 검증 역할을 한다.\n\n다음 트리거: FSD v14.3.3 일반 배포 완료 발표, NHTSA의 v14 시리즈 안전 평가 결과, 테슬라 FSD 다음 주요 버전 공개 로드맵, 독립 안전 연구기관의 FSD 실도로 성능 측정 결과.",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-3-driver-monitoring-we-tested-it/",
-      "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-03T18:09:26.000Z",
-      "title": "야후파이낸스 \"테슬라 FSD 계약서 <em>무단 변조·소멸</em>... 증거 훼손 우려\"",
-      "body": "야후파이낸스가 테슬라의 FSD 관련 계약서들이 소멸하거나 내용이 변경된 채 발견되고 있으며 증거 훼손 우려가 제기되고 있다고 보도했다. 소비자 보호·사기 소송과 연결될 수 있는 법적으로 민감한 사안이다.",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "fsd-contracts-tampering-concerns-2026-06-03",
-      "summary": "야후파이낸스(Yahoo Finance)가 테슬라의 FSD(완전자율주행) 관련 계약서들이 사라지거나 내용이 바뀐 채 발견되고 있으며, 증거 훼손(evidence tampering) 우려가 제기되고 있다고 보도했다.\n\nFSD 계약서 문제의 핵심은 소비자 약속 이행 여부다. 테슬라는 초기 FSD 구매자들에게 특정 자율주행 기능과 일정을 약속한 계약을 맺었다. 이 계약서들이 소멸하거나 변조됐다면, 소비자 보호법 위반 및 계약 이행 소송에서 핵심 증거가 사라지는 것과 같다. 기존에 일렉트렉(Electrek)이 FSD 계약서 소급 변조를 단독 보도한 데 이어, 야후파이낸스가 '증거 훼손' 각도에서 후속 보도를 낸 것이다.\n\n법적 위험 측면에서 '증거 훼손'이라는 용어는 심각한 신호다. 미국 법정에서 증거 훼손은 형사 처벌과 민사 손해배상 가중의 근거가 될 수 있다. 테슬라를 상대로 한 FSD 집단 소송이 미국과 중국에서 동시에 진행 중인 상황에서, 계약서 소멸·변조 의혹은 소송 전선을 더욱 복잡하게 만든다.\n\n규제 감시 강화로 이어질 가능성도 있다. NHTSA·FTC·주 검찰총장 등 여러 규제 기관이 테슬라 자율주행 관행을 모니터링하는 상황에서, 계약서 변조 의혹은 추가 조사를 촉발할 수 있다.\n\n다음 트리거: 관련 소송 법원의 증거 보존 명령(evidence preservation order) 여부, 테슬라의 공식 반박 성명, NHTSA·FTC의 조사 개시 여부, 해당 계약서를 다루는 법원 서류 공개.",
-      "href": "https://finance.yahoo.com/sectors/technology/articles/tesla-vanishing-altered-fsd-contracts-180926743.html",
-      "hot": 8
     }
   ],
-  "asOf": "2026-06-09 03:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-09 05:30 KST 자동 갱신 · 최신순"
 }
