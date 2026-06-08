@@ -1,6 +1,59 @@
 {
-  "asOf": "2026-06-08 20:26 UTC · 누적 233건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-08 22:11 UTC · 누적 237건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "45m ago",
+      "pubDate": "2026-06-08T19:41:05.000Z",
+      "title": "JP모건, 테슬라 전망 <em>극적 전환</em> — 'Physical AI' 잠재력 공식 인정",
+      "hotShort": "JP모건, 테슬라 <em>극적 전환</em> — AI 가치 재평가",
+      "body": "JP모건이 테슬라에 대한 오랜 비관적 스탠스를 극적으로 바꿔 테슬라 주식에 'Physical AI' 잠재력이 있다고 공식 인정했다 — 월가에서 가장 회의적이었던 주요 기관의 전향은 기관 수급 개선의 직접 촉매로 작용한다.",
+      "sourceName": "Barchart.com",
+      "sourceLabel": "press",
+      "slug": "stock-jpmorgan-reversal-physical-ai-2026-06-08",
+      "summary": "Barchart.com이 보도한 내용에 따르면 JP모건이 테슬라(TSLA) 주식에 대한 입장을 극적으로 바꿨다. 기사 제목이 'dramatically reversed course'라는 표현을 직접 사용한 점에서 단순 목표주가 조정을 넘어선 스탠스 변화임을 시사하며, 그 근거로 'Physical AI' — 현실 세계와 상호작용하는 AI 기술(자율주행·로봇공학 등)의 잠재력 — 을 꼽았다.\n\nJP모건은 그간 월가 주요 투자은행 중 테슬라에 가장 회의적인 시각을 유지해온 기관 중 하나였다. 이번 전향은 테슬라를 단순 전기차 업체가 아닌 Physical AI 플랫폼으로 재정의하는 밸류에이션 프레임의 확산을 반영하며, 이러한 기관의 스탠스 변화는 해당 리서치를 참고하는 연기금·자산운용사의 포트폴리오 재조정 기대를 높이는 수급 촉매로 작용할 수 있다.\n\n같은 날 FinancialContent도 'Why Is Tesla Stock Rocketing Higher Today'라는 제목으로 테슬라 주가 강세를 별도 보도했다. JP모건이 제시한 구체적 목표주가와 투자의견 레이팅 변경 내용은 Barchart.com 원문에서 확인할 수 있다.",
+      "href": "https://www.barchart.com/story/news/2364068/jpmorgan-just-dramatically-reversed-course-on-tesla-because-tsla-stock-has-massive-physical-ai-potential",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barchart.com",
+        "FinancialContent"
+      ],
+      "sentiment": "bull",
+      "hot": 8
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T19:14:46.000Z",
+      "title": "테슬라, 로보택시 <em>다음 행선지</em> 공개 시사",
+      "hotShort": "테슬라, 로보택시 <em>다음 행선지</em> 공개 시사",
+      "body": "테슬라가 로보택시 서비스의 다음 확장 행선지를 시사했다 — 현재 텍사스 오스틴 중심으로 운영 중인 서비스의 지리적 확장이 가시화되고 있다는 신호로, 로보택시 스케일업 속도가 다음 주목 변수다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-next-expansion-hint-2026-06-08",
+      "summary": "테슬라라티(Teslarati)에 따르면 테슬라가 로보택시 서비스의 다음 확장 행선지를 공개적으로 시사했다. 어떤 도시·지역이 다음 서비스 대상이 될지에 대한 힌트를 테슬라가 직간접적으로 드러냈다는 것으로, 현재 텍사스 오스틴 중심의 서비스가 더 빠르게 확산될 것임을 예고하는 신호다.\n\n테슬라는 현재 사이버캡(CyberCab)과 모델 Y를 활용한 비지도(Unsupervised) FSD 로보택시 서비스를 오스틴에서 운영 중이며, 달라스 등 텍사스 내 도시로의 확장이 꾸준히 언급돼왔다. 이번 보도는 테슬라가 특정 다음 행선지를 내비쳤음을 의미하며, 구체적인 도시·지역은 테슬라라티 원문에서 확인할 수 있다.\n\n로보택시 서비스 지역 확장은 새로운 도시마다 현지 규제 승인, 지역 교통 인프라와의 통합, 보험·법적 책임 체계가 다르게 적용되기 때문에 확장 속도 자체가 테슬라 FSD 기술력과 사업 실행력의 바로미터가 된다. 다음 서비스 도시가 공식 확정되는 시점이 로보택시 주주 가치 실현의 다음 마일스톤이 될 것이다.",
+      "href": "https://www.teslarati.com/tesla-tipped-its-hand-where-robotaxi-heading-next/",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-08T18:25:50.000Z",
+      "title": "에드먼즈, 모델3 RWD를 <em>현 생산 EV 중 최고 효율</em>로 선정",
+      "hotShort": "에드먼즈, 모델3 RWD <em>현 생산 EV 중 최고 효율</em>",
+      "body": "에드먼즈(Edmunds)가 테슬라 모델3 RWD(후륜구동) 트림을 현재 생산 중인 전기차 중 가장 효율적인 모델로 선정했다 — 가장 저렴한 트림이 효율성에서도 정점에 선다는 점에서 테슬라 엔지니어링 역량의 실증적 공인이다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-model3-rwd-edmunds-most-efficient-ev-2026-06-08",
+      "summary": "자동차 전문 평가기관 에드먼즈(Edmunds)가 2026년형 테슬라 모델3 후륜구동(RWD) 트림을 현재 생산 중인 전기차 중 가장 효율적인 모델로 선정했다고 테슬라라티(Teslarati)가 보도했다. 에드먼즈는 독립적인 신차 테스트와 분석을 수십 년간 이어온 신뢰도 높은 자동차 전문 매체로, 이번 선정은 단순 홍보 문구가 아닌 객관적 평가에 기반한 공인이다.\n\n전기차 효율성은 실주행 가능 거리(range)와 전력 효율(MPGe — 전력량 대비 주행 거리) 두 측면을 모두 고려해 평가된다. 모델3 RWD가 이 두 항목 모두에서 현 생산 EV 중 최상위를 차지했다는 것은 테슬라의 파워트레인 및 에너지 관리 설계 역량이 업계 최고 수준임을 입증한다.\n\n엔트리 트림이 최고 효율 타이틀을 얻은 것은 구매 소비자에게도 중요한 신호다 — 가장 저렴한 선택이 동시에 가장 경제적인 운행 비용을 제공한다는 의미이기 때문이다. 효율성 수치는 전기차 총보유비용(TCO) 계산의 핵심 변수이며, 이 수치가 높을수록 테슬라의 가격 경쟁력과 브랜드 신뢰도가 뒷받침된다.",
+      "href": "https://www.teslarati.com/tesla-model-3-cheapest-trim-major-accolade/",
+      "sentiment": "bull",
+      "hot": 5
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -32,6 +85,22 @@
       "href": "https://www.basenor.com/blogs/news/cathie-wood-rides-tesla-robotaxi-unsupervised-in-austin",
       "sentiment": "bull",
       "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-06-08T16:53:14.000Z",
+      "title": "테슬라, 터키 아피욘카라히사르에 <em>슈퍼차저 12기</em> 신규 개통",
+      "hotShort": "테슬라, 터키에 신규 <em>슈퍼차저 12기</em> 개통",
+      "body": "테슬라가 터키(Türkiye) 아피욘카라히사르 도르욜 지역에 12기 규모의 신규 슈퍼차저를 공식 개통했다 — 유럽·중동 지역 충전 인프라 확충이 꾸준히 이어지고 있음을 보여주는 공식 발표다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-turkey-afyonkarahisar-2026-06-08",
+      "summary": "테슬라 슈퍼차저 공식 X 계정이 터키(Türkiye) 아피욘카라히사르(Afyonkarahisar) 도르욜(Dörtyol) 지역에 12기(stall) 규모의 신규 슈퍼차저가 개통됐다고 발표했다. 이는 테슬라의 유럽·중동·아프리카(EMEA) 지역 충전 인프라 확충 계획의 일환이다.\n\n아피욘카라히사르는 터키 중부 아나톨리아 지역의 교통 요충지로, 이 지점 개통은 터키 내륙 장거리 여행 시 테슬라 오너들의 충전 공백 구간을 줄이는 데 기여한다. 테슬라 슈퍼차저 네트워크는 전 세계 고속 충전 인프라 중 신뢰도와 속도 면에서 가장 높은 평가를 받는 독점 충전망이다.\n\n슈퍼차저 네트워크 확장은 테슬라 주주 관점에서 장기 성장 지표의 하나다. 전 세계 슈퍼차저 수가 늘수록 테슬라 차량의 구매 편의성이 높아지고, 타사 차량 개방을 통해 별도 수익원으로 전환할 수 있는 인프라 자산 가치도 함께 성장한다.",
+      "href": "https://x.com/TeslaCharging/status/2064027985590792639",
+      "sentiment": "neutral",
+      "hot": 3
     },
     {
       "category": "fsd",
