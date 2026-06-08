@@ -1,6 +1,22 @@
 {
-  "asOf": "2026-06-08 15:31 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-08 17:26 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-08T06:14:51.000Z",
+      "title": "달라스에 테슬라 사이버캡 <em>40대 집결</em> — 로보택시 운영 확대 신호",
+      "hotShort": "달라스 사이버캡 <em>40대 집결</em> — 로보택시 운영 임박",
+      "body": "테슬라 액세서리 블로그 BASENOR 보도에 따르면 달라스에 사이버캡 40대가 집결하는 모습이 포착됐다 — 오스틴에 이어 달라스로도 로보택시 서비스가 확장될 것임을 예고하는 현장 신호로 해석된다.",
+      "sourceName": "BASENOR",
+      "sourceLabel": "rumor",
+      "slug": "fsd-cybercab-dallas-40-staged-2026-06-08",
+      "summary": "테슬라 액세서리 블로그 BASENOR의 보도에 따르면 텍사스 달라스에 테슬라 사이버캡 40대가 집결하는 장면이 포착됐다고 한다. 이는 오스틴 기반 테슬라 로보택시 서비스가 달라스까지 확장될 것임을 예고하는 현장 신호로 해석된다.\n\n테슬라는 오스틴을 거점으로 FSD 기반 유료 로보택시 서비스를 운영하며 단계적 지역 확대를 예고해왔다. 텍사스 내 주요 대도시인 달라스는 오스틴에 이어 서비스 확장 후보지로 꾸준히 언급돼 왔다. 사이버캡 40대 집결이 사실이라면 실제 운영 준비가 진행 중이라는 의미다.\n\n다만 이 소식은 테슬라 공식 발표나 주요 언론 보도가 아닌 단독 블로그 출처에 기반하고 있다. '운영 임박(Fleet Activation Imminent)'이라는 표현은 BASENOR의 해석이며, 공식 일정 확인은 아직 이루어지지 않았다.\n\n달라스 로보택시 운영이 확대되면 사이버캡 운영 규모와 FSD 기술의 상업적 증명 기회가 함께 넓어진다. 테슬라의 공식 확인 발표를 추가로 지켜볼 필요가 있다.",
+      "href": "https://www.basenor.com/blogs/news/40-tesla-cybercabs-staged-in-dallas-fleet-activation-imminent",
+      "sentiment": "bull",
+      "hot": 5
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
