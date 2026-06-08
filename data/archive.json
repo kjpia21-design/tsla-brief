@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-06-08T20:55:33.000Z",
+      "title": "테슬라, LA 선셋 블러바드에 <em>슈퍼차저 6기</em> 신규 개통",
+      "hotShort": "LA 선셋 블러바드에 <em>슈퍼차저 6기</em> 신규 개통",
+      "body": "테슬라가 로스앤젤레스 웨스트 선셋 블러바드(5420 Sunset)에 6기(stall) 규모의 신규 슈퍼차저를 공식 개통했다 — 미국 최대 EV 시장 LA 도심 충전 접근성이 한 곳 더 개선됐다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-la-sunset-2026-06-08",
+      "summary": "테슬라 슈퍼차저 공식 X 계정이 로스앤젤레스 웨스트 선셋 블러바드(5420 Sunset) 지점에 6기(stall) 규모의 신규 슈퍼차저가 개통됐다고 발표했다. 선셋 블러바드는 헐리우드·에코파크·실버레이크를 잇는 LA 도심 핵심 도로로, 충전 접근성이 높은 위치다.\n\nLA는 미국 전기차 보급률이 가장 높은 대도시 중 하나이며, 테슬라 슈퍼차저 네트워크의 밀도도 꾸준히 높아지고 있다. 6기 규모의 소형 사이트이지만 도심 밀집 지역의 충전 공백을 메우는 역할을 한다.\n\n테슬라는 슈퍼차저 네트워크를 타사 EV에도 개방하는 전략을 확장하고 있으며, 이는 충전 인프라를 자사 차량 지원 도구에서 독립적 수익원으로 전환하는 장기 방향성과 맞닿아 있다.",
+      "href": "https://x.com/TeslaCharging/status/2064088967600021841",
+      "sentiment": "neutral",
+      "hot": 2
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
@@ -1500,5 +1516,5 @@
       "hot": 4
     }
   ],
-  "asOf": "2026-06-09 05:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-09 07:11 KST 자동 갱신 · 최신순"
 }
