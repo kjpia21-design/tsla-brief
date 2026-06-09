@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-09 21:40 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-09 23:21 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "21m ago",
+      "pubDate": "2026-06-09T23:00:11.000Z",
+      "title": "[Form 4] Tesla, Inc. Insider Trading Activity",
+      "body": "[Form 4] Tesla, Inc. Insider Trading Activity Stock Titan",
+      "sourceName": "Stock Titan",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.stocktitan.net/sec-filings/TSLA/form-4-tesla-inc-insider-trading-activity-6d3f6c3a950d.html"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-09T21:31:22.000Z",
       "title": "Astronomical clock in Prague",
       "body": "Astronomical clock in Prague https://t.co/sgwyOAVy7q",
@@ -17,7 +30,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-09T21:28:11.000Z",
       "title": "Tesla Full Self-Driving is taking over Europe: fourth country gets FSD approval",
       "body": "Tesla Full Self-Driving is taking over Europe: fourth country gets FSD approval Teslarati",
@@ -30,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-09T21:20:13.000Z",
       "title": "The TeraFab Scale To reach a terawatt of AI compute output per year, SpaceX needs a chip factory at a scale that does…",
       "body": "The TeraFab Scale To reach a terawatt of AI compute output per year, SpaceX needs a chip factory at a scale that does not exist. That is the TeraFab. Elon Musk on the size: ~ 100 million square feet of factory floor ~ 10…",
@@ -43,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-09T21:20:03.000Z",
       "title": "Major improvement in safety statistics with FSD turned on in the Netherlands!",
       "body": "Major improvement in safety statistics with FSD turned on in the Netherlands! https://t.co/88WHk4S85g",
@@ -54,9 +67,22 @@
       "href": "https://x.com/elonmusk/status/2064457520748339647"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-06-09T20:44:11.000Z",
+      "title": "Tesla revises FSD transfer policy on new Cybertruck trim, causing cancellations",
+      "body": "Tesla revises FSD transfer policy on new Cybertruck trim, causing cancellations Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-revises-fsd-transfer-policy-new-cybertruck-trim-causing-cancellations/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-09T20:34:50.000Z",
       "title": "Tesla (TSLA) Has an Energy-and-Infrastructure Engine Bigger Than the Delivery Debate",
       "body": "Tesla (TSLA) Has an Energy-and-Infrastructure Engine Bigger Than the Delivery Debate AlphaStreet",
@@ -67,9 +93,22 @@
       "href": "https://news.alphastreet.com/tesla-tsla-has-an-energy-and-infrastructure-engine-bigger-than-the-delivery-debate/amp/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-06-09T20:27:00.000Z",
+      "title": "Tesla Stock: Cathie Wood’s First Robo-Taxi Ride, Dutch Safety Data Provide a Lift",
+      "body": "Tesla Stock: Cathie Wood’s First Robo-Taxi Ride, Dutch Safety Data Provide a Lift Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-cathie-wood-robo-taxi-full-self-driving-1f9505a9"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-09T19:09:59.000Z",
       "title": "Short-sellers to tread carefully as Musk's SpaceX debuts",
       "body": "Short-sellers to tread carefully as Musk's SpaceX debuts Reuters",
@@ -80,9 +119,22 @@
       "href": "https://www.reuters.com/legal/government/short-sellers-tread-carefully-musks-spacex-debuts-2026-06-09/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "6h ago",
+      "pubDate": "2026-06-09T17:39:44.000Z",
+      "title": "“Standout Efficiency” Proves No Help for Tesla Stock (NASDAQ:TSLA)",
+      "body": "“Standout Efficiency” Proves No Help for Tesla Stock (NASDAQ:TSLA) TipRanks",
+      "sourceName": "TipRanks",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tipranks.com/news/standout-efficiency-proves-no-help-for-tesla-stock-nasdaqtsla"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-09T17:18:29.000Z",
       "title": "Only Restore Britain can save Britain. It is the only way.",
       "body": "Only Restore Britain can save Britain. It is the only way. https://t.co/lnvaJLrNWj",
@@ -95,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-09T17:05:25.000Z",
       "title": "Why is Tesla stock sliding today? By Investing.com",
       "body": "Why is Tesla stock sliding today? By Investing.com Investing.com South Africa",
@@ -108,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-09T17:00:01.000Z",
       "title": "- Netherlands - Lithuania - Estonia - Denmark",
       "body": "- Netherlands - Lithuania - Estonia - Denmark https://t.co/Xm68wxaW0k",
@@ -119,61 +171,9 @@
       "href": "https://x.com/aelluswamy/status/2064392082891133011"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-09T16:52:08.000Z",
-      "title": "Why Tesla stock is crashing around 5% today",
-      "body": "Why Tesla stock is crashing around 5% today Invezz",
-      "sourceName": "Invezz",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://invezz.com/sg/news/2026/06/09/why-tesla-stock-is-crashing-around-5percent-today/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-06-09T16:06:31.000Z",
-      "title": "There are laws that supersede any ideology, and even galaxies have to obey. Yet, if you can leverage them, they give …",
-      "body": "There are laws that supersede any ideology, and even galaxies have to obey. Yet, if you can leverage them, they give you the force that can move the universe.",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2064378616524525695"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-06-09T15:45:07.000Z",
-      "title": "FSD approved in Denmark",
-      "body": "FSD approved in Denmark https://t.co/hxkISvCdoH",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2064373230677193015"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
-      "pubDate": "2026-06-09T15:38:40.000Z",
-      "title": "Tesla Motors Model X Reveal Event",
-      "body": "Tesla Motors Model X Reveal Event Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-motors-model-x-reveal-event/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-09T15:36:00.000Z",
       "title": "🇳🇱🇱🇹🇪🇪 + 🇩🇰",
       "body": "🇳🇱🇱🇹🇪🇪 + 🇩🇰 https://t.co/4Ryxa56Qsg",
@@ -186,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-09T15:16:20.000Z",
       "title": "SpaceX's lofty valuation set to put 'Elon premium' to test",
       "body": "SpaceX's lofty valuation set to put 'Elon premium' to test Reuters",
@@ -199,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-09T15:14:02.000Z",
       "title": "New Tesla Supercharger: Colfax, CA (12 stalls)",
       "body": "New Tesla Supercharger: Colfax, CA (12 stalls) https://t.co/slpVxY2Fzq https://t.co/UV8bWdF2EX",
@@ -210,22 +210,9 @@
       "href": "https://x.com/TeslaCharging/status/2064365408568975403"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-09T13:55:00.000Z",
-      "title": "Tesla Just Lost One of Its Biggest Bears, but Is the Stock a Buy?",
-      "body": "Tesla Just Lost One of Its Biggest Bears, but Is the Stock a Buy? Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-lost-one-biggest-135500878.html"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-09T13:00:00.000Z",
       "title": "Rivian R2 First Drive: This is everything I need to upgrade my Model Y except…",
       "body": "Rivian R2 First Drive: This is everything I need to upgrade my Model Y except… Electrek",
@@ -238,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-09T07:28:59.000Z",
       "title": "New Tesla Supercharger: Haugesund, Norway (8 stalls)",
       "body": "New Tesla Supercharger: Haugesund, Norway (8 stalls) https://t.co/I9iSVOfosW https://t.co/L6mghoKxOz",
@@ -251,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-06-09T03:41:00.000Z",
       "title": "Why Is Tesla (TSLA) Stock Rocketing Higher Today",
       "body": "Why Is Tesla (TSLA) Stock Rocketing Higher Today Yahoo Finance",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-stock-rocketing-034150415.html"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1d ago",
+      "pubDate": "2026-06-08T18:50:34.000Z",
+      "title": "Tesla just did something in South Korea that no foreign carmaker has ever done",
+      "body": "Tesla's Model Y just became South Korea's best-selling car, beating every domestic model in May. The post Tesla just did something in South Korea that no foreign carmaker has ever done appeared first on TESLARATI.",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-model-y-south-korea-beats-kia-hyundai/"
     }
   ]
 }
