@@ -1,0 +1,10 @@
+{
+  "asOf": "2026-06-09",
+  "note": "분기 실적·인도 일정은 테슬라 공식 발표 전 과거 패턴 기반 잠정치입니다. 공식 확정 후 ir.tesla.com 기준으로 date 와 tentative(false) 를 갱신하세요.",
+  "events": [
+    { "date": "2026-07-02", "title": "Q2 2026 차량 인도·생산 실적 발표", "tentative": true },
+    { "date": "2026-07-22", "title": "Q2 2026 실적 발표·컨퍼런스콜", "tentative": true },
+    { "date": "2026-10-02", "title": "Q3 2026 차량 인도·생산 실적 발표", "tentative": true },
+    { "date": "2026-10-21", "title": "Q3 2026 실적 발표·컨퍼런스콜", "tentative": true }
+  ]
+}

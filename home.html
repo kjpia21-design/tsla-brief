@@ -356,6 +356,33 @@
   .hot-news__item.is-fsd     { --cat-color: var(--c-fsd); }
   .hot-news__item.is-musk    { --cat-color: var(--c-musk); }
 
+  /* 투자자 캘린더 — 핫뉴스 마지막 줄(가장 가까운 일정 + 📅) + 펼침 패널 */
+  .ic{margin-top:8px;border-top:1px solid var(--line)}
+  .ic__bar{display:flex;align-items:center;gap:9px;padding:13px 14px;cursor:pointer;list-style:none;-webkit-tap-highlight-color:transparent;transition:background var(--t-1) var(--ease)}
+  .ic__bar::-webkit-details-marker{display:none}
+  .ic__bar:hover,.ic[open] .ic__bar{background:var(--bg-3)}
+  .ic__lead{flex-shrink:0;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:9.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-mute);padding:3px 7px;border:1px solid var(--line);border-radius:6px}
+  .ic__title{flex:1;min-width:0;color:var(--ink);font-size:13.5px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .ic__date{flex-shrink:0;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mid)}
+  .ic__tent{flex-shrink:0;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:9px;font-weight:700;letter-spacing:.03em;color:#F59E0B;border:1px solid rgba(245,158,11,.4);border-radius:5px;padding:2px 5px}
+  .ic__dday{flex-shrink:0;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11.5px;font-weight:700;color:var(--tesla-red)}
+  .ic__cal{flex-shrink:0;font-size:15px;line-height:1;transition:transform var(--t-1) var(--ease)}
+  .ic[open] .ic__cal{transform:rotate(6deg) scale(1.08)}
+  .ic__panel{padding:2px 14px 14px;animation:icIn .18s var(--ease)}
+  @keyframes icIn{from{opacity:0;transform:translateY(-3px)}to{opacity:1;transform:none}}
+  .ic__panelhead{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-mute);margin:6px 0 8px}
+  .ic__list{list-style:none;margin:0;padding:0}
+  .ic__row{display:flex;align-items:baseline;gap:12px;padding:10px 0;border-bottom:1px solid var(--line-mute)}
+  .ic__row:last-child{border-bottom:none}
+  .ic__rdate{flex-shrink:0;min-width:104px;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mid)}
+  .ic__rtitle{color:var(--ink);font-size:13.5px;font-weight:500;word-break:keep-all;display:flex;align-items:center;gap:7px;flex-wrap:wrap}
+  .ic__foot{margin:12px 0 0;font-size:11px;line-height:1.55;color:var(--ink-mute)}
+  .ic__foot a{color:var(--ink-mid);text-decoration:underline;text-underline-offset:2px}
+  @media (max-width:560px){
+    .ic__lead{display:none}
+    .ic__rdate{min-width:92px}
+  }
+
   /* 모바일: 핫뉴스 1줄 고정(스캔 쉽게) + 터치 여백 */
   @media (max-width:560px){
     .hot-news__item{padding:12px 13px}
@@ -403,12 +430,6 @@
   .cats__all:hover{color:#fff;border-color:var(--tesla-red);background:var(--red-soft)}
   .cats__grid{display:grid;grid-template-columns:1fr;gap:12px}
   .cats__morewrap{display:flex;justify-content:center;margin-top:20px}
-  .cats__search{display:flex;gap:8px;margin:0 0 16px}
-  .cats__search-input{flex:1;min-width:0;font-size:14px;font-family:inherit;color:var(--ink);background:var(--bg-2);border:1px solid var(--line);border-radius:var(--r-pill);padding:0 18px;min-height:44px;outline:none;transition:border-color var(--t-1) var(--ease)}
-  .cats__search-input::placeholder{color:var(--ink-mute)}
-  .cats__search-input:focus{border-color:var(--tesla-red)}
-  .cats__search-btn{flex-shrink:0;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:13px;font-weight:700;color:var(--ink);background:var(--bg-3);border:1px solid #3A3A45;border-radius:var(--r-pill);padding:0 18px;min-height:44px;cursor:pointer;transition:color var(--t-1) var(--ease),border-color var(--t-1) var(--ease),background var(--t-1) var(--ease)}
-  .cats__search-btn:hover{color:#fff;border-color:var(--tesla-red);background:var(--red-soft)}
 
   .ccard{
     /* 카드 박스만 다크 — 라이트 페이지 위에서 도드라지는 대비.
@@ -822,6 +843,7 @@
       <li><a class="hot-news__item is-stock" href="#"><span class="hot-news__title">로딩 중…</span><span class="hot-news__arrow">→</span></a></li>
       <!-- /BLOCK:HOT_NEWS -->
     </ul>
+    <!-- BLOCK:INVESTOR_CAL --><!-- /BLOCK:INVESTOR_CAL -->
   </div>
 </section>
 
@@ -835,11 +857,6 @@
       </div>
       <span class="cats__sub"><!-- BLOCK:CARDS_TIME -->2026.05.31 09:00 KST 기준 · 최신순<!-- /BLOCK:CARDS_TIME --></span>
     </div>
-
-    <form class="cats__search" action="news.html" method="get" role="search">
-      <input type="search" name="q" class="cats__search-input" placeholder="뉴스 검색 — 로보택시, 실적, FSD, 옵티머스…" aria-label="뉴스 키워드 검색" autocomplete="off" maxlength="40">
-      <button type="submit" class="cats__search-btn">검색</button>
-    </form>
 
     <div class="src-legend">
       <span class="src-legend__items">

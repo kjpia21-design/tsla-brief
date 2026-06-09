@@ -253,6 +253,63 @@ const CATEGORY_SHORT = {
  * - 2차 정렬 (동률): pubDate desc — 같은 hot 이면 최신 우선
  * - 폴백: hot 필드 없으면 기본 5 → 사실상 시간순
  */
+const CAL_WEEKDAY_KO = ["일", "월", "화", "수", "목", "금", "토"];
+/** YYYY-MM-DD → "7월 2일 (목)" (ko) / "Jul 2, 2026" (en). TZ 안전(UTC 파싱). */
+function fmtCalDate(iso, lang = "ko") {
+  const [y, m, d] = (iso || "").split("-").map(Number);
+  if (!y || !m || !d) return iso || "";
+  if (lang === "en") {
+    const MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    return `${MON[m - 1]} ${d}, ${y}`;
+  }
+  const wd = new Date(Date.UTC(y, m - 1, d)).getUTCDay();
+  return `${m}월 ${d}일 (${CAL_WEEKDAY_KO[wd]})`;
+}
+
+/**
+ * 투자자 캘린더 — 핫뉴스 마지막 줄(가장 가까운 일정 + 📅), 클릭 시 향후 일정(3개월+) 펼침.
+ * 데이터: data/calendar.json. 다가오는 일정이 없으면 빈 문자열(미표시).
+ * 분기 일정은 잠정(tentative)이며 그 사실을 화면에 명시한다(추측을 사실처럼 표기 금지).
+ */
+function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
+  const events = (calendar?.events || [])
+    .filter((e) => e && e.date)
+    .sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
+  const todayISO = now.toISOString().slice(0, 10);
+  const upcoming = events.filter((e) => e.date >= todayISO);
+  if (!upcoming.length) return "";   // 다가오는 일정 없음 → 줄 자체 미표시
+  const next = upcoming[0];
+  const todayMs = Date.parse(todayISO + "T00:00:00Z");
+  const dday = Math.max(0, Math.round((Date.parse(next.date + "T00:00:00Z") - todayMs) / 86400000));
+  const L = lang === "en"
+    ? { lead: "Next", head: "Investor Calendar · Upcoming", tent: "TBD", today: "Today",
+        foot: `Quarterly dates are estimates pending Tesla's official announcement — see <a href="https://ir.tesla.com" target="_blank" rel="noopener">ir.tesla.com</a>.` }
+    : { lead: "다음 일정", head: "투자자 캘린더 · 향후 일정", tent: "잠정", today: "오늘",
+        foot: `분기 실적·인도 일정은 공식 발표 전 과거 패턴 기반 <b>잠정</b>치 — 확정 일정은 <a href="https://ir.tesla.com" target="_blank" rel="noopener">ir.tesla.com</a> 참조.` };
+  const ddayTxt = dday === 0 ? L.today : `D-${dday}`;
+  const tentChip = (e) => (e.tentative ? `<span class="ic__tent">${L.tent}</span>` : "");
+  const rows = upcoming.map((e) =>
+    `<li class="ic__row"><span class="ic__rdate">${escapeHtml(fmtCalDate(e.date, lang))}</span>`
+    + `<span class="ic__rtitle">${escapeHtml(e.title || "")}${tentChip(e)}</span></li>`
+  ).join("\n          ");
+  return `<details class="ic">
+      <summary class="ic__bar">
+        <span class="ic__lead">${L.lead}</span>
+        <span class="ic__title">${escapeHtml(next.title || "")}</span>
+        <span class="ic__date">${escapeHtml(fmtCalDate(next.date, lang))}</span>${tentChip(next)}
+        <span class="ic__dday">${ddayTxt}</span>
+        <span class="ic__cal" aria-hidden="true">📅</span>
+      </summary>
+      <div class="ic__panel">
+        <div class="ic__panelhead">${L.head}</div>
+        <ul class="ic__list">
+          ${rows}
+        </ul>
+        <p class="ic__foot">${L.foot}</p>
+      </div>
+    </details>`;
+}
+
 function renderHotNews(cards) {
   const hotOf = (c) => (typeof c.hot === "number" ? c.hot : 5);
   const byHot = (a, b) => (hotOf(b) - hotOf(a)) || (Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
@@ -710,9 +767,15 @@ async function buildOneLang(opts) {
     ? `${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC · sorted by latest`
     : cards.asOf;
 
+  // 투자자 캘린더 데이터 (없거나 깨져도 무시 — 줄 미표시)
+  let calendar = { events: [] };
+  try { calendar = JSON.parse(await readFile(path.join(DATA_DIR, "calendar.json"), "utf8")); }
+  catch { calendar = { events: [] }; }
+
   let out = template;
   out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi));
   out = replaceBlock(out, "HOT_NEWS",    renderHotNews(cards));
+  out = replaceBlock(out, "INVESTOR_CAL", renderInvestorCalendar(calendar, lang, now));
   out = replaceBlock(out, "HOT_COUNT",   hotCountLabel);
   const cardsFreshSince = cards.items[0]?.pubDate || "";
   const cardsAsOf = cardsFreshSince
