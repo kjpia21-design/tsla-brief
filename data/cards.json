@@ -3,20 +3,21 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1m ago",
+      "time": "4h ago",
       "pubDate": "2026-06-09T16:59:32.000Z",
-      "title": "벤징가 \"오늘 테슬라 주가에 <em>하락 압박</em> — 원인 분석 중\"",
-      "hotShort": "벤징가, 오늘 테슬라 <em>장 중 하락 압박</em> 원인 분석",
-      "body": "오늘 테슬라 주가가 장 중 하락 압박을 받고 있어 벤징가·인베즈 등 복수 금융 매체가 원인 분석에 나섰다 — JP모건 상향 조정 등 최근 호재가 이어진 상황에서의 약세 흐름이라 시장 참여자들의 이목이 쏠리고 있다.",
+      "title": "벤징가·TipRanks \"오늘 테슬라 주가에 <em>하락 압박</em> — 효율성도 무소용\"",
+      "hotShort": "벤징가·TipRanks, 테슬라 <em>하락 압박 3곳 확인</em>",
+      "body": "오늘 테슬라 주가가 장 중 하락 압박을 받고 있어 벤징가·인베즈·TipRanks 등 3개 매체가 일제히 원인 분석에 나섰다 — TipRanks는 '탁월한 효율성도 무소용(Standout Efficiency Proves No Help)'이라 분석하며, JP모건 상향 등 최근 호재 이후의 이례적 약세 흐름임을 부각했다.",
       "sourceName": "Benzinga",
       "sourceLabel": "press",
       "slug": "stock-tsla-pressure-benzinga-2026-06-09",
-      "summary": "오늘 테슬라 주가가 뉴욕 장 중 하락 압박을 받고 있다는 분석이 벤징가와 인베즈를 통해 동시에 보도됐다. 두 매체 모두 이 흐름의 원인을 분석 중이라고 전하며, 투자자들에게 상황 점검을 촉구했다.\n\n최근 JP모건의 목표주가 대폭 상향과 유럽 4개국 FSD 승인 등 잇따른 호재 속에서 장 중 하락 흐름이 나타난 점이 이례적이다. 단기 차익 실현 매물 출회나 거시적 시장 여건이 맞물렸을 가능성이 제기되나, 장 중 움직임이므로 최종 방향은 당일 종가를 확인해야 한다.\n\n테슬라는 최근 수 주간 대형 호재와 주가 변동성이 공존하는 구간을 이어가고 있다. 오늘 장마감 이후 종가 기준 방향이 실제 투자 심리를 더 정확히 반영할 것이다.",
+      "summary": "오늘 테슬라 주가가 뉴욕 장 중 하락 압박을 받고 있다는 분석이 벤징가·인베즈·TipRanks 세 매체를 통해 동시에 보도됐다. 특히 TipRanks는 '탁월한 효율성도 주가에 무소용(Standout Efficiency Proves No Help)'이라는 제목으로, 테슬라의 탁월한 운영 효율이 이날의 주가 하락을 막는 데 작동하지 못했음을 조명했다.\n\n이 흐름이 이례적인 이유는 배경에 있다. 직전일 JP모건이 물리적 AI 잠재력을 근거로 목표주가를 대폭 상향했고, 유럽 4개국 FSD 승인이라는 호재도 겹쳤다. 그럼에도 장 중 하락이 나타나며 단기 차익 실현 매물 또는 거시적 시장 여건이 맞물렸을 가능성이 제기됐다.\n\n장 중 움직임이므로 실제 방향은 당일 종가로 판단해야 한다. 세 매체가 같은 날 같은 현상을 보도한 것 자체가, 이 하락이 단순 노이즈가 아닌 시장 참여자들의 주목을 받는 흐름임을 시사한다. Q2 인도 수치가 발표되는 7월 초까지 이런 변동성 구간이 이어질 가능성이 있다.",
       "href": "https://www.benzinga.com/trading-ideas/movers/26/06/53096132/tesla-stock-is-under-pressure-today-whats-going-on",
-      "confirmedBy": 2,
+      "confirmedBy": 3,
       "confirmingSources": [
         "Benzinga",
-        "Invezz"
+        "Invezz",
+        "TipRanks"
       ],
       "sentiment": "bear",
       "hot": 6
@@ -24,7 +25,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1.5h ago",
+      "time": "5.5h ago",
       "pubDate": "2026-06-09T15:36:00.000Z",
       "title": "테슬라 FSD, 네덜란드·리투아니아·에스토니아·덴마크 승인 — <em>유럽 4개국 확보</em>",
       "hotShort": "테슬라 FSD 유럽 4개국 승인 — <em>8주 만에 급확산</em>",
@@ -45,28 +46,9 @@
       "hot": 8
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1.8h ago",
-      "pubDate": "2026-06-09T15:16:00.000Z",
-      "title": "로이터 \"스페이스X 高밸류에이션 — <em>일론 프리미엄</em> 시험대 올라\"",
-      "hotShort": "스페이스X 高밸류에이션 — <em>일론 프리미엄</em> 시험대",
-      "body": "로이터가 스페이스X의 높은 밸류에이션이 '일론 프리미엄(Elon Premium)'을 본격 시험받게 될 것이라고 분석했다 — 스페이스X IPO가 테슬라를 포함한 머스크 생태계 전반의 시장 가치를 공개적으로 재산정하는 계기가 될 수 있다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-elon-premium-test-reuters-2026-06-09",
-      "summary": "로이터는 스페이스X의 IPO 추진이 머스크가 구축한 '일론 프리미엄'이라는 가치 제고 요소를 공개 시장에서 처음으로 검증받는 계기가 될 것이라고 분석했다. 일론 프리미엄은 머스크가 이끄는 기업들에 부여되는 고유의 시장 할증 가치를 의미한다.\n\n이 분석은 테슬라 주주들에게도 직접적인 시사점을 갖는다. 스페이스X 상장 가격이 일론 프리미엄을 얼마나 반영하느냐에 따라, 테슬라 주가에 부여된 동일한 프리미엄의 타당성이 간접적으로 검증될 수 있기 때문이다.\n\n또한 로이터는 스페이스X IPO를 앞두고 공매도 세력이 신중한 접근을 취할 수밖에 없다고 별도로 보도했다. 스페이스X 상장이 머스크 생태계의 시장 가치를 새로운 기준점으로 제시할 경우, 테슬라를 겨냥한 공매도 포지션에도 영향을 미칠 수 있다.",
-      "href": "https://www.reuters.com/legal/legalindustry/spacexs-lofty-valuation-set-put-elon-premium-test-2026-06-09/",
-      "confirmingSources": [
-        "Reuters"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2.5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-09T14:35:00.000Z",
       "title": "야후파이낸스·모틀리풀 \"JP모건, <em>물리적 AI 잠재력</em> 이유로 전격 상향\"",
       "hotShort": "JP모건, 물리적 AI 이유로 테슬라 <em>전격 상향</em>",
@@ -83,8 +65,27 @@
         "MSN"
       ],
       "sentiment": "bull",
-      "hot": 6
+      "hot": 7
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5.8h ago",
+      "pubDate": "2026-06-09T15:16:00.000Z",
+      "title": "로이터 \"스페이스X 高밸류에이션 — <em>일론 프리미엄</em> 시험대 올라\"",
+      "hotShort": "스페이스X 高밸류에이션 — <em>일론 프리미엄</em> 시험대",
+      "body": "로이터가 스페이스X의 높은 밸류에이션이 '일론 프리미엄(Elon Premium)'을 본격 시험받게 될 것이라고 분석했다 — 스페이스X IPO가 테슬라를 포함한 머스크 생태계 전반의 시장 가치를 공개적으로 재산정하는 계기가 될 수 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-elon-premium-test-reuters-2026-06-09",
+      "summary": "로이터는 스페이스X의 IPO 추진이 머스크가 구축한 '일론 프리미엄'이라는 가치 제고 요소를 공개 시장에서 처음으로 검증받는 계기가 될 것이라고 분석했다. 일론 프리미엄은 머스크가 이끄는 기업들에 부여되는 고유의 시장 할증 가치를 의미한다.\n\n이 분석은 테슬라 주주들에게도 직접적인 시사점을 갖는다. 스페이스X 상장 가격이 일론 프리미엄을 얼마나 반영하느냐에 따라, 테슬라 주가에 부여된 동일한 프리미엄의 타당성이 간접적으로 검증될 수 있기 때문이다.\n\n또한 로이터는 스페이스X IPO를 앞두고 공매도 세력이 신중한 접근을 취할 수밖에 없다고 별도로 보도했다. 스페이스X 상장이 머스크 생태계의 시장 가치를 새로운 기준점으로 제시할 경우, 테슬라를 겨냥한 공매도 포지션에도 영향을 미칠 수 있다.",
+      "href": "https://www.reuters.com/legal/legalindustry/spacexs-lofty-valuation-set-put-elon-premium-test-2026-06-09/",
+      "confirmingSources": [
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
     }
   ],
-  "asOf": "2026-06-10 04:12 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-10 05:20 KST 자동 갱신 · 최신순"
 }
