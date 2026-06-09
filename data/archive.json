@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-09T09:00:00.000Z",
+      "title": "글로브앤메일 \"<em>테슬라, 자동차 제조엔 무관심</em>\" — 전략 전환 비판",
+      "hotShort": "글로브앤메일 \"<em>자동차 제조엔 무관심</em>\" 비판 칼럼",
+      "body": "캐나다 유력 일간지 글로브앤메일이 테슬라가 더 이상 자동차 제조에 집중하지 않는 것처럼 보인다는 비판적 칼럼을 게재했다 — AI·로보택시 전략 전환이 가속화되는 가운데, 완성차 제조업체로서의 정체성에 대한 외부 회의론을 보여주는 신호다.",
+      "sourceName": "The Globe and Mail",
+      "sourceLabel": "press",
+      "slug": "stock-globemail-tesla-not-care-cars-2026-06-09",
+      "summary": "글로브앤메일(The Globe and Mail)은 캐나다의 대표 일간지로, 이번 칼럼은 자동차 문화 섹션('Drive > Culture')에 게재됐다. 기사 제목 'Tesla doesn't seem to care about making cars anymore'는 테슬라가 전통적인 자동차 제조보다 다른 사업 분야에 우선순위를 두고 있다는 언론의 비판적 시각을 담고 있다.\n\n테슬라는 최근 로보택시 서비스 확장(오스틴·댈러스·휴스턴에 이어 라스베이거스 자율주행 허가 신청), FSD 고도화, 옵티머스 로봇 상용화 등 AI·자율주행 분야에 집중 투자하고 있다. 이 과정에서 신차 라인업 확대 속도나 생산 볼륨 성장이 전통 완성차 기업의 척도와 다른 방향으로 전개되고 있다는 지적이 일부 매체에서 꾸준히 제기됐다.\n\n투자자 입장에서 이런 미디어 내 비판적 시각은 테슬라의 밸류에이션 논쟁과 직결된다 — 전통 자동차 기업 기준으로는 높은 밸류에이션이 부담이지만, AI·로봇·자율주행 기업으로 재평가받으면 다른 척도가 적용된다는 시각도 공존한다. 테슬라가 자동차 제조와 기술 전환 두 축을 어떻게 균형 잡느냐가 앞으로의 핵심 변수다.",
+      "href": "https://www.theglobeandmail.com/drive/culture/article-tesla-doesnt-seem-to-care-about-making-cars-anymore/",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "22m ago",
@@ -1523,21 +1539,7 @@
       "summary": "일론 머스크의 AI 계열사 SpaceXAI가 소비자 시장을 겨냥한 첫 번째 앱을 공개했다. 앱은 사용자의 구매 이력과 식습관을 AI로 분석해 필요한 식료품과 레시피를 미리 제안하는 \"스마트 키친\" 서비스다.\n\n머스크는 기존 xAI(그록 AI)와는 별개로 SpaceX 계열 AI 서비스를 잇달아 확장하고 있다. 이번 앱은 테슬라와 직접 연관은 없지만, 머스크의 AI 사업 영역이 일상 소비재 영역까지 파고드는 흐름을 보여준다.\n\n일부 테슬라 투자자들은 머스크의 다각화된 AI 사업 포트폴리오가 테슬라와의 시너지를 창출할지, 아니면 경영 자원을 분산시킬지를 주시하고 있다. 머스크 본인은 SpaceX·테슬라·xAI·SpaceXAI 등 복수 사업체를 동시 운영 중이다.",
       "href": "https://www.teslarati.com/spacexai-just-launched-into-your-kitchen-with-their-new-app/",
       "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-04T07:14:11.000Z",
-      "title": "울프 리서치, 테슬라 주식 <em>Peerperform 투자의견</em> 재확인",
-      "body": "울프 리서치가 테슬라 주식에 대한 'Peerperform' 투자의견을 재차 유지했다. 오스틴 로보택시 출시 등 긍정 재료와 법적 리스크가 상쇄되는 상황에서 관망 입장이 지속됐다.",
-      "sourceName": "Investing.com",
-      "sourceLabel": "press",
-      "slug": "stock-wolfe-research-peerperform-2026-06-04",
-      "summary": "울프 리서치(Wolfe Research)가 테슬라(TSLA)에 대한 'Peerperform' 투자의견을 재차 유지했다. Peerperform은 시장 평균 수준의 주가 퍼포먼스를 예상한다는 중립적 의견으로, 강한 매수도 매도도 아닌 관망 입장이다.\n\nPeerperform 의견 유지의 배경을 읽으면, 최근 긍정 재료(오스틴 로보택시 출시, 글로벌 판매 반등)와 리스크 요소(FSD 계약 논란, 법적 리스크, 머스크 집중도 분산)가 상쇄되는 상황으로 볼 수 있다. 분석가 입장에서 한쪽으로 기울기 어려운 불확실성이 높은 국면이다.\n\n울프 리서치는 월가에서 독자적 모델을 유지하는 독립계 리서치로 분류된다. 최근 테슬라 주가가 -10% 급락 후 로보택시 소식으로 일부 반등하는 혼조세에서, 울프의 'stay neutral' 포지션은 단기 모멘텀보다 펀더멘털 확인을 기다리겠다는 의미로 해석할 수 있다.\n\n이번 분기 주요 촉매 중 하나는 7월 초 공식 Q2 인도량 발표다. Q2 인도량이 컨센서스(약 42만~45만 대)를 넘으면 Peerperform에서 Outperform으로 의견을 올리는 분석가들이 나올 수 있다.\n\n다음 트리거: 테슬라 Q2 인도량 공식 발표(7월 초), 울프 리서치의 가격 목표 수정 여부, TSLA 기술적 저항선 돌파 여부.",
-      "href": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-peerperform-on-tesla-stock-93CH-4665048",
-      "hot": 4
     }
   ],
-  "asOf": "2026-06-09 17:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-09 19:00 KST 자동 갱신 · 최신순"
 }
