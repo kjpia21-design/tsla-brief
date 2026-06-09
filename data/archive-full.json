@@ -1,6 +1,38 @@
 {
-  "asOf": "2026-06-09 12:45 UTC · 누적 247건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-09 13:40 UTC · 누적 249건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "20m ago",
+      "pubDate": "2026-06-09T11:53:00.000Z",
+      "title": "배런스, 캐시 우드와 로보택시 동승 취재 — <em>TSLA 상승세</em> 배경 조명",
+      "hotShort": "배런스, 캐시 우드 로보택시 동승 — <em>TSLA 상승세</em>",
+      "body": "배런스가 ARK 인베스트의 캐시 우드와 함께 테슬라 로보택시를 직접 탑승하는 현장 르포를 발행했다 — TSLA 주가가 상승하는 국면에 주요 금융 매체가 자율주행 체험을 직접 기사화하며, 로보택시 내러티브가 월스트리트 기관 투자자의 가시적 관심으로 이어지고 있음을 시사한다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-barrons-cathie-wood-robo-taxi-2026-06-09",
+      "summary": "배런스(Barron's)는 월스트리트의 대표 금융 주간지로, 이번 기사는 ARK 인베스트 대표 캐시 우드가 직접 취재진을 태우고 테슬라 로보택시를 동승 운행한 현장을 담은 특집 르포다. 제목 \"Cathie Wood Takes Us on a Robo-Taxi Ride\"에서 나타나듯, ARK 최고경영자가 기자를 데리고 직접 탑승을 안내한 구성으로, 자율주행 서비스를 현장에서 체험하는 형식의 기사다.\n\n보도 시점은 TSLA 주가가 강세를 이어가는 국면과 겹쳤다. 테슬라는 현재 오스틴을 거점으로 로보택시 비지도(Unsupervised) 운행을 확대 중이며, 라스베이거스를 포함한 추가 도시로의 진출도 추진 중이다. ARK 인베스트는 이미 테슬라 강세 시나리오에 로보택시 서비스 확산을 핵심 동인으로 반영해 왔다.\n\n배런스가 직접 탑승 르포를 발행한 것은 자율주행 기술의 현실성을 주요 금융 독자층에 전달하는 의미를 가진다. 기관·소매 투자자가 두루 읽는 배런스에 테슬라 로보택시 현장 취재가 실린다는 것은, 로보택시가 기업 발표 수준을 넘어 직접 검증 가능한 서비스로 인식되고 있다는 신호로 읽힌다.\n\n투자자 시각에서 주요 금융 매체의 현장 보도는 로보택시 밸류에이션 논의를 구체화하는 촉매가 될 수 있다. 특히 TSLA 주가 상승세와 이 같은 미디어 노출이 동반될 경우, 로보택시 전환 스토리에 대한 시장의 신뢰가 점차 가시화되는 흐름으로 이어질 가능성이 있다.",
+      "href": "https://www.barrons.com/articles/tesla-stock-cathie-wood-robo-taxi-full-self-driving-1f9505a9",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-06-09T11:22:31.000Z",
+      "title": "테슬라, 사이버트럭 AWD FSD 이전 조건 수정 — <em>주문 대거 취소</em> 논란",
+      "hotShort": "사이버트럭 FSD 이전 조건 바뀌자 <em>주문 대거 취소</em>",
+      "body": "테슬라가 6만 달러 사이버트럭 AWD의 FSD 이전 조건을 수정하자 기존 주문이 대거 취소됐다고 오토에볼루션이 보도했다 — FSD 라이선스 이전을 전제로 주문했던 고객들이 정책 변경에 반발해 집단 취소한 것으로, FSD 정책 일관성에 대한 소비자 신뢰 문제가 다시 부각됐다.",
+      "sourceName": "autoevolution",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-awd-fsd-transfer-canceled-2026-06-09",
+      "summary": "오토에볼루션에 따르면 테슬라는 6만 달러 사이버트럭 AWD 모델에 적용되는 FSD(Full Self-Driving) 이전 약관을 수정했으며, 이에 반발해 기존 주문자들이 대거 주문을 취소하는 사태가 발생했다. 구체적인 약관 변경 내용은 오토에볼루션 원문에서 확인 가능하다.\n\nFSD 이전 정책은 기존에 FSD를 구매·구독 중인 고객이 새 차량(사이버트럭 등)으로 해당 라이선스를 옮길 수 있는지 여부를 규정한다. 이 정책은 실질적인 차량 구매 비용에 직결되기 때문에, FSD 보유 고객들은 이전 가능성을 전제로 사이버트럭을 주문했을 가능성이 크다.\n\n테슬라가 이 조건을 수정함으로써 기존 주문자들의 기대가 어긋나게 됐으며, 집단 취소 사태로 이어진 배경에는 예고 없는 정책 변경에 대한 불만이 있는 것으로 보인다. 테슬라는 과거에도 FSD 가격과 이전 정책을 여러 차례 수정한 바 있어 관련 논쟁이 재점화된 상황이다.\n\n사이버트럭 AWD 6만 달러 모델은 이전 고가 트림 대비 접근성이 높은 가격대로 주목받았다. 이 모델에서의 FSD 정책 변경과 집단 취소는 단기적으로 수요 수치에 영향을 줄 수 있으며, 테슬라의 FSD 상품 정책 방향성에 대한 시장의 모니터링 필요성도 시사한다.",
+      "href": "https://www.autoevolution.com/news/orders-of-the-60k-cybertruck-awd-canceled-en-masse-after-tesla-modified-fsd-transfer-conditions-271230.html",
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
