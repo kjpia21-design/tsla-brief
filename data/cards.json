@@ -1,25 +1,25 @@
 {
   "items": [
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-06-08T20:55:33.000Z",
-      "title": "테슬라, LA 선셋 블러바드에 <em>슈퍼차저 6기</em> 신규 개통",
-      "hotShort": "LA 선셋 블러바드에 <em>슈퍼차저 6기</em> 신규 개통",
-      "body": "테슬라가 로스앤젤레스 웨스트 선셋 블러바드(5420 Sunset)에 6기(stall) 규모의 신규 슈퍼차저를 공식 개통했다 — 미국 최대 EV 시장 LA 도심 충전 접근성이 한 곳 더 개선됐다.",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "product-supercharger-la-sunset-2026-06-08",
-      "summary": "테슬라 슈퍼차저 공식 X 계정이 로스앤젤레스 웨스트 선셋 블러바드(5420 Sunset) 지점에 6기(stall) 규모의 신규 슈퍼차저가 개통됐다고 발표했다. 선셋 블러바드는 헐리우드·에코파크·실버레이크를 잇는 LA 도심 핵심 도로로, 충전 접근성이 높은 위치다.\n\nLA는 미국 전기차 보급률이 가장 높은 대도시 중 하나이며, 테슬라 슈퍼차저 네트워크의 밀도도 꾸준히 높아지고 있다. 6기 규모의 소형 사이트이지만 도심 밀집 지역의 충전 공백을 메우는 역할을 한다.\n\n테슬라는 슈퍼차저 네트워크를 타사 EV에도 개방하는 전략을 확장하고 있으며, 이는 충전 인프라를 자사 차량 지원 도구에서 독립적 수익원으로 전환하는 장기 방향성과 맞닿아 있다.",
-      "href": "https://x.com/TeslaCharging/status/2064088967600021841",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-08T22:58:37.000Z",
+      "title": "블룸버그 \"일론 머스크, AI 데이터센터 <em>위성 상세 설계</em> 추가 공개\"",
+      "hotShort": "블룸버그, 머스크 AI 데이터센터 <em>위성 설계</em> 추가 공개",
+      "body": "블룸버그(Bloomberg)에 따르면 일론 머스크가 우주 기반 AI 데이터센터 위성의 더 상세한 설계를 공개했다 — xAI·SpaceX 생태계를 통한 우주 AI 인프라 구축 계획이 구체화되고 있다는 신호다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-ai-datacenter-satellite-bloomberg-2026-06-08",
+      "summary": "블룸버그가 보도한 바에 따르면, 일론 머스크가 우주 기반 AI 데이터센터 위성의 이전보다 더 상세한 설계를 공개했다. 구체화된 설계가 공개됐다는 것은 이 프로젝트가 개념 단계를 넘어 실질적 개발로 진전되고 있음을 시사한다.\n\n우주 기반 AI 데이터센터는 지상 인프라의 물리적 한계(에너지·부지·냉각)를 우회하고 위성 네트워크를 통해 글로벌 AI 연산 수요를 처리하겠다는 개념이다. 스타링크(Starlink) 위성 네트워크를 이미 운영 중인 SpaceX의 역량이 이 계획의 핵심 인프라가 될 것으로 보인다.\n\n테슬라 주주 관점에서 이 소식의 직접적인 테슬라 사업과의 관련성은 낮지만, 일론 머스크의 AI 인프라 구상이 점점 구체화되고 있다는 점은 테슬라의 AI 성장 서사(FSD·옵티머스)와 생태계 차원에서 관심을 가질 만한 맥락이다. 설계의 세부 내용과 프로젝트 일정은 블룸버그 원문에서 확인할 수 있다.",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-08/elon-musk-shows-more-detailed-design-of-ai-data-center-satellite",
       "sentiment": "neutral",
-      "hot": 2
+      "hot": 4
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-08T19:14:46.000Z",
       "title": "테슬라 로보택시 다음 행선지는 <em>라스베이거스</em> — 네바다 자율주행 허가 신청",
       "hotShort": "로보택시 다음 행선지 <em>라스베이거스</em>",
@@ -27,15 +27,17 @@
       "sourceName": "Teslarati",
       "sourceLabel": "press",
       "slug": "fsd-robotaxi-next-expansion-hint-2026-06-08",
-      "summary": "테슬라라티에 따르면 테슬라가 로보택시 서비스의 다음 확장지로 라스베이거스(네바다)를 사실상 지목했다. 네바다주에 자율주행차 사업자(AVN) 허가를 신청했으며, 클라크 카운티 내 라스베이거스·헨더슨 공항 등 고밀도 지역에서 출시 12개월 이내 최대 5,000대 로보택시 운영을 목표로 제시했다.\n\n라스베이거스는 Q4 2025 주주 발표에서 2026년 상반기 출시 예정 도시로 이미 거론됐고, 피닉스·마이애미·올랜도·탬파도 후보로 언급된 바 있다. 오스틴(비지도 운영 확대)·댈러스·휴스턴(출시 완료)에 이어 관광 수요가 큰 라스베이거스로 확장이 가시화되며, 로보택시 스케일업 속도가 다음 핵심 변수다.",
+      "summary": "테슬라라티에 따르면 테슬라가 로보택시 서비스의 다음 확장지로 라스베이거스(네바다)를 사실상 지목했다. 네바다주에 자율주행차 사업자(AVN) 허가를 신청했으며, 클라크 카운티 내 라스베이거스·헨더슨 공항 등 고밀도 지역에서 출시 12개월 이내 최대 5,000대 로보택시 운영을 목표로 제시했다.\n\n라스베이거스는 Q4 2025 주주 발표에서 2026년 상반기 출시 예정 도시로 이미 거론됐고, 피닉스·마이애미·올랜도·탬파도 후보로 언급된 바 있다. 오스틴(비지도 운영 확대)·댈러스·휴스턴(출시 완료)에 이어 관광 수요가 큰 라스베이거스로 확장이 가시화되며, 로보택시 스케일업 속도가 다음 핵심 변수다. 라스베이거스 현지 방송 KLAS 8 News Now도 같은 소식을 확인 보도했다.",
       "href": "https://www.teslarati.com/tesla-tipped-its-hand-where-robotaxi-heading-next/",
+      "confirmedBy": 2,
+      "confirmingSources": ["Teslarati", "KLAS 8 News Now"],
       "sentiment": "bull",
       "hot": 6
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-08T18:25:50.000Z",
       "title": "에드먼즈, 모델3 RWD를 <em>현 생산 EV 중 최고 효율</em>로 선정",
       "hotShort": "에드먼즈, 모델3 RWD <em>현 생산 EV 중 최고 효율</em>",
@@ -51,7 +53,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-08T13:12:36.000Z",
       "title": "iSeeCars \"1억 7,400만 대 내구성 분석서 테슬라 <em>두드러진 성과</em>\"",
       "hotShort": "iSeeCars 1.74억 대 분석 — 테슬라 <em>두드러진 성과</em>",
@@ -65,5 +67,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-06-09 07:11 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-09 11:30 KST 자동 갱신 · 최신순"
 }
