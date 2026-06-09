@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-09 15:40 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-09 16:33 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "36m ago",
+      "time": "26m ago",
+      "pubDate": "2026-06-09T16:07:22.000Z",
+      "title": "Tesla ‘FSD’ approved in Denmark, 4th European country in 2 months",
+      "body": "Denmark has provisionally approved Tesla’s “Full Self-Driving” (Supervised) system, making it the fourth European country to clear the software in roughly eight weeks. The Danish Road Traffic Authority, Færdselsstyrelsen…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "45m ago",
+      "pubDate": "2026-06-09T15:48:28.000Z",
+      "title": "Tesla revises FSD transfer policy on new Cybertruck trim, causing cancellations",
+      "body": "Tesla revises FSD transfer policy on new Cybertruck trim, causing cancellations Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-revises-fsd-transfer-policy-new-cybertruck-trim-causing-cancellations/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-09T15:16:20.000Z",
+      "title": "SpaceX's lofty valuation set to put 'Elon premium' to test",
+      "body": "SpaceX's lofty valuation set to put 'Elon premium' to test Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/legalindustry/spacexs-lofty-valuation-set-put-elon-premium-test-2026-06-09/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
       "pubDate": "2026-06-09T15:03:56.000Z",
       "title": "Welcome to the future 🇩🇰🤗",
       "body": "Welcome to the future 🇩🇰🤗 https://t.co/Q15CsGBvGj",
@@ -17,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "37m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-09T15:03:02.000Z",
       "title": "The truth is that there are VASTLY more hate crimes, especially aggravated rape and murder, per person by Blacks agai…",
       "body": "The truth is that there are VASTLY more hate crimes, especially aggravated rape and murder, per person by Blacks against Whites than the other way around. The is not remotely debatable, as the numbers are so extremely lo…",
@@ -28,48 +67,22 @@
       "href": "https://x.com/elonmusk/status/2064362642798416255"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "46m ago",
-      "pubDate": "2026-06-09T14:54:12.000Z",
-      "title": "Tesla revises FSD transfer policy on new Cybertruck trim, causing cancellations",
-      "body": "Tesla revises FSD transfer policy on new Cybertruck trim, causing cancellations Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-revises-fsd-transfer-policy-new-cybertruck-trim-causing-cancellations/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "47m ago",
-      "pubDate": "2026-06-09T14:52:54.000Z",
-      "title": "SpaceX's lofty valuation set to put 'Elon premium' to test",
-      "body": "SpaceX's lofty valuation set to put 'Elon premium' to test Reuters",
+      "time": "2h ago",
+      "pubDate": "2026-06-09T15:02:07.000Z",
+      "title": "Short-sellers to tread carefully as Musk's SpaceX debuts",
+      "body": "Short-sellers to tread carefully as Musk's SpaceX debuts Reuters",
       "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/legal/legalindustry/spacexs-lofty-valuation-set-put-elon-premium-test-2026-06-09/"
+      "href": "https://www.reuters.com/legal/government/short-sellers-tread-carefully-musks-spacex-debuts-2026-06-09/"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "50m ago",
-      "pubDate": "2026-06-09T14:50:29.000Z",
-      "title": "BREAKING: FSD Supervised now approved in Denmark 🇩🇰",
-      "body": "BREAKING: FSD Supervised now approved in Denmark 🇩🇰 https://t.co/BY7QxypWzW",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2064359485729030426"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-09T14:38:37.000Z",
       "title": "A good agentic engineering system should let you learn more along the way—faster and with greater clarity, down to th…",
       "body": "A good agentic engineering system should let you learn more along the way—faster and with greater clarity, down to the choice of numeric tricks—rather than generating a solution that you barely understand. Each engineer …",
@@ -78,6 +91,19 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/yunta_tsai/status/2064356498042687493"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-09T14:27:16.000Z",
+      "title": "Elon Musk Reveals Insane Plan to Double American Chip Production in a Single Plant",
+      "body": "Elon Musk Reveals Insane Plan to Double American Chip Production in a Single Plant Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-reveals-insane-plan-142716387.html"
     },
     {
       "category": "stock",
@@ -95,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-09T13:57:00.000Z",
       "title": "Tesla Stock: Cathie Wood’s First Robo-Taxi Ride, Dutch Safety Data Provide a Lift",
       "body": "Tesla Stock: Cathie Wood’s First Robo-Taxi Ride, Dutch Safety Data Provide a Lift Barron's",
@@ -108,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-09T13:56:35.000Z",
       "title": "Saw a Tesla friendly face at a Tesla Supercharger @SvenWEX",
       "body": "Saw a Tesla friendly face at a Tesla Supercharger @SvenWEX https://t.co/HU5N1h8i2c",
@@ -119,9 +145,22 @@
       "href": "https://x.com/teslaownersSV/status/2064345918443237452"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-09T13:47:35.000Z",
+      "title": "JPMorgan upgrades Tesla with a major price target hike",
+      "body": "JPMorgan upgrades Tesla with a major price target hike MSN",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.msn.com/en-us/money/companies/jpmorgan-upgrades-tesla-with-a-major-price-target-hike/ar-AA24V56R"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-09T13:38:03.000Z",
       "title": "Scuba with Sandy Munro and @TeslaClubAT in the Alps.",
       "body": "Scuba with Sandy Munro and @TeslaClubAT in the Alps. https://t.co/cief0p2OuX",
@@ -132,22 +171,9 @@
       "href": "https://x.com/teslaownersSV/status/2064341256780525819"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-09T13:17:27.000Z",
-      "title": "Elon - when I’m a trillionaire name the movie ‘Dogecoin trillionaire , the movie‘ 🍿 Someone took it literally and pu…",
-      "body": "Elon - when I’m a trillionaire name the movie ‘Dogecoin trillionaire , the movie‘ 🍿 Someone took it literally and put it on billboards 😂 https://t.co/ZRd5UbzPa2",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2064336070636921304"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-09T11:20:29.000Z",
       "title": "‘Where’s the Proof?’ Says Analyst About Tesla Stock",
       "body": "‘Where’s the Proof?’ Says Analyst About Tesla Stock TipRanks",
@@ -158,22 +184,9 @@
       "href": "https://www.tipranks.com/news/wheres-the-proof-says-analyst-about-tesla-stock"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-09T10:40:49.000Z",
-      "title": "Short-sellers to tread carefully as Musk's SpaceX debuts",
-      "body": "Short-sellers to tread carefully as Musk's SpaceX debuts Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/legal/government/short-sellers-tread-carefully-musks-spacex-debuts-2026-06-09/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-09T07:28:59.000Z",
       "title": "New Tesla Supercharger: Haugesund, Norway (8 stalls)",
       "body": "New Tesla Supercharger: Haugesund, Norway (8 stalls) https://t.co/I9iSVOfosW https://t.co/L6mghoKxOz",
@@ -186,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-09T03:41:00.000Z",
       "title": "Why Is Tesla (TSLA) Stock Rocketing Higher Today",
       "body": "Why Is Tesla (TSLA) Stock Rocketing Higher Today Yahoo Finance",
@@ -199,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-09T01:19:29.000Z",
       "title": "New Tesla Supercharger: Oak Grove, MO (8 stalls)",
       "body": "New Tesla Supercharger: Oak Grove, MO (8 stalls) https://t.co/BQDJZVNZcW https://t.co/02DZdVmu3V",
@@ -212,20 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
-      "pubDate": "2026-06-08T21:58:44.000Z",
-      "title": "We view Tim Cook as an all time Hall of Fame CEO with today his last WWDC…leaving Apple in great hands with Ternus @C…",
-      "body": "We view Tim Cook as an all time Hall of Fame CEO with today his last WWDC…leaving Apple in great hands with Ternus @CNBCClosingBell @CNBC 🍿📱🍎🐂🏆🎯📺👇 https://t.co/UbkdE40jV5",
-      "sourceName": "Dan Ives (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/DivesTech/status/2064104866663047369"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-06-08T19:41:05.000Z",
       "title": "JPMorgan Just Dramatically Reversed Course on Tesla Because TSLA Stock Has Massive Physical AI Potential",
       "body": "JPMorgan Just Dramatically Reversed Course on Tesla Because TSLA Stock Has Massive Physical AI Potential Yahoo Finance",
@@ -238,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "21h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-08T18:50:34.000Z",
       "title": "Tesla just did something in South Korea that no foreign carmaker has ever done",
       "body": "Tesla's Model Y just became South Korea's best-selling car, beating every domestic model in May. The post Tesla just did something in South Korea that no foreign carmaker has ever done appeared first on TESLARATI.",
@@ -251,7 +251,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "21h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-08T18:25:50.000Z",
       "title": "Tesla Model 3’s cheapest trim just got a major accolade",
       "body": "The Tesla Model 3’s cheapest trim level just got a major accolade, as Edmunds just revealed the Rear-Wheel-Drive trim of the all-electric sedan is the most efficient EV that is currently in production. The 2026 Tesla Mod…",
