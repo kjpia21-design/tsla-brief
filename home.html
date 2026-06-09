@@ -380,7 +380,8 @@
   .ic__foot a{color:var(--ink-mid);text-decoration:underline;text-underline-offset:2px}
   @media (max-width:560px){
     .ic__lead{display:none}
-    .ic__dday{display:none}        /* 모바일: 한 줄 유지 위해 D-day 생략 */
+    .ic__bar{gap:7px}
+    .ic__bar .ic__tent{display:none}   /* 모바일 요약 줄: D-day 우선, '잠정'은 펼침 패널·푸터로 */
     .ic__rdate{min-width:46px}
   }
 
