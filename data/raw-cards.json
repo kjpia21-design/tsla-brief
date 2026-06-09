@@ -1,23 +1,62 @@
 {
-  "asOf": "2026-06-09 05:56 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-09 07:51 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "22m ago",
+      "pubDate": "2026-06-09T07:28:59.000Z",
+      "title": "New Tesla Supercharger: Haugesund, Norway (8 stalls)",
+      "body": "New Tesla Supercharger: Haugesund, Norway (8 stalls) https://t.co/I9iSVOfosW https://t.co/L6mghoKxOz",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2064248374426280190"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-06-09T04:52:20.000Z",
-      "title": "Tesla FSD safety data shows 3x gains",
-      "body": "Tesla FSD safety data shows 3x gains blockchain.news",
-      "sourceName": "blockchain.news",
+      "time": "29m ago",
+      "pubDate": "2026-06-09T07:22:20.000Z",
+      "title": "FSD Supervised is 3.5x safer than humans on Dutch roads! Over 3.5x fewer collisions overall (3.4x safer on highways: …",
+      "body": "FSD Supervised is 3.5x safer than humans on Dutch roads! Over 3.5x fewer collisions overall (3.4x safer on highways: 0 collisions in 16.6M km vs. 33 in manual; 1.6x safer on non-highways: 3 collisions in 7.0M km vs. 109 …",
+      "sourceName": "Tesla Owners SV (X)",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://blockchain.news/ainews/tesla-fsd-safety-data-shows-3x-gains"
+      "href": "https://x.com/teslaownersSV/status/2064246703780245537"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "38m ago",
+      "pubDate": "2026-06-09T07:13:01.000Z",
+      "title": "Nio Battery Swap Station in Germany.",
+      "body": "Nio Battery Swap Station in Germany. https://t.co/0zFWsTgQKX",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2064244359868895254"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-09T06:23:46.000Z",
+      "title": "A normal photo in. A cinematic ad out. With Grok's image-to-video capabilities, anyone can turn a single image into a…",
+      "body": "A normal photo in. A cinematic ad out. With Grok's image-to-video capabilities, anyone can turn a single image into a high-quality commercial that looks like it came from a professional production studio. The barrier bet…",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2064231963657998458"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
       "pubDate": "2026-06-09T04:16:07.000Z",
       "title": "Interview with SpaceX CFO",
       "body": "Interview with SpaceX CFO https://t.co/RC9CQFPmvI",
@@ -30,7 +69,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-09T03:41:00.000Z",
       "title": "Why Is Tesla (TSLA) Stock Rocketing Higher Today",
       "body": "Why Is Tesla (TSLA) Stock Rocketing Higher Today Yahoo Finance",
@@ -43,20 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-09T03:29:25.000Z",
-      "title": "Starship landing comparison: Flights 10, 11 and 12 🚀 The side-by-side footage gives an incredible look at how much S…",
-      "body": "Starship landing comparison: Flights 10, 11 and 12 🚀 The side-by-side footage gives an incredible look at how much Starship V3’s heat shield performance improved compared to previous versions. You can clearly see the ra…",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2064188088197263870"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-09T03:25:26.000Z",
       "title": "SpaceX AI Satellites",
       "body": "SpaceX AI Satellites https://t.co/e87XMW2tXb",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-09T01:19:29.000Z",
       "title": "New Tesla Supercharger: Oak Grove, MO (8 stalls)",
       "body": "New Tesla Supercharger: Oak Grove, MO (8 stalls) https://t.co/BQDJZVNZcW https://t.co/02DZdVmu3V",
@@ -82,7 +108,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-08T21:58:44.000Z",
       "title": "We view Tim Cook as an all time Hall of Fame CEO with today his last WWDC…leaving Apple in great hands with Ternus @C…",
       "body": "We view Tim Cook as an all time Hall of Fame CEO with today his last WWDC…leaving Apple in great hands with Ternus @CNBCClosingBell @CNBC 🍿📱🍎🐂🏆🎯📺👇 https://t.co/UbkdE40jV5",
@@ -95,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-08T21:37:38.000Z",
       "title": "My trip to Giga Berlin has now brought me and @pithostettler to Prague in the Czech Republic! Just a few images befor…",
       "body": "My trip to Giga Berlin has now brought me and @pithostettler to Prague in the Czech Republic! Just a few images before we begin a sightseeing tour through the city tomorrow with my good friend @OndrejBacina as our local …",
@@ -108,7 +134,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-08T21:14:52.000Z",
       "title": "We believe Apple hit this WWDC perfect and now has an AI foundation to build on around services and its hardware futu…",
       "body": "We believe Apple hit this WWDC perfect and now has an AI foundation to build on around services and its hardware future @CNBCClosingBell 🍎📱👇🏆🐂 https://t.co/UbkdE40jV5",
@@ -121,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-08T20:55:33.000Z",
       "title": "New 5420 Sunset Supercharger: Los Angeles, CA - West Sunset Boulevard (6 stalls)  Learn more about Supercharger for B…",
       "body": "New 5420 Sunset Supercharger: Los Angeles, CA - West Sunset Boulevard (6 stalls) https://t.co/Y2anziuyuK Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/XCJ77Ghzca",
@@ -134,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-08T20:52:22.000Z",
       "title": "The level of fraud here is mind-blowing",
       "body": "The level of fraud here is mind-blowing https://t.co/FkgZp26a7w",
@@ -145,22 +171,9 @@
       "href": "https://x.com/elonmusk/status/2064088167234355334"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
-      "pubDate": "2026-06-08T20:49:35.000Z",
-      "title": "The system is rotten",
-      "body": "The system is rotten https://t.co/7WMXcA0u7X",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2064087465720152399"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-08T20:26:25.000Z",
       "title": "Great to be on @CNBCClosingBell with @TheJudgeCNBC from WWDC in Cupertino discussing the AI announcements from @Apple…",
       "body": "Great to be on @CNBCClosingBell with @TheJudgeCNBC from WWDC in Cupertino discussing the AI announcements from @Apple and what it means for consumers looking ahead 🏆📺🐂🎯🍿🍎📱. An insightful panel with @KenzieSigalos …",
@@ -173,8 +186,8 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
-      "pubDate": "2026-06-08T19:53:16.000Z",
+      "time": "12h ago",
+      "pubDate": "2026-06-08T19:55:54.000Z",
       "title": "Tesla tipped its hand at where Robotaxi is heading next",
       "body": "Tesla tipped its hand at where Robotaxi is heading next Teslarati",
       "sourceName": "Teslarati",
@@ -186,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-08T19:11:12.000Z",
       "title": "FSD Supervised doesn’t waste your time",
       "body": "FSD Supervised doesn’t waste your time https://t.co/wlr2QPHnaX",
@@ -199,20 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-08T18:50:34.000Z",
-      "title": "Tesla just did something in South Korea that no foreign carmaker has ever done",
-      "body": "Tesla's Model Y just became South Korea's best-selling car, beating every domestic model in May. The post Tesla just did something in South Korea that no foreign carmaker has ever done appeared first on TESLARATI.",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-model-y-south-korea-beats-kia-hyundai/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-08T16:53:14.000Z",
       "title": "New Tesla Supercharger: Afyonkarahisar, Türkiye - Dörtyol (12 stalls)",
       "body": "New Tesla Supercharger: Afyonkarahisar, Türkiye - Dörtyol (12 stalls) https://t.co/NeN5tY2dse https://t.co/vSTLbN7s8d",
@@ -225,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-08T16:22:48.000Z",
       "title": "We often mistake the pursuit of perfection as equivalent to the pursuit of happiness. Perfection may never arrive, as…",
       "body": "We often mistake the pursuit of perfection as equivalent to the pursuit of happiness. Perfection may never arrive, as you could always find flaws, but you can only enjoy happiness while you live.",
@@ -238,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-08T16:09:18.000Z",
       "title": "Sticks and stones won’t break my bones",
       "body": "Sticks and stones won’t break my bones https://t.co/zfc8ZV6qPa https://t.co/AVEQjhZq6T https://t.co/oD74yx9nQW",
@@ -251,7 +251,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-08T14:02:22.000Z",
       "title": "History is a form of compaction. After compacting a few times, we tend to forget or make up our minds based on vague …",
       "body": "History is a form of compaction. After compacting a few times, we tend to forget or make up our minds based on vague abstracts. As humans have a limited rollout in their lifetime, we inevitably begin to make similar mist…",

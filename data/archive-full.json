@@ -1,6 +1,54 @@
 {
-  "asOf": "2026-06-09 05:56 UTC · 누적 240건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-09 07:51 UTC · 누적 244건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-09T04:52:20.000Z",
+      "title": "테슬라 FSD 안전 데이터, <em>3배 향상</em> 수치 확인",
+      "hotShort": "테슬라 FSD 안전 데이터 <em>3배 향상</em> 확인",
+      "body": "테슬라 FSD 안전 데이터에서 3배 향상 수치가 확인됐다 — FSD 안전성 지표 개선은 비지도 자율주행 확대와 로보택시 상용화를 위한 규제 승인의 핵심 근거로 부상한다.",
+      "sourceName": "blockchain.news",
+      "sourceLabel": "press",
+      "slug": "fsd-safety-data-3x-gains-2026-06-09",
+      "summary": "테슬라 FSD(완전자율주행) 안전 데이터가 3배 향상된 수치를 기록했다는 보고가 나왔다. FSD 안전 지표의 3배 개선은 자율주행의 신뢰성과 안전성을 수치로 입증하는 근거로, 비지도 운행 확대와 로보택시 상용화를 위한 규제 승인 경로를 직접적으로 뒷받침한다.\n\n테슬라는 현재 텍사스 오스틴에서 비지도(Unsupervised) 로보택시 서비스를 운영 중이며, 안전 데이터 누적은 NHTSA 등 규제기관과의 협의 및 타 도시 확장 허가 절차에서 핵심 지표로 활용된다. 구체적인 측정 기준과 비교 기준은 원문에서 확인할 수 있다.\n\nFSD 안전성 지표의 꾸준한 향상은 테슬라가 자율주행 상용화의 기술적 문턱을 낮추고 있다는 증거다. 주주 관점에서 이는 로보택시 네트워크 확장 속도와 FSD 라이선스 사업의 장기 수익성을 가늠하는 데 중요한 참고 지표다.",
+      "href": "https://blockchain.news/ainews/tesla-fsd-safety-data-shows-3x-gains",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-09T04:16:07.000Z",
+      "title": "일론 머스크, SpaceX <em>CFO 인터뷰</em> 직접 공유",
+      "hotShort": "일론 머스크, SpaceX <em>CFO 인터뷰</em> 공유",
+      "body": "일론 머스크가 SpaceX 최고재무책임자(CFO) 인터뷰를 자신의 X 계정에 직접 공유했다 — SpaceX 재무 전략과 사업 현황에 대한 최고경영자의 관심이 담긴 행보로 주목된다.",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "musk-spacex-cfo-interview-2026-06-09",
+      "summary": "일론 머스크가 SpaceX 최고재무책임자(CFO) 인터뷰를 자신의 X 공식 계정에 직접 공유했다. SpaceX CFO의 발언과 재무 전략에 관한 내용을 인터뷰가 담고 있으며, 머스크가 직접 공유한 만큼 SpaceX의 공식 메시지로서 의미를 가진다.\n\nSpaceX는 최근 IPO 관련 논의가 활발한 상황이며, CFO가 공개 인터뷰를 통해 사업 방향을 언급한 내용에 투자자들의 관심이 쏠린다. 인터뷰의 구체적인 발언 내용은 원문 링크에서 확인할 수 있다.\n\n머스크의 복수 기업(테슬라·SpaceX·xAI) 경영 행보는 테슬라 투자자에게도 간접적으로 연관된 맥락이다. SpaceX 재무 상황 및 향후 계획은 머스크의 경영 집중도와 자원 배분을 이해하는 데 참고가 된다.",
+      "href": "https://x.com/elonmusk/status/2064199840087605403",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-09T03:41:00.000Z",
+      "title": "야후파이낸스, TSLA 주가 <em>급등</em> 배경 분석",
+      "hotShort": "야후파이낸스, TSLA 주가 <em>급등</em> 분석",
+      "body": "야후파이낸스가 TSLA 주가 급등 배경을 분석했다 — 강한 상승 모멘텀의 핵심 동인 파악이 주주·투자자에게 중요한 시점이다.",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "stock-tsla-rocketing-higher-2026-06-09",
+      "summary": "야후파이낸스가 2026년 6월 9일 TSLA 주가의 강한 상승세를 분석했다. '왜 오늘 테슬라 주가가 급등하는가(Why Is Tesla TSLA Stock Rocketing Higher Today)'라는 제목으로, 당일 강한 매수 흐름이 형성됐음을 시사한다.\n\n구체적인 상승 배경과 핵심 동인은 원문 기사에서 상세히 다루고 있다. 테슬라는 이 시기 FSD 안전성 지표 개선 보고, 로보택시 네트워크 확장 가시화 등 긍정 모멘텀이 쌓이는 국면에 있었다.\n\n테슬라 주가 강세 국면에서 상승 근거를 명확히 이해하는 것은 향후 모멘텀 지속 여부를 가늠하는 데 중요한 참고 자료다. 원문 분석에서 이번 상승의 핵심 촉매를 확인할 수 있다.",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-stock-rocketing-034150415.html",
+      "sentiment": "bull",
+      "hot": 7
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -16,6 +64,22 @@
       "href": "http://www.msn.com/en-us/autos/news/tsla-stock-cathie-wood-slaps-75-robotaxi-ticket-into-ark-s-bull-case/ar-AA259afh?apiversion",
       "sentiment": "bull",
       "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5h ago",
+      "pubDate": "2026-06-09T01:19:29.000Z",
+      "title": "테슬라, 미주리 오크그로브에 <em>슈퍼차저 8기</em> 신규 개통",
+      "hotShort": "테슬라 미주리 오크그로브 <em>슈퍼차저 8기</em> 개통",
+      "body": "테슬라가 미국 미주리주 오크그로브에 8기 규모 슈퍼차저 스테이션을 신규 개통했다 — 미국 중부 지역 충전 인프라 확대의 일환이다.",
+      "sourceName": "Tesla Charging",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-oak-grove-mo-2026-06-09",
+      "summary": "테슬라 충전(Tesla Charging) 공식 X 계정에 따르면, 미국 미주리주 오크그로브(Oak Grove, MO)에 8기 규모의 슈퍼차저 스테이션이 신규 개통됐다. 미국 중부 지역 테슬라 차주들의 충전 접근성이 향상됐다.\n\n테슬라는 지속적인 슈퍼차저 네트워크 확장을 통해 전기차 충전 인프라를 미국 전역에 넓혀가고 있다. 충전망 확대는 장거리 여행 편의성 향상과 신규 차량 구매 결정에 긍정적인 영향을 준다.",
+      "href": "https://x.com/TeslaCharging/status/2064155387146952917",
+      "sentiment": "bull",
+      "hot": 2
     },
     {
       "category": "musk",
