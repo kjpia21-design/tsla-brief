@@ -1,6 +1,22 @@
 {
-  "asOf": "2026-06-09 04:04 UTC · 누적 238건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-09 05:56 UTC · 누적 240건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-09T02:34:12.000Z",
+      "title": "ARK인베스트, TSLA 강세 시나리오에 <em>로보택시 승차권 75달러</em> 반영",
+      "hotShort": "ARK, 로보택시 <em>승차권 75달러</em> 강세 모델 공개",
+      "body": "캐시 우드의 ARK인베스트가 테슬라 강세 밸류에이션 모델에 로보택시 승차당 75달러를 핵심 수익 가정으로 반영했다 — 로보택시 단위 경제성에 대한 ARK의 구체적 수치화가 공개됐다는 점에서 기관 분석의 기준점이 마련된 것이다.",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "fsd-ark-75-robotaxi-bull-case-2026-06-09",
+      "summary": "캐시 우드(Cathie Wood)가 이끄는 ARK인베스트가 테슬라 강세(bull) 시나리오 밸류에이션 모델에 로보택시 승차당 75달러를 핵심 수익 가정으로 반영했다. MSN이 이 소식을 보도했다.\n\n이 수치는 로보택시 한 번의 탑승에서 75달러를 수익으로 창출한다는 가정이다. 테슬라 로보택시가 현재 텍사스 오스틴에서 실제 운영 중이나, 공개된 요금 구조는 아직 상세히 알려지지 않았다. ARK의 75달러 가정은 로보택시가 프리미엄 가격대에서 포지셔닝될 수 있다는 낙관적 전제를 수치로 구체화한 것이다.\n\nARK인베스트는 테슬라의 대표적 장기 지지자로, FSD·로보택시 수익화를 TSLA 목표주가의 핵심 변수로 선도적으로 제시해온 기관이다. 실제로 캐시 우드는 최근 오스틴에서 테슬라 로보택시를 비지도(Unsupervised) 모드로 직접 탑승하기도 했다.\n\n테슬라 주주 관점에서 ARK의 수치화는 로보택시 사업의 단위 경제성(Unit Economics)이 얼마나 유리할 수 있는지를 보여주는 레퍼런스로 기능한다. 승차당 75달러가 현실화된다면, 사이버캡 한 대의 하루 매출은 상당한 수준에 이를 수 있으며 기존 자동차 판매 마진을 크게 뛰어넘는 수익 구조가 가능하다. 다만 이 수치는 ARK 강세 시나리오의 가정이므로, 실제 시장 요금 결정 과정과 경쟁 상황에 따라 달라질 수 있다.",
+      "href": "http://www.msn.com/en-us/autos/news/tsla-stock-cathie-wood-slaps-75-robotaxi-ticket-into-ark-s-bull-case/ar-AA259afh?apiversion",
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -53,6 +69,22 @@
         "Teslarati",
         "KLAS 8 News Now"
       ]
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "9h ago",
+      "pubDate": "2026-06-08T18:50:34.000Z",
+      "title": "모델 Y, 5월 한국 전체 <em>판매 1위</em> — 외제차 브랜드 최초 기록",
+      "hotShort": "모델 Y, 5월 한국 전체 <em>판매 1위</em> 외제차 최초",
+      "body": "테슬라 모델 Y가 5월 한국 전체 신차 판매에서 1위를 기록했다 — 현대·기아 등 국내 모든 브랜드를 제치고 외국 자동차 브랜드가 한국 월간 전체 판매 정상에 오른 것은 역사상 처음이다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-model-y-south-korea-1st-bestselling-may-2026-06-08",
+      "summary": "테슬라라티(Teslarati)에 따르면 테슬라 모델 Y가 2026년 5월 한국 전체 신차 판매에서 1위를 기록했다. 현대·기아를 포함한 모든 국내 브랜드를 제치고 외국 자동차 브랜드가 한국 월간 전체 판매 순위 정상에 오른 것은 자동차 역사상 처음이다.\n\n한국은 현대·기아·제네시스 같은 강력한 국내 자동차 브랜드를 보유한 시장으로, 수입차가 국내차 전체를 제치고 월간 1위를 차지하는 것은 매우 이례적인 사건이다. 테슬라 모델 Y 주니퍼(2025년 초 출시)의 상품성 개선과 함께, 전기차 인프라 확충·정부 보조금·한국 소비자의 EV 수용 확대 등이 복합적으로 작용해 이 기록을 가능하게 한 것으로 분석된다.\n\n테슬라 주주 관점에서 이 성과는 여러 함의를 지닌다. 첫째, 아시아 핵심 시장에서 테슬라 브랜드 경쟁력이 현지 최강 자동차 그룹을 넘어섰다는 실증이다. 둘째, 중국 기가상하이 기반 생산의 글로벌 수출 역량이 확인됐다. 셋째, 브랜드 충성도가 높은 시장에서도 EV 전환 흐름이 테슬라에 유리하게 흐르고 있다는 신호다.",
+      "href": "https://www.teslarati.com/tesla-model-y-south-korea-beats-kia-hyundai/",
+      "sentiment": "bull",
+      "hot": 7
     },
     {
       "category": "product",
