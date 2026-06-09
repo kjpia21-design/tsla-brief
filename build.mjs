@@ -287,15 +287,17 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
     : { lead: "다음 일정", head: "투자자 캘린더 · 향후 일정", tent: "잠정", today: "오늘",
         foot: `분기 실적·인도 일정은 공식 발표 전 과거 패턴 기반 <b>잠정</b>치 — 확정 일정은 <a href="https://ir.tesla.com" target="_blank" rel="noopener">ir.tesla.com</a> 참조.` };
   const ddayTxt = dday === 0 ? L.today : `D-${dday}`;
+  // 메인 노출 제목에서 연도(20xx) 제거 — 데이터엔 연도 유지, 화면만 간결화.
+  const stripYear = (t) => (t || "").replace(/\s*\b20\d{2}\b\s*/, " ").replace(/\s+/g, " ").trim();
   const tentChip = (e) => (e.tentative ? `<span class="ic__tent">${L.tent}</span>` : "");
   const rows = upcoming.map((e) =>
     `<li class="ic__row"><span class="ic__rdate">${escapeHtml(fmtCalDate(e.date, lang))}</span>`
-    + `<span class="ic__rtitle">${escapeHtml(e.title || "")}${tentChip(e)}</span></li>`
+    + `<span class="ic__rtitle">${escapeHtml(stripYear(e.title))}${tentChip(e)}</span></li>`
   ).join("\n          ");
   return `<details class="ic">
       <summary class="ic__bar">
         <span class="ic__lead">${L.lead}</span>
-        <span class="ic__title">${escapeHtml(next.title || "")}</span>
+        <span class="ic__title">${escapeHtml(stripYear(next.title))}</span>
         <span class="ic__date">${escapeHtml(fmtCalDate(next.date, lang))}</span>${tentChip(next)}
         <span class="ic__dday">${ddayTxt}</span>
         <span class="ic__cal" aria-hidden="true">📅</span>
