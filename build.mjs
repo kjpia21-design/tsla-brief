@@ -253,17 +253,15 @@ const CATEGORY_SHORT = {
  * - 2차 정렬 (동률): pubDate desc — 같은 hot 이면 최신 우선
  * - 폴백: hot 필드 없으면 기본 5 → 사실상 시간순
  */
-const CAL_WEEKDAY_KO = ["일", "월", "화", "수", "목", "금", "토"];
-/** YYYY-MM-DD → "7월 2일 (목)" (ko) / "Jul 2, 2026" (en). TZ 안전(UTC 파싱). */
+/** YYYY-MM-DD → "7/2" (ko) / "Jul 2" (en). 요일·연도 없이 간소화. */
 function fmtCalDate(iso, lang = "ko") {
   const [y, m, d] = (iso || "").split("-").map(Number);
   if (!y || !m || !d) return iso || "";
   if (lang === "en") {
     const MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-    return `${MON[m - 1]} ${d}, ${y}`;
+    return `${MON[m - 1]} ${d}`;
   }
-  const wd = new Date(Date.UTC(y, m - 1, d)).getUTCDay();
-  return `${m}월 ${d}일 (${CAL_WEEKDAY_KO[wd]})`;
+  return `${m}/${d}`;
 }
 
 /**
