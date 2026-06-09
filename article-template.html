@@ -171,6 +171,13 @@
   }
   .art__source__cta:hover{transform:translateY(-1px);box-shadow:0 4px 12px -2px rgba(0,0,0,.2)}
   .art__source__cta::after{content:" ↗";margin-left:4px}
+  /* 관련 기사 (같은 카테고리 최근 글) */
+  .art__related{margin-top:40px;padding-top:26px;border-top:1px solid var(--line)}
+  .art__related__h{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:700;letter-spacing:.06em;color:var(--ink-mute);text-transform:uppercase;margin:0 0 4px}
+  .art__rel__item{display:flex;align-items:baseline;justify-content:space-between;gap:14px;padding:14px 0;border-bottom:1px solid var(--line-mute);text-decoration:none}
+  .art__rel__item:hover .art__rel__t{color:var(--tesla-red)}
+  .art__rel__t{color:var(--ink);font-size:16px;font-weight:600;line-height:1.45;word-break:keep-all;transition:color .15s}
+  .art__rel__time{flex-shrink:0;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mute);white-space:nowrap}
 
   .art__disclaimer{
     margin-top:22px;color:var(--ink-mute);font-size:12px;line-height:1.7;
@@ -234,6 +241,8 @@
     번역·요약은 <b>Tesla Briefing</b> 편집부가 한국어로 정리한 것이며, 원문의 모든 뉘앙스를 담지 않을 수 있습니다.
     투자 결정의 책임은 본인에게 있습니다.
   </p>
+
+  <!-- BLOCK:A_RELATED --><!-- /BLOCK:A_RELATED -->
 </article>
 
 <footer>

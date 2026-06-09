@@ -147,7 +147,7 @@
     padding:8px 14px;border-radius:var(--r-pill);
     background:var(--tesla-red);color:#fff;font-size:12.5px;font-weight:700;letter-spacing:.02em;
     transition:background var(--t-1) var(--ease),transform var(--t-1) var(--ease);
-    min-height:36px;display:inline-flex;align-items:center;
+    min-height:44px;display:inline-flex;align-items:center;justify-content:center;  /* 모바일 터치 타겟 44px */
   }
   .nav__cta:hover{background:var(--red-deep);transform:translateY(-1px)}
 
@@ -403,6 +403,12 @@
   .cats__all:hover{color:#fff;border-color:var(--tesla-red);background:var(--red-soft)}
   .cats__grid{display:grid;grid-template-columns:1fr;gap:12px}
   .cats__morewrap{display:flex;justify-content:center;margin-top:20px}
+  .cats__search{display:flex;gap:8px;margin:0 0 16px}
+  .cats__search-input{flex:1;min-width:0;font-size:14px;font-family:inherit;color:var(--ink);background:var(--bg-2);border:1px solid var(--line);border-radius:var(--r-pill);padding:0 18px;min-height:44px;outline:none;transition:border-color var(--t-1) var(--ease)}
+  .cats__search-input::placeholder{color:var(--ink-mute)}
+  .cats__search-input:focus{border-color:var(--tesla-red)}
+  .cats__search-btn{flex-shrink:0;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:13px;font-weight:700;color:var(--ink);background:var(--bg-3);border:1px solid #3A3A45;border-radius:var(--r-pill);padding:0 18px;min-height:44px;cursor:pointer;transition:color var(--t-1) var(--ease),border-color var(--t-1) var(--ease),background var(--t-1) var(--ease)}
+  .cats__search-btn:hover{color:#fff;border-color:var(--tesla-red);background:var(--red-soft)}
 
   .ccard{
     /* 카드 박스만 다크 — 라이트 페이지 위에서 도드라지는 대비.
@@ -434,7 +440,7 @@
   }
   .ccard h3 em{font-style:italic;color:var(--cat-color,var(--tesla-red));font-weight:600}
   .ccard__body{
-    color:var(--ink-mid);font-size:12.5px;margin:0;line-height:1.5;word-break:keep-all;
+    color:var(--ink-mid);font-size:12.5px;margin:0;line-height:1.6;word-break:keep-all;
     display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
   }
   .ccard__meta{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:auto;padding-top:6px;border-top:1px dashed var(--line);flex-wrap:nowrap}
@@ -829,6 +835,11 @@
       </div>
       <span class="cats__sub"><!-- BLOCK:CARDS_TIME -->2026.05.31 09:00 KST 기준 · 최신순<!-- /BLOCK:CARDS_TIME --></span>
     </div>
+
+    <form class="cats__search" action="news.html" method="get" role="search">
+      <input type="search" name="q" class="cats__search-input" placeholder="뉴스 검색 — 로보택시, 실적, FSD, 옵티머스…" aria-label="뉴스 키워드 검색" autocomplete="off" maxlength="40">
+      <button type="submit" class="cats__search-btn">검색</button>
+    </form>
 
     <div class="src-legend">
       <span class="src-legend__items">

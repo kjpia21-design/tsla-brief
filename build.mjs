@@ -495,7 +495,26 @@ function formatArticleDate(pubDate, lang = "ko") {
  * cards.items 의 카드 하나 → 상세 페이지 HTML 1개 생성.
  * article-template.html 의 BLOCK 마커를 카드 데이터로 치환.
  */
-function renderArticle(template, card, lang = "ko") {
+/** 같은 카테고리 최근 기사 최대 4개(자기 제외) — 기사 하단 내부 링크(체류·SEO·탐색). */
+function relatedArticles(card, pool, lang = "ko") {
+  if (!Array.isArray(pool) || pool.length < 2) return "";
+  const rel = pool
+    .filter((c) => c.slug && c.slug !== card.slug && c.category === card.category)
+    .sort((a, b) => (Date.parse(b.pubDate || 0) || 0) - (Date.parse(a.pubDate || 0) || 0))
+    .slice(0, 4);
+  if (rel.length < 2) return "";   // 1개뿐이면 빈약 → 섹션 생략
+  const heading = lang === "en" ? "Related" : "관련 기사";
+  const items = rel.map((c) => {
+    const t = escapeHtml((c.title || "").replace(/<\/?em>/g, ""));
+    const time = escapeHtml(formatArticleDate(c.pubDate, lang) || c.time || "");
+    return `<a class="art__rel__item" href="${escapeHtml(c.slug)}.html">`
+      + `<span class="art__rel__t">${t}</span>`
+      + `<span class="art__rel__time">${time}</span></a>`;
+  }).join("\n      ");
+  return `<nav class="art__related" aria-label="${heading}">\n      <h2 class="art__related__h">${heading}</h2>\n      ${items}\n    </nav>`;
+}
+
+function renderArticle(template, card, lang = "ko", pool = []) {
   const catCls = CATEGORY_CLASS[card.category] || "is-stock";
   const srcLabel = card.sourceLabel || "press";
   const srcDot = SOURCE_LABEL_DOT[srcLabel] || "d-press";
@@ -558,6 +577,7 @@ function renderArticle(template, card, lang = "ko") {
   out = replaceBlock(out, "A_CONFIRM_SRCS", csrc, opts);
   const senti = sentiBadge(card);
   out = replaceBlock(out, "A_SENTI", senti ? ` <span aria-hidden="true">·</span> ${senti}` : "", opts);
+  out = replaceBlock(out, "A_RELATED", relatedArticles(card, pool, lang), opts);  // 관련 기사(같은 카테고리)
   return out;
 }
 
@@ -625,7 +645,7 @@ async function generateArticles(cards, { outDir = OUT_DIR, lang = "ko" } = {}) {
   let generated = 0;
   for (const card of cards.items) {
     if (!card.slug) continue;
-    const html = renderArticle(template, card, lang);
+    const html = renderArticle(template, card, lang, cards.items);
     await writeFile(path.join(articlesDir, `${card.slug}.html`), html, "utf8");
     generated++;
   }

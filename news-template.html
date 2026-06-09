@@ -342,6 +342,12 @@
   prevB.addEventListener('click', () => { page--; render(true); });
   nextB.addEventListener('click', () => { page++; render(true); });
 
+  // 홈 검색 진입점에서 ?q= 로 넘어온 경우 프리필
+  try {
+    const urlQ = new URLSearchParams(location.search).get('q');
+    if (urlQ) { q = urlQ; search.value = urlQ; }
+  } catch {}
+
   // 초기 로드: 전체 이력 인덱스로 1페이지 렌더 (SSR 10건을 페이지네이션 뷰로 대체)
   reset();
 })();
