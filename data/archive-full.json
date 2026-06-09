@@ -1,6 +1,22 @@
 {
-  "asOf": "2026-06-09 20:13 UTC · 누적 255건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-09 21:40 UTC · 누적 256건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-09T17:39:44.000Z",
+      "title": "TipRanks \"<em>탁월한 효율성</em>도 테슬라 주가엔 무소용\"",
+      "hotShort": "TipRanks \"<em>탁월한 효율</em>도 TSLA 주가엔 무소용\"",
+      "body": "TipRanks가 테슬라의 탁월한 효율성(Standout Efficiency)이 당일 주가 하락을 막는 데 전혀 도움이 되지 않았다고 분석했다 — 펀더멘털 강점이 단기 매도 압력 앞에서 주가 방어 기능을 하지 못한 이례적 흐름이다.",
+      "sourceName": "TipRanks",
+      "sourceLabel": "press",
+      "slug": "stock-tipranks-efficiency-no-help-2026-06-09",
+      "summary": "TipRanks가 당일 테슬라 주가 분석에서 '탁월한 효율성도 주가엔 무소용(Standout Efficiency Proves No Help)'이라는 제목으로 보도했다. 이는 테슬라가 전기차 업계에서 돋보이는 운영 효율과 생산성을 보유하고 있음에도 불구하고, 이 펀더멘털 강점이 당일 주가 하락 흐름을 막는 데는 효과를 내지 못했음을 분석한 것이다.\n\n이 분석은 벤징가·인베즈가 같은 날 테슬라 주가 하락 압박을 보도한 것과 같은 맥락이다. JP모건의 전격 목표주가 상향, 유럽 4개국 FSD 승인 등 잇따른 호재에도 주가가 하락 압박을 받은 이날의 구도를 '탁월한 효율조차 무관함'이라는 각도에서 조명한 것이다.\n\n투자자 관점에서 이런 흐름은 단기 차익 실현, 거시 지표 불확실성, 또는 Q2 인도 실적 발표를 앞둔 관망 분위기를 반영할 가능성이 있다. 7월 초 예정된 Q2 인도 수치와 마진 데이터가 펀더멘털 가치의 실질적 검증 포인트다.",
+      "href": "https://www.tipranks.com/news/standout-efficiency-proves-no-help-for-tesla-stock-nasdaqtsla",
+      "sentiment": "bear",
+      "hot": 4
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
