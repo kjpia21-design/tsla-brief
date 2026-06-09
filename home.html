@@ -290,7 +290,7 @@
      HOT NEWS — 가격 바 바로 밑. 제목만 5건, 클릭 → 상세.
      티커처럼 빠르게 훑는 영역.
      ============================================================ */
-  .hot-news{padding:4px 0 26px}
+  .hot-news{padding:4px 0 16px}
   .hot-news__head{
     display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:10px;
   }
@@ -358,6 +358,7 @@
 
   /* 투자자 캘린더 — 핫뉴스 마지막 줄(가장 가까운 일정 + 📅) + 펼침 패널 */
   .ic{margin-top:8px;border-top:1px solid var(--line)}
+  .ic__bar::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--ink-mute);flex-shrink:0}
   .ic__bar{display:flex;align-items:center;gap:9px;padding:13px 14px;cursor:pointer;list-style:none;-webkit-tap-highlight-color:transparent;transition:background var(--t-1) var(--ease)}
   .ic__bar::-webkit-details-marker{display:none}
   .ic__bar:hover,.ic[open] .ic__bar{background:var(--bg-3)}
@@ -374,7 +375,7 @@
   .ic__list{list-style:none;margin:0;padding:0}
   .ic__row{display:flex;align-items:baseline;gap:12px;padding:10px 0;border-bottom:1px solid var(--line-mute)}
   .ic__row:last-child{border-bottom:none}
-  .ic__rdate{flex-shrink:0;min-width:52px;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mid)}
+  .ic__rdate{flex-shrink:0;min-width:74px;white-space:nowrap;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mid)}
   .ic__rtitle{color:var(--ink);font-size:13.5px;font-weight:500;word-break:keep-all;display:flex;align-items:center;gap:7px;flex-wrap:wrap}
   .ic__foot{margin:12px 0 0;font-size:11px;line-height:1.55;color:var(--ink-mute)}
   .ic__foot a{color:var(--ink-mid);text-decoration:underline;text-underline-offset:2px}
@@ -382,7 +383,7 @@
     .ic__lead{display:none}
     .ic__bar{gap:7px}
     .ic__bar .ic__tent{display:none}   /* 모바일 요약 줄: D-day 우선, '잠정'은 펼침 패널·푸터로 */
-    .ic__rdate{min-width:46px}
+    .ic__rdate{min-width:66px}
   }
 
   /* 모바일: 핫뉴스 1줄 고정(스캔 쉽게) + 터치 여백 */
@@ -398,7 +399,7 @@
   /* ============================================================
      CATEGORY CARDS — mobile: 1col stack
      ============================================================ */
-  .cats{padding:20px 0 40px}
+  .cats{padding:12px 0 40px}
   .cats__head{margin-bottom:16px}
   .cats__titlerow{display:flex;align-items:center;justify-content:space-between;gap:12px}
   .cats__beta{
@@ -749,7 +750,7 @@
     .price-bar__price small{font-size:16px}
     .price-bar__change{font-size:16px}
 
-    .cats{padding:24px 0 48px}
+    .cats{padding:14px 0 48px}
     .cats__head{flex-direction:row;align-items:end;justify-content:space-between;flex-wrap:wrap}
     .cats__head .eyebrow{display:inline-block}
     .cats__grid{grid-template-columns:repeat(2,1fr);gap:14px}

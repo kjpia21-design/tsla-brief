@@ -253,7 +253,8 @@ const CATEGORY_SHORT = {
  * - 2차 정렬 (동률): pubDate desc — 같은 hot 이면 최신 우선
  * - 폴백: hot 필드 없으면 기본 5 → 사실상 시간순
  */
-/** YYYY-MM-DD → "7/2" (ko) / "Jul 2" (en). 요일·연도 없이 간소화. */
+const WEEKDAY_EN = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
+/** YYYY-MM-DD → "7/2 THU" (ko) / "Jul 2" (en). 연도 없이, 요일은 영어 약어. TZ 안전(UTC). */
 function fmtCalDate(iso, lang = "ko") {
   const [y, m, d] = (iso || "").split("-").map(Number);
   if (!y || !m || !d) return iso || "";
@@ -261,7 +262,8 @@ function fmtCalDate(iso, lang = "ko") {
     const MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
     return `${MON[m - 1]} ${d}`;
   }
-  return `${m}/${d}`;
+  const wd = WEEKDAY_EN[new Date(Date.UTC(y, m - 1, d)).getUTCDay()];
+  return `${m}/${d} ${wd}`;
 }
 
 /**
