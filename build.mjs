@@ -142,9 +142,11 @@ function renderKpi(kpi) {
     : "—–—";
   const stateShort = (kpi.marketStateShort || kpi.marketState || "").toLowerCase();
   const stateLabel = kpi.marketStateLabel || kpi.marketState || "—";
+  // 초기 등락률(빌드 시점) — 라이브 fetch 실패해도 가격-방향 핫뉴스 모순 숨김에 사용.
+  const changeInit = typeof kpi.changePct === "number" ? ` data-change-init="${kpi.changePct}"` : "";
   return `
       <span class="price-bar__price"><small>TSLA</small><span data-pb-price>${escapeHtml(price)}</span></span>
-      <span class="price-bar__change ${dir}">
+      <span class="price-bar__change ${dir}"${changeInit}>
         <span class="pb-full" data-pb-change-full>${escapeHtml(changeFull)}</span>
         <span class="pb-short" data-pb-change-short>${escapeHtml(changeShort)}</span>
       </span>
@@ -312,10 +314,30 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
     </details>`;
 }
 
+// 주가 "방향성" 카드 — stock(주가·실적) 카테고리에서 급등/급락 등 가격 움직임을 다루는 카드의 방향(up/down).
+//   ① 신선도 가드: 24h 지난 가격-방향 뉴스는 핫뉴스 후보에서 제외(장 상황이 바뀐 '이전 뉴스').
+//   ② data-price-dir 태그: 라이브 주가와 방향이 모순되면 클라이언트(home.html)가 핫뉴스에서 숨김.
+const PRICE_UP_RE   = /급등|폭등|반등|상승|강세|신고가|치솟|뛰|랠리|오름세|surg|soar|rally|jump|rebound|gain|climb|rocket|rise|spike/i;
+const PRICE_DOWN_RE = /급락|폭락|하락|약세|추락|떨어|미끄러|내림세|폭삭|매도세|plunge|drop|tumbl|slump|slide|sink|fall|decline/i;
+function priceDirection(c) {
+  if (!c || c.category !== "stock") return null;        // 주가·실적 카테고리만
+  const txt = `${c.title || ""} ${c.hotShort || ""} ${c.body || ""}`.replace(/<[^>]+>/g, "");
+  const up = PRICE_UP_RE.test(txt), down = PRICE_DOWN_RE.test(txt);
+  if (up === down) return null;                          // 둘 다이거나 둘 다 아님 → 모호, 태그 안 함
+  return up ? "up" : "down";
+}
+const STALE_PRICE_HOURS = 24;
+
 function renderHotNews(cards) {
   const hotOf = (c) => (typeof c.hot === "number" ? c.hot : 5);
   const byHot = (a, b) => (hotOf(b) - hotOf(a)) || (Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
-  const ranked = [...cards.items].sort(byHot);
+  // 신선도 가드 — 오래된 가격-방향 뉴스는 핫 후보에서 제외(최신 뉴스 목록엔 그대로 남음).
+  const nowMs = Date.now();
+  const eligible = cards.items.filter((c) => {
+    if (!priceDirection(c)) return true;
+    return (nowMs - Date.parse(c.pubDate || 0)) / 3600000 <= STALE_PRICE_HOURS;
+  });
+  const ranked = [...eligible].sort(byHot);
 
   // 톤 균형(주주·팬 배려) — 핫뉴스가 부정 일색이 되지 않게 부정(sentiment="bear") 카드를 최대 MAX_NEG 개로 제한.
   //   중요한 악재는 숨기지 않되, 비부정(강세·중립)이 있으면 우선 채워 균형을 맞춘다.
@@ -336,8 +358,10 @@ function renderHotNews(cards) {
   const items = top.map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
+    const dir = priceDirection(c);
+    const dirAttr = dir ? ` data-price-dir="${dir}"` : "";   // 라이브 주가와 모순 시 클라이언트가 숨김
     // 모바일 1줄용 축약 — <em> 제거 후 단어 경계로 잘라 "잘린 듯" 보이지 않게.
-    return `      <li><a class="hot-news__item ${cls}" href="${escapeHtml(href)}">
+    return `      <li><a class="hot-news__item ${cls}"${dirAttr} href="${escapeHtml(href)}">
         <span class="hot-news__title"><span class="hn-full">${c.title}</span><span class="hn-short">${hotShortHtml(c)}</span></span>
       </a></li>`;
   }).join("\n");

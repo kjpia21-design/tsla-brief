@@ -1258,6 +1258,25 @@ function tslaSubscribe(e){
     return `${wd} ${hm} ET`;
   }
 
+  // 라이브 주가와 방향이 모순되는 가격-방향 핫뉴스를 숨김
+  //  (예: 지금 주가 하락 중인데 어제자 '주가 급등' 헤드라인이 핫뉴스에 남아 있는 경우).
+  function syncHotWithPrice(changePct) {
+    const list = document.querySelector('.hot-news__list');
+    if (!list || typeof changePct !== 'number' || Number.isNaN(changePct)) return;
+    const TH = 0.5;  // 0.5% 이상 움직였을 때만 모순 판정 (장중 미세 노이즈 무시)
+    list.querySelectorAll('li').forEach(function (li) {
+      const a = li.querySelector('[data-price-dir]');
+      if (!a) return;
+      const dir = a.getAttribute('data-price-dir');
+      const contradict = (dir === 'up' && changePct < -TH) || (dir === 'down' && changePct > TH);
+      li.style.display = contradict ? 'none' : '';   // 주가 회복 시 다시 표시(토글)
+    });
+    let vis = 0;
+    list.querySelectorAll('li').forEach(function (li) { if (li.style.display !== 'none') vis++; });
+    const cnt = document.querySelector('.hot-news__count');
+    if (cnt) cnt.textContent = '총 ' + vis + '건';
+  }
+
   function render(d) {
     if (!d || typeof d.price !== 'number') return;
     const up = (d.change || 0) >= 0;
@@ -1279,6 +1298,7 @@ function tslaSubscribe(e){
     if ($rangeFull) $rangeFull.textContent = `${fmt(d.dayLow)} – ${fmt(d.dayHigh)}`;
     if ($rangeShort) $rangeShort.textContent = `${Math.round(d.dayLow)}–${Math.round(d.dayHigh)}`;
     if ($asof) $asof.textContent = fmtAsOf(d.asOf);
+    syncHotWithPrice(d.changePct);   // 주가 방향과 모순되는 가격 뉴스 숨김
   }
 
   async function load() {
@@ -1290,6 +1310,10 @@ function tslaSubscribe(e){
       console.warn('[price-bar] load failed:', e.message);
     }
   }
+
+  // 초기 1회 — 빌드 시점 등락률로 모순 카드 숨김(라이브 fetch 전/실패해도 동작).
+  const _initChg = parseFloat(($changeWrap && $changeWrap.getAttribute('data-change-init')) || '');
+  if (!Number.isNaN(_initChg)) syncHotWithPrice(_initChg);
 
   load();
   setInterval(load, POLL_MS);
