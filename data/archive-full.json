@@ -1,6 +1,22 @@
 {
-  "asOf": "2026-06-09 09:56 UTC · 누적 246건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-09 11:45 UTC · 누적 247건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-09T09:00:00.000Z",
+      "title": "글로브앤메일 \"<em>테슬라, 자동차 제조엔 무관심</em>\" — 전략 전환 비판",
+      "hotShort": "글로브앤메일 \"<em>자동차 제조엔 무관심</em>\" 비판 칼럼",
+      "body": "캐나다 유력 일간지 글로브앤메일이 테슬라가 더 이상 자동차 제조에 집중하지 않는 것처럼 보인다는 비판적 칼럼을 게재했다 — AI·로보택시 전략 전환이 가속화되는 가운데, 완성차 제조업체로서의 정체성에 대한 외부 회의론을 보여주는 신호다.",
+      "sourceName": "The Globe and Mail",
+      "sourceLabel": "press",
+      "slug": "stock-globemail-tesla-not-care-cars-2026-06-09",
+      "summary": "글로브앤메일(The Globe and Mail)은 캐나다의 대표 일간지로, 이번 칼럼은 자동차 문화 섹션('Drive > Culture')에 게재됐다. 기사 제목 'Tesla doesn't seem to care about making cars anymore'는 테슬라가 전통적인 자동차 제조보다 다른 사업 분야에 우선순위를 두고 있다는 언론의 비판적 시각을 담고 있다.\n\n테슬라는 최근 로보택시 서비스 확장(오스틴·댈러스·휴스턴에 이어 라스베이거스 자율주행 허가 신청), FSD 고도화, 옵티머스 로봇 상용화 등 AI·자율주행 분야에 집중 투자하고 있다. 이 과정에서 신차 라인업 확대 속도나 생산 볼륨 성장이 전통 완성차 기업의 척도와 다른 방향으로 전개되고 있다는 지적이 일부 매체에서 꾸준히 제기됐다.\n\n투자자 입장에서 이런 미디어 내 비판적 시각은 테슬라의 밸류에이션 논쟁과 직결된다 — 전통 자동차 기업 기준으로는 높은 밸류에이션이 부담이지만, AI·로봇·자율주행 기업으로 재평가받으면 다른 척도가 적용된다는 시각도 공존한다. 테슬라가 자동차 제조와 기술 전환 두 축을 어떻게 균형 잡느냐가 앞으로의 핵심 변수다.",
+      "href": "https://www.theglobeandmail.com/drive/culture/article-tesla-doesnt-seem-to-care-about-making-cars-anymore/",
+      "sentiment": "bear",
+      "hot": 5
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
