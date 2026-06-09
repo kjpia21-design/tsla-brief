@@ -33,6 +33,22 @@
       "hot": 6
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-06-09T10:40:49.000Z",
+      "title": "로이터, 스페이스X 증시 데뷔 — <em>공매도 세력 신중</em> 경고",
+      "hotShort": "로이터, 스페이스X 데뷔로 <em>공매도 신중</em> 권고",
+      "body": "로이터가 스페이스X의 증시 데뷔를 앞두고 공매도 투자자들이 신중하게 접근해야 한다고 보도했다 — 일론 머스크 포트폴리오가 다중 상장 구조로 확장되면서, 테슬라를 포함한 머스크 생태계 전반의 숏 포지션 리스크가 새로운 국면을 맞이하고 있음을 시사한다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-debut-short-sellers-reuters-2026-06-09",
+      "summary": "로이터(Reuters)에 따르면 스페이스X(SpaceX)가 증시에 데뷔하는 시점에 공매도 투자자들이 각별히 신중하게 움직여야 한다는 분석이 보도됐다. 제목 \"Short-sellers to tread carefully as Musk's SpaceX debuts\"가 시사하듯, 머스크가 이끄는 기업의 시장 등장이 공매도 세력에게 새로운 리스크 변수가 된다는 내용이다.\n\n스페이스X는 일론 머스크가 이끄는 민간 우주 탐사·위성 통신 기업으로, 상장사인 테슬라와 달리 오랫동안 비공개(프라이빗) 형태로 운영돼왔다. 스페이스X의 공개 데뷔는 머스크 포트폴리오에 또 하나의 시장 노출 자산이 추가됨을 의미하며, 이는 테슬라 투자자들에게도 주목할 만한 변화다.\n\n공매도 투자자 입장에서는 머스크 관련 주식의 범위가 넓어질수록 스퀴즈 리스크가 복잡해진다. 로이터가 스페이스X 데뷔 시점에 이 주제를 전면 보도했다는 점 자체가, 이번 데뷔가 테슬라를 포함한 머스크 관련 종목 전반의 시장 심리에 의미 있는 이벤트임을 방증한다.",
+      "href": "https://www.reuters.com/legal/government/short-sellers-tread-carefully-musks-spacex-debuts-2026-06-09/",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
@@ -63,28 +79,7 @@
       "href": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-stock-rocketing-034150415.html",
       "sentiment": "bull",
       "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
-      "pubDate": "2026-06-08T19:14:46.000Z",
-      "title": "테슬라 로보택시 다음 행선지는 <em>라스베이거스</em> — 네바다 자율주행 허가 신청",
-      "hotShort": "로보택시 다음 행선지 <em>라스베이거스</em>",
-      "body": "테슬라가 로보택시의 다음 확장지로 라스베이거스를 사실상 지목했다 — 네바다주에 자율주행차 사업자 허가를 신청해, 클라크 카운티(라스베이거스·헨더슨 공항 등)에서 출시 12개월 내 최대 5,000대 운영을 목표로 한다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-next-expansion-hint-2026-06-08",
-      "summary": "테슬라라티에 따르면 테슬라가 로보택시 서비스의 다음 확장지로 라스베이거스(네바다)를 사실상 지목했다. 네바다주에 자율주행차 사업자(AVN) 허가를 신청했으며, 클라크 카운티 내 라스베이거스·헨더슨 공항 등 고밀도 지역에서 출시 12개월 이내 최대 5,000대 로보택시 운영을 목표로 제시했다.\n\n라스베이거스는 Q4 2025 주주 발표에서 2026년 상반기 출시 예정 도시로 이미 거론됐고, 피닉스·마이애미·올랜도·탬파도 후보로 언급된 바 있다. 오스틴(비지도 운영 확대)·댈러스·휴스턴(출시 완료)에 이어 관광 수요가 큰 라스베이거스로 확장이 가시화되며, 로보택시 스케일업 속도가 다음 핵심 변수다. 라스베이거스 현지 방송 KLAS 8 News Now도 같은 소식을 확인 보도했다.",
-      "href": "https://www.teslarati.com/tesla-tipped-its-hand-where-robotaxi-heading-next/",
-      "sentiment": "bull",
-      "hot": 6,
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "KLAS 8 News Now"
-      ]
     }
   ],
-  "asOf": "2026-06-09 21:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-10 00:08 KST 자동 갱신 · 최신순"
 }
