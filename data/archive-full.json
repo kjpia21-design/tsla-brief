@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-09 13:40 UTC · 누적 249건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-09 15:40 UTC · 누적 250건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "stock",
@@ -31,6 +31,22 @@
       "summary": "오토에볼루션에 따르면 테슬라는 6만 달러 사이버트럭 AWD 모델에 적용되는 FSD(Full Self-Driving) 이전 약관을 수정했으며, 이에 반발해 기존 주문자들이 대거 주문을 취소하는 사태가 발생했다. 구체적인 약관 변경 내용은 오토에볼루션 원문에서 확인 가능하다.\n\nFSD 이전 정책은 기존에 FSD를 구매·구독 중인 고객이 새 차량(사이버트럭 등)으로 해당 라이선스를 옮길 수 있는지 여부를 규정한다. 이 정책은 실질적인 차량 구매 비용에 직결되기 때문에, FSD 보유 고객들은 이전 가능성을 전제로 사이버트럭을 주문했을 가능성이 크다.\n\n테슬라가 이 조건을 수정함으로써 기존 주문자들의 기대가 어긋나게 됐으며, 집단 취소 사태로 이어진 배경에는 예고 없는 정책 변경에 대한 불만이 있는 것으로 보인다. 테슬라는 과거에도 FSD 가격과 이전 정책을 여러 차례 수정한 바 있어 관련 논쟁이 재점화된 상황이다.\n\n사이버트럭 AWD 6만 달러 모델은 이전 고가 트림 대비 접근성이 높은 가격대로 주목받았다. 이 모델에서의 FSD 정책 변경과 집단 취소는 단기적으로 수요 수치에 영향을 줄 수 있으며, 테슬라의 FSD 상품 정책 방향성에 대한 시장의 모니터링 필요성도 시사한다.",
       "href": "https://www.autoevolution.com/news/orders-of-the-60k-cybertruck-awd-canceled-en-masse-after-tesla-modified-fsd-transfer-conditions-271230.html",
       "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-06-09T10:40:49.000Z",
+      "title": "로이터, 스페이스X 증시 데뷔 — <em>공매도 세력 신중</em> 경고",
+      "hotShort": "로이터, 스페이스X 데뷔로 <em>공매도 신중</em> 권고",
+      "body": "로이터가 스페이스X의 증시 데뷔를 앞두고 공매도 투자자들이 신중하게 접근해야 한다고 보도했다 — 일론 머스크 포트폴리오가 다중 상장 구조로 확장되면서, 테슬라를 포함한 머스크 생태계 전반의 숏 포지션 리스크가 새로운 국면을 맞이하고 있음을 시사한다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-debut-short-sellers-reuters-2026-06-09",
+      "summary": "로이터(Reuters)에 따르면 스페이스X(SpaceX)가 증시에 데뷔하는 시점에 공매도 투자자들이 각별히 신중하게 움직여야 한다는 분석이 보도됐다. 제목 \"Short-sellers to tread carefully as Musk's SpaceX debuts\"가 시사하듯, 머스크가 이끄는 기업의 시장 등장이 공매도 세력에게 새로운 리스크 변수가 된다는 내용이다.\n\n스페이스X는 일론 머스크가 이끄는 민간 우주 탐사·위성 통신 기업으로, 상장사인 테슬라와 달리 오랫동안 비공개(프라이빗) 형태로 운영돼왔다. 스페이스X의 공개 데뷔는 머스크 포트폴리오에 또 하나의 시장 노출 자산이 추가됨을 의미하며, 이는 테슬라 투자자들에게도 주목할 만한 변화다.\n\n공매도 투자자 입장에서는 머스크 관련 주식의 범위가 넓어질수록 스퀴즈 리스크가 복잡해진다. 로이터가 스페이스X 데뷔 시점에 이 주제를 전면 보도했다는 점 자체가, 이번 데뷔가 테슬라를 포함한 머스크 관련 종목 전반의 시장 심리에 의미 있는 이벤트임을 방증한다.",
+      "href": "https://www.reuters.com/legal/government/short-sellers-tread-carefully-musks-spacex-debuts-2026-06-09/",
+      "sentiment": "bull",
       "hot": 6
     },
     {
