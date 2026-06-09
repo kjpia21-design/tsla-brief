@@ -1,6 +1,54 @@
 {
-  "asOf": "2026-06-09 16:33 UTC · 누적 250건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-09 17:40 UTC · 누적 254건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "26m ago",
+      "pubDate": "2026-06-09T16:07:22.000Z",
+      "title": "덴마크, 테슬라 FSD 잠정 승인 — <em>8주 만에 유럽 4번째</em>",
+      "hotShort": "덴마크 FSD 잠정 승인 — <em>유럽 8주 만에 4번째</em>",
+      "body": "덴마크 도로교통청(Færdselsstyrelsen)이 테슬라 FSD(감독 지원)를 잠정 승인했다 — 약 8주 만에 4번째 유럽 국가가 승인을 내주면서, EU 규제 장벽이 예상보다 빠르게 허물어지고 있다는 신호다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-denmark-approved-fourth-eu-2026-06-09",
+      "summary": "덴마크 도로교통청(Færdselsstyrelsen)이 테슬라의 FSD(Full Self-Driving · 감독 지원) 소프트웨어에 잠정 승인을 부여했다고 일렉트렉(Electrek)이 보도했다. 이로써 덴마크는 약 8주 사이에 FSD를 승인한 네 번째 유럽 국가가 됐다.\n\n2개월 안에 유럽 4개국이 FSD를 허가한 속도는 EU 규제 환경이 예상보다 빠르게 우호적으로 변화하고 있음을 보여준다. 앞서 6월 30일 EU 전체 회의에서 FSD 승인 투표가 의제에서 제외됐다는 소식이 있었는데, 개별 국가 단위의 승인이 오히려 빠르게 쌓이는 대조적 흐름이다.\n\n덴마크는 전기차 보급률이 높고 스칸디나비아 지역에서 테슬라 보급이 활발한 시장이다. 'Supervised(감독 지원)' 모드로서의 잠정 승인이므로 운전자가 주의를 유지해야 하는 조건이지만, 이는 비지도(Unsupervised) 로보택시로 가는 규제 경로의 첫 단계이기도 하다.\n\n테슬라 주주 관점에서 유럽 FSD 채택 확대는 FSD 구독 수익 기반과 향후 로보택시 서비스 확장에 필요한 규제 기반을 동시에 구축하는 의미가 있다. 유럽 내 FSD 허가 국가 수가 늘어날수록 테슬라의 글로벌 자율주행 수익 잠재력도 함께 커진다.",
+      "href": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/",
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-09T15:16:20.000Z",
+      "title": "로이터, 스페이스X 高밸류에이션 — <em>일론 프리미엄</em> 시험대 올라",
+      "hotShort": "스페이스X 高밸류에이션 — <em>일론 프리미엄</em> 첫 시험",
+      "body": "로이터가 스페이스X의 높은 밸류에이션이 '일론 프리미엄(Elon Premium)'을 본격 시험받게 될 것이라고 분석했다 — 이 프리미엄은 테슬라 주가에도 동일하게 작용하는 개념으로, 스페이스X 상장이 머스크 생태계 전반의 가치를 시장이 공개적으로 재산정하는 계기가 될 수 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-elon-premium-test-reuters-2026-06-09",
+      "summary": "로이터(Reuters)가 스페이스X의 높은 밸류에이션이 '일론 프리미엄(Elon Premium)'을 시험대에 올릴 것이라는 분석을 게재했다. '일론 프리미엄'이란 일론 머스크가 이끄는 기업들이 그의 리더십·비전 덕분에 유사한 사업을 가진 다른 기업보다 높은 밸류에이션을 부여받는 현상을 지칭한다.\n\n스페이스X가 공개 시장에 데뷔하면, 투자자들은 처음으로 이 프리미엄이 시장 가격에 얼마나 반영될지를 직접 확인하게 된다. 지금까지 스페이스X는 비공개(프라이빗) 기업으로 밸류에이션이 내부 라운드 기준이었으나, 상장 후에는 공개 시장이 일론 프리미엄의 크기를 실시간으로 측정하게 된다.\n\n이 분석이 테슬라 투자자에게도 의미를 갖는 이유는, 테슬라 주가에도 상당 부분 일론 프리미엄이 반영돼 있기 때문이다. 스페이스X 상장 후 일론 프리미엄의 시장 평가가 공개되면, 테슬라 밸류에이션에 포함된 같은 프리미엄의 크기도 비교 기준이 생긴다. 이 프리미엄이 기대보다 작게 평가될 경우 TSLA에도 간접 영향이 있을 수 있다는 점은 염두에 둘 필요가 있다.\n\n앞서 로이터는 스페이스X 데뷔를 앞두고 공매도 세력이 신중해야 한다는 다른 분석도 게재했다. 이번 '일론 프리미엄 시험대' 기사는 그와 다른 각도로, 높은 밸류에이션 자체가 시장 검증을 받게 된다는 점에 주목한 분석이다.",
+      "href": "https://www.reuters.com/legal/legalindustry/spacexs-lofty-valuation-set-put-elon-premium-test-2026-06-09/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-09T14:05:15.000Z",
+      "title": "모틀리풀 \"최대 약세론자 이탈 후 테슬라 — <em>지금 매수 시점인가</em>\"",
+      "hotShort": "모틀리풀, JP모건 이탈 후 테슬라 <em>지금 매수 시점?</em>",
+      "body": "모틀리풀이 JP모건의 테슬라 약세 기조 공식 철회 이후 '지금이 매수 시점인가'를 분석했다 — 월가 최대 약세 기관의 전환이 단순 모멘텀인지, 장기 투자 근거가 새로 마련된 것인지를 재검토하는 균형 시각이다.",
+      "sourceName": "The Motley Fool",
+      "sourceLabel": "press",
+      "slug": "stock-motley-fool-biggest-bear-gone-2026-06-09",
+      "summary": "모틀리풀(The Motley Fool)이 JP모건의 테슬라 약세 기조 철회를 계기로 '지금 테슬라 주식은 살 만한가(Is the Stock a Buy?)'를 분석한 기사를 게재했다. JP모건은 그간 월가에서 테슬라에 가장 비관적인 스탠스를 유지해온 대형 투자은행으로, 이 기관의 공식 입장 전환은 '최대 약세론자 이탈'로 시장에서 평가됐다.\n\n모틀리풀은 미국의 대표적인 소매 투자자 교육·분석 매체다. JP모건 업그레이드 이후 '지금 사야 하나'라는 질문을 핵심 주제로 다룬 것은, 기관 전환 이후 개인 투자자들이 가장 많이 던지는 질문에 응답한 독립적 분석이다.\n\n이런 분석의 핵심 쟁점은 기관 업그레이드가 '선반영(priced-in)' 됐는지 여부다 — JP모건 업그레이드 발표 전후로 테슬라 주가가 이미 큰 폭으로 올랐다면, 이 소식을 보고 진입하는 투자자는 이미 반영된 기대에 더해 추가 상승 여력이 있는지를 따져야 한다.\n\n기사의 구체적인 분석 결론은 모틀리풀 원문에서 확인할 수 있다. 투자자라면 기관 투자의견 전환 이후 주가가 어느 정도 선반영됐는지 스스로 점검하고, FSD·로보택시·에너지 사업의 실질 펀더멘털 변화와 함께 진입 타이밍을 판단하는 것이 중요하다.",
+      "href": "https://www.fool.com/investing/2026/06/09/tesla-lost-biggest-bears-is-stock-buy/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -32,6 +80,22 @@
       "href": "https://www.autoevolution.com/news/orders-of-the-60k-cybertruck-awd-canceled-en-masse-after-tesla-modified-fsd-transfer-conditions-271230.html",
       "sentiment": "bear",
       "hot": 6
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-06-09T11:20:29.000Z",
+      "title": "TipRanks 분석가 \"TSLA에 <em>증거를 요구한다</em>\" — 주가 회의론",
+      "hotShort": "TipRanks 분석가, TSLA에 <em>증거 요구</em>",
+      "body": "TipRanks 분석가가 테슬라 주가의 현 수준을 정당화할 실질적 증거가 부족하다는 회의론을 게재했다 — JP모건 업그레이드와 로보택시 기대로 주가가 오른 시점에, 펀더멘털 검증을 촉구하는 목소리가 균형추로 작동하고 있다.",
+      "sourceName": "TipRanks",
+      "sourceLabel": "press",
+      "slug": "stock-tipranks-wheres-the-proof-2026-06-09",
+      "summary": "TipRanks에 게재된 분석이 '증거가 어디 있나(Where's the Proof?)'라는 제목으로 테슬라 주가를 뒷받침할 실질적 근거를 요구하는 회의론을 제기했다. JP모건 업그레이드·FSD 안전 데이터·로보택시 확장 소식 등으로 주가가 강세를 보이는 국면에서, 이에 신중론이 맞불을 놓은 형국이다.\n\n'증거를 요구한다'는 표현은 투자자들이 자주 던지는 질문을 직접적으로 담은 것이다 — 테슬라가 현재 주가를 정당화하는 실적·수익화 증거를 충분히 제시하고 있는가? FSD 구독 매출·로보택시 수익·에너지 사업 성장 등 수치가 밸류에이션 프리미엄을 실질적으로 뒷받침하기 시작했는가?\n\nTipRanks는 애널리스트 예측 정확도를 추적하는 금융 데이터 플랫폼이다. 이 분석의 회의론적 입장은 현재 테슬라 주가 상승이 기대 선반영에 기반하며, 실제 분기 실적으로 그 기대가 입증될 때까지 증거가 부족하다는 주장으로 해석된다.\n\n투자자 관점에서 이런 회의론은 중요한 균형추 역할을 한다. 강세 모멘텀 속에서도 7월 초 발표 예정인 Q2 인도 실적·FSD 수익화 지표를 꼼꼼히 검토해 기대가 실제로 뒷받침되는지 확인하는 것이 핵심이다.",
+      "href": "https://www.tipranks.com/news/wheres-the-proof-says-analyst-about-tesla-stock",
+      "sentiment": "bear",
+      "hot": 5
     },
     {
       "category": "musk",
