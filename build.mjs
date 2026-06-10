@@ -11,6 +11,8 @@
  */
 
 import { readFile, writeFile, mkdir, cp, rm } from "node:fs/promises";
+import { readdirSync } from "node:fs";
+import { execSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
@@ -698,6 +700,7 @@ function renderArticle(template, card, lang = "ko", pool = []) {
   const senti = sentiBadge(card);
   out = replaceBlock(out, "A_SENTI", senti ? ` <span aria-hidden="true">·</span> ${senti}` : "", opts);
   out = replaceBlock(out, "A_RELATED", relatedArticles(card, pool, lang), opts);  // 관련 기사(같은 카테고리)
+  out = replaceBlock(out, "A_OG_IMG", escapeHtml(ogImageUrl(card)), opts);        // 기사별 OG (og:image + twitter:image)
   return out;
 }
 
@@ -900,6 +903,30 @@ async function buildOneLang(opts) {
 // ─────────────────────────────────────────────────────────────
 // SEO: 구조화 데이터(JSON-LD) · sitemap.xml · robots.txt · rss.xml
 // ─────────────────────────────────────────────────────────────
+// 기사별 OG 이미지 — scripts/make_og_articles.py 가 생성한 assets/og/{slug}.png.
+// 생성 실패·미존재 시 브랜드 공용 이미지 폴백 (공유 미리보기 404 방지).
+let OG_SLUGS = new Set();
+function ogImageUrl(card) {
+  return card.slug && OG_SLUGS.has(card.slug)
+    ? `${SITE}/assets/og/${card.slug}.png`
+    : `${SITE}/assets/og-image.png`;
+}
+/** 기사 OG PNG 생성 (Python PIL). CI 에 Pillow 없으면 설치 시도, 그래도 실패면 건너뜀(논페이탈). */
+function generateOgImages() {
+  const run = () => execSync("python3 scripts/make_og_articles.py", { cwd: ROOT, stdio: "inherit", timeout: 180000 });
+  try { run(); } catch {
+    try {
+      console.warn("[build] Pillow 미설치 추정 — pip install 후 재시도");
+      execSync("python3 -m pip install --quiet Pillow", { cwd: ROOT, stdio: "inherit", timeout: 240000 });
+      run();
+    } catch (e) { console.warn(`[build] ⚠ 기사 OG 생성 건너뜀(브랜드 이미지 폴백): ${e.message.split("\n")[0]}`); }
+  }
+  try {
+    OG_SLUGS = new Set(readdirSync(path.join(ASSETS_DIR, "og")).filter((f) => f.endsWith(".png")).map((f) => f.slice(0, -4)));
+  } catch { OG_SLUGS = new Set(); }
+  console.log(`[build] 기사 OG 이미지 ${OG_SLUGS.size}건 사용 가능`);
+}
+
 function articleJsonLd(card) {
   const headline = (card.title || "").replace(/<\/?em>/g, "").trim();
   const url = `${SITE}/articles/${card.slug}`;
@@ -912,7 +939,7 @@ function articleJsonLd(card) {
     description: desc,
     url,
     mainEntityOfPage: { "@type": "WebPage", "@id": url },
-    image: [`${SITE}/assets/og-image.png`],
+    image: [ogImageUrl(card)],
     inLanguage: "ko",
     author: { "@type": "Organization", name: "Tesla Brief!ng", url: `${SITE}/` },
     publisher: {
@@ -960,6 +987,8 @@ function buildRss(items) {
 }
 
 async function main() {
+  generateOgImages();   // 기사별 OG PNG (renderArticle 이 OG_SLUGS 를 참조하므로 빌드 전에)
+
   // ─── Korean (메인) ─────────────────────────────────────────
   const ko = await buildOneLang({
     templateName: "home.html",

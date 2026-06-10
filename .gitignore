@@ -8,5 +8,7 @@ dist/
 # 일회용 시드/디버그 임시 산출물
 data/raw-archive-seed.json
 data/raw-cards.test.json
+# 기사별 OG 이미지 — 빌드 시 scripts/make_og_articles.py 가 재생성 (리포 비대화 방지)
+assets/og/
 # Cloudflare Worker 로컬 캐시
 worker/.wrangler/
