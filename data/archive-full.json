@@ -15,7 +15,11 @@
       "summary": "TipRanks가 6월 10일 보도한 바에 따르면, 중국 전기차 1위 BYD가 야심찬 5개년 성장 계획을 발표한 여파로 TSLA 주가가 하락 압박을 받고 있다. BYD는 배터리·전기차·스마트카 전 분야에서 글로벌 시장 선도 지위를 강화하겠다는 목표를 내세웠다.\n\nBYD는 순수 전기차(BEV) 글로벌 판매에서 테슬라와 경쟁하는 한편, 플러그인 하이브리드(PHEV)를 포함한 신에너지차 전체 기준으로는 이미 테슬라를 앞서고 있다. 5개년 계획의 구체적인 판매 목표나 기술 투자 규모에 따라 시장의 우려 강도는 달라질 수 있다.\n\n테슬라 투자자 입장에서는 순수 차량 판매 경쟁보다 FSD·에너지·로보택시 등 비(非)자동차 사업의 모멘텀이 장기 밸류에이션을 좌우한다는 시각도 있다. 다만 단기적으로는 P/E 부담 인식과 맞물려 외부 경쟁 뉴스에 TSLA가 민감하게 반응할 수 있다.",
       "href": "https://www.tipranks.com/news/tesla-stock-tsla-slides-as-archrival-byd-sets-an-ambitious-five-year-target",
       "sentiment": "bear",
-      "hot": 5
+      "hot": 5,
+      "title_en": "TipRanks: BYD's <em>bold five-year plan</em> pressures TSLA shares",
+      "hotShort_en": "BYD's <em>bold five-year plan</em> pressures TSLA",
+      "body_en": "China EV leader BYD unveiled an ambitious five-year plan to seize global leadership, and TipRanks says it is weighing on TSLA. BYD's aggressive expansion raises the competitive bar for Tesla's global share.",
+      "summary_en": "Per TipRanks (June 10), TSLA shares are under pressure after China's top EV maker BYD announced an ambitious five-year growth plan, vowing to strengthen its global lead across batteries, EVs and smart cars.\n\nBYD competes with Tesla in pure battery-EV sales globally and already outsells it on a broader new-energy-vehicle basis that includes plug-in hybrids. How much the market worries will hinge on the plan's specific sales targets and investment scale.\n\nSome argue that for Tesla, non-auto momentum — FSD, energy, robotaxi — matters more to long-term valuation than raw vehicle competition. Still, near term, TSLA can react sharply to competitive news when paired with concerns about its rich multiple."
     },
     {
       "category": "fsd",
@@ -31,7 +35,11 @@
       "summary": "블룸버그가 6월 10일 공개한 심층 탑승 취재에 따르면, 테슬라 오스틴 로보택시 서비스의 현재 운행 차량은 단 59대에 그친다. 일론 머스크는 FSD 기반 수백만 대 규모의 로보택시 플릿을 수차례 예고했으나, 상용 출시 이후에도 서비스 규모는 여전히 시범 수준에 머물러 있다.\n\n취재진이 직접 탑승해 체험한 결과, 배차 대기가 수십 분에 달하고 주행 중 예고 없는 급제동과 가다서다 반복이 빈번했다고 보도했다. 블룸버그는 이를 두고 머스크의 약속 대비 기대치에 미치지 못한 서비스라고 평가했다.\n\n테슬라는 오스틴 이후 라스베이거스 등 추가 도시 확장을 계획하고 있지만, 서비스 품질과 규모 모두 개선이 선행돼야 한다는 지적이다. 로보택시 사업이 테슬라 밸류에이션에서 핵심 근거로 거론되는 만큼, 투자자들은 단순한 확장 발표보다 실질 운행 품질·규모 지표를 면밀히 추적할 필요가 있다.",
       "href": "https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises",
       "sentiment": "bear",
-      "hot": 8
+      "hot": 8,
+      "title_en": "Bloomberg: Austin robotaxis number <em>just 59</em> — waits and hard braking",
+      "hotShort_en": "Bloomberg confirms <em>just 59</em> Austin robotaxis",
+      "body_en": "Bloomberg rode Austin's robotaxis directly and found only 59 vehicles in service, with waits of tens of minutes and repeated hard braking. The gap from Musk's millions-of-robotaxis promise could weigh on investor confidence.",
+      "summary_en": "In an in-depth ride-along published June 10, Bloomberg found Tesla's Austin robotaxi service running just 59 vehicles. Musk has repeatedly promised an FSD-based fleet of millions, yet even post-launch the service remains pilot-scale.\n\nReporters who rode along described dispatch waits of tens of minutes and frequent unannounced hard braking and stop-and-go. Bloomberg judged the service as falling short of the expectations set by Musk's promises.\n\nTesla plans to expand beyond Austin to cities like Las Vegas, but both service quality and scale need to improve first. With robotaxi central to Tesla's valuation case, investors should track real operating quality and scale — not just expansion announcements."
     },
     {
       "category": "product",
@@ -47,7 +55,11 @@
       "summary": "테슬라 공장·차량 전문 저널리스트 조 텍트마이어(@JoeTegtmeyer)가 6월 10일 유럽 슈퍼차저를 직접 이용한 후 경험을 공유했다. 그는 '유럽 슈퍼차징은 미국과 매우 유사하다 — 원활한 사용자 경험으로 업계 최고 수준'이라고 밝혔다.\n\n테슬라 슈퍼차저 네트워크는 전용 앱 기반 결제, 자동 충전 세션, 직관적인 UI로 이용 편의성이 높다는 평가를 받는다. 타사 전기차 오너들도 일부 슈퍼차저를 사용할 수 있게 되면서 네트워크의 수익화 가능성도 확대되고 있다.\n\n유럽은 BYD를 비롯한 중국 브랜드의 공세가 거세지는 시장이지만, 슈퍼차저 네트워크의 일관된 품질은 테슬라가 브랜드 충성도를 유지하는 핵심 요소 중 하나다. 장거리 여행 신뢰성 측면의 우위는 단기간에 따라오기 어렵다는 평가다.",
       "href": "https://x.com/JoeTegtmeyer/status/2064650859330379796",
       "sentiment": "bull",
-      "hot": 3
+      "hot": 3,
+      "title_en": "Tegtmeyer: Europe Supercharging delivers a <em>US-equivalent</em> experience",
+      "hotShort_en": "Europe Supercharging is <em>on par with the US</em>",
+      "body_en": "Tesla-focused journalist Joe Tegtmeyer shared hands-on impressions of European Superchargers, calling them \"very similar to the US — best-in-class.\" The network's global consistency is one of Tesla's core edges over rival charging networks.",
+      "summary_en": "Tesla journalist Joe Tegtmeyer (@JoeTegtmeyer) shared his experience after using European Superchargers on June 10, saying it is \"very much like the US — a seamless, best-in-class experience.\"\n\nTesla's Supercharger network is praised for app-based payment, automatic charging sessions and an intuitive UI. As non-Tesla EVs gain access to some stalls, the network's monetization potential is also expanding.\n\nEurope faces fierce pressure from Chinese brands like BYD, but the Supercharger network's consistent quality is one key reason Tesla retains brand loyalty. Its edge in long-distance travel reliability is hard for rivals to match quickly."
     },
     {
       "category": "product",
@@ -68,7 +80,11 @@
         "Tesla Owners SV (X)"
       ],
       "sentiment": "bull",
-      "hot": 6
+      "hot": 6,
+      "title_en": "Tesla begins <em>Smart Summon rollout</em> to Cybertruck",
+      "hotShort_en": "Tesla rolls out <em>Smart Summon</em> to Cybertruck",
+      "body_en": "Tesla's official X account announced a Smart Summon rollout for Cybertruck. Bringing app-based remote vehicle calling to the pickup line takes cross-model feature integration in the FSD ecosystem a step further.",
+      "summary_en": "Tesla's official X account (@Tesla) announced on June 10 that Summon is \"coming soon\" to Cybertruck. The Tesla Owners SV community confirmed it as Smart Summon and said the rollout had begun reaching some vehicles immediately.\n\nSmart Summon lets a driver remotely call the vehicle across a parking lot or maneuver it around obstacles via the smartphone app. Already on Model 3, Y, S and X, the feature is now integrated across Tesla's full lineup with this Cybertruck addition.\n\nLong requested by Cybertruck owners, the rollout reaffirms Tesla's signature strength: continuously adding value through over-the-air updates."
     },
     {
       "category": "stock",
@@ -84,7 +100,11 @@
       "summary": "MSN이 테슬라 중국 판매 반등 소식을 전하면서도, TSLA 주가의 높은 주가수익비율(P/E) 배수가 투자를 망설이게 하는 핵심 장벽이라고 짚었다. 기사 제목 'Tesla sales in China are popping, but that means nothing if you can't stomach TSLA stock's absurd P/E ratio'는 실적 개선과 밸류에이션 부담 사이의 긴장을 직접 표현한다.\n\n테슬라의 P/E 배수는 전통 자동차 제조사는 물론 대다수 기술주와 비교해도 높은 수준으로 평가된다. 이는 AI·로보택시·옵티머스 등 미래 사업에 대한 기대가 현 주가에 이미 선반영됐다는 의미이기도 하다. 좋은 판매 데이터가 나와도 '기대가 이미 반영된' 주가에 추가 상승 여력이 제한될 수 있다는 논리다.\n\n중국 판매 22% 반등과 같은 긍정 지표가 나와도 P/E 부담 해소가 동반되지 않으면 주가의 실질적 돌파구가 되기 어렵다는 시각이다. 투자자 관점에서 이는 성장 스토리를 인정하면서도 '지금이 적정 매수 시점인가'에 의문을 제기하는 균형추 역할을 한다.\n\n테슬라의 밸류에이션이 정당화되려면 FSD 수익화·로보택시 수익·에너지 사업 성장 등이 실제 실적으로 증명돼야 한다. 7월 초 Q2 인도 수치와 마진 지표가 이 P/E 논쟁의 다음 검증 포인트다.",
       "href": "https://www.msn.com/en-us/money/topstocks/tesla-sales-in-china-are-popping-but-that-means-nothing-if-you-can-t-stomach-tsla-stock-s-absurd-p-e-ratio/ar-AA2505cC",
       "sentiment": "bear",
-      "hot": 5
+      "hot": 5,
+      "title_en": "MSN: China sales rebound, but <em>TSLA's P/E</em> still walls off the stock",
+      "hotShort_en": "China rebounds, but <em>TSLA's P/E</em> is the wall",
+      "body_en": "Tesla's China sales broke a two-month slump and rebounded, but MSN says TSLA's high P/E multiple is still an investing barrier — a warning that better sales won't translate into share appeal until the valuation premium eases first.",
+      "summary_en": "Reporting Tesla's China sales rebound, MSN nonetheless flagged TSLA's high price-to-earnings multiple as the key barrier holding investors back. The headline captures the tension between improving results and valuation strain.\n\nTesla's P/E sits well above legacy automakers and most tech stocks. That reflects how much expectation for AI, robotaxi and Optimus is already priced in — meaning even good sales data may face limited upside on a stock that has already priced in the optimism.\n\nEven a positive signal like a 22% China rebound struggles to become a real breakout without the P/E concern easing alongside it. For investors, it is the counterweight: acknowledging the growth story while questioning whether now is the right entry.\n\nJustifying the valuation requires FSD monetization, robotaxi revenue and energy growth to show up in actual results. Early-July Q2 deliveries and margins are the next test of this P/E debate."
     },
     {
       "category": "product",
@@ -100,7 +120,11 @@
       "summary": "테슬라 충전(Tesla Charging) 공식 X 계정이 텍사스주 달라스 스킬만 스트리트(Skillman Street)에 16기(stall) 규모의 신규 슈퍼차저가 개통됐다고 발표했다. 달라스는 텍사스에서 두 번째로 큰 도시로, 미국에서 전기차 도입이 빠르게 늘고 있는 선벨트(Sunbelt) 지역의 핵심 대도시다.\n\n16기 규모는 테슬라 슈퍼차저 사이트 중 상대적으로 대용량에 속하는 설치로, 이 지역 테슬라 오너들의 충전 대기 시간 단축과 방문 편의성 개선에 기여한다. 텍사스는 전기차 인프라 투자와 인구 성장이 맞물리며 테슬라의 미국 내 주요 성장 시장 중 하나다.\n\n테슬라 슈퍼차저 네트워크는 미국 전역에서 꾸준히 확장되고 있으며, 일부 사이트는 비테슬라 전기차에도 개방돼 독립적 수익원으로서의 가능성을 넓히고 있다.",
       "href": "https://x.com/TeslaCharging/status/2064549821487460727",
       "sentiment": "bull",
-      "hot": 2
+      "hot": 2,
+      "title_en": "Tesla opens a <em>16-stall Supercharger</em> on Skillman St, Dallas",
+      "hotShort_en": "Tesla opens <em>16-stall Supercharger</em> in Dallas, TX",
+      "body_en": "Tesla opened a new 16-stall Supercharger on Skillman Street in Dallas, Texas — adding high-capacity charging to a major Sunbelt metro where US EV adoption is rising fast.",
+      "summary_en": "Tesla Charging's official X account announced a new 16-stall Supercharger on Skillman Street in Dallas, Texas. Dallas is the state's second-largest city and a core Sunbelt metro where US EV adoption is climbing fast.\n\nAt 16 stalls, this is a relatively large Tesla site, helping cut local wait times and improve convenience for area owners. Texas — with rising EV-infrastructure investment and population growth — is one of Tesla's key US growth markets.\n\nTesla's Supercharger network keeps expanding nationwide, and with some sites opened to non-Tesla EVs, its potential as a standalone revenue stream continues to grow."
     },
     {
       "category": "stock",
@@ -116,7 +140,11 @@
       "summary": "MSN이 OpenAI가 테슬라의 핵심 사업 영역 가운데 하나에 직접 경쟁자로 진입하고 있다고 보도했다. 구체적인 사업 영역은 원문 기사에서 확인할 수 있다.\n\nOpenAI는 대화형 AI에서 출발해 최근 물리적 AI(Physical AI)·로봇공학·자율화 영역으로 전략적 확장을 추진해 왔다. 테슬라가 장기 성장 동인으로 제시하는 FSD·로보택시·옵티머스 등 사업은 OpenAI가 주목하는 영역과 상당 부분 겹친다는 점에서, 이번 보도는 투자자들이 주시해야 할 경쟁 구도 변화를 시사한다.\n\n테슬라의 경쟁 방어선은 수억 마일의 실도로 주행 데이터, 자체 AI 칩(AI6) 설계, 차량-인프라-로봇을 아우르는 수직 통합 생태계다. OpenAI의 진출이 어느 층위에서 이뤄지느냐에 따라 테슬라의 실질적 경쟁 우위가 얼마나 방어 가능한지 평가가 달라질 것이다.\n\n투자자 관점에서 경쟁 강도 상승의 영향은 단기 주가보다 중장기 시나리오에서 더 크다. 어떤 사업 영역에서 어느 수준의 경쟁이 진입하는지 원문을 통해 확인하고, 테슬라의 핵심 역량이 이를 방어할 수 있는지 점검하는 것이 중요하다.",
       "href": "https://www.msn.com/en-us/money/savingandinvesting/tesla-stock-drops-openai-is-coming-for-one-line-of-its-business/ar-AA24y89A?ocid",
       "sentiment": "bear",
-      "hot": 6
+      "hot": 6,
+      "title_en": "MSN: OpenAI moves <em>directly into</em> a core Tesla domain",
+      "hotShort_en": "OpenAI takes on a <em>core Tesla domain</em>",
+      "body_en": "MSN reports OpenAI is entering one of Tesla's core business areas as a direct competitor. The world's biggest AI company moving in is a meaningful variable, prompting investors to re-examine Tesla's long-term AI and autonomy story.",
+      "summary_en": "MSN reported that OpenAI is entering one of Tesla's core business areas as a direct competitor; the specific domain is identified in the original article.\n\nStarting from conversational AI, OpenAI has recently pushed strategically into physical AI, robotics and autonomy. Because Tesla's stated long-term drivers — FSD, robotaxi, Optimus — overlap substantially with OpenAI's focus, the report signals a competitive-landscape shift investors should watch.\n\nTesla's moat rests on hundreds of millions of real-world driving miles, its in-house AI chip (AI6) design, and a vertically integrated vehicle-infrastructure-robot ecosystem. How defensible that edge is depends on which layer OpenAI enters and at what depth.\n\nFor investors, rising competition matters more to the medium-to-long-term scenario than the near-term price. Confirm in the original which domain is involved, then assess whether Tesla's core capabilities can defend it."
     },
     {
       "category": "stock",
@@ -137,7 +165,11 @@
         "MarketBeat"
       ],
       "sentiment": "neutral",
-      "hot": 3
+      "hot": 3,
+      "title_en": "Tesla CFO Taneja sells <em>2,606 shares (~$1.05M)</em> — Form 4",
+      "hotShort_en": "Tesla CFO Taneja sells <em>~$1.05M</em> in stock",
+      "body_en": "Tesla CFO Vaibhav Taneja sold 2,606 TSLA shares (about $1.05M) via an SEC Form 4, per Investing.com and MarketBeat. Large insider sales can be routine 10b5-1 dispositions, but they draw attention from investors tracking insider activity.",
+      "summary_en": "Tesla CFO Vaibhav Taneja sold 2,606 TSLA shares in a transaction disclosed via SEC Form 4, as reported separately by Investing.com and MarketBeat. The sale totaled roughly $1.05 million.\n\nForm 4 requires officers, directors and 10%-plus holders to report trades within two business days, disclosing the party, direction, quantity and price — a key data source for tracking insider activity.\n\nInsider selling isn't always negative. Trades under automatic 10b5-1 plans for tax purposes are often unrelated to the company's outlook, and selling a portion after option exercise is common. This sale's nature and full context are available in the filing.\n\nTaneja is a key speaker on Tesla's earnings calls. With the trade landing ahead of the early-July Q2 report, investors may take interest in its motivation."
     },
     {
       "category": "stock",
@@ -153,7 +185,11 @@
       "summary": "테슬라의 중국 월간 판매가 2개월 연속 감소 흐름에서 벗어나 22% 반등한 것으로 집계됐다고 모틀리풀이 보도했다. 중국은 테슬라가 미국 외에서 가장 많은 차량을 출고하는 핵심 해외 시장으로, 상하이 기가팩토리가 북미 외 수출을 포함한 대량 생산을 담당한다.\n\n테슬라는 앞서 2개월 연속 중국 판매 감소를 기록했다. 중국은 BYD 등 현지 브랜드와의 경쟁이 치열한 시장으로, 이 흐름에서 벗어나 22% 반등한 것은 주목할 만한 전환이다. 다만, 이번 반등이 실질적 수요 회복의 신호인지, 아니면 기저 효과나 월말 밀어내기인지는 추가 확인이 필요하다 — 모틀리풀도 '턴어라운드가 진짜인가(Is the Turnaround Real?)'라는 물음을 제기했다.\n\n투자자 입장에서 중국 판매 22% 반등은 Q2(4~6월) 인도 실적의 중요한 상향 시그널이 될 수 있다. 중국 한 달치 데이터만으로 분기 전체 추세를 단정하기는 이르며, 6월 최종 데이터와 미국·유럽 판매 추이를 함께 확인해야 한다.\n\n7월 초 발표될 Q2 인도 실적에서 중국 기여도가 확인되면, 이번 반등의 실질적 의미가 더 명확해질 전망이다.",
       "href": "https://www.fool.com/investing/2026/06/09/teslas-china-sales-just-snapped-a-2-month-slump-wi/",
       "sentiment": "bull",
-      "hot": 7
+      "hot": 7,
+      "title_en": "Motley Fool: Tesla China sales break the slump with a <em>22% rebound</em>",
+      "hotShort_en": "Tesla China sales <em>jump 22%</em> — slump broken",
+      "body_en": "Tesla's China sales rebounded 22% after two months of weakness, the Motley Fool reports. With China among Tesla's largest overseas markets, whether this is a real demand recovery or a base effect is a key variable for the Q2 delivery total.",
+      "summary_en": "Tesla's monthly China sales broke a two-month decline and rebounded 22%, the Motley Fool reported. China is Tesla's largest vehicle market outside the US, with the Shanghai Gigafactory handling mass production including non-North-American exports.\n\nTesla had logged two straight months of China declines. In a market with fierce competition from local brands like BYD, breaking that trend with a 22% rebound is a notable turn. Whether it signals real demand recovery or reflects a base effect or month-end push needs confirmation — the Motley Fool itself asked, \"Is the Turnaround Real?\"\n\nFor investors, a 22% China rebound could be an important upward signal for Q2 deliveries. One month of China data alone can't define the quarter; final June data and US/Europe trends must be read alongside it.\n\nThe early-July Q2 delivery report, showing China's contribution, will clarify what this rebound really means."
     },
     {
       "category": "musk",
@@ -169,7 +205,11 @@
       "summary": "일론 머스크가 자신의 X 계정에 \"테슬라 AI 칩 설계 엔지니어링 검토가 정말 훌륭하다! 팀이 대단하다. 우리의 AI6 칩은 수율을 감안했을 때 웨이퍼당 활용 가능한 지능량 기준으로 세계 기록을 달성할 수도 있다\"고 직접 밝혔다. 머스크가 'might(가능성)'라는 표현을 쓴 점은 현재 설계 단계의 기대치를 공유한 것으로 해석된다.\n\n'수율(yield)을 감안한 웨이퍼당 활용 가능 지능량'은 반도체 업계의 핵심 효율 지표다. 반도체를 제조할 때 웨이퍼에서 불량 없이 나오는 칩 비율(수율)과, 각 칩의 실제 AI 연산 성능을 함께 고려한 개념이다 — '같은 크기의 실리콘에서 얼마나 많은 실질 AI 연산 능력을 얻느냐'를 뜻한다. 이 지표에서 세계 기록을 세운다면, 동일 비용으로 훨씬 많은 AI 추론·훈련이 가능해진다.\n\nAI6 칩이 이 지표를 극대화한다면 파급 효과는 광범위하다. FSD 자율주행의 실시간 추론 속도 향상, 옵티머스 로봇의 온보드 AI 처리 강화, Dojo 클러스터의 훈련 처리량 증대 등에 직결된다. 연산 비용이 낮아지면 테슬라의 AI 사업 전반의 단위 경제성(unit economics)이 개선된다.\n\n테슬라는 AI 칩을 외부 구매에 의존하는 대신 자체 설계·개발하는 전략을 취해왔다. AI6가 효율 세계 기록을 실제로 달성한다면, 경쟁 AI 기업 대비 연산 비용 우위가 더욱 강화되어 FSD 수익화·로보택시 단위 원가 경쟁력에 장기적으로 긍정적인 영향을 줄 수 있다.",
       "href": "https://x.com/elonmusk/status/2064491364256035289",
       "sentiment": "bull",
-      "hot": 6
+      "hot": 6,
+      "title_en": "Musk: Tesla's AI6 chip could set a <em>world record for intelligence per wafer</em>",
+      "hotShort_en": "Musk eyes <em>world-record intelligence per wafer</em> for AI6",
+      "body_en": "Elon Musk said Tesla's AI6 chip could, factoring in yield, set a world record for usable intelligence per wafer. Maximizing next-gen AI-chip efficiency could fundamentally reshape the cost structure of FSD, Optimus training and autonomous compute.",
+      "summary_en": "Elon Musk wrote on X: \"The Tesla AI chip design engineering review was excellent! Incredible team. Our AI6 chip might be a world record for usable intelligence per wafer, factoring in yield.\" His use of \"might\" reads as sharing current design-stage expectations.\n\n\"Usable intelligence per wafer, factoring in yield\" is a key semiconductor efficiency metric — combining the share of defect-free chips per wafer (yield) with each chip's real AI performance. In short: how much actual AI compute you get from a given piece of silicon. A world record here means far more AI inference and training for the same cost.\n\nIf AI6 maximizes this, the ripple effects are broad: faster real-time inference for FSD, stronger on-board AI for Optimus, and higher training throughput for Dojo clusters. Lower compute cost improves unit economics across Tesla's AI businesses.\n\nTesla designs its own AI chips rather than relying on external suppliers. If AI6 truly sets an efficiency record, its compute-cost advantage over rival AI firms strengthens — a long-term positive for FSD monetization and robotaxi unit-cost competitiveness."
     },
     {
       "category": "product",
@@ -185,7 +225,11 @@
       "summary": "테슬라 충전(Tesla Charging) 공식 X 계정이 오리건주 비버튼(Beaverton, OR) 사우스웨스트 비버튼-힐스데일 하이웨이에 16기(stall) 규모의 신규 슈퍼차저가 개통됐다고 발표했다. 비버튼은 포틀랜드 서쪽에 인접한 도시로, 오리건 주요 IT·기술 기업이 밀집한 실리콘 포리스트(Silicon Forest) 지역에 해당한다.\n\n16기는 테슬라 슈퍼차저 사이트 중 상대적으로 규모가 큰 설치로, 이 지역 테슬라 오너들의 충전 대기 시간 단축 효과를 기대할 수 있다. 오리건은 환경 규제와 전기차 인센티브가 강한 주로, 테슬라 보급률이 높다.\n\n테슬라 슈퍼차저 네트워크는 미국 전역에서 지속적으로 확장되고 있으며, 일부 사이트는 타사 전기차에도 개방돼 독립적 수익원으로서의 잠재력을 키우고 있다.",
       "href": "https://x.com/TeslaCharging/status/2064475858245697644",
       "sentiment": "bull",
-      "hot": 2
+      "hot": 2,
+      "title_en": "Tesla opens a <em>16-stall Supercharger</em> in Beaverton, near Portland",
+      "hotShort_en": "Tesla opens <em>16-stall Supercharger</em> in Beaverton, OR",
+      "body_en": "Tesla opened a new 16-stall Supercharger in Beaverton, in Oregon's Portland metro — reinforcing high-capacity charging in a region dense with major tech employers.",
+      "summary_en": "Tesla Charging's official X account announced a new 16-stall Supercharger on SW Beaverton-Hillsdale Highway in Beaverton, Oregon. Beaverton sits just west of Portland in the \"Silicon Forest,\" dense with Oregon's major tech companies.\n\nAt 16 stalls, this is a relatively large Tesla site, expected to cut local wait times for area owners. Oregon — with strong environmental regulations and EV incentives — has high Tesla adoption.\n\nTesla's Supercharger network keeps expanding nationwide, and with some sites opened to non-Tesla EVs, its potential as a standalone revenue stream is growing."
     },
     {
       "category": "stock",
@@ -201,7 +245,11 @@
       "summary": "알파스트리트(AlphaStreet)가 테슬라의 에너지·인프라 부문을 '인도 논쟁(Delivery Debate)보다 큰 엔진'으로 평가하는 분석을 발표했다. 테슬라를 분석할 때 시장은 종종 분기별 자동차 인도 대수에 집중하지만, 알파스트리트는 이 시각이 에너지 사업의 독자적 성장 잠재력을 과소평가한다고 주장한다.\n\n테슬라의 에너지 부문에는 메가팩(산업용 그리드 배터리), 파워월(가정용 배터리), 슈퍼차저 네트워크 등이 포함되며, 최근 여러 분기에 걸쳐 자동차 부문과 별개로 성장을 기록해왔다. 이 사업들은 전기차 인도 대수가 일시적으로 둔화되더라도 자체적 모멘텀을 유지할 수 있다는 구조적 특징이 있다.\n\n알파스트리트의 분석은 테슬라 밸류에이션 논의에 새로운 각도를 제시한다. '전기차 몇 대를 팔았느냐'라는 단일 지표 대신, 에너지 저장·충전 인프라·그리드 관리 등 복합 수익원을 반영한 평가가 필요하다는 주장이다. Q2 인도 수치 발표를 앞두고 인도 논쟁에 집중되는 시장 시각을 환기하는 분석으로, 에너지 사업의 독자적 성장세를 재조명하는 계기가 된다.",
       "href": "https://news.alphastreet.com/tesla-tsla-has-an-energy-and-infrastructure-engine-bigger-than-the-delivery-debate/amp/",
       "sentiment": "bull",
-      "hot": 6
+      "hot": 6,
+      "title_en": "AlphaStreet: Tesla's <em>energy and infrastructure engine</em> outweighs the delivery debate",
+      "hotShort_en": "Tesla's <em>energy engine</em> beats the delivery debate",
+      "body_en": "AlphaStreet argues Tesla's energy and infrastructure business is a more important growth engine than the delivery-count debate the market fixates on — contending that energy's standalone growth, masked by vehicle figures, is the key valuation variable.",
+      "summary_en": "AlphaStreet published an analysis framing Tesla's energy and infrastructure segment as \"a bigger engine than the Delivery Debate.\" The market often fixates on quarterly vehicle deliveries; AlphaStreet argues this underrates the standalone growth potential of energy.\n\nTesla's energy segment includes Megapack (grid-scale batteries), Powerwall (home batteries) and the Supercharger network, and has grown across recent quarters independent of the auto segment. Structurally, these businesses can sustain their own momentum even if EV deliveries slow temporarily.\n\nThe analysis offers a new angle on the valuation debate: instead of \"how many EVs sold,\" it calls for an assessment reflecting compound revenue across storage, charging infrastructure and grid management. Ahead of the Q2 delivery report, it refocuses attention onto energy's independent growth."
     },
     {
       "category": "stock",
@@ -217,7 +265,11 @@
       "summary": "TipRanks가 당일 테슬라 주가 분석에서 '탁월한 효율성도 주가엔 무소용(Standout Efficiency Proves No Help)'이라는 제목으로 보도했다. 이는 테슬라가 전기차 업계에서 돋보이는 운영 효율과 생산성을 보유하고 있음에도 불구하고, 이 펀더멘털 강점이 당일 주가 하락 흐름을 막는 데는 효과를 내지 못했음을 분석한 것이다.\n\n이 분석은 벤징가·인베즈가 같은 날 테슬라 주가 하락 압박을 보도한 것과 같은 맥락이다. JP모건의 전격 목표주가 상향, 유럽 4개국 FSD 승인 등 잇따른 호재에도 주가가 하락 압박을 받은 이날의 구도를 '탁월한 효율조차 무관함'이라는 각도에서 조명한 것이다.\n\n투자자 관점에서 이런 흐름은 단기 차익 실현, 거시 지표 불확실성, 또는 Q2 인도 실적 발표를 앞둔 관망 분위기를 반영할 가능성이 있다. 7월 초 예정된 Q2 인도 수치와 마진 데이터가 펀더멘털 가치의 실질적 검증 포인트다.",
       "href": "https://www.tipranks.com/news/standout-efficiency-proves-no-help-for-tesla-stock-nasdaqtsla",
       "sentiment": "bear",
-      "hot": 4
+      "hot": 4,
+      "title_en": "TipRanks: even <em>standout efficiency</em> couldn't help TSLA's stock",
+      "hotShort_en": "TipRanks: <em>standout efficiency</em> no help for TSLA",
+      "body_en": "TipRanks noted Tesla's standout efficiency did nothing to stop the day's share decline — an unusual stretch in which fundamental strength failed to defend the stock against short-term selling.",
+      "summary_en": "TipRanks reported on the day's Tesla action under the headline \"Standout Efficiency Proves No Help.\" It analyzed how, despite Tesla's notable operating efficiency and productivity, that fundamental strength failed to halt the day's decline.\n\nThe piece sits in the same context as Benzinga and Invezz reporting downward pressure on TSLA the same day. It framed a session that — despite JPMorgan's sudden target hike and FSD approval in four European countries — still saw the stock under pressure.\n\nFor investors, such action may reflect short-term profit-taking, macro uncertainty, or a wait-and-see mood ahead of the Q2 delivery report. The early-July Q2 delivery and margin data are the real test of fundamental value."
     },
     {
       "category": "stock",
@@ -238,7 +290,11 @@
         "Invezz"
       ],
       "sentiment": "bear",
-      "hot": 6
+      "hot": 6,
+      "title_en": "Benzinga: TSLA under <em>intraday pressure</em> today — cause being analyzed",
+      "hotShort_en": "Benzinga digs into TSLA's <em>intraday weakness</em>",
+      "body_en": "TSLA was under intraday pressure today, prompting multiple outlets including Benzinga and Invezz to analyze the cause — a weak move that stands out given the recent run of positive news like JPMorgan's upgrade.",
+      "summary_en": "Benzinga and Invezz both reported that TSLA was under intraday pressure in New York trading today, each saying they were analyzing the cause and urging investors to check the situation.\n\nThe intraday weakness is notable amid a recent run of catalysts — JPMorgan's big target hike and FSD approval in four European countries. Short-term profit-taking or macro conditions may be at play, but as an intraday move, the final direction depends on the close.\n\nTesla has spent recent weeks in a stretch where major catalysts and share volatility coexist. Today's closing level will more accurately reflect actual sentiment."
     },
     {
       "category": "fsd",
@@ -261,7 +317,11 @@
         "Yun-Ta Tsai"
       ],
       "sentiment": "bull",
-      "hot": 8
+      "hot": 8,
+      "title_en": "Tesla FSD approved in the Netherlands, Lithuania, Estonia and Denmark — <em>four EU countries</em>",
+      "hotShort_en": "Tesla FSD hits <em>four EU countries</em> in 8 weeks",
+      "body_en": "Tesla FSD (Supervised) won regulatory approval in the Netherlands, Lithuania, Estonia and Denmark in quick succession — reaching four official European FSD countries in about eight weeks, a sign EU regulatory barriers are falling faster than expected.",
+      "summary_en": "Tesla's official X account, Elon Musk and FSD chief Ashok Elluswamy successively announced FSD Supervised approvals in the Netherlands, Lithuania, Estonia and Denmark. Each country's transport authority individually authorizes Supervised FSD operation — a path to market far faster than a single EU-wide approval.\n\nThat four approvals came within roughly eight weeks stands out. Tesla has strategically led with the \"Supervised\" version, which clears lower regulatory hurdles than full autonomy, to accelerate country-by-country entry.\n\nFSD's European spread is a key variable in Tesla's global robotaxi monetization roadmap. As early countries accumulate safety data, additional EU members' approvals could accelerate — potentially pulling forward the European FSD monetization timeline."
     },
     {
       "category": "musk",
@@ -280,7 +340,11 @@
         "Reuters"
       ],
       "sentiment": "neutral",
-      "hot": 5
+      "hot": 5,
+      "title_en": "Reuters: SpaceX's rich valuation puts the <em>\"Elon premium\"</em> to the test",
+      "hotShort_en": "SpaceX valuation tests the <em>\"Elon premium\"</em>",
+      "body_en": "Reuters argues SpaceX's high valuation will put the \"Elon premium\" to a real test — a SpaceX IPO could become a public re-pricing of the market value across Musk's ecosystem, Tesla included.",
+      "summary_en": "Reuters argued that SpaceX's IPO push will be the first time the public market tests the \"Elon premium\" — the unique valuation uplift markets assign to Musk-led companies.\n\nThe analysis carries direct implications for Tesla shareholders: how much SpaceX's listing price reflects the Elon premium could indirectly validate the same premium baked into Tesla's stock.\n\nReuters separately reported that short sellers may have to tread carefully ahead of a SpaceX IPO. If the listing sets a new reference point for the value of Musk's ecosystem, it could also affect short positions targeting Tesla."
     },
     {
       "category": "stock",
@@ -302,7 +366,11 @@
         "MSN"
       ],
       "sentiment": "bull",
-      "hot": 6
+      "hot": 6,
+      "title_en": "Yahoo Finance, Motley Fool: JPMorgan flips bullish, citing <em>physical-AI potential</em>",
+      "hotShort_en": "JPMorgan flips bullish on Tesla's <em>physical AI</em>",
+      "body_en": "Yahoo Finance and the Motley Fool report JPMorgan formally dropped its bearish stance and sharply raised its Tesla target, citing \"physical AI\" potential — Wall Street's signature bear turning marks the start of a real re-rating of Tesla's AI value.",
+      "summary_en": "Yahoo Finance reported that JPMorgan's dramatic reversal on Tesla was rooted in the company's vast potential in \"physical AI\" — read as JPMorgan formally recognizing Tesla as an AI and robotics company, not just an EV maker.\n\nThe Motley Fool examined whether, after JPMorgan shed its status as Tesla's biggest bear, the current price is a buying point — probing whether the shift is mere momentum or a structural re-rating reflecting AI and robotaxi value.\n\nMSN also covered JPMorgan's large target hike, framing it as a chance for Tesla investors to re-examine their long-term thesis."
     },
     {
       "category": "stock",
@@ -318,7 +386,11 @@
       "summary": "배런스(Barron's)는 월스트리트의 대표 금융 주간지로, 이번 기사는 ARK 인베스트 대표 캐시 우드가 직접 취재진을 태우고 테슬라 로보택시를 동승 운행한 현장을 담은 특집 르포다. 제목 \"Cathie Wood Takes Us on a Robo-Taxi Ride\"에서 나타나듯, ARK 최고경영자가 기자를 데리고 직접 탑승을 안내한 구성으로, 자율주행 서비스를 현장에서 체험하는 형식의 기사다.\n\n보도 시점은 TSLA 주가가 강세를 이어가는 국면과 겹쳤다. 테슬라는 현재 오스틴을 거점으로 로보택시 비지도(Unsupervised) 운행을 확대 중이며, 라스베이거스를 포함한 추가 도시로의 진출도 추진 중이다. ARK 인베스트는 이미 테슬라 강세 시나리오에 로보택시 서비스 확산을 핵심 동인으로 반영해 왔다.\n\n배런스가 직접 탑승 르포를 발행한 것은 자율주행 기술의 현실성을 주요 금융 독자층에 전달하는 의미를 가진다. 기관·소매 투자자가 두루 읽는 배런스에 테슬라 로보택시 현장 취재가 실린다는 것은, 로보택시가 기업 발표 수준을 넘어 직접 검증 가능한 서비스로 인식되고 있다는 신호로 읽힌다.\n\n투자자 시각에서 주요 금융 매체의 현장 보도는 로보택시 밸류에이션 논의를 구체화하는 촉매가 될 수 있다. 특히 TSLA 주가 상승세와 이 같은 미디어 노출이 동반될 경우, 로보택시 전환 스토리에 대한 시장의 신뢰가 점차 가시화되는 흐름으로 이어질 가능성이 있다.",
       "href": "https://www.barrons.com/articles/tesla-stock-cathie-wood-robo-taxi-full-self-driving-1f9505a9",
       "sentiment": "bull",
-      "hot": 5
+      "hot": 5,
+      "title_en": "Barron's rides a robotaxi with Cathie Wood — spotlighting <em>TSLA's rally</em>",
+      "hotShort_en": "Barron's robotaxi ride with Cathie Wood amid <em>TSLA's rally</em>",
+      "body_en": "Barron's published a field report riding a Tesla robotaxi with ARK Invest's Cathie Wood. A major financial outlet directly chronicling an autonomy experience amid TSLA's rally signals the robotaxi narrative is becoming a visible focus for Wall Street institutions.",
+      "summary_en": "Barron's, the flagship Wall Street weekly, ran a feature in which ARK Invest CEO Cathie Wood personally took reporters on a Tesla robotaxi ride. As the title \"Cathie Wood Takes Us on a Robo-Taxi Ride\" suggests, ARK's chief guided the journalist through a hands-on experience of the autonomous service.\n\nThe timing coincided with TSLA's continued strength. Tesla is expanding unsupervised robotaxi operation from its Austin base and pursuing additional cities including Las Vegas. ARK has long built robotaxi expansion into its core Tesla bull case.\n\nBarron's publishing a first-hand ride-along carries weight in conveying the technology's reality to a major financial readership — a signal robotaxi is being seen as a service one can directly verify, beyond corporate announcements.\n\nFor investors, on-the-ground coverage by major financial media can be a catalyst that crystallizes the robotaxi valuation debate. Paired with TSLA's rally, such exposure could gradually build market confidence in the robotaxi transition story."
     },
     {
       "category": "product",
@@ -334,7 +406,11 @@
       "summary": "오토에볼루션에 따르면 테슬라는 6만 달러 사이버트럭 AWD 모델에 적용되는 FSD(Full Self-Driving) 이전 약관을 수정했으며, 이에 반발해 기존 주문자들이 대거 주문을 취소하는 사태가 발생했다. 구체적인 약관 변경 내용은 오토에볼루션 원문에서 확인 가능하다.\n\nFSD 이전 정책은 기존에 FSD를 구매·구독 중인 고객이 새 차량(사이버트럭 등)으로 해당 라이선스를 옮길 수 있는지 여부를 규정한다. 이 정책은 실질적인 차량 구매 비용에 직결되기 때문에, FSD 보유 고객들은 이전 가능성을 전제로 사이버트럭을 주문했을 가능성이 크다.\n\n테슬라가 이 조건을 수정함으로써 기존 주문자들의 기대가 어긋나게 됐으며, 집단 취소 사태로 이어진 배경에는 예고 없는 정책 변경에 대한 불만이 있는 것으로 보인다. 테슬라는 과거에도 FSD 가격과 이전 정책을 여러 차례 수정한 바 있어 관련 논쟁이 재점화된 상황이다.\n\n사이버트럭 AWD 6만 달러 모델은 이전 고가 트림 대비 접근성이 높은 가격대로 주목받았다. 이 모델에서의 FSD 정책 변경과 집단 취소는 단기적으로 수요 수치에 영향을 줄 수 있으며, 테슬라의 FSD 상품 정책 방향성에 대한 시장의 모니터링 필요성도 시사한다.",
       "href": "https://www.autoevolution.com/news/orders-of-the-60k-cybertruck-awd-canceled-en-masse-after-tesla-modified-fsd-transfer-conditions-271230.html",
       "sentiment": "bear",
-      "hot": 6
+      "hot": 6,
+      "title_en": "Tesla revises Cybertruck AWD FSD-transfer terms — <em>mass order cancellations</em>",
+      "hotShort_en": "Cybertruck FSD-transfer change sparks <em>mass cancellations</em>",
+      "body_en": "After Tesla revised the FSD-transfer terms on the $60K Cybertruck AWD, existing orders were canceled en masse, AutoEvolution reports. Customers who ordered assuming they could transfer their FSD license pushed back, reviving questions about FSD-policy consistency.",
+      "summary_en": "Per AutoEvolution, Tesla revised the FSD transfer terms for the $60,000 Cybertruck AWD, prompting a wave of order cancellations from existing buyers in protest. The specific terms change can be confirmed in the AutoEvolution original.\n\nFSD-transfer policy governs whether customers who already bought or subscribe to FSD can move that license to a new vehicle such as the Cybertruck. Because it directly affects the real cost of a purchase, many FSD holders likely ordered assuming transfer was possible.\n\nBy revising the terms, Tesla upset those expectations; the mass-cancellation episode appears rooted in frustration over an unannounced policy change. Tesla has revised FSD pricing and transfer policy several times before, reigniting the debate.\n\nThe $60K Cybertruck AWD drew attention as a more accessible price point than prior premium trims. The change and cancellations could dent demand figures short term, and underscore the need to monitor the direction of Tesla's FSD product policy."
     },
     {
       "category": "stock",
