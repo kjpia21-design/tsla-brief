@@ -118,11 +118,16 @@ function fmtFreshLabel(pubDate) {
   return `최신 콘텐츠 ${Math.round(hr / 24)}일 전`;
 }
 
-function renderKpi(kpi) {
+function renderKpi(kpi, calendar = null, now = new Date()) {
   // 옛 5칸 스키마 (items 배열) → 빈 placeholder
   if (Array.isArray(kpi.items)) {
     return emptyPriceBar();
   }
+  // 티커 칩 — 다음 투자자 일정 D-day (클릭 → 핫뉴스 하단 캘린더 라인)
+  const nextEv = calendar ? upcomingEvents(calendar, now) : null;
+  const calChip = nextEv
+    ? `<a class="price-bar__cal" href="#hot" title="${escapeHtml((nextEv.next.title || "").replace(/\s+/g, " "))} — ${escapeHtml(fmtCalDate(nextEv.next.date))}${nextEv.next.tentative ? " (잠정)" : ""}">📅 ${nextEv.dday === 0 ? "D-DAY" : `D-${nextEv.dday}`}</a>`
+    : "";
   const up = (kpi.change || 0) >= 0;
   const dir = up ? "up" : "down";
   const arrow = up ? "▲" : "▼";
@@ -159,6 +164,7 @@ function renderKpi(kpi) {
           <span class="pb-full" data-pb-range-full>${escapeHtml(rangeFull)}</span>
           <span class="pb-short" data-pb-range-short>${escapeHtml(rangeShort)}</span>
         </span>
+        ${calChip}
         <span class="price-bar__asof" data-pb-asof>${escapeHtml(formatAsOfET(kpi.asOf))}</span>
       </span>
       `;
@@ -276,16 +282,23 @@ function fmtCalDate(iso, lang = "ko") {
  * 데이터: data/calendar.json. 다가오는 일정이 없으면 빈 문자열(미표시).
  * 분기 일정은 잠정(tentative)이며 그 사실을 화면에 명시한다(추측을 사실처럼 표기 금지).
  */
-function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
+/** 다가오는 일정 목록 + 가장 가까운 일정의 D-day. 캘린더 라인·티커 칩이 공용. */
+function upcomingEvents(calendar, now = new Date()) {
   const events = (calendar?.events || [])
     .filter((e) => e && e.date)
     .sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
   const todayISO = now.toISOString().slice(0, 10);
   const upcoming = events.filter((e) => e.date >= todayISO);
-  if (!upcoming.length) return "";   // 다가오는 일정 없음 → 줄 자체 미표시
-  const next = upcoming[0];
+  if (!upcoming.length) return null;
   const todayMs = Date.parse(todayISO + "T00:00:00Z");
-  const dday = Math.max(0, Math.round((Date.parse(next.date + "T00:00:00Z") - todayMs) / 86400000));
+  const dday = Math.max(0, Math.round((Date.parse(upcoming[0].date + "T00:00:00Z") - todayMs) / 86400000));
+  return { upcoming, next: upcoming[0], dday };
+}
+
+function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
+  const up = upcomingEvents(calendar, now);
+  if (!up) return "";   // 다가오는 일정 없음 → 줄 자체 미표시
+  const { upcoming, next, dday } = up;
   const L = lang === "en"
     ? { lead: "Next", head: "Investor Calendar · Upcoming", tent: "TBD", today: "Today",
         foot: `Quarterly dates are estimates pending Tesla's official announcement — see <a href="https://ir.tesla.com" target="_blank" rel="noopener">ir.tesla.com</a>.` }
@@ -862,7 +875,7 @@ async function buildOneLang(opts) {
   catch { calendar = { events: [] }; }
 
   let out = template;
-  out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi));
+  out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi, calendar, now));
   out = replaceBlock(out, "HOT_NEWS",    renderHotNews(cards));
   out = replaceBlock(out, "INVESTOR_CAL", renderInvestorCalendar(calendar, lang, now));
   out = replaceBlock(out, "HOT_COUNT",   hotCountLabel);

@@ -160,6 +160,20 @@
   @media (max-width:560px){
     .news-filter__search{max-width:none;width:100%}
   }
+  /* ── 디자인 폴리시 ───────────────────────────────── */
+  /* 날짜 그룹 헤더 — KST 날짜 경계, nav(56px) 아래 sticky */
+  .news-dhdr{position:sticky;top:56px;z-index:8;margin:6px 0 -4px;padding:7px 2px;background:rgba(255,255,255,.92);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+  .news-dhdr span{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--ink-mute);text-transform:uppercase;display:inline-flex;align-items:center;gap:8px}
+  .news-dhdr span::after{content:"";height:1px;width:34px;background:var(--line)}
+  /* 신규 기사(2시간 내) — 카테고리 라벨 옆 4px 점, 1회 페이드인 */
+  .ccard.is-new .ccard__cat::after{content:"";display:inline-block;width:4px;height:4px;border-radius:50%;background:var(--tesla-red);margin-left:6px;vertical-align:2px;animation:newdot .5s ease 1 both}
+  @keyframes newdot{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:none}}
+  /* 키보드 포커스 링 */
+  :focus-visible{outline:2px solid var(--tesla-red);outline-offset:2px;border-radius:4px}
+  /* 모션 민감 사용자 — 모든 전환·애니메이션 해제 */
+  @media (prefers-reduced-motion: reduce){
+    *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}
+  }
 </style>
 </head>
 <body>
@@ -293,8 +307,21 @@
     const g = (type) => (p.find((x) => x.type === type) || {}).value || '';
     return g('month') + '/' + g('day') + ' ' + g('hour') + ':' + g('minute');
   }
+  // KST 날짜 키/라벨 — 날짜 그룹 헤더(오늘/어제/6/8 MON)용
+  function kstParts(ms){
+    const p = new Intl.DateTimeFormat('en-US', { timeZone:'Asia/Seoul', year:'numeric', month:'numeric', day:'numeric', weekday:'short' }).formatToParts(new Date(ms));
+    const g = (ty) => (p.find(x => x.type === ty) || {}).value || '';
+    return { key: g('year')+'-'+g('month')+'-'+g('day'), label: g('month')+'/'+g('day')+' '+g('weekday').toUpperCase() };
+  }
+  function dateHdr(ms){
+    const k = kstParts(ms);
+    if (k.key === kstParts(Date.now()).key) return '오늘';
+    if (k.key === kstParts(Date.now() - 86400000).key) return '어제';
+    return k.label;
+  }
   function cardHtml(it){
-    return '<a class="ccard ' + it.cls + '" href="' + esc(it.href) + '">'
+    const fresh = (Date.now() - Date.parse(it.pubDate)) < 7200000 ? ' is-new' : '';   // 2시간 내 신규
+    return '<a class="ccard ' + it.cls + fresh + '" href="' + esc(it.href) + '">'
       + '<div class="ccard__top"><span class="ccard__cat">' + esc(it.catLabel) + '</span>' + (it.senti || '')
       + '<span class="ccard__time" data-pubdate="' + esc(it.pubDate) + '">' + esc(relTime(it.pubDate) || it.time) + '</span></div>'
       + '<h3>' + it.title + '</h3>'
@@ -327,7 +354,17 @@
     empty.hidden = true;
     const start = page * PER;
     const slice = list.slice(start, start + PER);
-    grid.innerHTML = slice.map(cardHtml).join('');
+    // 날짜 그룹 헤더 — KST 날짜가 바뀌는 지점에 sticky 헤더 삽입 (오늘/어제/6/8 MON)
+    let html = '', lastKey = null;
+    for (const it of slice){
+      const t = Date.parse(it.pubDate);
+      if (!Number.isNaN(t)){
+        const key = kstParts(t).key;
+        if (key !== lastKey){ lastKey = key; html += '<div class="news-dhdr"><span>' + dateHdr(t) + '</span></div>'; }
+      }
+      html += cardHtml(it);
+    }
+    grid.innerHTML = html;
     count.textContent = '총 ' + list.length + '건 중 ' + (start + 1) + '–' + (start + slice.length);
     if (pages > 1){
       pager.hidden = false;

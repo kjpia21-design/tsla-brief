@@ -198,6 +198,11 @@
     .art__lead{font-size:21px;margin-top:32px}
     .art__summary p{font-size:18px}
   }
+  /* 키보드 포커스 링 + 모션 민감 사용자 대응 */
+  :focus-visible{outline:2px solid var(--tesla-red);outline-offset:2px;border-radius:4px}
+  @media (prefers-reduced-motion: reduce){
+    *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}
+  }
 </style>
 </head>
 <body>

@@ -220,14 +220,28 @@
      ≥520px: 모든 항목 같은 줄로 합쳐짐.
      데이터: data/kpi.json (Yahoo Finance, 5분 cron + 1분 client polling).
      ============================================================ */
-  .price-bar{padding:14px 0 22px}
+  /* 티커 스트립 — nav 바로 아래 sticky. 스크롤 내내 시세·다음 일정이 보이는 신뢰 장치. */
+  .price-bar{
+    position:sticky;top:56px;z-index:45;
+    padding:8px 0 10px;
+    background:rgba(236,236,240,.92);
+    backdrop-filter:blur(14px) saturate(140%);-webkit-backdrop-filter:blur(14px) saturate(140%);
+    border-bottom:1px solid var(--line-mute);
+  }
+  .price-bar__cal{
+    display:inline-flex;align-items:center;gap:4px;flex-shrink:0;
+    font-size:10.5px;font-weight:700;color:var(--ink-mid);letter-spacing:.02em;
+    padding:2px 8px;border:1px solid var(--line);border-radius:var(--r-pill);background:var(--bg-3);
+    transition:border-color var(--t-1) var(--ease),color var(--t-1) var(--ease);
+  }
+  .price-bar__cal:hover{border-color:var(--tesla-red);color:var(--ink)}
   /* 모바일 (< 520px): 진짜 1줄. 폰트 압축 + nowrap. 너무 길면 좌측 안전 영역 잘라냄. */
   .price-bar__box{
     /* 주가 박스만 다크 — 카드·핫뉴스와 동일 톤. 범위 내 토큰 재정의. */
     --bg-2:#111114; --bg-3:#181820; --line:#2A2A33;
     --ink:#F4F4F5; --ink-mid:#E8E8EE; --ink-mute:#D8D8E2;
     display:flex;flex-wrap:nowrap;align-items:center;gap:8px;
-    padding:10px 12px;
+    padding:7px 12px;
     background:var(--bg-2);border:1px solid var(--line);border-radius:var(--r-lg);
     box-shadow:0 4px 16px -6px rgba(16,16,20,.18);
     font-family:"IBM Plex Mono",ui-monospace,monospace;
@@ -268,13 +282,15 @@
   /* 모바일(<520px): 범위도 숨김 — 기준시간 우선 */
   .price-bar__range{display:none;color:var(--ink-mid);font-weight:500;font-size:11px;overflow:hidden;text-overflow:ellipsis}
   .price-bar__range b{display:none}  /* 모바일: "오늘" 라벨 숨김 (공간 절약) */
-  /* 모바일: asOf(현재 기준시간) 노출 — 변동폭보다 우선 */
-  .price-bar__asof{display:inline-block;color:var(--ink-mid);font-size:10.5px;letter-spacing:.02em;margin-left:auto;flex-shrink:0}
+  /* 모바일: asOf 숨김 — 📅 D-day 칩 우선(한 줄 유지). ≥520px 에서 다시 노출 */
+  .price-bar__asof{display:none;color:var(--ink-mid);font-size:10.5px;letter-spacing:.02em;margin-left:auto;flex-shrink:0}
+  .price-bar__cal{margin-left:auto}
+  @media (min-width:520px){ .price-bar__cal{margin-left:0} }
 
   /* ≥520px: 폰트 크기 회복 + asOf 노출 + "오늘" 라벨 다시 보이게 */
   @media (min-width: 520px){
-    .price-bar__box{padding:14px 16px;gap:12px;overflow:visible;white-space:normal;flex-wrap:wrap}
-    .price-bar__price{font-size:22px}
+    .price-bar__box{padding:8px 14px;gap:12px;overflow:visible;white-space:normal;flex-wrap:wrap}
+    .price-bar__price{font-size:18px}
     .price-bar__price small{font-size:13px}
     .price-bar__change{font-size:14px;display:inline-flex}
     .price-bar__meta{flex:1;gap:6px 12px;font-size:12px;min-width:auto}
@@ -745,7 +761,7 @@
     .nl input[type=email]{font-size:14px}
     .nl button{width:auto;font-size:14px}
 
-    .price-bar{padding:20px 0 32px}
+    .price-bar{padding:9px 0 11px}
     .price-bar__box{padding:18px 22px;gap:12px 18px}
     .price-bar__price{font-size:28px}
     .price-bar__price small{font-size:16px}
@@ -788,6 +804,18 @@
 
     .footer__inner{grid-template-columns:1fr auto;gap:36px 56px}
     .footer__brand p{max-width:42ch}
+  }
+  /* ── 디자인 폴리시 ───────────────────────────────── */
+  /* 카드 hover — 절제된 리프트 + 보더 밝아짐 */
+  .ccard:hover{transform:translateY(-2px);border-color:#3A3A45;box-shadow:0 10px 28px -10px rgba(16,16,20,.30)}
+  /* 신규 기사(2시간 내) — 카테고리 라벨 옆 4px 점, 1회 페이드인 */
+  .ccard.is-new .ccard__cat::after{content:"";display:inline-block;width:4px;height:4px;border-radius:50%;background:var(--tesla-red);margin-left:6px;vertical-align:2px;animation:newdot .5s var(--ease) 1 both}
+  @keyframes newdot{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:none}}
+  /* 키보드 포커스 링 */
+  :focus-visible{outline:2px solid var(--tesla-red);outline-offset:2px;border-radius:4px}
+  /* 모션 민감 사용자 — 모든 전환·애니메이션 해제 */
+  @media (prefers-reduced-motion: reduce){
+    *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}
   }
 </style>
 </head>
@@ -1217,7 +1245,11 @@ function tslaSubscribe(e){
   function tick() {
     document.querySelectorAll('[data-pubdate]').forEach((el) => {
       const iso = el.getAttribute('data-pubdate');
-      if (iso) el.textContent = fmtRel(iso);
+      if (!iso) return;
+      el.textContent = fmtRel(iso);
+      // 신규 기사(2시간 내) 도트 — 시간이 지나면 자동 해제
+      const card = el.closest('.ccard');
+      if (card) card.classList.toggle('is-new', Date.now() - Date.parse(iso) < 7200000);
     });
     document.querySelectorAll('[data-fresh-since]').forEach((el) => {
       const iso = el.getAttribute('data-fresh-since');
