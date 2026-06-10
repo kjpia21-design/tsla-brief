@@ -4,18 +4,19 @@ JP에게 친근한 존댓말로 답해주세요.
 
 ## 한 줄 정의
 
-테슬라 주주를 위한, 노이즈 없는 일일 브리핑 — **랜딩 페이지 (한국어 단일) + 유튜브 채널 + 뉴스레터**. **라이브 운영 중** — `https://teslabriefing.com`. (영어 페이지 `/en/` 는 2026-06 폐지 — 콘텐츠 부실로 제거)
+테슬라 주주를 위한, 노이즈 없는 일일 브리핑 — **랜딩 페이지 (한국어 `/` + 영어 `/en/` 이중언어) + 유튜브 채널 + 뉴스레터**. **라이브 운영 중** — `https://teslabriefing.com`. (영어 페이지 2026-06-11 부활·공개 — 이중언어 Routine + 에디토리얼 폰트로 품질 해결. 지오 기본 언어: 한국→`/`, 그 외→`/en/`)
 
 ## 🚀 빠른 컨텍스트 (새 세션이 가장 먼저 봐야 할 것)
 
 | 항목 | 값 |
 |---|---|
-| 라이브 도메인 | `teslabriefing.com` (Cloudflare Pages) · **한국어 단일 언어** |
-| 영어 페이지 | ❌ 폐지 (2026-06). `/en/*` → `/` 301 리다이렉트 (`_middleware.js`) |
+| 라이브 도메인 | `teslabriefing.com` (Cloudflare Pages) · **이중언어** (`/` 한국어 + `/en/` 영어) |
+| 영어 페이지 | ✅ 라이브 (2026-06-11 부활). `/en/` 서빙. 지오: 한국→`/`, 그 외→`/en/`. 토글 쿠키(`lang`) 우선. `_middleware.js` |
+| 영어 데이터 | 같은 `cards.json`/`archive.json`의 `_en` 필드(snake_case). Routine이 신규 카드 이중언어 정제. 과거 카드는 수동 백필(최근 20개 완료, 나머지 미완) |
 | GitHub 리포 | `kjpia21-design/tsla-brief` (master) |
 | Cloudflare Pages | `tesla-briefing` 프로젝트 (manager@honeylife.co.kr account) |
 | TSLA 가격 API | `https://api.teslabriefing.com/` (Cloudflare Worker, 5분 cron) |
-| 자동 뉴스 정제 | Claude Cloud Routine `tsla-brief-news-refresh` (한국어만 · 지침: `scripts/routine-prompt.md`) |
+| 자동 뉴스 정제 | Claude Cloud Routine `tsla-brief-news-refresh` (**한국어+영어 이중언어** · 지침: `scripts/routine-prompt.md`) |
 | RSS 자동 페치 | GitHub Actions cron 2시간 (`.github/workflows/fetch-news.yml`) |
 | Email 수신 | `hello@teslabriefing.com` → JP Gmail (Cloudflare Email Routing) |
 | Email 송신 | 미설정 (옵션 C 보류 — 트래픽 늘면 Resend) |
@@ -42,14 +43,14 @@ JP에게 친근한 존댓말로 답해주세요.
                 ↓ master push
 ┌─ Claude Cloud Routine (cron 2h, offset) ┐
 │  • git pull → raw-cards.json 읽기
-│  • 한국어 정제만 (full) — 지침: scripts/routine-prompt.md
-│  • cards.json + archive.json (50 cap)
+│  • 한국어+영어 이중언어 정제 (_en 필드) — 지침: scripts/routine-prompt.md
+│  • cards.json + archive.json (100 cap)
 │  • git push origin HEAD:master
 └─────────────────────────────────────────┘
                 ↓ master push
 ┌─ Cloudflare Pages (자동 빌드) ────────────┐
-│  • node build.mjs → dist/ (한국어 단일)
-│  • Pages Functions /_middleware → /en/* 만 / 로 301 리다이렉트
+│  • node build.mjs → dist/ (한국어 `/` + 영어 `/en/` 이중언어, _en 필드 폴백)
+│  • Pages Functions /_middleware → 지오 기본 언어(한국→/, 그 외→/en/) + lang 쿠키 우선
 └──────────────────────────────────────────┘
 
 ┌─ Cloudflare Worker (별도, cron */5 min) ──┐
