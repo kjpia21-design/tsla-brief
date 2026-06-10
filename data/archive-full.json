@@ -1,6 +1,22 @@
 {
-  "asOf": "2026-06-10 07:30 UTC · 누적 262건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-10 09:25 UTC · 누적 264건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-10T05:41:04.000Z",
+      "title": "MSN \"중국 판매 반등에도 — <em>TSLA P/E 부담</em> 투자 장벽 여전\"",
+      "hotShort": "중국 판매 반등에도 TSLA P/E가 <em>투자 장벽</em>",
+      "body": "테슬라 중국 판매가 2개월 슬럼프를 깨고 반등했지만, TSLA 주가의 높은 P/E 배수가 여전히 투자 장벽이라고 MSN이 지적했다 — 판매 개선이 실제 주가 매력도로 이어지려면 밸류에이션 부담이 먼저 해소돼야 한다는 경고다.",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "stock-china-sales-pe-concern-2026-06-10",
+      "summary": "MSN이 테슬라 중국 판매 반등 소식을 전하면서도, TSLA 주가의 높은 주가수익비율(P/E) 배수가 투자를 망설이게 하는 핵심 장벽이라고 짚었다. 기사 제목 'Tesla sales in China are popping, but that means nothing if you can't stomach TSLA stock's absurd P/E ratio'는 실적 개선과 밸류에이션 부담 사이의 긴장을 직접 표현한다.\n\n테슬라의 P/E 배수는 전통 자동차 제조사는 물론 대다수 기술주와 비교해도 높은 수준으로 평가된다. 이는 AI·로보택시·옵티머스 등 미래 사업에 대한 기대가 현 주가에 이미 선반영됐다는 의미이기도 하다. 좋은 판매 데이터가 나와도 '기대가 이미 반영된' 주가에 추가 상승 여력이 제한될 수 있다는 논리다.\n\n중국 판매 22% 반등과 같은 긍정 지표가 나와도 P/E 부담 해소가 동반되지 않으면 주가의 실질적 돌파구가 되기 어렵다는 시각이다. 투자자 관점에서 이는 성장 스토리를 인정하면서도 '지금이 적정 매수 시점인가'에 의문을 제기하는 균형추 역할을 한다.\n\n테슬라의 밸류에이션이 정당화되려면 FSD 수익화·로보택시 수익·에너지 사업 성장 등이 실제 실적으로 증명돼야 한다. 7월 초 Q2 인도 수치와 마진 지표가 이 P/E 논쟁의 다음 검증 포인트다.",
+      "href": "https://www.msn.com/en-us/money/topstocks/tesla-sales-in-china-are-popping-but-that-means-nothing-if-you-can-t-stomach-tsla-stock-s-absurd-p-e-ratio/ar-AA2505cC",
+      "sentiment": "bear",
+      "hot": 5
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -16,6 +32,22 @@
       "href": "https://x.com/TeslaCharging/status/2064549821487460727",
       "sentiment": "bull",
       "hot": 2
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "6h ago",
+      "pubDate": "2026-06-10T02:02:44.000Z",
+      "title": "MSN \"OpenAI, 테슬라 <em>핵심 사업 영역 정면 도전</em>\"",
+      "hotShort": "OpenAI, 테슬라 핵심 사업 영역 <em>정면 도전</em>",
+      "body": "OpenAI가 테슬라의 핵심 사업 영역 중 하나에 직접 경쟁자로 진입하고 있다고 MSN이 보도했다 — 세계 최대 AI 기업의 경쟁 진입은 테슬라의 AI·자율주행 장기 성장 스토리에 대한 투자자 재점검을 촉구하는 중요 변수다.",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "stock-openai-competition-tesla-2026-06-10",
+      "summary": "MSN이 OpenAI가 테슬라의 핵심 사업 영역 가운데 하나에 직접 경쟁자로 진입하고 있다고 보도했다. 구체적인 사업 영역은 원문 기사에서 확인할 수 있다.\n\nOpenAI는 대화형 AI에서 출발해 최근 물리적 AI(Physical AI)·로봇공학·자율화 영역으로 전략적 확장을 추진해 왔다. 테슬라가 장기 성장 동인으로 제시하는 FSD·로보택시·옵티머스 등 사업은 OpenAI가 주목하는 영역과 상당 부분 겹친다는 점에서, 이번 보도는 투자자들이 주시해야 할 경쟁 구도 변화를 시사한다.\n\n테슬라의 경쟁 방어선은 수억 마일의 실도로 주행 데이터, 자체 AI 칩(AI6) 설계, 차량-인프라-로봇을 아우르는 수직 통합 생태계다. OpenAI의 진출이 어느 층위에서 이뤄지느냐에 따라 테슬라의 실질적 경쟁 우위가 얼마나 방어 가능한지 평가가 달라질 것이다.\n\n투자자 관점에서 경쟁 강도 상승의 영향은 단기 주가보다 중장기 시나리오에서 더 크다. 어떤 사업 영역에서 어느 수준의 경쟁이 진입하는지 원문을 통해 확인하고, 테슬라의 핵심 역량이 이를 방어할 수 있는지 점검하는 것이 중요하다.",
+      "href": "https://www.msn.com/en-us/money/savingandinvesting/tesla-stock-drops-openai-is-coming-for-one-line-of-its-business/ar-AA24y89A?ocid",
+      "sentiment": "bear",
+      "hot": 6
     },
     {
       "category": "stock",
