@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1m ago",
+      "pubDate": "2026-06-09T23:34:32.000Z",
+      "title": "일론 머스크 \"테슬라 AI6 칩, <em>웨이퍼 당 가용 지능</em> 사상 최고 가능성\"",
+      "hotShort": "머스크 \"AI6 칩 <em>웨이퍼 당 최고 지능</em> 가능성\"",
+      "body": "일론 머스크가 테슬라 AI6 칩 설계 검토 결과에 극찬을 표하며 수율을 고려한 웨이퍼 당 가용 지능 기준으로 기록을 세울 수 있다고 밝혔다 — 자체 AI 칩 경쟁력 향상이 FSD·옵티머스 비용 구조 개선의 핵심 변수다.",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "musk-ai6-chip-record-2026-06-09",
+      "summary": "테슬라는 자체 AI 칩 개발에 꾸준히 투자해왔으며, AI6는 차량 FSD 컴퓨트와 학습 인프라에 적용될 6세대 AI 칩이다. 일론 머스크는 자신의 X 계정에 AI6 설계 엔지니어링 검토가 매우 훌륭하다며, 수율을 고려한 웨이퍼 당 가용 지능(usable intelligence per wafer) 기준으로 기록을 세울 수 있을 것이라고 밝혔다.\n\n'웨이퍼 당 가용 지능'이란 반도체 생산에서 실제로 사용 가능한 다이 비율(수율)까지 반영한 실질적 효율 지표다. 단순 연산 성능뿐 아니라 생산 공정 수율 최적화까지 동시에 달성하면, 칩 원가 절감과 성능 향상을 함께 실현할 수 있다.\n\n테슬라의 인하우스 AI 칩은 FSD 비용 구조와 옵티머스 로봇의 추론 역량에 직결된다. 외부 AI 칩 의존도를 줄이고 자체 실리콘으로 구동할수록 하드웨어 비용 우위가 생기며, AI6의 경쟁력 향상은 이 전략의 실질적 진전을 의미한다.\n\n다만 이 발언은 공식 제품 발표나 검증된 벤치마크 수치가 아닌 CEO의 비공식 X 게시물이다. '기록을 세울 수 있을 것(might set a record)'이라는 표현처럼 아직 최종 확인 전 단계임을 감안해야 한다.",
+      "href": "https://x.com/elonmusk/status/2064491364256035289",
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -40,25 +56,6 @@
       "hot": 8
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6.5h ago",
-      "pubDate": "2026-06-09T15:16:20.000Z",
-      "title": "로이터 \"스페이스X 高밸류에이션 — <em>일론 프리미엄</em> 시험대 올라\"",
-      "hotShort": "스페이스X 高밸류에이션 — <em>일론 프리미엄</em> 시험대",
-      "body": "로이터가 스페이스X의 높은 밸류에이션이 '일론 프리미엄(Elon Premium)'을 본격 시험받게 될 것이라고 분석했다 — 스페이스X IPO가 테슬라를 포함한 머스크 생태계 전반의 시장 가치를 공개적으로 재산정하는 계기가 될 수 있다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-elon-premium-test-reuters-2026-06-09",
-      "summary": "로이터는 스페이스X의 IPO 추진이 머스크가 구축한 '일론 프리미엄'이라는 가치 제고 요소를 공개 시장에서 처음으로 검증받는 계기가 될 것이라고 분석했다. 일론 프리미엄은 머스크가 이끄는 기업들에 부여되는 고유의 시장 할증 가치를 의미한다.\n\n이 분석은 테슬라 주주들에게도 직접적인 시사점을 갖는다. 스페이스X 상장 가격이 일론 프리미엄을 얼마나 반영하느냐에 따라, 테슬라 주가에 부여된 동일한 프리미엄의 타당성이 간접적으로 검증될 수 있기 때문이다.\n\n또한 로이터는 스페이스X IPO를 앞두고 공매도 세력이 신중한 접근을 취할 수밖에 없다고 별도로 보도했다. 스페이스X 상장이 머스크 생태계의 시장 가치를 새로운 기준점으로 제시할 경우, 테슬라를 겨냥한 공매도 포지션에도 영향을 미칠 수 있다.",
-      "href": "https://www.reuters.com/legal/legalindustry/spacexs-lofty-valuation-set-put-elon-premium-test-2026-06-09/",
-      "confirmingSources": [
-        "Reuters"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "7h ago",
@@ -79,7 +76,23 @@
       ],
       "sentiment": "bull",
       "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-06-09T11:22:31.000Z",
+      "title": "테슬라, 사이버트럭 AWD FSD 이전 조건 수정 — <em>주문 대거 취소</em> 논란",
+      "hotShort": "사이버트럭 FSD 이전 조건 바뀌자 <em>주문 대거 취소</em>",
+      "body": "테슬라가 6만 달러 사이버트럭 AWD의 FSD 이전 조건을 수정하자 기존 주문이 대거 취소됐다고 오토에볼루션이 보도했다 — FSD 라이선스 이전을 전제로 주문했던 고객들이 정책 변경에 반발해 집단 취소한 것으로, FSD 정책 일관성에 대한 소비자 신뢰 문제가 다시 부각됐다.",
+      "sourceName": "autoevolution",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-awd-fsd-transfer-canceled-2026-06-09",
+      "summary": "오토에볼루션에 따르면 테슬라는 6만 달러 사이버트럭 AWD 모델에 적용되는 FSD(Full Self-Driving) 이전 약관을 수정했으며, 이에 반발해 기존 주문자들이 대거 주문을 취소하는 사태가 발생했다. 구체적인 약관 변경 내용은 오토에볼루션 원문에서 확인 가능하다.\n\nFSD 이전 정책은 기존에 FSD를 구매·구독 중인 고객이 새 차량(사이버트럭 등)으로 해당 라이선스를 옮길 수 있는지 여부를 규정한다. 이 정책은 실질적인 차량 구매 비용에 직결되기 때문에, FSD 보유 고객들은 이전 가능성을 전제로 사이버트럭을 주문했을 가능성이 크다.\n\n테슬라가 이 조건을 수정함으로써 기존 주문자들의 기대가 어긋나게 됐으며, 집단 취소 사태로 이어진 배경에는 예고 없는 정책 변경에 대한 불만이 있는 것으로 보인다. 테슬라는 과거에도 FSD 가격과 이전 정책을 여러 차례 수정한 바 있어 관련 논쟁이 재점화된 상황이다.\n\n사이버트럭 AWD 6만 달러 모델은 이전 고가 트림 대비 접근성이 높은 가격대로 주목받았다. 이 모델에서의 FSD 정책 변경과 집단 취소는 단기적으로 수요 수치에 영향을 줄 수 있으며, 테슬라의 FSD 상품 정책 방향성에 대한 시장의 모니터링 필요성도 시사한다.",
+      "href": "https://www.autoevolution.com/news/orders-of-the-60k-cybertruck-awd-canceled-en-masse-after-tesla-modified-fsd-transfer-conditions-271230.html",
+      "sentiment": "bear",
+      "hot": 6
     }
   ],
-  "asOf": "2026-06-10 06:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-10 08:40 KST 자동 갱신 · 최신순"
 }
