@@ -6,6 +6,7 @@
 <title>최신 뉴스 — TESLA Brief!ng</title>
 <meta name="description" content="테슬라 브리핑 — 최신 뉴스 카드 시간순.">
 <link rel="canonical" href="https://teslabriefing.com/news">
+<link rel="alternate" type="application/rss+xml" title="Tesla Brief!ng RSS" href="https://teslabriefing.com/rss.xml">
 <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
 <link rel="apple-touch-icon" href="/assets/favicon.svg">
 <meta property="og:type" content="website">
@@ -286,7 +287,11 @@
     if (min < 60) return min + 'm ago';
     const hr = Math.round(min/60);
     if (hr < 24) return hr + 'h ago';
-    return Math.round(hr/24) + 'd ago';
+    // 24시간 초과 — 절대시각(KST)
+    const d = new Date(t);
+    const p = new Intl.DateTimeFormat('ko-KR', { timeZone: 'Asia/Seoul', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false }).formatToParts(d);
+    const g = (type) => (p.find((x) => x.type === type) || {}).value || '';
+    return g('month') + '/' + g('day') + ' ' + g('hour') + ':' + g('minute');
   }
   function cardHtml(it){
     return '<a class="ccard ' + it.cls + '" href="' + esc(it.href) + '">'

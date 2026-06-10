@@ -223,9 +223,10 @@ function confirmedBadge(c) {
 }
 
 // 강세/약세 태그(#2) — sentiment(bull/bear)만 표시(중립·미지정은 생략해 클러터 방지). 색: 상승 초록 / 하락 빨강.
+const SENTI_TIP = "원문 기사 논조 기반 자동 분류입니다 — 편집부 투자 의견이 아닙니다";
 function sentiBadge(c) {
-  if (c.sentiment === "bull") return `<span class="senti senti--bull">▲ 강세</span>`;
-  if (c.sentiment === "bear") return `<span class="senti senti--bear">▼ 약세</span>`;
+  if (c.sentiment === "bull") return `<span class="senti senti--bull" title="${SENTI_TIP}">▲ 강세</span>`;
+  if (c.sentiment === "bear") return `<span class="senti senti--bear" title="${SENTI_TIP}">▼ 약세</span>`;
   return "";
 }
 
@@ -296,7 +297,27 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
     `<li class="ic__row"><span class="ic__rdate">${escapeHtml(fmtCalDate(e.date, lang))}</span>`
     + `<span class="ic__rtitle">${escapeHtml(stripYear(e.title))}${tentChip(e)}</span></li>`
   ).join("\n          ");
-  return `<details class="ic">
+  // Event 구조화 데이터 — 검색엔진이 투자자 일정을 이벤트로 인식 (잠정 일정은 description에 명시)
+  const eventsLd = JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    itemListElement: upcoming.map((e, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      item: {
+        "@type": "Event",
+        name: `Tesla ${(e.title || "").replace(/\s+/g, " ").trim()}`,
+        startDate: e.date,
+        eventStatus: "https://schema.org/EventScheduled",
+        eventAttendanceMode: "https://schema.org/OnlineEventAttendanceMode",
+        location: { "@type": "VirtualLocation", url: "https://ir.tesla.com" },
+        description: e.tentative ? "과거 패턴 기반 잠정 일정 — 공식 확정 전" : "공식 확정 일정",
+        organizer: { "@type": "Organization", name: "Tesla, Inc.", url: "https://ir.tesla.com" },
+      },
+    })),
+  });
+  return `<script type="application/ld+json">${eventsLd}</script>
+    <details class="ic">
       <summary class="ic__bar">
         <span class="ic__lead">${L.lead}</span>
         <span class="ic__title">${escapeHtml(stripYear(next.title))}</span>
@@ -632,6 +653,14 @@ function renderArticle(template, card, lang = "ko", pool = []) {
   } else {
     leadText = paras.length ? paras.shift() : "";
   }
+  // 휴리스틱을 빠져나간 리드-첫문단 중복 감시 — 어절 자카드 유사도 > 0.5 면 경고(빌드는 계속).
+  if (leadText && paras[0]) {
+    const words = (s) => new Set(s.replace(/<\/?em>/g, "").split(/\s+/).filter((w) => w.length > 1));
+    const A = words(leadText), B = words(paras[0]);
+    const inter = [...A].filter((w) => B.has(w)).length;
+    const union = new Set([...A, ...B]).size || 1;
+    if (inter / union > 0.5) console.warn(`[build] ⚠ 리드-본문 중복 의심(자카드 ${(inter / union).toFixed(2)}): ${card.slug || card.title}`);
+  }
   const summaryHtml = paras.map((p) => `<p>${escapeHtml(p)}</p>`).join("\n    ");
 
   const titleTxt = card.title.replace(/<\/?em>/g, "");
@@ -787,6 +816,29 @@ async function buildOneLang(opts) {
 
   const now = new Date();
   const buildIso = now.toISOString();
+
+  // 타임스탬프 위생 — ① 미래 pubDate(애그리게이터 재발행 시각 등) 는 빌드 시각으로 클램프
+  //                  ② "최신순" 보증: 데이터가 어떤 순서로 와도 pubDate desc 강제 정렬
+  const clampFuture = (items, label) => {
+    const limit = now.getTime() + 10 * 60 * 1000;   // +10분 허용(시계 오차)
+    for (const c of items) {
+      const t = Date.parse(c.pubDate || "");
+      if (!Number.isNaN(t) && t > limit) {
+        console.warn(`[build] ⚠ 미래 pubDate 클램프(${label}): ${c.slug || c.title} ${c.pubDate} → ${buildIso}`);
+        c.pubDate = buildIso;
+      }
+    }
+  };
+  const sortDesc = (items) => items.sort((a, b) => (Date.parse(b.pubDate || 0) || 0) - (Date.parse(a.pubDate || 0) || 0));
+  clampFuture(cards.items, "cards");
+  clampFuture(archive.items, "archive");
+  sortDesc(archive.items);   // 최신 뉴스·news.html 은 시간순이 계약
+  // cards(핫뉴스 소스)는 hot 점수 정렬이 따로 있으므로 카드 그리드용만 시간 검증
+  const cardsSorted = [...cards.items].map((c) => Date.parse(c.pubDate || 0) || 0);
+  if (cardsSorted.some((t, i) => i > 0 && t > cardsSorted[i - 1])) {
+    console.warn("[build] ⚠ cards.json 이 최신순이 아님 — 카드 그리드 표시용으로 정렬 보정");
+    sortDesc(cards.items);
+  }
 
   // 라벨 lang 분기
   const hotCountLabel = lang === "en"
