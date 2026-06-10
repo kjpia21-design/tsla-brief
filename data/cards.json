@@ -1,43 +1,41 @@
 {
   "items": [
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-06-10T03:26:49.000Z",
-      "title": "테슬라, 달라스 스킬만가에 <em>슈퍼차저 16기</em> 신규 개통",
-      "hotShort": "테슬라 달라스(텍사스) <em>슈퍼차저 16기</em> 개통",
-      "body": "테슬라가 텍사스주 달라스 스킬만 스트리트에 16기 규모의 슈퍼차저를 신규 개통했다 — 미국에서 전기차 보급이 빠르게 늘고 있는 텍사스 대도시에 대용량 충전 거점이 추가됐다.",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "product-supercharger-dallas-tx-2026-06-10",
-      "summary": "테슬라 충전(Tesla Charging) 공식 X 계정이 텍사스주 달라스 스킬만 스트리트(Skillman Street)에 16기(stall) 규모의 신규 슈퍼차저가 개통됐다고 발표했다. 달라스는 텍사스에서 두 번째로 큰 도시로, 미국에서 전기차 도입이 빠르게 늘고 있는 선벨트(Sunbelt) 지역의 핵심 대도시다.\n\n16기 규모는 테슬라 슈퍼차저 사이트 중 상대적으로 대용량에 속하는 설치로, 이 지역 테슬라 오너들의 충전 대기 시간 단축과 방문 편의성 개선에 기여한다. 텍사스는 전기차 인프라 투자와 인구 성장이 맞물리며 테슬라의 미국 내 주요 성장 시장 중 하나다.\n\n테슬라 슈퍼차저 네트워크는 미국 전역에서 꾸준히 확장되고 있으며, 일부 사이트는 비테슬라 전기차에도 개방돼 독립적 수익원으로서의 가능성을 넓히고 있다.",
-      "href": "https://x.com/TeslaCharging/status/2064549821487460727",
-      "sentiment": "bull",
-      "hot": 2
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-10T01:32:30.000Z",
-      "title": "테슬라 CFO 탄에자, <em>2,606주(약 105만달러)</em> 매도 — Form 4 공시",
-      "hotShort": "테슬라 CFO 탄에자 <em>약 105만달러 주식 매도</em>",
-      "body": "테슬라 CFO 바이브하브 탄에자가 SEC Form 4를 통해 TSLA 2,606주(약 105만 달러)를 매도한 것이 Investing.com·MarketBeat를 통해 확인됐다 — 임원 대규모 매도는 10b5-1 사전 계획에 따른 통상적 처분일 수 있지만, 내부자 거래 동향을 주시하는 투자자들의 주목을 받는다.",
-      "sourceName": "Investing.com",
+      "time": "2h ago",
+      "pubDate": "2026-06-10T05:41:04.000Z",
+      "title": "MSN \"중국 판매 반등에도 — <em>TSLA P/E 부담</em> 투자 장벽 여전\"",
+      "hotShort": "중국 판매 반등에도 TSLA P/E가 <em>투자 장벽</em>",
+      "body": "테슬라 중국 판매가 2개월 슬럼프를 깨고 반등했지만, TSLA 주가의 높은 P/E 배수가 여전히 투자 장벽이라고 MSN이 지적했다 — 판매 개선이 실제 주가 매력도로 이어지려면 밸류에이션 부담이 먼저 해소돼야 한다는 경고다.",
+      "sourceName": "MSN",
       "sourceLabel": "press",
-      "slug": "stock-form4-insider-activity-2026-06-10",
-      "summary": "테슬라의 최고재무책임자(CFO) 바이브하브 탄에자(Vaibhav Taneja)가 TSLA 주식 2,606주를 매도한 거래가 SEC Form 4를 통해 공시됐다고 Investing.com·MarketBeat가 각각 보도했다. 매도 총액은 약 105만 달러(약 14억 원) 규모로 집계됐다.\n\nSEC Form 4는 임원·이사·10% 이상 대주주의 주식 거래를 거래 완료 후 2영업일 이내에 의무 신고하는 서식이다. 거래 주체·방향(매수/매도)·수량·단가가 모두 공시에 포함되며, 투자자들이 내부자 동향을 추적하는 핵심 자료로 활용된다.\n\n임원 주식 매도가 항상 부정적 신호는 아니다. 세금 납부 목적의 10b5-1 자동 매도 계획에 따른 거래는 회사 전망과 무관한 경우가 많으며, 옵션 행사 후 일부 매도하는 패턴도 일반적이다. 이번 매도의 성격(10b5-1 여부)과 전체 맥락은 공시 원문에서 확인할 수 있다.\n\n탄에자 CFO는 테슬라 분기 실적 발표에서 주요 발언자 중 한 명이다. 7월 초 발표 예정인 Q2 실적을 앞둔 시점에 이루어진 거래로, 투자자들이 거래 동기에 관심을 보일 수 있다.",
-      "href": "https://m.au.investing.com/news/insider-trading-news/tesla-cfo-vaibhav-taneja-sells-105m-in-tsla-shares-93CH-4479383?ampMode",
-      "confirmedBy": 2,
-      "confirmingSources": ["Investing.com", "MarketBeat"],
-      "sentiment": "neutral",
-      "hot": 3
+      "slug": "stock-china-sales-pe-concern-2026-06-10",
+      "summary": "MSN이 테슬라 중국 판매 반등 소식을 전하면서도, TSLA 주가의 높은 주가수익비율(P/E) 배수가 투자를 망설이게 하는 핵심 장벽이라고 짚었다. 기사 제목 'Tesla sales in China are popping, but that means nothing if you can't stomach TSLA stock's absurd P/E ratio'는 실적 개선과 밸류에이션 부담 사이의 긴장을 직접 표현한다.\n\n테슬라의 P/E 배수는 전통 자동차 제조사는 물론 대다수 기술주와 비교해도 높은 수준으로 평가된다. 이는 AI·로보택시·옵티머스 등 미래 사업에 대한 기대가 현 주가에 이미 선반영됐다는 의미이기도 하다. 좋은 판매 데이터가 나와도 '기대가 이미 반영된' 주가에 추가 상승 여력이 제한될 수 있다는 논리다.\n\n중국 판매 22% 반등과 같은 긍정 지표가 나와도 P/E 부담 해소가 동반되지 않으면 주가의 실질적 돌파구가 되기 어렵다는 시각이다. 투자자 관점에서 이는 성장 스토리를 인정하면서도 '지금이 적정 매수 시점인가'에 의문을 제기하는 균형추 역할을 한다.\n\n테슬라의 밸류에이션이 정당화되려면 FSD 수익화·로보택시 수익·에너지 사업 성장 등이 실제 실적으로 증명돼야 한다. 7월 초 Q2 인도 수치와 마진 지표가 이 P/E 논쟁의 다음 검증 포인트다.",
+      "href": "https://www.msn.com/en-us/money/topstocks/tesla-sales-in-china-are-popping-but-that-means-nothing-if-you-can-t-stomach-tsla-stock-s-absurd-p-e-ratio/ar-AA2505cC",
+      "sentiment": "bear",
+      "hot": 5
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "6h ago",
+      "pubDate": "2026-06-10T02:02:44.000Z",
+      "title": "MSN \"OpenAI, 테슬라 <em>핵심 사업 영역 정면 도전</em>\"",
+      "hotShort": "OpenAI, 테슬라 핵심 사업 영역 <em>정면 도전</em>",
+      "body": "OpenAI가 테슬라의 핵심 사업 영역 중 하나에 직접 경쟁자로 진입하고 있다고 MSN이 보도했다 — 세계 최대 AI 기업의 경쟁 진입은 테슬라의 AI·자율주행 장기 성장 스토리에 대한 투자자 재점검을 촉구하는 중요 변수다.",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "stock-openai-competition-tesla-2026-06-10",
+      "summary": "MSN이 OpenAI가 테슬라의 핵심 사업 영역 가운데 하나에 직접 경쟁자로 진입하고 있다고 보도했다. 구체적인 사업 영역은 원문 기사에서 확인할 수 있다.\n\nOpenAI는 대화형 AI에서 출발해 최근 물리적 AI(Physical AI)·로봇공학·자율화 영역으로 전략적 확장을 추진해 왔다. 테슬라가 장기 성장 동인으로 제시하는 FSD·로보택시·옵티머스 등 사업은 OpenAI가 주목하는 영역과 상당 부분 겹친다는 점에서, 이번 보도는 투자자들이 주시해야 할 경쟁 구도 변화를 시사한다.\n\n테슬라의 경쟁 방어선은 수억 마일의 실도로 주행 데이터, 자체 AI 칩(AI6) 설계, 차량-인프라-로봇을 아우르는 수직 통합 생태계다. OpenAI의 진출이 어느 층위에서 이뤄지느냐에 따라 테슬라의 실질적 경쟁 우위가 얼마나 방어 가능한지 평가가 달라질 것이다.\n\n투자자 관점에서 경쟁 강도 상승의 영향은 단기 주가보다 중장기 시나리오에서 더 크다. 어떤 사업 영역에서 어느 수준의 경쟁이 진입하는지 원문을 통해 확인하고, 테슬라의 핵심 역량이 이를 방어할 수 있는지 점검하는 것이 중요하다.",
+      "href": "https://www.msn.com/en-us/money/savingandinvesting/tesla-stock-drops-openai-is-coming-for-one-line-of-its-business/ar-AA24y89A?ocid",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "8h ago",
       "pubDate": "2026-06-09T23:55:10.000Z",
       "title": "모틀리풀 \"테슬라 중국 판매, 2개월 슬럼프 깨고 <em>22% 급반등</em>\"",
       "hotShort": "테슬라 중국 판매 <em>22% 급반등</em> — 슬럼프 탈출",
@@ -53,7 +51,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-09T23:34:32.000Z",
       "title": "일론 머스크 \"테슬라 AI6 칩 — 수율 감안 <em>웨이퍼당 지능량 세계 기록</em> 가능성\"",
       "hotShort": "일론, AI6 칩 <em>웨이퍼당 지능 세계 기록</em> 노린다",
@@ -67,5 +65,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-06-10 13:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-10 16:30 KST 자동 갱신 · 최신순"
 }
