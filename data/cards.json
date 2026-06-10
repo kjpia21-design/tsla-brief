@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-10T08:02:39.000Z",
+      "title": "테슬라, 사이버트럭에 <em>스마트 서몬</em> 배포 시작",
+      "hotShort": "테슬라, 사이버트럭에 <em>스마트 서몬</em> 정식 배포",
+      "body": "테슬라가 사이버트럭에 스마트 서몬(Smart Summon) 기능 배포를 시작했다 — 주차장에서 차량을 스마트폰으로 원격으로 불러오는 이 기능이 사이버트럭까지 확대되며, 출시 후 단계적으로 보강돼 온 FSD 기능 스택이 한 단계 더 완성됐다.",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "product-cybertruck-smart-summon-2026-06-10",
+      "summary": "테슬라 공식 X 계정(@Tesla)이 \"Summon for Cybertruck rolling out shortly\"라고 발표했으며, 직후 Tesla Owners SV 계정이 실제 배포가 시작됐다는 현장 확인을 올렸다. 스마트 서몬은 스마트폰 앱을 통해 주차장에서 차량을 원격으로 불러오거나 지정 위치까지 이동시키는 기능이다.\n\n사이버트럭은 2023년 11월 출시 이후 모델3·Y·S·X에 비해 FSD 관련 기능이 단계적으로 추가돼 왔다. 스마트 서몬은 이 흐름에서 사이버트럭에 가장 최근 도착한 기능으로, 기존 사이버트럭 오너들의 오랜 요청이 반영된 업데이트다.\n\n이번 배포는 사이버트럭의 소프트웨어 완성도가 꾸준히 높아지고 있다는 신호다. 테슬라는 사이버트럭을 연간 수만 대 규모로 생산 중이며, 기능 업데이트를 통한 오너 만족도 제고는 FSD 및 프리미엄 구독 서비스 유지율에도 긍정적인 영향을 준다.",
+      "href": "https://x.com/Tesla/status/2064619236459470979",
+      "confirmedBy": 2,
+      "confirmingSources": ["Tesla", "Tesla Owners SV"],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
@@ -65,5 +83,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-06-10 16:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-10 19:30 KST 자동 갱신 · 최신순"
 }
