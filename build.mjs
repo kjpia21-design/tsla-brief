@@ -615,14 +615,34 @@ const SOURCE_LABEL_EN = {
 
 // 빌드 후처리 — EN_FONTS 마커 채우기(en=Newsreader/Inter 링크, ko=제거) + en 페이지 lang·canonical·자산 절대경로.
 const EN_FONT_LINKS = `<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=Inter:wght@400;500;600;700&display=swap">`;
+// 정적 UI 문구 한→영 (en 페이지 chrome). 긴 문자열을 앞에 둬 부분치환 방지. 카드 본문은 _en 으로 이미 영어.
+const UI_EN = [
+  ["TESLA Brief!ng — 노이즈 없는 테슬라 브리핑", "TESLA Brief!ng — the signal, without the noise"],
+  ["테슬라 주주를 위한 일일 브리핑. 주가·실적, 차량·에너지·옵티머스, FSD/로보택시, 일론 소식을 한 페이지에서.", "A daily Tesla brief for shareholders — stock & earnings, vehicles, energy & Optimus, FSD & robotaxi, and Elon, all on one page."],
+  ["소개 · 큐레이션 기준 보기 →", "About · how we curate →"],
+  ["HOT · 핫 뉴스", "HOT NEWS"],
+  ["최신 뉴스", "Latest"],
+  ["뉴스 전체보기", "All news"],
+  ["1차 자료", "Primary"], ["외신·전문", "Press"], ["추측·커뮤니티", "Community"],
+  ["매일 아침 7시, 최신 테슬라 소식", "Every morning at 7 — the latest on Tesla"],
+  ["매일 아침 한 통의 뉴스레터로 정리합니다.", "One concise newsletter, every morning."],
+  ["샘플 뉴스레터 보기 (PDF)", "View sample newsletter (PDF)"],
+  ["개인정보처리방침 보기", "Privacy policy"], ["개인정보처리방침", "Privacy policy"],
+  ["유튜브 채널 구독", "Subscribe on YouTube"], ["유튜브 채널 바로가기", "Go to channel"],
+  ["유튜브 — 최신 영상", "YouTube — latest"], ["유튜브 채널", "YouTube channel"],
+  ["주가·실적", "Stock"], ["FSD/로보택시", "FSD"], ["제품", "Product"],
+  ["일론 소식", "Elon news"], ["일론", "Elon"], ["소개", "About"],
+];
 function langFinalize(html, lang) {
   if (html.includes("BLOCK:EN_FONTS")) html = replaceBlock(html, "EN_FONTS", lang === "en" ? EN_FONT_LINKS : "");
   if (lang !== "en") return html;
-  return html
+  html = html
     .replace('<html lang="ko">', '<html lang="en">')
     .replace('<link rel="canonical" href="https://teslabriefing.com/">', '<link rel="canonical" href="https://teslabriefing.com/en/">')
     .replace('<meta property="og:url" content="https://teslabriefing.com/">', '<meta property="og:url" content="https://teslabriefing.com/en/">')
     .replace(/(href|src)="assets\//g, '$1="/assets/');   // 상대 자산 → 루트 절대(/en/ 하위경로 대응)
+  for (const [ko, en] of UI_EN) html = html.split(ko).join(en);
+  return html;
 }
 
 /**
