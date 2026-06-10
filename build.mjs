@@ -613,6 +613,18 @@ const SOURCE_LABEL_EN = {
   sec: "Primary source", official: "Official", press: "Press", rumor: "Unconfirmed",
 };
 
+// 빌드 후처리 — EN_FONTS 마커 채우기(en=Newsreader/Inter 링크, ko=제거) + en 페이지 lang·canonical·자산 절대경로.
+const EN_FONT_LINKS = `<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=Inter:wght@400;500;600;700&display=swap">`;
+function langFinalize(html, lang) {
+  if (html.includes("BLOCK:EN_FONTS")) html = replaceBlock(html, "EN_FONTS", lang === "en" ? EN_FONT_LINKS : "");
+  if (lang !== "en") return html;
+  return html
+    .replace('<html lang="ko">', '<html lang="en">')
+    .replace('<link rel="canonical" href="https://teslabriefing.com/">', '<link rel="canonical" href="https://teslabriefing.com/en/">')
+    .replace('<meta property="og:url" content="https://teslabriefing.com/">', '<meta property="og:url" content="https://teslabriefing.com/en/">')
+    .replace(/(href|src)="assets\//g, '$1="/assets/');   // 상대 자산 → 루트 절대(/en/ 하위경로 대응)
+}
+
 /**
  * pubDate(ISO) → 실제 게재 날짜 문자열. 상세 페이지에서 "1h ago" 대신 사용.
  * 기준 시간대 Asia/Seoul. ko: "2026년 6월 1일", en: "Jun 1, 2026".
@@ -908,6 +920,7 @@ async function buildOneLang(opts) {
   out = replaceBlock(out, "VIDEOS_GRID", renderVideos(videos));
   out = replaceBlock(out, "BUILD_INFO",  `<!-- build: ${buildIso} -->`);
 
+  out = langFinalize(out, lang);
   await mkdir(outDir, { recursive: true });
   await writeFile(path.join(outDir, "index.html"), out, "utf8");
 
@@ -1032,6 +1045,17 @@ async function main() {
     outDir: OUT_DIR,
     lang: "ko",
   });
+
+  // ─── English (/en/) — 같은 cards.json 의 _en 필드로 미러 빌드 (자산은 /assets 절대참조로 공유) ──
+  const en = await buildOneLang({
+    templateName: "home.html",
+    cardsName: "cards.json",
+    archiveName: "archive.json",
+    newsTemplateName: "news-template.html",
+    outDir: path.join(OUT_DIR, "en"),
+    lang: "en",
+  });
+  console.log(`[build] EN: ${en.numCards} cards · ${en.numArchive} archive · ${en.numArticles} articles → /en/`);
 
   // 정적 자원/페이지/JSON 데이터 — 한 번만 복사 (한·영 공유)
   await cp(ASSETS_DIR, OUT_ASSETS, { recursive: true });
