@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-06-10 15:51 UTC · 누적 268건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-10 17:20 UTC · 누적 269건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-10T14:52:02.000Z",
+      "title": "월가 3개 기관 애널리스트, TSLA 전망 <em>일제히 상향</em>",
+      "hotShort": "월가 3개 기관, TSLA 전망 <em>일제히 상향</em>",
+      "body": "3개 증권사 애널리스트가 테슬라 투자 전망을 동시에 상향 조정했다. JP모건 전환 이후 불과 하루 만에 복수 기관이 추가로 상향에 나서면서, FSD·로보택시 사업화를 둘러싼 월가의 TSLA 재평가 기류가 빠르게 확산되고 있다.",
+      "sourceName": "Blockonomi",
+      "sourceLabel": "press",
+      "slug": "stock-three-analysts-upgrade-tsla-2026-06-10",
+      "summary": "Blockonomi와 MoneyCheck가 6월 10일 보도한 바에 따르면, 3개 기관 애널리스트가 테슬라(TSLA) 주가 전망을 상향 조정하며 강세 모멘텀 회복 기대를 높였다. 전날인 6월 9일 JP모건이 약세 전망을 접고 전향적 시각으로 돌아선 데 이어, 하루 만에 추가 기관들이 합류하는 흐름이다.\n\n상향 조정의 근거로는 AI·FSD 기술 진전, 로보택시 사업화 실마리, 그리고 에너지 저장 부문의 고성장세가 거론된다. 단순 차량 인도 지표보다 이러한 고마진 신사업에 대한 시장의 시각이 달라지고 있다는 점이 핵심 변화다.\n\n다만 이번 소식은 1차 증권사 보고서가 아닌 2차 매체(Blockonomi, MoneyCheck)를 통해 전해진 것이므로, 구체적인 상향 기관명과 새 목표주가는 원문 보고서를 통해 별도 확인하는 것을 권장한다.",
+      "title_en": "Three Wall Street Analysts <em>Upgrade TSLA</em> as Bullish Momentum Broadens",
+      "hotShort_en": "Three analysts <em>upgrade TSLA</em> outlook",
+      "body_en": "Three brokerage analysts upgraded their Tesla (TSLA) outlooks on June 10, extending the bullish wave that started when JPMorgan reversed its long-held bearish stance the previous day. Multiple upgrades in rapid succession signal that Wall Street's reassessment of Tesla's FSD and robotaxi potential is gaining momentum.",
+      "summary_en": "Blockonomi and MoneyCheck reported on June 10 that three institutional analysts upgraded their Tesla (TSLA) outlooks, adding momentum to the bullish shift that began when JPMorgan reversed course on June 9.\n\nAnalysts cited progress on AI and FSD technology, early signs of robotaxi commercialization, and accelerating growth in Tesla's Energy Storage segment as the main catalysts for the re-rating. The market appears to be shifting focus from near-term delivery volumes toward higher-margin growth businesses.\n\nNote that these reports come from secondary publications (Blockonomi, MoneyCheck) rather than directly from brokerage research notes. Investors should verify specific firm names and revised target prices from the original analyst reports.",
+      "href": "https://blockonomi.com/tesla-tsla-stock-gains-momentum-as-three-analysts-upgrade-their-outlook/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Blockonomi",
+        "MoneyCheck"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -24,7 +49,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-10T10:15:32.000Z",
       "title": "블룸버그 \"오스틴 로보택시 <em>단 59대뿐</em> — 대기·급제동 직접 취재\"",
       "hotShort": "블룸버그, 오스틴 로보택시 <em>단 59대</em> 실태 직접 확인",
@@ -33,18 +58,18 @@
       "sourceLabel": "press",
       "slug": "fsd-bloomberg-robotaxi-59-vehicles-2026-06-10",
       "summary": "블룸버그가 6월 10일 공개한 심층 탑승 취재에 따르면, 테슬라 오스틴 로보택시 서비스의 현재 운행 차량은 단 59대에 그친다. 일론 머스크는 FSD 기반 수백만 대 규모의 로보택시 플릿을 수차례 예고했으나, 상용 출시 이후에도 서비스 규모는 여전히 시범 수준에 머물러 있다.\n\n취재진이 직접 탑승해 체험한 결과, 배차 대기가 수십 분에 달하고 주행 중 예고 없는 급제동과 가다서다 반복이 빈번했다고 보도했다. 블룸버그는 이를 두고 머스크의 약속 대비 기대치에 미치지 못한 서비스라고 평가했다.\n\n테슬라는 오스틴 이후 라스베이거스 등 추가 도시 확장을 계획하고 있지만, 서비스 품질과 규모 모두 개선이 선행돼야 한다는 지적이다. 로보택시 사업이 테슬라 밸류에이션에서 핵심 근거로 거론되는 만큼, 투자자들은 단순한 확장 발표보다 실질 운행 품질·규모 지표를 면밀히 추적할 필요가 있다.",
+      "title_en": "Bloomberg: Austin Robotaxi Fleet <em>Just 59 Vehicles</em> — Long Waits, Hard Stops",
+      "hotShort_en": "Austin robotaxi fleet: <em>just 59 cars</em> in service",
+      "body_en": "Bloomberg rode Tesla's Austin robotaxi service and found just 59 vehicles operating — wait times stretched to tens of minutes and rides were marked by frequent hard stops. The gulf between Musk's promise of millions of autonomous vehicles and this pilot-scale reality could weigh on investor confidence.",
+      "summary_en": "Bloomberg published an in-depth ride-along investigation on June 10, finding Tesla's Austin robotaxi service running just 59 vehicles. Elon Musk has repeatedly promised a fleet of millions of FSD-powered robotaxis, yet months after commercial launch the service remains firmly at pilot scale.\n\nReporters described wait times of several tens of minutes and frequent sudden braking and stop-and-go behavior throughout the rides. Bloomberg characterized the experience as falling well short of expectations built by Musk's public statements on autonomous ride-hailing.\n\nTesla has plans to expand beyond Austin to Las Vegas and other cities, but analysts note that meaningful improvements in both fleet size and ride quality must come first. With robotaxi economics central to Tesla's premium valuation, investors are increasingly scrutinizing actual operational metrics — not just expansion announcements.",
       "href": "https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises",
       "sentiment": "bear",
-      "hot": 8,
-      "title_en": "Bloomberg: Austin robotaxis number <em>just 59</em> — waits and hard braking",
-      "hotShort_en": "Bloomberg confirms <em>just 59</em> Austin robotaxis",
-      "body_en": "Bloomberg rode Austin's robotaxis directly and found only 59 vehicles in service, with waits of tens of minutes and repeated hard braking. The gap from Musk's millions-of-robotaxis promise could weigh on investor confidence.",
-      "summary_en": "In an in-depth ride-along published June 10, Bloomberg found Tesla's Austin robotaxi service running just 59 vehicles. Musk has repeatedly promised an FSD-based fleet of millions, yet even post-launch the service remains pilot-scale.\n\nReporters who rode along described dispatch waits of tens of minutes and frequent unannounced hard braking and stop-and-go. Bloomberg judged the service as falling short of the expectations set by Musk's promises.\n\nTesla plans to expand beyond Austin to cities like Las Vegas, but both service quality and scale need to improve first. With robotaxi central to Tesla's valuation case, investors should track real operating quality and scale — not just expansion announcements."
+      "hot": 8
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-10T10:08:18.000Z",
       "title": "조 텍트마이어 \"유럽 슈퍼차징, <em>미국과 동등한</em> 원활한 경험 확인\"",
       "hotShort": "유럽 슈퍼차징, <em>미국과 동등한</em> 원활한 충전 경험",
@@ -53,18 +78,18 @@
       "sourceLabel": "press",
       "slug": "product-supercharging-europe-us-parity-2026-06-10",
       "summary": "테슬라 공장·차량 전문 저널리스트 조 텍트마이어(@JoeTegtmeyer)가 6월 10일 유럽 슈퍼차저를 직접 이용한 후 경험을 공유했다. 그는 '유럽 슈퍼차징은 미국과 매우 유사하다 — 원활한 사용자 경험으로 업계 최고 수준'이라고 밝혔다.\n\n테슬라 슈퍼차저 네트워크는 전용 앱 기반 결제, 자동 충전 세션, 직관적인 UI로 이용 편의성이 높다는 평가를 받는다. 타사 전기차 오너들도 일부 슈퍼차저를 사용할 수 있게 되면서 네트워크의 수익화 가능성도 확대되고 있다.\n\n유럽은 BYD를 비롯한 중국 브랜드의 공세가 거세지는 시장이지만, 슈퍼차저 네트워크의 일관된 품질은 테슬라가 브랜드 충성도를 유지하는 핵심 요소 중 하나다. 장거리 여행 신뢰성 측면의 우위는 단기간에 따라오기 어렵다는 평가다.",
+      "title_en": "Joe Tegtmeyer: European Supercharging <em>Matches U.S. Quality</em> — Seamless Experience",
+      "hotShort_en": "Europe charging <em>rivals U.S. quality</em>, reporter finds",
+      "body_en": "Tesla vehicle journalist Joe Tegtmeyer confirmed on June 10 that Europe's Supercharger network is 'very similar to the US which provides a seamless user experience' — the best in the industry, in his view. Global consistency in charging quality remains one of Tesla's hardest-to-replicate competitive moats.",
+      "summary_en": "Tesla vehicle journalist Joe Tegtmeyer (@JoeTegtmeyer) shared his European Supercharging experience on June 10, calling it 'very similar to the US which provides a seamless user experience' and rating it the best in the industry.\n\nTesla's Supercharger network is widely regarded as the gold standard in EV charging — integrated app payment, automatic session handling, and consistent hardware quality differentiate it from the fragmented third-party networks across Europe and North America.\n\nEurope is one of Tesla's most fiercely contested markets, with BYD and other Chinese brands scaling aggressively. Supercharger network consistency remains one of Tesla's harder-to-replicate moats, supporting brand loyalty among existing owners and giving EV newcomers a compelling reason to stay in the Tesla ecosystem.",
       "href": "https://x.com/JoeTegtmeyer/status/2064650859330379796",
       "sentiment": "bull",
-      "hot": 3,
-      "title_en": "Tegtmeyer: Europe Supercharging delivers a <em>US-equivalent</em> experience",
-      "hotShort_en": "Europe Supercharging is <em>on par with the US</em>",
-      "body_en": "Tesla-focused journalist Joe Tegtmeyer shared hands-on impressions of European Superchargers, calling them \"very similar to the US — best-in-class.\" The network's global consistency is one of Tesla's core edges over rival charging networks.",
-      "summary_en": "Tesla journalist Joe Tegtmeyer (@JoeTegtmeyer) shared his experience after using European Superchargers on June 10, saying it is \"very much like the US — a seamless, best-in-class experience.\"\n\nTesla's Supercharger network is praised for app-based payment, automatic charging sessions and an intuitive UI. As non-Tesla EVs gain access to some stalls, the network's monetization potential is also expanding.\n\nEurope faces fierce pressure from Chinese brands like BYD, but the Supercharger network's consistent quality is one key reason Tesla retains brand loyalty. Its edge in long-distance travel reliability is hard for rivals to match quickly."
+      "hot": 3
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-10T08:02:39.000Z",
       "title": "테슬라 공식 \"사이버트럭에 <em>스마트 서몬 배포</em> 시작\"",
       "hotShort": "테슬라, 사이버트럭에 <em>스마트 서몬</em> 오늘부터 배포",
@@ -73,6 +98,10 @@
       "sourceLabel": "official",
       "slug": "product-cybertruck-smart-summon-rollout-2026-06-10",
       "summary": "테슬라 공식 X 계정(@Tesla)이 6월 10일 '사이버트럭용 서몬(Summon) 기능이 곧 배포된다'고 발표했다. 테슬라 오너 커뮤니티(Tesla Owners SV)는 이를 '스마트 서몬(Smart Summon)'으로 확인하며, 일부 차량에 즉시 배포가 시작됐다고 알렸다.\n\n스마트 서몬은 운전자가 스마트폰 앱을 통해 주차장 내에서 차량을 원격 호출하거나 장애물을 피해 자동 이동시키는 기능이다. 기존 모델3·Y·S·X에서는 이미 제공되던 기능으로, 이번 사이버트럭 적용으로 테슬라 전 라인업에 기능이 통합됐다.\n\n사이버트럭 오너들 사이에서 오랫동안 요청돼 온 기능인 만큼, 이번 배포는 OTA 업데이트를 통한 지속적 가치 추가라는 테슬라 특유의 강점을 재확인시켜 준다.",
+      "title_en": "Tesla Official: <em>Smart Summon Rolls Out</em> for Cybertruck",
+      "hotShort_en": "Cybertruck gets <em>Smart Summon</em> update",
+      "body_en": "Tesla's official X account confirmed Smart Summon is rolling out for Cybertruck, letting owners remotely call their truck to them in parking lots via the Tesla app. The update extends Smart Summon to Tesla's full vehicle lineup, reinforcing the value of OTA software delivery.",
+      "summary_en": "Tesla's official X account (@Tesla) announced on June 10 that Summon for Cybertruck would be 'rolling out shortly.' Tesla community accounts confirmed the update began reaching vehicles immediately, identifying the feature as Smart Summon.\n\nSmart Summon lets Tesla owners remotely navigate their car through parking lots to meet them using the Tesla mobile app. The feature has been available on Model 3, Y, S, and X for several years; this Cybertruck rollout completes coverage across Tesla's full lineup.\n\nFor Cybertruck owners, Smart Summon had been a long-requested OTA update. Its arrival underscores one of Tesla's distinctive advantages — the ability to add meaningful functionality to already-sold vehicles wirelessly at scale, a capability no traditional automaker matches.",
       "href": "https://x.com/Tesla/status/2064619236459470979",
       "confirmedBy": 2,
       "confirmingSources": [
@@ -80,11 +109,7 @@
         "Tesla Owners SV (X)"
       ],
       "sentiment": "bull",
-      "hot": 6,
-      "title_en": "Tesla begins <em>Smart Summon rollout</em> to Cybertruck",
-      "hotShort_en": "Tesla rolls out <em>Smart Summon</em> to Cybertruck",
-      "body_en": "Tesla's official X account announced a Smart Summon rollout for Cybertruck. Bringing app-based remote vehicle calling to the pickup line takes cross-model feature integration in the FSD ecosystem a step further.",
-      "summary_en": "Tesla's official X account (@Tesla) announced on June 10 that Summon is \"coming soon\" to Cybertruck. The Tesla Owners SV community confirmed it as Smart Summon and said the rollout had begun reaching some vehicles immediately.\n\nSmart Summon lets a driver remotely call the vehicle across a parking lot or maneuver it around obstacles via the smartphone app. Already on Model 3, Y, S and X, the feature is now integrated across Tesla's full lineup with this Cybertruck addition.\n\nLong requested by Cybertruck owners, the rollout reaffirms Tesla's signature strength: continuously adding value through over-the-air updates."
+      "hot": 6
     },
     {
       "category": "stock",
