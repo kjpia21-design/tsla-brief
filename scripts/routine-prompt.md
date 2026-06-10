@@ -64,6 +64,9 @@ git reset --hard origin/master
     (단, SEC·NHTSA·테슬라 공식 발표 등 1차 자료는 자체로 사실이므로 예외.)
   - 🤡 **특히 @elonmusk 계정은 밈·농담 비중이 매우 높다** — 문자 그대로 옮기지 말고, 사실성·시의성을
     한 번 더 검증한 뒤에만 채택.
+- 📉 **시황 정합성 (가격-방향 기사 선별 게이트 — 영상도 사용)**: "주가 급등 분석"·"주가 급락 배경"처럼 **주가 방향을 단정하는 기사**는
+  **직전 미국 정규장 종가 방향과 일치할 때만 채택**한다. 주가가 **하락 마감했는데 "급등 분석" 기사**(또는 그 반대)면 **제외**.
+  → 사이트는 클라이언트에서 모순 카드를 숨기지만, **영상 파이프라인은 cards.json 을 그대로 소비**하므로 정제 단계에서 미리 걸러야 한다.
 - ⚠️ **옛 기사 재발행 의심 검사**: RSS 가 오래된 글을 새 pubDate 로 재발행하는 사고가 있다.
   내용이 현재 시점과 명백히 안 맞으면 (예: 이미 출시된 제품을 "예정/계획"으로 서술,
   'Model E'(=모델3 옛 코드명) 처럼 폐기된 명칭, 수년 전 이벤트를 신규처럼 서술) **제외**한다.
@@ -121,11 +124,11 @@ git reset --hard origin/master
   "sourceLabel": "press",                     // sec | official | press | rumor
   "slug": "stock-growth-engine-hit-2026-06-01", // 영문 소문자-하이픈-날짜, 유일값
   "summary": "상세 페이지 본문(3~5문단). ⚠️ 첫 문단은 body 를 그대로 반복하지 말 것 — 다른 각도/상술로 시작.",
-  // ── 영어 미러 (영어 페이지 /en/ 용 — 직역이 아니라 영어 에디터가 새로 쓴 듯이) ──
-  "titleEn": "Seeking Alpha: Tesla's <em>core growth engine</em> takes a hit",  // 핵심구 1곳 <em>
-  "hotShortEn": "Tesla's <em>core growth engine</em> takes a hit",              // 핫뉴스 모바일 1줄, ~36자, <em> 1곳
-  "bodyEn": "1–2 sentences — what happened + why it matters to shareholders.",   // 발췌 ❌, 요약+논평
-  "summaryEn": "Detail (3–5 paragraphs). First paragraph must NOT repeat bodyEn — different angle.",
+  // ── 영어 미러 (영어 페이지 /en/ + 영어 영상이 직접 소비 — 직역 아닌 영어 에디터가 새로 쓴 듯이) ──
+  "title_en": "Seeking Alpha: Tesla's <em>core growth engine</em> takes a hit",  // 핵심구 1곳 <em>
+  "hotShort_en": "Tesla's <em>core growth engine</em> takes a hit",              // 핫뉴스 모바일 1줄, ~36자, <em> 1곳
+  "body_en": "1–2 sentences — what happened + why it matters to shareholders.",   // 발췌 ❌, 요약+논평
+  "summary_en": "Detail (3–5 paragraphs). First paragraph must NOT repeat body_en — different angle.",
   "href": "원문 URL",
   "confirmedBy": 3,                           // (선택) 같은 사건 보도 매체 수. 2+ 면 "✓ N개 매체 확인" 신호. 단일 출처면 생략
   "confirmingSources": ["Reuters", "Bloomberg", "CNBC"], // (선택) 확인 매체명 최대 4 — 상세 페이지 노출
@@ -169,6 +172,8 @@ git reset --hard origin/master
   ⚠️ **검증 게이트 준수(필수)**: 비교 수치는 **출처에 있거나 확실히 검증 가능한 것만**. 출처에 없는 대비 수치를 **지어내지 말 것**
   (없으면 맥락 없이 사실만, 또는 "전분기와 비슷한 수준" 같은 정성 표현). **시간 지나면 틀려질 비교(예: 특정 현재가 대비 %)는 피하고**
   분기·컨센서스·직전 값 같은 **안정적 기준**을 쓴다.
+  - 🎬 **단위까지 본문에 명기(영상 연동)**: 숫자는 **단위·기호를 붙여 완결형**으로 쓴다 — `$12.7B`, `27%`, `3.5×`, `23.6M km`, `8 weeks`, `2,000/week`.
+    영상 파이프라인이 본문에서 이 패턴을 자동 색강조하므로, 단위 없는 맨숫자("12.7")로 두지 말 것. (한·영 본문 모두.)
 - 📉 **주가 등락은 장마감 종가 기준(필수)**: 주가 상승·하락률은 반드시 **전일 종가 → 당일 종가**(close-to-close)로 쓴다.
   **장중·잠정·실시간 수치 금지.** 미국 장 마감(한국 새벽) 후 **종가가 확정된 뒤에만** 등락 뉴스를 카드화하고, 종가 미확정이면 등락률을 빼거나 보류한다.
   (뉴스레터는 한국 아침 발행 = 미국 전일 종가 확정 후이므로 항상 종가 기준으로 검증 가능. 가능하면 종가 가격도 함께: "$408.95로 +4.6%".)
@@ -184,13 +189,13 @@ git reset --hard origin/master
     예) title "JP모건, 약세 애널리스트 교체 후 테슬라에 <em>전향적 시각으로 전환</em>"
     → hotShort **"JP모건, 약세 전망 접고 테슬라에 <em>전향적 시각</em>"**. (❌ 평문으로 두거나 "JP모건, 약세 애널리스트 교체 후" 처럼 자르지 말 것)
 
-### 🌐 영어 필드 작성 규칙 (titleEn·hotShortEn·bodyEn·summaryEn) — 한국어판과 같은 품질
+### 🌐 영어 필드 작성 규칙 (title_en·hotShort_en·body_en·summary_en) — 한국어판과 같은 품질
 영어 페이지는 한국어판과 **동급 품질**이어야 한다. **직역이 아니라**, 같은 사실을 **영어 에디터가 새로 쓴 듯** 자연스럽게.
-- **요약+논평(핵심)**: `bodyEn` 도 "무슨 일 + 주주에게 왜 중요한지(why it matters)"를 담는다. **원문 RSS 앞부분 발췌 절대 금지** — 지난 영어판 실패의 직접 원인이 발췌였다.
+- **요약+논평(핵심)**: `body_en` 도 "무슨 일 + 주주에게 왜 중요한지(why it matters)"를 담는다. **원문 RSS 앞부분 발췌 절대 금지** — 지난 영어판 실패의 직접 원인이 발췌였다.
 - **검증 게이트 동일 적용**: 출처에 없는 사실·숫자·인용을 영어로도 **지어내지 말 것**. 숫자 맥락화(QoQ/YoY·컨센서스)·주가 종가 기준·다음 행선지 규칙을 **영어에도 똑같이** 적용.
-- **titleEn**: 핵심구 1곳 `<em>…</em>`, 간결·능동태 영어 헤드라인. 한국어 title 과 같은 사실.
-- **hotShortEn**: 모바일 1줄용 짧은 영어 제목(**~36자 내외**, `<em>` 1곳, 완결형).
-- **summaryEn**: 3~5문단, 첫 문단은 bodyEn 반복 금지(다른 각도). 매체명·수치는 한국어판과 일치.
+- **title_en**: 핵심구 1곳 `<em>…</em>`, 간결·능동태 영어 헤드라인. 한국어 title 과 같은 사실.
+- **hotShort_en**: 모바일 1줄용 짧은 영어 제목(**~36자 내외**, `<em>` 1곳, 완결형).
+- **summary_en**: 3~5문단, 첫 문단은 body_en 반복 금지(다른 각도). 매체명·수치는 한국어판과 일치.
 - **고유명사 영어 표준**: Cybertruck, Cybercab, Robotaxi, Optimus, Powerwall/Megapack, Model 3/Y/S/X, FSD, Elon Musk, Jensen Huang.
 - **언어 공유 필드**(영어용 따로 안 만듦): `category`·`categoryLabel`·`sourceName`·`sourceLabel`·`slug`·`href`·`confirmedBy`·`confirmingSources`·`sentiment`·`hot`·`pubDate`·`time`. (영어 카테고리 라벨은 빌드가 `category` 로 자동 생성.)
 
@@ -213,8 +218,23 @@ git reset --hard origin/master
 - ⚠️ **두 파일 모두 반드시 `{ "items": [ ... ], "asOf": "..." }` 객체 구조**로 쓴다.
   **절대 bare 배열 `[ ... ]` 로 쓰지 말 것** — `items` 키가 없으면 사이트가 카드를 못 읽어 아카이브가 비어 버린다.
   (cards.json 의 기존 구조를 그대로 따르면 됨: 최상위는 객체, 카드들은 `items` 배열 안에.)
-- 🌐 **각 카드는 한·영 필드를 한 객체에 함께** 담는다(title+titleEn, body+bodyEn, summary+summaryEn, hotShort+hotShortEn).
+- 🌐 **각 카드는 한·영 필드를 한 객체에 함께** 담는다(title+title_en, body+body_en, summary+summary_en, hotShort+hotShort_en).
   별도 `cards-en.json`/`archive-en.json` 은 만들지 않는다 — **한 파일에 한·영 공존**(빌드가 언어별로 골라 쓴다).
+
+## 🎬 영상 파이프라인 연동 (cards.json 직접 소비 — 깨지지 않게)
+별도 테슬라 데일리 영상 파이프라인이 매일 이 `data/cards.json` 을 받아 **KO·EN 영상 대본**을 만든다.
+다음을 지키면 영상에 **무중단으로** 붙는다(번역 왕복 제거 → 영어 영상 품질·속도↑):
+1. **한 번 선별 → 두 언어로 작성**(이미 위에서 강제): KO/EN 영상이 항상 **같은 뉴스**를 다루게 됨. KO/EN 을 따로 고르지 말 것.
+2. **이중언어 단일 파일**: 한 item 이 KO 필드 + `_en` 필드를 **둘 다** 가진다(분리 파일 금지 → 매칭 안 깨짐).
+3. **영어는 영문 원문 기반**(직역 금지) — 위 영어 규칙대로.
+4. 영상이 읽는 필드 매핑 (사이트와 공유):
+   - 제목·본문: `title`/`title_en`, `body`/`body_en` (영상이 직접 사용).
+   - 카테고리: `category` (stock|product|fsd|musk).
+   - 원문 출처 URL: **`href`** (영상 스펙의 `url` 에 해당).
+   - 출처 등급 도트: `sourceLabel`(대표 등급) + `confirmedBy`(확인 매체 수).
+   - 안정적 식별자: **`slug`** (영상 스펙의 `id` 에 해당 — KO/EN 매칭·중복추적용).
+5. 본문 숫자는 **단위까지**(위 🎬 규칙), 핵심 구절은 **`<em>…</em>`** (사이트·영상 공용 강조).
+6. 나레이션·썸네일·KPI·일러스트·템플릿 선택은 **영상이 알아서** 한다 → 사이트는 **정제 팩트(카테고리·제목·본문·출처)만 두 언어로** 주면 된다.
 
 ## Step 6 — 빌드 검증
 ```
@@ -237,4 +257,4 @@ git push origin HEAD:master
 - 외부 HTTP 요청 (WebFetch 등)
 - 새 브랜치 생성 / PR 생성
 - `data/cards.json`, `data/archive.json` 외 다른 파일 수정
-- 별도 영어 파일(`*-en.json`) 생성 — 영어는 같은 카드 객체의 En 필드로 넣는다(별도 파일 금지)
+- 별도 영어 파일(`*-en.json`) 생성 — 영어는 같은 카드 객체의 `_en` 필드로 넣는다(별도 파일 금지)
