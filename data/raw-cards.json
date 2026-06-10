@@ -1,10 +1,62 @@
 {
-  "asOf": "2026-06-10 19:15 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-10 21:15 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6m ago",
+      "pubDate": "2026-06-10T21:08:55.000Z",
+      "title": "Prague is a hidden gem",
+      "body": "Prague is a hidden gem https://t.co/h1UF1yCBzR",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2064817107112743117"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "14m ago",
+      "pubDate": "2026-06-10T21:01:09.000Z",
+      "title": "Tesla stuns with another FSD approval in Europe, its second in two days",
+      "body": "Tesla stuns with another FSD approval in Europe, its second in two days Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-stuns-another-fsd-approval-in-europe-belgium/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "35m ago",
+      "pubDate": "2026-06-10T20:40:03.000Z",
+      "title": "First Folding Unit Superchargers in Europe 🇪🇺",
+      "body": "First Folding Unit Superchargers in Europe 🇪🇺 https://t.co/YR1udIpH1i https://t.co/KNfYWJukkL",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2064809844448833847"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-10T20:05:04.000Z",
+      "title": "What Sowell said is exactly right and needs to stop.",
+      "body": "What Sowell said is exactly right and needs to stop. https://t.co/XiU6A4Cv1k",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2064801037806981493"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-10T18:13:57.000Z",
       "title": "Tesla stock slips another 1.5% today: what's behind the recent decline?",
       "body": "Tesla stock slips another 1.5% today: what's behind the recent decline? Invezz",
@@ -15,9 +67,22 @@
       "href": "https://invezz.com/news/2026/06/10/tesla-stock-slips-another-1-5-today-whats-behind-the-recent-decline/"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-10T17:51:33.000Z",
+      "title": "SpaceX’s Elon Musk relieves worries about orbital data centers",
+      "body": "SpaceX’s Elon Musk relieves worries about orbital data centers Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/spacex-elon-musk-relieves-worries-orbital-data-centers/"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-10T17:36:00.000Z",
       "title": "Tesla Apparently Won't Let Cybertruck Buyers Transfer FSD Without Spending Another $20k",
       "body": "Tesla Apparently Won't Let Cybertruck Buyers Transfer FSD Without Spending Another $20k InsideEVs",
@@ -28,22 +93,9 @@
       "href": "https://insideevs.com/news/798281/tesla-cybertruck-fsd-transfer-switcharoo/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-10T17:32:51.000Z",
-      "title": "Elon Musk’s net worth by year (most recent to oldest): • 2026: $1.33T (projected) • 2025: $600B • 2024: $400B • 2023:…",
-      "body": "Elon Musk’s net worth by year (most recent to oldest): • 2026: $1.33T (projected) • 2025: $600B • 2024: $400B • 2023: $220B • 2022: $140B • 2021: $300B • 2020: $30B • 2019: $22.3B • 2018: $19.9B • 2017: $13.9B • 2016: $1…",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2064762731224510903"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-10T17:16:48.000Z",
       "title": "Great to be on @RiskReversal with Dan Nathan and @dmoses34 discussing all things tech in a huge week for the market \ud83c…",
       "body": "Great to be on @RiskReversal with Dan Nathan and @dmoses34 discussing all things tech in a huge week for the market 🏆🔥🍿🐂👇 https://t.co/1laJv1A8H0 https://t.co/e6vHkFTb26",
@@ -56,7 +108,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-10T17:15:36.000Z",
       "title": "Tesla Inc Stock (TSLA) Moved Down by 3.43% on Jun 10: A Full Analysis",
       "body": "Tesla Inc Stock (TSLA) Moved Down by 3.43% on Jun 10: A Full Analysis TradingKey",
@@ -67,22 +119,9 @@
       "href": "https://www.tradingkey.com/news/market-movers/261959157-market-movers-tsla-20260610"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-10T17:06:10.000Z",
-      "title": "Tesla’s robotaxi service is dramatically smaller and slower than Elon Musk predicted.",
-      "body": "Tesla’s robotaxi service is dramatically smaller and slower than Elon Musk predicted. The Verge",
-      "sourceName": "The Verge",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.theverge.com/transportation/947897/teslas-robotaxi-service-is-dramatically-smaller-and-slower-than-elon-musk-predicted"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-10T17:02:31.000Z",
       "title": "Tesla used Cybertruck listings now live on  The truck that was supposed to never sell is now selling on the used mark…",
       "body": "Tesla used Cybertruck listings now live on https://t.co/VV6ChaaBtd. The truck that was supposed to never sell is now selling on the used market too. https://t.co/0gdgQawKZE",
@@ -93,22 +132,9 @@
       "href": "https://x.com/teslaownersSV/status/2064755099222847890"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-10T16:56:08.000Z",
-      "title": "SpaceX’s Elon Musk relieves worries about orbital data centers",
-      "body": "SpaceX’s Elon Musk relieves worries about orbital data centers Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/spacex-elon-musk-relieves-worries-orbital-data-centers/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-10T16:54:48.000Z",
       "title": "New Tesla Supercharger: Los Ríos, Spain (8 stalls)",
       "body": "New Tesla Supercharger: Los Ríos, Spain (8 stalls) https://t.co/gFjI9iaI2p https://t.co/QaTcwPtgNZ",
@@ -121,20 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-10T16:36:47.000Z",
-      "title": "Tesla Full Self-Driving hits Level 4? One analyst says yes",
-      "body": "Tesla Full Self-Driving hits Level 4? One analyst says yes Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-tsla-full-self-driving-hits-level-4-one-analyst-says-yes/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-10T16:33:50.000Z",
       "title": "When a design philosophy is based on humanity needing a nanny, humanity has lost its agency—because kids don’t have m…",
       "body": "When a design philosophy is based on humanity needing a nanny, humanity has lost its agency—because kids don’t have much agency.",
@@ -145,35 +158,22 @@
       "href": "https://x.com/yunta_tsai/status/2064747879747788924"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-10T16:30:11.000Z",
-      "title": "Elon Musk will become the world’s first Trillionaire and yet all his companies are philanthropy.",
-      "body": "Elon Musk will become the world’s first Trillionaire and yet all his companies are philanthropy. https://t.co/JxgpqoVEKq",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2064746961199407305"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-10T16:25:40.000Z",
-      "title": "Tesla: The Future Looks Bright, The Stock Does Not (NASDAQ:TSLA)",
-      "body": "Tesla: The Future Looks Bright, The Stock Does Not (NASDAQ:TSLA) Seeking Alpha",
-      "sourceName": "Seeking Alpha",
+      "time": "5h ago",
+      "pubDate": "2026-06-10T16:09:43.000Z",
+      "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
+      "body": "Prediction: Tesla Stock Will Hit $500 on This Date Yahoo Finance",
+      "sourceName": "Yahoo Finance",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://seekingalpha.com/article/4913817-tesla-the-future-looks-bright-the-stock-does-not"
+      "href": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-hit-500-170943287.html"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-10T15:45:50.000Z",
       "title": "The core missions of Elon’s companies are always about maximizing the agency of humans. If you have trouble driving, …",
       "body": "The core missions of Elon’s companies are always about maximizing the agency of humans. If you have trouble driving, the car takes you where you want to go safely. If you need care, Optimus will be there. If you want to …",
@@ -186,7 +186,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-10T15:20:17.000Z",
       "title": "The AI Revolution continues to see massive demand ripple across the enterprise and this is good news for the tech win…",
       "body": "The AI Revolution continues to see massive demand ripple across the enterprise and this is good news for the tech winners @BloombergTV 🏆🎯📺👇🔥🐂🍿 https://t.co/wv8IK2BsLn",
@@ -199,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-10T14:44:57.000Z",
       "title": "I prefer working with a model that does not limit my curiosity, even if it’s not at the top of the benchmark charts. …",
       "body": "I prefer working with a model that does not limit my curiosity, even if it’s not at the top of the benchmark charts. The machine may run forever, but our time in this world is limited.",
@@ -210,22 +210,9 @@
       "href": "https://x.com/yunta_tsai/status/2064720478653354257"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-06-10T14:00:31.000Z",
-      "title": "Tesla confirms it’s releasing a long-awaited Cybertruck feature",
-      "body": "Tesla confirms it’s releasing a long-awaited Cybertruck feature Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-confirms-releasing-long-awaited-cybertruck-feature/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-10T13:57:14.000Z",
       "title": "Nothing else matters if civilization falls",
       "body": "Nothing else matters if civilization falls https://t.co/eWmQ3DzmVe",
@@ -236,9 +223,22 @@
       "href": "https://x.com/elonmusk/status/2064708472176799832"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "11h ago",
+      "pubDate": "2026-06-10T10:15:32.000Z",
+      "title": "Tesla’s Robotaxi Falls Short With Long Waits and Stalled Rides",
+      "body": "Tesla’s Robotaxi Falls Short With Long Waits and Stalled Rides Bloomberg",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-10T08:02:39.000Z",
       "title": "Summon for Cybertruck rolling out shortly",
       "body": "Summon for Cybertruck rolling out shortly https://t.co/rGli2iHbtL",
@@ -251,7 +251,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-10T08:00:51.000Z",
       "title": "Give me a booty call",
       "body": "Give me a booty call https://t.co/0KWFuMTlvg",
