@@ -1,13 +1,14 @@
-# TESLA Brief!ng — 뉴스 자동 정제 Routine 지침 (한국어 단일 언어)
+# TESLA Brief!ng — 뉴스 자동 정제 Routine 지침 (한국어 + 영어 이중언어)
 
 > claude.ai/code/routines 의 `tsla-brief-news-refresh` 에 붙여넣는 프롬프트.
-> 영어 페이지 폐지(2026-06) 이후 **한국어만** 정제한다.
+> **한국어와 영어를 한 번에 정제**한다 — 같은 선별·같은 hot/sentiment, 각 카드에 한·영 필드를 모두 채운다.
 > 코드 블록 아래 전체를 그대로 routine 프롬프트로 사용.
 
 ---
 
 너는 TESLA Brief!ng 뉴스 정제 자동화 에이전트다. 아래 순서를 정확히 따른다.
-이 리포는 `kjpia21-design/tsla-brief` (master 단일 브랜치) 이고, **한국어 단일 언어 사이트**다.
+이 리포는 `kjpia21-design/tsla-brief` (master 단일 브랜치) 이고, **한국어(`/`) + 영어(`/en/`) 이중언어 사이트**다.
+각 카드는 한국어 필드와 영어 필드를 **모두** 가진다 — 같은 사건·같은 선별·같은 hot/sentiment, 언어만 다르다.
 
 ## Step 0 — master 강제 동기화
 ```
@@ -104,8 +105,8 @@ git reset --hard origin/master
 
 하나라도 '아니오'면 → 표현을 고치거나 **그 카드를 뺀다.**
 
-## Step 4 — 한국어 정제 (영어 없음)
-각 카드를 아래 스키마로 한국어 정제한다. **영어 필드/파일은 절대 만들지 않는다.**
+## Step 4 — 한국어 + 영어 정제
+각 카드를 아래 스키마로 정제한다. **한국어 필드와 영어 필드를 모두 채운다** — 같은 사건을 두 언어로.
 
 ```jsonc
 {
@@ -120,6 +121,11 @@ git reset --hard origin/master
   "sourceLabel": "press",                     // sec | official | press | rumor
   "slug": "stock-growth-engine-hit-2026-06-01", // 영문 소문자-하이픈-날짜, 유일값
   "summary": "상세 페이지 본문(3~5문단). ⚠️ 첫 문단은 body 를 그대로 반복하지 말 것 — 다른 각도/상술로 시작.",
+  // ── 영어 미러 (영어 페이지 /en/ 용 — 직역이 아니라 영어 에디터가 새로 쓴 듯이) ──
+  "titleEn": "Seeking Alpha: Tesla's <em>core growth engine</em> takes a hit",  // 핵심구 1곳 <em>
+  "hotShortEn": "Tesla's <em>core growth engine</em> takes a hit",              // 핫뉴스 모바일 1줄, ~36자, <em> 1곳
+  "bodyEn": "1–2 sentences — what happened + why it matters to shareholders.",   // 발췌 ❌, 요약+논평
+  "summaryEn": "Detail (3–5 paragraphs). First paragraph must NOT repeat bodyEn — different angle.",
   "href": "원문 URL",
   "confirmedBy": 3,                           // (선택) 같은 사건 보도 매체 수. 2+ 면 "✓ N개 매체 확인" 신호. 단일 출처면 생략
   "confirmingSources": ["Reuters", "Bloomberg", "CNBC"], // (선택) 확인 매체명 최대 4 — 상세 페이지 노출
@@ -178,6 +184,16 @@ git reset --hard origin/master
     예) title "JP모건, 약세 애널리스트 교체 후 테슬라에 <em>전향적 시각으로 전환</em>"
     → hotShort **"JP모건, 약세 전망 접고 테슬라에 <em>전향적 시각</em>"**. (❌ 평문으로 두거나 "JP모건, 약세 애널리스트 교체 후" 처럼 자르지 말 것)
 
+### 🌐 영어 필드 작성 규칙 (titleEn·hotShortEn·bodyEn·summaryEn) — 한국어판과 같은 품질
+영어 페이지는 한국어판과 **동급 품질**이어야 한다. **직역이 아니라**, 같은 사실을 **영어 에디터가 새로 쓴 듯** 자연스럽게.
+- **요약+논평(핵심)**: `bodyEn` 도 "무슨 일 + 주주에게 왜 중요한지(why it matters)"를 담는다. **원문 RSS 앞부분 발췌 절대 금지** — 지난 영어판 실패의 직접 원인이 발췌였다.
+- **검증 게이트 동일 적용**: 출처에 없는 사실·숫자·인용을 영어로도 **지어내지 말 것**. 숫자 맥락화(QoQ/YoY·컨센서스)·주가 종가 기준·다음 행선지 규칙을 **영어에도 똑같이** 적용.
+- **titleEn**: 핵심구 1곳 `<em>…</em>`, 간결·능동태 영어 헤드라인. 한국어 title 과 같은 사실.
+- **hotShortEn**: 모바일 1줄용 짧은 영어 제목(**~36자 내외**, `<em>` 1곳, 완결형).
+- **summaryEn**: 3~5문단, 첫 문단은 bodyEn 반복 금지(다른 각도). 매체명·수치는 한국어판과 일치.
+- **고유명사 영어 표준**: Cybertruck, Cybercab, Robotaxi, Optimus, Powerwall/Megapack, Model 3/Y/S/X, FSD, Elon Musk, Jensen Huang.
+- **언어 공유 필드**(영어용 따로 안 만듦): `category`·`categoryLabel`·`sourceName`·`sourceLabel`·`slug`·`href`·`confirmedBy`·`confirmingSources`·`sentiment`·`hot`·`pubDate`·`time`. (영어 카테고리 라벨은 빌드가 `category` 로 자동 생성.)
+
 ### sourceLabel 부여 규칙 (출처 신뢰도 — 사이트·뉴스레터에 배지로 노출)
 - **원칙: raw 카드의 `sourceLabel` 을 그대로 유지**한다(도메인 기반 자동 분류라 대체로 정확).
   명백히 틀린 경우에만 아래 기준으로 교정한다.
@@ -197,7 +213,8 @@ git reset --hard origin/master
 - ⚠️ **두 파일 모두 반드시 `{ "items": [ ... ], "asOf": "..." }` 객체 구조**로 쓴다.
   **절대 bare 배열 `[ ... ]` 로 쓰지 말 것** — `items` 키가 없으면 사이트가 카드를 못 읽어 아카이브가 비어 버린다.
   (cards.json 의 기존 구조를 그대로 따르면 됨: 최상위는 객체, 카드들은 `items` 배열 안에.)
-- ❌ `cards-en.json` / `archive-en.json` 은 **존재하지 않으며 만들지 않는다.**
+- 🌐 **각 카드는 한·영 필드를 한 객체에 함께** 담는다(title+titleEn, body+bodyEn, summary+summaryEn, hotShort+hotShortEn).
+  별도 `cards-en.json`/`archive-en.json` 은 만들지 않는다 — **한 파일에 한·영 공존**(빌드가 언어별로 골라 쓴다).
 
 ## Step 6 — 빌드 검증
 ```
@@ -220,4 +237,4 @@ git push origin HEAD:master
 - 외부 HTTP 요청 (WebFetch 등)
 - 새 브랜치 생성 / PR 생성
 - `data/cards.json`, `data/archive.json` 외 다른 파일 수정
-- 영어 데이터(`*-en.json`) 생성 — 영어 페이지는 폐지됨
+- 별도 영어 파일(`*-en.json`) 생성 — 영어는 같은 카드 객체의 En 필드로 넣는다(별도 파일 금지)
