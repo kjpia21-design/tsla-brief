@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-10 03:30 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-10 04:16 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3m ago",
+      "time": "50m ago",
       "pubDate": "2026-06-10T03:26:49.000Z",
       "title": "New Tesla Supercharger: Dallas, TX - Skillman Street (16 stalls)",
       "body": "New Tesla Supercharger: Dallas, TX - Skillman Street (16 stalls) https://t.co/Z0whWcc6xk https://t.co/yAVjypOLuh",
@@ -17,7 +17,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8m ago",
+      "time": "54m ago",
       "pubDate": "2026-06-10T03:22:24.000Z",
       "title": "Tesla Full Self-Driving is taking over Europe: fourth country gets FSD approval",
       "body": "Tesla Full Self-Driving is taking over Europe: fourth country gets FSD approval Teslarati",
@@ -30,7 +30,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-10T02:02:44.000Z",
       "title": "Tesla stock drops. OpenAI is coming for one line of its business.",
       "body": "Tesla stock drops. OpenAI is coming for one line of its business. MSN",
@@ -43,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-10T01:36:39.000Z",
       "title": "40 airlines have now signed on to use Starlink for in-flight Wi-Fi. Not 40 that are testing it. ~ 5 fully installed a…",
       "body": "40 airlines have now signed on to use Starlink for in-flight Wi-Fi. Not 40 that are testing it. ~ 5 fully installed and operational ~ 11 actively rolling out ~ 24 announced or in testing When we wrote about 37 airlines a…",
@@ -54,9 +54,22 @@
       "href": "https://x.com/teslaownersSV/status/2064522095422267479"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-10T01:32:30.000Z",
+      "title": "Tesla CFO Vaibhav Taneja sells $1.05m in TSLA shares By Investing.com",
+      "body": "Tesla CFO Vaibhav Taneja sells $1.05m in TSLA shares By Investing.com Investing.com Australia",
+      "sourceName": "Investing.com Australia",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://m.au.investing.com/news/insider-trading-news/tesla-cfo-vaibhav-taneja-sells-105m-in-tsla-shares-93CH-4479383?ampMode"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-10T01:31:00.000Z",
       "title": "Elon Musk, after DOGE and politics, bets on SpaceX IPO",
       "body": "Elon Musk, after DOGE and politics, bets on SpaceX IPO Yahoo Finance",
@@ -69,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-10T01:24:00.000Z",
       "title": "Some start companies to inspire. Some start companies to control. We shall continue to inspire so that future generat…",
       "body": "Some start companies to inspire. Some start companies to control. We shall continue to inspire so that future generations can make progress toward a first-class civilization in this galaxy.",
@@ -82,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-10T01:00:54.000Z",
       "title": "Great to be on @BloombergRadio with @ptsweeney @scarletfu discussing Big Tech and the AI Revolution in a big week for…",
       "body": "Great to be on @BloombergRadio with @ptsweeney @scarletfu discussing Big Tech and the AI Revolution in a big week for tech 🔥🎯🐂🍿🏆📺👇@business https://t.co/IpqK8MFycR https://t.co/ssrwgilqfH",
@@ -93,22 +106,9 @@
       "href": "https://x.com/DivesTech/status/2064513101676900730"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-10T00:52:59.000Z",
-      "title": "Look forward to discussing Big Tech and a big week with SpaceX on @BloombergTV at 8:15 am with @FerroTV @lisaabramowi…",
-      "body": "Look forward to discussing Big Tech and a big week with SpaceX on @BloombergTV at 8:15 am with @FerroTV @lisaabramowicz1 @annmarie @business 🔥🏆🍿🎯📺🚀🐂",
-      "sourceName": "Dan Ives (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/DivesTech/status/2064511105649504655"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-10T00:41:55.000Z",
       "title": "Ugh, this sounds pretty dangerous if any robotics or automation company, even if irrelevant to “Frontier AI” labs, us…",
       "body": "Ugh, this sounds pretty dangerous if any robotics or automation company, even if irrelevant to “Frontier AI” labs, uses the Mythos. What constitutes “Frontier Research” these days, and who decides it? What if the Mythos …",
@@ -134,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-09T23:34:32.000Z",
       "title": "Tesla AI chip design engineering reviews are so great! Team is awesome. Our AI6 chip might set a record for most amou…",
       "body": "Tesla AI chip design engineering reviews are so great! Team is awesome. Our AI6 chip might set a record for most amount of usable intelligence from a wafer when factoring in yield.",
@@ -147,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-09T23:27:22.000Z",
       "title": "🇰🇪 Starlink helping schools in Kenya 🇰🇪",
       "body": "🇰🇪 Starlink helping schools in Kenya 🇰🇪 https://t.co/QqtTLaetz3",
@@ -160,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-09T23:21:46.000Z",
       "title": "Tesla (NASDAQ:TSLA) CFO Vaibhav Taneja Sells 2,606 Shares",
       "body": "Tesla (NASDAQ:TSLA) CFO Vaibhav Taneja Sells 2,606 Shares MarketBeat",
@@ -173,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-09T22:32:55.000Z",
       "title": "New Tesla Supercharger: Beaverton, OR - Southwest Beaverton Hillsdale Highway (16 stalls)",
       "body": "New Tesla Supercharger: Beaverton, OR - Southwest Beaverton Hillsdale Highway (16 stalls) https://t.co/ywRN2gQ80M https://t.co/WEzmXKMmb7",
@@ -186,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-09T21:20:03.000Z",
       "title": "Major improvement in safety statistics with FSD turned on in the Netherlands!",
       "body": "Major improvement in safety statistics with FSD turned on in the Netherlands! https://t.co/88WHk4S85g",
@@ -199,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-09T20:27:00.000Z",
       "title": "Tesla Stock: Cathie Wood’s First Robo-Taxi Ride, Dutch Safety Data Provide a Lift",
       "body": "Tesla Stock: Cathie Wood’s First Robo-Taxi Ride, Dutch Safety Data Provide a Lift Barron's",
@@ -212,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-09T15:38:40.000Z",
       "title": "Tesla Motors Model X Reveal Event",
       "body": "Tesla Motors Model X Reveal Event Teslarati",
@@ -225,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-09T15:36:00.000Z",
       "title": "🇳🇱🇱🇹🇪🇪 + 🇩🇰",
       "body": "🇳🇱🇱🇹🇪🇪 + 🇩🇰 https://t.co/4Ryxa56Qsg",
@@ -236,9 +236,22 @@
       "href": "https://x.com/Tesla/status/2064370937949253743"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "13h ago",
+      "pubDate": "2026-06-09T15:16:20.000Z",
+      "title": "SpaceX's lofty valuation set to put 'Elon premium' to test",
+      "body": "SpaceX's lofty valuation set to put 'Elon premium' to test Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/legalindustry/spacexs-lofty-valuation-set-put-elon-premium-test-2026-06-09/"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-09T15:14:02.000Z",
       "title": "New Tesla Supercharger: Colfax, CA (12 stalls)",
       "body": "New Tesla Supercharger: Colfax, CA (12 stalls) https://t.co/slpVxY2Fzq https://t.co/UV8bWdF2EX",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2064365408568975403"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
-      "pubDate": "2026-06-09T03:41:00.000Z",
-      "title": "Why Is Tesla (TSLA) Stock Rocketing Higher Today",
-      "body": "Why Is Tesla (TSLA) Stock Rocketing Higher Today Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-stock-rocketing-034150415.html"
     }
   ]
 }
