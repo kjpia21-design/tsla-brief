@@ -366,7 +366,10 @@ function priceDirection(c) {
 }
 const STALE_PRICE_HOURS = 24;
 
-function renderHotNews(cards) {
+// 카드 텍스트 필드 선택 — 영어 빌드(lang="en")면 `<base>_en` 사용(없으면 한글 폴백). ko 면 항상 한글.
+function fld(c, base, lang) { return (lang === "en" ? (c[base + "_en"] || c[base]) : c[base]) || ""; }
+
+function renderHotNews(cards, lang = "ko") {
   const hotOf = (c) => (typeof c.hot === "number" ? c.hot : 5);
   const byHot = (a, b) => (hotOf(b) - hotOf(a)) || (Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
   // 신선도 가드 — 오래된 가격-방향 뉴스는 핫 후보에서 제외(최신 뉴스 목록엔 그대로 남음).
@@ -400,7 +403,7 @@ function renderHotNews(cards) {
     const dirAttr = dir ? ` data-price-dir="${dir}"` : "";   // 라이브 주가와 모순 시 클라이언트가 숨김
     // 모바일 1줄용 축약 — <em> 제거 후 단어 경계로 잘라 "잘린 듯" 보이지 않게.
     return `      <li><a class="hot-news__item ${cls}"${dirAttr} href="${escapeHtml(href)}">
-        <span class="hot-news__title"><span class="hn-full">${c.title}</span><span class="hn-short">${hotShortHtml(c)}</span></span>
+        <span class="hot-news__title"><span class="hn-full">${fld(c, "title", lang)}</span><span class="hn-short">${hotShortHtml(c, lang)}</span></span>
       </a></li>`;
   }).join("\n");
   return `\n${items}\n      `;
@@ -422,8 +425,8 @@ function shortHotTitle(htmlTitle, MAX = 26) {
 
 // hotShort 안전 렌더 — 전체 escape 후 <em>…</em> 만 복원(카테고리색 italic 강조).
 // 그 외 태그·속성(<em onclick> 등)은 정확히 일치하지 않아 escape 유지 → XSS 안전.
-function hotShortHtml(c) {
-  const raw = c.hotShort || shortHotTitle(c.title);
+function hotShortHtml(c, lang = "ko") {
+  const raw = (lang === "en" ? c.hotShort_en : c.hotShort) || shortHotTitle(fld(c, "title", lang));
   return escapeHtml(raw)
     .replace(/&lt;em&gt;/g, "<em>")
     .replace(/&lt;\/em&gt;/g, "</em>");
@@ -458,8 +461,8 @@ function renderCards(cards, { lang = "ko" } = {}) {
           <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c)}
           <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
-        <h3>${c.title}</h3>
-        <p class="ccard__body">${escapeHtml(cardBody(c.body))}</p>
+        <h3>${fld(c, "title", lang)}</h3>
+        <p class="ccard__body">${escapeHtml(cardBody(fld(c, "body", lang)))}</p>
         <div class="ccard__meta">
           <div class="src">${renderCardMeta(c)}</div>
           <span class="ccard__cta">${ctaLabel}</span>
@@ -482,8 +485,8 @@ function renderAllCards(cards, { lang = "ko" } = {}) {
           <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c)}
           <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
-        <h3>${c.title}</h3>
-        <p class="ccard__body">${escapeHtml(cardBody(c.body))}</p>
+        <h3>${fld(c, "title", lang)}</h3>
+        <p class="ccard__body">${escapeHtml(cardBody(fld(c, "body", lang)))}</p>
         <div class="ccard__meta">
           <div class="src">${renderCardMeta(c)}</div>
           <span class="ccard__cta">${ctaLabel}</span>
@@ -500,19 +503,20 @@ function newsIndexEntry(c, lang = "ko") {
   const cls = CATEGORY_CLASS[c.category] || "is-stock";
   const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
   const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
-  const titlePlain = (c.title || "").replace(/<\/?em>/g, "");
+  const titleF = fld(c, "title", lang), bodyF = fld(c, "body", lang);
+  const titlePlain = titleF.replace(/<\/?em>/g, "");
   return {
     category: c.category || "stock",
     cls,
     catLabel,
-    title: c.title || "",
-    body: cardBody(c.body),
+    title: titleF,
+    body: cardBody(bodyF),
     time: c.time || "",
     pubDate: c.pubDate || "",
     href,
     src: renderCardMeta(c),
     senti: sentiBadge(c),
-    q: `${titlePlain} ${c.body || ""} ${c.sourceName || ""}`.toLowerCase(),
+    q: `${titlePlain} ${bodyF} ${c.sourceName || ""}`.toLowerCase(),
   };
 }
 
@@ -605,6 +609,9 @@ async function loadLivePrice() {
 const SOURCE_LABEL_KR = {
   sec: "1차 자료", official: "공식", press: "외신", rumor: "추측",
 };
+const SOURCE_LABEL_EN = {
+  sec: "Primary source", official: "Official", press: "Press", rumor: "Unconfirmed",
+};
 
 /**
  * pubDate(ISO) → 실제 게재 날짜 문자열. 상세 페이지에서 "1h ago" 대신 사용.
@@ -639,7 +646,7 @@ function relatedArticles(card, pool, lang = "ko") {
   if (rel.length < 2) return "";   // 1개뿐이면 빈약 → 섹션 생략
   const heading = lang === "en" ? "Related" : "관련 기사";
   const items = rel.map((c) => {
-    const t = escapeHtml((c.title || "").replace(/<\/?em>/g, ""));
+    const t = escapeHtml(fld(c, "title", lang).replace(/<\/?em>/g, ""));
     const time = escapeHtml(formatArticleDate(c.pubDate, lang) || c.time || "");
     return `<a class="art__rel__item" href="${escapeHtml(c.slug)}.html">`
       + `<span class="art__rel__t">${t}</span>`
@@ -654,14 +661,20 @@ function renderArticle(template, card, lang = "ko", pool = []) {
   const srcDot = SOURCE_LABEL_DOT[srcLabel] || "d-press";
   const srcKr = SOURCE_LABEL_KR[srcLabel] || "외신";
   const sourceName = card.sourceName || "외신";
+  // 영어 빌드용 필드/라벨 (ko 면 한글 그대로)
+  const titleHtml = fld(card, "title", lang);
+  const bodyRaw = fld(card, "body", lang);
+  const summaryRaw = fld(card, "summary", lang);
+  const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[card.category] || card.categoryLabel) : card.categoryLabel;
+  const srcText = lang === "en" ? (SOURCE_LABEL_EN[srcLabel] || "Press") : srcKr;
 
   // 리드/본문 중복 제거:
   //  - 리드(art__lead)는 짧은 도입(card.body), 본문(art__summary)은 상술(card.summary).
   //  - body 가 summary 첫 단락과 거의 같으면 본문에서 그 단락을 빼 중복을 막는다.
   //  - body 가 없으면 summary 첫 단락을 리드로 승격.
   const normTxt = (s) => (s || "").replace(/<\/?em>/g, "").replace(/[\s\p{P}]+/gu, "").toLowerCase();
-  let paras = (card.summary || "").split(/\n{2,}/).map((p) => p.trim()).filter(Boolean);
-  const bodyText = (card.body || "").trim();
+  let paras = (summaryRaw || "").split(/\n{2,}/).map((p) => p.trim()).filter(Boolean);
+  const bodyText = (bodyRaw || "").trim();
   let leadText;
   if (bodyText) {
     leadText = bodyText;
@@ -685,8 +698,8 @@ function renderArticle(template, card, lang = "ko", pool = []) {
   }
   const summaryHtml = paras.map((p) => `<p>${escapeHtml(p)}</p>`).join("\n    ");
 
-  const titleTxt = card.title.replace(/<\/?em>/g, "");
-  const desc = (card.summary || card.body || "").slice(0, 120).replace(/\n+/g, " ").trim() + "…";
+  const titleTxt = titleHtml.replace(/<\/?em>/g, "");
+  const desc = (summaryRaw || bodyRaw || "").slice(0, 120).replace(/\n+/g, " ").trim() + "…";
 
   // article 은 카드 데이터에서 매번 새로 생성되므로 idempotent 필요 없음 →
   // 모든 마커를 keepMarkers: false 로 제거 (attribute 값 안에 들어가도 안전).
@@ -695,26 +708,26 @@ function renderArticle(template, card, lang = "ko", pool = []) {
   out = replaceBlock(out, "A_TITLE_TXT",    escapeHtml(titleTxt + " — Tesla Briefing"), opts);
   out = replaceBlock(out, "A_DESC",         escapeHtml(desc), opts);
   out = replaceBlock(out, "A_CAT_CLASS",    catCls, opts);
-  out = replaceBlock(out, "A_CAT_LABEL",    escapeHtml(card.categoryLabel), opts);
-  out = replaceBlock(out, "A_TITLE",        card.title, opts);  // <em> 살림
+  out = replaceBlock(out, "A_CAT_LABEL",    escapeHtml(catLabel), opts);
+  out = replaceBlock(out, "A_TITLE",        titleHtml, opts);  // <em> 살림
   out = replaceBlock(out, "A_TIME",         escapeHtml(formatArticleDate(card.pubDate, lang) || card.time || ""), opts);
   out = replaceBlock(out, "A_SRC_DOT",      srcDot, opts);
   out = replaceBlock(out, "A_SRC_DOT2",     srcDot, opts);
   out = replaceBlock(out, "A_SRC_NAME",     escapeHtml(sourceName), opts);
   out = replaceBlock(out, "A_SRC_NAME2",    escapeHtml(sourceName), opts);
-  out = replaceBlock(out, "A_SRC_LABEL_KR", escapeHtml(srcKr), opts);
+  out = replaceBlock(out, "A_SRC_LABEL_KR", escapeHtml(srcText), opts);
   out = replaceBlock(out, "A_LEAD",         escapeHtml(leadText), opts);
   out = replaceBlock(out, "A_SUMMARY",      summaryHtml, opts);
   out = replaceBlock(out, "A_HREF",         escapeHtml(card.href || "#"), opts);
   out = replaceBlock(out, "A_CANON",        escapeHtml(card.slug || ""), opts);   // canonical·og:url 슬러그
-  out = replaceBlock(out, "A_JSONLD",       articleJsonLd(card), opts);            // NewsArticle 구조화 데이터
+  out = replaceBlock(out, "A_JSONLD",       articleJsonLd(card, lang), opts);       // NewsArticle 구조화 데이터
   // 교차검증(#1): N개 매체 확인 신호 + 확인 매체 목록
   const confirmedTxt = (typeof card.confirmedBy === "number" && card.confirmedBy >= 2)
-    ? ` <span aria-hidden="true">·</span> <span class="art__confirmed">✓ ${card.confirmedBy}개 매체 교차확인</span>`
+    ? ` <span aria-hidden="true">·</span> <span class="art__confirmed">✓ ${lang === "en" ? `Confirmed by ${card.confirmedBy} outlets` : `${card.confirmedBy}개 매체 교차확인`}</span>`
     : "";
   out = replaceBlock(out, "A_CONFIRMED", confirmedTxt, opts);
   const csrc = Array.isArray(card.confirmingSources) && card.confirmingSources.length
-    ? `<div class="art__source__also">교차확인 · ${card.confirmingSources.map(escapeHtml).join(" · ")}</div>`
+    ? `<div class="art__source__also">${lang === "en" ? "Confirmed by" : "교차확인"} · ${card.confirmingSources.map(escapeHtml).join(" · ")}</div>`
     : "";
   out = replaceBlock(out, "A_CONFIRM_SRCS", csrc, opts);
   const senti = sentiBadge(card);
@@ -883,7 +896,7 @@ async function buildOneLang(opts) {
 
   let out = template;
   out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi));
-  out = replaceBlock(out, "HOT_NEWS",    renderHotNews(cards));
+  out = replaceBlock(out, "HOT_NEWS",    renderHotNews(cards, lang));
   out = replaceBlock(out, "INVESTOR_CAL", renderInvestorCalendar(calendar, lang, now));
   out = replaceBlock(out, "HOT_COUNT",   hotCountLabel);
   const cardsFreshSince = cards.items[0]?.pubDate || "";
@@ -947,10 +960,11 @@ function generateOgImages() {
   console.log(`[build] 기사 OG 이미지 ${OG_SLUGS.size}건 사용 가능`);
 }
 
-function articleJsonLd(card) {
-  const headline = (card.title || "").replace(/<\/?em>/g, "").trim();
-  const url = `${SITE}/articles/${card.slug}`;
-  const desc = (card.summary || card.body || "")
+function articleJsonLd(card, lang = "ko") {
+  const headline = fld(card, "title", lang).replace(/<\/?em>/g, "").trim();
+  const base = lang === "en" ? `${SITE}/en` : SITE;
+  const url = `${base}/articles/${card.slug}`;
+  const desc = (fld(card, "summary", lang) || fld(card, "body", lang) || "")
     .replace(/<\/?em>/g, "").replace(/\s+/g, " ").trim().slice(0, 200);
   const obj = {
     "@context": "https://schema.org",
@@ -960,7 +974,7 @@ function articleJsonLd(card) {
     url,
     mainEntityOfPage: { "@type": "WebPage", "@id": url },
     image: [ogImageUrl(card)],
-    inLanguage: "ko",
+    inLanguage: lang === "en" ? "en" : "ko",
     author: { "@type": "Organization", name: "Tesla Brief!ng", url: `${SITE}/` },
     publisher: {
       "@type": "Organization",
