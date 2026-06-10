@@ -228,13 +228,6 @@
     backdrop-filter:blur(14px) saturate(140%);-webkit-backdrop-filter:blur(14px) saturate(140%);
     border-bottom:1px solid var(--line-mute);
   }
-  .price-bar__cal{
-    display:inline-flex;align-items:center;gap:4px;flex-shrink:0;
-    font-size:10.5px;font-weight:700;color:var(--ink-mid);letter-spacing:.02em;
-    padding:2px 8px;border:1px solid var(--line);border-radius:var(--r-pill);background:var(--bg-3);
-    transition:border-color var(--t-1) var(--ease),color var(--t-1) var(--ease);
-  }
-  .price-bar__cal:hover{border-color:var(--tesla-red);color:var(--ink)}
   /* 모바일 (< 520px): 진짜 1줄. 폰트 압축 + nowrap. 너무 길면 좌측 안전 영역 잘라냄. */
   .price-bar__box{
     /* 주가 박스만 다크 — 카드·핫뉴스와 동일 톤. 범위 내 토큰 재정의. */
@@ -282,10 +275,8 @@
   /* 모바일(<520px): 범위도 숨김 — 기준시간 우선 */
   .price-bar__range{display:none;color:var(--ink-mid);font-weight:500;font-size:11px;overflow:hidden;text-overflow:ellipsis}
   .price-bar__range b{display:none}  /* 모바일: "오늘" 라벨 숨김 (공간 절약) */
-  /* 모바일: asOf 숨김 — 📅 D-day 칩 우선(한 줄 유지). ≥520px 에서 다시 노출 */
-  .price-bar__asof{display:none;color:var(--ink-mid);font-size:10.5px;letter-spacing:.02em;margin-left:auto;flex-shrink:0}
-  .price-bar__cal{margin-left:auto}
-  @media (min-width:520px){ .price-bar__cal{margin-left:0} }
+  /* 모바일: asOf(현재 기준시간) 노출 — 변동폭보다 우선 */
+  .price-bar__asof{display:inline-block;color:var(--ink-mid);font-size:10.5px;letter-spacing:.02em;margin-left:auto;flex-shrink:0}
 
   /* ≥520px: 폰트 크기 회복 + asOf 노출 + "오늘" 라벨 다시 보이게 */
   @media (min-width: 520px){

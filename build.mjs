@@ -118,16 +118,11 @@ function fmtFreshLabel(pubDate) {
   return `최신 콘텐츠 ${Math.round(hr / 24)}일 전`;
 }
 
-function renderKpi(kpi, calendar = null, now = new Date()) {
+function renderKpi(kpi) {
   // 옛 5칸 스키마 (items 배열) → 빈 placeholder
   if (Array.isArray(kpi.items)) {
     return emptyPriceBar();
   }
-  // 티커 칩 — 다음 투자자 일정 D-day (클릭 → 핫뉴스 하단 캘린더 라인)
-  const nextEv = calendar ? upcomingEvents(calendar, now) : null;
-  const calChip = nextEv
-    ? `<a class="price-bar__cal" href="#hot" title="${escapeHtml((nextEv.next.title || "").replace(/\s+/g, " "))} — ${escapeHtml(fmtCalDate(nextEv.next.date))}${nextEv.next.tentative ? " (잠정)" : ""}">📅 ${nextEv.dday === 0 ? "D-DAY" : `D-${nextEv.dday}`}</a>`
-    : "";
   const up = (kpi.change || 0) >= 0;
   const dir = up ? "up" : "down";
   const arrow = up ? "▲" : "▼";
@@ -164,7 +159,6 @@ function renderKpi(kpi, calendar = null, now = new Date()) {
           <span class="pb-full" data-pb-range-full>${escapeHtml(rangeFull)}</span>
           <span class="pb-short" data-pb-range-short>${escapeHtml(rangeShort)}</span>
         </span>
-        ${calChip}
         <span class="price-bar__asof" data-pb-asof>${escapeHtml(formatAsOfET(kpi.asOf))}</span>
       </span>
       `;
@@ -875,7 +869,7 @@ async function buildOneLang(opts) {
   catch { calendar = { events: [] }; }
 
   let out = template;
-  out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi, calendar, now));
+  out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi));
   out = replaceBlock(out, "HOT_NEWS",    renderHotNews(cards));
   out = replaceBlock(out, "INVESTOR_CAL", renderInvestorCalendar(calendar, lang, now));
   out = replaceBlock(out, "HOT_COUNT",   hotCountLabel);
