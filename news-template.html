@@ -260,7 +260,14 @@
   function fmtFresh(iso) {
     const t = Date.parse(iso);
     if (Number.isNaN(t)) return "";
+    const isEn = document.documentElement.lang === 'en';
     const diffMin = Math.max(1, Math.round((Date.now() - t) / 60000));
+    if (isEn) {
+      if (diffMin < 60) return `updated ${diffMin}m ago`;
+      const hr = Math.round(diffMin / 60);
+      if (hr < 24) return `updated ${hr}h ago`;
+      return `updated ${Math.round(hr / 24)}d ago`;
+    }
     if (diffMin < 60) return `최신 콘텐츠 ${diffMin}분 전`;
     const diffHr = Math.round(diffMin / 60);
     if (diffHr < 24) return `최신 콘텐츠 ${diffHr}시간 전`;
@@ -287,6 +294,7 @@
   const bar  = document.getElementById('news-filter');
   const grid = document.getElementById('news-grid');
   if (!bar || !grid) return;
+  const isEn = document.documentElement.lang === 'en';
   const catBtns = bar.querySelectorAll('.nf-cat');
   const search  = document.getElementById('news-search');
   const empty   = document.getElementById('news-empty');
@@ -319,8 +327,8 @@
   }
   function dateHdr(ms){
     const k = kstParts(ms);
-    if (k.key === kstParts(Date.now()).key) return '오늘';
-    if (k.key === kstParts(Date.now() - 86400000).key) return '어제';
+    if (k.key === kstParts(Date.now()).key) return isEn ? 'Today' : '오늘';
+    if (k.key === kstParts(Date.now() - 86400000).key) return isEn ? 'Yesterday' : '어제';
     return k.label;
   }
   function cardHtml(it){
@@ -330,7 +338,7 @@
       + '<span class="ccard__time" data-pubdate="' + esc(it.pubDate) + '">' + esc(relTime(it.pubDate) || it.time) + '</span></div>'
       + '<h3>' + it.title + '</h3>'
       + '<p class="ccard__body">' + esc(it.body) + '</p>'
-      + '<div class="ccard__meta"><div class="src">' + it.src + '</div><span class="ccard__cta">자세히</span></div></a>';
+      + '<div class="ccard__meta"><div class="src">' + it.src + '</div><span class="ccard__cta">' + (isEn ? 'Read' : '자세히') + '</span></div></a>';
   }
   async function ensureIndex(){
     if (index) return index;
@@ -353,7 +361,7 @@
     if (page < 0) page = 0;
     if (!list.length){
       grid.innerHTML = ''; empty.hidden = false; pager.hidden = true;
-      count.textContent = '0건'; return;
+      count.textContent = isEn ? '0 results' : '0건'; return;
     }
     empty.hidden = true;
     const start = page * PER;
@@ -369,7 +377,9 @@
       html += cardHtml(it);
     }
     grid.innerHTML = html;
-    count.textContent = '총 ' + list.length + '건 중 ' + (start + 1) + '–' + (start + slice.length);
+    count.textContent = isEn
+      ? (start + 1) + '–' + (start + slice.length) + ' of ' + list.length
+      : '총 ' + list.length + '건 중 ' + (start + 1) + '–' + (start + slice.length);
     if (pages > 1){
       pager.hidden = false;
       info.textContent = (page + 1) + ' / ' + pages;
