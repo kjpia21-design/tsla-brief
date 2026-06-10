@@ -108,17 +108,19 @@ function formatAsOfET(s) {
 
 // 신선도 라벨 — 빌드 시점에 미리 계산해 SSR. (클라이언트 fmtFresh 와 동일 포맷, JS 가 이어서 갱신)
 // "갱신 시각 계산 중…" 플레이스홀더가 첫 페인트·JS꺼짐·봇에 노출되지 않게.
-function fmtFreshLabel(pubDate) {
+function fmtFreshLabel(pubDate, lang) {
   const t = Date.parse(pubDate);
   if (Number.isNaN(t)) return "";
+  const en = lang === "en";
   const min = Math.max(1, Math.round((Date.now() - t) / 60000));
-  if (min < 60) return `최신 콘텐츠 ${min}분 전`;
+  if (min < 60) return en ? `updated ${min}m ago` : `최신 콘텐츠 ${min}분 전`;
   const hr = Math.round(min / 60);
-  if (hr < 24) return `최신 콘텐츠 ${hr}시간 전`;
-  return `최신 콘텐츠 ${Math.round(hr / 24)}일 전`;
+  if (hr < 24) return en ? `updated ${hr}h ago` : `최신 콘텐츠 ${hr}시간 전`;
+  const d = Math.round(hr / 24);
+  return en ? `updated ${d}d ago` : `최신 콘텐츠 ${d}일 전`;
 }
 
-function renderKpi(kpi) {
+function renderKpi(kpi, lang) {
   // 옛 5칸 스키마 (items 배열) → 빈 placeholder
   if (Array.isArray(kpi.items)) {
     return emptyPriceBar();
@@ -143,7 +145,8 @@ function renderKpi(kpi) {
     ? `${Math.round(kpi.dayLow)}–${Math.round(kpi.dayHigh)}`
     : "—–—";
   const stateShort = (kpi.marketStateShort || kpi.marketState || "").toLowerCase();
-  const stateLabel = kpi.marketStateLabel || kpi.marketState || "—";
+  const EN_STATE = { reg: "Market open", pre: "Pre-market", post: "After hours", closed: "Market closed" };
+  const stateLabel = (lang === "en" ? EN_STATE[stateShort] : null) || kpi.marketStateLabel || kpi.marketState || "—";
   // 초기 등락률(빌드 시점) — 라이브 fetch 실패해도 가격-방향 핫뉴스 모순 숨김에 사용.
   const changeInit = typeof kpi.changePct === "number" ? ` data-change-init="${kpi.changePct}"` : "";
   return `
@@ -627,6 +630,20 @@ const EN_FONT_LINKS = `<link rel="stylesheet" href="https://fonts.googleapis.com
 // 정적 UI 문구 한→영 (en 페이지 chrome). 긴 문자열을 앞에 둬 부분치환 방지. 카드 본문은 _en 으로 이미 영어.
 const UI_EN = [
   // 긴 문자열을 최상단에(부분치환 방지)
+  // leaked chrome: 폼 메시지(JS) · JSON-LD · a11y 속성 · 빈 결과
+  ["일치하는 뉴스가 없습니다. 다른 키워드나 카테고리를 시도해 보세요.", "No matching news — try a different keyword or category."],
+  ["네트워크 오류입니다. 잠시 후 다시 시도해 주세요.", "Network error. Please try again shortly."],
+  ["이미 구독 중인 이메일이에요. 곧 브리핑을 받아보세요.", "You're already subscribed — your briefing is on the way."],
+  ["구독 신청 완료! 첫 브리핑을 기대해 주세요.", "Subscribed! Watch for your first briefing."],
+  ["개인정보 수집·이용에 동의해 주세요.", "Please agree to the collection and use of your personal data."],
+  ["테슬라 주주를 위한, 노이즈 없는 일일 브리핑", "A daily Tesla brief for shareholders, without the noise."],
+  ["잠시 후 다시 시도해 주세요.", "Please try again shortly."],
+  ["YouTube 채널 (새 창)", "YouTube channel (new window)"],
+  ["유튜브 채널 바로가기", "Open YouTube channel"],
+  ["Tesla Briefing — 홈", "Tesla Briefing — Home"],
+  ["큐레이션 기준 설명", "How we curate"],
+  ['aria-label="영상 1"', 'aria-label="Video 1"'],
+  ["신청 중…", "Submitting…"],
   ["테슬라 주주에게 의미 있는 4개 주제(주가·실적 / 차량·에너지·옵티머스 / 자율·로보택시 / 일론)만 다룹니다. 매 2시간 RSS를 모아 ① 신선도(최근 24시간 가산점)와 ② 출처 신뢰도(증권·공식·전문매체 가산, 익명 커뮤니티·블로그 감점)로 점수를 매겨 카테고리당 상위 항목을 자동 선별합니다. 점 색은 출처 등급을 뜻합니다 — 사람의 의견이 아니라 출처 자체의 성격입니다.",
    "We cover only the four topics that matter to Tesla shareholders (stock & earnings / vehicles, energy & Optimus / autonomy & robotaxi / Elon). Every 2 hours we gather RSS and score each item by ① freshness (a recency bonus for the past 24 hours) and ② source reliability (credit for brokerages, official channels and specialist press; penalties for anonymous communities and blogs), then auto-select the top items per category. Dot colors mark the source tier — the nature of the source itself, not anyone's opinion."],
   ["실적, 제품, 서비스, 머스크 관련 소식까지, 흩어진 뉴스를 한데 보아 매일 아침 한 통의 뉴스레터로 정리합니다.",
@@ -831,7 +848,7 @@ async function generateNewsPage(cards, { newsTemplateName = "news-template.html"
   // 사용자용 부제목 — archive.json 내부 asOf 잡텍스트("최신 100건 (slug dedup…)") 노출 금지.
   const sortLabel = lang === "en" ? "latest first" : "최신순";
   const newsAsOf = freshSince
-    ? `${escapeHtml(`${totalLabel} · ${sortLabel}`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">${escapeHtml(fmtFreshLabel(freshSince) || freshLabel)}</span>`
+    ? `${escapeHtml(`${totalLabel} · ${sortLabel}`)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(freshSince)}">${escapeHtml(fmtFreshLabel(freshSince, lang) || freshLabel)}</span>`
     : escapeHtml(`${totalLabel} · ${sortLabel}`);
   out = replaceBlock(out, "NEWS_TIME", newsAsOf);
   // SSR 은 1페이지(10건)만 — 나머지는 클라이언트가 news-index.json 으로 페이지네이션.
@@ -965,13 +982,13 @@ async function buildOneLang(opts) {
   catch { calendar = { events: [] }; }
 
   let out = template;
-  out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi));
+  out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi, lang));
   out = replaceBlock(out, "HOT_NEWS",    renderHotNews(cards, lang));
   out = replaceBlock(out, "INVESTOR_CAL", renderInvestorCalendar(calendar, lang, now));
   out = replaceBlock(out, "HOT_COUNT",   hotCountLabel);
   const cardsFreshSince = cards.items[0]?.pubDate || "";
   const cardsAsOf = cardsFreshSince
-    ? `${escapeHtml(localizedCardsAsOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">${escapeHtml(fmtFreshLabel(cardsFreshSince) || freshLabel)}</span>`
+    ? `${escapeHtml(localizedCardsAsOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">${escapeHtml(fmtFreshLabel(cardsFreshSince, lang) || freshLabel)}</span>`
     : escapeHtml(localizedCardsAsOf);
   out = replaceBlock(out, "CARDS_TIME",  cardsAsOf);
   out = replaceBlock(out, "CARDS_GRID",  renderCards(cards, { lang }));

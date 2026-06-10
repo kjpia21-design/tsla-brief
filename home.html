@@ -1333,7 +1333,7 @@ function tslaSubscribe(e){
     let vis = 0;
     list.querySelectorAll('li').forEach(function (li) { if (li.style.display !== 'none') vis++; });
     const cnt = document.querySelector('.hot-news__count');
-    if (cnt) cnt.textContent = '총 ' + vis + '건';
+    if (cnt) cnt.textContent = (document.documentElement.lang === 'en') ? (vis + ' items') : ('총 ' + vis + '건');
   }
 
   function render(d) {
