@@ -3,7 +3,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-10T03:26:49.000Z",
       "title": "테슬라, 달라스 스킬만가에 <em>슈퍼차저 16기</em> 신규 개통",
       "hotShort": "테슬라 달라스(텍사스) <em>슈퍼차저 16기</em> 개통",
@@ -19,7 +19,23 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "3.5h ago",
+      "pubDate": "2026-06-10T02:02:44.000Z",
+      "title": "MSN \"OpenAI, 테슬라 사업 <em>한 분야에 직접 경쟁</em> 진입\"",
+      "hotShort": "OpenAI, 테슬라 <em>사업 한 분야</em> 직접 진입",
+      "body": "MSN이 OpenAI가 테슬라의 사업 한 분야에 직접 경쟁자로 진입하기 시작했다고 보도했다 — AI 생태계 전반에서 경쟁자들이 테슬라의 핵심 영역으로 침투하는 흐름이 가속화되고 있다는 신호다.",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "stock-openai-tesla-competition-2026-06-10",
+      "summary": "MSN이 OpenAI가 테슬라가 영위하는 사업 한 분야에 경쟁자로 직접 진입했다고 보도했다. 어떤 사업 분야인지는 MSN 원문에서 확인할 수 있으며, 이 보도는 테슬라 주가가 하락 압박을 받던 6월 9일 시점에 나왔다.\n\nOpenAI는 최근 생성형 AI를 넘어 로봇공학·자율 에이전트·물리적 AI(Physical AI) 등 다양한 방향으로 사업 영역을 확장해 왔다. 테슬라는 FSD 자율주행, 옵티머스 로봇, 에너지 저장·충전 인프라 등 여러 사업 분야를 동시에 운영하고 있어 OpenAI의 확장과 중복 가능성이 있는 영역이 존재한다.\n\n투자자 관점에서 OpenAI와의 직접 경쟁 진입은 테슬라의 AI·로봇 사업 밸류에이션 프리미엄에 장기적 영향을 미칠 수 있는 변수다. 어떤 분야에서 경쟁이 시작됐는지, 테슬라가 어떤 차별화 전략으로 대응할지는 향후 실적 발표·제품 발표에서 확인될 것으로 보인다.",
+      "href": "https://www.msn.com/en-us/money/savingandinvesting/tesla-stock-drops-openai-is-coming-for-one-line-of-its-business/ar-AA24y89A?ocid",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
       "pubDate": "2026-06-10T01:32:30.000Z",
       "title": "테슬라 CFO 탄에자, <em>2,606주(약 105만달러)</em> 매도 — Form 4 공시",
       "hotShort": "테슬라 CFO 탄에자 <em>약 105만달러 주식 매도</em>",
@@ -37,7 +53,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "5.5h ago",
       "pubDate": "2026-06-09T23:55:10.000Z",
       "title": "모틀리풀 \"테슬라 중국 판매, 2개월 슬럼프 깨고 <em>22% 급반등</em>\"",
       "hotShort": "테슬라 중국 판매 <em>22% 급반등</em> — 슬럼프 탈출",
@@ -53,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-09T23:34:32.000Z",
       "title": "일론 머스크 \"테슬라 AI6 칩 — 수율 감안 <em>웨이퍼당 지능량 세계 기록</em> 가능성\"",
       "hotShort": "일론, AI6 칩 <em>웨이퍼당 지능 세계 기록</em> 노린다",
@@ -67,5 +83,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-06-10 13:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-10 14:35 KST 자동 갱신 · 최신순"
 }
