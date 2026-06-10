@@ -429,6 +429,16 @@ function hotShortHtml(c) {
     .replace(/&lt;\/em&gt;/g, "</em>");
 }
 
+// 카드 본문 — 'A다 — [왜 중요]' 구조에서 em/en 대시 앞의 완결된 사실 문장만 노출한다.
+//   왜-중요 꼬리는 기사 상세(본문)에 그대로 남아 있고, 카드는 문장 중간에 끊기지 않게 한다.
+//   대시가 없으면 원문 그대로(이미 완결문). 단어 내 하이픈은 건드리지 않게 ' — '/' – ' 만 분리.
+function cardBody(body) {
+  const t = (body || "").replace(/\s+/g, " ").trim();
+  if (!t) return "";
+  const i = t.search(/\s[—–]\s/);
+  return (i >= 16 ? t.slice(0, i) : t).trim();
+}
+
 /**
  * 메인 카드 그리드 — cards.items 의 첫 5개 (최신순).
  * 전체 보기는 news.html 로 이동.
@@ -446,7 +456,7 @@ function renderCards(cards, { lang = "ko" } = {}) {
           <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
         <h3>${c.title}</h3>
-        <p class="ccard__body">${escapeHtml(c.body)}</p>
+        <p class="ccard__body">${escapeHtml(cardBody(c.body))}</p>
         <div class="ccard__meta">
           <div class="src">${renderCardMeta(c)}</div>
           <span class="ccard__cta">${ctaLabel}</span>
@@ -470,7 +480,7 @@ function renderAllCards(cards, { lang = "ko" } = {}) {
           <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
         <h3>${c.title}</h3>
-        <p class="ccard__body">${escapeHtml(c.body)}</p>
+        <p class="ccard__body">${escapeHtml(cardBody(c.body))}</p>
         <div class="ccard__meta">
           <div class="src">${renderCardMeta(c)}</div>
           <span class="ccard__cta">${ctaLabel}</span>
@@ -493,7 +503,7 @@ function newsIndexEntry(c, lang = "ko") {
     cls,
     catLabel,
     title: c.title || "",
-    body: c.body || "",
+    body: cardBody(c.body),
     time: c.time || "",
     pubDate: c.pubDate || "",
     href,
