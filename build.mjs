@@ -429,14 +429,17 @@ function hotShortHtml(c) {
     .replace(/&lt;\/em&gt;/g, "</em>");
 }
 
-// 카드 본문 — 'A다 — [왜 중요]' 구조에서 em/en 대시 앞의 완결된 사실 문장만 노출한다.
-//   왜-중요 꼬리는 기사 상세(본문)에 그대로 남아 있고, 카드는 문장 중간에 끊기지 않게 한다.
-//   대시가 없으면 원문 그대로(이미 완결문). 단어 내 하이픈은 건드리지 않게 ' — '/' – ' 만 분리.
+// 카드 본문 — 완결된 사실 한 문장만 노출(왜-중요 상술은 기사 상세에 유지, 카드는 중간 절단 방지).
+//   1) ' — [왜 중요]' 대시 꼬리 제거  2) 여러 문장이면 첫 문장만.
+//   소수점("3.5%")·약어 내부 점은 종결로 오인하지 않게 종결부호 뒤가 공백/끝일 때만 자른다.
 function cardBody(body) {
-  const t = (body || "").replace(/\s+/g, " ").trim();
+  let t = (body || "").replace(/\s+/g, " ").trim();
   if (!t) return "";
-  const i = t.search(/\s[—–]\s/);
-  return (i >= 16 ? t.slice(0, i) : t).trim();
+  const d = t.search(/\s[—–]\s/);
+  if (d >= 16) t = t.slice(0, d).trim();
+  const m = t.match(/^[\s\S]*?[.!?。](?=\s|$)/);
+  if (m && [...m[0]].length >= 24 && m[0].length < t.length) t = m[0].trim();
+  return t;
 }
 
 /**
