@@ -1,41 +1,47 @@
 {
-  "asOf": "2026-06-09",
+  "asOf": "2026-06-10",
   "note": "분기 실적·인도 일정은 테슬라 공식 발표 전 과거 패턴 기반 잠정치입니다. 공식 확정 시 해당 이벤트의 date 를 고치고 tentative 를 false 로 바꾸면 보존됩니다(scripts/refresh-calendar.mjs).",
   "events": [
     {
       "key": "2026-Q2-pd",
       "date": "2026-07-02",
       "title": "Q2 2026 차량 인도·생산 실적 발표",
+      "title_en": "Q2 2026 Production & Delivery report",
       "tentative": true
     },
     {
       "key": "2026-Q2-earnings",
       "date": "2026-07-23",
       "title": "Q2 2026 실적 발표·컨퍼런스콜",
+      "title_en": "Q2 2026 Earnings call",
       "tentative": true
     },
     {
       "key": "2026-Q3-pd",
       "date": "2026-10-02",
       "title": "Q3 2026 차량 인도·생산 실적 발표",
+      "title_en": "Q3 2026 Production & Delivery report",
       "tentative": true
     },
     {
       "key": "2026-Q3-earnings",
       "date": "2026-10-22",
       "title": "Q3 2026 실적 발표·컨퍼런스콜",
+      "title_en": "Q3 2026 Earnings call",
       "tentative": true
     },
     {
       "key": "2026-Q4-pd",
       "date": "2027-01-02",
       "title": "Q4 2026 차량 인도·생산 실적 발표",
+      "title_en": "Q4 2026 Production & Delivery report",
       "tentative": true
     },
     {
       "key": "2026-Q4-earnings",
       "date": "2027-01-28",
       "title": "Q4 2026 실적 발표·컨퍼런스콜",
+      "title_en": "Q4 2026 Earnings call",
       "tentative": true
     }
   ]

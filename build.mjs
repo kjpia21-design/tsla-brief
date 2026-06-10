@@ -51,10 +51,10 @@ const CATEGORY_LABEL_EN = {
 
 // 4단계 출처 표시 순서: 1차(green) → 공식(blue) → 외신(orange) → 추측(grey)
 const SOURCE_ORDER = [
-  { key: "sec",      dot: "d-sec",    label: "1차"  },
-  { key: "official", dot: "d-off",    label: "공식" },
-  { key: "press",    dot: "d-press",  label: "외신" },
-  { key: "rumor",    dot: "d-rumor",  label: "추측" },
+  { key: "sec",      dot: "d-sec",    label: "1차",  labelEn: "Primary"  },
+  { key: "official", dot: "d-off",    label: "공식", labelEn: "Official" },
+  { key: "press",    dot: "d-press",  label: "외신", labelEn: "Press"    },
+  { key: "rumor",    dot: "d-rumor",  label: "추측", labelEn: "Rumor"    },
 ];
 
 /**
@@ -184,12 +184,12 @@ function emptyPriceBar() {
 }
 
 // 옛 스키마(`sources` 카운트 객체) 호환용. 신 스키마는 sourceName 단일.
-function renderSources(sources) {
+function renderSources(sources, lang = "ko") {
   const parts = SOURCE_ORDER
-    .map(({ key, dot, label }) => {
+    .map(({ key, dot, label, labelEn }) => {
       const n = sources[key] || 0;
       if (n <= 0) return null;
-      return `<span><i class="d ${dot}"></i> ${label} ${n}</span>`;
+      return `<span><i class="d ${dot}"></i> ${(lang === "en" ? labelEn : label)} ${n}</span>`;
     })
     .filter(Boolean)
     .join("\n            ");
@@ -203,43 +203,49 @@ const SOURCE_LABEL_DOT = {
 // 출처 신뢰도 배지 — 1차 자료(SEC·규제기관) / 공식(테슬라·일론 직접) 만 강조.
 // 외신·추측은 도트만(클러터 방지). 인라인 스타일이라 템플릿 CSS 변경 불필요.
 const TIER_BADGE = {
-  sec:      { kr: "1차 자료", bg: "#16A34A" },   // 초록 — 출처 팔레트(카테고리와 비충돌)
-  official: { kr: "공식",     bg: "#8B5CF6" },   // 보라
+  sec:      { kr: "1차 자료", en: "Primary",  bg: "#16A34A" },   // 초록 — 출처 팔레트(카테고리와 비충돌)
+  official: { kr: "공식",     en: "Official", bg: "#8B5CF6" },   // 보라
 };
-function tierBadge(label) {
+function tierBadge(label, lang = "ko") {
   const b = TIER_BADGE[label];
   if (!b) return "";
   return `<span style="display:inline-block;background:${b.bg};color:#fff;`
     + `font-size:10px;font-weight:700;letter-spacing:.02em;padding:1px 6px;`
-    + `border-radius:4px;margin-right:6px;vertical-align:middle">${b.kr}</span>`;
+    + `border-radius:4px;margin-right:6px;vertical-align:middle">${lang === "en" ? b.en : b.kr}</span>`;
 }
 
 // 교차검증 신호(#1): 같은 사건을 N개 매체가 보도 → 신뢰 신호(outlined 배지, CSS 변수로 테마 대응).
-function confirmedBadge(c) {
+function confirmedBadge(c, lang = "ko") {
   const n = typeof c.confirmedBy === "number" ? c.confirmedBy : 0;
   if (n < 2) return "";
-  return `<span title="${n}개 매체가 같은 내용을 보도(교차확인)" style="display:inline-block;`
+  const title = lang === "en" ? `${n} outlets reported the same (cross-checked)` : `${n}개 매체가 같은 내용을 보도(교차확인)`;
+  const text = lang === "en" ? `✓ ${n} outlets` : `✓ ${n}개 매체`;
+  return `<span title="${title}" style="display:inline-block;`
     + `border:1px solid var(--line);color:var(--ink-mute);font-size:10px;font-weight:600;`
     + `letter-spacing:.02em;padding:0 6px;border-radius:4px;margin-right:6px;vertical-align:middle">`
-    + `✓ ${n}개 매체</span>`;
+    + `${text}</span>`;
 }
 
 // 강세/약세 태그(#2) — sentiment(bull/bear)만 표시(중립·미지정은 생략해 클러터 방지). 색: 상승 초록 / 하락 빨강.
 const SENTI_TIP = "원문 기사 논조 기반 자동 분류입니다 — 편집부 투자 의견이 아닙니다";
-function sentiBadge(c) {
-  if (c.sentiment === "bull") return `<span class="senti senti--bull" title="${SENTI_TIP}">▲ 강세</span>`;
-  if (c.sentiment === "bear") return `<span class="senti senti--bear" title="${SENTI_TIP}">▼ 약세</span>`;
+const SENTI_TIP_EN = "Auto-classified from the source article's tone — not editorial investment advice";
+function sentiBadge(c, lang = "ko") {
+  const tip = lang === "en" ? SENTI_TIP_EN : SENTI_TIP;
+  const bull = lang === "en" ? "▲ Bullish" : "▲ 강세";
+  const bear = lang === "en" ? "▼ Bearish" : "▼ 약세";
+  if (c.sentiment === "bull") return `<span class="senti senti--bull" title="${tip}">${bull}</span>`;
+  if (c.sentiment === "bear") return `<span class="senti senti--bear" title="${tip}">${bear}</span>`;
   return "";
 }
 
 /** 카드 메타: 신 스키마(sourceName) 우선, 없으면 옛 sources 카운트 폴백. */
-function renderCardMeta(c) {
+function renderCardMeta(c, lang = "ko") {
   if (c.sourceName) {
     const dot = SOURCE_LABEL_DOT[c.sourceLabel || "press"] || "d-press";
-    const badge = tierBadge(c.sourceLabel);
-    return `${badge}${confirmedBadge(c)}<span class="src-name"><i class="d ${dot}"></i>${escapeHtml(c.sourceName)}</span>`;
+    const badge = tierBadge(c.sourceLabel, lang);
+    return `${badge}${confirmedBadge(c, lang)}<span class="src-name"><i class="d ${dot}"></i>${escapeHtml(c.sourceName)}</span>`;
   }
-  if (c.sources) return renderSources(c.sources);
+  if (c.sources) return renderSources(c.sources, lang);
   return "";
 }
 
@@ -299,12 +305,13 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
     : { lead: "다음 일정", head: "투자자 캘린더 · 향후 일정", tent: "잠정", today: "오늘",
         foot: `분기 실적·인도 일정은 공식 발표 전 과거 패턴 기반 <b>잠정</b>치 — 확정 일정은 <a href="https://ir.tesla.com" target="_blank" rel="noopener">ir.tesla.com</a> 참조.` };
   const ddayTxt = dday === 0 ? L.today : `D-${dday}`;
-  // 메인 노출 제목에서 연도(20xx) 제거 — 데이터엔 연도 유지, 화면만 간결화.
+  // 메인 노출 제목에서 연도(20xx) 제거 — 데이터엔 연도 유지, 화면만 간결화. en 은 title_en 우선.
   const stripYear = (t) => (t || "").replace(/\s*\b20\d{2}\b\s*/, " ").replace(/\s+/g, " ").trim();
+  const evTitle = (e) => stripYear(lang === "en" ? (e.title_en || e.title) : e.title);
   const tentChip = (e) => (e.tentative ? `<span class="ic__tent">${L.tent}</span>` : "");
   const rows = upcoming.map((e) =>
     `<li class="ic__row"><span class="ic__rdate">${escapeHtml(fmtCalDate(e.date, lang))}</span>`
-    + `<span class="ic__rtitle">${escapeHtml(stripYear(e.title))}${tentChip(e)}</span></li>`
+    + `<span class="ic__rtitle">${escapeHtml(evTitle(e))}${tentChip(e)}</span></li>`
   ).join("\n          ");
   // Event 구조화 데이터 — 검색엔진이 투자자 일정을 이벤트로 인식 (잠정 일정은 description에 명시)
   const eventsLd = JSON.stringify({
@@ -315,12 +322,14 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
       position: i + 1,
       item: {
         "@type": "Event",
-        name: `Tesla ${(e.title || "").replace(/\s+/g, " ").trim()}`,
+        name: `Tesla ${((lang === "en" ? (e.title_en || e.title) : e.title) || "").replace(/\s+/g, " ").trim()}`,
         startDate: e.date,
         eventStatus: "https://schema.org/EventScheduled",
         eventAttendanceMode: "https://schema.org/OnlineEventAttendanceMode",
         location: { "@type": "VirtualLocation", url: "https://ir.tesla.com" },
-        description: e.tentative ? "과거 패턴 기반 잠정 일정 — 공식 확정 전" : "공식 확정 일정",
+        description: e.tentative
+          ? (lang === "en" ? "Estimated from historical pattern — pending official confirmation" : "과거 패턴 기반 잠정 일정 — 공식 확정 전")
+          : (lang === "en" ? "Officially confirmed" : "공식 확정 일정"),
         organizer: { "@type": "Organization", name: "Tesla, Inc.", url: "https://ir.tesla.com" },
       },
     })),
@@ -329,7 +338,7 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
     <details class="ic">
       <summary class="ic__bar">
         <span class="ic__lead">${L.lead}</span>
-        <span class="ic__title">${escapeHtml(stripYear(next.title))}</span>
+        <span class="ic__title">${escapeHtml(evTitle(next))}</span>
         <span class="ic__date">${escapeHtml(fmtCalDate(next.date, lang))}</span>${tentChip(next)}
         <span class="ic__dday">${ddayTxt}</span>
         <span class="ic__cal" aria-hidden="true">📅</span>
@@ -458,13 +467,13 @@ function renderCards(cards, { lang = "ko" } = {}) {
     const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
-          <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c)}
+          <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c, lang)}
           <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
         <h3>${fld(c, "title", lang)}</h3>
         <p class="ccard__body">${escapeHtml(cardBody(fld(c, "body", lang)))}</p>
         <div class="ccard__meta">
-          <div class="src">${renderCardMeta(c)}</div>
+          <div class="src">${renderCardMeta(c, lang)}</div>
           <span class="ccard__cta">${ctaLabel}</span>
         </div>
       </a>`;
@@ -482,13 +491,13 @@ function renderAllCards(cards, { lang = "ko" } = {}) {
     const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
-          <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c)}
+          <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c, lang)}
           <span class="ccard__time"${pubAttr}>${escapeHtml(c.time)}</span>
         </div>
         <h3>${fld(c, "title", lang)}</h3>
         <p class="ccard__body">${escapeHtml(cardBody(fld(c, "body", lang)))}</p>
         <div class="ccard__meta">
-          <div class="src">${renderCardMeta(c)}</div>
+          <div class="src">${renderCardMeta(c, lang)}</div>
           <span class="ccard__cta">${ctaLabel}</span>
         </div>
       </a>`;
@@ -514,8 +523,8 @@ function newsIndexEntry(c, lang = "ko") {
     time: c.time || "",
     pubDate: c.pubDate || "",
     href,
-    src: renderCardMeta(c),
-    senti: sentiBadge(c),
+    src: renderCardMeta(c, lang),
+    senti: sentiBadge(c, lang),
     q: `${titlePlain} ${bodyF} ${c.sourceName || ""}`.toLowerCase(),
   };
 }
@@ -617,21 +626,40 @@ const SOURCE_LABEL_EN = {
 const EN_FONT_LINKS = `<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=Inter:wght@400;500;600;700&display=swap">`;
 // 정적 UI 문구 한→영 (en 페이지 chrome). 긴 문자열을 앞에 둬 부분치환 방지. 카드 본문은 _en 으로 이미 영어.
 const UI_EN = [
-  ["TESLA Brief!ng — 노이즈 없는 테슬라 브리핑", "TESLA Brief!ng — the signal, without the noise"],
+  // 긴 문자열을 최상단에(부분치환 방지)
+  ["테슬라 주주에게 의미 있는 4개 주제(주가·실적 / 차량·에너지·옵티머스 / 자율·로보택시 / 일론)만 다룹니다. 매 2시간 RSS를 모아 ① 신선도(최근 24시간 가산점)와 ② 출처 신뢰도(증권·공식·전문매체 가산, 익명 커뮤니티·블로그 감점)로 점수를 매겨 카테고리당 상위 항목을 자동 선별합니다. 점 색은 출처 등급을 뜻합니다 — 사람의 의견이 아니라 출처 자체의 성격입니다.",
+   "We cover only the four topics that matter to Tesla shareholders (stock & earnings / vehicles, energy & Optimus / autonomy & robotaxi / Elon). Every 2 hours we gather RSS and score each item by ① freshness (a recency bonus for the past 24 hours) and ② source reliability (credit for brokerages, official channels and specialist press; penalties for anonymous communities and blogs), then auto-select the top items per category. Dot colors mark the source tier — the nature of the source itself, not anyone's opinion."],
+  ["실적, 제품, 서비스, 머스크 관련 소식까지, 흩어진 뉴스를 한데 보아 매일 아침 한 통의 뉴스레터로 정리합니다.",
+   "Earnings, products, services and Elon — we gather the scattered news and distill it into one email every morning."],
+  ["본 사이트는 정보 제공을 목적으로 하며, 투자 권유가 아닙니다. 모든 거래 결정의 책임은 본인에게 있습니다.",
+   "This site is for information only and is not investment advice. All trading decisions are your own responsibility."],
+  ["첫 영상 준비 중 · 매일 한 편", "First video coming soon · one a day"],
+  ["매일 한 편 · 구독 + 알림 설정", "One a day · subscribe + alerts"],
+  ["· 구독 + 알림 설정으로 첫 발행 받아보기", "· subscribe + alerts to get the first issue"],
+  ["유튜브 채널 구독", "Subscribe on YouTube"], ["유튜브 — 최신 영상", "YouTube — latest"], ["유튜브 채널", "YouTube channel"],
+  ["정규장", "Market open"], ["프리장", "Pre-market"], ["애프터장", "After hours"], ["장마감", "Market closed"],
+  ["매일 한 편", "One a day"], ["준비 중", "Coming soon"], ["오늘", "Today"],
   ["테슬라 주주를 위한 일일 브리핑. 주가·실적, 차량·에너지·옵티머스, FSD/로보택시, 일론 소식을 한 페이지에서.", "A daily Tesla brief for shareholders — stock & earnings, vehicles, energy & Optimus, FSD & robotaxi, and Elon, all on one page."],
+  ["테슬라 주주를 위한 일일 브리핑. 주가·실적, 차량·에너지·옵티머스, FSD/로보택시, 머스크 발언을 한 페이지에서.", "A daily Tesla brief for shareholders — stock & earnings, vehicles, energy & Optimus, FSD & robotaxi, and Elon, all on one page."],
+  ["테슬라 주주를 위한 일일 브리핑.", "A daily Tesla brief for shareholders."],
+  ["TESLA Brief!ng — 노이즈 없는 테슬라 브리핑", "TESLA Brief!ng — the signal, without the noise"],
   ["소개 · 큐레이션 기준 보기 →", "About · how we curate →"],
-  ["HOT · 핫 뉴스", "HOT NEWS"],
-  ["최신 뉴스", "Latest"],
-  ["뉴스 전체보기", "All news"],
-  ["1차 자료", "Primary"], ["외신·전문", "Press"], ["추측·커뮤니티", "Community"],
   ["매일 아침 7시, 최신 테슬라 소식", "Every morning at 7 — the latest on Tesla"],
-  ["매일 아침 한 통의 뉴스레터로 정리합니다.", "One concise newsletter, every morning."],
+  ["이메일 수집·이용에 동의합니다", "I agree to the collection and use of my email"],
   ["샘플 뉴스레터 보기 (PDF)", "View sample newsletter (PDF)"],
-  ["개인정보처리방침 보기", "Privacy policy"], ["개인정보처리방침", "Privacy policy"],
-  ["유튜브 채널 구독", "Subscribe on YouTube"], ["유튜브 채널 바로가기", "Go to channel"],
-  ["유튜브 — 최신 영상", "YouTube — latest"], ["유튜브 채널", "YouTube channel"],
+  ["개인정보처리방침 보기", "Privacy policy"],
+  ["평일 오전 7시 KST", "Weekdays · 7am KST"],
+  ["문의 · ", "Contact · "],
+  ["HOT · 핫 뉴스", "HOT NEWS"],
+  ["뉴스 전체보기", "All news"], ["최신 뉴스", "Latest"],
+  ["뉴스레터 구독", "Subscribe"],
+  ["차량·에너지·옵티머스", "Vehicles, Energy & Optimus"], ["자율·로보택시", "Autonomy & Robotaxi"], ["머스크 발언", "Elon"],
+  ["1차 자료", "Primary"], ["외신·전문", "Press"], ["추측·커뮤니티", "Community"],
+  ["개인정보처리방침", "Privacy policy"], ["이메일 주소", "Email address"],
+  ["테슬라 브리핑", "Tesla Brief!ng"],
   ["주가·실적", "Stock"], ["FSD/로보택시", "FSD"], ["제품", "Product"],
   ["일론 소식", "Elon news"], ["일론", "Elon"], ["소개", "About"],
+  ["뉴스레터", "Newsletter"], ["발송", "Sent"], ["(필수)", "(required)"], ["공식", "Official"],
 ];
 function langFinalize(html, lang) {
   if (html.includes("BLOCK:EN_FONTS")) html = replaceBlock(html, "EN_FONTS", lang === "en" ? EN_FONT_LINKS : "");
@@ -762,7 +790,7 @@ function renderArticle(template, card, lang = "ko", pool = []) {
     ? `<div class="art__source__also">${lang === "en" ? "Confirmed by" : "교차확인"} · ${card.confirmingSources.map(escapeHtml).join(" · ")}</div>`
     : "";
   out = replaceBlock(out, "A_CONFIRM_SRCS", csrc, opts);
-  const senti = sentiBadge(card);
+  const senti = sentiBadge(card, lang);
   out = replaceBlock(out, "A_SENTI", senti ? ` <span aria-hidden="true">·</span> ${senti}` : "", opts);
   out = replaceBlock(out, "A_RELATED", relatedArticles(card, pool, lang), opts);  // 관련 기사(같은 카테고리)
   out = replaceBlock(out, "A_OG_IMG", escapeHtml(ogImageUrl(card)), opts);        // 기사별 OG (og:image + twitter:image)

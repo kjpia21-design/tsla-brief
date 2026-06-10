@@ -21,14 +21,14 @@ const HORIZON = 6; // 다가오는 일정 노출 개수(약 7~9개월치 = "3개
 function quarterEstimates(year) {
   const y1 = year + 1;
   return [
-    { key: `${year}-Q1-pd`,       date: `${year}-04-02`, title: `Q1 ${year} 차량 인도·생산 실적 발표` },
-    { key: `${year}-Q1-earnings`, date: `${year}-04-23`, title: `Q1 ${year} 실적 발표·컨퍼런스콜` },
-    { key: `${year}-Q2-pd`,       date: `${year}-07-02`, title: `Q2 ${year} 차량 인도·생산 실적 발표` },
-    { key: `${year}-Q2-earnings`, date: `${year}-07-23`, title: `Q2 ${year} 실적 발표·컨퍼런스콜` },
-    { key: `${year}-Q3-pd`,       date: `${year}-10-02`, title: `Q3 ${year} 차량 인도·생산 실적 발표` },
-    { key: `${year}-Q3-earnings`, date: `${year}-10-22`, title: `Q3 ${year} 실적 발표·컨퍼런스콜` },
-    { key: `${year}-Q4-pd`,       date: `${y1}-01-02`,   title: `Q4 ${year} 차량 인도·생산 실적 발표` },
-    { key: `${year}-Q4-earnings`, date: `${y1}-01-28`,   title: `Q4 ${year} 실적 발표·컨퍼런스콜` },
+    { key: `${year}-Q1-pd`,       date: `${year}-04-02`, title: `Q1 ${year} 차량 인도·생산 실적 발표`, title_en: `Q1 ${year} Production & Delivery report` },
+    { key: `${year}-Q1-earnings`, date: `${year}-04-23`, title: `Q1 ${year} 실적 발표·컨퍼런스콜`,     title_en: `Q1 ${year} Earnings call` },
+    { key: `${year}-Q2-pd`,       date: `${year}-07-02`, title: `Q2 ${year} 차량 인도·생산 실적 발표`, title_en: `Q2 ${year} Production & Delivery report` },
+    { key: `${year}-Q2-earnings`, date: `${year}-07-23`, title: `Q2 ${year} 실적 발표·컨퍼런스콜`,     title_en: `Q2 ${year} Earnings call` },
+    { key: `${year}-Q3-pd`,       date: `${year}-10-02`, title: `Q3 ${year} 차량 인도·생산 실적 발표`, title_en: `Q3 ${year} Production & Delivery report` },
+    { key: `${year}-Q3-earnings`, date: `${year}-10-22`, title: `Q3 ${year} 실적 발표·컨퍼런스콜`,     title_en: `Q3 ${year} Earnings call` },
+    { key: `${year}-Q4-pd`,       date: `${y1}-01-02`,   title: `Q4 ${year} 차량 인도·생산 실적 발표`, title_en: `Q4 ${year} Production & Delivery report` },
+    { key: `${year}-Q4-earnings`, date: `${y1}-01-28`,   title: `Q4 ${year} 실적 발표·컨퍼런스콜`,     title_en: `Q4 ${year} Earnings call` },
   ];
 }
 
