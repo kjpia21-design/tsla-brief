@@ -314,16 +314,24 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
     </details>`;
 }
 
-// 주가 "방향성" 카드 — stock(주가·실적) 카테고리에서 급등/급락 등 가격 움직임을 다루는 카드의 방향(up/down).
+// 주가 "방향성" 카드 — stock(주가·실적) 카테고리에서 "주가의" 급등/급락을 다루는 카드의 방향(up/down).
 //   ① 신선도 가드: 24h 지난 가격-방향 뉴스는 핫뉴스 후보에서 제외(장 상황이 바뀐 '이전 뉴스').
 //   ② data-price-dir 태그: 라이브 주가와 방향이 모순되면 클라이언트(home.html)가 핫뉴스에서 숨김.
-const PRICE_UP_RE   = /급등|폭등|반등|상승|강세|신고가|치솟|뛰|랠리|오름세|surg|soar|rally|jump|rebound|gain|climb|rocket|rise|spike/i;
-const PRICE_DOWN_RE = /급락|폭락|하락|약세|추락|떨어|미끄러|내림세|폭삭|매도세|plunge|drop|tumbl|slump|slide|sink|fall|decline/i;
+//   ⚠️ 방향어 단독 매칭 금지 — "중국 판매 22% 급반등"(판매) 같은 비주가 뉴스 오인 방지.
+//      가격 주체(주가·주식·시총·종가·TSLA 티커) 바로 뒤 12자 이내에 방향어가 있어야 주가 방향 뉴스로 간주.
+const PRICE_UP_WORDS   = "급등|폭등|반등|상승|강세|신고가|치솟|뛰|랠리|오름세|surg|soar|rall(?:y|ie)|jump|rebound|gain|climb|rocket|rise|spike";
+const PRICE_DOWN_WORDS = "급락|폭락|하락|약세|추락|떨어|미끄러|내림세|폭삭|매도세|plunge|drop|tumbl|slump|slide|sink|fall|decline";
+const PRICE_SUBJ = "(?:(?<!목표)주가|주식|시총|시가총액|종가|TSLA)";   // '목표주가'(애널리스트 목표가)는 주체 제외
+const PRICE_NEAR = "[^.。!?\\n]{0,20}?";
+const PRICE_UP_CTX_RE   = new RegExp(PRICE_SUBJ + PRICE_NEAR + "(?:" + PRICE_UP_WORDS + ")", "i");
+const PRICE_DOWN_CTX_RE = new RegExp(PRICE_SUBJ + PRICE_NEAR + "(?:" + PRICE_DOWN_WORDS + ")", "i");
 function priceDirection(c) {
   if (!c || c.category !== "stock") return null;        // 주가·실적 카테고리만
-  const txt = `${c.title || ""} ${c.hotShort || ""} ${c.body || ""}`.replace(/<[^>]+>/g, "");
-  const up = PRICE_UP_RE.test(txt), down = PRICE_DOWN_RE.test(txt);
-  if (up === down) return null;                          // 둘 다이거나 둘 다 아님 → 모호, 태그 안 함
+  const txt = `${c.title || ""} ${c.hotShort || ""} ${c.body || ""}`
+    .replace(/<[^>]+>/g, "")
+    .replace(/(\d)\.(\d)/g, "$1$2");                     // 소수점(4.6%, $408.95)이 문장 경계로 오인되지 않게
+  const up = PRICE_UP_CTX_RE.test(txt), down = PRICE_DOWN_CTX_RE.test(txt);
+  if (up === down) return null;                          // 둘 다(급락 딛고 반등 등)거나 둘 다 아님 → 모호, 태그 안 함
   return up ? "up" : "down";
 }
 const STALE_PRICE_HOURS = 24;
