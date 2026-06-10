@@ -6,6 +6,7 @@
 <title>TESLA Brief!ng — 노이즈 없는 테슬라 브리핑</title>
 <meta name="description" content="테슬라 주주를 위한 일일 브리핑. 주가·실적, 차량·에너지·옵티머스, FSD/로보택시, 일론 소식을 한 페이지에서.">
 <link rel="alternate" hreflang="ko" href="https://teslabriefing.com/">
+<link rel="alternate" hreflang="en" href="https://teslabriefing.com/en/">
 <link rel="alternate" hreflang="x-default" href="https://teslabriefing.com/">
 <link rel="canonical" href="https://teslabriefing.com/">
 <link rel="alternate" type="application/rss+xml" title="Tesla Brief!ng RSS" href="https://teslabriefing.com/rss.xml">
@@ -154,7 +155,9 @@
   .brand--lg .brand__text{font-size:24px}
 
   .nav__links{display:flex;gap:4px;align-items:center}
-  .nav__links a:not(.nav__cta){display:none}    /* 모바일: 카테고리 링크 숨김 */
+  .nav__links a:not(.nav__cta):not(.nav__lang){display:none}    /* 모바일: 카테고리 링크 숨김(언어 토글·CTA는 유지) */
+  .nav__lang{font-family:var(--font-mono);font-size:12px;font-weight:700;color:var(--ink-mute);letter-spacing:.04em;padding:6px 9px;border:1px solid var(--line);border-radius:var(--r-pill);margin-left:4px;min-height:44px;display:inline-flex;align-items:center;transition:color var(--t-1) var(--ease),border-color var(--t-1) var(--ease)}
+  .nav__lang:hover{color:var(--ink);border-color:var(--tesla-red)}
   .nav__cta{                                       /* 유튜브 채널 — 작은 빨강 플레이 버튼 + 빨강 텍스트 */
     display:inline-flex;align-items:center;gap:7px;min-height:44px;text-decoration:none;
   }
@@ -846,6 +849,7 @@
       <a href="#fsd">FSD/로보택시</a>
       <a href="#musk">일론</a>
       <a href="about.html">소개</a>
+      <a class="nav__lang" href="/en/" hreflang="en" aria-label="English">EN</a>
       <a class="nav__cta" href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener" aria-label="YouTube 채널 (새 창)"><span class="nav__cta-btn" aria-hidden="true"><svg width="9" height="9" viewBox="0 0 24 24" fill="#fff"><path d="M8 5v14l11-7z"/></svg></span><span class="nav__cta-label">YouTube</span></a>
     </nav>
   </div>

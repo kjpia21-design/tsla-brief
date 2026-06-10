@@ -660,6 +660,12 @@ const UI_EN = [
   ["주가·실적", "Stock"], ["FSD/로보택시", "FSD"], ["제품", "Product"],
   ["일론 소식", "Elon news"], ["일론", "Elon"], ["소개", "About"],
   ["뉴스레터", "Newsletter"], ["발송", "Sent"], ["(필수)", "(required)"], ["공식", "Official"],
+  // news.html / article.html chrome
+  ["키워드 검색 (예: 인도량, 옵티머스, 로보택시)", "Search (e.g. deliveries, Optimus, robotaxi)"],
+  ["← 홈으로 돌아가기", "← Back to home"], ["← 홈으로", "← Home"],
+  ["← 이전", "← Prev"], ["다음 →", "Next →"],
+  ["발행 매체로 이동", "Read on publisher"], ["관련 기사", "Related"], ["원본", "Original"],
+  ["FSD·로보택시", "FSD"], ["최신순", "latest first"], ["전체", "All"],
 ];
 function langFinalize(html, lang) {
   if (html.includes("BLOCK:EN_FONTS")) html = replaceBlock(html, "EN_FONTS", lang === "en" ? EN_FONT_LINKS : "");
@@ -668,7 +674,11 @@ function langFinalize(html, lang) {
     .replace('<html lang="ko">', '<html lang="en">')
     .replace('<link rel="canonical" href="https://teslabriefing.com/">', '<link rel="canonical" href="https://teslabriefing.com/en/">')
     .replace('<meta property="og:url" content="https://teslabriefing.com/">', '<meta property="og:url" content="https://teslabriefing.com/en/">')
-    .replace(/(href|src)="assets\//g, '$1="/assets/');   // 상대 자산 → 루트 절대(/en/ 하위경로 대응)
+    .replace('href="/en/" hreflang="en" aria-label="English">EN<', 'href="/" hreflang="ko" aria-label="한국어">KO<')   // 언어 토글 EN→KO
+    .replace(/(href|src)="assets\//g, '$1="/assets/')    // 상대 자산 → 루트 절대(/en/ 하위경로 대응)
+    .replace(/href="(about|privacy)\.html"/g, 'href="/$1.html"')    // 영문 about/privacy 미생성 → 한국어 루트로(404 방지)
+    .replace(/teslabriefing\.com\/articles\//g, 'teslabriefing.com/en/articles/')   // 기사 canonical·og:url → /en/
+    .replace('<link rel="canonical" href="https://teslabriefing.com/news">', '<link rel="canonical" href="https://teslabriefing.com/en/news">');
   for (const [ko, en] of UI_EN) html = html.split(ko).join(en);
   return html;
 }
@@ -827,7 +837,7 @@ async function generateNewsPage(cards, { newsTemplateName = "news-template.html"
   // SSR 은 1페이지(10건)만 — 나머지는 클라이언트가 news-index.json 으로 페이지네이션.
   const seed = { items: cards.items.slice(0, 10) };
   out = replaceBlock(out, "NEWS_GRID", `\n      ${renderAllCards(seed, { lang })}\n      `);
-  await writeFile(path.join(outDir, "news.html"), out, "utf8");
+  await writeFile(path.join(outDir, "news.html"), langFinalize(out, lang), "utf8");
 
   // 클라이언트 필터/검색용 인덱스 — 최신(archive)이 항상 포함되도록 archive ∪ archive-full 합집합.
   //  archive-full 은 별도 GitHub Action 이 다른 주기로 갱신 → 최신 카드가 잠시 빠질 수 있다.
@@ -862,7 +872,7 @@ async function generateArticles(cards, { outDir = OUT_DIR, lang = "ko" } = {}) {
   for (const card of cards.items) {
     if (!card.slug) continue;
     const html = renderArticle(template, card, lang, cards.items);
-    await writeFile(path.join(articlesDir, `${card.slug}.html`), html, "utf8");
+    await writeFile(path.join(articlesDir, `${card.slug}.html`), langFinalize(html, lang), "utf8");
     generated++;
   }
   return generated;
