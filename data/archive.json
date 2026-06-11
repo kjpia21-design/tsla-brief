@@ -43,6 +43,26 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "8h ago",
+      "pubDate": "2026-06-11T09:07:32.000Z",
+      "title": "로이터: 머스크, <em>ASML 행사 연사</em> — 스페이스X IPO 직전에",
+      "hotShort": "머스크, 스페이스X IPO 앞두고 <em>ASML 행사 연사</em>",
+      "body": "로이터에 따르면 일론 머스크가 반도체 장비 선두기업 ASML의 행사에 연사로 나설 예정이다 — 스페이스X IPO가 이번 금요일로 예정된 이 시점에, 첨단 AI 반도체 제조의 핵심 공급망 기업 이벤트에 등장한다는 점이 주목된다. ASML은 극자외선(EUV) 노광장비를 사실상 독점 공급하는 기업이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-asml-speech-spacex-ipo-2026-06-11",
+      "summary": "로이터가 6월 11일 전한 바에 따르면 일론 머스크가 반도체 장비 글로벌 선두기업 ASML이 주최하는 행사에 연사로 참석할 예정이다. 이 일정은 스페이스X가 이번 금요일(6월 13일) 나스닥에 공식 데뷔하는 직전 주에 잡혔다.\n\nASML은 첨단 반도체 제조에 쓰이는 극자외선(EUV) 노광장비를 독점적으로 공급하는 네덜란드 기업이다. 엔비디아·TSMC·삼성 등 AI 칩을 만드는 모든 최첨단 파운드리는 ASML 장비 없이는 생산이 불가능하다 — 이 때문에 ASML은 AI 인프라 공급망 전체의 핵심 병목에 위치한다.\n\n머스크가 ASML 행사에서 어떤 주제로 발언할 예정인지에 대한 세부 내용은 로이터 원문에서 확인할 수 있다. 테슬라의 FSD·도조 AI 인프라, 스페이스X의 Starlink 위성, xAI의 데이터센터는 모두 첨단 반도체 공급망에 직접 의존하는 사업들이다.\n\n스페이스X 상장이 임박한 시점에 머스크가 AI·반도체 공급망의 핵심 기업 행사에 나타나는 것은 타이밍상 주목할 만하다. IPO 전 고-프로파일 행보는 기술 생태계 전반에서 머스크 이름의 존재감을 다시 한번 부각시키는 효과가 있다.",
+      "title_en": "Reuters: Musk set to <em>speak at ASML</em> ahead of SpaceX IPO",
+      "hotShort_en": "Musk to <em>speak at ASML</em> before SpaceX IPO",
+      "body_en": "Elon Musk is set to speak at an event hosted by ASML, the chip tool giant, Reuters reports — the appearance falls in the same week as SpaceX's Nasdaq IPO this Friday. ASML holds a near-monopoly on the extreme-ultraviolet lithography machines that make all advanced AI chip production possible.",
+      "summary_en": "Reuters reported on June 11 that Elon Musk is scheduled to speak at an event held by ASML, the Dutch semiconductor equipment company behind the extreme-ultraviolet lithography machines that enable all advanced chip manufacturing. The appearance is set for the same week as SpaceX's planned Nasdaq IPO on Friday, June 13.\n\nASML holds a near-monopoly on EUV lithography equipment — the machines that TSMC, Samsung, and NVIDIA's foundry partners depend on to produce every leading-edge chip, from AI accelerators to processors. Without ASML's tools, the advanced semiconductor supply chain that powers AI, autonomous driving, and satellite communications comes to a halt.\n\nThe topics of Musk's address at the ASML event are detailed in the Reuters report. Tesla's FSD AI infrastructure, SpaceX's Starlink satellite network, and xAI's data centers all sit downstream of the chip-manufacturing supply chain that ASML anchors.\n\nThe timing is notable: Musk appearing at one of the world's most influential technology infrastructure companies in the same week SpaceX begins trading publicly underlines the scale and reach of the Musk ecosystem across the AI and semiconductor landscape.",
+      "href": "https://www.reuters.com/business/media-telecom/musk-speak-chip-tool-giant-asml-event-ahead-spacex-ipo-2026-06-11/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
       "pubDate": "2026-06-11T09:04:31.000Z",
       "title": "NYT: 테슬라 2010년 상장이 <em>스페이스X IPO를 가능케 했다</em>",
@@ -1876,21 +1896,7 @@
       "summary": "테슬라가 모델 Y의 가장 저렴한 두 트림인 후륜구동(RWD)과 사륜구동(AWD)에 기존 프리미엄 트림에서만 제공되던 내장 기능 두 가지를 추가했다. Teslarati 보도에 따르면 이번 업그레이드로 보급형과 프리미엄 트림 간의 내장 옵션 격차가 크게 줄었다.\n\n모델 Y는 테슬라의 글로벌 베스트셀러로, 이번 업그레이드는 전기차 시장에서 치열해지는 경쟁에 대응하는 전략적 움직임으로 해석된다. 특히 비야디(BYD)를 비롯한 중국 경쟁사들이 저가 트림에서도 풍성한 기본 사양을 제공하는 추세에 맞춘 대응으로 보인다.\n\n테슬라는 하이랜드(Highland) 페이스리프트 이후 소프트웨어·하드웨어 소폭 개선을 지속적으로 이어왔다. 가격 인하 없이 사양을 올리는 방식은 기존 고객의 불만을 최소화하면서도 신규 구매자에게 더 높은 가치를 제공하는 전략이다.\n\n주니퍼(Juniper) 업데이트가 적용된 현행 모델 Y에 추가된 이번 기능이 구체적으로 어떤 항목인지에 대한 상세 내용은 Teslarati 원문에서 확인할 수 있다.",
       "href": "https://www.teslarati.com/tesla-upgrades-model-y-affordable-trims-new-interior-features/",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-06-05T15:21:13.000Z",
-      "title": "테슬라, 모델 Y <em>보급형에 프리미엄 인테리어</em> 동일 탑재",
-      "body": "테슬라가 모델 Y(주니퍼) 후륜구동·사륜구동 기본 트림에 상위 '프리미엄' 모델과 동일한 신규 인테리어 기능 2가지를 추가했다. 가격 인상 없이 사양을 올려 보급형 구매자 만족도를 높이는 조용한 업그레이드다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-model-y-affordable-trim-upgrade-2026-06-05",
-      "summary": "테슬라가 모델 Y(주니퍼) 라인업의 후륜구동(RWD)·사륜구동(AWD) 트림에 상위 '프리미엄(Premium)' 모델과 동일한 신규 인테리어 기능 2가지를 조용히 추가했다. 테슬라라티(Teslarati)가 이번 변경 사항을 포착해 보도했다.\n\n이번 업데이트로 모델 Y 보급형과 프리미엄 간의 인테리어 격차가 좁혀졌다. 테슬라는 이런 조용한 사양 업그레이드를 자주 활용하는 편인데, 공식 가격 인하 없이도 소비자가 인식하는 가성비를 높이는 데 효과적인 전략이다. 정확한 추가 기능이 무엇인지는 아직 테슬라가 공식 발표하지 않았으나, 사용자 커뮤니티에서 확인이 이뤄지고 있다.\n\n모델 Y 주니퍼는 2025년 초 출시 이후 유럽·아시아 판매 반등을 이끈 핵심 모델이다. 일본 5월 등록 182% 폭증, 한국·프랑스 급증 배경에도 주니퍼의 상품성 개선이 큰 역할을 했다는 분석이 나온다. 이번 보급형 트림 업그레이드는 그 상품성 강화 흐름을 이어가는 조치다.\n\n투자 관점에서 보급형 트림 사양 강화는 중간~저가 소비자를 경쟁 모델(BYD, 폭스바겐 ID 시리즈 등)로부터 붙잡는 방어 전략이기도 하다. 같은 가격에 더 많은 것을 제공하면 판매 전환율이 높아지고, 이는 2분기 인도량 반등 흐름을 지지하는 요소가 된다.\n\n다음 트리거: 추가된 인테리어 기능 공식 확인 및 마케팅 반영, 2분기 모델 Y 인도량 집계(7월 초), 보급형 트림 주문 증감 추이, BYD 등 경쟁사의 동급 대응 전략.",
-      "href": "https://www.teslarati.com/tesla-upgrades-model-y-affordable-trims-new-interior-features/",
-      "hot": 5
     }
   ],
-  "asOf": "2026-06-11 23:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-12 02:00 KST 자동 갱신 · 최신순"
 }
