@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-11T17:36:24.000Z",
+      "title": "인사이더몽키 \"켄 그리핀 시타델 포트폴리오에서 <em>테슬라 최우선 종목</em>\"",
+      "hotShort": "켄 그리핀·시타델 포트폴리오, 테슬라 <em>최우선 종목</em>",
+      "body": "인사이더몽키가 세계 최대 헤지펀드 중 하나인 시타델 창업주 켄 그리핀의 포트폴리오를 분석한 결과, 테슬라(TSLA)가 최우선 보유 종목으로 집계됐다 — 야후파이낸스도 동일 내용을 게재해 2개 매체가 확인했으며, 최근 주가 변동성 속에서도 대형 기관 투자자가 TSLA 포지션을 유지하고 있음을 시사한다.",
+      "sourceName": "Insider Monkey",
+      "sourceLabel": "press",
+      "slug": "stock-ken-griffin-citadel-tsla-top-2026-06-11",
+      "summary": "인사이더몽키는 6월 11일, 세계 최대 헤지펀드 중 하나인 시타델(Citadel)의 창업주 켄 그리핀 포트폴리오를 분석한 기사에서 테슬라(TSLA)를 핵심 최우선 보유 종목으로 지목했다. 야후파이낸스도 동일 분석을 게재해 2개 매체가 내용을 확인했다.\n\n켄 그리핀이 이끄는 시타델은 운용 자산 규모 기준 세계 상위권 헤지펀드로, 그의 포트폴리오 구성은 기관 투자자 커뮤니티에서 참고 지표로 활용된다. 테슬라가 그리핀의 탑 픽으로 꼽혔다는 사실은 AI·로보택시 내러티브에 대한 기관 신뢰도가 최근 주가 급등락 속에서도 유지되고 있음을 간접적으로 보여준다.\n\n단, 13F 공시를 바탕으로 한 포트폴리오 분석은 분기 말 기준 스냅샷이므로 실시간 포지션과 다를 수 있다. 구체적인 보유 지분 비율과 상세 내역은 인사이더몽키 원문에서 확인할 수 있다.\n\n테슬라 주주에게 이 소식은 '스마트 머니'가 여전히 TSLA를 핵심 포지션으로 유지하고 있다는 심리적 지지 신호다. 최근 TSLA 변동성이 높은 시기에 대형 기관의 보유 확인은 중장기 투자 논리에 무게를 실어준다.",
+      "title_en": "Insider Monkey: Tesla <em>tops Ken Griffin's portfolio</em> as a key Citadel holding",
+      "hotShort_en": "Ken Griffin holds Tesla as <em>top stock pick</em>",
+      "body_en": "Insider Monkey identified Tesla (TSLA) as a top holding in Ken Griffin's Citadel portfolio — one of the world's largest hedge funds. Yahoo Finance carried the same report, making this a two-source confirmation that major institutional conviction in TSLA has held through recent volatility.",
+      "summary_en": "Insider Monkey published a portfolio analysis on June 11 identifying Tesla as a top holding in the investment portfolio of Ken Griffin, founder of Citadel. Yahoo Finance also published the same report, with both outlets spotlighting Tesla's prominent position among Griffin's significant holdings.\n\nKen Griffin's Citadel is among the world's largest hedge funds by assets under management, and its portfolio disclosures are closely watched as an institutional sentiment benchmark. Tesla's appearance as a top pick signals that at least one prominent systematic investor has maintained its TSLA commitment despite recent above-average price swings.\n\nPortfolio data reported by Insider Monkey is typically sourced from quarterly 13F regulatory filings, which capture positions as of the quarter's end date and may not reflect current holdings in real time. Specific share counts, cost basis, and portfolio weighting are detailed in the original Insider Monkey article.\n\nFor Tesla shareholders, the takeaway is a 'smart money still believes' signal — a meaningful counterweight during a week when TSLA experienced elevated volatility. Large hedge fund participation tends to underpin liquidity and reinforces the case for TSLA as a considered institutional holding rather than a purely speculative position.",
+      "href": "https://www.insidermonkey.com/blog/tesla-inc-tsla-is-a-top-stock-in-ken-griffins-portfolio-1779877/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Insider Monkey",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-11T17:35:54.000Z",
+      "title": "테슬라 공식 \"유럽서 FSD 서퍼바이즈드 <em>5개국 달성</em>\" — 네덜란드·리투아니아·에스토니아·덴마크·벨기에",
+      "hotShort": "유럽 FSD 서퍼바이즈드, <em>5개국 달성</em> — 벨기에 합류",
+      "body": "테슬라 공식 계정이 벨기에를 FSD 서퍼바이즈드 5번째 유럽 승인 국가로 발표했다 — 애쉬오크 엘루스와미(테슬라 FSD 부사장)도 전체 목록을 직접 확인했다: 네덜란드·리투아니아·에스토니아·덴마크·벨기에. 단기간 내 5개국 달성은 유럽 규제 장벽이 빠르게 낮아지고 있으며 FSD의 글로벌 확산이 본격화됐음을 뜻한다.",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "fsd-europe-5countries-supervised-2026-06-11",
+      "summary": "애쉬오크 엘루스와미 테슬라 FSD 부사장이 6월 11일 트윗을 통해 유럽 내 FSD 서퍼바이즈드 승인 국가 전체 목록을 공개했다: 네덜란드·리투아니아·에스토니아·덴마크·벨기에. 테슬라 공식 X 계정도 벨기에가 유럽에서 FSD 서퍼바이즈드를 승인한 다섯 번째 국가임을 확인했다.\n\nFSD 서퍼바이즈드(Full Self-Driving Supervised)는 운전자가 항상 주시해야 하는 보조 자동화 시스템으로, 각국이 자국 규제 환경을 검토해 개별 승인한다. 유럽은 UNECE 기반 자율주행 규정이 미국과 달라 국가별 절차가 필요하며, 5개국으로의 빠른 확산은 이 허들을 테슬라가 효율적으로 넘고 있음을 보여준다.\n\n테슬라는 이미 북미에서 수십만 명의 FSD 서퍼바이즈드 이용자를 확보하고 있다. 유럽 주요국으로의 확대는 FSD 구독 수익원을 넓히고, 동시에 유럽 도심 환경의 주행 데이터를 훈련 루프에 추가해 자율주행 고도화를 가속한다.\n\n테슬라 주주에게 이 흐름은 FSD '글로벌 규제 채택'이라는 장기 내러티브가 구체적 수치로 쌓이는 과정이다. 5개국이 단기간에 승인된 속도는 독일·프랑스·스페인 등 대형 유럽 시장으로의 추가 확산 기대를 높인다.",
+      "title_en": "Tesla confirms <em>5 European countries</em> cleared for FSD Supervised — Netherlands, Lithuania, Estonia, Denmark, Belgium",
+      "hotShort_en": "Europe FSD: <em>5 countries</em> cleared for supervised use",
+      "body_en": "Tesla's official account confirmed Belgium as the 5th European country to approve FSD Supervised, with FSD VP Ashok Elluswamy tweeting the complete list: Netherlands, Lithuania, Estonia, Denmark, Belgium. Five approvals in quick succession signals that Europe's regulatory barriers are falling faster than expected, marking a meaningful inflection in FSD's global rollout.",
+      "summary_en": "Ashok Elluswamy, Tesla's VP of FSD, tweeted on June 11 the complete list of European countries that have approved FSD Supervised: Netherlands, Lithuania, Estonia, Denmark, and Belgium. Tesla's official X account simultaneously confirmed Belgium as the fifth European country to clear the system for use.\n\nFSD Supervised is classified as an advanced driver-assistance system requiring constant driver attention. Unlike North America, where federal rules govern ADAS deployment uniformly, European approvals require separate regulatory review under each country's national implementation of UNECE-aligned rules — making five approved markets a meaningful milestone.\n\nTesla already has a large FSD Supervised subscriber base in North America. Expanding to Europe opens a new subscription revenue channel and adds European urban and highway driving data to Tesla's training pipeline, accelerating progress toward higher autonomy levels across diverse road environments.\n\nFor Tesla shareholders, each new national approval advances the 'global FSD regulatory adoption' narrative with concrete evidence. Five European markets secured in rapid succession raises the probability of expansion into Germany, France, and Spain — the continent's three largest auto markets — in the near to medium term.",
+      "href": "https://x.com/Tesla/status/2065125889239904445",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Tesla",
+        "Ashok Elluswamy"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-11T17:11:41.000Z",
+      "title": "일렉트렉 \"테슬라 자체 홍보 영상이 FSD 남용 조장 — <em>$14.5B 소송 방어에 발목</em>\"",
+      "hotShort": "테슬라 자체 영상, <em>FSD 소송 $14.5B</em> 방어 발목",
+      "body": "테슬라는 FSD·오토파일럿 관련 최대 $14.5B(약 20조원) 규모의 소송에 직면해 있는 가운데, 일렉트렉에 따르면 테슬라 공식 홍보 영상 2편이 운전자의 주시 의무를 지키지 않는 장면을 담아 법무팀의 핵심 방어 논리를 스스로 훼손하고 있다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-tesla-videos-misuse-lawsuits-2026-06-11",
+      "summary": "일렉트렉이 6월 11일 보도한 바에 따르면, 테슬라는 FSD와 오토파일럿 사고 관련 소송에서 최대 $14.5B(약 20조원) 규모의 법적 청구에 노출돼 있다. 이 가운데 테슬라 마케팅 부서가 공식 채널에 공개한 홍보 영상 2편에서 운전자가 주시 의무를 지키지 않는 장면을 직접 담아 배포한 사실이 확인됐다.\n\nFSD 서퍼바이즈드는 항상 운전자가 핸들을 잡고 도로를 주시해야 하는 보조 시스템이다. 법정에서 테슬라 측은 '드라이버가 항상 주시해야 함을 명확히 고지했다'는 논리를 방어 핵심으로 삼아왔는데, 공식 영상에서 그 반례가 공개적으로 유통된다면 배심원이나 판사에게 불리한 증거로 작용할 수 있다.\n\n테슬라 주주에게 이 소식은 단기 법적 비용 리스크와 함께 FSD 마케팅-법무 간 내부 조율 문제를 드러낸다. $14.5B는 최대 추정치이므로 실제 손해배상 규모는 이보다 작을 수 있지만, 자체 홍보 영상이 소송에서 불리한 증거로 활용될 가능성은 법적 리스크를 높이는 요인이다.\n\n현재 테슬라는 FSD 관련 개별 소송에서 일부 승소 판례도 있다. 그러나 마케팅-법무 간 메시지 불일치가 지속된다면 집단 소송 또는 NHTSA 등 규제 당국의 추가 조사에서 불리한 서사가 누적될 수 있다고 전문가들은 지적한다.",
+      "title_en": "Electrek: Tesla's own promo videos <em>undermine $14.5B FSD legal defense</em>",
+      "hotShort_en": "Tesla promo videos hurt its <em>$14.5B FSD case</em>",
+      "body_en": "Tesla faces up to $14.5 billion in lawsuits tied to FSD and Autopilot incidents — and Electrek reports that two official Tesla promotional videos show drivers violating the attentiveness requirement that sits at the core of Tesla's legal defense, potentially providing adverse evidence in active litigation.",
+      "summary_en": "Electrek reported on June 11 that Tesla is exposed to up to $14.5 billion in legal claims related to Full Self-Driving and Autopilot incidents. While Tesla's legal defense has centered on the argument that drivers are clearly required to stay alert at all times, two official Tesla promotional videos published on the company's own channels show behavior that directly contradicts this position.\n\nFSD Supervised is legally classified as an advanced driver-assistance system: drivers must keep hands on the wheel and eyes on the road at all times. A courtroom defense built on 'we warned users to pay attention' becomes harder to sustain when the company's own marketing content depicts the opposite — material that can be entered as evidence by plaintiffs' attorneys.\n\nFor Tesla shareholders, the concern is twofold. First, self-generated marketing content used as adverse evidence raises legal costs and increases settlement exposure across pending FSD and Autopilot litigation. Second, it reveals an internal misalignment between Tesla's legal strategy and its marketing operations — a process issue that could persist unless addressed organizationally.\n\nTesla has won some individual FSD-related verdicts and the $14.5 billion figure represents maximum aggregate exposure rather than an expected payout. However, a pattern of contradictory public materials weakens the company's defense narrative and may invite additional scrutiny from NHTSA and state-level safety regulators.",
+      "href": "https://electrek.co/2026/06/11/tesla-promotes-fsd-misuse-official-videos-lawsuits/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "25m ago",
@@ -38,6 +108,26 @@
       "summary_en": "CNBC reported on June 11 that Iranian state media issued threats against companies owned by Elon Musk in the Middle East. The specific targets and nature of the threats — whether physical, cyber or diplomatic — are detailed in the original CNBC report.\n\nIran has a history of publicly targeting major US businesses and high-profile individuals in the region. The precise grievance or context behind this threat requires confirmation from the source article.\n\nFor Tesla shareholders, this is one element of the external risk environment surrounding the Musk ecosystem. Because Musk leads Tesla, SpaceX, xAI and X simultaneously, any geopolitical threat aimed at one venture or at Musk personally tends to prompt investors to reassess the broader risk picture across all his holdings.\n\nThe timing is notable: with SpaceX set to debut on Nasdaq this Friday, geopolitical uncertainty surfacing in the same week adds a risk variable that could influence sentiment around the listing.",
       "href": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
       "sentiment": "bear",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10h ago",
+      "pubDate": "2026-06-11T09:07:32.000Z",
+      "title": "로이터 \"일론 머스크, 스페이스X IPO 앞두고 <em>반도체 장비 거인 ASML 행사</em>서 연설\"",
+      "hotShort": "머스크, ASML 행사 연설 — <em>스페이스X IPO 전야</em>",
+      "body": "로이터에 따르면 일론 머스크가 세계 최대 반도체 장비 기업 ASML의 행사에서 연설할 예정이다 — 스페이스X의 이번 금요일 나스닥 IPO를 바로 앞둔 시점이라 타이밍이 주목된다. ASML은 첨단 반도체 제조에 필수적인 극자외선(EUV) 노광 장비를 독점 생산하는 기업으로, 머스크가 AI·반도체 공급망의 핵심 파트너와 접점을 넓히고 있음을 보여준다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-asml-event-spacex-ipo-2026-06-11",
+      "summary": "로이터가 6월 11일 보도한 데 따르면, 일론 머스크는 네덜란드에 본사를 둔 ASML의 행사에서 연설을 앞두고 있다. ASML은 극자외선(EUV) 노광 장비를 독점 생산하는 세계 유일의 기업으로, TSMC·삼성·인텔 등 모든 첨단 반도체 생산사가 ASML 장비에 의존한다.\n\n이 행사는 스페이스X의 나스닥 IPO(예정: 이번 금요일)를 며칠 앞두고 예정됐다. 머스크가 AI·로켓·전기차 생태계를 아우르며 반도체 공급망의 핵심 기업과 접점을 공식화하는 것은 기술 인프라 전략 차원에서 주목할 만한 행보다.\n\n테슬라 주주 관점에서 이 소식은 직접적인 TSLA 촉매는 아니지만 의미 있는 맥락이다. 테슬라의 FSD·도조(Dojo) 슈퍼컴퓨터·옵티머스 AI 스택은 모두 ASML이 만든 장비로 생산된 첨단 칩에 의존한다. 머스크가 이 공급망 핵심 기업과 고위급 관계를 유지하는 것은 테슬라 AI 하드웨어 로드맵에 간접적으로 긍정적이다.\n\nASML 행사에서 머스크가 구체적으로 무엇을 발언할지는 아직 공개되지 않았다. 연설 내용에 따라 AI·반도체·자율주행 투자 심리에 영향을 줄 수 있으며, 스페이스X IPO 전날이라는 점에서 시장의 관심이 집중될 것으로 보인다.",
+      "title_en": "Reuters: Musk to speak at chip giant ASML <em>just before SpaceX IPO</em>",
+      "hotShort_en": "Musk speaks at ASML <em>ahead of SpaceX IPO</em>",
+      "body_en": "Elon Musk is set to speak at an event hosted by ASML, the world's sole maker of extreme ultraviolet (EUV) chip-lithography equipment, according to Reuters. The appearance is scheduled days before SpaceX's planned Nasdaq IPO this Friday — placing Musk at the crossroads of the global semiconductor supply chain and his own capital market ambitions at a pivotal moment.",
+      "summary_en": "Reuters reported on June 11 that Elon Musk is scheduled to speak at an event organized by ASML, the Dutch semiconductor equipment company. ASML is the world's only manufacturer of extreme ultraviolet lithography machines, which are indispensable for producing leading-edge chips: TSMC, Samsung and Intel all depend on ASML equipment to fabricate their most advanced semiconductor nodes.\n\nThe timing is significant: the ASML event precedes SpaceX's anticipated Nasdaq debut this Friday. Whether Musk's appearance relates to SpaceX's capital raise, AI infrastructure themes, or semiconductor supply-chain alignment has not been specified in the Reuters report; the substance will depend on Musk's remarks at the event itself.\n\nFor Tesla shareholders, the relevance is indirect but real. Tesla's FSD neural-network stack, Dojo supercomputer training clusters, and Optimus AI processing all rely on advanced semiconductor nodes manufactured on ASML machines. Musk maintaining high-level access to the global chip supply chain's single most critical enabler is a background positive for Tesla's long-term AI hardware roadmap.\n\nDepending on the content of Musk's address, the ASML appearance could influence market sentiment around AI infrastructure, autonomous driving compute, and SpaceX IPO momentum — all of which carry secondary implications for TSLA in the near term.",
+      "href": "https://www.reuters.com/business/media-telecom/musk-speak-chip-tool-giant-asml-event-ahead-spacex-ipo-2026-06-11/",
+      "sentiment": "neutral",
       "hot": 5
     },
     {
@@ -1834,63 +1924,7 @@
       "summary": "인사이드EV(InsideEVs)가 테슬라 현직·전직 직원들이 FSD(Full Self-Driving, 완전자율주행)에 대해 팟캐스트를 통해 솔직하게 털어놓은 내용을 보도했다. 기사 제목인 'They Weren't Pretty(그다지 좋지 않았다)'가 시사하듯, 직원들의 평가는 FSD의 현재 상태와 개발 방향에 대해 호의적이지 않았다.\n\n이런 내부자 시각 공개가 중요한 이유는 외부 마케팅 메시지와의 대비 때문이다. 테슬라는 공식적으로 FSD의 빠른 발전과 자율주행 기술 선도를 강조하고 있다. 그러나 개발 과정을 직접 겪은 내부자들이 우려를 표명한다면, 그 간극은 투자자에게 중요한 리스크 신호가 된다. 앞서 6월 3일 야후파이낸스도 전직 AI 트레이너들의 FSD 기술 불신 증언을 보도한 바 있어, 내부자 비판 흐름이 이어지는 상황이다.\n\n물론 이 증언들을 액면 그대로 받아들이기에는 한계가 있다. 불만족한 직원이나 퇴사자가 발언에 더 나서는 선택 편향이 작용할 수 있고, 개발 과정의 마찰은 모든 첨단 기술 프로젝트에서 정상적인 현상이다. 실제로 FSD는 오스틴에서 무감독 로보택시를 상업 운행하는 수준까지 발전했다는 객관적 성과도 있다.\n\n그럼에도 내부자 비판이 이 시점에 반복적으로 나온다는 것은 주주가 주시해야 할 신호다. FSD는 테슬라 프리미엄 밸류에이션의 핵심 근거 중 하나이기 때문이다.\n\n다음 트리거: FSD 관련 실제 성능 지표(마일당 개입 횟수, 사고 통계) 공시, 오스틴 로보택시 안전 투명성 보고서, 테슬라 AI팀 주요 인사 동향, 팟캐스트 내용에 대한 테슬라 공식 반응.",
       "href": "https://insideevs.com/features/797947/tesla-fsd-podcast/",
       "hot": 7
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-05T17:09:43.000Z",
-      "title": "야후파이낸스 \"테슬라 주가 <em>$500 도달 날짜</em> 예측\"",
-      "body": "야후파이낸스에 게재된 분석에서 FSD 로보택시 상용화 일정과 에너지 저장 사업 고성장을 근거로, 테슬라 주가가 특정 날짜에 500달러에 도달할 것이라는 구체적 예측이 제시됐다.",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "stock-tsla-500-price-target-date-2026-06-05",
-      "summary": "야후파이낸스에 게재된 분석 기사는 테슬라 주가가 500달러에 도달할 구체적인 날짜를 예측하며 그 근거를 상세히 제시했다. 현재 주가 대비 상당한 상승 여력을 전망한 이 분석은 불마켓 시나리오에 기반한다.\n\n핵심 촉매는 FSD(완전 자율주행) 기반 로보택시 서비스의 상용화다. 테슬라가 사이버캡 출시와 무인 택시 운영을 확대할수록 소프트웨어 수익이 하드웨어 마진을 뛰어넘는 구조 전환이 가능하다는 논리다. 에너지 저장 부문(메가팩)의 기하급수적 성장도 두 번째 핵심 성장 엔진으로 지목된다.\n\n단기 리스크 요인으로는 높은 밸류에이션(현재 P/E 배수), 전기차 수요 둔화 우려, 머스크 리더십 관련 정치적 리스크 등이 거론된다. 이러한 불확실성을 얼마나 통제할 수 있는지가 $500 달성의 관건이다.\n\n증권사와 개인 분석가들의 테슬라 목표주가 편차가 크기 때문에, 이 예측은 참고 지표로 활용하되 투자 판단에는 다양한 시나리오를 함께 검토하는 것이 적절하다.",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-hit-500-170943287.html",
-      "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-06-05T15:45:39.000Z",
-      "title": "테슬라 AI 총괄 차이윤타 \"제품은 처음부터 완성되지 않는다 — <em>스타트업 정신</em>\"",
-      "body": "테슬라 자율주행·AI 총괄 차이윤타(Yun-Ta Tsai)가 X에 '제품은 출시 첫날부터 완성되는 것이 아니며, 그것이 스타트업과 대기업의 본질적 차이'라고 밝혔다. FSD 개발의 점진적 성숙 과정을 옹호하는 발언으로 읽힌다.",
-      "sourceName": "Yun-Ta Tsai",
-      "sourceLabel": "official",
-      "slug": "fsd-yun-ta-tsai-product-maturity-startup-2026-06-05",
-      "summary": "테슬라 AI·자율주행 총괄 차이윤타(Yun-Ta Tsai)가 X에 제품 개발 철학에 대한 생각을 공유했다. 그는 '제품은 처음부터 완성되지 않으며 항상 초기에는 지저분하다. 그것이 모든 것이 이미 정해진 대기업과, 날면서 비행기를 만들어야 하는 스타트업의 차이'라고 밝혔다.\n\n이 발언은 InsideEVs 등 매체가 보도한 테슬라 직원들의 FSD에 대한 부정적 내부 평가 유출 직후 나온 것이어서 주목된다. 내부 불만이 공론화된 시점에 고위 임원이 '완성되지 않은 제품'을 스타트업 성장 과정으로 옹호하는 메시지를 공개적으로 낸 셈이다.\n\n차이윤타는 테슬라 AI 사업부의 핵심 인물로, FSD 신경망 모델 개발과 옵티머스 로봇 AI 전략을 총괄한다. 그의 발언은 테슬라가 FSD를 '아직 개발 중인 스타트업적 제품'으로 포지셔닝하며 사용자 기대치를 관리하는 동시에, 장기 성숙 경로에 대한 자신감을 내비치는 것으로 해석된다.\n\n테슬라 주주에게 이 메시지는 양면적으로 읽힌다. FSD의 현재 한계를 인정한 현실론이면서, 동시에 지속적 개선이 이루어질 것이라는 확신의 표현이기도 하다. 로보택시 상용화 일정이 다가오는 시점에 기술 성숙도에 대한 내외부의 기대 조율이 핵심 과제임을 보여준다.",
-      "href": "https://x.com/yunta_tsai/status/2062923815886393735",
-      "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-06-05T15:21:13.000Z",
-      "title": "테슬라, 모델 Y 보급형 트림 두 가지에 <em>프리미엄 내장 기능</em> 추가",
-      "body": "테슬라가 모델 Y의 후륜구동(RWD)·사륜구동(AWD) 두 보급형 트림에 프리미엄 트림과 동일한 내장 기능 두 가지를 추가했다. 가격 대비 구성이 개선되며 시장 경쟁력이 강화됐다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-model-y-trim-interior-upgrade-2026-06-05",
-      "summary": "테슬라가 모델 Y의 가장 저렴한 두 트림인 후륜구동(RWD)과 사륜구동(AWD)에 기존 프리미엄 트림에서만 제공되던 내장 기능 두 가지를 추가했다. Teslarati 보도에 따르면 이번 업그레이드로 보급형과 프리미엄 트림 간의 내장 옵션 격차가 크게 줄었다.\n\n모델 Y는 테슬라의 글로벌 베스트셀러로, 이번 업그레이드는 전기차 시장에서 치열해지는 경쟁에 대응하는 전략적 움직임으로 해석된다. 특히 비야디(BYD)를 비롯한 중국 경쟁사들이 저가 트림에서도 풍성한 기본 사양을 제공하는 추세에 맞춘 대응으로 보인다.\n\n테슬라는 하이랜드(Highland) 페이스리프트 이후 소프트웨어·하드웨어 소폭 개선을 지속적으로 이어왔다. 가격 인하 없이 사양을 올리는 방식은 기존 고객의 불만을 최소화하면서도 신규 구매자에게 더 높은 가치를 제공하는 전략이다.\n\n주니퍼(Juniper) 업데이트가 적용된 현행 모델 Y에 추가된 이번 기능이 구체적으로 어떤 항목인지에 대한 상세 내용은 Teslarati 원문에서 확인할 수 있다.",
-      "href": "https://www.teslarati.com/tesla-upgrades-model-y-affordable-trims-new-interior-features/",
-      "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-06-05T15:21:13.000Z",
-      "title": "테슬라, 모델 Y <em>보급형에 프리미엄 인테리어</em> 동일 탑재",
-      "body": "테슬라가 모델 Y(주니퍼) 후륜구동·사륜구동 기본 트림에 상위 '프리미엄' 모델과 동일한 신규 인테리어 기능 2가지를 추가했다. 가격 인상 없이 사양을 올려 보급형 구매자 만족도를 높이는 조용한 업그레이드다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-model-y-affordable-trim-upgrade-2026-06-05",
-      "summary": "테슬라가 모델 Y(주니퍼) 라인업의 후륜구동(RWD)·사륜구동(AWD) 트림에 상위 '프리미엄(Premium)' 모델과 동일한 신규 인테리어 기능 2가지를 조용히 추가했다. 테슬라라티(Teslarati)가 이번 변경 사항을 포착해 보도했다.\n\n이번 업데이트로 모델 Y 보급형과 프리미엄 간의 인테리어 격차가 좁혀졌다. 테슬라는 이런 조용한 사양 업그레이드를 자주 활용하는 편인데, 공식 가격 인하 없이도 소비자가 인식하는 가성비를 높이는 데 효과적인 전략이다. 정확한 추가 기능이 무엇인지는 아직 테슬라가 공식 발표하지 않았으나, 사용자 커뮤니티에서 확인이 이뤄지고 있다.\n\n모델 Y 주니퍼는 2025년 초 출시 이후 유럽·아시아 판매 반등을 이끈 핵심 모델이다. 일본 5월 등록 182% 폭증, 한국·프랑스 급증 배경에도 주니퍼의 상품성 개선이 큰 역할을 했다는 분석이 나온다. 이번 보급형 트림 업그레이드는 그 상품성 강화 흐름을 이어가는 조치다.\n\n투자 관점에서 보급형 트림 사양 강화는 중간~저가 소비자를 경쟁 모델(BYD, 폭스바겐 ID 시리즈 등)로부터 붙잡는 방어 전략이기도 하다. 같은 가격에 더 많은 것을 제공하면 판매 전환율이 높아지고, 이는 2분기 인도량 반등 흐름을 지지하는 요소가 된다.\n\n다음 트리거: 추가된 인테리어 기능 공식 확인 및 마케팅 반영, 2분기 모델 Y 인도량 집계(7월 초), 보급형 트림 주문 증감 추이, BYD 등 경쟁사의 동급 대응 전략.",
-      "href": "https://www.teslarati.com/tesla-upgrades-model-y-affordable-trims-new-interior-features/",
-      "hot": 5
     }
   ],
-  "asOf": "2026-06-11 23:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-11 19:00 KST 자동 갱신 · 최신순"
 }
