@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-11T09:04:31.000Z",
+      "title": "NYT: 테슬라 2010년 상장이 <em>스페이스X IPO를 가능케 했다</em>",
+      "hotShort": "NYT: 테슬라 IPO가 <em>스페이스X 상장의 토대</em>",
+      "body": "뉴욕타임스가 스페이스X IPO 임박 시점에 심층 분석을 발행했다 — 테슬라의 2010년 상장이 일론 머스크에게 스페이스X를 키울 재정적 토대를 마련해줬다는 내용이다. 두 회사의 역사적·재정적 연결고리가 지금 다시 주목받는 이유는, 스페이스X 상장이 머스크의 자본 배분과 테슬라 집중도에 미칠 영향이 주주들의 관심사로 부상했기 때문이다.",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "musk-tesla-ipo-2010-spacex-ipo-nyt-2026-06-11",
+      "summary": "뉴욕타임스가 6월 11일, 스페이스X IPO가 임박한 시점에 맞춰 '테슬라 2010년 상장이 스페이스X의 IPO를 어떻게 가능하게 했는가'를 다루는 심층 기사를 발행했다. 테슬라는 2010년 6월 나스닥에 상장하며 미국 최초의 공개 전기차 기업이 됐고, 이 상장을 통해 일론 머스크는 지분 가치와 자금조달 신뢰성을 확보했다.\n\n머스크의 두 핵심 벤처 — 테슬라와 스페이스X — 는 그의 경영 시간과 자본을 공유해왔다. 테슬라 상장으로 얻은 재정적 여력이 스페이스X의 성장과 IPO 준비를 가능하게 했다는 것이 NYT 분석의 핵심이다.\n\n스페이스X IPO가 실제로 이뤄진다면 머스크의 스페이스X 지분 일부가 유동화될 수 있다. 테슬라 주주 입장에서 두 가지 포인트가 주목할 만하다: ① 머스크의 테슬라 집중도 및 지분 처분 가능성, ② 두 회사를 연결하는 기술·인력 연계가 각사의 주가에 미치는 영향.\n\n테슬라 상장 16년 만에 스페이스X가 같은 길을 걷는 이 시점에, NYT의 분석은 머스크가 구축해 온 벤처 생태계의 재정적 뿌리를 돌아보게 한다. 구체적 논거와 분석은 NYT 원문에서 확인할 수 있다.",
+      "title_en": "NYT: Tesla's 2010 IPO <em>laid the foundation for SpaceX's listing</em>",
+      "hotShort_en": "Tesla's 2010 IPO <em>paved SpaceX's path</em>",
+      "body_en": "The New York Times published an in-depth analysis as SpaceX's IPO approaches: Tesla's 2010 NASDAQ listing gave Elon Musk the financial foundation that made SpaceX's IPO possible. With SpaceX set to go public, the historical link between Musk's two flagship ventures has new relevance for Tesla shareholders watching his capital allocation and focus.",
+      "summary_en": "On June 11, the New York Times published a deep-dive timed to SpaceX's imminent IPO, tracing how Tesla's 2010 NASDAQ listing enabled Elon Musk to build SpaceX toward its own eventual public offering. Tesla's June 2010 IPO made it the first US publicly traded EV maker, giving Musk equity value and financial credibility that underpinned his broader capital strategy.\n\nMusk's two flagship ventures — Tesla and SpaceX — have shared his executive time and capital allocation for more than a decade. The NYT's thesis is that Tesla's listing provided the financial runway that allowed SpaceX to scale and now reach IPO readiness.\n\nIf SpaceX goes public, a portion of Musk's stake could potentially be monetized. Tesla shareholders have two questions to consider: first, whether a SpaceX IPO might dilute Musk's focus on or commitment to Tesla; second, how the technology-and-talent ties between the two companies could evolve once SpaceX is independently capitalized.\n\nSixteen years after Tesla went public, SpaceX is following the same path. The NYT analysis provides context for understanding the financial architecture behind Musk's venture empire. Full arguments are available in the original article.",
+      "href": "https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "11h ago",
@@ -18,26 +38,6 @@
       "summary_en": "Tesla (TSLA) had built a sustained rally over recent weeks on strong catalysts: consecutive FSD approvals across Europe, the launch of Austin's first commercial robotaxi service, and a wave of Wall Street upgrades including JPMorgan's dramatic reversal. By June 10, profit-taking pressure from that run came to a head, with the stock falling nearly 4% to close at $381.59, per IBT Australia.\n\nIBT Australia cited profit-taking alongside ongoing EV market challenges as drivers of the decline. The latter likely reflects structural competitive pressure — BYD's newly unveiled five-year expansion plan and intensifying competition in subsidy-free markets — that had been building in the background.\n\nThe session also saw Bloomberg publish its Austin robotaxi investigation (just 59 vehicles operating) alongside multiple other bearish headlines, which may have compounded selling pressure on what was already a technically stretched stock.\n\nLooking through the single-session pullback, Tesla's medium-term drivers remain intact: consecutive European FSD approvals, a post-subsidy US EV market running at record monthly sales, and the expanding Austin robotaxi footprint. The early-July Q2 delivery and margin figures will be the real test of whether the current valuation holds.",
       "href": "https://www.ibtimes.com.au/tesla-shares-dip-profit-taking-ev-market-challenges-1870497",
       "sentiment": "bear",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-06-11T01:30:00.000Z",
-      "title": "캐시 우드, 탄 로보택시가 <em>주차 위반 $75 티켓</em> — 일론에 대응 방침 물어",
-      "hotShort": "캐시 우드 탄 로보택시, <em>$75 주차 위반</em> 티켓",
-      "body": "ARK인베스트 CEO 캐시 우드가 오스틴에서 테슬라 로보택시를 탑승한 뒤 차량이 $75 주차 위반 티켓을 받자, X에서 일론 머스크에게 테슬라가 주차·교통 위반에 어떻게 대응할지 공개적으로 물었다 — 테슬라의 가장 열렬한 기관 지지자조차 로보택시 운영 공백을 직접 짚어낸 사례다.",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "fsd-cathie-wood-robotaxi-parking-ticket-2026-06-11",
-      "summary": "캐시 우드는 ARK인베스트 CEO로, ARKK 펀드를 통해 테슬라 주식을 대규모 보유한 대표적 테슬라 강세론자다. 그런 그녀가 6월 초 오스틴에서 테슬라 로보택시를 직접 탑승했고, 그 차량이 $75 주차 위반 티켓을 받는 상황을 경험했다. 이후 우드는 X에서 일론 머스크에게 테슬라가 로보택시 운영 중 발생하는 주차·교통 위반에 어떻게 대응할지 공개적으로 질문했다.\n\n이 사례는 자율주행 차량이 무인 운영될 때 법적·운영적 책임 소재가 불명확하다는 문제를 상징적으로 드러낸다. 주차 위반 티켓이 발부될 경우 이를 처리하는 주체가 테슬라인지, 탑승자인지, 아니면 자동화된 시스템인지에 대한 명확한 정책이 대규모 상업 서비스 이전에 마련돼야 한다.\n\n캐시 우드 같은 강한 지지자가 공개적으로 운영 공백을 제기했다는 점은 단순한 기술 비관론과 다르다. 로보택시 서비스의 현실적 확장 가능성을 높이기 위해 테슬라가 규제·법적 프레임워크를 구체화해야 할 시점이라는 신호로 읽힌다.\n\n일론 머스크가 우드의 공개 질문에 어떤 응답을 했는지는 이번 보도에 명시되지 않았다. 교통 위반 처리 체계 확립은 테슬라가 로보택시 서비스를 오스틴 이외 도시로 확장하기 전에 풀어야 할 실무 과제 중 하나다.",
-      "title_en": "Cathie Wood's robotaxi ride ends with a <em>$75 parking ticket</em> — she asks Elon how Tesla will handle violations",
-      "hotShort_en": "Cathie Wood's robotaxi gets a <em>$75 parking ticket</em>",
-      "body_en": "ARK Invest CEO Cathie Wood rode a Tesla robotaxi in Austin, only to have the vehicle receive a $75 parking ticket — prompting her to publicly ask Elon Musk on X how Tesla plans to handle parking and traffic violations. Even one of Tesla's most prominent bulls is flagging an operational gap in the robotaxi rollout.",
-      "summary_en": "Cathie Wood, ARK Invest CEO and one of Tesla's most visible institutional bulls, rode a Tesla robotaxi in Austin and found herself in an awkward situation: the vehicle received a $75 parking ticket. She followed up by publicly asking Elon Musk on X how Tesla intends to handle parking and traffic violations arising from its driverless service.\n\nThe incident points to a practical legal question that any fully autonomous ride-hailing service must answer at scale: when a vehicle with no human driver incurs a parking or traffic citation, who is responsible for resolving it — Tesla, the passenger, or an automated compliance system? No clear answer has been publicly disclosed.\n\nThat a high-profile Tesla supporter chose to raise this concern publicly — rather than quietly — signals that real-world operational friction in the robotaxi service is generating questions even among the company's strongest institutional backers.\n\nWhether Musk responded to Wood's question was not reported. Establishing a clear liability and compliance framework for traffic violations is one of the operational prerequisites Tesla will need to address as it moves toward a larger, broader robotaxi deployment.",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-asks-elon-musk-013046976.html",
-      "sentiment": "neutral",
       "hot": 6
     },
     {
@@ -83,23 +83,23 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-06-10T13:33:47.000Z",
-      "title": "블룸버그 \"오스틴 로보택시 <em>단 59대뿐</em> — 대기·급제동 직접 취재\"",
-      "hotShort": "블룸버그, 오스틴 로보택시 <em>단 59대</em> 실태 직접 확인",
-      "body": "블룸버그가 오스틴 로보택시를 직접 탑승 취재 — 운행 차량은 현재 59대에 불과한 것으로 확인됐으며, 수십 분 대기와 주행 중 급제동이 반복됐다. 일론 머스크의 수백만 대 로보택시 약속과의 현실 간극이 투자자 신뢰에 부담 요인이 될 수 있다.",
-      "sourceName": "Bloomberg",
+      "time": "14h ago",
+      "pubDate": "2026-06-10T21:48:35.000Z",
+      "title": "테슬라라티: 한 애널리스트, FSD가 \"<em>레벨 4에 도달했다</em>\"고 첫 주장",
+      "hotShort": "애널리스트 \"FSD, <em>레벨 4 도달</em>\" 첫 주장",
+      "body": "테슬라라티가 인용한 한 애널리스트가 테슬라 FSD가 SAE 레벨 4 자율주행 기준에 도달했다고 평가했다 — 레벨 4는 지정 구역 내에서 사람 개입 없이 모든 주행 상황을 자율 처리하는 단계다. 공식 기관 인증은 없지만, 전문 분석가의 첫 레벨 4 판정 주장은 FSD 기술 성숙도에 대한 시장 인식이 변하고 있다는 신호다.",
+      "sourceName": "Teslarati",
       "sourceLabel": "press",
-      "slug": "fsd-bloomberg-robotaxi-59-vehicles-2026-06-10",
-      "summary": "블룸버그가 6월 10일 공개한 심층 탑승 취재에 따르면, 테슬라 오스틴 로보택시 서비스의 현재 운행 차량은 단 59대에 그친다. 일론 머스크는 FSD 기반 수백만 대 규모의 로보택시 플릿을 수차례 예고했으나, 상용 출시 이후에도 서비스 규모는 여전히 시범 수준에 머물러 있다.\n\n취재진이 직접 탑승해 체험한 결과, 배차 대기가 수십 분에 달하고 주행 중 예고 없는 급제동과 가다서다 반복이 빈번했다고 보도했다. 블룸버그는 이를 두고 머스크의 약속 대비 기대치에 미치지 못한 서비스라고 평가했다.\n\n테슬라는 오스틴 이후 라스베이거스 등 추가 도시 확장을 계획하고 있지만, 서비스 품질과 규모 모두 개선이 선행돼야 한다는 지적이다. 로보택시 사업이 테슬라 밸류에이션에서 핵심 근거로 거론되는 만큼, 투자자들은 단순한 확장 발표보다 실질 운행 품질·규모 지표를 면밀히 추적할 필요가 있다.",
-      "title_en": "Bloomberg: Austin Robotaxi Fleet <em>Just 59 Vehicles</em> — Long Waits, Hard Stops",
-      "hotShort_en": "Austin robotaxi fleet: <em>just 59 cars</em> in service",
-      "body_en": "Bloomberg rode Tesla's Austin robotaxi service and found just 59 vehicles operating — wait times stretched to tens of minutes and rides were marked by frequent hard stops. The gulf between Musk's promise of millions of autonomous vehicles and this pilot-scale reality could weigh on investor confidence.",
-      "summary_en": "Bloomberg published an in-depth ride-along investigation on June 10, finding Tesla's Austin robotaxi service running just 59 vehicles. Elon Musk has repeatedly promised a fleet of millions of FSD-powered robotaxis, yet months after commercial launch the service remains firmly at pilot scale.\n\nReporters described wait times of several tens of minutes and frequent sudden braking and stop-and-go behavior throughout the rides. Bloomberg characterized the experience as falling well short of expectations built by Musk's public statements on autonomous ride-hailing.\n\nTesla has plans to expand beyond Austin to Las Vegas and other cities, but analysts note that meaningful improvements in both fleet size and ride quality must come first. With robotaxi economics central to Tesla's premium valuation, investors are increasingly scrutinizing actual operational metrics — not just expansion announcements.",
-      "href": "https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises",
-      "sentiment": "bear",
-      "hot": 8
+      "slug": "fsd-level4-analyst-claim-2026-06-10",
+      "summary": "테슬라라티(Teslarati)가 6월 10일, 테슬라 FSD(Full Self-Driving)가 SAE 자율주행 분류 기준에서 레벨 4(Level 4)에 도달했다고 평가하는 한 애널리스트의 견해를 보도했다. 기사 제목에 물음표가 포함된 것은 이 평가가 현재 논쟁 중임을 나타낸다.\n\nSAE 레벨 4는 자율주행 시스템이 지정된 운행설계영역(ODD·Operational Design Domain) 내에서 인간의 개입이나 감독 없이 모든 주행 상황을 처리할 수 있는 단계를 말한다 — 탑승자가 언제든 제어를 넘겨받을 준비를 할 필요가 없다. 해당 애널리스트는 테슬라의 오스틴 로보택시 서비스가 사실상 이 수준에서 운영되고 있다고 보고 있다.\n\n이 평가는 NHTSA·SAE 인터내셔널 등 공식 기관의 인증이나 테슬라의 공식 선언이 아닌, 한 애널리스트의 견해다. 실제 레벨 4 분류는 특정 ODD에 대한 기술 검증이 수반돼야 한다.\n\n그럼에도 전문 분석가가 처음으로 레벨 4 도달을 주장한 것은 FSD 기술 성숙도 인식에서 의미 있는 변화를 시사한다. 로보택시 수익화의 전제인 자율주행 능력 인정이 쌓일수록, 테슬라 밸류에이션의 AI·자율주행 프리미엄 근거가 강화될 수 있다.",
+      "title_en": "Teslarati: one analyst argues Tesla FSD <em>has reached Level 4</em>",
+      "hotShort_en": "Analyst: Tesla FSD <em>has hit Level 4</em>",
+      "body_en": "An analyst cited by Teslarati argues Tesla FSD has reached SAE Level 4 — the threshold where the system handles all driving situations within a defined zone without any human intervention or oversight. No official regulatory certification exists, but the first analyst-level Level 4 assertion signals a meaningful shift in how the market perceives FSD's technical maturity.",
+      "summary_en": "Teslarati reported on June 10 that one analyst has assessed Tesla's Full Self-Driving as having reached SAE Level 4 autonomy. The headline's question mark indicates this is a contested view, not a settled determination.\n\nSAE Level 4 means an autonomous driving system can handle all driving situations within a defined operational design domain (ODD) — with no need for human intervention or monitoring, and no requirement for a passenger to stand ready to take control. The analyst argues that Tesla's Austin robotaxi service effectively operates at this level.\n\nThis is one analyst's assessment, not a certification from NHTSA, SAE International, or a formal declaration by Tesla. A legitimate Level 4 designation requires verified technical testing for a specific ODD.\n\nNevertheless, the first analyst-level Level 4 assertion marks a meaningful shift in how the market perceives FSD's maturity. As expert recognition of Tesla's autonomous capability accumulates, the investment case for FSD monetization and robotaxi economics strengthens.",
+      "href": "https://www.teslarati.com/tesla-tsla-full-self-driving-hits-level-4-one-analyst-says-yes/",
+      "sentiment": "bull",
+      "hot": 6
     }
   ],
-  "asOf": "2026-06-11 18:11 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-11 20:04 KST 자동 갱신 · 최신순"
 }
