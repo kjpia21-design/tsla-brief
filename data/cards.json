@@ -61,6 +61,26 @@
       "hot": 7
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "7h ago",
+      "pubDate": "2026-06-10T18:45:45.000Z",
+      "title": "테슬라라티 \"한 애널리스트, FSD가 <em>레벨 4에 도달</em>했다고 평가\"",
+      "hotShort": "한 애널리스트, FSD <em>레벨 4 달성</em>이라 평가",
+      "body": "테슬라라티에 따르면 한 애널리스트가 테슬라 FSD가 SAE 자율주행 기준 레벨 4에 도달했다고 평가했다 — 공식 레벨 2+ 분류와 달리, 외부 분석가가 레벨 4 수준을 인정하는 평가가 나온 것은 FSD 기술 성숙도 논의에 새 각도를 더한다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-level4-analyst-assessment-2026-06-10",
+      "summary": "SAE J3016 기준 레벨 4는 특정 주행환경(ODD) 내에서 운전자 개입 없이 시스템이 완전 자율 운행하는 수준이다. 현재 테슬라 FSD(Full Self-Driving Supervised)는 공식적으로 레벨 2+(고급 운전자 지원)로 분류돼 있으며, 운전자의 상시 모니터링과 즉각 개입 준비가 요건이다.\n\n테슬라라티(Teslarati)가 6월 10일 보도한 바에 따르면, 한 애널리스트가 테슬라 FSD가 사실상(de facto) SAE 레벨 4에 도달했다고 평가했다. 이는 규제 기관(NHTSA 등)의 공식 인증이나 SAE 분류 변경을 의미하지 않으며, 단일 분석가의 해석이다. 다만 외부 전문가 시각에서 레벨 4 수준을 인정하는 평가가 나왔다는 것 자체가 주목할 만하다.\n\n레벨 4 달성이 규제 기관에 의해 공식 인정된다면 로보택시 상업화 타임라인이 크게 앞당겨질 수 있다. 테슬라는 현재 오스틴에서 비지도 로보택시를 운영 중이지만, 공식 레벨 4 인증은 규제·보험·책임 체계 전반에 영향을 미치는 핵심 이정표다.\n\n투자자 관점에서 이 보도는 FSD의 기술 성숙도에 대한 외부 평가가 변화하고 있다는 신호로 읽힌다. 단일 분석가 의견임을 감안해야 하지만, FSD 레벨 재평가 논의 자체가 향후 테슬라 밸류에이션 논의에서 중요한 변수가 될 수 있다.",
+      "title_en": "Teslarati: one analyst says Tesla FSD has <em>reached Level 4</em>",
+      "hotShort_en": "One analyst: Tesla FSD <em>hit Level 4</em>",
+      "body_en": "Teslarati reports that one analyst has assessed Tesla's FSD as having reached SAE Level 4 autonomous driving. While FSD's official classification remains Level 2+, an outside analyst recognizing Level 4 performance adds a new angle to the discussion of FSD's technical maturity and commercial potential.",
+      "summary_en": "SAE J3016 Level 4 means a vehicle can operate fully autonomously within a defined geographic and environmental boundary (ODD) without the driver's intervention. Tesla's FSD (Full Self-Driving Supervised) is officially classified as Level 2+ — the driver must remain attentive and ready to intervene at all times.\n\nTeslarati reported on June 10 that one analyst assessed Tesla FSD as having, in practice, reached SAE Level 4 performance. This is not a regulatory certification or an SAE reclassification — it is a single analyst's interpretation. That said, external expert recognition at this level is a notable development.\n\nIf Level 4 were formally recognized by regulators, Tesla's robotaxi commercialization timeline could accelerate significantly. Tesla currently runs unsupervised robotaxis in Austin, but official Level 4 certification would affect the entire regulatory, insurance and liability framework — a key milestone.\n\nFor investors, this report signals that external assessments of FSD's technical maturity may be shifting. Single-source caution applies, but a genuine Level 4 re-evaluation debate could become a meaningful variable in Tesla's valuation story going forward.",
+      "href": "https://www.teslarati.com/tesla-tsla-full-self-driving-hits-level-4-one-analyst-says-yes/",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "4h ago",
@@ -78,10 +98,13 @@
       "summary_en": "Invezz and TradingKey both published analyses of TSLA's June 10 decline, with Invezz headlining 'what's behind the recent decline' as the stock extended its losing streak.\n\nMultiple bearish storylines arrived simultaneously: Bloomberg's ride-along investigation found Tesla's Austin robotaxi service running just 59 vehicles with long waits and hard stops; BYD unveiled an ambitious five-year growth plan targeting global EV leadership; and separate reports flagged OpenAI entering one of Tesla's core business areas. The convergence of negative headlines likely compounded pressure on investor sentiment.\n\nBoth analysis pieces were published during US trading hours, so definitive closing figures should be confirmed after market close. Looking past the short-term noise, consecutive FSD approvals across Europe and the US EV market's post-subsidy rebound represent the medium-to-long-term drivers that underpin Tesla's investment case.",
       "href": "https://invezz.com/news/2026/06/10/tesla-stock-slips-another-1-5-today-whats-behind-the-recent-decline/",
       "confirmedBy": 2,
-      "confirmingSources": ["Invezz", "TradingKey"],
+      "confirmingSources": [
+        "Invezz",
+        "TradingKey"
+      ],
       "sentiment": "bear",
       "hot": 5
     }
   ],
-  "asOf": "2026-06-11 07:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-11 10:15 KST 자동 갱신 · 최신순"
 }
