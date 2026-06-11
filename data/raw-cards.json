@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-11 15:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-11 16:13 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-11T15:05:13.000Z",
+      "title": "Tesla stock price forecast: $399.33 resistance looms as TSLA climbs 1.76%",
+      "body": "Tesla stock price forecast: $399.33 resistance looms as TSLA climbs 1.76% Traders Union",
+      "sourceName": "Traders Union",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://tradersunion.com/news/financial-news/show/2333910-tesla-rises-1-76percent-today-to/"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-11T14:58:23.000Z",
       "title": "Cybercab in Morgan Hill California",
       "body": "Cybercab in Morgan Hill California https://t.co/UPDKf8VENT",
@@ -17,7 +30,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-11T14:46:16.000Z",
       "title": "New Tesla Supercharger: Brașov, Romania (12 stalls) Voting Winner Site 🏆  Learn more about Supercharger Voting:",
       "body": "New Tesla Supercharger: Brașov, Romania (12 stalls) Voting Winner Site 🏆 https://t.co/S8BqNlAi96 Learn more about Supercharger Voting: https://t.co/CpFcz8MJcF https://t.co/Q38bRa9X1B",
@@ -30,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "25m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-11T14:35:43.000Z",
       "title": "Huge news on SpaceX's IPO Retail investors have already flooded in with more than $70 billion in orders. Retail buyer…",
       "body": "Huge news on SpaceX's IPO Retail investors have already flooded in with more than $70 billion in orders. Retail buyers are expected to get at least 20% of the available shares when it debuts on Nasdaq this Friday under t…",
@@ -44,6 +57,19 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "2h ago",
+      "pubDate": "2026-06-11T13:56:00.000Z",
+      "title": "What Does Denmark's FSD Approval Mean for Tesla in Europe?",
+      "body": "What Does Denmark's FSD Approval Mean for Tesla in Europe? Yahoo Finance Singapore",
+      "sourceName": "Yahoo Finance Singapore",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://sg.finance.yahoo.com/news/does-denmarks-fsd-approval-mean-135600752.html"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
       "pubDate": "2026-06-11T13:17:37.000Z",
       "title": "What did Andrej see such that he would shift himself from inspiring the ML community with selfless sharing to a compa…",
       "body": "What did Andrej see such that he would shift himself from inspiring the ML community with selfless sharing to a company that wants total control of humanity advancement?",
@@ -56,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-11T12:49:32.000Z",
       "title": "Iran threatens Elon Musk's companies in Middle East: Iranian state media",
       "body": "Iran threatens Elon Musk's companies in Middle East: Iranian state media CNBC",
@@ -69,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-11T11:53:44.000Z",
       "title": "Each code commit is a steering vector for the coding agents. They might slip in one or two lines of slop when you're …",
       "body": "Each code commit is a steering vector for the coding agents. They might slip in one or two lines of slop when you're not looking. These would be completely harmless. But with the sheer volume of commits that agents can g…",
@@ -83,6 +109,19 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "4h ago",
+      "pubDate": "2026-06-11T11:48:57.000Z",
+      "title": "Wellspring Financial Advisors LLC Purchases 8,555 Shares of Tesla, Inc. $TSLA",
+      "body": "Wellspring Financial Advisors LLC Purchases 8,555 Shares of Tesla, Inc. $TSLA MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-wellspring-financial-advisors-llc-purchases-8555-shares-of-tesla-inc-tsla-2026-06-11/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
       "pubDate": "2026-06-11T11:08:34.000Z",
       "title": "T3 Companies LLC Takes Position in Tesla, Inc. $TSLA",
       "body": "T3 Companies LLC Takes Position in Tesla, Inc. $TSLA MarketBeat",
@@ -93,22 +132,9 @@
       "href": "https://www.marketbeat.com/instant-alerts/filing-t3-companies-llc-takes-position-in-tesla-inc-tsla-2026-06-11/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-06-11T11:08:26.000Z",
-      "title": "Is Tesla (TSLA) Quietly Rewriting Its Valuation Story With Robotaxis And Grid-Scale Energy Bets?",
-      "body": "Is Tesla (TSLA) Quietly Rewriting Its Valuation Story With Robotaxis And Grid-Scale Energy Bets? Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-quietly-rewriting-valuation-110826666.html"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-11T10:14:32.000Z",
       "title": "Tesla’s IPO Was One of the Greatest Ever. Why SpaceX Can’t Hope to Repeat Its Success.",
       "body": "Tesla’s IPO Was One of the Greatest Ever. Why SpaceX Can’t Hope to Repeat Its Success. Barron's",
@@ -119,22 +145,9 @@
       "href": "https://www.barrons.com/articles/spacex-ipo-tesla-stock-price-012631fc"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-11T09:35:24.000Z",
-      "title": "🚨 TESLA STOCK HUGE MOVE TOMORROW! TSLA, SPY, QQQ, ES, NQ, NVDA, AAPL, META BTC Predictions! 🚀 Judi Dench (1REKNCDH64)",
-      "body": "🚨 TESLA STOCK HUGE MOVE TOMORROW! TSLA, SPY, QQQ, ES, NQ, NVDA, AAPL, META BTC Predictions! 🚀 Judi Dench (1REKNCDH64) Fathom Journal",
-      "sourceName": "Fathom Journal",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://fathomjournal.org/95eb25fb/91a1042c7VKlyKYzrVc"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-11T09:07:32.000Z",
       "title": "Musk to speak at chip tool giant ASML event ahead of SpaceX IPO",
       "body": "Musk to speak at chip tool giant ASML event ahead of SpaceX IPO Reuters",
@@ -147,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-11T09:04:31.000Z",
       "title": "How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O.",
       "body": "How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O. The New York Times",
@@ -160,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-11T06:18:52.000Z",
       "title": "New Tesla Supercharger: Tyndrum, UK (4 stalls)",
       "body": "New Tesla Supercharger: Tyndrum, UK (4 stalls) https://t.co/3p4uvfJqh3 https://t.co/68h84GyY0T",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-11T04:32:37.000Z",
       "title": "Tesla unfolded its first European “folding Supercharger”",
       "body": "Tesla's folding Supercharger just arrived in Europe and it changes how fast charging expands. The post Tesla unfolded its first European “folding Supercharger” appeared first on TESLARATI.",
@@ -186,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-11T00:42:36.000Z",
       "title": "New Tesla Supercharger: Northridge, CA - Reseda Boulevard (8 stalls)",
       "body": "New Tesla Supercharger: Northridge, CA - Reseda Boulevard (8 stalls) https://t.co/lAquEboanK https://t.co/QBJhrGccT4",
@@ -199,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-10T23:55:32.000Z",
       "title": "Tesla Cybertruck is finally getting Summon",
       "body": "Tesla Cybertruck is finally getting Summon Teslarati",
@@ -212,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-10T21:45:04.000Z",
       "title": "Here's Why Tesla (TSLA) Fell More Than Broader Market",
       "body": "Here's Why Tesla (TSLA) Fell More Than Broader Market Yahoo Finance",
@@ -225,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "19h ago",
+      "time": "20h ago",
       "pubDate": "2026-06-10T20:21:00.000Z",
       "title": "3 Reasons Tesla Stock Is So Volatile This Week",
       "body": "3 Reasons Tesla Stock Is So Volatile This Week Barron's",
@@ -238,7 +251,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-10T18:01:00.000Z",
       "title": "Tesla gets go-ahead to sell self-driving technology in Belgium",
       "body": "Tesla gets go-ahead to sell self-driving technology in Belgium Reuters",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/autos-transportation/tesla-gets-go-ahead-sell-self-driving-technology-belgium-2026-06-10/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-06-10T16:09:43.000Z",
-      "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
-      "body": "Prediction: Tesla Stock Will Hit $500 on This Date Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-hit-500-170943287.html"
     }
   ]
 }
