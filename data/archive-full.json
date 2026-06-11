@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-11 09:00 UTC · 누적 275건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-11 10:48 UTC · 누적 276건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "11h ago",
+      "pubDate": "2026-06-11T07:28:16.000Z",
+      "title": "테슬라 6월 10일 종가 <em>$381.59 (−4%)</em> — 최근 랠리 후 차익 실현",
+      "hotShort": "TSLA, 랠리 후 차익 실현 — 종가 <em>$381.59 (−4%)</em>",
+      "body": "테슬라가 최근 가파른 상승 랠리 이후 차익 실현 매물이 쏟아지며 6월 10일 미국 증시에서 약 4% 하락해 $381.59에 마감했다 — IBT Australia는 전기차 시장 경쟁 압박도 하락 요인으로 거론했으며, 이는 단기 기술적 조정에 해당한다.",
+      "sourceName": "International Business Times Australia",
+      "sourceLabel": "press",
+      "slug": "stock-tsla-closing-price-381-2026-06-11",
+      "summary": "테슬라(TSLA)는 최근 수 주간 FSD 유럽 연속 승인, 오스틴 로보택시 첫 상용 운행, JP모건·복수 기관 상향 조정이라는 강한 호재 흐름 속에서 상승 랠리를 이어왔다. IBT Australia에 따르면 6월 10일에는 그 랠리에서 쌓인 단기 차익 실현 매물이 집중적으로 출회되며 주가가 약 4% 하락, $381.59에 마감했다.\n\nIBT Australia는 차익 실현과 함께 전기차 시장의 지속적인 도전(EV market challenges)도 하락 원인으로 언급했다. BYD의 5개년 야심 계획 공표, 보조금 없는 시장에서의 경쟁 심화 등 구조적 압박이 투자 심리의 배경에 깔려 있다는 분석이다.\n\n단기 조정이지만 주주 관점에서 눈여겨볼 맥락도 있다. 6월 10일 같은 날 블룸버그의 오스틴 로보택시 단 59대 취재와 경쟁 악재가 동시에 쏟아진 것이 매도 압력을 가중시켰을 수 있다. 반면 FSD 유럽 국가 연속 승인, 미국 EV 판매 보조금 없는 최고치 달성 같은 중장기 모멘텀은 이 하락과 무관하게 유지되고 있다.\n\n7월 초 발표 예정인 Q2 인도 수치와 마진이 현재 밸류에이션을 뒷받침하는지 여부가 향후 주가 방향의 실질적 검증 포인트다.",
+      "title_en": "Tesla closes June 10 at <em>$381.59, down −4%</em> on profit-taking",
+      "hotShort_en": "TSLA closes <em>$381.59 (−4%)</em> on profit-taking",
+      "body_en": "Tesla closed at $381.59 on June 10, down nearly 4%, as profit-taking followed a strong recent rally — IBT Australia also cited ongoing EV market challenges as a contributing factor. The move represents a near-term technical pullback, not a change in Tesla's core FSD or robotaxi thesis.",
+      "summary_en": "Tesla (TSLA) had built a sustained rally over recent weeks on strong catalysts: consecutive FSD approvals across Europe, the launch of Austin's first commercial robotaxi service, and a wave of Wall Street upgrades including JPMorgan's dramatic reversal. By June 10, profit-taking pressure from that run came to a head, with the stock falling nearly 4% to close at $381.59, per IBT Australia.\n\nIBT Australia cited profit-taking alongside ongoing EV market challenges as drivers of the decline. The latter likely reflects structural competitive pressure — BYD's newly unveiled five-year expansion plan and intensifying competition in subsidy-free markets — that had been building in the background.\n\nThe session also saw Bloomberg publish its Austin robotaxi investigation (just 59 vehicles operating) alongside multiple other bearish headlines, which may have compounded selling pressure on what was already a technically stretched stock.\n\nLooking through the single-session pullback, Tesla's medium-term drivers remain intact: consecutive European FSD approvals, a post-subsidy US EV market running at record monthly sales, and the expanding Austin robotaxi footprint. The early-July Q2 delivery and margin figures will be the real test of whether the current valuation holds.",
+      "href": "https://www.ibtimes.com.au/tesla-shares-dip-profit-taking-ev-market-challenges-1870497",
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
