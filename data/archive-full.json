@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-11 11:00 UTC · 누적 276건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-11 13:00 UTC · 누적 278건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-11T09:04:31.000Z",
+      "title": "NYT: 테슬라 2010년 상장이 <em>스페이스X IPO를 가능케 했다</em>",
+      "hotShort": "NYT: 테슬라 IPO가 <em>스페이스X 상장의 토대</em>",
+      "body": "뉴욕타임스가 스페이스X IPO 임박 시점에 심층 분석을 발행했다 — 테슬라의 2010년 상장이 일론 머스크에게 스페이스X를 키울 재정적 토대를 마련해줬다는 내용이다. 두 회사의 역사적·재정적 연결고리가 지금 다시 주목받는 이유는, 스페이스X 상장이 머스크의 자본 배분과 테슬라 집중도에 미칠 영향이 주주들의 관심사로 부상했기 때문이다.",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "musk-tesla-ipo-2010-spacex-ipo-nyt-2026-06-11",
+      "summary": "뉴욕타임스가 6월 11일, 스페이스X IPO가 임박한 시점에 맞춰 '테슬라 2010년 상장이 스페이스X의 IPO를 어떻게 가능하게 했는가'를 다루는 심층 기사를 발행했다. 테슬라는 2010년 6월 나스닥에 상장하며 미국 최초의 공개 전기차 기업이 됐고, 이 상장을 통해 일론 머스크는 지분 가치와 자금조달 신뢰성을 확보했다.\n\n머스크의 두 핵심 벤처 — 테슬라와 스페이스X — 는 그의 경영 시간과 자본을 공유해왔다. 테슬라 상장으로 얻은 재정적 여력이 스페이스X의 성장과 IPO 준비를 가능하게 했다는 것이 NYT 분석의 핵심이다.\n\n스페이스X IPO가 실제로 이뤄진다면 머스크의 스페이스X 지분 일부가 유동화될 수 있다. 테슬라 주주 입장에서 두 가지 포인트가 주목할 만하다: ① 머스크의 테슬라 집중도 및 지분 처분 가능성, ② 두 회사를 연결하는 기술·인력 연계가 각사의 주가에 미치는 영향.\n\n테슬라 상장 16년 만에 스페이스X가 같은 길을 걷는 이 시점에, NYT의 분석은 머스크가 구축해 온 벤처 생태계의 재정적 뿌리를 돌아보게 한다. 구체적 논거와 분석은 NYT 원문에서 확인할 수 있다.",
+      "title_en": "NYT: Tesla's 2010 IPO <em>laid the foundation for SpaceX's listing</em>",
+      "hotShort_en": "Tesla's 2010 IPO <em>paved SpaceX's path</em>",
+      "body_en": "The New York Times published an in-depth analysis as SpaceX's IPO approaches: Tesla's 2010 NASDAQ listing gave Elon Musk the financial foundation that made SpaceX's IPO possible. With SpaceX set to go public, the historical link between Musk's two flagship ventures has new relevance for Tesla shareholders watching his capital allocation and focus.",
+      "summary_en": "On June 11, the New York Times published a deep-dive timed to SpaceX's imminent IPO, tracing how Tesla's 2010 NASDAQ listing enabled Elon Musk to build SpaceX toward its own eventual public offering. Tesla's June 2010 IPO made it the first US publicly traded EV maker, giving Musk equity value and financial credibility that underpinned his broader capital strategy.\n\nMusk's two flagship ventures — Tesla and SpaceX — have shared his executive time and capital allocation for more than a decade. The NYT's thesis is that Tesla's listing provided the financial runway that allowed SpaceX to scale and now reach IPO readiness.\n\nIf SpaceX goes public, a portion of Musk's stake could potentially be monetized. Tesla shareholders have two questions to consider: first, whether a SpaceX IPO might dilute Musk's focus on or commitment to Tesla; second, how the technology-and-talent ties between the two companies could evolve once SpaceX is independently capitalized.\n\nSixteen years after Tesla went public, SpaceX is following the same path. The NYT analysis provides context for understanding the financial architecture behind Musk's venture empire. Full arguments are available in the original article.",
+      "href": "https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html",
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -80,6 +100,26 @@
       "href": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/",
       "sentiment": "bull",
       "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "14h ago",
+      "pubDate": "2026-06-10T21:48:35.000Z",
+      "title": "테슬라라티: 한 애널리스트, FSD가 \"<em>레벨 4에 도달했다</em>\"고 첫 주장",
+      "hotShort": "애널리스트 \"FSD, <em>레벨 4 도달</em>\" 첫 주장",
+      "body": "테슬라라티가 인용한 한 애널리스트가 테슬라 FSD가 SAE 레벨 4 자율주행 기준에 도달했다고 평가했다 — 레벨 4는 지정 구역 내에서 사람 개입 없이 모든 주행 상황을 자율 처리하는 단계다. 공식 기관 인증은 없지만, 전문 분석가의 첫 레벨 4 판정 주장은 FSD 기술 성숙도에 대한 시장 인식이 변하고 있다는 신호다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-level4-analyst-claim-2026-06-10",
+      "summary": "테슬라라티(Teslarati)가 6월 10일, 테슬라 FSD(Full Self-Driving)가 SAE 자율주행 분류 기준에서 레벨 4(Level 4)에 도달했다고 평가하는 한 애널리스트의 견해를 보도했다. 기사 제목에 물음표가 포함된 것은 이 평가가 현재 논쟁 중임을 나타낸다.\n\nSAE 레벨 4는 자율주행 시스템이 지정된 운행설계영역(ODD·Operational Design Domain) 내에서 인간의 개입이나 감독 없이 모든 주행 상황을 처리할 수 있는 단계를 말한다 — 탑승자가 언제든 제어를 넘겨받을 준비를 할 필요가 없다. 해당 애널리스트는 테슬라의 오스틴 로보택시 서비스가 사실상 이 수준에서 운영되고 있다고 보고 있다.\n\n이 평가는 NHTSA·SAE 인터내셔널 등 공식 기관의 인증이나 테슬라의 공식 선언이 아닌, 한 애널리스트의 견해다. 실제 레벨 4 분류는 특정 ODD에 대한 기술 검증이 수반돼야 한다.\n\n그럼에도 전문 분석가가 처음으로 레벨 4 도달을 주장한 것은 FSD 기술 성숙도 인식에서 의미 있는 변화를 시사한다. 로보택시 수익화의 전제인 자율주행 능력 인정이 쌓일수록, 테슬라 밸류에이션의 AI·자율주행 프리미엄 근거가 강화될 수 있다.",
+      "title_en": "Teslarati: one analyst argues Tesla FSD <em>has reached Level 4</em>",
+      "hotShort_en": "Analyst: Tesla FSD <em>has hit Level 4</em>",
+      "body_en": "An analyst cited by Teslarati argues Tesla FSD has reached SAE Level 4 — the threshold where the system handles all driving situations within a defined zone without any human intervention or oversight. No official regulatory certification exists, but the first analyst-level Level 4 assertion signals a meaningful shift in how the market perceives FSD's technical maturity.",
+      "summary_en": "Teslarati reported on June 10 that one analyst has assessed Tesla's Full Self-Driving as having reached SAE Level 4 autonomy. The headline's question mark indicates this is a contested view, not a settled determination.\n\nSAE Level 4 means an autonomous driving system can handle all driving situations within a defined operational design domain (ODD) — with no need for human intervention or monitoring, and no requirement for a passenger to stand ready to take control. The analyst argues that Tesla's Austin robotaxi service effectively operates at this level.\n\nThis is one analyst's assessment, not a certification from NHTSA, SAE International, or a formal declaration by Tesla. A legitimate Level 4 designation requires verified technical testing for a specific ODD.\n\nNevertheless, the first analyst-level Level 4 assertion marks a meaningful shift in how the market perceives FSD's maturity. As expert recognition of Tesla's autonomous capability accumulates, the investment case for FSD monetization and robotaxi economics strengthens.",
+      "href": "https://www.teslarati.com/tesla-tsla-full-self-driving-hits-level-4-one-analyst-says-yes/",
+      "sentiment": "bull",
+      "hot": 6
     },
     {
       "category": "product",
