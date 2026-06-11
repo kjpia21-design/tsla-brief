@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "11h ago",
+      "pubDate": "2026-06-11T07:28:16.000Z",
+      "title": "테슬라 6월 10일 종가 <em>$381.59 (−4%)</em> — 최근 랠리 후 차익 실현",
+      "hotShort": "TSLA, 랠리 후 차익 실현 — 종가 <em>$381.59 (−4%)</em>",
+      "body": "테슬라가 최근 가파른 상승 랠리 이후 차익 실현 매물이 쏟아지며 6월 10일 미국 증시에서 약 4% 하락해 $381.59에 마감했다 — IBT Australia는 전기차 시장 경쟁 압박도 하락 요인으로 거론했으며, 이는 단기 기술적 조정에 해당한다.",
+      "sourceName": "International Business Times Australia",
+      "sourceLabel": "press",
+      "slug": "stock-tsla-closing-price-381-2026-06-11",
+      "summary": "테슬라(TSLA)는 최근 수 주간 FSD 유럽 연속 승인, 오스틴 로보택시 첫 상용 운행, JP모건·복수 기관 상향 조정이라는 강한 호재 흐름 속에서 상승 랠리를 이어왔다. IBT Australia에 따르면 6월 10일에는 그 랠리에서 쌓인 단기 차익 실현 매물이 집중적으로 출회되며 주가가 약 4% 하락, $381.59에 마감했다.\n\nIBT Australia는 차익 실현과 함께 전기차 시장의 지속적인 도전(EV market challenges)도 하락 원인으로 언급했다. BYD의 5개년 야심 계획 공표, 보조금 없는 시장에서의 경쟁 심화 등 구조적 압박이 투자 심리의 배경에 깔려 있다는 분석이다.\n\n단기 조정이지만 주주 관점에서 눈여겨볼 맥락도 있다. 6월 10일 같은 날 블룸버그의 오스틴 로보택시 단 59대 취재와 경쟁 악재가 동시에 쏟아진 것이 매도 압력을 가중시켰을 수 있다. 반면 FSD 유럽 국가 연속 승인, 미국 EV 판매 보조금 없는 최고치 달성 같은 중장기 모멘텀은 이 하락과 무관하게 유지되고 있다.\n\n7월 초 발표 예정인 Q2 인도 수치와 마진이 현재 밸류에이션을 뒷받침하는지 여부가 향후 주가 방향의 실질적 검증 포인트다.",
+      "title_en": "Tesla closes June 10 at <em>$381.59, down −4%</em> on profit-taking",
+      "hotShort_en": "TSLA closes <em>$381.59 (−4%)</em> on profit-taking",
+      "body_en": "Tesla closed at $381.59 on June 10, down nearly 4%, as profit-taking followed a strong recent rally — IBT Australia also cited ongoing EV market challenges as a contributing factor. The move represents a near-term technical pullback, not a change in Tesla's core FSD or robotaxi thesis.",
+      "summary_en": "Tesla (TSLA) had built a sustained rally over recent weeks on strong catalysts: consecutive FSD approvals across Europe, the launch of Austin's first commercial robotaxi service, and a wave of Wall Street upgrades including JPMorgan's dramatic reversal. By June 10, profit-taking pressure from that run came to a head, with the stock falling nearly 4% to close at $381.59, per IBT Australia.\n\nIBT Australia cited profit-taking alongside ongoing EV market challenges as drivers of the decline. The latter likely reflects structural competitive pressure — BYD's newly unveiled five-year expansion plan and intensifying competition in subsidy-free markets — that had been building in the background.\n\nThe session also saw Bloomberg publish its Austin robotaxi investigation (just 59 vehicles operating) alongside multiple other bearish headlines, which may have compounded selling pressure on what was already a technically stretched stock.\n\nLooking through the single-session pullback, Tesla's medium-term drivers remain intact: consecutive European FSD approvals, a post-subsidy US EV market running at record monthly sales, and the expanding Austin robotaxi footprint. The early-July Q2 delivery and margin figures will be the real test of whether the current valuation holds.",
+      "href": "https://www.ibtimes.com.au/tesla-shares-dip-profit-taking-ev-market-challenges-1870497",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
@@ -1846,21 +1866,7 @@
       "summary": "중국 전기차 업체 샤오펑(Xpeng·小鵬)이 테슬라 FSD를 넘어서겠다는 목표 아래 연간 5억 달러(약 6,900억 원)를 자율주행 AI 훈련에 투자하고 있다고 밝혔다. 일렉트렉(Electrek)이 CVPR 2026 현장 인터뷰를 통해 전한 내용이다.\n\n샤오펑이 공개한 핵심 기술 전략은 'VLA(Vision-Language-Action) 모델'이다. 기존 시각 인식 중심의 자율주행 AI와 달리, VLA는 언어 모델의 추론 능력을 결합해 복잡한 교통 상황에서 더 자연스럽게 판단하도록 차량을 훈련한다. 또한 '언어 포이즈닝(Language Poisoning)' 개념도 언급됐는데, 이는 경쟁 AI 시스템의 언어 기반 추론에 대한 방어적·공격적 전략으로, 자율주행 AI 경쟁의 새로운 차원을 보여준다.\n\n연간 $500M의 AI 훈련 투자는 중국 EV 업체 중 이례적으로 큰 규모다. 테슬라는 FSD 개발에 연간 수십억 달러를 투자 중이지만 AI 훈련 전용 예산을 별도 공개하지 않는다. 샤오펑의 공격적 투자는 자율주행이 단순 안전 기능을 넘어 EV 브랜드의 핵심 경쟁 자산이 됐음을 명확히 보여준다.\n\n테슬라 주주 입장에서 이 뉴스는 FSD의 기술 우위가 유지되는지 확인하는 정기적 점검 대상이다. 중국 업체들의 대규모 투자로 기술 격차가 좁혀진다면, 테슬라의 자율주행 프리미엄 밸류에이션에 장기적 압박이 올 수 있다.\n\n다음 트리거: 샤오펑 VLA 모델의 FSD 대비 성능 벤치마크 공개, 중국 자율주행 시장 점유율 변동, CVPR 2026 기술 발표 내용 분석, 테슬라 AI의 대응 전략 공개.",
       "href": "https://electrek.co/2026/06/05/xpeng-vla-interview-cvpr-language-poison-tesla-fsd/",
       "hot": 7
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "14h ago",
-      "pubDate": "2026-06-05T13:24:35.000Z",
-      "title": "JP모건, 약세 애널리스트 교체 후 테슬라에 <em>전향적 시각으로 전환</em>",
-      "body": "JP모건이 테슬라에 오랫동안 비관적 의견을 유지하던 담당 애널리스트를 교체한 후 투자 시각을 긍정적으로 전환했다. 블룸버그 보도로 알려졌다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "stock-jpmorgan-upbeat-analyst-change-2026-06-05",
-      "summary": "블룸버그는 JP모건이 테슬라에 대해 장기간 비관적인 입장을 고수하던 담당 애널리스트를 교체한 후 공식 투자 시각이 긍정적으로 전환됐다고 보도했다. 월가 주요 투자은행의 이 같은 스탠스 변화는 기관 투자자들의 테슬라 포지션 조정에 영향을 미칠 수 있어 주목된다.\n\nJP모건은 그동안 테슬라에 대해 월가에서 가장 낮은 목표주가를 유지하던 대표적인 약세론 기관 중 하나였다. 기존 담당 애널리스트의 지속적인 비관적 리포트는 테슬라 주가에 하방 압력을 가해왔다.\n\n애널리스트 교체 후 시각 전환은 테슬라의 AI·에너지 사업 성장 가능성, FSD 기술 진전, 그리고 로보택시 사업 전망에 대한 월가의 재평가를 반영하는 것으로 분석된다. 전기차 판매 둔화 우려보다 AI 플랫폼 기업으로서의 가치가 더 부각되기 시작했다는 해석이다.\n\n테슬라는 최근 복수의 투자은행에서 목표주가 상향 또는 투자의견 변경이 이어지고 있어, 기관 투자자들의 전반적인 센티먼트가 개선되는 추세를 보이고 있다.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-05/jpmorgan-turns-upbeat-on-tesla-after-replacing-bearish-analyst",
-      "hot": 8
     }
   ],
-  "asOf": "2026-06-11 14:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-11 18:11 KST 자동 갱신 · 최신순"
 }
