@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-11T19:46:26.000Z",
+      "title": "테슬라 공식 \"FSD Supervised, <em>인간 반응속도 초월</em>\"",
+      "hotShort": "테슬라 공식, FSD <em>인간 반응속도 초월</em> 선언",
+      "body": "테슬라 공식 X 계정이 'FSD Supervised는 인간의 반응속도를 초월한다'고 직접 선언했다 — 유럽 5개국 FSD 승인이 연속으로 이어지는 가운데 나온 공식 기술 역량 강조로, 자율주행 안전성 논거에서 반응속도를 핵심 지표로 내세웠다.",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "fsd-supervised-superhuman-reaction-time-2026-06-11",
+      "summary": "테슬라 공식 X 계정(@Tesla)이 6월 11일 'FSD Supervised는 인간을 초월하는 반응속도(superhuman reaction time)를 갖추고 있다'고 게재했다. 테슬라가 FSD 안전성의 핵심 근거로 반응속도를 공식 채널에서 직접 부각한 것이다.\n\n자율주행 시스템의 반응속도는 인간과 구조적으로 다르다. 인간은 위험을 인지하고 브레이크를 작동하기까지 통상 0.2초 이상이 소요되지만, 소프트웨어 기반 자율주행은 수십 밀리초(ms) 내에 처리할 수 있다. 이 차이는 충돌 회피와 사고 예방에서 본질적 우위로 작용한다.\n\n이 발표는 FSD가 유럽 5개국(네덜란드·리투아니아·에스토니아·덴마크·벨기에)에서 잇따라 규제 승인을 받은 직후 나왔다. 새 시장에서 FSD 기술의 안전성을 강조하는 맥락으로, 유럽 이용자와 규제 당국에 대한 신뢰 메시지이기도 하다.\n\n테슬라 주주 관점에서 FSD 기술 우위가 공식 채널을 통해 지속적으로 강조되는 것은 FSD 구독 확장과 로보택시 수익화 서사를 뒷받침한다. 인간 초월 반응속도는 자율주행 안전성 데이터의 가장 직관적인 지표로, 규제 승인과 대중 신뢰 확보에서 강력한 논거가 된다.",
+      "title_en": "Tesla official: FSD Supervised has <em>superhuman reaction time</em>",
+      "hotShort_en": "Tesla: FSD has <em>superhuman reaction time</em>",
+      "body_en": "Tesla's official X account declared that FSD Supervised has superhuman reaction time — an official assertion of autonomous-driving capability placing reaction speed center stage as FSD approvals roll across five European countries.",
+      "summary_en": "Tesla's official X account (@Tesla) posted on June 11 that FSD Supervised has superhuman reaction time — Tesla's most direct official statement placing reaction speed at the heart of its autonomous-driving safety case.\n\nThe gap between human and software reaction time is structural. Humans typically need more than 0.2 seconds from perceiving a hazard to applying the brakes; software-based autonomy can process the same response in tens of milliseconds. This translates directly into a material edge in collision avoidance and accident prevention.\n\nThe announcement follows FSD regulatory approvals in five European countries — the Netherlands, Lithuania, Estonia, Denmark and Belgium — in rapid succession. Emphasizing the reaction-time advantage at this moment reinforces the safety and reliability case for the new markets where FSD is just being introduced.\n\nFor Tesla shareholders, consistent official messaging on FSD's technical edge supports the narratives of FSD subscription expansion and robotaxi monetization. Superhuman reaction time is one of the most intuitive data points in the autonomy-safety argument, making it a powerful lever for both regulatory approval and public trust.",
+      "href": "https://x.com/Tesla/status/2065158738789745111",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-11T19:15:25.000Z",
+      "title": "TSLA, 6월 11일 종가 <em>+3.09% 반등</em> — 전일 차익 실현 되돌림",
+      "hotShort": "TSLA, 전일 하락 딛고 <em>+3.09% 반등</em>",
+      "body": "테슬라 주가가 6월 11일 3.09% 상승 마감해 전일(-4%, $381.59) 차익 실현 조정분을 대부분 되돌렸다고 트레이딩키가 전했다 — 하루 만에 회복세로 전환되며 $381대 단기 지지 구간이 확인됐다.",
+      "sourceName": "TradingKey",
+      "sourceLabel": "press",
+      "slug": "stock-tsla-rebound-3pct-june11-2026-06-11",
+      "summary": "트레이딩키(TradingKey)가 6월 11일 보도한 바에 따르면 테슬라(TSLA) 주가는 3.09% 상승해 마감했다. 전날(6월 10일) 최근 랠리 이후 차익 실현 매물로 약 4% 하락해 $381.59에 마감한 직후, 단 하루 만에 회복세로 전환된 것이다.\n\n6월 10일 하락의 배경은 FSD 유럽 연속 승인·오스틴 로보택시 출시·JP모건 등 복수 기관 상향 조정으로 축적된 랠리에서 쌓인 단기 차익 실현 매물이었다. 하루 만에 3% 이상 반등하며 $381 선을 지지로 빠르게 회복한 흐름은 해당 레벨에서 저가 매수세가 유입됐음을 시사한다.\n\n6월 11일 반등의 구체적 촉매는 트레이딩키 원문에서 확인할 수 있다. 주주 입장에서 전일 하락분을 하루 만에 대부분 회복한 점은 단기 기술적 지지를 확인해주는 긍정 신호다.",
+      "title_en": "TSLA <em>rebounds +3.09%</em> on June 11, recovering prior day's profit-taking drop",
+      "hotShort_en": "TSLA <em>bounces +3.09%</em> on June 11",
+      "body_en": "Tesla (TSLA) closed up 3.09% on June 11, recovering most of the prior session's ~4% drop to $381.59, per TradingKey — the one-day reversal confirms short-term support near the $381 level.",
+      "summary_en": "TradingKey reported on June 11 that Tesla shares closed up 3.09%, rebounding from the prior session's roughly 4% decline to $381.59.\n\nJune 10's pullback had been driven by concentrated profit-taking after a multi-week rally fueled by consecutive FSD European approvals, the Austin robotaxi commercial launch, and a wave of Wall Street upgrades led by JPMorgan. Recovering more than 3% in a single session — with $381 acting as a clear support level — suggests buyers stepped in on the weakness.\n\nThe specific catalysts behind the June 11 rebound are detailed in the TradingKey source article. For shareholders, recovering most of the prior day's decline in a single session is a technical positive, confirming that near-term downside support holds at current levels.",
+      "href": "https://www.tradingkey.com/news/market-movers/261962007-market-movers-tsla-20260611",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "25m ago",
@@ -41,26 +81,6 @@
       "hot": 5
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
-      "pubDate": "2026-06-11T07:28:16.000Z",
-      "title": "테슬라 6월 10일 종가 <em>$381.59 (−4%)</em> — 최근 랠리 후 차익 실현",
-      "hotShort": "TSLA, 랠리 후 차익 실현 — 종가 <em>$381.59 (−4%)</em>",
-      "body": "테슬라가 최근 가파른 상승 랠리 이후 차익 실현 매물이 쏟아지며 6월 10일 미국 증시에서 약 4% 하락해 $381.59에 마감했다 — IBT Australia는 전기차 시장 경쟁 압박도 하락 요인으로 거론했으며, 이는 단기 기술적 조정에 해당한다.",
-      "sourceName": "International Business Times Australia",
-      "sourceLabel": "press",
-      "slug": "stock-tsla-closing-price-381-2026-06-11",
-      "summary": "테슬라(TSLA)는 최근 수 주간 FSD 유럽 연속 승인, 오스틴 로보택시 첫 상용 운행, JP모건·복수 기관 상향 조정이라는 강한 호재 흐름 속에서 상승 랠리를 이어왔다. IBT Australia에 따르면 6월 10일에는 그 랠리에서 쌓인 단기 차익 실현 매물이 집중적으로 출회되며 주가가 약 4% 하락, $381.59에 마감했다.\n\nIBT Australia는 차익 실현과 함께 전기차 시장의 지속적인 도전(EV market challenges)도 하락 원인으로 언급했다. BYD의 5개년 야심 계획 공표, 보조금 없는 시장에서의 경쟁 심화 등 구조적 압박이 투자 심리의 배경에 깔려 있다는 분석이다.\n\n단기 조정이지만 주주 관점에서 눈여겨볼 맥락도 있다. 6월 10일 같은 날 블룸버그의 오스틴 로보택시 단 59대 취재와 경쟁 악재가 동시에 쏟아진 것이 매도 압력을 가중시켰을 수 있다. 반면 FSD 유럽 국가 연속 승인, 미국 EV 판매 보조금 없는 최고치 달성 같은 중장기 모멘텀은 이 하락과 무관하게 유지되고 있다.\n\n7월 초 발표 예정인 Q2 인도 수치와 마진이 현재 밸류에이션을 뒷받침하는지 여부가 향후 주가 방향의 실질적 검증 포인트다.",
-      "title_en": "Tesla closes June 10 at <em>$381.59, down −4%</em> on profit-taking",
-      "hotShort_en": "TSLA closes <em>$381.59 (−4%)</em> on profit-taking",
-      "body_en": "Tesla closed at $381.59 on June 10, down nearly 4%, as profit-taking followed a strong recent rally — IBT Australia also cited ongoing EV market challenges as a contributing factor. The move represents a near-term technical pullback, not a change in Tesla's core FSD or robotaxi thesis.",
-      "summary_en": "Tesla (TSLA) had built a sustained rally over recent weeks on strong catalysts: consecutive FSD approvals across Europe, the launch of Austin's first commercial robotaxi service, and a wave of Wall Street upgrades including JPMorgan's dramatic reversal. By June 10, profit-taking pressure from that run came to a head, with the stock falling nearly 4% to close at $381.59, per IBT Australia.\n\nIBT Australia cited profit-taking alongside ongoing EV market challenges as drivers of the decline. The latter likely reflects structural competitive pressure — BYD's newly unveiled five-year expansion plan and intensifying competition in subsidy-free markets — that had been building in the background.\n\nThe session also saw Bloomberg publish its Austin robotaxi investigation (just 59 vehicles operating) alongside multiple other bearish headlines, which may have compounded selling pressure on what was already a technically stretched stock.\n\nLooking through the single-session pullback, Tesla's medium-term drivers remain intact: consecutive European FSD approvals, a post-subsidy US EV market running at record monthly sales, and the expanding Austin robotaxi footprint. The early-July Q2 delivery and margin figures will be the real test of whether the current valuation holds.",
-      "href": "https://www.ibtimes.com.au/tesla-shares-dip-profit-taking-ev-market-challenges-1870497",
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "20h ago",
@@ -79,27 +99,7 @@
       "href": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
-      "pubDate": "2026-06-10T21:48:35.000Z",
-      "title": "테슬라라티: 한 애널리스트, FSD가 \"<em>레벨 4에 도달했다</em>\"고 첫 주장",
-      "hotShort": "애널리스트 \"FSD, <em>레벨 4 도달</em>\" 첫 주장",
-      "body": "테슬라라티가 인용한 한 애널리스트가 테슬라 FSD가 SAE 레벨 4 자율주행 기준에 도달했다고 평가했다 — 레벨 4는 지정 구역 내에서 사람 개입 없이 모든 주행 상황을 자율 처리하는 단계다. 공식 기관 인증은 없지만, 전문 분석가의 첫 레벨 4 판정 주장은 FSD 기술 성숙도에 대한 시장 인식이 변하고 있다는 신호다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-level4-analyst-claim-2026-06-10",
-      "summary": "테슬라라티(Teslarati)가 6월 10일, 테슬라 FSD(Full Self-Driving)가 SAE 자율주행 분류 기준에서 레벨 4(Level 4)에 도달했다고 평가하는 한 애널리스트의 견해를 보도했다. 기사 제목에 물음표가 포함된 것은 이 평가가 현재 논쟁 중임을 나타낸다.\n\nSAE 레벨 4는 자율주행 시스템이 지정된 운행설계영역(ODD·Operational Design Domain) 내에서 인간의 개입이나 감독 없이 모든 주행 상황을 처리할 수 있는 단계를 말한다 — 탑승자가 언제든 제어를 넘겨받을 준비를 할 필요가 없다. 해당 애널리스트는 테슬라의 오스틴 로보택시 서비스가 사실상 이 수준에서 운영되고 있다고 보고 있다.\n\n이 평가는 NHTSA·SAE 인터내셔널 등 공식 기관의 인증이나 테슬라의 공식 선언이 아닌, 한 애널리스트의 견해다. 실제 레벨 4 분류는 특정 ODD에 대한 기술 검증이 수반돼야 한다.\n\n그럼에도 전문 분석가가 처음으로 레벨 4 도달을 주장한 것은 FSD 기술 성숙도 인식에서 의미 있는 변화를 시사한다. 로보택시 수익화의 전제인 자율주행 능력 인정이 쌓일수록, 테슬라 밸류에이션의 AI·자율주행 프리미엄 근거가 강화될 수 있다.",
-      "title_en": "Teslarati: one analyst argues Tesla FSD <em>has reached Level 4</em>",
-      "hotShort_en": "Analyst: Tesla FSD <em>has hit Level 4</em>",
-      "body_en": "An analyst cited by Teslarati argues Tesla FSD has reached SAE Level 4 — the threshold where the system handles all driving situations within a defined zone without any human intervention or oversight. No official regulatory certification exists, but the first analyst-level Level 4 assertion signals a meaningful shift in how the market perceives FSD's technical maturity.",
-      "summary_en": "Teslarati reported on June 10 that one analyst has assessed Tesla's Full Self-Driving as having reached SAE Level 4 autonomy. The headline's question mark indicates this is a contested view, not a settled determination.\n\nSAE Level 4 means an autonomous driving system can handle all driving situations within a defined operational design domain (ODD) — with no need for human intervention or monitoring, and no requirement for a passenger to stand ready to take control. The analyst argues that Tesla's Austin robotaxi service effectively operates at this level.\n\nThis is one analyst's assessment, not a certification from NHTSA, SAE International, or a formal declaration by Tesla. A legitimate Level 4 designation requires verified technical testing for a specific ODD.\n\nNevertheless, the first analyst-level Level 4 assertion marks a meaningful shift in how the market perceives FSD's maturity. As expert recognition of Tesla's autonomous capability accumulates, the investment case for FSD monetization and robotaxi economics strengthens.",
-      "href": "https://www.teslarati.com/tesla-tsla-full-self-driving-hits-level-4-one-analyst-says-yes/",
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-06-11 23:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-12 07:10 KST 자동 갱신 · 최신순"
 }
