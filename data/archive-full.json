@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-11 07:05 UTC · 누적 274건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-11 09:00 UTC · 누적 275건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "fsd",
@@ -20,6 +20,26 @@
       "href": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-asks-elon-musk-013046976.html",
       "sentiment": "neutral",
       "hot": 6
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "7h ago",
+      "pubDate": "2026-06-10T22:25:39.000Z",
+      "title": "시킹알파 에디토리얼 \"<em>테슬라, X가 되다</em>\" — 기업 정체성 새 질문",
+      "hotShort": "시킹알파: \"<em>테슬라, X가 되다</em>\" 에디토리얼",
+      "body": "시킹알파가 '테슬라, X가 되다(On Tesla Becoming X)'라는 제목의 에디토리얼을 발행했다. 일론 머스크가 테슬라·X·xAI 등 복수 벤처를 동시에 이끄는 상황에서, 테슬라의 독자적 기업 정체성과 X 생태계 사이의 경계를 묻는 투자자 관점의 분석이다.",
+      "sourceName": "Seeking Alpha",
+      "sourceLabel": "press",
+      "slug": "stock-seeking-alpha-tesla-becoming-x-2026-06-10",
+      "summary": "시킹알파(Seeking Alpha)가 6월 10일 '테슬라, X가 되다(On Tesla Becoming X)'라는 에디토리얼을 공개했다. 제목 그대로, 일론 머스크의 X 플랫폼 운영 속에서 테슬라의 브랜드·전략 정체성이 X와 어떻게 교차하는지를 다룬다.\n\n테슬라 주주에게 이 질문이 중요한 이유는 명확하다. 머스크는 테슬라·SpaceX·xAI·X·DOGE를 동시에 이끌며 집중도 분산 우려를 받아왔고, 특히 X 인수 이후 테슬라의 뉴스·마케팅·IR 채널이 X와 긴밀히 얽히는 흐름이 강해졌다. 투자자들은 두 회사의 전략적 경계와, 테슬라의 핵심 자원이 FSD·로보택시·옵티머스에 온전히 집중되는지 여부를 주목하고 있다.\n\n본 에디토리얼의 구체적 논거는 시킹알파 원문에서 확인할 수 있다.",
+      "title_en": "Seeking Alpha editorial: \"<em>On Tesla Becoming X</em>\" — a new identity question",
+      "hotShort_en": "Seeking Alpha: <em>Is Tesla becoming X?</em>",
+      "body_en": "Seeking Alpha published an editorial titled \"On Tesla Becoming X,\" asking whether Tesla's corporate identity is converging with Elon Musk's X platform. As Musk leads Tesla, X, xAI and other ventures simultaneously, investors are increasingly focused on where Tesla's strategic priorities end and the broader Musk ecosystem begins.",
+      "summary_en": "Seeking Alpha published an editorial on June 10 titled \"On Tesla Becoming X,\" examining TSLA's evolving corporate direction as Elon Musk simultaneously leads Tesla, X, xAI, SpaceX and other ventures.\n\nThe concern is tangible for investors: since Musk's X acquisition, Tesla's news, marketing and IR have become tightly intertwined with the X platform. Shareholders are focused on whether Tesla's core long-term drivers — FSD, robotaxi, Optimus — receive the focused executive attention and resource allocation they require.\n\nThe specific arguments and conclusions of the editorial are available in the original Seeking Alpha piece.",
+      "href": "https://seekingalpha.com/article/4913974-on-tesla-becoming-x",
+      "sentiment": "neutral",
+      "hot": 4
     },
     {
       "category": "product",
