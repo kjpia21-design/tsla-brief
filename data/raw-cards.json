@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-11 20:28 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-11 20:50 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10m ago",
+      "pubDate": "2026-06-11T20:40:27.000Z",
+      "title": "What Tesla's IPO tells us about SpaceX's listing",
+      "body": "What Tesla's IPO tells us about SpaceX's listing CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/video/2026/06/11/what-teslas-ipo-tells-us-about-spacexs-listing.html"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "42m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-11T19:46:26.000Z",
       "title": "FSD Supervised has superhuman reaction time",
       "body": "FSD Supervised has superhuman reaction time https://t.co/vt6dAgVqpu",
@@ -17,7 +30,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-11T19:15:25.000Z",
       "title": "Tesla Inc Stock (TSLA) Moved Up by 3.09% on Jun 11: Facts Behind the Movement",
       "body": "Tesla Inc Stock (TSLA) Moved Up by 3.09% on Jun 11: Facts Behind the Movement TradingKey",
@@ -30,7 +43,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-11T19:03:02.000Z",
       "title": "New Eagle Travel Center Supercharger: West, TX (4 stalls)  Learn more about Supercharger for Business:",
       "body": "New Eagle Travel Center Supercharger: West, TX (4 stalls) https://t.co/KrmZtU89IB Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/WUVQLDAGls",
@@ -39,19 +52,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2065147813571486061"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-11T17:36:24.000Z",
-      "title": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio",
-      "body": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio Insider Monkey",
-      "sourceName": "Insider Monkey",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.insidermonkey.com/blog/tesla-inc-tsla-is-a-top-stock-in-ken-griffins-portfolio-1779877/"
     },
     {
       "category": "fsd",
@@ -95,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-11T17:17:31.000Z",
       "title": "Great interview about how @CommunityNotes works! Super helpful for truth-seeking.",
       "body": "Great interview about how @CommunityNotes works! Super helpful for truth-seeking. https://t.co/T3pTykAR9d",
@@ -145,9 +145,22 @@
       "href": "https://x.com/yunta_tsai/status/2065100112016413149"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-06-11T15:42:46.000Z",
+      "title": "Wall Street Analyst Claims Tesla Has Achieved “Level 4” Self-Driving",
+      "body": "Wall Street Analyst Claims Tesla Has Achieved “Level 4” Self-Driving CleanTechnica",
+      "sourceName": "CleanTechnica",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://cleantechnica.com/2026/06/11/wall-street-analyst-claims-tesla-has-achieved-level-4-self-driving/?amp"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-11T15:15:44.000Z",
       "title": "How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O.",
       "body": "How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O. The New York Times",
@@ -173,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-11T14:00:00.000Z",
       "title": "Musk Confidant Antonio Gracias Set for $68 Billion SpaceX Win",
       "body": "Musk Confidant Antonio Gracias Set for $68 Billion SpaceX Win WSJ",
@@ -186,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-11T13:17:37.000Z",
       "title": "What did Andrej see such that he would shift himself from inspiring the ML community with selfless sharing to a compa…",
       "body": "What did Andrej see such that he would shift himself from inspiring the ML community with selfless sharing to a company that wants total control of humanity advancement?",
@@ -197,22 +210,9 @@
       "href": "https://x.com/yunta_tsai/status/2065060887862661120"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
-      "pubDate": "2026-06-11T12:49:32.000Z",
-      "title": "Iran threatens Elon Musk's companies in Middle East: Iranian state media",
-      "body": "Iran threatens Elon Musk's companies in Middle East: Iranian state media CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-11T06:18:52.000Z",
       "title": "New Tesla Supercharger: Tyndrum, UK (4 stalls)",
       "body": "New Tesla Supercharger: Tyndrum, UK (4 stalls) https://t.co/3p4uvfJqh3 https://t.co/68h84GyY0T",
