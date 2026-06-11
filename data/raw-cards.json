@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-11 10:48 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-11 11:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
@@ -13,19 +13,6 @@
       "slug": "",
       "summary": "",
       "href": "https://fathomjournal.org/95eb25fb/91a1042c7VKlyKYzrVc"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-11T09:05:00.000Z",
-      "title": "Prediction: Here's When SpaceX Will Merge With Tesla",
-      "body": "Prediction: Here's When SpaceX Will Merge With Tesla Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-spacex-merge-tesla-090500958.html"
     },
     {
       "category": "musk",
@@ -57,14 +44,14 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "4h ago",
-      "pubDate": "2026-06-11T07:07:01.000Z",
-      "title": "The Number That Complicates The Tesla Stock Story",
-      "body": "The Number That Complicates The Tesla Stock Story Trefis",
-      "sourceName": "Trefis",
+      "pubDate": "2026-06-11T07:28:16.000Z",
+      "title": "Tesla Shares Fall Nearly 4% to $381.59 as Investors Take Profits After Recent Rally",
+      "body": "Tesla Shares Fall Nearly 4% to $381.59 as Investors Take Profits After Recent Rally International Business Times Australia",
+      "sourceName": "International Business Times Australia",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.trefis.com/data/companies/TSLA/no-login-required/hIMLKHgq/The-Number-That-Complicates-The-Tesla-Stock-Story"
+      "href": "https://www.ibtimes.com.au/tesla-shares-dip-profit-taking-ev-market-challenges-1870497"
     },
     {
       "category": "product",
@@ -78,6 +65,19 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2064955507111256313"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
+      "pubDate": "2026-06-11T05:52:26.000Z",
+      "title": "Great interview with @teardowntitan during the Takeover Europe event last week. Check out this clip and make sure you…",
+      "body": "Great interview with @teardowntitan during the Takeover Europe event last week. Check out this clip and make sure you watch the full interview too. Sandy is an icon within the @Trsla community and hearing right from him …",
+      "sourceName": "Joe Tegtmeyer (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/JoeTegtmeyer/status/2064948854252798025"
     },
     {
       "category": "musk",
@@ -134,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-11T01:30:00.000Z",
       "title": "Cathie Wood Asks Elon Musk How Tesla Handles 'Parking And Traffic Violations' After The Robotaxi She Rode Gets $75 Ticket",
       "body": "Cathie Wood Asks Elon Musk How Tesla Handles 'Parking And Traffic Violations' After The Robotaxi She Rode Gets $75 Ticket Yahoo Finance",
@@ -171,6 +171,32 @@
       "href": "https://www.teslarati.com/tesla-stuns-another-fsd-approval-in-europe-belgium/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "13h ago",
+      "pubDate": "2026-06-10T22:08:10.000Z",
+      "title": "EV sales just hit their best month since federal tax credits ended",
+      "body": "New EV prices continued to slide in May, even as sales climbed to their strongest level since the Trump administration killed federal EV tax credits last fall.",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "13h ago",
+      "pubDate": "2026-06-10T21:48:35.000Z",
+      "title": "Tesla Full Self-Driving hits Level 4? One analyst says yes",
+      "body": "Tesla Full Self-Driving hits Level 4? One analyst says yes Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-tsla-full-self-driving-hits-level-4-one-analyst-says-yes/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "13h ago",
@@ -182,19 +208,6 @@
       "slug": "",
       "summary": "",
       "href": "https://finance.yahoo.com/markets/stocks/articles/heres-why-tesla-tsla-fell-214504187.html"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
-      "pubDate": "2026-06-10T21:10:26.000Z",
-      "title": "Tesla Full Self-Driving hits Level 4? One analyst says yes",
-      "body": "Tesla Full Self-Driving hits Level 4? One analyst says yes Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-tsla-full-self-driving-hits-level-4-one-analyst-says-yes/"
     },
     {
       "category": "product",
@@ -221,19 +234,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/DivesTech/status/2064758694621896894"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
-      "pubDate": "2026-06-10T16:54:48.000Z",
-      "title": "New Tesla Supercharger: Los Ríos, Spain (8 stalls)",
-      "body": "New Tesla Supercharger: Los Ríos, Spain (8 stalls) https://t.co/gFjI9iaI2p https://t.co/QaTcwPtgNZ",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2064753155074847167"
     },
     {
       "category": "stock",
