@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-11 18:50 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-11 20:28 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "42m ago",
+      "pubDate": "2026-06-11T19:46:26.000Z",
+      "title": "FSD Supervised has superhuman reaction time",
+      "body": "FSD Supervised has superhuman reaction time https://t.co/vt6dAgVqpu",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/Tesla/status/2065158738789745111"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
+      "pubDate": "2026-06-11T19:15:25.000Z",
+      "title": "Tesla Inc Stock (TSLA) Moved Up by 3.09% on Jun 11: Facts Behind the Movement",
+      "body": "Tesla Inc Stock (TSLA) Moved Up by 3.09% on Jun 11: Facts Behind the Movement TradingKey",
+      "sourceName": "TradingKey",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tradingkey.com/news/market-movers/261962007-market-movers-tsla-20260611"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-06-11T19:03:02.000Z",
+      "title": "New Eagle Travel Center Supercharger: West, TX (4 stalls)  Learn more about Supercharger for Business:",
+      "body": "New Eagle Travel Center Supercharger: West, TX (4 stalls) https://t.co/KrmZtU89IB Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/WUVQLDAGls",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2065147813571486061"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
       "pubDate": "2026-06-11T17:36:24.000Z",
       "title": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio",
       "body": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio Insider Monkey",
@@ -17,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-11T17:35:54.000Z",
       "title": "Belgium is the 5th European country to approve FSD Supervised",
       "body": "Belgium is the 5th European country to approve FSD Supervised https://t.co/KTZy4phU0v",
@@ -30,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-11T17:34:47.000Z",
       "title": "- Netherlands - Lithuania - Estonia - Denmark - Belgium",
       "body": "- Netherlands - Lithuania - Estonia - Denmark - Belgium https://t.co/aepKw5oNuM https://t.co/juc5FBmD8A",
@@ -43,7 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-11T17:31:30.000Z",
       "title": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio",
       "body": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio Yahoo Finance",
@@ -56,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-11T17:17:31.000Z",
       "title": "Great interview about how @CommunityNotes works! Super helpful for truth-seeking.",
       "body": "Great interview about how @CommunityNotes works! Super helpful for truth-seeking. https://t.co/T3pTykAR9d",
@@ -67,22 +106,9 @@
       "href": "https://x.com/elonmusk/status/2065121260464439497"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-11T17:11:41.000Z",
-      "title": "Tesla promotes FSD misuse in its own videos — undermining its legal defense",
-      "body": "Tesla is facing up to $14.5 billion in lawsuits related to its “Full Self-Driving” and Autopilot systems — and the company’s own marketing department keeps making the problem worse. In two official promotional videos pub…",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/06/11/tesla-promotes-fsd-misuse-official-videos-lawsuits/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-11T16:42:12.000Z",
       "title": "Grok is maximally truthful",
       "body": "Grok is maximally truthful https://t.co/He3YElo9Tg",
@@ -95,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-11T16:33:35.000Z",
       "title": "The Number That Complicates The Tesla Stock Story",
       "body": "The Number That Complicates The Tesla Stock Story Trefis",
@@ -108,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-11T15:53:29.000Z",
       "title": "Hopefully, FSD gives you time to appreciate the beautiful European cities between home and work.",
       "body": "Hopefully, FSD gives you time to appreciate the beautiful European cities between home and work. https://t.co/046D3K7VQ7",
@@ -121,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-11T15:15:44.000Z",
       "title": "How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O.",
       "body": "How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O. The New York Times",
@@ -134,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-11T14:46:16.000Z",
       "title": "New Tesla Supercharger: Brașov, Romania (12 stalls) Voting Winner Site 🏆  Learn more about Supercharger Voting:",
       "body": "New Tesla Supercharger: Brașov, Romania (12 stalls) Voting Winner Site 🏆 https://t.co/S8BqNlAi96 Learn more about Supercharger Voting: https://t.co/CpFcz8MJcF https://t.co/Q38bRa9X1B",
@@ -145,9 +171,22 @@
       "href": "https://x.com/TeslaCharging/status/2065083198992941147"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-06-11T14:00:00.000Z",
+      "title": "Musk Confidant Antonio Gracias Set for $68 Billion SpaceX Win",
+      "body": "Musk Confidant Antonio Gracias Set for $68 Billion SpaceX Win WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/business/musk-confidant-antonio-gracias-set-for-68-billion-spacex-win-83ad878a"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-11T13:17:37.000Z",
       "title": "What did Andrej see such that he would shift himself from inspiring the ML community with selfless sharing to a compa…",
       "body": "What did Andrej see such that he would shift himself from inspiring the ML community with selfless sharing to a company that wants total control of humanity advancement?",
@@ -160,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-11T12:49:32.000Z",
       "title": "Iran threatens Elon Musk's companies in Middle East: Iranian state media",
       "body": "Iran threatens Elon Musk's companies in Middle East: Iranian state media CNBC",
@@ -171,22 +210,9 @@
       "href": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-06-11T09:07:32.000Z",
-      "title": "Musk to speak at chip tool giant ASML event ahead of SpaceX IPO",
-      "body": "Musk to speak at chip tool giant ASML event ahead of SpaceX IPO Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/media-telecom/musk-speak-chip-tool-giant-asml-event-ahead-spacex-ipo-2026-06-11/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-11T06:18:52.000Z",
       "title": "New Tesla Supercharger: Tyndrum, UK (4 stalls)",
       "body": "New Tesla Supercharger: Tyndrum, UK (4 stalls) https://t.co/3p4uvfJqh3 https://t.co/68h84GyY0T",
@@ -199,21 +225,8 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
-      "pubDate": "2026-06-11T04:32:37.000Z",
-      "title": "Tesla unfolded its first European “folding Supercharger”",
-      "body": "Tesla's folding Supercharger just arrived in Europe and it changes how fast charging expands. The post Tesla unfolded its first European “folding Supercharger” appeared first on TESLARATI.",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-folding-supercharger-europe/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-06-11T02:12:37.000Z",
+      "time": "16h ago",
+      "pubDate": "2026-06-11T04:53:29.000Z",
       "title": "Tesla Cybertruck is finally getting Summon",
       "body": "Tesla Cybertruck is finally getting Summon Teslarati",
       "sourceName": "Teslarati",
@@ -225,20 +238,20 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "21h ago",
-      "pubDate": "2026-06-10T22:08:10.000Z",
-      "title": "EV sales just hit their best month since federal tax credits ended",
-      "body": "New EV prices continued to slide in May, even as sales climbed to their strongest level since the Trump administration killed federal EV tax credits last fall.",
-      "sourceName": "electrek.co",
+      "time": "16h ago",
+      "pubDate": "2026-06-11T04:32:37.000Z",
+      "title": "Tesla unfolded its first European “folding Supercharger”",
+      "body": "Tesla's folding Supercharger just arrived in Europe and it changes how fast charging expands. The post Tesla unfolded its first European “folding Supercharger” appeared first on TESLARATI.",
+      "sourceName": "www.teslarati.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/"
+      "href": "https://www.teslarati.com/tesla-folding-supercharger-europe/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "21h ago",
+      "time": "23h ago",
       "pubDate": "2026-06-10T21:45:04.000Z",
       "title": "Here's Why Tesla (TSLA) Fell More Than Broader Market",
       "body": "Here's Why Tesla (TSLA) Fell More Than Broader Market Yahoo Finance",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://finance.yahoo.com/markets/stocks/articles/heres-why-tesla-tsla-fell-214504187.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-06-10T20:21:00.000Z",
-      "title": "3 Reasons Tesla Stock Is So Volatile This Week",
-      "body": "3 Reasons Tesla Stock Is So Volatile This Week Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-today-c8a41c9d"
     }
   ]
 }
