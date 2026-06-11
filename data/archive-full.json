@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-11 05:10 UTC · 누적 273건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-11 07:05 UTC · 누적 274건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-06-11T01:30:00.000Z",
+      "title": "캐시 우드, 탄 로보택시가 <em>주차 위반 $75 티켓</em> — 일론에 대응 방침 물어",
+      "hotShort": "캐시 우드 탄 로보택시, <em>$75 주차 위반</em> 티켓",
+      "body": "ARK인베스트 CEO 캐시 우드가 오스틴에서 테슬라 로보택시를 탑승한 뒤 차량이 $75 주차 위반 티켓을 받자, X에서 일론 머스크에게 테슬라가 주차·교통 위반에 어떻게 대응할지 공개적으로 물었다 — 테슬라의 가장 열렬한 기관 지지자조차 로보택시 운영 공백을 직접 짚어낸 사례다.",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "fsd-cathie-wood-robotaxi-parking-ticket-2026-06-11",
+      "summary": "캐시 우드는 ARK인베스트 CEO로, ARKK 펀드를 통해 테슬라 주식을 대규모 보유한 대표적 테슬라 강세론자다. 그런 그녀가 6월 초 오스틴에서 테슬라 로보택시를 직접 탑승했고, 그 차량이 $75 주차 위반 티켓을 받는 상황을 경험했다. 이후 우드는 X에서 일론 머스크에게 테슬라가 로보택시 운영 중 발생하는 주차·교통 위반에 어떻게 대응할지 공개적으로 질문했다.\n\n이 사례는 자율주행 차량이 무인 운영될 때 법적·운영적 책임 소재가 불명확하다는 문제를 상징적으로 드러낸다. 주차 위반 티켓이 발부될 경우 이를 처리하는 주체가 테슬라인지, 탑승자인지, 아니면 자동화된 시스템인지에 대한 명확한 정책이 대규모 상업 서비스 이전에 마련돼야 한다.\n\n캐시 우드 같은 강한 지지자가 공개적으로 운영 공백을 제기했다는 점은 단순한 기술 비관론과 다르다. 로보택시 서비스의 현실적 확장 가능성을 높이기 위해 테슬라가 규제·법적 프레임워크를 구체화해야 할 시점이라는 신호로 읽힌다.\n\n일론 머스크가 우드의 공개 질문에 어떤 응답을 했는지는 이번 보도에 명시되지 않았다. 교통 위반 처리 체계 확립은 테슬라가 로보택시 서비스를 오스틴 이외 도시로 확장하기 전에 풀어야 할 실무 과제 중 하나다.",
+      "title_en": "Cathie Wood's robotaxi ride ends with a <em>$75 parking ticket</em> — she asks Elon how Tesla will handle violations",
+      "hotShort_en": "Cathie Wood's robotaxi gets a <em>$75 parking ticket</em>",
+      "body_en": "ARK Invest CEO Cathie Wood rode a Tesla robotaxi in Austin, only to have the vehicle receive a $75 parking ticket — prompting her to publicly ask Elon Musk on X how Tesla plans to handle parking and traffic violations. Even one of Tesla's most prominent bulls is flagging an operational gap in the robotaxi rollout.",
+      "summary_en": "Cathie Wood, ARK Invest CEO and one of Tesla's most visible institutional bulls, rode a Tesla robotaxi in Austin and found herself in an awkward situation: the vehicle received a $75 parking ticket. She followed up by publicly asking Elon Musk on X how Tesla intends to handle parking and traffic violations arising from its driverless service.\n\nThe incident points to a practical legal question that any fully autonomous ride-hailing service must answer at scale: when a vehicle with no human driver incurs a parking or traffic citation, who is responsible for resolving it — Tesla, the passenger, or an automated compliance system? No clear answer has been publicly disclosed.\n\nThat a high-profile Tesla supporter chose to raise this concern publicly — rather than quietly — signals that real-world operational friction in the robotaxi service is generating questions even among the company's strongest institutional backers.\n\nWhether Musk responded to Wood's question was not reported. Establishing a clear liability and compliance framework for traffic violations is one of the operational prerequisites Tesla will need to address as it moves toward a larger, broader robotaxi deployment.",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-asks-elon-musk-013046976.html",
+      "sentiment": "neutral",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
