@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-12 00:50 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-12 02:45 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "27m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-12T00:23:48.000Z",
       "title": "New Tesla Supercharger: Paju, South Korea - Jayu-ro (8 stalls)",
       "body": "New Tesla Supercharger: Paju, South Korea - Jayu-ro (8 stalls) https://t.co/13iyIz3uDE https://t.co/QDqIkPpJ0a",
@@ -15,9 +15,22 @@
       "href": "https://x.com/TeslaCharging/status/2065228540535263663"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-12T00:17:44.000Z",
+      "title": "The market is laser focused on the SpaceX IPO @BloombergTV 👇🍿",
+      "body": "The market is laser focused on the SpaceX IPO @BloombergTV 👇🍿 https://t.co/zv5oDTqoKa",
+      "sourceName": "Dan Ives (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/DivesTech/status/2065227014332620911"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "48m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-12T00:02:58.000Z",
       "title": "My takeaway from this eval is whether you want an AI companion to maximize your survival or its own survival. I would…",
       "body": "My takeaway from this eval is whether you want an AI companion to maximize your survival or its own survival. I would take the former at any given time. https://t.co/5tRfZvHYfy",
@@ -28,9 +41,22 @@
       "href": "https://x.com/yunta_tsai/status/2065223298200617247"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-11T23:54:07.000Z",
+      "title": "Robinhood Debuts Crypto Test Network With Tesla, Amazon, Palantir ‘Stock Tokens’",
+      "body": "Robinhood Debuts Crypto Test Network With Tesla, Amazon, Palantir ‘Stock Tokens’ Stocktwits",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://stocktwits.com/news-articles/markets/cryptocurrency/robinhood-debuts-crypto-test-network-with-tesla-amazon-palantir-stock-tokens/cZb63VAR4q3"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-11T22:48:00.000Z",
       "title": "Cybertruck Summon now rolling out with FSD Supervised v14.3.4",
       "body": "Cybertruck Summon now rolling out with FSD Supervised v14.3.4 https://t.co/qBgrRPDyZj",
@@ -43,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-11T22:39:20.000Z",
       "title": "Tesla FSD 14.3.4 rolling out now",
       "body": "Tesla FSD 14.3.4 rolling out now https://t.co/Lbtx2Yeo6i",
@@ -54,22 +80,9 @@
       "href": "https://x.com/elonmusk/status/2065202249282768915"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-11T22:35:15.000Z",
-      "title": "BREAKING: Cybertruck ASS rolling out for Actual Smart summon FSD 14.3.4",
-      "body": "BREAKING: Cybertruck ASS rolling out for Actual Smart summon FSD 14.3.4 https://t.co/baHaJJwuvU",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2065201220495753671"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-11T22:33:46.000Z",
       "title": "Peter’s eternal optimism is cool",
       "body": "Peter’s eternal optimism is cool https://t.co/awmmRyxj5n",
@@ -82,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-11T22:24:26.000Z",
       "title": "New Tesla Supercharger: Torrance, CA - Rolling Hills Road (16 stalls)",
       "body": "New Tesla Supercharger: Torrance, CA - Rolling Hills Road (16 stalls) https://t.co/r3KrTNtvp5 https://t.co/iC6d19QQRc",
@@ -95,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-11T22:22:11.000Z",
       "title": "SpaceX IPO makes Elon Musk the world's first trillionaire",
       "body": "SpaceX IPO makes Elon Musk the world's first trillionaire Reuters",
@@ -108,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-11T22:01:00.000Z",
       "title": "What Elon Musk Bought and Sold During His Quest to ‘Own No House’",
       "body": "What Elon Musk Bought and Sold During His Quest to ‘Own No House’ WSJ",
@@ -121,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-11T21:09:32.000Z",
       "title": "Scuba with Cybertruck in Austria",
       "body": "Scuba with Cybertruck in Austria https://t.co/uEOdC6B01W",
@@ -134,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-11T20:40:27.000Z",
       "title": "What Tesla's IPO tells us about SpaceX's listing",
       "body": "What Tesla's IPO tells us about SpaceX's listing CNBC",
@@ -145,22 +158,9 @@
       "href": "https://www.cnbc.com/video/2026/06/11/what-teslas-ipo-tells-us-about-spacexs-listing.html"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-11T20:33:00.000Z",
-      "title": "Tesla Stock Needs the SpaceX IPO to Happen Already",
-      "body": "Tesla Stock Needs the SpaceX IPO to Happen Already Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-spacex-ipo-selling-949d5661"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-11T19:46:26.000Z",
       "title": "FSD Supervised has superhuman reaction time",
       "body": "FSD Supervised has superhuman reaction time https://t.co/vt6dAgVqpu",
@@ -173,7 +173,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-11T19:15:25.000Z",
       "title": "Tesla Inc Stock (TSLA) Moved Up by 3.09% on Jun 11: Facts Behind the Movement",
       "body": "Tesla Inc Stock (TSLA) Moved Up by 3.09% on Jun 11: Facts Behind the Movement TradingKey",
@@ -186,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-11T19:03:02.000Z",
       "title": "New Eagle Travel Center Supercharger: West, TX (4 stalls)  Learn more about Supercharger for Business:",
       "body": "New Eagle Travel Center Supercharger: West, TX (4 stalls) https://t.co/KrmZtU89IB Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/WUVQLDAGls",
@@ -197,9 +197,22 @@
       "href": "https://x.com/TeslaCharging/status/2065147813571486061"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "9h ago",
+      "pubDate": "2026-06-11T17:35:54.000Z",
+      "title": "Belgium is the 5th European country to approve FSD Supervised",
+      "body": "Belgium is the 5th European country to approve FSD Supervised https://t.co/KTZy4phU0v",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/Tesla/status/2065125889239904445"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-11T17:31:30.000Z",
       "title": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio",
       "body": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio Yahoo Finance",
@@ -212,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-11T16:33:35.000Z",
       "title": "The Number That Complicates The Tesla Stock Story",
       "body": "The Number That Complicates The Tesla Stock Story Trefis",
@@ -225,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-11T15:42:46.000Z",
       "title": "Wall Street Analyst Claims Tesla Has Achieved “Level 4” Self-Driving",
       "body": "Wall Street Analyst Claims Tesla Has Achieved “Level 4” Self-Driving CleanTechnica",
@@ -238,7 +251,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-11T14:46:16.000Z",
       "title": "New Tesla Supercharger: Brașov, Romania (12 stalls) Voting Winner Site 🏆  Learn more about Supercharger Voting:",
       "body": "New Tesla Supercharger: Brașov, Romania (12 stalls) Voting Winner Site 🏆 https://t.co/S8BqNlAi96 Learn more about Supercharger Voting: https://t.co/CpFcz8MJcF https://t.co/Q38bRa9X1B",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2065083198992941147"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
-      "pubDate": "2026-06-11T13:49:44.000Z",
-      "title": "$Tesla (TSLA.US)$",
-      "body": "$Tesla (TSLA.US)$ Moomoo",
-      "sourceName": "Moomoo",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.moomoo.com/community/feed/tesla-tsla-us-116731791540233"
     }
   ]
 }

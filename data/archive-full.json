@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-12 00:50 UTC · 누적 287건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-12 02:45 UTC · 누적 288건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "27m ago",
+      "pubDate": "2026-06-12T00:23:48.000Z",
+      "title": "테슬라, 국내 파주 자유로에 <em>슈퍼차저 8기</em> 신규 개설",
+      "hotShort": "테슬라, 파주 자유로 <em>슈퍼차저 8기</em> 개설",
+      "body": "테슬라 공식 충전 계정이 한국 파주 자유로에 8기 슈퍼차저를 신규 개설했다고 발표했다 — 수도권 서북부 핵심 간선도로인 자유로에 테슬라 급속 충전 인프라가 추가되며 국내 장거리 주행 편의가 확대됐다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-paju-korea-jayu-ro-2026-06-12",
+      "summary": "테슬라 공식 충전 계정(@TeslaCharging)이 6월 12일 한국 경기도 파주시 자유로에 8기 슈퍼차저(Supercharger)를 신규 개설했다고 발표했다. 자유로는 서울 마포구에서 파주시를 연결하는 수도권 서북부의 핵심 고속화도로로, 이번 개설로 서울 도심에서 임진강 방향 장거리 주행 중 테슬라 급속 충전이 가능해졌다.\n\n슈퍼차저는 테슬라가 직접 운영하는 DC 급속 충전 네트워크다. 테슬라는 한국에서 슈퍼차저 네트워크를 꾸준히 확장해왔으며, 국내 전기차 보급 확대와 함께 충전 인프라 투자를 늘리고 있다. 파주 자유로 스테이션의 충전기 타입과 출력 세부 사항은 공식 테슬라 앱 또는 원문 링크에서 확인할 수 있다.\n\n테슬라 주주 관점에서 슈퍼차저 확장은 두 가지 의미를 갖는다. 첫째, 충전 인프라 밀도가 높아질수록 테슬라 차량의 구매 장벽이 낮아져 판매 확대에 기여한다. 둘째, 슈퍼차저 네트워크는 비(非)테슬라 차량에도 개방되면서 독립적인 충전 수익원으로 성장하고 있어, 에너지 서비스 사업의 장기 매출 기반이 된다.",
+      "title_en": "Tesla opens an <em>8-stall Supercharger</em> on Jayu-ro, Paju, South Korea",
+      "hotShort_en": "New Supercharger: <em>Paju, South Korea</em>",
+      "body_en": "Tesla Charging announced a new 8-stall Supercharger on Jayu-ro in Paju, South Korea — a major arterial expressway northwest of Seoul — expanding Tesla's fast-charging coverage along one of the metropolitan area's busiest northwest corridors.",
+      "summary_en": "Tesla Charging (@TeslaCharging) announced on June 12 the opening of a new 8-stall Supercharger on Jayu-ro in Paju City, Gyeonggi Province, South Korea. Jayu-ro is the main high-speed arterial road connecting central Seoul's Mapo district with Paju, and the new station brings Tesla DC fast-charging to one of the busiest northwest Seoul metro corridors.\n\nThe Supercharger is Tesla's proprietary DC fast-charging network. Tesla has been steadily expanding its Supercharger footprint in South Korea in step with growing domestic EV adoption. Hardware details and output for the Paju station are available in the Tesla app or at the source link.\n\nFor Tesla shareholders, Supercharger expansion contributes on two fronts. First, denser charging coverage reduces range anxiety — still one of the most commonly cited barriers to EV purchase — supporting vehicle sales. Second, since Tesla opened Superchargers to non-Tesla EVs, the network has evolved into an independent charging revenue stream, building long-term upside within Tesla's Energy and Services business.",
+      "href": "https://x.com/TeslaCharging/status/2065228540535263663",
+      "sentiment": "bull",
+      "hot": 3
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
