@@ -65,7 +65,8 @@
   .nav{position:sticky;top:0;z-index:30;background:rgba(242,244,246,.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line-mute)}
   .nav__inner{display:flex;align-items:center;justify-content:space-between;height:57px;padding:0 16px}
   .brand{text-decoration:none;font-weight:800;font-size:18px;letter-spacing:-.02em;color:var(--red)}
-  .brand em{font-style:normal}
+  .brand .brand__b{color:var(--ink)}
+  .brand .brand__b em{font-style:normal;color:var(--red)}
   .nav__links{display:flex;align-items:center;gap:13px;font-size:13px;font-weight:700;color:var(--ink-mid)}
   .nav__links a{text-decoration:none}
   .nav__lang{border:1px solid var(--line);border-radius:99px;padding:4px 10px;font-size:11.5px;background:var(--card)}
@@ -216,7 +217,7 @@
 <!-- ============ NAV ============ -->
 <header class="nav">
   <div class="nav__inner">
-    <a class="brand" href="/" aria-label="Tesla Briefing — 홈">Tesla Brief<em>!</em>ng</a>
+    <a class="brand" href="/" aria-label="Tesla Briefing — 홈">Tesla <span class="brand__b">Brief<em>!</em>ng</span></a>
     <nav class="nav__links" aria-label="Primary">
       <a class="nav__lang" href="/en/" hreflang="en" aria-label="English">EN</a>
     </nav>
