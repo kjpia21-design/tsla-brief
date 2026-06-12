@@ -705,10 +705,8 @@ function langFinalize(html, lang) {
     .replace(/(href|src)="assets\//g, '$1="/assets/')    // 상대 자산 → 루트 절대(/en/ 하위경로 대응)
     .replace(/href="(about|privacy)\.html"/g, 'href="/$1.html"')    // 영문 about/privacy 미생성 → 한국어 루트로(404 방지)
     .replace(/teslabriefing\.com\/articles\//g, 'teslabriefing.com/en/articles/')   // 기사 canonical·og:url → /en/
-    .replace('<link rel="canonical" href="https://teslabriefing.com/news">', '<link rel="canonical" href="https://teslabriefing.com/en/news">')
-    // 등락색 로케일 — KO 한국식(상승 빨강/하락 파랑) → EN 미국식(상승 초록/하락 빨강). 홈 CSS 토큰 한 줄 치환.
-    .replace("--up:#f04452;--up-soft:#fdebec;--dn:#3182f6;--dn-soft:#e8f3ff;",
-             "--up:#16A34A;--up-soft:#e3f4e9;--dn:#EF4444;--dn-soft:#fdeaea;");
+    .replace('<link rel="canonical" href="https://teslabriefing.com/news">', '<link rel="canonical" href="https://teslabriefing.com/en/news">');
+  // 등락색은 KO·EN 모두 미국식(템플릿 토큰) — JP 확정 2026-06-12, 로케일 치환 불필요.
   for (const [ko, en] of UI_EN) html = html.split(ko).join(en);
   return html;
 }
