@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-12 04:40 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-12 04:41 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "18m ago",
+      "time": "19m ago",
       "pubDate": "2026-06-12T04:22:52.000Z",
       "title": "Full Self-Driving is the only world model that can take you traveling around the world. 🌎",
       "body": "Full Self-Driving is the only world model that can take you traveling around the world. 🌎",
@@ -91,6 +91,19 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/cybertruck/status/2065204429868208409"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "6h ago",
+      "pubDate": "2026-06-11T22:42:17.000Z",
+      "title": "Tesla (NASDAQ:TSLA) Shares Up 4.6% - Still a Buy?",
+      "body": "Tesla (NASDAQ:TSLA) Shares Up 4.6% - Still a Buy? MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-shares-up-46-still-a-buy-2026-06-11/"
     },
     {
       "category": "fsd",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2065083198992941147"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "49d ago",
-      "pubDate": "2026-04-23T23:11:52.000Z",
-      "title": "Tesla claims boost Giga Berlin production 20%, but numbers don’t add up",
-      "body": "Tesla lists Giga Berlin’s Model Y production capacity at more than 375,000 units per year — roughly 93,000 per quarter. The plant manager just celebrated a “record” Q1 2026 of 61,000 units and announced a 20% production …",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/04/23/tesla-giga-berlin-production-increase-still-below-capacity/"
     }
   ]
 }
