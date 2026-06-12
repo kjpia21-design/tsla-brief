@@ -1,13 +1,26 @@
 {
-  "asOf": "2026-06-12 16:20 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-12 18:11 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-12T17:01:16.000Z",
+      "title": "Tesla gets go-ahead to sell self-driving technology in Belgium",
+      "body": "Tesla gets go-ahead to sell self-driving technology in Belgium MSN",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.msn.com/en-us/money/companies/tesla-gets-go-ahead-to-sell-self-driving-technology-in-belgium/ar-AA25mvzy"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "14m ago",
-      "pubDate": "2026-06-12T16:06:46.000Z",
-      "title": "Elon Musk Becomes the World’s First Trillionaire",
-      "body": "Elon Musk Becomes the World’s First Trillionaire The New York Times",
+      "time": "1h ago",
+      "pubDate": "2026-06-12T16:50:26.000Z",
+      "title": "Elon Musk Becomes World’s First Trillionaire as SpaceX Stock Begins Trading",
+      "body": "Elon Musk Becomes World’s First Trillionaire as SpaceX Stock Begins Trading The New York Times",
       "sourceName": "The New York Times",
       "sourceLabel": "press",
       "slug": "",
@@ -17,7 +30,59 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "27m ago",
+      "time": "2h ago",
+      "pubDate": "2026-06-12T16:42:02.000Z",
+      "title": "Tesla vs BYD: The Better EV Stock To Buy In June",
+      "body": "Tesla vs BYD: The Better EV Stock To Buy In June 24/7 Wall St.",
+      "sourceName": "24/7 Wall St.",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://247wallst.com/investing/2026/06/12/tesla-vs-byd-the-better-ev-stock-to-buy-in-june/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-12T16:26:25.000Z",
+      "title": "Forget Tesla: This Magnificent 7 Stock This Wins Every Time",
+      "body": "Forget Tesla: This Magnificent 7 Stock This Wins Every Time MSN",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.msn.com/en-us/money/personalfinance/forget-tesla-this-magnificent-7-stock-this-wins-every-time/ar-AA25irOg"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-12T16:25:18.000Z",
+      "title": "SpaceX COO Shotwell says Tesla tie-up ‘might make Elon’s life a little easier’",
+      "body": "SpaceX COO Shotwell says Tesla tie-up ‘might make Elon’s life a little easier’ CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/12/spacex-coo-shotwell-tesla-deal-makes-elons-life-a-little-easier.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-12T16:02:41.000Z",
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+      "body": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
       "pubDate": "2026-06-12T15:54:00.000Z",
       "title": "Tesla May See Double-Digit Growth In Q2 Deliveries, Says Analyst – But ‘It’s Not Evidence That Demand Has Re-Accelerated’",
       "body": "Tesla May See Double-Digit Growth In Q2 Deliveries, Says Analyst – But ‘It’s Not Evidence That Demand Has Re-Accelerated’ Stocktwits",
@@ -30,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "46m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-12T15:34:52.000Z",
       "title": "Traders Anticipate Long-Term Merger Between Tesla (TSLA) and Spa",
       "body": "Traders Anticipate Long-Term Merger Between Tesla (TSLA) and Spa GuruFocus",
@@ -41,22 +106,9 @@
       "href": "https://www.gurufocus.com/news/8914180/traders-anticipate-longterm-merger-between-tesla-tsla-and-spacex-spcx"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-12T15:10:20.000Z",
-      "title": "I bought SpaceX stocks not for sale, but as tokens to remember that there are brave people determined to take humans …",
-      "body": "I bought SpaceX stocks not for sale, but as tokens to remember that there are brave people determined to take humans to space for the last 25 years. Many big companies went public during that time, like Google, Facebook,…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2065451641999138834"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-12T14:57:36.000Z",
       "title": "New Tesla Supercharger: Coignières, France (8 stalls)",
       "body": "New Tesla Supercharger: Coignières, France (8 stalls) https://t.co/t8oHn4u52A https://t.co/K7pnzwBOBF",
@@ -69,36 +121,10 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-12T14:46:42.000Z",
-      "title": "Thank you! 🚀🚀🚀",
-      "body": "Thank you! 🚀🚀🚀 https://t.co/zJZWqIfWGK",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2065445696287703472"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-12T14:40:54.000Z",
-      "title": "Another 29 sats to orbit!",
-      "body": "Another 29 sats to orbit! https://t.co/0gxNyJ8A4R",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2065444236825170191"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-12T13:40:00.000Z",
-      "title": "Five Ways to Measure Musk's Fortune if It Hits $1 Trillion",
-      "body": "Five Ways to Measure Musk's Fortune if It Hits $1 Trillion Bloomberg.com",
+      "title": "Five Ways to Measure Musk’s $1 Trillion Fortune",
+      "body": "Five Ways to Measure Musk’s $1 Trillion Fortune Bloomberg.com",
       "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
@@ -106,22 +132,22 @@
       "href": "https://www.bloomberg.com/features/2026-spacex-ipo-elon-musk-trillionaire/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-12T13:30:48.000Z",
-      "title": "Tesla May Not Exist In 5 Years (Rating Upgrade) (NASDAQ:TSLA)",
-      "body": "Tesla May Not Exist In 5 Years (Rating Upgrade) (NASDAQ:TSLA) Seeking Alpha",
-      "sourceName": "Seeking Alpha",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
+      "pubDate": "2026-06-12T12:58:59.000Z",
+      "title": "'Absolutely likely' Musk will combine Tesla and SpaceX: Ex-Tesla board member",
+      "body": "'Absolutely likely' Musk will combine Tesla and SpaceX: Ex-Tesla board member CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://seekingalpha.com/article/4914535-tesla-may-not-exist-in-5-years-rating-upgrade"
+      "href": "https://www.cnbc.com/video/2026/06/12/expect-elon-musk-to-combine-tesla-and-spacex-ex-tesla-board-member.html"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-12T11:09:47.000Z",
       "title": "Tesla (TSLA) Stock And Robotaxi Progress Put Lofty Valuation In The Spotlight",
       "body": "Tesla (TSLA) Stock And Robotaxi Progress Put Lofty Valuation In The Spotlight Yahoo Finance",
@@ -134,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-12T08:59:10.000Z",
       "title": "One key difference between real-world AI and digital agentic systems is how we treat time. In the real world, time is…",
       "body": "One key difference between real-world AI and digital agentic systems is how we treat time. In the real world, time is continuous and cannot be stopped. In the digital world, time is discretized and can be paused. Thus, c…",
@@ -147,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-12T08:50:45.000Z",
       "title": "New Tesla Supercharger: Mascot, NSW, Australia (7 stalls)",
       "body": "New Tesla Supercharger: Mascot, NSW, Australia (7 stalls) https://t.co/Mko1cuWnaK https://t.co/bsivsRIFkS",
@@ -160,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-12T06:24:27.000Z",
       "title": "Received something special just in time before the IPO. X Money for SPCX.",
       "body": "Received something special just in time before the IPO. X Money for SPCX. https://t.co/FXawtKN2h0",
@@ -173,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-12T06:05:33.000Z",
       "title": "Keeping the power on during blackouts",
       "body": "Keeping the power on during blackouts https://t.co/y4Sbeqq3wO",
@@ -186,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-12T05:56:17.000Z",
       "title": "New Tesla Supercharger: Uljin, South Korea - Eupnae-ri (4 stalls)",
       "body": "New Tesla Supercharger: Uljin, South Korea - Eupnae-ri (4 stalls) https://t.co/ZBwnVwScS6 https://t.co/9eKV7rzN5Q",
@@ -199,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-12T04:43:50.000Z",
       "title": "New Tesla Supercharger: Leirfjord, Norway (8 stalls)",
       "body": "New Tesla Supercharger: Leirfjord, Norway (8 stalls) https://t.co/dRx0lMwJyE https://t.co/2eXatyKkJP",
@@ -212,7 +238,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-12T04:22:52.000Z",
       "title": "Full Self-Driving is the only world model that can take you traveling around the world. 🌎",
       "body": "Full Self-Driving is the only world model that can take you traveling around the world. 🌎",
@@ -225,7 +251,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-12T03:26:00.000Z",
       "title": "JPMorgan Echoes Why Tesla, Inc. (TSLA) is One of the Best Forever Stocks to Buy",
       "body": "JPMorgan Echoes Why Tesla, Inc. (TSLA) is One of the Best Forever Stocks to Buy Yahoo Finance",
@@ -234,32 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-echoes-why-tesla-inc-032657664.html"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
-      "pubDate": "2026-06-12T00:02:58.000Z",
-      "title": "My takeaway from this eval is whether you want an AI companion to maximize your survival or its own survival. I would…",
-      "body": "My takeaway from this eval is whether you want an AI companion to maximize your survival or its own survival. I would take the former at any given time. https://t.co/5tRfZvHYfy",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2065223298200617247"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-06-11T17:31:30.000Z",
-      "title": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio",
-      "body": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio Yahoo Finance",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-top-stock-173130400.html"
     }
   ]
 }
