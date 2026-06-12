@@ -50,7 +50,7 @@
     --red:#E31937; --red-deep:#A30E25;
     /* 등락색 — EN 빌드에서 build.mjs(langFinalize)가 미국식으로 치환 */
     --up:#f04452;--up-soft:#fdebec;--dn:#3182f6;--dn-soft:#e8f3ff;
-    --hotbg:#0A0A0B; --hotline:#1E1E26;
+    --hotbg:#e9ebef; --hotline:#d9dde4;   /* HOT 박스 = 회색(블랙 → JP 요청) */
   }
   *{margin:0;padding:0;box-sizing:border-box}
   html{scroll-behavior:smooth}
@@ -96,20 +96,20 @@
 
   /* ── HOT 박스 (블랙 — 브랜드 시그니처) ── */
   .hot-news{padding:13px 16px 0}
-  .hot-news__in{background:var(--hotbg);border-radius:20px;padding:14px 18px 7px;box-shadow:0 1px 3px rgba(0,0,0,.1)}
+  .hot-news__in{background:var(--hotbg);border-radius:20px;padding:14px 18px 7px;box-shadow:0 1px 3px rgba(0,0,0,.04)}
   .hot-news__head{display:flex;justify-content:space-between;align-items:center;font-size:10.5px;font-weight:800;letter-spacing:.14em;margin-bottom:3px}
   .hot-news__eyebrow{color:var(--red);display:inline-flex;align-items:center;gap:7px}
   .hot-news__eyebrow::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--red);box-shadow:0 0 8px var(--red)}
   .hot-news__count{color:#9A9AA6;font-weight:600;letter-spacing:.06em}
   .hot-news__list{list-style:none}
-  .hot-news__item{display:flex;align-items:center;gap:10px;padding:9.5px 0;color:#F4F4F5;text-decoration:none;font-size:14.5px;font-weight:600;line-height:1.42;border-top:1px solid var(--hotline)}
+  .hot-news__item{display:flex;align-items:center;gap:10px;padding:9.5px 0;color:var(--ink);text-decoration:none;font-size:14.5px;font-weight:600;line-height:1.42;border-top:1px solid var(--hotline)}
   .hot-news__list li:first-child .hot-news__item{border-top:0}
   .hot-news__item::before{content:"";flex:none;width:6px;height:6px;border-radius:50%;background:#9A9AA6}
   .hot-news__item.is-stock::before{background:#E31937}
   .hot-news__item.is-product::before{background:#1B6CFF}
   .hot-news__item.is-fsd::before{background:#22D3EE}
   .hot-news__item.is-musk::before{background:#F59E0B}
-  .hot-news__title em{font-style:italic;color:#FF5A73}
+  .hot-news__title em{font-style:normal;color:inherit;font-weight:inherit}   /* 강조색 제거(JP 요청) */
   .hn-full{display:none}.hn-short{display:inline}
   @media (min-width:560px){ .hn-full{display:inline}.hn-short{display:none} }
 
@@ -131,6 +131,11 @@
   .ccard.hide{display:none}
   .ccard__top{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-bottom:8px}
   .ccard__cat{font-size:11px;font-weight:700;color:var(--ink-mid);background:var(--bg);border-radius:6px;padding:2.5px 8px}
+  /* 카테고리 칩 = 카테고리 심볼색 (JP 요청) — 라이트 배경 가독 보정 톤 */
+  .ccard.is-stock   .ccard__cat{color:#D31430;background:rgba(227,25,55,.08)}
+  .ccard.is-product .ccard__cat{color:#1B6CFF;background:rgba(27,108,255,.08)}
+  .ccard.is-fsd     .ccard__cat{color:#0E9CB8;background:rgba(34,211,238,.12)}
+  .ccard.is-musk    .ccard__cat{color:#D97706;background:rgba(245,158,11,.12)}
   .senti{font-size:10.5px;font-weight:800;border-radius:6px;padding:2.5px 7px}
   .senti--bull{background:var(--up-soft);color:var(--up)}
   .senti--bear{background:var(--dn-soft);color:var(--dn)}
