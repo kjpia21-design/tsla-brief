@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-12T03:36:24.000Z",
+      "title": "JP모건, 테슬라 목표주가 <em>200% 이상 상향</em> — '영구 보유' 종목 공인",
+      "hotShort": "JP모건, <em>목표주가 200% 이상</em> 상향 — 영구 보유 공인",
+      "body": "JP모건이 테슬라 목표주가를 기존 대비 200% 이상(스톡트위츠 기준 총 228%) 상향한 전체 규모가 집계되면서, 인사이더 몽키는 테슬라를 '영구 보유(forever stock)' 최상위 종목으로 추천하는 JP모건의 근거를 상세히 보도했다 — 지난 한 주간 비관론 철회·목표주가 연속 상향으로 JP모건의 테슬라 평가가 사실상 완전히 역전됐다.",
+      "sourceName": "Insider Monkey",
+      "sourceLabel": "press",
+      "slug": "stock-jpmorgan-200pct-target-raise-tsla-2026-06-12",
+      "summary": "6월 한 달 JP모건의 테슬라 커버리지는 전례 없는 속도로 뒤집혔다. 6월 5일 오랫동안 테슬라를 저평가한 담당 애널리스트를 교체하고 전향적 시각으로 전환한 것을 시작으로, 6월 6~7일 새 목표주가를 제시한 뒤, 6월 9일 '물리적 AI 잠재력' 근거로 다시 상향했다. 인사이더 몽키와 스톡트위츠의 이번 보도는 그 전체 변화의 크기가 기존 목표주가 대비 총 200% 이상(스톡트위츠 기준 228%)에 이른다는 것을 집계했다.\n\n인사이더 몽키는 JP모건이 테슬라를 '영구 보유(forever stock)' 목록에 포함시키는 논거를 구체적으로 설명했다고 전했다. '영구 보유'는 경쟁 우위가 장기적으로 지속 가능하다고 판단될 때만 부여되는 표현으로, 일시적 모멘텀이 아니라 구조적 성장을 인정했다는 의미다. JP모건이 AI·로보택시·에너지 사업의 복합 가치를 공식 인정한 결과다.\n\nJP모건처럼 오랫동안 비관적이었던 대형 기관이 공식적으로 입장을 바꾸면, 기존에 JP모건 의견을 따르던 기관 투자자들이 포지션을 재조정할 유인이 생긴다. 새로운 강세 논거가 월가 전반에 확산되는 신호이기도 하며, 이는 단기 모멘텀을 넘어 중장기 기관 자금 유입의 배경이 될 수 있다.\n\n다만 200%+ 상향폭은 원래 JP모건의 목표주가가 업계 내 가장 낮은 축에 속했기 때문이기도 하다. 정확한 신규 목표주가와 투자의견 세부 내용은 JP모건 공식 리서치 노트 확인을 권장한다. 228% 수치는 스톡트위츠 보도 기준이다.",
+      "title_en": "JPMorgan names Tesla a <em>'forever stock'</em> — total target raise tops 200%",
+      "hotShort_en": "JPMorgan <em>names TSLA 'forever stock'</em> — target up 200%+",
+      "body_en": "JPMorgan's cumulative Tesla price-target increase now exceeds 200% (228% per Stocktwits) since its bearish analyst was replaced in early June — Insider Monkey details JPMorgan's full rationale for naming Tesla one of Wall Street's best 'forever stocks,' confirming a complete institutional reversal on the name.",
+      "summary_en": "JPMorgan's dramatic re-rating of Tesla played out over the first two weeks of June 2026. The bank replaced its long-bearish Tesla analyst on June 5 and immediately shifted to a constructive stance, followed by a high initial target on June 6, a further raise on June 7, and a 'physical AI potential' upgrade on June 9. Insider Monkey and Stocktwits now report the cumulative price-target increase at over 200% — with Stocktwits citing 228% — and publish JPMorgan's full case for designating Tesla a 'forever stock.'\n\nThe 'forever stock' label carries specific weight in institutional research. It signals a conviction that Tesla's competitive moat — spanning EVs, FSD/autonomy, energy storage, and AI — is durable enough to warrant long-term holding regardless of near-term volatility. JPMorgan's adoption of this framing marks a clear departure from treating Tesla as a speculative auto play or a richly valued car company.\n\nFor Tesla shareholders, JPMorgan's reversal matters beyond the new price target itself. When a historically skeptical major bank officially turns bullish, it gives previously underweight portfolio managers a consensus-cited reason to add exposure. The bank's shift reinforces that AI and robotaxi optionality are now mainstream components of the Tesla bull thesis, not a niche narrative held only by retail investors.\n\nNote: The 200%+/228% figure is per Stocktwits reporting and reflects the magnitude of JPMorgan's total price-target change since its early-June stance shift. Investors should verify the precise new target and recommendation details in JPMorgan's official research note.",
+      "href": "https://www.insidermonkey.com/blog/jpmorgan-echoes-why-tesla-inc-tsla-is-one-of-the-best-forever-stocks-to-buy-1779312/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Insider Monkey",
+        "Stocktwits",
+        "MarketBeat"
+      ],
+      "sentiment": "bull",
+      "hot": 9
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "27m ago",
@@ -1932,21 +1958,7 @@
       "summary": "테슬라 로드스터의 공개 행사 일정이 또 한 번 미뤄졌다는 소식이 The Information 보도를 통해 전해졌다. 다만 이번에는 연기 소식과 함께 행사 형태와 내용에 대한 새로운 세부 정보가 함께 공개돼 기대감은 여전히 유지되고 있다.\n\n차세대 테슬라 로드스터는 2019년 첫 예고 이후 수차례 출시 일정이 밀리며 테슬라 팬들에게 '영원한 미완의 약속'으로 불려왔다. 공식 발표된 스펙은 0→100km/h 1초대 가속, 항속거리 1,000km 이상으로 양산 전기차 역사상 전무한 수준이다.\n\n새 행사 세부 정보가 구체화됐다는 것은 실제 공개 일정이 현실화되고 있다는 신호로 해석할 수 있다. 업계에서는 로드스터 출시가 테슬라의 고성능 전기차 포지셔닝을 강화하고 브랜드 열기를 재점화하는 계기가 될 것으로 기대하고 있다.\n\n일론 머스크는 과거 로드스터를 두고 페라리·람보르기니 같은 슈퍼카를 '압도'하겠다는 포부를 밝힌 바 있다. 로드스터의 성공적인 출시는 테슬라가 럭셔리·퍼포먼스 세그먼트에서도 경쟁력을 입증하는 기회가 될 전망이다.",
       "href": "https://www.teslarati.com/tesla-roadster-unveiling-gets-pushed-again-new-event-details-emerge/",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-05T18:46:18.000Z",
-      "title": "블룸버그 \"S&P, 스페이스X 지수 편입 거부 — <em>지수 관리자의 힘</em> 확인\"",
-      "body": "블룸버그에 따르면 S&P 글로벌이 스페이스X의 주요 주가지수 편입을 거부하면서, 수조 달러 자산을 운용하는 지수 관리자들이 머스크 제국에도 막강한 영향력을 행사할 수 있음이 확인됐다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-sp-spacex-snub-index-gatekeepers-2026-06-05",
-      "summary": "블룸버그는 S&P 글로벌이 스페이스X를 주요 주가지수에 편입하지 않기로 결정하면서, 일론 머스크조차 거스를 수 없는 금융 인프라의 권력이 재확인됐다고 보도했다.\n\nS&P 500·S&P 1500 같은 지수에 포함되면 패시브 펀드의 의무 매수로 이어지기 때문에, 지수 편입 여부는 기업의 시가총액과 자금 조달 능력에 직접 영향을 미친다. 테슬라도 2020년 S&P 500 편입 당시 주가가 급등한 바 있어, 테슬라 투자자들은 이 메커니즘에 익숙하다.\n\n스페이스X는 비상장 기업으로 지수 직접 편입 대상은 아니었지만, 일부 방식으로 지수 연계 가능성이 거론됐다. S&P 측이 이를 공식 거부한 것은 머스크의 광대한 사업 제국에도 지수 관리자들이 '관문'으로 기능할 수 있다는 점을 명확히 보여준다.\n\n테슬라 주주 관점에서 이 사건은 테슬라와 머스크 관련 자산들이 금융 시스템 내에서 어떻게 평가받는지에 대한 힌트를 제공한다. S&P 등 지수 운영사가 기업 거버넌스·공시 기준을 엄격히 적용할수록, 테슬라의 이사회 독립성과 머스크의 경영 집중도도 지속적인 평가 대상이 될 수 있다.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-05/s-p-s-spacex-snub-shows-elon-musk-the-power-of-index-gatekeepers",
-      "hot": 6
     }
   ],
-  "asOf": "2026-06-12 09:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-12 14:11 KST 자동 갱신 · 최신순"
 }

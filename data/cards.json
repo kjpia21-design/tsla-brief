@@ -1,9 +1,31 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-12T03:36:24.000Z",
+      "title": "JP모건, 테슬라 목표주가 <em>200% 이상 상향</em> — '영구 보유' 종목 공인",
+      "hotShort": "JP모건, <em>목표주가 200% 이상</em> 상향 — 영구 보유 공인",
+      "body": "JP모건이 테슬라 목표주가를 기존 대비 200% 이상(스톡트위츠 기준 총 228%) 상향한 전체 규모가 집계되면서, 인사이더 몽키는 테슬라를 '영구 보유(forever stock)' 최상위 종목으로 추천하는 JP모건의 근거를 상세히 보도했다 — 지난 한 주간 비관론 철회·목표주가 연속 상향으로 JP모건의 테슬라 평가가 사실상 완전히 역전됐다.",
+      "sourceName": "Insider Monkey",
+      "sourceLabel": "press",
+      "slug": "stock-jpmorgan-200pct-target-raise-tsla-2026-06-12",
+      "summary": "6월 한 달 JP모건의 테슬라 커버리지는 전례 없는 속도로 뒤집혔다. 6월 5일 오랫동안 테슬라를 저평가한 담당 애널리스트를 교체하고 전향적 시각으로 전환한 것을 시작으로, 6월 6~7일 새 목표주가를 제시한 뒤, 6월 9일 '물리적 AI 잠재력' 근거로 다시 상향했다. 인사이더 몽키와 스톡트위츠의 이번 보도는 그 전체 변화의 크기가 기존 목표주가 대비 총 200% 이상(스톡트위츠 기준 228%)에 이른다는 것을 집계했다.\n\n인사이더 몽키는 JP모건이 테슬라를 '영구 보유(forever stock)' 목록에 포함시키는 논거를 구체적으로 설명했다고 전했다. '영구 보유'는 경쟁 우위가 장기적으로 지속 가능하다고 판단될 때만 부여되는 표현으로, 일시적 모멘텀이 아니라 구조적 성장을 인정했다는 의미다. JP모건이 AI·로보택시·에너지 사업의 복합 가치를 공식 인정한 결과다.\n\nJP모건처럼 오랫동안 비관적이었던 대형 기관이 공식적으로 입장을 바꾸면, 기존에 JP모건 의견을 따르던 기관 투자자들이 포지션을 재조정할 유인이 생긴다. 새로운 강세 논거가 월가 전반에 확산되는 신호이기도 하며, 이는 단기 모멘텀을 넘어 중장기 기관 자금 유입의 배경이 될 수 있다.\n\n다만 200%+ 상향폭은 원래 JP모건의 목표주가가 업계 내 가장 낮은 축에 속했기 때문이기도 하다. 정확한 신규 목표주가와 투자의견 세부 내용은 JP모건 공식 리서치 노트 확인을 권장한다. 228% 수치는 스톡트위츠 보도 기준이다.",
+      "title_en": "JPMorgan names Tesla a <em>'forever stock'</em> — total target raise tops 200%",
+      "hotShort_en": "JPMorgan <em>names TSLA 'forever stock'</em> — target up 200%+",
+      "body_en": "JPMorgan's cumulative Tesla price-target increase now exceeds 200% (228% per Stocktwits) since its bearish analyst was replaced in early June — Insider Monkey details JPMorgan's full rationale for naming Tesla one of Wall Street's best 'forever stocks,' confirming a complete institutional reversal on the name.",
+      "summary_en": "JPMorgan's dramatic re-rating of Tesla played out over the first two weeks of June 2026. The bank replaced its long-bearish Tesla analyst on June 5 and immediately shifted to a constructive stance, followed by a high initial target on June 6, a further raise on June 7, and a 'physical AI potential' upgrade on June 9. Insider Monkey and Stocktwits now report the cumulative price-target increase at over 200% — with Stocktwits citing 228% — and publish JPMorgan's full case for designating Tesla a 'forever stock.'\n\nThe 'forever stock' label carries specific weight in institutional research. It signals a conviction that Tesla's competitive moat — spanning EVs, FSD/autonomy, energy storage, and AI — is durable enough to warrant long-term holding regardless of near-term volatility. JPMorgan's adoption of this framing marks a clear departure from treating Tesla as a speculative auto play or a richly valued car company.\n\nFor Tesla shareholders, JPMorgan's reversal matters beyond the new price target itself. When a historically skeptical major bank officially turns bullish, it gives previously underweight portfolio managers a consensus-cited reason to add exposure. The bank's shift reinforces that AI and robotaxi optionality are now mainstream components of the Tesla bull thesis, not a niche narrative held only by retail investors.\n\nNote: The 200%+/228% figure is per Stocktwits reporting and reflects the magnitude of JP Morgan's total price-target change since its early-June stance shift. Investors should verify the precise new target and recommendation details in JPMorgan's official research note.",
+      "href": "https://www.insidermonkey.com/blog/jpmorgan-echoes-why-tesla-inc-tsla-is-one-of-the-best-forever-stocks-to-buy-1779312/",
+      "confirmedBy": 3,
+      "confirmingSources": ["Insider Monkey", "Stocktwits", "MarketBeat"],
+      "sentiment": "bull",
+      "hot": 9
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "27m ago",
+      "time": "5h ago",
       "pubDate": "2026-06-12T00:23:48.000Z",
       "title": "테슬라, 국내 파주 자유로에 <em>슈퍼차저 8기</em> 신규 개설",
       "hotShort": "테슬라, 파주 자유로 <em>슈퍼차저 8기</em> 개설",
@@ -23,7 +45,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-11T22:39:20.000Z",
       "title": "일론 머스크 \"FSD Supervised <em>14.3.4 배포 시작</em>\" — 사이버트럭 소환 포함",
       "hotShort": "FSD <em>14.3.4</em> 배포 시작 — 사이버트럭 소환 탑재",
@@ -48,7 +70,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-11T22:22:11.000Z",
       "title": "로이터 \"스페이스X IPO로 일론 머스크, <em>세계 최초 조만장자</em> 등극\"",
       "hotShort": "머스크, 스페이스X IPO로 <em>세계 첫 조만장자</em> 됐다",
@@ -63,28 +85,8 @@
       "summary_en": "Reuters reported on June 11 that the SpaceX IPO has made Elon Musk the world's first trillionaire, his net worth crossing the $1 trillion mark as the listing placed a public-market price on his previously unlisted stake in SpaceX.\n\nMusk has long held the title of the world's richest person through combined holdings in Tesla, SpaceX, xAI, X and The Boring Company. SpaceX was his largest unlisted asset, and its IPO is the first time the market has transparently valued that stake — pushing the cumulative figure past the historically unprecedented $1 trillion threshold.\n\nFor Tesla shareholders, the milestone carries indirect significance at two levels. First, a confirmed high SpaceX valuation provides market precedent for the 'founder premium' that Musk commands — a premium also embedded in Tesla's own valuation. If SpaceX prices favorably, the parallel premium in TSLA gets indirect support. Second, SpaceX liquidity could reduce Musk's personal need to sell Tesla shares to fund other ventures, removing one source of potential supply-side pressure on TSLA. Counterbalancing this, investors will watch whether the SpaceX listing shifts Musk's executive focus and capital allocation away from Tesla over time.\n\nThe IPO is the second public listing of a Musk venture, following Tesla's June 2010 Nasdaq debut — and the first time the full breadth of his wealth can be benchmarked against live public-market data.",
       "href": "https://www.reuters.com/business/media-telecom/spacex-ipo-makes-elon-musk-worlds-first-trillionaire-2026-06-11/",
       "sentiment": "neutral",
-      "hot": 9
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-11T19:15:25.000Z",
-      "title": "TSLA, 6월 11일 종가 <em>+3.09% 반등</em> — 전일 차익 실현 되돌림",
-      "hotShort": "TSLA, 전일 하락 딛고 <em>+3.09% 반등</em>",
-      "body": "테슬라 주가가 6월 11일 3.09% 상승 마감해 전일(-4%, $381.59) 차익 실현 조정분을 대부분 되돌렸다고 트레이딩키가 전했다 — 하루 만에 회복세로 전환되며 $381대 단기 지지 구간이 확인됐다.",
-      "sourceName": "TradingKey",
-      "sourceLabel": "press",
-      "slug": "stock-tsla-rebound-3pct-june11-2026-06-11",
-      "summary": "트레이딩키(TradingKey)가 6월 11일 보도한 바에 따르면 테슬라(TSLA) 주가는 3.09% 상승해 마감했다. 전날(6월 10일) 최근 랠리 이후 차익 실현 매물로 약 4% 하락해 $381.59에 마감한 직후, 단 하루 만에 회복세로 전환된 것이다.\n\n6월 10일 하락의 배경은 FSD 유럽 연속 승인·오스틴 로보택시 출시·JP모건 등 복수 기관 상향 조정으로 축적된 랠리에서 쌓인 단기 차익 실현 매물이었다. 하루 만에 3% 이상 반등하며 $381 선을 지지로 빠르게 회복한 흐름은 해당 레벨에서 저가 매수세가 유입됐음을 시사한다.\n\n6월 11일 반등의 구체적 촉매는 트레이딩키 원문에서 확인할 수 있다. 주주 입장에서 전일 하락분을 하루 만에 대부분 회복한 점은 단기 기술적 지지를 확인해주는 긍정 신호다.",
-      "title_en": "TSLA <em>rebounds +3.09%</em> on June 11, recovering prior day's profit-taking drop",
-      "hotShort_en": "TSLA <em>bounces +3.09%</em> on June 11",
-      "body_en": "Tesla (TSLA) closed up 3.09% on June 11, recovering most of the prior session's ~4% drop to $381.59, per TradingKey — the one-day reversal confirms short-term support near the $381 level.",
-      "summary_en": "TradingKey reported on June 11 that Tesla shares closed up 3.09%, rebounding from the prior session's roughly 4% decline to $381.59.\n\nJune 10's pullback had been driven by concentrated profit-taking after a multi-week rally fueled by consecutive FSD European approvals, the Austin robotaxi commercial launch, and a wave of Wall Street upgrades led by JPMorgan. Recovering more than 3% in a single session — with $381 acting as a clear support level — suggests buyers stepped in on the weakness.\n\nThe specific catalysts behind the June 11 rebound are detailed in the TradingKey source article. For shareholders, recovering most of the prior day's decline in a single session is a technical positive, confirming that near-term downside support holds at current levels.",
-      "href": "https://www.tradingkey.com/news/market-movers/261962007-market-movers-tsla-20260611",
-      "sentiment": "bull",
-      "hot": 5
+      "hot": 7
     }
   ],
-  "asOf": "2026-06-12 09:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-12 14:11 KST 자동 갱신 · 최신순"
 }
