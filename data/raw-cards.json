@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-12 10:23 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-12 10:25 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
@@ -13,6 +13,32 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/amp/2026/06/12/spacex-coo-gwynne-shotwell-spcx-ipo.html"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-12T08:59:10.000Z",
+      "title": "One key difference between real-world AI and digital agentic systems is how we treat time. In the real world, time is…",
+      "body": "One key difference between real-world AI and digital agentic systems is how we treat time. In the real world, time is continuous and cannot be stopped. In the digital world, time is discretized and can be paused. Thus, c…",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2065358235209777229"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-12T08:50:45.000Z",
+      "title": "New Tesla Supercharger: Mascot, NSW, Australia (7 stalls)",
+      "body": "New Tesla Supercharger: Mascot, NSW, Australia (7 stalls) https://t.co/Mko1cuWnaK https://t.co/bsivsRIFkS",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2065356118436745233"
     },
     {
       "category": "musk",
@@ -39,19 +65,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.marketbeat.com/instant-alerts/filing-great-valley-advisor-group-inc-lowers-stock-holdings-in-tesla-inc-tsla-2026-06-12/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-12T08:10:10.000Z",
-      "title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch For June 5th, 2026 Todd Meadows (MDXBkNfaLT)",
-      "body": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch For June 5th, 2026 Todd Meadows (MDXBkNfaLT) Fathom Journal",
-      "sourceName": "Fathom Journal",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://fathomjournal.org/4e4899ea/46d1bf0f3RErAvBa5cE"
     },
     {
       "category": "fsd",
@@ -135,6 +148,19 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "7h ago",
+      "pubDate": "2026-06-12T03:41:00.000Z",
+      "title": "Tesla’s $250 million Germany bet is interesting. It’s spending more before it has the payoff.",
+      "body": "Tesla’s $250 million Germany bet is interesting. It’s spending more before it has the payoff. MSN",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.msn.com/en-us/money/topstocks/tesla-s-250-million-germany-bet-is-interesting-it-s-spending-more-before-it-has-the-payoff/ar-AA23pCEV?gemSnapshotKey"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "7h ago",
       "pubDate": "2026-06-12T03:26:00.000Z",
       "title": "JPMorgan Echoes Why Tesla, Inc. (TSLA) is One of the Best Forever Stocks to Buy",
       "body": "JPMorgan Echoes Why Tesla, Inc. (TSLA) is One of the Best Forever Stocks to Buy Yahoo Finance",
@@ -184,19 +210,6 @@
       "href": "https://x.com/cybertruck/status/2065204429868208409"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-06-11T22:39:20.000Z",
-      "title": "Tesla FSD 14.3.4 rolling out now",
-      "body": "Tesla FSD 14.3.4 rolling out now https://t.co/Lbtx2Yeo6i",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2065202249282768915"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "12h ago",
@@ -208,19 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/elonmusk/status/2065200848431464737"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-06-11T22:24:26.000Z",
-      "title": "New Tesla Supercharger: Torrance, CA - Rolling Hills Road (16 stalls)",
-      "body": "New Tesla Supercharger: Torrance, CA - Rolling Hills Road (16 stalls) https://t.co/r3KrTNtvp5 https://t.co/iC6d19QQRc",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2065198500892279293"
     },
     {
       "category": "musk",
