@@ -1,6 +1,72 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "30m ago",
+      "pubDate": "2026-06-12T08:00:22.000Z",
+      "title": "테슬라라티 \"스페이스X IPO 개장 — <em>공모가 $135·$75B</em> 역대 최대\"",
+      "hotShort": "스페이스X IPO — <em>$135·750억달러</em> 역대 최대",
+      "body": "스페이스X가 6월 12일 주당 $135의 공모가로 나스닥 상장을 개시, 역대 미국 IPO 역사상 최대 규모인 750억달러($75B)를 조달했다고 테슬라라티가 보도했다 — 테슬라의 2010년 나스닥 데뷔 이후 16년 만에 머스크의 두 번째 회사가 사상 최대 규모 IPO로 공개 무대에 올랐다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-ipo-live-135-75b-2026-06-12",
+      "summary": "6월 12일 나스닥 상장 첫날, 스페이스X는 주당 $135의 공모가와 총 750억달러($75B) 조달로 역대 미국 IPO 최대 기록을 세웠다고 테슬라라티·로이터·CNBC 3개 매체가 교차 보도했다. 이로써 일론 머스크의 순자산이 1조달러를 돌파해 세계 최초 조만장자 기록도 함께 공식화됐다.\n\n스페이스X는 팰컨 9·스타쉽 로켓 기반 발사 사업과 글로벌 위성 인터넷 스타링크로 구성된다. 비공개 기업으로 운영됐던 스페이스X가 이번 IPO로 처음 공개 시장에서 기업 가치를 평가받게 됐으며, 공모가 기준 밸류에이션 확정으로 머스크 총 자산의 1조달러 돌파가 공식화됐다.\n\n테슬라 주주 입장에서 이번 상장은 여러 각도의 영향을 미친다. 스페이스X가 역대 최대 규모 IPO에 성공함으로써 머스크 창업자 프리미엄이 공개 시장에서 공식 가격화됐고, 이 프리미엄의 일부는 테슬라 주가에도 반영돼 있다. CNBC는 테슬라의 2010년 IPO가 당시 시장 기대를 넘어 성장한 선례가 스페이스X에도 유사하게 적용될 수 있다고 분석했다.\n\n또한 스페이스X 상장으로 머스크의 비공개 자산에 유동성이 생기면, 다른 벤처를 지원하기 위해 테슬라 주식을 매도할 유인이 줄어든다는 분석도 있다. 반면 스페이스X·xAI 등 비테슬라 벤처의 비중이 커질수록 머스크의 경영 집중도와 자본 배분이 분산될 수 있다는 우려도 지속된다.",
+      "title_en": "Teslarati: SpaceX IPO opens at <em>$135/share, raising a record $75B</em>",
+      "hotShort_en": "SpaceX IPO: <em>$135/share</em>, record $75B raised",
+      "body_en": "SpaceX priced its IPO at $135 per share on June 12, raising a record $75 billion — the largest IPO in U.S. history — as Elon Musk's rocket-and-Starlink company made its Nasdaq debut sixteen years after Tesla's own 2010 listing.",
+      "summary_en": "Trading opened on June 12 with SpaceX shares priced at $135 and total proceeds of $75 billion, a figure Teslarati, Reuters and CNBC all confirmed as a record for U.S. IPO history. The listing closes the final chapter of SpaceX's long run as Silicon Valley's most closely-watched private company, and simultaneously pushed Musk's net worth past $1 trillion.\n\nSpaceX operates two major business lines: the Falcon 9/Starship rocket launch business serving NASA, the U.S. Department of Defense, and commercial satellite customers; and Starlink, a constellation-based broadband internet service with subscribers worldwide. Before this IPO, SpaceX's valuation was set only in private funding rounds; the public listing is the first time the market has priced the company directly.\n\nFor Tesla shareholders, the milestone carries several implications. CNBC noted that Tesla's own 2010 Nasdaq debut — widely doubted at the time — ultimately returned extraordinary value, and the same narrative template may now apply to SpaceX. More directly, the $75B proceeds put a high public-market price tag on the Musk franchise, reinforcing the valuation premium embedded in TSLA shares.\n\nThe IPO also changes Musk's personal liquidity calculus. With SpaceX equity now freely tradeable, his funding pressure on Tesla shares may decrease — a direct benefit for existing TSLA holders. The risk, as always, is that growing SpaceX and xAI obligations continue to compete for Musk's executive attention and future capital allocation.",
+      "href": "https://www.teslarati.com/spacex-ipo-day-june-12-2026/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Teslarati",
+        "Reuters",
+        "CNBC"
+      ],
+      "sentiment": "neutral",
+      "hot": 8
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-06-12T05:56:17.000Z",
+      "title": "테슬라, 한국·노르웨이·미국서 <em>슈퍼차저 3개소</em> 신규 개설",
+      "hotShort": "테슬라, 한국·노르웨이·미국 <em>슈퍼차저 3곳</em> 신설",
+      "body": "테슬라 공식 충전 계정이 6월 12일 한국 경북 울진(4기)·노르웨이 레이르피오르(8기)·미국 캘리포니아 토런스(16기) 슈퍼차저를 연이어 발표했다 — 하루 사이 아시아·유럽·북미 3개 지역에서 동시다발 충전 인프라 확장이 이뤄지며 글로벌 커버리지 강화가 이어지고 있다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-uljin-korea-leirfjord-norway-2026-06-12",
+      "summary": "테슬라 공식 충전 계정(@TeslaCharging)이 6월 11~12일 사이 한국 경상북도 울진군 읍내리(4기)·노르웨이 레이르피오르(8기)·미국 캘리포니아 토런스 롤링힐스로드(16기) 등 3개국에 새 슈퍼차저 스테이션을 연이어 공개했다. 이날 파주 자유로 스테이션(8기)도 발표됐으며, 하루 사이 한국 2곳·노르웨이 1곳·미국 1곳 합계 4개 스테이션이 개설됐다.\n\n슈퍼차저 네트워크는 테슬라가 직접 구축·운영하는 DC 급속 충전 인프라다. 2023년부터 비테슬라 차량에도 개방되면서 충전 서비스 수익 사업으로 전환이 이뤄지고 있으며, 스테이션 확장은 차량 판매 지원(충전 불안 해소)과 충전 서비스 수익이라는 두 가지 가치를 동시에 창출한다.\n\n글로벌 동반 확장은 단기 주가 모멘텀보다 장기 인프라 해자(moat)의 지속적 구축 신호로 해석된다. 노르웨이는 세계 최고 수준의 EV 보급률을 가진 시장으로 충전 인프라 밀도가 경쟁력의 핵심이며, 한국은 테슬라 아시아 주요 시장 중 하나다. 특히 미국 토런스 16기는 단일 스테이션으로는 대형 규모에 해당한다.",
+      "title_en": "Tesla opens new Superchargers in <em>South Korea, Norway and California</em>",
+      "hotShort_en": "New Superchargers in <em>Korea, Norway & U.S.</em>",
+      "body_en": "Tesla Charging posted three new Supercharger stations on June 11–12: Uljin, South Korea (4 stalls), Leirfjord, Norway (8 stalls), and Torrance, California (16 stalls) — a single-day multi-continent expansion illustrating Tesla's accelerating global charging infrastructure build-out.",
+      "summary_en": "Tesla Charging (@TeslaCharging) announced three new Supercharger stations across June 11–12: Uljin (Eupnae-ri), South Korea with 4 stalls; Leirfjord, Norway with 8 stalls; and Torrance, California (Rolling Hills Road) with 16 stalls. Combined with the Paju Jayu-ro station (8 stalls) also announced on June 12, Tesla opened four new Supercharger locations in a single day spanning Asia, Europe and North America.\n\nTesla's Supercharger network is the company's proprietary DC fast-charging infrastructure, built and operated directly by Tesla. Since 2023, Tesla has progressively opened Superchargers to non-Tesla EVs, transforming the network from a vehicle-purchase amenity into an independent charging revenue stream. Each new station contributes both to vehicle sales support and to the services revenue line.\n\nFor Tesla shareholders, consistent global Supercharger expansion reinforces the network's durability as a competitive moat. Norway leads the world in EV adoption per capita — a market where dense, reliable charging is table stakes — while California and South Korea are among Tesla's largest Western and Asian markets respectively. The simultaneous multi-continent additions signal broad-based infrastructure investment rather than single-market concentration.",
+      "href": "https://x.com/TeslaCharging/status/2065312213074915755",
+      "sentiment": "bull",
+      "hot": 3
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-06-12T03:41:00.000Z",
+      "title": "MSN \"테슬라, 독일에 <em>2.5억달러 투자</em> — 성과 전 선집행\"",
+      "hotShort": "테슬라 독일 <em>$250M 투자</em> — 페이오프 전 선집행",
+      "body": "MSN이 테슬라의 독일 2억5천만달러($250M) 투자를 분석했다 — 성과(페이오프) 확인 전 자본이 먼저 집행되는 구도로, 선투자 전략이 단기 자본 효율 측면에서 시장의 관심사로 부상했다는 점에서 향후 ROI 실현 시점이 주주의 주요 관전 포인트가 된다.",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-250m-germany-bet-2026-06-12",
+      "summary": "MSN이 6월 12일 테슬라의 독일 시장 투자를 '2.5억달러 베팅(bet)'으로 표현하며 분석 기사를 실었다. 독일 내 자본 지출이 명확한 수익 회수 시점 전에 집행되고 있다는 점이 기사의 핵심 관점으로, 제목에서 '흥미롭다(interesting)'는 표현을 통해 투자 대비 성과 여부를 시장이 주시하고 있음을 시사했다.\n\n독일은 테슬라의 유럽 핵심 생산·판매 거점으로, 기가팩토리 베를린-브란덴부르크(기가 베를린)가 유럽 내 생산을 담당한다. 2억5천만달러($250M)의 구체적 용도는 원문 MSN 기사에서 확인할 수 있으며, 제목 맥락상 독일 내 인프라·생산·영업 관련 자본 투자로 보인다.\n\n주주 입장에서 이 투자는 양면이 있다. 긍정적으로는 현지 생산 기반 강화가 유럽 시장 점유율 방어에 기여하고, 현지 생산분은 미국 수출 대비 관세 부담이 없다. 부정적으로는 단기 자본 지출 증가가 잉여현금흐름(FCF)에 압박을 주고, 투자 회수 시점이 불명확할 경우 ROI 우려가 생길 수 있다.\n\nMSN이 '흥미롭다'는 표현을 쓴 것은, 명확한 단기 성과 없이 자본이 선집행되는 전략이 투자자 관점에서 검토할 가치가 있다는 의미로 해석된다. 원문 기사에서 $250M 투자의 구체적 항목과 전략적 배경을 확인할 것을 권한다.",
+      "title_en": "MSN: Tesla's <em>$250M Germany bet</em> — spending ahead of the payoff",
+      "hotShort_en": "Tesla bets <em>$250M on Germany</em> before payoff",
+      "body_en": "MSN analyzed Tesla's $250 million Germany investment, noting the company is deploying capital before the returns have materialized — raising questions about capital efficiency and the timeline to payoff in Tesla's European operations.",
+      "summary_en": "MSN reported on June 12 on Tesla's $250 million commitment to its German operations, framing it as a strategic bet being placed before the financial payoff is clear. The piece highlights questions about capital allocation discipline at a time when Tesla is balancing aggressive geographic expansion against near-term margin pressure.\n\nGermany is home to Tesla's European Gigafactory (Giga Berlin-Brandenburg), which produces Model Y for European markets. It is also one of Western Europe's largest EV markets, making local production and infrastructure investment central to Tesla's European competitiveness. The exact breakdown of the $250M — whether it covers factory expansion, local charging infrastructure, service centers, or a combination — is detailed in the full MSN article.\n\nFor Tesla shareholders, the capital-ahead-of-returns dynamic is a familiar pattern in Tesla's history. The company regularly invests in factory and market capacity before the volume to fully justify it materializes; Giga Shanghai and Giga Berlin both followed this playbook. The key question for investors is whether the payoff arrives on schedule or drags on free cash flow longer than expected.\n\nOn the positive side, European local production insulates Tesla from U.S.-to-Europe export tariffs, and deeper Germany operations strengthen the brand in a market where Tesla faces rising competition. The investment makes most sense viewed as a medium-term positioning move rather than a short-term returns play.",
+      "href": "https://www.msn.com/en-us/money/topstocks/tesla-s-250-million-germany-bet-is-interesting-it-s-spending-more-before-it-has-the-payoff/ar-AA23pCEV?gemSnapshotKey",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "27m ago",
@@ -1895,58 +1961,7 @@
       "summary": "테슬라와 미국 연방정부는 한때 전기차 보급이라는 공동 목표 아래 긴밀한 동반자 관계였다. 테슬라는 연방 세액공제·DOE 대출 등 정부 지원을 받으며 EV 시장을 개척했고, 바이든 행정부의 기후 정책과 테슬라의 사업 방향은 큰 마찰 없이 공존했다.\n\n그러나 일론 머스크가 도널드 트럼프 지지·DOGE(정부효율부) 참여·X(트위터) 정치 발언 등으로 워싱턴과의 관계가 크게 달라졌다. 바이든 행정부 시절 테슬라는 일부 정부 EV 계약에서 배제됐고, 머스크의 DOGE 활동은 연방 기관들과의 긴장을 유발했다. 트럼프 재집권 이후 머스크와 트럼프 진영 내 정치적 마찰이 보도되며, 테슬라의 정책 환경이 오히려 불확실해졌다는 시각도 있다.\n\n이런 복잡한 관계는 테슬라 주주에게 두 가지 리스크를 동시에 제기한다. 첫째, 연방 규제·안전 심사(NHTSA)가 정치적 논란과 맞물려 테슬라에 더 엄격히 적용될 가능성. 둘째, 정부 조달 계약과 EV 인프라 투자에서 테슬라가 상대적으로 소외될 가능성이다.\n\n야후파이낸스의 이 분석은 단기 주가보다 장기 사업 환경에 대한 경고로 읽힌다. 머스크 개인의 정치적 행보가 테슬라의 정책 리스크로 직결될 수 있다는 점은, FSD 규제 승인·로보택시 허가 프로세스를 앞둔 시점에서 특히 주목할 만하다.\n\n다음 트리거: NHTSA FSD 및 로보택시 규제 진전 여부, 백악관과 머스크 간 관계 변화, 테슬라의 연방·주 정부 계약 수주 현황, 머스크의 DOGE 활동 축소 또는 지속 여부.",
       "href": "https://finance.yahoo.com/economy/policy/articles/tesla-washington-used-allies-relationship-212444325.html",
       "hot": 7
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
-      "pubDate": "2026-06-05T20:43:35.000Z",
-      "title": "JP모건, 약세 애널리스트 교체 후 테슬라에 <em>전향적 시각으로 전환</em>",
-      "hotShort": "JP모건, 약세 기조 접고 테슬라 <em>전향적 시각</em> 선언",
-      "body": "블룸버그에 따르면 JP모건이 테슬라에 줄곧 비관적 스탠스를 유지하던 담당 애널리스트를 교체한 직후 공식적으로 긍정적 시각으로 전환하고 목표주가를 대폭 상향했다 — 월가에서 상징적 약세 기관의 공식 입장 변화는 기관 투자자 자금 흐름 변화의 분수령이 될 수 있다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "stock-bloomberg-jpmorgan-turns-upbeat-2026-06-05",
-      "summary": "블룸버그가 보도한 내용에 따르면 JP모건은 테슬라에 오랜 기간 비관적 투자 의견을 유지하던 담당 애널리스트를 교체한 직후 공식적으로 긍정적 시각으로 전환을 선언하고 목표주가를 대폭 높였다. 이후 MSN·AOL·야후 파이낸스 등 복수 매체도 이 업그레이드를 확인 보도했다.\n\nJP모건은 월가에서 테슬라에 가장 낮은 목표주가와 지속적인 비관 의견을 제시하던 대표적 기관이었다. 전기차 판매 둔화·경쟁 심화·밸류에이션 과잉을 근거로 약세 기조를 고수해왔던 만큼, 이번 전환은 단순 인사 변경이 아닌 은행 차원의 테슬라 재평가를 반영한다.\n\n대형 투자은행의 공식 스탠스 변화는 JP모건 리서치를 참고하는 기관 투자자들의 포트폴리오 조정 가능성을 높인다. 연기금·보험사·자산운용사 등 보수적 기관들이 테슬라 비중을 늘리는 방향으로 움직일 경우 중장기 수급에 긍정적 변화가 나타날 수 있다.\n\n이번 블룸버그 보도는 JP모건의 입장 전환 경위를 공식 기록한 것으로, 테슬라 주주에게는 월가 약세론의 중심이 흔들리기 시작했다는 구조적 신호로 볼 수 있다.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-05/jpmorgan-turns-upbeat-on-tesla-after-replacing-bearish-analyst",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Bloomberg",
-        "MSN",
-        "AOL.com",
-        "Yahoo Finance"
-      ],
-      "sentiment": "bull",
-      "hot": 8
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
-      "pubDate": "2026-06-05T19:40:15.000Z",
-      "title": "테슬라 로드스터 공개 또 연기됐지만, <em>새 행사 세부 정보</em> 공개",
-      "body": "테슬라가 로드스터 공개 행사를 재차 미뤘으나 새로운 행사 세부 정보가 등장해 기대감을 이어가고 있다. The Information 보도를 인용한 Teslarati에 따르면 일정 변경과 함께 구체적인 행사 내용이 윤곽을 드러냈다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-roadster-unveiling-delayed-again-2026-06-05",
-      "summary": "테슬라 로드스터의 공개 행사 일정이 또 한 번 미뤄졌다는 소식이 The Information 보도를 통해 전해졌다. 다만 이번에는 연기 소식과 함께 행사 형태와 내용에 대한 새로운 세부 정보가 함께 공개돼 기대감은 여전히 유지되고 있다.\n\n차세대 테슬라 로드스터는 2019년 첫 예고 이후 수차례 출시 일정이 밀리며 테슬라 팬들에게 '영원한 미완의 약속'으로 불려왔다. 공식 발표된 스펙은 0→100km/h 1초대 가속, 항속거리 1,000km 이상으로 양산 전기차 역사상 전무한 수준이다.\n\n새 행사 세부 정보가 구체화됐다는 것은 실제 공개 일정이 현실화되고 있다는 신호로 해석할 수 있다. 업계에서는 로드스터 출시가 테슬라의 고성능 전기차 포지셔닝을 강화하고 브랜드 열기를 재점화하는 계기가 될 것으로 기대하고 있다.\n\n일론 머스크는 과거 로드스터를 두고 페라리·람보르기니 같은 슈퍼카를 '압도'하겠다는 포부를 밝힌 바 있다. 로드스터의 성공적인 출시는 테슬라가 럭셔리·퍼포먼스 세그먼트에서도 경쟁력을 입증하는 기회가 될 전망이다.",
-      "href": "https://www.teslarati.com/tesla-roadster-unveiling-gets-pushed-again-new-event-details-emerge/",
-      "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-05T18:46:18.000Z",
-      "title": "블룸버그 \"S&P, 스페이스X 지수 편입 거부 — <em>지수 관리자의 힘</em> 확인\"",
-      "body": "블룸버그에 따르면 S&P 글로벌이 스페이스X의 주요 주가지수 편입을 거부하면서, 수조 달러 자산을 운용하는 지수 관리자들이 머스크 제국에도 막강한 영향력을 행사할 수 있음이 확인됐다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-sp-spacex-snub-index-gatekeepers-2026-06-05",
-      "summary": "블룸버그는 S&P 글로벌이 스페이스X를 주요 주가지수에 편입하지 않기로 결정하면서, 일론 머스크조차 거스를 수 없는 금융 인프라의 권력이 재확인됐다고 보도했다.\n\nS&P 500·S&P 1500 같은 지수에 포함되면 패시브 펀드의 의무 매수로 이어지기 때문에, 지수 편입 여부는 기업의 시가총액과 자금 조달 능력에 직접 영향을 미친다. 테슬라도 2020년 S&P 500 편입 당시 주가가 급등한 바 있어, 테슬라 투자자들은 이 메커니즘에 익숙하다.\n\n스페이스X는 비상장 기업으로 지수 직접 편입 대상은 아니었지만, 일부 방식으로 지수 연계 가능성이 거론됐다. S&P 측이 이를 공식 거부한 것은 머스크의 광대한 사업 제국에도 지수 관리자들이 '관문'으로 기능할 수 있다는 점을 명확히 보여준다.\n\n테슬라 주주 관점에서 이 사건은 테슬라와 머스크 관련 자산들이 금융 시스템 내에서 어떻게 평가받는지에 대한 힌트를 제공한다. S&P 등 지수 운영사가 기업 거버넌스·공시 기준을 엄격히 적용할수록, 테슬라의 이사회 독립성과 머스크의 경영 집중도도 지속적인 평가 대상이 될 수 있다.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-05/s-p-s-spacex-snub-shows-elon-musk-the-power-of-index-gatekeepers",
-      "hot": 6
     }
   ],
-  "asOf": "2026-06-12 09:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-12 17:30 KST 자동 갱신 · 최신순"
 }
