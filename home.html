@@ -69,9 +69,6 @@
   .nav__links{display:flex;align-items:center;gap:13px;font-size:13px;font-weight:700;color:var(--ink-mid)}
   .nav__links a{text-decoration:none}
   .nav__lang{border:1px solid var(--line);border-radius:99px;padding:4px 10px;font-size:11.5px;background:var(--card)}
-  .nav__cta{display:inline-flex;align-items:center;gap:5px;color:var(--red)}
-  .nav__cta-btn{width:20px;height:14px;border-radius:4px;background:var(--red);display:inline-flex;align-items:center;justify-content:center}
-  .nav__cta-label{font-size:12.5px;font-weight:800}
 
   /* ── 주가 티커 (sticky, 현행 데이터 훅 유지) ── */
   .price-bar{position:sticky;top:57px;z-index:25;background:rgba(242,244,246,.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line-mute)}
@@ -209,7 +206,8 @@
   .tabbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:440px;display:flex;background:rgba(255,255,255,.97);backdrop-filter:blur(10px);border-top:1px solid var(--line);padding:8px 0 14px;z-index:40}
   .tabbar a{flex:1;text-align:center;font-size:10.5px;color:var(--ink-mute);text-decoration:none;font-weight:700}
   .tabbar a.on{color:var(--ink)}
-  .tabbar .ic{display:block;font-size:19px;line-height:1.3}
+  .tabbar .ic{display:block;font-size:19px;line-height:1.3;height:25px}
+  .tabbar .ic svg{vertical-align:middle}
 </style>
 </head>
 <body>
@@ -221,7 +219,6 @@
     <a class="brand" href="/" aria-label="Tesla Briefing — 홈">Tesla Brief<em>!</em>ng</a>
     <nav class="nav__links" aria-label="Primary">
       <a class="nav__lang" href="/en/" hreflang="en" aria-label="English">EN</a>
-      <a class="nav__cta" href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener" aria-label="YouTube 채널 (새 창)"><span class="nav__cta-btn" aria-hidden="true"><svg width="9" height="9" viewBox="0 0 24 24" fill="#fff"><path d="M8 5v14l11-7z"/></svg></span><span class="nav__cta-label">YouTube</span></a>
     </nav>
   </div>
 </header>
@@ -356,7 +353,7 @@
   <a class="on" href="/" aria-current="page"><span class="ic">🏠</span>홈</a>
   <a href="news.html"><span class="ic">📰</span>전체뉴스</a>
   <a href="#calendar"><span class="ic">📅</span>캘린더</a>
-  <a href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener"><span class="ic">▶️</span>유튜브</a>
+  <a href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener"><span class="ic"><svg viewBox="0 0 24 24" width="21" height="21" aria-hidden="true"><path fill="#FF0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.546 15.568V8.432L15.818 12l-6.272 3.568z"/></svg></span>YouTube</a>
 </nav>
 
 </div><!-- /.page -->

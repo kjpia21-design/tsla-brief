@@ -491,7 +491,8 @@ function renderAllCards(cards, { lang = "ko" } = {}) {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
     const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
-    const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
+    const catLabel = (lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel || "")
+      .replace(/^[A-Z]+ · /, "");   // 토스형 칩 — 접두사 제거(메인과 동일)
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
           <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c, lang)}
@@ -514,7 +515,8 @@ function renderAllCards(cards, { lang = "ko" } = {}) {
 function newsIndexEntry(c, lang = "ko") {
   const cls = CATEGORY_CLASS[c.category] || "is-stock";
   const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
-  const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
+  const catLabel = (lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel || "")
+    .replace(/^[A-Z]+ · /, "");   // 토스형 칩 — 접두사 제거(메인과 동일)
   const titleF = fld(c, "title", lang), bodyF = fld(c, "body", lang);
   const titlePlain = titleF.replace(/<\/?em>/g, "");
   return {
