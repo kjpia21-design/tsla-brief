@@ -1,6 +1,19 @@
 {
-  "asOf": "2026-06-12 18:11 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-12 18:15 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "35m ago",
+      "pubDate": "2026-06-12T17:40:23.000Z",
+      "title": "Wall Connector for Business sites that opened in the last 2 weeks (32 sites, 219 total Wall Connectors across public …",
+      "body": "Wall Connector for Business sites that opened in the last 2 weeks (32 sites, 219 total Wall Connectors across public and private properties). Learn more about Wall Connector for Business: https://t.co/8B4XsiWHxR - Wilshi…",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2065489405595574675"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -39,19 +52,6 @@
       "slug": "",
       "summary": "",
       "href": "https://247wallst.com/investing/2026/06/12/tesla-vs-byd-the-better-ev-stock-to-buy-in-june/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-12T16:26:25.000Z",
-      "title": "Forget Tesla: This Magnificent 7 Stock This Wins Every Time",
-      "body": "Forget Tesla: This Magnificent 7 Stock This Wins Every Time MSN",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.msn.com/en-us/money/personalfinance/forget-tesla-this-magnificent-7-stock-this-wins-every-time/ar-AA25irOg"
     },
     {
       "category": "musk",
@@ -130,6 +130,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/features/2026-spacex-ipo-elon-musk-trillionaire/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-06-12T13:30:48.000Z",
+      "title": "Tesla May Not Exist In 5 Years (Rating Upgrade) (NASDAQ:TSLA)",
+      "body": "Tesla May Not Exist In 5 Years (Rating Upgrade) (NASDAQ:TSLA) Seeking Alpha",
+      "sourceName": "Seeking Alpha",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://seekingalpha.com/article/4914535-tesla-may-not-exist-in-5-years-rating-upgrade"
     },
     {
       "category": "musk",
@@ -221,19 +234,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2065312213074915755"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
-      "pubDate": "2026-06-12T04:43:50.000Z",
-      "title": "New Tesla Supercharger: Leirfjord, Norway (8 stalls)",
-      "body": "New Tesla Supercharger: Leirfjord, Norway (8 stalls) https://t.co/dRx0lMwJyE https://t.co/2eXatyKkJP",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2065293977398788439"
     },
     {
       "category": "fsd",
