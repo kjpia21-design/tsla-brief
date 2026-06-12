@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "27m ago",
+      "pubDate": "2026-06-12T00:23:48.000Z",
+      "title": "테슬라, 국내 파주 자유로에 <em>슈퍼차저 8기</em> 신규 개설",
+      "hotShort": "테슬라, 파주 자유로 <em>슈퍼차저 8기</em> 개설",
+      "body": "테슬라 공식 충전 계정이 한국 파주 자유로에 8기 슈퍼차저를 신규 개설했다고 발표했다 — 수도권 서북부 핵심 간선도로인 자유로에 테슬라 급속 충전 인프라가 추가되며 국내 장거리 주행 편의가 확대됐다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-paju-korea-jayu-ro-2026-06-12",
+      "summary": "테슬라 공식 충전 계정(@TeslaCharging)이 6월 12일 한국 경기도 파주시 자유로에 8기 슈퍼차저(Supercharger)를 신규 개설했다고 발표했다. 자유로는 서울 마포구에서 파주시를 연결하는 수도권 서북부의 핵심 고속화도로로, 이번 개설로 서울 도심에서 임진강 방향 장거리 주행 중 테슬라 급속 충전이 가능해졌다.\n\n슈퍼차저는 테슬라가 직접 운영하는 DC 급속 충전 네트워크다. 테슬라는 한국에서 슈퍼차저 네트워크를 꾸준히 확장해왔으며, 국내 전기차 보급 확대와 함께 충전 인프라 투자를 늘리고 있다. 파주 자유로 스테이션의 충전기 타입과 출력 세부 사항은 공식 테슬라 앱 또는 원문 링크에서 확인할 수 있다.\n\n테슬라 주주 관점에서 슈퍼차저 확장은 두 가지 의미를 갖는다. 첫째, 충전 인프라 밀도가 높아질수록 테슬라 차량의 구매 장벽이 낮아져 판매 확대에 기여한다. 둘째, 슈퍼차저 네트워크는 비(非)테슬라 차량에도 개방되면서 독립적인 충전 수익원으로 성장하고 있어, 에너지 서비스 사업의 장기 매출 기반이 된다.",
+      "title_en": "Tesla opens an <em>8-stall Supercharger</em> on Jayu-ro, Paju, South Korea",
+      "hotShort_en": "New Supercharger: <em>Paju, South Korea</em>",
+      "body_en": "Tesla Charging announced a new 8-stall Supercharger on Jayu-ro in Paju, South Korea — a major arterial expressway northwest of Seoul — expanding Tesla's fast-charging coverage along one of the metropolitan area's busiest northwest corridors.",
+      "summary_en": "Tesla Charging (@TeslaCharging) announced on June 12 the opening of a new 8-stall Supercharger on Jayu-ro in Paju City, Gyeonggi Province, South Korea. Jayu-ro is the main high-speed arterial road connecting central Seoul's Mapo district with Paju, and the new station brings Tesla DC fast-charging to one of the busiest northwest Seoul metro corridors.\n\nThe Supercharger is Tesla's proprietary DC fast-charging network. Tesla has been steadily expanding its Supercharger footprint in South Korea in step with growing domestic EV adoption. Hardware details and output for the Paju station are available in the Tesla app or at the source link.\n\nFor Tesla shareholders, Supercharger expansion contributes on two fronts. First, denser charging coverage reduces range anxiety — still one of the most commonly cited barriers to EV purchase — supporting vehicle sales. Second, since Tesla opened Superchargers to non-Tesla EVs, the network has evolved into an independent charging revenue stream, building long-term upside within Tesla's Energy and Services business.",
+      "href": "https://x.com/TeslaCharging/status/2065228540535263663",
+      "sentiment": "bull",
+      "hot": 3
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "11m ago",
@@ -1926,21 +1946,7 @@
       "summary": "블룸버그는 S&P 글로벌이 스페이스X를 주요 주가지수에 편입하지 않기로 결정하면서, 일론 머스크조차 거스를 수 없는 금융 인프라의 권력이 재확인됐다고 보도했다.\n\nS&P 500·S&P 1500 같은 지수에 포함되면 패시브 펀드의 의무 매수로 이어지기 때문에, 지수 편입 여부는 기업의 시가총액과 자금 조달 능력에 직접 영향을 미친다. 테슬라도 2020년 S&P 500 편입 당시 주가가 급등한 바 있어, 테슬라 투자자들은 이 메커니즘에 익숙하다.\n\n스페이스X는 비상장 기업으로 지수 직접 편입 대상은 아니었지만, 일부 방식으로 지수 연계 가능성이 거론됐다. S&P 측이 이를 공식 거부한 것은 머스크의 광대한 사업 제국에도 지수 관리자들이 '관문'으로 기능할 수 있다는 점을 명확히 보여준다.\n\n테슬라 주주 관점에서 이 사건은 테슬라와 머스크 관련 자산들이 금융 시스템 내에서 어떻게 평가받는지에 대한 힌트를 제공한다. S&P 등 지수 운영사가 기업 거버넌스·공시 기준을 엄격히 적용할수록, 테슬라의 이사회 독립성과 머스크의 경영 집중도도 지속적인 평가 대상이 될 수 있다.",
       "href": "https://www.bloomberg.com/news/articles/2026-06-05/s-p-s-spacex-snub-shows-elon-musk-the-power-of-index-gatekeepers",
       "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-06-05T18:08:17.000Z",
-      "title": "모델 3 특정 트림, <em>무료 슈퍼차징</em> 혜택 — 기한 임박",
-      "body": "테슬라가 모델 3 일부 트림 구매자를 대상으로 무료 슈퍼차징 혜택을 한시 제공 중이다. 테슬라라티에 따르면 종료 기한이 공식화되어, 관심 있는 구매자는 서둘러야 한다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-model3-free-supercharging-2026-06-05",
-      "summary": "테슬라가 모델 3의 특정 트림 구매자에게 무료 슈퍼차징(Free Supercharging) 혜택을 한시적으로 제공하고 있다. 테슬라라티(Teslarati)가 이 혜택의 존재와 공식 종료 기한을 보도하며 관심을 끌었다.\n\n테슬라가 제공하는 무료 슈퍼차징은 단순 프로모션처럼 보이지만, 차량 구매자 입장에서 실질적인 비용 절감 수단이다. 장거리 주행 기회가 많은 이용자나 자택 충전이 어려운 아파트 거주자라면 혜택 기간 동안 수십만 원에서 수백만 원의 충전비를 아낄 수 있다. 테슬라는 종료 기한을 설정함으로써 잠재 구매자의 의사결정을 앞당기는 긴박감(urgency) 마케팅을 구사하고 있다.\n\n이번 혜택은 모델 3 전 트림이 아닌 특정 트림에 한정된다. 어떤 트림에 해당하는지는 테슬라 공식 홈페이지에서 확인이 필요하다. 2분기(4~6월)는 테슬라가 인도량 목표를 채우기 위해 판매 촉진에 집중하는 시기로, 이런 혜택이 종종 분기 말에 집중되는 경향이 있다.\n\n주주 관점에서 무료 슈퍼차징 혜택은 직접 가격 할인보다 마진 부담이 적으면서도 소비자의 체감 가성비를 높이는 전략이다. 2분기 인도량이 반등 추세를 이어가는지 여부는 7월 초 발표될 Q2 인도 리포트에서 확인된다.\n\n다음 트리거: 테슬라 Q2 2026 인도량 발표(7월 초), 프로모션 기한 만료 후 연장 여부, 경쟁사(BYD·현대) 대응 인센티브 전략, 모델 3 트림별 구체적 혜택 조건 공개.",
-      "href": "https://www.teslarati.com/tesla-model-3-tasty-supercharging-incentive-ending-soon/",
-      "hot": 5
     }
   ],
-  "asOf": "2026-06-12 07:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-12 09:50 KST 자동 갱신 · 최신순"
 }
