@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-12 14:20 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-12 15:29 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-12T13:40:00.000Z",
+      "title": "Five Ways to Measure Musk's Fortune if It Hits $1 Trillion",
+      "body": "Five Ways to Measure Musk's Fortune if It Hits $1 Trillion Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/features/2026-spacex-ipo-elon-musk-trillionaire/"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "50m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-12T13:30:48.000Z",
       "title": "Tesla May Not Exist In 5 Years (Rating Upgrade) (NASDAQ:TSLA)",
       "body": "Tesla May Not Exist In 5 Years (Rating Upgrade) (NASDAQ:TSLA) Seeking Alpha",
@@ -17,20 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-12T13:04:37.000Z",
-      "title": "Can officially say I’m a SpaceX shareholder $SPCX",
-      "body": "Can officially say I’m a SpaceX shareholder $SPCX",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2065420003789156650"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-12T12:58:59.000Z",
       "title": "'Absolutely likely' Musk will combine Tesla and SpaceX: Ex-Tesla board member",
       "body": "'Absolutely likely' Musk will combine Tesla and SpaceX: Ex-Tesla board member CNBC",
@@ -41,9 +41,35 @@
       "href": "https://www.cnbc.com/video/2026/06/12/expect-elon-musk-to-combine-tesla-and-spacex-ex-tesla-board-member.html"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-12T12:43:53.000Z",
+      "title": "$Tesla (TSLA.US)$",
+      "body": "$Tesla (TSLA.US)$ Moomoo",
+      "sourceName": "Moomoo",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.moomoo.com/community/feed/tesla-tsla-us-116737194917893?chain_id"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
+      "pubDate": "2026-06-12T12:40:53.000Z",
+      "title": "SpaceX (SPCX) IPO is live today at $135: Here’s exactly what you need to know",
+      "body": "SpaceX (SPCX) IPO is live today at $135: Here’s exactly what you need to know Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/spacex-ipo-day-june-12-2026/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
       "pubDate": "2026-06-12T12:40:00.000Z",
       "title": "Tesla vs. SpaceX: Which Elon Musk Stock Will Be Worth More?",
       "body": "Tesla vs. SpaceX: Which Elon Musk Stock Will Be Worth More? Barron's",
@@ -56,7 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-12T12:38:31.000Z",
       "title": "Tesla (TSLA) Sees Projected Q2 Deliveries Rise, Analyst Cautions on Demand Trends",
       "body": "Tesla (TSLA) Sees Projected Q2 Deliveries Rise, Analyst Cautions on Demand Trends GuruFocus",
@@ -69,33 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-12T12:18:44.000Z",
-      "title": "\"As long as there's at least one AI that is maximally truth seeking, curious and treats human lives equally, does not…",
-      "body": "\"As long as there's at least one AI that is maximally truth seeking, curious and treats human lives equally, does not favor one race or gender, people are able to look at Grok and compare. That will force the other AI co…",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2065408456740249907"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-12T11:34:32.000Z",
-      "title": "Kovack Advisors Inc. Purchases 41,573 Shares of Tesla, Inc. $TSLA",
-      "body": "Kovack Advisors Inc. Purchases 41,573 Shares of Tesla, Inc. $TSLA MarketBeat",
-      "sourceName": "MarketBeat",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-kovack-advisors-inc-purchases-41573-shares-of-tesla-inc-tsla-2026-06-12/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-12T11:22:37.000Z",
       "title": "Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation",
       "body": "Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation CNBC",
@@ -108,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-12T11:09:47.000Z",
       "title": "Tesla (TSLA) Stock And Robotaxi Progress Put Lofty Valuation In The Spotlight",
       "body": "Tesla (TSLA) Stock And Robotaxi Progress Put Lofty Valuation In The Spotlight Yahoo Finance",
@@ -121,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-12T08:59:10.000Z",
       "title": "One key difference between real-world AI and digital agentic systems is how we treat time. In the real world, time is…",
       "body": "One key difference between real-world AI and digital agentic systems is how we treat time. In the real world, time is continuous and cannot be stopped. In the digital world, time is discretized and can be paused. Thus, c…",
@@ -134,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-12T08:50:45.000Z",
       "title": "New Tesla Supercharger: Mascot, NSW, Australia (7 stalls)",
       "body": "New Tesla Supercharger: Mascot, NSW, Australia (7 stalls) https://t.co/Mko1cuWnaK https://t.co/bsivsRIFkS",
@@ -147,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-12T06:24:27.000Z",
       "title": "Received something special just in time before the IPO. X Money for SPCX.",
       "body": "Received something special just in time before the IPO. X Money for SPCX. https://t.co/FXawtKN2h0",
@@ -160,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-12T06:05:33.000Z",
       "title": "Keeping the power on during blackouts",
       "body": "Keeping the power on during blackouts https://t.co/y4Sbeqq3wO",
@@ -173,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-12T05:56:17.000Z",
       "title": "New Tesla Supercharger: Uljin, South Korea - Eupnae-ri (4 stalls)",
       "body": "New Tesla Supercharger: Uljin, South Korea - Eupnae-ri (4 stalls) https://t.co/ZBwnVwScS6 https://t.co/9eKV7rzN5Q",
@@ -186,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-12T04:43:50.000Z",
       "title": "New Tesla Supercharger: Leirfjord, Norway (8 stalls)",
       "body": "New Tesla Supercharger: Leirfjord, Norway (8 stalls) https://t.co/dRx0lMwJyE https://t.co/2eXatyKkJP",
@@ -199,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-12T04:22:52.000Z",
       "title": "Full Self-Driving is the only world model that can take you traveling around the world. 🌎",
       "body": "Full Self-Driving is the only world model that can take you traveling around the world. 🌎",
@@ -212,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-12T03:26:00.000Z",
       "title": "JPMorgan Echoes Why Tesla, Inc. (TSLA) is One of the Best Forever Stocks to Buy",
       "body": "JPMorgan Echoes Why Tesla, Inc. (TSLA) is One of the Best Forever Stocks to Buy Yahoo Finance",
@@ -225,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-12T00:23:48.000Z",
       "title": "New Tesla Supercharger: Paju, South Korea - Jayu-ro (8 stalls)",
       "body": "New Tesla Supercharger: Paju, South Korea - Jayu-ro (8 stalls) https://t.co/13iyIz3uDE https://t.co/QDqIkPpJ0a",
@@ -238,7 +238,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-12T00:02:58.000Z",
       "title": "My takeaway from this eval is whether you want an AI companion to maximize your survival or its own survival. I would…",
       "body": "My takeaway from this eval is whether you want an AI companion to maximize your survival or its own survival. I would take the former at any given time. https://t.co/5tRfZvHYfy",
@@ -251,7 +251,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "21h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-11T17:31:30.000Z",
       "title": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio",
       "body": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio Yahoo Finance",
