@@ -14,13 +14,9 @@
 <meta property="og:image" content="https://teslabriefing.com/assets/og-image.png">
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.3/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap">
-<!-- BLOCK:EN_FONTS --><!-- /BLOCK:EN_FONTS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
-  /* 영어(/en/): 본문 Inter, 헤드라인 Newsreader 세리프 */
-  html[lang="en"] body{font-family:"Inter",system-ui,-apple-system,sans-serif}
-  html[lang="en"] h1,html[lang="en"] h2,html[lang="en"] .cats__title,html[lang="en"] .ccard h3{font-family:"Newsreader",Georgia,"Times New Roman",serif}
+  /* 메인(토스형)과 동일 폰트 — Pretendard 단일 (KO·EN 공통, Pretendard Latin = Inter 기반) */
   :root{
     /* LIGHT 테마 — 흰 배경 + 진한 글자 (다크 헐레이션 가독성 문제 근본 해결) */
     --bg:#f2f4f6; --bg-2:#FFFFFF; --bg-3:#EDEDF1;   /* 메인(토스형)과 동일 캔버스 */
@@ -39,14 +35,15 @@
   *{box-sizing:border-box}
   html,body{margin:0;padding:0}
   body{
-    background:var(--bg) var(--bg-grad);color:var(--ink);
-    font-family:"Wanted Sans Variable","Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
-    line-height:1.6;font-size:15px;-webkit-font-smoothing:antialiased;
-    padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right);
+    background:#e9ebee;color:var(--ink);
+    font-family:"Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    line-height:1.6;font-size:15px;-webkit-font-smoothing:antialiased;letter-spacing:-.02em;
   }
   a{color:inherit;text-decoration:none}
   img,svg,object{display:block;max-width:100%}
-  .wrap{max-width:var(--max-w);margin:0 auto;padding-left:var(--gutter);padding-right:var(--gutter)}
+  /* 메인과 동일 — 440px 모바일 칼럼 중앙 */
+  .page{max-width:440px;margin:0 auto;background:var(--bg);min-height:100vh;box-shadow:0 0 32px rgba(0,0,0,.06)}
+  .wrap{padding-left:16px;padding-right:16px}
 
   /* nav */
   .nav{position:sticky;top:0;z-index:50;background:rgba(242,244,246,.93);backdrop-filter:blur(14px) saturate(140%);-webkit-backdrop-filter:blur(14px) saturate(140%);border-bottom:1px solid var(--line-mute)}
@@ -55,26 +52,25 @@
   /* 워드마크 로고 — Tesla(red) + Brief!ng('!'만 red). 메인 페이지와 동일. */
   .brand{display:inline-flex;align-items:baseline;gap:5px;text-decoration:none}
   .brand__block{
-    font-family:"Wanted Sans Variable","Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:700;font-size:20px;
+    font-weight:700;font-size:20px;
     color:var(--tesla-red);letter-spacing:-0.02em;line-height:1;flex-shrink:0;
   }
   .brand__text{
-    font-family:"Wanted Sans Variable","Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:800;font-size:20px;
+    font-weight:800;font-size:20px;
     color:var(--ink);letter-spacing:-0.02em;line-height:1;font-style:normal;
     white-space:nowrap;
   }
   .brand__text em{color:var(--tesla-red);font-style:normal;font-weight:800}
   @media (min-width:768px){ .brand__block{font-size:17px} .brand__text{font-size:17px} }
-  .nav__back{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mid);padding:8px 14px;border:1px solid var(--line);border-radius:var(--r-pill);transition:color var(--ease),border-color var(--ease)}
+  .nav__back{font-size:12px;color:var(--ink-mid);padding:8px 14px;border:1px solid var(--line);border-radius:var(--r-pill);transition:color var(--ease),border-color var(--ease)}
   .nav__back:hover{color:var(--ink);border-color:var(--ink-mid)}
 
-  /* page head */
-  .page-head{padding-top:28px;padding-bottom:18px}
-  .page-head__eyebrow{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10.5px;letter-spacing:.22em;color:var(--tesla-red);text-transform:uppercase;font-weight:700;display:inline-flex;align-items:center;gap:8px}
-  .page-head__eyebrow::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--tesla-red);box-shadow:0 0 10px var(--tesla-red)}
-  .page-head h1{font-size:clamp(28px,5.5vw,40px);font-weight:800;letter-spacing:-0.022em;color:var(--ink);margin:14px 0 4px;line-height:1.2}
-  .page-head__sub{color:var(--ink-mute);font-size:13px;font-family:"IBM Plex Mono",ui-monospace,monospace;letter-spacing:.04em}
-  .cats__fresh{display:inline-block;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mid);font-weight:600;letter-spacing:.02em}
+  /* page head — 메인 섹션 헤더와 동일 리듬 */
+  .page-head{padding-top:18px;padding-bottom:10px}
+  .page-head__eyebrow{display:none}
+  .page-head h1{font-size:20px;font-weight:800;letter-spacing:-.02em;color:var(--ink);margin:0 0 3px;line-height:1.3}
+  .page-head__sub{color:var(--ink-mute);font-size:11px;margin:0}
+  .cats__fresh{display:inline-block;font-size:12px;color:var(--ink-mid);font-weight:600;letter-spacing:.02em}
 
   /* cards grid (home 의 .ccard 스타일 그대로) */
   .cats__grid{display:grid;grid-template-columns:1fr;gap:12px;padding:14px 0 56px}
@@ -113,7 +109,7 @@
   .src .d-sec{background:#16A34A} .src .d-off{background:#8B5CF6} .src .d-press{background:#0EA5A4} .src .d-rumor{background:#9AA1AC}
   .src-name{display:inline-flex;align-items:center;gap:6px;color:var(--ink-mid);font-weight:600;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
   .src-name .d{flex-shrink:0}
-  .src-legend{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;margin:0 0 18px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--bg-2);font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px}
+  .src-legend{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;margin:0 0 18px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--bg-2);font-size:11px}
   .src-legend__items{display:flex;flex-wrap:wrap;gap:8px 16px;color:var(--ink-mid)}
   .src-legend__items span{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
   .src-legend__items .d{width:8px;height:8px;border-radius:2px;flex-shrink:0}
@@ -124,7 +120,7 @@
   .src-legend__how summary::before{content:"ⓘ";font-size:12px;color:var(--tesla-red)}
   .src-legend__how summary:hover{color:var(--ink)}
   .src-legend__how[open] summary{color:var(--ink);margin-bottom:8px}
-  .src-legend__how p{flex-basis:100%;margin:0;color:var(--ink-mute);font-family:"Pretendard Variable",system-ui,sans-serif;font-size:12px;line-height:1.7;max-width:78ch}
+  .src-legend__how p{flex-basis:100%;margin:0;color:var(--ink-mute);font-size:12px;line-height:1.7;max-width:78ch}
   .src-legend__how[open]{flex-basis:100%}
   @media (max-width:640px){.src-legend__how{margin-left:0}}
   .ccard__cta{display:none}   /* 메인과 동일 — 카드 전체가 링크라 화살표 불필요 */
@@ -133,45 +129,42 @@
   .ccard.is-fsd     { --cat-color: var(--c-fsd); }
   .ccard.is-musk    { --cat-color: var(--c-musk); }
 
-  /* footer */
-  footer{border-top:1px solid var(--line-mute);padding:32px 0 calc(24px + env(safe-area-inset-bottom));margin-top:24px;color:var(--ink-mute)}
-  .footer__inner{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.04em;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
-  .footer__inner a{color:var(--ink-mid)}
-  .footer__inner a:hover{color:var(--ink)}
+  /* footer — 메인풍(센터) + 탭바 공간 */
+  footer{padding:20px 0 96px;color:var(--ink-mute)}
+  .footer__inner{font-size:10.5px;display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;line-height:1.7}
+  .footer__inner a{color:var(--ink-mid);font-weight:600}
+  /* 하단 탭바 — 메인과 동일 */
+  .tabbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:440px;display:flex;background:rgba(255,255,255,.97);backdrop-filter:blur(10px);border-top:1px solid var(--line);padding:8px 0 14px;z-index:40}
+  .tabbar a{flex:1;text-align:center;font-size:10.5px;color:var(--ink-mute);text-decoration:none;font-weight:700}
+  .tabbar a.on{color:var(--ink)}
+  .tabbar .ic{display:block;font-size:19px;line-height:1.3;height:25px}
+  .tabbar .ic svg{vertical-align:middle;display:inline}
 
-  @media (min-width:768px){
-    .cats__grid{grid-template-columns:repeat(2,1fr);gap:14px}
-    .ccard{padding:16px 18px 14px;gap:10px}
-    .ccard h3{font-size:16.5px;-webkit-line-clamp:3}
-    .ccard__body{font-size:13px;-webkit-line-clamp:3}
-  }
-  @media (min-width:1100px){
-    .cats__grid{grid-template-columns:repeat(3,1fr)}
-  }
+  /* 메인과 동일 — 모든 화면 1컬럼(440 칼럼이라 멀티컬럼 불필요) */
 
   /* 필터 + 검색 바 */
-  .news-filter{display:flex;flex-wrap:wrap;gap:10px 12px;align-items:center;justify-content:space-between;margin:0 0 16px}
-  .news-filter__cats{display:flex;flex-wrap:wrap;gap:6px}
-  .nf-cat{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:600;color:var(--ink-mid);background:var(--bg-2);border:1px solid var(--line);border-radius:999px;padding:7px 13px;cursor:pointer;transition:background .15s,color .15s,border-color .15s;-webkit-tap-highlight-color:transparent}
-  .nf-cat:hover{border-color:var(--ink-mid)}
-  .nf-cat.is-active{background:var(--tesla-red);color:#fff;border-color:var(--tesla-red)}
-  .news-filter__search{flex:1;min-width:180px;max-width:340px;font-size:14px;font-family:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:9px 16px;outline:none;transition:border-color .15s}
-  .news-filter__search:focus{border-color:var(--tesla-red)}
-  .news-filter__count{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mute);margin:0 0 14px}
+  /* 필터 칩 — 메인(.fc)과 동일 */
+  .news-filter{display:flex;flex-direction:column;gap:10px;margin:0 0 12px}
+  .news-filter__cats{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+  .news-filter__cats::-webkit-scrollbar{display:none}
+  .nf-cat{flex:none;border:0;background:var(--bg-2);color:var(--ink-mid);font:700 13px/1 "Pretendard Variable",Pretendard,sans-serif;padding:9px 15px;border-radius:999px;cursor:pointer;box-shadow:0 1px 2px rgba(0,0,0,.04);-webkit-tap-highlight-color:transparent}
+  .nf-cat.is-active{background:var(--ink);color:#fff}
+  .news-filter__search{width:100%;font-size:14px;font-weight:600;font-family:inherit;color:var(--ink);background:var(--bg-2);border:0;border-radius:12px;padding:12px 16px;outline:none;box-shadow:0 1px 3px rgba(0,0,0,.04)}
+  .news-filter__search::placeholder{color:var(--ink-mute);font-weight:500}
+  .news-filter__count{font-size:11px;color:var(--ink-mute);margin:0 0 12px;font-weight:600}
   .news-empty{text-align:center;color:var(--ink-mute);padding:44px 0;font-size:15px}
   /* 페이지네이션 */
-  .news-page{display:flex;align-items:center;justify-content:center;gap:14px;margin:26px 0 8px}
-  .news-page__btn{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:13px;font-weight:600;color:var(--ink);background:var(--bg-2);border:1px solid var(--line);border-radius:999px;padding:9px 17px;cursor:pointer;transition:border-color .15s,color .15s;-webkit-tap-highlight-color:transparent}
-  .news-page__btn:hover:not(:disabled){border-color:var(--tesla-red);color:var(--tesla-red)}
+  .news-page{display:flex;align-items:center;justify-content:center;gap:14px;margin:22px 0 8px}
+  .news-page__btn{font-size:13px;font-weight:700;color:var(--ink-mid);background:var(--bg-2);border:0;border-radius:999px;padding:10px 17px;cursor:pointer;box-shadow:0 1px 2px rgba(0,0,0,.04);-webkit-tap-highlight-color:transparent}
   .news-page__btn:disabled{opacity:.38;cursor:default}
-  .news-page__info{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12.5px;color:var(--ink-mute);min-width:62px;text-align:center}
+  .news-page__info{font-size:12px;color:var(--ink-mute);min-width:62px;text-align:center;font-weight:600;font-variant-numeric:tabular-nums}
   @media (max-width:560px){
     .news-filter__search{max-width:none;width:100%}
   }
   /* ── 디자인 폴리시 ───────────────────────────────── */
   /* 날짜 그룹 헤더 — KST 날짜 경계, nav(56px) 아래 sticky */
   .news-dhdr{position:sticky;top:56px;z-index:8;margin:6px 0 -4px;padding:7px 2px;background:rgba(242,244,246,.93);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
-  .news-dhdr span{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--ink-mute);text-transform:uppercase;display:inline-flex;align-items:center;gap:8px}
+  .news-dhdr span{font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--ink-mute);text-transform:uppercase;display:inline-flex;align-items:center;gap:8px}
   .news-dhdr span::after{content:"";height:1px;width:34px;background:var(--line)}
   /* 신규 기사(2시간 내) — 카테고리 라벨 옆 4px 점, 1회 페이드인 */
   .ccard.is-new .ccard__cat::after{content:"";display:inline-block;width:4px;height:4px;border-radius:50%;background:var(--tesla-red);margin-left:6px;vertical-align:2px;animation:newdot .5s ease 1 both}
@@ -185,6 +178,7 @@
 </style>
 </head>
 <body>
+<div class="page">
 
 <header class="nav">
   <div class="wrap nav__inner">
@@ -245,6 +239,16 @@
     <span><a href="index.html">← 홈으로 돌아가기</a></span>
   </div>
 </footer>
+
+<!-- 하단 탭바 — 메인과 동일 -->
+<nav class="tabbar" aria-label="하단 메뉴">
+  <a href="index.html"><span class="ic">🏠</span>홈</a>
+  <a class="on" href="news.html" aria-current="page"><span class="ic">📰</span>전체뉴스</a>
+  <a href="index.html#calendar"><span class="ic">📅</span>캘린더</a>
+  <a href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener"><span class="ic"><svg viewBox="0 0 24 24" width="21" height="21" aria-hidden="true"><path fill="#FF0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.546 15.568V8.432L15.818 12l-6.272 3.568z"/></svg></span>YouTube</a>
+</nav>
+
+</div><!-- /.page -->
 
 
 <script>
