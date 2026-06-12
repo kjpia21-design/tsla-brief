@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-12 02:45 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-12 04:40 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "18m ago",
+      "pubDate": "2026-06-12T04:22:52.000Z",
+      "title": "Full Self-Driving is the only world model that can take you traveling around the world. 🌎",
+      "body": "Full Self-Driving is the only world model that can take you traveling around the world. 🌎",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2065288703195684945"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-12T03:36:24.000Z",
+      "title": "JPMorgan Echoes Why Tesla, Inc. (TSLA) is One of the Best Forever Stocks to Buy",
+      "body": "JPMorgan Echoes Why Tesla, Inc. (TSLA) is One of the Best Forever Stocks to Buy Insider Monkey",
+      "sourceName": "Insider Monkey",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.insidermonkey.com/blog/jpmorgan-echoes-why-tesla-inc-tsla-is-one-of-the-best-forever-stocks-to-buy-1779312/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-12T02:57:00.000Z",
+      "title": "SpaceX's IPO brings Elon Musk closer to becoming the world's first trillionaire",
+      "body": "SpaceX's IPO brings Elon Musk closer to becoming the world's first trillionaire Yahoo Finance UK",
+      "sourceName": "Yahoo Finance UK",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://uk.finance.yahoo.com/news/spacexs-ipo-brings-elon-musk-025713639.html"
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-12T00:23:48.000Z",
       "title": "New Tesla Supercharger: Paju, South Korea - Jayu-ro (8 stalls)",
       "body": "New Tesla Supercharger: Paju, South Korea - Jayu-ro (8 stalls) https://t.co/13iyIz3uDE https://t.co/QDqIkPpJ0a",
@@ -15,22 +54,9 @@
       "href": "https://x.com/TeslaCharging/status/2065228540535263663"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-12T00:17:44.000Z",
-      "title": "The market is laser focused on the SpaceX IPO @BloombergTV 👇🍿",
-      "body": "The market is laser focused on the SpaceX IPO @BloombergTV 👇🍿 https://t.co/zv5oDTqoKa",
-      "sourceName": "Dan Ives (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/DivesTech/status/2065227014332620911"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-12T00:02:58.000Z",
       "title": "My takeaway from this eval is whether you want an AI companion to maximize your survival or its own survival. I would…",
       "body": "My takeaway from this eval is whether you want an AI companion to maximize your survival or its own survival. I would take the former at any given time. https://t.co/5tRfZvHYfy",
@@ -43,20 +69,20 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-11T23:54:07.000Z",
-      "title": "Robinhood Debuts Crypto Test Network With Tesla, Amazon, Palantir ‘Stock Tokens’",
-      "body": "Robinhood Debuts Crypto Test Network With Tesla, Amazon, Palantir ‘Stock Tokens’ Stocktwits",
+      "time": "5h ago",
+      "pubDate": "2026-06-11T23:34:30.000Z",
+      "title": "Tesla Wins Over Another Skeptic: JPMorgan Raises TSLA Stock Price Target By More Than 200%",
+      "body": "Tesla Wins Over Another Skeptic: JPMorgan Raises TSLA Stock Price Target By More Than 200% Stocktwits",
       "sourceName": "Stocktwits",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://stocktwits.com/news-articles/markets/cryptocurrency/robinhood-debuts-crypto-test-network-with-tesla-amazon-palantir-stock-tokens/cZb63VAR4q3"
+      "href": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-price-target-jpmorgan-increase-by-228-upgrade/cZ0F0Y1ReCc"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-11T22:48:00.000Z",
       "title": "Cybertruck Summon now rolling out with FSD Supervised v14.3.4",
       "body": "Cybertruck Summon now rolling out with FSD Supervised v14.3.4 https://t.co/qBgrRPDyZj",
@@ -69,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-11T22:39:20.000Z",
       "title": "Tesla FSD 14.3.4 rolling out now",
       "body": "Tesla FSD 14.3.4 rolling out now https://t.co/Lbtx2Yeo6i",
@@ -82,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-11T22:33:46.000Z",
       "title": "Peter’s eternal optimism is cool",
       "body": "Peter’s eternal optimism is cool https://t.co/awmmRyxj5n",
@@ -95,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-11T22:24:26.000Z",
       "title": "New Tesla Supercharger: Torrance, CA - Rolling Hills Road (16 stalls)",
       "body": "New Tesla Supercharger: Torrance, CA - Rolling Hills Road (16 stalls) https://t.co/r3KrTNtvp5 https://t.co/iC6d19QQRc",
@@ -108,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-11T22:22:11.000Z",
       "title": "SpaceX IPO makes Elon Musk the world's first trillionaire",
       "body": "SpaceX IPO makes Elon Musk the world's first trillionaire Reuters",
@@ -121,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-11T22:01:00.000Z",
       "title": "What Elon Musk Bought and Sold During His Quest to ‘Own No House’",
       "body": "What Elon Musk Bought and Sold During His Quest to ‘Own No House’ WSJ",
@@ -134,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-11T21:09:32.000Z",
       "title": "Scuba with Cybertruck in Austria",
       "body": "Scuba with Cybertruck in Austria https://t.co/uEOdC6B01W",
@@ -147,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-11T20:40:27.000Z",
       "title": "What Tesla's IPO tells us about SpaceX's listing",
       "body": "What Tesla's IPO tells us about SpaceX's listing CNBC",
@@ -160,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-11T19:46:26.000Z",
       "title": "FSD Supervised has superhuman reaction time",
       "body": "FSD Supervised has superhuman reaction time https://t.co/vt6dAgVqpu",
@@ -173,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-11T19:15:25.000Z",
       "title": "Tesla Inc Stock (TSLA) Moved Up by 3.09% on Jun 11: Facts Behind the Movement",
       "body": "Tesla Inc Stock (TSLA) Moved Up by 3.09% on Jun 11: Facts Behind the Movement TradingKey",
@@ -186,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-11T19:03:02.000Z",
       "title": "New Eagle Travel Center Supercharger: West, TX (4 stalls)  Learn more about Supercharger for Business:",
       "body": "New Eagle Travel Center Supercharger: West, TX (4 stalls) https://t.co/KrmZtU89IB Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/WUVQLDAGls",
@@ -197,22 +223,9 @@
       "href": "https://x.com/TeslaCharging/status/2065147813571486061"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-06-11T17:35:54.000Z",
-      "title": "Belgium is the 5th European country to approve FSD Supervised",
-      "body": "Belgium is the 5th European country to approve FSD Supervised https://t.co/KTZy4phU0v",
-      "sourceName": "Tesla (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/Tesla/status/2065125889239904445"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-11T17:31:30.000Z",
       "title": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio",
       "body": "Tesla, Inc. (TSLA) Is A Top Stock In Ken Griffin’s Portfolio Yahoo Finance",
@@ -223,35 +236,9 @@
       "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-top-stock-173130400.html"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
-      "pubDate": "2026-06-11T16:33:35.000Z",
-      "title": "The Number That Complicates The Tesla Stock Story",
-      "body": "The Number That Complicates The Tesla Stock Story Trefis",
-      "sourceName": "Trefis",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.trefis.com/stock/tsla/articles/602491/the-number-that-complicates-the-tesla-stock-story/2026-06-11"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
-      "pubDate": "2026-06-11T15:42:46.000Z",
-      "title": "Wall Street Analyst Claims Tesla Has Achieved “Level 4” Self-Driving",
-      "body": "Wall Street Analyst Claims Tesla Has Achieved “Level 4” Self-Driving CleanTechnica",
-      "sourceName": "CleanTechnica",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://cleantechnica.com/2026/06/11/wall-street-analyst-claims-tesla-has-achieved-level-4-self-driving/?amp"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-11T14:46:16.000Z",
       "title": "New Tesla Supercharger: Brașov, Romania (12 stalls) Voting Winner Site 🏆  Learn more about Supercharger Voting:",
       "body": "New Tesla Supercharger: Brașov, Romania (12 stalls) Voting Winner Site 🏆 https://t.co/S8BqNlAi96 Learn more about Supercharger Voting: https://t.co/CpFcz8MJcF https://t.co/Q38bRa9X1B",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2065083198992941147"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "49d ago",
+      "pubDate": "2026-04-23T23:11:52.000Z",
+      "title": "Tesla claims boost Giga Berlin production 20%, but numbers don’t add up",
+      "body": "Tesla lists Giga Berlin’s Model Y production capacity at more than 375,000 units per year — roughly 93,000 per quarter. The plant manager just celebrated a “record” Q1 2026 of 61,000 units and announced a 20% production …",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/04/23/tesla-giga-berlin-production-increase-still-below-capacity/"
     }
   ]
 }
