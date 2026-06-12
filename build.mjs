@@ -311,11 +311,21 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
   // 메인 노출 제목에서 연도(20xx) 제거 — 데이터엔 연도 유지, 화면만 간결화. en 은 title_en 우선.
   const stripYear = (t) => (t || "").replace(/\s*\b20\d{2}\b\s*/, " ").replace(/\s+/g, " ").trim();
   const evTitle = (e) => stripYear(lang === "en" ? (e.title_en || e.title) : e.title);
-  const tentChip = (e) => (e.tentative ? `<span class="ic__tent">${L.tent}</span>` : "");
-  const rows = upcoming.map((e) =>
-    `<li class="ic__row"><span class="ic__rdate">${escapeHtml(fmtCalDate(e.date, lang))}</span>`
-    + `<span class="ic__rtitle">${escapeHtml(evTitle(e))}${tentChip(e)}</span></li>`
-  ).join("\n          ");
+  // 토스형 카드 행 — 날짜(요일) | 이벤트명 | D-day 배지(최근접만 강조)
+  const todayMs = Date.parse(now.toISOString().slice(0, 10) + "T00:00:00Z");
+  const wdOf = (iso) => { const [y, m, d] = iso.split("-").map(Number); return WEEKDAY_EN[new Date(Date.UTC(y, m - 1, d)).getUTCDay()]; };
+  const mdOf = (iso) => {
+    const [, m, d] = iso.split("-").map(Number);
+    if (lang === "en") { const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]; return `${MON[m - 1]} ${d}`; }
+    return `${m}/${d}`;
+  };
+  const rows = upcoming.map((e) => {
+    const dd = Math.max(0, Math.round((Date.parse(e.date + "T00:00:00Z") - todayMs) / 86400000));
+    const txt = dd === 0 ? L.today : `D-${dd}`;
+    const hot = e === next ? " dd--hot" : "";
+    return `<div class="r"><span class="cd">${escapeHtml(mdOf(e.date))} <small>${escapeHtml(wdOf(e.date))}</small></span>`
+      + `<span class="ttl">${escapeHtml(evTitle(e))}</span><span class="dd${hot}">${txt}</span></div>`;
+  }).join("\n      ");
   // Event 구조화 데이터 — 검색엔진이 투자자 일정을 이벤트로 인식 (잠정 일정은 description에 명시)
   const eventsLd = JSON.stringify({
     "@context": "https://schema.org",
@@ -338,22 +348,10 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
     })),
   });
   return `<script type="application/ld+json">${eventsLd}</script>
-    <details class="ic">
-      <summary class="ic__bar">
-        <span class="ic__lead">${L.lead}</span>
-        <span class="ic__title">${escapeHtml(evTitle(next))}</span>
-        <span class="ic__date">${escapeHtml(fmtCalDate(next.date, lang))}</span>${tentChip(next)}
-        <span class="ic__dday">${ddayTxt}</span>
-        <span class="ic__cal" aria-hidden="true">📅</span>
-      </summary>
-      <div class="ic__panel">
-        <div class="ic__panelhead">${L.head}</div>
-        <ul class="ic__list">
-          ${rows}
-        </ul>
-        <p class="ic__foot">${L.foot}</p>
-      </div>
-    </details>`;
+    <div class="calcard">
+      ${rows}
+    </div>
+    <p class="calnote">${L.foot}</p>`;
 }
 
 // 주가 "방향성" 카드 — stock(주가·실적) 카테고리에서 "주가의" 급등/급락을 다루는 카드의 방향(up/down).
@@ -463,11 +461,13 @@ function cardBody(body) {
  */
 function renderCards(cards, { lang = "ko" } = {}) {
   const ctaLabel = lang === "en" ? "More" : "자세히";
-  const items = cards.items.slice(0, 5).map((c) => {
+  const items = cards.items.slice(0, 10).map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
     const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
-    const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel;
+    // 토스형 칩 — "STOCK · 주가·실적" → "주가·실적" (접두사는 색·아이콘이 아닌 텍스트 중복이라 제거)
+    const catLabel = (lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel || "")
+      .replace(/^[A-Z]+ · /, "");
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
           <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c, lang)}
@@ -630,6 +630,14 @@ const EN_FONT_LINKS = `<link rel="stylesheet" href="https://fonts.googleapis.com
 // 정적 UI 문구 한→영 (en 페이지 chrome). 긴 문자열을 앞에 둬 부분치환 방지. 카드 본문은 _en 으로 이미 영어.
 const UI_EN = [
   // 긴 문자열을 최상단에(부분치환 방지)
+  // 토스형 홈(B′) 신규 문자열 — 긴 것 먼저
+  ["실적·제품·FSD·일론까지, 흩어진 뉴스를 정리해 보내드립니다 · 평일 발행 · 무료", "Earnings, products, FSD and Elon — the scattered news, distilled · weekdays · free"],
+  ["매일 아침 7시, 한 통의 브리핑 📨", "One briefing, every morning at 7 📨"],
+  ["잠정 · ir.tesla.com 기준", "tentative · per ir.tesla.com"],
+  ["투자자 캘린더", "Investor Calendar"],
+  ["전체뉴스", "News"],
+  ["구독하기", "Subscribe"],
+  ["하단 메뉴", "Bottom menu"],
   // leaked chrome: 폼 메시지(JS) · JSON-LD · a11y 속성 · 빈 결과
   ["일치하는 뉴스가 없습니다. 다른 키워드나 카테고리를 시도해 보세요.", "No matching news — try a different keyword or category."],
   ["네트워크 오류입니다. 잠시 후 다시 시도해 주세요.", "Network error. Please try again shortly."],
@@ -683,6 +691,8 @@ const UI_EN = [
   ["← 이전", "← Prev"], ["다음 →", "Next →"],
   ["발행 매체로 이동", "Read on publisher"], ["관련 기사", "Related"], ["원본", "Original"],
   ["FSD·로보택시", "FSD"], ["최신순", "latest first"], ["전체", "All"],
+  // 짧은 단어는 맨 끝(긴 문자열 치환 후) — 탭바·푸터 라벨
+  ["캘린더", "Calendar"], ["유튜브", "YouTube"], ["홈", "Home"], ["문의", "Contact"],
 ];
 function langFinalize(html, lang) {
   if (html.includes("BLOCK:EN_FONTS")) html = replaceBlock(html, "EN_FONTS", lang === "en" ? EN_FONT_LINKS : "");
@@ -695,7 +705,10 @@ function langFinalize(html, lang) {
     .replace(/(href|src)="assets\//g, '$1="/assets/')    // 상대 자산 → 루트 절대(/en/ 하위경로 대응)
     .replace(/href="(about|privacy)\.html"/g, 'href="/$1.html"')    // 영문 about/privacy 미생성 → 한국어 루트로(404 방지)
     .replace(/teslabriefing\.com\/articles\//g, 'teslabriefing.com/en/articles/')   // 기사 canonical·og:url → /en/
-    .replace('<link rel="canonical" href="https://teslabriefing.com/news">', '<link rel="canonical" href="https://teslabriefing.com/en/news">');
+    .replace('<link rel="canonical" href="https://teslabriefing.com/news">', '<link rel="canonical" href="https://teslabriefing.com/en/news">')
+    // 등락색 로케일 — KO 한국식(상승 빨강/하락 파랑) → EN 미국식(상승 초록/하락 빨강). 홈 CSS 토큰 한 줄 치환.
+    .replace("--up:#f04452;--up-soft:#fdebec;--dn:#3182f6;--dn-soft:#e8f3ff;",
+             "--up:#16A34A;--up-soft:#e3f4e9;--dn:#EF4444;--dn-soft:#fdeaea;");
   for (const [ko, en] of UI_EN) html = html.split(ko).join(en);
   return html;
 }
@@ -991,8 +1004,13 @@ async function buildOneLang(opts) {
     ? `${escapeHtml(localizedCardsAsOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">${escapeHtml(fmtFreshLabel(cardsFreshSince, lang) || freshLabel)}</span>`
     : escapeHtml(localizedCardsAsOf);
   out = replaceBlock(out, "CARDS_TIME",  cardsAsOf);
-  out = replaceBlock(out, "CARDS_GRID",  renderCards(cards, { lang }));
-  out = replaceBlock(out, "VIDEOS_GRID", renderVideos(videos));
+  // 홈 피드 — archive(최신 100, dedup) 상위 10건. cards.json(4~6건)보다 풍부해 필터 칩이 의미를 가짐.
+  let feedCards = cards;
+  try {
+    const arcRaw = JSON.parse(await readFile(path.join(DATA_DIR, "archive.json"), "utf8"));
+    if (Array.isArray(arcRaw.items) && arcRaw.items.length) feedCards = { items: arcRaw.items };
+  } catch { /* archive 없으면 cards.json 폴백 */ }
+  out = replaceBlock(out, "CARDS_GRID",  renderCards(feedCards, { lang }));
   out = replaceBlock(out, "BUILD_INFO",  `<!-- build: ${buildIso} -->`);
 
   out = langFinalize(out, lang);
