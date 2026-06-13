@@ -146,6 +146,26 @@
       "hot": 7
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "14h ago",
+      "pubDate": "2026-06-12T17:40:23.000Z",
+      "title": "테슬라, 비즈니스 충전 네트워크 2주간 <em>32개 사이트</em> 확장 — 총 219개 운영",
+      "hotShort": "테슬라 비즈니스 충전, 2주간 <em>32개 사이트</em> 확장",
+      "body": "테슬라 공식 충전 계정이 최근 2주간 Wall Connector for Business 사이트 32곳이 새로 개설됐다고 밝혔다 — 공공·민간 부지를 포함한 전체 Wall Connector 총 수는 219개로 늘었으며, 주차장·사무용 건물·상업시설에 테슬라 충전 인프라가 빠르게 자리잡고 있음을 보여준다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-wall-connector-business-expansion-2026-06-12",
+      "summary": "Wall Connector for Business는 테슬라가 사업장(사무실·주차장·호텔·쇼핑몰 등)에 기업 전용 충전 솔루션을 구축할 수 있도록 지원하는 프로그램이다. 테슬라 공식 충전 계정 @TeslaCharging 은 최근 2주간 32개 비즈니스 사이트가 새로 오픈했으며 공공·민간 사이트를 합산한 Wall Connector 총 수가 219개에 달한다고 밝혔다.\n\n슈퍼차저가 고속도로·여행 경로 충전을 위한 공용 인프라라면, Wall Connector for Business는 직장·일상 목적지에서의 충전을 담당하는 '목적지 충전(destination charging)' 레이어다. 이 두 레이어가 함께 확장될수록 테슬라 오너의 충전 편의성이 높아지고, 비테슬라 EV 운전자가 테슬라 충전 생태계를 선택하는 동기도 강화된다.\n\n2주간 32곳이라는 확장 속도는 테슬라가 기업 파트너 유치를 통해 자본 지출을 최소화하면서 충전 네트워크 밀도를 높이고 있음을 시사한다. Wall Connector for Business 설치 비용 일부를 사업주가 부담하는 구조인 만큼, 테슬라 입장에서는 효율적인 충전 접점 확장 방식이다.\n\n테슬라의 서비스 매출(충전·소프트웨어·유지보수)은 차량 판매 대비 높은 마진을 내는 사업군이다. Wall Connector 확장으로 비테슬라 EV도 충전할 수 있는 사이트가 늘어나면 충전 사업부의 외부 매출 기반도 함께 넓어진다.",
+      "title_en": "Tesla expands Business Wall Connector network: <em>32 sites in two weeks</em>, 219 total",
+      "hotShort_en": "Tesla: <em>32 Business sites</em> opened in 2 weeks, 219 total",
+      "body_en": "Tesla's official charging account announced that 32 Wall Connector for Business sites opened in the last two weeks, bringing the total number of Wall Connectors operating across public and private properties to 219 — reflecting a capital-light strategy for expanding Tesla's destination charging layer alongside the Supercharger network.",
+      "summary_en": "Wall Connector for Business is Tesla's program for deploying Level 2 charging at workplace and commercial destinations — offices, parking garages, hotels, and retail properties. Tesla's @TeslaCharging account reported that 32 new Business sites went live in the past two weeks, bringing the total Wall Connectors active across public and private locations to 219.\n\nThe Supercharger network covers high-speed travel charging along routes. Wall Connector for Business fills a complementary role: workplace and destination charging where drivers spend a few hours at a time. A denser destination layer reduces range anxiety for current Tesla owners and lowers the barrier for prospective EV buyers evaluating everyday charging convenience.\n\nThe pace of 32 sites in two weeks reflects a partner-funded, capital-light growth model. Site owners typically absorb installation costs in exchange for providing a benefit to employees and customers — from Tesla's perspective, this expands the physical charging footprint without proportional capital deployment.\n\nTesla's services segment — which includes charging, software subscriptions, and maintenance — carries meaningfully higher margins than vehicle sales. As third-party EVs gain access at Business sites through Tesla's open-standard NACS connector, the external revenue base for Tesla's charging business broadens alongside the benefit to Tesla owners.",
+      "href": "https://x.com/TeslaCharging/status/2065489405595574675",
+      "sentiment": "bull",
+      "hot": 3
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "4h ago",
@@ -2021,23 +2041,7 @@
       "href": "https://www.barchart.com/story/news/2342852/tesla-sales-in-china-are-popping-but-that-means-nothing-if-you-cant-stomach-tsla-stocks-absurd-p-e-ratio",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-06T19:25:57.000Z",
-      "title": "NIO 5월 인도량 62% 폭증 — 중국 EV 경쟁 격화에 테슬라 <em>주가 3% 하락</em>",
-      "hotShort": "NIO 인도량 62% 급증에 테슬라 <em>주가 3% 하락</em>",
-      "body": "NIO의 5월 인도량이 전년 대비 62% 폭증하며 NIO 주가가 7% 급등한 날, 테슬라 주가는 3% 하락했다 — 중국 전기차 시장에서 현지 브랜드의 공세가 투자자 심리에 직접 영향을 미치고 있다는 시장 신호다.",
-      "sourceName": "AOL.com",
-      "sourceLabel": "press",
-      "slug": "stock-nio-blowout-tesla-sinks-china-ev-2026-06-06",
-      "summary": "NIO가 2026년 5월 인도량이 전년 동기 대비 62% 급증했다고 발표한 날, 시장은 뚜렷한 대조를 보였다. NIO 주가가 7% 이상 급등하는 동안 테슬라 주가는 같은 날 3% 내렸다.\n\nNIO의 62% 인도량 성장은 중국 전기차 시장에서 현지 브랜드들의 경쟁력이 얼마나 빠르게 강화되고 있는지를 보여주는 지표다. NIO는 그간 재무 건전성 우려와 치열한 가격 경쟁 속에서도 프리미엄 세그먼트에서 입지를 강화해왔으며, 이번 실적은 그 전략이 결실을 맺기 시작했음을 시사한다.\n\n테슬라에게 중국은 미국 다음으로 가장 큰 단일 시장이다. 현지 브랜드들의 인도량 급증은 테슬라의 중국 시장 점유율과 마진율에 직접적인 하방 압력으로 작용한다. 특히 2분기(4~6월)는 테슬라의 글로벌 인도 실적이 결정되는 시기로, 중국 수요 동향이 전체 분기 성적에 미치는 영향이 크다.\n\nNIO 실적이 테슬라 주가에 직접 영향을 미쳤다고 단정하기보다는, 이 두 사건이 같은 날 겹치면서 중국 EV 경쟁에 대한 투자자들의 우려가 반영됐다고 보는 것이 적절하다. 7월 초 발표될 테슬라의 Q2 인도 리포트에서 중국 시장 성과를 확인하는 것이 가장 중요한 다음 체크포인트다.",
-      "href": "https://www.aol.com/articles/nio-soars-7-blowout-may-173514000.html",
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-06-13 13:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-13 17:30 KST 자동 갱신 · 최신순"
 }
