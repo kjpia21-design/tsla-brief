@@ -1,31 +1,70 @@
 {
-  "asOf": "2026-06-13 19:44 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-13 19:45 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "24m ago",
-      "pubDate": "2026-06-13T19:21:05.000Z",
-      "title": "Huge News for GM Stock, Tesla Stock, and Ford Stock Investors",
-      "body": "Huge News for GM Stock, Tesla Stock, and Ford Stock Investors The Motley Fool",
-      "sourceName": "The Motley Fool",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "8m ago",
+      "pubDate": "2026-06-13T19:37:25.000Z",
+      "title": "$tsla IPO and $SPCX IPO",
+      "body": "$tsla IPO and $SPCX IPO https://t.co/SYYybkfzCr",
+      "sourceName": "Tesla Owners SV (X)",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.fool.com/investing/2026/06/13/huge-news-for-gm-stock-tesla-stock-and-ford-stock/"
+      "href": "https://x.com/teslaownersSV/status/2065881244593016934"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "20m ago",
+      "pubDate": "2026-06-13T19:26:08.000Z",
+      "title": "Once, Elon Musk was on the verge of bankruptcy. Despite the setbacks, he said he would never give up. Now, he has bec…",
+      "body": "Once, Elon Musk was on the verge of bankruptcy. Despite the setbacks, he said he would never give up. Now, he has become the world's first trillionaire on paper. A reminder that some of the biggest success stories begin …",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2065878403186843796"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "20m ago",
+      "pubDate": "2026-06-13T19:25:24.000Z",
+      "title": "It's interesting that software engineers trust their coding agents more than I could trust the parts stamped out from…",
+      "body": "It's interesting that software engineers trust their coding agents more than I could trust the parts stamped out from the laser-welded injection molding.",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2065878218218078593"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "31m ago",
+      "pubDate": "2026-06-13T19:14:16.000Z",
+      "title": ".@AOC “Elon Musk is one of the most unintelligent billionaires I’ve ever met or seen.”",
+      "body": ".@AOC “Elon Musk is one of the most unintelligent billionaires I’ve ever met or seen.” https://t.co/06YcBcPX0v",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2065875418633355499"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
-      "pubDate": "2026-06-13T17:20:51.000Z",
-      "title": "\"I gave SpaceX less than a 10% chance of succeeding at all, to be clear. In fact, I told people this. I said, look, w…",
-      "body": "\"I gave SpaceX less than a 10% chance of succeeding at all, to be clear. In fact, I told people this. I said, look, we're probably gonna fail, but you know, should give it a try because if we don't... we will never be a …",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
+      "pubDate": "2026-06-13T17:55:30.000Z",
+      "title": "SpaceX Engineer: triaging valve on Raptor turbopump ML Engineer: triaging solenoid valve on espresso dual boilers.",
+      "body": "SpaceX Engineer: triaging valve on Raptor turbopump ML Engineer: triaging solenoid valve on espresso dual boilers. https://t.co/6VVmp7fOYw",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2065846876583473478"
+      "href": "https://x.com/yunta_tsai/status/2065855595711009114"
     },
     {
       "category": "stock",
@@ -39,6 +78,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.moomoo.com/community/feed/tesla-tsla-us-is-this-all-about-what-people-chose-116743745175557"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-13T16:23:28.000Z",
+      "title": "Insider Trading Highlights: Tesla (TSLA), Microsoft (MSFT), and Pfizer (PFE) Transactions",
+      "body": "Insider Trading Highlights: Tesla (TSLA), Microsoft (MSFT), and Pfizer (PFE) Transactions GuruFocus",
+      "sourceName": "GuruFocus",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.gurufocus.com/news/8915594/insider-trading-highlights-tesla-tsla-microsoft-msft-and-pfizer-pfe-transactions"
     },
     {
       "category": "stock",
@@ -67,19 +119,6 @@
       "href": "https://x.com/TeslaCharging/status/2065808273102832023"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-13T14:25:41.000Z",
-      "title": "Tesla China retail sales jump 22%. The stock is bouncing.",
-      "body": "Tesla China retail sales jump 22%. The stock is bouncing. MSN",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.msn.com/en-us/autos/news/tesla-china-retail-sales-jump-22-the-stock-is-bouncing/ar-AA256JGa"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "5h ago",
@@ -91,19 +130,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/yunta_tsai/status/2065802766304600556"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-13T13:56:20.000Z",
-      "title": "Tesla’s $250 million Germany bet is interesting. It’s spending more before it has the payoff.",
-      "body": "Tesla’s $250 million Germany bet is interesting. It’s spending more before it has the payoff. MSN",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.msn.com/en-us/money/topstocks/tesla-s-250-million-germany-bet-is-interesting-it-s-spending-more-before-it-has-the-payoff/ar-AA23pCEV?gemSnapshotKey"
     },
     {
       "category": "product",
@@ -145,30 +171,30 @@
       "href": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
-      "pubDate": "2026-06-13T07:58:11.000Z",
-      "title": "Within ~5 years, probably ~5 times as many satellites as rest of world",
-      "body": "Within ~5 years, probably ~5 times as many satellites as rest of world https://t.co/EODE2lcbM0",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "10h ago",
+      "pubDate": "2026-06-13T09:53:03.000Z",
+      "title": "Cybertruck and other Tesla references on The Simpsons throughout the years",
+      "body": "Cybertruck and other Tesla references on The Simpsons throughout the years Not a Tesla App",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/elonmusk/status/2065705276334833951"
+      "href": "https://www.notateslaapp.com/news/1045/cybertruck-and-model-x-make-cameo-appearances-in-the-simpsons+order+by+1148--+wwpn"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
-      "pubDate": "2026-06-13T07:48:49.000Z",
-      "title": "Starship is a very big rocket",
-      "body": "Starship is a very big rocket https://t.co/0RyGe3CPzS",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "11h ago",
+      "pubDate": "2026-06-13T08:21:53.000Z",
+      "title": "JPMorgan Highlights Tesla as a Long-Term Core Holding: What It Means for Investors",
+      "body": "JPMorgan Highlights Tesla as a Long-Term Core Holding: What It Means for Investors - Earnings Recovery Stocks newsline.com",
+      "sourceName": "newsline.com",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/elonmusk/status/2065702920427896916"
+      "href": "https://newsline.com/expert-time/JPMorgan-Highlights-Tesla-as-a-LongTerm-Core-Holding-What-It-Means-for-Investors-32-2908"
     },
     {
       "category": "product",
@@ -223,43 +249,17 @@
       "href": "https://x.com/yunta_tsai/status/2065646527947964784"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
-      "pubDate": "2026-06-13T03:30:05.000Z",
-      "title": "When working on something so grand, you feel so small. Sometimes we might quarrel over execution, but we quickly forg…",
-      "body": "When working on something so grand, you feel so small. Sometimes we might quarrel over execution, but we quickly forget it and move on to the next critical path. It is a journey of a lifetime, and it is never too late to…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2065637807658553627"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
-      "pubDate": "2026-06-13T01:45:02.000Z",
-      "title": "New Tesla Supercharger: Fredericksburg, VA - Warrenton Road (16 stalls)",
-      "body": "New Tesla Supercharger: Fredericksburg, VA - Warrenton Road (16 stalls) https://t.co/2TAzDasxUo https://t.co/SbPYY0bFrp",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2065611369412735272"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
-      "pubDate": "2026-06-12T20:19:31.000Z",
-      "title": "SpaceX Passes Tesla as Most Valuable Company in Musk’s Portfolio",
-      "body": "SpaceX Passes Tesla as Most Valuable Company in Musk’s Portfolio Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "51d ago",
+      "pubDate": "2026-04-23T23:11:52.000Z",
+      "title": "Tesla claims boost Giga Berlin production 20%, but numbers don’t add up",
+      "body": "Tesla lists Giga Berlin’s Model Y production capacity at more than 375,000 units per year — roughly 93,000 per quarter. The plant manager just celebrated a “record” Q1 2026 of 61,000 units and announced a 20% production …",
+      "sourceName": "electrek.co",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-passes-tesla-as-most-valuable-company-in-musk-s-portfolio"
+      "href": "https://electrek.co/2026/04/23/tesla-giga-berlin-production-increase-still-below-capacity/"
     }
   ]
 }
