@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-13T12:00:01.000Z",
+      "title": "리비안 CEO, 일론 머스크와 <em>다른 방식으로 휴머노이드 로봇</em> 사업 진출",
+      "hotShort": "리비안 CEO, 머스크와 <em>다른 방식</em>으로 로봇 진출",
+      "body": "CNBC에 따르면 리비안 CEO RJ 스카린지가 일론 머스크의 옵티머스와는 다른 접근법으로 휴머노이드 로보틱스 회사를 추진하고 있다 — 전기차 업계 또 다른 CEO의 로봇 진출은 테슬라 옵티머스가 선점한 휴머노이드 시장에 새로운 경쟁 구도가 형성되고 있음을 시사한다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "product-rivian-ceo-humanoid-different-approach-2026-06-13",
+      "summary": "CNBC가 6월 13일 리비안 CEO RJ 스카린지가 일론 머스크의 옵티머스와 다른 접근법으로 휴머노이드 로보틱스 회사를 추진하고 있다고 보도했다. 구체적인 전략 차이와 회사 세부 사항은 CNBC 원문에서 확인할 수 있다.\n\n머스크의 옵티머스 전략은 수직 통합이 핵심이다. 테슬라 자체 제조 시설에 먼저 로봇을 투입해 실세계 데이터를 축적하고, 이후 외부 판매로 확장한다. 스카린지의 접근이 '다르다'는 것은 다른 비즈니스 모델·기술 철학·배포 전략을 채택하고 있다는 의미로 해석된다.\n\n테슬라 옵티머스는 기가팩토리 내 작업에 투입을 시작했으며, 머스크는 장기적으로 연간 수백만 대 생산을 목표로 제시한 바 있다. 리비안 CEO의 진출은 테슬라를 암묵적으로 경쟁 벤치마크로 인식하고 대안을 모색하는 움직임으로 읽힌다.\n\n테슬라 주주 관점에서 휴머노이드 로봇 분야 경쟁 확대는 양면이다. 경쟁자 증가는 단기 도전이지만, 업계 전반의 관심과 투자가 집중된다는 것은 시장 규모와 현실성에 대한 신뢰를 높인다. 옵티머스의 실제 배포 속도와 기술적 성숙도가 경쟁 우위를 좌우할 핵심 지표가 될 것이다.",
+      "title_en": "Rivian CEO pursues humanoid robotics with a <em>different approach than Elon Musk</em>",
+      "hotShort_en": "Rivian CEO takes <em>different path</em> to humanoid robots",
+      "body_en": "Rivian CEO RJ Scaringe is pursuing a humanoid robotics company with a different approach from Elon Musk's Optimus strategy, CNBC reports — adding another EV sector CEO to the growing list of competitors entering the humanoid robot space where Tesla has moved earliest.",
+      "summary_en": "CNBC reported on June 13 that Rivian CEO RJ Scaringe is building a humanoid robotics company with a different approach from what Elon Musk has pursued with Tesla's Optimus. The specific strategic distinctions and company details are available in the full CNBC article.\n\nMusk's Optimus strategy centers on vertical integration: Tesla deploys the robot in its own factories first, accumulates real-world task data across high-volume production environments, and plans to eventually sell units externally as a standalone product line. An approach 'different' from that could mean a more open hardware model, a narrower industrial focus, a software-as-a-service delivery model, or something else entirely — the source article has the specifics.\n\nTesla's Optimus has been deployed in limited capacity at Gigafactory production floors, with Musk setting long-term targets in the millions of units per year. Scaringe's decision to enter this space — and to frame his approach explicitly in contrast to Musk's — acknowledges Tesla as the competitive benchmark in humanoid robotics.\n\nFor Tesla investors, competition in humanoid robotics carries a dual signal. Additional entrants challenge Tesla's first-mover advantage near-term. But broader industry participation from credible operators like Scaringe also validates the market's scale and commercial viability — strengthening the longer-term case for Optimus as a large revenue stream. Real-world deployment pace and task capability will increasingly determine Tesla's relative position.",
+      "href": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "10h ago",
+      "pubDate": "2026-06-13T04:34:35.000Z",
+      "title": "테슬라, <em>화면·결제 단말기</em> 공간 갖춘 V4 슈퍼차저 신형 디자인 공개",
+      "hotShort": "테슬라 V4 슈퍼차저에 <em>화면·결제 단말기</em> 공간 추가",
+      "body": "'낫 어 테슬라 앱(Not a Tesla App)'에 따르면 테슬라가 화면과 결제 단말기를 위한 공간을 갖춘 신형 V4 슈퍼차저 디자인을 공개했다 — 결제 단말기가 충전기에 직접 탑재되면 비테슬라 EV 운전자도 앱 없이 즉시 충전을 시작할 수 있어, 슈퍼차저 네트워크의 개방 수익화 경쟁력이 한 단계 높아진다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "product-tesla-v4-supercharger-screen-payment-2026-06-13",
+      "summary": "테슬라 전문 미디어 '낫 어 테슬라 앱(Not a Tesla App)'이 화면과 결제 단말기 공간을 갖춘 신형 V4 슈퍼차저 디자인을 보도했다. 현재 운영 중인 V4 슈퍼차저에서 한 단계 더 발전한 하드웨어 구성이다.\n\n테슬라는 2023년부터 슈퍼차저를 비테슬라 전기차에도 개방했다. 그러나 비테슬라 이용자는 현재 테슬라 앱 설치와 사전 결제 등록을 거쳐야 충전을 시작할 수 있다. 충전기 본체에 결제 단말기가 직접 탑재되면 앱 없이 신용·체크카드로 즉시 충전이 가능해져 진입 장벽이 크게 낮아진다.\n\n화면 공간은 다양한 활용 가능성을 열어 준다. 충전 상태 표시, 주변 시설 안내, 광고 등 — 한 번 충전에 10~30분이 걸리는 슈퍼차저 특성상, 체류 시간을 활용한 부가 수익 접점으로 발전할 수 있다.\n\n테슬라의 에너지·서비스 부문은 차량 판매 대비 높은 마진을 내는 성장 축이다. 슈퍼차저 하드웨어 고도화는 비테슬라 이용자의 진입 장벽을 낮추고 결제·미디어 부가 수익 경로를 확장하는 전략적 투자로 평가할 수 있다.",
+      "title_en": "Tesla reveals new V4 Supercharger design with space for <em>screen and payment terminal</em>",
+      "hotShort_en": "Tesla's new V4 Supercharger adds <em>screen and payment</em> slot",
+      "body_en": "Tesla has showcased a new V4 Supercharger design with dedicated space for a screen and a payment terminal, Not a Tesla App reports — an on-device payment terminal could let non-Tesla EV drivers charge without the Tesla app for the first time, materially reducing access friction as Supercharger network openness expands.",
+      "summary_en": "Not a Tesla App published coverage of an upgraded V4 Supercharger design featuring dedicated hardware slots for both a screen and a payment terminal — a step beyond current V4 units already operating in Tesla's global network.\n\nTesla opened its Supercharger network to non-Tesla electric vehicles starting in 2023. Currently, most third-party EV drivers must install the Tesla app and register a payment method before starting their first session. A built-in payment terminal changes that: anyone with a credit or debit card could initiate a charge on the spot, with no app requirement. That removes a significant barrier for casual or first-time non-Tesla users.\n\nThe screen hardware slot adds a revenue and experience dimension beyond charging speed. Applications include real-time session status, nearby point-of-interest information, promotional content, and potential advertising inventory — relevant given that EV charging sessions average 15 to 30 minutes, providing meaningful dwell time per visit.\n\nFor Tesla investors, the Supercharger network increasingly functions as a standalone services business with higher margins than automotive hardware. Hardware upgrades that expand the non-Tesla user base and create in-session revenue opportunities — payment processing fees, media, potential data services — compound the long-term monetization potential of an asset Tesla already owns and operates at global scale.",
+      "href": "https://www.notateslaapp.com/news/1518/tesla-shows-off-v4-supercharger-with-space-for-screen-and-payment-terminal.",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
@@ -2005,39 +2045,7 @@
       "href": "https://www.barrons.com/articles/spacex-ipo-elon-musk-tesla-stock-6ef52370",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-06T20:00:02.000Z",
-      "title": "테슬라 중국 판매 급증에도 <em>고(高) PER</em>이 발목",
-      "hotShort": "테슬라 중국 판매 급증 — 그러나 <em>PER 부담</em>이 문제",
-      "body": "Barchart에 따르면 테슬라의 중국 판매량이 뚜렷이 반등하고 있으나, 극도로 높은 주가수익비율(P/E)을 감내하지 못한다면 이 긍정 신호가 주가 투자 논리로서 의미가 없다는 분석이 나왔다 — 실물 지표 개선에도 밸류에이션 부담이 주가 상승의 핵심 걸림돌로 남아 있다는 경고다.",
-      "sourceName": "Barchart.com",
-      "sourceLabel": "press",
-      "slug": "stock-tesla-china-sales-pe-ratio-2026-06-06",
-      "summary": "Barchart가 테슬라의 중국 판매 동향과 주가 밸류에이션의 괴리를 짚는 분석을 게재했다. 보도에 따르면 테슬라의 중국 내 차량 판매가 뚜렷이 반등하는 흐름을 보이고 있으나, 이 실적 개선이 자동으로 주가 매력도 향상으로 이어지는 것은 아니라는 것이 분석의 핵심이다.\n\n기사가 지적하는 핵심 장벽은 테슬라의 높은 P/E 멀티플이다. 성장 기대치가 이미 주가에 반영돼 있다 보니, 판매 증가라는 실물 호재만으로는 현재 밸류에이션을 정당화하기 어렵다는 논리다. 쉽게 말해 중국 판매가 늘어도 'TSLA 주식이 비싸다'는 인식이 쉽게 바뀌지 않는다는 경고다.\n\n테슬라는 중국을 미국 외 최대 시장으로 두고 있으며, 현지 BYD 등 경쟁사와의 가격 경쟁 및 수요 회복 여부는 분기 인도량 전망의 핵심 변수다. 중국 판매 반등이 실체적 추세인지 일시적 개선인지를 확인하는 것이 투자자에게 중요한 다음 체크포인트다.\n\n장기적으로 테슬라 주가의 재평가는 판매 증가뿐 아니라 FSD 수익화·로보택시 출시·옵티머스 사업화 등 고성장 내러티브의 실현 여부에 달려 있다는 분석이 지배적이다.",
-      "href": "https://www.barchart.com/story/news/2342852/tesla-sales-in-china-are-popping-but-that-means-nothing-if-you-cant-stomach-tsla-stocks-absurd-p-e-ratio",
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-06T19:25:57.000Z",
-      "title": "NIO 5월 인도량 62% 폭증 — 중국 EV 경쟁 격화에 테슬라 <em>주가 3% 하락</em>",
-      "hotShort": "NIO 인도량 62% 급증에 테슬라 <em>주가 3% 하락</em>",
-      "body": "NIO의 5월 인도량이 전년 대비 62% 폭증하며 NIO 주가가 7% 급등한 날, 테슬라 주가는 3% 하락했다 — 중국 전기차 시장에서 현지 브랜드의 공세가 투자자 심리에 직접 영향을 미치고 있다는 시장 신호다.",
-      "sourceName": "AOL.com",
-      "sourceLabel": "press",
-      "slug": "stock-nio-blowout-tesla-sinks-china-ev-2026-06-06",
-      "summary": "NIO가 2026년 5월 인도량이 전년 동기 대비 62% 급증했다고 발표한 날, 시장은 뚜렷한 대조를 보였다. NIO 주가가 7% 이상 급등하는 동안 테슬라 주가는 같은 날 3% 내렸다.\n\nNIO의 62% 인도량 성장은 중국 전기차 시장에서 현지 브랜드들의 경쟁력이 얼마나 빠르게 강화되고 있는지를 보여주는 지표다. NIO는 그간 재무 건전성 우려와 치열한 가격 경쟁 속에서도 프리미엄 세그먼트에서 입지를 강화해왔으며, 이번 실적은 그 전략이 결실을 맺기 시작했음을 시사한다.\n\n테슬라에게 중국은 미국 다음으로 가장 큰 단일 시장이다. 현지 브랜드들의 인도량 급증은 테슬라의 중국 시장 점유율과 마진율에 직접적인 하방 압력으로 작용한다. 특히 2분기(4~6월)는 테슬라의 글로벌 인도 실적이 결정되는 시기로, 중국 수요 동향이 전체 분기 성적에 미치는 영향이 크다.\n\nNIO 실적이 테슬라 주가에 직접 영향을 미쳤다고 단정하기보다는, 이 두 사건이 같은 날 겹치면서 중국 EV 경쟁에 대한 투자자들의 우려가 반영됐다고 보는 것이 적절하다. 7월 초 발표될 테슬라의 Q2 인도 리포트에서 중국 시장 성과를 확인하는 것이 가장 중요한 다음 체크포인트다.",
-      "href": "https://www.aol.com/articles/nio-soars-7-blowout-may-173514000.html",
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-06-13 13:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-14 00:18 KST 자동 갱신 · 최신순"
 }
