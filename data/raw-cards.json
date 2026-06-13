@@ -1,6 +1,58 @@
 {
-  "asOf": "2026-06-13 21:21 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-13 21:45 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5m ago",
+      "pubDate": "2026-06-13T21:40:53.000Z",
+      "title": "One person helped build companies spanning electric vehicles, space exploration, brain-computer interfaces, AI, and u…",
+      "body": "One person helped build companies spanning electric vehicles, space exploration, brain-computer interfaces, AI, and underground transportation. The combined value created is measured in trillions. That's not just wealth …",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2065912317716656618"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "16m ago",
+      "pubDate": "2026-06-13T21:29:36.000Z",
+      "title": "New Francis Energy Supercharger: Owasso, OK (4 stalls)  Learn more about Supercharger for Business:",
+      "body": "New Francis Energy Supercharger: Owasso, OK (4 stalls) https://t.co/i4luU7sBgu Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/uMEjF4LifR",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2065909476910379027"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "35m ago",
+      "pubDate": "2026-06-13T21:10:26.000Z",
+      "title": "Tesla Cybercab doors opening and charging",
+      "body": "Tesla Cybercab doors opening and charging https://t.co/8SbC4UqRmS",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2065904652986798133"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-13T19:50:07.000Z",
+      "title": "JPMorgan upgrades Tesla with a major price target hike",
+      "body": "JPMorgan upgrades Tesla with a major price target hike MSN",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.msn.com/en-us/autos/news/jpmorgan-upgrades-tesla-with-a-major-price-target-hike/ar-AA24V56R"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -69,20 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-13T19:14:16.000Z",
-      "title": ".@AOC “Elon Musk is one of the most unintelligent billionaires I’ve ever met or seen.”",
-      "body": ".@AOC “Elon Musk is one of the most unintelligent billionaires I’ve ever met or seen.” https://t.co/06YcBcPX0v",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2065875418633355499"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-13T17:55:30.000Z",
       "title": "SpaceX Engineer: triaging valve on Raptor turbopump ML Engineer: triaging solenoid valve on espresso dual boilers.",
       "body": "SpaceX Engineer: triaging valve on Raptor turbopump ML Engineer: triaging solenoid valve on espresso dual boilers. https://t.co/6VVmp7fOYw",
@@ -119,19 +158,6 @@
       "href": "https://www.gurufocus.com/news/8915594/insider-trading-highlights-tesla-tsla-microsoft-msft-and-pfizer-pfe-transactions"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-13T15:03:25.000Z",
-      "title": "Insider trades: Microsoft, Tesla, Pfizer among notable names",
-      "body": "Insider trades: Microsoft, Tesla, Pfizer among notable names Seeking Alpha",
-      "sourceName": "Seeking Alpha",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://seekingalpha.com/news/4603033-insider-trades-microsoft-tesla-pfizer-among-notable-names"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "7h ago",
@@ -160,6 +186,19 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "7h ago",
+      "pubDate": "2026-06-13T14:22:46.000Z",
+      "title": "Tesla's Model Y With Hardware 4.0 Doesn't Include Radar: We Take a Look at Why",
+      "body": "Tesla's Model Y With Hardware 4.0 Doesn't Include Radar: We Take a Look at Why Not a Tesla App",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.notateslaapp.com/news/1456/tesla-s-model-y-with-"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "8h ago",
       "pubDate": "2026-06-13T13:50:56.000Z",
       "title": "Updated Tesla Cybertruck Prototype Shows Off New Features [Video]",
@@ -171,22 +210,9 @@
       "href": "https://www.notateslaapp.com/news/1183/%3Ca%20href"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
-      "pubDate": "2026-06-13T13:10:21.000Z",
-      "title": "Tesla Model Y Involved in a Horrific Crash, Driver Walked To Tell the Story",
-      "body": "Tesla Model Y Involved in a Horrific Crash, Driver Walked To Tell the Story Not a Tesla App",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.notateslaapp.com/news/1556/784dfd30-4711-4630-91f6-d387ceb36bdd"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-13T12:00:01.000Z",
       "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
       "body": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company CNBC",
@@ -195,19 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
-      "pubDate": "2026-06-13T11:24:13.000Z",
-      "title": "Cybertruck Details Revealed: Largest Display in Any Tesla, Rear-Wheel Steering Standard, 18-Inch Wheels",
-      "body": "Cybertruck Details Revealed: Largest Display in Any Tesla, Rear-Wheel Steering Standard, 18-Inch Wheels Not a Tesla App",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.notateslaapp.com/news/1259/e"
     },
     {
       "category": "product",
@@ -225,7 +238,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-13T06:59:50.000Z",
       "title": "A rocket has to fight the gravity well to reach space. But that is also why it grasps our emotions when it ascends to…",
       "body": "A rocket has to fight the gravity well to reach space. But that is also why it grasps our emotions when it ascends to space as we watch its ascent from struggle.",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/yunta_tsai/status/2065655990171963779"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-06-13T04:04:44.000Z",
-      "title": "When most companies' opening remarks during their IPOs were about profit, today it hits something different. It is ho…",
-      "body": "When most companies' opening remarks during their IPOs were about profit, today it hits something different. It is hope. The once-inspiring future that excited us when we were young but that we dropped after growing up—w…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2065646527947964784"
     }
   ]
 }
