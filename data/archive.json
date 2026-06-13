@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "35m ago",
+      "pubDate": "2026-06-13T21:10:26.000Z",
+      "title": "사이버캡, <em>도어 개폐·충전</em> 시스템 작동 영상 공개",
+      "hotShort": "사이버캡, <em>도어·충전</em> 작동 공개 — 로보택시 가시화",
+      "body": "테슬라 커뮤니티 계정 Tesla Owners SV가 사이버캡(로보택시)의 도어 개폐 작동과 충전 과정을 담은 영상을 X에 공유했다 — 로보택시 운용에 핵심인 탑승·충전 시스템이 실제 작동하는 모습으로 투자자 관심이 집중됐다.",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-cybercab-doors-charging-2026-06-13",
+      "summary": "사이버캡은 테슬라가 개발 중인 완전 자율주행 로보택시로, 일론 머스크가 테슬라의 장기 수익 핵심 드라이버로 제시한 제품이다. Tesla Owners SV가 X에 공유한 영상에는 사이버캡 특유의 도어 개폐 작동과 충전 과정이 담겼다.\n\n로보택시 서비스 상용화에서 충전 시스템은 결정적 변수다. 유인 운전자 없이 스스로 충전 스테이션을 찾아가 연결하는 기능이 확보돼야 완전 무인 운영이 가능하기 때문이다. 공개된 영상이 이 과정을 어떻게 처리하는지 단서를 제공한다는 점에서 투자자 관심을 끈다.\n\n사이버캡은 텍사스 오스틴 등지에서 제한적 서비스를 시작했으며, 테슬라는 단계적으로 서비스 지역을 확대할 계획이다. 도어 설계는 사이버캡의 트레이드마크 중 하나로, 실제 운영 환경에서의 작동 신뢰성이 서비스 확장의 전제 조건이다.\n\n주주 입장에서 로보택시 서비스의 구체적 작동 모습이 공개될수록 장기 수익 잠재력에 대한 투자자 신뢰가 높아질 수 있다. 사이버캡의 실제 서비스 확장 속도가 테슬라 밸류에이션의 핵심 변수로 부각되는 만큼, 운영 시스템 가시화는 중요한 신호다.",
+      "title_en": "Tesla Cybercab <em>doors and charging</em> system captured in footage",
+      "hotShort_en": "Cybercab <em>doors and charging</em> shown on video",
+      "body_en": "Tesla community account Tesla Owners SV shared footage of the Cybercab robotaxi demonstrating its door mechanism and charging process — a window into two operationally critical systems for any fully autonomous taxi fleet.",
+      "summary_en": "The Cybercab is Tesla's purpose-built autonomous robotaxi — a vehicle designed to operate without a human driver and central to Elon Musk's long-term vision for Tesla's revenue model. Community account Tesla Owners SV posted footage on X showing the Cybercab's door mechanism opening and its charging system in operation.\n\nFor a fully autonomous taxi service to be economically viable, the vehicle must be able to charge itself — navigating to charging locations and completing the connection without human assistance. The footage showing the Cybercab's charging in action provides a public look at how Tesla is approaching this challenge.\n\nThe Cybercab's distinctive door design is one of its defining physical characteristics. In service environments, doors must open reliably to allow passenger boarding and exit, function consistently across conditions, and operate without driver oversight. Video showing the door mechanism functioning gives early signals on the maturity of that system.\n\nThe Cybercab has been deployed in limited service in Austin, Texas, and Tesla has signaled plans to expand the service to additional markets. For Tesla investors, any public demonstration of core operating systems — doors, charging, navigation — represents progress toward the large-scale robotaxi deployment that has become central to Tesla's long-term valuation case.",
+      "href": "https://x.com/teslaownersSV/status/2065904652986798133",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "7h ago",
+      "pubDate": "2026-06-13T14:22:46.000Z",
+      "title": "테슬라 모델Y HW4, <em>레이더 미탑재</em> — 카메라만으로 FSD 구현하는 이유",
+      "hotShort": "모델Y HW4, <em>레이더 없는</em> 카메라 단독 체제 선택",
+      "body": "Not a Tesla App이 테슬라 최신 하드웨어(HW4) 탑재 모델Y에 레이더가 없는 이유를 분석했다 — 테슬라는 2021년부터 레이더를 제거하고 순수 카메라 기반 'Tesla Vision' 전략을 고수하며, HW4 모델Y도 이 방향을 유지한다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "product-model-y-hw4-no-radar-2026-06-13",
+      "summary": "자율주행 업계에서 테슬라는 독특한 설계 철학을 유지하고 있다. 경쟁사 Waymo·Cruise가 LIDAR와 레이더를 수십 개 탑재하는 반면, 테슬라는 2021년부터 레이더를 차량에서 제거하고 카메라만으로 FSD를 구현하는 'Tesla Vision' 전략을 선택했다. Not a Tesla App은 이 전략이 HW4 모델Y에서도 유지되는 이유를 분석했다.\n\nHW4는 이전 HW3 대비 카메라 수와 해상도가 대폭 향상됐다. 더 많은 카메라·고해상도 이미지·향상된 온보드 연산력으로 레이더 없이도 3D 공간 인식 성능을 높이는 것이 HW4 설계 방향의 핵심이다.\n\n일론 머스크의 카메라 단독 철학의 핵심 논거는, 인간 운전자가 두 눈(카메라)만으로 도로를 인식하듯 AI도 이미지 기반 인식으로 자율주행이 가능하다는 것이다. 레이더·LIDAR는 특정 기상 조건에서 유리하지만 비용이 높고 설계 복잡성이 증가하는 단점이 있다.\n\n주주 입장에서 카메라 단독 방식은 부품 원가·유지 비용 절감으로 이어진다. 테슬라의 FSD 성능이 개선될수록 이 설계 선택의 정당성이 높아지며, FSD v14 이상의 실제 자율주행 성능이 이 방향의 옳고 그름을 증명하는 현재진행형 실험이 되고 있다.",
+      "title_en": "Tesla Model Y with HW4 ships without radar — <em>why cameras alone</em>",
+      "hotShort_en": "Model Y HW4: <em>no radar</em>, cameras only",
+      "body_en": "Not a Tesla App examines why Tesla's latest Model Y, equipped with Hardware 4.0, ships without radar — a design choice that extends Tesla's camera-only 'Tesla Vision' strategy begun in 2021 when the company removed radar from its lineup, betting cameras can match or exceed multi-sensor rivals.",
+      "summary_en": "Tesla occupies a unique position in autonomous driving: it is the only major AV developer betting entirely on cameras, with no radar or LiDAR, to achieve full self-driving capability. While Waymo, Cruise, and others build redundant sensor stacks, Tesla has held to the 'Tesla Vision' camera-only approach since removing radar from its lineup in 2021. Not a Tesla App's analysis confirms this strategy carries forward into the Model Y equipped with Hardware 4.0.\n\nHW4 is a significant hardware step up from HW3, featuring more cameras, higher-resolution imaging, and substantially more onboard compute. The added camera capability is designed to compensate for the absence of radar — building a richer image dataset that the onboard neural networks can use for 3D spatial reasoning without additional sensors.\n\nElon Musk's foundational argument for camera-only autonomy draws an analogy to human vision: drivers navigate roads using primarily visual input, so a sufficiently trained AI system should be able to do the same. Radar and LiDAR provide advantages in certain low-visibility conditions, but they add hardware cost, design complexity, and maintenance requirements.\n\nFor Tesla shareholders, the camera-only architecture has a clear economics rationale: cameras cost a fraction of LiDAR units, contributing to lower vehicle build costs and better hardware margins at scale. Whether this approach proves definitively safe and capable at Level 4 and beyond — compared to sensor-fusion competitors — is the ongoing bet that FSD's performance trajectory will ultimately answer.",
+      "href": "https://www.notateslaapp.com/news/1456/tesla-s-model-y-with-",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "5h ago",
@@ -2012,46 +2052,7 @@
       "href": "https://www.msn.com/en-us/money/topstocks/can-ai-and-robotics-revive-tesla-etfs-worth-considering/ar-AA24W0qR",
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "51m ago",
-      "pubDate": "2026-06-07T12:09:22.000Z",
-      "title": "JP모건, 테슬라 투자의견 상향 — <em>목표주가 대폭 높여</em>",
-      "hotShort": "JP모건, 약세 기조 접고 테슬라 <em>목표주가 대폭 상향</em>",
-      "body": "MSN에 따르면 JP모건이 테슬라 투자의견을 상향 조정하고 목표주가를 대폭 높였다 — 오랫동안 월가에서 테슬라에 가장 비관적이던 대형 투자은행의 공식 전환으로, 기관 수급 변화의 분수령이 될 수 있다.",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
-      "slug": "stock-jpmorgan-upgrades-msn-2026-06-07",
-      "summary": "JP모건의 테슬라 투자의견 상향 소식이 연일 복수 매체를 통해 재조명되고 있다. 블룸버그가 6월 5일 원 보도를 낸 이후 MSN, 야후 파이낸스 등 주요 매체가 잇따라 후속 보도를 이어가며 이 전환의 파급력을 거듭 강조하고 있다.\n\nJP모건은 그간 테슬라에 월가 최저 수준의 목표주가를 유지하며 지속적인 비관 의견을 내오던 대표적 약세 기관이었다. 약세 기조의 담당 애널리스트 교체 이후 공식 투자 시각을 전환하고 목표주가를 대폭 높인 것은 단순 인사 변경이 아닌 은행 차원의 테슬라 재평가를 의미한다.\n\n대형 투자은행의 스탠스 변화는 JP모건 리서치를 참고하는 연기금·보험사·자산운용사 등 보수적 기관들의 포트폴리오 조정 가능성을 높인다. 이들이 테슬라 비중을 늘리는 방향으로 움직일 경우 중장기 수급에 긍정적 변화가 나타날 수 있다.\n\n월가에서 상징적 약세론자였던 JP모건의 공식 전환은 테슬라 투자 심리 전반의 구조적 변화를 시사하는 이정표다. 다음 체크포인트는 다른 보수적 기관들의 스탠스 변화 여부와 7월 초 발표될 Q2 인도 실적이다.",
-      "href": "https://www.msn.com/en-us/money/companies/jpmorgan-upgrades-tesla-with-a-major-price-target-hike/ar-AA24V56R?apiversion",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Bloomberg",
-        "MSN",
-        "Yahoo Finance",
-        "AOL"
-      ],
-      "sentiment": "bull",
-      "hot": 8
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-07T11:38:04.000Z",
-      "title": "퀀트 헤지펀드 윈턴 그룹, 테슬라 <em>신규 지분 취득</em> 공시",
-      "hotShort": "퀀트 헤지펀드 윈턴 그룹, 테슬라 <em>신규 지분 취득</em>",
-      "body": "마켓비트에 따르면 영국계 퀀트 헤지펀드 윈턴 그룹(WINTON GROUP)이 테슬라($TSLA) 주식을 신규 취득했다고 공시했다 — JP모건 투자의견 상향에 이어 기관 수급 유입 흐름이 이어지고 있다는 추가 신호다.",
-      "sourceName": "MarketBeat",
-      "sourceLabel": "press",
-      "slug": "stock-winton-acquires-new-stake-2026-06-07",
-      "summary": "윈턴 그룹(WINTON GROUP Ltd)은 영국 기반의 정량적(퀀트) 투자 전략 헤지펀드로, 2026년 6월 7일 기준 테슬라($TSLA) 주식을 신규 취득했다는 공시가 마켓비트(MarketBeat)의 'Instant Alerts'를 통해 확인됐다. 마켓비트 Instant Alerts는 기관 투자자의 SEC 제출 파일(13F-HR 등)을 기반으로 자동 발행되는 공시 알림이다.\n\n구체적인 매입 규모(주수·금액)는 이번 알림 원문에서 확인되지 않았다. 기관 투자자는 분기 종료 후 45일 이내에 13F-HR 보고서를 SEC에 제출해야 하며, 정확한 규모와 보유 비중은 해당 원문 보고서에서 확인할 수 있다.\n\nJP모건의 테슬라 투자의견 상향(2026-06-05~06) 이후 기관들의 테슬라 지분 변화에 시장의 관심이 쏠려 있다. 퀀트 펀드의 신규 매입 공시는 알고리즘 모델이 테슬라를 매수 신호로 포착했음을 시사하는 경우가 많아, 기관 수급 흐름의 한 단면으로 읽힌다.\n\n주주 관점에서 개별 기관 매입 공시는 직접적인 주가 재료라기보다 기관 수급 추세를 파악하는 보조 지표다. 매입 규모와 비중은 SEC EDGAR의 13F 원문을 통해 직접 확인할 것을 권장한다.",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-acquires-new-stake-in-tesla-inc-tsla-2026-06-07/",
-      "sentiment": "bull",
-      "hot": 4
     }
   ],
-  "asOf": "2026-06-14 02:45 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-14 08:17 KST 자동 갱신 · 최신순"
 }
