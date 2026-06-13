@@ -23,6 +23,26 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-06-12T21:32:00.000Z",
+      "title": "배런스: \"테슬라 vs SpaceX — <em>어느 쪽이 더 가치 있을까</em>\"",
+      "hotShort": "배런스: SpaceX vs 테슬라, <em>어느 주식이 낫나</em>",
+      "body": "배런스가 SpaceX IPO 당일 테슬라와 SpaceX 중 어느 머스크 주식이 장기적으로 더 높은 가치를 가질지 직접 비교 분석했다 — 두 회사가 사상 처음으로 동시에 공개 시장에서 거래되는 날, \"두 자산 중 어느 쪽에 베팅해야 하는가\"는 투자자들에게 처음으로 실질적인 선택의 문제가 됐다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-barrons-tesla-spacex-which-worth-more-2026-06-12",
+      "summary": "배런스(Barron's)가 6월 12일 SpaceX 나스닥 상장 당일, 테슬라와 SpaceX 중 어느 머스크 주식이 더 높은 가치를 가질지를 묻는 비교 분석 기사를 발행했다. 두 회사가 사상 처음으로 동시에 공개 시장에서 거래되는 날로, 이 질문이 투자자들에게 처음으로 실질적인 선택의 문제로 부상했다.\n\n배런스의 비교는 단기 주가 모멘텀보다 장기 사업 가치에 초점을 맞춘다. 테슬라의 케이스는 FSD 구독·로보택시 수익화·메가팩 에너지 사업·옵티머스로 구성된 복합 성장 스토리에 있다. SpaceX의 케이스는 팰컨 9·스타십의 발사 서비스 경제성과 스타링크 위성 인터넷 사업이 핵심이다. 두 회사는 전혀 다른 시장에서 완전히 다른 성장 경로를 간다.\n\n두 회사를 비교할 때 핵심 변수는 일론 머스크의 CEO 집중도 배분이다. SpaceX가 공개 기업이 됨으로써 테슬라 주주들은 이제 머스크의 시간과 자본이 테슬라 중심으로 유지되는지를 SpaceX 공시를 통해 직접 추적할 수 있게 됐다.\n\n같은 날 블룸버그는 IPO 첫날 SpaceX 시가총액이 테슬라를 초과했다고 보도했다. 이 역전이 장기적 순위 변화인지 상장 직후의 특수한 현상인지는 두 회사의 실적이 쌓이면서 분명해질 것이다.\n\n배런스 원문에서 두 회사의 구체적 밸류에이션 지표와 장기 성장 비교 프레임워크를 확인할 수 있다. 테슬라 주주라면 SpaceX 상장을 계기로 두 자산의 상대 매력도를 처음으로 공개 시장 기준으로 점검하는 기회로 삼을 수 있다.",
+      "title_en": "Barron's: Tesla vs. SpaceX — <em>which Musk stock will be worth more?</em>",
+      "hotShort_en": "Barron's on IPO day: <em>Tesla or SpaceX?</em>",
+      "body_en": "Barron's published a head-to-head investor comparison on SpaceX's IPO day, asking which Musk stock — Tesla or SpaceX — will ultimately be worth more. With both companies trading simultaneously for the first time ever, the allocation question becomes a concrete, real-time investor choice rather than a hypothetical.",
+      "summary_en": "Barron's published a direct Tesla-versus-SpaceX investor analysis on June 12, the day SpaceX debuted on Nasdaq. For the first time, both companies carry live public-market valuations simultaneously — making the question of which Musk asset offers better long-term returns concrete rather than speculative.\n\nThe Tesla investment case rests on its integrated roadmap: FSD subscriptions, robotaxi fleet economics, Megapack energy storage growth, and Optimus humanoid robotics. SpaceX's case is built around Falcon 9 and Starship launch-service economics and Starlink's global satellite broadband business. The two companies serve different markets with different margin profiles and entirely different long-duration growth paths.\n\nThe CEO attention variable underlies any Tesla-SpaceX comparison. With SpaceX now a public company, Tesla shareholders can monitor Musk's time and capital allocation by tracking public disclosures at both companies — for the first time, the comparison has a live benchmark on both sides.\n\nBloomberg confirmed the same day that SpaceX's market cap exceeded Tesla's during its IPO session — a reversal in the portfolio hierarchy that made the 'which is worth more?' question especially immediate.\n\nThe full valuation analysis and Barron's specific arguments for each company are available in the source article. For Tesla shareholders, the SpaceX listing creates a live market benchmark for comparing the relative attractiveness of the two Musk flagship assets — the first time that comparison has been possible in real time on both sides.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-spacex-musk-worth-more-21f83e7f",
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
       "pubDate": "2026-06-12T20:58:02.000Z",
       "title": "시킹알파: 테슬라의 <em>배터리 해자가 좁아지고 있다</em>",
@@ -106,5 +126,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-06-13 09:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-13 11:15 KST 자동 갱신 · 최신순"
 }
