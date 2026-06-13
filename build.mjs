@@ -48,6 +48,9 @@ const CATEGORY_LABEL_EN = {
   fsd:     "FSD · Autonomy & Robotaxi",
   musk:    "ELON · Elon News",
 };
+// 카드·기사 카테고리 칩 라벨 — 짧은 영어(KO·EN 공통, JP 요청 2026-06-12). 칩이라 1단어.
+const CARD_CHIP = { stock: "Stock", product: "Product", fsd: "FSD", musk: "Elon" };
+const chipLabel = (cat) => CARD_CHIP[cat] || "News";
 
 // 4단계 출처 표시 순서: 1차(green) → 공식(blue) → 외신(orange) → 추측(grey)
 const SOURCE_ORDER = [
@@ -466,8 +469,7 @@ function renderCards(cards, { lang = "ko" } = {}) {
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
     const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
     // 토스형 칩 — "STOCK · 주가·실적" → "주가·실적" (접두사는 색·아이콘이 아닌 텍스트 중복이라 제거)
-    const catLabel = (lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel || "")
-      .replace(/^[A-Z]+ · /, "");
+    const catLabel = chipLabel(c.category);   // 카테고리 칩 = 짧은 영어(KO·EN 공통)
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
           <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c, lang)}
@@ -491,8 +493,7 @@ function renderAllCards(cards, { lang = "ko" } = {}) {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
     const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
     const pubAttr = c.pubDate ? ` data-pubdate="${escapeHtml(c.pubDate)}"` : "";
-    const catLabel = (lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel || "")
-      .replace(/^[A-Z]+ · /, "");   // 토스형 칩 — 접두사 제거(메인과 동일)
+    const catLabel = chipLabel(c.category);   // 카테고리 칩 = 짧은 영어(KO·EN 공통)
     return `      <a class="ccard ${cls}" href="${escapeHtml(href)}">
         <div class="ccard__top">
           <span class="ccard__cat">${escapeHtml(catLabel)}</span>${sentiBadge(c, lang)}
@@ -515,8 +516,7 @@ function renderAllCards(cards, { lang = "ko" } = {}) {
 function newsIndexEntry(c, lang = "ko") {
   const cls = CATEGORY_CLASS[c.category] || "is-stock";
   const href = c.slug ? `articles/${c.slug}.html` : (c.href || "#");
-  const catLabel = (lang === "en" ? (CATEGORY_LABEL_EN[c.category] || c.categoryLabel) : c.categoryLabel || "")
-    .replace(/^[A-Z]+ · /, "");   // 토스형 칩 — 접두사 제거(메인과 동일)
+  const catLabel = chipLabel(c.category);   // 카테고리 칩 = 짧은 영어(KO·EN 공통)
   const titleF = fld(c, "title", lang), bodyF = fld(c, "body", lang);
   const titlePlain = titleF.replace(/<\/?em>/g, "");
   return {
@@ -765,8 +765,7 @@ function renderArticle(template, card, lang = "ko", pool = []) {
   const titleHtml = fld(card, "title", lang);
   const bodyRaw = fld(card, "body", lang);
   const summaryRaw = fld(card, "summary", lang);
-  const catLabel = (lang === "en" ? (CATEGORY_LABEL_EN[card.category] || card.categoryLabel) : card.categoryLabel || "")
-    .replace(/^[A-Z]+ · /, "");   // 토스형 칩 — 접두사 제거(메인·뉴스와 동일)
+  const catLabel = chipLabel(card.category);   // 카테고리 칩 = 짧은 영어(KO·EN 공통)
   const srcText = lang === "en" ? (SOURCE_LABEL_EN[srcLabel] || "Press") : srcKr;
 
   // 리드/본문 중복 제거:

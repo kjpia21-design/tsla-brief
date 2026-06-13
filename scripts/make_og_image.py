@@ -86,9 +86,9 @@ def main():
     draw.text((x, ly), "!",     font=logo_font, fill=RED, anchor="lm"); x += w_excl
     draw.text((x, ly), "ng",    font=logo_font, fill=INK, anchor="lm")
 
-    # ── 한국어 카피 (가운데) ──
+    # ── 영어 카피 (가운데) ──
     copy_font = F(NANUM_EB, 46)
-    seg1, seg2 = "테슬라 뉴스를 ", "한눈에 빠르게"
+    seg1, seg2 = "Tesla news, ", "at a glance"
     w1 = draw.textlength(seg1, font=copy_font)
     w2 = draw.textlength(seg2, font=copy_font)
     tx = (W - (w1 + w2)) / 2
@@ -98,7 +98,7 @@ def main():
 
     # ── 부제 (가운데) ──
     sub_font = F(NANUM_EB, 20)
-    draw.text((W / 2, int(470 * SCALE)), "SEC · 어닝 콜 · 머스크 발언 — 매일 한 통",
+    draw.text((W / 2, int(470 * SCALE)), "SEC · earnings calls · Elon — one brief a day",
               font=sub_font, fill=SUB, anchor="mm")
 
     # ── URL (좌하단) ──
@@ -109,7 +109,7 @@ def main():
     # ── 카테고리 (우하단) ──
     cat_font = F(NANUM_EB, 15)
     draw.text((int(1140 * SCALE), int(582 * SCALE)),
-              "Stock · Product · FSD/Robotaxi · 머스크 발언",
+              "Stock · Product · FSD/Robotaxi · Elon",
               font=cat_font, fill=SUB, anchor="rm")
 
     # 2x → 1200x630 다운스케일 (슈퍼샘플 안티앨리어싱)
