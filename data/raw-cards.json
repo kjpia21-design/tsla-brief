@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-13 19:45 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-13 21:21 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-13T19:46:14.000Z",
+      "title": "Cathie Wood sells $16.2 million of tumbling megacap stock",
+      "body": "Cathie Wood sells $16.2 million of tumbling megacap stock thestreet.com",
+      "sourceName": "thestreet.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-16-2-million-of-tumbling-megacap-stock"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-13T19:37:25.000Z",
       "title": "$tsla IPO and $SPCX IPO",
       "body": "$tsla IPO and $SPCX IPO https://t.co/SYYybkfzCr",
@@ -17,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-13T19:26:08.000Z",
       "title": "Once, Elon Musk was on the verge of bankruptcy. Despite the setbacks, he said he would never give up. Now, he has bec…",
       "body": "Once, Elon Musk was on the verge of bankruptcy. Despite the setbacks, he said he would never give up. Now, he has become the world's first trillionaire on paper. A reminder that some of the biggest success stories begin …",
@@ -30,7 +43,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-13T19:25:24.000Z",
       "title": "It's interesting that software engineers trust their coding agents more than I could trust the parts stamped out from…",
       "body": "It's interesting that software engineers trust their coding agents more than I could trust the parts stamped out from the laser-welded injection molding.",
@@ -41,9 +54,22 @@
       "href": "https://x.com/yunta_tsai/status/2065878218218078593"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-13T19:21:05.000Z",
+      "title": "Huge News for GM Stock, Tesla Stock, and Ford Stock Investors",
+      "body": "Huge News for GM Stock, Tesla Stock, and Ford Stock Investors The Motley Fool",
+      "sourceName": "The Motley Fool",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.fool.com/investing/2026/06/13/huge-news-for-gm-stock-tesla-stock-and-ford-stock/"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "31m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-13T19:14:16.000Z",
       "title": ".@AOC “Elon Musk is one of the most unintelligent billionaires I’ve ever met or seen.”",
       "body": ".@AOC “Elon Musk is one of the most unintelligent billionaires I’ve ever met or seen.” https://t.co/06YcBcPX0v",
@@ -56,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-13T17:55:30.000Z",
       "title": "SpaceX Engineer: triaging valve on Raptor turbopump ML Engineer: triaging solenoid valve on espresso dual boilers.",
       "body": "SpaceX Engineer: triaging valve on Raptor turbopump ML Engineer: triaging solenoid valve on espresso dual boilers. https://t.co/6VVmp7fOYw",
@@ -69,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-13T16:29:42.000Z",
       "title": "$Tesla (TSLA.US)$ Is this all about what people chose to believe?",
       "body": "$Tesla (TSLA.US)$ Is this all about what people chose to believe? Moomoo",
@@ -82,7 +108,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-13T16:23:28.000Z",
       "title": "Insider Trading Highlights: Tesla (TSLA), Microsoft (MSFT), and Pfizer (PFE) Transactions",
       "body": "Insider Trading Highlights: Tesla (TSLA), Microsoft (MSFT), and Pfizer (PFE) Transactions GuruFocus",
@@ -95,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-13T15:03:25.000Z",
       "title": "Insider trades: Microsoft, Tesla, Pfizer among notable names",
       "body": "Insider trades: Microsoft, Tesla, Pfizer among notable names Seeking Alpha",
@@ -108,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-13T14:47:27.000Z",
       "title": "New Tesla Supercharger: Sibiu, Romania - Calea Șurii Mari (12 stalls)",
       "body": "New Tesla Supercharger: Sibiu, Romania - Calea Șurii Mari (12 stalls) https://t.co/Ho4HvgWiFW https://t.co/CN1QmNyskK",
@@ -121,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-13T14:25:34.000Z",
       "title": "I wish there were more supply chain conferences like this in the Bay Area that I could bring my kid to visit. When I …",
       "body": "I wish there were more supply chain conferences like this in the Bay Area that I could bring my kid to visit. When I was a student, I went to a few expos and conferences like this that later inspired me to become an engi…",
@@ -134,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-13T13:50:56.000Z",
       "title": "Updated Tesla Cybertruck Prototype Shows Off New Features [Video]",
       "body": "Updated Tesla Cybertruck Prototype Shows Off New Features [Video] Not a Tesla App",
@@ -147,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-13T13:10:21.000Z",
       "title": "Tesla Model Y Involved in a Horrific Crash, Driver Walked To Tell the Story",
       "body": "Tesla Model Y Involved in a Horrific Crash, Driver Walked To Tell the Story Not a Tesla App",
@@ -160,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-13T12:00:01.000Z",
       "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
       "body": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company CNBC",
@@ -174,32 +200,19 @@
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "10h ago",
-      "pubDate": "2026-06-13T09:53:03.000Z",
-      "title": "Cybertruck and other Tesla references on The Simpsons throughout the years",
-      "body": "Cybertruck and other Tesla references on The Simpsons throughout the years Not a Tesla App",
+      "pubDate": "2026-06-13T11:24:13.000Z",
+      "title": "Cybertruck Details Revealed: Largest Display in Any Tesla, Rear-Wheel Steering Standard, 18-Inch Wheels",
+      "body": "Cybertruck Details Revealed: Largest Display in Any Tesla, Rear-Wheel Steering Standard, 18-Inch Wheels Not a Tesla App",
       "sourceName": "Not a Tesla App",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.notateslaapp.com/news/1045/cybertruck-and-model-x-make-cameo-appearances-in-the-simpsons+order+by+1148--+wwpn"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
-      "pubDate": "2026-06-13T08:21:53.000Z",
-      "title": "JPMorgan Highlights Tesla as a Long-Term Core Holding: What It Means for Investors",
-      "body": "JPMorgan Highlights Tesla as a Long-Term Core Holding: What It Means for Investors - Earnings Recovery Stocks newsline.com",
-      "sourceName": "newsline.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://newsline.com/expert-time/JPMorgan-Highlights-Tesla-as-a-LongTerm-Core-Holding-What-It-Means-for-Investors-32-2908"
+      "href": "https://www.notateslaapp.com/news/1259/e"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-13T07:22:10.000Z",
       "title": "New Tesla Supercharger: Wittstock, Germany (8 stalls)",
       "body": "New Tesla Supercharger: Wittstock, Germany (8 stalls) https://t.co/Cd1iwXehaJ https://t.co/hGKdUrXL0U",
@@ -212,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-13T06:59:50.000Z",
       "title": "A rocket has to fight the gravity well to reach space. But that is also why it grasps our emotions when it ascends to…",
       "body": "A rocket has to fight the gravity well to reach space. But that is also why it grasps our emotions when it ascends to space as we watch its ascent from struggle.",
@@ -225,7 +238,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-13T04:42:20.000Z",
       "title": "I am grateful to work under the greatest entrepreneur of our lifetime. If you had asked me 10 years ago if I would be…",
       "body": "I am grateful to work under the greatest entrepreneur of our lifetime. If you had asked me 10 years ago if I would be given such a chance, I would have told you what kind of crack you were smoking. There were many storie…",
@@ -238,7 +251,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-13T04:04:44.000Z",
       "title": "When most companies' opening remarks during their IPOs were about profit, today it hits something different. It is ho…",
       "body": "When most companies' opening remarks during their IPOs were about profit, today it hits something different. It is hope. The once-inspiring future that excited us when we were young but that we dropped after growing up—w…",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/yunta_tsai/status/2065646527947964784"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "51d ago",
-      "pubDate": "2026-04-23T23:11:52.000Z",
-      "title": "Tesla claims boost Giga Berlin production 20%, but numbers don’t add up",
-      "body": "Tesla lists Giga Berlin’s Model Y production capacity at more than 375,000 units per year — roughly 93,000 per quarter. The plant manager just celebrated a “record” Q1 2026 of 61,000 units and announced a 20% production …",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/04/23/tesla-giga-berlin-production-increase-still-below-capacity/"
     }
   ]
 }
