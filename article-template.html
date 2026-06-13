@@ -21,198 +21,107 @@
 <meta name="twitter:image" content="<!-- BLOCK:A_OG_IMG -->https://teslabriefing.com/assets/og-image.png<!-- /BLOCK:A_OG_IMG -->">
 <script type="application/ld+json"><!-- BLOCK:A_JSONLD -->{}<!-- /BLOCK:A_JSONLD --></script>
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.3/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap">
-<!-- BLOCK:EN_FONTS --><!-- /BLOCK:EN_FONTS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
-  /* 영어(/en/): 본문 Inter, 헤드라인·리드 Newsreader 세리프 */
-  html[lang="en"] body{font-family:"Inter",system-ui,-apple-system,sans-serif}
-  html[lang="en"] h1,html[lang="en"] h2,html[lang="en"] .art__lead,html[lang="en"] .art__related__h{font-family:"Newsreader",Georgia,"Times New Roman",serif}
-  /* Tesla Briefing — 카드 상세 (LIGHT, READER MODE)
-   * 홈은 다크, 본문 읽기 페이지는 라이트 — 신문/매거진 패턴.
-   * 카테고리 액센트 컬러만 유지, 본문은 흰 배경 + 검정 글자로 가독성 극대화. */
+  /* Tesla Brief!ng — 기사 상세 (토스형 시스템 통일, 2026-06)
+   *  메인·전체뉴스와 동일: 440px 모바일 칼럼 · Pretendard 단일 · 라이트 흰 리딩면 · 하단 탭바
+   *  카테고리 컬러 = 칩·강조·CTA 액센트만. 등락색은 미국식. */
   :root{
-    --bg:#FFFFFF; --bg-2:#F6F6F8; --bg-3:#EDEDF1;
-    --line:#E2E2E8; --line-mute:#EFEFF3;
-    --ink:#0E0E12;       /* 본문 — 거의 검정 */
-    --ink-mid:#3A3A42;   /* 보조 텍스트 */
-    --ink-mute:#7A7A84;  /* 메타·날짜 */
-    --tesla-red:#E31937; --red-deep:#A30E25;
-    --c-stock:#E31937; --c-product:#1B6CFF; --c-fsd:#0BA9C2; --c-musk:#D97706;
-    --c-sec:#16A34A; --c-official:#8B5CF6; --c-press:#0D9488; --c-rumor:#9CA3AF;
-    --max-w:720px; --gutter:clamp(16px,4vw,40px);
-    --r-md:12px; --r-lg:18px; --r-xl:24px; --r-pill:999px;
-    --shadow-sm:0 1px 3px rgba(14,14,18,.06);
-    --shadow-md:0 6px 20px -6px rgba(14,14,18,.12);
-    --ease:cubic-bezier(.2,.7,.2,1);
+    --bg:#ffffff; --canvas:#e9ebee; --soft:#f4f6f8;
+    --line:#e8ecf0; --line-mute:#eef1f4;
+    --ink:#191f28; --ink-mid:#4e5968; --ink-mute:#8b95a1;
+    --red:#E31937;
+    --up:#16A34A; --dn:#EF4444;
+    /* 출처 등급 점 */
+    --c-sec:#16A34A; --c-official:#8B5CF6; --c-press:#0EA5A4; --c-rumor:#9AA1AC;
   }
-  *{box-sizing:border-box}
-  html,body{margin:0;padding:0}
-  body{
-    background:var(--bg);color:var(--ink);
-    font-family:"Wanted Sans Variable","Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
-    line-height:1.7;font-size:16px;-webkit-font-smoothing:antialiased;
-    padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right);
-  }
+  /* 카테고리 색(칩·강조·CTA) — 카드와 동일 톤 */
+  .is-stock{--cat:#D31430;--cat-soft:rgba(227,25,55,.08)}
+  .is-product{--cat:#1B6CFF;--cat-soft:rgba(27,108,255,.08)}
+  .is-fsd{--cat:#0E9CB8;--cat-soft:rgba(34,211,238,.12)}
+  .is-musk{--cat:#D97706;--cat-soft:rgba(245,158,11,.12)}
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--canvas);color:var(--ink);
+    font-family:"Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    line-height:1.7;font-size:16px;letter-spacing:-.02em;-webkit-font-smoothing:antialiased}
   a{color:inherit;text-decoration:none}
   img,svg,object{display:block;max-width:100%}
-  .wrap{max-width:var(--max-w);margin:0 auto;padding-left:var(--gutter);padding-right:var(--gutter)}
-  .mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+  .page{max-width:440px;margin:0 auto;background:var(--bg);min-height:100vh;box-shadow:0 0 32px rgba(0,0,0,.06)}
+  .wrap{padding:0 20px}
 
-  /* nav — 라이트 테마, 다크 홈으로 돌아가는 버튼 강조 */
-  .nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.92);backdrop-filter:blur(14px) saturate(140%);-webkit-backdrop-filter:blur(14px) saturate(140%);border-bottom:1px solid var(--line)}
-  .nav__inner{display:flex;align-items:center;justify-content:space-between;height:56px}
-  /* SPLIT BLOCK 로고 — 라이트 테마 variant (TSLA 빨강 박스 + Brief!ng italic 검정) */
-  /* 워드마크 로고 — Tesla(red) + Brief!ng('!'만 red). 메인 페이지와 동일. */
-  .brand{display:inline-flex;align-items:baseline;gap:5px;text-decoration:none}
-  .brand__block{
-    font-family:"Wanted Sans Variable","Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:700;font-size:20px;
-    color:var(--tesla-red);letter-spacing:-0.02em;line-height:1;flex-shrink:0;
-  }
-  .brand__text{
-    font-family:"Wanted Sans Variable","Pretendard Variable",Pretendard,system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-weight:800;font-size:20px;
-    color:var(--ink);letter-spacing:-0.02em;line-height:1;font-style:normal;
-    white-space:nowrap;
-  }
-  .brand__text em{color:var(--tesla-red);font-style:normal;font-weight:800}
-  @media (min-width:768px){ .brand__block{font-size:17px} .brand__text{font-size:17px} }
-  .nav__back{
-    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink);font-weight:600;
-    padding:8px 14px;border:1px solid var(--line);border-radius:var(--r-pill);
-    background:var(--bg);transition:color var(--ease),border-color var(--ease),background var(--ease);
-  }
-  .nav__back:hover{border-color:var(--ink-mid);background:var(--bg-2)}
+  /* nav */
+  .nav{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line-mute)}
+  .nav__inner{display:flex;align-items:center;justify-content:space-between;height:57px;padding:0 16px}
+  .brand{display:inline-flex;align-items:baseline;gap:5px;font-weight:800;font-size:18px;letter-spacing:-.02em}
+  .brand__block{color:var(--red);font-weight:800}
+  .brand__text{color:var(--ink);font-weight:800}
+  .brand__text em{color:var(--red);font-style:normal}
+  .nav__back{font-size:12px;font-weight:700;color:var(--ink-mid);padding:7px 13px;border:1px solid var(--line);border-radius:999px;background:var(--bg)}
 
   /* article */
-  article{padding:32px 0 64px}
-  .art__cat{
-    display:inline-flex;align-items:center;gap:9px;
-    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.22em;
-    color:var(--cat-color,var(--tesla-red));font-weight:700;text-transform:uppercase;
-  }
-  .art__cat::before{content:"";width:9px;height:9px;border-radius:50%;background:var(--cat-color,var(--tesla-red));box-shadow:0 0 10px rgba(0,0,0,.08)}
-  .is-stock{--cat-color:var(--c-stock)}
-  .is-product{--cat-color:var(--c-product)}
-  .is-fsd{--cat-color:var(--c-fsd)}
-  .is-musk{--cat-color:var(--c-musk)}
-
-  .art__title{
-    font-size:clamp(28px,5.5vw,40px);font-weight:800;line-height:1.22;
-    letter-spacing:-0.015em;margin:18px 0 0;color:var(--ink);word-break:keep-all;
-  }
-  .art__title em{font-style:italic;color:var(--cat-color,var(--tesla-red));font-weight:700}
-
-  .art__meta{
-    display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-top:18px;
-    padding:14px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
-    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;
-    color:var(--ink-mute);letter-spacing:.04em;
-  }
-  .art__meta b{color:var(--ink);font-weight:700}
+  article{padding:22px 0 26px}
+  .art__cat{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.02em;color:var(--cat,var(--red));background:var(--cat-soft,rgba(227,25,55,.08));border-radius:6px;padding:3px 9px}
+  .art__title{font-size:24px;font-weight:800;line-height:1.32;letter-spacing:-.02em;margin:13px 0 0;color:var(--ink);word-break:keep-all}
+  .art__title em{font-style:normal;color:var(--cat,var(--red));font-weight:800}
+  .art__meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:13px;padding:11px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);font-size:11.5px;color:var(--ink-mute);font-weight:600;font-variant-numeric:tabular-nums}
+  .art__meta b{color:var(--ink-mid);font-weight:700}
   .art__meta .src-dot{display:inline-flex;align-items:center;gap:6px}
-  /* 출처 마커는 둥근 사각형 — 원형 카테고리 표시와 구분 */
-  .art__meta .src-dot i{width:8px;height:8px;border-radius:2px;display:inline-block}
-  .art__meta .d-sec{background:var(--c-sec)}
-  .art__meta .d-off{background:var(--c-official)}
-  .art__meta .d-press{background:var(--c-press)}
-  .art__meta .d-rumor{background:var(--c-rumor)}
-  /* 교차검증(#1) */
-  .art__confirmed{color:#16A34A;font-weight:700}
-  .art__source__also{margin-top:10px;font-size:13px;color:var(--ink-mute);letter-spacing:.01em}
-  /* 강세/약세 태그(#2) */
-  .senti{font-size:11px;font-weight:700;letter-spacing:.02em;padding:1px 8px;border-radius:999px;display:inline-flex;align-items:center;vertical-align:middle}
-  .senti--bull{color:#16A34A;background:rgba(22,163,74,.12)}
-  .senti--bear{color:#DC2626;background:rgba(239,68,68,.10)}
+  .art__meta .src-dot i{width:7px;height:7px;border-radius:50%;display:inline-block}
+  .art__meta .d-sec{background:var(--c-sec)} .art__meta .d-off{background:var(--c-official)}
+  .art__meta .d-press{background:var(--c-press)} .art__meta .d-rumor{background:var(--c-rumor)}
+  .art__confirmed{color:var(--c-sec);font-weight:700}
+  .senti{font-size:10.5px;font-weight:800;padding:1.5px 7px;border-radius:6px;display:inline-flex;align-items:center}
+  .senti--bull{color:var(--up);background:rgba(22,163,74,.13)}
+  .senti--bear{color:var(--dn);background:rgba(239,68,68,.12)}
 
-  /* lead + summary */
-  .art__lead{
-    font-size:19px;line-height:1.6;color:var(--ink);
-    margin:28px 0 20px;font-weight:500;letter-spacing:-0.005em;
-    word-break:keep-all;
-    padding:16px 20px;
-    border-left:3px solid var(--cat-color,var(--tesla-red));
-    background:color-mix(in srgb, var(--cat-color,var(--tesla-red)) 8%, #fff);
-    border-radius:0 var(--r-md) var(--r-md) 0;
-  }
-  .art__summary{margin-top:14px}
-  .art__summary p{
-    margin:0 0 22px;color:var(--ink);font-size:17px;line-height:1.85;
-    word-break:keep-all;letter-spacing:-0.003em;
-  }
+  /* lead + 본문 */
+  .art__lead{font-size:16.5px;line-height:1.66;color:var(--ink);font-weight:600;margin:20px 0 18px;
+    padding:0 0 0 14px;border-left:3px solid var(--cat,var(--red));word-break:keep-all}
+  .art__summary p{margin:0 0 18px;color:var(--ink-mid);font-size:15.5px;line-height:1.78;word-break:keep-all}
   .art__summary p:last-child{margin-bottom:0}
-  .art__summary em{
-    color:var(--cat-color,var(--ink));font-style:italic;
-    font-weight:700;
-  }
+  .art__summary em{color:var(--cat,var(--ink));font-style:normal;font-weight:700}
 
-  /* 원본 박스 — 클릭 영역 명확, 카테고리 컬러 액센트 */
-  .art__source{
-    margin-top:32px;padding:18px 20px;
-    background:var(--bg-2);border:1px solid var(--line);border-radius:var(--r-lg);
-    display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;
-    position:relative;overflow:hidden;
-  }
-  .art__source::before{content:"";position:absolute;inset:0 auto 0 0;width:3px;background:var(--cat-color,var(--tesla-red));opacity:.85}
-  .art__source__meta{display:flex;flex-direction:column;gap:4px;min-width:0}
-  .art__source__label{
-    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10.5px;letter-spacing:.18em;
-    color:var(--ink-mute);text-transform:uppercase;font-weight:700;
-    display:inline-flex;align-items:center;gap:6px;
-  }
-  .art__source__label i{width:8px;height:8px;border-radius:2px;display:inline-block}
-  .art__source__label .d-sec{background:var(--c-sec)}
-  .art__source__label .d-off{background:var(--c-official)}
-  .art__source__label .d-press{background:var(--c-press)}
-  .art__source__label .d-rumor{background:var(--c-rumor)}
-  .art__source__name{color:var(--ink);font-size:17px;font-weight:700;letter-spacing:-0.01em}
-  .art__source__cta{
-    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:13px;font-weight:700;
-    padding:11px 18px;border-radius:var(--r-pill);
-    background:var(--cat-color,var(--tesla-red));color:#fff;
-    transition:transform var(--ease),background var(--ease),box-shadow var(--ease);
-    white-space:nowrap;letter-spacing:.02em;
-    box-shadow:0 2px 8px -2px rgba(0,0,0,.15);
-  }
-  .art__source__cta:hover{transform:translateY(-1px);box-shadow:0 4px 12px -2px rgba(0,0,0,.2)}
-  .art__source__cta::after{content:" ↗";margin-left:4px}
-  /* 관련 기사 (같은 카테고리 최근 글) */
-  .art__related{margin-top:40px;padding-top:26px;border-top:1px solid var(--line)}
-  .art__related__h{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:700;letter-spacing:.06em;color:var(--ink-mute);text-transform:uppercase;margin:0 0 4px}
-  .art__rel__item{display:flex;align-items:baseline;justify-content:space-between;gap:14px;padding:14px 0;border-bottom:1px solid var(--line-mute);text-decoration:none}
-  .art__rel__item:hover .art__rel__t{color:var(--tesla-red)}
-  .art__rel__t{color:var(--ink);font-size:16px;font-weight:600;line-height:1.45;word-break:keep-all;transition:color .15s}
-  .art__rel__time{flex-shrink:0;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-mute);white-space:nowrap}
+  /* 원본 박스 — 연회색 카드 */
+  .art__source{margin-top:26px;padding:16px 18px;background:var(--soft);border-radius:16px;
+    display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+  .art__source__meta{display:flex;flex-direction:column;gap:3px;min-width:0}
+  .art__source__label{font-size:10px;letter-spacing:.12em;color:var(--ink-mute);text-transform:uppercase;font-weight:700;display:inline-flex;align-items:center;gap:6px}
+  .art__source__label i{width:7px;height:7px;border-radius:50%;display:inline-block}
+  .art__source__label .d-sec{background:var(--c-sec)} .art__source__label .d-off{background:var(--c-official)}
+  .art__source__label .d-press{background:var(--c-press)} .art__source__label .d-rumor{background:var(--c-rumor)}
+  .art__source__name{color:var(--ink);font-size:15px;font-weight:700;letter-spacing:-.01em}
+  .art__source__cta{font-size:13px;font-weight:800;padding:11px 16px;border-radius:12px;background:var(--cat,var(--red));color:#fff;white-space:nowrap}
+  .art__source__cta::after{content:" ↗"}
+  .art__source__also{margin-top:12px;font-size:12.5px;color:var(--ink-mute);font-weight:600;line-height:1.6}
 
-  .art__disclaimer{
-    margin-top:22px;color:var(--ink-mute);font-size:12px;line-height:1.7;
-    font-family:"IBM Plex Mono",ui-monospace,monospace;letter-spacing:.02em;
-  }
+  /* 관련 기사 */
+  .art__related{margin-top:30px}
+  .art__related__h{font-size:13px;font-weight:800;letter-spacing:.02em;color:var(--ink);margin:0 0 8px}
+  .art__rel__item{display:flex;align-items:baseline;justify-content:space-between;gap:12px;padding:13px 16px;margin-bottom:8px;background:var(--soft);border-radius:14px}
+  .art__rel__t{color:var(--ink);font-size:14.5px;font-weight:600;line-height:1.45;word-break:keep-all}
+  .art__rel__time{flex-shrink:0;font-size:11px;color:var(--ink-mute);font-weight:600;white-space:nowrap}
+
+  .art__disclaimer{margin-top:22px;color:var(--ink-mute);font-size:11.5px;line-height:1.7}
   .art__disclaimer b{color:var(--ink-mid);font-weight:700}
 
-  /* footer — 라이트 */
-  footer{border-top:1px solid var(--line);padding:36px 0 calc(28px + env(safe-area-inset-bottom));margin-top:32px;color:var(--ink-mute);background:var(--bg-2)}
-  .footer__inner{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.04em;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+  /* footer + 탭바 — 메인과 동일 */
+  footer{padding:22px 0 96px;text-align:center;color:var(--ink-mute)}
+  .footer__inner{font-size:10.5px;display:flex;flex-direction:column;align-items:center;gap:6px;line-height:1.7}
   .footer__inner a{color:var(--ink-mid);font-weight:600}
-  .footer__inner a:hover{color:var(--ink)}
-
-  @media (min-width:768px){
-    article{padding:48px 0 80px}
-    .art__title{margin-top:22px}
-    .art__lead{font-size:21px;margin-top:32px}
-    .art__summary p{font-size:18px}
-  }
-  /* 키보드 포커스 링 + 모션 민감 사용자 대응 */
-  :focus-visible{outline:2px solid var(--tesla-red);outline-offset:2px;border-radius:4px}
-  @media (prefers-reduced-motion: reduce){
-    *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}
-  }
+  .tabbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:440px;display:flex;background:rgba(255,255,255,.97);backdrop-filter:blur(10px);border-top:1px solid var(--line);padding:8px 0 14px;z-index:40}
+  .tabbar a{flex:1;text-align:center;font-size:10.5px;color:var(--ink-mute);font-weight:700}
+  .tabbar .ic{display:block;font-size:19px;line-height:1.3;height:25px}
+  .tabbar .ic svg{vertical-align:middle;display:inline}
+  :focus-visible{outline:2px solid var(--red);outline-offset:2px;border-radius:4px}
+  @media (prefers-reduced-motion: reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
 </style>
 </head>
 <body>
+<div class="page">
 
 <header class="nav">
-  <div class="wrap nav__inner">
+  <div class="nav__inner">
     <a class="brand" href="../index.html" aria-label="Tesla Briefing — 홈">
       <span class="brand__block">Tesla</span>
       <span class="brand__text">Brief<em>!</em>ng</span>
@@ -257,10 +166,18 @@
 
 <footer>
   <div class="wrap footer__inner">
-    <span>© 2026 TESLA BRIEFING · NOT INVESTMENT ADVICE</span>
+    <span>© 2026 TESLA BRIEF!NG · NOT INVESTMENT ADVICE</span>
     <span><a href="../index.html">← 홈으로 돌아가기</a></span>
   </div>
 </footer>
 
+<nav class="tabbar" aria-label="하단 메뉴">
+  <a href="../index.html"><span class="ic">🏠</span>홈</a>
+  <a href="../news.html"><span class="ic">📰</span>전체뉴스</a>
+  <a href="../index.html#calendar"><span class="ic">📅</span>캘린더</a>
+  <a href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener"><span class="ic"><svg viewBox="0 0 24 24" width="21" height="21" aria-hidden="true"><path fill="#FF0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.546 15.568V8.432L15.818 12l-6.272 3.568z"/></svg></span>YouTube</a>
+</nav>
+
+</div><!-- /.page -->
 </body>
 </html>

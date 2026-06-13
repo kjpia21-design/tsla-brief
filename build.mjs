@@ -765,7 +765,8 @@ function renderArticle(template, card, lang = "ko", pool = []) {
   const titleHtml = fld(card, "title", lang);
   const bodyRaw = fld(card, "body", lang);
   const summaryRaw = fld(card, "summary", lang);
-  const catLabel = lang === "en" ? (CATEGORY_LABEL_EN[card.category] || card.categoryLabel) : card.categoryLabel;
+  const catLabel = (lang === "en" ? (CATEGORY_LABEL_EN[card.category] || card.categoryLabel) : card.categoryLabel || "")
+    .replace(/^[A-Z]+ · /, "");   // 토스형 칩 — 접두사 제거(메인·뉴스와 동일)
   const srcText = lang === "en" ? (SOURCE_LABEL_EN[srcLabel] || "Press") : srcKr;
 
   // 리드/본문 중복 제거:
