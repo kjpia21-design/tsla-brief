@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-13T09:41:18.000Z",
+      "title": "웨드부시 댄 아이브스, CNBC서 SpaceX·테슬라 합병 <em>2027년 확률 80%</em> 공개 제시",
+      "hotShort": "댄 아이브스, 테슬라·SpaceX 합병 <em>2027년 80%</em>",
+      "body": "테슬라 대표 강세 애널리스트 웨드부시의 댄 아이브스가 CNBC FastMoney에서 SpaceX와 테슬라 합병이 2027년 내 이루어질 확률을 80%로 공개 제시했다 — SpaceX 나스닥 상장 당일 대형 기관 애널리스트가 구체적 확률을 붙인 것은, 합병 시나리오를 시장이 본격적으로 가격에 반영하기 시작하는 신호로 읽힌다.",
+      "sourceName": "Dan Ives (X)",
+      "sourceLabel": "press",
+      "slug": "musk-dan-ives-spacex-tesla-merger-80pct-2027-2026-06-13",
+      "summary": "웨드부시 시큐리티스의 수석 주식 애널리스트 댄 아이브스가 6월 13일 CNBC FastMoney에 출연해 SpaceX와 테슬라의 합병이 2027년 내 이루어질 확률을 80%로 제시했다. 아이브스는 테슬라에 강한 매수 의견을 일관되게 유지해온 월가 대표 강세 애널리스트로, 그의 구체적 확률 발언은 기관 투자자 사이에서 주목을 받는다.\n\n이 발언은 SpaceX가 나스닥에 공식 상장된 바로 다음날 나왔다. SpaceX IPO를 계기로 두 회사 모두 공개 시가총액을 갖게 됐고, 합병 교환 비율 협상의 기술적 기반이 마련됐다. 전날 SpaceX COO 귀니 쇼트웰도 합병이 '머스크의 삶을 좀 더 편하게 해줄 수 있을 것'이라고 언급한 바 있어, 합병 논의를 긍정하는 공개 발언이 연이어 나오는 흐름이다.\n\n아이브스의 80% 수치는 애널리스트 개인 판단으로, 테슬라·SpaceX 또는 머스크의 공식 발표가 아니다. 합병이 실현된다면 교환 비율 구조가 테슬라 주주에게 어떤 가치를 부여하느냐가 핵심 변수다 — SpaceX 시가총액이 이미 테슬라를 초과한 상황에서, 테슬라 주주가 합병 후 SpaceX 가치에 충분히 참여할 수 있는 조건이어야 실질적 수혜가 된다.\n\n합병 시나리오가 구체화될수록 테슬라 주가에는 M&A 옵션 프리미엄이 추가 반영될 수 있다. 반대로 합병이 성사되지 않거나 조건이 불리하면 해당 프리미엄은 조정 대상이 된다. 아이브스의 80% 발언은 이 불확실성이 상당히 좁혀졌다는 강세론 측의 인식을 반영한다.",
+      "title_en": "Wedbush's Dan Ives puts <em>80% odds on a 2027 SpaceX-Tesla merger</em> on CNBC",
+      "hotShort_en": "Dan Ives: SpaceX-Tesla merger <em>80% by 2027</em>",
+      "body_en": "Wedbush senior equity analyst Dan Ives — one of Wall Street's most prominent Tesla bulls — publicly assigned an 80% probability to a SpaceX-Tesla merger closing by 2027, speaking on CNBC FastMoney. The call, made the day after SpaceX's Nasdaq IPO gave both companies live public market valuations, is the most specific probability estimate from a major Wall Street analyst on the merger scenario to date.",
+      "summary_en": "Wedbush Securities senior equity analyst Dan Ives said on CNBC FastMoney on June 13 that he sees an 80% probability of a SpaceX-Tesla merger by 2027. Ives has maintained a consistently bullish view on Tesla and is among the most-followed analysts on the stock, making his explicit probability statement notable for institutional investors tracking the merger thesis.\n\nThe timing follows SpaceX's June 12 Nasdaq IPO, which for the first time gave both Tesla and SpaceX live public market capitalizations. That development creates the technical foundation for a merger negotiation — exchange ratios can now be anchored to observable market prices. The same week, SpaceX COO Gwynne Shotwell publicly acknowledged the merger could make Musk's life easier, continuing a pattern of signals from within the Musk ecosystem.\n\nIves' 80% figure is a personal analyst estimate, not a corporate announcement from Tesla, SpaceX, or Musk. The key variable for Tesla shareholders in any merger scenario is the exchange ratio — specifically, whether Tesla holders participate meaningfully in SpaceX's valuation given that SpaceX's market cap already exceeded Tesla's after the IPO. A favorable ratio would make Tesla the better vehicle for capturing SpaceX upside; an unfavorable one would dilute Tesla shareholders.\n\nIf the merger thesis becomes widely priced in, Tesla's stock could carry an M&A optionality premium on top of standalone fundamentals. If the deal does not close — or closes on terms that disadvantage Tesla shareholders — that premium would be subject to reversal. Ives placing the probability at 80% signals the bull camp increasingly treats the merger as a likely outcome rather than a tail scenario.",
+      "href": "https://x.com/DivesTech/status/2065731224967016738",
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
@@ -2021,23 +2041,7 @@
       "href": "https://www.barchart.com/story/news/2342852/tesla-sales-in-china-are-popping-but-that-means-nothing-if-you-cant-stomach-tsla-stocks-absurd-p-e-ratio",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-06T19:25:57.000Z",
-      "title": "NIO 5월 인도량 62% 폭증 — 중국 EV 경쟁 격화에 테슬라 <em>주가 3% 하락</em>",
-      "hotShort": "NIO 인도량 62% 급증에 테슬라 <em>주가 3% 하락</em>",
-      "body": "NIO의 5월 인도량이 전년 대비 62% 폭증하며 NIO 주가가 7% 급등한 날, 테슬라 주가는 3% 하락했다 — 중국 전기차 시장에서 현지 브랜드의 공세가 투자자 심리에 직접 영향을 미치고 있다는 시장 신호다.",
-      "sourceName": "AOL.com",
-      "sourceLabel": "press",
-      "slug": "stock-nio-blowout-tesla-sinks-china-ev-2026-06-06",
-      "summary": "NIO가 2026년 5월 인도량이 전년 동기 대비 62% 급증했다고 발표한 날, 시장은 뚜렷한 대조를 보였다. NIO 주가가 7% 이상 급등하는 동안 테슬라 주가는 같은 날 3% 내렸다.\n\nNIO의 62% 인도량 성장은 중국 전기차 시장에서 현지 브랜드들의 경쟁력이 얼마나 빠르게 강화되고 있는지를 보여주는 지표다. NIO는 그간 재무 건전성 우려와 치열한 가격 경쟁 속에서도 프리미엄 세그먼트에서 입지를 강화해왔으며, 이번 실적은 그 전략이 결실을 맺기 시작했음을 시사한다.\n\n테슬라에게 중국은 미국 다음으로 가장 큰 단일 시장이다. 현지 브랜드들의 인도량 급증은 테슬라의 중국 시장 점유율과 마진율에 직접적인 하방 압력으로 작용한다. 특히 2분기(4~6월)는 테슬라의 글로벌 인도 실적이 결정되는 시기로, 중국 수요 동향이 전체 분기 성적에 미치는 영향이 크다.\n\nNIO 실적이 테슬라 주가에 직접 영향을 미쳤다고 단정하기보다는, 이 두 사건이 같은 날 겹치면서 중국 EV 경쟁에 대한 투자자들의 우려가 반영됐다고 보는 것이 적절하다. 7월 초 발표될 테슬라의 Q2 인도 리포트에서 중국 시장 성과를 확인하는 것이 가장 중요한 다음 체크포인트다.",
-      "href": "https://www.aol.com/articles/nio-soars-7-blowout-may-173514000.html",
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-06-13 13:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-13 19:30 KST 자동 갱신 · 최신순"
 }
