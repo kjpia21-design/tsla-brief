@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-13 11:56 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-13 12:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
@@ -147,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-13T03:30:05.000Z",
       "title": "When working on something so grand, you feel so small. Sometimes we might quarrel over execution, but we quickly forg…",
       "body": "When working on something so grand, you feel so small. Sometimes we might quarrel over execution, but we quickly forget it and move on to the next critical path. It is a journey of a lifetime, and it is never too late to…",
@@ -171,6 +171,19 @@
       "href": "https://x.com/TeslaCharging/status/2065611369412735272"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "11h ago",
+      "pubDate": "2026-06-13T00:57:30.000Z",
+      "title": "🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",
+      "body": "🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 https://t.co/qksTzADdUB",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2065599409358766234"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "12h ago",
@@ -182,19 +195,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.harianbasis.co/en/tesla-capex-slowing-revenue-growth"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "16h ago",
-      "pubDate": "2026-06-12T20:19:31.000Z",
-      "title": "SpaceX Passes Tesla as Most Valuable Company in Musk’s Portfolio",
-      "body": "SpaceX Passes Tesla as Most Valuable Company in Musk’s Portfolio Bloomberg",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-passes-tesla-as-most-valuable-company-in-musk-s-portfolio"
     },
     {
       "category": "product",
