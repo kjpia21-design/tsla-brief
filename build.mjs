@@ -49,7 +49,7 @@ const CATEGORY_LABEL_EN = {
   musk:    "ELON · Elon News",
 };
 // 카드·기사 카테고리 칩 라벨 — 짧은 영어(KO·EN 공통, JP 요청 2026-06-12). 칩이라 1단어.
-const CARD_CHIP = { stock: "Stock", product: "Product", fsd: "FSD", musk: "Elon" };
+const CARD_CHIP = { stock: "Stock", product: "Product", fsd: "FSD/Robotaxi", musk: "Elon" };
 const chipLabel = (cat) => CARD_CHIP[cat] || "News";
 
 // 4단계 출처 표시 순서: 1차(green) → 공식(blue) → 외신(orange) → 추측(grey)
