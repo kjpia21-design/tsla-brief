@@ -1,36 +1,49 @@
 {
-  "asOf": "2026-06-13 12:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-13 13:55 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
-      "pubDate": "2026-06-13T09:41:18.000Z",
-      "title": "We see SpaceX/Tesla merger as an 80% probability for 2027 @CNBCFastMoney 🍿🍿👇",
-      "body": "We see SpaceX/Tesla merger as an 80% probability for 2027 @CNBCFastMoney 🍿🍿👇 https://t.co/upxI34vGYA",
-      "sourceName": "Dan Ives (X)",
+      "pubDate": "2026-06-13T12:16:20.000Z",
+      "title": "Summit Financial LLC Purchases 4,338 Shares of Tesla, Inc. $TSLA",
+      "body": "Summit Financial LLC Purchases 4,338 Shares of Tesla, Inc. $TSLA MarketBeat",
+      "sourceName": "MarketBeat",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/DivesTech/status/2065731224967016738"
+      "href": "https://www.marketbeat.com/instant-alerts/filing-summit-financial-llc-purchases-4338-shares-of-tesla-inc-tsla-2026-06-13/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-13T12:15:36.000Z",
+      "title": "Korea Investment CORP Sells 47,394 Shares of Tesla, Inc. $TSLA",
+      "body": "Korea Investment CORP Sells 47,394 Shares of Tesla, Inc. $TSLA MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-korea-investment-corp-sells-47394-shares-of-tesla-inc-tsla-2026-06-13/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
-      "pubDate": "2026-06-13T09:38:53.000Z",
-      "title": "A major day for Musk and SpaceX @ErinBurnett @OutFrontCNN @CNN 🚀🍿👇",
-      "body": "A major day for Musk and SpaceX @ErinBurnett @OutFrontCNN @CNN 🚀🍿👇 https://t.co/gRXi3LfDVu",
-      "sourceName": "Dan Ives (X)",
+      "pubDate": "2026-06-13T12:00:01.000Z",
+      "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
+      "body": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/DivesTech/status/2065730620383260775"
+      "href": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-13T07:58:11.000Z",
       "title": "Within ~5 years, probably ~5 times as many satellites as rest of world",
       "body": "Within ~5 years, probably ~5 times as many satellites as rest of world https://t.co/EODE2lcbM0",
@@ -43,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-13T07:48:49.000Z",
       "title": "Starship is a very big rocket",
       "body": "Starship is a very big rocket https://t.co/0RyGe3CPzS",
@@ -54,22 +67,9 @@
       "href": "https://x.com/elonmusk/status/2065702920427896916"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-06-13T07:43:15.000Z",
-      "title": "Tesla, Inc. $TSLA Stock Position Cut by Gerber Kawasaki Wealth & Investment Management",
-      "body": "Tesla, Inc. $TSLA Stock Position Cut by Gerber Kawasaki Wealth & Investment Management MarketBeat",
-      "sourceName": "MarketBeat",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-tesla-inc-tsla-stock-position-cut-by-gerber-kawasaki-wealth-investment-management-2026-06-13/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-13T07:22:10.000Z",
       "title": "New Tesla Supercharger: Wittstock, Germany (8 stalls)",
       "body": "New Tesla Supercharger: Wittstock, Germany (8 stalls) https://t.co/Cd1iwXehaJ https://t.co/hGKdUrXL0U",
@@ -82,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-13T06:59:50.000Z",
       "title": "A rocket has to fight the gravity well to reach space. But that is also why it grasps our emotions when it ascends to…",
       "body": "A rocket has to fight the gravity well to reach space. But that is also why it grasps our emotions when it ascends to space as we watch its ascent from struggle.",
@@ -95,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-13T06:06:24.000Z",
       "title": "Starlink on a Cybercab",
       "body": "Starlink on a Cybercab https://t.co/G3UHQ0vlFM",
@@ -108,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-13T04:42:20.000Z",
       "title": "I am grateful to work under the greatest entrepreneur of our lifetime. If you had asked me 10 years ago if I would be…",
       "body": "I am grateful to work under the greatest entrepreneur of our lifetime. If you had asked me 10 years ago if I would be given such a chance, I would have told you what kind of crack you were smoking. There were many storie…",
@@ -119,9 +119,22 @@
       "href": "https://x.com/yunta_tsai/status/2065655990171963779"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "9h ago",
+      "pubDate": "2026-06-13T04:34:35.000Z",
+      "title": "Tesla Shows Off V4 Supercharger With Space For Screen and Payment Terminal",
+      "body": "Tesla Shows Off V4 Supercharger With Space For Screen and Payment Terminal Not a Tesla App",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.notateslaapp.com/news/1518/tesla-shows-off-v4-supercharger-with-space-for-screen-and-payment-terminal."
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-13T04:04:44.000Z",
       "title": "When most companies' opening remarks during their IPOs were about profit, today it hits something different. It is ho…",
       "body": "When most companies' opening remarks during their IPOs were about profit, today it hits something different. It is hope. The once-inspiring future that excited us when we were young but that we dropped after growing up—w…",
@@ -132,22 +145,9 @@
       "href": "https://x.com/yunta_tsai/status/2065646527947964784"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-13T03:32:36.000Z",
-      "title": "NAA ALL CAP VALUE SERIES's Tesla Inc(TSLA) Holding History",
-      "body": "NAA ALL CAP VALUE SERIES's Tesla Inc(TSLA) Holding History GuruFocus",
-      "sourceName": "GuruFocus",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.gurufocus.com/guru-portfolio/NAA%20ALL%20CAP%20VALUE%20SERIES/TSLA"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-13T03:30:05.000Z",
       "title": "When working on something so grand, you feel so small. Sometimes we might quarrel over execution, but we quickly forg…",
       "body": "When working on something so grand, you feel so small. Sometimes we might quarrel over execution, but we quickly forget it and move on to the next critical path. It is a journey of a lifetime, and it is never too late to…",
@@ -160,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-13T01:45:02.000Z",
       "title": "New Tesla Supercharger: Fredericksburg, VA - Warrenton Road (16 stalls)",
       "body": "New Tesla Supercharger: Fredericksburg, VA - Warrenton Road (16 stalls) https://t.co/2TAzDasxUo https://t.co/SbPYY0bFrp",
@@ -173,41 +173,28 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-06-13T00:57:30.000Z",
-      "title": "🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",
-      "body": "🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 https://t.co/qksTzADdUB",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2065599409358766234"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
-      "pubDate": "2026-06-13T00:01:41.000Z",
-      "title": "Tesla's Multi-Billion Capex Vs Reality Of Slowing Revenue Growth",
-      "body": "Tesla's Multi-Billion Capex Vs Reality Of Slowing Revenue Growth HarianBasis.co",
-      "sourceName": "HarianBasis.co",
+      "time": "18h ago",
+      "pubDate": "2026-06-12T20:19:31.000Z",
+      "title": "SpaceX Passes Tesla as Most Valuable Company in Musk’s Portfolio",
+      "body": "SpaceX Passes Tesla as Most Valuable Company in Musk’s Portfolio Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.harianbasis.co/en/tesla-capex-slowing-revenue-growth"
+      "href": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-passes-tesla-as-most-valuable-company-in-musk-s-portfolio"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-06-12T18:51:45.000Z",
-      "title": "New Tesla Supercharger: Greeley, CO (8 stalls)",
-      "body": "New Tesla Supercharger: Greeley, CO (8 stalls) https://t.co/lqDbvJTB3N https://t.co/eL8exydbIA",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "19h ago",
+      "pubDate": "2026-06-12T19:26:01.000Z",
+      "title": "Tesla Holder Merz Sits Out SpaceX IPO in Bet on Musk Merger Bid",
+      "body": "Tesla Holder Merz Sits Out SpaceX IPO in Bet on Musk Merger Bid Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2065507365307531351"
+      "href": "https://www.bloomberg.com/news/articles/2026-06-12/tesla-holder-merz-sits-out-spacex-ipo-in-bet-on-musk-merger-bid"
     },
     {
       "category": "product",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "52d ago",
+      "pubDate": "2026-04-22T21:19:19.000Z",
+      "title": "Tesla (TSLA) pulled questionable levers to make Q1 2026 financials look good",
+      "body": "Tesla’s Q1 2026 earnings beat looks impressive on the surface — 21.1% gross margin, 136% operating income growth, $0.41 non-GAAP EPS. But dig into the shareholders’ letter and a pattern emerges: Tesla pulled every accoun…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/04/22/tesla-tsla-q1-2026-one-time-benefits-warranty-tariff-refunds-margins/"
     }
   ]
 }
