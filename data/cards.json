@@ -104,7 +104,27 @@
       "href": "https://www.bloomberg.com/news/articles/2026-06-12/tesla-holder-merz-sits-out-spacex-ipo-in-bet-on-musk-merger-bid",
       "sentiment": "bull",
       "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "13h ago",
+      "pubDate": "2026-06-12T17:40:23.000Z",
+      "title": "테슬라, 2주간 비즈니스용 월커넥터 <em>32개 사이트</em> 신규 개장 — 누적 219기",
+      "hotShort": "비즈니스 월커넥터, 2주간 <em>32개 사이트</em> 신규 개장",
+      "body": "테슬라 공식 충전 계정에 따르면 지난 2주간 비즈니스용 월커넥터(Wall Connector for Business) 신규 사이트 32곳이 문을 열어 공공·민간 합산 누적 219기가 됐다 — 슈퍼차저가 경로 급속 충전을 담당한다면 비즈니스 월커넥터는 목적지 일상 충전을 지원하는 별도 인프라 레이어로, 테슬라 충전 생태계 다각화가 꾸준히 이어지고 있다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-wall-connector-business-32-sites-2026-06-12",
+      "summary": "테슬라 공식 충전 계정(@TeslaCharging)이 6월 12일 비즈니스용 월커넥터(Wall Connector for Business) 신규 사이트가 지난 2주간 32곳 개장했으며, 공공·민간 시설을 합산한 누적 월커넥터 수가 219기에 달한다고 밝혔다.\n\n비즈니스용 월커넥터는 슈퍼차저(DC 급속충전)와는 다른 인프라 레이어다. 오피스·쇼핑몰·호텔·레스토랑 등 목적지 시설에 설치하는 레벨2(AC) 충전기로, 차량을 길게 주차해 두는 동안 자연스럽게 충전이 이루어진다. 슈퍼차저가 장거리 경로 중 급속 충전 거점이라면, 비즈니스 월커넥터는 일상 생활 속 목적지 충전 습관을 지원한다.\n\n2주간 32곳이라는 개장 속도는 꾸준하다. 이 레이어의 밀도가 높아질수록 전기차 오너의 충전 옵션이 다양해지고, 기업 파트너 입장에서는 테슬라 충전 생태계에 편입되는 유인이 생긴다. 누적 219기라는 수치는 아직 초기 단계이지만 네트워크가 지속적으로 성장하고 있음을 보여준다.\n\n이번 주 함께 보도된 슈퍼차저 요금 인하와 맞물려 보면, 테슬라는 장거리 경로 충전(슈퍼차저)과 목적지 충전(비즈니스 월커넥터) 두 레이어에서 동시에 경쟁력을 강화하는 방향으로 나아가고 있다.",
+      "title_en": "Tesla opens <em>32 new Wall Connector for Business sites</em> in two weeks — 219 total",
+      "hotShort_en": "Tesla adds <em>32 new business</em> Wall Connector sites",
+      "body_en": "Tesla's official charging account reports that 32 new Wall Connector for Business sites opened in the past two weeks, bringing the installed total to 219 Wall Connectors across public and private properties — extending Tesla's destination-charging layer beyond the Supercharger network for everyday commercial locations.",
+      "summary_en": "Tesla Charging (@TeslaCharging) reported on June 12 that 32 new Wall Connector for Business sites opened in the past two weeks, with the total installed base now at 219 Wall Connectors across public and private properties.\n\nWall Connector for Business is a distinct infrastructure layer from the Supercharger network. Where Superchargers provide DC fast charging for long-distance route trips, Wall Connectors installed at business locations deliver Level 2 AC charging suited for extended stays — offices, shopping centers, hotels, restaurants, and similar destinations where drivers park for meaningful periods. The two systems serve complementary use cases within Tesla's broader charging ecosystem.\n\nThirty-two new sites in two weeks is a modest but steady pace. As this destination layer grows denser, it reduces friction for EV ownership in everyday commuting and shopping patterns, and gives Tesla a foothold in commercial real estate that competing charging networks must match separately.\n\nTaken alongside the Supercharger price reduction reported the same week, Tesla is strengthening both the fast-charging (Supercharger) and destination-charging (Wall Connector for Business) layers of its ecosystem simultaneously — a broader access strategy aligned with its goal of making Tesla's charging infrastructure the default choice for EV drivers across all usage patterns.",
+      "href": "https://x.com/TeslaCharging/status/2065489405595574675",
+      "sentiment": "bull",
+      "hot": 3
     }
   ],
-  "asOf": "2026-06-13 13:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-13 15:10 KST 자동 갱신 · 최신순"
 }
