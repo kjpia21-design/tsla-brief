@@ -3,6 +3,26 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-14T06:07:28.000Z",
+      "title": "NIO CEO, 테슬라 FSD 공개 극찬 — <em>차기 버전도 직접 테스트</em> 희망",
+      "hotShort": "NIO CEO, 테슬라 FSD 극찬 <em>차기 버전 요청</em>",
+      "body": "BASENOR에 따르면 중국 전기차 업체 NIO의 CEO가 테슬라 FSD를 공개적으로 극찬하고 차기 버전을 직접 테스트해 보고 싶다는 뜻을 밝혔다 — 자체 자율주행 시스템을 운용 중인 경쟁사 CEO의 공개 발언은 테슬라 FSD가 업계 기술 기준점(benchmark)으로 인정받고 있음을 보여 주는 외부 검증 신호다.",
+      "sourceName": "BASENOR",
+      "sourceLabel": "press",
+      "slug": "fsd-nio-ceo-praises-tesla-fsd-next-version-2026-06-14",
+      "summary": "중국 프리미엄 전기차 브랜드 NIO의 CEO가 테슬라의 완전자율주행 시스템 FSD를 공개적으로 극찬하고, 차기 버전을 직접 테스트해 보고 싶다는 의사를 밝혔다고 BASENOR가 보도했다.\n\nNIO는 중국 시장에서 테슬라와 직접 경쟁하는 프리미엄 전기차 브랜드로, 자체 자율주행·운전 보조 시스템인 'NIO Pilot'을 개발·운용하고 있다. 자체 자율주행 기술을 보유한 경쟁사 CEO가 경쟁사 FSD를 공개 극찬하는 것은 이례적으로, 테슬라 FSD가 업계 내에서 기술적 기준으로 인식되고 있음을 시사한다.\n\n'차기 버전' 언급은 최근 배포가 시작된 FSD Supervised 14.x 계열 또는 그 이후 버전을 의식한 것으로 보인다. 테슬라는 연속적인 FSD 업데이트를 이어가면서 동시에 유럽 여러 국가의 규제 승인도 확보하며 글로벌 확산에 속도를 내고 있다.\n\n주주 입장에서 경쟁사 CEO의 공개 극찬은 테슬라 FSD 기술 리더십에 대한 외부 검증이다. FSD의 경쟁 우위가 유지·확인될수록 구독 수익 확대와 로보택시 사업 전개의 경쟁 해자(moat)가 강화된다.",
+      "title_en": "NIO CEO praises Tesla FSD, <em>wants to test next version</em>",
+      "hotShort_en": "NIO CEO praises Tesla FSD, <em>eyes next version</em>",
+      "body_en": "The CEO of NIO — a direct Tesla rival in China's premium EV market — publicly praised Tesla's Full Self-Driving system and expressed a desire to personally test the next version, according to BASENOR. An endorsement from a CEO who runs a competing autonomy program points to Tesla FSD's standing as the industry benchmark.",
+      "summary_en": "NIO, China's premium electric vehicle brand that competes directly with Tesla, has a CEO who publicly praised Tesla's Full Self-Driving (FSD) technology and expressed interest in personally testing the next version, as reported by BASENOR.\n\nNIO develops and operates its own driver-assistance and autonomous system, NIO Pilot. For a CEO running a competing autonomy program to openly praise a rival's technology and seek access to its next iteration is unusual — and signals that Tesla FSD is recognized as the performance reference point even within the competitive landscape.\n\nThe mention of the 'next version' likely refers to the FSD Supervised v14.x generation currently rolling out, or what follows. Tesla has been releasing successive FSD updates while simultaneously gaining regulatory approvals in multiple European countries, accelerating both software cadence and geographic expansion in parallel.\n\nFor Tesla shareholders, a competitor CEO publicly endorsing FSD provides concrete external validation that Tesla's autonomy technology leads the field. As FSD's competitive edge is acknowledged by industry peers, it reinforces the moat supporting long-term FSD subscription revenue growth and the eventual robotaxi business.",
+      "href": "https://www.basenor.com/blogs/news/nio-ceo-praises-tesla-fsd-wants-to-test-the-next-version",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
       "pubDate": "2026-06-13T21:10:26.000Z",
       "title": "테슬라 사이버캡, <em>도어 개폐·충전</em> 작동 영상 공개",
@@ -2044,23 +2064,7 @@
       "href": "https://www.teslarati.com/tesla-owner-fixes-common-feature-complaint-crafty-diy-retrofit/",
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-07T16:31:00.000Z",
-      "title": "테슬라 로보택시 행보, 주요 지수 <em>기관 관심</em> 자극하나",
-      "hotShort": "로보택시 모멘텀, 주요 지수 <em>기관 관심</em> 자극",
-      "body": "칼킨 미디어가 테슬라의 로보택시 확장 행보가 나스닥 등 주요 지수에서 기관 투자자들의 신규 관심을 이끌어내고 있는지를 분석했다 — JP모건 업그레이드 이후 로보택시 상용화 기대가 테슬라 기관 수급 회복의 핵심 재료로 부상하고 있다는 시각이다.",
-      "sourceName": "Kalkine Media",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-index-interest-2026-06-07",
-      "summary": "칼킨 미디어(Kalkine Media)는 테슬라의 적극적인 로보택시 전략이 나스닥·S&P500 등 주요 주가 지수에서 기관 투자자들의 신규 관심을 유입시키고 있는지를 분석하는 기사를 게재했다. 로보택시 확장이 단순한 제품 이슈를 넘어 테슬라 기관 수급 전반에 영향을 미치는 변수로 부상하고 있다는 관점이다.\n\n최근 JP모건의 테슬라 투자의견 상향 조정이 발표되면서, 기관들이 테슬라를 재평가하는 근거로 로보택시 모멘텀이 자주 거론되고 있다. 완전 자율주행(FSD) 기반의 상용 로보택시 서비스가 가시화될 경우 자율주행 섹터 자금이 테슬라로 집중될 수 있다는 기대가 기관들 사이에서 형성되고 있다.\n\n다만 로보택시 상용화 일정과 규제 승인 경로는 여전히 불확실성이 높다. NHTSA 등 규제 당국의 자율주행 안전 기준 강화도 잠재적 변수로 남아 있다. 칼킨 미디어의 분석은 가능성을 탐색하는 시각이며, 기관 자금 유입이 실제로 확인된 보도는 아니다.\n\n기관 관심이 실수요(매수)로 이어지는지는 7월 초 발표될 Q2 인도 실적과 공개 로보택시 서비스의 구체적 일정이 확인되는 시점이 분수령이 될 전망이다.",
-      "href": "https://kalkinemedia.com/us/stocks/automobile/is-teslas-robotaxi-push-driving-fresh-interest-across-major-indices",
-      "sentiment": "bull",
-      "hot": 4
     }
   ],
-  "asOf": "2026-06-14 10:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-14 16:30 KST 자동 갱신 · 최신순"
 }

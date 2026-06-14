@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-14T06:07:28.000Z",
+      "title": "NIO CEO, 테슬라 FSD 공개 극찬 — <em>차기 버전도 직접 테스트</em> 희망",
+      "hotShort": "NIO CEO, 테슬라 FSD 극찬 <em>차기 버전 요청</em>",
+      "body": "BASENOR에 따르면 중국 전기차 업체 NIO의 CEO가 테슬라 FSD를 공개적으로 극찬하고 차기 버전을 직접 테스트해 보고 싶다는 뜻을 밝혔다 — 자체 자율주행 시스템을 운용 중인 경쟁사 CEO의 공개 발언은 테슬라 FSD가 업계 기술 기준점(benchmark)으로 인정받고 있음을 보여 주는 외부 검증 신호다.",
+      "sourceName": "BASENOR",
+      "sourceLabel": "press",
+      "slug": "fsd-nio-ceo-praises-tesla-fsd-next-version-2026-06-14",
+      "summary": "중국 프리미엄 전기차 브랜드 NIO의 CEO가 테슬라의 완전자율주행 시스템 FSD를 공개적으로 극찬하고, 차기 버전을 직접 테스트해 보고 싶다는 의사를 밝혔다고 BASENOR가 보도했다.\n\nNIO는 중국 시장에서 테슬라와 직접 경쟁하는 프리미엄 전기차 브랜드로, 자체 자율주행·운전 보조 시스템인 'NIO Pilot'을 개발·운용하고 있다. 자체 자율주행 기술을 보유한 경쟁사 CEO가 경쟁사 FSD를 공개 극찬하는 것은 이례적으로, 테슬라 FSD가 업계 내에서 기술적 기준으로 인식되고 있음을 시사한다.\n\n'차기 버전' 언급은 최근 배포가 시작된 FSD Supervised 14.x 계열 또는 그 이후 버전을 의식한 것으로 보인다. 테슬라는 연속적인 FSD 업데이트를 이어가면서 동시에 유럽 여러 국가의 규제 승인도 확보하며 글로벌 확산에 속도를 내고 있다.\n\n주주 입장에서 경쟁사 CEO의 공개 극찬은 테슬라 FSD 기술 리더십에 대한 외부 검증이다. FSD의 경쟁 우위가 유지·확인될수록 구독 수익 확대와 로보택시 사업 전개의 경쟁 해자(moat)가 강화된다.",
+      "title_en": "NIO CEO praises Tesla FSD, <em>wants to test next version</em>",
+      "hotShort_en": "NIO CEO praises Tesla FSD, <em>eyes next version</em>",
+      "body_en": "The CEO of NIO — a direct Tesla rival in China's premium EV market — publicly praised Tesla's Full Self-Driving system and expressed a desire to personally test the next version, according to BASENOR. An endorsement from a CEO who runs a competing autonomy program points to Tesla FSD's standing as the industry benchmark.",
+      "summary_en": "NIO, China's premium electric vehicle brand that competes directly with Tesla, has a CEO who publicly praised Tesla's Full Self-Driving (FSD) technology and expressed interest in personally testing the next version, as reported by BASENOR.\n\nNIO develops and operates its own driver-assistance and autonomous system, NIO Pilot. For a CEO running a competing autonomy program to openly praise a rival's technology and seek access to its next iteration is unusual — and signals that Tesla FSD is recognized as the performance reference point even within the competitive landscape.\n\nThe mention of the 'next version' likely refers to the FSD Supervised v14.x generation currently rolling out, or what follows. Tesla has been releasing successive FSD updates while simultaneously gaining regulatory approvals in multiple European countries, accelerating both software cadence and geographic expansion in parallel.\n\nFor Tesla shareholders, a competitor CEO publicly endorsing FSD provides concrete external validation that Tesla's autonomy technology leads the field. As FSD's competitive edge is acknowledged by industry peers, it reinforces the moat supporting long-term FSD subscription revenue growth and the eventual robotaxi business.",
+      "href": "https://www.basenor.com/blogs/news/nio-ceo-praises-tesla-fsd-wants-to-test-the-next-version",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "9h ago",
@@ -84,32 +104,7 @@
       ],
       "sentiment": "neutral",
       "hot": 9
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "64h ago",
-      "pubDate": "2026-06-11T22:39:20.000Z",
-      "title": "일론 머스크 \"FSD Supervised <em>14.3.4 배포 시작</em>\" — 사이버트럭 소환 포함",
-      "hotShort": "FSD <em>14.3.4</em> 배포 시작 — 사이버트럭 소환 탑재",
-      "body": "일론 머스크가 6월 11일 FSD Supervised 14.3.4 배포가 시작됐다고 공식 발표했다 — 사이버트럭 공식 계정도 해당 버전부터 스마트 소환(Summon) 기능이 함께 포함된다고 확인해, FSD 최신 버전업이 사이버트럭 기능 확장까지 동반한 업데이트임을 공식화했다.",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "fsd-v14-3-4-cybertruck-summon-rollout-2026-06-11",
-      "summary": "일론 머스크가 6월 11일 밤(현지시간) 공식 X 계정을 통해 FSD Supervised 14.3.4 버전이 배포되기 시작했다고 발표했다. 사이버트럭 공식 X 계정(@cybertruck)도 같은 시각 이번 버전부터 스마트 소환(Summon) 기능이 함께 포함된다고 확인했다.\n\nFSD 14.x 계열은 테슬라가 2026년 집중 배포 중인 주요 FSD 세대다. 14.3.4는 마이너 업데이트이지만, 기존에 모델 3·Y·S·X에서만 지원되던 스마트 소환 기능이 사이버트럭으로 확대된다는 점에서 차종 간 기능 격차가 줄어드는 의미가 있다. 스마트 소환은 주차 공간에 있는 차량을 운전자 위치로 원격 이동시키는 기능이다.\n\n테슬라는 FSD 구독 수익을 로보택시와 함께 핵심 미래 수익원으로 제시하고 있다. 새 버전이 출시될 때마다 기능 개선이 구독 유지·신규 가입의 유인이 되며, 사이버트럭처럼 고가 차종으로 기능이 확장되면 구독 단가가 높은 층의 참여를 끌어낼 수 있다. 일론 머스크가 직접 공지한 FSD 업데이트는 통상 소셜미디어에서 빠르게 확산되며 단기 주가 모멘텀으로 작용하는 경향이 있다.",
-      "title_en": "Elon Musk: FSD Supervised <em>v14.3.4 rolling out</em> — Cybertruck Summon included",
-      "hotShort_en": "FSD <em>v14.3.4 rolls out</em> — Cybertruck gets Summon",
-      "body_en": "Elon Musk announced on June 11 that FSD Supervised v14.3.4 has started rolling out — the Cybertruck official X account confirmed the update brings Summon to the Cybertruck for the first time, extending a feature previously limited to Models 3, Y, S and X.",
-      "summary_en": "Elon Musk announced via his official X account on June 11 that FSD Supervised v14.3.4 is rolling out. The Cybertruck official X account (@cybertruck) simultaneously confirmed that this version includes Summon — the remote-call feature that lets drivers summon their parked vehicle to their location — expanding it to Cybertruck for the first time.\n\nFSD v14.x is the generation Tesla has been actively deploying in 2026. While 14.3.4 is a minor-version step, extending Summon to Cybertruck narrows the capability gap between Tesla's truck and its sedan/SUV lineup. Summon has long been available on Model 3/Y/S/X; its Cybertruck rollout reflects the ongoing effort to bring the full FSD feature set to Tesla's newest high-margin vehicle.\n\nFor Tesla shareholders, each FSD release carries two layers of significance: near-term social-media momentum as Musk personally announces the rollout, and the longer-term FSD subscription flywheel. Bringing Summon to Cybertruck — a vehicle with a higher-income, tech-forward owner base — could contribute to FSD subscription attach rates at the premium end of the customer range.\n\nThe announcement comes days after FSD Supervised received regulatory approval in Belgium, making it available in five European countries. The back-to-back regulatory approvals and the v14.3.4 release together illustrate FSD accelerating simultaneously on both software iteration and geographic expansion.",
-      "href": "https://x.com/elonmusk/status/2065202249282768915",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Elon Musk (X)",
-        "Cybertruck (X)"
-      ],
-      "sentiment": "bull",
-      "hot": 8
     }
   ],
-  "asOf": "2026-06-14 14:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-14 16:30 KST 자동 갱신 · 최신순"
 }
