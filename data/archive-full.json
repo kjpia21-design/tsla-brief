@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-14 07:25 UTC · 누적 313건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-14 09:20 UTC · 누적 314건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-14T06:07:28.000Z",
+      "title": "NIO CEO, 테슬라 FSD 공개 극찬 — <em>차기 버전도 직접 테스트</em> 희망",
+      "hotShort": "NIO CEO, 테슬라 FSD 극찬 <em>차기 버전 요청</em>",
+      "body": "BASENOR에 따르면 중국 전기차 업체 NIO의 CEO가 테슬라 FSD를 공개적으로 극찬하고 차기 버전을 직접 테스트해 보고 싶다는 뜻을 밝혔다 — 자체 자율주행 시스템을 운용 중인 경쟁사 CEO의 공개 발언은 테슬라 FSD가 업계 기술 기준점(benchmark)으로 인정받고 있음을 보여 주는 외부 검증 신호다.",
+      "sourceName": "BASENOR",
+      "sourceLabel": "press",
+      "slug": "fsd-nio-ceo-praises-tesla-fsd-next-version-2026-06-14",
+      "summary": "중국 프리미엄 전기차 브랜드 NIO의 CEO가 테슬라의 완전자율주행 시스템 FSD를 공개적으로 극찬하고, 차기 버전을 직접 테스트해 보고 싶다는 의사를 밝혔다고 BASENOR가 보도했다.\n\nNIO는 중국 시장에서 테슬라와 직접 경쟁하는 프리미엄 전기차 브랜드로, 자체 자율주행·운전 보조 시스템인 'NIO Pilot'을 개발·운용하고 있다. 자체 자율주행 기술을 보유한 경쟁사 CEO가 경쟁사 FSD를 공개 극찬하는 것은 이례적으로, 테슬라 FSD가 업계 내에서 기술적 기준으로 인식되고 있음을 시사한다.\n\n'차기 버전' 언급은 최근 배포가 시작된 FSD Supervised 14.x 계열 또는 그 이후 버전을 의식한 것으로 보인다. 테슬라는 연속적인 FSD 업데이트를 이어가면서 동시에 유럽 여러 국가의 규제 승인도 확보하며 글로벌 확산에 속도를 내고 있다.\n\n주주 입장에서 경쟁사 CEO의 공개 극찬은 테슬라 FSD 기술 리더십에 대한 외부 검증이다. FSD의 경쟁 우위가 유지·확인될수록 구독 수익 확대와 로보택시 사업 전개의 경쟁 해자(moat)가 강화된다.",
+      "title_en": "NIO CEO praises Tesla FSD, <em>wants to test next version</em>",
+      "hotShort_en": "NIO CEO praises Tesla FSD, <em>eyes next version</em>",
+      "body_en": "The CEO of NIO — a direct Tesla rival in China's premium EV market — publicly praised Tesla's Full Self-Driving system and expressed a desire to personally test the next version, according to BASENOR. An endorsement from a CEO who runs a competing autonomy program points to Tesla FSD's standing as the industry benchmark.",
+      "summary_en": "NIO, China's premium electric vehicle brand that competes directly with Tesla, has a CEO who publicly praised Tesla's Full Self-Driving (FSD) technology and expressed interest in personally testing the next version, as reported by BASENOR.\n\nNIO develops and operates its own driver-assistance and autonomous system, NIO Pilot. For a CEO running a competing autonomy program to openly praise a rival's technology and seek access to its next iteration is unusual — and signals that Tesla FSD is recognized as the performance reference point even within the competitive landscape.\n\nThe mention of the 'next version' likely refers to the FSD Supervised v14.x generation currently rolling out, or what follows. Tesla has been releasing successive FSD updates while simultaneously gaining regulatory approvals in multiple European countries, accelerating both software cadence and geographic expansion in parallel.\n\nFor Tesla shareholders, a competitor CEO publicly endorsing FSD provides concrete external validation that Tesla's autonomy technology leads the field. As FSD's competitive edge is acknowledged by industry peers, it reinforces the moat supporting long-term FSD subscription revenue growth and the eventual robotaxi business.",
+      "href": "https://www.basenor.com/blogs/news/nio-ceo-praises-tesla-fsd-wants-to-test-the-next-version",
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
