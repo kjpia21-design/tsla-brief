@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-14 11:20 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-14 12:02 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1m ago",
+      "pubDate": "2026-06-14T12:02:05.000Z",
+      "title": "The bottom line on Elon Musk-led SpaceX",
+      "body": "The bottom line on Elon Musk-led SpaceX AOL.com",
+      "sourceName": "AOL.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.aol.com/articles/bottom-line-elon-musk-led-113633000.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "49m ago",
+      "pubDate": "2026-06-14T11:13:36.000Z",
+      "title": "Apriem Advisors Has $8.01 Million Stock Holdings in Tesla, Inc. $TSLA",
+      "body": "Apriem Advisors Has $8.01 Million Stock Holdings in Tesla, Inc. $TSLA MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-apriem-advisors-has-801-million-stock-holdings-in-tesla-inc-tsla-2026-06-14/"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-14T10:07:58.000Z",
       "title": "Rivian Point-to-Point Will Be ‘Very Similar to Tesla’s FSD’ This Year, CEO Says",
       "body": "Rivian Point-to-Point Will Be ‘Very Similar to Tesla’s FSD’ This Year, CEO Says eletric-vehicles.com",
@@ -15,17 +41,30 @@
       "href": "https://eletric-vehicles.com/rivian/rivian-point-to-point-will-be-very-similar-to-teslas-fsd-this-year-ceo-says/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-14T09:54:51.000Z",
+      "title": "First look at FSD Beta 10.69.3 as it starts going out to public testers",
+      "body": "First look at FSD Beta 10.69.3 as it starts going out to public testers Not a Tesla App",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.notateslaapp.com/news/1049/un"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-06-14T10:03:21.000Z",
-      "title": "Tesla, Inc. $TSLA Shares Bought by Healthcare of Ontario Pension Plan Trust Fund",
-      "body": "Tesla, Inc. $TSLA Shares Bought by Healthcare of Ontario Pension Plan Trust Fund MarketBeat",
+      "time": "2h ago",
+      "pubDate": "2026-06-14T09:53:19.000Z",
+      "title": "Tesla, Inc. $TSLA is Infusive Asset Management Inc.'s 10th Largest Position",
+      "body": "Tesla, Inc. $TSLA is Infusive Asset Management Inc.'s 10th Largest Position MarketBeat",
       "sourceName": "MarketBeat",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-tesla-inc-tsla-shares-bought-by-healthcare-of-ontario-pension-plan-trust-fund-2026-06-14/"
+      "href": "https://www.marketbeat.com/instant-alerts/filing-tesla-inc-tsla-is-infusive-asset-management-incs-10th-largest-position-2026-06-14/"
     },
     {
       "category": "musk",
@@ -43,7 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-14T09:25:19.000Z",
       "title": "LM Advisors LLC Trims Stock Position in Tesla, Inc. $TSLA",
       "body": "LM Advisors LLC Trims Stock Position in Tesla, Inc. $TSLA MarketBeat",
@@ -56,20 +95,20 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-14T09:14:10.000Z",
-      "title": "Teslas with AP 2.0 to need camera upgrades for FSD",
-      "body": "Teslas with AP 2.0 to need camera upgrades for FSD Not a Tesla App",
+      "time": "3h ago",
+      "pubDate": "2026-06-14T09:24:55.000Z",
+      "title": "Tesla's Next Factory Will Be in Mexico, Leaves Canada in the Cold",
+      "body": "Tesla's Next Factory Will Be in Mexico, Leaves Canada in the Cold Not a Tesla App",
       "sourceName": "Not a Tesla App",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.notateslaapp.com/news/616/un"
+      "href": "https://www.notateslaapp.com/news/1242/un"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-14T08:18:12.000Z",
       "title": "Blue Jean Financial LLC Takes Position in Tesla, Inc. $TSLA",
       "body": "Blue Jean Financial LLC Takes Position in Tesla, Inc. $TSLA MarketBeat",
@@ -82,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-14T06:15:48.000Z",
       "title": "Fully self-driving technology positions Tesla stock for another wave of value creation",
       "body": "Fully self-driving technology positions Tesla stock for another wave of value creation MSN",
@@ -93,22 +132,9 @@
       "href": "https://www.msn.com/en-us/money/topstocks/fully-self-driving-technology-positions-tesla-stock-for-another-wave-of-value-creation/ar-AA247NQz?gemSnapshotKey"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-14T05:59:05.000Z",
-      "title": "Tesla stock slips premarket: Cybertruck recall and brutal China sales slump rattle investors",
-      "body": "Tesla stock slips premarket: Cybertruck recall and brutal China sales slump rattle investors MSN",
-      "sourceName": "MSN",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.msn.com/en-us/autos/news/tesla-stock-slips-premarket-cybertruck-recall-and-brutal-china-sales-slump-rattle-investors/ar-AA22U9AN?gemSnapshotKey"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-14T05:11:44.000Z",
       "title": "Casually using Grok @imagine to one-shot sword fight scene in the bamboo forest (5 mins). Pretty good for the first try.",
       "body": "Casually using Grok @imagine to one-shot sword fight scene in the bamboo forest (5 mins). Pretty good for the first try. https://t.co/TMH54uW6Lh https://t.co/HTjgjWyuEa",
@@ -121,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-14T04:27:00.000Z",
       "title": "Wow Grok @imagine knows my favorite wuxia novels — The Swordsman. 🥹",
       "body": "Wow Grok @imagine knows my favorite wuxia novels — The Swordsman. 🥹 https://t.co/BG0SyATYsJ",
@@ -134,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-14T01:12:02.000Z",
       "title": "New Tesla Supercharger: Albuquerque, NM - 12th Street Northwest (24 stalls)",
       "body": "New Tesla Supercharger: Albuquerque, NM - 12th Street Northwest (24 stalls) https://t.co/yx0k2aBUDW https://t.co/xYXKKtxIVN",
@@ -160,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-13T21:55:19.000Z",
       "title": "From photon to tire friction, every microsecond is accounted for.",
       "body": "From photon to tire friction, every microsecond is accounted for. https://t.co/jHhrnBuPpQ",
@@ -173,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-13T21:29:36.000Z",
       "title": "New Francis Energy Supercharger: Owasso, OK (4 stalls)  Learn more about Supercharger for Business:",
       "body": "New Francis Energy Supercharger: Owasso, OK (4 stalls) https://t.co/i4luU7sBgu Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/uMEjF4LifR",
@@ -186,20 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
-      "pubDate": "2026-06-13T21:10:26.000Z",
-      "title": "Tesla Cybercab doors opening and charging",
-      "body": "Tesla Cybercab doors opening and charging https://t.co/8SbC4UqRmS",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2065904652986798133"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-13T19:25:24.000Z",
       "title": "It's interesting that software engineers trust their coding agents more than I could trust the parts stamped out from…",
       "body": "It's interesting that software engineers trust their coding agents more than I could trust the parts stamped out from the laser-welded injection molding.",
@@ -208,19 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/yunta_tsai/status/2065878218218078593"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
-      "pubDate": "2026-06-13T12:00:01.000Z",
-      "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
-      "body": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html"
     },
     {
       "category": "product",
