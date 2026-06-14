@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-14 09:20 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-14 09:46 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "21m ago",
+      "pubDate": "2026-06-14T09:25:19.000Z",
+      "title": "LM Advisors LLC Trims Stock Position in Tesla, Inc. $TSLA",
+      "body": "LM Advisors LLC Trims Stock Position in Tesla, Inc. $TSLA MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-lm-advisors-llc-trims-stock-position-in-tesla-inc-tsla-2026-06-14/"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-14T08:11:10.000Z",
       "title": "GM Killed Cruise, but Don't Count It Out of the Robotaxi Race",
       "body": "GM Killed Cruise, but Don't Count It Out of the Robotaxi Race Business Insider",
@@ -31,14 +44,14 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
-      "pubDate": "2026-06-14T07:46:50.000Z",
-      "title": "Arax Advisory Partners Reduces Holdings in Tesla, Inc. $TSLA",
-      "body": "Arax Advisory Partners Reduces Holdings in Tesla, Inc. $TSLA MarketBeat",
+      "pubDate": "2026-06-14T07:40:27.000Z",
+      "title": "1,840 Shares in Tesla, Inc. $TSLA Acquired by Acasta Partners UK LLP",
+      "body": "1,840 Shares in Tesla, Inc. $TSLA Acquired by Acasta Partners UK LLP MarketBeat",
       "sourceName": "MarketBeat",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.marketbeat.com/instant-alerts/filing-arax-advisory-partners-reduces-holdings-in-tesla-inc-tsla-2026-06-14/"
+      "href": "https://www.marketbeat.com/instant-alerts/filing-1840-shares-in-tesla-inc-tsla-acquired-by-acasta-partners-uk-llp-2026-06-14/"
     },
     {
       "category": "stock",
@@ -54,22 +67,9 @@
       "href": "https://www.marketbeat.com/instant-alerts/filing-tesla-inc-tsla-shares-sold-by-aptus-capital-advisors-llc-2026-06-14/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-14T07:13:28.000Z",
-      "title": "With Tesla update 2022.12 you can add seat heaters, wipers and more back to the launcher [video]",
-      "body": "With Tesla update 2022.12 you can add seat heaters, wipers and more back to the launcher [video] Not a Tesla App",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.notateslaapp.com/software-updates/upcoming-features/id/743/with-tesla-update-2022-12-you-can-add-seat-heaters-wipers-and-more-to-the-launcher"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-14T07:12:35.000Z",
       "title": "Aigen Investment Management LP Decreases Stake in Tesla, Inc. $TSLA",
       "body": "Aigen Investment Management LP Decreases Stake in Tesla, Inc. $TSLA MarketBeat",
@@ -80,22 +80,22 @@
       "href": "https://www.marketbeat.com/instant-alerts/filing-aigen-investment-management-lp-decreases-stake-in-tesla-inc-tsla-2026-06-14/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-14T06:15:48.000Z",
-      "title": "Fully self-driving technology positions Tesla stock for another wave of value creation",
-      "body": "Fully self-driving technology positions Tesla stock for another wave of value creation MSN",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-06-14T06:13:30.000Z",
+      "title": "TSLA stock rises premarket as Dan Ives predicts 80% chance of SpaceX merger by 2027 – China FSD fuels optimism",
+      "body": "TSLA stock rises premarket as Dan Ives predicts 80% chance of SpaceX merger by 2027 – China FSD fuels optimism MSN",
       "sourceName": "MSN",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.msn.com/en-us/money/topstocks/fully-self-driving-technology-positions-tesla-stock-for-another-wave-of-value-creation/ar-AA247NQz?gemSnapshotKey"
+      "href": "https://www.msn.com/en-us/news/technology/tsla-stock-rises-premarket-as-dan-ives-predicts-80-chance-of-spacex-merger-by-2027-china-fsd-fuels-optimism/ar-AA23J3me?gemSnapshotKey"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-14T05:11:44.000Z",
       "title": "Casually using Grok @imagine to one-shot sword fight scene in the bamboo forest (5 mins). Pretty good for the first try.",
       "body": "Casually using Grok @imagine to one-shot sword fight scene in the bamboo forest (5 mins). Pretty good for the first try. https://t.co/TMH54uW6Lh https://t.co/HTjgjWyuEa",
@@ -134,20 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
-      "pubDate": "2026-06-14T02:11:02.000Z",
-      "title": "Popular liberal influencer roasted on X after bragging about buying a Tesla Cybertruck",
-      "body": "Popular liberal influencer roasted on X after bragging about buying a Tesla Cybertruck AOL.com",
-      "sourceName": "AOL.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.aol.com/articles/popular-liberal-influencer-roasted-x-194859000.html"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-14T01:12:02.000Z",
       "title": "New Tesla Supercharger: Albuquerque, NM - 12th Street Northwest (24 stalls)",
       "body": "New Tesla Supercharger: Albuquerque, NM - 12th Street Northwest (24 stalls) https://t.co/yx0k2aBUDW https://t.co/xYXKKtxIVN",
@@ -173,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-13T21:55:19.000Z",
       "title": "From photon to tire friction, every microsecond is accounted for.",
       "body": "From photon to tire friction, every microsecond is accounted for. https://t.co/jHhrnBuPpQ",
@@ -199,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-13T21:10:26.000Z",
       "title": "Tesla Cybercab doors opening and charging",
       "body": "Tesla Cybercab doors opening and charging https://t.co/8SbC4UqRmS",
@@ -225,7 +212,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "21h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-13T12:00:01.000Z",
       "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
       "body": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company CNBC",
@@ -251,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3d ago",
+      "time": "4d ago",
       "pubDate": "2026-06-10T22:08:10.000Z",
       "title": "EV sales just hit their best month since federal tax credits ended",
       "body": "New EV prices continued to slide in May, even as sales climbed to their strongest level since the Trump administration killed federal EV tax credits last fall.",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "6d ago",
+      "pubDate": "2026-06-08T18:50:34.000Z",
+      "title": "Tesla just did something in South Korea that no foreign carmaker has ever done",
+      "body": "Tesla's Model Y just became South Korea's best-selling car, beating every domestic model in May. The post Tesla just did something in South Korea that no foreign carmaker has ever done appeared first on TESLARATI.",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-model-y-south-korea-beats-kia-hyundai/"
     }
   ]
 }
