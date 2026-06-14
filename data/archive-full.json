@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-14 01:40 UTC · 누적 312건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-14 03:35 UTC · 누적 313건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "fsd",
@@ -20,6 +20,26 @@
       "href": "https://x.com/teslaownersSV/status/2065904652986798133",
       "sentiment": "bull",
       "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "6h ago",
+      "pubDate": "2026-06-13T19:50:07.000Z",
+      "title": "JP모건, 테슬라 투자등급 상향·<em>목표주가 대폭 인상</em>",
+      "hotShort": "JP모건, 테슬라 <em>투자등급·목표주가</em> 대폭 상향",
+      "body": "JP모건이 테슬라(TSLA) 투자등급을 상향하고 목표주가를 대폭 인상했다고 MSN이 전했다 — 월가 주요 기관의 등급·목표가 상향은 기관 자금 재유입의 촉매이자, 테슬라의 AI·자율주행 가치에 대한 월가 재평가가 이어지고 있음을 보여 주는 신호다.",
+      "sourceName": "MSN",
+      "sourceLabel": "press",
+      "slug": "stock-jpmorgan-upgrades-tesla-2026-06-13",
+      "summary": "MSN에 따르면 JP모건이 테슬라(TSLA)의 투자등급을 상향하고 목표주가를 대폭 인상했다. 구체적인 이전·신규 등급과 목표주가 수치는 원문에서 확인할 수 있다.\n\n투자은행의 등급 상향은 단순 수치 변화를 넘어 대형 자산운용사와 퀀트 전략의 포트폴리오 가중치 조정을 이끌어내는 신호로 작동한다. JP모건은 앞서 테슬라의 '물리적 AI(Physical AI)' 잠재력을 이유로 기존 약세 입장에서 전환한 바 있으며, 이번 목표주가 대폭 인상은 그 연장선에서 이해될 수 있다.\n\n상향 조정의 세부 근거는 원문을 통해 확인해야 하지만, FSD·로보택시 사업 진전, 에너지 스토리지 성장, AI 플랫폼 가치 재평가 등이 잠재적 배경으로 꼽힌다. JP모건의 움직임은 다른 월가 기관들의 연쇄 재평가 촉매가 되는 경향이 있다.\n\n주주 입장에서 주요 기관의 등급·목표주가 상향은 단기 주가 모멘텀을 강화하고, 기관 투자자들의 TSLA 포지션 재정립을 유도하는 이벤트다. 이번 JP모건의 움직임이 다른 기관들의 연쇄 상향으로 이어질지가 주목 포인트다.",
+      "title_en": "JPMorgan upgrades Tesla with a <em>major price target hike</em>",
+      "hotShort_en": "JPMorgan <em>upgrades Tesla</em>, lifts target",
+      "body_en": "JPMorgan raised its Tesla (TSLA) investment rating and significantly increased its price target, MSN reports — a move from one of Wall Street's most influential banks that signals continued institutional re-rating of Tesla's AI and autonomy value.",
+      "summary_en": "JPMorgan upgraded its Tesla (TSLA) investment rating and raised its price target substantially, as reported by MSN. The specific prior and new ratings, along with exact price target figures, are detailed in the original source article.\n\nInstitutional rating changes from a bank of JPMorgan's scale carry direct portfolio implications: large funds and quantitative strategies frequently use major bank upgrades as triggers for reweighting Tesla positions. JPMorgan had previously shifted from a long-held bearish stance, citing Tesla's vast potential in \"physical AI\" — a move recognizing Tesla as an AI and robotics company rather than purely an EV maker.\n\nThe rationale for this latest price target revision likely involves a combination of FSD and autonomous-driving business progress, Energy storage segment growth trajectory, and longer-term robotaxi and AI platform valuations. The specific analyst reasoning is available in the full report cited by MSN.\n\nFor Tesla shareholders, a high-profile institutional upgrade of this nature has two effects: it tends to generate near-term positive price momentum, and it lowers the activation energy for other institutional investors still underweight Tesla to reconsider their positioning. Whether this action triggers follow-on re-ratings from peer institutions will be the next signal to watch.",
+      "href": "https://www.msn.com/en-us/autos/news/jpmorgan-upgrades-tesla-with-a-major-price-target-hike/ar-AA24V56R",
+      "sentiment": "bull",
+      "hot": 6
     },
     {
       "category": "stock",
