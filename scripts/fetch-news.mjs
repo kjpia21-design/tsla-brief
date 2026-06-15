@@ -34,6 +34,9 @@ const OUT_PATH = path.join(ROOT, "data", process.env.SEED_OUT || "raw-cards.json
 
 // Google News RSS 는 hl=en-US&gl=US&ceid=US:en 로 영어 결과 받음
 const GN = (q) => `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-US&gl=US&ceid=US:en`;
+// tier-1 통신사·주요 경제지 한정 site: 필터 — 신뢰 원문을 선별 풀에 우선 공급(JP 요청 2026-06-15).
+const T1 = "(site:reuters.com OR site:bloomberg.com OR site:cnbc.com OR site:wsj.com OR site:apnews.com OR site:ft.com OR site:barrons.com OR site:nytimes.com)";
+const T1W = process.env.SEED_WINDOW || "2d";  // tier-1 은 보도 빈도가 낮아 윈도우를 약간 넓게.
 
 // ── 1차·공식 소스 설정 ──────────────────────────────────────
 // SEC EDGAR Atom — 회사/인물 CIK + 공시 종류(type) 별 최신 공시.
@@ -111,17 +114,21 @@ const SOURCES = [
   // ── STOCK ───────────────────────────
   { category: "stock",   url: GN(`Tesla TSLA stock when:${process.env.SEED_WINDOW || "1d"}`), defaultLabel: "press" },
   { category: "stock",   url: "https://feeds.finance.yahoo.com/rss/2.0/headline?s=TSLA&region=US&lang=en-US", defaultLabel: "press" },
+  { category: "stock",   url: GN(`Tesla TSLA stock OR earnings OR analyst ${T1} when:${T1W}`), defaultLabel: "press" },  // tier-1 한정
 
   // ── PRODUCT ─────────────────────────
   { category: "product", url: "https://electrek.co/guides/tesla/feed/", defaultLabel: "press" },
   { category: "product", url: "https://www.teslarati.com/category/news/feed/", defaultLabel: "press" },
+  { category: "product", url: GN(`Tesla Cybertruck OR Optimus OR Megapack OR Powerwall OR Model ${T1} when:${T1W}`), defaultLabel: "press" },  // tier-1 한정
 
   // ── FSD ─────────────────────────────
   { category: "fsd",     url: "https://electrek.co/guides/tesla-autopilot/feed/", defaultLabel: "press" },
   { category: "fsd",     url: GN(`Tesla FSD OR "Full Self-Driving" OR robotaxi when:${process.env.SEED_WINDOW || "2d"}`), defaultLabel: "press" },
+  { category: "fsd",     url: GN(`Tesla FSD OR robotaxi OR "Full Self-Driving" OR autonomous ${T1} when:${T1W}`), defaultLabel: "press" },  // tier-1 한정
 
   // ── MUSK ────────────────────────────
   { category: "musk",    url: GN(`Elon Musk Tesla when:${process.env.SEED_WINDOW || "1d"}`), defaultLabel: "press" },
+  { category: "musk",    url: GN(`Elon Musk Tesla ${T1} when:${T1W}`), defaultLabel: "press" },  // tier-1 한정
 ];
 
 // ─────────────────────────────────────────────────────────
@@ -196,6 +203,7 @@ const DOMAIN_TIER = [
   [/(^|\.)ft\.com$/i,         8],
   [/(^|\.)nytimes\.com$/i,    7],
   [/(^|\.)barrons\.com$/i,    7],
+  [/(^|\.)apnews\.com$/i,     8],   // AP 통신 — tier-1
 
   // tier-2 전문·트레이드 매체
   [/(^|\.)electrek\.co$/i,    4],
@@ -205,6 +213,7 @@ const DOMAIN_TIER = [
   [/(^|\.)cnet\.com$/i,       3],
   [/(^|\.)engadget\.com$/i,   3],
   [/(^|\.)yahoo\.com$/i,    -12],   // Yahoo(finance·news 등) — 재배포 애그리게이터. RSS 헤드라인 피드는 유지하되 기사 출처로는 가급적 제외(JP 요청 2026-06-15)
+  [/(^|\.)aol\.com$/i,      -12],   // AOL — Yahoo 계열 재배포 애그리게이터
   [/(^|\.)nasdaq\.com$/i,     3],
 
   // 일론 직접 발언(소셜) — 가치 있지만 검증 약함
@@ -227,6 +236,12 @@ const DOMAIN_TIER = [
   [/(^|\.)benzinga\.com$/i,      -4],
   [/(^|\.)gurufocus\.com$/i,     -4],
   [/(^|\.)investing\.com$/i,     -3],
+  // 무명·SEO 블로그 (반복 등장 확인) — 강한 감점. tier-1·전문매체가 같은 사안 다루면 항상 그쪽 채택.
+  [/(^|\.)blockonomi\.com$/i,    -6],
+  [/(^|\.)basenor\.com$/i,       -6],
+  [/(^|\.)suggest\.com$/i,       -6],
+  [/(^|\.)fathomjournal\.org$/i, -6],
+  [/(^|\.)tradingview\.com$/i,   -5],
 
   // rumor — 커뮤니티·블로그. 강한 감점
   [/(^|\.)reddit\.com$/i,    -8],
