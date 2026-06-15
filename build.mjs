@@ -385,12 +385,23 @@ function fld(c, base, lang) { return (lang === "en" ? (c[base + "_en"] || c[base
 function renderHotNews(cards, lang = "ko") {
   const hotOf = (c) => (typeof c.hot === "number" ? c.hot : 5);
   const byHot = (a, b) => (hotOf(b) - hotOf(a)) || (Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
-  // 신선도 가드 — 오래된 가격-방향 뉴스는 핫 후보에서 제외(최신 뉴스 목록엔 그대로 남음).
+  // 핫뉴스 신선도 윈도우 — 당일+전일(KST)만. (JP 요청 2026-06-15)
+  //   어제 KST 00:00 이후 카드만 핫 후보 → 6/10 같은 옛 기사가 hot 높아도 핫뉴스에서 제외(최신 뉴스 목록엔 그대로 남음).
   const nowMs = Date.now();
-  const eligible = cards.items.filter((c) => {
+  const kstNow = new Date(nowMs + 9 * 3600000);
+  const freshCutoff = Date.UTC(kstNow.getUTCFullYear(), kstNow.getUTCMonth(), kstNow.getUTCDate()) - 9 * 3600000 - 24 * 3600000;  // 어제 KST 00:00 (UTC ms)
+  const inWindow = (c) => (Date.parse(c.pubDate || 0) || 0) >= freshCutoff;
+  // 가격-방향 카드는 추가로 STALE_PRICE_HOURS 가드(기존).
+  const baseEligible = cards.items.filter((c) => {
     if (!priceDirection(c)) return true;
     return (nowMs - Date.parse(c.pubDate || 0)) / 3600000 <= STALE_PRICE_HOURS;
   });
+  let eligible = baseEligible.filter(inWindow);
+  // 안전장치 — 당일+전일 카드가 4건 미만인 드문 날에만 최소치 위해 그 이전 카드 보충(평소엔 전일자로만).
+  if (eligible.length < 4) {
+    const older = baseEligible.filter((c) => !inWindow(c)).sort(byHot);
+    eligible = eligible.concat(older.slice(0, 4 - eligible.length));
+  }
   const ranked = [...eligible].sort(byHot);
 
   // 톤 균형(주주·팬 배려) — 핫뉴스가 부정 일색이 되지 않게 부정(sentiment="bear") 카드를 최대 MAX_NEG 개로 제한.
