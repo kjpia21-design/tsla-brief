@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-15 13:00 UTC · 누적 326건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-15 15:00 UTC · 누적 327건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-15T12:10:54.000Z",
+      "title": "론 배런, SpaceX IPO에서 <em>10억달러 직접 투자</em> — 지분 총 250억달러로",
+      "hotShort": "론 배런, SpaceX IPO에 <em>$1B 베팅</em> — 지분 $25B",
+      "body": "배런 캐피탈 창업자 론 배런이 SpaceX IPO에서 10억달러를 직접 매입해 지분을 총 250억달러로 늘렸다고 CNBC가 보도했다 — 수십 년째 테슬라·SpaceX 최대 장기 강세 투자자 중 한 명인 배런의 대규모 IPO 참여는 머스크 생태계에 대한 기관 자본의 신뢰를 보여 주는 신호다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-ron-baron-spacex-ipo-1b-2026-06-15",
+      "summary": "배런 캐피탈(Baron Capital) 창업자 론 배런은 미국 금융계에서 가장 잘 알려진 장기 투자자 중 한 명으로, 수십억달러 규모의 테슬라 주식을 오랜 기간 보유해 온 대표적 테슬라 강세론자다. CNBC에 따르면 배런은 SpaceX IPO에서 10억달러($1B) 규모의 신주를 직접 매입해 자신의 SpaceX 지분 총액을 250억달러($25B)까지 끌어올렸다.\n\n배런 캐피탈은 SpaceX가 비공개 기업이던 시절부터 지속적으로 지분을 늘려온 기관이다. IPO 이후 공개된 이번 추가 매입은 외부 투자자 기준으로 최상위급 규모에 해당하며, 상장 직후 공개 시장에서도 추가 매수에 나선 것은 IPO 가격과 밸류에이션 수준에서도 투자 확신이 흔들리지 않는다는 메시지다.\n\n테슬라 주주 입장에서 배런의 SpaceX 베팅이 TSLA 밸류에이션에 직접 영향을 미치지는 않는다. 그러나 배런 캐피탈은 테슬라 기관 주주 명단에 이름을 올린 곳이기도 하다. 이 투자사가 테슬라와 SpaceX를 하나의 머스크 생태계 장기 성장 테마로 함께 보고 지속적으로 베팅하고 있다는 점은, 기관 투자 심리 측면에서 긍정적인 배경 신호로 읽힌다.",
+      "title_en": "Ron Baron buys <em>$1 billion</em> in SpaceX IPO, lifting total stake to $25 billion",
+      "hotShort_en": "Ron Baron snaps up <em>$1B</em> in SpaceX IPO",
+      "body_en": "Baron Capital founder Ron Baron bought $1 billion of SpaceX shares directly in the IPO, bringing his total stake to $25 billion, CNBC reports — a high-conviction institutional move from one of Tesla's most vocal long-term bulls, signaling sustained large-fund confidence in Elon Musk's portfolio.",
+      "summary_en": "Ron Baron, founder of Baron Capital and one of Tesla's most prominent long-term institutional backers, purchased $1 billion of SpaceX shares in the company's IPO, lifting his total SpaceX stake to $25 billion, according to CNBC. Baron Capital has been a major SpaceX investor through the private-market phase, and this IPO buy marks the first publicly disclosed addition to that position following SpaceX's market debut.\n\nA $25 billion total stake places Baron among the largest known external investors in SpaceX. The fact that he added $1 billion at IPO — rather than trimming his private-market position — is a clear confidence signal: at the IPO price and valuation, Baron sees a compelling long-term return proposition.\n\nFor Tesla shareholders, Baron's SpaceX bet does not directly move TSLA's fundamentals or share price. But Baron Capital is also among Tesla's institutional shareholders, and his ongoing commitment to the Musk ecosystem — Tesla and SpaceX together — reinforces the narrative that major long-term equity managers view both companies as part of the same compounding investment thesis. When a prominent Tesla bull scales up across the Musk portfolio at IPO, it serves as an indirect positive backdrop for sentiment around the broader ecosystem.",
+      "href": "https://www.cnbc.com/2026/06/15/ron-baron-bought-1-billion-of-spacex-shares-in-ipo-lifting-stake-to-25-billion.html",
+      "sentiment": "bull",
+      "hot": 5
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
