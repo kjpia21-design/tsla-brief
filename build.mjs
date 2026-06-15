@@ -396,18 +396,22 @@ function renderHotNews(cards, lang = "ko") {
   // 톤 균형(주주·팬 배려) — 핫뉴스가 부정 일색이 되지 않게 부정(sentiment="bear") 카드를 최대 MAX_NEG 개로 제한.
   //   중요한 악재는 숨기지 않되, 비부정(강세·중립)이 있으면 우선 채워 균형을 맞춘다.
   //   sentiment 미지정 카드는 중립 취급(영향 없음) → 필드 채워지기 전엔 기존 동작.
-  const TOP = 5, MAX_NEG = 3;
-  const top = [], spillNeg = [];
+  // 카테고리 다양성 — 한 카테고리 최대 MAX_PER_CAT 개(최소 2개+ 카테고리 보장, JP 요청 2026-06-15).
+  //   부정(bear) 도 MAX_NEG 로 제한. 둘 다 cap 초과분은 spill 로 빠졌다가, 카드가 부족할 때만 보충(억지 다양성 X).
+  const TOP = 5, MAX_NEG = 3, MAX_PER_CAT = 3;
+  const top = [], spill = [];
   let neg = 0;
+  const catCount = {};
   for (const c of ranked) {
     if (top.length >= TOP) break;
-    if (c.sentiment === "bear") {
-      if (neg < MAX_NEG) { top.push(c); neg += 1; } else { spillNeg.push(c); }
-    } else {
-      top.push(c);
-    }
+    const cat = c.category || "stock";
+    const overCat = (catCount[cat] || 0) >= MAX_PER_CAT;
+    const overNeg = c.sentiment === "bear" && neg >= MAX_NEG;
+    if (overCat || overNeg) { spill.push(c); continue; }
+    top.push(c); catCount[cat] = (catCount[cat] || 0) + 1;
+    if (c.sentiment === "bear") neg += 1;
   }
-  for (const c of spillNeg) { if (top.length >= TOP) break; top.push(c); }  // 비부정 부족 시 보충(억지 X)
+  for (const c of spill) { if (top.length >= TOP) break; top.push(c); }  // 카드 자체 부족 시에만 cap 무시 보충
   top.sort(byHot);  // 선정된 5건을 hot 순으로 표시
   const items = top.map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";
