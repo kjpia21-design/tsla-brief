@@ -1,24 +1,24 @@
 {
   "items": [
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-06-15T11:32:00.000Z",
-      "title": "배런스 \"미·이란 딜 여파로 테슬라 <em>주가 상승 모멘텀</em>\" — 지정학 완화 수혜",
-      "hotShort": "미·이란 딜 호재, 테슬라에 <em>주가 모멘텀</em> — 배런스",
-      "body": "배런스가 미·이란 협상 타결 기대를 배경으로 테슬라 주가가 상승 압력을 받고 있다고 보도했다 — 지정학적 긴장 완화 흐름이 위험자산 선호 개선과 함께 TSLA에 우호적인 투자 환경을 조성하고 있다는 분석이다.",
-      "sourceName": "Barron's",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "32m ago",
+      "pubDate": "2026-06-15T16:38:02.000Z",
+      "title": "사이버캡 공식 제원 최초 공개 — EPA 인증 서류에 <em>219HP·48kWh 확정</em>",
+      "hotShort": "사이버캡 EPA 인증, <em>공식 제원 첫 공개</em> — 219HP·48kWh",
+      "body": "테슬라 사이버캡의 기술 제원이 미국 EPA 인증 서류를 통해 처음으로 공식 확정됐다 — 공차중량 3,113파운드(약 1,412kg), 모터 출력 219HP, 배터리 용량 48kWh가 명시돼 미국 내 로보택시 상용화를 위한 연방 인증 절차가 실질 단계에 진입했음이 확인됐다.",
+      "sourceName": "Electrek",
       "sourceLabel": "press",
-      "slug": "stock-tesla-iran-deal-bump-2026-06-15",
-      "summary": "배런스가 6월 15일 \"Tesla Stock Is Getting a U.S.-Iran Deal Bump\"를 보도하며, 미·이란 외교 협상 타결 기대감이 테슬라 주가 상승에 직접 기여하고 있다고 분석했다. 지정학적 긴장 완화 이벤트는 글로벌 증시 전반의 위험자산 선호 심리를 높이는 경향이 있으며, 이것이 테슬라와 같은 성장주에 단기 모멘텀을 제공하는 배경이 됐다.\n\n이란은 세계 주요 산유국 중 하나다. 미·이란 협상 진전 기대는 에너지 시장 안정화 기대로 이어져 글로벌 불확실성을 낮추는 효과를 낸다. 배런스가 이 사건을 테슬라 주가와 직접 연결 지어 분석했다는 점에서, EV 업종에도 우호적인 거시 환경 개선 효과가 있다는 시각이 반영됐다.\n\n테슬라 주주 입장에서 주목할 점은 이번 주가 움직임이 테슬라 고유의 실적·제품 재료가 아닌 거시경제·지정학 변수에서 비롯됐다는 것이다. 단기 \"딜 모멘텀\"이 지속되려면 협상이 실제 구체적 경제 효과로 이어지는지가 관건이며, FSD·로보택시 등 테슬라 자체 성장 재료와 함께 모멘텀이 이어질 경우 더 강한 주가 탄력이 기대된다.",
-      "title_en": "Barron's: Tesla stock <em>gets a bump</em> from the U.S.-Iran deal",
-      "hotShort_en": "Tesla scores a <em>U.S.-Iran deal tailwind</em> — Barron's",
-      "body_en": "Barron's reports that Tesla stock is getting a boost from a U.S.-Iran deal — the prospect of geopolitical risk reduction is improving the macro backdrop for risk assets and providing near-term upside momentum for TSLA.",
-      "summary_en": "Barron's flagged the U.S.-Iran diplomatic deal as a direct tailwind for Tesla's stock price on June 15, in a piece headlined 'Tesla Stock Is Getting a U.S.-Iran Deal Bump.' Geopolitical risk-off events typically improve risk-asset appetite across global markets — providing a macro tailwind that can lift growth stocks like Tesla even absent company-specific catalysts.\n\nIran is one of the world's significant oil-producing nations, and any progress toward a U.S.-Iran agreement tends to reduce energy market uncertainty. Barron's connecting this event directly to Tesla's stock performance suggests a view that geopolitical de-escalation creates a broadly supportive environment for EV equities — whether through energy cost dynamics, improved global trade sentiment, or simply a broader shift to risk-on positioning.\n\nFor Tesla shareholders, the key takeaway is that this positive move is being driven by macro and geopolitical factors rather than Tesla-specific fundamentals. Whether the momentum sustains depends on whether diplomatic progress translates into tangible economic outcomes — and whether Tesla's own catalysts (FSD expansion, Cybercab timelines, earnings) continue to reinforce the bull thesis alongside this geopolitical tailwind.",
-      "href": "https://www.barrons.com/articles/tesla-stock-iran-deal-ev-940b6ffb",
+      "slug": "fsd-cybercab-epa-specs-2026-06-15",
+      "summary": "Electrek가 입수한 미국 EPA 인증 신청 서류에 따르면, 테슬라 사이버캡(Cybercab)의 기술 제원이 외부에 최초로 공개됐다. EPA 차량 인증 신청은 미국 공도 주행을 위한 연방 법적 요건으로, 이 절차를 밟고 있다는 자체가 사이버캡이 실제 상용화를 향한 규제 심사 단계에 진입했음을 의미한다.\n\n공개된 제원을 보면, 공차중량은 3,113파운드(약 1,412kg)로 현행 모델3(약 3,800파운드)보다 가볍고, 배터리는 48kWh로 테슬라 현행 승용 라인업 대비 소용량이다. 219HP 모터와 조합된 이 설계는 도심형 무인 로보택시 운행에 최적화된 경량·소형 플랫폼임을 시사한다. 배터리 용량이 작을수록 차량 원가가 낮아지고 충전 회전율이 높아져 로보택시 경제성에 유리하게 작용한다.\n\nElectrek는 이번 서류가 '기존에 알려진 일부 주장을 확인해 준다'고 밝혔는데, 이는 이전 유출·발표된 스펙 정보가 공식 수치와 대체로 일치함을 뜻한다. 테슬라 주주 관점에서 EPA 인증 신청의 핵심 의미는 사이버캡이 '계획 단계'를 넘어 미국 연방 규제 심사를 실제로 이행 중이라는 구체적 진전 신호다 — 로보택시 상용화 타임라인의 불확실성을 한 단계 낮추는 지표다.",
+      "title_en": "Tesla Cybercab <em>full specs confirmed</em> via EPA filing — 3,113 lbs, 219 HP, 48 kWh",
+      "hotShort_en": "Cybercab <em>specs confirmed</em> via EPA — 219 HP, 48 kWh",
+      "body_en": "Tesla's Cybercab robotaxi has had its full technical specifications confirmed for the first time through EPA certification documents, as reported by Electrek — a 3,113-lb curb weight, 219 HP motor, and 48 kWh battery pack — signaling that Tesla's federal regulatory approval process for the robotaxi is actively underway.",
+      "summary_en": "Tesla's EPA certification application for the Cybercab, obtained and reported by Electrek, publicly discloses the robotaxi's full technical specifications for the first time. EPA vehicle certification is a mandatory federal requirement for legal road operation in the United States — the fact that Tesla has filed for this certification signals that the Cybercab is progressing through formal regulatory approval rather than remaining at a pre-commercial planning stage.\n\nThe specs confirmed in the filing: a 3,113-lb curb weight, a 219 HP motor, and a 48 kWh battery pack. At 3,113 lbs, the Cybercab is significantly lighter than the Model 3 (approximately 3,800 lbs), reflecting a purpose-built design for autonomous urban operation. The 48 kWh pack is notably smaller than Tesla's current passenger lineup — a deliberate design choice that prioritizes lower vehicle cost and faster charging turnover for fleet-operated robotaxi economics over maximum range.\n\nElectrek notes that the filing 'confirms several claims,' indicating the disclosed specs broadly align with previously reported leaks and estimates — reducing uncertainty about the Cybercab's fundamental technical architecture.\n\nFor Tesla investors, the EPA certification filing is a concrete milestone. It confirms the Cybercab is real and physically specified, and that Tesla is executing the legally mandatory steps needed before any U.S. commercial deployment. While an EPA filing does not itself announce a launch date, it marks a meaningful shift from 'planned product' to 'product under federal review' — a data point that supports the robotaxi commercialization thesis.",
+      "href": "https://electrek.co/2026/06/15/tesla-cybercab-epa-specs-curb-weight-battery-motor-power/",
       "sentiment": "bull",
-      "hot": 6
+      "hot": 8
     },
     {
       "category": "musk",
@@ -39,6 +39,26 @@
       "href": "https://www.cnbc.com/2026/06/15/ron-baron-bought-1-billion-of-spacex-shares-in-ipo-lifting-stake-to-25-billion.html",
       "sentiment": "bull",
       "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
+      "pubDate": "2026-06-15T11:32:00.000Z",
+      "title": "배런스 \"미·이란 딜 여파로 테슬라 <em>주가 상승 모멘텀</em>\" — 지정학 완화 수혜",
+      "hotShort": "미·이란 딜 호재, 테슬라에 <em>주가 모멘텀</em> — 배런스",
+      "body": "배런스가 미·이란 협상 타결 기대를 배경으로 테슬라 주가가 상승 압력을 받고 있다고 보도했다 — 지정학적 긴장 완화 흐름이 위험자산 선호 개선과 함께 TSLA에 우호적인 투자 환경을 조성하고 있다는 분석이다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-iran-deal-bump-2026-06-15",
+      "summary": "배런스가 6월 15일 \"Tesla Stock Is Getting a U.S.-Iran Deal Bump\"를 보도하며, 미·이란 외교 협상 타결 기대감이 테슬라 주가 상승에 직접 기여하고 있다고 분석했다. 지정학적 긴장 완화 이벤트는 글로벌 증시 전반의 위험자산 선호 심리를 높이는 경향이 있으며, 이것이 테슬라와 같은 성장주에 단기 모멘텀을 제공하는 배경이 됐다.\n\n이란은 세계 주요 산유국 중 하나다. 미·이란 협상 진전 기대는 에너지 시장 안정화 기대로 이어져 글로벌 불확실성을 낮추는 효과를 낸다. 배런스가 이 사건을 테슬라 주가와 직접 연결 지어 분석했다는 점에서, EV 업종에도 우호적인 거시 환경 개선 효과가 있다는 시각이 반영됐다.\n\n테슬라 주주 입장에서 주목할 점은 이번 주가 움직임이 테슬라 고유의 실적·제품 재료가 아닌 거시경제·지정학 변수에서 비롯됐다는 것이다. 단기 \"딜 모멘텀\"이 지속되려면 협상이 실제 구체적 경제 효과로 이어지는지가 관건이며, FSD·로보택시 등 테슬라 자체 성장 재료와 함께 모멘텀이 이어질 경우 더 강한 주가 탄력이 기대된다.",
+      "title_en": "Barron's: Tesla stock <em>gets a bump</em> from the U.S.-Iran deal",
+      "hotShort_en": "Tesla scores a <em>U.S.-Iran deal tailwind</em> — Barron's",
+      "body_en": "Barron's reports that Tesla stock is getting a boost from a U.S.-Iran deal — the prospect of geopolitical risk reduction is improving the macro backdrop for risk assets and providing near-term upside momentum for TSLA.",
+      "summary_en": "Barron's flagged the U.S.-Iran diplomatic deal as a direct tailwind for Tesla's stock price on June 15, in a piece headlined 'Tesla Stock Is Getting a U.S.-Iran Deal Bump.' Geopolitical risk-off events typically improve risk-asset appetite across global markets — providing a macro tailwind that can lift growth stocks like Tesla even absent company-specific catalysts.\n\nIran is one of the world's significant oil-producing nations, and any progress toward a U.S.-Iran agreement tends to reduce energy market uncertainty. Barron's connecting this event directly to Tesla's stock performance suggests a view that geopolitical de-escalation creates a broadly supportive environment for EV equities — whether through energy cost dynamics, improved global trade sentiment, or simply a broader shift to risk-on positioning.\n\nFor Tesla shareholders, the key takeaway is that this positive move is being driven by macro and geopolitical factors rather than Tesla-specific fundamentals. Whether the momentum sustains depends on whether diplomatic progress translates into tangible economic outcomes — and whether Tesla's own catalysts (FSD expansion, Cybercab timelines, earnings) continue to reinforce the bull thesis alongside this geopolitical tailwind.",
+      "href": "https://www.barrons.com/articles/tesla-stock-iran-deal-ev-940b6ffb",
+      "sentiment": "bull",
+      "hot": 6
     },
     {
       "category": "musk",
@@ -2024,5 +2044,5 @@
       "summary_en": "Tesla's Supercharger official X account announced a new 12-stall Supercharger in the Dörtyol area of Afyonkarahisar, Türkiye — part of Tesla's charging-infrastructure expansion across the Europe, Middle East and Africa (EMEA) region.\n\nAfyonkarahisar is a transport hub in central Anatolia, and the opening helps reduce charging gaps for Tesla owners on long inland journeys across Türkiye. Tesla's Supercharger network is a proprietary network rated among the world's best for reliability and speed.\n\nSupercharger expansion is one long-term growth metric from a shareholder view. The more Superchargers worldwide, the greater the purchase convenience of Tesla vehicles, and the value of the infrastructure asset — convertible into a separate revenue stream by opening to other brands — grows too."
     }
   ],
-  "asOf": "2026-06-16 00:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-16 02:10 KST 자동 갱신 · 최신순"
 }
