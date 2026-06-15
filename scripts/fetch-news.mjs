@@ -204,7 +204,7 @@ const DOMAIN_TIER = [
   [/(^|\.)theverge\.com$/i,   4],
   [/(^|\.)cnet\.com$/i,       3],
   [/(^|\.)engadget\.com$/i,   3],
-  [/finance\.yahoo\.com/i,    3],   // 재배포 애그리게이터 — 1차 아님
+  [/(^|\.)yahoo\.com$/i,    -12],   // Yahoo(finance·news 등) — 재배포 애그리게이터. RSS 헤드라인 피드는 유지하되 기사 출처로는 가급적 제외(JP 요청 2026-06-15)
   [/(^|\.)nasdaq\.com$/i,     3],
 
   // 일론 직접 발언(소셜) — 가치 있지만 검증 약함
