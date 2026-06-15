@@ -1,10 +1,101 @@
 {
-  "asOf": "2026-06-15 03:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-15 05:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6m ago",
+      "time": "18m ago",
+      "pubDate": "2026-06-15T04:42:16.000Z",
+      "title": "Elon Musk Becomes World’s First Trillionaire on SpaceX’s First Day of Trading",
+      "body": "Elon Musk Becomes World’s First Trillionaire on SpaceX’s First Day of Trading The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "37m ago",
+      "pubDate": "2026-06-15T04:22:55.000Z",
+      "title": "In case you missed it",
+      "body": "In case you missed it https://t.co/7QVnG7CmMP",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2066375877697679589"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "45m ago",
+      "pubDate": "2026-06-15T04:15:00.000Z",
+      "title": "RIVN Stock Jumps Overnight: CEO Teases Self-Driving System 'Very Similar To Tesla's FSD' This Year",
+      "body": "RIVN Stock Jumps Overnight: CEO Teases Self-Driving System 'Very Similar To Tesla's FSD' This Year Yahoo Finance",
+      "sourceName": "Yahoo Finance",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://finance.yahoo.com/markets/stocks/articles/rivn-stock-jumps-overnight-ceo-041515221.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-15T03:13:58.000Z",
+      "title": "\"I am very proud of Elon Musk. I don’t like the words ‘wealthy’ or ‘billionaire’ because they feel degrading. I belie…",
+      "body": "\"I am very proud of Elon Musk. I don’t like the words ‘wealthy’ or ‘billionaire’ because they feel degrading. I believe he is a genius of the world.” Maye Musk https://t.co/Uz1ncBqHXO",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2066358527556493313"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-15T03:13:44.000Z",
+      "title": "“Being a billionaire was never Elon Musk’s goal. His goal was to save the planet and then explore another planet so t…",
+      "body": "“Being a billionaire was never Elon Musk’s goal. His goal was to save the planet and then explore another planet so that the civilization can be saved.\" Maye Musk https://t.co/qiozVJZuuq",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2066358468907544776"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-15T03:12:23.000Z",
+      "title": "People often credit genius with changing the world. But more often than not, it was a stubborn fool that kept going w…",
+      "body": "People often credit genius with changing the world. But more often than not, it was a stubborn fool that kept going while other geniuses sat around and laughed.",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2066358128384606264"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-15T03:08:29.000Z",
+      "title": "New Tesla Supercharger: Tønsberg, Norway (16 stalls)",
+      "body": "New Tesla Supercharger: Tønsberg, Norway (16 stalls) https://t.co/UvOIBdPWch https://t.co/Kc4D1LtIAV",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2066357145738904019"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
       "pubDate": "2026-06-15T02:54:18.000Z",
       "title": "Time to get that volcano lair I’ve always wanted. I think it’s in the “Beyond” section of BB&amp;B.",
       "body": "Time to get that volcano lair I’ve always wanted. I think it’s in the “Beyond” section of BB&amp;B. https://t.co/33Iw3MHYHq",
@@ -17,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-14T23:36:19.000Z",
       "title": "Say goodbye to the Tesla Model S",
       "body": "Say goodbye to the Tesla Model S MSN",
@@ -30,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-14T23:33:47.000Z",
       "title": "Tesla FTZ Move Puts Texas Megapack Costs And Margins In Focus",
       "body": "Tesla FTZ Move Puts Texas Megapack Costs And Margins In Focus simplywall.st",
@@ -41,61 +132,22 @@
       "href": "https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/tesla-ftz-move-puts-texas-megapack-costs-and-margins-in-focu"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-14T21:59:42.000Z",
-      "title": "Starlink connecting schools on remote islands!",
-      "body": "Starlink connecting schools on remote islands! https://t.co/tLIZ1WCdOL",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "7h ago",
+      "pubDate": "2026-06-14T22:20:37.000Z",
+      "title": "This Week In Tesla: US EV Sales Hit Record, Top Analyst Predicts TSLA Sell-Off And More",
+      "body": "This Week In Tesla: US EV Sales Hit Record, Top Analyst Predicts TSLA Sell-Off And More Dailyhunt",
+      "sourceName": "Dailyhunt",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/elonmusk/status/2066279437289636019"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-14T21:54:31.000Z",
-      "title": "Interesting analysis",
-      "body": "Interesting analysis https://t.co/cyvqhwAc2s",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2066278135230861670"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-14T21:37:09.000Z",
-      "title": "Try the latest Grok Imagine!",
-      "body": "Try the latest Grok Imagine! https://t.co/iPbpJxlA6J",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2066273765940396292"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-14T21:27:09.000Z",
-      "title": "As Andrew replies below, we appreciate any critical feedback in pursuit of product perfection for Grok Build!",
-      "body": "As Andrew replies below, we appreciate any critical feedback in pursuit of product perfection for Grok Build! https://t.co/ovoVOXnL96",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2066271248254910785"
+      "href": "https://m.dailyhunt.in/news/india/english/benzinga-epaper-benzinga/this+week+in+tesla+us+ev+sales+hit+record+top+analyst+predicts+tsla+selloff+and+more-newsid-n716050831"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-14T21:23:55.000Z",
       "title": "It's interesting to see our family's tombstones carved with the place they lived more than a thousand years ago (arou…",
       "body": "It's interesting to see our family's tombstones carved with the place they lived more than a thousand years ago (around 220 AD) instead of where they are currently buried. No one instructed them to do so, but for some re…",
@@ -108,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-14T21:04:06.000Z",
       "title": "Look forward to discussing tech stocks and the week ahead in the markets on @CNBCMorningCall with @MorganLBrennan at …",
       "body": "Look forward to discussing tech stocks and the week ahead in the markets on @CNBCMorningCall with @MorganLBrennan at 5 am @CNBC 🔥🍿🏆🎯🐂",
@@ -121,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-14T20:54:04.000Z",
       "title": "There are many good X articles lately, some superb, intellectual, and honest. They are 1000x better than opinion colu…",
       "body": "There are many good X articles lately, some superb, intellectual, and honest. They are 1000x better than opinion columns in newspapers. I noticed my chat group has more X article links than links from MSM. In the era of …",
@@ -134,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-14T20:32:16.000Z",
       "title": "Hot summer day = 麻辣燙 day",
       "body": "Hot summer day = 麻辣燙 day https://t.co/XtA6y9FZ7P",
@@ -145,35 +197,9 @@
       "href": "https://x.com/yunta_tsai/status/2066257437037084963"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
-      "pubDate": "2026-06-14T20:15:03.000Z",
-      "title": "Built for engineers by engineers.",
-      "body": "Built for engineers by engineers. https://t.co/xAiEuXk1WD",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2066253101552807987"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
-      "pubDate": "2026-06-14T20:12:43.000Z",
-      "title": "The socialist ideal often thrived among heirs of inheritance because everything was handed to them for free. The conc…",
-      "body": "The socialist ideal often thrived among heirs of inheritance because everything was handed to them for free. The concept of struggle was merely a word, not an actual experience. In contrast, people who had lived through …",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2066252516321632603"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-14T18:31:04.000Z",
       "title": "Forget Tesla: This Magnificent 7 Stock This Wins Every Time",
       "body": "Forget Tesla: This Magnificent 7 Stock This Wins Every Time AOL.com",
@@ -186,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-14T17:31:04.000Z",
       "title": "New Tesla Supercharger: Hagerstown, MD - Cole Road (12 stalls)",
       "body": "New Tesla Supercharger: Hagerstown, MD - Cole Road (12 stalls) https://t.co/7igRCJs27Q https://t.co/GQ9vmBXyHo",
@@ -197,35 +223,9 @@
       "href": "https://x.com/TeslaCharging/status/2066211836454985881"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
-      "pubDate": "2026-06-14T15:30:31.000Z",
-      "title": "Tesla Stock Forecast: How Much Will TSLA Stock Be Worth in 2030? Can It Hit $3,000?",
-      "body": "Tesla Stock Forecast: How Much Will TSLA Stock Be Worth in 2030? Can It Hit $3,000? TradingKey",
-      "sourceName": "TradingKey",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.tradingkey.com/analysis/stocks/us-stocks/261823898-us-tesla-tsla-stock-price-predict-forecast-2030-elon-musk-ai-robotaxis-optimus-robotics-tradingkey"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
-      "pubDate": "2026-06-14T15:17:54.000Z",
-      "title": "S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs — SMCI, AMZN, OPEN, SEGG, TSLA In Focus",
-      "body": "S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs — SMCI, AMZN, OPEN, SEGG, TSLA In Focus Stocktwits",
-      "sourceName": "Stocktwits",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-drop-as-us-iran-war-jitters-inflation-risk-spur-tech-selloffs-smci-amzn-open-segg-tsla-in-focus/cZ06yd5R7cQ"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-14T11:48:10.000Z",
       "title": "New Tesla Supercharger: Seinäjoki, Finland (8 stalls)",
       "body": "New Tesla Supercharger: Seinäjoki, Finland (8 stalls) https://t.co/pRAmiXK7Fp https://t.co/MjeRSRGAfj",
@@ -234,19 +234,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2066125539543572486"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4d ago",
-      "pubDate": "2026-06-11T04:32:37.000Z",
-      "title": "Tesla unfolded its first European “folding Supercharger”",
-      "body": "Tesla's folding Supercharger just arrived in Europe and it changes how fast charging expands. The post Tesla unfolded its first European “folding Supercharger” appeared first on TESLARATI.",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-folding-supercharger-europe/"
     },
     {
       "category": "stock",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://electrek.co/2026/04/23/tesla-giga-berlin-production-increase-still-below-capacity/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "53d ago",
+      "pubDate": "2026-04-23T10:57:03.000Z",
+      "title": "Tesla (TSLA) quietly discloses $2 billion AI hardware company acquisition buried in filing",
+      "body": "Tesla agreed to acquire an unnamed AI hardware company for up to $2 billion in stock and equity awards, according to a single sentence buried in its Q1 2026 10-Q filing. The company never mentioned the deal in its shareh…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/"
     }
   ]
 }
