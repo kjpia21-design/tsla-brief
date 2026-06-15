@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "36m ago",
+      "pubDate": "2026-06-15T18:23:54.000Z",
+      "title": "사이버트럭 공식 계정 발표 — <em>오프로드 라이트바</em>, 테슬라샵 재입고",
+      "hotShort": "사이버트럭 <em>오프로드 라이트바</em>, 테슬라샵 재입고",
+      "body": "테슬라 사이버트럭 공식 X 계정이 오프로드 라이트바 액세서리의 테슬라샵 재입고를 공식 발표했다 — 초기 출시 직후 품절로 대기 중이던 사이버트럭 오너들은 이제 다시 주문이 가능하다.",
+      "sourceName": "Cybertruck (X)",
+      "sourceLabel": "official",
+      "slug": "product-cybertruck-offroad-lightbar-back-2026-06-15",
+      "summary": "테슬라 사이버트럭의 오프로드 라이트바는 차량 전면부에 장착하는 보조 조명 액세서리로, 야간 험로 주행 시 가시성을 높여주는 제품이다. 사이버트럭 출시 초기에 함께 선보인 이 액세서리는 수요가 공급을 초과해 빠르게 품절됐다.\n\n이번 재입고는 테슬라 사이버트럭 공식 X 계정이 직접 공지한 것으로, 테슬라샵에서 즉시 구매가 가능하다. 품절 이후 기다려온 오너들에게는 반가운 소식이다.\n\n테슬라는 차량 판매 외에 액세서리·라이프스타일 제품 라인업을 꾸준히 확장하고 있다. 오프로드 특화 액세서리는 사이버트럭의 핵심 포지셔닝인 험지 주행 능력을 뒷받침하며, 차량 구매 후 추가 수익 창출 채널로 기능한다.",
+      "title_en": "Cybertruck's <em>Off-Road Light Bar</em> is back in the Tesla Shop",
+      "hotShort_en": "Cybertruck <em>Off-Road Light Bar</em> back in Tesla Shop",
+      "body_en": "Tesla's official Cybertruck X account announced that the Off-Road Light Bar accessory has returned to the Tesla Shop. The product, which sold out shortly after its initial launch, is now available to order again for Cybertruck owners who missed the first wave.",
+      "summary_en": "The Tesla Cybertruck Off-Road Light Bar is a front-mounted auxiliary lighting accessory designed to improve visibility on uneven terrain and during nighttime off-road driving. It sold out quickly after its initial release, reflecting strong demand among Cybertruck owners for factory-official accessories.\n\nTesla's official Cybertruck X account announced the restock, confirming the product is now available for purchase in the Tesla Shop. Owners who had been waiting since the initial sellout can place orders again.\n\nBeyond this specific restock, it reflects Tesla's broader accessory strategy: extending lifetime revenue per vehicle through purpose-built add-ons. For the Cybertruck — positioned as a capable off-road and work truck — a robust accessories ecosystem enhances owner experience and differentiation from conventional pickup trucks.",
+      "href": "https://x.com/cybertruck/status/2066587519215698055",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "38m ago",
+      "pubDate": "2026-06-15T18:22:15.000Z",
+      "title": "SpaceX IPO, 유럽 리테일에 <em>$6억 배정</em> — 데뷔 후 랠리 연장 전망",
+      "hotShort": "SpaceX IPO 유럽 리테일 <em>$6억 배정</em> — 랠리 지속",
+      "body": "블룸버그에 따르면 SpaceX의 블록버스터 IPO에서 유럽 리테일 투자자에게 약 6억달러어치 주식이 배정될 것으로 알려졌다. 로이터도 뉴욕 증시 역대급 데뷔 이후 주가 랠리가 연장될 것으로 전망해, 머스크의 지분 가치 상승에도 긍정적 신호가 이어지고 있다.",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-ipo-europe-600m-2026-06-15",
+      "summary": "SpaceX의 뉴욕 증시 데뷔는 2026년 미국 IPO 역대 최대 규모 중 하나로 기록됐다. 블룸버그는 공모 구조와 관련해 유럽 리테일 투자자에게 약 6억달러가 배정될 예정으로 알려졌다고 보도했다 — 이는 전통적으로 기관 중심이던 대형 IPO에서 리테일 투자자의 접근성이 높아지고 있음을 시사한다.\n\n로이터는 SpaceX가 월가 데뷔 이후 주가 랠리를 이어갈 태세라고 전했다. 상장 직후 리테일·기관 수요가 맞물리면서 단기 모멘텀이 지속될 것으로 분석된다.\n\n머스크의 SpaceX 지분은 그의 순자산 대부분을 구성한다. SpaceX 주가 상승은 머스크 개인 재산의 추가 확대를 의미하지만, 테슬라 투자자 입장에서는 머스크의 관심과 자원이 테슬라 외부로 더 분산될 가능성도 함께 감안해야 한다 — 긍정과 중립 신호가 혼재한다.",
+      "title_en": "SpaceX IPO earmarks <em>$600M</em> for European retail — rally set to extend",
+      "hotShort_en": "SpaceX IPO puts <em>$600M</em> toward European retail",
+      "body_en": "Bloomberg reports that SpaceX's blockbuster IPO is set to allocate approximately $600 million to European retail investors — a sign of the deal's global demand beyond U.S. institutions. Reuters separately reports that the stock is poised to extend its rally following a record Wall Street debut, adding further tailwind to Musk's most valuable asset.",
+      "summary_en": "SpaceX's New York IPO ranked among the largest U.S. listings of 2026. Bloomberg reports that around $600 million in shares are slated for European retail investors — a notable allocation for a deal of this scale, which traditionally skews toward institutional buyers.\n\nReuters reports that post-debut momentum is strong, with SpaceX set to extend its gains after what the outlet described as a record first-day Wall Street performance. Retail and institutional demand are reinforcing the upward trajectory.\n\nFor Tesla investors, SpaceX's IPO success carries a dual read: Musk's personal wealth expands substantially, strengthening his ability to fund initiatives across his companies. At the same time, a high-profile, publicly-traded SpaceX draws more of his executive attention away from Tesla — a dynamic worth monitoring for shareholders focused on Tesla's day-to-day leadership.",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-said-to-allocate-600-million-to-european-retail-in-blockbuster-ipo",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-15T17:37:05.000Z",
+      "title": "中 e커머스에 '$30 인형 머리'… 테슬라 <em>드라이버 모니터링 카메라</em> 무력화",
+      "hotShort": "테슬라 카메라 속이는 <em>$30 인형 머리</em>, 中서 공공연히 유통",
+      "body": "중국 e커머스 플랫폼에서 테슬라 실내 카메라를 '운전자 주시 중'으로 속이는 소형 플라스틱 인형 머리(개당 $20~$50)가 버젓이 팔리고 있다 — FSD·오토파일럿 드라이버 모니터링의 핵심 안전장치가 단돈 수만 원에 우회될 수 있다는 점에서 규제·신뢰 리스크로 부각된다.",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "fsd-doll-heads-fool-autopilot-camera-2026-06-15",
+      "summary": "테슬라 오토파일럿·FSD는 운전자의 주의 집중을 확인하기 위해 실내 카메라(드라이버 모니터링 시스템, DMS)로 눈 깜빡임·시선 방향을 실시간 감지한다. 이 카메라가 뚫리면 운전자가 자리를 비워도 핸즈프리 주행이 가능해진다는 의미다.\n\n일렉트렉의 보도에 따르면, 중국 e커머스 플랫폼에는 테슬라 DMS를 속이도록 설계된 소형 플라스틱 인형 머리가 개당 20~50달러에 유통되고 있다. 판매자들은 '테슬라 카메라 전용'임을 명시하며, 구매자들은 인형 머리를 운전석 앞쪽 카메라 앞에 고정해 운전자가 주시 중인 것처럼 인식시킨다.\n\n현재 테슬라 FSD는 레벨 2 자동화로 분류돼 미국·중국 법상 운전자 상시 주시가 의무다. 이 도구가 실제로 작동한다면 드라이버 주의 의무를 법적으로 위반하는 셈이다. 중국 당국이 이 같은 기기를 어떻게 단속할지는 불분명하며, 테슬라의 공식 대응도 아직 나오지 않았다.\n\n투자자 입장에선 FSD 안전장치의 취약점이 쌓일수록 규제 리스크가 높아질 수 있다 — 특히 FSD·로보택시 허가 프로세스가 진행 중인 유럽·미국 시장에서 부담 요인이 될 수 있다. 이번 주 로이터의 'FSD 안전 데이터 허위 제출' 단독 보도와 맞물려, 자율주행 신뢰도를 둘러싼 규제 서사가 강화되고 있다.",
+      "title_en": "China's <em>$30 doll heads</em> are defeating Tesla's self-driving safety camera",
+      "hotShort_en": "China's <em>$30 doll heads</em> fool Tesla's driving cam",
+      "body_en": "A cottage industry on Chinese e-commerce platforms is selling $20–$50 plastic doll heads designed to trick Tesla's cabin monitoring camera into registering an 'attentive driver.' The devices expose a meaningful gap in FSD's driver oversight safeguards — adding to regulatory risk as Tesla pursues higher autonomy certification in the U.S. and Europe.",
+      "summary_en": "Tesla's Autopilot and FSD rely on a cabin-facing Driver Monitoring System (DMS) that tracks eye movement and attention in real time. When the DMS is bypassed, the vehicle can operate in hands-free mode even without an alert driver — precisely the scenario the safeguard is designed to prevent.\n\nElectrek reports that purpose-built plastic doll heads for Tesla's DMS camera are openly sold on Chinese platforms for $20 to $50. Sellers advertise them as 'Tesla camera companions,' and buyers position the heads in front of the cabin camera to simulate a watchful driver — effectively disabling the key oversight mechanism.\n\nUnder U.S. and Chinese law, FSD remains Level 2 automation, legally requiring continuous driver attention. Use of these devices constitutes a breach of that legal requirement. Chinese authorities have not yet signaled an enforcement stance, and Tesla has issued no public response to the devices.\n\nFor investors, the story compounds the FSD safety narrative building this week — coming days after Reuters' exclusive report that Tesla submitted misleading FSD safety data to European regulators. Together, these developments add to the regulatory scrutiny risk around FSD and Cybercab certification, even if each individual incident carries limited near-term impact on the stock.",
+      "href": "https://electrek.co/2026/06/15/chinese-drivers-plastic-heads-fool-tesla-autopilot-camera/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "32m ago",
@@ -2022,27 +2087,7 @@
       "hotShort_en": "Cathie Wood rides Austin robotaxi <em>unsupervised</em>",
       "body_en": "ARK Invest founder Cathie Wood personally rode a Tesla robotaxi in unsupervised mode in Austin, Texas — a symbolic moment boosting FSD-technology trust, as Tesla's most ardent investor experienced the actual service firsthand.",
       "summary_en": "ARK Invest founder and CEO Cathie Wood experienced a personal ride in Tesla's unsupervised FSD-based robotaxi in Austin, Texas. Tesla accessory brand BASENOR reported it exclusively.\n\nWood has, through ARK Invest, shown strong conviction in Tesla's long-term growth for years as a foremost bull. Personally riding the unsupervised robotaxi and sharing the experience reads as a moment symbolizing real-world validation of FSD's maturity.\n\nTesla currently operates its unsupervised FSD robotaxi service centered on Austin, Texas. Unsupervised mode runs on software alone without an in-car safety operator — a key milestone toward full-autonomy commercialization. Note, however, that this is a BASENOR exclusive, so additional cross-verification is recommended."
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-06-08T16:53:14.000Z",
-      "title": "테슬라, 터키 아피욘카라히사르에 <em>슈퍼차저 12기</em> 신규 개통",
-      "hotShort": "테슬라, 터키에 신규 <em>슈퍼차저 12기</em> 개통",
-      "body": "테슬라가 터키(Türkiye) 아피욘카라히사르 도르욜 지역에 12기 규모의 신규 슈퍼차저를 공식 개통했다 — 유럽·중동 지역 충전 인프라 확충이 꾸준히 이어지고 있음을 보여주는 공식 발표다.",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "product-supercharger-turkey-afyonkarahisar-2026-06-08",
-      "summary": "테슬라 슈퍼차저 공식 X 계정이 터키(Türkiye) 아피욘카라히사르(Afyonkarahisar) 도르욜(Dörtyol) 지역에 12기(stall) 규모의 신규 슈퍼차저가 개통됐다고 발표했다. 이는 테슬라의 유럽·중동·아프리카(EMEA) 지역 충전 인프라 확충 계획의 일환이다.\n\n아피욘카라히사르는 터키 중부 아나톨리아 지역의 교통 요충지로, 이 지점 개통은 터키 내륙 장거리 여행 시 테슬라 오너들의 충전 공백 구간을 줄이는 데 기여한다. 테슬라 슈퍼차저 네트워크는 전 세계 고속 충전 인프라 중 신뢰도와 속도 면에서 가장 높은 평가를 받는 독점 충전망이다.\n\n슈퍼차저 네트워크 확장은 테슬라 주주 관점에서 장기 성장 지표의 하나다. 전 세계 슈퍼차저 수가 늘수록 테슬라 차량의 구매 편의성이 높아지고, 타사 차량 개방을 통해 별도 수익원으로 전환할 수 있는 인프라 자산 가치도 함께 성장한다.",
-      "href": "https://x.com/TeslaCharging/status/2064027985590792639",
-      "sentiment": "neutral",
-      "hot": 3,
-      "title_en": "Tesla opens a <em>12-stall Supercharger</em> in Afyonkarahisar, Türkiye",
-      "hotShort_en": "Tesla opens new <em>12-stall Supercharger</em> in Türkiye",
-      "body_en": "Tesla officially opened a 12-stall Supercharger in the Dörtyol area of Afyonkarahisar, Türkiye — an official announcement showing steady charging-infrastructure expansion across Europe and the Middle East.",
-      "summary_en": "Tesla's Supercharger official X account announced a new 12-stall Supercharger in the Dörtyol area of Afyonkarahisar, Türkiye — part of Tesla's charging-infrastructure expansion across the Europe, Middle East and Africa (EMEA) region.\n\nAfyonkarahisar is a transport hub in central Anatolia, and the opening helps reduce charging gaps for Tesla owners on long inland journeys across Türkiye. Tesla's Supercharger network is a proprietary network rated among the world's best for reliability and speed.\n\nSupercharger expansion is one long-term growth metric from a shareholder view. The more Superchargers worldwide, the greater the purchase convenience of Tesla vehicles, and the value of the infrastructure asset — convertible into a separate revenue stream by opening to other brands — grows too."
     }
   ],
-  "asOf": "2026-06-16 02:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-16 04:15 KST 자동 갱신 · 최신순"
 }
