@@ -977,9 +977,15 @@ async function buildOneLang(opts) {
   }
 
   // 라벨 lang 분기
+  // 핫뉴스·피드 풀 — archive(최신 100, dedup)에서. cards.json(2~6건)이 적어도 핫뉴스 최소 개수 확보.
+  let feedCards = cards;
+  try {
+    const arcRaw = JSON.parse(await readFile(path.join(DATA_DIR, "archive.json"), "utf8"));
+    if (Array.isArray(arcRaw.items) && arcRaw.items.length) feedCards = { items: arcRaw.items };
+  } catch { /* archive 없으면 cards.json 폴백 */ }
   const hotCountLabel = lang === "en"
-    ? `${Math.min(5, cards.items.length)} items`
-    : `총 ${Math.min(5, cards.items.length)}건`;
+    ? `${Math.min(5, feedCards.items.length)} items`
+    : `총 ${Math.min(5, feedCards.items.length)}건`;
   const freshLabel = lang === "en" ? "calculating freshness…" : "갱신 시각 계산 중…";
 
   // 영어 빌드에서 cards.asOf 에 한글이 섞여 있으면 (raw 폴백 등) 영문으로 재생성.
@@ -996,7 +1002,7 @@ async function buildOneLang(opts) {
 
   let out = template;
   out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi, lang));
-  out = replaceBlock(out, "HOT_NEWS",    renderHotNews(cards, lang));
+  out = replaceBlock(out, "HOT_NEWS",    renderHotNews(feedCards, lang));
   out = replaceBlock(out, "INVESTOR_CAL", renderInvestorCalendar(calendar, lang, now));
   out = replaceBlock(out, "HOT_COUNT",   hotCountLabel);
   const cardsFreshSince = cards.items[0]?.pubDate || "";
@@ -1004,12 +1010,7 @@ async function buildOneLang(opts) {
     ? `${escapeHtml(localizedCardsAsOf)} · <span class="cats__fresh" data-fresh-since="${escapeHtml(cardsFreshSince)}">${escapeHtml(fmtFreshLabel(cardsFreshSince, lang) || freshLabel)}</span>`
     : escapeHtml(localizedCardsAsOf);
   out = replaceBlock(out, "CARDS_TIME",  cardsAsOf);
-  // 홈 피드 — archive(최신 100, dedup) 상위 10건. cards.json(4~6건)보다 풍부해 필터 칩이 의미를 가짐.
-  let feedCards = cards;
-  try {
-    const arcRaw = JSON.parse(await readFile(path.join(DATA_DIR, "archive.json"), "utf8"));
-    if (Array.isArray(arcRaw.items) && arcRaw.items.length) feedCards = { items: arcRaw.items };
-  } catch { /* archive 없으면 cards.json 폴백 */ }
+  // 홈 피드 — archive 상위 10건(위 feedCards 재사용).
   out = replaceBlock(out, "CARDS_GRID",  renderCards(feedCards, { lang }));
   out = replaceBlock(out, "BUILD_INFO",  `<!-- build: ${buildIso} -->`);
 
