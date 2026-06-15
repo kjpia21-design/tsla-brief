@@ -461,26 +461,6 @@
       "hot": 5
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-13T01:35:00.000Z",
-      "title": "캐시 우드, 로보택시 이용 후 <em>$75 주차위반 딱지</em> — 책임 소재 공개 질문",
-      "hotShort": "로보택시 <em>$75 주차위반</em> — 캐시 우드 책임 질문",
-      "body": "테슬라 최대 강세 투자자인 캐시 우드 ARK인베스트 CEO가 로보택시 이용 후 $75 주차위반 딱지가 발행됐다며 일론 머스크에게 공개적으로 책임 소재를 물었다 — 무인 자율주행 서비스에서 실제 운행 중 발생한 첫 책임 논란으로, 로보택시 상용화 확대를 위한 법적·운영 인프라 정비의 시급성을 방증한다.",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-parking-ticket-cathie-wood-2026-06-13",
-      "summary": "ARK인베스트 CEO이자 테슬라의 대표적 강세 투자자인 캐시 우드가 테슬라 로보택시 승차 후 $75 주차위반 딱지가 발행됐다며 일론 머스크에게 공개적으로 책임 소재를 물었다. 야후파이낸스가 이 사건을 보도하면서 자율주행 택시 서비스의 운영 책임 공백 문제가 공론화됐다.\n\n테슬라 로보택시는 현재 오스틴(텍사스)을 중심으로 제한적 상용 운행 중이다. 무인 차량이 승객을 내려준 뒤 자율적으로 이동하거나 대기 주차하는 과정에서 위반 딱지가 발생할 수 있으며, 이 경우 책임이 테슬라(서비스 운영사), 차량 소유주, 서비스 이용자 중 누구에게 귀속되는지는 현행 법제도에서 명확히 규정되지 않은 영역이다.\n\n$75라는 금액 자체는 소액이다. 그러나 로보택시 운행이 수만 건 단위로 확대될 경우, 주차위반 외에도 통행료 미납·구역 진입 위반 등 유사 상황이 반복되며 운영 비용과 법적 분쟁 리스크로 누적될 수 있다.\n\n캐시 우드의 공개 질문은 로보택시 반대 입장이 아니다 — 그녀는 테슬라 자율주행 사업의 가장 강력한 기관 지지자 중 한 명이다. 실제 서비스를 이용하는 과정에서 발생한 실용적 의문을 창업자에게 직접 묻는 방식은, 서비스가 이제 충분히 실재하고 있음을 방증하는 동시에 제도 인프라 정비의 필요성을 공개적으로 제기한 것으로 해석된다.\n\n머스크와 테슬라가 어떤 방식으로 이 책임 구조를 명확히 할지 — 서비스 약관, 보험 구조, 또는 자율주행 특화 교통법 로비를 통해 — 는 로보택시 규모 확장의 핵심 운영 과제가 될 것이다.",
-      "title_en": "Cathie Wood asks Musk: who pays the <em>$75 parking ticket</em> from her robotaxi ride?",
-      "hotShort_en": "Cathie Wood: <em>$75 robotaxi ticket</em> — who pays?",
-      "body_en": "ARK Invest CEO Cathie Wood — one of Tesla's most prominent institutional bulls — publicly asked Elon Musk how Tesla handles parking violations after her robotaxi ride generated a $75 citation. The question exposes a real operational gap: as unsupervised vehicles reposition between rides, who bears legal responsibility for the infractions they incur?",
-      "summary_en": "Cathie Wood, CEO of ARK Invest and one of Tesla's most recognizable institutional bulls, publicly asked Elon Musk how Tesla handles parking tickets after a robotaxi ride she took generated a $75 citation. Yahoo Finance reported on the exchange, drawing wider attention to an operational and legal infrastructure gap that still needs to be resolved as Tesla's robotaxi service expands.\n\nTesla's robotaxi service is currently operating in a limited commercial area around Austin, Texas. When an unsupervised vehicle drops a passenger off and then autonomously repositions to a holding location between rides, it may stop somewhere that generates a parking violation. The legal question — whether responsibility for that ticket falls on Tesla as the service operator, the vehicle owner, or the passenger — is not clearly addressed under current traffic and autonomous vehicle law in most jurisdictions.\n\nA $75 ticket is a minor financial event in isolation. At the scale Tesla aims for — tens of thousands of robotaxi trips per day — unresolved liability for parking citations, toll infractions, or low-speed right-of-way incidents could accumulate into material operational costs and legal exposure. A clear framework needs to exist before that scale is reached.\n\nCathie Wood's public question is not a criticism of Tesla's robotaxi ambition — she remains firmly on the bull side of the Tesla autonomous thesis. Her question reflects the perspective of an investor who has used the service and encountered a practical gap that has not yet been publicly addressed. The act of raising it publicly, directed at Musk himself, is a signal that early users are encountering real-world friction points worth resolving.\n\nHow Tesla and Musk respond — through updated terms of service, built-in insurance coverage, or engagement with state autonomous vehicle legislation — will be watched as an indicator of operational readiness ahead of any major robotaxi fleet expansion.",
-      "href": "https://finance.yahoo.com/sectors/technology/articles/cathie-wood-asks-elon-musk-013500275.html",
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "5h ago",
@@ -735,26 +715,6 @@
       "summary_en": "MSN reported on June 12 on Tesla's $250 million commitment to its German operations, framing it as a strategic bet being placed before the financial payoff is clear. The piece highlights questions about capital allocation discipline at a time when Tesla is balancing aggressive geographic expansion against near-term margin pressure.\n\nGermany is home to Tesla's European Gigafactory (Giga Berlin-Brandenburg), which produces Model Y for European markets. It is also one of Western Europe's largest EV markets, making local production and infrastructure investment central to Tesla's European competitiveness. The exact breakdown of the $250M — whether it covers factory expansion, local charging infrastructure, service centers, or a combination — is detailed in the full MSN article.\n\nFor Tesla shareholders, the capital-ahead-of-returns dynamic is a familiar pattern in Tesla's history. The company regularly invests in factory and market capacity before the volume to fully justify it materializes; Giga Shanghai and Giga Berlin both followed this playbook. The key question for investors is whether the payoff arrives on schedule or drags on free cash flow longer than expected.\n\nOn the positive side, European local production insulates Tesla from U.S.-to-Europe export tariffs, and deeper Germany operations strengthen the brand in a market where Tesla faces rising competition. The investment makes most sense viewed as a medium-term positioning move rather than a short-term returns play.",
       "href": "https://www.msn.com/en-us/money/topstocks/tesla-s-250-million-germany-bet-is-interesting-it-s-spending-more-before-it-has-the-payoff/ar-AA23pCEV?gemSnapshotKey",
       "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "19h ago",
-      "pubDate": "2026-06-12T03:26:00.000Z",
-      "title": "JP모건, 테슬라를 <em>최고의 영구 보유주</em>로 재확인",
-      "hotShort": "JP모건: 테슬라, <em>영구 보유 최고주</em> — 장기 베팅 재확인",
-      "body": "JP모건이 테슬라를 장기적으로 보유해야 할 '최고의 영구 보유주(Forever Stock)' 중 하나로 재차 지목했다 — SpaceX IPO로 테슬라-SpaceX 투자 선택 논쟁이 뜨거워진 날, 대형 투자은행의 장기 낙관론이 테슬라 보유를 지지하는 기관의 목소리로 부각됐다.",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "stock-jpmorgan-tesla-forever-stock-2026-06-12",
-      "summary": "야후파이낸스는 JP모건이 테슬라를 '장기적으로 보유해야 할 최고의 영구 보유주(Forever Stock)' 가운데 하나로 꼽는 관점을 재조명했다. '포에버 스톡'이란 단기 시세 등락이 아닌 장기 복리 성장에 적합한 종목을 뜻하며, 테슬라가 이 범주에 포함된다는 주장은 EV·FSD·에너지·로보택시를 아우르는 장기 성장 드라이버를 인정한다는 의미다.\n\n이 분석이 주목받은 날은 SpaceX 나스닥 상장일로, 투자자들 사이에서 테슬라와 SpaceX 중 어느 쪽이 더 나은 투자처인지를 둘러싼 논쟁이 가장 뜨겁게 달아오른 시점이었다. 이 구도에서 JP모건의 테슬라 장기 긍정론은 테슬라를 지지하는 기관의 목소리로 해석된다.\n\n'포에버 스톡' 관점은 단기 실적 우려나 밸류에이션 프리미엄을 부정하는 것이 아니다. 그러한 변동성을 감수할 의지가 있는 장기 투자자에게 테슬라가 여전히 매력적이라는 주장이며, 이는 FSD·로보택시 수익화가 현실화되면 프리미엄 배수가 정당화된다는 논리와 맞닿아 있다.\n\n야후파이낸스가 JP모건의 원래 리포트를 직접 인용한 것인지 기존 관점을 정리한 것인지는 원문 확인이 필요하다. 그럼에도 SpaceX IPO 당일 이 논평이 부상한 것은 두 자산을 저울질하는 투자자들에게 테슬라 장기 보유의 근거를 제시하는 역할을 했다.",
-      "title_en": "JPMorgan echoes: Tesla is <em>one of the best forever stocks</em> to own",
-      "hotShort_en": "JPMorgan calls Tesla <em>a top forever stock</em> to hold",
-      "body_en": "JPMorgan reiterated its view that Tesla is one of the best 'forever stocks' to buy — a long-term hold endorsement that stands out on the same day SpaceX debuted on the Nasdaq and investors were weighing which Musk asset deserves the bigger allocation.",
-      "summary_en": "Yahoo Finance highlighted JPMorgan's characterization of Tesla as one of the best 'forever stocks' — a framing that refers to long-term compounders worth holding through near-term volatility rather than trading around short-term catalysts. The timing, on SpaceX's IPO day, made the endorsement particularly relevant as investors weighed capital allocation between the two Musk companies.\n\nA 'forever stock' thesis for Tesla rests on the breadth of its long-duration growth levers: FSD and robotaxi monetization, energy storage expansion via Megapack, and the platform-level advantages that accrue from vertical integration across software, hardware, and manufacturing. JPMorgan's framing suggests the sum of these opportunities justifies holding through near-term margin pressure and valuation uncertainty.\n\nThe 'forever stock' label does not dismiss near-term risks. Tesla's automotive margins have come under pressure from price competition, battery cost trends are narrowing, and the FSD monetization timeline has faced delays. JPMorgan's position is that the long-run opportunity is large enough to absorb those headwinds for patient investors.\n\nNote that this report appears to echo or restate JPMorgan's established view rather than announce a fresh rating change or price-target update. Investors should consult JPMorgan's original research directly for the specific current price target and underlying assumptions.\n\nFor Tesla shareholders navigating the SpaceX IPO conversation, the key practical use of this framing is as a counterargument to the 'rotate into SpaceX' thesis — institutional validation that Tesla's standalone long-term case remains intact even as SpaceX enters the public market.",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-echoes-why-tesla-inc-032657664.html",
-      "sentiment": "bull",
       "hot": 5
     },
     {
