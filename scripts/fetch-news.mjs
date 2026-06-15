@@ -145,6 +145,10 @@ const DOMAIN_LABEL = [
   [/(^|\.)tesla\.com$/i,         "official"],
   [/(^|\.)x\.com$/i,             "official"],
   [/(^|\.)twitter\.com$/i,       "official"],
+  // 공식 PR 배포 와이어 — 기업 공식 발표(실적·인사 등) 1차 경로
+  [/(^|\.)businesswire\.com$/i,  "official"],
+  [/(^|\.)prnewswire\.com$/i,    "official"],
+  [/(^|\.)globenewswire\.com$/i, "official"],
 
   // press — 외신·전문매체 (재배포·애그리게이터 포함 — Yahoo/Nasdaq 는 1차 아님)
   [/finance\.yahoo\.com/i,       "press"],
@@ -204,6 +208,10 @@ const DOMAIN_TIER = [
   [/(^|\.)nytimes\.com$/i,    7],
   [/(^|\.)barrons\.com$/i,    7],
   [/(^|\.)apnews\.com$/i,     8],   // AP 통신 — tier-1
+  // 공식 PR 배포 와이어 — 기업 공식 발표(실적·인사 등) 1차 경로. (JP 요청 2026-06-15 소스 보강)
+  [/(^|\.)businesswire\.com$/i,  6],
+  [/(^|\.)prnewswire\.com$/i,    6],
+  [/(^|\.)globenewswire\.com$/i, 6],
 
   // tier-2 전문·트레이드 매체
   [/(^|\.)electrek\.co$/i,    4],
