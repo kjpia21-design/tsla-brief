@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "38m ago",
+      "pubDate": "2026-06-15T10:22:13.000Z",
+      "title": "로이터, SpaceX IPO 데뷔 후 <em>주가 향방</em>은 — 머스크 포스트-IPO 분석",
+      "hotShort": "SpaceX IPO 후 <em>주가 향방</em> — 로이터 분석",
+      "body": "로이터가 SpaceX의 역사적 IPO 데뷔(6월 13일) 직후 공개 시장에서의 주가 향방을 집중 조명했다 — 상장 초기 흥분이 가라앉으면서 실적·펀더멘털 기반 가치 평가로 전환되는 단계가 SpaceX의 포스트-IPO 투자 서사를 결정짓는다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-ipo-stock-outlook-2026-06-15",
+      "summary": "로이터가 SpaceX의 기록적 상장(2026-06-13) 직후 '공개 시장에서 무엇이 기다리는가'를 주제로 포스트-IPO 분석 기사를 발행했다. SpaceX는 지난 주 상장 데뷔 이후 CNBC 짐 크레이머를 비롯한 주요 금융 미디어의 집중 조명을 받으며 화제의 상장으로 기록됐다.\n\nSpaceX는 테슬라와 별개의 민간기업이지만, 일론 머스크가 양사의 핵심 경영자이자 최대 주주다. SpaceX의 상장 후 주가 흐름은 테슬라 투자에 직접 영향을 미치지 않지만, 머스크가 이끄는 기업 생태계 전반에 대한 자본시장 인식에 간접적으로 연결된다.\n\n로이터가 짚는 포스트-IPO 관전 포인트는 IPO 초기 흥분이 가라앉은 뒤 SpaceX가 공개 시장의 실적·수익성 검증 부담을 어떻게 충족하느냐다. 비공개 기업 시절과 달리 분기 실적 공시 의무, 락업 해제 시점의 주요 주주 매도 가능성 등 새로운 변수가 생긴다. SpaceX가 이 단계를 안정적으로 통과하면 머스크 생태계 전반의 시장 신뢰도에 긍정적 신호가 된다.",
+      "title_en": "Reuters: What's next for <em>SpaceX stock</em> after its IPO blastoff",
+      "hotShort_en": "SpaceX <em>stock's next move</em> post-IPO — Reuters",
+      "body_en": "Reuters examines where SpaceX's stock goes from here, following the company's historic IPO debut on June 13 — as the initial IPO rally settles, the focus shifts to whether SpaceX can deliver on the fundamentals and valuations that underpinned its record-breaking listing.",
+      "summary_en": "Reuters published a post-IPO analysis looking at what lies ahead for SpaceX's stock after its blockbuster market debut on June 13. The listing drew widespread acclaim from financial commentators including CNBC's Jim Cramer, but the question now is whether the fundamentals can justify and sustain the IPO valuation over time.\n\nSpaceX and Tesla are separate companies, but both operate under Elon Musk's leadership. SpaceX stock performance does not directly affect TSLA, but broader investor confidence in the Musk ecosystem — shaped in part by how SpaceX navigates its public market debut — carries indirect weight for Tesla's narrative.\n\nThe key post-IPO dynamics Reuters examines include how SpaceX manages the transition from private-company norms to public reporting obligations, when major shareholders become free to sell as lock-up windows expire, and whether revenue and growth metrics hold up under quarterly scrutiny. A clean, credibility-building post-IPO phase for SpaceX would reinforce Musk's overall standing with capital markets — a background tailwind for Tesla sentiment as well.",
+      "href": "https://www.reuters.com/legal/transactional/whats-next-spacex-stock-after-ipo-blastoff-2026-06-15/",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-06-15T08:07:59.000Z",
+      "title": "로이터 단독 \"테슬라, 유럽 규제기관에 <em>FSD 안전 데이터 허위 제출</em>\"",
+      "hotShort": "로이터 \"FSD 안전 데이터 <em>허위 제출</em>\" 단독 보도",
+      "body": "로이터가 단독 취재로, 테슬라가 FSD(완전자율주행)의 안전 데이터를 유럽 규제기관에 오해를 유발하는 방식으로 제출했다고 보도했다 — 규제기관과의 신뢰 문제가 전면으로 부상하면서 FSD 유럽 상용화 허가 경로에 직접적인 리스크가 생겼다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-reuters-eu-safety-data-misleading-2026-06-15",
+      "summary": "로이터가 독자 취재한 단독 보도에 따르면, 테슬라는 FSD(완전자율주행) 시스템의 안전 성능 관련 자료를 유럽 자동차 규제기관에 제출하는 과정에서 오해를 유발하는(misleading) 방식으로 구성했다는 의혹이다. 로이터는 이를 '단독(Exclusive)' 취재로 표기해 자체 조사로 확인된 내용임을 명시했다.\n\nFSD 안전 데이터 제출은 유럽 공도 자율주행 허가의 필수 관문이다. 유럽 규제기관은 사고율·운전자 개입 빈도·위험 상황 대응 지표 등 핵심 데이터를 검토해 자율주행 시스템의 공도 운행 허가 여부를 결정한다. 이 과정에서 데이터를 오해를 유발하도록 제출했다는 보도는, 테슬라가 안전 성능을 실제보다 유리하게 보이도록 자료를 구성했을 가능성을 시사한다.\n\n테슬라 주주 입장에서 이 보도의 함의는 두 가지다. 첫째, FSD와 사이버캡 로보택시가 테슬라 밸류에이션의 핵심 성장 동력인데, 유럽 규제기관과의 신뢰가 훼손되면 FSD·로보택시 상용화 허가 일정에 직접적인 장벽이 된다. 둘째, 로이터 단독 보도는 주요 매체의 후속 보도와 테슬라·유럽 당국의 공식 반응을 이끌 가능성이 높아 단기적으로 FSD 서사에 역풍 요인이 된다.\n\n테슬라의 공식 입장과 유럽 규제기관의 후속 조치에 따라 FSD 유럽 승인 일정과 투자 심리에 미치는 영향이 결정될 전망이다.",
+      "title_en": "Reuters Exclusive: Tesla submitted <em>misleading FSD safety data</em> to European regulators",
+      "hotShort_en": "Tesla misled EU on <em>FSD safety data</em> — Reuters",
+      "body_en": "Reuters, in an exclusive investigation, reports that Tesla presented misleading Full Self-Driving safety data to European automotive regulators — raising significant concerns about data transparency in the regulatory approval process and creating potential headwinds for FSD's commercial path in Europe.",
+      "summary_en": "A Reuters exclusive investigation reports that Tesla submitted misleading safety data related to its Full Self-Driving system to European automotive regulators. Reuters' use of the 'Exclusive' label indicates the report is based on original investigative reporting, not a secondary recap of official disclosures.\n\nFSD safety data submission is a required step in the regulatory approval process for autonomous driving systems on European public roads. Regulators evaluate key metrics — including incident rates, driver intervention frequency, and hazard-response performance — to determine whether an autonomous system qualifies for road-operation approval. If the submitted data was structured in a misleading way, it could mean Tesla's safety performance was presented more favorably than the underlying data supports.\n\nFor Tesla shareholders, the implications are meaningful on two fronts. First, FSD and Cybercab-based robotaxi commercialization represent the core of Tesla's long-term valuation thesis — any damage to regulatory trust in Europe directly threatens the licensing and deployment timeline in a major market. Second, a Reuters exclusive typically triggers follow-on coverage from competing media and forces official responses from both Tesla and the relevant European regulators, creating near-term FSD narrative headwinds and potential TSLA headline risk.\n\nHow significantly this affects the European regulatory timeline depends on Tesla's official response and the regulatory actions that follow.",
+      "href": "https://www.reuters.com/world/tesla-presented-misleading-full-self-driving-safety-data-european-regulators-2026-06-15/",
+      "sentiment": "bear",
+      "hot": 9
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2h ago",
@@ -21,5 +61,5 @@
       "hot": 3
     }
   ],
-  "asOf": "2026-06-15 14:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-15 20:10 KST 자동 갱신 · 최신순"
 }
