@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-14 23:14 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-15 01:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-06-14T23:33:47.000Z",
+      "title": "Tesla FTZ Move Puts Texas Megapack Costs And Margins In Focus",
+      "body": "Tesla FTZ Move Puts Texas Megapack Costs And Margins In Focus simplywall.st",
+      "sourceName": "simplywall.st",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/tesla-ftz-move-puts-texas-megapack-costs-and-margins-in-focu"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
+      "pubDate": "2026-06-14T23:18:52.000Z",
+      "title": "Jim Cramer gives Elon Musk's SpaceX a ringing endorsement after Friday's historic debut",
+      "body": "Jim Cramer gives Elon Musk's SpaceX a ringing endorsement after Friday's historic debut CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/14/jim-cramer-gives-elon-musks-spacex-a-ringing-endorsement-after-last-week-ipo.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
       "pubDate": "2026-06-14T21:59:42.000Z",
       "title": "Starlink connecting schools on remote islands!",
       "body": "Starlink connecting schools on remote islands! https://t.co/tLIZ1WCdOL",
@@ -17,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-14T21:54:31.000Z",
       "title": "Interesting analysis",
       "body": "Interesting analysis https://t.co/cyvqhwAc2s",
@@ -30,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-14T21:37:09.000Z",
       "title": "Try the latest Grok Imagine!",
       "body": "Try the latest Grok Imagine! https://t.co/iPbpJxlA6J",
@@ -43,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-14T21:27:09.000Z",
       "title": "As Andrew replies below, we appreciate any critical feedback in pursuit of product perfection for Grok Build!",
       "body": "As Andrew replies below, we appreciate any critical feedback in pursuit of product perfection for Grok Build! https://t.co/ovoVOXnL96",
@@ -54,22 +80,9 @@
       "href": "https://x.com/elonmusk/status/2066271248254910785"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-14T21:25:03.000Z",
-      "title": "𝕏 is the group chat of humanity",
-      "body": "𝕏 is the group chat of humanity https://t.co/3c69R7JdMk",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2066270720301121621"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-14T21:23:55.000Z",
       "title": "It's interesting to see our family's tombstones carved with the place they lived more than a thousand years ago (arou…",
       "body": "It's interesting to see our family's tombstones carved with the place they lived more than a thousand years ago (around 220 AD) instead of where they are currently buried. No one instructed them to do so, but for some re…",
@@ -82,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-14T21:04:06.000Z",
       "title": "Look forward to discussing tech stocks and the week ahead in the markets on @CNBCMorningCall with @MorganLBrennan at …",
       "body": "Look forward to discussing tech stocks and the week ahead in the markets on @CNBCMorningCall with @MorganLBrennan at 5 am @CNBC 🔥🍿🏆🎯🐂",
@@ -95,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-14T20:54:04.000Z",
       "title": "There are many good X articles lately, some superb, intellectual, and honest. They are 1000x better than opinion colu…",
       "body": "There are many good X articles lately, some superb, intellectual, and honest. They are 1000x better than opinion columns in newspapers. I noticed my chat group has more X article links than links from MSM. In the era of …",
@@ -108,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-14T20:32:16.000Z",
       "title": "Hot summer day = 麻辣燙 day",
       "body": "Hot summer day = 麻辣燙 day https://t.co/XtA6y9FZ7P",
@@ -121,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-14T20:15:03.000Z",
       "title": "Built for engineers by engineers.",
       "body": "Built for engineers by engineers. https://t.co/xAiEuXk1WD",
@@ -134,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-14T20:12:43.000Z",
       "title": "The socialist ideal often thrived among heirs of inheritance because everything was handed to them for free. The conc…",
       "body": "The socialist ideal often thrived among heirs of inheritance because everything was handed to them for free. The concept of struggle was merely a word, not an actual experience. In contrast, people who had lived through …",
@@ -147,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-14T18:31:04.000Z",
       "title": "Forget Tesla: This Magnificent 7 Stock This Wins Every Time",
       "body": "Forget Tesla: This Magnificent 7 Stock This Wins Every Time AOL.com",
@@ -160,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-14T17:31:04.000Z",
       "title": "New Tesla Supercharger: Hagerstown, MD - Cole Road (12 stalls)",
       "body": "New Tesla Supercharger: Hagerstown, MD - Cole Road (12 stalls) https://t.co/7igRCJs27Q https://t.co/GQ9vmBXyHo",
@@ -171,22 +184,9 @@
       "href": "https://x.com/TeslaCharging/status/2066211836454985881"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-14T15:17:54.000Z",
-      "title": "S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs — SMCI, AMZN, OPEN, SEGG, TSLA In Focus",
-      "body": "S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs — SMCI, AMZN, OPEN, SEGG, TSLA In Focus Stocktwits",
-      "sourceName": "Stocktwits",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-drop-as-us-iran-war-jitters-inflation-risk-spur-tech-selloffs-smci-amzn-open-segg-tsla-in-focus/cZ06yd5R7cQ"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-14T14:35:00.000Z",
       "title": "Say Goodbye To The Tesla Model X",
       "body": "Say Goodbye To The Tesla Model X Yahoo",
@@ -199,33 +199,33 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
-      "pubDate": "2026-06-14T14:21:11.000Z",
-      "title": "Cathie Wood sells $16.2M in Tesla stock amid bold market predictions",
-      "body": "Cathie Wood sells $16.2M in Tesla stock amid bold market predictions Rolling Out",
-      "sourceName": "Rolling Out",
+      "time": "11h ago",
+      "pubDate": "2026-06-14T14:20:30.000Z",
+      "title": "JPMorgan just dramatically reversed course on Tesla because TSLA stock has massive physical AI potential",
+      "body": "JPMorgan just dramatically reversed course on Tesla because TSLA stock has massive physical AI potential MSN",
+      "sourceName": "MSN",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://rollingout.com/2026/06/14/cathie-wood-sells-16-2m-in-tesla-stock/"
+      "href": "https://www.msn.com/en-us/technology/artificial-intelligence/jpmorgan-just-dramatically-reversed-course-on-tesla-because-tsla-stock-has-massive-physical-ai-potential/ar-AA258av0?ocid"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "11h ago",
-      "pubDate": "2026-06-14T12:05:00.000Z",
-      "title": "OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?",
-      "body": "OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried? Yahoo Finance",
-      "sourceName": "Yahoo Finance",
+      "pubDate": "2026-06-14T13:50:59.000Z",
+      "title": "This Week In Tesla: US EV Sales Hit Record, Top Analyst Predicts TSLA Sell-Off And More - Tesla (NASDAQ:T",
+      "body": "This Week In Tesla: US EV Sales Hit Record, Top Analyst Predicts TSLA Sell-Off And More - Tesla (NASDAQ:T Benzinga",
+      "sourceName": "Benzinga",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://finance.yahoo.com/sectors/technology/articles/openai-just-launched-robotics-division-120500708.html"
+      "href": "https://www.benzinga.com/markets/tech/26/06/53185492/this-week-in-tesla-us-ev-sales-hit-record-top-analyst-predicts-tsla-sell-off-and-more"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-14T11:48:10.000Z",
       "title": "New Tesla Supercharger: Seinäjoki, Finland (8 stalls)",
       "body": "New Tesla Supercharger: Seinäjoki, Finland (8 stalls) https://t.co/pRAmiXK7Fp https://t.co/MjeRSRGAfj",
@@ -234,19 +234,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2066125539543572486"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-06-14T11:31:18.000Z",
-      "title": "Original Tesla Cybertruck Concepts Unveiled: The Making of a Sci-Fi Reality",
-      "body": "Original Tesla Cybertruck Concepts Unveiled: The Making of a Sci-Fi Reality Not a Tesla App",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.notateslaapp.com/news/1523/original-tesla-cybertruck-vehicle-concepts-unveiled-the-making-of-a-sci-fi-reality"
     },
     {
       "category": "product",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-folding-supercharger-europe/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "52d ago",
+      "pubDate": "2026-04-23T23:11:52.000Z",
+      "title": "Tesla claims boost Giga Berlin production 20%, but numbers don’t add up",
+      "body": "Tesla lists Giga Berlin’s Model Y production capacity at more than 375,000 units per year — roughly 93,000 per quarter. The plant manager just celebrated a “record” Q1 2026 of 61,000 units and announced a 20% production …",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/04/23/tesla-giga-berlin-production-increase-still-below-capacity/"
     }
   ]
 }
