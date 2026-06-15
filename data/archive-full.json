@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-15 17:00 UTC · 누적 328건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-15 18:42 UTC · 누적 329건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "32m ago",
+      "pubDate": "2026-06-15T16:38:02.000Z",
+      "title": "사이버캡 공식 제원 최초 공개 — EPA 인증 서류에 <em>219HP·48kWh 확정</em>",
+      "hotShort": "사이버캡 EPA 인증, <em>공식 제원 첫 공개</em> — 219HP·48kWh",
+      "body": "테슬라 사이버캡의 기술 제원이 미국 EPA 인증 서류를 통해 처음으로 공식 확정됐다 — 공차중량 3,113파운드(약 1,412kg), 모터 출력 219HP, 배터리 용량 48kWh가 명시돼 미국 내 로보택시 상용화를 위한 연방 인증 절차가 실질 단계에 진입했음이 확인됐다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-cybercab-epa-specs-2026-06-15",
+      "summary": "Electrek가 입수한 미국 EPA 인증 신청 서류에 따르면, 테슬라 사이버캡(Cybercab)의 기술 제원이 외부에 최초로 공개됐다. EPA 차량 인증 신청은 미국 공도 주행을 위한 연방 법적 요건으로, 이 절차를 밟고 있다는 자체가 사이버캡이 실제 상용화를 향한 규제 심사 단계에 진입했음을 의미한다.\n\n공개된 제원을 보면, 공차중량은 3,113파운드(약 1,412kg)로 현행 모델3(약 3,800파운드)보다 가볍고, 배터리는 48kWh로 테슬라 현행 승용 라인업 대비 소용량이다. 219HP 모터와 조합된 이 설계는 도심형 무인 로보택시 운행에 최적화된 경량·소형 플랫폼임을 시사한다. 배터리 용량이 작을수록 차량 원가가 낮아지고 충전 회전율이 높아져 로보택시 경제성에 유리하게 작용한다.\n\nElectrek는 이번 서류가 '기존에 알려진 일부 주장을 확인해 준다'고 밝혔는데, 이는 이전 유출·발표된 스펙 정보가 공식 수치와 대체로 일치함을 뜻한다. 테슬라 주주 관점에서 EPA 인증 신청의 핵심 의미는 사이버캡이 '계획 단계'를 넘어 미국 연방 규제 심사를 실제로 이행 중이라는 구체적 진전 신호다 — 로보택시 상용화 타임라인의 불확실성을 한 단계 낮추는 지표다.",
+      "title_en": "Tesla Cybercab <em>full specs confirmed</em> via EPA filing — 3,113 lbs, 219 HP, 48 kWh",
+      "hotShort_en": "Cybercab <em>specs confirmed</em> via EPA — 219 HP, 48 kWh",
+      "body_en": "Tesla's Cybercab robotaxi has had its full technical specifications confirmed for the first time through EPA certification documents, as reported by Electrek — a 3,113-lb curb weight, 219 HP motor, and 48 kWh battery pack — signaling that Tesla's federal regulatory approval process for the robotaxi is actively underway.",
+      "summary_en": "Tesla's EPA certification application for the Cybercab, obtained and reported by Electrek, publicly discloses the robotaxi's full technical specifications for the first time. EPA vehicle certification is a mandatory federal requirement for legal road operation in the United States — the fact that Tesla has filed for this certification signals that the Cybercab is progressing through formal regulatory approval rather than remaining at a pre-commercial planning stage.\n\nThe specs confirmed in the filing: a 3,113-lb curb weight, a 219 HP motor, and a 48 kWh battery pack. At 3,113 lbs, the Cybercab is significantly lighter than the Model 3 (approximately 3,800 lbs), reflecting a purpose-built design for autonomous urban operation. The 48 kWh pack is notably smaller than Tesla's current passenger lineup — a deliberate design choice that prioritizes lower vehicle cost and faster charging turnover for fleet-operated robotaxi economics over maximum range.\n\nElectrek notes that the filing 'confirms several claims,' indicating the disclosed specs broadly align with previously reported leaks and estimates — reducing uncertainty about the Cybercab's fundamental technical architecture.\n\nFor Tesla investors, the EPA certification filing is a concrete milestone. It confirms the Cybercab is real and physically specified, and that Tesla is executing the legally mandatory steps needed before any U.S. commercial deployment. While an EPA filing does not itself announce a launch date, it marks a meaningful shift from 'planned product' to 'product under federal review' — a data point that supports the robotaxi commercialization thesis.",
+      "href": "https://electrek.co/2026/06/15/tesla-cybercab-epa-specs-curb-weight-battery-motor-power/",
+      "sentiment": "bull",
+      "hot": 8
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
