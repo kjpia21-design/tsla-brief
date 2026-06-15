@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-15 18:42 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-15 19:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "16m ago",
+      "pubDate": "2026-06-15T18:44:51.000Z",
+      "title": "Tesla Cybercab specs revealed: range, curb weight, range ratings, and more",
+      "body": "Tesla’s Cybercab has taken a significant step toward production with new technical details emerging from 2026 EPA certification documents. The filings, which include a Certificate of Conformity issued in late May, provid…",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-cybercab-specs-revealed-range-curb-weight-range-rating/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "36m ago",
+      "pubDate": "2026-06-15T18:23:54.000Z",
+      "title": "Let there be light bar Off-Road Light Bar back on Tesla Shop",
+      "body": "Let there be light bar Off-Road Light Bar back on Tesla Shop https://t.co/bTFL7O81hk",
+      "sourceName": "Cybertruck (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/cybertruck/status/2066587519215698055"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "21m ago",
+      "time": "38m ago",
       "pubDate": "2026-06-15T18:22:15.000Z",
       "title": "SpaceX Said to Allocate $600 Million to European Retail in Blockbuster IPO",
       "body": "SpaceX Said to Allocate $600 Million to European Retail in Blockbuster IPO Bloomberg.com",
@@ -17,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "39m ago",
+      "time": "56m ago",
       "pubDate": "2026-06-15T18:03:54.000Z",
       "title": "SpaceX set to extend rally after record Wall Street debut",
       "body": "SpaceX set to extend rally after record Wall Street debut Reuters",
@@ -26,6 +52,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/media-telecom/spacex-set-extend-rally-after-record-wall-street-ipo-2026-06-15/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-15T17:51:26.000Z",
+      "title": "Precious and Industrial Metals",
+      "body": "Precious and Industrial Metals Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/markets/commodities/futures/metals/pt"
     },
     {
       "category": "musk",
@@ -69,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-15T17:22:15.000Z",
       "title": "Halftime Report: Stocks, Investing News and Market Analysis",
       "body": "Halftime Report: Stocks, Investing News and Market Analysis CNBC",
@@ -82,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-15T17:19:20.000Z",
       "title": "Tesla Cybercab snags huge regulatory green light that readies it for public roads",
       "body": "Tesla Cybercab, the all-electric ride-hailing-geared vehicle void of a steering wheel and pedals, has achieved a significant regulatory milestone. The vehicle has officially secured an EPA Certificate of Conformity for t…",
@@ -134,7 +173,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-15T16:26:03.000Z",
       "title": "Options Action: Options Trading Strategies & Market Trades",
       "body": "Options Action: Options Trading Strategies & Market Trades CNBC",
@@ -143,32 +182,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/options-action/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-06-15T15:55:02.000Z",
-      "title": "The Parents Having Kids After 40",
-      "body": "The Parents Having Kids After 40 WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/articles/the-parents-having-kids-after-40-e34d916b"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-15T15:44:08.000Z",
-      "title": "Tesla (TSLA) Stock Gains 1.5% on U.S.-Iran Peace Deal, Not EV Demand",
-      "body": "Tesla (TSLA) Stock Gains 1.5% on U.S.-Iran Peace Deal, Not EV Demand MEXC",
-      "sourceName": "MEXC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.mexc.com/news/1147241"
     },
     {
       "category": "stock",
@@ -186,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-15T12:22:12.000Z",
       "title": "Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators",
       "body": "Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators Reuters",
@@ -210,22 +223,9 @@
       "href": "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
-      "pubDate": "2026-06-15T10:40:23.000Z",
-      "title": "Crypto Token’s 50% Wipeout Shows Scale of AI-Hacking Threat",
-      "body": "Crypto Token’s 50% Wipeout Shows Scale of AI-Hacking Threat Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-15T09:15:15.000Z",
       "title": "How Sand Became Golf’s Most Valuable Amenity",
       "body": "How Sand Became Golf’s Most Valuable Amenity Bloomberg.com",
