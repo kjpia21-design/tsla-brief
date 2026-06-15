@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
+      "pubDate": "2026-06-15T11:32:00.000Z",
+      "title": "배런스 \"미·이란 딜 여파로 테슬라 <em>주가 상승 모멘텀</em>\" — 지정학 완화 수혜",
+      "hotShort": "미·이란 딜 호재, 테슬라에 <em>주가 모멘텀</em> — 배런스",
+      "body": "배런스가 미·이란 협상 타결 기대를 배경으로 테슬라 주가가 상승 압력을 받고 있다고 보도했다 — 지정학적 긴장 완화 흐름이 위험자산 선호 개선과 함께 TSLA에 우호적인 투자 환경을 조성하고 있다는 분석이다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-iran-deal-bump-2026-06-15",
+      "summary": "배런스가 6월 15일 \"Tesla Stock Is Getting a U.S.-Iran Deal Bump\"를 보도하며, 미·이란 외교 협상 타결 기대감이 테슬라 주가 상승에 직접 기여하고 있다고 분석했다. 지정학적 긴장 완화 이벤트는 글로벌 증시 전반의 위험자산 선호 심리를 높이는 경향이 있으며, 이것이 테슬라와 같은 성장주에 단기 모멘텀을 제공하는 배경이 됐다.\n\n이란은 세계 주요 산유국 중 하나다. 미·이란 협상 진전 기대는 에너지 시장 안정화 기대로 이어져 글로벌 불확실성을 낮추는 효과를 낸다. 배런스가 이 사건을 테슬라 주가와 직접 연결 지어 분석했다는 점에서, EV 업종에도 우호적인 거시 환경 개선 효과가 있다는 시각이 반영됐다.\n\n테슬라 주주 입장에서 주목할 점은 이번 주가 움직임이 테슬라 고유의 실적·제품 재료가 아닌 거시경제·지정학 변수에서 비롯됐다는 것이다. 단기 \"딜 모멘텀\"이 지속되려면 협상이 실제 구체적 경제 효과로 이어지는지가 관건이며, FSD·로보택시 등 테슬라 자체 성장 재료와 함께 모멘텀이 이어질 경우 더 강한 주가 탄력이 기대된다.",
+      "title_en": "Barron's: Tesla stock <em>gets a bump</em> from the U.S.-Iran deal",
+      "hotShort_en": "Tesla scores a <em>U.S.-Iran deal tailwind</em> — Barron's",
+      "body_en": "Barron's reports that Tesla stock is getting a boost from a U.S.-Iran deal — the prospect of geopolitical risk reduction is improving the macro backdrop for risk assets and providing near-term upside momentum for TSLA.",
+      "summary_en": "Barron's flagged the U.S.-Iran diplomatic deal as a direct tailwind for Tesla's stock price on June 15, in a piece headlined 'Tesla Stock Is Getting a U.S.-Iran Deal Bump.' Geopolitical risk-off events typically improve risk-asset appetite across global markets — providing a macro tailwind that can lift growth stocks like Tesla even absent company-specific catalysts.\n\nIran is one of the world's significant oil-producing nations, and any progress toward a U.S.-Iran agreement tends to reduce energy market uncertainty. Barron's connecting this event directly to Tesla's stock performance suggests a view that geopolitical de-escalation creates a broadly supportive environment for EV equities — whether through energy cost dynamics, improved global trade sentiment, or simply a broader shift to risk-on positioning.\n\nFor Tesla shareholders, the key takeaway is that this positive move is being driven by macro and geopolitical factors rather than Tesla-specific fundamentals. Whether the momentum sustains depends on whether diplomatic progress translates into tangible economic outcomes — and whether Tesla's own catalysts (FSD expansion, Cybercab timelines, earnings) continue to reinforce the bull thesis alongside this geopolitical tailwind.",
+      "href": "https://www.barrons.com/articles/tesla-stock-iran-deal-ev-940b6ffb",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -2004,5 +2024,5 @@
       "summary_en": "Tesla's Supercharger official X account announced a new 12-stall Supercharger in the Dörtyol area of Afyonkarahisar, Türkiye — part of Tesla's charging-infrastructure expansion across the Europe, Middle East and Africa (EMEA) region.\n\nAfyonkarahisar is a transport hub in central Anatolia, and the opening helps reduce charging gaps for Tesla owners on long inland journeys across Türkiye. Tesla's Supercharger network is a proprietary network rated among the world's best for reliability and speed.\n\nSupercharger expansion is one long-term growth metric from a shareholder view. The more Superchargers worldwide, the greater the purchase convenience of Tesla vehicles, and the value of the infrastructure asset — convertible into a separate revenue stream by opening to other brands — grows too."
     }
   ],
-  "asOf": "2026-06-15 22:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-16 00:15 KST 자동 갱신 · 최신순"
 }
