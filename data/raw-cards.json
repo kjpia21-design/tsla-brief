@@ -1,37 +1,24 @@
 {
-  "asOf": "2026-06-16 05:06 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-16 07:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "13m ago",
-      "pubDate": "2026-06-16T04:53:36.000Z",
-      "title": "Elon Musk Becomes World’s First Trillionaire on SpaceX’s First Day of Trading",
-      "body": "Elon Musk Becomes World’s First Trillionaire on SpaceX’s First Day of Trading The New York Times",
-      "sourceName": "The New York Times",
+      "time": "2m ago",
+      "pubDate": "2026-06-16T06:58:04.000Z",
+      "title": "SpaceX IPO makes Elon Musk the world's first trillionaire",
+      "body": "SpaceX IPO makes Elon Musk the world's first trillionaire Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-16T03:26:13.000Z",
-      "title": "Tesla Cybercab looks amazing in gloss",
-      "body": "Tesla Cybercab looks amazing in gloss https://t.co/up4RhR6iLp",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2066723996117402001"
+      "href": "https://www.reuters.com/business/media-telecom/spacex-ipo-makes-elon-musk-worlds-first-trillionaire-2026-06-11/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-16T03:13:12.000Z",
+      "time": "47m ago",
+      "pubDate": "2026-06-16T06:13:12.000Z",
       "title": "Iran US Memorandum: Trump Talks Big About a Very Small Peace Deal",
       "body": "Iran US Memorandum: Trump Talks Big About a Very Small Peace Deal Bloomberg.com",
       "sourceName": "Bloomberg.com",
@@ -43,7 +30,33 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-16T05:59:59.000Z",
+      "title": "Elon Musk Becomes World’s First Trillionaire on SpaceX’s First Day of Trading",
+      "body": "Elon Musk Becomes World’s First Trillionaire on SpaceX’s First Day of Trading The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
+      "pubDate": "2026-06-16T05:07:39.000Z",
+      "title": "Check out Qualcomm's stock price (QCOM) in real time",
+      "body": "Check out Qualcomm's stock price (QCOM) in real time CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/quotes/QCOM"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
       "pubDate": "2026-06-16T02:48:45.000Z",
       "title": "SpaceX News",
       "body": "SpaceX News Barron's",
@@ -56,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-16T01:49:23.000Z",
       "title": "NASA",
       "body": "NASA WSJ",
@@ -67,22 +80,9 @@
       "href": "https://www.wsj.com/topics/subject/nasa?page"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-16T00:48:22.000Z",
-      "title": "Britain announces sweeping social media ban for under-16s",
-      "body": "Britain announces sweeping social media ban for under-16s Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/video/watch/idRW906315062026RP1/"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-16T00:41:15.000Z",
       "title": "Look forward to discussing tech stocks and the AI Revolution on @BloombergTV at 6:30 am with @lisaabramowicz1 @annmar…",
       "body": "Look forward to discussing tech stocks and the AI Revolution on @BloombergTV at 6:30 am with @lisaabramowicz1 @annmarie @FerroTV @business 🏆🔥📺🍿🎯🐂",
@@ -95,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-16T00:03:00.000Z",
       "title": "GM in talks to supply weapons parts to Lockheed Martin, WSJ reports",
       "body": "GM in talks to supply weapons parts to Lockheed Martin, WSJ reports Reuters",
@@ -108,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-16T00:03:00.000Z",
       "title": "GM in talks to supply weapons parts to Lockheed Martin, WSJ reports",
       "body": "GM in talks to supply weapons parts to Lockheed Martin, WSJ reports Reuters",
@@ -121,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-15T23:00:01.000Z",
       "title": "CNBC's The China Connection newsletter: Waiting for AI to lift the whole market",
       "body": "CNBC's The China Connection newsletter: Waiting for AI to lift the whole market CNBC",
@@ -134,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-15T21:16:46.000Z",
       "title": "Qualcomm in talks to buy Tenstorrent, The Information reports",
       "body": "Qualcomm in talks to buy Tenstorrent, The Information reports Reuters",
@@ -147,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-15T21:16:46.000Z",
       "title": "Qualcomm in talks to buy Tenstorrent, The Information reports",
       "body": "Qualcomm in talks to buy Tenstorrent, The Information reports Reuters",
@@ -158,9 +158,22 @@
       "href": "https://www.reuters.com/technology/qualcomm-talks-buy-tenstorrent-information-reports-2026-06-15/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "10h ago",
+      "pubDate": "2026-06-15T20:53:09.000Z",
+      "title": "Not sure who needs to hear this but your Tesla can parallel park for you",
+      "body": "Not sure who needs to hear this but your Tesla can parallel park for you",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/Tesla/status/2066625079824494908"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-15T20:39:00.000Z",
       "title": "Tesla Stock Is Getting a U.S.-Iran Deal Bump",
       "body": "Tesla Stock Is Getting a U.S.-Iran Deal Bump Barron's",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-15T19:19:45.000Z",
       "title": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models",
       "body": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models Reuters",
@@ -186,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-15T19:19:45.000Z",
       "title": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models",
       "body": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models Reuters",
@@ -197,22 +210,9 @@
       "href": "https://www.reuters.com/business/autos-transportation/us-connected-car-rule-prompts-ford-other-automakers-seek-licenses-china-built-2026-06-15/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-15T18:10:00.000Z",
-      "title": "Photo highlights from the G7 Summit of world leaders",
-      "body": "Photo highlights from the G7 Summit of world leaders AP News",
-      "sourceName": "AP News",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://apnews.com/photo-gallery/france-g7-summit-trump-europe-0ec0af753f86059541cd109f1ae2b908"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-15T17:51:26.000Z",
       "title": "Precious and Industrial Metals",
       "body": "Precious and Industrial Metals Bloomberg.com",
@@ -225,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-15T12:22:12.000Z",
       "title": "Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators",
       "body": "Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators Reuters",
@@ -236,17 +236,17 @@
       "href": "https://www.reuters.com/world/tesla-presented-misleading-full-self-driving-safety-data-european-regulators-2026-06-15/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
-      "pubDate": "2026-06-15T04:37:32.000Z",
-      "title": "Aerospace Industry",
-      "body": "Aerospace Industry WSJ",
-      "sourceName": "WSJ",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "20h ago",
+      "pubDate": "2026-06-15T10:40:23.000Z",
+      "title": "Crypto Token’s 50% Wipeout Shows Scale of AI-Hacking Threat",
+      "body": "Crypto Token’s 50% Wipeout Shows Scale of AI-Hacking Threat Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/topics/industry/aerospace-industry"
+      "href": "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat"
     },
     {
       "category": "stock",
