@@ -1,11 +1,102 @@
 {
-  "asOf": "2026-06-16 11:23 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-16 13:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "7m ago",
+      "pubDate": "2026-06-16T12:53:22.000Z",
+      "title": "We're buying more of a tech stock with a bright long-term future",
+      "body": "We're buying more of a tech stock with a bright long-term future CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/16/were-buying-more-of-a-tech-stock-with-a-bright-long-term-future-.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "13m ago",
+      "pubDate": "2026-06-16T12:47:14.000Z",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "body": "Jim Cramer's top 10 things to watch in the stock market Tuesday CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday-.html"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "12m ago",
-      "pubDate": "2026-06-16T11:11:24.000Z",
+      "time": "28m ago",
+      "pubDate": "2026-06-16T12:33:00.000Z",
+      "title": "SpaceX Agrees to Buy AI Coding Agent Cursor for $60 Billion",
+      "body": "SpaceX Agrees to Buy AI Coding Agent Cursor for $60 Billion WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/business/spacex-agrees-to-buy-ai-coding-agent-cursor-for-60-billion-7a473340"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "41m ago",
+      "pubDate": "2026-06-16T12:20:00.000Z",
+      "title": "Qualcomm Stock Rises Ahead of Fresh Target Catalyst",
+      "body": "Qualcomm Stock Rises Ahead of Fresh Target Catalyst Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/qualcomm-stock-price-target-catalyst-d878e040"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-16T11:54:52.000Z",
+      "title": "SpaceX set to vault past Amazon in market value as shares extend IPO surge",
+      "body": "SpaceX set to vault past Amazon in market value as shares extend IPO surge Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/transactional/spacex-set-surpass-amazons-market-cap-post-ipo-rally-continues-2026-06-16/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-16T11:35:24.000Z",
+      "title": "SpaceX options list on Tuesday. Here's what to watch",
+      "body": "SpaceX options list on Tuesday. Here's what to watch CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/16/spacex-options-list-on-tuesday-heres-what-to-watch-.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-16T11:31:01.000Z",
+      "title": "SpaceX Stock Set for More Than 50% Jump in Just Three Sessions",
+      "body": "SpaceX Stock Set for More Than 50% Jump in Just Three Sessions Bloomberg",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-16T11:20:09.000Z",
       "title": "Morning Bid: Central banks take the stage",
       "body": "Morning Bid: Central banks take the stage Reuters",
       "sourceName": "Reuters",
@@ -15,61 +106,22 @@
       "href": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-16/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "40m ago",
-      "pubDate": "2026-06-16T10:43:12.000Z",
-      "title": "Iran US Memorandum: Trump Talks Big About a Very Small Peace Deal",
-      "body": "Iran US Memorandum: Trump Talks Big About a Very Small Peace Deal Bloomberg",
-      "sourceName": "Bloomberg",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-16T11:15:01.000Z",
+      "title": "2026 America’s Top States for Business: How we are ranking all 50 U.S. states",
+      "body": "2026 America’s Top States for Business: How we are ranking all 50 U.S. states CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/opinion/newsletters/2026-06-15/iran-us-memorandum-trump-talks-big-about-a-very-small-peace-deal"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "54m ago",
-      "pubDate": "2026-06-16T10:28:51.000Z",
-      "title": "SpaceX IPO makes Elon Musk the world's first trillionaire",
-      "body": "SpaceX IPO makes Elon Musk the world's first trillionaire Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/media-telecom/spacex-ipo-makes-elon-musk-worlds-first-trillionaire-2026-06-11/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "57m ago",
-      "pubDate": "2026-06-16T10:25:49.000Z",
-      "title": "SpaceX shares extend blistering rally",
-      "body": "SpaceX shares extend blistering rally Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/17153f13-b0c8-4331-8f97-32a19a5e966e"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-16T10:13:00.000Z",
-      "title": "SpaceX Supplier STMicroelectronics Plans to Raise $1.5 Billion Through Bond Sale",
-      "body": "SpaceX Supplier STMicroelectronics Plans to Raise $1.5 Billion Through Bond Sale WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/finance/investing/spacex-supplier-stmicroelectronics-plans-to-raise-1-5-billion-through-bond-sale-9d53ab08"
+      "href": "https://www.cnbc.com/2026/06/16/2026-americas-top-states-business-rankings-methodology.html"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-16T10:12:00.000Z",
       "title": "Qualcomm Stock Shakes Off Smartphone, PC Fears as AI Chip Excitement Grows",
       "body": "Qualcomm Stock Shakes Off Smartphone, PC Fears as AI Chip Excitement Grows Barron's",
@@ -77,12 +129,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/qualcomm-stock-price-ai-chips-d878e040"
+      "href": "https://www.barrons.com/articles/qualcomm-stock-price-ai-chips-d878e040?mod"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-16T09:10:41.000Z",
       "title": "I’ve seen some posts about Cybercabs confused about why wheel covers are not installed when the cars are outside the …",
       "body": "I’ve seen some posts about Cybercabs confused about why wheel covers are not installed when the cars are outside the factory and in the outbound lot before transportation. The answer is very simple and not complicated. T…",
@@ -95,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-16T08:37:12.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg",
@@ -106,22 +158,9 @@
       "href": "https://www.bloomberg.com/profile/person/25499143"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-16T06:06:15.000Z",
-      "title": "Check out Taiwan Semiconductor Manufacturing Ltd's stock price (TSM) in real time",
-      "body": "Check out Taiwan Semiconductor Manufacturing Ltd's stock price (TSM) in real time CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/quotes/TSM"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-16T00:03:00.000Z",
       "title": "GM in talks to supply weapons parts to Lockheed Martin, WSJ reports",
       "body": "GM in talks to supply weapons parts to Lockheed Martin, WSJ reports Reuters",
@@ -134,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-16T00:03:00.000Z",
       "title": "GM in talks to supply weapons parts to Lockheed Martin, WSJ reports",
       "body": "GM in talks to supply weapons parts to Lockheed Martin, WSJ reports Reuters",
@@ -147,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-15T23:16:17.000Z",
       "title": "Global EV registrations rise 3% globally in May, BMI data shows",
       "body": "Global EV registrations rise 3% globally in May, BMI data shows Reuters",
@@ -160,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-15T23:16:17.000Z",
       "title": "Global EV registrations rise 3% globally in May, BMI data shows",
       "body": "Global EV registrations rise 3% globally in May, BMI data shows Reuters",
@@ -171,22 +210,9 @@
       "href": "https://www.reuters.com/business/autos-transportation/global-ev-registrations-rise-3-globally-may-bmi-data-shows-2026-06-15/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-06-15T23:09:38.000Z",
-      "title": "Artificial Intelligence - Latest AI News and Analysis",
-      "body": "Artificial Intelligence - Latest AI News and Analysis WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/tech/ai"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-15T21:16:46.000Z",
       "title": "Qualcomm in talks to buy Tenstorrent, The Information reports",
       "body": "Qualcomm in talks to buy Tenstorrent, The Information reports Reuters",
@@ -199,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-15T21:16:46.000Z",
       "title": "Qualcomm in talks to buy Tenstorrent, The Information reports",
       "body": "Qualcomm in talks to buy Tenstorrent, The Information reports Reuters",
@@ -212,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-15T20:12:00.000Z",
       "title": "The Great IPO Frenzy of 2026 - The Journal.",
       "body": "The Great IPO Frenzy of 2026 - The Journal. - WSJ Podcasts WSJ",
@@ -223,9 +249,9 @@
       "href": "https://www.wsj.com/podcasts/the-journal/the-great-ipo-frenzy-of-2026/11f93098-5cac-443b-bfff-60388e418ad1"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "18h ago",
       "pubDate": "2026-06-15T19:19:45.000Z",
       "title": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models",
       "body": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models Reuters",
@@ -234,32 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/autos-transportation/us-connected-car-rule-prompts-ford-other-automakers-seek-licenses-china-built-2026-06-15/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
-      "pubDate": "2026-06-15T17:51:26.000Z",
-      "title": "Precious and Industrial Metals",
-      "body": "Precious and Industrial Metals Bloomberg",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/markets/commodities/futures/metals/pt"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "21h ago",
-      "pubDate": "2026-06-15T14:41:35.000Z",
-      "title": "Check out Comcast Corp's stock price (CMCSA) in real time",
-      "body": "Check out Comcast Corp's stock price (CMCSA) in real time CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/quotes/CMCSA"
     }
   ]
 }
