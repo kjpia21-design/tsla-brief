@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-16T22:42:37.000Z",
+      "title": "테슬라, 뉴저지 차주에 <em>로보택시 차단 법안</em> 반대 촉구",
+      "hotShort": "테슬라, 뉴저지 <em>로보택시 차단 법안</em> 반대 나서",
+      "body": "테슬라가 뉴저지 차량 소유주들에게 로보택시 서비스를 사실상 금지할 수 있는 주의회 신규 법안에 반대해 달라고 직접 촉구했다 — 주(州) 수준 규제가 사이버캡 전국 확대의 핵심 변수로 부상한다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-nj-robotaxi-bill-oppose-2026-06-16",
+      "summary": "뉴저지주 의회에 로보택시 서비스를 차단할 수 있는 신규 법안이 제출됐다. 뉴저지는 뉴욕 대도시권과 인접한 미국 북동부의 인구 밀집 주로, 이 지역의 입법 결과가 테슬라 로보택시의 동부 해안 확대 전략에 선례를 남길 수 있다.\n\n테슬라는 자사 뉴저지 차량 소유주들에게 해당 법안에 반대해 달라는 캠페인에 직접 나섰다. 기업이 고객 기반을 동원해 특정 주(州) 의회 입법에 개입하는 행보는 이례적이며, 테슬라가 로보택시 상용화 확대를 위한 규제 장벽 제거에 얼마나 적극적인지를 보여준다.\n\n테슬라는 로보택시 서비스 상용화를 추진 중이다. 주 단위 차단 입법이 확산되면 광역 로보택시 서비스 구축이 구조적으로 지연될 수 있어, 주주들이 주목하는 규제 리스크다. 이번 뉴저지 사례는 향후 타 주의 유사 입법 움직임에 대한 선행 지표로도 해석될 수 있다.",
+      "title_en": "Tesla mobilizes New Jersey owners to <em>oppose bill that could block Robotaxi</em>",
+      "hotShort_en": "Tesla fights NJ's <em>Robotaxi ban bill</em>",
+      "body_en": "Tesla has directly urged New Jersey vehicle owners to oppose a new state legislature bill that could effectively ban Robotaxi operations in the state — a sign that state-level regulation is emerging as a critical variable in the Cybercab's path to a nationwide commercial rollout.",
+      "summary_en": "A new bill introduced in the New Jersey state legislature would impose restrictions that could effectively ban Robotaxi services in the state. New Jersey sits adjacent to the New York City metro area and represents one of the most densely populated markets in the U.S. Northeast — making its regulatory outcome a potential bellwether for Tesla's East Coast Robotaxi expansion strategy.\n\nTesla responded by directly urging its New Jersey vehicle owners to oppose the legislation — an unusual step for a company to mobilize its customer base to influence specific state-level lawmaking. The move signals how seriously Tesla views regulatory headwinds as an obstacle to its autonomous ride-hailing commercialization.\n\nTesla is pursuing the commercial expansion of Robotaxi services. If similar blocking legislation were to spread to other states, it could structurally delay Tesla's ability to build a profitable, large-scale autonomous transport network — a regulatory risk shareholders are watching closely. This New Jersey case may also serve as an early indicator of how similar legislative movements could emerge in other key markets.",
+      "href": "https://www.teslarati.com/tesla-urges-new-jersey-owners-to-oppose-new-bill-block-robotaxi/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -2073,27 +2093,7 @@
       "hotShort_en": "Dutch roads: FSD <em>3.5× fewer crashes</em> than humans",
       "body_en": "Dutch real-world driving data showed Tesla's FSD unsupervised mode had 3.5× fewer crashes than human drivers — 16.6M km crash-free on highways (3.4× safer), 3 crashes in 7M km off-highway (vs 109 for humans, 1.6× safer) — concrete real-world safety evidence for EU FSD approval talks.",
       "summary_en": "Per Dutch real-world driving data shared by the Tesla Owners SV account, Tesla's FSD unsupervised mode had 3.5× fewer total crashes than human drivers. Specifically: ▶ highways — 0 crashes in 16.6M km of FSD vs 33 for human driving (3.4× safer); ▶ off-highway — 3 crashes in 7M km of FSD vs 109 for humans (1.6× safer).\n\n16.6M km crash-free on highways is powerful real-world evidence for autonomous safety. The 1.6× gap off-highway reflects the difficulty of complex urban intersections and pedestrian environments, yet the conclusion that it remains safer than humans holds.\n\nTesla FSD is in commercial service in the US, but EU regulatory approval is still pending. With an FSD approval vote reportedly omitted from the June 30 EU meeting agenda, such real-world safety figures could become a key argument Tesla brings to future European regulatory talks.\n\nNote, however, that this data was shared by the Tesla Owners SV community account; further official confirmation of the source research body and methodology is recommended."
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-06-09T04:52:20.000Z",
-      "title": "테슬라 FSD 안전 데이터, <em>3배 향상</em> 수치 확인",
-      "hotShort": "테슬라 FSD 안전 데이터 <em>3배 향상</em> 확인",
-      "body": "테슬라 FSD 안전 데이터에서 3배 향상 수치가 확인됐다 — FSD 안전성 지표 개선은 비지도 자율주행 확대와 로보택시 상용화를 위한 규제 승인의 핵심 근거로 부상한다.",
-      "sourceName": "blockchain.news",
-      "sourceLabel": "press",
-      "slug": "fsd-safety-data-3x-gains-2026-06-09",
-      "summary": "테슬라 FSD(완전자율주행) 안전 데이터가 3배 향상된 수치를 기록했다는 보고가 나왔다. FSD 안전 지표의 3배 개선은 자율주행의 신뢰성과 안전성을 수치로 입증하는 근거로, 비지도 운행 확대와 로보택시 상용화를 위한 규제 승인 경로를 직접적으로 뒷받침한다.\n\n테슬라는 현재 텍사스 오스틴에서 비지도(Unsupervised) 로보택시 서비스를 운영 중이며, 안전 데이터 누적은 NHTSA 등 규제기관과의 협의 및 타 도시 확장 허가 절차에서 핵심 지표로 활용된다. 구체적인 측정 기준과 비교 기준은 원문에서 확인할 수 있다.\n\nFSD 안전성 지표의 꾸준한 향상은 테슬라가 자율주행 상용화의 기술적 문턱을 낮추고 있다는 증거다. 주주 관점에서 이는 로보택시 네트워크 확장 속도와 FSD 라이선스 사업의 장기 수익성을 가늠하는 데 중요한 참고 지표다.",
-      "href": "https://blockchain.news/ainews/tesla-fsd-safety-data-shows-3x-gains",
-      "sentiment": "bull",
-      "hot": 6,
-      "title_en": "Tesla FSD safety data confirms <em>3× improvement</em>",
-      "hotShort_en": "Tesla FSD safety data <em>3× improvement</em> confirmed",
-      "body_en": "A 3× improvement was confirmed in Tesla's FSD safety data — improving FSD safety metrics is emerging as a key basis for the regulatory approval needed to expand unsupervised autonomy and commercialize robotaxis.",
-      "summary_en": "A report says Tesla's FSD safety data logged a 3× improvement. A 3× gain in FSD safety metrics is evidence proving autonomy's reliability and safety in numbers, directly supporting the regulatory-approval path for expanded unsupervised operation and robotaxi commercialization.\n\nTesla currently runs an unsupervised robotaxi service in Austin, Texas, and accumulating safety data is a key metric in talks with regulators like NHTSA and in permitting for expansion to other cities. The specific measurement and comparison bases can be confirmed in the original.\n\nSteady improvement in FSD safety metrics is evidence Tesla is lowering the technical bar to autonomy commercialization. For shareholders, this is an important reference for gauging the pace of robotaxi-network expansion and the long-term profitability of the FSD licensing business."
     }
   ],
-  "asOf": "2026-06-17 05:55 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-17 08:00 KST 자동 갱신 · 최신순"
 }

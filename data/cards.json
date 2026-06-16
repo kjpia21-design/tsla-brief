@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-16T22:42:37.000Z",
+      "title": "테슬라, 뉴저지 차주에 <em>로보택시 차단 법안</em> 반대 촉구",
+      "hotShort": "테슬라, 뉴저지 <em>로보택시 차단 법안</em> 반대 나서",
+      "body": "테슬라가 뉴저지 차량 소유주들에게 로보택시 서비스를 사실상 금지할 수 있는 주의회 신규 법안에 반대해 달라고 직접 촉구했다 — 주(州) 수준 규제가 사이버캡 전국 확대의 핵심 변수로 부상한다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-nj-robotaxi-bill-oppose-2026-06-16",
+      "summary": "뉴저지주 의회에 로보택시 서비스를 차단할 수 있는 신규 법안이 제출됐다. 뉴저지는 뉴욕 대도시권과 인접한 미국 북동부의 인구 밀집 주로, 이 지역의 입법 결과가 테슬라 로보택시의 동부 해안 확대 전략에 선례를 남길 수 있다.\n\n테슬라는 자사 뉴저지 차량 소유주들에게 해당 법안에 반대해 달라는 캠페인에 직접 나섰다. 기업이 고객 기반을 동원해 특정 주(州) 의회 입법에 개입하는 행보는 이례적이며, 테슬라가 로보택시 상용화 확대를 위한 규제 장벽 제거에 얼마나 적극적인지를 보여준다.\n\n테슬라는 로보택시 서비스 상용화를 추진 중이다. 주 단위 차단 입법이 확산되면 광역 로보택시 서비스 구축이 구조적으로 지연될 수 있어, 주주들이 주목하는 규제 리스크다. 이번 뉴저지 사례는 향후 타 주의 유사 입법 움직임에 대한 선행 지표로도 해석될 수 있다.",
+      "title_en": "Tesla mobilizes New Jersey owners to <em>oppose bill that could block Robotaxi</em>",
+      "hotShort_en": "Tesla fights NJ's <em>Robotaxi ban bill</em>",
+      "body_en": "Tesla has directly urged New Jersey vehicle owners to oppose a new state legislature bill that could effectively ban Robotaxi operations in the state — a sign that state-level regulation is emerging as a critical variable in the Cybercab's path to a nationwide commercial rollout.",
+      "summary_en": "A new bill introduced in the New Jersey state legislature would impose restrictions that could effectively ban Robotaxi services in the state. New Jersey sits adjacent to the New York City metro area and represents one of the most densely populated markets in the U.S. Northeast — making its regulatory outcome a potential bellwether for Tesla's East Coast Robotaxi expansion strategy.\n\nTesla responded by directly urging its New Jersey vehicle owners to oppose the legislation — an unusual step for a company to mobilize its customer base to influence specific state-level lawmaking. The move signals how seriously Tesla views regulatory headwinds as an obstacle to its autonomous ride-hailing commercialization.\n\nTesla is pursuing the commercial expansion of Robotaxi services. If similar blocking legislation were to spread to other states, it could structurally delay Tesla's ability to build a profitable, large-scale autonomous transport network — a regulatory risk shareholders are watching closely. This New Jersey case may also serve as an early indicator of how similar legislative movements could emerge in other key markets.",
+      "href": "https://www.teslarati.com/tesla-urges-new-jersey-owners-to-oppose-new-bill-block-robotaxi/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -27,26 +47,6 @@
       "hot": 6
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-06-16T16:31:08.000Z",
-      "title": "네덜란드 교통장관, 테슬라 FSD <em>유럽 승인 결정 옹호</em> — 로이터",
-      "hotShort": "네덜란드 교통장관, 테슬라 FSD <em>승인 공개 옹호</em>",
-      "body": "네덜란드 교통장관이 테슬라 FSD에 대한 자국의 승인 결정을 공개적으로 옹호했다고 로이터가 보도했다 — 지난주 로이터의 '테슬라가 유럽 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다'는 조사 보도 이후, 미국 의회의 검토 요청과 대비되는 유럽 현지 입장으로 FSD 규제 반응이 양안에서 엇갈리고 있다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "fsd-dutch-minister-defends-fsd-approval-2026-06-16",
-      "summary": "네덜란드 교통부 장관이 테슬라 FSD에 대한 자국의 승인 결정을 공개 옹호했다고 로이터가 보도했다. 이는 로이터가 지난주 게재한 조사 기사 — 테슬라가 유럽 자동차 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다는 내용 — 이후 나온 유럽 측 공식 반응이다.\n\n같은 날 미국에서는 복수의 의원이 동일 로이터 보도를 인용해 테슬라 FSD 안전 데이터의 공식 검토를 연방 기관에 요청했다. 양안에서 같은 보도에 대한 공식 대응이 정반대 방향으로 갈린 셈이다 — 미국 의회는 연방 기관의 실사를 요구하는 반면, 유럽 측 당사자 중 하나인 네덜란드 교통장관은 자국의 승인 판단을 재확인했다.\n\n테슬라 FSD의 유럽 시장 승인은 각 회원국이 EU 자동차 형식 승인 체계(UNECE/WP.29)에 따라 개별 심사를 거쳐 부여하는 구조다. 네덜란드 교통장관의 공개 옹호는 자국 규제 당국이 현재까지의 데이터와 심사 과정에 기반한 FSD 승인 결정을 여전히 유효하다고 본다는 신호다.\n\n테슬라 주주 관점에서, 유럽 내 규제 대응이 단일하지 않다는 것은 대서양 양안의 규제 리스크를 균형 있게 볼 이유다. 미국 의회의 검토 요청이 NHTSA 등 연방 기관의 실사로 이어질 가능성은 여전하지만, 일부 유럽 규제기관이 FSD 승인을 공개 옹호하는 국면에서 유럽 FSD 확장 경로가 단기에 전면 차단될 가능성은 낮아진다. 향후 어느 쪽 방향이 주도적 규제 흐름을 형성할지가 FSD 국제 타임라인의 핵심 변수다.",
-      "title_en": "Dutch transport minister <em>defends Tesla FSD</em> approval — Reuters",
-      "hotShort_en": "Dutch minister publicly <em>backs Tesla FSD</em> approval",
-      "body_en": "The Netherlands' transportation minister has publicly defended the country's decision to approve Tesla Full Self-Driving, Reuters reports — a contrasting official response to the same Reuters investigation that prompted multiple U.S. senators to request a formal federal review of Tesla's FSD safety data on the same day, with regulatory reactions diverging sharply on either side of the Atlantic.",
-      "summary_en": "The Netherlands' transportation minister publicly backed the country's approval of Tesla Full Self-Driving, according to Reuters. The statement comes in the context of Reuters' exclusive investigation published last week, which alleged that Tesla submitted misleading FSD safety data to European automotive regulatory authorities — an investigation that has prompted very different official responses on either side of the Atlantic.\n\nOn the same day the Dutch minister defended the approval, multiple U.S. senators cited that same Reuters report to formally request a review of Tesla's FSD safety records by U.S. federal agencies. The divergence is notable: American legislators are pushing for federal-level scrutiny, while at least one European regulatory party — the Netherlands, where FSD has been approved for use — is publicly reaffirming its approval decision.\n\nTesla FSD's European market entry is structured through each EU member state's vehicle type-approval process under the UNECE/WP.29 framework, with each jurisdiction conducting its own safety assessment. The Dutch minister's public defense signals that the Netherlands' regulatory authority remains confident in the basis of its FSD approval, even as the Reuters controversy has placed European FSD approvals under broader scrutiny.\n\nFor Tesla shareholders, the divergence in regulatory responses reduces the near-term risk of a rapid, coordinated European regulatory reversal on FSD approvals. While U.S. legislative pressure continues to build, the fact that a European regulatory party is publicly defending FSD approval suggests that FSD's commercial pathway in Europe has not been uniformly disrupted by the Reuters investigation. The key variable going forward is whether other European regulators align with the Dutch position or move toward a more critical posture — a dynamic that will directly shape Tesla FSD's international timeline.",
-      "href": "https://www.reuters.com/business/dutch-transportation-minister-defends-tesla-fsd-approval-2026-06-16/",
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "5h ago",
@@ -65,26 +65,6 @@
       "href": "https://www.reuters.com/business/energy/argentinas-ypf-tesla-explore-ev-charging-energy-storage-collaboration-2026-06-16/",
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-06-16T15:50:59.000Z",
-      "title": "애플, 테슬라 <em>카플레이 구현 핵심 모듈</em> 개발 중 — 보도",
-      "hotShort": "애플, 테슬라 <em>카플레이</em> 지원 위한 모듈 개발 착수",
-      "body": "테슬라에 애플 카플레이를 구현하는 데 필요한 '핵심 연결 고리'를 애플이 개발 중이라고 테슬라라티가 새 보고서를 인용해 보도했다 — 양사가 이미 상당 기간 협력해온 것으로 알려지며, 이번 개발이 완료되면 테슬라 오너들이 처음으로 아이폰과의 완전한 카플레이 통합을 경험할 수 있을 전망이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-apple-carplay-tesla-2026-06-16",
-      "summary": "테슬라는 자체 개발한 인포테인먼트 시스템을 고수하며 지금까지 애플 카플레이나 안드로이드 오토를 공식 지원하지 않았다. 이는 포드·GM·BMW 등 대부분의 경쟁 차량이 카플레이를 기본 제공하는 것과 대조적이며, 아이폰 사용자 사이에서 오랫동안 자주 거론되던 테슬라의 UX 공백이었다.\n\n새 보고서에 따르면 애플이 테슬라의 시스템에 카플레이를 통합하는 데 필요한 핵심 모듈을 개발 중이며, 테슬라라티는 두 회사가 이미 상당 기간 협력해온 것으로 알려졌다고 보도했다. '핵심 연결 고리(missing link)'라는 표현은 기존 테슬라 플랫폼과 애플 무선 카플레이 프로토콜 사이에 구체적인 기술 단절이 존재하며, 애플이 이를 메우는 레이어를 개발 중임을 시사한다.\n\n다만 이번 보도는 아직 공식 확인된 사안이 아니다 — 테슬라라티가 인용한 보고서 자체도 '새 보고서가 주장한다(A new report claims)'는 표현을 쓰고 있어 이중 간접 인용에 해당한다. 테슬라와 애플이 공식 발표를 낸 것은 아니며, 현재로선 신뢰할 수 있는 추측성 보도 단계로 봐야 한다.\n\n테슬라 주주 관점에서 카플레이 지원 가능성은 단기 재무보다 소비자 경험·구매 전환율에서 더 큰 의미를 갖는다. 아이폰 사용자 비중이 높은 북미 시장에서 카플레이 미지원은 실제 구매 장벽으로 작용해온 만큼, 공식 통합이 이뤄진다면 이 공백이 해소되며 새 수요를 흡수하는 계기가 될 수 있다.",
-      "title_en": "Report: Apple developing <em>missing link</em> to bring CarPlay to Tesla",
-      "hotShort_en": "Apple reportedly building <em>CarPlay</em> link for Tesla",
-      "body_en": "Apple is reportedly developing the technical piece needed to enable CarPlay integration in Tesla vehicles, according to a new report cited by Teslarati — with Apple and Tesla said to have been collaborating on the effort for some time. If confirmed, it would mark the first time Tesla officially supported CarPlay, addressing a long-standing iPhone-user complaint about Tesla's infotainment.",
-      "summary_en": "Tesla has consistently maintained its own proprietary infotainment system, choosing not to support Apple CarPlay or Android Auto across any of its vehicle models. The decision stands in contrast to virtually all major competing automakers — Ford, GM, BMW, and Volkswagen among them — that include native CarPlay as a standard feature. For iPhone users, it has been one of the most frequently cited gaps in Tesla's consumer experience.\n\nA new report, cited by Teslarati, claims Apple is actively developing what is described as the 'missing link' for Tesla to support CarPlay, and that the two companies have reportedly been collaborating on the integration for some time. The 'missing link' framing points to a specific technical gap between Tesla's existing platform and Apple's CarPlay wireless protocol — and suggests Apple is developing the software or hardware layer to close it.\n\nA sourcing note is warranted: this report is unconfirmed. Teslarati is citing a report that itself uses 'A new report claims' language, placing this two steps from primary sourcing. Neither Tesla nor Apple has made a public statement. This should be read as credible but unverified speculation from a Tesla-focused outlet, not a confirmed product commitment from either company.\n\nFor Tesla investors, CarPlay support would primarily affect consumer satisfaction and purchase conversion rather than near-term financials. In North America — where iPhone penetration among car buyers is high — the absence of CarPlay has been a real, if marginal, purchase objection for some buyers. Official integration, if it materializes, would remove that friction point and could expand Tesla's addressable market among deeply embedded iPhone users who have held back.",
-      "href": "https://www.teslarati.com/apple-developing-missing-link-tesla-carplay-report/",
-      "sentiment": "bull",
-      "hot": 5
     },
     {
       "category": "fsd",
@@ -127,5 +107,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-06-17 05:55 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-17 08:00 KST 자동 갱신 · 최신순"
 }
