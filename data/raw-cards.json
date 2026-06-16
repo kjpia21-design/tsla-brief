@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-16 05:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-16 05:06 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7m ago",
+      "time": "13m ago",
       "pubDate": "2026-06-16T04:53:36.000Z",
       "title": "Elon Musk Becomes World’s First Trillionaire on SpaceX’s First Day of Trading",
       "body": "Elon Musk Becomes World’s First Trillionaire on SpaceX’s First Day of Trading The New York Times",
@@ -238,6 +238,19 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
+      "time": "1d ago",
+      "pubDate": "2026-06-15T04:37:32.000Z",
+      "title": "Aerospace Industry",
+      "body": "Aerospace Industry WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/topics/industry/aerospace-industry"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "2d ago",
       "pubDate": "2026-06-14T10:55:00.000Z",
       "title": "AI Turns Coders, Lawyers and Analysts Into Ghosts of London’s Past",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4d ago",
-      "pubDate": "2026-06-12T11:22:27.000Z",
-      "title": "‘Extreme’ Rotations Leave Stock Market Bulls Without a Playbook",
-      "body": "‘Extreme’ Rotations Leave Stock Market Bulls Without a Playbook Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-12/-extreme-rotations-leave-stock-market-bulls-without-a-playbook"
     }
   ]
 }
