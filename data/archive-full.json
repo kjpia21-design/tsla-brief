@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-16 11:00 UTC · 누적 336건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-16 11:23 UTC · 누적 336건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "musk",
@@ -18,6 +18,11 @@
       "body_en": "SpaceX's stock continues to rally since its Nasdaq debut on June 13, with Reuters reporting it is now set to surpass Amazon's market cap — building on the IPO-day surge past $2 trillion that made Elon Musk the world's first trillionaire, and raising questions for Tesla investors about how Musk's focus may shift as his most valuable asset becomes a major public company.",
       "summary_en": "SpaceX's valuation is rising at a pace that puts it in direct contention with the world's most valuable companies within its first days of trading. Reuters reports the post-IPO rally has continued to the point where SpaceX is set to surpass Amazon's market cap — Amazon being the U.S.'s dominant e-commerce, cloud infrastructure (AWS), and advertising conglomerate.\n\nPost-IPO demand has held across both institutional and retail investor classes. Bloomberg reported approximately $600 million was allocated to European retail investors in the IPO. Baron Capital's Ron Baron purchased $1 billion of shares directly in the offering, lifting his total SpaceX stake to $25 billion — institutional conviction of that scale, sustained at IPO prices, typically underpins a durable post-debut bid.\n\nFor Tesla shareholders, SpaceX's market cap trajectory carries a dual read. On the positive side, Musk's continued entrepreneurial success reinforces his standing with capital markets, and institutional capital flowing toward the Musk ecosystem provides a broadly positive sentiment backdrop for Tesla. The nuance worth monitoring is attention allocation: as SpaceX becomes a large publicly traded company demanding quarterly management focus alongside Tesla, xAI, and X, Musk's bandwidth across each entity becomes a more visible variable in the Tesla investment thesis.\n\nIf SpaceX surpasses Amazon within its first week of trading, it marks a landmark moment in 2026's capital markets story — a space and satellite-internet company overtaking a three-decade-old e-commerce and cloud empire. The core long-term value drivers underpinning this valuation are Starlink's recurring subscription revenue, launch services contracts, and SpaceX's expanding space infrastructure capabilities.",
       "href": "https://www.reuters.com/legal/transactional/spacex-set-surpass-amazons-market-cap-post-ipo-rally-continues-2026-06-16/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "Financial Times"
+      ],
       "sentiment": "neutral",
       "hot": 6
     },
