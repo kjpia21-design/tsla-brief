@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-16 16:55 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-16 17:07 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "25m ago",
+      "pubDate": "2026-06-16T16:41:59.000Z",
+      "title": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report",
+      "body": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/us-senators-ask-review-teslas-full-self-driving-safety-data-citing-reuters-2026-06-16/"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20m ago",
+      "time": "31m ago",
       "pubDate": "2026-06-16T16:35:42.000Z",
       "title": "SpaceX options debut draws record volume as investors chase rocket stock",
       "body": "SpaceX options debut draws record volume as investors chase rocket stock Reuters",
@@ -17,7 +30,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21m ago",
+      "time": "33m ago",
       "pubDate": "2026-06-16T16:33:59.000Z",
       "title": "Sailors on Russian frigate fired warning shots at a yacht near UK waters",
       "body": "Sailors on Russian frigate fired warning shots at a yacht near UK waters Reuters",
@@ -30,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "23m ago",
+      "time": "35m ago",
       "pubDate": "2026-06-16T16:31:57.000Z",
       "title": "Veteran traders stunned as SpaceX fans bet on 80% overnight gains: 'I've never seen anything like it'",
       "body": "Veteran traders stunned as SpaceX fans bet on 80% overnight gains: 'I've never seen anything like it' CNBC",
@@ -43,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "35m ago",
+      "time": "47m ago",
       "pubDate": "2026-06-16T16:20:19.000Z",
       "title": "Exclusive: Binance set to lose permission to operate in EU, sources say",
       "body": "Exclusive: Binance set to lose permission to operate in EU, sources say Reuters",
@@ -56,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "37m ago",
+      "time": "48m ago",
       "pubDate": "2026-06-16T16:18:49.000Z",
       "title": "Hezbollah believes Iran will not sign nuclear deal without Israeli withdrawal from Lebanon",
       "body": "Hezbollah believes Iran will not sign nuclear deal without Israeli withdrawal from Lebanon Reuters",
@@ -65,19 +78,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/world/middle-east/hezbollah-says-iran-has-pledged-pursue-israeli-withdrawal-lebanon-us-2026-06-16/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-06-16T15:54:23.000Z",
-      "title": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report",
-      "body": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/legal/litigation/us-senators-ask-review-teslas-full-self-driving-safety-data-citing-reuters-2026-06-16/"
     },
     {
       "category": "fsd",
@@ -147,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-16T15:31:09.000Z",
       "title": "Wells Fargo raises year-end S&P 500 target on stronger earnings outlook",
       "body": "Wells Fargo raises year-end S&P 500 target on stronger earnings outlook Reuters",
@@ -156,19 +156,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/wells-fargo-raises-sp-500-target-stronger-earnings-outlook-2026-06-16/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-06-16T14:15:01.000Z",
-      "title": "Imagine a future where no one has to navigate the world alone. In this concept, Optimus helps a visually impaired per…",
-      "body": "Imagine a future where no one has to navigate the world alone. In this concept, Optimus helps a visually impaired person safely cross the street showing how humanoid robots could one day provide real-world assistance, in…",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2066887273044656209"
     },
     {
       "category": "stock",
@@ -247,6 +234,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/16/2026-americas-top-states-business-rankings-methodology.html"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "8h ago",
+      "pubDate": "2026-06-16T09:30:00.000Z",
+      "title": "Qualcomm Is a Rare AI Chip Value Play",
+      "body": "Qualcomm Is a Rare AI Chip Value Play WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/tech/qualcomm-is-a-rare-ai-chip-value-play-3e09f70b"
     },
     {
       "category": "product",
