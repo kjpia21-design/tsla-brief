@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-16 18:55 UTC · 누적 341건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-16 20:55 UTC · 누적 342건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-06-16T16:23:44.000Z",
+      "title": "아르헨티나 국영 YPF, 테슬라와 <em>EV 충전·에너지 저장</em> 협력 탐색",
+      "hotShort": "아르헨티나 YPF, 테슬라와 <em>에너지 저장</em> 협력 착수",
+      "body": "아르헨티나 국영 석유기업 YPF가 테슬라와 전기차 충전 인프라 및 에너지 저장 분야 협력을 탐색 중이라고 로이터가 보도했다 — 테슬라 메가팩·슈퍼차저 네트워크의 남미 주요 시장 진입을 가늠할 수 있는 첫 공식 협의로, 에너지 사업 확장을 주목하는 주주들에게 새로운 시장 개척 신호다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "product-ypf-tesla-energy-collaboration-2026-06-16",
+      "summary": "YPF(Yacimientos Petrolíferos Fiscales)는 아르헨티나 국영 석유·천연가스 기업으로, 남미 에너지 시장에서 탐사·정제·유통을 아우르는 핵심 인프라를 보유하고 있다. 아르헨티나는 파타고니아의 바카 무에르타(Vaca Muerta)를 중심으로 세계 2위 규모의 셰일가스 매장지를 갖춘 에너지 강국이며, 에너지 전환 수요가 빠르게 성장 중이다.\n\n로이터에 따르면 YPF와 테슬라는 전기차 충전 인프라와 에너지 저장 솔루션 분야에서 협력 가능성을 탐색(explore) 중이다. 현 단계는 협력 가능성 검토 단계로, 공식 계약 체결이나 구체적 규모·일정은 확정되지 않은 상태다. 로이터 단독 보도이므로 추가 확인 이전까지는 탐색 단계로 이해해야 한다.\n\n테슬라 에너지 부문은 2025~2026년 메가팩 생산 확대와 그리드 저장 수주 증가로 테슬라 전체 매출 다각화의 핵심 축으로 성장해 왔다. 남미 최대 에너지 기업 중 하나인 YPF와의 협력이 구체화된다면, 테슬라는 아르헨티나 전력 그리드와 신재생 에너지 전환 인프라 시장에 진입하는 발판을 확보하게 된다. 슈퍼차저 네트워크 확장 측면에서도 아르헨티나는 남미에서 전기차 보급률이 성장 중인 시장이다.\n\n주주 관점에서 이번 보도는 단기 재무 영향보다 중장기 파이프라인 신호로 읽는 것이 적절하다. 국영 에너지 기업 파트너십은 현지 인허가·인프라 구축에서 전략적 이점을 제공하지만, 협상부터 계약·실행까지는 시간이 걸린다. 탐색 단계가 실제 협력으로 이어질 경우, 이는 테슬라의 에너지 사업이 북미·유럽·아태 이외 남미 대형 시장으로 뻗어 가는 첫 공식 신호가 된다.",
+      "title_en": "Argentina's YPF and Tesla to <em>explore EV charging and energy storage</em> collaboration",
+      "hotShort_en": "YPF and Tesla eye <em>energy storage</em> deal",
+      "body_en": "Argentina's state-owned oil company YPF and Tesla are exploring a collaboration in EV charging infrastructure and energy storage solutions, Reuters reports — the first formal discussion that could bring Tesla's Megapack and Supercharger network into one of South America's largest energy markets.",
+      "summary_en": "YPF (Yacimientos Petrolíferos Fiscales) is Argentina's state-owned oil and gas company, holding core energy infrastructure across exploration, refining, and distribution in South America. Argentina is home to the world's second-largest shale gas reserves in the Vaca Muerta formation in Patagonia — making it one of the region's most energy-rich economies, with rapidly growing demand for grid-scale energy storage as the country expands its renewables base.\n\nAccording to Reuters, YPF and Tesla are exploring collaboration in two areas: EV charging infrastructure and energy storage solutions. The current stage is described as exploratory — no formal agreement, defined scope, or deployment timeline has been confirmed. Given the single-source (Reuters) report and exploratory framing, this should be read as a first-stage discussion rather than a committed partnership.\n\nTesla's energy division has emerged as a key revenue diversification driver in 2025–2026, with Megapack production expansion and growing grid-storage contract wins. A partnership with one of South America's largest energy companies — if formalized — would give Tesla a foothold in Argentina's electricity grid and energy transition infrastructure market, while also positioning the Supercharger network for expansion in one of South America's growing EV markets.\n\nFor shareholders, this is a mid-to-long-term pipeline signal rather than a near-term revenue event. State-owned energy partnerships typically involve extended negotiation and regulatory timelines. But if this exploratory phase advances, it would mark the first formally acknowledged entry point for Tesla's energy business into a major South American market — a meaningful geographic expansion signal for investors watching the energy segment's growth trajectory.",
+      "href": "https://www.reuters.com/business/energy/argentinas-ypf-tesla-explore-ev-charging-energy-storage-collaboration-2026-06-16/",
+      "sentiment": "bull",
+      "hot": 4
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
