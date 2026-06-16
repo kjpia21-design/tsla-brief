@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-16 22:55 UTC · 누적 343건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-16 23:27 UTC · 누적 344건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-16T22:42:37.000Z",
+      "title": "테슬라, 뉴저지 차주에 <em>로보택시 차단 법안</em> 반대 촉구",
+      "hotShort": "테슬라, 뉴저지 <em>로보택시 차단 법안</em> 반대 나서",
+      "body": "테슬라가 뉴저지 차량 소유주들에게 로보택시 서비스를 사실상 금지할 수 있는 주의회 신규 법안에 반대해 달라고 직접 촉구했다 — 주(州) 수준 규제가 사이버캡 전국 확대의 핵심 변수로 부상한다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-nj-robotaxi-bill-oppose-2026-06-16",
+      "summary": "뉴저지주 의회에 로보택시 서비스를 차단할 수 있는 신규 법안이 제출됐다. 뉴저지는 뉴욕 대도시권과 인접한 미국 북동부의 인구 밀집 주로, 이 지역의 입법 결과가 테슬라 로보택시의 동부 해안 확대 전략에 선례를 남길 수 있다.\n\n테슬라는 자사 뉴저지 차량 소유주들에게 해당 법안에 반대해 달라는 캠페인에 직접 나섰다. 기업이 고객 기반을 동원해 특정 주(州) 의회 입법에 개입하는 행보는 이례적이며, 테슬라가 로보택시 상용화 확대를 위한 규제 장벽 제거에 얼마나 적극적인지를 보여준다.\n\n테슬라는 로보택시 서비스 상용화를 추진 중이다. 주 단위 차단 입법이 확산되면 광역 로보택시 서비스 구축이 구조적으로 지연될 수 있어, 주주들이 주목하는 규제 리스크다. 이번 뉴저지 사례는 향후 타 주의 유사 입법 움직임에 대한 선행 지표로도 해석될 수 있다.",
+      "title_en": "Tesla mobilizes New Jersey owners to <em>oppose bill that could block Robotaxi</em>",
+      "hotShort_en": "Tesla fights NJ's <em>Robotaxi ban bill</em>",
+      "body_en": "Tesla has directly urged New Jersey vehicle owners to oppose a new state legislature bill that could effectively ban Robotaxi operations in the state — a sign that state-level regulation is emerging as a critical variable in the Cybercab's path to a nationwide commercial rollout.",
+      "summary_en": "A new bill introduced in the New Jersey state legislature would impose restrictions that could effectively ban Robotaxi services in the state. New Jersey sits adjacent to the New York City metro area and represents one of the most densely populated markets in the U.S. Northeast — making its regulatory outcome a potential bellwether for Tesla's East Coast Robotaxi expansion strategy.\n\nTesla responded by directly urging its New Jersey vehicle owners to oppose the legislation — an unusual step for a company to mobilize its customer base to influence specific state-level lawmaking. The move signals how seriously Tesla views regulatory headwinds as an obstacle to its autonomous ride-hailing commercialization.\n\nTesla is pursuing the commercial expansion of Robotaxi services. If similar blocking legislation were to spread to other states, it could structurally delay Tesla's ability to build a profitable, large-scale autonomous transport network — a regulatory risk shareholders are watching closely. This New Jersey case may also serve as an early indicator of how similar legislative movements could emerge in other key markets.",
+      "href": "https://www.teslarati.com/tesla-urges-new-jersey-owners-to-oppose-new-bill-block-robotaxi/",
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
