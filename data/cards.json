@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-06-16T15:50:59.000Z",
+      "title": "애플, 테슬라 <em>카플레이 구현 핵심 모듈</em> 개발 중 — 보도",
+      "hotShort": "애플, 테슬라 <em>카플레이</em> 지원 위한 모듈 개발 착수",
+      "body": "테슬라에 애플 카플레이를 구현하는 데 필요한 '핵심 연결 고리'를 애플이 개발 중이라고 테슬라라티가 새 보고서를 인용해 보도했다 — 양사가 이미 상당 기간 협력해온 것으로 알려지며, 이번 개발이 완료되면 테슬라 오너들이 처음으로 아이폰과의 완전한 카플레이 통합을 경험할 수 있을 전망이다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-apple-carplay-tesla-2026-06-16",
+      "summary": "테슬라는 자체 개발한 인포테인먼트 시스템을 고수하며 지금까지 애플 카플레이나 안드로이드 오토를 공식 지원하지 않았다. 이는 포드·GM·BMW 등 대부분의 경쟁 차량이 카플레이를 기본 제공하는 것과 대조적이며, 아이폰 사용자 사이에서 오랫동안 자주 거론되던 테슬라의 UX 공백이었다.\n\n새 보고서에 따르면 애플이 테슬라의 시스템에 카플레이를 통합하는 데 필요한 핵심 모듈을 개발 중이며, 테슬라라티는 두 회사가 이미 상당 기간 협력해온 것으로 알려졌다고 보도했다. '핵심 연결 고리(missing link)'라는 표현은 기존 테슬라 플랫폼과 애플 무선 카플레이 프로토콜 사이에 구체적인 기술 단절이 존재하며, 애플이 이를 메우는 레이어를 개발 중임을 시사한다.\n\n다만 이번 보도는 아직 공식 확인된 사안이 아니다 — 테슬라라티가 인용한 보고서 자체도 '새 보고서가 주장한다(A new report claims)'는 표현을 쓰고 있어 이중 간접 인용에 해당한다. 테슬라와 애플이 공식 발표를 낸 것은 아니며, 현재로선 신뢰할 수 있는 추측성 보도 단계로 봐야 한다.\n\n테슬라 주주 관점에서 카플레이 지원 가능성은 단기 재무보다 소비자 경험·구매 전환율에서 더 큰 의미를 갖는다. 아이폰 사용자 비중이 높은 북미 시장에서 카플레이 미지원은 실제 구매 장벽으로 작용해온 만큼, 공식 통합이 이뤄진다면 이 공백이 해소되며 새 수요를 흡수하는 계기가 될 수 있다.",
+      "title_en": "Report: Apple developing <em>missing link</em> to bring CarPlay to Tesla",
+      "hotShort_en": "Apple reportedly building <em>CarPlay</em> link for Tesla",
+      "body_en": "Apple is reportedly developing the technical piece needed to enable CarPlay integration in Tesla vehicles, according to a new report cited by Teslarati — with Apple and Tesla said to have been collaborating on the effort for some time. If confirmed, it would mark the first time Tesla officially supported CarPlay, addressing a long-standing iPhone-user complaint about Tesla's infotainment.",
+      "summary_en": "Tesla has consistently maintained its own proprietary infotainment system, choosing not to support Apple CarPlay or Android Auto across any of its vehicle models. The decision stands in contrast to virtually all major competing automakers — Ford, GM, BMW, and Volkswagen among them — that include native CarPlay as a standard feature. For iPhone users, it has been one of the most frequently cited gaps in Tesla's consumer experience.\n\nA new report, cited by Teslarati, claims Apple is actively developing what is described as the 'missing link' for Tesla to support CarPlay, and that the two companies have reportedly been collaborating on the integration for some time. The 'missing link' framing points to a specific technical gap between Tesla's existing platform and Apple's CarPlay wireless protocol — and suggests Apple is developing the software or hardware layer to close it.\n\nA sourcing note is warranted: this report is unconfirmed. Teslarati is citing a report that itself uses 'A new report claims' language, placing this two steps from primary sourcing. Neither Tesla nor Apple has made a public statement. This should be read as credible but unverified speculation from a Tesla-focused outlet, not a confirmed product commitment from either company.\n\nFor Tesla investors, CarPlay support would primarily affect consumer satisfaction and purchase conversion rather than near-term financials. In North America — where iPhone penetration among car buyers is high — the absence of CarPlay has been a real, if marginal, purchase objection for some buyers. Official integration, if it materializes, would remove that friction point and could expand Tesla's addressable market among deeply embedded iPhone users who have held back.",
+      "href": "https://www.teslarati.com/apple-developing-missing-link-tesla-carplay-report/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "13m ago",
@@ -25,17 +45,17 @@
       "categoryLabel": "ELON · 일론 소식",
       "time": "43m ago",
       "pubDate": "2026-06-16T14:17:31.000Z",
-      "title": "SpaceX 상장 3일째 마이크로소프트·아마존 <em>시총 동시 추월</em> — 옵션 거래도 급등",
+      "title": "SpaceX 상장 3일째 마이크로소프트·아마존 <em>시총 동시 추월</em> — 옵션 사상 최대 거래량",
       "hotShort": "SpaceX, MS·아마존 <em>시총 동시 추월</em> 확정",
-      "body": "SpaceX가 6월 13일 나스닥 상장 사흘 만에 마이크로소프트와 아마존의 시가총액을 모두 추월했다고 로이터·블룸버그가 보도했다 — 전날까지 '추월 목전'이었던 랠리가 확정 단계에 이르며, 옵션 거래까지 개시되어 상장 첫 주 안에 세계 빅테크 상위권을 빠르게 재편하는 흐름이 이어지고 있다.",
+      "body": "SpaceX가 6월 13일 나스닥 상장 사흘 만에 마이크로소프트와 아마존의 시가총액을 모두 추월했다고 로이터·블룸버그가 보도했다 — 전날까지 '추월 목전'이었던 랠리가 확정 단계에 이르며, 옵션 시장도 사상 최대 수준의 첫날 거래량을 기록하며 개막해 상장 첫 주 안에 세계 빅테크 상위권이 빠르게 재편되고 있다.",
       "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "musk-spacex-surpasses-microsoft-amazon-2026-06-16",
-      "summary": "SpaceX가 나스닥에 상장한 지 단 3거래일 만에 마이크로소프트와 아마존의 시가총액을 모두 뛰어넘었다고 로이터가 보도했다. 데뷔 당일 $2조($2T)를 돌파하며 일론 머스크를 세계 첫 조만장자로 만든 SpaceX는 이후에도 상승세를 이어가며 세계 최상위 빅테크 두 곳을 동시에 추월하는 이례적 랠리를 기록했다.\n\n같은 날 로이터·블룸버그는 SpaceX 주식 옵션 거래가 중거래량으로 시작됐다고 보도했다. 옵션 시장의 개설은 기관·헤지펀드 등 파생 전략 투자자들이 SpaceX 포지션을 잡을 수 있는 새로운 채널을 열며, SpaceX에 대한 시장 신뢰도와 유동성을 한 단계 높이는 신호다.\n\nCNBC의 옵션 전략 전문가 로렌스 맥밀런은 초기 SpaceX 옵션 거래를 분석하며 SpaceX가 장기적으로 엔비디아·테슬라를 시가총액 기준으로 앞설 가능성을 언급했다 — 개별 분석가의 전망이므로 단정할 수 없지만, 월가에서 SpaceX에 대한 강세 서사가 기관 차원에서 빠르게 정착되고 있다는 맥락이다.\n\n테슬라 주주 관점에서 SpaceX의 지속적 가치 상승은 복합 신호다. 머스크의 자산 증가와 기업가 신뢰도 강화는 테슬라 생태계 전반에 우호적이지만, 공개 기업 SpaceX가 분기 보고 의무와 경영 요구를 안게 되면서 머스크의 집중과 자원 배분이 어떻게 재편될지는 계속 지켜봐야 할 변수다.",
-      "title_en": "SpaceX <em>overtakes Microsoft and Amazon</em> in market cap just three days after IPO",
+      "summary": "SpaceX가 나스닥에 상장한 지 단 3거래일 만에 마이크로소프트와 아마존의 시가총액을 모두 뛰어넘었다고 로이터가 보도했다. 데뷔 당일 $2조($2T)를 돌파하며 일론 머스크를 세계 첫 조만장자로 만든 SpaceX는 이후에도 상승세를 이어가며 세계 최상위 빅테크 두 곳을 동시에 추월하는 이례적 랠리를 기록했다.\n\n로이터는 SpaceX 옵션 거래가 사상 최대 수준의 첫날 거래량을 기록하며 개막했다고 추가 보도했다. CNBC는 리테일 투자자들이 하루 만에 80% 수익을 기대하는 콜옵션까지 매수하는 등 이례적인 열기를 전하며 '베테랑 트레이더들도 처음 보는 광경'이라고 보도했다. 옵션 시장의 개설은 기관·헤지펀드 등 파생 전략 투자자들이 SpaceX 포지션을 잡을 수 있는 새로운 채널을 열며, SpaceX에 대한 시장 신뢰도와 유동성을 한 단계 높이는 신호다.\n\nCNBC의 옵션 전략 전문가 로렌스 맥밀런은 초기 SpaceX 옵션 거래를 분석하며 SpaceX가 장기적으로 엔비디아·테슬라를 시가총액 기준으로 앞설 가능성을 언급했다 — 개별 분석가의 전망이므로 단정할 수 없지만, 월가에서 SpaceX에 대한 강세 서사가 기관 차원에서 빠르게 정착되고 있다는 맥락이다.\n\n테슬라 주주 관점에서 SpaceX의 지속적 가치 상승은 복합 신호다. 머스크의 자산 증가와 기업가 신뢰도 강화는 테슬라 생태계 전반에 우호적이지만, 공개 기업 SpaceX가 분기 보고 의무와 경영 요구를 안게 되면서 머스크의 집중과 자원 배분이 어떻게 재편될지는 계속 지켜봐야 할 변수다.",
+      "title_en": "SpaceX <em>overtakes Microsoft and Amazon</em> in market cap — options log record first-day volume",
       "hotShort_en": "SpaceX <em>tops Microsoft and Amazon</em> in market cap",
-      "body_en": "SpaceX has surpassed both Microsoft's and Amazon's market capitalizations in just three trading days after its Nasdaq debut, Reuters reports — the post-IPO rally that had SpaceX approaching Amazon's cap the day before has now confirmed both overtakes, while Bloomberg and Reuters report that SpaceX options began trading in heavy early volume.",
-      "summary_en": "SpaceX crossed both Microsoft's and Amazon's market capitalizations within three trading days of listing on Nasdaq, Reuters reports. The company's IPO-day surge past $2 trillion — which simultaneously made Elon Musk the world's first trillionaire — continued through the week, compressing the time it took to overtake two of the most valuable companies in U.S. market history.\n\nThe same day, SpaceX options began trading. Reuters and Bloomberg both reported that SpaceX options opened in heavy volume — a structurally meaningful development that gives hedge funds, institutional traders, and sophisticated investors new channels to build and hedge SpaceX positions. Options availability typically correlates with increased institutional engagement and market depth.\n\nLawrence McMillan — widely known as the 'Godfather of options' — told CNBC that he sees SpaceX potentially surpassing Nvidia and Tesla in market cap over the longer term as early options trades came in. This is one analyst's view, not a consensus call, but it reflects how bullish the options community has framed the SpaceX position from day one.\n\nFor Tesla shareholders, SpaceX's sustained post-IPO rally carries the same dual read as before: Musk's expanding wealth base and entrepreneurial track record provide a positive sentiment backdrop for the Musk ecosystem. However, a publicly-traded SpaceX with quarterly reporting obligations and an options market adds another formal claim on executive time alongside Tesla, xAI, and X. How this time-allocation dynamic plays out over the coming quarters is the key variable for Tesla-focused investors to watch.",
+      "body_en": "SpaceX has surpassed both Microsoft's and Amazon's market capitalizations in just three trading days after its Nasdaq debut, Reuters reports — the post-IPO rally that had SpaceX approaching Amazon's cap the day before has now confirmed both overtakes, while SpaceX options debuted to record first-day trading volume and CNBC reported retail investors placing bets on 80% overnight gains.",
+      "summary_en": "SpaceX crossed both Microsoft's and Amazon's market capitalizations within three trading days of listing on Nasdaq, Reuters reports. The company's IPO-day surge past $2 trillion — which simultaneously made Elon Musk the world's first trillionaire — continued through the week, compressing the time it took to overtake two of the most valuable companies in U.S. market history.\n\nSpaceX options debuted to record first-day trading volume according to Reuters — with CNBC noting that retail investors, described by veteran traders as unprecedented in their behavior, were placing bets on 80% overnight gains in SpaceX call options. The opening of options trading gives hedge funds, institutional traders, and sophisticated investors new channels to build and hedge SpaceX positions, and typically correlates with increased institutional engagement and market depth.\n\nLawrence McMillan — widely known as the 'Godfather of options' — told CNBC that he sees SpaceX potentially surpassing Nvidia and Tesla in market cap over the longer term as early options trades came in. This is one analyst's view, not a consensus call, but it reflects how bullish the options community has framed the SpaceX position from day one.\n\nFor Tesla shareholders, SpaceX's sustained post-IPO rally carries the same dual read as before: Musk's expanding wealth base and entrepreneurial track record provide a positive sentiment backdrop for the Musk ecosystem. However, a publicly-traded SpaceX with quarterly reporting obligations and an options market adds another formal claim on executive time alongside Tesla, xAI, and X. How this time-allocation dynamic plays out over the coming quarters is the key variable for Tesla-focused investors to watch.",
       "href": "https://www.reuters.com/legal/transactional/spacex-set-surpass-amazons-market-cap-post-ipo-rally-continues-2026-06-16/",
       "confirmedBy": 3,
       "confirmingSources": ["Reuters", "Bloomberg", "CNBC"],
@@ -83,5 +103,5 @@
       "hot": 4
     }
   ],
-  "asOf": "2026-06-17 00:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-17 02:00 KST 자동 갱신 · 최신순"
 }
