@@ -1,9 +1,55 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-16T20:10:50.000Z",
+      "title": "SpaceX IPO 랠리 <em>+49%</em> — 마이크로소프트·아마존 시총 동시 추월, 옵션도 사상 최대",
+      "hotShort": "SpaceX, IPO 3일 만에 <em>+49% 랠리</em>로 MS·아마존 추월",
+      "body": "SpaceX가 6월 13일 나스닥 상장 이후 3일 만에 +49% 랠리를 기록하며 마이크로소프트와 아마존의 시가총액을 모두 넘어섰다고 블룸버그·로이터가 보도했다 — 옵션 시장도 사상 최대 수준의 첫날 거래량을 기록하며 개장해, 상장 첫 주 안에 세계 빅테크 상위권이 빠르게 재편됐다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-surpasses-microsoft-amazon-2026-06-16",
+      "summary": "SpaceX가 나스닥 상장 이후 단 3일 만에 +49% 랠리를 기록하며 마이크로소프트와 아마존의 시가총액을 모두 뛰어넘었다고 블룸버그·로이터가 보도했다. 데뷔 당일 이미 $2조($2T)를 돌파하며 일론 머스크를 세계 첫 조만장자로 만든 SpaceX는 이후에도 상승세를 이어가며 세계 최상위 빅테크 두 곳을 동시에 추월하는 이례적 랠리를 기록했다.\n\n로이터는 SpaceX 옵션 거래가 사상 최대 수준의 첫날 거래량을 기록하며 개막했다고 추가 보도했다. CNBC는 리테일 투자자들이 하루 만에 80% 수익을 기대하는 콜옵션까지 매수하는 등 이례적인 열기를 전하며 '베테랑 트레이더들도 처음 보는 광경'이라고 보도했다. 옵션 시장의 개설은 기관·헤지펀드 등 파생 전략 투자자들이 SpaceX 포지션을 잡을 수 있는 새로운 채널을 열며, SpaceX에 대한 시장 신뢰도와 유동성을 한 단계 높이는 신호다.\n\nCNBC의 옵션 전략 전문가 로렌스 맥밀런은 초기 SpaceX 옵션 거래를 분석하며 SpaceX가 장기적으로 엔비디아·테슬라를 시가총액 기준으로 앞설 가능성을 언급했다 — 개별 분석가의 전망이므로 단정할 수 없지만, 월가에서 SpaceX에 대한 강세 서사가 기관 차원에서 빠르게 정착되고 있다는 맥락이다.\n\n테슬라 주주 관점에서 SpaceX의 지속적 가치 상승은 복합 신호다. 머스크의 자산 증가와 기업가 신뢰도 강화는 테슬라 생태계 전반에 우호적이지만, 공개 기업 SpaceX가 분기 보고 의무와 경영 요구를 안게 되면서 머스크의 집중과 자원 배분이 어떻게 재편될지는 계속 지켜봐야 할 변수다.",
+      "title_en": "SpaceX post-IPO rally hits <em>+49%</em>, surpassing Microsoft and Amazon in market cap",
+      "hotShort_en": "SpaceX <em>+49% rally</em> tops Microsoft and Amazon",
+      "body_en": "SpaceX has surged +49% since its Nasdaq debut on June 13, overtaking both Microsoft's and Amazon's market capitalizations in just three days, Bloomberg and Reuters report — while SpaceX options debuted to record first-day trading volume, capping a week that rapidly reshuffled the ranks of the world's most valuable companies.",
+      "summary_en": "SpaceX closed out its third day of trading with a post-IPO rally reaching +49%, crossing both Microsoft's and Amazon's market capitalizations in the process, Bloomberg and Reuters report. The company's IPO-day surge past $2 trillion — which simultaneously made Elon Musk the world's first trillionaire — continued through the week, compressing the time it took to overtake two of the most valuable companies in U.S. market history.\n\nSpaceX options debuted to record first-day trading volume according to Reuters — with CNBC noting that retail investors, described by veteran traders as unprecedented in their behavior, were placing bets on 80% overnight gains in SpaceX call options. The opening of options trading gives hedge funds, institutional traders, and sophisticated investors new channels to build and hedge SpaceX positions, and typically correlates with increased institutional engagement and market depth.\n\nLawrence McMillan — widely known as the 'Godfather of options' — told CNBC that he sees SpaceX potentially surpassing Nvidia and Tesla in market cap over the longer term as early options trades came in. This is one analyst's view, not a consensus call, but it reflects how bullish the options community has framed the SpaceX position from day one.\n\nFor Tesla shareholders, SpaceX's sustained post-IPO rally carries the same dual read as before: Musk's expanding wealth base and entrepreneurial track record provide a positive sentiment backdrop for the Musk ecosystem. However, a publicly-traded SpaceX with quarterly reporting obligations and an options market adds another formal claim on executive time alongside Tesla, xAI, and X. How this time-allocation dynamic plays out over the coming quarters is the key variable for Tesla-focused investors to watch.",
+      "href": "https://www.reuters.com/legal/transactional/spacex-set-surpass-amazons-market-cap-post-ipo-rally-continues-2026-06-16/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "Bloomberg",
+        "CNBC"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-06-16T16:31:08.000Z",
+      "title": "네덜란드 교통장관, 테슬라 FSD <em>유럽 승인 결정 옹호</em> — 로이터",
+      "hotShort": "네덜란드 교통장관, 테슬라 FSD <em>승인 공개 옹호</em>",
+      "body": "네덜란드 교통장관이 테슬라 FSD에 대한 자국의 승인 결정을 공개적으로 옹호했다고 로이터가 보도했다 — 지난주 로이터의 '테슬라가 유럽 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다'는 조사 보도 이후, 미국 의회의 검토 요청과 대비되는 유럽 현지 입장으로 FSD 규제 반응이 양안에서 엇갈리고 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-dutch-minister-defends-fsd-approval-2026-06-16",
+      "summary": "네덜란드 교통부 장관이 테슬라 FSD에 대한 자국의 승인 결정을 공개 옹호했다고 로이터가 보도했다. 이는 로이터가 지난주 게재한 조사 기사 — 테슬라가 유럽 자동차 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다는 내용 — 이후 나온 유럽 측 공식 반응이다.\n\n같은 날 미국에서는 복수의 의원이 동일 로이터 보도를 인용해 테슬라 FSD 안전 데이터의 공식 검토를 연방 기관에 요청했다. 양안에서 같은 보도에 대한 공식 대응이 정반대 방향으로 갈린 셈이다 — 미국 의회는 연방 기관의 실사를 요구하는 반면, 유럽 측 당사자 중 하나인 네덜란드 교통장관은 자국의 승인 판단을 재확인했다.\n\n테슬라 FSD의 유럽 시장 승인은 각 회원국이 EU 자동차 형식 승인 체계(UNECE/WP.29)에 따라 개별 심사를 거쳐 부여하는 구조다. 네덜란드 교통장관의 공개 옹호는 자국 규제 당국이 현재까지의 데이터와 심사 과정에 기반한 FSD 승인 결정을 여전히 유효하다고 본다는 신호다.\n\n테슬라 주주 관점에서, 유럽 내 규제 대응이 단일하지 않다는 것은 대서양 양안의 규제 리스크를 균형 있게 볼 이유다. 미국 의회의 검토 요청이 NHTSA 등 연방 기관의 실사로 이어질 가능성은 여전하지만, 일부 유럽 규제기관이 FSD 승인을 공개 옹호하는 국면에서 유럽 FSD 확장 경로가 단기에 전면 차단될 가능성은 낮아진다. 향후 어느 쪽 방향이 주도적 규제 흐름을 형성할지가 FSD 국제 타임라인의 핵심 변수다.",
+      "title_en": "Dutch transport minister <em>defends Tesla FSD</em> approval — Reuters",
+      "hotShort_en": "Dutch minister publicly <em>backs Tesla FSD</em> approval",
+      "body_en": "The Netherlands' transportation minister has publicly defended the country's decision to approve Tesla Full Self-Driving, Reuters reports — a contrasting official response to the same Reuters investigation that prompted multiple U.S. senators to request a formal federal review of Tesla's FSD safety data on the same day, with regulatory reactions diverging sharply on either side of the Atlantic.",
+      "summary_en": "The Netherlands' transportation minister publicly backed the country's approval of Tesla Full Self-Driving, according to Reuters. The statement comes in the context of Reuters' exclusive investigation published last week, which alleged that Tesla submitted misleading FSD safety data to European automotive regulatory authorities — an investigation that has prompted very different official responses on either side of the Atlantic.\n\nOn the same day the Dutch minister defended the approval, multiple U.S. senators cited that same Reuters report to formally request a review of Tesla's FSD safety records by U.S. federal agencies. The divergence is notable: American legislators are pushing for federal-level scrutiny, while at least one European regulatory party — the Netherlands, where FSD has been approved for use — is publicly reaffirming its approval decision.\n\nTesla FSD's European market entry is structured through each EU member state's vehicle type-approval process under the UNECE/WP.29 framework, with each jurisdiction conducting its own safety assessment. The Dutch minister's public defense signals that the Netherlands' regulatory authority remains confident in the basis of its FSD approval, even as the Reuters controversy has placed European FSD approvals under broader scrutiny.\n\nFor Tesla shareholders, the divergence in regulatory responses reduces the near-term risk of a rapid, coordinated European regulatory reversal on FSD approvals. While U.S. legislative pressure continues to build, the fact that a European regulatory party is publicly defending FSD approval suggests that FSD's commercial pathway in Europe has not been uniformly disrupted by the Reuters investigation. The key variable going forward is whether other European regulators align with the Dutch position or move toward a more critical posture — a dynamic that will directly shape Tesla FSD's international timeline.",
+      "href": "https://www.reuters.com/business/dutch-transportation-minister-defends-tesla-fsd-approval-2026-06-16/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-16T16:23:44.000Z",
       "title": "아르헨티나 국영 YPF, 테슬라와 <em>EV 충전·에너지 저장</em> 협력 탐색",
       "hotShort": "아르헨티나 YPF, 테슬라와 <em>에너지 저장</em> 협력 착수",
@@ -23,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-16T15:50:59.000Z",
       "title": "애플, 테슬라 <em>카플레이 구현 핵심 모듈</em> 개발 중 — 보도",
       "hotShort": "애플, 테슬라 <em>카플레이</em> 지원 위한 모듈 개발 착수",
@@ -43,7 +89,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13m ago",
+      "time": "6h ago",
       "pubDate": "2026-06-16T14:47:33.000Z",
       "title": "미국 의원들, 테슬라 FSD <em>안전 데이터 검토</em> 공식 요청 — 로이터 보도 인용",
       "hotShort": "미 의원들, 테슬라 FSD <em>안전 데이터 검토</em> 요청",
@@ -61,35 +107,9 @@
       "hot": 7
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "43m ago",
-      "pubDate": "2026-06-16T14:17:31.000Z",
-      "title": "SpaceX 상장 3일째 마이크로소프트·아마존 <em>시총 동시 추월</em> — 옵션 사상 최대 거래량",
-      "hotShort": "SpaceX, MS·아마존 <em>시총 동시 추월</em> 확정",
-      "body": "SpaceX가 6월 13일 나스닥 상장 사흘 만에 마이크로소프트와 아마존의 시가총액을 모두 추월했다고 로이터·블룸버그가 보도했다 — 전날까지 '추월 목전'이었던 랠리가 확정 단계에 이르며, 옵션 시장도 사상 최대 수준의 첫날 거래량을 기록하며 개막해 상장 첫 주 안에 세계 빅테크 상위권이 빠르게 재편되고 있다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-surpasses-microsoft-amazon-2026-06-16",
-      "summary": "SpaceX가 나스닥에 상장한 지 단 3거래일 만에 마이크로소프트와 아마존의 시가총액을 모두 뛰어넘었다고 로이터가 보도했다. 데뷔 당일 $2조($2T)를 돌파하며 일론 머스크를 세계 첫 조만장자로 만든 SpaceX는 이후에도 상승세를 이어가며 세계 최상위 빅테크 두 곳을 동시에 추월하는 이례적 랠리를 기록했다.\n\n로이터는 SpaceX 옵션 거래가 사상 최대 수준의 첫날 거래량을 기록하며 개막했다고 추가 보도했다. CNBC는 리테일 투자자들이 하루 만에 80% 수익을 기대하는 콜옵션까지 매수하는 등 이례적인 열기를 전하며 '베테랑 트레이더들도 처음 보는 광경'이라고 보도했다. 옵션 시장의 개설은 기관·헤지펀드 등 파생 전략 투자자들이 SpaceX 포지션을 잡을 수 있는 새로운 채널을 열며, SpaceX에 대한 시장 신뢰도와 유동성을 한 단계 높이는 신호다.\n\nCNBC의 옵션 전략 전문가 로렌스 맥밀런은 초기 SpaceX 옵션 거래를 분석하며 SpaceX가 장기적으로 엔비디아·테슬라를 시가총액 기준으로 앞설 가능성을 언급했다 — 개별 분석가의 전망이므로 단정할 수 없지만, 월가에서 SpaceX에 대한 강세 서사가 기관 차원에서 빠르게 정착되고 있다는 맥락이다.\n\n테슬라 주주 관점에서 SpaceX의 지속적 가치 상승은 복합 신호다. 머스크의 자산 증가와 기업가 신뢰도 강화는 테슬라 생태계 전반에 우호적이지만, 공개 기업 SpaceX가 분기 보고 의무와 경영 요구를 안게 되면서 머스크의 집중과 자원 배분이 어떻게 재편될지는 계속 지켜봐야 할 변수다.",
-      "title_en": "SpaceX <em>overtakes Microsoft and Amazon</em> in market cap — options log record first-day volume",
-      "hotShort_en": "SpaceX <em>tops Microsoft and Amazon</em> in market cap",
-      "body_en": "SpaceX has surpassed both Microsoft's and Amazon's market capitalizations in just three trading days after its Nasdaq debut, Reuters reports — the post-IPO rally that had SpaceX approaching Amazon's cap the day before has now confirmed both overtakes, while SpaceX options debuted to record first-day trading volume and CNBC reported retail investors placing bets on 80% overnight gains.",
-      "summary_en": "SpaceX crossed both Microsoft's and Amazon's market capitalizations within three trading days of listing on Nasdaq, Reuters reports. The company's IPO-day surge past $2 trillion — which simultaneously made Elon Musk the world's first trillionaire — continued through the week, compressing the time it took to overtake two of the most valuable companies in U.S. market history.\n\nSpaceX options debuted to record first-day trading volume according to Reuters — with CNBC noting that retail investors, described by veteran traders as unprecedented in their behavior, were placing bets on 80% overnight gains in SpaceX call options. The opening of options trading gives hedge funds, institutional traders, and sophisticated investors new channels to build and hedge SpaceX positions, and typically correlates with increased institutional engagement and market depth.\n\nLawrence McMillan — widely known as the 'Godfather of options' — told CNBC that he sees SpaceX potentially surpassing Nvidia and Tesla in market cap over the longer term as early options trades came in. This is one analyst's view, not a consensus call, but it reflects how bullish the options community has framed the SpaceX position from day one.\n\nFor Tesla shareholders, SpaceX's sustained post-IPO rally carries the same dual read as before: Musk's expanding wealth base and entrepreneurial track record provide a positive sentiment backdrop for the Musk ecosystem. However, a publicly-traded SpaceX with quarterly reporting obligations and an options market adds another formal claim on executive time alongside Tesla, xAI, and X. How this time-allocation dynamic plays out over the coming quarters is the key variable for Tesla-focused investors to watch.",
-      "href": "https://www.reuters.com/legal/transactional/spacex-set-surpass-amazons-market-cap-post-ipo-rally-continues-2026-06-16/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "Bloomberg",
-        "CNBC"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "55m ago",
+      "time": "7h ago",
       "pubDate": "2026-06-16T14:05:30.000Z",
       "title": "골드만삭스, 테슬라 <em>2분기 인도량 기대 상회</em> 전망 공개",
       "hotShort": "골드만삭스, 테슬라 2Q 인도 <em>기대 이상</em> 전망",
@@ -105,27 +125,7 @@
       "href": "https://www.teslarati.com/tesla-tsla-deliveries-big-boost-in-expectations-wall-street/",
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-06-16T13:46:39.000Z",
-      "title": "모빌아이, 2027년 미국 <em>로보택시 서비스 출시</em> 계획 — 로이터",
-      "hotShort": "모빌아이, 내년 미국 <em>로보택시 출시</em> 계획",
-      "body": "자율주행 기술 공급사 모빌아이가 2027년 미국에서 로보택시 서비스를 시작할 계획이라고 로이터가 보도했다 — 테슬라 사이버캡·로보택시 상용화 타임라인과 직접 겹치는 경쟁자의 등장으로, 미국 자율주행 상업 서비스 시장에서 경쟁이 더욱 가시화됐다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "fsd-mobileye-us-robotaxi-2027-2026-06-16",
-      "summary": "자율주행 기술 공급사 모빌아이가 2027년 미국에서 로보택시 서비스를 출시할 계획이라고 로이터가 보도했다. 모빌아이는 BMW·폭스바겐 등 완성차 OEM에 자율주행 시스템을 공급하는 전문 기업으로, 이번 발표는 B2B 기술 공급 외에 자체 B2C 로보택시 서비스로 직접 사업을 확장하는 전략적 전환이다.\n\n모빌아이의 2027년 미국 출시 계획은 테슬라 사이버캡 상용화 타임라인과 직접 경쟁 구도를 형성한다. 알파벳 산하 웨이모(Waymo)가 이미 샌프란시스코·피닉스·LA에서 상용 서비스를 운영 중인 상황에서, 모빌아이가 국가 단위 진입을 공개 선언함에 따라 미국 자율주행 시장에서 최소 세 개의 독립 사업자가 2027년까지 경합하는 구도가 형성됐다.\n\n테슬라 주주 관점에서 경쟁사 진입이 반드시 부정 요인은 아니다. 복수의 플레이어가 시장에 진입한다는 것은 로보택시 상업 서비스의 현실성을 입증하는 효과가 있다. 동시에 테슬라가 자율주행 기술·데이터·인허가·운영 역량 면에서 어떤 차별화를 유지하는지가 장기 성장 스토리의 핵심 검증 포인트가 된다.",
-      "title_en": "Mobileye plans to launch a <em>U.S. robotaxi service</em> in 2027",
-      "hotShort_en": "Mobileye targets <em>U.S. robotaxi launch</em> in 2027",
-      "body_en": "Autonomous driving technology supplier Mobileye plans to launch a robotaxi service in the United States in 2027, Reuters reports — a direct competitive timeline that overlaps with Tesla's Cybercab and robotaxi commercialization roadmap, adding Mobileye to the named field of autonomous ride-hailing competitors targeting U.S. commercial operations.",
-      "summary_en": "Mobileye — a Nasdaq-listed autonomous driving technology supplier — has announced plans to begin a U.S. robotaxi service in 2027, according to Reuters. Mobileye currently supplies autonomous driving systems to vehicle OEMs including BMW and Volkswagen, and the planned robotaxi launch represents a strategic push into direct consumer-facing autonomous transportation.\n\nThe 2027 timeline places Mobileye in direct competitive overlap with Tesla's Cybercab rollout. With Alphabet's Waymo already operating commercially in San Francisco, Phoenix, and Los Angeles, Mobileye's entry announcement means at least three independent operators are now targeting U.S. commercial autonomous ride-hailing in roughly the same timeframe.\n\nFor Tesla shareholders, a more competitive autonomous ride-hailing landscape carries a nuanced read. The entry of credible, well-funded competitors validates the commercial reality of robotaxi services as a viable category. At the same time, Tesla's long-term differentiation will increasingly be evaluated on real execution metrics: fleet scale, cost per mile, geographic footprint, safety record, and the degree to which FSD's proprietary data advantage translates into a durable competitive moat.",
-      "href": "https://www.reuters.com/technology/mobileye-launch-robotaxi-business-us-2027-2026-06-16/",
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-06-17 04:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-17 05:55 KST 자동 갱신 · 최신순"
 }
