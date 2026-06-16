@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-16 20:55 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-16 21:10 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "31m ago",
+      "time": "14m ago",
+      "pubDate": "2026-06-16T20:56:29.000Z",
+      "title": "US Top News and Analysis",
+      "body": "US Top News and Analysis CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "46m ago",
       "pubDate": "2026-06-16T20:24:47.000Z",
       "title": "SpaceX's blistering start still faces key tests that will determine the stock's true value",
       "body": "SpaceX's blistering start still faces key tests that will determine the stock's true value CNBC",
@@ -17,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "45m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-16T20:10:50.000Z",
       "title": "SpaceX Overtakes Amazon in Value as Post-IPO Rally Reaches 49%",
       "body": "SpaceX Overtakes Amazon in Value as Post-IPO Rally Reaches 49% Bloomberg.com",
@@ -30,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-16T19:31:15.000Z",
       "title": "Bloomberg (@business) / Posts / X",
       "body": "Bloomberg (@business) / Posts / X Bloomberg.com",
@@ -39,6 +52,19 @@
       "slug": "",
       "summary": "",
       "href": "https://links.message.bloomberg.com/s/c/2NfJ6V8TuXFTt6a3FLVspm5ZzWCLSDAjektsYk3FtTIULPwGmv1v9dnWtFlHabVYY9zMR8H6DnX0PpeY2Mrlttsnsm2Z3tASVn0MLsJnnkVb4otgi6se8jfaqrN9UgbE4p2NrbJ_VKKVlmienI5VAAxhcCBy82h7xC2_HUc3Ivh_ufQ-fKszotipZYJm0xHuRn2oSQpHGlEhLEe7tUOll-v1GxBNfO7sKj102J23mEBcqrp0KrfayOfiLwlnLcnDHnwvrNp2K8dhyJwN1BAulbQ/Xam0PtREnM_ZflHruky35UnJusP3ssgu/9"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-16T19:05:13.000Z",
+      "title": "Power Lunch: Latest News, Clips and Schedule",
+      "body": "Power Lunch: Latest News, Clips and Schedule CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/power-lunch/"
     },
     {
       "category": "musk",
@@ -52,19 +78,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/options-spacex-shares-start-trading-2026-06-16/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-16T18:38:42.000Z",
-      "title": "SpaceX vaults past Amazon's market value as options listing fuels surge",
-      "body": "SpaceX vaults past Amazon's market value as options listing fuels surge Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/legal/transactional/spacex-set-surpass-amazons-market-cap-post-ipo-rally-continues-2026-06-16/"
     },
     {
       "category": "stock",
@@ -106,30 +119,17 @@
       "href": "https://www.reuters.com/business/autos-transportation/rivian-lays-off-hundreds-workers-wsj-reports-2026-06-16/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-06-16T17:28:54.000Z",
-      "title": "Snap bets on life beyond smartphones with $2,195 Specs augmented-reality glasses",
-      "body": "Snap bets on life beyond smartphones with $2,195 Specs augmented-reality glasses Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/technology/snap-bets-life-beyond-smartphones-with-2195-specs-augmented-reality-glasses-2026-06-16/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-16T17:28:54.000Z",
-      "title": "Snap bets on life beyond smartphones with $2,195 Specs augmented-reality glasses",
-      "body": "Snap bets on life beyond smartphones with $2,195 Specs augmented-reality glasses Reuters",
-      "sourceName": "Reuters",
+      "time": "4h ago",
+      "pubDate": "2026-06-16T16:59:00.000Z",
+      "title": "More Robo-Taxis Are Coming. This Stock Is Getting a Boost.",
+      "body": "More Robo-Taxis Are Coming. This Stock Is Getting a Boost. Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/technology/snap-bets-life-beyond-smartphones-with-2195-specs-augmented-reality-glasses-2026-06-16/"
+      "href": "https://www.barrons.com/articles/mobileye-stock-robo-taxis-49418366"
     },
     {
       "category": "fsd",
@@ -147,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-16T16:33:00.000Z",
       "title": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers",
       "body": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers WSJ",
@@ -160,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-16T16:31:08.000Z",
       "title": "Dutch transportation minister defends Tesla FSD approval",
       "body": "Dutch transportation minister defends Tesla FSD approval Reuters",
@@ -223,6 +223,19 @@
       "href": "https://www.reuters.com/legal/litigation/us-grids-1-trillion-problem-could-equal-1-billion-payout-power-ceos-2026-06-16/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "6h ago",
+      "pubDate": "2026-06-16T15:15:01.000Z",
+      "title": "This AI play is no longer a 'hidden gem,' but Wall Street is still underestimating its potential, says Melius",
+      "body": "This AI play is no longer a 'hidden gem,' but Wall Street is still underestimating its potential, says Melius CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/16/nvent-no-longer-a-hidden-gem-but-melius-likes-its-potential.html"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "8h ago",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday-.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
-      "pubDate": "2026-06-16T12:05:03.000Z",
-      "title": "This cybersecurity stock could soar on AI tailwinds. UBS says to buy it now",
-      "body": "This cybersecurity stock could soar on AI tailwinds. UBS says to buy it now CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/16/this-cybersecurity-stock-to-soar-on-ai-tailwinds-ubs-says-to-buy-it.html"
     }
   ]
 }
