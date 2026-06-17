@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-17 22:05 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-17 22:30 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "30m ago",
+      "time": "54m ago",
       "pubDate": "2026-06-17T21:36:10.000Z",
       "title": "SpaceX Will Probably Swallow Tesla",
       "body": "SpaceX Will Probably Swallow Tesla – and Your Portfolio Bloomberg",
@@ -15,9 +15,35 @@
       "href": "https://www.bloomberg.com/opinion/newsletters/2026-06-17/spacex-will-probably-swallow-tesla-and-your-portfolio"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "55m ago",
+      "pubDate": "2026-06-17T21:35:09.000Z",
+      "title": "FSD Supervised celebrates your milestones",
+      "body": "FSD Supervised celebrates your milestones https://t.co/Ep3zCknq3k",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/Tesla/status/2067360424119632325"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "46m ago",
+      "time": "56m ago",
+      "pubDate": "2026-06-17T21:34:24.000Z",
+      "title": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla",
+      "body": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
       "pubDate": "2026-06-17T21:20:00.000Z",
       "title": "Opinion | California Needs a Pro-Business Governor",
       "body": "Opinion | California Needs a Pro-Business Governor WSJ",
@@ -28,30 +54,43 @@
       "href": "https://www.wsj.com/opinion/california-needs-a-pro-business-governor-4895fa3c"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1h ago",
-      "pubDate": "2026-06-17T20:46:23.000Z",
-      "title": "Teenagers vs. Social Media Bans",
-      "body": "Teenagers vs. Social Media Bans The New York Times",
-      "sourceName": "The New York Times",
+      "pubDate": "2026-06-17T21:14:46.000Z",
+      "title": "New Tesla Supercharger: Phoenixville, PA (8 stalls)",
+      "body": "New Tesla Supercharger: Phoenixville, PA (8 stalls) https://t.co/zF5UODQGYj https://t.co/rGpIaTErtH",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2067355293915455652"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-17T21:11:22.000Z",
+      "title": "17 June 2026 Giga Texas VIDEO … I’m back from Europe &amp; Giga Berlin! Cybercab production continues &amp; Model Y p…",
+      "body": "17 June 2026 Giga Texas VIDEO … I’m back from Europe &amp; Giga Berlin! Cybercab production continues &amp; Model Y production going strong too, with several in the new shades of blue! The 4680 battery cell portion of th…",
+      "sourceName": "Joe Tegtmeyer (X)",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.nytimes.com/2026/06/17/world/social-media-ban-iran-deal-congo-world-cup.html"
+      "href": "https://x.com/JoeTegtmeyer/status/2067354440953463222"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
-      "pubDate": "2026-06-17T20:23:17.000Z",
-      "title": "Watch Can Musk Pull Off a SpaceX-Tesla Merger?",
-      "body": "Watch Can Musk Pull Off a SpaceX-Tesla Merger? Bloomberg",
+      "pubDate": "2026-06-17T20:22:47.000Z",
+      "title": "Can Musk Pull Off a SpaceX-Tesla Merger?",
+      "body": "Can Musk Pull Off a SpaceX-Tesla Merger? Bloomberg",
       "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/news/videos/2026-06-17/opinion-can-musk-pull-off-a-spacex-tesla-merger-video"
+      "href": "https://www.bloomberg.com/news/videos/2026-06-17/opinion-can-musk-pull-off-a-spacex-tesla-merger-video?srnd"
     },
     {
       "category": "musk",
@@ -108,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-17T17:57:01.000Z",
       "title": "JPMorgan says clients should be 'aggressive buyers' of this chip stock",
       "body": "JPMorgan says clients should be 'aggressive buyers' of this chip stock CNBC",
@@ -134,20 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-06-17T16:09:53.000Z",
-      "title": "Grok briefing you on today’s plan while Full Self-Driving takes you to work is probably the most immersive agentic ex…",
-      "body": "Grok briefing you on today’s plan while Full Self-Driving takes you to work is probably the most immersive agentic experience you will ever have.",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2067278569957638163"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-17T15:56:14.000Z",
       "title": "Uber takes on Waymo and Tesla with expanded robotaxi service in Houston",
       "body": "Uber takes on Waymo and Tesla with expanded robotaxi service in Houston CNBC",
@@ -158,30 +184,17 @@
       "href": "https://www.cnbc.com/video/2026/06/17/uber-takes-on-waymo-and-tesla-with-expanded-robotaxi-service-in-houston.html"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
-      "pubDate": "2026-06-17T15:25:09.000Z",
-      "title": "IMO, the best morale boost is to give employees hard problems that they are inspired to solve.",
-      "body": "IMO, the best morale boost is to give employees hard problems that they are inspired to solve. https://t.co/cQCD4AT4Rx",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2067267312072458701"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
-      "pubDate": "2026-06-17T14:59:10.000Z",
-      "title": "Tesla patent aims to improve common on-road complaint",
-      "body": "Tesla is continuing to push the boundaries of vehicle dynamics, as its latest published patent, US12654505B2, or “Suspension Actuator System for a Vehicle,’ which has finally been pushed through. The design, which is cre…",
-      "sourceName": "www.teslarati.com",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "8h ago",
+      "pubDate": "2026-06-17T14:26:00.000Z",
+      "title": "BMW Stock Drops as China Slump Forces Shocking Guidance Cut",
+      "body": "BMW Stock Drops as China Slump Forces Shocking Guidance Cut Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/tesla-patent-aims-to-improve-common-on-road-complaint/"
+      "href": "https://www.barrons.com/articles/bmw-guidance-cut-china-car-stocks-e935f652"
     },
     {
       "category": "product",
@@ -221,19 +234,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/17/wednesdays-biggest-analyst-calls-include-nvidia-tesla-micron.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
-      "pubDate": "2026-06-17T10:27:47.000Z",
-      "title": "Check out Comcast Corp's stock price (CMCSA) in real time",
-      "body": "Check out Comcast Corp's stock price (CMCSA) in real time CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/quotes/CMCSA"
     },
     {
       "category": "stock",
