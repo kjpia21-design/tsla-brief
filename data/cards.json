@@ -3,22 +3,42 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-17T03:55:09.000Z",
-      "title": "일론 머스크, xAI 이미지 AI <em>그록 이매진 1.5</em> 전면 배포 선언",
-      "hotShort": "일론, xAI <em>그록 이매진 1.5</em> 전면 배포",
-      "body": "일론 머스크가 공식 X 계정을 통해 xAI 이미지 생성 AI 그록 이매진 1.5의 전면 배포를 직접 발표했다 — 제한 접근에서 일반 공개로의 전환으로, xAI의 이미지 AI 제품군이 범용 사용자 단계로 확장됐다.",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "musk-grok-imagine-15-wide-release-2026-06-17",
-      "summary": "일론 머스크가 자신의 AI 회사 xAI가 개발한 이미지 생성 모델 그록 이매진(Grok Imagine) 1.5의 전면 배포(와이드 릴리즈)를 공식 X 계정을 통해 직접 선언했다. 그록 이매진은 xAI의 AI 어시스턴트 그록에 통합된 이미지 생성 기능으로, 버전 1.5는 이전 버전에서 업그레이드된 신모델이다.\n\n전면 배포는 기존 제한된 테스터 또는 얼리 액세스 단계에서 전체 사용자 베이스로 접근을 개방한다는 의미다. xAI는 머스크가 2023년 설립한 AI 회사로, 그록 대화 AI와 그록 이매진 이미지 AI를 주력 제품으로 개발 중이다. 이미지 생성 AI 시장에서 OpenAI의 DALL-E, 어도비 파이어플라이, 미드저니 등과 경쟁하는 구도다.\n\n테슬라 주주 관점에서 이번 발표는 테슬라 본업과 직접적 연관은 없다. 그록 이매진은 xAI 제품이며 테슬라와 별개 법인이다. 다만 머스크의 AI 생태계가 꾸준히 제품을 고도화·확장하고 있다는 배경 신호로 읽힌다. 현 단계에서 테슬라 FSD·옵티머스에 대한 직접적 영향은 없다.",
-      "title_en": "Elon Musk announces <em>Grok Imagine 1.5</em> now in wide release",
-      "hotShort_en": "Elon: <em>Grok Imagine 1.5</em> goes wide",
-      "body_en": "Elon Musk announced via his official X account that Grok Imagine 1.5 — xAI's image-generation model — has entered wide release, moving from limited access to general availability and marking another step in the buildout of xAI's AI product portfolio.",
-      "summary_en": "Elon Musk announced directly on his official X account that Grok Imagine 1.5 is now in wide release. Grok Imagine is xAI's image-generation capability integrated into the Grok AI assistant, with version 1.5 representing an upgraded model iteration now being made broadly available to the general public.\n\nWide release marks the transition from a restricted beta or limited-access phase to open availability for the broader Grok user base. xAI — founded by Musk in 2023 — is positioning Grok Imagine as a competitor to OpenAI's DALL-E, Midjourney, and Adobe Firefly in the AI image generation space. Specific performance improvements in version 1.5 were not detailed in the announcement.\n\nFor Tesla shareholders, this is not a direct Tesla business event — Grok Imagine is an xAI product, and xAI operates as a separate entity from Tesla. The announcement provides background context for investors tracking the Musk AI ecosystem broadly, but has no confirmed direct implications for Tesla's FSD or Optimus programs at this stage.",
-      "href": "https://x.com/elonmusk/status/2067093666792136855",
+      "time": "2h ago",
+      "pubDate": "2026-06-17T09:00:57.000Z",
+      "title": "NYT 매거진 \"머스크의 <em>델라웨어 전쟁</em>, 미국 기업법 판도 바꿀 것\"",
+      "hotShort": "NYT: 머스크 <em>델라웨어 전쟁</em>, 기업법 혁명 촉발",
+      "body": "뉴욕타임스 매거진이 일론 머스크의 델라웨어 법원과의 대립이 미국 기업법 구조 자체를 변화시킬 수 있다고 심층 분석했다 — 테슬라의 텍사스 재설립이 도화선이 돼 주요 기업들의 이탈 논의가 확산되며, 200년 역사의 델라웨어 기업법 패권이 흔들리기 시작했다.",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "musk-delaware-feud-corporate-law-2026-06-17",
+      "summary": "뉴욕타임스 매거진이 일론 머스크와 델라웨어주 사이의 법적 대립을 심층 분석한 장문 피처를 게재했다. 2024년 1월 델라웨어 형평법원(코트오브챈서리)이 테슬라 이사회가 머스크에게 부여한 약 560억 달러($56B) 규모의 스톡옵션 보상 패키지를 무효화한 것이 이 갈등의 직접적 발단이었다.\n\n이후 머스크는 공개적으로 델라웨어를 비판하며 기업들의 이탈을 촉구했다. 테슬라는 2024년 주주 투표를 통해 본점 등기지를 델라웨어에서 텍사스로 이전했다. NYT의 분석에 따르면 이후 다른 주요 기업들도 델라웨어 재설립을 재고하기 시작하며, 200년 넘게 미국 기업법의 중심이었던 델라웨어의 패권에 실질적 균열이 생겼다.\n\n미국 상장 기업의 약 70%가 델라웨어주에 등기를 두고 있다. 델라웨어는 유연한 기업법과 전문화된 기업 재판소(코트오브챈서리)로 독보적 지위를 유지해 왔다. 머스크의 도전은 다른 주들이 기업 유치 경쟁에 뛰어드는 계기가 됐다.\n\n테슬라 주주 관점에서, 테슬라는 이미 텍사스 이전을 완료해 이 갈등의 직접적 당사자에서 벗어났다. 그러나 미국 기업법 판도가 이 도전을 계기로 실제로 재편된다면, 이는 머스크의 기업가적 영향력이 자신의 사업을 넘어 미국 자본시장 규칙 자체를 바꾸는 단계로 확장됐음을 의미하며, 향후 테슬라 거버넌스 환경에도 장기적으로 유리한 변화를 시사한다.",
+      "title_en": "NYT Magazine: Musk's <em>Delaware feud</em> may transform corporate America",
+      "hotShort_en": "Musk's <em>Delaware</em> feud rewrites corp. law",
+      "body_en": "A New York Times Magazine deep feature examines how Elon Musk's legal feud with Delaware could fundamentally reshape U.S. corporate law — with Tesla's reincorporation to Texas having already triggered broader questioning among major U.S. companies about their ties to America's dominant corporate jurisdiction of two centuries.",
+      "summary_en": "The New York Times Magazine has published an in-depth feature on the widening consequences of Elon Musk's conflict with the state of Delaware. The feud's proximate cause was a January 2024 Delaware Court of Chancery ruling that voided Tesla's board-approved approximately $56 billion stock option compensation package for Musk — one of the largest executive pay awards in U.S. history.\n\nMusk responded by publicly criticizing Delaware and encouraging companies to relocate their legal homes. Tesla held a shareholder vote and reincorporated in Texas in 2024. According to the NYT's analysis, other major U.S. companies subsequently began reassessing their Delaware registrations, introducing real cracks in a two-century-old corporate hegemony.\n\nApproximately 70% of U.S. publicly traded companies are incorporated in Delaware, drawn by its flexible corporate statutes and specialized Court of Chancery. The Musk-Delaware conflict has prompted competing states to actively position themselves as alternative corporate homes — a structural shift the NYT feature argues is already underway.\n\nFor Tesla shareholders, the direct exposure is already resolved: Tesla completed its Texas reincorporation in 2024. But if Musk's challenge catalyzes a genuine restructuring of U.S. corporate law, it marks a significant expansion of his entrepreneurial influence — from disrupting industries to reshaping the legal rules governing American capitalism itself, with potential long-term governance benefits for companies led by founder-executives.",
+      "href": "https://www.nytimes.com/2026/06/17/magazine/elon-musk-delaware-corporate-law.html",
       "sentiment": "neutral",
-      "hot": 2
+      "hot": 8
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-17T09:00:17.000Z",
+      "title": "블룸버그 오피니언 \"SpaceX·테슬라 <em>점점 가까워진다</em> — 엔비디아 주목\"",
+      "hotShort": "블룸버그: SpaceX-테슬라 <em>수렴 시나리오</em> 가시화",
+      "body": "블룸버그 오피니언이 SpaceX IPO 이후 SpaceX와 테슬라가 전략·기술면에서 점점 더 가까워지고 있다고 분석했다 — 두 회사의 수렴이 가시화될 경우 AI·자율주행·우주 역량이 결합된 거대 기업이 탄생해, 엔비디아의 AI 컴퓨팅 시장 지배력에도 새로운 경쟁 변수가 된다는 논지다.",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-tesla-closer-nvidia-2026-06-17",
+      "summary": "블룸버그 오피니언이 SpaceX 나스닥 상장(2026년 6월 13일) 이후 SpaceX와 테슬라 사이의 전략적·기술적 수렴이 심화되고 있다고 분석했다. 칼럼 제목 'SpaceX-Tesla Inc. Is Inching Closer. Watch Out, Nvidia?'는 두 회사의 결합 또는 협력 심화가 현실적 논의 수준으로 가까워졌으며, 이 시나리오가 실현될 경우 엔비디아에게도 경쟁 위협이 된다는 논거를 담고 있다.\n\nSpaceX와 테슬라는 현재까지 공식 합병·통합 계획을 발표한 바 없다. 그러나 두 회사는 일론 머스크라는 공통 CEO를 공유하며, 스타링크 위성 네트워크·자율주행 연결성·AI 컴퓨팅 인프라 수요 등 사업·기술 측면의 시너지 가능성이 지속적으로 제기돼 왔다.\n\n엔비디아는 현재 AI 컴퓨팅 시장의 절대 강자다. 테슬라는 자체 AI 칩 도조(Dojo) 개발로 엔비디아 의존도를 낮추는 방향으로 나아가고 있으며, SpaceX의 컴퓨팅 역량이 더해진다면 독립적 AI 인프라 스택을 구축하는 대형 경쟁자가 등장할 수 있다는 것이 블룸버그 오피니언의 핵심 논거다.\n\n이 칼럼은 분석 의견(opinion)이며 확정된 사실 보도가 아니다. 테슬라 주주 관점에서, SpaceX IPO 이후 두 회사의 전략적 연결고리가 어떻게 진화하는지는 테슬라 밸류에이션의 중장기 업사이드를 결정하는 핵심 변수 중 하나다.",
+      "title_en": "Bloomberg Opinion: SpaceX and Tesla are <em>inching closer</em> — Watch Out, Nvidia",
+      "hotShort_en": "Bloomberg: SpaceX-Tesla <em>inching closer</em>",
+      "body_en": "A Bloomberg Opinion column argues that SpaceX and Tesla are inching strategically and technologically closer following SpaceX's Nasdaq IPO — and that if their convergence deepens, a company spanning AI, autonomy, and space would emerge as a new competitive variable for Nvidia's dominance in the AI computing market.",
+      "summary_en": "Bloomberg Opinion published a column arguing that SpaceX and Tesla are inching closer in the aftermath of SpaceX's record Nasdaq IPO on June 13, 2026. The column — titled 'SpaceX-Tesla Inc. Is Inching Closer. Watch Out, Nvidia?' — frames a deepening convergence between the two Musk-led companies as a scenario that has moved closer to realistic consideration, with implications broad enough to concern even Nvidia.\n\nNeither SpaceX nor Tesla has announced formal merger or combination plans. But the companies share a common CEO in Elon Musk, and their strategic and technical adjacencies have been a persistent market thesis — particularly around Starlink satellite connectivity and Tesla's autonomous fleet, shared AI compute demand, and the broader ambition to integrate AI, energy, transport, and space infrastructure.\n\nThe Nvidia angle in the column's thesis centers on compute: Tesla is building Dojo, its proprietary AI training chip, to reduce dependence on Nvidia GPU clusters. A deepened SpaceX-Tesla relationship, the argument goes, could represent a significant self-sufficient AI compute challenger to Nvidia's current infrastructure dominance.\n\nThis is opinion analysis — not reported news of a specific corporate action. For Tesla shareholders, the post-SpaceX-IPO convergence thesis is a key variable in assessing the long-term upside embedded in Tesla equity, and Bloomberg's willingness to frame it in these terms reflects how seriously the market is entertaining the scenario.",
+      "href": "https://www.bloomberg.com/opinion/articles/2026-06-17/spacex-tesla-inc-is-inching-closer-watch-out-nvidia",
+      "sentiment": "bull",
+      "hot": 5
     },
     {
       "category": "fsd",
@@ -39,26 +59,6 @@
       "href": "https://www.reuters.com/legal/litigation/us-senators-ask-review-teslas-full-self-driving-safety-data-citing-reuters-2026-06-16/",
       "sentiment": "bear",
       "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
-      "pubDate": "2026-06-16T16:31:08.000Z",
-      "title": "네덜란드 교통장관, 테슬라 FSD <em>유럽 승인 결정 옹호</em> — 로이터",
-      "hotShort": "네덜란드 교통장관, 테슬라 FSD <em>승인 공개 옹호</em>",
-      "body": "네덜란드 교통장관이 테슬라 FSD에 대한 자국의 승인 결정을 공개적으로 옹호했다고 로이터가 보도했다 — 지난주 로이터의 '테슬라가 유럽 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다'는 조사 보도 이후, 미국 의회의 검토 요청과 대비되는 유럽 현지 입장으로 FSD 규제 반응이 양안에서 엇갈리고 있다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "fsd-dutch-minister-defends-fsd-approval-2026-06-16",
-      "summary": "네덜란드 교통부 장관이 테슬라 FSD에 대한 자국의 승인 결정을 공개 옹호했다고 로이터가 보도했다. 이는 로이터가 지난주 게재한 조사 기사 — 테슬라가 유럽 자동차 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다는 내용 — 이후 나온 유럽 측 공식 반응이다.\n\n같은 날 미국에서는 복수의 의원이 동일 로이터 보도를 인용해 테슬라 FSD 안전 데이터의 공식 검토를 연방 기관에 요청했다. 양안에서 같은 보도에 대한 공식 대응이 정반대 방향으로 갈린 셈이다 — 미국 의회는 연방 기관의 실사를 요구하는 반면, 유럽 측 당사자 중 하나인 네덜란드 교통장관은 자국의 승인 판단을 재확인했다.\n\n테슬라 FSD의 유럽 시장 승인은 각 회원국이 EU 자동차 형식 승인 체계(UNECE/WP.29)에 따라 개별 심사를 거쳐 부여하는 구조다. 네덜란드 교통장관의 공개 옹호는 자국 규제 당국이 현재까지의 데이터와 심사 과정에 기반한 FSD 승인 결정을 여전히 유효하다고 본다는 신호다.\n\n테슬라 주주 관점에서, 유럽 내 규제 대응이 단일하지 않다는 것은 대서양 양안의 규제 리스크를 균형 있게 볼 이유다. 미국 의회의 검토 요청이 NHTSA 등 연방 기관의 실사로 이어질 가능성은 여전하지만, 일부 유럽 규제기관이 FSD 승인을 공개 옹호하는 국면에서 유럽 FSD 확장 경로가 단기에 전면 차단될 가능성은 낮아진다. 향후 어느 쪽 방향이 주도적 규제 흐름을 형성할지가 FSD 국제 타임라인의 핵심 변수다.",
-      "title_en": "Dutch transport minister <em>defends Tesla FSD</em> approval — Reuters",
-      "hotShort_en": "Dutch minister publicly <em>backs Tesla FSD</em> approval",
-      "body_en": "The Netherlands' transportation minister has publicly defended the country's decision to approve Tesla Full Self-Driving, Reuters reports — a contrasting official response to the same Reuters investigation that prompted multiple U.S. senators to request a formal federal review of Tesla's FSD safety data on the same day, with regulatory reactions diverging sharply on either side of the Atlantic.",
-      "summary_en": "The Netherlands' transportation minister publicly backed the country's approval of Tesla Full Self-Driving, according to Reuters. The statement comes in the context of Reuters' exclusive investigation published last week, which alleged that Tesla submitted misleading FSD safety data to European automotive regulatory authorities — an investigation that has prompted very different official responses on either side of the Atlantic.\n\nOn the same day the Dutch minister defended the approval, multiple U.S. senators cited that same Reuters report to formally request a review of Tesla's FSD safety records by U.S. federal agencies. The divergence is notable: American legislators are pushing for federal-level scrutiny, while at least one European regulatory party — the Netherlands, where FSD has been approved for use — is publicly reaffirming its approval decision.\n\nTesla FSD's European market entry is structured through each EU member state's vehicle type-approval process under the UNECE/WP.29 framework, with each jurisdiction conducting its own safety assessment. The Dutch minister's public defense signals that the Netherlands' regulatory authority remains confident in the basis of its FSD approval, even as the Reuters controversy has placed European FSD approvals under broader scrutiny.\n\nFor Tesla shareholders, the divergence in regulatory responses reduces the near-term risk of a rapid, coordinated European regulatory reversal on FSD approvals. While U.S. legislative pressure continues to build, the fact that a European regulatory party is publicly defending FSD approval suggests that FSD's commercial pathway in Europe has not been uniformly disrupted by the Reuters investigation. The key variable going forward is whether other European regulators align with the Dutch position or move toward a more critical posture — a dynamic that will directly shape Tesla FSD's international timeline.",
-      "href": "https://www.reuters.com/business/dutch-transportation-minister-defends-tesla-fsd-approval-2026-06-16/",
-      "sentiment": "bull",
-      "hot": 5
     },
     {
       "category": "fsd",
@@ -106,5 +106,5 @@
       "hot": 4
     }
   ],
-  "asOf": "2026-06-17 16:11 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-17 19:30 KST 자동 갱신 · 최신순"
 }
