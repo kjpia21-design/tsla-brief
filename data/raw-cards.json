@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-06-17 00:55 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-17 02:55 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "2h ago",
-      "pubDate": "2026-06-16T23:25:39.000Z",
+      "pubDate": "2026-06-17T01:24:49.000Z",
       "title": "Tesla urges New Jersey owners to oppose new bill that could block Robotaxi",
       "body": "Tesla urges New Jersey owners to oppose new bill that could block Robotaxi Teslarati",
       "sourceName": "Teslarati",
@@ -15,62 +15,36 @@
       "href": "https://www.teslarati.com/tesla-urges-new-jersey-owners-to-oppose-new-bill-block-robotaxi/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
-      "pubDate": "2026-06-16T23:22:48.000Z",
-      "title": "Mad Money with Jim Cramer: Episode Recaps, Stock Picks, Lightning Rounds",
-      "body": "Mad Money with Jim Cramer: Episode Recaps, Stock Picks, Lightning Rounds CNBC",
-      "sourceName": "CNBC",
+      "pubDate": "2026-06-17T01:10:00.000Z",
+      "title": "Elon Musk Is Unleashing SpaceX’s New War Chest to Solve His AI Problem",
+      "body": "Elon Musk Is Unleashing SpaceX’s New War Chest to Solve His AI Problem WSJ",
+      "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/mad-money/"
+      "href": "https://www.wsj.com/tech/ai/elon-musk-is-unleashing-spacexs-new-war-chest-to-solve-his-ai-problem-255f4969"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-16T22:25:00.000Z",
-      "title": "SpaceX Options Are Heavily Traded on First Day. Call Volume is Fifth Highest.",
-      "body": "SpaceX Options Are Heavily Traded on First Day. Call Volume is Fifth Highest. Barron's",
-      "sourceName": "Barron's",
+      "time": "4h ago",
+      "pubDate": "2026-06-16T22:41:46.000Z",
+      "title": "What SpaceX Means for the Buy-and-Hold Crowd",
+      "body": "What SpaceX Means for the Buy-and-Hold Crowd Bloomberg",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-options-volume-calls-puts-ef54c9e0"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-16T22:14:40.000Z",
-      "title": "DO NOT USE Consumer",
-      "body": "DO NOT USE Consumer CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/consumers/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-16T22:07:20.000Z",
-      "title": "The U.S. and Iran Tamp Down Heated Rhetoric",
-      "body": "The U.S. and Iran Tamp Down Heated Rhetoric The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/2026/06/16/briefing/us-iran-deal-primary-elections.html"
+      "href": "https://www.bloomberg.com/news/newsletters/2026-06-16/retail-investors-are-loving-the-spacex-ipo-what-happens-next"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-16T21:58:01.000Z",
+      "time": "5h ago",
+      "pubDate": "2026-06-16T22:00:01.000Z",
       "title": "Closing Bell: Overtime breaking news, corporate earnings and post-market trading",
       "body": "Closing Bell: Overtime breaking news, corporate earnings and post-market trading CNBC",
       "sourceName": "CNBC",
@@ -82,7 +56,33 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
+      "pubDate": "2026-06-16T21:37:00.000Z",
+      "title": "Opinion | Why Does Trump Hate Anthropic?",
+      "body": "Opinion | Why Does Trump Hate Anthropic? WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/opinion/anthropic-donald-trump-china-ai-pentagon-37896148"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-06-16T21:21:03.000Z",
+      "title": "SpaceX: Trending News, Latest Updates, Analysis",
+      "body": "SpaceX: Trending News, Latest Updates, Analysis Bloomberg",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://bloomberg.com/latest/spacex"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
       "pubDate": "2026-06-16T21:15:27.000Z",
       "title": "SpaceX options debut pulls record demand as investors chase rocket stock",
       "body": "SpaceX options debut pulls record demand as investors chase rocket stock Reuters",
@@ -93,35 +93,9 @@
       "href": "https://www.reuters.com/business/options-spacex-shares-start-trading-2026-06-16/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-16T21:09:13.000Z",
-      "title": "SpaceX vaults past Amazon's market value as options listing fuels surge",
-      "body": "SpaceX vaults past Amazon's market value as options listing fuels surge Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/legal/transactional/spacex-set-surpass-amazons-market-cap-post-ipo-rally-continues-2026-06-16/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-06-16T20:33:00.000Z",
-      "title": "More Robo-Taxis Are Coming. This Stock Is Getting a Boost.",
-      "body": "More Robo-Taxis Are Coming. This Stock Is Getting a Boost. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/mobileye-stock-robo-taxis-49418366"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-16T19:02:53.000Z",
       "title": "Power Lunch: Latest News, Clips and Schedule",
       "body": "Power Lunch: Latest News, Clips and Schedule CNBC",
@@ -134,20 +108,20 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-16T19:00:54.000Z",
-      "title": "CNBC Europe Video News Clips on the Stock Market",
-      "body": "CNBC Europe Video News Clips on the Stock Market CNBC",
-      "sourceName": "CNBC",
+      "time": "9h ago",
+      "pubDate": "2026-06-16T18:12:00.000Z",
+      "title": "Qualcomm Is Eyeing a Massive AI Pivot. Why Wall Street Is Still Cautious.",
+      "body": "Qualcomm Is Eyeing a Massive AI Pivot. Why Wall Street Is Still Cautious. Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/europe-video/"
+      "href": "https://www.barrons.com/articles/qualcomm-stock-price-target-catalyst-d878e040"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-16T18:06:07.000Z",
       "title": "Rivian trims workforce by about 2% amid profitability push",
       "body": "Rivian trims workforce by about 2% amid profitability push Reuters",
@@ -160,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-16T18:06:07.000Z",
       "title": "Rivian trims workforce by about 2% amid profitability push",
       "body": "Rivian trims workforce by about 2% amid profitability push Reuters",
@@ -173,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-16T16:41:59.000Z",
       "title": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report",
       "body": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report Reuters",
@@ -186,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-16T16:33:00.000Z",
       "title": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers",
       "body": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers WSJ",
@@ -199,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-16T16:31:08.000Z",
       "title": "Dutch transportation minister defends Tesla FSD approval",
       "body": "Dutch transportation minister defends Tesla FSD approval Reuters",
@@ -210,9 +184,22 @@
       "href": "https://www.reuters.com/business/dutch-transportation-minister-defends-tesla-fsd-approval-2026-06-16/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "11h ago",
+      "pubDate": "2026-06-16T16:25:47.000Z",
+      "title": "Self-driving tech supplier Mobileye plans US robotaxi service next year",
+      "body": "Self-driving tech supplier Mobileye plans US robotaxi service next year Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/technology/mobileye-launch-robotaxi-business-us-2027-2026-06-16/"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-16T16:23:44.000Z",
       "title": "Argentina's YPF, Tesla to explore EV charging, energy storage collaboration",
       "body": "Argentina's YPF, Tesla to explore EV charging, energy storage collaboration Reuters",
@@ -225,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-16T15:15:01.000Z",
       "title": "This AI play is no longer a 'hidden gem,' but Wall Street is still underestimating its potential, says Melius",
       "body": "This AI play is no longer a 'hidden gem,' but Wall Street is still underestimating its potential, says Melius CNBC",
@@ -236,22 +223,9 @@
       "href": "https://www.cnbc.com/2026/06/16/nvent-no-longer-a-hidden-gem-but-melius-likes-its-potential.html"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
-      "pubDate": "2026-06-16T14:43:04.000Z",
-      "title": "TSLA.OQ",
-      "body": "TSLA.OQ Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/markets/companies/TSLA.OQ/key-metrics/income-statement/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-16T13:20:21.000Z",
       "title": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market",
       "body": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market CNBC",
@@ -260,6 +234,32 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/16/carvana-new-cars-dealerships.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "14h ago",
+      "pubDate": "2026-06-16T12:53:22.000Z",
+      "title": "We're buying more of a tech stock with a bright long-term future",
+      "body": "We're buying more of a tech stock with a bright long-term future CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/16/were-buying-more-of-a-tech-stock-with-a-bright-long-term-future-.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "14h ago",
+      "pubDate": "2026-06-16T12:47:14.000Z",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "body": "Jim Cramer's top 10 things to watch in the stock market Tuesday CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday-.html"
     }
   ]
 }
