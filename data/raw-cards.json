@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-17 04:48 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-17 04:50 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "37m ago",
+      "pubDate": "2026-06-17T04:13:11.000Z",
+      "title": "Cybertruck smart summon is absolutely insane. It’s a rolling chariot remote control car. @that1evguyjay",
+      "body": "Cybertruck smart summon is absolutely insane. It’s a rolling chariot remote control car. @that1evguyjay https://t.co/zD4JtV1zOm",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2067098203921780864"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "39m ago",
+      "time": "41m ago",
       "pubDate": "2026-06-17T04:09:30.000Z",
       "title": "Transcript: Extended version — Why Elizabeth Warren is worried about SpaceX",
       "body": "Transcript: Extended version — Why Elizabeth Warren is worried about SpaceX Financial Times",
@@ -17,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "46m ago",
+      "time": "48m ago",
       "pubDate": "2026-06-17T04:02:30.000Z",
       "title": "Transcript: Why Elizabeth Warren is worried about SpaceX",
       "body": "Transcript: Why Elizabeth Warren is worried about SpaceX Financial Times",
@@ -30,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "48m ago",
+      "time": "50m ago",
       "pubDate": "2026-06-17T04:00:44.000Z",
       "title": "Elon Musk: Wall Street’s new roll-up artist",
       "body": "Elon Musk: Wall Street’s new roll-up artist Financial Times",
@@ -39,6 +52,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/0ce5d6f0-9417-42ba-839f-e81dbd62d6ff"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "55m ago",
+      "pubDate": "2026-06-17T03:55:09.000Z",
+      "title": "Grok Imagine 1.5 is now in wide release",
+      "body": "Grok Imagine 1.5 is now in wide release https://t.co/xmFXppmSLU",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2067093666792136855"
     },
     {
       "category": "fsd",
@@ -56,15 +82,15 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-17T01:10:00.000Z",
-      "title": "Elon Musk Is Unleashing SpaceX’s New War Chest to Solve His AI Problem",
-      "body": "Elon Musk Is Unleashing SpaceX’s New War Chest to Solve His AI Problem WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
+      "time": "1h ago",
+      "pubDate": "2026-06-17T03:37:20.000Z",
+      "title": "Nashville getting drilled",
+      "body": "Nashville getting drilled https://t.co/qsnXPEO89l",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/tech/ai/elon-musk-is-unleashing-spacexs-new-war-chest-to-solve-his-ai-problem-255f4969"
+      "href": "https://x.com/elonmusk/status/2067089181994827863"
     },
     {
       "category": "fsd",
@@ -80,17 +106,17 @@
       "href": "https://www.teslarati.com/tesla-navigation-nightmare-easiest-part-fsd-hardest/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-16T22:51:03.000Z",
-      "title": "SpaceX: Trending News, Latest Updates, Analysis",
-      "body": "SpaceX: Trending News, Latest Updates, Analysis Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "7h ago",
+      "pubDate": "2026-06-16T22:00:40.000Z",
+      "title": "Closing Bell: Overtime breaking news, corporate earnings and post-market trading",
+      "body": "Closing Bell: Overtime breaking news, corporate earnings and post-market trading CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://bloomberg.com/latest/spacex"
+      "href": "https://www.cnbc.com/closing-bell-overtime/"
     },
     {
       "category": "stock",
@@ -195,32 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/16/nvent-no-longer-a-hidden-gem-but-melius-likes-its-potential.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "14h ago",
-      "pubDate": "2026-06-16T14:43:04.000Z",
-      "title": "TSLA.OQ",
-      "body": "TSLA.OQ Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/markets/companies/TSLA.OQ/key-metrics/income-statement/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
-      "pubDate": "2026-06-16T13:20:21.000Z",
-      "title": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market",
-      "body": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/16/carvana-new-cars-dealerships.html"
     },
     {
       "category": "stock",
