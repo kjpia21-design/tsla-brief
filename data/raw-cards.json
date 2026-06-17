@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-17 06:50 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-17 08:50 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "27m ago",
+      "pubDate": "2026-06-17T08:23:39.000Z",
+      "title": "Trying to recreate the opening of my favorite childhood Chinese game on DOS -- 仙劍奇俠傳. It's pretty good with one shot. 😃",
+      "body": "Trying to recreate the opening of my favorite childhood Chinese game on DOS -- 仙劍奇俠傳. It's pretty good with one shot. 😃 https://t.co/es4ivfv2To https://t.co/oXNX7AIW1m",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2067161238124249459"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "47m ago",
+      "pubDate": "2026-06-17T08:03:25.000Z",
+      "title": "My favorite prompt -- monitor CI and comments, address them if necessary, and give me an executive summary at 7am.",
+      "body": "My favorite prompt -- monitor CI and comments, address them if necessary, and give me an executive summary at 7am.",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2067156146532868393"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "52m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-17T05:58:39.000Z",
       "title": "Just follow SpaceX if you want news about our company",
       "body": "Just follow SpaceX if you want news about our company https://t.co/ZsgCWHGomC",
@@ -15,23 +41,10 @@
       "href": "https://x.com/elonmusk/status/2067124745146171701"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-06-17T04:13:11.000Z",
-      "title": "Cybertruck smart summon is absolutely insane. It’s a rolling chariot remote control car. @that1evguyjay",
-      "body": "Cybertruck smart summon is absolutely insane. It’s a rolling chariot remote control car. @that1evguyjay https://t.co/zD4JtV1zOm",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2067098203921780864"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-17T04:09:30.000Z",
+      "time": "5h ago",
+      "pubDate": "2026-06-17T04:08:20.000Z",
       "title": "Transcript: Extended version — Why Elizabeth Warren is worried about SpaceX",
       "body": "Transcript: Extended version — Why Elizabeth Warren is worried about SpaceX Financial Times",
       "sourceName": "Financial Times",
@@ -41,10 +54,36 @@
       "href": "https://www.ft.com/content/05a8f8f8-df3a-4626-a8c4-908c66be6f79"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5h ago",
+      "pubDate": "2026-06-17T04:00:44.000Z",
+      "title": "Defence not likely to be a panacea for European carmakers",
+      "body": "Defence not likely to be a panacea for European carmakers Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/0bc85809-0a9f-4110-bf8d-a3c276f12a60?syn-25a6b1a6"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "5h ago",
+      "pubDate": "2026-06-17T04:00:44.000Z",
+      "title": "Defence not likely to be a panacea for European carmakers",
+      "body": "Defence not likely to be a panacea for European carmakers Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/0bc85809-0a9f-4110-bf8d-a3c276f12a60?syn-25a6b1a6"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-17T04:01:41.000Z",
+      "time": "5h ago",
+      "pubDate": "2026-06-17T04:00:44.000Z",
       "title": "Elon Musk: Wall Street’s new roll-up artist",
       "body": "Elon Musk: Wall Street’s new roll-up artist Financial Times",
       "sourceName": "Financial Times",
@@ -56,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-17T03:59:10.000Z",
       "title": "Transcript: Why Elizabeth Warren is worried about SpaceX",
       "body": "Transcript: Why Elizabeth Warren is worried about SpaceX Financial Times",
@@ -69,33 +108,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-17T03:55:09.000Z",
-      "title": "Grok Imagine 1.5 is now in wide release",
-      "body": "Grok Imagine 1.5 is now in wide release https://t.co/xmFXppmSLU",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2067093666792136855"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
-      "pubDate": "2026-06-16T20:33:00.000Z",
-      "title": "More Robo-Taxis Are Coming. This Stock Is Getting a Boost.",
-      "body": "More Robo-Taxis Are Coming. This Stock Is Getting a Boost. Barron's",
-      "sourceName": "Barron's",
+      "time": "5h ago",
+      "pubDate": "2026-06-17T03:21:07.000Z",
+      "title": "SpaceX: Trending News, Latest Updates, Analysis",
+      "body": "SpaceX: Trending News, Latest Updates, Analysis Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/mobileye-stock-robo-taxis-49418366"
+      "href": "https://bloomberg.com/latest/spacex"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-16T18:12:00.000Z",
       "title": "Qualcomm Is Eyeing a Massive AI Pivot. Why Wall Street Is Still Cautious.",
       "body": "Qualcomm Is Eyeing a Massive AI Pivot. Why Wall Street Is Still Cautious. Barron's",
@@ -108,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-16T18:06:07.000Z",
       "title": "Rivian trims workforce by about 2% amid profitability push",
       "body": "Rivian trims workforce by about 2% amid profitability push Reuters",
@@ -121,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-16T18:06:07.000Z",
       "title": "Rivian trims workforce by about 2% amid profitability push",
       "body": "Rivian trims workforce by about 2% amid profitability push Reuters",
@@ -134,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-16T16:41:59.000Z",
       "title": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report",
       "body": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report Reuters",
@@ -147,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-16T16:33:00.000Z",
       "title": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers",
       "body": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers WSJ",
@@ -158,35 +184,9 @@
       "href": "https://www.wsj.com/business/autos/ev-startup-rivian-lays-off-hundreds-of-workers-40033fc8"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
-      "pubDate": "2026-06-16T16:31:08.000Z",
-      "title": "Dutch transportation minister defends Tesla FSD approval",
-      "body": "Dutch transportation minister defends Tesla FSD approval Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/dutch-transportation-minister-defends-tesla-fsd-approval-2026-06-16/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
-      "pubDate": "2026-06-16T16:25:47.000Z",
-      "title": "Self-driving tech supplier Mobileye plans US robotaxi service next year",
-      "body": "Self-driving tech supplier Mobileye plans US robotaxi service next year Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/technology/mobileye-launch-robotaxi-business-us-2027-2026-06-16/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-16T16:23:44.000Z",
       "title": "Argentina's YPF, Tesla to explore EV charging, energy storage collaboration",
       "body": "Argentina's YPF, Tesla to explore EV charging, energy storage collaboration Reuters",
@@ -199,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-16T15:15:01.000Z",
       "title": "This AI play is no longer a 'hidden gem,' but Wall Street is still underestimating its potential, says Melius",
       "body": "This AI play is no longer a 'hidden gem,' but Wall Street is still underestimating its potential, says Melius CNBC",
@@ -212,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-06-16T12:53:22.000Z",
       "title": "We're buying more of a tech stock with a bright long-term future",
       "body": "We're buying more of a tech stock with a bright long-term future CNBC",
@@ -225,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-06-16T12:47:14.000Z",
       "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
       "body": "Jim Cramer's top 10 things to watch in the stock market Tuesday CNBC",
@@ -238,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-06-16T12:05:03.000Z",
       "title": "This cybersecurity stock could soar on AI tailwinds. UBS says to buy it now",
       "body": "This cybersecurity stock could soar on AI tailwinds. UBS says to buy it now CNBC",
@@ -251,15 +251,15 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "22h ago",
-      "pubDate": "2026-06-16T08:37:12.000Z",
-      "title": "Stocks",
-      "body": "Stocks Bloomberg",
-      "sourceName": "Bloomberg",
+      "time": "23h ago",
+      "pubDate": "2026-06-16T10:12:00.000Z",
+      "title": "Qualcomm Stock Shakes Off Smartphone, PC Fears as AI Chip Excitement Grows",
+      "body": "Qualcomm Stock Shakes Off Smartphone, PC Fears as AI Chip Excitement Grows Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/profile/person/25499143"
+      "href": "https://www.barrons.com/articles/qualcomm-stock-price-ai-chips-d878e040?mod"
     }
   ]
 }

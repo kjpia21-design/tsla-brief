@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-17 06:50 UTC · 누적 345건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-17 08:50 UTC · 누적 346건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-17T03:55:09.000Z",
+      "title": "일론 머스크, xAI 이미지 AI <em>그록 이매진 1.5</em> 전면 배포 선언",
+      "hotShort": "일론, xAI <em>그록 이매진 1.5</em> 전면 배포",
+      "body": "일론 머스크가 공식 X 계정을 통해 xAI 이미지 생성 AI 그록 이매진 1.5의 전면 배포를 직접 발표했다 — 제한 접근에서 일반 공개로의 전환으로, xAI의 이미지 AI 제품군이 범용 사용자 단계로 확장됐다.",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "musk-grok-imagine-15-wide-release-2026-06-17",
+      "summary": "일론 머스크가 자신의 AI 회사 xAI가 개발한 이미지 생성 모델 그록 이매진(Grok Imagine) 1.5의 전면 배포(와이드 릴리즈)를 공식 X 계정을 통해 직접 선언했다. 그록 이매진은 xAI의 AI 어시스턴트 그록에 통합된 이미지 생성 기능으로, 버전 1.5는 이전 버전에서 업그레이드된 신모델이다.\n\n전면 배포는 기존 제한된 테스터 또는 얼리 액세스 단계에서 전체 사용자 베이스로 접근을 개방한다는 의미다. xAI는 머스크가 2023년 설립한 AI 회사로, 그록 대화 AI와 그록 이매진 이미지 AI를 주력 제품으로 개발 중이다. 이미지 생성 AI 시장에서 OpenAI의 DALL-E, 어도비 파이어플라이, 미드저니 등과 경쟁하는 구도다.\n\n테슬라 주주 관점에서 이번 발표는 테슬라 본업과 직접적 연관은 없다. 그록 이매진은 xAI 제품이며 테슬라와 별개 법인이다. 다만 머스크의 AI 생태계가 꾸준히 제품을 고도화·확장하고 있다는 배경 신호로 읽힌다. 현 단계에서 테슬라 FSD·옵티머스에 대한 직접적 영향은 없다.",
+      "title_en": "Elon Musk announces <em>Grok Imagine 1.5</em> now in wide release",
+      "hotShort_en": "Elon: <em>Grok Imagine 1.5</em> goes wide",
+      "body_en": "Elon Musk announced via his official X account that Grok Imagine 1.5 — xAI's image-generation model — has entered wide release, moving from limited access to general availability and marking another step in the buildout of xAI's AI product portfolio.",
+      "summary_en": "Elon Musk announced directly on his official X account that Grok Imagine 1.5 is now in wide release. Grok Imagine is xAI's image-generation capability integrated into the Grok AI assistant, with version 1.5 representing an upgraded model iteration now being made broadly available to the general public.\n\nWide release marks the transition from a restricted beta or limited-access phase to open availability for the broader Grok user base. xAI — founded by Musk in 2023 — is positioning Grok Imagine as a competitor to OpenAI's DALL-E, Midjourney, and Adobe Firefly in the AI image generation space. Specific performance improvements in version 1.5 were not detailed in the announcement.\n\nFor Tesla shareholders, this is not a direct Tesla business event — Grok Imagine is an xAI product, and xAI operates as a separate entity from Tesla. The announcement provides background context for investors tracking the Musk AI ecosystem broadly, but has no confirmed direct implications for Tesla's FSD or Optimus programs at this stage.",
+      "href": "https://x.com/elonmusk/status/2067093666792136855",
+      "sentiment": "neutral",
+      "hot": 2
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -185,7 +205,12 @@
       "summary_en": "Mobileye — a Nasdaq-listed autonomous driving technology supplier — has announced plans to begin a U.S. robotaxi service in 2027, according to Reuters. Mobileye currently supplies autonomous driving systems to vehicle OEMs including BMW and Volkswagen, and the planned robotaxi launch represents a strategic push into direct consumer-facing autonomous transportation.\n\nThe 2027 timeline places Mobileye in direct competitive overlap with Tesla's Cybercab rollout. With Alphabet's Waymo already operating commercially in San Francisco, Phoenix, and Los Angeles, Mobileye's entry announcement means at least three independent operators are now targeting U.S. commercial autonomous ride-hailing in roughly the same timeframe.\n\nFor Tesla shareholders, a more competitive autonomous ride-hailing landscape carries a nuanced read. The entry of credible, well-funded competitors validates the commercial reality of robotaxi services as a viable category. At the same time, Tesla's long-term differentiation will increasingly be evaluated on real execution metrics: fleet scale, cost per mile, geographic footprint, safety record, and the degree to which FSD's proprietary data advantage translates into a durable competitive moat.",
       "href": "https://www.reuters.com/technology/mobileye-launch-robotaxi-business-us-2027-2026-06-16/",
       "sentiment": "neutral",
-      "hot": 4
+      "hot": 4,
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "Barron's"
+      ]
     },
     {
       "category": "musk",
