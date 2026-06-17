@@ -3,7 +3,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-16T22:42:37.000Z",
       "title": "테슬라, 뉴저지 차주에 <em>로보택시 차단 법안</em> 반대 촉구",
       "hotShort": "테슬라, 뉴저지 <em>로보택시 차단 법안</em> 반대 나서",
@@ -23,7 +23,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-16T20:10:50.000Z",
       "title": "SpaceX IPO 랠리 <em>+49%</em> — 마이크로소프트·아마존 시총 동시 추월, 옵션도 사상 최대",
       "hotShort": "SpaceX, IPO 3일 만에 <em>+49% 랠리</em>로 MS·아마존 추월",
@@ -47,9 +47,29 @@
       "hot": 6
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "9h ago",
+      "pubDate": "2026-06-16T16:31:08.000Z",
+      "title": "네덜란드 교통장관, 테슬라 FSD <em>유럽 승인 결정 옹호</em> — 로이터",
+      "hotShort": "네덜란드 교통장관, 테슬라 FSD <em>승인 공개 옹호</em>",
+      "body": "네덜란드 교통장관이 테슬라 FSD에 대한 자국의 승인 결정을 공개적으로 옹호했다고 로이터가 보도했다 — 지난주 로이터의 '테슬라가 유럽 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다'는 조사 보도 이후, 미국 의회의 검토 요청과 대비되는 유럽 현지 입장으로 FSD 규제 반응이 양안에서 엇갈리고 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-dutch-minister-defends-fsd-approval-2026-06-16",
+      "summary": "네덜란드 교통부 장관이 테슬라 FSD에 대한 자국의 승인 결정을 공개 옹호했다고 로이터가 보도했다. 이는 로이터가 지난주 게재한 조사 기사 — 테슬라가 유럽 자동차 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다는 내용 — 이후 나온 유럽 측 공식 반응이다.\n\n같은 날 미국에서는 복수의 의원이 동일 로이터 보도를 인용해 테슬라 FSD 안전 데이터의 공식 검토를 연방 기관에 요청했다. 양안에서 같은 보도에 대한 공식 대응이 정반대 방향으로 갈린 셈이다 — 미국 의회는 연방 기관의 실사를 요구하는 반면, 유럽 측 당사자 중 하나인 네덜란드 교통장관은 자국의 승인 판단을 재확인했다.\n\n테슬라 FSD의 유럽 시장 승인은 각 회원국이 EU 자동차 형식 승인 체계(UNECE/WP.29)에 따라 개별 심사를 거쳐 부여하는 구조다. 네덜란드 교통장관의 공개 옹호는 자국 규제 당국이 현재까지의 데이터와 심사 과정에 기반한 FSD 승인 결정을 여전히 유효하다고 본다는 신호다.\n\n테슬라 주주 관점에서, 유럽 내 규제 대응이 단일하지 않다는 것은 대서양 양안의 규제 리스크를 균형 있게 볼 이유다. 미국 의회의 검토 요청이 NHTSA 등 연방 기관의 실사로 이어질 가능성은 여전하지만, 일부 유럽 규제기관이 FSD 승인을 공개 옹호하는 국면에서 유럽 FSD 확장 경로가 단기에 전면 차단될 가능성은 낮아진다. 향후 어느 쪽 방향이 주도적 규제 흐름을 형성할지가 FSD 국제 타임라인의 핵심 변수다.",
+      "title_en": "Dutch transport minister <em>defends Tesla FSD</em> approval — Reuters",
+      "hotShort_en": "Dutch minister publicly <em>backs Tesla FSD</em> approval",
+      "body_en": "The Netherlands' transportation minister has publicly defended the country's decision to approve Tesla Full Self-Driving, Reuters reports — a contrasting official response to the same Reuters investigation that prompted multiple U.S. senators to request a formal federal review of Tesla's FSD safety data on the same day, with regulatory reactions diverging sharply on either side of the Atlantic.",
+      "summary_en": "The Netherlands' transportation minister publicly backed the country's approval of Tesla Full Self-Driving, according to Reuters. The statement comes in the context of Reuters' exclusive investigation published last week, which alleged that Tesla submitted misleading FSD safety data to European automotive regulatory authorities — an investigation that has prompted very different official responses on either side of the Atlantic.\n\nOn the same day the Dutch minister defended the approval, multiple U.S. senators cited that same Reuters report to formally request a review of Tesla's FSD safety records by U.S. federal agencies. The divergence is notable: American legislators are pushing for federal-level scrutiny, while at least one European regulatory party — the Netherlands, where FSD has been approved for use — is publicly reaffirming its approval decision.\n\nTesla FSD's European market entry is structured through each EU member state's vehicle type-approval process under the UNECE/WP.29 framework, with each jurisdiction conducting its own safety assessment. The Dutch minister's public defense signals that the Netherlands' regulatory authority remains confident in the basis of its FSD approval, even as the Reuters controversy has placed European FSD approvals under broader scrutiny.\n\nFor Tesla shareholders, the divergence in regulatory responses reduces the near-term risk of a rapid, coordinated European regulatory reversal on FSD approvals. While U.S. legislative pressure continues to build, the fact that a European regulatory party is publicly defending FSD approval suggests that FSD's commercial pathway in Europe has not been uniformly disrupted by the Reuters investigation. The key variable going forward is whether other European regulators align with the Dutch position or move toward a more critical posture — a dynamic that will directly shape Tesla FSD's international timeline.",
+      "href": "https://www.reuters.com/business/dutch-transportation-minister-defends-tesla-fsd-approval-2026-06-16/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-16T16:23:44.000Z",
       "title": "아르헨티나 국영 YPF, 테슬라와 <em>EV 충전·에너지 저장</em> 협력 탐색",
       "hotShort": "아르헨티나 YPF, 테슬라와 <em>에너지 저장</em> 협력 착수",
@@ -69,7 +89,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-16T14:47:33.000Z",
       "title": "미국 의원들, 테슬라 FSD <em>안전 데이터 검토</em> 공식 요청 — 로이터 보도 인용",
       "hotShort": "미 의원들, 테슬라 FSD <em>안전 데이터 검토</em> 요청",
@@ -89,7 +109,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-16T14:05:30.000Z",
       "title": "골드만삭스, 테슬라 <em>2분기 인도량 기대 상회</em> 전망 공개",
       "hotShort": "골드만삭스, 테슬라 2Q 인도 <em>기대 이상</em> 전망",
@@ -107,5 +127,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-06-17 08:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-17 10:30 KST 자동 갱신 · 최신순"
 }
