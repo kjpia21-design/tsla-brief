@@ -4,6 +4,26 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "3h ago",
+      "pubDate": "2026-06-17T03:55:09.000Z",
+      "title": "일론 머스크, xAI 이미지 AI <em>그록 이매진 1.5</em> 전면 배포 선언",
+      "hotShort": "일론, xAI <em>그록 이매진 1.5</em> 전면 배포",
+      "body": "일론 머스크가 공식 X 계정을 통해 xAI 이미지 생성 AI 그록 이매진 1.5의 전면 배포를 직접 발표했다 — 제한 접근에서 일반 공개로의 전환으로, xAI의 이미지 AI 제품군이 범용 사용자 단계로 확장됐다.",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "musk-grok-imagine-15-wide-release-2026-06-17",
+      "summary": "일론 머스크가 자신의 AI 회사 xAI가 개발한 이미지 생성 모델 그록 이매진(Grok Imagine) 1.5의 전면 배포(와이드 릴리즈)를 공식 X 계정을 통해 직접 선언했다. 그록 이매진은 xAI의 AI 어시스턴트 그록에 통합된 이미지 생성 기능으로, 버전 1.5는 이전 버전에서 업그레이드된 신모델이다.\n\n전면 배포는 기존 제한된 테스터 또는 얼리 액세스 단계에서 전체 사용자 베이스로 접근을 개방한다는 의미다. xAI는 머스크가 2023년 설립한 AI 회사로, 그록 대화 AI와 그록 이매진 이미지 AI를 주력 제품으로 개발 중이다. 이미지 생성 AI 시장에서 OpenAI의 DALL-E, 어도비 파이어플라이, 미드저니 등과 경쟁하는 구도다.\n\n테슬라 주주 관점에서 이번 발표는 테슬라 본업과 직접적 연관은 없다. 그록 이매진은 xAI 제품이며 테슬라와 별개 법인이다. 다만 머스크의 AI 생태계가 꾸준히 제품을 고도화·확장하고 있다는 배경 신호로 읽힌다. 현 단계에서 테슬라 FSD·옵티머스에 대한 직접적 영향은 없다.",
+      "title_en": "Elon Musk announces <em>Grok Imagine 1.5</em> now in wide release",
+      "hotShort_en": "Elon: <em>Grok Imagine 1.5</em> goes wide",
+      "body_en": "Elon Musk announced via his official X account that Grok Imagine 1.5 — xAI's image-generation model — has entered wide release, moving from limited access to general availability and marking another step in the buildout of xAI's AI product portfolio.",
+      "summary_en": "Elon Musk announced directly on his official X account that Grok Imagine 1.5 is now in wide release. Grok Imagine is xAI's image-generation capability integrated into the Grok AI assistant, with version 1.5 representing an upgraded model iteration now being made broadly available to the general public.\n\nWide release marks the transition from a restricted beta or limited-access phase to open availability for the broader Grok user base. xAI — founded by Musk in 2023 — is positioning Grok Imagine as a competitor to OpenAI's DALL-E, Midjourney, and Adobe Firefly in the AI image generation space. Specific performance improvements in version 1.5 were not detailed in the announcement.\n\nFor Tesla shareholders, this is not a direct Tesla business event — Grok Imagine is an xAI product, and xAI operates as a separate entity from Tesla. The announcement provides background context for investors tracking the Musk AI ecosystem broadly, but has no confirmed direct implications for Tesla's FSD or Optimus programs at this stage.",
+      "href": "https://x.com/elonmusk/status/2067093666792136855",
+      "sentiment": "neutral",
+      "hot": 2
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
       "pubDate": "2026-06-17T01:10:00.000Z",
       "title": "WSJ: 머스크, SpaceX IPO <em>전략 자금</em>으로 AI 문제 해결 나선다",
       "hotShort": "WSJ: 머스크, SpaceX 자금으로 <em>AI 문제</em> 돌파",
@@ -184,7 +204,12 @@
       "summary_en": "Mobileye — a Nasdaq-listed autonomous driving technology supplier — has announced plans to begin a U.S. robotaxi service in 2027, according to Reuters. Mobileye currently supplies autonomous driving systems to vehicle OEMs including BMW and Volkswagen, and the planned robotaxi launch represents a strategic push into direct consumer-facing autonomous transportation.\n\nThe 2027 timeline places Mobileye in direct competitive overlap with Tesla's Cybercab rollout. With Alphabet's Waymo already operating commercially in San Francisco, Phoenix, and Los Angeles, Mobileye's entry announcement means at least three independent operators are now targeting U.S. commercial autonomous ride-hailing in roughly the same timeframe.\n\nFor Tesla shareholders, a more competitive autonomous ride-hailing landscape carries a nuanced read. The entry of credible, well-funded competitors validates the commercial reality of robotaxi services as a viable category. At the same time, Tesla's long-term differentiation will increasingly be evaluated on real execution metrics: fleet scale, cost per mile, geographic footprint, safety record, and the degree to which FSD's proprietary data advantage translates into a durable competitive moat.",
       "href": "https://www.reuters.com/technology/mobileye-launch-robotaxi-business-us-2027-2026-06-16/",
       "sentiment": "neutral",
-      "hot": 4
+      "hot": 4,
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "Barron's"
+      ]
     },
     {
       "category": "musk",
@@ -2073,27 +2098,7 @@
       "hotShort_en": "Globe and Mail: <em>\"doesn't care about cars\"</em> critique",
       "body_en": "Canada's leading daily The Globe and Mail ran a critical column arguing Tesla no longer seems focused on making cars — a sign of outside skepticism about its automaker identity as the AI and robotaxi pivot accelerates.",
       "summary_en": "The Globe and Mail, a major Canadian daily, ran this column in its 'Drive > Culture' section. The headline \"Tesla doesn't seem to care about making cars anymore\" captures a critical media view that Tesla prioritizes other businesses over traditional carmaking.\n\nTesla has recently invested heavily in AI and autonomy — robotaxi expansion (an autonomous-vehicle permit application in Las Vegas after Austin, Dallas and Houston), FSD advancement, and Optimus commercialization. Some outlets keep noting that its new-model cadence and volume growth are diverging from the yardsticks of a traditional automaker.\n\nFor investors, such media criticism ties directly to Tesla's valuation debate — by traditional-automaker standards the valuation is a burden, but if re-rated as an AI, robotics and autonomy company, a different yardstick applies. How Tesla balances carmaking and its tech pivot is the key variable ahead."
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "22m ago",
-      "pubDate": "2026-06-09T07:28:59.000Z",
-      "title": "테슬라, 노르웨이 호게순에 <em>슈퍼차저 8기</em> 신규 개통",
-      "hotShort": "테슬라 노르웨이 호게순 <em>슈퍼차저 8기</em> 개통",
-      "body": "테슬라가 노르웨이 호게순(Haugesund)에 8기 규모의 슈퍼차저를 공식 개통했다 — EV 보급률 세계 최고 수준인 노르웨이에서 충전 인프라가 한 곳 더 확충됐다.",
-      "sourceName": "Tesla Charging",
-      "sourceLabel": "official",
-      "slug": "product-supercharger-haugesund-norway-2026-06-09",
-      "summary": "테슬라 충전(Tesla Charging) 공식 X 계정이 노르웨이 호게순(Haugesund)에 8기(stall) 규모의 신규 슈퍼차저가 개통됐다고 발표했다. 호게순은 노르웨이 서부 로갈란 지방의 항구 도시로, 이 지점 개통으로 노르웨이 서해안 지역 테슬라 차주들의 충전 접근성이 향상됐다.\n\n노르웨이는 전 세계에서 전기차 보급률이 가장 높은 나라로, 신차 판매의 90% 이상이 전기차인 시장이다. 이 특수한 시장에서 테슬라는 강력한 점유율을 유지하고 있으며, 슈퍼차저 네트워크 확장은 브랜드 서비스 경쟁력을 뒷받침하는 핵심 인프라다.\n\n테슬라 슈퍼차저는 타사 전기차에도 점진적으로 개방되고 있어, 충전 인프라 자체가 테슬라의 독립적 수익원이자 생태계 구축의 중요한 요소로 부상하고 있다.",
-      "href": "https://x.com/TeslaCharging/status/2064248374426280190",
-      "sentiment": "bull",
-      "hot": 2,
-      "title_en": "Tesla opens an <em>8-stall Supercharger</em> in Haugesund, Norway",
-      "hotShort_en": "Tesla Haugesund, Norway <em>8-stall Supercharger</em> opens",
-      "body_en": "Tesla officially opened an 8-stall Supercharger in Haugesund, Norway — adding one more charging site in a country with among the world's highest EV adoption.",
-      "summary_en": "Tesla Charging's official X account announced a new 8-stall Supercharger in Haugesund, Norway. Haugesund is a port city in western Norway's Rogaland county, and the opening improves charging access for Tesla owners along the Norwegian west coast.\n\nNorway has the world's highest EV adoption, a market where over 90% of new-car sales are electric. Tesla holds strong share in this unique market, and Supercharger expansion is core infrastructure underpinning its service competitiveness.\n\nTesla's Superchargers are gradually opening to non-Tesla EVs, so the charging network itself is emerging as an independent revenue stream and a key element of ecosystem building."
     }
   ],
-  "asOf": "2026-06-17 13:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-17 16:11 KST 자동 갱신 · 최신순"
 }
