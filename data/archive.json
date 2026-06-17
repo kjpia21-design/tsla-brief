@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-18 02:00 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-18 04:09 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "40m ago",
+      "pubDate": "2026-06-17T18:30:06.000Z",
+      "title": "테슬라 FSD·앱 연결성, <em>의료 응급 상황서 운전자 생명 구해</em>",
+      "hotShort": "테슬라 FSD·앱, <em>의료 응급 상황</em>서 생명 구해",
+      "body": "테슬라라티에 따르면 실제 의료 응급 상황에서 테슬라의 완전자율주행(FSD)과 앱 연결 기능이 탑승자의 생명을 구했다 — FSD가 차량을 자율 제어해 안전하게 대응하는 동안 앱을 통한 긴급 지원이 이루어진 사례로, FSD 안전성의 강력한 실증 사례다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-saves-life-emergency-medical-2026-06-17",
+      "summary": "테슬라라티는 테슬라 FSD의 실세계 안전 가치를 보여주는 최신 사례를 조명했다. 이번 사례는 운전 중 의료 응급 상황이 발생한 운전자를 FSD의 자율 차량 제어와 테슬라 앱의 긴급 연결 기능이 함께 작동해 생명을 구한 것으로, 자율주행 기술의 실질적 안전 가치를 입증하는 드문 케이스다.\n\n테슬라의 FSD는 운전자가 조작 불능 상태에 빠졌을 때 차량을 자율적으로 제어해 충돌을 방지하고 안전하게 감속·정차할 수 있는 기능을 갖추고 있다. 동시에 테슬라 앱의 긴급 연결 기능을 통해 외부 지원을 신속하게 요청할 수 있다. 이번 사례는 두 기능이 시너지를 이뤄 최악의 상황을 막아낸 사례다.\n\n테슬라 주주와 FSD 투자 논리에 있어 이러한 실세계 안전 사례는 단순한 홍보를 넘어 자율주행 기술의 사회적 가치를 직접 보여준다. 규제 당국과 소비자 모두 FSD 안전성을 두고 논쟁이 이어지는 시점에서, 긍정적 실증 사례의 누적은 FSD 승인 속도와 채택률에 영향을 미칠 수 있다.\n\n반면 FSD 안전성을 둘러싼 우려도 병존한다. 인형 머리로 내부 감지 카메라를 우회하는 사례(같은 날 InsideEVs 보도)와 같은 부정적 뉴스가 동시에 나오는 상황인 만큼, 긍정 사례의 축적이 FSD 안전성 내러티브의 본격적인 전환점이 되려면 더 많은 검증이 필요하다.",
+      "title_en": "Tesla FSD and app connectivity <em>save driver's life</em> in medical emergency",
+      "hotShort_en": "Tesla FSD + app <em>saves life</em> in medical emergency",
+      "body_en": "Teslarati reports Tesla's Full Self-Driving system and mobile app connectivity together saved a driver's life during a real medical emergency — FSD maintained autonomous vehicle control to prevent a crash while app-based emergency communication enabled timely help, offering one of the most compelling real-world validations of Tesla's autonomous safety case.",
+      "summary_en": "Teslarati highlighted this incident as a striking real-world demonstration of Tesla's Full Self-Driving safety capabilities. The account involves a Tesla driver who encountered a medical emergency while the vehicle was in operation — and whose life was saved through the combined function of FSD autonomous control and the Tesla mobile app's emergency connectivity features.\n\nTesla's FSD system is designed to maintain vehicle control in situations where the driver becomes unable to operate the car — including reducing speed, navigating away from hazards, and bringing the vehicle to a safe stop. Paired with the Tesla app's ability to connect occupants with emergency services, the system creates a safety net that goes beyond what traditional vehicles can offer.\n\nFor Tesla investors and FSD bulls, real-world life-saving incidents carry weight beyond marketing value. They represent the kind of empirical safety record that regulators, insurers, and consumers ultimately need to see before autonomous systems can achieve full commercial deployment. Each validated safety case strengthens the argument for broader regulatory approval and the commercial FSD subscription and robotaxi revenue streams that Tesla shareholders are watching.\n\nIt's worth noting that FSD's safety narrative operates on both sides simultaneously. The same day, InsideEVs reported Tesla drivers using prop doll heads to bypass the cabin camera's driver monitoring system. The positive life-saving case and the safety-circumvention case coexist — underscoring why consistent real-world performance, rather than individual anecdotes, remains the metric that will ultimately define FSD's regulatory and commercial trajectory.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-app-connectivity-save-life-in-medical-emergency/",
+      "sentiment": "bull",
+      "hot": 7
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -20,6 +40,26 @@
       "href": "https://insideevs.com/news/798901/tesla-owners-doll-heads-fsd/",
       "sentiment": "bear",
       "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-17T16:36:38.000Z",
+      "title": "블룸버그 \"시타델, SpaceX에 <em>천문학적 규모</em>의 개인투자자 거래 목격\"",
+      "hotShort": "시타델: SpaceX 개인 매수세 <em>천문학적 수준</em>",
+      "body": "블룸버그에 따르면 미국 최대 시장조성사 시타델 시큐리티스가 SpaceX 상장 이후 개인투자자 거래 규모를 '천문학적(astronomical)'이라 표현했다 — IPO 이후 4거래일 연속 랠리(+58%)를 견인한 강력한 소매 매수세가 업계 데이터로 공식 확인됐다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-citadel-spacex-astronomical-retail-2026-06-17",
+      "summary": "블룸버그에 따르면 미국 최대 시장조성사 시타델 시큐리티스가 SpaceX 상장 이후 개인투자자의 거래 참여를 '천문학적(astronomical)'이라는 표현으로 묘사했다. 시타델은 SpaceX IPO 이후 리테일 주문 흐름이 그들이 경험한 가장 강력한 수준에 속한다고 밝혔다.\n\nSpaceX는 역대 최대 규모의 IPO 이후 4거래일 연속 상승하며 누적 +58%의 랠리를 기록했다. 시타델의 데이터는 이 랠리가 기관투자자뿐 아니라 개인투자자 매수세가 강력하게 뒷받침된 현상임을 공식 확인해준다.\n\n테슬라 주주 관점에서 SpaceX의 개인투자자 열기는 복합적 신호다. SpaceX와 테슬라는 별도 상장 기업이지만, 같은 날 NYT가 두 회사의 대합병 가능성을 분석한 것처럼 일론 머스크라는 공통 요소를 통해 투자 심리에 영향을 미친다. SpaceX 리테일 열기가 테슬라 투자 매력도를 간접 보강할 가능성도 존재한다.",
+      "title_en": "Bloomberg: Citadel Securities saw <em>'astronomical'</em> retail trading in SpaceX",
+      "hotShort_en": "Citadel: SpaceX retail demand <em>'astronomical'</em> post-IPO",
+      "body_en": "Bloomberg reports Citadel Securities, the largest U.S. market maker, described retail investor participation in SpaceX post-IPO as 'astronomical' — providing industry-level confirmation that broad individual investor buying has powered SpaceX's 4-day, 58% post-IPO rally.",
+      "summary_en": "Citadel Securities, the dominant U.S. market maker that processes a substantial share of domestic retail order flow, described retail investor activity in SpaceX stock following its IPO as 'astronomical,' according to Bloomberg. The characterization places SpaceX's retail participation level among the most intense that Citadel has processed in recent memory.\n\nSpaceX gained approximately 58% over the four trading sessions since its IPO, making it one of the strongest post-listing performances among large-cap offerings in recent years. Citadel's data provides an industry-level confirmation that this rally has been driven by broad individual investor participation, not just institutional activity.\n\nFor Tesla shareholders, the intensity of SpaceX's retail enthusiasm is a contextual signal. The two companies are separate listed entities, but their shared CEO means investor sentiment around Musk's ventures tends to move in concert. On the same day Citadel reported this retail surge, the New York Times was analyzing whether a Tesla-SpaceX merger could be Musk's next strategic move — a scenario that, if it develops, would make SpaceX's retail appeal directly relevant to Tesla shareholders.",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-17/citadel-securities-saw-astronomical-retail-trading-in-spacex",
+      "sentiment": "bull",
+      "hot": 5
     },
     {
       "category": "musk",
@@ -2038,51 +2078,6 @@
       "hotShort_en": "OpenAI takes on a <em>core Tesla domain</em>",
       "body_en": "MSN reports OpenAI is entering one of Tesla's core business areas as a direct competitor. The world's biggest AI company moving in is a meaningful variable, prompting investors to re-examine Tesla's long-term AI and autonomy story.",
       "summary_en": "MSN reported that OpenAI is entering one of Tesla's core business areas as a direct competitor; the specific domain is identified in the original article.\n\nStarting from conversational AI, OpenAI has recently pushed strategically into physical AI, robotics and autonomy. Because Tesla's stated long-term drivers — FSD, robotaxi, Optimus — overlap substantially with OpenAI's focus, the report signals a competitive-landscape shift investors should watch.\n\nTesla's moat rests on hundreds of millions of real-world driving miles, its in-house AI chip (AI6) design, and a vertically integrated vehicle-infrastructure-robot ecosystem. How defensible that edge is depends on which layer OpenAI enters and at what depth.\n\nFor investors, rising competition matters more to the medium-to-long-term scenario than the near-term price. Confirm in the original which domain is involved, then assess whether Tesla's core capabilities can defend it."
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-10T01:32:30.000Z",
-      "title": "테슬라 CFO 탄에자, <em>2,606주(약 105만달러)</em> 매도 — Form 4 공시",
-      "hotShort": "테슬라 CFO 탄에자 <em>약 105만달러 주식 매도</em>",
-      "body": "테슬라 CFO 바이브하브 탄에자가 SEC Form 4를 통해 TSLA 2,606주(약 105만 달러)를 매도한 것이 Investing.com·MarketBeat를 통해 확인됐다 — 임원 대규모 매도는 10b5-1 사전 계획에 따른 통상적 처분일 수 있지만, 내부자 거래 동향을 주시하는 투자자들의 주목을 받는다.",
-      "sourceName": "Investing.com",
-      "sourceLabel": "press",
-      "slug": "stock-form4-insider-activity-2026-06-10",
-      "summary": "테슬라의 최고재무책임자(CFO) 바이브하브 탄에자(Vaibhav Taneja)가 TSLA 주식 2,606주를 매도한 거래가 SEC Form 4를 통해 공시됐다고 Investing.com·MarketBeat가 각각 보도했다. 매도 총액은 약 105만 달러(약 14억 원) 규모로 집계됐다.\n\nSEC Form 4는 임원·이사·10% 이상 대주주의 주식 거래를 거래 완료 후 2영업일 이내에 의무 신고하는 서식이다. 거래 주체·방향(매수/매도)·수량·단가가 모두 공시에 포함되며, 투자자들이 내부자 동향을 추적하는 핵심 자료로 활용된다.\n\n임원 주식 매도가 항상 부정적 신호는 아니다. 세금 납부 목적의 10b5-1 자동 매도 계획에 따른 거래는 회사 전망과 무관한 경우가 많으며, 옵션 행사 후 일부 매도하는 패턴도 일반적이다. 이번 매도의 성격(10b5-1 여부)과 전체 맥락은 공시 원문에서 확인할 수 있다.\n\n탄에자 CFO는 테슬라 분기 실적 발표에서 주요 발언자 중 한 명이다. 7월 초 발표 예정인 Q2 실적을 앞둔 시점에 이루어진 거래로, 투자자들이 거래 동기에 관심을 보일 수 있다.",
-      "href": "https://m.au.investing.com/news/insider-trading-news/tesla-cfo-vaibhav-taneja-sells-105m-in-tsla-shares-93CH-4479383?ampMode",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Investing.com",
-        "MarketBeat"
-      ],
-      "sentiment": "neutral",
-      "hot": 3,
-      "title_en": "Tesla CFO Taneja sells <em>2,606 shares (~$1.05M)</em> — Form 4",
-      "hotShort_en": "Tesla CFO Taneja sells <em>~$1.05M</em> in stock",
-      "body_en": "Tesla CFO Vaibhav Taneja sold 2,606 TSLA shares (about $1.05M) via an SEC Form 4, per Investing.com and MarketBeat. Large insider sales can be routine 10b5-1 dispositions, but they draw attention from investors tracking insider activity.",
-      "summary_en": "Tesla CFO Vaibhav Taneja sold 2,606 TSLA shares in a transaction disclosed via SEC Form 4, as reported separately by Investing.com and MarketBeat. The sale totaled roughly $1.05 million.\n\nForm 4 requires officers, directors and 10%-plus holders to report trades within two business days, disclosing the party, direction, quantity and price — a key data source for tracking insider activity.\n\nInsider selling isn't always negative. Trades under automatic 10b5-1 plans for tax purposes are often unrelated to the company's outlook, and selling a portion after option exercise is common. This sale's nature and full context are available in the filing.\n\nTaneja is a key speaker on Tesla's earnings calls. With the trade landing ahead of the early-July Q2 report, investors may take interest in its motivation."
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-06-09T23:55:10.000Z",
-      "title": "모틀리풀 \"테슬라 중국 판매, 2개월 슬럼프 깨고 <em>22% 급반등</em>\"",
-      "hotShort": "테슬라 중국 판매 <em>22% 급반등</em> — 슬럼프 탈출",
-      "body": "테슬라 중국 판매가 2개월 연속 부진을 깨고 22% 급반등했다고 모틀리풀이 전했다 — 중국이 테슬라의 최대 해외 단일 시장 중 하나인 만큼, 이번 반등이 실질적 수요 회복인지 기저 효과인지가 Q2 인도 총계의 방향을 가를 핵심 변수다.",
-      "sourceName": "The Motley Fool",
-      "sourceLabel": "press",
-      "slug": "stock-china-sales-22pct-jump-2026-06-10",
-      "summary": "테슬라의 중국 월간 판매가 2개월 연속 감소 흐름에서 벗어나 22% 반등한 것으로 집계됐다고 모틀리풀이 보도했다. 중국은 테슬라가 미국 외에서 가장 많은 차량을 출고하는 핵심 해외 시장으로, 상하이 기가팩토리가 북미 외 수출을 포함한 대량 생산을 담당한다.\n\n테슬라는 앞서 2개월 연속 중국 판매 감소를 기록했다. 중국은 BYD 등 현지 브랜드와의 경쟁이 치열한 시장으로, 이 흐름에서 벗어나 22% 반등한 것은 주목할 만한 전환이다. 다만, 이번 반등이 실질적 수요 회복의 신호인지, 아니면 기저 효과나 월말 밀어내기인지는 추가 확인이 필요하다 — 모틀리풀도 '턴어라운드가 진짜인가(Is the Turnaround Real?)'라는 물음을 제기했다.\n\n투자자 입장에서 중국 판매 22% 반등은 Q2(4~6월) 인도 실적의 중요한 상향 시그널이 될 수 있다. 중국 한 달치 데이터만으로 분기 전체 추세를 단정하기는 이르며, 6월 최종 데이터와 미국·유럽 판매 추이를 함께 확인해야 한다.\n\n7월 초 발표될 Q2 인도 실적에서 중국 기여도가 확인되면, 이번 반등의 실질적 의미가 더 명확해질 전망이다.",
-      "href": "https://www.fool.com/investing/2026/06/09/teslas-china-sales-just-snapped-a-2-month-slump-wi/",
-      "sentiment": "bull",
-      "hot": 7,
-      "title_en": "Motley Fool: Tesla China sales break the slump with a <em>22% rebound</em>",
-      "hotShort_en": "Tesla China sales <em>jump 22%</em> — slump broken",
-      "body_en": "Tesla's China sales rebounded 22% after two months of weakness, the Motley Fool reports. With China among Tesla's largest overseas markets, whether this is a real demand recovery or a base effect is a key variable for the Q2 delivery total.",
-      "summary_en": "Tesla's monthly China sales broke a two-month decline and rebounded 22%, the Motley Fool reported. China is Tesla's largest vehicle market outside the US, with the Shanghai Gigafactory handling mass production including non-North-American exports.\n\nTesla had logged two straight months of China declines. In a market with fierce competition from local brands like BYD, breaking that trend with a 22% rebound is a notable turn. Whether it signals real demand recovery or reflects a base effect or month-end push needs confirmation — the Motley Fool itself asked, \"Is the Turnaround Real?\"\n\nFor investors, a 22% China rebound could be an important upward signal for Q2 deliveries. One month of China data alone can't define the quarter; final June data and US/Europe trends must be read alongside it.\n\nThe early-July Q2 delivery report, showing China's contribution, will clarify what this rebound really means."
     }
   ]
 }
