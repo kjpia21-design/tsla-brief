@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-06-17 10:45 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-17 11:08 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5m ago",
+      "pubDate": "2026-06-17T11:03:00.000Z",
+      "title": "Tesla Stock Is Down. An Argentina Charger Deal Won’t Help.",
+      "body": "Tesla Stock Is Down. An Argentina Charger Deal Won’t Help. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-argentina-deal-11193c7f?mod"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "13m ago",
+      "pubDate": "2026-06-17T10:55:37.000Z",
+      "title": "Morning Bid: Welcome to the Warsh era",
+      "body": "Morning Bid: Welcome to the Warsh era Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-17/"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -13,19 +39,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.nytimes.com/2026/06/17/magazine/elon-musk-delaware-corporate-law.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-17T09:00:20.000Z",
-      "title": "A New Era of Super-Hybrids to Ease Range Anxiety",
-      "body": "A New Era of Super-Hybrids to Ease Range Anxiety The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/2026/06/17/business/extended-range-electric-vehicles-erevs.html"
     },
     {
       "category": "musk",
@@ -44,19 +57,19 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
-      "pubDate": "2026-06-17T08:53:00.000Z",
-      "title": "SpaceX Stock Will Face a Reckoning When Investor Lockups End",
-      "body": "SpaceX Stock Will Face a Reckoning When Investor Lockups End Barron's",
-      "sourceName": "Barron's",
+      "pubDate": "2026-06-17T08:57:25.000Z",
+      "title": "US Economy",
+      "body": "US Economy CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-stock-price-investor-lockups-37a3ea6a"
+      "href": "https://www.cnbc.com/us-economy/"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-17T08:23:39.000Z",
       "title": "Trying to recreate the opening of my favorite childhood Chinese game on DOS -- 仙劍奇俠傳. It's pretty good with one shot. 😃",
       "body": "Trying to recreate the opening of my favorite childhood Chinese game on DOS -- 仙劍奇俠傳. It's pretty good with one shot. 😃 https://t.co/es4ivfv2To https://t.co/oXNX7AIW1m",
@@ -69,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-17T08:22:23.000Z",
       "title": "SpaceX Heads Toward Fourth Day of Gains Since Record IPO",
       "body": "SpaceX Heads Toward Fourth Day of Gains Since Record IPO Bloomberg.com",
@@ -93,9 +106,22 @@
       "href": "https://x.com/yunta_tsai/status/2067156146532868393"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
+      "pubDate": "2026-06-17T07:27:00.000Z",
+      "title": "European Auto Shares Fall After BMW Cuts Guidance",
+      "body": "European Auto Shares Fall After BMW Cuts Guidance WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/business/autos/european-auto-shares-fall-after-bmw-cuts-guidance-004862a3"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-17T07:23:35.000Z",
       "title": "MSC looking to buy stake in Hapag-Lloyd, Manager Magazin reports",
       "body": "MSC looking to buy stake in Hapag-Lloyd, Manager Magazin reports Reuters",
@@ -130,19 +156,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/0bc85809-0a9f-4110-bf8d-a3c276f12a60?syn-25a6b1a6"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "17h ago",
-      "pubDate": "2026-06-16T18:12:00.000Z",
-      "title": "Qualcomm Is Eyeing a Massive AI Pivot. Why Wall Street Is Still Cautious.",
-      "body": "Qualcomm Is Eyeing a Massive AI Pivot. Why Wall Street Is Still Cautious. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/qualcomm-stock-price-target-catalyst-d878e040"
     },
     {
       "category": "product",
@@ -186,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-16T16:33:00.000Z",
       "title": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers",
       "body": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers WSJ",
@@ -199,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-16T16:23:44.000Z",
       "title": "Argentina's YPF, Tesla to explore EV charging, energy storage collaboration",
       "body": "Argentina's YPF, Tesla to explore EV charging, energy storage collaboration Reuters",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday-.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-06-16T12:05:03.000Z",
-      "title": "This cybersecurity stock could soar on AI tailwinds. UBS says to buy it now",
-      "body": "This cybersecurity stock could soar on AI tailwinds. UBS says to buy it now CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/16/this-cybersecurity-stock-to-soar-on-ai-tailwinds-ubs-says-to-buy-it.html"
     }
   ]
 }
