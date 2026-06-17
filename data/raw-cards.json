@@ -1,10 +1,62 @@
 {
-  "asOf": "2026-06-17 08:50 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-17 10:45 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-17T09:00:57.000Z",
+      "title": "Elon Musk’s Feud With Delaware May Transform Corporate America",
+      "body": "Elon Musk’s Feud With Delaware May Transform Corporate America The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/2026/06/17/magazine/elon-musk-delaware-corporate-law.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-17T09:00:20.000Z",
+      "title": "A New Era of Super-Hybrids to Ease Range Anxiety",
+      "body": "A New Era of Super-Hybrids to Ease Range Anxiety The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/2026/06/17/business/extended-range-electric-vehicles-erevs.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-17T09:00:17.000Z",
+      "title": "SpaceX-Tesla Inc. Is Inching Closer. Watch Out, Nvidia?",
+      "body": "SpaceX-Tesla Inc. Is Inching Closer. Watch Out, Nvidia? Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/opinion/articles/2026-06-17/spacex-tesla-inc-is-inching-closer-watch-out-nvidia"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-17T08:53:00.000Z",
+      "title": "SpaceX Stock Will Face a Reckoning When Investor Lockups End",
+      "body": "SpaceX Stock Will Face a Reckoning When Investor Lockups End Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/spacex-stock-price-investor-lockups-37a3ea6a"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "27m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-17T08:23:39.000Z",
       "title": "Trying to recreate the opening of my favorite childhood Chinese game on DOS -- 仙劍奇俠傳. It's pretty good with one shot. 😃",
       "body": "Trying to recreate the opening of my favorite childhood Chinese game on DOS -- 仙劍奇俠傳. It's pretty good with one shot. 😃 https://t.co/es4ivfv2To https://t.co/oXNX7AIW1m",
@@ -15,9 +67,22 @@
       "href": "https://x.com/yunta_tsai/status/2067161238124249459"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-17T08:22:23.000Z",
+      "title": "SpaceX Heads Toward Fourth Day of Gains Since Record IPO",
+      "body": "SpaceX Heads Toward Fourth Day of Gains Since Record IPO Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-17/spacex-heads-toward-fourth-day-of-gains-since-record-ipo"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "47m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-17T08:03:25.000Z",
       "title": "My favorite prompt -- monitor CI and comments, address them if necessary, and give me an executive summary at 7am.",
       "body": "My favorite prompt -- monitor CI and comments, address them if necessary, and give me an executive summary at 7am.",
@@ -28,36 +93,23 @@
       "href": "https://x.com/yunta_tsai/status/2067156146532868393"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "3h ago",
-      "pubDate": "2026-06-17T05:58:39.000Z",
-      "title": "Just follow SpaceX if you want news about our company",
-      "body": "Just follow SpaceX if you want news about our company https://t.co/ZsgCWHGomC",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2067124745146171701"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-17T04:08:20.000Z",
-      "title": "Transcript: Extended version — Why Elizabeth Warren is worried about SpaceX",
-      "body": "Transcript: Extended version — Why Elizabeth Warren is worried about SpaceX Financial Times",
-      "sourceName": "Financial Times",
+      "pubDate": "2026-06-17T07:23:35.000Z",
+      "title": "MSC looking to buy stake in Hapag-Lloyd, Manager Magazin reports",
+      "body": "MSC looking to buy stake in Hapag-Lloyd, Manager Magazin reports Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.ft.com/content/05a8f8f8-df3a-4626-a8c4-908c66be6f79"
+      "href": "https://www.reuters.com/business/msc-looking-buy-stake-hapag-lloyd-manager-magazin-reports-2026-06-17/"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-06-17T04:00:44.000Z",
+      "time": "7h ago",
+      "pubDate": "2026-06-17T04:01:41.000Z",
       "title": "Defence not likely to be a panacea for European carmakers",
       "body": "Defence not likely to be a panacea for European carmakers Financial Times",
       "sourceName": "Financial Times",
@@ -69,8 +121,8 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
-      "pubDate": "2026-06-17T04:00:44.000Z",
+      "time": "7h ago",
+      "pubDate": "2026-06-17T04:01:41.000Z",
       "title": "Defence not likely to be a panacea for European carmakers",
       "body": "Defence not likely to be a panacea for European carmakers Financial Times",
       "sourceName": "Financial Times",
@@ -80,48 +132,9 @@
       "href": "https://www.ft.com/content/0bc85809-0a9f-4110-bf8d-a3c276f12a60?syn-25a6b1a6"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-17T04:00:44.000Z",
-      "title": "Elon Musk: Wall Street’s new roll-up artist",
-      "body": "Elon Musk: Wall Street’s new roll-up artist Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/0ce5d6f0-9417-42ba-839f-e81dbd62d6ff"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-17T03:59:10.000Z",
-      "title": "Transcript: Why Elizabeth Warren is worried about SpaceX",
-      "body": "Transcript: Why Elizabeth Warren is worried about SpaceX Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/2e73a9e6-cb69-456b-a6ee-7ae90dbd2589"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-17T03:21:07.000Z",
-      "title": "SpaceX: Trending News, Latest Updates, Analysis",
-      "body": "SpaceX: Trending News, Latest Updates, Analysis Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://bloomberg.com/latest/spacex"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-16T18:12:00.000Z",
       "title": "Qualcomm Is Eyeing a Massive AI Pivot. Why Wall Street Is Still Cautious.",
       "body": "Qualcomm Is Eyeing a Massive AI Pivot. Why Wall Street Is Still Cautious. Barron's",
@@ -134,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-16T18:06:07.000Z",
       "title": "Rivian trims workforce by about 2% amid profitability push",
       "body": "Rivian trims workforce by about 2% amid profitability push Reuters",
@@ -147,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-16T18:06:07.000Z",
       "title": "Rivian trims workforce by about 2% amid profitability push",
       "body": "Rivian trims workforce by about 2% amid profitability push Reuters",
@@ -160,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-16T16:41:59.000Z",
       "title": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report",
       "body": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report Reuters",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-16T16:33:00.000Z",
       "title": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers",
       "body": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers WSJ",
@@ -186,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-16T16:23:44.000Z",
       "title": "Argentina's YPF, Tesla to explore EV charging, energy storage collaboration",
       "body": "Argentina's YPF, Tesla to explore EV charging, energy storage collaboration Reuters",
@@ -197,22 +210,22 @@
       "href": "https://www.reuters.com/business/energy/argentinas-ypf-tesla-explore-ev-charging-energy-storage-collaboration-2026-06-16/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
-      "pubDate": "2026-06-16T15:15:01.000Z",
-      "title": "This AI play is no longer a 'hidden gem,' but Wall Street is still underestimating its potential, says Melius",
-      "body": "This AI play is no longer a 'hidden gem,' but Wall Street is still underestimating its potential, says Melius CNBC",
-      "sourceName": "CNBC",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "20h ago",
+      "pubDate": "2026-06-16T14:43:04.000Z",
+      "title": "TSLA.OQ",
+      "body": "TSLA.OQ Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/2026/06/16/nvent-no-longer-a-hidden-gem-but-melius-likes-its-potential.html"
+      "href": "https://www.reuters.com/markets/companies/TSLA.OQ/key-metrics/income-statement/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-16T12:53:22.000Z",
       "title": "We're buying more of a tech stock with a bright long-term future",
       "body": "We're buying more of a tech stock with a bright long-term future CNBC",
@@ -225,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-16T12:47:14.000Z",
       "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
       "body": "Jim Cramer's top 10 things to watch in the stock market Tuesday CNBC",
@@ -238,7 +251,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "21h ago",
+      "time": "23h ago",
       "pubDate": "2026-06-16T12:05:03.000Z",
       "title": "This cybersecurity stock could soar on AI tailwinds. UBS says to buy it now",
       "body": "This cybersecurity stock could soar on AI tailwinds. UBS says to buy it now CNBC",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/16/this-cybersecurity-stock-to-soar-on-ai-tailwinds-ubs-says-to-buy-it.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-06-16T10:12:00.000Z",
-      "title": "Qualcomm Stock Shakes Off Smartphone, PC Fears as AI Chip Excitement Grows",
-      "body": "Qualcomm Stock Shakes Off Smartphone, PC Fears as AI Chip Excitement Grows Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/qualcomm-stock-price-ai-chips-d878e040?mod"
     }
   ]
 }
