@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-17 18:40 UTC · 누적 359건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-17 20:35 UTC · 누적 361건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "40m ago",
+      "pubDate": "2026-06-17T18:30:06.000Z",
+      "title": "테슬라 FSD·앱 연결성, <em>의료 응급 상황서 운전자 생명 구해</em>",
+      "hotShort": "테슬라 FSD·앱, <em>의료 응급 상황</em>서 생명 구해",
+      "body": "테슬라라티에 따르면 실제 의료 응급 상황에서 테슬라의 완전자율주행(FSD)과 앱 연결 기능이 탑승자의 생명을 구했다 — FSD가 차량을 자율 제어해 안전하게 대응하는 동안 앱을 통한 긴급 지원이 이루어진 사례로, FSD 안전성의 강력한 실증 사례다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-saves-life-emergency-medical-2026-06-17",
+      "summary": "테슬라라티는 테슬라 FSD의 실세계 안전 가치를 보여주는 최신 사례를 조명했다. 이번 사례는 운전 중 의료 응급 상황이 발생한 운전자를 FSD의 자율 차량 제어와 테슬라 앱의 긴급 연결 기능이 함께 작동해 생명을 구한 것으로, 자율주행 기술의 실질적 안전 가치를 입증하는 드문 케이스다.\n\n테슬라의 FSD는 운전자가 조작 불능 상태에 빠졌을 때 차량을 자율적으로 제어해 충돌을 방지하고 안전하게 감속·정차할 수 있는 기능을 갖추고 있다. 동시에 테슬라 앱의 긴급 연결 기능을 통해 외부 지원을 신속하게 요청할 수 있다. 이번 사례는 두 기능이 시너지를 이뤄 최악의 상황을 막아낸 사례다.\n\n테슬라 주주와 FSD 투자 논리에 있어 이러한 실세계 안전 사례는 단순한 홍보를 넘어 자율주행 기술의 사회적 가치를 직접 보여준다. 규제 당국과 소비자 모두 FSD 안전성을 두고 논쟁이 이어지는 시점에서, 긍정적 실증 사례의 누적은 FSD 승인 속도와 채택률에 영향을 미칠 수 있다.\n\n반면 FSD 안전성을 둘러싼 우려도 병존한다. 인형 머리로 내부 감지 카메라를 우회하는 사례(같은 날 InsideEVs 보도)와 같은 부정적 뉴스가 동시에 나오는 상황인 만큼, 긍정 사례의 축적이 FSD 안전성 내러티브의 본격적인 전환점이 되려면 더 많은 검증이 필요하다.",
+      "title_en": "Tesla FSD and app connectivity <em>save driver's life</em> in medical emergency",
+      "hotShort_en": "Tesla FSD + app <em>saves life</em> in medical emergency",
+      "body_en": "Teslarati reports Tesla's Full Self-Driving system and mobile app connectivity together saved a driver's life during a real medical emergency — FSD maintained autonomous vehicle control to prevent a crash while app-based emergency communication enabled timely help, offering one of the most compelling real-world validations of Tesla's autonomous safety case.",
+      "summary_en": "Teslarati highlighted this incident as a striking real-world demonstration of Tesla's Full Self-Driving safety capabilities. The account involves a Tesla driver who encountered a medical emergency while the vehicle was in operation — and whose life was saved through the combined function of FSD autonomous control and the Tesla mobile app's emergency connectivity features.\n\nTesla's FSD system is designed to maintain vehicle control in situations where the driver becomes unable to operate the car — including reducing speed, navigating away from hazards, and bringing the vehicle to a safe stop. Paired with the Tesla app's ability to connect occupants with emergency services, the system creates a safety net that goes beyond what traditional vehicles can offer.\n\nFor Tesla investors and FSD bulls, real-world life-saving incidents carry weight beyond marketing value. They represent the kind of empirical safety record that regulators, insurers, and consumers ultimately need to see before autonomous systems can achieve full commercial deployment. Each validated safety case strengthens the argument for broader regulatory approval and the commercial FSD subscription and robotaxi revenue streams that Tesla shareholders are watching.\n\nIt's worth noting that FSD's safety narrative operates on both sides simultaneously. The same day, InsideEVs reported Tesla drivers using prop doll heads to bypass the cabin camera's driver monitoring system. The positive life-saving case and the safety-circumvention case coexist — underscoring why consistent real-world performance, rather than individual anecdotes, remains the metric that will ultimately define FSD's regulatory and commercial trajectory.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-app-connectivity-save-life-in-medical-emergency/",
+      "sentiment": "bull",
+      "hot": 7
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -20,6 +40,26 @@
       "href": "https://insideevs.com/news/798901/tesla-owners-doll-heads-fsd/",
       "sentiment": "bear",
       "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-17T16:36:38.000Z",
+      "title": "블룸버그 \"시타델, SpaceX에 <em>천문학적 규모</em>의 개인투자자 거래 목격\"",
+      "hotShort": "시타델: SpaceX 개인 매수세 <em>천문학적 수준</em>",
+      "body": "블룸버그에 따르면 미국 최대 시장조성사 시타델 시큐리티스가 SpaceX 상장 이후 개인투자자 거래 규모를 '천문학적(astronomical)'이라 표현했다 — IPO 이후 4거래일 연속 랠리(+58%)를 견인한 강력한 소매 매수세가 업계 데이터로 공식 확인됐다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-citadel-spacex-astronomical-retail-2026-06-17",
+      "summary": "블룸버그에 따르면 미국 최대 시장조성사 시타델 시큐리티스가 SpaceX 상장 이후 개인투자자의 거래 참여를 '천문학적(astronomical)'이라는 표현으로 묘사했다. 시타델은 SpaceX IPO 이후 리테일 주문 흐름이 그들이 경험한 가장 강력한 수준에 속한다고 밝혔다.\n\nSpaceX는 역대 최대 규모의 IPO 이후 4거래일 연속 상승하며 누적 +58%의 랠리를 기록했다. 시타델의 데이터는 이 랠리가 기관투자자뿐 아니라 개인투자자 매수세가 강력하게 뒷받침된 현상임을 공식 확인해준다.\n\n테슬라 주주 관점에서 SpaceX의 개인투자자 열기는 복합적 신호다. SpaceX와 테슬라는 별도 상장 기업이지만, 같은 날 NYT가 두 회사의 대합병 가능성을 분석한 것처럼 일론 머스크라는 공통 요소를 통해 투자 심리에 영향을 미친다. SpaceX 리테일 열기가 테슬라 투자 매력도를 간접 보강할 가능성도 존재한다.",
+      "title_en": "Bloomberg: Citadel Securities saw <em>'astronomical'</em> retail trading in SpaceX",
+      "hotShort_en": "Citadel: SpaceX retail demand <em>'astronomical'</em> post-IPO",
+      "body_en": "Bloomberg reports Citadel Securities, the largest U.S. market maker, described retail investor participation in SpaceX post-IPO as 'astronomical' — providing industry-level confirmation that broad individual investor buying has powered SpaceX's 4-day, 58% post-IPO rally.",
+      "summary_en": "Citadel Securities, the dominant U.S. market maker that processes a substantial share of domestic retail order flow, described retail investor activity in SpaceX stock following its IPO as 'astronomical,' according to Bloomberg. The characterization places SpaceX's retail participation level among the most intense that Citadel has processed in recent memory.\n\nSpaceX gained approximately 58% over the four trading sessions since its IPO, making it one of the strongest post-listing performances among large-cap offerings in recent years. Citadel's data provides an industry-level confirmation that this rally has been driven by broad individual investor participation, not just institutional activity.\n\nFor Tesla shareholders, the intensity of SpaceX's retail enthusiasm is a contextual signal. The two companies are separate listed entities, but their shared CEO means investor sentiment around Musk's ventures tends to move in concert. On the same day Citadel reported this retail surge, the New York Times was analyzing whether a Tesla-SpaceX merger could be Musk's next strategic move — a scenario that, if it develops, would make SpaceX's retail appeal directly relevant to Tesla shareholders.",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-17/citadel-securities-saw-astronomical-retail-trading-in-spacex",
+      "sentiment": "bull",
+      "hot": 5
     },
     {
       "category": "musk",
