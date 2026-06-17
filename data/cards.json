@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-17T01:10:00.000Z",
+      "title": "WSJ: 머스크, SpaceX IPO <em>전략 자금</em>으로 AI 문제 해결 나선다",
+      "hotShort": "WSJ: 머스크, SpaceX 자금으로 <em>AI 문제</em> 돌파",
+      "body": "WSJ이 일론 머스크가 SpaceX 상장으로 확보한 새로운 전략 자금을 자신의 AI 문제 해결에 투입하고 있다고 보도했다 — SpaceX IPO가 단순 주가 이벤트를 넘어 머스크 AI 생태계 전체의 전략 자원으로 전환됐음을 시사하며, 테슬라 주주들에게는 SpaceX 상장 이후 머스크의 자원 배분 방향을 가늠할 수 있는 첫 번째 공개 신호다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-warchest-xai-ai-2026-06-17",
+      "summary": "SpaceX는 2026년 6월 13일 나스닥에 상장해 단 3일 만에 시총이 마이크로소프트와 아마존을 모두 넘어서는 기록적 랠리를 기록했다. 이 상장은 머스크에게 단순한 보유 자산 평가액 상승 이상의 의미를 갖는다 — 대규모 공개 자금이 처음으로 그의 손에 쥐어진 것으로, WSJ은 그 자금이 'AI 문제' 해결을 위해 투입되고 있다고 보도했다.\n\n머스크의 'AI 문제'는 공개된 맥락상 그의 AI 회사 xAI — Grok 모델 개발사 — 가 OpenAI·구글 딥마인드와 경쟁하기 위해 필요한 대규모 컴퓨팅 인프라 확충 과제로 읽힌다. SpaceX IPO 자본이 xAI의 컴퓨팅 인프라에 투입된다면, 머스크 AI 생태계의 컴퓨팅 자립도와 스케일이 크게 높아질 수 있다.\n\n테슬라 주주 관점에서 이 전개는 두 측면에서 중요하다. 긍정적으로는 xAI AI 역량 강화가 테슬라 FSD·옵티머스의 AI 기반과 기술 시너지로 이어질 가능성이 있다. 한편으로는 SpaceX IPO 자본이 테슬라 대신 xAI 방향으로 배분된다는 구조가 명확해질수록, 머스크의 자원·관심이 복수의 벤처에 분산된다는 리스크가 더 가시화된다. WSJ 보도는 SpaceX IPO 이후 자본 배분의 첫 번째 공개 방향성으로, 향후 머스크 그룹 전략의 윤곽을 가늠하는 핵심 신호다.",
+      "title_en": "WSJ: Musk unleashes SpaceX's post-IPO <em>war chest</em> to tackle his AI problem",
+      "hotShort_en": "Musk taps SpaceX <em>war chest</em> for AI ambition",
+      "body_en": "Elon Musk is directing SpaceX's newly available war chest — capital unlocked by the company's landmark Nasdaq IPO — toward solving his AI problem, The Wall Street Journal reports, signaling that SpaceX's public offering is functioning as a strategic resource for Musk's AI ambitions well beyond a market event.",
+      "summary_en": "SpaceX listed on Nasdaq on June 13, 2026, delivering one of the most remarkable IPO debuts in U.S. market history — surpassing Microsoft and Amazon in market cap within days and making Elon Musk the world's first trillionaire. But beyond the price action, the IPO created something new for Musk: a significant pool of public capital available to direct across his portfolio. The Wall Street Journal reports that capital is now being channeled toward solving what it calls his \"AI problem.\"\n\nIn context, \"Musk's AI problem\" most directly refers to xAI — his AI company and the maker of the Grok model series — and its need to scale compute infrastructure to remain competitive with OpenAI and Google DeepMind. If SpaceX IPO capital is being directed into xAI's data center and GPU cluster buildout, it would meaningfully expand the self-sufficiency and compute scale of Musk's AI ecosystem — reducing dependence on third-party cloud infrastructure and potentially accelerating model development timelines.\n\nFor Tesla shareholders, the dynamic carries a dual read. On the upside, a better-resourced xAI has potential synergies with Tesla's own AI roadmap: FSD and Optimus both rely on large-scale AI training, and advances in the Musk AI ecosystem can translate into shared technology benefits. On the risk side, this marks the first concrete public signal on how SpaceX IPO capital is being deployed — and the direction pointing toward xAI rather than Tesla reinforces the structural concern about Musk's attention and capital being distributed across multiple high-priority ventures. The allocation decisions made with SpaceX's war chest in the months ahead will be among the most closely watched variables in the Musk portfolio story.",
+      "href": "https://www.wsj.com/tech/ai/elon-musk-is-unleashing-spacexs-new-war-chest-to-solve-his-ai-problem-255f4969",
+      "sentiment": "neutral",
+      "hot": 7
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
@@ -18,32 +38,6 @@
       "summary_en": "A new bill introduced in the New Jersey state legislature would impose restrictions that could effectively ban Robotaxi services in the state. New Jersey sits adjacent to the New York City metro area and represents one of the most densely populated markets in the U.S. Northeast — making its regulatory outcome a potential bellwether for Tesla's East Coast Robotaxi expansion strategy.\n\nTesla responded by directly urging its New Jersey vehicle owners to oppose the legislation — an unusual step for a company to mobilize its customer base to influence specific state-level lawmaking. The move signals how seriously Tesla views regulatory headwinds as an obstacle to its autonomous ride-hailing commercialization.\n\nTesla is pursuing the commercial expansion of Robotaxi services. If similar blocking legislation were to spread to other states, it could structurally delay Tesla's ability to build a profitable, large-scale autonomous transport network — a regulatory risk shareholders are watching closely. This New Jersey case may also serve as an early indicator of how similar legislative movements could emerge in other key markets.",
       "href": "https://www.teslarati.com/tesla-urges-new-jersey-owners-to-oppose-new-bill-block-robotaxi/",
       "sentiment": "bear",
-      "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-16T20:10:50.000Z",
-      "title": "SpaceX IPO 랠리 <em>+49%</em> — 마이크로소프트·아마존 시총 동시 추월, 옵션도 사상 최대",
-      "hotShort": "SpaceX, IPO 3일 만에 <em>+49% 랠리</em>로 MS·아마존 추월",
-      "body": "SpaceX가 6월 13일 나스닥 상장 이후 3일 만에 +49% 랠리를 기록하며 마이크로소프트와 아마존의 시가총액을 모두 넘어섰다고 블룸버그·로이터가 보도했다 — 옵션 시장도 사상 최대 수준의 첫날 거래량을 기록하며 개장해, 상장 첫 주 안에 세계 빅테크 상위권이 빠르게 재편됐다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-surpasses-microsoft-amazon-2026-06-16",
-      "summary": "SpaceX가 나스닥 상장 이후 단 3일 만에 +49% 랠리를 기록하며 마이크로소프트와 아마존의 시가총액을 모두 뛰어넘었다고 블룸버그·로이터가 보도했다. 데뷔 당일 이미 $2조($2T)를 돌파하며 일론 머스크를 세계 첫 조만장자로 만든 SpaceX는 이후에도 상승세를 이어가며 세계 최상위 빅테크 두 곳을 동시에 추월하는 이례적 랠리를 기록했다.\n\n로이터는 SpaceX 옵션 거래가 사상 최대 수준의 첫날 거래량을 기록하며 개막했다고 추가 보도했다. CNBC는 리테일 투자자들이 하루 만에 80% 수익을 기대하는 콜옵션까지 매수하는 등 이례적인 열기를 전하며 '베테랑 트레이더들도 처음 보는 광경'이라고 보도했다. 옵션 시장의 개설은 기관·헤지펀드 등 파생 전략 투자자들이 SpaceX 포지션을 잡을 수 있는 새로운 채널을 열며, SpaceX에 대한 시장 신뢰도와 유동성을 한 단계 높이는 신호다.\n\nCNBC의 옵션 전략 전문가 로렌스 맥밀런은 초기 SpaceX 옵션 거래를 분석하며 SpaceX가 장기적으로 엔비디아·테슬라를 시가총액 기준으로 앞설 가능성을 언급했다 — 개별 분석가의 전망이므로 단정할 수 없지만, 월가에서 SpaceX에 대한 강세 서사가 기관 차원에서 빠르게 정착되고 있다는 맥락이다.\n\n테슬라 주주 관점에서 SpaceX의 지속적 가치 상승은 복합 신호다. 머스크의 자산 증가와 기업가 신뢰도 강화는 테슬라 생태계 전반에 우호적이지만, 공개 기업 SpaceX가 분기 보고 의무와 경영 요구를 안게 되면서 머스크의 집중과 자원 배분이 어떻게 재편될지는 계속 지켜봐야 할 변수다.",
-      "title_en": "SpaceX post-IPO rally hits <em>+49%</em>, surpassing Microsoft and Amazon in market cap",
-      "hotShort_en": "SpaceX <em>+49% rally</em> tops Microsoft and Amazon",
-      "body_en": "SpaceX has surged +49% since its Nasdaq debut on June 13, overtaking both Microsoft's and Amazon's market capitalizations in just three days, Bloomberg and Reuters report — while SpaceX options debuted to record first-day trading volume, capping a week that rapidly reshuffled the ranks of the world's most valuable companies.",
-      "summary_en": "SpaceX closed out its third day of trading with a post-IPO rally reaching +49%, crossing both Microsoft's and Amazon's market capitalizations in the process, Bloomberg and Reuters report. The company's IPO-day surge past $2 trillion — which simultaneously made Elon Musk the world's first trillionaire — continued through the week, compressing the time it took to overtake two of the most valuable companies in U.S. market history.\n\nSpaceX options debuted to record first-day trading volume according to Reuters — with CNBC noting that retail investors, described by veteran traders as unprecedented in their behavior, were placing bets on 80% overnight gains in SpaceX call options. The opening of options trading gives hedge funds, institutional traders, and sophisticated investors new channels to build and hedge SpaceX positions, and typically correlates with increased institutional engagement and market depth.\n\nLawrence McMillan — widely known as the 'Godfather of options' — told CNBC that he sees SpaceX potentially surpassing Nvidia and Tesla in market cap over the longer term as early options trades came in. This is one analyst's view, not a consensus call, but it reflects how bullish the options community has framed the SpaceX position from day one.\n\nFor Tesla shareholders, SpaceX's sustained post-IPO rally carries the same dual read as before: Musk's expanding wealth base and entrepreneurial track record provide a positive sentiment backdrop for the Musk ecosystem. However, a publicly-traded SpaceX with quarterly reporting obligations and an options market adds another formal claim on executive time alongside Tesla, xAI, and X. How this time-allocation dynamic plays out over the coming quarters is the key variable for Tesla-focused investors to watch.",
-      "href": "https://www.reuters.com/legal/transactional/spacex-set-surpass-amazons-market-cap-post-ipo-rally-continues-2026-06-16/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "Bloomberg",
-        "CNBC"
-      ],
-      "sentiment": "neutral",
       "hot": 6
     },
     {
@@ -127,5 +121,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-06-17 10:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-17 13:30 KST 자동 갱신 · 최신순"
 }
