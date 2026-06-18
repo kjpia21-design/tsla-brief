@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-18 22:19 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-18 22:20 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "18m ago",
+      "time": "19m ago",
       "pubDate": "2026-06-18T22:01:21.000Z",
       "title": "Elon Musk’s SpaceX plots $20bn bond deal after record IPO",
       "body": "Elon Musk’s SpaceX plots $20bn bond deal after record IPO Financial Times",
@@ -17,7 +17,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "19m ago",
+      "time": "20m ago",
       "pubDate": "2026-06-18T22:00:06.000Z",
       "title": "SpaceX warns EU satellite plan risks undermining connectivity in Ukraine",
       "body": "SpaceX warns EU satellite plan risks undermining connectivity in Ukraine Financial Times",
@@ -26,6 +26,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/0b012610-8132-4549-afd9-14bacd9db8cb"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "26m ago",
+      "pubDate": "2026-06-18T21:54:32.000Z",
+      "title": "FSD Supervised sees the things you don't",
+      "body": "FSD Supervised sees the things you don't https://t.co/fMzDpMnMmd",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/Tesla/status/2067727691760226720"
     },
     {
       "category": "product",
@@ -148,19 +161,6 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "3h ago",
-      "pubDate": "2026-06-18T19:12:32.000Z",
-      "title": "Options Action: Options Trading Strategies & Market Trades",
-      "body": "Options Action: Options Trading Strategies & Market Trades CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/options-action/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
       "pubDate": "2026-06-18T19:09:19.000Z",
       "title": "Power Lunch: Latest News, Clips and Schedule",
       "body": "Power Lunch: Latest News, Clips and Schedule CNBC",
@@ -171,17 +171,17 @@
       "href": "https://www.cnbc.com/power-lunch/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "3h ago",
-      "pubDate": "2026-06-18T19:09:03.000Z",
-      "title": "Tesla Cybercab has one important piece that AI4 cars might need for FSD",
-      "body": "Tesla Cybercab has one important piece that AI4 cars might need for FSD Teslarati",
-      "sourceName": "Teslarati",
+      "pubDate": "2026-06-18T19:09:08.000Z",
+      "title": "Options Action: Options Trading Strategies & Market Trades",
+      "body": "Options Action: Options Trading Strategies & Market Trades CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/tesla-cybercab-one-important-piece-ai4-cars-might-need-fsd/"
+      "href": "https://www.cnbc.com/options-action/"
     },
     {
       "category": "product",
