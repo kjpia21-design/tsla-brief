@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-18 14:30 UTC · 누적 370건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-18 15:39 UTC · 누적 371건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-18T11:51:00.000Z",
+      "title": "Barron's: \"테슬라가 당신보다 <em>운전을 더 잘 한다</em>\" — 주가 호재",
+      "hotShort": "테슬라, <em>인간보다 더 잘 운전</em> — Barron's",
+      "body": "Barron's가 테슬라 차량이 평균 인간 드라이버보다 나은 주행 성능을 보인다고 분석하며 이를 주가 호재로 평가했다 — 자율주행 소프트웨어의 안전 우위가 FSD 구독 채택률 확대와 규제 승인 경로를 동시에 지지하는 논거가 되기 때문이다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-drives-better-barrons-2026-06-18",
+      "summary": "주류 금융 미디어가 '테슬라가 인간보다 운전을 더 잘 한다'는 주장을 기사 제목으로 전면에 내세운 것 자체가 의미 있다. Barron's는 기관 투자자들이 오랫동안 신뢰해온 핵심 재무 매체로, 이 매체가 테슬라의 자율주행 성능을 주가 호재로 공식 연결한 분석을 내보냈다는 것은 월가가 자율주행 데이터를 본격적인 주주 가치 변수로 읽기 시작했다는 신호다.\n\n자율주행 시스템의 안전 성능 우위는 복수의 경로로 주가를 지지한다. FSD 구독($99/월)의 실질 가치 논거가 강화되어 신규 채택률과 갱신율이 높아지고, 리콜·책임 관련 규제 리스크가 줄어들며, 사이버캡 로보택시의 완전 자율주행 상용화 승인 경로가 빨라질 가능성이 높아진다.\n\n이번 Barron's 분석은 오스틴 사이버캡 서비스 초기 단계와 머스크의 FSD 주차 기능 대규모 업그레이드 예고가 겹치는 시점에 나왔다. 외부 분석이 자율주행 안전 성능 우위를 주가 호재로 공식화할수록, 테슬라 자율주행 thesis에 아직 확신이 없는 기관 투자자들의 포지션 전환을 자극하는 촉매가 된다.",
+      "title_en": "Barron's: 'Your Tesla Drives Better Than You Do' — <em>good news for the stock</em>",
+      "hotShort_en": "Barron's: Tesla <em>outdrives humans</em>",
+      "body_en": "Barron's published an analysis arguing that Tesla vehicles outperform the average human driver and that this is good news for TSLA — a mainstream financial publication framing FSD and Autopilot safety performance as direct shareholder value support across subscription adoption, regulatory risk reduction, and the commercial robotaxi approval timeline.",
+      "summary_en": "Barron's — one of the most widely read financial outlets for institutional investors — ran a piece headlined 'Your Tesla Drives Better Than You Do—and That's Good News for the Stock.' The headline frames Tesla's autonomous driving capability not as a speculative future thesis but as a present-tense performance advantage with direct stock implications — a meaningful shift in how mainstream financial media positions the FSD story.\n\nThe investment case runs through multiple channels. FSD subscription value: a documented safety advantage over human driving gives the $99-per-month subscription a defensible argument that supports new subscriber conversion and renewal rates. Regulatory risk: if Tesla's data shows FSD reduces accident rates vs. human baselines, it strengthens the company's position with NHTSA and other agencies on recall and liability questions. Commercial autonomy timeline: demonstrated performance beyond human benchmarks accelerates the regulatory case for Cybercab's fully driverless commercial service.\n\nThe Barron's piece arrives as Tesla's Austin Cybercab deployment is in early commercial operation and Elon Musk has flagged a major FSD parking upgrade ahead. A bullish mainstream financial narrative on autonomy capability at this moment helps activate institutional investors still building conviction on when robotaxi economics will materialize into earnings.",
+      "href": "https://www.barrons.com/articles/tesla-stock-robotaxi-self-driving-ed6a2b37",
+      "sentiment": "bull",
+      "hot": 7
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",

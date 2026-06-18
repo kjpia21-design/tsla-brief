@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-18 14:30 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-18 15:39 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "33m ago",
+      "pubDate": "2026-06-18T15:06:09.000Z",
+      "title": "Tesla Cybercab has one important piece that AI4 cars might need for FSD",
+      "body": "Tesla Cybercab has one important piece that AI4 cars might need for FSD Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-cybercab-one-important-piece-ai4-cars-might-need-fsd/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-18T14:34:36.000Z",
+      "title": "Squawk on the Street: Market News from the New York Stock Exchange",
+      "body": "Squawk on the Street: Market News from the New York Stock Exchange CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/squawk-on-the-street/"
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-18T14:23:09.000Z",
       "title": "Opinion | Narcissism and Childlessness",
       "body": "Opinion | Narcissism and Childlessness WSJ",
@@ -17,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-18T14:23:09.000Z",
       "title": "Opinion | Narcissism and Childlessness",
       "body": "Opinion | Narcissism and Childlessness WSJ",
@@ -30,7 +56,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "34m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-18T13:56:00.000Z",
       "title": "Waymo Has a Tesla-Like Recall. What It Means for Alphabet Stock.",
       "body": "Waymo Has a Tesla-Like Recall. What It Means for Alphabet Stock. Barron's",
@@ -43,20 +69,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-18T13:16:39.000Z",
-      "title": "Artificial Intelligence",
-      "body": "Artificial Intelligence - Page 2 The New York Times",
-      "sourceName": "The New York Times",
+      "time": "2h ago",
+      "pubDate": "2026-06-18T13:38:22.000Z",
+      "title": "SpaceX Shares Waver After Posting First Decline Since IPO",
+      "body": "SpaceX Shares Waver After Posting First Decline Since IPO Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.nytimes.com/spotlight/artificial-intelligence?page"
+      "href": "https://www.bloomberg.com/news/articles/2026-06-18/spacex-shares-waver-after-posting-first-decline-since-ipo"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-18T13:13:30.000Z",
       "title": "You've seen our FSD videos.. but check out how we use @insta360 gear to get the best content possible: X5 (360° cam) …",
       "body": "You've seen our FSD videos.. but check out how we use @insta360 gear to get the best content possible: X5 (360° cam) - https://t.co/CaUk6epLQ7 AcePro 2 (8k action cam) - https://t.co/xWO8q73Dej https://t.co/17nhMtFCZp",
@@ -67,9 +93,22 @@
       "href": "https://x.com/teslaownersSV/status/2067596566718714100"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-18T13:03:00.000Z",
+      "title": "SpaceX Is Getting Fast-Tracked Into Indexes. Ordinary Investors Could Lose Out.",
+      "body": "SpaceX Is Getting Fast-Tracked Into Indexes. Ordinary Investors Could Lose Out. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/indexes-rewrote-the-rules-for-musk-ordinary-americans-are-left-holding-the-bag-877caa22"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-18T13:00:41.000Z",
       "title": "A good ML engineer would label their own data first if they care about the outcome of their models. Training loss doe…",
       "body": "A good ML engineer would label their own data first if they care about the outcome of their models. Training loss does not tell you how well the model learns, but how well it fits the data. A model may have higher loss o…",
@@ -82,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-18T12:55:01.000Z",
       "title": "California’s counting on an IPO tax windfall. Several factors are complicating the equation",
       "body": "California’s counting on an IPO tax windfall. Several factors are complicating the equation CNBC",
@@ -95,10 +134,10 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-18T12:30:01.000Z",
-      "title": "Here are 5 wild stats from SpaceX's first week on the Nasdaq",
-      "body": "Here are 5 wild stats from SpaceX's first week on the Nasdaq CNBC",
+      "title": "Bonkers SpaceX stats that show how staggering the money movement has been",
+      "body": "Bonkers SpaceX stats that show how staggering the money movement has been CNBC",
       "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
@@ -108,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-18T12:12:37.000Z",
       "title": "Look forward to discussing this strategic poker move from Apple on @PowerLunch at 2 pm with @SullyCNBC @contessabrewe…",
       "body": "Look forward to discussing this strategic poker move from Apple on @PowerLunch at 2 pm with @SullyCNBC @contessabrewer @CNBC 🏆🍎🖥️📱🍿🎯🐂👇 https://t.co/sKPZSG4jW3",
@@ -121,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-18T11:51:00.000Z",
       "title": "Your Tesla Drives Better Than You Do—and That’s Good News for the Stock",
       "body": "Your Tesla Drives Better Than You Do—and That’s Good News for the Stock Barron's",
@@ -134,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-18T11:45:21.000Z",
       "title": "New Tesla Supercharger: Åland, Finland (4 stalls)",
       "body": "New Tesla Supercharger: Åland, Finland (4 stalls) https://t.co/8oGeJ97jH8 https://t.co/h5ewZDzepp",
@@ -145,22 +184,9 @@
       "href": "https://x.com/TeslaCharging/status/2067574384794161652"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-18T11:36:00.000Z",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "body": "Auto & Transport Roundup: Market Talk WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/auto-transport-roundup-market-talk-95e99045"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-18T11:22:07.000Z",
       "title": "It's interesting that stopping toxic algae is fascist, but electing a Nazi tattoo is saving democracy. Imagine if the…",
       "body": "It's interesting that stopping toxic algae is fascist, but electing a Nazi tattoo is saving democracy. Imagine if the AI is forced to think the same way to be considered “safe”, then our lives would be truly valued less …",
@@ -171,22 +197,9 @@
       "href": "https://x.com/yunta_tsai/status/2067568535405293795"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-06-18T10:04:27.000Z",
-      "title": "Apple and Intel partnering on chip front would be a huge step forward for Cupertino. Smart move in our view with mass…",
-      "body": "Apple and Intel partnering on chip front would be a huge step forward for Cupertino. Smart move in our view with massive hardware cycle next 3 years in midst of AI boom. Intel went from outsider with Apple to new key pot…",
-      "sourceName": "Dan Ives (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/DivesTech/status/2067548991416381821"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-18T05:22:21.000Z",
       "title": "FSD Supervised is life-changing for drivers with disabilities",
       "body": "FSD Supervised is life-changing for drivers with disabilities https://t.co/byjcQpcSg2",
@@ -197,22 +210,9 @@
       "href": "https://x.com/Tesla/status/2067477998098628746"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-06-18T05:07:47.000Z",
-      "title": "In any successful ML project, evaluation takes the most preparation, followed by data hygiene, and last is hill climb…",
-      "body": "In any successful ML project, evaluation takes the most preparation, followed by data hygiene, and last is hill climbing. Without the first two, you might climb the wrong hill and celebrate premature success.",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2067474332230791223"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-18T04:03:00.000Z",
       "title": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last",
       "body": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last Reuters",
@@ -225,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-18T04:03:00.000Z",
       "title": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last",
       "body": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last Reuters",
@@ -238,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "20h ago",
       "pubDate": "2026-06-17T19:23:00.000Z",
       "title": "CME Group’s Terry Duffy to Step Down as CEO, Ceding Role to Finance Chief",
       "body": "CME Group’s Terry Duffy to Step Down as CEO, Ceding Role to Finance Chief WSJ",
@@ -251,7 +251,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-06-17T19:02:50.000Z",
       "title": "Here’s our monthly update on all 35 portfolio stocks, including Cramer's favorite name to buy",
       "body": "Here’s our monthly update on all 35 portfolio stocks, including Cramer's favorite name to buy CNBC",
