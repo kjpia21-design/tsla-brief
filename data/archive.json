@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-18T11:51:00.000Z",
+      "title": "Barron's: \"테슬라가 당신보다 <em>운전을 더 잘 한다</em>\" — 주가 호재",
+      "hotShort": "테슬라, <em>인간보다 더 잘 운전</em> — Barron's",
+      "body": "Barron's가 테슬라 차량이 평균 인간 드라이버보다 나은 주행 성능을 보인다고 분석하며 이를 주가 호재로 평가했다 — 자율주행 소프트웨어의 안전 우위가 FSD 구독 채택률 확대와 규제 승인 경로를 동시에 지지하는 논거가 되기 때문이다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-drives-better-barrons-2026-06-18",
+      "summary": "주류 금융 미디어가 '테슬라가 인간보다 운전을 더 잘 한다'는 주장을 기사 제목으로 전면에 내세운 것 자체가 의미 있다. Barron's는 기관 투자자들이 오랫동안 신뢰해온 핵심 재무 매체로, 이 매체가 테슬라의 자율주행 성능을 주가 호재로 공식 연결한 분석을 내보냈다는 것은 월가가 자율주행 데이터를 본격적인 주주 가치 변수로 읽기 시작했다는 신호다.\n\n자율주행 시스템의 안전 성능 우위는 복수의 경로로 주가를 지지한다. FSD 구독($99/월)의 실질 가치 논거가 강화되어 신규 채택률과 갱신율이 높아지고, 리콜·책임 관련 규제 리스크가 줄어들며, 사이버캡 로보택시의 완전 자율주행 상용화 승인 경로가 빨라질 가능성이 높아진다.\n\n이번 Barron's 분석은 오스틴 사이버캡 서비스 초기 단계와 머스크의 FSD 주차 기능 대규모 업그레이드 예고가 겹치는 시점에 나왔다. 외부 분석이 자율주행 안전 성능 우위를 주가 호재로 공식화할수록, 테슬라 자율주행 thesis에 아직 확신이 없는 기관 투자자들의 포지션 전환을 자극하는 촉매가 된다.",
+      "title_en": "Barron's: 'Your Tesla Drives Better Than You Do' — <em>good news for the stock</em>",
+      "hotShort_en": "Barron's: Tesla <em>outdrives humans</em>",
+      "body_en": "Barron's published an analysis arguing that Tesla vehicles outperform the average human driver and that this is good news for TSLA — a mainstream financial publication framing FSD and Autopilot safety performance as direct shareholder value support across subscription adoption, regulatory risk reduction, and the commercial robotaxi approval timeline.",
+      "summary_en": "Barron's — one of the most widely read financial outlets for institutional investors — ran a piece headlined 'Your Tesla Drives Better Than You Do—and That's Good News for the Stock.' The headline frames Tesla's autonomous driving capability not as a speculative future thesis but as a present-tense performance advantage with direct stock implications — a meaningful shift in how mainstream financial media positions the FSD story.\n\nThe investment case runs through multiple channels. FSD subscription value: a documented safety advantage over human driving gives the $99-per-month subscription a defensible argument that supports new subscriber conversion and renewal rates. Regulatory risk: if Tesla's data shows FSD reduces accident rates vs. human baselines, it strengthens the company's position with NHTSA and other agencies on recall and liability questions. Commercial autonomy timeline: demonstrated performance beyond human benchmarks accelerates the regulatory case for Cybercab's fully driverless commercial service.\n\nThe Barron's piece arrives as Tesla's Austin Cybercab deployment is in early commercial operation and Elon Musk has flagged a major FSD parking upgrade ahead. A bullish mainstream financial narrative on autonomy capability at this moment helps activate institutional investors still building conviction on when robotaxi economics will materialize into earnings.",
+      "href": "https://www.barrons.com/articles/tesla-stock-robotaxi-self-driving-ed6a2b37",
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -2042,27 +2062,7 @@
       "href": "https://x.com/TeslaCharging/status/2064809844448833847",
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-10T19:40:17.000Z",
-      "title": "테슬라, 이틀 만에 유럽서 FSD <em>두 번째 국가 승인</em> — 벨기에",
-      "hotShort": "유럽 FSD 승인, <em>이틀 사이 두 번째</em> — 벨기에",
-      "body": "테슬라가 이틀 연속으로 유럽 국가에서 FSD 승인을 확보했다 — 6월 10일에는 벨기에가 새 승인국으로 합류했다. 6월 9일의 연속 국가 승인에 이어 하루 만에 또 하나의 유럽 국가를 추가하며, FSD 유럽 확장 속도가 주목받고 있다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-europe-fsd-approval-belgium-2026-06-10",
-      "summary": "테슬라라티(Teslarati)가 6월 10일 보도한 바에 따르면, 테슬라가 벨기에에서 FSD 운행 승인을 획득하며 이틀 연속 유럽 국가 승인이라는 기록을 이어갔다. 전날인 6월 9일에 네덜란드·리투아니아·에스토니아·덴마크 등 여러 유럽 국가에서 FSD 승인이 잇따른 데 이어, 하루 만에 벨기에가 추가됐다.\n\n유럽은 미국·중국과 달리 각국이 별도의 자율주행 규제 체계를 운영하며 인가 심사가 까다롭기로 알려져 있다. 이 짧은 기간 내 연속 승인은 테슬라 FSD의 유럽 규제 장벽 돌파 속도가 빠르게 가속되고 있음을 시사한다.\n\n벨기에는 지리적으로 EU의 중심에 위치한 국가이자 EU 핵심 기관들이 집중된 규제 상징성이 높은 곳이다. 테슬라의 FSD 유럽 승인 확대는 향후 구독 수익 확대와 로보택시 서비스의 대륙 간 이식 가능성을 높이는 중요한 발판이다.\n\n투자자 관점에서 유럽 FSD 승인 가속은 북미 외 지역에서의 FSD 수익화 가능성을 높이는 긍정 신호다. 승인 국가가 늘어날수록 유럽 내 FSD 구독 기반도 함께 넓어진다.",
-      "title_en": "Tesla lands <em>second consecutive European FSD approval</em> — Belgium",
-      "hotShort_en": "Belgium FSD approved — <em>2nd in Europe</em> in 2 days",
-      "body_en": "Tesla secured its second consecutive European FSD approval in two days, with Belgium joining on June 10. Coming one day after multiple European country approvals on June 9, back-to-back clearances in a region known for strict autonomous-driving rules signal an accelerating regulatory breakthrough for FSD.",
-      "summary_en": "Teslarati reported on June 10 that Tesla secured FSD approval in Belgium, extending a remarkable run of consecutive European country clearances. The day before, Tesla had obtained FSD approvals in the Netherlands, Lithuania, Estonia and Denmark.\n\nUnlike the US and China, Europe requires separate approvals from each country's transport authority under distinct regulatory frameworks — generally regarded as demanding. Consecutive approvals at this pace suggest Tesla's FSD is breaking through EU regulatory barriers at an accelerating rate.\n\nBelgium sits at the geographic and institutional heart of the EU, home to key European bodies. Each additional country approval builds the foundation for broader FSD subscription revenue and eventual robotaxi expansion across the continent.\n\nFor investors, a faster European FSD approval cadence is a clear positive indicator for overseas FSD monetization. As the approved-country list grows, so does the addressable base for European FSD subscriptions.",
-      "href": "https://www.teslarati.com/tesla-stuns-another-fsd-approval-in-europe-belgium/",
-      "sentiment": "bull",
-      "hot": 7
     }
   ],
-  "asOf": "2026-06-18 18:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-18 23:30 KST 자동 갱신 · 최신순"
 }
