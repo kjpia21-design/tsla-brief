@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-18 00:30 UTC · 누적 363건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-18 02:30 UTC · 누적 364건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-17T23:49:24.000Z",
+      "title": "일론 머스크 \"FSD에 <em>대규모 주차 기능 업그레이드</em> 예정\"",
+      "hotShort": "FSD, <em>주차 기능 대규모 업그레이드</em> — 머스크 예고",
+      "body": "일론 머스크가 테슬라 FSD에 대규모 주차 기능 업그레이드가 예정됐다고 밝혔다 — 자동 주차는 일상 운행에서 접점이 가장 많은 FSD 핵심 기능 중 하나로, 기능 도약이 실현되면 FSD 구독 매력과 소비자 채택률을 함께 끌어올릴 수 있다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-parking-upgrade-musk-2026-06-17",
+      "summary": "자동 주차 계열 기능(Auto Park·Smart Summon·Actual Smart Summon)은 테슬라 FSD 가운데 일반 운전자가 일상에서 가장 자주 접하는 영역이다. 고속도로 자율주행이 장거리 이동을 위한 기능이라면, 주차 자동화는 쇼핑몰·골목·일반 주차장에서 매일 반복되는 마찰을 줄여주는 기능이다.\n\n일론 머스크가 '대규모(major)' 업그레이드를 예고한 것은 단순 안정성 개선을 넘는 기능 도약을 시사한다. 인식 정확도·주차 시나리오 범위·실패율 개선 등이 이루어진다면 현재 FSD 구독자가 직접 체감할 수 있는 가장 빠른 체감 품질 향상이 될 수 있다.\n\nFSD 구독 매출 관점에서 주차 기능 개선의 파급력은 직접적이다. $99/월(북미 기준) 구독료에 대한 소비자의 가격 저항은 '자주 쓰는 기능이 얼마나 잘 작동하는가'에 크게 좌우된다. 고속도로 기능보다 훨씬 자주 사용되는 주차 기능의 도약은 갱신율과 신규 전환 양면에서 긍정적 효과가 기대된다.\n\n현재로선 업그레이드의 구체적인 내용·FSD 버전·출시 일정은 공개되지 않았다. 머스크의 발언은 방향 제시로 읽히며, 상세 사양 및 출시 시점은 추후 공식 발표나 소프트웨어 업데이트 노트를 통해 확인될 것으로 보인다.",
+      "title_en": "Elon Musk says Tesla FSD is getting a <em>major parking upgrade</em>",
+      "hotShort_en": "FSD set for <em>major parking upgrade</em>, Musk says",
+      "body_en": "Elon Musk announced that Tesla's Full Self-Driving software is set for a major upgrade to its parking capabilities, per Teslarati — parking automation covers some of FSD's most frequently used daily-life features, meaning a significant improvement would be among the most immediately felt upgrades for subscribers.",
+      "summary_en": "Tesla's parking feature suite — Auto Park, Smart Summon, and Actual Smart Summon — represents the FSD functionality most regularly encountered in everyday driving. Where highway autonomy addresses long-distance travel, parking automation reduces friction in the most routine driving scenario: arriving at a destination and stopping. An upgrade to these features would reach drivers daily, not just on long trips.\n\nMusk's use of 'major' signals an improvement beyond routine calibration or minor perception tweaks. Wider scenario coverage, better obstacle handling in tight lots, or more reliable reverse parking across vehicle lineups would all qualify. Any of these would represent the kind of tangible quality leap that FSD subscribers can verify within days of an update rolling out.\n\nFrom a subscription economics standpoint, parking capability is where subscriber retention is won or lost at the margin. At $99 per month in North America, the perceived daily value of FSD depends heavily on features drivers use every trip — not just edge cases on interstates. Meaningful parking improvements have a disproportionate effect on both renewal rates and the conversion of trial users who have delayed committing to a subscription.\n\nNo specific details about the scope of the upgrade, the target FSD version, or the release timeline have been announced. Musk's statement is directional — confirming parking is an active priority in FSD development — while specifics will follow with the relevant software release notes.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-major-parking-upgrade-elon-musk-says/",
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
