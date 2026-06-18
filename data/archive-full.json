@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-18 04:41 UTC · 누적 367건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-18 06:30 UTC · 누적 368건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-18T04:03:52.000Z",
+      "title": "로이터: 이란 전쟁 유가 급등, 유럽 EV 판매 <em>또 반등</em> — 지속성 불확실",
+      "hotShort": "이란 전쟁 유가 급등, 유럽 EV 판매 <em>또 반등</em>",
+      "body": "로이터에 따르면 이란 전쟁으로 인한 유럽의 유가 급등이 전기차 판매를 다시 끌어올리고 있다 — 에너지 비용 충격이 소비자의 EV 전환 동기를 자극하는 패턴이 반복됐지만, 로이터는 이 성장세의 지속 여부가 불확실하다고 짚었다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-iran-war-eu-ev-sales-2026-06-18",
+      "summary": "이란 전쟁이 장기화되면서 유럽 지역 연료 가격에 급등 압력이 가해졌고, 이 에너지 비용 충격이 소비자들의 전기차 전환 수요를 다시 끌어올리고 있다고 로이터가 보도했다. 'again(또)'이라는 표현은 이 현상이 처음이 아님을 뜻한다 — 2022~2023년 러시아의 우크라이나 침공 이후 유럽 연료비가 급등했을 때도 동일한 수요 패턴이 관찰됐다.\n\n테슬라는 유럽 시장에서 모델Y를 중심으로 주요 점유율을 보유하고 있다. 유럽 EV 수요가 전반적으로 반등하면 테슬라의 유럽 인도량과 직결될 수 있으며, 2분기 인도 실적 발표를 앞둔 시점에서 유럽 판매 반등이 실수치로 이어졌는지가 주목된다.\n\n그러나 로이터가 명시한 '지속 여부 불확실' 경고는 중요한 유보 사항이다. 이란 전쟁 상황 변화, 유가 재하락, 또는 계절 수요 변동이 이 반등을 단기 파동으로 끝낼 수 있다. 에너지 충격 기반의 EV 수요 증가는 구조적 채택과 달리 사건 의존적이어서 지속성이 낮다 — 같은 패턴이 전에도 반복됐다는 점에서, 이번 반등 역시 유가 안정화 시 수요가 제자리로 돌아올 가능성을 배제할 수 없다.",
+      "title_en": "Reuters: Iran war fuel spike <em>lifts European EV sales again</em> — but growth may not last",
+      "hotShort_en": "Iran war fuels <em>EU EV sales rebound</em> again",
+      "body_en": "Reuters reports Iran-war-driven fuel price spikes have lifted European EV sales again — repeating a pattern seen after the 2022 energy shock — while flagging that the growth may not be durable, an important caveat for Tesla investors tracking European delivery momentum ahead of Q2 results.",
+      "summary_en": "Fuel price spikes tied to the Iran war have returned as a near-term driver of EV demand in Europe, Reuters reports. Elevated fuel costs create a direct economic incentive for consumers to accelerate EV purchases, and the pattern has appeared before — a similar dynamic unfolded across Europe following Russia's invasion of Ukraine in 2022, when surging gasoline and diesel prices contributed to a notable uptick in EV adoption rates.\n\nTesla holds a meaningful share of European EV sales, with Model Y among the continent's best-performing models in recent years. A broad-based European EV demand lift feeds into Tesla's delivery volume in the region, which is under scrutiny ahead of the Q2 report expected in early July. Whether a demand bump translated into actual June deliveries will become clear when the report drops.\n\nReuters' explicit caveat that growth 'may not last' is the key qualifier. Demand triggered by energy-price shocks is event-dependent — the same caveats applied in 2022, when EV adoption spiked and then partially normalized as fuel prices settled. If the Iran conflict de-escalates or oil markets stabilize, the demand uplift could fade accordingly. Sustained EV growth in Europe depends on structural factors — charging density, purchase incentives, and product availability — that energy price volatility alone cannot maintain.\n\nFor Tesla shareholders, the near-term read is cautiously positive: a credible Reuters demand signal from a key market is better than headwinds. But the Reuters framing itself cautions against over-weighting the signal, and investors who've watched the EV adoption cycle before will recognize the pattern.",
+      "href": "https://www.reuters.com/business/energy/iran-war-fuel-spikes-lift-europes-ev-sales-again-growth-may-not-last-2026-06-18/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
