@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-18T05:22:21.000Z",
+      "title": "테슬라 공식 \"FSD 수퍼바이즈드, 장애인 운전자에게 <em>삶을 바꾸는 기능</em>\"",
+      "hotShort": "테슬라 공식: FSD, 장애인 운전자 <em>삶 바꾼다</em>",
+      "body": "테슬라가 공식 X 채널에서 FSD 수퍼바이즈드가 장애인 운전자에게 삶을 바꾸는 기능이 됐다고 밝혔다 — 이동에 신체적 제약이 있는 사람에게 자율주행 보조가 실질적 독립 이동을 가능하게 하며, FSD를 단순 편의 기능을 넘어 접근성 솔루션으로 자리매김하는 공식 메시지다.",
+      "sourceName": "Tesla",
+      "sourceLabel": "official",
+      "slug": "fsd-supervised-disability-2026-06-18",
+      "summary": "FSD 수퍼바이즈드는 테슬라 차량의 가속·조향·제동을 소프트웨어가 보조하는 자율주행 기능이다. 일반 운전자에게는 편의 기능이지만, 손발의 힘·조작 범위·반응 속도에 제약이 있는 특정 장애를 가진 운전자에게는 기존 보조 기술로도 해결하지 못했던 운전 참여의 문을 여는 수단이 될 수 있다.\n\n테슬라 공식 계정이 이 접근성 측면을 직접 강조한 것은 단순 기능 홍보를 넘는 의미를 갖는다. FSD 수퍼바이즈드를 '삶을 바꾸는 기술'로 프레이밍하는 것은 — 이동 자유가 선택이 아닌 필수인 사람들을 겨냥한 포지셔닝이기도 하다. 이 이용자층은 FSD 구독을 유지할 동기가 강해 해지 가능성이 낮고, 가격 민감도도 일반 구독자와 다르다.\n\n사이버캡의 완전 무인 로보택시 서비스가 아직 오스틴 초기 단계인 상황에서, 기존 테슬라 차량의 FSD 수퍼바이즈드는 현재 시점에 이 접근성 효과를 제공하는 유일한 수단이다. 테슬라가 접근성을 공개적으로 내세울수록 FSD 구독의 사회적 가치가 확장되고, 이는 장기적으로 구독 채택률과 충성도 양면에서 긍정 요인이 된다.",
+      "title_en": "Tesla official: FSD Supervised is <em>life-changing</em> for drivers with disabilities",
+      "hotShort_en": "Tesla FSD: <em>life-changing</em> for disabled",
+      "body_en": "Tesla's official X account highlighted that FSD Supervised is life-changing for drivers with disabilities — positioning Tesla's driving-assistance software as an accessibility solution for people with physical limitations, a framing that anchors FSD's value proposition well beyond convenience.",
+      "summary_en": "FSD Supervised handles steering, braking, and acceleration through Tesla's vision-based autonomy stack — the same software behind highway autonomy and city navigation. For most Tesla owners it functions as a convenience upgrade; for drivers with certain motor or physical limitations, the same software can make the difference between independent driving being possible or not.\n\nTesla's official X account choosing to spotlight this use case with the phrase 'life-changing' signals an intentional effort to promote FSD's accessibility dimension publicly. This is a distinct positioning strategy: framing FSD as assistive technology, rather than a premium convenience, targets a subscriber segment with different motivation to subscribe and retain. Users for whom FSD enables mobility they could not otherwise access have structurally higher retention rates and lower price sensitivity than convenience-driven subscribers.\n\nWith the Cybercab commercial robotaxi service still in its early Austin deployment phase, FSD Supervised on existing Tesla vehicles represents the immediate, real-world embodiment of Tesla's autonomy accessibility argument. Each use case Tesla surfaces in this category expands the social utility narrative for FSD — which may also carry weight in regulatory discussions around the benefits of autonomous driving technology.",
+      "href": "https://x.com/Tesla/status/2067477998098628746",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -2047,32 +2067,7 @@
       ],
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-10T14:52:02.000Z",
-      "title": "월가 3개 기관 애널리스트, TSLA 전망 <em>일제히 상향</em>",
-      "hotShort": "월가 3개 기관, TSLA 전망 <em>일제히 상향</em>",
-      "body": "3개 증권사 애널리스트가 테슬라 투자 전망을 동시에 상향 조정했다. JP모건 전환 이후 불과 하루 만에 복수 기관이 추가로 상향에 나서면서, FSD·로보택시 사업화를 둘러싼 월가의 TSLA 재평가 기류가 빠르게 확산되고 있다.",
-      "sourceName": "Blockonomi",
-      "sourceLabel": "press",
-      "slug": "stock-three-analysts-upgrade-tsla-2026-06-10",
-      "summary": "Blockonomi와 MoneyCheck가 6월 10일 보도한 바에 따르면, 3개 기관 애널리스트가 테슬라(TSLA) 주가 전망을 상향 조정하며 강세 모멘텀 회복 기대를 높였다. 전날인 6월 9일 JP모건이 약세 전망을 접고 전향적 시각으로 돌아선 데 이어, 하루 만에 추가 기관들이 합류하는 흐름이다.\n\n상향 조정의 근거로는 AI·FSD 기술 진전, 로보택시 사업화 실마리, 그리고 에너지 저장 부문의 고성장세가 거론된다. 단순 차량 인도 지표보다 이러한 고마진 신사업에 대한 시장의 시각이 달라지고 있다는 점이 핵심 변화다.\n\n다만 이번 소식은 1차 증권사 보고서가 아닌 2차 매체(Blockonomi, MoneyCheck)를 통해 전해진 것이므로, 구체적인 상향 기관명과 새 목표주가는 원문 보고서를 통해 별도 확인하는 것을 권장한다.",
-      "title_en": "Three Wall Street Analysts <em>Upgrade TSLA</em> as Bullish Momentum Broadens",
-      "hotShort_en": "Three analysts <em>upgrade TSLA</em> outlook",
-      "body_en": "Three brokerage analysts upgraded their Tesla (TSLA) outlooks on June 10, extending the bullish wave that started when JPMorgan reversed its long-held bearish stance the previous day. Multiple upgrades in rapid succession signal that Wall Street's reassessment of Tesla's FSD and robotaxi potential is gaining momentum.",
-      "summary_en": "Blockonomi and MoneyCheck reported on June 10 that three institutional analysts upgraded their Tesla (TSLA) outlooks, adding momentum to the bullish shift that began when JPMorgan reversed course on June 9.\n\nAnalysts cited progress on AI and FSD technology, early signs of robotaxi commercialization, and accelerating growth in Tesla's Energy Storage segment as the main catalysts for the re-rating. The market appears to be shifting focus from near-term delivery volumes toward higher-margin growth businesses.\n\nNote that these reports come from secondary publications (Blockonomi, MoneyCheck) rather than directly from brokerage research notes. Investors should verify specific firm names and revised target prices from the original analyst reports.",
-      "href": "https://blockonomi.com/tesla-tsla-stock-gains-momentum-as-three-analysts-upgrade-their-outlook/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Blockonomi",
-        "MoneyCheck"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-06-18 14:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-18 15:45 KST 자동 갱신 · 최신순"
 }
