@@ -1,10 +1,30 @@
 {
-  "asOf": "2026-06-18 08:30 UTC · 누적 369건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-18 10:30 UTC · 누적 370건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-18T07:05:10.000Z",
+      "title": "테슬라라티: 일론 머스크, 테슬라 <em>지분 추가 확대</em> — SpaceX 합병론 재점화",
+      "hotShort": "머스크 테슬라 <em>지분 추가 확대</em> — 합병론 재점화",
+      "body": "테슬라라티에 따르면 일론 머스크가 테슬라 지분을 추가로 확대했다 — SpaceX 역사적 IPO 직후 나온 최대주주의 자사 지분 확대는 테슬라에 대한 장기 신뢰 신호이며, 시장에서 진행 중인 SpaceX·테슬라 합병 가능성 논의를 다시 달구고 있다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-tesla-stake-increase-spacex-2026-06-18",
+      "summary": "일론 머스크는 개인 자산의 상당 부분을 테슬라와 SpaceX 지분으로 보유하고 있다. SpaceX가 역사상 최대 IPO로 상장된 지 불과 수일이 지난 시점에, 테슬라라티는 머스크가 테슬라 지분을 추가로 취득했다고 보도했다. 최대주주가 자사주를 추가 확보하는 결정은 내부자 관점에서 본 기업 가치에 대한 신뢰를 드러낸다.\n\n내부자 취득은 경영진이 외부 투자자보다 정밀한 정보를 바탕으로 자사주 가격에 확신을 가질 때 일어난다. 스톡 옵션 행사나 시장 매수를 막론하고, 최대주주의 지분 확대는 장기 보유 신뢰가 있다는 강한 시장 신호다. 테슬라 주가가 SpaceX IPO 이후 기대와 우려가 교차하는 국면에서 나온 머스크의 지분 확대는 이 신호를 더욱 강하게 만든다.\n\n이번 취득은 SpaceX·테슬라 합병 가능성 논의와도 교차한다. SpaceX COO 귀니 쇼트웰이 합병 가능성에 긍정 신호를 보내고 NYT가 심층 분석을 낸 직후, 머스크가 테슬라 지분을 추가 확보했다는 것은 두 회사의 결합 시나리오에서 테슬라의 위상을 강화하겠다는 방향과도 일치한다.\n\n테슬라 주주에게 내부자 취득은 일반적으로 긍정적인 선행지표다 — 창업자·최대주주가 주가 불확실성 속에서 지분을 더 늘리는 선택은, 단기 소음보다 회사의 장기 방향성에 확신이 있다는 실질적 표현이다. 취득의 정확한 규모와 방식은 SEC 공시를 통해 확인된다. SpaceX IPO 이후 테슬라-SpaceX 지형이 재편되는 시점에서, 이 행보는 테슬라가 그 미래의 중심에 있음을 시사한다.",
+      "title_en": "Teslarati: Elon Musk <em>adds to Tesla stake</em> — reigniting SpaceX merger talk",
+      "hotShort_en": "Musk <em>ups Tesla stake</em>, reigniting merger buzz",
+      "body_en": "Elon Musk has increased his Tesla stake, Teslarati reports — coming immediately after SpaceX's record IPO and the burst of merger speculation it triggered, a stake increase from Tesla's largest individual shareholder is a direct insider confidence signal and adds further fuel to the ongoing SpaceX-Tesla merger thesis.",
+      "summary_en": "Elon Musk's wealth is concentrated across Tesla and SpaceX — two companies he controls but that operate as entirely separate public entities. With SpaceX having just completed its landmark Nasdaq IPO and surging in the days after listing, Teslarati now reports that Musk has added to his Tesla position, making this a notable move at the precise moment when investor attention is navigating between the two companies.\n\nInsider purchases carry a distinct signal in financial markets. When a company's largest individual shareholder buys additional shares — through open market purchase or option exercise — it provides market participants with a real-money read on how the controlling shareholder assesses current valuation. At a moment when Tesla stock is navigating cross-currents — SpaceX-related investor attention, the ongoing FSD commercialization story, and Q2 delivery expectations — Musk's decision to add to his position rather than reduce it is a meaningful data point.\n\nThe timing of this stake expansion overlaps with the SpaceX-Tesla merger discussion that has been building in the investment community. SpaceX COO Gwynne Shotwell indicated a combination 'would make Elon's life a little easier,' and The New York Times subsequently published a detailed scenario analysis. A founder expanding his Tesla ownership while the merger narrative develops is, at minimum, not acting inconsistently with the thesis that Tesla remains the anchor of his long-term portfolio — not a company to be divested or absorbed as a subordinate entity.\n\nFor Tesla shareholders, insider purchases from the founding CEO historically function as a positive leading signal. The specific scale and mechanism of this stake increase will be confirmed through SEC Form 4 reporting. What the Teslarati report confirms is the direction: Musk is adding to Tesla, not reducing it — a direct counterpoint to the narrative that Tesla might be deemphasized within Musk's broader empire.",
+      "href": "https://www.teslarati.com/elon-musk-tesla-options-spacex-merger/",
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-18T05:22:21.000Z",
       "title": "테슬라 공식 \"FSD 수퍼바이즈드, 장애인 운전자에게 <em>삶을 바꾸는 기능</em>\"",
       "hotShort": "테슬라 공식: FSD, 장애인 운전자 <em>삶 바꾼다</em>",
@@ -14,7 +34,7 @@
       "slug": "fsd-supervised-disability-2026-06-18",
       "summary": "FSD 수퍼바이즈드는 테슬라 차량의 가속·조향·제동을 소프트웨어가 보조하는 자율주행 기능이다. 일반 운전자에게는 편의 기능이지만, 손발의 힘·조작 범위·반응 속도에 제약이 있는 특정 장애를 가진 운전자에게는 기존 보조 기술로도 해결하지 못했던 운전 참여의 문을 여는 수단이 될 수 있다.\n\n테슬라 공식 계정이 이 접근성 측면을 직접 강조한 것은 단순 기능 홍보를 넘는 의미를 갖는다. FSD 수퍼바이즈드를 '삶을 바꾸는 기술'로 프레이밍하는 것은 — 이동 자유가 선택이 아닌 필수인 사람들을 겨냥한 포지셔닝이기도 하다. 이 이용자층은 FSD 구독을 유지할 동기가 강해 해지 가능성이 낮고, 가격 민감도도 일반 구독자와 다르다.\n\n사이버캡의 완전 무인 로보택시 서비스가 아직 오스틴 초기 단계인 상황에서, 기존 테슬라 차량의 FSD 수퍼바이즈드는 현재 시점에 이 접근성 효과를 제공하는 유일한 수단이다. 테슬라가 접근성을 공개적으로 내세울수록 FSD 구독의 사회적 가치가 확장되고, 이는 장기적으로 구독 채택률과 충성도 양면에서 긍정 요인이 된다.",
       "title_en": "Tesla official: FSD Supervised is <em>life-changing</em> for drivers with disabilities",
-      "hotShort_en": "Tesla FSD: <em>life-changing</em> for disabled",
+      "hotShort_en": "Tesla FSD: <em>life-changing</em> for disabled drivers",
       "body_en": "Tesla's official X account highlighted that FSD Supervised is life-changing for drivers with disabilities — positioning Tesla's driving-assistance software as an accessibility solution for people with physical limitations, a framing that anchors FSD's value proposition well beyond convenience.",
       "summary_en": "FSD Supervised handles steering, braking, and acceleration through Tesla's vision-based autonomy stack — the same software behind highway autonomy and city navigation. For most Tesla owners it functions as a convenience upgrade; for drivers with certain motor or physical limitations, the same software can make the difference between independent driving being possible or not.\n\nTesla's official X account choosing to spotlight this use case with the phrase 'life-changing' signals an intentional effort to promote FSD's accessibility dimension publicly. This is a distinct positioning strategy: framing FSD as assistive technology, rather than a premium convenience, targets a subscriber segment with different motivation to subscribe and retain. Users for whom FSD enables mobility they could not otherwise access have structurally higher retention rates and lower price sensitivity than convenience-driven subscribers.\n\nWith the Cybercab commercial robotaxi service still in its early Austin deployment phase, FSD Supervised on existing Tesla vehicles represents the immediate, real-world embodiment of Tesla's autonomy accessibility argument. Each use case Tesla surfaces in this category expands the social utility narrative for FSD — which may also carry weight in regulatory discussions around the benefits of autonomous driving technology.",
       "href": "https://x.com/Tesla/status/2067477998098628746",
@@ -24,7 +44,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-18T04:03:52.000Z",
       "title": "로이터: 이란 전쟁 유가 급등, 유럽 EV 판매 <em>또 반등</em> — 지속성 불확실",
       "hotShort": "이란 전쟁 유가 급등, 유럽 EV 판매 <em>또 반등</em>",
@@ -64,7 +84,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-17T23:49:24.000Z",
       "title": "일론 머스크 \"FSD에 <em>대규모 주차 기능 업그레이드</em> 예정\"",
       "hotShort": "FSD, <em>주차 기능 대규모 업그레이드</em> — 머스크 예고",
@@ -84,7 +104,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-17T23:36:33.000Z",
       "title": "사이버트럭 <em>스마트 서몬(ASS)</em>, 실제 주차장 자율 이동 성능 확인",
       "hotShort": "사이버트럭 <em>스마트 서몬</em>, 실제 주차장 완벽 완주",
@@ -404,7 +424,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "24h ago",
       "pubDate": "2026-06-17T09:00:57.000Z",
       "title": "NYT 매거진 \"머스크의 <em>델라웨어 전쟁</em>, 미국 기업법 판도 바꿀 것\"",
       "hotShort": "NYT: 머스크 <em>델라웨어 전쟁</em>, 기업법 혁명 촉발",

@@ -1,23 +1,75 @@
 {
-  "asOf": "2026-06-18 08:30 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-18 10:30 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "26m ago",
+      "pubDate": "2026-06-18T10:04:27.000Z",
+      "title": "Apple and Intel partnering on chip front would be a huge step forward for Cupertino. Smart move in our view with mass…",
+      "body": "Apple and Intel partnering on chip front would be a huge step forward for Cupertino. Smart move in our view with massive hardware cycle next 3 years in midst of AI boom. Intel went from outsider with Apple to new key pot…",
+      "sourceName": "Dan Ives (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/DivesTech/status/2067548991416381821"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "38m ago",
+      "pubDate": "2026-06-18T09:52:42.000Z",
+      "title": "Germany",
+      "body": "Germany WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/topics/place/germany"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "53m ago",
+      "pubDate": "2026-06-18T09:37:35.000Z",
+      "title": "SpaceX Will Probably Swallow Tesla",
+      "body": "SpaceX Will Probably Swallow Tesla – and Your Portfolio Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/opinion/newsletters/2026-06-17/spacex-will-probably-swallow-tesla-and-your-portfolio"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
-      "pubDate": "2026-06-18T07:05:10.000Z",
-      "title": "Elon Musk just upped his Tesla stake further fueling SpaceX merger conversation",
-      "body": "Elon Musk just upped his Tesla stake further fueling SpaceX merger conversation Teslarati",
-      "sourceName": "Teslarati",
+      "pubDate": "2026-06-18T09:09:54.000Z",
+      "title": "Donald Trump",
+      "body": "Donald Trump - Page 8 The New York Times",
+      "sourceName": "The New York Times",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/elon-musk-tesla-options-spacex-merger/"
+      "href": "https://www.nytimes.com/spotlight/donald-trump?page"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-18T09:03:51.000Z",
+      "title": "Retail Investors Help Send SpaceX Shares Soaring",
+      "body": "Retail Investors Help Send SpaceX Shares Soaring The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/2026/06/18/business/spacex-retail-investors.html"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-18T05:22:21.000Z",
       "title": "FSD Supervised is life-changing for drivers with disabilities",
       "body": "FSD Supervised is life-changing for drivers with disabilities https://t.co/byjcQpcSg2",
@@ -28,9 +80,22 @@
       "href": "https://x.com/Tesla/status/2067477998098628746"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5h ago",
+      "pubDate": "2026-06-18T05:13:39.000Z",
+      "title": "Cybertruck with Actual Smart Summon is a grown up remote control car.",
+      "body": "Cybertruck with Actual Smart Summon is a grown up remote control car. https://t.co/qNxzjrK7Dy",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2067475811633160414"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-18T05:07:47.000Z",
       "title": "In any successful ML project, evaluation takes the most preparation, followed by data hygiene, and last is hill climb…",
       "body": "In any successful ML project, evaluation takes the most preparation, followed by data hygiene, and last is hill climbing. Without the first two, you might climb the wrong hill and celebrate premature success.",
@@ -43,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-18T05:04:04.000Z",
       "title": "Tim Cook",
       "body": "Tim Cook WSJ",
@@ -54,74 +119,35 @@
       "href": "https://www.wsj.com/topics/person/tim-cook"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-18T04:38:00.000Z",
-      "title": "Teenagers vs. Social Media Bans",
-      "body": "Teenagers vs. Social Media Bans The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/2026/06/17/world/social-media-ban-iran-deal-congo-world-cup.html"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-06-18T04:03:00.000Z",
-      "title": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last",
-      "body": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/energy/iran-war-fuel-spikes-lift-europes-ev-sales-again-growth-may-not-last-2026-06-18/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
-      "pubDate": "2026-06-18T04:03:00.000Z",
-      "title": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last",
-      "body": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/energy/iran-war-fuel-spikes-lift-europes-ev-sales-again-growth-may-not-last-2026-06-18/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-18T04:00:06.000Z",
-      "title": "US ‘nuclear bros’ test America’s atomic revival",
-      "body": "US ‘nuclear bros’ test America’s atomic revival Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/0d074795-e54a-41d7-9c97-baf2bd6deb94"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
       "time": "6h ago",
-      "pubDate": "2026-06-18T02:23:06.000Z",
-      "title": "Semiconductors",
-      "body": "Semiconductors WSJ",
-      "sourceName": "WSJ",
+      "pubDate": "2026-06-18T04:03:00.000Z",
+      "title": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last",
+      "body": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/topics/industry/semiconductors"
+      "href": "https://www.reuters.com/business/energy/iran-war-fuel-spikes-lift-europes-ev-sales-again-growth-may-not-last-2026-06-18/"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "6h ago",
+      "pubDate": "2026-06-18T04:03:00.000Z",
+      "title": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last",
+      "body": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/energy/iran-war-fuel-spikes-lift-europes-ev-sales-again-growth-may-not-last-2026-06-18/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "9h ago",
       "pubDate": "2026-06-18T01:56:52.000Z",
       "title": "New Tesla Supercharger: Odessa, TX (8 stalls)",
       "body": "New Tesla Supercharger: Odessa, TX (8 stalls) https://t.co/EIGlj4FnuK https://t.co/aUuzT9LTv7",
@@ -132,35 +158,9 @@
       "href": "https://x.com/TeslaCharging/status/2067426287090815234"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
-      "pubDate": "2026-06-17T21:35:09.000Z",
-      "title": "FSD Supervised celebrates your milestones",
-      "body": "FSD Supervised celebrates your milestones https://t.co/Ep3zCknq3k",
-      "sourceName": "Tesla (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/Tesla/status/2067360424119632325"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-17T21:14:46.000Z",
-      "title": "New Tesla Supercharger: Phoenixville, PA (8 stalls)",
-      "body": "New Tesla Supercharger: Phoenixville, PA (8 stalls) https://t.co/zF5UODQGYj https://t.co/rGpIaTErtH",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2067355293915455652"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-17T19:02:50.000Z",
       "title": "Here’s our monthly update on all 35 portfolio stocks, including Cramer's favorite name to buy",
       "body": "Here’s our monthly update on all 35 portfolio stocks, including Cramer's favorite name to buy CNBC",
@@ -173,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-17T19:02:50.000Z",
       "title": "Here’s our monthly update on all 35 portfolio stocks, including Cramer's favorite name to buy",
       "body": "Here’s our monthly update on all 35 portfolio stocks, including Cramer's favorite name to buy CNBC",
@@ -186,7 +186,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-17T17:57:01.000Z",
       "title": "JPMorgan says clients should be 'aggressive buyers' of this chip stock",
       "body": "JPMorgan says clients should be 'aggressive buyers' of this chip stock CNBC",
@@ -199,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-17T15:56:14.000Z",
       "title": "Uber takes on Waymo and Tesla with expanded robotaxi service in Houston",
       "body": "Uber takes on Waymo and Tesla with expanded robotaxi service in Houston CNBC",
@@ -212,7 +212,20 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "20h ago",
+      "pubDate": "2026-06-17T14:12:35.000Z",
+      "title": "Dutch road authority says 40,000 Teslas in the Netherlands using 'self-driving' software",
+      "body": "Dutch road authority says 40,000 Teslas in the Netherlands using 'self-driving' software Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/europe/dutch-road-authority-says-40000-teslas-netherlands-using-self-driving-software-2026-06-17/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "20h ago",
       "pubDate": "2026-06-17T14:12:35.000Z",
       "title": "Dutch road authority says 40,000 Teslas in the Netherlands using 'self-driving' software",
       "body": "Dutch road authority says 40,000 Teslas in the Netherlands using 'self-driving' software Reuters",
@@ -225,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-17T12:25:53.000Z",
       "title": "Here are Wednesday's biggest analyst calls: Nvidia, Tesla, Netflix, Broadcom, Micron, Lyft, AMD, Figma & more",
       "body": "Here are Wednesday's biggest analyst calls: Nvidia, Tesla, Netflix, Broadcom, Micron, Lyft, AMD, Figma & more CNBC",
@@ -238,7 +251,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "21h ago",
+      "time": "23h ago",
       "pubDate": "2026-06-17T11:36:37.000Z",
       "title": "This design stock has lost roughly half its value in 2026. Citi thinks it could double from here",
       "body": "This design stock has lost roughly half its value in 2026. Citi thinks it could double from here CNBC",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/17/this-design-stock-has-lost-roughly-half-its-value-in-2026-citi-thinks-it-could-double.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "22h ago",
-      "pubDate": "2026-06-17T10:27:41.000Z",
-      "title": "Stocks",
-      "body": "Stocks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/profile/person/25511113"
     }
   ]
 }
