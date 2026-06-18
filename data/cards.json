@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-18T04:03:52.000Z",
+      "title": "로이터: 이란 전쟁 유가 급등, 유럽 EV 판매 <em>또 반등</em> — 지속성 불확실",
+      "hotShort": "이란 전쟁 유가 급등, 유럽 EV 판매 <em>또 반등</em>",
+      "body": "로이터에 따르면 이란 전쟁으로 인한 유럽의 유가 급등이 전기차 판매를 다시 끌어올리고 있다 — 에너지 비용 충격이 소비자의 EV 전환 동기를 자극하는 패턴이 반복됐지만, 로이터는 이 성장세의 지속 여부가 불확실하다고 짚었다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-iran-war-eu-ev-sales-2026-06-18",
+      "summary": "이란 전쟁이 장기화되면서 유럽 지역 연료 가격에 급등 압력이 가해졌고, 이 에너지 비용 충격이 소비자들의 전기차 전환 수요를 다시 끌어올리고 있다고 로이터가 보도했다. 'again(또)'이라는 표현은 이 현상이 처음이 아님을 뜻한다 — 2022~2023년 러시아의 우크라이나 침공 이후 유럽 연료비가 급등했을 때도 동일한 수요 패턴이 관찰됐다.\n\n테슬라는 유럽 시장에서 모델Y를 중심으로 주요 점유율을 보유하고 있다. 유럽 EV 수요가 전반적으로 반등하면 테슬라의 유럽 인도량과 직결될 수 있으며, 2분기 인도 실적 발표를 앞둔 시점에서 유럽 판매 반등이 실수치로 이어졌는지가 주목된다.\n\n그러나 로이터가 명시한 '지속 여부 불확실' 경고는 중요한 유보 사항이다. 이란 전쟁 상황 변화, 유가 재하락, 또는 계절 수요 변동이 이 반등을 단기 파동으로 끝낼 수 있다. 에너지 충격 기반의 EV 수요 증가는 구조적 채택과 달리 사건 의존적이어서 지속성이 낮다 — 같은 패턴이 전에도 반복됐다는 점에서, 이번 반등 역시 유가 안정화 시 수요가 제자리로 돌아올 가능성을 배제할 수 없다.",
+      "title_en": "Reuters: Iran war fuel spike <em>lifts European EV sales again</em> — but growth may not last",
+      "hotShort_en": "Iran war fuels <em>EU EV sales rebound</em> again",
+      "body_en": "Reuters reports Iran-war-driven fuel price spikes have lifted European EV sales again — repeating a pattern seen after the 2022 energy shock — while flagging that the growth may not be durable, an important caveat for Tesla investors tracking European delivery momentum ahead of Q2 results.",
+      "summary_en": "Fuel price spikes tied to the Iran war have returned as a near-term driver of EV demand in Europe, Reuters reports. Elevated fuel costs create a direct economic incentive for consumers to accelerate EV purchases, and the pattern has appeared before — a similar dynamic unfolded across Europe following Russia's invasion of Ukraine in 2022, when surging gasoline and diesel prices contributed to a notable uptick in EV adoption rates.\n\nTesla holds a meaningful share of European EV sales, with Model Y among the continent's best-performing models in recent years. A broad-based European EV demand lift feeds into Tesla's delivery volume in the region, which is under scrutiny ahead of the Q2 report expected in early July. Whether a demand bump translated into actual June deliveries will become clear when the report drops.\n\nReuters' explicit caveat that growth 'may not last' is the key qualifier. Demand triggered by energy-price shocks is event-dependent — the same caveats applied in 2022, when EV adoption spiked and then partially normalized as fuel prices settled. If the Iran conflict de-escalates or oil markets stabilize, the demand uplift could fade accordingly. Sustained EV growth in Europe depends on structural factors — charging density, purchase incentives, and product availability — that energy price volatility alone cannot maintain.\n\nFor Tesla shareholders, the near-term read is cautiously positive: a credible Reuters demand signal from a key market is better than headwinds. But the Reuters framing itself cautions against over-weighting the signal, and investors who've watched the EV adoption cycle before will recognize the pattern.",
+      "href": "https://www.reuters.com/business/energy/iran-war-fuel-spikes-lift-europes-ev-sales-again-growth-may-not-last-2026-06-18/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
@@ -19,6 +39,26 @@
       "href": "https://x.com/teslaownersSV/status/2067421293339939324",
       "sentiment": "bull",
       "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "5h ago",
+      "pubDate": "2026-06-17T23:49:24.000Z",
+      "title": "일론 머스크 \"FSD에 <em>대규모 주차 기능 업그레이드</em> 예정\"",
+      "hotShort": "FSD, <em>주차 기능 대규모 업그레이드</em> — 머스크 예고",
+      "body": "일론 머스크가 테슬라 FSD에 대규모 주차 기능 업그레이드가 예정됐다고 밝혔다 — 자동 주차는 일상 운행에서 접점이 가장 많은 FSD 핵심 기능 중 하나로, 기능 도약이 실현되면 FSD 구독 매력과 소비자 채택률을 함께 끌어올릴 수 있다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-parking-upgrade-musk-2026-06-17",
+      "summary": "자동 주차 계열 기능(Auto Park·Smart Summon·Actual Smart Summon)은 테슬라 FSD 가운데 일반 운전자가 일상에서 가장 자주 접하는 영역이다. 고속도로 자율주행이 장거리 이동을 위한 기능이라면, 주차 자동화는 쇼핑몰·골목·일반 주차장에서 매일 반복되는 마찰을 줄여주는 기능이다.\n\n일론 머스크가 '대규모(major)' 업그레이드를 예고한 것은 단순 안정성 개선을 넘는 기능 도약을 시사한다. 인식 정확도·주차 시나리오 범위·실패율 개선 등이 이루어진다면 현재 FSD 구독자가 직접 체감할 수 있는 가장 빠른 체감 품질 향상이 될 수 있다.\n\nFSD 구독 매출 관점에서 주차 기능 개선의 파급력은 직접적이다. $99/월(북미 기준) 구독료에 대한 소비자의 가격 저항은 '자주 쓰는 기능이 얼마나 잘 작동하는가'에 크게 좌우된다. 고속도로 기능보다 훨씬 자주 사용되는 주차 기능의 도약은 갱신율과 신규 전환 양면에서 긍정적 효과가 기대된다.\n\n현재로선 업그레이드의 구체적인 내용·FSD 버전·출시 일정은 공개되지 않았다. 머스크의 발언은 방향 제시로 읽히며, 상세 사양 및 출시 시점은 추후 공식 발표나 소프트웨어 업데이트 노트를 통해 확인될 것으로 보인다.",
+      "title_en": "Elon Musk says Tesla FSD is getting a <em>major parking upgrade</em>",
+      "hotShort_en": "FSD set for <em>major parking upgrade</em>, Musk says",
+      "body_en": "Elon Musk announced that Tesla's Full Self-Driving software is set for a major upgrade to its parking capabilities, per Teslarati — parking automation covers some of FSD's most frequently used daily-life features, meaning a significant improvement would be among the most immediately felt upgrades for subscribers.",
+      "summary_en": "Tesla's parking feature suite — Auto Park, Smart Summon, and Actual Smart Summon — represents the FSD functionality most regularly encountered in everyday driving. Where highway autonomy addresses long-distance travel, parking automation reduces friction in the most routine driving scenario: arriving at a destination and stopping. An upgrade to these features would reach drivers daily, not just on long trips.\n\nMusk's use of 'major' signals an improvement beyond routine calibration or minor perception tweaks. Wider scenario coverage, better obstacle handling in tight lots, or more reliable reverse parking across vehicle lineups would all qualify. Any of these would represent the kind of tangible quality leap that FSD subscribers can verify within days of an update rolling out.\n\nFrom a subscription economics standpoint, parking capability is where subscriber retention is won or lost at the margin. At $99 per month in North America, the perceived daily value of FSD depends heavily on features drivers use every trip — not just edge cases on interstates. Meaningful parking improvements have a disproportionate effect on both renewal rates and the conversion of trial users who have delayed committing to a subscription.\n\nNo specific details about the scope of the upgrade, the target FSD version, or the release timeline have been announced. Musk's statement is directional — confirming parking is an active priority in FSD development — while specifics will follow with the relevant software release notes.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-major-parking-upgrade-elon-musk-says/",
+      "sentiment": "bull",
+      "hot": 6
     },
     {
       "category": "product",
@@ -41,25 +81,25 @@
       "hot": 5
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
-      "pubDate": "2026-06-17T21:35:09.000Z",
-      "title": "테슬라 공식, FSD 수퍼바이즈드 <em>마일스톤 축하</em> 기능 소개",
-      "hotShort": "테슬라 FSD, <em>마일스톤 축하</em> 기능으로 참여 강화",
-      "body": "테슬라가 공식 채널을 통해 FSD 수퍼바이즈드의 마일스톤 축하 기능을 소개했다 — FSD 주행 누적 성과를 기록하고 인정해주는 참여형 UX로, 구독자의 꾸준한 사용을 유도해 FSD 체감 가치와 구독 유지율을 높이는 방향이다.",
-      "sourceName": "Tesla",
-      "sourceLabel": "official",
-      "slug": "fsd-supervised-milestones-feature-2026-06-17",
-      "summary": "마일스톤 시스템은 사용자가 FSD 수퍼바이즈드로 특정 거리나 횟수를 달성할 때 이를 기록하고 알려주는 기능으로, 스마트폰 앱과 구독 서비스에서 흔히 쓰이는 참여 유지(engagement) 메커니즘이다. 테슬라 공식 계정이 '축하(celebrates)'라는 표현을 사용한 점은 달성 시 시각적 피드백이나 알림이 제공되는 형태임을 시사한다.\n\nFSD 수퍼바이즈드는 미국 기준 월 $99의 구독 상품이다. 마일스톤 기능은 구독자에게 FSD를 지속적으로 사용할 새로운 동기를 제공한다 — 누적 기록이 쌓일수록 구독을 중단하기 어려워지는 습관 형성 효과를 기대할 수 있으며, 이는 장기 구독자 유지에 긍정적으로 작용한다.\n\n테슬라가 공식 채널에서 이 기능을 소개한 것은 단순 내부 업데이트를 넘어 FSD 구독 경험을 더욱 보람 있게 만들겠다는 UX 방향성을 밝힌 것으로 읽힌다. FSD 구독 확대가 테슬라의 소프트웨어 매출 성장의 핵심 경로라는 점에서, 구독 유지율을 높이는 기능 추가는 장기적 재무 관점에서 의미를 갖는다.",
-      "title_en": "Tesla officially introduces <em>milestone celebration</em> feature for FSD Supervised",
-      "hotShort_en": "FSD Supervised <em>celebrates milestones</em>",
-      "body_en": "Tesla's official account announced a milestone celebration feature for FSD Supervised, where the system tracks and acknowledges cumulative FSD driving achievements — an engagement mechanic that gives subscribers a personalized reason to keep using FSD consistently and reinforces the value of staying subscribed.",
-      "summary_en": "The milestone system marks and celebrates when users reach cumulative driving milestones with FSD Supervised active — a standard engagement design pattern used across consumer apps to reinforce habitual use. Tesla's use of 'celebrates' in the official announcement suggests in-app notifications or visual feedback are part of the experience when a milestone is reached.\n\nFSD Supervised is priced at $99 per month in the US. Milestone recognition adds a layer of motivation for subscribers to engage consistently with FSD — accumulated records of achievements create a form of personal investment that makes discontinuing the subscription carry additional cost beyond the monthly fee. This is a retention mechanic as much as a feature announcement.\n\nFrom a financial standpoint, FSD subscription revenue is one of Tesla's clearest paths to high-margin software income. Features that increase subscriber engagement and reduce churn directly impact how that revenue line grows. The milestone announcement comes as FSD Supervised continues expanding in North America ahead of planned international rollouts, and signals that Tesla is actively investing in the subscriber experience to support long-term subscription growth.",
-      "href": "https://x.com/Tesla/status/2067360424119632325",
-      "sentiment": "bull",
-      "hot": 4
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "20h ago",
+      "pubDate": "2026-06-17T09:00:57.000Z",
+      "title": "NYT 매거진 \"머스크의 <em>델라웨어 전쟁</em>, 미국 기업법 판도 바꿀 것\"",
+      "hotShort": "NYT: 머스크 <em>델라웨어 전쟁</em>, 기업법 혁명 촉발",
+      "body": "뉴욕타임스 매거진이 일론 머스크의 델라웨어 법원과의 대립이 미국 기업법 구조 자체를 변화시킬 수 있다고 심층 분석했다 — 테슬라의 텍사스 재설립이 도화선이 돼 주요 기업들의 이탈 논의가 확산되며, 200년 역사의 델라웨어 기업법 패권이 흔들리기 시작했다.",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "musk-delaware-feud-corporate-law-2026-06-17",
+      "summary": "뉴욕타임스 매거진이 일론 머스크와 델라웨어주 사이의 법적 대립을 심층 분석한 장문 피처를 게재했다. 2024년 1월 델라웨어 형평법원(코트오브챈서리)이 테슬라 이사회가 머스크에게 부여한 약 560억 달러($56B) 규모의 스톡옵션 보상 패키지를 무효화한 것이 이 갈등의 직접적 발단이었다.\n\n이후 머스크는 공개적으로 델라웨어를 비판하며 기업들의 이탈을 촉구했다. 테슬라는 2024년 주주 투표를 통해 본점 등기지를 델라웨어에서 텍사스로 이전했다. NYT의 분석에 따르면, 이후 다른 주요 기업들도 델라웨어 재설립을 재고하기 시작하며 200년 넘게 미국 기업법의 중심이었던 델라웨어의 패권에 실질적 균열이 생겼다.\n\n미국 상장 기업의 약 70%가 델라웨어주에 등기를 두고 있다. 델라웨어는 유연한 기업법과 전문화된 기업 재판소(코트오브챈서리)로 독보적 지위를 유지해 왔다. 머스크의 도전은 다른 주들이 기업 유치 경쟁에 뛰어드는 계기가 됐다.\n\n테슬라 주주 관점에서, 테슬라는 이미 텍사스 이전을 완료해 이 갈등의 직접적 당사자에서 벗어났다. 그러나 미국 기업법 판도가 이 도전을 계기로 실제로 재편된다면, 이는 머스크의 기업가적 영향력이 자신의 사업을 넘어 미국 자본시장 규칙 자체를 바꾸는 단계로 확장됐음을 의미하며 — 향후 테슬라 거버넌스 환경에도 장기적으로 유리한 방향의 변화를 시사한다.",
+      "title_en": "NYT Magazine: Musk's <em>Delaware feud</em> may transform corporate America",
+      "hotShort_en": "Musk's <em>Delaware</em> feud rewrites corp. law",
+      "body_en": "A New York Times Magazine deep feature examines how Elon Musk's legal feud with Delaware could fundamentally reshape U.S. corporate law — with Tesla's reincorporation to Texas having already triggered broader questioning among major U.S. companies about their ties to America's dominant corporate jurisdiction of two centuries.",
+      "summary_en": "The New York Times Magazine has published an in-depth feature on the widening consequences of Elon Musk's conflict with the state of Delaware. The feud's proximate cause was a January 2024 Delaware Court of Chancery ruling that voided Tesla's board-approved approximately $56 billion stock option compensation package for Musk — one of the largest executive pay awards in U.S. history.\n\nMusk responded by publicly criticizing Delaware and encouraging companies to relocate their legal homes. Tesla held a shareholder vote and reincorporated in Texas in 2024. According to the NYT's analysis, other major U.S. companies subsequently began reassessing their Delaware registrations, introducing real cracks in a two-century-old corporate hegemony.\n\nApproximately 70% of U.S. publicly traded companies are incorporated in Delaware, drawn by its flexible corporate statutes and specialized Court of Chancery. The Musk-Delaware conflict has prompted competing states to actively position themselves as alternative corporate homes — a structural shift the NYT feature argues is already underway.\n\nFor Tesla shareholders, the direct exposure is already resolved: Tesla completed its Texas reincorporation in 2024. But if Musk's challenge catalyzes a genuine restructuring of U.S. corporate law, it marks a significant expansion of his entrepreneurial influence — from disrupting industries to reshaping the legal rules governing American capitalism itself, with potential long-term governance benefits for companies led by founder-executives.",
+      "href": "https://www.nytimes.com/2026/06/17/magazine/elon-musk-delaware-corporate-law.html",
+      "sentiment": "neutral",
+      "hot": 8
     }
   ],
-  "asOf": "2026-06-18 13:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-18 14:05 KST 자동 갱신 · 최신순"
 }
