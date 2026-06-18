@@ -1,9 +1,29 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-18T15:42:11.000Z",
+      "title": "로이터 단독: 스웨덴, 테슬라 <em>FSD 유럽 반대</em> 가능성 — 과속 기준 충돌",
+      "hotShort": "스웨덴, 테슬라 <em>FSD 유럽 승인 반대</em> 시사 — 과속 기준",
+      "body": "로이터 단독 보도에 따르면 스웨덴이 테슬라의 감독형 자율주행 기술의 유럽 승인을 반대할 수 있다고 알려졌다 — 과속 우려가 이유이며, EU 회원국의 이의 제기는 유럽 전체 인증 절차를 지연·차단할 수 있어 FSD 유럽 확장 전략에 직접적 규제 장벽이 될 수 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-sweden-oppose-eu-fsd-2026-06-18",
+      "summary": "EU에서 자율주행·운전 보조 기술이 신규 차량에 탑재되려면 유럽 형식 승인(Type Approval) 절차를 통과해야 한다. 로이터가 단독 보도한 이번 소식에 따르면, 스웨덴 당국이 테슬라의 FSD 수퍼바이즈드가 일부 시나리오에서 제한 속도를 초과 주행하도록 허용한다는 점을 과속 우려로 지적하며 유럽 인증 반대 가능성을 시사하고 있다. 스웨덴은 1997년 세계 최초로 교통사고 사망자 제로를 목표로 한 '비전 제로(Vision Zero)' 정책을 도입한 나라로, 과속 문제에 유럽 내에서도 가장 엄격한 기준을 적용한다.\n\nEU 회원국이 자국의 안전 기준 위반 우려를 공식 절차로 제기할 경우, 해당 기술은 기준 충족이 확인될 때까지 유럽 전체에서 인증이 보류될 수 있다. 스웨덴의 반대 입장이 현실화되면 테슬라는 유럽 시장용 FSD의 속도 관리 알고리즘을 재설계하거나, 해당 기능을 제한적으로만 운용하는 수정이 요구될 수 있다.\n\n이번 보도는 테슬라가 오스틴 사이버캡 로보택시를 확대하고 FSD 글로벌 진출을 가속화하는 시점에 나왔다. 덴마크 등 유럽 일부 국가에서 FSD V14 무료 체험이 이미 시작됐지만, 스웨덴의 공식 반대가 EU 절차로 진행될 경우 유럽 전역의 FSD 유료 구독 론칭 일정에 차질이 생길 수 있다. 테슬라의 장기 수익 모델에서 FSD 구독료 비중이 커지는 만큼, 이번 규제 리스크는 유럽 시장 자율주행 수익 확보 시간표에 직접적 영향을 줄 수 있다.",
+      "title_en": "Reuters exclusive: Sweden may <em>oppose Tesla FSD</em> in Europe over speeding",
+      "hotShort_en": "Sweden may block <em>Tesla FSD</em> over EU speeding rules",
+      "body_en": "Reuters exclusively reports that Sweden may oppose Tesla's supervised self-driving technology in Europe over speeding concerns — a single EU member-state objection can trigger delays or requirements for technical modification in the European type-approval process, making this a direct regulatory threat to Tesla's FSD European rollout and subscription revenue timeline.",
+      "summary_en": "EU type-approval regulations require that autonomous and driver-assistance technologies pass a formal certification process before deployment in commercial vehicles across member states. According to a Reuters exclusive, Swedish authorities are raising safety concerns about Tesla's FSD Supervised — specifically over scenarios where the system allows driving at modest margins above posted speed limits. Sweden is the origin country of the Vision Zero traffic safety framework, introduced in 1997, giving it one of Europe's most stringent positions on speed as a primary road safety variable.\n\nIf Sweden registers a formal objection through EU regulatory channels, Tesla's supervised self-driving technology would face approval delays across Europe until the speed management issue is resolved. Resolution could require Tesla to modify how FSD Supervised handles speed limit compliance in European configurations — potentially capping the system's behavior strictly at posted limits rather than allowing marginal overspeed as in the current North American implementation.\n\nThis news surfaces as Tesla is simultaneously expanding its Austin Cybercab commercial service and accelerating FSD rollout in European markets. FSD V14 free trials have recently launched in Denmark, suggesting Nordic markets were on an imminent expansion path. A Swedish-led regulatory objection that progresses formally would directly threaten that timeline across Scandinavia and potentially the broader EU.\n\nFor Tesla investors, European FSD subscription revenue is a meaningful component of the long-term financial model — FSD in Europe would add a recurring high-margin revenue stream on top of vehicle sales in a market where Tesla has strong presence. An extended EU regulatory delay would push that revenue further into the future, a negative signal for the autonomous driving monetization narrative that supports TSLA's premium valuation.",
+      "href": "https://www.reuters.com/business/autos-transportation/sweden-may-oppose-teslas-supervised-self-driving-tech-europe-over-speeding-2026-06-18/",
+      "sentiment": "bear",
+      "hot": 8
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-18T11:51:00.000Z",
       "title": "Barron's: \"테슬라가 당신보다 <em>운전을 더 잘 한다</em>\" — 주가 호재",
       "hotShort": "테슬라, <em>인간보다 더 잘 운전</em> — Barron's",
@@ -23,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-18T07:05:10.000Z",
       "title": "테슬라라티: 일론 머스크, 테슬라 <em>지분 추가 확대</em> — SpaceX 합병론 재점화",
       "hotShort": "머스크 테슬라 <em>지분 추가 확대</em> — 합병론 재점화",
@@ -43,47 +63,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-06-18T05:22:21.000Z",
-      "title": "테슬라 공식 \"FSD 수퍼바이즈드, 장애인 운전자에게 <em>삶을 바꾸는 기능</em>\"",
-      "hotShort": "테슬라 공식: FSD, 장애인 운전자 <em>삶 바꾼다</em>",
-      "body": "테슬라가 공식 X 채널에서 FSD 수퍼바이즈드가 장애인 운전자에게 삶을 바꾸는 기능이 됐다고 밝혔다 — 이동에 신체적 제약이 있는 사람에게 자율주행 보조가 실질적 독립 이동을 가능하게 하며, FSD를 단순 편의 기능을 넘어 접근성 솔루션으로 자리매김하는 공식 메시지다.",
-      "sourceName": "Tesla",
-      "sourceLabel": "official",
-      "slug": "fsd-supervised-disability-2026-06-18",
-      "summary": "FSD 수퍼바이즈드는 테슬라 차량의 가속·조향·제동을 소프트웨어가 보조하는 자율주행 기능이다. 일반 운전자에게는 편의 기능이지만, 손발의 힘·조작 범위·반응 속도에 제약이 있는 특정 장애를 가진 운전자에게는 기존 보조 기술로도 해결하지 못했던 운전 참여의 문을 여는 수단이 될 수 있다.\n\n테슬라 공식 계정이 이 접근성 측면을 직접 강조한 것은 단순 기능 홍보를 넘는 의미를 갖는다. FSD 수퍼바이즈드를 '삶을 바꾸는 기술'로 프레이밍하는 것은 — 이동 자유가 선택이 아닌 필수인 사람들을 겨냥한 포지셔닝이기도 하다. 이 이용자층은 FSD 구독을 유지할 동기가 강해 해지 가능성이 낮고, 가격 민감도도 일반 구독자와 다르다.\n\n사이버캡의 완전 무인 로보택시 서비스가 아직 오스틴 초기 단계인 상황에서, 기존 테슬라 차량의 FSD 수퍼바이즈드는 현재 시점에 이 접근성 효과를 제공하는 유일한 수단이다. 테슬라가 접근성을 공개적으로 내세울수록 FSD 구독의 사회적 가치가 확장되고, 이는 장기적으로 구독 채택률과 충성도 양면에서 긍정 요인이 된다.",
-      "title_en": "Tesla official: FSD Supervised is <em>life-changing</em> for drivers with disabilities",
-      "hotShort_en": "Tesla FSD: <em>life-changing</em> for disabled drivers",
-      "body_en": "Tesla's official X account highlighted that FSD Supervised is life-changing for drivers with disabilities — positioning Tesla's driving-assistance software as an accessibility solution for people with physical limitations, a framing that anchors FSD's value proposition well beyond convenience.",
-      "summary_en": "FSD Supervised handles steering, braking, and acceleration through Tesla's vision-based autonomy stack — the same software behind highway autonomy and city navigation. For most Tesla owners it functions as a convenience upgrade; for drivers with certain motor or physical limitations, the same software can make the difference between independent driving being possible or not.\n\nTesla's official X account choosing to spotlight this use case with the phrase 'life-changing' signals an intentional effort to promote FSD's accessibility dimension publicly. This is a distinct positioning strategy: framing FSD as assistive technology, rather than a premium convenience, targets a subscriber segment with different motivation to subscribe and retain. Users for whom FSD enables mobility they could not otherwise access have structurally higher retention rates and lower price sensitivity than convenience-driven subscribers.\n\nWith the Cybercab commercial robotaxi service still in its early Austin deployment phase, FSD Supervised on existing Tesla vehicles represents the immediate, real-world embodiment of Tesla's autonomy accessibility argument. Each use case Tesla surfaces in this category expands the social utility narrative for FSD — which may also carry weight in regulatory discussions around the benefits of autonomous driving technology.",
-      "href": "https://x.com/Tesla/status/2067477998098628746",
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-18T04:03:52.000Z",
-      "title": "로이터: 이란 전쟁 유가 급등, 유럽 EV 판매 <em>또 반등</em> — 지속성 불확실",
-      "hotShort": "이란 전쟁 유가 급등, 유럽 EV 판매 <em>또 반등</em>",
-      "body": "로이터에 따르면 이란 전쟁으로 인한 유럽의 유가 급등이 전기차 판매를 다시 끌어올리고 있다 — 에너지 비용 충격이 소비자의 EV 전환 동기를 자극하는 패턴이 반복됐지만, 로이터는 이 성장세의 지속 여부가 불확실하다고 짚었다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "stock-iran-war-eu-ev-sales-2026-06-18",
-      "summary": "이란 전쟁이 장기화되면서 유럽 지역 연료 가격에 급등 압력이 가해졌고, 이 에너지 비용 충격이 소비자들의 전기차 전환 수요를 다시 끌어올리고 있다고 로이터가 보도했다. 'again(또)'이라는 표현은 이 현상이 처음이 아님을 뜻한다 — 2022~2023년 러시아의 우크라이나 침공 이후 유럽 연료비가 급등했을 때도 동일한 수요 패턴이 관찰됐다.\n\n테슬라는 유럽 시장에서 모델Y를 중심으로 주요 점유율을 보유하고 있다. 유럽 EV 수요가 전반적으로 반등하면 테슬라의 유럽 인도량과 직결될 수 있으며, 2분기 인도 실적 발표를 앞둔 시점에서 유럽 판매 반등이 실수치로 이어졌는지가 주목된다.\n\n그러나 로이터가 명시한 '지속 여부 불확실' 경고는 중요한 유보 사항이다. 이란 전쟁 상황 변화, 유가 재하락, 또는 계절 수요 변동이 이 반등을 단기 파동으로 끝낼 수 있다. 에너지 충격 기반의 EV 수요 증가는 구조적 채택과 달리 사건 의존적이어서 지속성이 낮다 — 같은 패턴이 전에도 반복됐다는 점에서, 이번 반등 역시 유가 안정화 시 수요가 제자리로 돌아올 가능성을 배제할 수 없다.",
-      "title_en": "Reuters: Iran war fuel spike <em>lifts European EV sales again</em> — but growth may not last",
-      "hotShort_en": "Iran war fuels <em>EU EV sales rebound</em> again",
-      "body_en": "Reuters reports Iran-war-driven fuel price spikes have lifted European EV sales again — repeating a pattern seen after the 2022 energy shock — while flagging that the growth may not be durable, an important caveat for Tesla investors tracking European delivery momentum ahead of Q2 results.",
-      "summary_en": "Fuel price spikes tied to the Iran war have returned as a near-term driver of EV demand in Europe, Reuters reports. Elevated fuel costs create a direct economic incentive for consumers to accelerate EV purchases, and the pattern has appeared before — a similar dynamic unfolded across Europe following Russia's invasion of Ukraine in 2022, when surging gasoline and diesel prices contributed to a notable uptick in EV adoption rates.\n\nTesla holds a meaningful share of European EV sales, with Model Y among the continent's best-performing models in recent years. A broad-based European EV demand lift feeds into Tesla's delivery volume in the region, which is under scrutiny ahead of the Q2 report expected in early July. Whether a demand bump translated into actual June deliveries will become clear when the report drops.\n\nReuters' explicit caveat that growth 'may not last' is the key qualifier. Demand triggered by energy-price shocks is event-dependent — the same caveats applied in 2022, when EV adoption spiked and then partially normalized as fuel prices settled. If the Iran conflict de-escalates or oil markets stabilize, the demand uplift could fade accordingly. Sustained EV growth in Europe depends on structural factors — charging density, purchase incentives, and product availability — that energy price volatility alone cannot maintain.\n\nFor Tesla shareholders, the near-term read is cautiously positive: a credible Reuters demand signal from a key market is better than headwinds. But the Reuters framing itself cautions against over-weighting the signal, and investors who've watched the EV adoption cycle before will recognize the pattern.",
-      "href": "https://www.reuters.com/business/energy/iran-war-fuel-spikes-lift-europes-ev-sales-again-growth-may-not-last-2026-06-18/",
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-17T23:49:24.000Z",
       "title": "일론 머스크 \"FSD에 <em>대규모 주차 기능 업그레이드</em> 예정\"",
       "hotShort": "FSD, <em>주차 기능 대규모 업그레이드</em> — 머스크 예고",
@@ -103,7 +83,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "24h ago",
+      "time": "31h ago",
       "pubDate": "2026-06-17T09:00:57.000Z",
       "title": "NYT 매거진 \"머스크의 <em>델라웨어 전쟁</em>, 미국 기업법 판도 바꿀 것\"",
       "hotShort": "NYT: 머스크 <em>델라웨어 전쟁</em>, 기업법 혁명 촉발",
@@ -121,5 +101,5 @@
       "hot": 8
     }
   ],
-  "asOf": "2026-06-18 23:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-19 01:45 KST 자동 갱신 · 최신순"
 }
