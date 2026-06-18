@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-17 22:30 UTC · 누적 361건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-18 00:30 UTC · 누적 363건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-06-17T21:11:22.000Z",
+      "title": "기가 텍사스 현장 영상 — 사이버캡 <em>생산 계속 진행</em> · 모델 Y 병행 확인",
+      "hotShort": "기가 텍사스, <em>사이버캡 생산</em> 지속 · 모델 Y 병행",
+      "body": "테슬라 독립 관찰자 조 테그트마이어가 기가 텍사스를 방문해 사이버캡 생산이 모델 Y와 함께 계속 진행 중임을 현장 영상으로 확인했다 — 기가 베를린 방문 직후 촬영된 이번 영상은 유럽·미국 두 주요 생산 거점의 현황을 연달아 전한다.",
+      "sourceName": "Joe Tegtmeyer (X)",
+      "sourceLabel": "press",
+      "slug": "product-cybercab-giga-texas-production-2026-06-17",
+      "summary": "조 테그트마이어는 기가 텍사스를 수십 차례 방문해 생산 라인 변화, 차량 반출 동향 등을 영상으로 기록해온 독립 유튜버다. 이번 방문은 기가 베를린 현장 취재를 마치고 귀환한 직후 이뤄져, 유럽과 미국의 두 주요 생산 거점 상황을 연달아 전했다.\n\n영상에서 그는 기가 텍사스에서 사이버캡 생산이 모델 Y와 병행하며 계속 진행 중임을 확인했다. 두 차종의 동시 생산은 기가 텍사스 내 생산 라인이 신·구 모델에 걸쳐 유연하게 운용되고 있음을 보여주는 실물 지표다.\n\n사이버캡은 테슬라 로보택시 서비스의 핵심 차량이다. 생산이 중단 없이 지속된다는 현장 확인은, 다음 단계인 대규모 상용 로보택시 배치를 위한 물리적 준비가 순조롭게 진행 중임을 시사한다. 로보택시 서비스 확장 일정을 주시하는 투자자에게는 생산 측면의 긍정적 신호다.",
+      "title_en": "Giga Texas Field Video: <em>Cybercab Production</em> Continues Alongside Model Y",
+      "hotShort_en": "Giga Texas: <em>Cybercab production</em> confirmed ongoing",
+      "body_en": "Independent Tesla factory observer Joe Tegtmeyer filmed Giga Texas upon returning from Giga Berlin, confirming Cybercab production continues alongside Model Y output — providing back-to-back coverage of Tesla's two highest-volume global manufacturing sites.",
+      "summary_en": "Joe Tegtmeyer is one of Tesla's most-followed independent factory observers, known for his regular on-site video visits to Giga Texas and Giga Nevada. His June 17 Giga Texas visit came immediately after a trip to Giga Berlin, giving him a rare consecutive view of Tesla's busiest European and North American production sites.\n\nThe footage confirms Cybercab production is actively continuing alongside Model Y at Giga Texas. Running both a next-generation robotaxi platform and the company's top-selling global vehicle from the same facility reflects the site's multi-line capacity and Tesla's approach to ramping Cybercab without disrupting Model Y throughput.\n\nCybercab is the hardware foundation of Tesla's commercial robotaxi ambitions. Ongoing production confirms that the physical supply chain — assembly, components, and line operations — is moving forward, even as regulatory approvals and software readiness remain the primary gating factors for commercial launch. For investors tracking Cybercab deployment timelines, the production confirmation is a positive read on the manufacturing side.",
+      "href": "https://x.com/JoeTegtmeyer/status/2067354440953463222",
+      "sentiment": "bull",
+      "hot": 4
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -140,6 +160,26 @@
       "href": "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html",
       "sentiment": "bull",
       "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "8h ago",
+      "pubDate": "2026-06-17T14:12:35.000Z",
+      "title": "로이터: 네덜란드 당국, 자국 내 테슬라 <em>4만 대</em> FSD 소프트웨어 운행 공식 확인",
+      "hotShort": "네덜란드 도로 당국, 테슬라 <em>FSD 4만 대</em> 공식 집계",
+      "body": "로이터에 따르면 네덜란드 도로 당국이 자국에서 테슬라 '자율주행' 소프트웨어를 사용 중인 차량이 4만 대에 달한다고 공식 발표했다 — 유럽 FSD 데이터 논란이 이어지는 가운데 정부 기관이 처음으로 확인한 운행 규모로, FSD 유럽 보급의 실증 지표가 됐다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-dutch-40k-teslas-netherlands-2026-06-17",
+      "summary": "네덜란드는 현재 유럽에서 테슬라 FSD의 일반도로 운행을 공식 허용한 상태다. 이 결정은 로이터의 '테슬라가 유럽 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다'는 보도 이후 논란이 됐고, 네덜란드 교통장관이 지난 16일 결정 옹호 성명을 발표했다. 이번 도로 당국 발표는 그 논쟁이 마무리되지 않은 시점에 나온 공식 집계다.\n\n당국이 공개한 4만 대 수치는 FSD 운행이 단순 파일럿 수준을 넘어 국가적 규모로 배포됐음을 보여준다. '자율주행'이라는 표현을 따옴표로 표기한 점은 도로 당국이 FSD의 완전 자율성에 여전히 유보적 입장을 유지하고 있음을 나타낸다.\n\n이 통계는 향후 독일·프랑스 등 주요 EU 국가의 FSD 승인 논의에서 현실적 운행 데이터로 인용될 가능성이 높다. 안전 사고 없이 운행 규모가 확대되면 규제 장벽 완화의 근거가 되고, 반대로 문제 발생 시 규제 강화의 빌미가 된다는 점에서 양면적 의미를 갖는다.\n\n테슬라의 유럽 FSD 매출은 아직 본격화되지 않았다. 네덜란드가 안전성 검증의 첫 유럽 시장이 되어 긍정적 데이터를 축적하면, 유럽 전역 FSD 구독 매출과 로보택시 운행 허가 확대로 이어지는 경로가 열릴 수 있다.",
+      "title_en": "Reuters: Dutch Road Authority Confirms <em>40,000 Teslas</em> Using 'Self-Driving' Software",
+      "hotShort_en": "Dutch authority confirms <em>40,000 Teslas</em> running FSD",
+      "body_en": "Reuters reports the Dutch road authority has officially confirmed that 40,000 Teslas in the Netherlands are using 'self-driving' software — the first government-level count of FSD deployment in Europe, released amid an ongoing dispute over the accuracy of Tesla's FSD safety data submission to European regulators.",
+      "summary_en": "The Dutch road authority's official tally of 40,000 Tesla vehicles running FSD software in the Netherlands marks the first concrete, government-sourced count of FSD deployment in Europe. The figure was released against a backdrop of regulatory controversy: Reuters earlier reported that Tesla may have presented FSD safety data to European regulators in a misleading manner, prompting a public defense of the Netherlands' approval decision by the country's transport minister on June 16.\n\nNotably, the road authority placed 'self-driving' in quotation marks throughout its statement — a deliberate linguistic distancing that signals the regulator does not equate Tesla's FSD with full autonomy in the legal or regulatory sense. This framing reflects broader European regulatory culture, where 'driving assistance' and 'self-driving' are treated as distinct categories.\n\nWith 40,000 confirmed deployments in a single EU member state, the Netherlands has established itself as Europe's first significant FSD reference market. If the Dutch cohort logs clean safety data over the coming months, it creates a template other EU nations can cite when evaluating their own FSD approval frameworks. Germany, France, and other large markets are still weighing their positions.\n\nFor Tesla investors, European FSD adoption is a leading indicator for subscription revenue and the long-term robotaxi addressable market. A regulatory foothold in Europe's densely driven road network represents meaningful long-term upside — contingent on the Dutch deployment performing without major incidents.",
+      "href": "https://www.reuters.com/world/europe/dutch-road-authority-says-40000-teslas-netherlands-using-self-driving-software-2026-06-17/",
+      "sentiment": "neutral",
+      "hot": 6
     },
     {
       "category": "fsd",
