@@ -1,0 +1,40 @@
+name: fix-archive-once
+on:
+  workflow_dispatch:
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+      - name: Patch archive.json with today's cards
+        run: |
+          cat > /tmp/patch.js << 'PATCH'
+          const fs = require('fs');
+          const cards = JSON.parse(fs.readFileSync('data/cards.json', 'utf8'));
+          const arch = JSON.parse(fs.readFileSync('data/archive.json', 'utf8'));
+          const map = new Map(arch.items.map(function(i) { return [i.slug, i]; }));
+          cards.items.forEach(function(item) {
+            if (item.slug && !map.has(item.slug)) map.set(item.slug, item);
+          });
+          const sorted = Array.from(map.values())
+            .sort(function(a, b) { return new Date(b.pubDate) - new Date(a.pubDate); })
+            .slice(0, 100);
+          arch.items = sorted;
+          fs.writeFileSync('data/archive.json', JSON.stringify(arch, null, 2) + '\n');
+          console.log('archive patched, items:', sorted.length);
+          PATCH
+          node /tmp/patch.js
+      - name: Commit, push, and self-cleanup
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin master
+          git add data/archive.json
+          git rm .github/workflows/fix-archive-once.yml
+          git diff --cached --quiet && echo "Nothing to commit" || git commit -m "fix: archive.json 4건 합산 + 임시 워크플로우 정리"
+          git push origin master
