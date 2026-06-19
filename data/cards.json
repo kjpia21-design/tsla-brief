@@ -3,6 +3,26 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-06-18T22:17:00.000Z",
+      "title": "일렉트렉: 네덜란드 HW3 집단소송 <em>7,000명으로 확대</em> — 로펌 케네디 반 더 란 지원",
+      "hotShort": "네덜란드 HW3 소송 <em>7,000명</em>으로 확대",
+      "body": "일렉트렉에 따르면 네덜란드에서 진행 중인 테슬라 HW3 집단소송이 7,000명 규모로 확대됐으며, 케네디 반 더 란 로펌이 공식 지원에 나섰다 — 소비자 소송 전문 대형 로펌이 가세하면서 법적 자원이 강화됐고, 네덜란드 판결은 EU 전체 유사 소송의 선례가 될 수 있다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-hw3-netherlands-7000-2026-06-18",
+      "summary": "일렉트렉에 따르면 네덜란드의 테슬라 하드웨어3(HW3) 오너 집단소송이 7,000명 규모로 확대됐으며, 소비자 소송 분야의 네덜란드 대형 로펌 케네디 반 더 란(Kennedy Van der Laan)이 공식적으로 이 집단소송을 지원한다고 밝혔다.\n\nHW3는 테슬라가 2019년부터 탑재한 자율주행 하드웨어 플랫폼이다. 이후 2023년 HW4로 전환이 이뤄지면서 FSD V12 이상에서 HW3의 기능에 한계가 생겼고, HW3 오너들은 당초 약속된 완전 자율주행 기능을 받지 못하고 있다는 불만이 쌓였다. 이번 소송은 그 주장을 법적으로 다투는 집단행동이다.\n\n케네디 반 더 란 로펌의 참여는 이 소송의 무게를 크게 높인다. 자금력과 법리 전문성이 갖춰진 만큼 소송이 실질적 법정 다툼으로 이어질 가능성이 높아졌다. 특히 네덜란드는 EU 소비자 보호 규범 적용에서 주요 선례를 만들어온 나라로, 이번 판결 결과에 따라 EU 전역의 HW3 오너 소송에 영향을 미칠 수 있다.\n\n테슬라 주주 입장에서 유럽 HW3 소송이 확산될 경우 HW4 무상 업그레이드 요구나 손해배상 부담이 생길 수 있다. 동시에 이는 FSD 기능 로드맵에 관한 테슬라의 과거 커뮤니케이션이 법적 검증 대상이 됨을 뜻한다. 다만 소송이 최종 판결까지 이어지려면 상당한 시간이 걸릴 수 있다.",
+      "title_en": "Electrek: Tesla HW3 collective action in Netherlands reaches <em>7,000 claimants</em> — law firm joins",
+      "hotShort_en": "Netherlands HW3 lawsuit grows to <em>7,000 claimants</em>",
+      "body_en": "Electrek reports Tesla's HW3 collective action in the Netherlands has grown to 7,000 owners, with law firm Kennedy Van der Laan now formally backing the effort — major law firm support brings resources and legal credibility to the claim that Tesla's HW3 hardware failed to deliver promised FSD capability, with a Dutch ruling potentially setting an EU-wide consumer precedent.",
+      "summary_en": "The Tesla Hardware 3 (HW3) collective action in the Netherlands has reached 7,000 claimants, Electrek reports, with Kennedy Van der Laan — a leading Dutch law firm specializing in consumer litigation — now providing formal backing to the case.\n\nHW3 was Tesla's primary autonomous driving hardware platform from 2019 through 2023, when the company began transitioning new vehicles to Hardware 4. As FSD software evolved, particularly from V12 onward, the functional gap between HW3 and HW4 widened, leaving HW3 owners without the full self-driving capabilities many understood they had been promised at the time of purchase. The Dutch collective action challenges Tesla on those grounds.\n\nKennedy Van der Laan's participation substantially raises the stakes. A major firm with consumer litigation expertise adds legal resources and institutional credibility, increasing the probability that the claim moves from organized grievance to a full judicial process. The Netherlands is also significant jurisdictionally — Dutch courts have historically produced consumer protection rulings that establish standards relevant across EU member states, meaning the outcome could influence parallel HW3 claims elsewhere in Europe.\n\nFor Tesla shareholders, the core risk from a scaled European HW3 legal action is the potential for remedies that require either mandatory HW4 hardware upgrades or financial compensation. The case also puts Tesla's historical FSD capability communications under legal scrutiny — a dynamic that could affect how the company frames future software capability promises. Near-term, no ruling is imminent, but 7,000 organized claimants backed by a credible firm represents a meaningful escalation of the underlying dispute.",
+      "href": "https://electrek.co/2026/06/18/tesla-hw3-claim-netherlands-7000-owners-kennedy-van-der-laan/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
       "pubDate": "2026-06-18T17:07:34.000Z",
       "title": "테슬라, FSD에 <em>Grok AI 통합·Banish 기능</em> “약 3개월 내” 예고",
@@ -39,26 +59,6 @@
       "href": "https://www.bloomberg.com/news/articles/2026-06-18/spacex-bankers-preparing-for-bond-sale-of-at-least-20-billion",
       "sentiment": "neutral",
       "hot": 7
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-18T16:42:39.000Z",
-      "title": "파이낸셜 타임스 에디토리얼 “테슬라, <em>SpaceX에 흡수될 운명인가</em>”",
-      "hotShort": "FT “테슬라 <em>SpaceX 합병</em> 운명인가” 공론화",
-      "body": "파이낸셜 타임스가 'Is Tesla destined to be folded into SpaceX?'를 주제로 에디토리얼을 게재했다 — SpaceX IPO(6월 11일)와 블룸버그 $200억 채권 단독 보도가 맞물린 시점에 세계 최대 금융지가 테슬라 독립성 논쟁을 정면으로 다룬 것으로, 합병 논쟁이 주요 금융 매체의 주류 담론으로 자리잡고 있다.",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "musk-ft-tesla-spacex-destiny-2026-06-18",
-      "summary": "세계 최대 금융지 파이낸셜 타임스(FT)가 'Is Tesla destined to be folded into SpaceX?'라는 에디토리얼을 게재했다. 전날 뉴욕타임스(NYT)의 합병 시나리오 분석에 이어 FT까지 같은 질문을 정면으로 다루면서, 테슬라-SpaceX 합병 논쟁이 글로벌 금융 언론의 주류 의제로 올라선 국면이다.\n\n이 에디토리얼이 나온 배경으로는 SpaceX의 연이은 대형 이벤트가 있다. 6월 11일 역대 최대 규모 IPO로 주식시장에 입성한 데 이어, 같은 날 블룸버그가 최소 $200억 채권 발행 준비 사실을 단독 보도했다. SpaceX가 독자적으로 대규모 자본시장 이벤트를 연달아 진행하는 상황에서 FT는 테슬라의 독립 운명에 의문을 공개적으로 제기했다.\n\n테슬라 주주 입장에서 해석은 엇갈린다. 합병이 실현되면 두 회사의 시너지로 밸류에이션 프리미엄이 생길 수 있다는 시각이 있는 반면, 일론 머스크의 테슬라 경영 집중도 분산과 지배구조 불확실성이 커진다는 우려도 있다. FT의 에디토리얼은 막연한 소문이 아닌 SpaceX의 실제 기업 이벤트를 근거로 이 논쟁을 환기시킨 점에서 주목된다.\n\n두 회사 간 공식 합병 논의는 아직 발표된 바 없으며, FT 에디토리얼은 질문을 제기하는 분석물이다.",
-      "title_en": "FT editorial: <em>Is Tesla destined to be folded into SpaceX?</em>",
-      "hotShort_en": "FT: Is Tesla <em>destined for SpaceX</em>?",
-      "body_en": "The Financial Times has published an editorial asking \"Is Tesla destined to be folded into SpaceX?\" — coming the same day Bloomberg reported SpaceX is preparing a $20 billion bond sale, as mainstream financial press increasingly frames the Tesla-SpaceX independence question as a serious strategic debate, not fringe speculation.",
-      "summary_en": "The Financial Times — one of the world's most influential financial publications — has published an editorial directly asking whether Tesla will eventually be absorbed into SpaceX. This follows The New York Times' in-depth merger scenario analysis on June 17, suggesting the SpaceX-Tesla combination thesis has moved from investment community speculation to front-page financial editorial discourse.\n\nThe FT editorial arrives alongside a significant backdrop: SpaceX completed the largest IPO in history on June 11, and Bloomberg the same day reported SpaceX bankers are preparing a bond sale of at least $20 billion. SpaceX's ability to independently execute large capital markets events in rapid succession lends new weight to the question of whether the two companies' trajectories are diverging or converging.\n\nFor Tesla shareholders, the merger debate cuts both ways. A SpaceX-Tesla combination could create a vertically integrated mobility, energy, and infrastructure empire with compelling valuation upside — or it could introduce governance complexity, dilution risk, and distraction from Tesla's core automotive and energy business. The FT raising the question explicitly signals that mainstream institutional investor attention is increasingly focused on which narrative prevails.\n\nNo formal merger discussions between Tesla and SpaceX have been announced. The FT piece is editorial analysis responding to observable market events, not reporting on active negotiations.",
-      "href": "https://www.ft.com/content/2c7e97be-a65d-49b1-a1df-31ac2d90c3a9",
-      "sentiment": "neutral",
-      "hot": 6
     },
     {
       "category": "fsd",
@@ -101,5 +101,5 @@
       "hot": 7
     }
   ],
-  "asOf": "2026-06-19 08:09 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-19 11:30 KST 자동 갱신 · 최신순"
 }

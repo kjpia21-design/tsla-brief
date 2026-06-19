@@ -3,6 +3,26 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-06-18T22:17:00.000Z",
+      "title": "일렉트렉: 네덜란드 HW3 집단소송 <em>7,000명으로 확대</em> — 로펌 케네디 반 더 란 지원",
+      "hotShort": "네덜란드 HW3 소송 <em>7,000명</em>으로 확대",
+      "body": "일렉트렉에 따르면 네덜란드에서 진행 중인 테슬라 HW3 집단소송이 7,000명 규모로 확대됐으며, 케네디 반 더 란 로펌이 공식 지원에 나섰다 — 소비자 소송 전문 대형 로펌이 가세하면서 법적 자원이 강화됐고, 네덜란드 판결은 EU 전체 유사 소송의 선례가 될 수 있다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-hw3-netherlands-7000-2026-06-18",
+      "summary": "일렉트렉에 따르면 네덜란드의 테슬라 하드웨어3(HW3) 오너 집단소송이 7,000명 규모로 확대됐으며, 소비자 소송 분야의 네덜란드 대형 로펌 케네디 반 더 란(Kennedy Van der Laan)이 공식적으로 이 집단소송을 지원한다고 밝혔다.\n\nHW3는 테슬라가 2019년부터 탑재한 자율주행 하드웨어 플랫폼이다. 이후 2023년 HW4로 전환이 이뤄지면서 FSD V12 이상에서 HW3의 기능에 한계가 생겼고, HW3 오너들은 당초 약속된 완전 자율주행 기능을 받지 못하고 있다는 불만이 쌓였다. 이번 소송은 그 주장을 법적으로 다투는 집단행동이다.\n\n케네디 반 더 란 로펌의 참여는 이 소송의 무게를 크게 높인다. 자금력과 법리 전문성이 갖춰진 만큼 소송이 실질적 법정 다툼으로 이어질 가능성이 높아졌다. 특히 네덜란드는 EU 소비자 보호 규범 적용에서 주요 선례를 만들어온 나라로, 이번 판결 결과에 따라 EU 전역의 HW3 오너 소송에 영향을 미칠 수 있다.\n\n테슬라 주주 입장에서 유럽 HW3 소송이 확산될 경우 HW4 무상 업그레이드 요구나 손해배상 부담이 생길 수 있다. 동시에 이는 FSD 기능 로드맵에 관한 테슬라의 과거 커뮤니케이션이 법적 검증 대상이 됨을 뜻한다. 다만 소송이 최종 판결까지 이어지려면 상당한 시간이 걸릴 수 있다.",
+      "title_en": "Electrek: Tesla HW3 collective action in Netherlands reaches <em>7,000 claimants</em> — law firm joins",
+      "hotShort_en": "Netherlands HW3 lawsuit grows to <em>7,000 claimants</em>",
+      "body_en": "Electrek reports Tesla's HW3 collective action in the Netherlands has grown to 7,000 owners, with law firm Kennedy Van der Laan now formally backing the effort — major law firm support brings resources and legal credibility to the claim that Tesla's HW3 hardware failed to deliver promised FSD capability, with a Dutch ruling potentially setting an EU-wide consumer precedent.",
+      "summary_en": "The Tesla Hardware 3 (HW3) collective action in the Netherlands has reached 7,000 claimants, Electrek reports, with Kennedy Van der Laan — a leading Dutch law firm specializing in consumer litigation — now providing formal backing to the case.\n\nHW3 was Tesla's primary autonomous driving hardware platform from 2019 through 2023, when the company began transitioning new vehicles to Hardware 4. As FSD software evolved, particularly from V12 onward, the functional gap between HW3 and HW4 widened, leaving HW3 owners without the full self-driving capabilities many understood they had been promised at the time of purchase. The Dutch collective action challenges Tesla on those grounds.\n\nKennedy Van der Laan's participation substantially raises the stakes. A major firm with consumer litigation expertise adds legal resources and institutional credibility, increasing the probability that the claim moves from organized grievance to a full judicial process. The Netherlands is also significant jurisdictionally — Dutch courts have historically produced consumer protection rulings that establish standards relevant across EU member states, meaning the outcome could influence parallel HW3 claims elsewhere in Europe.\n\nFor Tesla shareholders, the core risk from a scaled European HW3 legal action is the potential for remedies that require either mandatory HW4 hardware upgrades or financial compensation. The case also puts Tesla's historical FSD capability communications under legal scrutiny — a dynamic that could affect how the company frames future software capability promises. Near-term, no ruling is imminent, but 7,000 organized claimants backed by a credible firm represents a meaningful escalation of the underlying dispute.",
+      "href": "https://electrek.co/2026/06/18/tesla-hw3-claim-netherlands-7000-owners-kennedy-van-der-laan/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
       "pubDate": "2026-06-18T17:07:34.000Z",
       "title": "테슬라, FSD에 <em>Grok AI 통합·Banish 기능</em> “약 3개월 내” 예고",
@@ -2037,27 +2057,7 @@
       "href": "https://www.ibtimes.com.au/tesla-shares-dip-profit-taking-ev-market-challenges-1870497",
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-11T01:30:00.000Z",
-      "title": "캐시 우드, 탄 로보택시가 <em>주차 위반 $75 티켓</em> — 일론에 대응 방침 물어",
-      "hotShort": "캐시 우드 탄 로보택시, <em>$75 주차 위반</em> 티켓",
-      "body": "ARK인베스트 CEO 캐시 우드가 오스틴에서 테슬라 로보택시를 탑승한 뒤 차량이 $75 주차 위반 티켓을 받자, X에서 일론 머스크에게 테슬라가 주차·교통 위반에 어떻게 대응할지 공개적으로 물었다 — 테슬라의 가장 열렬한 기관 지지자조차 로보택시 운영 공백을 직접 짚어낸 사례다.",
-      "sourceName": "Yahoo Finance",
-      "sourceLabel": "press",
-      "slug": "fsd-cathie-wood-robotaxi-parking-ticket-2026-06-11",
-      "summary": "캐시 우드는 ARK인베스트 CEO로, ARKK 펀드를 통해 테슬라 주식을 대규모 보유한 대표적 테슬라 강세론자다. 그런 그녀가 6월 초 오스틴에서 테슬라 로보택시를 직접 탑승했고, 그 차량이 $75 주차 위반 티켓을 받는 상황을 경험했다. 이후 우드는 X에서 일론 머스크에게 테슬라가 로보택시 운영 중 발생하는 주차·교통 위반에 어떻게 대응할지 공개적으로 질문했다.\n\n이 사례는 자율주행 차량이 무인 운영될 때 법적·운영적 책임 소재가 불명확하다는 문제를 상징적으로 드러낸다. 주차 위반 티켓이 발부될 경우 이를 처리하는 주체가 테슬라인지, 탑승자인지, 아니면 자동화된 시스템인지에 대한 명확한 정책이 대규모 상업 서비스 이전에 마련돼야 한다.\n\n캐시 우드 같은 강한 지지자가 공개적으로 운영 공백을 제기했다는 점은 단순한 기술 비관론과 다르다. 로보택시 서비스의 현실적 확장 가능성을 높이기 위해 테슬라가 규제·법적 프레임워크를 구체화해야 할 시점이라는 신호로 읽힌다.\n\n일론 머스크가 우드의 공개 질문에 어떤 응답을 했는지는 이번 보도에 명시되지 않았다. 교통 위반 처리 체계 확립은 테슬라가 로보택시 서비스를 오스틴 이외 도시로 확장하기 전에 풀어야 할 실무 과제 중 하나다.",
-      "title_en": "Cathie Wood's robotaxi ride ends with a <em>$75 parking ticket</em> — she asks Elon how Tesla will handle violations",
-      "hotShort_en": "Cathie Wood's robotaxi gets a <em>$75 parking ticket</em>",
-      "body_en": "ARK Invest CEO Cathie Wood rode a Tesla robotaxi in Austin, only to have the vehicle receive a $75 parking ticket — prompting her to publicly ask Elon Musk on X how Tesla plans to handle parking and traffic violations. Even one of Tesla's most prominent bulls is flagging an operational gap in the robotaxi rollout.",
-      "summary_en": "Cathie Wood, ARK Invest CEO and one of Tesla's most visible institutional bulls, rode a Tesla robotaxi in Austin and found herself in an awkward situation: the vehicle received a $75 parking ticket. She followed up by publicly asking Elon Musk on X how Tesla intends to handle parking and traffic violations arising from its driverless service.\n\nThe incident points to a practical legal question that any fully autonomous ride-hailing service must answer at scale: when a vehicle with no human driver incurs a parking or traffic citation, who is responsible for resolving it — Tesla, the passenger, or an automated compliance system? No clear answer has been publicly disclosed.\n\nThat a high-profile Tesla supporter chose to raise this concern publicly — rather than quietly — signals that real-world operational friction in the robotaxi service is generating questions even among the company's strongest institutional backers.\n\nWhether Musk responded to Wood's question was not reported. Establishing a clear liability and compliance framework for traffic violations is one of the operational prerequisites Tesla will need to address as it moves toward a larger, broader robotaxi deployment.",
-      "href": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-asks-elon-musk-013046976.html",
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
-  "asOf": "2026-06-19 03:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-19 11:30 KST 자동 갱신 · 최신순"
 }
