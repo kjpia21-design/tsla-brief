@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "18m ago",
+      "pubDate": "2026-06-19T10:29:00.000Z",
+      "title": "캐시 우드·ARK, SpaceX 투자 직후 <em>테슬라 추가 매수</em> — 머스크 팩터 지지",
+      "hotShort": "ARK, SpaceX 직후 <em>테슬라도 추가 매수</em>",
+      "body": "캐시 우드의 ARK 인베스트가 SpaceX IPO에 대거 투자한 직후 테슬라 주식도 매수에 나섰다고 배런스가 보도했다 — 배런스는 이를 '머스크 팩터'에 대한 지지로 프레임화했으며, SpaceX와 테슬라를 동시에 매수하는 ARK의 행보는 두 기업을 경쟁 관계가 아닌 동반 포트폴리오로 확신하고 있음을 보여준다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-ark-cathie-wood-tesla-musk-factor-2026-06-19",
+      "summary": "ARK 인베스트는 캐시 우드가 운용하는 혁신 집중 액티브 ETF 운용사로, 테슬라 자율주행·에너지 전환 thesis를 기반으로 TSLA를 오랫동안 핵심 보유 종목으로 유지해 온 기관이다. 배런스에 따르면 ARK는 SpaceX IPO에 대규모로 투자(pile-in)한 직후 테슬라 주식도 매수했으며, 배런스는 이를 '머스크 팩터(Musk Factor)'를 지지하는 행보로 규정했다.\n\n타이밍이 핵심이다. SpaceX 상장 이후 일부 투자자들이 자금을 SpaceX로 옮기는 움직임이 관찰되는 환경에서 — ARK가 SpaceX를 산 직후 테슬라도 매수했다는 사실은 두 기업을 대체재가 아닌 보완재로 보고 있음을 실질적으로 입증한다.\n\n테슬라 주주에게 기관의 추가 매수 신호는 단기 수급 안정에 기여한다. ARK는 보유 종목을 매일 공시하는 투명한 운용사여서, 이 매수는 개인 투자자들에게도 즉각적인 참고 지표가 된다. SpaceX IPO 이후 테슬라 주가의 상대적 관심이 분산된 환경에서 나온 이번 기관 매수 확인은, 테슬라의 독자적 투자 thesis가 여전히 유효하다는 신호로 읽힌다.",
+      "title_en": "Cathie Wood backs <em>the Musk Factor</em> as ARK buys Tesla after SpaceX pile-in",
+      "hotShort_en": "ARK buys Tesla after <em>SpaceX pile-in</em>",
+      "body_en": "Barron's reports ARK Invest purchased Tesla shares after piling into SpaceX's IPO, with Cathie Wood explicitly backing the 'Musk Factor' — by adding TSLA after the SpaceX bet, ARK signals it treats the two Musk-led companies as complementary portfolio positions rather than competing for the same capital.",
+      "summary_en": "ARK Invest is an actively managed innovation-focused ETF firm run by Cathie Wood, known for maintaining Tesla as a core position across its flagship funds based on a long-term conviction in autonomous driving, energy transition, and AI. Barron's reports that after making a large investment in SpaceX's IPO, ARK subsequently purchased Tesla shares — framing the move as Cathie Wood 'backing the Musk Factor.'\n\nThe timing matters. Following SpaceX's Nasdaq listing, a debate has emerged over whether institutional capital would flow away from Tesla toward SpaceX as the newer, higher-growth story. ARK's decision to buy both rather than rotate between them provides market-visible evidence that the two companies are viewed as complementary rather than competing for the same thematic dollars.\n\nFor Tesla shareholders, institutional buy signals from a publicly transparent operation like ARK carry practical weight: ARK discloses holdings daily, making its moves immediately visible and often imitated by retail investors. At a moment when Tesla's relative narrative position is under pressure from SpaceX's post-IPO rally, ARK reinforcing its Tesla conviction with a purchase provides a constructive technical and sentiment signal.",
+      "href": "https://www.barrons.com/articles/cathie-wood-musk-tesla-stock-spacex-5ec481c2",
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "40m ago",
+      "pubDate": "2026-06-19T10:07:00.000Z",
+      "title": "배런스 \"SpaceX 시대, <em>매그니피센트 세븐</em>을 무색하게 만든다\"",
+      "hotShort": "배런스: SpaceX 시대가 <em>매그니피센트 7</em> 흔든다",
+      "body": "배런스가 SpaceX 상장으로 열린 'SpaceX 시대'가 기술주 시장을 지배하던 매그니피센트 세븐 프레임을 무색하게 만들고 있다고 분석했다 — 7인방 중 유일한 머스크 기업인 테슬라가 새 시장 지형에서 어떤 위치를 차지할지, 투자자들의 시각이 나뉘고 있다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-era-mag7-irrelevant-barrons-2026-06-19",
+      "summary": "배런스는 SpaceX의 나스닥 상장(6월 11일) 이후 'SpaceX 시대'가 열리면서, 지난 수년간 기술주 시장 담론을 지배했던 매그니피센트 세븐(애플·마이크로소프트·아마존·알파벳·메타·엔비디아·테슬라)의 영향력이 상대적으로 희석되고 있다는 시각을 제시했다.\n\n매그니피센트 세븐은 2023~2025년 S&P 500 상승분의 상당 부분을 이끈 7개 대형 기술주 그룹이다. SpaceX의 상장으로 우주·위성 인터넷·발사 인프라를 아우르는 완전히 새로운 카테고리의 메가캡 성장주가 투자 지형에 등장했고, 이는 기존 'Mag7' 프레임이 기술주 선도 기업 집합을 더 이상 충분히 설명하지 못한다는 논의를 불러일으키고 있다.\n\n테슬라 주주에게 이 분석은 복합적 함의를 갖는다. 매그니피센트 세븐 프레임이 약화될 경우 그룹 전체에 집중됐던 기관 자금 흐름이 분산될 수 있고, 테슬라도 그 영향에서 자유롭지 않다. 반면, 같은 날 배런스는 ARK가 SpaceX 투자 직후 테슬라도 매수했다고 보도했다 — 테슬라와 SpaceX를 동반 성장 테마로 보는 시각도 공존함을 보여 준다.",
+      "title_en": "Barron's: The SpaceX era is making the <em>Magnificent Seven irrelevant</em>",
+      "hotShort_en": "Barron's: SpaceX era <em>dims Mag Seven</em>",
+      "body_en": "Barron's argues that SpaceX's arrival as a publicly traded mega-cap is making the Magnificent Seven framework — which includes Tesla — less definitive as the lens for technology investment leadership, as capital and narrative shift toward Musk's newly listed space and satellite company.",
+      "summary_en": "Barron's published an analysis arguing that SpaceX's Nasdaq listing has ushered in a new investment era that undermines the relevance of the 'Magnificent Seven' framework. The Magnificent Seven — Apple, Microsoft, Amazon, Alphabet, Meta, Nvidia, and Tesla — dominated technology market discourse from 2023 through 2025, together accounting for a disproportionate share of S&P 500 gains. SpaceX's emergence creates a category of mega-cap growth company that extends well beyond the cloud, advertising, and consumer technology sectors that originally defined the Mag7 grouping.\n\nThe argument is structural, not just narrative: as SpaceX draws institutional attention and capital toward space, satellite internet, and launch infrastructure, the Mag7 framework offers a less complete map of where technology market leadership is concentrated. A new taxonomy may be forming — one that includes SpaceX as a major pole of investor attention.\n\nFor Tesla investors, this is a nuanced development. Tesla is the only Musk company among the original Mag7. If broad technology market leadership migrates away from the Mag7 cluster toward SpaceX and other emerging categories, the group-level tailwinds that have historically benefited Tesla could diminish. At the same time, Barron's covered ARK Invest buying both SpaceX and Tesla on the same day — illustrating that many investors see the two companies as complementary rather than competing for the same capital pool.",
+      "href": "https://www.barrons.com/articles/spacex-stock-magnificent-seven-c7cdd078",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "10h ago",
@@ -19,26 +59,6 @@
       "href": "https://www.nytimes.com/2026/06/19/business/energy-environment/tesla-elon-musk-europe.html",
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-06-19T02:34:51.000Z",
-      "title": "테슬라, 캘리포니아 사우스 SF에 <em>슈퍼차저 8기</em> 신규 개설",
-      "hotShort": "테슬라 공식, 캘리포니아에 <em>슈퍼차저 8기</em> 신규 추가",
-      "body": "테슬라 공식 충전 계정이 캘리포니아 사우스 샌프란시스코 엘 카미노 리얼에 8기짜리 슈퍼차저 스테이션이 새로 문을 열었다고 발표했다 — 실리콘밸리·샌프란시스코 간 주요 이동 축에 충전 커버리지를 추가하며 미국 서부 인프라 확장을 이어가고 있다.",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "product-supercharger-sf-el-camino-2026-06-19",
-      "summary": "테슬라 공식 충전 계정(@TeslaCharging)은 캘리포니아 사우스 샌프란시스코 엘 카미노 리얼(El Camino Real)에 8기 규모의 슈퍼차저 스테이션이 신규 개설됐다고 발표했다.\n\n엘 카미노 리얼은 샌프란시스코 반도를 관통하는 주요 간선도로로, 실리콘밸리 주요 도시와 샌프란시스코 사이의 통근·이동 수요가 높은 코리도다. 이 지역 슈퍼차저 확충은 베이에어리어 테슬라 오너들의 일상 충전 편의를 높이고 신규 구매자의 주행 범위 불안을 줄이는 데 기여한다.\n\n테슬라의 슈퍼차저 네트워크는 브랜드 경쟁력의 핵심 차별화 요소 중 하나다. 전기차 업계 전반으로 충전 네트워크 확장 경쟁이 심화되는 가운데, 테슬라는 지속적인 신규 스테이션 개설을 통해 독자 인프라 우위를 유지하고 있다.",
-      "title_en": "Tesla opens new <em>8-stall Supercharger</em> on El Camino Real in South San Francisco",
-      "hotShort_en": "South SF gets <em>8 Tesla Superchargers</em>",
-      "body_en": "Tesla's official charging account announced a new 8-stall Supercharger station on El Camino Real in South San Francisco, California — adding fast-charging coverage along a key commuter corridor between Silicon Valley and San Francisco.",
-      "summary_en": "Tesla's official @TeslaCharging account announced the opening of an 8-stall Supercharger station at El Camino Real in South San Francisco, California.\n\nEl Camino Real is a major arterial road running through the San Francisco Peninsula, connecting Silicon Valley communities to the city. The location serves high-traffic commuter and intercity travel demand, consistent with Tesla's strategy of prioritizing Supercharger expansion along key transportation corridors.\n\nTesla's Supercharger network is a core competitive advantage, lowering the range-anxiety barrier for prospective EV buyers and improving the ownership experience. Continued North American expansion reinforces Tesla's lead in proprietary charging infrastructure.",
-      "href": "https://x.com/TeslaCharging/status/2067798236132429912",
-      "sentiment": "bull",
-      "hot": 3
     },
     {
       "category": "fsd",
@@ -81,5 +101,5 @@
       "hot": 4
     }
   ],
-  "asOf": "2026-06-19 14:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-19 20:00 KST 자동 갱신 · 최신순"
 }
