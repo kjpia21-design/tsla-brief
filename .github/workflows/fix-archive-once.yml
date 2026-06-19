@@ -1,5 +1,7 @@
 name: fix-archive-once
 on:
+  schedule:
+    - cron: "30 0 20 6 *"  # 2026-06-20 00:30 UTC 1회 자동 실행
   workflow_dispatch:
 jobs:
   fix:
