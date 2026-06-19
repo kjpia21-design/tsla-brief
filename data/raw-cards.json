@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-19 05:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-19 06:10 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "24m ago",
+      "pubDate": "2026-06-19T05:45:59.000Z",
+      "title": "Looking down at my shoes today, I did not realize how beat up it already is.",
+      "body": "Looking down at my shoes today, I did not realize how beat up it already is. https://t.co/rW2jkonQVJ",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2067846332648149067"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-19T05:00:42.000Z",
+      "title": "Rich EU states ‘not an ATM’, Austria warns as budget battle begins",
+      "body": "Rich EU states ‘not an ATM’, Austria warns as budget battle begins Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/f9ecc935-6edd-4768-934b-47db76f7c77f"
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "57m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-19T04:02:41.000Z",
       "title": "‘We created a monster’: companies rein in AI usage as costs strain budgets",
       "body": "‘We created a monster’: companies rein in AI usage as costs strain budgets Financial Times",
@@ -17,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "57m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-19T04:02:41.000Z",
       "title": "‘We created a monster’: companies rein in AI usage as costs strain budgets",
       "body": "‘We created a monster’: companies rein in AI usage as costs strain budgets Financial Times",
@@ -30,8 +56,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "59m ago",
-      "pubDate": "2026-06-19T04:01:01.000Z",
+      "time": "2h ago",
+      "pubDate": "2026-06-19T04:00:32.000Z",
       "title": "The tech giant mining Wall Street for AI cash",
       "body": "The tech giant mining Wall Street for AI cash Financial Times",
       "sourceName": "Financial Times",
@@ -43,8 +69,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "59m ago",
-      "pubDate": "2026-06-19T04:01:01.000Z",
+      "time": "2h ago",
+      "pubDate": "2026-06-19T04:00:32.000Z",
       "title": "German electricity grid equipment maker SGB-SMIT in early IPO talks",
       "body": "German electricity grid equipment maker SGB-SMIT in early IPO talks Financial Times",
       "sourceName": "Financial Times",
@@ -56,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-19T04:00:24.000Z",
       "title": "Have You Bought a Tesla Recently? We Want to Hear From You.",
       "body": "Have You Bought a Tesla Recently? We Want to Hear From You. The New York Times",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-19T02:34:51.000Z",
       "title": "New Tesla Supercharger: South San Francisco, CA - El Camino Real (8 stalls)",
       "body": "New Tesla Supercharger: South San Francisco, CA - El Camino Real (8 stalls) https://t.co/G7ju6l5kXv https://t.co/gYn0csXzN8",
@@ -82,20 +108,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-19T02:20:43.000Z",
-      "title": "Stocks",
-      "body": "Stocks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/profile/person/25512894"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-19T02:20:43.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -108,8 +121,8 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-18T23:00:05.000Z",
+      "time": "7h ago",
+      "pubDate": "2026-06-18T23:00:12.000Z",
       "title": "Stock Market News",
       "body": "Stock Market News CNBC",
       "sourceName": "CNBC",
@@ -121,7 +134,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-18T22:01:43.000Z",
       "title": "Intel taps industry veteran Seok-Hee Lee to lead foundry packaging push",
       "body": "Intel taps industry veteran Seok-Hee Lee to lead foundry packaging push Reuters",
@@ -134,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-18T21:54:32.000Z",
       "title": "FSD Supervised sees the things you don't",
       "body": "FSD Supervised sees the things you don't https://t.co/fMzDpMnMmd",
@@ -147,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-18T21:23:52.000Z",
       "title": "Schwab Warns of Margin Calls as Concerns Over Tax Bets Mount",
       "body": "Schwab Warns of Margin Calls as Concerns Over Tax Bets Mount Bloomberg.com",
@@ -160,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-18T21:00:06.000Z",
       "title": "Gulf oil shock speeds up India’s EV drive",
       "body": "Gulf oil shock speeds up India’s EV drive Financial Times",
@@ -173,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-18T20:21:21.000Z",
       "title": "Waymo recalls about 3,900 robotaxis after some drove into 'freeway construction zones'",
       "body": "Waymo recalls about 3,900 robotaxis after some drove into 'freeway construction zones' CNBC",
@@ -186,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-18T20:20:00.000Z",
       "title": "Your Tesla Drives Better Than You Do—and That’s Good News for the Stock",
       "body": "Your Tesla Drives Better Than You Do—and That’s Good News for the Stock Barron's",
@@ -199,46 +212,46 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
-      "pubDate": "2026-06-18T17:42:39.000Z",
-      "title": "Intel shares rise after Trump announces Apple partnership",
-      "body": "Intel shares rise after Trump announces Apple partnership Reuters",
-      "sourceName": "Reuters",
+      "time": "10h ago",
+      "pubDate": "2026-06-18T20:09:00.000Z",
+      "title": "Waymo Has a Tesla-Like Recall. What It Means for Alphabet Stock.",
+      "body": "Waymo Has a Tesla-Like Recall. What It Means for Alphabet Stock. Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/video/technology/"
+      "href": "https://www.barrons.com/articles/waymo-tesla-recall-alphabet-stock-2b2a759b"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-06-18T16:37:49.000Z",
-      "title": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns",
-      "body": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
+      "time": "10h ago",
+      "pubDate": "2026-06-18T19:47:56.000Z",
+      "title": "New Tesla Supercharger: Halethorpe, MD (7 stalls)",
+      "body": "New Tesla Supercharger: Halethorpe, MD (7 stalls) https://t.co/Z5t23ihmRx https://t.co/YawhFWZM8G",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/sweden-may-oppose-teslas-supervised-self-driving-tech-europe-over-speeding-2026-06-18/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-06-18T16:37:49.000Z",
-      "title": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns",
-      "body": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/sweden-may-oppose-teslas-supervised-self-driving-tech-europe-over-speeding-2026-06-18/"
+      "href": "https://x.com/TeslaCharging/status/2067695829696311562"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "14h ago",
+      "pubDate": "2026-06-18T16:37:49.000Z",
+      "title": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns",
+      "body": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/autos-transportation/sweden-may-oppose-teslas-supervised-self-driving-tech-europe-over-speeding-2026-06-18/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "16h ago",
       "pubDate": "2026-06-18T14:36:18.000Z",
       "title": "Watch Jeremy Grantham on How to Tell if a Bubble’s About to Burst",
       "body": "Watch Jeremy Grantham on How to Tell if a Bubble’s About to Burst Bloomberg.com",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/videos/2026-06-18/jeremy-grantham-on-how-to-tell-if-a-bubble-s-about-to-burst"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20h ago",
-      "pubDate": "2026-06-18T09:30:15.000Z",
-      "title": "Driverless Trucks Can Save Lives on America’s Roads",
-      "body": "Driverless Trucks Can Save Lives on America’s Roads Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/opinion/articles/2026-06-18/driverless-trucks-can-save-lives-on-america-s-roads"
     }
   ]
 }
