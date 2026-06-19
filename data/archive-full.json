@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-19 00:20 UTC · 누적 376건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-19 02:15 UTC · 누적 377건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-06-18T22:17:00.000Z",
+      "title": "일렉트렉: 네덜란드 HW3 집단소송 <em>7,000명으로 확대</em> — 로펌 케네디 반 더 란 지원",
+      "hotShort": "네덜란드 HW3 소송 <em>7,000명</em>으로 확대",
+      "body": "일렉트렉에 따르면 네덜란드에서 진행 중인 테슬라 HW3 집단소송이 7,000명 규모로 확대됐으며, 케네디 반 더 란 로펌이 공식 지원에 나섰다 — 소비자 소송 전문 대형 로펌이 가세하면서 법적 자원이 강화됐고, 네덜란드 판결은 EU 전체 유사 소송의 선례가 될 수 있다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-hw3-netherlands-7000-2026-06-18",
+      "summary": "일렉트렉에 따르면 네덜란드의 테슬라 하드웨어3(HW3) 오너 집단소송이 7,000명 규모로 확대됐으며, 소비자 소송 분야의 네덜란드 대형 로펌 케네디 반 더 란(Kennedy Van der Laan)이 공식적으로 이 집단소송을 지원한다고 밝혔다.\n\nHW3는 테슬라가 2019년부터 탑재한 자율주행 하드웨어 플랫폼이다. 이후 2023년 HW4로 전환이 이뤄지면서 FSD V12 이상에서 HW3의 기능에 한계가 생겼고, HW3 오너들은 당초 약속된 완전 자율주행 기능을 받지 못하고 있다는 불만이 쌓였다. 이번 소송은 그 주장을 법적으로 다투는 집단행동이다.\n\n케네디 반 더 란 로펌의 참여는 이 소송의 무게를 크게 높인다. 자금력과 법리 전문성이 갖춰진 만큼 소송이 실질적 법정 다툼으로 이어질 가능성이 높아졌다. 특히 네덜란드는 EU 소비자 보호 규범 적용에서 주요 선례를 만들어온 나라로, 이번 판결 결과에 따라 EU 전역의 HW3 오너 소송에 영향을 미칠 수 있다.\n\n테슬라 주주 입장에서 유럽 HW3 소송이 확산될 경우 HW4 무상 업그레이드 요구나 손해배상 부담이 생길 수 있다. 동시에 이는 FSD 기능 로드맵에 관한 테슬라의 과거 커뮤니케이션이 법적 검증 대상이 됨을 뜻한다. 다만 소송이 최종 판결까지 이어지려면 상당한 시간이 걸릴 수 있다.",
+      "title_en": "Electrek: Tesla HW3 collective action in Netherlands reaches <em>7,000 claimants</em> — law firm joins",
+      "hotShort_en": "Netherlands HW3 lawsuit grows to <em>7,000 claimants</em>",
+      "body_en": "Electrek reports Tesla's HW3 collective action in the Netherlands has grown to 7,000 owners, with law firm Kennedy Van der Laan now formally backing the effort — major law firm support brings resources and legal credibility to the claim that Tesla's HW3 hardware failed to deliver promised FSD capability, with a Dutch ruling potentially setting an EU-wide consumer precedent.",
+      "summary_en": "The Tesla Hardware 3 (HW3) collective action in the Netherlands has reached 7,000 claimants, Electrek reports, with Kennedy Van der Laan — a leading Dutch law firm specializing in consumer litigation — now providing formal backing to the case.\n\nHW3 was Tesla's primary autonomous driving hardware platform from 2019 through 2023, when the company began transitioning new vehicles to Hardware 4. As FSD software evolved, particularly from V12 onward, the functional gap between HW3 and HW4 widened, leaving HW3 owners without the full self-driving capabilities many understood they had been promised at the time of purchase. The Dutch collective action challenges Tesla on those grounds.\n\nKennedy Van der Laan's participation substantially raises the stakes. A major firm with consumer litigation expertise adds legal resources and institutional credibility, increasing the probability that the claim moves from organized grievance to a full judicial process. The Netherlands is also significant jurisdictionally — Dutch courts have historically produced consumer protection rulings that establish standards relevant across EU member states, meaning the outcome could influence parallel HW3 claims elsewhere in Europe.\n\nFor Tesla shareholders, the core risk from a scaled European HW3 legal action is the potential for remedies that require either mandatory HW4 hardware upgrades or financial compensation. The case also puts Tesla's historical FSD capability communications under legal scrutiny — a dynamic that could affect how the company frames future software capability promises. Near-term, no ruling is imminent, but 7,000 organized claimants backed by a credible firm represents a meaningful escalation of the underlying dispute.",
+      "href": "https://electrek.co/2026/06/18/tesla-hw3-claim-netherlands-7000-owners-kennedy-van-der-laan/",
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
