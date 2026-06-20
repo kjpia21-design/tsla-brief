@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-20 03:40 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-20 04:13 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "12m ago",
+      "pubDate": "2026-06-20T04:01:57.000Z",
+      "title": "Big Tech is stoking unrest in the UK. Why?",
+      "body": "Big Tech is stoking unrest in the UK. Why? Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c"
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "50m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-20T02:50:28.000Z",
       "title": "New Tesla Supercharger: McKinleyville, CA (8 stalls)",
       "body": "New Tesla Supercharger: McKinleyville, CA (8 stalls) https://t.co/MuO7oCLJfd https://t.co/ig1ZEaVNO1",
@@ -17,7 +30,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-20T02:23:43.000Z",
       "title": "Optimus is 🫶❤️",
       "body": "Optimus is 🫶❤️ https://t.co/KLrQEz8OaB",
@@ -43,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-20T00:35:28.000Z",
       "title": "Starlink in Lesotho! 🇱🇸",
       "body": "Starlink in Lesotho! 🇱🇸 https://t.co/KAPoUs3j1D",
@@ -69,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-19T22:23:12.000Z",
       "title": "👀 Ranch99 goes super hard.",
       "body": "👀 Ranch99 goes super hard. https://t.co/NWT6i3x1gp",
@@ -95,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-19T21:37:13.000Z",
       "title": "New Tesla Supercharger: Longview, TX (8 stalls)",
       "body": "New Tesla Supercharger: Longview, TX (8 stalls) https://t.co/VCXKVu9TMh https://t.co/GKXITILqaq",
@@ -108,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-19T21:28:32.000Z",
       "title": "Trump accepts Qatar jet as new Air Force One despite ethics concerns",
       "body": "Trump accepts Qatar jet as new Air Force One despite ethics concerns Financial Times",
@@ -121,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-19T20:14:19.000Z",
       "title": "Tesla Cybercab launch is imminent after latest sighting at Giga Texas",
       "body": "Tesla Cybercab launch is imminent after latest sighting at Giga Texas Teslarati",
@@ -145,22 +158,9 @@
       "href": "https://x.com/TeslaCharging/status/2068047769302933760"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
-      "pubDate": "2026-06-19T18:46:50.000Z",
-      "title": "The reason they call me a Nazi is to encourage people to murder me",
-      "body": "The reason they call me a Nazi is to encourage people to murder me https://t.co/dPUFT7mGGu",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2068042842837004536"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-19T18:28:22.000Z",
       "title": "Watching Full Self-Driving doing evasive maneuvers feels like sitting in the cockpit watching first-person kung-fu mo…",
       "body": "Watching Full Self-Driving doing evasive maneuvers feels like sitting in the cockpit watching first-person kung-fu movies.",
@@ -199,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-19T16:37:35.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -212,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-19T10:26:00.000Z",
       "title": "Chinese Autonomous-Driving Unicorn Targets $1 Billion Hong Kong IPO",
       "body": "Chinese Autonomous-Driving Unicorn Targets $1 Billion Hong Kong IPO WSJ",
@@ -239,19 +239,6 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1d ago",
-      "pubDate": "2026-06-19T04:00:24.000Z",
-      "title": "Have You Bought a Tesla Recently? We Want to Hear From You.",
-      "body": "Have You Bought a Tesla Recently? We Want to Hear From You. The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/2026/06/19/business/energy-environment/tesla-elon-musk-europe.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
       "pubDate": "2026-06-18T23:17:48.000Z",
       "title": "Check out Rivian Automotive's stock price (RIVN) in real time",
       "body": "Check out Rivian Automotive's stock price (RIVN) in real time CNBC",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/quotes/RIVN"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1d ago",
+      "pubDate": "2026-06-18T22:43:34.000Z",
+      "title": "Trump says Apple to partner with Intel on US chip design, production",
+      "body": "Trump says Apple to partner with Intel on US chip design, production Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/trump-says-apple-work-with-intel-manufacture-chips-us-2026-06-18/"
     }
   ]
 }
