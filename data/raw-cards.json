@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-20 23:10 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-20 23:15 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
@@ -109,19 +109,6 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "5h ago",
-      "pubDate": "2026-06-20T17:59:29.000Z",
-      "title": "Technology",
-      "body": "Technology Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/technology"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
       "pubDate": "2026-06-20T17:50:48.000Z",
       "title": "Time to return to sanity",
       "body": "Time to return to sanity https://t.co/aRsNZyHPId",
@@ -143,6 +130,19 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2068383717803081778"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-06-20T16:57:33.000Z",
+      "title": "President Trump touts new Air Force One with Musk technology",
+      "body": "President Trump touts new Air Force One with Musk technology Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/president-trump-touts-new-air-force-one-musk-technology/"
     },
     {
       "category": "fsd",
@@ -171,19 +171,6 @@
       "href": "https://x.com/yunta_tsai/status/2068364559698780520"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
-      "pubDate": "2026-06-20T15:49:54.000Z",
-      "title": "Artificial Intelligence - Latest AI News and Analysis",
-      "body": "Artificial Intelligence - Latest AI News and Analysis WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/tech/ai"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "10h ago",
@@ -195,19 +182,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2068318509638312230"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-06-20T12:29:19.000Z",
-      "title": "Opinion | Exxon Joins the Texas Corporate Migrants",
-      "body": "Opinion | Exxon Joins the Texas Corporate Migrants WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/opinion/exxon-mobil-moving-to-texas-darren-woods-new-jersey-business-593f0004?mod"
     },
     {
       "category": "stock",
@@ -234,6 +208,32 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/profile/person/25515142"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
+      "pubDate": "2026-06-19T12:28:00.000Z",
+      "title": "Tesla Gets Cathie Wood Boost as Ark Returns to EV Stock After SpaceX Buy",
+      "body": "Tesla Gets Cathie Wood Boost as Ark Returns to EV Stock After SpaceX Buy Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/cathie-wood-musk-tesla-stock-spacex-5ec481c2"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2d ago",
+      "pubDate": "2026-06-19T10:44:21.000Z",
+      "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders",
+      "body": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html"
     },
     {
       "category": "fsd",
