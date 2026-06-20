@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-20 19:46 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-20 21:10 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2m ago",
+      "pubDate": "2026-06-20T21:08:16.000Z",
+      "title": "Another one for Jeremy. Scuba at the Golden Gate Bridge on my Cybertruck. Remote control truck. Smart Summon is insane.",
+      "body": "Another one for Jeremy. Scuba at the Golden Gate Bridge on my Cybertruck. Remote control truck. Smart Summon is insane. https://t.co/SMRINFvaCi https://t.co/JV80iHcfAz",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2068440820903186673"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "17m ago",
+      "pubDate": "2026-06-20T20:53:05.000Z",
+      "title": "Tesla Cybercab just revealed some impressive numbers. According to new EPA filings, the Cybercab is expected to deliv…",
+      "body": "Tesla Cybercab just revealed some impressive numbers. According to new EPA filings, the Cybercab is expected to deliver up to 418 miles (673 km) of rangewhile using a surprisingly small battery pack. If these figures hol…",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2068437003390361771"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "43m ago",
+      "pubDate": "2026-06-20T20:27:12.000Z",
+      "title": "Amazing abundance for all!",
+      "body": "Amazing abundance for all! https://t.co/oxkeZBwkGk",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2068430489535271081"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
       "pubDate": "2026-06-20T18:16:37.000Z",
       "title": "Intelligence is to discover the true boundary of Shannon encoding, given the precondition of P(x), where P(x) is set …",
       "body": "Intelligence is to discover the true boundary of Shannon encoding, given the precondition of P(x), where P(x) is set by the initial prompt. A right prompt sets the condition of seamlessly boundless possibilities that dis…",
@@ -17,7 +56,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-20T18:05:22.000Z",
       "title": "TSLA.F",
       "body": "TSLA.F Reuters",
@@ -30,7 +69,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
+      "pubDate": "2026-06-20T17:59:29.000Z",
+      "title": "Technology",
+      "body": "Technology Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/technology"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
       "pubDate": "2026-06-20T17:50:48.000Z",
       "title": "Time to return to sanity",
       "body": "Time to return to sanity https://t.co/aRsNZyHPId",
@@ -43,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-20T17:21:21.000Z",
       "title": "Largest Tesla Supercharger in Canada now open ahead of Canada Day travel 🇨🇦: Ajax, ON (44 stalls)",
       "body": "Largest Tesla Supercharger in Canada now open ahead of Canada Day travel 🇨🇦: Ajax, ON (44 stalls) https://t.co/I5QZP0BNM0 https://t.co/QqqJGMQkNW",
@@ -54,22 +106,9 @@
       "href": "https://x.com/TeslaCharging/status/2068383717803081778"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-20T16:57:33.000Z",
-      "title": "President Trump touts new Air Force One with Musk technology",
-      "body": "President Trump touts new Air Force One with Musk technology Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/president-trump-touts-new-air-force-one-musk-technology/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-20T16:29:37.000Z",
       "title": "Space naturally selects the makers since you need makers to create abundance in order to take. Thus, eventually the t…",
       "body": "Space naturally selects the makers since you need makers to create abundance in order to take. Thus, eventually the takers on Earth would force the makers to go to space while takers would ironically be fighting for the …",
@@ -82,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-20T16:05:14.000Z",
       "title": "Many people think any given ML project is 99% training. In reality, it’s 50% evaluation, 40% data cleaning, 8% integr…",
       "body": "Many people think any given ML project is 99% training. In reality, it’s 50% evaluation, 40% data cleaning, 8% integration, and 2% training. The first two set the noise floor for learning. No ML magic matters; the model …",
@@ -95,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-20T15:49:54.000Z",
       "title": "Artificial Intelligence - Latest AI News and Analysis",
       "body": "Artificial Intelligence - Latest AI News and Analysis WSJ",
@@ -108,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-20T15:30:05.000Z",
       "title": "Giorgia Meloni accuses Donald Trump of pandering to west’s enemies",
       "body": "Giorgia Meloni accuses Donald Trump of pandering to west’s enemies Financial Times",
@@ -119,35 +158,9 @@
       "href": "https://www.ft.com/content/f68fc9f4-ba49-472b-ac56-9b2d9236da53?syn-25a6b1a6"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-20T13:30:57.000Z",
-      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
-      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-20T13:30:57.000Z",
-      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
-      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-20T13:02:14.000Z",
       "title": "New Tesla Supercharger: Marche-en-Famenne, Belgium (12 stalls)",
       "body": "New Tesla Supercharger: Marche-en-Famenne, Belgium (12 stalls) https://t.co/6CQIP8e6Ra https://t.co/9KTLm0pUS7",
@@ -160,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-20T12:29:19.000Z",
       "title": "Opinion | Exxon Joins the Texas Corporate Migrants",
       "body": "Opinion | Exxon Joins the Texas Corporate Migrants WSJ",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-20T11:00:09.000Z",
       "title": "Did Anthropic talk its way into an AI export ban?",
       "body": "Did Anthropic talk its way into an AI export ban? Financial Times",
@@ -186,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-20T11:00:09.000Z",
       "title": "Did Anthropic talk its way into an AI export ban?",
       "body": "Did Anthropic talk its way into an AI export ban? Financial Times",
@@ -197,17 +210,17 @@
       "href": "https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb?syn-25a6b1a6"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
-      "pubDate": "2026-06-20T04:02:39.000Z",
-      "title": "Did we all get Orientalism wrong?",
-      "body": "Did we all get Orientalism wrong? Financial Times",
-      "sourceName": "Financial Times",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "20h ago",
+      "pubDate": "2026-06-20T01:00:00.000Z",
+      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
+      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
+      "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.ft.com/content/ee9caa66-c755-40ef-8fe1-19ccb15bb04a"
+      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
     },
     {
       "category": "stock",
@@ -221,19 +234,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/profile/person/25515142"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-06-19T10:26:00.000Z",
-      "title": "Chinese Autonomous-Driving Unicorn Targets $1 Billion Hong Kong IPO",
-      "body": "Chinese Autonomous-Driving Unicorn Targets $1 Billion Hong Kong IPO WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/chinese-autonomous-driving-unicorn-targets-1-billion-hong-kong-ipo-a8e2401f"
     },
     {
       "category": "stock",
