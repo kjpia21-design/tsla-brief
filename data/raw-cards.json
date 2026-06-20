@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-20 09:27 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-20 09:30 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
@@ -43,20 +43,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-20T01:00:00.000Z",
-      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
-      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-20T01:00:00.000Z",
       "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
       "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
@@ -70,6 +57,32 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "9h ago",
+      "pubDate": "2026-06-20T01:00:00.000Z",
+      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
+      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "9h ago",
+      "pubDate": "2026-06-20T00:35:28.000Z",
+      "title": "Starlink in Lesotho! 🇱🇸",
+      "body": "Starlink in Lesotho! 🇱🇸 https://t.co/KAPoUs3j1D",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2068130579757859247"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10h ago",
       "pubDate": "2026-06-20T00:00:00.000Z",
       "title": "Transcript",
       "body": "Transcript - Reuters Reuters",
@@ -119,6 +132,19 @@
       "href": "https://x.com/JoeTegtmeyer/status/2068090929693811037"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "12h ago",
+      "pubDate": "2026-06-19T21:37:54.000Z",
+      "title": "19 June 2026 Giga Texas VIDEO … It’s Cybercab day &amp; a national holiday at Giga Texas. I decided to do a slightly …",
+      "body": "19 June 2026 Giga Texas VIDEO … It’s Cybercab day &amp; a national holiday at Giga Texas. I decided to do a slightly different drone profile today, w/ concentration on the 4 major construction areas. These are the N Camp…",
+      "sourceName": "Joe Tegtmeyer (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/JoeTegtmeyer/status/2068085890552094755"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "12h ago",
@@ -130,19 +156,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2068085720330522784"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
-      "pubDate": "2026-06-19T21:28:32.000Z",
-      "title": "Trump accepts Qatar jet as new Air Force One despite ethics concerns",
-      "body": "Trump accepts Qatar jet as new Air Force One despite ethics concerns Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/2bb0efd9-fe82-4943-ab5f-ac80682bee00?syn-25a6b1a6"
     },
     {
       "category": "product",
@@ -210,19 +223,6 @@
       "href": "https://www.ft.com/content/f3532214-5707-41fe-bde6-8235b67f9e86?syn-25a6b1a6"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "22h ago",
-      "pubDate": "2026-06-19T11:03:04.000Z",
-      "title": "AI",
-      "body": "AI Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/ai"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "23h ago",
@@ -249,17 +249,17 @@
       "href": "https://www.cnbc.com/quotes/RIVN"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-06-18T20:21:21.000Z",
-      "title": "Waymo recalls about 3,900 robotaxis after some drove into 'freeway construction zones'",
-      "body": "Waymo recalls about 3,900 robotaxis after some drove into 'freeway construction zones' CNBC",
-      "sourceName": "CNBC",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1d ago",
+      "pubDate": "2026-06-18T22:43:34.000Z",
+      "title": "Trump says Apple to partner with Intel on US chip design, production",
+      "body": "Trump says Apple to partner with Intel on US chip design, production Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/2026/06/18/waymo-nhtsa-voluntary-recall-robotaxis-entered-freeway-construction-zones.html"
+      "href": "https://www.reuters.com/business/trump-says-apple-work-with-intel-manufacture-chips-us-2026-06-18/"
     }
   ]
 }
