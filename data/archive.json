@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "12h ago",
+      "pubDate": "2026-06-20T03:00:36.000Z",
+      "title": "WSJ, EV 픽업 심층 리뷰 — 포드·텔로 \"<em>두 번째 기회</em>\" 성공할까",
+      "hotShort": "WSJ, EV 픽업 <em>재도전</em> — 포드·텔로 MT1 리뷰",
+      "body": "WSJ가 포드 F-150 라이트닝·텔로 MT1을 리뷰하며 '소비자가 EV 픽업을 싫어한 게 맞았다'고 평가했다. 제조사들이 개선형 2세대 모델로 시장에 재도전하는 EV 픽업 경쟁 구도가 사이버트럭에 어떤 영향을 줄지 주목된다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "product-ev-pickup-wsj-review-ford-telo-2026-06-20",
+      "summary": "월스트리트저널이 전기 픽업트럭 시장의 최신 경쟁 구도를 점검하는 심층 리뷰를 발행했다. 리뷰 대상은 포드 F-150 라이트닝과 신생 EV 스타트업 텔로의 MT1으로, 각각 서로 다른 전략으로 시장에 도전 중인 경쟁자들이다.\n\nWSJ의 제목은 직설적이다 — '소비자가 EV 픽업을 싫어한 게 맞았다'고 인정하면서 동시에 '자동차 제조사들이 두 번째 기회를 원한다'는 구도를 제시한다. 1세대 전기 픽업트럭이 소비자 기대에 못 미쳤음을 주요 언론이 공개적으로 인정한 셈이다.\n\n포드 F-150 라이트닝은 2022년 출시 이후 EV 픽업 시장의 대표 모델로 자리잡았으나, 견인·적재 상황에서의 실 주행거리, 가격 경쟁력, 초기 생산 이슈 등에서 엇갈린 평가를 받아왔다. 텔로 MT1은 소형·도심형 전기 픽업을 표방하는 스타트업 모델로, 기존 대형 픽업과는 다른 세그먼트 접근법을 시도한다.\n\n테슬라 사이버트럭이 EV 픽업 세그먼트를 선점하고 있는 가운데, 경쟁자들의 2세대 재도전이 어떤 반향을 얻는지는 이 세그먼트 전체의 시장 성숙도와 직결된다. 배터리 기술 발전과 충전 인프라 확충이 1세대의 단점을 얼마나 극복했는지가 핵심 관전 포인트다.",
+      "title_en": "WSJ Reviews EV Pickups: Can Ford & Telo's <em>Second-Chance Models</em> Deliver?",
+      "hotShort_en": "WSJ: <em>EV pickup</em> second-chance review",
+      "body_en": "WSJ reviewed the Ford F-150 Lightning and Telo MT1, acknowledging consumers were right to be disappointed with first-generation EV pickups. As automakers launch improved second-generation models, competition in the EV pickup segment is intensifying.",
+      "summary_en": "The Wall Street Journal has published a comprehensive review of the electric pickup truck market, putting the Ford F-150 Lightning and Telo MT1 under scrutiny as automakers make their second bid for consumer confidence in the segment.\n\nThe framing is blunt: WSJ's headline concedes that consumers 'were right to hate EV pickups' while simultaneously arguing that 'automakers want a second chance.' It's a mainstream acknowledgment that first-generation electric pickups fell short of expectations in real-world use.\n\nThe Ford F-150 Lightning has been the EV pickup segment's most prominent entry since its 2022 debut, while the Telo MT1 represents a startup challenger taking a compact, urban-focused approach — a different bet on where the market will go.\n\nThe 'second chance' narrative reflects genuine improvements: battery energy density has improved, charging networks have expanded, and second-generation designs address the range and hauling concerns that drew early criticism. Whether this translates into consumer demand remains the key question.\n\nFor Tesla shareholders, the health of the EV pickup segment matters: Cybertruck has established a clear lead, and broader consumer confidence in electric pickups could support overall segment growth. How Ford and Telo fare with their improved models will be an indicator of how large this market can grow.",
+      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
@@ -2032,33 +2052,7 @@
       "href": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-robotaxi-progress-110947811.html",
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-12T09:00:01.000Z",
-      "title": "CNBC: 스페이스X COO 쇼트웰 \"IPO는 <em>'매우 미래지향적 여정'의 작은 한 걸음</em>\"",
-      "hotShort": "쇼트웰 'IPO는 <em>미래 여정의 작은 한 걸음</em>'",
-      "body": "스페이스X 사장 겸 COO 그윈 쇼트웰이 상장 당일 CNBC에 출연해 주당 $135·$75B 역대 최대 규모 나스닥 데뷔를 '매우 미래지향적인 여정의 작은 한 걸음'이라고 표현했다 — 기록적인 IPO 이후에도 스페이스X의 성장 스토리가 여정의 초입임을 강조하며, 공개 시장에서의 장기 가치 창출 의지를 천명한 것으로 해석된다.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-ipo-live-135-75b-2026-06-12",
-      "summary": "스페이스X 사장 겸 최고운영책임자(COO) 그윈 쇼트웰은 2026년 6월 12일 나스닥 상장 당일 CNBC와의 인터뷰에서 이번 IPO를 '매우 미래지향적인 여정의 작은 한 걸음(one small step in a very futuristic journey)'이라고 규정했다. 스페이스X는 주당 $135 공모가로 역대 미국 IPO 최대 규모인 750억달러($75B)를 조달하며 나스닥에 상장했고, 이로써 일론 머스크의 순자산이 1조달러를 돌파해 세계 최초 조만장자 기록도 함께 공식화됐다.\n\n쇼트웰의 표현은 IPO를 목적지가 아닌 장대한 여정의 시작점으로 바라보는 스페이스X 경영진의 시각을 반영한다. 팰컨 9·스타쉽 발사체와 스타링크 위성 인터넷이 현재 핵심 사업이지만, 우주 탐사·화성 식민지화라는 장기 목표가 이번 상장 이후 처음으로 공개 시장 투자자에게 직접 제시됐다.\n\n테슬라 주주 관점에서 스페이스X 상장은 복합적인 신호다. 머스크의 '창업자 프리미엄'이 공개 시장에서 공식 가격화되며 TSLA 주가에 일부 반영된 이 프리미엄이 확인됐다. 스페이스X 지분 유동화로 머스크의 테슬라 주식 매도 압력이 줄어들 수 있다는 분석과, 다수 상장사 경영으로 테슬라 집중도가 희석될 수 있다는 우려가 공존한다. CNBC·로이터·테슬라라티 등 3개 매체가 IPO 수치와 쇼트웰 발언을 교차 보도했다.",
-      "title_en": "CNBC: SpaceX COO Shotwell says IPO is <em>'one small step in a very futuristic journey'</em>",
-      "hotShort_en": "Shotwell: SpaceX IPO '<em>one small step</em>' in futuristic journey",
-      "body_en": "SpaceX President and COO Gwynne Shotwell told CNBC on IPO day that the company's $135/share, $75B Nasdaq debut — the largest U.S. IPO on record — is 'one small step in a very futuristic journey,' positioning the listing as a launchpad rather than an endpoint for the rocket and Starlink business.",
-      "summary_en": "SpaceX President and COO Gwynne Shotwell appeared on CNBC on June 12, the day SpaceX began trading on Nasdaq, to describe the historic IPO as 'one small step in a very futuristic journey.' The framing positions the $75 billion raise — the largest in U.S. IPO history, at $135/share — as an early milestone within a far longer strategic timeline rather than a culmination of the company's ambitions.\n\nSpaceX operates two core businesses: Falcon 9 and Starship launch services, serving NASA, the U.S. Department of Defense, and commercial customers; and Starlink, the satellite broadband network. The IPO gave the public market its first direct price signal on these combined operations, and simultaneously pushed Elon Musk's net worth above $1 trillion — confirmed by Reuters and Teslarati.\n\nShotwell's comments also highlight that SpaceX has deep leadership beyond Musk — she has run day-to-day operations for years — potentially easing concerns about executive attention being split across Tesla, SpaceX, and xAI. With SpaceX equity now liquid, Musk's pressure to sell TSLA shares to fund other ventures may also decrease, which CNBC flagged as a second-order benefit for Tesla shareholders.\n\nThe risk remains that a growing portfolio of public companies fragments Musk's strategic focus. Shotwell's 'very futuristic journey' framing signals long investment horizons ahead — meaning continued capital intensity and potential dilution as SpaceX pursues its interplanetary goals.",
-      "href": "https://www.cnbc.com/amp/2026/06/12/spacex-coo-gwynne-shotwell-spcx-ipo.html",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "CNBC",
-        "Reuters",
-        "Teslarati"
-      ],
-      "sentiment": "neutral",
-      "hot": 8
     }
   ],
-  "asOf": "2026-06-20 08:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-21 00:19 KST 자동 갱신 · 최신순"
 }
