@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-20 15:15 UTC · 누적 391건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-20 15:47 UTC · 누적 392건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "12h ago",
+      "pubDate": "2026-06-20T03:00:36.000Z",
+      "title": "WSJ, EV 픽업 심층 리뷰 — 포드·텔로 \"<em>두 번째 기회</em>\" 성공할까",
+      "hotShort": "WSJ, EV 픽업 <em>재도전</em> — 포드·텔로 MT1 리뷰",
+      "body": "WSJ가 포드 F-150 라이트닝·텔로 MT1을 리뷰하며 '소비자가 EV 픽업을 싫어한 게 맞았다'고 평가했다. 제조사들이 개선형 2세대 모델로 시장에 재도전하는 EV 픽업 경쟁 구도가 사이버트럭에 어떤 영향을 줄지 주목된다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "product-ev-pickup-wsj-review-ford-telo-2026-06-20",
+      "summary": "월스트리트저널이 전기 픽업트럭 시장의 최신 경쟁 구도를 점검하는 심층 리뷰를 발행했다. 리뷰 대상은 포드 F-150 라이트닝과 신생 EV 스타트업 텔로의 MT1으로, 각각 서로 다른 전략으로 시장에 도전 중인 경쟁자들이다.\n\nWSJ의 제목은 직설적이다 — '소비자가 EV 픽업을 싫어한 게 맞았다'고 인정하면서 동시에 '자동차 제조사들이 두 번째 기회를 원한다'는 구도를 제시한다. 1세대 전기 픽업트럭이 소비자 기대에 못 미쳤음을 주요 언론이 공개적으로 인정한 셈이다.\n\n포드 F-150 라이트닝은 2022년 출시 이후 EV 픽업 시장의 대표 모델로 자리잡았으나, 견인·적재 상황에서의 실 주행거리, 가격 경쟁력, 초기 생산 이슈 등에서 엇갈린 평가를 받아왔다. 텔로 MT1은 소형·도심형 전기 픽업을 표방하는 스타트업 모델로, 기존 대형 픽업과는 다른 세그먼트 접근법을 시도한다.\n\n테슬라 사이버트럭이 EV 픽업 세그먼트를 선점하고 있는 가운데, 경쟁자들의 2세대 재도전이 어떤 반향을 얻는지는 이 세그먼트 전체의 시장 성숙도와 직결된다. 배터리 기술 발전과 충전 인프라 확충이 1세대의 단점을 얼마나 극복했는지가 핵심 관전 포인트다.",
+      "title_en": "WSJ Reviews EV Pickups: Can Ford & Telo's <em>Second-Chance Models</em> Deliver?",
+      "hotShort_en": "WSJ: <em>EV pickup</em> second-chance review",
+      "body_en": "WSJ reviewed the Ford F-150 Lightning and Telo MT1, acknowledging consumers were right to be disappointed with first-generation EV pickups. As automakers launch improved second-generation models, competition in the EV pickup segment is intensifying.",
+      "summary_en": "The Wall Street Journal has published a comprehensive review of the electric pickup truck market, putting the Ford F-150 Lightning and Telo MT1 under scrutiny as automakers make their second bid for consumer confidence in the segment.\n\nThe framing is blunt: WSJ's headline concedes that consumers 'were right to hate EV pickups' while simultaneously arguing that 'automakers want a second chance.' It's a mainstream acknowledgment that first-generation electric pickups fell short of expectations in real-world use.\n\nThe Ford F-150 Lightning has been the EV pickup segment's most prominent entry since its 2022 debut, while the Telo MT1 represents a startup challenger taking a compact, urban-focused approach — a different bet on where the market will go.\n\nThe 'second chance' narrative reflects genuine improvements: battery energy density has improved, charging networks have expanded, and second-generation designs address the range and hauling concerns that drew early criticism. Whether this translates into consumer demand remains the key question.\n\nFor Tesla shareholders, the health of the EV pickup segment matters: Cybertruck has established a clear lead, and broader consumer confidence in electric pickups could support overall segment growth. How Ford and Telo fare with their improved models will be an indicator of how large this market can grow.",
+      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d",
+      "sentiment": "neutral",
+      "hot": 4
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",

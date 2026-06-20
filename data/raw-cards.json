@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-20 15:15 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-20 15:47 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-20T13:46:20.000Z",
       "title": "Why walk to your Cybertruck? Have it take you to the destination to get the family.",
       "body": "Why walk to your Cybertruck? Have it take you to the destination to get the family. https://t.co/k58q8bYHJY",
@@ -17,7 +17,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-20T13:02:14.000Z",
       "title": "New Tesla Supercharger: Marche-en-Famenne, Belgium (12 stalls)",
       "body": "New Tesla Supercharger: Marche-en-Famenne, Belgium (12 stalls) https://t.co/6CQIP8e6Ra https://t.co/9KTLm0pUS7",
@@ -43,7 +43,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-20T11:00:09.000Z",
       "title": "Did Anthropic talk its way into an AI export ban?",
       "body": "Did Anthropic talk its way into an AI export ban? Financial Times",
@@ -56,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-20T11:00:09.000Z",
       "title": "Did Anthropic talk its way into an AI export ban?",
       "body": "Did Anthropic talk its way into an AI export ban? Financial Times",
@@ -82,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-20T09:06:55.000Z",
       "title": "US & International Top News Stories Today",
       "body": "US & International Top News Stories Today AP News",
@@ -95,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-20T05:11:06.000Z",
       "title": "Artificial Intelligence - Latest AI News and Analysis",
       "body": "Artificial Intelligence - Latest AI News and Analysis WSJ",
@@ -108,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-20T04:02:39.000Z",
       "title": "Big Tech is stoking unrest in the UK. Why?",
       "body": "Big Tech is stoking unrest in the UK. Why? Financial Times",
@@ -121,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-20T04:00:38.000Z",
       "title": "Did we all get Orientalism wrong?",
       "body": "Did we all get Orientalism wrong? Financial Times",
@@ -134,7 +134,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-20T01:00:00.000Z",
       "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
       "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
@@ -147,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-19T23:01:04.000Z",
       "title": "UK unveils prototype missiles for Ukraine with no US components",
       "body": "UK unveils prototype missiles for Ukraine with no US components Financial Times",
@@ -223,6 +223,19 @@
       "href": "https://www.reuters.com/business/trump-says-apple-work-with-intel-manufacture-chips-us-2026-06-18/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2d ago",
+      "pubDate": "2026-06-18T22:01:43.000Z",
+      "title": "Intel taps industry veteran Seok-Hee Lee to lead foundry packaging push",
+      "body": "Intel taps industry veteran Seok-Hee Lee to lead foundry packaging push Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/intel-taps-industry-veteran-seok-hee-lee-lead-foundry-packaging-push-2026-06-18/"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "2d ago",
@@ -236,23 +249,10 @@
       "href": "https://www.cnbc.com/2026/06/18/waymo-nhtsa-voluntary-recall-robotaxis-entered-freeway-construction-zones.html"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-06-18T15:37:00.000Z",
-      "title": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns",
-      "body": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/sweden-may-oppose-teslas-supervised-self-driving-tech-europe-over-speeding-2026-06-18/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "2d ago",
-      "pubDate": "2026-06-18T15:37:00.000Z",
+      "pubDate": "2026-06-18T18:30:05.000Z",
       "title": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns",
       "body": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns Reuters",
       "sourceName": "Reuters",
