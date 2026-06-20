@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-06-20 05:35 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-20 07:35 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-20T04:00:38.000Z",
+      "time": "4h ago",
+      "pubDate": "2026-06-20T04:02:39.000Z",
       "title": "Big Tech is stoking unrest in the UK. Why?",
       "body": "Big Tech is stoking unrest in the UK. Why? Financial Times",
       "sourceName": "Financial Times",
@@ -15,9 +15,35 @@
       "href": "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-06-20T03:56:39.000Z",
+      "title": "Artificial Intelligence - Latest AI News and Analysis",
+      "body": "Artificial Intelligence - Latest AI News and Analysis WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/tech/ai"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "4h ago",
+      "pubDate": "2026-06-20T03:30:39.000Z",
+      "title": "Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets",
+      "body": "Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5h ago",
       "pubDate": "2026-06-20T02:50:28.000Z",
       "title": "New Tesla Supercharger: McKinleyville, CA (8 stalls)",
       "body": "New Tesla Supercharger: McKinleyville, CA (8 stalls) https://t.co/MuO7oCLJfd https://t.co/ig1ZEaVNO1",
@@ -28,9 +54,9 @@
       "href": "https://x.com/TeslaCharging/status/2068164549988212772"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "7h ago",
       "pubDate": "2026-06-20T01:00:00.000Z",
       "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
       "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
@@ -43,20 +69,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-20T00:35:28.000Z",
-      "title": "Starlink in Lesotho! 🇱🇸",
-      "body": "Starlink in Lesotho! 🇱🇸 https://t.co/KAPoUs3j1D",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
+      "time": "7h ago",
+      "pubDate": "2026-06-20T01:00:00.000Z",
+      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
+      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/elonmusk/status/2068130579757859247"
+      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-20T00:00:00.000Z",
       "title": "Transcript",
       "body": "Transcript - Reuters Reuters",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-19T23:01:04.000Z",
       "title": "UK unveils prototype missiles for Ukraine with no US components",
       "body": "UK unveils prototype missiles for Ukraine with no US components Financial Times",
@@ -82,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-19T22:23:12.000Z",
       "title": "👀 Ranch99 goes super hard.",
       "body": "👀 Ranch99 goes super hard. https://t.co/NWT6i3x1gp",
@@ -95,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-19T21:57:55.000Z",
       "title": "I thought I'd share some of these high resolution &amp; zoomed in images of the new Giga Texas Optimus Factory constr…",
       "body": "I thought I'd share some of these high resolution &amp; zoomed in images of the new Giga Texas Optimus Factory construction site, showing the extensive ground &amp; foundation work plus the steel superstructure taking sh…",
@@ -108,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-19T21:37:13.000Z",
       "title": "New Tesla Supercharger: Longview, TX (8 stalls)",
       "body": "New Tesla Supercharger: Longview, TX (8 stalls) https://t.co/VCXKVu9TMh https://t.co/GKXITILqaq",
@@ -121,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-19T21:28:32.000Z",
       "title": "Trump accepts Qatar jet as new Air Force One despite ethics concerns",
       "body": "Trump accepts Qatar jet as new Air Force One despite ethics concerns Financial Times",
@@ -132,22 +158,9 @@
       "href": "https://www.ft.com/content/2bb0efd9-fe82-4943-ab5f-ac80682bee00?syn-25a6b1a6"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
-      "pubDate": "2026-06-19T20:30:54.000Z",
-      "title": "Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets",
-      "body": "Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-19T20:14:19.000Z",
       "title": "Tesla Cybercab launch is imminent after latest sighting at Giga Texas",
       "body": "Tesla Cybercab launch is imminent after latest sighting at Giga Texas Teslarati",
@@ -158,22 +171,9 @@
       "href": "https://www.teslarati.com/tesla-gives-biggest-signal-yet-that-cybercab-launch-imminent/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
-      "pubDate": "2026-06-19T19:06:25.000Z",
-      "title": "Wall Connector for Business sites that opened recently (31 sites, 142 total Wall Connectors across public and private…",
-      "body": "Wall Connector for Business sites that opened recently (31 sites, 142 total Wall Connectors across public and private properties). Learn more about Wall Connector for Business: https://t.co/8B4XsiW9Ij - CPV 12015 Waterfr…",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2068047769302933760"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-19T18:28:22.000Z",
       "title": "Watching Full Self-Driving doing evasive maneuvers feels like sitting in the cockpit watching first-person kung-fu mo…",
       "body": "Watching Full Self-Driving doing evasive maneuvers feels like sitting in the cockpit watching first-person kung-fu movies.",
@@ -186,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-19T17:58:08.000Z",
       "title": "I wonder what the actual signal-to-noise ratio of current AI benchmarks is. A score is one thing; how it gets there i…",
       "body": "I wonder what the actual signal-to-noise ratio of current AI benchmarks is. A score is one thing; how it gets there is another. https://t.co/PizfUxww2x",
@@ -197,9 +197,35 @@
       "href": "https://x.com/yunta_tsai/status/2068030586103763284"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "15h ago",
+      "pubDate": "2026-06-19T16:37:35.000Z",
+      "title": "Stocks",
+      "body": "Stocks Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/profile/person/25515142"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "17h ago",
+      "pubDate": "2026-06-19T14:46:06.000Z",
+      "title": "Cuba passes ‘urgent’ reforms to liberalise economy under US pressure",
+      "body": "Cuba passes ‘urgent’ reforms to liberalise economy under US pressure Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/f3532214-5707-41fe-bde6-8235b67f9e86?syn-25a6b1a6"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-06-19T10:26:00.000Z",
       "title": "Chinese Autonomous-Driving Unicorn Targets $1 Billion Hong Kong IPO",
       "body": "Chinese Autonomous-Driving Unicorn Targets $1 Billion Hong Kong IPO WSJ",
@@ -212,21 +238,8 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "21h ago",
-      "pubDate": "2026-06-19T08:17:01.000Z",
-      "title": "Stocks",
-      "body": "Stocks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/profile/person/25514980"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-06-19T07:02:49.000Z",
+      "time": "22h ago",
+      "pubDate": "2026-06-19T10:02:37.000Z",
       "title": "AI",
       "body": "AI Bloomberg.com",
       "sourceName": "Bloomberg.com",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/quotes/RIVN"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
-      "pubDate": "2026-06-18T22:43:34.000Z",
-      "title": "Trump says Apple to partner with Intel on US chip design, production",
-      "body": "Trump says Apple to partner with Intel on US chip design, production Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/trump-says-apple-work-with-intel-manufacture-chips-us-2026-06-18/"
     }
   ]
 }
