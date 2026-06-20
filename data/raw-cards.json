@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-06-19 23:40 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-20 01:40 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "40m ago",
+      "pubDate": "2026-06-20T01:00:00.000Z",
+      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
+      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-20T00:35:28.000Z",
+      "title": "Starlink in Lesotho! 🇱🇸",
+      "body": "Starlink in Lesotho! 🇱🇸 https://t.co/KAPoUs3j1D",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2068130579757859247"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-19T23:32:24.000Z",
+      "title": "Tesla Australia has officially opened its 1,000th Supercharger stall! 🇦🇺 The milestone was celebrated at Byron Bay …",
+      "body": "Tesla Australia has officially opened its 1,000th Supercharger stall! 🇦🇺 The milestone was celebrated at Byron Bay with a custom-designed charger featuring coastal artwork and a special “No. 1000” plaque. The new site …",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/teslaownersSV/status/2068114707182170196"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-19T22:23:12.000Z",
       "title": "👀 Ranch99 goes super hard.",
       "body": "👀 Ranch99 goes super hard. https://t.co/NWT6i3x1gp",
@@ -17,7 +56,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-19T21:57:55.000Z",
       "title": "I thought I'd share some of these high resolution &amp; zoomed in images of the new Giga Texas Optimus Factory constr…",
       "body": "I thought I'd share some of these high resolution &amp; zoomed in images of the new Giga Texas Optimus Factory construction site, showing the extensive ground &amp; foundation work plus the steel superstructure taking sh…",
@@ -28,22 +67,9 @@
       "href": "https://x.com/JoeTegtmeyer/status/2068090929693811037"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-19T21:37:54.000Z",
-      "title": "19 June 2026 Giga Texas VIDEO … It’s Cybercab day &amp; a national holiday at Giga Texas. I decided to do a slightly …",
-      "body": "19 June 2026 Giga Texas VIDEO … It’s Cybercab day &amp; a national holiday at Giga Texas. I decided to do a slightly different drone profile today, w/ concentration on the 4 major construction areas. These are the N Camp…",
-      "sourceName": "Joe Tegtmeyer (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/JoeTegtmeyer/status/2068085890552094755"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-19T21:37:13.000Z",
       "title": "New Tesla Supercharger: Longview, TX (8 stalls)",
       "body": "New Tesla Supercharger: Longview, TX (8 stalls) https://t.co/VCXKVu9TMh https://t.co/GKXITILqaq",
@@ -56,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-19T21:28:32.000Z",
       "title": "Trump accepts Qatar jet as new Air Force One despite ethics concerns",
       "body": "Trump accepts Qatar jet as new Air Force One despite ethics concerns Financial Times",
@@ -64,12 +90,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.ft.com/content/2bb0efd9-fe82-4943-ab5f-ac80682bee00"
+      "href": "https://www.ft.com/content/2bb0efd9-fe82-4943-ab5f-ac80682bee00?syn-25a6b1a6"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-19T20:14:19.000Z",
       "title": "Tesla Cybercab launch is imminent after latest sighting at Giga Texas",
       "body": "Tesla Cybercab launch is imminent after latest sighting at Giga Texas Teslarati",
@@ -82,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-19T19:06:25.000Z",
       "title": "Wall Connector for Business sites that opened recently (31 sites, 142 total Wall Connectors across public and private…",
       "body": "Wall Connector for Business sites that opened recently (31 sites, 142 total Wall Connectors across public and private properties). Learn more about Wall Connector for Business: https://t.co/8B4XsiW9Ij - CPV 12015 Waterfr…",
@@ -93,22 +119,9 @@
       "href": "https://x.com/TeslaCharging/status/2068047769302933760"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-19T18:46:50.000Z",
-      "title": "The reason they call me a Nazi is to encourage people to murder me",
-      "body": "The reason they call me a Nazi is to encourage people to murder me https://t.co/dPUFT7mGGu",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2068042842837004536"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-19T18:28:22.000Z",
       "title": "Watching Full Self-Driving doing evasive maneuvers feels like sitting in the cockpit watching first-person kung-fu mo…",
       "body": "Watching Full Self-Driving doing evasive maneuvers feels like sitting in the cockpit watching first-person kung-fu movies.",
@@ -121,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-19T17:58:08.000Z",
       "title": "I wonder what the actual signal-to-noise ratio of current AI benchmarks is. A score is one thing; how it gets there i…",
       "body": "I wonder what the actual signal-to-noise ratio of current AI benchmarks is. A score is one thing; how it gets there is another. https://t.co/PizfUxww2x",
@@ -132,9 +145,22 @@
       "href": "https://x.com/yunta_tsai/status/2068030586103763284"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "8h ago",
+      "pubDate": "2026-06-19T17:27:57.000Z",
+      "title": "New U.S. Charging Supercharger: Fairburn, GA (8 stalls)  Learn more about Supercharger for Business:",
+      "body": "New U.S. Charging Supercharger: Fairburn, GA (8 stalls) https://t.co/393CUyWnR2 Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/a2d77XHyNw",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2068022991993417789"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-19T17:00:02.000Z",
       "title": "Directors’ Deals: Greencore’s non-executive chair spies a bargain",
       "body": "Directors’ Deals: Greencore’s non-executive chair spies a bargain Financial Times",
@@ -147,11 +173,11 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-19T16:37:35.000Z",
       "title": "Stocks",
-      "body": "Stocks Bloomberg",
-      "sourceName": "Bloomberg",
+      "body": "Stocks Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -160,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-19T15:31:43.000Z",
       "title": "The riskiest SpaceX stock trade of all had a big first week",
       "body": "The riskiest SpaceX stock trade of all had a big first week CNBC",
@@ -171,9 +197,22 @@
       "href": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "10h ago",
+      "pubDate": "2026-06-19T15:12:00.000Z",
+      "title": "Exclusive | Charles Schwab Breaks Into the Prediction Market Business",
+      "body": "Exclusive | Charles Schwab Breaks Into the Prediction Market Business WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/finance/charles-schwab-breaks-into-the-prediction-market-business-61f6b9c2"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-19T14:46:06.000Z",
       "title": "Cuba passes ‘urgent’ reforms to liberalise economy under US pressure",
       "body": "Cuba passes ‘urgent’ reforms to liberalise economy under US pressure Financial Times",
@@ -184,52 +223,13 @@
       "href": "https://www.ft.com/content/f3532214-5707-41fe-bde6-8235b67f9e86?syn-25a6b1a6"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-19T13:00:05.000Z",
-      "title": "How to lose a war in three easy steps",
-      "body": "How to lose a war in three easy steps Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/0ba6b511-649e-4a29-bb99-f824584ec93d?syn-25a6b1a6"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-19T12:42:50.000Z",
-      "title": "Ambani's Jio Platforms files for $3.8 billion IPO that could be India's biggest, sources say",
-      "body": "Ambani's Jio Platforms files for $3.8 billion IPO that could be India's biggest, sources say Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/china/ambanis-jio-platforms-files-38-billion-ipo-that-could-be-indias-biggest-sources-2026-06-19/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
-      "pubDate": "2026-06-19T11:48:31.000Z",
-      "title": "Don’t blame passive investors if SpaceX is mispriced",
-      "body": "Don’t blame passive investors if SpaceX is mispriced Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/3e9cfe15-c2c4-4e9c-9022-3a50a11f94dd?syn-25a6b1a6"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
-      "pubDate": "2026-06-19T04:02:27.000Z",
+      "time": "22h ago",
+      "pubDate": "2026-06-19T04:02:41.000Z",
       "title": "AI",
-      "body": "AI Bloomberg",
-      "sourceName": "Bloomberg",
+      "body": "AI Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -238,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-19T04:00:24.000Z",
       "title": "Have You Bought a Tesla Recently? We Want to Hear From You.",
       "body": "Have You Bought a Tesla Recently? We Want to Hear From You. The New York Times",
