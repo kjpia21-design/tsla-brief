@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-20 15:47 UTC · 누적 392건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-20 17:15 UTC · 누적 393건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "13h ago",
+      "pubDate": "2026-06-20T13:02:14.000Z",
+      "title": "테슬라, 벨기에 마르슈-앙-파멘에 <em>슈퍼차저 12기</em> 신규 개설",
+      "hotShort": "테슬라 공식, 벨기에에 <em>슈퍼차저 12기</em> 신규 추가",
+      "body": "테슬라 공식 충전 계정이 벨기에 마르슈-앙-파멘에 12기 슈퍼차저 스테이션을 신규 개설했다 — 유럽 브랜드 역풍 속에서도 충전 인프라 확장 행진은 계속되고 있다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-belgium-marche-2026-06-20",
+      "summary": "테슬라 공식 충전 계정(@TeslaCharging)이 벨기에 마르슈-앙-파멘에 12기 슈퍼차저 스테이션이 신규 개설됐다고 발표했다.\n\n마르슈-앙-파멘은 벨기에 왈롱 지역 뤽상부르 주의 소도시로, 아르덴 고원의 남쪽 관문에 위치한다. E25 고속도로와 인접해 브뤼셀·리에주 방향에서 룩셈부르크·프랑스로 이어지는 통과 교통량이 집중되는 지점이어서 장거리 EV 이동 중 충전 공백을 메우는 전략적 위치다.\n\n12기 규모는 해당 지역 교통량에 적합한 표준 스테이션 사이즈다. 테슬라는 최근 며칠 사이 프랑스 르 뮈(9기), 미국 캘리포니아 사우스 SF(8기)에 이어 벨기에 거점을 추가하며 글로벌 슈퍼차저 네트워크를 주 단위로 확장하고 있다.\n\n유럽에서는 일론 머스크의 정치적 행보와 연관된 브랜드 반감이 판매에 영향을 주고 있다는 보도가 이어지고 있다. 그럼에도 테슬라의 충전 인프라 투자는 중단되지 않고 있으며, 이는 장기 포지셔닝 전략으로 단기 판매 흐름과 독립적으로 진행된다.",
+      "title_en": "Tesla opens <em>12-stall Supercharger</em> in Marche-en-Famenne, Belgium",
+      "hotShort_en": "Tesla adds <em>12 Superchargers</em> in Belgium",
+      "body_en": "Tesla's official @TeslaCharging account announced a new 12-stall Supercharger in Marche-en-Famenne, Belgium — adding coverage at a key Ardennes transit point and continuing the company's steady week-by-week expansion of European charging infrastructure.",
+      "summary_en": "Tesla's official @TeslaCharging account announced the opening of a 12-stall Supercharger station in Marche-en-Famenne, a municipality in the Luxembourg province of Wallonia, Belgium.\n\nMarche-en-Famenne is positioned near the E25 motorway, a trans-European corridor connecting Brussels and Liège southward to Luxembourg and France. The location fills a charging gap on a route popular with long-distance EV drivers traversing the southern Ardennes.\n\nThe 12-stall station is a mid-size installation suited to the area's transit traffic. The Belgium opening follows a run of recent additions: a 9-stall station in Le Muy, France and an 8-stall station in South San Francisco, both announced in the past two days — illustrating Tesla's consistent weekly cadence of global Supercharger expansion.\n\nTesla continues to invest in European charging infrastructure against a backdrop of brand sentiment headwinds tied to Elon Musk's political profile on the continent. Charging network build-out operates on a longer investment cycle than near-term sales, reinforcing the ownership value proposition for existing European Tesla customers.",
+      "href": "https://x.com/TeslaCharging/status/2068318509638312230",
+      "sentiment": "bull",
+      "hot": 2
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
