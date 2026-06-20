@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "30m ago",
+      "pubDate": "2026-06-20T20:53:05.000Z",
+      "title": "사이버캡 EPA 신청서에 <em>418마일 항속거리</em> — 소형 배터리로 이례적 효율",
+      "hotShort": "사이버캡 EPA 서류, <em>418마일</em> 이례적 고효율",
+      "body": "신규 EPA 신청 서류에서 사이버캡의 예상 항속거리가 최대 418마일(673km)로 확인됐으며, 배터리 팩은 이례적으로 작다 — 최종 인증되면 kWh당 효율 기준 업계 최고 수준으로, 로보택시 경쟁에서 테슬라의 기술 우위를 뒷받침하는 수치다.",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-cybercab-epa-418-miles-range-2026-06-20",
+      "summary": "테슬라 사이버캡이 EPA 인증 신청 과정에서 주목할 만한 효율 수치를 드러냈다. 배터리 팩이 이례적으로 소형임에도 불구하고 최대 418마일(673km)의 항속거리가 예상된다는 내용이 신규 신청 서류에서 확인됐다. 단, EPA 신청 단계 수치는 최종 인증 전까지 변동 가능성이 있다.\n\n이미 별도 EPA 자료로 확인된 사이버캡 배터리 용량은 48kWh다. 48kWh 배터리로 418마일(673km)을 달성하면 전비(電費)가 현재 양산 전기차 중 최고 수준에 해당한다. 2인승 경량 구조, 공기역학적 차체, 로보택시 전용 플랫폼 최적화가 이 효율 향상의 핵심 요인으로 분석된다.\n\n항속거리는 로보택시 사업의 핵심 경제성 지표다. 충전 없이 이동 가능한 거리가 길수록 가동률이 높아지고 단위 비용이 낮아져 수익성에 직결된다. 418마일이 최종 인증되면 사이버캡은 주요 AV 경쟁자 대비 효율 측면에서 뚜렷한 우위를 확보하게 된다.\n\n기가 텍사스에서는 사이버캡 전용 테스트 트랙이 완공을 앞두고 있고, 출고 주차장에도 로고 차량이 잇따라 목격되고 있다. EPA 효율 수치와 공장 활동 신호가 맞물리며 사이버캡 출시 임박 시나리오에 무게가 더해지고 있다.",
+      "title_en": "Cybercab EPA filing shows expected range of <em>418 miles</em> on a small battery",
+      "hotShort_en": "Cybercab: EPA shows <em>418-mile range</em>",
+      "body_en": "New EPA filing documents indicate the Cybercab is expected to deliver up to 418 miles (673 km) of range from a surprisingly small battery pack — efficiency figures that, if confirmed in final certification, would position the Cybercab among the most energy-efficient EVs ever produced and validate Tesla's technology edge in the robotaxi race.",
+      "summary_en": "Tesla's Cybercab has cleared an EPA filing review with a striking range figure: an expected driving range of up to 418 miles (673 km), from a battery pack described as surprisingly compact. Note that EPA filing-stage figures are preliminary and subject to revision before final certification is issued.\n\nPreviously confirmed EPA data established the Cybercab's battery capacity at 48 kWh. Achieving 418 miles (673 km) from that pack would imply exceptional energy efficiency — well above current production Tesla vehicles on a per-kWh basis. The Cybercab's two-seat lightweight design, aerodynamically optimized body, and purpose-built robotaxi platform are the most likely drivers of this gain.\n\nRange is foundational to robotaxi economics. Every additional mile between charges means higher vehicle uptime and lower per-mile operating cost — metrics that directly determine unit profitability and fleet scaling pace. A confirmed 418-mile range would give the Cybercab a meaningful operational advantage over competing autonomous vehicle programs.\n\nThe EPA range figure arrives as Giga Texas shows accelerating Cybercab readiness: a dedicated test track is nearing completion and vehicles with Cybercab branding are being spotted in the delivery area. Together, the efficiency data and factory signals strengthen the case that a commercial Cybercab launch is approaching.",
+      "href": "https://x.com/teslaownersSV/status/2068437003390361771",
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "3h ago",
@@ -2027,27 +2047,7 @@
       "href": "https://www.basenor.com/blogs/news/tesla-update-v14-5",
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-12T19:26:01.000Z",
-      "title": "테슬라 주주 Merz, SpaceX IPO 건너뛰고 <em>테슬라-SpaceX 합병에 베팅</em>",
-      "hotShort": "Merz, SpaceX IPO 건너뛰고 <em>합병 베팅</em>",
-      "body": "테슬라 주주 Merz가 SpaceX 나스닥 상장(6월 12일)에 참가하지 않기로 했다고 블룸버그가 보도 — 머스크의 테슬라-SpaceX 합병이 성사될 경우 테슬라 보유를 통해 SpaceX 가치에 접근하는 편이 IPO 직접 투자보다 더 유리하다는 판단에서다.",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "musk-merz-spacex-ipo-tesla-merger-bet-2026-06-12",
-      "summary": "SpaceX가 나스닥에 상장된 6월 12일, 눈길을 끄는 반흐름이 포착됐다. 테슬라 주주 Merz는 SpaceX IPO에 참가하는 대신 테슬라 보유를 유지하는 길을 택했다고 블룸버그가 전했다 — 그 근거는 머스크가 추진 중인 테슬라-SpaceX 합병 시나리오에 베팅하는 것이 IPO 직접 투자보다 더 나은 접근이라는 판단이다.\n\n합병이 성사될 경우 테슬라 주주는 두 회사 간 교환 비율을 통해 SpaceX 가치에 노출된다. IPO 공모가에 직접 참가하는 대신 합병 교환 비율로 SpaceX 가치를 확보하겠다는 전략은, 합병 조건이 주주에게 유리하게 구성될 것이라는 기대를 전제로 한다.\n\n6월 12일은 테슬라-SpaceX 합병 논의가 집중적으로 부상한 날이기도 했다. SpaceX IPO가 두 회사의 공개 시가총액 기준선을 만들면서, 합병 협상이 구체화될 수 있는 시장 인프라가 갖춰졌다는 평가도 나왔다.\n\n테슬라 주주 관점에서 Merz의 선택은 '테슬라 홀드가 합병 옵션 가치를 포함한다'는 논리의 실제 적용 사례다. 합병이 성사되지 않거나 교환 비율이 불리하게 결정될 경우 이 베팅은 SpaceX IPO 상승분을 놓치는 결과로 이어질 수 있다 — 합병 시나리오는 여전히 미확정 변수임을 감안해야 한다.",
-      "title_en": "Tesla holder Merz <em>sits out SpaceX IPO</em>, betting on Musk merger bid",
-      "hotShort_en": "Merz skips SpaceX IPO, <em>bets on merger</em>",
-      "body_en": "Tesla holder Merz opted out of SpaceX's June 12 Nasdaq IPO, Bloomberg reports — on the thesis that if Elon Musk's proposed Tesla-SpaceX merger materializes, holding Tesla shares would deliver SpaceX exposure through the merger exchange ratio at more favorable terms than the IPO price.",
-      "summary_en": "June 12 brought an unusual signal amid the SpaceX IPO excitement: Tesla holder Merz chose not to participate in the SpaceX Nasdaq listing, Bloomberg reports. The rationale, per Bloomberg's reporting, is a bet on Elon Musk's proposed Tesla-SpaceX merger — a thesis in which holding Tesla stock delivers SpaceX upside through the eventual merger exchange ratio, potentially at more favorable terms than buying at IPO valuation.\n\nIf a Tesla-SpaceX merger is structured for Tesla shareholders, the exchange ratio becomes the critical variable. A holder betting on that outcome is wagering that (a) the merger closes and (b) the terms are favorable enough that a Tesla position outperforms a direct SpaceX IPO investment. The June 12 IPO date created the public market reference point that any formal merger negotiation would anchor to.\n\nThe same day saw multiple merger-adjacent signals: SpaceX's IPO gave both companies live public market valuations for the first time, making any hypothetical transaction ratios more calculable. The concentration of these catalysts appears to have been the basis for Merz's decision.\n\nFor Tesla shareholders, the Merz report is a practical endorsement of the 'hold Tesla for merger optionality' thesis. It does not confirm the merger will happen, but it shows that at least one institutional holder has priced in enough merger probability to forgo SpaceX IPO participation entirely.\n\nThe key risk in this strategy: if the merger does not proceed on favorable terms — or does not happen at all — Merz's bet forgoes the SpaceX IPO upside. Investors should treat the merger thesis as a possible scenario, not a certainty, and weigh it against the standalone bull case for Tesla.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-12/tesla-holder-merz-sits-out-spacex-ipo-in-bet-on-musk-merger-bid",
-      "sentiment": "bull",
-      "hot": 7
     }
   ],
-  "asOf": "2026-06-21 05:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-21 07:00 KST 자동 갱신 · 최신순"
 }
