@@ -1,10 +1,62 @@
 {
-  "asOf": "2026-06-21 01:05 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-21 03:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "41m ago",
+      "pubDate": "2026-06-21T02:19:49.000Z",
+      "title": "FSD Supervised is the only system that enables your own car to drive you from door to door",
+      "body": "FSD Supervised is the only system that enables your own car to drive you from door to door https://t.co/eSwBHKjrYp",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/Tesla/status/2068519225623466074"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "53m ago",
+      "pubDate": "2026-06-21T02:07:50.000Z",
+      "title": "New Manolo Market Supercharger: San Diego, CA - Coronado Avenue (20 stalls)",
+      "body": "New Manolo Market Supercharger: San Diego, CA - Coronado Avenue (20 stalls) https://t.co/HdRVB1dQVv https://t.co/ulzbTGrKY1",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2068516209017212937"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-21T01:47:23.000Z",
+      "title": "Tesla driver says it was on Autopilot before fatal Texas home crash",
+      "body": "A driver told Harris County investigators that his Tesla was on Autopilot before it left a residential road in Katy, Texas, crashed through the brick wall of a home, and killed a 76-year-old woman inside. The crash happe…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-21T01:12:17.000Z",
+      "title": "Preventing sideswipes",
+      "body": "Preventing sideswipes https://t.co/Jemqy68JJe",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/Tesla/status/2068502229993299985"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-21T01:02:38.000Z",
       "title": "BREAKING: 𝕏 has reached the #1 spot in the News category on Germany's App Store 🇩🇪 In an era where information mov…",
       "body": "BREAKING: 𝕏 has reached the #1 spot in the News category on Germany's App Store 🇩🇪 In an era where information moves faster than ever, millions are choosing 𝕏 to follow breaking news as it happens. From politics and …",
@@ -17,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-21T00:53:47.000Z",
       "title": "🚨 We took an UNSUPERVISED Tesla Robotaxi with zero driver… and things escalated FAST 😂 Did we actually break it?! C…",
       "body": "🚨 We took an UNSUPERVISED Tesla Robotaxi with zero driver… and things escalated FAST 😂 Did we actually break it?! Can't believe how far Tesla has come to make unsupervised Teslas. @BeardedTesla @JoshWest247 https://t.c…",
@@ -30,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-21T00:44:25.000Z",
       "title": "To all the dads who celebrate.",
       "body": "To all the dads who celebrate. https://t.co/gqO2oc0yNF",
@@ -41,9 +93,22 @@
       "href": "https://x.com/yunta_tsai/status/2068495219658756275"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-21T00:43:22.000Z",
+      "title": "Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets",
+      "body": "Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "33m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-21T00:32:46.000Z",
       "title": "Thanks Matic! ❤️",
       "body": "Thanks Matic! ❤️ https://t.co/mPCMY5KnAi",
@@ -56,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-21T00:03:50.000Z",
       "title": "Elon Musk on the origins of OpenAI: \"I'm the reason OpenAI exists.\" \"I came up with the name. The name OpenAI refers …",
       "body": "Elon Musk on the origins of OpenAI: \"I'm the reason OpenAI exists.\" \"I came up with the name. The name OpenAI refers to open source… The intent was - what was the opposite of Google? It would be an open source non-profit…",
@@ -69,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-20T22:00:30.000Z",
       "title": "New Tesla Supercharger: Percival, IA (8 stalls)",
       "body": "New Tesla Supercharger: Percival, IA (8 stalls) https://t.co/atzJy6bZjw https://t.co/HAgujIuy76",
@@ -82,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-20T21:48:29.000Z",
       "title": "Thank you to all the members who came out today @eightsleep is changing the game for sleeping. I love Pod 5 and I was…",
       "body": "Thank you to all the members who came out today @eightsleep is changing the game for sleeping. I love Pod 5 and I was stoked to share this with our community. https://t.co/yBeBFCW5i9",
@@ -93,22 +158,9 @@
       "href": "https://x.com/teslaownersSV/status/2068450942081798632"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
-      "pubDate": "2026-06-20T21:08:16.000Z",
-      "title": "Another one for Jeremy. Scuba at the Golden Gate Bridge on my Cybertruck. Remote control truck. Smart Summon is insane.",
-      "body": "Another one for Jeremy. Scuba at the Golden Gate Bridge on my Cybertruck. Remote control truck. Smart Summon is insane. https://t.co/SMRINFvaCi https://t.co/JV80iHcfAz",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2068440820903186673"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-20T20:27:12.000Z",
       "title": "Amazing abundance for all!",
       "body": "Amazing abundance for all! https://t.co/oxkeZBwkGk",
@@ -119,22 +171,9 @@
       "href": "https://x.com/elonmusk/status/2068430489535271081"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
-      "pubDate": "2026-06-20T18:16:37.000Z",
-      "title": "Intelligence is to discover the true boundary of Shannon encoding, given the precondition of P(x), where P(x) is set …",
-      "body": "Intelligence is to discover the true boundary of Shannon encoding, given the precondition of P(x), where P(x) is set by the initial prompt. A right prompt sets the condition of seamlessly boundless possibilities that dis…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2068397624420634734"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-20T18:05:22.000Z",
       "title": "TSLA.F",
       "body": "TSLA.F Reuters",
@@ -147,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-20T17:21:21.000Z",
       "title": "Largest Tesla Supercharger in Canada now open ahead of Canada Day travel 🇨🇦: Ajax, ON (44 stalls)",
       "body": "Largest Tesla Supercharger in Canada now open ahead of Canada Day travel 🇨🇦: Ajax, ON (44 stalls) https://t.co/I5QZP0BNM0 https://t.co/QqqJGMQkNW",
@@ -160,33 +199,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-20T17:02:20.000Z",
       "title": "Technology",
-      "body": "Technology Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "body": "Technology Bloomberg",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/technology"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-06-20T16:29:37.000Z",
-      "title": "Space naturally selects the makers since you need makers to create abundance in order to take. Thus, eventually the t…",
-      "body": "Space naturally selects the makers since you need makers to create abundance in order to take. Thus, eventually the takers on Earth would force the makers to go to space while takers would ironically be fighting for the …",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2068370699211915470"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-20T15:49:54.000Z",
       "title": "Artificial Intelligence - Latest AI News and Analysis",
       "body": "Artificial Intelligence - Latest AI News and Analysis WSJ",
@@ -197,52 +223,13 @@
       "href": "https://www.wsj.com/tech/ai"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-20T13:46:20.000Z",
-      "title": "Why walk to your Cybertruck? Have it take you to the destination to get the family.",
-      "body": "Why walk to your Cybertruck? Have it take you to the destination to get the family. https://t.co/k58q8bYHJY",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2068329604910346509"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-06-20T13:02:14.000Z",
-      "title": "New Tesla Supercharger: Marche-en-Famenne, Belgium (12 stalls)",
-      "body": "New Tesla Supercharger: Marche-en-Famenne, Belgium (12 stalls) https://t.co/6CQIP8e6Ra https://t.co/9KTLm0pUS7",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2068318509638312230"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
-      "pubDate": "2026-06-20T01:00:00.000Z",
-      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
-      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1d ago",
       "pubDate": "2026-06-19T16:37:35.000Z",
       "title": "Stocks",
-      "body": "Stocks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "body": "Stocks Bloomberg",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.nytimes.com/2026/06/19/business/energy-environment/tesla-elon-musk-europe.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3d ago",
+      "pubDate": "2026-06-17T16:54:22.000Z",
+      "title": "To avoid backlash, tech giants must share their AI wealth before it’s too late",
+      "body": "To avoid backlash, tech giants must share their AI wealth before it’s too late Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/588ad229-1874-46dc-ad60-87f62b259fd3"
     }
   ]
 }
