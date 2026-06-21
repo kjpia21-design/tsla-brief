@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-21 22:35 UTC · 누적 406건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-21 23:21 UTC · 누적 407건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-06-21T19:32:52.000Z",
+      "title": "테슬라, 텍사스 알링턴에 <em>슈퍼차저 8기</em> 신규 개설",
+      "hotShort": "텍사스 알링턴에 <em>슈퍼차저 8기</em> 신규 개설",
+      "body": "테슬라 충전 공식 계정이 텍사스주 알링턴 웨스트 아브록 블러바드에 8기 규모의 슈퍼차저를 신규 개설했다 — 달라스-포트워스 광역권 EV 충전 거점이 추가됐다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-arlington-tx-2026-06-21",
+      "summary": "텍사스주 알링턴 웨스트 아브록 블러바드에 새 슈퍼차저(8기)가 문을 열었다. 알링턴은 달라스와 포트워스 사이에 위치한 중간 거점 도시로, AT&T 스타디움(미식축구) 등 대형 이벤트 시설이 밀집해 있어 EV 방문자 충전 수요가 높은 지역이다.\n\n테슬라는 6월 들어 미국·유럽 주요 도시에 슈퍼차저를 꾸준히 추가하고 있다. 같은 날 샌디에이고(20기), 덴마크 코펜하겐(20기), 포르투갈 마토시뉴스(20기) 등이 함께 개설됐다.\n\n슈퍼차저 네트워크는 NACS 채택 이후 비테슬라 EV에도 개방돼 충전 수익 다변화에 기여하고 있으며, 텍사스 내 충전 인프라 강화는 기가텍사스 생산 확대와 맞물려 지역 EV 보급 가속에도 긍정적이다.",
+      "title_en": "Tesla opens new <em>8-stall Supercharger</em> in Arlington, Texas",
+      "hotShort_en": "Arlington TX: new <em>8-stall Supercharger</em> now open",
+      "body_en": "Tesla Charging confirmed the opening of a new 8-stall Supercharger at West Arbrook Boulevard in Arlington, Texas — adding a fast-charging hub in the Dallas–Fort Worth metro area, home to Giga Texas.",
+      "summary_en": "Tesla's official Charging account confirmed a new 8-stall Supercharger station opened at West Arbrook Boulevard in Arlington, Texas. The location sits between Dallas and Fort Worth, near major event venues including AT&T Stadium — making it a practical charging stop for EV drivers visiting the metro area.\n\nThe Arlington opening is part of a broader June expansion, with Tesla simultaneously adding locations in San Diego (20 stalls), Copenhagen, Denmark (20 stalls), and Matosinhos, Portugal (20 stalls) — reflecting coordinated global infrastructure growth.\n\nWith the North America Charging Standard (NACS) now widely adopted, Tesla Superchargers serve an expanding pool of non-Tesla EVs, adding a charging revenue stream beyond the Tesla fleet. Texas is also home to Giga Texas in Austin, making the broader region strategically important for Tesla's manufacturing and infrastructure footprint.",
+      "href": "https://x.com/TeslaCharging/status/2068779203294793888",
+      "sentiment": "bull",
+      "hot": 2
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
