@@ -3,6 +3,26 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-21T01:47:23.000Z",
+      "title": "테슬라 운전자 \"오토파일럿 켜져 있었다\" — 텍사스 가정집 충돌로 <em>76세 여성 사망</em>",
+      "hotShort": "오토파일럿 작동 중 가정집 충돌 — <em>76세 사망</em>",
+      "body": "운전자가 해리스 카운티 조사관에게 충돌 전 오토파일럿이 활성화 상태였다고 진술했다 — 텍사스 케이티 주거 도로에서 이탈한 차량이 인근 가정집 벽돌 벽을 들이받아 실내의 76세 여성이 숨졌다. NHTSA가 오토파일럿 결함 여부 조사에 나설 가능성이 있어, 사이버캡·FSD 상용화를 앞둔 테슬라의 자율주행 규제 환경에 부담이 될 수 있다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-autopilot-texas-katy-fatal-crash-2026-06-21",
+      "summary": "케이티(Katy)는 텍사스주 해리스 카운티에 속한 휴스턴 서부 교외 도시다. 일렉트렉(Electrek) 보도에 따르면 테슬라 차량이 이 지역 주거 도로에서 이탈해 인근 가정집 벽돌 벽을 충돌했으며, 실내에 있던 76세 여성이 사망했다. 운전자는 현장을 조사한 해리스 카운티 담당자에게 충돌 직전 오토파일럿이 켜져 있었다고 진술했다.\n\n테슬라 오토파일럿은 ADAS(첨단 운전자 보조 시스템)로, 운전자가 항상 전방을 주시하고 핸들을 잡을 준비를 해야 한다. 반자율 기능이며 완전 자율주행이 아니다. NHTSA(미국 도로교통안전국)는 그간 오토파일럿 관련 사고를 다수 조사해 왔으며, 이번 사고도 공식 조사 대상에 포함될 수 있다.\n\n사고 원인은 아직 조사 중이다. 운전자의 진술만으로 시스템 결함 여부가 확인되지 않으며, 운전자 부주의·도로 여건·차량 설정 등 복합 요인이 검토될 것으로 보인다. 그러나 인명 피해가 수반된 만큼 규제 당국의 개입 가능성을 배제할 수 없다.\n\n주주 관점에서 이번 사고의 타이밍이 주목된다. 테슬라는 사이버캡 로보택시 상용화와 FSD 완전 자율 전환을 앞두고 있으며, 오토파일럿 관련 인명 사고 보도는 규제 심사 강도를 높이는 배경이 될 수 있다. 자율주행 신뢰도를 둘러싼 공론화가 다시 불거질 가능성이 있다.",
+      "title_en": "Driver claims Autopilot was on before <em>fatal Texas home crash</em>",
+      "hotShort_en": "Fatal Texas crash, <em>Autopilot</em> claimed",
+      "body_en": "A driver told Harris County investigators that his Tesla's Autopilot was active before the vehicle left a residential road in Katy, Texas, crashed through a home's brick wall, and killed a 76-year-old woman inside — a fatal incident that could invite NHTSA scrutiny and add regulatory pressure at a critical moment for Tesla's autonomous driving rollout.",
+      "summary_en": "The crash occurred in Katy, a suburb of Houston in Harris County, Texas. According to Electrek, a Tesla vehicle veered off a residential road, struck the brick wall of a nearby home, and killed a 76-year-old woman inside. The driver told Harris County investigators that Autopilot was active at the time of the crash.\n\nTesla Autopilot is an advanced driver assistance system (ADAS), not a fully autonomous feature — drivers are required to remain attentive and ready to take control at all times. NHTSA has previously opened multiple investigations into Autopilot-related crashes, and this incident may trigger similar scrutiny.\n\nThe cause of the crash is under investigation. The driver's statement does not by itself confirm a system defect; investigators will consider driver attentiveness, road conditions, and vehicle settings. However, a confirmed fatality makes regulatory involvement possible.\n\nFor Tesla shareholders, the timing adds complexity to an otherwise accelerating autonomous driving narrative. Tesla is approaching the commercial launch of the Cybercab robotaxi and pushing FSD toward unsupervised operation. Autopilot fatality reports historically draw NHTSA attention and can intensify regulatory oversight of Tesla's broader autonomous vehicle program — a risk factor worth monitoring as the Cybercab rollout nears.",
+      "href": "https://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/",
+      "sentiment": "bear",
+      "hot": 7
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "30m ago",
       "pubDate": "2026-06-20T20:53:05.000Z",
       "title": "사이버캡 EPA 신청서에 <em>418마일 항속거리</em> — 소형 배터리로 이례적 효율",
@@ -2027,27 +2047,7 @@
       ],
       "sentiment": "neutral",
       "hot": 9
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "30m ago",
-      "pubDate": "2026-06-12T20:08:34.000Z",
-      "title": "덴마크서 FSD V14 <em>무료 체험 정식 개시</em> — 유럽 자율주행 확산 신호",
-      "hotShort": "덴마크서 FSD V14 <em>무료 체험 시작</em>, 유럽 확대",
-      "body": "테슬라가 덴마크에서 FSD V14 무료 체험을 정식 개시했다 — 스칸디나비아 지역 테슬라 오너라면 별도 구독 없이 FSD V14를 직접 체험할 수 있게 됐다. 유럽에서의 FSD 단계적 확대는 글로벌 자율주행 상용화 로드맵의 핵심 진전이다.",
-      "sourceName": "BASENOR",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-denmark-free-trial-2026-06-12",
-      "summary": "스칸디나비아의 테슬라 전문 액세서리·뉴스 매체 바세노르(BASENOR)에 따르면, FSD(완전 자율주행) V14 무료 체험이 현재 덴마크에서 정식 시작됐다. 기사에는 무료 체험을 활성화하는 구체적 방법도 안내돼 있다.\n\nFSD의 유럽 진출은 각국의 교통법규·인증 절차 때문에 미국보다 늦게 이뤄져왔다. 덴마크는 유럽에서 전기차 보급률이 높은 선도 시장 중 하나로, 테슬라 사용자층이 탄탄하다. 이 지역에서 FSD 무료 체험이 시작된 것은 노르웨이·스웨덴 등 인근 스칸디나비아 국가로의 확대를 예고하는 신호일 수 있다.\n\n무료 체험 방식은 잠재 구독자가 FSD를 직접 경험하게 하는 보급 전략으로, 테슬라가 국제 시장에서 FSD 채택을 높이기 위해 활용해온 방식이다. V14는 신경망 처리 능력과 주행 부드러움이 개선된 최신 주요 버전이다.\n\n테슬라는 현재 북미 외 지역에서 FSD를 단계적으로 확대하고 있다. 유럽 주요국에서의 FSD 확대는 글로벌 로보택시 서비스 출시를 위한 인프라 기반을 다지는 과정의 일환이다.\n\n이번 정보의 출처는 바세노르 블로그로, 테슬라 공식 채널의 확인이 필요할 수 있다. 덴마크 오너라면 테슬라 앱 소프트웨어 업데이트 알림을 통해 체험 가능 여부를 직접 확인할 것을 권한다.",
-      "title_en": "Tesla FSD V14 <em>free trial now live in Denmark</em>",
-      "hotShort_en": "FSD V14 <em>free trials go live in Denmark</em>",
-      "body_en": "Tesla has launched FSD V14 free trials for owners in Denmark, giving Scandinavian Tesla drivers access to the full self-driving experience without a subscription. The activation guide is now available. The rollout signals continued progress in Tesla's effort to expand FSD beyond North America into European markets.",
-      "summary_en": "According to BASENOR, a Scandinavian Tesla accessories and news outlet, FSD V14 free trials are now active in Denmark. The article includes step-by-step instructions for owners on how to enable the trial — indicating Tesla has opened the feature for evaluation without a paid subscription.\n\nDenmark is one of Europe's highest EV adoption markets, with a sizable Tesla owner base. Activating free FSD trials there suggests Scandinavian markets — including Norway and Sweden — may be on a similar near-term rollout path.\n\nFSD's European expansion has historically lagged the US due to country-specific type-approval requirements and traffic law compatibility reviews. A free trial phase is Tesla's standard playbook for seeding familiarity before transitioning users to paid subscriptions.\n\nFSD V14 brings improvements to Tesla's neural network processing and smoother navigation in complex driving scenarios. It represents the latest major FSD software release, extending the same stack deployed in North America to international markets.\n\nThis report is sourced from BASENOR's blog rather than Tesla's official channels. Denmark-based owners should verify trial availability directly through the Tesla app or the Tesla Denmark website.",
-      "href": "https://www.basenor.com/blogs/news/tesla-update-v14-5",
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-06-21 07:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-21 12:00 KST 자동 갱신 · 최신순"
 }
