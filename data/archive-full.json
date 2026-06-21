@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-21 16:45 UTC · 누적 405건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-21 17:46 UTC · 누적 406건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "48m ago",
+      "pubDate": "2026-06-21T15:57:45.000Z",
+      "title": "테슬라 세미, <em>검증 장비</em> 탑재 포착 — 출시 임박 신호",
+      "hotShort": "테슬라 세미, <em>검증 장비</em> 탑재 포착 — 출시 임박",
+      "body": "테슬라라티가 테슬라 세미(Tesla Semi)가 '지상 진실 검증 장비(ground truth validation equipment)'를 탑재한 채 도로에서 포착됐다고 보도했다 — 이 장비는 양산 직전 센서 정확도를 최종 확인하는 단계에서 사용되며, 상용 출시가 임박했다는 신호로 업계는 해석한다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-tesla-semi-ground-truth-validation-2026-06-21",
+      "summary": "테슬라라티에 따르면 테슬라 세미(Tesla Semi) 차량이 '지상 진실 검증 장비(ground truth validation equipment)'를 장착한 채 도로에서 포착됐다. 자동차 업계에서 '지상 진실 검증'이란 외부 고정밀 계측 장비를 차량에 탑재해, 차량 자체 센서 시스템의 정확도가 실측값과 일치하는지 최종 확인하는 과정이다. 이 단계는 일반적으로 양산 전 마지막 엔지니어링 승인 단계에서 수행된다.\n\n테슬라 세미는 2017년 공개 이후 여러 차례 출시가 지연됐고, 2022년 말 PepsiCo 등 일부 기업 고객에게 초기 배달이 시작된 뒤 양산 규모는 제한적으로 이어져왔다. 이번 검증 장비 탑재 목격은 테슬라가 세미의 본격 상용 출시를 향한 최종 기술 검증 단계에 진입했음을 시사한다.\n\n테슬라 세미는 대형 전기 화물트럭으로, 오토파일럿 기능과 고용량 배터리 시스템을 갖추고 있으며 디젤 트럭 대체를 목표로 한 상업 물류 시장을 겨냥한다. 세미의 양산 규모 확대는 테슬라의 수익원을 승용차 이외 부문으로 다변화하는 중장기 전환점이 될 수 있다.",
+      "title_en": "Tesla Semi spotted with <em>ground truth validation gear</em> — launch looms",
+      "hotShort_en": "Tesla Semi: <em>validation gear</em> spotted, launch near",
+      "body_en": "Teslarati reports a Tesla Semi was spotted equipped with ground truth validation equipment — precision calibration tools used to verify sensor accuracy in the final pre-production engineering sign-off phase, a strong signal that a broader commercial Semi launch is approaching.",
+      "summary_en": "Teslarati reports that a Tesla Semi was spotted with ground truth validation equipment fitted to the vehicle. In automotive engineering, ground truth validation refers to the use of external high-precision measurement tools to verify that a vehicle's onboard sensors accurately reflect real-world conditions. This stage typically occurs during the final engineering validation phase before production is cleared to ramp.\n\nThe Tesla Semi was unveiled in 2017 and saw limited initial deliveries to fleet customers including PepsiCo beginning in late 2022. Production has remained constrained relative to earlier projections. Ground truth validation sightings are a recognized industry indicator that a vehicle program is progressing toward production confirmation.\n\nThe Semi targets the heavy-duty commercial trucking segment, bringing an electric powertrain and Autopilot integration to a market long dominated by diesel. A production ramp would extend Tesla beyond passenger vehicles and energy storage, adding a significant commercial transportation revenue stream.\n\nFor Tesla investors, production signal from the Semi is a welcome development after repeated delays. Validation testing progression adds credibility to a potential ramp — though official production milestones will carry more weight than sightings as confirmation of the launch timeline.",
+      "href": "https://www.teslarati.com/tesla-semi-spotted-ground-truth-validation-equipment-launch-looms/",
+      "sentiment": "bull",
+      "hot": 7
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
