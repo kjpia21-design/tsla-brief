@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-21 10:55 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-21 12:16 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "37m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-21T10:18:00.000Z",
       "title": "Tesla (TSLA) Stock Forecast: 2031 Price Predictions Range from $74 to $1,100+",
       "body": "Tesla (TSLA) Stock Forecast: 2031 Price Predictions Range from $74 to $1,100+ parameter.io",
@@ -17,7 +17,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "40m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-21T10:15:02.000Z",
       "title": "Tesla (TSLA) Stock: 2031 Price Predictions Range From $74 to $1,100+",
       "body": "Tesla (TSLA) Stock: 2031 Price Predictions Range From $74 to $1,100+ MoneyCheck",
@@ -30,7 +30,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "51m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-21T10:03:55.000Z",
       "title": "Where Will Tesla (TSLA) Stock Be in 5 Years?",
       "body": "Where Will Tesla (TSLA) Stock Be in 5 Years? CoinCentral",
@@ -41,9 +41,22 @@
       "href": "https://coincentral.com/where-will-tesla-tsla-stock-be-in-5-years/"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-21T10:00:00.000Z",
+      "title": "WSJ's Take On the Week",
+      "body": "WSJ's Take On the Week WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/podcasts/take-on-the-week"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-21T08:54:03.000Z",
       "title": "New Tesla Supercharger: Copenhagen, Denmark (20 stalls)",
       "body": "New Tesla Supercharger: Copenhagen, Denmark (20 stalls) https://t.co/Hx4MoXvgYZ https://t.co/YmYl9IEIQ7",
@@ -54,22 +67,9 @@
       "href": "https://x.com/TeslaCharging/status/2068618437048619102"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-21T06:13:10.000Z",
-      "title": "Wild times ahead!",
-      "body": "Wild times ahead! https://t.co/kmYjFpaJ3F",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2068577952875377062"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-21T05:23:25.000Z",
       "title": "New Tesla Supercharger: Matosinhos, Portugal (20 stalls)",
       "body": "New Tesla Supercharger: Matosinhos, Portugal (20 stalls) https://t.co/ctsHIlLxuR https://t.co/sH6HZzRLBd",
@@ -82,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-21T04:00:52.000Z",
       "title": "SpaceX handed lowest possible ESG rating by MSCI",
       "body": "SpaceX handed lowest possible ESG rating by MSCI Financial Times",
@@ -95,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-21T04:00:52.000Z",
       "title": "‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy",
       "body": "‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy Financial Times",
@@ -108,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-21T04:00:52.000Z",
       "title": "Workers are emerging as the next big AI logjam",
       "body": "Workers are emerging as the next big AI logjam Financial Times",
@@ -121,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-21T03:56:44.000Z",
       "title": "If you are visiting the US for the World Cup ⚽️, please make sure to rent a Tesla and experience Full Self-Driving.",
       "body": "If you are visiting the US for the World Cup ⚽️, please make sure to rent a Tesla and experience Full Self-Driving.",
@@ -134,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-21T02:50:56.000Z",
       "title": "Technology",
       "body": "Technology WSJ",
@@ -147,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-21T02:19:49.000Z",
       "title": "FSD Supervised is the only system that enables your own car to drive you from door to door",
       "body": "FSD Supervised is the only system that enables your own car to drive you from door to door https://t.co/eSwBHKjrYp",
@@ -160,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-21T02:07:50.000Z",
       "title": "New Manolo Market Supercharger: San Diego, CA - Coronado Avenue (20 stalls)",
       "body": "New Manolo Market Supercharger: San Diego, CA - Coronado Avenue (20 stalls) https://t.co/HdRVB1dQVv https://t.co/ulzbTGrKY1",
@@ -173,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-21T01:12:17.000Z",
       "title": "Preventing sideswipes",
       "body": "Preventing sideswipes https://t.co/Jemqy68JJe",
@@ -186,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-21T00:44:25.000Z",
       "title": "To all the dads who celebrate.",
       "body": "To all the dads who celebrate. https://t.co/gqO2oc0yNF",
@@ -199,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-21T00:32:46.000Z",
       "title": "Thanks Matic! ❤️",
       "body": "Thanks Matic! ❤️ https://t.co/mPCMY5KnAi",
@@ -210,22 +210,9 @@
       "href": "https://x.com/yunta_tsai/status/2068492286619709483"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-20T23:49:02.000Z",
-      "title": "Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets",
-      "body": "Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-20T18:16:37.000Z",
       "title": "Intelligence is to discover the true boundary of Shannon encoding, given the precondition of P(x), where P(x) is set …",
       "body": "Intelligence is to discover the true boundary of Shannon encoding, given the precondition of P(x), where P(x) is set by the initial prompt. A right prompt sets the condition of seamlessly boundless possibilities that dis…",
@@ -238,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-20T18:05:22.000Z",
       "title": "TSLA.F",
       "body": "TSLA.F Reuters",
@@ -249,13 +236,26 @@
       "href": "https://www.reuters.com/markets/companies/TSLA.F/key-metrics/margins/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1d ago",
+      "pubDate": "2026-06-20T04:01:39.000Z",
+      "title": "HTSI editor’s letter: summer’s great escapes...",
+      "body": "HTSI editor’s letter: summer’s great escapes... Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/13293cd7-c6e9-4be9-80f2-175bbe671b79"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2d ago",
       "pubDate": "2026-06-19T16:37:35.000Z",
       "title": "Stocks",
-      "body": "Stocks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "body": "Stocks Bloomberg",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
