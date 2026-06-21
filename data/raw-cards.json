@@ -1,11 +1,63 @@
 {
-  "asOf": "2026-06-21 05:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-21 07:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4m ago",
+      "pubDate": "2026-06-21T06:56:04.000Z",
+      "title": "Tesla $1.6T Bet on Self-Driving Just Hit a Wall in Europe. Here’s Where the Stock Could Go",
+      "body": "Tesla $1.6T Bet on Self-Driving Just Hit a Wall in Europe. Here’s Where the Stock Could Go TIKR.com",
+      "sourceName": "TIKR.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tikr.com/blog/tesla-1-6t-bet-on-self-driving-just-hit-a-wall-in-europe-heres-where-the-stock-could-go"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-21T04:00:52.000Z",
+      "time": "47m ago",
+      "pubDate": "2026-06-21T06:13:10.000Z",
+      "title": "Wild times ahead!",
+      "body": "Wild times ahead! https://t.co/kmYjFpaJ3F",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/elonmusk/status/2068577952875377062"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-21T05:23:25.000Z",
+      "title": "New Tesla Supercharger: Matosinhos, Portugal (20 stalls)",
+      "body": "New Tesla Supercharger: Matosinhos, Portugal (20 stalls) https://t.co/ctsHIlLxuR https://t.co/sH6HZzRLBd",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2068565429732421998"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-06-21T04:00:17.000Z",
+      "title": "Workers are emerging as the next big AI logjam",
+      "body": "Workers are emerging as the next big AI logjam Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/8fcd0d88-cee9-43e0-9af8-addd250edd4c"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-21T04:00:17.000Z",
       "title": "SpaceX handed lowest possible ESG rating by MSCI",
       "body": "SpaceX handed lowest possible ESG rating by MSCI Financial Times",
       "sourceName": "Financial Times",
@@ -17,21 +69,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-21T04:00:52.000Z",
-      "title": "“You’re dead” — Europe’s SpaceX fights back against Musk prophecy",
-      "body": "“You’re dead” — Europe’s SpaceX fights back against Musk prophecy Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/40f95cf8-3a94-4a57-a02c-f67023b9447f"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-21T04:00:52.000Z",
+      "time": "3h ago",
+      "pubDate": "2026-06-21T04:00:17.000Z",
       "title": "Workers are emerging as the next big AI logjam",
       "body": "Workers are emerging as the next big AI logjam Financial Times",
       "sourceName": "Financial Times",
@@ -41,9 +80,22 @@
       "href": "https://www.ft.com/content/8fcd0d88-cee9-43e0-9af8-addd250edd4c"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-21T04:00:07.000Z",
+      "title": "‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy",
+      "body": "‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/40f95cf8-3a94-4a57-a02c-f67023b9447f"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-21T03:56:44.000Z",
       "title": "If you are visiting the US for the World Cup ⚽️, please make sure to rent a Tesla and experience Full Self-Driving.",
       "body": "If you are visiting the US for the World Cup ⚽️, please make sure to rent a Tesla and experience Full Self-Driving.",
@@ -54,22 +106,9 @@
       "href": "https://x.com/yunta_tsai/status/2068543616465977794"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-06-21T03:27:05.000Z",
-      "title": "Cybertruck is a piece of junk. I can’t believe Tesla would charge me so much money. @tesla @cybertruck",
-      "body": "Cybertruck is a piece of junk. I can’t believe Tesla would charge me so much money. @tesla @cybertruck https://t.co/dSKmvjpK4a",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2068536155868721500"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-21T02:50:56.000Z",
       "title": "Technology",
       "body": "Technology WSJ",
@@ -82,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-21T02:19:49.000Z",
       "title": "FSD Supervised is the only system that enables your own car to drive you from door to door",
       "body": "FSD Supervised is the only system that enables your own car to drive you from door to door https://t.co/eSwBHKjrYp",
@@ -95,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-21T02:07:50.000Z",
       "title": "New Manolo Market Supercharger: San Diego, CA - Coronado Avenue (20 stalls)",
       "body": "New Manolo Market Supercharger: San Diego, CA - Coronado Avenue (20 stalls) https://t.co/HdRVB1dQVv https://t.co/ulzbTGrKY1",
@@ -106,9 +145,22 @@
       "href": "https://x.com/TeslaCharging/status/2068516209017212937"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "5h ago",
+      "pubDate": "2026-06-21T01:47:23.000Z",
+      "title": "Tesla driver says it was on Autopilot before fatal Texas home crash",
+      "body": "A driver told Harris County investigators that his Tesla was on Autopilot before it left a residential road in Katy, Texas, crashed through the brick wall of a home, and killed a 76-year-old woman inside. The crash happe…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-21T01:12:17.000Z",
       "title": "Preventing sideswipes",
       "body": "Preventing sideswipes https://t.co/Jemqy68JJe",
@@ -121,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-21T00:44:25.000Z",
       "title": "To all the dads who celebrate.",
       "body": "To all the dads who celebrate. https://t.co/gqO2oc0yNF",
@@ -134,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-21T00:32:46.000Z",
       "title": "Thanks Matic! ❤️",
       "body": "Thanks Matic! ❤️ https://t.co/mPCMY5KnAi",
@@ -147,20 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-06-20T23:41:46.000Z",
-      "title": "Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets",
-      "body": "Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-20T22:00:30.000Z",
       "title": "New Tesla Supercharger: Percival, IA (8 stalls)",
       "body": "New Tesla Supercharger: Percival, IA (8 stalls) https://t.co/atzJy6bZjw https://t.co/HAgujIuy76",
@@ -173,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-20T21:48:29.000Z",
       "title": "Thank you to all the members who came out today @eightsleep is changing the game for sleeping. I love Pod 5 and I was…",
       "body": "Thank you to all the members who came out today @eightsleep is changing the game for sleeping. I love Pod 5 and I was stoked to share this with our community. https://t.co/yBeBFCW5i9",
@@ -184,22 +223,9 @@
       "href": "https://x.com/teslaownersSV/status/2068450942081798632"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
-      "pubDate": "2026-06-20T18:16:37.000Z",
-      "title": "Intelligence is to discover the true boundary of Shannon encoding, given the precondition of P(x), where P(x) is set …",
-      "body": "Intelligence is to discover the true boundary of Shannon encoding, given the precondition of P(x), where P(x) is set by the initial prompt. A right prompt sets the condition of seamlessly boundless possibilities that dis…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2068397624420634734"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-20T18:05:22.000Z",
       "title": "TSLA.F",
       "body": "TSLA.F Reuters",
@@ -208,19 +234,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/markets/companies/TSLA.F/key-metrics/margins/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
-      "pubDate": "2026-06-20T17:02:20.000Z",
-      "title": "Technology",
-      "body": "Technology Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/technology"
     },
     {
       "category": "stock",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/588ad229-1874-46dc-ad60-87f62b259fd3"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4d ago",
-      "pubDate": "2026-06-17T12:25:53.000Z",
-      "title": "Here are Wednesday's biggest analyst calls: Nvidia, Tesla, Netflix, Broadcom, Micron, Lyft, AMD, Figma & more",
-      "body": "Here are Wednesday's biggest analyst calls: Nvidia, Tesla, Netflix, Broadcom, Micron, Lyft, AMD, Figma & more CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/17/wednesdays-biggest-analyst-calls-include-nvidia-tesla-micron.html"
     }
   ]
 }
