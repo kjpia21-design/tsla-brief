@@ -1,10 +1,62 @@
 {
-  "asOf": "2026-06-22 08:25 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-22 10:25 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "13m ago",
+      "pubDate": "2026-06-22T10:12:46.000Z",
+      "title": "1 Year Anniversary of @Tesla @Robotaxi Launch ... Reliving that 1st day! One year ago a small group or people includi…",
+      "body": "1 Year Anniversary of @Tesla @Robotaxi Launch ... Reliving that 1st day! One year ago a small group or people including me received an invitation from @Tesla_AI to be among the first to participate in the launch of the @…",
+      "sourceName": "Joe Tegtmeyer (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/JoeTegtmeyer/status/2069000637396738369"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3m ago",
+      "time": "16m ago",
+      "pubDate": "2026-06-22T10:09:43.000Z",
+      "title": "This upstart launched 35 ETFs in a day - and doesn't plan to slow down",
+      "body": "This upstart launched 35 ETFs in a day - and doesn't plan to slow down Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/transactional/this-upstart-launched-35-etfs-day-doesnt-plan-slow-down-2026-06-22/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "23m ago",
+      "pubDate": "2026-06-22T10:02:17.000Z",
+      "title": "Why is Tesla stock sliding today?",
+      "body": "Why is Tesla stock sliding today? Investing.com",
+      "sourceName": "Investing.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-sliding-today-93CH-4751964"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "29m ago",
+      "pubDate": "2026-06-22T09:56:00.000Z",
+      "title": "Intel, Micron, SpaceX, Apogee Therapeutics, and More Stocks That Explain Today’s Market",
+      "body": "Intel, Micron, SpaceX, Apogee Therapeutics, and More Stocks That Explain Today’s Market Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/stock-movers-f45db408"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
       "pubDate": "2026-06-22T08:22:00.000Z",
       "title": "ACHR Stock Slips Premarket: Archer Aviation CEO Reportedly Pitches Tesla-Like Future For Air Taxis",
       "body": "ACHR Stock Slips Premarket: Archer Aviation CEO Reportedly Pitches Tesla-Like Future For Air Taxis Stocktwits",
@@ -15,9 +67,22 @@
       "href": "https://stocktwits.com/news-articles/markets/equity/achr-stock-slips-premarket-archer-aviation-ceo-tesla-like-future-for-air-taxis/cZKtYeHR7BO"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-22T07:54:09.000Z",
+      "title": "Dan Ives Says He Would Be 'Shocked' If SPCX, TSLA Don't Merge Within A Year – Adds Tesla Shareholders Could Back Deal If Valuation Is Right",
+      "body": "Dan Ives Says He Would Be 'Shocked' If SPCX, TSLA Don't Merge Within A Year – Adds Tesla Shareholders Could Back Deal If Valuation Is Right Stocktwits",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://stocktwits.com/news-articles/markets/equity/dan-ives-shocked-if-spacex-tesla-dont-merge-over-next-year/cZKfhtbR7dt"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "58m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-22T07:27:26.000Z",
       "title": "I was watching Witch Hat Atelier, where witches keep magic secret not because it depends on bloodlines but to prevent…",
       "body": "I was watching Witch Hat Atelier, where witches keep magic secret not because it depends on bloodlines but to prevent commoners from accessing it in the name of safety. In fact, everyone could perform magic if they knew …",
@@ -30,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-22T07:24:39.000Z",
       "title": "Living with FSD Supervised is “like going from black and white to color TV”",
       "body": "Living with FSD Supervised is “like going from black and white to color TV” https://t.co/TjbDkPgSsG",
@@ -41,22 +106,9 @@
       "href": "https://x.com/Tesla/status/2068958329452568644"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-22T06:50:33.000Z",
-      "title": "SpaceX is launching a secret spacecraft that could change how things are made in space",
-      "body": "SpaceX's secret disk-shaped Starfall capsule is targeting a market no reentry vehicle has cracked. The post SpaceX is launching a secret spacecraft that could change how things are made in space appeared first on TESLARA…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/spacex-starfall-spacecraft-demo-launch/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-22T06:22:00.000Z",
       "title": "An AI company that ships real products would actually have less time for demos because all the engineers are busy fix…",
       "body": "An AI company that ships real products would actually have less time for demos because all the engineers are busy fixing customer bugs.",
@@ -69,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-22T06:08:00.000Z",
       "title": "High oil prices drive a surge in Chinese electric vehicle sales, but charging networks lag behind",
       "body": "High oil prices drive a surge in Chinese electric vehicle sales, but charging networks lag behind AP News",
@@ -82,7 +134,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
+      "pubDate": "2026-06-22T06:08:00.000Z",
+      "title": "High oil prices drive a surge in Chinese electric vehicle sales, but charging networks lag behind",
+      "body": "High oil prices drive a surge in Chinese electric vehicle sales, but charging networks lag behind AP News",
+      "sourceName": "AP News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://apnews.com/article/iran-energy-china-ev-5ec89b82365893a341acc59942ce6f35"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
       "pubDate": "2026-06-22T05:53:47.000Z",
       "title": "Grok Composer 2.5 Fast was doing some good work. I asked it to rewire a pipeline that needed to cross-reference three…",
       "body": "Grok Composer 2.5 Fast was doing some good work. I asked it to rewire a pipeline that needed to cross-reference three repositories in different places. It actually did it faster than other frontier models, which were sti…",
@@ -95,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-22T04:38:00.000Z",
       "title": "SK Hynix overtakes Samsung to become South Korea's most valuable company",
       "body": "SK Hynix overtakes Samsung to become South Korea's most valuable company Reuters",
@@ -106,22 +171,9 @@
       "href": "https://www.reuters.com/world/asia-pacific/sk-hynix-overtakes-samsung-become-koreas-most-valuable-company-2026-06-22/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-22T04:25:26.000Z",
-      "title": "Technology",
-      "body": "Technology Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/technology"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-22T03:09:20.000Z",
       "title": "Silicon Valley, like Terminus, should be represented by a maker. Right now it feels like it’s being run by encycloped…",
       "body": "Silicon Valley, like Terminus, should be represented by a maker. Right now it feels like it’s being run by encyclopedia commissioners.",
@@ -134,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-22T02:40:37.000Z",
       "title": "New Welch's Supercharger: Caledonia, WI (8 stalls)  Learn more about Supercharger for Business:",
       "body": "New Welch's Supercharger: Caledonia, WI (8 stalls) https://t.co/UlV7eDHDRo Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/HO2TgjgmF5",
@@ -147,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-22T02:33:44.000Z",
       "title": "“Full access” 😂",
       "body": "“Full access” 😂 https://t.co/UkEtW5Q9j4",
@@ -158,48 +210,35 @@
       "href": "https://x.com/elonmusk/status/2068885116064080018"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
-      "pubDate": "2026-06-22T00:36:12.000Z",
-      "title": "In some way, building a product is like diffusion. Noisy and scary at first, but with a clear trajectory you gain cla…",
-      "body": "In some way, building a product is like diffusion. Noisy and scary at first, but with a clear trajectory you gain clarity over time. https://t.co/MBn3aDnXQo",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2068855538033819932"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
-      "pubDate": "2026-06-21T23:12:01.000Z",
-      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
-      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
-      "pubDate": "2026-06-21T23:12:01.000Z",
-      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
-      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
+      "time": "12h ago",
+      "pubDate": "2026-06-21T22:42:05.000Z",
+      "title": "Technology",
+      "body": "Technology WSJ",
       "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
+      "href": "https://www.wsj.com/tech"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "19h ago",
+      "pubDate": "2026-06-21T15:42:01.000Z",
+      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
+      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "21h ago",
       "pubDate": "2026-06-21T13:33:34.000Z",
       "title": "No one wants AI data centers on Earth. Do they make sense in space?",
       "body": "No one wants AI data centers on Earth. Do they make sense in space? CNBC",
@@ -221,45 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/markets/companies/TSLA.F/key-metrics/margins/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5d ago",
-      "pubDate": "2026-06-17T16:54:22.000Z",
-      "title": "To avoid backlash, tech giants must share their AI wealth before it’s too late",
-      "body": "To avoid backlash, tech giants must share their AI wealth before it’s too late Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/588ad229-1874-46dc-ad60-87f62b259fd3"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5d ago",
-      "pubDate": "2026-06-17T07:27:00.000Z",
-      "title": "European Auto Shares Fall After BMW Cuts Guidance",
-      "body": "European Auto Shares Fall After BMW Cuts Guidance WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/european-auto-shares-fall-after-bmw-cuts-guidance-004862a3"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6d ago",
-      "pubDate": "2026-06-16T12:47:14.000Z",
-      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "body": "Jim Cramer's top 10 things to watch in the stock market Tuesday CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday-.html"
     }
   ]
 }
