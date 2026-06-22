@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-22 18:15 UTC · 누적 424건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-22 20:10 UTC · 누적 425건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-06-22T17:03:39.000Z",
+      "title": "타타 일렉트로닉스 사이버 침해 — 해커, 애플·테슬라 <em>영업기밀 탈취 주장</em>",
+      "hotShort": "타타 일렉트로닉스 해킹 — <em>테슬라 기밀 탈취</em> 주장",
+      "body": "로이터에 따르면 인도 타타 일렉트로닉스(Tata Electronics)가 사이버 침해를 당해 해커들이 애플·테슬라의 영업기밀을 탈취했다고 주장하고 있다 — 애플·테슬라의 핵심 제조 협력업체에서 발생한 이번 침해는 공급망 지식재산권(IP) 리스크를 현실 앞에 드러낸 사건으로, 테슬라 공급망 보안의 중요성을 재확인시킨다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "product-tata-breach-tesla-secrets-2026-06-22",
+      "summary": "타타 일렉트로닉스는 인도의 대형 복합 기업 타타 그룹의 전자·제조 계열사로, 애플 아이폰 부품 조립과 함께 테슬라 부품 생산을 맡은 핵심 제조 협력사다. 로이터는 이 회사가 사이버 침해를 당했으며, 해커들이 애플·테슬라 관련 영업기밀을 탈취했다고 주장하고 있다고 보도했다.\n\n해커의 주장이지 공식 확인된 사실은 아니다. 타타 일렉트로닉스와 테슬라·애플 어느 쪽도 유출 사실을 공식 인정하거나 입장을 밝히지 않은 상태다. 공급망 사이버 침해에서 실제 피해 규모는 포렌식 조사를 통해서만 파악 가능하며, 해커의 탈취 주장과 실제 접근 범위 사이에는 상당한 격차가 존재하는 경우가 많다.\n\n침해가 사실로 확인될 경우 테슬라에는 두 가지 방향의 리스크가 있다. 첫째, 제조 공정·소재 스펙·부품 설계 등 생산 기밀이 경쟁사 또는 국가 연계 행위자에게 넘어가는 지식재산권 유출 리스크. 둘째, 핵심 공급업체의 보안 역량에 대한 신뢰 훼손으로 공급망 다변화·재편 논의가 빨라질 수 있는 운영 리스크다.\n\n테슬라는 꾸준히 공급망 수직 통합과 현지화를 추진해왔다. 이번 사고는 그 방향성의 전략적 당위성을 재확인시키는 사례가 된다. 타타 일렉트로닉스의 보안 침해가 테슬라의 실제 부품 조달이나 생산 일정에 영향을 미치는지는 현재로선 미확인이다. 추가 조사 결과를 지켜볼 필요가 있다.",
+      "title_en": "Tata Electronics hit by cyberattack — hackers claim <em>Apple and Tesla trade secrets</em> exposed",
+      "hotShort_en": "Tata breach: hackers claim <em>Tesla trade secrets</em> stolen",
+      "body_en": "Reuters reports India's Tata Electronics — a key manufacturing partner to both Apple and Tesla — was hit by a cyberattack in which hackers claim to have obtained trade secrets from both companies, raising supply-chain IP risk at one of Tesla's critical production vendors.",
+      "summary_en": "Tata Electronics is the manufacturing arm of India's Tata Group and a key supplier for both Apple and Tesla, handling iPhone component assembly for Apple and parts production for Tesla. Reuters reports the company was hit by a cyberattack, with hackers claiming to have accessed and obtained trade secrets from both Apple and Tesla.\n\nThe hackers' claim remains unverified. Neither Tata Electronics, Apple, nor Tesla has confirmed the breach or acknowledged any data loss. In supply-chain cyberattacks, the gap between attacker claims and what was actually accessed and exfiltrated is typically established only through forensic investigation — a process that takes weeks to months. Past high-profile supplier breaches have produced a range of outcomes from no meaningful IP loss to significant data theft, and the final answer here is unknown.\n\nIf the breach proves substantive, the implications for Tesla split into two categories. The first is intellectual property exposure: Tesla's manufacturing specifications, materials data, production tooling details, and component designs — the kind of proprietary information a Tier-1 or Tier-2 parts supplier would hold — could have reached unauthorized parties. The second is supply-chain trust: a cybersecurity failure at a major vendor can prompt Tesla to accelerate vendor security audits, diversify its supply base, or shift sensitive production processes in-house.\n\nTesla's broader strategy of supply-chain localization and vertical integration provides some structural insulation from vendor-level cybersecurity incidents. The company has systematically brought critical manufacturing steps under its own roof — a direction this kind of third-party breach reinforces as strategically sound. Whether the Tata incident has any near-term effect on Tesla's parts supply or production timeline is not addressed in the Reuters report and has not been confirmed.",
+      "href": "https://www.reuters.com/business/media-telecom/indias-tata-electronics-hit-by-cyber-breach-claiming-expose-apple-tesla-trade-2026-06-22/",
+      "sentiment": "bear",
+      "hot": 7
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
