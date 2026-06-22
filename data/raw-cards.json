@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-22 04:30 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-22 05:03 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20m ago",
+      "time": "28m ago",
+      "pubDate": "2026-06-22T04:36:22.000Z",
+      "title": "Tesla Semi spotted with ground truth validation equipment as launch looms",
+      "body": "Tesla Semi spotted with ground truth validation equipment as launch looms Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-semi-spotted-ground-truth-validation-equipment-launch-looms/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "31m ago",
+      "pubDate": "2026-06-22T04:32:36.000Z",
+      "title": "Tesla at $1.25 Trillion: Is Wall Street Pricing an EV Company, an AI Giant, or a Future Space Empire?",
+      "body": "Tesla at $1.25 Trillion: Is Wall Street Pricing an EV Company, an AI Giant, or a Future Space Empire? FXLeaders",
+      "sourceName": "FXLeaders",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.fxleaders.com/news/2026/06/22/tesla-at-1-25-trillion-is-wall-street-pricing-an-ev-company-an-ai-giant-or-a-future-space-empire/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "53m ago",
       "pubDate": "2026-06-22T04:10:48.000Z",
       "title": "Cybertruck Smart Summon at the Golden Gate Bridge @SjvTesla",
       "body": "Cybertruck Smart Summon at the Golden Gate Bridge @SjvTesla https://t.co/mhqE0h0mQo",
@@ -15,22 +41,9 @@
       "href": "https://x.com/teslaownersSV/status/2068909545091748003"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "42m ago",
-      "pubDate": "2026-06-22T03:48:19.000Z",
-      "title": "Tesla Semi spotted with ground truth validation equipment as launch looms",
-      "body": "Tesla Semi spotted with ground truth validation equipment as launch looms Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-semi-spotted-ground-truth-validation-equipment-launch-looms/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "51m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-22T03:39:48.000Z",
       "title": "Tesla's updated Full Self-Driving system arrives in Australia",
       "body": "Tesla's updated Full Self-Driving system arrives in Australia CarExpert",
@@ -43,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-22T03:09:20.000Z",
       "title": "Silicon Valley, like Terminus, should be represented by a maker. Right now it feels like it’s being run by encycloped…",
       "body": "Silicon Valley, like Terminus, should be represented by a maker. Right now it feels like it’s being run by encyclopedia commissioners.",
@@ -69,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-22T02:33:44.000Z",
       "title": "“Full access” 😂",
       "body": "“Full access” 😂 https://t.co/UkEtW5Q9j4",
@@ -95,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-22T00:32:43.000Z",
       "title": "You can tell something creates value if people are willing to pay with their own money rather than having others pay …",
       "body": "You can tell something creates value if people are willing to pay with their own money rather than having others pay for it. Thus, if politicians truly believed their policies would create prosperity, they would have inv…",
@@ -122,6 +135,32 @@
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "9h ago",
+      "pubDate": "2026-06-21T19:44:33.000Z",
+      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
+      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "9h ago",
+      "pubDate": "2026-06-21T19:44:33.000Z",
+      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
+      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "10h ago",
       "pubDate": "2026-06-21T19:32:52.000Z",
       "title": "New Tesla Supercharger: Arlington, TX - West Arbrook Boulevard (8 stalls)",
       "body": "New Tesla Supercharger: Arlington, TX - West Arbrook Boulevard (8 stalls) https://t.co/KAGmmzSWey https://t.co/bNj3H0GGvz",
@@ -134,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-21T19:31:29.000Z",
       "title": "Building materials group CRH nears its biggest-ever deal to buy Arcosa",
       "body": "Building materials group CRH nears its biggest-ever deal to buy Arcosa Financial Times",
@@ -160,19 +199,6 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-06-21T18:42:01.000Z",
-      "title": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance.",
-      "body": "You Were Right to Hate EV Pickups. Automakers Want a Second Chance. WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
       "time": "12h ago",
       "pubDate": "2026-06-21T16:35:55.000Z",
       "title": "Technology",
@@ -182,19 +208,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/tech"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
-      "pubDate": "2026-06-21T13:33:34.000Z",
-      "title": "No one wants AI data centers on Earth. Do they make sense in space?",
-      "body": "No one wants AI data centers on Earth. Do they make sense in space? CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html"
     },
     {
       "category": "stock",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/business/autos/european-auto-shares-fall-after-bmw-cuts-guidance-004862a3"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6d ago",
-      "pubDate": "2026-06-16T12:47:14.000Z",
-      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "body": "Jim Cramer's top 10 things to watch in the stock market Tuesday CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday-.html"
     }
   ]
 }
