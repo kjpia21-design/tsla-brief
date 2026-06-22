@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-22T04:10:48.000Z",
+      "title": "사이버트럭, 금문교 인근서 <em>스마트 서몬</em> 시연 — 커뮤니티 포착",
+      "hotShort": "사이버트럭, 금문교서 <em>스마트 서몬</em> 자율 소환",
+      "body": "테슬라 커뮤니티 계정이 사이버트럭이 샌프란시스코 금문교 인근에서 스마트 서몬(Smart Summon)을 활용해 자율 소환하는 장면을 X에 공개했다 — 실제 도심 명소 환경에서 사이버트럭의 자율 소환 기능이 작동하는 모습이 담겼다.",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-smart-summon-golden-gate-2026-06-22",
+      "summary": "테슬라의 스마트 서몬(Smart Summon)은 주차장·저속 구역에서 운전자가 테슬라 앱으로 차량을 호출하면 차량이 스스로 이동해 오는 자율 소환 기능이다. 이번 영상은 샌프란시스코의 상징적 랜드마크 금문교 인근에서 촬영됐으며, 테슬라 오너 커뮤니티 계정 @teslaownersSV가 X에 공유했다.\n\n스마트 서몬은 테슬라 FSD(Full Self-Driving) 소프트웨어 스택의 일부로, 저속·단거리 환경에서 차량이 장애물을 감지하고 경로를 계획하며 목적지까지 자율 이동하는 기능이다. 복잡한 도심 환경에서의 실사용 시연은 사이버트럭의 자율 소환 기술이 일상 환경에서 실제로 작동하고 있음을 커뮤니티가 자발적으로 확인해 주는 사례다.\n\n사이버트럭은 2023년 말 양산을 시작한 테슬라의 전기 픽업트럭으로, FSD 소프트웨어와 완전 호환된다. 이 같은 자율 기능의 실사용 영상 공유는 테슬라의 자율주행 기술 성숙도에 대한 자연스러운 사회적 증명(social proof) 역할을 하며, 사이버트럭의 제품 경쟁력 인식을 높인다.",
+      "title_en": "Cybertruck pulls off <em>Smart Summon</em> near the Golden Gate Bridge",
+      "hotShort_en": "Cybertruck <em>Smart Summon</em> at Golden Gate Bridge",
+      "body_en": "A Tesla community account shared footage of a Cybertruck using Smart Summon near San Francisco's iconic Golden Gate Bridge — showing the autonomous summon feature operating in a real-world, high-traffic urban environment.",
+      "summary_en": "Tesla's Smart Summon allows the vehicle to autonomously navigate toward its owner via the Tesla app in parking lots and slow-speed areas. The footage, shared by @teslaownersSV on X and originally captured by @SjvTesla, was filmed near the Golden Gate Bridge — one of San Francisco's most visited and traffic-dense landmarks.\n\nSmart Summon is part of Tesla's FSD software stack, enabling the car to detect obstacles and plan a short-distance path to the owner without driver input. Real-world demonstrations in dense, complex environments provide community-level evidence that the feature is functioning reliably in everyday conditions beyond private driveways and quiet parking lots.\n\nThe Cybertruck, which entered production in late 2023, supports full FSD software compatibility. Community-captured autonomous driving footage continues to generate organic awareness of Tesla's autonomy capabilities and reinforces the competitive differentiation of Tesla vehicles in the pickup truck segment.",
+      "href": "https://x.com/teslaownersSV/status/2068909545091748003",
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
@@ -23,27 +43,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-06-22T02:40:37.000Z",
-      "title": "위스콘신 캘리도니아에 <em>슈퍼차저 8기</em> 신규 개설",
-      "hotShort": "위스콘신 캘리도니아, <em>슈퍼차저 8기</em> 신규 개설",
-      "body": "테슬라 충전 공식 계정이 위스콘신주 캘리도니아 웰치스(Welch's) 매장에 8기 규모의 슈퍼차저를 신규 개설했다 — 미국 중서부 충전망이 추가 강화되며 해당 지역 EV 오너들의 장거리 충전 접근성이 높아졌다.",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "product-supercharger-caledonia-wi-2026-06-22",
-      "summary": "캘리도니아는 위스콘신주 라신 카운티에 위치한 소도시로, 밀워키에서 남쪽으로 약 30km 거리에 있다. 웰치스(Welch's) 매장에 슈퍼차저가 들어선 것은 테슬라가 대형 상업 시설과 연계한 충전 거점 구축 전략을 이어가고 있음을 보여준다.\n\n미국 중서부는 전통적으로 내연기관 자동차 문화가 강한 지역이다. 위스콘신을 포함한 이 지역의 충전 인프라 확대는 EV 전환 장벽을 낮추고 잠재 구매자들의 주행 거리 불안을 해소하는 데 기여한다.\n\nNACS 채택 이후 슈퍼차저는 타사 EV에도 개방돼 충전 서비스 자체가 독립 수익원으로 기능하고 있다. 중서부 지역 거점 추가는 더 넓어진 고객층에도 서비스 지역을 확장하는 효과가 있다.",
-      "title_en": "New <em>8-stall Supercharger</em> opens in Caledonia, Wisconsin",
-      "hotShort_en": "New <em>8-stall Supercharger</em> in Wisconsin",
-      "body_en": "Tesla Charging confirmed the opening of a new 8-stall Supercharger at Welch's in Caledonia, Wisconsin — expanding the Midwest charging network and improving long-distance EV travel access for drivers in the region.",
-      "summary_en": "Caledonia is a municipality in Racine County, Wisconsin, roughly 30 km south of Milwaukee. The Welch's location follows Tesla's consistent practice of co-locating Superchargers at commercial properties, making charging a natural part of everyday shopping and errand stops.\n\nThe US Midwest has historically been a stronghold for internal combustion vehicle culture. Expanding the Supercharger network into the region supports EV adoption by addressing one of the most common barriers to switching: concern about charging availability on longer trips.\n\nWith the North America Charging Standard (NACS) now adopted industry-wide, Tesla Superchargers serve a broader pool of non-Tesla EVs — making each new station an incremental revenue opportunity beyond the Tesla fleet. The Wisconsin addition continues Tesla's steady rollout of charging infrastructure across all US regions.",
-      "href": "https://x.com/TeslaCharging/status/2068886850673266999",
-      "sentiment": "bull",
-      "hot": 2
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "48m ago",
       "pubDate": "2026-06-21T15:57:45.000Z",
       "title": "테슬라 세미, <em>검증 장비</em> 탑재 포착 — 출시 임박 신호",
       "hotShort": "테슬라 세미, <em>검증 장비</em> 탑재 포착 — 출시 임박",
@@ -59,7 +59,27 @@
       "href": "https://www.teslarati.com/tesla-semi-spotted-ground-truth-validation-equipment-launch-looms/",
       "sentiment": "bull",
       "hot": 7
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-21T12:00:09.000Z",
+      "title": "캐시 우드·ARK, 테슬라 지분 <em>또 확대</em> — 매수세 유지",
+      "hotShort": "ARK, 테슬라 <em>지분 재확대</em> — 기관 매수세 유지",
+      "body": "GuruFocus에 따르면 캐시 우드의 ARK 인베스트가 테슬라(TSLA) 지분을 추가 확대했다 — SpaceX 투자 이후에도 TSLA 매수를 지속하며 AI·자율주행 장기 성장에 베팅하는 ARK의 확신이 이어지고 있다.",
+      "sourceName": "GuruFocus",
+      "sourceLabel": "press",
+      "slug": "stock-ark-invest-expands-tesla-2026-06-21",
+      "summary": "ARK 인베스트는 캐시 우드가 이끄는 대표적인 기술주 특화 ETF 운용사로, 테슬라를 오랜 기간 가장 큰 포지션 중 하나로 유지해왔다. 이번 지분 확대는 ARK가 최근 SpaceX 투자를 결정한 직후에도 TSLA 매수를 지속한다는 점에서, 머스크 생태계 전반에 대한 강한 확신을 재확인한 것이다.\n\nGuruFocus는 SEC 13F 공시와 실시간 기관 포트폴리오 변동 데이터를 추적하는 금융 분석 플랫폼으로, ARK의 매수 동향을 신속하게 포착한다. 6월 중순 이후 테슬라 주가가 강세를 이어온 흐름 속에서 ARK가 추가 매수에 나선 것은 단기 차익 실현보다 중장기 성장에 베팅한다는 신호로 읽힌다.\n\nARK의 테슬라 투자 논리 핵심은 FSD 수익화, 사이버캡·로보택시 플릿, 그리고 옵티머스 로봇을 포함한 물리적 AI 전환 스토리다. ARK는 이전부터 테슬라에 대해 수천 달러 수준의 강한 목표주가를 제시해온 낙관론의 상징이며, 이번 추가 매수는 2026년 하반기 전환점에 대한 기대가 유지되고 있음을 시사한다.",
+      "title_en": "Cathie Wood's ARK Invest <em>expands Tesla stake</em> — buying continues",
+      "hotShort_en": "ARK <em>adds to Tesla</em> again — bull case intact",
+      "body_en": "GuruFocus reports that Cathie Wood's ARK Invest has further expanded its Tesla (TSLA) holdings — a continued buy signal that reinforces ARK's conviction in Tesla's AI and autonomous driving thesis even after recently adding SpaceX exposure to its portfolio.",
+      "summary_en": "ARK Invest, led by Cathie Wood, has long held Tesla as one of its flagship positions across its ETF lineup, backing the company's AI and autonomous vehicle thesis with some of Wall Street's most bullish price targets. This latest purchase comes after ARK made headlines for adding SpaceX exposure, signaling that Wood is doubling down on the broader Musk ecosystem rather than rotating away.\n\nGuruFocus tracks real-time institutional portfolio changes based on SEC 13F filings and disclosed trading activity, providing timely visibility into large institutional moves. ARK's continued accumulation at current price levels implies the firm still views Tesla as undervalued relative to its long-term autonomous driving and AI potential.\n\nFor ARK, Tesla's bull thesis centers on FSD monetization, the Cybercab robotaxi launch, and Optimus humanoid robots — all of which are expected to reach critical milestones in the second half of 2026. Persistent buying reinforces the narrative that institutional believers in Tesla's long-term story are not yet taking profits, a constructive signal for retail investors watching the stock.",
+      "href": "https://www.gurufocus.com/news/8924496/cathie-woods-ark-invest-expands-tesla-holdings-tsla",
+      "sentiment": "bull",
+      "hot": 5
     }
   ],
-  "asOf": "2026-06-22 14:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-22 16:12 KST 자동 갱신 · 최신순"
 }
