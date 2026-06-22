@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-22 12:16 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-22 12:20 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "26m ago",
+      "time": "30m ago",
       "pubDate": "2026-06-22T11:50:00.000Z",
       "title": "SpaceX Stock Falls for Third Straight Day and This Analyst Rating Won’t Help",
       "body": "SpaceX Stock Falls for Third Straight Day and This Analyst Rating Won’t Help Barron's",
@@ -17,7 +17,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "34m ago",
+      "time": "38m ago",
       "pubDate": "2026-06-22T11:42:00.000Z",
       "title": "Tesla FSD Finally Reached Europe. Now Speed Limits May Slow Its Expansion",
       "body": "Tesla FSD Finally Reached Europe. Now Speed Limits May Slow Its Expansion InsideEVs",
@@ -54,17 +54,17 @@
       "href": "https://www.reuters.com/business/autos-transportation/ferrari-denies-making-access-limited-edition-models-conditional-luce-ev-purchase-2026-06-22/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-22T10:41:13.000Z",
-      "title": "Tesla Full Self-Driving expansion in Europe continues with new addition",
-      "body": "Tesla Full Self-Driving expansion in Europe continues with new addition Teslarati",
-      "sourceName": "Teslarati",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-22T10:59:41.000Z",
+      "title": "Nasdaq, S&P 500 Futures Edge Lower Ahead Of CPI Data: Why NVDA, AAPL, TSLA, RIVN, MRNA, AMAT, IREN Are On Traders' Radar Today",
+      "body": "Nasdaq, S&P 500 Futures Edge Lower Ahead Of CPI Data: Why NVDA, AAPL, TSLA, RIVN, MRNA, AMAT, IREN Are On Traders' Radar Today Stocktwits",
+      "sourceName": "Stocktwits",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-expansion-europe-continues-new-addition/"
+      "href": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-lower-nvda-aapl-tsla-rivn-mrna-amat-stocks-to-watch/cZR5NHpR4sZ"
     },
     {
       "category": "stock",
@@ -78,6 +78,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/legal/transactional/this-upstart-launched-35-etfs-day-doesnt-plan-slow-down-2026-06-22/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-22T10:12:46.000Z",
+      "title": "1 Year Anniversary of @Tesla @Robotaxi Launch ... Reliving that 1st day! One year ago a small group or people includi…",
+      "body": "1 Year Anniversary of @Tesla @Robotaxi Launch ... Reliving that 1st day! One year ago a small group or people including me received an invitation from @Tesla_AI to be among the first to participate in the launch of the @…",
+      "sourceName": "Joe Tegtmeyer (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/JoeTegtmeyer/status/2069000637396738369"
     },
     {
       "category": "stock",
@@ -104,19 +117,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/stock-movers-f45db408"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-22T09:18:36.000Z",
-      "title": "Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",
-      "body": "Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus Stocktwits",
-      "sourceName": "Stocktwits",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://stocktwits.com/news-articles/markets/equity/nasdaq-posts-worst-drop-since-april-2025-s-and-p-500-and-dow-drop-as-strong-jobs-data-ignites-rate-hike-bets-tsla-gme-meta-ba-mstr-in-focus/cZ0FUXKReCv"
     },
     {
       "category": "fsd",
@@ -184,19 +184,6 @@
       "href": "https://apnews.com/article/iran-energy-china-ev-5ec89b82365893a341acc59942ce6f35"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
-      "pubDate": "2026-06-22T04:38:00.000Z",
-      "title": "SK Hynix overtakes Samsung to become South Korea's most valuable company",
-      "body": "SK Hynix overtakes Samsung to become South Korea's most valuable company Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/asia-pacific/sk-hynix-overtakes-samsung-become-koreas-most-valuable-company-2026-06-22/"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "8h ago",
@@ -221,6 +208,19 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2068886850673266999"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "17h ago",
+      "pubDate": "2026-06-21T19:32:52.000Z",
+      "title": "New Tesla Supercharger: Arlington, TX - West Arbrook Boulevard (8 stalls)",
+      "body": "New Tesla Supercharger: Arlington, TX - West Arbrook Boulevard (8 stalls) https://t.co/KAGmmzSWey https://t.co/bNj3H0GGvz",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/TeslaCharging/status/2068779203294793888"
     },
     {
       "category": "product",
