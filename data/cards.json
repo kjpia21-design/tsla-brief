@@ -1,9 +1,51 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "12m ago",
+      "pubDate": "2026-06-22T14:18:51.000Z",
+      "title": "테슬라, 'MEGAPOD' USPTO 상표 출원 — <em>AI·컴퓨팅 스토리지</em> 신제품 예고",
+      "hotShort": "테슬라 'MEGAPOD' 상표 — <em>AI 컴퓨팅</em> 신제품 예고",
+      "body": "Teslarati에 따르면 테슬라가 미국 특허상표청(USPTO)에 'MEGAPOD' 상표를 출원했다 — AI 및 컴퓨팅 스토리지 수요에 집중하고 있다는 신호로, 'MEGA' 접두사가 메가팩을 연상시켜 대규모 AI 인프라 또는 에너지 스토리지 신제품 라인의 이름이 될 가능성을 열었다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-tesla-megapod-trademark-2026-06-22",
+      "summary": "Teslarati 보도에 따르면 테슬라가 미국 특허상표청(USPTO)에 'MEGAPOD'라는 새 상표를 출원했다. 테슬라의 AI 노력 및 컴퓨팅 스토리지 수요 집중의 연장선으로 풀이된다.\n\n'MEGA' 접두사는 테슬라의 대형 에너지 저장 제품인 메가팩(Megapack)을 떠올리게 한다. 여기에 'POD(모듈 단위)'가 결합된 'MEGAPOD'는 대규모 AI 컴퓨팅 클러스터, FSD·옵티머스 학습용 컴퓨팅 파드, 또는 차세대 에너지 스토리지 모듈 등 다양한 가능성을 열어 두고 있다.\n\n테슬라는 자체 도조(Dojo) 슈퍼컴퓨터를 포함해 AI 학습 인프라를 지속 확장해왔다. MEGAPOD가 AI 컴퓨팅 인프라 브랜드로 구체화될 경우, 테슬라의 데이터센터 역량이 외부 서비스로 확장되거나 독자 AI 인프라 사업 라인이 더해지는 시나리오도 가능하다. 상표 출원 단계라 최종 제품화는 미정이나, 테슬라의 AI·에너지 사업 방향성을 가늠하는 의미 있는 신호다.",
+      "title_en": "Tesla files 'MEGAPOD' trademark at USPTO — a hint at its <em>AI and computing storage</em> ambitions",
+      "hotShort_en": "Tesla's 'MEGAPOD' trademark — an <em>AI compute</em> product preview",
+      "body_en": "Tesla has filed a trademark for 'MEGAPOD' with the United States Patent and Trademark Office (USPTO), according to Teslarati — a move the outlet reads as a sign of Tesla's intensifying focus on AI and computing storage needs, with the 'MEGA' prefix echoing the Megapack and raising the prospect of a new large-scale AI infrastructure or energy storage product line.",
+      "summary_en": "Teslarati reports that Tesla has filed a new trademark for the name 'MEGAPOD' with the USPTO. The outlet interprets the move as connected to Tesla's focus on AI and computing storage needs — suggesting the company is preparing branding for a product in that space.\n\nThe 'MEGA' prefix directly echoes Tesla's existing 'Megapack' branding for its utility-scale energy storage system, while 'POD' implies a modular, self-contained unit. That combination could point toward a large-scale AI computing cluster, a compute pod for FSD or Optimus training workloads, or a next-generation energy storage module — or some combination of the above.\n\nTesla has been steadily scaling its Dojo supercomputer and AI training infrastructure as the computational demands of FSD and Optimus continue to grow. A 'MEGAPOD' product in the AI compute space could represent either an internal infrastructure build-out or — more ambitiously — a branded offering that gives Tesla's data center capabilities an external identity.\n\nA USPTO trademark filing is an early-stage signal, not a confirmed product launch. Tesla's trademark history has often been a reliable preview of where the company is headed, but timelines remain unknown. Investors should watch for further detail on whether MEGAPOD lands in the energy, compute, or combined infrastructure category.",
+      "href": "https://www.teslarati.com/tesla-just-trademarked-megapod-heres-what-it-is/",
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-22T13:21:42.000Z",
+      "title": "스페이스X, IPO 직후 첫 투자등급 채권 발행 — <em>현금 $1,000억</em> 이상 보유 공개",
+      "hotShort": "스페이스X IPO 직후 채권 — <em>$1,000억</em> 현금 공개",
+      "body": "CNBC·블룸버그에 따르면 스페이스X가 사상 최대 IPO 직후 미국 달러화 투자등급 회사채를 처음 발행하며, 현금 보유액이 $1,000억(약 140조 원)을 초과한다고 공시했다 — 기관 채권 시장의 첫 신뢰를 확보한 동시에, 합병 논의가 활발한 테슬라·스페이스X 밸류에이션 협상에서 스페이스X 측의 재무 체력을 확인해줬다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-bond-cash-pile-2026-06-22",
+      "summary": "CNBC와 블룸버그가 스페이스X의 자본 시장 행보를 나란히 보도했다. CNBC에 따르면 스페이스X는 사상 최대 규모 IPO를 마친 직후 미국 달러화 첫 투자등급(Investment-Grade) 회사채 발행에 나섰으며, 현금 보유액이 $1,000억을 초과한다고 공시했다. 블룸버그도 스페이스X의 달러화 투자등급 채권 데뷔를 별도로 보도했다.\n\n투자등급 채권 시장 진입은 스탠더드앤푸어스(S&P) 등 신용평가사로부터 투자적격 등급을 획득했다는 의미다. 기관 채권 투자자들이 스페이스X의 신용도와 미래 현금 흐름을 신뢰한다는 신호이며, 이를 통해 스페이스X는 주식(IPO) 외에 저비용 부채로도 대규모 자금을 조달할 수 있게 된다.\n\n$1,000억 이상의 현금 보유는 스타링크 구독 매출·발사 서비스 수익 등 복수의 수익원에서 안정적 현금 흐름이 대규모로 창출되고 있음을 확인해준다. 이 규모는 S&P 500 상위 대기업 수준이다.\n\n테슬라 주주 관점에서 스페이스X의 재무 규모는 합병 가능성과 직결된다. 댄 아이브스(Wedbush) 등이 1년 내 합병을 전망한 가운데, $1,000억 이상의 현금과 투자등급 신용도는 합병 협상에서 스페이스X 밸류에이션을 지지하는 강력한 근거가 된다.",
+      "title_en": "SpaceX launches debut investment-grade bond days after IPO — discloses <em>over $100 billion</em> in cash",
+      "hotShort_en": "SpaceX IPO debut bonds — reveals <em>$100B+</em> cash pile",
+      "body_en": "CNBC and Bloomberg both report that SpaceX has launched its first US dollar investment-grade bond offering just days after its record IPO — simultaneously disclosing a cash pile exceeding $100 billion, confirming the company's financial scale and handing it a new lower-cost debt funding channel as Tesla-SpaceX merger speculation continues.",
+      "summary_en": "CNBC and Bloomberg both covered SpaceX's entry into the institutional bond market. CNBC reports that SpaceX launched its debut US dollar investment-grade bond offering shortly after completing what the outlet described as a record-setting IPO, and disclosed a cash position of over $100 billion. Bloomberg also reported separately on the bond launch as SpaceX's first investment-grade dollar offering.\n\nAn investment-grade bond debut signals that major credit rating agencies have assigned SpaceX a qualifying rating — and that institutional fixed-income investors are confident enough in SpaceX's creditworthiness and cash flow profile to buy its debt. This adds a lower-cost funding channel on top of the IPO equity proceeds, giving SpaceX a multi-layered capital structure for financing its ambitions.\n\nThe $100 billion-plus cash disclosure is significant on its own. It puts SpaceX in the same tier as some of the most cash-rich companies in the world, reflecting the scale of Starlink subscriber revenue, launch service contracts, and other recurring commercial lines.\n\nFor Tesla shareholders, SpaceX's financial strength is directly relevant to the merger thesis that analysts including Wedbush's Dan Ives have flagged as a high-probability scenario within a year. A SpaceX that can demonstrate $100 billion in cash and investment-grade credit access is a company that can set a firm floor on its own valuation — which will be a central variable in any Tesla-SpaceX merger structure.",
+      "href": "https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html",
+      "confirmedBy": 2,
+      "confirmingSources": ["CNBC", "Bloomberg"],
+      "sentiment": "bull",
+      "hot": 8
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "48m ago",
+      "time": "3h ago",
       "pubDate": "2026-06-22T11:42:00.000Z",
       "title": "테슬라 FSD, <em>유럽 상륙</em> — 스웨덴 속도 제한 규정이 확장 변수로",
       "hotShort": "테슬라 FSD <em>유럽 진출</em> — 속도 제한이 확장 장벽",
@@ -23,7 +65,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-22T11:01:43.000Z",
       "title": "스페이스X 상장 첫 주 <em>시장 열풍</em> — 이후 3거래일 연속 주가 하락",
       "hotShort": "스페이스X 첫 주 <em>열풍 후 3일 연속 하락</em>",
@@ -48,7 +90,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-22T10:12:46.000Z",
       "title": "테슬라 로보택시 출시 <em>1주년</em> — 초기 탑승자가 기억하는 첫날",
       "hotShort": "테슬라 로보택시 <em>출시 1주년</em>, 초기 참가자 회고",
@@ -63,28 +105,8 @@
       "summary_en": "June 22, 2026 marks exactly one year since Tesla's Robotaxi service opened its doors to the first public participants. Joe Tegtmeyer, a Tesla community creator who received an invitation from @Tesla_AI for that original launch group, shared a first-anniversary retrospective on X — reliving the first day of what has since become Tesla's commercial autonomous driving service.\n\nThe Tesla Robotaxi service uses the FSD software stack to enable passenger trips in both purpose-built Cybercab vehicles and existing Tesla fleet cars. Over the past year, the service has accumulated real-world autonomous driving miles and rider feedback, feeding the data flywheel that continues to improve FSD performance across the broader Tesla fleet.\n\nFor Tesla investors, the one-year anniversary is a milestone that confirms the durability of Tesla's autonomous driving commercialization strategy. Sustained commercial operation is a material step beyond pilot programs, and the anniversary provides a natural comparison point to evaluate how the robotaxi service has scaled and improved — setting the baseline for the next phase of growth as Cybercab production ramps.",
       "href": "https://x.com/JoeTegtmeyer/status/2069000637396738369",
       "sentiment": "bull",
-      "hot": 7
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
-      "pubDate": "2026-06-22T06:08:00.000Z",
-      "title": "고유가가 당긴 중국 EV 판매 급증 — <em>충전 인프라</em>는 여전히 발목",
-      "hotShort": "고유가발 중국 EV <em>판매 급증</em> — 충전망이 발목",
-      "body": "AP 통신에 따르면 국제유가 상승이 중국 전기차 판매를 끌어올리고 있지만, 충전 인프라 공급이 수요를 따라가지 못하는 구조적 격차가 과제로 드러나고 있다 — 테슬라 기가 상하이가 공급하는 중국 시장에서 슈퍼차저 네트워크 차별화가 더욱 부각될 수 있는 국면이다.",
-      "sourceName": "AP News",
-      "sourceLabel": "press",
-      "slug": "product-china-ev-surge-oil-price-charging-2026-06-22",
-      "summary": "AP 통신이 최근 국제유가 상승이 중국 소비자들의 EV 전환을 가속하고 있다고 보도했다. 중국은 자국 전기차 브랜드가 활발한 시장으로, 유가 상승이 내연기관차 운행 비용을 높이면서 EV 수요를 더욱 확대하는 요인이 되고 있다.\n\n다만 AP는 충전 인프라 확충이 판매 급증 속도를 따라가지 못하고 있다고 지적했다. 특히 중소도시·농촌 지역에서 공공 충전소 밀도가 낮아 일부 소비자들이 충전 접근성을 우려한다는 분석이다.\n\n테슬라는 기가 상하이(Giga Shanghai)를 통해 중국 시장에 직접 공급하며, 자체 슈퍼차저 네트워크도 꾸준히 확대해 왔다. 중국 경쟁사 대비 테슬라의 자체 충전 인프라는 충전 접근성 측면에서 차별화 요소로 기능할 수 있다. 중국 EV 시장 확대는 테슬라에 판매 기회이자 경쟁 심화라는 양면성을 함께 가진다.",
-      "title_en": "High oil prices fuel a <em>Chinese EV sales surge</em> — but charging lags behind",
-      "hotShort_en": "<em>China EV</em> surges on high oil prices",
-      "body_en": "AP News reports that rising oil prices are driving a surge in Chinese electric vehicle sales — but public charging infrastructure is struggling to keep pace with demand, a structural gap that Tesla's Supercharger network in China is positioned to help address.",
-      "summary_en": "AP News reports that global oil price increases are accelerating EV adoption in China, where higher fuel costs are making internal combustion vehicles less attractive for everyday consumers. China's EV market is already one of the world's largest, and the oil price tailwind is adding momentum beyond existing policy incentives.\n\nHowever, AP highlights a key bottleneck: public charging infrastructure is not expanding quickly enough to match surging EV sales, particularly in smaller cities and rural regions where charging station density remains low.\n\nFor Tesla, the China EV expansion cuts both ways. Giga Shanghai is Tesla's highest-volume factory, serving the Chinese domestic market — so broader EV adoption in the country directly grows Tesla's addressable market. At the same time, the growth benefits all manufacturers in the segment, intensifying competition from well-funded domestic brands.\n\nOn charging, Tesla's proprietary Supercharger network gives it a self-sufficient advantage that many domestic competitors lack. As China's charging infrastructure gap draws attention, Tesla's reliable charging ecosystem may become an increasingly visible differentiator for Chinese buyers weighing their EV options.",
-      "href": "https://apnews.com/article/iran-energy-china-ev-5ec89b82365893a341acc59942ce6f35",
-      "sentiment": "neutral",
-      "hot": 5
+      "hot": 6
     }
   ],
-  "asOf": "2026-06-22 21:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-22 23:30 KST 자동 갱신 · 최신순"
 }
