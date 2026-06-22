@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-22 22:08 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-22 22:10 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "25m ago",
+      "time": "26m ago",
       "pubDate": "2026-06-22T21:44:03.000Z",
       "title": "Tesla finally clarifies fatal Texas crash, confirms driver manually overrode acceleration",
       "body": "Tesla finally clarifies fatal Texas crash, confirms driver manually overrode acceleration Teslarati",
@@ -15,9 +15,22 @@
       "href": "https://www.teslarati.com/tesla-finally-clarifies-fatal-texas-crash-confirms-driver-manually-overrode-acceleration/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "37m ago",
+      "pubDate": "2026-06-22T21:33:47.000Z",
+      "title": "How fast is the construction of the @Tesla Optimus Factory at Giga Texas moving along? Good question! Here is a 3-mon…",
+      "body": "How fast is the construction of the @Tesla Optimus Factory at Giga Texas moving along? Good question! Here is a 3-month update showing initial work as it appeared on 23 March and how it looks today. I think this is movin…",
+      "sourceName": "Joe Tegtmeyer (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/JoeTegtmeyer/status/2069172017736171544"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "40m ago",
+      "time": "42m ago",
       "pubDate": "2026-06-22T21:28:31.000Z",
       "title": "SpaceX sheds $400bn in market value as debut rally hits reverse",
       "body": "SpaceX sheds $400bn in market value as debut rally hits reverse Financial Times",
@@ -30,7 +43,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "48m ago",
+      "time": "50m ago",
       "pubDate": "2026-06-22T21:20:35.000Z",
       "title": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old",
       "body": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old CNBC",
@@ -43,19 +56,6 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-06-22T20:57:00.000Z",
-      "title": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation",
-      "body": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/fatal-tesla-crash-into-texas-home-now-under-federal-safety-investigation-48cfeebe"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1h ago",
       "pubDate": "2026-06-22T20:57:00.000Z",
       "title": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation",
@@ -93,30 +93,17 @@
       "href": "https://electrek.co/2026/06/22/nhtsa-tesla-katy-crash-federal-investigation/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-06-22T20:22:35.000Z",
-      "title": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets",
-      "body": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-22T20:50:04.000Z",
+      "title": "Grok Build upgrades",
+      "body": "Grok Build upgrades https://t.co/ceb5DMI4ic",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/business/media-telecom/indias-tata-electronics-hit-by-cyber-breach-claiming-expose-apple-tesla-trade-2026-06-22/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-06-22T20:12:50.000Z",
-      "title": "US opens probe into fatal Tesla crash into Texas home",
-      "body": "US opens probe into fatal Tesla crash into Texas home Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/us/us-opens-probe-into-fatal-tesla-crash-into-texas-home-2026-06-22/"
+      "href": "https://x.com/elonmusk/status/2069161018161311953"
     },
     {
       "category": "musk",
@@ -130,6 +117,19 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/elonmusk/status/2069150708952187280"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-22T19:49:20.000Z",
+      "title": "Construction of the @Tesla Optimus Factory at Giga Texas (planned for ~10M/yr production once fully ramped up) contin…",
+      "body": "Construction of the @Tesla Optimus Factory at Giga Texas (planned for ~10M/yr production once fully ramped up) continues, with more of the steel structure assembly evident. The structure appears to have (at least in this…",
+      "sourceName": "Joe Tegtmeyer (X)",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/JoeTegtmeyer/status/2069145735547990290"
     },
     {
       "category": "stock",
@@ -148,14 +148,14 @@
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "3h ago",
-      "pubDate": "2026-06-22T19:25:18.000Z",
-      "title": "Porsche CEO sticks to targets as he navigates road to recovery",
-      "body": "Porsche CEO sticks to targets as he navigates road to recovery Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
+      "pubDate": "2026-06-22T18:58:33.000Z",
+      "title": "New Tesla Supercharger: St. George, UT - South Pioneer Road (8 stalls)",
+      "body": "New Tesla Supercharger: St. George, UT - South Pioneer Road (8 stalls) https://t.co/5kWyITeVKU https://t.co/ZfGkQMcXZe",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/porsche-ceo-confirms-forecast-despite-persistent-challenges-speech-text-shows-2026-06-22/"
+      "href": "https://x.com/TeslaCharging/status/2069132953905741917"
     },
     {
       "category": "musk",
@@ -197,17 +197,17 @@
       "href": "https://www.reuters.com/business/wall-st-futures-muted-investors-monitor-us-iran-negotiations-2026-06-22/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "4h ago",
-      "pubDate": "2026-06-22T18:19:00.000Z",
-      "title": "Morgan Stanley Weighs Expansion to Dallas With $1.33 Billion Office-Building Deal",
-      "body": "Morgan Stanley Weighs Expansion to Dallas With $1.33 Billion Office-Building Deal WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
+      "pubDate": "2026-06-22T18:29:19.000Z",
+      "title": "Cybertruck Summon comes in handy on the farm",
+      "body": "Cybertruck Summon comes in handy on the farm https://t.co/rECd45NQ77",
+      "sourceName": "Cybertruck (X)",
+      "sourceLabel": "official",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/finance/banking/morgan-stanley-weighs-expansion-to-dallas-with-1-33-billion-office-building-deal-84119d18"
+      "href": "https://x.com/cybertruck/status/2069125597306216793"
     },
     {
       "category": "stock",
@@ -238,7 +238,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-22T15:40:27.000Z",
       "title": "Consuming information from aggregations might be a shortcut to catching up, but the information you consume is determ…",
       "body": "Consuming information from aggregations might be a shortcut to catching up, but the information you consume is determined by what the aggregation decides to tell you and not the actual source. There is a reason that in m…",
