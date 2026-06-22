@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-22 18:14 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-22 18:15 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
@@ -43,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-22T16:45:37.000Z",
       "title": "Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets",
       "body": "Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets CNBC",
@@ -145,6 +145,19 @@
       "href": "https://x.com/JoeTegtmeyer/status/2069072518514667935"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-22T14:56:22.000Z",
+      "title": "Uber-backed Lime seeks up to $1.66 billion valuation in US IPO",
+      "body": "Uber-backed Lime seeks up to $1.66 billion valuation in US IPO Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/uber-backed-lime-aims-raise-up-1809-million-us-ipo-2026-06-22/"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "4h ago",
@@ -197,32 +210,6 @@
       "href": "https://www.wsj.com/business/energy-oil/chevron-strikes-power-deal-with-microsoft-for-west-texas-ai-data-center-3751de34"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-22T11:55:28.000Z",
-      "title": "Oaktree-backed ITG targets $2.7 billion valuation in US IPO",
-      "body": "Oaktree-backed ITG targets $2.7 billion valuation in US IPO Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/technology/oaktree-backed-digital-infra-firm-itg-aims-raise-429-million-us-ipo-2026-06-22/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
-      "pubDate": "2026-06-22T11:42:00.000Z",
-      "title": "Tesla FSD Finally Reached Europe. Now Speed Limits May Slow Its Expansion",
-      "body": "Tesla FSD Finally Reached Europe. Now Speed Limits May Slow Its Expansion InsideEVs",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://insideevs.com/news/799424/sweden-questions-tesla-fsd-europe/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "7h ago",
@@ -238,19 +225,6 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
-      "pubDate": "2026-06-22T10:41:13.000Z",
-      "title": "Tesla Full Self-Driving expansion in Europe continues with new addition",
-      "body": "Tesla Full Self-Driving expansion in Europe continues with new addition Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-expansion-europe-continues-new-addition/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
       "time": "11h ago",
       "pubDate": "2026-06-22T07:27:26.000Z",
       "title": "I was watching Witch Hat Atelier, where witches keep magic secret not because it depends on bloodlines but to prevent…",
@@ -260,6 +234,32 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/yunta_tsai/status/2068959030710862124"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "11h ago",
+      "pubDate": "2026-06-22T07:24:39.000Z",
+      "title": "Living with FSD Supervised is “like going from black and white to color TV”",
+      "body": "Living with FSD Supervised is “like going from black and white to color TV” https://t.co/TjbDkPgSsG",
+      "sourceName": "Tesla (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/Tesla/status/2068958329452568644"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "12h ago",
+      "pubDate": "2026-06-22T06:22:00.000Z",
+      "title": "An AI company that ships real products would actually have less time for demos because all the engineers are busy fix…",
+      "body": "An AI company that ships real products would actually have less time for demos because all the engineers are busy fixing customer bugs.",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2068942563944579501"
     }
   ]
 }
