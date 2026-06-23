@@ -1,9 +1,29 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T15:05:06.000Z",
+      "title": "테슬라 공식 발표, 덴마크 코르쇠르에 <em>수퍼차저 12기</em> 신규 개설",
+      "hotShort": "테슬라, 덴마크 코르쇠르에 <em>수퍼차저 12기</em> 신설",
+      "body": "테슬라 공식 충전 계정(@TeslaCharging)이 덴마크 코르쇠르에 12기 규모 수퍼차저 스테이션 개설을 공식 발표했다 — 같은 날 오타와 개설에 이은 글로벌 충전 인프라 동시 확장으로, 테슬라의 유럽 네트워크 구축 행진이 이어지고 있다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-denmark-korsoe-2026-06-23",
+      "summary": "코르쇠르(Korsør)는 덴마크 셸란 섬 서쪽 해안의 항구 도시로, 코펜하겐에서 서쪽으로 약 100km 거리에 위치한다. 이번 12기 수퍼차저 스테이션 개설은 테슬라 공식 충전 계정(@TeslaCharging)이 X를 통해 직접 발표했다.\n\n같은 날(6월 23일) 캐나다 오타와 생로랑 블루바드에도 16기 규모 수퍼차저가 추가됐다. 테슬라는 2026년 들어 유럽·북미·아시아 전역에서 꾸준한 스테이션 개설 속도를 유지하고 있으며, 비테슬라 차량 개방 정책과 맞물려 충전 인프라 자체가 수익 사업으로 성장 중이다.\n\n덴마크는 유럽 내 전기차 보급률이 높은 시장 중 하나다. 코르쇠르 신규 스테이션은 셸란 섬 서쪽 지역 테슬라 오너들의 장거리 주행 반경을 넓히고, 현지 전기차 구매 고려자에게 충전 인프라 불안을 낮추는 데 기여한다.",
+      "title_en": "Tesla announces <em>12-stall Supercharger</em> opening in Korsør, Denmark",
+      "hotShort_en": "New <em>12-stall Supercharger</em> opens in Korsør, Denmark",
+      "body_en": "Tesla's official @TeslaCharging account confirmed a new 12-stall Supercharger station in Korsør, Denmark — the same day a 16-stall station opened in Ottawa, underscoring the company's sustained global charging network buildout in 2026.",
+      "summary_en": "Korsør is a port city on the western coast of Zealand, Denmark's largest island, located roughly 100 km west of Copenhagen. Tesla's official @TeslaCharging account announced the 12-stall station opening via X.\n\nThe same day saw a 16-stall Supercharger added at Saint Laurent Boulevard in Ottawa, Canada — reflecting Tesla's consistent global buildout cadence, with multiple new stations opening each week across Europe, North America, and Asia.\n\nDenmark ranks among Europe's leading EV adoption markets. Improved Supercharger density in the Korsør area extends range confidence for Tesla owners traveling across Zealand's western corridor. Tesla's ongoing policy of opening the Supercharger network to non-Tesla EVs also adds a growing revenue dimension beyond the existing owner base.",
+      "href": "https://x.com/TeslaCharging/status/2069436593946108109",
+      "sentiment": "bull",
+      "hot": 2
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "31m ago",
+      "time": "4h ago",
       "pubDate": "2026-06-23T13:29:43.000Z",
       "title": "로이터 — 스페이스X 누적 손실 $6,000억 속 <em>나스닥 $1조 셀오프</em> 재개",
       "hotShort": "나스닥 $1조 셀오프 재개 — 기술주 <em>하락 압력 지속</em>",
@@ -15,7 +35,7 @@
       "title_en": "SpaceX loss deepens past <em>$600B</em> as tech-wide selloff resumes — Nasdaq-100 eyes $1T+ drop",
       "hotShort_en": "Tech selloff deepens after <em>$600B SpaceX rout</em>",
       "body_en": "SpaceX's post-IPO rout has extended to a cumulative $600B wipeout, with Reuters reporting the Nasdaq-100 is set to shed more than $1 trillion as the tech selloff resumes. Tesla, as a Nasdaq-100 constituent, faces continued index-level selling pressure alongside broader tech peers.",
-      "summary_en": "Reuters reports that SpaceX shares extended losses on June 23, pushing the cumulative post-IPO wipeout past $600 billion — up from roughly $400 billion reported the prior session. The trajectory suggests the post-IPO decline has not found a floor.\n\nThe Nasdaq-100 faces more than $1 trillion in additional downside during the same session. Reuters characterized the move as tech stocks sliding 'again,' signaling multiple consecutive sessions of broad-based selling pressure rather than a single-day correction.\n\nFor Tesla shareholders, the mechanism is index-level exposure: TSLA is a Nasdaq-100 constituent and moves in part with broader tech under macro risk-off conditions. This is unrelated to Tesla-specific fundamentals — the company's European sales recovery and FSD regulatory progress in Finland and Sweden represent company-level tailwinds running in parallel.\n\nThe practical implication is near-term stock price headwinds from macro conditions rather than company execution. Long-term Tesla themes — energy storage expansion, FSD monetization, Cybercab rollout — remain decoupled from this index-level selling event.",
+      "summary_en": "Reuters reports that SpaceX shares extended losses on June 23, pushing the cumulative post-IPO wipeout past $600 billion — up from roughly $400 billion reported the prior session. The trajectory suggests the post-IPO decline has not found a floor.\n\nThe Nasdaq-100 faces more than $1 trillion in additional downside during the same session. Reuters characterized the move as tech stocks sliding 'again,' signaling multiple consecutive sessions of broad-based selling pressure rather than a single-day correction.\n\nFor Tesla shareholders, the mechanism is index-level exposure: TSLA is a Nasdaq-100 constituent and moves in part with broader tech under macro risk-off conditions. This is unrelated to Tesla-specific fundamentals — the company's European sales recovery and FSD regulatory progress in Finland represent company-level tailwinds running in parallel.\n\nThe practical implication is near-term stock price headwinds from macro conditions rather than company execution. Long-term Tesla themes — energy storage expansion, FSD monetization, Cybercab rollout — remain decoupled from this index-level selling event.",
       "href": "https://www.reuters.com/business/media-telecom/nasdaq-100-set-shed-over-1-trillion-tech-selloff-deepens-spacex-slides-2026-06-23/",
       "confirmedBy": 2,
       "confirmingSources": [
@@ -28,7 +48,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-23T12:51:43.000Z",
       "title": "로이터 — EU 표결 앞서 핀란드, 테슬라 <em>FSD 독자 승인</em> 나선다",
       "hotShort": "핀란드, EU보다 먼저 테슬라 <em>FSD 독자 허용</em> 검토",
@@ -46,5 +66,5 @@
       "hot": 7
     }
   ],
-  "asOf": "2026-06-23 22:29 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-24 02:00 KST 자동 갱신 · 최신순"
 }
