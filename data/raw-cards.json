@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-23 04:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-23 04:03 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "28m ago",
+      "time": "31m ago",
       "pubDate": "2026-06-23T03:32:11.000Z",
       "title": "Chivalry isn’t dead",
       "body": "Chivalry isn’t dead https://t.co/Fzn3nyLhh6",
@@ -17,7 +17,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "28m ago",
+      "time": "31m ago",
       "pubDate": "2026-06-23T03:32:11.000Z",
       "title": "The Market’s AI Fanfare Is Running Into a Harsh Political Reality",
       "body": "The Market’s AI Fanfare Is Running Into a Harsh Political Reality WSJ",
@@ -30,7 +30,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "41m ago",
+      "time": "44m ago",
       "pubDate": "2026-06-23T03:19:00.000Z",
       "title": "China's 618 shopping festival growth slows sharply as consumer spending malaise persists",
       "body": "China's 618 shopping festival growth slows sharply as consumer spending malaise persists CNBC",
@@ -67,6 +67,19 @@
       "href": "https://x.com/yunta_tsai/status/2069248589063504225"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T02:13:16.000Z",
+      "title": "Staff Picks",
+      "body": "Staff Picks CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/staff-picks/"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2h ago",
@@ -82,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-23T01:33:00.000Z",
       "title": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets",
       "body": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets CNBC",
@@ -121,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-23T00:33:00.000Z",
       "title": "Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees `overhang' disappearing",
       "body": "Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees `overhang' disappearing CNBC",
@@ -160,7 +173,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-22T23:32:00.000Z",
       "title": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation",
       "body": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation WSJ",
@@ -173,20 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-06-22T23:32:00.000Z",
-      "title": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation",
-      "body": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/fatal-tesla-crash-into-texas-home-now-under-federal-safety-investigation-48cfeebe"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-22T23:32:00.000Z",
       "title": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation",
       "body": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation WSJ",
