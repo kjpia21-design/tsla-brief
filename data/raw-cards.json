@@ -1,10 +1,62 @@
 {
-  "asOf": "2026-06-23 12:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-23 12:38 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "18m ago",
+      "time": "9m ago",
+      "pubDate": "2026-06-23T12:29:12.000Z",
+      "title": "Here are Tuesday's biggest analyst calls: SpaceX, Micron, Nvidia, Tesla, IBM, Broadcom, Target, Netflix & more",
+      "body": "Here are Tuesday's biggest analyst calls: SpaceX, Micron, Nvidia, Tesla, IBM, Broadcom, Target, Netflix & more CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/23/tuesday-biggest-analyst-calls-like-spacex-on-wall-street.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "15m ago",
+      "pubDate": "2026-06-23T12:23:29.000Z",
+      "title": "The Three AImigos versus The Magnificent Seven",
+      "body": "The Three AImigos versus The Magnificent Seven Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/98582580-20ed-4205-9ef2-4d56657b0004"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "39m ago",
+      "pubDate": "2026-06-23T12:00:01.000Z",
+      "title": "AI memory startup focused on cutting token costs raises $98 million",
+      "body": "AI memory startup focused on cutting token costs raises $98 million CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/23/ai-memory-startup-focused-on-cutting-token-costs-raises-98-million.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "50m ago",
+      "pubDate": "2026-06-23T11:48:06.000Z",
+      "title": "Germany",
+      "body": "Germany WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/topics/place/germany"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "56m ago",
       "pubDate": "2026-06-23T11:42:35.000Z",
       "title": "Tesla Stockholders Bet on SpaceX Merger as Musk’s Real Endgame",
       "body": "Tesla Stockholders Bet on SpaceX Merger as Musk’s Real Endgame Bloomberg",
@@ -17,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "39m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-23T11:22:00.000Z",
       "title": "Sanofi Multiple Sclerosis Drug Gets EU Approval",
       "body": "Sanofi Multiple Sclerosis Drug Gets EU Approval WSJ",
@@ -28,61 +80,22 @@
       "href": "https://www.wsj.com/health/pharma/sanofi-multiple-sclerosis-drug-gets-eu-approval-19e15b4e"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-23T10:58:30.000Z",
-      "title": "India 'proactively monitoring' Telegram over concerns about illegal content, government report shows",
-      "body": "India 'proactively monitoring' Telegram over concerns about illegal content, government report shows Reuters",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T10:19:43.000Z",
+      "title": "RWE's share sale will dilute municipal owners to 12%, CEO says",
+      "body": "RWE's share sale will dilute municipal owners to 12%, CEO says Reuters",
       "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/business/media-telecom/india-proactively-monitoring-telegram-over-concerns-about-illegal-content-2026-06-23/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-23T10:53:43.000Z",
-      "title": "Ukraine rail tariff rise may lift farm costs and shift cargo to road, lobby says",
-      "body": "Ukraine rail tariff rise may lift farm costs and shift cargo to road, lobby says Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/ukraine-rail-tariff-rise-may-lift-farm-costs-shift-cargo-road-lobby-says-2026-06-23/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-23T10:47:47.000Z",
-      "title": "Nasdaq 100 set to shed over $1 trillion as tech selloff deepens; SpaceX slides",
-      "body": "Nasdaq 100 set to shed over $1 trillion as tech selloff deepens; SpaceX slides Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/media-telecom/nasdaq-100-set-shed-over-1-trillion-tech-selloff-deepens-spacex-slides-2026-06-23/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-06-23T10:36:27.000Z",
-      "title": "Buy IBM as investors underappreciate the strength of its software business, says JPMorgan",
-      "body": "Buy IBM as investors underappreciate the strength of its software business, says JPMorgan CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/23/buy-ibm-as-investors-underappreciate-the-strength-of-its-software-business-says-jpmorgan.html"
+      "href": "https://www.reuters.com/business/energy/rwes-share-sale-will-dilute-municipal-owners-12-ceo-says-2026-06-23/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-23T09:49:48.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg",
@@ -95,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-23T09:45:37.000Z",
       "title": "China beats US with world's fastest supercomputer, but race not geared for AI work",
       "body": "China beats US with world's fastest supercomputer, but race not geared for AI work Reuters",
@@ -104,6 +117,32 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/world/china/china-beats-us-with-worlds-fastest-supercomputer-race-not-geared-ai-work-2026-06-23/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-06-23T09:03:46.000Z",
+      "title": "Tesla’s European Recovery Gathers Pace After Last Year’s Slide",
+      "body": "Tesla’s European Recovery Gathers Pace After Last Year’s Slide Bloomberg",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-23/tesla-s-european-recovery-gathers-pace-after-last-year-s-slide"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-06-23T09:03:46.000Z",
+      "title": "Tesla’s European Recovery Gathers Pace After Last Year’s Slide",
+      "body": "Tesla’s European Recovery Gathers Pace After Last Year’s Slide Bloomberg",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-23/tesla-s-european-recovery-gathers-pace-after-last-year-s-slide"
     },
     {
       "category": "fsd",
@@ -121,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-23T06:51:00.000Z",
       "title": "NatPower, Tesla reach deal on first phase of $5 billion battery storage plan",
       "body": "NatPower, Tesla reach deal on first phase of $5 billion battery storage plan Reuters",
@@ -134,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-23T06:45:01.000Z",
       "title": "New Tesla Supercharger: Aire de Lafayette, France (22 stalls)",
       "body": "New Tesla Supercharger: Aire de Lafayette, France (22 stalls) https://t.co/lEhkLWFMEv https://t.co/R579jB76f7",
@@ -147,19 +186,6 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-23T06:20:00.000Z",
-      "title": "Tesla Notches Over Twofold Increase in European Monthly Sales",
-      "body": "Tesla Notches Over Twofold Increase in European Monthly Sales WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/tesla-notches-over-twofold-increase-in-european-monthly-sales-f8533cdc"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "6h ago",
       "pubDate": "2026-06-23T06:20:00.000Z",
       "title": "Tesla Notches Over Twofold Increase in European Monthly Sales",
@@ -199,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-23T04:05:00.000Z",
       "title": "EV demand powers Europe car market in May, Chinese rivals expand share",
       "body": "EV demand powers Europe car market in May, Chinese rivals expand share Reuters",
@@ -212,7 +238,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-23T02:38:03.000Z",
       "title": "The problem with Hollywood is that after portraying a few great men, women, and superheroes in a fraction of a lifeti…",
       "body": "The problem with Hollywood is that after portraying a few great men, women, and superheroes in a fraction of a lifetime, they believe they deserve the same credit for those great people’s achievements as if they had put …",
@@ -225,7 +251,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-23T01:33:00.000Z",
       "title": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets",
       "body": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets CNBC",
@@ -234,32 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/23/indias-tata-electronics-hit-by-cyber-breach-claiming-to-expose-apple-tesla-trade-secrets.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
-      "pubDate": "2026-06-23T01:12:08.000Z",
-      "title": "Top-Paid CEOs Smash the $200 Million Payday",
-      "body": "Top-Paid CEOs Smash the $200 Million Payday WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/articles/ceo-pay-2025-d2885ea3"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-06-22T23:32:00.000Z",
-      "title": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation",
-      "body": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/fatal-tesla-crash-into-texas-home-now-under-federal-safety-investigation-48cfeebe"
     }
   ]
 }
