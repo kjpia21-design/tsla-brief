@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-22T23:22:00.000Z",
+      "title": "칸나 하원의원, 일론에 <em>DOGE 공개 TV 토론</em> 도전장",
+      "hotShort": "칸나, 머스크에 <em>DOGE 생방송 토론</em> 도전",
+      "body": "민주당 로 칸나 하원의원이 DOGE 정책 책임을 묻겠다며 일론 머스크에게 공개 생방송 토론을 제안했다. 머스크의 정치 논란이 테슬라 브랜드 리스크로 이어진다는 인식이 지속되는 가운데, 이 대결 요구가 압박을 높일지 주목된다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-ro-khanna-doge-debate-challenge-2026-06-22",
+      "summary": "민주당 소속 로 칸나(Ro Khanna) 하원의원(캘리포니아)이 X(구 트위터)에서 DOGE(정부효율부) 정책을 둘러싼 온라인 공방 끝에 일론 머스크에게 공개 생방송 토론을 공식 제안했다. CNBC가 보도한 이번 도전은 단순 트위터 설전을 넘어 의회 차원에서 머스크의 공개 책임을 요구하는 압박 카드다.\n\n칸나 의원은 그동안 DOGE의 대규모 연방 인력 감축·예산 삭감 방식이 법적 권한 없이 진행됐다고 비판해 왔다. 머스크의 응답 여부는 불분명한 상태다.\n\n테슬라 주주 관점에서는 머스크의 DOGE 연루가 테슬라 브랜드 불매 운동 및 소비자 반감으로 이어진다는 우려가 지속돼 왔다. 이번 정치적 도전이 논란을 재점화할 경우, 단기 브랜드 압박 요인이 될 수 있다.",
+      "title_en": "Rep. Khanna challenges Musk to a <em>live televised DOGE debate</em>",
+      "hotShort_en": "Khanna dares Musk to a <em>live DOGE debate</em>",
+      "body_en": "Democratic Rep. Ro Khanna has publicly challenged Elon Musk to a televised debate on DOGE accountability, escalating a sharp online exchange. For Tesla shareholders tracking Musk's political exposure, the latest friction is another potential brand-risk variable.",
+      "summary_en": "Rep. Ro Khanna (D-CA) issued a formal public challenge to Elon Musk for a live televised debate on the Department of Government Efficiency (DOGE), following a heated back-and-forth on X over the agency's sweeping federal workforce cuts and budget reductions.\n\nKhanna, a consistent congressional critic of DOGE, argues the agency has operated beyond its legal mandate — restructuring federal agencies and cutting spending without proper legislative oversight. The public debate dare frames the challenge as a demand for direct accountability from Musk, who holds no elected office.\n\nMusk's response — if any — remains to be seen. For Tesla investors, the relevance is indirect: Musk's political activities, particularly his DOGE role, have been linked to consumer boycotts and brand-avoidance sentiment that weighed on Tesla sales in early 2026. Any flare-up that renews media focus on this dynamic is worth monitoring as a potential near-term brand risk.",
+      "href": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "46m ago",
@@ -2026,32 +2046,7 @@
       "href": "https://x.com/cybertruck/status/2066587519215698055",
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "38m ago",
-      "pubDate": "2026-06-15T18:22:15.000Z",
-      "title": "SpaceX IPO, 유럽 리테일에 <em>$6억 배정</em> — 데뷔 후 랠리 연장 전망",
-      "hotShort": "SpaceX IPO 유럽 리테일 <em>$6억 배정</em> — 랠리 지속",
-      "body": "블룸버그에 따르면 SpaceX의 블록버스터 IPO에서 유럽 리테일 투자자에게 약 6억달러어치 주식이 배정될 것으로 알려졌다. 로이터도 뉴욕 증시 역대급 데뷔 이후 주가 랠리가 연장될 것으로 전망해, 머스크의 지분 가치 상승에도 긍정적 신호가 이어지고 있다.",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-ipo-europe-600m-2026-06-15",
-      "summary": "SpaceX의 뉴욕 증시 데뷔는 2026년 미국 IPO 역대 최대 규모 중 하나로 기록됐다. 블룸버그는 공모 구조와 관련해 유럽 리테일 투자자에게 약 6억달러가 배정될 예정으로 알려졌다고 보도했다 — 이는 전통적으로 기관 중심이던 대형 IPO에서 리테일 투자자의 접근성이 높아지고 있음을 시사한다.\n\n로이터는 SpaceX가 월가 데뷔 이후 주가 랠리를 이어갈 태세라고 전했다. 상장 직후 리테일·기관 수요가 맞물리면서 단기 모멘텀이 지속될 것으로 분석된다.\n\n머스크의 SpaceX 지분은 그의 순자산 대부분을 구성한다. SpaceX 주가 상승은 머스크 개인 재산의 추가 확대를 의미하지만, 테슬라 투자자 입장에서는 머스크의 관심과 자원이 테슬라 외부로 더 분산될 가능성도 함께 감안해야 한다 — 긍정과 중립 신호가 혼재한다.",
-      "title_en": "SpaceX IPO earmarks <em>$600M</em> for European retail — rally set to extend",
-      "hotShort_en": "SpaceX IPO puts <em>$600M</em> toward European retail",
-      "body_en": "Bloomberg reports that SpaceX's blockbuster IPO is set to allocate approximately $600 million to European retail investors — a sign of the deal's global demand beyond U.S. institutions. Reuters separately reports that the stock is poised to extend its rally following a record Wall Street debut, adding further tailwind to Musk's most valuable asset.",
-      "summary_en": "SpaceX's New York IPO ranked among the largest U.S. listings of 2026. Bloomberg reports that around $600 million in shares are slated for European retail investors — a notable allocation for a deal of this scale, which traditionally skews toward institutional buyers.\n\nReuters reports that post-debut momentum is strong, with SpaceX set to extend its gains after what the outlet described as a record first-day Wall Street performance. Retail and institutional demand are reinforcing the upward trajectory.\n\nFor Tesla investors, SpaceX's IPO success carries a dual read: Musk's personal wealth expands substantially, strengthening his ability to fund initiatives across his companies. At the same time, a high-profile, publicly-traded SpaceX draws more of his executive attention away from Tesla — a dynamic worth monitoring for shareholders focused on Tesla's day-to-day leadership.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-said-to-allocate-600-million-to-european-retail-in-blockbuster-ipo",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Bloomberg",
-        "Reuters"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-06-23 08:17 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-23 10:07 KST 자동 갱신 · 최신순"
 }
