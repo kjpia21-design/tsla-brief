@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-23 16:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-23 16:28 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "47m ago",
+      "pubDate": "2026-06-23T15:41:43.000Z",
+      "title": "Iran says card-based banking hit by cyberattack on three lenders",
+      "body": "Iran says card-based banking hit by cyberattack on three lenders Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/middle-east/iran-says-card-based-banking-hit-by-cyberattack-three-lenders-2026-06-23/"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21m ago",
+      "time": "50m ago",
       "pubDate": "2026-06-23T15:39:13.000Z",
       "title": "SoFi deepens AI-powered trading ambitions with Composer deal",
       "body": "SoFi deepens AI-powered trading ambitions with Composer deal Reuters",
@@ -15,9 +28,22 @@
       "href": "https://www.reuters.com/technology/sofi-deepens-ai-powered-trading-ambitions-with-composer-deal-2026-06-23/"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "51m ago",
+      "pubDate": "2026-06-23T15:37:38.000Z",
+      "title": "Israel fire kills two in Lebanon, testing Iran-linked ceasefire",
+      "body": "Israel fire kills two in Lebanon, testing Iran-linked ceasefire Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/middle-east/israeli-gunfire-kills-two-people-south-lebanon-civil-defence-says-2026-06-23/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "44m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-23T15:17:00.000Z",
       "title": "Alphabet Stock Extends Losses as Wall Street Asks if it Remains an AI Winner",
       "body": "Alphabet Stock Extends Losses as Wall Street Asks if it Remains an AI Winner Barron's",
@@ -28,22 +54,9 @@
       "href": "https://www.barrons.com/articles/alphabet-stock-falls-ai-winner-ba46950c"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "44m ago",
-      "pubDate": "2026-06-23T15:16:33.000Z",
-      "title": "Chinese Robot Maker Gears Up for Hong Kong IPO, Sources Say",
-      "body": "Chinese Robot Maker Gears Up for Hong Kong IPO, Sources Say WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/tech/ai/softbank-backed-robot-maker-gears-up-for-hong-kong-ipo-sources-say-ef2c78a2"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "50m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-23T15:11:00.000Z",
       "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
       "body": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators The New York Times",
@@ -56,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "56m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-23T15:05:06.000Z",
       "title": "New Tesla Supercharger: Korsør, Denmark (12 stalls)",
       "body": "New Tesla Supercharger: Korsør, Denmark (12 stalls) https://t.co/8ahcewAM9e https://t.co/dbRBofJYe7",
@@ -69,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-23T14:55:44.000Z",
       "title": "New Lebanon-Israel talks begin in shadow of US-Iran deal",
       "body": "New Lebanon-Israel talks begin in shadow of US-Iran deal Reuters",
@@ -82,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-23T14:47:31.000Z",
       "title": "Chip stocks plunge, but bargain-hunters stem losses in other tech names",
       "body": "Chip stocks plunge, but bargain-hunters stem losses in other tech names Reuters",
@@ -95,20 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-06-23T14:47:31.000Z",
-      "title": "Chip stocks plunge, but bargain-hunters stem losses in other tech names",
-      "body": "Chip stocks plunge, but bargain-hunters stem losses in other tech names Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/media-telecom/nasdaq-100-set-shed-over-1-trillion-tech-selloff-deepens-spacex-slides-2026-06-23/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-23T14:47:31.000Z",
       "title": "Chip stocks plunge, but bargain-hunters stem losses in other tech names",
       "body": "Chip stocks plunge, but bargain-hunters stem losses in other tech names Reuters",
@@ -122,14 +122,27 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
-      "pubDate": "2026-06-23T14:25:34.000Z",
-      "title": "Germany",
-      "body": "Germany WSJ",
+      "pubDate": "2026-06-23T14:47:31.000Z",
+      "title": "Chip stocks plunge, but bargain-hunters stem losses in other tech names",
+      "body": "Chip stocks plunge, but bargain-hunters stem losses in other tech names Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/media-telecom/nasdaq-100-set-shed-over-1-trillion-tech-selloff-deepens-spacex-slides-2026-06-23/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T14:42:00.000Z",
+      "title": "Carnival Says Iran War Disrupted Bookings, Issues Soft Outlook",
+      "body": "Carnival Says Iran War Disrupted Bookings, Issues Soft Outlook WSJ",
       "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/topics/place/germany"
+      "href": "https://www.wsj.com/business/earnings/carnival-says-iran-war-disrupted-bookings-issues-soft-outlook-ebb24c52"
     },
     {
       "category": "fsd",
@@ -160,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-23T13:52:15.000Z",
       "title": "EU to ramp up Meta probe into addictive design, Bloomberg News reports",
       "body": "EU to ramp up Meta probe into addictive design, Bloomberg News reports Reuters",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-23T13:46:00.000Z",
       "title": "Traders Look for Bottom in Gold",
       "body": "Traders Look for Bottom in Gold WSJ",
@@ -186,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-23T13:45:00.000Z",
       "title": "Nasdaq Moves Lower as Tech Selloff Deepens",
       "body": "Nasdaq Moves Lower as Tech Selloff Deepens WSJ",
@@ -199,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-23T13:39:00.000Z",
       "title": "Treasury Yields Fall as Oil Prices Slip",
       "body": "Treasury Yields Fall as Oil Prices Slip WSJ",
@@ -210,34 +223,21 @@
       "href": "https://www.wsj.com/finance/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-fe9eb621"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-23T13:28:57.000Z",
-      "title": "Ukraine's Zelenskiy to skip Poland reconstruction forum amid row",
-      "body": "Ukraine's Zelenskiy to skip Poland reconstruction forum amid row Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/aerospace-defense/ukraines-pm-head-delegation-reconstruction-conference-poland-2026-06-23/"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "3h ago",
       "pubDate": "2026-06-23T13:24:07.000Z",
       "title": "Stocks",
-      "body": "Stocks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "body": "Stocks Bloomberg",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/profile/person/25519298"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
       "pubDate": "2026-06-23T13:07:26.000Z",
       "title": "Porsche's promised comeback does little to calm investors over China",
@@ -251,7 +251,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-23T12:58:21.000Z",
       "title": "Finland may approve Tesla's supervised self-driving software before EU vote",
       "body": "Finland may approve Tesla's supervised self-driving software before EU vote Reuters",
