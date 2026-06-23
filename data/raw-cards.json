@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-06-23 09:54 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-23 10:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9m ago",
-      "pubDate": "2026-06-23T09:44:51.000Z",
+      "time": "12m ago",
+      "pubDate": "2026-06-23T09:48:50.000Z",
       "title": "Donald Trump",
       "body": "Donald Trump AP News",
       "sourceName": "AP News",
@@ -17,7 +17,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "54m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-23T09:00:30.000Z",
       "title": "This Megafactory Is a Test Case for the U.S.-China Tech Race",
       "body": "This Megafactory Is a Test Case for the U.S.-China Tech Race The New York Times",
@@ -26,6 +26,45 @@
       "slug": "",
       "summary": "",
       "href": "https://www.nytimes.com/2026/06/23/business/economy/china-megafactory-us-tech-race.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-06-23T08:47:20.000Z",
+      "title": "I spawned an agent from Grok Build, and it’s listening to our conversations in a channel while live-editing the meeti…",
+      "body": "I spawned an agent from Grok Build, and it’s listening to our conversations in a channel while live-editing the meeting notes and taking comments from all participants. Very cool. Prompt: Monitor our discussions in [chan…",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2069341525314826744"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T08:29:44.000Z",
+      "title": "AI will make fewer and fewer mistakes such that eventually they will be unobservable to humans, equivalent to perceiv…",
+      "body": "AI will make fewer and fewer mistakes such that eventually they will be unobservable to humans, equivalent to perceived perfection.",
+      "sourceName": "Yun-Ta Tsai (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/yunta_tsai/status/2069337096675045689"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T08:04:52.000Z",
+      "title": "Stocks",
+      "body": "Stocks Bloomberg",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/profile/person/25519176"
     },
     {
       "category": "product",
@@ -106,6 +145,19 @@
       "href": "https://www.wsj.com/business/autos/tesla-notches-over-twofold-increase-in-european-monthly-sales-f8533cdc"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-06-23T05:58:00.000Z",
+      "title": "Norway-Senegal match at MetLife Stadium played as scheduled between rainstorms in New Jersey",
+      "body": "Norway-Senegal match at MetLife Stadium played as scheduled between rainstorms in New Jersey AP News",
+      "sourceName": "AP News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://apnews.com/article/norway-senegal-weather-16c0816204e5c351598b7da65649e549"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "4h ago",
@@ -121,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-23T05:25:00.000Z",
       "title": "Messi sets World Cup scoring record as defending champion Argentina advances to knockout stage",
       "body": "Messi sets World Cup scoring record as defending champion Argentina advances to knockout stage AP News",
@@ -130,32 +182,6 @@
       "slug": "",
       "summary": "",
       "href": "https://apnews.com/article/world-cup-argentina-austria-messi-3ad605618a23e1d71fc539d8c596e33e"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
-      "pubDate": "2026-06-23T04:07:00.000Z",
-      "title": "Mexico, Italy and others see up to two more months of heat stress than in the 1970s, study says",
-      "body": "Mexico, Italy and others see up to two more months of heat stress than in the 1970s, study says AP News",
-      "sourceName": "AP News",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://apnews.com/article/climate-heat-stress-feelslike-temperatures-50-days-daae5fb348e8cb587bccdf770e842611"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-23T04:06:00.000Z",
-      "title": "Does Elon Musk represent a new form of capitalism?",
-      "body": "Does Elon Musk represent a new form of capitalism? - Reuters Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/info-pages/transcript/aa71465a-a087-11ec-8680-73c03cf16654/b1c9fd44-b431-11ec-90ef-133914fde813/e63f07b8-6eb8-11f1-aac4-ef561765be4f/"
     },
     {
       "category": "stock",
@@ -210,19 +236,6 @@
       "href": "https://www.wsj.com/articles/ceo-pay-2025-d2885ea3"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
-      "pubDate": "2026-06-22T23:39:13.000Z",
-      "title": "Stocks",
-      "body": "Stocks Bloomberg",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/profile/person/25503781"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "10h ago",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/world/us/us-opens-probe-into-fatal-tesla-crash-into-texas-home-2026-06-22/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
-      "pubDate": "2026-06-22T19:42:46.000Z",
-      "title": "Deadly Tesla Crash Spurs Probe by US Auto Safety Agency",
-      "body": "Deadly Tesla Crash Spurs Probe by US Auto Safety Agency Bloomberg",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-22/deadly-tesla-crash-spurs-investigation-by-us-auto-safety-agency"
     }
   ]
 }
