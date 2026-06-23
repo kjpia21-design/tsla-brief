@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-23 20:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-23 20:13 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12m ago",
+      "time": "8m ago",
+      "pubDate": "2026-06-23T20:05:00.000Z",
+      "title": "Sharp drops in Big Tech companies pull indexes mostly lower on Wall Street",
+      "body": "Sharp drops in Big Tech companies pull indexes mostly lower on Wall Street AP News",
+      "sourceName": "AP News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://apnews.com/article/stocks-markets-us-iran-war-oil-spacex-03c6efaefd208a4b68679cdccde51cf9"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "24m ago",
       "pubDate": "2026-06-23T19:49:00.000Z",
       "title": "From peace talks to Pennsylvania: Trump shifts focus to economy in a key swing state",
       "body": "From peace talks to Pennsylvania: Trump shifts focus to economy in a key swing state AP News",
@@ -17,7 +30,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "25m ago",
+      "time": "37m ago",
       "pubDate": "2026-06-23T19:36:00.000Z",
       "title": "Trump administration announces $17.5 billion in loans for 10 new large nuclear reactors",
       "body": "Trump administration announces $17.5 billion in loans for 10 new large nuclear reactors AP News",
@@ -30,7 +43,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "30m ago",
+      "time": "42m ago",
       "pubDate": "2026-06-23T19:31:00.000Z",
       "title": "US and Iran dispute whether Tehran has agreed to nuclear inspections",
       "body": "US and Iran dispute whether Tehran has agreed to nuclear inspections AP News",
@@ -43,7 +56,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "45m ago",
+      "time": "57m ago",
       "pubDate": "2026-06-23T19:16:00.000Z",
       "title": "Ronaldo becomes first player to score in six World Cups with two goals against Uzbekistan",
       "body": "Ronaldo becomes first player to score in six World Cups with two goals against Uzbekistan AP News",
@@ -56,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "48m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-23T19:12:59.000Z",
       "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
       "body": "SpaceX raises $25 billion in debt sale less than two weeks after IPO CNBC",
@@ -65,32 +78,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "49m ago",
-      "pubDate": "2026-06-23T19:12:00.000Z",
-      "title": "Cristiano Ronaldo roars back with two goals as Portugal beats Uzbekistan 5-0 at the World Cup",
-      "body": "Cristiano Ronaldo roars back with two goals as Portugal beats Uzbekistan 5-0 at the World Cup AP News",
-      "sourceName": "AP News",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://apnews.com/article/world-cup-portugal-uzbekistan-score-ronaldo-ac743471414221618d73dfc518bbd4aa"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "55m ago",
-      "pubDate": "2026-06-23T19:05:32.000Z",
-      "title": "SpaceX shares are in turbulent times, but this ETF aims to generate income for investors",
-      "body": "SpaceX shares are in turbulent times, but this ETF aims to generate income for investors CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/23/spacex-shares-are-in-turbulent-times-but-this-etf-aims-to-generate-income-for-investors.html"
     },
     {
       "category": "musk",
@@ -106,6 +93,19 @@
       "href": "https://www.reuters.com/info-pages/transcript/e63f07b8-6eb8-11f1-aac4-ef561765be4f/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-06-23T18:57:52.000Z",
+      "title": "TSLA.F - | Stock Price & Latest News",
+      "body": "TSLA.F - | Stock Price & Latest News Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/markets/companies/TSLA.F/key-metrics/valuation/"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -119,6 +119,19 @@
       "href": "https://www.reuters.com/legal/transactional/spacex-launches-25-billion-notes-offering-source-says-2026-06-23/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T18:18:00.000Z",
+      "title": "AI stock slump raises the question if investors are just taking profits or getting very nervous",
+      "body": "AI stock slump raises the question if investors are just taking profits or getting very nervous AP News",
+      "sourceName": "AP News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -130,6 +143,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/world/middle-east/iraq-saudi-arabia-flags-will-not-be-placed-ground-world-cup-2026-06-23/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T18:10:38.000Z",
+      "title": "The Crypto Winter Turns Colder as Bitcoin Extends Its Slide",
+      "body": "The Crypto Winter Turns Colder as Bitcoin Extends Its Slide WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/finance/currencies/the-crypto-winter-turns-colder-as-bitcoin-extends-its-slide-a86d04b8?mod"
     },
     {
       "category": "fsd",
@@ -186,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-23T15:43:45.000Z",
       "title": "Currencies",
       "body": "Currencies Bloomberg",
@@ -234,32 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/legal/litigation/un-chief-calls-ai-firms-come-clean-environmental-costs-2026-06-23/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
-      "pubDate": "2026-06-23T13:24:07.000Z",
-      "title": "Stocks",
-      "body": "Stocks Bloomberg",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/profile/person/25519298"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-06-23T11:52:52.000Z",
-      "title": "Nike is trying to boost its stock through a turnaround plan. Evercore ISI sees limited upside",
-      "body": "Nike is trying to boost its stock through a turnaround plan. Evercore ISI sees limited upside CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/23/nike-is-trying-to-boost-its-stock-through-a-turnaround-plan-evercore-isi-sees-limited-upside.html"
     }
   ]
 }
