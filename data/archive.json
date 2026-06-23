@@ -1,5 +1,26 @@
 {
+  "asOf": "2026-06-23 11:00 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "20m ago",
+      "pubDate": "2026-06-23T01:40:55.000Z",
+      "title": "테슬라, 캐나다 오타와 생로랑 블루바드에 <em>수퍼차저 16기</em> 신규 개설",
+      "hotShort": "오타와 생로랑에 <em>수퍼차저 16기</em> 신규 개설",
+      "body": "테슬라 공식 충전 계정이 캐나다 오타와 생로랑 블루바드에 16기 규모 수퍼차저 스테이션 개설을 발표. 북미 전기차 충전 인프라 확장이 꾸준히 이어지고 있다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-ottawa-saint-laurent-2026-06-23",
+      "summary": "테슬라는 2026년 6월 23일 캐나다 온타리오주 오타와 생로랑 블루바드에 16기 규모의 수퍼차저 스테이션을 신규 개설했다고 공식 발표했다. 테슬라 충전 공식 계정(@TeslaCharging)이 X를 통해 개설 사실을 알렸다.\n\n오타와는 캐나다의 수도로, 이번 스테이션 개설은 테슬라의 캐나다 충전 인프라 투자가 지속되고 있음을 보여준다. 수퍼차저 네트워크 확장은 테슬라 차량 소유자의 장거리 주행 편의성을 높이고, 전기차 구매를 고려하는 소비자에게 충전 인프라 리스크를 낮추는 역할을 한다.\n\n테슬라 수퍼차저는 전 세계 최대 EV 전용 급속 충전 네트워크로, 타 브랜드 개방도 진행 중이다. 이번 오타와 개설은 단일 스테이션 뉴스이나, 지속적인 인프라 투자의 일환으로 테슬라의 캐나다 시장 입지를 강화한다.",
+      "title_en": "Tesla opens <em>16-stall Supercharger</em> station in Ottawa, ON",
+      "hotShort_en": "New <em>16-stall Supercharger</em> opens in Ottawa, ON",
+      "body_en": "Tesla's official charging account announced a new 16-stall Supercharger station at Saint Laurent Boulevard in Ottawa, Ontario — another step in the steady expansion of North America's EV charging infrastructure.",
+      "summary_en": "Tesla announced the opening of a new 16-stall Supercharger station at Saint Laurent Boulevard in Ottawa, Ontario, Canada on June 23. The official @TeslaCharging account shared the news via X.\n\nOttawa, Canada's capital, gains direct access to Tesla's rapid-charging network with this addition. The Supercharger network remains a key competitive advantage for Tesla, offering seamless long-distance travel for owners and reducing range anxiety for prospective buyers.\n\nTesla continues to expand its charging footprint across North America, with individual station openings keeping pace with the growing fleet. The network's gradual opening to non-Tesla EVs also broadens its strategic importance beyond the existing owner base.",
+      "href": "https://x.com/TeslaCharging/status/2069234211295519105",
+      "sentiment": "bull",
+      "hot": 2
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -38,7 +59,13 @@
       "summary_en": "On June 21, a Tesla Model 3 struck a home in Katy, Texas, killing a 76-year-old woman. The occupant initially claimed Tesla's Autopilot was active at the time of impact, which NHTSA cited as sufficient grounds to open a formal federal safety investigation on June 22.\n\nTesla's clarification, reported by Teslarati, directly contests that account. According to Tesla, the driver had manually deactivated FSD/Autopilot before the crash and then operated the accelerator directly — exonerating the autonomous system as a contributing cause. Tesla's vehicle telemetry logs would form the evidentiary basis for this position.\n\nThe distinction is critical for Tesla shareholders: an NHTSA finding that FSD caused the crash could lead to a software recall or operating restrictions on Autopilot features — central to Tesla's autonomous driving roadmap. Tesla's rebuttal shifts the burden toward driver error.\n\nTesla has used telemetry data in prior crash investigations to document driver inputs. While Teslarati is a credible Tesla-focused outlet, this remains a single-source report; NHTSA's formal findings will serve as the authoritative account as the investigation proceeds.",
       "href": "https://www.teslarati.com/tesla-finally-clarifies-fatal-texas-crash-confirms-driver-manually-overrode-acceleration/",
       "sentiment": "neutral",
-      "hot": 7
+      "hot": 7,
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Teslarati",
+        "WSJ",
+        "Reuters"
+      ]
     },
     {
       "category": "product",
@@ -98,7 +125,14 @@
       "summary_en": "The National Highway Traffic Safety Administration (NHTSA) routinely opens formal investigations when fatalities involve vehicles with driver-assistance systems. This Texas incident, which initially drew media attention based on the driver's claims, has now entered that formal review pathway.\n\nEarlier reports indicated the driver claimed Tesla's Autopilot was active at the time of the crash, which resulted in the death of a 76-year-old woman. The WSJ's 'Exclusive' label suggests it obtained news of the investigation's opening ahead of other outlets.\n\nAn NHTSA investigation can lead to mandatory recalls or system-level changes. Tesla has navigated multiple NHTSA inquiries and settlements over Autopilot and FSD in recent years, and this case arrives as the company is expanding FSD internationally — including recent launches in Europe and Australia.\n\nNear-term stock sensitivity will depend on how broadly this story is covered and whether further regulatory details emerge. Federal safety probes typically proceed over months to years, but the optics of a fatal crash tied to autopilot claims carry market sensitivity.",
       "href": "https://www.wsj.com/business/autos/fatal-tesla-crash-into-texas-home-now-under-federal-safety-investigation-48cfeebe",
       "sentiment": "bear",
-      "hot": 8
+      "hot": 8,
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Reuters",
+        "Bloomberg",
+        "WSJ",
+        "AP News"
+      ]
     },
     {
       "category": "stock",
@@ -2026,27 +2060,6 @@
       "href": "https://www.reuters.com/business/autos-transportation/us-connected-car-rule-prompts-ford-other-automakers-seek-licenses-china-built-2026-06-15/",
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "36m ago",
-      "pubDate": "2026-06-15T18:23:54.000Z",
-      "title": "사이버트럭 공식 계정 발표 — <em>오프로드 라이트바</em>, 테슬라샵 재입고",
-      "hotShort": "사이버트럭 <em>오프로드 라이트바</em>, 테슬라샵 재입고",
-      "body": "테슬라 사이버트럭 공식 X 계정이 오프로드 라이트바 액세서리의 테슬라샵 재입고를 공식 발표했다 — 초기 출시 직후 품절로 대기 중이던 사이버트럭 오너들은 이제 다시 주문이 가능하다.",
-      "sourceName": "Cybertruck (X)",
-      "sourceLabel": "official",
-      "slug": "product-cybertruck-offroad-lightbar-back-2026-06-15",
-      "summary": "테슬라 사이버트럭의 오프로드 라이트바는 차량 전면부에 장착하는 보조 조명 액세서리로, 야간 험로 주행 시 가시성을 높여주는 제품이다. 사이버트럭 출시 초기에 함께 선보인 이 액세서리는 수요가 공급을 초과해 빠르게 품절됐다.\n\n이번 재입고는 테슬라 사이버트럭 공식 X 계정이 직접 공지한 것으로, 테슬라샵에서 즉시 구매가 가능하다. 품절 이후 기다려온 오너들에게는 반가운 소식이다.\n\n테슬라는 차량 판매 외에 액세서리·라이프스타일 제품 라인업을 꾸준히 확장하고 있다. 오프로드 특화 액세서리는 사이버트럭의 핵심 포지셔닝인 험지 주행 능력을 뒷받침하며, 차량 구매 후 추가 수익 창출 채널로 기능한다.",
-      "title_en": "Cybertruck's <em>Off-Road Light Bar</em> is back in the Tesla Shop",
-      "hotShort_en": "Cybertruck <em>Off-Road Light Bar</em> back in Tesla Shop",
-      "body_en": "Tesla's official Cybertruck X account announced that the Off-Road Light Bar accessory has returned to the Tesla Shop. The product, which sold out shortly after its initial launch, is now available to order again for Cybertruck owners who missed the first wave.",
-      "summary_en": "The Tesla Cybertruck Off-Road Light Bar is a front-mounted auxiliary lighting accessory designed to improve visibility on uneven terrain and during nighttime off-road driving. It sold out quickly after its initial release, reflecting strong demand among Cybertruck owners for factory-official accessories.\n\nTesla's official Cybertruck X account announced the restock, confirming the product is now available for purchase in the Tesla Shop. Owners who had been waiting since the initial sellout can place orders again.\n\nBeyond this specific restock, it reflects Tesla's broader accessory strategy: extending lifetime revenue per vehicle through purpose-built add-ons. For the Cybertruck — positioned as a capable off-road and work truck — a robust accessories ecosystem enhances owner experience and differentiation from conventional pickup trucks.",
-      "href": "https://x.com/cybertruck/status/2066587519215698055",
-      "sentiment": "neutral",
-      "hot": 3
     }
-  ],
-  "asOf": "2026-06-23 10:07 KST 자동 갱신 · 최신순"
+  ]
 }

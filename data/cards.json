@@ -1,5 +1,26 @@
 {
+  "asOf": "2026-06-23 11:00 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "20m ago",
+      "pubDate": "2026-06-23T01:40:55.000Z",
+      "title": "테슬라, 캐나다 오타와 생로랑 블루바드에 <em>수퍼차저 16기</em> 신규 개설",
+      "hotShort": "오타와 생로랑에 <em>수퍼차저 16기</em> 신규 개설",
+      "body": "테슬라 공식 충전 계정이 캐나다 오타와 생로랑 블루바드에 16기 규모 수퍼차저 스테이션 개설을 발표. 북미 전기차 충전 인프라 확장이 꾸준히 이어지고 있다.",
+      "sourceName": "Tesla Charging (X)",
+      "sourceLabel": "official",
+      "slug": "product-supercharger-ottawa-saint-laurent-2026-06-23",
+      "summary": "테슬라는 2026년 6월 23일 캐나다 온타리오주 오타와 생로랑 블루바드에 16기 규모의 수퍼차저 스테이션을 신규 개설했다고 공식 발표했다. 테슬라 충전 공식 계정(@TeslaCharging)이 X를 통해 개설 사실을 알렸다.\n\n오타와는 캐나다의 수도로, 이번 스테이션 개설은 테슬라의 캐나다 충전 인프라 투자가 지속되고 있음을 보여준다. 수퍼차저 네트워크 확장은 테슬라 차량 소유자의 장거리 주행 편의성을 높이고, 전기차 구매를 고려하는 소비자에게 충전 인프라 리스크를 낮추는 역할을 한다.\n\n테슬라 수퍼차저는 전 세계 최대 EV 전용 급속 충전 네트워크로, 타 브랜드 개방도 진행 중이다. 이번 오타와 개설은 단일 스테이션 뉴스이나, 지속적인 인프라 투자의 일환으로 테슬라의 캐나다 시장 입지를 강화한다.",
+      "title_en": "Tesla opens <em>16-stall Supercharger</em> station in Ottawa, ON",
+      "hotShort_en": "New <em>16-stall Supercharger</em> opens in Ottawa, ON",
+      "body_en": "Tesla's official charging account announced a new 16-stall Supercharger station at Saint Laurent Boulevard in Ottawa, Ontario — another step in the steady expansion of North America's EV charging infrastructure.",
+      "summary_en": "Tesla announced the opening of a new 16-stall Supercharger station at Saint Laurent Boulevard in Ottawa, Ontario, Canada on June 23. The official @TeslaCharging account shared the news via X.\n\nOttawa, Canada's capital, gains direct access to Tesla's rapid-charging network with this addition. The Supercharger network remains a key competitive advantage for Tesla, offering seamless long-distance travel for owners and reducing range anxiety for prospective buyers.\n\nTesla continues to expand its charging footprint across North America, with individual station openings keeping pace with the growing fleet. The network's gradual opening to non-Tesla EVs also broadens its strategic importance beyond the existing owner base.",
+      "href": "https://x.com/TeslaCharging/status/2069234211295519105",
+      "sentiment": "bull",
+      "hot": 2
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -38,48 +59,40 @@
       "summary_en": "On June 21, a Tesla Model 3 struck a home in Katy, Texas, killing a 76-year-old woman. The occupant initially claimed Tesla's Autopilot was active at the time of impact, which NHTSA cited as sufficient grounds to open a formal federal safety investigation on June 22.\n\nTesla's clarification, reported by Teslarati, directly contests that account. According to Tesla, the driver had manually deactivated FSD/Autopilot before the crash and then operated the accelerator directly — exonerating the autonomous system as a contributing cause. Tesla's vehicle telemetry logs would form the evidentiary basis for this position.\n\nThe distinction is critical for Tesla shareholders: an NHTSA finding that FSD caused the crash could lead to a software recall or operating restrictions on Autopilot features — central to Tesla's autonomous driving roadmap. Tesla's rebuttal shifts the burden toward driver error.\n\nTesla has used telemetry data in prior crash investigations to document driver inputs. While Teslarati is a credible Tesla-focused outlet, this remains a single-source report; NHTSA's formal findings will serve as the authoritative account as the investigation proceeds.",
       "href": "https://www.teslarati.com/tesla-finally-clarifies-fatal-texas-crash-confirms-driver-manually-overrode-acceleration/",
       "sentiment": "neutral",
-      "hot": 7
+      "hot": 7,
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Teslarati",
+        "WSJ",
+        "Reuters"
+      ]
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "57m ago",
-      "pubDate": "2026-06-22T21:33:47.000Z",
-      "title": "드론 실사 — 기가 텍사스 <em>옵티머스 공장 3개월 공사 진척</em> 공개",
-      "hotShort": "기가텍사스 옵티머스 공장 <em>3개월 공사 현황</em> 공개",
-      "body": "테슬라 공장 전문 드론 취재가 조 테그트마이어(@JoeTegtmeyer)가 기가 텍사스 옵티머스 전용 공장을 3개월 전과 비교 촬영해 공개 — 공사 속도가 기대 이상임을 확인. 연간 최대 1,000만 대 생산을 목표로 착공된 이 공장은 테슬라 로봇 사업의 핵심 인프라로, 옵티머스 상용화 타임라인을 가늠하는 지표다.",
-      "sourceName": "Joe Tegtmeyer (X)",
-      "sourceLabel": "press",
-      "slug": "product-optimus-factory-giga-texas-3month-progress-2026-06-22",
-      "summary": "기가 텍사스 캠퍼스 내 옵티머스 전용 공장 구역이 불과 3개월 만에 눈에 띄게 증축된 모습이 드론 영상으로 포착됐다. 테슬라 공장 건설을 지속적으로 기록해온 조 테그트마이어는 테슬라·SpaceX 관련 현장 취재로 팔로워 수십만 명을 보유한 신뢰도 높은 현장 정보원이다.\n\n이 공장의 목표 생산 능력은 연간 최대 1,000만 대다. 일론 머스크는 옵티머스 로봇이 장기적으로 테슬라 사업가치의 상당 부분을 차지하게 될 것이라고 반복 강조해왔으며, 전용 공장 건설 진척은 그 스케일 목표를 향한 첫 번째 물리적 증거다.\n\n현재 옵티머스는 기가 텍사스 내 조립 공정에 시범 투입돼 있다. 전용 공장이 완공되면 내부 운용을 넘어 본격 양산이 가능해지며, 이는 옵티머스 상용화 타임라인의 핵심 마일스톤이 된다.\n\n공장 건설 진척 속도는 테슬라가 로봇 생산 약속을 실제 일정으로 실현할 능력을 갖추고 있음을 보여준다는 점에서 주주들에게 긍정적 신호로 해석된다.",
-      "title_en": "Drone footage reveals <em>3-month Optimus factory build progress</em> at Giga Texas",
-      "hotShort_en": "Giga TX <em>Optimus factory</em> — 3-month drone update",
-      "body_en": "Drone operator Joe Tegtmeyer has published a 3-month comparative aerial update on Tesla's Optimus humanoid robot factory at Giga Texas, showing rapid structural progress. The facility is targeting eventual annual production of ~10 million units — making its build pace a key leading indicator of Tesla's robotics ambitions.",
-      "summary_en": "The Optimus factory at Giga Texas has made visible structural strides in three months, as documented by Joe Tegtmeyer — a drone operator with hundreds of thousands of followers built on consistent aerial coverage of Tesla and SpaceX facilities. The footage provides one of the most reliable non-official windows into Tesla's on-the-ground manufacturing progress.\n\nElon Musk has set a long-term production target of up to 10 million Optimus units annually at the facility, repeatedly positioning Optimus as a potentially transformative revenue driver — one that could eventually exceed the car business in scale. The factory's build rate is therefore a meaningful leading indicator for that thesis.\n\nTesla is already deploying Optimus in limited operational roles within Giga Texas itself. The dedicated factory represents the infrastructure step needed to move beyond internal trials and into commercial production volumes at the scale Musk has described.\n\nRapid build progress is a positive signal for shareholders tracking Tesla's robotics timeline, offering concrete evidence that Tesla is investing in manufacturing capacity to back its production targets.",
-      "href": "https://x.com/JoeTegtmeyer/status/2069172017736171544",
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
-      "pubDate": "2026-06-22T21:28:31.000Z",
-      "title": "FT “스페이스X, IPO 랠리 꺾이며 시총 <em>4,000억달러 증발</em>”",
-      "hotShort": "스페이스X IPO 후 시총 <em>4,000억달러 증발</em>",
-      "body": "파이낸셜타임스(FT)가 스페이스X 상장 후 IPO 랠리가 빠르게 반전되면서 시총이 약 4,000억달러(약 554조 원) 줄었다고 보도. 머스크가 이끄는 두 상장 기업(스페이스X·테슬라)이 동시에 시장 조정 압력을 받는 가운데, '머스크 프리미엄'의 지속 가능성에 관심이 쏠린다.",
-      "sourceName": "Financial Times",
+      "pubDate": "2026-06-22T19:06:00.000Z",
+      "title": "WSJ 단독 — 텍사스 테슬라 치명 충돌, <em>연방 안전 조사 착수</em>",
+      "hotShort": "텍사스 테슬라 충돌, <em>연방 조사</em> 공식화",
+      "body": "오토파일럿 사용이 주장된 텍사스 주택 돌진 치명 사고가 WSJ 단독 보도에 따라 연방 안전 조사 대상이 됐다. 운전자 진술 단계를 넘어 규제 당국이 공식 개입한 첫 국면으로, 테슬라 FSD 확장 전략에 불확실성이 더해졌다.",
+      "sourceName": "WSJ",
       "sourceLabel": "press",
-      "slug": "musk-spacex-market-cap-400bn-loss-2026-06-22",
-      "summary": "스페이스X는 지난주 역대급 기대 속에 공개 거래를 시작하며 상장 첫날부터 폭발적 수요로 급등했다. 그러나 이후 차익 실현 매물과 고평가 우려가 겹치며 IPO 고점 대비 약 4,000억달러의 시총이 사라졌다고 파이낸셜타임스가 집계했다.\n\n스페이스X는 상장 전 비공식 세컨더리 거래 가격 대비 이미 높은 프리미엄에 상장됐던 만큼, 일부 조정은 예측된 수순이기도 하다. 공개 상장 직후 단기 차익 실현이 집중되는 것은 고관심 IPO에서 반복되는 패턴이다.\n\n테슬라 주주 입장에서 이 조정은 두 가지 측면에서 모니터링할 사안이다. 첫째, 스페이스X·테슬라 합병 시나리오를 거론해온 일부 애널리스트에게 스페이스X 밸류에이션 재조정은 수치적 기준점을 바꿀 수 있다. 둘째, 일론 머스크의 경영 집중도 리스크가 다시 부각될 수 있다.\n\n4,000억달러는 단일 거래 주간 기준으로 이례적인 규모의 시총 손실이다. 스페이스X가 향후 투자자 신뢰를 어떻게 복원하는지가 머스크 생태계 전반의 시장 신뢰도에 영향을 줄 전망이다.",
-      "title_en": "FT: SpaceX sheds <em>$400bn in market value</em> as post-IPO rally hits reverse",
-      "hotShort_en": "SpaceX <em>sheds $400bn</em> as IPO rally reverses",
-      "body_en": "The Financial Times reports that SpaceX's debut market surge has sharply reversed, wiping out approximately $400bn in market value from its post-IPO peak. The selloff puts the 'Musk premium' thesis under scrutiny as both of Musk's major listed companies face concurrent market pressure.",
-      "summary_en": "SpaceX launched to extraordinary investor enthusiasm, with its stock surging sharply from the opening of public trading. The Financial Times has now tallied the reversal: approximately $400bn in market capitalization has been erased from SpaceX's peak post-IPO valuation as the rally unwound.\n\nThe correction reflects a combination of short-term profit-taking from investors who entered at IPO pricing and broader concern about premium valuations. SpaceX had already been priced above its pre-IPO secondary-market levels, making some post-debut recalibration structurally anticipated.\n\nFor Tesla shareholders, SpaceX's trajectory carries indirect relevance. Analysts who have floated Tesla-SpaceX merger scenarios will need to revisit their valuation frameworks as SpaceX's market price resets. More broadly, simultaneous pressure on both flagship Musk companies tests whether the premium investors assign to Musk-led ventures holds across a down cycle.\n\nThe $400bn figure represents one of the larger single-week paper value erosions for a newly public company. How SpaceX stabilizes from here will shape market confidence in the broader Musk ecosystem.",
-      "href": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
+      "slug": "fsd-texas-crash-federal-investigation-2026-06-22",
+      "summary": "미국 도로교통안전국(NHTSA)은 운전자 보조 시스템 작동이 관련된 사망 사고에 대해 공식 조사를 개시하는 절차를 밟아왔다. WSJ이 단독 보도한 텍사스 사건도 이 경로를 따라 연방 안전 조사 단계에 공식 진입했다.\n\n앞서 보도에 따르면 사고 당시 운전자는 오토파일럿 기능이 활성화된 상태였다고 주장했으며, 사고로 76세 여성이 사망한 것으로 전해진다. WSJ이 'Exclusive(단독)' 표기를 붙인 만큼, 연방 조사 착수 정보를 가장 먼저 포착한 보도다.\n\nNHTSA 공식 조사가 개시되면 리콜 또는 시스템 변경 명령으로 이어질 수 있다. 테슬라는 과거 오토파일럿·FSD 관련 다수의 NHTSA 조사와 합의를 거쳐왔으며, 이번 사건은 FSD의 유럽·호주 등 국제 확장이 본격화된 시기와 맞물려 규제 압박이 가중될 수 있다는 우려를 낳는다.\n\n단기적으로 안전 규제 이슈 부각에 따른 주가 하방 압력을 줄 수 있다. 연방 조사는 수개월에서 수년이 소요될 수 있어 사안의 전개를 지속 추적할 필요가 있다.",
+      "title_en": "WSJ Exclusive: Fatal Tesla Crash Into Texas Home <em>Under Federal Safety Investigation</em>",
+      "hotShort_en": "Tesla Texas crash <em>under federal probe</em>",
+      "body_en": "A fatal Tesla crash into a Texas home — in which the driver claimed autopilot was engaged — has been referred to federal safety investigators, according to a WSJ exclusive. The escalation from driver claims to a formal federal probe adds new regulatory uncertainty to Tesla's FSD expansion.",
+      "summary_en": "The National Highway Traffic Safety Administration (NHTSA) routinely opens formal investigations when fatalities involve vehicles with driver-assistance systems. This Texas incident, which initially drew media attention based on the driver's claims, has now entered that formal review pathway.\n\nEarlier reports indicated the driver claimed Tesla's Autopilot was active at the time of the crash, which resulted in the death of a 76-year-old woman. The WSJ's 'Exclusive' label suggests it obtained news of the investigation's opening ahead of other outlets.\n\nAn NHTSA investigation can lead to mandatory recalls or system-level changes. Tesla has navigated multiple NHTSA inquiries and settlements over Autopilot and FSD in recent years, and this case arrives as the company is expanding FSD internationally — including recent launches in Europe and Australia.\n\nNear-term stock sensitivity will depend on how broadly this story is covered and whether further regulatory details emerge. Federal safety probes typically proceed over months to years, but the optics of a fatal crash tied to autopilot claims carry market sensitivity.",
+      "href": "https://www.wsj.com/business/autos/fatal-tesla-crash-into-texas-home-now-under-federal-safety-investigation-48cfeebe",
       "sentiment": "bear",
-      "hot": 6
+      "hot": 8,
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Reuters",
+        "Bloomberg",
+        "WSJ",
+        "AP News"
+      ]
     }
-  ],
-  "asOf": "2026-06-23 10:07 KST 자동 갱신 · 최신순"
+  ]
 }
