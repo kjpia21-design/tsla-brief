@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-23T19:12:59.000Z",
+      "title": "스페이스X, IPO 2주 만에 <em>$250억 채권</em> 조달 완료 — $890억 수요 압도",
+      "hotShort": "스페이스X, <em>$250억 채권</em> IPO 2주 만에 조달 완료",
+      "body": "CNBC에 따르면 스페이스X가 사상 첫 투자등급 채권 발행으로 IPO 이후 불과 2주 만에 $250억을 조달했다 — 블룸버그가 집계한 $890억의 기관 수요(발행액의 약 3.6배)를 기반으로 낮은 금리를 확보하며, 기관 채권시장에서도 머스크 기업 생태계의 자금 조달력을 재확인했다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-89b-bond-demand-2026-06-23",
+      "summary": "스페이스X는 2026년 6월 23일 사상 첫 투자등급(하이그레이드) 채권 발행을 마감하고 $250억 조달에 성공했다. CNBC가 보도한 이번 완결은 IPO 이후 불과 2주 이내에 이루어졌으며, 신규 상장 기업이 이 짧은 시간 안에 기관 하이그레이드 채권 시장에 진입해 거래를 완결한 것은 이례적이다.\n\n블룸버그가 앞서 보도한 $890억의 기관 수요는 실제 조달 규모($250억)의 약 3.6배에 달한다. 이 같은 오버서브스크립션은 발행 금리를 낮추는 직접 요인으로 작용했으며, 스페이스X는 최저 수준의 이자 비용으로 장기 자금을 확보하는 데 성공했다. 전날 블룸버그는 스페이스X가 $1,000억 이상의 현금을 보유하고 있다고 별도 보도했다 — 이 배경에서 $250억 채권 발행은 긴급 자금 충당이 아닌 재무 구조 최적화 전략으로 읽힌다.\n\n투자등급 채권 첫 발행 성공은 채권 시장이 스페이스X를 최우량 차입자로 인정했음을 의미한다. 이는 향후 추가 채권 발행 시 더욱 유리한 조건을 보장하는 선례가 되며, 스페이스X가 주식 외에도 저비용 부채 시장을 자유롭게 활용할 수 있음을 확인해줬다.\n\n테슬라 주주에게 스페이스X의 독립적 자금 조달력은 간접적으로 중요하다. 스페이스X가 채권 시장에서 독자적으로 대규모 자금을 확보할 수 있다는 점은 테슬라 자원에 대한 의존도를 낮추며, 스페이스X·테슬라 합병 논의가 활발한 상황에서 스페이스X 밸류에이션의 재무적 근거를 강화한다.",
+      "title_en": "SpaceX closes debut <em>$25B bond</em> two weeks after IPO — backed by $89B in orders",
+      "hotShort_en": "SpaceX <em>$25B bond</em> closes on $89B in orders",
+      "body_en": "CNBC reports SpaceX has raised $25 billion through its debut investment-grade bond offering, closing just two weeks after its IPO — against an $89 billion order book confirmed by Bloomberg, the deal's roughly 3.6x oversubscription allowed SpaceX to lock in favorable long-term borrowing rates on its first high-grade debt market debut.",
+      "summary_en": "SpaceX completed its inaugural investment-grade bond offering on June 23, raising $25 billion from institutional buyers, per CNBC. The closing came within two weeks of the company's IPO — an exceptionally fast timeline for a newly public company to close a high-grade bond deal, signaling that bond markets treated SpaceX as a seasoned blue-chip borrower from the moment it went public.\n\nBloomberg had previously reported the order book for this transaction reached $89 billion — approximately 3.6 times the amount ultimately raised. This level of oversubscription directly compressed the bond's yield (interest rate), allowing SpaceX to borrow at a more favorable rate than a less-demanded deal would have achieved. Bloomberg separately noted the prior day that SpaceX carries more than $100 billion in cash, framing the $25B bond as financial architecture rather than capital necessity.\n\nA heavily oversubscribed debut in the investment-grade market establishes SpaceX's creditor standing and creates a favorable precedent for future issuances. Investment-grade issuers typically access the lowest borrowing costs in corporate debt markets, and SpaceX's ability to price at the tightest end of the range positions it for cost-effective capital access going forward.\n\nFor Tesla shareholders, SpaceX's strong independent financing capacity carries indirect relevance in two ways. First, a well-capitalized SpaceX is less likely to require resource transfers from Tesla, keeping Tesla's strategic focus intact. Second, as Tesla-SpaceX merger speculation remains an active market narrative — per Bloomberg's concurrent June 23 report on shareholders positioning for that scenario — SpaceX's demonstrated ability to raise large amounts of low-cost debt strengthens the financial foundation of any combined entity investors are modeling.",
+      "href": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "Bloomberg"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-06-23T19:11:04.000Z",
+      "title": "NHTSA, 텍사스 테슬라 FSD 사망 사고 <em>특별 조사</em> 착수 — 테슬라 \"운전자가 FSD 수동 개입\"",
+      "hotShort": "NHTSA, 텍사스 FSD 사망 사고 <em>특별 조사</em>",
+      "body": "미국 NHTSA가 텍사스 가정집에 테슬라가 돌진해 76세 노인이 숨진 사고에 대해 특별 조사를 개시했다 — 더버지는 테슬라가 충돌 당시 운전자가 FSD를 수동으로 직접 오버라이드했다고 공식 주장한다고 보도하며, 규제 당국 조사와 테슬라 항변이 정면 대결 국면으로 접어들었다.",
+      "sourceName": "The Verge",
+      "sourceLabel": "press",
+      "slug": "fsd-nhtsa-special-probe-texas-fsd-2026-06-23",
+      "summary": "NHTSA의 '특별 조사(Special Crash Investigation, SCI)'는 고도 운전자 보조 시스템(ADAS) 또는 자율주행 기술이 관련된 치명 사고를 전담 수사관이 현장에 직접 파견해 조사하는 절차다. 일반 안전 분류 조사나 예비 검토보다 격이 높으며, NHTSA 수사관이 사고 현장·차량·데이터 로그를 직접 수집·분석한다. 이번 대상은 텍사스 가정집에 테슬라가 돌진해 76세 주민이 숨진 사건이다.\n\n테슬라는 더버지를 통해 충돌 당시 운전자가 FSD(Full Self-Driving)를 직접 수동으로 오버라이드했다고 공식 입장을 밝혔다. 이는 자율주행이 작동 중에 사고가 났다는 탑승자 초기 진술을 정면 반박하며 FSD에 기술적 결함이 없다는 항변이다. '수동 개입' 타이밍과 방식이 조사의 핵심 쟁점이 될 전망이다.\n\nNHTSA SCI 결과는 FSD 기술에 이상이 없다는 불처분, 소프트웨어 업데이트 의무, FSD 특정 기능 제한, 또는 전면 소환(Recall)으로 이어질 수 있다. 테슬라는 과거 NHTSA 자율주행 관련 조사에서 차량 텔레메트리 데이터를 근거로 '운전자 과실' 항변을 반복해왔으며, 이번에도 같은 경로를 밟는 구도다.\n\n사이버캡 상용 출시 준비가 가속화되는 시점에서 FSD 치명 사고 특별 조사는 단기 규제 리스크를 높인다. 조사 결과가 테슬라에 불리할 경우 FSD 확장 타임라인과 사이버캡 규제 승인 경로에 직접 영향을 줄 수 있다. 반대로 '운전자 과실' 결론이 나면 FSD 기술 무결성 논거가 강화되는 선례가 된다.",
+      "title_en": "NHTSA opens <em>special crash probe</em> into fatal Texas Tesla strike — Tesla says driver manually overrode FSD",
+      "hotShort_en": "NHTSA <em>special probe</em> into fatal Texas Tesla FSD crash",
+      "body_en": "NHTSA, the U.S.'s top auto safety regulator, has launched a special crash investigation into a Tesla that struck a Texas home and killed a 76-year-old — The Verge reports Tesla claims the driver manually overrode FSD at the time of impact, setting up a high-stakes regulatory contest over the role of Tesla's self-driving system in the crash.",
+      "summary_en": "NHTSA's Special Crash Investigation (SCI) program dispatches agency investigators directly to the scene of high-profile crashes involving advanced vehicle technology. This is a distinct and elevated tier of NHTSA inquiry — above a preliminary examination or standard defect complaint — with on-site evidence gathering, physical crash reconstruction, and vehicle data extraction performed by NHTSA's own personnel. The Texas crash, in which a Tesla vehicle struck a residential home and killed a 76-year-old occupant, has triggered this heightened response.\n\nTesla's official position, as reported by The Verge, is that the driver manually overrode FSD (Full Self-Driving) at the moment of impact. This directly counters the earlier account from the vehicle's occupants suggesting Autopilot was active during the crash. Tesla's 'driver override' defense is a central point of contention: whether the investigation validates or refutes it will depend on the vehicle telemetry data Tesla provides and the independent findings NHTSA generates from its on-site reconstruction.\n\nAn NHTSA SCI can produce a range of outcomes: no regulatory action if the technology is found non-defective, mandatory over-the-air software updates if a specific system behavior is flagged, operational restrictions, or a formal recall. Tesla has historically submitted detailed telemetry logs in crash disputes to support driver-error arguments, and this investigation will test whether that evidence base holds up under NHTSA's independent scrutiny.\n\nFor Tesla shareholders, the stakes extend well beyond this single crash. The SCI outcome is being watched as a precedent for how the U.S. government adjudicates FSD liability — and its conclusions will directly shape the regulatory pathway for the broader Cybercab driverless deployment program, which is currently ramping production at Giga Texas.",
+      "href": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "The Verge",
+        "AP News"
+      ],
+      "sentiment": "bear",
+      "hot": 7
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "27m ago",
@@ -21,26 +71,50 @@
       "hot": 5
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-23T16:16:02.000Z",
-      "title": "스페이스X 첫 투자등급 채권에 <em>$890억 수요 쇄도</em> — 블룸버그",
-      "hotShort": "스페이스X 첫 채권, <em>$890억 수요</em> 폭발적 반응",
-      "body": "블룸버그에 따르면 스페이스X가 사상 첫 투자등급(하이그레이드) 채권 공모에 $890억의 수요가 쏟아졌다 — IPO 이후 채권시장에서도 기관투자자들의 압도적 신뢰가 확인되며 일론 머스크 기업 생태계의 자금 조달력이 재입증됐다.",
-      "sourceName": "Bloomberg",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-23T12:51:43.000Z",
+      "title": "로이터 — EU 표결 앞서 핀란드, 테슬라 <em>FSD 독자 승인</em> 나선다",
+      "hotShort": "핀란드, EU보다 먼저 테슬라 <em>FSD 독자 허용</em> 검토",
+      "body": "핀란드가 EU 집행위의 감독형 자율주행 소프트웨어 공식 표결을 기다리지 않고 테슬라 FSD(감독형)를 국가 차원에서 먼저 승인하는 방안을 검토 중이라고 로이터가 보도했다. EU 회원국이 블록 차원 규제 이전에 독자 허가를 추진한 첫 사례로, 실현 시 유럽 내 FSD 확산에 속도가 붙을 전망이다.",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
-      "slug": "musk-spacex-89b-bond-demand-2026-06-23",
-      "summary": "$890억 달러의 수요는 스페이스X의 첫 투자등급 채권 공모에 투자자들이 몰린 규모를 뜻한다. 블룸버그가 공개한 이 수치는 회사채 시장이 스페이스X를 최우량 차입자로 인정했다는 의미로 해석된다.\n\n스페이스X는 IPO 성공 이후 처음으로 투자등급 회사채 시장에 진출했다. 투자등급 채권은 신용도가 높은 기업에 부여되며, 발행금리가 낮아 장기·저비용 자금 조달에 유리하다. 전일(6월 22일) 블룸버그는 스페이스X가 $1,000억 이상의 현금을 보유하고 있다고 별도 보도한 바 있다 — 이 배경에서 이번 채권 발행은 여유 현금을 저금리 부채로 최적화하는 재무 전략에 가깝다.\n\n$890억 규모의 수요는 통상 채권 발행 규모를 수십 배 이상 상회하는 것이 일반적이다. 이 정도의 오버서브스크립션은 발행금리를 낮추고, 향후 추가 자금 조달 시에도 유리한 선례로 작용한다.\n\n테슬라 주주에게 스페이스X의 재무 안정성은 간접적으로 중요하다. 머스크가 다중 기업을 운영하는 상황에서 스페이스X가 독립적으로 자금을 충분히 조달할 수 있다는 점은 테슬라에 대한 머스크의 집중도와 테슬라 자원 배분을 지지하는 요소다. 아울러 일부 기관투자자들이 베팅하는 '스페이스X·테슬라 합병 시나리오'에서도 스페이스X의 건강한 재무 구조는 딜 가능성을 높이는 요인으로 꼽힌다.",
-      "title_en": "SpaceX debut high-grade bond draws <em>$89 billion in demand</em> — Bloomberg",
-      "hotShort_en": "SpaceX debut bond pulls <em>$89B in orders</em>",
-      "body_en": "SpaceX's first-ever investment-grade bond sale attracted $89 billion in demand, Bloomberg reported — an overwhelming show of institutional confidence in Elon Musk's empire just months after the company's landmark IPO.",
-      "summary_en": "The $89 billion figure represents the total book of orders submitted by institutional investors for SpaceX's debut investment-grade bond offering. Per Bloomberg, the demand level signals that bond markets view SpaceX as a blue-chip borrower, commanding the same creditor confidence as the largest established corporations.\n\nSpaceX achieved its investment-grade credit rating and moved to issue high-grade bonds following its recent IPO. Investment-grade issuers borrow at meaningfully lower interest rates than speculative issuers, giving SpaceX access to long-duration, low-cost financing — a powerful tool for capital-intensive projects including Starship, Starlink expansion, and manufacturing scale.\n\nBloomberg separately reported the prior day that SpaceX holds more than $100 billion in cash. In that context, the bond issuance appears less a capital emergency and more a financial optimization: replacing idle cash with cheap tax-deductible debt, while establishing SpaceX's standing in the investment-grade credit market for future use.\n\nFor Tesla shareholders, SpaceX's strong independent financial footing carries indirect relevance. A well-capitalized SpaceX reduces any pressure on Musk to lean on Tesla for resources, supports the ongoing institutional debate around a Tesla-SpaceX combination, and demonstrates the growing financial firepower of Musk's overall ecosystem.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-23/spacex-draws-89-billion-demand-for-debut-high-grade-bond-sale",
-      "confirmedBy": 1,
+      "slug": "fsd-finland-fsd-approval-before-eu-vote-2026-06-23",
+      "summary": "로이터 단독 보도에 따르면 핀란드 당국이 테슬라의 FSD(감독형 자율주행 소프트웨어)에 대한 국내 독자 승인 절차를 검토 중이며, EU 집행위원회 차원의 공식 표결이 완료되기 이전에 이를 허가하는 방안을 들여다보고 있다.\n\nEU 내 자율주행·첨단운전자보조시스템(ADAS) 소프트웨어 승인은 통상 EU 차원의 기술 기준 심의를 거친다. 그러나 회원국들은 일정 조건에서 국내법적 재량권을 활용해 별도 허가를 선제적으로 내릴 수 있으며, 핀란드는 이 재량권의 법적 근거를 적극 검토 중인 것으로 알려졌다.\n\n전날(22일) 로이터는 스웨덴의 속도 제한 규정이 FSD 유럽 확장의 단기 변수라고 보도한 바 있다. 핀란드의 움직임은 이와 별개로 '회원국 단위 독자 선행 허가'라는 새로운 경로를 보여주며, EU 표준 확정 이전에도 일부 국가가 시장을 먼저 열 수 있음을 시사한다.\n\n핀란드 승인이 실현될 경우 EU 내 FSD 첫 공식 허용국이 되고, 유사한 재량권을 가진 다른 회원국들에도 선례가 될 수 있다. 다만 보도 시점에서 핀란드 당국은 아직 최종 결정을 내리지 않은 상태이며, EU 통합 기준과의 조화 문제가 변수로 남아 있다.",
+      "title_en": "Finland weighs <em>solo FSD approval</em> before EU-wide vote — potential first in the bloc",
+      "hotShort_en": "Finland mulls <em>solo FSD</em> nod ahead of EU vote",
+      "body_en": "Finland is weighing national approval of Tesla's FSD (Supervised) ahead of an EU-wide regulatory vote, Reuters reports — making it potentially the first EU member state to grant independent authorization for supervised autonomous driving software. If finalized, the move could accelerate FSD's European rollout without waiting for bloc-wide regulatory consensus.",
+      "summary_en": "According to Reuters, Finnish authorities are examining whether the country can grant domestic authorization for Tesla's FSD (Supervised) software by leveraging EU member-state regulatory discretion, ahead of a bloc-level vote on autonomous driving standards.\n\nUnder the EU regulatory framework, Advanced Driver Assistance Systems (ADAS) software typically requires alignment with common EU technical standards before broad deployment. However, member states retain discretionary authority to issue nationally scoped approvals under certain conditions — and Finland is exploring whether that authority applies here.\n\nThis follows a June 22 Reuters report identifying Sweden's speed limit regulations as a near-term variable for FSD's European expansion. Finland's approach represents a distinct strategy: seeking a country-level green light before the EU-wide process concludes, rather than waiting for harmonized standards.\n\nShould Finland's review conclude positively, Tesla would gain its first official EU-jurisdiction FSD approval — setting a precedent that similarly minded member states could follow. As of the Reuters report, no final decision has been made, and alignment with EU-wide standards remains an open question.",
+      "href": "https://www.reuters.com/business/autos-transportation/finland-may-approve-teslas-supervised-self-driving-software-before-eu-vote-2026-06-23/",
       "sentiment": "bull",
-      "hot": 6
+      "hot": 7
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "9h ago",
+      "pubDate": "2026-06-23T06:20:00.000Z",
+      "title": "WSJ — 테슬라 유럽 월간 판매 <em>전년 대비 2배 이상 급증</em>",
+      "hotShort": "테슬라 유럽 월간 판매 <em>2배 이상 급증</em> — WSJ",
+      "body": "WSJ가 테슬라의 유럽 월간 판매가 전년 동기 대비 두 배 이상 늘었다고 보도했다. 로이터도 5월 유럽 EV 수요 전반이 강세를 기록했다고 교차 확인 — 브랜드 회복 모멘텀이 실수치로 뒷받침되고 있다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-eu-monthly-sales-double-2026-06-23",
+      "summary": "5월 유럽 자동차 시장 데이터가 공개되면서, 테슬라의 유럽 회복세가 마침내 수치로 확인됐다. WSJ는 테슬라의 유럽 월간 판매가 전년 동기 대비 두 배 이상 급증했다고 보도했으며, 로이터 역시 같은 날 5월 유럽 EV 수요 전반이 강세를 나타냈다고 보도해 두 주요 매체의 교차 보도가 이뤄졌다.\n\n올해 초 테슬라는 유럽 일부 시장에서 브랜드 이미지 논란과 판매 부진을 겪었다. 전년 동기 대비 두 배 이상의 급증은 단순한 기저효과를 넘어 실질적인 수요 회복을 시사하며, 유럽 브랜드 위기 내러티브를 실수치로 반박하는 가장 직접적인 근거다.\n\n유럽은 테슬라 글로벌 인도량에서 중요한 비중을 차지하는 시장이다. 2분기 인도량 발표가 임박한 시점에서 유럽 강세가 확인된 것은 투자자에게 긍정적인 선행 지표가 된다. 단, 로이터는 같은 5월 데이터에서 중국 경쟁사들의 유럽 점유율도 계속 확대되고 있다고 보도한 만큼, 절대 성장과 점유율 방어를 함께 주목해야 한다.",
+      "title_en": "WSJ: Tesla's European monthly sales <em>more than double</em> year-on-year",
+      "hotShort_en": "Tesla EU sales <em>surged 2x+</em> YoY — WSJ",
+      "body_en": "WSJ reports Tesla's European monthly sales surged more than twofold year-on-year, with Reuters simultaneously confirming broad EV demand strength across Europe in May — hard data now backing the brand recovery narrative.",
+      "summary_en": "The release of May European auto registration data has produced one of the most concrete signals yet that Tesla's European recovery is accelerating. WSJ's report of a more-than-twofold year-on-year increase in monthly European sales is a sharp reversal from the early-2026 narrative of brand headwinds and softer demand in key European markets.\n\nThe data carries added weight through corroboration: Reuters reported the same day that overall EV demand powered the European car market in May. The dual confirmation from two major business publications strengthens the signal and reduces the risk of reporting noise from a single outlier source.\n\nFor shareholders focused on Q2 2026 delivery expectations, the European data is a material positive. Europe contributes meaningfully to Tesla's global delivery volumes, and a 2x-plus monthly increase would represent a substantial sequential improvement heading into the Q2 report. The European recovery narrative is now backed by hard numbers.\n\nOne note of caution: Reuters also noted that Chinese EV rivals continued to expand their European market share in May. Tesla's absolute recovery is clear; whether it is gaining or losing market share against intensifying Chinese competition will be a key question to watch in upcoming quarterly disclosures.",
+      "href": "https://www.wsj.com/business/autos/tesla-notches-over-twofold-increase-in-european-monthly-sales-f8533cdc",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "WSJ",
+        "Reuters"
+      ],
+      "sentiment": "bull",
+      "hot": 7
     }
   ],
-  "asOf": "2026-06-24 03:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-24 07:10 KST 자동 갱신 · 최신순"
 }
