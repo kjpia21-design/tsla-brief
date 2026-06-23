@@ -1,6 +1,50 @@
 {
-  "asOf": "2026-06-23 22:45 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "31m ago",
+      "pubDate": "2026-06-23T13:29:43.000Z",
+      "title": "로이터 — 스페이스X 누적 손실 $6,000억 속 <em>나스닥 $1조 셀오프</em> 재개",
+      "hotShort": "나스닥 $1조 셀오프 재개 — 기술주 <em>하락 압력 지속</em>",
+      "body": "스페이스X의 IPO 이후 누적 손실이 $6,000억을 넘어선 가운데, 로이터는 나스닥100이 이날 $1조 이상 추가 하락할 것으로 예고됐다고 보도했다. 테슬라를 포함한 기술주 전반의 셀오프가 재개된 상황으로, TSLA 주가에 단기 하방 압력이 지속될 전망이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-spacex-losses-tech-selloff-2026-06-23",
+      "summary": "로이터 보도에 따르면 스페이스X는 IPO 고점 대비 누적 $6,000억 이상의 손실을 기록하며 낙폭을 더욱 키우고 있다. 전날(22일) 파이낸셜타임스가 보도한 \"4,000억달러 증발\"에 이어 추가 하락이 이어진 것으로, 상장 이후 반락 추세가 안정을 찾지 못하고 있다.\n\n이날 나스닥100은 $1조 이상 하락이 예고되는 등 기술주 전반의 셀오프가 다시 한번 재개됐다. 로이터는 이를 'slide again(재차 하락)'으로 표현했으며, 단기 반등 없이 매도세가 이어지는 구도임을 시사했다.\n\n테슬라는 나스닥100 구성 종목으로, 광범위한 기술주 하락 환경에서 개별 기업 이슈와 무관하게 지수 연동 매도 압력에 노출된다. 유럽 판매 호조·FSD 유럽 진출 등 기업 차원의 긍정적 흐름이 이어지고 있음에도, 매크로 리스크오프 환경이 단기 주가를 억누르는 국면이다.\n\n다만 이번 셀오프는 테슬라 고유 리스크가 아니라 스페이스X 실망 매물과 광범위한 기술주 재평가에 따른 것으로, 기업 펀더멘탈과 장기 투자 논리는 분리해 판단할 필요가 있다.",
+      "title_en": "SpaceX loss deepens past <em>$600B</em> as tech-wide selloff resumes — Nasdaq-100 eyes $1T+ drop",
+      "hotShort_en": "Tech selloff deepens after <em>$600B SpaceX rout</em>",
+      "body_en": "SpaceX's post-IPO rout has extended to a cumulative $600B wipeout, with Reuters reporting the Nasdaq-100 is set to shed more than $1 trillion as the tech selloff resumes. Tesla, as a Nasdaq-100 constituent, faces continued index-level selling pressure alongside broader tech peers.",
+      "summary_en": "Reuters reports that SpaceX shares extended losses on June 23, pushing the cumulative post-IPO wipeout past $600 billion — up from roughly $400 billion reported the prior session. The trajectory suggests the post-IPO decline has not found a floor.\n\nThe Nasdaq-100 faces more than $1 trillion in additional downside during the same session. Reuters characterized the move as tech stocks sliding 'again,' signaling multiple consecutive sessions of broad-based selling pressure rather than a single-day correction.\n\nFor Tesla shareholders, the mechanism is index-level exposure: TSLA is a Nasdaq-100 constituent and moves in part with broader tech under macro risk-off conditions. This is unrelated to Tesla-specific fundamentals — the company's European sales recovery and FSD regulatory progress in Finland and Sweden represent company-level tailwinds running in parallel.\n\nThe practical implication is near-term stock price headwinds from macro conditions rather than company execution. Long-term Tesla themes — energy storage expansion, FSD monetization, Cybercab rollout — remain decoupled from this index-level selling event.",
+      "href": "https://www.reuters.com/business/media-telecom/nasdaq-100-set-shed-over-1-trillion-tech-selloff-deepens-spacex-slides-2026-06-23/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "Bloomberg"
+      ],
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-06-23T12:51:43.000Z",
+      "title": "로이터 — EU 표결 앞서 핀란드, 테슬라 <em>FSD 독자 승인</em> 나선다",
+      "hotShort": "핀란드, EU보다 먼저 테슬라 <em>FSD 독자 허용</em> 검토",
+      "body": "핀란드가 EU 집행위의 감독형 자율주행 소프트웨어 공식 표결을 기다리지 않고 테슬라 FSD(감독형)를 국가 차원에서 먼저 승인하는 방안을 검토 중이라고 로이터가 보도했다. EU 회원국이 블록 차원 규제 이전에 독자 허가를 추진한 첫 사례로, 실현 시 유럽 내 FSD 확산에 속도가 붙을 전망이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-finland-fsd-approval-before-eu-vote-2026-06-23",
+      "summary": "로이터 단독 보도에 따르면 핀란드 당국이 테슬라의 FSD(감독형 자율주행 소프트웨어)에 대한 국내 독자 승인 절차를 검토 중이며, EU 집행위원회 차원의 공식 표결이 완료되기 이전에 이를 허가하는 방안을 들여다보고 있다.\n\nEU 내 자율주행·첨단운전자보조시스템(ADAS) 소프트웨어 승인은 통상 EU 차원의 기술 기준 심의를 거친다. 그러나 회원국들은 일정 조건에서 국내법적 재량권을 활용해 별도 허가를 선제적으로 내릴 수 있으며, 핀란드는 이 재량권의 법적 근거를 적극 검토 중인 것으로 알려졌다.\n\n전날(22일) 로이터는 스웨덴의 속도 제한 규정이 FSD 유럽 확장의 단기 변수라고 보도한 바 있다. 핀란드의 움직임은 이와 별개로 '회원국 단위 독자 선행 허가'라는 새로운 경로를 보여주며, EU 표준 확정 이전에도 일부 국가가 시장을 먼저 열 수 있음을 시사한다.\n\n핀란드 승인이 실현될 경우 EU 내 FSD 첫 공식 허용국이 되고, 유사한 재량권을 가진 다른 회원국들에도 선례가 될 수 있다. 다만 보도 시점에서 핀란드 당국은 아직 최종 결정을 내리지 않은 상태이며, EU 통합 기준과의 조화 문제가 변수로 남아 있다.",
+      "title_en": "Finland weighs <em>solo FSD approval</em> before EU-wide vote — potential first in the bloc",
+      "hotShort_en": "Finland mulls <em>solo FSD</em> nod ahead of EU vote",
+      "body_en": "Finland is weighing national approval of Tesla's FSD (Supervised) ahead of an EU-wide regulatory vote, Reuters reports — making it potentially the first EU member state to grant independent authorization for supervised autonomous driving software. If finalized, the move could accelerate FSD's European rollout without waiting for bloc-wide regulatory consensus.",
+      "summary_en": "According to Reuters, Finnish authorities are examining whether the country can grant domestic authorization for Tesla's FSD (Supervised) software by leveraging EU member-state regulatory discretion, ahead of a bloc-level vote on autonomous driving standards.\n\nUnder the EU regulatory framework, Advanced Driver Assistance Systems (ADAS) software typically requires alignment with common EU technical standards before broad deployment. However, member states retain discretionary authority to issue nationally scoped approvals under certain conditions — and Finland is exploring whether that authority applies here.\n\nThis follows a June 22 Reuters report identifying Sweden's speed limit regulations as a near-term variable for FSD's European expansion. Finland's approach represents a distinct strategy: seeking a country-level green light before the EU-wide process concludes, rather than waiting for harmonized standards.\n\nShould Finland's review conclude positively, Tesla would gain its first official EU-jurisdiction FSD approval — setting a precedent that similarly minded member states could follow. As of the Reuters report, no final decision has been made, and alignment with EU-wide standards remains an open question.",
+      "href": "https://www.reuters.com/business/autos-transportation/finland-may-approve-teslas-supervised-self-driving-software-before-eu-vote-2026-06-23/",
+      "sentiment": "bull",
+      "hot": 7
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -2015,46 +2059,7 @@
       "href": "https://www.teslarati.com/apple-developing-missing-link-tesla-carplay-report/",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-06-16T14:47:33.000Z",
-      "title": "미국 의원들, 테슬라 FSD <em>안전 데이터 검토</em> 공식 요청 — 로이터 보도 인용",
-      "hotShort": "미 의원들, 테슬라 FSD <em>안전 데이터 검토</em> 요청",
-      "body": "미국 의원 복수가 로이터의 FSD 안전 데이터 단독 보도를 인용해 테슬라 FSD 안전 기록에 대한 공식 검토를 요청했다 — 지난주 로이터가 테슬라가 유럽 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다고 보도한 데 이어, 미국 의회까지 규제 압박에 가세하며 FSD 감독 의제가 대서양 양안으로 확산됐다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "fsd-senators-fsd-safety-review-2026-06-16",
-      "summary": "로이터가 지난주 테슬라가 유럽 자동차 규제기관에 FSD 안전 데이터를 오해를 불러일으키는 방식으로 제출했다는 단독 조사 보도를 낸 데 이어, 이번엔 미국 의회 차원의 공식 반응이 나왔다. 로이터에 따르면 복수의 미국 의원이 해당 보도를 인용해 테슬라 FSD 안전 데이터에 대한 공식 검토를 요청했다.\n\n이번 움직임은 FSD 규제 서사가 '유럽 규제기관 vs. 테슬라' 프레임에서 벗어나 미국 연방 의회까지 확산됐음을 의미한다. 미국 의원들이 공식 서한이나 청문회 요청을 통해 FSD 데이터 투명성 문제를 제기하면, NHTSA 등 연방 교통 안전 기관이 실사 절차에 돌입할 수 있다.\n\n테슬라 사이버캡과 FSD 기반 로보택시 상용화는 테슬라 장기 성장 스토리의 핵심이다. 규제 신뢰도는 이 타임라인의 가장 중요한 변수 중 하나다. 미국 의회 차원의 데이터 검토 요청이 공식화되면 FSD 확장 일정·인허가 절차에 추가 불확실성 요인이 더해질 수 있다. 다만 이번 단계는 '검토 요청'에 해당하므로, 실제 규제 조치로 이어지기까지는 추가적인 절차와 시간이 필요하다.",
-      "title_en": "U.S. senators formally request review of Tesla's <em>FSD safety data</em>",
-      "hotShort_en": "Senators call for formal <em>FSD safety data</em> review",
-      "body_en": "Multiple U.S. senators have formally requested a review of Tesla's Full Self-Driving safety data, citing Reuters' exclusive investigation — the congressional escalation follows last week's Reuters report alleging Tesla submitted misleading FSD safety data to European automotive regulators, and signals that legislative scrutiny of FSD oversight is now active on both sides of the Atlantic.",
-      "summary_en": "Last week, Reuters published an exclusive investigation alleging that Tesla presented misleading FSD safety data to European automotive regulators. The report has now prompted a formal congressional response: multiple U.S. senators have cited the Reuters investigation in a request for a formal review of Tesla's FSD safety records.\n\nThe move signals that the FSD safety data narrative is no longer confined to European regulatory proceedings. When U.S. legislators formally request a review — typically via official letters to relevant agencies — it can trigger inquiries by federal bodies such as NHTSA, which oversees autonomous vehicle safety standards in the United States.\n\nFor Tesla investors, FSD and Cybercab robotaxi commercialization are central to the long-term valuation thesis. Regulatory trust is the most critical variable in that timeline. A congressional-level data review request adds an additional layer of scrutiny to an already active FSD oversight environment and could introduce further uncertainty around U.S. federal approval timelines for expanded autonomous operation.\n\nIt is worth noting that this stage represents a request for review — not a regulatory finding or enforcement action. The path from congressional request to formal agency action involves its own procedural steps. The near-term question is whether Tesla responds publicly to the senators' request and provides additional transparency around the FSD safety data at issue.",
-      "href": "https://www.reuters.com/legal/litigation/us-senators-ask-review-teslas-full-self-driving-safety-data-citing-reuters-2026-06-16/",
-      "sentiment": "bear",
-      "hot": 7
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
-      "pubDate": "2026-06-16T14:05:30.000Z",
-      "title": "골드만삭스, 테슬라 <em>2분기 인도량 기대 상회</em> 전망 공개",
-      "hotShort": "골드만삭스, 테슬라 2Q 인도 <em>기대 이상</em> 전망",
-      "body": "골드만삭스가 6월 말 마감 예정인 테슬라 2분기 인도량이 월가 예상치를 웃돌 것이라는 기대를 내놓았다고 테슬라라티가 보도했다 — 대형 투자은행이 분기 마감 직전에 '예상 상회' 전망을 공개한 것은 7월 초 인도 발표를 앞두고 주주 심리를 뒷받침하는 긍정 신호다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "stock-goldman-tsla-q2-delivery-expectations-2026-06-16",
-      "summary": "골드만삭스가 테슬라의 2분기(4~6월) 인도량이 월가 컨센서스를 웃돌 것으로 기대한다는 전망을 내놨다고 테슬라라티가 보도했다. 2분기 마감은 6월 말이며, 테슬라는 통상 분기 종료 직후 며칠 안에 인도 실적을 발표한다. 이번 전망이 나온 시점은 분기 인도량 집계가 사실상 마무리 단계에 접어드는 시기다.\n\n골드만삭스는 글로벌 주요 기관투자은행 중 테슬라를 커버하는 곳으로, 분기 마감 전에 인도량 기대를 높이는 것은 실물 수요와 물류 흐름을 반영한 판단이다. 테슬라라티 보도에는 골드만삭스가 제시한 구체적인 인도량 수치가 명시되지 않았으나, '컨센서스 상회' 방향 자체가 분기 실적에 대한 긍정적 선행 신호다.\n\n테슬라 주주 입장에서 대형 투자은행의 분기 전 '기대 상회' 전망은 7월 초 예정된 2분기 인도량 발표에서 주주에게 우호적인 숫자가 나올 가능성을 높이는 심리적 선행 지표다. 인도량이 실제로 컨센서스를 상회하면 마진·수익성 개선 서사와 맞물려 TSLA에 추가 상승 모멘텀을 제공할 수 있다.",
-      "title_en": "Goldman Sachs expects Tesla's <em>Q2 deliveries to beat</em> Wall Street estimates",
-      "hotShort_en": "Goldman: Tesla Q2 deliveries to <em>beat estimates</em>",
-      "body_en": "Goldman Sachs expects Tesla to report stronger-than-expected delivery numbers for the second quarter ending in late June, according to Teslarati — a bullish pre-delivery call from one of Wall Street's largest investment banks as the Q2 reporting window approaches.",
-      "summary_en": "Goldman Sachs has signaled it expects Tesla's second-quarter (April–June) vehicle deliveries to come in above Wall Street consensus estimates, according to Teslarati. The second quarter ends in late June, and Tesla typically publishes its delivery results within the first few business days of July — meaning Goldman's positive call arrives as the actual delivery count nears its final tally.\n\nGoldman Sachs is one of the major institutional banks actively covering Tesla. A pre-quarter delivery upgrade from a bank of this caliber typically reflects signal derived from supply chain and order-flow tracking, suggesting the physical delivery pace has held up better than baseline assumptions. Teslarati did not publish a specific delivery figure from Goldman's estimate, so the exact magnitude of the expected outperformance is not confirmed from the raw report; the directional call — 'stronger than expected' — is the confirmed core of the signal.\n\nFor Tesla shareholders, this is a near-term bullish setup ahead of the Q2 delivery report expected in early July. If deliveries come in above consensus, the result typically provides support for TSLA on the delivery report day and can strengthen the margin and profitability narrative going into the Q2 earnings call later in the month.",
-      "href": "https://www.teslarati.com/tesla-tsla-deliveries-big-boost-in-expectations-wall-street/",
-      "sentiment": "bull",
-      "hot": 6
     }
-  ]
+  ],
+  "asOf": "2026-06-23 22:29 KST 자동 갱신 · 최신순"
 }
