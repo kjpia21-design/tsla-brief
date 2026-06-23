@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-23 04:03 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-23 06:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T04:27:00.000Z",
+      "title": "Does Elon Musk represent a new form of capitalism?: podcast",
+      "body": "Does Elon Musk represent a new form of capitalism?: podcast Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/finance/does-elon-musk-represent-new-form-capitalism-podcast-2026-06-23/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T03:39:00.000Z",
+      "title": "Woodside inks gas supply agreement with Alcoa Australia",
+      "body": "Woodside inks gas supply agreement with Alcoa Australia Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/energy/woodside-inks-gas-supply-agreement-with-alcoa-australia-2026-06-23/"
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "31m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-23T03:32:11.000Z",
       "title": "Chivalry isn’t dead",
       "body": "Chivalry isn’t dead https://t.co/Fzn3nyLhh6",
@@ -15,35 +41,22 @@
       "href": "https://x.com/cybertruck/status/2069262213907693766"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "31m ago",
-      "pubDate": "2026-06-23T03:32:11.000Z",
-      "title": "The Market’s AI Fanfare Is Running Into a Harsh Political Reality",
-      "body": "The Market’s AI Fanfare Is Running Into a Harsh Political Reality WSJ",
-      "sourceName": "WSJ",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-23T03:27:34.000Z",
+      "title": "Hey @RoKhanna can you give us stock tips? I heard your return is insane.",
+      "body": "Hey @RoKhanna can you give us stock tips? I heard your return is insane. https://t.co/aACkNvoUyy https://t.co/yuKtI7l3Eg",
+      "sourceName": "Tesla Owners SV (X)",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/tech/ai/the-markets-ai-fanfare-is-running-into-a-harsh-political-reality-b919829b"
+      "href": "https://x.com/teslaownersSV/status/2069261053767418303"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "44m ago",
-      "pubDate": "2026-06-23T03:19:00.000Z",
-      "title": "China's 618 shopping festival growth slows sharply as consumer spending malaise persists",
-      "body": "China's 618 shopping festival growth slows sharply as consumer spending malaise persists CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-23T02:54:00.000Z",
       "title": "'I like their money': Trump threatens lawsuits against ABC for reporting on Reflecting Pool",
       "body": "'I like their money': Trump threatens lawsuits against ABC for reporting on Reflecting Pool CNBC",
@@ -56,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-23T02:38:03.000Z",
       "title": "The problem with Hollywood is that after portraying a few great men, women, and superheroes in a fraction of a lifeti…",
       "body": "The problem with Hollywood is that after portraying a few great men, women, and superheroes in a fraction of a lifetime, they believe they deserve the same credit for those great people’s achievements as if they had put …",
@@ -67,22 +80,22 @@
       "href": "https://x.com/yunta_tsai/status/2069248589063504225"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-23T02:13:16.000Z",
-      "title": "Staff Picks",
-      "body": "Staff Picks CNBC",
-      "sourceName": "CNBC",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-06-23T02:34:00.000Z",
+      "title": "US gives Philippines solar-powered sea drones to boost maritime surveillance",
+      "body": "US gives Philippines solar-powered sea drones to boost maritime surveillance Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/staff-picks/"
+      "href": "https://www.reuters.com/world/china/united-states-gives-philippines-four-underwater-vehicles-worth-13-million-2026-06-23/"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-23T01:40:55.000Z",
       "title": "New Tesla Supercharger: Ottawa, ON - Saint Laurent Boulevard (16 stalls)",
       "body": "New Tesla Supercharger: Ottawa, ON - Saint Laurent Boulevard (16 stalls) https://t.co/1mltYY5Nwd https://t.co/n4S09i6Ynn",
@@ -95,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-23T01:33:00.000Z",
       "title": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets",
       "body": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets CNBC",
@@ -108,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-23T01:12:08.000Z",
       "title": "Top-Paid CEOs Smash the $200-Million Payday",
       "body": "Top-Paid CEOs Smash the $200-Million Payday WSJ",
@@ -121,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-23T01:12:08.000Z",
       "title": "Top-Paid CEOs Smash the $200-Million Payday",
       "body": "Top-Paid CEOs Smash the $200-Million Payday WSJ",
@@ -134,20 +147,33 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-23T00:33:00.000Z",
-      "title": "Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees `overhang' disappearing",
-      "body": "Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees `overhang' disappearing CNBC",
-      "sourceName": "CNBC",
+      "time": "5h ago",
+      "pubDate": "2026-06-23T00:35:00.000Z",
+      "title": "Oil inches down as investors focus on Hormuz flows after peace talks",
+      "body": "Oil inches down as investors focus on Hormuz flows after peace talks Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/amp/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html"
+      "href": "https://www.reuters.com/business/energy/oil-gains-after-selloff-awaits-progress-strait-hormuz-flows-2026-06-23/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
+      "pubDate": "2026-06-23T00:34:00.000Z",
+      "title": "'Ride or Die' TV series roots road trip action-comedy in female duo's bond",
+      "body": "'Ride or Die' TV series roots road trip action-comedy in female duo's bond Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/media-telecom/ride-or-die-tv-series-roots-road-trip-action-comedy-female-duos-bond-2026-06-23/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "6h ago",
       "pubDate": "2026-06-22T23:55:00.000Z",
       "title": "Top auto regulator opens special probe after a Tesla slams into a Texas home, killing a 76-year-old",
       "body": "Top auto regulator opens special probe after a Tesla slams into a Texas home, killing a 76-year-old AP News",
@@ -160,7 +186,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-22T23:39:13.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -173,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-22T23:32:00.000Z",
       "title": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation",
       "body": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation WSJ",
@@ -186,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-22T23:32:00.000Z",
       "title": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation",
       "body": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation WSJ",
@@ -195,37 +221,24 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/business/autos/fatal-tesla-crash-into-texas-home-now-under-federal-safety-investigation-48cfeebe"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
-      "pubDate": "2026-06-22T23:17:24.000Z",
-      "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk",
-      "body": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/asia-pacific/five-eyes-intelligence-alliance-warns-that-new-ai-models-pose-urgent-cyber-risk-2026-06-22/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-06-22T22:34:28.000Z",
-      "title": "Lucid Is Cutting 18% of Its U.S. Workforce. Why the EV Maker Is Struggling.",
-      "body": "Lucid Is Cutting 18% of Its U.S. Workforce. Why the EV Maker Is Struggling. Barron's",
-      "sourceName": "Barron's",
+      "time": "7h ago",
+      "pubDate": "2026-06-22T23:17:53.000Z",
+      "title": "Hedge fund to pay Avis $650mn in settlement after wild stock swings",
+      "body": "Hedge fund to pay Avis $650mn in settlement after wild stock swings Financial Times",
+      "sourceName": "Financial Times",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/lucid-cuts-workforce-stock-price-9abb4cf8"
+      "href": "https://www.ft.com/content/b925c391-6c50-44a2-acb1-c5ff97b56a86?syn-25a6b1a6"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-22T19:51:00.000Z",
       "title": "US opens probe of fatal Tesla crash into Texas home",
       "body": "US opens probe of fatal Tesla crash into Texas home Reuters",
@@ -238,7 +251,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-22T19:42:46.000Z",
       "title": "Deadly Tesla Crash Spurs Probe by US Auto Safety Agency",
       "body": "Deadly Tesla Crash Spurs Probe by US Auto Safety Agency Bloomberg.com",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-06-22/deadly-tesla-crash-spurs-investigation-by-us-auto-safety-agency"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
-      "pubDate": "2026-06-22T19:08:17.000Z",
-      "title": "Nvidia's stock struggles as Kalshi traders bet chip prices are coming down",
-      "body": "Nvidia's stock struggles as Kalshi traders bet chip prices are coming down CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/22/nvidias-stock-struggles-as-kalshi-traders-bet-chip-prices-are-coming-down.html"
     }
   ]
 }
