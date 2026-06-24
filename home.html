@@ -70,6 +70,13 @@
   .nav__links{display:flex;align-items:center;gap:13px;font-size:13px;font-weight:700;color:var(--ink-mid)}
   .nav__links a{text-decoration:none}
   .nav__lang{border:1px solid var(--line);border-radius:99px;padding:4px 10px;font-size:11.5px;background:var(--card)}
+  /* 헤더 검색창 — 입력 후 제출 시 /news?q= 로 이동(전체 뉴스 검색 진입점) */
+  .nav-search{flex:1;min-width:0;margin:0 10px;display:flex;align-items:center;gap:7px;height:36px;padding:0 13px;background:#fff;border:1px solid var(--line);border-radius:99px;box-shadow:0 1px 3px rgba(0,0,0,.04);transition:border-color .15s}
+  .nav-search:focus-within{border-color:var(--ink-mute)}
+  .nav-search__icon{width:15px;height:15px;flex:none;color:var(--ink-mute)}
+  .nav-search__input{flex:1;min-width:0;border:0;background:none;outline:none;font:600 13px/1 inherit;color:var(--ink);-webkit-appearance:none}
+  .nav-search__input::placeholder{color:var(--ink-mute);font-weight:500}
+  .nav-search__input::-webkit-search-cancel-button{-webkit-appearance:none;height:13px;width:13px;background:var(--ink-mute);border-radius:99px;-webkit-mask:url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M6 6l12 12M18 6L6 18' stroke='black' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E") center/contain no-repeat;cursor:pointer}
 
   /* ── 주가 티커 (sticky, 현행 데이터 훅 유지) ── */
   .price-bar{position:sticky;top:57px;z-index:25;background:rgba(242,244,246,.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line-mute)}
@@ -219,6 +226,10 @@
 <header class="nav">
   <div class="nav__inner">
     <a class="brand" href="/" aria-label="Tesla Briefing — 홈">Tesla <span class="brand__b">Brief<em>!</em>ng</span></a>
+    <form class="nav-search" role="search" aria-label="뉴스 검색" action="news.html" method="get">
+      <svg class="nav-search__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input type="search" name="q" class="nav-search__input" placeholder="뉴스 검색" aria-label="뉴스 검색" autocomplete="off">
+    </form>
     <nav class="nav__links" aria-label="Primary">
       <a class="nav__lang" href="/en/" hreflang="en" aria-label="English">EN</a>
     </nav>
