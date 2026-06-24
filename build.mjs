@@ -647,6 +647,9 @@ const EN_FONT_LINKS = `<link rel="stylesheet" href="https://fonts.googleapis.com
 // 정적 UI 문구 한→영 (en 페이지 chrome). 긴 문자열을 앞에 둬 부분치환 방지. 카드 본문은 _en 으로 이미 영어.
 const UI_EN = [
   // 긴 문자열을 최상단에(부분치환 방지)
+  // 기사 상세 disclaimer (영어판 — 한국어판 '번역·요약' 문구의 영어 대응)
+  ["번역·요약은 <b>Tesla Briefing</b> 편집부가 한국어로 정리한 것이며, 원문의 모든 뉘앙스를 담지 않을 수 있습니다.", "Summaries are prepared by the <b>Tesla Briefing</b> editorial team and may not capture every nuance of the original reporting."],
+  ["투자 결정의 책임은 본인에게 있습니다.", "You are solely responsible for your own investment decisions."],
   // 토스형 홈(B′) 신규 문자열 — 긴 것 먼저
   ["실적·제품·FSD·일론까지, 흩어진 뉴스를 정리해 보내드립니다 · 평일 발행 · 무료", "Earnings, products, FSD and Elon — the scattered news, distilled · weekdays · free"],
   ["매일 아침 7시, 한 통의 브리핑 📨", "One briefing, every morning at 7 📨"],
