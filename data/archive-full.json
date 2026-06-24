@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-24 12:22 UTC · 누적 448건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-24 13:55 UTC · 누적 447건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-24T10:31:00.000Z",
+      "title": "바론스 — 스페이스X·테슬라 하락 겹쳐 머스크 <em>조만장자 지위 반납</em>",
+      "hotShort": "머스크, 테슬라·스페이스X 하락에 <em>조만장자 지위 반납</em>",
+      "body": "스페이스X 주가 하락과 테슬라 부진이 겹치며 일론 머스크가 1조달러 이상 자산가(조만장자) 지위를 잃었다고 바론스가 보도했다 — 테슬라 주가가 머스크 개인 자산의 핵심 변수임을 재확인하는 사례로, 두 회사 주가 회복 여부가 지위 복귀의 열쇠가 된다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "musk-elon-trillionaire-status-lost-2026-06-24",
+      "summary": "일론 머스크의 순자산은 비상장 스페이스X 지분·테슬라 주식·X(구 트위터) 등 여러 자산의 합산으로 결정된다. 이 중 테슬라 주식은 실시간 시장 가격에 따라 등락하는 공개 변수이며, 스페이스X는 직원 주식 매각(텐더 오퍼)을 통해 형성된 비공개 시장 가치가 기준점이 된다. 바론스에 따르면 두 자산이 동시에 하락하며 머스크의 총 자산이 1조달러 아래로 떨어졌다.\n\n이번 하락의 배경에는 6월 23일 미국 증시를 강타한 기술주·반도체주 전반의 매도세가 있다. 스페이스X 역시 이 흐름에서 자유롭지 못했으며, 테슬라 주가도 함께 약세를 보이며 머스크의 포트폴리오 전반에 하락 압력이 가해졌다.\n\n조만장자 지위는 머스크가 2026년 초 스페이스X 가치 급등과 테슬라 주가 회복이 맞물리며 세계 최초로 넘어선 임계치다. 이번 바론스 보도는 이 지위가 고정이 아닌 유동적이며, 두 핵심 자산 중 하나라도 크게 흔들리면 지위가 변할 수 있음을 보여준다.\n\n테슬라 주주 관점에서 이 소식은 테슬라 주가 자체가 세계 최대 부자의 자산 구성에서 결정적 변수라는 사실을 부각시킨다. 테슬라 주가 회복이 이뤄진다면 머스크의 조만장자 지위 복귀 가능성도 함께 높아지는 구조이며, 이는 머스크의 테슬라 집중도와 의사결정에 영향을 줄 수 있는 요인이다.",
+      "title_en": "SpaceX stock, Tesla woes strip Elon Musk of <em>trillionaire status</em>",
+      "hotShort_en": "Musk loses <em>trillionaire</em> to Tesla woes",
+      "body_en": "Elon Musk has lost his trillionaire status as SpaceX's stock valuation fell and Tesla shares came under pressure, Barron's reports — underscoring Tesla's role as a critical variable in Musk's net worth and making a recovery in both companies' values the key to reclaiming the $1 trillion threshold.",
+      "summary_en": "Elon Musk's net worth is determined by a combination of his SpaceX equity, Tesla shares, and stakes in X and other ventures. Tesla is the publicly traded component that moves in real time with market prices, while SpaceX establishes valuation benchmarks through periodic employee share tender offers. According to Barron's, a concurrent decline in both core assets pushed Musk's aggregate net worth below the $1 trillion threshold.\n\nThe trigger was the broad technology and semiconductor selloff of June 23, which affected SpaceX alongside wider tech names. Tesla shares also declined in the same session, with the combined pressure from both major holdings pulling the aggregate below the milestone level.\n\nThe trillionaire status was a threshold Musk first crossed in early 2026, when SpaceX's surging valuation and Tesla's stock recovery aligned to push his net worth past $1 trillion — making him the first confirmed trillionaire in history. The Barron's report highlights that this mark is dynamic, not permanent: a recovery in either core holding could restore the threshold.\n\nFor Tesla investors, the takeaway is that Tesla stock is directly connected to how the world's most prominent technologist allocates attention and capital. A sustained Tesla share price recovery would mechanically contribute to restoring the milestone — an unusual and concrete reminder that Musk's personal financial position and Tesla's market performance remain closely linked.",
+      "href": "https://www.barrons.com/articles/spacex-stock-tesla-elon-musk-trillionaire-03ae2d09",
+      "sentiment": "bear",
+      "hot": 5
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
