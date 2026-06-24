@@ -1,5 +1,26 @@
 {
+  "asOf": "2026-06-24 11:30 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T23:39:00.000Z",
+      "title": "로이터 — 캘리포니아 차량 위치추적 의무화, 유예 없으면 <em>자동차 판매 중단 가능</em>",
+      "hotShort": "캘리포니아 추적법 강행 시 <em>자동차 판매 중단 위기</em>",
+      "body": "로이터에 따르면 캘리포니아 차량 위치추적 의무화 법안이 적용 유예 없이 시행될 경우, 자동차 제조사들이 주 내 판매를 전면 중단할 수 있다고 경고했다. 미국 최대 자동차 시장인 캘리포니아에서의 판매 중단 가능성은 테슬라를 포함한 주요 자동차 업체에 상당한 매출 리스크.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "product-california-vehicle-tracking-law-2026-06-23",
+      "summary": "캘리포니아 당국이 추진하는 차량 위치추적 의무화 법안이 시행 유예 없이 강행될 경우 자동차 제조사들이 주 내 차량 판매를 중단할 수 있다고 로이터가 보도했다. 법안이 제조사의 준비 기간을 고려하지 않고 예정대로 적용될 경우, 법적 준수를 즉시 충족하기 어려운 업체들이 극단적 대응에 나설 수 있다는 것이다.\n\n캘리포니아는 미국 최대 자동차 시장이자 전기차 보급의 최전선 주다. 테슬라의 경우 캘리포니아 시장이 국내 판매의 핵심 지역 가운데 하나로, 이 지역에서 판매가 중단될 경우 분기 인도 실적에 직접적인 영향이 불가피하다.\n\n법 시행 유예 여부가 이번 사태의 핵심 변수다. 규제 당국과 자동차 업계 간 향후 협의 결과에 따라 판매 중단 가능성이 현실화될 수도, 무산될 수도 있다. 캘리포니아의 규제 방향은 전국 자동차 시장에 파급 효과를 미치는 경우가 많아 향후 추이가 주목된다.",
+      "title_en": "Reuters: Automakers may halt California car sales over <em>vehicle tracking mandate</em>",
+      "hotShort_en": "CA tracking law may <em>halt car sales</em>",
+      "body_en": "Automakers could suspend vehicle sales in California if the state's vehicle location-tracking mandate takes effect without an implementation delay, Reuters reports. California is the largest U.S. auto market, making any sales halt a material revenue risk for Tesla and its peers operating in the state.",
+      "summary_en": "California's vehicle location tracking mandate is set to take effect without any implementation delay for automakers, per Reuters. If the law proceeds as scheduled and manufacturers cannot immediately meet compliance requirements, some could suspend car sales in the state rather than sell non-compliant vehicles.\n\nCalifornia is both the largest U.S. auto market and the country's leading EV market, which makes any potential sales disruption consequential for automakers across the board. For Tesla specifically, California represents a disproportionate share of its domestic delivery volume, and a sales pause — even a short-term one — could weigh directly on quarterly delivery results.\n\nThe central variable is whether California regulators provide automakers with a compliance grace period. If no delay is granted and manufacturers follow through on halting sales, this would also raise broader questions about the pace and scope of vehicle connectivity mandates — a regulatory trend that extends well beyond California's borders.",
+      "href": "https://www.reuters.com/business/autos-transportation/automakers-could-halt-car-sales-california-without-delay-vehicle-tracking-law-2026-06-23/",
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -2044,32 +2065,6 @@
       ],
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
-      "pubDate": "2026-06-16T18:06:07.000Z",
-      "title": "리비안, 수익성 압박에 전체 인력 <em>약 2% 감원</em> — 수백 명 해고",
-      "hotShort": "리비안, 수익성 압박에 <em>2% 인력 감축</em>",
-      "body": "미국 EV 스타트업 리비안이 전체 임직원의 약 2%에 해당하는 수백 명을 감원한다고 밝혔다 — 흑자 전환 일정을 앞당기기 위한 비용 절감으로, EV 업계의 마진 경쟁이 한층 심화되고 있음을 보여준다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "product-rivian-layoff-profitability-2026-06-16",
-      "summary": "로이터와 WSJ이 동시에 보도한 이번 감원은 리비안이 수익성 로드맵에서 비용 구조를 재정비하는 일환이다. 리비안은 아마존의 배달용 전기밴 주요 납품사이자 R1T·R1S 전기 픽업트럭·SUV 메이커로, 전기차 시장에서 주목받는 스타트업이다.\n\n최근 EV 업계는 수요 성장세 둔화와 완성차 가격 경쟁 격화, 배터리 원가 압박 속에서 수익성 달성이 최우선 과제로 부상했다. 리비안의 감원 결정은 이 같은 업계 전반의 흐름을 반영한 선택이다.\n\n테슬라 투자자에게 이 소식은 상대적 경쟁 우위를 확인하는 신호다 — 규모 경제와 수직 계열화를 이미 선점한 테슬라와 달리, 리비안은 여전히 비용 구조 최적화를 위한 구조조정이 필요한 단계다. EV 시장의 수익성 장벽이 후발 업체들에 더 가파르게 작용하고 있다.",
-      "title_en": "Rivian lays off hundreds of workers in <em>profitability push</em>",
-      "hotShort_en": "Rivian cuts ~<em>2% of workforce</em> in profitability drive",
-      "body_en": "EV startup Rivian is laying off hundreds of workers — about 2% of its workforce — as the company intensifies its push toward profitability, Reuters and the WSJ report.",
-      "summary_en": "The workforce reduction, confirmed by both Reuters and the WSJ, reflects Rivian's effort to reshape its cost structure as it works toward breakeven. Rivian supplies Amazon's electric delivery vans and sells the R1T pickup and R1S SUV to consumers — a dual-revenue model that has yet to reach profitability.\n\nAcross the EV startup sector, moderating demand growth, price competition from established automakers, and battery cost pressures have made achieving sustainable margins the defining challenge. Rivian's restructuring mirrors decisions seen at other EV entrants navigating similar pressures.\n\nFor Tesla investors, Rivian's layoffs serve as a contrast to Tesla's position. Tesla has already scaled past the critical cost inflection points — achieving positive free cash flow, vertical integration across the supply chain, and a global charging infrastructure — that newer entrants are still working toward. The structural cost gap between incumbents and challengers in EVs remains wide.",
-      "href": "https://www.reuters.com/business/autos-transportation/rivian-lays-off-hundreds-workers-wsj-reports-2026-06-16/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "WSJ"
-      ],
-      "sentiment": "bull",
-      "hot": 4
     }
-  ],
-  "asOf": "2026-06-24 07:10 KST 자동 갱신 · 최신순"
+  ]
 }
