@@ -1,23 +1,36 @@
 {
-  "asOf": "2026-06-24 12:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-24 12:22 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8m ago",
-      "pubDate": "2026-06-24T11:52:00.000Z",
-      "title": "France Detects First Ebola Case Outside Africa In Current Outbreak",
-      "body": "France Detects First Ebola Case Outside Africa In Current Outbreak Barron's",
-      "sourceName": "Barron's",
+      "time": "16m ago",
+      "pubDate": "2026-06-24T12:07:00.000Z",
+      "title": "Chinese Supercomputer Overtakes U.S. as World’s Fastest",
+      "body": "Chinese Supercomputer Overtakes U.S. as World’s Fastest WSJ",
+      "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/news/france-detects-first-ebola-case-outside-africa-in-current-outbreak-1df87317"
+      "href": "https://www.wsj.com/tech/ai/chinese-supercomputer-overtakes-u-s-as-worlds-fastest-d0f8dbff"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "20m ago",
+      "pubDate": "2026-06-24T12:02:59.000Z",
+      "title": "U.S. Allows Iran to Sell Oil in Dollars for First Time in Decades",
+      "body": "U.S. Allows Iran to Sell Oil in Dollars for First Time in Decades WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/world/middle-east/vance-says-iran-agreed-to-allow-nuclear-inspectors-back-in-209db17c"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "29m ago",
+      "time": "51m ago",
       "pubDate": "2026-06-24T11:31:36.000Z",
       "title": "Top-Paid CEOs Smash the $200 Million Payday",
       "body": "Top-Paid CEOs Smash the $200 Million Payday WSJ",
@@ -30,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "29m ago",
+      "time": "51m ago",
       "pubDate": "2026-06-24T11:31:36.000Z",
       "title": "Top-Paid CEOs Smash the $200 Million Payday",
       "body": "Top-Paid CEOs Smash the $200 Million Payday WSJ",
@@ -44,6 +57,32 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
+      "pubDate": "2026-06-24T11:10:19.000Z",
+      "title": "Germany",
+      "body": "Germany WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/topics/place/germany"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-06-24T11:03:38.000Z",
+      "title": "EXCLUSIVE: Tata unit says 'extensive damage' from fire at Delhi data centre hampers recovery",
+      "body": "EXCLUSIVE: Tata unit says 'extensive damage' from fire at Delhi data centre hampers recovery Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/media-telecom/tata-unit-says-extensive-damage-fire-delhi-data-centre-hampers-recovery-2026-06-24/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
       "pubDate": "2026-06-24T10:31:00.000Z",
       "title": "SpaceX Stock, Tesla Woes Cost Elon Musk His Trillionaire Status",
       "body": "SpaceX Stock, Tesla Woes Cost Elon Musk His Trillionaire Status Barron's",
@@ -70,32 +109,19 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "3h ago",
-      "pubDate": "2026-06-24T09:13:00.000Z",
-      "title": "Sixteen Airbus A380s to Undergo Inspection After Cracks Found on Airplane Wings",
-      "body": "Sixteen Airbus A380s to Undergo Inspection After Cracks Found on Airplane Wings WSJ",
-      "sourceName": "WSJ",
+      "pubDate": "2026-06-24T09:50:01.000Z",
+      "title": "SpaceX News",
+      "body": "SpaceX News Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/business/sixteen-airbus-a380s-to-undergo-inspection-after-cracks-found-on-wings-d51229c1"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-24T08:19:27.000Z",
-      "title": "Will Anyone Buy This Cheap EV Truck With Hand-Crank Windows and No Radio?",
-      "body": "Will Anyone Buy This Cheap EV Truck With Hand-Crank Windows and No Radio? WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/will-anyone-buy-this-cheap-ev-truck-with-hand-crank-windows-and-no-radio-699b285a"
+      "href": "https://www.barrons.com/topics/SpaceX"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-24T06:39:10.000Z",
       "title": "Morgan Stanley doubles China humanoid robot shipment forecast as commercialization accelerates",
       "body": "Morgan Stanley doubles China humanoid robot shipment forecast as commercialization accelerates CNBC",
@@ -108,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-24T06:36:09.000Z",
       "title": "Human-to-human interaction is often bandwidth-bound instead of compute-bound. Thus, the next evolutionary jump would …",
       "body": "Human-to-human interaction is often bandwidth-bound instead of compute-bound. Thus, the next evolutionary jump would be direct communication in latent space, skipping the long-latency encoder-decoder loop.",
@@ -171,19 +197,6 @@
       "href": "https://www.wsj.com/business/alibaba-files-lawsuit-against-pentagon-seeking-removal-from-military-list-f9ef4273"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
-      "pubDate": "2026-06-24T04:00:50.000Z",
-      "title": "Heatwave shows we are marinating in a crisis of our own making",
-      "body": "Heatwave shows we are marinating in a crisis of our own making Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/f059869e-294b-42b7-bf38-fe55b46ad812?syn-25a6b1a6"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "11h ago",
@@ -197,9 +210,9 @@
       "href": "https://x.com/yunta_tsai/status/2069591209983787166"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "13h ago",
       "pubDate": "2026-06-23T23:51:00.000Z",
       "title": "Rio Tinto sees lithium as fastest-growing division, executive says",
       "body": "Rio Tinto sees lithium as fastest-growing division, executive says Reuters",
@@ -208,32 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/autos-transportation/rio-tinto-sees-lithium-fastest-growing-division-executive-says-2026-06-23/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-06-23T23:51:00.000Z",
-      "title": "Rio Tinto sees lithium as fastest-growing division, executive says",
-      "body": "Rio Tinto sees lithium as fastest-growing division, executive says Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/rio-tinto-sees-lithium-fastest-growing-division-executive-says-2026-06-23/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-06-23T23:39:00.000Z",
-      "title": "Automakers could halt car sales in California without delay in vehicle tracking law",
-      "body": "Automakers could halt car sales in California without delay in vehicle tracking law Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/automakers-could-halt-car-sales-california-without-delay-vehicle-tracking-law-2026-06-23/"
     },
     {
       "category": "stock",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/markets/companies/TSLA.F/key-metrics/valuation/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "21h ago",
+      "pubDate": "2026-06-23T15:43:45.000Z",
+      "title": "Currencies",
+      "body": "Currencies Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/markets/currencies/?__hstc"
     }
   ]
 }
