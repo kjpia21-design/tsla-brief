@@ -1,6 +1,19 @@
 {
-  "asOf": "2026-06-24 04:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-24 04:06 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-24T02:16:40.000Z",
+      "title": "Markets & Finance",
+      "body": "Markets & Finance WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/finance"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -93,32 +106,6 @@
       "href": "https://apnews.com/article/spacex-cursor-acquisition-vibe-coding-a5c60fcbaaca262cf107d30f1de899ef"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
-      "pubDate": "2026-06-24T00:19:00.000Z",
-      "title": "2026 NBA draft tracker: list of 1st-round picks",
-      "body": "2026 NBA draft tracker: list of 1st-round picks AP News",
-      "sourceName": "AP News",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://apnews.com/article/2026-nba-draft-tracker-first-round-picks-c1da13e6f482fb9faffa25b32dc6a8f1"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-23T23:52:07.000Z",
-      "title": "Rio Tinto sees lithium as fastest-growing division, executive says",
-      "body": "Rio Tinto sees lithium as fastest-growing division, executive says Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/rio-tinto-sees-lithium-fastest-growing-division-executive-says-2026-06-23/"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "4h ago",
@@ -145,17 +132,30 @@
       "href": "https://www.reuters.com/business/autos-transportation/automakers-could-halt-car-sales-california-without-delay-vehicle-tracking-law-2026-06-23/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-23T23:16:40.000Z",
-      "title": "Markets & Finance",
-      "body": "Markets & Finance WSJ",
-      "sourceName": "WSJ",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-06-23T23:39:00.000Z",
+      "title": "Savannah Guthrie says family remains ‘in agony’ over missing mom, begs the public for tips",
+      "body": "Savannah Guthrie says family remains ‘in agony’ over missing mom, begs the public for tips AP News",
+      "sourceName": "AP News",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/finance"
+      "href": "https://apnews.com/article/nancy-guthrie-missing-ransom-notes-savannah-mom-d5f09fc28310ee3c9031971cd595f19e"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
+      "pubDate": "2026-06-23T22:40:47.000Z",
+      "title": "SpaceX launches $25 billion notes offering for debt repayment, AI expansion",
+      "body": "SpaceX launches $25 billion notes offering for debt repayment, AI expansion Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/transactional/spacex-launches-25-billion-notes-offering-source-says-2026-06-23/"
     },
     {
       "category": "stock",
