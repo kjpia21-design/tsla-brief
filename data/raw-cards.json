@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-24 09:41 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-24 10:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
@@ -106,9 +106,22 @@
       "href": "https://x.com/yunta_tsai/status/2069670896907039168"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-24T06:31:15.000Z",
+      "title": "Will Anyone Buy This Cheap EV Truck With Hand-Crank Windows and No Radio?",
+      "body": "Will Anyone Buy This Cheap EV Truck With Hand-Crank Windows and No Radio? WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/business/autos/will-anyone-buy-this-cheap-ev-truck-with-hand-crank-windows-and-no-radio-699b285a"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-24T06:25:12.000Z",
       "title": "New Tesla Supercharger: Thorne, UK (8 stalls)",
       "body": "New Tesla Supercharger: Thorne, UK (8 stalls) https://t.co/XrDiu2BodP https://t.co/TUY98FnKJ9",
@@ -117,19 +130,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/TeslaCharging/status/2069668144667574444"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-24T05:19:02.000Z",
-      "title": "Markets & Finance",
-      "body": "Markets & Finance WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/finance"
     },
     {
       "category": "fsd",
@@ -160,6 +160,19 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5h ago",
+      "pubDate": "2026-06-24T04:50:29.000Z",
+      "title": "Hand jobs still available. Come join",
+      "body": "Hand jobs still available. Come join https://t.co/XlOfYJpvBt https://t.co/PR1gt5Lqkw",
+      "sourceName": "Tesla Optimus (X)",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://x.com/Tesla_Optimus/status/2069644307611660527"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "6h ago",
       "pubDate": "2026-06-24T04:00:50.000Z",
       "title": "Heatwave shows we are marinating in a crisis of our own making",
@@ -184,22 +197,9 @@
       "href": "https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
-      "pubDate": "2026-06-24T02:40:00.000Z",
-      "title": "How SK Hynix's bet on a niche memory chip made it more valuable than Samsung",
-      "body": "How SK Hynix's bet on a niche memory chip made it more valuable than Samsung Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/asia-pacific/how-sk-hynixs-bet-niche-memory-chip-made-it-more-valuable-than-samsung-2026-06-24/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-24T01:19:30.000Z",
       "title": "The sharpest eyes with the smartest brain. 👁️ 🤝 🧠",
       "body": "The sharpest eyes with the smartest brain. 👁️ 🤝 🧠 https://t.co/nTB7KwjA2I",
@@ -238,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-23T21:18:24.000Z",
       "title": "Chip stocks plunge, but bargain-hunters limit scale of tech rout",
       "body": "Chip stocks plunge, but bargain-hunters limit scale of tech rout Reuters",
