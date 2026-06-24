@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-24 02:00 UTC · 누적 442건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-24 04:00 UTC · 누적 443건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-23T23:39:00.000Z",
+      "title": "로이터 — 캘리포니아 차량 위치추적 의무화, 유예 없으면 <em>자동차 판매 중단 가능</em>",
+      "hotShort": "캘리포니아 추적법 강행 시 <em>자동차 판매 중단 위기</em>",
+      "body": "로이터에 따르면 캘리포니아 차량 위치추적 의무화 법안이 적용 유예 없이 시행될 경우, 자동차 제조사들이 주 내 판매를 전면 중단할 수 있다고 경고했다. 미국 최대 자동차 시장인 캘리포니아에서의 판매 중단 가능성은 테슬라를 포함한 주요 자동차 업체에 상당한 매출 리스크.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "product-california-vehicle-tracking-law-2026-06-23",
+      "summary": "캘리포니아 당국이 추진하는 차량 위치추적 의무화 법안이 시행 유예 없이 강행될 경우 자동차 제조사들이 주 내 차량 판매를 중단할 수 있다고 로이터가 보도했다. 법안이 제조사의 준비 기간을 고려하지 않고 예정대로 적용될 경우, 법적 준수를 즉시 충족하기 어려운 업체들이 극단적 대응에 나설 수 있다는 것이다.\n\n캘리포니아는 미국 최대 자동차 시장이자 전기차 보급의 최전선 주다. 테슬라의 경우 캘리포니아 시장이 국내 판매의 핵심 지역 가운데 하나로, 이 지역에서 판매가 중단될 경우 분기 인도 실적에 직접적인 영향이 불가피하다.\n\n법 시행 유예 여부가 이번 사태의 핵심 변수다. 규제 당국과 자동차 업계 간 향후 협의 결과에 따라 판매 중단 가능성이 현실화될 수도, 무산될 수도 있다. 캘리포니아의 규제 방향은 전국 자동차 시장에 파급 효과를 미치는 경우가 많아 향후 추이가 주목된다.",
+      "title_en": "Reuters: Automakers may halt California car sales over <em>vehicle tracking mandate</em>",
+      "hotShort_en": "CA tracking law may <em>halt car sales</em>",
+      "body_en": "Automakers could suspend vehicle sales in California if the state's vehicle location-tracking mandate takes effect without an implementation delay, Reuters reports. California is the largest U.S. auto market, making any sales halt a material revenue risk for Tesla and its peers operating in the state.",
+      "summary_en": "California's vehicle location tracking mandate is set to take effect without any implementation delay for automakers, per Reuters. If the law proceeds as scheduled and manufacturers cannot immediately meet compliance requirements, some could suspend car sales in the state rather than sell non-compliant vehicles.\n\nCalifornia is both the largest U.S. auto market and the country's leading EV market, which makes any potential sales disruption consequential for automakers across the board. For Tesla specifically, California represents a disproportionate share of its domestic delivery volume, and a sales pause — even a short-term one — could weigh directly on quarterly delivery results.\n\nThe central variable is whether California regulators provide automakers with a compliance grace period. If no delay is granted and manufacturers follow through on halting sales, this would also raise broader questions about the pace and scope of vehicle connectivity mandates — a regulatory trend that extends well beyond California's borders.",
+      "href": "https://www.reuters.com/business/autos-transportation/automakers-could-halt-car-sales-california-without-delay-vehicle-tracking-law-2026-06-23/",
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
