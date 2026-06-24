@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-24 15:00 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-24 17:00 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-24T03:59:00.000Z",
+      "title": "WSJ 독점 — 어질리티 로보틱스, <em>$25억 SPAC</em>으로 증시 상장 추진",
+      "hotShort": "어질리티 로보틱스 <em>$25억 SPAC</em> 상장 추진",
+      "body": "WSJ 독점 보도에 따르면 이족 보행 로봇 Digit 제조사 어질리티 로보틱스가 $25억달러(약 3.5조원) SPAC 합병으로 상장을 추진한다 — 테슬라 옵티머스와 직접 경쟁하는 전문 휴머노이드 로봇 스타트업의 자본시장 데뷔는 인간형 로봇 상업화 경쟁이 본격 자본 조달 단계에 진입했음을 의미한다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "product-agility-robotics-spac-25b-2026-06-24",
+      "summary": "어질리티 로보틱스는 이족 보행 로봇 'Digit'를 개발한 오리건 기반 스타트업으로, 아마존이 물류 창고 자동화용으로 대규모 도입을 검토해온 기업이다. 좁은 공간과 장애물 환경에서 작동 가능한 이족 보행 구조를 내세우며 빠르게 성장했으며, 인간형 로봇 분야에서 테슬라 옵티머스의 주요 경쟁사로 꼽힌다.\n\nWSJ는 독점 보도에서 어질리티 로보틱스가 기업가치 $25억달러를 인정받는 SPAC(기업인수목적회사) 합병 방식으로 증시 상장을 추진 중이라고 전했다. SPAC은 기존 VC 투자자의 엑싯(투자 회수)과 추가 자본 조달을 동시에 가능하게 하는 상장 경로로, 상장 이후에는 더 빠른 속도로 개발·생산에 투자할 수 있게 된다.\n\n테슬라 옵티머스 관점에서 이번 상장 추진은 양면 신호다. 경쟁사의 공개 자본 확보는 기술 개발과 생산 규모 확대를 가속화할 위협이 된다. 반면, 자본 시장이 전문 휴머노이드 로봇 스타트업을 기업공개 대상으로 검토한다는 것은 해당 시장 전체의 상업화 가능성을 투자자들이 인정하기 시작했음을 의미한다.\n\n어질리티 로보틱스의 상장 가치($25억)는 테슬라 옵티머스에 일부 애널리스트들이 부여하는 잠재 가치(수백억~수천억달러 추정)보다 크게 낮다. 테슬라는 기가 텍사스 자체 생산 캐퍼시티와 FSD·AI 기술 수직 계열화라는 강점으로 스타트업 대비 규모의 차별화를 추구 중이다.",
+      "title_en": "WSJ exclusive: Agility Robotics, bipedal robot maker, seeks public listing via <em>$2.5B SPAC</em>",
+      "hotShort_en": "Agility Robotics eyes IPO via <em>$2.5B SPAC</em>",
+      "body_en": "Agility Robotics, maker of the bipedal Digit robot, is pursuing a public listing through a $2.5 billion SPAC merger, The Wall Street Journal reports exclusively — as the humanoid robot startup competing directly with Tesla's Optimus program seeks its capital markets debut, signaling that investors are beginning to formally price commercial viability into the humanoid robotics sector.",
+      "summary_en": "Agility Robotics is an Oregon-based startup behind the Digit robot, a bipedal humanoid designed to navigate constrained warehouse environments with a mobility profile closer to human workers than conventional fixed-arm industrial robots. Amazon has been a notable development partner, evaluating Digit for logistics automation at scale — establishing early commercial proof of concept for the platform.\n\nThe Wall Street Journal's exclusive report says Agility Robotics is pursuing a public listing via SPAC merger at a $2.5 billion valuation. A SPAC route enables early venture investors to exit while simultaneously raising new public capital — a path increasingly favored by startups in sectors where investor appetite is high but traditional IPO timelines are long.\n\nFor Tesla's Optimus program, this development reads as both a competitive signal and a market validation. On the competitive side, a publicly capitalized Agility Robotics gains access to growth funding that can accelerate product development, expand manufacturing partnerships, and deepen commercial deployments. On the validation side, the public markets assigning $2.5 billion to a single specialized humanoid robot company confirms that institutional investors now view the segment as commercially viable — a rising-tide signal that reinforces Tesla's own Optimus investment thesis.\n\nThe valuation gap is striking context: Agility's $2.5B SPAC versus the multi-hundred-billion estimates some analysts assign to Tesla's Optimus program. Tesla's structural advantage — vertical integration at Giga Texas, shared FSD AI infrastructure, and a captive global vehicle customer base — creates a scale moat that specialist startups cannot match at this stage. As the humanoid robotics market moves from demonstration to mass production, that integration edge is precisely what Tesla's Optimus story is built on.",
+      "href": "https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32",
+      "sentiment": "neutral",
+      "hot": 4
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -33,10 +53,10 @@
       "sourceLabel": "press",
       "slug": "musk-spacex-cursor-60b-acquisition-2026-06-24",
       "summary": "커서(Cursor)는 앤서(Anysphere)가 개발한 AI 코딩 어시스턴트로, GPT·클로드 등 대형 언어모델을 IDE(통합 개발 환경)에 통합해 코드 작성·리뷰·디버깅을 자동화한다. '바이브 코딩(vibe coding)'이라는 LLM 중심 개발 방식의 선두 도구로 부상했으며, 2025년 이후 AI 개발 인프라 업체 중 가장 빠르게 성장한 스타트업 중 하나다.\n\nAP통신 보도에 따르면 스페이스X는 커서를 약 600억달러에 인수했다. 스페이스X는 로켓·위성·스타링크 인프라에 걸친 방대한 소프트웨어 코드베이스를 운영 중이며, AI 코딩 도구의 내재화는 내부 개발 속도를 높이는 동시에 앤스로픽·오픈AI의 개발 생태계 파트너십에 대항하는 포석으로 해석된다.\n\n테슬라 투자자 관점에서 이 소식은 양면이 있다. 긍정적으로는 머스크 진영의 AI 역량 강화가 중장기적으로 테슬라의 FSD·도조(Dojo) AI 인프라와 시너지로 이어질 가능성이 있다. 반면, 머스크의 관심과 자원이 스페이스X·xAI·X·뉴럴링크에 이어 대형 인수까지 분산된다는 우려도 공존한다.\n\n스페이스X는 비상장사로 이 인수 거래가 테슬라 주가에 직접 영향을 주지는 않는다. 그러나 머스크가 이끄는 기업군의 AI 패권 확장 서사는 테슬라 주가에 내재된 '머스크 프리미엄' 내러티브에 영향을 미칠 수 있어, 시장이 이 거래를 테슬라에 긍정 또는 부정 어느 쪽으로 해석하느냐가 주목된다.",
-      "title_en": "SpaceX acquires AI coding startup Cursor for <em>0 billion</em> to outpace Anthropic and OpenAI",
-      "hotShort_en": "SpaceX buys Cursor for <em>0B</em> in AI race",
-      "body_en": "SpaceX has acquired AI coding startup Cursor for approximately 0 billion, AP News reports — a move Musk's rocket company says is aimed at gaining an edge over Anthropic and OpenAI in the race for AI development tooling, as Musk's empire accelerates its push into foundational AI infrastructure.",
-      "summary_en": "Cursor, developed by Anysphere, is one of the most widely adopted AI coding assistants — integrating large language models into developers' IDEs to automate code generation, review, and debugging. Its role as the flagship tool for 'vibe coding' (LLM-driven development) has made it a sought-after asset as AI-powered software development becomes a competitive differentiator across industries.\n\nAP News reports SpaceX acquired Cursor for approximately 0 billion. SpaceX manages a vast and growing software codebase spanning rocket design, satellite systems, and Starlink infrastructure — making an AI-powered coding assistant a significant operational asset. The deal simultaneously positions SpaceX against Anthropic's and OpenAI's growing influence in the developer ecosystem, countering their partner integrations with a proprietary tooling advantage.\n\nFor Tesla shareholders, the acquisition carries mixed signals. On the positive side, a stronger AI tooling capability across Musk's companies could benefit Tesla's FSD and Dojo AI programs through shared technology and talent. The counterargument is the familiar concern: Musk's attention and capital spread across SpaceX, xAI, X, Neuralink, and now a 0 billion acquisition, potentially diluting his focus on Tesla.\n\nAs a private company, SpaceX's deal does not directly move Tesla's share price. However, the market's perception of Musk's AI empire — whether this deal signals expanding strength or distraction — has historically influenced Tesla's premium valuation multiples. Investors will be watching for any signs of AI technology cross-pollination or resource diversion from Tesla.",
+      "title_en": "SpaceX acquires AI coding startup Cursor for <em>$60 billion</em> to outpace Anthropic and OpenAI",
+      "hotShort_en": "SpaceX buys Cursor for <em>$60B</em> in AI race",
+      "body_en": "SpaceX has acquired AI coding startup Cursor for approximately $60 billion, AP News reports — a move Musk's rocket company says is aimed at gaining an edge over Anthropic and OpenAI in the race for AI development tooling, as Musk's empire accelerates its push into foundational AI infrastructure.",
+      "summary_en": "Cursor, developed by Anysphere, is one of the most widely adopted AI coding assistants — integrating large language models into developers' IDEs to automate code generation, review, and debugging. Its role as the flagship tool for 'vibe coding' (LLM-driven development) has made it a sought-after asset as AI-powered software development becomes a competitive differentiator across industries.\n\nAP News reports SpaceX acquired Cursor for approximately $60 billion. SpaceX manages a vast and growing software codebase spanning rocket design, satellite systems, and Starlink infrastructure — making an AI-powered coding assistant a significant operational asset. The deal simultaneously positions SpaceX against Anthropic's and OpenAI's growing influence in the developer ecosystem, countering their partner integrations with a proprietary tooling advantage.\n\nFor Tesla shareholders, the acquisition carries mixed signals. On the positive side, a stronger AI tooling capability across Musk's companies could benefit Tesla's FSD and Dojo AI programs through shared technology and talent. The counterargument is the familiar concern: Musk's attention and capital spread across SpaceX, xAI, X, Neuralink, and now a $60 billion acquisition, potentially diluting his focus on Tesla.\n\nAs a private company, SpaceX's deal does not directly move Tesla's share price. However, the market's perception of Musk's AI empire — whether this deal signals expanding strength or distraction — has historically influenced Tesla's premium valuation multiples. Investors will be watching for any signs of AI technology cross-pollination or resource diversion from Tesla.",
       "href": "https://apnews.com/article/spacex-cursor-acquisition-vibe-coding-a5c60fcbaaca262cf107d30f1de899ef",
       "sentiment": "neutral",
       "hot": 7
@@ -2039,26 +2059,6 @@
       "href": "https://www.bloomberg.com/opinion/articles/2026-06-17/spacex-tesla-inc-is-inching-closer-watch-out-nvidia",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-17T03:55:09.000Z",
-      "title": "일론 머스크, xAI 이미지 AI <em>그록 이매진 1.5</em> 전면 배포 선언",
-      "hotShort": "일론, xAI <em>그록 이매진 1.5</em> 전면 배포",
-      "body": "일론 머스크가 공식 X 계정을 통해 xAI 이미지 생성 AI 그록 이매진 1.5의 전면 배포를 직접 발표했다 — 제한 접근에서 일반 공개로의 전환으로, xAI의 이미지 AI 제품군이 범용 사용자 단계로 확장됐다.",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "musk-grok-imagine-15-wide-release-2026-06-17",
-      "summary": "일론 머스크가 자신의 AI 회사 xAI가 개발한 이미지 생성 모델 그록 이매진(Grok Imagine) 1.5의 전면 배포(와이드 릴리즈)를 공식 X 계정을 통해 직접 선언했다. 그록 이매진은 xAI의 AI 어시스턴트 그록에 통합된 이미지 생성 기능으로, 버전 1.5는 이전 버전에서 업그레이드된 신모델이다.\n\n전면 배포는 기존 제한된 테스터 또는 얼리 액세스 단계에서 전체 사용자 베이스로 접근을 개방한다는 의미다. xAI는 머스크가 2023년 설립한 AI 회사로, 그록 대화 AI와 그록 이매진 이미지 AI를 주력 제품으로 개발 중이다. 이미지 생성 AI 시장에서 OpenAI의 DALL-E, 어도비 파이어플라이, 미드저니 등과 경쟁하는 구도다.\n\n테슬라 주주 관점에서 이번 발표는 테슬라 본업과 직접적 연관은 없다. 그록 이매진은 xAI 제품이며 테슬라와 별개 법인이다. 다만 머스크의 AI 생태계가 꾸준히 제품을 고도화·확장하고 있다는 배경 신호로 읽힌다. 현 단계에서 테슬라 FSD·옵티머스에 대한 직접적 영향은 없다.",
-      "title_en": "Elon Musk announces <em>Grok Imagine 1.5</em> now in wide release",
-      "hotShort_en": "Elon: <em>Grok Imagine 1.5</em> goes wide",
-      "body_en": "Elon Musk announced via his official X account that Grok Imagine 1.5 — xAI's image-generation model — has entered wide release, moving from limited access to general availability and marking another step in the buildout of xAI's AI product portfolio.",
-      "summary_en": "Elon Musk announced directly on his official X account that Grok Imagine 1.5 is now in wide release. Grok Imagine is xAI's image-generation capability integrated into the Grok AI assistant, with version 1.5 representing an upgraded model iteration now being made broadly available to the general public.\n\nWide release marks the transition from a restricted beta or limited-access phase to open availability for the broader Grok user base. xAI — founded by Musk in 2023 — is positioning Grok Imagine as a competitor to OpenAI's DALL-E, Midjourney, and Adobe Firefly in the AI image generation space. Specific performance improvements in version 1.5 were not detailed in the announcement.\n\nFor Tesla shareholders, this is not a direct Tesla business event — Grok Imagine is an xAI product, and xAI operates as a separate entity from Tesla. The announcement provides background context for investors tracking the Musk AI ecosystem broadly, but has no confirmed direct implications for Tesla's FSD or Optimus programs at this stage.",
-      "href": "https://x.com/elonmusk/status/2067093666792136855",
-      "sentiment": "neutral",
-      "hot": 2
     }
   ]
 }
