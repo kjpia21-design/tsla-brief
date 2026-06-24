@@ -1,6 +1,56 @@
 {
-  "asOf": "2026-06-23 23:12 UTC · 누적 441건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-24 00:00 UTC · 누적 442건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-23T19:12:59.000Z",
+      "title": "스페이스X, IPO 2주 만에 <em>$250억 채권</em> 조달 완료 — $890억 수요 압도",
+      "hotShort": "스페이스X, <em>$250억 채권</em> IPO 2주 만에 조달 완료",
+      "body": "CNBC에 따르면 스페이스X가 사상 첫 투자등급 채권 발행으로 IPO 이후 불과 2주 만에 $250억을 조달했다 — 블룸버그가 집계한 $890억의 기관 수요(발행액의 약 3.6배)를 기반으로 낮은 금리를 확보하며, 기관 채권시장에서도 머스크 기업 생태계의 자금 조달력을 재확인했다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-89b-bond-demand-2026-06-23",
+      "summary": "스페이스X는 2026년 6월 23일 사상 첫 투자등급(하이그레이드) 채권 발행을 마감하고 $250억 조달에 성공했다. CNBC가 보도한 이번 완결은 IPO 이후 불과 2주 이내에 이루어졌으며, 신규 상장 기업이 이 짧은 시간 안에 기관 하이그레이드 채권 시장에 진입해 거래를 완결한 것은 이례적이다.\n\n블룸버그가 앞서 보도한 $890억의 기관 수요는 실제 조달 규모($250억)의 약 3.6배에 달한다. 이 같은 오버서브스크립션은 발행 금리를 낮추는 직접 요인으로 작용했으며, 스페이스X는 최저 수준의 이자 비용으로 장기 자금을 확보하는 데 성공했다. 전날 블룸버그는 스페이스X가 $1,000억 이상의 현금을 보유하고 있다고 별도 보도했다 — 이 배경에서 $250억 채권 발행은 긴급 자금 충당이 아닌 재무 구조 최적화 전략으로 읽힌다.\n\n투자등급 채권 첫 발행 성공은 채권 시장이 스페이스X를 최우량 차입자로 인정했음을 의미한다. 이는 향후 추가 채권 발행 시 더욱 유리한 조건을 보장하는 선례가 되며, 스페이스X가 주식 외에도 저비용 부채 시장을 자유롭게 활용할 수 있음을 확인해줬다.\n\n테슬라 주주에게 스페이스X의 독립적 자금 조달력은 간접적으로 중요하다. 스페이스X가 채권 시장에서 독자적으로 대규모 자금을 확보할 수 있다는 점은 테슬라 자원에 대한 의존도를 낮추며, 스페이스X·테슬라 합병 논의가 활발한 상황에서 스페이스X 밸류에이션의 재무적 근거를 강화한다.",
+      "title_en": "SpaceX closes debut <em>$25B bond</em> two weeks after IPO — backed by $89B in orders",
+      "hotShort_en": "SpaceX <em>$25B bond</em> closes on $89B in orders",
+      "body_en": "CNBC reports SpaceX has raised $25 billion through its debut investment-grade bond offering, closing just two weeks after its IPO — against an $89 billion order book confirmed by Bloomberg, the deal's roughly 3.6x oversubscription allowed SpaceX to lock in favorable long-term borrowing rates on its first high-grade debt market debut.",
+      "summary_en": "SpaceX completed its inaugural investment-grade bond offering on June 23, raising $25 billion from institutional buyers, per CNBC. The closing came within two weeks of the company's IPO — an exceptionally fast timeline for a newly public company to close a high-grade bond deal, signaling that bond markets treated SpaceX as a seasoned blue-chip borrower from the moment it went public.\n\nBloomberg had previously reported the order book for this transaction reached $89 billion — approximately 3.6 times the amount ultimately raised. This level of oversubscription directly compressed the bond's yield (interest rate), allowing SpaceX to borrow at a more favorable rate than a less-demanded deal would have achieved. Bloomberg separately noted the prior day that SpaceX carries more than $100 billion in cash, framing the $25B bond as financial architecture rather than capital necessity.\n\nA heavily oversubscribed debut in the investment-grade market establishes SpaceX's creditor standing and creates a favorable precedent for future issuances. Investment-grade issuers typically access the lowest borrowing costs in corporate debt markets, and SpaceX's ability to price at the tightest end of the range positions it for cost-effective capital access going forward.\n\nFor Tesla shareholders, SpaceX's strong independent financing capacity carries indirect relevance in two ways. First, a well-capitalized SpaceX is less likely to require resource transfers from Tesla, keeping Tesla's strategic focus intact. Second, as Tesla-SpaceX merger speculation remains an active market narrative — per Bloomberg's concurrent June 23 report on shareholders positioning for that scenario — SpaceX's demonstrated ability to raise large amounts of low-cost debt strengthens the financial foundation of any combined entity investors are modeling.",
+      "href": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "Bloomberg"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-06-23T19:11:04.000Z",
+      "title": "NHTSA, 텍사스 테슬라 FSD 사망 사고 <em>특별 조사</em> 착수 — 테슬라 \"운전자가 FSD 수동 개입\"",
+      "hotShort": "NHTSA, 텍사스 FSD 사망 사고 <em>특별 조사</em>",
+      "body": "미국 NHTSA가 텍사스 가정집에 테슬라가 돌진해 76세 노인이 숨진 사고에 대해 특별 조사를 개시했다 — 더버지는 테슬라가 충돌 당시 운전자가 FSD를 수동으로 직접 오버라이드했다고 공식 주장한다고 보도하며, 규제 당국 조사와 테슬라 항변이 정면 대결 국면으로 접어들었다.",
+      "sourceName": "The Verge",
+      "sourceLabel": "press",
+      "slug": "fsd-nhtsa-special-probe-texas-fsd-2026-06-23",
+      "summary": "NHTSA의 '특별 조사(Special Crash Investigation, SCI)'는 고도 운전자 보조 시스템(ADAS) 또는 자율주행 기술이 관련된 치명 사고를 전담 수사관이 현장에 직접 파견해 조사하는 절차다. 일반 안전 분류 조사나 예비 검토보다 격이 높으며, NHTSA 수사관이 사고 현장·차량·데이터 로그를 직접 수집·분석한다. 이번 대상은 텍사스 가정집에 테슬라가 돌진해 76세 주민이 숨진 사건이다.\n\n테슬라는 더버지를 통해 충돌 당시 운전자가 FSD(Full Self-Driving)를 직접 수동으로 오버라이드했다고 공식 입장을 밝혔다. 이는 자율주행이 작동 중에 사고가 났다는 탑승자 초기 진술을 정면 반박하며 FSD에 기술적 결함이 없다는 항변이다. '수동 개입' 타이밍과 방식이 조사의 핵심 쟁점이 될 전망이다.\n\nNHTSA SCI 결과는 FSD 기술에 이상이 없다는 불처분, 소프트웨어 업데이트 의무, FSD 특정 기능 제한, 또는 전면 소환(Recall)으로 이어질 수 있다. 테슬라는 과거 NHTSA 자율주행 관련 조사에서 차량 텔레메트리 데이터를 근거로 '운전자 과실' 항변을 반복해왔으며, 이번에도 같은 경로를 밟는 구도다.\n\n사이버캡 상용 출시 준비가 가속화되는 시점에서 FSD 치명 사고 특별 조사는 단기 규제 리스크를 높인다. 조사 결과가 테슬라에 불리할 경우 FSD 확장 타임라인과 사이버캡 규제 승인 경로에 직접 영향을 줄 수 있다. 반대로 '운전자 과실' 결론이 나면 FSD 기술 무결성 논거가 강화되는 선례가 된다.",
+      "title_en": "NHTSA opens <em>special crash probe</em> into fatal Texas Tesla strike — Tesla says driver manually overrode FSD",
+      "hotShort_en": "NHTSA <em>special probe</em> into fatal Texas Tesla FSD crash",
+      "body_en": "NHTSA, the U.S.'s top auto safety regulator, has launched a special crash investigation into a Tesla that struck a Texas home and killed a 76-year-old — The Verge reports Tesla claims the driver manually overrode FSD at the time of impact, setting up a high-stakes regulatory contest over the role of Tesla's self-driving system in the crash.",
+      "summary_en": "NHTSA's Special Crash Investigation (SCI) program dispatches agency investigators directly to the scene of high-profile crashes involving advanced vehicle technology. This is a distinct and elevated tier of NHTSA inquiry — above a preliminary examination or standard defect complaint — with on-site evidence gathering, physical crash reconstruction, and vehicle data extraction performed by NHTSA's own personnel. The Texas crash, in which a Tesla vehicle struck a residential home and killed a 76-year-old occupant, has triggered this heightened response.\n\nTesla's official position, as reported by The Verge, is that the driver manually overrode FSD (Full Self-Driving) at the moment of impact. This directly counters the earlier account from the vehicle's occupants suggesting Autopilot was active during the crash. Tesla's 'driver override' defense is a central point of contention: whether the investigation validates or refutes it will depend on the vehicle telemetry data Tesla provides and the independent findings NHTSA generates from its on-site reconstruction.\n\nAn NHTSA SCI can produce a range of outcomes: no regulatory action if the technology is found non-defective, mandatory over-the-air software updates if a specific system behavior is flagged, operational restrictions, or a formal recall. Tesla has historically submitted detailed telemetry logs in crash disputes to support driver-error arguments, and this investigation will test whether that evidence base holds up under NHTSA's independent scrutiny.\n\nFor Tesla shareholders, the stakes extend well beyond this single crash. The SCI outcome is being watched as a precedent for how the U.S. government adjudicates FSD liability — and its conclusions will directly shape the regulatory pathway for the broader Cybercab driverless deployment program, which is currently ramping production at Giga Texas.",
+      "href": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "The Verge",
+        "AP News"
+      ],
+      "sentiment": "bear",
+      "hot": 7
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -20,27 +70,6 @@
       "href": "https://x.com/elonmusk/status/2069473899969122308",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-23T16:16:02.000Z",
-      "title": "스페이스X 첫 투자등급 채권에 <em>$890억 수요 쇄도</em> — 블룸버그",
-      "hotShort": "스페이스X 첫 채권, <em>$890억 수요</em> 폭발적 반응",
-      "body": "블룸버그에 따르면 스페이스X가 사상 첫 투자등급(하이그레이드) 채권 공모에 $890억의 수요가 쏟아졌다 — IPO 이후 채권시장에서도 기관투자자들의 압도적 신뢰가 확인되며 일론 머스크 기업 생태계의 자금 조달력이 재입증됐다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-89b-bond-demand-2026-06-23",
-      "summary": "$890억 달러의 수요는 스페이스X의 첫 투자등급 채권 공모에 투자자들이 몰린 규모를 뜻한다. 블룸버그가 공개한 이 수치는 회사채 시장이 스페이스X를 최우량 차입자로 인정했다는 의미로 해석된다.\n\n스페이스X는 IPO 성공 이후 처음으로 투자등급 회사채 시장에 진출했다. 투자등급 채권은 신용도가 높은 기업에 부여되며, 발행금리가 낮아 장기·저비용 자금 조달에 유리하다. 전일(6월 22일) 블룸버그는 스페이스X가 $1,000억 이상의 현금을 보유하고 있다고 별도 보도한 바 있다 — 이 배경에서 이번 채권 발행은 여유 현금을 저금리 부채로 최적화하는 재무 전략에 가깝다.\n\n$890억 규모의 수요는 통상 채권 발행 규모를 수십 배 이상 상회하는 것이 일반적이다. 이 정도의 오버서브스크립션은 발행금리를 낮추고, 향후 추가 자금 조달 시에도 유리한 선례로 작용한다.\n\n테슬라 주주에게 스페이스X의 재무 안정성은 간접적으로 중요하다. 머스크가 다중 기업을 운영하는 상황에서 스페이스X가 독립적으로 자금을 충분히 조달할 수 있다는 점은 테슬라에 대한 머스크의 집중도와 테슬라 자원 배분을 지지하는 요소다. 아울러 일부 기관투자자들이 베팅하는 '스페이스X·테슬라 합병 시나리오'에서도 스페이스X의 건강한 재무 구조는 딜 가능성을 높이는 요인으로 꼽힌다.",
-      "title_en": "SpaceX debut high-grade bond draws <em>$89 billion in demand</em> — Bloomberg",
-      "hotShort_en": "SpaceX debut bond pulls <em>$89B in orders</em>",
-      "body_en": "SpaceX's first-ever investment-grade bond sale attracted $89 billion in demand, Bloomberg reported — an overwhelming show of institutional confidence in Elon Musk's empire just months after the company's landmark IPO.",
-      "summary_en": "The $89 billion figure represents the total book of orders submitted by institutional investors for SpaceX's debut investment-grade bond offering. Per Bloomberg, the demand level signals that bond markets view SpaceX as a blue-chip borrower, commanding the same creditor confidence as the largest established corporations.\n\nSpaceX achieved its investment-grade credit rating and moved to issue high-grade bonds following its recent IPO. Investment-grade issuers borrow at meaningfully lower interest rates than speculative issuers, giving SpaceX access to long-duration, low-cost financing — a powerful tool for capital-intensive projects including Starship, Starlink expansion, and manufacturing scale.\n\nBloomberg separately reported the prior day that SpaceX holds more than $100 billion in cash. In that context, the bond issuance appears less a capital emergency and more a financial optimization: replacing idle cash with cheap tax-deductible debt, while establishing SpaceX's standing in the investment-grade credit market for future use.\n\nFor Tesla shareholders, SpaceX's strong independent financial footing carries indirect relevance. A well-capitalized SpaceX reduces any pressure on Musk to lean on Tesla for resources, supports the ongoing institutional debate around a Tesla-SpaceX combination, and demonstrates the growing financial firepower of Musk's overall ecosystem.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-23/spacex-draws-89-billion-demand-for-debut-high-grade-bond-sale",
-      "confirmedBy": 1,
-      "sentiment": "bull",
-      "hot": 6
     },
     {
       "category": "stock",
