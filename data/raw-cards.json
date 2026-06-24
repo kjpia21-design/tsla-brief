@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-24 15:55 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-24 16:25 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7m ago",
+      "time": "21m ago",
+      "pubDate": "2026-06-24T16:04:45.000Z",
+      "title": "They Can’t Fly Spirit Anymore, So They’re Taking the Bus Instead",
+      "body": "They Can’t Fly Spirit Anymore, So They’re Taking the Bus Instead WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/lifestyle/travel/they-cant-fly-spirit-anymore-so-theyre-taking-the-bus-instead-175054af"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "37m ago",
       "pubDate": "2026-06-24T15:48:23.000Z",
       "title": "Some people run away from challenges because they are afraid of failing. Some people face powerful foes because they …",
       "body": "Some people run away from challenges because they are afraid of failing. Some people face powerful foes because they are afraid of the consequences of running away. In both cases, they are afraid. But we perceive the for…",
@@ -15,9 +28,22 @@
       "href": "https://x.com/yunta_tsai/status/2069809872531763561"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "48m ago",
+      "pubDate": "2026-06-24T15:37:55.000Z",
+      "title": "Germany",
+      "body": "Germany WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/topics/place/germany"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "24m ago",
+      "time": "55m ago",
       "pubDate": "2026-06-24T15:31:00.000Z",
       "title": "A Pure Play on Humanoid Robots Is Coming to the Nasdaq",
       "body": "A Pure Play on Humanoid Robots Is Coming to the Nasdaq Barron's",
@@ -30,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "26m ago",
+      "time": "56m ago",
       "pubDate": "2026-06-24T15:29:42.000Z",
       "title": "Tesla and driver sued by family of woman killed in Texas crash: what we know",
       "body": "Tesla is being sued by the family of the woman who was killed in a Texas crash involving a Model 3. The driver, who is also being sued, claimed the vehicle was operating on Autopilot mode, but Tesla executives have come …",
@@ -43,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "32m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-24T15:23:43.000Z",
       "title": "New Tesla Supercharger: Etne, Norway (8 stalls)",
       "body": "New Tesla Supercharger: Etne, Norway (8 stalls) https://t.co/RKdBRGgPgm https://t.co/Ql0cJeZ8lR",
@@ -56,7 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "50m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-24T15:05:00.000Z",
       "title": "Why Sunrun (RUN) Stock Surged to Erase Its 2026 Losses in a Single Day",
       "body": "Why Sunrun (RUN) Stock Surged to Erase Its 2026 Losses in a Single Day Barron's",
@@ -69,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "55m ago",
+      "time": "1h ago",
       "pubDate": "2026-06-24T15:00:01.000Z",
       "title": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion",
       "body": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion CNBC",
@@ -80,9 +106,22 @@
       "href": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-24T14:48:00.000Z",
+      "title": "Will SpaceX Merge With Tesla? Why Q2 Deliveries Still Drive TSLA Stock",
+      "body": "Will SpaceX Merge With Tesla? Why Q2 Deliveries Still Drive TSLA Stock Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-ev-deliveries-spacex-merger-44bdad81"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-06-24T14:40:41.000Z",
       "title": "EXCLUSIVE: STT, Tata Delhi data centre fire leaves clients fearing decades of data lost; Google hit",
       "body": "EXCLUSIVE: STT, Tata Delhi data centre fire leaves clients fearing decades of data lost; Google hit Reuters",
@@ -106,6 +145,19 @@
       "href": "https://www.reuters.com/world/china/apple-intel-chip-deal-makes-strategic-sense-production-is-years-away-2026-06-24/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-24T14:03:00.000Z",
+      "title": "Sunrun Stock Surges 30% on Tesla AI Data-Center Tie-Up",
+      "body": "Sunrun Stock Surges 30% on Tesla AI Data-Center Tie-Up Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/sunrun-stock-price-tesla-ai-data-center-06a3671a"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -117,19 +169,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/finance/spacex-short-selling-bets-increase-after-post-debut-share-selloff-2026-06-24/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-24T13:31:00.000Z",
-      "title": "Tesla sued over fatal crash in Texas home that killed 76-year-old woman",
-      "body": "Tesla sued over fatal crash in Texas home that killed 76-year-old woman Electrek",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/06/24/tesla-sued-fatal-katy-fsd-crash/"
     },
     {
       "category": "stock",
@@ -156,32 +195,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/articles/ceo-pay-2025-d2885ea3"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-24T13:13:00.000Z",
-      "title": "Micron, SpaceX, Cerebras, FedEx, Wendy’s, and More Stocks That Explain Today’s Market",
-      "body": "Micron, SpaceX, Cerebras, FedEx, Wendy’s, and More Stocks That Explain Today’s Market Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/stock-movers-361233bf"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-24T13:08:25.000Z",
-      "title": "Germany",
-      "body": "Germany WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/topics/place/germany"
     },
     {
       "category": "product",
@@ -197,30 +210,17 @@
       "href": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-24T13:01:04.000Z",
-      "title": "‘Grand Theft Auto VI' is still on track for 2026 release. Buy its owner's stock, BTIG says",
-      "body": "‘Grand Theft Auto VI' is still on track for 2026 release. Buy its owner's stock, BTIG says CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/24/gta-vi-is-set-for-a-2026-debut-buy-its-owners-stock-btig-says.html"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-24T13:00:00.000Z",
-      "title": "Will SpaceX Merge With Tesla? Why Q2 Deliveries Still Drive TSLA Stock",
-      "body": "Will SpaceX Merge With Tesla? Why Q2 Deliveries Still Drive TSLA Stock Barron's",
-      "sourceName": "Barron's",
+      "time": "4h ago",
+      "pubDate": "2026-06-24T12:48:53.000Z",
+      "title": "Bold Names Season 4",
+      "body": "Bold Names Season 4 WSJ",
+      "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-ev-deliveries-spacex-merger-44bdad81"
+      "href": "https://www.wsj.com/business/bold-names-season-4-bcba6674?mod"
     },
     {
       "category": "product",
@@ -239,27 +239,27 @@
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "4h ago",
-      "pubDate": "2026-06-24T12:00:01.000Z",
-      "title": "Slate Auto says each $24,950 electric pickup truck will be profitable as it aims to be cash-flow positive next year",
-      "body": "Slate Auto says each $24,950 electric pickup truck will be profitable as it aims to be cash-flow positive next year CNBC",
-      "sourceName": "CNBC",
+      "pubDate": "2026-06-24T12:03:00.000Z",
+      "title": "Will Anyone Buy This Cheap EV Truck With Hand-Crank Windows and No Radio?",
+      "body": "Will Anyone Buy This Cheap EV Truck With Hand-Crank Windows and No Radio? WSJ",
+      "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html"
+      "href": "https://www.wsj.com/business/autos/will-anyone-buy-this-cheap-ev-truck-with-hand-crank-windows-and-no-radio-699b285a"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
-      "pubDate": "2026-06-24T05:02:00.000Z",
-      "title": "Chinese EV makers are shut out of India - but their tech isn't",
-      "body": "Chinese EV makers are shut out of India - but their tech isn't Reuters",
-      "sourceName": "Reuters",
+      "time": "4h ago",
+      "pubDate": "2026-06-24T12:03:00.000Z",
+      "title": "Will Anyone Buy This Cheap EV Truck With Hand-Crank Windows and No Radio?",
+      "body": "Will Anyone Buy This Cheap EV Truck With Hand-Crank Windows and No Radio? WSJ",
+      "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/world/china/chinese-ev-makers-are-shut-out-india-their-tech-isnt-2026-06-24/"
+      "href": "https://www.wsj.com/business/autos/will-anyone-buy-this-cheap-ev-truck-with-hand-crank-windows-and-no-radio-699b285a"
     }
   ]
 }
