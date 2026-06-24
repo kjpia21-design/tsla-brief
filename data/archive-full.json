@@ -147,31 +147,6 @@
       "hot": 6
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-23T19:11:04.000Z",
-      "title": "NHTSA, 텍사스 테슬라 FSD 사망 사고 <em>특별 조사</em> 착수 — 테슬라 \"운전자가 FSD 수동 개입\"",
-      "hotShort": "NHTSA, 텍사스 FSD 사망 사고 <em>특별 조사</em>",
-      "body": "미국 NHTSA가 텍사스 가정집에 테슬라가 돌진해 76세 노인이 숨진 사고에 대해 특별 조사를 개시했다 — 더버지는 테슬라가 충돌 당시 운전자가 FSD를 수동으로 직접 오버라이드했다고 공식 주장한다고 보도하며, 규제 당국 조사와 테슬라 항변이 정면 대결 국면으로 접어들었다.",
-      "sourceName": "The Verge",
-      "sourceLabel": "press",
-      "slug": "fsd-nhtsa-special-probe-texas-fsd-2026-06-23",
-      "summary": "NHTSA의 '특별 조사(Special Crash Investigation, SCI)'는 고도 운전자 보조 시스템(ADAS) 또는 자율주행 기술이 관련된 치명 사고를 전담 수사관이 현장에 직접 파견해 조사하는 절차다. 일반 안전 분류 조사나 예비 검토보다 격이 높으며, NHTSA 수사관이 사고 현장·차량·데이터 로그를 직접 수집·분석한다. 이번 대상은 텍사스 가정집에 테슬라가 돌진해 76세 주민이 숨진 사건이다.\n\n테슬라는 더버지를 통해 충돌 당시 운전자가 FSD(Full Self-Driving)를 직접 수동으로 오버라이드했다고 공식 입장을 밝혔다. 이는 자율주행이 작동 중에 사고가 났다는 탑승자 초기 진술을 정면 반박하며 FSD에 기술적 결함이 없다는 항변이다. '수동 개입' 타이밍과 방식이 조사의 핵심 쟁점이 될 전망이다.\n\nNHTSA SCI 결과는 FSD 기술에 이상이 없다는 불처분, 소프트웨어 업데이트 의무, FSD 특정 기능 제한, 또는 전면 소환(Recall)으로 이어질 수 있다. 테슬라는 과거 NHTSA 자율주행 관련 조사에서 차량 텔레메트리 데이터를 근거로 '운전자 과실' 항변을 반복해왔으며, 이번에도 같은 경로를 밟는 구도다.\n\n사이버캡 상용 출시 준비가 가속화되는 시점에서 FSD 치명 사고 특별 조사는 단기 규제 리스크를 높인다. 조사 결과가 테슬라에 불리할 경우 FSD 확장 타임라인과 사이버캡 규제 승인 경로에 직접 영향을 줄 수 있다. 반대로 '운전자 과실' 결론이 나면 FSD 기술 무결성 논거가 강화되는 선례가 된다.",
-      "title_en": "NHTSA opens <em>special crash probe</em> into fatal Texas Tesla strike — Tesla says driver manually overrode FSD",
-      "hotShort_en": "NHTSA <em>special probe</em> into fatal Texas Tesla FSD crash",
-      "body_en": "NHTSA, the U.S.'s top auto safety regulator, has launched a special crash investigation into a Tesla that struck a Texas home and killed a 76-year-old — The Verge reports Tesla claims the driver manually overrode FSD at the time of impact, setting up a high-stakes regulatory contest over the role of Tesla's self-driving system in the crash.",
-      "summary_en": "NHTSA's Special Crash Investigation (SCI) program dispatches agency investigators directly to the scene of high-profile crashes involving advanced vehicle technology. This is a distinct and elevated tier of NHTSA inquiry — above a preliminary examination or standard defect complaint — with on-site evidence gathering, physical crash reconstruction, and vehicle data extraction performed by NHTSA's own personnel. The Texas crash, in which a Tesla vehicle struck a residential home and killed a 76-year-old occupant, has triggered this heightened response.\n\nTesla's official position, as reported by The Verge, is that the driver manually overrode FSD (Full Self-Driving) at the moment of impact. This directly counters the earlier account from the vehicle's occupants suggesting Autopilot was active during the crash. Tesla's 'driver override' defense is a central point of contention: whether the investigation validates or refutes it will depend on the vehicle telemetry data Tesla provides and the independent findings NHTSA generates from its on-site reconstruction.\n\nAn NHTSA SCI can produce a range of outcomes: no regulatory action if the technology is found non-defective, mandatory over-the-air software updates if a specific system behavior is flagged, operational restrictions, or a formal recall. Tesla has historically submitted detailed telemetry logs in crash disputes to support driver-error arguments, and this investigation will test whether that evidence base holds up under NHTSA's independent scrutiny.\n\nFor Tesla shareholders, the stakes extend well beyond this single crash. The SCI outcome is being watched as a precedent for how the U.S. government adjudicates FSD liability — and its conclusions will directly shape the regulatory pathway for the broader Cybercab driverless deployment program, which is currently ramping production at Giga Texas.",
-      "href": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "The Verge",
-        "AP News"
-      ],
-      "sentiment": "bear",
-      "hot": 7
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "27m ago",
@@ -382,32 +357,6 @@
       "hot": 4
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "46m ago",
-      "pubDate": "2026-06-22T21:44:03.000Z",
-      "title": "테슬라 공식 해명 “텍사스 충돌, <em>FSD 아닌 운전자 수동 가속</em>”",
-      "hotShort": "테슬라 '<em>FSD 아닌 수동 가속</em>'으로 충돌 해명",
-      "body": "테슬라가 텍사스 주택 돌진 치명 사고를 공식 해명 — 운전자가 FSD를 비활성화한 뒤 직접 가속 조작을 했으며 자율주행 시스템은 무관했다고 확인. NHTSA 연방 조사가 진행 중인 가운데, 이번 공식 성명은 FSD 책임 여부를 둘러싼 규제 결론의 핵심 근거가 될 전망이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-texas-crash-driver-override-clarification-2026-06-22",
-      "summary": "2026년 6월 21일 텍사스 케이티에서 테슬라 모델3가 주택을 들이받아 76세 여성이 사망했다. 사고 직후 탑승자는 오토파일럿이 작동 중이었다고 주장했고, NHTSA는 22일 공식 연방 안전 조사를 착수하며 규제 개입이 공식화됐다.\n\n테슬라는 Teslarati를 통해 처음으로 공식 입장을 밝혔다. 테슬라 주장에 따르면 충돌 직전 운전자가 FSD·오토파일럿 기능을 수동으로 비활성화한 뒤 직접 가속 페달을 조작했으며, 자율주행 시스템은 충돌에 관여하지 않았다.\n\n이번 해명은 NHTSA 조사의 방향을 결정짓는 핵심 변수다. 조사 결과에 따라 FSD 소프트웨어 리콜 또는 규제 강화 여부가 결정될 수 있어, 테슬라 FSD 확장 전략과 장기 밸류에이션에 직접 영향을 미친다.\n\n테슬라는 사고 발생 시마다 차량 로그와 텔레메트리 데이터를 보유하고 있어 이 데이터가 향후 법적·행정 절차의 핵심 증거로 제출될 가능성이 높다. 단일 출처(Teslarati) 보도이므로, NHTSA 공식 발표 이전까지는 진행 중인 정보로 추적할 필요가 있다.",
-      "title_en": "Tesla officially clarifies fatal Texas crash: <em>driver manually overrode acceleration</em>, not FSD",
-      "hotShort_en": "Tesla: TX crash was <em>driver override</em>, not FSD",
-      "body_en": "Tesla has issued its first official clarification on the fatal Texas home collision, confirming the driver manually overrode the vehicle's acceleration — directly challenging the occupant's claim that Autopilot was responsible. With NHTSA's federal probe formally underway, Tesla's statement becomes a pivotal piece of evidence in determining whether FSD faces new regulatory action.",
-      "summary_en": "On June 21, a Tesla Model 3 struck a home in Katy, Texas, killing a 76-year-old woman. The occupant initially claimed Tesla's Autopilot was active at the time of impact, which NHTSA cited as sufficient grounds to open a formal federal safety investigation on June 22.\n\nTesla's clarification, reported by Teslarati, directly contests that account. According to Tesla, the driver had manually deactivated FSD/Autopilot before the crash and then operated the accelerator directly — exonerating the autonomous system as a contributing cause. Tesla's vehicle telemetry logs would form the evidentiary basis for this position.\n\nThe distinction is critical for Tesla shareholders: an NHTSA finding that FSD caused the crash could lead to a software recall or operating restrictions on Autopilot features — central to Tesla's autonomous driving roadmap. Tesla's rebuttal shifts the burden toward driver error.\n\nTesla has used telemetry data in prior crash investigations to document driver inputs. While Teslarati is a credible Tesla-focused outlet, this remains a single-source report; NHTSA's formal findings will serve as the authoritative account as the investigation proceeds.",
-      "href": "https://www.teslarati.com/tesla-finally-clarifies-fatal-texas-crash-confirms-driver-manually-overrode-acceleration/",
-      "sentiment": "neutral",
-      "hot": 7,
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Teslarati",
-        "WSJ",
-        "Reuters"
-      ]
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "57m ago",
@@ -468,10 +417,10 @@
       "hot": 8,
       "confirmedBy": 4,
       "confirmingSources": [
-        "Reuters",
-        "Bloomberg",
-        "WSJ",
-        "AP News"
+        "The Wall Street Journal",
+        "The Verge",
+        "Teslarati",
+        "Electrek"
       ]
     },
     {
