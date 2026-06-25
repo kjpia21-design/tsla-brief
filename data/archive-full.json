@@ -1,6 +1,51 @@
 {
-  "asOf": "2026-06-25 20:09 UTC · 누적 466건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-25 23:23 UTC · 누적 468건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "30m ago",
+      "pubDate": "2026-06-25T19:46:20.000Z",
+      "title": "일론 머스크, 선거 복권 소송서 <em>법원 증언 명령</em> 받아",
+      "hotShort": "머스크, 선거 복권 소송서 <em>법원 증언 명령</em>",
+      "body": "로이터에 따르면 미 연방 법원이 일론 머스크에게 2024년 대선 캠페인 기간 운영된 1달러 복권 경품 관련 소송에서 직접 증언하도록 명령했다 — 1건 소송 범위는 다소 좁혀질 수 있지만, CEO의 법적 리스크가 재부각되며 테슬라 리더십 불확실성 요인으로 작용할 수 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-election-lottery-testify-2026-06-25",
+      "summary": "로이터에 따르면 미국 법원 판사가 일론 머스크에게 2024년 대통령 선거 기간 '미국 정치행동위원회(America PAC)'가 진행한 1달러 복권 경품 행사 관련 소송에서 직접 법정 증언을 하도록 명령했다. 단, 소송 가운데 1건의 청구 범위는 일부 좁혀질 수 있다고 보도됐다.\n\n해당 복권 행사는 경합 주의 선거인 명부 등록 유권자 중 무작위로 매일 1명에게 100만 달러를 지급하는 방식으로 운영됐다. 비판론자들은 이를 불법 도박 또는 유권자 매수 시도에 해당한다며 법적 조치를 취했으며, 법원은 머스크가 선서 아래 사실관계에 직접 답해야 한다고 판단했다.\n\n머스크는 SpaceX IPO, 도지 정부(DOGE) 역할, X(트위터) 운영 등 복합적인 사안으로 이미 상당한 주목을 받고 있다. 여기에 소송 증언 의무가 추가되면 CEO로서의 시간과 에너지가 분산될 수 있다는 점이 테슬라 주주 관점의 관심 포인트다.\n\n이번 소송은 테슬라 사업 자체와 직접 연관된 것이 아니라 머스크 개인의 정치 활동에서 비롯된 것이므로, 단기 주가 영향은 제한적일 수 있다. 그러나 CEO의 법적 리스크 누적은 기업 지배구조 측면의 불확실성으로 남는다.",
+      "title_en": "Elon Musk ordered to <em>testify in election lottery</em> lawsuits",
+      "hotShort_en": "Musk ordered to testify in <em>election lottery</em> suits",
+      "body_en": "A federal court has ordered Elon Musk to testify in lawsuits over a $1 lottery sweepstakes his political action committee ran during the 2024 presidential campaign, Reuters reports, with one of the cases potentially narrowed in scope — the ruling keeps CEO legal exposure elevated and adds a governance overhang for Tesla shareholders watching his mounting personal legal calendar.",
+      "summary_en": "A federal judge has ordered Elon Musk to provide sworn testimony in civil lawsuits stemming from a $1-per-entry lottery that his America PAC operated during the 2024 presidential campaign. The sweepstakes offered daily $1 million prizes to randomly selected registered voters in swing states who signed a constitutional petition — a promotion that drew legal challenges over whether it constituted illegal gambling or an attempt to influence voters.\n\nThe court ruling requires Musk to testify on the facts surrounding the lottery campaign. One of the lawsuits may be narrowed in scope, Reuters reports, though Musk's obligation to testify remains in place across the cases. The order means the Tesla CEO will need to dedicate time to deposition preparation and court appearances in the coming months.\n\nFor Tesla investors, the primary concern is not the specific legal case — which stems from personal political activity unrelated to Tesla's operations — but the cumulative governance risk of a CEO facing growing personal legal exposure. Musk's simultaneous roles across Tesla, SpaceX, xAI, X, and DOGE already raise time-allocation questions; formal testimony obligations add another claim on his schedule.\n\nThe key near-term execution priorities for Tesla — Cybercab launch readiness, FSD commercialization, and Q3 delivery targets — depend heavily on CEO-level focus. While legal proceedings rarely derail operations directly, continued personal legal entanglements keep a governance discount embedded in the stock.",
+      "href": "https://www.reuters.com/legal/government/elon-musk-ordered-testify-election-lottery-cases-one-lawsuit-may-be-narrowed-2026-06-25/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-25T17:49:36.000Z",
+      "title": "테슬라 CTO, JD파워 <em>비공식 품질 평가</em> 결과 주목 — \"구매 이유 하나 더\"",
+      "hotShort": "테슬라 CTO, JD파워 <em>비공식 품질</em> 결과 공유",
+      "body": "2026 JD파워 초기 품질 조사(IQS) 결과 미국 완성차 업계 품질이 전반적으로 향상된 가운데, 테슬라 CTO 라스 모라비가 공식 X 계정에 테슬라의 비공식 평가 결과를 언급하며 \"구매 이유가 하나 더 생겼다\"고 밝혔다 — 공식 참여를 하지 않는 테슬라가 고객 응답 데이터에서 긍정적 성적을 거뒀다는 신호로, 품질 개선 흐름의 외부 인증이다.",
+      "sourceName": "Lars Moravy (X)",
+      "sourceLabel": "official",
+      "slug": "product-jdpower-tesla-unofficial-2026-06-25",
+      "summary": "JD파워가 2026년 초기 품질 조사(IQS) 결과를 발표했다. IQS는 차량 구매 후 90일 이내 발생한 문제 건수를 100대당 기준으로 측정하는 미국 최대 소비자 품질 벤치마크로, 로이터는 올해 미국 완성차 업계의 전반적 품질이 향상됐으며 포드가 공식 부문 최고 영예를 차지했다고 보도했다.\n\n테슬라는 공식 참여사에서 제외된다 — 테슬라가 딜러 네트워크 없이 소비자에게 직접 판매하는 구조로 인해 JD파워에 공식 조사 접근권을 부여하지 않기 때문이다. 그러나 테슬라 고객이 자발적으로 설문에 응하는 방식으로 비공식 데이터가 집계되며, 테슬라는 주석 처리되는 방식으로 업계 맥락에서 언급된다.\n\n이번 결과에서 테슬라 CTO 라스 모라비가 공식 X 계정에 JD파워 수치를 인용하며 구매 추천 이유로 제시했다는 점이 주목된다. 임원이 공식 채널을 통해 JD파워 비공식 결과를 긍정적 영업 메시지로 활용한다는 것은 내부 품질 자신감을 시사한다.\n\n테슬라는 전통적으로 소프트웨어·통신 관련 초기 품질 불만이 많다는 평가를 받아왔다. 비공식 데이터에서도 긍정적 신호가 나온다면, 모델 3·Y의 품질 개선이 외부 소비자 인식에서도 확인되는 것으로, 브랜드 신뢰도 제고에 기여할 수 있다.",
+      "title_en": "Tesla CTO highlights <em>unofficial JD Power quality</em> result as buying reason",
+      "hotShort_en": "Tesla CTO touts <em>JD Power quality</em> ranking",
+      "body_en": "Tesla CTO Lars Moravy highlighted the company's unofficial showing in J.D. Power's 2026 Initial Quality Study as a reason to buy a Tesla — the 2026 IQS showed US automotive quality improving industrywide with Ford taking top official honors, while Moravy's tweet signals that Tesla performed positively in the informal consumer data despite not officially participating in the study.",
+      "summary_en": "J.D. Power released its 2026 Initial Quality Study (IQS), the leading annual benchmark measuring vehicle problems per 100 cars in the first 90 days of ownership. Reuters reported that industrywide automotive quality improved year-over-year, with Ford taking top official honors among participating manufacturers.\n\nTesla does not officially participate in J.D. Power's IQS because the company sells directly to consumers rather than through franchised dealerships, and has not granted J.D. Power formal survey access. As a result, Tesla's results are tallied from consumer-submitted responses rather than the manufacturer-facilitated process used for official rankings — placing Tesla's figures in an unofficial category within the published data.\n\nTesla CTO Lars Moravy took to X to highlight the company's unofficial IQS performance as a selling point, framing the J.D. Power data as another reason to recommend Tesla to friends. The willingness of a senior executive to proactively reference the study signals that the informal numbers are favorable enough to use in consumer-facing messaging — a meaningful shift given Tesla's historically mixed J.D. Power profile, which has reflected above-average software and connectivity complaints in earlier years.\n\nFor Tesla investors and analysts tracking brand perception and quality momentum, CTO-level promotion of third-party quality data indicates internal confidence that the quality narrative is improving. As Tesla's target customer profile broadens beyond early adopters toward mainstream buyers who rely on traditional quality benchmarks, favorable J.D. Power data — even unofficial — becomes an increasingly relevant competitive differentiator.",
+      "href": "https://x.com/larsmoravy/status/2070202763905282405",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Lars Moravy (X)",
+        "Reuters"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
