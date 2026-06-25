@@ -1,10 +1,30 @@
 {
-  "asOf": "2026-06-25 18:45 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-25 21:26 KST 자동 갱신 · 최신순",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "50m ago",
+      "time": "2h ago",
+      "pubDate": "2026-06-25T10:19:27.000Z",
+      "title": "Reuters — 중국 완성차, 미국 진출 '사전 연습'으로 <em>캐나다 시장에 대거 진입</em>",
+      "hotShort": "중국 EV, 美 진출 '사전 연습' — <em>캐나다 집결</em>",
+      "body": "로이터가 여러 중국 자동차 업체들이 미국 시장 진출의 '사전 연습' 목적으로 캐나다에 속속 진입하고 있다고 보도했다 — 미국의 높은 관세 장벽을 우회하면서 북미 시장 경험을 축적하는 전략으로, 테슬라의 핵심 홈마켓인 북미를 장기 목표로 삼은 중국 EV의 포석이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-china-ev-canada-us-2026-06-25",
+      "summary": "미국은 중국산 전기차에 높은 관세를 부과해 사실상 직접 수입을 차단하고 있다. 이 장벽을 우회하면서 북미 운영 경험을 쌓는 전략으로, 로이터 보도에 따르면 다수의 중국 완성차 업체가 캐나다를 '미국 판매를 위한 사전 연습(practice run)' 거점으로 삼고 있다. 캐나다는 미국과 동일한 북미 소비자·규제 환경을 제공하면서도 진입 문턱이 낮은 시험 무대다.\n\n중국 자동차 산업은 BYD를 선두로 SAIC·지리(Geely)·체리(Chery)·니오(NIO) 등 수십 개 업체가 세계 최대 전기차 시장에서 경쟁하며 기술력과 가격경쟁력 모두를 빠르게 끌어올려왔다. 이들은 이미 유럽·동남아·남미에서 현지 점유율을 높이는 데 성공했으며, 관세 장벽으로 마지막까지 남겨진 북미 시장을 향한 포석이 캐나다 진출로 구체화되고 있다.\n\n테슬라 주주에게 이 흐름은 중장기 관전 포인트다. 현재의 관세 장벽이 영구적이지 않을 수 있는 데다, 캐나다에서 딜러·서비스망·브랜드 인지도를 체계적으로 쌓은 중국 EV 업체들이 언젠가 미국 진입 기회를 노릴 수 있다. 테슬라가 북미에서 FSD·소프트웨어 생태계·브랜드 등 비가격 경쟁력을 지속 강화해야 하는 이유를 재확인해주는 흐름이다.",
+      "title_en": "Reuters: Chinese automakers rush to Canada as a <em>'practice run' for US sales</em>",
+      "hotShort_en": "China EVs rush Canada to <em>rehearse US entry</em>",
+      "body_en": "Multiple Chinese automakers are racing into Canada as a 'practice run' for eventual US market entry, Reuters reports — a strategic workaround to the high US tariff wall on Chinese-made vehicles that amounts to a systematic North American rehearsal, with Tesla's home market as the long-term target.",
+      "summary_en": "The United States maintains high tariff barriers on Chinese-made vehicles, effectively blocking direct mass-market imports. To build North American operational experience while those barriers remain, Reuters reports that Chinese carmakers are rushing into Canada — using it as a stepping stone to learn the regulatory environment, develop dealer networks, and build brand recognition before any eventual US entry becomes viable.\n\nChina's automotive sector has become the world's most competitive EV ecosystem, with BYD leading a group that includes SAIC, Geely, Chery, and NIO, among many others. These companies have successfully expanded into Europe, Southeast Asia, and Latin America with competitive pricing and rapidly improving technology. North America represents the last major market where they have not yet achieved meaningful scale — and Canada offers a lower-barrier entry point into the broader North American consumer environment.\n\nFor Tesla shareholders, the read-through is a medium-to-long-term competitive signal. The US tariff wall is a policy lever, not a permanent structural moat — and Chinese EV manufacturers building systematic North American experience in Canada are methodically preparing for the day those barriers loosen. Tesla's durable competitive advantages in this scenario are brand strength, the FSD ecosystem, and software differentiation: the non-price factors that Chinese competitors have historically found hardest to replicate quickly.",
+      "href": "https://www.reuters.com/business/autos-transportation/chinas-carmakers-rush-canada-practice-run-us-sales-2026-06-25/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
       "pubDate": "2026-06-25T08:43:44.000Z",
       "title": "Reuters — 마이크론 어닝 서프라이즈에 <em>AI 랠리 재점화</em> — 글로벌 반도체株 급등",
       "hotShort": "마이크론 어닝 서프라이즈로 <em>AI 랠리 재점화</em>",
@@ -24,7 +44,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-25T06:51:23.000Z",
       "title": "바론스 — SpaceX 데이터센터 전력 수요로 <em>전력주 판도 재편</em> 전망",
       "hotShort": "바론스: SpaceX 전력 수요로 <em>전력주 판도 재편</em>",
@@ -44,7 +64,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-25T05:18:00.000Z",
       "title": "WSJ — 폭스바겐, 내연기관 사업부 지분 과반을 <em>베인캐피탈에 매각</em>",
       "hotShort": "폭스바겐, <em>내연기관 사업부</em> 베인캐피탈에 매각",
@@ -60,6 +80,26 @@
       "href": "https://www.wsj.com/business/deals/volkswagen-to-sell-majority-stake-in-engine-unit-to-bain-capital-ae17cb9f",
       "sentiment": "bull",
       "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "14h ago",
+      "pubDate": "2026-06-24T22:12:00.000Z",
+      "title": "Reuters Breakingviews — 런던, <em>국제 로보택시 전쟁</em>에 참전 예고",
+      "hotShort": "로이터 분석: 런던, <em>국제 로보택시 전쟁</em> 선언",
+      "body": "로이터 Breakingviews가 런던이 미국·중국 자율주행 기업들과 국제 로보택시 경쟁을 본격 준비하고 있다고 분석했다 — 세계 최대 도시 중 하나인 런던의 로보택시 시장 참전은 테슬라 사이버캡의 유럽 진출 무대가 구체화되고 글로벌 자율주행 경쟁이 미국·중국 너머로 확전되고 있음을 보여준다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-london-robotaxi-warfare-2026-06-24",
+      "summary": "로이터 Breakingviews는 런던이 글로벌 로보택시 시장 경쟁에 적극적으로 뛰어들 것이라는 분석을 발표했다. '국제 로보택시 전쟁(international robotaxi warfare)'이라는 표현은 런던이 단순한 수혜 시장이 아니라 직접 경쟁에 나서는 능동적 플레이어로 부상하고 있음을 시사한다. 런던은 일평균 수백만 건의 도심 이동 수요가 발생하는 세계 최대 도시 가운데 하나로, 로보택시 서비스의 핵심 표적 시장이다.\n\n영국은 자율주행 차량 시험 운행에 비교적 열린 규제 환경을 유지해왔고, 정부는 자율주행 차량의 공공도로 운행을 허용하는 방향으로 법제도를 정비해왔다. 런던에서는 이미 여러 차례 자율주행 시범 운행이 진행됐다. 이런 배경에서 미국의 웨이모·테슬라, 중국의 자율주행 플랫폼들이 유럽 대도시 시장을 선점하기 위해 경쟁하는 가운데, 런던이 '전쟁'을 선언하는 구도가 형성되고 있다.\n\n테슬라 주주에게 런던의 움직임은 긍정 신호다. 미국 이외 최대 대도시 중 하나가 로보택시 생태계를 공식 의제로 채택했다는 것은 테슬라 사이버캡의 국제 시장 확대 서사에 힘을 싣는다. 런던이 구체적 규제 경쟁 환경을 열수록, 이미 자율주행 기술·데이터를 가장 많이 축적한 플레이어들이 유리한 위치에서 진입할 수 있다.",
+      "title_en": "Reuters Breakingviews: London gears up to <em>wage international robotaxi warfare</em>",
+      "hotShort_en": "London enters the <em>global robotaxi war</em>",
+      "body_en": "Reuters Breakingviews analyzes how London is positioning for aggressive international competition in the robotaxi market — as one of the world's largest cities formally enters the autonomous ride-hailing race, the global competitive battleground is expanding beyond the US and China into European metropolises where Tesla's Cybercab has ambitions to operate.",
+      "summary_en": "Reuters Breakingviews has published an analysis arguing that London is preparing to 'wage international robotaxi warfare' — positioning the city as an active competitor rather than a passive host in the global race for autonomous ride-hailing. London is one of the world's densest and most commercially significant urban mobility markets, with millions of daily trips that make it a high-value target for robotaxi operators seeking commercial scale.\n\nThe UK has maintained a relatively open regulatory environment for autonomous vehicle development and testing, with the government progressively updating legislation to enable self-driving vehicles on public roads. Multiple AV trials have been conducted in London and other UK cities. The Breakingviews framing of 'international warfare' suggests London is actively courting or building autonomous vehicle ecosystems that can compete with US-origin players like Waymo and Tesla's Cybercab, as well as Chinese autonomous driving platforms.\n\nFor Tesla shareholders, London's formal entry into the global robotaxi conversation is directionally positive for the international Cybercab narrative. A major global city explicitly engaging with autonomous mobility as a competitive priority validates the premise that robotaxi services will operate at commercial scale in major cities worldwide. Tesla's accumulated real-world autonomy data across millions of vehicles positions it as one of the best-resourced entrants into any new major-market regulatory environment — including London.",
+      "href": "https://www.reuters.com/commentary/breakingviews/london-will-wage-international-robotaxi-warfare-2026-06-24/",
+      "sentiment": "bull",
+      "hot": 5
     }
   ]
 }

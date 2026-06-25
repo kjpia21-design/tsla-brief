@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-25 18:45 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-25 21:26 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-25T10:19:27.000Z",
+      "title": "Reuters — 중국 완성차, 미국 진출 '사전 연습'으로 <em>캐나다 시장에 대거 진입</em>",
+      "hotShort": "중국 EV, 美 진출 '사전 연습' — <em>캐나다 집결</em>",
+      "body": "로이터가 여러 중국 자동차 업체들이 미국 시장 진출의 '사전 연습' 목적으로 캐나다에 속속 진입하고 있다고 보도했다 — 미국의 높은 관세 장벽을 우회하면서 북미 시장 경험을 축적하는 전략으로, 테슬라의 핵심 홈마켓인 북미를 장기 목표로 삼은 중국 EV의 포석이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-china-ev-canada-us-2026-06-25",
+      "summary": "미국은 중국산 전기차에 높은 관세를 부과해 사실상 직접 수입을 차단하고 있다. 이 장벽을 우회하면서 북미 운영 경험을 쌓는 전략으로, 로이터 보도에 따르면 다수의 중국 완성차 업체가 캐나다를 '미국 판매를 위한 사전 연습(practice run)' 거점으로 삼고 있다. 캐나다는 미국과 동일한 북미 소비자·규제 환경을 제공하면서도 진입 문턱이 낮은 시험 무대다.\n\n중국 자동차 산업은 BYD를 선두로 SAIC·지리(Geely)·체리(Chery)·니오(NIO) 등 수십 개 업체가 세계 최대 전기차 시장에서 경쟁하며 기술력과 가격경쟁력 모두를 빠르게 끌어올려왔다. 이들은 이미 유럽·동남아·남미에서 현지 점유율을 높이는 데 성공했으며, 관세 장벽으로 마지막까지 남겨진 북미 시장을 향한 포석이 캐나다 진출로 구체화되고 있다.\n\n테슬라 주주에게 이 흐름은 중장기 관전 포인트다. 현재의 관세 장벽이 영구적이지 않을 수 있는 데다, 캐나다에서 딜러·서비스망·브랜드 인지도를 체계적으로 쌓은 중국 EV 업체들이 언젠가 미국 진입 기회를 노릴 수 있다. 테슬라가 북미에서 FSD·소프트웨어 생태계·브랜드 등 비가격 경쟁력을 지속 강화해야 하는 이유를 재확인해주는 흐름이다.",
+      "title_en": "Reuters: Chinese automakers rush to Canada as a <em>'practice run' for US sales</em>",
+      "hotShort_en": "China EVs rush Canada to <em>rehearse US entry</em>",
+      "body_en": "Multiple Chinese automakers are racing into Canada as a 'practice run' for eventual US market entry, Reuters reports — a strategic workaround to the high US tariff wall on Chinese-made vehicles that serves as a systematic North American rehearsal, with Tesla's home market as the long-term target.",
+      "summary_en": "The United States maintains high tariff barriers on Chinese-made vehicles, effectively blocking direct mass-market imports. To build North American operational experience while those barriers remain, Reuters reports that Chinese carmakers are rushing into Canada — using it as a stepping stone to learn the regulatory environment, develop dealer networks, and build brand recognition before any eventual US entry becomes viable.\n\nChina's automotive sector has become the world's most competitive EV ecosystem, with BYD leading a group that includes SAIC, Geely, Chery, and NIO, among many others. These companies have successfully expanded into Europe, Southeast Asia, and Latin America with competitive pricing and rapidly improving technology. North America represents the last major market where they have not yet achieved meaningful scale — and Canada offers a lower-barrier entry point into the broader North American consumer environment.\n\nFor Tesla shareholders, the read-through is a medium-to-long-term competitive signal. The US tariff wall is a policy lever, not a permanent structural moat — and Chinese EV manufacturers building systematic North American experience in Canada are methodically preparing for the day those barriers loosen. Tesla's durable competitive advantages in this scenario are brand strength, the FSD ecosystem, and software differentiation: the non-price factors that Chinese competitors have historically found hardest to replicate quickly.",
+      "href": "https://www.reuters.com/business/autos-transportation/chinas-carmakers-rush-canada-practice-run-us-sales-2026-06-25/",
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -60,6 +80,26 @@
       "href": "https://www.wsj.com/business/deals/volkswagen-to-sell-majority-stake-in-engine-unit-to-bain-capital-ae17cb9f",
       "sentiment": "bull",
       "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "14h ago",
+      "pubDate": "2026-06-24T22:12:00.000Z",
+      "title": "Reuters Breakingviews — 런던, <em>국제 로보택시 전쟁</em>에 참전 예고",
+      "hotShort": "로이터 분석: 런던, <em>국제 로보택시 전쟁</em> 선언",
+      "body": "로이터 Breakingviews가 런던이 미국·중국 자율주행 기업들과 국제 로보택시 경쟁을 본격 준비하고 있다고 분석했다 — 세계 최대 도시 중 하나인 런던의 로보택시 시장 참전은 테슬라 사이버캡의 유럽 진출 무대가 구체화되고 글로벌 자율주행 경쟁이 미국·중국 너머로 확전되고 있음을 보여준다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-london-robotaxi-warfare-2026-06-24",
+      "summary": "로이터 Breakingviews는 런던이 글로벌 로보택시 시장 경쟁에 적극적으로 뛰어들 것이라는 분석을 발표했다. '국제 로보택시 전쟁(international robotaxi warfare)'이라는 Breakingviews의 표현은 런던이 단순한 수혜 시장이 아니라 직접 경쟁에 나서는 능동적 플레이어로 부상하고 있음을 시사한다. 런던은 일평균 수백만 건의 도심 이동 수요가 발생하는 세계 최대 도시 가운데 하나로, 로보택시 서비스의 핵심 표적 시장이다.\n\n영국은 자율주행 차량 시험 운행에 비교적 열린 규제 환경을 유지해왔고, 정부는 자율주행 차량의 공공도로 운행을 허용하는 방향으로 법제도를 정비해왔다. 런던에서는 이미 여러 차례 자율주행 시범 운행이 진행됐다. 이런 배경에서 미국의 웨이모·테슬라, 중국의 자율주행 플랫폼들이 유럽 대도시 시장을 선점하기 위해 경쟁하는 가운데, 런던이 '전쟁'을 선언하는 구도가 형성되고 있다.\n\n테슬라 주주에게 런던의 움직임은 긍정 신호다. 미국 이외 최대 대도시 중 하나가 로보택시 생태계를 공식 의제로 채택했다는 것은 테슬라 사이버캡의 국제 시장 확대 서사에 힘을 싣는다. 런던이 구체적 규제 경쟁 환경을 열수록, 이미 자율주행 기술·데이터를 가장 많이 축적한 플레이어들이 유리한 위치에서 진입할 수 있다.",
+      "title_en": "Reuters Breakingviews: London gears up to <em>wage international robotaxi warfare</em>",
+      "hotShort_en": "London enters the <em>global robotaxi war</em>",
+      "body_en": "Reuters Breakingviews analyzes how London is positioning for aggressive international competition in the robotaxi market — as one of the world's largest cities formally enters the autonomous ride-hailing race, the global competitive battleground for robotaxi is expanding beyond the US and China into European metropolises where Tesla's Cybercab has ambitions to operate.",
+      "summary_en": "Reuters Breakingviews has published an analysis arguing that London is preparing to 'wage international robotaxi warfare' — positioning the city as an active competitor rather than a passive host in the global race for autonomous ride-hailing. London is one of the world's densest and most commercially significant urban mobility markets, with millions of daily trips that make it a high-value target for robotaxi operators seeking commercial scale.\n\nThe UK has maintained a relatively open regulatory environment for autonomous vehicle development and testing, with the government progressively updating legislation to enable self-driving vehicles on public roads. Multiple AV trials have been conducted in London and other UK cities. The Breakingviews framing of 'international warfare' suggests this is an escalation: London actively courting or building autonomous vehicle ecosystems that can compete with US-origin players like Waymo and Tesla's Cybercab, as well as Chinese autonomous driving platforms.\n\nFor Tesla shareholders, London's formal entry into the global robotaxi conversation is directionally positive for the international Cybercab narrative. A major global city explicitly engaging with autonomous mobility as a competitive priority validates the premise that robotaxi services will operate at commercial scale in major cities worldwide. Tesla's accumulated real-world autonomy data across millions of vehicles positions it as one of the best-resourced entrants into any new major-market regulatory environment — including London.",
+      "href": "https://www.reuters.com/commentary/breakingviews/london-will-wage-international-robotaxi-warfare-2026-06-24/",
+      "sentiment": "bull",
+      "hot": 5
     },
     {
       "category": "product",
@@ -2018,46 +2058,6 @@
       "href": "https://www.teslarati.com/tesla-full-self-driving-app-connectivity-save-life-in-medical-emergency/",
       "sentiment": "bull",
       "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20m ago",
-      "pubDate": "2026-06-17T16:41:00.000Z",
-      "title": "테슬라 차주들, 인형 머리로 <em>FSD 운전자 감지 카메라 우회</em>",
-      "hotShort": "인형 머리로 테슬라 FSD <em>운전자 감지 카메라 우회</em>",
-      "body": "InsideEVs가 인형 머리를 헤드레스트에 올려 테슬라 FSD의 실내 운전자 감지 카메라를 속이는 차주 사례들을 보도했다 — 이틀 전 중국 e커머스에서 제품 판매 보도에 이어, 이번엔 실제 차주들의 사용 사례가 확인돼 안전·규제 리스크로 번질 수 있다.",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "fsd-doll-heads-cabin-camera-usage-2026-06-17",
-      "summary": "FSD(Full Self-Driving)는 실내 카메라로 운전자의 눈·고개 방향을 실시간 추적해 주의 분산을 감지하는 안전 장치를 갖추고 있다. InsideEVs는 일부 테슬라 차주들이 인형 머리를 헤드레스트에 올려두는 방식으로 이 카메라를 속여 FSD의 주의 경고 개입을 차단하고 있다는 사례들을 구체적으로 보도했다. 이틀 전 중국 e커머스 플랫폼에서 개당 $20~$50짜리 전용 제품이 유통된다는 보도가 있었고, 이번엔 실제 차주 사용이 확인된 것이다.\n\n이 행위는 테슬라 서비스 약관을 정면으로 위반하며, 운전자가 차량을 제어할 준비를 갖춰야 하는 교통법 의무도 면탈한다. FSD는 현재 SAE 레벨 2(감독 필요 자율주행)이며, 법적으로 운전자가 언제든 개입할 수 있어야 한다. 인형 머리 트릭은 이 전제를 완전히 무력화하는 위험한 행위다.\n\n테슬라 투자자 관점에서 이 현상은 규제 리스크와 직결된다. NHTSA(미국 도로교통안전국)는 FSD 관련 사고를 지속적으로 모니터링 중이며, 운전자 모니터링 우회가 광범위하게 이루어진다는 증거가 누적되면 소프트웨어 업데이트 강제·FSD 사용 제한·추가 규제 요구로 이어질 수 있다. FSD 기술의 진보가 시장 신뢰로 연결되려면, 안전 시스템 우회에 대한 선제적 대응이 요구된다.",
-      "title_en": "Tesla owners using doll heads to <em>fool FSD driver-monitoring camera</em>",
-      "hotShort_en": "Doll heads used to <em>fool FSD cabin monitor</em>",
-      "body_en": "InsideEVs documents Tesla owners placing doll heads on headrests to trick FSD's interior driver-monitoring camera — confirmed use follows a report two days ago that purpose-built $20–$50 doll heads were circulating on Chinese e-commerce, raising safety and regulatory concerns.",
-      "summary_en": "Tesla's Full Self-Driving system relies on an in-cabin camera to track driver eye gaze and head orientation, issuing warnings and disengaging if it detects inattention. InsideEVs has documented cases of Tesla owners exploiting a gap in this system by placing doll heads or similar objects near the headrest area, fooling the camera into registering a human presence and bypassing intervention prompts.\n\nTwo days earlier, reporting surfaced that purpose-designed doll heads — priced at $20 to $50 each — were being sold on Chinese e-commerce platforms specifically for this purpose. The InsideEVs story confirms the behavior has moved from product availability to documented real-world use.\n\nThe practice clearly violates Tesla's terms of service and circumvents the legal obligation for a driver to remain ready to intervene — FSD operates at SAE Level 2, requiring continuous human oversight. Fooling the monitoring system eliminates that legal backstop entirely.\n\nFor Tesla investors, documented widespread use of such workarounds adds regulatory exposure. NHTSA has been closely monitoring FSD-related incidents. If the agency finds systemic evidence of driver-monitoring bypass, it could require Tesla to implement anti-spoofing countermeasures in the cabin camera system — an engineering and compliance burden that sits alongside FSD's ongoing commercial expansion.",
-      "href": "https://insideevs.com/news/798901/tesla-owners-doll-heads-fsd/",
-      "sentiment": "bear",
-      "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-17T16:36:38.000Z",
-      "title": "블룸버그 \"시타델, SpaceX에 <em>천문학적 규모</em>의 개인투자자 거래 목격\"",
-      "hotShort": "시타델: SpaceX 개인 매수세 <em>천문학적 수준</em>",
-      "body": "블룸버그에 따르면 미국 최대 시장조성사 시타델 시큐리티스가 SpaceX 상장 이후 개인투자자 거래 규모를 '천문학적(astronomical)'이라 표현했다 — IPO 이후 4거래일 연속 랠리(+58%)를 견인한 강력한 소매 매수세가 업계 데이터로 공식 확인됐다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-citadel-spacex-astronomical-retail-2026-06-17",
-      "summary": "블룸버그에 따르면 미국 최대 시장조성사 시타델 시큐리티스가 SpaceX 상장 이후 개인투자자의 거래 참여를 '천문학적(astronomical)'이라는 표현으로 묘사했다. 시타델은 SpaceX IPO 이후 리테일 주문 흐름이 그들이 경험한 가장 강력한 수준에 속한다고 밝혔다.\n\nSpaceX는 역대 최대 규모의 IPO 이후 4거래일 연속 상승하며 누적 +58%의 랠리를 기록했다. 시타델의 데이터는 이 랠리가 기관투자자뿐 아니라 개인투자자 매수세가 강력하게 뒷받침된 현상임을 공식 확인해준다.\n\n테슬라 주주 관점에서 SpaceX의 개인투자자 열기는 복합적 신호다. SpaceX와 테슬라는 별도 상장 기업이지만, 같은 날 NYT가 두 회사의 대합병 가능성을 분석한 것처럼 일론 머스크라는 공통 요소를 통해 투자 심리에 영향을 미친다. SpaceX 리테일 열기가 테슬라 투자 매력도를 간접 보강할 가능성도 존재한다.",
-      "title_en": "Bloomberg: Citadel Securities saw <em>'astronomical'</em> retail trading in SpaceX",
-      "hotShort_en": "Citadel: SpaceX retail demand <em>'astronomical'</em> post-IPO",
-      "body_en": "Bloomberg reports Citadel Securities, the largest U.S. market maker, described retail investor participation in SpaceX post-IPO as 'astronomical' — providing industry-level confirmation that broad individual investor buying has powered SpaceX's 4-day, 58% post-IPO rally.",
-      "summary_en": "Citadel Securities, the dominant U.S. market maker that processes a substantial share of domestic retail order flow, described retail investor activity in SpaceX stock following its IPO as 'astronomical,' according to Bloomberg. The characterization places SpaceX's retail participation level among the most intense that Citadel has processed in recent memory.\n\nSpaceX gained approximately 58% over the four trading sessions since its IPO, making it one of the strongest post-listing performances among large-cap offerings in recent years. Citadel's data provides an industry-level confirmation that this rally has been driven by broad individual investor participation, not just institutional activity.\n\nFor Tesla shareholders, the intensity of SpaceX's retail enthusiasm is a contextual signal. The two companies are separate listed entities, but their shared CEO means investor sentiment around Musk's ventures tends to move in concert. On the same day Citadel reported this retail surge, the New York Times was analyzing whether a Tesla-SpaceX merger could be Musk's next strategic move — a scenario that, if it develops, would make SpaceX's retail appeal directly relevant to Tesla shareholders.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-17/citadel-securities-saw-astronomical-retail-trading-in-spacex",
-      "sentiment": "bull",
-      "hot": 5
     }
   ]
 }
