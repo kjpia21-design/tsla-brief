@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-25 06:40 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-25 09:10 KST 자동 갱신 · 최신순",
   "items": [
     {
       "category": "fsd",
@@ -99,7 +99,10 @@
       "summary_en": "Tesla, Sunrun, and Renew Home have announced an agreement to aggregate distributed energy resources — including Powerwall home battery systems, smart thermostats, and other grid-edge devices — into a virtual power plant exceeding 16 gigawatts of combined capacity. The companies describe the arrangement as the largest distributed power plant in US history. The stated commercial target is AI data center power demand, one of the fastest-growing load categories in American electricity markets.\n\n16 GW is roughly equivalent to the output of 16 mid-sized nuclear power plants. Rather than building a single centralized facility, VPP technology aggregates thousands or millions of small distributed energy resources via software, coordinating their output in response to grid needs. Tesla contributes Powerwall battery systems and energy management software; Sunrun brings its large-scale residential solar-plus-storage installation network; Renew Home provides the distributed energy resource management platform that integrates and dispatches the three parties' assets in real time.\n\nAI data centers require hundreds of megawatts of reliable, continuous power for training clusters and inference infrastructure. Conventional utility-scale power development cannot match the pace of hyperscaler buildout, creating an opening for VPP providers able to deliver flexible, aggregated capacity without decade-long transmission and generation construction timelines. Tesla's position in this partnership makes it a direct supplier to the AI economy through its residential energy ecosystem — a revenue channel that is structurally independent of EV delivery volumes.\n\nBarron's reported that Sunrun's stock surged 30% on announcement day, recovering the company's entire 2026 year-to-date losses in a single session. That market reaction reflects investors reading this as a structural entry into the AI infrastructure supply chain rather than a routine commercial agreement. For Tesla shareholders, the deal is the clearest signal yet that Tesla Energy's growth story is moving beyond utility-scale Megapack installations into a wider AI infrastructure role.",
       "href": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
       "confirmedBy": 2,
-      "confirmingSources": ["Electrek", "Barron's"],
+      "confirmingSources": [
+        "Electrek",
+        "Barron's"
+      ],
       "sentiment": "bull",
       "hot": 8
     },
