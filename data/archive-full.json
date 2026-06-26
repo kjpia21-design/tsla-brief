@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-06-26 19:58 UTC · 누적 479건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-26 21:36 UTC · 누적 480건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
+      "pubDate": "2026-06-26T15:56:12.000Z",
+      "title": "SpaceX 신규 $25B 채권, 발행 직후 <em>손실 눈덩이</em>",
+      "hotShort": "SpaceX $25B 채권, 발행 직후 <em>손실 확대</em>",
+      "body": "SpaceX가 IPO 2주 만에 발행한 $25B(250억 달러) 채권이 2차시장에서 빠르게 약세를 보이며, 미 국채 대비 평가손실이 ~$305M(약 3억 달러)까지 불어났다고 Bloomberg가 전했다 — 상장 후 주식 가치가 $600B+ 증발한 데 이어 채권 시장에서도 SpaceX 리스크 재평가가 진행되는 신호로, 머스크 자산·심리 전반에 부담을 주며 테슬라 투자 심리와도 맞물린다.",
+      "title_en": "SpaceX's new <em>$25B bonds slide</em> just weeks after IPO",
+      "hotShort_en": "SpaceX's $25B bonds <em>slide</em> post-IPO",
+      "body_en": "SpaceX's $25B bond sale — issued barely two weeks after its IPO — is weakening so fast in the secondary market that paper losses versus Treasuries have swelled to roughly $305M, Bloomberg reports. Coming on top of more than $600B wiped from the stock since launch, the bond-market repricing of SpaceX risk pressures Elon Musk's wealth and sentiment broadly, and ties into investor mood around Tesla.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-bond-losses-2026-06-26",
+      "summary": "SpaceX는 상장 약 2주 만에 당초 $20B 목표를 $25B로 늘려 선순위 무담보 채권을 발행했고, 주문은 ~$90B까지 몰리며 흥행한 듯 보였다. 그러나 거래가 시작되자 채권 가격이 빠르게 약세로 돌아섰다.\n\nBloomberg에 따르면 목요일 늦게 기준 미 국채 대비 평가손실은 약 $305M에 달했고, 만기가 가장 긴 2056년물은 발행 스프레드(국채+1.75%p)보다 최대 0.32%p 더 벌어진 수준에 호가됐다. 주문이 몰리며 좁혀졌던 스프레드 축소분이 사실상 모두 되돌려진 셈이다. 한 트레이더는 '이 정도 확대는 예상 밖'이라며, 상장 후 주식에서 $600B+가 증발한 충격, 증액 발행에 따른 수급 부담, 그리고 SpaceX 특유의 리스크를 어떻게 가격에 반영할지에 대한 시장의 혼란이 겹친 '퍼펙트 스톰'이라고 평했다.\n\n이 사안이 테슬라 주주에게도 의미가 있는 이유는 머스크 자산과 시장 심리가 SpaceX·테슬라·xAI 등 머스크 관련 자산 전반에 연동되기 때문이다. SpaceX 증권(주식·채권)의 동반 약세는 머스크 '제국' 전반의 리스크 재평가로 읽히며, 테슬라 투자 심리에도 간접적인 부담으로 작용할 수 있다. 다만 이는 SpaceX 고유의 채권 가격 변동이며, 테슬라의 실적·펀더멘털과 직접적인 인과는 아니다.",
+      "summary_en": "SpaceX upsized its senior unsecured note offering from an initial $20B target to $25B about two weeks after going public, and the deal looked like a hit as orders swelled to nearly $90B. Once the notes began trading, however, prices turned weak fast.\n\nPer Bloomberg, paper losses versus Treasuries reached roughly $305M as of late Thursday, and the longest-dated 2056 notes were quoted as much as 0.32 percentage point wider than their issue spread of 1.75 points over Treasuries — effectively erasing all the tightening that had followed the heavy order book. One trader called the magnitude a 'perfect storm' of the stock shedding more than $600B since launch, weak technicals from the upsized supply, and investors still struggling to price SpaceX's unique risk profile.\n\nThe story matters to Tesla shareholders because Musk's wealth and market sentiment are linked across his constellation of assets — SpaceX, Tesla, xAI. A simultaneous slide in SpaceX securities, both equity and debt, reads as a broad repricing of risk across Musk's empire and can weigh indirectly on Tesla sentiment. That said, this is SpaceX-specific bond-price action and not a direct read on Tesla's earnings or fundamentals.",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-26/bond-traders-stunned-as-losses-on-spacex-s-new-debt-keep-growing",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",

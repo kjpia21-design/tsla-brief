@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-26 19:58 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-26 21:36 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "17m ago",
+      "pubDate": "2026-06-26T21:19:57.000Z",
+      "title": "OpenAI Limits Release of New Model Under Pressure From US",
+      "body": "OpenAI Limits Release of New Model Under Pressure From US Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-26/openai-limits-release-of-new-model-under-pressure-from-us"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "40m ago",
+      "time": "2h ago",
       "pubDate": "2026-06-26T19:18:18.000Z",
       "title": "SpaceX stock slide sends chill through tech rally, investor says",
       "body": "SpaceX stock slide sends chill through tech rally, investor says Reuters",
@@ -17,7 +30,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
+      "pubDate": "2026-06-26T18:30:21.000Z",
+      "title": "US & International Top News Stories Today",
+      "body": "US & International Top News Stories Today AP News",
+      "sourceName": "AP News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://apnews.com/hub/apf-topnews?p"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
       "pubDate": "2026-06-26T18:20:00.000Z",
       "title": "The Magnificent 7 Tech Stocks Have Been Suddenly Forgotten",
       "body": "The Magnificent 7 Tech Stocks Have Been Suddenly Forgotten Barron's",
@@ -30,20 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-26T18:17:19.000Z",
-      "title": "N.M. Governor Asks for Criminal Investigation of D.E.A. Agents",
-      "body": "N.M. Governor Asks for Criminal Investigation of D.E.A. Agents The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/2026/06/26/us/new-mexico-governor-drug-charges-dea.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-26T18:05:06.000Z",
       "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
       "body": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk The New York Times",
@@ -56,20 +69,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-26T15:56:12.000Z",
-      "title": "Bond Traders Stunned as Losses on SpaceX’s New Debt Keep Growing",
-      "body": "Bond Traders Stunned as Losses on SpaceX’s New Debt Keep Growing Bloomberg.com",
+      "time": "6h ago",
+      "pubDate": "2026-06-26T15:47:44.000Z",
+      "title": "SpaceX Index Era Sets Up Clash Among Shorts and Passive Billions",
+      "body": "SpaceX Index Era Sets Up Clash Among Shorts and Passive Billions Bloomberg.com",
       "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-26/bond-traders-stunned-as-losses-on-spacex-s-new-debt-keep-growing"
+      "href": "https://www.bloomberg.com/news/articles/2026-06-26/spacex-index-era-sets-up-clash-among-shorts-and-passive-billions"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-26T14:15:00.000Z",
       "title": "Tesla Stock Is Having a Bad Week and an Even Worse Month",
       "body": "Tesla Stock Is Having a Bad Week and an Even Worse Month Barron's",
@@ -82,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-26T13:58:00.000Z",
       "title": "Tesla settles lawsuit over fatal ‘Full Self-Driving’ pedestrian crash",
       "body": "Tesla settles lawsuit over fatal ‘Full Self-Driving’ pedestrian crash Electrek",
@@ -95,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-26T13:15:55.000Z",
       "title": "Fed Chair Warsh taps veteran staff economists as advisers, WSJ reports",
       "body": "Fed Chair Warsh taps veteran staff economists as advisers, WSJ reports Reuters",
@@ -106,9 +119,22 @@
       "href": "https://www.reuters.com/business/fed-chair-warsh-taps-veteran-economists-advisers-wsj-reports-2026-06-26/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "9h ago",
+      "pubDate": "2026-06-26T12:13:00.000Z",
+      "title": "Apple, Microsoft Face Bigger Problems Than Micron’s Memory Prices",
+      "body": "Apple, Microsoft Face Bigger Problems Than Micron’s Memory Prices Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/apple-microsoft-prices-things-to-know-today-9dbf9d48"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-26T12:13:00.000Z",
       "title": "Apple, Microsoft Face Bigger Problems Than Micron’s Memory Prices",
       "body": "Apple, Microsoft Face Bigger Problems Than Micron’s Memory Prices Barron's",
@@ -121,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-26T12:06:35.000Z",
       "title": "Goldman Sachs says buy this gambling stock, sees it adding to its sharp 2026 gains",
       "body": "Goldman Sachs says buy this gambling stock, sees it adding to its sharp 2026 gains CNBC",
@@ -134,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-26T12:00:15.000Z",
       "title": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving",
       "body": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving Bloomberg.com",
@@ -147,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-26T11:27:38.000Z",
       "title": "Robinhood is expensive relative to peers. BTIG says the premium is 'warranted'",
       "body": "Robinhood is expensive relative to peers. BTIG says the premium is 'warranted' CNBC",
@@ -160,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-26T11:13:10.000Z",
       "title": "Russian-installed authorities declare economic emergency in Crimea",
       "body": "Russian-installed authorities declare economic emergency in Crimea Reuters",
@@ -173,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-26T10:49:51.000Z",
       "title": "Nike's turnaround 'not enough' to remain bullish on the stock, KeyBanc says",
       "body": "Nike's turnaround 'not enough' to remain bullish on the stock, KeyBanc says CNBC",
@@ -184,22 +210,9 @@
       "href": "https://www.cnbc.com/2026/06/26/nikes-turnaround-not-enough-to-remain-bullish-on-stock-per-keybanc.html"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-06-26T09:03:36.000Z",
-      "title": "Britain backs electricity storage projects as heatwave strains grid",
-      "body": "Britain backs electricity storage projects as heatwave strains grid Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/6046abc9-2ae8-47ec-a94c-5f98cb772cff?syn-25a6b1a6"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-26T09:03:36.000Z",
       "title": "Britain backs electricity storage projects as heatwave strains grid",
       "body": "Britain backs electricity storage projects as heatwave strains grid Financial Times",
@@ -208,24 +221,11 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/6046abc9-2ae8-47ec-a94c-5f98cb772cff?syn-25a6b1a6"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-06-26T08:01:08.000Z",
-      "title": "Prosus Investment Values Health Insurer Alan at $6.3 Billion",
-      "body": "Prosus Investment Values Health Insurer Alan at $6.3 Billion WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/finance/investing/prosus-investment-values-health-insurer-alan-at-6-3-billion-4331cb92"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-26T05:44:00.000Z",
       "title": "Kioxia shares slump 12% as AI-related stocks fall",
       "body": "Kioxia shares slump 12% as AI-related stocks fall Reuters",
@@ -238,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-26T03:29:41.000Z",
       "title": "Transcript: Tech shares zigzag",
       "body": "Transcript: Tech shares zigzag Financial Times",
