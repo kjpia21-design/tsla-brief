@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-25 23:23 UTC · 누적 468건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-26 04:13 UTC · 누적 469건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-06-25T20:51:41.000Z",
+      "title": "중국 완성차, 캐나다를 <em>미국 진출 실전 연습장</em>으로 삼아 속속 진입",
+      "hotShort": "중국 EV, 캐나다서 <em>미국 진출 실전 연습</em>",
+      "body": "로이터에 따르면 중국 완성차 업체들이 캐나다를 미국 시장 진출의 '실전 연습장'으로 활용하며 빠르게 진입하고 있다 — 미국 관세 장벽이 높아진 상황에서 캐나다를 교두보로 북미 브랜드·서비스망을 구축하는 이 전략은, 텍사스·캘리포니아 현지 생산으로 무역 리스크가 없는 테슬라에게 장기적 경쟁 변수가 될 수 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-china-evs-canada-practice-run-2026-06-25",
+      "summary": "미국의 대중국 관세 정책이 강화되면서 중국 완성차 업체들이 북미 진출의 우회 경로로 캐나다를 선택하고 있다고 로이터가 보도했다. 미국과 인접해 있으면서도 독자적인 무역 규정을 갖춘 캐나다는 중국산 전기차 브랜드들에게 상대적으로 낮은 진입 장벽을 제공한다.\n\n중국 완성차 업체들에게 캐나다 진출은 미국 시장을 겨냥한 실전 준비다. 북미 소비자의 구매 패턴과 서비스 인프라 요건을 파악하고, 현지 딜러·부품 공급망을 구축하며, 추운 기후에서의 배터리·주행 성능 데이터를 축적할 수 있다. 이 과정에서 쌓은 역량은 향후 미국 시장 진출 시 직접 활용 가능한 자산이 된다.\n\n테슬라 주주에게 이 소식은 단기보다 중장기 관점에서 점검할 변수다. 테슬라는 미국 텍사스·캘리포니아 공장에서 생산해 미국의 중국산 EV 관세·무역 제한에서 구조적으로 자유롭다. 트럼프 행정부가 폴스타르 판매 인가를 불허하는 등 중국산 EV에 대한 미국 진입을 강력히 막는 현재 환경에서, 중국 브랜드들의 미국 직접 진출은 단기간 내 어렵다.\n\n그러나 중국 브랜드들이 캐나다에서 브랜드 자산과 서비스 역량을 충분히 입증한다면, 향후 무역 정책 환경이 변화할 경우 미국 진출 속도를 크게 높일 수 있다. 캐나다를 경유한 북미 간접 침투 전략이 가시화된 만큼, 테슬라가 제품 경쟁력과 원가 효율을 지속 강화해야 할 구조적 이유가 추가됐다.",
+      "title_en": "Chinese automakers rush into Canada as a <em>'practice run'</em> for US sales",
+      "hotShort_en": "China EVs eye Canada as <em>US market practice run</em>",
+      "body_en": "Chinese automakers are rushing into Canada as an explicit 'practice run' for US sales, Reuters reports — a strategic move to build North American brand presence and service infrastructure under a far more accessible regulatory environment than the US, where Chinese-made EVs face escalating tariff barriers that have already forced competitors like Polestar off the market entirely, while Tesla's US-based manufacturing keeps it structurally immune to this competitive dynamic.",
+      "summary_en": "The strategic logic behind the Canadian push is clear: while the US market has become increasingly inaccessible to Chinese-made vehicles under escalating trade restrictions, Canada offers Chinese automakers a geographically adjacent North American market with significantly lower tariff barriers. Reuters reports that Chinese carmakers are moving quickly to capitalize on this differential, treating Canada as an explicit preparation phase for eventual US market entry.\n\nFor Chinese EV manufacturers, a Canadian market presence delivers multiple strategic benefits simultaneously. They can test their vehicles' performance in North American climate conditions — critical for validating cold-weather battery range — build regional dealer and service networks, calibrate pricing and after-sales cost structures to North American consumer expectations, and accumulate operational data from a market that closely mirrors US driving and infrastructure conditions.\n\nFor Tesla shareholders, the competitive implications are currently muted but warrant monitoring. Tesla's domestic manufacturing — all US-sold vehicles are produced at facilities in Fremont, California and Austin, Texas — makes it structurally immune to the Chinese-origin trade policies that are simultaneously blocking Chinese EV brands from direct US entry. The same tariff environment pushing Chinese automakers toward a Canada-first strategy is a current tailwind for Tesla's US market position.\n\nThe longer-term risk lies in the capacity-building dimension of the Canadian play. Chinese EV manufacturers that establish strong brand trust, service infrastructure, and North American operational expertise in Canada over the next several years will be positioned to accelerate US market entry if trade policy conditions shift. For investors tracking Tesla's competitive moat on a multi-year horizon, the Canadian market movement is a leading indicator of Chinese EV ambition that does not disappear simply because the US tariff wall is currently high.",
+      "href": "https://www.reuters.com/business/autos-transportation/chinas-carmakers-rush-canada-practice-run-us-sales-2026-06-25/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
