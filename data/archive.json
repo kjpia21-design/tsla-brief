@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-06-26 15:00 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-26 20:18 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-06-26T07:00:42.000Z",
+      "title": "테슬라, 중국 히트작 <em>모델 Y L</em> 미국 출시 검토 — 테슬라라티",
+      "hotShort": "테슬라, 중국 히트 <em>모델 Y L</em> 미국 출시 저울질",
+      "body": "테슬라라티에 따르면 테슬라가 중국에서 큰 인기를 끈 모델 Y L(롱바디)의 미국 출시를 검토하고 있는 것으로 알려졌다 — 더 긴 휠베이스와 넓어진 실내·2열 레그룸이 특징인 이 모델이 미국에 상륙하면, 공간을 중시하는 가족 고객층을 겨냥한 테슬라 US 라인업이 한층 강화될 수 있다.",
+      "title_en": "Tesla reportedly eyeing <em>Model Y L US launch</em> — its China bestseller",
+      "hotShort_en": "Tesla mulls <em>Model Y L</em> for US market",
+      "body_en": "Teslarati reports Tesla is weighing a US launch for the Model Y L — the long-wheelbase variant it introduced in China last year that became an instant hit for its expanded interior and improved second-row legroom, a move that would broaden Tesla's US lineup to capture family buyers who prioritize cabin space.",
+      "summary": "모델 Y L은 테슬라가 2025년 중국 시장에 선보인 모델 Y의 롱바디 파생 모델이다. 표준 모델 Y 대비 휠베이스를 늘려 실내 공간, 특히 2열 레그룸을 확대한 것이 핵심 차이로, 출시 직후부터 중국 소비자들 사이에서 큰 인기를 모았다. 테슬라 전문 매체 테슬라라티는 이 성공을 바탕으로 테슬라가 미국 시장에도 모델 Y L 도입을 검토하고 있다고 분석했다.\n\n미국 자동차 시장에서 공간·실내 편의성은 SUV 구매의 핵심 요소다. 현재 미국에 판매되는 모델 Y는 준중형 크로스오버 크기로 2열 공간이 상대적으로 타이트하다는 평가가 있어 왔다. 모델 Y L이 미국에 출시된다면 이런 피드백에 직접 대응하며, 가족 고객층과 뒷좌석 승객 편의를 중시하는 소비자에게 새로운 선택지를 제공하게 된다.\n\n테슬라 주주 관점에서 제품 라인 다양화는 수요 저변 확대와 직결된다. 중국에서 입증된 롱바디 수요가 미국에서도 재현된다면, 기존 모델 Y 수요층 외에 새로운 고객을 추가로 확보할 수 있다. 다만 이 기사는 테슬라라티의 분석이며 테슬라의 공식 발표는 아직 없는 상태다.",
+      "summary_en": "The Model Y L is a long-wheelbase derivative of Tesla's Model Y that Tesla introduced in China in 2025. Tesla extended the wheelbase relative to the standard Model Y to increase interior dimensions — most notably second-row legroom — and the configuration resonated immediately with Chinese buyers, making it an instant bestseller. Teslarati reports that the Model Y L's strong China performance has Tesla looking at a potential US market introduction.\n\nThe US automotive market's preference for interior space and passenger comfort has always been a structural opportunity for a larger Model Y variant. The standard Model Y's second-row dimensions have been a consistent point of comparison against three-row SUVs and roomier crossovers, and buyers with families or frequent rear-seat passengers have noted it as a trade-off. A US Model Y L would directly address this feedback by offering more cabin room within the familiar Model Y platform and powertrain architecture.\n\nFor Tesla investors, a US launch would represent a product line extension that could capture incremental demand without replacing the standard Model Y. The China experience suggests the L variant attracts buyers who want more space but are already interested in the Model Y ecosystem — a profile that exists in the US market. If Tesla positions the L as a distinct premium space variant, it could add sales volume rather than cannibalize existing model mix.\n\nThis analysis is from Teslarati, a Tesla-specialized publication with generally reliable primary source access. The 'looks keen' framing indicates inference from observed signals rather than a confirmed Tesla announcement — no official launch timeline has been set.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-model-y-l-us-2026-06-26",
+      "href": "https://www.teslarati.com/tesla-looks-keen-model-y-l-united-states/",
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -2042,32 +2062,6 @@
       "href": "https://www.teslarati.com/tesla-teases-grok-integration-banish-fsd-3-months-elon-musk/",
       "sentiment": "bull",
       "hot": 8
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-06-18T16:44:46.000Z",
-      "title": "블룸버그·WSJ: SpaceX, IPO 1주 만에 <em>최소 $200억 채권</em> — WSJ \"AI 문제 해결 위한 전쟁 자금\"",
-      "hotShort": "SpaceX <em>$200억 채권</em> — WSJ \"AI 전쟁 자금\"으로",
-      "body": "블룸버그 단독에 이어 WSJ도 SpaceX 뱅커들이 최소 $200억 채권을 준비 중이며, 이 자금이 머스크의 AI 문제 해결을 위한 전쟁 자금으로 투입되고 있다고 보도했다 — 역대 최대 IPO(6월 11일) 1주 만의 추가 대규모 자금 조달이 AI 경쟁으로 향하며, xAI·테슬라 FSD를 잇는 자원 흐름이 구체화된다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-bond-ipo-week-2026-06-18",
-      "summary": "블룸버그가 단독 보도한 내용에 따르면 SpaceX 관계자들이 최소 $200억(약 27조 원) 규모의 채권 발행을 준비 중이다. 이는 6월 11일 역대 최대 규모 IPO로 대규모 공모자금을 조달한 지 1주일이 채 안 된 시점으로, SpaceX의 자금 수요 규모와 사업 확장 속도가 새삼 주목된다.\n\n같은 날 블룸버그는 SpaceX 주가(SPCX)가 IPO 후 이틀째 하락세를 이어갔다고 별도 보도했다. IPO 직후 수거래일 연속 상승했던 것을 감안하면 단기 차익실현과 밸류에이션 재산정이 진행 중인 것으로 해석된다.\n\n테슬라 주주 입장에서 SpaceX의 대규모 자금 조달은 복합적 의미를 갖는다. $200억 채권이 스타십·스타링크 확장에 투입된다면 SpaceX의 독립 재무 능력을 보여주며, 테슬라와의 합병 없이도 독자 성장이 가능하다는 신호가 될 수 있다. 한편 머스크의 자원·시간 배분이 SpaceX로 쏠릴 경우 테슬라 경영에 어떤 영향을 미칠지도 관건이다.\n\nWSJ는 별도로 머스크가 SpaceX의 새 전쟁 자금을 자신의 AI 문제 해결에 투입하고 있다고 보도했다. 이 각도는 SpaceX IPO·채권 자금의 상당 부분이 AI 인프라, 특히 xAI로 향할 수 있음을 시사한다. xAI는 현재 Grok AI를 테슬라 FSD에 통합하는 프로젝트를 '약 3개월 내' 일정으로 진행 중인 만큼, SpaceX 자금이 xAI AI 역량 강화로 이어진다면 테슬라 자율주행 AI 경쟁력에도 간접 보강이 될 수 있다.\n\n채권 발행의 구체적 규모·금리·만기는 아직 확정되지 않았다.",
-      "title_en": "Bloomberg & WSJ: SpaceX preps <em>$20B+ bond</em> one week after record IPO — WSJ calls it war chest for AI",
-      "hotShort_en": "SpaceX <em>$20B bond</em> — WSJ says it's an AI war chest",
-      "body_en": "Bloomberg broke the news of SpaceX bankers preparing a $20 billion-plus bond — the WSJ adds that this new war chest is being directed at solving Musk's AI problem, a combination that reveals SpaceX's historic capital raise is partly funding AI infrastructure, with a downstream connection to xAI's FSD integration into Tesla.",
-      "summary_en": "Bloomberg reports that SpaceX bankers are laying the groundwork for a bond sale of at least $20 billion, an aggressive capital-markets move coming less than a week after the company's landmark IPO — itself the largest in history.\n\nOn the same day, Bloomberg separately reported that SpaceX shares (SPCX) extended their two-day slide following several sessions of post-IPO gains. The pullback appears to reflect normal price-discovery after an outsized initial run, coinciding with the bond preparation news.\n\nFor Tesla shareholders, SpaceX's capital activity matters on two fronts. First, a financially independent SpaceX with its own IPO and bond program reduces the need for a Tesla merger to fund growth — a near-term headwind for merger-related speculation that has periodically supported TSLA. Second, the scale of SpaceX's capital raises signals that Musk's empire is expanding rapidly on multiple fronts simultaneously, raising legitimate questions about management bandwidth.\n\nThe WSJ separately reports that Musk is directing SpaceX's new war chest at solving his AI problem — providing the demand-side rationale for the capital program. SpaceX's IPO and bond proceeds potentially flowing into AI infrastructure connects directly to xAI, the company that is actively integrating Grok into Tesla's FSD stack on a roughly three-month timeline. If SpaceX resources accelerate xAI's compute build-out, that has a downstream benefit for Tesla's FSD AI capabilities — a cross-company resource flow that gives the SpaceX fundraising story a concrete Tesla-relevant dimension.\n\nBond terms including final size, coupon, and maturity have not yet been finalized, per Bloomberg.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-18/spacex-bankers-preparing-for-bond-sale-of-at-least-20-billion",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Bloomberg",
-        "Financial Times",
-        "WSJ"
-      ],
-      "sentiment": "neutral",
-      "hot": 7
     }
   ]
 }
