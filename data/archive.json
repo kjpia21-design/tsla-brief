@@ -3,6 +3,31 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
+      "pubDate": "2026-06-26T15:56:12.000Z",
+      "title": "SpaceX 신규 $25B 채권, 발행 직후 <em>손실 눈덩이</em>",
+      "hotShort": "SpaceX $25B 채권, 발행 직후 <em>손실 확대</em>",
+      "body": "SpaceX가 IPO 2주 만에 발행한 $25B(250억 달러) 채권이 2차시장에서 빠르게 약세를 보이며, 미 국채 대비 평가손실이 ~$305M(약 3억 달러)까지 불어났다고 Bloomberg가 전했다 — 상장 후 주식 가치가 $600B+ 증발한 데 이어 채권 시장에서도 SpaceX 리스크 재평가가 진행되는 신호로, 머스크 자산·심리 전반에 부담을 주며 테슬라 투자 심리와도 맞물린다.",
+      "title_en": "SpaceX's new <em>$25B bonds slide</em> just weeks after IPO",
+      "hotShort_en": "SpaceX's $25B bonds <em>slide</em> post-IPO",
+      "body_en": "SpaceX's $25B bond sale — issued barely two weeks after its IPO — is weakening so fast in the secondary market that paper losses versus Treasuries have swelled to roughly $305M, Bloomberg reports. Coming on top of more than $600B wiped from the stock since launch, the bond-market repricing of SpaceX risk pressures Elon Musk's wealth and sentiment broadly, and ties into investor mood around Tesla.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-bond-losses-2026-06-26",
+      "summary": "SpaceX는 상장 약 2주 만에 당초 $20B 목표를 $25B로 늘려 선순위 무담보 채권을 발행했고, 주문은 ~$90B까지 몰리며 흥행한 듯 보였다. 그러나 거래가 시작되자 채권 가격이 빠르게 약세로 돌아섰다.\n\nBloomberg에 따르면 목요일 늦게 기준 미 국채 대비 평가손실은 약 $305M에 달했고, 만기가 가장 긴 2056년물은 발행 스프레드(국채+1.75%p)보다 최대 0.32%p 더 벌어진 수준에 호가됐다. 주문이 몰리며 좁혀졌던 스프레드 축소분이 사실상 모두 되돌려진 셈이다. 한 트레이더는 '이 정도 확대는 예상 밖'이라며, 상장 후 주식에서 $600B+가 증발한 충격, 증액 발행에 따른 수급 부담, 그리고 SpaceX 특유의 리스크를 어떻게 가격에 반영할지에 대한 시장의 혼란이 겹친 '퍼펙트 스톰'이라고 평했다.\n\n이 사안이 테슬라 주주에게도 의미가 있는 이유는 머스크 자산과 시장 심리가 SpaceX·테슬라·xAI 등 머스크 관련 자산 전반에 연동되기 때문이다. SpaceX 증권(주식·채권)의 동반 약세는 머스크 '제국' 전반의 리스크 재평가로 읽히며, 테슬라 투자 심리에도 간접적인 부담으로 작용할 수 있다. 다만 이는 SpaceX 고유의 채권 가격 변동이며, 테슬라의 실적·펀더멘털과 직접적인 인과는 아니다.",
+      "summary_en": "SpaceX upsized its senior unsecured note offering from an initial $20B target to $25B about two weeks after going public, and the deal looked like a hit as orders swelled to nearly $90B. Once the notes began trading, however, prices turned weak fast.\n\nPer Bloomberg, paper losses versus Treasuries reached roughly $305M as of late Thursday, and the longest-dated 2056 notes were quoted as much as 0.32 percentage point wider than their issue spread of 1.75 points over Treasuries — effectively erasing all the tightening that had followed the heavy order book. One trader called the magnitude a 'perfect storm' of the stock shedding more than $600B since launch, weak technicals from the upsized supply, and investors still struggling to price SpaceX's unique risk profile.\n\nThe story matters to Tesla shareholders because Musk's wealth and market sentiment are linked across his constellation of assets — SpaceX, Tesla, xAI. A simultaneous slide in SpaceX securities, both equity and debt, reads as a broad repricing of risk across Musk's empire and can weigh indirectly on Tesla sentiment. That said, this is SpaceX-specific bond-price action and not a direct read on Tesla's earnings or fundamentals.",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-26/bond-traders-stunned-as-losses-on-spacex-s-new-debt-keep-growing",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
       "pubDate": "2026-06-26T15:24:36.000Z",
       "title": "유럽 테슬라 판매, 머스크 <em>정치 논란에도 반등</em>",
@@ -2046,27 +2071,7 @@
       "href": "https://www.nytimes.com/2026/06/19/business/energy-environment/tesla-elon-musk-europe.html",
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-06-19T02:34:51.000Z",
-      "title": "테슬라, 캘리포니아 사우스 SF에 <em>슈퍼차저 8기</em> 신규 개설",
-      "hotShort": "테슬라 공식, 캘리포니아에 <em>슈퍼차저 8기</em> 신규 추가",
-      "body": "테슬라 공식 충전 계정이 캘리포니아 사우스 샌프란시스코 엘 카미노 리얼에 8기짜리 슈퍼차저 스테이션이 새로 문을 열었다고 발표했다 — 실리콘밸리·샌프란시스코 간 주요 이동 축에 충전 커버리지를 추가하며 미국 서부 인프라 확장을 이어가고 있다.",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "product-supercharger-sf-el-camino-2026-06-19",
-      "summary": "테슬라 공식 충전 계정(@TeslaCharging)은 캘리포니아 사우스 샌프란시스코 엘 카미노 리얼(El Camino Real)에 8기 규모의 슈퍼차저 스테이션이 신규 개설됐다고 발표했다.\n\n엘 카미노 리얼은 샌프란시스코 반도를 관통하는 주요 간선도로로, 실리콘밸리 주요 도시와 샌프란시스코 사이의 통근·이동 수요가 높은 코리도다. 이 지역 슈퍼차저 확충은 베이에어리어 테슬라 오너들의 일상 충전 편의를 높이고 신규 구매자의 주행 범위 불안을 줄이는 데 기여한다.\n\n테슬라의 슈퍼차저 네트워크는 브랜드 경쟁력의 핵심 차별화 요소 중 하나다. 전기차 업계 전반으로 충전 네트워크 확장 경쟁이 심화되는 가운데, 테슬라는 지속적인 신규 스테이션 개설을 통해 독자 인프라 우위를 유지하고 있다.",
-      "title_en": "Tesla opens new <em>8-stall Supercharger</em> on El Camino Real in South San Francisco",
-      "hotShort_en": "South SF gets <em>8 Tesla Superchargers</em>",
-      "body_en": "Tesla's official charging account announced a new 8-stall Supercharger station on El Camino Real in South San Francisco, California — adding fast-charging coverage along a key commuter corridor between Silicon Valley and San Francisco.",
-      "summary_en": "Tesla's official @TeslaCharging account announced the opening of an 8-stall Supercharger station at El Camino Real in South San Francisco, California.\n\nEl Camino Real is a major arterial road running through the San Francisco Peninsula, connecting Silicon Valley communities to the city. The location serves high-traffic commuter and intercity travel demand, consistent with Tesla's strategy of prioritizing Supercharger expansion along key transportation corridors.\n\nTesla's Supercharger network is a core competitive advantage, lowering the range-anxiety barrier for prospective EV buyers and improving the ownership experience. Continued North American expansion reinforces Tesla's lead in proprietary charging infrastructure.",
-      "href": "https://x.com/TeslaCharging/status/2067798236132429912",
-      "sentiment": "bull",
-      "hot": 3
     }
   ],
-  "asOf": "2026-06-27 01:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-27 06:05 KST 자동 갱신 · 최신순"
 }
