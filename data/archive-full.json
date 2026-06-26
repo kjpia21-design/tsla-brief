@@ -1,6 +1,51 @@
 {
-  "asOf": "2026-06-26 12:16 UTC · 누적 473건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-26 16:21 UTC · 누적 475건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "30m ago",
+      "pubDate": "2026-06-26T11:00:01.000Z",
+      "title": "CNBC \"스페이스X 투자자들, IPO 후 급등락에 <em>'일론 컬트'</em> 재검토\" — 러셀 리밸런싱도 변동성 가세",
+      "hotShort": "스페이스X 급등락 — <em>'일론 컬트'</em> 다시 시험대에",
+      "body": "CNBC가 스페이스X 투자자들이 IPO 후 주가 극등락 속에 '일론 컬트'가 투자 리스크로 작용하는지 재검토하고 있다고 분석했다 — 로이터는 6월 말 러셀 1000 리밸런싱이 스페이스X 변동성을 한층 높일 수 있다고 추가 보도해, 일론 브랜드를 공유하는 테슬라 투자자들의 관심을 끌고 있다.",
+      "title_en": "CNBC: SpaceX investors question <em>'the cult of Elon'</em> as post-IPO swings intensify",
+      "hotShort_en": "SpaceX swings test the <em>cult of Elon</em>",
+      "body_en": "CNBC reports SpaceX investors are grappling with the stock's extreme post-IPO volatility, reassessing whether the 'cult of Elon' is a tailwind or a risk factor; Reuters adds that the late-June Russell 1000 rebalancing could amplify SpaceX price swings further — a development Tesla shareholders are watching given the shared Musk brand premium.",
+      "summary": "CNBC는 스페이스X 상장 이후 주가가 극심한 등락을 반복하는 가운데, '일론 컬트(Cult of Elon)'로 불리는 일론 머스크에 대한 강한 팬덤이 투자 심리에 어떤 영향을 미치는지 투자자들이 재검토하고 있다고 분석했다. IPO 초기 열기로 급등했던 스페이스X 주가가 이후 빠른 속도로 조정 국면에 들어서며 변동성이 크게 확대됐다.\n\n로이터는 별도로 6월 말 러셀 1000 지수 리밸런싱이 스페이스X 변동성을 추가로 높일 수 있다고 보도했다. 스페이스X가 러셀 1000 지수에 편입되면 이 지수를 추종하는 패시브 펀드들이 기계적으로 대규모 매매를 실행해야 하며, 이 과정에서 발생하는 집중적인 매수·매도 흐름이 단기 주가 변동폭을 키울 수 있다.\n\n테슬라 주주 관점에서 스페이스X 주가 동향은 무관하지 않다. 테슬라와 스페이스X는 일론 머스크를 공통분모로 하는 '머스크 프리미엄'을 공유하며, 스페이스X 주가 급락 시 머스크 브랜드 신뢰도에도 영향이 미칠 수 있다. CNBC의 분석은 이 '일론 컬트' 현상을 무조건적인 호재로 보던 시각이 변화하고 있음을 시사한다.",
+      "summary_en": "SpaceX went public to significant fanfare, with retail investors who closely follow Elon Musk's ventures driving strong early demand. CNBC reports that those same investors are now grappling with the reality of extreme post-IPO price swings, reassessing the so-called 'cult of Elon' dynamic — the tendency for Musk's personal brand to act as a valuation amplifier for his companies — and whether it represents a sustainable investment thesis or a volatility-magnifying risk factor.\n\nReuters adds a technical angle: the late-June Russell 1000 rebalancing is expected to create large, predictable order flow as passive index funds mechanically adjust their SpaceX position to reflect the new index composition. This forced buying and selling around the rebalancing window is a near-term source of additional price volatility that compounds the already-elevated swings SpaceX shareholders have been experiencing.\n\nFor Tesla investors, the SpaceX volatility story is a peripheral but not irrelevant factor. Tesla and SpaceX share Elon Musk as their primary brand driver, and investor sentiment toward Musk's companies tends to move in correlated fashion. The CNBC analysis signals a broader reassessment of how much premium Musk's personal brand should command — a question that has implications for Tesla's own valuation as well.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-cult-elon-volatility-2026-06-26",
+      "href": "https://www.cnbc.com/2026/06/26/spacex-volatility.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-06-26T07:00:42.000Z",
+      "title": "테슬라, 중국 전용 롱 휠베이스 모델 Y L <em>미국 출시</em> 검토 중",
+      "hotShort": "테슬라, 롱 휠베이스 모델 Y L <em>미국 출시</em> 검토",
+      "body": "테슬라가 현재 중국 전용으로 판매 중인 롱 휠베이스 모델 Y L을 미국 시장에 도입하기를 원하는 것으로 보인다고 Teslarati가 보도했다 — 더 넓은 실내 공간의 대형 모델 Y가 미국 라인업에 추가되면 패밀리카 수요를 추가 확보해 국내 판매에 새 모멘텀이 될 수 있다.",
+      "title_en": "Tesla reportedly keen to bring the <em>larger Model Y L</em> to the U.S.",
+      "hotShort_en": "Tesla eyes <em>Model Y L</em> for U.S. launch",
+      "body_en": "Tesla is showing keen interest in bringing the long-wheelbase Model Y L — currently sold only in China — to the U.S. market, Teslarati reports. Adding a roomier Model Y variant to the domestic lineup would give Tesla a new competitive card in the family-vehicle segment and a potential catalyst for U.S. sales.",
+      "summary": "모델 Y L은 테슬라가 중국 시장을 위해 출시한 롱 휠베이스(장축) 버전으로, 표준 모델 Y보다 차체가 길고 후방 실내 공간이 더 넓다. 지금까지 중국 전용 라인업이었으나, Teslarati에 따르면 테슬라가 이 모델을 미국에 도입하려는 강한 의지를 보이고 있다.\n\n미국 전기차 시장에서 소비자들이 더 넓은 실내 공간의 대형 SUV를 선호하는 수요는 꾸준히 존재한다. 현재 모델 Y는 컴팩트 SUV 세그먼트에 해당하며, 패밀리카로 쓰기에 뒷좌석 공간이 충분하지 않다고 느끼는 소비자들이 경쟁 브랜드의 대형 전기 SUV로 이탈하는 경우도 있다. 모델 Y L이 미국에 추가되면 이 공백을 메울 수 있다.\n\n테슬라의 미국 판매는 2025~2026년 들어 경쟁 심화와 시장 성숙 속에 압박을 받아왔다. 새로운 대형 모델 Y 라인업은 기존 고객층을 유지하면서도 현재 테슬라 라인업의 공간·스펙으로는 충족하지 못한 신규 소비자를 겨냥하는 전략적 확장이 될 수 있다. 다만 Teslarati 보도는 테슬라가 '도입하기를 원한다'는 의향 단계로, 공식 발표나 출시 일정은 아직 확인되지 않았다.",
+      "summary_en": "The Model Y L is a long-wheelbase variant designed for the Chinese market, offering more rear passenger space than the standard Model Y. Teslarati reports that Tesla is now showing keen interest in extending this model to the United States — a move that would add a roomier Model Y option to a domestic lineup that currently tops out at the standard-wheelbase version.\n\nThe product logic for a U.S. launch is clear. A segment of American EV buyers prioritizes cabin space, particularly for rear passengers, and has historically looked to larger crossovers or SUVs to meet that need. The current Model Y competes in the compact-to-midsize class; a longer-wheelbase L variant would position Tesla more directly against larger electric SUVs from rivals, potentially converting buyers who currently step outside the Tesla ecosystem for more space.\n\nTesla's U.S. vehicle sales have faced headwinds from increased competition and a maturing EV market. A new Model Y variant targeting space-conscious buyers could serve as both a customer-retention tool and a fresh demand driver. Teslarati's reporting reflects stated intent and directional signals rather than a confirmed launch announcement or production timeline — no official Tesla statement on a U.S. Model Y L has been issued.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-model-y-l-us-2026-06-26",
+      "href": "https://www.teslarati.com/tesla-looks-keen-model-y-l-united-states/",
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
