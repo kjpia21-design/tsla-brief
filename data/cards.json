@@ -18,7 +18,38 @@
       "summary_en": "The U.S. National Highway Traffic Safety Administration has wrapped up its long-running inquiry into alleged loss of power steering in Teslas. NHTSA's Office of Defects Investigation opened a preliminary evaluation in July 2023 after some owners reported being unable to turn the wheel or needing greater steering effort, and in early 2024 it upgraded the matter to an 'engineering analysis' for a deeper look.\n\nThe probe covered roughly 376,241 Model 3 and Model Y vehicles from the 2023 model year. Tesla had already recalled about 376,000 vehicles in the U.S. in early 2025 — fixing, via an over-the-air software update, a defect in which overvoltage and overstress on the motor-drive section of a printed circuit board could make steering harder at low speeds.\n\nNHTSA said this Saturday that it was closing the engineering analysis in view of Tesla's recall. No additional recall or enforcement action was required.\n\nFor shareholders, the closure is a small but clear positive. With autonomy and Robotaxi positioned as a core growth pillar, an open safety investigation represented a potential regulatory and reputational overhang; resolving it without further action removes one of those burdens. That said, this is the administrative wrap-up of an issue already handled by recall, not the discovery of any new defect.",
       "href": "https://www.reuters.com/business/autos-transportation/us-safety-agency-ends-power-steering-probe-into-376000-tesla-evs-2026-06-27/",
       "confirmedBy": 4,
-      "confirmingSources": ["Reuters", "Teslarati", "Not a Tesla App", "The EV Report"],
+      "confirmingSources": [
+        "Reuters",
+        "Teslarati",
+        "Not a Tesla App",
+        "The EV Report"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "today",
+      "pubDate": "2026-06-27T00:28:52.000Z",
+      "title": "스페이스X 7월 7일 나스닥 100 편입 확정 — JP모건 <em>$43억 패시브 매수</em> 추산",
+      "hotShort": "스페이스X 나스닥 100 편입 — <em>$43억 강제 매수</em>",
+      "body": "스페이스X(SPCX)가 7월 7일 나스닥 100 지수에 공식 편입된다 — IPO(6월 12일, 역대 최대 규모) 불과 15일 만의 패스트 트랙 편입으로, JP모건은 QQQ 등 나스닥 100 추종 ETF들이 약 $43억(4.3B달러)을 기계적으로 매수해야 할 것으로 추산했다. 머스크의 핵심 자산이 세계 최대 기술 지수에 안착하며 기관 투자자의 머스크 생태계 접근이 구조적으로 확대되는 이정표다.",
+      "title_en": "SpaceX confirmed for Nasdaq 100 on July 7 — JP Morgan sees <em>$4.3B in passive buying</em>",
+      "hotShort_en": "SpaceX enters Nasdaq 100 July 7 — <em>$4.3B forced buying</em>",
+      "body_en": "SpaceX (SPCX) will join the Nasdaq 100 effective July 7 — one of the fastest-ever index inclusions, just 15 days after its record-breaking June 12 IPO at $135/share. JP Morgan estimates that ETFs and funds tracking the Nasdaq 100 (including QQQ) must mechanically buy roughly $4.3B of SpaceX shares. The milestone embeds SpaceX — Musk's most capital-intensive venture — in the world's most-tracked tech index, structurally widening institutional exposure to the Musk asset complex.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-nasdaq100-inclusion-2026-06-27",
+      "summary": "나스닥은 6월 26일 장 마감 후 스페이스X(NASDAQ: SPCX)가 나스닥 100 지수 편입 기준을 충족한다고 공식 발표했다. 지수 추종 ETF·인덱스 펀드들의 기계적 매수는 7월 6일 장 마감 후 시작되며, 스페이스X는 7월 7일 개장 전부터 나스닥 100 구성 종목이 된다.\n\n이번 편입이 주목받는 핵심은 속도다. 스페이스X는 6월 12일 주당 $135에 상장하며 역대 최대 규모 IPO를 달성했고, 상장 15일 만에 세계 최대 기술 지수 중 하나인 나스닥 100에 패스트 트랙으로 편입됐다 — 사상 가장 빠른 나스닥 100 편입 사례 중 하나다. 상장 즉시 시가총액이 편입 기준을 충족한 덕분이다.\n\nJP모건은 편입에 따른 패시브 자금 유입을 약 $43억(4.3B달러)으로 추산한다. 운용 자산 $2,500억 이상의 QQQ 등 나스닥 100 추종 ETF들은 지수 비중(1% 미만 예상)에 맞춰 스페이스X 주식을 의무 매수해야 한다. 스페이스X의 시장 유통 주식(float)이 전체 시가총액 대비 상대적으로 적어, 1% 미만 비중이라도 실제 구매 압력은 의미 있는 규모가 된다.\n\n테슬라 주주 관점에서 이번 편입은 간접적이지만 구조적인 신호다. 스페이스X가 글로벌 기술 투자자의 핵심 기준점인 나스닥 100의 일원이 되면, 기관 투자자의 머스크 생태계 전반에 대한 노출이 확대된다. 스페이스X와 테슬라는 독립 법인으로 두 회사의 실적은 직접 연동되지 않지만, 머스크 생태계의 기관 접근성이 높아질수록 테슬라에도 긍정적 심리가 파급되는 구조다.",
+      "summary_en": "Nasdaq announced after the June 26 close that SpaceX (NASDAQ: SPCX) qualifies for inclusion in the Nasdaq 100. Index-tracking ETFs and passive funds are set to begin purchasing shares after the July 6 close, with SpaceX officially a Nasdaq 100 constituent from the July 7 open.\n\nThe highlight is the speed of the inclusion. SpaceX went public on June 12 at $135 per share in the largest IPO in history, and it is joining the Nasdaq 100 just 15 days later — among the fastest-ever additions to the index. SpaceX's market capitalization met eligibility criteria immediately upon listing.\n\nJP Morgan estimates approximately $4.3 billion in passive inflows will flow to SpaceX as a result of the inclusion. ETFs and index funds tracking the Nasdaq 100 — including QQQ, which manages over $250 billion — must mechanically purchase SpaceX shares to match the index's new composition. SpaceX's projected weighting is below 1%, but because its publicly tradable float is small relative to its total market capitalization, even a sub-1% index weighting generates meaningful purchase demand.\n\nFor Tesla shareholders, the development is indirect but structurally meaningful. SpaceX's embedding in the world's most widely tracked technology index broadens institutional exposure to the Musk asset complex on a global scale. SpaceX and Tesla are legally independent entities — their financials are not directly linked — but deepening institutional ownership of SpaceX raises the overall acceptance and visibility of Musk's ventures, which has historically carried positive sentiment spillovers to Tesla.",
+      "href": "https://www.reuters.com/business/media-telecom/spacex-set-join-nasdaq-100-paving-way-wave-passive-buying-2026-06-27/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "CNBC",
+        "Investing.com"
+      ],
       "sentiment": "bull",
       "hot": 7
     },
@@ -40,7 +71,11 @@
       "summary_en": "With the second quarter about to close, expectations for Tesla's delivery print are being revised higher. Goldman Sachs analyst Mark Delaney lifted his Q2 estimate to 420K from 405K on regional sales data, roughly 5% above the Street consensus (~406K).\n\nEurope is the main driver. New-vehicle registrations jumped roughly 85–90% YoY through May, and countries reporting June daily data showed a strong start. The US, by contrast, was the lone soft spot, with deliveries tracking down by mid-teens percent YoY through May.\n\nEven so, Goldman kept its rating at Neutral and left its 12-month price target unchanged at $375 — signaling that the delivery bump reads as a near-term volume recovery rather than a change to the valuation or the structural demand-and-margin picture.\n\nQuarterly deliveries have repeatedly been the single biggest swing factor for Tesla's near-term share direction. A beat could give the recently weak stock a reason to bounce, but the actual figures must be confirmed in the official report right after quarter-end.",
       "href": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
       "confirmedBy": 3,
-      "confirmingSources": ["Electrek", "Investing.com", "The Globe and Mail"],
+      "confirmingSources": [
+        "Electrek",
+        "Investing.com",
+        "The Globe and Mail"
+      ],
       "sentiment": "bull",
       "hot": 7
     },
@@ -82,7 +117,10 @@
       "summary_en": "Tesla has resolved a civil lawsuit tied to a pedestrian fatality involving its Full Self-Driving feature, opting for a settlement rather than a courtroom fight. The settlement was reported the same day by both Electrek and Bloomberg; the dollar amount and terms were not disclosed.\n\nFSD-related death cases have drawn close attention from the industry and regulators because they test, in court, whether Tesla's driver-assist technology is as safe as its name implies and where the line falls between driver responsibility and system responsibility. A public trial could have put FSD's operational limits and the circumstances of the crash on the evidentiary record — a potential drag on both brand and technology trust. A settlement short-circuits that exposure.\n\nThe timing matters. Tesla is leaning on commercial robotaxi expansion as a central growth story, so an accumulation of autonomy-liability suits or an adverse precedent could complicate that rollout. Settling individual cases quickly is one way to limit that overhang.\n\nA settlement, however, is not an admission or a release of liability, and other FSD-related suits — along with NTSB and regulatory safety probes — remain active. The broader question of autonomy liability is far from closed.",
       "href": "https://electrek.co/2026/06/26/tesla-fsd-pedestrian-death-settlement/",
       "confirmedBy": 2,
-      "confirmingSources": ["Electrek", "Bloomberg"],
+      "confirmingSources": [
+        "Electrek",
+        "Bloomberg"
+      ],
       "sentiment": "neutral",
       "hot": 7
     },
@@ -104,7 +142,11 @@
       "summary_en": "WP.29 (Working Party 29) is the UN Economic Commission for Europe's multilateral forum where member states harmonize vehicle safety standards. Its June 2026 session formally adopted the 02 series of amendments to UN Regulation 171 — DCAS Phase 3 — establishing international technical requirements for advanced driver control assistance systems covering lane-keeping, lane-changing, and hands-free driving. Tesla's FSD (Supervised) sits directly within this category. The regulation enters into force around January 2027.\n\nTesla has already filed more than 400 compliance items under UN R-171, completing the bulk of its technical documentation ahead of the regulatory milestones. The Netherlands vehicle authority (RDW) granted the first EU approval for Tesla FSD (Supervised) in April 2026, and has since notified the European Commission as it pursues EU-wide authorization. R171.02 formalizes the international regulatory framework that underpins both the Dutch approval and the path to EU-wide extension.\n\nThe vote on EU-wide approval is expected at a Technical Committee on Motor Vehicles (TCMV) meeting in October or December 2026. If passed, an EU-wide FSD rollout could materialize in late 2026 or early 2027. WP.29 regulations are also adopted by many Asian countries, widening the scope of this regulatory opening beyond Europe alone.\n\nFor shareholders, the milestone is a structural inflection point. Europe is one of Tesla's three core vehicle markets, yet European FSD subscription penetration has been near zero pending regulatory approval. With 1.28 million active FSD subscribers globally as of Q1 2026 (up 51% year-over-year), broadening the addressable market to Europe — and by extension Asia — represents a potential step-change in high-margin software recurring revenue.",
       "href": "https://www.notateslaapp.com/news/3581/new-un-autonomous-driving-regulation-could-unlock-tesla-fsd-in-europe-and-asia",
       "confirmedBy": 3,
-      "confirmingSources": ["UNECE", "Not a Tesla App", "EVXL"],
+      "confirmingSources": [
+        "UNECE",
+        "Not a Tesla App",
+        "EVXL"
+      ],
       "sentiment": "bull",
       "hot": 9
     },
@@ -129,5 +171,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-06-27 23:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-28 02:00 KST 자동 갱신 · 최신순"
 }

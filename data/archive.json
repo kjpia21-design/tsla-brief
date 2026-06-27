@@ -28,6 +28,32 @@
       "hot": 7
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "today",
+      "pubDate": "2026-06-27T00:28:52.000Z",
+      "title": "스페이스X 7월 7일 나스닥 100 편입 확정 — JP모건 <em>$43억 패시브 매수</em> 추산",
+      "hotShort": "스페이스X 나스닥 100 편입 — <em>$43억 강제 매수</em>",
+      "body": "스페이스X(SPCX)가 7월 7일 나스닥 100 지수에 공식 편입된다 — IPO(6월 12일, 역대 최대 규모) 불과 15일 만의 패스트 트랙 편입으로, JP모건은 QQQ 등 나스닥 100 추종 ETF들이 약 $43억(4.3B달러)을 기계적으로 매수해야 할 것으로 추산했다. 머스크의 핵심 자산이 세계 최대 기술 지수에 안착하며 기관 투자자의 머스크 생태계 접근이 구조적으로 확대되는 이정표다.",
+      "title_en": "SpaceX confirmed for Nasdaq 100 on July 7 — JP Morgan sees <em>$4.3B in passive buying</em>",
+      "hotShort_en": "SpaceX enters Nasdaq 100 July 7 — <em>$4.3B forced buying</em>",
+      "body_en": "SpaceX (SPCX) will join the Nasdaq 100 effective July 7 — one of the fastest-ever index inclusions, just 15 days after its record-breaking June 12 IPO at $135/share. JP Morgan estimates that ETFs and funds tracking the Nasdaq 100 (including QQQ) must mechanically buy roughly $4.3B of SpaceX shares. The milestone embeds SpaceX — Musk's most capital-intensive venture — in the world's most-tracked tech index, structurally widening institutional exposure to the Musk asset complex.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-nasdaq100-inclusion-2026-06-27",
+      "summary": "나스닥은 6월 26일 장 마감 후 스페이스X(NASDAQ: SPCX)가 나스닥 100 지수 편입 기준을 충족한다고 공식 발표했다. 지수 추종 ETF·인덱스 펀드들의 기계적 매수는 7월 6일 장 마감 후 시작되며, 스페이스X는 7월 7일 개장 전부터 나스닥 100 구성 종목이 된다.\n\n이번 편입이 주목받는 핵심은 속도다. 스페이스X는 6월 12일 주당 $135에 상장하며 역대 최대 규모 IPO를 달성했고, 상장 15일 만에 세계 최대 기술 지수 중 하나인 나스닥 100에 패스트 트랙으로 편입됐다 — 사상 가장 빠른 나스닥 100 편입 사례 중 하나다. 상장 즉시 시가총액이 편입 기준을 충족한 덕분이다.\n\nJP모건은 편입에 따른 패시브 자금 유입을 약 $43억(4.3B달러)으로 추산한다. 운용 자산 $2,500억 이상의 QQQ 등 나스닥 100 추종 ETF들은 지수 비중(1% 미만 예상)에 맞춰 스페이스X 주식을 의무 매수해야 한다. 스페이스X의 시장 유통 주식(float)이 전체 시가총액 대비 상대적으로 적어, 1% 미만 비중이라도 실제 구매 압력은 의미 있는 규모가 된다.\n\n테슬라 주주 관점에서 이번 편입은 간접적이지만 구조적인 신호다. 스페이스X가 글로벌 기술 투자자의 핵심 기준점인 나스닥 100의 일원이 되면, 기관 투자자의 머스크 생태계 전반에 대한 노출이 확대된다. 스페이스X와 테슬라는 독립 법인으로 두 회사의 실적은 직접 연동되지 않지만, 머스크 생태계의 기관 접근성이 높아질수록 테슬라에도 긍정적 심리가 파급되는 구조다.",
+      "summary_en": "Nasdaq announced after the June 26 close that SpaceX (NASDAQ: SPCX) qualifies for inclusion in the Nasdaq 100. Index-tracking ETFs and passive funds are set to begin purchasing shares after the July 6 close, with SpaceX officially a Nasdaq 100 constituent from the July 7 open.\n\nThe highlight is the speed of the inclusion. SpaceX went public on June 12 at $135 per share in the largest IPO in history, and it is joining the Nasdaq 100 just 15 days later — among the fastest-ever additions to the index. SpaceX's market capitalization met eligibility criteria immediately upon listing.\n\nJP Morgan estimates approximately $4.3 billion in passive inflows will flow to SpaceX as a result of the inclusion. ETFs and index funds tracking the Nasdaq 100 — including QQQ, which manages over $250 billion — must mechanically purchase SpaceX shares to match the index's new composition. SpaceX's projected weighting is below 1%, but because its publicly tradable float is small relative to its total market capitalization, even a sub-1% index weighting generates meaningful purchase demand.\n\nFor Tesla shareholders, the development is indirect but structurally meaningful. SpaceX's embedding in the world's most widely tracked technology index broadens institutional exposure to the Musk asset complex on a global scale. SpaceX and Tesla are legally independent entities — their financials are not directly linked — but deepening institutional ownership of SpaceX raises the overall acceptance and visibility of Musk's ventures, which has historically carried positive sentiment spillovers to Tesla.",
+      "href": "https://www.reuters.com/business/media-telecom/spacex-set-join-nasdaq-100-paving-way-wave-passive-buying-2026-06-27/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "CNBC",
+        "Investing.com"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "today",
@@ -2080,27 +2106,7 @@
       "href": "https://x.com/JoeTegtmeyer/status/2067992962844201078",
       "sentiment": "bull",
       "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-19T14:02:00.000Z",
-      "title": "InsideEVs: 2026년 여름 로보택시 경쟁 — <em>선두 없는 복잡한</em> 구도",
-      "hotShort": "InsideEVs: 로보택시 레이스, <em>선두 없이 복잡</em>",
-      "body": "InsideEVs가 2026년 여름 기준 로보택시 시장 분석을 내놓으며 '누가 이기고 있나'는 질문에 '복잡하다'고 답했다 — 테슬라·웨이모·중국 업체 등 다수 플레이어가 각기 다른 시장·모델로 경쟁 중이라 단일 승자를 가리기 어려운 다각 경쟁 구도임을 의미하며, 사이버캡 상업 런칭 타이밍이 여전히 핵심 변수임을 상기시킨다.",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-race-summer-2026-insideevs",
-      "summary": "InsideEVs는 2026년 여름 기준 로보택시 시장 현황을 종합 분석하는 기획 기사를 게재하며 '레이스의 승자는 누구인가?' 라는 핵심 질문에 '복잡하다(It's Complicated)'고 결론 냈다.\n\n현재 로보택시 시장은 전략적으로 전혀 다른 플레이어들이 서로 다른 지역과 접근법으로 경쟁 중이다. 웨이모는 샌프란시스코·피닉스·오스틴 등 일부 미국 도시에서 유료 서비스 운영 중이다. 테슬라는 사이버캡을 기가 텍사스에서 양산 중이며 오스틴 상업 런칭을 목표로 하고 있다. 중국에서는 바이두 아폴로 등 복수의 자율주행 스타트업이 대규모 자본을 유치하며 빠르게 성장하고 있다.\n\n이처럼 각 플레이어의 지리적 범위, 차량 유형, 규제 접근 방식이 모두 달라 단순 비교가 어렵다. 웨이모는 실제 운영 마일리지 면에서 앞서 있지만 테슬라는 양산 능력과 FSD 소프트웨어 강점을 갖고 있으며, 중국 업체들은 방대한 데이터 환경을 바탕으로 빠르게 따라오고 있다.\n\n테슬라 주주 관점에서 '아직 승자 없다'는 결론은 테슬라의 전략 — 시장이 정착되기 전에 대량 생산 능력과 소프트웨어를 동시에 갖추는 것 — 이 여전히 유효할 수 있음을 시사한다. 사이버캡의 상업 런칭 품질과 타이밍이 이 경쟁의 핵심 분수령이 될 전망이다.",
-      "title_en": "InsideEVs: 2026 robotaxi race — <em>no clear leader</em> yet",
-      "hotShort_en": "InsideEVs: robotaxi race is <em>complicated</em>",
-      "body_en": "InsideEVs published a summer 2026 robotaxi market analysis, answering 'who's winning the robotaxi race?' with 'it's complicated' — reflecting a multi-player field where Tesla (Cybercab), Waymo, and Chinese autonomy companies are competing across different geographies and business models, with no single dominant player yet established.",
-      "summary_en": "InsideEVs published a summer 2026 robotaxi market update centered on the question: 'who is winning the robotaxi race?' Their answer: 'it's complicated.'\n\nThe assessment reflects a genuinely fractured competitive landscape. Waymo operates paid rides in select U.S. cities including San Francisco, Phoenix, and Austin. Tesla is ramping Cybercab production at Giga Texas with a commercial Austin launch targeted. Chinese players including Baidu Apollo and newly-capitalizing autonomous driving startups are advancing on a different regulatory and scale track.\n\nEach competitor's strengths are non-overlapping, which is why a single ranking is difficult. Waymo leads in accumulated operational miles. Tesla leads in manufacturing scale and a large fleet already collecting FSD training data. Chinese players lead in data volume from a less restrictive regulatory environment.\n\nFor Tesla investors, 'no clear winner yet' has a constructive implication: the window for establishing market position is still open. Cybercab's commercial launch timing, and the quality and safety of that initial deployment, will be among the most important variables determining where Tesla ultimately lands in this market.",
-      "href": "https://insideevs.com/features/799180/robotaxi-market-update-summer-2026/",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-06-27 22:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-28 02:00 KST 자동 갱신 · 최신순"
 }
