@@ -249,7 +249,7 @@ git reset --hard origin/master
   확인 안 되는 단독 추측은 hot 점수를 낮추거나 제외한다.
 
 ## Step 5 — 파일 갱신 (2개만)
-- `data/cards.json` — 이번 선별 4~6장. `asOf` 갱신 ("YYYY-MM-DD HH:mm KST 자동 갱신 · 최신순").
+- `data/cards.json` — 이번 선별 5~8장. `asOf` 갱신 ("YYYY-MM-DD HH:mm KST 자동 갱신 · 최신순").
 - `data/archive.json` — 기존 + 신규 누적. **slug 기준 dedup**, `pubDate` 내림차순, **최대 100개 cap**.
 - ⚠️ **두 파일 모두 반드시 `{ "items": [ ... ], "asOf": "..." }` 객체 구조**로 쓴다.
   **절대 bare 배열 `[ ... ]` 로 쓰지 말 것** — `items` 키가 없으면 사이트가 카드를 못 읽어 아카이브가 비어 버린다.
