@@ -1,23 +1,23 @@
 {
-  "asOf": "2026-06-27 15:20 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-27 17:17 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "54m ago",
-      "pubDate": "2026-06-27T14:26:10.000Z",
-      "title": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision",
-      "body": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision WSJ",
+      "time": "1h ago",
+      "pubDate": "2026-06-27T16:00:00.000Z",
+      "title": "CEOs Are Pulling In Record Pay. Here Are Some Big Numbers.",
+      "body": "CEOs Are Pulling In Record Pay. Here Are Some Big Numbers. WSJ",
       "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2"
+      "href": "https://www.wsj.com/business/ceo-executive-pay-packages-030db27e"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-27T13:47:39.000Z",
       "title": "Tesla Q2 delivery consensus confirms this long-standing theory",
       "body": "Tesla released what analysts believe the company will report in terms of deliveries and energy deployments for Q2, but the figures seem to confirm a long-standing theory on the company’s vehicle division. For years, Tesl…",
@@ -28,22 +28,35 @@
       "href": "https://www.teslarati.com/tesla-q2-delivery-consensus-confirms-this-long-standing-theory/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-27T12:44:16.000Z",
-      "title": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs",
-      "body": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs CNBC",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
+      "pubDate": "2026-06-27T12:43:07.000Z",
+      "title": "TOP PRO NEWS",
+      "body": "TOP PRO NEWS CNBC",
       "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/markets/"
+      "href": "https://www.cnbc.com/pro/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "8h ago",
+      "pubDate": "2026-06-27T09:30:00.000Z",
+      "title": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision",
+      "body": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-27T08:55:43.000Z",
       "title": "US safety agency ends power steering probe into 376,000 Tesla EVs",
       "body": "US safety agency ends power steering probe into 376,000 Tesla EVs Reuters",
@@ -54,35 +67,22 @@
       "href": "https://www.reuters.com/business/autos-transportation/us-safety-agency-ends-power-steering-probe-into-376000-tesla-evs-2026-06-27/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
-      "pubDate": "2026-06-27T07:18:34.000Z",
-      "title": "OpenAI: Trending News, Latest Updates, Analysis",
-      "body": "OpenAI: Trending News, Latest Updates, Analysis Bloomberg.com",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "9h ago",
+      "pubDate": "2026-06-27T08:00:15.000Z",
+      "title": "How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms",
+      "body": "How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms Bloomberg.com",
       "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://bloomberg.com/latest/openai"
+      "href": "https://www.bloomberg.com/news/articles/2026-06-27/how-lenovo-s-cfo-is-allocating-capital-during-one-of-history-s-biggest-booms"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-06-27T05:34:26.000Z",
-      "title": "Artificial Intelligence - Latest AI News and Analysis",
-      "body": "Artificial Intelligence - Latest AI News and Analysis WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/tech/ai"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-06-27T04:01:34.000Z",
       "title": "Why your finances are heading for a summer of uncertainty",
       "body": "Why your finances are heading for a summer of uncertainty Financial Times",
@@ -93,22 +93,9 @@
       "href": "https://www.ft.com/content/57e5e08c-504d-4a0c-8bfa-b38d5ccb9eb0?syn-25a6b1a6"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-06-27T04:00:05.000Z",
-      "title": "The Times in Print For",
-      "body": "The Times in Print For The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/issue/todayspaper/2026/06/27/todays-new-york-times"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-06-27T01:00:00.000Z",
       "title": "Is the Rivian R2 America’s Next Great SUV?",
       "body": "Is the Rivian R2 America’s Next Great SUV? WSJ",
@@ -119,9 +106,22 @@
       "href": "https://www.wsj.com/lifestyle/cars/rivian-r2-suv-review-5c969072"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "17h ago",
+      "pubDate": "2026-06-27T00:28:52.000Z",
+      "title": "SpaceX set to join Nasdaq 100, paving way for wave of passive buying",
+      "body": "SpaceX set to join Nasdaq 100, paving way for wave of passive buying Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/media-telecom/spacex-set-join-nasdaq-100-paving-way-wave-passive-buying-2026-06-27/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-26T23:59:00.000Z",
       "title": "Tesla Inc. Advanced Charts | TSLA",
       "body": "Tesla Inc. Advanced Charts | TSLA Barron's",
@@ -134,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-26T23:32:34.000Z",
       "title": "Zuckerberg asks Meta to explore working with Polymarket and Kalshi, NYT reports",
       "body": "Zuckerberg asks Meta to explore working with Polymarket and Kalshi, NYT reports Reuters",
@@ -147,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-06-26T22:57:36.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -158,9 +158,22 @@
       "href": "https://www.bloomberg.com/profile/person/25519531"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "18h ago",
+      "pubDate": "2026-06-26T22:54:00.000Z",
+      "title": "GE Stock: From ‘Dead File’ to Outperformer",
+      "body": "GE Stock: From ‘Dead File’ to Outperformer Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/ge-stock-from-dead-file-to-outperformer-a25cbc5a"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-26T22:47:32.000Z",
       "title": "EXCLUSIVE: China's Geely to ship first Lotus EVs to Canada in July under Carney-Xi deal, ambassador says",
       "body": "EXCLUSIVE: China's Geely to ship first Lotus EVs to Canada in July under Carney-Xi deal, ambassador says Reuters",
@@ -173,7 +186,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-06-26T21:04:47.000Z",
       "title": "Currencies",
       "body": "Currencies Bloomberg.com",
@@ -182,19 +195,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/markets/currencies/?__hstc"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
-      "pubDate": "2026-06-26T20:43:09.000Z",
-      "title": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook",
-      "body": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/outgoing-imf-chief-economist-sees-risks-shifting-trade-ties-continued-2026-06-26/"
     },
     {
       "category": "fsd",
