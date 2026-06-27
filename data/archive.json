@@ -111,6 +111,32 @@
       "hot": 4
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "",
+      "pubDate": "2026-06-26T12:00:00.000Z",
+      "title": "유럽 WP.29, UN R171.02 채택 — 테슬라 <em>FSD 유럽 승인 길</em> 열려",
+      "hotShort": "UN R171.02 채택 — 테슬라 <em>FSD 유럽 길</em> 열렸다",
+      "body": "유엔 유럽경제위원회(UNECE) 산하 자동차 규제 포럼 WP.29가 6월 회의에서 <em>UN R171의 02차 개정(DCAS Phase 3 — 고도 운전자 보조 시스템)</em>을 채택했다. 테슬라 FSD(Supervised)의 유럽 형식승인 경로를 넓히는 규제 분수령으로, 2027년 1월경 발효 예정이다. 테슬라는 이미 R-171 관련 400개 이상 요건 문서를 제출한 상태 — 유럽·아시아 FSD·로보택시 확장의 구조적 장벽이 낮아지는 것으로, 주주에겐 글로벌 FSD 매출 확대의 핵심 촉매다.",
+      "title_en": "UN WP.29 adopts R171.02 — clearing a path for <em>Tesla FSD in Europe</em>",
+      "hotShort_en": "UN R171.02 adopted — a path opens for <em>Tesla FSD in Europe</em>",
+      "body_en": "The UNECE vehicle-regulation forum WP.29 adopted <em>the 02 series of amendments to UN R171 (DCAS Phase 3 — advanced driver control assistance)</em> at its June session. It is a regulatory milestone that widens the European type-approval path for Tesla FSD (Supervised), with entry into force expected around January 2027. Tesla has already filed 400+ compliance items under UN R-171 — lowering a structural barrier to scaling FSD and Robotaxi across Europe and Asia, a key catalyst for global FSD revenue.",
+      "summary": "WP.29가 UN R171.02(DCAS Phase 3)를 채택해 테슬라 FSD의 유럽 형식승인 경로가 넓어졌다. 2027년 1월경 발효.",
+      "summary_en": "WP.29 adopted UN R171.02 (DCAS Phase 3), widening the European approval path for Tesla FSD. Entry into force ~Jan 2027.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-unece-wp29-r171-europe-2026-06-26",
+      "href": "https://www.notateslaapp.com/news/3581/new-un-autonomous-driving-regulation-could-unlock-tesla-fsd-in-europe-and-asia",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "UNECE",
+        "Not a Tesla App",
+        "EVXL"
+      ],
+      "sentiment": "bull",
+      "hot": 9
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "30m ago",
@@ -2051,26 +2077,6 @@
       "href": "https://www.barrons.com/articles/spacex-stock-magnificent-seven-c7cdd078",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-06-19T04:00:24.000Z",
-      "title": "뉴욕타임스 \"최근 테슬라 구매하셨나요?\" — 유럽 <em>브랜드 신뢰도</em> 심층 취재 착수",
-      "hotShort": "NYT, 유럽 테슬라 <em>구매 경험</em> 독자 수집 나서",
-      "body": "뉴욕타임스가 최근 테슬라를 구입한 독자들의 경험을 공개 모집하고 나섰다 — 일론 머스크의 정치적 행보로 유럽 내 테슬라 판매가 흔들리는 가운데, 미국 대형 언론이 현지 소비자 정서를 직접 취재하는 심층 보도를 준비 중인 것으로 풀이된다.",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "musk-nyt-tesla-europe-buyer-survey-2026-06-19",
-      "summary": "뉴욕타임스는 6월 19일 '최근 테슬라를 구매하셨나요? 경험을 들려주세요(Have You Bought a Tesla Recently? We Want to Hear From You.)'라는 제목의 독자 제보 모집 기사를 게재했다. 기사 URL에 '테슬라·일론 머스크·유럽'이 명시돼 있어, 유럽 시장에서의 테슬라 브랜드와 판매 상황을 다루는 대형 보도를 위한 사전 취재 단계로 읽힌다.\n\nNYT는 주요 사회·경제 사안을 다룰 때 독자 제보 모집 글을 먼저 게재한 뒤 심층 기획 보도를 내놓는 방식을 즐겨 쓴다. 이번 공모는 머스크의 유럽 정치 개입 이후 독일·영국·스웨덴 등에서 테슬라 판매가 둔화됐다는 복수 언론 보도와 시기적으로 겹친다.\n\n투자자 관점에서 유럽은 테슬라 글로벌 매출의 핵심 지역이다. 미국 주요 언론이 유럽 테슬라 구매 경험을 집중 조명하기 시작하면 브랜드 신뢰도에 관한 서사가 확산될 수 있다. 이번 보도가 부정적인 소비자 경험에 초점을 맞추는지, 균형 잡힌 실사용 보고서 성격인지는 후속 기사 게재 이후 확인된다.",
-      "title_en": "NYT asks: 'Have You Bought a Tesla Recently?' — probing <em>Europe brand trust</em> in depth",
-      "hotShort_en": "NYT probes Tesla's <em>Europe brand</em> woes",
-      "body_en": "The New York Times is soliciting reader experiences from recent Tesla buyers for what appears to be a major feature on Tesla and Elon Musk in Europe — where brand headwinds tied to Musk's political activities have been linked to softening sales, making this a notable signal for investors watching the European market.",
-      "summary_en": "The New York Times published a reader call on June 19 asking anyone who has recently purchased a Tesla to share their experience, for an upcoming piece on Tesla and Elon Musk in Europe. The article URL explicitly references 'tesla-elon-musk-europe,' indicating this is focused on European market dynamics rather than a general consumer survey.\n\nNYT regularly uses reader solicitations as the first step in major investigative or explanatory features. The timing coincides with a period of reported softening in Tesla sales across Germany, the UK, and other European markets, widely attributed to consumer sensitivity toward Musk's political persona on the continent.\n\nFor investors, Europe is a meaningful revenue contributor for Tesla. Increased scrutiny from a flagship U.S. news outlet amplifies the narrative around brand trust — which in turn affects purchase intent. Whether the resulting article takes a critical or balanced angle will determine how much additional reputational pressure follows, if any. Watch for the follow-up piece in the coming days.",
-      "href": "https://www.nytimes.com/2026/06/19/business/energy-environment/tesla-elon-musk-europe.html",
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
   "asOf": "2026-06-27 06:05 KST 자동 갱신 · 최신순"
