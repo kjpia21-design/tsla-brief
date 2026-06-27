@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-27 17:17 UTC · 누적 486건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-27 19:37 UTC · 누적 487건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "product",
@@ -24,6 +24,32 @@
         "Teslarati",
         "Not a Tesla App",
         "The EV Report"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "today",
+      "pubDate": "2026-06-27T00:28:52.000Z",
+      "title": "스페이스X 7월 7일 나스닥 100 편입 확정 — JP모건 <em>$43억 패시브 매수</em> 추산",
+      "hotShort": "스페이스X 나스닥 100 편입 — <em>$43억 강제 매수</em>",
+      "body": "스페이스X(SPCX)가 7월 7일 나스닥 100 지수에 공식 편입된다 — IPO(6월 12일, 역대 최대 규모) 불과 15일 만의 패스트 트랙 편입으로, JP모건은 QQQ 등 나스닥 100 추종 ETF들이 약 $43억(4.3B달러)을 기계적으로 매수해야 할 것으로 추산했다. 머스크의 핵심 자산이 세계 최대 기술 지수에 안착하며 기관 투자자의 머스크 생태계 접근이 구조적으로 확대되는 이정표다.",
+      "title_en": "SpaceX confirmed for Nasdaq 100 on July 7 — JP Morgan sees <em>$4.3B in passive buying</em>",
+      "hotShort_en": "SpaceX enters Nasdaq 100 July 7 — <em>$4.3B forced buying</em>",
+      "body_en": "SpaceX (SPCX) will join the Nasdaq 100 effective July 7 — one of the fastest-ever index inclusions, just 15 days after its record-breaking June 12 IPO at $135/share. JP Morgan estimates that ETFs and funds tracking the Nasdaq 100 (including QQQ) must mechanically buy roughly $4.3B of SpaceX shares. The milestone embeds SpaceX — Musk's most capital-intensive venture — in the world's most-tracked tech index, structurally widening institutional exposure to the Musk asset complex.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-nasdaq100-inclusion-2026-06-27",
+      "summary": "나스닥은 6월 26일 장 마감 후 스페이스X(NASDAQ: SPCX)가 나스닥 100 지수 편입 기준을 충족한다고 공식 발표했다. 지수 추종 ETF·인덱스 펀드들의 기계적 매수는 7월 6일 장 마감 후 시작되며, 스페이스X는 7월 7일 개장 전부터 나스닥 100 구성 종목이 된다.\n\n이번 편입이 주목받는 핵심은 속도다. 스페이스X는 6월 12일 주당 $135에 상장하며 역대 최대 규모 IPO를 달성했고, 상장 15일 만에 세계 최대 기술 지수 중 하나인 나스닥 100에 패스트 트랙으로 편입됐다 — 사상 가장 빠른 나스닥 100 편입 사례 중 하나다. 상장 즉시 시가총액이 편입 기준을 충족한 덕분이다.\n\nJP모건은 편입에 따른 패시브 자금 유입을 약 $43억(4.3B달러)으로 추산한다. 운용 자산 $2,500억 이상의 QQQ 등 나스닥 100 추종 ETF들은 지수 비중(1% 미만 예상)에 맞춰 스페이스X 주식을 의무 매수해야 한다. 스페이스X의 시장 유통 주식(float)이 전체 시가총액 대비 상대적으로 적어, 1% 미만 비중이라도 실제 구매 압력은 의미 있는 규모가 된다.\n\n테슬라 주주 관점에서 이번 편입은 간접적이지만 구조적인 신호다. 스페이스X가 글로벌 기술 투자자의 핵심 기준점인 나스닥 100의 일원이 되면, 기관 투자자의 머스크 생태계 전반에 대한 노출이 확대된다. 스페이스X와 테슬라는 독립 법인으로 두 회사의 실적은 직접 연동되지 않지만, 머스크 생태계의 기관 접근성이 높아질수록 테슬라에도 긍정적 심리가 파급되는 구조다.",
+      "summary_en": "Nasdaq announced after the June 26 close that SpaceX (NASDAQ: SPCX) qualifies for inclusion in the Nasdaq 100. Index-tracking ETFs and passive funds are set to begin purchasing shares after the July 6 close, with SpaceX officially a Nasdaq 100 constituent from the July 7 open.\n\nThe highlight is the speed of the inclusion. SpaceX went public on June 12 at $135 per share in the largest IPO in history, and it is joining the Nasdaq 100 just 15 days later — among the fastest-ever additions to the index. SpaceX's market capitalization met eligibility criteria immediately upon listing.\n\nJP Morgan estimates approximately $4.3 billion in passive inflows will flow to SpaceX as a result of the inclusion. ETFs and index funds tracking the Nasdaq 100 — including QQQ, which manages over $250 billion — must mechanically purchase SpaceX shares to match the index's new composition. SpaceX's projected weighting is below 1%, but because its publicly tradable float is small relative to its total market capitalization, even a sub-1% index weighting generates meaningful purchase demand.\n\nFor Tesla shareholders, the development is indirect but structurally meaningful. SpaceX's embedding in the world's most widely tracked technology index broadens institutional exposure to the Musk asset complex on a global scale. SpaceX and Tesla are legally independent entities — their financials are not directly linked — but deepening institutional ownership of SpaceX raises the overall acceptance and visibility of Musk's ventures, which has historically carried positive sentiment spillovers to Tesla.",
+      "href": "https://www.reuters.com/business/media-telecom/spacex-set-join-nasdaq-100-paving-way-wave-passive-buying-2026-06-27/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "CNBC",
+        "Investing.com"
       ],
       "sentiment": "bull",
       "hot": 7
