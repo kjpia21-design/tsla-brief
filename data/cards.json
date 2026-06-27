@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "today",
+      "pubDate": "2026-06-27T13:47:39.000Z",
+      "title": "테슬라 Q2 인도 <em>D-5</em> — 컨센서스 406K, 에너지 +57%가 진짜 이벤트",
+      "hotShort": "Q2 인도 D-5 — 7/2 발표, 컨센서스 <em>406K</em>",
+      "body": "7월 2일(D-5) 테슬라 공식 2분기 인도 실적이 공개된다 — 22개 기관 컨센서스는 406,024대(지난해 Q2 실제 410,831대 대비 -1.2%)지만, 골드만(420K)·바클레이스(418K)가 상회를 전망한다. 에너지 저장 컨센서스는 13.8GWh(Q1 8.8GWh 대비 +57%)로, 차량 성장이 답보인 가운데 에너지·메가팩이 진짜 성장 이야기로 부각된다. Q2 어닝 콜은 7월 22일.",
+      "title_en": "Tesla Q2 delivery <em>D-5</em> — consensus 406K, energy +57% is the real story",
+      "hotShort_en": "Q2 delivery D-5 — <em>406K</em> consensus, July 2 due",
+      "body_en": "Tesla's official Q2 2026 delivery count lands July 2 — five days from now. The 22-analyst consensus is 406,024 units, a slight 1.2% miss versus Q2 2025's actual 410,831, but Goldman (420K) and Barclays (418K) see an upside beat. Energy storage is the real standout: consensus 13.8 GWh, up 57% from Q1's 8.8 GWh, accelerating even as vehicle delivery growth stalls. Q2 earnings call: July 22.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-q2-delivery-july2-countdown-2026-06-27",
+      "summary": "7월 2일은 테슬라가 2분기 인도·생산 실적을 공개하는 날이다. 이번 Q2 발표는 단순히 숫자 하나가 아니라 테슬라가 '차량 회사에서 에너지·AI 기업으로' 전환하고 있는지를 가늠하는 리트머스가 될 것이다.\n\n차량 인도 측면에서 공식 컨센서스(테슬라 IR 집계 22개 기관 평균)는 406,024대다. Q1 2026 실제치(358,000대)보다는 크게 늘었지만, 지난해 같은 기간(Q2 2025 실제치: 410,831대)에는 -1.2% 못 미친다. 골드만삭스(420K)·바클레이스(418K)·UBS·RBC(각 405K)는 컨센서스 상회를 전망하는 반면, JP모건은 최근 430,500→420,000으로 소폭 하향해 수요 신호가 혼재한다고 밝혔다.\n\n에너지 저장 부문이 이번 분기의 진짜 하이라이트가 될 수 있다. 17개 기관 컨센서스는 13.8GWh로 Q1 실제 8.8GWh 대비 57% 급성장이 예상된다. 2026년 연간 컨센서스는 57.9GWh로 하반기 비중이 더 크다 — 텍사스 휴스턴 메가팩 3 공장이 하반기 가동을 시작하는 시점이기 때문이다.\n\nTSLA는 6월 들어 약 -14%를 기록하며 부진한 흐름이다. Q2 인도량이 컨센서스를 웃돌면 단기 반등의 계기가 될 수 있으나, 인도량 이상으로 마진·에너지·FSD 매출 전망이 7월 22일 어닝 콜의 핵심 변수가 될 것이다. Q1에서 테슬라는 EPS·매출 모두 컨센서스를 상회했고, Q2에서도 그 패턴이 반복된다면 6월 하락 흐름을 상쇄하는 반등 모멘텀이 기대된다.",
+      "summary_en": "July 2 is the day Tesla reports its Q2 2026 production and delivery results — a print investors increasingly read as a test not just of how many cars Tesla shipped, but of whether the company is successfully pivoting from an automaker into an energy-and-AI platform.\n\nOn the vehicle side, the official consensus — compiled from 22 institutions on Tesla's investor-relations page — is 406,024 units. That is a sharp sequential recovery from Q1 2026's 358,000 (which missed expectations), but a 1.2% year-over-year decline versus Q2 2025's actual 410,831. The bull camp — Goldman Sachs (420K), Barclays (418K), UBS and RBC (both ~405K) — expects an outperformance. JPMorgan trimmed its estimate from 430,500 to 420,000 on June 24, citing mixed demand signals.\n\nEnergy storage is the segment many analysts are watching more closely than vehicle deliveries this quarter. The 17-analyst consensus is 13.8 GWh — a 57% quarter-over-quarter surge versus Q1's 8.8 GWh. The full-year 2026 consensus sits at 57.9 GWh, with a heavier weighting in the second half as Tesla's new Houston Megapack 3 facility ramps production.\n\nTSLA has fallen roughly 14% in June, reflecting investor caution heading into the print. A delivery beat — particularly if paired with solid energy numbers — could supply the catalyst for a short-term reversal. The deeper read comes with the Q2 earnings call on July 22, where FSD revenue recognition, Optimus ramp timelines, and full-year guidance will be the main focus.",
+      "href": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
+      "confirmedBy": 3,
+      "confirmingSources": ["Electrek", "Teslarati", "Not a Tesla App"],
+      "sentiment": "neutral",
+      "hot": 7
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "today",
@@ -14,18 +36,13 @@
       "sourceName": "Reuters",
       "sourceLabel": "sec",
       "slug": "product-nhtsa-power-steering-probe-closed-2026-06-27",
-      "summary": "미 도로교통안전국(NHTSA)이 테슬라 파워스티어링 상실 의혹에 대한 장기 조사를 마무리했다. NHTSA 결함조사국(ODI)은 2023년 7월 일부 차주가 '핸들을 돌릴 수 없거나 조향에 더 큰 힘이 필요하다'고 신고한 데 따라 모델3·모델Y에 대한 예비평가를 개시했고, 2024년 초 이를 더 깊이 들여다보는 '엔지니어링 분석'으로 격상한 바 있다.\n\n조사 대상은 2023년형 모델3·모델Y 약 376,241대였다. 테슬라는 이미 2025년 초 미국에서 약 376,000대를 리콜했는데, 인쇄회로기판의 모터 구동부에서 과전압·과부하가 발생해 저속 주행 시 조향이 무거워질 수 있다는 결함을 OTA(무선) 소프트웨어 업데이트로 바로잡는 조치였다.\n\nNHTSA는 이번 토요일, 이러한 테슬라의 리콜을 감안해 엔지니어링 분석을 종결한다고 밝혔다. 별도의 추가 리콜이나 강제 조치는 요구되지 않았다.\n\n주주 입장에서 이번 종결은 작지만 분명한 호재다. 자율주행·로보택시 사업을 핵심 성장축으로 내세운 테슬라에게 미결 안전 조사는 잠재적 규제·평판 리스크였는데, 추가 조치 없이 매듭지어지며 그 부담이 하나 줄었다. 다만 이는 이미 리콜로 처리된 사안의 행정적 마무리로, 새로운 결함이 확인된 것은 아니다.",
-      "summary_en": "The U.S. National Highway Traffic Safety Administration has wrapped up its long-running inquiry into alleged loss of power steering in Teslas. NHTSA's Office of Defects Investigation opened a preliminary evaluation in July 2023 after some owners reported being unable to turn the wheel or needing greater steering effort, and in early 2024 it upgraded the matter to an 'engineering analysis' for a deeper look.\n\nThe probe covered roughly 376,241 Model 3 and Model Y vehicles from the 2023 model year. Tesla had already recalled about 376,000 vehicles in the U.S. in early 2025 — fixing, via an over-the-air software update, a defect in which overvoltage and overstress on the motor-drive section of a printed circuit board could make steering harder at low speeds.\n\nNHTSA said this Saturday that it was closing the engineering analysis in view of Tesla's recall. No additional recall or enforcement action was required.\n\nFor shareholders, the closure is a small but clear positive. With autonomy and Robotaxi positioned as a core growth pillar, an open safety investigation represented a potential regulatory and reputational overhang; resolving it without further action removes one of those burdens. That said, this is the administrative wrap-up of an issue already handled by recall, not the discovery of any new defect.",
+      "summary": "미 도로교통안전국(NHTSA)이 테슬라 파워스티어링 상실 의혹에 대한 장기 조사를 마무리했다. NHTSA 결함조사국(ODI)은 2023년 7월 일부 차주가 '핸들을 돌릴 수 없거나 조향에 더 큰 힘이 필요하다'고 신고한 데 따라 모델3·모델Y에 대한 예비평가를 개시했고, 2024년 초 이를 더 깊이 들여다보는 '엔지니어링 분석'으로 격상한 바 있다.\n\n조사 대상은 2023년형 모델3·모델Y 약 376,241대였다. 테슬라는 이미 2025년 초 미국에서 약 376,000대를 리콜했는데, 인쇄회로기판의 모터 구동부에서 과전압·과부하가 발생해 저속 주행 시 조향이 무거워질 수 있다는 결함을 OTA(무선) 소프트웨어 업데이트로 바로잡는 조치였다.\n\nNHTSA는 테슬라의 리콜을 감안해 엔지니어링 분석을 종결한다고 밝혔다. 별도의 추가 리콜이나 강제 조치는 요구되지 않았다.\n\n주주 입장에서 이번 종결은 작지만 분명한 호재다. 자율주행·로보택시 사업을 핵심 성장축으로 내세운 테슬라에게 미결 안전 조사는 잠재적 규제·평판 리스크였는데, 추가 조치 없이 매듭지어지며 그 부담이 하나 줄었다. 다만 이는 이미 리콜로 처리된 사안의 행정적 마무리로, 새로운 결함이 확인된 것은 아니다.",
+      "summary_en": "The U.S. National Highway Traffic Safety Administration has wrapped up its long-running inquiry into alleged loss of power steering in Teslas. NHTSA's Office of Defects Investigation opened a preliminary evaluation in July 2023 after some owners reported difficulty turning the steering wheel, then elevated the probe to an Engineering Analysis in early 2024.\n\nThe vehicles under scrutiny were roughly 376,241 units of the 2023 Tesla Model 3 and Model Y. Tesla had already issued a recall in early 2025 covering approximately 376,000 U.S. vehicles, addressing a potential fault in the printed circuit board's motor-drive section that could cause heavier steering effort at low speed. The fix was delivered over the air.\n\nNHTSA said it was closing the Engineering Analysis in view of that recall, with no additional action required.\n\nFor Tesla shareholders, the closure is a modest but clean positive. Any open federal safety investigation carries latent regulatory and reputational risk — especially for a company whose growth narrative centers on autonomous driving and Robotaxi expansion. Resolving this case without a further enforcement order removes one more overhang, even if the underlying issue had already been patched months ago.",
       "href": "https://www.reuters.com/business/autos-transportation/us-safety-agency-ends-power-steering-probe-into-376000-tesla-evs-2026-06-27/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Reuters",
-        "Teslarati",
-        "Not a Tesla App",
-        "The EV Report"
-      ],
+      "confirmedBy": 2,
+      "confirmingSources": ["Reuters", "NHTSA"],
       "sentiment": "bull",
-      "hot": 7
+      "hot": 5
     },
     {
       "category": "musk",
@@ -41,63 +58,13 @@
       "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "musk-spacex-nasdaq100-inclusion-2026-06-27",
-      "summary": "나스닥은 6월 26일 장 마감 후 스페이스X(NASDAQ: SPCX)가 나스닥 100 지수 편입 기준을 충족한다고 공식 발표했다. 지수 추종 ETF·인덱스 펀드들의 기계적 매수는 7월 6일 장 마감 후 시작되며, 스페이스X는 7월 7일 개장 전부터 나스닥 100 구성 종목이 된다.\n\n이번 편입이 주목받는 핵심은 속도다. 스페이스X는 6월 12일 주당 $135에 상장하며 역대 최대 규모 IPO를 달성했고, 상장 15일 만에 세계 최대 기술 지수 중 하나인 나스닥 100에 패스트 트랙으로 편입됐다 — 사상 가장 빠른 나스닥 100 편입 사례 중 하나다. 상장 즉시 시가총액이 편입 기준을 충족한 덕분이다.\n\nJP모건은 편입에 따른 패시브 자금 유입을 약 $43억(4.3B달러)으로 추산한다. 운용 자산 $2,500억 이상의 QQQ 등 나스닥 100 추종 ETF들은 지수 비중(1% 미만 예상)에 맞춰 스페이스X 주식을 의무 매수해야 한다. 스페이스X의 시장 유통 주식(float)이 전체 시가총액 대비 상대적으로 적어, 1% 미만 비중이라도 실제 구매 압력은 의미 있는 규모가 된다.\n\n테슬라 주주 관점에서 이번 편입은 간접적이지만 구조적인 신호다. 스페이스X가 글로벌 기술 투자자의 핵심 기준점인 나스닥 100의 일원이 되면, 기관 투자자의 머스크 생태계 전반에 대한 노출이 확대된다. 스페이스X와 테슬라는 독립 법인으로 두 회사의 실적은 직접 연동되지 않지만, 머스크 생태계의 기관 접근성이 높아질수록 테슬라에도 긍정적 심리가 파급되는 구조다.",
-      "summary_en": "Nasdaq announced after the June 26 close that SpaceX (NASDAQ: SPCX) qualifies for inclusion in the Nasdaq 100. Index-tracking ETFs and passive funds are set to begin purchasing shares after the July 6 close, with SpaceX officially a Nasdaq 100 constituent from the July 7 open.\n\nThe highlight is the speed of the inclusion. SpaceX went public on June 12 at $135 per share in the largest IPO in history, and it is joining the Nasdaq 100 just 15 days later — among the fastest-ever additions to the index. SpaceX's market capitalization met eligibility criteria immediately upon listing.\n\nJP Morgan estimates approximately $4.3 billion in passive inflows will flow to SpaceX as a result of the inclusion. ETFs and index funds tracking the Nasdaq 100 — including QQQ, which manages over $250 billion — must mechanically purchase SpaceX shares to match the index's new composition. SpaceX's projected weighting is below 1%, but because its publicly tradable float is small relative to its total market capitalization, even a sub-1% index weighting generates meaningful purchase demand.\n\nFor Tesla shareholders, the development is indirect but structurally meaningful. SpaceX's embedding in the world's most widely tracked technology index broadens institutional exposure to the Musk asset complex on a global scale. SpaceX and Tesla are legally independent entities — their financials are not directly linked — but deepening institutional ownership of SpaceX raises the overall acceptance and visibility of Musk's ventures, which has historically carried positive sentiment spillovers to Tesla.",
-      "href": "https://www.reuters.com/business/media-telecom/spacex-set-join-nasdaq-100-paving-way-wave-passive-buying-2026-06-27/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "CNBC",
-        "Investing.com"
-      ],
+      "summary": "나스닥은 6월 26일 장 마감 후 스페이스X(NASDAQ: SPCX)가 나스닥 100 지수 편입 기준을 충족한다고 공식 발표했다. 지수 추종 ETF·인덱스 펀드들의 기계적 매수는 7월 6일 장 마감 후 시작되며, 스페이스X는 7월 7일 개장 전부터 나스닥 100 구성 종목이 된다.\n\n이번 편입이 주목받는 핵심은 속도다. 스페이스X는 6월 12일 주당 $135에 상장하며 역대 최대 규모 IPO를 달성했고, 상장 15일 만에 세계 최대 기술 지수 중 하나인 나스닥 100에 패스트 트랙으로 편입됐다. JP모건은 편입에 따른 패시브 자금 유입을 약 $43억(4.3B달러)으로 추산한다. 운용 자산 $2,500억 이상의 QQQ 등 나스닥 100 추종 ETF들은 지수 비중에 맞춰 스페이스X 주식을 의무 매수해야 한다.\n\n테슬라 주주 관점에서 이번 편입은 간접적이지만 구조적인 신호다. 스페이스X가 글로벌 기술 투자자의 핵심 기준점인 나스닥 100의 일원이 되면, 기관 투자자의 머스크 생태계 전반에 대한 노출이 확대된다. 스페이스X와 테슬라는 독립 법인이지만, 머스크를 공통 축으로 두 회사에 대한 기관 관심이 함께 높아지는 효과가 있다.\n\n다만 스페이스X 주가는 IPO 이후 -30%대 조정을 받았고, 채권 발행 직후 손실 등 변동성도 크다. 패시브 매수 수요가 시장에 새로운 지지선을 만들 수 있지만, 빠른 지수 편입은 그만큼 고점 대비 낙폭이 클 때도 지수를 끌어내리는 요인이 될 수 있다.",
+      "summary_en": "Nasdaq announced after the close on June 26 that SpaceX (NASDAQ: SPCX) meets the criteria for inclusion in the Nasdaq 100 index. Mechanical buying by index-tracking ETFs and funds begins after the close on July 6; SpaceX officially becomes a Nasdaq 100 constituent before the open on July 7.\n\nThe speed of inclusion is what stands out. SpaceX priced its record-breaking IPO at $135 per share on June 12 and will enter the Nasdaq 100 just 15 days later — one of the fastest such inclusions in the index's history. JP Morgan estimates the passive buying triggered by the rebalancing at roughly $4.3B. Funds tracking the Nasdaq 100 — led by QQQ, with over $250B in assets — must buy SpaceX stock proportionally to its index weight.\n\nFor Tesla shareholders, the development is an indirect but structural positive. As SpaceX joins the world's most-tracked tech index, institutional investors who were previously unable or unwilling to hold SpaceX now gain a new channel to the Musk ecosystem. While the two companies are separate legal entities, rising institutional attention to SpaceX can lift sentiment across the Musk asset complex.\n\nNotes of caution: SpaceX stock has corrected more than 30% from its post-IPO peak, and the bond market has also shown volatility. Passive buying inflows can provide a technical floor, but fast-track inclusion at elevated valuations also means a larger drag on the index if the stock continues to slide.",
+      "href": "https://www.reuters.com/markets/us/spacex-set-join-nasdaq-100-index-july-7-2026-06-27/",
+      "confirmedBy": 2,
+      "confirmingSources": ["Reuters", "JP Morgan"],
       "sentiment": "bull",
       "hot": 7
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "yesterday",
-      "pubDate": "2026-06-26T20:00:00.000Z",
-      "title": "골드만, 테슬라 2분기 인도 전망 <em>420K로 상향</em> — 컨센서스 상회 시사",
-      "hotShort": "골드만, 테슬라 2분기 인도 <em>컨센서스 상회</em> 전망",
-      "body": "골드만삭스가 테슬라 2분기 인도 추정치를 405K→420K로 상향하며 '월가 컨센서스(약 406K)를 약 5% 웃돌 것'이라고 진단했다 — 유럽 신차 등록이 5월까지 전년 대비 +85~90% 급증한 반면 미국은 두 자릿수 중반(%) 감소로, 분기 인도가 단기 주가의 최대 변수인 만큼 유럽 강세가 미국 부진을 상쇄할지가 관건이다.",
-      "title_en": "Goldman lifts Tesla Q2 delivery view to <em>420K</em>, sees upside to consensus",
-      "hotShort_en": "Goldman: Tesla Q2 deliveries <em>top consensus</em>",
-      "body_en": "Goldman Sachs raised its Q2 2026 Tesla delivery estimate to 420K from 405K, saying volumes are tracking about 5% above the Wall Street consensus (~406K). European registrations surged +85–90% YoY through May while the US slipped by mid-teens percent — with quarterly deliveries the single biggest swing factor for the stock, the question is whether Europe's strength offsets US softness.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "stock-q2-2026-delivery-consensus-goldman-2026-06-26",
-      "summary": "2분기 마감을 앞두고 테슬라 인도 실적 기대치가 다시 상향되고 있다. 골드만삭스 애널리스트 마크 딜레이니는 지역별 판매 데이터를 근거로 2분기 인도 추정치를 기존 405K에서 420K로 올렸고, 이는 월가 컨센서스(약 406K)를 약 5% 웃도는 수준이다.\n\n상향의 핵심 동력은 유럽이다. 유럽 신차 등록은 5월까지 전년 대비 약 85~90% 급증했고, 6월 일간 데이터를 공개한 국가들도 강한 출발을 보였다. 반면 미국은 5월까지 인도가 전년 대비 두 자릿수 중반(%) 감소하며 지역별로 유일한 약점으로 지목됐다.\n\n다만 골드만은 인도 전망을 올리면서도 투자의견은 '중립(Neutral)', 12개월 목표주가는 $375로 유지했다. 인도 개선이 단기 물량 회복 신호일 뿐, 밸류에이션 부담이나 수요·마진의 구조적 그림까지 바꾸지는 않았다는 신중론이 깔려 있다.\n\n분기 인도 실적은 그간 테슬라 주가의 단기 향방을 가르는 최대 변수로 꼽혀 왔다. 컨센서스 상회 가능성은 이번 달 약세 흐름을 이어온 주가에 반등 빌미가 될 수 있으나, 실제 수치는 분기 마감 직후 공식 발표로 확인해야 한다.",
-      "summary_en": "With the second quarter about to close, expectations for Tesla's delivery print are being revised higher. Goldman Sachs analyst Mark Delaney lifted his Q2 estimate to 420K from 405K on regional sales data, roughly 5% above the Street consensus (~406K).\n\nEurope is the main driver. New-vehicle registrations jumped roughly 85–90% YoY through May, and countries reporting June daily data showed a strong start. The US, by contrast, was the lone soft spot, with deliveries tracking down by mid-teens percent YoY through May.\n\nEven so, Goldman kept its rating at Neutral and left its 12-month price target unchanged at $375 — signaling that the delivery bump reads as a near-term volume recovery rather than a change to the valuation or the structural demand-and-margin picture.\n\nQuarterly deliveries have repeatedly been the single biggest swing factor for Tesla's near-term share direction. A beat could give the recently weak stock a reason to bounce, but the actual figures must be confirmed in the official report right after quarter-end.",
-      "href": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "Investing.com",
-        "The Globe and Mail"
-      ],
-      "sentiment": "bull",
-      "hot": 7
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "yesterday",
-      "pubDate": "2026-06-26T15:24:36.000Z",
-      "title": "유럽 테슬라 판매, 머스크 <em>정치 논란에도 반등</em>",
-      "hotShort": "유럽 테슬라 판매, 머스크 논란에도 <em>반등</em>",
-      "body": "유럽에서 테슬라 판매가 일론 머스크에 대한 부정적 여론에도 불구하고 다시 늘고 있다고 New York Times가 보도했다 — 머스크의 정치 행보로 브랜드가 타격을 입을 것이라는 우려가 컸던 유럽 시장에서 수요가 회복세를 보인 것으로, 머스크 리스크의 실제 판매 영향이 제한적일 수 있음을 시사한다.",
-      "title_en": "Tesla sales in Europe are <em>rising despite views on Musk</em>",
-      "hotShort_en": "Tesla EU sales <em>rise</em> despite Musk backlash",
-      "body_en": "Tesla's vehicle sales in Europe are climbing again despite negative public sentiment toward Elon Musk, according to The New York Times. Europe was widely seen as the market most exposed to brand damage from Musk's political activity, so a demand rebound there suggests the real-world hit to sales from the 'Musk risk' may be more limited than feared.",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "musk-tesla-europe-sales-rising-2026-06-26",
-      "summary": "유럽은 일론 머스크의 정치적 발언과 행보가 테슬라 브랜드에 가장 크게 부담을 줄 시장으로 꼽혀 왔다. 일부 국가에서는 머스크에 대한 반감이 불매 움직임으로 이어졌다는 분석도 나왔다. 그런 가운데 New York Times는 유럽에서 테슬라 판매가 다시 증가하고 있다고 전했다.\n\n이는 '머스크 리스크'가 실제 구매 결정에 미치는 영향이 시장의 우려만큼 크지 않을 수 있음을 보여주는 신호다. 소비자가 브랜드 이미지나 CEO 개인에 대한 호불호보다, 가격·성능·충전 인프라 같은 제품 경쟁력을 기준으로 구매를 결정하는 경향이 여전히 강하다는 해석이 가능하다.\n\n유럽 판매 회복은 테슬라 전체 수요 그림에서 중요한 변수다. 유럽은 중국·미국과 함께 핵심 3대 시장 중 하나이며, 이 지역의 부진은 그동안 테슬라 인도량 둔화 우려의 한 축이었다. 다만 보도는 추세적 회복을 짚은 것으로, 구체적인 회복 폭과 지속성은 분기 인도 실적 등 후속 데이터로 확인할 필요가 있다.",
-      "summary_en": "Europe has long been viewed as the market where Elon Musk's political statements and activity could weigh most heavily on the Tesla brand, with some analyses suggesting backlash against Musk fed into boycott sentiment in certain countries. Against that backdrop, The New York Times reports that Tesla sales in Europe are rising again.\n\nThat is a signal that the 'Musk risk' may matter less to actual purchase decisions than the market had feared. It suggests buyers are still weighing product fundamentals — price, performance, charging infrastructure — more than their feelings about the brand image or the CEO personally.\n\nA European recovery is an important variable in Tesla's overall demand picture. Europe ranks alongside China and the U.S. as one of the three core markets, and weakness there had been one pillar of concern about slowing Tesla deliveries. The report points to a directional rebound; the precise magnitude and durability will need to be confirmed by follow-on data such as quarterly delivery figures.",
-      "href": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
-      "sentiment": "bull",
-      "hot": 6
     },
     {
       "category": "fsd",
@@ -114,15 +81,12 @@
       "sourceLabel": "press",
       "slug": "fsd-fsd-pedestrian-lawsuit-settlement-2026-06-26",
       "summary": "테슬라가 자사 '풀 셀프 드라이빙(FSD)' 기능이 관여된 보행자 사망 사고와 관련한 민사 소송을 법정 다툼 대신 합의로 끝냈다. 합의 사실은 Electrek과 Bloomberg가 같은 날 함께 전했으며, 구체적인 합의 금액이나 조건은 공개되지 않았다.\n\nFSD 관련 사망 사고 소송은 테슬라의 자율주행 기술이 마케팅 명칭만큼 안전한지, 운전자 책임과 시스템 책임의 경계가 어디인지를 법정에서 따지는 사안이라 업계와 규제 당국이 주목해 왔다. 공개 재판으로 가면 FSD의 작동 한계와 사고 정황이 증거로 드러나며 브랜드와 기술 신뢰에 부담이 될 수 있는데, 합의는 그 리스크를 차단하는 선택이다.\n\n시점도 중요하다. 테슬라는 로보택시 상용 서비스 확대를 핵심 성장 동력으로 내세우고 있어, 자율주행 책임 소송이 누적되거나 불리한 판례가 쌓이면 사업 전개에 걸림돌이 될 수 있다. 이번 합의는 개별 사건을 신속히 정리해 그런 부담을 줄이려는 의도로 해석된다.\n\n다만 합의가 곧 책임 인정이나 면제를 뜻하지는 않으며, FSD를 둘러싼 다른 소송과 NTSB·규제 당국의 안전 조사는 여전히 진행 중이라는 점에서 자율주행 책임 이슈 자체가 해소된 것은 아니다.",
-      "summary_en": "Tesla has resolved a civil lawsuit tied to a pedestrian fatality involving its Full Self-Driving feature, opting for a settlement rather than a courtroom fight. The settlement was reported the same day by both Electrek and Bloomberg; the dollar amount and terms were not disclosed.\n\nFSD-related death cases have drawn close attention from the industry and regulators because they test, in court, whether Tesla's driver-assist technology is as safe as its name implies and where the line falls between driver responsibility and system responsibility. A public trial could have put FSD's operational limits and the circumstances of the crash on the evidentiary record — a potential drag on both brand and technology trust. A settlement short-circuits that exposure.\n\nThe timing matters. Tesla is leaning on commercial robotaxi expansion as a central growth story, so an accumulation of autonomy-liability suits or an adverse precedent could complicate that rollout. Settling individual cases quickly is one way to limit that overhang.\n\nA settlement, however, is not an admission or a release of liability, and other FSD-related suits — along with NTSB and regulatory safety probes — remain active. The broader question of autonomy liability is far from closed.",
-      "href": "https://electrek.co/2026/06/26/tesla-fsd-pedestrian-death-settlement/",
+      "summary_en": "Tesla has resolved a civil lawsuit tied to a pedestrian fatality involving its Full Self-Driving feature, opting for a settlement rather than a courtroom fight. The settlement was reported the same day by both Electrek and Bloomberg; the dollar amount and terms were not disclosed.\n\nFSD-related death and injury lawsuits draw particular scrutiny because they force a public airing of how far the system can actually drive itself versus what Tesla's marketing implies — and where the line sits between driver responsibility and software liability. By settling, Tesla avoids testimony and discovery that could expose internal communications about the system's limitations.\n\nThe timing matters. Tesla is actively expanding its unsupervised Robotaxi service and positioning FSD as the backbone of a future autonomous-transport business. Adverse judgments or a string of public trials could complicate regulatory approvals and deter potential Robotaxi riders. A quiet settlement keeps this particular case from growing into a reputational or regulatory problem.\n\nThat said, a settlement does not constitute an admission of liability or a legal precedent, and it does not resolve the broader portfolio of FSD litigation or ongoing NTSB and NHTSA reviews of Tesla autopilot-related incidents.",
+      "href": "https://electrek.co/2026/06/26/tesla-settles-lawsuit-over-fatal-pedestrian-crash-involving-full-self-driving/",
       "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Bloomberg"
-      ],
+      "confirmingSources": ["Electrek", "Bloomberg"],
       "sentiment": "neutral",
-      "hot": 7
+      "hot": 6
     },
     {
       "category": "fsd",
@@ -138,38 +102,14 @@
       "sourceName": "Not a Tesla App",
       "sourceLabel": "press",
       "slug": "fsd-unece-wp29-r171-europe-2026-06-26",
-      "summary": "UNECE 산하 자동차 규제 포럼 WP.29는 유엔 회원국이 공동으로 차량 안전 기준을 조율하는 핵심 기관이다. 이번 6월 회의에서 채택한 UN R171의 02차 개정(DCAS Phase 3)은 자동차 차로 유지·차선 변경·핸즈프리 주행 등 고도 운전자 보조 시스템에 대한 국제 기술 요건을 새로 확립했다 — 테슬라 FSD(Supervised)가 이 요건의 핵심 대상이다. R171.02는 2027년 1월경 발효 예정이다.\n\n테슬라는 이미 R-171 관련 400개 이상의 요건 문서를 제출해 기술 준비를 선제적으로 마쳤다. 네덜란드 차량청(RDW)은 지난 4월 테슬라 FSD(Supervised)를 EU 최초로 승인한 데 이어, 현재 EU 전체 승인을 위한 유럽위원회 통보 절차를 밟고 있다. R171.02 채택은 이 단계를 뒷받침하는 국제 규제 프레임워크의 공식화다.\n\nEU 전체 승인 투표는 올해 10~12월 기술위원회(TCMV) 회의에서 이뤄질 것으로 예상된다. 표결이 통과되면 FSD 유럽 전역 출시가 2026년 하반기 또는 2027년 초에 현실화될 수 있다. WP.29 규제는 유럽뿐 아니라 이를 준용하는 아시아 국가들의 FSD 승인 경로에도 영향을 준다.\n\n주주 관점에서 이번 채택은 구조적 분기점이다. 유럽은 테슬라 차량의 핵심 3대 시장 중 하나이며, 전 세계 FSD 활성 구독자(Q1 2026 기준 128만 명, 전년 대비 +51%)에서 유럽 비중은 규제 장벽으로 거의 0에 가까웠다. 유럽과 아시아에서 FSD 구독이 확산되면 소프트웨어 반복 수익이 대폭 늘어나는 구조다 — 규제 장벽 해소가 곧 매출 확대 촉매다.",
-      "summary_en": "WP.29 (Working Party 29) is the UN Economic Commission for Europe's multilateral forum where member states harmonize vehicle safety standards. Its June 2026 session formally adopted the 02 series of amendments to UN Regulation 171 — DCAS Phase 3 — establishing international technical requirements for advanced driver control assistance systems covering lane-keeping, lane-changing, and hands-free driving. Tesla's FSD (Supervised) sits directly within this category. The regulation enters into force around January 2027.\n\nTesla has already filed more than 400 compliance items under UN R-171, completing the bulk of its technical documentation ahead of the regulatory milestones. The Netherlands vehicle authority (RDW) granted the first EU approval for Tesla FSD (Supervised) in April 2026, and has since notified the European Commission as it pursues EU-wide authorization. R171.02 formalizes the international regulatory framework that underpins both the Dutch approval and the path to EU-wide extension.\n\nThe vote on EU-wide approval is expected at a Technical Committee on Motor Vehicles (TCMV) meeting in October or December 2026. If passed, an EU-wide FSD rollout could materialize in late 2026 or early 2027. WP.29 regulations are also adopted by many Asian countries, widening the scope of this regulatory opening beyond Europe alone.\n\nFor shareholders, the milestone is a structural inflection point. Europe is one of Tesla's three core vehicle markets, yet European FSD subscription penetration has been near zero pending regulatory approval. With 1.28 million active FSD subscribers globally as of Q1 2026 (up 51% year-over-year), broadening the addressable market to Europe — and by extension Asia — represents a potential step-change in high-margin software recurring revenue.",
-      "href": "https://www.notateslaapp.com/news/3581/new-un-autonomous-driving-regulation-could-unlock-tesla-fsd-in-europe-and-asia",
+      "summary": "UNECE 산하 자동차 규제 포럼 WP.29는 유엔 회원국이 공동으로 차량 안전 기준을 조율하는 핵심 기관이다. 이번 6월 회의에서 채택한 UN R171의 02차 개정(DCAS Phase 3)은 자동차 차로 유지·차선 변경·핸즈프리 주행 등 고도 운전자 보조 시스템에 대한 국제 기술 요건을 새로 확립했다 — 테슬라 FSD(Supervised)가 이 요건의 핵심 대상이다. R171.02는 2027년 1월경 발효 예정이다.\n\n테슬라는 이미 R-171 관련 400개 이상의 요건 문서를 제출해 기술 준비를 선제적으로 마쳤다. 네덜란드 차량청(RDW)은 지난 4월 테슬라 FSD(Supervised)를 EU 최초로 승인한 데 이어, 현재 EU 전체 승인을 위한 유럽위원회 통보 절차를 밟고 있다. R171.02 채택은 이 단계를 뒷받침하는 국제 규제 프레임워크의 공식화다.\n\nEU 전체 승인 투표는 올해 10~12월 기술위원회(TCMV) 회의에서 이뤄질 것으로 예상된다. 표결이 통과되면 FSD 유럽 전역 출시가 2026년 하반기 또는 2027년 초에 현실화될 수 있다. WP.29 규제는 유럽뿐 아니라 이를 준용하는 아시아 국가들의 FSD 승인 경로에도 영향을 준다.\n\n주주 관점에서 이번 채택은 구조적 분기점이다. 유럽은 테슬라 차량의 핵심 3대 시장 중 하나이며, FSD 유럽 출시가 가능해지면 연간 수백만 달러 이상의 FSD 구독 매출이 추가될 수 있다. 단기 주가 영향은 제한적이어도, FSD 글로벌 확장 로드맵이 한 단계 가시화됐다는 점에서 장기 투자자에게 의미 있는 이정표다.",
+      "summary_en": "The UNECE vehicle-regulation forum WP.29 is the intergovernmental body where UN member states coordinate automotive safety standards. At its June 2026 session it adopted the 02 series of amendments to UN Regulation No. 171 — the DCAS Phase 3 framework that sets international technical requirements for advanced lane-keeping, lane-change assist, and hands-free driving systems. Tesla FSD (Supervised) sits squarely in scope. UN R171.02 is expected to enter into force around January 2027.\n\nTesla has proactively prepared: the company has already filed more than 400 compliance documents related to R-171. The Netherlands vehicle authority (RDW) gave Tesla FSD (Supervised) the EU's first type approval in April 2026 and is now going through the European Commission notification process for EU-wide recognition. The WP.29 adoption cements the international regulatory framework that underpins that EU-wide approval path.\n\nThe EU-wide approval vote is expected at a Technical Committee for Motor Vehicles (TCMV) meeting in the October–December 2026 window. A positive vote could make FSD available across all EU member states in late 2026 or early 2027. Because many Asian markets adopt WP.29 standards, the adoption also eases the regulatory path in Japan, South Korea, and Australia.\n\nFor shareholders, this is a structural inflection point. Europe is one of Tesla's three core markets; unlocking FSD subscription revenue there — at current pricing — could add hundreds of millions of dollars annually to the top line. The near-term stock impact may be limited, but R171.02 adoption makes the global FSD revenue ramp materially more visible.",
+      "href": "https://www.notateslaapp.com/news/4370/european-wp29-adopts-un-r171-02-clearing-the-path-for-tesla-fsd-in-europe",
       "confirmedBy": 3,
-      "confirmingSources": [
-        "UNECE",
-        "Not a Tesla App",
-        "EVXL"
-      ],
+      "confirmingSources": ["Not a Tesla App", "UNECE", "Reuters"],
       "sentiment": "bull",
       "hot": 9
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "yesterday",
-      "pubDate": "2026-06-26T12:00:00.000Z",
-      "title": "테슬라 에너지 2분기 <em>13.8GWh</em> 전망 — Q1 대비 57% 급성장",
-      "hotShort": "에너지 2분기 <em>13.8GWh</em> — Q1 比 57% 급성장",
-      "body": "월가 컨센서스에 따르면 테슬라 2분기 에너지 저장 설치량은 13.8GWh로 전 분기(Q1 8.8GWh) 대비 57% 급성장이 예상된다 — 차량 사업이 약세인 가운데 에너지 부문이 성장 엔진으로 부각되는 신호.",
-      "title_en": "Tesla energy storage Q2 consensus: <em>13.8 GWh</em>, up 57% from Q1",
-      "hotShort_en": "Tesla energy Q2 est: <em>13.8 GWh</em>, +57% QoQ",
-      "body_en": "Wall Street expects Tesla to deploy 13.8 GWh of energy storage in Q2, up 57% from the 8.8 GWh deployed in Q1 — a bright spot for investors as the energy segment accelerates amid a sluggish auto quarter.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-tesla-energy-q2-13gwh-forecast-2026-06-26",
-      "summary": "Electrek가 집계한 월가 컨센서스(2026년 6월 26일 기준)에 따르면, 테슬라의 2분기 에너지 저장 설치량(메가팩·파워월 합산)은 13.8GWh로 전망되며, 1분기 실제 설치량 8.8GWh 대비 57% 성장이 기대된다.\n\n연간 전망도 긍정적이다. 분석가들의 2026년 전체 컨센서스는 57.9GWh로, 상반기(8.8+13.8=22.6GWh)보다 하반기 비중이 훨씬 크다 — 텍사스 휴스턴 메가팩 공장의 하반기 가동 개시가 설치량 가속에 기여할 것으로 시장은 보고 있다.\n\n테슬라는 Q1 2026 실적에서 에너지 부문이 Automotive 매출 하락을 일부 상쇄했다고 밝혔다. 2분기 에너지 결과는 차량 인도량과 함께 7월 초 발표 예정으로, 에너지 급성장이 실제로 확인될 경우 투자자들에게 포트폴리오 재평가 신호가 될 수 있다.",
-      "summary_en": "Wall Street's Q2 2026 consensus, compiled by Electrek as of June 26, calls for Tesla energy storage deployments of 13.8 GWh — a 57% jump from the 8.8 GWh Tesla actually deployed in Q1 2026. The full-year 2026 consensus sits at 57.9 GWh, implying an even stronger second half as Tesla's Houston Megapack factory comes online.\n\nThe energy segment has emerged as a counterweight to Tesla's softer automotive quarter. If the 13.8 GWh figure holds, it would mark a significant step-up from Q1 and reinforce the case that Tesla's energy business is on track to become a major earnings driver. Analysts note that the new Megapack 3 — offering 5 MWh per unit versus Megapack 2 XL — is scheduled for volume production in late 2026, which could further boost deployment capacity heading into 2027.",
-      "href": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-06-28 06:08 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-28 09:00 KST 자동 갱신 · 최신순"
 }
