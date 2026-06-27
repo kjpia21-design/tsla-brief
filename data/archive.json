@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "today",
+      "pubDate": "2026-06-27T08:55:43.000Z",
+      "title": "NHTSA, 376K대 테슬라 <em>파워스티어링 조사 종결</em> — 추가 조치 없이",
+      "hotShort": "NHTSA, 테슬라 파워스티어링 <em>조사 종결</em>",
+      "body": "미 도로교통안전국(NHTSA)이 약 376,241대(2023년형 모델3·모델Y)를 대상으로 3년 가까이 끌어온 '파워스티어링 상실' 조사를 추가 조치 없이 종결했다 — 테슬라가 2025년 초 OTA 업데이트로 이미 리콜을 시행한 점을 반영한 결정으로, 로보택시·FSD 확장을 앞두고 장기간 남아 있던 안전 규제 리스크 하나가 해소된 셈이다.",
+      "title_en": "NHTSA <em>closes power-steering probe</em> into 376K Teslas with no further action",
+      "hotShort_en": "NHTSA <em>closes</em> Tesla steering probe",
+      "body_en": "The U.S. National Highway Traffic Safety Administration closed its nearly three-year 'loss of power steering' investigation into about 376,241 Tesla Model 3 and Model Y vehicles (2023 model year) without further action, citing Tesla's earlier recall. Tesla had already addressed the issue via an over-the-air update in early 2025 — so the closure clears a long-running safety-regulatory overhang as the company pushes toward Robotaxi and FSD expansion.",
+      "sourceName": "Reuters",
+      "sourceLabel": "sec",
+      "slug": "product-nhtsa-power-steering-probe-closed-2026-06-27",
+      "summary": "미 도로교통안전국(NHTSA)이 테슬라 파워스티어링 상실 의혹에 대한 장기 조사를 마무리했다. NHTSA 결함조사국(ODI)은 2023년 7월 일부 차주가 '핸들을 돌릴 수 없거나 조향에 더 큰 힘이 필요하다'고 신고한 데 따라 모델3·모델Y에 대한 예비평가를 개시했고, 2024년 초 이를 더 깊이 들여다보는 '엔지니어링 분석'으로 격상한 바 있다.\n\n조사 대상은 2023년형 모델3·모델Y 약 376,241대였다. 테슬라는 이미 2025년 초 미국에서 약 376,000대를 리콜했는데, 인쇄회로기판의 모터 구동부에서 과전압·과부하가 발생해 저속 주행 시 조향이 무거워질 수 있다는 결함을 OTA(무선) 소프트웨어 업데이트로 바로잡는 조치였다.\n\nNHTSA는 이번 토요일, 이러한 테슬라의 리콜을 감안해 엔지니어링 분석을 종결한다고 밝혔다. 별도의 추가 리콜이나 강제 조치는 요구되지 않았다.\n\n주주 입장에서 이번 종결은 작지만 분명한 호재다. 자율주행·로보택시 사업을 핵심 성장축으로 내세운 테슬라에게 미결 안전 조사는 잠재적 규제·평판 리스크였는데, 추가 조치 없이 매듭지어지며 그 부담이 하나 줄었다. 다만 이는 이미 리콜로 처리된 사안의 행정적 마무리로, 새로운 결함이 확인된 것은 아니다.",
+      "summary_en": "The U.S. National Highway Traffic Safety Administration has wrapped up its long-running inquiry into alleged loss of power steering in Teslas. NHTSA's Office of Defects Investigation opened a preliminary evaluation in July 2023 after some owners reported being unable to turn the wheel or needing greater steering effort, and in early 2024 it upgraded the matter to an 'engineering analysis' for a deeper look.\n\nThe probe covered roughly 376,241 Model 3 and Model Y vehicles from the 2023 model year. Tesla had already recalled about 376,000 vehicles in the U.S. in early 2025 — fixing, via an over-the-air software update, a defect in which overvoltage and overstress on the motor-drive section of a printed circuit board could make steering harder at low speeds.\n\nNHTSA said this Saturday that it was closing the engineering analysis in view of Tesla's recall. No additional recall or enforcement action was required.\n\nFor shareholders, the closure is a small but clear positive. With autonomy and Robotaxi positioned as a core growth pillar, an open safety investigation represented a potential regulatory and reputational overhang; resolving it without further action removes one of those burdens. That said, this is the administrative wrap-up of an issue already handled by recall, not the discovery of any new defect.",
+      "href": "https://www.reuters.com/business/autos-transportation/us-safety-agency-ends-power-steering-probe-into-376000-tesla-evs-2026-06-27/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Reuters",
+        "Teslarati",
+        "Not a Tesla App",
+        "The EV Report"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "today",
@@ -2063,27 +2090,7 @@
       "href": "https://www.barrons.com/articles/cathie-wood-musk-tesla-stock-spacex-5ec481c2",
       "sentiment": "bull",
       "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
-      "pubDate": "2026-06-19T10:26:00.000Z",
-      "title": "WSJ: 중국 자율주행 유니콘, 홍콩 증시서 <em>10억 달러 IPO</em> 추진",
-      "hotShort": "중국 AV 유니콘, 홍콩서 <em>10억 달러 IPO</em> 추진",
-      "body": "월스트리트저널에 따르면 중국의 자율주행 유니콘 기업이 홍콩 증시에 10억 달러($1B) 규모의 기업공개(IPO)를 추진 중이다 — 글로벌 로보택시 경쟁이 자본 시장에서도 고조되고 있음을 보여주며, 테슬라 사이버캡과 경쟁할 중국 AV 기업의 자금력이 대규모로 확충되는 흐름이다.",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "fsd-china-av-unicorn-hongkong-ipo-2026-06-19",
-      "summary": "월스트리트저널은 중국의 자율주행 유니콘 기업이 홍콩 증시에서 10억 달러($1B) 규모의 IPO를 목표로 하고 있다고 보도했다.\n\n중국은 자율주행 기술 분야에서 독자적인 생태계를 빠르게 구축해 왔다. 바이두 아폴로 등 복수의 중국 자율주행 기업들이 나스닥 또는 홍콩 증시에 상장했거나 준비 중이다. 10억 달러 IPO 목표 자체가 이 시장의 투자자 신뢰와 성장 기대치를 보여준다.\n\n홍콩 IPO 선택은 중국 자율주행 기업들이 미국 증시 상장 리스크(미중 관계, 외국 기업 규제)를 피하면서도 국제 자본 시장에 접근하는 전략적 선택이다. 성공적 조달 시 미국·유럽 경쟁자들과 대등한 개발·확장 자금을 확보하게 된다.\n\n테슬라 주주 관점에서 이 소식은 양면적이다. 중국 AV 기업들의 대규모 자금 조달은 로보택시 시장의 글로벌 경쟁을 심화시킨다는 점에서 도전이다. 반면, 자율주행 기업에 10억 달러 IPO 목표가 가능하다는 사실은 이 시장의 규모와 투자자 신뢰를 확인해 준다 — 테슬라가 사이버캡에서 성공한다면 반영될 잠재 시장을 간접 증명하는 셈이다.",
-      "title_en": "WSJ: Chinese autonomous-driving unicorn targets <em>$1 billion Hong Kong IPO</em>",
-      "hotShort_en": "Chinese AV unicorn eyes <em>$1B HK IPO</em>",
-      "body_en": "The Wall Street Journal reports a Chinese autonomous-driving unicorn is targeting a $1 billion IPO in Hong Kong — signaling that global robotaxi competition is intensifying in capital markets, with a well-funded Chinese AV player preparing resources to scale alongside Tesla's Cybercab program.",
-      "summary_en": "The Wall Street Journal reports that a Chinese autonomous-driving unicorn is pursuing a $1 billion IPO on the Hong Kong Stock Exchange.\n\nChina has developed an extensive autonomous vehicle ecosystem. A $1 billion capital raise target reflects substantial investor demand for the sector and signals the company's intent to scale aggressively.\n\nChoosing Hong Kong over U.S. exchanges reflects a deliberate strategy: amid ongoing uncertainty around U.S. regulatory treatment of Chinese technology listings, Hong Kong provides access to international capital without the disclosure or deregistration risks associated with U.S. listing requirements. Successful completion of this offering would give the company resources comparable to well-funded U.S. competitors.\n\nFor Tesla investors, the implications are mixed. A well-capitalized Chinese AV company narrows the resource gap with U.S. players and adds another credible competitor in the global robotaxi race. On the other hand, a $1 billion IPO target confirms that sophisticated investors view autonomous driving as a fundable, near-commercial business — validating the same market Tesla is targeting with Cybercab.",
-      "href": "https://www.wsj.com/business/autos/chinese-autonomous-driving-unicorn-targets-1-billion-hong-kong-ipo-a8e2401f",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-06-27 12:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-27 19:45 KST 자동 갱신 · 최신순"
 }

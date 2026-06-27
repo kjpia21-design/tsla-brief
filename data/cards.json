@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "today",
+      "pubDate": "2026-06-27T08:55:43.000Z",
+      "title": "NHTSA, 376K대 테슬라 <em>파워스티어링 조사 종결</em> — 추가 조치 없이",
+      "hotShort": "NHTSA, 테슬라 파워스티어링 <em>조사 종결</em>",
+      "body": "미 도로교통안전국(NHTSA)이 약 376,241대(2023년형 모델3·모델Y)를 대상으로 3년 가까이 끌어온 '파워스티어링 상실' 조사를 추가 조치 없이 종결했다 — 테슬라가 2025년 초 OTA 업데이트로 이미 리콜을 시행한 점을 반영한 결정으로, 로보택시·FSD 확장을 앞두고 장기간 남아 있던 안전 규제 리스크 하나가 해소된 셈이다.",
+      "title_en": "NHTSA <em>closes power-steering probe</em> into 376K Teslas with no further action",
+      "hotShort_en": "NHTSA <em>closes</em> Tesla steering probe",
+      "body_en": "The U.S. National Highway Traffic Safety Administration closed its nearly three-year 'loss of power steering' investigation into about 376,241 Tesla Model 3 and Model Y vehicles (2023 model year) without further action, citing Tesla's earlier recall. Tesla had already addressed the issue via an over-the-air update in early 2025 — so the closure clears a long-running safety-regulatory overhang as the company pushes toward Robotaxi and FSD expansion.",
+      "sourceName": "Reuters",
+      "sourceLabel": "sec",
+      "slug": "product-nhtsa-power-steering-probe-closed-2026-06-27",
+      "summary": "미 도로교통안전국(NHTSA)이 테슬라 파워스티어링 상실 의혹에 대한 장기 조사를 마무리했다. NHTSA 결함조사국(ODI)은 2023년 7월 일부 차주가 '핸들을 돌릴 수 없거나 조향에 더 큰 힘이 필요하다'고 신고한 데 따라 모델3·모델Y에 대한 예비평가를 개시했고, 2024년 초 이를 더 깊이 들여다보는 '엔지니어링 분석'으로 격상한 바 있다.\n\n조사 대상은 2023년형 모델3·모델Y 약 376,241대였다. 테슬라는 이미 2025년 초 미국에서 약 376,000대를 리콜했는데, 인쇄회로기판의 모터 구동부에서 과전압·과부하가 발생해 저속 주행 시 조향이 무거워질 수 있다는 결함을 OTA(무선) 소프트웨어 업데이트로 바로잡는 조치였다.\n\nNHTSA는 이번 토요일, 이러한 테슬라의 리콜을 감안해 엔지니어링 분석을 종결한다고 밝혔다. 별도의 추가 리콜이나 강제 조치는 요구되지 않았다.\n\n주주 입장에서 이번 종결은 작지만 분명한 호재다. 자율주행·로보택시 사업을 핵심 성장축으로 내세운 테슬라에게 미결 안전 조사는 잠재적 규제·평판 리스크였는데, 추가 조치 없이 매듭지어지며 그 부담이 하나 줄었다. 다만 이는 이미 리콜로 처리된 사안의 행정적 마무리로, 새로운 결함이 확인된 것은 아니다.",
+      "summary_en": "The U.S. National Highway Traffic Safety Administration has wrapped up its long-running inquiry into alleged loss of power steering in Teslas. NHTSA's Office of Defects Investigation opened a preliminary evaluation in July 2023 after some owners reported being unable to turn the wheel or needing greater steering effort, and in early 2024 it upgraded the matter to an 'engineering analysis' for a deeper look.\n\nThe probe covered roughly 376,241 Model 3 and Model Y vehicles from the 2023 model year. Tesla had already recalled about 376,000 vehicles in the U.S. in early 2025 — fixing, via an over-the-air software update, a defect in which overvoltage and overstress on the motor-drive section of a printed circuit board could make steering harder at low speeds.\n\nNHTSA said this Saturday that it was closing the engineering analysis in view of Tesla's recall. No additional recall or enforcement action was required.\n\nFor shareholders, the closure is a small but clear positive. With autonomy and Robotaxi positioned as a core growth pillar, an open safety investigation represented a potential regulatory and reputational overhang; resolving it without further action removes one of those burdens. That said, this is the administrative wrap-up of an issue already handled by recall, not the discovery of any new defect.",
+      "href": "https://www.reuters.com/business/autos-transportation/us-safety-agency-ends-power-steering-probe-into-376000-tesla-evs-2026-06-27/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Reuters",
+        "Teslarati",
+        "Not a Tesla App",
+        "The EV Report"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "today",
@@ -163,5 +190,5 @@
       "hot": 9
     }
   ],
-  "asOf": "2026-06-27 12:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-27 19:45 KST 자동 갱신 · 최신순"
 }
