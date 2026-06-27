@@ -464,7 +464,7 @@ function hotShortHtml(c, lang = "ko") {
 //   1) ' — [왜 중요]' 대시 꼬리 제거  2) 여러 문장이면 첫 문장만.
 //   소수점("3.5%")·약어 내부 점은 종결로 오인하지 않게 종결부호 뒤가 공백/끝일 때만 자른다.
 function cardBody(body) {
-  let t = (body || "").replace(/\s+/g, " ").trim();
+  let t = (body || "").replace(/<\/?em>/g, "").replace(/\s+/g, " ").trim();  // em 은 카드 본문에선 평문(강조는 title·hotShort 만)
   if (!t) return "";
   const d = t.search(/\s[—–]\s/);
   if (d >= 16) t = t.slice(0, d).trim();
