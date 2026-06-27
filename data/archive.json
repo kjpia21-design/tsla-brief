@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "today",
+      "pubDate": "2026-06-26T20:00:00.000Z",
+      "title": "골드만, 테슬라 2분기 인도 전망 <em>420K로 상향</em> — 컨센서스 상회 시사",
+      "hotShort": "골드만, 테슬라 2분기 인도 <em>컨센서스 상회</em> 전망",
+      "body": "골드만삭스가 테슬라 2분기 인도 추정치를 405K→420K로 상향하며 '월가 컨센서스(약 406K)를 약 5% 웃돌 것'이라고 진단했다 — 유럽 신차 등록이 5월까지 전년 대비 +85~90% 급증한 반면 미국은 두 자릿수 중반(%) 감소로, 분기 인도가 단기 주가의 최대 변수인 만큼 유럽 강세가 미국 부진을 상쇄할지가 관건이다.",
+      "title_en": "Goldman lifts Tesla Q2 delivery view to <em>420K</em>, sees upside to consensus",
+      "hotShort_en": "Goldman: Tesla Q2 deliveries <em>top consensus</em>",
+      "body_en": "Goldman Sachs raised its Q2 2026 Tesla delivery estimate to 420K from 405K, saying volumes are tracking about 5% above the Wall Street consensus (~406K). European registrations surged +85–90% YoY through May while the US slipped by mid-teens percent — with quarterly deliveries the single biggest swing factor for the stock, the question is whether Europe's strength offsets US softness.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-q2-2026-delivery-consensus-goldman-2026-06-26",
+      "summary": "2분기 마감을 앞두고 테슬라 인도 실적 기대치가 다시 상향되고 있다. 골드만삭스 애널리스트 마크 딜레이니는 지역별 판매 데이터를 근거로 2분기 인도 추정치를 기존 405K에서 420K로 올렸고, 이는 월가 컨센서스(약 406K)를 약 5% 웃도는 수준이다.\n\n상향의 핵심 동력은 유럽이다. 유럽 신차 등록은 5월까지 전년 대비 약 85~90% 급증했고, 6월 일간 데이터를 공개한 국가들도 강한 출발을 보였다. 반면 미국은 5월까지 인도가 전년 대비 두 자릿수 중반(%) 감소하며 지역별로 유일한 약점으로 지목됐다.\n\n다만 골드만은 인도 전망을 올리면서도 투자의견은 '중립(Neutral)', 12개월 목표주가는 $375로 유지했다. 인도 개선이 단기 물량 회복 신호일 뿐, 밸류에이션 부담이나 수요·마진의 구조적 그림까지 바꾸지는 않았다는 신중론이 깔려 있다.\n\n분기 인도 실적은 그간 테슬라 주가의 단기 향방을 가르는 최대 변수로 꼽혀 왔다. 컨센서스 상회 가능성은 이번 달 약세 흐름을 이어온 주가에 반등 빌미가 될 수 있으나, 실제 수치는 분기 마감 직후 공식 발표로 확인해야 한다.",
+      "summary_en": "With the second quarter about to close, expectations for Tesla's delivery print are being revised higher. Goldman Sachs analyst Mark Delaney lifted his Q2 estimate to 420K from 405K on regional sales data, roughly 5% above the Street consensus (~406K).\n\nEurope is the main driver. New-vehicle registrations jumped roughly 85–90% YoY through May, and countries reporting June daily data showed a strong start. The US, by contrast, was the lone soft spot, with deliveries tracking down by mid-teens percent YoY through May.\n\nEven so, Goldman kept its rating at Neutral and left its 12-month price target unchanged at $375 — signaling that the delivery bump reads as a near-term volume recovery rather than a change to the valuation or the structural demand-and-margin picture.\n\nQuarterly deliveries have repeatedly been the single biggest swing factor for Tesla's near-term share direction. A beat could give the recently weak stock a reason to bounce, but the actual figures must be confirmed in the official report right after quarter-end.",
+      "href": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Investing.com",
+        "The Globe and Mail"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "5h ago",
@@ -2057,27 +2083,7 @@
       "href": "https://www.wsj.com/business/autos/chinese-autonomous-driving-unicorn-targets-1-billion-hong-kong-ipo-a8e2401f",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "40m ago",
-      "pubDate": "2026-06-19T10:07:00.000Z",
-      "title": "배런스 \"SpaceX 시대, <em>매그니피센트 세븐</em>을 무색하게 만든다\"",
-      "hotShort": "배런스: SpaceX 시대가 <em>매그니피센트 7</em> 흔든다",
-      "body": "배런스가 SpaceX 상장으로 열린 'SpaceX 시대'가 기술주 시장을 지배하던 매그니피센트 세븐 프레임을 무색하게 만들고 있다고 분석했다 — 7인방 중 유일한 머스크 기업인 테슬라가 새 시장 지형에서 어떤 위치를 차지할지, 투자자들의 시각이 나뉘고 있다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-era-mag7-irrelevant-barrons-2026-06-19",
-      "summary": "배런스는 SpaceX의 나스닥 상장(6월 11일) 이후 'SpaceX 시대'가 열리면서, 지난 수년간 기술주 시장 담론을 지배했던 매그니피센트 세븐(애플·마이크로소프트·아마존·알파벳·메타·엔비디아·테슬라)의 영향력이 상대적으로 희석되고 있다는 시각을 제시했다.\n\n매그니피센트 세븐은 2023~2025년 S&P 500 상승분의 상당 부분을 이끈 7개 대형 기술주 그룹이다. SpaceX의 상장으로 우주·위성 인터넷·발사 인프라를 아우르는 완전히 새로운 카테고리의 메가캡 성장주가 투자 지형에 등장했고, 이는 기존 'Mag7' 프레임이 기술주 선도 기업 집합을 더 이상 충분히 설명하지 못한다는 논의를 불러일으키고 있다.\n\n테슬라 주주에게 이 분석은 복합적 함의를 갖는다. 매그니피센트 세븐 프레임이 약화될 경우 그룹 전체에 집중됐던 기관 자금 흐름이 분산될 수 있고, 테슬라도 그 영향에서 자유롭지 않다. 반면, 같은 날 배런스는 ARK가 SpaceX 투자 직후 테슬라도 매수했다고 보도했다 — 테슬라와 SpaceX를 동반 성장 테마로 보는 시각도 공존함을 보여 준다.",
-      "title_en": "Barron's: The SpaceX era is making the <em>Magnificent Seven irrelevant</em>",
-      "hotShort_en": "Barron's: SpaceX era <em>dims Mag Seven</em>",
-      "body_en": "Barron's argues that SpaceX's arrival as a publicly traded mega-cap is making the Magnificent Seven framework — which includes Tesla — less definitive as the lens for technology investment leadership, as capital and narrative shift toward Musk's newly listed space and satellite company.",
-      "summary_en": "Barron's published an analysis arguing that SpaceX's Nasdaq listing has ushered in a new investment era that undermines the relevance of the 'Magnificent Seven' framework. The Magnificent Seven — Apple, Microsoft, Amazon, Alphabet, Meta, Nvidia, and Tesla — dominated technology market discourse from 2023 through 2025, together accounting for a disproportionate share of S&P 500 gains. SpaceX's emergence creates a category of mega-cap growth company that extends well beyond the cloud, advertising, and consumer technology sectors that originally defined the Mag7 grouping.\n\nThe argument is structural, not just narrative: as SpaceX draws institutional attention and capital toward space, satellite internet, and launch infrastructure, the Mag7 framework offers a less complete map of where technology market leadership is concentrated. A new taxonomy may be forming — one that includes SpaceX as a major pole of investor attention.\n\nFor Tesla investors, this is a nuanced development. Tesla is the only Musk company among the original Mag7. If broad technology market leadership migrates away from the Mag7 cluster toward SpaceX and other emerging categories, the group-level tailwinds that have historically benefited Tesla could diminish. At the same time, Barron's covered ARK Invest buying both SpaceX and Tesla on the same day — illustrating that many investors see the two companies as complementary rather than competing for the same capital pool.",
-      "href": "https://www.barrons.com/articles/spacex-stock-magnificent-seven-c7cdd078",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-06-27 06:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-27 12:05 KST 자동 갱신 · 최신순"
 }

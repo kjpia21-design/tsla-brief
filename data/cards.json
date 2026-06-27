@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "today",
+      "pubDate": "2026-06-26T20:00:00.000Z",
+      "title": "골드만, 테슬라 2분기 인도 전망 <em>420K로 상향</em> — 컨센서스 상회 시사",
+      "hotShort": "골드만, 테슬라 2분기 인도 <em>컨센서스 상회</em> 전망",
+      "body": "골드만삭스가 테슬라 2분기 인도 추정치를 405K→420K로 상향하며 '월가 컨센서스(약 406K)를 약 5% 웃돌 것'이라고 진단했다 — 유럽 신차 등록이 5월까지 전년 대비 +85~90% 급증한 반면 미국은 두 자릿수 중반(%) 감소로, 분기 인도가 단기 주가의 최대 변수인 만큼 유럽 강세가 미국 부진을 상쇄할지가 관건이다.",
+      "title_en": "Goldman lifts Tesla Q2 delivery view to <em>420K</em>, sees upside to consensus",
+      "hotShort_en": "Goldman: Tesla Q2 deliveries <em>top consensus</em>",
+      "body_en": "Goldman Sachs raised its Q2 2026 Tesla delivery estimate to 420K from 405K, saying volumes are tracking about 5% above the Wall Street consensus (~406K). European registrations surged +85–90% YoY through May while the US slipped by mid-teens percent — with quarterly deliveries the single biggest swing factor for the stock, the question is whether Europe's strength offsets US softness.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-q2-2026-delivery-consensus-goldman-2026-06-26",
+      "summary": "2분기 마감을 앞두고 테슬라 인도 실적 기대치가 다시 상향되고 있다. 골드만삭스 애널리스트 마크 딜레이니는 지역별 판매 데이터를 근거로 2분기 인도 추정치를 기존 405K에서 420K로 올렸고, 이는 월가 컨센서스(약 406K)를 약 5% 웃도는 수준이다.\n\n상향의 핵심 동력은 유럽이다. 유럽 신차 등록은 5월까지 전년 대비 약 85~90% 급증했고, 6월 일간 데이터를 공개한 국가들도 강한 출발을 보였다. 반면 미국은 5월까지 인도가 전년 대비 두 자릿수 중반(%) 감소하며 지역별로 유일한 약점으로 지목됐다.\n\n다만 골드만은 인도 전망을 올리면서도 투자의견은 '중립(Neutral)', 12개월 목표주가는 $375로 유지했다. 인도 개선이 단기 물량 회복 신호일 뿐, 밸류에이션 부담이나 수요·마진의 구조적 그림까지 바꾸지는 않았다는 신중론이 깔려 있다.\n\n분기 인도 실적은 그간 테슬라 주가의 단기 향방을 가르는 최대 변수로 꼽혀 왔다. 컨센서스 상회 가능성은 이번 달 약세 흐름을 이어온 주가에 반등 빌미가 될 수 있으나, 실제 수치는 분기 마감 직후 공식 발표로 확인해야 한다.",
+      "summary_en": "With the second quarter about to close, expectations for Tesla's delivery print are being revised higher. Goldman Sachs analyst Mark Delaney lifted his Q2 estimate to 420K from 405K on regional sales data, roughly 5% above the Street consensus (~406K).\n\nEurope is the main driver. New-vehicle registrations jumped roughly 85–90% YoY through May, and countries reporting June daily data showed a strong start. The US, by contrast, was the lone soft spot, with deliveries tracking down by mid-teens percent YoY through May.\n\nEven so, Goldman kept its rating at Neutral and left its 12-month price target unchanged at $375 — signaling that the delivery bump reads as a near-term volume recovery rather than a change to the valuation or the structural demand-and-margin picture.\n\nQuarterly deliveries have repeatedly been the single biggest swing factor for Tesla's near-term share direction. A beat could give the recently weak stock a reason to bounce, but the actual figures must be confirmed in the official report right after quarter-end.",
+      "href": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Investing.com",
+        "The Globe and Mail"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "5h ago",
@@ -137,5 +163,5 @@
       "hot": 9
     }
   ],
-  "asOf": "2026-06-27 06:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-27 12:05 KST 자동 갱신 · 최신순"
 }
