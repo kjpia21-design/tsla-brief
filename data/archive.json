@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-06-28T14:00:00.000Z",
+      "title": "블룸버그 \"로보택시, 결함 속에서도 <em>전진 중</em>\" — 테슬라 4배 사고율·웨이모 리콜·바이두 허가 중단",
+      "hotShort": "로보택시 사고·리콜 연속에도 <em>전진 중</em>",
+      "body": "블룸버그가 6월 28일 로보택시 업계 종합 진단을 내놨다 — 테슬라 오스틴 서비스는 출시 이후 사고율이 인간 운전자의 4배(5만7천 마일당 1건), 웨이모는 봄철 소프트웨어 오류로 2차례 대규모 리콜, 바이두 아폴로 고는 우한에서 로봇택시 100여 대가 동시 멈춰 중국이 신규 자율주행 허가를 전면 중단. 그럼에도 블룸버그 진단은 '업계는 전진 중' — 테슬라 사이버캡 확장 환경을 가늠하는 핵심 지표다.",
+      "title_en": "Bloomberg 2026 robotaxi report: <em>making headway</em> — Tesla 4×, Waymo recalls, Baidu freeze",
+      "hotShort_en": "Bloomberg: robotaxis <em>advancing</em> in 2026",
+      "body_en": "Bloomberg's June 28 comprehensive review of the global robotaxi industry paints a mixed picture: Tesla's Austin fleet has crashed at 4× the human-driver rate (one incident per 57,000 miles); Waymo issued two fleet-wide software recalls this spring; Baidu's Apollo Go saw 100+ autonomous taxis freeze simultaneously in Wuhan, prompting China to suspend all new self-driving permits. Bloomberg's verdict: despite the glitches, the industry is making headway — a benchmark relevant to sizing Tesla's Cybercab scale-out.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-industry-bloomberg-2026-06-28",
+      "summary": "테슬라 오스틴 로봇택시 서비스는 2025년 6월 출시 이후 45대 차량이 총 14건의 사고를 기록했다(CBS 뉴스·셔우드 뉴스). 누적 약 70만 마일 기준 사고율은 5만7,000마일당 1건 — 미국 평균 인간 운전자(22만9,000마일당 1건)의 약 4배다. 사고 유형에는 고정 장애물 정면 충돌·후진 시 나무 기둥·연석 접촉 등이 포함된다. 테슬라 측은 모든 사고에 안전 모니터가 탑승했으며 인명 피해는 없다는 입장이다.\n\n웨이모는 2026년 봄 두 차례의 소프트웨어 리콜을 겪었다. 5월에는 침수 도로 진입 결함으로 3,791대를 리콜했고, 6월 18일에는 고속도로 공사 구간 오진입 위험으로 3,871대를 추가 리콜했다. 두 건 모두 즉시 OTA 패치로 수정됐다.\n\n중국에서는 2026년 3월 바이두 아폴로 고 로봇택시 100여 대가 우한 시내에서 동시에 멈추며 탑승객을 최대 2시간 고립시켰다(포춘). 이 사건을 계기로 중국 당국은 신규 자율주행 허가를 전국적으로 중단했다 — 기존 허가 차량은 운행 가능하지만 신규 도시 진출·차량 추가는 전면 차단된 상태다.\n\n블룸버그의 종합 평가는 '결함에도 불구하고 전진 중'이다. 테슬라 주주 관점에서 이 기사는 두 가지 함의를 갖는다: 경쟁사들의 광범위한 결함이 규제 기관의 업계 전반 안전 검토를 촉구하는 환경을 만들 수 있는 반면, 미국 당국이 브레이크 페달 요건을 폐지하는 등 규제 완화도 병행되고 있다. 7월 2일 Q2 인도 발표와 7월 22일 어닝 콜에서 사이버캡 안전 데이터와 오스틴 확장 일정이 핵심 이슈가 될 전망이다.",
+      "summary_en": "As of June 2026, Tesla's supervised Robotaxi service in Austin has logged 14 crashes across 45 vehicles since its June 2025 launch (CBS News; Sherwood News). Based on approximately 700,000 cumulative miles, the crash rate is roughly one incident per 57,000 miles — approximately four times worse than the average American human driver at one crash per 229,000 miles. Incident types include head-on collisions with fixed objects, a reversal into a wooden utility pole, and curb contacts. Tesla maintains that all incidents occurred with a trained safety monitor aboard and that no injuries have been reported.\n\nWaymo faced two fleet-wide software recalls in spring 2026. In May, it recalled 3,791 robotaxis after a vehicle drove on a flooded road. On June 18, it recalled 3,871 more after robotaxis failed to recognize freeway construction zones in 13 incidents across Phoenix and San Francisco. Both cases were resolved with over-the-air software patches.\n\nIn China, Baidu's Apollo Go experienced a high-profile failure in March 2026 when over 100 autonomous taxis froze simultaneously on Wuhan streets — some on elevated roads — trapping passengers for up to two hours (Fortune). Chinese regulators responded by suspending all new autonomous driving permits nationwide; existing licensed operators may continue, but no fleet expansion or new city entry is permitted.\n\nBloomberg's headline conclusion — 'making headway, glitches and all' — cuts both ways for Tesla investors. Industry-wide safety failures could intensify regulatory scrutiny of all robotaxi operators, including Tesla's Cybercab. At the same time, the US DOT's proposal to eliminate the brake-pedal requirement for driverless vehicles signals that regulators see these challenges as manageable, not fatal. With Q2 deliveries due July 2 and the earnings call on July 22, Cybercab safety data and Austin expansion metrics will be key investor focus points.",
+      "href": "https://www.bloomberg.com/news/features/2026-06-28/robotaxis-why-waymo-tesla-baidu-and-others-face-continued-challenges",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "CBS News",
+        "Fortune"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "4h ago",
@@ -26,6 +52,32 @@
       ],
       "sentiment": "bull",
       "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "9h ago",
+      "pubDate": "2026-06-28T09:30:00.000Z",
+      "title": "WSJ \"英 웨이브, <em>기업가치 $86억</em>으로 테슬라·웨이모에 도전\" — 지도 없는 AI·OEM 공급 전략",
+      "hotShort": "웨이브 $86억 자율주행 경쟁자 — <em>지도 없는 AI</em>",
+      "body": "WSJ이 6월 28일 집중 조명한 영국 자율주행 스타트업 웨이브(Wayve)는 마이크로소프트·엔비디아·우버·메르세데스-벤츠 등에서 총 $15억을 조달해 기업가치 $86억에 달했다. 테슬라 FSD와 같은 '지도 불요 엔드투엔드 AI' 방식으로 OEM에 기술을 공급하며 2026년 중 런던·도쿄에서 우버 협력 로봇택시를 시작한다 — 테슬라 FSD 기술 라이선스 시장의 직접 경쟁자로 부상.",
+      "title_en": "WSJ: UK's Wayve, <em>valued at $8.6B</em>, challenges Tesla and Waymo with mapless AI",
+      "hotShort_en": "Wayve: <em>$8.6B rival</em> to Tesla's FSD",
+      "body_en": "WSJ profiled Wayve on June 28 — a UK autonomous-driving startup that has raised $1.5B total from Microsoft, Nvidia, Uber, Mercedes-Benz, Nissan, and Stellantis (plus $300M from Uber contingent on robotaxi deployment), reaching an $8.6B valuation. Wayve uses a mapless end-to-end AI approach similar to Tesla FSD but targets OEM partnerships rather than building its own vehicles. Robotaxi rides via Uber are planned for London and Tokyo in 2026, with safety drivers — a direct challenger to Tesla's FSD technology licensing narrative.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "fsd-wayve-tesla-waymo-challenger-2026-06-28",
+      "summary": "웨이브(Wayve)는 영국 런던 기반의 자율주행 AI 스타트업으로 총 $15억을 조달해 기업가치 $86억을 달성했다. 시리즈 D 라운드($12억)에는 마이크로소프트·엔비디아·우버·메르세데스-벤츠·닛산·스텔란티스가 참여했고, 우버는 런던·도쿄 로봇택시 배치 조건부로 $3억을 추가 약정했다. 이후 퀄컴·AMD·ARM에서 $6,000만을 추가 조달해 라운드를 마무리했다.\n\n기술 접근법은 테슬라 FSD와 놀라울 만큼 유사하다 — 카메라·센서 데이터로만 학습하는 엔드투엔드 신경망, HD 지도 불필요. 핵심 차이는 사업 모델이다. 테슬라가 자사 차량에 FSD를 탑재해 직접 소비자에게 판매하는 수직 통합 방식인 반면, 웨이브는 자동차를 만들지 않고 OEM(메르세데스-벤츠·닛산·스텔란티스 등)에 자율주행 소프트웨어를 공급하는 B2B 모델을 채택한다.\n\nWSJ은 웨이브가 노리는 시장이 '택시 시장($2,000억)'보다 '완성차 시장($2조)'이라고 강조했다 — 로보택시 운영이 아닌 기술 공급사 포지셔닝이다. 2026년 중 런던·도쿄에서 우버 협력 로봇택시 서비스를 시작할 예정이며, 초기에는 안전 운전자가 탑승한다.\n\n테슬라 주주 관점에서 웨이브의 부상은 엔드투엔드 AI 자율주행 접근법이 대규모 자본의 검증을 받았다는 신호다. 동시에 OEM에 소프트웨어를 공급하는 경쟁자가 커지면 테슬라의 FSD 라이선스 기회가 좁아질 수 있다. 다만 현재 웨이브 규모($86억)는 테슬라의 FSD 누적 학습 데이터(수백만 대·수십억 마일)와 격차가 상당하다.",
+      "summary_en": "Wayve is a London-based autonomous-driving AI startup that has raised $1.5 billion in total as of June 2026, reaching an $8.6 billion valuation. Its Series D round ($1.2B) included Microsoft, Nvidia, Uber, Mercedes-Benz, Nissan, and Stellantis; Uber committed an additional $300 million contingent on successful robotaxi deployment. A further $60 million from Qualcomm, AMD, and ARM closed the round.\n\nWayve's technical approach mirrors Tesla FSD closely: both use an end-to-end neural network trained on camera and sensor data, requiring no high-definition maps. The critical difference is the business model. Tesla vertically integrates — it manufactures the vehicle, trains the software, and sells FSD as a subscription to consumers. Wayve does not build cars; it licenses its 'embodied AI' stack to OEMs (Mercedes-Benz, Nissan, Stellantis — all investors) and other technology companies.\n\nThe WSJ story frames Wayve's addressable market as the $2 trillion global car-sales market — ten times the $200 billion taxi market that robotaxi operators like Waymo target — because Wayve's strategy is to become the autonomous driving software layer for legacy automakers, not to operate a ride-hailing service. Robotaxi rides via Uber are planned for London and Tokyo during 2026, with safety drivers initially.\n\nFor Tesla shareholders, Wayve's rise signals that the mapless, end-to-end AI approach to autonomy is gaining validation from major capital allocators — reinforcing the technical thesis behind Tesla FSD. At the same time, a well-funded competitor with deep OEM partnerships narrows Tesla's window to capture third-party automaker licensing before the market matures. Tesla's data-scale advantage remains its most durable moat: Wayve is training on a fraction of the cumulative real-world miles Tesla's fleet accumulates each week.",
+      "href": "https://www.wsj.com/business/autos/wayve-self-driving-technology-2e917ebd",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "WSJ",
+        "TechCrunch",
+        "Time"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
     },
     {
       "category": "stock",
@@ -2074,52 +2126,7 @@
       "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d",
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-19T20:14:19.000Z",
-      "title": "Teslarati \"테슬라 <em>사이버캡 출시 임박</em>\" 역대 최강 신호 — 기가 텍사스 '사이버캡의 날'",
-      "hotShort": "기가 텍사스 '사이버캡의 날' — <em>출시 임박</em> 최강 신호",
-      "body": "미국 국경일인 6월 19일, 기가 텍사스는 '사이버캡의 날'로 불렸다 — 드론 영상 취재자 조 태그마이어의 표현이다. Teslarati는 이를 '역대 가장 강한 사이버캡 출시 임박 신호'로 평가했다. 주주에게는 사이버캡 출시 일정이 본격적으로 다가오고 있다는 첫 강력한 현장 신호다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-cybercab-juneteenth-imminent-launch-2026-06-19",
-      "summary": "기가 텍사스에는 최근 사이버캡 전용 테스트 트랙 공사가 마무리 단계에 접어들었고, 출고 주차장에도 사이버캡 로고 차량이 잇따라 목격됐다. 6월 19일(준틴스, 미국 국경일)에는 현장 드론 취재자 조 태그마이어가 이날을 '사이버캡의 날'이라고 표현하며 4개 주요 건설 구역을 집중 촬영한 영상을 공개했다.\n\nTeslarati는 이 영상과 현장 목격을 분석해 \"테슬라가 지금까지 내보낸 사이버캡 출시 임박 신호 중 가장 강력한 것\"이라고 평가했다. 실제 공장 가동 상황과 테스트 일정이 맞물리면서, 투자자들은 공식 출시 발표가 멀지 않았다고 해석하고 있다.\n\n사이버캡은 테슬라가 2024년 공개한 2인승 완전 자율주행 로보택시다. EPA 인증을 통해 219HP·48kWh 배터리 용량이 공식 확인됐으며, 기가 텍사스에 모델 Y와 병행하는 전용 생산라인이 설치돼 있다.\n\n출시 일정에 대한 공식 발표는 아직 없으나, 테스트 트랙 완공과 현장 드론 영상이 잇따르면서 시장의 기대감이 고조되고 있다. 사이버캡 출시는 테슬라 로보택시 수익화의 첫 현실화 단계로, 주가에 직접적인 촉매가 될 수 있다.",
-      "title_en": "Teslarati: Giga Texas '<em>Cybercab day</em>' is the strongest Cybercab launch signal yet",
-      "hotShort_en": "<em>Cybercab day</em> at Giga Texas — strongest launch signal yet",
-      "body_en": "On Juneteenth (June 19), Giga Texas was dubbed 'Cybercab day' by drone journalist Joe Tegtmeyer — while a dedicated Cybercab test track nears completion. Teslarati calls this the strongest signal yet that a Cybercab launch is imminent, a meaningful milestone for shareholders awaiting Tesla's robotaxi revenue debut.",
-      "summary_en": "Tesla's Giga Texas factory has been showing accelerating Cybercab activity in recent weeks. A dedicated Cybercab test track is reportedly nearing completion, and vehicles bearing Cybercab branding have been spotted in the delivery lot with increasing frequency.\n\nOn June 19 — Juneteenth, a U.S. national holiday — drone journalist Joe Tegtmeyer published footage from Giga Texas, dubbing the day \"Cybercab day.\" He focused on four major active construction zones, capturing what appeared to be heightened Cybercab-oriented factory operations. Teslarati analyzed the footage and declared it \"the biggest signal yet\" that a Cybercab launch is imminent.\n\nThe Cybercab is Tesla's two-seat, fully autonomous robotaxi unveiled in 2024. EPA certification documents have confirmed its specs: 219 HP and a 48 kWh battery pack. A dedicated production line is being set up at Giga Texas alongside the existing Model Y operation.\n\nNo official launch date has been announced by Tesla. But with the test track approaching completion and high-frequency factory sightings, investor attention is sharpening around a near-term debut. A Cybercab launch would represent Tesla's first tangible step toward monetizing its autonomous driving platform at scale — a potential major catalyst for the stock.",
-      "href": "https://www.teslarati.com/tesla-gives-biggest-signal-yet-that-cybercab-launch-imminent/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Joe Tegtmeyer (X)"
-      ],
-      "sentiment": "bull",
-      "hot": 7
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
-      "pubDate": "2026-06-19T19:06:25.000Z",
-      "title": "테슬라, 기업용 월 커넥터 <em>142기</em> 돌파 — 상업 충전 인프라 확대",
-      "hotShort": "테슬라 기업 월 커넥터 <em>142기</em> 돌파 · 31개소 신설",
-      "body": "테슬라 공식 충전 채널이 '월 커넥터 포 비즈니스' 신규 31개소 개설을 발표, 공공·민간 합산 누계가 총 142기에 달했다. 상업용 충전 인프라 확장은 법인 플릿 시장 공략과 기업 고객 락인(Lock-in) 효과 강화의 핵심 지표다.",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "product-wall-connector-business-142-2026-06-19",
-      "summary": "테슬라 충전 사업의 확장이 슈퍼차저를 넘어 기업 시설 전용 충전기 분야로 이어지고 있다. '월 커넥터 포 비즈니스'는 사무용 건물, 리테일 센터, 주차장 등 상업 시설에 테슬라 레벨2 충전기를 공급하는 기업 대상 프로그램이다.\n\n6월 19일 테슬라 공식 충전 계정이 최근 신규 개설된 31개소를 공개했다. 이로써 공공·민간을 합산한 '월 커넥터 포 비즈니스' 총 설치 대수는 142기를 기록했다.\n\n슈퍼차저와 달리 월 커넥터는 반공개 또는 비공개 운영이 가능해, 특정 임직원이나 고객 전용 충전 환경 구성에 유리하다. 기업 복지 프로그램, ESG 지표 개선, 고객 편의 서비스 등을 목적으로 도입하는 업체가 늘고 있다.\n\n법인 충전 인프라 확충은 대형 기업 고객의 플릿 전환 결정을 앞당기는 핵심 요소다. 기업 시설에 테슬라 충전기가 갖춰지면 경쟁사 전환 비용이 높아져 법인 플릿 수주 기반이 강화된다.",
-      "title_en": "Tesla Wall Connector for Business reaches <em>142 total units</em> across commercial sites",
-      "hotShort_en": "Tesla hits <em>142 Wall Connectors</em> for business sites",
-      "body_en": "Tesla's official charging channel announced 31 new Wall Connector for Business sites, bringing the cumulative total to 142 units across public and private commercial properties. Expanding business charging infrastructure is key to Tesla's fleet market strategy and corporate customer lock-in.",
-      "summary_en": "Tesla's charging network growth extends well beyond its Supercharger highway stations. The Wall Connector for Business program installs Level 2 Tesla chargers at enterprise facilities — office campuses, retail centers, hotels, and parking structures — giving corporate clients a dedicated charging infrastructure for employees and customers.\n\nOn June 19, Tesla's official charging channel announced 31 newly opened Wall Connector for Business sites, pushing the cumulative total to 142 units across public and private commercial properties. The milestone reflects accelerating corporate adoption of Tesla's charging ecosystem.\n\nUnlike public Superchargers, Wall Connectors can be configured for restricted access — serving only designated users such as employees or registered guests. This makes them attractive for HR benefit programs, customer loyalty perks, and ESG reporting metrics.\n\nFor Tesla's growth strategy, seeding enterprise facilities with Wall Connectors raises the switching cost for corporate fleet operators. Once a company's infrastructure is Tesla-spec, expanding the fleet with competing EVs becomes logistically more complex — a meaningful long-term advantage in the B2B segment.",
-      "href": "https://x.com/TeslaCharging/status/2068047769302933760",
-      "sentiment": "bull",
-      "hot": 3
     }
   ],
-  "asOf": "2026-06-28 23:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-29 04:00 KST 자동 갱신 · 최신순"
 }
