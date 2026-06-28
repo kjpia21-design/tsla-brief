@@ -3,7 +3,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-28T09:53:05.000Z",
       "title": "xAI Grok 4.5, 테슬라·스페이스X 사내 <em>비공개 베타</em> 돌입 — Claude Opus급 성능 주장",
       "hotShort": "Grok 4.5, 테슬라 사내 베타 — <em>Opus 능가</em> 주장",
@@ -60,11 +60,33 @@
       "slug": "fsd-cybercab-level4-first-responders-2026-06-27",
       "summary": "사이버캡 퍼스트리스폰더 가이드는 긴급 출동 대원과 구급대가 사이버캡 차량을 식별하고 안전하게 처리하는 방법을 안내하는 테슬라의 공식 문서다. 이 가이드에는 자율주행 시스템 등급이 'SAE Level 4'로 명기됐다. SAE Level 4는 '지정된 운행 구역(ODD) 내에서 모든 동적 주행 임무를 인간 개입 없이 수행할 수 있는 시스템'을 의미하며, 인간 운전자가 항시 대기해야 하는 Level 2(현재 FSD Supervised)와는 본질적으로 다른 등급이다.\n\n공식 문서에 Level 4를 명시한 것은 규제·법률 측면에서 중요한 함의를 갖는다. 테슬라가 스스로 'SAE Level 4'라고 밝힌 문서가 존재하면, 규제 기관·보험사·법원이 사고 발생 시 시스템 책임 기준을 정할 때 이 가이드가 핵심 증거로 활용될 수 있다. 로보택시 운행 허가 신청(네바다·캘리포니아 등) 과정에서도 이 가이드가 형식 승인 지원 자료로 사용된다.\n\n가이드에 기재된 기술 사양에 따르면 사이버캡의 중량은 3,113파운드(약 1,413kg)이며 핸들과 페달이 없다. 자율주행 스택은 경광등·사이렌을 켠 긴급 차량 접근 시 자동으로 길을 비키고, 경찰차가 점등 상태로 뒤따르면 자동으로 갓길에 정차하도록 훈련됐다. 차체 측면·트렁크의 'Cybercab' 워드마크는 긴급 출동 대원이 현장에서 빠르게 식별하기 위한 표식이다.\n\n생산·인증 측면에서 사이버캡은 2026년 2월 기가 텍사스에서 제조를 시작했으며, EPA는 5월 26일 2026 모델연도 배출 적합 인증서를 발급했다. 대량 생산 목표는 2026년 말이다. 퍼스트리스폰더 가이드 공개는 테슬라가 실제 도로 배치 전에 거치는 표준 행정 절차로, 로보택시 확장을 위한 준비 단계가 체계적으로 진행되고 있음을 보여준다.",
       "summary_en": "The Cybercab Emergency Response Guide is an official Tesla document instructing firefighters, paramedics, and police on how to identify and safely handle a Cybercab at an incident scene. Within this guide, Tesla formally designates the vehicle's autonomous system as SAE Level 4 — the standard covering systems that can perform all dynamic driving tasks within a defined operational design domain without any human driver on standby. This is a categorically different designation from SAE Level 2 (Tesla's current FSD Supervised), which requires a human driver to remain ready to intervene at all times.\n\nPlacing SAE Level 4 in an official safety document carries significant legal and regulatory weight. It gives regulators, insurers, and courts a Tesla-authored baseline for assessing system responsibility in any future incident review. It is also a double-edged commitment: advantageous in permitting negotiations and regulatory approvals, but it also sets a higher standard of accountability if the system fails within its claimed operating domain.\n\nTechnically, the Cybercab weighs 3,113 pounds and is designed from the ground up without a steering wheel or pedals. The autonomous stack is trained to yield automatically to emergency vehicles with active lights and sirens, and to pull over when a police vehicle with lights approaches from behind. A 'Cybercab' wordmark on the sides and trunk provides a visual identifier for first responders on scene.\n\nOn the production and certification track: Gigafactory Texas began manufacturing Cybercabs in February 2026, and the EPA issued a Certificate of Conformity for the 2026 model year on May 26. Volume production is targeted for the end of 2026. Publishing the first-responder guide is a standard pre-deployment step that signals Tesla is working through the administrative prerequisites for broader Robotaxi operations — in parallel with state-level permit applications including Nevada, where Tesla has applied for up to 5,000 autonomous vehicle slots in Las Vegas.",
-      "href": "https://www.notateslaapp.com/news/4287/inside-teslas-robotaxi-playbook-police-collisions-and-weather",
+      "href": "https://www.notateslaapp.com/news/news/4287/inside-teslas-robotaxi-playbook-police-collisions-and-weather",
       "confirmedBy": 3,
       "confirmingSources": ["Not a Tesla App", "Drive Tesla Canada", "Basenor"],
       "sentiment": "bull",
       "hot": 8
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1d ago",
+      "pubDate": "2026-06-27T08:55:43.000Z",
+      "title": "NHTSA, 376K대 테슬라 <em>파워스티어링 조사 종결</em> — 추가 조치 없이",
+      "hotShort": "NHTSA, 테슬라 파워스티어링 <em>조사 종결</em>",
+      "body": "미 도로교통안전국(NHTSA)이 약 376,241대(2023년형 모델3·모델Y)를 대상으로 3년 가까이 끌어온 '파워스티어링 상실' 조사를 추가 조치 없이 종결했다 — 테슬라가 2025년 초 OTA 업데이트로 이미 리콜을 시행한 점을 반영한 결정으로, 로보택시·FSD 확장을 앞두고 장기간 남아 있던 안전 규제 리스크 하나가 해소된 셈이다.",
+      "title_en": "NHTSA <em>closes power-steering probe</em> into 376K Teslas with no further action",
+      "hotShort_en": "NHTSA <em>closes</em> Tesla steering probe",
+      "body_en": "The U.S. National Highway Traffic Safety Administration closed its nearly three-year 'loss of power steering' investigation into about 376,241 Tesla Model 3 and Model Y vehicles (2023 model year) without further action, citing Tesla's earlier recall. Tesla had already addressed the issue via an over-the-air update in early 2025 — so the closure clears a long-running safety-regulatory overhang as the company pushes toward Robotaxi and FSD expansion.",
+      "sourceName": "Reuters",
+      "sourceLabel": "sec",
+      "slug": "product-nhtsa-power-steering-probe-closed-2026-06-27",
+      "summary": "미 도로교통안전국(NHTSA)이 테슬라 파워스티어링 상실 의혹에 대한 장기 조사를 마무리했다. NHTSA 결함조사국(ODI)은 2023년 7월 일부 차주가 '핸들을 돌릴 수 없거나 조향에 더 큰 힘이 필요하다'고 신고한 데 따라 모델3·모델Y에 대한 예비평가를 개시했고, 2024년 초 이를 더 깊이 들여다보는 '엔지니어링 분석'으로 격상한 바 있다.\n\n조사 대상은 2023년형 모델3·모델Y 약 376,241대였다. 테슬라는 이미 2025년 초 미국에서 약 376,000대를 리콜했는데, 인쇄회로기판의 모터 구동부에서 과전압·과부하가 발생해 저속 주행 시 조향이 무거워질 수 있다는 결함을 OTA(무선) 소프트웨어 업데이트로 바로잡는 조치였다.\n\nNHTSA는 테슬라의 리콜을 감안해 엔지니어링 분석을 종결한다고 밝혔다. 별도의 추가 리콜이나 강제 조치는 요구되지 않았다.\n\n주주 입장에서 이번 종결은 작지만 분명한 호재다. 자율주행·로보택시 사업을 핵심 성장축으로 내세운 테슬라에게 미결 안전 조사는 잠재적 규제·평판 리스크였는데, 추가 조치 없이 매듭지어지며 그 부담이 하나 줄었다. 다만 이는 이미 리콜로 처리된 사안의 행정적 마무리로, 새로운 결함이 확인된 것은 아니다.",
+      "summary_en": "The U.S. National Highway Traffic Safety Administration has wrapped up its long-running inquiry into alleged loss of power steering in Teslas. NHTSA's Office of Defects Investigation opened a preliminary evaluation in July 2023 after some owners reported being unable to turn the wheel or needing greater steering effort, then escalated to an Engineering Analysis in early 2024 for a deeper review.\n\nThe probe covered roughly 376,241 Model 3 and Model Y vehicles from the 2023 model year. Tesla had already recalled about 376,000 vehicles in the U.S. in early 2025, fixing via an over-the-air software update a defect in which overvoltage and overstress on the motor-drive section of a printed circuit board could make steering heavier at low speeds.\n\nNHTSA said it was closing the Engineering Analysis in view of Tesla's recall, with no additional recall or enforcement action required.\n\nFor shareholders, the closure is a small but clean positive. Any open federal safety investigation carries latent regulatory and reputational risk — especially for a company whose growth narrative centers on autonomous driving and Robotaxi expansion. Resolving this case without a further enforcement order removes one more overhang, even if the underlying issue had already been patched months ago.",
+      "href": "https://www.reuters.com/business/autos-transportation/us-safety-agency-ends-power-steering-probe-into-376000-tesla-evs-2026-06-27/",
+      "confirmedBy": 2,
+      "confirmingSources": ["Reuters", "NHTSA"],
+      "sentiment": "bull",
+      "hot": 5
     },
     {
       "category": "musk",
@@ -92,28 +114,6 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "2d ago",
-      "pubDate": "2026-06-26T13:58:00.000Z",
-      "title": "테슬라, FSD 보행자 사망 사고 소송 <em>합의로 종결</em>",
-      "hotShort": "테슬라, FSD 보행자 사망 소송 <em>합의 종결</em>",
-      "body": "테슬라가 '풀 셀프 드라이빙(FSD)' 작동 중 발생한 보행자 사망 사고를 둘러싼 소송을 합의로 마무리했다고 Electrek·Bloomberg가 보도했다 — 공개 재판으로 FSD 책임 공방이 확대되는 것을 피한 셈으로, 로보택시 상용화를 앞두고 자율주행 책임 리스크를 관리하려는 행보로 풀이된다.",
-      "title_en": "Tesla <em>settles lawsuit</em> over fatal Full Self-Driving pedestrian crash",
-      "hotShort_en": "Tesla <em>settles</em> fatal FSD crash suit",
-      "body_en": "Tesla has settled a lawsuit over a pedestrian death involving its Full Self-Driving system, Electrek and Bloomberg report. By resolving the case rather than fighting it in open court, Tesla avoids a public trial that could have spotlighted FSD liability — a notable move as the company pushes toward broader Robotaxi deployment and faces rising scrutiny of its autonomy claims.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-fsd-pedestrian-lawsuit-settlement-2026-06-26",
-      "summary": "테슬라가 자사 '풀 셀프 드라이빙(FSD)' 기능이 관여된 보행자 사망 사고와 관련한 민사 소송을 법정 다툼 대신 합의로 끝냈다. 합의 사실은 Electrek과 Bloomberg가 같은 날 함께 전했으며, 구체적인 합의 금액이나 조건은 공개되지 않았다.\n\nFSD 관련 사망 사고 소송은 테슬라의 자율주행 기술이 마케팅 명칭만큼 안전한지, 운전자 책임과 시스템 책임의 경계가 어디인지를 법정에서 따지는 사안이라 업계와 규제 당국이 주목해 왔다. 공개 재판으로 가면 FSD의 작동 한계와 사고 정황이 증거로 드러나며 브랜드와 기술 신뢰에 부담이 될 수 있는데, 합의는 그 리스크를 차단하는 선택이다.\n\n시점도 중요하다. 테슬라는 로보택시 상용 서비스 확대를 핵심 성장 동력으로 내세우고 있어, 자율주행 책임 소송이 누적되거나 불리한 판례가 쌓이면 사업 전개에 걸림돌이 될 수 있다. 이번 합의는 개별 사건을 신속히 정리해 그런 부담을 줄이려는 의도로 해석된다.\n\n다만 합의가 곧 책임 인정이나 면제를 뜻하지는 않으며, FSD를 둘러싼 다른 소송과 NTSB·규제 당국의 안전 조사는 여전히 진행 중이라는 점에서 자율주행 책임 이슈 자체가 해소된 것은 아니다.",
-      "summary_en": "Tesla has resolved a civil lawsuit tied to a pedestrian fatality involving its Full Self-Driving feature, opting for a settlement rather than a courtroom fight. The settlement was reported the same day by both Electrek and Bloomberg; the dollar amount and terms were not disclosed.\n\nFSD-related death and injury lawsuits draw particular scrutiny because they force a public airing of how far the system can actually drive itself versus what Tesla's marketing implies — and where the line sits between driver responsibility and software liability. By settling, Tesla avoids testimony and discovery that could expose internal communications about the system's limitations.\n\nThe timing matters. Tesla is actively expanding its unsupervised Robotaxi service and positioning FSD as the backbone of a future autonomous-transport business. Adverse judgments or a string of public trials could complicate regulatory approvals and deter potential Robotaxi riders. A quiet settlement keeps this particular case from growing into a reputational or regulatory problem.\n\nThat said, a settlement does not constitute an admission of liability or a legal precedent, and it does not resolve the broader portfolio of FSD litigation or ongoing NTSB and NHTSA reviews of Tesla autopilot-related incidents.",
-      "href": "https://electrek.co/2026/06/26/tesla-settles-lawsuit-over-fatal-pedestrian-crash-involving-full-self-driving/",
-      "confirmedBy": 2,
-      "confirmingSources": ["Electrek", "Bloomberg"],
-      "sentiment": "neutral",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
       "pubDate": "2026-06-26T12:00:00.000Z",
       "title": "유럽 WP.29, UN R171.02 채택 — 테슬라 <em>FSD 유럽 승인 길</em> 열려",
       "hotShort": "UN R171.02 채택 — 테슬라 <em>FSD 유럽 길</em> 열렸다",
@@ -133,5 +133,5 @@
       "hot": 9
     }
   ],
-  "asOf": "2026-06-29 02:09 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-29 03:15 KST 자동 갱신 · 최신순"
 }
