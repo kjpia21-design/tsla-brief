@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-06-27 23:09 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-28 04:21 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "8h ago",
+      "pubDate": "2026-06-27T20:27:30.000Z",
+      "title": "Tanzania Suffers Nationwide Blackout After Power Grid Failure",
+      "body": "Tanzania Suffers Nationwide Blackout After Power Grid Failure Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-27/tanzania-suffers-nationwide-blackout-after-power-grid-failure"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-27T18:01:37.000Z",
       "title": "Tesla Settles Lawsuit Over Fatal Pedestrian Crash Involving Full Self-Driving",
       "body": "Tesla Settles Lawsuit Over Fatal Pedestrian Crash Involving Full Self-Driving Engadget",
@@ -17,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "12h ago",
       "pubDate": "2026-06-27T16:00:00.000Z",
       "title": "CEOs Are Pulling In Record Pay. Here Are Some Big Numbers.",
       "body": "CEOs Are Pulling In Record Pay. Here Are Some Big Numbers. WSJ",
@@ -28,22 +41,9 @@
       "href": "https://www.wsj.com/business/ceo-executive-pay-packages-030db27e"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
-      "pubDate": "2026-06-27T13:47:39.000Z",
-      "title": "Tesla Q2 delivery consensus confirms this long-standing theory",
-      "body": "Tesla released what analysts believe the company will report in terms of deliveries and energy deployments for Q2, but the figures seem to confirm a long-standing theory on the company’s vehicle division. For years, Tesl…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-q2-delivery-consensus-confirms-this-long-standing-theory/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "14h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-27T09:30:00.000Z",
       "title": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision",
       "body": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision WSJ",
@@ -56,7 +56,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-27T08:55:43.000Z",
       "title": "US safety agency ends power steering probe into 376,000 Tesla EVs",
       "body": "US safety agency ends power steering probe into 376,000 Tesla EVs Reuters",
@@ -69,8 +69,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "19h ago",
-      "pubDate": "2026-06-27T04:01:34.000Z",
+      "time": "1d ago",
+      "pubDate": "2026-06-27T04:00:34.000Z",
       "title": "Why your finances are heading for a summer of uncertainty",
       "body": "Why your finances are heading for a summer of uncertainty Financial Times",
       "sourceName": "Financial Times",
@@ -82,7 +82,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "22h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-27T01:00:00.000Z",
       "title": "Is the Rivian R2 America’s Next Great SUV?",
       "body": "Is the Rivian R2 America’s Next Great SUV? WSJ",
@@ -95,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-27T00:17:09.000Z",
       "title": "All Trading Insights",
       "body": "All Trading Insights Bloomberg.com",
@@ -108,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-27T00:09:17.000Z",
       "title": "SpaceX stock slide sends chill through tech rally, investor says",
       "body": "SpaceX stock slide sends chill through tech rally, investor says Reuters",
@@ -119,22 +119,9 @@
       "href": "https://www.reuters.com/video/watch/idRW283426062026RP1/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-06-26T23:59:00.000Z",
-      "title": "Tesla Inc. Advanced Charts | TSLA",
-      "body": "Tesla Inc. Advanced Charts | TSLA Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/market-data/stocks/tsla/interactive-chart?amp%25252525253Bmod"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-26T23:55:00.000Z",
       "title": "Stocks Slide to End a Tough Week | June 26 Review & Preview",
       "body": "Stocks Slide to End a Tough Week | June 26 Review & Preview Barron's",
@@ -197,22 +184,22 @@
       "href": "https://www.bloomberg.com/markets/currencies/?__hstc"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
-      "pubDate": "2026-06-26T20:43:09.000Z",
-      "title": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook",
-      "body": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook Reuters",
-      "sourceName": "Reuters",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-06-26T12:13:00.000Z",
+      "title": "Apple, Microsoft Face Bigger Problems Than Micron’s Memory Prices",
+      "body": "Apple, Microsoft Face Bigger Problems Than Micron’s Memory Prices Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/business/outgoing-imf-chief-economist-sees-risks-shifting-trade-ties-continued-2026-06-26/"
+      "href": "https://www.barrons.com/articles/apple-microsoft-prices-things-to-know-today-9dbf9d48"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-06-26T12:06:35.000Z",
       "title": "Goldman Sachs says buy this gambling stock, sees it adding to its sharp 2026 gains",
       "body": "Goldman Sachs says buy this gambling stock, sees it adding to its sharp 2026 gains CNBC",
@@ -225,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-06-26T12:00:15.000Z",
       "title": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving",
       "body": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving Bloomberg.com",
@@ -234,6 +221,32 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-06-26/tesla-settles-lawsuit-over-deadly-crash-involving-full-self-driving"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2d ago",
+      "pubDate": "2026-06-26T11:03:43.000Z",
+      "title": "Aerospace Industry",
+      "body": "Aerospace Industry WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/topics/industry/aerospace-industry"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2d ago",
+      "pubDate": "2026-06-26T10:49:51.000Z",
+      "title": "Nike's turnaround 'not enough' to remain bullish on the stock, KeyBanc says",
+      "body": "Nike's turnaround 'not enough' to remain bullish on the stock, KeyBanc says CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/26/nikes-turnaround-not-enough-to-remain-bullish-on-stock-per-keybanc.html"
     },
     {
       "category": "fsd",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/6046abc9-2ae8-47ec-a94c-5f98cb772cff?syn-25a6b1a6"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-06-26T00:58:00.000Z",
-      "title": "New York City Board Approves Mamdani’s Rent Freeze",
-      "body": "New York City Board Approves Mamdani’s Rent Freeze WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/real-estate/new-york-city-board-approves-mamdanis-rent-freeze-d6d42df4"
     }
   ]
 }
