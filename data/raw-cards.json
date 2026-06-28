@@ -1,23 +1,23 @@
 {
-  "asOf": "2026-06-28 04:21 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-28 09:19 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
-      "pubDate": "2026-06-27T20:27:30.000Z",
-      "title": "Tanzania Suffers Nationwide Blackout After Power Grid Failure",
-      "body": "Tanzania Suffers Nationwide Blackout After Power Grid Failure Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-28T07:39:25.000Z",
+      "title": "Tesla’s Cybercab goes front-wheel in drive for the ultimate robotaxi efficiency",
+      "body": "Tesla’s Cybercab goes front-wheel in drive for the ultimate robotaxi efficiency techAU",
+      "sourceName": "techAU",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-27/tanzania-suffers-nationwide-blackout-after-power-grid-failure"
+      "href": "https://techau.com.au/teslas-cybercab-goes-front-wheel-in-drive-for-the-ultimate-robotaxi-efficiency/"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "15h ago",
       "pubDate": "2026-06-27T18:01:37.000Z",
       "title": "Tesla Settles Lawsuit Over Fatal Pedestrian Crash Involving Full Self-Driving",
       "body": "Tesla Settles Lawsuit Over Fatal Pedestrian Crash Involving Full Self-Driving Engadget",
@@ -30,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-27T16:00:00.000Z",
       "title": "CEOs Are Pulling In Record Pay. Here Are Some Big Numbers.",
       "body": "CEOs Are Pulling In Record Pay. Here Are Some Big Numbers. WSJ",
@@ -43,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "19h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-27T09:30:00.000Z",
       "title": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision",
       "body": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision WSJ",
@@ -56,7 +56,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-27T08:55:43.000Z",
       "title": "US safety agency ends power steering probe into 376,000 Tesla EVs",
       "body": "US safety agency ends power steering probe into 376,000 Tesla EVs Reuters",
@@ -67,10 +67,23 @@
       "href": "https://www.reuters.com/business/autos-transportation/us-safety-agency-ends-power-steering-probe-into-376000-tesla-evs-2026-06-27/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1d ago",
+      "pubDate": "2026-06-27T04:01:34.000Z",
+      "title": "Why your finances are heading for a summer of uncertainty",
+      "body": "Why your finances are heading for a summer of uncertainty Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/57e5e08c-504d-4a0c-8bfa-b38d5ccb9eb0?syn-25a6b1a6"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1d ago",
-      "pubDate": "2026-06-27T04:00:34.000Z",
+      "pubDate": "2026-06-27T04:01:34.000Z",
       "title": "Why your finances are heading for a summer of uncertainty",
       "body": "Why your finances are heading for a summer of uncertainty Financial Times",
       "sourceName": "Financial Times",
@@ -98,8 +111,8 @@
       "time": "1d ago",
       "pubDate": "2026-06-27T00:17:09.000Z",
       "title": "All Trading Insights",
-      "body": "All Trading Insights Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "body": "All Trading Insights Bloomberg",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -148,40 +161,40 @@
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1d ago",
-      "pubDate": "2026-06-26T22:57:36.000Z",
+      "pubDate": "2026-06-26T22:58:43.000Z",
       "title": "Stocks",
-      "body": "Stocks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "body": "Stocks Bloomberg",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/profile/person/25519531"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
-      "pubDate": "2026-06-26T21:19:57.000Z",
-      "title": "OpenAI Limits Release of New Model Under Pressure From US",
-      "body": "OpenAI Limits Release of New Model Under Pressure From US Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-26/openai-limits-release-of-new-model-under-pressure-from-us"
+      "href": "https://www.bloomberg.com/profile/person/25523846"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-06-26T21:04:47.000Z",
       "title": "Currencies",
-      "body": "Currencies Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "body": "Currencies Bloomberg",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/markets/currencies/?__hstc"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2d ago",
+      "pubDate": "2026-06-26T20:43:09.000Z",
+      "title": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook",
+      "body": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/outgoing-imf-chief-economist-sees-risks-shifting-trade-ties-continued-2026-06-26/"
     },
     {
       "category": "fsd",
@@ -215,8 +228,8 @@
       "time": "2d ago",
       "pubDate": "2026-06-26T12:00:15.000Z",
       "title": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving",
-      "body": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "body": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving Bloomberg",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/26/nikes-turnaround-not-enough-to-remain-bullish-on-stock-per-keybanc.html"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-06-26T09:03:36.000Z",
-      "title": "Britain backs electricity storage projects as heatwave strains grid",
-      "body": "Britain backs electricity storage projects as heatwave strains grid Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/6046abc9-2ae8-47ec-a94c-5f98cb772cff?syn-25a6b1a6"
     }
   ]
 }
