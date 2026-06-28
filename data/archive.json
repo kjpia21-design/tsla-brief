@@ -28,6 +28,59 @@
       "hot": 8
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1d ago",
+      "pubDate": "2026-06-27T10:00:00.000Z",
+      "title": "테슬라, 사이버캡 비상 대응 가이드에 <em>SAE Level 4</em> 공식 기재 — 운전자 없는 완전 자율 선언",
+      "hotShort": "테슬라, 사이버캡 <em>SAE Level 4</em> 공식 문서화",
+      "body": "테슬라가 공개한 사이버캡 퍼스트리스폰더 가이드에 자율주행 시스템 등급이 'SAE Level 4'로 공식 명시됐다 — 운전자 개입 없이 정해진 운행 구역 내 완전 자율 주행이 가능하다는 법적 선언으로, 보험·규제 책임·로보택시 인허가 논의에서 핵심 근거가 될 이정표다.",
+      "title_en": "Tesla's Cybercab Emergency Guide officially labels it <em>SAE Level 4</em> autonomous",
+      "hotShort_en": "Cybercab: officially <em>SAE Level 4</em> autonomous",
+      "body_en": "Tesla's published Cybercab Emergency Response Guide formally classifies the vehicle's autonomous system as SAE Level 4 — capable of performing the entire driving task within its operating domain with no human input required. The official label in a law-enforcement-facing document establishes a key regulatory benchmark for insurance liability, incident investigations, and robotaxi permit discussions going forward.",
+      "summary": "테슬라가 사이버캡(Cybercab) 퍼스트리스폰더 가이드를 공식 공개하며 자율주행 등급을 'SAE Level 4'로 명시했다. SAE Level 4는 정해진 운행 구역 내에서 운전자 개입 없이 차량이 모든 주행 임무를 독자 수행할 수 있음을 뜻하며, 현재 테슬라가 판매 중인 FSD Supervised(SAE Level 2)와 법적·기술적으로 명확히 구분된다.\n\n이번 문서에서 주목할 점은 테슬라가 직접 규제 기관 및 비상 대응 당국을 대상으로 한 공식 문서에 Level 4를 기재했다는 사실이다. 비상 대응 가이드는 사고 발생 시 소방·경찰이 참고하는 법적 효력을 지닌 기술 문서로, 단순 홍보나 마케팅 자료와 다르다. 이는 보험 책임 범위, 규제 당국의 인허가 조건, 향후 사고 발생 시 법적 귀책 기준에서 핵심 증거가 될 수 있다.\n\n테슬라는 2026년 6월 기준 오스틴(텍사스)에서 사이버캡 로보택시 서비스를 운영 중이며, 미국 여러 주에서 FSD 및 로보택시 확장 허가를 추진하고 있다. SAE Level 4 공식 문서화는 이 인허가 과정을 뒷받침하는 핵심 근거로 작용할 전망이다.",
+      "summary_en": "Tesla has officially released a Cybercab First Responder Guide that explicitly classifies the vehicle's autonomous driving system as SAE Level 4. SAE Level 4 means the vehicle can perform the complete driving task within its defined Operational Design Domain (ODD) with no human driver intervention required — a legally and technically distinct category from the FSD Supervised (SAE Level 2) currently sold on Tesla consumer vehicles.\n\nThe significance here is not the technology claim itself, but where Tesla made it: in an official, law-enforcement-facing technical document. First Responder Guides carry legal weight — they are used by firefighters and police during incidents. Unlike marketing materials, this document can be cited in insurance liability cases, regulatory permit hearings, and incident investigations as Tesla's own formal characterization of the vehicle's autonomy level.\n\nTesla has been running Cybercab robotaxi operations in Austin, Texas since mid-2026 and is pursuing permits to expand across multiple U.S. states. The formal SAE Level 4 designation in an official document creates a critical evidentiary foundation for that permitting process and for the regulatory conversations that will determine how quickly the robotaxi fleet can scale.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-cybercab-level4-first-responders-2026-06-27",
+      "href": "https://www.notateslaapp.com/news/4287/inside-teslas-robotaxi-playbook-police-collisions-and-weather",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Drive Tesla Canada",
+        "Basenor"
+      ],
+      "sentiment": "bull",
+      "hot": 8
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
+      "pubDate": "2026-06-27T09:30:00.000Z",
+      "title": "소프트뱅크 손 마사요시, 머스크 <em>궤도 데이터센터</em> 구상 정면 반박 — \"AI 승패, 지금 수년이 결정\"",
+      "hotShort": "소프트뱅크 손, 머스크 <em>궤도 데이터센터</em> 구상 반박",
+      "body": "소프트뱅크 창업주 손 마사요시가 일론 머스크의 '우주 궤도 데이터센터' 구상에 대해 '전기요금은 데이터센터 비용의 극히 일부에 불과하다'며 실효성을 정면 부정했다 — AI 인프라 패권 전략을 둘러싼 두 거물의 공개 충돌은 데이터센터·에너지 효율 투자 경쟁 구도에서 테슬라의 에너지 사업(메가팩) 포지셔닝과도 맞물린다.",
+      "title_en": "SoftBank's Son dismisses Musk's <em>orbital data center</em> vision — 'AI race won on Earth'",
+      "hotShort_en": "Son dismisses Musk's <em>orbital AI</em> plan",
+      "body_en": "SoftBank founder Masayoshi Son publicly dismissed Elon Musk's orbital data center concept, arguing that electricity is only a small fraction of total data center costs — not a big enough factor to justify the complexity and expense of space-based AI infrastructure. The public clash between two of tech's biggest AI spenders highlights the fracturing debate over how AI infrastructure capital should be deployed, a backdrop relevant to Tesla's energy business (Megapack) positioning.",
+      "summary": "일론 머스크는 최근 장거리 에너지 수송 대신 우주 궤도에 데이터센터를 구축해 태양 에너지를 직접 활용하자는 구상을 공개했다. 이에 소프트뱅크 창업주 손 마사요시가 직접 반박 발언을 내놓았다. 손은 '전기 요금은 데이터센터 총비용에서 매우 작은 부분에 불과하다'며 궤도 데이터센터가 에너지 비용 절감에서 얻는 이익이 우주 인프라 구축·운영에 드는 막대한 비용을 정당화하기 어렵다고 주장했다.\n\n그는 또 'AI 전쟁의 승패는 지금부터 수년 안에 결정된다'며 지금 당장 지상 인프라에 집중 투자하는 것이 맞다는 입장을 밝혔다. 소프트뱅크는 오픈AI·아랍에미리트·일본 인프라 등 지상 AI 인프라에 수백억 달러를 베팅 중이다.\n\n테슬라 관점에서 이 논쟁은 테슬라의 에너지 사업(메가팩·파워월)과 연결된다. 데이터센터 에너지 수요가 지상에서 계속 급증한다면, 대규모 에너지 저장 솔루션 공급업체로서 테슬라의 포지셔닝이 강화된다. 손의 주장대로 데이터센터가 지상에 집중 투자된다면 메가팩 수요도 함께 커질 수 있다.",
+      "summary_en": "Elon Musk recently proposed constructing data centers in Earth orbit to tap solar energy directly, bypassing the need to transport power over long distances. SoftBank founder Masayoshi Son hit back publicly: electricity costs are 'a very small fraction' of what it takes to run a data center, so the energy savings from orbital placement cannot justify the enormous cost and complexity of space infrastructure.\n\nSon went further, saying the 'AI war will be decided in the next few years' and making clear that SoftBank is focused on winning that war with ground-based infrastructure investments — including multi-billion-dollar commitments to OpenAI, the UAE, and Japanese data center buildouts.\n\nFor Tesla shareholders, this debate connects to Tesla's energy business. If the data center build-out continues on Earth — as Son argues it should — the demand for large-scale battery storage solutions like Megapack grows proportionally. Tesla is already one of the few companies that can supply grid-scale storage at the speed the AI infrastructure boom demands; Son's vision, if it prevails over Musk's, is arguably more bullish for Tesla Energy than Musk's own orbital alternative.",
+      "sourceName": "TechCrunch",
+      "sourceLabel": "press",
+      "slug": "musk-son-orbital-datacenter-rebuttal-2026-06-27",
+      "href": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Bloomberg",
+        "Japan Times",
+        "Fortune",
+        "TechCrunch"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "yesterday",
@@ -2041,5 +2094,5 @@
       "hot": 3
     }
   ],
-  "asOf": "2026-06-28 23:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-28 22:30 KST 자동 갱신 · 최신순"
 }

@@ -28,34 +28,62 @@
       "hot": 8
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "yesterday",
-      "pubDate": "2026-06-27T08:55:43.000Z",
-      "title": "NHTSA, 376K대 테슬라 <em>파워스티어링 조사 종결</em> — 추가 조치 없이",
-      "hotShort": "NHTSA, 테슬라 파워스티어링 <em>조사 종결</em>",
-      "body": "미 도로교통안전국(NHTSA)이 약 376,241대(2023년형 모델3·모델Y)를 대상으로 3년 가까이 끌어온 '파워스티어링 상실' 조사를 추가 조치 없이 종결했다 — 테슬라가 2025년 초 OTA 업데이트로 이미 리콜을 시행한 점을 반영한 결정으로, 로보택시·FSD 확장을 앞두고 장기간 남아 있던 안전 규제 리스크 하나가 해소된 셈이다.",
-      "title_en": "NHTSA <em>closes power-steering probe</em> into 376K Teslas with no further action",
-      "hotShort_en": "NHTSA <em>closes</em> Tesla steering probe",
-      "body_en": "The U.S. National Highway Traffic Safety Administration closed its nearly three-year 'loss of power steering' investigation into about 376,241 Tesla Model 3 and Model Y vehicles (2023 model year) without further action, citing Tesla's earlier recall. Tesla had already addressed the issue via an over-the-air update in early 2025 — so the closure clears a long-running safety-regulatory overhang as the company pushes toward Robotaxi and FSD expansion.",
-      "sourceName": "Reuters",
-      "sourceLabel": "sec",
-      "slug": "product-nhtsa-power-steering-probe-closed-2026-06-27",
-      "summary": "미 도로교통안전국(NHTSA)이 테슬라 파워스티어링 상실 의혹에 대한 장기 조사를 마무리했다. NHTSA 결함조사국(ODI)은 2023년 7월 일부 차주가 '핸들을 돌릴 수 없거나 조향에 더 큰 힘이 필요하다'고 신고한 데 따라 모델3·모델Y에 대한 예비평가를 개시했고, 2024년 초 이를 더 깊이 들여다보는 '엔지니어링 분석'으로 격상한 바 있다.\n\n조사 대상은 2023년형 모델3·모델Y 약 376,241대였다. 테슬라는 이미 2025년 초 미국에서 약 376,000대를 리콜했는데, 인쇄회로기판의 모터 구동부에서 과전압·과부하가 발생해 저속 주행 시 조향이 무거워질 수 있다는 결함을 OTA(무선) 소프트웨어 업데이트로 바로잡는 조치였다.\n\nNHTSA는 테슬라의 리콜을 감안해 엔지니어링 분석을 종결한다고 밝혔다. 별도의 추가 리콜이나 강제 조치는 요구되지 않았다.\n\n주주 입장에서 이번 종결은 작지만 분명한 호재다. 자율주행·로보택시 사업을 핵심 성장축으로 내세운 테슬라에게 미결 안전 조사는 잠재적 규제·평판 리스크였는데, 추가 조치 없이 매듭지어지며 그 부담이 하나 줄었다. 다만 이는 이미 리콜로 처리된 사안의 행정적 마무리로, 새로운 결함이 확인된 것은 아니다.",
-      "summary_en": "The U.S. National Highway Traffic Safety Administration has wrapped up its long-running inquiry into alleged loss of power steering in Teslas. NHTSA's Office of Defects Investigation opened a preliminary evaluation in July 2023 after some owners reported being unable to turn the wheel or needing greater steering effort, then escalated to an Engineering Analysis in early 2024 for a deeper review.\n\nThe probe covered roughly 376,241 Model 3 and Model Y vehicles from the 2023 model year. Tesla had already recalled about 376,000 vehicles in the U.S. in early 2025, fixing via an over-the-air software update a defect in which overvoltage and overstress on the motor-drive section of a printed circuit board could make steering heavier at low speeds.\n\nNHTSA said it was closing the Engineering Analysis in view of Tesla's recall, with no additional recall or enforcement action required.\n\nFor shareholders, the closure is a small but clean positive. Any open federal safety investigation carries latent regulatory and reputational risk — especially for a company whose growth narrative centers on autonomous driving and Robotaxi expansion. Resolving this case without a further enforcement order removes one more overhang, even if the underlying issue had already been patched months ago.",
-      "href": "https://www.reuters.com/business/autos-transportation/us-safety-agency-ends-power-steering-probe-into-376000-tesla-evs-2026-06-27/",
-      "confirmedBy": 2,
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1d ago",
+      "pubDate": "2026-06-27T10:00:00.000Z",
+      "title": "테슬라, 사이버캡 비상 대응 가이드에 <em>SAE Level 4</em> 공식 기재 — 운전자 없는 완전 자율 선언",
+      "hotShort": "테슬라, 사이버캡 <em>SAE Level 4</em> 공식 문서화",
+      "body": "테슬라가 공개한 사이버캡 퍼스트리스폰더 가이드에 자율주행 시스템 등급이 'SAE Level 4'로 공식 명시됐다 — 운전자 개입 없이 정해진 운행 구역 내 완전 자율 주행이 가능하다는 법적 선언으로, 보험·규제 책임·로보택시 인허가 논의에서 핵심 근거가 될 이정표다.",
+      "title_en": "Tesla's Cybercab Emergency Guide officially labels it <em>SAE Level 4</em> autonomous",
+      "hotShort_en": "Cybercab: officially <em>SAE Level 4</em> autonomous",
+      "body_en": "Tesla's published Cybercab Emergency Response Guide formally classifies the vehicle's autonomous system as SAE Level 4 — capable of performing the entire driving task within its operating domain with no human input required. The official designation is a pivotal precedent for insurance frameworks, regulatory approvals, and liability law as Tesla scales its Robotaxi fleet.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-cybercab-level4-first-responders-2026-06-27",
+      "summary": "사이버캡 퍼스트리스폰더 가이드는 긴급 출동 대원과 구급대가 사이버캡 차량을 식별하고 안전하게 처리하는 방법을 안내하는 테슬라의 공식 문서다. 이 가이드에는 자율주행 시스템 등급이 'SAE Level 4'로 명기됐다. SAE Level 4는 '지정된 운행 구역(ODD) 내에서 모든 동적 주행 임무를 인간 개입 없이 수행할 수 있는 시스템'을 의미하며, 인간 운전자가 항시 대기해야 하는 Level 2(현재 FSD Supervised)와는 본질적으로 다른 등급이다.\n\n공식 문서에 Level 4를 명시한 것은 규제·법률 측면에서 중요한 함의를 갖는다. 테슬라가 스스로 'SAE Level 4'라고 밝힌 문서가 존재하면, 규제 기관·보험사·법원이 사고 발생 시 시스템 책임 기준을 정할 때 이 가이드가 핵심 증거로 활용될 수 있다. 로보택시 운행 허가 신청(네바다·캘리포니아 등) 과정에서도 이 가이드가 형식 승인 지원 자료로 사용된다.\n\n가이드에 기재된 기술 사양에 따르면 사이버캡의 중량은 3,113파운드(약 1,413kg)이며 핸들과 페달이 없다. 자율주행 스택은 경광등·사이렌을 켠 긴급 차량 접근 시 자동으로 길을 비키고, 경찰차가 점등 상태로 뒤따르면 자동으로 갓길에 정차하도록 훈련됐다. 차체 측면·트렁크의 'Cybercab' 워드마크는 긴급 출동 대원이 현장에서 빠르게 식별하기 위한 표식이다.\n\n생산·인증 측면에서 사이버캡은 2026년 2월 기가 텍사스에서 제조를 시작했으며, EPA는 5월 26일 2026 모델연도 배출 적합 인증서를 발급했다. 대량 생산 목표는 2026년 말이다. 퍼스트리스폰더 가이드 공개는 테슬라가 실제 도로 배치 전에 거치는 표준 행정 절차로, 로보택시 확장을 위한 준비 단계가 체계적으로 진행되고 있음을 보여준다.",
+      "summary_en": "The Cybercab Emergency Response Guide is an official Tesla document instructing firefighters, paramedics, and police on how to identify and safely handle a Cybercab at an incident scene. Within this guide, Tesla formally designates the vehicle's autonomous system as SAE Level 4 — the standard covering systems that can perform all dynamic driving tasks within a defined operational design domain without any human driver on standby. This is a categorically different designation from SAE Level 2 (Tesla's current FSD Supervised), which requires a human driver to remain ready to intervene at all times.\n\nPlacing SAE Level 4 in an official safety document carries significant legal and regulatory weight. It gives regulators, insurers, and courts a Tesla-authored baseline for assessing system responsibility in any future incident review. It is also a double-edged commitment: advantageous in permitting negotiations and regulatory approvals, but it also sets a higher standard of accountability if the system fails within its claimed operating domain.\n\nTechnically, the Cybercab weighs 3,113 pounds and is designed from the ground up without a steering wheel or pedals. The autonomous stack is trained to yield automatically to emergency vehicles with active lights and sirens, and to pull over when a police vehicle with lights approaches from behind. A 'Cybercab' wordmark on the sides and trunk provides a visual identifier for first responders on scene.\n\nOn the production and certification track: Gigafactory Texas began manufacturing Cybercabs in February 2026, and the EPA issued a Certificate of Conformity for the 2026 model year on May 26. Volume production is targeted for the end of 2026. Publishing the first-responder guide is a standard pre-deployment step that signals Tesla is working through the administrative prerequisites for broader Robotaxi operations — in parallel with state-level permit applications including Nevada, where Tesla has applied for up to 5,000 autonomous vehicle slots in Las Vegas.",
+      "href": "https://www.notateslaapp.com/news/4287/inside-teslas-robotaxi-playbook-police-collisions-and-weather",
+      "confirmedBy": 3,
       "confirmingSources": [
-        "Reuters",
-        "NHTSA"
+        "Not a Tesla App",
+        "Drive Tesla Canada",
+        "Basenor"
       ],
       "sentiment": "bull",
+      "hot": 8
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
+      "pubDate": "2026-06-27T09:30:00.000Z",
+      "title": "소프트뱅크 손 마사요시, 머스크 <em>궤도 데이터센터</em> 구상 정면 반박 — \"AI 승패, 지금 수년이 결정\"",
+      "hotShort": "소프트뱅크 손, 머스크 <em>궤도 데이터센터</em> 구상 반박",
+      "body": "소프트뱅크 창업주 손 마사요시가 일론 머스크의 '우주 궤도 데이터센터' 구상에 대해 '전기요금은 데이터센터 비용의 극히 일부에 불과하다'며 실효성을 정면 부정했다 — AI 패권은 우주가 아닌 지상에서 수년 안에 결판 난다는 소프트뱅크의 전략적 판단으로, 머스크 비전의 실현 가능성에 공신력 있는 반론이 제기됐다.",
+      "title_en": "SoftBank's Son dismisses Musk's <em>orbital data center</em> vision — 'AI race won on Earth'",
+      "hotShort_en": "Son dismisses Musk's <em>orbital AI</em> plan",
+      "body_en": "SoftBank founder Masayoshi Son publicly dismissed Elon Musk's orbital data center concept, arguing that electricity — the stated rationale — is only a small fraction of total data center costs, making space-based AI economics unjustifiable. Son's counter-thesis: 'He who strikes first wins' — the AI race will be decided within years, on Earth, before any orbital advantage can mature.",
+      "sourceName": "TechCrunch",
+      "sourceLabel": "press",
+      "slug": "musk-son-orbital-datacenter-rebuttal-2026-06-27",
+      "summary": "6월 말 소프트뱅크 주주총회에서 한 주주가 '머스크의 궤도 데이터센터처럼 소프트뱅크도 비슷한 계획이 있냐'고 묻자, 손 마사요시는 이를 단호히 일축했다. 머스크는 우주에 데이터센터를 배치하면 태양광 전기를 거의 무비용으로 쓸 수 있어 AI 인프라 비용을 획기적으로 낮출 수 있다는 청사진을 여러 차례 제시해 왔다.\n\n손의 반박 핵심은 비용 구조다. 데이터센터 운영비에서 전기요금이 차지하는 비중은 생각보다 훨씬 작다 — 엔비디아 GPU 등 하드웨어가 압도적인 비용을 차지한다. 전기료를 아낀다 해도, 이를 위해 장비를 우주에 쏘아 올리는 발사 비용·유지보수 난이도·통신 지연(레이턴시) 문제가 더 큰 부담이 된다는 것이 손의 판단이다. '전력 소비는 데이터센터 비용의 작은 부분'이라는 주장이 핵심이다.\n\n머스크의 논거는 타임라인에 달려 있다. 스페이스X 스타십이 발사 비용을 극단적으로 낮추면 수년 안에 궤도 AI 인프라의 경제성이 지상을 앞설 수 있다는 시나리오다. 이 시나리오가 실현되면 손의 비용 계산 자체가 달라진다. 두 진영의 차이는 결국 AI 패권이 결판나는 '타이밍'에 대한 베팅이다.\n\n손은 '먼저 치는 자가 이긴다(He who strikes first wins)'는 원칙 아래 지금 지상 AI 인프라에 올인하는 전략을 택했다. 소프트뱅크는 OpenAI·미국 정부와의 스타게이트 조인트벤처에 $1,000억을 투입하며 지상 AI 컴퓨팅 경쟁에 참전 중이다. 스타십이 비용을 낮추는 시점이 왔을 때, 이미 AI 승패가 갈려 있을 것이라는 계산이다.\n\n테슬라 주주에게 이 논쟁은 간접적이지만 유의미한 배경이다. 머스크의 미래 기술 비전에 대한 신뢰는 테슬라 밸류에이션의 프리미엄을 뒷받침하는 내러티브다. 손처럼 공신력 있는 투자자가 머스크의 야심찬 구상에 공개적으로 의문을 제기하는 것은, 집행 리스크(execution risk) 서사에 힘을 실어주는 배경으로 작용할 수 있다.",
+      "summary_en": "At a SoftBank shareholder meeting in late June 2026, a shareholder asked whether SoftBank had plans analogous to Elon Musk's concept of building AI data centers in orbit, powered by near-free solar energy in space. Son's response was direct: the economics do not hold up. Power costs represent only a small fraction of what it costs to run a data center — chip hardware, particularly Nvidia GPUs, is the dominant expense. Any electricity savings from orbit are outweighed by launch costs, maintenance complexity, and communication latency.\n\nSon's dismissal is strategic as well as technical. SoftBank has committed $100 billion to the Stargate joint venture with OpenAI and the U.S. government, placing its bets on terrestrial AI compute at massive scale, now. Son's principle is explicit: 'He who strikes first wins' — the next few years will decide the AI race, not the next decade. By that logic, waiting for orbital economics to mature before building AI infrastructure is a losing strategy.\n\nMusk's case for orbital data centers rests on projections that SpaceX's Starship will reduce launch costs to near-zero within a few years, fundamentally changing the cost calculus of space-based infrastructure. If fully reusable heavy-lift launch becomes as cheap as Musk projects, Son's cost analysis changes materially. The disagreement is ultimately a bet on whether the AI race is concluded before orbital economics become competitive — Son says yes; Musk's position implies no.\n\nFor Tesla shareholders, the exchange is a background signal worth noting. Tesla's premium valuation is underpinned by confidence in Musk's ability to execute on ambitious, long-duration bets — FSD, Robotaxi, Optimus, AI. When a credible figure like Son publicly questions one of Musk's high-profile visions, it reinforces the execution-risk narrative that bears and skeptics point to. It does not change Tesla's near-term fundamentals but adds weight to the case that Musk's most ambitious plans carry real uncertainty.",
+      "href": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Bloomberg",
+        "Japan Times",
+        "Fortune",
+        "TechCrunch"
+      ],
+      "sentiment": "neutral",
       "hot": 5
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "yesterday",
+      "time": "1d ago",
       "pubDate": "2026-06-27T00:28:52.000Z",
       "title": "스페이스X 7월 7일 나스닥 100 편입 확정 — JP모건 <em>$43억 패시브 매수</em> 추산",
       "hotShort": "스페이스X 나스닥 100 편입 — <em>$43억 강제 매수</em>",
@@ -80,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2 days ago",
+      "time": "2d ago",
       "pubDate": "2026-06-26T13:58:00.000Z",
       "title": "테슬라, FSD 보행자 사망 사고 소송 <em>합의로 종결</em>",
       "hotShort": "테슬라, FSD 보행자 사망 소송 <em>합의 종결</em>",
@@ -105,7 +133,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2 days ago",
+      "time": "2d ago",
       "pubDate": "2026-06-26T12:00:00.000Z",
       "title": "유럽 WP.29, UN R171.02 채택 — 테슬라 <em>FSD 유럽 승인 길</em> 열려",
       "hotShort": "UN R171.02 채택 — 테슬라 <em>FSD 유럽 길</em> 열렸다",
@@ -129,5 +157,5 @@
       "hot": 9
     }
   ],
-  "asOf": "2026-06-28 16:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-28 22:30 KST 자동 갱신 · 최신순"
 }
