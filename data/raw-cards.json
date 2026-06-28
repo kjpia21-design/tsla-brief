@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-06-28 17:19 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-28 19:38 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-28T16:13:00.000Z",
       "title": "Survey Sunday: with nearly a trillion dollars, will Elon try to make things right?",
       "body": "Survey Sunday: with nearly a trillion dollars, will Elon try to make things right? Electrek",
@@ -17,7 +17,46 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "6h ago",
+      "pubDate": "2026-06-28T14:00:15.000Z",
+      "title": "How Robotaxis Are Making Headway, Glitches and All",
+      "body": "How Robotaxis Are Making Headway, Glitches and All Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/features/2026-06-28/robotaxis-why-waymo-tesla-baidu-and-others-face-continued-challenges"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "6h ago",
+      "pubDate": "2026-06-28T13:16:12.000Z",
+      "title": "Are We Ready for Face Computers?",
+      "body": "Are We Ready for Face Computers? WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/tech/ai/are-we-ready-for-face-computers-47eb06c4"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-06-28T13:16:12.000Z",
+      "title": "Are We Ready for Face Computers?",
+      "body": "Are We Ready for Face Computers? WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/tech/ai/are-we-ready-for-face-computers-47eb06c4"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "7h ago",
       "pubDate": "2026-06-28T13:07:37.000Z",
       "title": "Did you know there are two kinds of Cybercab? 🤓😎",
       "body": "Did you know there are two kinds of Cybercab? 🤓😎 https://t.co/DnMHfGPQSd",
@@ -30,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-28T11:00:00.000Z",
       "title": "Europe’s Hunt for AI Stocks Leads to Power Suppliers and Banks",
       "body": "Europe’s Hunt for AI Stocks Leads to Power Suppliers and Banks Bloomberg.com",
@@ -43,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-06-28T10:50:05.000Z",
       "title": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in supplemental training, is now in private b…",
       "body": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in supplemental training, is now in private beta at SpaceX &amp; Tesla. Early evals show performance close to, perhaps exceeding Opus. RL is continu…",
@@ -56,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-28T09:53:05.000Z",
       "title": "Today's Paper International",
       "body": "Today's Paper International The New York Times",
@@ -69,7 +108,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-28T09:30:00.000Z",
       "title": "The AI Startup Challenging Tesla and Waymo in the Race to Automate Driving",
       "body": "The AI Startup Challenging Tesla and Waymo in the Race to Automate Driving WSJ",
@@ -82,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-06-28T09:30:00.000Z",
       "title": "The AI Startup Challenging Tesla and Waymo in the Race to Automate Driving",
       "body": "The AI Startup Challenging Tesla and Waymo in the Race to Automate Driving WSJ",
@@ -95,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-28T09:00:00.000Z",
       "title": "AI Bust Risks Ripple Effects From Growth to Credit, BIS Says",
       "body": "AI Bust Risks Ripple Effects From Growth to Credit, BIS Says Bloomberg.com",
@@ -104,32 +143,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-06-28/ai-bust-risks-ripple-effects-from-growth-to-credit-bis-says"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "16h ago",
-      "pubDate": "2026-06-28T01:00:00.000Z",
-      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
-      "body": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-06-28T00:21:06.000Z",
-      "title": "New Pure Charge Supercharger: Grand Island, NY (4 stalls)  Learn more about Supercharger for Business:",
-      "body": "New Pure Charge Supercharger: Grand Island, NY (4 stalls) https://t.co/TRJhNsnNBY Learn more about Supercharger for Business: https://t.co/sWpIJRrJTy https://t.co/d71xa0zVYZ",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2071026063556374570"
     },
     {
       "category": "fsd",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-06-27T08:00:15.000Z",
       "title": "How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms",
       "body": "How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms Bloomberg.com",
@@ -186,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-06-27T07:45:44.000Z",
       "title": "US auto safety regulator closes evaluation of 441,002 Honda Odyssey vehicles after recall",
       "body": "US auto safety regulator closes evaluation of 441,002 Honda Odyssey vehicles after recall Reuters",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/markets/currencies/?__hstc"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-06-26T18:55:57.000Z",
-      "title": "VW weighs up to 100,000 job cuts, four plant closures in biggest overhaul yet, sources say",
-      "body": "VW weighs up to 100,000 job cuts, four plant closures in biggest overhaul yet, sources say Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/volkswagen-ceo-aims-cut-up-100000-jobs-next-years-manager-magazin-reports-2026-06-26/"
     }
   ]
 }
