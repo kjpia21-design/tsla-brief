@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-06-28T09:53:05.000Z",
+      "title": "xAI Grok 4.5, 테슬라·스페이스X 사내 <em>비공개 베타</em> 돌입 — Claude Opus급 성능 주장",
+      "hotShort": "Grok 4.5, 테슬라 사내 베타 — <em>Opus 능가</em> 주장",
+      "body": "일론 머스크가 X에서 xAI의 Grok 4.5(1.5조 파라미터, V9 기반·Cursor 코딩 데이터 추가 훈련)의 테슬라·스페이스X 사내 비공개 베타 돌입을 공식 발표했다 — 초기 벤치마크에서 Claude Opus에 근접하거나 능가한다고 밝혔다. xAI 모델이 테슬라 엔지니어링 스택에 공식 진입한 첫 이정표다.",
+      "title_en": "xAI Grok 4.5 enters <em>private beta</em> at Tesla and SpaceX — Musk claims near-Opus performance",
+      "hotShort_en": "Grok 4.5 in Tesla beta — <em>near-Opus</em> claims",
+      "body_en": "Elon Musk announced on X that xAI's Grok 4.5 — a 1.5-trillion-parameter model built on the V9 foundation and supplementally trained on Cursor coding data — has entered private beta at both Tesla and SpaceX. Early internal benchmarks, per Musk, put its performance close to or above Claude Opus. It is xAI's first publicly confirmed deployment of its own AI model inside Tesla's engineering environment.",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "musk-grok45-tesla-private-beta-2026-06-28",
+      "summary": "Grok 4.5는 xAI의 V9 기반 모델로 1조 5,000억(1.5T) 파라미터를 탑재했다 — 전 세대 Grok 4.4(1T)보다 50% 늘어난 규모다. 훈련은 2026년 5월 26일 완료됐으며, AI 코딩 툴 Cursor의 데이터를 추가 훈련해 기술적 추론·소프트웨어 엔지니어링 능력을 강화한 것이 핵심 차별화다. 이는 테슬라·스페이스X의 엔지니어링 업무 환경과 직접 맞닿는 역량이다.\n\n테슬라 주주에게 중요한 점은 '첫 배포처'다. Grok 4.5의 비공개 베타가 테슬라와 스페이스X 사내 환경에서 시작됐다는 것은 xAI 모델이 테슬라 소프트웨어 개발 파이프라인에 공식 진입했음을 뜻한다. 현재는 엔지니어 생산성 도구 수준의 배포이며 FSD·제품에 직접 적용됐다는 공식 확인은 없지만, xAI 기술이 테슬라 AI 인프라에 내재화되는 방향을 명확히 시사한다.\n\n머스크는 같은 트윗에서 xAI가 2026년 하반기 동안 스페이스X를 통해 '완전 새로 훈련된' 신규 AI 모델을 매달 출시할 계획임을 밝혔다. 다음 모델은 이미 강화학습(RL) 단계를 진행 중이라고도 언급했다 — 경쟁사 대비 이례적으로 빠른 개발 주기다.\n\n성능 측면에서 머스크는 초기 벤치마크가 Claude Opus에 근접하거나 이를 웃돈다고 주장했다. 내부 평가 결과이므로 독립 벤치마크로 검증이 필요하지만, 사실이라면 현재 최상위 LLM군(GPT-4o·Gemini Ultra·Claude Opus)과 어깨를 나란히 하는 수준이다. 다수의 테크 매체(Seeking Alpha·Basenor·Crypto Briefing 등)가 같은 사안을 보도하며 교차 확인됐다.",
+      "summary_en": "Grok 4.5 is built on xAI's V9 foundation model with 1.5 trillion parameters — a 50% step up from Grok 4.4's 1 trillion. Training wrapped on May 26, 2026, with a key supplemental addition: coding data from Cursor, a popular AI-assisted development environment. That integration specifically sharpens the model for software engineering and technical reasoning, making it directly relevant to the workflows at both Tesla and SpaceX.\n\nThe most significant fact for Tesla shareholders is where the first deployment is happening. By entering private beta specifically inside Tesla and SpaceX, Grok 4.5 marks xAI's first publicly confirmed AI model integration into Tesla's engineering environment. This is currently productivity-tool-level deployment for engineers — not a direct FSD or vehicle feature integration — but it establishes the precedent and direction: xAI capabilities converging with Tesla's software stack.\n\nMusk also signaled an accelerated roadmap: xAI intends to release new AI models 'completely trained from scratch' through SpaceX every month for the rest of 2026. The next model iteration is already in reinforcement learning training, per the tweet — an unusually fast cadence for models at this scale and parameter count.\n\nOn performance: Musk's claim that early evals put Grok 4.5 at or above Claude Opus would place it in the top tier of available large language models, alongside GPT-4o and Gemini Ultra. Internal benchmark claims are not the same as independent third-party evaluations, but the deployment at Tesla and SpaceX — with real engineering workflows as the test bed — gives these evals more grounding than a purely synthetic benchmark. The story has been picked up by Seeking Alpha, Basenor, and Crypto Briefing, confirming multiple cross-sources for the announcement.",
+      "href": "https://x.com/elonmusk/status/2071184354756477041",
+      "confirmedBy": 4,
+      "confirmingSources": ["Elon Musk (X)", "Seeking Alpha", "Basenor", "Crypto Briefing"],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "today",
@@ -18,12 +40,7 @@
       "summary_en": "Four days before Tesla's official Q2 delivery count, Morgan Stanley added a significant upward revision to its forecast. Analyst Andrew Percoco raised the bank's Q2 2026 delivery estimate to 413,000 vehicles from 373,000 — a 40,000-unit increase driven by European demand data: April registrations across the continent ran approximately 47% above year-ago levels, suggesting the consumer backlash tied to Elon Musk's political profile has materially eased in Europe.\n\nThe upgrade joins a chorus of upward revisions in the days leading to July 2. Barclays pegged Q2 at 418,000 on June 25; Goldman Sachs at 420,000. The 22-analyst consensus stands at 406,024. Morgan Stanley landing at 413,000 — while maintaining an Equal-weight rating and $415 price target — is notable: even a cautious, non-bull analyst is now acknowledging the improving demand picture without calling for outperformance.\n\nA 413,000-vehicle quarter would mark a 7.5% year-over-year rise from Q2 2025 (384,122 units) and a 15.4% sequential recovery from Q1 2026 (358,023 units). The energy storage segment adds a second catalyst: the consensus calls for 13.8 GWh, up 57% from Q1's 8.8 GWh, with both data points releasing simultaneously on July 2.\n\nTSLA closed at $377.91 on Friday June 27, down approximately 14% month-to-date. A delivery beat paired with strong energy output could provide the near-term catalyst for a reversal ahead of the full Q2 earnings call on July 22 — where FSD revenue recognition, Optimus production timelines, and 2026 guidance will be the key topics.",
       "href": "https://www.teslarati.com/tesla-tsla-deliveries-big-boost-in-expectations-wall-street/",
       "confirmedBy": 4,
-      "confirmingSources": [
-        "Morgan Stanley",
-        "Goldman Sachs",
-        "Barclays",
-        "Electrek"
-      ],
+      "confirmingSources": ["Morgan Stanley", "Goldman Sachs", "Barclays", "Electrek"],
       "sentiment": "neutral",
       "hot": 8
     },
@@ -45,40 +62,9 @@
       "summary_en": "The Cybercab Emergency Response Guide is an official Tesla document instructing firefighters, paramedics, and police on how to identify and safely handle a Cybercab at an incident scene. Within this guide, Tesla formally designates the vehicle's autonomous system as SAE Level 4 — the standard covering systems that can perform all dynamic driving tasks within a defined operational design domain without any human driver on standby. This is a categorically different designation from SAE Level 2 (Tesla's current FSD Supervised), which requires a human driver to remain ready to intervene at all times.\n\nPlacing SAE Level 4 in an official safety document carries significant legal and regulatory weight. It gives regulators, insurers, and courts a Tesla-authored baseline for assessing system responsibility in any future incident review. It is also a double-edged commitment: advantageous in permitting negotiations and regulatory approvals, but it also sets a higher standard of accountability if the system fails within its claimed operating domain.\n\nTechnically, the Cybercab weighs 3,113 pounds and is designed from the ground up without a steering wheel or pedals. The autonomous stack is trained to yield automatically to emergency vehicles with active lights and sirens, and to pull over when a police vehicle with lights approaches from behind. A 'Cybercab' wordmark on the sides and trunk provides a visual identifier for first responders on scene.\n\nOn the production and certification track: Gigafactory Texas began manufacturing Cybercabs in February 2026, and the EPA issued a Certificate of Conformity for the 2026 model year on May 26. Volume production is targeted for the end of 2026. Publishing the first-responder guide is a standard pre-deployment step that signals Tesla is working through the administrative prerequisites for broader Robotaxi operations — in parallel with state-level permit applications including Nevada, where Tesla has applied for up to 5,000 autonomous vehicle slots in Las Vegas.",
       "href": "https://www.notateslaapp.com/news/4287/inside-teslas-robotaxi-playbook-police-collisions-and-weather",
       "confirmedBy": 3,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "Drive Tesla Canada",
-        "Basenor"
-      ],
+      "confirmingSources": ["Not a Tesla App", "Drive Tesla Canada", "Basenor"],
       "sentiment": "bull",
       "hot": 8
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1d ago",
-      "pubDate": "2026-06-27T09:30:00.000Z",
-      "title": "소프트뱅크 손 마사요시, 머스크 <em>궤도 데이터센터</em> 구상 정면 반박 — \"AI 승패, 지금 수년이 결정\"",
-      "hotShort": "소프트뱅크 손, 머스크 <em>궤도 데이터센터</em> 구상 반박",
-      "body": "소프트뱅크 창업주 손 마사요시가 일론 머스크의 '우주 궤도 데이터센터' 구상에 대해 '전기요금은 데이터센터 비용의 극히 일부에 불과하다'며 실효성을 정면 부정했다 — AI 패권은 우주가 아닌 지상에서 수년 안에 결판 난다는 소프트뱅크의 전략적 판단으로, 머스크 비전의 실현 가능성에 공신력 있는 반론이 제기됐다.",
-      "title_en": "SoftBank's Son dismisses Musk's <em>orbital data center</em> vision — 'AI race won on Earth'",
-      "hotShort_en": "Son dismisses Musk's <em>orbital AI</em> plan",
-      "body_en": "SoftBank founder Masayoshi Son publicly dismissed Elon Musk's orbital data center concept, arguing that electricity — the stated rationale — is only a small fraction of total data center costs, making space-based AI economics unjustifiable. Son's counter-thesis: 'He who strikes first wins' — the AI race will be decided within years, on Earth, before any orbital advantage can mature.",
-      "sourceName": "TechCrunch",
-      "sourceLabel": "press",
-      "slug": "musk-son-orbital-datacenter-rebuttal-2026-06-27",
-      "summary": "6월 말 소프트뱅크 주주총회에서 한 주주가 '머스크의 궤도 데이터센터처럼 소프트뱅크도 비슷한 계획이 있냐'고 묻자, 손 마사요시는 이를 단호히 일축했다. 머스크는 우주에 데이터센터를 배치하면 태양광 전기를 거의 무비용으로 쓸 수 있어 AI 인프라 비용을 획기적으로 낮출 수 있다는 청사진을 여러 차례 제시해 왔다.\n\n손의 반박 핵심은 비용 구조다. 데이터센터 운영비에서 전기요금이 차지하는 비중은 생각보다 훨씬 작다 — 엔비디아 GPU 등 하드웨어가 압도적인 비용을 차지한다. 전기료를 아낀다 해도, 이를 위해 장비를 우주에 쏘아 올리는 발사 비용·유지보수 난이도·통신 지연(레이턴시) 문제가 더 큰 부담이 된다는 것이 손의 판단이다. '전력 소비는 데이터센터 비용의 작은 부분'이라는 주장이 핵심이다.\n\n머스크의 논거는 타임라인에 달려 있다. 스페이스X 스타십이 발사 비용을 극단적으로 낮추면 수년 안에 궤도 AI 인프라의 경제성이 지상을 앞설 수 있다는 시나리오다. 이 시나리오가 실현되면 손의 비용 계산 자체가 달라진다. 두 진영의 차이는 결국 AI 패권이 결판나는 '타이밍'에 대한 베팅이다.\n\n손은 '먼저 치는 자가 이긴다(He who strikes first wins)'는 원칙 아래 지금 지상 AI 인프라에 올인하는 전략을 택했다. 소프트뱅크는 OpenAI·미국 정부와의 스타게이트 조인트벤처에 $1,000억을 투입하며 지상 AI 컴퓨팅 경쟁에 참전 중이다. 스타십이 비용을 낮추는 시점이 왔을 때, 이미 AI 승패가 갈려 있을 것이라는 계산이다.\n\n테슬라 주주에게 이 논쟁은 간접적이지만 유의미한 배경이다. 머스크의 미래 기술 비전에 대한 신뢰는 테슬라 밸류에이션의 프리미엄을 뒷받침하는 내러티브다. 손처럼 공신력 있는 투자자가 머스크의 야심찬 구상에 공개적으로 의문을 제기하는 것은, 집행 리스크(execution risk) 서사에 힘을 실어주는 배경으로 작용할 수 있다.",
-      "summary_en": "At a SoftBank shareholder meeting in late June 2026, a shareholder asked whether SoftBank had plans analogous to Elon Musk's concept of building AI data centers in orbit, powered by near-free solar energy in space. Son's response was direct: the economics do not hold up. Power costs represent only a small fraction of what it costs to run a data center — chip hardware, particularly Nvidia GPUs, is the dominant expense. Any electricity savings from orbit are outweighed by launch costs, maintenance complexity, and communication latency.\n\nSon's dismissal is strategic as well as technical. SoftBank has committed $100 billion to the Stargate joint venture with OpenAI and the U.S. government, placing its bets on terrestrial AI compute at massive scale, now. Son's principle is explicit: 'He who strikes first wins' — the next few years will decide the AI race, not the next decade. By that logic, waiting for orbital economics to mature before building AI infrastructure is a losing strategy.\n\nMusk's case for orbital data centers rests on projections that SpaceX's Starship will reduce launch costs to near-zero within a few years, fundamentally changing the cost calculus of space-based infrastructure. If fully reusable heavy-lift launch becomes as cheap as Musk projects, Son's cost analysis changes materially. The disagreement is ultimately a bet on whether the AI race is concluded before orbital economics become competitive — Son says yes; Musk's position implies no.\n\nFor Tesla shareholders, the exchange is a background signal worth noting. Tesla's premium valuation is underpinned by confidence in Musk's ability to execute on ambitious, long-duration bets — FSD, Robotaxi, Optimus, AI. When a credible figure like Son publicly questions one of Musk's high-profile visions, it reinforces the execution-risk narrative that bears and skeptics point to. It does not change Tesla's near-term fundamentals but adds weight to the case that Musk's most ambitious plans carry real uncertainty.",
-      "href": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Bloomberg",
-        "Japan Times",
-        "Fortune",
-        "TechCrunch"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     },
     {
       "category": "musk",
@@ -98,10 +84,7 @@
       "summary_en": "Nasdaq announced after the June 26 close that SpaceX (NASDAQ: SPCX) qualifies for inclusion in the Nasdaq 100. Index-tracking ETFs and passive funds begin purchasing shares after the July 6 close; SpaceX officially becomes a Nasdaq 100 constituent from the July 7 open.\n\nThe highlight is the speed of inclusion. SpaceX went public on June 12 at $135 per share in the largest IPO in history, and will join the Nasdaq 100 just 15 days later — among the fastest-ever additions to the index. JP Morgan estimates approximately $4.3 billion in passive inflows as a result of the inclusion. ETFs and index funds tracking the Nasdaq 100 — including QQQ, with over $250B in assets under management — must mechanically purchase SpaceX shares to match the index's new composition.\n\nFor Tesla shareholders, the development is indirect but structurally meaningful. SpaceX's embedding in the world's most widely tracked technology index broadens institutional exposure to the Musk asset complex on a global scale. SpaceX and Tesla are legally independent — their financials are not directly linked — but deepening institutional ownership of SpaceX raises the overall acceptance and visibility of Musk's ventures, which has historically carried positive sentiment spillovers to Tesla.\n\nNotes of caution: SpaceX stock has corrected more than 30% from its post-IPO peak, and bond markets have shown volatility as well. Passive buying inflows can provide a technical floor, but fast-track inclusion at elevated valuations also means a larger drag on the index if the stock continues to slide.",
       "href": "https://www.reuters.com/markets/us/spacex-set-join-nasdaq-100-index-july-7-2026-06-27/",
       "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "JP Morgan"
-      ],
+      "confirmingSources": ["Reuters", "JP Morgan"],
       "sentiment": "bull",
       "hot": 7
     },
@@ -123,10 +106,7 @@
       "summary_en": "Tesla has resolved a civil lawsuit tied to a pedestrian fatality involving its Full Self-Driving feature, opting for a settlement rather than a courtroom fight. The settlement was reported the same day by both Electrek and Bloomberg; the dollar amount and terms were not disclosed.\n\nFSD-related death and injury lawsuits draw particular scrutiny because they force a public airing of how far the system can actually drive itself versus what Tesla's marketing implies — and where the line sits between driver responsibility and software liability. By settling, Tesla avoids testimony and discovery that could expose internal communications about the system's limitations.\n\nThe timing matters. Tesla is actively expanding its unsupervised Robotaxi service and positioning FSD as the backbone of a future autonomous-transport business. Adverse judgments or a string of public trials could complicate regulatory approvals and deter potential Robotaxi riders. A quiet settlement keeps this particular case from growing into a reputational or regulatory problem.\n\nThat said, a settlement does not constitute an admission of liability or a legal precedent, and it does not resolve the broader portfolio of FSD litigation or ongoing NTSB and NHTSA reviews of Tesla autopilot-related incidents.",
       "href": "https://electrek.co/2026/06/26/tesla-settles-lawsuit-over-fatal-pedestrian-crash-involving-full-self-driving/",
       "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Bloomberg"
-      ],
+      "confirmingSources": ["Electrek", "Bloomberg"],
       "sentiment": "neutral",
       "hot": 6
     },
@@ -148,14 +128,10 @@
       "summary_en": "The UNECE vehicle-regulation forum WP.29 is the intergovernmental body where UN member states coordinate automotive safety standards. At its June 2026 session it adopted the 02 series of amendments to UN Regulation No. 171 — the DCAS Phase 3 framework that sets international technical requirements for advanced lane-keeping, lane-change assist, and hands-free driving systems. Tesla FSD (Supervised) sits squarely in scope. UN R171.02 is expected to enter into force around January 2027.\n\nTesla has proactively prepared: the company has already filed more than 400 compliance documents related to R-171. The Netherlands vehicle authority (RDW) gave Tesla FSD (Supervised) the EU's first type approval in April 2026 and is now going through the European Commission notification process for EU-wide recognition. The WP.29 adoption cements the international regulatory framework that underpins that EU-wide approval path.\n\nThe EU-wide approval vote is expected at a Technical Committee for Motor Vehicles (TCMV) meeting in the October–December 2026 window. A positive vote could make FSD available across all EU member states in late 2026 or early 2027. Because many Asian markets adopt WP.29 standards, the adoption also eases the regulatory path in Japan, South Korea, and Australia.\n\nFor shareholders, this is a structural inflection point. Europe is one of Tesla's three core markets; unlocking FSD subscription revenue there — at current pricing — could add hundreds of millions of dollars annually to the top line. The near-term stock impact may be limited, but R171.02 adoption makes the global FSD revenue ramp materially more visible.",
       "href": "https://www.notateslaapp.com/news/4370/european-wp29-adopts-un-r171-02-clearing-the-path-for-tesla-fsd-in-europe",
       "confirmedBy": 3,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "UNECE",
-        "Reuters"
-      ],
+      "confirmingSources": ["Not a Tesla App", "UNECE", "Reuters"],
       "sentiment": "bull",
       "hot": 9
     }
   ],
-  "asOf": "2026-06-28 22:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-28 23:30 KST 자동 갱신 · 최신순"
 }

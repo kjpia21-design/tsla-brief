@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-06-28T09:53:05.000Z",
+      "title": "xAI Grok 4.5, 테슬라·스페이스X 사내 <em>비공개 베타</em> 돌입 — Claude Opus급 성능 주장",
+      "hotShort": "Grok 4.5, 테슬라 사내 베타 — <em>Opus 능가</em> 주장",
+      "body": "일론 머스크가 X에서 xAI의 Grok 4.5(1.5조 파라미터, V9 기반·Cursor 코딩 데이터 추가 훈련)의 테슬라·스페이스X 사내 비공개 베타 돌입을 공식 발표했다 — 초기 벤치마크에서 Claude Opus에 근접하거나 능가한다고 밝혔다. xAI 모델이 테슬라 엔지니어링 스택에 공식 진입한 첫 이정표다.",
+      "title_en": "xAI Grok 4.5 enters <em>private beta</em> at Tesla and SpaceX — Musk claims near-Opus performance",
+      "hotShort_en": "Grok 4.5 in Tesla beta — <em>near-Opus</em> claims",
+      "body_en": "Elon Musk announced on X that xAI's Grok 4.5 — a 1.5-trillion-parameter model built on the V9 foundation and supplementally trained on Cursor coding data — has entered private beta at both Tesla and SpaceX. Early internal benchmarks, per Musk, put its performance close to or above Claude Opus. It is xAI's first publicly confirmed deployment of its own AI model inside Tesla's engineering environment.",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "musk-grok45-tesla-private-beta-2026-06-28",
+      "summary": "Grok 4.5는 xAI의 V9 기반 모델로 1조 5,000억(1.5T) 파라미터를 탑재했다 — 전 세대 Grok 4.4(1T)보다 50% 늘어난 규모다. 훈련은 2026년 5월 26일 완료됐으며, AI 코딩 툴 Cursor의 데이터를 추가 훈련해 기술적 추론·소프트웨어 엔지니어링 능력을 강화한 것이 핵심 차별화다. 이는 테슬라·스페이스X의 엔지니어링 업무 환경과 직접 맞닿는 역량이다.\n\n테슬라 주주에게 중요한 점은 '첫 배포처'다. Grok 4.5의 비공개 베타가 테슬라와 스페이스X 사내 환경에서 시작됐다는 것은 xAI 모델이 테슬라 소프트웨어 개발 파이프라인에 공식 진입했음을 뜻한다. 현재는 엔지니어 생산성 도구 수준의 배포이며 FSD·제품에 직접 적용됐다는 공식 확인은 없지만, xAI 기술이 테슬라 AI 인프라에 내재화되는 방향을 명확히 시사한다.\n\n머스크는 같은 트윗에서 xAI가 2026년 하반기 동안 스페이스X를 통해 '완전 새로 훈련된' 신규 AI 모델을 매달 출시할 계획임을 밝혔다. 다음 모델은 이미 강화학습(RL) 단계를 진행 중이라고도 언급했다 — 경쟁사 대비 이례적으로 빠른 개발 주기다.\n\n성능 측면에서 머스크는 초기 벤치마크가 Claude Opus에 근접하거나 이를 웃돈다고 주장했다. 내부 평가 결과이므로 독립 벤치마크로 검증이 필요하지만, 사실이라면 현재 최상위 LLM군(GPT-4o·Gemini Ultra·Claude Opus)과 어깨를 나란히 하는 수준이다. 다수의 테크 매체(Seeking Alpha·Basenor·Crypto Briefing 등)가 같은 사안을 보도하며 교차 확인됐다.",
+      "summary_en": "Grok 4.5 is built on xAI's V9 foundation model with 1.5 trillion parameters — a 50% step up from Grok 4.4's 1 trillion. Training wrapped on May 26, 2026, with a key supplemental addition: coding data from Cursor, a popular AI-assisted development environment. That integration specifically sharpens the model for software engineering and technical reasoning, making it directly relevant to the workflows at both Tesla and SpaceX.\n\nThe most significant fact for Tesla shareholders is where the first deployment is happening. By entering private beta specifically inside Tesla and SpaceX, Grok 4.5 marks xAI's first publicly confirmed AI model integration into Tesla's engineering environment. This is currently productivity-tool-level deployment for engineers — not a direct FSD or vehicle feature integration — but it establishes the precedent and direction: xAI capabilities converging with Tesla's software stack.\n\nMusk also signaled an accelerated roadmap: xAI intends to release new AI models 'completely trained from scratch' through SpaceX every month for the rest of 2026. The next model iteration is already in reinforcement learning training, per the tweet — an unusually fast cadence for models at this scale and parameter count.\n\nOn performance: Musk's claim that early evals put Grok 4.5 at or above Claude Opus would place it in the top tier of available large language models, alongside GPT-4o and Gemini Ultra. Internal benchmark claims are not the same as independent third-party evaluations, but the deployment at Tesla and SpaceX — with real engineering workflows as the test bed — gives these evals more grounding than a purely synthetic benchmark. The story has been picked up by Seeking Alpha, Basenor, and Crypto Briefing, confirming multiple cross-sources for the announcement.",
+      "href": "https://x.com/elonmusk/status/2071184354756477041",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Elon Musk (X)",
+        "Seeking Alpha",
+        "Basenor",
+        "Crypto Briefing"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "today",
@@ -2094,5 +2121,5 @@
       "hot": 3
     }
   ],
-  "asOf": "2026-06-28 22:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-06-28 23:30 KST 자동 갱신 · 최신순"
 }
