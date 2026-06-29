@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-06-29 10:30 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-30 01:00 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-29T13:57:00.000Z",
+      "title": "테슬라·SpaceX 협력 심화 소식에 TSLA <em>+3% 반등</em> — Terafab·AI 인프라 시너지 주목",
+      "hotShort": "테슬라·SpaceX 협력 심화로 TSLA <em>+3% 반등</em>",
+      "body": "6월 29일 테슬라 주가가 전 거래일 종가($379.71) 대비 3%+ 올라 $392 근방에서 거래됐다 — Barron's는 테슬라·SpaceX 간 AI 인프라·위성통신·첨단 제조 협력 심화를 상승 배경으로 보도했다. 6월 -14% 부진 속 첫 의미 있는 반등으로, Terafab(테슬라·SpaceX·인텔 반도체 합작·텍사스) 진전이 'Musk 생태계' 밸류에이션을 재점화했다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "musk-tesla-spacex-ties-tsla-rebound-2026-06-29",
+      "summary": "테슬라·SpaceX 협력의 중심에는 Terafab이 있다. 일론 머스크가 2026년 3월 21일 공식 발표한 이 프로젝트는 테슬라·SpaceX·인텔이 공동으로 텍사스 그라임스 카운티에 건설하는 초대형 반도체 생산 시설이다. 연간 1 테라와트(TW) 이상의 AI 컴퓨팅 역량을 목표로 하며, 부지 면적이 100M 평방피트(기가 텍사스의 10배 규모)에 달한다. 6월 3일 그라임스 카운티로부터 세금 감면 혜택을 확보했으며 — 총 투자 규모는 최대 $1,190억으로 분석된다 — 이는 Terafab 실현 가능성이 높아지고 있음을 보여주는 이정표다.\n\n협력은 Terafab 하나가 아니다. SpaceX의 Starlink는 Tesla 차량의 위성 기반 차내 연결성 개선 경로를 열고, xAI가 개발하는 AI 인프라는 FSD 신경망 훈련에 간접 기여할 수 있다. Barron's는 AI 인프라·위성통신·차내 연결성·첨단 제조 네 개 축에서 테슬라·SpaceX 협력이 심화되고 있다고 보도했으며, 시장은 이 생태계 시너지를 주가 재평가의 근거로 삼고 있다.\n\n6월 29일 반등의 맥락을 보면: TSLA는 6월 26일(금) $379.71 마감, 이달 누적 -14%를 넘긴 상태였다. 월가에서 6월의 하락이 펀더멘탈이 아닌 지정학 리스크(미-이란 교전)·SpaceX IPO 이후 머스크 분산 우려에 따른 기관 이탈로 과도했다는 진단이 나오는 가운데, Tesla-SpaceX 협력 심화 소식이 낙폭 과대 인식을 촉발하는 기폭제가 됐다.\n\n주주 관점에서 Terafab이 실현된다면 테슬라는 외부 반도체 의존도를 낮추고 AI 칩 내재화라는 전략적 이점을 갖출 수 있다. Starlink 연결성과 xAI AI 인프라 통합이 FSD 경쟁력과 로보택시 확장에 실질적으로 기여하려면 수년이 걸리지만, Terafab 세금 감면 확보처럼 검증 가능한 마일스톤이 하나씩 쌓이면서 'Musk 생태계 할인'이 점진적으로 좁혀질 수 있다는 기대가 오늘 반등에 반영됐다.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-musk-spacex-cbf394a8",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barron's",
+        "Gurufocus"
+      ],
+      "sentiment": "bull",
+      "hot": 7,
+      "title_en": "Tesla-SpaceX Collaboration Deepens, TSLA <em>Rebounds 3%+</em> — Terafab and AI Infrastructure in Focus",
+      "hotShort_en": "TSLA <em>+3%</em> as Tesla-SpaceX ties deepen",
+      "body_en": "Tesla shares gained more than 3% on June 29 to trade near $392 — recovering from Friday's close of $379.71 — after Barron's reported deepening Tesla-SpaceX collaboration spanning AI infrastructure, satellite connectivity, and advanced manufacturing. The move is the first meaningful bounce from a month in which TSLA has shed more than 14%, with the Terafab semiconductor joint venture (Tesla, SpaceX, Intel; Grimes County, Texas) providing the ecosystem catalyst that reignited Musk-enterprise valuation sentiment.",
+      "summary_en": "At the center of the Tesla-SpaceX collaboration story is Terafab — the semiconductor fabrication joint venture Elon Musk announced on March 21, 2026, joining Tesla, SpaceX, and Intel in a planned facility in Grimes County, Texas. The ambition is staggering: more than one terawatt of AI compute capacity annually, housed in a facility spanning 100 million square feet — ten times the footprint of Gigafactory Texas. On June 3, the venture secured a critical tax abatement from Grimes County, with total capital outlays potentially reaching $119 billion. That milestone is a tangible sign of local political and financial commitment that has given the Terafab thesis new credibility.\n\nBeyond the chip factory, the Barron's report cites AI infrastructure, satellite communications, in-car connectivity, and advanced manufacturing as four fronts where Tesla and SpaceX collaboration is intensifying. SpaceX's Starlink provides a natural on-ramp for in-vehicle satellite connectivity improvements across Tesla's fleet, while xAI — financially tied to SpaceX — has been described as a potential compute supplier for FSD neural network training. The June 28 confirmation that Grok 4.5 has entered private beta at Tesla and SpaceX also fits this broader integration narrative.\n\nFor context: TSLA closed at $379.71 on Friday June 26, down roughly 14% for the month and more than 20% from its May peak. The gap between the stock's depressed level and the multi-year bull thesis has made it vulnerable to sharp reversals on positive catalysts. June's decline has been attributed more to geopolitical risk (US-Iran re-escalation) and institutional rotation out of Musk-affiliated names after the SpaceX IPO than to Tesla-specific operational deterioration.\n\nFor Tesla shareholders, today's move is a sentiment indicator more than a fundamental data point. Terafab's eventual scale-up would internalize AI chip supply, reducing Tesla's dependence on external semiconductor providers. Starlink integration and xAI compute contributions remain long-dated optionality rather than near-term deliverables. But as Terafab collects verifiable milestones — a tax deal closed, a JV structure formalized — each one chips away at the 'Musk ecosystem discount' that has weighed on TSLA's multiple in a period of divided management attention."
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -148,6 +173,32 @@
       "hotShort_en": "Global fleet hits <em>18K robotaxis</em> in 2026",
       "body_en": "Bloomberg's June 28 feature on the global robotaxi sector finds the commercial fleet on track to more than double from 8,000 vehicles in 2025 to 18,000 in 2026, yet a March incident where more than 100 Baidu Apollo Go cars simultaneously stalled on elevated roads in Wuhan — trapping passengers for up to two hours — illustrated the sector's persistent vulnerabilities. Waymo remains the sole operator of fully driverless paid rides in the U.S. and is targeting a nationwide rollout from San Diego to Washington D.C. this year.",
       "summary_en": "Bloomberg's feature arrives at a year when robotaxi operations have quietly spread beyond a handful of U.S. cities to include commercial or pilot services in Croatia, Singapore, Dubai, Abu Dhabi, and Riyadh, with London potentially next. The headline statistic — a fleet doubling year-on-year to 18,000 vehicles — masks how hard it remains to scale from proof-of-concept to a meaningful share of urban mobility.\n\nWaymo is the sector's clearest benchmark: the Alphabet unit is the only provider of a fully driverless paid service in the U.S., with no in-vehicle human backup. Its annualized revenues crossed $350 million in early 2026, and the company has announced plans to expand across America — San Diego, Washington D.C., and additional cities before year-end. Tesla's Robotaxi fleet covers Austin's full 245-square-mile metro area with about 20 vehicles, plus newer expansions in Dallas and Houston launched in April.\n\nChina's operators — Baidu Apollo Go, WeRide, and Pony AI — collectively outpace their American rivals in the number of cities with active deployments, and they are simultaneously building operations in Dubai, Abu Dhabi, Singapore, Germany, and the U.K. But the rollout hit a visible snag in March when more than 100 Baidu Apollo Go vehicles froze simultaneously on Wuhan overpasses; China subsequently halted new robotaxi license issuance while the incident was investigated.\n\nFor Tesla shareholders, the Bloomberg assessment underlines both opportunity and risk. Tesla's end-to-end AI approach avoids the city-by-city lidar mapping costs that weigh on competitors, which Tesla argues enables faster geographic scaling. But the subtitle — \"Why Waymo, Tesla, Baidu and Others Face Continued Challenges\" — is a useful reminder that no single player has broken decisively ahead in the race to make robotaxis a mainstream option."
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1d ago",
+      "pubDate": "2026-06-28T12:00:00.000Z",
+      "title": "테슬라, Q2 인도 공식 컨센서스 <em>406K</em> 공개 — JP모건 소폭 하향, 에너지 +57%",
+      "hotShort": "Q2 인도 <em>406K</em> D-3 — 에너지 스토리지 +57%",
+      "body": "테슬라가 Q2 2026 공식 인도 컨센서스를 공개했다 — 총 406,024대(모델 3/Y 392,646 + 기타 12,978), 발표 D-3(7월 2일). JP모건(라잣 굽타)이 430,500→420,000대로 하향하는 등 기관 예상치가 405~420K로 수렴하는 가운데, 에너지 스토리지 13.8GWh(Q1 8.8GWh 대비 +57%)가 차량 대수보다 마진에 더 큰 영향을 줄 핵심 어닝 변수로 부각됐다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "stock-q2-delivery-consensus-406k-2026-06-29",
+      "summary": "테슬라가 공식 발표한 Q2 2026 인도 컨센서스는 2분기 실적을 앞두고 월가의 기대치를 하나의 표로 정리한 것이다. 총 406,024대(모델 3/Y 392,646대 + 사이버트럭·모델 S/X·세미 등 기타 12,978대)가 컨센서스 중앙값이다. 비교 기준: Q1 2026 인도는 336,681대였으므로 컨센서스 실현 시 QoQ +20.6% 성장이다.\n\n개별 기관 예상치는 대체로 컨센서스 상단에 몰려 있다. 골드만삭스(420K)·바클레이스(418K)·모건스탠리(413K)는 유럽·중국 판매 강세를 이유로 상단에 위치한다. JP모건 라잣 굽타 애널리스트는 430,500대에서 420,000대로 하향 조정하며 혼조된 EV 수요 신호를 이유로 들었다. UBS는 405,000대 추정에 중립 의견·목표주가 $364를 유지했다. 상단과 하단 예상치 격차가 15K 수준으로 좁아 차량 대수 서프라이즈 폭은 제한적일 전망이다.\n\n에너지 스토리지가 이번 Q2의 숨겨진 변수다. 컨센서스 13.8GWh는 Q1 8.8GWh 대비 57% 급증한 수치다. 테슬라의 에너지 스토리지 사업(메가팩·파워월)은 차량 판매보다 마진율이 높아, 실제 수치가 컨센서스를 웃돌면 2분기 전체 영업 마진을 끌어올릴 여지가 있다. 배터리 원자재 가격 하락이 계속되는 환경에서 메가팩 마진 확대 여지는 일반에 잘 알려지지 않은 어닝 드라이버다.\n\nTSLA가 6월 -14% 하락한 상황에서 7월 2일 인도 발표는 단순한 대수 집계 이상이다. 컨센서스 달성 + 에너지 스토리지 서프라이즈 조합이 나온다면 기관 매수세 복귀를 촉발할 잠재적 반등 기폭제가 된다. 반대로 미달 시 추가 하락 리스크가 있다. 7월 22일 확정 실적 발표 전까지, 인도 수치는 시장이 테슬라 방향성을 재조정하는 첫 번째 구체적 데이터다.",
+      "href": "https://www.notateslaapp.com/news/4363/tesla-releases-q2-2026-analyst-delivery-consensus",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Teslarati",
+        "Electrek"
+      ],
+      "sentiment": "neutral",
+      "hot": 6,
+      "title_en": "Tesla Releases Q2 Official <em>406K</em> Delivery Consensus — JPMorgan Cuts, Energy Storage +57%",
+      "hotShort_en": "TSLA Q2 delivery: <em>406K</em> consensus, D-3",
+      "body_en": "Tesla published its official Q2 2026 delivery analyst consensus — 406,024 vehicles total (392,646 Model 3/Y + 12,978 other), with the delivery report due July 2. JPMorgan's Rajat Gupta lowered his estimate from 430,500 to 420,000 units while Goldman Sachs (420K), Barclays (418K), and Morgan Stanley (413K) cluster at the upper end; but the real earnings wildcard is energy storage, where the 13.8 GWh consensus — up 57% from Q1's 8.8 GWh — signals Megapack momentum that delivery counts alone do not capture.",
+      "summary_en": "Tesla's official Q2 2026 delivery consensus sets the Wall Street midpoint at 406,024 vehicles: 392,646 Model 3/Y and 12,978 of other models including Cybertruck, Model S/X, and the Tesla Semi. For comparison, Tesla delivered 336,681 vehicles in Q1 2026; the consensus implies approximately 20.6% sequential growth if achieved. The delivery report is expected on or around July 2, ahead of the full earnings call on July 22.\n\nIndividual analyst estimates cluster toward the upper end of the distribution. Goldman Sachs (420K), Barclays (418K), and Morgan Stanley (413K) each sit above the consensus midpoint, citing strong European registration trends and sequential China improvement. JPMorgan's Rajat Gupta is the notable exception: his team revised the Q2 estimate down from 430,500 to 420,000 units, citing mixed EV demand signals. UBS holds at 405,000 vehicles with a Neutral rating and a $364 price target. With the spread between top and bottom estimates at roughly 15,000 units, a modest delivery beat is already partially priced in — making energy storage the real swing factor for investor sentiment.\n\nEnergy storage is Q2's most underappreciated variable. The consensus estimate of 13.8 GWh compares to 8.8 GWh deployed in Q1 — a 57% sequential jump. Tesla's energy storage business, anchored by the Megapack utility battery system, carries structurally higher margins than vehicles. In an environment of falling lithium and other battery raw material costs, Megapack margin expansion is an earnings driver that never shows up in delivery headlines. If Q2 energy storage lands at or above 13.8 GWh, it could be the decisive factor lifting Tesla's overall operating margin for the quarter even if vehicle deliveries are at or only slightly above consensus.\n\nFor shareholders, July 2 delivery day is the first hard data point in a month that has seen TSLA lose more than 14%. A consensus vehicle beat combined with an energy storage upside surprise would set up a meaningful re-rating toward the July 22 earnings call. A delivery miss, conversely, risks another leg lower before fundamentals have a chance to speak. Either way, Thursday's number is the most important single data release for TSLA sentiment before end of July."
     },
     {
       "category": "musk",
@@ -2135,26 +2186,6 @@
       "href": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-21T04:00:52.000Z",
-      "title": "FT \"머스크 '<em>너희는 끝났다</em>' 예언에 — 유럽 우주 업계 정면 반격\"",
-      "hotShort": "유럽 우주 업계, 머스크 '<em>끝났다</em>' 예언에 반격",
-      "body": "파이낸셜 타임스: '너희는 끝났다(You're dead)'는 머스크의 예언에 유럽 우주 기업들이 공개 반격에 나섰다 — 스페이스X가 장악한 발사체 시장에서 유럽 업계가 생존 의지를 공식 선언하며 경쟁 구도가 공개 대결로 번졌다.",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "musk-europe-space-fight-back-prophecy-2026-06-21",
-      "summary": "파이낸셜 타임스에 따르면 유럽 우주 기업들이 머스크의 '너희는 끝났다(You're dead)' 예언에 공개적으로 반격하며 경쟁 의지를 선언했다. 스페이스X는 팰컨9 재사용 기술로 글로벌 상업 발사체 비용을 획기적으로 낮추며 시장 지배자로 자리잡았고, 이 과정에서 아리안스페이스 등 유럽 발사체 업체들은 점유율과 가격 경쟁력에서 심각한 압박을 받아왔다.\n\n유럽의 반격은 스페이스X 독점 구도에 대한 정치·산업적 저항을 의미한다. 유럽우주국(ESA)과 유럽 발사체 업체들은 차세대 경쟁력 확보를 위한 재사용 기술 개발과 정부 지원 강화를 추진해왔으며, 이번 FT 보도는 유럽 내 대응이 공개 성명 단계로 본격화됐음을 시사한다.\n\n테슬라 주주 관점에서, 스페이스X가 국제 경쟁 대결의 중심에 서는 것은 양면적이다. 시장 지배력이 글로벌 도전을 불러올 만큼 강력하다는 방증인 동시에, 국제 규제·외교 마찰이 복합적으로 심화될 경우 머스크의 경영 집중도와 자원 배분에 영향을 줄 수 있다.",
-      "title_en": "FT: Europe's space industry <em>fights back</em> against Musk's \"you're dead\" prophecy",
-      "hotShort_en": "Europe hits back at <em>Musk's prophecy</em>",
-      "body_en": "The Financial Times reports that European space companies are pushing back against Elon Musk's \"you're dead\" prophecy — publicly asserting their intent to survive in a launch market that SpaceX has come to dominate.",
-      "summary_en": "The Financial Times reports that European space companies are mounting a public challenge to Musk's declaration that they are finished as competitors. SpaceX's reusable Falcon 9 technology dramatically reduced commercial launch costs, eroding the market position of European incumbents like Arianespace and placing intense pressure on their pricing and order books.\n\nEurope's pushback signals a political and industrial resistance to SpaceX's growing dominance. The European Space Agency (ESA) and associated launch operators have been investing in next-generation reusable vehicle programs to reclaim competitiveness, and the FT's coverage indicates that European counteraction has reached the stage of public statements and coordinated industry responses.\n\nFor Tesla shareholders, the dynamic is double-edged. SpaceX's dominance being large enough to draw international pushback is a mark of genuine competitive strength. However, sustained international friction — regulatory, diplomatic, or competitive — adds complexity to Musk's multi-company management and could become a distraction from Tesla's own operational priorities.",
-      "href": "https://www.ft.com/content/40f95cf8-3a94-4a57-a02c-f67023b9447f",
-      "sentiment": "neutral",
-      "hot": 4
     }
   ]
 }
