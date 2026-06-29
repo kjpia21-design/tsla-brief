@@ -382,6 +382,12 @@ const STALE_PRICE_HOURS = 24;
 // 카드 텍스트 필드 선택 — 영어 빌드(lang="en")면 `<base>_en` 사용(없으면 한글 폴백). ko 면 항상 한글.
 function fld(c, base, lang) { return (lang === "en" ? (c[base + "_en"] || c[base]) : c[base]) || ""; }
 
+// 핫뉴스 동일사건 dedup — 제목 핵심 토큰이 3개+ 겹치면 같은 사건으로 보고 1건만 노출.
+//   LLM 클러스터링이 놓치거나(다른 slug·날짜) 수동 카드가 겹쳐도, 핫뉴스엔 같은 사건이 2개 안 뜨게 하는 최종 안전망.
+const HOT_STOP = new Set(["테슬라","tesla","tesla's","fsd","시작","공식","발표","및","속","의","를","이","가","에","로","the","a","an","to","of","on","in","for","begins","starts","new"]);
+const titleKeyToks = (s) => new Set(((s || "").replace(/<[^>]+>/g, "").toLowerCase().match(/[가-힣a-z0-9.]{2,}/g) || []).filter((t) => !HOT_STOP.has(t)));
+const sameStory = (a, b) => { let n = 0; a.forEach((t) => { if (b.has(t)) n++; }); return n >= 3; };
+
 function renderHotNews(cards, lang = "ko") {
   const hotOf = (c) => (typeof c.hot === "number" ? c.hot : 5);
   const byHot = (a, b) => (hotOf(b) - hotOf(a)) || (Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
@@ -410,19 +416,27 @@ function renderHotNews(cards, lang = "ko") {
   // 카테고리 다양성 — 한 카테고리 최대 MAX_PER_CAT 개(최소 2개+ 카테고리 보장, JP 요청 2026-06-15).
   //   부정(bear) 도 MAX_NEG 로 제한. 둘 다 cap 초과분은 spill 로 빠졌다가, 카드가 부족할 때만 보충(억지 다양성 X).
   const TOP = 5, MAX_NEG = 3, MAX_PER_CAT = 3;
-  const top = [], spill = [];
+  const top = [], spill = [], topToks = [];   // topToks: 선정 카드 제목 핵심토큰(동일사건 dedup)
   let neg = 0;
   const catCount = {};
+  // 같은 사건이면 null, 새 사건이면 그 제목 토큰 Set 반환.
+  const freshToks = (c) => { const ct = titleKeyToks(fld(c, "title", lang)); return topToks.some((st) => sameStory(ct, st)) ? null : ct; };
   for (const c of ranked) {
     if (top.length >= TOP) break;
     const cat = c.category || "stock";
     const overCat = (catCount[cat] || 0) >= MAX_PER_CAT;
     const overNeg = c.sentiment === "bear" && neg >= MAX_NEG;
-    if (overCat || overNeg) { spill.push(c); continue; }
-    top.push(c); catCount[cat] = (catCount[cat] || 0) + 1;
+    const ct = freshToks(c);                   // 이미 선정된 것과 같은 사건이면 null
+    if (overCat || overNeg || !ct) { spill.push(c); continue; }
+    top.push(c); topToks.push(ct); catCount[cat] = (catCount[cat] || 0) + 1;
     if (c.sentiment === "bear") neg += 1;
   }
-  for (const c of spill) { if (top.length >= TOP) break; top.push(c); }  // 카드 자체 부족 시에만 cap 무시 보충
+  for (const c of spill) {                      // 카드 부족 시 보충 — 단 동일사건은 계속 건너뜀
+    if (top.length >= TOP) break;
+    const ct = freshToks(c);
+    if (!ct) continue;
+    top.push(c); topToks.push(ct);
+  }
   top.sort(byHot);  // 선정된 5건을 hot 순으로 표시
   const items = top.map((c) => {
     const cls = CATEGORY_CLASS[c.category] || "is-stock";

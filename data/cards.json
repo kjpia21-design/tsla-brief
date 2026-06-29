@@ -15,9 +15,13 @@
       "summary": "테슬라가 2026년 6월 29일, HW3(하드웨어 3) 차량용 FSD v14 Lite 첫 번째 펌웨어(2026.20.5.1)를 얼리 액세스 고객에게 배포하기 시작했다. 아쇽 엘루스와미(Tesla AI 책임자)가 전날 배포를 공식 확인한 지 하루 만의 실제 출시다. HW3 차량이 마지막으로 FSD 업데이트를 받은 건 2025년 4월 — 14개월이 넘는 공백 끝에 이번 업데이트가 이뤄졌다.\n\nv14 Lite의 핵심 신규 기능은 세 가지다. ① Arrival Options — 목적지 도착 전에 FSD가 주차할 위치(주차장·도로변·진입로·커브 중)를 미리 선택할 수 있다. ② Speed Profile SLOTH — 기존 Chill보다 낮은 속도와 더 보수적인 차로 선택을 제공하는 신규 주행 모드로, 교통 상황이 복잡한 환경에서 유용하다. ③ 합류·보행자 상호작용·신호등·끼어들기 반응성 전반 개선. 주차·출차·후진 지원도 강화됐다.\n\n약 400만 대의 HW3 차량이 최종 배포 대상이다. 현재는 얼리 액세스 고객을 시작으로 수주 내 전체 HW3 오너로 확대될 예정이다. v14 Lite는 FSD 슈퍼바이즈드(레벨 2) 체계를 유지해 운전자 주의가 여전히 필수이며, HW3의 연산·카메라 한계로 무인 로보택시 운행은 지원하지 않는다.\n\n주주 관점에서 이번 배포는 두 가지 의미다. 첫째, HW3 오너의 FSD 구독 이탈 리스크를 낮추고 구독 기반을 유지한다. 둘째, 400만 대 규모의 신규 주행 데이터를 v14 신경망 훈련에 활용해 소프트웨어 개선 속도를 높일 수 있다. 테슬라가 HW3에 레벨 2 FSD를 계속 지원함으로써, HW4 업그레이드 전까지 이 고객군을 생태계 안에 붙들어 두는 전략적 포석이기도 하다.",
       "href": "https://www.teslaoracle.com/2026/06/29/tesla-starts-the-rollout-of-fsd-v14-lite-2026-20-5-1-for-hw3-owners-official-release-notes-rollout-status/",
       "confirmedBy": 3,
-      "confirmingSources": ["Tesla Oracle", "Not a Tesla App", "Teslarati"],
+      "confirmingSources": [
+        "Ashok Elluswamy (X)",
+        "Tesla Oracle",
+        "Teslarati"
+      ],
       "sentiment": "bull",
-      "hot": 7,
+      "hot": 9,
       "title_en": "Tesla Ships FSD v14 Lite (2026.20.5.1) to HW3 — <em>4 Million Cars</em>, First Update in 14 Months",
       "hotShort_en": "Tesla ships FSD v14 Lite to <em>4M HW3 cars</em>",
       "body_en": "Tesla began rolling out FSD v14 Lite (firmware 2026.20.5.1) to early-access Hardware 3 vehicles on June 29 — the first FSD update for HW3 in over 14 months, with roughly 4 million vehicles eventually in scope. New features include Arrival Options (pre-selecting a parking destination before arrival) and the SLOTH Speed Profile, a more conservative driving mode than existing Chill; the rollout expands to all HW3 owners over the coming weeks.",
@@ -37,7 +41,11 @@
       "summary": "머스크는 올해 들어 xAI·SpaceX·Tesla 트라이앵글 외에도 AI 인프라 레이어에서 M&A를 확대하는 행보를 보이고 있다. Mesh Optical Technologies는 그 흐름의 일환이다 — SpaceX 내부 광통신 전문가들이 독립해 창업한 이 스타트업은, 2026년 2월 Thrive Capital·Also Capital·Banner VC로부터 $5천만 시리즈 A를 유치하며 존재를 드러냈다.\n\n핵심 제품은 Alpha C1 광트랜시버다. 초당 1.6테라비트(1.6 Tbps)의 전기·광 신호 변환 처리 속도는 기존 데이터센터 광통신 모듈보다 월등히 높으며, AI 가속기(GPU 클러스터)들 사이의 고속 데이터 교환에 최적화됐다. 거대 AI 모델 훈련은 수만 개의 GPU가 초저지연으로 통신해야 하므로, 광트랜시버 성능은 AI 인프라 병목 중 하나로 부상했다.\n\nFTC는 6월 25일 반독점 검토를 조기 완료해 인수를 승인했다 — 경쟁 우려가 없다고 판단한 것이다. 인수 가격은 양측 모두 공개하지 않았다. 머스크 측의 Mesh 인수는 xAI 데이터센터(현재 멤피스 슈퍼클러스터 확장 중)와 SpaceX 스타링크 지상국의 광통신 역량 강화에 활용될 것으로 분석된다.\n\n테슬라 주주 관점에서 Mesh 인수의 직접 영향은 제한적이다. 그러나 xAI가 강화된 AI 인프라를 기반으로 Tesla FSD 훈련 파이프라인에 더 많은 컴퓨팅을 공급할 수 있다면, 간접적인 기여가 될 수 있다. 반면 머스크의 또 다른 M&A 활동이 Tesla 경영에서의 시간·에너지 분산을 심화한다는 우려도 지속된다.",
       "href": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
       "confirmedBy": 3,
-      "confirmingSources": ["Bloomberg", "TechCrunch", "DataCenterDynamics"],
+      "confirmingSources": [
+        "Bloomberg",
+        "TechCrunch",
+        "DataCenterDynamics"
+      ],
       "sentiment": "neutral",
       "hot": 4,
       "title_en": "FTC Clears Musk's Acquisition of AI Optical Startup <em>Mesh Optical</em>",
@@ -59,7 +67,10 @@
       "summary": "테슬라가 사이버캡 생산을 위해 도입한 '언박스드(Unboxed)' 공정은 차체 전체를 순차 조립하는 전통 방식 대신, 차량의 대형 하위 조립품을 병렬로 완성한 뒤 최종 결합하는 방식이다. 이론상 공장 바닥 면적을 줄이고 여러 조립 흐름을 동시에 운용할 수 있어, 램프업(생산 속도 증가) 초기에 속도를 내기 유리하다. 테슬라는 2026년 초 기가 텍사스에서 사이버캡 첫 양산 라인을 가동했다.\n\n드론 촬영으로 포착된 스테이징 수는 빠르게 증가했다 — 5월 말 약 60대 → 수주 뒤 85대 → 이번 100대+. 가장 최근 수치로는 120대가 한 프레임에 포착됐다는 보고도 있다. 스테이징 구역에 완성 차량이 쌓인다는 것은 조립 속도가 즉각적인 인도 수요를 앞서고 있다는 신호이기도 하다.\n\n현재 오스틴 로보택시 서비스에는 약 20대의 사이버캡이 운용 중이다. NHTSA의 2,500대 비감독 운행 상한 제한이 풀리기 전까지 서비스 규모 확장은 제한적이지만, 스테이징 물량이 쌓이는 것은 규제 승인 후 빠르게 플리트를 늘릴 준비가 되고 있음을 의미한다. 라스베이거스 5,000대 허가 신청 등 지리적 확장도 동시에 진행 중이다.\n\n주주 관점에서 사이버캡 생산 램프업은 테슬라 로보택시 밸류에이션의 핵심 가정 중 하나다. 생산이 실제로 가시적으로 증가하고 있다는 드론 증거는 단순한 발표가 아닌 물리적 진전의 증명으로, 스케줄에 대한 신뢰도를 높이는 역할을 한다.",
       "href": "https://www.notateslaapp.com/news/4299/over-100-tesla-cybercabs-spotted-staging-at-giga-texas",
       "confirmedBy": 2,
-      "confirmingSources": ["Not a Tesla App", "Teslarati"],
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Teslarati"
+      ],
       "sentiment": "bull",
       "hot": 5,
       "title_en": "Over <em>100 Cybercabs</em> Spotted Staging at Giga Texas — Unboxed Ramp Accelerates",
@@ -81,7 +92,12 @@
       "summary": "2020년대 들어 자율주행 기술의 최대 걸림돌 중 하나는 규제 파편화였다. 영국·독일·일본·미국은 저마다 다른 인증 기준을 요구해, 테슬라가 FSD를 유럽에서 허가받으려면 국가마다 개별 형식 인증(Type Approval)을 거쳐야 했다. 기존 UN R157(ALKS)은 고속도로·시속 60㎞ 이하·교통 정체라는 극히 좁은 조건에서의 레벨 3만 허용해, 모든 도로·전 속도 구간을 커버하는 테슬라 FSD와는 사실상 맞지 않았다.\n\n6월 24일 UNECE WP.29(세계 차량 규정 조화 포럼)가 채택한 신규 규제는 이 구조를 근본적으로 바꾼다. 핵심은 '결과 기반'(outcome-based) 접근이다 — 특정 기술 사양 대신 숙련 인간 운전자 이상의 안전 성과를 입증하면 인증 문이 열린다. 제조사는 차량 전 생애 주기에 걸친 감사 가능한 안전 관리 시스템도 구축해야 한다. 승인 적용 국가는 EU·캐나다·일본·영국·중국·미국을 포함해 50~60개국이다.\n\n테슬라에 이 규제가 특히 유리한 이유는 두 가지다. 첫째, 결과 기반 프레임워크는 테슬라의 카메라 단독·신경망 방식에 유리하다 — 특정 하드웨어 경로를 명시하지 않기 때문이다. 둘째, 단 1회 인증 통과로 50개국 이상에서 동시에 운행 허가가 인정된다 — 나라마다 반복해야 했던 수년 단위의 규제 대응 비용·시간이 대폭 절감된다. 테슬라는 이미 4월 네덜란드 RDW에서 FSD 첫 유럽 인증을 받아 이 프레임워크 활용의 기반을 닦은 상태다.\n\n주주 관점에서 이 규제는 테슬라 로보택시 밸류에이션에 붙는 '규제 파편화 할인'을 구조적으로 줄인다. 각국의 국내법 편입 시점과 테슬라의 실제 인증 완료 일정은 추가 진행 상황을 지켜봐야 하지만, 방향성 자체는 FSD·로보택시 글로벌 확장에 명확한 순풍이다.",
       "href": "https://unece.org/sustainable-development/press/un-announces-global-regulation-facilitate-safe-introduction-self",
       "confirmedBy": 4,
-      "confirmingSources": ["UNECE", "UN News", "Highways News", "Not a Tesla App"],
+      "confirmingSources": [
+        "UNECE",
+        "UN News",
+        "Highways News",
+        "Not a Tesla App"
+      ],
       "sentiment": "bull",
       "hot": 9,
       "title_en": "UN Adopts World's First Unified AV Regulation — Tesla FSD Gains <em>Single Global Approval Path</em>",
@@ -103,7 +119,10 @@
       "summary": "테슬라가 6월 5일 네바다 교통청(Nevada Transportation Authority)에 제출한 허가 신청서(문서 번호 26-05015)는, 클락 카운티 전역 — 라스베이거스 스트립·시내·해리 리드 국제공항·헨더슨 이그제큐티브 공항 포함 — 에서 향후 12개월 내 최대 5,000대의 자율주행 차량을 운행할 수 있도록 허가해 달라는 내용이다. 현재 오스틴 서비스에 약 20대가 운용 중인 것과 비교하면 250배에 달하는 규모다.\n\n라스베이거스는 로보택시 운용 최적 환경 중 하나로 꼽힌다. 연간 4,200만 명 이상이 방문하는 글로벌 관광 도시이며, 공항-스트립-컨벤션센터 등 로보택시 수요가 집중되는 포인트 간 거리가 짧고 고속도로·격자형 도로 구조가 자율주행에 유리하다. 해리 리드 공항 포함은 특히 중요한데, 공항 픽업·드롭오프 서비스는 라이드헤일링 수익의 핵심이다.\n\n허가 신청과 동시에 NHTSA가 테슬라 FSD의 카메라 전용 방식에 대한 엔지니어링 분석(Engineering Analysis)을 진행 중이라는 점은 주목할 변수다. NHTSA 분석은 강제 리콜 전 단계로, 향후 결론에 따라 무인 운행 인가 범위에 영향을 줄 수 있다. 테슬라는 규제 압박과 병행해 지리적 확장을 계속 밀어붙이는 전략을 구사하고 있다.\n\n주주 관점에서 라스베이거스 허가 신청은 테슬라의 로보택시 사업이 오스틴 단일 도시 실험을 넘어 대규모 상업 서비스로 이행하는 구체적 계획이 존재함을 보여준다. 허가 승인 시점과 실제 5,000대 인도 일정은 별도로 확인이 필요하지만, 규제 승인이 나는 즉시 빠르게 플리트를 늘릴 준비를 동시에 진행 중이라는 신호다.",
       "href": "https://www.techtimes.com/articles/318498/20260616/tesla-seeks-5000-las-vegas-robotaxi-slots-camera-tech-under-federal-probe.htm",
       "confirmedBy": 2,
-      "confirmingSources": ["TechTimes", "Teslarati"],
+      "confirmingSources": [
+        "TechTimes",
+        "Teslarati"
+      ],
       "sentiment": "bull",
       "hot": 6,
       "title_en": "Tesla Files for <em>5,000-Vehicle</em> Robotaxi Permit in Las Vegas — Harry Reid Airport Included",
