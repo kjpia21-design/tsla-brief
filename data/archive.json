@@ -200,32 +200,6 @@
       "summary_en": "Bloomberg's feature arrives at a year when robotaxi operations have quietly spread beyond a handful of U.S. cities to include commercial or pilot services in Croatia, Singapore, Dubai, Abu Dhabi, and Riyadh, with London potentially next. The headline statistic — a fleet doubling year-on-year to 18,000 vehicles — masks how hard it remains to scale from proof-of-concept to a meaningful share of urban mobility.\n\nWaymo is the sector's clearest benchmark: the Alphabet unit is the only provider of a fully driverless paid service in the U.S., with no in-vehicle human backup. Its annualized revenues crossed $350 million in early 2026, and the company has announced plans to expand across America — San Diego, Washington D.C., and additional cities before year-end. Tesla's Robotaxi fleet covers Austin's full 245-square-mile metro area with about 20 vehicles, plus newer expansions in Dallas and Houston launched in April.\n\nChina's operators — Baidu Apollo Go, WeRide, and Pony AI — collectively outpace their American rivals in the number of cities with active deployments, and they are simultaneously building operations in Dubai, Abu Dhabi, Singapore, Germany, and the U.K. But the rollout hit a visible snag in March when more than 100 Baidu Apollo Go vehicles froze simultaneously on Wuhan overpasses; China subsequently halted new robotaxi license issuance while the incident was investigated.\n\nFor Tesla shareholders, the Bloomberg assessment underlines both opportunity and risk. Tesla's end-to-end AI approach avoids the city-by-city lidar mapping costs that weigh on competitors, which Tesla argues enables faster geographic scaling. But the subtitle — \"Why Waymo, Tesla, Baidu and Others Face Continued Challenges\" — is a useful reminder that no single player has broken decisively ahead in the race to make robotaxis a mainstream option."
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
-      "pubDate": "2026-06-28T12:00:00.000Z",
-      "title": "테슬라, Q2 인도 공식 컨센서스 <em>406K</em> 공개 — JP모건 소폭 하향, 에너지 +57%",
-      "hotShort": "Q2 인도 <em>406K</em> D-3 — 에너지 스토리지 +57%",
-      "body": "테슬라가 Q2 2026 공식 인도 컨센서스를 공개했다 — 총 406,024대(모델 3/Y 392,646 + 기타 12,978), 발표 D-3(7월 2일). JP모건(라잣 굽타)이 430,500→420,000대로 하향하는 등 기관 예상치가 405~420K로 수렴하는 가운데, 에너지 스토리지 13.8GWh(Q1 8.8GWh 대비 +57%)가 차량 대수보다 마진에 더 큰 영향을 줄 핵심 어닝 변수로 부각됐다.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "stock-q2-delivery-consensus-406k-2026-06-29",
-      "summary": "테슬라가 공식 발표한 Q2 2026 인도 컨센서스는 2분기 실적을 앞두고 월가의 기대치를 하나의 표로 정리한 것이다. 총 406,024대(모델 3/Y 392,646대 + 사이버트럭·모델 S/X·세미 등 기타 12,978대)가 컨센서스 중앙값이다. 비교 기준: Q1 2026 인도는 336,681대였으므로 컨센서스 실현 시 QoQ +20.6% 성장이다.\n\n개별 기관 예상치는 대체로 컨센서스 상단에 몰려 있다. 골드만삭스(420K)·바클레이스(418K)·모건스탠리(413K)는 유럽·중국 판매 강세를 이유로 상단에 위치한다. JP모건 라잣 굽타 애널리스트는 430,500대에서 420,000대로 하향 조정하며 혼조된 EV 수요 신호를 이유로 들었다. UBS는 405,000대 추정에 중립 의견·목표주가 $364를 유지했다. 상단과 하단 예상치 격차가 15K 수준으로 좁아 차량 대수 서프라이즈 폭은 제한적일 전망이다.\n\n에너지 스토리지가 이번 Q2의 숨겨진 변수다. 컨센서스 13.8GWh는 Q1 8.8GWh 대비 57% 급증한 수치다. 테슬라의 에너지 스토리지 사업(메가팩·파워월)은 차량 판매보다 마진율이 높아, 실제 수치가 컨센서스를 웃돌면 2분기 전체 영업 마진을 끌어올릴 여지가 있다. 배터리 원자재 가격 하락이 계속되는 환경에서 메가팩 마진 확대 여지는 일반에 잘 알려지지 않은 어닝 드라이버다.\n\nTSLA가 6월 -14% 하락한 상황에서 7월 2일 인도 발표는 단순한 대수 집계 이상이다. 컨센서스 달성 + 에너지 스토리지 서프라이즈 조합이 나온다면 기관 매수세 복귀를 촉발할 잠재적 반등 기폭제가 된다. 반대로 미달 시 추가 하락 리스크가 있다. 7월 22일 확정 실적 발표 전까지, 인도 수치는 시장이 테슬라 방향성을 재조정하는 첫 번째 구체적 데이터다.",
-      "href": "https://www.notateslaapp.com/news/4363/tesla-releases-q2-2026-analyst-delivery-consensus",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "Teslarati",
-        "Electrek"
-      ],
-      "sentiment": "neutral",
-      "hot": 6,
-      "title_en": "Tesla Releases Q2 Official <em>406K</em> Delivery Consensus — JPMorgan Cuts, Energy Storage +57%",
-      "hotShort_en": "TSLA Q2 delivery: <em>406K</em> consensus, D-3",
-      "body_en": "Tesla published its official Q2 2026 delivery analyst consensus — 406,024 vehicles total (392,646 Model 3/Y + 12,978 other), with the delivery report due July 2. JPMorgan's Rajat Gupta lowered his estimate from 430,500 to 420,000 units while Goldman Sachs (420K), Barclays (418K), and Morgan Stanley (413K) cluster at the upper end; but the real earnings wildcard is energy storage, where the 13.8 GWh consensus — up 57% from Q1's 8.8 GWh — signals Megapack momentum that delivery counts alone do not capture.",
-      "summary_en": "Tesla's official Q2 2026 delivery consensus sets the Wall Street midpoint at 406,024 vehicles: 392,646 Model 3/Y and 12,978 of other models including Cybertruck, Model S/X, and the Tesla Semi. For comparison, Tesla delivered 336,681 vehicles in Q1 2026; the consensus implies approximately 20.6% sequential growth if achieved. The delivery report is expected on or around July 2, ahead of the full earnings call on July 22.\n\nIndividual analyst estimates cluster toward the upper end of the distribution. Goldman Sachs (420K), Barclays (418K), and Morgan Stanley (413K) each sit above the consensus midpoint, citing strong European registration trends and sequential China improvement. JPMorgan's Rajat Gupta is the notable exception: his team revised the Q2 estimate down from 430,500 to 420,000 units, citing mixed EV demand signals. UBS holds at 405,000 vehicles with a Neutral rating and a $364 price target. With the spread between top and bottom estimates at roughly 15,000 units, a modest delivery beat is already partially priced in — making energy storage the real swing factor for investor sentiment.\n\nEnergy storage is Q2's most underappreciated variable. The consensus estimate of 13.8 GWh compares to 8.8 GWh deployed in Q1 — a 57% sequential jump. Tesla's energy storage business, anchored by the Megapack utility battery system, carries structurally higher margins than vehicles. In an environment of falling lithium and other battery raw material costs, Megapack margin expansion is an earnings driver that never shows up in delivery headlines. If Q2 energy storage lands at or above 13.8 GWh, it could be the decisive factor lifting Tesla's overall operating margin for the quarter even if vehicle deliveries are at or only slightly above consensus.\n\nFor shareholders, July 2 delivery day is the first hard data point in a month that has seen TSLA lose more than 14%. A consensus vehicle beat combined with an energy storage upside surprise would set up a meaningful re-rating toward the July 22 earnings call. A delivery miss, conversely, risks another leg lower before fundamentals have a chance to speak. Either way, Thursday's number is the most important single data release for TSLA sentiment before end of July."
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "4h ago",
@@ -1112,26 +1086,6 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-24T17:03:37.000Z",
-      "title": "블룸버그 — NTSB, 텍사스 치명 테슬라 충돌 <em>연방 안전 조사</em> 개시",
-      "hotShort": "NTSB, 텍사스 테슬라 충돌에 <em>연방 조사</em> 착수",
-      "body": "미국 국가교통안전위원회(NTSB)가 텍사스 케이티에서 발생한 76세 여성 사망 테슬라 충돌 사건에 대해 연방 안전 조사를 공식 개시했다고 블룸버그가 보도했다 — 민사 소송에 이어 독립 연방 기관의 조사까지 더해지며 FSD 안전성 규명 압박이 복수 전선으로 확대됐다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "fsd-ntsb-texas-crash-investigation-2026-06-24",
-      "summary": "NTSB(국가교통안전위원회)는 항공·도로·철도 사고의 원인을 규명하는 독립 연방 기관으로, 규제 권한은 없지만 조사 결과로 업계 안전 기준 변화를 이끌어온 기관이다. 이번 조사 대상은 6월 21일 텍사스 케이티에서 테슬라 차량이 FSD 모드로 주행하던 중 76세 여성의 자택에 충돌해 사망에 이른 사건이다. 블룸버그에 따르면 NTSB가 이 사건에 대해 공식 안전 조사를 개시했다.\n\nNTSB 조사는 이미 진행 중인 두 가지 절차와 병행된다. 유가족은 FSD 설계 결함을 주장하는 민사 소송을 제기했으며, NHTSA도 별도 규제 조사를 진행 중이다. 세 기관(NTSB·NHTSA·민사법원)이 같은 사건을 동시에 들여다보는 구도는 이 사고가 FSD 안전성 논쟁에서 얼마나 중요한 위치를 차지하는지를 반영한다.\n\nNTSB 조사 과정에서는 차량의 이벤트 데이터 레코더, FSD 소프트웨어 로그, 센서 기록 등 기술 데이터 분석이 이뤄진다. 최종 보고서는 수개월 후 공개되며, FSD 기능이 사고에 어떻게 작용했는지에 대한 가장 공식적이고 독립적인 기술 분석이 될 전망이다.\n\n테슬라 주주에게 NTSB 조사는 단기 주가 촉매보다 중기 규제 리스크 변수다. 보고서가 FSD의 시스템 결함을 공식 확인할 경우 리콜 명령·안전 기준 강화·FSD 배포 속도에 영향을 줄 수 있다. 반대로 드라이버 과실이 주요 원인으로 결론날 경우 테슬라의 기존 법적 방어 논리가 강화될 수 있다.",
-      "title_en": "Bloomberg: NTSB opens <em>federal safety investigation</em> into deadly Texas Tesla crash",
-      "hotShort_en": "NTSB opens <em>federal probe</em> into fatal Texas Tesla crash",
-      "body_en": "The National Transportation Safety Board has officially launched a federal safety investigation into the June 21 Tesla crash in Katy, Texas, that killed a 76-year-old woman, Bloomberg reports — adding independent federal scrutiny to an incident already facing a civil lawsuit and a separate NHTSA regulatory probe, as pressure on Tesla's FSD system mounts across multiple legal and regulatory fronts.",
-      "summary_en": "The NTSB is an independent federal agency tasked with investigating transportation accidents to determine probable cause. Unlike NHTSA, which has regulatory enforcement authority, the NTSB does not issue regulations or mandate recalls — but its findings carry significant weight in shaping industry safety standards and frequently inform subsequent regulatory actions. Bloomberg reports the agency has formally opened an investigation into the June 21 crash in Katy, Texas.\n\nThe crash involved a Tesla vehicle operating in FSD mode that drove into the home of a 76-year-old woman, resulting in her death. The incident is now subject to three parallel proceedings: a civil lawsuit filed by the victim's family alleging an FSD design defect, a NHTSA regulatory probe, and this new NTSB federal safety investigation. The simultaneous attention from three distinct bodies underscores how significant this incident is viewed across regulatory and legal circles.\n\nThe NTSB investigation will involve technical analysis of the vehicle's event data recorder, FSD software event logs, and sensor data from the time of the crash. Its findings — typically published months after the incident — will represent the most independent and technically rigorous public accounting of how the FSD system behaved at the moment of impact.\n\nFor Tesla shareholders, the NTSB investigation represents a medium-term regulatory overhang rather than an immediate financial risk. The outcome will shape the regulatory narrative around FSD safety at a time when Tesla is simultaneously expanding FSD deployment and advancing its Cybercab robotaxi launch timeline — making the findings directly relevant to the company's core autonomous driving story.",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-24/ntsb-launches-investigation-into-deadly-tesla-crash-in-texas",
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
       "time": "2h ago",
       "pubDate": "2026-06-24T15:00:01.000Z",
       "title": "CNBC — 아마존 Zoox, <em>리디자인 로보택시</em> 공개·서비스 확대 예고",
@@ -1353,33 +1307,6 @@
       "href": "https://apnews.com/article/spacex-cursor-acquisition-vibe-coding-a5c60fcbaaca262cf107d30f1de899ef",
       "sentiment": "neutral",
       "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5d ago",
-      "pubDate": "2026-06-24T00:00:00.000Z",
-      "title": "UN, 세계 최초 자율주행 통합 규제 채택 — 테슬라 FSD·로보택시 <em>글로벌 단일 인증</em> 경로 열려",
-      "hotShort": "UN 자율주행 규제 채택 — FSD <em>단일 인증 경로</em> 개방",
-      "body": "유엔 유럽경제위원회(UNECE)가 6월 24일 세계 최초의 통합 자율주행 규제를 채택했다 — EU·미국·일본·중국 등 50~60개국에서 단 1회 인증으로 운행 허가가 유효한 경로가 처음 열렸다. 결과 기반 '세이프티 케이스' 프레임워크는 테슬라의 신경망 설계와 정렬돼, FSD·로보택시 국제 확장의 최대 규제 장벽이 구조적으로 해소됐다.",
-      "sourceName": "UNECE",
-      "sourceLabel": "official",
-      "slug": "fsd-unece-global-av-regulation-2026-06-24",
-      "summary": "2020년대 들어 자율주행 기술의 최대 걸림돌 중 하나는 규제 파편화였다. 영국·독일·일본·미국은 저마다 다른 인증 기준을 요구해, 테슬라가 FSD를 유럽에서 허가받으려면 국가마다 개별 형식 인증(Type Approval)을 거쳐야 했다. 기존 UN R157(ALKS)은 고속도로·시속 60㎞ 이하·교통 정체라는 극히 좁은 조건에서의 레벨 3만 허용해, 모든 도로·전 속도 구간을 커버하는 테슬라 FSD와는 사실상 맞지 않았다.\n\n6월 24일 UNECE WP.29(세계 차량 규정 조화 포럼)가 채택한 신규 규제는 이 구조를 근본적으로 바꾼다. 핵심은 '결과 기반'(outcome-based) 접근이다 — 특정 기술 사양 대신 숙련 인간 운전자 이상의 안전 성과를 입증하면 인증 문이 열린다. 제조사는 차량 전 생애 주기에 걸친 감사 가능한 안전 관리 시스템도 구축해야 한다. 승인 적용 국가는 EU·캐나다·일본·영국·중국·미국을 포함해 50~60개국이다.\n\n테슬라에 이 규제가 특히 유리한 이유는 두 가지다. 첫째, 결과 기반 프레임워크는 테슬라의 카메라 단독·신경망 방식에 유리하다 — 특정 하드웨어 경로를 명시하지 않기 때문이다. 둘째, 단 1회 인증 통과로 50개국 이상에서 동시에 운행 허가가 인정된다 — 나라마다 반복해야 했던 수년 단위의 규제 대응 비용·시간이 대폭 절감된다. 테슬라는 이미 4월 네덜란드 RDW에서 FSD 첫 유럽 인증을 받아 이 프레임워크 활용의 기반을 닦은 상태다.\n\n주주 관점에서 이 규제는 테슬라 로보택시 밸류에이션에 붙는 '규제 파편화 할인'을 구조적으로 줄인다. 각국의 국내법 편입 시점과 테슬라의 실제 인증 완료 일정은 추가 진행 상황을 지켜봐야 하지만, 방향성 자체는 FSD·로보택시 글로벌 확장에 명확한 순풍이다.",
-      "href": "https://unece.org/sustainable-development/press/un-announces-global-regulation-facilitate-safe-introduction-self",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "UNECE",
-        "UN News",
-        "Highways News",
-        "Not a Tesla App"
-      ],
-      "sentiment": "bull",
-      "hot": 9,
-      "title_en": "UN Adopts World's First Unified AV Regulation — Tesla FSD Gains <em>Single Global Approval Path</em>",
-      "hotShort_en": "UNECE AV rules: one cert, <em>50+ nations</em>",
-      "body_en": "The UN Economic Commission for Europe (UNECE) adopted the world's first unified autonomous vehicle regulation on June 24, opening a single certification pathway valid across 50–60 countries — including the EU, US, Japan, and China. The outcome-based 'Safety Case' framework aligns closely with Tesla's neural-network-driven FSD architecture, removing the largest structural barrier to international Robotaxi scaling.",
-      "summary_en": "For most of the 2020s, the largest drag on global autonomous vehicle deployment has been regulatory fragmentation — not the technology itself. Each major market demanded separate type approvals, test protocols, and liability frameworks. The existing UN R157 (ALKS) standard only authorized a narrow 'Traffic Jam Pilot' on motorways below 60 km/h, a definition wholly mismatched to Tesla's FSD, which targets all speeds and all road types.\n\nThe framework adopted by UNECE's World Forum for Harmonization of Vehicle Regulations (WP.29) on June 24 addresses this directly. Rather than mandating specific sensor configurations or prescribed software behaviors, it demands a demonstrated outcome: autonomous driving performance at or above that of a competent human driver, validated through a structured 'Safety Case.' Manufacturers must also implement auditable safety management systems covering the vehicle's entire operational lifecycle.\n\nThe regulatory scope is historically wide. Signatories include the EU, US, Canada, Japan, the UK, China, and additional states — roughly 50 to 60 countries in total. Earning approval once under this framework provides recognition across all signatory nations simultaneously, collapsing what had been a country-by-country certification grind into a single process. Tesla, which cleared its first European regulatory hurdle via the Dutch RDW in April 2026, is positioned to pursue this global framework from an existing approved foothold.\n\nFor Tesla shareholders, this structurally compresses the timeline and cost of international FSD and Robotaxi expansion — among the most cited discount factors on Tesla's autonomous vehicle valuation. The pace of individual country implementations and Tesla's actual certification timeline remain open questions, but the directional shift is clear: the global regulatory environment for camera-based, neural-network-driven autonomy just moved significantly in Tesla's favor."
     },
     {
       "category": "stock",
