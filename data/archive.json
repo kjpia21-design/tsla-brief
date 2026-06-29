@@ -1,6 +1,33 @@
 {
-  "asOf": "2026-06-30 07:00 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-30 08:00 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-06-29T18:54:59.000Z",
+      "title": "우버·웨이모, 피닉스 로보택시 3년 파트너십 <em>조용히 결별</em> — 우버 새 파트너 발표 예고",
+      "hotShort": "우버·웨이모 피닉스 <em>결별</em> — 새 파트너 미공개",
+      "body": "블룸버그 단독에 따르면 우버와 알파벳 자회사 웨이모가 피닉스에서 3년간의 로보택시 협력을 조용히 종료했다 — 웨이모는 5월에 이미 우버 앱 피닉스 서비스를 종료했다고 확인했으며, 우버는 피닉스에서 새로운 자율주행 파트너와 서비스 재개를 준비 중이라고 밝혔다(파트너 미공개). 오스틴·애틀란타에서는 우버-웨이모 협력이 유지된다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "fsd-uber-waymo-phoenix-split-2026-06-29",
+      "summary": "우버(Uber)와 알파벳(Alphabet) 자회사 웨이모(Waymo)가 2023년부터 3년간 운영해온 피닉스 로보택시 파트너십을 종료했다. 블룸버그 단독 보도에 따르면 웨이모는 5월에 피닉스에서 우버 앱에 통합된 서비스를 종료했으며, 6월 29일 공식 확인했다. 12대 이하의 차량이 투입됐던 제한적 파일럿으로, 종료된 차량들은 웨이모 자체 앱 피닉스 플리트에 재통합됐다.\n\n주목할 점은 우버가 피닉스에서 새로운 자율주행 파트너와 서비스를 곧 출시할 계획임을 밝혔다는 것이다. 파트너 이름은 공개하지 않았다. 업계에서는 Zoox·테슬라·May Mobility 등이 거론된다. 오스틴과 애틀란타에서는 우버-웨이모 파트너십이 그대로 유지되며, 웨이모는 미국 전국 도시 확장 전략을 이어간다.\n\n테슬라 주주 관점에서 이번 변화는 두 가지 측면에서 읽힌다. 긍정: 우버의 새 피닉스 파트너로 테슬라 사이버캡이 선정될 가능성이 열렸다. 테슬라는 현재 오스틴에서 자체 앱으로 로보택시를 운영 중이나, 우버 플랫폼을 통한 수요 확장은 로보택시 이용자 확보를 대폭 가속할 수 있다. 중립: 아직 발표가 없으므로 가능성에 불과하며, 웨이모·Zoox 등 다른 경쟁자도 물망에 오를 수 있다.\n\n웨이모 관점에서 피닉스 파트너십 종료는 자체 앱 비즈니스 모델로의 전환 가속화를 뜻한다. 웨이모는 이미 샌프란시스코·LA·피닉스·오스틴·애틀란타에서 자체 앱 유료 서비스를 운영하며 연간 $3.5억 이상 매출을 올리고 있다. 우버와의 협력이 점차 '쇼케이스'에서 '경쟁'으로 전환되는 국면이다.\n\n피닉스 파트너십 결별은 로보택시 업계의 파트너십 구조가 초기 파일럿 단계에서 상업적 이해관계로 분화되는 전환점이다 — 누가 어느 도시에서, 어떤 파트너를 통해 플리트를 가장 빠르게 늘리느냐가 로보택시 시장 점유를 결정하는 2026년 하반기 경쟁 구도를 예고한다.",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-29/uber-waymo-have-ended-robotaxi-tie-up-in-phoenix-uber-to-announce-new-partner",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Bloomberg",
+        "TechCrunch",
+        "Seeking Alpha",
+        "The Next Web"
+      ],
+      "sentiment": "neutral",
+      "hot": 7,
+      "title_en": "Uber and Waymo quietly <em>end Phoenix robotaxi partnership</em> — Uber to announce new AV partner",
+      "hotShort_en": "Uber-Waymo <em>Phoenix split</em> — new partner undisclosed",
+      "body_en": "Uber and Alphabet's Waymo have ended their three-year Phoenix robotaxi tie-up, Bloomberg reported exclusively on June 29 — Waymo confirmed it wound down its Phoenix presence on the Uber app in May, and Uber said it is preparing to launch a separate autonomous vehicle partnership in the city with an as-yet-unannounced partner. The Uber-Waymo collaboration continues unaffected in Austin and Atlanta.",
+      "summary_en": "Uber and Waymo's Phoenix partnership — a limited pilot that ran since 2023 with fewer than a dozen dedicated vehicles — quietly ended in May, with both companies confirming the split to Bloomberg on June 29. The vehicles deployed in the pilot have been reabsorbed into Waymo's own Phoenix app fleet, where they remain available to the public through Waymo One.\n\nThe most consequential detail in the Bloomberg report is Uber's statement that it is preparing to launch a separate autonomous vehicle partnership in Phoenix with a new, as-yet-unnamed partner. Uber did not disclose who that partner is, and no announcement has followed. Candidates in industry speculation include Tesla's Cybercab, Amazon's Zoox, and May Mobility. For Tesla investors, the unannounced slot is the most interesting variable: if Tesla's Cybercab becomes Uber's Phoenix AV partner, it would represent the first major platform deal connecting Tesla's robotaxi hardware to Uber's ride-demand network — a shortcut to scale that Tesla currently cannot achieve through its own app alone.\n\nUber's Waymo relationships in Austin and Atlanta are unaffected. Waymo One currently operates autonomous paid rides in five U.S. metros and has been generating more than $350 million in annualized revenues, with national expansion — San Diego, Washington D.C., and additional cities — the declared roadmap. That trajectory makes Phoenix less strategically central to Waymo now than it was in 2023, which may explain why ending the Uber arrangement was relatively painless.\n\nFor the broader robotaxi sector, the Phoenix split signals that the early partnership model — where AV developers needed ride-hailing networks as distribution rails — is maturing. Waymo now has brand recognition and app scale to compete directly with Uber in specific geographies. Tesla has always insisted on owning its robotaxi app experience. Companies best positioned for Uber's new Phoenix slot are those that still need platform distribution reach to scale — narrowing the credible candidates to the next tier of AV deployers.\n\nThe new Phoenix partner announcement — expected in coming weeks — will be a meaningful data point on where the competitive robotaxi landscape stands as the industry enters its volume deployment phase."
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -198,6 +225,32 @@
       "hotShort_en": "Global fleet hits <em>18K robotaxis</em> in 2026",
       "body_en": "Bloomberg's June 28 feature on the global robotaxi sector finds the commercial fleet on track to more than double from 8,000 vehicles in 2025 to 18,000 in 2026, yet a March incident where more than 100 Baidu Apollo Go cars simultaneously stalled on elevated roads in Wuhan — trapping passengers for up to two hours — illustrated the sector's persistent vulnerabilities. Waymo remains the sole operator of fully driverless paid rides in the U.S. and is targeting a nationwide rollout from San Diego to Washington D.C. this year.",
       "summary_en": "Bloomberg's feature arrives at a year when robotaxi operations have quietly spread beyond a handful of U.S. cities to include commercial or pilot services in Croatia, Singapore, Dubai, Abu Dhabi, and Riyadh, with London potentially next. The headline statistic — a fleet doubling year-on-year to 18,000 vehicles — masks how hard it remains to scale from proof-of-concept to a meaningful share of urban mobility.\n\nWaymo is the sector's clearest benchmark: the Alphabet unit is the only provider of a fully driverless paid service in the U.S., with no in-vehicle human backup. Its annualized revenues crossed $350 million in early 2026, and the company has announced plans to expand across America — San Diego, Washington D.C., and additional cities before year-end. Tesla's Robotaxi fleet covers Austin's full 245-square-mile metro area with about 20 vehicles, plus newer expansions in Dallas and Houston launched in April.\n\nChina's operators — Baidu Apollo Go, WeRide, and Pony AI — collectively outpace their American rivals in the number of cities with active deployments, and they are simultaneously building operations in Dubai, Abu Dhabi, Singapore, Germany, and the U.K. But the rollout hit a visible snag in March when more than 100 Baidu Apollo Go vehicles froze simultaneously on Wuhan overpasses; China subsequently halted new robotaxi license issuance while the incident was investigated.\n\nFor Tesla shareholders, the Bloomberg assessment underlines both opportunity and risk. Tesla's end-to-end AI approach avoids the city-by-city lidar mapping costs that weigh on competitors, which Tesla argues enables faster geographic scaling. But the subtitle — \"Why Waymo, Tesla, Baidu and Others Face Continued Challenges\" — is a useful reminder that no single player has broken decisively ahead in the race to make robotaxis a mainstream option."
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2d ago",
+      "pubDate": "2026-06-28T12:00:00.000Z",
+      "title": "테슬라, Q2 인도 공식 컨센서스 <em>406K</em> 공개 — JP모건 소폭 하향, 에너지 +57%",
+      "hotShort": "Q2 인도 <em>406K</em> D-2 — 에너지 스토리지 +57%",
+      "body": "테슬라가 Q2 2026 공식 인도 컨센서스를 공개했다 — 총 406,024대(모델 3/Y 392,646 + 기타 12,978), 발표 D-2(7월 2일). JP모건(라잣 굽타)이 430,500→420,000대로 하향하는 등 기관 예상치가 405~420K로 수렴하는 가운데, 에너지 스토리지 13.8GWh(Q1 8.8GWh 대비 +57%)가 차량 대수보다 마진에 더 큰 영향을 줄 핵심 어닝 변수로 부각됐다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "stock-q2-delivery-consensus-406k-2026-06-29",
+      "summary": "테슬라가 공식 발표한 Q2 2026 인도 컨센서스는 2분기 실적을 앞두고 월가의 기대치를 하나의 표로 정리한 것이다. 총 406,024대(모델 3/Y 392,646대 + 사이버트럭·모델 S/X·세미 등 기타 12,978대)가 컨센서스 중앙값이다. 비교 기준: Q1 2026 인도는 336,681대였으므로 컨센서스 실현 시 QoQ +20.6% 성장이다.\n\n개별 기관 예상치는 대체로 컨센서스 상단에 몰려 있다. 골드만삭스(420K)·바클레이스(418K)·모건스탠리(413K)는 유럽·중국 판매 강세를 이유로 상단에 위치한다. JP모건 라잣 굽타 애널리스트는 430,500대에서 420,000대로 하향 조정하며 혼조된 EV 수요 신호를 이유로 들었다. UBS는 405,000대 추정에 중립 의견·목표주가 $364를 유지했다. 상단과 하단 예상치 격차가 15K 수준으로 좁아 차량 대수 서프라이즈 폭은 제한적일 전망이다.\n\n에너지 스토리지가 이번 Q2의 숨겨진 변수다. 컨센서스 13.8GWh는 Q1 8.8GWh 대비 57% 급증한 수치다. 테슬라의 에너지 스토리지 사업(메가팩·파워월)은 차량 판매보다 마진율이 높아, 실제 수치가 컨센서스를 웃돌면 2분기 전체 영업 마진을 끌어올릴 여지가 있다. 배터리 원자재 가격 하락이 계속되는 환경에서 메가팩 마진 확대 여지는 일반에 잘 알려지지 않은 어닝 드라이버다.\n\nTSLA가 6월 -14% 하락한 상황에서 7월 2일 인도 발표는 단순한 대수 집계 이상이다. 컨센서스 달성 + 에너지 스토리지 서프라이즈 조합이 나온다면 기관 매수세 복귀를 촉발할 잠재적 반등 기폭제가 된다. 반대로 미달 시 추가 하락 리스크가 있다. 7월 22일 확정 실적 발표 전까지, 인도 수치는 시장이 테슬라 방향성을 재조정하는 첫 번째 구체적 데이터다.",
+      "href": "https://www.notateslaapp.com/news/4363/tesla-releases-q2-2026-analyst-delivery-consensus",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Teslarati",
+        "Electrek"
+      ],
+      "sentiment": "neutral",
+      "hot": 6,
+      "title_en": "Tesla Releases Q2 Official <em>406K</em> Delivery Consensus — JPMorgan Cuts, Energy Storage +57%",
+      "hotShort_en": "TSLA Q2 delivery: <em>406K</em> consensus, D-2",
+      "body_en": "Tesla published its official Q2 2026 delivery analyst consensus — 406,024 vehicles total (392,646 Model 3/Y + 12,978 other), with the delivery report due July 2. JPMorgan's Rajat Gupta lowered his estimate from 430,500 to 420,000 units while Goldman Sachs (420K), Barclays (418K), and Morgan Stanley (413K) cluster at the upper end; but the real earnings wildcard is energy storage, where the 13.8 GWh consensus — up 57% from Q1's 8.8 GWh — signals Megapack momentum that delivery counts alone do not capture.",
+      "summary_en": "Tesla's official Q2 2026 delivery consensus sets the Wall Street midpoint at 406,024 vehicles: 392,646 Model 3/Y and 12,978 of other models including Cybertruck, Model S/X, and the Tesla Semi. For comparison, Tesla delivered 336,681 vehicles in Q1 2026; the consensus implies approximately 20.6% sequential growth if achieved. The delivery report is expected on or around July 2, ahead of the full earnings call on July 22.\n\nIndividual analyst estimates cluster toward the upper end of the distribution. Goldman Sachs (420K), Barclays (418K), and Morgan Stanley (413K) each sit above the consensus midpoint, citing strong European registration trends and sequential China improvement. JPMorgan's Rajat Gupta is the notable exception: his team revised the Q2 estimate down from 430,500 to 420,000 units, citing mixed EV demand signals. UBS holds at 405,000 vehicles with a Neutral rating and a $364 price target. With the spread between top and bottom estimates at roughly 15,000 units, a modest delivery beat is already partially priced in — making energy storage the real swing factor for investor sentiment.\n\nEnergy storage is Q2's most underappreciated variable. The consensus estimate of 13.8 GWh compares to 8.8 GWh deployed in Q1 — a 57% sequential jump. Tesla's energy storage business, anchored by the Megapack utility battery system, carries structurally higher margins than vehicles. In an environment of falling lithium and other battery raw material costs, Megapack margin expansion is an earnings driver that never shows up in delivery headlines. If Q2 energy storage lands at or above 13.8 GWh, it could be the decisive factor lifting Tesla's overall operating margin for the quarter even if vehicle deliveries are at or only slightly above consensus.\n\nFor shareholders, July 2 delivery day is the first hard data point in a month that has seen TSLA lose more than 14%. A consensus vehicle beat combined with an energy storage upside surprise would set up a meaningful re-rating toward the July 22 earnings call. A delivery miss, conversely, risks another leg lower before fundamentals have a chance to speak. Either way, Thursday's number is the most important single data release for TSLA sentiment before end of July."
     },
     {
       "category": "musk",
