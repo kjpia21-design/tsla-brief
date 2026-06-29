@@ -1,8 +1,7 @@
 # TESLA Brief!ng — 뉴스 자동 정제 Routine 지침 (한국어 + 영어 이중언어)
 
-> claude.ai/code/routines 의 `tsla-brief-news-refresh` 에 붙여넣는 프롬프트.
+> **이 파일이 정제 지침의 단일 진실(git)이다.** claude.ai Routine 에는 `scripts/routine-bootstrap.md`(이 파일을 읽어 따르라는 부트스트랩)만 한 번 붙여넣으면, 이후 이 파일 수정은 자동 반영된다(재붙여넣기 불필요).
 > **한국어와 영어를 한 번에 정제**한다 — 같은 선별·같은 hot/sentiment, 각 카드에 한·영 필드를 모두 채운다.
-> 코드 블록 아래 전체를 그대로 routine 프롬프트로 사용.
 
 ---
 
@@ -19,6 +18,7 @@ git reset --hard origin/master
 ## Step 1 — 입력 읽기
 - `data/raw-cards.json` 을 읽는다. (GitHub Actions 가 2시간마다 RSS 로 갱신)
 - `data/cards.json` 의 `asOf` 와 첫 카드 `pubDate` 도 읽어 현재 신선도 파악.
+- ⭐ **`data/archive.json` 의 최근 30건 `title`·`slug` 를 먼저 훑어 "이미 다룬 사건" 목록을 머릿속에 둔다 (중복 방지의 전제·필수).** 신규 카드를 만들 때마다 이 목록과 **명시적으로 대조**해, 같은 사건·후속 전개(시험→공식 배포 등)·예정 이벤트(D-N 카운트다운)가 이미 있으면 **새 카드를 만들지 말고 기존 카드에 합친다**. 직전에 수동으로 추가된 카드도 archive 에 들어 있으니 반드시 포함해 본다. (raw 만 보고 정제하면 archive 의 기존 카드와 중복된다 — 이게 과거 핫뉴스 중복의 직접 원인이었다.)
 
 ## Step 2 — 신선도 가드 (불필요한 커밋 방지)
 - `raw-cards.json` 의 최신 항목 시각과 `cards.json` 최신 카드 시각 차이가
