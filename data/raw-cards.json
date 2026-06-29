@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-06-29 21:38 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-29 23:03 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "32m ago",
+      "pubDate": "2026-06-29T22:31:12.000Z",
+      "title": "Waymo and Uber end robotaxi pilot in Phoenix",
+      "body": "Waymo and Uber end robotaxi pilot in Phoenix CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18m ago",
+      "time": "2h ago",
+      "pubDate": "2026-06-29T21:23:07.000Z",
+      "title": "Check out Oklo's stock price (OKLO) in real time",
+      "body": "Check out Oklo's stock price (OKLO) in real time CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/quotes/OKLO"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
       "pubDate": "2026-06-29T21:20:50.000Z",
       "title": "Tesla Phone? Not quite, but close: analyst",
       "body": "Tesla Phone? Not quite, but close: analyst Teslarati",
@@ -15,22 +41,22 @@
       "href": "https://www.teslarati.com/tesla-phone-not-quite-but-close-analyst/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "38m ago",
-      "pubDate": "2026-06-29T21:00:31.000Z",
-      "title": "Check out Oklo's stock price (OKLO) in real time",
-      "body": "Check out Oklo's stock price (OKLO) in real time CNBC",
-      "sourceName": "CNBC",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-06-29T21:01:00.000Z",
+      "title": "Comcast, Charter, Rocket Lab, SpaceX, Tesla, and More Stocks That Explain Today’s Market",
+      "body": "Comcast, Charter, Rocket Lab, SpaceX, Tesla, and More Stocks That Explain Today’s Market Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/quotes/OKLO"
+      "href": "https://www.barrons.com/articles/stock-movers-bb996027"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-29T20:13:00.000Z",
       "title": "Tesla Stock Rises as Musk’s EV Maker Deepens Ties With SpaceX",
       "body": "Tesla Stock Rises as Musk’s EV Maker Deepens Ties With SpaceX Barron's",
@@ -43,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-29T20:01:22.000Z",
       "title": "Wall Street sees more gains ahead for this SpaceX supplier",
       "body": "Wall Street sees more gains ahead for this SpaceX supplier CNBC",
@@ -54,9 +80,35 @@
       "href": "https://www.cnbc.com/2026/06/29/wall-street-sees-more-gains-ahead-for-this-spacex-supplier.html"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-06-29T19:23:25.000Z",
+      "title": "Polestar's US setback leaves owners asking: who will service my car?",
+      "body": "Polestar's US setback leaves owners asking: who will service my car? Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/autos-transportation/polestars-us-setback-leaves-owners-asking-who-will-service-my-car-2026-06-29/"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
+      "pubDate": "2026-06-29T19:23:25.000Z",
+      "title": "Polestar's US setback leaves owners asking: who will service my car?",
+      "body": "Polestar's US setback leaves owners asking: who will service my car? Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/autos-transportation/polestars-us-setback-leaves-owners-asking-who-will-service-my-car-2026-06-29/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
       "pubDate": "2026-06-29T19:08:00.000Z",
       "title": "New Tesla ‘Full Self-Driving’ class action hilariously cites Electrek",
       "body": "New Tesla ‘Full Self-Driving’ class action hilariously cites Electrek Electrek",
@@ -69,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-29T18:59:00.000Z",
       "title": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta.",
       "body": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. Barron's",
@@ -82,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-29T18:59:00.000Z",
       "title": "Why Charter (CHTR) Is One of Today’s Top S&P 500 Stocks After SpaceX Deal News",
       "body": "Why Charter (CHTR) Is One of Today’s Top S&P 500 Stocks After SpaceX Deal News Barron's",
@@ -93,22 +145,9 @@
       "href": "https://www.barrons.com/articles/charter-stock-price-chtr-spacex-mobile-sp-500-967ff10f"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-06-29T18:54:59.000Z",
-      "title": "Uber and Waymo Have Ended Their Robotaxi Tie-Up in Phoenix; Uber to Announce New Partner",
-      "body": "Uber and Waymo Have Ended Their Robotaxi Tie-Up in Phoenix; Uber to Announce New Partner Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-29/uber-waymo-have-ended-robotaxi-tie-up-in-phoenix-uber-to-announce-new-partner"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-29T18:39:56.000Z",
       "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
       "body": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak Reuters",
@@ -121,20 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-06-29T18:34:00.000Z",
-      "title": "Comcast, Charter, Rocket Lab, SpaceX, Tesla, and More Stocks That Explain Today’s Market",
-      "body": "Comcast, Charter, Rocket Lab, SpaceX, Tesla, and More Stocks That Explain Today’s Market Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/stock-movers-bb996027"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-29T18:02:00.000Z",
       "title": "Verizon (VZ), AT&T (T), and T-Mobile (TMUS) Stocks Slip on Starlink Mobile Threat",
       "body": "Verizon (VZ), AT&T (T), and T-Mobile (TMUS) Stocks Slip on Starlink Mobile Threat Barron's",
@@ -147,7 +173,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-29T16:18:00.000Z",
       "title": "Charter Communications Is Today’s Top S&P 500 Stock and Here Are Two Reasons Why",
       "body": "Charter Communications Is Today’s Top S&P 500 Stock and Here Are Two Reasons Why Barron's",
@@ -158,22 +184,9 @@
       "href": "https://www.barrons.com/articles/charter-communications-stock-spacex-comcast-spinoff-967ff10f"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-06-29T16:03:37.000Z",
-      "title": "More in Options Action",
-      "body": "More in Options Action CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/options-action/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-06-29T16:03:13.000Z",
       "title": "Tesla reveals huge Cybercab detail in new guide for First Responders",
       "body": "Tesla revealed a major new Cybercab detail in a guide it released for First Responders, showing new territory in its beliefs and intentions for the ride-hailing-focused vehicle that entered production in April. The First…",
@@ -184,22 +197,35 @@
       "href": "https://www.teslarati.com/tesla-reveals-huge-cybercab-detail-in-new-guide-first-responders/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-06-29T15:31:38.000Z",
-      "title": "Tesla Full Self-Driving v14 ‘Lite’ Release Notes: new capabilities and features",
-      "body": "Tesla Full Self-Driving v14 ‘Lite’ Release Notes: new capabilities and features Teslarati",
-      "sourceName": "Teslarati",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "11h ago",
+      "pubDate": "2026-06-29T12:29:20.000Z",
+      "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Seagate, Warby Parker, AppLovin & more",
+      "body": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Seagate, Warby Parker, AppLovin & more CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-lite-release-notes/"
+      "href": "https://www.cnbc.com/2026/06/29/monday-biggest-wall-street-stock-calls-like-nvidia.html"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "13h ago",
+      "pubDate": "2026-06-29T09:55:00.000Z",
+      "title": "AI Comes To the Permian. Two Gas Stocks and One Pipeline Play To Consider.",
+      "body": "AI Comes To the Permian. Two Gas Stocks and One Pipeline Play To Consider. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/ai-permian-data-center-chevron-stock-50002874"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "20h ago",
       "pubDate": "2026-06-29T03:00:00.000Z",
       "title": "The Cutthroat Battle to Become America’s Rare-Earth Champion",
       "body": "The Cutthroat Battle to Become America’s Rare-Earth Champion WSJ",
@@ -212,7 +238,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21h ago",
+      "time": "22h ago",
       "pubDate": "2026-06-29T00:35:00.000Z",
       "title": "China's Momenta seeks up to $751 million in Hong Kong IPO to boost autonomous driving R&D",
       "body": "China's Momenta seeks up to $751 million in Hong Kong IPO to boost autonomous driving R&D Reuters",
@@ -225,7 +251,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-28T22:09:47.000Z",
       "title": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it?",
       "body": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it? CNBC",
@@ -234,32 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/06/28/cramer-the-data-center-is-suddenly-suspect-can-big-tech-fix-it.html"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
-      "pubDate": "2026-06-28T11:00:00.000Z",
-      "title": "Europe’s Hunt for AI Stocks Leads to Power Suppliers and Banks",
-      "body": "Europe’s Hunt for AI Stocks Leads to Power Suppliers and Banks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-28/europe-s-hunt-for-ai-stocks-leads-to-power-suppliers-and-banks"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
-      "pubDate": "2026-06-28T09:00:00.000Z",
-      "title": "AI Bust Risks Ripple Effects From Growth to Credit, BIS Says",
-      "body": "AI Bust Risks Ripple Effects From Growth to Credit, BIS Says Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-28/ai-bust-risks-ripple-effects-from-growth-to-credit-bis-says"
     }
   ]
 }
