@@ -399,6 +399,9 @@ function renderHotNews(cards, lang = "ko") {
   const inWindow = (c) => (Date.parse(c.pubDate || 0) || 0) >= freshCutoff;
   // 가격-방향 카드는 추가로 STALE_PRICE_HOURS 가드(기존).
   const baseEligible = cards.items.filter((c) => {
+    // 핫뉴스 헤드라인은 종가만 — 장중·실시간·잠정 가격을 제목에 단정한 카드는 핫뉴스 제외.
+    //   (본문 맥락 설명은 허용 — 제목만 검사. 장중 고점을 "급등" 헤드라인으로 쓰면 종가 소폭 상승일 때 오도.)
+    if (/장중|장 중|장초반|장중반|장후반|intraday|pre-?market|after-?hours/i.test((c.title || "") + " " + (c.title_en || ""))) return false;
     if (!priceDirection(c)) return true;
     return (nowMs - Date.parse(c.pubDate || 0)) / 3600000 <= STALE_PRICE_HOURS;
   });
