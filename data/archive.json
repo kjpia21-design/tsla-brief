@@ -124,6 +124,31 @@
       "summary_en": "Bloomberg's feature arrives at a year when robotaxi operations have quietly spread beyond a handful of U.S. cities to include commercial or pilot services in Croatia, Singapore, Dubai, Abu Dhabi, and Riyadh, with London potentially next. The headline statistic — a fleet doubling year-on-year to 18,000 vehicles — masks how hard it remains to scale from proof-of-concept to a meaningful share of urban mobility.\n\nWaymo is the sector's clearest benchmark: the Alphabet unit is the only provider of a fully driverless paid service in the U.S., with no in-vehicle human backup. Its annualized revenues crossed $350 million in early 2026, and the company has announced plans to expand across America — San Diego, Washington D.C., and additional cities before year-end. Tesla's Robotaxi fleet covers Austin's full 245-square-mile metro area with about 20 vehicles, plus newer expansions in Dallas and Houston launched in April.\n\nChina's operators — Baidu Apollo Go, WeRide, and Pony AI — collectively outpace their American rivals in the number of cities with active deployments, and they are simultaneously building operations in Dubai, Abu Dhabi, Singapore, Germany, and the U.K. But the rollout hit a visible snag in March when more than 100 Baidu Apollo Go vehicles froze simultaneously on Wuhan overpasses; China subsequently halted new robotaxi license issuance while the incident was investigated.\n\nFor Tesla shareholders, the Bloomberg assessment underlines both opportunity and risk. Tesla's end-to-end AI approach avoids the city-by-city lidar mapping costs that weigh on competitors, which Tesla argues enables faster geographic scaling. But the subtitle — \"Why Waymo, Tesla, Baidu and Others Face Continued Challenges\" — is a useful reminder that no single player has broken decisively ahead in the race to make robotaxis a mainstream option."
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "",
+      "pubDate": "2026-06-28T13:00:00.000Z",
+      "title": "테슬라, FSD v14 Lite <em>HW3 차량 시험 배포 시작</em> — 아쇽 엘루스와미 확인",
+      "hotShort": "FSD v14 Lite, <em>HW3 시험 배포</em> 시작",
+      "body": "테슬라 AI 디렉터 아쇽 엘루스와미가 X에서 HW3(구형 하드웨어·2019~2023 초 차량) 대상 FSD v14 Lite 시험 배포가 시작됐다고 밝혔다. v14 Lite는 HW3 연산 제약에 맞춰 압축한 버전으로 도심 주행·후진·주차가 개선되나, 메모리 한계상 Supervised(운전자 감독 필요)로 유지된다 — 수백만 대 HW3 차주로 FSD가 확대되는 분수령이자 HW3는 FSD 불가 논란의 전환점.",
+      "title_en": "Tesla begins <em>testing FSD v14 Lite on HW3</em> cars — confirmed by Ashok Elluswamy",
+      "hotShort_en": "FSD v14 Lite <em>testing on HW3</em> begins",
+      "body_en": "Tesla AI director Ashok Elluswamy said on X that testing of FSD v14 Lite has begun on HW3 cars (older hardware, ~2019–early 2023). v14 Lite is a compressed build tuned to HW3 compute limits — improving city driving, reverse, and parking — but stays Supervised due to memory constraints. A milestone extending FSD to millions of HW3 owners, and a turning point in the HW3-cant-run-FSD debate.",
+      "summary": "테슬라 AI 총괄 아쇽 엘루스와미가 X에서 HW3 차량에 대한 FSD v14 Lite 시험 배포 개시를 알렸다. HW3는 2019년부터 2023년 초까지 생산된 차량에 탑재된 구형 자율주행 컴퓨터다.\n\nv14 Lite는 HW4용 FSD v14를 HW3의 연산·메모리 제약에 맞춰 압축·최적화한 버전으로 도심 주행·후진 주행·주차 등이 개선될 전망이다. 다만 HW3는 메모리 대역폭 한계로 비지도(Unsupervised) 완전 자율은 불가하며, v14 Lite도 운전자 감독이 필요한 Supervised 시스템으로 유지된다.\n\n그동안 HW3로는 약속한 FSD를 못 돌린다는 비판과 집단소송 우려가 있었던 만큼, 수백만 대 HW3 차주에게 실질적 FSD 기능이 확대되는 이번 배포는 보험·규제·브랜드 신뢰 측면에서 의미가 크다.",
+      "summary_en": "Tesla AI lead Ashok Elluswamy announced on X that testing of FSD v14 Lite has begun on HW3 vehicles. HW3 is the older self-driving computer fitted to cars built from 2019 to early 2023.\n\nv14 Lite is a compressed, optimized version of HW4-class FSD v14, expected to improve city driving, reverse, and parking. However, HW3 lacks the memory bandwidth for Unsupervised autonomy, so v14 Lite remains a Supervised system requiring driver attention.\n\nGiven long-running criticism and class-action concerns that HW3 could not run the promised FSD, extending real FSD capability to millions of HW3 owners is significant for insurance, regulation, and brand trust.",
+      "sourceName": "Ashok Elluswamy (X)",
+      "sourceLabel": "official",
+      "slug": "fsd-v14-lite-hw3-testing-2026-06-28",
+      "href": "https://www.teslarati.com/tesla-gives-hw3-owners-another-massive-update/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Ashok Elluswamy (X)",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 9
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "4h ago",
@@ -2131,26 +2156,6 @@
       "href": "https://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/",
       "sentiment": "bear",
       "hot": 7
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
-      "pubDate": "2026-06-21T01:12:17.000Z",
-      "title": "테슬라, AI로 측면 충돌 <em>자동 방지</em> 기능 영상 공개",
-      "hotShort": "테슬라 AI, <em>측면 충돌 방지</em> — 실제 장면 영상 공개",
-      "body": "테슬라 공식 계정이 차선 변경 중 인접 차량과의 측면 충돌을 AI가 자동 감지·방지하는 기능 영상을 공개했다 — 카메라 비전 AI가 위험을 먼저 포착하고 조향에 개입해 충돌을 회피하는 실제 주행 장면이다.",
-      "sourceName": "Tesla (X)",
-      "sourceLabel": "official",
-      "slug": "product-sideswipe-prevention-ai-2026-06-21",
-      "summary": "측면 충돌(sideswipe)은 차선 변경 시 인접 차량과의 공간 판단을 잘못하면 발생하는 대표적인 사고 유형이다. 이번에 테슬라 공식 계정이 공개한 클립은 비전 AI가 이 상황을 실시간으로 감지하고 자동 조향 보정으로 충돌을 사전 방지하는 장면을 담고 있다.\n\n테슬라는 차량 주변을 360도로 감시하는 카메라 배열과 신경망 기반 비전 AI를 통해 운전자가 인지하기 전에 위험을 포착하고 선제 대응한다. 이 기능은 FSD 구독 유무와 관계없이 테슬라 차량의 기본 능동 안전 시스템(오토파일럿·자동 조향 보조)과 연동돼 있다.\n\n테슬라는 자동 긴급제동(AEB)·차선 이탈 경보·측면 충돌 방지 등 능동 안전 기능을 무선 업데이트로 꾸준히 개선해왔다. 실제 주행 안전 장면을 담은 영상을 주기적으로 공식 채널에 공유하는 것은 테슬라 비전 AI의 역량을 직관적으로 전달하는 동시에 소비자 신뢰를 쌓는 홍보 전략이기도 하다.",
-      "title_en": "Tesla demos <em>AI sideswipe prevention</em> in official clip",
-      "hotShort_en": "Tesla AI stops <em>sideswipes</em> — demo video released",
-      "body_en": "Tesla's official account shared a clip demonstrating the car's AI-driven ability to detect and prevent sideswipe collisions — showing the vision system intervening in real time to avoid contact with an adjacent vehicle during a lane change.",
-      "summary_en": "Sideswipe collisions occur when a vehicle misjudges lateral clearance during a lane change. Tesla's official clip captures the moment its vision AI detects the risk and automatically corrects the vehicle's trajectory before contact occurs — demonstrating the system's speed and precision in a real-world driving scenario.\n\nTesla's camera array monitors the full 360-degree perimeter of the vehicle, feeding a neural-network vision system that processes lateral threats faster than most human drivers can react. The sideswipe prevention capability is part of Tesla's active safety suite and operates regardless of whether the driver has an active FSD subscription.\n\nTesla has continuously refined its active safety features — including automatic emergency braking (AEB), lane departure intervention, and now sideswipe avoidance — through over-the-air software updates. Sharing real-world safety demonstration videos via official channels serves dual purposes: it showcases the technical performance of Tesla's vision AI and builds public trust in its autonomous capabilities ahead of the Cybercab and FSD unsupervised rollout.",
-      "href": "https://x.com/Tesla/status/2068502229993299985",
-      "sentiment": "bull",
-      "hot": 4
     }
   ]
 }

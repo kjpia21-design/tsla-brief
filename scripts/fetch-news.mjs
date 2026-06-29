@@ -94,6 +94,13 @@ const X_ACCOUNTS = [
   { username: "DivesTech",     id: "1082353582228176896", name: "Dan Ives",         label: "press",    category: "stock" },
   { username: "JoeTegtmeyer",  id: "1288973134339739648", name: "Joe Tegtmeyer",    label: "press",    category: null },
   { username: "teslaownersSV", id: "1016059981907386368", name: "Tesla Owners SV",  label: "press",    category: null },
+  // 핵심 인플루언서 (JP 요청 2026-06-28) — 6명 중 3명+ 가 게시/주목한 뉴스는 반드시 채택(routine 합의 판단). id 미상이라 username 으로 매칭.
+  { username: "niccruzpatane", id: "", name: "Nic Cruz Patane", label: "press", category: null },
+  { username: "SawyerMerritt", id: "", name: "Sawyer Merritt",  label: "press", category: null },
+  { username: "Tslachan",      id: "", name: "Tesla Chan",      label: "press", category: null },
+  { username: "Zack",          id: "", name: "Zack",            label: "press", category: null },
+  { username: "ChuckCook",     id: "", name: "Chuck Cook",      label: "press", category: null },
+  { username: "wholemars",     id: "", name: "Whole Mars",      label: "press", category: null },
 ];
 
 const SOURCES = [
@@ -584,14 +591,15 @@ async function fetchX(accounts) {
     return [];
   }
 
-  const byId = new Map(accounts.map((a) => [a.id, a]));
+  const byId = new Map(accounts.map((a) => [a.id, a]).filter(([id]) => id));   // id 있는 계정
+  const byUser = new Map(accounts.map((a) => [(a.username || "").toLowerCase(), a]));  // id 미상(인플루언서)도 username 으로 매칭
   const query = `(${accounts.map((a) => `from:${a.username}`).join(" OR ")}) -is:retweet -is:reply`;
   const startTime = new Date(Date.now() - X_RECENT_HOURS * 3_600_000).toISOString();
   const url = "https://api.x.com/2/tweets/search/recent"
     + `?query=${encodeURIComponent(query)}`
     + `&max_results=${X_MAX_RESULTS}`
     + `&start_time=${encodeURIComponent(startTime)}`
-    + "&tweet.fields=created_at,public_metrics,lang,author_id";
+    + "&tweet.fields=created_at,public_metrics,lang,author_id&expansions=author_id&user.fields=username";
 
   let json;
   try {
@@ -608,8 +616,9 @@ async function fetchX(accounts) {
   }
 
   const out = [];
+  const unameById = new Map((json.includes?.users || []).map((u) => [u.id, (u.username || "").toLowerCase()]));
   for (const t of (json.data || [])) {
-    const acct = byId.get(t.author_id);
+    const acct = byId.get(t.author_id) || byUser.get(unameById.get(t.author_id) || "\0");
     if (!acct) continue;
     const text = (t.text || "").replace(/\s+/g, " ").trim();
     // 순수 링크/초단문 제외 (URL 제거 후 15자 미만이면 노이즈)

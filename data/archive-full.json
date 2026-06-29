@@ -124,6 +124,31 @@
       "summary_en": "Bloomberg's feature arrives at a year when robotaxi operations have quietly spread beyond a handful of U.S. cities to include commercial or pilot services in Croatia, Singapore, Dubai, Abu Dhabi, and Riyadh, with London potentially next. The headline statistic — a fleet doubling year-on-year to 18,000 vehicles — masks how hard it remains to scale from proof-of-concept to a meaningful share of urban mobility.\n\nWaymo is the sector's clearest benchmark: the Alphabet unit is the only provider of a fully driverless paid service in the U.S., with no in-vehicle human backup. Its annualized revenues crossed $350 million in early 2026, and the company has announced plans to expand across America — San Diego, Washington D.C., and additional cities before year-end. Tesla's Robotaxi fleet covers Austin's full 245-square-mile metro area with about 20 vehicles, plus newer expansions in Dallas and Houston launched in April.\n\nChina's operators — Baidu Apollo Go, WeRide, and Pony AI — collectively outpace their American rivals in the number of cities with active deployments, and they are simultaneously building operations in Dubai, Abu Dhabi, Singapore, Germany, and the U.K. But the rollout hit a visible snag in March when more than 100 Baidu Apollo Go vehicles froze simultaneously on Wuhan overpasses; China subsequently halted new robotaxi license issuance while the incident was investigated.\n\nFor Tesla shareholders, the Bloomberg assessment underlines both opportunity and risk. Tesla's end-to-end AI approach avoids the city-by-city lidar mapping costs that weigh on competitors, which Tesla argues enables faster geographic scaling. But the subtitle — \"Why Waymo, Tesla, Baidu and Others Face Continued Challenges\" — is a useful reminder that no single player has broken decisively ahead in the race to make robotaxis a mainstream option."
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "",
+      "pubDate": "2026-06-28T13:00:00.000Z",
+      "title": "테슬라, FSD v14 Lite <em>HW3 차량 시험 배포 시작</em> — 아쇽 엘루스와미 확인",
+      "hotShort": "FSD v14 Lite, <em>HW3 시험 배포</em> 시작",
+      "body": "테슬라 AI 디렉터 아쇽 엘루스와미가 X에서 HW3(구형 하드웨어·2019~2023 초 차량) 대상 FSD v14 Lite 시험 배포가 시작됐다고 밝혔다. v14 Lite는 HW3 연산 제약에 맞춰 압축한 버전으로 도심 주행·후진·주차가 개선되나, 메모리 한계상 Supervised(운전자 감독 필요)로 유지된다 — 수백만 대 HW3 차주로 FSD가 확대되는 분수령이자 HW3는 FSD 불가 논란의 전환점.",
+      "title_en": "Tesla begins <em>testing FSD v14 Lite on HW3</em> cars — confirmed by Ashok Elluswamy",
+      "hotShort_en": "FSD v14 Lite <em>testing on HW3</em> begins",
+      "body_en": "Tesla AI director Ashok Elluswamy said on X that testing of FSD v14 Lite has begun on HW3 cars (older hardware, ~2019–early 2023). v14 Lite is a compressed build tuned to HW3 compute limits — improving city driving, reverse, and parking — but stays Supervised due to memory constraints. A milestone extending FSD to millions of HW3 owners, and a turning point in the HW3-cant-run-FSD debate.",
+      "summary": "테슬라 AI 총괄 아쇽 엘루스와미가 X에서 HW3 차량에 대한 FSD v14 Lite 시험 배포 개시를 알렸다. HW3는 2019년부터 2023년 초까지 생산된 차량에 탑재된 구형 자율주행 컴퓨터다.\n\nv14 Lite는 HW4용 FSD v14를 HW3의 연산·메모리 제약에 맞춰 압축·최적화한 버전으로 도심 주행·후진 주행·주차 등이 개선될 전망이다. 다만 HW3는 메모리 대역폭 한계로 비지도(Unsupervised) 완전 자율은 불가하며, v14 Lite도 운전자 감독이 필요한 Supervised 시스템으로 유지된다.\n\n그동안 HW3로는 약속한 FSD를 못 돌린다는 비판과 집단소송 우려가 있었던 만큼, 수백만 대 HW3 차주에게 실질적 FSD 기능이 확대되는 이번 배포는 보험·규제·브랜드 신뢰 측면에서 의미가 크다.",
+      "summary_en": "Tesla AI lead Ashok Elluswamy announced on X that testing of FSD v14 Lite has begun on HW3 vehicles. HW3 is the older self-driving computer fitted to cars built from 2019 to early 2023.\n\nv14 Lite is a compressed, optimized version of HW4-class FSD v14, expected to improve city driving, reverse, and parking. However, HW3 lacks the memory bandwidth for Unsupervised autonomy, so v14 Lite remains a Supervised system requiring driver attention.\n\nGiven long-running criticism and class-action concerns that HW3 could not run the promised FSD, extending real FSD capability to millions of HW3 owners is significant for insurance, regulation, and brand trust.",
+      "sourceName": "Ashok Elluswamy (X)",
+      "sourceLabel": "official",
+      "slug": "fsd-v14-lite-hw3-testing-2026-06-28",
+      "href": "https://www.teslarati.com/tesla-gives-hw3-owners-another-massive-update/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Ashok Elluswamy (X)",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 9
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "4h ago",
