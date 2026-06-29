@@ -98,7 +98,7 @@ const X_ACCOUNTS = [
   { username: "niccruzpatane", id: "", name: "Nic Cruz Patane", label: "press", category: null },
   { username: "SawyerMerritt", id: "", name: "Sawyer Merritt",  label: "press", category: null },
   { username: "Tslachan",      id: "", name: "Tesla Chan",      label: "press", category: null },
-  { username: "Zack",          id: "", name: "Zack",            label: "press", category: null },
+  { username: "BLKMDL3",       id: "", name: "Zack",            label: "press", category: null },
   { username: "ChuckCook",     id: "", name: "Chuck Cook",      label: "press", category: null },
   { username: "wholemars",     id: "", name: "Whole Mars",      label: "press", category: null },
 ];
