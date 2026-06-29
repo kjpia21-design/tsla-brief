@@ -373,6 +373,8 @@ function priceDirection(c) {
   const txt = `${c.title || ""} ${c.hotShort || ""} ${c.body || ""}`
     .replace(/<[^>]+>/g, "")
     .replace(/(\d)\.(\d)/g, "$1$2");                     // 소수점(4.6%, $408.95)이 문장 경계로 오인되지 않게
+  // 월누적/이달 하락% 프레임("이달 -14% 마감")은 당일 하락 동사가 없어도 하락 방향으로 — 급등일엔 시세모순 숨김 대상.
+  if (/(?:이달|누적|월간|연간|올해|year-to-date|ytd|this month)[^.。]{0,12}-\s?\d/i.test(txt)) return "down";
   const up = PRICE_UP_CTX_RE.test(txt), down = PRICE_DOWN_CTX_RE.test(txt);
   if (up === down) return null;                          // 둘 다(급락 딛고 반등 등)거나 둘 다 아님 → 모호, 태그 안 함
   return up ? "up" : "down";
@@ -388,7 +390,18 @@ const HOT_STOP = new Set(["테슬라","tesla","tesla's","fsd","시작","공식",
 const titleKeyToks = (s) => new Set(((s || "").replace(/<[^>]+>/g, "").toLowerCase().match(/[가-힣a-z0-9.]{2,}/g) || []).filter((t) => !HOT_STOP.has(t)));
 const sameStory = (a, b) => { let n = 0; a.forEach((t) => { if (b.has(t)) n++; }); return n >= 3; };
 
-function renderHotNews(cards, lang = "ko") {
+// 헤드라인이 TSLA/주가를 주체로 명확한 방향(급등·급락·±N%·이달 -N%)을 말하는지 — 라이브 주가와 모순되는 핫뉴스 제외용.
+//   주체를 'TSLA/주가/종가/시총'으로 한정해 '버라이즌 급락'·'테슬라 판매 부진' 같은 타사·비주가 뉴스는 건드리지 않는다.
+const HL_SUBJ = "(?:TSLA|주가|종가|시총|시가총액)";
+const HL_DOWN_RE = new RegExp(HL_SUBJ + "[^.。]{0,15}(?:급락|폭락|하락|약세|추락|-\\s?\\d+(?:\\.\\d+)?%)|(?:이달|누적|월간|연간|올해)[^.。]{0,10}-\\s?\\d", "i");
+const HL_UP_RE = new RegExp(HL_SUBJ + "[^.。]{0,15}(?:급등|폭등|반등|상승|강세|치솟|\\+\\s?\\d+(?:\\.\\d+)?%)", "i");
+const headlineDir = (c) => {
+  const t = ((c.title || "") + " " + (c.hotShort || "")).replace(/<[^>]+>/g, "").replace(/(\d)\.(\d)/g, "$1$2");
+  const down = HL_DOWN_RE.test(t), up = HL_UP_RE.test(t);
+  return up === down ? null : (up ? "up" : "down");
+};
+
+function renderHotNews(cards, lang = "ko", livePriceDir = null) {
   const hotOf = (c) => (typeof c.hot === "number" ? c.hot : 5);
   const byHot = (a, b) => (hotOf(b) - hotOf(a)) || (Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
   // 핫뉴스 신선도 윈도우 — 당일+전일(KST)만. (JP 요청 2026-06-15)
@@ -402,6 +415,8 @@ function renderHotNews(cards, lang = "ko") {
     // 핫뉴스 헤드라인은 종가만 — 장중·실시간·잠정 가격을 제목에 단정한 카드는 핫뉴스 제외.
     //   (본문 맥락 설명은 허용 — 제목만 검사. 장중 고점을 "급등" 헤드라인으로 쓰면 종가 소폭 상승일 때 오도.)
     if (/장중|장 중|장초반|장중반|장후반|intraday|pre-?market|after-?hours/i.test((c.title || "") + " " + (c.title_en || ""))) return false;
+    // 라이브 주가와 명백히 반대 방향인 헤드라인 카드 제외 — 급등일의 '급락/이달 -N%' 프레임 등(주주 혼란 방지).
+    if (livePriceDir) { const hd = headlineDir(c); if (hd && hd !== livePriceDir) return false; }
     if (!priceDirection(c)) return true;
     return (nowMs - Date.parse(c.pubDate || 0)) / 3600000 <= STALE_PRICE_HOURS;
   });
@@ -1038,7 +1053,10 @@ async function buildOneLang(opts) {
 
   let out = template;
   out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi, lang));
-  out = replaceBlock(out, "HOT_NEWS",    renderHotNews(feedCards, lang));
+  // 라이브 주가 방향(전일 종가 대비) — 핫뉴스에서 시세와 모순되는 헤드라인 제외에 사용.
+  const livePriceDir = (kpi && kpi.price && kpi.prevClose)
+    ? (kpi.price > kpi.prevClose ? "up" : kpi.price < kpi.prevClose ? "down" : null) : null;
+  out = replaceBlock(out, "HOT_NEWS",    renderHotNews(feedCards, lang, livePriceDir));
   out = replaceBlock(out, "INVESTOR_CAL", renderInvestorCalendar(calendar, lang, now));
   out = replaceBlock(out, "HOT_COUNT",   hotCountLabel);
   const cardsFreshSince = cards.items[0]?.pubDate || "";
