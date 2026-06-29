@@ -136,7 +136,9 @@ async function fetchAndStore(env) {
   const out = {
     asOf: new Date().toISOString().slice(0, 16).replace("T", " ") + " UTC",
     symbol: m.symbol || SYMBOL,
-    price: round2(price),
+    price: round2(price),                  // 표시가 — 애프터/프리장이면 연장거래가. ★종가로 쓰지 말 것
+    regularClose: round2(reg),             // 정규장 종가(마감·애프터·프리 시 확정값) / 장중엔 현재가. ★뉴스 카드 '종가'는 이 값
+    regularChangePct: round2(((reg - prevClose) / prevClose) * 100),  // 정규장 종가의 전일 종가 대비 등락%
     prevClose: round2(prevClose),
     change: round2(change),
     changePct: round2(changePct),
