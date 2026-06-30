@@ -1,6 +1,33 @@
 {
-  "asOf": "2026-06-30 16:24 UTC · 누적 507건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-30 20:06 UTC · 누적 508건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-06-30T16:09:09.000Z",
+      "title": "테슬라, 프로덕션 사이버캡 — 핸들·페달 없이 <em>오스틴 공도 테스트</em> 개시",
+      "hotShort": "프로덕션 사이버캡 — 핸들·페달 없이 <em>공도 테스트</em> 개시",
+      "body": "테슬라가 6월 30일 핸들과 페달이 없는 프로덕션 사이버캡을 오스틴 공도 엔지니어링 테스트에 투입했다 — X에 공개된 영상에는 운전석 공석·앞좌석 안전 모니터 1명만 탑승한 채 시내를 자율주행하는 모습이 담겼다. 2024년 10월 개념 공개, 2026년 2월 17일 기가텍사스 첫 생산 롤오프에 이어 프로덕션 사양 차량이 처음으로 실제 공도를 달렸다 — 상업 배포 전 마지막 검증 단계의 시작이다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-cybercab-production-road-test-2026-06-30",
+      "summary": "테슬라가 6월 30일 오스틴 공공 도로에서 프로덕션 사이버캡의 엔지니어링 테스트를 개시했다. 테슬라가 X에 직접 공유한 영상에는 운전석이 비어 있는 사이버캡이 오스틴 시내를 자율주행으로 통과하는 모습이 담겼다. 앞좌석에는 안전 모니터 한 명이 탑승해 있으며, 차량은 스티어링 칼럼·페달 박스·계기판 클러스터를 처음부터 설계에서 배제한 프로덕션 사양 그대로다 — 리트로핏(사후 제거)이 아닌 태생적 자율주행 전용 차량이다.\n\n사이버캡의 타임라인: 머스크가 2024년 10월 10일 컨셉 공개, 2026년 2월 17일 기가팩토리 텍사스에서 첫 프로덕션 롤오프, 그리고 오늘(6월 30일) 첫 공도 엔지니어링 테스트 — 컨셉 공개부터 공도 주행까지 약 20개월이 걸렸다.\n\nEPA 신청서로 확인된 차량 사양: 48kWh 배터리, 219HP 단일 전방 모터, 공차 중량 3,113파운드(약 1,413kg), 에너지 효율 165Wh/마일. 테슬라 역사상 가장 높은 에너지 효율을 기록했다. 목표 가격은 약 $25,000(머스크 어닝콜 발언 기준). 스티어링 칼럼과 페달 박스를 생략해 확보된 공간이 2인승 객실을 최대화한다.\n\n현재는 '엔지니어링 테스트' 단계로 상업 고객 탑승 서비스가 아니며 안전 모니터가 탑승한다. 테슬라는 이미 오스틴에서 모델 Y 기반 무인 FSD 로보택시를 상업 운영 중이며(2026년 6월 3일 대도시권 전체 확장), 사이버캡은 궁극적으로 이 플릿을 대체·확장하게 된다.\n\n투자자 관점에서 타이밍이 주목할 만하다. H1 2026 로보택시 5개 도시 목표가 오늘 기한 만료로 미달성이 확정된 같은 날, 프로덕션 사이버캡이 핸들·페달 없이 공도 주행을 시작했다. '일정 약속 미달성 vs. 하드웨어 마일스톤 달성'이라는 이중 데이터가 동시에 나왔다. 7월 2일 Q2 인도 발표, 7월 22일 어닝콜에서 머스크가 사이버캡 상업 배포 일정을 구체화할지가 다음 핵심 촉매다.",
+      "href": "https://electrek.co/2026/06/30/tesla-cybercab-engineering-tests-austin/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Electrek",
+        "Teslarati",
+        "TechCrunch",
+        "Drive Tesla Canada"
+      ],
+      "sentiment": "bull",
+      "hot": 9,
+      "title_en": "Tesla's Production Cybercab — <em>no wheel, no pedals</em> — begins Austin public road tests",
+      "hotShort_en": "Production Cybercab: <em>no wheel, no pedals</em> — Austin road tests start",
+      "body_en": "Tesla launched engineering tests of its purpose-built production Cybercab on Austin public roads on June 30, sharing video on X of the vehicle — steering-wheel-free and pedalless by original design, not retrofit — navigating city streets with a safety monitor in the front seat. Production units first rolled off Gigafactory Texas on February 17; today's run marks the first real-world on-road engineering validation of the hardware. These are engineering tests, not yet commercial rides, but the milestone begins the final technical verification phase before Cybercab commercial deployment.",
+      "summary_en": "Tesla began engineering tests of its production Cybercab on public roads in Austin, Texas on June 30. The company posted video on X showing a production unit — front seat occupied by a safety monitor, driver's seat empty — navigating Austin city streets autonomously. The vehicle is not a prototype or a retrofit: the Cybercab was designed from scratch without a steering column, pedal box, or driver's instrument cluster, and these absences expand the usable interior space for two passengers.\n\nThe Cybercab's timeline: Elon Musk publicly unveiled the concept on October 10, 2024; the first production unit rolled off Gigafactory Texas on February 17, 2026; and on June 30, 2026 — roughly 20 months after the reveal — the production vehicle completed its first public road engineering runs in Austin.\n\nTechnical specifications confirmed through EPA filings: 48 kWh battery, 219 HP single front-mounted motor, curb weight 3,113 pounds, and an energy efficiency of 165 Wh/mi — the highest efficiency of any Tesla vehicle ever built. Elon Musk has cited a target price around $25,000 on recent earnings calls.\n\nToday's milestone is labeled 'engineering tests,' not commercial passenger service. A safety monitor occupies the front seat throughout the runs. Tesla currently operates a separate fleet of Model Y-based unsupervised Robotaxi rides commercially across greater Austin (expanded to the full metro on June 3, 2026). The Cybercab is the dedicated autonomous vehicle eventually intended to replace and scale that fleet.\n\nThe timing is notable. On the same day Tesla's H1 2026 commitment to launch Cybercab rides in five cities — Las Vegas, Tampa, Orlando, Miami, and Phoenix — formally expired with none operational, production Cybercabs began engineering validation runs on public roads. The dual data point — missed deadline on one hand, a concrete hardware milestone on the other — sets up an important context for Musk to address at the July 22 Q2 earnings call. The next milestone to watch: when engineering tests convert to commercial deployment, and whether any new cities appear in the updated timeline."
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
