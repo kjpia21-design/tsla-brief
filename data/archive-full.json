@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-06-30 20:06 UTC · 누적 508건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-06-30 23:18 UTC · 누적 509건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-30T18:04:54.000Z",
+      "title": "테슬라, '주차 중 사각지대 경고' — SW 2026.20.6으로 <em>전 세계 확대</em>",
+      "hotShort": "주차 중 사각지대 도어 경고 — <em>전 세계 확대</em>",
+      "body": "테슬라가 소프트웨어 2026.20.6 업데이트로 '주차 중 사각지대 경고(Blind Spot Warning While Parked)'를 전 세계 더 많은 차종으로 확대했다 — 주차 후 문을 열 때 자전거·차량이 사각지대에서 접근 중이면 경보음이 울리고 최초 조작으로는 문이 열리지 않아 '도어링' 사고를 예방한다. 사이버트럭에서 먼저 탑재됐던 이 기능이 이번 업데이트로 더 많은 모델·지역으로 확대됐다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-blind-spot-warning-global-2026-06-30",
+      "summary": "테슬라가 2026년 6월 30일 소프트웨어 2026.20.6 업데이트를 통해 '주차 중 사각지대 경고(Blind Spot Warning While Parked)' 기능을 전 세계 더 많은 차종·지역으로 확대했다. Teslarati가 이 기능의 글로벌 확대를 보도했으며, Not a Tesla App도 같은 업데이트에서의 기능 확장을 확인했다.\n\n기능 동작 방식: 주차 후 차 문을 열려는 순간, 후방·측면 사각지대에 자전거·오토바이·차량이 접근 중인 것이 감지되면 경보음이 울리고 문이 최초 한 번 누름으로는 열리지 않는다. 경고를 인지하고 두 번째로 버튼을 누르면 문이 열리는 '이중 확인' 구조다 — 자전거가 갑자기 열린 차문에 충돌하는 '도어링(dooring)' 사고를 예방하도록 설계됐다.\n\n이 기능은 2024년 사이버트럭에 먼저 탑재됐고, 이번 2026.20.6 업데이트로 더 많은 테슬라 모델 라인업과 지역으로 확대됐다. 2026.20.6는 주요 신규 UI 기능보다 유지보수·개선에 초점을 맞춘 빌드이나, 사각지대 경고의 글로벌 확대는 기존 오너에게 실질적인 안전 기능 보강을 제공한다.\n\n투자자 관점에서 이 기능 확대의 즉각적인 수익 효과는 제한적이다. 그러나 사이버캡 공도 테스트·연방 이중 조사가 동시에 진행되는 시점에, 기존 차량의 능동 안전 기능도 지속적으로 업그레이드하고 있다는 점은 테슬라의 안전 기술 역량과 브랜드 신뢰도를 뒷받침한다.",
+      "href": "https://www.teslarati.com/tesla-expands-massive-safety-feature-worldwide-latest-update/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Not a Tesla App"
+      ],
+      "sentiment": "bull",
+      "hot": 5,
+      "title_en": "Tesla expands <em>Blind Spot Warning While Parked</em> globally in SW 2026.20.6",
+      "hotShort_en": "Door blind spot warning goes <em>worldwide</em>",
+      "body_en": "Tesla's software 2026.20.6 update expands Blind Spot Warning While Parked to more vehicles globally — when an approaching cyclist or vehicle is detected in a parked car's blind spot as a driver attempts to open the door, an audible alert sounds and the door does not open on the first press, requiring a second press to override and preventing dooring accidents. The feature debuted on Cybertruck and is now rolling out to a wider range of Tesla models worldwide.",
+      "summary_en": "Tesla released software version 2026.20.6 on June 30, 2026, with the standout safety content being a significant global expansion of Blind Spot Warning While Parked to more Tesla models and markets. Teslarati reported the rollout, and Not a Tesla App confirmed the feature expansion in the same update.\n\nThe feature's mechanism is designed around a two-step confirmation to prevent dooring accidents: when a driver attempts to open a door after parking, the vehicle's rear and side cameras monitor for approaching cyclists, motorcycles, or vehicles. If an object is detected in the blind spot zone, a chime sounds and the door does not open on the first press — the driver must press again to override the warning. This deliberate friction is designed to interrupt the moment of inattention that causes most dooring incidents, where a cyclist traveling along parked cars is struck by a door that opens without warning.\n\nBlind Spot Warning While Parked first appeared on Cybertruck ahead of the rest of Tesla's lineup. Software 2026.20.6 extends it to a meaningfully wider set of vehicles. The version is primarily a maintenance release and does not introduce new infotainment or FSD-level features, but the Blind Spot expansion is a concrete active-safety improvement for existing owners who park in urban environments.\n\nFor investors, the feature rollout is incremental rather than a material revenue event. Its significance is contextual: at a moment when Tesla's autonomous safety is under dual federal investigation — NHTSA and NTSB are both probing the June 20 Katy, Texas FSD crash — continuing to expand proven passive-safety features across the base vehicle fleet reinforces Tesla's broader engineering safety narrative, an asset for the regulatory relationships that the Cybercab expansion program depends on."
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
