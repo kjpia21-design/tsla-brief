@@ -1,10 +1,75 @@
 {
-  "asOf": "2026-06-30 09:51 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-06-30 12:15 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4m ago",
+      "pubDate": "2026-06-30T12:11:00.000Z",
+      "title": "How SpaceX Stock Is Impacting Tesla Shares",
+      "body": "How SpaceX Stock Is Impacting Tesla Shares Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/spacex-stock-ipo-tesla-elon-musk-c29d6bb4?mod"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "15m ago",
+      "pubDate": "2026-06-30T12:00:01.000Z",
+      "title": "White House AI crackdown opens door for Chinese model makers to close gap",
+      "body": "White House AI crackdown opens door for Chinese model makers to close gap CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "34m ago",
+      "pubDate": "2026-06-30T11:41:00.000Z",
+      "title": "Tesla Stock Falls After Big Gains as Auto Industry Wrestles With Copper Prices",
+      "body": "Tesla Stock Falls After Big Gains as Auto Industry Wrestles With Copper Prices Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-today-copper-a0b9b8b3"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-30T10:14:07.000Z",
+      "title": "Check out Oklo's stock price (OKLO) in real time",
+      "body": "Check out Oklo's stock price (OKLO) in real time CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/quotes/OKLO"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-06-30T09:00:01.000Z",
+      "title": "How a Communications Snafu Shut Mirae Out of SpaceX IPO",
+      "body": "How a Communications Snafu Shut Mirae Out of SpaceX IPO Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/newsletters/2026-06-30/how-a-communications-snafu-shut-mirae-out-of-spacex-ipo"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
       "pubDate": "2026-06-30T08:47:44.000Z",
       "title": "Why companies are swapping copper for aluminium",
       "body": "Why companies are swapping copper for aluminium Reuters",
@@ -15,22 +80,9 @@
       "href": "https://www.reuters.com/business/autos-transportation/why-companies-are-swapping-copper-aluminium-2026-06-30/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-06-30T08:32:59.000Z",
-      "title": "SAS orders Airbus widebody aircraft for more than $10 billion",
-      "body": "SAS orders Airbus widebody aircraft for more than $10 billion Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/sas-orders-airbus-widebody-aircraft-more-than-10-billion-2026-06-30/"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-30T08:03:19.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -43,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "5h ago",
       "pubDate": "2026-06-30T07:22:13.000Z",
       "title": "AB SICAV Global Disruptors Portfolio UCITS ETF Overview (FWD)",
       "body": "AB SICAV Global Disruptors Portfolio UCITS ETF Overview (FWD) Barron's",
@@ -54,22 +106,9 @@
       "href": "https://www.barrons.com/market-data/funds/fwd?countrycode"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-06-30T06:01:00.000Z",
-      "title": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium",
-      "body": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-30T06:01:00.000Z",
       "title": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium",
       "body": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium Reuters",
@@ -82,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-06-30T06:00:00.000Z",
       "title": "SpaceX IPO Left Korea Broker With No Shares on Misunderstanding",
       "body": "SpaceX IPO Left Korea Broker With No Shares on Misunderstanding Bloomberg.com",
@@ -95,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-06-30T04:01:24.000Z",
       "title": "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation",
       "body": "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation Financial Times",
@@ -106,22 +145,35 @@
       "href": "https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174?syn-25a6b1a6"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
-      "pubDate": "2026-06-30T03:21:04.000Z",
-      "title": "Artificial Intelligence",
-      "body": "Artificial Intelligence - Page 6 The New York Times",
-      "sourceName": "The New York Times",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "8h ago",
+      "pubDate": "2026-06-30T04:01:24.000Z",
+      "title": "What would multilateral ‘AI arms control’ look like?",
+      "body": "What would multilateral ‘AI arms control’ look like? Financial Times",
+      "sourceName": "Financial Times",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.nytimes.com/spotlight/artificial-intelligence?page"
+      "href": "https://www.ft.com/content/7aa4b53d-2e07-4971-9e30-8b0c63eb4ff2"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "8h ago",
+      "pubDate": "2026-06-30T04:01:24.000Z",
+      "title": "What would multilateral ‘AI arms control’ look like?",
+      "body": "What would multilateral ‘AI arms control’ look like? Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/7aa4b53d-2e07-4971-9e30-8b0c63eb4ff2"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-06-30T00:53:48.000Z",
       "title": "All Financial Services Insights",
       "body": "All Financial Services Insights Bloomberg.com",
@@ -132,22 +184,9 @@
       "href": "https://www.bloomberg.com/professional/insights/category/financial-services/?pg"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-06-30T00:19:50.000Z",
-      "title": "Former Chinese Billionaire and Bannon Associate Is Sentenced for Fraud",
-      "body": "Former Chinese Billionaire and Bannon Associate Is Sentenced for Fraud The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/2026/06/29/us/guo-wengui-sentencing.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "13h ago",
       "pubDate": "2026-06-29T23:13:00.000Z",
       "title": "Dow Hits Record as Tech Starts Week Strong",
       "body": "Dow Hits Record as Tech Starts Week Strong WSJ",
@@ -160,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-29T22:43:43.000Z",
       "title": "Uber, Waymo end robotaxi partnership in Phoenix",
       "body": "Uber, Waymo end robotaxi partnership in Phoenix Reuters",
@@ -171,22 +210,9 @@
       "href": "https://www.reuters.com/business/uber-waymo-end-robotaxi-partnership-phoenix-2026-06-29/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
-      "pubDate": "2026-06-29T22:32:01.000Z",
-      "title": "Check out Boyd Gaming Corp's stock price (BYD) in real time",
-      "body": "Check out Boyd Gaming Corp's stock price (BYD) in real time CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/quotes/BYD"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-29T22:31:12.000Z",
       "title": "Waymo and Uber end robotaxi pilot in Phoenix",
       "body": "Waymo and Uber end robotaxi pilot in Phoenix CNBC",
@@ -199,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-06-29T22:02:39.000Z",
       "title": "French biotech company Ipsen to buy Kartos Therapeutics for $450 million",
       "body": "French biotech company Ipsen to buy Kartos Therapeutics for $450 million Reuters",
@@ -210,22 +236,9 @@
       "href": "https://www.reuters.com/business/french-biotech-company-ipsen-buy-kartos-therapeutics-450-million-2026-06-29/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
-      "pubDate": "2026-06-29T20:17:17.000Z",
-      "title": "Supermicro Taiwan offices raided in chip smuggling probe",
-      "body": "Supermicro Taiwan offices raided in chip smuggling probe Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/a033c2fb-6c0b-4d25-9795-a04b95964e23?syn-25a6b1a6"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-06-29T18:54:59.000Z",
       "title": "Uber and Waymo Have Ended Their Robotaxi Tie-Up in Phoenix; Uber to Announce New Partner",
       "body": "Uber and Waymo Have Ended Their Robotaxi Tie-Up in Phoenix; Uber to Announce New Partner Bloomberg.com",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-06-29/baidu-s-cfo-on-how-it-became-a-full-stack-ai-player"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-06-29T04:04:07.000Z",
-      "title": "China's Momenta kicks off Hong Kong IPO, targets up to $751 million",
-      "body": "China's Momenta kicks off Hong Kong IPO, targets up to $751 million Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/chinas-momenta-seeks-up-751-million-hong-kong-ipo-boost-autonomous-driving-rd-2026-06-29/"
     }
   ]
 }
