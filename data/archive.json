@@ -1,6 +1,28 @@
 {
-  "asOf": "2026-07-01 05:10 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-01 06:00 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-06-30T18:32:00.000Z",
+      "title": "테슬라 스페이스X 지분 $2B → <em>$2.9B 시가반영</em> — Q2에 ~$9.4억 투자이익 신규 반영",
+      "hotShort": "테슬라 스페이스X지분 <em>~$9.4억 Q2 투자이익</em> 반영",
+      "body": "테슬라가 Q1 2026 8-K에서 스페이스X 약 1,900만 주(원가 $2B)를 보유 중임을 공시, '공정가치' 회계로 분기별 시가반영을 선택했다 — 스페이스X IPO(6월 12일) 이후 현재 시가 약 $2.9B로, Q2 종료 시점 약 $9.4억의 투자평가이익이 실적에 반영될 전망이다. Barron's는 이 구조가 TSLA·SpaceX 주가가 '쌍둥이처럼 거래'되는 핵심 원인이라고 분석했다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-spacex-stake-marktomarket-2026-06-30",
+      "summary": "테슬라는 2026년 1분기 8-K(4월 22일 공시)에서 스페이스X 약 1,900만 주를 보유하고 있음을 밝혔다. 이 지분은 2026년 1월 테슬라가 xAI 시리즈 E에 $2B를 투자한 것이 계기가 됐으며, 스페이스X가 xAI Holdings를 인수하는 과정에서 테슬라의 xAI 우선주가 스페이스X 클래스A 보통주로 전환됐다(최종 전환 2026년 3월 12일).\n\n핵심 회계 선택: 테슬라는 이 스페이스X 지분에 대해 '공정가치 옵션(Fair Value Option)'을 선택했다. 이는 분기 말 시가로 자산을 평가하고 그 변동액을 손익계산서에 직접 반영하는 방식이다. 스페이스X가 6월 12일 IPO($75B 조달, 기업가치 $1.77T)를 완료하면서 테슬라의 스페이스X 지분은 처음으로 시장 거래 가격으로 평가된다.\n\n6월 30일 기준 스페이스X 주가 약 $154.54, 테슬라의 19M 주 시가는 약 $2.93B이다. 원가 $2B 대비 약 $9.3억의 미실현이익이 발생했으며, 이것이 테슬라의 Q2 투자손익으로 인식된다. 단, Q2 최종값은 6월 30일 종가 기준으로 확정된다.\n\n이 구조가 Barron's가 분석한 'TSLA·SpaceX 쌍둥이 거래'의 본질이다. 스페이스X 주가가 IPO 후 고점($192 내외) 대비 약 19% 하락하는 동안 TSLA도 동반 조정됐고, 반대로 스페이스X가 반등하면 테슬라 실적도 개선되는 구조다.\n\n투자자 관점에서 이 사안의 함의는 두 가지다. 첫째, 테슬라의 Q2 EPS에는 순수 영업이익 외에 스페이스X 투자평가이익 약 $9.3억(세전)이 포함될 가능성이 있어, 어닝 비교 시 일회성 항목을 분리할 필요가 있다. 둘째, 스페이스X 주가 변동이 이제 매 분기 테슬라 EPS에 직접 반영되는 새로운 변수가 됐으며, 7월 22일 어닝콜에서 CFO가 이 항목을 어떻게 설명할지 주목된다.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-spacex-merger-c29d6bb4",
+      "confirmedBy": 3,
+      "confirmingSources": ["Barron's", "Yahoo Finance", "247 Wall St."],
+      "sentiment": "neutral",
+      "hot": 7,
+      "title_en": "Tesla's SpaceX stake: $2B invested → <em>$2.9B market value</em> — ~$930M Q2 investment gain expected",
+      "hotShort_en": "TSLA SpaceX stake nets <em>~$930M</em> in Q2",
+      "body_en": "Tesla disclosed in its Q1 2026 8-K that it holds approximately 19 million SpaceX shares — the position originated from a $2B xAI Holdings investment that converted to SpaceX stock when SpaceX acquired xAI. At SpaceX's current price of ~$154.54 (June 30), the stake is worth approximately $2.9B, implying a roughly $930M Q2 investment gain that flows directly to Tesla's income statement under its fair value accounting election. Barron's identified this structure as the reason Tesla and SpaceX shares trade in near-lockstep — when SpaceX drifts, so does Tesla's quarterly EPS.",
+      "summary_en": "Tesla's Q1 2026 8-K, filed April 22, disclosed for the first time that the company holds approximately 19 million SpaceX shares. The position traces back to January 16, 2026, when Tesla agreed to invest $2 billion in xAI Holdings' Series E funding round. SpaceX subsequently acquired xAI Holdings, and Tesla's xAI preferred shares were converted to SpaceX Class A common stock — an exchange Tesla completed on March 12, 2026.\n\nThe critical accounting decision: Tesla elected the fair value option on the SpaceX investment. Under this method, Tesla marks the position to the market price at the end of each quarter and flows the gain or loss directly through its income statement. Before SpaceX went public on June 12, 2026 (raising $75B at a $1.77 trillion valuation), the position was carried on Tesla's balance sheet at cost. The IPO introduced a daily observable price, making the fair value approach both mandatory and visible.\n\nAs of June 30, SpaceX trades at approximately $154.54 per share, down roughly 19% from its early post-IPO peak of around $192. Tesla's 19 million shares are therefore worth approximately $2.93 billion. Against the $2 billion cost basis, this represents a pre-tax unrealized gain of approximately $930 million that will be recognized in Tesla's Q2 2026 earnings.\n\nBarron's identified this fair value structure as the mechanical reason TSLA and SpaceX have traded in near-lockstep since the IPO. When SpaceX fell roughly 19% from its post-IPO peak, Tesla's quarterly income statement faced a corresponding reduction in its investment gain.\n\nFor Tesla investors, the SpaceX stake introduces two new analytical variables. First, Tesla's Q2 EPS will include a meaningful non-cash, non-operating investment gain — roughly $930M pre-tax — that must be separated from operating performance when comparing to the prior quarter or Wall Street's operating estimates. Second, SpaceX stock volatility is now a permanent feature of Tesla's quarterly earnings cadence, meaning TSLA valuation work requires modeling both Tesla's operations and the SpaceX position. The July 22 Q2 earnings call is the first occasion where Tesla's CFO will need to address this item at scale."
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
