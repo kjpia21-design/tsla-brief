@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-06-30 20:10 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-30 21:45 KST 자동 갱신 · 최신순",
   "items": [
     {
       "category": "fsd",
@@ -15,7 +15,11 @@
       "summary": "테슬라는 H1 2026(2026년 상반기, 즉 6월 30일까지)을 목표로 라스베이거스·탬파·올랜도·마이애미·피닉스 5개 도시에 로보택시 서비스를 출범할 예정이었다. 오늘이 그 기한이다. 5개 도시 모두 영업 개시 0곳이다.\n\n상황은 이미 봄부터 예고됐다. Electrek이 4월 22일 보도한 바에 따르면 테슬라의 Q1 2026 투자자 서한에서 이 5개 도시의 상태가 기존 'H1 2026'에서 '준비 진행 중(Preparations Underway)'으로 바뀌었다 — 사실상 기간 없는 연기다. 지금까지 무인 자율주행(Unsupervised FSD) 서비스가 실제로 출범한 도시는 오스틴(2025년 6월 출범, 2026년 6월 3일 대도시권 전체 확장), 댈러스·휴스턴(2026년 4월 20일 론칭) 뿐이다.\n\n플릿 규모는 더 심각한 문제다. Bloomberg은 6월 10일, 테슬라의 로보택시 총 플릿이 오스틴·댈러스·휴스턴 전체를 합쳐 59대에 불과하다고 보도했다. 같은 기간 웨이모(Waymo)는 텍사스에만 577대를 등록해 테슬라의 13배를 넘었다. 머스크가 2025년 어닝콜에서 예고한 '2025년 말 오스틴 500대 이상'은 실현되지 않았으며, 현재 플릿 규모로는 탑승 대기 시간이 30분을 넘는 것이 일상이다.\n\n투자자 관점에서 이 기한 미달성은 단순한 일정 지연을 넘어 밸류에이션 가정에 대한 시험이다. 테슬라 주가는 부분적으로 로보택시 수익화 잠재력에 기반한 높은 배수를 반영하고 있다. The Future Fund의 Gary Black은 '테슬라 로보택시 플릿이 40대를 넘지 않는 한 $600 강세 시나리오는 성립하지 않는다'고 경고해왔다. 다음 책임 시점은 7월 22일 Q2 실적 발표에서 머스크가 로보택시 확장 타임라인을 어떻게 재설정하느냐다.",
       "href": "https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises",
       "confirmedBy": 3,
-      "confirmingSources": ["Bloomberg", "Electrek", "Stocktwits"],
+      "confirmingSources": [
+        "Bloomberg",
+        "Electrek",
+        "Stocktwits"
+      ],
       "sentiment": "bear",
       "hot": 7,
       "title_en": "Tesla's H1 Robotaxi Deadline Expires — <em>Zero of 5 Cities</em> Launched",
@@ -37,7 +41,12 @@
       "summary": "6월 20일(금) 오전 텍사스 케이티(Katy)에서 테슬라 모델3가 시속 73마일(약 117km/h)로 주택을 들이받는 사고가 발생했다. 운전자는 경찰에 차량이 FSD(Full Self-Driving) 모드로 작동 중이었다고 진술했으며, 집에 있던 Martha Avila(76세)가 현장에서 사망했다.\n\nNHTSA(미국 도로교통안전국)는 6월 22일 기존 3.2M대 FSD 대상 공학분석(Engineering Analysis, 2026년 3월 개시)에 케이티 사고를 포함시키며 조사를 확대했다. NTSB(국가교통안전위원회)도 독립 조사에 착수해 이중 연방 조사(dual federal probe) 체계가 형성됐다.\n\n테슬라 AI 총괄 아쇽 엘루스와미는 차량 데이터를 인용, '운전자가 가속 페달을 100% 밟아 FSD가 관여하지 않았다'고 반박했다. 법적 공방의 핵심은 사고 당시 FSD의 실제 활성화 여부다.\n\n주주 관점에서 이 사안은 두 가지 층위에서 중요하다. 첫째, NHTSA 공학분석이 이미 진행 중인 상황에서 NTSB가 가세하면 조사 결과가 리콜 또는 추가 규제로 이어질 가능성이 높아진다. 둘째, 사이버캡 로보택시 확장 계획과 동시에 연방 이중 조사가 진행된다는 사실 자체가 규제·평판 리스크로 작용한다. 사이버캡은 SAE Level 4 자율 시스템으로 공식 분류되며, 같은 시기에 FSD 감독 시스템과 관련한 연방 조사가 쌓이면 인허가 과정에서 걸림돌이 될 수 있다.",
       "href": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
       "confirmedBy": 4,
-      "confirmingSources": ["CNBC", "Electrek", "TechTimes", "Yahoo News"],
+      "confirmingSources": [
+        "CNBC",
+        "Electrek",
+        "TechTimes",
+        "Yahoo News"
+      ],
       "sentiment": "bear",
       "hot": 8,
       "title_en": "Fatal Texas FSD crash triggers <em>dual federal probe</em> by NHTSA and NTSB",
@@ -59,7 +68,11 @@
       "summary": "유럽위원회 산하 자동차기술위원회(TCMV)가 6월 30일 테슬라 FSD의 EU 전역 형식승인 여부를 논의하는 첫 공식 심의를 개최했다. 이 심의는 네덜란드(RDW)가 4월에 EU 최초로 FSD(Supervised)를 국가 단위로 승인하고 유럽위원회 통보 절차를 밟으면서 개시됐다.\n\n핵심 쟁점은 FSD의 'Speed Offset' 기능이다. Speed Offset은 FSD 활성화 시 운전자가 설정한 속도제한 초과 허용 마진을 부여하는 기능으로, 예컨대 제한속도 90km/h 도로에서 FSD가 최대 100km/h까지 주행을 허용한다. 스웨덴 교통국(Swedish Transport Administration)은 4월 30일 공문을 통해 이 기능의 제거 없이는 EU 전체 투표에서 반대표를 던지겠다고 공식 통보했다. 핀란드와 노르웨이도 유사한 우려를 제기했다.\n\n반면 리투아니아·에스토니아·벨기에·덴마크는 이미 자체 국가 승인을 완료해 FSD가 이 나라들에서는 법적으로 허용된 상태다. 오늘 심의는 구속력 없는 예비 회의로, 최종 표결은 2026년 4분기 TCMV 본회의에서 이뤄질 것으로 예상된다.\n\n주주 관점에서 EU TCMV 심의는 유럽 FSD 수익화의 결정적 관문이다. EU 전역 승인이 나면 테슬라는 유럽 전체 FSD 오너에게 구독 서비스를 공식 제공할 수 있다. Speed Offset이 핵심 쟁점인 만큼, 테슬라가 이 기능을 EU 출시판에서 제거하거나 기본값을 0으로 설정하는 방향으로 수정할 경우 표결을 통과할 가능성이 높다 — 그러나 이는 FSD의 실제 기능 수준과 마케팅 메시지에도 영향을 준다.",
       "href": "https://electrek.co/2026/06/18/sweden-tesla-fsd-speeding-eu-vote/",
       "confirmedBy": 3,
-      "confirmingSources": ["Electrek", "Not a Tesla App", "InsideEVs"],
+      "confirmingSources": [
+        "Electrek",
+        "Not a Tesla App",
+        "InsideEVs"
+      ],
       "sentiment": "neutral",
       "hot": 7,
       "title_en": "EU TCMV opens FSD review — Sweden: <em>'remove speed override or we vote no'</em>",
@@ -81,7 +94,10 @@
       "summary": "테슬라 차량 공학 부사장(VP of Vehicle Engineering) 라스 모라비(Lars Moravy)가 Ride the Lightning 팟캐스트의 Herbert Ong과 단독 인터뷰를 진행했으며, 6월 30일 에피소드로 공개됐다.\n\n인터뷰의 핵심 두 가지는 명확하다. 첫째, 모라비는 '오는 화요일(7월 7일)에 기가텍사스에서 진행 중인 스케일링 노력과 관련해 멋진 소식이 있을 것(there will be some cool news about things happening around Giga Texas as part of the scaling effort)'이라고 예고했다. 구체적인 내용은 언급하지 않았다. 둘째, 그는 차세대 테슬라 로드스터가 기가팩토리 텍사스(오스틴)에서 생산될 것임을 공식 확인했다.\n\n테슬라 수석 디자이너 프란츠 폰 홀츠하우젠(Franz von Holzhausen)도 별도 인터뷰에서 로드스터가 '몇 주 안에' 출시될 수 있다고 시사한 바 있어, 7월 7일 발표가 로드스터 공개 또는 생산 개시와 연관됐을 가능성이 있다.\n\n7월 7일 '기가텍사스 소식'이 무엇인지는 아직 미공개다. 업계에서는 사이버캡 생산 마일스톤, 옵티머스 로봇 기가텍사스 배치 확대, 로드스터 생산 개시 공식 발표, 또는 새로운 생산라인 관련 발표 등이 거론된다. 모라비가 '스케일링 노력'이라는 표현을 사용했다는 점에서 생산 확대와 관련된 발표일 가능성이 높다.\n\n주주 관점에서 7월 7일 기가텍사스 발표는 Q2 인도 발표(7월 2일)와 Q2 확정 어닝(7월 22일) 사이에 위치한 중간 촉매다. 특히 로드스터 생산 개시가 확인된다면, 이는 테슬라가 새로운 고마진 프리미엄 차종을 라인업에 추가한다는 신호로 주가에 긍정적으로 작용할 수 있다.",
       "href": "https://www.basenor.com/blogs/news/tesla-vp-teases-giga-texas-scaling-news-for-july-7",
       "confirmedBy": 2,
-      "confirmingSources": ["Ride the Lightning (Herbert Ong)", "Teslarati"],
+      "confirmingSources": [
+        "Ride the Lightning (Herbert Ong)",
+        "Teslarati"
+      ],
       "sentiment": "bull",
       "hot": 6,
       "title_en": "Tesla VP Lars Moravy teases Giga Texas <em>'cool news' on July 7</em> — Roadster build site confirmed",
@@ -90,27 +106,31 @@
       "summary_en": "Tesla VP of Vehicle Engineering Lars Moravy sat down with Ride the Lightning host Herbert Ong in an episode released June 30, providing some of the most specific Tesla production hints in months.\n\nThe headline item: 'A week from Tuesday — so July 7 — there will be some cool news about things happening around Giga Texas as part of the scaling effort.' Moravy didn't elaborate on what the news would be, but the 'scaling effort' framing suggests production milestone or capacity expansion rather than a new product announcement.\n\nThe second headline: Moravy formally confirmed on-record that the next-generation Tesla Roadster will be produced at Gigafactory Texas. The Roadster has been in development since its original 2017 reveal, with repeated production start delays. This is the most direct executive confirmation that Austin is the chosen manufacturing site.\n\nThose two disclosures potentially converge: Chief Designer Franz von Holzhausen separately told a different interviewer that the Roadster could come 'in a few weeks' — language that aligns with a July 7 announcement window. If the Giga Texas news on July 7 involves Roadster production launch, it would mark one of Tesla's most consequential product milestones of 2026.\n\nFor investors, July 7 sits between two major data events: the Q2 delivery report (July 2) and the Q2 earnings call (July 22). A significant Giga Texas announcement in that gap could serve as a sentiment catalyst during an otherwise quiet stretch. A Roadster production start in particular would signal that Tesla's vehicle engineering pipeline — beyond the Cybercab — is executing on schedule, which has been a recurring investor concern given historical delivery misses on new models."
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
-      "pubDate": "2026-06-30T06:01:00.000Z",
-      "title": "BMW·페라리·스텔란티스, 테슬라 이어 <em>알루미늄 배선</em> 전환 — 구리 대체 산업 트렌드 확산",
-      "hotShort": "BMW·페라리, 테슬라 이어 <em>알루미늄 배선</em> 전환",
-      "body": "로이터 분석에 따르면 테슬라가 2019년 모델 Y부터 도입한 알루미늄 배선이 업계 표준으로 확산 중이다 — BMW는 6세대 eDrive 전체에, 페라리는 296 하이브리드·신형 Luce EV에, 스텔란티스도 최근 도입을 시작했다. 알루미늄은 구리 대비 비용 약 1/3·배선 하네스 무게 40~50% 절감이 가능해 구리 가격 구조적 상승 환경에서 원가 경쟁력의 핵심 변수가 됐다 — 올해만 전 세계 구리 수요의 약 2%가 이 전환으로 대체될 전망.",
-      "sourceName": "Reuters",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "7h ago",
+      "pubDate": "2026-06-30T06:00:00.000Z",
+      "title": "미래에셋, SpaceX IPO 23개 인수단 중 <em>단독 배정 0주</em> — 한국 수요 $11억 주문서 누락",
+      "hotShort": "미래에셋, SpaceX IPO <em>$11억 수요 주문서 누락</em>",
+      "body": "23개 인수단 중 유일하게 미래에셋만 SpaceX IPO 주식 배정을 한 주도 받지 못했다 — 공모 초기 '관심 표명'을 정식 구속력 있는 주문으로 오인해 $11억(약 1조 5천억 원)에 달하는 한국 고객 수요가 주문서에 반영되지 않은 결과다. 부회장 두 명이 공식 사과했으며 한국 금감원이 조사를 착수했다.",
+      "sourceName": "Bloomberg",
       "sourceLabel": "press",
-      "slug": "product-tesla-copper-aluminum-wiring-industry-2026-06-30",
-      "summary": "로이터가 6월 30일 분석한 자동차 업계 배선 소재 전환 트렌드에서 테슬라는 선구자로 지목됐다. 테슬라는 2019년 모델 Y 생산부터 고압 전기 배선에 알루미늄 도체를 채택했으며, 최근에는 사이버트럭에도 확대 적용했다. 알루미늄은 구리 대비 무게가 약 40~50% 수준이고 비용도 약 1/3에 불과해 차량 경량화와 원가 절감을 동시에 달성할 수 있다.\n\n이제 업계 주요 업체들이 본격적으로 동참하고 있다. BMW는 2011년 1시리즈 컴팩트카에 알루미늄 도체를 처음 도입한 이후, 2025/2026년 출시한 6세대 eDrive 기술부터는 고·저전압 시스템 전체에 알루미늄 케이블을 대거 채용하고 있다. 페라리는 296 하이브리드 스포츠카에서 전력 케이블에 알루미늄을 도입했으며, 최근 출시한 첫 번째 전기차 Luce에도 적용했다. 세계 4위 자동차 그룹 스텔란티스도 최근 알루미늄 전환을 시작했다.\n\n이 전환의 배경에는 구리 가격의 구조적 상승이 있다. 녹색 에너지 전환과 데이터센터 확장으로 구리 수요가 급증하는 가운데 공급 부족이 겹치며 가격이 장기 우상향 추세를 보이고 있다. 로이터는 올해 이 산업 전환으로 전 세계 구리 수요의 약 2%가 대체될 것으로 분석했다.\n\n테슬라 주주 관점에서 이번 추세는 긍정적 신호다. 첫째, 7년 전 테슬라가 시작한 재료 혁신이 이제 업계 표준이 되어가고 있다는 것은 테슬라의 기술 선도력을 입증한다. 둘째, 구리 가격 상승 환경에서 테슬라는 이미 알루미늄 전환을 선제적으로 완료해 원자재 가격 변동에 대한 완충 효과를 누리고 있다. 셋째, 알루미늄 배선의 경량화(배선 하네스 무게 40~50% 절감)는 전기차 주행거리 연장에도 직결되는 이점이다.",
-      "href": "https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/",
+      "slug": "musk-spacex-mirae-ipo-zero-2026-06-30",
+      "summary": "SpaceX는 2026년 6월 12일 나스닥에 상장했다. 조달 규모 $750억, 밸류에이션 $1.77조로 글로벌 역사상 최대 규모 IPO였다. 공모에는 총 23개 증권사가 인수단으로 참여했으며, 이 중 미래에셋증권은 유일하게 주식을 단 1주도 배정받지 못했다.\n\n핵심은 의사소통 오해다. 월가 주관사들은 IPO 초기 단계에서 인수단에 투자자 관심 의향(indication of interest)을 확인하는 이메일을 발송했다. 미래에셋은 이에 응답하며 투자 의향을 전달했다. 그러나 이는 단순한 관심 표명이었으며, 실제 구속력 있는 공모 주문은 몇 주 후 별도 이메일을 통해 제출해야 하는 별개의 절차였다. 관행상 관심 표명과 정식 주문 제출은 명확히 구분된다. 미래에셋은 관심 표명 단계를 정식 주문 완료로 인식해 이후 공모 주문서를 제출하지 않았고, 월가 주관사 입장에서 미래에셋의 정식 주문은 0이었다.\n\n그 결과 $11억(약 1조 5천억 원)에 달하는 한국 고객 수요가 SpaceX 공모 주문서에 전혀 반영되지 않았다. 미래에셋 부회장 김미섭·허선호 두 명은 공식 사과문을 내고 \"큰 기대와 설렘으로 SpaceX IPO 청약에 참여해주신 고객분들께 무거운 심정으로 머리를 숙인다\"고 밝혔다. 한국 금융감독원(FSS)은 먼저 IPO 청약 투자자의 적격성 검사를 시작했으며 이후 미래에셋의 배정 실패 경위 조사로 확대했다.\n\n테슬라 주주 관점에서 이 사건은 두 가지 층위에서 읽힌다. 첫째, 한국 개인 투자자들의 머스크 생태계(Tesla·SpaceX·xAI)에 대한 수요가 $11억 이상임을 보여준다 — 미래에셋이 놓친 금액이 그 규모이며 실제 수요는 더 컸을 것이다. 이 한국 투자자 기반은 테슬라 주식 수요의 중요한 축이기도 하다. 둘째, SpaceX 상장주식은 이제 테슬라와 같은 '머스크 팬' 투자자 자금을 두고 경쟁하는 독립된 투자 대상이 됐다 — 한국 투자자들이 SpaceX와 Tesla 중 어디에 자금을 배분할지가 TSLA 한국 수요 기반에 영향을 줄 구조적 변수다.",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-30/spacex-ipo-left-korea-broker-with-no-shares-on-misunderstanding",
       "confirmedBy": 4,
-      "confirmingSources": ["Reuters", "Autonews", "IDNFinancials", "Sowetan"],
-      "sentiment": "bull",
-      "hot": 5,
-      "title_en": "BMW, Ferrari, Stellantis follow Tesla into <em>aluminum wiring</em> — industry switch accelerates",
-      "hotShort_en": "BMW & Ferrari join Tesla's <em>aluminum wiring</em> shift",
-      "body_en": "Reuters reports that Tesla's 2019 shift to aluminum wiring in the Model Y is becoming an industry standard — BMW, Ferrari, Stellantis, and Chinese EV makers are now following suit as structural copper price increases reshape vehicle manufacturing economics. Aluminum costs roughly one-third of copper and reduces wiring harness weight by 40–50%, and the industry-wide transition is forecast to displace roughly 2% of global copper demand this year alone.",
-      "summary_en": "Tesla began deploying aluminum conductors in vehicle wiring systems starting with the Model Y in 2019 and has since extended the approach to the Cybertruck. The choice was driven by two structural advantages: aluminum wiring harnesses weigh roughly 40–50% less than copper equivalents, directly contributing to electric vehicle range; and aluminum costs approximately one-third as much per unit, lowering material costs per vehicle.\n\nAccording to Reuters' June 30 analysis, major automakers are now following Tesla's lead. BMW first used aluminum conductors in its compact 1 Series in 2011, but the approach became large-scale in 2025 and 2026 with the launch of its sixth-generation eDrive technology — now using aluminum cables extensively across both high and low-voltage systems. Ferrari introduced aluminum wiring for power cables in its 296 hybrid sports car and applied the technology to the Luce, its first electric vehicle launched last month. Stellantis, the world's fourth-largest automaker by volume, has also recently started the copper-to-aluminum transition.\n\nThe catalyst is a structural rise in copper prices, driven by supply shortfalls and accelerating demand from green energy build-out and data center expansion. Reuters estimates that the automotive industry's shift to aluminum will displace about 2% of global copper demand this year — a figure that will grow as adoption accelerates.\n\nFor Tesla shareholders, the industry-wide adoption of aluminum wiring carries clear strategic implications. Tesla's materials innovation from seven years ago is now validated as the winning approach across the auto industry. In a rising copper-price environment, Tesla's early and comprehensive adoption means less commodity exposure than peers who are still mid-transition. The weight savings also contribute to sustained range performance — a durable differentiator at a time when range remains the primary consumer concern around electric vehicles.",
-      "pubDate": "2026-06-30T06:01:00.000Z"
+      "confirmingSources": [
+        "Bloomberg",
+        "Seeking Alpha",
+        "KED Global",
+        "The Edge Singapore"
+      ],
+      "sentiment": "neutral",
+      "hot": 6,
+      "title_en": "Mirae Asset gets <em>zero SpaceX IPO shares</em> among 23 underwriters — $1.1B in Korean orders unfiled",
+      "hotShort_en": "Mirae Asset: SpaceX IPO <em>$1.1B Korean orders missed</em>",
+      "body_en": "Mirae Asset was the only firm among SpaceX's 23 underwriters to receive zero IPO shares — after misreading an early indication-of-interest request as the formal order submission, leaving $1.1 billion in Korean client demand unfiled. Mirae's two vice chairmen issued a public apology and South Korea's Financial Supervisory Service launched an investigation — a case study in how the world's largest IPO left Korea's retail investor base empty-handed.",
+      "summary_en": "SpaceX listed on Nasdaq on June 12, 2026 — the largest IPO in global history, raising $75 billion at a $1.77 trillion valuation. Among the 23 underwriting firms that participated in the deal, Mirae Asset Securities was the only one to receive zero shares in the final allocation.\n\nThe mechanism was procedural. SpaceX's Wall Street bookrunners sent an early email asking underwriters to indicate investor interest — a standard pre-order step in large IPOs. Mirae Asset responded, correctly signaling substantial client demand. But the firm then treated this exchange as a completed submission. The actual binding order entry step came weeks later via a separate email, as is customary for IPOs of this type. Because Mirae Asset did not file formal orders at the correct step, the bookrunners recorded zero demand from the firm and allocated zero shares.\n\nThe consequence: $1.1 billion in Korean client orders never reached the IPO order book. Vice Chairmen Kim Mi-seop and Heo Seon-ho issued a formal public apology, stating they 'bow their heads in apology for delivering such unfortunate and heavy news to customers who participated in the SpaceX IPO subscription with great interest and anticipation.' South Korea's Financial Supervisory Service (FSS) launched a review first focused on investor eligibility, then expanded to examine the failed allocation process itself.\n\nFor Tesla investors, the episode signals two things simultaneously. First, Korean retail demand for exposure to the Musk ecosystem — Tesla, SpaceX, xAI — is enormous: $1.1 billion in demand went unfiled from a single broker, and actual appetite was clearly larger. This Korean investor base is a meaningful pillar of TSLA's global retail demand. Second, SpaceX is now a publicly traded vehicle competing directly with Tesla for the same Korean investor allocation pool. How that capital competition resolves — whether SpaceX enthusiasm spills over into more TSLA buying, or redirects capital away — will be a structural dynamic for Tesla's Korean shareholder base through the rest of 2026."
     },
     {
       "category": "musk",
@@ -126,7 +146,10 @@
       "summary": "Barron's 보도에 따르면 스페이스X는 미국 제2위 케이블·인터넷 사업자 차터 커뮤니케이션즈(Charter Communications, CHTR)와 파트너십을 통해 미국 이동통신 서비스(MVNO 방식) 시장 진입을 검토 중이다. 핵심 구조는 스타링크 위성 직접연결(Direct-to-Cell) 기술과 차터의 유선 인프라·기존 가입자 기반을 결합하는 '위성+지상' 하이브리드 이동통신 서비스다.\n\n시장 반응은 즉각적이었다. 차터 주가는 당일 S&P 500 전체 종목 중 최고 상승률을 기록했다. 반면 버라이즌·AT&T·T모바일은 강력한 신규 경쟁자 진입 우려로 동반 급락했다. 스페이스X는 이미 T모바일과 위성 직접연결 서비스를 공동 개발해왔지만, 차터와의 이번 논의는 독자적 이동통신 사업자 진출에 가까운 더 적극적인 모델로 해석된다.\n\n테슬라 주주에게 이 소식은 복합적 함의를 갖는다. 긍정 측면: 스타링크·스페이스X 통신 확장은 테슬라 차량의 위성 기반 OTA 업데이트·차내 연결성 인프라를 강화하는 기반이 된다. 또 머스크 생태계 전반의 외연 확장과 수익 다각화는 TSLA 밸류에이션의 '생태계 프리미엄'을 높이는 방향이다. 부정 측면: 스페이스X가 이동통신이라는 새로운 대형 사업 영역에 깊게 개입할수록, 머스크의 경영 자원과 관심이 테슬라에서 더 분산될 수 있다는 우려도 커진다.\n\n스페이스X의 이동통신 진출은 위성과 지상망의 수직계열화 전략으로, 스타링크가 글로벌 저지연 커버리지를 제공하는 반면 지상 셀 네트워크는 밀집 도심에서 고밀도 커버리지를 제공한다. 두 네트워크를 하나의 서비스로 통합할 경우 기존 통신사가 따라오기 어려운 차별화된 가격·커버리지 경쟁력을 확보할 수 있어 통신 업계 판도를 뒤흔들 잠재력이 있다.",
       "href": "https://www.barrons.com/articles/spacex-mobile-phone-stock-telecom-e603272b",
       "confirmedBy": 2,
-      "confirmingSources": ["Barron's", "Bloomberg"],
+      "confirmingSources": [
+        "Barron's",
+        "Bloomberg"
+      ],
       "sentiment": "neutral",
       "hot": 7,
       "title_en": "SpaceX explores <em>mobile phone business</em> with Charter — Verizon, AT&T, T-Mobile fall",
@@ -148,7 +171,11 @@
       "summary": "테슬라가 2026년 6월 29일, HW3(하드웨어 3) 차량용 FSD v14 Lite 첫 번째 펌웨어(2026.20.5.1)를 얼리 액세스 고객에게 배포하기 시작했다. 아쇽 엘루스와미(Tesla AI 책임자)가 전날 배포를 공식 확인한 지 하루 만의 실제 출시다. HW3 차량이 마지막으로 FSD 업데이트를 받은 건 2025년 4월 — 14개월이 넘는 공백 끝에 이번 업데이트가 이뤄졌다.\n\nv14 Lite의 핵심 신규 기능은 세 가지다. ① Arrival Options — 목적지 도착 전에 FSD가 주차할 위치(주차장·도로변·진입로·커브 중)를 미리 선택할 수 있다. ② Speed Profile SLOTH — 기존 Chill보다 낮은 속도와 더 보수적인 차로 선택을 제공하는 신규 주행 모드로, 교통 상황이 복잡한 환경에서 유용하다. ③ 합류·보행자 상호작용·신호등·끼어들기 반응성 전반 개선. 주차·출차·후진 지원도 강화됐다.\n\n약 400만 대의 HW3 차량이 최종 배포 대상이다. 현재는 얼리 액세스 고객을 시작으로 수주 내 전체 HW3 오너로 확대될 예정이다. v14 Lite는 FSD 슈퍼바이즈드(레벨 2) 체계를 유지해 운전자 주의가 여전히 필수이며, HW3의 연산·카메라 한계로 무인 로보택시 운행은 지원하지 않는다.\n\n주주 관점에서 이번 배포는 두 가지 의미다. 첫째, HW3 오너의 FSD 구독 이탈 리스크를 낮추고 구독 기반을 유지한다. 둘째, 400만 대 규모의 신규 주행 데이터를 v14 신경망 훈련에 활용해 소프트웨어 개선 속도를 높일 수 있다. 테슬라가 HW3에 레벨 2 FSD를 계속 지원함으로써, HW4 업그레이드 전까지 이 고객군을 생태계 안에 붙들어 두는 전략적 포석이기도 하다.",
       "href": "https://www.teslaoracle.com/2026/06/29/tesla-starts-the-rollout-of-fsd-v14-lite-2026-20-5-1-for-hw3-owners-official-release-notes-rollout-status/",
       "confirmedBy": 3,
-      "confirmingSources": ["Ashok Elluswamy (X)", "Tesla Oracle", "Teslarati"],
+      "confirmingSources": [
+        "Ashok Elluswamy (X)",
+        "Tesla Oracle",
+        "Teslarati"
+      ],
       "sentiment": "bull",
       "hot": 9,
       "title_en": "Tesla Ships FSD v14 Lite (2026.20.5.1) to HW3 — <em>4 Million Cars</em>, First Update in 14 Months",
@@ -170,7 +197,11 @@
       "summary": "테슬라가 공식 발표한 Q2 2026 인도 컨센서스는 2분기 실적을 앞두고 월가의 기대치를 하나의 표로 정리한 것이다. 총 406,024대(모델 3/Y 392,646대 + 사이버트럭·모델 S/X·세미 등 기타 12,978대)가 컨센서스 중앙값이다. 비교 기준: Q1 2026 인도는 336,681대였으므로 컨센서스 실현 시 QoQ +20.6% 성장이다.\n\n개별 기관 예상치는 대체로 컨센서스 상단에 몰려 있다. 골드만삭스(420K)·바클레이스(418K)·모건스탠리(413K)는 유럽·중국 판매 강세를 이유로 상단에 위치한다. JP모건 라잣 굽타 애널리스트는 430,500대에서 420,000대로 하향 조정하며 혼조된 EV 수요 신호를 이유로 들었다. UBS는 405,000대 추정에 중립 의견·목표주가 $364를 유지했다. 상단과 하단 예상치 격차가 15K 수준으로 좁아 차량 대수 서프라이즈 폭은 제한적일 전망이다.\n\n에너지 스토리지가 이번 Q2의 숨겨진 변수다. 컨센서스 13.8GWh는 Q1 8.8GWh 대비 57% 급증한 수치다. 테슬라의 에너지 스토리지 사업(메가팩·파워월)은 차량 판매보다 마진율이 높아, 실제 수치가 컨센서스를 웃돌면 2분기 전체 영업 마진을 끌어올릴 여지가 있다. 배터리 원자재 가격 하락이 계속되는 환경에서 메가팩 마진 확대 여지는 일반에 잘 알려지지 않은 어닝 드라이버다.\n\nTSLA가 6월 -14% 하락한 상황에서 7월 2일 인도 발표는 단순한 대수 집계 이상이다. 컨센서스 달성 + 에너지 스토리지 서프라이즈 조합이 나온다면 기관 매수세 복귀를 촉발할 잠재적 반등 기폭제가 된다. 반대로 미달 시 추가 하락 리스크가 있다. 7월 22일 확정 실적 발표 전까지, 인도 수치는 시장이 테슬라 방향성을 재조정하는 첫 번째 구체적 데이터다.",
       "href": "https://www.notateslaapp.com/news/4363/tesla-releases-q2-2026-analyst-delivery-consensus",
       "confirmedBy": 3,
-      "confirmingSources": ["Not a Tesla App", "Teslarati", "Electrek"],
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Teslarati",
+        "Electrek"
+      ],
       "sentiment": "neutral",
       "hot": 6,
       "title_en": "Tesla Releases Q2 Official <em>406K</em> Delivery Consensus — JPMorgan Cuts, Energy Storage +57%",
