@@ -1,10 +1,32 @@
 {
-  "asOf": "2026-06-30 09:00 KST 자동 갱신 · 최신순",
+  "asOf": "2026-06-30 21:00 KST 자동 갱신 · 최신순",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
+      "pubDate": "2026-06-30T10:00:00.000Z",
+      "title": "테슬라 로보택시 H1 5개 도시 목표 — <em>기한 만료, 0곳 개시</em>",
+      "hotShort": "로보택시 H1 기한 만료 — <em>5개 도시 0곳</em>",
+      "body": "테슬라가 H1 2026까지 자율주행 차량 호출 서비스를 라스베이거스·탬파·올랜도·마이애미·피닉스에 출범하겠다고 약속했으나, 오늘(6월 30일) 기한이 만료됐고 5개 도시 모두 영업 개시 0곳이다 — Bloomberg이 6월 10일 보도한 테슬라 로보택시 총 플릿은 오스틴·댈러스·휴스턴 통합 59대로 Waymo 텍사스 등록 577대의 10분의 1에 그쳤다. The Future Fund의 Gary Black은 '플릿이 40대를 넘어야 $600 강세 시나리오가 성립한다'고 경고해왔다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-h1-deadline-miss-5-cities-2026-06-30",
+      "summary": "테슬라는 H1 2026(2026년 상반기, 즉 6월 30일까지)을 목표로 라스베이거스·탬파·올랜도·마이애미·피닉스 5개 도시에 로보택시 서비스를 출범할 예정이었다. 오늘이 그 기한이다. 5개 도시 모두 영업 개시 0곳이다.\n\n상황은 이미 봄부터 예고됐다. Electrek이 4월 22일 보도한 바에 따르면 테슬라의 Q1 2026 투자자 서한에서 이 5개 도시의 상태가 기존 'H1 2026'에서 '준비 진행 중(Preparations Underway)'으로 바뀌었다 — 사실상 기간 없는 연기다. 지금까지 무인 자율주행(Unsupervised FSD) 서비스가 실제로 출범한 도시는 오스틴(2025년 6월 출범, 2026년 6월 3일 대도시권 전체 확장), 댈러스·휴스턴(2026년 4월 20일 론칭) 뿐이다.\n\n플릿 규모는 더 심각한 문제다. Bloomberg은 6월 10일, 테슬라의 로보택시 총 플릿이 오스틴·댈러스·휴스턴 전체를 합쳐 59대에 불과하다고 보도했다. 같은 기간 웨이모(Waymo)는 텍사스에만 577대를 등록해 테슬라의 13배를 넘었다. 머스크가 2025년 어닝콜에서 예고한 '2025년 말 오스틴 500대 이상'은 실현되지 않았으며, 현재 플릿 규모로는 탑승 대기 시간이 30분을 넘는 것이 일상이다.\n\n투자자 관점에서 이 기한 미달성은 단순한 일정 지연을 넘어 밸류에이션 가정에 대한 시험이다. 테슬라 주가는 부분적으로 로보택시 수익화 잠재력에 기반한 높은 배수를 반영하고 있다. The Future Fund의 Gary Black은 '테슬라 로보택시 플릿이 40대를 넘지 않는 한 $600 강세 시나리오는 성립하지 않는다'고 경고해왔다. 다음 책임 시점은 7월 22일 Q2 실적 발표에서 머스크가 로보택시 확장 타임라인을 어떻게 재설정하느냐다.",
+      "href": "https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises",
+      "confirmedBy": 3,
+      "confirmingSources": ["Bloomberg", "Electrek", "Stocktwits"],
+      "sentiment": "bear",
+      "hot": 7,
+      "title_en": "Tesla's H1 Robotaxi Deadline Expires — <em>Zero of 5 Cities</em> Launched",
+      "hotShort_en": "Tesla misses H1: <em>0 of 5 cities</em> live",
+      "body_en": "Tesla's self-imposed H1 2026 deadline to launch robotaxi service in Las Vegas, Tampa, Orlando, Miami, and Phoenix expired today, June 30 — all five cities stand at zero operational rides. Bloomberg reported on June 10 that Tesla's entire robotaxi fleet totals just 59 vehicles across Austin, Dallas, and Houston combined, against Waymo's 577 vehicles registered in Texas alone. The Future Fund's Gary Black has warned that 'the $600 bull case hinges on the robotaxi fleet scaling past 40 vehicles.'",
+      "summary_en": "Tesla set a public H1 2026 target to launch unsupervised autonomous ride-hailing in Las Vegas, Tampa, Orlando, Miami, and Phoenix. Today, June 30, is the last day of H1 2026. None of the five cities have launched.\n\nThe delay was telegraphed in April. Electrek reported on April 22 that Tesla's Q1 2026 investor letter quietly changed the status of all five cities from 'H1 2026' to 'Preparations Underway' — a phrase that communicates indefinite postponement without a new commitment date. Tesla currently operates unsupervised FSD rides commercially only in Austin (launched June 2025, expanded to the full metro area June 3, 2026), Dallas, and Houston (both launched April 20, 2026).\n\nFleet scale compounds the credibility gap. Bloomberg's June 10 investigation found Tesla's entire robotaxi operation — across all three Texas cities — totals just 59 vehicles. Waymo has registered 577 automated vehicles in Texas alone, more than thirteen times Tesla's count. Elon Musk said at the July 2025 earnings call that Tesla would have 500 or more vehicles in Austin by end of 2025 — a target that passed unmet. At current fleet size, riders face 30-minute-plus wait times as a routine experience.\n\nFor investors, the H1 expiration date is a material benchmark. Tesla's valuation carries a premium tied to robotaxi revenue potential. Gary Black, managing director of The Future Fund, has stated explicitly that Tesla's '$600 bull case hinges on the robotaxi fleet scaling past 40 vehicles' — a bar that has not been cleared. The July 22 Q2 earnings call is the next accountability moment: whatever new city launch dates or fleet scale commitments Musk offers will be the key investor disclosure to watch."
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
       "pubDate": "2026-06-30T09:00:00.000Z",
       "title": "텍사스 FSD 주택 충돌 사망 — NHTSA·NTSB <em>이중 연방 조사</em> 착수",
       "hotShort": "FSD 주택 충돌 사망, NHTSA·NTSB <em>이중 조사</em>",
@@ -31,7 +53,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-06-30T09:00:00.000Z",
       "title": "EU TCMV, FSD 첫 심의 개시 — 스웨덴 '속도제한 초과 기능 삭제' <em>아니면 반대</em>",
       "hotShort": "EU TCMV FSD 심의, 스웨덴 <em>'속도 초과 기능 삭제' 요구</em>",
@@ -57,7 +79,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-06-30T08:00:00.000Z",
       "title": "테슬라 VP 라스 모라비, 7월 7일 기가텍사스 <em>\"멋진 소식\"</em> 예고 — 로드스터 기가텍사스 확정",
       "hotShort": "기가텍사스 7/7 <em>\"멋진 소식\"</em> 예고 — 로드스터 확정",
@@ -82,7 +104,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "19h ago",
       "pubDate": "2026-06-29T17:16:00.000Z",
       "title": "스페이스X, 차터와 <em>이동통신 사업 진출</em> 모색 — 버라이즌·AT&T·T모바일 일제히 급락",
       "hotShort": "스페이스X, 차터 통해 <em>모바일 사업</em> 추진 — 통신 3사 급락",
@@ -107,7 +129,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "1d ago",
       "pubDate": "2026-06-29T09:05:00.000Z",
       "title": "테슬라, FSD v14 Lite 2026.20.5.1 HW3 공식 배포 시작 — <em>400만 대</em> 14개월 만의 업데이트",
       "hotShort": "FSD v14 Lite, HW3 <em>공식 배포 시작</em> — 14개월 만",
