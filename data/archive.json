@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-01 02:00 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-01 05:10 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-06-30T18:04:54.000Z",
+      "title": "테슬라, '주차 중 사각지대 경고' — SW 2026.20.6으로 <em>전 세계 확대</em>",
+      "hotShort": "주차 중 사각지대 도어 경고 — <em>전 세계 확대</em>",
+      "body": "테슬라가 소프트웨어 2026.20.6 업데이트로 '주차 중 사각지대 경고(Blind Spot Warning While Parked)'를 전 세계 더 많은 차종으로 확대했다 — 주차 후 문을 열 때 자전거·차량이 사각지대에서 접근 중이면 경보음이 울리고 최초 조작으로는 문이 열리지 않아 '도어링' 사고를 예방한다. 사이버트럭에서 먼저 탑재됐던 이 기능이 이번 업데이트로 더 많은 모델·지역으로 확대됐다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-blind-spot-warning-global-2026-06-30",
+      "summary": "테슬라가 2026년 6월 30일 소프트웨어 2026.20.6 업데이트를 통해 '주차 중 사각지대 경고(Blind Spot Warning While Parked)' 기능을 전 세계 더 많은 차종·지역으로 확대했다. Teslarati가 이 기능의 글로벌 확대를 보도했으며, Not a Tesla App도 같은 업데이트에서의 기능 확장을 확인했다.\n\n기능 동작 방식: 주차 후 차 문을 열려는 순간, 후방·측면 사각지대에 자전거·오토바이·차량이 접근 중인 것이 감지되면 경보음이 울리고 문이 최초 한 번 누름으로는 열리지 않는다. 경고를 인지하고 두 번째로 버튼을 누르면 문이 열리는 '이중 확인' 구조다 — 자전거가 갑자기 열린 차문에 충돌하는 '도어링(dooring)' 사고를 예방하도록 설계됐다.\n\n이 기능은 2024년 사이버트럭에 먼저 탑재됐고, 이번 2026.20.6 업데이트로 더 많은 테슬라 모델 라인업과 지역으로 확대됐다. 2026.20.6는 주요 신규 UI 기능보다 유지보수·개선에 초점을 맞춘 빌드이나, 사각지대 경고의 글로벌 확대는 기존 오너에게 실질적인 안전 기능 보강을 제공한다.\n\n투자자 관점에서 이 기능 확대의 즉각적인 수익 효과는 제한적이다. 그러나 사이버캡 공도 테스트·연방 이중 조사가 동시에 진행되는 시점에, 기존 차량의 능동 안전 기능도 지속적으로 업그레이드하고 있다는 점은 테슬라의 안전 기술 역량과 브랜드 신뢰도를 뒷받침한다.",
+      "href": "https://www.teslarati.com/tesla-expands-massive-safety-feature-worldwide-latest-update/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Not a Tesla App"
+      ],
+      "sentiment": "bull",
+      "hot": 5,
+      "title_en": "Tesla expands <em>Blind Spot Warning While Parked</em> globally in SW 2026.20.6",
+      "hotShort_en": "Door blind spot warning goes <em>worldwide</em>",
+      "body_en": "Tesla's software 2026.20.6 update expands Blind Spot Warning While Parked to more vehicles globally — when an approaching cyclist or vehicle is detected in a parked car's blind spot as a driver attempts to open the door, an audible alert sounds and the door does not open on the first press, requiring a second press to override and preventing dooring accidents. The feature debuted on Cybertruck and is now rolling out to a wider range of Tesla models worldwide.",
+      "summary_en": "Tesla released software version 2026.20.6 on June 30, 2026, with the standout safety content being a significant global expansion of Blind Spot Warning While Parked to more Tesla models and markets. Teslarati reported the rollout, and Not a Tesla App confirmed the feature expansion in the same update.\n\nThe feature's mechanism is designed around a two-step confirmation to prevent dooring accidents: when a driver attempts to open a door after parking, the vehicle's rear and side cameras monitor for approaching cyclists, motorcycles, or vehicles. If an object is detected in the blind spot zone, a chime sounds and the door does not open on the first press — the driver must press again to override the warning. This deliberate friction is designed to interrupt the moment of inattention that causes most dooring incidents, where a cyclist traveling along parked cars is struck by a door that opens without warning.\n\nBlind Spot Warning While Parked first appeared on Cybertruck ahead of the rest of Tesla's lineup. Software 2026.20.6 extends it to a meaningfully wider set of vehicles. The version is primarily a maintenance release and does not introduce new infotainment or FSD-level features, but the Blind Spot expansion is a concrete active-safety improvement for existing owners who park in urban environments.\n\nFor investors, the feature rollout is incremental rather than a material revenue event. Its significance is contextual: at a moment when Tesla's autonomous safety is under dual federal investigation — NHTSA and NTSB are both probing the June 20 Katy, Texas FSD crash — continuing to expand proven passive-safety features across the base vehicle fleet reinforces Tesla's broader engineering safety narrative, an asset for the regulatory relationships that the Cybercab expansion program depends on."
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -2210,26 +2235,6 @@
       "href": "https://x.com/TeslaCharging/status/2068886850673266999",
       "sentiment": "bull",
       "hot": 2
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
-      "pubDate": "2026-06-21T23:12:01.000Z",
-      "title": "WSJ: '싫어할 만했던 EV 픽업' — 완성차 업체들 <em>2세대로 재도전</em>",
-      "hotShort": "WSJ: EV 픽업 시장, <em>2세대로 재도전</em>",
-      "body": "WSJ가 포드 F-150 라이트닝·신생 스타트업 Telo의 MT1 등 EV 픽업트럭을 분석하며 초기 소비자 실망을 인정하면서도 완성차 업체들이 새 세대 모델로 재도전에 나서고 있다고 평가했다 — EV 픽업 세그먼트에서 앞서 있는 사이버트럭에게도 카테고리 신뢰 회복은 긍정적 환경이다.",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "product-ev-pickups-second-chance-wsj-2026-06-21",
-      "summary": "WSJ가 EV 픽업트럭 시장을 다룬 분석 기사에서 '당신이 EV 픽업을 싫어한 것은 옳았다(You Were Right to Hate EV Pickups)'고 인정하면서도, 완성차 업체들이 개선된 모델로 재도전에 나서고 있다고 보도했다. 기사는 포드 F-150 라이트닝·신생 스타트업 Telo의 MT1을 포함한 현재 EV 픽업 시장을 다룬다.\n\nEV 픽업트럭은 2021~2022년 첫 양산 모델이 출시된 뒤, 실주행 거리·충전 속도·작업 부하 성능 등의 측면에서 기존 픽업 소비자 기대에 미치지 못한다는 평가가 잇따랐다. 그 결과 일부 초기 EV 픽업 모델들은 판매 부진을 겪었다.\n\n테슬라 사이버트럭은 스테인리스 스틸 차체와 독특한 디자인으로 EV 픽업 세그먼트에서 차별화를 꾀해왔다. WSJ의 세그먼트 재조명은 EV 픽업이 단순한 반짝 실험에 그치지 않고 본격 시장으로 자리 잡고 있음을 나타내며, 이 카테고리 전반에 미디어와 소비자 관심이 다시 집중되는 국면이다.",
-      "title_en": "WSJ: 'You Were Right to Hate EV Pickups' — <em>automakers want a second chance</em>",
-      "hotShort_en": "WSJ: EV trucks get a <em>second chance</em>",
-      "body_en": "WSJ analyzed the EV pickup truck market — including the Ford F-150 Lightning and Telo MT1 — acknowledging early consumer disappointment while noting that automakers are pushing back with next-generation models, a segment shift relevant to Tesla's Cybertruck.",
-      "summary_en": "WSJ published an analysis of the EV pickup truck market under the headline 'You Were Right to Hate EV Pickups. Automakers Want a Second Chance.' The piece covers current EV truck offerings, including the Ford F-150 Lightning and the Telo MT1, a startup entrant, and frames the evolving landscape as a segment earning a genuine second shot from both manufacturers and consumers.\n\nEarly EV pickups drew criticism for range limitations, charging speed, and pricing that undercut their utility for truck buyers who depend on heavy towing and payload capacity. The 'second chance' framing suggests that newer models are making a more compelling case.\n\nTesla's Cybertruck occupies a distinctive position in this landscape — differentiated by its stainless steel body, angular design, and performance-oriented specifications. While the WSJ piece focuses on competitor models, the broader narrative of renewed EV pickup credibility benefits the segment as a whole.\n\nFor Tesla investors, a healthier EV pickup segment that attracts buyers across multiple brands creates a more established and trusted category. Growing consumer familiarity with EV trucks — even via competitor vehicles — validates the market Tesla entered early and raises the visibility of the segment where Cybertruck competes.",
-      "href": "https://www.wsj.com/lifestyle/cars/ev-pickups-telo-mt1-ford-f150-lightning-review-04ecbb6d",
-      "sentiment": "neutral",
-      "hot": 3
     }
   ]
 }
