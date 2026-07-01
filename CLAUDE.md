@@ -146,9 +146,7 @@ JP에게 친근한 존댓말로 답해주세요.
 │   ├── fetch-news.mjs                 ← RSS → raw-cards.json (SEED_OUT/WINDOW/N env)
 │   ├── routine-prompt.md              ← Claude Cloud Routine 붙여넣기 지침 (한국어 단일)
 │   ├── apps-script-subscribe.gs       ← 구독 웹훅 (한/영 탭 분리 — EN 탭은 잔존, 미사용)
-│   ├── fetch-price.mjs                ← Yahoo (로컬·옛 흐름, worker 가 대체)
-│   ├── llm-refine.mjs                 ← (사용 안 함 — Routine 이 대체)
-│   └── load-env.mjs                   ← (사용 안 함)
+│   └── fetch-price.mjs                ← Yahoo (로컬·옛 흐름, worker 가 대체)
 │
 ├── data/
 │   ├── raw-cards.json                 ← GitHub Actions 가 2h 마다 갱신 (영문 RSS)
