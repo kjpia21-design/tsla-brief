@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-01 17:30 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-01 19:30 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "12h ago",
+      "pubDate": "2026-07-01T07:58:24.000Z",
+      "title": "테슬라 6월 유럽 확정 등록 — 프랑스 <em>+655%·5,446대</em>, 노르웨이만 -43%",
+      "hotShort": "프랑스 <em>+655%·5,446대</em> — 유럽 6월 등록 반등 확인",
+      "body": "Reuters가 7월 1일 유럽 주요국 6월 테슬라 등록 확정치를 보도했다 — 프랑스 5,446대(YoY +655%), 덴마크 1,750대(+39%), 스웨덴 858대(+56%)가 급반등한 반면 노르웨이만 -43%로 역행했다. 내일(7월 2일) Q2 인도 보고서(컨센서스 406K) 전날 나온 유럽 실수요 회복 실증 데이터 — 프랑스 +655%엔 2025년 불매 역기저 효과가 있지만 절대 대수 반등도 뚜렷하다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-europe-june-registrations-2026-07-01",
+      "summary": "Reuters가 7월 1일 유럽 주요국의 2026년 6월 테슬라 신규 등록 확정치를 보도했다. 핵심 수치: 프랑스 5,446대(전년 동월 대비 +655%), 덴마크 1,750대(+39%), 스웨덴 858대(+56%)로 세 시장 모두 강한 반등을 기록했다. 반면 노르웨이는 전년 대비 -43%로 유럽 회복 흐름에서 이탈했다.\n\n맥락이 중요하다. 2025년 한 해 동안 일론 머스크의 유럽 극우 정당 지지 공개 발언에 반발한 소비자 불매 운동이 유럽 전역, 특히 노르웨이·프랑스·독일을 중심으로 테슬라 판매를 크게 끌어내렸다. 프랑스 +655%라는 수치에는 그 2025년 폭락의 역기저 효과가 포함돼 있다. 그러나 2026년 1분기부터 이어진 회복세가 6월에도 지속됐다는 점 자체가 유의미하다 — 일시적 반등이 아니라 구조적 수요 복원이라는 신호다.\n\n노르웨이 -43%는 별개의 맥락이다. 노르웨이는 유럽에서 EV 보급률이 가장 높은 시장으로, 기존 보급의 기저가 높아 2024~2025년 정점 이후 자연적 수요 둔화 국면에 있다. 반머스크 정서보다는 시장 포화와 대기 수요 감소가 더 큰 요인일 수 있다.\n\n타이밍이 핵심이다. 이 수치는 테슬라의 Q2 2026 인도 보고서(7월 2일, 컨센서스 406K) 하루 전에 공개됐다. 지난 5월 유럽 등록이 전년 대비 2배 이상 증가했다는 Morgan Stanley 데이터가 추정치 상향의 근거였는데, 6월에도 이 추세가 프랑스·덴마크·스웨덴에서 이어졌다는 것이 Q2 유럽 물량의 실증적 뒷받침이다. 내일 발표가 컨센서스를 상회할 경우 유럽이 핵심 동력이었음이 확인된다.",
+      "href": "https://www.reuters.com/business/teslas-june-registrations-rise-france-sweden-denmark-europe-recovery-continues-2026-07-01/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "GuruFocus",
+        "Futunn News"
+      ],
+      "sentiment": "bull",
+      "hot": 7,
+      "title_en": "Tesla Europe June Final Registrations — France <em>+655% at 5,446 units</em>, Norway -43%",
+      "hotShort_en": "France <em>+655%, 5,446 units</em> — June Europe confirmed",
+      "body_en": "Reuters reported Europe's final June Tesla registration counts on July 1 — France at 5,446 units (+655% year-over-year), Denmark at 1,750 (+39%), and Sweden at 858 (+56%) all surged, while Norway bucked the regional trend at -43% year-over-year. These are the last country-level data points before Tesla's Q2 2026 delivery report (due July 2, consensus ~406K vehicles), providing concrete confirmation that the European demand recovery — first flagged by Morgan Stanley's May data — held through June.",
+      "summary_en": "Reuters published final June 2026 Tesla registration data for key European markets on July 1, providing the last major data point before tomorrow's Q2 delivery report. The headline numbers: France at 5,446 vehicles (+655% year-over-year), Denmark at 1,750 (+39%), and Sweden at 858 (+56%) — all three markets showing strong year-over-year rebounds. Norway was the exception, falling 43% year-over-year.\n\nThe +655% France figure requires context. Throughout 2025, Elon Musk's public support for European far-right political parties triggered a meaningful consumer backlash that hit Tesla registrations hard across the region — France was among the most affected markets. The 2026 reversal incorporates a meaningful base effect from 2025's depressed levels. However, the absolute rebound — 5,446 units in a single month — indicates real demand returning, not statistical noise from a low prior-year comparison.\n\nNorway's -43% decline reflects a different dynamic. Norway has Europe's highest EV penetration rate, having built up a very large installed base in prior years. The market is entering a natural saturation phase where replacement demand runs below peak-year registration levels. Market maturity rather than political sentiment is the more likely driver of the Norwegian shortfall.\n\nFor investors, these numbers land one day before Tesla's Q2 2026 delivery report, due on July 2. The consensus stands at approximately 406,024 vehicles. Morgan Stanley raised its Q2 estimate from 373,000 to 413,000 after May European data showed registrations more than doubling year-over-year. June's France, Denmark, and Sweden data confirm the trend held into the final month of the quarter. If tomorrow's Q2 report prints above consensus, European registrations — France in particular — will be identified as the decisive driver."
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -2234,26 +2260,6 @@
       "href": "https://www.teslarati.com/spacex-starfall-spacecraft-demo-launch/",
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-06-22T06:08:00.000Z",
-      "title": "고유가가 당긴 중국 EV 판매 급증 — <em>충전 인프라</em>는 여전히 발목",
-      "hotShort": "고유가발 중국 EV <em>판매 급증</em> — 충전망이 발목",
-      "body": "AP 통신에 따르면 국제유가 상승이 중국 전기차 판매를 끌어올리고 있지만, 충전 인프라 공급이 수요를 따라가지 못하는 구조적 격차가 과제로 드러나고 있다 — 테슬라 기가 상하이가 공급하는 중국 시장에서 슈퍼차저 네트워크 차별화가 더욱 부각될 수 있는 국면이다.",
-      "sourceName": "AP News",
-      "sourceLabel": "press",
-      "slug": "product-china-ev-surge-oil-price-charging-2026-06-22",
-      "summary": "AP 통신이 최근 국제유가 상승이 중국 소비자들의 EV 전환을 가속하고 있다고 보도했다. 중국은 자국 전기차 브랜드가 활발한 시장으로, 유가 상승이 내연기관차 운행 비용을 높이면서 EV 수요를 더욱 확대하는 요인이 되고 있다.\n\n다만 AP는 충전 인프라 확충이 판매 급증 속도를 따라가지 못하고 있다고 지적했다. 특히 중소도시·농촌 지역에서 공공 충전소 밀도가 낮아 일부 소비자들이 충전 접근성을 우려한다는 분석이다.\n\n테슬라는 기가 상하이(Giga Shanghai)를 통해 중국 시장에 직접 공급하며, 자체 슈퍼차저 네트워크도 꾸준히 확대해 왔다. 중국 경쟁사 대비 테슬라의 자체 충전 인프라는 충전 접근성 측면에서 차별화 요소로 기능할 수 있다. 중국 EV 시장 확대는 테슬라에 판매 기회이자 경쟁 심화라는 양면성을 함께 가진다.",
-      "title_en": "High oil prices fuel a <em>Chinese EV sales surge</em> — but charging lags behind",
-      "hotShort_en": "<em>China EV</em> surges on high oil prices",
-      "body_en": "AP News reports that rising oil prices are driving a surge in Chinese electric vehicle sales — but public charging infrastructure is struggling to keep pace with demand, a structural gap that Tesla's Supercharger network in China is positioned to help address.",
-      "summary_en": "AP News reports that global oil price increases are accelerating EV adoption in China, where higher fuel costs are making internal combustion vehicles less attractive for everyday consumers. China's EV market is already one of the world's largest, and the oil price tailwind is adding momentum beyond existing policy incentives.\n\nHowever, AP highlights a key bottleneck: public charging infrastructure is not expanding quickly enough to match surging EV sales, particularly in smaller cities and rural regions where charging station density remains low.\n\nFor Tesla, the China EV expansion cuts both ways. Giga Shanghai is Tesla's highest-volume factory, serving the Chinese domestic market — so broader EV adoption in the country directly grows Tesla's addressable market. At the same time, the growth benefits all manufacturers in the segment, intensifying competition from well-funded domestic brands.\n\nOn charging, Tesla's proprietary Supercharger network gives it a self-sufficient advantage that many domestic competitors lack. As China's charging infrastructure gap draws attention, Tesla's reliable charging ecosystem may become an increasingly visible differentiator for Chinese buyers weighing their EV options.",
-      "href": "https://apnews.com/article/iran-energy-china-ev-5ec89b82365893a341acc59942ce6f35",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ]
 }
