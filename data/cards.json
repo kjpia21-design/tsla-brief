@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-01 08:00 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-01 13:30 KST 자동 갱신 · 최신순",
   "items": [
     {
       "category": "stock",
@@ -145,31 +145,6 @@
       "hotShort_en": "Giga Texas: <em>'cool news' July 7</em>, Roadster confirmed",
       "body_en": "Tesla VP of Vehicle Engineering Lars Moravy told the Ride the Lightning podcast that 'a week from Tuesday there will be some cool news about things happening around Giga Texas as part of the scaling effort' — pointing to July 7. In the same interview, Moravy officially confirmed the next-generation Tesla Roadster will be produced at Gigafactory Texas. Chief Designer Franz von Holzhausen has separately hinted the Roadster could arrive 'in a few weeks,' converging with the July 7 window.",
       "summary_en": "Tesla VP of Vehicle Engineering Lars Moravy sat down with Ride the Lightning host Herbert Ong in an episode released June 30, providing some of the most specific Tesla production hints in months.\n\nThe headline item: 'A week from Tuesday — so July 7 — there will be some cool news about things happening around Giga Texas as part of the scaling effort.' Moravy didn't elaborate on what the news would be, but the 'scaling effort' framing suggests production milestone or capacity expansion rather than a new product announcement.\n\nThe second headline: Moravy formally confirmed on-record that the next-generation Tesla Roadster will be produced at Gigafactory Texas. The Roadster has been in development since its original 2017 reveal, with repeated production start delays. This is the most direct executive confirmation that Austin is the chosen manufacturing site.\n\nThose two disclosures potentially converge: Chief Designer Franz von Holzhausen separately told a different interviewer that the Roadster could come 'in a few weeks' — language that aligns with a July 7 announcement window. If the Giga Texas news on July 7 involves Roadster production launch, it would mark one of Tesla's most consequential product milestones of 2026.\n\nFor investors, July 7 sits between two major data events: the Q2 delivery report (July 2) and the Q2 earnings call (July 22). A significant Giga Texas announcement in that gap could serve as a sentiment catalyst during an otherwise quiet stretch. A Roadster production start in particular would signal that Tesla's vehicle engineering pipeline — beyond the Cybercab — is executing on schedule, which has been a recurring investor concern given historical delivery misses on new models."
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1d ago",
-      "pubDate": "2026-06-29T17:16:00.000Z",
-      "title": "스페이스X, 차터와 <em>이동통신 사업 진출</em> 모색 — 버라이즌·AT&T·T모바일 일제히 급락",
-      "hotShort": "스페이스X, 차터 통해 <em>모바일 사업</em> 추진 — 통신 3사 급락",
-      "body": "Bloomberg 보도를 Barron's가 확인한 바에 따르면, 스페이스X가 케이블·인터넷 사업자 차터(Charter Communications)와의 파트너십을 통해 이동통신(MVNO) 시장 진출을 모색 중이다 — 차터 주가는 당일 S&P 500 최고 상승주로 치솟은 반면 버라이즌·AT&T·T모바일 등 통신 3사는 일제히 급락했다. 스타링크 위성 커버리지와 차터 지상망을 결합하는 이 전략은 머스크 생태계의 통신 수직계열화 확장이자, 테슬라 커넥티드카 인프라와의 장기 시너지 가능성을 내포한다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-charter-mvno-telecom-2026-06-29",
-      "summary": "Barron's 보도에 따르면 스페이스X는 미국 제2위 케이블·인터넷 사업자 차터 커뮤니케이션즈(Charter Communications, CHTR)와 파트너십을 통해 미국 이동통신 서비스(MVNO 방식) 시장 진입을 검토 중이다. 핵심 구조는 스타링크 위성 직접연결(Direct-to-Cell) 기술과 차터의 유선 인프라·기존 가입자 기반을 결합하는 '위성+지상' 하이브리드 이동통신 서비스다.\n\n시장 반응은 즉각적이었다. 차터 주가는 당일 S&P 500 전체 종목 중 최고 상승률을 기록했다. 반면 버라이즌·AT&T·T모바일은 강력한 신규 경쟁자 진입 우려로 동반 급락했다. 스페이스X는 이미 T모바일과 위성 직접연결 서비스를 공동 개발해왔지만, 차터와의 이번 논의는 독자적 이동통신 사업자 진출에 가까운 더 적극적인 모델로 해석된다.\n\n테슬라 주주에게 이 소식은 복합적 함의를 갖는다. 긍정 측면: 스타링크·스페이스X 통신 확장은 테슬라 차량의 위성 기반 OTA 업데이트·차내 연결성 인프라를 강화하는 기반이 된다. 또 머스크 생태계 전반의 외연 확장과 수익 다각화는 TSLA 밸류에이션의 '생태계 프리미엄'을 높이는 방향이다. 부정 측면: 스페이스X가 이동통신이라는 새로운 대형 사업 영역에 깊게 개입할수록, 머스크의 경영 자원과 관심이 테슬라에서 더 분산될 수 있다는 우려도 커진다.\n\n스페이스X의 이동통신 진출은 위성과 지상망의 수직계열화 전략으로, 스타링크가 글로벌 저지연 커버리지를 제공하는 반면 지상 셀 네트워크는 밀집 도심에서 고밀도 커버리지를 제공한다. 두 네트워크를 하나의 서비스로 통합할 경우 기존 통신사가 따라오기 어려운 차별화된 가격·커버리지 경쟁력을 확보할 수 있어 통신 업계 판도를 뒤흔들 잠재력이 있다.",
-      "href": "https://www.barrons.com/articles/spacex-mobile-phone-stock-telecom-e603272b",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Barron's",
-        "Bloomberg"
-      ],
-      "sentiment": "neutral",
-      "hot": 7,
-      "title_en": "SpaceX explores <em>mobile phone business</em> with Charter — Verizon, AT&T, T-Mobile fall",
-      "hotShort_en": "SpaceX eyes <em>mobile business</em> via Charter — telecoms drop",
-      "body_en": "SpaceX is exploring entry into the US mobile phone market through a partnership with cable operator Charter Communications, Bloomberg and Barron's report — Charter surged to the top of the S&P 500 for the day while Verizon, AT&T, and T-Mobile all fell sharply on the competitive threat. The proposed arrangement would combine SpaceX's Starlink satellite Direct-to-Cell technology with Charter's cable infrastructure and subscriber base, adding a ground-mobile dimension to the Musk ecosystem's growing telecom footprint.",
-      "summary_en": "SpaceX is in discussions with Charter Communications — the second-largest US cable and internet provider — to explore entering the mobile phone market, Bloomberg and Barron's report. The proposed model would combine SpaceX's Starlink satellite Direct-to-Cell technology with Charter's existing cable plant and customer base to offer a hybrid satellite-ground mobile service, potentially providing coverage in areas that traditional carriers have historically been unable to reach cost-effectively.\n\nThe market reaction was swift and decisive. Charter shares became the best-performing stock in the S&P 500 for the day on the deal news. Conversely, the three incumbent wireless carriers — Verizon, AT&T, and T-Mobile — all fell sharply as investors repriced the competitive landscape to account for a potential well-capitalized new entrant backed by SpaceX's satellite network. SpaceX has already been developing satellite Direct-to-Cell services in partnership with T-Mobile, but the Charter discussions suggest a more independent and aggressive mobile market entry strategy than that existing arrangement implies.\n\nFor Tesla shareholders, the implications run in two directions. Positive: SpaceX's deeper telecom buildout strengthens the connectivity infrastructure underlying Tesla vehicles' over-the-air update delivery, in-car experiences, and eventual Cybercab fleet coordination. The broader Musk ecosystem expanding its revenue footprint into wireless services also reinforces the 'ecosystem premium' narrative that has historically supported TSLA's valuation multiple. Negative: SpaceX pursuing a major new business vertical in wireless telecommunications adds another demand on Musk's management attention at a time when Tesla's own execution priorities — Cybercab expansion, FSD commercialization, Q2 delivery momentum — are already pressing.\n\nStrategically, a Starlink-Charter hybrid mobile service would represent a meaningful structural challenge to incumbent carriers. Starlink provides global low-latency coverage; pairing it with Charter's dense ground infrastructure creates a service proposition that traditional network operators would struggle to replicate, particularly in rural and underserved markets where existing carrier coverage is thin."
     },
     {
       "category": "fsd",
