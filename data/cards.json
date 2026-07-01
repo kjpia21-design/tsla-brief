@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-01 19:40 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-01 20:10 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-01T13:51:26.000Z",
+      "title": "사이버트럭 전력변환장치(PCS) 고장 확산 — 테슬라, <em>리콜 없이</em> 부품교체로 대응",
+      "hotShort": "사이버트럭 PCS 고장 확산, 테슬라 <em>리콜은 회피</em>",
+      "body": "사이버트럭 다수 차주에게서 전력변환장치(PCS) 고장으로 '완속충전 불가' 경고가 뜨며 집에서 충전을 못 하는 사례가 확산 중이나, 테슬라는 아직 NHTSA에 리콜 신고 없이 부품 교체로만 대응 중이다 — 주행 1만~1.8만마일의 비교적 신차에서 반복 발생해 품질 신뢰에 부담.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-pcs-charging-failure-2026-07-01",
+      "summary": "사이버트럭의 전력변환장치(Power Conversion System, PCS)는 고전압 배터리팩 전력을 낮춰 완속(AC) 충전을 담당하는 핵심 부품이다. 최근 이 부품이 고장 나며 차량 화면에 '완속충전 불가(AC Charging Unavailable)' 경고가 뜨는 사례가 늘고 있다고 Electrek이 7월 1일 보도했다.\n\n보도에 따르면 고장은 주행거리 1만~1만8,000마일(약 1.6만~2.9만km)의 비교적 신차에서도 발생하며, 일부 차주는 교체 후에도 재고장을 겪었다. 교체 부품이 전국적으로 품귀 상태라 수리까지 8~10주가 걸리는 경우도 있어, 테슬라는 임시방편으로 무료 슈퍼차징 제공과 긴급 OTA 업데이트로 대응하고 있다.\n\n핵심은 테슬라가 이 문제를 아직 NHTSA(미국 도로교통안전국)에 정식 리콜로 신고하지 않았다는 점이다. 대신 개별 서비스센터 방문 시 부품을 교체해주는 방식으로 처리하고 있으며, 보증기간이 지난 차량의 자비 수리비는 기존 7,000달러 이상에서 '고객 배려 차원'으로 1,000달러 수준까지 낮춰준 사례가 확인됐다.\n\n주주 입장에서는 광범위한 부품 결함이 공식 리콜 없이 개별 대응으로 처리되고 있다는 점이 리스크다 — 향후 NHTSA가 자체적으로 조사에 나서거나 결함 패턴이 더 확산되면, 대규모 정식 리콜과 그에 따른 비용·평판 부담으로 이어질 가능성을 배제할 수 없다.",
+      "href": "https://electrek.co/2026/07/01/tesla-cybertruck-pcs-failures-no-recall/",
+      "sentiment": "bear",
+      "hot": 5,
+      "title_en": "Cybertruck power-conversion failures spread — Tesla skips a recall, swaps parts instead",
+      "hotShort_en": "Cybertruck PCS fails, Tesla <em>avoids a recall</em>",
+      "body_en": "A growing number of Cybertruck owners are losing home AC charging to Power Conversion System (PCS) failures, but Tesla has yet to file an NHTSA recall — it's handling cases with part swaps instead, even as failures recur on trucks with just 10,000-18,000 miles.",
+      "summary_en": "The Cybertruck's Power Conversion System (PCS) steps down high-voltage pack power for AC home charging. A growing number of owners are seeing an 'AC Charging Unavailable' warning as the part fails, Electrek reported July 1.\n\nThe failures are showing up on relatively low-mileage trucks, often between 10,000 and 18,000 miles, and some owners report repeat failures even after a replacement. Replacement parts are on national backorder, with repairs sometimes taking 8 to 10 weeks — in the meantime, Tesla has offered free Supercharging and pushed emergency OTA updates as stopgaps.\n\nThe key detail is that Tesla has not filed a formal recall with the National Highway Traffic Safety Administration despite the pattern. Instead, it's replacing units case-by-case at service visits, and out-of-warranty repair costs that once ran over $7,000 have reportedly been cut to around $1,000 as a goodwill gesture.\n\nFor shareholders, the risk is that a widespread hardware defect is being handled informally rather than through a formal recall. If NHTSA opens its own probe or the failure pattern widens, it could force a larger formal recall with added cost and reputational exposure."
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -177,32 +197,6 @@
       "hotShort_en": "NHTSA + NTSB launch <em>dual FSD probe</em>",
       "body_en": "A Tesla Model 3 driving at 73 mph struck a Katy, Texas home on June 20, killing resident Martha Avila, 76 — the driver told police the car was in Full Self-Driving mode. NHTSA opened a federal investigation on June 22 (folding the crash into its existing 3.2 million-vehicle FSD Engineering Analysis), and the NTSB has since joined, creating a dual federal probe. Tesla AI chief Ashok Elluswamy stated that vehicle data show the driver pressed the accelerator to 100%, arguing FSD was not at fault — but two open federal safety inquiries landing simultaneously with Robotaxi fleet expansion raise the regulatory stakes for Tesla's autonomous ambitions.",
       "summary_en": "On the morning of June 20, a Tesla Model 3 traveling at 73 mph struck a residential home in Katy, Texas. The driver told responding officers the vehicle was operating in Full Self-Driving mode at the time of impact. Martha Avila, 76, who was inside the residence, was killed. The driver survived.\n\nNHTSA opened a federal investigation on June 22, folding the Katy crash into its pre-existing Engineering Analysis of roughly 3.2 million FSD-equipped vehicles — a probe that had been opened in March 2026 following a separate pattern of incidents. Two days later, the National Transportation Safety Board announced it was also launching an independent investigation, creating an unusual dual federal oversight structure for a single crash.\n\nTesla AI chief Ashok Elluswamy stated publicly that the company's vehicle data logs show the driver pressed the accelerator pedal to 100% at the time of impact, making the case that FSD was not in active control of the vehicle during the crash. The evidentiary dispute — driver's statement vs. vehicle data — will be central to both investigations.\n\nFor Tesla investors, the dual-probe structure carries regulatory weight beyond the individual case. NHTSA Engineering Analyses that surface a safety defect can result in mandatory recalls. NTSB investigations produce findings that carry reputational and legislative influence even without enforcement authority. The timing — both probes active while Tesla is expanding its driverless Cybercab fleet in Austin and pushing for new robotaxi permits in Las Vegas and other cities — adds regulatory complexity to the autonomy scale-up thesis that is central to TSLA's current valuation premium."
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-06-29T09:05:00.000Z",
-      "title": "테슬라, FSD v14 Lite 2026.20.5.1 HW3 공식 배포 시작 — <em>400만 대</em> 14개월 만의 업데이트",
-      "hotShort": "FSD v14 Lite, HW3 <em>공식 배포 시작</em> — 14개월 만",
-      "body": "테슬라가 6월 29일 HW3 얼리 액세스 차량에 FSD v14 Lite(펌웨어 2026.20.5.1)를 공식 배포했다 — HW3 차량 기준 14개월 만의 FSD 업데이트로, 전 세계 약 400만 대가 대상이다. Arrival Options(목적지 주차 위치 사전 선택)·저속 보수 모드 SLOTH 등 신규 기능이 처음 탑재됐으며, 수주 내 전체 HW3 오너로 배포가 확대된다.",
-      "sourceName": "Tesla Oracle",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-lite-hw3-release-2026-06-29",
-      "summary": "테슬라가 2026년 6월 29일, HW3(하드웨어 3) 차량용 FSD v14 Lite 첫 번째 펌웨어(2026.20.5.1)를 얼리 액세스 고객에게 배포하기 시작했다. 아쇽 엘루스와미(Tesla AI 책임자)가 전날 배포를 공식 확인한 지 하루 만의 실제 출시다. HW3 차량이 마지막으로 FSD 업데이트를 받은 건 2025년 4월 — 14개월이 넘는 공백 끝에 이번 업데이트가 이뤄졌다.\n\nv14 Lite의 핵심 신규 기능은 세 가지다. ① Arrival Options — 목적지 도착 전에 FSD가 주차할 위치(주차장·도로변·진입로·커브 중)를 미리 선택할 수 있다. ② Speed Profile SLOTH — 기존 Chill보다 낮은 속도와 더 보수적인 차로 선택을 제공하는 신규 주행 모드로, 교통 상황이 복잡한 환경에서 유용하다. ③ 합류·보행자 상호작용·신호등·끼어들기 반응성 전반 개선. 주차·출차·후진 지원도 강화됐다.\n\n약 400만 대의 HW3 차량이 최종 배포 대상이다. 현재는 얼리 액세스 고객을 시작으로 수주 내 전체 HW3 오너로 확대될 예정이다. v14 Lite는 FSD 슈퍼바이즈드(레벨 2) 체계를 유지해 운전자 주의가 여전히 필수이며, HW3의 연산·카메라 한계로 무인 로보택시 운행은 지원하지 않는다.\n\n주주 관점에서 이번 배포는 두 가지 의미다. 첫째, HW3 오너의 FSD 구독 이탈 리스크를 낮추고 구독 기반을 유지한다. 둘째, 400만 대 규모의 신규 주행 데이터를 v14 신경망 훈련에 활용해 소프트웨어 개선 속도를 높일 수 있다. 테슬라가 HW3에 레벨 2 FSD를 계속 지원함으로써, HW4 업그레이드 전까지 이 고객군을 생태계 안에 붙들어 두는 전략적 포석이기도 하다.",
-      "href": "https://www.teslaoracle.com/2026/06/29/tesla-starts-the-rollout-of-fsd-v14-lite-2026-20-5-1-for-hw3-owners-official-release-notes-rollout-status/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Ashok Elluswamy (X)",
-        "Tesla Oracle",
-        "Teslarati"
-      ],
-      "sentiment": "bull",
-      "hot": 9,
-      "title_en": "Tesla Ships FSD v14 Lite (2026.20.5.1) to HW3 — <em>4 Million Cars</em>, First Update in 14 Months",
-      "hotShort_en": "Tesla ships FSD v14 Lite to <em>4M HW3 cars</em>",
-      "body_en": "Tesla began rolling out FSD v14 Lite (firmware 2026.20.5.1) to early-access Hardware 3 vehicles on June 29 — the first FSD update for HW3 in over 14 months, with roughly 4 million vehicles eventually in scope. New features include Arrival Options (pre-selecting a parking destination before arrival) and the SLOTH Speed Profile, a more conservative driving mode than existing Chill; the rollout expands to all HW3 owners over the coming weeks.",
-      "summary_en": "Tesla's Head of AI Ashok Elluswami confirmed the HW3 FSD v14 Lite rollout on June 28; the first firmware package — version 2026.20.5.1 — began reaching early-access customers the following day. The previous FSD update for HW3 vehicles shipped in April 2025, making this a 14-month gap for the platform that still accounts for the majority of Teslas on the road.\n\nThree capabilities headline v14 Lite for HW3. Arrival Options allows drivers to specify before arriving where FSD should park — choices include Parking Lot, Street, Driveway, or Curbside — giving the software a clearer objective for the last leg of a trip. The new SLOTH Speed Profile sits below existing Chill, delivering lower speeds and more conservative lane selection for drivers who prefer maximum caution. Additionally, the update brings improved proactive and reactive responsiveness across highway merges, pedestrian interactions, traffic lights, and vehicle cut-in scenarios.\n\nHW3's compute and camera resolution cannot support unsupervised Robotaxi operation — v14 Lite remains a Level 2 supervised system requiring an attentive driver. Tesla's engineering team optimized the core V14 neural architecture to run efficiently on older silicon rather than developing a separate codebase, which is why the lite variant took longer than expected to reach this platform.\n\nFor shareholders, the HW3 release carries two strategic benefits: it reduces churn among the roughly 4 million FSD subscribers on older hardware, and it adds a large new pool of real-world miles to feed v14 model training. Keeping HW3 owners inside the FSD subscription ecosystem ahead of a potential hardware upgrade upsell also supports Tesla's long-term software revenue runway."
     }
   ]
 }
