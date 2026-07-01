@@ -7,6 +7,7 @@ name: Auto-fetch RSS
 on:
   schedule:
     - cron: "0 */2 * * *"  # 매 짝수 시 정각 UTC (2시간 간격, 월 360회)
+    - cron: "40 20 * * *"  # 추가: 05:40 KST 아침 페치 — 06:02 KST 정제 트리거 직전(07:00 영상에 미 애프터장 반영). X 제외(아래 env).
   workflow_dispatch:        # 수동 트리거 가능
 
 permissions:
@@ -33,6 +34,8 @@ jobs:
           # 수동 실행(workflow_dispatch)은 시각 가드 무시하고 X 강제 — 즉시 테스트용.
           # 예약 실행(schedule)은 빈 값 → 하루 4회(UTC 2/8/14/20)만 X 호출.
           X_FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
+          # 05:40 KST(UTC 20:40) 아침 페치는 X 폴링시각(20 UTC)과 겹침 → 그 런만 X 를 2,8,14 로 제한해 X 중복 호출·PPU 과금 방지. 나머지 런은 기본 2,8,14,20.
+          X_HOURS_UTC: ${{ github.event.schedule == '40 20 * * *' && '2,8,14' || '2,8,14,20' }}
         continue-on-error: true
 
       - name: Merge long-term archive (Phase B)
