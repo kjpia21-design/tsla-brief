@@ -16,7 +16,7 @@ JP에게 친근한 존댓말로 답해주세요.
 | GitHub 리포 | `kjpia21-design/tsla-brief` (master) |
 | Cloudflare Pages | `tesla-briefing` 프로젝트 (manager@honeylife.co.kr account) |
 | TSLA 가격 API | `https://api.teslabriefing.com/` (Cloudflare Worker, 5분 cron) |
-| 자동 뉴스 정제 | Claude Cloud Routine `tsla-brief-news-refresh` (**한국어+영어 이중언어** · 지침: `scripts/routine-prompt.md`) |
+| 자동 뉴스 정제 | Claude Cloud Routine `tsla-brief-news-refresh` (**한국어+영어 이중언어** · **모델: Sonnet 5** — 2026-07-01 Opus→전환, 품질은 빌드 코드 가드가 방어 · 지침: `scripts/routine-prompt.md`) |
 | RSS 자동 페치 | GitHub Actions cron 2시간 (`.github/workflows/fetch-news.yml`) |
 | Email 수신 | `hello@teslabriefing.com` → JP Gmail (Cloudflare Email Routing) |
 | Email 송신 | 미설정 (옵션 C 보류 — 트래픽 늘면 Resend) |
