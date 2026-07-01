@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-07-01 22:07 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-01 23:20 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-07-01T21:26:02.000Z",
+      "title": "US car sales on cruise control despite pressures",
+      "body": "US car sales on cruise control despite pressures Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/autos-transportation/us-car-sales-cruise-control-despite-pressures-2026-07-01/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-01T21:26:02.000Z",
+      "title": "US car sales on cruise control despite pressures",
+      "body": "US car sales on cruise control despite pressures Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/autos-transportation/us-car-sales-cruise-control-despite-pressures-2026-07-01/"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "47m ago",
+      "time": "2h ago",
       "pubDate": "2026-07-01T21:20:00.000Z",
       "title": "‘Heritage Americans’: An Un-American Idea",
       "body": "‘Heritage Americans’: An Un-American Idea WSJ",
@@ -17,7 +43,20 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
+      "pubDate": "2026-07-01T20:43:16.000Z",
+      "title": "Closing Bell: Overtime breaking news, corporate earnings and post-market trading",
+      "body": "Closing Bell: Overtime breaking news, corporate earnings and post-market trading CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/closing-bell-overtime/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
       "pubDate": "2026-07-01T20:14:00.000Z",
       "title": "NIO’s Strong Deliveries Aren’t Enough to Keep the Stock From Slumping",
       "body": "NIO’s Strong Deliveries Aren’t Enough to Keep the Stock From Slumping Barron's",
@@ -30,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-01T20:11:55.000Z",
       "title": "World",
       "body": "World Financial Times",
@@ -43,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-01T20:11:55.000Z",
       "title": "World",
       "body": "World Financial Times",
@@ -52,24 +91,11 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/world"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-01T20:11:55.000Z",
-      "title": "News Feed",
-      "body": "News Feed Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/news-feed"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-01T20:07:00.000Z",
       "title": "Tesla Stock Rides a 10% Weekly Gain Into a High-Stakes Delivery Report",
       "body": "Tesla Stock Rides a 10% Weekly Gain Into a High-Stakes Delivery Report Barron's",
@@ -82,20 +108,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-01T20:05:00.000Z",
-      "title": "SpaceX Stock Gets Analyst Buy Rating, $190 Price Target on Starlink, AI Growth",
-      "body": "SpaceX Stock Gets Analyst Buy Rating, $190 Price Target on Starlink, AI Growth Barron's",
-      "sourceName": "Barron's",
+      "time": "4h ago",
+      "pubDate": "2026-07-01T19:41:56.000Z",
+      "title": "Musk Meme Traders Rush Back Into Tesla When the Stock Hits $420",
+      "body": "Musk Meme Traders Rush Back Into Tesla When the Stock Hits $420 Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-stock-price-buy-rating-analyst-target-starlink-ai-c4a470cd"
+      "href": "https://www.bloomberg.com/news/articles/2026-07-01/musk-meme-traders-blaze-back-into-tesla-when-the-stock-hits-420"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-01T18:24:00.000Z",
       "title": "Michael Burry Cites ‘Beginning of the End’ With New AI Short Bets",
       "body": "Michael Burry Cites ‘Beginning of the End’ With New AI Short Bets WSJ",
@@ -108,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-01T18:24:00.000Z",
       "title": "Michael Burry Cites ‘Beginning of the End’ With New AI Short Bets",
       "body": "Michael Burry Cites ‘Beginning of the End’ With New AI Short Bets WSJ",
@@ -119,35 +145,22 @@
       "href": "https://www.wsj.com/finance/stocks/michael-burry-cites-beginning-of-the-end-with-new-ai-short-bets-50793c12"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
-      "pubDate": "2026-07-01T18:15:16.000Z",
-      "title": "US car sales on cruise control despite pressures",
-      "body": "US car sales on cruise control despite pressures Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/us-car-sales-cruise-control-despite-pressures-2026-07-01/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-07-01T18:15:16.000Z",
-      "title": "US car sales on cruise control despite pressures",
-      "body": "US car sales on cruise control despite pressures Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/us-car-sales-cruise-control-despite-pressures-2026-07-01/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "5h ago",
+      "pubDate": "2026-07-01T18:11:00.000Z",
+      "title": "Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device",
+      "body": "Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "6h ago",
       "pubDate": "2026-07-01T17:16:07.000Z",
       "title": "Tesla European registrations climb in June",
       "body": "Tesla European registrations climb in June Reuters",
@@ -160,7 +173,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-01T15:25:14.000Z",
       "title": "BYD's sales rise for second month, buoyed by exports",
       "body": "BYD's sales rise for second month, buoyed by exports Reuters",
@@ -173,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-01T15:25:14.000Z",
       "title": "BYD's sales rise for second month, buoyed by exports",
       "body": "BYD's sales rise for second month, buoyed by exports Reuters",
@@ -186,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-01T15:02:25.000Z",
       "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
       "body": "Automakers report mixed U.S. sales results as hybrid vehicles drive market CNBC",
@@ -199,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-01T15:00:00.000Z",
       "title": "Tesla’s Vehicle Deliveries Rise 3% as Car Sales Growth Slows Globally",
       "body": "Tesla’s Vehicle Deliveries Rise 3% as Car Sales Growth Slows Globally Bloomberg.com",
@@ -212,20 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
-      "pubDate": "2026-07-01T14:04:56.000Z",
-      "title": "Wayve courts automakers with AI driving system that learns like humans",
-      "body": "Wayve courts automakers with AI driving system that learns like humans Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/technology/wayve-courts-automakers-with-ai-driving-system-that-learns-like-humans-2026-07-01/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-01T14:04:56.000Z",
       "title": "Wayve courts automakers with AI driving system that learns like humans",
       "body": "Wayve courts automakers with AI driving system that learns like humans Reuters",
@@ -239,6 +239,19 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "9h ago",
+      "pubDate": "2026-07-01T14:04:56.000Z",
+      "title": "Wayve courts automakers with AI driving system that learns like humans",
+      "body": "Wayve courts automakers with AI driving system that learns like humans Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/technology/wayve-courts-automakers-with-ai-driving-system-that-learns-like-humans-2026-07-01/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "10h ago",
       "pubDate": "2026-07-01T12:51:12.000Z",
       "title": "Self-drive start-up Wayve to be first big test of London’s Pisces market",
       "body": "Self-drive start-up Wayve to be first big test of London’s Pisces market Financial Times",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/10c0f880-7727-4f65-96c0-a4307e450fc9?syn-25a6b1a6"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
-      "pubDate": "2026-07-01T10:52:25.000Z",
-      "title": "Stocks",
-      "body": "Stocks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/profile/person/25523115"
     }
   ]
 }
