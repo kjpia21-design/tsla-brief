@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-02 21:30 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-02 21:50 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "few minutes ago",
+      "pubDate": "2026-07-02T12:30:48.000Z",
+      "title": "테슬라 중국산 EV 6월 판매 <em>24.4%↑</em> — 8개월 연속 증가",
+      "hotShort": "테슬라 중국산 EV 6월 <em>24.4%↑</em>, 8개월째 성장",
+      "body": "중국승용차협회(CPCA) 집계 기준 테슬라 기가상하이산 모델3·Y의 6월 판매(수출+내수)가 8만9,091대로 전년 대비 24.4% 증가 — 5월(+39.4%)에 이어 8개월 연속 플러스 성장을 이어갔다. 유럽向 수출 회복이 주된 동력으로 꼽히며, 앞서 발표된 2분기 글로벌 인도 서프라이즈(48만126대)와 궤를 같이 하는 흐름이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "product-china-made-ev-sales-june-2026-07-02",
+      "summary": "중국승용차협회(CPCA)가 집계한 6월 판매 데이터에 따르면, 테슬라가 기가상하이에서 생산한 모델3·모델Y는 수출과 중국 내수를 합쳐 8만9,091대가 팔렸다. 이는 전년 동월 대비 24.4% 늘어난 수치로, 로이터가 2일(현지시간) 보도했다.\n\n이번 증가세는 일회성이 아니다. 5월에도 전년 대비 39.4% 늘며 강한 반등을 보였고, 이번 6월까지 이어지며 8개월 연속 전년 대비 플러스 성장을 기록했다. 테슬라는 지난해 하반기 유럽 판매 부진과 BYD 등 중국 로컬 업체와의 가격 경쟁 심화로 어려움을 겪었지만, 최근 유럽 수요 회복이 기가상하이발 수출 물량을 밀어올리고 있다는 분석이다.\n\n이 흐름은 앞서 발표된 테슬라의 2분기 글로벌 인도 실적(48만126대, 컨센서스 대폭 상회)과도 맞닿아 있다 — 유럽 수요 회복이 기가상하이 수출을 통해 전체 인도량 서프라이즈에 기여했다는 해석에 힘을 싣는다.\n\n다만 이는 CPCA 기준 중국 생산분(수출 포함) 월간 데이터로, 테슬라가 직접 발표하는 분기 글로벌 인도량과는 집계 기준이 다르다. 중국 내수 시장에서는 BYD 등 로컬 업체의 저가 공세가 여전한 만큼, 이번 성장이 수출 주도인지 내수 회복까지 포함하는지는 다음 분기 지역별 실적에서 확인이 필요하다.",
+      "title_en": "Tesla's China-Made EV Sales Rise <em>24.4% YoY</em> in June — 8th Straight Month of Growth",
+      "hotShort_en": "China-made Tesla sales <em>+24.4% YoY</em> in June, 8th month up",
+      "body_en": "Tesla's Shanghai-built Model 3/Y sales — exports plus domestic — hit 89,091 units in June, per CPCA data, up 24.4% year-over-year and marking an eighth straight month of growth after May's 39.4% gain. Recovering European demand is cited as the main driver, echoing the same trend behind Tesla's Q2 global delivery beat of 480,126 units.",
+      "summary_en": "China's Passenger Car Association (CPCA) reported that Tesla's Shanghai-made Model 3 and Model Y — combining exports and domestic sales — totaled 89,091 units in June, up 24.4% from a year earlier, Reuters reported July 2.\n\nThe gain isn't a one-off. May also saw a strong 39.4% year-over-year jump, and June extends that into an eighth consecutive month of positive growth. Tesla had struggled with soft European sales and intensifying price competition from Chinese rivals like BYD through much of last year, but a recent rebound in European demand is now credited with lifting export volumes out of Gigafactory Shanghai.\n\nThe trend lines up with Tesla's already-reported Q2 global delivery beat of 480,126 vehicles, far above consensus — reinforcing the read that recovering European demand, channeled through Shanghai-made exports, contributed meaningfully to that surprise.\n\nOne caveat: this is monthly CPCA data covering China-made output (including exports), a different measure than Tesla's own quarterly global delivery figures. With BYD and other domestic rivals still competing hard on price inside China, whether this growth is export-led or also reflects a domestic demand recovery will become clearer once regional breakdowns for the quarter are available.",
+      "href": "https://www.reuters.com/business/autos-transportation/teslas-china-made-ev-sales-rise-244-year-year-june-2026-07-02/",
+      "sentiment": "bull",
+      "hot": 5
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
