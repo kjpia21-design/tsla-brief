@@ -1,6 +1,52 @@
 {
-  "asOf": "2026-07-01 20:35 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-02 10:07 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-07-01T19:41:56.000Z",
+      "title": "테슬라 첫 종가 $420 돌파 — 개미 매수세 재점화, 주간 <em>10% 급등</em>",
+      "hotShort": "테슬라 첫 종가 $420 돌파, 개미 매수 <em>재점화</em>",
+      "body": "블룸버그에 따르면 테슬라 주가가 7월 1일 사상 처음 종가 $420을 돌파하며 마감했다 — 밴다리서치 집계상 주가가 $420을 넘을 때마다 5일 개인 순매수 평균이 8,700만 달러에서 1억 3,500만 달러로 급증하는 패턴이 이번에도 재현됐다. 내일(7월 2일) Q2 인도 실적 발표를 하루 앞두고 주간 상승률 약 10%를 기록하며 실적 기대감이 주가에 선반영되는 모습이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "stock-tsla-420-close-meme-rally-2026-07-01",
+      "summary": "블룸버그가 7월 1일 보도한 바에 따르면 테슬라(TSLA)는 이날 정규장에서 사상 처음으로 종가 $420 선을 넘어섰다. $420은 일론 머스크가 2018년 \"비공개화 자금 확보\" 트윗에서 언급해 이후 테슬라 투자자 커뮤니티에서 상징적 의미를 지녀온 가격대로, 이번 돌파가 '밈 주식' 성격의 매수세를 다시 자극했다.\n\n밴다리서치 데이터에 따르면 테슬라 주가가 $420을 넘어설 때마다 5거래일 개인 순매수 평균이 8,700만 달러에서 1억 3,500만 달러로 늘어나는 패턴이 반복돼 왔는데, 이번 돌파에서도 같은 흐름이 관측됐다. 이번 주에만 주가가 약 10% 상승하며 랠리에 속도가 붙었다.\n\n이번 랠리는 6월 12일 스페이스X의 나스닥 데뷔(주당 $135, 밸류에이션 $1.75조)로 촉발된 여진의 연장선이라는 분석이 많다. 테슬라가 보유한 스페이스X 지분이 최근 시가로 재평가되며 실적에 반영된다는 소식(6월 30일)이 이미 사이트에서 다룬 바 있는데, 이번 주가 랠리는 그 흐름의 연장으로 해석된다.\n\n주주 입장에서 중요한 건 타이밍이다. 이 상승세는 내일(7월 2일) 발표될 Q2 인도 실적을 하루 앞두고 나온 것으로, 컨센서스는 40.6만 대이지만 블룸버그 자체 추산은 이보다 낮은 39.6만 대다. 인도 실적이 기대에 못 미치면 최근의 모멘텀 랠리가 되돌려질 위험도 있다.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-01/musk-meme-traders-blaze-back-into-tesla-when-the-stock-hits-420",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "Barron's",
+        "TipRanks"
+      ],
+      "sentiment": "bull",
+      "hot": 6,
+      "title_en": "TSLA closes above <em>$420 for the first time</em>, igniting meme-stock buying",
+      "hotShort_en": "TSLA closes above <em>$420</em> for first time, up 10% weekly",
+      "body_en": "TSLA closed above $420 for the first time on July 1, Bloomberg reports — Vanda Research data shows five-day retail net buying jumps from an average $87M to $135M whenever the stock crosses that level, and the same pattern played out again this time. Shares are up roughly 10% for the week heading into tomorrow's high-stakes Q2 delivery report, suggesting investors are front-running the print.",
+      "summary_en": "Tesla (TSLA) closed above the $420 level for the first time in regular trading on July 1, Bloomberg reported. The price holds symbolic weight for Tesla's investor community, tracing back to Elon Musk's 2018 \"funding secured\" go-private tweet that named $420 as the buyout price — and this breakout reignited the stock's meme-trading dynamic.\n\nAccording to Vanda Research, five-day average retail net buying has historically jumped from about $87 million to $135 million whenever Tesla shares climb past $420, and that pattern repeated with this breakout. Shares are up roughly 10% for the week, adding momentum to the rally.\n\nMuch of the run-up is being read as an extension of the rally sparked by SpaceX's June 12 Nasdaq debut, which priced at $135 a share for a $1.75 trillion valuation. Tesla's SpaceX equity stake was recently marked up to reflect that valuation (as covered here on June 30), and this week's TSLA strength is widely seen as a continuation of that spillover.\n\nThe timing matters most for shareholders: this rally lands one day before Tesla reports Q2 deliveries on July 2. Wall Street's consensus sits near 406,000 vehicles, while Bloomberg's own estimate is lower at roughly 396,500. If tomorrow's actual number disappoints against consensus, this week's momentum-driven gains could reverse quickly."
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "7h ago",
+      "pubDate": "2026-07-01T18:11:00.000Z",
+      "title": "WSJ 단독 — 스페이스X, 아이폰보다 얇은 <em>AI 기기 시제품</em> 투자자에 공개",
+      "hotShort": "스페이스X, 아이폰보다 얇은 <em>AI 기기</em> 시제품 공개",
+      "body": "월스트리트저널 단독 보도에 따르면 스페이스X가 IPO를 전후해 투자자들에게 아이폰보다 얇은 핸드셋형 AI 기기 시제품을 보여줬다 — 자체 OS와 퀄컴 칩셋에 xAI 기술을 결합한 형태로, 아직 초기 단계라 설계가 바뀔 수 있다고 전해졌다. 일론 머스크는 이 보도를 \"완전히 거짓\"이라며 즉각 부인해, 사실관계는 아직 확정되지 않았다.",
+      "sourceName": "The Wall Street Journal",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-ai-device-prototype-wsj-2026-07-01",
+      "summary": "WSJ의 7월 1일 단독 보도는 스페이스X가 최근 IPO를 전후한 시점에 투자자·이해관계자들에게 새로운 하드웨어 프로젝트를 시연했다는 내용이다. 보도가 사실이라면 테슬라 주주들이 최근 주목해온 '스페이스X發 밸류에이션 확장' 서사에 또 하나의 변수가 추가되는 셈이라, 시점 자체가 논란의 핵심이다.\n\n보도에 따르면 이 기기는 아이폰보다 얇은 핸드셋 형태로, 자체 개발한 운영체제와 퀄컴 칩셋을 탑재하고 스페이스X 산하 xAI의 AI 기술을 결합했다. 다만 아직 개발 초기 단계라 최종 디자인이 바뀔 수 있고, 실제 출시로 이어질지는 불확실하다고 WSJ는 전했다.\n\n일론 머스크는 보도 직후 이를 \"완전히 거짓(utterly false)\"이라고 공개 반박했다. WSJ의 단독 보도 하나에 의존한 내용이고 당사자가 명시적으로 부인한 만큼, 확정된 사실이라기보다는 논쟁 중인 보도로 다뤄야 한다.\n\n테슬라 주주 입장에서 이 소식이 갖는 의미는 간접적이다 — 테슬라는 스페이스X 지분을 보유하고 있고, 최근 이 지분이 스페이스X의 나스닥 데뷔 밸류에이션($1.75조)으로 시가 재평가되며 테슬라 실적에 반영된다는 소식이 이미 나온 바 있다. 스페이스X가 신사업(AI 기기)으로 영역을 넓힌다는 서사 자체가 사실로 확정되면 이 지분 가치 스토리에 추가 동력이 될 수 있지만, 머스크의 부인으로 아직은 지켜봐야 할 단계다.",
+      "href": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b",
+      "sentiment": "neutral",
+      "hot": 5,
+      "title_en": "WSJ exclusive: SpaceX showed investors an <em>AI device prototype</em> thinner than an iPhone",
+      "hotShort_en": "SpaceX AI device <em>prototype</em> shown to investors, Musk denies",
+      "body_en": "SpaceX showed investors a handset-like AI device prototype thinner than an iPhone around its IPO, the Wall Street Journal reported exclusively — running a proprietary OS on a Qualcomm chipset with xAI technology built in, though still early-stage enough that the design could change. Elon Musk immediately denied the report as \"utterly false,\" so the facts remain contested.",
+      "summary_en": "The Wall Street Journal's July 1 exclusive reports that SpaceX demonstrated a new hardware project to investors and stakeholders around the time of its IPO. If accurate, it would add a new thread to the SpaceX-linked valuation story Tesla shareholders have been tracking — which is exactly why the timing is the most contested part of the report.\n\nPer the report, the device is a handset thinner than an iPhone, running a proprietary operating system on a Qualcomm chipset with AI technology from SpaceX's xAI unit built in. WSJ noted the project is early-stage enough that the final design could still change, and it's unclear whether it will reach market.\n\nElon Musk responded by calling the report \"utterly false.\" Since this rests on a single WSJ exclusive that the subject has explicitly denied, it should be treated as a disputed report rather than a confirmed fact.\n\nFor Tesla shareholders, the relevance is indirect: Tesla holds a SpaceX equity stake that was recently marked up to reflect SpaceX's Nasdaq debut valuation of $1.75 trillion, a gain already flowing into Tesla's own financials. If SpaceX's expansion into AI hardware is eventually confirmed, it could add another leg to that stake-value narrative — but Musk's denial means it's a story to watch, not yet to bank on."
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -131,58 +177,6 @@
       "hotShort_en": "France <em>+655%, 5,446 units</em> — June Europe confirmed",
       "body_en": "Reuters reported Europe's final June Tesla registration counts on July 1 — France at 5,446 units (+655% year-over-year), Denmark at 1,750 (+39%), and Sweden at 858 (+56%) all surged, while Norway bucked the regional trend at -43% year-over-year. These are the last country-level data points before Tesla's Q2 2026 delivery report (due July 2, consensus ~406K vehicles), providing concrete confirmation that the European demand recovery — first flagged by Morgan Stanley's May data — held through June.",
       "summary_en": "Reuters published final June 2026 Tesla registration data for key European markets on July 1, providing the last major data point before tomorrow's Q2 delivery report. The headline numbers: France at 5,446 vehicles (+655% year-over-year), Denmark at 1,750 (+39%), and Sweden at 858 (+56%) — all three markets showing strong year-over-year rebounds. Norway was the exception, falling 43% year-over-year.\n\nThe +655% France figure requires context. Throughout 2025, Elon Musk's public support for European far-right political parties triggered a meaningful consumer backlash that hit Tesla registrations hard across the region — France was among the most affected markets. The 2026 reversal incorporates a meaningful base effect from 2025's depressed levels. However, the absolute rebound — 5,446 units in a single month — indicates real demand returning, not statistical noise from a low prior-year comparison.\n\nNorway's -43% decline reflects a different dynamic. Norway has Europe's highest EV penetration rate, having built up a very large installed base in prior years. The market is entering a natural saturation phase where replacement demand runs below peak-year registration levels. Market maturity rather than political sentiment is the more likely driver of the Norwegian shortfall.\n\nFor investors, these numbers land one day before Tesla's Q2 2026 delivery report, due on July 2. The consensus stands at approximately 406,024 vehicles. Morgan Stanley raised its Q2 estimate from 373,000 to 413,000 after May European data showed registrations more than doubling year-over-year. June's France, Denmark, and Sweden data confirm the trend held into the final month of the quarter. If tomorrow's Q2 report prints above consensus, European registrations — France in particular — will be identified as the decisive driver."
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
-      "pubDate": "2026-06-30T20:43:43.000Z",
-      "title": "테슬라 Q2 인도 D-1 — 유럽 등록 <em>전년 대비 2배</em>·컨센서스 406K",
-      "hotShort": "Q2 인도 내일 — 유럽 <em>전년 대비 2배 급등</em>",
-      "body": "Reuters 분석(인도 D-1, 7월 2일 발표) — Q2 반등의 최대 동력은 유럽이다. Morgan Stanley는 5월 유럽 등록 수가 전년 대비 2배 이상 급증했다는 점을 들어 추정치를 373K→413K로 상향했고, Deutsche Bank도 유럽 지역 성장률 ~40%를 최대 지역으로 꼽았다. 반면 북미 -21%(YoY)·중국 +3% — 2025년 머스크 정치적 행보로 급감했던 유럽 수요의 반등이 Q2 전체 인도를 이끈다. 총 컨센서스 ~406K(QoQ +20.6%).",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "stock-q2-deliveries-europe-rebound-2026-06-30",
-      "summary": "테슬라의 Q2 2026 인도 보고서가 내일(7월 2일) 발표된다. Reuters가 D-1에 게재한 프리뷰 분석의 핵심은 유럽 수요의 극적인 반등이다. 2025년 한 해 동안 일론 머스크의 유럽 극우 정당 공개 지지, DOGE 정책 관련 발언 등에 유럽 소비자 반발이 커지며 판매가 전년 대비 큰 폭으로 감소했다. 2026년 들어 이 상황이 반전됐다.\n\n가장 구체적인 근거는 Morgan Stanley의 데이터다. 5월 유럽 테슬라 등록 수가 전년 동월 대비 2배 이상 급증했다는 데이터를 근거로, Morgan Stanley는 Q2 추정치를 373,000대에서 413,000대로 40,000대 상향 조정했다. Deutsche Bank도 유럽 지역 Q2 성장률을 약 40%로 전망하며, 중국(+3%)·북미(-21%)를 압도하는 최대 지역 성장 동력으로 제시했다.\n\n전체 컨센서스는 테슬라 공식 애널리스트 집계 기준 406,024대(모델 3/Y 392,646대 + 기타 12,978대)다. Q1 2026 인도 336,681대 대비 QoQ 약 +20.6% 성장이 기대된다. 별도 집계(월가 평균)는 402,780대(YoY +4.9%, QoQ +12.5%)다. 북미는 EV 세액공제 불확실성과 브랜드 이미지 영향으로 YoY -21%, 중국은 +3% 완만 회복으로 이번 분기의 상대적 약점이다.\n\n차량 대수 외에 에너지 스토리지가 Q2 실적의 숨겨진 변수다. 컨센서스 13.8GWh는 Q1 8.8GWh 대비 +57% 급증한 수치다. 마진율이 높은 메가팩 사업의 성장세가 차량 대수 서프라이즈 폭을 상쇄하거나 강화하는 요인이 될 수 있다.\n\n투자자 관점에서 유럽 회복의 지속성이 핵심 질문이다. 5월 유럽 등록이 2배 급증한 것이 일시적 반등인지 구조적 수요 복원인지는 내일 수치가 말해줄 것이다. 컨센서스 이상의 결과 + 유럽 강세 + 에너지 스토리지 서프라이즈 조합이 나온다면, 7월 22일 어닝콜 전까지 TSLA 재평가의 기폭제가 될 수 있다. 6월 한 달 동안 TSLA가 하락 압력을 받아온 상황에서 내일 수치는 시장이 방향을 재설정하는 첫 번째 구체적 데이터다.",
-      "href": "https://www.reuters.com/business/autos-transportation/tesla-q2-deliveries-expected-rebound-europe-sales-recover-2026-06-30/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "Electrek",
-        "Investing.com"
-      ],
-      "sentiment": "bull",
-      "hot": 8,
-      "title_en": "Tesla Q2 Deliveries D-1 — Europe Registrations <em>Doubled YoY</em>, Consensus 406K",
-      "hotShort_en": "Q2 deliveries tomorrow — Europe <em>doubled YoY</em>",
-      "body_en": "Reuters' D-1 Q2 delivery preview (report due July 2) identifies Europe as the recovery driver: Morgan Stanley raised its Q2 estimate from 373K to 413K vehicles after May European registrations more than doubled year-over-year, while Deutsche Bank expects European regional growth of roughly 40% — the largest of any region. North America is projected -21% YoY amid demand headwinds; China recovers modestly at +3%. Tesla's own analyst consensus stands at ~406K total vehicles, implying roughly 20.6% sequential growth from Q1's 336,681 deliveries.",
-      "summary_en": "Tesla's Q2 2026 delivery report is due tomorrow, July 2. Reuters published a pre-report analysis on June 30 identifying Europe as the standout story for the quarter.\n\nEurope suffered a meaningful sales slump throughout 2025, driven by consumer backlash against Elon Musk's political activities in the region — specifically his visible support for far-right parties in France, Germany, and elsewhere. 2026 has seen a reversal. Morgan Stanley, citing May European Tesla registration data showing volumes more than doubling year-over-year, raised its full-quarter Q2 delivery estimate from 373,000 to 413,000 vehicles. Deutsche Bank projects European regional growth of approximately 40% for Q2 — the highest regional growth rate of any geography Tesla operates in.\n\nNorth America is the drag on Q2, projected at -21% year-over-year. The US faces combined headwinds: IRA EV tax credit uncertainty, a segment of consumers who have become skeptical of the Tesla brand in connection with Musk's public activities, and broader EV demand normalization. China is recovering modestly at approximately +3% year-over-year.\n\nThe consensus from Tesla's own analyst compilation is 406,024 vehicles (392,646 Model 3/Y and 12,978 other models), implying roughly 20.6% sequential growth from Q1 2026's 336,681 deliveries. A separate market-wide average puts the estimate at 402,780 (representing 4.9% year-over-year and 12.5% sequential growth). Both figures depend heavily on European registrations sustaining the May pace through June.\n\nFor investors, energy storage is the Q2 wildcard that delivery headlines will not capture. The consensus calls for 13.8 GWh of energy deployed — up 57% from Q1's 8.8 GWh — and Tesla's Megapack business carries structurally higher margins than vehicles. A Q2 outcome that delivers vehicles above consensus, European registrations sustaining the doubling trend, and energy storage above 13.8 GWh would be a strong three-factor re-rating setup heading into the July 22 earnings call."
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-30T18:32:00.000Z",
-      "title": "테슬라 스페이스X 지분 $2B → <em>$2.9B 시가반영</em> — Q2에 ~$9.4억 투자이익 신규 반영",
-      "hotShort": "테슬라 스페이스X지분 <em>~$9.4억 Q2 투자이익</em> 반영",
-      "body": "테슬라가 Q1 2026 8-K에서 스페이스X 약 1,900만 주(원가 $2B)를 보유 중임을 공시, '공정가치' 회계로 분기별 시가반영을 선택했다 — 스페이스X IPO(6월 12일) 이후 현재 시가 약 $2.9B로, Q2 종료 시점 약 $9.4억의 투자평가이익이 실적에 반영될 전망이다. Barron's는 이 구조가 TSLA·SpaceX 주가가 '쌍둥이처럼 거래'되는 핵심 원인이라고 분석했다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "stock-tesla-spacex-stake-marktomarket-2026-06-30",
-      "summary": "테슬라는 2026년 1분기 8-K(4월 22일 공시)에서 스페이스X 약 1,900만 주를 보유하고 있음을 밝혔다. 이 지분은 2026년 1월 테슬라가 xAI 시리즈 E에 $2B를 투자한 것이 계기가 됐으며, 스페이스X가 xAI Holdings를 인수하는 과정에서 테슬라의 xAI 우선주가 스페이스X 클래스A 보통주로 전환됐다(최종 전환 2026년 3월 12일).\n\n핵심 회계 선택: 테슬라는 이 스페이스X 지분에 대해 '공정가치 옵션(Fair Value Option)'을 선택했다. 이는 분기 말 시가로 자산을 평가하고 그 변동액을 손익계산서에 직접 반영하는 방식이다. 스페이스X가 6월 12일 IPO($75B 조달, 기업가치 $1.77T)를 완료하면서 테슬라의 스페이스X 지분은 처음으로 시장 거래 가격으로 평가된다.\n\n6월 30일 기준 스페이스X 주가 약 $154.54, 테슬라의 19M 주 시가는 약 $2.93B이다. 원가 $2B 대비 약 $9.3억의 미실현이익이 발생했으며, 이것이 테슬라의 Q2 투자손익으로 인식된다. 단, Q2 최종값은 6월 30일 종가 기준으로 확정된다.\n\n이 구조가 Barron's가 분석한 'TSLA·SpaceX 쌍둥이 거래'의 본질이다. 스페이스X 주가가 IPO 후 고점($192 내외) 대비 약 19% 하락하는 동안 TSLA도 동반 조정됐고, 반대로 스페이스X가 반등하면 테슬라 실적도 개선되는 구조다.\n\n투자자 관점에서 이 사안의 함의는 두 가지다. 첫째, 테슬라의 Q2 EPS에는 순수 영업이익 외에 스페이스X 투자평가이익 약 $9.3억(세전)이 포함될 가능성이 있어, 어닝 비교 시 일회성 항목을 분리할 필요가 있다. 둘째, 스페이스X 주가 변동이 이제 매 분기 테슬라 EPS에 직접 반영되는 새로운 변수가 됐으며, 7월 22일 어닝콜에서 CFO가 이 항목을 어떻게 설명할지 주목된다.",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-spacex-merger-c29d6bb4",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Barron's",
-        "Yahoo Finance",
-        "247 Wall St."
-      ],
-      "sentiment": "neutral",
-      "hot": 7,
-      "title_en": "Tesla's SpaceX stake: $2B invested → <em>$2.9B market value</em> — ~$930M Q2 investment gain expected",
-      "hotShort_en": "TSLA SpaceX stake nets <em>~$930M</em> in Q2",
-      "body_en": "Tesla disclosed in its Q1 2026 8-K that it holds approximately 19 million SpaceX shares — the position originated from a $2B xAI Holdings investment that converted to SpaceX stock when SpaceX acquired xAI. At SpaceX's current price of ~$154.54 (June 30), the stake is worth approximately $2.9B, implying a roughly $930M Q2 investment gain that flows directly to Tesla's income statement under its fair value accounting election. Barron's identified this structure as the reason Tesla and SpaceX shares trade in near-lockstep — when SpaceX drifts, so does Tesla's quarterly EPS.",
-      "summary_en": "Tesla's Q1 2026 8-K, filed April 22, disclosed for the first time that the company holds approximately 19 million SpaceX shares. The position traces back to January 16, 2026, when Tesla agreed to invest $2 billion in xAI Holdings' Series E funding round. SpaceX subsequently acquired xAI Holdings, and Tesla's xAI preferred shares were converted to SpaceX Class A common stock — an exchange Tesla completed on March 12, 2026.\n\nThe critical accounting decision: Tesla elected the fair value option on the SpaceX investment. Under this method, Tesla marks the position to the market price at the end of each quarter and flows the gain or loss directly through its income statement. Before SpaceX went public on June 12, 2026 (raising $75B at a $1.77 trillion valuation), the position was carried on Tesla's balance sheet at cost. The IPO introduced a daily observable price, making the fair value approach both mandatory and visible.\n\nAs of June 30, SpaceX trades at approximately $154.54 per share, down roughly 19% from its early post-IPO peak of around $192. Tesla's 19 million shares are therefore worth approximately $2.93 billion. Against the $2 billion cost basis, this represents a pre-tax unrealized gain of approximately $930 million that will be recognized in Tesla's Q2 2026 earnings.\n\nBarron's identified this fair value structure as the mechanical reason TSLA and SpaceX have traded in near-lockstep since the IPO. When SpaceX fell roughly 19% from its post-IPO peak, Tesla's quarterly income statement faced a corresponding reduction in its investment gain.\n\nFor Tesla investors, the SpaceX stake introduces two new analytical variables. First, Tesla's Q2 EPS will include a meaningful non-cash, non-operating investment gain — roughly $930M pre-tax — that must be separated from operating performance when comparing to the prior quarter or Wall Street's operating estimates. Second, SpaceX stock volatility is now a permanent feature of Tesla's quarterly earnings cadence, meaning TSLA valuation work requires modeling both Tesla's operations and the SpaceX position. The July 22 Q2 earnings call is the first occasion where Tesla's CFO will need to address this item at scale."
     }
   ]
 }
