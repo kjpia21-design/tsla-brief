@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-02 17:45 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-02 21:30 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "few minutes ago",
+      "pubDate": "2026-07-02T12:30:00.000Z",
+      "title": "테슬라 2분기 인도량 <em>48만126대</em> — 컨센서스 40.6만 대폭 상회",
+      "hotShort": "테슬라 2분기 인도 <em>48만 대</em> 어닝서프라이즈",
+      "body": "테슬라가 2분기 48만126대를 인도했다고 발표 — 테슬라 IR 컨센서스(40만6,024대) 대비 18% 상회, 전년동기 대비 +25%·전분기 대비 +34% 증가한 수치다. 세제혜택 종료로 수요 둔화 우려가 컸던 가운데 나온 어닝서프라이즈로, 1분기 인도 미스 우려를 완전히 뒤집었다.",
+      "sourceName": "Tesla IR",
+      "sourceLabel": "official",
+      "slug": "stock-q2-2026-deliveries-480k-beat-2026-07-02",
+      "summary": "테슬라의 2분기 인도 발표를 앞두고 시장의 긴장감은 그 어느 때보다 컸다. 1분기 테슬라는 컨센서스(36만5,645대)에도 못 미치는 35만8,023대를 인도하며, 팔지 못한 재고를 5만 대 넘게 쌓아둔 채 분기를 마친 바 있다. 여기에 미 연방 EV 세제혜택 종료까지 겹치며 2분기 역시 부진할 것이라는 우려가 컨센서스(40만6,024대)를 짓눌렀다.\n\n실제 발표된 수치는 이런 우려를 완전히 뒤엎었다. 테슬라는 2분기 총 45만1,758대를 생산(모델3·Y 44만2,936대 + 기타 모델 8,822대)하고, 48만126대를 인도(모델3·Y 46만7,762대 + 기타 모델 1만2,364대)했다고 밝혔다. 테슬라 자체 IR 컨센서스(40만6,024대) 대비 18%, 블룸버그 자체 추산(39만6,466대) 대비로는 약 21% 웃도는 규모다.\n\n에너지 저장 배치량은 13.5GWh로, 자체 컨센서스치(13.8GWh)에는 소폭 못 미쳤지만 1분기(8.8GWh) 대비로는 약 53% 늘었다 — 로보택시·데이터센터향 수요 확대와 맞물려 에너지 사업 역시 견조한 성장을 이어가고 있음을 보여준다.\n\n인도 회복의 동력은 유럽으로 지목된다. 세제혜택 종료로 눌린 북미 수요를 유럽 시장의 뚜렷한 회복세가 상쇄했고, 중국산 저가 EV와의 경쟁 압력 속에서도 테슬라가 예상보다 훨씬 많은 물량을 소화했다는 해석이다.\n\n매출·영업이익률 등 나머지 실적 지표는 7월 22일 장 마감 후 별도 발표된다. 이번 인도 서프라이즈가 마진까지 이어질지, 아니면 인센티브 확대에 따른 물량 밀어내기였는지는 그때 가려질 전망이다.",
+      "title_en": "Tesla Q2 deliveries hit <em>480,126</em>, crushing the 406K consensus",
+      "hotShort_en": "Tesla Q2 deliveries <em>beat big</em> at 480K",
+      "body_en": "Tesla delivered 480,126 vehicles in Q2, beating its own IR consensus of 406,024 by 18% — up 25% year-over-year and 34% from Q1. The blowout print, coming despite fears that the expired federal EV tax credit would crush demand, completely reverses the narrative from Q1's delivery miss.",
+      "summary_en": "Going into Tesla's Q2 delivery report, investor nerves were running high. In Q1, Tesla delivered just 358,023 vehicles, missing its own consensus of 365,645 and ending the quarter with more than 50,000 unsold cars in inventory. With the federal EV tax credit having since expired, expectations for Q2 — a consensus of 406,024 — were already under pressure.\n\nThe actual numbers blew past that bar. Tesla said it produced 451,758 vehicles in total (442,936 Model 3/Y plus 8,822 other models) and delivered 480,126 (467,762 Model 3/Y plus 12,364 other models) — 18% above its own IR consensus of 406,024, and roughly 21% above Bloomberg's separate estimate of 396,466.\n\nEnergy storage deployments came in at 13.5 GWh, just shy of the 13.8 GWh consensus but up about 53% from Q1's 8.8 GWh — a sign the energy business keeps scaling alongside rising robotaxi- and data-center-driven demand.\n\nEurope is being credited as the swing factor: a clear rebound in European demand offset softer North American sales after the tax credit expired, even as Tesla continued facing intense pricing pressure from lower-cost Chinese EV rivals.\n\nRevenue, margins and the rest of the quarterly financials won't land until after market close on July 22. Whether this delivery beat carries through to margins — or reflects heavier incentives used to move volume — will be the next thing to watch.",
+      "href": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Tesla IR",
+        "CNBC",
+        "Electrek"
+      ],
+      "sentiment": "bull",
+      "hot": 9
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -25,31 +51,6 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-02T01:24:00.000Z",
-      "title": "미래에셋, 스페이스X IPO 배정 논란 반박 — <em>\"주관사가 주문 접수 확인\"</em>",
-      "hotShort": "미래에셋, 스페이스X 배정 논란 <em>주관사에 반박</em>",
-      "body": "미래에셋증권이 스페이스X IPO 주식 배정 논란에서 주관사가 자사 주문 접수를 확인했다고 반박했다 — 국내 투자자 11억 4천만 달러 규모 주문이 통째로 배정에서 빠진 사고의 책임 소재를 둘러싼 공방이 한국 금융당국 조사로 번지고 있다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-mirae-spacex-ipo-dispute-2026-07-02",
-      "summary": "스페이스X는 지난달 기업공개(IPO)를 단행했는데, 골드만삭스·모건스탠리·뱅크오브아메리카·JP모건·씨티그룹 등이 이끈 23개 주관사단 가운데 한국의 미래에셋증권만 유일하게 배정 물량을 전혀 받지 못하는 이례적 사고가 발생했다.\n\n블룸버그는 지난 6월 30일 첫 보도에서, 미래에셋이 주관사 측의 초기 '투자 관심 조사' 요청을 실제 확정 주문 제출로 착각해 절차를 오해했고, 그 결과 11억 4천만 달러 규모의 국내 투자자 주문이 최종 주문장(order book)에 아예 반영되지 못했다고 전했다.\n\n미래에셋은 이 보도를 정면으로 반박했다. 7월 2일 블룸버그 보도에 따르면 미래에셋은 스페이스X IPO 관련 모든 절차를 주관사 측과 협의해 정상적으로 진행했으며, 주관사 한 곳이 자사 주문 접수 사실을 직접 확인해줬다고 주장했다 — 절차상 오해가 아니라 주관사 측 배정 과정의 문제라는 취지다.\n\n이번 사고로 미래에셋은 고객들에게 공개 사과했고, 한국 금융당국은 관련 검사 범위를 넓히고 있다.\n\n스페이스X는 IPO 이후에도 주가 급등락·공매도 베팅 급증 등 변동성이 이어지고 있는 가운데, 이번 배정 논란은 해외 우량 IPO에 접근하려는 한국 투자자들의 신뢰 문제로 번질 수 있어 주목된다.",
-      "title_en": "Mirae Disputes SpaceX IPO Snub — Says <em>Underwriter Confirmed Its Orders</em>",
-      "hotShort_en": "Mirae disputes SpaceX IPO snub, <em>blames underwriter</em>",
-      "body_en": "Mirae Asset Securities pushed back on reports it mishandled SpaceX IPO orders, saying a lead underwriter confirmed receiving its bids — a dispute over who's responsible for $1.14B in Korean investor demand missing from the final allocation, now drawing a regulatory review in South Korea.",
-      "summary_en": "SpaceX went public last month through a syndicate of 23 underwriters led by Goldman Sachs, Morgan Stanley, Bank of America, JPMorgan and Citigroup. South Korea's Mirae Asset Securities was the only one of them to receive zero share allocation, an unusual outcome that triggered scrutiny back home.\n\nBloomberg first reported on June 30 that Mirae had mistaken an early request from lead underwriters to gauge investor interest for the actual submission of binding orders, meaning $1.14 billion in Korean client demand never made it into the final order book.\n\nMirae pushed back hard on that account. In a Bloomberg report published July 2, the brokerage said it handled the entire SpaceX IPO process in coordination with the underwriters, and that a lead underwriter directly confirmed it had received Mirae's orders — implying the failure sits with the allocation process, not a Mirae miscommunication.\n\nThe episode prompted a public apology to Mirae's clients and a widened inspection by South Korean financial regulators.\n\nWith SpaceX shares still swinging sharply and short bets rising since the IPO, the allocation dispute adds a new wrinkle to how Korean investors access marquee U.S. listings — and how much they can trust their local brokers to execute on them.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-02/mirae-says-a-lead-underwriter-confirmed-its-spacex-ipo-orders",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Bloomberg",
-        "Korea Herald"
-      ],
-      "sentiment": "neutral",
-      "hot": 3
     },
     {
       "category": "product",
@@ -141,46 +142,6 @@
       "hotShort_en": "Tesla Semi's <em>first fatal crash</em> kills 2 in Nevada",
       "body_en": "A Tesla Semi rear-ended two passenger vehicles stopped at a red light at the US-50/Traditions Parkway intersection in Dayton, Nevada, Sunday morning, killing 2 occupants and leaving a third airlifted by Care Flight in critical condition — the first known fatal crash involving Tesla's electric semi truck since deliveries began in 2022, a fresh test for confidence in commercial EV trucking safety.",
       "summary_en": "Tesla's Semi electric truck has been linked to a fatality for the first time since deliveries began in 2022. The crash happened at the intersection of U.S. Highway 50 and Traditions Parkway in Dayton, Nevada, on a Sunday morning.\n\nThe Semi rear-ended two passenger vehicles stopped at a red light. Two occupants died at the scene, and a third was airlifted by Care Flight to a hospital in critical condition. Electrek reported that the Semi's driver had reportedly fallen asleep just before the collision, and the scene, near Carson City, is being investigated by the Nevada Highway Patrol and the Lyon County Sheriff's Office.\n\nWith drowsy driving cited as the cause, scrutiny will likely center on whether the Semi's driver-fatigue detection and automated safety systems functioned as intended. Neither Tesla nor federal regulators (NHTSA) have issued an official statement.\n\nTesla builds the Semi at Gigafactory Nevada and has been expanding commercial rollout to freight and logistics customers. The crash is likely to sharpen industry and regulatory scrutiny of electric heavy-truck safety going forward."
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-07-01T15:00:00.000Z",
-      "title": "테슬라 Q2 인도 D-1 — 블룸버그 자체추산 <em>39.6만 대</em>, IR 컨센서스 40.6만보다 낮아",
-      "hotShort": "테슬라 Q2 인도 임박 — 블룸버그 추산 <em>39.6만 대</em>",
-      "body": "블룸버그가 별도로 집계한 애널리스트 컨센서스는 39만6,466대로, 테슬라 IR 컨센서스(40만6,024대·중앙값 40만8,609대)보다 낮다 — 두 기관의 눈높이 차이가 커, 7월 2일 발표될 실제 인도량이 어느 쪽에 가까울지에 따라 주가 반응이 갈릴 전망.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "stock-q2-delivery-bloomberg-estimate-2026-07-01",
-      "summary": "테슬라의 2분기 인도량 발표가 하루 앞으로 다가온 가운데, 시장의 기대치가 두 갈래로 나뉘고 있다. 테슬라 IR이 지난주 발표한 애널리스트 컨센서스는 40만6,024대(중앙값 40만8,609대, 22개 셀사이드 참여)였다.\n\n반면 블룸버그가 별도로 집계한 컨센서스는 약 20명의 애널리스트를 대상으로 39만6,466대에 그쳐, 테슬라 IR 수치보다 약 2% 낮다. 전년 동기 대비로는 약 3% 증가하는 수준으로, 최근 몇 년간의 40만 대 후반~50만 대 분기와 비교하면 여전히 완만한 성장세다.\n\n이런 가운데 TSLA 주가는 발표를 앞두고 최근 한 주간 10% 가까이 오르며 강세를 보였다는 것이 Barron's 보도다 — 인도량 자체보다 로보택시·에너지 저장 등 다른 성장 동력에 대한 기대가 주가를 이끌고 있다는 해석이 나온다.\n\n7월 2일 공식 인도량이 어느 컨센서스에 가까운지에 따라 시장 반응이 갈릴 수 있다 — IR 컨센서스를 밑돌면 실망 매물이, 블룸버그 추정치를 웃돌면 안도 랠리가 나올 수 있는 구도다. 매출·마진 등 전체 실적은 7월 22일 장 마감 후 별도 발표된다.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-01/tesla-s-car-business-muddles-along-with-muted-quarterly-sales",
-      "sentiment": "neutral",
-      "hot": 6,
-      "title_en": "Tesla Q2 deliveries one day out — Bloomberg's own estimate at <em>396K</em>, below IR's 406K consensus",
-      "hotShort_en": "Tesla Q2 deliveries near — Bloomberg pegs <em>396K</em>",
-      "body_en": "Bloomberg's own analyst consensus puts Tesla's Q2 deliveries at 396,466 vehicles, below Tesla IR's official consensus of 406,024 — the gap leaves investors guessing which figure the July 2 report will land closer to.",
-      "summary_en": "With Tesla's Q2 delivery report just a day away, the market is split between two competing consensus figures. Tesla IR's own analyst consensus, published last week, calls for 406,024 vehicles (median 408,609, from 22 sell-side firms).\n\nBloomberg's separately compiled consensus, based on roughly 20 analysts, comes in lower at 396,466 — about 2% below Tesla IR's number. That would still mark a roughly 3% year-over-year increase, but growth remains modest compared with the near-500,000-unit quarters Tesla posted in past years.\n\nMeanwhile, TSLA shares have rallied nearly 10% over the past week heading into the report, according to Barron's — a sign that investors may be looking past the delivery number toward other growth drivers like robotaxi and energy storage.\n\nWhether the official number lands closer to Tesla IR's or Bloomberg's consensus could set the market's initial reaction on July 2. Full quarterly financial results, including revenue and margins, are due after the close on July 22."
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-01T13:51:26.000Z",
-      "title": "사이버트럭 전력변환장치(PCS) 고장 확산 — 테슬라, <em>리콜 없이</em> 부품교체로 대응",
-      "hotShort": "사이버트럭 PCS 고장 확산, 테슬라 <em>리콜은 회피</em>",
-      "body": "사이버트럭 다수 차주에게서 전력변환장치(PCS) 고장으로 '완속충전 불가' 경고가 뜨며 집에서 충전을 못 하는 사례가 확산 중이나, 테슬라는 아직 NHTSA에 리콜 신고 없이 부품 교체로만 대응 중이다 — 주행 1만~1.8만마일의 비교적 신차에서 반복 발생해 품질 신뢰에 부담.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-cybertruck-pcs-charging-failure-2026-07-01",
-      "summary": "사이버트럭의 전력변환장치(Power Conversion System, PCS)는 고전압 배터리팩 전력을 낮춰 완속(AC) 충전을 담당하는 핵심 부품이다. 최근 이 부품이 고장 나며 차량 화면에 '완속충전 불가(AC Charging Unavailable)' 경고가 뜨는 사례가 늘고 있다고 Electrek이 7월 1일 보도했다.\n\n보도에 따르면 고장은 주행거리 1만~1만8,000마일(약 1.6만~2.9만km)의 비교적 신차에서도 발생하며, 일부 차주는 교체 후에도 재고장을 겪었다. 교체 부품이 전국적으로 품귀 상태라 수리까지 8~10주가 걸리는 경우도 있어, 테슬라는 임시방편으로 무료 슈퍼차징 제공과 긴급 OTA 업데이트로 대응하고 있다.\n\n핵심은 테슬라가 이 문제를 아직 NHTSA(미국 도로교통안전국)에 정식 리콜로 신고하지 않았다는 점이다. 대신 개별 서비스센터 방문 시 부품을 교체해주는 방식으로 처리하고 있으며, 보증기간이 지난 차량의 자비 수리비는 기존 7,000달러 이상에서 '고객 배려 차원'으로 1,000달러 수준까지 낮춰준 사례가 확인됐다.\n\n주주 입장에서는 광범위한 부품 결함이 공식 리콜 없이 개별 대응으로 처리되고 있다는 점이 리스크다 — 향후 NHTSA가 자체적으로 조사에 나서거나 결함 패턴이 더 확산되면, 대규모 정식 리콜과 그에 따른 비용·평판 부담으로 이어질 가능성을 배제할 수 없다.",
-      "href": "https://electrek.co/2026/07/01/tesla-cybertruck-pcs-failures-no-recall/",
-      "sentiment": "bear",
-      "hot": 5,
-      "title_en": "Cybertruck power-conversion failures spread — Tesla skips a recall, swaps parts instead",
-      "hotShort_en": "Cybertruck PCS fails, Tesla <em>avoids a recall</em>",
-      "body_en": "A growing number of Cybertruck owners are losing home AC charging to Power Conversion System (PCS) failures, but Tesla has yet to file an NHTSA recall — it's handling cases with part swaps instead, even as failures recur on trucks with just 10,000-18,000 miles.",
-      "summary_en": "The Cybertruck's Power Conversion System (PCS) steps down high-voltage pack power for AC home charging. A growing number of owners are seeing an 'AC Charging Unavailable' warning as the part fails, Electrek reported July 1.\n\nThe failures are showing up on relatively low-mileage trucks, often between 10,000 and 18,000 miles, and some owners report repeat failures even after a replacement. Replacement parts are on national backorder, with repairs sometimes taking 8 to 10 weeks — in the meantime, Tesla has offered free Supercharging and pushed emergency OTA updates as stopgaps.\n\nThe key detail is that Tesla has not filed a formal recall with the National Highway Traffic Safety Administration despite the pattern. Instead, it's replacing units case-by-case at service visits, and out-of-warranty repair costs that once ran over $7,000 have reportedly been cut to around $1,000 as a goodwill gesture.\n\nFor shareholders, the risk is that a widespread hardware defect is being handled informally rather than through a formal recall. If NHTSA opens its own probe or the failure pattern widens, it could force a larger formal recall with added cost and reputational exposure."
     }
   ]
 }
