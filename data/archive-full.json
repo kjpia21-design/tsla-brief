@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-02 12:12 UTC · 누적 523건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-02 16:07 UTC · 누적 524건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "few minutes ago",
+      "pubDate": "2026-07-02T12:30:00.000Z",
+      "title": "테슬라 2분기 인도량 <em>48만126대</em> — 컨센서스 40.6만 대폭 상회",
+      "hotShort": "테슬라 2분기 인도 <em>48만 대</em> 어닝서프라이즈",
+      "body": "테슬라가 2분기 48만126대를 인도했다고 발표 — 테슬라 IR 컨센서스(40만6,024대) 대비 18% 상회, 전년동기 대비 +25%·전분기 대비 +34% 증가한 수치다. 세제혜택 종료로 수요 둔화 우려가 컸던 가운데 나온 어닝서프라이즈로, 1분기 인도 미스 우려를 완전히 뒤집었다.",
+      "sourceName": "Tesla IR",
+      "sourceLabel": "official",
+      "slug": "stock-q2-2026-deliveries-480k-beat-2026-07-02",
+      "summary": "테슬라의 2분기 인도 발표를 앞두고 시장의 긴장감은 그 어느 때보다 컸다. 1분기 테슬라는 컨센서스(36만5,645대)에도 못 미치는 35만8,023대를 인도하며, 팔지 못한 재고를 5만 대 넘게 쌓아둔 채 분기를 마친 바 있다. 여기에 미 연방 EV 세제혜택 종료까지 겹치며 2분기 역시 부진할 것이라는 우려가 컨센서스(40만6,024대)를 짓눌렀다.\n\n실제 발표된 수치는 이런 우려를 완전히 뒤엎었다. 테슬라는 2분기 총 45만1,758대를 생산(모델3·Y 44만2,936대 + 기타 모델 8,822대)하고, 48만126대를 인도(모델3·Y 46만7,762대 + 기타 모델 1만2,364대)했다고 밝혔다. 테슬라 자체 IR 컨센서스(40만6,024대) 대비 18%, 블룸버그 자체 추산(39만6,466대) 대비로는 약 21% 웃도는 규모다.\n\n에너지 저장 배치량은 13.5GWh로, 자체 컨센서스치(13.8GWh)에는 소폭 못 미쳤지만 1분기(8.8GWh) 대비로는 약 53% 늘었다 — 로보택시·데이터센터향 수요 확대와 맞물려 에너지 사업 역시 견조한 성장을 이어가고 있음을 보여준다.\n\n인도 회복의 동력은 유럽으로 지목된다. 세제혜택 종료로 눌린 북미 수요를 유럽 시장의 뚜렷한 회복세가 상쇄했고, 중국산 저가 EV와의 경쟁 압력 속에서도 테슬라가 예상보다 훨씬 많은 물량을 소화했다는 해석이다.\n\n매출·영업이익률 등 나머지 실적 지표는 7월 22일 장 마감 후 별도 발표된다. 이번 인도 서프라이즈가 마진까지 이어질지, 아니면 인센티브 확대에 따른 물량 밀어내기였는지는 그때 가려질 전망이다.",
+      "title_en": "Tesla Q2 deliveries hit <em>480,126</em>, crushing the 406K consensus",
+      "hotShort_en": "Tesla Q2 deliveries <em>beat big</em> at 480K",
+      "body_en": "Tesla delivered 480,126 vehicles in Q2, beating its own IR consensus of 406,024 by 18% — up 25% year-over-year and 34% from Q1. The blowout print, coming despite fears that the expired federal EV tax credit would crush demand, completely reverses the narrative from Q1's delivery miss.",
+      "summary_en": "Going into Tesla's Q2 delivery report, investor nerves were running high. In Q1, Tesla delivered just 358,023 vehicles, missing its own consensus of 365,645 and ending the quarter with more than 50,000 unsold cars in inventory. With the federal EV tax credit having since expired, expectations for Q2 — a consensus of 406,024 — were already under pressure.\n\nThe actual numbers blew past that bar. Tesla said it produced 451,758 vehicles in total (442,936 Model 3/Y plus 8,822 other models) and delivered 480,126 (467,762 Model 3/Y plus 12,364 other models) — 18% above its own IR consensus of 406,024, and roughly 21% above Bloomberg's separate estimate of 396,466.\n\nEnergy storage deployments came in at 13.5 GWh, just shy of the 13.8 GWh consensus but up about 53% from Q1's 8.8 GWh — a sign the energy business keeps scaling alongside rising robotaxi- and data-center-driven demand.\n\nEurope is being credited as the swing factor: a clear rebound in European demand offset softer North American sales after the tax credit expired, even as Tesla continued facing intense pricing pressure from lower-cost Chinese EV rivals.\n\nRevenue, margins and the rest of the quarterly financials won't land until after market close on July 22. Whether this delivery beat carries through to margins — or reflects heavier incentives used to move volume — will be the next thing to watch.",
+      "href": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Tesla IR",
+        "CNBC",
+        "Electrek"
+      ],
+      "sentiment": "bull",
+      "hot": 9
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
