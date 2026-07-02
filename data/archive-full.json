@@ -1,6 +1,60 @@
 {
-  "asOf": "2026-07-02 19:40 UTC · 누적 525건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-02 21:15 UTC · 누적 527건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "33m ago",
+      "pubDate": "2026-07-02T18:59:12.000Z",
+      "title": "테슬라, 3열·6인승 SUV 모델 Y L <em>미국 정식 출시</em> — $61,990부터",
+      "hotShort": "테슬라 3열 SUV 모델 Y L <em>미국 정식 출시</em>",
+      "body": "테슬라가 3열·6인승 장축형 SUV '모델 Y L'을 미국·푸에르토리코에 정식 출시했다 — 출시 트림 '런치 시리즈' 기준 $61,990, EPA 인증 주행거리 325마일, FSD 12개월 무상 제공을 포함한다. 지난달까지 '검토 중'으로만 알려졌던 미국 출시가 실제 판매로 확정되며, 리비안 R1S 등 3열 전기 SUV 경쟁 라인업에 정면으로 맞선다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "product-model-y-l-us-launch-2026-07-02",
+      "summary": "테슬라가 2일(현지시간) 3열 좌석을 갖춘 장축형 모델 Y '모델 Y L'을 미국과 푸에르토리코 시장에 공식 출시하며 온라인 주문을 시작했다. 지난 6월 26일 중국 전용으로 판매되던 롱 휠베이스 모델 Y L의 미국 출시를 '검토 중'이라고 전해졌던 소식이 6일 만에 실제 출시로 이어진 것이다.\n\n모델 Y L은 기존 모델 Y 대비 휠베이스가 150mm(5.9인치), 전장이 180mm(7인치) 늘어나며 3열 공간을 확보했다. 좌석 구성은 비좁은 7인승 벤치 대신 2+2+2 방식의 6인승을 택해, 2열에는 열선·통풍·전동 암레스트·원터치 폴딩 기능을 갖춘 캡틴시트를, 3열에는 열선 시트와 전동 리클라이닝·카시트 고정장치를 배치했다.\n\n출시 트림은 '런치 시리즈'로, 가격은 $61,990부터 시작하며 FSD 12개월 무상 이용이 포함된다. 성능은 정지 상태에서 시속 60마일 도달까지 4.4초, EPA 인증 주행거리는 325마일이다.\n\n주주 입장에서는 2분기 인도 서프라이즈(48만126대) 직후 나온 신규 라인업 확장으로, 대형 3열 SUV 수요층을 겨냥한 매출 다각화 신호로 읽힌다. 다만 출시 초기 물량·가격대가 리비안 R1S 등 경쟁 3열 전기 SUV 대비 높게 책정된 만큼, 실제 판매 반응은 다음 분기 지역별 실적에서 확인이 필요하다.",
+      "title_en": "Tesla officially launches <em>three-row, six-seat Model Y L</em> in the US, starting at $61,990",
+      "hotShort_en": "Tesla <em>launches three-row Model Y L</em> in the US",
+      "body_en": "Tesla has officially launched the long-wheelbase, three-row, six-seat Model Y L in the US and Puerto Rico — the Launch Series trim starts at $61,990, comes with an EPA-estimated 325-mile range, and includes 12 months of FSD. The US rollout, previously reported as only 'under consideration' as recently as late June, confirms Tesla now has a direct answer to three-row EV SUV rivals like the Rivian R1S.",
+      "summary_en": "Tesla began taking orders for the three-row Model Y L in the US and Puerto Rico on July 2, official channels confirmed. As recently as June 26, reports described a US launch of the long-wheelbase Model Y L — previously sold only in China — as merely 'under consideration'; that turned into an actual launch just six days later.\n\nThe Model Y L adds 150mm (5.9 inches) to the wheelbase and 180mm (7 inches) to overall length versus the standard Model Y, opening up room for a third row. Rather than a cramped seven-seat bench, Tesla went with a 2+2+2, six-seat layout: second-row captain's chairs get heating, ventilation, powered armrests and one-touch folding, while the third row gets heated seats with power recline and child-seat anchors.\n\nThe launch trim, called 'Launch Series,' starts at $61,990 and includes 12 months of FSD. Tesla claims a 0-60 mph time of 4.4 seconds and an EPA-estimated range of 325 miles.\n\nFor shareholders, the timing is notable — the launch lands right after Tesla's Q2 delivery beat of 480,126 vehicles, reading as a revenue-diversification move targeting large-SUV demand. Initial pricing sits above rivals like the Rivian R1S, so how the market actually responds will become clearer in next quarter's regional breakdowns.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-02/tesla-says-three-row-model-y-suv-now-available-to-us-customers?srnd",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Bloomberg",
+        "Electrek",
+        "Teslarati",
+        "Forbes"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-02T18:21:00.000Z",
+      "title": "텍사스 주택 충돌사망 테슬라 운전자 <em>과실치사 혐의로 기소</em> — 테슬라는 \"수동 주행\" 반박",
+      "hotShort": "텍사스 사망사고 운전자 <em>과실치사 혐의 기소</em>",
+      "body": "지난 6월 19일 텍사스 케이티에서 자택을 덮쳐 76세 여성을 숨지게 한 테슬라 운전자 마이클 버틀러가 과실치사 혐의로 체포·기소됐다(보석금 15만 달러, 7월 6일 기소인부절차) — 버틀러는 사고 당시 '자율주행 모드'였다고 주장했지만, 테슬라 측은 그가 가속페달을 100%까지 밟아 시속 73마일로 수동 주행 중이었다며 반박했다. NHTSA·NTSB 이중 연방조사가 진행 중인 가운데 나온 형사기소로, FSD 책임론 공방의 새 국면이다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "fsd-katy-crash-driver-manslaughter-charge-2026-07-02",
+      "summary": "지난 6월 19일 텍사스 케이티(휴스턴 인근)의 한 주택가에서 발생한 테슬라 충돌 사망 사고와 관련해, 차량을 운전하던 마이클 버틀러가 과실치사 혐의로 체포됐다고 WSJ·현지 언론이 2일 보도했다. 당시 사고로 자택에 있던 76세 여성 마르타 아빌라가 숨졌다. 버틀러는 해리스 카운티 구치소에 수감됐으며 보석금은 15만 달러, 기소인부절차는 7월 6일로 예정됐다.\n\n이번 사건의 쟁점은 자율주행 시스템의 관여 여부다. 버틀러 측은 사고 당시 차량이 자율주행 모드로 주행 중이었다고 주장했으나, 테슬라는 이를 정면으로 반박했다. 테슬라 AI 담당 임원은 사고 직전 운전자가 가속페달을 100%까지 수동으로 밟아 주거지역에서 시속 73마일까지 가속했으며, 이는 자율주행 기능을 운전자가 직접 해제(오버라이드)한 결과라고 밝혔다.\n\n이 사고는 지난 6월 30일 NHTSA와 NTSB가 이례적으로 동시에 연방 조사에 착수한 바로 그 사건이다. 형사 기소는 별개의 법적 절차이지만, 사고 원인을 둘러싼 '자율주행 결함이냐 운전자 과실이냐'는 공방에서 테슬라 측 주장에 힘을 싣는 전개로 해석될 여지가 있다.\n\n주주 입장에서는 결과가 엇갈린다. 자택을 덮쳐 인명을 앗아간 사고 자체는 여전히 부정적 헤드라인이지만, 운전자에게 형사 책임이 물어지고 테슬라가 구체적 주행 데이터(가속페달 100%·시속 73마일)로 반박에 나섰다는 점은 향후 FSD 관련 소송·규제 리스크에서 테슬라에 유리한 근거로 작용할 수 있다. 다만 최종 사고 원인은 진행 중인 NHTSA·NTSB 조사와 형사 재판 과정에서 가려질 전망이다.",
+      "title_en": "Driver in fatal Texas home crash <em>charged with manslaughter</em> — Tesla disputes self-driving claim",
+      "hotShort_en": "Texas crash driver <em>charged with manslaughter</em>",
+      "body_en": "Michael Butler, the driver whose Tesla struck a Katy, Texas home on June 19 and killed 76-year-old Martha Ávila, has been arrested and charged with manslaughter (held on $150,000 bond, arraignment set for July 6). Butler claims the car was in self-driving mode, but Tesla disputes that, saying he manually floored the accelerator to 100% and hit 73 mph in a residential area — a fresh twist in the FSD liability dispute as NHTSA and NTSB run parallel federal probes.",
+      "summary_en": "Michael Butler, the driver of the Tesla involved in the fatal June 19 crash into a home in Katy, Texas, near Houston, has been arrested and charged with manslaughter, the Wall Street Journal and local outlets reported July 2. The crash killed 76-year-old Martha Ávila, who was inside the home. Butler is being held at the Harris County Jail on $150,000 bond, with arraignment scheduled for July 6.\n\nAt the center of the case is whether the self-driving system was in control. Butler has claimed the car was in self-driving mode at the time of the crash, but Tesla directly disputes that account. Tesla's head of AI said the driver manually overrode the self-driving feature by pressing the accelerator to 100%, reaching 73 mph in a residential area just before impact.\n\nThis is the same crash that prompted NHTSA and NTSB to launch a rare joint federal investigation on June 30. The criminal charge is a separate legal process, but it adds a data point — Tesla's specific driving-telemetry rebuttal — to the broader dispute over whether the crash stemmed from an FSD defect or driver conduct.\n\nFor shareholders, the news cuts both ways. A fatal crash into a home remains a grim headline regardless of cause, but a criminal charge against the driver combined with Tesla's detailed telemetry rebuttal (accelerator at 100%, 73 mph) could support the company's position in the ongoing federal investigations and any related litigation. The ultimate determination of cause will depend on how the NHTSA/NTSB probes and the criminal case play out.",
+      "href": "https://www.wsj.com/business/autos/driver-charged-with-manslaughter-after-tesla-crashed-into-texas-home-killing-woman-inside-65e17279",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "WSJ",
+        "ABC News",
+        "ABC13 Houston",
+        "Fox26 Houston"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
