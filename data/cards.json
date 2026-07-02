@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-02 12:03 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-02 14:05 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-02T01:24:00.000Z",
+      "title": "미래에셋, 스페이스X IPO 배정 논란 반박 — <em>\"주관사가 주문 접수 확인\"</em>",
+      "hotShort": "미래에셋, 스페이스X 배정 논란 <em>주관사에 반박</em>",
+      "body": "미래에셋증권이 스페이스X IPO 주식 배정 논란에서 주관사가 자사 주문 접수를 확인했다고 반박했다 — 국내 투자자 11억 4천만 달러 규모 주문이 통째로 배정에서 빠진 사고의 책임 소재를 둘러싼 공방이 한국 금융당국 조사로 번지고 있다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-mirae-spacex-ipo-dispute-2026-07-02",
+      "summary": "스페이스X는 지난달 기업공개(IPO)를 단행했는데, 골드만삭스·모건스탠리·뱅크오브아메리카·JP모건·씨티그룹 등이 이끈 23개 주관사단 가운데 한국의 미래에셋증권만 유일하게 배정 물량을 전혀 받지 못하는 이례적 사고가 발생했다.\n\n블룸버그는 지난 6월 30일 첫 보도에서, 미래에셋이 주관사 측의 초기 '투자 관심 조사' 요청을 실제 확정 주문 제출로 착각해 절차를 오해했고, 그 결과 11억 4천만 달러 규모의 국내 투자자 주문이 최종 주문장(order book)에 아예 반영되지 못했다고 전했다.\n\n미래에셋은 이 보도를 정면으로 반박했다. 7월 2일 블룸버그 보도에 따르면 미래에셋은 스페이스X IPO 관련 모든 절차를 주관사 측과 협의해 정상적으로 진행했으며, 주관사 한 곳이 자사 주문 접수 사실을 직접 확인해줬다고 주장했다 — 절차상 오해가 아니라 주관사 측 배정 과정의 문제라는 취지다.\n\n이번 사고로 미래에셋은 고객들에게 공개 사과했고, 한국 금융당국은 관련 검사 범위를 넓히고 있다.\n\n스페이스X는 IPO 이후에도 주가 급등락·공매도 베팅 급증 등 변동성이 이어지고 있는 가운데, 이번 배정 논란은 해외 우량 IPO에 접근하려는 한국 투자자들의 신뢰 문제로 번질 수 있어 주목된다.",
+      "title_en": "Mirae Disputes SpaceX IPO Snub — Says <em>Underwriter Confirmed Its Orders</em>",
+      "hotShort_en": "Mirae disputes SpaceX IPO snub, <em>blames underwriter</em>",
+      "body_en": "Mirae Asset Securities pushed back on reports it mishandled SpaceX IPO orders, saying a lead underwriter confirmed receiving its bids — a dispute over who's responsible for $1.14B in Korean investor demand missing from the final allocation, now drawing a regulatory review in South Korea.",
+      "summary_en": "SpaceX went public last month through a syndicate of 23 underwriters led by Goldman Sachs, Morgan Stanley, Bank of America, JPMorgan and Citigroup. South Korea's Mirae Asset Securities was the only one of them to receive zero share allocation, an unusual outcome that triggered scrutiny back home.\n\nBloomberg first reported on June 30 that Mirae had mistaken an early request from lead underwriters to gauge investor interest for the actual submission of binding orders, meaning $1.14 billion in Korean client demand never made it into the final order book.\n\nMirae pushed back hard on that account. In a Bloomberg report published July 2, the brokerage said it handled the entire SpaceX IPO process in coordination with the underwriters, and that a lead underwriter directly confirmed it had received Mirae's orders — implying the failure sits with the allocation process, not a Mirae miscommunication.\n\nThe episode prompted a public apology to Mirae's clients and a widened inspection by South Korean financial regulators.\n\nWith SpaceX shares still swinging sharply and short bets rising since the IPO, the allocation dispute adds a new wrinkle to how Korean investors access marquee U.S. listings — and how much they can trust their local brokers to execute on them.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-02/mirae-says-a-lead-underwriter-confirmed-its-spacex-ipo-orders",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Korea Herald"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -151,32 +176,6 @@
       "hotShort_en": "Ives starts SpaceX at <em>Buy, $190 target</em>",
       "body_en": "Wedbush's Dan Ives — Wall Street's most prominent Tesla bull — initiated coverage of SpaceX with a Buy rating and a $190 price target, using a sum-of-the-parts valuation that assigns roughly $600B to Starlink and about $1.8T to SpaceX's AI-related business. The same article notes another analyst's warning that SpaceX's volatility increasingly drags Tesla's stock along as a kind of proxy, deepening the correlation between the two names.",
       "summary_en": "Wedbush's star analyst Dan Ives initiated coverage of SpaceX on June 30 with a Buy rating and a $190 price target. Ives — who also carries a Street-high $600 price target on Tesla and is widely regarded as its most prominent bull — extending his coverage to SpaceX reinforces the market's tendency to treat the two companies as a single investment theme.\n\nIves used a sum-of-the-parts approach, valuing the launch business at roughly $66 billion, Starlink at approximately $600 billion, and SpaceX's AI-related operations at about $1.8 trillion — by far the largest single component. That weighting suggests Ives views SpaceX increasingly as an AI infrastructure company rather than primarily a space or telecom business.\n\nThe 'biggest risk' referenced in the coverage isn't valuation — it's execution and reputational risk. The report cites Elon Musk's inconsistent track record on meeting his own forecasts and timelines, along with regulatory risk from launch failures or extended FAA holds that could delay the Starship roadmap. The same coverage also flags a separate concern from another analyst: Tesla's stock is increasingly trading as a proxy for SpaceX sentiment.\n\nFor Tesla shareholders, this cuts two ways. On one hand, it provides a fresh external valuation reference point for Tesla's roughly 19-million-share SpaceX stake, which Tesla carries at fair value on its balance sheet. On the other, the fact that a sell-side analyst is now formally flagging Tesla-as-SpaceX-proxy risk suggests the correlation between the two stocks has become an explicit part of the Tesla valuation debate, not just a market observation."
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
-      "pubDate": "2026-07-01T07:58:24.000Z",
-      "title": "테슬라 6월 유럽 확정 등록 — 프랑스 <em>+655%·5,446대</em>, 노르웨이만 -43%",
-      "hotShort": "프랑스 <em>+655%·5,446대</em> — 유럽 6월 등록 반등 확인",
-      "body": "Reuters가 7월 1일 유럽 주요국 6월 테슬라 등록 확정치를 보도했다 — 프랑스 5,446대(YoY +655%), 덴마크 1,750대(+39%), 스웨덴 858대(+56%)가 급반등한 반면 노르웨이만 -43%로 역행했다. 내일(7월 2일) Q2 인도 보고서(컨센서스 406K) 전날 나온 유럽 실수요 회복 실증 데이터 — 프랑스 +655%엔 2025년 불매 역기저 효과가 있지만 절대 대수 반등도 뚜렷하다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "stock-europe-june-registrations-2026-07-01",
-      "summary": "Reuters가 7월 1일 유럽 주요국의 2026년 6월 테슬라 신규 등록 확정치를 보도했다. 핵심 수치: 프랑스 5,446대(전년 동월 대비 +655%), 덴마크 1,750대(+39%), 스웨덴 858대(+56%)로 세 시장 모두 강한 반등을 기록했다. 반면 노르웨이는 전년 대비 -43%로 유럽 회복 흐름에서 이탈했다.\n\n맥락이 중요하다. 2025년 한 해 동안 일론 머스크의 유럽 극우 정당 지지 공개 발언에 반발한 소비자 불매 운동이 유럽 전역, 특히 노르웨이·프랑스·독일을 중심으로 테슬라 판매를 크게 끌어내렸다. 프랑스 +655%라는 수치에는 그 2025년 폭락의 역기저 효과가 포함돼 있다. 그러나 2026년 1분기부터 이어진 회복세가 6월에도 지속됐다는 점 자체가 유의미하다 — 일시적 반등이 아니라 구조적 수요 복원이라는 신호다.\n\n노르웨이 -43%는 별개의 맥락이다. 노르웨이는 유럽에서 EV 보급률이 가장 높은 시장으로, 기존 보급의 기저가 높아 2024~2025년 정점 이후 자연적 수요 둔화 국면에 있다. 반머스크 정서보다는 시장 포화와 대기 수요 감소가 더 큰 요인일 수 있다.\n\n타이밍이 핵심이다. 이 수치는 테슬라의 Q2 2026 인도 보고서(7월 2일, 컨센서스 406K) 하루 전에 공개됐다. 지난 5월 유럽 등록이 전년 대비 2배 이상 증가했다는 Morgan Stanley 데이터가 추정치 상향의 근거였는데, 6월에도 이 추세가 프랑스·덴마크·스웨덴에서 이어졌다는 것이 Q2 유럽 물량의 실증적 뒷받침이다. 내일 발표가 컨센서스를 상회할 경우 유럽이 핵심 동력이었음이 확인된다.",
-      "href": "https://www.reuters.com/business/teslas-june-registrations-rise-france-sweden-denmark-europe-recovery-continues-2026-07-01/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "GuruFocus",
-        "Futunn News"
-      ],
-      "sentiment": "bull",
-      "hot": 7,
-      "title_en": "Tesla Europe June Final Registrations — France <em>+655% at 5,446 units</em>, Norway -43%",
-      "hotShort_en": "France <em>+655%, 5,446 units</em> — June Europe confirmed",
-      "body_en": "Reuters reported Europe's final June Tesla registration counts on July 1 — France at 5,446 units (+655% year-over-year), Denmark at 1,750 (+39%), and Sweden at 858 (+56%) all surged, while Norway bucked the regional trend at -43% year-over-year. These are the last country-level data points before Tesla's Q2 2026 delivery report (due July 2, consensus ~406K vehicles), providing concrete confirmation that the European demand recovery — first flagged by Morgan Stanley's May data — held through June.",
-      "summary_en": "Reuters published final June 2026 Tesla registration data for key European markets on July 1, providing the last major data point before tomorrow's Q2 delivery report. The headline numbers: France at 5,446 vehicles (+655% year-over-year), Denmark at 1,750 (+39%), and Sweden at 858 (+56%) — all three markets showing strong year-over-year rebounds. Norway was the exception, falling 43% year-over-year.\n\nThe +655% France figure requires context. Throughout 2025, Elon Musk's public support for European far-right political parties triggered a meaningful consumer backlash that hit Tesla registrations hard across the region — France was among the most affected markets. The 2026 reversal incorporates a meaningful base effect from 2025's depressed levels. However, the absolute rebound — 5,446 units in a single month — indicates real demand returning, not statistical noise from a low prior-year comparison.\n\nNorway's -43% decline reflects a different dynamic. Norway has Europe's highest EV penetration rate, having built up a very large installed base in prior years. The market is entering a natural saturation phase where replacement demand runs below peak-year registration levels. Market maturity rather than political sentiment is the more likely driver of the Norwegian shortfall.\n\nFor investors, these numbers land one day before Tesla's Q2 2026 delivery report, due on July 2. The consensus stands at approximately 406,024 vehicles. Morgan Stanley raised its Q2 estimate from 373,000 to 413,000 after May European data showed registrations more than doubling year-over-year. June's France, Denmark, and Sweden data confirm the trend held into the final month of the quarter. If tomorrow's Q2 report prints above consensus, European registrations — France in particular — will be identified as the decisive driver."
     }
   ]
 }

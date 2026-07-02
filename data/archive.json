@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-02 12:03 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-02 14:05 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-02T01:24:00.000Z",
+      "title": "미래에셋, 스페이스X IPO 배정 논란 반박 — <em>\"주관사가 주문 접수 확인\"</em>",
+      "hotShort": "미래에셋, 스페이스X 배정 논란 <em>주관사에 반박</em>",
+      "body": "미래에셋증권이 스페이스X IPO 주식 배정 논란에서 주관사가 자사 주문 접수를 확인했다고 반박했다 — 국내 투자자 11억 4천만 달러 규모 주문이 통째로 배정에서 빠진 사고의 책임 소재를 둘러싼 공방이 한국 금융당국 조사로 번지고 있다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-mirae-spacex-ipo-dispute-2026-07-02",
+      "summary": "스페이스X는 지난달 기업공개(IPO)를 단행했는데, 골드만삭스·모건스탠리·뱅크오브아메리카·JP모건·씨티그룹 등이 이끈 23개 주관사단 가운데 한국의 미래에셋증권만 유일하게 배정 물량을 전혀 받지 못하는 이례적 사고가 발생했다.\n\n블룸버그는 지난 6월 30일 첫 보도에서, 미래에셋이 주관사 측의 초기 '투자 관심 조사' 요청을 실제 확정 주문 제출로 착각해 절차를 오해했고, 그 결과 11억 4천만 달러 규모의 국내 투자자 주문이 최종 주문장(order book)에 아예 반영되지 못했다고 전했다.\n\n미래에셋은 이 보도를 정면으로 반박했다. 7월 2일 블룸버그 보도에 따르면 미래에셋은 스페이스X IPO 관련 모든 절차를 주관사 측과 협의해 정상적으로 진행했으며, 주관사 한 곳이 자사 주문 접수 사실을 직접 확인해줬다고 주장했다 — 절차상 오해가 아니라 주관사 측 배정 과정의 문제라는 취지다.\n\n이번 사고로 미래에셋은 고객들에게 공개 사과했고, 한국 금융당국은 관련 검사 범위를 넓히고 있다.\n\n스페이스X는 IPO 이후에도 주가 급등락·공매도 베팅 급증 등 변동성이 이어지고 있는 가운데, 이번 배정 논란은 해외 우량 IPO에 접근하려는 한국 투자자들의 신뢰 문제로 번질 수 있어 주목된다.",
+      "title_en": "Mirae Disputes SpaceX IPO Snub — Says <em>Underwriter Confirmed Its Orders</em>",
+      "hotShort_en": "Mirae disputes SpaceX IPO snub, <em>blames underwriter</em>",
+      "body_en": "Mirae Asset Securities pushed back on reports it mishandled SpaceX IPO orders, saying a lead underwriter confirmed receiving its bids — a dispute over who's responsible for $1.14B in Korean investor demand missing from the final allocation, now drawing a regulatory review in South Korea.",
+      "summary_en": "SpaceX went public last month through a syndicate of 23 underwriters led by Goldman Sachs, Morgan Stanley, Bank of America, JPMorgan and Citigroup. South Korea's Mirae Asset Securities was the only one of them to receive zero share allocation, an unusual outcome that triggered scrutiny back home.\n\nBloomberg first reported on June 30 that Mirae had mistaken an early request from lead underwriters to gauge investor interest for the actual submission of binding orders, meaning $1.14 billion in Korean client demand never made it into the final order book.\n\nMirae pushed back hard on that account. In a Bloomberg report published July 2, the brokerage said it handled the entire SpaceX IPO process in coordination with the underwriters, and that a lead underwriter directly confirmed it had received Mirae's orders — implying the failure sits with the allocation process, not a Mirae miscommunication.\n\nThe episode prompted a public apology to Mirae's clients and a widened inspection by South Korean financial regulators.\n\nWith SpaceX shares still swinging sharply and short bets rising since the IPO, the allocation dispute adds a new wrinkle to how Korean investors access marquee U.S. listings — and how much they can trust their local brokers to execute on them.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-02/mirae-says-a-lead-underwriter-confirmed-its-spacex-ipo-orders",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Korea Herald"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -2239,26 +2264,6 @@
       "body_en": "Drone tracker Joe Tegtmeyer captured 10 Cybercabs driving in a large pack on the Giga Texas test track — a signal that Tesla has moved beyond single-vehicle testing to validating multi-vehicle coordinated movement, a fleet-level capability essential for commercial robotaxi deployment.",
       "summary_en": "Joe Tegtmeyer, who regularly covers Giga Texas activity via drone footage, shared on X a sighting of 10 Tesla Cybercabs running together in a pack formation on the facility's test track. The observation marks a visible step beyond individual vehicle testing to group-coordination validation.\n\nFor a commercial robotaxi service, multi-vehicle coordination is a practical requirement. When Cybercabs need to reposition from a depot to pickup zones, maintain safe following distances under automated dispatch, or move as a group in response to fleet-level routing commands, the vehicles must operate cohesively rather than in isolation. Testing 10 units simultaneously in pack formation suggests Tesla is stress-testing exactly that capability at Giga Texas.\n\nThe observation follows Tegtmeyer's June 19 report, in which he documented Cybercabs accumulating in the delivery lot and noted the dedicated Cybercab test track appeared nearly complete. The June 22 pack-run footage — arriving just three days later — shows the test track reached operational status and was put to use quickly.\n\nThis is a single-source, external observation and has not been confirmed by Tesla. No information about Cybercab commercial launch timing or production volumes was included in the post. The sighting lands on the first anniversary of Tesla's Robotaxi service launch, and adds to a string of recent Giga Texas activity reports pointing toward Cybercab deployment preparation moving forward.",
       "href": "https://x.com/JoeTegtmeyer/status/2069072518514667935",
-      "sentiment": "bull",
-      "hot": 7
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12m ago",
-      "pubDate": "2026-06-22T14:18:51.000Z",
-      "title": "테슬라, 'MEGAPOD' USPTO 상표 출원 — <em>AI·컴퓨팅 스토리지</em> 신제품 예고",
-      "hotShort": "테슬라 'MEGAPOD' 상표 — <em>AI 컴퓨팅</em> 신제품 예고",
-      "body": "Teslarati에 따르면 테슬라가 미국 특허상표청(USPTO)에 'MEGAPOD' 상표를 출원했다 — AI 및 컴퓨팅 스토리지 수요에 집중하고 있다는 신호로, 'MEGA' 접두사가 메가팩을 연상시켜 대규모 AI 인프라 또는 에너지 스토리지 신제품 라인의 이름이 될 가능성을 열었다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-tesla-megapod-trademark-2026-06-22",
-      "summary": "Teslarati 보도에 따르면 테슬라가 미국 특허상표청(USPTO)에 'MEGAPOD'라는 새 상표를 출원했다. 테슬라의 AI 노력 및 컴퓨팅 스토리지 수요 집중의 연장선으로 풀이된다.\n\n'MEGA' 접두사는 테슬라의 대형 에너지 저장 제품인 메가팩(Megapack)을 떠올리게 한다. 여기에 'POD(모듈 단위)'가 결합된 'MEGAPOD'는 대규모 AI 컴퓨팅 클러스터, FSD·옵티머스 학습용 컴퓨팅 파드, 또는 차세대 에너지 스토리지 모듈 등 다양한 가능성을 열어 두고 있다.\n\n테슬라는 자체 도조(Dojo) 슈퍼컴퓨터를 포함해 AI 학습 인프라를 지속 확장해왔다. MEGAPOD가 AI 컴퓨팅 인프라 브랜드로 구체화될 경우, 테슬라의 데이터센터 역량이 외부 서비스로 확장되거나 독자 AI 인프라 사업 라인이 더해지는 시나리오도 가능하다. 상표 출원 단계라 최종 제품화는 미정이나, 테슬라의 AI·에너지 사업 방향성을 가늠하는 의미 있는 신호다.",
-      "title_en": "Tesla files 'MEGAPOD' trademark at USPTO — a hint at its <em>AI and computing storage</em> ambitions",
-      "hotShort_en": "Tesla's 'MEGAPOD' trademark — an <em>AI compute</em> product preview",
-      "body_en": "Tesla has filed a trademark for 'MEGAPOD' with the United States Patent and Trademark Office (USPTO), according to Teslarati — a move the outlet reads as a sign of Tesla's intensifying focus on AI and computing storage needs, with the 'MEGA' prefix echoing the Megapack and raising the prospect of a new large-scale AI infrastructure or energy storage product line.",
-      "summary_en": "Teslarati reports that Tesla has filed a new trademark for the name 'MEGAPOD' with the USPTO. The outlet interprets the move as connected to Tesla's focus on AI and computing storage needs — suggesting the company is preparing branding for a product in that space.\n\nThe 'MEGA' prefix directly echoes Tesla's existing 'Megapack' branding for its utility-scale energy storage system, while 'POD' implies a modular, self-contained unit. That combination could point toward a large-scale AI computing cluster, a compute pod for FSD or Optimus training workloads, or a next-generation energy storage module — or some combination of the above.\n\nTesla has been steadily scaling its Dojo supercomputer and AI training infrastructure as the computational demands of FSD and Optimus continue to grow. A 'MEGAPOD' product in the AI compute space could represent either an internal infrastructure build-out or — more ambitiously — a branded offering that gives Tesla's data center capabilities an external identity.\n\nA USPTO trademark filing is an early-stage signal, not a confirmed product launch. Tesla's trademark history has often been a reliable preview of where the company is headed, but timelines remain unknown. Investors should watch for further detail on whether MEGAPOD lands in the energy, compute, or combined infrastructure category.",
-      "href": "https://www.teslarati.com/tesla-just-trademarked-megapod-heres-what-it-is/",
       "sentiment": "bull",
       "hot": 7
     }
