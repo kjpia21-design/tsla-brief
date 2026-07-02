@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-02 09:23 UTC · 누적 521건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-02 12:12 UTC · 누적 523건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-02T07:42:13.000Z",
+      "title": "NHTSA, 695K대 테슬라 <em>팬텀 브레이킹 조사</em> 4년 만에 종결",
+      "hotShort": "NHTSA, 테슬라 <em>팬텀 브레이킹 조사</em> 종결",
+      "body": "미 도로교통안전국(NHTSA)이 2022년 개시한 모델3·모델Y 약 695,000대 대상 '팬텀 브레이킹'(불필요한 자동제동) 예비조사를 4년 만에 추가 조치 없이 종결했다 — 신고 건수가 최근 뚜렷이 줄고 충돌·차선이탈로 이어진 사례가 확인되지 않은 점이 근거로, 로보택시 확장을 앞둔 FSD·오토파일럿 신뢰도에 긍정적인 규제 신호다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "sec",
+      "slug": "product-nhtsa-phantom-braking-probe-closed-2026-07-02",
+      "summary": "NHTSA 결함조사국(ODI)은 2022년 모델3·모델Y 차주들의 '팬텀 브레이킹' 신고를 접수한 뒤 예비평가(PE22002)를 개시했다. 오토파일럿·FSD·교통인지 크루즈컨트롤이 전방 상황을 오인식해 불필요하게 감속·정지하는 현상으로, 고속 주행 중 시속 10~20마일가량 갑작스러운 속도 저하가 1~3초간 발생하는 형태로 보고됐다.\n\n4년간 이어진 조사에서 NHTSA는 신고 건수가 뚜렷한 감소 추세를 보였다고 밝혔다 — 테슬라가 2021년 중반 레이더-비전 융합 방식에서 순수 비전(카메라) 기반으로 인식 체계를 전환한 시점과 신고 감소 추세가 맞물린다는 점도 확인했다. 조사 과정에서 차선이탈이나 충돌로 이어진 패턴은 발견되지 않았다.\n\n이번 종결로 NHTSA는 별도의 리콜이나 강제 조치를 요구하지 않았다. 다만 예비평가 종결이 곧 '결함 없음'을 의미하는 것은 아니며, 새로운 신고가 누적되면 조사를 재개할 수 있다고 덧붙였다.\n\n주주 입장에서는 4년간 미결로 남아 있던 안전 규제 리스크 하나가 해소됐다는 의미가 크다. 로보택시·FSD 확장을 성장 축으로 내세운 테슬라에게 오토파일럿 관련 연방 조사의 종결은 규제·평판 부담을 덜어주는 소식이다.",
+      "title_en": "NHTSA closes four-year <em>phantom braking probe</em> into 695K Teslas",
+      "hotShort_en": "NHTSA closes Tesla <em>phantom braking</em> probe",
+      "body_en": "The U.S. National Highway Traffic Safety Administration has closed a four-year preliminary evaluation into roughly 695,000 Tesla Model 3 and Model Y vehicles over 'phantom braking' — unnecessary automatic braking — without ordering further action, citing a sharp decline in complaints and no pattern of collisions or lane departures. It's a positive regulatory signal for Autopilot/FSD credibility as Tesla pushes to scale Robotaxi.",
+      "summary_en": "NHTSA's Office of Defects Investigation opened Preliminary Evaluation PE22002 in 2022 after Model 3 and Model Y owners reported 'phantom braking' — Autopilot, FSD, and Traffic-Aware Cruise Control misreading the road ahead and commanding an unnecessary stop, typically a 10-20 mph speed reduction over 1-3 seconds at highway speed.\n\nOver the four-year investigation, NHTSA found a marked decline in complaint volume, which it noted coincided with Tesla's mid-2021 shift from radar-vision fusion to a pure vision (camera-only) perception stack. Investigators found no pattern linking the incidents to lane departures or collisions.\n\nNHTSA closed the case without requiring a recall or further enforcement action. The agency noted, however, that closing a preliminary evaluation doesn't mean no defect exists — it can reopen the matter if new complaints warrant it.\n\nFor shareholders, resolving a four-year-old federal safety probe removes a lingering regulatory overhang tied directly to Autopilot and FSD — the same systems underpinning Tesla's Robotaxi growth story. It's a modest but clean positive as the company pushes toward wider autonomous deployment.",
+      "href": "https://www.reuters.com/legal/litigation/us-closes-2022-probe-into-695000-tesla-vehicles-over-unexpected-braking-2026-07-02/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "NHTSA"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -25,6 +50,31 @@
       ],
       "sentiment": "neutral",
       "hot": 3
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "6h ago",
+      "pubDate": "2026-07-01T22:00:00.000Z",
+      "title": "일론 머스크, 프리몬트 <em>모델S·X 라인서 옵티머스 생산</em> 확인",
+      "hotShort": "머스크, 프리몬트서 <em>옵티머스 생산라인</em> 가동 확인",
+      "body": "일론 머스크가 7월 1일 X에 프리몬트 공장 옵티머스 생산라인을 직접 둘러보는 사진을 올리며, 5월 초 단종된 모델S·모델X 조립라인이 옵티머스 생산라인으로 전환돼 가동 중임을 확인했다 — 앞서 1분기 실적발표에서 예고한 '7월 말~8월 생산 개시' 일정이 차질 없이 진행되고 있다는 신호로, 로보택시와 함께 꼽히는 옵티머스 상업화 시계가 착실히 돌아가고 있음을 보여준다.",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "product-optimus-fremont-model-sx-line-2026-07-01",
+      "summary": "일론 머스크가 7월 1일 자신의 X 계정에 프리몬트 공장 옵티머스 생산라인 현장을 둘러보는 사진을 올리며 '프리몬트 옵티머스 생산라인을 걷는 중'이라고 밝혔다. 이는 지난 5월 초 마지막 모델S·모델X가 생산라인을 떠난 지 약 두 달 만에, 해당 조립라인이 옵티머스 생산라인으로 전환돼 실제 가동에 들어갔음을 테슬라 측이 처음으로 직접 확인한 사례다.\n\n이 전환은 앞서 1분기 실적발표에서 머스크가 예고한 일정과 맞닿아 있다 — 당시 그는 옵티머스 생산이 프리몬트에서 '7월 말이나 8월'에 시작될 것이라고 밝힌 바 있다. 다만 초기 생산 속도에 대해서는 옵티머스가 완전히 새로운 생산라인에 걸쳐 부품 1만여 개로 구성돼 있어 '올해 생산 속도를 예측하는 것은 사실상 불가능하다'며 초반에는 '상당히 느릴 것'이라고 신중한 태도를 유지했다.\n\n테슬라 부사장 라스 모라비는 이 생산라인이 옵티머스의 하드웨어가 계속 진화하더라도 매번 대규모 개편 없이 적응할 수 있도록 설계된 모듈형 시스템이라고 설명한 바 있다.\n\n주주 입장에서 이번 확인은 로보택시와 함께 테슬라의 차세대 성장축으로 꼽히는 옵티머스 상업화가 예고된 일정대로 진행되고 있다는 근거다. 다만 초기 생산 속도는 여전히 불확실하며, 본격적인 양산 규모와 시점은 향후 발표를 지켜봐야 한다.",
+      "title_en": "Musk confirms <em>Optimus now in production</em> on Fremont's former Model S/X line",
+      "hotShort_en": "Musk confirms <em>Optimus production</em> at Fremont",
+      "body_en": "Elon Musk posted a photo on X on July 1 touring Tesla's Optimus production line in Fremont, confirming the former Model S/X assembly line — which stopped building those cars in early May — has been converted and is now running Optimus. It's the first direct confirmation that the 'late July or August' production start Musk flagged on the Q1 earnings call is on track, a positive signal for Tesla's Optimus commercialization timeline alongside Robotaxi.",
+      "summary_en": "Elon Musk shared a photo on his X account on July 1 of himself touring Tesla's Optimus production line at the Fremont factory, writing that he was 'walking the Optimus production line in Fremont.' It marks the first direct confirmation from Tesla that the former Model S/X assembly area — which built its last units in early May — has been converted into an active Optimus production line roughly two months later.\n\nThe timing lines up with what Musk previewed on Tesla's Q1 2026 earnings call, when he said Optimus production at Fremont would begin 'late July or August.' On initial output, he remained cautious, saying it was 'literally impossible to predict' this year's production rate given Optimus spans an entirely new line with roughly 10,000 unique parts, and that early volume would be 'quite slow.'\n\nTesla VP Lars Moravy has separately described the line as a modular system built to adapt as Optimus' hardware design evolves, without requiring a full retooling each time.\n\nFor shareholders, the confirmation is evidence that Optimus commercialization — often cited alongside Robotaxi as Tesla's next growth leg — is tracking to its stated timeline. Initial production volume and the pace of ramp-up remain uncertain and will depend on upcoming updates.",
+      "href": "https://x.com/elonmusk/status/2072214077372518657",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Elon Musk (X)",
+        "Benzinga"
+      ],
+      "sentiment": "bull",
+      "hot": 6
     },
     {
       "category": "stock",
