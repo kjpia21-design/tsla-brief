@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-02 04:03 UTC · 누적 520건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-02 09:23 UTC · 누적 521건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-02T01:24:00.000Z",
+      "title": "미래에셋, 스페이스X IPO 배정 논란 반박 — <em>\"주관사가 주문 접수 확인\"</em>",
+      "hotShort": "미래에셋, 스페이스X 배정 논란 <em>주관사에 반박</em>",
+      "body": "미래에셋증권이 스페이스X IPO 주식 배정 논란에서 주관사가 자사 주문 접수를 확인했다고 반박했다 — 국내 투자자 11억 4천만 달러 규모 주문이 통째로 배정에서 빠진 사고의 책임 소재를 둘러싼 공방이 한국 금융당국 조사로 번지고 있다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-mirae-spacex-ipo-dispute-2026-07-02",
+      "summary": "스페이스X는 지난달 기업공개(IPO)를 단행했는데, 골드만삭스·모건스탠리·뱅크오브아메리카·JP모건·씨티그룹 등이 이끈 23개 주관사단 가운데 한국의 미래에셋증권만 유일하게 배정 물량을 전혀 받지 못하는 이례적 사고가 발생했다.\n\n블룸버그는 지난 6월 30일 첫 보도에서, 미래에셋이 주관사 측의 초기 '투자 관심 조사' 요청을 실제 확정 주문 제출로 착각해 절차를 오해했고, 그 결과 11억 4천만 달러 규모의 국내 투자자 주문이 최종 주문장(order book)에 아예 반영되지 못했다고 전했다.\n\n미래에셋은 이 보도를 정면으로 반박했다. 7월 2일 블룸버그 보도에 따르면 미래에셋은 스페이스X IPO 관련 모든 절차를 주관사 측과 협의해 정상적으로 진행했으며, 주관사 한 곳이 자사 주문 접수 사실을 직접 확인해줬다고 주장했다 — 절차상 오해가 아니라 주관사 측 배정 과정의 문제라는 취지다.\n\n이번 사고로 미래에셋은 고객들에게 공개 사과했고, 한국 금융당국은 관련 검사 범위를 넓히고 있다.\n\n스페이스X는 IPO 이후에도 주가 급등락·공매도 베팅 급증 등 변동성이 이어지고 있는 가운데, 이번 배정 논란은 해외 우량 IPO에 접근하려는 한국 투자자들의 신뢰 문제로 번질 수 있어 주목된다.",
+      "title_en": "Mirae Disputes SpaceX IPO Snub — Says <em>Underwriter Confirmed Its Orders</em>",
+      "hotShort_en": "Mirae disputes SpaceX IPO snub, <em>blames underwriter</em>",
+      "body_en": "Mirae Asset Securities pushed back on reports it mishandled SpaceX IPO orders, saying a lead underwriter confirmed receiving its bids — a dispute over who's responsible for $1.14B in Korean investor demand missing from the final allocation, now drawing a regulatory review in South Korea.",
+      "summary_en": "SpaceX went public last month through a syndicate of 23 underwriters led by Goldman Sachs, Morgan Stanley, Bank of America, JPMorgan and Citigroup. South Korea's Mirae Asset Securities was the only one of them to receive zero share allocation, an unusual outcome that triggered scrutiny back home.\n\nBloomberg first reported on June 30 that Mirae had mistaken an early request from lead underwriters to gauge investor interest for the actual submission of binding orders, meaning $1.14 billion in Korean client demand never made it into the final order book.\n\nMirae pushed back hard on that account. In a Bloomberg report published July 2, the brokerage said it handled the entire SpaceX IPO process in coordination with the underwriters, and that a lead underwriter directly confirmed it had received Mirae's orders — implying the failure sits with the allocation process, not a Mirae miscommunication.\n\nThe episode prompted a public apology to Mirae's clients and a widened inspection by South Korean financial regulators.\n\nWith SpaceX shares still swinging sharply and short bets rising since the IPO, the allocation dispute adds a new wrinkle to how Korean investors access marquee U.S. listings — and how much they can trust their local brokers to execute on them.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-02/mirae-says-a-lead-underwriter-confirmed-its-spacex-ipo-orders",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Korea Herald"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
