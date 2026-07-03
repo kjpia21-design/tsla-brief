@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-03 21:43 UTC · 누적 529건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-03 23:11 UTC · 누적 529건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "fsd",
@@ -18,9 +18,10 @@
       "body_en": "Tesla has extended its Robotaxi service area to Miami, Florida, publishing a geofence that covers only a small slice of the metro — roughly 10-14 square miles across western and central Miami (mostly West Miami, stretching toward Doral and Sweetwater) and including Miami International Airport. Florida becomes the third state to get Robotaxi, after Texas (Austin, Dallas, Houston) and California (the Bay Area). But with even Austin still boxed into a tight geofence, the real question is less about adding cities than whether Tesla can actually scale coverage within them.",
       "summary_en": "Tesla has expanded its driverless Robotaxi service to Miami, Florida. Since first launching in Austin last summer, Florida becomes the third state Tesla has brought Robotaxi to, after Texas and California — evidence the network's geographic footprint keeps widening.\n\nThe Miami geofence Electrek published covers only a fraction of the metro — mostly the West Miami area with a strip reaching toward Doral and Sweetwater, spanning an estimated 10-14 square miles and including Miami International Airport (MIA). Major arteries such as the Palmetto Expressway (SR 826) and Tamiami Trail (US 41) fall within the coverage area.\n\nThe crux of this expansion is depth, not breadth. Tesla has rolled Robotaxi out across Texas cities — Austin, Dallas, Houston — and the Bay Area, yet each city's actual operating zone remains locked into a narrow geofence. Electrek framed the Miami move as adding another city to the map while Tesla still hasn't scaled Texas, arguing the real challenge is meaningfully enlarging each geofence rather than piling up city count.\n\nFor shareholders, it's a signal about the trajectory of the Robotaxi story. Entering a new state like Florida is a positive milestone for autonomy commercialization, but the small initial geofence also underscores that the service is still closer to a pilot phase. The real commercial payoff will show up in how fast the geofences grow, how quickly regulators sign off, and how far driverless operation expands.",
       "href": "https://electrek.co/2026/07/03/tesla-robotaxi-miami-service-area-map/",
-      "confirmedBy": 2,
+      "confirmedBy": 3,
       "confirmingSources": [
         "Electrek",
+        "Reuters",
         "Teslarati"
       ],
       "sentiment": "neutral",
