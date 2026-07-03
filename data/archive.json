@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-03 23:20 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-04 04:40 KST 자동 갱신 · 최신순",
   "items": [
     {
       "category": "fsd",
@@ -25,6 +25,31 @@
       ],
       "sentiment": "neutral",
       "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "19h ago",
+      "pubDate": "2026-07-03T00:34:03.000Z",
+      "title": "테슬라, 직원 AI 지출 <em>주 $200 상한</em> — 머스크의 Grok만 예외",
+      "hotShort": "테슬라, 직원 AI 지출 <em>주 $200 상한</em>",
+      "body": "테슬라가 7월 6일부터 직원 1인당 AI 사용 지출을 주 $200로 제한한다고 내부 메모(The Information 보도)로 알려졌다 — 단, 머스크가 이끄는 xAI의 제품(Grok 챗봇·Composer 코딩툴 베타)은 집계에서 빠진다. 일부 엔지니어가 주당 '수천 달러'어치 토큰을 쓰던 상황을 감안한 비용 통제이지만, 머스크 본인 회사 제품만 예외로 둔 점이 이해상충 논란을 부른다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "musk-tesla-ai-spend-cap-grok-2026-07-03",
+      "summary": "최근 몇 달간 테슬라는 사내 AI 활용을 오히려 적극 장려하며, 흩어져 있던 직원들의 AI 사용을 승인된 모델·보안정책 중심의 전사 체계로 모으는 작업을 해왔다. 그 과정에서 일부 소프트웨어 엔지니어가 주당 '수천 달러'어치의 토큰을 소비했다는 사실이 The Information 취재로 드러났고, 이번 지출 상한은 그에 대한 반작용으로 읽힌다.\n\n내부 메모에 따르면 테슬라는 7월 6일부터 직원 1인당 AI 사용 지출을 주 $200로 제한한다. 이 한도를 넘기려면 별도 승인을 받아야 한다.\n\n눈에 띄는 대목은 예외 조항이다. 상한 집계에서 xAI 제품의 베타 버전 — Grok 챗봇과 Composer 코딩툴 — 은 빠진다. xAI는 머스크가 이끄는 별도 AI 기업으로, 테슬라 CEO 본인의 회사 제품만 사실상 상한 없이 쓸 수 있게 된 셈이어서 이해상충 논란이 뒤따른다. 더욱이 Electrek은 정작 사내에서 Grok의 인기가 높지 않고 다수 직원이 Anthropic의 Claude를 선호한다고 전했다.\n\n주주 관점에서 이번 조치 자체는 규모가 크지 않은 내부 비용 통제다. 다만 AI·자율주행에 막대한 투자를 이어가는 테슬라가 운영 비용 규율에 나섰다는 신호이자, 머스크가 이끄는 여러 회사(테슬라·xAI)의 이해관계가 사내 정책에까지 얽히는 방식을 보여주는 사례라는 점에서 눈여겨볼 만하다.",
+      "title_en": "Tesla caps employee AI spending at <em>$200/week</em> — except Musk's Grok",
+      "hotShort_en": "Tesla caps AI spend at <em>$200/week</em>, Grok exempt",
+      "body_en": "Tesla will limit employee AI spending to $200 per week starting July 6, according to an internal memo reported by The Information — but the cap excludes beta versions of xAI's products (the Grok chatbot and Composer coding tool), the AI firm also run by Elon Musk. It's a cost-control move after some engineers were reportedly burning through 'thousands of dollars' of tokens a week, yet exempting only Musk's own company's tools raises conflict-of-interest questions.",
+      "summary_en": "In recent months Tesla had actually been pushing employees to use AI more, working to consolidate scattered usage onto a companywide framework of approved models and formal security policies. Along the way, The Information reported, some software engineers were consuming 'thousands of dollars' worth of tokens each week — and this spending cap reads as the counter-reaction.\n\nPer the internal memo, Tesla will limit each employee's AI spending to $200 per week starting July 6. Going above that threshold requires separate sign-off.\n\nThe notable part is the carve-out: the tally excludes beta versions of xAI's products — the Grok chatbot and the Composer coding tool. xAI is the separate AI company led by Musk, so in effect only the Tesla CEO's own company's tools get uncapped use, inviting conflict-of-interest scrutiny. Adding to the irony, Electrek reported that Grok isn't especially popular internally and that many staff prefer Anthropic's Claude.\n\nFor shareholders, the move itself is a modest internal cost measure. But it's worth noting on two counts: as a signal that a company pouring capital into AI and autonomy is tightening operational spending discipline, and as an example of how the interlocking interests of Musk's various companies (Tesla, xAI) reach into internal policy.",
+      "href": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "The Information",
+        "Electrek"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
     },
     {
       "category": "product",
@@ -2274,26 +2299,6 @@
       "href": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "57m ago",
-      "pubDate": "2026-06-22T21:33:47.000Z",
-      "title": "드론 실사 — 기가 텍사스 <em>옵티머스 공장 3개월 공사 진척</em> 공개",
-      "hotShort": "기가텍사스 옵티머스 공장 <em>3개월 공사 현황</em> 공개",
-      "body": "테슬라 공장 전문 드론 취재가 조 테그트마이어(@JoeTegtmeyer)가 기가 텍사스 옵티머스 전용 공장을 3개월 전과 비교 촬영해 공개 — 공사 속도가 기대 이상임을 확인. 연간 최대 1,000만 대 생산을 목표로 착공된 이 공장은 테슬라 로봇 사업의 핵심 인프라로, 옵티머스 상용화 타임라인을 가늠하는 지표다.",
-      "sourceName": "Joe Tegtmeyer (X)",
-      "sourceLabel": "press",
-      "slug": "product-optimus-factory-giga-texas-3month-progress-2026-06-22",
-      "summary": "기가 텍사스 캠퍼스 내 옵티머스 전용 공장 구역이 불과 3개월 만에 눈에 띄게 증축된 모습이 드론 영상으로 포착됐다. 테슬라 공장 건설을 지속적으로 기록해온 조 테그트마이어는 테슬라·SpaceX 관련 현장 취재로 팔로워 수십만 명을 보유한 신뢰도 높은 현장 정보원이다.\n\n이 공장의 목표 생산 능력은 연간 최대 1,000만 대다. 일론 머스크는 옵티머스 로봇이 장기적으로 테슬라 사업가치의 상당 부분을 차지하게 될 것이라고 반복 강조해왔으며, 전용 공장 건설 진척은 그 스케일 목표를 향한 첫 번째 물리적 증거다.\n\n현재 옵티머스는 기가 텍사스 내 조립 공정에 시범 투입돼 있다. 전용 공장이 완공되면 내부 운용을 넘어 본격 양산이 가능해지며, 이는 옵티머스 상용화 타임라인의 핵심 마일스톤이 된다.\n\n공장 건설 진척 속도는 테슬라가 로봇 생산 약속을 실제 일정으로 실현할 능력을 갖추고 있음을 보여준다는 점에서 주주들에게 긍정적 신호로 해석된다.",
-      "title_en": "Drone footage reveals <em>3-month Optimus factory build progress</em> at Giga Texas",
-      "hotShort_en": "Giga TX <em>Optimus factory</em> — 3-month drone update",
-      "body_en": "Drone operator Joe Tegtmeyer has published a 3-month comparative aerial update on Tesla's Optimus humanoid robot factory at Giga Texas, showing rapid structural progress. The facility is targeting eventual annual production of ~10 million units — making its build pace a key leading indicator of Tesla's robotics ambitions.",
-      "summary_en": "The Optimus factory at Giga Texas has made visible structural strides in three months, as documented by Joe Tegtmeyer — a drone operator with hundreds of thousands of followers built on consistent aerial coverage of Tesla and SpaceX facilities. The footage provides one of the most reliable non-official windows into Tesla's on-the-ground manufacturing progress.\n\nElon Musk has set a long-term production target of up to 10 million Optimus units annually at the facility, repeatedly positioning Optimus as a potentially transformative revenue driver — one that could eventually exceed the car business in scale. The factory's build rate is therefore a meaningful leading indicator for that thesis.\n\nTesla is already deploying Optimus in limited operational roles within Giga Texas itself. The dedicated factory represents the infrastructure step needed to move beyond internal trials and into commercial production volumes at the scale Musk has described.\n\nRapid build progress is a positive signal for shareholders tracking Tesla's robotics timeline, offering concrete evidence that Tesla is investing in manufacturing capacity to back its production targets.",
-      "href": "https://x.com/JoeTegtmeyer/status/2069172017736171544",
-      "sentiment": "bull",
-      "hot": 5
     }
   ]
 }
