@@ -1,11 +1,37 @@
 {
-  "asOf": "2026-07-03 17:39 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-03 19:38 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "17m ago",
+      "pubDate": "2026-07-03T19:20:44.000Z",
+      "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
+      "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/texas-man-charged-in-fatal-tesla-crash-where-he-blamed-autopilot/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "17m ago",
+      "pubDate": "2026-07-03T19:20:39.000Z",
+      "title": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise",
+      "body": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-strong-q2-deliveries-four-key-drivers-behind-the-surprise/"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-03T15:23:08.000Z",
+      "time": "1h ago",
+      "pubDate": "2026-07-03T18:23:32.000Z",
       "title": "Elon Musk outlines Tesla Optimus production expectations",
       "body": "Elon Musk outlines Tesla Optimus production expectations Teslarati",
       "sourceName": "Teslarati",
@@ -15,22 +41,9 @@
       "href": "https://www.teslarati.com/elon-musk-outlines-tesla-optimus-production-expectations/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-03T15:09:12.000Z",
-      "title": "Space startup Katalyst launches orbital rescue mission for aging NASA observatory",
-      "body": "Space startup Katalyst launches orbital rescue mission for aging NASA observatory Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/aerospace-defense/space-startup-katalyst-launches-orbital-rescue-mission-aging-nasa-observatory-2026-07-03/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-03T14:59:44.000Z",
       "title": "Tesla rolls out robotaxi service in Miami",
       "body": "Tesla rolls out robotaxi service in Miami Reuters",
@@ -43,7 +56,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-03T14:59:38.000Z",
       "title": "Tesla Semi involved in first known fatal crash in Nevada",
       "body": "A Tesla Semi was involved in a fatal collision on U.S. Highway 50 in Dayton, Nevada, on Sunday, June 28, 2026, marking the first known fatal crash involving the electric Class 8 truck. The incident occurred around 7:20 a…",
@@ -56,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-03T14:16:40.000Z",
       "title": "Test-time compute is actually more important than train-time. More efficient test-time compute means you could do mor…",
       "body": "Test-time compute is actually more important than train-time. More efficient test-time compute means you could do more in-depth evaluations closer to real conditions instead of first-order approximations, with more check…",
@@ -67,49 +80,10 @@
       "href": "https://x.com/yunta_tsai/status/2073048281404600372"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-03T14:09:58.000Z",
-      "title": "How an AI Bust Could Ripple Through The Global Economy",
-      "body": "How an AI Bust Could Ripple Through The Global Economy WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/tech/ai/how-an-ai-bust-could-ripple-through-the-global-economy-40163f9c"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-07-03T14:02:11.000Z",
-      "title": "Tesla maps a tiny Robotaxi zone in Miami while it still can’t scale Texas",
-      "body": "Tesla has mapped out a Robotaxi service area in Miami, publishing a geofence that covers only a small slice of the metro — mostly West Miami and a strip stretching toward Doral and Sweetwater. It’s the latest city Tesla …",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/07/03/tesla-robotaxi-miami-service-area-map/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-07-03T14:01:35.000Z",
-      "title": "Print Edition | Wall Street Journal",
-      "body": "Print Edition | Wall Street Journal WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/print-edition/20260703/frontpage"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-07-03T12:58:38.000Z",
+      "time": "7h ago",
+      "pubDate": "2026-07-03T12:36:00.000Z",
       "title": "Tesla Teases Some ‘Cool News’ —the Stock Needs It",
       "body": "Tesla Teases Some ‘Cool News’ —the Stock Needs It Barron's",
       "sourceName": "Barron's",
@@ -121,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-03T11:06:31.000Z",
       "title": "Europe’s dilemma over Chinese car plants",
       "body": "Europe’s dilemma over Chinese car plants Financial Times",
@@ -134,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-03T11:06:31.000Z",
       "title": "Europe’s dilemma over Chinese car plants",
       "body": "Europe’s dilemma over Chinese car plants Financial Times",
@@ -147,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-03T11:00:01.000Z",
       "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
       "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
@@ -160,33 +134,20 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
-      "pubDate": "2026-07-03T09:14:46.000Z",
-      "title": "While AI may seem revolutionary today, my dad recalled the magical moment when he first saw a microwave in the US. At…",
-      "body": "While AI may seem revolutionary today, my dad recalled the magical moment when he first saw a microwave in the US. At that time, General Electric made the best home appliances, from the living room to the kitchen. Coming…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2072972307539100137"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-07-03T07:01:05.000Z",
-      "title": "Artificial Intelligence",
-      "body": "Artificial Intelligence - Page 9 The New York Times",
-      "sourceName": "The New York Times",
+      "time": "9h ago",
+      "pubDate": "2026-07-03T11:00:01.000Z",
+      "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
+      "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.nytimes.com/spotlight/artificial-intelligence?page"
+      "href": "https://www.cnbc.com/2026/07/03/the-tech-download-amazon-devices-chief-panos-panay.html"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-03T05:27:00.000Z",
       "title": "Chinese robot maker Unitree wins approval for $619 million Shanghai IPO",
       "body": "Chinese robot maker Unitree wins approval for $619 million Shanghai IPO Reuters",
@@ -199,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-03T02:06:16.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -210,9 +171,22 @@
       "href": "https://www.bloomberg.com/profile/person/25531088"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "19h ago",
+      "pubDate": "2026-07-03T00:34:03.000Z",
+      "title": "Tesla caps employee AI spending at $200/week except for Grok",
+      "body": "Tesla told staff it will impose a $200-per-week limit on employee AI spending starting July 6, according to an internal memo reported by The Information (paywall). The cap lands just months after Tesla pushed employees t…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-02T23:11:39.000Z",
       "title": "Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares",
       "body": "Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares Reuters",
@@ -225,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-02T22:28:11.000Z",
       "title": "Crusoe in talks to raise $3 billion funding, Bloomberg News reports",
       "body": "Crusoe in talks to raise $3 billion funding, Bloomberg News reports Reuters",
@@ -236,9 +210,9 @@
       "href": "https://www.reuters.com/technology/crusoe-talks-raise-3-billion-funding-bloomberg-news-reports-2026-07-02/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "19h ago",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "21h ago",
       "pubDate": "2026-07-02T22:21:35.000Z",
       "title": "Tesla driver charged with manslaughter over crash into Texas home",
       "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
@@ -249,17 +223,43 @@
       "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
-      "pubDate": "2026-07-02T22:21:35.000Z",
-      "title": "Tesla driver charged with manslaughter over crash into Texas home",
-      "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
-      "sourceName": "Reuters",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
+      "pubDate": "2026-07-02T20:08:00.000Z",
+      "title": "SpaceX Stock: A ‘Catastrophic’ Valuation",
+      "body": "SpaceX Stock: A ‘Catastrophic’ Valuation Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
+      "href": "https://www.barrons.com/articles/spacex-stock-price-target-rating-013abe4a"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
+      "pubDate": "2026-07-02T11:38:00.000Z",
+      "title": "SpaceX Stock Falls After Firm Calls Valuation ‘Catastrophic’",
+      "body": "SpaceX Stock Falls After Firm Calls Valuation ‘Catastrophic’ Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/spacex-stock-price-target-rating-013abe4a?mod"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2d ago",
+      "pubDate": "2026-07-01T20:05:00.000Z",
+      "title": "SpaceX Stock Gets Analyst Buy Rating, $190 Price Target on Starlink, AI Growth",
+      "body": "SpaceX Stock Gets Analyst Buy Rating, $190 Price Target on Starlink, AI Growth Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/spacex-stock-price-buy-rating-analyst-target-starlink-ai-c4a470cd"
     }
   ]
 }
