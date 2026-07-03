@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-07-03 19:38 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-03 21:13 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17m ago",
-      "pubDate": "2026-07-03T19:20:44.000Z",
+      "time": "52m ago",
+      "pubDate": "2026-07-03T20:21:36.000Z",
       "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
       "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
       "sourceName": "Teslarati",
@@ -17,7 +17,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "17m ago",
+      "time": "2h ago",
       "pubDate": "2026-07-03T19:20:39.000Z",
       "title": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise",
       "body": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise Teslarati",
@@ -30,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-03T18:23:32.000Z",
       "title": "Elon Musk outlines Tesla Optimus production expectations",
       "body": "Elon Musk outlines Tesla Optimus production expectations Teslarati",
@@ -43,7 +43,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-03T14:59:44.000Z",
       "title": "Tesla rolls out robotaxi service in Miami",
       "body": "Tesla rolls out robotaxi service in Miami Reuters",
@@ -54,35 +54,9 @@
       "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-robotaxi-service-miami-2026-07-03/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-07-03T14:59:38.000Z",
-      "title": "Tesla Semi involved in first known fatal crash in Nevada",
-      "body": "A Tesla Semi was involved in a fatal collision on U.S. Highway 50 in Dayton, Nevada, on Sunday, June 28, 2026, marking the first known fatal crash involving the electric Class 8 truck. The incident occurred around 7:20 a…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-semi-involved-first-known-fatal-crash-nevada/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
-      "pubDate": "2026-07-03T14:16:40.000Z",
-      "title": "Test-time compute is actually more important than train-time. More efficient test-time compute means you could do mor…",
-      "body": "Test-time compute is actually more important than train-time. More efficient test-time compute means you could do more in-depth evaluations closer to real conditions instead of first-order approximations, with more check…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2073048281404600372"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-03T12:36:00.000Z",
       "title": "Tesla Teases Some ‘Cool News’ —the Stock Needs It",
       "body": "Tesla Teases Some ‘Cool News’ —the Stock Needs It Barron's",
@@ -95,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-03T11:06:31.000Z",
       "title": "Europe’s dilemma over Chinese car plants",
       "body": "Europe’s dilemma over Chinese car plants Financial Times",
@@ -108,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-03T11:06:31.000Z",
       "title": "Europe’s dilemma over Chinese car plants",
       "body": "Europe’s dilemma over Chinese car plants Financial Times",
@@ -121,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-03T11:00:01.000Z",
       "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
       "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
@@ -134,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-03T11:00:01.000Z",
       "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
       "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
@@ -145,9 +119,22 @@
       "href": "https://www.cnbc.com/2026/07/03/the-tech-download-amazon-devices-chief-panos-panay.html"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "11h ago",
+      "pubDate": "2026-07-03T10:37:49.000Z",
+      "title": "As America turns 250, museums and parks fight to preserve the country’s troubled history",
+      "body": "As America turns 250, museums and parks fight to preserve the country’s troubled history Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/government/america-turns-250-museums-parks-fight-preserve-countrys-troubled-history-2026-07-03/"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-03T05:27:00.000Z",
       "title": "Chinese robot maker Unitree wins approval for $619 million Shanghai IPO",
       "body": "Chinese robot maker Unitree wins approval for $619 million Shanghai IPO Reuters",
@@ -158,9 +145,35 @@
       "href": "https://www.reuters.com/world/asia-pacific/chinese-robot-maker-unitree-wins-approval-619-million-shanghai-ipo-2026-07-03/"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "16h ago",
+      "pubDate": "2026-07-03T05:03:50.000Z",
+      "title": "Print Edition | Wall Street Journal",
+      "body": "Print Edition | Wall Street Journal WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/print-edition/20260703/business-and-finance"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "18h ago",
+      "pubDate": "2026-07-03T03:00:10.000Z",
+      "title": "BERNARD CONDON",
+      "body": "BERNARD CONDON AP News",
+      "sourceName": "AP News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://apnews.com/author/bernard-condon"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-03T02:06:16.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -173,20 +186,33 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "19h ago",
-      "pubDate": "2026-07-03T00:34:03.000Z",
-      "title": "Tesla caps employee AI spending at $200/week except for Grok",
-      "body": "Tesla told staff it will impose a $200-per-week limit on employee AI spending starting July 6, according to an internal memo reported by The Information (paywall). The cap lands just months after Tesla pushed employees t…",
-      "sourceName": "electrek.co",
+      "time": "20h ago",
+      "pubDate": "2026-07-03T01:00:00.000Z",
+      "title": "India’s Space Industry Hunts for Its SpaceX Moment",
+      "body": "India’s Space Industry Hunts for Its SpaceX Moment Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/"
+      "href": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "21h ago",
+      "pubDate": "2026-07-03T00:35:00.000Z",
+      "title": "Gold Rises After Cooler-Than-Expected U.S. Jobs Report",
+      "body": "Gold Rises After Cooler-Than-Expected U.S. Jobs Report WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/finance/commodities-futures/gold-rises-after-cooler-than-expected-u-s-jobs-report-cabe1bf3?mod"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-07-02T23:11:39.000Z",
       "title": "Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares",
       "body": "Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares Reuters",
@@ -199,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "21h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-02T22:28:11.000Z",
       "title": "Crusoe in talks to raise $3 billion funding, Bloomberg News reports",
       "body": "Crusoe in talks to raise $3 billion funding, Bloomberg News reports Reuters",
@@ -212,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "21h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-02T22:21:35.000Z",
       "title": "Tesla driver charged with manslaughter over crash into Texas home",
       "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
@@ -223,43 +249,17 @@
       "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1d ago",
-      "pubDate": "2026-07-02T20:08:00.000Z",
-      "title": "SpaceX Stock: A ‘Catastrophic’ Valuation",
-      "body": "SpaceX Stock: A ‘Catastrophic’ Valuation Barron's",
-      "sourceName": "Barron's",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "23h ago",
+      "pubDate": "2026-07-02T22:02:00.000Z",
+      "title": "Kioxia ships next-gen memory samples as AI boom fuels dramatic comeback",
+      "body": "Kioxia ships next-gen memory samples as AI boom fuels dramatic comeback Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-stock-price-target-rating-013abe4a"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1d ago",
-      "pubDate": "2026-07-02T11:38:00.000Z",
-      "title": "SpaceX Stock Falls After Firm Calls Valuation ‘Catastrophic’",
-      "body": "SpaceX Stock Falls After Firm Calls Valuation ‘Catastrophic’ Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-stock-price-target-rating-013abe4a?mod"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-01T20:05:00.000Z",
-      "title": "SpaceX Stock Gets Analyst Buy Rating, $190 Price Target on Starlink, AI Growth",
-      "body": "SpaceX Stock Gets Analyst Buy Rating, $190 Price Target on Starlink, AI Growth Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-stock-price-buy-rating-analyst-target-starlink-ai-c4a470cd"
+      "href": "https://www.reuters.com/business/autos-transportation/kioxia-readies-next-gen-memory-mass-production-ai-boom-fuels-dramatic-comeback-2026-07-02/"
     }
   ]
 }
