@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-07-03 21:13 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-03 21:43 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "52m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-03T20:21:36.000Z",
       "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
       "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
@@ -43,7 +43,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-03T14:59:44.000Z",
       "title": "Tesla rolls out robotaxi service in Miami",
       "body": "Tesla rolls out robotaxi service in Miami Reuters",
@@ -67,9 +67,22 @@
       "href": "https://www.barrons.com/articles/tesla-stock-news-today-66ddb6c2"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "11h ago",
+      "pubDate": "2026-07-03T11:09:05.000Z",
+      "title": "Artificial Intelligence",
+      "body": "Artificial Intelligence - Page 10 The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/spotlight/artificial-intelligence?page"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-03T11:06:31.000Z",
       "title": "Europe’s dilemma over Chinese car plants",
       "body": "Europe’s dilemma over Chinese car plants Financial Times",
@@ -82,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-03T11:06:31.000Z",
       "title": "Europe’s dilemma over Chinese car plants",
       "body": "Europe’s dilemma over Chinese car plants Financial Times",
@@ -95,7 +108,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-03T11:00:01.000Z",
       "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
       "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
@@ -108,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-03T11:00:01.000Z",
       "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
       "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
@@ -147,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "16h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-03T05:03:50.000Z",
       "title": "Print Edition | Wall Street Journal",
       "body": "Print Edition | Wall Street Journal WSJ",
@@ -160,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "18h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-03T03:00:10.000Z",
       "title": "BERNARD CONDON",
       "body": "BERNARD CONDON AP News",
@@ -173,7 +186,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "19h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-03T02:06:16.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -186,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-03T01:00:00.000Z",
       "title": "India’s Space Industry Hunts for Its SpaceX Moment",
       "body": "India’s Space Industry Hunts for Its SpaceX Moment Bloomberg.com",
@@ -197,22 +210,9 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "21h ago",
-      "pubDate": "2026-07-03T00:35:00.000Z",
-      "title": "Gold Rises After Cooler-Than-Expected U.S. Jobs Report",
-      "body": "Gold Rises After Cooler-Than-Expected U.S. Jobs Report WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/finance/commodities-futures/gold-rises-after-cooler-than-expected-u-s-jobs-report-cabe1bf3?mod"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "22h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-02T23:11:39.000Z",
       "title": "Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares",
       "body": "Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares Reuters",
@@ -251,7 +251,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-02T22:02:00.000Z",
       "title": "Kioxia ships next-gen memory samples as AI boom fuels dramatic comeback",
       "body": "Kioxia ships next-gen memory samples as AI boom fuels dramatic comeback Reuters",
