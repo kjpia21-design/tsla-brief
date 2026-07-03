@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-03 08:06 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-03 23:20 KST 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "20m ago",
+      "pubDate": "2026-07-03T14:02:11.000Z",
+      "title": "테슬라 로보택시 <em>마이애미 진출</em> — 세 번째 주(州), 좁은 지오펜스로 시작",
+      "hotShort": "테슬라 로보택시 <em>마이애미 진출</em> — 3번째 주",
+      "body": "테슬라가 로보택시 서비스 지역을 플로리다 마이애미로 확장하며 지오펜스를 공개했다 — 마이애미 국제공항(MIA)을 포함한 서·중부 일대 약 10~14제곱마일의 좁은 구역(주로 West Miami, Doral·Sweetwater 방향)으로, 텍사스(오스틴·댈러스·휴스턴)와 캘리포니아(베이 지역)에 이어 플로리다가 세 번째 주가 됐다. 다만 오스틴 등 기존 도시조차 여전히 좁은 지오펜스에 머물러, 새 도시 추가보다 각 도시 내 실제 확대(스케일업)가 관건이라는 지적이 나온다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-miami-launch-2026-07-03",
+      "summary": "테슬라가 무인 로보택시 서비스 지역을 플로리다 마이애미로 넓혔다. 지난해 여름 오스틴에서 서비스를 시작한 이래 플로리다는 텍사스·캘리포니아에 이은 세 번째 진출 주(州)로, 로보택시 네트워크의 지리적 확장이 이어지고 있음을 보여준다.\n\nElectrek이 공개한 마이애미 지오펜스는 대도시권의 극히 일부만 덮는다 — 주로 West Miami 일대와 Doral·Sweetwater 방향으로 뻗은 좁은 구역이며, 마이애미 국제공항(MIA)을 포함해 대략 10~14제곱마일 수준으로 추산된다. Palmetto 고속도로(SR 826), Tamiami Trail(US 41) 등 주요 간선이 커버 범위에 들어간다.\n\n이번 확장의 핵심 쟁점은 '넓이'보다 '깊이'다. 테슬라는 오스틴·댈러스·휴스턴 등 텍사스 도시와 베이 지역으로 로보택시를 잇달아 확대해 왔지만, 각 도시의 실제 운영 구역은 여전히 좁은 지오펜스에 묶여 있다. Electrek은 마이애미 진출을 두고 '텍사스조차 아직 확장하지 못한 상태에서 새 도시를 지도에 추가한 것'이라며, 도시 수 늘리기보다 각 지오펜스를 실질적으로 키우는 스케일업이 관건임을 지적했다.\n\n주주 입장에서는 로보택시 서사의 방향성을 가늠할 신호다. 플로리다라는 새 주(州)로의 진입 자체는 자율주행 상용화 확장의 긍정적 이정표지만, 좁은 초기 지오펜스는 아직 서비스가 시범 단계에 가깝다는 방증이기도 하다. 실질적 사업성은 지오펜스 확대 속도와 규제 승인, 무인 운행 범위 확대에서 확인될 전망이다.",
+      "title_en": "Tesla maps a <em>tiny Robotaxi zone in Miami</em> as it still struggles to scale Texas",
+      "hotShort_en": "Tesla Robotaxi <em>expands to Miami</em>, its third state",
+      "body_en": "Tesla has extended its Robotaxi service area to Miami, Florida, publishing a geofence that covers only a small slice of the metro — roughly 10-14 square miles across western and central Miami (mostly West Miami, stretching toward Doral and Sweetwater) and including Miami International Airport. Florida becomes the third state to get Robotaxi, after Texas (Austin, Dallas, Houston) and California (the Bay Area). But with even Austin still boxed into a tight geofence, the real question is less about adding cities than whether Tesla can actually scale coverage within them.",
+      "summary_en": "Tesla has expanded its driverless Robotaxi service to Miami, Florida. Since first launching in Austin last summer, Florida becomes the third state Tesla has brought Robotaxi to, after Texas and California — evidence the network's geographic footprint keeps widening.\n\nThe Miami geofence Electrek published covers only a fraction of the metro — mostly the West Miami area with a strip reaching toward Doral and Sweetwater, spanning an estimated 10-14 square miles and including Miami International Airport (MIA). Major arteries such as the Palmetto Expressway (SR 826) and Tamiami Trail (US 41) fall within the coverage area.\n\nThe crux of this expansion is depth, not breadth. Tesla has rolled Robotaxi out across Texas cities — Austin, Dallas, Houston — and the Bay Area, yet each city's actual operating zone remains locked into a narrow geofence. Electrek framed the Miami move as adding another city to the map while Tesla still hasn't scaled Texas, arguing the real challenge is meaningfully enlarging each geofence rather than piling up city count.\n\nFor shareholders, it's a signal about the trajectory of the Robotaxi story. Entering a new state like Florida is a positive milestone for autonomy commercialization, but the small initial geofence also underscores that the service is still closer to a pilot phase. The real commercial payoff will show up in how fast the geofences grow, how quickly regulators sign off, and how far driverless operation expands.",
+      "href": "https://electrek.co/2026/07/03/tesla-robotaxi-miami-service-area-map/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Teslarati"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -2269,26 +2294,6 @@
       "href": "https://x.com/JoeTegtmeyer/status/2069172017736171544",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-22T21:28:31.000Z",
-      "title": "FT “스페이스X, IPO 랠리 꺾이며 시총 <em>4,000억달러 증발</em>”",
-      "hotShort": "스페이스X IPO 후 시총 <em>4,000억달러 증발</em>",
-      "body": "파이낸셜타임스(FT)가 스페이스X 상장 후 IPO 랠리가 빠르게 반전되면서 시총이 약 4,000억달러(약 554조 원) 줄었다고 보도. 머스크가 이끄는 두 상장 기업(스페이스X·테슬라)이 동시에 시장 조정 압력을 받는 가운데, '머스크 프리미엄'의 지속 가능성에 관심이 쏠린다.",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-market-cap-400bn-loss-2026-06-22",
-      "summary": "스페이스X는 지난주 역대급 기대 속에 공개 거래를 시작하며 상장 첫날부터 폭발적 수요로 급등했다. 그러나 이후 차익 실현 매물과 고평가 우려가 겹치며 IPO 고점 대비 약 4,000억달러의 시총이 사라졌다고 파이낸셜타임스가 집계했다.\n\n스페이스X는 상장 전 비공식 세컨더리 거래 가격 대비 이미 높은 프리미엄에 상장됐던 만큼, 일부 조정은 예측된 수순이기도 하다. 공개 상장 직후 단기 차익 실현이 집중되는 것은 고관심 IPO에서 반복되는 패턴이다.\n\n테슬라 주주 입장에서 이 조정은 두 가지 측면에서 모니터링할 사안이다. 첫째, 스페이스X·테슬라 합병 시나리오를 거론해온 일부 애널리스트에게 스페이스X 밸류에이션 재조정은 수치적 기준점을 바꿀 수 있다. 둘째, 일론 머스크의 경영 집중도 리스크가 다시 부각될 수 있다.\n\n4,000억달러는 단일 거래 주간 기준으로 이례적인 규모의 시총 손실이다. 스페이스X가 향후 투자자 신뢰를 어떻게 복원하는지가 머스크 생태계 전반의 시장 신뢰도에 영향을 줄 전망이다.",
-      "title_en": "FT: SpaceX sheds <em>$400bn in market value</em> as post-IPO rally hits reverse",
-      "hotShort_en": "SpaceX <em>sheds $400bn</em> as IPO rally reverses",
-      "body_en": "The Financial Times reports that SpaceX's debut market surge has sharply reversed, wiping out approximately $400bn in market value from its post-IPO peak. The selloff puts the 'Musk premium' thesis under scrutiny as both of Musk's major listed companies face concurrent market pressure.",
-      "summary_en": "SpaceX launched to extraordinary investor enthusiasm, with its stock surging sharply from the opening of public trading. The Financial Times has now tallied the reversal: approximately $400bn in market capitalization has been erased from SpaceX's peak post-IPO valuation as the rally unwound.\n\nThe correction reflects a combination of short-term profit-taking from investors who entered at IPO pricing and broader concern about premium valuations. SpaceX had already been priced above its pre-IPO secondary-market levels, making some post-debut recalibration structurally anticipated.\n\nFor Tesla shareholders, SpaceX's trajectory carries indirect relevance. Analysts who have floated Tesla-SpaceX merger scenarios will need to revisit their valuation frameworks as SpaceX's market price resets. More broadly, simultaneous pressure on both flagship Musk companies tests whether the premium investors assign to Musk-led ventures holds across a down cycle.\n\nThe $400bn figure represents one of the larger single-week paper value erosions for a newly public company. How SpaceX stabilizes from here will shape market confidence in the broader Musk ecosystem.",
-      "href": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
-      "sentiment": "bear",
-      "hot": 6
     }
   ]
 }
