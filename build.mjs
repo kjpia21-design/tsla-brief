@@ -885,6 +885,8 @@ function renderArticle(template, card, lang = "ko", pool = []) {
   out = replaceBlock(out, "A_SENTI", senti ? ` <span aria-hidden="true">·</span> ${senti}` : "", opts);
   out = replaceBlock(out, "A_RELATED", relatedArticles(card, pool, lang), opts);  // 관련 기사(같은 카테고리)
   out = replaceBlock(out, "A_OG_IMG", escapeHtml(ogImageUrl(card)), opts);        // 기사별 OG (og:image + twitter:image)
+  const pubIso = new Date(Date.parse(card.pubDate || 0) || Date.now()).toISOString();
+  out = replaceBlock(out, "A_PUB_ISO", pubIso, opts);                             // og article:published_time
   return out;
 }
 
