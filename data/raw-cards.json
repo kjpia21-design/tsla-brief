@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-07-04 17:13 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-04 19:22 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
+      "pubDate": "2026-07-04T17:30:00.000Z",
+      "title": "Tesla Expands Robotaxi Service To Small Section Of Miami",
+      "body": "Tesla Expands Robotaxi Service To Small Section Of Miami Engadget",
+      "sourceName": "Engadget",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
       "pubDate": "2026-07-04T15:47:31.000Z",
       "title": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home",
       "body": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home Engadget",
@@ -15,10 +28,23 @@
       "href": "https://www.engadget.com/2207957/tesla-driver-charged-manslaughter-texas-crash-killed-woman-in-home/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "15h ago",
+      "pubDate": "2026-07-04T04:06:03.000Z",
+      "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
+      "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/texas-man-charged-in-fatal-tesla-crash-where-he-blamed-autopilot/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "16h ago",
-      "pubDate": "2026-07-04T00:49:46.000Z",
+      "pubDate": "2026-07-04T03:52:48.000Z",
       "title": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise",
       "body": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise Teslarati",
       "sourceName": "Teslarati",
@@ -30,8 +56,8 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
-      "pubDate": "2026-07-03T21:15:43.000Z",
+      "time": "19h ago",
+      "pubDate": "2026-07-04T00:18:05.000Z",
       "title": "Tesla Semi involved in first known fatal crash in Nevada",
       "body": "Tesla Semi involved in first known fatal crash in Nevada Teslarati",
       "sourceName": "Teslarati",
@@ -39,6 +65,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-semi-involved-first-known-fatal-crash-nevada/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "23h ago",
+      "pubDate": "2026-07-03T20:35:52.000Z",
+      "title": "Elon Musk outlines Tesla Optimus production expectations",
+      "body": "Elon Musk outlines Tesla Optimus production expectations Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/elon-musk-outlines-tesla-optimus-production-expectations/"
     },
     {
       "category": "fsd",
@@ -54,6 +93,19 @@
       "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-robotaxi-service-miami-2026-07-03/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1d ago",
+      "pubDate": "2026-07-03T12:36:00.000Z",
+      "title": "Tesla Teases Some ‘Cool News’ —the Stock Needs It",
+      "body": "Tesla Teases Some ‘Cool News’ —the Stock Needs It Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-news-today-66ddb6c2"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2d ago",
@@ -65,6 +117,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2d ago",
+      "pubDate": "2026-07-02T23:59:00.000Z",
+      "title": "Tesla Inc. Advanced Charts | TSLA",
+      "body": "Tesla Inc. Advanced Charts | TSLA Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/market-data/stocks/tsla/interactive-chart"
     },
     {
       "category": "stock",
@@ -145,6 +210,19 @@
       "href": "https://www.reuters.com/business/autos-transportation/tesla-launches-six-seater-model-y-l-us-boost-sales-2026-07-02/"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2d ago",
+      "pubDate": "2026-07-02T20:47:00.000Z",
+      "title": "Tesla, Rivian, Strategy, Moderna, Sandisk, Blue Owl, and More Stocks That Explain Today’s Market",
+      "body": "Tesla, Rivian, Strategy, Moderna, Sandisk, Blue Owl, and More Stocks That Explain Today’s Market Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/stock-movers-4b343e08"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2d ago",
@@ -171,86 +249,8 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-02/tesla-says-three-row-model-y-suv-now-available-to-us-customers"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T18:27:00.000Z",
-      "title": "Deepwater's Gene Munster on why Tesla is seeing strong demand",
-      "body": "Deepwater's Gene Munster on why Tesla is seeing strong demand CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/video/2026/07/02/deepwaters-gene-munster-on-why-tesla-is-seeing-strong-demand.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T18:21:00.000Z",
-      "title": "Tesla Driver Charged With Manslaughter After Crashing Into Texas Home, Killing Woman",
-      "body": "Tesla Driver Charged With Manslaughter After Crashing Into Texas Home, Killing Woman WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/driver-charged-with-manslaughter-after-tesla-crashed-into-texas-home-killing-woman-inside-65e17279"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T18:21:00.000Z",
-      "title": "Tesla Driver Charged With Manslaughter After Crashing Into Texas Home, Killing Woman",
-      "body": "Tesla Driver Charged With Manslaughter After Crashing Into Texas Home, Killing Woman WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/driver-charged-with-manslaughter-after-tesla-crashed-into-texas-home-killing-woman-inside-65e17279"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T18:21:00.000Z",
-      "title": "Tesla Driver Charged With Manslaughter After Crashing Into Texas Home, Killing Woman",
-      "body": "Tesla Driver Charged With Manslaughter After Crashing Into Texas Home, Killing Woman WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/driver-charged-with-manslaughter-after-tesla-crashed-into-texas-home-killing-woman-inside-65e17279"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T17:40:00.000Z",
-      "title": "Tesla sales jumped last quarter in a possible sign the worst of the Musk backlash is behind it",
-      "body": "Tesla sales jumped last quarter in a possible sign the worst of the Musk backlash is behind it AP News",
-      "sourceName": "AP News",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://apnews.com/article/tesla-musk-byd-sales-deliveries-europe-6c997dddb6775c0a8bd74b993b66f0a7"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T17:15:20.000Z",
-      "title": "U.S. closes 2022 probe into 695,000 Tesla vehicles over unexpected braking",
-      "body": "U.S. closes 2022 probe into 695,000 Tesla vehicles over unexpected braking Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/legal/litigation/us-closes-2022-probe-into-695000-tesla-vehicles-over-unexpected-braking-2026-07-02/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
       "time": "2d ago",
       "pubDate": "2026-07-02T17:15:20.000Z",
       "title": "U.S. closes 2022 probe into 695,000 Tesla vehicles over unexpected braking",

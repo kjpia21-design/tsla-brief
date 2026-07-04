@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-04 17:13 UTC · 누적 529건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-04 19:22 UTC · 누적 530건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "fsd",
@@ -332,6 +332,32 @@
       "hotShort_en": "Cybertruck PCS fails, Tesla <em>avoids a recall</em>",
       "body_en": "A growing number of Cybertruck owners are losing home AC charging to Power Conversion System (PCS) failures, but Tesla has yet to file an NHTSA recall — it's handling cases with part swaps instead, even as failures recur on trucks with just 10,000-18,000 miles.",
       "summary_en": "The Cybertruck's Power Conversion System (PCS) steps down high-voltage pack power for AC home charging. A growing number of owners are seeing an 'AC Charging Unavailable' warning as the part fails, Electrek reported July 1.\n\nThe failures are showing up on relatively low-mileage trucks, often between 10,000 and 18,000 miles, and some owners report repeat failures even after a replacement. Replacement parts are on national backorder, with repairs sometimes taking 8 to 10 weeks — in the meantime, Tesla has offered free Supercharging and pushed emergency OTA updates as stopgaps.\n\nThe key detail is that Tesla has not filed a formal recall with the National Highway Traffic Safety Administration despite the pattern. Instead, it's replacing units case-by-case at service visits, and out-of-warranty repair costs that once ran over $7,000 have reportedly been cut to around $1,000 as a goodwill gesture.\n\nFor shareholders, the risk is that a widespread hardware defect is being handled informally rather than through a formal recall. If NHTSA opens its own probe or the failure pattern widens, it could force a larger formal recall with added cost and reputational exposure."
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3d ago",
+      "pubDate": "2026-07-01T10:30:00.000Z",
+      "title": "테슬라, 한국 전기차 보조금 대상 확정 — 확정 당일 모델3·Y <em>최대 700만원 기습 인상</em>",
+      "hotShort": "테슬라, 보조금 확정 하루만에 <em>700만원 인상</em>",
+      "body": "한국 정부가 테슬라코리아를 하반기 전기차 보조금 지급 대상자로 확정했다(중국 BYD는 유일하게 탈락) — 테슬라는 시행 첫날 모델3·모델Y 가격을 최대 700만원 올렸고, 인상폭이 보조금 지급액을 웃돌아 소비자 반발이 일었다. 테슬라는 \"환율·원자재 비용 때문이며 보조금과는 무관하다\"고 해명했다.",
+      "sourceName": "Korea JoongAng Daily",
+      "sourceLabel": "press",
+      "slug": "stock-korea-ev-subsidy-price-hike-2026-07-01",
+      "summary": "한국 기후에너지환경부가 '전기차 보급사업 수행자' 평가 결과를 확정해 7월 1일부터 적용했다. 총 35개 제작·수입사가 참여해 27개사가 통과했으며, 승용 부문엔 현대차·기아·르노코리아·KG모빌리티 등 국내 업체와 메르세데스-벤츠코리아·BMW코리아·볼보자동차코리아·폭스바겐그룹코리아·폴스타코리아·테슬라코리아 등 수입 10개사가 포함됐다.\n\n중국 BYD는 이번 평가에서 유일하게 탈락한 주요 전기차 업체가 됐다. 배점이 가장 큰 공급망 기여도(40점) 항목에서 국내 생산·고용·부품 기여가 낮게 평가된 것으로 알려졌다. BYD 차량은 7월 1일부터 보조금 대상에서 빠지며, 6월 30일까지 접수된 건에는 경과조치가 적용된다.\n\n테슬라는 보조금 시행 첫날 모델3 프리미엄 롱레인지 RWD 가격을 5,299만원에서 5,999만원으로 700만원 올렸고, 모델3 RWD·퍼포먼스는 각 500만원씩 인상돼 각각 4,699만원·6,999만원이 됐다. 모델Y 프리미엄 롱레인지 AWD와 모델Y L도 각 300만원씩 올라 6,699만원·7,299만원이 됐다.\n\n인상폭이 정부 보조금 지급액을 웃돌면서 소비자 반발이 일었고, 테슬라는 \"환율 상승과 원자재 비용 압박이 계속돼 가격 조정이 불가피했으며 보조금과는 무관하다\"고 해명했다. 투자자 관점에서는 한국 시장에서 보조금 자격을 유지하면서 동시에 가격 인상 여력까지 확인한 셈이라 마진에는 긍정적 신호로 해석될 수 있다.",
+      "title_en": "Tesla secures Korea EV subsidy eligibility, then <em>hikes Model 3/Y prices up to $4,500</em> the same day",
+      "hotShort_en": "Tesla clears Korea subsidy, then <em>hikes prices $4,500</em>",
+      "body_en": "South Korea confirmed Tesla as eligible for its H2 2026 EV subsidy program — China's BYD was the only major maker excluded — but Tesla raised Model 3/Y prices by up to ₩7M (about $4,500) on day one of the program, an increase that outpaces the subsidy itself and triggered consumer backlash. Tesla said the hike reflects \"exchange rates and raw-material costs\" and is \"unrelated to the subsidies.\"",
+      "summary_en": "South Korea's Ministry of Climate, Energy and Environment finalized its EV subsidy-provider eligibility assessment, effective July 1. Of 35 manufacturers and importers evaluated, 27 passed — the approved passenger-car list includes domestic makers Hyundai, Kia, Renault Korea and KG Mobility, plus imports Mercedes-Benz Korea, BMW Korea, Volvo Cars Korea, Volkswagen Group Korea, Polestar Korea and Tesla Korea.\n\nChina's BYD was the only major EV maker to fail. The 100-point scoring system weighted 'supply-chain contribution' — domestic production, employment and parts sourcing — at 40 points, the largest category, and BYD reportedly scored poorly there. BYD loses subsidy eligibility from July 1, though applications filed through June 30 still qualify under a transition rule.\n\nTesla raised Korean prices the same day the program took effect. The Model 3 Premium Long Range RWD rose from ₩52.99M to ₩59.99M (+₩7M), while the Model 3 RWD and Performance each climbed ₩5M to ₩46.99M and ₩69.99M. The Model Y Premium Long Range AWD and Model Y L each rose ₩3M, to ₩66.99M and ₩72.99M.\n\nThe increases outpaced the subsidy amounts, sparking consumer backlash. Tesla said 'pressure to raise prices has continued amid rising exchange rates and raw-material costs' and called the adjustment 'unavoidable and unrelated to the subsidies.' For shareholders, though, the episode confirms Tesla retained subsidy access in a market where a key rival was shut out — and still found room to raise prices the same day.",
+      "href": "https://www.koreajoongangdaily.com/business/tesla-korea-raises-model-3-and-model-y-prices-by-up-to-7-million-won/12750587",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Korea JoongAng Daily",
+        "Electrive",
+        "Drive Tesla Canada"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
     },
     {
       "category": "stock",
