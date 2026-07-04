@@ -1,23 +1,10 @@
 {
-  "asOf": "2026-07-04 13:46 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-04 15:11 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-07-04T10:07:30.000Z",
-      "title": "Business",
-      "body": "Business - Page 8 The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/section/business?page"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-04T09:00:46.000Z",
       "title": "Are the ‘MANGOS’ Stocks Already Turning Soft?",
       "body": "Are the ‘MANGOS’ Stocks Already Turning Soft? The New York Times",
@@ -28,22 +15,9 @@
       "href": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
-      "pubDate": "2026-07-04T02:17:31.000Z",
-      "title": "Tesla expands Robotaxi to Florida, marking its third state for autonomy",
-      "body": "Tesla expands Robotaxi to Florida, marking its third state for autonomy Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-expands-robotaxi-florida-third-state-autonomy/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "13h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-04T00:57:00.000Z",
       "title": "Immigrant Arrests Surge Amid ICE Enforcement Push",
       "body": "Immigrant Arrests Surge Amid ICE Enforcement Push The New York Times",
@@ -56,7 +30,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-04T00:43:00.000Z",
       "title": "Trump pardons 11, most for violating Clean Air Act",
       "body": "Trump pardons 11, most for violating Clean Air Act Reuters",
@@ -69,7 +43,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-04T00:24:23.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -82,7 +56,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-03T21:05:17.000Z",
       "title": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump",
       "body": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump Reuters",
@@ -95,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-03T21:05:17.000Z",
       "title": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump",
       "body": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump Reuters",
@@ -108,7 +82,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-03T18:16:56.000Z",
       "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
       "body": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition Reuters",
@@ -121,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-03T18:16:56.000Z",
       "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
       "body": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition Reuters",
@@ -134,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-03T14:59:44.000Z",
       "title": "Tesla rolls out robotaxi service in Miami",
       "body": "Tesla rolls out robotaxi service in Miami Reuters",
@@ -147,6 +121,19 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1d ago",
+      "pubDate": "2026-07-03T11:06:31.000Z",
+      "title": "Europe’s dilemma over Chinese car plants",
+      "body": "Europe’s dilemma over Chinese car plants Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/520ec72c-c69e-4648-8b08-8883d57f4867?syn-25a6b1a6"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "1d ago",
       "pubDate": "2026-07-03T11:06:31.000Z",
       "title": "Europe’s dilemma over Chinese car plants",
@@ -221,6 +208,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/print-edition/20260703/business-and-finance"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2d ago",
+      "pubDate": "2026-07-03T01:00:00.000Z",
+      "title": "India’s Space Industry Hunts for Its SpaceX Moment",
+      "body": "India’s Space Industry Hunts for Its SpaceX Moment Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment"
     },
     {
       "category": "stock",
