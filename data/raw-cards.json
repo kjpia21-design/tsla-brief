@@ -1,6 +1,19 @@
 {
-  "asOf": "2026-07-04 21:05 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-04 21:36 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "47m ago",
+      "pubDate": "2026-07-04T20:48:45.000Z",
+      "title": "Tesla Caps Employee AI Spending at $200 a Week While Grok, Elon Musk’s AI, Gets a Pass",
+      "body": "Tesla Caps Employee AI Spending at $200 a Week While Grok, Elon Musk’s AI, Gets a Pass The Eastern Herald",
+      "sourceName": "The Eastern Herald",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://easternherald.com/2026/07/05/tesla-ai-spending-cap-200-week-grok-exemption-employees/"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -17,7 +30,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-04T15:47:31.000Z",
       "title": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home",
       "body": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home Engadget",
@@ -30,8 +43,8 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-07-04T04:06:03.000Z",
+      "time": "14h ago",
+      "pubDate": "2026-07-04T07:07:28.000Z",
       "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
       "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
       "sourceName": "Teslarati",
@@ -43,7 +56,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-04T03:52:48.000Z",
       "title": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise",
       "body": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise Teslarati",
@@ -56,8 +69,8 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "21h ago",
-      "pubDate": "2026-07-04T00:18:05.000Z",
+      "time": "18h ago",
+      "pubDate": "2026-07-04T03:19:29.000Z",
       "title": "Tesla Semi involved in first known fatal crash in Nevada",
       "body": "Tesla Semi involved in first known fatal crash in Nevada Teslarati",
       "sourceName": "Teslarati",
@@ -69,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "21h ago",
+      "time": "22h ago",
       "pubDate": "2026-07-03T23:37:14.000Z",
       "title": "Elon Musk outlines Tesla Optimus production expectations",
       "body": "Elon Musk outlines Tesla Optimus production expectations Teslarati",
@@ -82,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-03T22:37:58.000Z",
       "title": "SpaceX discussing a $1.6B Starlink contract with Italy",
       "body": "SpaceX discussing a $1.6B Starlink contract with Italy Teslarati",
@@ -208,19 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T21:30:40.000Z",
-      "title": "Tesla’s Sales Beat Wasn’t Enough to Best BYD",
-      "body": "Tesla’s Sales Beat Wasn’t Enough to Best BYD Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/newsletters/2026-07-02/tesla-beat-sales-estimates-but-fell-short-of-byd?srnd"
     },
     {
       "category": "product",
