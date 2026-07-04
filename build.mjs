@@ -152,6 +152,13 @@ function renderKpi(kpi, lang) {
   const stateLabel = (lang === "en" ? EN_STATE[stateShort] : null) || kpi.marketStateLabel || kpi.marketState || "—";
   // 초기 등락률(빌드 시점) — 라이브 fetch 실패해도 가격-방향 핫뉴스 모순 숨김에 사용.
   const changeInit = typeof kpi.changePct === "number" ? ` data-change-init="${kpi.changePct}"` : "";
+  // 레인지 바 초기 위치(빌드 시점) — 클라이언트 1분 폴링이 갱신. 저가=고가(개장 직후 등)면 숨김 유지.
+  let barHtml = `<span class="pb-bar" data-pb-bar hidden aria-hidden="true"><i data-pb-bar-prev></i><b data-pb-bar-cur></b></span>`;
+  if (typeof kpi.dayLow === "number" && typeof kpi.dayHigh === "number" && kpi.dayHigh > kpi.dayLow && typeof kpi.price === "number") {
+    const pct = (v) => Math.max(0, Math.min(100, ((v - kpi.dayLow) / (kpi.dayHigh - kpi.dayLow)) * 100)).toFixed(1);
+    const prevIn = typeof kpi.prevClose === "number" && kpi.prevClose >= kpi.dayLow && kpi.prevClose <= kpi.dayHigh;
+    barHtml = `<span class="pb-bar" data-pb-bar aria-hidden="true" style="--cur:${pct(kpi.price)}%;--prev:${prevIn ? pct(kpi.prevClose) + "%" : "-999%"}"><i data-pb-bar-prev></i><b data-pb-bar-cur></b></span>`;
+  }
   return `
       <span class="price-bar__price"><small>TSLA</small><span data-pb-price>${escapeHtml(price)}</span></span>
       <span class="price-bar__change ${dir}"${changeInit}>
@@ -164,6 +171,7 @@ function renderKpi(kpi, lang) {
           <b>오늘</b>
           <span class="pb-full" data-pb-range-full>${escapeHtml(rangeFull)}</span>
           <span class="pb-short" data-pb-range-short>${escapeHtml(rangeShort)}</span>
+          ${barHtml}
         </span>
         <span class="price-bar__asof" data-pb-asof>${escapeHtml(formatAsOfET(kpi.asOf))}</span>
       </span>
@@ -744,6 +752,9 @@ const UI_EN = [
   ["← 이전", "← Prev"], ["다음 →", "Next →"],
   ["발행 매체로 이동", "Read on publisher"], ["관련 기사", "Related"], ["원본", "Original"],
   ["FSD·로보택시", "FSD"], ["최신순", "latest first"], ["전체", "All"],
+  // 공유 버튼 (기사)
+  ["X에 공유", "Share on X"], ["텔레그램에 공유", "Share on Telegram"],
+  ["링크 복사", "Copy link"], ["공유하기", "Share"],
   // 짧은 단어는 맨 끝(긴 문자열 치환 후) — 탭바·푸터 라벨
   ["캘린더", "Calendar"], ["유튜브", "YouTube"], ["홈", "Home"], ["문의", "Contact"],
 ];

@@ -105,6 +105,20 @@
   .art__disclaimer{margin-top:22px;color:var(--ink-mute);font-size:11.5px;line-height:1.7}
   .art__disclaimer b{color:var(--ink-mid);font-weight:700}
 
+  /* 공유 버튼 */
+  .art__share{margin-top:24px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .art__share__label{font-size:10.5px;font-weight:800;letter-spacing:.1em;color:var(--ink-mute);text-transform:uppercase;margin-right:2px}
+  .art__share__btn{display:inline-flex;align-items:center;gap:6px;padding:9px 13px;border-radius:999px;background:var(--soft);border:1px solid var(--line);color:var(--ink-mid);font-size:12px;font-weight:700;cursor:pointer;font-family:inherit;line-height:1}
+  .art__share__btn:hover{color:var(--ink);border-color:var(--ink-mute)}
+  .art__share__btn.copied{color:var(--up);border-color:var(--up)}
+
+  /* 데스크톱 — 가독 폭 + 모바일 탭바 숨김 */
+  @media (min-width:1080px){
+    .page{max-width:620px}
+    .tabbar{display:none}
+    footer{padding-bottom:30px}
+  }
+
   /* footer + 탭바 — 메인과 동일 */
   footer{padding:22px 0 96px;text-align:center;color:var(--ink-mute)}
   .footer__inner{font-size:10.5px;display:flex;flex-direction:column;align-items:center;gap:6px;line-height:1.7}
@@ -115,6 +129,12 @@
   .tabbar .ic svg{vertical-align:middle;display:inline}
   :focus-visible{outline:2px solid var(--red);outline-offset:2px;border-radius:4px}
   @media (prefers-reduced-motion: reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
+
+  /* =====================================================
+   * 시스템 다크모드 — OS 설정 자동 추종 (토글 없음)
+   *  - 라이트 규칙은 그대로 두고 여기서만 오버라이드
+   *  - 유지: 테슬라 레드, 등락색(--up/--dn), 카테고리 액센트 4색, 출처 등급 점
+   * ===================================================== */
 </style>
 </head>
 <body>
@@ -156,6 +176,20 @@
   </aside>
   <!-- BLOCK:A_CONFIRM_SRCS --><!-- /BLOCK:A_CONFIRM_SRCS -->
 
+  <div class="art__share">
+    <span class="art__share__label">공유하기</span>
+    <a class="art__share__btn" data-share-x href="#" target="_blank" rel="noopener" aria-label="X에 공유">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M18.9 2H22l-6.8 7.8L23.3 22h-6.3l-4.9-6.4L6.5 22H3.4l7.3-8.3L1.3 2h6.5l4.4 5.9L18.9 2zm-1.1 18h1.7L7.1 3.9H5.2L17.8 20z"/></svg>
+    </a>
+    <a class="art__share__btn" data-share-tg href="#" target="_blank" rel="noopener" aria-label="텔레그램에 공유">
+      <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="m21.7 3.3-19 7.3c-1 .4-1 1.2-.2 1.5l4.8 1.5 1.8 5.6c.2.7.4.9 1 .9.5 0 .7-.2 1.1-.5l2.6-2.5 5 3.7c.9.5 1.5.3 1.8-.8l3.3-15.4c.3-1.1-.4-1.7-1.2-1.3zM8.5 13.9l10.4-6.6c.5-.3 1-.1.6.2l-8.9 8-.3 3.4-1.8-5z"/></svg>
+    </a>
+    <button class="art__share__btn" type="button" data-share-copy aria-label="링크 복사">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M10 14a5 5 0 0 0 7.1 0l3-3a5 5 0 0 0-7.1-7.1l-1.7 1.7"/><path d="M14 10a5 5 0 0 0-7.1 0l-3 3a5 5 0 0 0 7.1 7.1l1.7-1.7"/></svg>
+      <span>링크 복사</span>
+    </button>
+  </div>
+
   <p class="art__disclaimer">
     번역·요약은 <b>Tesla Briefing</b> 편집부가 한국어로 정리한 것이며, 원문의 모든 뉘앙스를 담지 않을 수 있습니다.
     투자 결정의 책임은 본인에게 있습니다.
@@ -179,5 +213,24 @@
 </nav>
 
 </div><!-- /.page -->
+<script>
+(() => {
+  const url = location.origin + location.pathname.replace(/\.html$/, '');
+  const title = document.title;
+  const x = document.querySelector('[data-share-x]');
+  if (x) x.href = 'https://twitter.com/intent/tweet?text=' + encodeURIComponent(title) + '&url=' + encodeURIComponent(url);
+  const tg = document.querySelector('[data-share-tg]');
+  if (tg) tg.href = 'https://t.me/share/url?url=' + encodeURIComponent(url) + '&text=' + encodeURIComponent(title);
+  const cp = document.querySelector('[data-share-copy]');
+  if (cp) cp.addEventListener('click', async () => {
+    try { await navigator.clipboard.writeText(url); }
+    catch (e) { const i = document.createElement('input'); i.value = url; document.body.appendChild(i); i.select(); document.execCommand('copy'); i.remove(); }
+    const s = cp.querySelector('span'); const orig = s.textContent;
+    cp.classList.add('copied');
+    s.textContent = (document.documentElement.lang === 'en') ? 'Copied!' : '복사됨!';
+    setTimeout(() => { cp.classList.remove('copied'); s.textContent = orig; }, 1600);
+  });
+})();
+</script>
 </body>
 </html>

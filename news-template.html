@@ -174,6 +174,18 @@
   @media (prefers-reduced-motion: reduce){
     *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}
   }
+  /* 데스크톱 — 가독 폭 + 모바일 탭바 숨김 */
+  @media (min-width:1080px){
+    .page{max-width:620px}
+    .tabbar{display:none}
+    footer{padding-bottom:30px}
+  }
+
+  /* =====================================================
+   * 시스템 다크모드 — OS 설정 자동 추종 (토글 없음)
+   *  - 라이트 규칙은 그대로 두고 여기서만 오버라이드
+   *  - 유지: 테슬라 레드, 카테고리 액센트 4색, 강세/약세색
+   * ===================================================== */
 </style>
 </head>
 <body>
