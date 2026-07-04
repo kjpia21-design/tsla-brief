@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-07-04 21:36 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-04 23:02 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-04T21:03:52.000Z",
+      "title": "Tesla global auto sales jump 25pc in 2nd quarter",
+      "body": "Tesla global auto sales jump 25pc in 2nd quarter Borneo Bulletin",
+      "sourceName": "Borneo Bulletin",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://borneobulletin.com.bn/tesla-global-auto-sales-jump-25pc-in-2nd-quarter/"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "47m ago",
+      "time": "2h ago",
       "pubDate": "2026-07-04T20:48:45.000Z",
       "title": "Tesla Caps Employee AI Spending at $200 a Week While Grok, Elon Musk’s AI, Gets a Pass",
       "body": "Tesla Caps Employee AI Spending at $200 a Week While Grok, Elon Musk’s AI, Gets a Pass The Eastern Herald",
@@ -15,9 +28,22 @@
       "href": "https://easternherald.com/2026/07/05/tesla-ai-spending-cap-200-week-grok-exemption-employees/"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-04T20:03:04.000Z",
+      "title": "Tesla caps employee AI spending at $200 per week",
+      "body": "Tesla caps employee AI spending at $200 per week Dailyhunt",
+      "sourceName": "Dailyhunt",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "http://m.dailyhunt.in/news/india/english/news+karnataka-epaper-newskarn/tesla+caps+employee+ai+spending+at+200+per+week-newsid-n718420218"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-04T17:30:00.000Z",
       "title": "Tesla Expands Robotaxi Service To Small Section Of Miami",
       "body": "Tesla Expands Robotaxi Service To Small Section Of Miami Engadget",
@@ -30,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-04T15:47:31.000Z",
       "title": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home",
       "body": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home Engadget",
@@ -43,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-04T07:07:28.000Z",
       "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
       "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
@@ -56,8 +82,8 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
-      "pubDate": "2026-07-04T03:52:48.000Z",
+      "time": "16h ago",
+      "pubDate": "2026-07-04T06:55:36.000Z",
       "title": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise",
       "body": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise Teslarati",
       "sourceName": "Teslarati",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-04T03:19:29.000Z",
       "title": "Tesla Semi involved in first known fatal crash in Nevada",
       "body": "Tesla Semi involved in first known fatal crash in Nevada Teslarati",
@@ -82,8 +108,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
-      "pubDate": "2026-07-03T23:37:14.000Z",
+      "time": "20h ago",
+      "pubDate": "2026-07-04T02:37:43.000Z",
       "title": "Elon Musk outlines Tesla Optimus production expectations",
       "body": "Elon Musk outlines Tesla Optimus production expectations Teslarati",
       "sourceName": "Teslarati",
@@ -93,17 +119,17 @@
       "href": "https://www.teslarati.com/elon-musk-outlines-tesla-optimus-production-expectations/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
-      "pubDate": "2026-07-03T22:37:58.000Z",
-      "title": "SpaceX discussing a $1.6B Starlink contract with Italy",
-      "body": "SpaceX discussing a $1.6B Starlink contract with Italy Teslarati",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "21h ago",
+      "pubDate": "2026-07-04T02:17:31.000Z",
+      "title": "Tesla expands Robotaxi to Florida, marking its third state for autonomy",
+      "body": "Tesla expands Robotaxi to Florida, marking its third state for autonomy Teslarati",
       "sourceName": "Teslarati",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/spacex-1-6-billion-starlink-deal-italy-government/"
+      "href": "https://www.teslarati.com/tesla-expands-robotaxi-florida-third-state-autonomy/"
     },
     {
       "category": "fsd",
@@ -171,47 +197,8 @@
       "href": "https://www.barrons.com/market-data/stocks/tsla/interactive-chart"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T22:21:35.000Z",
-      "title": "Tesla driver charged with manslaughter over crash into Texas home",
-      "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T22:21:35.000Z",
-      "title": "Tesla driver charged with manslaughter over crash into Texas home",
-      "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T22:21:35.000Z",
-      "title": "Tesla driver charged with manslaughter over crash into Texas home",
-      "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
       "time": "2d ago",
       "pubDate": "2026-07-02T22:21:35.000Z",
       "title": "Tesla driver charged with manslaughter over crash into Texas home",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/legal/litigation/us-closes-2022-probe-into-695000-tesla-vehicles-over-unexpected-braking-2026-07-02/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3d ago",
+      "pubDate": "2026-07-01T19:41:56.000Z",
+      "title": "Musk Meme Traders Rush Back Into Tesla When the Stock Hits $420",
+      "body": "Musk Meme Traders Rush Back Into Tesla When the Stock Hits $420 Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-01/musk-meme-traders-blaze-back-into-tesla-when-the-stock-hits-420"
     }
   ]
 }
