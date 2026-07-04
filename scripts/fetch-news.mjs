@@ -316,6 +316,13 @@ const KEYWORDS = {
   product: [/\bModel [SX3Y]\b/i, /\bCybertruck\b/i, /\bRoadster\b/i, /\bSemi\b/i, /\bOptimus\b/i, /\bPowerwall\b/i, /\bMegapack\b/i, /\bSolar Roof\b/i, /\bsupercharger/i, /\b(price cut|trim|refresh|juniper|highland)\b/i, /\bbattery (factory|plant|cell)/i],
 };
 
+// 구글뉴스 검색(GN) 결과 관련성 게이트 — site: 필터(T1)가 매치 부족 시 해당 도메인의
+//   무관한 일반 기사로 패딩하는 현상 방지(2026-07-05 발견: WSJ 크로스워드·NYT 이민단속 기사 등이
+//   selectionScore 의 tier/recency 점수만으로 골라져 raw-cards.json 에 섞여 들어갔음).
+//   electrek/teslarati 전용 피드는 매체 자체가 테슬라 전문이라 이 게이트 대상 아님.
+const TESLA_RELEVANCE_RE = /\bTeslas?\b|\bTSLA\b|\bElon Musk\b|\bMusk\b|\bCybertruck\b|\bCybercab\b|\bOptimus\b|\bPowerwall\b|\bMegapack\b|\bGigafactory\b|\bFSD\b|full[\s-]?self[\s-]?driving|robo[\s-]?taxi|\bSpaceX\b|\bStarlink\b|\bxAI\b|\bGrok\b|\bNeuralink\b/i;
+function isGoogleNewsSearch(url) { return /news\.google\.com\/rss\/search/i.test(url || ""); }
+
 function inferCategory(title, summary, fallback) {
   const text = `${title} ${summary || ""}`;
   // FSD > musk > stock > product 우선순위 — FSD 키워드가 강하게 식별됨
@@ -902,6 +909,10 @@ async function main() {
         const label = (host && labelForUrl(`https://${host}/`)) || src.defaultLabel;
         const title = cleanTitle(it.title, it.sourceName);
         if (!title) continue;
+        if (isGoogleNewsSearch(src.url) && !TESLA_RELEVANCE_RE.test(`${title} ${it.description || ""}`)) {
+          console.log(`  · IRRELEVANT(GN 패딩) ${title.slice(0, 60)}`);
+          continue;
+        }
         if (isBlocked({ link: it.link, sourceUrl: it.sourceUrl, title })) {
           console.log(`  · BLOCKED ${it.link || title}`);
           continue;

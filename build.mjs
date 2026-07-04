@@ -430,8 +430,13 @@ function renderHotNews(cards, lang = "ko", livePriceDir = null) {
   });
   let eligible = baseEligible.filter(inWindow);
   // 안전장치 — 당일+전일 카드가 4건 미만인 드문 날에만 최소치 위해 그 이전 카드 보충(평소엔 전일자로만).
+  //   ⚠️ 무한정 과거로 가지 않게 최대 3일 상한(2026-07-05: 정제 파이프라인이 16h+ 멈춰 신선 후보 0건이 되자
+  //   9일 전 카드까지 hot 점수만으로 끌려 올라온 사고 — "핫뉴스는 아무리 오래되어도 최근 며칠"이라는
+  //   JP 기대를 벗어남). 3일도 못 채우면 폴백 없이 그보다 적은 건수로 노출(가짜 신선도보다 낫다).
+  const FALLBACK_MAX_AGE_MS = 3 * 24 * 3600000;
   if (eligible.length < 4) {
-    const older = baseEligible.filter((c) => !inWindow(c)).sort(byHot);
+    const fallbackCutoff = nowMs - FALLBACK_MAX_AGE_MS;
+    const older = baseEligible.filter((c) => !inWindow(c) && (Date.parse(c.pubDate || 0) || 0) >= fallbackCutoff).sort(byHot);
     eligible = eligible.concat(older.slice(0, 4 - eligible.length));
   }
   const ranked = [...eligible].sort(byHot);
