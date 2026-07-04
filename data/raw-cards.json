@@ -1,11 +1,37 @@
 {
-  "asOf": "2026-07-03 23:11 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-04 03:41 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-04T02:15:00.000Z",
+      "title": "Tesla expands Robotaxi to Florida, marking its third state for autonomy",
+      "body": "Tesla expands Robotaxi to Florida, marking its third state for autonomy Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-expands-robotaxi-florida-third-state-autonomy/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-04T01:46:18.000Z",
+      "title": "tesla-robotaxi-miami",
+      "body": "tesla-robotaxi-miami Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-expands-robotaxi-florida-third-state-autonomy/tesla-robotaxi-miami/"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-03T21:25:52.000Z",
+      "time": "3h ago",
+      "pubDate": "2026-07-04T00:26:16.000Z",
       "title": "Elon Musk outlines Tesla Optimus production expectations",
       "body": "Elon Musk outlines Tesla Optimus production expectations Teslarati",
       "sourceName": "Teslarati",
@@ -15,9 +41,22 @@
       "href": "https://www.teslarati.com/elon-musk-outlines-tesla-optimus-production-expectations/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-07-04T00:24:23.000Z",
+      "title": "Stocks",
+      "body": "Stocks Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/profile/person/22767523"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "7h ago",
       "pubDate": "2026-07-03T21:05:17.000Z",
       "title": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump",
       "body": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump Reuters",
@@ -30,21 +69,21 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-07-03T20:21:36.000Z",
-      "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
-      "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
-      "sourceName": "Teslarati",
+      "time": "7h ago",
+      "pubDate": "2026-07-03T21:05:17.000Z",
+      "title": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump",
+      "body": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/texas-man-charged-in-fatal-tesla-crash-where-he-blamed-autopilot/"
+      "href": "https://www.reuters.com/legal/government/supreme-courts-barrett-fuels-conservative-wins-while-sometimes-splitting-with-2026-07-03/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-07-03T19:33:26.000Z",
+      "time": "9h ago",
+      "pubDate": "2026-07-03T18:17:03.000Z",
       "title": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise",
       "body": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise Teslarati",
       "sourceName": "Teslarati",
@@ -56,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-03T18:16:56.000Z",
       "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
       "body": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition Reuters",
@@ -69,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-03T18:16:56.000Z",
       "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
       "body": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition Reuters",
@@ -82,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-03T14:59:44.000Z",
       "title": "Tesla rolls out robotaxi service in Miami",
       "body": "Tesla rolls out robotaxi service in Miami Reuters",
@@ -93,35 +132,9 @@
       "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-robotaxi-service-miami-2026-07-03/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
-      "pubDate": "2026-07-03T14:59:38.000Z",
-      "title": "Tesla Semi involved in first known fatal crash in Nevada",
-      "body": "A Tesla Semi was involved in a fatal collision on U.S. Highway 50 in Dayton, Nevada, on Sunday, June 28, 2026, marking the first known fatal crash involving the electric Class 8 truck. The incident occurred around 7:20 a…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-semi-involved-first-known-fatal-crash-nevada/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-07-03T13:08:14.000Z",
-      "title": "Artificial Intelligence",
-      "body": "Artificial Intelligence - Page 9 The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/spotlight/artificial-intelligence?page"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-03T12:36:00.000Z",
       "title": "Tesla Teases Some ‘Cool News’ —the Stock Needs It",
       "body": "Tesla Teases Some ‘Cool News’ —the Stock Needs It Barron's",
@@ -134,20 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-07-03T11:06:31.000Z",
-      "title": "Europe’s dilemma over Chinese car plants",
-      "body": "Europe’s dilemma over Chinese car plants Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/520ec72c-c69e-4648-8b08-8883d57f4867?syn-25a6b1a6"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-03T11:06:31.000Z",
       "title": "Europe’s dilemma over Chinese car plants",
       "body": "Europe’s dilemma over Chinese car plants Financial Times",
@@ -160,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-03T11:00:01.000Z",
       "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
       "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
@@ -173,7 +173,20 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "17h ago",
+      "pubDate": "2026-07-03T11:00:01.000Z",
+      "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
+      "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/03/the-tech-download-amazon-devices-chief-panos-panay.html"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "22h ago",
       "pubDate": "2026-07-03T05:27:00.000Z",
       "title": "Chinese robot maker Unitree wins approval for $619 million Shanghai IPO",
       "body": "Chinese robot maker Unitree wins approval for $619 million Shanghai IPO Reuters",
@@ -186,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "18h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-03T05:03:50.000Z",
       "title": "Print Edition | Wall Street Journal",
       "body": "Print Edition | Wall Street Journal WSJ",
@@ -199,33 +212,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20h ago",
-      "pubDate": "2026-07-03T03:00:10.000Z",
-      "title": "BERNARD CONDON",
-      "body": "BERNARD CONDON AP News",
-      "sourceName": "AP News",
+      "time": "23h ago",
+      "pubDate": "2026-07-03T04:12:07.000Z",
+      "title": "Space and Astronomy",
+      "body": "Space and Astronomy The New York Times",
+      "sourceName": "The New York Times",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://apnews.com/author/bernard-condon"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "21h ago",
-      "pubDate": "2026-07-03T02:06:16.000Z",
-      "title": "Stocks",
-      "body": "Stocks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/profile/person/25531088"
+      "href": "https://www.nytimes.com/section/science/space"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-03T01:00:00.000Z",
       "title": "India’s Space Industry Hunts for Its SpaceX Moment",
       "body": "India’s Space Industry Hunts for Its SpaceX Moment Bloomberg.com",
@@ -234,6 +234,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
+      "pubDate": "2026-07-03T00:35:00.000Z",
+      "title": "Gold Rises After Cooler-Than-Expected U.S. Jobs Report",
+      "body": "Gold Rises After Cooler-Than-Expected U.S. Jobs Report WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/finance/commodities-futures/gold-rises-after-cooler-than-expected-u-s-jobs-report-cabe1bf3?mod"
     },
     {
       "category": "stock",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/wall-st-futures-muted-investors-await-payrolls-data-2026-07-02/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
-      "pubDate": "2026-07-02T22:28:11.000Z",
-      "title": "Crusoe in talks to raise $3 billion funding, Bloomberg News reports",
-      "body": "Crusoe in talks to raise $3 billion funding, Bloomberg News reports Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/technology/crusoe-talks-raise-3-billion-funding-bloomberg-news-reports-2026-07-02/"
     }
   ]
 }
