@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-04 04:40 KST 자동 갱신 · 최신순",
+  "asOf": "2026-07-04 17:20 UTC 자동 갱신 · 최신순",
   "items": [
     {
       "category": "fsd",
@@ -26,31 +26,6 @@
       ],
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "19h ago",
-      "pubDate": "2026-07-03T00:34:03.000Z",
-      "title": "테슬라, 직원 AI 지출 <em>주 $200 상한</em> — 머스크의 Grok만 예외",
-      "hotShort": "테슬라, 직원 AI 지출 <em>주 $200 상한</em>",
-      "body": "테슬라가 7월 6일부터 직원 1인당 AI 사용 지출을 주 $200로 제한한다고 내부 메모(The Information 보도)로 알려졌다 — 단, 머스크가 이끄는 xAI의 제품(Grok 챗봇·Composer 코딩툴 베타)은 집계에서 빠진다. 일부 엔지니어가 주당 '수천 달러'어치 토큰을 쓰던 상황을 감안한 비용 통제이지만, 머스크 본인 회사 제품만 예외로 둔 점이 이해상충 논란을 부른다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "musk-tesla-ai-spend-cap-grok-2026-07-03",
-      "summary": "최근 몇 달간 테슬라는 사내 AI 활용을 오히려 적극 장려하며, 흩어져 있던 직원들의 AI 사용을 승인된 모델·보안정책 중심의 전사 체계로 모으는 작업을 해왔다. 그 과정에서 일부 소프트웨어 엔지니어가 주당 '수천 달러'어치의 토큰을 소비했다는 사실이 The Information 취재로 드러났고, 이번 지출 상한은 그에 대한 반작용으로 읽힌다.\n\n내부 메모에 따르면 테슬라는 7월 6일부터 직원 1인당 AI 사용 지출을 주 $200로 제한한다. 이 한도를 넘기려면 별도 승인을 받아야 한다.\n\n눈에 띄는 대목은 예외 조항이다. 상한 집계에서 xAI 제품의 베타 버전 — Grok 챗봇과 Composer 코딩툴 — 은 빠진다. xAI는 머스크가 이끄는 별도 AI 기업으로, 테슬라 CEO 본인의 회사 제품만 사실상 상한 없이 쓸 수 있게 된 셈이어서 이해상충 논란이 뒤따른다. 더욱이 Electrek은 정작 사내에서 Grok의 인기가 높지 않고 다수 직원이 Anthropic의 Claude를 선호한다고 전했다.\n\n주주 관점에서 이번 조치 자체는 규모가 크지 않은 내부 비용 통제다. 다만 AI·자율주행에 막대한 투자를 이어가는 테슬라가 운영 비용 규율에 나섰다는 신호이자, 머스크가 이끄는 여러 회사(테슬라·xAI)의 이해관계가 사내 정책에까지 얽히는 방식을 보여주는 사례라는 점에서 눈여겨볼 만하다.",
-      "title_en": "Tesla caps employee AI spending at <em>$200/week</em> — except Musk's Grok",
-      "hotShort_en": "Tesla caps AI spend at <em>$200/week</em>, Grok exempt",
-      "body_en": "Tesla will limit employee AI spending to $200 per week starting July 6, according to an internal memo reported by The Information — but the cap excludes beta versions of xAI's products (the Grok chatbot and Composer coding tool), the AI firm also run by Elon Musk. It's a cost-control move after some engineers were reportedly burning through 'thousands of dollars' of tokens a week, yet exempting only Musk's own company's tools raises conflict-of-interest questions.",
-      "summary_en": "In recent months Tesla had actually been pushing employees to use AI more, working to consolidate scattered usage onto a companywide framework of approved models and formal security policies. Along the way, The Information reported, some software engineers were consuming 'thousands of dollars' worth of tokens each week — and this spending cap reads as the counter-reaction.\n\nPer the internal memo, Tesla will limit each employee's AI spending to $200 per week starting July 6. Going above that threshold requires separate sign-off.\n\nThe notable part is the carve-out: the tally excludes beta versions of xAI's products — the Grok chatbot and the Composer coding tool. xAI is the separate AI company led by Musk, so in effect only the Tesla CEO's own company's tools get uncapped use, inviting conflict-of-interest scrutiny. Adding to the irony, Electrek reported that Grok isn't especially popular internally and that many staff prefer Anthropic's Claude.\n\nFor shareholders, the move itself is a modest internal cost measure. But it's worth noting on two counts: as a signal that a company pouring capital into AI and autonomy is tightening operational spending discipline, and as an example of how the interlocking interests of Musk's various companies (Tesla, xAI) reach into internal policy.",
-      "href": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "The Information",
-        "Electrek"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     },
     {
       "category": "product",
@@ -201,6 +176,32 @@
       "hotShort_en": "Tesla Semi's <em>first fatal crash</em> kills 2 in Nevada",
       "body_en": "A Tesla Semi rear-ended two passenger vehicles stopped at a red light at the US-50/Traditions Parkway intersection in Dayton, Nevada, Sunday morning, killing 2 occupants and leaving a third airlifted by Care Flight in critical condition — the first known fatal crash involving Tesla's electric semi truck since deliveries began in 2022, a fresh test for confidence in commercial EV trucking safety.",
       "summary_en": "Tesla's Semi electric truck has been linked to a fatality for the first time since deliveries began in 2022. The crash happened at the intersection of U.S. Highway 50 and Traditions Parkway in Dayton, Nevada, on a Sunday morning.\n\nThe Semi rear-ended two passenger vehicles stopped at a red light. Two occupants died at the scene, and a third was airlifted by Care Flight to a hospital in critical condition. Electrek reported that the Semi's driver had reportedly fallen asleep just before the collision, and the scene, near Carson City, is being investigated by the Nevada Highway Patrol and the Lyon County Sheriff's Office.\n\nWith drowsy driving cited as the cause, scrutiny will likely center on whether the Semi's driver-fatigue detection and automated safety systems functioned as intended. Neither Tesla nor federal regulators (NHTSA) have issued an official statement.\n\nTesla builds the Semi at Gigafactory Nevada and has been expanding commercial rollout to freight and logistics customers. The crash is likely to sharpen industry and regulatory scrutiny of electric heavy-truck safety going forward."
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3d ago",
+      "pubDate": "2026-07-01T10:30:00.000Z",
+      "title": "테슬라, 한국 전기차 보조금 대상 확정 — 확정 당일 모델3·Y <em>최대 700만원 기습 인상</em>",
+      "hotShort": "테슬라, 보조금 확정 하루만에 <em>700만원 인상</em>",
+      "body": "한국 정부가 테슬라코리아를 하반기 전기차 보조금 지급 대상자로 확정했다(중국 BYD는 유일하게 탈락) — 테슬라는 시행 첫날 모델3·모델Y 가격을 최대 700만원 올렸고, 인상폭이 보조금 지급액을 웃돌아 소비자 반발이 일었다. 테슬라는 \"환율·원자재 비용 때문이며 보조금과는 무관하다\"고 해명했다.",
+      "sourceName": "Korea JoongAng Daily",
+      "sourceLabel": "press",
+      "slug": "stock-korea-ev-subsidy-price-hike-2026-07-01",
+      "summary": "한국 기후에너지환경부가 '전기차 보급사업 수행자' 평가 결과를 확정해 7월 1일부터 적용했다. 총 35개 제작·수입사가 참여해 27개사가 통과했으며, 승용 부문엔 현대차·기아·르노코리아·KG모빌리티 등 국내 업체와 메르세데스-벤츠코리아·BMW코리아·볼보자동차코리아·폭스바겐그룹코리아·폴스타코리아·테슬라코리아 등 수입 10개사가 포함됐다.\n\n중국 BYD는 이번 평가에서 유일하게 탈락한 주요 전기차 업체가 됐다. 배점이 가장 큰 공급망 기여도(40점) 항목에서 국내 생산·고용·부품 기여가 낮게 평가된 것으로 알려졌다. BYD 차량은 7월 1일부터 보조금 대상에서 빠지며, 6월 30일까지 접수된 건에는 경과조치가 적용된다.\n\n테슬라는 보조금 시행 첫날 모델3 프리미엄 롱레인지 RWD 가격을 5,299만원에서 5,999만원으로 700만원 올렸고, 모델3 RWD·퍼포먼스는 각 500만원씩 인상돼 각각 4,699만원·6,999만원이 됐다. 모델Y 프리미엄 롱레인지 AWD와 모델Y L도 각 300만원씩 올라 6,699만원·7,299만원이 됐다.\n\n인상폭이 정부 보조금 지급액을 웃돌면서 소비자 반발이 일었고, 테슬라는 \"환율 상승과 원자재 비용 압박이 계속돼 가격 조정이 불가피했으며 보조금과는 무관하다\"고 해명했다. 투자자 관점에서는 한국 시장에서 보조금 자격을 유지하면서 동시에 가격 인상 여력까지 확인한 셈이라 마진에는 긍정적 신호로 해석될 수 있다.",
+      "title_en": "Tesla secures Korea EV subsidy eligibility, then <em>hikes Model 3/Y prices up to $4,500</em> the same day",
+      "hotShort_en": "Tesla clears Korea subsidy, then <em>hikes prices $4,500</em>",
+      "body_en": "South Korea confirmed Tesla as eligible for its H2 2026 EV subsidy program — China's BYD was the only major maker excluded — but Tesla raised Model 3/Y prices by up to ₩7M (about $4,500) on day one of the program, an increase that outpaces the subsidy itself and triggered consumer backlash. Tesla said the hike reflects \"exchange rates and raw-material costs\" and is \"unrelated to the subsidies.\"",
+      "summary_en": "South Korea's Ministry of Climate, Energy and Environment finalized its EV subsidy-provider eligibility assessment, effective July 1. Of 35 manufacturers and importers evaluated, 27 passed — the approved passenger-car list includes domestic makers Hyundai, Kia, Renault Korea and KG Mobility, plus imports Mercedes-Benz Korea, BMW Korea, Volvo Cars Korea, Volkswagen Group Korea, Polestar Korea and Tesla Korea.\n\nChina's BYD was the only major EV maker to fail. The 100-point scoring system weighted 'supply-chain contribution' — domestic production, employment and parts sourcing — at 40 points, the largest category, and BYD reportedly scored poorly there. BYD loses subsidy eligibility from July 1, though applications filed through June 30 still qualify under a transition rule.\n\nTesla raised Korean prices the same day the program took effect. The Model 3 Premium Long Range RWD rose from ₩52.99M to ₩59.99M (+₩7M), while the Model 3 RWD and Performance each climbed ₩5M to ₩46.99M and ₩69.99M. The Model Y Premium Long Range AWD and Model Y L each rose ₩3M, to ₩66.99M and ₩72.99M.\n\nThe increases outpaced the subsidy amounts, sparking consumer backlash. Tesla said 'pressure to raise prices has continued amid rising exchange rates and raw-material costs' and called the adjustment 'unavoidable and unrelated to the subsidies.' For shareholders, though, the episode confirms Tesla retained subsidy access in a market where a key rival was shut out — and still found room to raise prices the same day.",
+      "href": "https://www.koreajoongangdaily.com/business/tesla-korea-raises-model-3-and-model-y-prices-by-up-to-7-million-won/12750587",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Korea JoongAng Daily",
+        "Electrive",
+        "Drive Tesla Canada"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
     }
   ]
 }
