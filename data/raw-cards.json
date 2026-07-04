@@ -1,36 +1,49 @@
 {
-  "asOf": "2026-07-04 06:52 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-04 10:17 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
-      "pubDate": "2026-07-04T02:17:31.000Z",
-      "title": "Tesla expands Robotaxi to Florida, marking its third state for autonomy",
-      "body": "Tesla expands Robotaxi to Florida, marking its third state for autonomy Teslarati",
-      "sourceName": "Teslarati",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-04T09:00:46.000Z",
+      "title": "Are the ‘MANGOS’ Stocks Already Turning Soft?",
+      "body": "Are the ‘MANGOS’ Stocks Already Turning Soft? The New York Times",
+      "sourceName": "The New York Times",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/tesla-expands-robotaxi-florida-third-state-autonomy/"
+      "href": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "9h ago",
+      "pubDate": "2026-07-04T00:57:00.000Z",
+      "title": "Immigrant Arrests Surge Amid ICE Enforcement Push",
+      "body": "Immigrant Arrests Surge Amid ICE Enforcement Push The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/live/2026/07/01/us/trump-news"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "10h ago",
+      "pubDate": "2026-07-04T00:43:00.000Z",
+      "title": "Trump pardons 11, most for violating Clean Air Act",
+      "body": "Trump pardons 11, most for violating Clean Air Act Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/government/trump-pardons-11-most-violating-clean-air-act-2026-07-04/"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
-      "pubDate": "2026-07-04T01:46:18.000Z",
-      "title": "tesla-robotaxi-miami",
-      "body": "tesla-robotaxi-miami Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-expands-robotaxi-florida-third-state-autonomy/tesla-robotaxi-miami/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-04T00:43:00.000Z",
       "title": "Trump pardons 11, most for violating Clean Air Act",
       "body": "Trump pardons 11, most for violating Clean Air Act Reuters",
@@ -43,7 +56,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-04T00:24:23.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -56,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-03T21:05:17.000Z",
       "title": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump",
       "body": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump Reuters",
@@ -69,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-03T21:05:17.000Z",
       "title": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump",
       "body": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump Reuters",
@@ -78,24 +91,11 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/legal/government/supreme-courts-barrett-fuels-conservative-wins-while-sometimes-splitting-with-2026-07-03/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
-      "pubDate": "2026-07-03T19:41:51.000Z",
-      "title": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise",
-      "body": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-strong-q2-deliveries-four-key-drivers-behind-the-surprise/"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-03T18:16:56.000Z",
       "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
       "body": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition Reuters",
@@ -108,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-03T18:16:56.000Z",
       "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
       "body": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition Reuters",
@@ -119,9 +119,22 @@
       "href": "https://www.reuters.com/business/autos-transportation/ferrari-appeals-traditionalists-with-new-v12-manual-gearbox-limited-edition-2026-07-03/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "19h ago",
+      "pubDate": "2026-07-03T14:59:44.000Z",
+      "title": "Tesla rolls out robotaxi service in Miami",
+      "body": "Tesla rolls out robotaxi service in Miami Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-robotaxi-service-miami-2026-07-03/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "18h ago",
+      "time": "22h ago",
       "pubDate": "2026-07-03T12:36:00.000Z",
       "title": "Tesla Teases Some ‘Cool News’ —the Stock Needs It",
       "body": "Tesla Teases Some ‘Cool News’ —the Stock Needs It Barron's",
@@ -134,7 +147,20 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
+      "time": "23h ago",
+      "pubDate": "2026-07-03T11:06:31.000Z",
+      "title": "Europe’s dilemma over Chinese car plants",
+      "body": "Europe’s dilemma over Chinese car plants Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/520ec72c-c69e-4648-8b08-8883d57f4867?syn-25a6b1a6"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "23h ago",
       "pubDate": "2026-07-03T11:06:31.000Z",
       "title": "Europe’s dilemma over Chinese car plants",
       "body": "Europe’s dilemma over Chinese car plants Financial Times",
@@ -147,7 +173,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-03T11:00:01.000Z",
       "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
       "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
@@ -160,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-03T11:00:01.000Z",
       "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
       "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
@@ -171,17 +197,17 @@
       "href": "https://www.cnbc.com/2026/07/03/the-tech-download-amazon-devices-chief-panos-panay.html"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
-      "pubDate": "2026-07-03T10:37:49.000Z",
-      "title": "As America turns 250, museums and parks fight to preserve the country’s troubled history",
-      "body": "As America turns 250, museums and parks fight to preserve the country’s troubled history Reuters",
-      "sourceName": "Reuters",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
+      "pubDate": "2026-07-03T06:53:51.000Z",
+      "title": "C-Notes (Saturday Crossword, February 28)",
+      "body": "C-Notes (Saturday Crossword, February 28) WSJ",
+      "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/legal/government/america-turns-250-museums-parks-fight-preserve-countrys-troubled-history-2026-07-03/"
+      "href": "https://www.wsj.com/articles/c-notes-saturday-crossword-february-28-0bf9c75b?mod"
     },
     {
       "category": "musk",
@@ -210,45 +236,6 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1d ago",
-      "pubDate": "2026-07-03T00:35:00.000Z",
-      "title": "Gold Rises After Cooler-Than-Expected U.S. Jobs Report",
-      "body": "Gold Rises After Cooler-Than-Expected U.S. Jobs Report WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/finance/commodities-futures/gold-rises-after-cooler-than-expected-u-s-jobs-report-cabe1bf3?mod"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1d ago",
-      "pubDate": "2026-07-03T00:31:00.000Z",
-      "title": "Nikkei Falls 1.0%, Dragged by Electronics, Tech Stocks",
-      "body": "Nikkei Falls 1.0%, Dragged by Electronics, Tech Stocks WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-electronics-tech-stock-fc233590?mod"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1d ago",
-      "pubDate": "2026-07-02T23:28:29.000Z",
-      "title": "BWX Awarded $1.5 Billion Contract by Department of Energy",
-      "body": "BWX Awarded $1.5 Billion Contract by Department of Energy WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/articles/energy-department-awards-bwx-1-5-billion-contract-f75fce28?mod"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1d ago",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/wall-st-futures-muted-investors-await-payrolls-data-2026-07-02/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2d ago",
+      "pubDate": "2026-07-02T22:21:35.000Z",
+      "title": "Tesla driver charged with manslaughter over crash into Texas home",
+      "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
     }
   ]
 }
