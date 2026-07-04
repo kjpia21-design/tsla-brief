@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-07-04 03:41 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-04 06:52 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-07-04T02:15:00.000Z",
+      "time": "5h ago",
+      "pubDate": "2026-07-04T02:17:31.000Z",
       "title": "Tesla expands Robotaxi to Florida, marking its third state for autonomy",
       "body": "Tesla expands Robotaxi to Florida, marking its third state for autonomy Teslarati",
       "sourceName": "Teslarati",
@@ -17,7 +17,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-04T01:46:18.000Z",
       "title": "tesla-robotaxi-miami",
       "body": "tesla-robotaxi-miami Teslarati",
@@ -28,22 +28,22 @@
       "href": "https://www.teslarati.com/tesla-expands-robotaxi-florida-third-state-autonomy/tesla-robotaxi-miami/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-04T00:26:16.000Z",
-      "title": "Elon Musk outlines Tesla Optimus production expectations",
-      "body": "Elon Musk outlines Tesla Optimus production expectations Teslarati",
-      "sourceName": "Teslarati",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "6h ago",
+      "pubDate": "2026-07-04T00:43:00.000Z",
+      "title": "Trump pardons 11, most for violating Clean Air Act",
+      "body": "Trump pardons 11, most for violating Clean Air Act Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/elon-musk-outlines-tesla-optimus-production-expectations/"
+      "href": "https://www.reuters.com/legal/government/trump-pardons-11-most-violating-clean-air-act-2026-07-04/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-04T00:24:23.000Z",
       "title": "Stocks",
       "body": "Stocks Bloomberg.com",
@@ -56,7 +56,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-03T21:05:17.000Z",
       "title": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump",
       "body": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump Reuters",
@@ -69,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-03T21:05:17.000Z",
       "title": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump",
       "body": "Supreme Court's Barrett fuels conservative wins while sometimes splitting with Trump Reuters",
@@ -82,8 +82,8 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
-      "pubDate": "2026-07-03T18:17:03.000Z",
+      "time": "11h ago",
+      "pubDate": "2026-07-03T19:41:51.000Z",
       "title": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise",
       "body": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise Teslarati",
       "sourceName": "Teslarati",
@@ -95,20 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
-      "pubDate": "2026-07-03T18:16:56.000Z",
-      "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
-      "body": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/ferrari-appeals-traditionalists-with-new-v12-manual-gearbox-limited-edition-2026-07-03/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-03T18:16:56.000Z",
       "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
       "body": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition Reuters",
@@ -122,19 +109,19 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "13h ago",
-      "pubDate": "2026-07-03T14:59:44.000Z",
-      "title": "Tesla rolls out robotaxi service in Miami",
-      "body": "Tesla rolls out robotaxi service in Miami Reuters",
+      "pubDate": "2026-07-03T18:16:56.000Z",
+      "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
+      "body": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition Reuters",
       "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-robotaxi-service-miami-2026-07-03/"
+      "href": "https://www.reuters.com/business/autos-transportation/ferrari-appeals-traditionalists-with-new-v12-manual-gearbox-limited-edition-2026-07-03/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "15h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-03T12:36:00.000Z",
       "title": "Tesla Teases Some ‘Cool News’ —the Stock Needs It",
       "body": "Tesla Teases Some ‘Cool News’ —the Stock Needs It Barron's",
@@ -147,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-03T11:06:31.000Z",
       "title": "Europe’s dilemma over Chinese car plants",
       "body": "Europe’s dilemma over Chinese car plants Financial Times",
@@ -160,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "17h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-03T11:00:01.000Z",
       "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
       "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
@@ -173,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-03T11:00:01.000Z",
       "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
       "body": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push CNBC",
@@ -186,20 +173,20 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "22h ago",
-      "pubDate": "2026-07-03T05:27:00.000Z",
-      "title": "Chinese robot maker Unitree wins approval for $619 million Shanghai IPO",
-      "body": "Chinese robot maker Unitree wins approval for $619 million Shanghai IPO Reuters",
+      "time": "20h ago",
+      "pubDate": "2026-07-03T10:37:49.000Z",
+      "title": "As America turns 250, museums and parks fight to preserve the country’s troubled history",
+      "body": "As America turns 250, museums and parks fight to preserve the country’s troubled history Reuters",
       "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.reuters.com/world/asia-pacific/chinese-robot-maker-unitree-wins-approval-619-million-shanghai-ipo-2026-07-03/"
+      "href": "https://www.reuters.com/legal/government/america-turns-250-museums-parks-fight-preserve-countrys-troubled-history-2026-07-03/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-03T05:03:50.000Z",
       "title": "Print Edition | Wall Street Journal",
       "body": "Print Edition | Wall Street Journal WSJ",
@@ -208,19 +195,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/print-edition/20260703/business-and-finance"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
-      "pubDate": "2026-07-03T04:12:07.000Z",
-      "title": "Space and Astronomy",
-      "body": "Space and Astronomy The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/section/science/space"
     },
     {
       "category": "musk",
@@ -247,6 +221,32 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/finance/commodities-futures/gold-rises-after-cooler-than-expected-u-s-jobs-report-cabe1bf3?mod"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
+      "pubDate": "2026-07-03T00:31:00.000Z",
+      "title": "Nikkei Falls 1.0%, Dragged by Electronics, Tech Stocks",
+      "body": "Nikkei Falls 1.0%, Dragged by Electronics, Tech Stocks WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-electronics-tech-stock-fc233590?mod"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
+      "pubDate": "2026-07-02T23:28:29.000Z",
+      "title": "BWX Awarded $1.5 Billion Contract by Department of Energy",
+      "body": "BWX Awarded $1.5 Billion Contract by Department of Energy WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/articles/energy-department-awards-bwx-1-5-billion-contract-f75fce28?mod"
     },
     {
       "category": "stock",
