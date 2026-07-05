@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-07-05 09:13 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-05 11:38 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "39m ago",
+      "pubDate": "2026-07-05T11:00:14.000Z",
+      "title": "Dr. Daniel Sutter: Elon Musk’s trillion dollars",
+      "body": "Dr. Daniel Sutter: Elon Musk’s trillion dollars Yellowhammer News",
+      "sourceName": "Yellowhammer News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://yellowhammernews.com/dr-daniel-sutter-elon-musks-trillion-dollars/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-05T09:19:54.000Z",
+      "title": "Elon Musk lost his trillionaire status as SpaceX stock sank back to Earth",
+      "body": "Elon Musk lost his trillionaire status as SpaceX stock sank back to Earth qz.com",
+      "sourceName": "qz.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://qz.com/elon-musk-trillionaire-spacex-stock-decline-062426"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-05T09:16:39.000Z",
+      "title": "Elon Musk Warns Tesla Optimus Robot Production Will Be Slow",
+      "body": "Elon Musk Warns Tesla Optimus Robot Production Will Be Slow Daily Beirut",
+      "sourceName": "Daily Beirut",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://dailybeirut.com/en/technology-and-science/elon-musk-outlines-new-production-approach-for-teslas-optimus-robot/"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "11m ago",
+      "time": "3h ago",
       "pubDate": "2026-07-05T09:03:00.000Z",
       "title": "Tesla’s $1.4 trillion valuation rests on what happens next in one city",
       "body": "Tesla’s $1.4 trillion valuation rests on what happens next in one city thestreet.com",
@@ -15,48 +54,9 @@
       "href": "https://www.thestreet.com/automotive/teslas-1-4-trillion-valuation-rests-on-what-happens-next-in-one-city"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-05T07:41:15.000Z",
-      "title": "Tesla Employees Can Now Spend Only Rs 80,000/Month On AI, Not More Than That",
-      "body": "Tesla Employees Can Now Spend Only Rs 80,000/Month On AI, Not More Than That Trak.in",
-      "sourceName": "Trak.in",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://trak.in/stories/tesla-employees-can-now-spend-only-rs-80000-month-on-ai-not-more-than-that/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-07-05T06:32:28.000Z",
-      "title": "Tesla’s driverless taxis are in Miami — nobody in the front seat",
-      "body": "Tesla’s driverless taxis are in Miami — nobody in the front seat Martin Cid Magazine",
-      "sourceName": "Martin Cid Magazine",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.martincid.com/technology-sv/tesla-robotaxi-miami-no-driver/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-05T06:16:00.000Z",
-      "title": "As riding costs hurt, Tesla tells employees: You cannot spend more than $200 on…",
-      "body": "As riding costs hurt, Tesla tells employees: You cannot spend more than $200 on… The Times of India",
-      "sourceName": "The Times of India",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://timesofindia.indiatimes.com/technology/tech-news/as-riding-costs-hurt-tesla-tells-employees-you-cannot-spend-more-than-200-on/articleshow/132191659.cms"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-04T17:30:00.000Z",
       "title": "Tesla Expands Robotaxi Service To Small Section Of Miami",
       "body": "Tesla Expands Robotaxi Service To Small Section Of Miami Engadget",
@@ -69,20 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-07-04T16:12:24.000Z",
-      "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
-      "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/texas-man-charged-in-fatal-tesla-crash-where-he-blamed-autopilot/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-04T15:47:31.000Z",
       "title": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home",
       "body": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home Engadget",
@@ -91,19 +78,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.engadget.com/2207957/tesla-driver-charged-manslaughter-texas-crash-killed-woman-in-home/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "21h ago",
-      "pubDate": "2026-07-04T12:20:25.000Z",
-      "title": "Tesla Semi involved in first known fatal crash in Nevada",
-      "body": "Tesla Semi involved in first known fatal crash in Nevada Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-semi-involved-first-known-fatal-crash-nevada/"
     },
     {
       "category": "fsd",
@@ -147,7 +121,20 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
+      "time": "3d ago",
+      "pubDate": "2026-07-02T22:21:35.000Z",
+      "title": "Tesla driver charged with manslaughter over crash into Texas home",
+      "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3d ago",
       "pubDate": "2026-07-02T22:21:35.000Z",
       "title": "Tesla driver charged with manslaughter over crash into Texas home",
       "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
@@ -210,6 +197,32 @@
       "href": "https://www.reuters.com/legal/litigation/us-closes-2022-probe-into-695000-tesla-vehicles-over-unexpected-braking-2026-07-02/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3d ago",
+      "pubDate": "2026-07-02T17:15:20.000Z",
+      "title": "U.S. closes 2022 probe into 695,000 Tesla vehicles over unexpected braking",
+      "body": "U.S. closes 2022 probe into 695,000 Tesla vehicles over unexpected braking Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/us-closes-2022-probe-into-695000-tesla-vehicles-over-unexpected-braking-2026-07-02/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3d ago",
+      "pubDate": "2026-07-02T17:03:56.000Z",
+      "title": "Stocks making the biggest moves midday: Rivian, Tesla, Sandisk, Blue Owl, AeroVironment & more",
+      "body": "Stocks making the biggest moves midday: Rivian, Tesla, Sandisk, Blue Owl, AeroVironment & more CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/02/stocks-making-the-biggest-moves-midday-rivn-tsla-sndk-owl-avav.html"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "3d ago",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "8d ago",
-      "pubDate": "2026-06-27T09:30:00.000Z",
-      "title": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision",
-      "body": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2"
     }
   ]
 }

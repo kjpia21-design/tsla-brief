@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-05 09:13 UTC · 누적 531건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-05 11:38 UTC · 누적 531건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "fsd",
@@ -27,6 +27,33 @@
       "hot": 6
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "20m ago",
+      "pubDate": "2026-07-04T17:30:00.000Z",
+      "title": "테슬라 로보택시 마이애미, <em>안전요원 없이 첫날부터</em> 무인 운행 시작",
+      "hotShort": "마이애미 로보택시, <em>첫날부터 안전요원 없이</em>",
+      "body": "테슬라가 마이애미에서 로보택시를 안전요원 없이 첫날부터 완전 무인으로 서비스 개시했다 — 오스틴이 안전요원 배치 이후 몇 달 만에 무감독으로 전환했던 것과 달리, 신규 도시에서 곧바로 무감독 운행에 나선 것은 처음이다. 좁은 지오펜스(약 10~14제곱마일, 서·중부 마이애미)는 유지되지만, 스케일업 속도에 대한 자신감을 보여주는 신호다.",
+      "sourceName": "Engadget",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-miami-launch-2026-07-03",
+      "summary": "마이애미가 텍사스·캘리포니아에 이은 테슬라 로보택시의 세 번째 진출 주(州)가 된 가운데, 이번 서비스에서 가장 주목할 대목은 지오펜스 크기가 아니라 '운전석이 비어 있다'는 점이다.\n\nEngadget·Electrek 등 복수 매체에 따르면 마이애미 로보택시는 서비스 개시 첫날부터 운전석·조수석에 안전요원을 두지 않는 완전 무감독(unsupervised) 방식으로 운행됐다. 테슬라 AI소프트웨어 부사장 아쇽 엘루스와미도 X를 통해 이를 직접 확인했다.\n\n이는 오스틴의 초기 전개 방식과 대비된다. 오스틴은 서비스 개시 당시 운전석 또는 조수석에 안전요원을 배치했고, 무감독 전환까지 수개월이 걸렸다. 반면 마이애미는 진출 첫날부터 곧바로 무감독으로 시작해, 테슬라가 신규 지역 확장 시 안전 검증 절차를 단축하고 있음을 시사한다.\n\n다만 서비스 지역 자체는 여전히 좁다 — 마이애미 국제공항을 포함한 서·중부 일대 약 10~14제곱마일에 그친다. 주주 입장에서는 '무감독 첫날 시작'이 스케일업 자신감을 보여주는 긍정적 신호인 동시에, 실제 사업성은 여전히 지오펜스 확대 속도와 규제 대응에 달려 있다는 점을 함께 봐야 한다.",
+      "title_en": "Tesla's Miami Robotaxi launches <em>fully unsupervised from day one</em>",
+      "hotShort_en": "Miami Robotaxi <em>skips the safety monitor</em>",
+      "body_en": "Tesla's Miami Robotaxi launched fully unsupervised from day one — no safety monitor in either seat — unlike Austin, where the company took months after launch to drop safety operators. The geofence stays narrow (roughly 10-14 sq mi across west-central Miami), but the day-one confidence signals Tesla is moving faster on new-market rollouts.",
+      "summary_en": "With Miami becoming Tesla's third state for Robotaxi after Texas and California, the bigger story isn't the size of the geofence — it's that the driver's seat is empty from day one.\n\nAccording to Engadget, Electrek and other outlets, Miami Robotaxi rides launched with no safety monitor in the driver's or front passenger's seat from the very first day of service. Tesla AI software VP Ashok Elluswamy confirmed the unsupervised setup directly on X.\n\nThat's a contrast with Austin, where Tesla initially staffed safety operators in the vehicle at launch and took months to move to fully unsupervised rides. Miami skipping that phase-in suggests Tesla is compressing its safety-validation timeline for new-market expansion.\n\nThe service area itself remains small — about 10 to 14 square miles across western and central Miami, including Miami International Airport. For shareholders, day-one unsupervised operation is a confidence signal for the scale-up narrative, but the real commercial case still hinges on how fast the geofence grows and how regulators respond.",
+      "href": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Engadget",
+        "Electrek",
+        "Reuters",
+        "Teslarati"
+      ],
+      "sentiment": "neutral",
+      "hot": 7
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1d ago",
@@ -45,32 +72,6 @@
       "hot": 4,
       "summary_en": "Elon Musk recently offered a reality check on X about how fast Optimus production will actually ramp. After a user floated a \"4D chess\" theory — suggesting Tesla delayed its Optimus V3 reveal because production was secretly running ahead of schedule and Tesla wanted to keep rivals from copying the design — Musk shot the idea down directly.\n\n\"No, Optimus production will be extremely slow at first, as everything is new. This is not like making a car,\" Musk wrote. Optimus is built from roughly 10,000 unique parts, and getting the assembly process right across that many components creates numerous potential bottlenecks.\n\nThe comment came just days after Tesla confirmed (July 1) that its Fremont Model S/X lines had been converted into a dedicated Optimus Gen 3 production line. High-volume manufacturing is still expected to come later, once Tesla's dedicated Optimus factory under construction at Giga Texas ramps up starting around summer 2027.\n\nFor shareholders, this reads as expectation management. Musk had publicly targeted roughly 10,000 Optimus units built in 2025 — a target Tesla ultimately missed. By flagging a slow start now, he's effectively acknowledging that the early production ramp will take longer than some bulls hoped, a reminder to recalibrate timelines for one of the two pillars — alongside Robotaxi — underpinning Tesla's long-term valuation story.",
       "href": "https://www.teslarati.com/elon-musk-outlines-tesla-optimus-production-expectations/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20m ago",
-      "pubDate": "2026-07-03T14:02:11.000Z",
-      "title": "테슬라 로보택시 <em>마이애미 진출</em> — 세 번째 주(州), 좁은 지오펜스로 시작",
-      "hotShort": "테슬라 로보택시 <em>마이애미 진출</em> — 3번째 주",
-      "body": "테슬라가 로보택시 서비스 지역을 플로리다 마이애미로 확장하며 지오펜스를 공개했다 — 마이애미 국제공항(MIA)을 포함한 서·중부 일대 약 10~14제곱마일의 좁은 구역(주로 West Miami, Doral·Sweetwater 방향)으로, 텍사스(오스틴·댈러스·휴스턴)와 캘리포니아(베이 지역)에 이어 플로리다가 세 번째 주가 됐다. 다만 오스틴 등 기존 도시조차 여전히 좁은 지오펜스에 머물러, 새 도시 추가보다 각 도시 내 실제 확대(스케일업)가 관건이라는 지적이 나온다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-miami-launch-2026-07-03",
-      "summary": "테슬라가 무인 로보택시 서비스 지역을 플로리다 마이애미로 넓혔다. 지난해 여름 오스틴에서 서비스를 시작한 이래 플로리다는 텍사스·캘리포니아에 이은 세 번째 진출 주(州)로, 로보택시 네트워크의 지리적 확장이 이어지고 있음을 보여준다.\n\nElectrek이 공개한 마이애미 지오펜스는 대도시권의 극히 일부만 덮는다 — 주로 West Miami 일대와 Doral·Sweetwater 방향으로 뻗은 좁은 구역이며, 마이애미 국제공항(MIA)을 포함해 대략 10~14제곱마일 수준으로 추산된다. Palmetto 고속도로(SR 826), Tamiami Trail(US 41) 등 주요 간선이 커버 범위에 들어간다.\n\n이번 확장의 핵심 쟁점은 '넓이'보다 '깊이'다. 테슬라는 오스틴·댈러스·휴스턴 등 텍사스 도시와 베이 지역으로 로보택시를 잇달아 확대해 왔지만, 각 도시의 실제 운영 구역은 여전히 좁은 지오펜스에 묶여 있다. Electrek은 마이애미 진출을 두고 '텍사스조차 아직 확장하지 못한 상태에서 새 도시를 지도에 추가한 것'이라며, 도시 수 늘리기보다 각 지오펜스를 실질적으로 키우는 스케일업이 관건임을 지적했다.\n\n주주 입장에서는 로보택시 서사의 방향성을 가늠할 신호다. 플로리다라는 새 주(州)로의 진입 자체는 자율주행 상용화 확장의 긍정적 이정표지만, 좁은 초기 지오펜스는 아직 서비스가 시범 단계에 가깝다는 방증이기도 하다. 실질적 사업성은 지오펜스 확대 속도와 규제 승인, 무인 운행 범위 확대에서 확인될 전망이다.",
-      "title_en": "Tesla maps a <em>tiny Robotaxi zone in Miami</em> as it still struggles to scale Texas",
-      "hotShort_en": "Tesla Robotaxi <em>expands to Miami</em>, its third state",
-      "body_en": "Tesla has extended its Robotaxi service area to Miami, Florida, publishing a geofence that covers only a small slice of the metro — roughly 10-14 square miles across western and central Miami (mostly West Miami, stretching toward Doral and Sweetwater) and including Miami International Airport. Florida becomes the third state to get Robotaxi, after Texas (Austin, Dallas, Houston) and California (the Bay Area). But with even Austin still boxed into a tight geofence, the real question is less about adding cities than whether Tesla can actually scale coverage within them.",
-      "summary_en": "Tesla has expanded its driverless Robotaxi service to Miami, Florida. Since first launching in Austin last summer, Florida becomes the third state Tesla has brought Robotaxi to, after Texas and California — evidence the network's geographic footprint keeps widening.\n\nThe Miami geofence Electrek published covers only a fraction of the metro — mostly the West Miami area with a strip reaching toward Doral and Sweetwater, spanning an estimated 10-14 square miles and including Miami International Airport (MIA). Major arteries such as the Palmetto Expressway (SR 826) and Tamiami Trail (US 41) fall within the coverage area.\n\nThe crux of this expansion is depth, not breadth. Tesla has rolled Robotaxi out across Texas cities — Austin, Dallas, Houston — and the Bay Area, yet each city's actual operating zone remains locked into a narrow geofence. Electrek framed the Miami move as adding another city to the map while Tesla still hasn't scaled Texas, arguing the real challenge is meaningfully enlarging each geofence rather than piling up city count.\n\nFor shareholders, it's a signal about the trajectory of the Robotaxi story. Entering a new state like Florida is a positive milestone for autonomy commercialization, but the small initial geofence also underscores that the service is still closer to a pilot phase. The real commercial payoff will show up in how fast the geofences grow, how quickly regulators sign off, and how far driverless operation expands.",
-      "href": "https://electrek.co/2026/07/03/tesla-robotaxi-miami-service-area-map/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "Reuters",
-        "Teslarati"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     },
     {
       "category": "musk",
