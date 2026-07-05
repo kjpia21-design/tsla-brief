@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-05 03:07 UTC 자동 갱신 · 최신순",
+  "asOf": "2026-07-05 07:05 UTC 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-05T02:33:48.000Z",
+      "title": "텍사스 주택 충돌사망 유가족, 테슬라 상대 <em>손해배상 소송 제기</em> — 운전자는 별도 과실치사 기소",
+      "hotShort": "케이티 사망사고 유족, <em>테슬라 상대 소송</em> 제기",
+      "body": "6월 19일 텍사스 케이티 주택 충돌사망 사고와 관련해 유가족이 해리스 카운티 법원에 테슬라를 상대로 '설계 결함'·'경고 미흡'을 주장하며 100만 달러 이상의 손해배상 소송을 제기했다 — 운전자 마이클 버틀러의 과실치사 형사기소(7월 6일 기소인부절차)에 이어 나온 민사소송으로, 테슬라 측의 '가속페달 100%·시속 73마일 수동주행' 반박과 맞물려 FSD 책임 공방이 형사·민사 양쪽으로 확대됐다.",
+      "sourceName": "NBC News",
+      "sourceLabel": "press",
+      "slug": "fsd-katy-crash-driver-manslaughter-charge-2026-07-02",
+      "summary": "텍사스 케이티(휴스턴 인근) 주택가에서 발생한 테슬라 충돌 사망 사고를 둘러싼 법적 공방이 형사에 이어 민사로 확대됐다. 지난 6월 19일 밤 8시경 마이클 버틀러가 몰던 테슬라 모델3가 자택에 있던 76세 마르타 아빌라의 벽돌집을 덮쳤고, 아빌라는 인근 병원으로 이송됐으나 사망 판정을 받았다.\n\n숨진 아빌라의 딸 제니퍼 바버와 사위 저스틴 바버는 해리스 카운티 지방법원에 테슬라와 운전자 버틀러를 상대로 소송을 제기했다. 소장은 테슬라 차량의 '설계 결함(design defect)'과 '경고 미흡(failure to warn)'을 주장하며 테슬라와 버틀러 양측의 과실을 함께 지목했고, 100만 달러 이상의 손해배상을 청구했다.\n\n버틀러는 보안관실에 사고 당시 '자동화 주행보조 시스템'이 작동 중이었다고 진술했다고 알려졌다. 그러나 테슬라가 제공한 차량 데이터는 이와 다른 그림을 보여준다 — 버틀러가 충돌 직전 가속페달을 100%까지 밟아 시속 73마일까지 속도를 올렸으며, 이는 운전자가 자율주행 기능을 직접 해제(오버라이드)한 결과라는 게 테슬라의 반박이다. 버틀러는 이 사고와 관련해 과실치사 혐의로도 기소됐으며 기소인부절차는 7월 6일로 예정돼 있다.\n\n주주 입장에서 이번 민사소송은 형사 기소에 이어 FSD·오토파일럿 책임 공방이 법정에서 다각도로 다뤄지게 됐음을 의미한다. 테슬라는 이미 구체적 주행 데이터로 운전자 과실을 주장해온 만큼, 이번 소송에서도 동일한 데이터가 핵심 방어 논리로 쓰일 전망이다. 다만 '설계 결함' 주장이 법정에서 받아들여질지, NHTSA·NTSB 연방조사 결과와 어떻게 맞물릴지는 이후 소송 진행 과정에서 가려질 전망이다.",
+      "title_en": "Family of Katy crash victim <em>sues Tesla</em> over fatal home crash — separate from driver's manslaughter charge",
+      "hotShort_en": "Katy crash victim's family <em>sues Tesla</em>",
+      "body_en": "The family of Martha Ávila, killed when a Tesla crashed into her Katy, Texas home on June 19, has filed a civil lawsuit against Tesla and driver Michael Butler in Harris County District Court alleging a design defect and failure to warn, seeking over $1 million in damages — a case running alongside Butler's separate manslaughter charge (arraignment July 6), adding a new front to the FSD liability dispute alongside Tesla's rebuttal that Butler manually floored the accelerator to 100% at 73 mph.",
+      "summary_en": "The legal fallout from the fatal Tesla crash in Katy, Texas, near Houston, has expanded from criminal to civil court. Around 8 p.m. on June 19, a Tesla Model 3 driven by Michael Butler crashed into the brick home of 76-year-old Martha Ávila, who was airlifted to a hospital and later pronounced dead.\n\nÁvila's daughter, Jennifer Barbour, and her husband, Justin Barbour, have now filed suit against Tesla and Butler in Harris County District Court. The complaint alleges a design defect and failure to warn on Tesla's part, names both Tesla and Butler as negligent, and seeks more than $1 million in damages.\n\nButler reportedly told the sheriff's office that an automated driving assistance system was engaged at the time of the crash. Tesla's own vehicle data tells a different story, according to the company: it shows Butler pressed the accelerator to 100% and reached 73 mph just before impact, which Tesla says amounts to the driver manually overriding the self-driving feature. Butler is separately charged with manslaughter over the crash, with arraignment scheduled for July 6.\n\nFor shareholders, the civil suit means the FSD/Autopilot liability dispute is now being litigated on two fronts — criminal and civil. Tesla has already leaned on specific driving telemetry to argue driver fault, and that same data is likely to anchor its defense in the civil case as well. Whether the design-defect claim gains traction in court, and how it interacts with the ongoing NHTSA/NTSB federal investigations, will play out as the litigation proceeds.",
+      "href": "https://www.nbcnews.com/news/us-news/fatal-texas-tesla-automated-driving-assistance-crash-lawsuit-rcna351485",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "NBC News",
+        "carcomplaints.com"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -97,33 +122,6 @@
         "Forbes"
       ],
       "sentiment": "bull",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-07-02T18:21:00.000Z",
-      "title": "텍사스 주택 충돌사망 테슬라 운전자 <em>과실치사 혐의로 기소</em> — 테슬라는 \"수동 주행\" 반박",
-      "hotShort": "텍사스 사망사고 운전자 <em>과실치사 혐의 기소</em>",
-      "body": "지난 6월 19일 텍사스 케이티에서 자택을 덮쳐 76세 여성을 숨지게 한 테슬라 운전자 마이클 버틀러가 과실치사 혐의로 체포·기소됐다(보석금 15만 달러, 7월 6일 기소인부절차) — 버틀러는 사고 당시 '자율주행 모드'였다고 주장했지만, 테슬라 측은 그가 가속페달을 100%까지 밟아 시속 73마일로 수동 주행 중이었다며 반박했다. NHTSA·NTSB 이중 연방조사가 진행 중인 가운데 나온 형사기소로, FSD 책임론 공방의 새 국면이다.",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "fsd-katy-crash-driver-manslaughter-charge-2026-07-02",
-      "summary": "지난 6월 19일 텍사스 케이티(휴스턴 인근)의 한 주택가에서 발생한 테슬라 충돌 사망 사고와 관련해, 차량을 운전하던 마이클 버틀러가 과실치사 혐의로 체포됐다고 WSJ·현지 언론이 2일 보도했다. 당시 사고로 자택에 있던 76세 여성 마르타 아빌라가 숨졌다. 버틀러는 해리스 카운티 구치소에 수감됐으며 보석금은 15만 달러, 기소인부절차는 7월 6일로 예정됐다.\n\n이번 사건의 쟁점은 자율주행 시스템의 관여 여부다. 버틀러 측은 사고 당시 차량이 자율주행 모드로 주행 중이었다고 주장했으나, 테슬라는 이를 정면으로 반박했다. 테슬라 AI 담당 임원은 사고 직전 운전자가 가속페달을 100%까지 수동으로 밟아 주거지역에서 시속 73마일까지 가속했으며, 이는 자율주행 기능을 운전자가 직접 해제(오버라이드)한 결과라고 밝혔다.\n\n이 사고는 지난 6월 30일 NHTSA와 NTSB가 이례적으로 동시에 연방 조사에 착수한 바로 그 사건이다. 형사 기소는 별개의 법적 절차이지만, 사고 원인을 둘러싼 '자율주행 결함이냐 운전자 과실이냐'는 공방에서 테슬라 측 주장에 힘을 싣는 전개로 해석될 여지가 있다.\n\n주주 입장에서는 결과가 엇갈린다. 자택을 덮쳐 인명을 앗아간 사고 자체는 여전히 부정적 헤드라인이지만, 운전자에게 형사 책임이 물어지고 테슬라가 구체적 주행 데이터(가속페달 100%·시속 73마일)로 반박에 나섰다는 점은 향후 FSD 관련 소송·규제 리스크에서 테슬라에 유리한 근거로 작용할 수 있다. 다만 최종 사고 원인은 진행 중인 NHTSA·NTSB 조사와 형사 재판 과정에서 가려질 전망이다.",
-      "title_en": "Driver in fatal Texas home crash <em>charged with manslaughter</em> — Tesla disputes self-driving claim",
-      "hotShort_en": "Texas crash driver <em>charged with manslaughter</em>",
-      "body_en": "Michael Butler, the driver whose Tesla struck a Katy, Texas home on June 19 and killed 76-year-old Martha Ávila, has been arrested and charged with manslaughter (held on $150,000 bond, arraignment set for July 6). Butler claims the car was in self-driving mode, but Tesla disputes that, saying he manually floored the accelerator to 100% and hit 73 mph in a residential area — a fresh twist in the FSD liability dispute as NHTSA and NTSB run parallel federal probes.",
-      "summary_en": "Michael Butler, the driver of the Tesla involved in the fatal June 19 crash into a home in Katy, Texas, near Houston, has been arrested and charged with manslaughter, the Wall Street Journal and local outlets reported July 2. The crash killed 76-year-old Martha Ávila, who was inside the home. Butler is being held at the Harris County Jail on $150,000 bond, with arraignment scheduled for July 6.\n\nAt the center of the case is whether the self-driving system was in control. Butler has claimed the car was in self-driving mode at the time of the crash, but Tesla directly disputes that account. Tesla's head of AI said the driver manually overrode the self-driving feature by pressing the accelerator to 100%, reaching 73 mph in a residential area just before impact.\n\nThis is the same crash that prompted NHTSA and NTSB to launch a rare joint federal investigation on June 30. The criminal charge is a separate legal process, but it adds a data point — Tesla's specific driving-telemetry rebuttal — to the broader dispute over whether the crash stemmed from an FSD defect or driver conduct.\n\nFor shareholders, the news cuts both ways. A fatal crash into a home remains a grim headline regardless of cause, but a criminal charge against the driver combined with Tesla's detailed telemetry rebuttal (accelerator at 100%, 73 mph) could support the company's position in the ongoing federal investigations and any related litigation. The ultimate determination of cause will depend on how the NHTSA/NTSB probes and the criminal case play out.",
-      "href": "https://www.wsj.com/business/autos/driver-charged-with-manslaughter-after-tesla-crashed-into-texas-home-killing-woman-inside-65e17279",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "WSJ",
-        "ABC News",
-        "ABC13 Houston",
-        "Fox26 Houston"
-      ],
-      "sentiment": "neutral",
       "hot": 6
     },
     {
