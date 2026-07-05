@@ -1,6 +1,51 @@
 {
-  "asOf": "2026-07-05 19:06 UTC 자동 갱신 · 최신순",
+  "asOf": "2026-07-05 21:20 UTC 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "few minutes ago",
+      "pubDate": "2026-07-05T19:39:00.000Z",
+      "title": "테슬라·메타, 나란히 시총 <em>$1.48조로 수렴</em> — 도달 이유는 정반대",
+      "hotShort": "테슬라·메타 시총 <em>$1.48조로 동률</em> — 속내는 딴판",
+      "body": "테슬라와 메타가 지난 목요일(2일) 나란히 시가총액 약 $1.48조로 마감했다 — 메타는 AI 지출 부담 우려로 고점 대비 27% 하락(당일 -4.9%), 테슬라는 2분기 인도 서프라이즈(+25% YoY) 발표 당일에도 고점 대비 21% 하락(당일 -7.5%)해 같은 값에 도달했다. 다만 최근 12개월 영업이익률은 메타 41% 대 테슬라 4.2%로 격차가 커, 같은 시총이라도 수익성 밸류에이션 부담은 테슬라 쪽이 훨씬 크다.",
+      "sourceName": "The Motley Fool",
+      "sourceLabel": "press",
+      "slug": "stock-tesla-meta-market-cap-parity-2026-07-05",
+      "summary": "지난 목요일(7월 2일) 정규장이 끝났을 때, 서로 무관해 보이던 두 빅테크가 우연히 같은 숫자에 도달했다. 테슬라와 메타 플랫폼스가 나란히 시가총액 약 $1.48조로 장을 마친 것이다 — 둘 다 '고점 대비 하락'해서 도달한 값이라는 공통점은 있지만, 그 배경은 전혀 달랐다.\n\n메타는 52주 고점 대비 약 27% 낮은 수준까지 밀려났고, 이날 하루에만 4.9% 하락했다. AI 투자 확대 계획에 대한 투자자들의 우려, 그리고 챗봇·AI 에이전트가 핵심 광고 사업에 미칠 영향에 대한 불안감이 배경으로 지목된다.\n\n테슬라 역시 고점 대비 약 21% 낮은 수준에서 같은 시총에 도달했는데, 공교롭게도 이날은 테슬라가 2분기 인도량이 컨센서스를 18% 웃도는 48만126대(전년동기 대비 +25%)를 기록했다고 발표한 날이었다. 호실적 발표에도 주가는 오히려 7.49% 급락해 1년 내 최악의 하루를 기록했다.\n\n같은 시총이라도 내용은 판이하다. 메타는 최근 분기 매출이 전년 대비 33% 늘었고 영업이익률은 41%에 달한다. 반면 테슬라는 매출 성장률이 16%에 그쳤고 영업이익률은 4.2%, 최근 12개월 주당순이익(EPS)은 단 $1.10에 불과하다. 결국 테슬라의 $1.48조 밸류에이션은 현재 이익이 아니라 로보택시·옵티머스 같은 미래 성장 스토리에 대한 시장의 기대치가 훨씬 크게 반영된 결과라는 해석이 나온다.",
+      "title_en": "Tesla and Meta <em>converge at $1.48T market cap</em> — for opposite reasons",
+      "hotShort_en": "Tesla, Meta <em>tie at $1.48T</em> market cap",
+      "body_en": "Tesla and Meta both closed last Thursday (July 2) worth about $1.48 trillion — but got there in opposite ways. Meta fell 4.9% that day and sits about 27% below its 52-week high on worries over ballooning AI spending. Tesla, despite reporting a Q2 delivery beat (+25% YoY) that same day, still dropped 7.5% and sits about 21% below its high. The two companies' profitability tells an even starker story: Meta's trailing operating margin is 41% versus Tesla's 4.2%.",
+      "summary_en": "When the closing bell rang last Thursday, July 2, two otherwise unrelated tech giants landed on the exact same number. Tesla and Meta Platforms both finished the session worth roughly $1.48 trillion — both got there by falling from their highs, but for very different reasons.\n\nMeta shares sit about 27% below their 52-week high, including a 4.9% slide on Thursday alone, as investors fret over the company's swelling AI spending plans and what chatbots and AI agents could mean for its core advertising business.\n\nTesla arrived at the same market cap from about 21% below its own high — on the very day it reported second-quarter deliveries of 480,126 vehicles, up 25% year over year and 18% above its own consensus. Despite the beat, the stock fell 7.49% that day, its worst single session in nearly a year.\n\nThe same market cap masks very different fundamentals. Meta grew revenue 33% year over year last quarter with a 41% operating margin. Tesla's revenue grew just 16% with a 4.2% operating margin, and its trailing-12-month EPS sits at only $1.10. The takeaway: Tesla's $1.48 trillion valuation rests far less on current profits than on the market's expectations for future growth engines like Robotaxi and Optimus.",
+      "href": "https://www.fool.com/investing/2026/07/05/meta-and-tesla-are-suddenly-worth-the-same-148-tri/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "The Motley Fool",
+        "The Globe and Mail"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "few minutes ago",
+      "pubDate": "2026-07-05T17:37:00.000Z",
+      "title": "리비안 CEO 스캐린지, <em>테슬라 인수설에 선</em> 그어 — \"차라리 안 팔겠다\"",
+      "hotShort": "리비안 CEO, <em>테슬라 인수설</em>에 \"안 팔겠다\"",
+      "body": "리비안 CEO RJ 스캐린지가 '크리스 에반스 쇼' 인터뷰에서 일론 머스크·테슬라의 리비안 인수설에 대해 \"차라리 안 팔겠다\"고 선을 그었다 — 스페이스X IPO 이후 머스크의 '트릴리어네어' 등극이 화제가 되며 재점화된 M&A 추측을 스캐린지가 3개월 새 두 번째로 직접 진화한 것으로, R2 양산이라는 리비안의 다음 승부처를 앞둔 시점에 나온 발언이다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "musk-scaringe-rejects-tesla-rivian-buyout-2026-07-05",
+      "summary": "'크리스 에반스 쇼' 진행자는 스캐린지에게 다소 직설적인 질문을 던졌다 — 일론 머스크가 지난달 스페이스X IPO로 세계 최초의 '트릴리어네어(자산 1조 달러대 부호)'로 등극한 마당에, 왜 그냥 리비안을 사버리지 않느냐는 것이었다. 청취자들 사이에 도는 테슬라의 리비안 인수설을 정면으로 겨냥한 질문이었다.\n\n스캐린지는 매각 가능성에 명확히 선을 그었다. 그는 리비안이 \"한동안 막대한 돈을 쏟아붓고 손실을 감수하며 규모를 키우기로 하고 뛰어든\" 회사라며, \"이제 R2 출시라는 중대 기로에 서 있다\"고 답했다. 실제로 리비안의 보급형 SUV R2는 지난 6월 9일 첫 일반 고객 인도를 시작한 상태다.\n\n이번이 스캐린지가 인수설을 직접 반박한 첫 사례는 아니다. 그는 지난 3월에도 폭스바겐의 리비안 인수 가능성을 묻는 유사한 질문에 비슷한 취지로 선을 그은 바 있다 — 리비안이 3개월 새 두 번째로 대형 완성차 업체의 M&A 표적으로 거론된 셈이다.\n\n주주 입장에서는 테슬라의 실제 M&A 행보라기보다는, 머스크의 트릴리어네어 지위가 만들어낸 시장의 추측성 서사에 가깝다. 다만 테슬라의 경쟁사인 리비안이 반복적으로 인수설의 대상이 된다는 점 자체가, 전기차 업계 재편 기대감이 여전히 시장에 남아 있음을 보여준다.",
+      "title_en": "Rivian CEO Scaringe shuts down <em>Tesla buyout talk</em> — \"I'd prefer not to\"",
+      "hotShort_en": "Rivian CEO <em>rejects Tesla buyout</em> chatter",
+      "body_en": "Rivian CEO RJ Scaringe pushed back on speculation that Elon Musk's Tesla could acquire Rivian, telling The Chris Evans Show he'd \"prefer not\" to sell — the second time in three months he's had to shoot down takeover talk, this time reignited by Musk's new trillionaire status after SpaceX's IPO, and coming just as Rivian gears up for its next big test: scaling R2 production.",
+      "summary_en": "The host of The Chris Evans Show put a pointed question to Scaringe: now that Elon Musk has become the world's first trillionaire following SpaceX's IPO, why wouldn't he just buy Rivian outright? It was a direct nod to takeover chatter that's been circulating among listeners.\n\nScaringe was unambiguous. Rivian, he said, \"had to go in knowing we're going to invest a ton of money and lose money for a period of time while we get ready to build scale,\" adding that the company is \"now at the precipice of launching\" the R2 — Rivian's more affordable SUV, which began deliveries to its first public customers on June 9.\n\nThis isn't the first time Scaringe has had to address takeover speculation. He similarly dismissed a comparable question about Volkswagen acquiring Rivian back in March — meaning Rivian has now been floated as an M&A target by two different major automakers in just three months.\n\nFor shareholders, this reads less like any real Tesla M&A move and more like market chatter fueled by Musk's trillionaire narrative. Still, the fact that a Tesla rival keeps surfacing as an acquisition target underscores that expectations of EV-industry consolidation haven't gone away.",
+      "href": "https://www.notateslaapp.com/news/4398/rj-scaringe-doesnt-want-tesla-to-acquire-rivian",
+      "sentiment": "neutral",
+      "hot": 3
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -2271,51 +2316,6 @@
       "href": "https://www.bloomberg.com/news/articles/2026-06-23/tesla-stockholders-bet-on-spacex-merger-as-musk-s-real-endgame",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
-      "pubDate": "2026-06-23T06:51:00.000Z",
-      "title": "로이터 — NatPower·테슬라, <em>$5B 배터리 저장</em> 계획 1단계 계약 체결",
-      "hotShort": "테슬라·NatPower, <em>$5B 배터리</em> 1단계 딜 성사",
-      "body": "로이터가 에너지 기업 NatPower와 테슬라가 총 50억 달러 배터리 저장 계획의 1단계 계약을 체결했다고 보도했다 — 테슬라 에너지 사업의 대규모 B2B 수주로, 유틸리티 규모 메가팩 수요 확장 모멘텀을 뒷받침한다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "product-natpower-tesla-5b-battery-deal-2026-06-23",
-      "summary": "로이터는 2026년 6월 23일 에너지 기업 NatPower와 테슬라가 총 50억 달러 규모 배터리 저장 계획에서 1단계 계약을 체결했다고 보도했다. '1단계'라는 표현은 이번 계약이 더 큰 단계적 프로젝트의 시작점임을 시사하며, 향후 추가 단계에서 더 많은 물량과 계약이 확정될 가능성이 있다.\n\n테슬라 에너지 사업은 가정용 파워월부터 유틸리티·상업용 대규모 배터리 시스템(메가팩)까지 아우르는 종합 에너지 솔루션으로 성장해 왔다. 재생에너지 확산과 전력망 안정화 수요가 맞물리면서 글로벌 에너지 인프라 기업들의 대규모 배터리 저장 시스템 수요가 급증하고 있으며, NatPower와 같은 에너지 기업이 테슬라를 파트너로 선택한 것은 이 흐름을 반영한다.\n\n투자자 관점에서 이번 수주는 테슬라 에너지 사업의 B2B 파이프라인 확장을 보여주는 근거다. 자동차 사업부 마진 압박이 지속되는 상황에서 대규모 에너지 저장 계약의 누적은 수익 다각화의 핵심 축으로 작동한다. $5B이라는 총 계획 규모와 단계적 실행 방식은 이번 수주가 일회성이 아닌 장기 관계의 시작일 수 있음을 시사한다.",
-      "title_en": "Reuters: NatPower and Tesla ink first phase of <em>$5B battery storage plan</em>",
-      "hotShort_en": "Tesla, NatPower ink <em>$5B battery deal</em>",
-      "body_en": "Reuters reports NatPower and Tesla have closed a deal on the first phase of a $5 billion battery storage plan — a major B2B contract win for Tesla's energy business and a signal of growing utility-scale demand for large-format battery storage systems.",
-      "summary_en": "Reuters reported on June 23, 2026 that NatPower and Tesla have signed a deal covering the first phase of a $5 billion battery storage plan. The \"first phase\" designation indicates this is the opening tranche of a larger, structured program — with additional phases, and potentially further volume commitments, expected to follow as the project progresses.\n\nTesla's energy business has grown into a comprehensive energy solutions platform spanning Powerwall (residential), Megapack (utility and commercial-scale), and solar products. Large-scale battery storage — primarily supplied through Tesla's Megapack system — has seen rapidly expanding demand from energy utilities and infrastructure providers globally, as the build-out of intermittent renewable energy sources creates acute need for grid-scale storage capacity.\n\nFor Tesla investors, large-scale B2B energy storage contracts like the NatPower deal are an important building block in the energy business growth narrative. With automotive margins under pressure from competition and pricing, the energy storage division's expanding order book represents a meaningful diversification lever. The $5 billion total plan size, combined with its phased execution structure, suggests this is the start of a longer-term partnership rather than a single transaction.",
-      "href": "https://www.reuters.com/sustainability/cop/natpower-tesla-reach-deal-first-phase-5-billion-battery-storage-plan-2026-06-23/",
-      "sentiment": "bull",
-      "hot": 7
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
-      "pubDate": "2026-06-23T06:20:00.000Z",
-      "title": "WSJ — 테슬라 유럽 월간 판매 <em>전년 대비 2배 이상 급증</em>",
-      "hotShort": "테슬라 유럽 월간 판매 <em>2배 이상 급증</em> — WSJ",
-      "body": "WSJ가 테슬라의 유럽 월간 판매가 전년 동기 대비 두 배 이상 늘었다고 보도했다. 로이터도 5월 유럽 EV 수요 전반이 강세를 기록했다고 교차 확인 — 브랜드 회복 모멘텀이 실수치로 뒷받침되고 있다.",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "stock-tesla-eu-monthly-sales-double-2026-06-23",
-      "summary": "5월 유럽 자동차 시장 데이터가 공개되면서, 테슬라의 유럽 회복세가 마침내 수치로 확인됐다. WSJ는 테슬라의 유럽 월간 판매가 전년 동기 대비 두 배 이상 급증했다고 보도했으며, 로이터 역시 같은 날 5월 유럽 EV 수요 전반이 강세를 나타냈다고 보도해 두 주요 매체의 교차 보도가 이뤄졌다.\n\n올해 초 테슬라는 유럽 일부 시장에서 브랜드 이미지 논란과 판매 부진을 겪었다. 전년 동기 대비 두 배 이상의 급증은 단순한 기저효과를 넘어 실질적인 수요 회복을 시사하며, 유럽 브랜드 위기 내러티브를 실수치로 반박하는 가장 직접적인 근거다.\n\n유럽은 테슬라 글로벌 인도량에서 중요한 비중을 차지하는 시장이다. 2분기 인도량 발표가 임박한 시점에서 유럽 강세가 확인된 것은 투자자에게 긍정적인 선행 지표가 된다. 단, 로이터는 같은 5월 데이터에서 중국 경쟁사들의 유럽 점유율도 계속 확대되고 있다고 보도한 만큼, 절대 성장과 점유율 방어를 함께 주목해야 한다.",
-      "title_en": "WSJ: Tesla's European monthly sales <em>more than double</em> year-on-year",
-      "hotShort_en": "Tesla EU sales <em>surged 2x+</em> YoY — WSJ",
-      "body_en": "WSJ reports Tesla's European monthly sales surged more than twofold year-on-year, with Reuters simultaneously confirming broad EV demand strength across Europe in May — hard data now backing the brand recovery narrative.",
-      "summary_en": "The release of May European auto registration data has produced one of the most concrete signals yet that Tesla's European recovery is accelerating. WSJ's report of a more-than-twofold year-on-year increase in monthly European sales is a sharp reversal from the early-2026 narrative of brand headwinds and softer demand in key European markets.\n\nThe data carries added weight through corroboration: Reuters reported the same day that overall EV demand powered the European car market in May. The dual confirmation from two major business publications strengthens the signal and reduces the risk of reporting noise from a single outlier source.\n\nFor shareholders focused on Q2 2026 delivery expectations, the European data is a material positive. Europe contributes meaningfully to Tesla's global delivery volumes, and a 2x-plus monthly increase would represent a substantial sequential improvement heading into the Q2 report. The European recovery narrative is now backed by hard numbers.\n\nOne note of caution: Reuters also noted that Chinese EV rivals continued to expand their European market share in May. Tesla's absolute recovery is clear; whether it is gaining or losing market share against intensifying Chinese competition will be a key question to watch in upcoming quarterly disclosures.",
-      "href": "https://www.wsj.com/business/autos/tesla-notches-over-twofold-increase-in-european-monthly-sales-f8533cdc",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "WSJ",
-        "Reuters"
-      ],
-      "sentiment": "bull",
-      "hot": 7
     }
   ]
 }
