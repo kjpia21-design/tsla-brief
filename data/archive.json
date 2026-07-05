@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-05 12:10 UTC 자동 갱신 · 최신순",
+  "asOf": "2026-07-05 19:06 UTC 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "few minutes ago",
+      "pubDate": "2026-07-05T16:36:17.000Z",
+      "title": "일론 머스크, \"미국 사랑 않으면 <em>즉각 추방</em>해야\" — 정치 발언 논란 재점화",
+      "hotShort": "머스크, \"미국 안 사랑하면 <em>즉각 추방</em>\" 발언",
+      "body": "일론 머스크가 X에서 논객 스펜서 프랫의 '미국을 사랑해도 된다'는 글에 \"미국을 사랑하지 않는 자는 배신자이며, 충성심이 다른 나라에 있는 이들은 즉각 추방해야 한다\"고 답했다 — 독립기념일 연휴 직후 애국 관련 게시물을 잇달아 올리던 중 나온 발언으로, 과거 정치 발언이 유럽 판매·브랜드 이미지 논란으로 번졌던 전례가 있어 재점화 여부가 주목된다.",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "musk-exile-comment-controversy-2026-07-05",
+      "summary": "스펜서 프랫은 최근 로스앤젤레스 시장 선거·노숙자 정책을 둘러싼 발언으로 화제를 모은 방송인 출신 논객으로, 일론 머스크가 그의 주장을 여러 차례 자신의 X 계정에서 증폭시켜 온 바 있다.\n\n지난 4일(현지시간) 프랫이 \"미국을 사랑해도 괜찮다\"는 취지의 글을 올리자, 머스크는 \"단순히 '괜찮다' 정도가 아니다 — 미국을 사랑하지 않는 자는 배신자이며 경멸받아 마땅하다. 충성심이 다른 나라에 있는 이들, 불충한 이들은 즉각 추방해야 한다\"고 답했다.\n\n이 발언은 독립기념일(7월 4일) 연휴를 전후해 머스크가 연달아 올린 친미 성향 게시물들 가운데 나왔다. 미디에이트 등 매체가 이를 즉시 보도하며 논쟁이 확산됐다.\n\n주주 입장에서는 머스크의 정치적 발언이 브랜드 이미지에 미치는 영향을 다시 주시할 대목이다. 앞서 유럽에서는 머스크의 정치 개입 논란 속에서도 6월 판매가 오히려 반등한 전례가 있어, 이번 발언이 실제 판매·주가에 미칠 영향은 아직 불확실하다. 다만 반복되는 정치 논란이 누적될 경우 브랜드 리스크로 작용할 수 있다는 점은 계속 지켜봐야 할 변수다.",
+      "title_en": "Musk says those who don't love America should be <em>\"exiled immediately\"</em> — reignites political backlash",
+      "hotShort_en": "Musk: America-haters should be <em>\"exiled immediately\"</em>",
+      "body_en": "Elon Musk responded on X to commentator Spencer Pratt's post that it's \"OK to love America,\" writing that anyone who doesn't love America \"is a traitor... and beneath contempt,\" and that the disloyal \"should be exiled immediately\" — a comment made amid a string of pro-America posts right after the July 4th holiday, reigniting scrutiny of how Musk's political statements have previously fed brand and European-sales controversy.",
+      "summary_en": "Spencer Pratt, a former reality-TV personality turned commentator, has recently drawn attention for remarks on the Los Angeles mayoral race and homelessness policy — commentary Musk has repeatedly amplified on X.\n\nAfter Pratt posted on July 4 that it's \"OK to love America,\" Musk replied: \"Not merely 'ok'. Anyone who doesn't love America is a traitor and beneath contempt. Those who don't love America, those who are disloyal, should be exiled immediately.\"\n\nThe remark came amid a series of pro-America posts Musk shared around the Independence Day holiday. Outlets including Mediaite quickly reported on the exchange, and the comment spread widely.\n\nFor shareholders, the episode is a reminder to keep watching how Musk's political statements affect brand perception. European sales have previously rebounded even amid controversy over his political involvement, so the near-term sales or stock impact of this remark is unclear. But recurring political flashpoints remain a variable worth monitoring as a potential cumulative brand risk.",
+      "href": "https://x.com/elonmusk/status/2071571936241475706",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Elon Musk (X)",
+        "Mediaite"
+      ],
+      "sentiment": "bear",
+      "hot": 3
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -2291,26 +2316,6 @@
       ],
       "sentiment": "bull",
       "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
-      "pubDate": "2026-06-23T05:40:40.000Z",
-      "title": "기가 텍사스 테스트 트랙, 사이버캡 <em>대거 포착</em> — 생산 규모 확대 신호",
-      "hotShort": "기가 텍사스 트랙에 사이버캡 <em>대거 포착</em> — 급증 신호",
-      "body": "테슬라 커뮤니티 추적 계정 Tesla Owners SV가 기가 텍사스 테스트 트랙에서 다수의 사이버캡이 트랙 전체를 가득 채운 모습을 포착했다 — 지속적인 사이버캡 생산 규모 확대의 최신 현장 확인이다.",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "fsd-cybercab-giga-texas-surge-2026-06-23",
-      "summary": "테슬라 추적 커뮤니티 계정 Tesla Owners SV가 기가 텍사스 테스트 트랙에서 다수의 사이버캡이 트랙을 가득 채우고 있는 장면을 X를 통해 포착했다. Cybercabs are taking over라는 표현으로 요약된 이번 관측은, 기가 텍사스에서 사이버캡 생산이 꾸준히 규모를 늘리고 있음을 보여주는 최신 현장 기록이다.\n\nTesla Owners SV는 드론·현장 영상과 공개 관측을 통해 기가 텍사스 현황을 지속 추적해 온 커뮤니티 모니터링 계정이다. 이번 포착은 사이버캡 전용 테스트 트랙 완공, 출고 주차장 로고 차량 목격, 10대 편대 주행 확인 등 최근 수일 간 이어진 생산 진척 신호의 연장선상에 있다.\n\n사이버캡은 테슬라의 자율주행 로보택시 전략의 핵심 차량이다. 트랙을 가득 채울 만큼의 차량이 포착된다는 것은 생산이 단순 시범 단계를 넘어 본격 규모로 진행 중임을 시사한다. 공식 출시·인도 일정은 아직 발표되지 않았으나, 지속되는 현장 관측 신호는 출시가 임박했다는 시장 기대감을 유지시키는 요소다.",
-      "title_en": "Giga Texas test track <em>awash with Cybercabs</em> — community tracker spots latest ramp surge",
-      "hotShort_en": "Giga Texas <em>awash with Cybercabs</em>",
-      "body_en": "Community tracker Tesla Owners SV spotted the Giga Texas test track packed with Cybercabs, describing the scene as the robotaxis taking over the facility — the latest on-the-ground evidence of accelerating Cybercab production at the Texas plant.",
-      "summary_en": "Tesla Owners SV, a community account that regularly monitors the Giga Texas campus through on-site observations and aerial footage, posted their latest report showing a large number of Cybercabs occupying the test track — summarizing the scene as Cybercabs taking over the facility.\n\nThe observation follows a series of escalating production signals over recent days: the near-completion of a dedicated Cybercab test track at Giga Texas, spotted delivery lot vehicles bearing Cybercab branding, and a 10-vehicle convoy running on the track. Each new observation has pointed to a consistently expanding Cybercab production footprint.\n\nThe Cybercab is central to Tesla's autonomous vehicle and robotaxi strategy. A test track densely populated with production units suggests the ramp is progressing beyond initial pilot quantities into more meaningful scale. Tesla has not yet announced official delivery timelines, but the consistent stream of on-the-ground signals from Giga Texas continues to sustain market expectations of an impending launch.",
-      "href": "https://x.com/teslaownersSV/status/2069294545830093117",
-      "sentiment": "bull",
-      "hot": 4
     }
   ]
 }

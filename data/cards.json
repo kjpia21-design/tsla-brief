@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-05 12:10 UTC 자동 갱신 · 최신순",
+  "asOf": "2026-07-05 19:06 UTC 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "few minutes ago",
+      "pubDate": "2026-07-05T16:36:17.000Z",
+      "title": "일론 머스크, \"미국 사랑 않으면 <em>즉각 추방</em>해야\" — 정치 발언 논란 재점화",
+      "hotShort": "머스크, \"미국 안 사랑하면 <em>즉각 추방</em>\" 발언",
+      "body": "일론 머스크가 X에서 논객 스펜서 프랫의 '미국을 사랑해도 된다'는 글에 \"미국을 사랑하지 않는 자는 배신자이며, 충성심이 다른 나라에 있는 이들은 즉각 추방해야 한다\"고 답했다 — 독립기념일 연휴 직후 애국 관련 게시물을 잇달아 올리던 중 나온 발언으로, 과거 정치 발언이 유럽 판매·브랜드 이미지 논란으로 번졌던 전례가 있어 재점화 여부가 주목된다.",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "musk-exile-comment-controversy-2026-07-05",
+      "summary": "스펜서 프랫은 최근 로스앤젤레스 시장 선거·노숙자 정책을 둘러싼 발언으로 화제를 모은 방송인 출신 논객으로, 일론 머스크가 그의 주장을 여러 차례 자신의 X 계정에서 증폭시켜 온 바 있다.\n\n지난 4일(현지시간) 프랫이 \"미국을 사랑해도 괜찮다\"는 취지의 글을 올리자, 머스크는 \"단순히 '괜찮다' 정도가 아니다 — 미국을 사랑하지 않는 자는 배신자이며 경멸받아 마땅하다. 충성심이 다른 나라에 있는 이들, 불충한 이들은 즉각 추방해야 한다\"고 답했다.\n\n이 발언은 독립기념일(7월 4일) 연휴를 전후해 머스크가 연달아 올린 친미 성향 게시물들 가운데 나왔다. 미디에이트 등 매체가 이를 즉시 보도하며 논쟁이 확산됐다.\n\n주주 입장에서는 머스크의 정치적 발언이 브랜드 이미지에 미치는 영향을 다시 주시할 대목이다. 앞서 유럽에서는 머스크의 정치 개입 논란 속에서도 6월 판매가 오히려 반등한 전례가 있어, 이번 발언이 실제 판매·주가에 미칠 영향은 아직 불확실하다. 다만 반복되는 정치 논란이 누적될 경우 브랜드 리스크로 작용할 수 있다는 점은 계속 지켜봐야 할 변수다.",
+      "title_en": "Musk says those who don't love America should be <em>\"exiled immediately\"</em> — reignites political backlash",
+      "hotShort_en": "Musk: America-haters should be <em>\"exiled immediately\"</em>",
+      "body_en": "Elon Musk responded on X to commentator Spencer Pratt's post that it's \"OK to love America,\" writing that anyone who doesn't love America \"is a traitor... and beneath contempt,\" and that the disloyal \"should be exiled immediately\" — a comment made amid a string of pro-America posts right after the July 4th holiday, reigniting scrutiny of how Musk's political statements have previously fed brand and European-sales controversy.",
+      "summary_en": "Spencer Pratt, a former reality-TV personality turned commentator, has recently drawn attention for remarks on the Los Angeles mayoral race and homelessness policy — commentary Musk has repeatedly amplified on X.\n\nAfter Pratt posted on July 4 that it's \"OK to love America,\" Musk replied: \"Not merely 'ok'. Anyone who doesn't love America is a traitor and beneath contempt. Those who don't love America, those who are disloyal, should be exiled immediately.\"\n\nThe remark came amid a series of pro-America posts Musk shared around the Independence Day holiday. Outlets including Mediaite quickly reported on the exchange, and the comment spread widely.\n\nFor shareholders, the episode is a reminder to keep watching how Musk's political statements affect brand perception. European sales have previously rebounded even amid controversy over his political involvement, so the near-term sales or stock impact of this remark is unclear. But recurring political flashpoints remain a variable worth monitoring as a potential cumulative brand risk.",
+      "href": "https://x.com/elonmusk/status/2071571936241475706",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Elon Musk (X)",
+        "Mediaite"
+      ],
+      "sentiment": "bear",
+      "hot": 3
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -173,31 +198,6 @@
       "confirmingSources": [
         "Reuters",
         "NHTSA"
-      ],
-      "sentiment": "bull",
-      "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
-      "pubDate": "2026-07-01T22:00:00.000Z",
-      "title": "일론 머스크, 프리몬트 <em>모델S·X 라인서 옵티머스 생산</em> 확인",
-      "hotShort": "머스크, 프리몬트서 <em>옵티머스 생산라인</em> 가동 확인",
-      "body": "일론 머스크가 7월 1일 X에 프리몬트 공장 옵티머스 생산라인을 직접 둘러보는 사진을 올리며, 5월 초 단종된 모델S·모델X 조립라인이 옵티머스 생산라인으로 전환돼 가동 중임을 확인했다 — 앞서 1분기 실적발표에서 예고한 '7월 말~8월 생산 개시' 일정이 차질 없이 진행되고 있다는 신호로, 로보택시와 함께 꼽히는 옵티머스 상업화 시계가 착실히 돌아가고 있음을 보여준다.",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "product-optimus-fremont-model-sx-line-2026-07-01",
-      "summary": "일론 머스크가 7월 1일 자신의 X 계정에 프리몬트 공장 옵티머스 생산라인 현장을 둘러보는 사진을 올리며 '프리몬트 옵티머스 생산라인을 걷는 중'이라고 밝혔다. 이는 지난 5월 초 마지막 모델S·모델X가 생산라인을 떠난 지 약 두 달 만에, 해당 조립라인이 옵티머스 생산라인으로 전환돼 실제 가동에 들어갔음을 테슬라 측이 처음으로 직접 확인한 사례다.\n\n이 전환은 앞서 1분기 실적발표에서 머스크가 예고한 일정과 맞닿아 있다 — 당시 그는 옵티머스 생산이 프리몬트에서 '7월 말이나 8월'에 시작될 것이라고 밝힌 바 있다. 다만 초기 생산 속도에 대해서는 옵티머스가 완전히 새로운 생산라인에 걸쳐 부품 1만여 개로 구성돼 있어 '올해 생산 속도를 예측하는 것은 사실상 불가능하다'며 초반에는 '상당히 느릴 것'이라고 신중한 태도를 유지했다.\n\n테슬라 부사장 라스 모라비는 이 생산라인이 옵티머스의 하드웨어가 계속 진화하더라도 매번 대규모 개편 없이 적응할 수 있도록 설계된 모듈형 시스템이라고 설명한 바 있다.\n\n주주 입장에서 이번 확인은 로보택시와 함께 테슬라의 차세대 성장축으로 꼽히는 옵티머스 상업화가 예고된 일정대로 진행되고 있다는 근거다. 다만 초기 생산 속도는 여전히 불확실하며, 본격적인 양산 규모와 시점은 향후 발표를 지켜봐야 한다.",
-      "title_en": "Musk confirms <em>Optimus now in production</em> on Fremont's former Model S/X line",
-      "hotShort_en": "Musk confirms <em>Optimus production</em> at Fremont",
-      "body_en": "Elon Musk posted a photo on X on July 1 touring Tesla's Optimus production line in Fremont, confirming the former Model S/X assembly line — which stopped building those cars in early May — has been converted and is now running Optimus. It's the first direct confirmation that the 'late July or August' production start Musk flagged on the Q1 earnings call is on track, a positive signal for Tesla's Optimus commercialization timeline alongside Robotaxi.",
-      "summary_en": "Elon Musk shared a photo on his X account on July 1 of himself touring Tesla's Optimus production line at the Fremont factory, writing that he was 'walking the Optimus production line in Fremont.' It marks the first direct confirmation from Tesla that the former Model S/X assembly area — which built its last units in early May — has been converted into an active Optimus production line roughly two months later.\n\nThe timing lines up with what Musk previewed on Tesla's Q1 2026 earnings call, when he said Optimus production at Fremont would begin 'late July or August.' On initial output, he remained cautious, saying it was 'literally impossible to predict' this year's production rate given Optimus spans an entirely new line with roughly 10,000 unique parts, and that early volume would be 'quite slow.'\n\nTesla VP Lars Moravy has separately described the line as a modular system built to adapt as Optimus' hardware design evolves, without requiring a full retooling each time.\n\nFor shareholders, the confirmation is evidence that Optimus commercialization — often cited alongside Robotaxi as Tesla's next growth leg — is tracking to its stated timeline. Initial production volume and the pace of ramp-up remain uncertain and will depend on upcoming updates.",
-      "href": "https://x.com/elonmusk/status/2072214077372518657",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Elon Musk (X)",
-        "Benzinga"
       ],
       "sentiment": "bull",
       "hot": 6
