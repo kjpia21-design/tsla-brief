@@ -1,49 +1,36 @@
 {
-  "asOf": "2026-07-04 23:02 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-05 04:00 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-04T21:03:52.000Z",
-      "title": "Tesla global auto sales jump 25pc in 2nd quarter",
-      "body": "Tesla global auto sales jump 25pc in 2nd quarter Borneo Bulletin",
-      "sourceName": "Borneo Bulletin",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-05T02:33:48.000Z",
+      "title": "Tesla Lawsuit Filed Over Death of Martha Avila",
+      "body": "Tesla Lawsuit Filed Over Death of Martha Avila carcomplaints.com",
+      "sourceName": "carcomplaints.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://borneobulletin.com.bn/tesla-global-auto-sales-jump-25pc-in-2nd-quarter/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-04T20:48:45.000Z",
-      "title": "Tesla Caps Employee AI Spending at $200 a Week While Grok, Elon Musk’s AI, Gets a Pass",
-      "body": "Tesla Caps Employee AI Spending at $200 a Week While Grok, Elon Musk’s AI, Gets a Pass The Eastern Herald",
-      "sourceName": "The Eastern Herald",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://easternherald.com/2026/07/05/tesla-ai-spending-cap-200-week-grok-exemption-employees/"
+      "href": "https://www.carcomplaints.com/news/2026/tesla-lawsuit-death-of-martha-avila.shtml"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "3h ago",
-      "pubDate": "2026-07-04T20:03:04.000Z",
-      "title": "Tesla caps employee AI spending at $200 per week",
-      "body": "Tesla caps employee AI spending at $200 per week Dailyhunt",
-      "sourceName": "Dailyhunt",
+      "pubDate": "2026-07-05T01:29:44.000Z",
+      "title": "Tesla, SpaceX fall from record highs, Elon Musk lose trillionaire status: Profit-booking or re-rating of AI pricing?",
+      "body": "Tesla, SpaceX fall from record highs, Elon Musk lose trillionaire status: Profit-booking or re-rating of AI pricing? livemint.com",
+      "sourceName": "livemint.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "http://m.dailyhunt.in/news/india/english/news+karnataka-epaper-newskarn/tesla+caps+employee+ai+spending+at+200+per+week-newsid-n718420218"
+      "href": "https://www.livemint.com/money/personal-finance/tesla-spacex-fall-from-record-highs-elon-musk-lose-trillionaire-status-profit-booking-or-re-rating-of-ai-pricing-11783164293790.html"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-04T17:30:00.000Z",
       "title": "Tesla Expands Robotaxi Service To Small Section Of Miami",
       "body": "Tesla Expands Robotaxi Service To Small Section Of Miami Engadget",
@@ -56,7 +43,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-04T15:47:31.000Z",
       "title": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home",
       "body": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home Engadget",
@@ -69,8 +56,8 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
-      "pubDate": "2026-07-04T07:07:28.000Z",
+      "time": "15h ago",
+      "pubDate": "2026-07-04T13:10:01.000Z",
       "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
       "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
       "sourceName": "Teslarati",
@@ -82,8 +69,8 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "16h ago",
-      "pubDate": "2026-07-04T06:55:36.000Z",
+      "time": "15h ago",
+      "pubDate": "2026-07-04T12:58:08.000Z",
       "title": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise",
       "body": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise Teslarati",
       "sourceName": "Teslarati",
@@ -95,8 +82,8 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
-      "pubDate": "2026-07-04T03:19:29.000Z",
+      "time": "19h ago",
+      "pubDate": "2026-07-04T09:20:02.000Z",
       "title": "Tesla Semi involved in first known fatal crash in Nevada",
       "body": "Tesla Semi involved in first known fatal crash in Nevada Teslarati",
       "sourceName": "Teslarati",
@@ -108,8 +95,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20h ago",
-      "pubDate": "2026-07-04T02:37:43.000Z",
+      "time": "22h ago",
+      "pubDate": "2026-07-04T05:41:48.000Z",
       "title": "Elon Musk outlines Tesla Optimus production expectations",
       "body": "Elon Musk outlines Tesla Optimus production expectations Teslarati",
       "sourceName": "Teslarati",
@@ -121,20 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21h ago",
-      "pubDate": "2026-07-04T02:17:31.000Z",
-      "title": "Tesla expands Robotaxi to Florida, marking its third state for autonomy",
-      "body": "Tesla expands Robotaxi to Florida, marking its third state for autonomy Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-expands-robotaxi-florida-third-state-autonomy/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-07-03T14:59:44.000Z",
       "title": "Tesla rolls out robotaxi service in Miami",
       "body": "Tesla rolls out robotaxi service in Miami Reuters",
@@ -147,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-07-03T12:36:00.000Z",
       "title": "Tesla Teases Some ‘Cool News’ —the Stock Needs It",
       "body": "Tesla Teases Some ‘Cool News’ —the Stock Needs It Barron's",
@@ -169,32 +143,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/autos-transportation/tesla-posts-stronger-than-expected-q2-deliveries-europe-sales-improve-2026-07-02/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-03T01:00:00.000Z",
-      "title": "India’s Space Industry Hunts for Its SpaceX Moment",
-      "body": "India’s Space Industry Hunts for Its SpaceX Moment Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-02T23:59:00.000Z",
-      "title": "Tesla Inc. Advanced Charts | TSLA",
-      "body": "Tesla Inc. Advanced Charts | TSLA Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/market-data/stocks/tsla/interactive-chart"
     },
     {
       "category": "product",
@@ -223,6 +171,19 @@
       "href": "https://www.reuters.com/business/autos-transportation/tesla-launches-six-seater-model-y-l-us-boost-sales-2026-07-02/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2d ago",
+      "pubDate": "2026-07-02T20:13:50.000Z",
+      "title": "(TSLA) Tesla Vehicle Sales Climb 25%, Far Exceeding Analyst Estimates",
+      "body": "(TSLA) Tesla Vehicle Sales Climb 25%, Far Exceeding Analyst Estimates Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-02/tesla-vehicle-sales-climb-25-far-exceeding-analyst-estimates"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2d ago",
@@ -249,6 +210,19 @@
       "href": "https://www.reuters.com/legal/litigation/us-closes-2022-probe-into-695000-tesla-vehicles-over-unexpected-braking-2026-07-02/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3d ago",
+      "pubDate": "2026-07-02T13:07:44.000Z",
+      "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
+      "body": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "3d ago",
@@ -260,6 +234,32 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-07-01/musk-meme-traders-blaze-back-into-tesla-when-the-stock-hits-420"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3d ago",
+      "pubDate": "2026-07-01T18:11:00.000Z",
+      "title": "Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device",
+      "body": "Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4d ago",
+      "pubDate": "2026-07-01T12:16:50.000Z",
+      "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Apple, Sandisk, Salesforce, Nike, Lockheed Martin & more",
+      "body": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Apple, Sandisk, Salesforce, Nike, Lockheed Martin & more CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/01/wednesdays-wall-street-analyst-calls-include-spacex.html"
     }
   ]
 }
