@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-05 11:38 UTC · 누적 531건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-05 13:52 UTC · 누적 532건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-05T09:30:00.000Z",
+      "title": "상원 마키·블루먼솔, 테슬라 FSD 안전 데이터에 <em>NHTSA 조사 요구</em> — 답변 시한 D-2",
+      "hotShort": "상원, 테슬라 FSD 안전자료 <em>NHTSA 조사 요구</em>",
+      "body": "매사추세츠·코네티컷주 상원의원 에드 마키·리처드 블루먼솔이 로이터의 테슬라 FSD 안전통계 오류 지적을 근거로 NHTSA에 서한을 보내 독자 검증 여부를 따져 물었다 — 답변 시한은 7월 7일로, 로보택시 확장이 한창인 가운데 자율주행 안전 신뢰성 논쟁이 정치권까지 번진 신호다.",
+      "sourceName": "Sen. Ed Markey 사무실",
+      "sourceLabel": "sec",
+      "slug": "fsd-senators-nhtsa-fsd-data-deadline-2026-07-05",
+      "summary": "테슬라의 FSD(완전자율주행) 안전 통계를 둘러싼 논란이 미국 의회로까지 번지고 있다. 오스틴에 이어 마이애미까지 로보택시 서비스가 확장되는 와중에, 그 안전성 근거 자체를 문제 삼는 목소리가 규제당국을 겨냥해 나왔다.\n\n발단은 로이터의 탐사보도다. 로이터는 테슬라가 FSD 탑재 차량의 에어백 전개 사고율을 심각도와 무관하게 모든 사고를 포함한 미국 전체 사고율과 비교하고, 최신 차량을 평균 차령 12년에 이르는 구형 차량 전체와 비교하는 등 통계 방식에 문제가 있다고 지적했다. 상원의원들은 이런 비교 방식이 FSD를 실제보다 안전한 것처럼 보이게 만들 수 있다고 주장한다.\n\n매사추세츠주 에드 마키, 코네티컷주 리처드 블루먼솔 상원의원은 6월 16일 NHTSA(도로교통안전국)에 서한을 보내, 테슬라의 수치를 NHTSA가 독자적으로 검증한 적이 있는지 등 구체적 질의를 담아 7월 7일까지 답변을 요구했다.\n\n아직 NHTSA의 공식 답변은 나오지 않았다. 다만 이번 서한은 테슬라의 로보택시 확장이 본격화되는 시점과 겹쳐, 자율주행 안전성 신뢰도 논쟁이 규제·정치 리스크로 재점화될 가능성을 보여준다. 답변 시한인 7월 7일 이후 NHTSA의 대응 여부가 다음 관전 포인트다.",
+      "title_en": "Sens. Markey, Blumenthal demand NHTSA <em>probe Tesla's FSD safety data</em> — answer due July 7",
+      "hotShort_en": "Senators demand NHTSA <em>probe Tesla's FSD data</em>",
+      "body_en": "Sens. Ed Markey (D-MA) and Richard Blumenthal (D-CT) sent NHTSA a letter citing a Reuters investigation into flawed Tesla FSD safety statistics, demanding to know whether the agency has independently verified Tesla's numbers — with a response due by July 7, as Robotaxi expansion collides with a growing safety-credibility fight reaching Capitol Hill.",
+      "summary_en": "The fight over Tesla's Full Self-Driving safety statistics has spread to Congress. Just as Robotaxi service expands from Austin to Miami, lawmakers are now targeting the very safety claims underpinning that expansion.\n\nThe trigger was a Reuters investigation, which found that Tesla compares airbag-deployment crash rates for FSD-equipped vehicles against a US-wide crash rate covering all severity levels, and benchmarks its newer fleet against the average US vehicle — one that is roughly 12 years old and lacks modern safety features. Senators say that methodology could make FSD look safer than it actually is.\n\nSens. Ed Markey of Massachusetts and Richard Blumenthal of Connecticut sent a letter to NHTSA on June 16, asking pointed questions including whether the agency has independently assessed Tesla's figures, and set a July 7 deadline for a response.\n\nNHTSA has not yet issued a public response. The letter lands just as Tesla's Robotaxi rollout accelerates, signaling that the safety-credibility debate around autonomy could re-emerge as a regulatory and political risk. Whether NHTSA responds by the July 7 deadline is the next thing to watch.",
+      "href": "https://www.markey.senate.gov/news/press-releases/sens-markey-blumenthal-demand-nhtsa-require-greater-transparency-from-tesla-autonomous-vehicle-companies",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Automotive News",
+        "Kelley Blue Book",
+        "Automotive World"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
