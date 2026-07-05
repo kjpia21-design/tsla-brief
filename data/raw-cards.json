@@ -1,36 +1,62 @@
 {
-  "asOf": "2026-07-05 04:00 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-05 09:13 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-07-05T02:33:48.000Z",
-      "title": "Tesla Lawsuit Filed Over Death of Martha Avila",
-      "body": "Tesla Lawsuit Filed Over Death of Martha Avila carcomplaints.com",
-      "sourceName": "carcomplaints.com",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "11m ago",
+      "pubDate": "2026-07-05T09:03:00.000Z",
+      "title": "Tesla’s $1.4 trillion valuation rests on what happens next in one city",
+      "body": "Tesla’s $1.4 trillion valuation rests on what happens next in one city thestreet.com",
+      "sourceName": "thestreet.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.carcomplaints.com/news/2026/tesla-lawsuit-death-of-martha-avila.shtml"
+      "href": "https://www.thestreet.com/automotive/teslas-1-4-trillion-valuation-rests-on-what-happens-next-in-one-city"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-05T07:41:15.000Z",
+      "title": "Tesla Employees Can Now Spend Only Rs 80,000/Month On AI, Not More Than That",
+      "body": "Tesla Employees Can Now Spend Only Rs 80,000/Month On AI, Not More Than That Trak.in",
+      "sourceName": "Trak.in",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://trak.in/stories/tesla-employees-can-now-spend-only-rs-80000-month-on-ai-not-more-than-that/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-05T06:32:28.000Z",
+      "title": "Tesla’s driverless taxis are in Miami — nobody in the front seat",
+      "body": "Tesla’s driverless taxis are in Miami — nobody in the front seat Martin Cid Magazine",
+      "sourceName": "Martin Cid Magazine",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.martincid.com/technology-sv/tesla-robotaxi-miami-no-driver/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "3h ago",
-      "pubDate": "2026-07-05T01:29:44.000Z",
-      "title": "Tesla, SpaceX fall from record highs, Elon Musk lose trillionaire status: Profit-booking or re-rating of AI pricing?",
-      "body": "Tesla, SpaceX fall from record highs, Elon Musk lose trillionaire status: Profit-booking or re-rating of AI pricing? livemint.com",
-      "sourceName": "livemint.com",
+      "pubDate": "2026-07-05T06:16:00.000Z",
+      "title": "As riding costs hurt, Tesla tells employees: You cannot spend more than $200 on…",
+      "body": "As riding costs hurt, Tesla tells employees: You cannot spend more than $200 on… The Times of India",
+      "sourceName": "The Times of India",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.livemint.com/money/personal-finance/tesla-spacex-fall-from-record-highs-elon-musk-lose-trillionaire-status-profit-booking-or-re-rating-of-ai-pricing-11783164293790.html"
+      "href": "https://timesofindia.indiatimes.com/technology/tech-news/as-riding-costs-hurt-tesla-tells-employees-you-cannot-spend-more-than-200-on/articleshow/132191659.cms"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-04T17:30:00.000Z",
       "title": "Tesla Expands Robotaxi Service To Small Section Of Miami",
       "body": "Tesla Expands Robotaxi Service To Small Section Of Miami Engadget",
@@ -43,7 +69,20 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "17h ago",
+      "pubDate": "2026-07-04T16:12:24.000Z",
+      "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
+      "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/texas-man-charged-in-fatal-tesla-crash-where-he-blamed-autopilot/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "17h ago",
       "pubDate": "2026-07-04T15:47:31.000Z",
       "title": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home",
       "body": "Tesla Driver Charged With Manslaughter For Texas Crash That Killed A Woman In Her Home Engadget",
@@ -54,36 +93,10 @@
       "href": "https://www.engadget.com/2207957/tesla-driver-charged-manslaughter-texas-crash-killed-woman-in-home/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
-      "pubDate": "2026-07-04T13:10:01.000Z",
-      "title": "Texas man charged in fatal Tesla crash where he blamed Autopilot",
-      "body": "Texas man charged in fatal Tesla crash where he blamed Autopilot Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/texas-man-charged-in-fatal-tesla-crash-where-he-blamed-autopilot/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "15h ago",
-      "pubDate": "2026-07-04T12:58:08.000Z",
-      "title": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise",
-      "body": "Tesla’s strong Q2 deliveries: Four key drivers behind the surprise Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-strong-q2-deliveries-four-key-drivers-behind-the-surprise/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
-      "pubDate": "2026-07-04T09:20:02.000Z",
+      "time": "21h ago",
+      "pubDate": "2026-07-04T12:20:25.000Z",
       "title": "Tesla Semi involved in first known fatal crash in Nevada",
       "body": "Tesla Semi involved in first known fatal crash in Nevada Teslarati",
       "sourceName": "Teslarati",
@@ -91,19 +104,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-semi-involved-first-known-fatal-crash-nevada/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
-      "pubDate": "2026-07-04T05:41:48.000Z",
-      "title": "Elon Musk outlines Tesla Optimus production expectations",
-      "body": "Elon Musk outlines Tesla Optimus production expectations Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/elon-musk-outlines-tesla-optimus-production-expectations/"
     },
     {
       "category": "fsd",
@@ -160,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
+      "time": "3d ago",
       "pubDate": "2026-07-02T21:19:48.000Z",
       "title": "Tesla launches six-seater Model Y L in US to boost sales",
       "body": "Tesla launches six-seater Model Y L in US to boost sales Reuters",
@@ -173,7 +173,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
+      "time": "3d ago",
       "pubDate": "2026-07-02T20:13:50.000Z",
       "title": "(TSLA) Tesla Vehicle Sales Climb 25%, Far Exceeding Analyst Estimates",
       "body": "(TSLA) Tesla Vehicle Sales Climb 25%, Far Exceeding Analyst Estimates Bloomberg.com",
@@ -186,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
+      "time": "3d ago",
       "pubDate": "2026-07-02T18:59:12.000Z",
       "title": "Tesla Says Three-Row Model Y SUV Now Available to US Customers",
       "body": "Tesla Says Three-Row Model Y SUV Now Available to US Customers Bloomberg.com",
@@ -199,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
+      "time": "3d ago",
       "pubDate": "2026-07-02T17:15:20.000Z",
       "title": "U.S. closes 2022 probe into 695,000 Tesla vehicles over unexpected braking",
       "body": "U.S. closes 2022 probe into 695,000 Tesla vehicles over unexpected braking Reuters",
@@ -225,7 +225,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3d ago",
+      "time": "4d ago",
       "pubDate": "2026-07-01T19:41:56.000Z",
       "title": "Musk Meme Traders Rush Back Into Tesla When the Stock Hits $420",
       "body": "Musk Meme Traders Rush Back Into Tesla When the Stock Hits $420 Bloomberg.com",
@@ -238,7 +238,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3d ago",
+      "time": "4d ago",
       "pubDate": "2026-07-01T18:11:00.000Z",
       "title": "Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device",
       "body": "Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device WSJ",
@@ -251,15 +251,15 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4d ago",
-      "pubDate": "2026-07-01T12:16:50.000Z",
-      "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Apple, Sandisk, Salesforce, Nike, Lockheed Martin & more",
-      "body": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Apple, Sandisk, Salesforce, Nike, Lockheed Martin & more CNBC",
-      "sourceName": "CNBC",
+      "time": "8d ago",
+      "pubDate": "2026-06-27T09:30:00.000Z",
+      "title": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision",
+      "body": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision WSJ",
+      "sourceName": "WSJ",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/2026/07/01/wednesdays-wall-street-analyst-calls-include-spacex.html"
+      "href": "https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2"
     }
   ]
 }
