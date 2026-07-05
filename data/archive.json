@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-05 07:05 UTC 자동 갱신 · 최신순",
+  "asOf": "2026-07-05 12:10 UTC 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-05T09:30:00.000Z",
+      "title": "상원 마키·블루먼솔, 테슬라 FSD 안전 데이터에 <em>NHTSA 조사 요구</em> — 답변 시한 D-2",
+      "hotShort": "상원, 테슬라 FSD 안전자료 <em>NHTSA 조사 요구</em>",
+      "body": "매사추세츠·코네티컷주 상원의원 에드 마키·리처드 블루먼솔이 로이터의 테슬라 FSD 안전통계 오류 지적을 근거로 NHTSA에 서한을 보내 독자 검증 여부를 따져 물었다 — 답변 시한은 7월 7일로, 로보택시 확장이 한창인 가운데 자율주행 안전 신뢰성 논쟁이 정치권까지 번진 신호다.",
+      "sourceName": "Sen. Ed Markey 사무실",
+      "sourceLabel": "sec",
+      "slug": "fsd-senators-nhtsa-fsd-data-deadline-2026-07-05",
+      "summary": "테슬라의 FSD(완전자율주행) 안전 통계를 둘러싼 논란이 미국 의회로까지 번지고 있다. 오스틴에 이어 마이애미까지 로보택시 서비스가 확장되는 와중에, 그 안전성 근거 자체를 문제 삼는 목소리가 규제당국을 겨냥해 나왔다.\n\n발단은 로이터의 탐사보도다. 로이터는 테슬라가 FSD 탑재 차량의 에어백 전개 사고율을 심각도와 무관하게 모든 사고를 포함한 미국 전체 사고율과 비교하고, 최신 차량을 평균 차령 12년에 이르는 구형 차량 전체와 비교하는 등 통계 방식에 문제가 있다고 지적했다. 상원의원들은 이런 비교 방식이 FSD를 실제보다 안전한 것처럼 보이게 만들 수 있다고 주장한다.\n\n매사추세츠주 에드 마키, 코네티컷주 리처드 블루먼솔 상원의원은 6월 16일 NHTSA(도로교통안전국)에 서한을 보내, 테슬라의 수치를 NHTSA가 독자적으로 검증한 적이 있는지 등 구체적 질의를 담아 7월 7일까지 답변을 요구했다.\n\n아직 NHTSA의 공식 답변은 나오지 않았다. 다만 이번 서한은 테슬라의 로보택시 확장이 본격화되는 시점과 겹쳐, 자율주행 안전성 신뢰도 논쟁이 규제·정치 리스크로 재점화될 가능성을 보여준다. 답변 시한인 7월 7일 이후 NHTSA의 대응 여부가 다음 관전 포인트다.",
+      "title_en": "Sens. Markey, Blumenthal demand NHTSA <em>probe Tesla's FSD safety data</em> — answer due July 7",
+      "hotShort_en": "Senators demand NHTSA <em>probe Tesla's FSD data</em>",
+      "body_en": "Sens. Ed Markey (D-MA) and Richard Blumenthal (D-CT) sent NHTSA a letter citing a Reuters investigation into flawed Tesla FSD safety statistics, demanding to know whether the agency has independently verified Tesla's numbers — with a response due by July 7, as Robotaxi expansion collides with a growing safety-credibility fight reaching Capitol Hill.",
+      "summary_en": "The fight over Tesla's Full Self-Driving safety statistics has spread to Congress. Just as Robotaxi service expands from Austin to Miami, lawmakers are now targeting the very safety claims underpinning that expansion.\n\nThe trigger was a Reuters investigation, which found that Tesla compares airbag-deployment crash rates for FSD-equipped vehicles against a US-wide crash rate covering all severity levels, and benchmarks its newer fleet against the average US vehicle — one that is roughly 12 years old and lacks modern safety features. Senators say that methodology could make FSD look safer than it actually is.\n\nSens. Ed Markey of Massachusetts and Richard Blumenthal of Connecticut sent a letter to NHTSA on June 16, asking pointed questions including whether the agency has independently assessed Tesla's figures, and set a July 7 deadline for a response.\n\nNHTSA has not yet issued a public response. The letter lands just as Tesla's Robotaxi rollout accelerates, signaling that the safety-credibility debate around autonomy could re-emerge as a regulatory and political risk. Whether NHTSA responds by the July 7 deadline is the next thing to watch.",
+      "href": "https://www.markey.senate.gov/news/press-releases/sens-markey-blumenthal-demand-nhtsa-require-greater-transparency-from-tesla-autonomous-vehicle-companies",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Automotive News",
+        "Kelley Blue Book",
+        "Automotive World"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -2285,26 +2311,6 @@
       "href": "https://x.com/teslaownersSV/status/2069294545830093117",
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "11h ago",
-      "pubDate": "2026-06-23T04:05:00.000Z",
-      "title": "로이터 — 5월 유럽 EV 수요 강세, 중국 경쟁사 <em>점유율 계속 확대</em>",
-      "hotShort": "5월 유럽 EV 강세 속 中 경쟁사 <em>점유율 확대</em> 지속",
-      "body": "로이터는 5월 유럽 자동차 시장에서 EV 수요가 성장을 이끌었지만 동시에 중국 전기차 업체들의 유럽 점유율이 계속 확대되고 있다고 분석했다 — 테슬라 유럽 판매 반등과 경쟁 심화가 동시에 진행 중이다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "stock-eu-ev-may-china-competition-2026-06-23",
-      "summary": "로이터가 분석한 5월 유럽 자동차 시장은 이중적인 신호를 담고 있다. EV 수요가 전체 시장 성장을 이끄는 핵심 동력으로 작용했지만, 이 성장의 수혜를 중국 전기차 업체들도 함께 가져가고 있다는 분석이다.\n\n중국 EV 브랜드들의 유럽 시장 점유율 확대는 더 이상 단기 현상이 아닌 구조적 추세다. BYD를 비롯한 중국 업체들은 경쟁력 있는 가격과 빠르게 성숙하는 품질로 유럽 소비자 선택지에 안착하고 있다.\n\n테슬라 투자자 관점에서 이번 로이터 보도는 WSJ의 테슬라 유럽 판매 2배 증가 소식과 함께 읽어야 한다. 테슬라의 절대적 판매 회복은 분명하지만, 시장 점유율의 방어 여부는 별도로 추적할 필요가 있다. 빠르게 성장하는 파이에서 더 많은 경쟁자가 몫을 챙겨가는 구도다.",
-      "title_en": "Reuters: May Europe EV demand strong, but Chinese rivals <em>keep expanding share</em>",
-      "hotShort_en": "EU EV up in May — <em>China gains share</em>",
-      "body_en": "Reuters reports that EV demand powered the European auto market in May, but Chinese rivals continued to expand their market share — even as Tesla's European sales surged, the competitive landscape is intensifying for the long haul.",
-      "summary_en": "Reuters' May 2026 European auto market analysis reveals a market of contrasts. EV demand was the primary growth engine for the entire European auto sector — a structural tailwind reflecting the accelerating transition away from combustion vehicles, driven by a mix of policy incentives, rising fuel prices, and expanding model availability.\n\nHowever, the gains from this EV demand surge are not accruing exclusively to Western incumbents. Chinese EV manufacturers — led by BYD and a growing roster of brands — continued to expand their European market share in May. This trend represents a structural competitive pressure that goes beyond short-term pricing fluctuations, as Chinese brands are building dealership networks, brand recognition, and after-sales infrastructure across Europe.\n\nFor Tesla shareholders, this Reuters report provides important context alongside the concurrent WSJ report of Tesla's European sales more than doubling. The absolute recovery is clear and significant. But the more nuanced question — whether Tesla is gaining or giving up market share within the growing European EV segment — will require full market share data to answer definitively. Investors should track both metrics rather than focusing solely on Tesla's own volume figures.",
-      "href": "https://www.reuters.com/world/china/ev-demand-powers-europe-car-market-may-chinese-rivals-expand-share-2026-06-23/",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ]
 }
