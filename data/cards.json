@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-06T17:24:04.000Z",
+      "title": "테슬라, 기가베를린 배터리셀 라인에 <em>유럽 스타트업 기술</em> 공모",
+      "hotShort": "기가베를린 배터리셀 라인에 <em>스타트업 기술 공모</em> 개방",
+      "body": "테슬라가 독일 기가베를린(그륀하이데) 4680 배터리셀 라인의 소재·장비·운영·자동화·AI 기술을 유럽 스타트업 대상 공모 '셀 기가 챌린지'로 모집(7월 24일 마감) — 5월 발표한 연산 8→18GWh 증설 목표를 사내 기술만으로 채우기 어렵다는 신호로 읽힌다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-giga-berlin-cell-giga-challenge-2026-07-06",
+      "summary": "지난 5월 12일 그륀하이데 공장장 안드레 티리히는 $2.5억 규모 추가 투자로 이 공장의 연간 4680 배터리셀 생산능력을 기존 8GWh에서 18GWh로 두 배 이상 늘리겠다고 밝힌 바 있다. 이번 '셀 기가 챌린지' 공모는 그 목표를 달성하기 위한 후속 조치로 나왔다.\n\n공모는 스타트업 매칭 플랫폼 JUNI와 함께 진행되며, 접수 기한은 7월 24일이다. 대상 분야는 소재·장비·운영·자동화·인공지능(AI) 5개로, 셀 제조 공정을 더 빠르고 저렴하고 안전하며 대규모로 확장 가능하게 만들 기술을 찾는다.\n\n선정 절차는 그륀하이데 셀 제조팀이 지원서를 직접 심사하고, 유망한 제안은 기술 미팅과 테슬라 관계자 앞 피치데이를 거쳐 유료 파일럿 프로젝트로 이어질 수 있다.\n\n외부 스타트업에 문을 연다는 것은 공격적인 증설 목표를 사내 기술만으로는 채우기 어렵다는 뜻으로 해석될 수 있다. 배터리셀 증산은 차량뿐 아니라 파워월·메가팩 등 에너지 저장 사업의 공급 능력과도 직결돼 주주가 지켜볼 만한 대목이다.",
+      "title_en": "Tesla opens Giga Berlin battery-cell line to <em>outside European startups</em>",
+      "hotShort_en": "Giga Berlin battery line opens to <em>outside startups</em>",
+      "body_en": "Tesla is soliciting European startups for materials, equipment, operations, automation and AI tech at its Giga Berlin (Grünheide) 4680 cell line through the 'Cell Giga Challenge' (applications due July 24) — a sign that hitting the 8-to-18-GWh capacity target it set in May may require technology Tesla doesn't have in-house.",
+      "summary_en": "On May 12, Grünheide plant manager André Thierig announced a $250 million additional investment to more than double the plant's annual 4680 cell production capacity, from 8 GWh to 18 GWh. The Cell Giga Challenge follows up on that goal.\n\nRun with startup-matching platform JUNI, the challenge has an application deadline of July 24 and is open across five categories — materials, equipment, operations, automation and AI — targeting technology that can make cell manufacturing faster, cheaper, safer and more scalable.\n\nApplications are screened directly by Tesla's Grünheide cell manufacturing team, with the strongest submissions moving through technical discussions and a pitch day in front of Tesla stakeholders, potentially leading to a paid pilot project.\n\nOpening the door to outside startups suggests Tesla's in-house technology alone may not be enough to hit its aggressive capacity target. Cell output scale-up matters beyond vehicles too, feeding directly into supply for the energy storage business — Powerwall and Megapack.",
+      "href": "https://www.teslarati.com/tesla-battery-challenge/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "TeslaNorth"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -161,32 +186,7 @@
       "href": "https://www.startupdaily.net/after-hours/motoring/we-spent-100-days-in-queensland-in-a-self%E2%80%91driving-tesla-model-y-and-500-incidents-later-the-recurring-problems-are-obvious/",
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "15h ago",
-      "pubDate": "2026-07-05T19:39:00.000Z",
-      "title": "테슬라·메타, 나란히 시총 <em>$1.48조로 수렴</em> — 도달 이유는 정반대",
-      "hotShort": "테슬라·메타 시총 <em>$1.48조로 동률</em> — 속내는 딴판",
-      "body": "테슬라와 메타가 지난 목요일(2일) 나란히 시가총액 약 $1.48조로 마감했다 — 메타는 AI 지출 부담 우려로 고점 대비 27% 하락(당일 -4.9%), 테슬라는 2분기 인도 서프라이즈(+25% YoY) 발표 당일에도 고점 대비 21% 하락(당일 -7.5%)해 같은 값에 도달했다. 다만 최근 12개월 영업이익률은 메타 41% 대 테슬라 4.2%로 격차가 커, 같은 시총이라도 수익성 밸류에이션 부담은 테슬라 쪽이 훨씬 크다.",
-      "sourceName": "The Motley Fool",
-      "sourceLabel": "press",
-      "slug": "stock-tesla-meta-market-cap-parity-2026-07-05",
-      "summary": "지난 목요일(7월 2일) 정규장이 끝났을 때, 서로 무관해 보이던 두 빅테크가 우연히 같은 숫자에 도달했다. 테슬라와 메타 플랫폼스가 나란히 시가총액 약 $1.48조로 장을 마친 것이다 — 둘 다 '고점 대비 하락'해서 도달한 값이라는 공통점은 있지만, 그 배경은 전혀 달랐다.\n\n메타는 52주 고점 대비 약 27% 낮은 수준까지 밀려났고, 이날 하루에만 4.9% 하락했다. AI 투자 확대 계획에 대한 투자자들의 우려, 그리고 챗봇·AI 에이전트가 핵심 광고 사업에 미칠 영향에 대한 불안감이 배경으로 지목된다.\n\n테슬라 역시 고점 대비 약 21% 낮은 수준에서 같은 시총에 도달했는데, 공교롭게도 이날은 테슬라가 2분기 인도량이 컨센서스를 18% 웃도는 48만126대(전년동기 대비 +25%)를 기록했다고 발표한 날이었다. 호실적 발표에도 주가는 오히려 7.49% 급락해 1년 내 최악의 하루를 기록했다.\n\n같은 시총이라도 내용은 판이하다. 메타는 최근 분기 매출이 전년 대비 33% 늘었고 영업이익률은 41%에 달한다. 반면 테슬라는 매출 성장률이 16%에 그쳤고 영업이익률은 4.2%, 최근 12개월 주당순이익(EPS)은 단 $1.10에 불과하다. 결국 테슬라의 $1.48조 밸류에이션은 현재 이익이 아니라 로보택시·옵티머스 같은 미래 성장 스토리에 대한 시장의 기대치가 훨씬 크게 반영된 결과라는 해석이 나온다.",
-      "title_en": "Tesla and Meta <em>converge at $1.48T market cap</em> — for opposite reasons",
-      "hotShort_en": "Tesla, Meta <em>tie at $1.48T</em> market cap",
-      "body_en": "Tesla and Meta both closed last Thursday (July 2) worth about $1.48 trillion — but got there in opposite ways. Meta fell 4.9% that day and sits about 27% below its 52-week high on worries over ballooning AI spending. Tesla, despite reporting a Q2 delivery beat (+25% YoY) that same day, still dropped 7.5% and sits about 21% below its high. The two companies' profitability tells an even starker story: Meta's trailing operating margin is 41% versus Tesla's 4.2%.",
-      "summary_en": "When the closing bell rang last Thursday, July 2, two otherwise unrelated tech giants landed on the exact same number. Tesla and Meta Platforms both finished the session worth roughly $1.48 trillion — both got there by falling from their highs, but for very different reasons.\n\nMeta shares sit about 27% below their 52-week high, including a 4.9% slide on Thursday alone, as investors fret over the company's swelling AI spending plans and what chatbots and AI agents could mean for its core advertising business.\n\nTesla arrived at the same market cap from about 21% below its own high — on the very day it reported second-quarter deliveries of 480,126 vehicles, up 25% year over year and 18% above its own consensus. Despite the beat, the stock fell 7.49% that day, its worst single session in nearly a year.\n\nThe same market cap masks very different fundamentals. Meta grew revenue 33% year over year last quarter with a 41% operating margin. Tesla's revenue grew just 16% with a 4.2% operating margin, and its trailing-12-month EPS sits at only $1.10. The takeaway: Tesla's $1.48 trillion valuation rests far less on current profits than on the market's expectations for future growth engines like Robotaxi and Optimus.",
-      "href": "https://www.fool.com/investing/2026/07/05/meta-and-tesla-are-suddenly-worth-the-same-148-tri/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "The Motley Fool",
-        "The Globe and Mail"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-06 15:50 UTC 자동 갱신 · 최신순"
+  "asOf": "2026-07-06 19:05 UTC 자동 갱신 · 최신순"
 }

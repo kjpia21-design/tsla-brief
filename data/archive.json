@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-06T17:24:04.000Z",
+      "title": "테슬라, 기가베를린 배터리셀 라인에 <em>유럽 스타트업 기술</em> 공모",
+      "hotShort": "기가베를린 배터리셀 라인에 <em>스타트업 기술 공모</em> 개방",
+      "body": "테슬라가 독일 기가베를린(그륀하이데) 4680 배터리셀 라인의 소재·장비·운영·자동화·AI 기술을 유럽 스타트업 대상 공모 '셀 기가 챌린지'로 모집(7월 24일 마감) — 5월 발표한 연산 8→18GWh 증설 목표를 사내 기술만으로 채우기 어렵다는 신호로 읽힌다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-giga-berlin-cell-giga-challenge-2026-07-06",
+      "summary": "지난 5월 12일 그륀하이데 공장장 안드레 티리히는 $2.5억 규모 추가 투자로 이 공장의 연간 4680 배터리셀 생산능력을 기존 8GWh에서 18GWh로 두 배 이상 늘리겠다고 밝힌 바 있다. 이번 '셀 기가 챌린지' 공모는 그 목표를 달성하기 위한 후속 조치로 나왔다.\n\n공모는 스타트업 매칭 플랫폼 JUNI와 함께 진행되며, 접수 기한은 7월 24일이다. 대상 분야는 소재·장비·운영·자동화·인공지능(AI) 5개로, 셀 제조 공정을 더 빠르고 저렴하고 안전하며 대규모로 확장 가능하게 만들 기술을 찾는다.\n\n선정 절차는 그륀하이데 셀 제조팀이 지원서를 직접 심사하고, 유망한 제안은 기술 미팅과 테슬라 관계자 앞 피치데이를 거쳐 유료 파일럿 프로젝트로 이어질 수 있다.\n\n외부 스타트업에 문을 연다는 것은 공격적인 증설 목표를 사내 기술만으로는 채우기 어렵다는 뜻으로 해석될 수 있다. 배터리셀 증산은 차량뿐 아니라 파워월·메가팩 등 에너지 저장 사업의 공급 능력과도 직결돼 주주가 지켜볼 만한 대목이다.",
+      "title_en": "Tesla opens Giga Berlin battery-cell line to <em>outside European startups</em>",
+      "hotShort_en": "Giga Berlin battery line opens to <em>outside startups</em>",
+      "body_en": "Tesla is soliciting European startups for materials, equipment, operations, automation and AI tech at its Giga Berlin (Grünheide) 4680 cell line through the 'Cell Giga Challenge' (applications due July 24) — a sign that hitting the 8-to-18-GWh capacity target it set in May may require technology Tesla doesn't have in-house.",
+      "summary_en": "On May 12, Grünheide plant manager André Thierig announced a $250 million additional investment to more than double the plant's annual 4680 cell production capacity, from 8 GWh to 18 GWh. The Cell Giga Challenge follows up on that goal.\n\nRun with startup-matching platform JUNI, the challenge has an application deadline of July 24 and is open across five categories — materials, equipment, operations, automation and AI — targeting technology that can make cell manufacturing faster, cheaper, safer and more scalable.\n\nApplications are screened directly by Tesla's Grünheide cell manufacturing team, with the strongest submissions moving through technical discussions and a pitch day in front of Tesla stakeholders, potentially leading to a paid pilot project.\n\nOpening the door to outside startups suggests Tesla's in-house technology alone may not be enough to hit its aggressive capacity target. Cell output scale-up matters beyond vehicles too, feeding directly into supply for the energy storage business — Powerwall and Megapack.",
+      "href": "https://www.teslarati.com/tesla-battery-challenge/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "TeslaNorth"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -2313,27 +2338,7 @@
       "href": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
-      "pubDate": "2026-06-24T05:02:00.000Z",
-      "title": "로이터 — 인도에서 중국 EV 브랜드는 차단, <em>배터리 기술은 침투</em>",
-      "hotShort": "인도 중국EV 직판 차단 — <em>배터리 기술 침투</em>",
-      "body": "인도 정부의 고율 관세로 BYD 등 중국 EV 브랜드 직접 판매는 막혔지만 LFP 배터리·전기 구동계 기술이 라이선스·합작 형태로 현지 OEM에 스며들고 있다고 로이터가 보도했다 — 테슬라가 진출을 모색 중인 인도 시장에서 이미 중국 기술 기반 경쟁이 자리 잡는 구도다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "product-china-ev-tech-india-licensing-2026-06-24",
-      "summary": "인도는 높은 수입 관세로 BYD·SAIC·체리 등 중국 완성차 브랜드의 직접 판매를 사실상 봉쇄하고 있다. 그러나 로이터에 따르면 이들이 보유한 리튬인산철(LFP) 배터리 기술, 전기 구동계, EV 소프트웨어 플랫폼은 라이선스 계약·합작 벤처 형태로 인도 현지 OEM에 이미 이전되고 있다.\n\n인도는 세계 3위 자동차 시장이며 EV 보급이 초기 단계에 있다. 현지 OEM들은 전동화 압박을 받는 동시에 자체 EV 기술 역량이 부족해, 검증된 중국 기술을 라이선스로 도입하는 방안이 현실적 선택이 됐다. 브랜드는 인도산으로 출시되지만 핵심 기술은 중국에서 오는 구도다.\n\n테슬라는 수년간 인도 진출을 추진해왔으나 수입 관세 협상과 현지 생산 의무 요건 등 규제 장벽으로 계획이 지연됐다. 중국 기술이 현지 브랜드를 통해 시장에 자리잡으면, 테슬라가 결국 인입할 시점에는 이미 중국 기술 기반 경쟁자들이 가격·기술 기반을 갖춘 상태가 될 수 있다.\n\n이 구도는 중국 EV 브랜드가 유럽·미국에서 관세로 직접 차단되는 동안에도 기술 수출 채널을 통한 간접 시장 영향력 확대가 가능함을 보여준다. 테슬라 주주에게 인도는 중장기 EV 성장 시장으로 중요한데, 진입 장벽과 현지 중국 기술 확산이 맞물리며 진출 창이 점점 좁아지고 있다는 점이 관전 포인트다.",
-      "title_en": "Reuters: China's EVs are blocked from India — but <em>their tech isn't</em>",
-      "hotShort_en": "Chinese EV tech <em>seeps into India</em> via licensing",
-      "body_en": "India's high import tariffs have shut Chinese EV brands like BYD and SAIC out of the market, but Reuters reports that LFP battery technology and EV drive systems are entering India anyway through licensing and joint-venture deals with local OEMs — meaning Tesla could face Chinese-tech-powered local rivals when it eventually enters one of the world's fastest-growing auto markets.",
-      "summary_en": "India has effectively closed its car market to Chinese automakers through steep import duties and regulatory barriers. But Reuters reports that the underlying EV technology those companies have developed — including LFP battery chemistry, electric motor systems, and software stacks — is flowing into India through licensing agreements and joint ventures with Indian OEM partners.\n\nIndia is the world's third-largest auto market and remains in the early stages of EV adoption. Local manufacturers face growing pressure to electrify their lineups but lack the internal R&D resources to develop competitive EV technology from scratch. Chinese technology, licensed under Indian branding, offers a faster and lower-cost path to electrification — making the arrangement attractive to both sides.\n\nTesla has been seeking entry into India for several years but has been delayed by negotiations over import tariffs and mandatory local manufacturing requirements. If Chinese-derived EV technology becomes entrenched across Indian OEM lineups before Tesla arrives, the competitive environment at entry will be materially harder — even without a single Chinese brand name visible in the market.\n\nFor Tesla shareholders monitoring the company's geographic growth story, India represents one of the most important untapped large-scale EV markets. The Reuters report suggests that the window for relatively easy entry may be narrowing as Chinese technology quietly shapes the Indian market's technical foundation — competition by proxy, even where Chinese brands themselves are absent.",
-      "href": "https://www.reuters.com/world/china/chinese-ev-makers-are-shut-out-india-their-tech-isnt-2026-06-24/",
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-06 15:50 UTC 자동 갱신 · 최신순"
+  "asOf": "2026-07-06 19:05 UTC 자동 갱신 · 최신순"
 }
