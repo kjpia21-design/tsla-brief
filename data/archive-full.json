@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-05 23:06 UTC · 누적 535건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-06 04:06 UTC · 누적 537건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "few minutes ago",
+      "pubDate": "2026-07-05T22:35:08.000Z",
+      "title": "머스크가 세운 정부효율부(DOGE), <em>예정된 일몰 시한대로</em> 활동 종료",
+      "hotShort": "머스크의 DOGE, <em>일몰 시한대로</em> 종료",
+      "body": "머스크가 공동 창설한 정부효율부(DOGE)가 애초 행정명령에 못박힌 일몰 시한(2026년 7월 4일)에 맞춰 활동을 접었다 — 자체 집계 절감액은 $215B로, 머스크가 내걸었던 목표 $2조의 10분의 1 수준에 그쳤다. 테슬라 본업과는 무관하지만, 정치 프로젝트에서 완전히 손을 뗀 만큼 머스크의 시간·평판 리스크가 앞으로 어디로 쏠릴지가 관전 포인트.",
+      "sourceName": "E&E News (POLITICO)",
+      "sourceLabel": "press",
+      "slug": "musk-doge-shutdown-2026-07-04",
+      "summary": "DOGE(정부효율부)는 트럼프 대통령이 취임 직후인 2025년 1월 서명한 행정명령으로 신설됐다. 당시 행정명령에는 활동 시한이 18개월 뒤인 2026년 7월 4일로 명시돼 있었고, 이번 종료는 그 시한을 그대로 지킨 결과다.\n\n머스크는 비벡 라마스와미와 함께 DOGE 공동 수장으로 출범했지만, 정작 이번 종료 시점에는 이미 현장에 없었다. 특별정부직원(Special Government Employee) 신분의 임기 상한인 130일 규정에 따라 머스크는 2025년 5월 일찌감치 물러난 상태였다.\n\nDOGE가 자체 집계한 절감액은 $215B — 연방예산 약 $7조의 3% 수준이자 납세자 1인당 약 $1,335에 해당한다. 이는 머스크가 2024년 10월 목표로 내걸었던 $2조에는 크게 못 미치는 수치다. E&E News(폴리티코)·Newsweek·IBTimes UK 등 매체가 이번 종료와 절감액 미달을 함께 보도했다.\n\n주주 입장에서 이 소식 자체는 테슬라 실적과 직접 관련이 없다. 다만 머스크의 정치 프로젝트가 공식적으로 막을 내린 만큼, 그의 시간과 관심이 테슬라·xAI·스페이스X 등 본업 쪽으로 더 쏠릴지, 혹은 다른 정치적 이슈(최근의 '즉각 추방' 발언 논란 등)로 계속 옮겨갈지는 앞으로 지켜볼 변수다.",
+      "title_en": "Musk's DOGE winds down <em>right on its original sunset date</em>",
+      "hotShort_en": "Musk's DOGE <em>shuts down on schedule</em>",
+      "body_en": "The Department of Government Efficiency, the cost-cutting effort Musk co-founded, wound down on July 4 — exactly the sunset date written into the original executive order — after claiming $215B in savings, about a tenth of the $2 trillion Musk once floated as his target. It has nothing to do with Tesla's core business, but with Musk's political project now formally over, shareholders may wonder where his time and reputational risk shift next.",
+      "summary_en": "DOGE was created by an executive order President Trump signed right after taking office in January 2025. That order set an 18-month sunset date of July 4, 2026 — and this shutdown simply followed that clock to its end.\n\nMusk co-led DOGE alongside Vivek Ramaswamy at launch, but he wasn't actually there for the finish. Bound by the 130-day cap on Special Government Employee status, he had already stepped down back in May 2025.\n\nDOGE's own tally puts its savings at $215 billion — about 3% of the roughly $7 trillion federal budget, or roughly $1,335 per taxpayer. That falls well short of the $2 trillion target Musk floated in October 2024. E&E News (POLITICO), Newsweek and IBTimes UK all reported on the shutdown and the savings shortfall.\n\nFor shareholders, this isn't a Tesla story in itself. But with Musk's political side project now officially closed, it's worth watching whether his attention and reputational risk shift more toward his day jobs at Tesla, xAI and SpaceX — or keep drifting toward other political flashpoints, like his recent \"exile immediately\" remark.",
+      "href": "https://www.eenews.net/articles/doge-self-deletes-on-july-4th-the-grand-experiment-fell-apart-long-before-that/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "E&E News",
+        "Newsweek",
+        "IBTimes UK"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -220,6 +246,26 @@
       ],
       "sentiment": "bull",
       "hot": 6
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3d ago",
+      "pubDate": "2026-07-02T13:35:00.000Z",
+      "title": "트루이스트, 테슬라 목표주가 <em>$400→$430로 상향</em> — 투자의견은 '보유' 유지",
+      "hotShort": "트루이스트, 테슬라 목표가 <em>$430으로 상향</em>",
+      "body": "트루이스트 애널리스트 윌리엄 스타인이 테슬라 목표주가를 $400에서 $430으로 7.5% 상향했다 — 2분기 인도 서프라이즈 발표 당일 주가가 7.5% 급락한 것과 대조적으로, 투자의견은 '매수'가 아닌 '보유(Hold)'를 그대로 유지해 밸류에이션 신중론은 여전함을 시사한다.",
+      "sourceName": "TipRanks (TheFly)",
+      "sourceLabel": "press",
+      "slug": "stock-truist-price-target-2026-07-02",
+      "summary": "테슬라의 2분기 인도량 서프라이즈 발표 직후, 월가 일각에서는 목표주가를 조정하면서도 신중론을 거두지 않는 반응이 나왔다. 트루이스트 증권 애널리스트 윌리엄 스타인이 대표적이다.\n\n스타인은 테슬라 목표주가를 기존 $400에서 $430으로 7.5% 상향 조정했다. 다만 투자의견은 '매수(Buy)'가 아닌 '보유(Hold)'를 그대로 유지했다 — 목표가만 올리고 등급은 그대로 둔 셈이다.\n\n스타인은 2분기 인도량(48만126대, 컨센서스 대비 +18%)이 강했고 에너지 저장장치 배치 실적도 대체로 예상에 부합했다고 평가하면서도, AI 이니셔티브나 신차 관련 구체적 업데이트가 없었다는 점을 아쉬운 대목으로 짚었다 — 결국 FSD를 비롯한 자율주행·AI 진전이 장기 현금창출력을 좌우할 더 중요한 변수라는 취지다. 당시 26개 증권사 평균 목표주가는 $406.65 수준(홀드 컨센서스)이었다.\n\n주주 입장에서는 실적 발표 당일 주가가 7.5% 급락했음에도 대형 증권사가 목표주가를 올렸다는 점이 눈에 띈다. 다만 '보유' 의견을 유지한 채 나온 상향인 만큼, 이를 본격적인 강세 전환 신호로 해석하기보다는 밸류에이션 바닥을 소폭 높여 잡은 정도로 보는 게 맞다. 7월 22일 예정된 2분기 실적 발표에서 FSD·마진 관련 업데이트가 나오는지가 다음 관전 포인트다.",
+      "title_en": "Truist raises Tesla price target <em>to $430 from $400</em> — keeps Hold rating",
+      "hotShort_en": "Truist lifts Tesla target <em>to $430</em>",
+      "body_en": "Truist analyst William Stein raised his Tesla price target 7.5%, to $430 from $400, right after Tesla's Q2 delivery beat — but kept his rating at Hold rather than Buy, even as the stock fell 7.5% on delivery day, signaling valuation caution persists despite the beat.",
+      "summary_en": "Right after Tesla's Q2 delivery beat, some corners of Wall Street raised price targets while still holding back on their overall stance — Truist analyst William Stein is a case in point.\n\nStein lifted his Tesla price target from $400 to $430, a 7.5% increase. He kept his rating at Hold rather than upgrading to Buy — raising the target while leaving the rating unchanged.\n\nStein cited strong Q2 deliveries (480,126 vehicles, 18% above consensus) and energy-storage deployments that broadly matched expectations, but flagged the lack of concrete updates on AI initiatives or new vehicles as a letdown — arguing that progress on FSD and other autonomy/AI efforts remains the more important driver of Tesla's long-term cash generation. At the time, the average Wall Street price target across 26 analysts stood around $406.65, with a Hold-leaning consensus.\n\nFor shareholders, it's notable that a major brokerage raised its target even as the stock fell 7.5% on delivery day. But since the rating stayed at Hold, this reads less as a bullish turn and more as a modest recalibration of the valuation floor. The next thing to watch is whether Tesla's Q2 earnings report, due July 22, delivers concrete updates on FSD progress and margins.",
+      "href": "https://www.tipranks.com/news/the-fly/tesla-price-target-raised-to-430-from-400-at-truist-thefly-news",
+      "sentiment": "neutral",
+      "hot": 3
     },
     {
       "category": "product",
