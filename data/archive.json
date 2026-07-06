@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-06T20:13:00.000Z",
+      "title": "테슬라 주가, 로보택시 <em>마이애미 확장</em> 소식에 강세",
+      "hotShort": "로보택시 <em>마이애미 확장</em>에 테슬라 주가 강세",
+      "body": "테슬라 주가가 6일(현지시간) 로보택시 마이애미 서비스 확장 소식에 3%대 상승 마감 — 지난주 2분기 인도량 발표 후 급락(−7.5%)분을 일부 만회했다. 로보택시 확장이 다시 밸류에이션 재평가 재료로 부각됐다는 평가다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-robotaxi-miami-rally-2026-07-06",
+      "summary": "6일(현지시간) 뉴욕증시에서 테슬라(TSLA) 주가가 상승세로 거래를 마쳤다. 로보택시 서비스가 텍사스·캘리포니아에 이어 마이애미로 확장됐다는 소식이 매수세를 이끌었다.\n\n바론스에 따르면 이번 확장은 마이애미데이드 서부·중부 일부 구역을 대상으로 하며, 다운타운과 마이애미비치는 서비스 범위에서 제외됐다. 로보택시 사업은 오스틴 출시 이후 지역을 넓혀가는 중이며, 이번이 텍사스·캘리포니아 밖 첫 확장으로 소개됐다.\n\n이번 상승은 지난 2일 2분기 인도량이 컨센서스를 웃돌았음에도 주가가 7.5% 급락했던 것과 대비된다. 투자자들이 인도량 자체보다 로보택시·FSD 등 자율주행 사업의 진척을 밸류에이션의 핵심 변수로 보고 있다는 해석이 나온다.\n\n야후파이낸스 등 다른 매체도 같은 날 로보택시 마이애미 확장을 주가 상승의 배경으로 지목해, 시장이 이번 확장 소식에 실제로 반응했다는 정황을 뒷받침한다.",
+      "title_en": "Tesla shares rise on <em>Miami robotaxi expansion</em>",
+      "hotShort_en": "Tesla <em>up 3%+</em> on Miami robotaxi launch",
+      "body_en": "Tesla shares closed up roughly 3% on July 6 after the company expanded its Robotaxi service to Miami — clawing back part of last week's 7.5% post-delivery-report slide. Investors are again pricing autonomy progress as a key driver of Tesla's valuation.",
+      "summary_en": "Tesla (TSLA) shares rallied on July 6 as the company extended its Robotaxi service beyond Texas and California for the first time, launching in Miami.\n\nAccording to Barron's, the new zone covers parts of western and central Miami-Dade County, excluding downtown Miami and Miami Beach. The rollout follows Tesla's earlier robotaxi launches in Austin and California.\n\nThe gain stands in contrast to the 7.5% drop on July 2, when Tesla shares fell despite Q2 deliveries beating consensus — a sign investors are weighing robotaxi and FSD progress more heavily than delivery numbers alone.\n\nOther outlets, including Yahoo Finance, also pointed to the Miami expansion as the catalyst behind the day's rally, reinforcing that the market reacted directly to the autonomy news.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-robotaxi-launch-miami-c6ec7821",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barron's",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-06T19:36:00.000Z",
+      "title": "테슬라 앱 코드에 <em>캐빈 카메라 운전자 신원 확인</em> 기능 발견",
+      "hotShort": "테슬라, FSD 작동 전 <em>캐빈캠으로 신원 확인</em> 추진",
+      "body": "테슬라 앱 최신 버전(4.58.5) 코드에서 캐빈 카메라로 운전자 신원을 확인한 뒤에만 FSD를 활성화하는 기능 문자열이 발견됐다 — 신원이 일치하지 않으면 FSD 작동을 차단하고 오류 메시지를 띄우는 방식. FSD가 구독제로 전환된 만큼, 결제 계정과 실제 운전자를 묶어 무단 사용을 막으려는 조치로 풀이된다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-cabin-camera-identity-check-2026-07-06",
+      "summary": "테슬라 앱을 분해(디컴파일)해 신규 기능을 추적하는 계정(@Tesla_App_iOS)이 iOS 앱 4.58.5 버전(6월 27일 빌드) 코드에서 `fsdIdentityCheckFailedTitle`·`showFsdIdentityCheckFailedDialog`라는 문자열을 찾아냈다고 일렉트렉이 보도했다.\n\n이 문자열들은 캐빈 카메라가 운전자 신원을 확인한 뒤, 등록된 프로필과 일치하지 않으면 FSD 작동을 거부하고 실패 메시지를 띄우는 흐름을 가리킨다. 다만 테슬라의 캐빈 카메라는 애플 페이스ID처럼 적외선 심도 인식 방식이 아닌 일반 RGB 센서여서, 엄밀한 생체인증이라기보다는 보조적 권한 확인에 가깝다는 지적도 나온다.\n\nFSD는 최근 일회성 구매가 아닌 구독 상품으로 판매되고 있어, 신원 확인 기능은 결제 계정과 실제 운전자를 연동해 무단 사용·계정 공유를 막으려는 목적으로 해석된다.\n\n이번 발견은 유명 테슬라 큐레이터 소여 메릿(@SawyerMerritt)도 X에 공유하며 확산됐다. 다만 테슬라가 아직 공식 발표한 기능은 아니며, 코드 문자열 단계일 뿐 실제 탑재 여부·시점은 확인되지 않았다.",
+      "title_en": "Tesla app code hints at <em>cabin-camera identity check</em> before FSD",
+      "hotShort_en": "Tesla may <em>verify driver ID</em> via camera before FSD",
+      "body_en": "Decompiled strings in Tesla's iOS app (v4.58.5) suggest the cabin camera will verify a driver's identity before allowing FSD to engage, blocking activation with an error message if the face doesn't match an authorized profile. With FSD now sold as a subscription, the move looks aimed at tying access to the paying account holder.",
+      "summary_en": "An account that tracks Tesla app builds, @Tesla_App_iOS, found new strings — fsdIdentityCheckFailedTitle and showFsdIdentityCheckFailedDialog — in Tesla's iOS app version 4.58.5 (built June 27), Electrek reported.\n\nTogether, the strings describe a flow where the cabin camera checks the driver's identity and, if it doesn't match an authorized profile, blocks FSD from engaging and shows a failure message. Tesla's cabin camera is a standard RGB sensor rather than the infrared depth-sensing tech Apple uses for Face ID, making it a weaker biometric check than a true lock.\n\nBecause FSD is now sold as a subscription rather than a one-time purchase, tying activation to a verified driver profile would let Tesla keep the paid feature restricted to the account holder, limiting unauthorized use or account sharing.\n\nThe finding was amplified when well-known Tesla tracker Sawyer Merritt shared it on X. Tesla has not officially confirmed the feature — it remains a code-string discovery, with no confirmed rollout timeline.",
+      "href": "https://electrek.co/2026/07/06/tesla-cabin-camera-fsd-identity-check/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Not a Tesla App"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1h ago",
@@ -2298,47 +2348,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-24T10:31:00.000Z",
-      "title": "Barron's — 스페이스X·테슬라 하락 겹쳐 머스크 <em>조만장자 지위 반납</em>",
-      "hotShort": "머스크, 테슬라·스페이스X 하락에 <em>조만장자 지위 반납</em>",
-      "body": "스페이스X 주가 하락과 테슬라 부진이 겹치며 일론 머스크가 1조달러 이상 자산가(조만장자) 지위를 잃었다고 Barron's가 보도했다 — 테슬라 주가가 머스크 개인 자산의 핵심 변수임을 재확인하는 사례로, 두 회사 주가 회복 여부가 지위 복귀의 열쇠가 된다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "musk-elon-trillionaire-status-lost-2026-06-24",
-      "summary": "일론 머스크의 순자산은 비상장 스페이스X 지분·테슬라 주식·X(구 트위터) 등 여러 자산의 합산으로 결정된다. 이 중 테슬라 주식은 실시간 시장 가격에 따라 등락하는 공개 변수이며, 스페이스X는 직원 주식 매각(텐더 오퍼)을 통해 형성된 비공개 시장 가치가 기준점이 된다. Barron's에 따르면 두 자산이 동시에 하락하며 머스크의 총 자산이 1조달러 아래로 떨어졌다.\n\n이번 하락의 배경에는 6월 23일 미국 증시를 강타한 기술주·반도체주 전반의 매도세가 있다. 스페이스X 역시 이 흐름에서 자유롭지 못했으며, 테슬라 주가도 함께 약세를 보이며 머스크의 포트폴리오 전반에 하락 압력이 가해졌다.\n\n조만장자 지위는 머스크가 2026년 초 스페이스X 가치 급등과 테슬라 주가 회복이 맞물리며 세계 최초로 넘어선 임계치다. 이번 Barron's 보도는 이 지위가 고정이 아닌 유동적이며, 두 핵심 자산 중 하나라도 크게 흔들리면 지위가 변할 수 있음을 보여준다.\n\n테슬라 주주 관점에서 이 소식은 테슬라 주가 자체가 세계 최대 부자의 자산 구성에서 결정적 변수라는 사실을 부각시킨다. 테슬라 주가 회복이 이뤄진다면 머스크의 조만장자 지위 복귀 가능성도 함께 높아지는 구조이며, 이는 머스크의 테슬라 집중도와 의사결정에 영향을 줄 수 있는 요인이다.",
-      "title_en": "SpaceX stock, Tesla woes strip Elon Musk of <em>trillionaire status</em>",
-      "hotShort_en": "Musk loses <em>trillionaire</em> to Tesla woes",
-      "body_en": "Elon Musk has lost his trillionaire status as SpaceX's stock valuation fell and Tesla shares came under pressure, Barron's reports — underscoring Tesla's role as a critical variable in Musk's net worth and making a recovery in both companies' values the key to reclaiming the $1 trillion threshold.",
-      "summary_en": "Elon Musk's net worth is determined by a combination of his SpaceX equity, Tesla shares, and stakes in X and other ventures. Tesla is the publicly traded component that moves in real time with market prices, while SpaceX establishes valuation benchmarks through periodic employee share tender offers. According to Barron's, a concurrent decline in both core assets pushed Musk's aggregate net worth below the $1 trillion threshold.\n\nThe trigger was the broad technology and semiconductor selloff of June 23, which affected SpaceX alongside wider tech names. Tesla shares also declined in the same session, with the combined pressure from both major holdings pulling the aggregate below the milestone level.\n\nThe trillionaire status was a threshold Musk first crossed in early 2026, when SpaceX's surging valuation and Tesla's stock recovery aligned to push his net worth past $1 trillion — making him the first confirmed trillionaire in history. The Barron's report highlights that this mark is dynamic, not permanent: a recovery in either core holding could restore the threshold.\n\nFor Tesla investors, the takeaway is that Tesla stock is directly connected to how the world's most prominent technologist allocates attention and capital. A sustained Tesla share price recovery would mechanically contribute to restoring the milestone — an unusual and concrete reminder that Musk's personal financial position and Tesla's market performance remain closely linked.",
-      "href": "https://www.barrons.com/articles/spacex-stock-tesla-elon-musk-trillionaire-03ae2d09",
-      "sentiment": "bear",
-      "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-06-24T06:39:10.000Z",
-      "title": "모건스탠리, 중국 휴머노이드 로봇 출하 전망 <em>두 배 상향</em> — 상업화 가속 확인",
-      "hotShort": "모건스탠리, 중국 로봇 출하 전망 <em>두 배 상향</em>",
-      "body": "모건스탠리가 중국 휴머노이드 로봇 출하 전망을 두 배로 상향했다고 CNBC가 보도했다 — 상업화가 예상보다 빠르게 가속되고 있다는 대형 투자은행의 공식 확인으로, 테슬라 옵티머스가 경쟁할 글로벌 로봇 시장이 본격 형성 중임을 의미한다.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "product-morgan-stanley-china-humanoid-robot-2026-06-24",
-      "summary": "모건스탠리가 이번 보고서를 발표한 배경에는 중국 휴머노이드 로봇 제조사들의 생산 규모 확대와 예상을 앞지른 산업용 배치 실적이 있다. CNBC에 따르면 상업화 속도가 시장 컨센서스를 웃돌면서 모건스탠리는 출하 전망 자체를 두 배 수준으로 대폭 조정했다 — 단순한 수치 수정이 아니라 시장 구조에 대한 시각 전환을 의미한다.\n\n중국 휴머노이드 로봇 생태계는 유니트리(Unitree), 아지언트(Agient) 등 다수의 스타트업과 BYD 같은 대형 제조사의 진입이 맞물리면서 빠르게 성숙하고 있다. 정부 산업 정책 지원과 저비용 생산 인프라를 등에 업고 제조·물류 분야 상업 배치가 앞당겨지고 있으며, 이것이 모건스탠리가 전망치를 올린 직접 근거다.\n\n테슬라 옵티머스 투자자 관점에서 이 보고서는 두 가지 메시지를 동시에 전달한다. 우선 경쟁 심화 — 중국산 로봇이 비용 경쟁력을 앞세워 글로벌 제조·물류 고객을 선점할 경우 옵티머스의 초기 도입 속도에 영향이 있을 수 있다. 반면, 대형 투자은행이 전망을 두 배로 올렸다는 사실 자체가 휴머노이드 로봇 시장 전체가 투자·수익 가능한 산업으로 자리잡고 있음을 제도권 금융이 공식 인정한 것으로, 이는 테슬라 옵티머스 내러티브에도 구조적 지지대가 된다.\n\n테슬라는 옵티머스를 기가팩토리 자체 생산라인에 먼저 배치해 생산성을 높인 뒤 외부 판매로 확장하는 전략을 추구하고 있다. 중국 경쟁사들의 빠른 상업화가 이 전략의 '외부 판매' 단계에서 시장 점유를 경쟁하는 위협 요소인지, 아니면 전체 시장 파이를 함께 키우는 공범인지가 향후 핵심 판단 포인트다.",
-      "title_en": "Morgan Stanley <em>doubles</em> China humanoid robot shipment forecast as commercialization accelerates",
-      "hotShort_en": "Morgan Stanley <em>doubles</em> China robot shipment forecast",
-      "body_en": "Morgan Stanley has doubled its China humanoid robot shipment forecast as commercialization accelerates faster than expected, CNBC reports — a major upward revision from a top investment bank that confirms the sector is maturing from pilot programs into scaled industrial deployments, with direct implications for Tesla's Optimus competitive landscape.",
-      "summary_en": "Morgan Stanley's decision to double its China humanoid robot shipment forecast reflects an acceleration in commercial deployments that has outpaced prior institutional expectations. CNBC's report indicates the revision is grounded in faster-than-modeled progress among Chinese robotics manufacturers — from production scale-up to actual industrial adoption — prompting the bank to substantially revise what was already an optimistic sector outlook.\n\nChina's humanoid robotics ecosystem has been expanding rapidly, with companies including Unitree and other well-funded startups demonstrating industrial-grade systems alongside interest from major manufacturers who have signaled robotics ambitions. Government industrial policy support and domestic manufacturing cost advantages have enabled Chinese operators to advance the timeline from demonstration to production-grade deployment, establishing early commercial proof of concept across manufacturing and logistics applications.\n\nFor Tesla Optimus investors, the Morgan Stanley revision carries a dual message. The competitive risk is straightforward: Chinese robots with structural cost advantages are reaching commercial scale faster than expected, and they are targeting the same industrial and logistics segments that Tesla has positioned Optimus to serve. If Chinese manufacturers secure those early deployments, the addressable market for Optimus's external commercial expansion will be more contested.\n\nThe countervailing case is sector validation: when a major investment bank doubles its market forecast, it signals that humanoid robotics is graduating from an emerging technology to a mainstream industrial investment category. Tesla's Optimus thesis is built on the premise that this market will be large and real — confirmation from a firm like Morgan Stanley that it is arriving faster than modeled is a structural tailwind for the sector as a whole, including Tesla's long-term robotics program.\n\nTesla's strategy is to first deploy Optimus across its own Giga factories — proving productivity gains internally — before scaling external sales. Whether Chinese manufacturers' faster commercialization represents a threat to that external market or simply expands the total opportunity is the central strategic question Tesla investors should be tracking.",
-      "href": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-06 19:05 UTC 자동 갱신 · 최신순"
+  "asOf": "2026-07-06 21:15 UTC 자동 갱신 · 최신순"
 }

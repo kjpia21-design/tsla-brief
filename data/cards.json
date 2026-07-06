@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-06T20:13:00.000Z",
+      "title": "테슬라 주가, 로보택시 <em>마이애미 확장</em> 소식에 강세",
+      "hotShort": "로보택시 <em>마이애미 확장</em>에 테슬라 주가 강세",
+      "body": "테슬라 주가가 6일(현지시간) 로보택시 마이애미 서비스 확장 소식에 3%대 상승 마감 — 지난주 2분기 인도량 발표 후 급락(−7.5%)분을 일부 만회했다. 로보택시 확장이 다시 밸류에이션 재평가 재료로 부각됐다는 평가다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-robotaxi-miami-rally-2026-07-06",
+      "summary": "6일(현지시간) 뉴욕증시에서 테슬라(TSLA) 주가가 상승세로 거래를 마쳤다. 로보택시 서비스가 텍사스·캘리포니아에 이어 마이애미로 확장됐다는 소식이 매수세를 이끌었다.\n\n바론스에 따르면 이번 확장은 마이애미데이드 서부·중부 일부 구역을 대상으로 하며, 다운타운과 마이애미비치는 서비스 범위에서 제외됐다. 로보택시 사업은 오스틴 출시 이후 지역을 넓혀가는 중이며, 이번이 텍사스·캘리포니아 밖 첫 확장으로 소개됐다.\n\n이번 상승은 지난 2일 2분기 인도량이 컨센서스를 웃돌았음에도 주가가 7.5% 급락했던 것과 대비된다. 투자자들이 인도량 자체보다 로보택시·FSD 등 자율주행 사업의 진척을 밸류에이션의 핵심 변수로 보고 있다는 해석이 나온다.\n\n야후파이낸스 등 다른 매체도 같은 날 로보택시 마이애미 확장을 주가 상승의 배경으로 지목해, 시장이 이번 확장 소식에 실제로 반응했다는 정황을 뒷받침한다.",
+      "title_en": "Tesla shares rise on <em>Miami robotaxi expansion</em>",
+      "hotShort_en": "Tesla <em>up 3%+</em> on Miami robotaxi launch",
+      "body_en": "Tesla shares closed up roughly 3% on July 6 after the company expanded its Robotaxi service to Miami — clawing back part of last week's 7.5% post-delivery-report slide. Investors are again pricing autonomy progress as a key driver of Tesla's valuation.",
+      "summary_en": "Tesla (TSLA) shares rallied on July 6 as the company extended its Robotaxi service beyond Texas and California for the first time, launching in Miami.\n\nAccording to Barron's, the new zone covers parts of western and central Miami-Dade County, excluding downtown Miami and Miami Beach. The rollout follows Tesla's earlier robotaxi launches in Austin and California.\n\nThe gain stands in contrast to the 7.5% drop on July 2, when Tesla shares fell despite Q2 deliveries beating consensus — a sign investors are weighing robotaxi and FSD progress more heavily than delivery numbers alone.\n\nOther outlets, including Yahoo Finance, also pointed to the Miami expansion as the catalyst behind the day's rally, reinforcing that the market reacted directly to the autonomy news.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-robotaxi-launch-miami-c6ec7821",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barron's",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-06T19:36:00.000Z",
+      "title": "테슬라 앱 코드에 <em>캐빈 카메라 운전자 신원 확인</em> 기능 발견",
+      "hotShort": "테슬라, FSD 작동 전 <em>캐빈캠으로 신원 확인</em> 추진",
+      "body": "테슬라 앱 최신 버전(4.58.5) 코드에서 캐빈 카메라로 운전자 신원을 확인한 뒤에만 FSD를 활성화하는 기능 문자열이 발견됐다 — 신원이 일치하지 않으면 FSD 작동을 차단하고 오류 메시지를 띄우는 방식. FSD가 구독제로 전환된 만큼, 결제 계정과 실제 운전자를 묶어 무단 사용을 막으려는 조치로 풀이된다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-cabin-camera-identity-check-2026-07-06",
+      "summary": "테슬라 앱을 분해(디컴파일)해 신규 기능을 추적하는 계정(@Tesla_App_iOS)이 iOS 앱 4.58.5 버전(6월 27일 빌드) 코드에서 `fsdIdentityCheckFailedTitle`·`showFsdIdentityCheckFailedDialog`라는 문자열을 찾아냈다고 일렉트렉이 보도했다.\n\n이 문자열들은 캐빈 카메라가 운전자 신원을 확인한 뒤, 등록된 프로필과 일치하지 않으면 FSD 작동을 거부하고 실패 메시지를 띄우는 흐름을 가리킨다. 다만 테슬라의 캐빈 카메라는 애플 페이스ID처럼 적외선 심도 인식 방식이 아닌 일반 RGB 센서여서, 엄밀한 생체인증이라기보다는 보조적 권한 확인에 가깝다는 지적도 나온다.\n\nFSD는 최근 일회성 구매가 아닌 구독 상품으로 판매되고 있어, 신원 확인 기능은 결제 계정과 실제 운전자를 연동해 무단 사용·계정 공유를 막으려는 목적으로 해석된다.\n\n이번 발견은 유명 테슬라 큐레이터 소여 메릿(@SawyerMerritt)도 X에 공유하며 확산됐다. 다만 테슬라가 아직 공식 발표한 기능은 아니며, 코드 문자열 단계일 뿐 실제 탑재 여부·시점은 확인되지 않았다.",
+      "title_en": "Tesla app code hints at <em>cabin-camera identity check</em> before FSD",
+      "hotShort_en": "Tesla may <em>verify driver ID</em> via camera before FSD",
+      "body_en": "Decompiled strings in Tesla's iOS app (v4.58.5) suggest the cabin camera will verify a driver's identity before allowing FSD to engage, blocking activation with an error message if the face doesn't match an authorized profile. With FSD now sold as a subscription, the move looks aimed at tying access to the paying account holder.",
+      "summary_en": "An account that tracks Tesla app builds, @Tesla_App_iOS, found new strings — fsdIdentityCheckFailedTitle and showFsdIdentityCheckFailedDialog — in Tesla's iOS app version 4.58.5 (built June 27), Electrek reported.\n\nTogether, the strings describe a flow where the cabin camera checks the driver's identity and, if it doesn't match an authorized profile, blocks FSD from engaging and shows a failure message. Tesla's cabin camera is a standard RGB sensor rather than the infrared depth-sensing tech Apple uses for Face ID, making it a weaker biometric check than a true lock.\n\nBecause FSD is now sold as a subscription rather than a one-time purchase, tying activation to a verified driver profile would let Tesla keep the paid feature restricted to the account holder, limiting unauthorized use or account sharing.\n\nThe finding was amplified when well-known Tesla tracker Sawyer Merritt shared it on X. Tesla has not officially confirmed the feature — it remains a code-string discovery, with no confirmed rollout timeline.",
+      "href": "https://electrek.co/2026/07/06/tesla-cabin-camera-fsd-identity-check/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Not a Tesla App"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1h ago",
@@ -141,52 +191,7 @@
       ],
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-07-06T08:01:47.000Z",
-      "title": "사이버캡, <em>점자 라벨·보조동물 공간</em> 탑재 — 머스크 \"시각장애인 니즈 충족\"",
-      "hotShort": "사이버캡, <em>점자·보조동물 공간</em> 탑재 확인",
-      "body": "테슬라 사이버캡이 비상정지 버튼·도어 손잡이에 점자 표기를 넣고, 보조동물 공간과 휠체어 높이에 맞춘 좌석을 갖춘 것으로 확인됐다 — 오스틴 전미시각장애인연맹(NFB) 총회 전시 차량을 두고 일론 머스크도 X에서 \"시각장애인의 니즈를 충족시키는 게 중요하다\"고 직접 언급했다. 로보택시 대중화 과정에서 접근성까지 설계 초기부터 반영했다는 신호다.",
-      "sourceName": "Benzinga",
-      "sourceLabel": "press",
-      "slug": "product-cybercab-accessibility-braille-2026-07-06",
-      "summary": "테슬라의 무인 로보택시 전용 차량 사이버캡이 시각·이동 장애인을 위한 접근성 설계를 갖춘 것으로 확인됐다. 오스틴에서 열린 전미시각장애인연맹(NFB) 연례 총회에 테슬라 로보택시 계정이 사이버캡을 전시한 게시물을 올리면서 알려졌다.\n\n사이버캡은 비상정지 기능을 겸하는 위험경고(hazard) 버튼과 실내 도어 개폐 손잡이에 점자 표기를 넣었다. 이를 통해 시각장애인 승객이 동승자 없이도 스스로 차량을 호출·탑승·하차할 수 있도록 설계됐다.\n\n좌석 높이는 표준 휠체어 좌석 높이에 맞춰졌고, 사이버캡 특유의 버터플라이 도어는 휠체어를 차량과 평행하게 댈 수 있도록 배치돼 일반 차량 대비 이승(transfer) 과정을 크게 단순화한다. 실내에는 보조동물·보조기구를 위한 별도 공간도 마련됐다.\n\n일론 머스크는 이 전시 게시물에 대한 반응으로 X에 \"사이버캡이 시각장애인의 니즈를 충족시키도록 하는 게 중요하다\"고 직접 언급했다. 주주 입장에서는 매출과 직결되는 소식은 아니지만, 로보택시 대중화 초기 단계부터 접근성을 설계에 반영했다는 점에서 규제·여론 측면의 긍정적 신호로 볼 수 있다.",
-      "title_en": "Cybercab adds <em>braille labels and service-animal space</em> — Musk: \"meet the needs of the blind\"",
-      "hotShort_en": "Cybercab confirmed with <em>braille, service-animal space</em>",
-      "body_en": "Tesla's Cybercab has been confirmed to feature braille labeling on its hazard/emergency-stop button and interior door releases, along with wheelchair-height seating and dedicated space for service animals — after Tesla's Robotaxi account showcased the vehicle at the National Federation of the Blind's convention in Austin. Elon Musk reacted on X, saying \"making sure Cybercab meets the needs of the blind\" matters, a sign accessibility was built into the design from early on as Robotaxi scales up.",
-      "summary_en": "Tesla's dedicated driverless Robotaxi vehicle, Cybercab, has been confirmed to include accessibility features for blind and mobility-impaired riders. The details emerged after Tesla's Robotaxi account posted about the vehicle's presence at the National Federation of the Blind's annual convention in Austin.\n\nThe Cybercab carries braille markings on its hazard button, which doubles as an emergency stop, and on its interior door releases — letting a blind passenger book, board and exit a ride independently, without needing a companion.\n\nSeat height is aligned with standard wheelchair seat height, and the Cybercab's signature butterfly doors are positioned to let a wheelchair park parallel to the vehicle, simplifying the transfer compared with a conventional car. The interior also includes dedicated room for service animals and assistive devices.\n\nReacting to the convention post, Elon Musk wrote on X that \"making sure Cybercab meets the needs of the blind\" matters. For shareholders, this isn't a revenue story, but it signals that Tesla built accessibility into the Robotaxi design from an early stage — a modest positive for regulatory and public perception as the service scales.",
-      "href": "https://www.benzinga.com/markets/tech/26/07/60271595/tesla-cybercab-showcases-braille-labels-and-service-animal-space-elon-musk-says-robotaxi-must-meet-the-needs-of-the-blind",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Benzinga",
-        "Teslarati"
-      ],
-      "sentiment": "bull",
-      "hot": 3
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-07-06T02:02:09.000Z",
-      "title": "퀸즐랜드대 100일 실도로 테스트 — 테슬라 FSD, <em>500건 안전개입</em> 필요",
-      "hotShort": "퀸즐랜드대 테슬라 FSD 실도로 테스트 <em>500건 개입</em>",
-      "body": "호주 퀸즐랜드대 연구팀이 테슬라 모델Y로 100일 넘게 매일 FSD를 실주행 테스트한 결과 500건 넘는 안전 개입이 발생 — 스쿨존 시간대 인식은 90% 이상 개입이 필요했다. 로보택시 확장이 한창인 시점에 나온 독립 데이터라 FSD 신뢰성 논쟁에 실증을 더한다.",
-      "sourceName": "Startup Daily",
-      "sourceLabel": "press",
-      "slug": "fsd-uq-queensland-100day-safety-test-2026-07-06",
-      "summary": "퀸즐랜드대(University of Queensland) 토목공학과 정주 자오(Zuduo Zheng) 교수 연구팀은 테슬라 모델Y 한 대에 FSD(완전자율주행·Supervised)를 켜고 100일 넘게 매일 도로에 내보내는 실험을 진행했다. 목적은 실험실이 아닌 실제 호주 도로 환경에서 자율주행 소프트웨어가 얼마나 안정적으로 작동하는지 독립적으로 기록하는 것이었다.\n\n결과는 500건이 넘는 안전 관련 개입·한계 노출 사례로 집계됐다. 100일 넘는 기간 동안 운전자 개입 없이 처음부터 끝까지 완주한 주행은 단 한 번도 없었다고 연구팀은 밝혔다.\n\n반복적으로 나타난 문제는 특정 유형에 집중됐다. 스쿨존처럼 시간대별로 제한속도가 바뀌는 구간에서는 90% 이상 개입이 필요했고, 하교 시간이 한참 지난 저녁에도 스쿨존 제한을 그대로 적용하는 오류까지 있었다. 이 밖에 복잡한 로터리(라운드어바웃), 주차 차량이 많은 표시 불량 도로, 전동킥보드 이용자를 보행자로 오인하는 사례, 악천후에서 차선 인식 저하 등이 반복 관찰됐다.\n\n특히 호주 특유의 '지퍼 병합(zipper merge)' 구간에서는 FSD가 좌우로 흔들리며 혼란스러워하는 모습을 반복적으로 보였고, 한 사례에서는 FSD와 상대 차량 모두 병합 지점에서 속도를 줄이지 않아 위험한 상황이 연출되기도 했다. 연구팀은 이번 사례들을 'White Box Autonomy'라는 공개 아카이브로 축적해 자율주행 인프라 정책 논의에 활용할 계획이라고 밝혔다.\n\n테슬라가 마이애미에서 무인 로보택시 운행을 막 시작한 시점에 나온 이번 데이터는 FSD의 완전자율 신뢰성 논쟁에 실증적 근거를 더한다. 연구팀은 대부분의 사례가 드문 예외 상황이 아니라 일상적인 도로 상황이었다는 점을 강조했다.",
-      "title_en": "UQ's <em>100-day real-world test</em> finds Tesla FSD needed 500+ interventions",
-      "hotShort_en": "UQ test finds Tesla FSD needs <em>500+ fixes</em>",
-      "body_en": "University of Queensland researchers drove a Tesla Model Y with FSD engaged daily for over 100 days on Australian roads and logged more than 500 safety-related interventions — school-zone timing alone required intervention over 90% of the time. The independent dataset lands just as Tesla scales up Robotaxi service, adding real-world evidence to the debate over FSD's reliability.",
-      "summary_en": "Professor Zuduo Zheng of the University of Queensland's School of Civil Engineering led a study that put a single Tesla Model Y through FSD (Supervised) driving every day for more than 100 days on Queensland roads. The goal was to independently document how the software performs in everyday Australian traffic, not in a lab.\n\nThe tally came to more than 500 safety-critical interventions or moments revealing a limitation in how the system read the road. Across the entire 100-plus-day period, the researchers said they never completed a single trip where FSD drove start to finish without a human taking over.\n\nThe problems clustered around specific, repeatable situations. Time-restricted speed zones such as school zones required intervention more than 90% of the time — in one case the car kept obeying a school-zone limit well into the evening, long after school hours. Complex roundabouts, poorly marked or steep streets crowded with parked cars, e-scooter riders misread as pedestrians, and reduced accuracy in bad weather were all recurring issues.\n\nAustralia's zipper-merge rule proved especially tricky — FSD repeatedly appeared to hesitate and weave side to side approaching merge points, and in one incident neither FSD nor the other vehicle slowed down at the merge. The team is compiling these cases into a public archive called White Box Autonomy to inform future autonomous-vehicle infrastructure policy.\n\nThe findings arrive just as Tesla launched fully driverless Robotaxi rides in Miami, adding independent real-world data to the debate over FSD's readiness for full autonomy. The researchers stressed that most incidents were everyday situations, not rare edge cases.",
-      "href": "https://www.startupdaily.net/after-hours/motoring/we-spent-100-days-in-queensland-in-a-self%E2%80%91driving-tesla-model-y-and-500-incidents-later-the-recurring-problems-are-obvious/",
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-06 19:05 UTC 자동 갱신 · 최신순"
+  "asOf": "2026-07-06 21:15 UTC 자동 갱신 · 최신순"
 }
