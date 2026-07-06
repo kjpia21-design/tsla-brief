@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-06 11:06 UTC 자동 갱신 · 최신순",
+  "asOf": "2026-07-06 13:08 UTC 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-06T10:00:22.000Z",
+      "title": "머스크 반감에 <em>스페이스X 지수 편입</em>까지 피하는 개인투자자들 — 블룸버그",
+      "hotShort": "머스크 반감, <em>지수펀드 회피</em>로 번지다",
+      "body": "스페이스X가 러셀1000에 이어 나스닥100에도 편입되며 인덱스펀드를 통해 강제로 노출되자, 일론 머스크에 비판적인 개인투자자들이 포트폴리오를 조정해 회피에 나섰다 — 머스크 개인 리스크가 테슬라를 넘어 그의 기업군 전반의 투자심리에 영향을 미친다는 신호.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-index-inclusion-investor-avoidance-2026-07-06",
+      "summary": "스페이스X가 최근 러셀1000에 이어 약 일주일 뒤 나스닥100에도 편입되면서, 이들 지수를 추종하는 ETF·펀드는 이르면 7월 초부터 스페이스X 비중을 의무적으로 담게 됐다. 다만 상장(IPO) 후 12개월의 '시즈닝' 기간을 거쳐야 하는 S&P500에는 아직 편입되지 않았다.\n\n문제는 일론 머스크에 비판적인 개인투자자들이 이런 수동적 노출을 원치 않는다는 점이다. 블룸버그가 소개한 필라델피아의 소프트웨어 엔지니어 크리스토퍼 베즈나(46)의 사례가 대표적이다. 그는 약 100만달러 규모의 포트폴리오 중 5만달러를 유럽 인덱스펀드로 옮기고, 스페이스X 경쟁사인 로켓랩 주식을 사들이는 방식으로 스페이스X 익스포저를 의도적으로 줄였다.\n\n이는 지난 6월 26일 블룸버그가 보도한 '지수 편입발 스페이스X 매수 급증' 기사의 후속 취재로, 인덱스 편입이 만드는 수동 자금 유입과 별개로 머스크 개인 브랜드에 대한 반감이 투자 행동으로 이어지고 있음을 보여준다.\n\n테슬라 주주 입장에서 직접적 사건은 아니지만, 머스크의 개인 평판 리스크가 스페이스X뿐 아니라 테슬라를 포함한 '머스크 기업군' 전반의 투자심리에 어떻게 전이되는지 보여주는 사례로 참고할 만하다.",
+      "title_en": "Investors avoid even index-fund exposure to SpaceX over Musk backlash — Bloomberg",
+      "hotShort_en": "Musk backlash spreads to <em>index-fund avoidance</em>",
+      "body_en": "After SpaceX joined the Russell 1000 and, about a week later, the Nasdaq 100, index funds tracking those benchmarks are now forced to carry SpaceX exposure — but investors critical of Elon Musk are rebalancing portfolios to avoid it, a sign his personal reputational risk is spilling over into sentiment across his whole company group, not just Tesla.",
+      "summary_en": "SpaceX was recently added to the Russell 1000, and about a week later to the Nasdaq 100, meaning ETFs and funds tracking those indexes have had to carry mandatory SpaceX weightings since early July. It remains excluded from the S&P 500 for now, which requires a 12-month post-IPO \"seasoning\" period.\n\nThe catch: investors critical of Elon Musk don't want that passive exposure. Bloomberg profiled Philadelphia software engineer Christopher Bejnar, 46, who moved $50,000 of his roughly $1 million portfolio into European index funds and bought shares of SpaceX rival Rocket Lab specifically to cut his SpaceX exposure.\n\nThe story is a follow-up to Bloomberg's June 26 report on index-driven buying pressure on SpaceX shares, and shows that alongside the passive capital inflows from index inclusion, personal backlash against Musk is also shaping investor behavior.\n\nThere's no direct Tesla event here, but it's a useful data point on how Musk's personal reputational risk bleeds into sentiment toward his broader company group, Tesla included.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-06/elon-musk-critics-reshape-portfolios-ahead-of-spacex-index-inclusion?srnd",
+      "sentiment": "neutral",
+      "hot": 4
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -2303,26 +2323,6 @@
       "href": "https://apnews.com/article/spacex-cursor-acquisition-vibe-coding-a5c60fcbaaca262cf107d30f1de899ef",
       "sentiment": "neutral",
       "hot": 7
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
-      "pubDate": "2026-06-23T23:51:00.000Z",
-      "title": "리오 틴토 임원 — 리튬 부문, 그룹 내 <em>최고 성장 사업부</em>로 지목",
-      "hotShort": "리오 틴토, 리튬을 그룹 내 <em>최고 성장 사업부</em>로 지목",
-      "body": "세계 최대 광산업체 중 하나인 리오 틴토 임원이 리튬이 그룹 내 가장 빠르게 성장하는 사업부라고 밝혔다 — 대형 채굴 메이저의 이 같은 선언은 EV 배터리 원자재 공급 확대를 예고하며, 배터리 팩 원가 하락을 통해 테슬라의 장기 마진 경쟁력에 긍정적 신호로 해석된다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "stock-rio-tinto-lithium-fastest-growing-2026-06-23",
-      "summary": "리오 틴토(Rio Tinto)는 세계 최대 철광석·구리 채굴사 중 하나로, 최근 수년간 리튬 사업에 대규모 투자를 집행해 왔다. 아르헨티나 리튬 삼각지대와 세르비아 자다르 광산 등 주요 리튬 프로젝트를 보유하고 있으며, 이번 임원 발언은 회사가 리튬을 미래 핵심 사업으로 확고히 자리매김하고 있음을 재확인한다.\n\n리오 틴토 임원이 리튬 부문을 '가장 빠르게 성장하는 사업부'로 꼽은 것은, 세계적 채굴 메이저가 EV 배터리 핵심 원자재에 대한 중장기 수요를 확실히 보고 있다는 기관 수준의 확신 신호다. 대형 채굴사가 특정 광물에 이 같은 위상을 부여한다는 것은 그만큼 공급 투자가 지속될 것임을 의미한다.\n\n테슬라 투자자 관점에서 리오 틴토의 리튬 투자 확대 기조는 중장기적으로 배터리 소재 공급 안정화 → 배터리 팩 원가 하락 가능성으로 이어진다. 배터리 팩 비용은 테슬라 차량 마진의 핵심 변수로, 원자재 비용 절감은 경쟁력 있는 가격 책정을 가능하게 하는 구조적 요인이다.\n\n현재 리튬 가격은 2022년 고점 대비 이미 크게 하락한 상태다. 추가 공급 확대는 장기적으로 가격을 더 낮출 수 있는데, 이는 채굴 업체에는 부정적이나 테슬라 같은 EV 제조사에는 원가 측면에서 긍정적이다. 리오 틴토의 이번 발언은 기관 투자자들에게 EV 전환이 여전히 장기 성장 궤도에 있음을 재확인하는 메시지이기도 하다.",
-      "title_en": "Rio Tinto executive names lithium its <em>fastest-growing division</em>, backing EV battery supply",
-      "hotShort_en": "Rio Tinto names lithium <em>fastest-growing</em>",
-      "body_en": "A Rio Tinto executive named lithium the mining giant's fastest-growing business division — a declaration from one of the world's largest miners that long-term EV battery demand is on track, with positive implications for battery material supply availability and Tesla's long-term battery cost curve.",
-      "summary_en": "Rio Tinto is one of the world's largest diversified miners, with major operations in iron ore, copper, and aluminum. In recent years, the company has committed significant capital to lithium assets — including projects in Argentina's Lithium Triangle and Serbia's Jadar deposit — positioning itself for the global electric vehicle transition.\n\nAn executive's characterization of lithium as Rio Tinto's fastest-growing division reflects institutional-level conviction in sustained EV battery demand. When a mining major publicly elevates a mineral to this status, it typically signals that further supply investment is committed — not merely projected — which matters for medium-term supply availability and price stability.\n\nFor Tesla investors, the signal is constructive on the battery cost curve. Greater mining investment in lithium supply typically translates, over a multi-year horizon, into more stable availability and moderating raw material prices. Battery pack cost is one of the most important levers in Tesla's gross margin — cheaper, more abundant lithium supports the long-term cost-reduction roadmap that underpins Tesla's vehicle pricing strategy and profitability outlook.\n\nIt's worth noting that lithium prices are already well below their 2022 peak. Additional supply growth may exert further downward pressure on commodity prices — a headwind for miners but a tailwind for EV manufacturers. Rio Tinto's comments reinforce the narrative that the EV transition remains a multi-decade structural trend, an important long-term underpinning for Tesla's growth case.",
-      "href": "https://www.reuters.com/business/autos-transportation/rio-tinto-sees-lithium-fastest-growing-division-executive-says-2026-06-23/",
-      "sentiment": "bull",
-      "hot": 4
     }
   ]
 }
