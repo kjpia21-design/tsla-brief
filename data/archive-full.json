@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-06 18:14 UTC · 누적 545건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-06 21:41 UTC · 누적 546건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-06T17:24:04.000Z",
+      "title": "테슬라, 기가베를린 배터리셀 라인에 <em>유럽 스타트업 기술</em> 공모",
+      "hotShort": "기가베를린 배터리셀 라인에 <em>스타트업 기술 공모</em> 개방",
+      "body": "테슬라가 독일 기가베를린(그륀하이데) 4680 배터리셀 라인의 소재·장비·운영·자동화·AI 기술을 유럽 스타트업 대상 공모 '셀 기가 챌린지'로 모집(7월 24일 마감) — 5월 발표한 연산 8→18GWh 증설 목표를 사내 기술만으로 채우기 어렵다는 신호로 읽힌다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-giga-berlin-cell-giga-challenge-2026-07-06",
+      "summary": "지난 5월 12일 그륀하이데 공장장 안드레 티리히는 $2.5억 규모 추가 투자로 이 공장의 연간 4680 배터리셀 생산능력을 기존 8GWh에서 18GWh로 두 배 이상 늘리겠다고 밝힌 바 있다. 이번 '셀 기가 챌린지' 공모는 그 목표를 달성하기 위한 후속 조치로 나왔다.\n\n공모는 스타트업 매칭 플랫폼 JUNI와 함께 진행되며, 접수 기한은 7월 24일이다. 대상 분야는 소재·장비·운영·자동화·인공지능(AI) 5개로, 셀 제조 공정을 더 빠르고 저렴하고 안전하며 대규모로 확장 가능하게 만들 기술을 찾는다.\n\n선정 절차는 그륀하이데 셀 제조팀이 지원서를 직접 심사하고, 유망한 제안은 기술 미팅과 테슬라 관계자 앞 피치데이를 거쳐 유료 파일럿 프로젝트로 이어질 수 있다.\n\n외부 스타트업에 문을 연다는 것은 공격적인 증설 목표를 사내 기술만으로는 채우기 어렵다는 뜻으로 해석될 수 있다. 배터리셀 증산은 차량뿐 아니라 파워월·메가팩 등 에너지 저장 사업의 공급 능력과도 직결돼 주주가 지켜볼 만한 대목이다.",
+      "title_en": "Tesla opens Giga Berlin battery-cell line to <em>outside European startups</em>",
+      "hotShort_en": "Giga Berlin battery line opens to <em>outside startups</em>",
+      "body_en": "Tesla is soliciting European startups for materials, equipment, operations, automation and AI tech at its Giga Berlin (Grünheide) 4680 cell line through the 'Cell Giga Challenge' (applications due July 24) — a sign that hitting the 8-to-18-GWh capacity target it set in May may require technology Tesla doesn't have in-house.",
+      "summary_en": "On May 12, Grünheide plant manager André Thierig announced a $250 million additional investment to more than double the plant's annual 4680 cell production capacity, from 8 GWh to 18 GWh. The Cell Giga Challenge follows up on that goal.\n\nRun with startup-matching platform JUNI, the challenge has an application deadline of July 24 and is open across five categories — materials, equipment, operations, automation and AI — targeting technology that can make cell manufacturing faster, cheaper, safer and more scalable.\n\nApplications are screened directly by Tesla's Grünheide cell manufacturing team, with the strongest submissions moving through technical discussions and a pitch day in front of Tesla stakeholders, potentially leading to a paid pilot project.\n\nOpening the door to outside startups suggests Tesla's in-house technology alone may not be enough to hit its aggressive capacity target. Cell output scale-up matters beyond vehicles too, feeding directly into supply for the energy storage business — Powerwall and Megapack.",
+      "href": "https://www.teslarati.com/tesla-battery-challenge/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "TeslaNorth"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
