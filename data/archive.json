@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-06 00:10 UTC 자동 갱신 · 최신순",
+  "asOf": "2026-07-06 05:08 UTC 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-06T02:02:09.000Z",
+      "title": "퀸즐랜드대 100일 실도로 테스트 — 테슬라 FSD, <em>500건 안전개입</em> 필요",
+      "hotShort": "퀸즐랜드대 테슬라 FSD 실도로 테스트 <em>500건 개입</em>",
+      "body": "호주 퀸즐랜드대 연구팀이 테슬라 모델Y로 100일 넘게 매일 FSD를 실주행 테스트한 결과 500건 넘는 안전 개입이 발생 — 스쿨존 시간대 인식은 90% 이상 개입이 필요했다. 로보택시 확장이 한창인 시점에 나온 독립 데이터라 FSD 신뢰성 논쟁에 실증을 더한다.",
+      "sourceName": "Startup Daily",
+      "sourceLabel": "press",
+      "slug": "fsd-uq-queensland-100day-safety-test-2026-07-06",
+      "summary": "퀸즐랜드대(University of Queensland) 토목공학과 정주 자오(Zuduo Zheng) 교수 연구팀은 테슬라 모델Y 한 대에 FSD(완전자율주행·Supervised)를 켜고 100일 넘게 매일 도로에 내보내는 실험을 진행했다. 목적은 실험실이 아닌 실제 호주 도로 환경에서 자율주행 소프트웨어가 얼마나 안정적으로 작동하는지 독립적으로 기록하는 것이었다.\n\n결과는 500건이 넘는 안전 관련 개입·한계 노출 사례로 집계됐다. 100일 넘는 기간 동안 운전자 개입 없이 처음부터 끝까지 완주한 주행은 단 한 번도 없었다고 연구팀은 밝혔다.\n\n반복적으로 나타난 문제는 특정 유형에 집중됐다. 스쿨존처럼 시간대별로 제한속도가 바뀌는 구간에서는 90% 이상 개입이 필요했고, 하교 시간이 한참 지난 저녁에도 스쿨존 제한을 그대로 적용하는 오류까지 있었다. 이 밖에 복잡한 로터리(라운드어바웃), 주차 차량이 많은 표시 불량 도로, 전동킥보드 이용자를 보행자로 오인하는 사례, 악천후에서 차선 인식 저하 등이 반복 관찰됐다.\n\n특히 호주 특유의 '지퍼 병합(zipper merge)' 구간에서는 FSD가 좌우로 흔들리며 혼란스러워하는 모습을 반복적으로 보였고, 한 사례에서는 FSD와 상대 차량 모두 병합 지점에서 속도를 줄이지 않아 위험한 상황이 연출되기도 했다. 연구팀은 이번 사례들을 'White Box Autonomy'라는 공개 아카이브로 축적해 자율주행 인프라 정책 논의에 활용할 계획이라고 밝혔다.\n\n테슬라가 마이애미에서 무인 로보택시 운행을 막 시작한 시점에 나온 이번 데이터는 FSD의 완전자율 신뢰성 논쟁에 실증적 근거를 더한다. 연구팀은 대부분의 사례가 드문 예외 상황이 아니라 일상적인 도로 상황이었다는 점을 강조했다.",
+      "title_en": "UQ's <em>100-day real-world test</em> finds Tesla FSD needed 500+ interventions",
+      "hotShort_en": "UQ test finds Tesla FSD needs <em>500+ fixes</em>",
+      "body_en": "University of Queensland researchers drove a Tesla Model Y with FSD engaged daily for over 100 days on Australian roads and logged more than 500 safety-related interventions — school-zone timing alone required intervention over 90% of the time. The independent dataset lands just as Tesla scales up Robotaxi service, adding real-world evidence to the debate over FSD's reliability.",
+      "summary_en": "Professor Zuduo Zheng of the University of Queensland's School of Civil Engineering led a study that put a single Tesla Model Y through FSD (Supervised) driving every day for more than 100 days on Queensland roads. The goal was to independently document how the software performs in everyday Australian traffic, not in a lab.\n\nThe tally came to more than 500 safety-critical interventions or moments revealing a limitation in how the system read the road. Across the entire 100-plus-day period, the researchers said they never completed a single trip where FSD drove start to finish without a human taking over.\n\nThe problems clustered around specific, repeatable situations. Time-restricted speed zones such as school zones required intervention more than 90% of the time — in one case the car kept obeying a school-zone limit well into the evening, long after school hours. Complex roundabouts, poorly marked or steep streets crowded with parked cars, e-scooter riders misread as pedestrians, and reduced accuracy in bad weather were all recurring issues.\n\nAustralia's zipper-merge rule proved especially tricky — FSD repeatedly appeared to hesitate and weave side to side approaching merge points, and in one incident neither FSD nor the other vehicle slowed down at the merge. The team is compiling these cases into a public archive called White Box Autonomy to inform future autonomous-vehicle infrastructure policy.\n\nThe findings arrive just as Tesla launched fully driverless Robotaxi rides in Miami, adding independent real-world data to the debate over FSD's readiness for full autonomy. The researchers stressed that most incidents were everyday situations, not rare edge cases.",
+      "href": "https://www.startupdaily.net/after-hours/motoring/we-spent-100-days-in-queensland-in-a-self%E2%80%91driving-tesla-model-y-and-500-incidents-later-the-recurring-problems-are-obvious/",
+      "sentiment": "bear",
+      "hot": 5
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -2296,31 +2316,6 @@
       "summary_en": "The American Automobile Labeling Act (AALA) requires automakers to disclose the domestic content of vehicles sold in the U.S.; NHTSA publishes these rankings annually. Musk's post confirms that Model 3 and Model Y lead the full market in that metric — an advantage that extends well beyond marketing.\n\nThe Trump administration continues to maintain elevated tariffs on imported vehicles and components throughout 2026. Higher domestic content translates directly to lower tariff exposure and a stronger 'Made in America' brand narrative relative to foreign-nameplate competitors. German, Korean, and Japanese automakers assembling vehicles at U.S. plants still typically source batteries and powertrain components internationally, leaving them more exposed.\n\nTesla's battery packs and drive units for both models are produced at Gigafactory Texas (Austin) and Gigafactory Nevada (Reno). The depth of vertical integration at these facilities is the primary driver of Tesla's leading domestic-content ratio.\n\nFor shareholders, the implication is threefold: lower direct tariff risk compared to peers, preferential eligibility for domestic-content provisions in government procurement and EV incentive programs, and a resonant consumer message in an ongoing manufacturing policy debate.",
       "href": "https://x.com/elonmusk/status/2069473899969122308",
       "sentiment": "bull",
-      "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "31m ago",
-      "pubDate": "2026-06-23T13:29:43.000Z",
-      "title": "로이터 — 스페이스X 누적 손실 $6,000억 속 <em>나스닥 $1조 셀오프</em> 재개",
-      "hotShort": "나스닥 $1조 셀오프 재개 — 기술주 <em>하락 압력 지속</em>",
-      "body": "스페이스X의 IPO 이후 누적 손실이 $6,000억을 넘어선 가운데, 로이터는 나스닥100이 이날 $1조 이상 추가 하락할 것으로 예고됐다고 보도했다. 테슬라를 포함한 기술주 전반의 셀오프가 재개된 상황으로, TSLA 주가에 단기 하방 압력이 지속될 전망이다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "stock-spacex-losses-tech-selloff-2026-06-23",
-      "summary": "로이터 보도에 따르면 스페이스X는 IPO 고점 대비 누적 $6,000억 이상의 손실을 기록하며 낙폭을 더욱 키우고 있다. 전날(22일) 파이낸셜타임스가 보도한 \"4,000억달러 증발\"에 이어 추가 하락이 이어진 것으로, 상장 이후 반락 추세가 안정을 찾지 못하고 있다.\n\n이날 나스닥100은 $1조 이상 하락이 예고되는 등 기술주 전반의 셀오프가 다시 한번 재개됐다. 로이터는 이를 'slide again(재차 하락)'으로 표현했으며, 단기 반등 없이 매도세가 이어지는 구도임을 시사했다.\n\n테슬라는 나스닥100 구성 종목으로, 광범위한 기술주 하락 환경에서 개별 기업 이슈와 무관하게 지수 연동 매도 압력에 노출된다. 유럽 판매 호조·FSD 유럽 진출 등 기업 차원의 긍정적 흐름이 이어지고 있음에도, 매크로 리스크오프 환경이 단기 주가를 억누르는 국면이다.\n\n다만 이번 셀오프는 테슬라 고유 리스크가 아니라 스페이스X 실망 매물과 광범위한 기술주 재평가에 따른 것으로, 기업 펀더멘탈과 장기 투자 논리는 분리해 판단할 필요가 있다.",
-      "title_en": "SpaceX loss deepens past <em>$600B</em> as tech-wide selloff resumes — Nasdaq-100 eyes $1T+ drop",
-      "hotShort_en": "Tech selloff deepens after <em>$600B SpaceX rout</em>",
-      "body_en": "SpaceX's post-IPO rout has extended to a cumulative $600B wipeout, with Reuters reporting the Nasdaq-100 is set to shed more than $1 trillion as the tech selloff resumes. Tesla, as a Nasdaq-100 constituent, faces continued index-level selling pressure alongside broader tech peers.",
-      "summary_en": "Reuters reports that SpaceX shares extended losses on June 23, pushing the cumulative post-IPO wipeout past $600 billion — up from roughly $400 billion reported the prior session. The trajectory suggests the post-IPO decline has not found a floor.\n\nThe Nasdaq-100 faces more than $1 trillion in additional downside during the same session. Reuters characterized the move as tech stocks sliding 'again,' signaling multiple consecutive sessions of broad-based selling pressure rather than a single-day correction.\n\nFor Tesla shareholders, the mechanism is index-level exposure: TSLA is a Nasdaq-100 constituent and moves in part with broader tech under macro risk-off conditions. This is unrelated to Tesla-specific fundamentals — the company's European sales recovery and FSD regulatory progress in Finland and Sweden represent company-level tailwinds running in parallel.\n\nThe practical implication is near-term stock price headwinds from macro conditions rather than company execution. Long-term Tesla themes — energy storage expansion, FSD monetization, Cybercab rollout — remain decoupled from this index-level selling event.",
-      "href": "https://www.reuters.com/business/media-telecom/nasdaq-100-set-shed-over-1-trillion-tech-selloff-deepens-spacex-slides-2026-06-23/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "Bloomberg"
-      ],
-      "sentiment": "bear",
       "hot": 5
     }
   ]

@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-06 00:10 UTC 자동 갱신 · 최신순",
+  "asOf": "2026-07-06 05:08 UTC 자동 갱신 · 최신순",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-06T02:02:09.000Z",
+      "title": "퀸즐랜드대 100일 실도로 테스트 — 테슬라 FSD, <em>500건 안전개입</em> 필요",
+      "hotShort": "퀸즐랜드대 테슬라 FSD 실도로 테스트 <em>500건 개입</em>",
+      "body": "호주 퀸즐랜드대 연구팀이 테슬라 모델Y로 100일 넘게 매일 FSD를 실주행 테스트한 결과 500건 넘는 안전 개입이 발생 — 스쿨존 시간대 인식은 90% 이상 개입이 필요했다. 로보택시 확장이 한창인 시점에 나온 독립 데이터라 FSD 신뢰성 논쟁에 실증을 더한다.",
+      "sourceName": "Startup Daily",
+      "sourceLabel": "press",
+      "slug": "fsd-uq-queensland-100day-safety-test-2026-07-06",
+      "summary": "퀸즐랜드대(University of Queensland) 토목공학과 정주 자오(Zuduo Zheng) 교수 연구팀은 테슬라 모델Y 한 대에 FSD(완전자율주행·Supervised)를 켜고 100일 넘게 매일 도로에 내보내는 실험을 진행했다. 목적은 실험실이 아닌 실제 호주 도로 환경에서 자율주행 소프트웨어가 얼마나 안정적으로 작동하는지 독립적으로 기록하는 것이었다.\n\n결과는 500건이 넘는 안전 관련 개입·한계 노출 사례로 집계됐다. 100일 넘는 기간 동안 운전자 개입 없이 처음부터 끝까지 완주한 주행은 단 한 번도 없었다고 연구팀은 밝혔다.\n\n반복적으로 나타난 문제는 특정 유형에 집중됐다. 스쿨존처럼 시간대별로 제한속도가 바뀌는 구간에서는 90% 이상 개입이 필요했고, 하교 시간이 한참 지난 저녁에도 스쿨존 제한을 그대로 적용하는 오류까지 있었다. 이 밖에 복잡한 로터리(라운드어바웃), 주차 차량이 많은 표시 불량 도로, 전동킥보드 이용자를 보행자로 오인하는 사례, 악천후에서 차선 인식 저하 등이 반복 관찰됐다.\n\n특히 호주 특유의 '지퍼 병합(zipper merge)' 구간에서는 FSD가 좌우로 흔들리며 혼란스러워하는 모습을 반복적으로 보였고, 한 사례에서는 FSD와 상대 차량 모두 병합 지점에서 속도를 줄이지 않아 위험한 상황이 연출되기도 했다. 연구팀은 이번 사례들을 'White Box Autonomy'라는 공개 아카이브로 축적해 자율주행 인프라 정책 논의에 활용할 계획이라고 밝혔다.\n\n테슬라가 마이애미에서 무인 로보택시 운행을 막 시작한 시점에 나온 이번 데이터는 FSD의 완전자율 신뢰성 논쟁에 실증적 근거를 더한다. 연구팀은 대부분의 사례가 드문 예외 상황이 아니라 일상적인 도로 상황이었다는 점을 강조했다.",
+      "title_en": "UQ's <em>100-day real-world test</em> finds Tesla FSD needed 500+ interventions",
+      "hotShort_en": "UQ test finds Tesla FSD needs <em>500+ fixes</em>",
+      "body_en": "University of Queensland researchers drove a Tesla Model Y with FSD engaged daily for over 100 days on Australian roads and logged more than 500 safety-related interventions — school-zone timing alone required intervention over 90% of the time. The independent dataset lands just as Tesla scales up Robotaxi service, adding real-world evidence to the debate over FSD's reliability.",
+      "summary_en": "Professor Zuduo Zheng of the University of Queensland's School of Civil Engineering led a study that put a single Tesla Model Y through FSD (Supervised) driving every day for more than 100 days on Queensland roads. The goal was to independently document how the software performs in everyday Australian traffic, not in a lab.\n\nThe tally came to more than 500 safety-critical interventions or moments revealing a limitation in how the system read the road. Across the entire 100-plus-day period, the researchers said they never completed a single trip where FSD drove start to finish without a human taking over.\n\nThe problems clustered around specific, repeatable situations. Time-restricted speed zones such as school zones required intervention more than 90% of the time — in one case the car kept obeying a school-zone limit well into the evening, long after school hours. Complex roundabouts, poorly marked or steep streets crowded with parked cars, e-scooter riders misread as pedestrians, and reduced accuracy in bad weather were all recurring issues.\n\nAustralia's zipper-merge rule proved especially tricky — FSD repeatedly appeared to hesitate and weave side to side approaching merge points, and in one incident neither FSD nor the other vehicle slowed down at the merge. The team is compiling these cases into a public archive called White Box Autonomy to inform future autonomous-vehicle infrastructure policy.\n\nThe findings arrive just as Tesla launched fully driverless Robotaxi rides in Miami, adding independent real-world data to the debate over FSD's readiness for full autonomy. The researchers stressed that most incidents were everyday situations, not rare edge cases.",
+      "href": "https://www.startupdaily.net/after-hours/motoring/we-spent-100-days-in-queensland-in-a-self%E2%80%91driving-tesla-model-y-and-500-incidents-later-the-recurring-problems-are-obvious/",
+      "sentiment": "bear",
+      "hot": 5
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -169,26 +189,6 @@
       "hot": 4,
       "summary_en": "Elon Musk recently offered a reality check on X about how fast Optimus production will actually ramp. After a user floated a \"4D chess\" theory — suggesting Tesla delayed its Optimus V3 reveal because production was secretly running ahead of schedule and Tesla wanted to keep rivals from copying the design — Musk shot the idea down directly.\n\n\"No, Optimus production will be extremely slow at first, as everything is new. This is not like making a car,\" Musk wrote. Optimus is built from roughly 10,000 unique parts, and getting the assembly process right across that many components creates numerous potential bottlenecks.\n\nThe comment came just days after Tesla confirmed (July 1) that its Fremont Model S/X lines had been converted into a dedicated Optimus Gen 3 production line. High-volume manufacturing is still expected to come later, once Tesla's dedicated Optimus factory under construction at Giga Texas ramps up starting around summer 2027.\n\nFor shareholders, this reads as expectation management. Musk had publicly targeted roughly 10,000 Optimus units built in 2025 — a target Tesla ultimately missed. By flagging a slow start now, he's effectively acknowledging that the early production ramp will take longer than some bulls hoped, a reminder to recalibrate timelines for one of the two pillars — alongside Robotaxi — underpinning Tesla's long-term valuation story.",
       "href": "https://www.teslarati.com/elon-musk-outlines-tesla-optimus-production-expectations/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3d ago",
-      "pubDate": "2026-07-02T13:35:00.000Z",
-      "title": "트루이스트, 테슬라 목표주가 <em>$400→$430로 상향</em> — 투자의견은 '보유' 유지",
-      "hotShort": "트루이스트, 테슬라 목표가 <em>$430으로 상향</em>",
-      "body": "트루이스트 애널리스트 윌리엄 스타인이 테슬라 목표주가를 $400에서 $430으로 7.5% 상향했다 — 2분기 인도 서프라이즈 발표 당일 주가가 7.5% 급락한 것과 대조적으로, 투자의견은 '매수'가 아닌 '보유(Hold)'를 그대로 유지해 밸류에이션 신중론은 여전함을 시사한다.",
-      "sourceName": "TipRanks (TheFly)",
-      "sourceLabel": "press",
-      "slug": "stock-truist-price-target-2026-07-02",
-      "summary": "테슬라의 2분기 인도량 서프라이즈 발표 직후, 월가 일각에서는 목표주가를 조정하면서도 신중론을 거두지 않는 반응이 나왔다. 트루이스트 증권 애널리스트 윌리엄 스타인이 대표적이다.\n\n스타인은 테슬라 목표주가를 기존 $400에서 $430으로 7.5% 상향 조정했다. 다만 투자의견은 '매수(Buy)'가 아닌 '보유(Hold)'를 그대로 유지했다 — 목표가만 올리고 등급은 그대로 둔 셈이다.\n\n스타인은 2분기 인도량(48만126대, 컨센서스 대비 +18%)이 강했고 에너지 저장장치 배치 실적도 대체로 예상에 부합했다고 평가하면서도, AI 이니셔티브나 신차 관련 구체적 업데이트가 없었다는 점을 아쉬운 대목으로 짚었다 — 결국 FSD를 비롯한 자율주행·AI 진전이 장기 현금창출력을 좌우할 더 중요한 변수라는 취지다. 당시 26개 증권사 평균 목표주가는 $406.65 수준(홀드 컨센서스)이었다.\n\n주주 입장에서는 실적 발표 당일 주가가 7.5% 급락했음에도 대형 증권사가 목표주가를 올렸다는 점이 눈에 띈다. 다만 '보유' 의견을 유지한 채 나온 상향인 만큼, 이를 본격적인 강세 전환 신호로 해석하기보다는 밸류에이션 바닥을 소폭 높여 잡은 정도로 보는 게 맞다. 7월 22일 예정된 2분기 실적 발표에서 FSD·마진 관련 업데이트가 나오는지가 다음 관전 포인트다.",
-      "title_en": "Truist raises Tesla price target <em>to $430 from $400</em> — keeps Hold rating",
-      "hotShort_en": "Truist lifts Tesla target <em>to $430</em>",
-      "body_en": "Truist analyst William Stein raised his Tesla price target 7.5%, to $430 from $400, right after Tesla's Q2 delivery beat — but kept his rating at Hold rather than Buy, even as the stock fell 7.5% on delivery day, signaling valuation caution persists despite the beat.",
-      "summary_en": "Right after Tesla's Q2 delivery beat, some corners of Wall Street raised price targets while still holding back on their overall stance — Truist analyst William Stein is a case in point.\n\nStein lifted his Tesla price target from $400 to $430, a 7.5% increase. He kept his rating at Hold rather than upgrading to Buy — raising the target while leaving the rating unchanged.\n\nStein cited strong Q2 deliveries (480,126 vehicles, 18% above consensus) and energy-storage deployments that broadly matched expectations, but flagged the lack of concrete updates on AI initiatives or new vehicles as a letdown — arguing that progress on FSD and other autonomy/AI efforts remains the more important driver of Tesla's long-term cash generation. At the time, the average Wall Street price target across 26 analysts stood around $406.65, with a Hold-leaning consensus.\n\nFor shareholders, it's notable that a major brokerage raised its target even as the stock fell 7.5% on delivery day. But since the rating stayed at Hold, this reads less as a bullish turn and more as a modest recalibration of the valuation floor. The next thing to watch is whether Tesla's Q2 earnings report, due July 22, delivers concrete updates on FSD progress and margins.",
-      "href": "https://www.tipranks.com/news/the-fly/tesla-price-target-raised-to-430-from-400-at-truist-thefly-news",
-      "sentiment": "neutral",
-      "hot": 3
     }
   ]
 }
