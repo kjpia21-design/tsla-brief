@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-06 04:06 UTC · 누적 537건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-06 10:49 UTC · 누적 539건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-06T02:02:09.000Z",
+      "title": "퀸즐랜드대 100일 실도로 테스트 — 테슬라 FSD, <em>500건 안전개입</em> 필요",
+      "hotShort": "퀸즐랜드대 테슬라 FSD 실도로 테스트 <em>500건 개입</em>",
+      "body": "호주 퀸즐랜드대 연구팀이 테슬라 모델Y로 100일 넘게 매일 FSD를 실주행 테스트한 결과 500건 넘는 안전 개입이 발생 — 스쿨존 시간대 인식은 90% 이상 개입이 필요했다. 로보택시 확장이 한창인 시점에 나온 독립 데이터라 FSD 신뢰성 논쟁에 실증을 더한다.",
+      "sourceName": "Startup Daily",
+      "sourceLabel": "press",
+      "slug": "fsd-uq-queensland-100day-safety-test-2026-07-06",
+      "summary": "퀸즐랜드대(University of Queensland) 토목공학과 정주 자오(Zuduo Zheng) 교수 연구팀은 테슬라 모델Y 한 대에 FSD(완전자율주행·Supervised)를 켜고 100일 넘게 매일 도로에 내보내는 실험을 진행했다. 목적은 실험실이 아닌 실제 호주 도로 환경에서 자율주행 소프트웨어가 얼마나 안정적으로 작동하는지 독립적으로 기록하는 것이었다.\n\n결과는 500건이 넘는 안전 관련 개입·한계 노출 사례로 집계됐다. 100일 넘는 기간 동안 운전자 개입 없이 처음부터 끝까지 완주한 주행은 단 한 번도 없었다고 연구팀은 밝혔다.\n\n반복적으로 나타난 문제는 특정 유형에 집중됐다. 스쿨존처럼 시간대별로 제한속도가 바뀌는 구간에서는 90% 이상 개입이 필요했고, 하교 시간이 한참 지난 저녁에도 스쿨존 제한을 그대로 적용하는 오류까지 있었다. 이 밖에 복잡한 로터리(라운드어바웃), 주차 차량이 많은 표시 불량 도로, 전동킥보드 이용자를 보행자로 오인하는 사례, 악천후에서 차선 인식 저하 등이 반복 관찰됐다.\n\n특히 호주 특유의 '지퍼 병합(zipper merge)' 구간에서는 FSD가 좌우로 흔들리며 혼란스러워하는 모습을 반복적으로 보였고, 한 사례에서는 FSD와 상대 차량 모두 병합 지점에서 속도를 줄이지 않아 위험한 상황이 연출되기도 했다. 연구팀은 이번 사례들을 'White Box Autonomy'라는 공개 아카이브로 축적해 자율주행 인프라 정책 논의에 활용할 계획이라고 밝혔다.\n\n테슬라가 마이애미에서 무인 로보택시 운행을 막 시작한 시점에 나온 이번 데이터는 FSD의 완전자율 신뢰성 논쟁에 실증적 근거를 더한다. 연구팀은 대부분의 사례가 드문 예외 상황이 아니라 일상적인 도로 상황이었다는 점을 강조했다.",
+      "title_en": "UQ's <em>100-day real-world test</em> finds Tesla FSD needed 500+ interventions",
+      "hotShort_en": "UQ test finds Tesla FSD needs <em>500+ fixes</em>",
+      "body_en": "University of Queensland researchers drove a Tesla Model Y with FSD engaged daily for over 100 days on Australian roads and logged more than 500 safety-related interventions — school-zone timing alone required intervention over 90% of the time. The independent dataset lands just as Tesla scales up Robotaxi service, adding real-world evidence to the debate over FSD's reliability.",
+      "summary_en": "Professor Zuduo Zheng of the University of Queensland's School of Civil Engineering led a study that put a single Tesla Model Y through FSD (Supervised) driving every day for more than 100 days on Queensland roads. The goal was to independently document how the software performs in everyday Australian traffic, not in a lab.\n\nThe tally came to more than 500 safety-critical interventions or moments revealing a limitation in how the system read the road. Across the entire 100-plus-day period, the researchers said they never completed a single trip where FSD drove start to finish without a human taking over.\n\nThe problems clustered around specific, repeatable situations. Time-restricted speed zones such as school zones required intervention more than 90% of the time — in one case the car kept obeying a school-zone limit well into the evening, long after school hours. Complex roundabouts, poorly marked or steep streets crowded with parked cars, e-scooter riders misread as pedestrians, and reduced accuracy in bad weather were all recurring issues.\n\nAustralia's zipper-merge rule proved especially tricky — FSD repeatedly appeared to hesitate and weave side to side approaching merge points, and in one incident neither FSD nor the other vehicle slowed down at the merge. The team is compiling these cases into a public archive called White Box Autonomy to inform future autonomous-vehicle infrastructure policy.\n\nThe findings arrive just as Tesla launched fully driverless Robotaxi rides in Miami, adding independent real-world data to the debate over FSD's readiness for full autonomy. The researchers stressed that most incidents were everyday situations, not rare edge cases.",
+      "href": "https://www.startupdaily.net/after-hours/motoring/we-spent-100-days-in-queensland-in-a-self%E2%80%91driving-tesla-model-y-and-500-incidents-later-the-recurring-problems-are-obvious/",
+      "sentiment": "bear",
+      "hot": 5
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -95,6 +115,26 @@
         "Mediaite"
       ],
       "sentiment": "bear",
+      "hot": 3
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "few hours ago",
+      "pubDate": "2026-07-05T15:31:00.000Z",
+      "title": "\"테슬라 세미 도전자\" Windrose, <em>임금 체불에 트럭까지 실종</em>",
+      "hotShort": "세미 도전 Windrose, <em>임금체불·트럭실종</em> 잡음",
+      "body": "WSJ 단독보도에 따르면 테슬라 세미의 경쟁 모델을 내걸고 $400M을 조달한 벨기에 본사·중국계 EV 트럭 스타트업 Windrose에서, 지난 1월 해고된 전직원 2명이 회사가 미지급한 임금·수당 $91,000을 이유로 트럭 소재 파악 협조를 거부해 $285,000 상당 트럭이 실종 상태로 남았다 — 연방법원 소송·생산지 규제조사까지 겹쳐, 테슬라 세미의 신생 경쟁자로 꼽히던 회사의 내부 사정이 알려진 것보다 불안정함을 보여준다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "product-windrose-tesla-semi-rival-trouble-2026-07-05",
+      "summary": "전기 대형트럭 시장에서 테슬라 세미의 대항마로 자신을 소개해온 스타트업 Windrose Technology가 WSJ의 단독 취재로 내부 혼란을 드러냈다. 벨기에에 본사를 둔 이 중국계 자본 회사는 테슬라 세미에 맞설 전기 대형트럭을 개발하겠다며 $400M을 조달한 상태였다.\n\nWSJ에 따르면 지난 1월 해고된 전직원 트래비스 웨이트와 해럴드 켈러는, 회사로부터 받지 못한 임금·수당 합계 $91,000을 지급받기 전까지는 회사가 요청한 차량 소재 파악에 협조하지 않겠다고 버텼다.\n\n그 여파로 3월 들어 CEO 원 한(Wen Han)은 자사 트럭 한 대(가치 약 $285,000)의 행방을 찾지 못해 다급히 확인에 나섰던 것으로 전해졌다. 해당 트럭은 WSJ 보도 시점까지도 소재가 파악되지 않은 상태다.\n\n회사를 둘러싼 문제는 임금 체불에 그치지 않는다. WSJ는 Windrose가 별도의 미지급 채무, 연방법원 소송, 그리고 조지아주에서 생산됐다고 알려진 트럭들에 대한 미 안전당국의 조사까지 받고 있다고 전했다.\n\nCEO 원 한은 급여 관련 문제가 있었다는 점은 인정하면서도, 회사 자금은 충분하며 미주·유럽·오세아니아로 사업을 계속 확장하겠다는 입장을 밝혔다. 주주 입장에서는 테슬라 세미의 실질적 경쟁자로 거론되던 신생 업체가 이런 내부 혼란을 겪고 있다는 사실 자체가, 세미의 상업용 대형트럭 시장 경쟁 구도에서 테슬라의 상대적 안정성을 부각시키는 지점이다.",
+      "title_en": "\"Tesla Semi rival\" Windrose hit by <em>missing paychecks and a missing truck</em>",
+      "hotShort_en": "Tesla Semi rival Windrose: <em>unpaid wages, missing truck</em>",
+      "body_en": "A WSJ exclusive reports that Windrose, a Belgium-headquartered, Chinese-owned EV truck startup that raised $400M positioning itself as a Tesla Semi rival, had two employees fired in January withhold help locating a company truck until they were paid $91,000 in wages and benefits owed to them — leaving a $285,000 truck missing, on top of a federal lawsuit and a safety-regulator probe into where its trucks are actually made, a sign the would-be Semi challenger's internal situation is shakier than its funding headlines suggested.",
+      "summary_en": "Windrose Technology, a startup that has positioned itself as a challenger to Tesla's Semi in the electric heavy-truck market, has had its internal troubles exposed by a Wall Street Journal investigation. The Belgium-headquartered, Chinese-owned company had raised $400 million to build an electric big rig meant to rival Tesla's truck.\n\nAccording to the Journal, two employees fired in January, Travis Waite and Harold Keller, refused to help the company locate one of its vehicles until they were paid a combined $91,000 in wages and benefits they say they were owed.\n\nAs a result, by March, CEO Wen Han was reportedly scrambling to figure out where one of the company's trucks, worth about $285,000, had gone. As of the Journal's report, that truck remained missing.\n\nThe wage dispute isn't Windrose's only problem. The Journal reports the company also faces separate unpaid debts, a lawsuit in federal court, and scrutiny from U.S. safety regulators over trucks allegedly manufactured in Georgia.\n\nCEO Wen Han acknowledged the company had payroll issues but said Windrose has sufficient funding and intends to keep expanding across the Americas, Europe and Oceania. For shareholders, the episode underscores that a startup frequently cited as a real competitor to Tesla Semi is dealing with meaningfully more internal disorder than its fundraising narrative implied — a point in favor of Tesla's relative stability in the emerging electric heavy-truck market.",
+      "href": "https://www.wsj.com/tech/a-trucking-startup-aims-to-challenge-tesla-now-paychecks-are-missingand-so-is-a-truck-26e082cd",
+      "sentiment": "neutral",
       "hot": 3
     },
     {
