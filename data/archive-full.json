@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-07 14:50 UTC · 누적 552건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-07 18:04 UTC · 누적 553건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-07T13:39:01.000Z",
+      "title": "테슬라, Esyasoft와 <em>15GWh 규모 Megapack 계약</em> — 6주 누적 수주 $9B 육박",
+      "hotShort": "테슬라, Esyasoft와 <em>15GWh 계약</em>",
+      "body": "테슬라와 에너지 기술기업 Esyasoft가 영국·서유럽·GCC·인도 시장에 15GWh 이상 규모의 배터리 저장장치(Megapack)를 공급·운영하는 계약을 체결했다 — 큐레이터 Sawyer Merritt는 계약 규모를 최대 $3B로 추산했으며, 최근 6주간 발표된 신규 Megapack 프로젝트를 모두 합치면 $9B·43GWh에 달해 에너지 사업이 로보택시·FSD 지연 속 테슬라의 또 다른 성장 동력으로 주목받고 있다.",
+      "sourceName": "Zawya",
+      "sourceLabel": "press",
+      "slug": "product-tesla-megapack-esyasoft-15gwh-2026-07-07",
+      "summary": "테슬라 에너지 사업부가 다시 대형 계약을 따냈다. 회사 발표에 따르면 이번 파트너는 IHC 계열 Sirius International Holding 산하 에너지 전환 기술기업 Esyasoft로, 두 회사는 영국·서유럽·걸프협력회의(GCC)·인도 시장을 대상으로 15GWh 이상 규모의 유틸리티급 배터리 저장장치(BESS)를 공동 개발·배치·운영하기로 했다. 서비스는 'Esyasoft Energy Storage powered by Tesla' 브랜드로 제공될 예정이다.\n\n정확한 계약 금액은 공식 발표에 명시되지 않았다. 테슬라 소식을 전문으로 다루는 큐레이터 Sawyer Merritt는 X(트위터)를 통해 최대 $3B 규모로 추산된다고 전했다 — GWh 규모(15GWh 이상)는 공식 자료로 확인되지만, 금액은 아직 제3자 추산 단계임을 감안해야 한다.\n\n같은 날 Sawyer Merritt는 최근 6주간 발표된 신규 Megapack 프로젝트를 모두 합치면 $9B 이상, 43GWh 규모에 달한다고 집계했다 — 미국 가정 약 590만 가구가 쓸 수 있는 전력 저장 용량에 해당한다는 설명이다. Esyasoft 계약은 이 누적치의 상당 부분을 차지하는 최근 사례로 보인다.\n\n테슬라 에너지 사업은 최근 분기 연속 총이익률 기록을 갈아치우며 자동차 부문의 마진 둔화를 상쇄해온 축이다. 로보택시·FSD v15 완전자율 상용화가 최소 2027년으로 미뤄지고 옵티머스 초기 양산도 더딜 것으로 예고된 가운데, 이번 계약은 에너지 저장 사업이 당분간 테슬라의 가장 확실한 성장 동력임을 다시 보여준다.",
+      "title_en": "Tesla signs <em>15GWh Megapack deal</em> with Esyasoft — 6-week haul nears $9B",
+      "hotShort_en": "Tesla signs <em>15GWh Megapack deal</em> with Esyasoft",
+      "body_en": "Tesla's energy division has struck a new utility-scale deal with Esyasoft to develop and operate more than 15GWh of Megapack battery storage across the UK, Western Europe, the GCC and India — Tesla-focused curator Sawyer Merritt puts the deal's value at up to $3 billion, and says new Megapack projects announced over the past six weeks now total roughly $9 billion and 43GWh, underscoring energy storage's growing role as Tesla's steadiest growth engine while Robotaxi and FSD timelines slip.",
+      "summary_en": "Tesla's energy business has landed another major contract. According to the companies' announcement, the new partner is Esyasoft, an energy-transition technology firm under IHC's Sirius International Holding, and the pair will jointly develop, deploy and manage more than 15GWh of utility-scale battery energy storage systems (BESS) across the UK, Western Europe, the Gulf Cooperation Council (GCC) region and India. The offering will be marketed as 'Esyasoft Energy Storage powered by Tesla.'\n\nThe exact dollar value wasn't disclosed in the official release. Sawyer Merritt, a well-followed Tesla news curator, put the deal at up to $3 billion on X — a figure worth treating as a third-party estimate rather than a confirmed number, even as the 15GWh-plus scope itself is corroborated by the companies' own announcement.\n\nOn the same day, Merritt tallied that new Megapack projects announced over the past six weeks now add up to more than $9 billion and 43GWh combined — enough storage capacity, he noted, to power roughly 5.9 million U.S. homes. The Esyasoft deal appears to be one of the largest recent contributors to that running total.\n\nTesla's energy segment has posted record gross profit in recent quarters, helping offset softer margins in the automotive business. With Robotaxi's unsupervised rollout and a fully rewritten FSD v15 not expected before 2027, and Optimus's initial production ramp still described as 'extremely slow,' this latest deal reinforces energy storage's position as Tesla's steadiest growth lever for now.",
+      "href": "https://www.tradingview.com/news/reuters.com,2026-07-07:newsml_Zaw3nW0sX:0-zawya-tesla-and-esyasoft-collaborate-to-deploy-battery-energy-storage-solutions-globally/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Zawya",
+        "Sawyer Merritt"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",

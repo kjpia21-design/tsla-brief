@@ -1,10 +1,114 @@
 {
-  "asOf": "2026-07-07 14:50 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-07 18:04 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "18m ago",
+      "pubDate": "2026-07-07T17:47:12.000Z",
+      "title": "Breakingviews - Wall Street gets high on Elon Musk's SpaceX supply",
+      "body": "Breakingviews - Wall Street gets high on Elon Musk's SpaceX supply Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/commentary/breakingviews/wall-street-gets-high-elon-musks-spacex-supply-2026-07-07/"
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11m ago",
+      "time": "36m ago",
+      "pubDate": "2026-07-07T17:28:37.000Z",
+      "title": "Someone is trying to flip a new Rivian R2 for $80,000 — $20K over MSRP",
+      "body": "A private seller in Littleton, Colorado has listed a brand-new 2027 Rivian R2 Performance on Cars.com for $79,900 — roughly $20,000 over what Rivian charges for the same vehicle. The listing went up July 1, just weeks af…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/07/07/rivian-r2-flip-80000-over-sticker/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-07T16:58:57.000Z",
+      "title": "Tesla launches startup challenge to scale Giga Berlin battery cells",
+      "body": "Tesla is opening the doors of its Gigafactory Berlin-Brandenburg to outside startups through a new “Cell Giga Challenge,” inviting them to pilot technologies inside its live battery cell production line. The program come…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/07/07/tesla-giga-berlin-cell-giga-challenge/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-07T16:43:00.000Z",
+      "title": "Tesla's Delivery Numbers Blew Past Estimates. So Why Isn't the Stock Rallying?",
+      "body": "Tesla's Delivery Numbers Blew Past Estimates. So Why Isn't the Stock Rallying? The Motley Fool",
+      "sourceName": "The Motley Fool",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.fool.com/investing/2026/07/07/teslas-delivery-numbers-blew-past-estimates-so-why/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-07T16:15:14.000Z",
+      "title": "Tesla Inc Stock (TSLA) Moved Down by 3.05% on Jul 7: What Investors Need To Know",
+      "body": "Tesla Inc Stock (TSLA) Moved Down by 3.05% on Jul 7: What Investors Need To Know TradingKey",
+      "sourceName": "TradingKey",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.tradingkey.com/news/market-movers/262016684-market-movers-tsla-20260707"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-07T15:39:28.000Z",
+      "title": "SpaceX’s Biggest Bull Sees Valuation Soaring Above $10 Trillion",
+      "body": "SpaceX’s Biggest Bull Sees Valuation Soaring Above $10 Trillion Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-s-biggest-bull-sees-valuation-soaring-above-10-trillion"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-07-07T15:21:03.000Z",
+      "title": "Tesla’s $500 Billion Question: Can Growth Justify the Valuation?",
+      "body": "Tesla’s $500 Billion Question: Can Growth Justify the Valuation? 24/7 Wall St.",
+      "sourceName": "24/7 Wall St.",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://247wallst.com/investing/2026/07/07/teslas-500-billion-question-can-growth-justify-the-valuation/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-07T15:00:01.000Z",
+      "title": "The Index Fund Investor’s SpaceX Dilemma, and What to Do About It",
+      "body": "The Index Fund Investor’s SpaceX Dilemma, and What to Do About It Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/newsletters/2026-07-07/the-index-fund-investor-s-spacex-dilemma-and-what-to-do-about-it"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
       "pubDate": "2026-07-07T14:38:50.000Z",
       "title": "23 years ago, Tesla began a mission to accelerate the world's transition to sustainable energy. Today, it has deliver…",
       "body": "23 years ago, Tesla began a mission to accelerate the world's transition to sustainable energy. Today, it has delivered over 9 million vehicles, built a global network of 80,000+ Superchargers, deployed more than 1 milli…",
@@ -17,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "44m ago",
+      "time": "4h ago",
       "pubDate": "2026-07-07T14:06:20.000Z",
       "title": "Only one SpaceX analyst out of all the bulls Tuesday is calling for the stock to drop. Here's why",
       "body": "Only one SpaceX analyst out of all the bulls Tuesday is calling for the stock to drop. Here's why CNBC",
@@ -28,22 +132,9 @@
       "href": "https://www.cnbc.com/2026/07/07/only-one-spacex-analyst-is-calling-for-the-stock-to-drop-heres-why.html"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "53m ago",
-      "pubDate": "2026-07-07T13:56:55.000Z",
-      "title": "Over the past 6 weeks, more than $9 billion of new @Tesla Megapack projects have been announced, totaling more than 4…",
-      "body": "Over the past 6 weeks, more than $9 billion of new @Tesla Megapack projects have been announced, totaling more than 43 GWh of battery energy storage. That amount of energy storage combined could help power 5.9 million ho…",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/SawyerMerritt/status/2074492863828643884"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-07T13:45:39.000Z",
       "title": "SpaceX Shares Win Early Bullish Calls From Wall Street Brokers",
       "body": "SpaceX Shares Win Early Bullish Calls From Wall Street Brokers Bloomberg.com",
@@ -54,22 +145,9 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-shares-win-early-bullish-calls-from-wall-street-brokers"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-07T13:39:01.000Z",
-      "title": "Tesla has secured a massive Megapack order worth up to $3 billion from energy technologies manufacturer Esyasoft to s…",
-      "body": "Tesla has secured a massive Megapack order worth up to $3 billion from energy technologies manufacturer Esyasoft to supply more than 15 GWh of battery energy storage systems across the UK, Western Europe, the GCC and Ind…",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/SawyerMerritt/status/2074488359091675431"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-07T13:26:09.000Z",
       "title": "I hope the expansion of Tesla FSD V14 Lite in the U.S. will begin soon!",
       "body": "I hope the expansion of Tesla FSD V14 Lite in the U.S. will begin soon! https://t.co/COS7S550VE",
@@ -80,48 +158,9 @@
       "href": "https://x.com/Tslachan/status/2074485122775367850"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-07T12:42:00.000Z",
-      "title": "Why Analysts Prefer SpaceX to Tesla Stock",
-      "body": "Why Analysts Prefer SpaceX to Tesla Stock Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-analyst-ratings-spacex-17843e31"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-07T12:38:21.000Z",
-      "title": "MBA = Master of Builder Agentic It consists three curriculums: Planning Execution Validation Comes with your X subscr…",
-      "body": "MBA = Master of Builder Agentic It consists three curriculums: Planning Execution Validation Comes with your X subscription at Grok Build /goal.",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2074473093222080866"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-07T12:33:45.000Z",
-      "title": "How Time Re-Prices Tesla Stock For Patient Investors",
-      "body": "How Time Re-Prices Tesla Stock For Patient Investors Trefis",
-      "sourceName": "Trefis",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.trefis.com/stock/tsla/articles/605937/how-time-re-prices-tesla-stock-for-patient-investors/2026-07-07"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-07T12:14:05.000Z",
       "title": "With AI, now you could learn from much better materials and cutting-edge knowledges than either schools or colleges c…",
       "body": "With AI, now you could learn from much better materials and cutting-edge knowledges than either schools or colleges could ever provide. Homeschooling would become a norm, even for working parents.",
@@ -132,22 +171,9 @@
       "href": "https://x.com/yunta_tsai/status/2074466982817353768"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-07T11:35:36.000Z",
-      "title": "The space bit of SpaceX is worth $8 a share, says Morgan Stanley",
-      "body": "The space bit of SpaceX is worth $8 a share, says Morgan Stanley Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-07T10:55:31.000Z",
       "title": "$TSLA [테슬라 FSD 한국 상륙에 대한 국토부 장관의 의견] 올해 1월 유튜브에 게시된 내용 일부 입니다. 한국에 FSD가 갑자기 출시됨에 따라, 이에 대응하여 국토부가 주도하고 민관이 협력하는, ‘팀 코…",
       "body": "$TSLA [테슬라 FSD 한국 상륙에 대한 국토부 장관의 의견] 올해 1월 유튜브에 게시된 내용 일부 입니다. 한국에 FSD가 갑자기 출시됨에 따라, 이에 대응하여 국토부가 주도하고 민관이 협력하는, ‘팀 코리아’를 결성하여 한판 승부를 펼쳐보자는 것이 주된 주장으로 보여집니다. https://t.co/PO1cA8A4Dl",
@@ -160,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-07T10:20:00.000Z",
       "title": "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot",
       "body": "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot Bloomberg.com",
@@ -173,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-07T10:00:49.000Z",
       "title": "$TSLA A friend from China shared the full video of riding a Tesla Robotaxi in Texas. It looks really fun! Enjoy the a…",
       "body": "$TSLA A friend from China shared the full video of riding a Tesla Robotaxi in Texas. It looks really fun! Enjoy the autonomous driving! https://t.co/8UXms0WkcC",
@@ -184,22 +210,9 @@
       "href": "https://x.com/Tslachan/status/2074433447381397841"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
-      "pubDate": "2026-07-07T09:26:03.000Z",
-      "title": "Tesla flexes how it will help the blind with Cybercab",
-      "body": "Tesla flexes how it will help the blind with Cybercab Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-flexes-help-blind-cybercab/"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-07T09:10:22.000Z",
       "title": "$TSLA 🇰🇷 LG Energy Solution‘s quarterly sales exceeded 7 trillion won in 10 quarters. Accordingly, it succeeded in …",
       "body": "$TSLA 🇰🇷 LG Energy Solution‘s quarterly sales exceeded 7 trillion won in 10 quarters. Accordingly, it succeeded in turning into a surplus in the third quarter. It is analyzed that the demand for cylindrical batteries h…",
@@ -212,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-07T06:49:56.000Z",
       "title": "New Tesla Supercharger: Bangkok, Thailand - AIA Connect (4 stalls)",
       "body": "New Tesla Supercharger: Bangkok, Thailand - AIA Connect (4 stalls) https://t.co/dLdCzygrD2 https://t.co/vRyNMQwgR4",
@@ -223,9 +236,22 @@
       "href": "https://x.com/TeslaCharging/status/2074385409946378592"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "22h ago",
+      "pubDate": "2026-07-06T20:13:00.000Z",
+      "title": "Tesla Stock Rises After It Rolls Out Robo-Taxis In Miami",
+      "body": "Tesla Stock Rises After It Rolls Out Robo-Taxis In Miami Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-robotaxi-launch-miami-c6ec7821"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-06T16:11:03.000Z",
       "title": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle",
       "body": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle CNBC",
@@ -234,32 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/07/06/rivian-tesla-and-the-holly-index-how-to-trade-the-new-ev-main-street-battle.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5d ago",
-      "pubDate": "2026-07-02T13:07:44.000Z",
-      "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
-      "body": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5d ago",
-      "pubDate": "2026-07-02T13:06:40.000Z",
-      "title": "Tesla deliveries rise 25% as Europeans seek escape from high fuel prices",
-      "body": "Tesla deliveries rise 25% as Europeans seek escape from high fuel prices Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/d4d19d9b-3576-4a28-b972-3007b6cb0bdc?syn-25a6b1a6"
     }
   ]
 }
