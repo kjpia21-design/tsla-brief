@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-07-07 21:35 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-07 21:59 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "35m ago",
+      "pubDate": "2026-07-07T21:24:47.000Z",
+      "title": "Tesla (NASDAQ:TSLA) Stock Price Down 4%",
+      "body": "Tesla (NASDAQ:TSLA) Stock Price Down 4% - Here's Why MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-down-4-heres-why-2026-07-07/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-07T20:36:00.000Z",
+      "title": "When It Comes to Analyst Ratings, Tesla Stock Is No SpaceX",
+      "body": "When It Comes to Analyst Ratings, Tesla Stock Is No SpaceX Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-analyst-ratings-spacex-17843e31"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-07T19:29:40.000Z",
       "title": "Tesla app update makes Robotaxi ownership make a lot more sense",
       "body": "Tesla app update makes Robotaxi ownership make a lot more sense Teslarati",
@@ -15,22 +41,9 @@
       "href": "https://www.teslarati.com/tesla-app-update-sefl-driving-robotaxi/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-07-07T18:55:00.000Z",
-      "title": "Tesla (NASDAQ: TSLA) Stock Price Climbs As Analyst Predicts Wall Street Estimate Upgrades",
-      "body": "Tesla (NASDAQ: TSLA) Stock Price Climbs As Analyst Predicts Wall Street Estimate Upgrades foreignpolicyjournal.com",
-      "sourceName": "foreignpolicyjournal.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.foreignpolicyjournal.com/2026/07/07/tesla-nasdaq-tsla-stock-price-climbs-as-analyst-predicts-wall-street-estimate-upgrades/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-07T18:26:22.000Z",
       "title": "Breakingviews - Wall Street gets high on Elon Musk's SpaceX supply",
       "body": "Breakingviews - Wall Street gets high on Elon Musk's SpaceX supply Reuters",
@@ -43,7 +56,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-07T17:28:37.000Z",
       "title": "Someone is trying to flip a new Rivian R2 for $80,000 — $20K over MSRP",
       "body": "A private seller in Littleton, Colorado has listed a brand-new 2027 Rivian R2 Performance on Cars.com for $79,900 — roughly $20,000 over what Rivian charges for the same vehicle. The listing went up July 1, just weeks af…",
@@ -108,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-07T14:06:20.000Z",
       "title": "Only one SpaceX analyst out of all the bulls Tuesday is calling for the stock to drop. Here's why",
       "body": "Only one SpaceX analyst out of all the bulls Tuesday is calling for the stock to drop. Here's why CNBC",
@@ -119,22 +132,9 @@
       "href": "https://www.cnbc.com/2026/07/07/only-one-spacex-analyst-is-calling-for-the-stock-to-drop-heres-why.html"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
-      "pubDate": "2026-07-07T13:45:39.000Z",
-      "title": "Wall Street Unleashes Bullish SpaceX Ratings Eyeing 47% Upside",
-      "body": "Wall Street Unleashes Bullish SpaceX Ratings Eyeing 47% Upside Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-shares-win-early-bullish-calls-from-wall-street-brokers"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-07T13:26:09.000Z",
       "title": "I hope the expansion of Tesla FSD V14 Lite in the U.S. will begin soon!",
       "body": "I hope the expansion of Tesla FSD V14 Lite in the U.S. will begin soon! https://t.co/COS7S550VE",
@@ -147,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-07T12:14:05.000Z",
       "title": "With AI, now you could learn from much better materials and cutting-edge knowledges than either schools or colleges c…",
       "body": "With AI, now you could learn from much better materials and cutting-edge knowledges than either schools or colleges could ever provide. Homeschooling would become a norm, even for working parents.",
@@ -173,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-07T10:20:00.000Z",
       "title": "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot",
       "body": "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot Bloomberg.com",
@@ -199,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-07T09:10:22.000Z",
       "title": "$TSLA 🇰🇷 LG Energy Solution‘s quarterly sales exceeded 7 trillion won in 10 quarters. Accordingly, it succeeded in …",
       "body": "$TSLA 🇰🇷 LG Energy Solution‘s quarterly sales exceeded 7 trillion won in 10 quarters. Accordingly, it succeeded in turning into a surplus in the third quarter. It is analyzed that the demand for cylindrical batteries h…",
