@@ -1,23 +1,36 @@
 {
-  "asOf": "2026-07-06 23:12 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-07 03:57 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "2h ago",
-      "pubDate": "2026-07-06T21:01:30.000Z",
-      "title": "SpaceX’s newest logo confirms everything about what it’s become",
-      "body": "SpaceX’s newest logo confirms everything about what it’s become Teslarati",
-      "sourceName": "Teslarati",
+      "pubDate": "2026-07-07T01:50:00.000Z",
+      "title": "Tesla in-cabin camera fails to prevent 60 mph naps as Wisk Aero faces lawsuit",
+      "body": "Tesla in-cabin camera fails to prevent 60 mph naps as Wisk Aero faces lawsuit Electrek",
+      "sourceName": "Electrek",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/spacexs-newest-logo-confirms-everything-about-what-its-become/"
+      "href": "https://electrek.co/2026/07/06/tesla-in-cabin-camera-fails-to-prevent-60-mph-naps-as-wisk-aero-faces-lawsuit/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
+      "pubDate": "2026-07-06T23:53:00.000Z",
+      "title": "TSLA Stock Up for Fourth Straight Day Before Thursday Deliveries Report — Wall Street Expects Year-On-Year Growth",
+      "body": "TSLA Stock Up for Fourth Straight Day Before Thursday Deliveries Report — Wall Street Expects Year-On-Year Growth Stocktwits",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-up-for-fourth-straight-day-of-gains-before-thursday-deliveries-report-wall-street-expects-year-on-year-growth/cZm3oddR71L"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-06T20:13:00.000Z",
       "title": "Tesla Stock Rises After It Rolls Out Robo-Taxis In Miami",
       "body": "Tesla Stock Rises After It Rolls Out Robo-Taxis In Miami Barron's",
@@ -30,7 +43,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "8h ago",
+      "pubDate": "2026-07-06T20:10:00.000Z",
+      "title": "Tech Stocks Go From Red to Green, SpaceX Prepares for Landing and Strategy’s Math Trap | Markets P.M. for July 6",
+      "body": "Tech Stocks Go From Red to Green, SpaceX Prepares for Landing and Strategy’s Math Trap | Markets P.M. for July 6 WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/finance/stocks/tech-stocks-go-from-red-to-green-0386c09d"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "8h ago",
       "pubDate": "2026-07-06T20:02:45.000Z",
       "title": "SpaceX joins the Nasdaq-100 on Tuesday. Here's what it means for the stock",
       "body": "SpaceX joins the Nasdaq-100 on Tuesday. Here's what it means for the stock CNBC",
@@ -43,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-06T19:36:00.000Z",
       "title": "Tesla app code reveals cabin camera will verify driver before FSD",
       "body": "Tesla app code reveals cabin camera will verify driver before FSD Electrek",
@@ -54,23 +80,10 @@
       "href": "https://electrek.co/2026/07/06/tesla-cabin-camera-fsd-identity-check/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-07-06T18:57:57.000Z",
-      "title": "Why Did Tesla Stock Jump Today?",
-      "body": "Why Did Tesla Stock Jump Today? The Globe and Mail",
-      "sourceName": "The Globe and Mail",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/3147486/why-did-tesla-stock-jump-today/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-07-06T18:56:15.000Z",
+      "time": "9h ago",
+      "pubDate": "2026-07-06T19:06:30.000Z",
       "title": "Tesla flexes how it will help the blind with Cybercab",
       "body": "Tesla flexes how it will help the blind with Cybercab Teslarati",
       "sourceName": "Teslarati",
@@ -82,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-06T18:42:32.000Z",
       "title": "Elon Musk's bid to set aside Twitter fraud verdict rejected by US judge",
       "body": "Elon Musk's bid to set aside Twitter fraud verdict rejected by US judge Reuters",
@@ -93,22 +106,9 @@
       "href": "https://www.reuters.com/world/us-judge-rejects-elon-musk-bid-set-aside-twitter-fraud-verdict-2026-07-06/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
-      "pubDate": "2026-07-06T18:29:40.000Z",
-      "title": "Tesla Cybercab: mass-producing a car it can’t sell or drive itself",
-      "body": "Tesla is ramping up production of the Cybercab at Giga Texas, with more than 100 of the steering-wheel-less two-seaters already spotted in the factory’s outbound lots. The problem is that Tesla can’t sell it to you, and …",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/07/06/tesla-cybercab-production-before-autonomy/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-06T18:26:11.000Z",
       "title": "Here's how SpaceX's Nasdaq-100 inclusion might affect options pricing",
       "body": "Here's how SpaceX's Nasdaq-100 inclusion might affect options pricing CNBC",
@@ -121,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-06T17:24:04.000Z",
       "title": "Tesla challenges startups to score a gig inside its most advanced European factory",
       "body": "Tesla is challenging startups to bring their best battery tech directly to Gigafactory Berlin. The post Tesla challenges startups to score a gig inside its most advanced European factory appeared first on TESLARATI.",
@@ -134,7 +134,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-06T16:11:03.000Z",
       "title": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle",
       "body": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle CNBC",
@@ -147,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-06T16:11:03.000Z",
       "title": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle",
       "body": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle CNBC",
@@ -160,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-06T14:03:39.000Z",
       "title": "Tesla driver caught asleep at 100 km/h",
       "body": "A Tesla driver was filmed apparently fast asleep behind the wheel at about 100 km/h on British Columbia’s Trans-Canada Highway on Sunday, with two sleeping children in the car. The obvious question is how Tesla’s driver …",
@@ -173,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-06T11:26:00.000Z",
       "title": "Tesla Stock Rises as the Slow Robo-Taxi Rollout Heads to Miami",
       "body": "Tesla Stock Rises as the Slow Robo-Taxi Rollout Heads to Miami Barron's",
@@ -186,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "13h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-06T10:00:22.000Z",
       "title": "Anti-Musk Retail Investors Scramble to Keep SpaceX Out of Their Portfolios",
       "body": "Anti-Musk Retail Investors Scramble to Keep SpaceX Out of Their Portfolios Bloomberg.com",
@@ -225,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4d ago",
+      "time": "5d ago",
       "pubDate": "2026-07-02T13:07:44.000Z",
       "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
       "body": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year CNBC",
@@ -238,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4d ago",
+      "time": "5d ago",
       "pubDate": "2026-07-02T13:06:40.000Z",
       "title": "Tesla deliveries rise 25% as Europeans seek escape from high fuel prices",
       "body": "Tesla deliveries rise 25% as Europeans seek escape from high fuel prices Financial Times",
@@ -251,7 +251,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6d ago",
+      "time": "7d ago",
       "pubDate": "2026-06-30T12:28:34.000Z",
       "title": "Here are Tuesday's biggest analyst calls: Nvidia, Netflix, Tesla, Alphabet, AMD, Sandisk, Block, Broadcom & more",
       "body": "Here are Tuesday's biggest analyst calls: Nvidia, Netflix, Tesla, Alphabet, AMD, Sandisk, Block, Broadcom & more CNBC",

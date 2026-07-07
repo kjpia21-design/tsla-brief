@@ -1,6 +1,56 @@
 {
-  "asOf": "2026-07-06 23:12 UTC · 누적 546건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-07 03:57 UTC · 누적 548건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-06T20:13:00.000Z",
+      "title": "테슬라 주가, 로보택시 <em>마이애미 확장</em> 소식에 강세",
+      "hotShort": "로보택시 <em>마이애미 확장</em>에 테슬라 주가 강세",
+      "body": "테슬라 주가가 6일(현지시간) 로보택시 마이애미 서비스 확장 소식에 3%대 상승 마감 — 지난주 2분기 인도량 발표 후 급락(−7.5%)분을 일부 만회했다. 로보택시 확장이 다시 밸류에이션 재평가 재료로 부각됐다는 평가다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-robotaxi-miami-rally-2026-07-06",
+      "summary": "6일(현지시간) 뉴욕증시에서 테슬라(TSLA) 주가가 상승세로 거래를 마쳤다. 로보택시 서비스가 텍사스·캘리포니아에 이어 마이애미로 확장됐다는 소식이 매수세를 이끌었다.\n\n바론스에 따르면 이번 확장은 마이애미데이드 서부·중부 일부 구역을 대상으로 하며, 다운타운과 마이애미비치는 서비스 범위에서 제외됐다. 로보택시 사업은 오스틴 출시 이후 지역을 넓혀가는 중이며, 이번이 텍사스·캘리포니아 밖 첫 확장으로 소개됐다.\n\n이번 상승은 지난 2일 2분기 인도량이 컨센서스를 웃돌았음에도 주가가 7.5% 급락했던 것과 대비된다. 투자자들이 인도량 자체보다 로보택시·FSD 등 자율주행 사업의 진척을 밸류에이션의 핵심 변수로 보고 있다는 해석이 나온다.\n\n야후파이낸스 등 다른 매체도 같은 날 로보택시 마이애미 확장을 주가 상승의 배경으로 지목해, 시장이 이번 확장 소식에 실제로 반응했다는 정황을 뒷받침한다.",
+      "title_en": "Tesla shares rise on <em>Miami robotaxi expansion</em>",
+      "hotShort_en": "Tesla <em>up 3%+</em> on Miami robotaxi launch",
+      "body_en": "Tesla shares closed up roughly 3% on July 6 after the company expanded its Robotaxi service to Miami — clawing back part of last week's 7.5% post-delivery-report slide. Investors are again pricing autonomy progress as a key driver of Tesla's valuation.",
+      "summary_en": "Tesla (TSLA) shares rallied on July 6 as the company extended its Robotaxi service beyond Texas and California for the first time, launching in Miami.\n\nAccording to Barron's, the new zone covers parts of western and central Miami-Dade County, excluding downtown Miami and Miami Beach. The rollout follows Tesla's earlier robotaxi launches in Austin and California.\n\nThe gain stands in contrast to the 7.5% drop on July 2, when Tesla shares fell despite Q2 deliveries beating consensus — a sign investors are weighing robotaxi and FSD progress more heavily than delivery numbers alone.\n\nOther outlets, including Yahoo Finance, also pointed to the Miami expansion as the catalyst behind the day's rally, reinforcing that the market reacted directly to the autonomy news.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-robotaxi-launch-miami-c6ec7821",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barron's",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-06T19:36:00.000Z",
+      "title": "테슬라 앱 코드에 <em>캐빈 카메라 운전자 신원 확인</em> 기능 발견",
+      "hotShort": "테슬라, FSD 작동 전 <em>캐빈캠으로 신원 확인</em> 추진",
+      "body": "테슬라 앱 최신 버전(4.58.5) 코드에서 캐빈 카메라로 운전자 신원을 확인한 뒤에만 FSD를 활성화하는 기능 문자열이 발견됐다 — 신원이 일치하지 않으면 FSD 작동을 차단하고 오류 메시지를 띄우는 방식. FSD가 구독제로 전환된 만큼, 결제 계정과 실제 운전자를 묶어 무단 사용을 막으려는 조치로 풀이된다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-cabin-camera-identity-check-2026-07-06",
+      "summary": "테슬라 앱을 분해(디컴파일)해 신규 기능을 추적하는 계정(@Tesla_App_iOS)이 iOS 앱 4.58.5 버전(6월 27일 빌드) 코드에서 `fsdIdentityCheckFailedTitle`·`showFsdIdentityCheckFailedDialog`라는 문자열을 찾아냈다고 일렉트렉이 보도했다.\n\n이 문자열들은 캐빈 카메라가 운전자 신원을 확인한 뒤, 등록된 프로필과 일치하지 않으면 FSD 작동을 거부하고 실패 메시지를 띄우는 흐름을 가리킨다. 다만 테슬라의 캐빈 카메라는 애플 페이스ID처럼 적외선 심도 인식 방식이 아닌 일반 RGB 센서여서, 엄밀한 생체인증이라기보다는 보조적 권한 확인에 가깝다는 지적도 나온다.\n\nFSD는 최근 일회성 구매가 아닌 구독 상품으로 판매되고 있어, 신원 확인 기능은 결제 계정과 실제 운전자를 연동해 무단 사용·계정 공유를 막으려는 목적으로 해석된다.\n\n이번 발견은 유명 테슬라 큐레이터 소여 메릿(@SawyerMerritt)도 X에 공유하며 확산됐다. 다만 테슬라가 아직 공식 발표한 기능은 아니며, 코드 문자열 단계일 뿐 실제 탑재 여부·시점은 확인되지 않았다.",
+      "title_en": "Tesla app code hints at <em>cabin-camera identity check</em> before FSD",
+      "hotShort_en": "Tesla may <em>verify driver ID</em> via camera before FSD",
+      "body_en": "Decompiled strings in Tesla's iOS app (v4.58.5) suggest the cabin camera will verify a driver's identity before allowing FSD to engage, blocking activation with an error message if the face doesn't match an authorized profile. With FSD now sold as a subscription, the move looks aimed at tying access to the paying account holder.",
+      "summary_en": "An account that tracks Tesla app builds, @Tesla_App_iOS, found new strings — fsdIdentityCheckFailedTitle and showFsdIdentityCheckFailedDialog — in Tesla's iOS app version 4.58.5 (built June 27), Electrek reported.\n\nTogether, the strings describe a flow where the cabin camera checks the driver's identity and, if it doesn't match an authorized profile, blocks FSD from engaging and shows a failure message. Tesla's cabin camera is a standard RGB sensor rather than the infrared depth-sensing tech Apple uses for Face ID, making it a weaker biometric check than a true lock.\n\nBecause FSD is now sold as a subscription rather than a one-time purchase, tying activation to a verified driver profile would let Tesla keep the paid feature restricted to the account holder, limiting unauthorized use or account sharing.\n\nThe finding was amplified when well-known Tesla tracker Sawyer Merritt shared it on X. Tesla has not officially confirmed the feature — it remains a code-string discovery, with no confirmed rollout timeline.",
+      "href": "https://electrek.co/2026/07/06/tesla-cabin-camera-fsd-identity-check/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Not a Tesla App"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
