@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-07T10:20:00.000Z",
+      "title": "전 테슬라 로봇 과학자, 유럽서 옵티머스 <em>대항마 휴머노이드</em> 창업",
+      "hotShort": "전 테슬라 과학자, 유럽서 <em>로봇 스타트업</em> 창업",
+      "body": "테슬라에서 로봇공학을 연구하던 레미 카덴이 파리 스타트업 UMA를 세우고 AI 휴머노이드 로봇 '노스스타'를 공개, 제조·물류·가정용 시장을 겨냥해 유럽 50여 잠재 고객사와 논의 중이라고 밝혔다 — 옵티머스가 노리는 시장에 테슬라 출신 인재가 직접 경쟁자로 뛰어든 사례라 주주들이 눈여겨볼 만하다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "product-ex-tesla-scientist-uma-northstar-robot-2026-07-07",
+      "summary": "블룸버그에 따르면 카덴은 유럽의 높은 인건비와 고령화 인구 구조를 근거로 유럽 시장을 최우선 공략 대상으로 삼았다고 밝혔다. \"인건비가 매우 높고, 인구 추세를 볼 때 수요가 상당할 것\"이라는 게 그의 설명이다.\n\n노스스타는 AI 기반 휴머노이드 로봇으로, 제조공장·물류창고·가정 등 세 가지 용도를 겨냥해 개발되고 있다. UMA는 이미 유럽 내 50여 잠재 고객사와 도입 논의를 진행 중이라고 밝혔다.\n\n카덴은 테슬라에서 로봇공학 관련 연구를 담당했던 과학자로, 이번 창업은 테슬라를 떠나 독립적으로 세운 것이다. 테슬라는 옵티머스를 앞세워 유사한 산업·가정용 휴머노이드 로봇 시장을 노리고 있어, 이번 창업은 옵티머스의 잠재적 경쟁자 등장을 의미한다.\n\n머스크는 지난 1일 옵티머스 초기 생산이 \"매우 더딜 것\"이라고 밝힌 바 있어, 테슬라가 양산 곡선을 그리는 동안 유럽에서부터 경쟁 구도가 먼저 형성되는 모습이다.",
+      "title_en": "Ex-Tesla scientist launches <em>Optimus rival</em> humanoid startup in Europe",
+      "hotShort_en": "Ex-Tesla scientist eyes <em>Optimus rival</em> in Europe",
+      "body_en": "Rémi Cadene, a former Tesla robotics scientist, has founded Paris-based startup UMA and unveiled an AI-powered humanoid robot called Northstar aimed at factories, warehouses and homes — he says he's already in talks with roughly 50 potential customers across Europe, a notable challenge to Tesla's own Optimus ambitions from someone who once worked on similar technology inside the company.",
+      "summary_en": "According to Bloomberg, Cadene is prioritizing Europe first, citing the region's high labor costs and aging population as reasons to expect strong demand. \"Labor costs are very high and, given the demographic trends, there will be significant demand,\" he said.\n\nNorthstar is an AI-powered humanoid robot targeting three use cases: manufacturing plants, logistics warehouses and homes. UMA says it's already talking to about 50 potential customers about deployment.\n\nCadene previously worked as a scientist on robotics-related research at Tesla before leaving to start UMA independently. Since Tesla is chasing a similar industrial-and-home humanoid market with Optimus, UMA's launch marks the arrival of a competitor with insider knowledge of the space.\n\nThe timing is notable: Musk said on July 1 that Optimus's initial production would be \"extremely slow,\" meaning the competitive landscape in Europe is taking shape even as Tesla's own ramp remains in its earliest stages.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-07/ex-tesla-scientist-unveils-plans-for-european-humanoid-robot",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "45m ago",
@@ -2336,27 +2356,7 @@
       "href": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-06-24T14:48:00.000Z",
-      "title": "Barron's — SpaceX 합병 논란에도 TSLA 핵심 변수는 <em>2분기 인도량</em>",
-      "hotShort": "Barron's: TSLA 핵심 변수는 <em>2분기 인도량</em>",
-      "body": "Barron's가 SpaceX-테슬라 합병 추측이 시장 관심을 빼앗는 가운데, 실제 TSLA 주가를 움직이는 핵심 변수는 7월 초 발표될 2분기 인도량이라고 분석했다 — 투기적 내러티브가 아닌 실적 펀더멘털이 여전히 주가를 좌우한다는 시장 전문가의 시각.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "stock-q2-deliveries-tsla-drivers-2026-06-24",
-      "summary": "테슬라의 분기 인도 보고서는 통상 분기 종료 후 첫 주(7월 1~7일)에 발표된다. Barron's는 이번 분석에서 SpaceX-테슬라 합병 추측이 아닌 이 2분기 인도 데이터가 TSLA 주가의 실질 촉매라는 시각을 제시한다 — '왜 2분기 인도량이 여전히 TSLA를 움직이는가'에 대한 답이 기사의 핵심이다.\n\nSpaceX-테슬라 합병론은 일론 머스크의 언급이나 시장 추측에서 주기적으로 부각되지만, 실현을 위해서는 이사회 승인·규제 검토·주주 동의라는 복잡한 절차가 필요하다. Barron's는 이를 단기 주가 변수가 아닌 장기·투기적 내러티브로 판단한 것으로 보인다.\n\n반면 분기 인도량은 테슬라 주가의 가장 직접적인 단기 촉매였다. 컨센서스 상회 시 급등, 하회 시 급락 패턴이 수 분기에 걸쳐 반복됐으며, 7월 첫 주 데이터 발표는 투자자들이 주목하는 단일 이벤트다.\n\n테슬라 주주에게 이 분석이 주는 실천적 시사점은 하나다 — 7월 초 발표될 2분기 인도 데이터를 주목하라. 그 수치가 컨센서스 대비 어떻게 나오느냐가 SpaceX 합병 뉴스보다 훨씬 빠르고 직접적으로 TSLA 주가에 반영될 것이다.",
-      "title_en": "Barron's: TSLA's near-term driver is <em>Q2 deliveries</em>, not SpaceX merger talk",
-      "hotShort_en": "Barron's: TSLA hinges on <em>Q2 deliveries</em>, not SpaceX merger",
-      "body_en": "Barron's argues that while SpaceX-Tesla merger speculation continues to dominate headlines, the actual near-term variable for TSLA stock is the second-quarter delivery report due in early July — a reminder that fundamental execution metrics still take precedence over deal speculation when it comes to pricing Tesla shares.",
-      "summary_en": "Tesla's quarterly delivery and production reports — typically released in the first week following each quarter's end — have historically been the single most impactful short-term catalyst for TSLA shares. Delivery counts that beat the sell-side consensus tend to drive sharp upside moves; misses have triggered the reverse. Barron's argues this dynamic makes the upcoming Q2 delivery report the variable that actually matters for investors right now.\n\nThe SpaceX-Tesla merger theory resurfaces periodically, typically triggered by Musk's comments or broader speculation about consolidating the Musk portfolio. Realizing such a transaction would require board approval, regulatory review, and shareholder votes across multiple companies — a process with no near-term probability that would justify pricing it into TSLA today. Barron's frames the merger narrative as a distraction from the fundamentals.\n\nThe early July delivery report window is consequently one of the most closely watched near-term events for Tesla shareholders. Whether the Q2 count comes in above or below the consensus will speak more immediately and forcefully to the stock's next move than any merger narrative — consistent with the pattern established in prior quarters where delivery beats and misses have set the tone for weeks of subsequent trading.\n\nFor Tesla investors, the Barron's framing is a useful calibration: tune out the merger noise and focus on execution. Q2 deliveries will be the market's near-term verdict on whether Tesla's volume recovery is on track.",
-      "href": "https://www.barrons.com/articles/tesla-stock-ev-deliveries-spacex-merger-44bdad81",
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-07 08:15 UTC 자동 갱신 · 최신순"
+  "asOf": "2026-07-07 11:20 UTC 자동 갱신 · 최신순"
 }

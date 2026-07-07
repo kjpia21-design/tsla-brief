@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-07T10:20:00.000Z",
+      "title": "전 테슬라 로봇 과학자, 유럽서 옵티머스 <em>대항마 휴머노이드</em> 창업",
+      "hotShort": "전 테슬라 과학자, 유럽서 <em>로봇 스타트업</em> 창업",
+      "body": "테슬라에서 로봇공학을 연구하던 레미 카덴이 파리 스타트업 UMA를 세우고 AI 휴머노이드 로봇 '노스스타'를 공개, 제조·물류·가정용 시장을 겨냥해 유럽 50여 잠재 고객사와 논의 중이라고 밝혔다 — 옵티머스가 노리는 시장에 테슬라 출신 인재가 직접 경쟁자로 뛰어든 사례라 주주들이 눈여겨볼 만하다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "product-ex-tesla-scientist-uma-northstar-robot-2026-07-07",
+      "summary": "블룸버그에 따르면 카덴은 유럽의 높은 인건비와 고령화 인구 구조를 근거로 유럽 시장을 최우선 공략 대상으로 삼았다고 밝혔다. \"인건비가 매우 높고, 인구 추세를 볼 때 수요가 상당할 것\"이라는 게 그의 설명이다.\n\n노스스타는 AI 기반 휴머노이드 로봇으로, 제조공장·물류창고·가정 등 세 가지 용도를 겨냥해 개발되고 있다. UMA는 이미 유럽 내 50여 잠재 고객사와 도입 논의를 진행 중이라고 밝혔다.\n\n카덴은 테슬라에서 로봇공학 관련 연구를 담당했던 과학자로, 이번 창업은 테슬라를 떠나 독립적으로 세운 것이다. 테슬라는 옵티머스를 앞세워 유사한 산업·가정용 휴머노이드 로봇 시장을 노리고 있어, 이번 창업은 옵티머스의 잠재적 경쟁자 등장을 의미한다.\n\n머스크는 지난 1일 옵티머스 초기 생산이 \"매우 더딜 것\"이라고 밝힌 바 있어, 테슬라가 양산 곡선을 그리는 동안 유럽에서부터 경쟁 구도가 먼저 형성되는 모습이다.",
+      "title_en": "Ex-Tesla scientist launches <em>Optimus rival</em> humanoid startup in Europe",
+      "hotShort_en": "Ex-Tesla scientist eyes <em>Optimus rival</em> in Europe",
+      "body_en": "Rémi Cadene, a former Tesla robotics scientist, has founded Paris-based startup UMA and unveiled an AI-powered humanoid robot called Northstar aimed at factories, warehouses and homes — he says he's already in talks with roughly 50 potential customers across Europe, a notable challenge to Tesla's own Optimus ambitions from someone who once worked on similar technology inside the company.",
+      "summary_en": "According to Bloomberg, Cadene is prioritizing Europe first, citing the region's high labor costs and aging population as reasons to expect strong demand. \"Labor costs are very high and, given the demographic trends, there will be significant demand,\" he said.\n\nNorthstar is an AI-powered humanoid robot targeting three use cases: manufacturing plants, logistics warehouses and homes. UMA says it's already talking to about 50 potential customers about deployment.\n\nCadene previously worked as a scientist on robotics-related research at Tesla before leaving to start UMA independently. Since Tesla is chasing a similar industrial-and-home humanoid market with Optimus, UMA's launch marks the arrival of a competitor with insider knowledge of the space.\n\nThe timing is notable: Musk said on July 1 that Optimus's initial production would be \"extremely slow,\" meaning the competitive landscape in Europe is taking shape even as Tesla's own ramp remains in its earliest stages.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-07/ex-tesla-scientist-unveils-plans-for-european-humanoid-robot",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "45m ago",
@@ -74,5 +94,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-07-07 08:15 UTC 자동 갱신 · 최신순"
+  "asOf": "2026-07-07 11:20 UTC 자동 갱신 · 최신순"
 }
