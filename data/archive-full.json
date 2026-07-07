@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-07 18:04 UTC · 누적 553건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-07 21:35 UTC · 누적 553건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-07T15:39:00.000Z",
+      "title": "스페이스X 목표주가 최고 $800 — 레이먼드제임스 <em>$10조 밸류에이션</em> 제시",
+      "hotShort": "레이먼드제임스, 스페이스X에 <em>$10조 밸류에이션</em> 제시",
+      "body": "스페이스X 커버리지가 확대되며 레이먼드제임스가 목표주가 $800(스트리트 최고가)을 제시 — 도달 시 밸류에이션이 약 $10.5조로 엔비디아($4.7조)의 2배를 넘는다. 반면 모펫네이선슨은 중립(목표 $131, 종가 대비 18% 하락 여지)을 내며 회사의 $30조 시장규모 추정을 '터무니없다'고 비판 — 머스크 개인자산과 시장 관심이 집중된 스페이스X를 둘러싼 낙관·회의 온도차가 갈수록 커지고 있다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-nasdaq100-inclusion-analyst-coverage-2026-07-07",
+      "summary": "나스닥100 편입 이후 스페이스X에 대한 월가 커버리지 개시가 줄을 잇는 가운데, 이번 주 들어 도이치방크·뱅크오브아메리카·레이먼드제임스가 낙관적 리포트를 내며 목표주가가 직전 종가 대비 28~87% 높은 수준을 제시했다(CNBC).\n\n가장 공격적인 곳은 레이먼드제임스의 브라이언 지수알레 — 목표주가 $800으로 스트리트 최고치를 제시했다. 실제 이 가격에 도달하면 스페이스X 시가총액은 약 $10.5조까지 불어나는데, 이는 현재 세계 시총 1위 엔비디아($4.7조)의 두 배를 웃도는 규모다(블룸버그).\n\n반대편에는 모펫네이선슨이 있다. 유일하게 회의적인 리서치 하우스로, 중립 등급에 목표주가 $131(직전 월요일 종가 $160.42 대비 약 18% 하락 여지)을 제시했다. 보고서는 \"중립조차 후한 평가일 수 있다 — 어떤 이는 처음부터 매도 등급을 다는 게 더 신중했을 거라고 말할 것\"이라고 적었고, 스페이스X가 제시한 약 $30조 규모의 시장기회(TAM) 추정을 '터무니없다'고 정면 비판했다. 2029년까지 연 100기가와트 궤도 컴퓨팅 용량을 배치하겠다는 목표에 대해서도, 필요한 부품이 그때까지 존재하지 않을 가능성이 크다고 지적했다(CNBC).\n\n테슬라와는 별개 회사지만, 스페이스X는 머스크의 개인 순자산과 시간의 상당 부분을 차지하는 만큼 테슬라 주주들도 계속 주시할 수밖에 없는 변수다. 시총 추정치가 한쪽에서는 엔비디아를 뛰어넘는 $10조대를, 다른 쪽에서는 20% 가까운 하락을 점치는 극단적 스프레드는 스페이스X의 밸류에이션 논쟁이 아직 전혀 정리되지 않았음을 보여준다.",
+      "title_en": "SpaceX's biggest bull sees <em>$10 trillion-plus valuation</em> as skeptics push back",
+      "hotShort_en": "SpaceX bull sees <em>$10 trillion</em> valuation",
+      "body_en": "Wall Street's SpaceX coverage keeps widening: Raymond James set a Street-high $800 target — implying a roughly $10.5 trillion valuation, more than double Nvidia's $4.7 trillion — while MoffettNathanson stood alone with a neutral $131 target (18% downside), calling SpaceX's $30 trillion market-opportunity estimate \"absurd.\" The growing spread underscores how unsettled SpaceX's valuation debate remains for Musk-watching Tesla shareholders.",
+      "summary_en": "Coverage of SpaceX keeps expanding after its Nasdaq-100 inclusion. This week alone, Deutsche Bank, Bank of America and Raymond James issued bullish reports with price targets 28% to 87% above the prior close, according to CNBC.\n\nThe most aggressive call came from Raymond James' Brian Gesuale, whose $800 target is the highest on the Street. Hitting that price would balloon SpaceX's market value to roughly $10.5 trillion — more than double Nvidia's $4.7 trillion, currently the world's most valuable stock, per Bloomberg.\n\nOn the other side sits MoffettNathanson, the lone skeptic among sell-side firms. It initiated coverage at neutral with a $131 target — about 18% below SpaceX's $160.42 close the prior Monday — and wrote that \"it would be easy, some might argue prudent, to initiate coverage with a flashing red sell rating.\" The firm called SpaceX's roughly $30 trillion market-opportunity estimate \"absurd\" and questioned whether the hardware needed for Musk's plan to deploy 100 gigawatts of orbital compute capacity annually by 2029 will even exist by then, per CNBC.\n\nSpaceX is a separate company, but it absorbs a large share of Musk's net worth and attention, so Tesla shareholders keep tabs on it too. A spread running from a valuation above Nvidia's to nearly 20% downside shows just how unsettled the SpaceX valuation debate remains.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-s-biggest-bull-sees-valuation-soaring-above-10-trillion",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "CNBC"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -72,32 +97,6 @@
       ],
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-07-07T06:28:00.000Z",
-      "title": "스페이스X, 나스닥100 정식 편입 — 월가 첫 커버리지는 <em>매수 우세</em>",
-      "hotShort": "스페이스X 나스닥100 편입 + 월가 <em>매수 물결</em>",
-      "body": "스페이스X가 7일 나스닥100에 정식 편입되며 지수펀드의 강제 매수 규모가 약 $43억에 달할 전망(JP모건 추산) — 동시에 모건스탠리·골드만삭스·UBS 등 대형 증권사들이 잇따라 첫 커버리지를 개시해 매수 의견이 우세(컨센서스 목표주가 $188.57)하지만, 아레테리서치 $401(매수)과 모닝스타 $62(매도)로 시각차는 극과 극이다 — 테슬라 주주에게는 머스크 개인 자산·시장 관심이 다시 스페이스X로 쏠리는 흐름을 보여주는 대목.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-nasdaq100-inclusion-analyst-coverage-2026-07-07",
-      "summary": "지난 6월 12일 약 $857억을 조달하며 역대 최대 규모 IPO를 마친 스페이스X가, 나스닥100의 신규 상장사 조기 편입 규정(15거래일 경과 시 통상 시딩 요건 면제)에 따라 7일 장 시작 전 지수에 정식 편입됐다.\n\n이번 편입에 따른 지수펀드의 강제 매수 규모는 JP모건 추산으로 약 $43억에 달하며, 그 상당 부분은 편입 전날인 6일 장 마감 후 집중적으로 이뤄질 것으로 전망됐다. 나스닥100은 인베스코 QQQ 등 $8,000억 이상이 벤치마크로 삼는 지수여서, 이번 편입만으로도 상당한 수급 효과가 발생한다.\n\n같은 시기 모건스탠리·골드만삭스·UBS 등 최소 6곳의 대형 증권사가 처음으로 스페이스X 커버리지를 개시했다. 전체 의견 분포는 매수 7·보유 3·매도 1로 매수 우세이며, 컨센서스 목표주가는 $188.57이다. 다만 개별 의견 편차는 극명해 아레테리서치의 앤드루 빌은 스트리트 최고가 $401(매수)을, 모닝스타의 니콜라스 오웬스는 $62(매도)를 제시했다.\n\n스페이스X는 테슬라와 별개 기업이지만, 머스크의 개인 순자산·시간 배분과 직결된 만큼 테슬라 주주들도 함께 지켜보는 지표다. 최근 머스크 관련 반감으로 지수 편입에도 개인투자자들이 거리를 뒀다는 분석이 나온 지 하루 만에, 기관 커버리지에서는 매수 우위가 확인된 셈이다.",
-      "title_en": "SpaceX joins Nasdaq-100 as Wall Street's first coverage <em>leans bullish</em>",
-      "hotShort_en": "SpaceX joins Nasdaq-100, first coverage <em>leans bullish</em>",
-      "body_en": "SpaceX formally joined the Nasdaq-100 on July 7, triggering an estimated $4.3 billion in forced index-fund buying per J.P. Morgan — while at least six major banks, including Morgan Stanley, Goldman Sachs and UBS, issued their first-ever coverage, mostly with buy ratings (consensus target $188.57), even as views range wildly from Arete Research's bullish $401 to Morningstar's bearish $62. For Tesla shareholders, it's another marker of how much market attention — and how much of Musk's net worth — is now tied up in SpaceX.",
-      "summary_en": "SpaceX, which closed the largest IPO in history on June 12 raising roughly $85.7 billion, qualified for the Nasdaq-100's fast-track inclusion rule, which waives the usual seasoning period for new listings after 15 trading days — landing it in the index before the market opened on July 7.\n\nJ.P. Morgan estimates the resulting forced buying from index funds at about $4.3 billion, with much of it concentrated after the close on July 6, the day before the change took effect. The Nasdaq-100 underpins more than $800 billion in assets, including the Invesco QQQ ETF, so the inclusion alone creates meaningful demand.\n\nAround the same time, at least six major banks — including Morgan Stanley, Goldman Sachs and UBS — initiated coverage on SpaceX for the first time. The overall split leans bullish, at 7 buy, 3 hold and 1 sell, with a consensus price target of $188.57. Individual views diverge sharply, though: Arete Research's Andrew Beale set the Street-high target at $401 (buy), while Morningstar's Nicolas Owens set the Street-low at $62 (sell).\n\nSpaceX is a separate company from Tesla, but given how closely it's tied to Musk's personal net worth and attention, Tesla shareholders track it too. The bullish institutional coverage comes just a day after reports that retail investors were shunning the index-inclusion trade over Musk-related backlash — a split screen between institutional and retail sentiment.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-shares-win-early-bullish-calls-from-wall-street-brokers",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Bloomberg",
-        "CNBC",
-        "Motley Fool"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     },
     {
       "category": "stock",
