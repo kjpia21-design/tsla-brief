@@ -1,11 +1,50 @@
 {
-  "asOf": "2026-07-08 03:23 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-08 06:33 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2m ago",
+      "pubDate": "2026-07-08T06:31:08.000Z",
+      "title": "The secret behind Tesla’s Cybercab Gold goes well beyond just the color",
+      "body": "Tesla has spent years trying to engineer its way out of the automotive paint shop, one of the most expensive, space-consuming, and environmentally costly steps in vehicle manufacturing. With the Cybercab, Tesla confirmed…",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-reaction-injection-molding-cybercab-gold-paint/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-08T04:09:35.000Z",
+      "title": "Tesla app update makes Robotaxi ownership make a lot more sense",
+      "body": "Tesla app update makes Robotaxi ownership make a lot more sense Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-app-update-sefl-driving-robotaxi/"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "25m ago",
-      "pubDate": "2026-07-08T02:58:39.000Z",
+      "time": "3h ago",
+      "pubDate": "2026-07-08T03:42:23.000Z",
+      "title": "TSLA Stock Clocks Worst Day In 11 Months After Q2 Delivery Blows Past Estimates — Investors And Experts Weigh In",
+      "body": "TSLA Stock Clocks Worst Day In 11 Months After Q2 Delivery Blows Past Estimates — Investors And Experts Weigh In Stocktwits",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-clocks-worst-day-in-11-months-after-q2-delivery-blows-past-estimates/cZm97iXR7jO"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
+      "pubDate": "2026-07-08T02:42:00.000Z",
       "title": "Analysts Offer Insights on Consumer Cyclical Companies: TJX Companies (TJX) and Tesla (TSLA)",
       "body": "Analysts Offer Insights on Consumer Cyclical Companies: TJX Companies (TJX) and Tesla (TSLA) The Globe and Mail",
       "sourceName": "The Globe and Mail",
@@ -17,10 +56,10 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-07T21:08:01.000Z",
-      "title": "Wall Street Unleashes Bullish SpaceX Ratings Eyeing 47% Upside",
-      "body": "Wall Street Unleashes Bullish SpaceX Ratings Eyeing 47% Upside Bloomberg.com",
+      "title": "Wall Street Unleashes Wave of Bullish SpaceX Ratings",
+      "body": "Wall Street Unleashes Wave of Bullish SpaceX Ratings Bloomberg.com",
       "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
@@ -30,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-07T20:36:00.000Z",
       "title": "When It Comes to Analyst Ratings, Tesla Stock Is No SpaceX",
       "body": "When It Comes to Analyst Ratings, Tesla Stock Is No SpaceX Barron's",
@@ -41,22 +80,9 @@
       "href": "https://www.barrons.com/articles/tesla-stock-analyst-ratings-spacex-17843e31"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-07-07T18:46:32.000Z",
-      "title": "Tesla app update makes Robotaxi ownership make a lot more sense",
-      "body": "Tesla app update makes Robotaxi ownership make a lot more sense Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-app-update-sefl-driving-robotaxi/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-07T18:26:22.000Z",
       "title": "Breakingviews - Wall Street gets high on Elon Musk's SpaceX supply",
       "body": "Breakingviews - Wall Street gets high on Elon Musk's SpaceX supply Reuters",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-07T17:28:37.000Z",
       "title": "Someone is trying to flip a new Rivian R2 for $80,000 — $20K over MSRP",
       "body": "A private seller in Littleton, Colorado has listed a brand-new 2027 Rivian R2 Performance on Cars.com for $79,900 — roughly $20,000 over what Rivian charges for the same vehicle. The listing went up July 1, just weeks af…",
@@ -82,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-07T16:58:57.000Z",
       "title": "Tesla launches startup challenge to scale Giga Berlin battery cells",
       "body": "Tesla is opening the doors of its Gigafactory Berlin-Brandenburg to outside startups through a new “Cell Giga Challenge,” inviting them to pilot technologies inside its live battery cell production line. The program come…",
@@ -95,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-07T15:39:28.000Z",
       "title": "SpaceX’s Biggest Bull Sees Valuation Soaring Above $10 Trillion",
       "body": "SpaceX’s Biggest Bull Sees Valuation Soaring Above $10 Trillion Bloomberg.com",
@@ -108,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-07T15:00:01.000Z",
       "title": "The Index Fund Investor’s SpaceX Dilemma, and What to Do About It",
       "body": "The Index Fund Investor’s SpaceX Dilemma, and What to Do About It Bloomberg.com",
@@ -121,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-07T13:26:09.000Z",
       "title": "I hope the expansion of Tesla FSD V14 Lite in the U.S. will begin soon!",
       "body": "I hope the expansion of Tesla FSD V14 Lite in the U.S. will begin soon! https://t.co/COS7S550VE",
@@ -132,22 +158,9 @@
       "href": "https://x.com/Tslachan/status/2074485122775367850"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
-      "pubDate": "2026-07-07T12:14:05.000Z",
-      "title": "With AI, now you could learn from much better materials and cutting-edge knowledges than either schools or colleges c…",
-      "body": "With AI, now you could learn from much better materials and cutting-edge knowledges than either schools or colleges could ever provide. Homeschooling would become a norm, even for working parents.",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2074466982817353768"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-07T10:20:00.000Z",
       "title": "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot",
       "body": "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot Bloomberg.com",
@@ -160,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "21h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-07T06:47:30.000Z",
       "title": "California snubs Tesla in its newly passed EV incentive that favors Rivian and Lucid",
       "body": "California passed a $135 million EV incentive that rewards Rivian and Lucid while sidelining Tesla The post California snubs Tesla in its newly passed EV incentive that favors Rivian and Lucid appeared first on TESLARATI…",
@@ -186,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-07-06T16:11:03.000Z",
       "title": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle",
       "body": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle CNBC",
@@ -199,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-07-06T16:11:03.000Z",
       "title": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle",
       "body": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle CNBC",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/d4d19d9b-3576-4a28-b972-3007b6cb0bdc?syn-25a6b1a6"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "8d ago",
-      "pubDate": "2026-06-30T12:28:34.000Z",
-      "title": "Here are Tuesday's biggest analyst calls: Nvidia, Netflix, Tesla, Alphabet, AMD, Sandisk, Block, Broadcom & more",
-      "body": "Here are Tuesday's biggest analyst calls: Nvidia, Netflix, Tesla, Alphabet, AMD, Sandisk, Block, Broadcom & more CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/06/30/tuesday-biggest-analyst-call-on-wall-street-include-nvidia.html"
     }
   ]
 }
