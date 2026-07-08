@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5m ago",
+      "pubDate": "2026-07-08T06:31:08.000Z",
+      "title": "사이버캡 '골드' 색의 비밀 — 페인트 아닌 <em>반응사출성형으로 색상 자체 주입</em>",
+      "hotShort": "사이버캡 골드, <em>도장 공정 자체를 없앤 신기술</em>",
+      "body": "테슬라가 사이버캡 차체 패널에 안료를 폴리우레탄과 함께 금형에 직접 주입하는 반응사출성형(RIM) 공법을 도입했다 — 별도 도장 없이 패널이 이미 착색된 채로 나오고, 도장 사이클을 시간 단위에서 분 단위로 줄이며 제조·공급망 배출을 35% 절감, 페인트 VOC 배출은 100% 없앴다 — 로보택시 대량 양산의 원가와 환경 부담을 동시에 낮추는 제조 혁신이다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-cybercab-gold-rim-paint-2026-07-08",
+      "summary": "테슬라가 사이버캡의 골드 색상 차체 패널에 새로운 반응사출성형(Reaction Injection Molding, RIM) 공법을 적용했다고 확인했다. 안료를 별도로 칠하는 대신, 패널을 성형하는 순간 폴리우레탄 소재와 안료를 함께 금형에 주입해 패널이 금형에서 나올 때 이미 색이 입혀진 상태가 되는 방식이다.\n\n기존 도장 공정은 차체를 별도 도장 부스로 옮겨 프라이머·베이스코트·클리어코트를 순차로 입히고 건조·경화하는 데 상당한 시간과 설비가 필요했다. RIM 공법은 이 과정을 사실상 성형 단계 안으로 흡수해, 패널당 도장 사이클을 시간 단위에서 분 단위로 단축한다.\n\n환경·원가 측면 효과도 구체적이다. 테슬라에 따르면 이 공법은 해당 부품의 제조·공급망 탄소배출을 35% 줄이고, 전통적 도장 과정에서 나오는 휘발성유기화합물(VOC) 배출을 100% 없앤다. 색이 얇은 표면 코팅이 아니라 패널 자체의 성질이 되면서, 도로 이물질에 의한 도장 벗겨짐·박리 위험도 구조적으로 줄어든다.\n\n사이버캡은 도장 공정이 필요 없는 플라스틱(폴리우레탄) 차체 패널을 쓰는 것으로 이미 알려져 있었는데, 이번에 확인된 RIM 공법은 그 설계 철학의 구체적 실행 방식이다. 도장 부스라는 전통적으로 비싸고 복잡한 공정 자체를 생산 라인에서 들어내는 접근으로, 로보택시를 대규모로 양산하려는 테슬라의 원가 절감 전략과 맞닿아 있다.",
+      "title_en": "Tesla's Cybercab Gold isn't painted — <em>color is injected during molding</em>",
+      "hotShort_en": "Cybercab's gold <em>comes from molding</em>, not paint",
+      "body_en": "Tesla confirmed its Cybercab body panels use a reaction injection molding (RIM) process that injects pigment directly into the polyurethane mix as the panel is molded, so it emerges from the mold already colored — cutting paint cycles from hours to minutes, reducing manufacturing and supply-chain emissions by 35%, and eliminating 100% of traditional paint VOC emissions, a manufacturing shift aimed at lowering both cost and environmental impact as Tesla scales Robotaxi production.",
+      "summary_en": "Tesla confirmed that Cybercab's gold-colored body panels are made using a reaction injection molding (RIM) process rather than conventional paint. Instead of applying color as a separate coating step, pigment is mixed into the polyurethane material and injected into the mold at the moment the panel is formed — so the panel comes out already colored.\n\nTraditional automotive paint requires routing body panels through a dedicated paint shop for primer, basecoat and clearcoat stages, each needing time to cure. By folding color into the molding step itself, Tesla cuts what would be a multi-hour paint cycle down to minutes per panel.\n\nThe environmental and cost benefits are concrete. Tesla says the process cuts manufacturing and supply-chain emissions for these parts by 35% and eliminates 100% of the volatile organic compound (VOC) emissions associated with traditional paint shops. Because the color is a property of the molded material itself rather than a thin surface layer, the panels are also structurally less prone to chipping or peeling from road debris.\n\nCybercab was already known to use paintless, plastic (polyurethane) body panels; this RIM process is the concrete manufacturing method behind that design choice. Eliminating the traditional paint shop — historically one of the most expensive and complex stages of vehicle production — fits Tesla's broader push to cut costs as it works to scale Robotaxi production.",
+      "href": "https://www.teslarati.com/tesla-reaction-injection-molding-cybercab-gold-paint/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "3h ago",
@@ -2342,32 +2362,7 @@
       "href": "https://www.reuters.com/commentary/breakingviews/london-will-wage-international-robotaxi-warfare-2026-06-24/",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-06-24T19:48:01.000Z",
-      "title": "Electrek — 테슬라·Sunrun·Renew Home, <em>16 GW 가상발전소</em> 합의 — 미국 최대 규모",
-      "hotShort": "테슬라·Sunrun, <em>16 GW 가상발전소</em> 구축 합의",
-      "body": "테슬라·Sunrun·Renew Home 세 회사가 가정용 배터리·온도조절기 등 분산 에너지 자원을 집결해 16 GW 이상 규모의 미국 최대 가상발전소(VPP)를 AI 데이터센터 전력 공급용으로 구축하기로 합의했다고 Electrek이 보도했다 — 테슬라 에너지가 메가팩을 넘어 파워월 생태계까지 AI 인프라 공급망에 편입시키는 구체적 전략 전환이며, 발표 당일 Sunrun 주가는 30% 폭등했다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-tesla-sunrun-ai-datacenter-2026-06-24",
-      "summary": "테슬라·Sunrun·Renew Home 세 회사는 파워월 가정용 배터리·스마트 온도조절기·기타 분산 에너지 기기들을 하나의 소프트웨어 플랫폼으로 묶어 16 GW 이상 규모의 가상발전소(VPP)를 만들기로 했다. Electrek에 따르면 이 규모는 미국 역사상 최대 분산형 발전소가 될 것이라고 세 회사는 밝혔다. 16 GW는 중형 원자력발전소 약 16기 발전 용량에 해당한다.\n\n역할 분담은 명확하다. 테슬라는 파워월 배터리 저장 시스템과 에너지 관리 소프트웨어를 제공하고, Sunrun은 전국에 구축된 대규모 가정용 태양광·배터리 설치 네트워크를 담당하며, Renew Home은 분산 에너지 자원을 실시간 통합·조정하는 관리 플랫폼을 맡는다. 이 3사 협력 구조가 개별 능력의 단순 합산을 넘어 AI 인프라 전력 공급이라는 새 시장을 타깃으로 한다는 점이 핵심이다.\n\nAI 데이터센터는 훈련 클러스터 한 건에 수백 메가와트의 안정적 전력을 요구하지만 기존 전력 인프라 증설 속도가 이를 따라가지 못하는 상황이다. VPP 방식은 수십만 가정의 분산 자원을 소프트웨어로 집결해 유연한 대용량 전력을 제공함으로써 이 공백을 메운다. 테슬라가 이 공급 사슬의 핵심 참여자로 자리잡을 경우, 에너지 사업 매출 경로가 파워월 단위 판매에서 AI 인프라 장기 계약으로 다각화된다.\n\nBarron's는 제휴 발표 당일 Sunrun 주가가 30% 급등해 2026년 연간 하락분 전체를 단 하루에 되돌렸다고 보도했다. 시장은 이를 단순 파트너십이 아닌 AI 인프라 전력 시장에서의 새 비즈니스 모델 등장으로 해석한 것이다. 테슬라 주주에게 이번 합의는 전기차 판매 변동성과 독립적인 에너지 사업부 성장 레버가 구체화됐다는 신호다.",
-      "title_en": "Electrek: Tesla, Sunrun & Renew Home to build <em>16 GW virtual power plant</em> for AI data centers",
-      "hotShort_en": "Tesla+Sunrun lock in <em>16 GW VPP</em> for AI power",
-      "body_en": "Tesla, Sunrun, and Renew Home have agreed to aggregate more than 16 gigawatts of home batteries, thermostats, and distributed energy devices into what would be the largest distributed power plant in the United States, targeting AI data center electricity demand, Electrek reports — a move that positions Tesla's energy ecosystem beyond Megapack into the residential battery network as a direct AI infrastructure power supplier, with Sunrun's stock surging 30% on announcement day.",
-      "summary_en": "Tesla, Sunrun, and Renew Home have announced an agreement to aggregate distributed energy resources — including Powerwall home battery systems, smart thermostats, and other grid-edge devices — into a virtual power plant exceeding 16 gigawatts of combined capacity. The companies describe the arrangement as the largest distributed power plant in US history. The stated commercial target is AI data center power demand, one of the fastest-growing load categories in American electricity markets.\n\n16 GW is roughly equivalent to the output of 16 mid-sized nuclear power plants. Rather than building a single centralized facility, VPP technology aggregates thousands or millions of small distributed energy resources via software, coordinating their output in response to grid needs. Tesla contributes Powerwall battery systems and energy management software; Sunrun brings its large-scale residential solar-plus-storage installation network; Renew Home provides the distributed energy resource management platform that integrates and dispatches the three parties' assets in real time.\n\nAI data centers require hundreds of megawatts of reliable, continuous power for training clusters and inference infrastructure. Conventional utility-scale power development cannot match the pace of hyperscaler buildout, creating an opening for VPP providers able to deliver flexible, aggregated capacity without decade-long transmission and generation construction timelines. Tesla's position in this partnership makes it a direct supplier to the AI economy through its residential energy ecosystem — a revenue channel that is structurally independent of EV delivery volumes.\n\nBarron's reported that Sunrun's stock surged 30% on announcement day, recovering the company's entire 2026 year-to-date losses in a single session. That market reaction reflects investors reading this as a structural entry into the AI infrastructure supply chain rather than a routine commercial agreement. For Tesla shareholders, the deal is the clearest signal yet that Tesla Energy's growth story is moving beyond utility-scale Megapack installations into a wider AI infrastructure role.",
-      "href": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Barron's"
-      ],
-      "sentiment": "bull",
-      "hot": 8
     }
   ],
-  "asOf": "2026-07-08 00:35 UTC 자동 갱신 · 최신순"
+  "asOf": "2026-07-08 06:40 UTC 자동 갱신 · 최신순"
 }
