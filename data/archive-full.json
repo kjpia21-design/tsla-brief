@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-08 17:43 UTC · 누적 558건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-08 19:42 UTC · 누적 562건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-08T15:15:00.000Z",
+      "title": "월가, 테슬라·스페이스X 합병설에 <em>엇갈린 반응</em> — BNP \"회의적\" vs JP모건 \"이론상 타당\"",
+      "hotShort": "합병설에 월가 <em>반응 갈려</em> — BNP 회의 vs JPM 긍정",
+      "body": "BNP파리바는 현금소진·규제 리스크를 들어 테슬라·스페이스X 합병에 회의적 견해를 냈고, JP모건은 AI·로봇·에너지 시너지 면에서 \"이론적으로는 타당\"하다면서도 中 노출·다중 관할권 규제 승인을 걸림돌로 지목 — 아이브스의 '80% 확률' 전망 이후 월가 반응이 갈리기 시작했다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "musk-tesla-spacex-merger-wall-street-split-2026-07-08",
+      "summary": "지난주 웨드부시 아이브스 애널리스트의 '합병 확률 80%' 발언으로 재점화된 테슬라·스페이스X 합병설이, 이번엔 대형 투자은행들의 정식 분석 대상이 됐다.\n\nBNP파리바는 스페이스X의 막대한 현금 소진과 규제 리스크를 근거로 합병 실현 가능성에 회의적인 입장을 냈다.\n\n반면 JP모건은 AI·로봇·에너지·운송·우주를 아우르는 사업 중첩을 근거로 \"이론적으로는 타당(strategically coherent)\"하다고 평가하면서도, 실제 걸림돌로 中 노출에 따른 규제 리스크와 여러 관할권의 승인 절차를 꼽았다 — 스페이스X는 美 정부·군 주요 계약사이고 테슬라는 中 내 대규모 제조 기반을 갖고 있어, 국가안보·공급망 우려로 이어질 수 있다는 지적이다. 지배구조 측면에서도 머스크가 스페이스X 의결권의 약 85%를 보유한 반면 테슬라 지분은 약 20%에 그쳐, 두 회사 합병이 '대등한 결합'보다는 '스페이스X 주도의 인수'로 비칠 수 있다는 우려도 나온다.\n\n핵심 쟁점은 결국 하나로 귀결된다 — 합병이 AI·에너지·로보틱스를 아우르는 더 강력한 플랫폼을 만들지, 아니면 스페이스X의 손실·막대한 자금 수요·지배구조 리스크를 떠안아 테슬라 주주가치를 희석시킬지.",
+      "title_en": "Wall Street <em>splits</em> on Tesla-SpaceX merger — BNP skeptical, JPMorgan calls it 'coherent on paper'",
+      "hotShort_en": "Wall St <em>splits</em> on Tesla-SpaceX merger talk",
+      "body_en": "BNP Paribas turned skeptical on a Tesla-SpaceX merger, citing cash burn and regulatory risk, while JPMorgan called the combination \"strategically coherent on paper\" but flagged China exposure and multi-jurisdictional approvals as real hurdles — Wall Street's reaction is now splitting after Wedbush's Dan Ives put merger odds at 80% last week.",
+      "summary_en": "The Tesla-SpaceX merger speculation reignited last week by Wedbush's Dan Ives (80% odds) has now drawn formal analysis from major banks.\n\nBNP Paribas came out skeptical, pointing to SpaceX's heavy cash burn and regulatory risk as complicating factors for any combination.\n\nJPMorgan took a more measured view, calling the overlap across AI, robotics, energy, transportation and space \"strategically coherent on paper\" — but flagged the practical bottleneck of securing multi-jurisdictional regulatory approvals, especially given SpaceX's status as a major U.S. government/military contractor and Tesla's substantial manufacturing footprint in China, a combination that could draw national-security and supply-chain scrutiny. Governance is another sticking point: Musk controls roughly 85% of SpaceX's voting power versus about 20% of Tesla's, raising the perception this would be a SpaceX-led acquisition rather than a merger of equals.\n\nThe bigger question for Tesla investors: would a merger build a stronger AI-energy-robotics platform, or dilute shareholder value by adding SpaceX's losses, heavy spending needs, and governance risk?",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-new-car-401e238b",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barron's",
+        "CNBC"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -52,6 +77,32 @@
       "hot": 4
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-07-08T14:03:28.000Z",
+      "title": "웨이모, <em>4개 신규 도시</em>서 완전 무인 운행 확대 — 라스베이거스 오늘부터 안전요원 없이",
+      "hotShort": "웨이모 <em>4개 도시</em> 무인 확대 — 테슬라와 격차",
+      "body": "웨이모가 라스베이거스·덴버·샌디에이고·탬파 4개 도시에서 안전요원 없는 완전 무인 운행을 시작(라스베이거스는 오늘부터, 나머지는 순차 도입) — 전체 서비스 도시가 10곳을 넘어서며, 마이애미 1곳뿐인 테슬라 로보택시와의 확장 속도 격차가 부각됐다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-waymo-four-cities-driverless-2026-07-08",
+      "summary": "테슬라가 로보택시 상반기(H1) 5개 도시 목표를 기한 내 하나도 채우지 못한 가운데(6/30 보도), 경쟁사 웨이모는 오히려 확장에 속도를 내고 있다.\n\n웨이모는 7월8일, 라스베이거스에서 안전요원 없는 완전 무인 운행을 시작했다고 발표했다. 덴버·샌디에이고·탬파도 뒤이어 순차 도입될 예정이다. 처음에는 직원 대상으로 운영되다 곧 일반 승객에게 개방될 전망이다.\n\n이번 확장으로 웨이모가 완전 무인 승차를 제공하는 도시는 10곳을 넘어섰다. 웨이모는 올해 초 밸류에이션 $1260억에 $160억 규모 투자를 유치했고, 이 자금을 도시별 확장에 투입해 연말까지 주간 유료 승차 100만 건을 목표로 하고 있다 — 런던·도쿄 등 해외 진출도 예고된 상태다.\n\n테슬라는 지난 7월3~4일 마이애미에서 안전요원 없는 로보택시 운행을 시작했지만 아직 단일 도시에 머물러 있다. 웨이모의 이번 확장은 로보택시 경쟁에서 테슬라가 따라잡아야 할 격차를 다시 한번 보여준다.",
+      "title_en": "Waymo goes <em>driverless in four more cities</em> — Las Vegas live today, no safety driver",
+      "hotShort_en": "Waymo expands <em>driverless</em> to 4 more cities",
+      "body_en": "Waymo began fully driverless robotaxi service in Las Vegas today, with Denver, San Diego and Tampa to follow — pushing its footprint past 10 cities and widening the gap with Tesla's Robotaxi, which is still confined to a single city, Miami.",
+      "summary_en": "While Tesla failed to launch Robotaxi in any of its five targeted H1 cities by its own deadline (reported June 30), rival Waymo is accelerating instead.\n\nWaymo announced on July 8 that it has started running fully driverless vehicles — no human behind the wheel — in Las Vegas, with Denver, San Diego and Tampa to follow. The rollout will initially serve employees before opening to the public.\n\nThe expansion pushes Waymo's fully driverless footprint past 10 cities. The company raised $16 billion at a $126 billion valuation earlier this year specifically to fund this city-by-city expansion, and is targeting 1 million paid rides per week by year-end, with London and Tokyo next on its international roadmap.\n\nTesla, by contrast, only began safety-driver-free Robotaxi operation in Miami on July 3-4 and remains limited to that single city — underscoring the gap Tesla still has to close in the robotaxi race.",
+      "href": "https://electrek.co/2026/07/08/waymo-driverless-las-vegas-four-new-cities/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "CNBC",
+        "Engadget"
+      ],
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1h ago",
@@ -76,6 +127,57 @@
       ],
       "sentiment": "bull",
       "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-07-08T12:26:05.000Z",
+      "title": "테슬라 중국, 6월 <em>8만9091대 판매</em> — 올해 최고 실적, 모델Y 현지 1위",
+      "hotShort": "테슬라 中 6월 <em>8.9만대 판매</em> — 올 최고 실적",
+      "body": "테슬라 중국이 6월 소매 5만2920대·수출 3만6171대, 합계 8만9091대를 판매해 올해 최대 월간 실적(전년比 약 24% 증가)을 기록 — 모델Y는 中 로컬 등록 3만8654대로 승용차 판매 1위, 美 세액공제 종료 이후 우려되던 中 수요 둔화론을 일부 잠재웠다.",
+      "sourceName": "Tesla Chan (X)",
+      "sourceLabel": "press",
+      "slug": "stock-china-june-sales-record-2026-07-08",
+      "summary": "테슬라의 2분기 실적 발표(7월22일)를 앞두고, 중국 시장의 세부 월간 데이터가 먼저 공개됐다. 중국승용차협회(CPCA) 집계에 따르면 테슬라는 국내외 판매를 합쳐 올해 들어 가장 강한 한 달을 보냈다.\n\n구체적으로 소매(내수) 5만2920대, 수출 3만6171대로 총 8만9091대 — 전년 동월 대비 약 24% 늘었고, 직전 달(5월 8만5982대)도 소폭 웃돌았다.\n\n모델별로는 모델Y가 6월 중국 로컬 등록 3만8654대를 기록하며 승용차 판매 1위 자리를 지켰다 — 치열한 가격 경쟁 속에서도 볼륨 모델의 경쟁력을 재확인한 셈이다.\n\n중국은 테슬라 전체 인도량의 상당 비중을 차지하는 핵심 시장으로, 이번 실적은 美 세액공제 종료 이후 제기됐던 수요 둔화 우려를 반박하는 사례로 해석될 수 있다. 다만 BYD 등 로컬 업체와의 가격 경쟁은 여전히 진행형이다.",
+      "title_en": "Tesla China posts <em>89,091 units sold</em> in June — best month of 2026, Model Y reclaims top spot",
+      "hotShort_en": "Tesla China's <em>best month</em> yet — 89K sold in June",
+      "body_en": "Tesla China sold 89,091 vehicles in June — 52,920 retail plus 36,171 exports, its strongest month of 2026 and up roughly 24% year-over-year, per CPCA data. The Model Y reclaimed the top spot in China's passenger-car sales with 38,654 local registrations, easing demand-slowdown fears that followed the U.S. EV tax credit's expiration.",
+      "summary_en": "Ahead of Tesla's Q2 earnings on July 22, granular China data landed first. Figures compiled by the China Passenger Car Association (CPCA) show Tesla notched its strongest month in China so far this year.\n\nThe breakdown: 52,920 retail deliveries and 36,171 exports for a combined 89,091 units — up about 24% year-over-year and topping May's 85,982.\n\nBy model, the Model Y reclaimed the top spot in China's passenger-car rankings with 38,654 local registrations in June, reaffirming the volume model's competitiveness amid brutal local price wars.\n\nChina remains a critical share of Tesla's global deliveries, and the June print pushes back on demand-slowdown fears that followed the expiration of the U.S. EV tax credit — though competition from BYD and other domestic makers is far from over.",
+      "href": "https://x.com/Tslachan/status/2074832393689809072",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "EVwire",
+        "Not a Tesla App"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "7h ago",
+      "pubDate": "2026-07-08T10:30:01.000Z",
+      "title": "레이먼드제임스, 스페이스X에 월가 최고 <em>목표주가 $800</em> 제시 — $10.5조 밸류에이션 시사",
+      "hotShort": "스페이스X 목표주가 <em>$800</em> — 월가 최고치",
+      "body": "레이먼드제임스 애널리스트가 스페이스X에 월가 최고 목표주가 $800(밸류에이션 $10.5조)을 제시 — 엔비디아(약 $4.7조)의 2배가 넘는 규모로, 현재 주가($160대) 대비 400% 넘는 상승 여력을 시사. AI·우주 인프라 융합이 근거다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-raymond-james-800-target-2026-07-08",
+      "summary": "6월 IPO 이후 3주 만에 스페이스X를 둘러싼 월가 목표주가 경쟁이 본격화됐다. 이번엔 레이먼드제임스의 브라이언 게수알레 애널리스트가 가장 공격적인 숫자를 내놨다.\n\n제시된 목표주가는 $800 — 도달 시 밸류에이션은 약 $10.5조에 달해, 현재 세계 최고 시총 기업인 엔비디아(약 $4.7조)를 두 배 이상 웃돈다. 이는 지난주 모건스탠리 등이 제시한 $300선의 초기 커버리지보다 훨씬 높은 수준이다.\n\n게수알레는 우주 상업화와 AI 인프라 수요의 결합을 \"인터넷 등장 이후 가장 큰 인프라 융합\"으로 표현하며 강세론의 근거로 들었다. 스페이스X는 6월12일 주당 $135(밸류에이션 약 $1.75조)로 상장했고, 7월7일 기준 $160.42에 거래됐다.\n\n테슬라 주주 입장에서도 의미가 있다 — 최근 부상한 테슬라·스페이스X 합병설(아이브스 80% 확률 언급)이 현실화될 경우, 스페이스X의 밸류에이션 전망치가 합병 조건 협상의 기준점이 될 수 있기 때문이다.",
+      "title_en": "Raymond James sets Wall Street's <em>highest SpaceX target</em> at $800 — implying a $10.5T valuation",
+      "hotShort_en": "SpaceX target hits <em>$800</em> — Street's highest yet",
+      "body_en": "Raymond James analyst Brian Gesuale set Wall Street's highest SpaceX price target at $800, implying a roughly $10.5 trillion valuation — more than double Nvidia's (~$4.7T) and over 400% above SpaceX's current ~$160 share price. The call rests on AI and space-infrastructure convergence.",
+      "summary_en": "Three weeks after its June IPO, SpaceX has become the center of an escalating Wall Street price-target contest — and Raymond James just set the most aggressive number yet.\n\nThe $800 target implies a roughly $10.5 trillion valuation if reached — more than double Nvidia's (~$4.7 trillion), the world's most valuable public company today, and well above the ~$300 initial coverage from banks like Morgan Stanley last week.\n\nAnalyst Brian Gesuale called the combination of space commercialization and AI infrastructure demand \"the most significant infrastructure convergence since the advent of the Internet.\" SpaceX priced its IPO at $135 (~$1.75T valuation) on June 12 and traded at $160.42 as of July 7.\n\nFor Tesla shareholders, the number matters too: if the widely-discussed Tesla-SpaceX merger (Dan Ives put the odds at 80%) moves forward, SpaceX's valuation trajectory could become a key reference point in negotiating merger terms.",
+      "href": "https://www.bloomberg.com/news/newsletters/2026-07-08/spacex-stock-price-target-raised-to-800-as-ai-drives-10-5-trillion-valuation",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "Motley Fool",
+        "TheNextWeb"
+      ],
+      "sentiment": "bull",
+      "hot": 6
     },
     {
       "category": "product",
