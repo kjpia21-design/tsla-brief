@@ -1,6 +1,82 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "12m ago",
+      "pubDate": "2026-07-08T14:16:26.000Z",
+      "title": "테슬라, 오스틴 인근 68.3만 sqft 산업용 건물 신규 임대 — 머스크의 <em>텍사스 부동산 확장</em> 계속",
+      "hotShort": "테슬라, 오스틴에 <em>68만 sqft 건물 추가 임대</em>",
+      "body": "테슬라가 텍사스 오스틴 힐스 커머스 센터에 68만3천 sqft 규모의 신축 산업용 건물을 새로 임대했다 — 정확한 용도는 공개되지 않았지만, 기가텍사스 인근에서 물류·부품·서비스 등 지원 인프라를 계속 늘려가는 일론 머스크의 텍사스 부동산 확장 흐름의 일환이다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "musk-tesla-austin-building-lease-2026-07-08",
+      "summary": "부동산 전문매체 The Real Deal과 Electrek에 따르면, 테슬라가 오스틴 힐스 커머스 센터에 위치한 68만3천 sqft 규모의 신축 예정 산업용 건물을 임대 계약했다. 이 건물은 Sansone Group과 Principal Asset Management가 개발 중이며 2027년 1월 완공 예정이다.\n\n테슬라는 현재 기가텍사스에서 모델Y·사이버트럭을 생산하고, 오스틴을 거점으로 로보택시 서비스도 확장하고 있다 — 이번에 임대한 건물이 차량 물류, 부품 보관, 서비스 운영, 혹은 에너지 제품 관련 용도로 쓰일 가능성이 거론되지만, 테슬라 측은 구체적 용도를 밝히지 않았다.\n\n이번 계약으로 머스크가 오스틴 일대에서 임대 중인 부지는 총 220만 sqft에 달하고, 직접 소유·건설한 부지까지 합치면 1,000만 sqft를 넘는다 — 테슬라뿐 아니라 스페이스X·xAI 등 머스크 계열사 전반의 텍사스 확장이 계속되고 있음을 보여준다.",
+      "title_en": "Tesla leases <em>683,000 sq ft</em> Austin building in Musk's Texas real estate sweep",
+      "hotShort_en": "Tesla leases <em>683,000 sq ft</em> Austin building",
+      "body_en": "Tesla has leased a 683,000-square-foot speculative industrial building in the Austin Hills Commerce Center — the exact use hasn't been disclosed, but it's part of Elon Musk's continued expansion of Central Texas real estate supporting operations around Giga Texas.",
+      "summary_en": "According to The Real Deal and Electrek, Tesla has signed a lease for a 683,000-square-foot industrial building under construction in the Austin Hills Commerce Center, developed by Sansone Group and Principal Asset Management, with completion expected in January 2027.\n\nTesla currently builds the Model Y and Cybertruck at Giga Texas and is expanding its Robotaxi service out of Austin — the newly leased space could support vehicle logistics, parts storage, service operations, or energy products, though Tesla hasn't confirmed the intended use.\n\nWith this lease, Musk now controls roughly 2.2 million square feet of leased space around Austin, plus more than 10 million square feet he owns and has built — underscoring the continued Texas expansion across Musk's companies, including Tesla, SpaceX and xAI.",
+      "href": "https://electrek.co/2026/07/08/tesla-leases-683000-sqft-austin-industrial-building/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "The Real Deal"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "20m ago",
+      "pubDate": "2026-07-08T14:08:22.000Z",
+      "title": "테슬라 AI 총괄 엘루스와미 \"FSD <em>자연어 명령 기능 개발 중</em>\" — 목적지 세부 지시 가능해질 듯",
+      "hotShort": "테슬라 AI 총괄 \"FSD <em>자연어 명령 개발 중</em>\"",
+      "body": "테슬라 AI 소프트웨어 부문 부사장 아쇽 엘루스와미가 \"흰 차 뒤에 주차해줘\"처럼 자연어로 FSD에 세부 지시를 내리는 기능을 개발 중이라고 X에서 확인했다 — 출시 시점은 미정이지만, 목적지 도착 후 정밀 주차·정차 위치를 음성으로 지정하는 차세대 UX 방향을 시사한다.",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "fsd-natural-language-prompt-elluswamy-2026-07-08",
+      "summary": "한 X 이용자가 FSD가 목적지 부근 특정 진입로·주차 위치까지 알아서 찾아갈 수 있다면 \"동네 주행에서 두 배는 유용해질 것\"이라고 언급하자, 테슬라 AI 소프트웨어 부문 부사장 아쇽 엘루스와미가 \"작업 중(Working on it)\"이라고 답하며 관련 기능 개발을 공식 확인했다.\n\n목표는 \"흰 차 뒤에 주차해줘\", \"저 우편함 앞에 세워줘\"처럼 자연어 지시를 FSD가 이해하고 그대로 실행하는 것 — 목적지 도착 후 마지막 몇 미터의 정밀 제어를 음성으로 다루는 기능이다. 로보택시 승하차 지점 지정, 개인 차량의 주차 편의성 모두에 적용될 수 있는 방향이다.\n\n다만 아직 초기 개발 단계로, 정식 출시일이나 로드맵은 공개되지 않았다. 자연어 명령이 실시간 주행 판단에 관여하는 만큼, 정식 배포 전 안전 검증에 시간이 걸릴 것으로 보인다.",
+      "title_en": "Tesla AI VP Elluswamy: <em>\"working on\" natural-language FSD commands</em>",
+      "hotShort_en": "Tesla's Elluswamy: <em>FSD natural-language commands in the works</em>",
+      "body_en": "Tesla VP of AI Software Ashok Elluswamy confirmed on X that the team is actively developing natural-language prompts for FSD — letting drivers say things like \"park behind the white car\" — with no launch timeline yet, but pointing toward voice-driven precision control for the final stretch of a drive.",
+      "summary_en": "After an X user suggested FSD would be \"twice as useful in neighborhoods\" if it could navigate to a specific driveway or parking spot on its own, Tesla VP of AI Software Ashok Elluswamy replied \"Working on it,\" confirming the team is actively developing the feature.\n\nThe goal is for FSD to understand and execute natural-language instructions like \"park behind the white car\" or \"pull up to that mailbox\" — precision control over the last few meters after reaching a destination, applicable to both personal-vehicle parking and Robotaxi pickup/drop-off points.\n\nThe feature is still in early development, with no confirmed launch date or roadmap. Because natural-language commands would factor into real-time driving decisions, safety validation is likely to take time before any wide rollout.",
+      "href": "https://www.benzinga.com/markets/tech/26/07/60330309/tesla-fsd-could-get-smarter-neighborhood-navigation-after-ashok-elluswamy-responds-working-on-it-to-voice-command-request",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Nic Cruz Patane (X)",
+        "Benzinga"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-08T13:19:13.000Z",
+      "title": "테슬라, 가정용 에너지 앱 '테슬라 홈' 출시 — AI '옵티캐스터'가 <em>파워월 하루 수백 번 충방전 결정</em>",
+      "hotShort": "테슬라 홈 출시 — AI가 <em>전기요금 자동 최적화</em>",
+      "body": "테슬라가 파워월 소유자를 위한 신규 앱 '테슬라 홈'을 출시했다 — 내장 AI 엔진 '옵티캐스터'가 하루 수백 번 충전·방전 시점을 스스로 판단해 전기요금을 낮추고, 스마트 브레이커로 개별 회로 제어까지 지원한다. 기존 파워월 오너는 별도 하드웨어 없이 바로 이용 가능해, 테슬라 에너지 사업의 소비자 접점을 넓히는 신호다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-tesla-home-opticaster-launch-2026-07-08",
+      "summary": "테슬라가 8일(현지시간) 가정용 에너지 관리 플랫폼 '테슬라 홈'을 공식 출시했다. 핵심은 모든 파워월에 이미 탑재된 AI 엔진 '옵티캐스터'로, 태양광 발전량과 날씨 예보, 가정의 전력 사용 패턴을 예측해 하루 수백 차례 충전·방전 전략을 자동 수립한다.\n\n이번 업데이트로 앱에 스마트 브레이커 연동 기능이 추가돼, 오너가 개별 회로 단위로 정전 시 우선 가동할 부하를 직접 정할 수 있게 됐다. 시스템이 지금 무엇을 왜 하고 있는지 요약해주는 'Home Status' 기능도 새로 붙었다.\n\n다만 옵티캐스터 자체는 완전히 새로운 기술은 아니다 — 테슬라는 수년간 파워월 현장에서 이 AI로 배터리를 최적화해왔고, '테슬라 홈'은 그 기술을 소비자 친화적 이름과 인터페이스로 재포장한 성격이 크다. 그럼에도 기존 파워월 오너는 추가 하드웨어 없이 바로 이용할 수 있어, 에너지 사업 부문의 소비자 인터페이스를 강화하려는 의도로 읽힌다.",
+      "title_en": "Tesla launches 'Tesla Home' app — AI 'Opticaster' <em>makes hundreds of battery calls a day</em>",
+      "hotShort_en": "Tesla Home launches — AI <em>automates your power bill</em>",
+      "body_en": "Tesla has launched 'Tesla Home,' a new app for Powerwall owners — its built-in AI engine, Opticaster, makes hundreds of charge/discharge decisions a day to lower electricity bills, and now adds smart-breaker control over individual circuits. Existing Powerwall owners can use it with no extra hardware, extending Tesla Energy's reach into the consumer app layer.",
+      "summary_en": "Tesla officially launched Tesla Home, a home energy management platform, on July 8. At its core is Opticaster, an AI engine already running on every Powerwall, which forecasts solar production, weather and household usage patterns to build an automatic charge/discharge strategy — making hundreds of decisions a day.\n\nThe update adds smart-breaker integration to the app, letting owners decide which individual circuits get priority power during an outage, plus a new 'Home Status' feature that summarizes what the system is doing and why.\n\nOpticaster itself isn't entirely new technology — Tesla has been optimizing Powerwall batteries with this AI in the field for years, and Tesla Home is largely a consumer-facing rebrand and interface wrapped around it. Still, existing Powerwall owners can use it immediately with no added hardware, signaling Tesla's push to strengthen the consumer-facing side of its energy business.",
+      "href": "https://electrek.co/2026/07/08/tesla-home-opticaster-ai-energy-platform/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Drive Tesla Canada",
+        "Not a Tesla App"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "5m ago",
@@ -116,34 +192,7 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-07/ex-tesla-scientist-unveils-plans-for-european-humanoid-robot",
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "45m ago",
-      "pubDate": "2026-07-07T07:23:28.000Z",
-      "title": "캘리포니아 신규 EV 보조금서 테슬라만 <em>혜택 제외</em>",
-      "hotShort": "캘리포니아 EV 보조금, 테슬라만 <em>혜택 제외</em>",
-      "body": "캘리포니아주가 이번 주 통과시킨 신규 전기차 보조금(신차 $3,500·중고 $1,750, 총 $1.35억 규모)이 $50,000 가격 상한을 두면서도 캘리포니아 본사 리비안·루시드는 예외로 두고, 텍사스로 본사를 옮긴 테슬라는 이 우대에서 빠졌다 — 머스크와 개빈 뉴섬 주지사 간 정치적 갈등이 배경으로 지목되지만, 테슬라 주력 모델 다수가 애초 $50,000 미만이라 실질 타격은 제한적이라는 평가도 나온다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "stock-california-ev-incentive-tesla-snub-2026-07-07",
-      "summary": "캘리포니아 주의회와 뉴섬 주지사가 서명한 이번 전기차 구매 보조금은 별도 신청 절차 없이 적용되는 방식으로 설계돼, 첫 구매자를 중심으로 신차 $3,500·중고차 $1,750을 지원한다. 전체 예산 규모는 $1.35억로 알려졌다.\n\n문제는 $50,000 가격 상한 조항이다. 캘리포니아에 본사를 둔 리비안(어바인)과 루시드(베이에어리어)는 이 상한 규정에서 예외를 인정받아, 두 회사의 상대적으로 고가인 모델도 보조금 혜택을 받을 수 있게 됐다.\n\n반면 2021년 팔로알토에서 텍사스 오스틴으로 본사를 옮긴 테슬라는 이 지역 본사 예외 조항의 대상이 아니다. 매체들은 머스크와 뉴섬 주지사 사이의 오랜 정치적 갈등이 이번 배제의 배경으로 작용했을 가능성을 지목한다.\n\n다만 실질적 타격은 제한적일 수 있다는 지적도 나온다 — 모델3·모델Y 등 테슬라 주력 모델 다수가 애초 $50,000 미만에 판매되고 있어, 가격 상한 조항 자체는 테슬라에 큰 영향을 주지 않을 가능성이 크기 때문이다. 다만 리비안·루시드가 캘리포니아 시장에서 정책적 우대까지 얻으며 경쟁 구도가 미묘하게 유리해졌다는 점은 주주들이 지켜볼 대목이다.",
-      "title_en": "California's new EV incentive <em>excludes Tesla</em>, favors Rivian and Lucid",
-      "hotShort_en": "California EV incentive <em>snubs Tesla</em>, boosts rivals",
-      "body_en": "California passed a new EV incentive this week ($3,500 for new EVs, $1,750 for used, roughly $135 million total) that caps eligible vehicle prices at $50,000 — but carves out an exemption for California-headquartered Rivian and Lucid, while Texas-based Tesla gets no such break. The snub is widely tied to the political rift between Musk and Governor Newsom, though most Tesla models already sell under $50,000, limiting the real-world sting.",
-      "summary_en": "The incentive, signed by California lawmakers and Governor Newsom, is designed to apply without a separate application process, offering $3,500 for new EVs and $1,750 for used ones to qualifying first-time buyers, with a total program size of about $135 million.\n\nThe catch is a $50,000 price cap on eligible vehicles. California-headquartered Rivian (Irvine) and Lucid (Bay Area) were granted an exemption from that cap, letting their pricier models still qualify.\n\nTesla, which moved its headquarters from Palo Alto to Austin, Texas in 2021, doesn't qualify for that in-state carve-out. Reports point to the long-running political tension between Musk and Newsom as a likely factor behind the exclusion.\n\nThe practical impact may be limited, though — most Tesla models, including the Model 3 and Model Y, already sell under $50,000, so the price cap itself shouldn't bite hard. Still, shareholders may want to watch how the in-state exemption tilts California's competitive landscape toward Rivian and Lucid.",
-      "href": "https://www.teslarati.com/california-snubs-tesla-in-its-newly-passed-ev-incentive-that-favors-rivian-and-lucid/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Teslarati",
-        "Benzinga",
-        "InsideEVs",
-        "CleanTechnica"
-      ],
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-08 06:40 UTC 자동 갱신 · 최신순"
+  "asOf": "2026-07-08 14:30 UTC 자동 갱신 · 최신순"
 }
