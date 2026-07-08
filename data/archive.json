@@ -153,6 +153,32 @@
       "hot": 5
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "10h ago",
+      "pubDate": "2026-07-08T11:00:16.000Z",
+      "title": "뉴저지 로보택시 법안, <em>라이다 의무화</em>로 테슬라 카메라온리 방식 배제 우려",
+      "hotShort": "뉴저지 법안, 테슬라 <em>카메라온리 로보택시</em> 배제 우려",
+      "body": "뉴저지주 상원 법안 S1677이 완전 무인 자율주행차에 카메라 외 라이다·레이더 등 2종 이상 추가 센서를 의무화하고 주내 5만 마일 유인감독 시험을 요구 — 통과 시 카메라만 쓰는 테슬라의 FSD·로보택시 방식이 뉴저지에서 사실상 막힐 수 있어, 주별 확장 전략에 새 규제 리스크로 부상.",
+      "sourceName": "The Verge",
+      "sourceLabel": "press",
+      "slug": "fsd-new-jersey-robotaxi-lidar-bill-2026-07-08",
+      "summary": "뉴저지주 의회에 계류 중인 로보택시 법안 S1677이 업계의 주목을 받고 있다. 이 법안은 올해 1월 13일 발의돼 5월 11일 상원 예산세출위원회에 회부됐으며, 더버지(The Verge) 보도에 따르면 올해 안에 표결에 부쳐질 전망이다.\n\n법안의 핵심은 완전 무인(운전자 없음) 자율주행 서비스를 운영하려는 업체에게 카메라뿐 아니라 라이다·레이더 등 서로 다른 방식의 센서를 최소 2종 이상 추가로 탑재하도록 요구하는 조항이다. 아울러 상업 서비스 개시 전 주 내에서 5만 마일(약 8만km) 규모의 유인감독 시험을 거치도록 명시했다.\n\n이는 카메라만으로 자율주행을 구현하는 테슬라의 'Vision-only' FSD·로보택시 전략과 정면으로 배치된다. 일론 머스크는 그동안 라이다·레이더가 불필요하고 비용만 높인다며 카메라·AI 조합을 고수해왔는데, 법안이 원안대로 통과되면 하드웨어를 바꾸지 않는 한 뉴저지에서 사실상 로보택시 서비스를 할 수 없게 된다.\n\n테슬라 측은 뉴저지 차주들에게 법안 반대 의견을 제출해달라고 요청하며 대응에 나섰다(테슬라라티 보도). 법안 찬성 측은 \"테슬라를 겨냥한 것이 아니다\"라는 입장이지만, 결과적으로 카메라온리 방식을 사실상 배제하는 효과를 낸다는 지적이 나온다.\n\n뉴저지가 이런 규정을 도입하는 첫 주(州)가 될 경우 다른 주로 확산될지도 관전 포인트다. 로보택시 사업을 여러 주로 확장 중인 테슬라에게는 주별 규제 리스크가 현실화되는 사례가 될 수 있다.",
+      "title_en": "New Jersey robotaxi bill would <em>mandate lidar</em>, threatening to shut out Tesla's camera-only approach",
+      "hotShort_en": "NJ robotaxi bill could <em>shut out Tesla</em>",
+      "body_en": "New Jersey Senate bill S1677 would require fully driverless vehicles to carry cameras plus at least two additional sensing technologies such as lidar or radar, along with 50,000 miles of in-state supervised testing before commercial service — a requirement that could effectively shut Tesla's camera-only FSD and Robotaxi out of the state unless it changes its hardware.",
+      "summary_en": "A robotaxi bill pending in the New Jersey legislature is drawing scrutiny across the industry. Introduced on January 13 and referred to the Senate Budget and Appropriations Committee on May 11, S1677 is expected to come up for a vote later this year, The Verge reported.\n\nAt its core, the bill would require any operator running fully driverless (no safety driver) service to equip vehicles with cameras plus at least two additional, distinct sensing technologies — think lidar or radar — and to complete 50,000 miles of in-state supervised testing before launching commercial driverless service.\n\nThat directly conflicts with Tesla's vision-only approach to FSD and Robotaxi. Elon Musk has long argued that lidar and radar are unnecessary and costly, betting instead on cameras plus AI. If the bill passes as written, Tesla would effectively be locked out of New Jersey robotaxi service unless it adds hardware.\n\nTesla has responded by urging New Jersey owners to submit opposition comments on the bill, according to Teslarati. Supporters say the bill isn't aimed at Tesla specifically, but critics note it would functionally exclude the camera-only approach regardless of intent.\n\nIf New Jersey becomes the first state to adopt such rules, whether other states follow will be worth watching — a real test of state-by-state regulatory risk for Tesla as it expands Robotaxi across the country.",
+      "href": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "The Verge",
+        "Benzinga",
+        "Teslarati"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "7h ago",
@@ -2368,27 +2394,7 @@
       "href": "https://www.reuters.com/business/autos-transportation/us-proposes-drop-brake-pedal-requirements-self-driving-vehicles-2026-06-25/",
       "sentiment": "bull",
       "hot": 8
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-25T10:34:35.000Z",
-      "title": "로이터 — SpaceX, 러셀 1000 지수 편입 예정 — <em>기관 의무 매수</em> 유발",
-      "hotShort": "SpaceX, 러셀 1000 <em>편입 예정</em> — 월가 대규모 거래",
-      "body": "연간 러셀 지수 리밸런싱에서 SpaceX가 러셀 1000에 편입될 예정이며 대규모 월가 거래가 예상된다고 로이터가 보도했다 — 지수 추종 기관 펀드의 의무 매수가 발생하면서 머스크 생태계의 공개 시장 자본 규모가 확대되고, 테슬라 주주에게는 머스크 포트폴리오 전반에 대한 기관 투자자 접근성이 높아지는 구조적 변화다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-russell-1000-2026-06-25",
-      "summary": "러셀 지수는 FTSE Russell이 운영하는 미국 주식 벤치마크로, 매년 6월 말 연간 리밸런싱을 실시해 시가총액 기준으로 편출입 종목을 정한다. 러셀 1000은 미국 시장에서 시가총액 상위 1,000개 종목을 포함하며, 수조 달러 규모의 지수 추종 펀드가 이 벤치마크를 추종한다. SpaceX가 이번 리밸런싱에서 러셀 1000에 편입되면, 이 펀드들은 운용 규칙에 따라 SpaceX 주식을 의무적으로 매수해야 한다.\n\n지수 편입은 해당 종목에 즉각적이고 구조적인 수급 변화를 만든다. 기존에는 직접 SpaceX 투자를 결정한 기관·개인 투자자만 매수자였다면, 지수 편입 이후에는 벤치마크를 수동 추종하는 수백 개 ETF·인덱스 펀드가 의무 매수자로 합류한다. 리밸런싱 당일 월가 거래량이 급증하는 것은 이 때문이다.\n\n테슬라 주주에게 SpaceX의 러셀 1000 편입이 갖는 의미는 복합적이다. 머스크 생태계의 공개 시장 자본 기반이 확대되는 것은 긍정적이다. 다만 SpaceX에 유입되는 기관 자금이 일부 TSLA 포지션 조정과 함께 올 수 있어 단기 자금 흐름에는 중립적이다. 중장기적으로는 머스크 생태계 전체 — 테슬라·SpaceX·xAI 등 — 에 대한 기관의 구조적 접근성이 높아지는 방향이다.",
-      "title_en": "SpaceX set to join Russell 1000 — <em>institutional buying wave</em> incoming",
-      "hotShort_en": "SpaceX joins Russell 1000 — <em>index funds must buy</em>",
-      "body_en": "SpaceX is being added to the Russell 1000 in the annual index rebalancing, with Wall Street expecting a surge in trading volume, Reuters reports — the mandated buying from index-tracking funds that follows index inclusion expands the institutional capital base of the Musk ecosystem into a major benchmark.",
-      "summary_en": "The Russell 1000 is one of the most widely tracked US equity benchmarks, and the annual FTSE Russell reconstitution — which takes place each June — determines which stocks enter and exit based on market capitalization. Trillions of dollars in assets across ETFs and index funds track the Russell 1000 as a benchmark, meaning that inclusion triggers mandatory buying by passive managers who must mirror the index's composition.\n\nSpaceX's addition to the Russell 1000 represents a structural shift in how institutional capital can access the Musk-linked asset complex. Before index inclusion, SpaceX investment required a direct decision by an active investor; after inclusion, every passive fund tracking the Russell 1000 becomes an automatic SpaceX buyer on rebalancing date. Reuters anticipates this will cause a surge in Wall Street trading volume — the standard pattern for high-profile index additions.\n\nFor Tesla shareholders, the implications are layered. The expansion of the Musk ecosystem's investable footprint in public markets is directionally positive for the ecosystem's overall visibility and institutional attention. The near-term mechanical effect — passive index funds buying SpaceX — may coincide with some portfolio rebalancing that affects adjacent holdings, but this is a transient trading dynamic. The medium-term read is that SpaceX's index inclusion raises the overall institutional accessibility of the Musk capital complex, which has historically benefited TSLA as the most liquid publicly traded Musk asset.",
-      "href": "https://www.reuters.com/business/wall-street-trading-surge-russell-1000-index-set-add-spacex-small-cap-stocks-2026-06-25/",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-08 17:55 UTC 자동 갱신 · 최신순"
+  "asOf": "2026-07-09 06:06 KST 자동 갱신 · 최신순"
 }
