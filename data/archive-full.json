@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-09 11:15 UTC · 누적 565건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-09 15:22 UTC · 누적 568건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "16m ago",
+      "pubDate": "2026-07-09T11:00:00.000Z",
+      "title": "테슬라, 3열 6인승 <em>'모델Y L'</em> 미국 출시 — 단종된 모델X 공백 메운다",
+      "hotShort": "테슬라, 3열 6인승 <em>'모델Y L'</em> 미국 출시",
+      "body": "테슬라가 3열 6인승 롱휠베이스 신형 '모델Y L'을 미국에 출시했다 — 기존 모델Y보다 약 7인치(18cm) 길며, 단종된 모델X의 공백을 메워 미국 판매 확대를 노린다.",
+      "sourceName": "Automotive News",
+      "sourceLabel": "press",
+      "slug": "product-model-y-l-us-launch-2026-07-09",
+      "summary": "모델Y L은 이미 지난해 중국에서, 올해 초 호주에서 먼저 판매된 롱휠베이스 사양으로, 이번에 미국 시장에도 상륙했다.\n\n3열 6인승 구조로 대가족이나 카풀 수요를 겨냥했으며, 지난해 단종된 대형 SUV 모델X가 남긴 공백을 실질적으로 메우는 역할을 맡을 전망이다.\n\n테슬라는 그동안 모델Y를 미국 판매의 핵심 축으로 삼아왔는데, 이번 롱휠베이스 버전 추가로 라인업을 넓혀 성장 동력을 이어가려는 전략으로 풀이된다.",
+      "title_en": "Tesla launches long-wheelbase, six-seat <em>Model Y L</em> in the US",
+      "hotShort_en": "Tesla brings 3-row <em>Model Y L</em> to the US",
+      "body_en": "Tesla has launched the six-seat, three-row Model Y L in the US — about 7 inches longer than the standard Model Y, positioned to fill the gap left by the discontinued Model X.",
+      "summary_en": "The Model Y L is a long-wheelbase variant that already went on sale in China last year and in Australia earlier this year, and has now arrived in the US market.\n\nWith three rows and six seats, it targets larger families and carpooling needs, effectively stepping in for the void left by last year's discontinuation of the Model X SUV.\n\nTesla has long treated the Model Y as the backbone of its US sales, and adding this longer-wheelbase version broadens the lineup as the company looks to sustain growth.",
+      "href": "https://www.autonews.com/tesla/an-tesla-launches-model-y-l-crossover-dominates-sales-0709/",
+      "sentiment": "neutral",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
@@ -22,6 +42,31 @@
       "hot": 5
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "11h ago",
+      "pubDate": "2026-07-09T00:37:00.000Z",
+      "title": "싱가포르 소형차 COE 낙찰가 <em>사상 최고치 9만9700달러</em> — 모델3 인기 방증",
+      "hotShort": "싱가포르 COE <em>사상 최고가</em> — 모델3 인기 여전",
+      "body": "싱가포르에서 모델3가 속한 소형차·전기차 카테고리(카테고리A) 차량 등록증(COE) 낙찰가가 지난 8일 S$12만9000(약 미화 9만9700달러)로 사상 최고치를 기록했다 — 12월 말 종료되는 전기차 보조금을 앞두고 수요가 몰린 결과로, 현지 테슬라 수요 강세를 보여준다.",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "product-singapore-coe-record-model3-2026-07-09",
+      "summary": "싱가포르는 도로 위 차량 총량을 제한하기 위해 신차 등록 시 'COE(차량 등록증)'를 별도 입찰로 사야 하는 독특한 제도를 운영한다. 이번 낙찰가는 지난 6월17일 입찰 대비 4.2% 오른 수준이다.\n\n같은 날 대형·고출력 차량이 속한 카테고리B의 COE도 6% 오른 S$13만889를 기록했는데, 두 카테고리 모두 12월31일 종료 예정인 전기차 보조금 혜택을 받기 위해 구매를 서두르는 수요가 몰린 영향으로 풀이된다.\n\n카테고리A는 현지에서 테슬라 모델3가 대표 차종으로 꼽히는 구간으로, COE 가격이 치솟았음에도 수요가 꺾이지 않았다는 점은 싱가포르 시장에서 테슬라의 인기가 여전함을 시사한다.",
+      "title_en": "Singapore's small-car COE hits <em>record $99,700</em> as Model 3 demand holds",
+      "hotShort_en": "Singapore COE hits <em>record high</em> on Model 3 demand",
+      "body_en": "The Certificate of Entitlement premium for Singapore's small-car/EV category — which Tesla's Model 3 falls under — hit a record S$129,000 (about US$99,700) on July 8, as buyers rushed to beat the Dec. 31 expiration of EV incentive rebates, a sign that Tesla demand in the city-state remains strong.",
+      "summary_en": "Singapore caps the number of cars on its roads by requiring a separate Certificate of Entitlement (COE) auctioned for every new vehicle registration. This round's result is up 4.2% from the June 17 auction.\n\nThe same day, Category B (larger, more powerful cars) COEs rose 6% to S$130,889 — both categories reflecting buyers rushing to lock in purchases before EV incentive rebates expire at the end of December.\n\nCategory A is where Tesla's Model 3 is the leading model locally, and the fact that demand held even as COE prices spiked suggests Tesla's popularity in the Singapore market remains resilient.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-08/singapore-premiums-for-small-car-permits-at-record-99-700-high",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "SCMP"
+      ],
+      "sentiment": "bull",
+      "hot": 3
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -38,6 +83,32 @@
       "body_en": "Elon Musk settled SEC charges over his delayed 2022 disclosure of a 5%+ Twitter stake — which the agency says let him save up to $150 million buying shares before the market caught on — for a $1.5 million penalty, and a federal judge approved the deal despite voicing 'significant misgivings' and 'red flags.' One of Musk's lingering legal risks is now resolved.",
       "summary_en": "U.S. District Judge Sparkle Sooknanan approved a settlement between Elon Musk and the SEC on July 8. The case stemmed from Musk's failure to disclose within the required window that he had acquired more than a 5% stake in Twitter (now X) ahead of his 2022 takeover.\n\nThe SEC argued that the delayed disclosure let Musk keep buying shares at depressed prices before the market learned of his accumulation, netting him as much as $150 million in savings. The final settlement calls for a $1.5 million penalty.\n\nSooknanan approved the deal but raised pointed questions publicly. She questioned why the SEC dropped its demand that Musk disgorge ill-gotten gains, saying it was worth revisiting \"what that says about the propriety of settling in the first place,\" and criticized the SEC's choice to settle with Musk's trust rather than Musk personally, which lets him publicly claim he was cleared of wrongdoing.\n\nThe judge had previously denied a motion to dismiss in February 2026, pressing the SEC over the gap between the $1.5 million penalty and its own estimate of up to $150 million in investor losses. With this approval, the case is formally closed — Musk has maintained the delay was inadvertent.",
       "href": "https://www.reuters.com/world/judge-approves-elon-musk-settlement-with-us-sec-over-twitter-disclosures-2026-07-08/",
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "15h ago",
+      "pubDate": "2026-07-08T20:00:00.000Z",
+      "title": "NHTSA, 무인차 <em>응급대응 방해 패턴</em> 경고 — 이달 말까지 개선안 요구",
+      "hotShort": "NHTSA, 무인 자율차 <em>응급대응 방해</em> 경고",
+      "body": "美 도로교통안전국(NHTSA)이 무인 자율주행차가 구급차·소방차 통행을 막는 '뚜렷한 패턴'을 확인했다며 업계 전체에 이달 말까지 개선안 제시를 요구했다 — 마이애미에서 안전요원 없이 로보택시를 운영 중인 테슬라도 같은 규제 테이블에 오를 전망이다.",
+      "sourceName": "NHTSA",
+      "sourceLabel": "sec",
+      "slug": "fsd-nhtsa-av-first-responder-directive-2026-07-08",
+      "summary": "NHTSA 국장 조너선 모리슨은 서한에서 무인 자율주행차가 활성 응급 현장에 진입하거나 구급차·소방차 통행을 막고, 경광등·플레어·연기·화재·라바콘 등을 제대로 인식하지 못하는 사례가 '뚜렷한 패턴'으로 확인됐다고 밝혔다.\n\n이번 서한은 특정 기업을 지목하지 않았으며, 실제 공개된 구체 사례(오스틴에서 구급차 진로를 막은 사건, 샌프란시스코 소방당국이 집계한 연간 55건의 응급대응 방해 사례 등)는 모두 웨이모 로보택시와 관련된 것이다.\n\n다만 NHTSA는 이달 말까지 무인 자율주행차 개발사들과 회의를 열어 해결책을 논의하겠다고 밝혀, 마이애미에서 이미 안전요원 없이 로보택시를 운영 중이고 오스틴 확장도 진행 중인 테슬라 역시 같은 규제 논의 테이블에 참여할 가능성이 크다.",
+      "title_en": "NHTSA warns of <em>pattern of AVs interfering</em> with first responders — fixes due by month's end",
+      "hotShort_en": "NHTSA warns driverless AVs <em>blocking first responders</em>",
+      "body_en": "The US National Highway Traffic Safety Administration says it has identified a 'clear pattern' of driverless vehicles interfering with emergency responders — blocking ambulances and fire trucks — and has given the industry until the end of July to propose fixes, scrutiny that will likely extend to Tesla's driverless robotaxi service in Miami.",
+      "summary_en": "NHTSA Administrator Jonathan Morrison wrote that autonomous vehicles have shown a 'clear pattern' of driving into active emergency scenes, blocking ambulances and fire trucks, and failing to recognize flashing lights, flares, smoke, fire, and traffic cones.\n\nThe letter did not name any specific company, and the concrete incidents cited so far — a vehicle blocking an ambulance in Austin, and San Francisco fire officials logging 55 emergency-interference incidents in a year — all involve Waymo, not Tesla.\n\nStill, NHTSA said it will hold meetings with driverless AV developers by the end of July to discuss solutions, meaning Tesla — which already runs a safety-driver-free robotaxi service in Miami and is expanding in Austin — is likely to face the same regulatory conversation.",
+      "href": "https://www.nhtsa.gov/press-releases/av-developers-automated-vehicle-that-cannot-safely-interact-first-responders-danger",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "NHTSA",
+        "TechCrunch",
+        "Benzinga"
+      ],
       "sentiment": "neutral",
       "hot": 6
     },
