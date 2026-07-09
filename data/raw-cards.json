@@ -1,49 +1,88 @@
 {
-  "asOf": "2026-07-09 15:22 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-09 18:01 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10m ago",
-      "pubDate": "2026-07-09T15:13:07.000Z",
-      "title": "Tesla Q2 Preview: Expecting Positive Results And Outlook To Remain Earthbound (TSLA)",
-      "body": "Tesla Q2 Preview: Expecting Positive Results And Outlook To Remain Earthbound (TSLA) Seeking Alpha",
-      "sourceName": "Seeking Alpha",
+      "time": "4m ago",
+      "pubDate": "2026-07-09T17:57:22.000Z",
+      "title": "Tesla Stock TSLA Reclaims $400 on UBS Upgrade as Wall Street Bets on Robotics",
+      "body": "Tesla Stock TSLA Reclaims $400 on UBS Upgrade as Wall Street Bets on Robotics FXLeaders",
+      "sourceName": "FXLeaders",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://seekingalpha.com/article/4920923-tesla-q2-preview-expecting-positive-results-and-outlook-to-remain-earthbound"
+      "href": "https://www.fxleaders.com/news/2026/07/09/tesla-stock-tsla-reclaims-400-on-ubs-upgrade-as-wall-street-bets-on-robotics/"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10m ago",
-      "pubDate": "2026-07-09T15:12:43.000Z",
-      "title": "Criminal charges woman could face after being caught asleep behind wheel of Tesla traveling at high speed",
-      "body": "Criminal charges woman could face after being caught asleep behind wheel of Tesla traveling at high speed UNILAD Tech",
-      "sourceName": "UNILAD Tech",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.uniladtech.com/vehicles/car-news/woman-could-face-criminal-charges-fell-asleep-tesla-064968-20260709"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "53m ago",
-      "pubDate": "2026-07-09T14:30:00.000Z",
-      "title": "Tesla VP Confirms Grok FSD Integration is Coming Soon",
-      "body": "Tesla VP Confirms Grok FSD Integration is Coming Soon Not a Tesla App",
+      "time": "26m ago",
+      "pubDate": "2026-07-09T17:36:00.000Z",
+      "title": "Exclusive: Tesla Cybercab Includes Dual GPS",
+      "body": "Exclusive: Tesla Cybercab Includes Dual GPS Not a Tesla App",
       "sourceName": "Not a Tesla App",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.notateslaapp.com/news/4413/tesla-ai-chief-confirms-fsd-integration-for-grok-is-coming-soon"
+      "href": "https://www.notateslaapp.com/news/4414/exclusive-tesla-cybercab-includes-dual-gps"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "26m ago",
+      "pubDate": "2026-07-09T17:35:32.000Z",
+      "title": "Elon Musk's Stubborn Insistence on Cameras Could Get Tesla's Robotaxis Banned in New Jersey",
+      "body": "Elon Musk's Stubborn Insistence on Cameras Could Get Tesla's Robotaxis Banned in New Jersey Gizmodo",
+      "sourceName": "Gizmodo",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://gizmodo.com/elon-musks-stubborn-insistence-on-cameras-could-get-teslas-robotaxis-banned-in-new-jersey-2000783613"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "29m ago",
+      "pubDate": "2026-07-09T17:33:00.000Z",
+      "title": "Zoox’s robotaxi is gaining active users. Is it catching up to Waymo?",
+      "body": "Zoox’s robotaxi is gaining active users. Is it catching up to Waymo? USA Today",
+      "sourceName": "USA Today",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.usatoday.com/story/cars/news/2026/07/09/zoox-robotaxi-service-popular-waymo-tesla/90847149007/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-09T16:45:00.000Z",
+      "title": "New bill would ban Tesla’s camera-only Robotaxi, not Waymo",
+      "body": "New bill would ban Tesla’s camera-only Robotaxi, not Waymo Electrek",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/07/09/new-jersey-bill-tesla-camera-robotaxi/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-07-09T16:24:00.000Z",
+      "title": "Tesla battery recycling efforts increased 20 percent last year",
+      "body": "A common misconception of anti-EV proponents is that the batteries used in the vehicles are detrimental to the environment and that they cause more waste than they are worth. But a look at Tesla’s battery recycling effor…",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-battery-recycling-efforts-increased-20-percent-last-year/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-09T14:13:00.000Z",
       "title": "How SpaceX Stock Can Hit $900",
       "body": "How SpaceX Stock Can Hit $900 Barron's",
@@ -56,7 +95,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-09T14:07:00.000Z",
       "title": "Don’t Buy Tesla Stock, Analyst Says, Despite ‘Immense’ Potential",
       "body": "Don’t Buy Tesla Stock, Analyst Says, Despite ‘Immense’ Potential Barron's",
@@ -67,35 +106,22 @@
       "href": "https://www.barrons.com/articles/tesla-stock-price-analyst-dont-buy-d65fe50b"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-09T13:41:00.000Z",
-      "title": "Fund Update: 526,446 TESLA (TSLA) shares added to Procyon Advisors, LLC portfolio",
-      "body": "Fund Update: 526,446 TESLA (TSLA) shares added to Procyon Advisors, LLC portfolio Quiver Quantitative",
-      "sourceName": "Quiver Quantitative",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-07-09T13:47:18.000Z",
+      "title": "SpaceX News",
+      "body": "SpaceX News Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.quiverquant.com/news/Fund+Update%3A+526%2C446+TESLA++%28TSLA%29+shares+added+to+Procyon+Advisors%2C+LLC+portfolio"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-09T13:33:00.000Z",
-      "title": "Why Tesla's \"Immense\" Opportunity In AI Will Disappoint Investors … For Now",
-      "body": "Why Tesla's \"Immense\" Opportunity In AI Will Disappoint Investors … For Now Investor's Business Daily",
-      "sourceName": "Investor's Business Daily",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.investors.com/news/tesla-robotaxi-optimus-elon-musk-ai-artificial-intelligence-robots/"
+      "href": "https://www.barrons.com/topics/SpaceX?page"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-09T12:31:48.000Z",
       "title": "Here are Thursday's biggest analyst calls: Nvidia, SpaceX, Tesla, AMD, Toast, Meta, Five Below, MP Materials & more",
       "body": "Here are Thursday's biggest analyst calls: Nvidia, SpaceX, Tesla, AMD, Toast, Meta, Five Below, MP Materials & more CNBC",
@@ -108,7 +134,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-09T11:11:00.000Z",
       "title": "Tesla Stock Has ‘Immense’ AI Potential. Why You Shouldn’t Buy It.",
       "body": "Tesla Stock Has ‘Immense’ AI Potential. Why You Shouldn’t Buy It. Barron's",
@@ -121,20 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-07-09T10:49:17.000Z",
-      "title": "SpaceX News",
-      "body": "SpaceX News Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/topics/SpaceX?page"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-09T10:46:00.000Z",
       "title": "SpaceX Stock Has Sky-High Bull Targets—How It Can Hit $900",
       "body": "SpaceX Stock Has Sky-High Bull Targets—How It Can Hit $900 Barron's",
@@ -147,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-09T09:03:25.000Z",
       "title": "Opinion | It’s a World-Class Investment. It’s a Junk Investment. What Is Going on With SpaceX?",
       "body": "Opinion | It’s a World-Class Investment. It’s a Junk Investment. What Is Going on With SpaceX? The New York Times",
@@ -160,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-09T00:37:00.000Z",
       "title": "Singapore Permit to Own Tesla Model 3 Jumps to Record High",
       "body": "Singapore Permit to Own Tesla Model 3 Jumps to Record High Bloomberg.com",
@@ -173,8 +186,8 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "18h ago",
-      "pubDate": "2026-07-08T21:47:37.000Z",
+      "time": "22h ago",
+      "pubDate": "2026-07-08T20:16:53.000Z",
       "title": "Tesla FSD is about to know your specific house and neighborhood better than any map",
       "body": "Tesla FSD is about to know your specific house and neighborhood better than any map Teslarati",
       "sourceName": "Teslarati",
@@ -182,6 +195,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-fsd-is-about-to-know-your-specific-house-and-neighborhood-better-than-any-map/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "23h ago",
+      "pubDate": "2026-07-08T18:48:35.000Z",
+      "title": "Check out Tesla's stock price (TL01-FF) in real time",
+      "body": "Check out Tesla's stock price (TL01-FF) in real time CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/quotes/TL01-FF"
     },
     {
       "category": "stock",
@@ -234,32 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/business/autos/a-trucking-startup-aims-to-challenge-tesla-now-paychecks-are-missingand-so-is-a-truck-26e082cd"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4d ago",
-      "pubDate": "2026-07-06T02:00:00.000Z",
-      "title": "A Trucking Startup Aims to Challenge Tesla. Now, Paychecks Are Missing—and So Is a Truck.",
-      "body": "A Trucking Startup Aims to Challenge Tesla. Now, Paychecks Are Missing—and So Is a Truck. WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/a-trucking-startup-aims-to-challenge-tesla-now-paychecks-are-missingand-so-is-a-truck-26e082cd"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7d ago",
-      "pubDate": "2026-07-02T22:21:35.000Z",
-      "title": "Tesla driver charged with manslaughter over crash into Texas home",
-      "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
     }
   ]
 }
