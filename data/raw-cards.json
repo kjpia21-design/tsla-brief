@@ -1,24 +1,76 @@
 {
-  "asOf": "2026-07-09 07:52 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-09 11:15 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3m ago",
-      "pubDate": "2026-07-09T07:49:38.000Z",
-      "title": "Robo Taxi Launch in Miami Sparks Discussion on Tesla’s Future and SpaceX Combination",
-      "body": "Robo Taxi Launch in Miami Sparks Discussion on Tesla’s Future and SpaceX Combination SSBCrack",
-      "sourceName": "SSBCrack",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5m ago",
+      "pubDate": "2026-07-09T11:11:00.000Z",
+      "title": "Tesla Stock Has ‘Immense’ AI Potential. Why You Shouldn’t Buy It.",
+      "body": "Tesla Stock Has ‘Immense’ AI Potential. Why You Shouldn’t Buy It. Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://news.ssbcrack.com/robo-taxi-launch-in-miami-sparks-discussion-on-teslas-future-and-spacex-combination/"
+      "href": "https://www.barrons.com/articles/tesla-stock-price-ai-buy-d65fe50b"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "16m ago",
+      "pubDate": "2026-07-09T11:00:00.000Z",
+      "title": "Tesla doubles down on Model Y for U.S. growth with launch of long-wheelbase, 3-row L variant",
+      "body": "Tesla doubles down on Model Y for U.S. growth with launch of long-wheelbase, 3-row L variant Automotive News",
+      "sourceName": "Automotive News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.autonews.com/tesla/an-tesla-launches-model-y-l-crossover-dominates-sales-0709/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "50m ago",
+      "pubDate": "2026-07-09T10:25:45.000Z",
+      "title": "Gary Black Says Tesla's Valuation Is So Stretched That Most Institutional Investors Won't Touch the Stock",
+      "body": "Gary Black Says Tesla's Valuation Is So Stretched That Most Institutional Investors Won't Touch the Stock Benzinga",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60351676/gary-black-says-teslas-valuation-is-so-stretched-that-most-institutional-investors-wont-touch-the-stock-and-fsd-isnt-helping"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "28m ago",
-      "pubDate": "2026-07-09T07:25:00.000Z",
+      "time": "2h ago",
+      "pubDate": "2026-07-09T09:03:25.000Z",
+      "title": "Opinion | It’s a World-Class Investment. It’s a Junk Investment. What Is Going on With SpaceX?",
+      "body": "Opinion | It’s a World-Class Investment. It’s a Junk Investment. What Is Going on With SpaceX? The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/2026/07/09/opinion/spacex-ipo-investment-smart-dumb-money.html"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-09T08:43:51.000Z",
+      "title": "Some Good and Bad News for Tesla Investors",
+      "body": "Some Good and Bad News for Tesla Investors The Globe and Mail",
+      "sourceName": "The Globe and Mail",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/3199166/some-good-and-bad-news-for-tesla-investors/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-09T08:26:00.000Z",
       "title": "SpaceX Stock Has Some Sky-High Bull Targets—How It Can Hit $900",
       "body": "SpaceX Stock Has Some Sky-High Bull Targets—How It Can Hit $900 Barron's",
       "sourceName": "Barron's",
@@ -28,22 +80,22 @@
       "href": "https://www.barrons.com/articles/spacex-stock-price-target-7a020bc8"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-09T06:25:47.000Z",
-      "title": "Tesla Model Y Reclaims China's Best-Selling Vehicle Title in June",
-      "body": "Tesla Model Y Reclaims China's Best-Selling Vehicle Title in June Benzinga",
-      "sourceName": "Benzinga",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-09T08:21:45.000Z",
+      "title": "Some Good and Bad News for Tesla Investors",
+      "body": "Some Good and Bad News for Tesla Investors The Motley Fool",
+      "sourceName": "The Motley Fool",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.benzinga.com/markets/asia/26/07/60349548/tesla-model-y-reclaims-chinas-best-selling-vehicle-title-in-june"
+      "href": "https://www.fool.com/investing/2026/07/09/some-good-and-bad-news-for-tesla-investors/"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-09T00:37:00.000Z",
       "title": "Singapore Permit to Own Tesla Model 3 Jumps to Record High",
       "body": "Singapore Permit to Own Tesla Model 3 Jumps to Record High Bloomberg.com",
@@ -54,23 +106,10 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-08/singapore-premiums-for-small-car-permits-at-record-99-700-high"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-07-08T21:41:48.000Z",
-      "title": "US judge approves Elon Musk settlement with SEC despite misgivings, 'red flags'",
-      "body": "US judge approves Elon Musk settlement with SEC despite misgivings, 'red flags' Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/judge-approves-elon-musk-settlement-with-us-sec-over-twitter-disclosures-2026-07-08/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
-      "pubDate": "2026-07-08T20:42:21.000Z",
+      "time": "12h ago",
+      "pubDate": "2026-07-08T23:43:57.000Z",
       "title": "Tesla FSD is about to know your specific house and neighborhood better than any map",
       "body": "Tesla FSD is about to know your specific house and neighborhood better than any map Teslarati",
       "sourceName": "Teslarati",
@@ -82,33 +121,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-07-08T20:36:00.000Z",
-      "title": "What Is SpaceX Really Worth? Wall Street Disagrees on Elon Musk’s Huge Valuation.",
-      "body": "What Is SpaceX Really Worth? Wall Street Disagrees on Elon Musk’s Huge Valuation. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-stock-price-valuation-d3059231"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-07-08T20:26:00.000Z",
-      "title": "Why a Tesla-SpaceX Merger Is No Sure Thing",
-      "body": "Why a Tesla-SpaceX Merger Is No Sure Thing Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-spacex-merger-401e238b"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
       "time": "14h ago",
+      "pubDate": "2026-07-08T21:41:48.000Z",
+      "title": "US judge approves Elon Musk settlement with SEC despite misgivings, 'red flags'",
+      "body": "US judge approves Elon Musk settlement with SEC despite misgivings, 'red flags' Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/judge-approves-elon-musk-settlement-with-us-sec-over-twitter-disclosures-2026-07-08/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "17h ago",
       "pubDate": "2026-07-08T18:12:56.000Z",
       "title": "SpaceXAI, Cursor Unveil Grok AI Model for Coding, Finance Tasks",
       "body": "SpaceXAI, Cursor Unveil Grok AI Model for Coding, Finance Tasks Bloomberg.com",
@@ -119,9 +145,22 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "18h ago",
+      "pubDate": "2026-07-08T17:42:08.000Z",
+      "title": "JPMorgan calls the possibility of a SpaceX-Tesla merger 'strategically coherent'",
+      "body": "JPMorgan calls the possibility of a SpaceX-Tesla merger 'strategically coherent' CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/08/jpmorgan-calls-the-possibility-of-a-spacex-tesla-merger-strategically-coherent-.html"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "22h ago",
       "pubDate": "2026-07-08T13:19:13.000Z",
       "title": "Tesla launches ‘Tesla Home’ with Opticaster AI to cut power bills",
       "body": "Tesla has launched Tesla Home, a home energy management platform powered by an AI engine called Opticaster that it says makes “hundreds of decisions” a day about when to store and use electricity to lower your bill. Howe…",
@@ -134,7 +173,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-08T12:17:00.000Z",
       "title": "Tesla Stock Falls. Why a New Car Will Boost Sales but Not the Shares.",
       "body": "Tesla Stock Falls. Why a New Car Will Boost Sales but Not the Shares. Barron's",
@@ -143,45 +182,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-sales-401e238b?mod"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21h ago",
-      "pubDate": "2026-07-08T11:00:16.000Z",
-      "title": "The robotaxi law that could ban Tesla",
-      "body": "The robotaxi law that could ban Tesla The Verge",
-      "sourceName": "The Verge",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21h ago",
-      "pubDate": "2026-07-08T10:39:54.000Z",
-      "title": "Tesla app update makes Robotaxi ownership make a lot more sense",
-      "body": "Tesla app update makes Robotaxi ownership make a lot more sense Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-app-update-sefl-driving-robotaxi/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-07T11:11:00.000Z",
-      "title": "Tesla Inc. Stock Grades | TSLA",
-      "body": "Tesla Inc. Stock Grades | TSLA Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/market-data/stocks/tsla/stock-grader?amp%253Biso"
     },
     {
       "category": "product",
@@ -236,6 +236,19 @@
       "href": "https://www.cnbc.com/quotes/MSFT,%20NVDA,%20NIO,%20PLTR,%20QS,%20SQ,%20SOFI,%20TSLA,%20VZ"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "6d ago",
+      "pubDate": "2026-07-03T14:59:44.000Z",
+      "title": "Tesla rolls out robotaxi service in Miami",
+      "body": "Tesla rolls out robotaxi service in Miami Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-robotaxi-service-miami-2026-07-03/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "7d ago",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-07-02/tesla-vehicle-sales-climb-25-far-exceeding-analyst-estimates"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "7d ago",
-      "pubDate": "2026-07-02T14:14:00.000Z",
-      "title": "Tesla Sales Jumped in Second Quarter",
-      "body": "Tesla Sales Jumped in Second Quarter WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/tesla-sales-jumped-in-second-quarter-c9e2f067"
     }
   ]
 }
