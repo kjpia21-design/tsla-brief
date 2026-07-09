@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-07-09T12:31:48.000Z",
+      "title": "씨티즌스, 테슬라에 '마켓퍼폼' 개시 — <em>로보택시·옵티머스 밸류에이션 너무 이르다</em> 경고",
+      "hotShort": "씨티즌스 \"로보택시·옵티머스 <em>밸류에이션 너무 일러</em>\"",
+      "body": "씨티즌스가 테슬라 커버리지를 '마켓퍼폼(중립)'으로 개시하며, 로보택시·옵티머스에 대한 시장 기대가 실제 상용화 시점보다 앞서 있다고 경고했다 — 같은 주 배런스·IBD 등도 비슷한 신중론을 내놓으며, 7월22일 2분기 실적 발표를 앞두고 AI 서사에 대한 월가의 눈높이 조정 신호로 읽힌다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "stock-citizens-market-perform-optimus-robotaxi-2026-07-09",
+      "summary": "이번 주 들어 월스트리트에서 테슬라의 AI·자율주행 스토리에 대한 신중론이 잇따르고 있다. 배런스는 'AI 잠재력은 방대하지만 사기엔 이르다'는 취지의 기사를, IBD는 '로보택시·옵티머스 기회가 당분간 투자자를 실망시킬 것'이라는 분석을 내놨고, 같은 날 씨티즌스는 테슬라에 대한 첫 커버리지를 '마켓퍼폼(중립)' 의견으로 개시했다.\n\n씨티즌스는 옵티머스·로보택시를 향한 밸류에이션 기대가 '실제 두 제품이 회사 실적에 기여하는 시점보다 너무 이른 상용화'를 전제로 하고 있다고 지적했다. 특히 로보택시에 대해서는 카메라만 쓰는 테슬라의 자율주행 방식이 라이다·레이더·슈퍼컴퓨터를 병행하는 경쟁 시스템만큼 효과적이지 않을 수 있다며, 사고가 늘어나면 서비스 중단 같은 책임 리스크로 이어질 수 있다고 경고했다.\n\n옵티머스에 대해서도 '거대한 비전이지만 실현엔 시간이 걸린다'며, 생산 복잡도가 높아지고 지연·추가 지출이 이어지는 '투자 초기 국면'으로 진단했다.\n\n이 같은 신중론은 테슬라의 2분기 실적 자체를 겨냥한 것은 아니다 — 2분기 인도량은 이미 48만126대로 컨센서스(약 40만6천대)를 크게 웃돌았다. 관건은 7월22일(현지시간) 예정된 2분기 실적 발표에서 로보택시·옵티머스 확장 로드맵에 대해 회사가 얼마나 구체적인 시점을 제시하느냐다.",
+      "title_en": "Citizens initiates Tesla at Market Perform — warns <em>Robotaxi, Optimus valuation is too early</em>",
+      "hotShort_en": "Citizens: Tesla AI <em>valuation too early</em>",
+      "body_en": "Citizens began coverage of Tesla with a Market Perform rating, warning that valuation expectations for Robotaxi and Optimus assume a commercialization timeline sooner than reality — a caution echoed this week by Barron's and IBD, and it lands just ahead of Tesla's July 22 Q2 earnings report.",
+      "summary_en": "Wall Street caution around Tesla's AI and autonomy story piled up this week. Barron's argued the stock has 'immense' AI potential but isn't a buy yet, IBD wrote that Robotaxi and Optimus opportunities will disappoint investors 'for now,' and on the same day Citizens initiated its first-ever coverage of Tesla at Market Perform (neutral).\n\nCitizens said the optimism priced into Tesla's valuation for Optimus and Robotaxi implies a launch timeline that's too near-term for both products. On Robotaxi specifically, the firm doubts Tesla's camera-only approach can match rival systems that combine lidar, radar and cameras — and expects meaningfully more incidents, which could create liability issues or force service pauses.\n\nOn Optimus, Citizens called it a 'grand vision' that will take time, describing Tesla as still in the early innings of an investment cycle marked by rising production complexity, delays, and higher spending.\n\nThe caution isn't about Tesla's underlying Q2 results — deliveries already came in at 480,126, well above the roughly 406,000 consensus. The real test is how specific Tesla gets about its Robotaxi and Optimus roadmap when it reports Q2 earnings after the close on July 22.",
+      "href": "https://www.cnbc.com/2026/07/09/big-wall-street-analyst-calls-thursday-like-spacex.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "Investing.com"
+      ],
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "16m ago",
@@ -2376,31 +2401,6 @@
       "href": "https://www.reuters.com/business/energy/spacex-plans-build-starpipe-natural-gas-pipeline-fuel-starship-rockets-2026-06-25/",
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-06-25T17:49:36.000Z",
-      "title": "테슬라 CTO, JD파워 <em>비공식 품질 평가</em> 결과 주목 — \"구매 이유 하나 더\"",
-      "hotShort": "테슬라 CTO, JD파워 <em>비공식 품질</em> 결과 공유",
-      "body": "2026 JD파워 초기 품질 조사(IQS) 결과 미국 완성차 업계 품질이 전반적으로 향상된 가운데, 테슬라 CTO 라스 모라비가 공식 X 계정에 테슬라의 비공식 평가 결과를 언급하며 \"구매 이유가 하나 더 생겼다\"고 밝혔다 — 공식 참여를 하지 않는 테슬라가 고객 응답 데이터에서 긍정적 성적을 거뒀다는 신호로, 품질 개선 흐름의 외부 인증이다.",
-      "sourceName": "Lars Moravy (X)",
-      "sourceLabel": "official",
-      "slug": "product-jdpower-tesla-unofficial-2026-06-25",
-      "summary": "JD파워가 2026년 초기 품질 조사(IQS) 결과를 발표했다. IQS는 차량 구매 후 90일 이내 발생한 문제 건수를 100대당 기준으로 측정하는 미국 최대 소비자 품질 벤치마크로, 로이터는 올해 미국 완성차 업계의 전반적 품질이 향상됐으며 포드가 공식 부문 최고 영예를 차지했다고 보도했다.\n\n테슬라는 공식 참여사에서 제외된다 — 테슬라가 딜러 네트워크 없이 소비자에게 직접 판매하는 구조로 인해 JD파워에 공식 조사 접근권을 부여하지 않기 때문이다. 그러나 테슬라 고객이 자발적으로 설문에 응하는 방식으로 비공식 데이터가 집계되며, 테슬라는 주석 처리되는 방식으로 업계 맥락에서 언급된다.\n\n이번 결과에서 테슬라 CTO 라스 모라비가 공식 X 계정에 JD파워 수치를 인용하며 구매 추천 이유로 제시했다는 점이 주목된다. 임원이 공식 채널을 통해 JD파워 비공식 결과를 긍정적 영업 메시지로 활용한다는 것은 내부 품질 자신감을 시사한다.\n\n테슬라는 전통적으로 소프트웨어·통신 관련 초기 품질 불만이 많다는 평가를 받아왔다. 비공식 데이터에서도 긍정적 신호가 나온다면, 모델 3·Y의 품질 개선이 외부 소비자 인식에서도 확인되는 것으로, 브랜드 신뢰도 제고에 기여할 수 있다.",
-      "title_en": "Tesla CTO highlights <em>unofficial JD Power quality</em> result as buying reason",
-      "hotShort_en": "Tesla CTO touts <em>JD Power quality</em> ranking",
-      "body_en": "Tesla CTO Lars Moravy highlighted the company's unofficial showing in J.D. Power's 2026 Initial Quality Study as a reason to buy a Tesla — the 2026 IQS showed US automotive quality improving industrywide with Ford taking top official honors, while Moravy's tweet signals that Tesla performed positively in the informal consumer data despite not officially participating in the study.",
-      "summary_en": "J.D. Power released its 2026 Initial Quality Study (IQS), the leading annual benchmark measuring vehicle problems per 100 cars in the first 90 days of ownership. Reuters reported that industrywide automotive quality improved year-over-year, with Ford taking top official honors among participating manufacturers.\n\nTesla does not officially participate in J.D. Power's IQS because the company sells directly to consumers rather than through franchised dealerships, and has not granted J.D. Power formal survey access. As a result, Tesla's results are tallied from consumer-submitted responses rather than the manufacturer-facilitated process used for official rankings — placing Tesla's figures in an unofficial category within the published data.\n\nTesla CTO Lars Moravy took to X to highlight the company's unofficial IQS performance as a selling point, framing the J.D. Power data as another reason to recommend Tesla to friends. The willingness of a senior executive to proactively reference the study signals that the informal numbers are favorable enough to use in consumer-facing messaging — a meaningful shift given Tesla's historically mixed J.D. Power profile, which has reflected above-average software and connectivity complaints in earlier years.\n\nFor Tesla investors and analysts tracking brand perception and quality momentum, CTO-level promotion of third-party quality data indicates internal confidence that the quality narrative is improving. As Tesla's target customer profile broadens beyond early adopters toward mainstream buyers who rely on traditional quality benchmarks, favorable J.D. Power data — even unofficial — becomes an increasingly relevant competitive differentiator.",
-      "href": "https://x.com/larsmoravy/status/2070202763905282405",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Lars Moravy (X)",
-        "Reuters"
-      ],
-      "sentiment": "bull",
-      "hot": 5
     }
   ],
   "asOf": "2026-07-09 08:15 KST 자동 갱신 · 최신순"
