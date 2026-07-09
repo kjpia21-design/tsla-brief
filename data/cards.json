@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-09T19:54:52.000Z",
+      "title": "테슬라 마이애미 로보택시, <em>출시 첫날부터 안전요원 없이 무인 운행</em> 확인",
+      "hotShort": "마이애미 로보택시 <em>출시 첫날부터 완전 무인</em>",
+      "body": "테슬라 AI 총괄 아쇽 엘루스와미가 마이애미 로보택시 차량에 세이프티 모니터도, 운전석의 사람도 전혀 없다고 직접 확인했다 — 오스틴·댈러스·휴스턴·베이에어리어는 안전요원 동승 단계를 수개월 거친 뒤 무인 전환했지만, 마이애미는 7월3일 서비스 개시와 동시에 그 단계를 건너뛴 첫 사례로 FSD에 대한 테슬라의 자신감이 한 단계 올라간 신호로 읽힌다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-miami-robotaxi-unsupervised-day-one-2026-07-09",
+      "summary": "마이애미 로보택시를 둘러싼 관심은 그동안 '텍사스·캘리포니아 밖 첫 확장'이라는 지리적 의미에 쏠려 있었지만, 이번엔 운영 방식 자체에서 더 중요한 사실이 확인됐다.\n\n테슬라 AI 소프트웨어 담당 부사장 아쇽 엘루스와미는 소셜미디어에서 마이애미 차량이 조수석 세이프티 모니터는 물론 운전석에도 사람이 전혀 없는 상태로 운행 중이라고 직접 확인했다. 마이애미는 7월3일 로보택시 서비스를 시작했다.\n\n이는 테슬라의 기존 확장 패턴과 다르다. 2025년 6월 오스틴에서 상업 서비스를 시작했을 때는 수개월간 모든 차량에 세이프티 모니터가 동승했고, 4월 출시한 댈러스·휴스턴, 샌프란시스코 베이에어리어도 비슷하게 단계적으로 무인 전환을 거쳤다. 마이애미는 그 과정을 통째로 생략하고 첫날부터 완전 무인으로 운행을 시작한 첫 신규 도시다.\n\n테슬라는 이를 1년 넘게 쌓은 실주행 데이터를 바탕으로 FSD 소프트웨어에 대한 자신감이 커졌다는 신호로 내세우고 있다. 다만 신규 도시에서 안전요원 단계를 아예 건너뛴 전례가 없었던 만큼, 향후 사고·규제 대응 시 테슬라가 그만큼 더 큰 책임 부담을 질 수 있다는 지적도 나온다.",
+      "title_en": "Tesla confirms Miami Robotaxi ran <em>driverless from day one</em>, skipping the safety-monitor phase",
+      "hotShort_en": "Miami Robotaxi <em>driverless since launch day</em>",
+      "body_en": "Tesla's VP of AI software Ashok Elluswamy confirmed Miami Robotaxi vehicles are running with no safety monitor and no human in the driver's seat at all — unlike Austin, Dallas, Houston and the Bay Area, which each spent months with safety monitors before going driverless, Miami skipped that phase entirely from its July 3 launch, a sign of Tesla's growing confidence in FSD.",
+      "summary_en": "Attention on Miami Robotaxi has mostly focused on its geography — the first expansion outside Texas and California — but this time, a more important operational fact has come to light.\n\nTesla VP of AI Software Ashok Elluswamy confirmed on social media that Miami vehicles are running with no safety monitor in the passenger seat and no human in the driver's seat at all. Miami's Robotaxi service launched on July 3.\n\nThat breaks from Tesla's earlier rollout pattern. When commercial service began in Austin in June 2025, every vehicle carried a safety monitor for months before going driverless; Dallas and Houston, launched in April, and the San Francisco Bay Area followed similarly phased transitions. Miami is the first new city where Tesla skipped that phase entirely and launched fully driverless from day one.\n\nTesla is framing this as a sign of growing confidence in FSD software built on more than a year of real-world driving data. But with no precedent for skipping the safety-monitor phase in a brand-new city, some note Tesla is also taking on greater liability exposure if incidents or regulatory scrutiny follow.",
+      "href": "https://www.teslarati.com/tesla-confirms-crucial-detail-miami-robotaxi-launch/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Teslarati",
+        "Drive Tesla Canada",
+        "The Next Web"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "4m ago",
@@ -45,26 +71,6 @@
       "href": "https://www.notateslaapp.com/news/4414/exclusive-tesla-cybercab-includes-dual-gps",
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-07-09T16:24:00.000Z",
-      "title": "테슬라, 작년 배터리 재활용량 <em>20% 증가</em> — 2025 임팩트 리포트",
-      "hotShort": "테슬라 배터리 재활용량 작년 <em>20% 증가</em>",
-      "body": "테슬라의 2025 임팩트 리포트에 따르면 지난해 배터리 재활용량이 전년 대비 <em>20% 증가</em>해 1만4000톤을 넘어섰다 — 기가팩토리 자체 처리와 외부 협력사를 합친 수치로, 배터리가 EV 폐기물을 키운다는 반EV 진영의 통념을 정면으로 반박하는 지표다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-battery-recycling-20pct-2026-07-09",
-      "summary": "EV 반대론자들이 자주 내세우는 주장 중 하나는 '전기차 배터리가 오히려 더 많은 폐기물을 만든다'는 것이다. 테슬라가 최근 공개한 2025 임팩트 리포트 수치는 이 주장과 정반대 방향을 가리킨다.\n\n리포트에 따르면 테슬라는 지난해 1만4000톤 이상의 배터리 소재를 재활용했다 — 전년 대비 20% 증가한 수치다. 이는 기가팩토리 내 자체 재활용 공정과 외부 재활용 협력사와의 협업을 합친 결과다.\n\n회수된 소재량은 롱레인지 배터리팩 약 4만6000개를 만들 수 있는 규모에 해당한다. 재활용량 증가는 테슬라 글로벌 차량 대수가 계속 늘고, 수명이 다한 배터리와 제조 과정에서 나오는 스크랩이 함께 늘어난 결과로 풀이된다.",
-      "title_en": "Tesla's battery recycling volume <em>up 20%</em> last year, 2025 Impact Report shows",
-      "hotShort_en": "Tesla battery recycling <em>up 20%</em> last year",
-      "body_en": "Tesla's 2025 Impact Report shows battery recycling volume <em>rose 20%</em> year-over-year to more than 14,000 metric tons — combining in-house processing at Gigafactories with third-party recycling partners, a data point Tesla is using to push back on the anti-EV claim that batteries create more waste than they're worth.",
-      "summary_en": "One recurring anti-EV talking point is that EV batteries create more waste than they're worth. Tesla's newly released 2025 Impact Report figures point the other way.\n\nThe report shows Tesla recycled more than 14,000 metric tons of battery material last year, up 20% from the year before — combining in-house recycling at its Gigafactories with partnerships with third-party recyclers.\n\nThat recovered material is roughly enough to build 46,000 long-range battery packs. The increase in volume reflects both a growing global vehicle fleet and a rising pool of end-of-life batteries and manufacturing scrap available for processing.",
-      "href": "https://www.teslarati.com/tesla-battery-recycling-efforts-increased-20-percent-last-year/",
-      "sentiment": "bull",
-      "hot": 3
     },
     {
       "category": "stock",
@@ -178,5 +184,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-10 03:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-10 06:20 KST 자동 갱신 · 최신순"
 }
