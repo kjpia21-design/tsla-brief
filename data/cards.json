@@ -4,6 +4,26 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
+      "pubDate": "2026-07-08T21:36:59.000Z",
+      "title": "머스크, 트위터 지분공시 지연 관련 SEC와 합의 — 연방판사 <em>'레드플래그' 우려 속 승인</em>",
+      "hotShort": "머스크-SEC 합의, 판사 <em>'레드플래그' 우려에도 승인</em>",
+      "body": "머스크가 2022년 트위터 지분 5% 취득 공시를 지연해 최대 1억5000만달러의 매수 차익을 봤다는 SEC 혐의에 벌금 150만달러로 합의했고, 연방판사가 '심각한 우려'와 '레드플래그'를 지적하면서도 이를 승인 — 머스크를 둘러싼 남은 법적 리스크 하나가 정리됐다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-sec-settlement-twitter-disclosure-2026-07-08",
+      "summary": "미 연방법원 스파클 수크난 판사가 7월8일, 일론 머스크와 증권거래위원회(SEC) 간의 합의안을 승인했다. 사건의 발단은 머스크가 2022년 트위터(현 X) 인수를 앞두고 5% 이상 지분을 확보한 사실을 공시 기한 내에 밝히지 않았다는 혐의다.\n\nSEC는 머스크가 공시를 늦추는 사이 시장이 그의 매집 사실을 모른 채 낮은 가격에 주식을 계속 사들일 수 있었고, 그 결과 최대 1억5000만달러의 이득을 봤다고 주장했다. 최종 합의 조건은 벌금 150만달러.\n\n수크난 판사는 합의를 승인하면서도 공개적으로 여러 의문을 제기했다. SEC가 왜 부당이득 환수(디스고지먼트) 요구를 철회했는지 물으며 \"그것이 애초에 합의 자체의 타당성에 어떤 의미를 갖는지 되짚어봐야 한다\"고 지적했고, SEC가 머스크 본인이 아닌 그의 신탁(trust)과 합의해 머스크가 공개적으로 \"혐의를 벗었다\"고 주장할 여지를 준 점도 문제 삼았다.\n\n이 판사는 앞서 올해 2월 기각 신청을 기각하면서, 벌금 150만달러와 SEC 자체가 추산한 최대 1억5000만달러의 투자자 손실 사이 간극에 대해 날카로운 질문을 던진 바 있다. 이번 승인으로 소송은 공식 종결됐다 — 머스크 측은 공시 지연이 고의가 아니었다는 입장을 유지해왔다.",
+      "title_en": "Musk-SEC settlement over delayed Twitter stake disclosure <em>approved despite judge's 'red flags'</em>",
+      "hotShort_en": "Musk-SEC deal <em>approved despite 'red flags'</em>",
+      "body_en": "Elon Musk settled SEC charges over his delayed 2022 disclosure of a 5%+ Twitter stake — which the agency says let him save up to $150 million buying shares before the market caught on — for a $1.5 million penalty, and a federal judge approved the deal despite voicing 'significant misgivings' and 'red flags.' One of Musk's lingering legal risks is now resolved.",
+      "summary_en": "U.S. District Judge Sparkle Sooknanan approved a settlement between Elon Musk and the SEC on July 8. The case stemmed from Musk's failure to disclose within the required window that he had acquired more than a 5% stake in Twitter (now X) ahead of his 2022 takeover.\n\nThe SEC argued that the delayed disclosure let Musk keep buying shares at depressed prices before the market learned of his accumulation, netting him as much as $150 million in savings. The final settlement calls for a $1.5 million penalty.\n\nSooknanan approved the deal but raised pointed questions publicly. She questioned why the SEC dropped its demand that Musk disgorge ill-gotten gains, saying it was worth revisiting \"what that says about the propriety of settling in the first place,\" and criticized the SEC's choice to settle with Musk's trust rather than Musk personally, which lets him publicly claim he was cleared of wrongdoing.\n\nThe judge had previously denied a motion to dismiss in February 2026, pressing the SEC over the gap between the $1.5 million penalty and its own estimate of up to $150 million in investor losses. With this approval, the case is formally closed — Musk has maintained the delay was inadvertent.",
+      "href": "https://www.reuters.com/world/judge-approves-elon-musk-settlement-with-us-sec-over-twitter-disclosures-2026-07-08/",
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "8h ago",
       "pubDate": "2026-07-08T15:15:00.000Z",
       "title": "월가, 테슬라·스페이스X 합병설에 <em>엇갈린 반응</em> — BNP \"회의적\" vs JP모건 \"이론상 타당\"",
       "hotShort": "합병설에 월가 <em>반응 갈려</em> — BNP 회의 vs JPM 긍정",
@@ -26,31 +46,6 @@
       "hot": 6
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12m ago",
-      "pubDate": "2026-07-08T14:16:26.000Z",
-      "title": "테슬라, 오스틴 인근 68.3만 sqft 산업용 건물 신규 임대 — 머스크의 <em>텍사스 부동산 확장</em> 계속",
-      "hotShort": "테슬라, 오스틴에 <em>68만 sqft 건물 추가 임대</em>",
-      "body": "테슬라가 텍사스 오스틴 힐스 커머스 센터에 68만3천 sqft 규모의 신축 산업용 건물을 새로 임대했다 — 정확한 용도는 공개되지 않았지만, 기가텍사스 인근에서 물류·부품·서비스 등 지원 인프라를 계속 늘려가는 일론 머스크의 텍사스 부동산 확장 흐름의 일환이다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "musk-tesla-austin-building-lease-2026-07-08",
-      "summary": "부동산 전문매체 The Real Deal과 Electrek에 따르면, 테슬라가 오스틴 힐스 커머스 센터에 위치한 68만3천 sqft 규모의 신축 예정 산업용 건물을 임대 계약했다. 이 건물은 Sansone Group과 Principal Asset Management가 개발 중이며 2027년 1월 완공 예정이다.\n\n테슬라는 현재 기가텍사스에서 모델Y·사이버트럭을 생산하고, 오스틴을 거점으로 로보택시 서비스도 확장하고 있다 — 이번에 임대한 건물이 차량 물류, 부품 보관, 서비스 운영, 혹은 에너지 제품 관련 용도로 쓰일 가능성이 거론되지만, 테슬라 측은 구체적 용도를 밝히지 않았다.\n\n이번 계약으로 머스크가 오스틴 일대에서 임대 중인 부지는 총 220만 sqft에 달하고, 직접 소유·건설한 부지까지 합치면 1,000만 sqft를 넘는다 — 테슬라뿐 아니라 스페이스X·xAI 등 머스크 계열사 전반의 텍사스 확장이 계속되고 있음을 보여준다.",
-      "title_en": "Tesla leases <em>683,000 sq ft</em> Austin building in Musk's Texas real estate sweep",
-      "hotShort_en": "Tesla leases <em>683,000 sq ft</em> Austin building",
-      "body_en": "Tesla has leased a 683,000-square-foot speculative industrial building in the Austin Hills Commerce Center — the exact use hasn't been disclosed, but it's part of Elon Musk's continued expansion of Central Texas real estate supporting operations around Giga Texas.",
-      "summary_en": "According to The Real Deal and Electrek, Tesla has signed a lease for a 683,000-square-foot industrial building under construction in the Austin Hills Commerce Center, developed by Sansone Group and Principal Asset Management, with completion expected in January 2027.\n\nTesla currently builds the Model Y and Cybertruck at Giga Texas and is expanding its Robotaxi service out of Austin — the newly leased space could support vehicle logistics, parts storage, service operations, or energy products, though Tesla hasn't confirmed the intended use.\n\nWith this lease, Musk now controls roughly 2.2 million square feet of leased space around Austin, plus more than 10 million square feet he owns and has built — underscoring the continued Texas expansion across Musk's companies, including Tesla, SpaceX and xAI.",
-      "href": "https://electrek.co/2026/07/08/tesla-leases-683000-sqft-austin-industrial-building/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "The Real Deal"
-      ],
-      "sentiment": "neutral",
-      "hot": 3
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "20m ago",
@@ -61,16 +56,17 @@
       "sourceName": "Benzinga",
       "sourceLabel": "press",
       "slug": "fsd-natural-language-prompt-elluswamy-2026-07-08",
-      "summary": "한 X 이용자가 FSD가 목적지 부근 특정 진입로·주차 위치까지 알아서 찾아갈 수 있다면 \"동네 주행에서 두 배는 유용해질 것\"이라고 언급하자, 테슬라 AI 소프트웨어 부문 부사장 아쇽 엘루스와미가 \"작업 중(Working on it)\"이라고 답하며 관련 기능 개발을 공식 확인했다.\n\n목표는 \"흰 차 뒤에 주차해줘\", \"저 우편함 앞에 세워줘\"처럼 자연어 지시를 FSD가 이해하고 그대로 실행하는 것 — 목적지 도착 후 마지막 몇 미터의 정밀 제어를 음성으로 다루는 기능이다. 로보택시 승하차 지점 지정, 개인 차량의 주차 편의성 모두에 적용될 수 있는 방향이다.\n\n다만 아직 초기 개발 단계로, 정식 출시일이나 로드맵은 공개되지 않았다. 자연어 명령이 실시간 주행 판단에 관여하는 만큼, 정식 배포 전 안전 검증에 시간이 걸릴 것으로 보인다.",
+      "summary": "한 X 이용자가 FSD가 목적지 부근 특정 진입로·주차 위치까지 알아서 찾아갈 수 있다면 \"동네 주행에서 두 배는 유용해질 것\"이라고 언급하자, 테슬라 AI 소프트웨어 부문 부사장 아쇽 엘루스와미가 \"작업 중(Working on it)\"이라고 답하며 관련 기능 개발을 공식 확인했다.\n\n목표는 \"흰 차 뒤에 주차해줘\", \"저 우편함 앞에 세워줘\"처럼 자연어 지시를 FSD가 이해하고 그대로 실행하는 것 — 목적지 도착 후 마지막 몇 미터의 정밀 제어를 음성으로 다루는 기능이다. 로보택시 승하차 지점 지정, 개인 차량의 주차 편의성 모두에 적용될 수 있는 방향이다.\n\n일론 머스크는 앞서 6월23일, Grok 기반 음성 명령이 9월까지 FSD의 주행판단(planning) 레이어에 통합될 것이라고 직접 확인한 바 있다 — 확인 시점 기준 약 3개월의 배포 로드맵을 시사한 것으로, 이번 엘루스와미의 답변은 그 작업이 실제로 진행 중임을 재확인해준다.\n\n다만 정확한 정식 출시일은 아직 공개되지 않았다. 자연어 명령이 실시간 주행 판단에 관여하는 만큼, 정식 배포 전 안전 검증에 시간이 걸릴 것으로 보인다.",
       "title_en": "Tesla AI VP Elluswamy: <em>\"working on\" natural-language FSD commands</em>",
       "hotShort_en": "Tesla's Elluswamy: <em>FSD natural-language commands in the works</em>",
-      "body_en": "Tesla VP of AI Software Ashok Elluswamy confirmed on X that the team is actively developing natural-language prompts for FSD — letting drivers say things like \"park behind the white car\" — with no launch timeline yet, but pointing toward voice-driven precision control for the final stretch of a drive.",
-      "summary_en": "After an X user suggested FSD would be \"twice as useful in neighborhoods\" if it could navigate to a specific driveway or parking spot on its own, Tesla VP of AI Software Ashok Elluswamy replied \"Working on it,\" confirming the team is actively developing the feature.\n\nThe goal is for FSD to understand and execute natural-language instructions like \"park behind the white car\" or \"pull up to that mailbox\" — precision control over the last few meters after reaching a destination, applicable to both personal-vehicle parking and Robotaxi pickup/drop-off points.\n\nThe feature is still in early development, with no confirmed launch date or roadmap. Because natural-language commands would factor into real-time driving decisions, safety validation is likely to take time before any wide rollout.",
+      "body_en": "Tesla VP of AI Software Ashok Elluswamy confirmed on X that the team is actively developing natural-language prompts for FSD — letting drivers say things like \"park behind the white car\" — with Musk having pointed to a September 2026 target for folding voice commands into FSD's planning layer.",
+      "summary_en": "After an X user suggested FSD would be \"twice as useful in neighborhoods\" if it could navigate to a specific driveway or parking spot on its own, Tesla VP of AI Software Ashok Elluswamy replied \"Working on it,\" confirming the team is actively developing the feature.\n\nThe goal is for FSD to understand and execute natural-language instructions like \"park behind the white car\" or \"pull up to that mailbox\" — precision control over the last few meters after reaching a destination, applicable to both personal-vehicle parking and Robotaxi pickup/drop-off points.\n\nElon Musk had already confirmed on June 23 that Grok-based voice commands would be folded into FSD's planning layer by September 2026 — roughly a three-month rollout window from that confirmation. Elluswamy's reply now reaffirms that the work is actively underway.\n\nNo exact launch date has been confirmed yet. Because natural-language commands would factor into real-time driving decisions, safety validation is likely to take time before any wide rollout.",
       "href": "https://www.benzinga.com/markets/tech/26/07/60330309/tesla-fsd-could-get-smarter-neighborhood-navigation-after-ashok-elluswamy-responds-working-on-it-to-voice-command-request",
-      "confirmedBy": 2,
+      "confirmedBy": 3,
       "confirmingSources": [
         "Nic Cruz Patane (X)",
-        "Benzinga"
+        "Benzinga",
+        "Teslarati"
       ],
       "sentiment": "bull",
       "hot": 4
@@ -205,5 +201,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-09 06:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-09 07:05 KST 자동 갱신 · 최신순"
 }
