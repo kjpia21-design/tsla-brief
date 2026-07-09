@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "16m ago",
+      "pubDate": "2026-07-09T11:00:00.000Z",
+      "title": "테슬라, 3열 6인승 <em>'모델Y L'</em> 미국 출시 — 단종된 모델X 공백 메운다",
+      "hotShort": "테슬라, 3열 6인승 <em>'모델Y L'</em> 미국 출시",
+      "body": "테슬라가 3열 6인승 롱휠베이스 신형 '모델Y L'을 미국에 출시했다 — 기존 모델Y보다 약 7인치(18cm) 길며, 단종된 모델X의 공백을 메워 미국 판매 확대를 노린다.",
+      "sourceName": "Automotive News",
+      "sourceLabel": "press",
+      "slug": "product-model-y-l-us-launch-2026-07-09",
+      "summary": "모델Y L은 이미 지난해 중국에서, 올해 초 호주에서 먼저 판매된 롱휠베이스 사양으로, 이번에 미국 시장에도 상륙했다.\n\n3열 6인승 구조로 대가족이나 카풀 수요를 겨냥했으며, 지난해 단종된 대형 SUV 모델X가 남긴 공백을 실질적으로 메우는 역할을 맡을 전망이다.\n\n테슬라는 그동안 모델Y를 미국 판매의 핵심 축으로 삼아왔는데, 이번 롱휠베이스 버전 추가로 라인업을 넓혀 성장 동력을 이어가려는 전략으로 풀이된다.",
+      "title_en": "Tesla launches long-wheelbase, six-seat <em>Model Y L</em> in the US",
+      "hotShort_en": "Tesla brings 3-row <em>Model Y L</em> to the US",
+      "body_en": "Tesla has launched the six-seat, three-row Model Y L in the US — about 7 inches longer than the standard Model Y, positioned to fill the gap left by the discontinued Model X.",
+      "summary_en": "The Model Y L is a long-wheelbase variant that already went on sale in China last year and in Australia earlier this year, and has now arrived in the US market.\n\nWith three rows and six seats, it targets larger families and carpooling needs, effectively stepping in for the void left by last year's discontinuation of the Model X SUV.\n\nTesla has long treated the Model Y as the backbone of its US sales, and adding this longer-wheelbase version broadens the lineup as the company looks to sustain growth.",
+      "href": "https://www.autonews.com/tesla/an-tesla-launches-model-y-l-crossover-dominates-sales-0709/",
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -21,6 +41,31 @@
       "hot": 5
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "11h ago",
+      "pubDate": "2026-07-09T00:37:00.000Z",
+      "title": "싱가포르 소형차 COE 낙찰가 <em>사상 최고치 9만9700달러</em> — 모델3 인기 방증",
+      "hotShort": "싱가포르 COE <em>사상 최고가</em> — 모델3 인기 여전",
+      "body": "싱가포르에서 모델3가 속한 소형차·전기차 카테고리(카테고리A) 차량 등록증(COE) 낙찰가가 지난 8일 S$12만9000(약 미화 9만9700달러)로 사상 최고치를 기록했다 — 12월 말 종료되는 전기차 보조금을 앞두고 수요가 몰린 결과로, 현지 테슬라 수요 강세를 보여준다.",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "product-singapore-coe-record-model3-2026-07-09",
+      "summary": "싱가포르는 도로 위 차량 총량을 제한하기 위해 신차 등록 시 'COE(차량 등록증)'를 별도 입찰로 사야 하는 독특한 제도를 운영한다. 이번 낙찰가는 지난 6월17일 입찰 대비 4.2% 오른 수준이다.\n\n같은 날 대형·고출력 차량이 속한 카테고리B의 COE도 6% 오른 S$13만889를 기록했는데, 두 카테고리 모두 12월31일 종료 예정인 전기차 보조금 혜택을 받기 위해 구매를 서두르는 수요가 몰린 영향으로 풀이된다.\n\n카테고리A는 현지에서 테슬라 모델3가 대표 차종으로 꼽히는 구간으로, COE 가격이 치솟았음에도 수요가 꺾이지 않았다는 점은 싱가포르 시장에서 테슬라의 인기가 여전함을 시사한다.",
+      "title_en": "Singapore's small-car COE hits <em>record $99,700</em> as Model 3 demand holds",
+      "hotShort_en": "Singapore COE hits <em>record high</em> on Model 3 demand",
+      "body_en": "The Certificate of Entitlement premium for Singapore's small-car/EV category — which Tesla's Model 3 falls under — hit a record S$129,000 (about US$99,700) on July 8, as buyers rushed to beat the Dec. 31 expiration of EV incentive rebates, a sign that Tesla demand in the city-state remains strong.",
+      "summary_en": "Singapore caps the number of cars on its roads by requiring a separate Certificate of Entitlement (COE) auctioned for every new vehicle registration. This round's result is up 4.2% from the June 17 auction.\n\nThe same day, Category B (larger, more powerful cars) COEs rose 6% to S$130,889 — both categories reflecting buyers rushing to lock in purchases before EV incentive rebates expire at the end of December.\n\nCategory A is where Tesla's Model 3 is the leading model locally, and the fact that demand held even as COE prices spiked suggests Tesla's popularity in the Singapore market remains resilient.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-08/singapore-premiums-for-small-car-permits-at-record-99-700-high",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "SCMP"
+      ],
+      "sentiment": "bull",
+      "hot": 3
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -37,6 +82,32 @@
       "body_en": "Elon Musk settled SEC charges over his delayed 2022 disclosure of a 5%+ Twitter stake — which the agency says let him save up to $150 million buying shares before the market caught on — for a $1.5 million penalty, and a federal judge approved the deal despite voicing 'significant misgivings' and 'red flags.' One of Musk's lingering legal risks is now resolved.",
       "summary_en": "U.S. District Judge Sparkle Sooknanan approved a settlement between Elon Musk and the SEC on July 8. The case stemmed from Musk's failure to disclose within the required window that he had acquired more than a 5% stake in Twitter (now X) ahead of his 2022 takeover.\n\nThe SEC argued that the delayed disclosure let Musk keep buying shares at depressed prices before the market learned of his accumulation, netting him as much as $150 million in savings. The final settlement calls for a $1.5 million penalty.\n\nSooknanan approved the deal but raised pointed questions publicly. She questioned why the SEC dropped its demand that Musk disgorge ill-gotten gains, saying it was worth revisiting \"what that says about the propriety of settling in the first place,\" and criticized the SEC's choice to settle with Musk's trust rather than Musk personally, which lets him publicly claim he was cleared of wrongdoing.\n\nThe judge had previously denied a motion to dismiss in February 2026, pressing the SEC over the gap between the $1.5 million penalty and its own estimate of up to $150 million in investor losses. With this approval, the case is formally closed — Musk has maintained the delay was inadvertent.",
       "href": "https://www.reuters.com/world/judge-approves-elon-musk-settlement-with-us-sec-over-twitter-disclosures-2026-07-08/",
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "15h ago",
+      "pubDate": "2026-07-08T20:00:00.000Z",
+      "title": "NHTSA, 무인차 <em>응급대응 방해 패턴</em> 경고 — 이달 말까지 개선안 요구",
+      "hotShort": "NHTSA, 무인 자율차 <em>응급대응 방해</em> 경고",
+      "body": "美 도로교통안전국(NHTSA)이 무인 자율주행차가 구급차·소방차 통행을 막는 '뚜렷한 패턴'을 확인했다며 업계 전체에 이달 말까지 개선안 제시를 요구했다 — 마이애미에서 안전요원 없이 로보택시를 운영 중인 테슬라도 같은 규제 테이블에 오를 전망이다.",
+      "sourceName": "NHTSA",
+      "sourceLabel": "sec",
+      "slug": "fsd-nhtsa-av-first-responder-directive-2026-07-08",
+      "summary": "NHTSA 국장 조너선 모리슨은 서한에서 무인 자율주행차가 활성 응급 현장에 진입하거나 구급차·소방차 통행을 막고, 경광등·플레어·연기·화재·라바콘 등을 제대로 인식하지 못하는 사례가 '뚜렷한 패턴'으로 확인됐다고 밝혔다.\n\n이번 서한은 특정 기업을 지목하지 않았으며, 실제 공개된 구체 사례(오스틴에서 구급차 진로를 막은 사건, 샌프란시스코 소방당국이 집계한 연간 55건의 응급대응 방해 사례 등)는 모두 웨이모 로보택시와 관련된 것이다.\n\n다만 NHTSA는 이달 말까지 무인 자율주행차 개발사들과 회의를 열어 해결책을 논의하겠다고 밝혀, 마이애미에서 이미 안전요원 없이 로보택시를 운영 중이고 오스틴 확장도 진행 중인 테슬라 역시 같은 규제 논의 테이블에 참여할 가능성이 크다.",
+      "title_en": "NHTSA warns of <em>pattern of AVs interfering</em> with first responders — fixes due by month's end",
+      "hotShort_en": "NHTSA warns driverless AVs <em>blocking first responders</em>",
+      "body_en": "The US National Highway Traffic Safety Administration says it has identified a 'clear pattern' of driverless vehicles interfering with emergency responders — blocking ambulances and fire trucks — and has given the industry until the end of July to propose fixes, scrutiny that will likely extend to Tesla's driverless robotaxi service in Miami.",
+      "summary_en": "NHTSA Administrator Jonathan Morrison wrote that autonomous vehicles have shown a 'clear pattern' of driving into active emergency scenes, blocking ambulances and fire trucks, and failing to recognize flashing lights, flares, smoke, fire, and traffic cones.\n\nThe letter did not name any specific company, and the concrete incidents cited so far — a vehicle blocking an ambulance in Austin, and San Francisco fire officials logging 55 emergency-interference incidents in a year — all involve Waymo, not Tesla.\n\nStill, NHTSA said it will hold meetings with driverless AV developers by the end of July to discuss solutions, meaning Tesla — which already runs a safety-driver-free robotaxi service in Miami and is expanding in Austin — is likely to face the same regulatory conversation.",
+      "href": "https://www.nhtsa.gov/press-releases/av-developers-automated-vehicle-that-cannot-safely-interact-first-responders-danger",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "NHTSA",
+        "TechCrunch",
+        "Benzinga"
+      ],
       "sentiment": "neutral",
       "hot": 6
     },
@@ -92,58 +163,6 @@
       "hot": 4
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-07-08T14:03:28.000Z",
-      "title": "웨이모, <em>4개 신규 도시</em>서 완전 무인 운행 확대 — 라스베이거스 오늘부터 안전요원 없이",
-      "hotShort": "웨이모 <em>4개 도시</em> 무인 확대 — 테슬라와 격차",
-      "body": "웨이모가 라스베이거스·덴버·샌디에이고·탬파 4개 도시에서 안전요원 없는 완전 무인 운행을 시작(라스베이거스는 오늘부터, 나머지는 순차 도입) — 전체 서비스 도시가 10곳을 넘어서며, 마이애미 1곳뿐인 테슬라 로보택시와의 확장 속도 격차가 부각됐다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-waymo-four-cities-driverless-2026-07-08",
-      "summary": "테슬라가 로보택시 상반기(H1) 5개 도시 목표를 기한 내 하나도 채우지 못한 가운데(6/30 보도), 경쟁사 웨이모는 오히려 확장에 속도를 내고 있다.\n\n웨이모는 7월8일, 라스베이거스에서 안전요원 없는 완전 무인 운행을 시작했다고 발표했다. 덴버·샌디에이고·탬파도 뒤이어 순차 도입될 예정이다. 처음에는 직원 대상으로 운영되다 곧 일반 승객에게 개방될 전망이다.\n\n이번 확장으로 웨이모가 완전 무인 승차를 제공하는 도시는 10곳을 넘어섰다. 웨이모는 올해 초 밸류에이션 $1260억에 $160억 규모 투자를 유치했고, 이 자금을 도시별 확장에 투입해 연말까지 주간 유료 승차 100만 건을 목표로 하고 있다 — 런던·도쿄 등 해외 진출도 예고된 상태다.\n\n테슬라는 지난 7월3~4일 마이애미에서 안전요원 없는 로보택시 운행을 시작했지만 아직 단일 도시에 머물러 있다. 웨이모의 이번 확장은 로보택시 경쟁에서 테슬라가 따라잡아야 할 격차를 다시 한번 보여준다.",
-      "title_en": "Waymo goes <em>driverless in four more cities</em> — Las Vegas live today, no safety driver",
-      "hotShort_en": "Waymo expands <em>driverless</em> to 4 more cities",
-      "body_en": "Waymo began fully driverless robotaxi service in Las Vegas today, with Denver, San Diego and Tampa to follow — pushing its footprint past 10 cities and widening the gap with Tesla's Robotaxi, which is still confined to a single city, Miami.",
-      "summary_en": "While Tesla failed to launch Robotaxi in any of its five targeted H1 cities by its own deadline (reported June 30), rival Waymo is accelerating instead.\n\nWaymo announced on July 8 that it has started running fully driverless vehicles — no human behind the wheel — in Las Vegas, with Denver, San Diego and Tampa to follow. The rollout will initially serve employees before opening to the public.\n\nThe expansion pushes Waymo's fully driverless footprint past 10 cities. The company raised $16 billion at a $126 billion valuation earlier this year specifically to fund this city-by-city expansion, and is targeting 1 million paid rides per week by year-end, with London and Tokyo next on its international roadmap.\n\nTesla, by contrast, only began safety-driver-free Robotaxi operation in Miami on July 3-4 and remains limited to that single city — underscoring the gap Tesla still has to close in the robotaxi race.",
-      "href": "https://electrek.co/2026/07/08/waymo-driverless-las-vegas-four-new-cities/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "CNBC",
-        "Engadget"
-      ],
-      "sentiment": "bear",
-      "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-08T13:19:13.000Z",
-      "title": "테슬라, 가정용 에너지 앱 '테슬라 홈' 출시 — AI '옵티캐스터'가 <em>파워월 하루 수백 번 충방전 결정</em>",
-      "hotShort": "테슬라 홈 출시 — AI가 <em>전기요금 자동 최적화</em>",
-      "body": "테슬라가 파워월 소유자를 위한 신규 앱 '테슬라 홈'을 출시했다 — 내장 AI 엔진 '옵티캐스터'가 하루 수백 번 충전·방전 시점을 스스로 판단해 전기요금을 낮추고, 스마트 브레이커로 개별 회로 제어까지 지원한다. 기존 파워월 오너는 별도 하드웨어 없이 바로 이용 가능해, 테슬라 에너지 사업의 소비자 접점을 넓히는 신호다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-tesla-home-opticaster-launch-2026-07-08",
-      "summary": "테슬라가 8일(현지시간) 가정용 에너지 관리 플랫폼 '테슬라 홈'을 공식 출시했다. 핵심은 모든 파워월에 이미 탑재된 AI 엔진 '옵티캐스터'로, 태양광 발전량과 날씨 예보, 가정의 전력 사용 패턴을 예측해 하루 수백 차례 충전·방전 전략을 자동 수립한다.\n\n이번 업데이트로 앱에 스마트 브레이커 연동 기능이 추가돼, 오너가 개별 회로 단위로 정전 시 우선 가동할 부하를 직접 정할 수 있게 됐다. 시스템이 지금 무엇을 왜 하고 있는지 요약해주는 'Home Status' 기능도 새로 붙었다.\n\n다만 옵티캐스터 자체는 완전히 새로운 기술은 아니다 — 테슬라는 수년간 파워월 현장에서 이 AI로 배터리를 최적화해왔고, '테슬라 홈'은 그 기술을 소비자 친화적 이름과 인터페이스로 재포장한 성격이 크다. 그럼에도 기존 파워월 오너는 추가 하드웨어 없이 바로 이용할 수 있어, 에너지 사업 부문의 소비자 인터페이스를 강화하려는 의도로 읽힌다.",
-      "title_en": "Tesla launches 'Tesla Home' app — AI 'Opticaster' <em>makes hundreds of battery calls a day</em>",
-      "hotShort_en": "Tesla Home launches — AI <em>automates your power bill</em>",
-      "body_en": "Tesla has launched 'Tesla Home,' a new app for Powerwall owners — its built-in AI engine, Opticaster, makes hundreds of charge/discharge decisions a day to lower electricity bills, and now adds smart-breaker control over individual circuits. Existing Powerwall owners can use it with no extra hardware, extending Tesla Energy's reach into the consumer app layer.",
-      "summary_en": "Tesla officially launched Tesla Home, a home energy management platform, on July 8. At its core is Opticaster, an AI engine already running on every Powerwall, which forecasts solar production, weather and household usage patterns to build an automatic charge/discharge strategy — making hundreds of decisions a day.\n\nThe update adds smart-breaker integration to the app, letting owners decide which individual circuits get priority power during an outage, plus a new 'Home Status' feature that summarizes what the system is doing and why.\n\nOpticaster itself isn't entirely new technology — Tesla has been optimizing Powerwall batteries with this AI in the field for years, and Tesla Home is largely a consumer-facing rebrand and interface wrapped around it. Still, existing Powerwall owners can use it immediately with no added hardware, signaling Tesla's push to strengthen the consumer-facing side of its energy business.",
-      "href": "https://electrek.co/2026/07/08/tesla-home-opticaster-ai-energy-platform/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "Drive Tesla Canada",
-        "Not a Tesla App"
-      ],
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "5h ago",
@@ -167,33 +186,7 @@
       ],
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
-      "pubDate": "2026-07-08T11:00:16.000Z",
-      "title": "뉴저지 로보택시 법안, <em>라이다 의무화</em>로 테슬라 카메라온리 방식 배제 우려",
-      "hotShort": "뉴저지 법안, 테슬라 <em>카메라온리 로보택시</em> 배제 우려",
-      "body": "뉴저지주 상원 법안 S1677이 완전 무인 자율주행차에 카메라 외 라이다·레이더 등 2종 이상 추가 센서를 의무화하고 주내 5만 마일 유인감독 시험을 요구 — 통과 시 카메라만 쓰는 테슬라의 FSD·로보택시 방식이 뉴저지에서 사실상 막힐 수 있어, 주별 확장 전략에 새 규제 리스크로 부상.",
-      "sourceName": "The Verge",
-      "sourceLabel": "press",
-      "slug": "fsd-new-jersey-robotaxi-lidar-bill-2026-07-08",
-      "summary": "뉴저지주 의회에 계류 중인 로보택시 법안 S1677이 업계의 주목을 받고 있다. 이 법안은 올해 1월 13일 발의돼 5월 11일 상원 예산세출위원회에 회부됐으며, 더버지(The Verge) 보도에 따르면 올해 안에 표결에 부쳐질 전망이다.\n\n법안의 핵심은 완전 무인(운전자 없음) 자율주행 서비스를 운영하려는 업체에게 카메라뿐 아니라 라이다·레이더 등 서로 다른 방식의 센서를 최소 2종 이상 추가로 탑재하도록 요구하는 조항이다. 아울러 상업 서비스 개시 전 주 내에서 5만 마일(약 8만km) 규모의 유인감독 시험을 거치도록 명시했다.\n\n이는 카메라만으로 자율주행을 구현하는 테슬라의 'Vision-only' FSD·로보택시 전략과 정면으로 배치된다. 일론 머스크는 그동안 라이다·레이더가 불필요하고 비용만 높인다며 카메라·AI 조합을 고수해왔는데, 법안이 원안대로 통과되면 하드웨어를 바꾸지 않는 한 뉴저지에서 사실상 로보택시 서비스를 할 수 없게 된다.\n\n테슬라 측은 뉴저지 차주들에게 법안 반대 의견을 제출해달라고 요청하며 대응에 나섰다(테슬라라티 보도). 법안 찬성 측은 \"테슬라를 겨냥한 것이 아니다\"라는 입장이지만, 결과적으로 카메라온리 방식을 사실상 배제하는 효과를 낸다는 지적이 나온다.\n\n뉴저지가 이런 규정을 도입하는 첫 주(州)가 될 경우 다른 주로 확산될지도 관전 포인트다. 로보택시 사업을 여러 주로 확장 중인 테슬라에게는 주별 규제 리스크가 현실화되는 사례가 될 수 있다.",
-      "title_en": "New Jersey robotaxi bill would <em>mandate lidar</em>, threatening to shut out Tesla's camera-only approach",
-      "hotShort_en": "NJ robotaxi bill could <em>shut out Tesla</em>",
-      "body_en": "New Jersey Senate bill S1677 would require fully driverless vehicles to carry cameras plus at least two additional sensing technologies such as lidar or radar, along with 50,000 miles of in-state supervised testing before commercial service — a requirement that could effectively shut Tesla's camera-only FSD and Robotaxi out of the state unless it changes its hardware.",
-      "summary_en": "A robotaxi bill pending in the New Jersey legislature is drawing scrutiny across the industry. Introduced on January 13 and referred to the Senate Budget and Appropriations Committee on May 11, S1677 is expected to come up for a vote later this year, The Verge reported.\n\nAt its core, the bill would require any operator running fully driverless (no safety driver) service to equip vehicles with cameras plus at least two additional, distinct sensing technologies — think lidar or radar — and to complete 50,000 miles of in-state supervised testing before launching commercial driverless service.\n\nThat directly conflicts with Tesla's vision-only approach to FSD and Robotaxi. Elon Musk has long argued that lidar and radar are unnecessary and costly, betting instead on cameras plus AI. If the bill passes as written, Tesla would effectively be locked out of New Jersey robotaxi service unless it adds hardware.\n\nTesla has responded by urging New Jersey owners to submit opposition comments on the bill, according to Teslarati. Supporters say the bill isn't aimed at Tesla specifically, but critics note it would functionally exclude the camera-only approach regardless of intent.\n\nIf New Jersey becomes the first state to adopt such rules, whether other states follow will be worth watching — a real test of state-by-state regulatory risk for Tesla as it expands Robotaxi across the country.",
-      "href": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "The Verge",
-        "Benzinga",
-        "Teslarati"
-      ],
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-09 08:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-09 11:30 KST 자동 갱신 · 최신순"
 }
