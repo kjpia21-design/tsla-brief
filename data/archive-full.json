@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-09 23:17 UTC · 누적 573건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-10 03:52 UTC · 누적 574건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-09T22:00:00.000Z",
+      "title": "NHTSA 국장 \"무인차 <em>핸들 규정도 재검토</em>\" — 사이버캡 규제 회색지대 풀리나",
+      "hotShort": "NHTSA \"무인차 <em>핸들 의무 재검토</em>\" 시사",
+      "body": "美 NHTSA 국장 조너선 모리슨이 CNBC 인터뷰에서, 사람이 운전하도록 설계되지 않은 차량에 핸들·페달 등 수동 조작장치를 의무화한 규정을 \"당연히(absolutely)\" 재검토할 수 있다고 밝혔다 — 핸들·페달이 없는 테슬라 <em>사이버캡의 연방 안전기준 회색지대</em>가 풀릴 신호로, 지난달 브레이크 페달 의무 폐지에 이은 두 번째 규제 완화 움직임이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "fsd-nhtsa-steering-wheel-review-2026-07-09",
+      "summary": "테슬라 사이버캡은 핸들도 페달도 없는 2인승 전용 로보택시로 설계됐지만, 현행 연방자동차안전기준(FMVSS)은 수동 조작장치를 원칙적으로 요구해 그동안 규제 회색지대에 놓여 있었다.\n\nNHTSA 국장 조너선 모리슨은 CNBC 인터뷰에서 \"사람이 운전하도록 설계되지 않은 차량이라면 수동 조작장치를 요구하는 게 말이 안 된다\"며, 핸들·페달 의무화 규정을 재검토할 의사가 \"당연히(absolutely)\" 있다고 밝혔다. 구체적인 시행 시점이나 절차는 언급하지 않았다.\n\n이번 발언은 지난달 NHTSA가 무인 자율주행차의 수동 브레이크 페달 의무를 없애는 방향으로 연방 안전기준을 개정한 데 이은 후속 신호다. 트럼프 행정부 들어 무인차 규제를 완화하려는 흐름이 이어지고 있다는 평가다.\n\nNHTSA는 이달 말까지 무인차 개발사들과 회의를 열어 해결책을 논의하겠다고 예고한 바 있는데(앞선 응급대응 방해 경고와 같은 일정), 핸들 규정 재검토가 이 논의에 포함될지는 불확실하다. 다만 사이버캡처럼 처음부터 사람 운전을 전제하지 않은 차량이 양산·상용화 단계로 넘어가려면 이 규정 자체가 가장 큰 걸림돌 중 하나였던 만큼, 테슬라로서는 로보택시 확장의 법적 걸림돌 하나가 줄어드는 신호로 받아들여질 수 있다.",
+      "title_en": "NHTSA chief signals openness to <em>reviewing steering-wheel mandate</em> for driverless cars",
+      "hotShort_en": "NHTSA open to <em>ending steering-wheel rule</em>",
+      "body_en": "NHTSA Administrator Jonathan Morrison told CNBC the agency would \"absolutely\" consider ending the requirement that vehicles not designed for human drivers carry a steering wheel and pedals — a potential opening for Tesla's Cybercab, which has neither, following last month's move to drop the mandatory brake-pedal rule for driverless vehicles.",
+      "summary_en": "Tesla's Cybercab was designed as a two-seat, purpose-built robotaxi with no steering wheel and no pedals — but existing Federal Motor Vehicle Safety Standards generally require manual controls, leaving the vehicle in a regulatory gray zone.\n\nNHTSA Administrator Jonathan Morrison said in a CNBC interview that requiring manual controls \"doesn't make any sense\" for vehicles that are never meant to be driven by a human, and that the agency would \"absolutely\" consider revisiting the steering-wheel mandate. He didn't specify a timeline or process.\n\nThe comments follow NHTSA's move last month to update federal safety standards and drop the mandatory brake-pedal requirement for driverless vehicles — part of a broader effort under the Trump administration to loosen rules for autonomous cars.\n\nNHTSA has also said it will hold meetings with driverless-vehicle developers by the end of July (the same timeline tied to its recent warning about AVs interfering with emergency responders), though it's unclear whether the steering-wheel review will be part of those talks. Still, for a vehicle like Cybercab that was never designed around a human driver, this rule has been one of the biggest regulatory hurdles to mass production — and its potential loosening removes one legal obstacle from Tesla's robotaxi expansion path.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-09/us-to-explore-allowing-driverless-cars-without-steering-wheels",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "CNBC",
+        "Seeking Alpha"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
