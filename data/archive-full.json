@@ -1,6 +1,58 @@
 {
-  "asOf": "2026-07-10 17:50 UTC · 누적 579건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-10 19:40 UTC · 누적 583건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-10T16:55:43.000Z",
+      "title": "일론 머스크 \"앤트로픽에 대해 <em>완전히 틀렸다</em>\" — AI 선두주자로 인정",
+      "hotShort": "머스크 \"앤트로픽에 <em>완전히 틀렸다</em>\" 인정",
+      "body": "일론 머스크가 X에서 앤트로픽을 두고 \"그들이 현재 AI 분야 선두주자임이 분명하다\"며 과거 회의적 시각이 <em>완전히 틀렸다</em>고 인정했다 — 스페이스XAI와 앤트로픽 간 GPU 임대 계약이 이어지는 가운데, 경쟁사라도 컴퓨팅 자원을 끊지 않겠다고 약속해 AI 인프라 공급망에서의 신뢰 신호로 읽힌다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-anthropic-clearly-wrong-2026-07-10",
+      "summary": "일론 머스크는 지난해 9월 앤트로픽에 대해 \"이 회사가 AI 경쟁에서 이길 가능성 자체가 없었다\"는 취지로 회의적인 입장을 밝힌 바 있다. 이번엔 정반대로 돌아섰다.\n\n머스크는 X에 \"내가 분명히 틀렸다\"며 \"앤트로픽이 현재 AI 분야에서 선두를 달리고 있다는 게 명백하다\"고 적었다. 그는 \"어떤 회사도 (앤트로픽의) Mythos/Fable만큼 좋은 모델을 내놓지 못했고, 곧 Mythos 2도 준비될 것\"이라고 평가했다.\n\n이번 발언은 머스크의 AI 인프라 벤처 스페이스XAI와 앤트로픽 사이에 지난 5월 체결된 단기 GPU 임대 계약이 이어지는 가운데 나왔다. 머스크는 경쟁사라 해도 \"그들에게 심각한 타격을 줄 방식으로 끊는 일은 절대 없을 것\"이라며 컴퓨팅 자원 공급을 계속하겠다고 약속했다.\n\n테슬라 주주에게 이 발언이 직접적인 실적 신호는 아니지만, 머스크가 운영하는 AI 인프라 사업(스페이스XAI)이 경쟁사에도 컴퓨팅을 안정적으로 공급하는 파트너로 자리잡고 있다는 점, 그리고 그가 라이벌의 기술력을 공개적으로 인정할 만큼 AI 경쟁 구도가 빠르게 재편되고 있다는 점은 테슬라의 AI·컴퓨팅 전략(도조, FSD 등)과 맞물려 참고할 만한 배경이다.",
+      "title_en": "Elon Musk admits he was <em>completely wrong</em> about Anthropic, calls it the AI leader",
+      "hotShort_en": "Musk admits he was <em>wrong</em> about Anthropic",
+      "body_en": "Elon Musk wrote on X that he was <em>completely wrong</em> about Anthropic, now calling it \"obviously the current leader in AI\" — the reversal comes as SpaceXAI's GPU lease deal with Anthropic continues, with Musk pledging not to cut off compute access even to a rival.",
+      "summary_en": "Last September, Elon Musk was openly skeptical of Anthropic, suggesting the company never had a real shot at winning the AI race. This week he reversed course entirely.\n\nMusk wrote on X, \"I was clearly wrong,\" adding that Anthropic is \"obviously currently the leader in AI.\" He said no company has released a model as good as Anthropic's Mythos/Fable, and that Mythos 2 would be ready soon.\n\nThe comments come as a short-term GPU lease agreement between Musk's AI infrastructure venture SpaceXAI and Anthropic, initiated in May, continues to run. Musk said he would \"never cut them off in a way that hurt them badly, even as a competitor,\" pledging to keep supplying compute.\n\nFor Tesla shareholders, the remarks aren't a direct financial signal, but they're a data point on how Musk's AI infrastructure business is positioning itself as a reliable compute partner even to rivals — and how fast the AI competitive landscape is shifting, a backdrop relevant to Tesla's own AI and compute strategy around Dojo and FSD.",
+      "href": "https://www.teslarati.com/elon-musk-admits-he-was-clearly-wrong-about-anthropic/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Teslarati",
+        "Benzinga",
+        "TechCrunch",
+        "Washington Examiner"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-10T15:50:44.000Z",
+      "title": "뉴스트리트리서치 애널리스트 \"테슬라 FSD, <em>아이폰 모먼트</em> 임박\" — \"2개 분기만 더 지켜봐달라\"",
+      "hotShort": "애널리스트 \"FSD, <em>아이폰 모먼트</em> 임박\"",
+      "body": "뉴스트리트리서치의 피에르 페라구 애널리스트가 테슬라 FSD가 <em>'아이폰 모먼트'</em>를 앞두고 있다고 평가했다 — \"테슬라는 아이폰이 단순한 전화기가 아니었듯 단순한 자동차가 아니다\"라며, 앞으로 2개 분기 안에 시장의 인식이 바뀔 변곡점이 올 것으로 봤다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "stock-fsd-iphone-moment-ferragu-2026-07-10",
+      "summary": "이번 주 월가에서는 테슬라 밸류에이션을 둘러싼 신중론(씨티즌스·배런스 등)과 낙관론(UBS 목표주가 상향)이 동시에 쏟아졌는데, 뉴스트리트리서치의 피에르 페라구 애널리스트는 FSD를 근거로 한 낙관론에 무게를 실었다.\n\n페라구는 \"테슬라는 아이폰이 단순한 전화기가 아니었던 것처럼 단순한 자동차가 아니다\"라며, 아이폰 초창기 높은 가격표가 '전화기치고 비싸다'는 인식에서 시작해 결국 '전화기 그 이상'이라는 재평가로 이어졌던 과정에 테슬라 FSD를 비유했다.\n\n그는 테슬라가 변곡점(inflection point)에 다가서고 있다고 보면서도, \"앞으로 2개 분기만 더 지켜봐 달라\"며 구체적으로 어떤 변화가 일어날지는 밝히지 않았다 — 그 기간이 지나면 방향성이 더 뚜렷해질 것이라는 취지다.\n\n페라구는 오랫동안 테슬라를 커버해온 애널리스트로, 7월22일 2분기 실적 발표를 앞두고 로보택시·옵티머스 확장에 신중한 시각을 보인 씨티즌스·배런스와 달리 FSD의 장기 잠재력에 무게를 싣는 대조적인 시각을 내놓은 셈이다.",
+      "title_en": "New Street Research analyst says Tesla FSD is nearing its <em>iPhone moment</em> — \"give us two more quarters\"",
+      "hotShort_en": "Analyst: Tesla FSD nearing its <em>iPhone moment</em>",
+      "body_en": "New Street Research analyst Pierre Ferragu says Tesla's FSD is approaching an <em>'iPhone moment'</em> — \"a Tesla is not a car, the same way an iPhone was not a phone,\" he said, expecting market perception to shift within the next two quarters.",
+      "summary_en": "Wall Street's Tesla debate split this week between caution (Citizens, Barron's) and optimism (UBS's price-target hike), and New Street Research's Pierre Ferragu weighed in on the bullish side, grounding his case in FSD.\n\nFerragu argued \"a Tesla is not a car, the same way an iPhone was not a phone,\" comparing FSD to the iPhone's early days, when its high price tag seemed steep for 'just a phone' before the market realized it was something more.\n\nHe said Tesla is nearing an inflection point but didn't specify what exactly would change, only asking investors to \"give us two more quarters\" to see where things are heading.\n\nA longtime Tesla-covering analyst, Ferragu's framing stands in contrast to Citizens and Barron's caution on Robotaxi and Optimus valuations this same week, putting his weight instead behind FSD's long-term potential ahead of the July 22 Q2 earnings report.",
+      "href": "https://www.teslarati.com/tesla-analyst-full-self-driving-iphone-moment/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -20,6 +72,32 @@
       "href": "https://cnevpost.com/2026/07/10/tesla-files-new-model-y-variant-china/",
       "sentiment": "neutral",
       "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-10T14:01:00.000Z",
+      "title": "일론 머스크 \"스페이스X, <em>목표 달성 시 지구 전체보다 가치있을 것</em>\"",
+      "hotShort": "머스크 \"스페이스X, <em>지구보다 가치있을 것</em>\"",
+      "body": "일론 머스크가 X에서 \"우리 목표를 달성하면 스페이스X는 <em>지구의 나머지 전체보다 가치있게 될 것</em>\"이라고 밝혔다 — 궤도 제조·소행성 채굴·화성 식민지 등 지구 밖 경제권 구상을 전제로 한 발언으로, 스페이스X 상장 한 달 만에 밸류에이션 논쟁에 다시 불을 붙였다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-worth-more-than-earth-2026-07-10",
+      "summary": "일론 머스크가 스페이스X의 장기 가치에 대해 그동안 나온 어떤 발언보다 과감한 주장을 내놨다.\n\n머스크는 X에 \"우리가 목표를 달성한다면 스페이스X는 지구의 나머지 전체를 합친 것보다 가치있어질 것\"이라고 적었다. 이 발언은 앤트로픽과 스페이스X-xAI 간 컴퓨팅 자원 거래(보도에 따르면 75억~400억 달러 규모)를 둘러싼 온라인 논쟁 도중 나왔다.\n\n머스크의 주장은 스페이스X가 단순한 로켓·위성 기업을 넘어, 궤도 제조·소행성 채굴·화성 식민지 건설까지 아우르는 다행성 경제의 설계자가 되는 시나리오를 전제로 한다 — 다시 말해 아직 존재하지 않는 시장, 고객, 통화, 규제기관을 상정한 장기 비전이다.\n\n스페이스X는 6월12일 주당 $135로 상장해 860억 달러를 조달하며 사상 최대 IPO를 기록했고 상장 첫날 시가총액 약 2.1조 달러를 찍었다. 테슬라 주주 입장에서는 머스크가 스페이스X의 밸류에이션 상단을 이렇게까지 밀어붙이는 발언이, 테슬라·스페이스X 합병설이 계속 도는 상황에서 협상 기준점을 둘러싼 불확실성을 한층 키우는 요인으로 볼 수 있다.",
+      "title_en": "Elon Musk: SpaceX will be <em>worth more than the rest of Earth</em> if goals are met",
+      "hotShort_en": "Musk: SpaceX could be <em>worth more than Earth</em>",
+      "body_en": "Elon Musk wrote on X that \"SpaceX will be worth more than the rest of Earth\" if the company achieves its goals — a claim built on visions of orbital manufacturing, asteroid mining, and Mars colonies, reigniting valuation debate just a month after SpaceX's IPO.",
+      "summary_en": "Elon Musk made his boldest claim yet about SpaceX's long-term value.\n\nHe wrote on X that \"SpaceX will be worth more than the rest of Earth\" if the company accomplishes its goals. The comment came amid online debate over a reported $7.5 billion to $40 billion compute deal between Anthropic and SpaceX-xAI.\n\nMusk's claim rests on SpaceX evolving beyond rockets and satellites into the architect of a multiplanetary economy — orbital manufacturing, asteroid mining, and Mars colonies — markets, customers, currencies, and regulators that don't exist yet.\n\nSpaceX priced its IPO at $135 a share on June 12, raising $86 billion in the largest IPO ever and hitting roughly $2.1 trillion in market value on its debut trading day. For Tesla shareholders, Musk pushing SpaceX's valuation ceiling this aggressively adds another layer of uncertainty to the reference point for any Tesla-SpaceX merger talks, which continue to circulate.",
+      "href": "https://www.barrons.com/articles/elon-musk-spacex-stock-worth-more-earth-cebedeeb",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Barron's",
+        "Futurism",
+        "TheStreet"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
     },
     {
       "category": "musk",
@@ -62,6 +140,31 @@
       "confirmingSources": [
         "SpaceNews",
         "CNN"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
+      "pubDate": "2026-07-10T11:00:01.000Z",
+      "title": "스페이스X 상장 한 달, 테슬라 주가는 <em>제자리 지켜</em> — 우려했던 '식인' 없었다",
+      "hotShort": "스페이스X 상장 한 달, 테슬라 <em>주가 제자리</em>",
+      "body": "스페이스X가 6월12일 사상 최대 규모로 상장한 지 한 달이 지났지만, 테슬라 주가는 상장 당일 종가 $406.43과 거의 같은 수준을 유지하고 있다 — 스페이스X가 머스크의 투자 관심·자금을 빼앗아 테슬라에 타격을 줄 것이라던 상장 전 우려가 한 달 만에는 현실화하지 않은 모습이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "stock-spacex-ipo-month-tesla-holding-2026-07-10",
+      "summary": "스페이스X 상장을 앞두고 월가 일각에서는 이 초대형 IPO가 테슬라에 '실존적 위협'이 될 수 있다는 경고가 나왔다 — 머스크의 관심과 자금이 테슬라에서 스페이스X로 옮겨갈 것이라는 우려였다.\n\n한 달이 지난 지금, 결과는 그렇게 명확하지 않다. 테슬라 주가는 스페이스X 상장 당일인 6월12일 $399.49로 출발해 $406.43으로 마감했고, 최근에도 $406.55 수준을 유지하며 큰 변동 없이 버티고 있다.\n\n스페이스X 주가 자체도 상장 초반 급등했다가 빠르게 되밀렸다 — $135 공모가에서 첫 거래 $150으로 출발한 뒤 한때 $150 아래로 밀렸고, 최근 종가는 $152.16 수준이다. 요란했던 관심에 비해 실제 주가 흐름은 비교적 잠잠했다는 평가다.\n\n테슬라 주주 입장에서는 상장 전 우려됐던 '스페이스X가 테슬라 투자자금을 빨아들인다'는 시나리오가 적어도 한 달 시점까지는 뚜렷하게 나타나지 않았다는 점이 안도 요인이지만, 두 종목 모두 아직 단기 데이터인 만큼 장기 추세는 더 지켜봐야 한다.",
+      "title_en": "A month after SpaceX's IPO, Tesla stock is <em>holding its ground</em>",
+      "hotShort_en": "Tesla stock <em>holds steady</em> a month after SpaceX IPO",
+      "body_en": "A month after SpaceX's record-breaking June 12 IPO, Tesla shares are trading close to that day's $406.43 close — the pre-IPO fear that SpaceX would drain Musk's attention and capital away from Tesla hasn't clearly played out one month in.",
+      "summary_en": "Ahead of SpaceX's IPO, some on Wall Street warned the mega-offering could pose an 'existential threat' to Tesla — the concern being that Musk's attention and capital would shift from Tesla toward SpaceX.\n\nA month later, the picture isn't so clear-cut. Tesla opened at $399.49 on June 12, the day of SpaceX's IPO, closed that day at $406.43, and has recently been trading around $406.55 — holding steady with little drama.\n\nSpaceX's own stock spiked early and quickly cooled. It priced at $135 and opened trading at $150, later dipping below that level before settling around $152.16 in recent trading — a relatively quiet outcome given all the attention around the deal.\n\nFor Tesla shareholders, the reassuring takeaway is that the feared scenario — SpaceX siphoning investor capital away from Tesla — hasn't clearly materialized one month in, though both stocks still have a short track record and the longer-term trend remains to be seen.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "The Edge Malaysia"
       ],
       "sentiment": "neutral",
       "hot": 4
