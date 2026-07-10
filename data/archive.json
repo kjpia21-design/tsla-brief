@@ -532,6 +532,32 @@
       "hot": 4
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3d ago",
+      "pubDate": "2026-07-07T14:00:00.000Z",
+      "title": "RBC, 테슬라 목표주가 $475→$500 상향 — <em>스페이스X 인수설 첫 가격모델 반영</em>",
+      "hotShort": "RBC, 테슬라 목표주가 <em>$500</em>로 상향 — 합병설 반영",
+      "body": "RBC캐피탈 애널리스트 톰 나라얀이 테슬라 목표주가를 $475에서 $500으로 상향하고 투자의견 '아웃퍼폼'을 유지했다 — 스페이스X의 테슬라 인수 시나리오(전액주식·20~30% 프리미엄)에 처음으로 확률을 부여해 정식 가격모델에 반영한 것으로, <em>합병설이 추측 단계를 넘어 월가 밸류에이션 틀 안으로</em> 들어왔다는 신호다.",
+      "sourceName": "Investing.com",
+      "sourceLabel": "press",
+      "slug": "stock-rbc-price-target-500-spacex-merger-2026-07-07",
+      "summary": "이번 주 스페이스X·테슬라 합병설을 둘러싼 월가 반응은 대체로 '가능성은 있지만 아직 확정된 건 아니다'는 선에서 조심스러웠는데, RBC캐피탈은 여기서 한 걸음 더 나갔다.\n\nRBC 애널리스트 톰 나라얀은 테슬라 목표주가를 기존 $475에서 $500으로 올리며 투자의견 '아웃퍼폼'을 유지했다. 합병 시나리오를 제외한 테슬라 단독 밸류에이션은 $435로 제시했고, 로보택시 사업 가치는 20% 상향해 '테슬라의 가장 견고한 기회'로 평가하며 잠재 시장(TAM) 규모를 $4.2조로 추산했다. 7월 7일 기준 테슬라 주가($419.77)와 비교하면 신규 목표주가는 약 19%의 상승 여력을 시사한다.\n\n나라얀은 스페이스X 인수 시나리오가 아직 확인되지 않은 언론 보도에 근거한 것이라고 명확히 선을 그으면서도, 확률을 가중한 프리미엄(20~30%)을 목표주가에 반영했다고 밝혔다. 그가 그린 가장 가능성 높은 딜 구조는 스페이스X가 테슬라를 전액 주식 거래로 인수하는 형태로, 시너지 근거로는 자체 반도체 생산, 데이터센터용 메가팩 공급, AI 학습·차량관리 협업 등을 들었다.\n\n앞서 레이먼드제임스($800)·씨티(낙관 시나리오 $900)가 내놓은 목표주가는 스페이스X 자체 밸류에이션이었던 반면, RBC의 이번 상향은 테슬라 주가에 합병 프리미엄을 직접 얹은 첫 사례라는 점에서 결이 다르다. 합병설에 대한 월가의 시각차(JP모건 '이론상 타당' vs BNP파리바 '회의적')는 여전히 남아 있어, 실제 협상 진전 여부가 이번 밸류에이션의 실현 가능성을 가를 변수로 꼽힌다.",
+      "title_en": "RBC lifts Tesla price target to <em>$500</em> from $475 — first to bake in a SpaceX merger premium",
+      "hotShort_en": "RBC lifts Tesla PT to <em>$500</em> on merger scenario",
+      "body_en": "RBC Capital analyst Tom Narayan raised his Tesla price target from $475 to $500, keeping an Outperform rating — the first Wall Street model to formally assign a probability-weighted premium (20-30%, all-stock) to a potential SpaceX acquisition of Tesla, moving the <em>merger speculation from talk into an actual pricing framework</em>.",
+      "summary_en": "Wall Street's reaction to Tesla-SpaceX merger speculation this week has mostly stayed cautious — plausible, but far from confirmed. RBC Capital went a step further.\n\nAnalyst Tom Narayan raised his Tesla price target from $475 to $500, maintaining an Outperform rating. Excluding any merger scenario, he pegs Tesla's standalone value at $435, and raised the value he assigns to Tesla's robotaxi business by 20%, calling it 'currently Tesla's most robust opportunity' with an estimated total addressable market of $4.2 trillion. Against Tesla's July 7 reference price of $419.77, the new target implies roughly 19% upside.\n\nNarayan was explicit that the SpaceX scenario rests on unconfirmed media reports, not a done deal — but he still layered a probability-weighted premium of 20-30% into the target. His most likely deal structure: an all-stock transaction in which SpaceX acquires Tesla, with the rationale centered on proprietary chip manufacturing, Megapacks for data-center power needs, and collaborative AI training and fleet-management services.\n\nThat's a different animal from Raymond James's $800 and Citi's $900 bull-case targets, which valued SpaceX itself — RBC's move is the first to attach a merger premium directly to Tesla's own share price. Wall Street remains split on feasibility (JPMorgan calling it 'coherent on paper,' BNP Paribas skeptical), leaving actual deal progress as the key variable for whether this valuation framework holds up.",
+      "href": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-tesla-stock-price-target-to-500-on-spacex-potential-93CH-4779344",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Investing.com",
+        "Yahoo Finance",
+        "Insider Monkey"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1h ago",
@@ -2393,32 +2419,6 @@
       "href": "https://www.teslarati.com/tesla-looks-keen-model-y-l-united-states/",
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3d ago",
-      "pubDate": "2026-06-26T00:00:00.000Z",
-      "title": "머스크, 광통신 AI 스타트업 Mesh Optical <em>FTC 승인</em> 받아 인수 완료",
-      "hotShort": "머스크, 광통신 AI 스타트업 <em>Mesh 인수</em> FTC 최종 승인",
-      "body": "미국 FTC가 6월 25일 일론 머스크의 Mesh Optical Technologies 인수를 최종 승인했다 — SpaceX 출신이 창업한 Mesh는 초당 1.6Tbps 처리 광트랜시버 'Alpha C1'으로 AI 데이터센터 광통신 인프라를 겨냥하며, 2026년 2월 Thrive Capital 주도 $5천만 시리즈 A를 마쳤다. 머스크가 이끄는 xAI·SpaceX의 AI 컴퓨팅 인프라 강화를 위한 전략적 인수로 분석된다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-mesh-optical-ftc-acquisition-2026-06-26",
-      "summary": "머스크는 올해 들어 xAI·SpaceX·Tesla 트라이앵글 외에도 AI 인프라 레이어에서 M&A를 확대하는 행보를 보이고 있다. Mesh Optical Technologies는 그 흐름의 일환이다 — SpaceX 내부 광통신 전문가들이 독립해 창업한 이 스타트업은, 2026년 2월 Thrive Capital·Also Capital·Banner VC로부터 $5천만 시리즈 A를 유치하며 존재를 드러냈다.\n\n핵심 제품은 Alpha C1 광트랜시버다. 초당 1.6테라비트(1.6 Tbps)의 전기·광 신호 변환 처리 속도는 기존 데이터센터 광통신 모듈보다 월등히 높으며, AI 가속기(GPU 클러스터)들 사이의 고속 데이터 교환에 최적화됐다. 거대 AI 모델 훈련은 수만 개의 GPU가 초저지연으로 통신해야 하므로, 광트랜시버 성능은 AI 인프라 병목 중 하나로 부상했다.\n\nFTC는 6월 25일 반독점 검토를 조기 완료해 인수를 승인했다 — 경쟁 우려가 없다고 판단한 것이다. 인수 가격은 양측 모두 공개하지 않았다. 머스크 측의 Mesh 인수는 xAI 데이터센터(현재 멤피스 슈퍼클러스터 확장 중)와 SpaceX 스타링크 지상국의 광통신 역량 강화에 활용될 것으로 분석된다.\n\n테슬라 주주 관점에서 Mesh 인수의 직접 영향은 제한적이다. 그러나 xAI가 강화된 AI 인프라를 기반으로 Tesla FSD 훈련 파이프라인에 더 많은 컴퓨팅을 공급할 수 있다면, 간접적인 기여가 될 수 있다. 반면 머스크의 또 다른 M&A 활동이 Tesla 경영에서의 시간·에너지 분산을 심화한다는 우려도 지속된다.",
-      "href": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Bloomberg",
-        "TechCrunch",
-        "DataCenterDynamics"
-      ],
-      "sentiment": "neutral",
-      "hot": 4,
-      "title_en": "FTC Clears Musk's Acquisition of AI Optical Startup <em>Mesh Optical</em>",
-      "hotShort_en": "FTC clears Musk to buy <em>Mesh Optical</em>, AI infra play",
-      "body_en": "The FTC approved Elon Musk's acquisition of Mesh Optical Technologies on June 25, clearing the deal after determining it raised no significant antitrust concerns. Founded by former SpaceX optical engineers, Mesh's flagship product is the Alpha C1 — a 1.6 Tbps optical transceiver designed for AI data center interconnects. The company raised $50M in a February 2026 Series A led by Thrive Capital; financial terms of the acquisition were not disclosed.",
-      "summary_en": "Mesh Optical Technologies emerged from stealth in February 2026 after former SpaceX engineers who specialized in optical communications spun out to address a growing AI infrastructure bottleneck: the speed at which thousands of GPU nodes exchange data inside a training cluster. The company's Alpha C1 transceiver — rated at 1.6 terabits per second for electro-optical conversion — targets the interconnect layer where GPU performance is most often constrained in large-scale AI workloads.\n\nThe $50M Series A from Thrive Capital, Also Capital, and Banner VC in February gave the company a runway to commercialize Alpha C1. Musk's decision to acquire rather than partner likely reflects both the strategic criticality of the technology and a desire to internalize the supply chain for xAI's Memphis Supercluster, which is currently in an aggressive expansion phase.\n\nThe FTC granted antitrust clearance on June 25 without conditions, completing a fast-track review that concluded no meaningful competition concerns existed. Acquisition price was not disclosed by either party. The approval was publicly announced on June 26.\n\nFor Tesla shareholders, the direct impact is limited — Mesh addresses infrastructure for xAI and SpaceX, not Tesla's manufacturing or software stack. The indirect angle is whether a more powerful xAI compute foundation accelerates FSD neural network training, since xAI has an existing partnership to supply compute resources to Tesla. The more persistent concern for Tesla investors is Musk's expanding M&A activity across his various entities, which competes for his management bandwidth."
     }
   ],
   "asOf": "2026-07-10 10:07 KST 자동 갱신 · 최신순"
