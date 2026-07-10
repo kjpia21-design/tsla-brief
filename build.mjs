@@ -412,11 +412,11 @@ const headlineDir = (c) => {
 function renderHotNews(cards, lang = "ko", livePriceDir = null) {
   const hotOf = (c) => (typeof c.hot === "number" ? c.hot : 5);
   const byHot = (a, b) => (hotOf(b) - hotOf(a)) || (Date.parse(b.pubDate || 0) - Date.parse(a.pubDate || 0));
-  // 핫뉴스 신선도 윈도우 — 당일+전일(KST)만. (JP 요청 2026-06-15)
-  //   어제 KST 00:00 이후 카드만 핫 후보 → 6/10 같은 옛 기사가 hot 높아도 핫뉴스에서 제외(최신 뉴스 목록엔 그대로 남음).
+  // 핫뉴스 신선도 윈도우 — 발행 후 24시간 이내(경과시간 기준)만. (JP 요청 2026-07-11 — 이전의
+  //   "당일+전일 KST 달력일"(최대 48h) + 3일 폴백을 대체. 어떤 경우에도 24h 초과 카드는 노출 안 함
+  //   (2026-07-05: 폴백이 9일 전 카드를 끌어온 사고 이후, 아예 "초과 시 폴백 없음"으로 강화).
   const nowMs = Date.now();
-  const kstNow = new Date(nowMs + 9 * 3600000);
-  const freshCutoff = Date.UTC(kstNow.getUTCFullYear(), kstNow.getUTCMonth(), kstNow.getUTCDate()) - 9 * 3600000 - 24 * 3600000;  // 어제 KST 00:00 (UTC ms)
+  const freshCutoff = nowMs - 24 * 3600000;
   const inWindow = (c) => (Date.parse(c.pubDate || 0) || 0) >= freshCutoff;
   // 가격-방향 카드는 추가로 STALE_PRICE_HOURS 가드(기존).
   const baseEligible = cards.items.filter((c) => {
@@ -428,17 +428,9 @@ function renderHotNews(cards, lang = "ko", livePriceDir = null) {
     if (!priceDirection(c)) return true;
     return (nowMs - Date.parse(c.pubDate || 0)) / 3600000 <= STALE_PRICE_HOURS;
   });
-  let eligible = baseEligible.filter(inWindow);
-  // 안전장치 — 당일+전일 카드가 4건 미만인 드문 날에만 최소치 위해 그 이전 카드 보충(평소엔 전일자로만).
-  //   ⚠️ 무한정 과거로 가지 않게 최대 3일 상한(2026-07-05: 정제 파이프라인이 16h+ 멈춰 신선 후보 0건이 되자
-  //   9일 전 카드까지 hot 점수만으로 끌려 올라온 사고 — "핫뉴스는 아무리 오래되어도 최근 며칠"이라는
-  //   JP 기대를 벗어남). 3일도 못 채우면 폴백 없이 그보다 적은 건수로 노출(가짜 신선도보다 낫다).
-  const FALLBACK_MAX_AGE_MS = 3 * 24 * 3600000;
-  if (eligible.length < 4) {
-    const fallbackCutoff = nowMs - FALLBACK_MAX_AGE_MS;
-    const older = baseEligible.filter((c) => !inWindow(c) && (Date.parse(c.pubDate || 0) || 0) >= fallbackCutoff).sort(byHot);
-    eligible = eligible.concat(older.slice(0, 4 - eligible.length));
-  }
+  // 24h 이내 후보만 — 이 경계를 넘어 옛 카드를 끌어오는 폴백은 없다(가짜 신선도보다 적은 건수가 낫다).
+  //   대신 이 24h 풀 안에서는 아래 카테고리/부정론 다양성 캡을 spill 로 자동 완화해 최대한(최소 3건 목표) 채운다.
+  const eligible = baseEligible.filter(inWindow);
   const ranked = [...eligible].sort(byHot);
 
   // 톤 균형(주주·팬 배려) — 핫뉴스가 부정 일색이 되지 않게 부정(sentiment="bear") 카드를 최대 MAX_NEG 개로 제한.

@@ -588,7 +588,7 @@ function tslaSubscribe(e){
     const list = document.querySelector('.hot-news__list');
     if (!list || typeof changePct !== 'number' || Number.isNaN(changePct)) return;
     const TH = 0.5;  // 0.5% 이상 움직였을 때만 모순 판정 (장중 미세 노이즈 무시)
-    const MIN_VISIBLE = 4;   // 핫뉴스 최소 노출 — 모순 숨김으로도 이 밑으로 내려가지 않게(JP 요청)
+    const MIN_VISIBLE = 3;   // 핫뉴스 최소 노출 — 모순 숨김으로도 이 밑으로 내려가지 않게. 서버 24h 신선도 최소 목표(3건)와 동일(JP 요청 2026-07-11)
     const lis = Array.prototype.slice.call(list.querySelectorAll('li'));
     // 라이브 주가와 모순되는 가격-방향 카드 식별
     const contradicting = lis.filter(function (li) {
