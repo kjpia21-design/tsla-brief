@@ -3,6 +3,26 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-10T07:16:00.000Z",
+      "title": "테슬라, 한국에 FSD v14 Lite 출시 — <em>미국산 모델S·X만</em> 적용, 중국산 3·Y는 제외",
+      "hotShort": "테슬라 한국 FSD 출시, <em>미국산 차만 적용</em>",
+      "body": "테슬라가 하드웨어3(HW3) 얼리액세스 오너 대상으로 FSD v14 Lite를 한국에 배포하기 시작했다 — 한미 FTA로 수입되는 프리몬트산 모델S·X에만 적용되고, 한국 판매 물량 대다수인 중국산 모델3·Y는 현지 인증 규제로 <em>여전히 FSD 자체가 잠겨</em> 있어 생산지에 따라 접근권이 갈린다.",
+      "sourceName": "Chosunbiz",
+      "sourceLabel": "press",
+      "slug": "fsd-korea-v14-lite-us-made-2026-07-10",
+      "summary": "테슬라가 한국에서 FSD(완전자율주행) v14 Lite 얼리액세스 프로그램을 시작했다. 대상은 하드웨어3(HW3, 테슬라 내부 명칭 AI3) 사양 차량으로, 얼리액세스에 등록된 오너부터 순차 배포되고 있다.\n\n다만 모든 한국 테슬라 오너가 혜택을 보는 건 아니다. 이번 롤아웃은 한미 자유무역협정(FTA)에 따라 별도 쿼터로 수입되는 미국 프리몬트 공장산 모델S·모델X에만 적용된다. FTA 수입 차량은 미국 안전기준을 적용받아 한국의 별도 인증 절차 일부를 건너뛸 수 있기 때문이다.\n\n반면 한국에서 판매되는 테슬라의 대다수를 차지하는 중국 상하이 기가팩토리산 모델3·모델Y는 한국 자동차 규제상 별도 인증 요건에 막혀 이번에도 FSD 소프트웨어 자체가 잠겨 있다. 같은 '테슬라'라도 생산지에 따라 FSD 접근권이 갈리는 구조가 이어지는 셈이다.\n\n한국은 앞서 2025년 11월 하드웨어4(HW4) 모델S·X에 FSD v14를 배포하며 북미 밖에서는 처음으로 v14를 받은 시장이었다. 이번 HW3 v14 Lite 얼리액세스는 그 후속으로, 한국이 여전히 테슬라의 해외 FSD 확장에서 우선순위 시장 중 하나임을 보여준다.\n\n다만 한국 시장 전체 판매량 기준으로는 모델3·Y 비중이 압도적인 만큼, 이번 롤아웃이 당장 한국 내 FSD 구독 매출이나 사용자 경험 확대로 이어지긴 제한적이라는 지적도 나온다. 중국산 물량의 FSD 잠금 해제 여부는 한국 규제당국의 인증 절차 진전에 달려 있다.",
+      "title_en": "Tesla brings <em>FSD v14 Lite</em> to South Korea — but only for US-built Model S/X",
+      "hotShort_en": "Korea gets Tesla FSD — <em>only US-built cars</em>",
+      "body_en": "Tesla began rolling out FSD v14 Lite to Hardware 3 early-access owners in South Korea — but only for Fremont-built Model S and X imported under the Korea-US free trade agreement, while the <em>China-built Model 3 and Y</em> that make up most of Tesla's Korean fleet remain locked out of FSD under domestic certification rules.",
+      "summary_en": "Tesla has kicked off an FSD (Full Self-Driving) v14 Lite early-access program in South Korea, targeting Hardware 3 (Tesla's internal 'AI3') vehicles, with early-access enrollees receiving the update first.\n\nNot every Korean Tesla owner benefits, though. The rollout applies only to Fremont-built Model S and Model X units imported under a separate quota tied to the Korea-US Free Trade Agreement — vehicles that qualify under US safety standards and can bypass some of Korea's domestic certification requirements.\n\nThe China-built Model 3 and Model Y that make up the bulk of Tesla's Korean sales remain excluded, still blocked at the software level by Korean regulatory requirements. In effect, access to FSD now depends on where a given Tesla was built, even within the same lineup.\n\nSouth Korea was already a milestone market for Tesla's overseas FSD push — it became the first country outside North America to get FSD v14 on Hardware 4 Model S and X back in November 2025. This HW3 Lite early-access rollout extends that lead.\n\nBut because Model 3 and Y dominate Korea's Tesla sales mix, the near-term impact on subscription revenue or user reach is limited — unlocking FSD for the China-built fleet still hinges on progress with Korean regulators.",
+      "href": "https://biz.chosun.com/en/en-industry/2026/07/10/WIAUDJXLOBCVBIVKUQL6IDEICQ/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
       "pubDate": "2026-07-09T22:00:00.000Z",
       "title": "NHTSA 국장 \"무인차 <em>핸들 규정도 재검토</em>\" — 사이버캡 규제 회색지대 풀리나",
@@ -2399,27 +2419,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
-      "pubDate": "2026-06-26T07:00:42.000Z",
-      "title": "테슬라, 중국 전용 롱 휠베이스 모델 Y L <em>미국 출시</em> 검토 중",
-      "hotShort": "테슬라, 롱 휠베이스 모델 Y L <em>미국 출시</em> 검토",
-      "body": "테슬라가 현재 중국 전용으로 판매 중인 롱 휠베이스 모델 Y L을 미국 시장에 도입하기를 원하는 것으로 보인다고 Teslarati가 보도했다 — 더 넓은 실내 공간의 대형 모델 Y가 미국 라인업에 추가되면 패밀리카 수요를 추가 확보해 국내 판매에 새 모멘텀이 될 수 있다.",
-      "title_en": "Tesla reportedly keen to bring the <em>larger Model Y L</em> to the U.S.",
-      "hotShort_en": "Tesla eyes <em>Model Y L</em> for U.S. launch",
-      "body_en": "Tesla is showing keen interest in bringing the long-wheelbase Model Y L — currently sold only in China — to the U.S. market, Teslarati reports. Adding a roomier Model Y variant to the domestic lineup would give Tesla a new competitive card in the family-vehicle segment and a potential catalyst for U.S. sales.",
-      "summary": "모델 Y L은 테슬라가 중국 시장을 위해 출시한 롱 휠베이스(장축) 버전으로, 표준 모델 Y보다 차체가 길고 후방 실내 공간이 더 넓다. 지금까지 중국 전용 라인업이었으나, Teslarati에 따르면 테슬라가 이 모델을 미국에 도입하려는 강한 의지를 보이고 있다.\n\n미국 전기차 시장에서 소비자들이 더 넓은 실내 공간의 대형 SUV를 선호하는 수요는 꾸준히 존재한다. 현재 모델 Y는 컴팩트 SUV 세그먼트에 해당하며, 패밀리카로 쓰기에 뒷좌석 공간이 충분하지 않다고 느끼는 소비자들이 경쟁 브랜드의 대형 전기 SUV로 이탈하는 경우도 있다. 모델 Y L이 미국에 추가되면 이 공백을 메울 수 있다.\n\n테슬라의 미국 판매는 2025~2026년 들어 경쟁 심화와 시장 성숙 속에 압박을 받아왔다. 새로운 대형 모델 Y 라인업은 기존 고객층을 유지하면서도 현재 테슬라 라인업의 공간·스펙으로는 충족하지 못한 신규 소비자를 겨냥하는 전략적 확장이 될 수 있다. 다만 Teslarati 보도는 테슬라가 '도입하기를 원한다'는 의향 단계로, 공식 발표나 출시 일정은 아직 확인되지 않았다.",
-      "summary_en": "The Model Y L is a long-wheelbase variant designed for the Chinese market, offering more rear passenger space than the standard Model Y. Teslarati reports that Tesla is now showing keen interest in extending this model to the United States — a move that would add a roomier Model Y option to a domestic lineup that currently tops out at the standard-wheelbase version.\n\nThe product logic for a U.S. launch is clear. A segment of American EV buyers prioritizes cabin space, particularly for rear passengers, and has historically looked to larger crossovers or SUVs to meet that need. The current Model Y competes in the compact-to-midsize class; a longer-wheelbase L variant would position Tesla more directly against larger electric SUVs from rivals, potentially converting buyers who currently step outside the Tesla ecosystem for more space.\n\nTesla's U.S. vehicle sales have faced headwinds from increased competition and a maturing EV market. A new Model Y variant targeting space-conscious buyers could serve as both a customer-retention tool and a fresh demand driver. Teslarati's reporting reflects stated intent and directional signals rather than a confirmed launch announcement or production timeline — no official Tesla statement on a U.S. Model Y L has been issued.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-model-y-l-us-2026-06-26",
-      "href": "https://www.teslarati.com/tesla-looks-keen-model-y-l-united-states/",
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-10 10:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-10 18:05 KST 자동 갱신 · 최신순"
 }

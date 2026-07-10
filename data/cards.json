@@ -3,6 +3,26 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-10T07:16:00.000Z",
+      "title": "테슬라, 한국에 FSD v14 Lite 출시 — <em>미국산 모델S·X만</em> 적용, 중국산 3·Y는 제외",
+      "hotShort": "테슬라 한국 FSD 출시, <em>미국산 차만 적용</em>",
+      "body": "테슬라가 하드웨어3(HW3) 얼리액세스 오너 대상으로 FSD v14 Lite를 한국에 배포하기 시작했다 — 한미 FTA로 수입되는 프리몬트산 모델S·X에만 적용되고, 한국 판매 물량 대다수인 중국산 모델3·Y는 현지 인증 규제로 <em>여전히 FSD 자체가 잠겨</em> 있어 생산지에 따라 접근권이 갈린다.",
+      "sourceName": "Chosunbiz",
+      "sourceLabel": "press",
+      "slug": "fsd-korea-v14-lite-us-made-2026-07-10",
+      "summary": "테슬라가 한국에서 FSD(완전자율주행) v14 Lite 얼리액세스 프로그램을 시작했다. 대상은 하드웨어3(HW3, 테슬라 내부 명칭 AI3) 사양 차량으로, 얼리액세스에 등록된 오너부터 순차 배포되고 있다.\n\n다만 모든 한국 테슬라 오너가 혜택을 보는 건 아니다. 이번 롤아웃은 한미 자유무역협정(FTA)에 따라 별도 쿼터로 수입되는 미국 프리몬트 공장산 모델S·모델X에만 적용된다. FTA 수입 차량은 미국 안전기준을 적용받아 한국의 별도 인증 절차 일부를 건너뛸 수 있기 때문이다.\n\n반면 한국에서 판매되는 테슬라의 대다수를 차지하는 중국 상하이 기가팩토리산 모델3·모델Y는 한국 자동차 규제상 별도 인증 요건에 막혀 이번에도 FSD 소프트웨어 자체가 잠겨 있다. 같은 '테슬라'라도 생산지에 따라 FSD 접근권이 갈리는 구조가 이어지는 셈이다.\n\n한국은 앞서 2025년 11월 하드웨어4(HW4) 모델S·X에 FSD v14를 배포하며 북미 밖에서는 처음으로 v14를 받은 시장이었다. 이번 HW3 v14 Lite 얼리액세스는 그 후속으로, 한국이 여전히 테슬라의 해외 FSD 확장에서 우선순위 시장 중 하나임을 보여준다.\n\n다만 한국 시장 전체 판매량 기준으로는 모델3·Y 비중이 압도적인 만큼, 이번 롤아웃이 당장 한국 내 FSD 구독 매출이나 사용자 경험 확대로 이어지긴 제한적이라는 지적도 나온다. 중국산 물량의 FSD 잠금 해제 여부는 한국 규제당국의 인증 절차 진전에 달려 있다.",
+      "title_en": "Tesla brings <em>FSD v14 Lite</em> to South Korea — but only for US-built Model S/X",
+      "hotShort_en": "Korea gets Tesla FSD — <em>only US-built cars</em>",
+      "body_en": "Tesla began rolling out FSD v14 Lite to Hardware 3 early-access owners in South Korea — but only for Fremont-built Model S and X imported under the Korea-US free trade agreement, while the <em>China-built Model 3 and Y</em> that make up most of Tesla's Korean fleet remain locked out of FSD under domestic certification rules.",
+      "summary_en": "Tesla has kicked off an FSD (Full Self-Driving) v14 Lite early-access program in South Korea, targeting Hardware 3 (Tesla's internal 'AI3') vehicles, with early-access enrollees receiving the update first.\n\nNot every Korean Tesla owner benefits, though. The rollout applies only to Fremont-built Model S and Model X units imported under a separate quota tied to the Korea-US Free Trade Agreement — vehicles that qualify under US safety standards and can bypass some of Korea's domestic certification requirements.\n\nThe China-built Model 3 and Model Y that make up the bulk of Tesla's Korean sales remain excluded, still blocked at the software level by Korean regulatory requirements. In effect, access to FSD now depends on where a given Tesla was built, even within the same lineup.\n\nSouth Korea was already a milestone market for Tesla's overseas FSD push — it became the first country outside North America to get FSD v14 on Hardware 4 Model S and X back in November 2025. This HW3 Lite early-access rollout extends that lead.\n\nBut because Model 3 and Y dominate Korea's Tesla sales mix, the near-term impact on subscription revenue or user reach is limited — unlocking FSD for the China-built fleet still hinges on progress with Korean regulators.",
+      "href": "https://biz.chosun.com/en/en-industry/2026/07/10/WIAUDJXLOBCVBIVKUQL6IDEICQ/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
       "pubDate": "2026-07-09T22:00:00.000Z",
       "title": "NHTSA 국장 \"무인차 <em>핸들 규정도 재검토</em>\" — 사이버캡 규제 회색지대 풀리나",
@@ -162,33 +182,7 @@
       "href": "https://www.reuters.com/world/judge-approves-elon-musk-settlement-with-us-sec-over-twitter-disclosures-2026-07-08/",
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3d ago",
-      "pubDate": "2026-07-07T14:00:00.000Z",
-      "title": "RBC, 테슬라 목표주가 $475→$500 상향 — <em>스페이스X 인수설 첫 가격모델 반영</em>",
-      "hotShort": "RBC, 테슬라 목표주가 <em>$500</em>로 상향 — 합병설 반영",
-      "body": "RBC캐피탈 애널리스트 톰 나라얀이 테슬라 목표주가를 $475에서 $500으로 상향하고 투자의견 '아웃퍼폼'을 유지했다 — 스페이스X의 테슬라 인수 시나리오(전액주식·20~30% 프리미엄)에 처음으로 확률을 부여해 정식 가격모델에 반영한 것으로, <em>합병설이 추측 단계를 넘어 월가 밸류에이션 틀 안으로</em> 들어왔다는 신호다.",
-      "sourceName": "Investing.com",
-      "sourceLabel": "press",
-      "slug": "stock-rbc-price-target-500-spacex-merger-2026-07-07",
-      "summary": "이번 주 스페이스X·테슬라 합병설을 둘러싼 월가 반응은 대체로 '가능성은 있지만 아직 확정된 건 아니다'는 선에서 조심스러웠는데, RBC캐피탈은 여기서 한 걸음 더 나갔다.\n\nRBC 애널리스트 톰 나라얀은 테슬라 목표주가를 기존 $475에서 $500으로 올리며 투자의견 '아웃퍼폼'을 유지했다. 합병 시나리오를 제외한 테슬라 단독 밸류에이션은 $435로 제시했고, 로보택시 사업 가치는 20% 상향해 '테슬라의 가장 견고한 기회'로 평가하며 잠재 시장(TAM) 규모를 $4.2조로 추산했다. 7월 7일 기준 테슬라 주가($419.77)와 비교하면 신규 목표주가는 약 19%의 상승 여력을 시사한다.\n\n나라얀은 스페이스X 인수 시나리오가 아직 확인되지 않은 언론 보도에 근거한 것이라고 명확히 선을 그으면서도, 확률을 가중한 프리미엄(20~30%)을 목표주가에 반영했다고 밝혔다. 그가 그린 가장 가능성 높은 딜 구조는 스페이스X가 테슬라를 전액 주식 거래로 인수하는 형태로, 시너지 근거로는 자체 반도체 생산, 데이터센터용 메가팩 공급, AI 학습·차량관리 협업 등을 들었다.\n\n앞서 레이먼드제임스($800)·씨티(낙관 시나리오 $900)가 내놓은 목표주가는 스페이스X 자체 밸류에이션이었던 반면, RBC의 이번 상향은 테슬라 주가에 합병 프리미엄을 직접 얹은 첫 사례라는 점에서 결이 다르다. 합병설에 대한 월가의 시각차(JP모건 '이론상 타당' vs BNP파리바 '회의적')는 여전히 남아 있어, 실제 협상 진전 여부가 이번 밸류에이션의 실현 가능성을 가를 변수로 꼽힌다.",
-      "title_en": "RBC lifts Tesla price target to <em>$500</em> from $475 — first to bake in a SpaceX merger premium",
-      "hotShort_en": "RBC lifts Tesla PT to <em>$500</em> on merger scenario",
-      "body_en": "RBC Capital analyst Tom Narayan raised his Tesla price target from $475 to $500, keeping an Outperform rating — the first Wall Street model to formally assign a probability-weighted premium (20-30%, all-stock) to a potential SpaceX acquisition of Tesla, moving the <em>merger speculation from talk into an actual pricing framework</em>.",
-      "summary_en": "Wall Street's reaction to Tesla-SpaceX merger speculation this week has mostly stayed cautious — plausible, but far from confirmed. RBC Capital went a step further.\n\nAnalyst Tom Narayan raised his Tesla price target from $475 to $500, maintaining an Outperform rating. Excluding any merger scenario, he pegs Tesla's standalone value at $435, and raised the value he assigns to Tesla's robotaxi business by 20%, calling it 'currently Tesla's most robust opportunity' with an estimated total addressable market of $4.2 trillion. Against Tesla's July 7 reference price of $419.77, the new target implies roughly 19% upside.\n\nNarayan was explicit that the SpaceX scenario rests on unconfirmed media reports, not a done deal — but he still layered a probability-weighted premium of 20-30% into the target. His most likely deal structure: an all-stock transaction in which SpaceX acquires Tesla, with the rationale centered on proprietary chip manufacturing, Megapacks for data-center power needs, and collaborative AI training and fleet-management services.\n\nThat's a different animal from Raymond James's $800 and Citi's $900 bull-case targets, which valued SpaceX itself — RBC's move is the first to attach a merger premium directly to Tesla's own share price. Wall Street remains split on feasibility (JPMorgan calling it 'coherent on paper,' BNP Paribas skeptical), leaving actual deal progress as the key variable for whether this valuation framework holds up.",
-      "href": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-tesla-stock-price-target-to-500-on-spacex-potential-93CH-4779344",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Investing.com",
-        "Yahoo Finance",
-        "Insider Monkey"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-10 12:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-10 18:05 KST 자동 갱신 · 최신순"
 }
