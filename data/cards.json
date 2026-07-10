@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-10T16:55:43.000Z",
+      "title": "일론 머스크 \"앤트로픽에 대해 <em>완전히 틀렸다</em>\" — AI 선두주자로 인정",
+      "hotShort": "머스크 \"앤트로픽에 <em>완전히 틀렸다</em>\" 인정",
+      "body": "일론 머스크가 X에서 앤트로픽을 두고 \"그들이 현재 AI 분야 선두주자임이 분명하다\"며 과거 회의적 시각이 <em>완전히 틀렸다</em>고 인정했다 — 스페이스XAI와 앤트로픽 간 GPU 임대 계약이 이어지는 가운데, 경쟁사라도 컴퓨팅 자원을 끊지 않겠다고 약속해 AI 인프라 공급망에서의 신뢰 신호로 읽힌다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-anthropic-clearly-wrong-2026-07-10",
+      "summary": "일론 머스크는 지난해 9월 앤트로픽에 대해 \"이 회사가 AI 경쟁에서 이길 가능성 자체가 없었다\"는 취지로 회의적인 입장을 밝힌 바 있다. 이번엔 정반대로 돌아섰다.\n\n머스크는 X에 \"내가 분명히 틀렸다\"며 \"앤트로픽이 현재 AI 분야에서 선두를 달리고 있다는 게 명백하다\"고 적었다. 그는 \"어떤 회사도 (앤트로픽의) Mythos/Fable만큼 좋은 모델을 내놓지 못했고, 곧 Mythos 2도 준비될 것\"이라고 평가했다.\n\n이번 발언은 머스크의 AI 인프라 벤처 스페이스XAI와 앤트로픽 사이에 지난 5월 체결된 단기 GPU 임대 계약이 이어지는 가운데 나왔다. 머스크는 경쟁사라 해도 \"그들에게 심각한 타격을 줄 방식으로 끊는 일은 절대 없을 것\"이라며 컴퓨팅 자원 공급을 계속하겠다고 약속했다.\n\n테슬라 주주에게 이 발언이 직접적인 실적 신호는 아니지만, 머스크가 운영하는 AI 인프라 사업(스페이스XAI)이 경쟁사에도 컴퓨팅을 안정적으로 공급하는 파트너로 자리잡고 있다는 점, 그리고 그가 라이벌의 기술력을 공개적으로 인정할 만큼 AI 경쟁 구도가 빠르게 재편되고 있다는 점은 테슬라의 AI·컴퓨팅 전략(도조, FSD 등)과 맞물려 참고할 만한 배경이다.",
+      "title_en": "Elon Musk admits he was <em>completely wrong</em> about Anthropic, calls it the AI leader",
+      "hotShort_en": "Musk admits he was <em>wrong</em> about Anthropic",
+      "body_en": "Elon Musk wrote on X that he was <em>completely wrong</em> about Anthropic, now calling it \"obviously the current leader in AI\" — the reversal comes as SpaceXAI's GPU lease deal with Anthropic continues, with Musk pledging not to cut off compute access even to a rival.",
+      "summary_en": "Last September, Elon Musk was openly skeptical of Anthropic, suggesting the company never had a real shot at winning the AI race. This week he reversed course entirely.\n\nMusk wrote on X, \"I was clearly wrong,\" adding that Anthropic is \"obviously currently the leader in AI.\" He said no company has released a model as good as Anthropic's Mythos/Fable, and that Mythos 2 would be ready soon.\n\nThe comments come as a short-term GPU lease agreement between Musk's AI infrastructure venture SpaceXAI and Anthropic, initiated in May, continues to run. Musk said he would \"never cut them off in a way that hurt them badly, even as a competitor,\" pledging to keep supplying compute.\n\nFor Tesla shareholders, the remarks aren't a direct financial signal, but they're a data point on how Musk's AI infrastructure business is positioning itself as a reliable compute partner even to rivals — and how fast the AI competitive landscape is shifting, a backdrop relevant to Tesla's own AI and compute strategy around Dojo and FSD.",
+      "href": "https://www.teslarati.com/elon-musk-admits-he-was-clearly-wrong-about-anthropic/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Teslarati",
+        "Benzinga",
+        "TechCrunch",
+        "Washington Examiner"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-10T15:50:44.000Z",
+      "title": "뉴스트리트리서치 애널리스트 \"테슬라 FSD, <em>아이폰 모먼트</em> 임박\" — \"2개 분기만 더 지켜봐달라\"",
+      "hotShort": "애널리스트 \"FSD, <em>아이폰 모먼트</em> 임박\"",
+      "body": "뉴스트리트리서치의 피에르 페라구 애널리스트가 테슬라 FSD가 <em>'아이폰 모먼트'</em>를 앞두고 있다고 평가했다 — \"테슬라는 아이폰이 단순한 전화기가 아니었듯 단순한 자동차가 아니다\"라며, 앞으로 2개 분기 안에 시장의 인식이 바뀔 변곡점이 올 것으로 봤다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "stock-fsd-iphone-moment-ferragu-2026-07-10",
+      "summary": "이번 주 월가에서는 테슬라 밸류에이션을 둘러싼 신중론(씨티즌스·배런스 등)과 낙관론(UBS 목표주가 상향)이 동시에 쏟아졌는데, 뉴스트리트리서치의 피에르 페라구 애널리스트는 FSD를 근거로 한 낙관론에 무게를 실었다.\n\n페라구는 \"테슬라는 아이폰이 단순한 전화기가 아니었던 것처럼 단순한 자동차가 아니다\"라며, 아이폰 초창기 높은 가격표가 '전화기치고 비싸다'는 인식에서 시작해 결국 '전화기 그 이상'이라는 재평가로 이어졌던 과정에 테슬라 FSD를 비유했다.\n\n그는 테슬라가 변곡점(inflection point)에 다가서고 있다고 보면서도, \"앞으로 2개 분기만 더 지켜봐 달라\"며 구체적으로 어떤 변화가 일어날지는 밝히지 않았다 — 그 기간이 지나면 방향성이 더 뚜렷해질 것이라는 취지다.\n\n페라구는 오랫동안 테슬라를 커버해온 애널리스트로, 7월22일 2분기 실적 발표를 앞두고 로보택시·옵티머스 확장에 신중한 시각을 보인 씨티즌스·배런스와 달리 FSD의 장기 잠재력에 무게를 싣는 대조적인 시각을 내놓은 셈이다.",
+      "title_en": "New Street Research analyst says Tesla FSD is nearing its <em>iPhone moment</em> — \"give us two more quarters\"",
+      "hotShort_en": "Analyst: Tesla FSD nearing its <em>iPhone moment</em>",
+      "body_en": "New Street Research analyst Pierre Ferragu says Tesla's FSD is approaching an <em>'iPhone moment'</em> — \"a Tesla is not a car, the same way an iPhone was not a phone,\" he said, expecting market perception to shift within the next two quarters.",
+      "summary_en": "Wall Street's Tesla debate split this week between caution (Citizens, Barron's) and optimism (UBS's price-target hike), and New Street Research's Pierre Ferragu weighed in on the bullish side, grounding his case in FSD.\n\nFerragu argued \"a Tesla is not a car, the same way an iPhone was not a phone,\" comparing FSD to the iPhone's early days, when its high price tag seemed steep for 'just a phone' before the market realized it was something more.\n\nHe said Tesla is nearing an inflection point but didn't specify what exactly would change, only asking investors to \"give us two more quarters\" to see where things are heading.\n\nA longtime Tesla-covering analyst, Ferragu's framing stands in contrast to Citizens and Barron's caution on Robotaxi and Optimus valuations this same week, putting his weight instead behind FSD's long-term potential ahead of the July 22 Q2 earnings report.",
+      "href": "https://www.teslarati.com/tesla-analyst-full-self-driving-iphone-moment/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "26m ago",
@@ -19,6 +71,32 @@
       "href": "https://cnevpost.com/2026/07/10/tesla-files-new-model-y-variant-china/",
       "sentiment": "neutral",
       "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-10T14:01:00.000Z",
+      "title": "일론 머스크 \"스페이스X, <em>목표 달성 시 지구 전체보다 가치있을 것</em>\"",
+      "hotShort": "머스크 \"스페이스X, <em>지구보다 가치있을 것</em>\"",
+      "body": "일론 머스크가 X에서 \"우리 목표를 달성하면 스페이스X는 <em>지구의 나머지 전체보다 가치있게 될 것</em>\"이라고 밝혔다 — 궤도 제조·소행성 채굴·화성 식민지 등 지구 밖 경제권 구상을 전제로 한 발언으로, 스페이스X 상장 한 달 만에 밸류에이션 논쟁에 다시 불을 붙였다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-worth-more-than-earth-2026-07-10",
+      "summary": "일론 머스크가 스페이스X의 장기 가치에 대해 그동안 나온 어떤 발언보다 과감한 주장을 내놨다.\n\n머스크는 X에 \"우리가 목표를 달성한다면 스페이스X는 지구의 나머지 전체를 합친 것보다 가치있어질 것\"이라고 적었다. 이 발언은 앤트로픽과 스페이스X-xAI 간 컴퓨팅 자원 거래(보도에 따르면 75억~400억 달러 규모)를 둘러싼 온라인 논쟁 도중 나왔다.\n\n머스크의 주장은 스페이스X가 단순한 로켓·위성 기업을 넘어, 궤도 제조·소행성 채굴·화성 식민지 건설까지 아우르는 다행성 경제의 설계자가 되는 시나리오를 전제로 한다 — 다시 말해 아직 존재하지 않는 시장, 고객, 통화, 규제기관을 상정한 장기 비전이다.\n\n스페이스X는 6월12일 주당 $135로 상장해 860억 달러를 조달하며 사상 최대 IPO를 기록했고 상장 첫날 시가총액 약 2.1조 달러를 찍었다. 테슬라 주주 입장에서는 머스크가 스페이스X의 밸류에이션 상단을 이렇게까지 밀어붙이는 발언이, 테슬라·스페이스X 합병설이 계속 도는 상황에서 협상 기준점을 둘러싼 불확실성을 한층 키우는 요인으로 볼 수 있다.",
+      "title_en": "Elon Musk: SpaceX will be <em>worth more than the rest of Earth</em> if goals are met",
+      "hotShort_en": "Musk: SpaceX could be <em>worth more than Earth</em>",
+      "body_en": "Elon Musk wrote on X that \"SpaceX will be worth more than the rest of Earth\" if the company achieves its goals — a claim built on visions of orbital manufacturing, asteroid mining, and Mars colonies, reigniting valuation debate just a month after SpaceX's IPO.",
+      "summary_en": "Elon Musk made his boldest claim yet about SpaceX's long-term value.\n\nHe wrote on X that \"SpaceX will be worth more than the rest of Earth\" if the company accomplishes its goals. The comment came amid online debate over a reported $7.5 billion to $40 billion compute deal between Anthropic and SpaceX-xAI.\n\nMusk's claim rests on SpaceX evolving beyond rockets and satellites into the architect of a multiplanetary economy — orbital manufacturing, asteroid mining, and Mars colonies — markets, customers, currencies, and regulators that don't exist yet.\n\nSpaceX priced its IPO at $135 a share on June 12, raising $86 billion in the largest IPO ever and hitting roughly $2.1 trillion in market value on its debut trading day. For Tesla shareholders, Musk pushing SpaceX's valuation ceiling this aggressively adds another layer of uncertainty to the reference point for any Tesla-SpaceX merger talks, which continue to circulate.",
+      "href": "https://www.barrons.com/articles/elon-musk-spacex-stock-worth-more-earth-cebedeeb",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Barron's",
+        "Futurism",
+        "TheStreet"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
     },
     {
       "category": "musk",
@@ -66,6 +144,31 @@
       "hot": 4
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
+      "pubDate": "2026-07-10T11:00:01.000Z",
+      "title": "스페이스X 상장 한 달, 테슬라 주가는 <em>제자리 지켜</em> — 우려했던 '식인' 없었다",
+      "hotShort": "스페이스X 상장 한 달, 테슬라 <em>주가 제자리</em>",
+      "body": "스페이스X가 6월12일 사상 최대 규모로 상장한 지 한 달이 지났지만, 테슬라 주가는 상장 당일 종가 $406.43과 거의 같은 수준을 유지하고 있다 — 스페이스X가 머스크의 투자 관심·자금을 빼앗아 테슬라에 타격을 줄 것이라던 상장 전 우려가 한 달 만에는 현실화하지 않은 모습이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "stock-spacex-ipo-month-tesla-holding-2026-07-10",
+      "summary": "스페이스X 상장을 앞두고 월가 일각에서는 이 초대형 IPO가 테슬라에 '실존적 위협'이 될 수 있다는 경고가 나왔다 — 머스크의 관심과 자금이 테슬라에서 스페이스X로 옮겨갈 것이라는 우려였다.\n\n한 달이 지난 지금, 결과는 그렇게 명확하지 않다. 테슬라 주가는 스페이스X 상장 당일인 6월12일 $399.49로 출발해 $406.43으로 마감했고, 최근에도 $406.55 수준을 유지하며 큰 변동 없이 버티고 있다.\n\n스페이스X 주가 자체도 상장 초반 급등했다가 빠르게 되밀렸다 — $135 공모가에서 첫 거래 $150으로 출발한 뒤 한때 $150 아래로 밀렸고, 최근 종가는 $152.16 수준이다. 요란했던 관심에 비해 실제 주가 흐름은 비교적 잠잠했다는 평가다.\n\n테슬라 주주 입장에서는 상장 전 우려됐던 '스페이스X가 테슬라 투자자금을 빨아들인다'는 시나리오가 적어도 한 달 시점까지는 뚜렷하게 나타나지 않았다는 점이 안도 요인이지만, 두 종목 모두 아직 단기 데이터인 만큼 장기 추세는 더 지켜봐야 한다.",
+      "title_en": "A month after SpaceX's IPO, Tesla stock is <em>holding its ground</em>",
+      "hotShort_en": "Tesla stock <em>holds steady</em> a month after SpaceX IPO",
+      "body_en": "A month after SpaceX's record-breaking June 12 IPO, Tesla shares are trading close to that day's $406.43 close — the pre-IPO fear that SpaceX would drain Musk's attention and capital away from Tesla hasn't clearly played out one month in.",
+      "summary_en": "Ahead of SpaceX's IPO, some on Wall Street warned the mega-offering could pose an 'existential threat' to Tesla — the concern being that Musk's attention and capital would shift from Tesla toward SpaceX.\n\nA month later, the picture isn't so clear-cut. Tesla opened at $399.49 on June 12, the day of SpaceX's IPO, closed that day at $406.43, and has recently been trading around $406.55 — holding steady with little drama.\n\nSpaceX's own stock spiked early and quickly cooled. It priced at $135 and opened trading at $150, later dipping below that level before settling around $152.16 in recent trading — a relatively quiet outcome given all the attention around the deal.\n\nFor Tesla shareholders, the reassuring takeaway is that the feared scenario — SpaceX siphoning investor capital away from Tesla — hasn't clearly materialized one month in, though both stocks still have a short track record and the longer-term trend remains to be seen.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "The Edge Malaysia"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "",
@@ -91,110 +194,7 @@
       ],
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-07-09T22:00:00.000Z",
-      "title": "NHTSA 국장 \"무인차 <em>핸들 규정도 재검토</em>\" — 사이버캡 규제 회색지대 풀리나",
-      "hotShort": "NHTSA \"무인차 <em>핸들 의무 재검토</em>\" 시사",
-      "body": "美 NHTSA 국장 조너선 모리슨이 CNBC 인터뷰에서, 사람이 운전하도록 설계되지 않은 차량에 핸들·페달 등 수동 조작장치를 의무화한 규정을 \"당연히(absolutely)\" 재검토할 수 있다고 밝혔다 — 핸들·페달이 없는 테슬라 <em>사이버캡의 연방 안전기준 회색지대</em>가 풀릴 신호로, 지난달 브레이크 페달 의무 폐지에 이은 두 번째 규제 완화 움직임이다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "fsd-nhtsa-steering-wheel-review-2026-07-09",
-      "summary": "테슬라 사이버캡은 핸들도 페달도 없는 2인승 전용 로보택시로 설계됐지만, 현행 연방자동차안전기준(FMVSS)은 수동 조작장치를 원칙적으로 요구해 그동안 규제 회색지대에 놓여 있었다.\n\nNHTSA 국장 조너선 모리슨은 CNBC 인터뷰에서 \"사람이 운전하도록 설계되지 않은 차량이라면 수동 조작장치를 요구하는 게 말이 안 된다\"며, 핸들·페달 의무화 규정을 재검토할 의사가 \"당연히(absolutely)\" 있다고 밝혔다. 구체적인 시행 시점이나 절차는 언급하지 않았다.\n\n이번 발언은 지난달 NHTSA가 무인 자율주행차의 수동 브레이크 페달 의무를 없애는 방향으로 연방 안전기준을 개정한 데 이은 후속 신호다. 트럼프 행정부 들어 무인차 규제를 완화하려는 흐름이 이어지고 있다는 평가다.\n\nNHTSA는 이달 말까지 무인차 개발사들과 회의를 열어 해결책을 논의하겠다고 예고한 바 있는데(앞선 응급대응 방해 경고와 같은 일정), 핸들 규정 재검토가 이 논의에 포함될지는 불확실하다. 다만 사이버캡처럼 처음부터 사람 운전을 전제하지 않은 차량이 양산·상용화 단계로 넘어가려면 이 규정 자체가 가장 큰 걸림돌 중 하나였던 만큼, 테슬라로서는 로보택시 확장의 법적 걸림돌 하나가 줄어드는 신호로 받아들여질 수 있다.",
-      "title_en": "NHTSA chief signals openness to <em>reviewing steering-wheel mandate</em> for driverless cars",
-      "hotShort_en": "NHTSA open to <em>ending steering-wheel rule</em>",
-      "body_en": "NHTSA Administrator Jonathan Morrison told CNBC the agency would \"absolutely\" consider ending the requirement that vehicles not designed for human drivers carry a steering wheel and pedals — a potential opening for Tesla's Cybercab, which has neither, following last month's move to drop the mandatory brake-pedal rule for driverless vehicles.",
-      "summary_en": "Tesla's Cybercab was designed as a two-seat, purpose-built robotaxi with no steering wheel and no pedals — but existing Federal Motor Vehicle Safety Standards generally require manual controls, leaving the vehicle in a regulatory gray zone.\n\nNHTSA Administrator Jonathan Morrison said in a CNBC interview that requiring manual controls \"doesn't make any sense\" for vehicles that are never meant to be driven by a human, and that the agency would \"absolutely\" consider revisiting the steering-wheel mandate. He didn't specify a timeline or process.\n\nThe comments follow NHTSA's move last month to update federal safety standards and drop the mandatory brake-pedal requirement for driverless vehicles — part of a broader effort under the Trump administration to loosen rules for autonomous cars.\n\nNHTSA has also said it will hold meetings with driverless-vehicle developers by the end of July (the same timeline tied to its recent warning about AVs interfering with emergency responders), though it's unclear whether the steering-wheel review will be part of those talks. Still, for a vehicle like Cybercab that was never designed around a human driver, this rule has been one of the biggest regulatory hurdles to mass production — and its potential loosening removes one legal obstacle from Tesla's robotaxi expansion path.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-09/us-to-explore-allowing-driverless-cars-without-steering-wheels",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Bloomberg",
-        "CNBC",
-        "Seeking Alpha"
-      ],
-      "sentiment": "bull",
-      "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-07-09T19:54:52.000Z",
-      "title": "테슬라 마이애미 로보택시, <em>출시 첫날부터 안전요원 없이 무인 운행</em> 확인",
-      "hotShort": "마이애미 로보택시 <em>출시 첫날부터 완전 무인</em>",
-      "body": "테슬라 AI 총괄 아쇽 엘루스와미가 마이애미 로보택시 차량에 세이프티 모니터도, 운전석의 사람도 전혀 없다고 직접 확인했다 — 오스틴·댈러스·휴스턴·베이에어리어는 안전요원 동승 단계를 수개월 거친 뒤 무인 전환했지만, 마이애미는 7월3일 서비스 개시와 동시에 그 단계를 건너뛴 첫 사례로 FSD에 대한 테슬라의 자신감이 한 단계 올라간 신호로 읽힌다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-miami-robotaxi-unsupervised-day-one-2026-07-09",
-      "summary": "마이애미 로보택시를 둘러싼 관심은 그동안 '텍사스·캘리포니아 밖 첫 확장'이라는 지리적 의미에 쏠려 있었지만, 이번엔 운영 방식 자체에서 더 중요한 사실이 확인됐다.\n\n테슬라 AI 소프트웨어 담당 부사장 아쇽 엘루스와미는 소셜미디어에서 마이애미 차량이 조수석 세이프티 모니터는 물론 운전석에도 사람이 전혀 없는 상태로 운행 중이라고 직접 확인했다. 마이애미는 7월3일 로보택시 서비스를 시작했다.\n\n이는 테슬라의 기존 확장 패턴과 다르다. 2025년 6월 오스틴에서 상업 서비스를 시작했을 때는 수개월간 모든 차량에 세이프티 모니터가 동승했고, 4월 출시한 댈러스·휴스턴, 샌프란시스코 베이에어리어도 비슷하게 단계적으로 무인 전환을 거쳤다. 마이애미는 그 과정을 통째로 생략하고 첫날부터 완전 무인으로 운행을 시작한 첫 신규 도시다.\n\n테슬라는 이를 1년 넘게 쌓은 실주행 데이터를 바탕으로 FSD 소프트웨어에 대한 자신감이 커졌다는 신호로 내세우고 있다. 다만 신규 도시에서 안전요원 단계를 아예 건너뛴 전례가 없었던 만큼, 향후 사고·규제 대응 시 테슬라가 그만큼 더 큰 책임 부담을 질 수 있다는 지적도 나온다.",
-      "title_en": "Tesla confirms Miami Robotaxi ran <em>driverless from day one</em>, skipping the safety-monitor phase",
-      "hotShort_en": "Miami Robotaxi <em>driverless since launch day</em>",
-      "body_en": "Tesla's VP of AI software Ashok Elluswamy confirmed Miami Robotaxi vehicles are running with no safety monitor and no human in the driver's seat at all — unlike Austin, Dallas, Houston and the Bay Area, which each spent months with safety monitors before going driverless, Miami skipped that phase entirely from its July 3 launch, a sign of Tesla's growing confidence in FSD.",
-      "summary_en": "Attention on Miami Robotaxi has mostly focused on its geography — the first expansion outside Texas and California — but this time, a more important operational fact has come to light.\n\nTesla VP of AI Software Ashok Elluswamy confirmed on social media that Miami vehicles are running with no safety monitor in the passenger seat and no human in the driver's seat at all. Miami's Robotaxi service launched on July 3.\n\nThat breaks from Tesla's earlier rollout pattern. When commercial service began in Austin in June 2025, every vehicle carried a safety monitor for months before going driverless; Dallas and Houston, launched in April, and the San Francisco Bay Area followed similarly phased transitions. Miami is the first new city where Tesla skipped that phase entirely and launched fully driverless from day one.\n\nTesla is framing this as a sign of growing confidence in FSD software built on more than a year of real-world driving data. But with no precedent for skipping the safety-monitor phase in a brand-new city, some note Tesla is also taking on greater liability exposure if incidents or regulatory scrutiny follow.",
-      "href": "https://www.teslarati.com/tesla-confirms-crucial-detail-miami-robotaxi-launch/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Teslarati",
-        "Drive Tesla Canada",
-        "The Next Web"
-      ],
-      "sentiment": "bull",
-      "hot": 7
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4m ago",
-      "pubDate": "2026-07-09T17:57:22.000Z",
-      "title": "UBS, 테슬라 목표주가 $364→$442로 <em>21% 상향</em> — 로보틱스·피지컬AI 재평가",
-      "hotShort": "UBS, 테슬라 목표주가 <em>21% 상향</em> $442로",
-      "body": "UBS 애널리스트 조지프 스팩이 테슬라 목표주가를 $364에서 $442로 21% 상향했다 — 차량 판매·마진이 아닌 옵티머스·FSD·도조(Dojo) 등 <em>피지컬AI·로보틱스 장기 가치</em>를 새로 반영한 결과로, 같은 주 로보택시·옵티머스에 신중론을 편 씨티즌스와 정반대 시각이 나왔다.",
-      "sourceName": "FXLeaders",
-      "sourceLabel": "press",
-      "slug": "stock-ubs-price-target-442-robotics-2026-07-09",
-      "summary": "이번 주 테슬라를 둘러싼 월가 시각이 극단으로 갈리고 있다. 앞서 씨티즌스가 로보택시·옵티머스 밸류에이션이 시기상조라며 '마켓퍼폼(중립)'으로 첫 커버리지를 시작한 지 몇 시간 만에, UBS는 정반대로 목표주가를 대폭 끌어올렸다.\n\nUBS 애널리스트 조지프 스팩은 테슬라 목표주가를 기존 $364에서 $442로 21% 상향했다. 그는 차량 판매량·마진 같은 전통적 자동차 지표가 아니라, 옵티머스 휴머노이드 로봇 프로그램과 FSD, 자체 AI 슈퍼컴퓨터 도조(Dojo)의 장기 가치를 새로 반영했다고 밝혔다.\n\n이는 테슬라를 자동차 회사가 아닌 '피지컬AI' 기업으로 재평가하려는 흐름의 연장선이다 — 목표주가 상향은 분기 실적 개선이 아니라 로봇·자율주행 인프라에 대한 장기 밸류에이션 프레임워크 조정에서 비롯됐다는 점이 특징적이다.\n\n이날 테슬라 주가는 장중 1.5%가량 상승하며 UBS 발표에 반응했다(장중 수치로, 종가 기준 아님). 씨티즌스의 신중론과 UBS의 낙관론이 같은 주 나란히 나오면서, 7월22일 2분기 실적 발표를 앞두고 로보택시·옵티머스 로드맵에 대한 월가의 시각차가 더 뚜렷해지고 있다.",
-      "title_en": "UBS lifts Tesla price target <em>21%</em> to $442 from $364 — repricing robotics, physical AI",
-      "hotShort_en": "UBS lifts Tesla PT <em>21%</em> to $442",
-      "body_en": "UBS analyst Joseph Spak raised his Tesla price target from $364 to $442, a 21% increase — crediting long-term value in Optimus, FSD and Dojo rather than near-term vehicle sales or margins, a starkly bullish counterpoint to Citizens' same-week caution on Robotaxi and Optimus valuations.",
-      "summary_en": "Wall Street's view of Tesla split sharply this week. Hours after Citizens initiated coverage at Market Perform, warning Robotaxi and Optimus valuations were running ahead of reality, UBS moved in the opposite direction with a sizable price-target hike.\n\nUBS analyst Joseph Spak lifted his Tesla target from $364 to $442, a 21% increase. He said the move reflects long-term value in the Optimus humanoid robot program, FSD, and Tesla's in-house AI supercomputer Dojo — not traditional auto metrics like vehicle sales or margins.\n\nIt's part of a broader repricing of Tesla as a 'physical AI' company rather than a traditional automaker — notably, the target hike stems from a long-term valuation framework shift around robotics and autonomy infrastructure, not a quarterly earnings beat.\n\nTesla shares rose about 1.5% intraday on the news (an intraday figure, not a closing price). With Citizens' caution and UBS's optimism landing in the same week, the Wall Street divide over Tesla's Robotaxi and Optimus roadmap is sharpening ahead of the July 22 Q2 earnings report.",
-      "href": "https://www.fxleaders.com/news/2026/07/09/tesla-stock-tsla-reclaims-400-on-ubs-upgrade-as-wall-street-bets-on-robotics/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "FXLeaders",
-        "GuruFocus",
-        "MarketScreener"
-      ],
-      "sentiment": "bull",
-      "hot": 6
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-07-09T12:31:48.000Z",
-      "title": "씨티즌스, 테슬라에 '마켓퍼폼' 개시 — <em>로보택시·옵티머스 밸류에이션 너무 이르다</em> 경고",
-      "hotShort": "씨티즌스 \"로보택시·옵티머스 <em>밸류에이션 너무 일러</em>\"",
-      "body": "씨티즌스가 테슬라 커버리지를 '마켓퍼폼(중립)'으로 개시하며, 로보택시·옵티머스에 대한 시장 기대가 실제 상용화 시점보다 앞서 있다고 경고했다 — 같은 주 배런스·IBD 등도 비슷한 신중론을 내놓으며, 7월22일 2분기 실적 발표를 앞두고 AI 서사에 대한 월가의 눈높이 조정 신호로 읽힌다.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "stock-citizens-market-perform-optimus-robotaxi-2026-07-09",
-      "summary": "이번 주 들어 월스트리트에서 테슬라의 AI·자율주행 스토리에 대한 신중론이 잇따르고 있다. 배런스는 'AI 잠재력은 방대하지만 사기엔 이르다'는 취지의 기사를, IBD는 '로보택시·옵티머스 기회가 당분간 투자자를 실망시킬 것'이라는 분석을 내놨고, 같은 날 씨티즌스는 테슬라에 대한 첫 커버리지를 '마켓퍼폼(중립)' 의견으로 개시했다.\n\n씨티즌스는 옵티머스·로보택시를 향한 밸류에이션 기대가 '실제 두 제품이 회사 실적에 기여하는 시점보다 너무 이른 상용화'를 전제로 하고 있다고 지적했다. 특히 로보택시에 대해서는 카메라만 쓰는 테슬라의 자율주행 방식이 라이다·레이더·슈퍼컴퓨터를 병행하는 경쟁 시스템만큼 효과적이지 않을 수 있다며, 사고가 늘어나면 서비스 중단 같은 책임 리스크로 이어질 수 있다고 경고했다.\n\n옵티머스에 대해서도 '거대한 비전이지만 실현엔 시간이 걸린다'며, 생산 복잡도가 높아지고 지연·추가 지출이 이어지는 '투자 초기 국면'으로 진단했다.\n\n이 같은 신중론은 테슬라의 2분기 실적 자체를 겨냥한 것은 아니다 — 2분기 인도량은 이미 48만126대로 컨센서스(약 40만6천대)를 크게 웃돌았다. 관건은 7월22일(현지시간) 예정된 2분기 실적 발표에서 로보택시·옵티머스 확장 로드맵에 대해 회사가 얼마나 구체적인 시점을 제시하느냐다.",
-      "title_en": "Citizens initiates Tesla at Market Perform — warns <em>Robotaxi, Optimus valuation is too early</em>",
-      "hotShort_en": "Citizens: Tesla AI <em>valuation too early</em>",
-      "body_en": "Citizens began coverage of Tesla with a Market Perform rating, warning that valuation expectations for Robotaxi and Optimus assume a commercialization timeline sooner than reality — a caution echoed this week by Barron's and IBD, and it lands just ahead of Tesla's July 22 Q2 earnings report.",
-      "summary_en": "Wall Street caution around Tesla's AI and autonomy story piled up this week. Barron's argued the stock has 'immense' AI potential but isn't a buy yet, IBD wrote that Robotaxi and Optimus opportunities will disappoint investors 'for now,' and on the same day Citizens initiated its first-ever coverage of Tesla at Market Perform (neutral).\n\nCitizens said the optimism priced into Tesla's valuation for Optimus and Robotaxi implies a launch timeline that's too near-term for both products. On Robotaxi specifically, the firm doubts Tesla's camera-only approach can match rival systems that combine lidar, radar and cameras — and expects meaningfully more incidents, which could create liability issues or force service pauses.\n\nOn Optimus, Citizens called it a 'grand vision' that will take time, describing Tesla as still in the early innings of an investment cycle marked by rising production complexity, delays, and higher spending.\n\nThe caution isn't about Tesla's underlying Q2 results — deliveries already came in at 480,126, well above the roughly 406,000 consensus. The real test is how specific Tesla gets about its Robotaxi and Optimus roadmap when it reports Q2 earnings after the close on July 22.",
-      "href": "https://www.cnbc.com/2026/07/09/big-wall-street-analyst-calls-thursday-like-spacex.html",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "CNBC",
-        "Investing.com"
-      ],
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-11 03:56 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-11 06:10 KST 자동 갱신 · 최신순"
 }

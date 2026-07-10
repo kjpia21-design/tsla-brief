@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-10T16:55:43.000Z",
+      "title": "일론 머스크 \"앤트로픽에 대해 <em>완전히 틀렸다</em>\" — AI 선두주자로 인정",
+      "hotShort": "머스크 \"앤트로픽에 <em>완전히 틀렸다</em>\" 인정",
+      "body": "일론 머스크가 X에서 앤트로픽을 두고 \"그들이 현재 AI 분야 선두주자임이 분명하다\"며 과거 회의적 시각이 <em>완전히 틀렸다</em>고 인정했다 — 스페이스XAI와 앤트로픽 간 GPU 임대 계약이 이어지는 가운데, 경쟁사라도 컴퓨팅 자원을 끊지 않겠다고 약속해 AI 인프라 공급망에서의 신뢰 신호로 읽힌다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-anthropic-clearly-wrong-2026-07-10",
+      "summary": "일론 머스크는 지난해 9월 앤트로픽에 대해 \"이 회사가 AI 경쟁에서 이길 가능성 자체가 없었다\"는 취지로 회의적인 입장을 밝힌 바 있다. 이번엔 정반대로 돌아섰다.\n\n머스크는 X에 \"내가 분명히 틀렸다\"며 \"앤트로픽이 현재 AI 분야에서 선두를 달리고 있다는 게 명백하다\"고 적었다. 그는 \"어떤 회사도 (앤트로픽의) Mythos/Fable만큼 좋은 모델을 내놓지 못했고, 곧 Mythos 2도 준비될 것\"이라고 평가했다.\n\n이번 발언은 머스크의 AI 인프라 벤처 스페이스XAI와 앤트로픽 사이에 지난 5월 체결된 단기 GPU 임대 계약이 이어지는 가운데 나왔다. 머스크는 경쟁사라 해도 \"그들에게 심각한 타격을 줄 방식으로 끊는 일은 절대 없을 것\"이라며 컴퓨팅 자원 공급을 계속하겠다고 약속했다.\n\n테슬라 주주에게 이 발언이 직접적인 실적 신호는 아니지만, 머스크가 운영하는 AI 인프라 사업(스페이스XAI)이 경쟁사에도 컴퓨팅을 안정적으로 공급하는 파트너로 자리잡고 있다는 점, 그리고 그가 라이벌의 기술력을 공개적으로 인정할 만큼 AI 경쟁 구도가 빠르게 재편되고 있다는 점은 테슬라의 AI·컴퓨팅 전략(도조, FSD 등)과 맞물려 참고할 만한 배경이다.",
+      "title_en": "Elon Musk admits he was <em>completely wrong</em> about Anthropic, calls it the AI leader",
+      "hotShort_en": "Musk admits he was <em>wrong</em> about Anthropic",
+      "body_en": "Elon Musk wrote on X that he was <em>completely wrong</em> about Anthropic, now calling it \"obviously the current leader in AI\" — the reversal comes as SpaceXAI's GPU lease deal with Anthropic continues, with Musk pledging not to cut off compute access even to a rival.",
+      "summary_en": "Last September, Elon Musk was openly skeptical of Anthropic, suggesting the company never had a real shot at winning the AI race. This week he reversed course entirely.\n\nMusk wrote on X, \"I was clearly wrong,\" adding that Anthropic is \"obviously currently the leader in AI.\" He said no company has released a model as good as Anthropic's Mythos/Fable, and that Mythos 2 would be ready soon.\n\nThe comments come as a short-term GPU lease agreement between Musk's AI infrastructure venture SpaceXAI and Anthropic, initiated in May, continues to run. Musk said he would \"never cut them off in a way that hurt them badly, even as a competitor,\" pledging to keep supplying compute.\n\nFor Tesla shareholders, the remarks aren't a direct financial signal, but they're a data point on how Musk's AI infrastructure business is positioning itself as a reliable compute partner even to rivals — and how fast the AI competitive landscape is shifting, a backdrop relevant to Tesla's own AI and compute strategy around Dojo and FSD.",
+      "href": "https://www.teslarati.com/elon-musk-admits-he-was-clearly-wrong-about-anthropic/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Teslarati",
+        "Benzinga",
+        "TechCrunch",
+        "Washington Examiner"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-10T15:50:44.000Z",
+      "title": "뉴스트리트리서치 애널리스트 \"테슬라 FSD, <em>아이폰 모먼트</em> 임박\" — \"2개 분기만 더 지켜봐달라\"",
+      "hotShort": "애널리스트 \"FSD, <em>아이폰 모먼트</em> 임박\"",
+      "body": "뉴스트리트리서치의 피에르 페라구 애널리스트가 테슬라 FSD가 <em>'아이폰 모먼트'</em>를 앞두고 있다고 평가했다 — \"테슬라는 아이폰이 단순한 전화기가 아니었듯 단순한 자동차가 아니다\"라며, 앞으로 2개 분기 안에 시장의 인식이 바뀔 변곡점이 올 것으로 봤다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "stock-fsd-iphone-moment-ferragu-2026-07-10",
+      "summary": "이번 주 월가에서는 테슬라 밸류에이션을 둘러싼 신중론(씨티즌스·배런스 등)과 낙관론(UBS 목표주가 상향)이 동시에 쏟아졌는데, 뉴스트리트리서치의 피에르 페라구 애널리스트는 FSD를 근거로 한 낙관론에 무게를 실었다.\n\n페라구는 \"테슬라는 아이폰이 단순한 전화기가 아니었던 것처럼 단순한 자동차가 아니다\"라며, 아이폰 초창기 높은 가격표가 '전화기치고 비싸다'는 인식에서 시작해 결국 '전화기 그 이상'이라는 재평가로 이어졌던 과정에 테슬라 FSD를 비유했다.\n\n그는 테슬라가 변곡점(inflection point)에 다가서고 있다고 보면서도, \"앞으로 2개 분기만 더 지켜봐 달라\"며 구체적으로 어떤 변화가 일어날지는 밝히지 않았다 — 그 기간이 지나면 방향성이 더 뚜렷해질 것이라는 취지다.\n\n페라구는 오랫동안 테슬라를 커버해온 애널리스트로, 7월22일 2분기 실적 발표를 앞두고 로보택시·옵티머스 확장에 신중한 시각을 보인 씨티즌스·배런스와 달리 FSD의 장기 잠재력에 무게를 싣는 대조적인 시각을 내놓은 셈이다.",
+      "title_en": "New Street Research analyst says Tesla FSD is nearing its <em>iPhone moment</em> — \"give us two more quarters\"",
+      "hotShort_en": "Analyst: Tesla FSD nearing its <em>iPhone moment</em>",
+      "body_en": "New Street Research analyst Pierre Ferragu says Tesla's FSD is approaching an <em>'iPhone moment'</em> — \"a Tesla is not a car, the same way an iPhone was not a phone,\" he said, expecting market perception to shift within the next two quarters.",
+      "summary_en": "Wall Street's Tesla debate split this week between caution (Citizens, Barron's) and optimism (UBS's price-target hike), and New Street Research's Pierre Ferragu weighed in on the bullish side, grounding his case in FSD.\n\nFerragu argued \"a Tesla is not a car, the same way an iPhone was not a phone,\" comparing FSD to the iPhone's early days, when its high price tag seemed steep for 'just a phone' before the market realized it was something more.\n\nHe said Tesla is nearing an inflection point but didn't specify what exactly would change, only asking investors to \"give us two more quarters\" to see where things are heading.\n\nA longtime Tesla-covering analyst, Ferragu's framing stands in contrast to Citizens and Barron's caution on Robotaxi and Optimus valuations this same week, putting his weight instead behind FSD's long-term potential ahead of the July 22 Q2 earnings report.",
+      "href": "https://www.teslarati.com/tesla-analyst-full-self-driving-iphone-moment/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "26m ago",
@@ -19,6 +71,32 @@
       "href": "https://cnevpost.com/2026/07/10/tesla-files-new-model-y-variant-china/",
       "sentiment": "neutral",
       "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-10T14:01:00.000Z",
+      "title": "일론 머스크 \"스페이스X, <em>목표 달성 시 지구 전체보다 가치있을 것</em>\"",
+      "hotShort": "머스크 \"스페이스X, <em>지구보다 가치있을 것</em>\"",
+      "body": "일론 머스크가 X에서 \"우리 목표를 달성하면 스페이스X는 <em>지구의 나머지 전체보다 가치있게 될 것</em>\"이라고 밝혔다 — 궤도 제조·소행성 채굴·화성 식민지 등 지구 밖 경제권 구상을 전제로 한 발언으로, 스페이스X 상장 한 달 만에 밸류에이션 논쟁에 다시 불을 붙였다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-worth-more-than-earth-2026-07-10",
+      "summary": "일론 머스크가 스페이스X의 장기 가치에 대해 그동안 나온 어떤 발언보다 과감한 주장을 내놨다.\n\n머스크는 X에 \"우리가 목표를 달성한다면 스페이스X는 지구의 나머지 전체를 합친 것보다 가치있어질 것\"이라고 적었다. 이 발언은 앤트로픽과 스페이스X-xAI 간 컴퓨팅 자원 거래(보도에 따르면 75억~400억 달러 규모)를 둘러싼 온라인 논쟁 도중 나왔다.\n\n머스크의 주장은 스페이스X가 단순한 로켓·위성 기업을 넘어, 궤도 제조·소행성 채굴·화성 식민지 건설까지 아우르는 다행성 경제의 설계자가 되는 시나리오를 전제로 한다 — 다시 말해 아직 존재하지 않는 시장, 고객, 통화, 규제기관을 상정한 장기 비전이다.\n\n스페이스X는 6월12일 주당 $135로 상장해 860억 달러를 조달하며 사상 최대 IPO를 기록했고 상장 첫날 시가총액 약 2.1조 달러를 찍었다. 테슬라 주주 입장에서는 머스크가 스페이스X의 밸류에이션 상단을 이렇게까지 밀어붙이는 발언이, 테슬라·스페이스X 합병설이 계속 도는 상황에서 협상 기준점을 둘러싼 불확실성을 한층 키우는 요인으로 볼 수 있다.",
+      "title_en": "Elon Musk: SpaceX will be <em>worth more than the rest of Earth</em> if goals are met",
+      "hotShort_en": "Musk: SpaceX could be <em>worth more than Earth</em>",
+      "body_en": "Elon Musk wrote on X that \"SpaceX will be worth more than the rest of Earth\" if the company achieves its goals — a claim built on visions of orbital manufacturing, asteroid mining, and Mars colonies, reigniting valuation debate just a month after SpaceX's IPO.",
+      "summary_en": "Elon Musk made his boldest claim yet about SpaceX's long-term value.\n\nHe wrote on X that \"SpaceX will be worth more than the rest of Earth\" if the company accomplishes its goals. The comment came amid online debate over a reported $7.5 billion to $40 billion compute deal between Anthropic and SpaceX-xAI.\n\nMusk's claim rests on SpaceX evolving beyond rockets and satellites into the architect of a multiplanetary economy — orbital manufacturing, asteroid mining, and Mars colonies — markets, customers, currencies, and regulators that don't exist yet.\n\nSpaceX priced its IPO at $135 a share on June 12, raising $86 billion in the largest IPO ever and hitting roughly $2.1 trillion in market value on its debut trading day. For Tesla shareholders, Musk pushing SpaceX's valuation ceiling this aggressively adds another layer of uncertainty to the reference point for any Tesla-SpaceX merger talks, which continue to circulate.",
+      "href": "https://www.barrons.com/articles/elon-musk-spacex-stock-worth-more-earth-cebedeeb",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Barron's",
+        "Futurism",
+        "TheStreet"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
     },
     {
       "category": "musk",
@@ -61,6 +139,31 @@
       "confirmingSources": [
         "SpaceNews",
         "CNN"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
+      "pubDate": "2026-07-10T11:00:01.000Z",
+      "title": "스페이스X 상장 한 달, 테슬라 주가는 <em>제자리 지켜</em> — 우려했던 '식인' 없었다",
+      "hotShort": "스페이스X 상장 한 달, 테슬라 <em>주가 제자리</em>",
+      "body": "스페이스X가 6월12일 사상 최대 규모로 상장한 지 한 달이 지났지만, 테슬라 주가는 상장 당일 종가 $406.43과 거의 같은 수준을 유지하고 있다 — 스페이스X가 머스크의 투자 관심·자금을 빼앗아 테슬라에 타격을 줄 것이라던 상장 전 우려가 한 달 만에는 현실화하지 않은 모습이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "stock-spacex-ipo-month-tesla-holding-2026-07-10",
+      "summary": "스페이스X 상장을 앞두고 월가 일각에서는 이 초대형 IPO가 테슬라에 '실존적 위협'이 될 수 있다는 경고가 나왔다 — 머스크의 관심과 자금이 테슬라에서 스페이스X로 옮겨갈 것이라는 우려였다.\n\n한 달이 지난 지금, 결과는 그렇게 명확하지 않다. 테슬라 주가는 스페이스X 상장 당일인 6월12일 $399.49로 출발해 $406.43으로 마감했고, 최근에도 $406.55 수준을 유지하며 큰 변동 없이 버티고 있다.\n\n스페이스X 주가 자체도 상장 초반 급등했다가 빠르게 되밀렸다 — $135 공모가에서 첫 거래 $150으로 출발한 뒤 한때 $150 아래로 밀렸고, 최근 종가는 $152.16 수준이다. 요란했던 관심에 비해 실제 주가 흐름은 비교적 잠잠했다는 평가다.\n\n테슬라 주주 입장에서는 상장 전 우려됐던 '스페이스X가 테슬라 투자자금을 빨아들인다'는 시나리오가 적어도 한 달 시점까지는 뚜렷하게 나타나지 않았다는 점이 안도 요인이지만, 두 종목 모두 아직 단기 데이터인 만큼 장기 추세는 더 지켜봐야 한다.",
+      "title_en": "A month after SpaceX's IPO, Tesla stock is <em>holding its ground</em>",
+      "hotShort_en": "Tesla stock <em>holds steady</em> a month after SpaceX IPO",
+      "body_en": "A month after SpaceX's record-breaking June 12 IPO, Tesla shares are trading close to that day's $406.43 close — the pre-IPO fear that SpaceX would drain Musk's attention and capital away from Tesla hasn't clearly played out one month in.",
+      "summary_en": "Ahead of SpaceX's IPO, some on Wall Street warned the mega-offering could pose an 'existential threat' to Tesla — the concern being that Musk's attention and capital would shift from Tesla toward SpaceX.\n\nA month later, the picture isn't so clear-cut. Tesla opened at $399.49 on June 12, the day of SpaceX's IPO, closed that day at $406.43, and has recently been trading around $406.55 — holding steady with little drama.\n\nSpaceX's own stock spiked early and quickly cooled. It priced at $135 and opened trading at $150, later dipping below that level before settling around $152.16 in recent trading — a relatively quiet outcome given all the attention around the deal.\n\nFor Tesla shareholders, the reassuring takeaway is that the feared scenario — SpaceX siphoning investor capital away from Tesla — hasn't clearly materialized one month in, though both stocks still have a short track record and the longer-term trend remains to be seen.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "The Edge Malaysia"
       ],
       "sentiment": "neutral",
       "hot": 4
@@ -2335,92 +2438,7 @@
       ],
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-06-26T15:24:36.000Z",
-      "title": "유럽 테슬라 판매, 머스크 <em>정치 논란에도 반등</em>",
-      "hotShort": "유럽 테슬라 판매, 머스크 논란에도 <em>반등</em>",
-      "body": "유럽에서 테슬라 판매가 일론 머스크에 대한 부정적 여론에도 불구하고 다시 늘고 있다고 New York Times가 보도했다 — 머스크의 정치 행보로 브랜드가 타격을 입을 것이라는 우려가 컸던 유럽 시장에서 수요가 회복세를 보인 것으로, 머스크 리스크의 실제 판매 영향이 제한적일 수 있음을 시사한다.",
-      "title_en": "Tesla sales in Europe are <em>rising despite views on Musk</em>",
-      "hotShort_en": "Tesla EU sales <em>rise</em> despite Musk backlash",
-      "body_en": "Tesla's vehicle sales in Europe are climbing again despite negative public sentiment toward Elon Musk, according to The New York Times. Europe was widely seen as the market most exposed to brand damage from Musk's political activity, so a demand rebound there suggests the real-world hit to sales from the 'Musk risk' may be more limited than feared.",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "musk-tesla-europe-sales-rising-2026-06-26",
-      "summary": "유럽은 일론 머스크의 정치적 발언과 행보가 테슬라 브랜드에 가장 크게 부담을 줄 시장으로 꼽혀 왔다. 일부 국가에서는 머스크에 대한 반감이 불매 움직임으로 이어졌다는 분석도 나왔다. 그런 가운데 New York Times는 유럽에서 테슬라 판매가 다시 증가하고 있다고 전했다.\n\n이는 '머스크 리스크'가 실제 구매 결정에 미치는 영향이 시장의 우려만큼 크지 않을 수 있음을 보여주는 신호다. 소비자가 브랜드 이미지나 CEO 개인에 대한 호불호보다, 가격·성능·충전 인프라 같은 제품 경쟁력을 기준으로 구매를 결정하는 경향이 여전히 강하다는 해석이 가능하다.\n\n유럽 판매 회복은 테슬라 전체 수요 그림에서 중요한 변수다. 유럽은 중국·미국과 함께 핵심 3대 시장 중 하나이며, 이 지역의 부진은 그동안 테슬라 인도량 둔화 우려의 한 축이었다. 다만 보도는 추세적 회복을 짚은 것으로, 구체적인 회복 폭과 지속성은 분기 인도 실적 등 후속 데이터로 확인할 필요가 있다.",
-      "summary_en": "Europe has long been viewed as the market where Elon Musk's political statements and activity could weigh most heavily on the Tesla brand, with some analyses suggesting backlash against Musk fed into boycott sentiment in certain countries. Against that backdrop, The New York Times reports that Tesla sales in Europe are rising again.\n\nThat is a signal that the 'Musk risk' may matter less to actual purchase decisions than the market had feared. It suggests buyers are still weighing product fundamentals — price, performance, charging infrastructure — more than their feelings about the brand image or the CEO personally.\n\nA European recovery is an important variable in Tesla's overall demand picture. Europe ranks alongside China and the U.S. as one of the three core markets, and weakness there had been one pillar of concern about slowing Tesla deliveries. The report points to a directional rebound; the precise magnitude and durability will need to be confirmed by follow-on data such as quarterly delivery figures.",
-      "href": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
-      "sentiment": "bull",
-      "hot": 6
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-06-26T14:15:00.000Z",
-      "title": "테슬라 주가, 이번 주·이번 달 <em>약세 흐름</em> 지속 — Barron's",
-      "hotShort": "테슬라 주가, 이번 달 <em>부진</em> 이어져",
-      "body": "테슬라 주가가 이번 주에 이어 이번 달 들어 더 부진한 흐름을 이어가고 있다고 Barron's가 짚었다 — 2분기 인도량 발표를 앞두고 투자 심리가 신중해진 가운데, 주가가 핵심 실적 이벤트를 앞두고 약세를 보이고 있다는 점에서 단기 모멘텀 부담이 확인된다.",
-      "title_en": "Tesla stock is having a <em>bad week and a worse month</em> — Barron's",
-      "hotShort_en": "Tesla stock has a <em>rough month</em>: Barron's",
-      "body_en": "Tesla stock is having a bad week and an even worse month, Barron's notes. With the Q2 delivery report on the horizon and investor sentiment turning cautious, the weakness heading into a key fundamental catalyst underscores the near-term momentum pressure on the shares.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "stock-tesla-stock-weak-month-2026-06-26",
-      "summary": "Barron's는 테슬라 주가가 이번 한 주 동안 부진했고, 이번 달 전체로 보면 흐름이 더 약했다고 전했다. 구체적인 등락률보다 흐름 자체를 짚은 시황 리뷰 성격의 보도다.\n\n주가 약세의 배경으로는 2분기 인도량 발표를 앞둔 관망 심리가 주요하게 작용하는 것으로 보인다. 테슬라 주가의 단기 향방을 가르는 가장 큰 변수로 분기 인도 실적이 꼽혀 왔는데, 발표 전 불확실성이 큰 구간에서는 매수세가 위축되며 주가가 눌리는 경향이 나타난다.\n\n월간 단위의 약세는 개별 악재라기보다 광범위한 투자 심리와 모멘텀의 문제일 수 있다. 실제 방향과 폭은 인도 실적이 공개되면 재평가되겠지만, 핵심 이벤트를 앞두고 주가가 힘을 받지 못하고 있다는 점은 단기 부담 요인으로 남는다. (등락 수치는 종가 확정 기준으로만 확인 가능하며, 본 카드는 추세를 정리한 것이다.)",
-      "summary_en": "Barron's reports that Tesla stock had a weak week and a softer trajectory over the month as a whole. It reads as a market-recap piece flagging the trend rather than detailing precise percentage moves.\n\nA key driver of the weakness appears to be a wait-and-see mood ahead of the Q2 delivery report. Quarterly deliveries have repeatedly been cited as the single biggest variable for Tesla's near-term share direction, and in the uncertain stretch before that print, buying interest tends to thin out and weigh on the stock.\n\nMonthly softness may be more a matter of broad sentiment and momentum than any single negative catalyst. The actual direction and magnitude will be reassessed once delivery figures land, but a stock that can't find traction heading into a key event remains a near-term overhang. (Percentage moves can only be confirmed on a close-to-close basis; this card summarizes the trend.)",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-today-3c2dd296",
-      "sentiment": "bear",
-      "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2 days ago",
-      "pubDate": "2026-06-26T13:58:00.000Z",
-      "title": "테슬라, FSD 보행자 사망 사고 소송 <em>합의로 종결</em>",
-      "hotShort": "테슬라, FSD 보행자 사망 소송 <em>합의 종결</em>",
-      "body": "테슬라가 '풀 셀프 드라이빙(FSD)' 작동 중 발생한 보행자 사망 사고를 둘러싼 소송을 합의로 마무리했다고 Electrek·Bloomberg가 보도했다 — 공개 재판으로 FSD 책임 공방이 확대되는 것을 피한 셈으로, 로보택시 상용화를 앞두고 자율주행 책임 리스크를 관리하려는 행보로 풀이된다.",
-      "title_en": "Tesla <em>settles lawsuit</em> over fatal Full Self-Driving pedestrian crash",
-      "hotShort_en": "Tesla <em>settles</em> fatal FSD crash suit",
-      "body_en": "Tesla has settled a lawsuit over a pedestrian death involving its Full Self-Driving system, Electrek and Bloomberg report. By resolving the case rather than fighting it in open court, Tesla avoids a public trial that could have spotlighted FSD liability — a notable move as the company pushes toward broader Robotaxi deployment and faces rising scrutiny of its autonomy claims.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-fsd-pedestrian-lawsuit-settlement-2026-06-26",
-      "summary": "테슬라가 자사 '풀 셀프 드라이빙(FSD)' 기능이 관여된 보행자 사망 사고와 관련한 민사 소송을 법정 다툼 대신 합의로 끝냈다. 합의 사실은 Electrek과 Bloomberg가 같은 날 함께 전했으며, 구체적인 합의 금액이나 조건은 공개되지 않았다.\n\nFSD 관련 사망 사고 소송은 테슬라의 자율주행 기술이 마케팅 명칭만큼 안전한지, 운전자 책임과 시스템 책임의 경계가 어디인지를 법정에서 따지는 사안이라 업계와 규제 당국이 주목해 왔다. 공개 재판으로 가면 FSD의 작동 한계와 사고 정황이 증거로 드러나며 브랜드와 기술 신뢰에 부담이 될 수 있는데, 합의는 그 리스크를 차단하는 선택이다.\n\n시점도 중요하다. 테슬라는 로보택시 상용 서비스 확대를 핵심 성장 동력으로 내세우고 있어, 자율주행 책임 소송이 누적되거나 불리한 판례가 쌓이면 사업 전개에 걸림돌이 될 수 있다. 이번 합의는 개별 사건을 신속히 정리해 그런 부담을 줄이려는 의도로 해석된다.\n\n다만 합의가 곧 책임 인정이나 면제를 뜻하지는 않으며, FSD를 둘러싼 다른 소송과 NTSB·규제 당국의 안전 조사는 여전히 진행 중이라는 점에서 자율주행 책임 이슈 자체가 해소된 것은 아니다.",
-      "summary_en": "Tesla has resolved a civil lawsuit tied to a pedestrian fatality involving its Full Self-Driving feature, opting for a settlement rather than a courtroom fight. The settlement was reported the same day by both Electrek and Bloomberg; the dollar amount and terms were not disclosed.\n\nFSD-related death and injury lawsuits draw particular scrutiny because they force a public airing of how far the system can actually drive itself versus what Tesla's marketing implies — and where the line sits between driver responsibility and software liability. By settling, Tesla avoids testimony and discovery that could expose internal communications about the system's limitations.\n\nThe timing matters. Tesla is actively expanding its unsupervised Robotaxi service and positioning FSD as the backbone of a future autonomous-transport business. Adverse judgments or a string of public trials could complicate regulatory approvals and deter potential Robotaxi riders. A quiet settlement keeps this particular case from growing into a reputational or regulatory problem.\n\nThat said, a settlement does not constitute an admission of liability or a legal precedent, and it does not resolve the broader portfolio of FSD litigation or ongoing NTSB and NHTSA reviews of Tesla autopilot-related incidents.",
-      "href": "https://electrek.co/2026/06/26/tesla-settles-lawsuit-over-fatal-pedestrian-crash-involving-full-self-driving/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Bloomberg"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-06-26T13:32:42.000Z",
-      "title": "테슬라 세미, 빙판서 미끄러져도 <em>자세 회복</em> 영상 공개",
-      "hotShort": "테슬라 세미, 빙판 <em>안정성 제어</em> 영상 공개",
-      "body": "테슬라 세미 프로그램 책임자 댄 프리슬리가 전기 트럭이 빙판 노면에서 미끄러지면서도 차선을 유지하며 자세를 회복하는 영상을 공개했다고 Electrek이 보도했다 — 대형 전기 트럭의 차량 안정성·트랙션 제어 성능을 직접 보여준 사례로, 세미 양산 확대를 앞두고 운송 고객의 신뢰를 높이는 데이터 포인트가 된다.",
-      "title_en": "Tesla Semi <em>slides on ice and regains control</em> in new video",
-      "hotShort_en": "Tesla Semi keeps control on ice <em>in video</em>",
-      "body_en": "Tesla Semi program lead Dan Priestley shared a video of the electric truck holding its line on icy surfaces — sliding under control rather than skidding out of it, Electrek reports. The rare look at the Semi's stability and traction control demonstrates large-EV-truck handling at a useful moment, as Tesla ramps Semi production and works to win the confidence of freight customers.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-tesla-semi-ice-stability-2026-06-26",
-      "summary": "테슬라 세미 프로그램을 이끄는 댄 프리슬리가 전기 트럭이 겨울철 빙판 노면에서 보이는 주행 안정성을 담은 영상을 직접 공유했다. 영상 속 세미는 미끄러운 노면에서 슬립이 발생해도 차선을 벗어나 통제 불능으로 빠지지 않고, 자세를 유지하며 회복하는 모습을 보였다.\n\n대형 상용 트럭에서 빙판·눈길 안정성은 안전과 운영 신뢰성에 직결되는 핵심 요소다. 무게와 길이가 큰 차량일수록 한 번 통제를 잃으면 사고 규모가 커질 수 있어, 차량 안정성 제어(VSC)와 트랙션 제어 성능은 운송 사업자가 도입을 검토할 때 중요한 판단 기준이 된다.\n\n이번 공개는 공식 시험 데이터라기보다 프로그램 책임자가 보여준 실제 주행 클립에 가깝지만, 테슬라가 세미 양산과 인도를 확대하는 국면에서 제품 신뢰를 강화하는 메시지로 읽힌다. 다만 단일 영상인 만큼, 다양한 조건에서의 반복 검증은 별개의 문제다.",
-      "summary_en": "Dan Priestley, who leads the Tesla Semi program, personally shared video showcasing how the electric truck behaves on icy winter roads. In the clip, the Semi slips on the slick surface but keeps its line — recovering its posture rather than spinning out of control.\n\nFor a heavy commercial truck, stability on ice and snow is directly tied to safety and operational reliability. The bigger and heavier the vehicle, the larger the consequences once control is lost, which makes vehicle stability control and traction performance a key consideration for fleet operators evaluating adoption.\n\nThis was a real-world driving clip from the program lead rather than formal test data, but it reads as a trust-building message as Tesla scales Semi production and deliveries. As a single video, however, repeated validation across varied conditions remains a separate question.",
-      "href": "https://electrek.co/2026/06/26/tesla-semi-stability-control-ice-video/",
-      "sentiment": "bull",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-11 00:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-11 06:10 KST 자동 갱신 · 최신순"
 }
