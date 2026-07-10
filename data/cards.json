@@ -3,6 +3,32 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-09T22:00:00.000Z",
+      "title": "NHTSA 국장 \"무인차 <em>핸들 규정도 재검토</em>\" — 사이버캡 규제 회색지대 풀리나",
+      "hotShort": "NHTSA \"무인차 <em>핸들 의무 재검토</em>\" 시사",
+      "body": "美 NHTSA 국장 조너선 모리슨이 CNBC 인터뷰에서, 사람이 운전하도록 설계되지 않은 차량에 핸들·페달 등 수동 조작장치를 의무화한 규정을 \"당연히(absolutely)\" 재검토할 수 있다고 밝혔다 — 핸들·페달이 없는 테슬라 <em>사이버캡의 연방 안전기준 회색지대</em>가 풀릴 신호로, 지난달 브레이크 페달 의무 폐지에 이은 두 번째 규제 완화 움직임이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "fsd-nhtsa-steering-wheel-review-2026-07-09",
+      "summary": "테슬라 사이버캡은 핸들도 페달도 없는 2인승 전용 로보택시로 설계됐지만, 현행 연방자동차안전기준(FMVSS)은 수동 조작장치를 원칙적으로 요구해 그동안 규제 회색지대에 놓여 있었다.\n\nNHTSA 국장 조너선 모리슨은 CNBC 인터뷰에서 \"사람이 운전하도록 설계되지 않은 차량이라면 수동 조작장치를 요구하는 게 말이 안 된다\"며, 핸들·페달 의무화 규정을 재검토할 의사가 \"당연히(absolutely)\" 있다고 밝혔다. 구체적인 시행 시점이나 절차는 언급하지 않았다.\n\n이번 발언은 지난달 NHTSA가 무인 자율주행차의 수동 브레이크 페달 의무를 없애는 방향으로 연방 안전기준을 개정한 데 이은 후속 신호다. 트럼프 행정부 들어 무인차 규제를 완화하려는 흐름이 이어지고 있다는 평가다.\n\nNHTSA는 이달 말까지 무인차 개발사들과 회의를 열어 해결책을 논의하겠다고 예고한 바 있는데(앞선 응급대응 방해 경고와 같은 일정), 핸들 규정 재검토가 이 논의에 포함될지는 불확실하다. 다만 사이버캡처럼 처음부터 사람 운전을 전제하지 않은 차량이 양산·상용화 단계로 넘어가려면 이 규정 자체가 가장 큰 걸림돌 중 하나였던 만큼, 테슬라로서는 로보택시 확장의 법적 걸림돌 하나가 줄어드는 신호로 받아들여질 수 있다.",
+      "title_en": "NHTSA chief signals openness to <em>reviewing steering-wheel mandate</em> for driverless cars",
+      "hotShort_en": "NHTSA open to <em>ending steering-wheel rule</em>",
+      "body_en": "NHTSA Administrator Jonathan Morrison told CNBC the agency would \"absolutely\" consider ending the requirement that vehicles not designed for human drivers carry a steering wheel and pedals — a potential opening for Tesla's Cybercab, which has neither, following last month's move to drop the mandatory brake-pedal rule for driverless vehicles.",
+      "summary_en": "Tesla's Cybercab was designed as a two-seat, purpose-built robotaxi with no steering wheel and no pedals — but existing Federal Motor Vehicle Safety Standards generally require manual controls, leaving the vehicle in a regulatory gray zone.\n\nNHTSA Administrator Jonathan Morrison said in a CNBC interview that requiring manual controls \"doesn't make any sense\" for vehicles that are never meant to be driven by a human, and that the agency would \"absolutely\" consider revisiting the steering-wheel mandate. He didn't specify a timeline or process.\n\nThe comments follow NHTSA's move last month to update federal safety standards and drop the mandatory brake-pedal requirement for driverless vehicles — part of a broader effort under the Trump administration to loosen rules for autonomous cars.\n\nNHTSA has also said it will hold meetings with driverless-vehicle developers by the end of July (the same timeline tied to its recent warning about AVs interfering with emergency responders), though it's unclear whether the steering-wheel review will be part of those talks. Still, for a vehicle like Cybercab that was never designed around a human driver, this rule has been one of the biggest regulatory hurdles to mass production — and its potential loosening removes one legal obstacle from Tesla's robotaxi expansion path.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-09/us-to-explore-allowing-driverless-cars-without-steering-wheels",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "CNBC",
+        "Seeking Alpha"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
       "pubDate": "2026-07-09T19:54:52.000Z",
       "title": "테슬라 마이애미 로보택시, <em>출시 첫날부터 안전요원 없이 무인 운행</em> 확인",
@@ -51,26 +77,6 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "26m ago",
-      "pubDate": "2026-07-09T17:36:00.000Z",
-      "title": "테슬라 사이버캡에 <em>듀얼 GPS</em> 탑재 확인 — 레벨4 무인주행 정밀항법 강화",
-      "hotShort": "사이버캡, <em>듀얼 GPS</em>로 무인주행 정밀도↑",
-      "body": "'낫 어 테슬라 앱'이 양산 사이버캡에 정밀도 높은 <em>듀얼 GPS 구성</em>이 탑재된 사실을 단독 확인했다 — 안전요원 없는 '레벨4 무인주행' 모드를 공식 표기한 사이버캡이 위성항법 정밀도를 소비자용 테슬라 차량보다 끌어올린 조치로, 도심 무인 로보택시 운행의 안전판이 될 전망이다.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "fsd-cybercab-dual-gps-2026-07-09",
-      "summary": "사이버캡을 둘러싼 관심은 그동안 주로 소프트웨어·자율주행 스택에 쏠려 있었지만, 이번엔 하드웨어 쪽에서 새로운 사실이 나왔다.\n\n내부 소식통을 인용한 '낫 어 테슬라 앱'에 따르면, 양산형 사이버캡에는 듀얼 GPS 구성이 탑재됐다. 이것이 여러 위성 주파수를 동시에 잡는 '듀얼밴드' 방식인지, 아니면 물리적으로 GPS 유닛 두 개를 달아 위치를 이중 삼각측량하는 방식인지는 아직 명확하지 않지만, 소비자용 테슬라 차량보다 훨씬 정밀한 위치 추적이 가능하다는 점은 소식통이 확인했다.\n\n테슬라는 최근 공개한 사이버캡 안전 가이드 문서에서 이 차량을 SAE 레벨4 '완전자율모드'로 명시했다. 운전자 개입 없이 전체 주행을 시스템이 전담하는 만큼, 고정밀 위치·측위 정보는 선택이 아닌 필수다 — 특히 위성 신호가 건물에 반사되기 쉬운 도심 협곡이나 나무가 우거진 도로에서, 차량이 어느 도로에 있는지뿐 아니라 정확히 어느 차선에 있는지까지 확신할 수 있어야 하기 때문이다.",
-      "title_en": "Tesla Cybercab spotted with <em>dual GPS</em> — precision navigation for Level 4 driverless mode",
-      "hotShort_en": "Cybercab gets <em>dual GPS</em> for driverless precision",
-      "body_en": "Not a Tesla App exclusively confirmed that production Cybercabs ship with a high-precision <em>dual GPS setup</em> — a step up from consumer Tesla vehicles, aimed at sharpening satellite positioning for a vehicle Tesla has officially labeled as running SAE Level 4 'Autonomous Mode' with no safety driver.",
-      "summary_en": "Attention on Cybercab has mostly focused on its software and autonomy stack — this time, a hardware detail is making news.\n\nCiting an insider source, Not a Tesla App reports that production Cybercab units carry a dual GPS configuration. It's not yet clear whether this means a dual-band system locking onto multiple satellite frequencies, or two separate physical GPS units for redundancy and triangulation — but the source confirmed it delivers meaningfully more accurate positioning than current consumer Tesla vehicles.\n\nTesla recently published Cybercab documentation explicitly labeling the vehicle as running an SAE Level 4 'Autonomous Mode.' With no human backup driver handling the full driving task, high-precision telemetry becomes non-negotiable — especially in dense urban canyons or tree-covered roads where satellite signals can bounce, and the software needs certainty not just about which road it's on, but which lane.",
-      "href": "https://www.notateslaapp.com/news/4414/exclusive-tesla-cybercab-includes-dual-gps",
-      "sentiment": "neutral",
-      "hot": 4
     },
     {
       "category": "stock",
@@ -184,5 +190,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-10 06:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-10 10:07 KST 자동 갱신 · 최신순"
 }

@@ -3,6 +3,32 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-09T22:00:00.000Z",
+      "title": "NHTSA 국장 \"무인차 <em>핸들 규정도 재검토</em>\" — 사이버캡 규제 회색지대 풀리나",
+      "hotShort": "NHTSA \"무인차 <em>핸들 의무 재검토</em>\" 시사",
+      "body": "美 NHTSA 국장 조너선 모리슨이 CNBC 인터뷰에서, 사람이 운전하도록 설계되지 않은 차량에 핸들·페달 등 수동 조작장치를 의무화한 규정을 \"당연히(absolutely)\" 재검토할 수 있다고 밝혔다 — 핸들·페달이 없는 테슬라 <em>사이버캡의 연방 안전기준 회색지대</em>가 풀릴 신호로, 지난달 브레이크 페달 의무 폐지에 이은 두 번째 규제 완화 움직임이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "fsd-nhtsa-steering-wheel-review-2026-07-09",
+      "summary": "테슬라 사이버캡은 핸들도 페달도 없는 2인승 전용 로보택시로 설계됐지만, 현행 연방자동차안전기준(FMVSS)은 수동 조작장치를 원칙적으로 요구해 그동안 규제 회색지대에 놓여 있었다.\n\nNHTSA 국장 조너선 모리슨은 CNBC 인터뷰에서 \"사람이 운전하도록 설계되지 않은 차량이라면 수동 조작장치를 요구하는 게 말이 안 된다\"며, 핸들·페달 의무화 규정을 재검토할 의사가 \"당연히(absolutely)\" 있다고 밝혔다. 구체적인 시행 시점이나 절차는 언급하지 않았다.\n\n이번 발언은 지난달 NHTSA가 무인 자율주행차의 수동 브레이크 페달 의무를 없애는 방향으로 연방 안전기준을 개정한 데 이은 후속 신호다. 트럼프 행정부 들어 무인차 규제를 완화하려는 흐름이 이어지고 있다는 평가다.\n\nNHTSA는 이달 말까지 무인차 개발사들과 회의를 열어 해결책을 논의하겠다고 예고한 바 있는데(앞선 응급대응 방해 경고와 같은 일정), 핸들 규정 재검토가 이 논의에 포함될지는 불확실하다. 다만 사이버캡처럼 처음부터 사람 운전을 전제하지 않은 차량이 양산·상용화 단계로 넘어가려면 이 규정 자체가 가장 큰 걸림돌 중 하나였던 만큼, 테슬라로서는 로보택시 확장의 법적 걸림돌 하나가 줄어드는 신호로 받아들여질 수 있다.",
+      "title_en": "NHTSA chief signals openness to <em>reviewing steering-wheel mandate</em> for driverless cars",
+      "hotShort_en": "NHTSA open to <em>ending steering-wheel rule</em>",
+      "body_en": "NHTSA Administrator Jonathan Morrison told CNBC the agency would \"absolutely\" consider ending the requirement that vehicles not designed for human drivers carry a steering wheel and pedals — a potential opening for Tesla's Cybercab, which has neither, following last month's move to drop the mandatory brake-pedal rule for driverless vehicles.",
+      "summary_en": "Tesla's Cybercab was designed as a two-seat, purpose-built robotaxi with no steering wheel and no pedals — but existing Federal Motor Vehicle Safety Standards generally require manual controls, leaving the vehicle in a regulatory gray zone.\n\nNHTSA Administrator Jonathan Morrison said in a CNBC interview that requiring manual controls \"doesn't make any sense\" for vehicles that are never meant to be driven by a human, and that the agency would \"absolutely\" consider revisiting the steering-wheel mandate. He didn't specify a timeline or process.\n\nThe comments follow NHTSA's move last month to update federal safety standards and drop the mandatory brake-pedal requirement for driverless vehicles — part of a broader effort under the Trump administration to loosen rules for autonomous cars.\n\nNHTSA has also said it will hold meetings with driverless-vehicle developers by the end of July (the same timeline tied to its recent warning about AVs interfering with emergency responders), though it's unclear whether the steering-wheel review will be part of those talks. Still, for a vehicle like Cybercab that was never designed around a human driver, this rule has been one of the biggest regulatory hurdles to mass production — and its potential loosening removes one legal obstacle from Tesla's robotaxi expansion path.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-09/us-to-explore-allowing-driverless-cars-without-steering-wheels",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "CNBC",
+        "Seeking Alpha"
+      ],
+      "sentiment": "bull",
+      "hot": 7
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
       "pubDate": "2026-07-09T19:54:52.000Z",
       "title": "테슬라 마이애미 로보택시, <em>출시 첫날부터 안전요원 없이 무인 운행</em> 확인",
@@ -2393,27 +2419,7 @@
       "hotShort_en": "FTC clears Musk to buy <em>Mesh Optical</em>, AI infra play",
       "body_en": "The FTC approved Elon Musk's acquisition of Mesh Optical Technologies on June 25, clearing the deal after determining it raised no significant antitrust concerns. Founded by former SpaceX optical engineers, Mesh's flagship product is the Alpha C1 — a 1.6 Tbps optical transceiver designed for AI data center interconnects. The company raised $50M in a February 2026 Series A led by Thrive Capital; financial terms of the acquisition were not disclosed.",
       "summary_en": "Mesh Optical Technologies emerged from stealth in February 2026 after former SpaceX engineers who specialized in optical communications spun out to address a growing AI infrastructure bottleneck: the speed at which thousands of GPU nodes exchange data inside a training cluster. The company's Alpha C1 transceiver — rated at 1.6 terabits per second for electro-optical conversion — targets the interconnect layer where GPU performance is most often constrained in large-scale AI workloads.\n\nThe $50M Series A from Thrive Capital, Also Capital, and Banner VC in February gave the company a runway to commercialize Alpha C1. Musk's decision to acquire rather than partner likely reflects both the strategic criticality of the technology and a desire to internalize the supply chain for xAI's Memphis Supercluster, which is currently in an aggressive expansion phase.\n\nThe FTC granted antitrust clearance on June 25 without conditions, completing a fast-track review that concluded no meaningful competition concerns existed. Acquisition price was not disclosed by either party. The approval was publicly announced on June 26.\n\nFor Tesla shareholders, the direct impact is limited — Mesh addresses infrastructure for xAI and SpaceX, not Tesla's manufacturing or software stack. The indirect angle is whether a more powerful xAI compute foundation accelerates FSD neural network training, since xAI has an existing partnership to supply compute resources to Tesla. The more persistent concern for Tesla investors is Musk's expanding M&A activity across his various entities, which competes for his management bandwidth."
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-06-25T22:30:07.000Z",
-      "title": "머스크, X 결제 서비스 수차례 지연 끝에 <em>사용자 확대</em> 본격 개시",
-      "hotShort": "X 결제, 수차례 지연 끝에 <em>사용자 확대</em> 본격화",
-      "body": "블룸버그에 따르면 일론 머스크의 X(구 트위터)가 수차례 지연 끝에 결제 기능을 더 많은 사용자에게 확대 적용하기 시작했다 — X를 금융 슈퍼앱으로 키우겠다는 전략이 구체적 실행 단계에 접어든 것으로, 머스크의 경영 집중도를 주시해온 테슬라 투자자들의 관심을 모은다.",
-      "title_en": "Musk kicks off <em>X Payments rollout</em> to more users after lengthy delays",
-      "hotShort_en": "Musk kicks off <em>X Payments</em> after delays",
-      "body_en": "Bloomberg reports Elon Musk's X has begun expanding its payments feature to more users after multiple delays — a first concrete step toward Musk's vision of turning X into a financial super-app, a development Tesla shareholders watch closely given ongoing concerns about Musk's divided attention.",
-      "summary": "일론 머스크가 구상한 'X의 금융 슈퍼앱화'가 실행 단계에 들어섰다. X(구 트위터)는 당초 일정보다 수차례 밀린 끝에 결제 서비스(X Payments)를 더 많은 사용자에게 확대 적용하기 시작했다고 블룸버그가 보도했다. 머스크는 오래전부터 X를 송금·결제·금융 서비스를 아우르는 '미국판 위챗'으로 키우겠다는 구상을 밝혀왔으며, 이번 롤아웃은 그 첫 가시적 이정표다.\n\n테슬라 주주 입장에서는 양면적인 소식이다. X Payments가 궤도에 오르면 머스크의 경영 관여 시간이 X 쪽으로 더 쏠릴 수 있다는 우려가 있다. 반면 머스크 생태계(테슬라·스페이스X·xAI·X) 전반이 성장할수록 테슬라 브랜드 프리미엄에도 간접적으로 긍정적이라는 시각도 공존한다.\n\nX Payments는 미국 내 다수의 주에서 머니 트랜스퍼(자금 이체) 라이선스를 순차적으로 취득해왔다. 이번 확대 적용은 선별된 사용자 그룹을 대상으로 시작됐으며, 전면 상용화까지는 추가 규제 승인 절차가 남아 있다.",
-      "summary_en": "Elon Musk's super-app ambition for X is moving from roadmap to live product. Bloomberg reported that X has started rolling out its payments feature to a broader group of users, following multiple missed timelines that had delayed the service. Musk has long described X Payments as the foundation for turning the platform into a one-stop app for messaging, content, and financial services — a model inspired by China's WeChat.\n\nFor Tesla shareholders, the development carries a dual read. X Payments gaining traction could pull more of Musk's executive bandwidth toward his social and fintech ventures. On the other hand, growth across Musk's broader empire tends to reinforce the premium investors place on the 'Musk brand' that runs through all of his companies.\n\nX Payments has been building its regulatory groundwork in the US, obtaining money-transfer licenses across multiple states. The initial rollout targets a defined user segment, with broader commercial availability contingent on additional regulatory approvals and product refinement.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-x-payments-expansion-2026-06-25",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-25/musk-starts-expanding-x-payments-to-more-users-after-delay",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-10 06:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-10 10:07 KST 자동 갱신 · 최신순"
 }
