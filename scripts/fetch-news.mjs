@@ -85,6 +85,7 @@ const X_ACCOUNTS = [
   { username: "TeslaCharging", id: "1346535293449428992", name: "Tesla Charging",   label: "official", category: "product" },
   { username: "cybertruck",    id: "1686044379910131718", name: "Cybertruck",       label: "official", category: "product" },
   { username: "Tesla_Optimus", id: "1616163256413863943", name: "Tesla Optimus",    label: "official", category: "product" },
+  { username: "tesla_korea",   id: "",                    name: "Tesla Korea",      label: "official", category: "product" },  // 한국 지역 공식 채널(JP 요청 2026-07-11). id 미상 — username 매칭.
   // 테슬라 임원·엔지니어(1차 인사이더)
   { username: "aelluswamy",    id: "87657877",            name: "Ashok Elluswamy",  label: "official", category: "fsd" },
   { username: "larsmoravy",    id: "716024533363208192",  name: "Lars Moravy",      label: "official", category: "product" },

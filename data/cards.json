@@ -68,22 +68,29 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-07-10T07:16:00.000Z",
-      "title": "테슬라, 한국에 FSD v14 Lite 출시 — <em>미국산 모델S·X만</em> 적용, 중국산 3·Y는 제외",
-      "hotShort": "테슬라 한국 FSD 출시, <em>미국산 차만 적용</em>",
-      "body": "테슬라가 하드웨어3(HW3) 얼리액세스 오너 대상으로 FSD v14 Lite를 한국에 배포하기 시작했다 — 한미 FTA로 수입되는 프리몬트산 모델S·X에만 적용되고, 한국 판매 물량 대다수인 중국산 모델3·Y는 현지 인증 규제로 <em>여전히 FSD 자체가 잠겨</em> 있어 생산지에 따라 접근권이 갈린다.",
-      "sourceName": "Chosunbiz",
+      "time": "",
+      "pubDate": "2026-07-10T05:00:00.000Z",
+      "title": "테슬라, 한국에 FSD v14 Lite 출시 — <em>미국산 모델3·Y만</em> 적용, 중국산은 제외",
+      "hotShort": "테슬라 FSD v14 Lite 한국 출시 — <em>미국산 모델3·Y만</em> 적용",
+      "body": "테슬라코리아가 7월 10일 FSD(감독형) v14 Lite를 한국에 배포하기 시작했다 — 북미 다음으로 세계 두 번째 시장이다. 대상은 하드웨어3(HW3)에 FSD를 구매한 미국산 모델3·Y뿐이며, 한국 판매 물량 대다수를 차지하는 중국 상하이산 모델3·Y는 현지 규제로 소프트웨어 단에서 여전히 FSD가 잠겨 있다 — 생산지에 따른 접근권 격차가 한국 오너 다수의 체감 혜택을 제한하는 구조다.",
+      "sourceName": "Not a Tesla App",
       "sourceLabel": "press",
-      "slug": "fsd-korea-v14-lite-us-made-2026-07-10",
-      "summary": "테슬라가 한국에서 FSD(완전자율주행) v14 Lite 얼리액세스 프로그램을 시작했다. 대상은 하드웨어3(HW3, 테슬라 내부 명칭 AI3) 사양 차량으로, 얼리액세스에 등록된 오너부터 순차 배포되고 있다.\n\n다만 모든 한국 테슬라 오너가 혜택을 보는 건 아니다. 이번 롤아웃은 한미 자유무역협정(FTA)에 따라 별도 쿼터로 수입되는 미국 프리몬트 공장산 모델S·모델X에만 적용된다. FTA 수입 차량은 미국 안전기준을 적용받아 한국의 별도 인증 절차 일부를 건너뛸 수 있기 때문이다.\n\n반면 한국에서 판매되는 테슬라의 대다수를 차지하는 중국 상하이 기가팩토리산 모델3·모델Y는 한국 자동차 규제상 별도 인증 요건에 막혀 이번에도 FSD 소프트웨어 자체가 잠겨 있다. 같은 '테슬라'라도 생산지에 따라 FSD 접근권이 갈리는 구조가 이어지는 셈이다.\n\n한국은 앞서 2025년 11월 하드웨어4(HW4) 모델S·X에 FSD v14를 배포하며 북미 밖에서는 처음으로 v14를 받은 시장이었다. 이번 HW3 v14 Lite 얼리액세스는 그 후속으로, 한국이 여전히 테슬라의 해외 FSD 확장에서 우선순위 시장 중 하나임을 보여준다.\n\n다만 한국 시장 전체 판매량 기준으로는 모델3·Y 비중이 압도적인 만큼, 이번 롤아웃이 당장 한국 내 FSD 구독 매출이나 사용자 경험 확대로 이어지긴 제한적이라는 지적도 나온다. 중국산 물량의 FSD 잠금 해제 여부는 한국 규제당국의 인증 절차 진전에 달려 있다.",
-      "title_en": "Tesla brings <em>FSD v14 Lite</em> to South Korea — but only for US-built Model S/X",
-      "hotShort_en": "Korea gets Tesla FSD — <em>only US-built cars</em>",
-      "body_en": "Tesla began rolling out FSD v14 Lite to Hardware 3 early-access owners in South Korea — but only for Fremont-built Model S and X imported under the Korea-US free trade agreement, while the <em>China-built Model 3 and Y</em> that make up most of Tesla's Korean fleet remain locked out of FSD under domestic certification rules.",
-      "summary_en": "Tesla has kicked off an FSD (Full Self-Driving) v14 Lite early-access program in South Korea, targeting Hardware 3 (Tesla's internal 'AI3') vehicles, with early-access enrollees receiving the update first.\n\nNot every Korean Tesla owner benefits, though. The rollout applies only to Fremont-built Model S and Model X units imported under a separate quota tied to the Korea-US Free Trade Agreement — vehicles that qualify under US safety standards and can bypass some of Korea's domestic certification requirements.\n\nThe China-built Model 3 and Model Y that make up the bulk of Tesla's Korean sales remain excluded, still blocked at the software level by Korean regulatory requirements. In effect, access to FSD now depends on where a given Tesla was built, even within the same lineup.\n\nSouth Korea was already a milestone market for Tesla's overseas FSD push — it became the first country outside North America to get FSD v14 on Hardware 4 Model S and X back in November 2025. This HW3 Lite early-access rollout extends that lead.\n\nBut because Model 3 and Y dominate Korea's Tesla sales mix, the near-term impact on subscription revenue or user reach is limited — unlocking FSD for the China-built fleet still hinges on progress with Korean regulators.",
-      "href": "https://biz.chosun.com/en/en-industry/2026/07/10/WIAUDJXLOBCVBIVKUQL6IDEICQ/",
+      "slug": "fsd-v14-lite-korea-launch-2026-07-10",
+      "summary": "테슬라의 하드웨어3(HW3) 부활 프로젝트가 국제 시장으로 확대되고 있다. 6월 29일 미국 배포를 시작한 데 이어, 한국이 FSD(감독형) v14 Lite를 받는 두 번째 시장이 됐다 — 한국 HW3 오너들은 2025년 초 이후 FSD 12.6에 머물러 있었던 터라, 1년여 만의 의미 있는 기능 업데이트다.\n\n적용 대상은 좁다. 하드웨어3 컴퓨터를 탑재하고 FSD(감독형)를 구매·활성화한 미국(프리몬트)산 모델3·모델Y만 해당하며, 차량별로 OTA를 통해 순차 제공된다.\n\n중국 상하이 공장에서 생산된 모델3·모델Y — 한국 테슬라 판매 물량의 대다수를 차지한다 — 는 이번 배포에서 제외된다. 하드웨어와 무관하게 현지 인증 규제로 소프트웨어 단에서 FSD 자체가 잠겨 있는 상태로, 이번 롤아웃 이전부터 존재해온 생산지 기반 구분이다.\n\nv14 Lite는 HW4 기반 v14 신경망을 HW3 연산 용량에 맞게 압축한 버전으로, 차선 변경·합류·곡선 구간 주행이 더 매끄러워졌고, 그동안 없었던 주차·출차·후진, 도착 옵션(Arrival Options), 속도 프로필(Speed Profiles) 기능도 새로 추가됐다.\n\n주주 관점에서는 한국이 두 번째 해외 시장으로 선택됐다는 점이 테슬라가 예상보다 빠르게 HW3 해외 동등화를 우선시하고 있다는 신호다 — 다만 상하이산 차량 제외가 계속되는 한 한국 내 설치 기반의 다수는 여전히 혜택을 못 받는다. 테슬라가 이 인증 문제를 어떻게(혹은 언제) 풀지가 관전 포인트다.",
+      "title_en": "Tesla Launches FSD v14 Lite in <em>South Korea</em> — US-Built Model 3/Y Only",
+      "hotShort_en": "Tesla FSD v14 Lite hits <em>South Korea</em> — US-built Model 3/Y only",
+      "body_en": "Tesla Korea began rolling out FSD (Supervised) v14 Lite on July 10 — the second international market after North America. Eligibility is limited to US-built Model 3 and Model Y with Hardware 3 (HW3) and a purchased FSD subscription; Shanghai-built Model 3/Y, which make up the majority of Korea's Tesla fleet, remain software-locked out of FSD under local certification rules — an origin-based access gap that limits how many Korean owners actually benefit.",
+      "summary_en": "Tesla's Hardware 3 revival continues to expand internationally. After the U.S. rollout began June 29, South Korea became the second market to receive FSD (Supervised) v14 Lite on July 10 — Korean HW3 owners had been frozen on FSD 12.6 since early 2025, so this marks their first meaningful capability update in over a year.\n\nEligibility is narrow: only U.S.-built (Fremont) Model 3 and Model Y equipped with the FSD computer and an active FSD (Supervised) purchase qualify, with updates arriving sequentially via OTA.\n\nModel 3 and Model Y units built at Tesla's Shanghai plant — which account for the majority of Tesla's Korean sales — are excluded. Local certification requirements keep FSD software-locked on those cars regardless of hardware, an origin-based split that predates this specific rollout.\n\nv14 Lite compresses the HW4-based v14 neural net down to HW3's compute budget, adding smoother lane changes, merges, and curve handling, plus previously-missing features like parking, unparking, reversing, Arrival Options, and Speed Profiles.\n\nFor shareholders, Korea's inclusion as only the second international market signals Tesla is prioritizing HW3 parity abroad faster than some expected — but the persistent Shanghai-built exclusion means a majority of the installed Korean fleet still won't see any benefit, a gap worth watching for how (or whether) Tesla resolves the underlying certification issue.",
+      "href": "https://www.notateslaapp.com/news/4418/tesla-starts-rolling-out-fsd-v14-lite-internationally",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Electrek",
+        "ZDNet Korea",
+        "전자신문"
+      ],
       "sentiment": "neutral",
-      "hot": 5
+      "hot": 6
     },
     {
       "category": "fsd",
@@ -189,5 +196,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-07-11 00:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-11 03:56 KST 자동 갱신 · 최신순"
 }
