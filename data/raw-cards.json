@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-07-11 09:43 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-11 11:10 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-11T08:38:41.000Z",
       "title": "Tesla's Robotaxi service is now active in part of Miami",
       "body": "Tesla's Robotaxi service is now active in part of Miami Mashable",
@@ -17,7 +17,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-11T08:16:36.000Z",
       "title": "Tesla tests Cybercab robotaxis on Austin roads without a steering wheel or any pedals",
       "body": "Tesla tests Cybercab robotaxis on Austin roads without a steering wheel or any pedals Tesla Oracle",
@@ -30,7 +30,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-10T21:26:40.000Z",
       "title": "Tesla shows rapid teardown of Model S and X lines, paving the way for Optimus at Fremont",
       "body": "Tesla shared a striking video showcasing the decommissioning of the original Model S and Model X assembly line at its Fremont Factory in Northern California. Completed in just 46 days, the teardown involved heavy machine…",
@@ -41,9 +41,22 @@
       "href": "https://www.teslarati.com/tesla-shows-rapid-teardown-model-s-and-x-lines-paving-way-optimus-fremont/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "15h ago",
+      "pubDate": "2026-07-10T20:23:36.000Z",
+      "title": "Tesla analyst says Full Self-Driving is about to have its iPhone moment",
+      "body": "Tesla analyst says Full Self-Driving is about to have its iPhone moment Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-analyst-full-self-driving-iphone-moment/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-10T20:14:00.000Z",
       "title": "Tesla Stock: Why Its Valuation Is Weighing on It Like an Anchor",
       "body": "Tesla Stock: Why Its Valuation Is Weighing on It Like an Anchor Barron's",
@@ -56,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-10T20:11:00.000Z",
       "title": "SpaceX Will Be ‘Worth More Than the Rest of Earth,’ Musk Says. How He Gets There.",
       "body": "SpaceX Will Be ‘Worth More Than the Rest of Earth,’ Musk Says. How He Gets There. Barron's",
@@ -67,22 +80,9 @@
       "href": "https://www.barrons.com/articles/elon-musk-spacex-stock-worth-more-earth-cebedeeb"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
-      "pubDate": "2026-07-10T17:23:41.000Z",
-      "title": "Tesla analyst says Full Self-Driving is about to have its iPhone moment",
-      "body": "Tesla analyst says Full Self-Driving is about to have its iPhone moment Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-analyst-full-self-driving-iphone-moment/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-07-10T13:37:11.000Z",
       "title": "A Month After SpaceX IPO, Tesla’s Stock Keeps Holding Its Ground",
       "body": "A Month After SpaceX IPO, Tesla’s Stock Keeps Holding Its Ground Bloomberg.com",
@@ -95,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-10T12:00:42.000Z",
       "title": "Echostar Bulls Say It Offers Traders Discounted SpaceX Exposure",
       "body": "Echostar Bulls Say It Offers Traders Discounted SpaceX Exposure Bloomberg.com",
@@ -108,7 +108,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
+      "time": "1d ago",
+      "pubDate": "2026-07-10T11:27:00.000Z",
+      "title": "How SpaceX Stock Can Hit $900",
+      "body": "How SpaceX Stock Can Hit $900 Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/spacex-stock-price-analyst-target-7a020bc8"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1d ago",
       "pubDate": "2026-07-10T11:16:00.000Z",
       "title": "Elon Musk Has Some Wild Thoughts About SpaceX’s Valuation",
       "body": "Elon Musk Has Some Wild Thoughts About SpaceX’s Valuation Barron's",
@@ -132,19 +145,6 @@
       "href": "https://www.barrons.com/articles/tesla-stock-price-analyst-dont-buy-d65fe50b"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-09T19:33:03.000Z",
-      "title": "Is SpaceX a Value Stock? Fidelity and FTSE Russell Think So",
-      "body": "Is SpaceX a Value Stock? Fidelity and FTSE Russell Think So Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/newsletters/2026-07-09/is-spacex-spcx-a-value-stock-felv-and-ftse-russell-rlv-think-so"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2d ago",
@@ -156,19 +156,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-ai-buy-d65fe50b"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-09T09:44:00.000Z",
-      "title": "Tesla Inc. Stock Grades | TSLA",
-      "body": "Tesla Inc. Stock Grades | TSLA Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/market-data/stocks/tsla/stock-grader?amp%252525253Bmod"
     },
     {
       "category": "product",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/d4d19d9b-3576-4a28-b972-3007b6cb0bdc?syn-25a6b1a6"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "9d ago",
+      "pubDate": "2026-07-02T07:00:00.000Z",
+      "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
+      "body": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html"
     }
   ]
 }
