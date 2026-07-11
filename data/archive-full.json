@@ -1,6 +1,51 @@
 {
-  "asOf": "2026-07-10 23:02 UTC · 누적 583건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-11 03:18 UTC · 누적 585건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5h ago",
+      "pubDate": "2026-07-10T21:26:40.000Z",
+      "title": "테슬라, 프리몬트 모델S·X 라인 <em>46일 만에 철거 완료</em> — 옵티머스 생산 준비",
+      "hotShort": "테슬라, 모델S·X 라인 <em>46일 만에 철거</em> 완료",
+      "body": "테슬라가 프리몬트 공장의 모델S·X 조립 라인 철거 영상을 공개했다 — 지난 5월 마지막 차량 생산 이후 <em>46일 만에 철거 완료</em>, 옵티머스 생산 라인 전환 작업이 본궤도에 올랐다. 앞서 머스크가 이 라인을 옵티머스 생산에 쓰겠다고 밝힌 데 이은 구체적 진행 상황이다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-fremont-optimus-teardown-2026-07-10",
+      "summary": "테슬라는 지난 5월 9일 프리몬트 공장에서 마지막 모델S와 모델X를 각각 생산하며 두 차종의 생산을 마쳤다. 14년을 이어온 모델S와 11년을 이어온 모델X 라인이 이번엔 로봇 생산 라인으로 바뀔 차례다.\n\n10일 테슬라리아티(Teslarati)가 공개한 영상에는 기존 조립 라인의 대형 장비와 컨베이어, 콘크리트 피트를 철거하는 과정이 담겼다. 회사 측은 이 작업이 46일 만에 끝났다고 밝혔다.\n\n머스크는 앞서 이 공간이 옵티머스 휴머노이드 로봇 생산에 쓰일 것이라고 확인한 바 있으며, 연산 100만 대 규모까지 끌어올리겠다는 목표를 제시했었다. 다만 지난주 머스크는 옵티머스 초기 생산 속도가 완성차 생산과는 달리 매우 더딜 것이라고 선을 그은 상태다.\n\n이번 철거 완료는 프리몬트 라인의 옵티머스 전환이 실제로 진척되고 있음을 보여주는 구체적 신호다. 테슬라 주주 입장에서 로보틱스 사업의 자본 지출·타임라인을 가늠할 수 있는 물리적 증거이자, 완전 전환까지 남은 공정을 지켜볼 다음 이정표가 될 전망이다.",
+      "title_en": "Tesla completes Fremont Model S/X line teardown in <em>46 days</em>, clearing the way for Optimus",
+      "hotShort_en": "Tesla clears Model S/X line in <em>46 days</em>",
+      "body_en": "Tesla released footage showing the teardown of its original Model S/X assembly line at Fremont — completed in <em>just 46 days</em> since the last car rolled off in May — clearing space for Optimus production. It's the first concrete progress marker since Musk confirmed the line's robot conversion.",
+      "summary_en": "Tesla built its last Model S and Model X at the Fremont factory on May 9, ending 14- and 11-year production runs respectively. The space is now being converted into a robot assembly line.\n\nFootage released by Teslarati on July 10 shows heavy machinery dismantling the old line's conveyors and concrete pits. Tesla said the teardown was completed in just 46 days.\n\nMusk previously confirmed the space would be used for Optimus humanoid robot production, with a long-stated goal of scaling to 1 million units a year. Last week, though, he cautioned that early Optimus output would ramp much more slowly than a car line.\n\nThe completed teardown is the first concrete sign that the Fremont-to-Optimus conversion is actually moving forward. For Tesla shareholders, it's physical evidence to gauge the robotics business's capex and timeline as the next milestones in the conversion come into view.",
+      "href": "https://www.teslarati.com/tesla-shows-rapid-teardown-model-s-and-x-lines-paving-way-optimus-fremont/",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
+      "pubDate": "2026-07-10T21:14:06.000Z",
+      "title": "일론 머스크, 테슬라 직원들에 <em>\"그록으로 전환\"</em> 지시 — 본인도 성능 열세 인정",
+      "hotShort": "머스크, 직원에 <em>그록 전환</em> 지시 — 성능 열세 인정",
+      "body": "일론 머스크가 금요일 사내 메모를 통해 테슬라 직원들에게 가능하면 자신의 xAI 모델 <em>그록으로 전환</em>하라고 지시했다 — 며칠 전 테슬라가 직원 AI 도구 지출에 주 $200 상한을 두면서 그록만 예외로 둔 데 이은 조치다. 머스크 본인도 X에서 앤트로픽 모델 대비 성능이 못 미친다고 인정해, 비용 절감이 곧 성능 타협이라는 논란을 자초했다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "musk-grok-staff-switch-2026-07-10",
+      "summary": "테슬라가 지난 7월 6일부터 시행 중인 직원 AI 도구 지출 주 $200 상한 정책(그록 제외)에 이어, 머스크가 이번엔 한발 더 나아가 직접 그록 사용을 독려하고 나섰다. Electrek 이 입수한 사내 메모에 따르면 머스크는 금요일 직원들에게 \"가능하면\" 그록으로 전환할 것을 지시했다.\n\n메모의 명분은 비용이다. 머스크는 X에서 그록 4.5가 작업당 약 $0.13 수준으로 앤트로픽 Fable 5의 작업당 $1.57 대비 훨씬 저렴하다고 밝히며, \"공정하게 말해 Fable이 그록 4.5보다 확실히 낫지만, 대부분 작업은 Fable 수준 성능이 필요 없다\"고 인정했다.\n\n배경에는 급증한 AI 사용 비용이 있다. 테슬라는 지난 6개월간 사내 리더보드로 엔지니어들의 토큰 사용을 독려해왔는데, 일부 소프트웨어 엔지니어가 주당 수천 달러어치 토큰을 소비하면서 비용이 통제 불능 수준에 이르렀다는 것이다.\n\n다만 직원들 사이에서 그록의 인기는 높지 않다 — 다수는 앤트로픽 Fable을 선호하는 것으로 알려졌다. 테슬라 주주 입장에서 직접적 실적 신호는 아니지만, 머스크가 자사 AI 인프라(xAI, 현재 스페이스X 산하)를 비용 절감 명분으로 사내 표준으로 밀어붙이는 동시에 성능 열세를 공개 인정한 점은, 테슬라의 AI·자율주행 개발에 실제로 어떤 도구가 쓰이는지에 대한 신뢰성 논란으로 번질 수 있다.",
+      "title_en": "Musk tells Tesla staff to switch to <em>Grok</em> — even as he admits it's worse",
+      "hotShort_en": "Musk pushes staff toward <em>worse</em> Grok",
+      "body_en": "Elon Musk told Tesla staff in a Friday memo to switch to <em>Grok</em> \"when possible\" — days after Tesla capped employee AI spending at $200/week with Grok exempted. Musk himself admitted on X that Grok trails Anthropic's Fable 5 in quality, tying the cost-cutting push to a performance trade-off.",
+      "summary_en": "Tesla's new $200-per-week cap on employee AI tool spending, in effect since July 6, already carved out an exemption for Grok. Now Musk has gone a step further, directly urging staff to adopt it. According to a memo obtained by Electrek, Musk told employees on Friday to switch to Grok \"when possible.\"\n\nThe stated reason is cost. Musk wrote on X that Grok 4.5 runs at roughly $0.13 per task versus $1.57 for Anthropic's Fable 5, adding: \"In fairness, Fable is definitely better than Grok 4.5, but most tasks don't require Fable-level capability.\"\n\nThe push follows months of runaway AI spending inside Tesla. The company had gamified token usage with internal leaderboards to drive adoption, and some software engineers were burning through thousands of dollars in tokens per week before the cap was imposed.\n\nGrok isn't popular internally, though — several employees reportedly prefer Anthropic's Fable models. For Tesla shareholders, the episode isn't an earnings signal, but it does raise questions about how Musk balances cost control against tool quality in the AI and autonomy work (FSD, Dojo) that underpins Tesla's investment case.",
+      "href": "https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "TheStreet"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
