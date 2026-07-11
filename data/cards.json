@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "23m ago",
+      "pubDate": "2026-07-11T20:33:48.000Z",
+      "title": "테슬라 \"기가텍사스서 사이버캡 <em>직원 시승 시작</em>\" — 무대는 아직 공장 주차장",
+      "hotShort": "테슬라, 사이버캡 <em>직원 시승 개시</em> — 주차장 한정",
+      "body": "테슬라가 핸들·페달 없는 양산형 사이버캡으로 기가텍사스 직원들을 태우는 시승을 시작했다고 밝혔다 — 실제 사람을 태운 첫 사례라는 상징성은 있지만, 공개 범위는 아직 공장 부지 내 주차장으로 한정돼 있다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-cybercab-employee-rides-giga-texas-2026-07-11",
+      "summary": "테슬라가 자사 X 계정 두 곳을 통해 텍사스 기가팩토리(기가텍사스)에서 사이버캡으로 직원들을 태우는 시승이 \"곧 시작된다\"고 알렸다. 사이버캡은 핸들과 페달이 아예 없는 2인승 양산형 로보택시로, 이번이 실제 사람을 태우고 움직이는 모습이 공개적으로 확인된 첫 사례로 꼽힌다.\n\n다만 전자전기 매체 일렉트렉(Electrek)은 이를 \"테슬라의 주장\"으로 조심스럽게 전하며, 공개된 주행 범위가 공도가 아닌 공장 부지 내 주차장에 그친다는 점을 짚었다. 테슬라레이티(Teslarati)도 같은 소식을 보도했다.\n\n앞서 6월 30일에는 핸들·페달 없는 프로덕션 사이버캡이 승객 없이 오스틴 공도를 시험 주행하는 모습이 확인된 바 있다 — 이번 주차장 시승은 여기서 한 단계 더 나아가 실제 승객(직원)을 태웠다는 점에서 의미가 있지만, 여전히 통제된 저위험 환경에 머물러 있다.\n\n사이버캡의 상용화는 규제 변수에도 달려 있다. NHTSA는 지난 9일 무인차의 핸들 의무 규정 재검토 가능성을 시사한 바 있어, 핸들 없는 사이버캡의 규제 통과 여부가 여전히 관전 포인트로 남아 있다.",
+      "title_en": "Tesla says <em>Cybercab now gives employee rides</em> at Giga Texas — but only in the parking lot",
+      "hotShort_en": "Tesla's Cybercab <em>starts employee rides</em>",
+      "body_en": "Tesla says its production Cybercab — the two-seat robotaxi with no steering wheel or pedals — has begun giving employee rides at Giga Texas, a first for putting real passengers inside the vehicle. The catch: it's confined to the factory's own parking lot, not public roads.",
+      "summary_en": "Tesla announced via two of its X accounts that Cybercab rides for employees are \"starting soon\" at Giga Factory Texas. The two-seat production Cybercab has no steering wheel or pedals, and this marks the first publicly confirmed instance of the robotaxi carrying actual passengers rather than running empty.\n\nElectrek reported the news cautiously, framing it as a claim from Tesla, and noted the driving is limited to the factory's own parking lot rather than public streets. Teslarati also covered the development.\n\nThe parking-lot rides follow a June 30 driverless test of a production Cybercab on public roads in Austin — without passengers. Putting employees in the vehicle is a step forward, but it's still happening in a controlled, low-stakes environment.\n\nCybercab's path to real-world deployment also hinges on regulation. NHTSA signaled on July 9 that it could revisit the steering-wheel requirement for driverless vehicles — a rule that directly affects whether a wheel-less car like Cybercab can legally operate.",
+      "href": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "5h ago",
@@ -167,34 +192,7 @@
       ],
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "",
-      "pubDate": "2026-07-10T05:00:00.000Z",
-      "title": "테슬라, 한국에 FSD v14 Lite 출시 — <em>미국산 모델3·Y만</em> 적용, 중국산은 제외",
-      "hotShort": "테슬라 FSD v14 Lite 한국 출시 — <em>미국산 모델3·Y만</em> 적용",
-      "body": "테슬라코리아가 7월 10일 FSD(감독형) v14 Lite를 한국에 배포하기 시작했다 — 북미 다음으로 세계 두 번째 시장이다. 대상은 하드웨어3(HW3)에 FSD를 구매한 미국산 모델3·Y뿐이며, 한국 판매 물량 대다수를 차지하는 중국 상하이산 모델3·Y는 현지 규제로 소프트웨어 단에서 여전히 FSD가 잠겨 있다 — 생산지에 따른 접근권 격차가 한국 오너 다수의 체감 혜택을 제한하는 구조다.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-lite-korea-launch-2026-07-10",
-      "summary": "테슬라의 하드웨어3(HW3) 부활 프로젝트가 국제 시장으로 확대되고 있다. 6월 29일 미국 배포를 시작한 데 이어, 한국이 FSD(감독형) v14 Lite를 받는 두 번째 시장이 됐다 — 한국 HW3 오너들은 2025년 초 이후 FSD 12.6에 머물러 있었던 터라, 1년여 만의 의미 있는 기능 업데이트다.\n\n적용 대상은 좁다. 하드웨어3 컴퓨터를 탑재하고 FSD(감독형)를 구매·활성화한 미국(프리몬트)산 모델3·모델Y만 해당하며, 차량별로 OTA를 통해 순차 제공된다.\n\n중국 상하이 공장에서 생산된 모델3·모델Y — 한국 테슬라 판매 물량의 대다수를 차지한다 — 는 이번 배포에서 제외된다. 하드웨어와 무관하게 현지 인증 규제로 소프트웨어 단에서 FSD 자체가 잠겨 있는 상태로, 이번 롤아웃 이전부터 존재해온 생산지 기반 구분이다.\n\nv14 Lite는 HW4 기반 v14 신경망을 HW3 연산 용량에 맞게 압축한 버전으로, 차선 변경·합류·곡선 구간 주행이 더 매끄러워졌고, 그동안 없었던 주차·출차·후진, 도착 옵션(Arrival Options), 속도 프로필(Speed Profiles) 기능도 새로 추가됐다.\n\n주주 관점에서는 한국이 두 번째 해외 시장으로 선택됐다는 점이 테슬라가 예상보다 빠르게 HW3 해외 동등화를 우선시하고 있다는 신호다 — 다만 상하이산 차량 제외가 계속되는 한 한국 내 설치 기반의 다수는 여전히 혜택을 못 받는다. 테슬라가 이 인증 문제를 어떻게(혹은 언제) 풀지가 관전 포인트다.",
-      "title_en": "Tesla Launches FSD v14 Lite in <em>South Korea</em> — US-Built Model 3/Y Only",
-      "hotShort_en": "Tesla FSD v14 Lite hits <em>South Korea</em> — US-built Model 3/Y only",
-      "body_en": "Tesla Korea began rolling out FSD (Supervised) v14 Lite on July 10 — the second international market after North America. Eligibility is limited to US-built Model 3 and Model Y with Hardware 3 (HW3) and a purchased FSD subscription; Shanghai-built Model 3/Y, which make up the majority of Korea's Tesla fleet, remain software-locked out of FSD under local certification rules — an origin-based access gap that limits how many Korean owners actually benefit.",
-      "summary_en": "Tesla's Hardware 3 revival continues to expand internationally. After the U.S. rollout began June 29, South Korea became the second market to receive FSD (Supervised) v14 Lite on July 10 — Korean HW3 owners had been frozen on FSD 12.6 since early 2025, so this marks their first meaningful capability update in over a year.\n\nEligibility is narrow: only U.S.-built (Fremont) Model 3 and Model Y equipped with the FSD computer and an active FSD (Supervised) purchase qualify, with updates arriving sequentially via OTA.\n\nModel 3 and Model Y units built at Tesla's Shanghai plant — which account for the majority of Tesla's Korean sales — are excluded. Local certification requirements keep FSD software-locked on those cars regardless of hardware, an origin-based split that predates this specific rollout.\n\nv14 Lite compresses the HW4-based v14 neural net down to HW3's compute budget, adding smoother lane changes, merges, and curve handling, plus previously-missing features like parking, unparking, reversing, Arrival Options, and Speed Profiles.\n\nFor shareholders, Korea's inclusion as only the second international market signals Tesla is prioritizing HW3 parity abroad faster than some expected — but the persistent Shanghai-built exclusion means a majority of the installed Korean fleet still won't see any benefit, a gap worth watching for how (or whether) Tesla resolves the underlying certification issue.",
-      "href": "https://www.notateslaapp.com/news/4418/tesla-starts-rolling-out-fsd-v14-lite-internationally",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "Electrek",
-        "ZDNet Korea",
-        "전자신문"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-11 06:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-12 06:00 KST 자동 갱신 · 최신순"
 }

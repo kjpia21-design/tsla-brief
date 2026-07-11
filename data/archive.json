@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "23m ago",
+      "pubDate": "2026-07-11T20:33:48.000Z",
+      "title": "테슬라 \"기가텍사스서 사이버캡 <em>직원 시승 시작</em>\" — 무대는 아직 공장 주차장",
+      "hotShort": "테슬라, 사이버캡 <em>직원 시승 개시</em> — 주차장 한정",
+      "body": "테슬라가 핸들·페달 없는 양산형 사이버캡으로 기가텍사스 직원들을 태우는 시승을 시작했다고 밝혔다 — 실제 사람을 태운 첫 사례라는 상징성은 있지만, 공개 범위는 아직 공장 부지 내 주차장으로 한정돼 있다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-cybercab-employee-rides-giga-texas-2026-07-11",
+      "summary": "테슬라가 자사 X 계정 두 곳을 통해 텍사스 기가팩토리(기가텍사스)에서 사이버캡으로 직원들을 태우는 시승이 \"곧 시작된다\"고 알렸다. 사이버캡은 핸들과 페달이 아예 없는 2인승 양산형 로보택시로, 이번이 실제 사람을 태우고 움직이는 모습이 공개적으로 확인된 첫 사례로 꼽힌다.\n\n다만 전자전기 매체 일렉트렉(Electrek)은 이를 \"테슬라의 주장\"으로 조심스럽게 전하며, 공개된 주행 범위가 공도가 아닌 공장 부지 내 주차장에 그친다는 점을 짚었다. 테슬라레이티(Teslarati)도 같은 소식을 보도했다.\n\n앞서 6월 30일에는 핸들·페달 없는 프로덕션 사이버캡이 승객 없이 오스틴 공도를 시험 주행하는 모습이 확인된 바 있다 — 이번 주차장 시승은 여기서 한 단계 더 나아가 실제 승객(직원)을 태웠다는 점에서 의미가 있지만, 여전히 통제된 저위험 환경에 머물러 있다.\n\n사이버캡의 상용화는 규제 변수에도 달려 있다. NHTSA는 지난 9일 무인차의 핸들 의무 규정 재검토 가능성을 시사한 바 있어, 핸들 없는 사이버캡의 규제 통과 여부가 여전히 관전 포인트로 남아 있다.",
+      "title_en": "Tesla says <em>Cybercab now gives employee rides</em> at Giga Texas — but only in the parking lot",
+      "hotShort_en": "Tesla's Cybercab <em>starts employee rides</em>",
+      "body_en": "Tesla says its production Cybercab — the two-seat robotaxi with no steering wheel or pedals — has begun giving employee rides at Giga Texas, a first for putting real passengers inside the vehicle. The catch: it's confined to the factory's own parking lot, not public roads.",
+      "summary_en": "Tesla announced via two of its X accounts that Cybercab rides for employees are \"starting soon\" at Giga Factory Texas. The two-seat production Cybercab has no steering wheel or pedals, and this marks the first publicly confirmed instance of the robotaxi carrying actual passengers rather than running empty.\n\nElectrek reported the news cautiously, framing it as a claim from Tesla, and noted the driving is limited to the factory's own parking lot rather than public streets. Teslarati also covered the development.\n\nThe parking-lot rides follow a June 30 driverless test of a production Cybercab on public roads in Austin — without passengers. Putting employees in the vehicle is a step forward, but it's still happening in a controlled, low-stakes environment.\n\nCybercab's path to real-world deployment also hinges on regulation. NHTSA signaled on July 9 that it could revisit the steering-wheel requirement for driverless vehicles — a rule that directly affects whether a wheel-less car like Cybercab can legally operate.",
+      "href": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "5h ago",
@@ -2408,32 +2433,7 @@
       ],
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-06-27T00:28:52.000Z",
-      "title": "스페이스X 7월 7일 나스닥 100 편입 확정 — JP모건 <em>$43억 패시브 매수</em> 추산",
-      "hotShort": "스페이스X 나스닥 100 편입 — <em>$43억 강제 매수</em>",
-      "body": "스페이스X(SPCX)가 7월 7일 나스닥 100 지수에 공식 편입된다 — IPO(6월 12일, 역대 최대 규모) 불과 15일 만의 패스트 트랙 편입으로, JP모건은 QQQ 등 나스닥 100 추종 ETF들이 약 $43억(4.3B달러)을 기계적으로 매수해야 할 것으로 추산했다. 머스크의 핵심 자산이 세계 최대 기술 지수에 안착하며 기관 투자자의 머스크 생태계 접근이 구조적으로 확대되는 이정표다.",
-      "title_en": "SpaceX confirmed for Nasdaq 100 on July 7 — JP Morgan sees <em>$4.3B in passive buying</em>",
-      "hotShort_en": "SpaceX enters Nasdaq 100 July 7 — <em>$4.3B forced buying</em>",
-      "body_en": "SpaceX (SPCX) will join the Nasdaq 100 effective July 7 — one of the fastest-ever index inclusions, just 15 days after its record-breaking June 12 IPO at $135/share. JP Morgan estimates that ETFs and funds tracking the Nasdaq 100 (including QQQ) must mechanically buy roughly $4.3B of SpaceX shares. The milestone embeds SpaceX — Musk's most capital-intensive venture — in the world's most-tracked tech index, structurally widening institutional exposure to the Musk asset complex.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-nasdaq100-inclusion-2026-06-27",
-      "summary": "나스닥은 6월 26일 장 마감 후 스페이스X(NASDAQ: SPCX)가 나스닥 100 지수 편입 기준을 충족한다고 공식 발표했다. 지수 추종 ETF·인덱스 펀드들의 기계적 매수는 7월 6일 장 마감 후 시작되며, 스페이스X는 7월 7일 개장 전부터 나스닥 100 구성 종목이 된다.\n\n이번 편입이 주목받는 핵심은 속도다. 스페이스X는 6월 12일 주당 $135에 상장하며 역대 최대 규모 IPO를 달성했고, 상장 15일 만에 세계 최대 기술 지수 중 하나인 나스닥 100에 패스트 트랙으로 편입됐다. JP모건은 편입에 따른 패시브 자금 유입을 약 $43억(4.3B달러)으로 추산한다. 운용 자산 $2,500억 이상의 QQQ 등 나스닥 100 추종 ETF들은 지수 비중에 맞춰 스페이스X 주식을 의무 매수해야 한다.\n\n테슬라 주주 관점에서 이번 편입은 간접적이지만 구조적인 신호다. 스페이스X가 글로벌 기술 투자자의 핵심 기준점인 나스닥 100의 일원이 되면, 기관 투자자의 머스크 생태계 전반에 대한 노출이 확대된다. 스페이스X와 테슬라는 독립 법인이지만, 머스크 생태계의 기관 접근성이 높아질수록 테슬라에도 긍정적 심리가 파급되는 구조다.\n\n다만 스페이스X 주가는 IPO 이후 -30%대 조정을 받았고, 채권 발행 직후 손실 등 변동성도 크다. 패시브 매수 수요가 시장에 새로운 지지선을 만들 수 있지만, 빠른 지수 편입은 그만큼 고점 대비 낙폭이 클 때도 지수를 끌어내리는 요인이 될 수 있다.",
-      "summary_en": "Nasdaq announced after the June 26 close that SpaceX (NASDAQ: SPCX) qualifies for inclusion in the Nasdaq 100. Index-tracking ETFs and passive funds begin purchasing shares after the July 6 close; SpaceX officially becomes a Nasdaq 100 constituent from the July 7 open.\n\nThe highlight is the speed of inclusion. SpaceX went public on June 12 at $135 per share in the largest IPO in history, and will join the Nasdaq 100 just 15 days later — among the fastest-ever additions to the index. JP Morgan estimates approximately $4.3 billion in passive inflows as a result of the inclusion. ETFs and index funds tracking the Nasdaq 100 — including QQQ, with over $250B in assets under management — must mechanically purchase SpaceX shares to match the index's new composition.\n\nFor Tesla shareholders, the development is indirect but structurally meaningful. SpaceX's embedding in the world's most widely tracked technology index broadens institutional exposure to the Musk asset complex on a global scale. SpaceX and Tesla are legally independent — their financials are not directly linked — but deepening institutional ownership of SpaceX raises the overall acceptance and visibility of Musk's ventures, which has historically carried positive sentiment spillovers to Tesla.\n\nNotes of caution: SpaceX stock has corrected more than 30% from its post-IPO peak, and bond markets have shown volatility as well. Passive buying inflows can provide a technical floor, but fast-track inclusion at elevated valuations also means a larger drag on the index if the stock continues to slide.",
-      "href": "https://www.reuters.com/markets/us/spacex-set-join-nasdaq-100-index-july-7-2026-06-27/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "JP Morgan"
-      ],
-      "sentiment": "bull",
-      "hot": 7
     }
   ],
-  "asOf": "2026-07-11 06:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-12 06:00 KST 자동 갱신 · 최신순"
 }
