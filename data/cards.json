@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-12T07:35:54.000Z",
+      "title": "테슬라, 2분기 실적발표 <em>7월 22일</em> 확정 — 마진 방어 여부가 관건",
+      "hotShort": "테슬라 2분기 실적, <em>7월 22일</em> 발표 확정",
+      "body": "테슬라가 2분기(4~6월) 실적발표를 미국 동부시간 7월 22일(수) 오후 5시30분, 장 마감 직후 실시한다고 공식 확정했다 — 이미 발표된 기록적 인도량(48만126대)에도 주가가 7.5% 빠졌던 만큼, 이번엔 마진·수익성 숫자가 실제로 드러나며 관전 포인트가 된다.",
+      "sourceName": "Tesla Investor Relations",
+      "sourceLabel": "official",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "테슬라 투자자관계(IR)팀이 2분기 실적발표 일정을 공식 확정했다. 발표는 미국 동부시간 7월 22일(수) 오후 5시30분(서부시간 오후 2시30분, 한국시간 7월23일 오전 6시30분) 장 마감 직후 진행되며, 경영진이 실적과 사업 전망을 논의하는 라이브 Q&A 웹캐스트로 중계된다.\n\n이번 실적발표의 최대 관전 포인트는 마진이다. 지난 7월 2일 발표된 2분기 인도량은 48만126대로 월가 컨센서스(약 40만6천 대)를 큰 폭으로 상회했지만, 정작 그날 주가는 7.5% 급락하며 최근 1년 최악의 하루를 기록했다 — 시장이 인도량 서프라이즈보다 수익성 악화 우려를 더 크게 반영했다는 신호였다.\n\n따라서 이번 실적발표에서는 실제 영업이익률·순이익이 시장 우려를 뒷받침할지, 아니면 반박할지가 핵심이다. 여기에 로보택시·사이버캡·옵티머스 등 신사업 진행 상황에 대한 경영진의 코멘트도 함께 주목받을 전망이다.\n\n웹캐스트 종료 약 2시간 뒤 다시보기 영상이 테슬라 IR 웹사이트에 게시된다.",
+      "title_en": "Tesla confirms Q2 earnings call for <em>July 22</em> — margin defense in focus",
+      "hotShort_en": "Tesla sets Q2 earnings call for <em>July 22</em>",
+      "body_en": "Tesla has officially confirmed its Q2 (April–June) earnings call for Wednesday, July 22 at 5:30 p.m. ET, right after market close — with record deliveries (480,126 units) already reported but the stock still dropping 7.5% that day, investors are watching whether margins hold up this time.",
+      "summary_en": "Tesla's Investor Relations team has officially confirmed the date for its Q2 earnings call: Wednesday, July 22, at 5:30 p.m. ET (2:30 p.m. PT), right after market close. Management will hold a live Q&A webcast to discuss financial results and business outlook.\n\nThe biggest question heading into the call is margins. Tesla's Q2 deliveries, reported on July 2, came in at 480,126 units — well above Wall Street's roughly 406,000-unit consensus — yet the stock still fell 7.5% that day, its worst single-day drop in nearly a year, a sign the market was pricing in profitability concerns more than celebrating the delivery beat.\n\nThat makes the actual operating margin and net income numbers the key thing to watch on July 22 — whether they confirm or push back on those concerns. Management commentary on Robotaxi, Cybercab, and Optimus progress is also expected to draw attention.\n\nAn archived version of the webcast will be posted to Tesla's IR website roughly two hours after the Q&A session ends.",
+      "href": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "23m ago",
@@ -141,58 +161,7 @@
       "href": "https://cnevpost.com/2026/07/10/tesla-files-new-model-y-variant-china/",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-10T14:01:00.000Z",
-      "title": "일론 머스크 \"스페이스X, <em>목표 달성 시 지구 전체보다 가치있을 것</em>\"",
-      "hotShort": "머스크 \"스페이스X, <em>지구보다 가치있을 것</em>\"",
-      "body": "일론 머스크가 X에서 \"우리 목표를 달성하면 스페이스X는 <em>지구의 나머지 전체보다 가치있게 될 것</em>\"이라고 밝혔다 — 궤도 제조·소행성 채굴·화성 식민지 등 지구 밖 경제권 구상을 전제로 한 발언으로, 스페이스X 상장 한 달 만에 밸류에이션 논쟁에 다시 불을 붙였다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-worth-more-than-earth-2026-07-10",
-      "summary": "일론 머스크가 스페이스X의 장기 가치에 대해 그동안 나온 어떤 발언보다 과감한 주장을 내놨다.\n\n머스크는 X에 \"우리가 목표를 달성한다면 스페이스X는 지구의 나머지 전체를 합친 것보다 가치있어질 것\"이라고 적었다. 이 발언은 앤트로픽과 스페이스X-xAI 간 컴퓨팅 자원 거래(보도에 따르면 75억~400억 달러 규모)를 둘러싼 온라인 논쟁 도중 나왔다.\n\n머스크의 주장은 스페이스X가 단순한 로켓·위성 기업을 넘어, 궤도 제조·소행성 채굴·화성 식민지 건설까지 아우르는 다행성 경제의 설계자가 되는 시나리오를 전제로 한다 — 다시 말해 아직 존재하지 않는 시장, 고객, 통화, 규제기관을 상정한 장기 비전이다.\n\n스페이스X는 6월12일 주당 $135로 상장해 860억 달러를 조달하며 사상 최대 IPO를 기록했고 상장 첫날 시가총액 약 2.1조 달러를 찍었다. 테슬라 주주 입장에서는 머스크가 스페이스X의 밸류에이션 상단을 이렇게까지 밀어붙이는 발언이, 테슬라·스페이스X 합병설이 계속 도는 상황에서 협상 기준점을 둘러싼 불확실성을 한층 키우는 요인으로 볼 수 있다.",
-      "title_en": "Elon Musk: SpaceX will be <em>worth more than the rest of Earth</em> if goals are met",
-      "hotShort_en": "Musk: SpaceX could be <em>worth more than Earth</em>",
-      "body_en": "Elon Musk wrote on X that \"SpaceX will be worth more than the rest of Earth\" if the company achieves its goals — a claim built on visions of orbital manufacturing, asteroid mining, and Mars colonies, reigniting valuation debate just a month after SpaceX's IPO.",
-      "summary_en": "Elon Musk made his boldest claim yet about SpaceX's long-term value.\n\nHe wrote on X that \"SpaceX will be worth more than the rest of Earth\" if the company accomplishes its goals. The comment came amid online debate over a reported $7.5 billion to $40 billion compute deal between Anthropic and SpaceX-xAI.\n\nMusk's claim rests on SpaceX evolving beyond rockets and satellites into the architect of a multiplanetary economy — orbital manufacturing, asteroid mining, and Mars colonies — markets, customers, currencies, and regulators that don't exist yet.\n\nSpaceX priced its IPO at $135 a share on June 12, raising $86 billion in the largest IPO ever and hitting roughly $2.1 trillion in market value on its debut trading day. For Tesla shareholders, Musk pushing SpaceX's valuation ceiling this aggressively adds another layer of uncertainty to the reference point for any Tesla-SpaceX merger talks, which continue to circulate.",
-      "href": "https://www.barrons.com/articles/elon-musk-spacex-stock-worth-more-earth-cebedeeb",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Barron's",
-        "Futurism",
-        "TheStreet"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-07-10T11:00:01.000Z",
-      "title": "스페이스X 상장 한 달, 테슬라 주가는 <em>제자리 지켜</em> — 우려했던 '식인' 없었다",
-      "hotShort": "스페이스X 상장 한 달, 테슬라 <em>주가 제자리</em>",
-      "body": "스페이스X가 6월12일 사상 최대 규모로 상장한 지 한 달이 지났지만, 테슬라 주가는 상장 당일 종가 $406.43과 거의 같은 수준을 유지하고 있다 — 스페이스X가 머스크의 투자 관심·자금을 빼앗아 테슬라에 타격을 줄 것이라던 상장 전 우려가 한 달 만에는 현실화하지 않은 모습이다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "stock-spacex-ipo-month-tesla-holding-2026-07-10",
-      "summary": "스페이스X 상장을 앞두고 월가 일각에서는 이 초대형 IPO가 테슬라에 '실존적 위협'이 될 수 있다는 경고가 나왔다 — 머스크의 관심과 자금이 테슬라에서 스페이스X로 옮겨갈 것이라는 우려였다.\n\n한 달이 지난 지금, 결과는 그렇게 명확하지 않다. 테슬라 주가는 스페이스X 상장 당일인 6월12일 $399.49로 출발해 $406.43으로 마감했고, 최근에도 $406.55 수준을 유지하며 큰 변동 없이 버티고 있다.\n\n스페이스X 주가 자체도 상장 초반 급등했다가 빠르게 되밀렸다 — $135 공모가에서 첫 거래 $150으로 출발한 뒤 한때 $150 아래로 밀렸고, 최근 종가는 $152.16 수준이다. 요란했던 관심에 비해 실제 주가 흐름은 비교적 잠잠했다는 평가다.\n\n테슬라 주주 입장에서는 상장 전 우려됐던 '스페이스X가 테슬라 투자자금을 빨아들인다'는 시나리오가 적어도 한 달 시점까지는 뚜렷하게 나타나지 않았다는 점이 안도 요인이지만, 두 종목 모두 아직 단기 데이터인 만큼 장기 추세는 더 지켜봐야 한다.",
-      "title_en": "A month after SpaceX's IPO, Tesla stock is <em>holding its ground</em>",
-      "hotShort_en": "Tesla stock <em>holds steady</em> a month after SpaceX IPO",
-      "body_en": "A month after SpaceX's record-breaking June 12 IPO, Tesla shares are trading close to that day's $406.43 close — the pre-IPO fear that SpaceX would drain Musk's attention and capital away from Tesla hasn't clearly played out one month in.",
-      "summary_en": "Ahead of SpaceX's IPO, some on Wall Street warned the mega-offering could pose an 'existential threat' to Tesla — the concern being that Musk's attention and capital would shift from Tesla toward SpaceX.\n\nA month later, the picture isn't so clear-cut. Tesla opened at $399.49 on June 12, the day of SpaceX's IPO, closed that day at $406.43, and has recently been trading around $406.55 — holding steady with little drama.\n\nSpaceX's own stock spiked early and quickly cooled. It priced at $135 and opened trading at $150, later dipping below that level before settling around $152.16 in recent trading — a relatively quiet outcome given all the attention around the deal.\n\nFor Tesla shareholders, the reassuring takeaway is that the feared scenario — SpaceX siphoning investor capital away from Tesla — hasn't clearly materialized one month in, though both stocks still have a short track record and the longer-term trend remains to be seen.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Bloomberg",
-        "The Edge Malaysia"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-12 06:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-12 16:40 KST 자동 갱신 · 최신순"
 }

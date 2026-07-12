@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-12T07:35:54.000Z",
+      "title": "테슬라, 2분기 실적발표 <em>7월 22일</em> 확정 — 마진 방어 여부가 관건",
+      "hotShort": "테슬라 2분기 실적, <em>7월 22일</em> 발표 확정",
+      "body": "테슬라가 2분기(4~6월) 실적발표를 미국 동부시간 7월 22일(수) 오후 5시30분, 장 마감 직후 실시한다고 공식 확정했다 — 이미 발표된 기록적 인도량(48만126대)에도 주가가 7.5% 빠졌던 만큼, 이번엔 마진·수익성 숫자가 실제로 드러나며 관전 포인트가 된다.",
+      "sourceName": "Tesla Investor Relations",
+      "sourceLabel": "official",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "테슬라 투자자관계(IR)팀이 2분기 실적발표 일정을 공식 확정했다. 발표는 미국 동부시간 7월 22일(수) 오후 5시30분(서부시간 오후 2시30분, 한국시간 7월23일 오전 6시30분) 장 마감 직후 진행되며, 경영진이 실적과 사업 전망을 논의하는 라이브 Q&A 웹캐스트로 중계된다.\n\n이번 실적발표의 최대 관전 포인트는 마진이다. 지난 7월 2일 발표된 2분기 인도량은 48만126대로 월가 컨센서스(약 40만6천 대)를 큰 폭으로 상회했지만, 정작 그날 주가는 7.5% 급락하며 최근 1년 최악의 하루를 기록했다 — 시장이 인도량 서프라이즈보다 수익성 악화 우려를 더 크게 반영했다는 신호였다.\n\n따라서 이번 실적발표에서는 실제 영업이익률·순이익이 시장 우려를 뒷받침할지, 아니면 반박할지가 핵심이다. 여기에 로보택시·사이버캡·옵티머스 등 신사업 진행 상황에 대한 경영진의 코멘트도 함께 주목받을 전망이다.\n\n웹캐스트 종료 약 2시간 뒤 다시보기 영상이 테슬라 IR 웹사이트에 게시된다.",
+      "title_en": "Tesla confirms Q2 earnings call for <em>July 22</em> — margin defense in focus",
+      "hotShort_en": "Tesla sets Q2 earnings call for <em>July 22</em>",
+      "body_en": "Tesla has officially confirmed its Q2 (April–June) earnings call for Wednesday, July 22 at 5:30 p.m. ET, right after market close — with record deliveries (480,126 units) already reported but the stock still dropping 7.5% that day, investors are watching whether margins hold up this time.",
+      "summary_en": "Tesla's Investor Relations team has officially confirmed the date for its Q2 earnings call: Wednesday, July 22, at 5:30 p.m. ET (2:30 p.m. PT), right after market close. Management will hold a live Q&A webcast to discuss financial results and business outlook.\n\nThe biggest question heading into the call is margins. Tesla's Q2 deliveries, reported on July 2, came in at 480,126 units — well above Wall Street's roughly 406,000-unit consensus — yet the stock still fell 7.5% that day, its worst single-day drop in nearly a year, a sign the market was pricing in profitability concerns more than celebrating the delivery beat.\n\nThat makes the actual operating margin and net income numbers the key thing to watch on July 22 — whether they confirm or push back on those concerns. Management commentary on Robotaxi, Cybercab, and Optimus progress is also expected to draw attention.\n\nAn archived version of the webcast will be posted to Tesla's IR website roughly two hours after the Q&A session ends.",
+      "href": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "23m ago",
@@ -2408,32 +2428,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "yesterday",
-      "pubDate": "2026-06-27T08:55:43.000Z",
-      "title": "NHTSA, 376K대 테슬라 <em>파워스티어링 조사 종결</em> — 추가 조치 없이",
-      "hotShort": "NHTSA, 테슬라 파워스티어링 <em>조사 종결</em>",
-      "body": "미 도로교통안전국(NHTSA)이 약 376,241대(2023년형 모델3·모델Y)를 대상으로 3년 가까이 끌어온 '파워스티어링 상실' 조사를 추가 조치 없이 종결했다 — 테슬라가 2025년 초 OTA 업데이트로 이미 리콜을 시행한 점을 반영한 결정으로, 로보택시·FSD 확장을 앞두고 장기간 남아 있던 안전 규제 리스크 하나가 해소된 셈이다.",
-      "title_en": "NHTSA <em>closes power-steering probe</em> into 376K Teslas with no further action",
-      "hotShort_en": "NHTSA <em>closes</em> Tesla steering probe",
-      "body_en": "The U.S. National Highway Traffic Safety Administration closed its nearly three-year 'loss of power steering' investigation into about 376,241 Tesla Model 3 and Model Y vehicles (2023 model year) without further action, citing Tesla's earlier recall. Tesla had already addressed the issue via an over-the-air update in early 2025 — so the closure clears a long-running safety-regulatory overhang as the company pushes toward Robotaxi and FSD expansion.",
-      "sourceName": "Reuters",
-      "sourceLabel": "sec",
-      "slug": "product-nhtsa-power-steering-probe-closed-2026-06-27",
-      "summary": "미 도로교통안전국(NHTSA)이 테슬라 파워스티어링 상실 의혹에 대한 장기 조사를 마무리했다. NHTSA 결함조사국(ODI)은 2023년 7월 일부 차주가 '핸들을 돌릴 수 없거나 조향에 더 큰 힘이 필요하다'고 신고한 데 따라 모델3·모델Y에 대한 예비평가를 개시했고, 2024년 초 이를 더 깊이 들여다보는 '엔지니어링 분석'으로 격상한 바 있다.\n\n조사 대상은 2023년형 모델3·모델Y 약 376,241대였다. 테슬라는 이미 2025년 초 미국에서 약 376,000대를 리콜했는데, 인쇄회로기판의 모터 구동부에서 과전압·과부하가 발생해 저속 주행 시 조향이 무거워질 수 있다는 결함을 OTA(무선) 소프트웨어 업데이트로 바로잡는 조치였다.\n\nNHTSA는 테슬라의 리콜을 감안해 엔지니어링 분석을 종결한다고 밝혔다. 별도의 추가 리콜이나 강제 조치는 요구되지 않았다.\n\n주주 입장에서 이번 종결은 작지만 분명한 호재다. 자율주행·로보택시 사업을 핵심 성장축으로 내세운 테슬라에게 미결 안전 조사는 잠재적 규제·평판 리스크였는데, 추가 조치 없이 매듭지어지며 그 부담이 하나 줄었다. 다만 이는 이미 리콜로 처리된 사안의 행정적 마무리로, 새로운 결함이 확인된 것은 아니다.",
-      "summary_en": "The U.S. National Highway Traffic Safety Administration has wrapped up its long-running inquiry into alleged loss of power steering in Teslas. NHTSA's Office of Defects Investigation opened a preliminary evaluation in July 2023 after some owners reported being unable to turn the wheel or needing greater steering effort, then escalated to an Engineering Analysis in early 2024 for a deeper review.\n\nThe probe covered roughly 376,241 Model 3 and Model Y vehicles from the 2023 model year. Tesla had already recalled about 376,000 vehicles in the U.S. in early 2025, fixing via an over-the-air software update a defect in which overvoltage and overstress on the motor-drive section of a printed circuit board could make steering heavier at low speeds.\n\nNHTSA said it was closing the Engineering Analysis in view of Tesla's recall, with no additional recall or enforcement action required.\n\nFor shareholders, the closure is a small but clean positive. Any open federal safety investigation carries latent regulatory and reputational risk — especially for a company whose growth narrative centers on autonomous driving and Robotaxi expansion. Resolving this case without a further enforcement order removes one more overhang, even if the underlying issue had already been patched months ago.",
-      "href": "https://www.reuters.com/business/autos-transportation/us-safety-agency-ends-power-steering-probe-into-376000-tesla-evs-2026-06-27/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "NHTSA"
-      ],
-      "sentiment": "bull",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-12 06:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-12 16:40 KST 자동 갱신 · 최신순"
 }
