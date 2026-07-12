@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-12T16:00:00.000Z",
+      "title": "테슬라 오스틴 로보택시 허브 건축허가서에 <em>청소 로봇</em> 첫 등장",
+      "hotShort": "오스틴 로보택시 허브에 <em>청소 로봇</em> 첫 등장",
+      "body": "테슬라 오스틴 로보택시 허브 건축허가서에 '청소 로봇'이 설비 목록으로 처음 등재됐다 — 현재 사람이 손으로 하는 로보택시 관리를, 허브망 확장에 맞춰 무인 자동화하려는 신호다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-hub-cleaning-robot-austin-2026-07-12",
+      "summary": "테슬라가 텍사스 오스틴에 짓고 있는 로보택시 전용 허브의 건축허가 서류에서 '청소 로봇(cleaning robot)'이 설비 목록에 처음 등장한 사실이 확인됐다. 이 허브는 지난해 말 처음 제안돼 올해 1분기부터 공사가 시작된, 로보택시 차량의 충전·정비·보관을 담당할 중앙 거점이다.\n\n테슬라는 앞서 이 청소 로봇의 작동 방식을 시연한 바 있다 — 다기능 로봇팔에 여러 부착물을 달아, 사이버캡의 21인치 스크린은 회전식 극세사 천으로 지문·먼지를 닦아내고, 강력한 흡입 장치로 좌석·카펫·바닥 매트의 부스러기와 먼지를 제거한다. 로보택시가 충전을 위해 허브로 복귀하면 측면·필러·후방 카메라 렌즈까지 정밀하게 닦아내는 외부 센서 세척도 수행할 수 있다.\n\n현재 운행 중인 모델Y 기반 로보택시는 사람이 직접 청소하는 것으로 알려져 있다. 이번 허가서는 테슬라가 슈퍼차저 네트워크처럼 허브 수를 늘려가며 무인 인프라를 확장하는 과정에서, 세차·정비까지 무인화해 운영비를 낮추려는 방향을 보여준다.\n\n로보택시 사업의 수익성은 결국 차량 가동률과 유지비에 달려 있다 — 청소·정비 자동화는 인건비를 줄이고 24시간 가동을 가능케 하는 핵심 조각 중 하나다.",
+      "title_en": "Tesla's Austin robotaxi hub permit reveals its first <em>cleaning robot</em>",
+      "hotShort_en": "Austin robotaxi hub permit lists a <em>cleaning robot</em>",
+      "body_en": "A construction permit for Tesla's Austin robotaxi hub lists a 'cleaning robot' among its equipment — the first documented instance in Tesla's robotaxi infrastructure, signaling a push to automate fleet maintenance as the hub network scales.",
+      "summary_en": "A construction permit for Tesla's dedicated robotaxi hub in Austin, Texas has revealed a 'cleaning robot' listed among the facility's equipment. The hub, first proposed late last year with construction underway since Q1 2026, is designed as a central depot for fleet charging, maintenance and storage.\n\nTesla has previously demonstrated how the robot works: a multi-function robotic arm uses a rotating microfiber attachment to wipe fingerprints and dust off the Cybercab's 21-inch screen, and a powerful suction attachment to clear crumbs and dirt from seats, carpets and floor mats. When a robotaxi returns to the hub to charge, the same arm can also perform a full exterior sensor sweep, cleaning the side, pillar and rear camera lenses.\n\nToday's Model Y-based robotaxis are reportedly still cleaned by hand. The permit suggests that as Tesla scales its hub network the way it scaled Superchargers, it wants cleaning and maintenance automated too, to keep operating costs down.\n\nRobotaxi economics ultimately hinge on vehicle utilization and upkeep costs — automating cleaning and maintenance is one piece of cutting labor costs and enabling round-the-clock operation.",
+      "href": "https://www.notateslaapp.com/news/4424/tesla-robotaxi-hubs-start-adding-car-cleaning-robots",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -161,27 +181,7 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "26m ago",
-      "pubDate": "2026-07-10T14:15:08.000Z",
-      "title": "테슬라, 중국서 <em>모델Y 퍼포먼스</em> 사양 재신고 — 최고속 250km/h",
-      "hotShort": "테슬라, 중국 모델Y <em>퍼포먼스 사양</em> 재신고",
-      "body": "테슬라가 중국 공업정보화부(MIIT) 최신 차량 신고 목록에 상하이산 <em>모델Y 퍼포먼스</em>로 추정되는 사양을 올렸다 — 최고속 250km/h로 현재 판매 중인 모델Y 4종(최고 201km/h)보다 월등히 빨라, 마진 높은 고성능 트림을 앞세워 중국 시장 대응에 나선 신호로 풀이된다.",
-      "sourceName": "CnEVPost",
-      "sourceLabel": "press",
-      "slug": "product-model-y-performance-china-filing-2026-07-10",
-      "summary": "중국 공업정보화부(MIIT)가 7월10일(현지시간) 공개한 최신 차량 신고 카탈로그에 테슬라의 신규 모델Y 사양이 이름을 올렸다. 사양상 특징을 볼 때 업계는 이를 '모델Y 퍼포먼스'로 보고 있다.\n\n신고된 사양은 상하이 기가팩토리에서 생산되는 듀얼모터 사륜구동으로, 전륜 176kW·후륜 291kW 모터를 조합했고 배터리는 LG에너지솔루션 중국법인의 삼원계(NCM) 리튬이온 팩을 쓴다. 21인치 휠에 프론트 255/35R21·리어 275/35R21 스태거드 타이어를 적용해 전형적인 퍼포먼스 사양 구성을 갖췄다.\n\n최고속도는 250km/h로, 현재 중국에서 판매 중인 모델Y 4개 트림의 최고속(201km/h)을 크게 웃돈다. 차체 크기는 전장 4,796mm·전폭 1,920mm·전고 1,611mm, 휠베이스 2,890mm, 공차중량 2,027kg으로 신고됐다.\n\nMIIT 신고는 7월11일부터 17일까지 공시 기간을 거치며, 통상 이 절차를 마친 차량은 수개월 내 실제 출시로 이어진다. 다만 이번 신고만으로 정식 출시 시점이나 가격은 확인되지 않았다.",
-      "title_en": "Tesla refiles for <em>Model Y Performance</em> in China — top speed 250km/h",
-      "hotShort_en": "Tesla refiles <em>Model Y Performance</em> in China",
-      "body_en": "Tesla listed what appears to be a Shanghai-built <em>Model Y Performance</em> in China's MIIT vehicle filing catalogue — rated at 250km/h top speed, well above the 201km/h cap on today's four Model Y trims, signaling a push for a higher-margin performance trim in China.",
-      "summary_en": "China's Ministry of Industry and Information Technology (MIIT) published its latest vehicle filing catalogue on July 10, and a new Tesla Model Y variant appeared on the list. Based on its specs, industry watchers believe it's the Model Y Performance.\n\nThe filed vehicle is a dual-motor, all-wheel-drive variant built at Tesla's Shanghai plant, combining a 176kW front motor with a 291kW rear motor and a ternary lithium-ion battery pack from LG Energy Solution's China subsidiary. It rides on 21-inch wheels with staggered 255/35R21 front and 275/35R21 rear tires — a setup typical of performance trims.\n\nIts top speed of 250km/h is well above the 201km/h ceiling of the four Model Y variants Tesla currently sells in China. The filing lists dimensions of 4,796mm long, 1,920mm wide and 1,611mm tall on a 2,890mm wheelbase, with a curb weight of 2,027kg.\n\nMIIT filings undergo a public disclosure period — in this case July 11 to 17 — and vehicles that complete the process typically go on sale within a few months. The filing alone doesn't confirm a launch date or price.",
-      "href": "https://cnevpost.com/2026/07/10/tesla-files-new-model-y-variant-china/",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-13 00:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-13 02:10 KST 자동 갱신 · 최신순"
 }

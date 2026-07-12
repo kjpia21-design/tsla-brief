@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-12T16:00:00.000Z",
+      "title": "테슬라 오스틴 로보택시 허브 건축허가서에 <em>청소 로봇</em> 첫 등장",
+      "hotShort": "오스틴 로보택시 허브에 <em>청소 로봇</em> 첫 등장",
+      "body": "테슬라 오스틴 로보택시 허브 건축허가서에 '청소 로봇'이 설비 목록으로 처음 등재됐다 — 현재 사람이 손으로 하는 로보택시 관리를, 허브망 확장에 맞춰 무인 자동화하려는 신호다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-hub-cleaning-robot-austin-2026-07-12",
+      "summary": "테슬라가 텍사스 오스틴에 짓고 있는 로보택시 전용 허브의 건축허가 서류에서 '청소 로봇(cleaning robot)'이 설비 목록에 처음 등장한 사실이 확인됐다. 이 허브는 지난해 말 처음 제안돼 올해 1분기부터 공사가 시작된, 로보택시 차량의 충전·정비·보관을 담당할 중앙 거점이다.\n\n테슬라는 앞서 이 청소 로봇의 작동 방식을 시연한 바 있다 — 다기능 로봇팔에 여러 부착물을 달아, 사이버캡의 21인치 스크린은 회전식 극세사 천으로 지문·먼지를 닦아내고, 강력한 흡입 장치로 좌석·카펫·바닥 매트의 부스러기와 먼지를 제거한다. 로보택시가 충전을 위해 허브로 복귀하면 측면·필러·후방 카메라 렌즈까지 정밀하게 닦아내는 외부 센서 세척도 수행할 수 있다.\n\n현재 운행 중인 모델Y 기반 로보택시는 사람이 직접 청소하는 것으로 알려져 있다. 이번 허가서는 테슬라가 슈퍼차저 네트워크처럼 허브 수를 늘려가며 무인 인프라를 확장하는 과정에서, 세차·정비까지 무인화해 운영비를 낮추려는 방향을 보여준다.\n\n로보택시 사업의 수익성은 결국 차량 가동률과 유지비에 달려 있다 — 청소·정비 자동화는 인건비를 줄이고 24시간 가동을 가능케 하는 핵심 조각 중 하나다.",
+      "title_en": "Tesla's Austin robotaxi hub permit reveals its first <em>cleaning robot</em>",
+      "hotShort_en": "Austin robotaxi hub permit lists a <em>cleaning robot</em>",
+      "body_en": "A construction permit for Tesla's Austin robotaxi hub lists a 'cleaning robot' among its equipment — the first documented instance in Tesla's robotaxi infrastructure, signaling a push to automate fleet maintenance as the hub network scales.",
+      "summary_en": "A construction permit for Tesla's dedicated robotaxi hub in Austin, Texas has revealed a 'cleaning robot' listed among the facility's equipment. The hub, first proposed late last year with construction underway since Q1 2026, is designed as a central depot for fleet charging, maintenance and storage.\n\nTesla has previously demonstrated how the robot works: a multi-function robotic arm uses a rotating microfiber attachment to wipe fingerprints and dust off the Cybercab's 21-inch screen, and a powerful suction attachment to clear crumbs and dirt from seats, carpets and floor mats. When a robotaxi returns to the hub to charge, the same arm can also perform a full exterior sensor sweep, cleaning the side, pillar and rear camera lenses.\n\nToday's Model Y-based robotaxis are reportedly still cleaned by hand. The permit suggests that as Tesla scales its hub network the way it scaled Superchargers, it wants cleaning and maintenance automated too, to keep operating costs down.\n\nRobotaxi economics ultimately hinge on vehicle utilization and upkeep costs — automating cleaning and maintenance is one piece of cutting labor costs and enabling round-the-clock operation.",
+      "href": "https://www.notateslaapp.com/news/4424/tesla-robotaxi-hubs-start-adding-car-cleaning-robots",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -2394,34 +2414,7 @@
       ],
       "sentiment": "neutral",
       "hot": 8
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-06-27T10:00:00.000Z",
-      "title": "테슬라, 사이버캡 비상 대응 가이드에 <em>SAE Level 4</em> 공식 기재 — 운전자 없는 완전 자율 선언",
-      "hotShort": "테슬라, 사이버캡 <em>SAE Level 4</em> 공식 문서화",
-      "body": "테슬라가 공개한 사이버캡 퍼스트리스폰더 가이드에 자율주행 시스템 등급이 'SAE Level 4'로 공식 명시됐다 — 운전자 개입 없이 정해진 운행 구역 내 완전 자율 주행이 가능하다는 법적 선언으로, 보험·규제 책임·로보택시 인허가 논의에서 핵심 근거가 될 이정표다.",
-      "title_en": "Tesla's Cybercab Emergency Guide officially labels it <em>SAE Level 4</em> autonomous",
-      "hotShort_en": "Cybercab: officially <em>SAE Level 4</em> autonomous",
-      "body_en": "Tesla's published Cybercab Emergency Response Guide formally classifies the vehicle's autonomous system as SAE Level 4 — capable of performing the entire driving task within its operating domain with no human input required. The official label in a law-enforcement-facing document establishes a key regulatory benchmark for insurance liability, incident investigations, and robotaxi permit discussions going forward.",
-      "summary": "테슬라가 사이버캡(Cybercab) 퍼스트리스폰더 가이드를 공식 공개하며 자율주행 등급을 'SAE Level 4'로 명시했다. SAE Level 4는 정해진 운행 구역 내에서 운전자 개입 없이 차량이 모든 주행 임무를 독자 수행할 수 있음을 뜻하며, 현재 테슬라가 판매 중인 FSD Supervised(SAE Level 2)와 법적·기술적으로 명확히 구분된다.\n\n이번 문서에서 주목할 점은 테슬라가 직접 규제 기관 및 비상 대응 당국을 대상으로 한 공식 문서에 Level 4를 기재했다는 사실이다. 비상 대응 가이드는 사고 발생 시 소방·경찰이 참고하는 법적 효력을 지닌 기술 문서로, 단순 홍보나 마케팅 자료와 다르다. 이는 보험 책임 범위, 규제 당국의 인허가 조건, 향후 사고 발생 시 법적 귀책 기준에서 핵심 증거가 될 수 있다.\n\n테슬라는 2026년 6월 기준 오스틴(텍사스)에서 사이버캡 로보택시 서비스를 운영 중이며, 미국 여러 주에서 FSD 및 로보택시 확장 허가를 추진하고 있다. SAE Level 4 공식 문서화는 이 인허가 과정을 뒷받침하는 핵심 근거로 작용할 전망이다.\n\n2026년 6월 29일 Teslarati와 Sawyer Merritt(X)의 추가 보도·분석으로 기술 세부 사항이 더 공개됐다. 사이버캡은 400V 메인 배터리 + 48V 저전압 시스템을 채택했으며(800V 아키텍처 미적용), 전륜구동(FWD) 방식이다. Active Hood(보행자 충격 시 자동 상승·부상 경감), 가압 공기 캐니스터, 카메라 워셔, 10개 이상 에어백이 장착됐고, 경찰·소방 수신호 및 콘 경로 인식 프로토콜도 포함됐다 — 각 항목은 사이버캡이 PoC가 아닌 상업 배치를 위해 설계됐음을 보여준다.",
-      "summary_en": "Tesla has officially released a Cybercab First Responder Guide that explicitly classifies the vehicle's autonomous driving system as SAE Level 4. SAE Level 4 means the vehicle can perform the complete driving task within its defined Operational Design Domain (ODD) with no human driver intervention required — a legally and technically distinct category from the FSD Supervised (SAE Level 2) currently sold on Tesla consumer vehicles.\n\nThe significance here is not the technology claim itself, but where Tesla made it: in an official, law-enforcement-facing technical document. First Responder Guides carry legal weight — they are used by firefighters and police during incidents. Unlike marketing materials, this document can be cited in insurance liability cases, regulatory permit hearings, and incident investigations as Tesla's own formal characterization of the vehicle's autonomy level.\n\nTesla has been running Cybercab robotaxi operations in Austin, Texas since mid-2026 and is pursuing permits to expand across multiple U.S. states. The formal SAE Level 4 designation in an official document creates a critical evidentiary foundation for that permitting process and for the regulatory conversations that will determine how quickly the robotaxi fleet can scale.\n\nAdditional technical details confirmed by Teslarati on June 29 and amplified by Sawyer Merritt on X: the Cybercab uses a 400-volt main battery paired with a 48-volt low-voltage system — not the higher-voltage architecture some anticipated. The vehicle is front-wheel drive. Safety equipment includes an Active Hood that rises during certain pedestrian impacts to reduce injury severity, pressurized air canisters, camera washers, and 10 or more airbags across front, knee, inner/outer side-mounted, and curtain positions. These specifics confirm a vehicle engineered for real-world commercial deployment rather than proof-of-concept testing.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "fsd-cybercab-level4-first-responders-2026-06-27",
-      "href": "https://www.notateslaapp.com/news/4287/inside-teslas-robotaxi-playbook-police-collisions-and-weather",
-      "confirmedBy": 5,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "Drive Tesla Canada",
-        "Teslarati",
-        "Sawyer Merritt (X)"
-      ],
-      "sentiment": "bull",
-      "hot": 8
     }
   ],
-  "asOf": "2026-07-13 00:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-13 02:10 KST 자동 갱신 · 최신순"
 }
