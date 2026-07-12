@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-07-12 03:30 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-12 06:39 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2m ago",
+      "pubDate": "2026-07-12T06:37:20.000Z",
+      "title": "Tesla (TSLA) Reports Record Deliveries but Shares Decline",
+      "body": "Tesla (TSLA) Reports Record Deliveries but Shares Decline GuruFocus",
+      "sourceName": "GuruFocus",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.gurufocus.com/news/8954667/tesla-tsla-reports-record-deliveries-but-shares-decline"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-12T04:25:24.000Z",
+      "title": "What's next for Tesla after Q2 delivery results? (TSLA:NASDAQ)",
+      "body": "What's next for Tesla after Q2 delivery results? (TSLA:NASDAQ) Seeking Alpha",
+      "sourceName": "Seeking Alpha",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://seekingalpha.com/news/4612949-whats-next-for-tesla-after-q2-delivery-results"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "9h ago",
+      "pubDate": "2026-07-11T21:24:44.000Z",
+      "title": "Tesla shows rapid teardown of Model S and X lines, paving the way for Optimus at Fremont",
+      "body": "Tesla shows rapid teardown of Model S and X lines, paving the way for Optimus at Fremont Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-shows-rapid-teardown-model-s-and-x-lines-paving-way-optimus-fremont/"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-11T20:51:45.000Z",
       "title": "Anthropic is the leader today, and if they remain the leader we are in for a future of nanny AI babysitting us",
       "body": "Anthropic is the leader today, and if they remain the leader we are in for a future of nanny AI babysitting us https://t.co/sZvaOBekuq",
@@ -17,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-11T20:45:33.000Z",
       "title": "Congrats Sat! What a beautiful car.",
       "body": "Congrats Sat! What a beautiful car. https://t.co/b3RA77tplL",
@@ -30,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-11T20:41:46.000Z",
       "title": "Sam Altman on Apple:",
       "body": "Sam Altman on Apple: https://t.co/pj5aGfO3an",
@@ -43,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-11T20:33:48.000Z",
       "title": "Tesla claims Cybercab driving employees at Giga Texas — in a parking lot",
       "body": "Tesla says “Cybercab employee rides at Giga Texas” are “starting soon” — its first stated step toward putting people inside the wheel-less, pedal-less robotaxi. But the announcement, spread across two Tesla accounts and …",
@@ -56,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-11T20:20:24.000Z",
       "title": "Elon Musk on starting Open AI “I provided all the money, recruited the key people, and taught them everything I know.…",
       "body": "Elon Musk on starting Open AI “I provided all the money, recruited the key people, and taught them everything I know. I actually even got them to deal with Microsoft. And for all that, I did not seek any financial reward…",
@@ -69,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-11T20:17:48.000Z",
       "title": "Big shoes to fill, but I’m confident Optimus will not disappoint!!",
       "body": "Big shoes to fill, but I’m confident Optimus will not disappoint!! https://t.co/GUiqkyKddH",
@@ -82,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-11T20:17:06.000Z",
       "title": "Tesla self-driving enables safer mobility for senior citizens",
       "body": "Tesla self-driving enables safer mobility for senior citizens https://t.co/ubdd42XB1b",
@@ -95,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-11T19:33:55.000Z",
       "title": "BREAKING: Tesla has begun rolling out FSD V14 Lite internationally, with South Korea becoming the first market. 🇰🇷 …",
       "body": "BREAKING: Tesla has begun rolling out FSD V14 Lite internationally, with South Korea becoming the first market. 🇰🇷 The rollout marks the first international deployment of FSD V14 Lite, expanding Tesla's latest driver a…",
@@ -108,20 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
-      "pubDate": "2026-07-11T18:22:24.000Z",
-      "title": "Tesla shows rapid teardown of Model S and X lines, paving the way for Optimus at Fremont",
-      "body": "Tesla shows rapid teardown of Model S and X lines, paving the way for Optimus at Fremont Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-shows-rapid-teardown-model-s-and-x-lines-paving-way-optimus-fremont/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-11T17:51:47.000Z",
       "title": "Never underestimate the utility of a @Tesla Model Y. I fit four 20” wheels in boxes and four 20” tires all behind the…",
       "body": "Never underestimate the utility of a @Tesla Model Y. I fit four 20” wheels in boxes and four 20” tires all behind the first row. The driver and passenger seats are set normally, with plenty of room still. No wonder this …",
@@ -134,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-11T16:39:02.000Z",
       "title": "New EV OTM Supercharger: Stepps, UK (8 stalls)  Learn more about Supercharger for Business:",
       "body": "New EV OTM Supercharger: Stepps, UK (8 stalls) https://t.co/Mo6GmSFumi Learn more about Supercharger for Business: https://t.co/pNlXwjkScj https://t.co/sTmkOm7bOg",
@@ -147,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-11T16:23:17.000Z",
       "title": "Likely the best gift for our senior parents is by giving them freedom of movement and independence.",
       "body": "Likely the best gift for our senior parents is by giving them freedom of movement and independence. https://t.co/54ZgPgpxDr",
@@ -160,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-11T16:15:51.000Z",
       "title": "When a 93-year-old woman noticed how tired she was on her daily drives, she started going out less. But with FSD Supe…",
       "body": "When a 93-year-old woman noticed how tired she was on her daily drives, she started going out less. But with FSD Supervised, she’s now able to drive herself to appointments, run errands and even take road trips to visit …",
@@ -173,15 +199,15 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-07-11T10:32:43.000Z",
-      "title": "Cybercab at a fork in the road",
-      "body": "Cybercab at a fork in the road https://t.co/NRRBmMBtQ0",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
+      "time": "16h ago",
+      "pubDate": "2026-07-11T14:25:29.000Z",
+      "title": "Tesla analyst says Full Self-Driving is about to have its iPhone moment",
+      "body": "Tesla analyst says Full Self-Driving is about to have its iPhone moment Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/elonmusk/status/2075891028284903616"
+      "href": "https://www.teslarati.com/tesla-analyst-full-self-driving-iphone-moment/"
     },
     {
       "category": "stock",
@@ -234,32 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "10d ago",
-      "pubDate": "2026-07-02T07:00:00.000Z",
-      "title": "Tesla Sales Jumped in Second Quarter",
-      "body": "Tesla Sales Jumped in Second Quarter WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/tesla-sales-jumped-in-second-quarter-c9e2f067"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "101d ago",
-      "pubDate": "2026-04-02T07:00:00.000Z",
-      "title": "Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report",
-      "body": "Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html"
     }
   ]
 }
