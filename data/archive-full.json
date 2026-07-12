@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-12 09:56 UTC · 누적 586건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-12 11:17 UTC · 누적 587건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-12T07:35:54.000Z",
+      "title": "테슬라, 2분기 실적발표 <em>7월 22일</em> 확정 — 마진 방어 여부가 관건",
+      "hotShort": "테슬라 2분기 실적, <em>7월 22일</em> 발표 확정",
+      "body": "테슬라가 2분기(4~6월) 실적발표를 미국 동부시간 7월 22일(수) 오후 5시30분, 장 마감 직후 실시한다고 공식 확정했다 — 이미 발표된 기록적 인도량(48만126대)에도 주가가 7.5% 빠졌던 만큼, 이번엔 마진·수익성 숫자가 실제로 드러나며 관전 포인트가 된다.",
+      "sourceName": "Tesla Investor Relations",
+      "sourceLabel": "official",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "테슬라 투자자관계(IR)팀이 2분기 실적발표 일정을 공식 확정했다. 발표는 미국 동부시간 7월 22일(수) 오후 5시30분(서부시간 오후 2시30분, 한국시간 7월23일 오전 6시30분) 장 마감 직후 진행되며, 경영진이 실적과 사업 전망을 논의하는 라이브 Q&A 웹캐스트로 중계된다.\n\n이번 실적발표의 최대 관전 포인트는 마진이다. 지난 7월 2일 발표된 2분기 인도량은 48만126대로 월가 컨센서스(약 40만6천 대)를 큰 폭으로 상회했지만, 정작 그날 주가는 7.5% 급락하며 최근 1년 최악의 하루를 기록했다 — 시장이 인도량 서프라이즈보다 수익성 악화 우려를 더 크게 반영했다는 신호였다.\n\n따라서 이번 실적발표에서는 실제 영업이익률·순이익이 시장 우려를 뒷받침할지, 아니면 반박할지가 핵심이다. 여기에 로보택시·사이버캡·옵티머스 등 신사업 진행 상황에 대한 경영진의 코멘트도 함께 주목받을 전망이다.\n\n웹캐스트 종료 약 2시간 뒤 다시보기 영상이 테슬라 IR 웹사이트에 게시된다.",
+      "title_en": "Tesla confirms Q2 earnings call for <em>July 22</em> — margin defense in focus",
+      "hotShort_en": "Tesla sets Q2 earnings call for <em>July 22</em>",
+      "body_en": "Tesla has officially confirmed its Q2 (April–June) earnings call for Wednesday, July 22 at 5:30 p.m. ET, right after market close — with record deliveries (480,126 units) already reported but the stock still dropping 7.5% that day, investors are watching whether margins hold up this time.",
+      "summary_en": "Tesla's Investor Relations team has officially confirmed the date for its Q2 earnings call: Wednesday, July 22, at 5:30 p.m. ET (2:30 p.m. PT), right after market close. Management will hold a live Q&A webcast to discuss financial results and business outlook.\n\nThe biggest question heading into the call is margins. Tesla's Q2 deliveries, reported on July 2, came in at 480,126 units — well above Wall Street's roughly 406,000-unit consensus — yet the stock still fell 7.5% that day, its worst single-day drop in nearly a year, a sign the market was pricing in profitability concerns more than celebrating the delivery beat.\n\nThat makes the actual operating margin and net income numbers the key thing to watch on July 22 — whether they confirm or push back on those concerns. Management commentary on Robotaxi, Cybercab, and Optimus progress is also expected to draw attention.\n\nAn archived version of the webcast will be posted to Tesla's IR website roughly two hours after the Q&A session ends.",
+      "href": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
