@@ -1,23 +1,23 @@
 {
-  "asOf": "2026-07-12 17:05 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-12 19:13 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
-      "pubDate": "2026-07-12T16:00:00.000Z",
-      "title": "Tesla Robotaxi Hubs Start Installing Car Cleaning Robots",
-      "body": "Tesla Robotaxi Hubs Start Installing Car Cleaning Robots Not a Tesla App",
-      "sourceName": "Not a Tesla App",
+      "pubDate": "2026-07-12T17:44:00.000Z",
+      "title": "New \"Ex-Elon\" ETFs Aim To Strip Tesla (NASDAQ: TSLA) And SpaceX From Investor Portfolios",
+      "body": "New \"Ex-Elon\" ETFs Aim To Strip Tesla (NASDAQ: TSLA) And SpaceX From Investor Portfolios foreignpolicyjournal.com",
+      "sourceName": "foreignpolicyjournal.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.notateslaapp.com/news/4424/tesla-robotaxi-hubs-start-adding-car-cleaning-robots"
+      "href": "https://www.foreignpolicyjournal.com/2026/07/12/new-ex-elon-etfs-aim-to-strip-tesla-nasdaq-tsla-and-spacex-from-investor-portfolios/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-12T15:32:34.000Z",
       "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
       "body": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit CNBC",
@@ -28,48 +28,9 @@
       "href": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-12T15:12:27.000Z",
-      "title": "Tesla And The Emperor's New Clothes (NASDAQ:TSLA)",
-      "body": "Tesla And The Emperor's New Clothes (NASDAQ:TSLA) Seeking Alpha",
-      "sourceName": "Seeking Alpha",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://seekingalpha.com/article/4921439-tesla-and-the-emperors-new-clothes"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-12T14:32:27.000Z",
-      "title": "Trillion-Dollar Panic? Elon Musk Abruptly Halts Live TV Appearance as Fresh SpaceX Concerns Mount",
-      "body": "Trillion-Dollar Panic? Elon Musk Abruptly Halts Live TV Appearance as Fresh SpaceX Concerns Mount International Business Times UK",
-      "sourceName": "International Business Times UK",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ibtimes.co.uk/trillion-dollar-panic-elon-musk-abruptly-halts-live-tv-appearance-fresh-spacex-concerns-mount-1808171"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-07-12T14:21:36.000Z",
-      "title": "Barclays and RBC Capital Revise Tesla Share Price Targets Ahead of Earnings",
-      "body": "Barclays and RBC Capital Revise Tesla Share Price Targets Ahead of Earnings HarianBasis.co",
-      "sourceName": "HarianBasis.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.harianbasis.co/en/barclays-rbc-capital-tesla-price-targets"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-12T13:31:38.000Z",
       "title": "SpaceX reveals Starship Flight 13 launch date",
       "body": "SpaceX is preparing for the 13th integrated flight test of its Starship system, with a targeted launch as early as Thursday, July 16. The 90-minute launch window opens at 5:45 p.m. CT from Starbase in South Texas. This c…",
@@ -80,9 +41,22 @@
       "href": "https://www.teslarati.com/spacex-reveals-starship-flight-13-launch-date/"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "13h ago",
+      "pubDate": "2026-07-12T06:26:19.000Z",
+      "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe",
+      "body": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe InsideEVs",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://insideevs.com/news/790892/tesla-sales-europe-february-2026/"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "21h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-11T20:33:48.000Z",
       "title": "Tesla claims Cybercab driving employees at Giga Texas — in a parking lot",
       "body": "Tesla says “Cybercab employee rides at Giga Texas” are “starting soon” — its first stated step toward putting people inside the wheel-less, pedal-less robotaxi. But the announcement, spread across two Tesla accounts and …",
@@ -91,19 +65,6 @@
       "slug": "",
       "summary": "",
       "href": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
-      "pubDate": "2026-07-11T17:54:50.000Z",
-      "title": "SpaceX discusses $1.6B Starlink deal with Italian government",
-      "body": "SpaceX discusses $1.6B Starlink deal with Italian government Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/spacex-1-6-billion-starlink-deal-italy-government/"
     },
     {
       "category": "stock",
@@ -199,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9d ago",
+      "time": "10d ago",
       "pubDate": "2026-07-03T07:00:00.000Z",
       "title": "Tesla rolls out robotaxi service in Miami",
       "body": "Tesla rolls out robotaxi service in Miami Reuters",
@@ -238,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10d ago",
+      "time": "11d ago",
       "pubDate": "2026-07-02T07:00:00.000Z",
       "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
       "body": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year CNBC",
@@ -251,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10d ago",
+      "time": "11d ago",
       "pubDate": "2026-07-02T07:00:00.000Z",
       "title": "Tesla Sales Jumped in Second Quarter",
       "body": "Tesla Sales Jumped in Second Quarter WSJ",
@@ -260,6 +221,45 @@
       "slug": "",
       "summary": "",
       "href": "https://www.wsj.com/business/autos/tesla-sales-jumped-in-second-quarter-c9e2f067"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "17d ago",
+      "pubDate": "2026-06-26T07:00:00.000Z",
+      "title": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving",
+      "body": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-06-26/tesla-settles-lawsuit-over-deadly-crash-involving-full-self-driving"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "102d ago",
+      "pubDate": "2026-04-02T07:00:00.000Z",
+      "title": "Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report",
+      "body": "Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "219d ago",
+      "pubDate": "2025-12-06T06:21:03.000Z",
+      "title": "MSFT, NVDA, NIO, PLTR, QS, SOFI, TLRY, TSLA, VZ - Stock Price, Quote",
+      "body": "MSFT, NVDA, NIO, PLTR, QS, SOFI, TLRY, TSLA, VZ - Stock Price, Quote CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/quotes/MSFT,%20NVDA,%20NIO,%20PLTR,%20QS,%20SOFI,%20TLRY,%20TSLA,%20VZ"
     }
   ]
 }
