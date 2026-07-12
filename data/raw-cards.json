@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-07-12 13:39 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-12 15:02 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7m ago",
+      "time": "31m ago",
+      "pubDate": "2026-07-12T14:31:35.000Z",
+      "title": "Elon Musk Says Tesla Robot Will Be ‘Biggest Product of All Time’ — ‘Nothing Will Even Be Close’ but China",
+      "body": "Elon Musk Says Tesla Robot Will Be ‘Biggest Product of All Time’ — ‘Nothing Will Even Be Close’ but China Benzinga",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.benzinga.com/news/topics/26/07/60405278/elon-musk-says-tesla-robot-will-be-biggest-product-of-all-time-nothing-will-even-be-close-but-china-is-toughest-rival-no-two-ways-about-it"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
       "pubDate": "2026-07-12T13:33:00.000Z",
       "title": "Tesla merger with SpaceX won’t save investors, top analyst says",
       "body": "Tesla merger with SpaceX won’t save investors, top analyst says thestreet.com",
@@ -17,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8m ago",
+      "time": "2h ago",
       "pubDate": "2026-07-12T13:31:38.000Z",
       "title": "SpaceX reveals Starship Flight 13 launch date",
       "body": "SpaceX is preparing for the 13th integrated flight test of its Starship system, with a targeted launch as early as Thursday, July 16. The 90-minute launch window opens at 5:45 p.m. CT from Starbase in South Texas. This c…",
@@ -30,7 +43,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8m ago",
+      "time": "2h ago",
       "pubDate": "2026-07-12T13:31:04.000Z",
       "title": "This Week in Tesla: Model Y Tops Sales, NHTSA Demands Autonomous Vehicles Fix and More",
       "body": "This Week in Tesla: Model Y Tops Sales, NHTSA Demands Autonomous Vehicles Fix and More Benzinga",
@@ -41,9 +54,22 @@
       "href": "https://www.benzinga.com/markets/tech/26/07/60405206/this-week-in-tesla-model-y-tops-sales-nhtsa-demands-autonomous-vehicles-fix-and-more"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "18h ago",
+      "pubDate": "2026-07-11T20:56:50.000Z",
+      "title": "1000hp Tesla Concept Car Coming Soon?",
+      "body": "1000hp Tesla Concept Car Coming Soon? Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/when-will-the-1000hp-tesla-arrive/"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-11T20:33:48.000Z",
       "title": "Tesla claims Cybercab driving employees at Giga Texas — in a parking lot",
       "body": "Tesla says “Cybercab employee rides at Giga Texas” are “starting soon” — its first stated step toward putting people inside the wheel-less, pedal-less robotaxi. But the announcement, spread across two Tesla accounts and …",
@@ -52,45 +78,6 @@
       "slug": "",
       "summary": "",
       "href": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-07-11T20:17:48.000Z",
-      "title": "Big shoes to fill, but I’m confident Optimus will not disappoint!!",
-      "body": "Big shoes to fill, but I’m confident Optimus will not disappoint!! https://t.co/GUiqkyKddH",
-      "sourceName": "Ashok Elluswamy (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/aelluswamy/status/2076038267548622988"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "17h ago",
-      "pubDate": "2026-07-11T20:17:06.000Z",
-      "title": "Tesla self-driving enables safer mobility for senior citizens",
-      "body": "Tesla self-driving enables safer mobility for senior citizens https://t.co/ubdd42XB1b",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2076038090947166516"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "20h ago",
-      "pubDate": "2026-07-11T17:54:50.000Z",
-      "title": "SpaceX discusses $1.6B Starlink deal with Italian government",
-      "body": "SpaceX discusses $1.6B Starlink deal with Italian government Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/spacex-1-6-billion-starlink-deal-italy-government/"
     },
     {
       "category": "stock",
@@ -195,6 +182,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-robotaxi-service-miami-2026-07-03/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "10d ago",
+      "pubDate": "2026-07-02T22:21:35.000Z",
+      "title": "Tesla driver charged with manslaughter over crash into Texas home",
+      "body": "Tesla driver charged with manslaughter over crash into Texas home Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/us/tesla-driver-charged-with-manslaughter-over-crash-into-texas-home-2026-07-02/"
     },
     {
       "category": "fsd",
