@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-07-12 21:29 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-12 22:55 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-12T21:39:20.000Z",
+      "title": "Tesla's Robotaxi service is now active in part of Miami",
+      "body": "Tesla's Robotaxi service is now active in part of Miami Mashable",
+      "sourceName": "Mashable",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://mashable.com/tech/tesla-robotaxi-miami-autonomous-vehicle-cab"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "51m ago",
+      "time": "2h ago",
+      "pubDate": "2026-07-12T20:59:53.000Z",
+      "title": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\"",
+      "body": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\" The Motley Fool",
+      "sourceName": "The Motley Fool",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.fool.com/investing/2026/07/12/jpmorgan-called-a-potential-elon-musk-spacex-tesla/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
       "pubDate": "2026-07-12T20:37:41.000Z",
       "title": "SpaceX-Tesla merger seen as strategically coherent by J.P. Morgan",
       "body": "SpaceX-Tesla merger seen as strategically coherent by J.P. Morgan Crypto Briefing",
@@ -15,74 +41,9 @@
       "href": "https://cryptobriefing.com/spacex-tesla-merger-seen-as-strategically-coherent-by-jp-morgan/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-12T19:30:02.000Z",
-      "title": "The U.S. Is Considering Removing Steering Wheels From Cars. Tesla Is the Reason Why.",
-      "body": "The U.S. Is Considering Removing Steering Wheels From Cars. Tesla Is the Reason Why. Barchart",
-      "sourceName": "Barchart",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barchart.com/story/news/3245424/the-u-s-is-considering-removing-steering-wheels-from-cars-tesla-is-the-reason-why"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-12T19:25:59.000Z",
-      "title": "Tesla (NASDAQ:TSLA) Ends Above Analyst Target; 28,368 Cars May Dictate What Happens Next",
-      "body": "Tesla (NASDAQ:TSLA) Ends Above Analyst Target; 28,368 Cars May Dictate What Happens Next TechStock²",
-      "sourceName": "TechStock²",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://ts2.tech/en/tesla-nasdaqtsla-ends-above-analyst-target-28368-cars-may-dictate-what-happens-next/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-12T19:09:00.000Z",
-      "title": "Tesla FSD Outdrives Humans in the Data While Europe Approves It One Border at a Time",
-      "body": "Tesla FSD Outdrives Humans in the Data While Europe Approves It One Border at a Time evxl.co",
-      "sourceName": "evxl.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://evxl.co/2026/07/12/tesla-fsd-outdrives-humans-europe/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-12T18:36:00.000Z",
-      "title": "Musk and Altman Clash on X as Apple Sues OpenAI",
-      "body": "Musk and Altman Clash on X as Apple Sues OpenAI The Tech Buzz",
-      "sourceName": "The Tech Buzz",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.techbuzz.ai/articles/musk-and-altman-clash-on-x-as-apple-sues-openai"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-07-12T16:06:08.000Z",
-      "title": "SpaceX News",
-      "body": "SpaceX News Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/topics/SpaceX?page"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-12T15:32:34.000Z",
       "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
       "body": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit CNBC",
@@ -95,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-12T13:31:38.000Z",
       "title": "SpaceX reveals Starship Flight 13 launch date",
       "body": "SpaceX is preparing for the 13th integrated flight test of its Starship system, with a targeted launch as early as Thursday, July 16. The 90-minute launch window opens at 5:45 p.m. CT from Starbase in South Texas. This c…",
@@ -104,6 +65,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/spacex-reveals-starship-flight-13-launch-date/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2d ago",
+      "pubDate": "2026-07-10T13:37:11.000Z",
+      "title": "A Month After SpaceX IPO, Tesla’s Stock Keeps Holding Its Ground",
+      "body": "A Month After SpaceX IPO, Tesla’s Stock Keeps Holding Its Ground Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground"
     },
     {
       "category": "product",
@@ -121,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5d ago",
+      "time": "6d ago",
       "pubDate": "2026-07-07T10:20:00.000Z",
       "title": "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot",
       "body": "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot Bloomberg.com",
@@ -238,15 +212,15 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17d ago",
-      "pubDate": "2026-06-26T07:00:00.000Z",
-      "title": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving",
-      "body": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "time": "13d ago",
+      "pubDate": "2026-06-30T07:00:00.000Z",
+      "title": "Tech Weekly: Tesla's FSD tech up for debate, Shell unveils concept car",
+      "body": "Tech Weekly: Tesla's FSD tech up for debate, Shell unveils concept car Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-06-26/tesla-settles-lawsuit-over-deadly-crash-involving-full-self-driving"
+      "href": "https://www.reuters.com/video/watch/idRW375230062026RP1/"
     },
     {
       "category": "stock",
@@ -260,6 +234,32 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "219d ago",
+      "pubDate": "2025-12-06T06:21:03.000Z",
+      "title": "MSFT, NVDA, NIO, PLTR, QS, SOFI, TLRY, TSLA, VZ - Stock Price, Quote",
+      "body": "MSFT, NVDA, NIO, PLTR, QS, SOFI, TLRY, TSLA, VZ - Stock Price, Quote CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/quotes/MSFT,%20NVDA,%20NIO,%20PLTR,%20QS,%20SOFI,%20TLRY,%20TSLA,%20VZ"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "391d ago",
+      "pubDate": "2025-06-17T07:00:00.000Z",
+      "title": "Tesla stock slips after report EV maker is pausing Cybertruck and Model Y production",
+      "body": "Tesla stock slips after report EV maker is pausing Cybertruck and Model Y production CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2025/06/17/tesla-stock-cybertruck-model-y.html"
     }
   ]
 }
