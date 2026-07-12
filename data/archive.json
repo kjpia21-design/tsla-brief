@@ -3,6 +3,26 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-12T13:33:00.000Z",
+      "title": "BNP파리바 \"테슬라·스페이스X 합병해도 투자자엔 <em>득 안 된다</em>\" — 목표주가 $280 유지",
+      "hotShort": "BNP파리바, 합병 회의론 — <em>목표주가 $280</em> 유지",
+      "body": "BNP파리바가 테슬라·스페이스X 합병 논의에 회의적 시각을 재확인하며 언더퍼폼(매도) 등급과 목표주가 $280을 그대로 <em>유지</em>했다 — 양사 합산 현금소진이 2026~2031년 $2,160억에 달할 것으로 추산돼, 합병이 오히려 재무 부담을 키울 수 있다는 경고다.",
+      "sourceName": "TheStreet",
+      "sourceLabel": "press",
+      "slug": "stock-bnp-paribas-spacex-merger-skeptical-2026-07-12",
+      "summary": "테슬라·스페이스X 합병설이 두 달 가까이 월가를 달구는 가운데, BNP파리바 애널리스트 제임스 피카리엘로 팀이 가장 회의적인 목소리를 냈다. 이들은 테슬라에 대해 언더퍼폼(매도) 등급과 목표주가 $280을 그대로 유지했다.\n\n핵심 근거는 현금이다. BNP는 스페이스X의 2026~2031년 누적 현금소진 컨센서스를 $2,160억으로 추산했다 — 올해에만 약 $300억, 2030년까지 약 $1,940억이 빠져나갈 것으로 봤다. 여기에 이번 분기부터 시작되는 테슬라 자체의 다년간 현금소진 사이클까지 겹치면, 합병 법인의 재무 부담이 상당할 것이라는 우려다.\n\n규제·지배구조 변수도 걸림돌로 지목됐다. 스페이스X는 미국 정부·국방 관련 계약을 다수 보유하고 있어 다중 관할권의 규제 승인이 필요하고, 테슬라 주주총회의 동의 절차까지 거쳐야 해 실제 거래 성사까지는 상당한 시간이 걸릴 것이라는 분석이다.\n\nBNP는 구체적인 밸류에이션 계산도 제시했다 — 30~40%의 인수 프리미엄을 적용해도 적정가치는 주당 $360~390에 그치며, 합병 실현 확률을 약 50%로 가중하면 그 프리미엄 효과는 사실상 절반으로 줄어든다는 것이다. 합병이 성사되더라도 결합 법인이 필요 자금을 추가 조달할 가능성이 높아, 기존 테슬라 주주 지분이 추가로 희석될 수 있다는 경고도 덧붙였다.",
+      "title_en": "BNP Paribas: Tesla-SpaceX merger <em>wouldn't help investors</em> — keeps $280 price target",
+      "hotShort_en": "BNP Paribas stays bearish, <em>keeps $280 target</em>",
+      "body_en": "BNP Paribas reaffirmed its skeptical view on a Tesla-SpaceX merger, <em>keeping</em> its underperform rating and $280 price target — the firm estimates combined cash burn of $216B through 2026-2031, warning a merger could add financial strain rather than ease it.",
+      "summary_en": "As Tesla-SpaceX merger speculation has gripped Wall Street for nearly two months, BNP Paribas analysts led by James Picariello struck the most skeptical tone yet, maintaining an underperform rating and $280 price target on Tesla.\n\nThe core concern is cash. BNP estimates SpaceX's cumulative cash burn at $216 billion through 2026-2031 — roughly $30 billion this year alone and about $194 billion by 2030. Combined with Tesla's own multi-year cash burn cycle starting this quarter, the analysts see a heavy financial load for any combined entity.\n\nRegulatory and governance hurdles were also flagged. SpaceX holds extensive U.S. government and defense contracts, meaning any deal would need multi-jurisdiction regulatory approval plus a Tesla shareholder vote — a process the analysts expect to take considerable time.\n\nBNP also laid out specific valuation math: even a 30-40% takeover premium would only justify a fair value of $360-390 a share, and weighting that by roughly a 50% probability of the merger actually happening cuts the premium's effective value in half. The analysts added that a combined entity would likely need to raise additional capital, further diluting existing Tesla shareholders.",
+      "href": "https://www.thestreet.com/investing/tesla-spacex-merger-wont-save-investors-bnp-paribas",
+      "sentiment": "bear",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
       "pubDate": "2026-07-12T07:35:54.000Z",
       "title": "테슬라, 2분기 실적발표 <em>7월 22일</em> 확정 — 마진 방어 여부가 관건",
@@ -2401,34 +2421,7 @@
       ],
       "sentiment": "bull",
       "hot": 8
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1d ago",
-      "pubDate": "2026-06-27T09:30:00.000Z",
-      "title": "소프트뱅크 손 마사요시, 머스크 <em>궤도 데이터센터</em> 구상 정면 반박 — \"AI 승패, 지금 수년이 결정\"",
-      "hotShort": "소프트뱅크 손, 머스크 <em>궤도 데이터센터</em> 구상 반박",
-      "body": "소프트뱅크 창업주 손 마사요시가 일론 머스크의 '우주 궤도 데이터센터' 구상에 대해 '전기요금은 데이터센터 비용의 극히 일부에 불과하다'며 실효성을 정면 부정했다 — AI 인프라 패권 전략을 둘러싼 두 거물의 공개 충돌은 데이터센터·에너지 효율 투자 경쟁 구도에서 테슬라의 에너지 사업(메가팩) 포지셔닝과도 맞물린다.",
-      "title_en": "SoftBank's Son dismisses Musk's <em>orbital data center</em> vision — 'AI race won on Earth'",
-      "hotShort_en": "Son dismisses Musk's <em>orbital AI</em> plan",
-      "body_en": "SoftBank founder Masayoshi Son publicly dismissed Elon Musk's orbital data center concept, arguing that electricity is only a small fraction of total data center costs — not a big enough factor to justify the complexity and expense of space-based AI infrastructure. The public clash between two of tech's biggest AI spenders highlights the fracturing debate over how AI infrastructure capital should be deployed, a backdrop relevant to Tesla's energy business (Megapack) positioning.",
-      "summary": "일론 머스크는 최근 장거리 에너지 수송 대신 우주 궤도에 데이터센터를 구축해 태양 에너지를 직접 활용하자는 구상을 공개했다. 이에 소프트뱅크 창업주 손 마사요시가 직접 반박 발언을 내놓았다. 손은 '전기 요금은 데이터센터 총비용에서 매우 작은 부분에 불과하다'며 궤도 데이터센터가 에너지 비용 절감에서 얻는 이익이 우주 인프라 구축·운영에 드는 막대한 비용을 정당화하기 어렵다고 주장했다.\n\n그는 또 'AI 전쟁의 승패는 지금부터 수년 안에 결정된다'며 지금 당장 지상 인프라에 집중 투자하는 것이 맞다는 입장을 밝혔다. 소프트뱅크는 오픈AI·아랍에미리트·일본 인프라 등 지상 AI 인프라에 수백억 달러를 베팅 중이다.\n\n테슬라 관점에서 이 논쟁은 테슬라의 에너지 사업(메가팩·파워월)과 연결된다. 데이터센터 에너지 수요가 지상에서 계속 급증한다면, 대규모 에너지 저장 솔루션 공급업체로서 테슬라의 포지셔닝이 강화된다. 손의 주장대로 데이터센터가 지상에 집중 투자된다면 메가팩 수요도 함께 커질 수 있다.",
-      "summary_en": "Elon Musk recently proposed constructing data centers in Earth orbit to tap solar energy directly, bypassing the need to transport power over long distances. SoftBank founder Masayoshi Son hit back publicly: electricity costs are 'a very small fraction' of what it takes to run a data center, so the energy savings from orbital placement cannot justify the enormous cost and complexity of space infrastructure.\n\nSon went further, saying the 'AI war will be decided in the next few years' and making clear that SoftBank is focused on winning that war with ground-based infrastructure investments — including multi-billion-dollar commitments to OpenAI, the UAE, and Japanese data center buildouts.\n\nFor Tesla shareholders, this debate connects to Tesla's energy business. If the data center build-out continues on Earth — as Son argues it should — the demand for large-scale battery storage solutions like Megapack grows proportionally. Tesla is already one of the few companies that can supply grid-scale storage at the speed the AI infrastructure boom demands; Son's vision, if it prevails over Musk's, is arguably more bullish for Tesla Energy than Musk's own orbital alternative.",
-      "sourceName": "TechCrunch",
-      "sourceLabel": "press",
-      "slug": "musk-son-orbital-datacenter-rebuttal-2026-06-27",
-      "href": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Bloomberg",
-        "Japan Times",
-        "Fortune",
-        "TechCrunch"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-12 16:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-13 00:07 KST 자동 갱신 · 최신순"
 }
