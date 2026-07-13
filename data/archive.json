@@ -93,6 +93,32 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-07-13T13:59:16.000Z",
+      "title": "스페이스X, 스타십 13차 시험비행 <em>7월16일</em>로 확정 — 12차 엔진 이상 원인도 공개",
+      "hotShort": "스페이스X, 스타십 13차 발사 <em>7월16일</em> 확정",
+      "body": "스페이스X가 스타십 13차 시험비행을 7월16일(현지시간 오후 6시45분, 텍사스 스타베이스)로 확정하고, 직전 12차 비행에서 나타난 상단부 엔진 정지(엔진-아웃) 문제의 원인과 개선 조치를 함께 공개했다 — 재사용 로켓 신뢰성이 쌓일수록 일론 머스크가 그리는 화성 이주·스타링크 확장 청사진에 힘이 실린다.",
+      "sourceName": "Space.com",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-starship-flight13-july16-2026-07-13",
+      "summary": "스페이스X가 13번째 스타십 통합시험비행을 7월16일(현지시간 오후 6시45분, 90분 발사창)로 확정했다. 발사 장소는 텍사스 스타베이스다.\n\n이번 비행에서는 스타링크 V3 위성 20기를 실제로 궤도에 올려 태양전지판·안테나를 전개하고, 남아공 지상국 및 다른 위성들과 통신을 시도한다. 20기 중 6기에는 카메라를 탑재해 스타십 열차폐 상태를 비행 중 촬영·전송한다.\n\n부스터(부스터20)는 점화 순서를 타이밍 편차에 견디도록 개선했고, 재점화 신뢰성을 높이는 하드웨어 변경과 엔진 경보·중단(어보트) 로직도 업데이트했다. 상단부 추진 시스템은 직전 12차 비행에서 나타난 엔진 정지(엔진-아웃) 문제를 해결하기 위한 수정을 반영했다.\n\n열차폐 시험도 강화됐다 — 누락된 타일 자리를 대신할 흰색 타일을 촬영 기준점으로 부착했고, 재진입 시 실시간 응력을 기록하는 하중센서 타일도 탑재된다. 후미 플랩·스커트 부위에는 새로운 타일 설계·부착 방식을 시험한다.\n\n스페이스X는 스타십을 통해 스타링크 대량 발사와 궤도급 로켓의 완전 재사용을 증명하려 하며, 이는 일론 머스크가 강조해온 화성 이주 로드맵의 핵심 전제다.",
+      "title_en": "SpaceX confirms Starship Flight 13 for <em>July 16</em>, discloses cause of Flight 12 engine issue",
+      "hotShort_en": "SpaceX targets <em>July 16</em> for Starship 13",
+      "body_en": "SpaceX has set July 16 (6:45pm ET, Starbase, Texas) for its 13th Starship test flight and disclosed what caused the upper-stage engine-out issue on Flight 12 — as reusable-rocket reliability builds, it strengthens the case for Elon Musk's Mars and Starlink expansion roadmap.",
+      "summary_en": "SpaceX has confirmed July 16 (6:45pm ET, a 90-minute window) for its 13th integrated Starship test flight, launching from Starbase, Texas.\n\nThe flight will deploy 20 working Starlink V3 satellites, which are expected to extend their solar arrays and antennas and attempt to link with a ground station in South Africa and with other satellites in the constellation. Six of the 20 satellites carry camera suites to image Starship's heat shield in flight.\n\nBooster 20 carries a revised startup sequence to tolerate timing variability and flip more reliably, plus hardware changes to improve relight reliability and updated engine alarms and abort logic. Upper-stage propulsion modifications address the engine-out issue experienced on Flight 12.\n\nHeat-shield testing has also been expanded — several tiles have been painted white to stand in for missing ones and serve as imaging targets, while load-sensing tiles will record real-time stress during reentry. New tile designs and attachment methods are being tested on the aft flaps and skirts.\n\nSpaceX is using Starship to prove out mass Starlink deployment and full reuse of an orbital-class rocket — a core premise of the Mars colonization roadmap Musk has long emphasized.",
+      "href": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-16-for-starship-flight-13-reveals-what-went-wrong-on-previous-launch",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Space.com",
+        "SpaceNews",
+        "The Register"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
       "pubDate": "2026-07-13T13:51:29.000Z",
       "title": "그록(Grok), 테슬라 <em>한국·일본</em> 차량에도 도입",
@@ -2377,33 +2403,7 @@
       "hotShort_en": "Tesla ships FSD v14 Lite to <em>4M HW3 cars</em>",
       "body_en": "Tesla began rolling out FSD v14 Lite (firmware 2026.20.5.1) to early-access Hardware 3 vehicles on June 29 — the first FSD update for HW3 in over 14 months, with roughly 4 million vehicles eventually in scope. New features include Arrival Options (pre-selecting a parking destination before arrival) and the SLOTH Speed Profile, a more conservative driving mode than existing Chill; the rollout expands to all HW3 owners over the coming weeks.",
       "summary_en": "Tesla's Head of AI Ashok Elluswami confirmed the HW3 FSD v14 Lite rollout on June 28; the first firmware package — version 2026.20.5.1 — began reaching early-access customers the following day. The previous FSD update for HW3 vehicles shipped in April 2025, making this a 14-month gap for the platform that still accounts for the majority of Teslas on the road.\n\nThree capabilities headline v14 Lite for HW3. Arrival Options allows drivers to specify before arriving where FSD should park — choices include Parking Lot, Street, Driveway, or Curbside — giving the software a clearer objective for the last leg of a trip. The new SLOTH Speed Profile sits below existing Chill, delivering lower speeds and more conservative lane selection for drivers who prefer maximum caution. Additionally, the update brings improved proactive and reactive responsiveness across highway merges, pedestrian interactions, traffic lights, and vehicle cut-in scenarios.\n\nHW3's compute and camera resolution cannot support unsupervised Robotaxi operation — v14 Lite remains a Level 2 supervised system requiring an attentive driver. Tesla's engineering team optimized the core V14 neural architecture to run efficiently on older silicon rather than developing a separate codebase, which is why the lite variant took longer than expected to reach this platform.\n\nFor shareholders, the HW3 release carries two strategic benefits: it reduces churn among the roughly 4 million FSD subscribers on older hardware, and it adds a large new pool of real-world miles to feed v14 model training. Keeping HW3 owners inside the FSD subscription ecosystem ahead of a potential hardware upgrade upsell also supports Tesla's long-term software revenue runway."
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-06-29T00:35:00.000Z",
-      "title": "GM·도요타 투자 모멘타, 홍콩 IPO <em>$7.51억</em> — 로보택시·FSD에 자본 80% 투입",
-      "hotShort": "모멘타 IPO <em>$7.51억</em> — FSD 경쟁 자본화",
-      "body": "GM·도요타·BYD 등 7개 글로벌 완성차가 투자한 중국 자율주행 스타트업 모멘타(Momenta)가 홍콩 증시 상장으로 최대 $7.51억을 조달한다 — 자금의 60%는 AI·자율주행 R&D, 20%는 로보택시 서비스 확장에 투입. 소프트웨어 탑재 차량 68만 대·2025년 매출 +82%를 달성한 이 회사의 IPO는, 테슬라 FSD가 압도적 강세를 구가해야 할 중국 AV 시장에 경쟁 자본이 빠르게 집결하는 신호다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "fsd-china-momenta-hk-ipo-2026-06-29",
-      "summary": "2016년 마이크로소프트 출신 연구자 차오쉬동(Cao Xudong)이 창업한 모멘타(Momenta Global)는 중국에서 가장 광범위한 완성차 파트너십을 보유한 자율주행 소프트웨어 스타트업이다. GM·도요타·메르세데스벤츠·BYD·상하이차(SAIC)·아우디 등 세계 유수 완성차 7곳이 파트너·투자자로 이름을 올리고 있으며, 이 소프트웨어가 탑재된 차량은 2025년 말 68만 대를 넘어섰다. 테슬라 FSD와 유사한 ADAS 소프트웨어 스택을 OEM에 공급하는 B2B 모델로, 매출은 2025년 82.1% 성장해 24.1억 위안을 기록했다.\n\n이번 홍콩 증시 상장은 주당 HK$295.60에 1,990만 주를 발행, 최대 HK$58.9억(약 $7.51억)을 조달하는 계획이다. 배분 결과는 7월 7일, 거래 개시는 7월 8일 예정이다. 조달 자금의 60%는 AI·자율주행 R&D, 20%는 로보택시 서비스 확장, 나머지 20%는 운전자본 등 일반 목적으로 쓴다. 로보택시 확장 비중을 명시한 것은 B2C 자율주행 서비스 시장 진출 의지를 공식화한 것이다.\n\n테슬라 투자자 관점에서 이번 IPO의 핵심 함의는 중국 시장 경쟁 강도 변화다. 중국은 테슬라의 최대 단일 수출 시장이자 FSD 수익화의 핵심 무대다. 모멘타는 아직 테슬라와 직접적인 차량 판매 경쟁 관계가 아니지만, 로보택시 사업 확장을 명시한 만큼 사이버캡·완전 자율주행 서비스 시장에서 경쟁 압력을 높이는 플레이어가 될 수 있다. 더불어 GM·BYD 등 직접 경쟁 완성차가 모멘타에 투자함으로써 테슬라 FSD 생태계와 다른 자율주행 소프트웨어 체인을 구축하려는 움직임이 가속화되고 있다.\n\n한편 모멘타의 재무는 아직 성장통 단계다. 2025년 순손실은 34.6억 위안으로 전년(32.1억)보다 더 커졌다. 이는 중국 AV 생태계 전반에 대규모 자본이 투입되는 동시에, '자금 확충 → 기술 개발 → 상업화' 사이클이 여전히 진행 중임을 뜻한다. 중국 경쟁사들의 자본 조직화가 빨라질수록, 테슬라 FSD가 기술 우위를 수익화로 전환하는 속도가 경쟁력의 핵심 변수가 된다.",
-      "href": "https://www.reuters.com/business/autos-transportation/chinas-momenta-seeks-up-751-million-hong-kong-ipo-boost-autonomous-driving-rd-2026-06-29/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "Bloomberg",
-        "SCMP"
-      ],
-      "sentiment": "neutral",
-      "hot": 5,
-      "title_en": "GM- and Toyota-backed Momenta targets <em>$751M</em> Hong Kong IPO — 20% for robotaxi",
-      "hotShort_en": "China's Momenta files <em>$751M</em> HK IPO",
-      "body_en": "Momenta Global, a Chinese autonomous driving software startup backed by GM, Toyota, and BYD, has launched a Hong Kong IPO targeting up to $751M, earmarking 60% for R&D and 20% for Robotaxi expansion. With 680,000+ vehicles running its software and 82% revenue growth in 2025, the listing signals organized capital formation in China's AV race — a direct read-through for Tesla's FSD competitive position in its largest export market.",
-      "summary_en": "Momenta Global was founded in 2016 by Cao Xudong, a former Microsoft researcher, and has built one of China's broadest partnership footprints in autonomous driving software. Its partner roster reads like a who's-who of global automotive: GM, Toyota, Mercedes-Benz, SAIC, BYD, and Audi all have financial or commercial ties to the company. By end-2025, vehicles using Momenta's software had crossed 680,000 units — a scale few AV software companies outside China can match. Revenue grew 82.1% to 2.41 billion yuan in 2025.\n\nThe Hong Kong IPO prices 19.9 million shares at HK$295.60 each, targeting a maximum of HK$5.89 billion ($751 million). Allocation results are expected July 7, with trading commencing July 8. Momenta plans to direct 60% of the proceeds into AI and autonomous driving R&D, 20% into Robotaxi service expansion, and 20% into general corporate purposes including working capital. The explicit Robotaxi allocation formalizes the company's intent to compete in B2C autonomous mobility — not just the B2B ADAS supply chain.\n\nFor Tesla investors, the most relevant read-through is competitive intensity in China — Tesla's largest single export market and the primary geography for FSD monetization. Momenta is primarily a B2B software supplier today, licensing its ADAS stack to OEMs rather than operating branded vehicles. But its Robotaxi ambitions and the backing of GM and BYD — direct Tesla competitors — represent a parallel self-driving ecosystem being built specifically to circumvent Tesla's FSD franchise.\n\nThe financial picture reflects a company in investment mode: Momenta's 2025 attributable net loss widened to 3.46 billion yuan from 3.21 billion in 2024, even as revenue surged. The IPO is a capital raise for a cash-burning growth company, not a profitable exit. The takeaway for Tesla: China's AV ecosystem is receiving large-scale institutional funding at speed, compressing the window in which Tesla's FSD might move from competitive parity to decisive market advantage."
     }
   ],
-  "asOf": "2026-07-14 04:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-14 05:10 KST 자동 갱신 · 최신순"
 }
