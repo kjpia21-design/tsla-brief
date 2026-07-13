@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-13 21:02 UTC · 누적 597건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-13 21:32 UTC · 누적 598건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "fsd",
@@ -90,6 +90,32 @@
       ],
       "sentiment": "bull",
       "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-07-13T13:59:16.000Z",
+      "title": "스페이스X, 스타십 13차 시험비행 <em>7월16일</em>로 확정 — 12차 엔진 이상 원인도 공개",
+      "hotShort": "스페이스X, 스타십 13차 발사 <em>7월16일</em> 확정",
+      "body": "스페이스X가 스타십 13차 시험비행을 7월16일(현지시간 오후 6시45분, 텍사스 스타베이스)로 확정하고, 직전 12차 비행에서 나타난 상단부 엔진 정지(엔진-아웃) 문제의 원인과 개선 조치를 함께 공개했다 — 재사용 로켓 신뢰성이 쌓일수록 일론 머스크가 그리는 화성 이주·스타링크 확장 청사진에 힘이 실린다.",
+      "sourceName": "Space.com",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-starship-flight13-july16-2026-07-13",
+      "summary": "스페이스X가 13번째 스타십 통합시험비행을 7월16일(현지시간 오후 6시45분, 90분 발사창)로 확정했다. 발사 장소는 텍사스 스타베이스다.\n\n이번 비행에서는 스타링크 V3 위성 20기를 실제로 궤도에 올려 태양전지판·안테나를 전개하고, 남아공 지상국 및 다른 위성들과 통신을 시도한다. 20기 중 6기에는 카메라를 탑재해 스타십 열차폐 상태를 비행 중 촬영·전송한다.\n\n부스터(부스터20)는 점화 순서를 타이밍 편차에 견디도록 개선했고, 재점화 신뢰성을 높이는 하드웨어 변경과 엔진 경보·중단(어보트) 로직도 업데이트했다. 상단부 추진 시스템은 직전 12차 비행에서 나타난 엔진 정지(엔진-아웃) 문제를 해결하기 위한 수정을 반영했다.\n\n열차폐 시험도 강화됐다 — 누락된 타일 자리를 대신할 흰색 타일을 촬영 기준점으로 부착했고, 재진입 시 실시간 응력을 기록하는 하중센서 타일도 탑재된다. 후미 플랩·스커트 부위에는 새로운 타일 설계·부착 방식을 시험한다.\n\n스페이스X는 스타십을 통해 스타링크 대량 발사와 궤도급 로켓의 완전 재사용을 증명하려 하며, 이는 일론 머스크가 강조해온 화성 이주 로드맵의 핵심 전제다.",
+      "title_en": "SpaceX confirms Starship Flight 13 for <em>July 16</em>, discloses cause of Flight 12 engine issue",
+      "hotShort_en": "SpaceX targets <em>July 16</em> for Starship 13",
+      "body_en": "SpaceX has set July 16 (6:45pm ET, Starbase, Texas) for its 13th Starship test flight and disclosed what caused the upper-stage engine-out issue on Flight 12 — as reusable-rocket reliability builds, it strengthens the case for Elon Musk's Mars and Starlink expansion roadmap.",
+      "summary_en": "SpaceX has confirmed July 16 (6:45pm ET, a 90-minute window) for its 13th integrated Starship test flight, launching from Starbase, Texas.\n\nThe flight will deploy 20 working Starlink V3 satellites, which are expected to extend their solar arrays and antennas and attempt to link with a ground station in South Africa and with other satellites in the constellation. Six of the 20 satellites carry camera suites to image Starship's heat shield in flight.\n\nBooster 20 carries a revised startup sequence to tolerate timing variability and flip more reliably, plus hardware changes to improve relight reliability and updated engine alarms and abort logic. Upper-stage propulsion modifications address the engine-out issue experienced on Flight 12.\n\nHeat-shield testing has also been expanded — several tiles have been painted white to stand in for missing ones and serve as imaging targets, while load-sensing tiles will record real-time stress during reentry. New tile designs and attachment methods are being tested on the aft flaps and skirts.\n\nSpaceX is using Starship to prove out mass Starlink deployment and full reuse of an orbital-class rocket — a core premise of the Mars colonization roadmap Musk has long emphasized.",
+      "href": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-16-for-starship-flight-13-reveals-what-went-wrong-on-previous-launch",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Space.com",
+        "SpaceNews",
+        "The Register"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
     },
     {
       "category": "musk",
