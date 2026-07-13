@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-13T10:48:46.000Z",
+      "title": "게리 블랙 \"스페이스X 주가, <em>IPO가 $135 밑으로</em> 떨어질 수도\" — 내부자 락업 해제 겨냥",
+      "hotShort": "게리 블랙, 스페이스X 주가 <em>IPO가 하회</em> 경고",
+      "body": "베테랑 애널리스트 게리 블랙이 스페이스X 주가가 조만간 IPO 공모가 $135를 밑돌 수 있다고 경고했다 — 2분기 실적 발표 후 내부자(머스크 제외) 지분 최대 20% 매도가 풀리는 락업 해제 일정이 매물 압력의 핵심 근거다.",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "musk-gary-black-spacex-below-ipo-price-2026-07-13",
+      "summary": "스페이스X 주가에 대한 회의론을 이어온 게리 블랙(전 퍼시픽 자산운용 CIO)이 이번엔 구체적인 매물 폭탄 시나리오를 제시했다. 그는 IPO 공모가인 $135 밑으로 주가가 조만간 떨어질 수 있다고 경고했다.\n\n근거는 내부자 지분 락업 해제 일정이다. 2분기 실적 발표 직후 머스크를 제외한 내부자들이 보유 지분의 최대 20%까지 매도가 가능해지고, 이후 상장 70일·90일·105일·120일·135일째마다 추가로 7%씩 매도 가능 물량이 풀린다. 3분기 실적 발표 후에는 다시 28%가 추가로 해제된다 — 상장 초기 몇 달간 계속해서 대규모 매물이 시장에 나올 수 있는 구조다.\n\n블랙은 앞서에도 스페이스X 밸류에이션에 지속적으로 의문을 제기해왔다 — 2026년 EV/EBITDA 기준 150배는 투자자가 지불하기엔 과도하다는 입장이다. 본인도 스페이스X 주식을 전혀 보유하고 있지 않다고 밝히며, 커뮤니티의 강세 분위기와 대비되는 자신의 회의적 시각을 강조했다.\n\n월가 시각은 극단적으로 엇갈린다. JP모건은 목표주가 $225를, 모건스탠리는 강세 시나리오로 $300을 각각 제시한 상태다 — 블랙의 경고와 정반대편에 있는 셈이다. 테슬라 주주 입장에서는 직접적인 TSLA 실적 변수는 아니지만, 테슬라·스페이스X 합병설이 여전히 거론되는 가운데 스페이스X 밸류에이션을 둘러싼 불확실성이 커지고 있다는 신호로 볼 만하다.",
+      "title_en": "Gary Black warns SpaceX stock could <em>fall below its $135 IPO price</em> as insider lockups unwind",
+      "hotShort_en": "Gary Black: SpaceX stock <em>could dip below IPO price</em>",
+      "body_en": "Veteran analyst Gary Black warned SpaceX shares could soon trade below their $135 IPO price — pointing to a lockup schedule that lets insiders (excluding Musk) sell up to 20% of their stakes right after the Q2 earnings call, with more unlocking in stages after that.",
+      "summary_en": "Gary Black, a longtime SpaceX valuation skeptic, has laid out a concrete scenario for why the stock could soon slip below its $135 IPO price.\n\nThe trigger is the insider lockup schedule. Right after SpaceX's Q2 earnings call, insiders excluding Musk can sell up to 20% of their holdings. More unlocks follow at the 70th, 90th, 105th, 120th and 135th days after the IPO, each freeing up another 7% — and another 28% unlocks after the Q3 earnings call. That structure means waves of potential selling pressure could keep hitting the stock for months after listing.\n\nBlack has repeatedly questioned SpaceX's valuation, arguing investors shouldn't be paying roughly 150x 2026 EV/EBITDA for the company. He said he holds no SPCX position himself, underscoring how far his skepticism runs against the bullish sentiment elsewhere.\n\nWall Street's targets span a wide range — JPMorgan has set a $225 price target while Morgan Stanley's bull case reaches $300, both well above Black's bearish call. For Tesla shareholders, this isn't a direct TSLA earnings signal, but it adds to the uncertainty around SpaceX's valuation just as Tesla-SpaceX merger speculation continues to circulate.",
+      "href": "https://www.benzinga.com/news/space/26/07/60408883/gary-black-thinks-spacex-stock-could-soon-trade-below-its-ipo-price-heres-why",
+      "sentiment": "bear",
+      "hot": 3
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -69,7 +89,10 @@
       "summary_en": "A construction permit for Tesla's dedicated robotaxi hub in Austin, Texas has revealed a 'cleaning robot' listed among the facility's equipment. The hub, first proposed late last year with construction underway since Q1 2026, is designed as a central depot for fleet charging, maintenance and storage.\n\nTesla has previously demonstrated how the robot works: a multi-function robotic arm uses a rotating microfiber attachment to wipe fingerprints and dust off the Cybercab's 21-inch screen, and a powerful suction attachment to clear crumbs and dirt from seats, carpets and floor mats. When a robotaxi returns to the hub to charge, the same arm can also perform a full exterior sensor sweep, cleaning the side, pillar and rear camera lenses.\n\nTesla is also building separate drive-through 'robotaxi car washes' that vehicles can pull into autonomously when returning to the hub to charge — pairing with the arm's interior and sensor cleaning to keep the exterior maintained without any human involvement.\n\nToday's Model Y-based robotaxis are reportedly still cleaned by hand. The permit suggests that as Tesla scales its hub network the way it scaled Superchargers, it wants cleaning and maintenance automated too, to keep operating costs down.\n\nRobotaxi economics ultimately hinge on vehicle utilization and upkeep costs — automating cleaning and maintenance is one piece of cutting labor costs and enabling round-the-clock operation.",
       "href": "https://www.notateslaapp.com/news/4424/tesla-robotaxi-hubs-start-adding-car-cleaning-robots",
       "confirmedBy": 2,
-      "confirmingSources": ["Not a Tesla App", "Teslarati"],
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Teslarati"
+      ],
       "sentiment": "neutral",
       "hot": 3
     },
@@ -130,10 +153,11 @@
       "body_en": "Tesla says its production Cybercab — the two-seat robotaxi with no steering wheel or pedals — has begun giving employee rides at Giga Texas, a first for putting real passengers inside the vehicle. The catch: it's confined to the factory's own parking lot, not public roads.",
       "summary_en": "Tesla announced via two of its X accounts that Cybercab rides for employees are \"starting soon\" at Giga Factory Texas. The two-seat production Cybercab has no steering wheel or pedals, and this marks the first publicly confirmed instance of the robotaxi carrying actual passengers rather than running empty.\n\nElectrek reported the news cautiously, framing it as a claim from Tesla, and noted the driving is limited to the factory's own parking lot rather than public streets. Teslarati also covered the development.\n\nThe parking-lot rides follow a June 30 driverless test of a production Cybercab on public roads in Austin — without passengers. Putting employees in the vehicle is a step forward, but it's still happening in a controlled, low-stakes environment.\n\nCybercab's path to real-world deployment also hinges on regulation. NHTSA signaled on July 9 that it could revisit the steering-wheel requirement for driverless vehicles — a rule that directly affects whether a wheel-less car like Cybercab can legally operate.",
       "href": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
-      "confirmedBy": 2,
+      "confirmedBy": 3,
       "confirmingSources": [
         "Electrek",
-        "Teslarati"
+        "Teslarati",
+        "Mashable"
       ],
       "sentiment": "bull",
       "hot": 5
@@ -2386,34 +2410,7 @@
       "hotShort_en": "TSLA Q2 delivery: <em>406K</em> consensus, D-2",
       "body_en": "Tesla published its official Q2 2026 delivery analyst consensus — 406,024 vehicles total (392,646 Model 3/Y + 12,978 other), with the delivery report due July 2. JPMorgan's Rajat Gupta lowered his estimate from 430,500 to 420,000 units while Goldman Sachs (420K), Barclays (418K), and Morgan Stanley (413K) cluster at the upper end; but the real earnings wildcard is energy storage, where the 13.8 GWh consensus — up 57% from Q1's 8.8 GWh — signals Megapack momentum that delivery counts alone do not capture.",
       "summary_en": "Tesla's official Q2 2026 delivery consensus sets the Wall Street midpoint at 406,024 vehicles: 392,646 Model 3/Y and 12,978 of other models including Cybertruck, Model S/X, and the Tesla Semi. For comparison, Tesla delivered 336,681 vehicles in Q1 2026; the consensus implies approximately 20.6% sequential growth if achieved. The delivery report is expected on or around July 2, ahead of the full earnings call on July 22.\n\nIndividual analyst estimates cluster toward the upper end of the distribution. Goldman Sachs (420K), Barclays (418K), and Morgan Stanley (413K) each sit above the consensus midpoint, citing strong European registration trends and sequential China improvement. JPMorgan's Rajat Gupta is the notable exception: his team revised the Q2 estimate down from 430,500 to 420,000 units, citing mixed EV demand signals. UBS holds at 405,000 vehicles with a Neutral rating and a $364 price target. With the spread between top and bottom estimates at roughly 15,000 units, a modest delivery beat is already partially priced in — making energy storage the real swing factor for investor sentiment.\n\nEnergy storage is Q2's most underappreciated variable. The consensus estimate of 13.8 GWh compares to 8.8 GWh deployed in Q1 — a 57% sequential jump. Tesla's energy storage business, anchored by the Megapack utility battery system, carries structurally higher margins than vehicles. In an environment of falling lithium and other battery raw material costs, Megapack margin expansion is an earnings driver that never shows up in delivery headlines. If Q2 energy storage lands at or above 13.8 GWh, it could be the decisive factor lifting Tesla's overall operating margin for the quarter even if vehicle deliveries are at or only slightly above consensus.\n\nFor shareholders, July 2 delivery day is the first hard data point in a month that has seen TSLA lose more than 14%. A consensus vehicle beat combined with an energy storage upside surprise would set up a meaningful re-rating toward the July 22 earnings call. A delivery miss, conversely, risks another leg lower before fundamentals have a chance to speak. Either way, Thursday's number is the most important single data release for TSLA sentiment before end of July."
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-06-28T09:53:05.000Z",
-      "title": "xAI Grok 4.5, 테슬라·스페이스X 사내 <em>비공개 베타</em> 돌입 — Claude Opus급 성능 주장",
-      "hotShort": "Grok 4.5, 테슬라 사내 베타 — <em>Opus 능가</em> 주장",
-      "body": "일론 머스크가 X에서 xAI의 Grok 4.5(1.5조 파라미터, V9 기반·Cursor 코딩 데이터 추가 훈련)의 테슬라·스페이스X 사내 비공개 베타 돌입을 공식 발표했다 — 초기 벤치마크에서 Claude Opus에 근접하거나 능가한다고 밝혔다. xAI 모델이 테슬라 엔지니어링 스택에 공식 진입한 첫 이정표다.",
-      "title_en": "xAI Grok 4.5 enters <em>private beta</em> at Tesla and SpaceX — Musk claims near-Opus performance",
-      "hotShort_en": "Grok 4.5 in Tesla beta — <em>near-Opus</em> claims",
-      "body_en": "Elon Musk announced on X that xAI's Grok 4.5 — a 1.5-trillion-parameter model built on the V9 foundation and supplementally trained on Cursor coding data — has entered private beta at both Tesla and SpaceX. Early internal benchmarks, per Musk, put its performance close to or above Claude Opus. It is xAI's first publicly confirmed deployment of its own AI model inside Tesla's engineering environment.",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "musk-grok45-tesla-private-beta-2026-06-28",
-      "summary": "Grok 4.5는 xAI의 V9 기반 모델로 1조 5,000억(1.5T) 파라미터를 탑재했다 — 전 세대 Grok 4.4(1T)보다 50% 늘어난 규모다. 훈련은 2026년 5월 26일 완료됐으며, AI 코딩 툴 Cursor의 데이터를 추가 훈련해 기술적 추론·소프트웨어 엔지니어링 능력을 강화한 것이 핵심 차별화다. 이는 테슬라·스페이스X의 엔지니어링 업무 환경과 직접 맞닿는 역량이다.\n\n테슬라 주주에게 중요한 점은 '첫 배포처'다. Grok 4.5의 비공개 베타가 테슬라와 스페이스X 사내 환경에서 시작됐다는 것은 xAI 모델이 테슬라 소프트웨어 개발 파이프라인에 공식 진입했음을 뜻한다. 현재는 엔지니어 생산성 도구 수준의 배포이며 FSD·제품에 직접 적용됐다는 공식 확인은 없지만, xAI 기술이 테슬라 AI 인프라에 내재화되는 방향을 명확히 시사한다.\n\n머스크는 같은 트윗에서 xAI가 2026년 하반기 동안 스페이스X를 통해 '완전 새로 훈련된' 신규 AI 모델을 매달 출시할 계획임을 밝혔다. 다음 모델은 이미 강화학습(RL) 단계를 진행 중이라고도 언급했다 — 경쟁사 대비 이례적으로 빠른 개발 주기다.\n\n성능 측면에서 머스크는 초기 벤치마크가 Claude Opus에 근접하거나 이를 웃돈다고 주장했다. 내부 평가 결과이므로 독립 벤치마크로 검증이 필요하지만, 사실이라면 현재 최상위 LLM군(GPT-4o·Gemini Ultra·Claude Opus)과 어깨를 나란히 하는 수준이다. 다수의 테크 매체(Seeking Alpha·Basenor·Crypto Briefing 등)가 같은 사안을 보도하며 교차 확인됐다.",
-      "summary_en": "Grok 4.5 is built on xAI's V9 foundation model with 1.5 trillion parameters — a 50% step up from Grok 4.4's 1 trillion. Training wrapped on May 26, 2026, with a key supplemental addition: coding data from Cursor, a popular AI-assisted development environment. That integration specifically sharpens the model for software engineering and technical reasoning, making it directly relevant to the workflows at both Tesla and SpaceX.\n\nThe most significant fact for Tesla shareholders is where the first deployment is happening. By entering private beta specifically inside Tesla and SpaceX, Grok 4.5 marks xAI's first publicly confirmed AI model integration into Tesla's engineering environment. This is currently productivity-tool-level deployment for engineers — not a direct FSD or vehicle feature integration — but it establishes the precedent and direction: xAI capabilities converging with Tesla's software stack.\n\nMusk also signaled an accelerated roadmap: xAI intends to release new AI models 'completely trained from scratch' through SpaceX every month for the rest of 2026. The next model iteration is already in reinforcement learning training, per the tweet — an unusually fast cadence for models at this scale and parameter count.\n\nOn performance: Musk's claim that early evals put Grok 4.5 at or above Claude Opus would place it in the top tier of available large language models, alongside GPT-4o and Gemini Ultra. Internal benchmark claims are not the same as independent third-party evaluations, but the deployment at Tesla and SpaceX — with real engineering workflows as the test bed — gives these evals more grounding than a purely synthetic benchmark. The story has been picked up by Seeking Alpha, Basenor, and Crypto Briefing, confirming multiple cross-sources for the announcement.",
-      "href": "https://x.com/elonmusk/status/2071184354756477041",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Elon Musk (X)",
-        "Seeking Alpha",
-        "Basenor",
-        "Crypto Briefing"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-13 20:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-13 20:50 KST 자동 갱신 · 최신순"
 }

@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-13T10:48:46.000Z",
+      "title": "게리 블랙 \"스페이스X 주가, <em>IPO가 $135 밑으로</em> 떨어질 수도\" — 내부자 락업 해제 겨냥",
+      "hotShort": "게리 블랙, 스페이스X 주가 <em>IPO가 하회</em> 경고",
+      "body": "베테랑 애널리스트 게리 블랙이 스페이스X 주가가 조만간 IPO 공모가 $135를 밑돌 수 있다고 경고했다 — 2분기 실적 발표 후 내부자(머스크 제외) 지분 최대 20% 매도가 풀리는 락업 해제 일정이 매물 압력의 핵심 근거다.",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "musk-gary-black-spacex-below-ipo-price-2026-07-13",
+      "summary": "스페이스X 주가에 대한 회의론을 이어온 게리 블랙(전 퍼시픽 자산운용 CIO)이 이번엔 구체적인 매물 폭탄 시나리오를 제시했다. 그는 IPO 공모가인 $135 밑으로 주가가 조만간 떨어질 수 있다고 경고했다.\n\n근거는 내부자 지분 락업 해제 일정이다. 2분기 실적 발표 직후 머스크를 제외한 내부자들이 보유 지분의 최대 20%까지 매도가 가능해지고, 이후 상장 70일·90일·105일·120일·135일째마다 추가로 7%씩 매도 가능 물량이 풀린다. 3분기 실적 발표 후에는 다시 28%가 추가로 해제된다 — 상장 초기 몇 달간 계속해서 대규모 매물이 시장에 나올 수 있는 구조다.\n\n블랙은 앞서에도 스페이스X 밸류에이션에 지속적으로 의문을 제기해왔다 — 2026년 EV/EBITDA 기준 150배는 투자자가 지불하기엔 과도하다는 입장이다. 본인도 스페이스X 주식을 전혀 보유하고 있지 않다고 밝히며, 커뮤니티의 강세 분위기와 대비되는 자신의 회의적 시각을 강조했다.\n\n월가 시각은 극단적으로 엇갈린다. JP모건은 목표주가 $225를, 모건스탠리는 강세 시나리오로 $300을 각각 제시한 상태다 — 블랙의 경고와 정반대편에 있는 셈이다. 테슬라 주주 입장에서는 직접적인 TSLA 실적 변수는 아니지만, 테슬라·스페이스X 합병설이 여전히 거론되는 가운데 스페이스X 밸류에이션을 둘러싼 불확실성이 커지고 있다는 신호로 볼 만하다.",
+      "title_en": "Gary Black warns SpaceX stock could <em>fall below its $135 IPO price</em> as insider lockups unwind",
+      "hotShort_en": "Gary Black: SpaceX stock <em>could dip below IPO price</em>",
+      "body_en": "Veteran analyst Gary Black warned SpaceX shares could soon trade below their $135 IPO price — pointing to a lockup schedule that lets insiders (excluding Musk) sell up to 20% of their stakes right after the Q2 earnings call, with more unlocking in stages after that.",
+      "summary_en": "Gary Black, a longtime SpaceX valuation skeptic, has laid out a concrete scenario for why the stock could soon slip below its $135 IPO price.\n\nThe trigger is the insider lockup schedule. Right after SpaceX's Q2 earnings call, insiders excluding Musk can sell up to 20% of their holdings. More unlocks follow at the 70th, 90th, 105th, 120th and 135th days after the IPO, each freeing up another 7% — and another 28% unlocks after the Q3 earnings call. That structure means waves of potential selling pressure could keep hitting the stock for months after listing.\n\nBlack has repeatedly questioned SpaceX's valuation, arguing investors shouldn't be paying roughly 150x 2026 EV/EBITDA for the company. He said he holds no SPCX position himself, underscoring how far his skepticism runs against the bullish sentiment elsewhere.\n\nWall Street's targets span a wide range — JPMorgan has set a $225 price target while Morgan Stanley's bull case reaches $300, both well above Black's bearish call. For Tesla shareholders, this isn't a direct TSLA earnings signal, but it adds to the uncertainty around SpaceX's valuation just as Tesla-SpaceX merger speculation continues to circulate.",
+      "href": "https://www.benzinga.com/news/space/26/07/60408883/gary-black-thinks-spacex-stock-could-soon-trade-below-its-ipo-price-heres-why",
+      "sentiment": "bear",
+      "hot": 3
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -69,7 +89,10 @@
       "summary_en": "A construction permit for Tesla's dedicated robotaxi hub in Austin, Texas has revealed a 'cleaning robot' listed among the facility's equipment. The hub, first proposed late last year with construction underway since Q1 2026, is designed as a central depot for fleet charging, maintenance and storage.\n\nTesla has previously demonstrated how the robot works: a multi-function robotic arm uses a rotating microfiber attachment to wipe fingerprints and dust off the Cybercab's 21-inch screen, and a powerful suction attachment to clear crumbs and dirt from seats, carpets and floor mats. When a robotaxi returns to the hub to charge, the same arm can also perform a full exterior sensor sweep, cleaning the side, pillar and rear camera lenses.\n\nTesla is also building separate drive-through 'robotaxi car washes' that vehicles can pull into autonomously when returning to the hub to charge — pairing with the arm's interior and sensor cleaning to keep the exterior maintained without any human involvement.\n\nToday's Model Y-based robotaxis are reportedly still cleaned by hand. The permit suggests that as Tesla scales its hub network the way it scaled Superchargers, it wants cleaning and maintenance automated too, to keep operating costs down.\n\nRobotaxi economics ultimately hinge on vehicle utilization and upkeep costs — automating cleaning and maintenance is one piece of cutting labor costs and enabling round-the-clock operation.",
       "href": "https://www.notateslaapp.com/news/4424/tesla-robotaxi-hubs-start-adding-car-cleaning-robots",
       "confirmedBy": 2,
-      "confirmingSources": ["Not a Tesla App", "Teslarati"],
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Teslarati"
+      ],
       "sentiment": "neutral",
       "hot": 3
     },
@@ -130,10 +153,11 @@
       "body_en": "Tesla says its production Cybercab — the two-seat robotaxi with no steering wheel or pedals — has begun giving employee rides at Giga Texas, a first for putting real passengers inside the vehicle. The catch: it's confined to the factory's own parking lot, not public roads.",
       "summary_en": "Tesla announced via two of its X accounts that Cybercab rides for employees are \"starting soon\" at Giga Factory Texas. The two-seat production Cybercab has no steering wheel or pedals, and this marks the first publicly confirmed instance of the robotaxi carrying actual passengers rather than running empty.\n\nElectrek reported the news cautiously, framing it as a claim from Tesla, and noted the driving is limited to the factory's own parking lot rather than public streets. Teslarati also covered the development.\n\nThe parking-lot rides follow a June 30 driverless test of a production Cybercab on public roads in Austin — without passengers. Putting employees in the vehicle is a step forward, but it's still happening in a controlled, low-stakes environment.\n\nCybercab's path to real-world deployment also hinges on regulation. NHTSA signaled on July 9 that it could revisit the steering-wheel requirement for driverless vehicles — a rule that directly affects whether a wheel-less car like Cybercab can legally operate.",
       "href": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
-      "confirmedBy": 2,
+      "confirmedBy": 3,
       "confirmingSources": [
         "Electrek",
-        "Teslarati"
+        "Teslarati",
+        "Mashable"
       ],
       "sentiment": "bull",
       "hot": 5
@@ -157,32 +181,7 @@
       "href": "https://www.teslarati.com/tesla-shows-rapid-teardown-model-s-and-x-lines-paving-way-optimus-fremont/",
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-07-10T21:14:06.000Z",
-      "title": "일론 머스크, 테슬라 직원들에 <em>\"그록으로 전환\"</em> 지시 — 본인도 성능 열세 인정",
-      "hotShort": "머스크, 직원에 <em>그록 전환</em> 지시 — 성능 열세 인정",
-      "body": "일론 머스크가 금요일 사내 메모를 통해 테슬라 직원들에게 가능하면 자신의 xAI 모델 <em>그록으로 전환</em>하라고 지시했다 — 며칠 전 테슬라가 직원 AI 도구 지출에 주 $200 상한을 두면서 그록만 예외로 둔 데 이은 조치다. 머스크 본인도 X에서 앤트로픽 모델 대비 성능이 못 미친다고 인정해, 비용 절감이 곧 성능 타협이라는 논란을 자초했다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "musk-grok-staff-switch-2026-07-10",
-      "summary": "테슬라가 지난 7월 6일부터 시행 중인 직원 AI 도구 지출 주 $200 상한 정책(그록 제외)에 이어, 머스크가 이번엔 한발 더 나아가 직접 그록 사용을 독려하고 나섰다. Electrek 이 입수한 사내 메모에 따르면 머스크는 금요일 직원들에게 \"가능하면\" 그록으로 전환할 것을 지시했다.\n\n메모의 명분은 비용이다. 머스크는 X에서 그록 4.5가 작업당 약 $0.13 수준으로 앤트로픽 Fable 5의 작업당 $1.57 대비 훨씬 저렴하다고 밝히며, \"공정하게 말해 Fable이 그록 4.5보다 확실히 낫지만, 대부분 작업은 Fable 수준 성능이 필요 없다\"고 인정했다.\n\n배경에는 급증한 AI 사용 비용이 있다. 테슬라는 지난 6개월간 사내 리더보드로 엔지니어들의 토큰 사용을 독려해왔는데, 일부 소프트웨어 엔지니어가 주당 수천 달러어치 토큰을 소비하면서 비용이 통제 불능 수준에 이르렀다는 것이다.\n\n다만 직원들 사이에서 그록의 인기는 높지 않다 — 다수는 앤트로픽 Fable을 선호하는 것으로 알려졌다. 테슬라 주주 입장에서 직접적 실적 신호는 아니지만, 머스크가 자사 AI 인프라(xAI, 현재 스페이스X 산하)를 비용 절감 명분으로 사내 표준으로 밀어붙이는 동시에 성능 열세를 공개 인정한 점은, 테슬라의 AI·자율주행 개발에 실제로 어떤 도구가 쓰이는지에 대한 신뢰성 논란으로 번질 수 있다.",
-      "title_en": "Musk tells Tesla staff to switch to <em>Grok</em> — even as he admits it's worse",
-      "hotShort_en": "Musk pushes staff toward <em>worse</em> Grok",
-      "body_en": "Elon Musk told Tesla staff in a Friday memo to switch to <em>Grok</em> \"when possible\" — days after Tesla capped employee AI spending at $200/week with Grok exempted. Musk himself admitted on X that Grok trails Anthropic's Fable 5 in quality, tying the cost-cutting push to a performance trade-off.",
-      "summary_en": "Tesla's new $200-per-week cap on employee AI tool spending, in effect since July 6, already carved out an exemption for Grok. Now Musk has gone a step further, directly urging staff to adopt it. According to a memo obtained by Electrek, Musk told employees on Friday to switch to Grok \"when possible.\"\n\nThe stated reason is cost. Musk wrote on X that Grok 4.5 runs at roughly $0.13 per task versus $1.57 for Anthropic's Fable 5, adding: \"In fairness, Fable is definitely better than Grok 4.5, but most tasks don't require Fable-level capability.\"\n\nThe push follows months of runaway AI spending inside Tesla. The company had gamified token usage with internal leaderboards to drive adoption, and some software engineers were burning through thousands of dollars in tokens per week before the cap was imposed.\n\nGrok isn't popular internally, though — several employees reportedly prefer Anthropic's Fable models. For Tesla shareholders, the episode isn't an earnings signal, but it does raise questions about how Musk balances cost control against tool quality in the AI and autonomy work (FSD, Dojo) that underpins Tesla's investment case.",
-      "href": "https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "TheStreet"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-13 20:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-13 20:50 KST 자동 갱신 · 최신순"
 }
