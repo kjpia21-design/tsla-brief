@@ -1,6 +1,57 @@
 {
-  "asOf": "2026-07-13 07:27 UTC · 누적 589건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-13 11:19 UTC · 누적 591건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-13T06:08:34.000Z",
+      "title": "삼성 테일러 공장, 테슬라 <em>AI5 칩 생산 단계</em> 돌입 — 2나노 공정",
+      "hotShort": "삼성 테일러 공장, <em>AI5 칩 생산</em> 단계 돌입",
+      "body": "삼성전자 텍사스 테일러 파운드리가 테슬라 차세대 자율주행·옵티머스용 AI5 칩의 <em>양산 준비 단계</em>에 들어갔다 — 2나노 공정 설계(테이프아웃)를 마쳤고, 팹은 올 하반기 가동을 시작해 2027년 테슬라향 본격 양산에 나설 예정이다. 기존 AI4(삼성 평택 7나노) 대비 공정 세대가 크게 도약해, FSD·로보틱스 컴퓨팅 파워 확장의 다음 단계를 보여준다.",
+      "sourceName": "Korea Times",
+      "sourceLabel": "press",
+      "slug": "fsd-samsung-ai5-chip-taylor-production-2026-07-13",
+      "summary": "삼성전자가 텍사스 테일러에 짓고 있는 파운드리가 테슬라의 차세대 자율주행 칩 'AI5' 생산을 위한 준비 단계에 진입했다. 삼성 파운드리 소속 엔지니어는 최근 AI5의 2나노 공정 설계(테이프아웃)를 완료했다고 밝혔으며, 해당 칩은 조만간 테슬라의 최신 제품에 탑재될 예정이라고 전했다.\n\nAI5는 삼성의 최첨단 2나노 공정과 신규 텍사스 생산기지로의 전환을 상징한다. 현재 테슬라 차량에 쓰이는 AI4 칩은 삼성 평택캠퍼스의 7나노 공정으로 생산되고 있어, 이번 전환은 공정 세대를 크게 뛰어넘는 도약이다.\n\n테일러 팹은 올해 하반기 초기 가동을 시작한 뒤, 테슬라를 포함한 주요 고객사向 본격 양산을 2027년부터 진행할 계획이다. AI5는 FSD(자율주행)뿐 아니라 옵티머스 휴머노이드 로봇에도 탑재될 예정으로, 테슬라의 AI 컴퓨팅 인프라 확장 로드맵의 핵심 부품이다.\n\n테슬라 주주 입장에서는 자율주행·로보틱스 사업의 연산 능력을 좌우할 차세대 칩의 공급망이 실제로 가동 단계에 들어섰다는 뜻이다. 앞서 일론 머스크는 텍사스 테일러 팹의 생산 역량이 TSMC 미국 공장보다 우수하다고 평가한 바 있으며, AI5는 삼성과 TSMC 애리조나 공장에 이원화 생산될 예정이다.",
+      "title_en": "Samsung's Taylor fab enters <em>production phase</em> for Tesla's AI5 chip — on 2nm process",
+      "hotShort_en": "Samsung Taylor fab hits <em>AI5 production phase</em>",
+      "body_en": "Samsung's Taylor, Texas foundry has entered the <em>production-readiness phase</em> for Tesla's next-gen AI5 chip — tape-out on the 2nm process is complete, with the fab starting initial operations later this year and full-scale production for Tesla beginning in 2027. It's a major process jump from the current AI4 chip, built on Samsung's 7nm line in Pyeongtaek.",
+      "summary_en": "Samsung's foundry under construction in Taylor, Texas has entered the readiness phase for producing Tesla's next-generation AI5 chip. A Samsung Foundry engineer recently confirmed that the 2nm design tape-out for AI5 is complete, and the chip is set to be equipped in Tesla's newest products soon.\n\nAI5 marks Samsung's shift to its most advanced 2nm process and its new Texas manufacturing base. Tesla's current AI4 chip, by comparison, is produced on Samsung's 7nm process at its Pyeongtaek campus in Korea — making this a significant generational leap.\n\nThe Taylor fab is expected to begin initial operations later this year, with full-scale production for key customers including Tesla starting in 2027. AI5 is slated to power both FSD (Full Self-Driving) computing and the Optimus humanoid robot, making it a core piece of Tesla's AI infrastructure roadmap.\n\nFor Tesla shareholders, the milestone means the chip supply chain underpinning the company's autonomy and robotics ambitions is now moving into an active production stage. Elon Musk has previously said Samsung's Taylor fab outperforms TSMC's U.S. facilities, and Tesla plans to dual-source AI5 production between Samsung and TSMC's Arizona plant.",
+      "href": "https://www.koreatimes.co.kr/business/tech-science/20260713/samsung-taylor-fab-enters-production-phase-for-teslas-ai5-chip",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Korea Times",
+        "SamMobile",
+        "GuruFocus"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-13T04:40:27.000Z",
+      "title": "테슬라코리아, FSD <em>월 15만원 구독제</em>로 전환 — 8월10일부터 일시불 904만원 폐지",
+      "hotShort": "테슬라코리아, FSD <em>월 15만원 구독</em>으로 전환",
+      "body": "테슬라코리아가 8월10일부터 FSD(감독형)를 기존 일시불 904만3000원 방식에서 <em>월 15만원 구독제</em>로 전환한다 — 이미 구매한 고객은 기존 혜택이 유지되며, EAP 보유 고객은 월 7만5000원 할인 요금이 적용된다.",
+      "sourceName": "Seoul Economic Daily",
+      "sourceLabel": "press",
+      "slug": "fsd-korea-subscription-150k-won-2026-07-13",
+      "summary": "테슬라코리아가 완전자율주행(FSD, 감독형) 구매 방식을 대대적으로 바꾼다. 8월10일부터 신규 구매자는 그동안의 일시불 결제 대신 월 정액 구독으로만 FSD를 이용할 수 있게 된다.\n\n가격 구조는 이렇다 — 기존 일시불 904만3000원 방식은 8월9일까지만 유지되고, 이후로는 월 15만원 구독제로 전면 전환된다. 이미 FSD를 일시불로 구매해 사용 중인 고객은 기존 방식 그대로 계속 이용할 수 있다.\n\n향상된 오토파일럿(EAP)을 이미 보유한 고객이 8월10일 이후 FSD(감독형)를 구독 전환할 경우엔 할인이 적용돼 월 7만5000원만 내면 된다.\n\n이번 조치는 지난 7월10일 한국에 FSD v14 Lite가 출시된 데 이은 후속 가격 정책이다. 900만원대 일시불 부담을 낮춰 구독 문턱을 대폭 낮춤으로써 FSD 보급률을 끌어올리려는 전략으로 풀이된다 — 다만 장기 보유 고객에게는 구독 누적 비용이 일시불보다 커질 수 있어, 이용 기간에 따라 유불리가 갈린다.",
+      "title_en": "Tesla Korea shifts FSD to <em>₩150K/month subscription</em>, ending the ₩9.04M lump-sum option",
+      "hotShort_en": "Tesla Korea moves FSD to <em>monthly subscription</em>",
+      "body_en": "Starting August 10, Tesla Korea is replacing its ₩9.043 million lump-sum FSD (Supervised) purchase with a <em>₩150,000-a-month subscription</em> — existing lump-sum owners keep their access, and customers who already have Enhanced Autopilot get a discounted rate of ₩75,000/month.",
+      "summary_en": "Tesla Korea is overhauling how customers buy Full Self-Driving (Supervised). Starting August 10, new buyers will only be able to access FSD through a monthly subscription rather than a one-time payment.\n\nHere's the pricing shift: the existing ₩9.043 million lump-sum option remains available only through August 9, after which it's replaced entirely by a ₩150,000-a-month subscription. Customers who already purchased FSD outright keep their existing access unchanged.\n\nCustomers who already own Enhanced Autopilot (EAP) get a discount if they subscribe to FSD (Supervised) after August 10 — paying just ₩75,000 a month instead of the full rate.\n\nThe move follows Tesla Korea's July 10 launch of FSD v14 Lite, extending that rollout with a pricing shift aimed at lowering the barrier to entry. Dropping the roughly $6,600 upfront cost in favor of a subscription could boost adoption — though for owners who keep a car for many years, the subscription could ultimately cost more than the old lump sum.",
+      "href": "https://en.sedaily.com/news/2026/07/13/tesla-korea-shifts-supervised-fsd-to-monthly-subscription",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Seoul Economic Daily",
+        "ZDNet Korea"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -12,12 +63,17 @@
       "sourceName": "Not a Tesla App",
       "sourceLabel": "press",
       "slug": "fsd-robotaxi-hub-cleaning-robot-austin-2026-07-12",
-      "summary": "테슬라가 텍사스 오스틴에 짓고 있는 로보택시 전용 허브의 건축허가 서류에서 '청소 로봇(cleaning robot)'이 설비 목록에 처음 등장한 사실이 확인됐다. 이 허브는 지난해 말 처음 제안돼 올해 1분기부터 공사가 시작된, 로보택시 차량의 충전·정비·보관을 담당할 중앙 거점이다.\n\n테슬라는 앞서 이 청소 로봇의 작동 방식을 시연한 바 있다 — 다기능 로봇팔에 여러 부착물을 달아, 사이버캡의 21인치 스크린은 회전식 극세사 천으로 지문·먼지를 닦아내고, 강력한 흡입 장치로 좌석·카펫·바닥 매트의 부스러기와 먼지를 제거한다. 로보택시가 충전을 위해 허브로 복귀하면 측면·필러·후방 카메라 렌즈까지 정밀하게 닦아내는 외부 센서 세척도 수행할 수 있다.\n\n현재 운행 중인 모델Y 기반 로보택시는 사람이 직접 청소하는 것으로 알려져 있다. 이번 허가서는 테슬라가 슈퍼차저 네트워크처럼 허브 수를 늘려가며 무인 인프라를 확장하는 과정에서, 세차·정비까지 무인화해 운영비를 낮추려는 방향을 보여준다.\n\n로보택시 사업의 수익성은 결국 차량 가동률과 유지비에 달려 있다 — 청소·정비 자동화는 인건비를 줄이고 24시간 가동을 가능케 하는 핵심 조각 중 하나다.",
+      "summary": "테슬라가 텍사스 오스틴에 짓고 있는 로보택시 전용 허브의 건축허가 서류에서 '청소 로봇(cleaning robot)'이 설비 목록에 처음 등장한 사실이 확인됐다. 이 허브는 지난해 말 처음 제안돼 올해 1분기부터 공사가 시작된, 로보택시 차량의 충전·정비·보관을 담당할 중앙 거점이다.\n\n테슬라는 앞서 이 청소 로봇의 작동 방식을 시연한 바 있다 — 다기능 로봇팔에 여러 부착물을 달아, 사이버캡의 21인치 스크린은 회전식 극세사 천으로 지문·먼지를 닦아내고, 강력한 흡입 장치로 좌석·카펫·바닥 매트의 부스러기와 먼지를 제거한다. 로보택시가 충전을 위해 허브로 복귀하면 측면·필러·후방 카메라 렌즈까지 정밀하게 닦아내는 외부 센서 세척도 수행할 수 있다.\n\n테슬라는 여기에 더해 로보택시가 충전을 위해 허브로 복귀할 때 자율주행으로 통과하는 드라이브스루 형태의 '로보택시 세차장'도 별도로 짓고 있다 — 로봇팔의 실내·센서 세척과 결합해 차량 외관까지 사람 손 없이 관리하는 구상이다.\n\n현재 운행 중인 모델Y 기반 로보택시는 사람이 직접 청소하는 것으로 알려져 있다. 이번 허가서는 테슬라가 슈퍼차저 네트워크처럼 허브 수를 늘려가며 무인 인프라를 확장하는 과정에서, 세차·정비까지 무인화해 운영비를 낮추려는 방향을 보여준다.\n\n로보택시 사업의 수익성은 결국 차량 가동률과 유지비에 달려 있다 — 청소·정비 자동화는 인건비를 줄이고 24시간 가동을 가능케 하는 핵심 조각 중 하나다.",
       "title_en": "Tesla's Austin robotaxi hub permit reveals its first <em>cleaning robot</em>",
       "hotShort_en": "Austin robotaxi hub permit lists a <em>cleaning robot</em>",
       "body_en": "A construction permit for Tesla's Austin robotaxi hub lists a 'cleaning robot' among its equipment — the first documented instance in Tesla's robotaxi infrastructure, signaling a push to automate fleet maintenance as the hub network scales.",
-      "summary_en": "A construction permit for Tesla's dedicated robotaxi hub in Austin, Texas has revealed a 'cleaning robot' listed among the facility's equipment. The hub, first proposed late last year with construction underway since Q1 2026, is designed as a central depot for fleet charging, maintenance and storage.\n\nTesla has previously demonstrated how the robot works: a multi-function robotic arm uses a rotating microfiber attachment to wipe fingerprints and dust off the Cybercab's 21-inch screen, and a powerful suction attachment to clear crumbs and dirt from seats, carpets and floor mats. When a robotaxi returns to the hub to charge, the same arm can also perform a full exterior sensor sweep, cleaning the side, pillar and rear camera lenses.\n\nToday's Model Y-based robotaxis are reportedly still cleaned by hand. The permit suggests that as Tesla scales its hub network the way it scaled Superchargers, it wants cleaning and maintenance automated too, to keep operating costs down.\n\nRobotaxi economics ultimately hinge on vehicle utilization and upkeep costs — automating cleaning and maintenance is one piece of cutting labor costs and enabling round-the-clock operation.",
+      "summary_en": "A construction permit for Tesla's dedicated robotaxi hub in Austin, Texas has revealed a 'cleaning robot' listed among the facility's equipment. The hub, first proposed late last year with construction underway since Q1 2026, is designed as a central depot for fleet charging, maintenance and storage.\n\nTesla has previously demonstrated how the robot works: a multi-function robotic arm uses a rotating microfiber attachment to wipe fingerprints and dust off the Cybercab's 21-inch screen, and a powerful suction attachment to clear crumbs and dirt from seats, carpets and floor mats. When a robotaxi returns to the hub to charge, the same arm can also perform a full exterior sensor sweep, cleaning the side, pillar and rear camera lenses.\n\nTesla is also building separate drive-through 'robotaxi car washes' that vehicles can pull into autonomously when returning to the hub to charge — pairing with the arm's interior and sensor cleaning to keep the exterior maintained without any human involvement.\n\nToday's Model Y-based robotaxis are reportedly still cleaned by hand. The permit suggests that as Tesla scales its hub network the way it scaled Superchargers, it wants cleaning and maintenance automated too, to keep operating costs down.\n\nRobotaxi economics ultimately hinge on vehicle utilization and upkeep costs — automating cleaning and maintenance is one piece of cutting labor costs and enabling round-the-clock operation.",
       "href": "https://www.notateslaapp.com/news/4424/tesla-robotaxi-hubs-start-adding-car-cleaning-robots",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Teslarati"
+      ],
       "sentiment": "neutral",
       "hot": 3
     },
