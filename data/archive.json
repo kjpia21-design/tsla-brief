@@ -3,6 +3,57 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-13T06:08:34.000Z",
+      "title": "삼성 테일러 공장, 테슬라 <em>AI5 칩 생산 단계</em> 돌입 — 2나노 공정",
+      "hotShort": "삼성 테일러 공장, <em>AI5 칩 생산</em> 단계 돌입",
+      "body": "삼성전자 텍사스 테일러 파운드리가 테슬라 차세대 자율주행·옵티머스용 AI5 칩의 <em>양산 준비 단계</em>에 들어갔다 — 2나노 공정 설계(테이프아웃)를 마쳤고, 팹은 올 하반기 가동을 시작해 2027년 테슬라향 본격 양산에 나설 예정이다. 기존 AI4(삼성 평택 7나노) 대비 공정 세대가 크게 도약해, FSD·로보틱스 컴퓨팅 파워 확장의 다음 단계를 보여준다.",
+      "sourceName": "Korea Times",
+      "sourceLabel": "press",
+      "slug": "fsd-samsung-ai5-chip-taylor-production-2026-07-13",
+      "summary": "삼성전자가 텍사스 테일러에 짓고 있는 파운드리가 테슬라의 차세대 자율주행 칩 'AI5' 생산을 위한 준비 단계에 진입했다. 삼성 파운드리 소속 엔지니어는 최근 AI5의 2나노 공정 설계(테이프아웃)를 완료했다고 밝혔으며, 해당 칩은 조만간 테슬라의 최신 제품에 탑재될 예정이라고 전했다.\n\nAI5는 삼성의 최첨단 2나노 공정과 신규 텍사스 생산기지로의 전환을 상징한다. 현재 테슬라 차량에 쓰이는 AI4 칩은 삼성 평택캠퍼스의 7나노 공정으로 생산되고 있어, 이번 전환은 공정 세대를 크게 뛰어넘는 도약이다.\n\n테일러 팹은 올해 하반기 초기 가동을 시작한 뒤, 테슬라를 포함한 주요 고객사向 본격 양산을 2027년부터 진행할 계획이다. AI5는 FSD(자율주행)뿐 아니라 옵티머스 휴머노이드 로봇에도 탑재될 예정으로, 테슬라의 AI 컴퓨팅 인프라 확장 로드맵의 핵심 부품이다.\n\n테슬라 주주 입장에서는 자율주행·로보틱스 사업의 연산 능력을 좌우할 차세대 칩의 공급망이 실제로 가동 단계에 들어섰다는 뜻이다. 앞서 일론 머스크는 텍사스 테일러 팹의 생산 역량이 TSMC 미국 공장보다 우수하다고 평가한 바 있으며, AI5는 삼성과 TSMC 애리조나 공장에 이원화 생산될 예정이다.",
+      "title_en": "Samsung's Taylor fab enters <em>production phase</em> for Tesla's AI5 chip — on 2nm process",
+      "hotShort_en": "Samsung Taylor fab hits <em>AI5 production phase</em>",
+      "body_en": "Samsung's Taylor, Texas foundry has entered the <em>production-readiness phase</em> for Tesla's next-gen AI5 chip — tape-out on the 2nm process is complete, with the fab starting initial operations later this year and full-scale production for Tesla beginning in 2027. It's a major process jump from the current AI4 chip, built on Samsung's 7nm line in Pyeongtaek.",
+      "summary_en": "Samsung's foundry under construction in Taylor, Texas has entered the readiness phase for producing Tesla's next-generation AI5 chip. A Samsung Foundry engineer recently confirmed that the 2nm design tape-out for AI5 is complete, and the chip is set to be equipped in Tesla's newest products soon.\n\nAI5 marks Samsung's shift to its most advanced 2nm process and its new Texas manufacturing base. Tesla's current AI4 chip, by comparison, is produced on Samsung's 7nm process at its Pyeongtaek campus in Korea — making this a significant generational leap.\n\nThe Taylor fab is expected to begin initial operations later this year, with full-scale production for key customers including Tesla starting in 2027. AI5 is slated to power both FSD (Full Self-Driving) computing and the Optimus humanoid robot, making it a core piece of Tesla's AI infrastructure roadmap.\n\nFor Tesla shareholders, the milestone means the chip supply chain underpinning the company's autonomy and robotics ambitions is now moving into an active production stage. Elon Musk has previously said Samsung's Taylor fab outperforms TSMC's U.S. facilities, and Tesla plans to dual-source AI5 production between Samsung and TSMC's Arizona plant.",
+      "href": "https://www.koreatimes.co.kr/business/tech-science/20260713/samsung-taylor-fab-enters-production-phase-for-teslas-ai5-chip",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Korea Times",
+        "SamMobile",
+        "GuruFocus"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-13T04:40:27.000Z",
+      "title": "테슬라코리아, FSD <em>월 15만원 구독제</em>로 전환 — 8월10일부터 일시불 904만원 폐지",
+      "hotShort": "테슬라코리아, FSD <em>월 15만원 구독</em>으로 전환",
+      "body": "테슬라코리아가 8월10일부터 FSD(감독형)를 기존 일시불 904만3000원 방식에서 <em>월 15만원 구독제</em>로 전환한다 — 이미 구매한 고객은 기존 혜택이 유지되며, EAP 보유 고객은 월 7만5000원 할인 요금이 적용된다.",
+      "sourceName": "Seoul Economic Daily",
+      "sourceLabel": "press",
+      "slug": "fsd-korea-subscription-150k-won-2026-07-13",
+      "summary": "테슬라코리아가 완전자율주행(FSD, 감독형) 구매 방식을 대대적으로 바꾼다. 8월10일부터 신규 구매자는 그동안의 일시불 결제 대신 월 정액 구독으로만 FSD를 이용할 수 있게 된다.\n\n가격 구조는 이렇다 — 기존 일시불 904만3000원 방식은 8월9일까지만 유지되고, 이후로는 월 15만원 구독제로 전면 전환된다. 이미 FSD를 일시불로 구매해 사용 중인 고객은 기존 방식 그대로 계속 이용할 수 있다.\n\n향상된 오토파일럿(EAP)을 이미 보유한 고객이 8월10일 이후 FSD(감독형)를 구독 전환할 경우엔 할인이 적용돼 월 7만5000원만 내면 된다.\n\n이번 조치는 지난 7월10일 한국에 FSD v14 Lite가 출시된 데 이은 후속 가격 정책이다. 900만원대 일시불 부담을 낮춰 구독 문턱을 대폭 낮춤으로써 FSD 보급률을 끌어올리려는 전략으로 풀이된다 — 다만 장기 보유 고객에게는 구독 누적 비용이 일시불보다 커질 수 있어, 이용 기간에 따라 유불리가 갈린다.",
+      "title_en": "Tesla Korea shifts FSD to <em>₩150K/month subscription</em>, ending the ₩9.04M lump-sum option",
+      "hotShort_en": "Tesla Korea moves FSD to <em>monthly subscription</em>",
+      "body_en": "Starting August 10, Tesla Korea is replacing its ₩9.043 million lump-sum FSD (Supervised) purchase with a <em>₩150,000-a-month subscription</em> — existing lump-sum owners keep their access, and customers who already have Enhanced Autopilot get a discounted rate of ₩75,000/month.",
+      "summary_en": "Tesla Korea is overhauling how customers buy Full Self-Driving (Supervised). Starting August 10, new buyers will only be able to access FSD through a monthly subscription rather than a one-time payment.\n\nHere's the pricing shift: the existing ₩9.043 million lump-sum option remains available only through August 9, after which it's replaced entirely by a ₩150,000-a-month subscription. Customers who already purchased FSD outright keep their existing access unchanged.\n\nCustomers who already own Enhanced Autopilot (EAP) get a discount if they subscribe to FSD (Supervised) after August 10 — paying just ₩75,000 a month instead of the full rate.\n\nThe move follows Tesla Korea's July 10 launch of FSD v14 Lite, extending that rollout with a pricing shift aimed at lowering the barrier to entry. Dropping the roughly $6,600 upfront cost in favor of a subscription could boost adoption — though for owners who keep a car for many years, the subscription could ultimately cost more than the old lump sum.",
+      "href": "https://en.sedaily.com/news/2026/07/13/tesla-korea-shifts-supervised-fsd-to-monthly-subscription",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Seoul Economic Daily",
+        "ZDNet Korea"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
       "pubDate": "2026-07-12T16:00:00.000Z",
       "title": "테슬라 오스틴 로보택시 허브 건축허가서에 <em>청소 로봇</em> 첫 등장",
@@ -2360,61 +2411,7 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-06-28T09:30:00.000Z",
-      "title": "WSJ \"웨이브, 테슬라·웨이모 도전하는 $86억 AI 스타트업\" — <em>카메라 맵리스 + 우버 파트너십</em>",
-      "hotShort": "영국 웨이브 <em>$86억</em>, 카메라 AI로 웨이모·테슬라 도전",
-      "body": "영국 런던 기반 AI 자율주행 스타트업 웨이브(Wayve)가 WSJ 특집으로 조명받았다 — 엔비디아·우버·3개 완성차 업체로부터 15억달러를 조달해 기업가치 86억달러를 기록했으며, 테슬라 FSD와 동일한 '카메라 기반·지도 없는(mapless)' 방식을 택하면서도 여러 완성차 브랜드에 기술을 공급하는 B2B 모델로 차별화했다. 2026년 우버 파트너십을 통해 런던·도쿄에 안전요원 탑승 자율주행 서비스를 시작할 계획이다.",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "fsd-wayve-tesla-waymo-challenger-2026-06-28",
-      "summary": "웨이브는 테슬라와 같은 기술 철학을 공유하는 경쟁자다 — HD 지도 없이 카메라와 엔드 투 엔드(E2E) AI만으로 다양한 환경을 주행한다. 구글·웨이모의 라이다(LiDAR) 기반 접근과 대비되는 이 방식은 하드웨어 비용이 낮고 새로운 도시에 빠르게 진입할 수 있다는 장점이 있다. 그러나 웨이브가 테슬라와 결정적으로 다른 점은 비즈니스 모델이다.\n\n테슬라는 FSD를 자사 차량 생태계 안에 가두지만, 웨이브는 '구현형 AI 플랫폼(Embodied AI)'을 여러 완성차 브랜드와 우버 같은 모빌리티 기업에 판매한다 — 더 넓은 시장을 노리는 B2B 전략이다. 엔비디아(칩)·우버(배포 채널)·완성차 3개사(투자자)로부터 15억달러(약 2조원)를 조달했으며, 추가로 Qualcomm·AMD·Arm으로부터 6,000만달러를 확보해 총 기업가치는 86억달러(약 11.7조원)에 달한다. TechCrunch, Time 등이 교차 확인했다.\n\n2026년 웨이브는 우버와 공동으로 런던과 도쿄에서 안전 요원이 탑승한 자율주행 서비스를 시작할 계획이다. 경쟁 지형을 보면, 웨이모가 이미 미국 10개 도시에서 연간 3억5,000만달러 이상의 매출을 올리는 가운데, 웨이브는 유럽·아시아를 거점으로 유럽 완성차 업체에 FSD와 다른 선택지를 제시하려 한다.\n\n테슬라 주주 관점에서 웨이브는 두 가지 잠재적 리스크다. 첫째, 테슬라가 차별화 근거로 삼는 '카메라 기반 E2E 자율주행' 기술 우위 내러티브가 흔들릴 수 있다. 둘째, 테슬라가 FSD를 자사 하드웨어에만 묶어두는 동안 웨이브는 훨씬 더 넓은 차량 기반 위에서 주행 데이터를 누적할 수 있다. 직접 경쟁은 아직 제한적이나, 자율주행 AI 시장 리더십 경쟁에 잘 자금을 갖춘 새 변수가 등장했다는 신호로 봐야 한다.",
-      "href": "https://www.wsj.com/business/autos/wayve-self-driving-technology-2e917ebd",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "WSJ",
-        "TechCrunch",
-        "Time"
-      ],
-      "sentiment": "neutral",
-      "hot": 5,
-      "title_en": "WSJ profiles Wayve, the $8.6B AI startup <em>challenging Tesla and Waymo</em> with mapless cameras",
-      "hotShort_en": "Wayve raises <em>$1.5B</em> to challenge Tesla and Waymo",
-      "body_en": "London-based Wayve — which uses the same camera-only, mapless AI approach as Tesla's FSD but licenses the technology to multiple automakers and Uber — has raised $1.5 billion at an $8.6 billion valuation from Nvidia, Uber, and three automakers, plus $60 million from Qualcomm, AMD, and Arm. The Wall Street Journal spotlighted Wayve as an AI startup targeting the broadest possible addressable market in autonomous driving by selling its platform across brands rather than locking it to a single car. Wayve plans to launch safety-monitored rides in London and Tokyo via Uber in 2026.",
-      "summary_en": "Wayve shares Tesla's core technical bet: ditch the HD maps and lidar rigs, trust cameras and end-to-end neural networks instead. But it has chosen a fundamentally different commercial path. Rather than building its own car to carry its own AI, Wayve packages its \"Embodied AI\" platform for sale to any willing automaker or mobility operator — making its addressable market essentially the whole automotive industry rather than customers it can reach through a single brand.\n\nThe February 2026 funding round brought in $1.5 billion from Nvidia (chips), Uber (distribution), and three unnamed major automakers, giving Wayve an $8.6 billion valuation. A subsequent $60 million tranche from Qualcomm, AMD, and Arm Holdings, announced in April, further entrenched its hardware-ecosystem relationships. TechCrunch and Time have independently confirmed the funding details.\n\nWaymo is the nearest data point for what a scaled robotaxi business looks like: roughly 3,000 vehicles in ten U.S. cities, more than $350 million in annualized revenue as of early 2026. Waymo's model requires expensive, city-by-city lidar sensor packs and mapping. Wayve argues its generalizable AI can replicate Waymo's safety standard at lower infrastructure cost — the same reasoning Tesla applies, but without being tied to one hardware platform.\n\nFor Tesla investors, Wayve is a nuanced competitive signal. It validates the camera-plus-AI thesis — a point in Tesla's favor on the narrative level. But it also challenges the assumption that Tesla is the only player building scalable, map-free autonomy. More critically, if Wayve's B2B model lets it accumulate driving data across dozens of vehicle brands in dozens of cities, the data-compounding edge Tesla has banked on through its consumer fleet could narrow. Near-term competitive overlap is limited; longer-term, this is a data race that just got a well-funded new entrant."
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
-      "pubDate": "2026-06-28T00:00:00.000Z",
-      "title": "Q2 인도 D-3 — 전망 410~420K 수렴, <em>JP모건만 하향 조정</em>",
-      "hotShort": "Q2 인도 D-3 — 전망 수렴 속 <em>JP모건 홀로 하향</em>",
-      "body": "7월 2일 Q2 인도 발표(D-3)를 앞두고 월가 추정이 410~420K대로 좁혀졌다 — 골드만(420K↑)·모건스탠리(413K↑)·바클레이스(418K↑)는 일제히 상향한 반면, JP모건(Rajat Gupta)은 6월 24일 430.5K→420K로 하향 조정하며 미국·중국 EV 시장 부진을 경고했다. 22개 기관 컨센서스 406K를 얼마나 상회하는지가 이번 주 TSLA 모멘텀의 핵심 변수.",
-      "title_en": "Q2 deliveries D-3 — estimates converge near 420K, but <em>JPMorgan cuts</em>",
-      "hotShort_en": "Q2 in 3 days — <em>JPMorgan cuts</em> to 420K",
-      "body_en": "Three days before Tesla's Q2 delivery report on July 2, Wall Street estimates have narrowed to the 410–420K range — Goldman Sachs (420K, raised), Morgan Stanley (413K, raised from 373K), and Barclays (418K) all revised up on Europe's +47% YoY April recovery, while JPMorgan analyst Rajat Gupta cut his forecast from 430,500 to 420,000 on June 24, citing softer U.S. and China EV demand. The 22-firm consensus stands at 406,024; how much the result beats it will define TSLA momentum this week.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "stock-q2-delivery-d4-countdown-2026-06-28",
-      "summary": "7월 2일 발표 예정인 테슬라 2분기 인도 실적을 사흘 앞두고, 월가 추정치가 빠르게 좁혀지고 있다. 22개 기관의 공식 컨센서스는 406,024대이지만, 강세 기관들의 추정은 이를 크게 웃돈다.\n\n상향 3인방은 골드만삭스(420K, 405K에서 상향)·바클레이스(418K)·모건스탠리(413K, 373K에서 대폭 상향)다 — 세 곳 모두 4월 유럽 등록 +47% YoY 회복세와 에너지 저장 부문 호조를 공통 근거로 들었다. 특히 모건스탠리는 '시장 중립' 의견을 유지하면서도 추정치를 40K나 올렸다 — 약세 기조 기관마저 수요 개선을 인정한 신호다.\n\nJP모건은 반대 방향을 택했다. 담당 애널리스트 Rajat Gupta는 6월 24일 Q2 인도 추정치를 430,500대에서 420,000대로 하향하고, Q2 EPS 추정도 $0.44에서 $0.42, 2026년 연간 EPS도 $1.95에서 $1.90으로 낮췄다. 미국과 중국 시장의 EV 수요가 전년보다 부진하다는 점이 핵심 근거다 — 유럽 강세가 이를 상쇄하더라도 전 세계 관점에서는 여전히 엇갈린 신호라는 판단이다.\n\n흥미로운 점은 최종 숫자다. JP모건의 하향 최종치(420K)가 골드만삭스의 상향 최종치(420K)와 같다 — 두 기관이 정반대 방향으로 움직이면서 같은 숫자에 도달한 것이다. 이는 420K 주변이 월가 전망의 '수렴 구간'임을 시사하며, JP모건이 이전보다 낙관론을 낮췄다는 점에서 초강세 시나리오에 대한 신뢰도가 희석됐음을 의미한다.\n\n에너지 저장 부문도 함께 주목된다. 컨센서스는 Q2 에너지 설치량을 13.8GWh(Q1 8.8GWh 대비 +57%)로 보고 있으며, 차량과 에너지 두 지표가 동시에 7월 2일 발표된다. Q1 2026 인도(358,023대) 대비 컨센서스(406K) 회복이 확인되고 강세 기관 상단(420K)에 근접한다면, 7월 22일 어닝 콜 전까지의 단기 반등 기반이 만들어질 수 있다. TSLA는 6월 26일 $379.71 마감, 6월 누적 -14% 이상 하락한 상태에서 이번 주를 맞는다.",
-      "summary_en": "With three days until Tesla's Q2 delivery report, Wall Street estimates have converged to a tighter range than at any point this quarter. The 22-analyst consensus sits at 406,024 units — but the three largest bulls have all revised upward into the 413,000–420,000 range.\n\nGoldman Sachs raised its Q2 estimate to 420,000 from 405,000, citing regional sales data pointing to outperformance versus the broader consensus. Morgan Stanley moved the most aggressively, taking its estimate from 373,000 to 413,000 (+40,000 units) after April European registrations came in at roughly +47% year-over-year. Barclays set its estimate at 418,000. All three cited the same European demand recovery as the primary driver.\n\nJPMorgan moved in the opposite direction. Analyst Rajat Gupta cut the bank's Q2 delivery estimate from 430,500 to 420,000 on June 24 — a 10,500-unit reduction. Alongside it, Gupta trimmed his Q2 EPS estimate from $0.44 to $0.42 and his full-year 2026 EPS forecast from $1.95 to $1.90. The rationale: U.S. and China remain softer than a year ago; Europe's strength is real but insufficient to fully offset that weakness on a global basis. Notably, JPMorgan's revised estimate (420K) lands at exactly the same level as Goldman's raised estimate — two banks reaching the same number from opposite directions, which tells you where the market's conviction is centred.\n\nFor Tesla investors, the practical question is how far above the 406K consensus actual deliveries will land. A number in the 415,000–420,000 range would be in line with the upgraded expectations and largely priced in at current share prices. A clean beat above 420,000 would be a positive surprise; a result below 410,000 would reset the recovery narrative. TSLA closed June 26 at $379.71 — down more than 14% for the month — giving the delivery print an outsized amount of remedial power heading into the July 22 earnings call, where FSD revenue recognition, Optimus production timelines, and 2026 guidance will set the medium-term direction.",
-      "href": "https://www.teslarati.com/tesla-tsla-deliveries-big-boost-in-expectations-wall-street/",
-      "confirmedBy": 5,
-      "confirmingSources": [
-        "Goldman Sachs",
-        "Morgan Stanley",
-        "Barclays",
-        "JPMorgan",
-        "Teslarati"
-      ],
-      "sentiment": "neutral",
-      "hot": 8
     }
   ],
-  "asOf": "2026-07-13 02:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-13 18:10 KST 자동 갱신 · 최신순"
 }

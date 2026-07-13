@@ -3,6 +3,57 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-13T06:08:34.000Z",
+      "title": "삼성 테일러 공장, 테슬라 <em>AI5 칩 생산 단계</em> 돌입 — 2나노 공정",
+      "hotShort": "삼성 테일러 공장, <em>AI5 칩 생산</em> 단계 돌입",
+      "body": "삼성전자 텍사스 테일러 파운드리가 테슬라 차세대 자율주행·옵티머스용 AI5 칩의 <em>양산 준비 단계</em>에 들어갔다 — 2나노 공정 설계(테이프아웃)를 마쳤고, 팹은 올 하반기 가동을 시작해 2027년 테슬라향 본격 양산에 나설 예정이다. 기존 AI4(삼성 평택 7나노) 대비 공정 세대가 크게 도약해, FSD·로보틱스 컴퓨팅 파워 확장의 다음 단계를 보여준다.",
+      "sourceName": "Korea Times",
+      "sourceLabel": "press",
+      "slug": "fsd-samsung-ai5-chip-taylor-production-2026-07-13",
+      "summary": "삼성전자가 텍사스 테일러에 짓고 있는 파운드리가 테슬라의 차세대 자율주행 칩 'AI5' 생산을 위한 준비 단계에 진입했다. 삼성 파운드리 소속 엔지니어는 최근 AI5의 2나노 공정 설계(테이프아웃)를 완료했다고 밝혔으며, 해당 칩은 조만간 테슬라의 최신 제품에 탑재될 예정이라고 전했다.\n\nAI5는 삼성의 최첨단 2나노 공정과 신규 텍사스 생산기지로의 전환을 상징한다. 현재 테슬라 차량에 쓰이는 AI4 칩은 삼성 평택캠퍼스의 7나노 공정으로 생산되고 있어, 이번 전환은 공정 세대를 크게 뛰어넘는 도약이다.\n\n테일러 팹은 올해 하반기 초기 가동을 시작한 뒤, 테슬라를 포함한 주요 고객사向 본격 양산을 2027년부터 진행할 계획이다. AI5는 FSD(자율주행)뿐 아니라 옵티머스 휴머노이드 로봇에도 탑재될 예정으로, 테슬라의 AI 컴퓨팅 인프라 확장 로드맵의 핵심 부품이다.\n\n테슬라 주주 입장에서는 자율주행·로보틱스 사업의 연산 능력을 좌우할 차세대 칩의 공급망이 실제로 가동 단계에 들어섰다는 뜻이다. 앞서 일론 머스크는 텍사스 테일러 팹의 생산 역량이 TSMC 미국 공장보다 우수하다고 평가한 바 있으며, AI5는 삼성과 TSMC 애리조나 공장에 이원화 생산될 예정이다.",
+      "title_en": "Samsung's Taylor fab enters <em>production phase</em> for Tesla's AI5 chip — on 2nm process",
+      "hotShort_en": "Samsung Taylor fab hits <em>AI5 production phase</em>",
+      "body_en": "Samsung's Taylor, Texas foundry has entered the <em>production-readiness phase</em> for Tesla's next-gen AI5 chip — tape-out on the 2nm process is complete, with the fab starting initial operations later this year and full-scale production for Tesla beginning in 2027. It's a major process jump from the current AI4 chip, built on Samsung's 7nm line in Pyeongtaek.",
+      "summary_en": "Samsung's foundry under construction in Taylor, Texas has entered the readiness phase for producing Tesla's next-generation AI5 chip. A Samsung Foundry engineer recently confirmed that the 2nm design tape-out for AI5 is complete, and the chip is set to be equipped in Tesla's newest products soon.\n\nAI5 marks Samsung's shift to its most advanced 2nm process and its new Texas manufacturing base. Tesla's current AI4 chip, by comparison, is produced on Samsung's 7nm process at its Pyeongtaek campus in Korea — making this a significant generational leap.\n\nThe Taylor fab is expected to begin initial operations later this year, with full-scale production for key customers including Tesla starting in 2027. AI5 is slated to power both FSD (Full Self-Driving) computing and the Optimus humanoid robot, making it a core piece of Tesla's AI infrastructure roadmap.\n\nFor Tesla shareholders, the milestone means the chip supply chain underpinning the company's autonomy and robotics ambitions is now moving into an active production stage. Elon Musk has previously said Samsung's Taylor fab outperforms TSMC's U.S. facilities, and Tesla plans to dual-source AI5 production between Samsung and TSMC's Arizona plant.",
+      "href": "https://www.koreatimes.co.kr/business/tech-science/20260713/samsung-taylor-fab-enters-production-phase-for-teslas-ai5-chip",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Korea Times",
+        "SamMobile",
+        "GuruFocus"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-13T04:40:27.000Z",
+      "title": "테슬라코리아, FSD <em>월 15만원 구독제</em>로 전환 — 8월10일부터 일시불 904만원 폐지",
+      "hotShort": "테슬라코리아, FSD <em>월 15만원 구독</em>으로 전환",
+      "body": "테슬라코리아가 8월10일부터 FSD(감독형)를 기존 일시불 904만3000원 방식에서 <em>월 15만원 구독제</em>로 전환한다 — 이미 구매한 고객은 기존 혜택이 유지되며, EAP 보유 고객은 월 7만5000원 할인 요금이 적용된다.",
+      "sourceName": "Seoul Economic Daily",
+      "sourceLabel": "press",
+      "slug": "fsd-korea-subscription-150k-won-2026-07-13",
+      "summary": "테슬라코리아가 완전자율주행(FSD, 감독형) 구매 방식을 대대적으로 바꾼다. 8월10일부터 신규 구매자는 그동안의 일시불 결제 대신 월 정액 구독으로만 FSD를 이용할 수 있게 된다.\n\n가격 구조는 이렇다 — 기존 일시불 904만3000원 방식은 8월9일까지만 유지되고, 이후로는 월 15만원 구독제로 전면 전환된다. 이미 FSD를 일시불로 구매해 사용 중인 고객은 기존 방식 그대로 계속 이용할 수 있다.\n\n향상된 오토파일럿(EAP)을 이미 보유한 고객이 8월10일 이후 FSD(감독형)를 구독 전환할 경우엔 할인이 적용돼 월 7만5000원만 내면 된다.\n\n이번 조치는 지난 7월10일 한국에 FSD v14 Lite가 출시된 데 이은 후속 가격 정책이다. 900만원대 일시불 부담을 낮춰 구독 문턱을 대폭 낮춤으로써 FSD 보급률을 끌어올리려는 전략으로 풀이된다 — 다만 장기 보유 고객에게는 구독 누적 비용이 일시불보다 커질 수 있어, 이용 기간에 따라 유불리가 갈린다.",
+      "title_en": "Tesla Korea shifts FSD to <em>₩150K/month subscription</em>, ending the ₩9.04M lump-sum option",
+      "hotShort_en": "Tesla Korea moves FSD to <em>monthly subscription</em>",
+      "body_en": "Starting August 10, Tesla Korea is replacing its ₩9.043 million lump-sum FSD (Supervised) purchase with a <em>₩150,000-a-month subscription</em> — existing lump-sum owners keep their access, and customers who already have Enhanced Autopilot get a discounted rate of ₩75,000/month.",
+      "summary_en": "Tesla Korea is overhauling how customers buy Full Self-Driving (Supervised). Starting August 10, new buyers will only be able to access FSD through a monthly subscription rather than a one-time payment.\n\nHere's the pricing shift: the existing ₩9.043 million lump-sum option remains available only through August 9, after which it's replaced entirely by a ₩150,000-a-month subscription. Customers who already purchased FSD outright keep their existing access unchanged.\n\nCustomers who already own Enhanced Autopilot (EAP) get a discount if they subscribe to FSD (Supervised) after August 10 — paying just ₩75,000 a month instead of the full rate.\n\nThe move follows Tesla Korea's July 10 launch of FSD v14 Lite, extending that rollout with a pricing shift aimed at lowering the barrier to entry. Dropping the roughly $6,600 upfront cost in favor of a subscription could boost adoption — though for owners who keep a car for many years, the subscription could ultimately cost more than the old lump sum.",
+      "href": "https://en.sedaily.com/news/2026/07/13/tesla-korea-shifts-supervised-fsd-to-monthly-subscription",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Seoul Economic Daily",
+        "ZDNet Korea"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
       "pubDate": "2026-07-12T16:00:00.000Z",
       "title": "테슬라 오스틴 로보택시 허브 건축허가서에 <em>청소 로봇</em> 첫 등장",
@@ -129,59 +180,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-07-10T16:55:43.000Z",
-      "title": "일론 머스크 \"앤트로픽에 대해 <em>완전히 틀렸다</em>\" — AI 선두주자로 인정",
-      "hotShort": "머스크 \"앤트로픽에 <em>완전히 틀렸다</em>\" 인정",
-      "body": "일론 머스크가 X에서 앤트로픽을 두고 \"그들이 현재 AI 분야 선두주자임이 분명하다\"며 과거 회의적 시각이 <em>완전히 틀렸다</em>고 인정했다 — 스페이스XAI와 앤트로픽 간 GPU 임대 계약이 이어지는 가운데, 경쟁사라도 컴퓨팅 자원을 끊지 않겠다고 약속해 AI 인프라 공급망에서의 신뢰 신호로 읽힌다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "musk-anthropic-clearly-wrong-2026-07-10",
-      "summary": "일론 머스크는 지난해 9월 앤트로픽에 대해 \"이 회사가 AI 경쟁에서 이길 가능성 자체가 없었다\"는 취지로 회의적인 입장을 밝힌 바 있다. 이번엔 정반대로 돌아섰다.\n\n머스크는 X에 \"내가 분명히 틀렸다\"며 \"앤트로픽이 현재 AI 분야에서 선두를 달리고 있다는 게 명백하다\"고 적었다. 그는 \"어떤 회사도 (앤트로픽의) Mythos/Fable만큼 좋은 모델을 내놓지 못했고, 곧 Mythos 2도 준비될 것\"이라고 평가했다.\n\n이번 발언은 머스크의 AI 인프라 벤처 스페이스XAI와 앤트로픽 사이에 지난 5월 체결된 단기 GPU 임대 계약이 이어지는 가운데 나왔다. 머스크는 경쟁사라 해도 \"그들에게 심각한 타격을 줄 방식으로 끊는 일은 절대 없을 것\"이라며 컴퓨팅 자원 공급을 계속하겠다고 약속했다.\n\n테슬라 주주에게 이 발언이 직접적인 실적 신호는 아니지만, 머스크가 운영하는 AI 인프라 사업(스페이스XAI)이 경쟁사에도 컴퓨팅을 안정적으로 공급하는 파트너로 자리잡고 있다는 점, 그리고 그가 라이벌의 기술력을 공개적으로 인정할 만큼 AI 경쟁 구도가 빠르게 재편되고 있다는 점은 테슬라의 AI·컴퓨팅 전략(도조, FSD 등)과 맞물려 참고할 만한 배경이다.",
-      "title_en": "Elon Musk admits he was <em>completely wrong</em> about Anthropic, calls it the AI leader",
-      "hotShort_en": "Musk admits he was <em>wrong</em> about Anthropic",
-      "body_en": "Elon Musk wrote on X that he was <em>completely wrong</em> about Anthropic, now calling it \"obviously the current leader in AI\" — the reversal comes as SpaceXAI's GPU lease deal with Anthropic continues, with Musk pledging not to cut off compute access even to a rival.",
-      "summary_en": "Last September, Elon Musk was openly skeptical of Anthropic, suggesting the company never had a real shot at winning the AI race. This week he reversed course entirely.\n\nMusk wrote on X, \"I was clearly wrong,\" adding that Anthropic is \"obviously currently the leader in AI.\" He said no company has released a model as good as Anthropic's Mythos/Fable, and that Mythos 2 would be ready soon.\n\nThe comments come as a short-term GPU lease agreement between Musk's AI infrastructure venture SpaceXAI and Anthropic, initiated in May, continues to run. Musk said he would \"never cut them off in a way that hurt them badly, even as a competitor,\" pledging to keep supplying compute.\n\nFor Tesla shareholders, the remarks aren't a direct financial signal, but they're a data point on how Musk's AI infrastructure business is positioning itself as a reliable compute partner even to rivals — and how fast the AI competitive landscape is shifting, a backdrop relevant to Tesla's own AI and compute strategy around Dojo and FSD.",
-      "href": "https://www.teslarati.com/elon-musk-admits-he-was-clearly-wrong-about-anthropic/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Teslarati",
-        "Benzinga",
-        "TechCrunch",
-        "Washington Examiner"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-10T15:50:44.000Z",
-      "title": "뉴스트리트리서치 애널리스트 \"테슬라 FSD, <em>아이폰 모먼트</em> 임박\" — \"2개 분기만 더 지켜봐달라\"",
-      "hotShort": "애널리스트 \"FSD, <em>아이폰 모먼트</em> 임박\"",
-      "body": "뉴스트리트리서치의 피에르 페라구 애널리스트가 테슬라 FSD가 <em>'아이폰 모먼트'</em>를 앞두고 있다고 평가했다 — \"테슬라는 아이폰이 단순한 전화기가 아니었듯 단순한 자동차가 아니다\"라며, 앞으로 2개 분기 안에 시장의 인식이 바뀔 변곡점이 올 것으로 봤다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "stock-fsd-iphone-moment-ferragu-2026-07-10",
-      "summary": "이번 주 월가에서는 테슬라 밸류에이션을 둘러싼 신중론(씨티즌스·배런스 등)과 낙관론(UBS 목표주가 상향)이 동시에 쏟아졌는데, 뉴스트리트리서치의 피에르 페라구 애널리스트는 FSD를 근거로 한 낙관론에 무게를 실었다.\n\n페라구는 \"테슬라는 아이폰이 단순한 전화기가 아니었던 것처럼 단순한 자동차가 아니다\"라며, 아이폰 초창기 높은 가격표가 '전화기치고 비싸다'는 인식에서 시작해 결국 '전화기 그 이상'이라는 재평가로 이어졌던 과정에 테슬라 FSD를 비유했다.\n\n그는 테슬라가 변곡점(inflection point)에 다가서고 있다고 보면서도, \"앞으로 2개 분기만 더 지켜봐 달라\"며 구체적으로 어떤 변화가 일어날지는 밝히지 않았다 — 그 기간이 지나면 방향성이 더 뚜렷해질 것이라는 취지다.\n\n페라구는 오랫동안 테슬라를 커버해온 애널리스트로, 7월22일 2분기 실적 발표를 앞두고 로보택시·옵티머스 확장에 신중한 시각을 보인 씨티즌스·배런스와 달리 FSD의 장기 잠재력에 무게를 싣는 대조적인 시각을 내놓은 셈이다.",
-      "title_en": "New Street Research analyst says Tesla FSD is nearing its <em>iPhone moment</em> — \"give us two more quarters\"",
-      "hotShort_en": "Analyst: Tesla FSD nearing its <em>iPhone moment</em>",
-      "body_en": "New Street Research analyst Pierre Ferragu says Tesla's FSD is approaching an <em>'iPhone moment'</em> — \"a Tesla is not a car, the same way an iPhone was not a phone,\" he said, expecting market perception to shift within the next two quarters.",
-      "summary_en": "Wall Street's Tesla debate split this week between caution (Citizens, Barron's) and optimism (UBS's price-target hike), and New Street Research's Pierre Ferragu weighed in on the bullish side, grounding his case in FSD.\n\nFerragu argued \"a Tesla is not a car, the same way an iPhone was not a phone,\" comparing FSD to the iPhone's early days, when its high price tag seemed steep for 'just a phone' before the market realized it was something more.\n\nHe said Tesla is nearing an inflection point but didn't specify what exactly would change, only asking investors to \"give us two more quarters\" to see where things are heading.\n\nA longtime Tesla-covering analyst, Ferragu's framing stands in contrast to Citizens and Barron's caution on Robotaxi and Optimus valuations this same week, putting his weight instead behind FSD's long-term potential ahead of the July 22 Q2 earnings report.",
-      "href": "https://www.teslarati.com/tesla-analyst-full-self-driving-iphone-moment/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Yahoo Finance"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-13 02:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-13 18:10 KST 자동 갱신 · 최신순"
 }
