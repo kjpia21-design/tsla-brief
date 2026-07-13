@@ -1,10 +1,62 @@
 {
-  "asOf": "2026-07-13 17:59 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-13 19:41 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "16m ago",
+      "pubDate": "2026-07-13T19:25:35.000Z",
+      "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
+      "body": "See How Tesla Tore Down The Model S Factory To Build Robots Instead InsideEVs",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "58m ago",
+      "pubDate": "2026-07-13T18:43:28.000Z",
+      "title": "Tesla Semi enters new Pilot Program with interesting challenge",
+      "body": "The Tesla Semi is entering a new Pilot Program with Paper Transport, LLC (PTI), a Wisconsin-based transportation provider. The company will test the Semi’s Long Range configuration through “dedicated operations within th…",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-semi-enters-new-pilot-program-interesting-challenge/"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1m ago",
+      "time": "1h ago",
+      "pubDate": "2026-07-13T18:41:46.000Z",
+      "title": "Tesla reveals development of wheelchair-accessible autonomous vehicle",
+      "body": "Tesla reveals development of wheelchair-accessible autonomous vehicle Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-reveals-development-wheelchair-accessible-autonomous-vehicle/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-13T18:09:45.000Z",
+      "title": "Tesla weirdly confirms Cybercab employee rides, a huge milestone",
+      "body": "Tesla weirdly confirms Cybercab employee rides, a huge milestone Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-weirdly-confirms-cybercab-employees-rides-a-huge-milestone/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
       "pubDate": "2026-07-13T17:57:55.000Z",
       "title": "Tesla says it’s building a wheelchair-accessible robotaxi in Texas",
       "body": "Tesla is building a purpose-built, wheelchair-accessible autonomous vehicle, a company policy advisor told lawmakers in Washington, DC, on Monday. But Tesla gave no timeline, no vehicle, and no details, and it’s not clea…",
@@ -15,22 +67,9 @@
       "href": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-13T15:59:08.000Z",
-      "title": "Tesla weirdly confirms Cybercab employee rides, a huge milestone",
-      "body": "Tesla weirdly confirms Cybercab employee rides, a huge milestone Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-weirdly-confirms-cybercab-employees-rides-a-huge-milestone/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-13T15:49:07.000Z",
       "title": "Tesla Semi adds another fleet as Paper Transport starts Chicago pilot",
       "body": "Paper Transport (PTI) announced today that it is evaluating the Tesla Semi Long Range in dedicated operations in the Chicago market, becoming the latest fleet to put Tesla’s electric Class 8 truck to work in daily freigh…",
@@ -43,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-13T15:29:00.000Z",
       "title": "SpaceX Stock Falls. It Is Too Much For Just One Analyst.",
       "body": "SpaceX Stock Falls. It Is Too Much For Just One Analyst. Barron's",
@@ -56,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-13T14:40:39.000Z",
       "title": "Looks like Tesla now has 100 Cybercabs testing in Houston.",
       "body": "Looks like Tesla now has 100 Cybercabs testing in Houston. https://t.co/7EMHP6xjjf",
@@ -69,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-13T14:31:45.000Z",
       "title": "Paper Transport today announced a partnership with @Tesla to evaluate the Tesla Semi Long Range in dedicated operatio…",
       "body": "Paper Transport today announced a partnership with @Tesla to evaluate the Tesla Semi Long Range in dedicated operations within the Chicago market. \"We are excited to partner with Tesla, leveraging their ever-evolving tec…",
@@ -82,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-13T14:24:28.000Z",
       "title": "Volkswagen may need to cut about ​50,000 extra jobs to keep up with rivals in an increasingly fierce car ‌market, its…",
       "body": "Volkswagen may need to cut about ​50,000 extra jobs to keep up with rivals in an increasingly fierce car ‌market, its CEO told staff in a memo, effectively confirming for the first time that the automaker is looking to c…",
@@ -95,7 +134,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-13T14:20:44.000Z",
       "title": "Jefferies has raised its $TSLA price target to $400 (from $375), citing the company's significant Q2 vehicle delivery…",
       "body": "Jefferies has raised its $TSLA price target to $400 (from $375), citing the company's significant Q2 vehicle delivery beat as the reason. For fiscal year 2026, Jefferies raised its EBIT estimate by 4% to $6.2 billion, fa…",
@@ -108,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-13T13:51:00.000Z",
       "title": "Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It?",
       "body": "Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It? Barron's",
@@ -119,22 +158,9 @@
       "href": "https://www.barrons.com/articles/tesla-stock-price-robots-ea58cefa"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
-      "pubDate": "2026-07-13T13:24:06.000Z",
-      "title": "With @Tesla FSD V14.3.5, the Tesla app now shows if the car is operating on FSD. 😎 Previously it was only available …",
-      "body": "With @Tesla FSD V14.3.5, the Tesla app now shows if the car is operating on FSD. 😎 Previously it was only available for HW3 cars, now it’s available for HW4. It’s the little things. https://t.co/HC6QRtGKVU",
-      "sourceName": "Nic Cruz Patane (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/niccruzpatane/status/2076658930055352560"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-13T13:09:22.000Z",
       "title": "Samsung’s Texas fab enters production for Tesla’s AI5 chip on 2nm",
       "body": "Samsung has completed its own version of Tesla’s AI5 self-driving chip and is preparing to start production at its foundry in Taylor, Texas, on the company’s latest 2-nanometer process, according to industry officials. T…",
@@ -147,7 +173,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-13T13:04:00.000Z",
       "title": "The AI Revolution names in focus this week @CNBCMorningCall @MorganLBrennan 🇰🇷📺🔥🍿🐂👇",
       "body": "The AI Revolution names in focus this week @CNBCMorningCall @MorganLBrennan 🇰🇷📺🔥🍿🐂👇 https://t.co/dTYWgs0IN3 https://t.co/CrsBG4KW2X",
@@ -160,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-13T12:57:08.000Z",
       "title": "SpaceX comes with a slew of changes for Starship Flight 13",
       "body": "SpaceX comes with a slew of changes for Starship Flight 13 Teslarati",
@@ -173,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-13T12:18:33.000Z",
       "title": "Here are Monday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, Netflix, Deckers, Biogen, Nio & more",
       "body": "Here are Monday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, Netflix, Deckers, Biogen, Nio & more CNBC",
@@ -184,22 +210,9 @@
       "href": "https://www.cnbc.com/2026/07/13/monday-stocks-by-analyst-calls-like-spacex.html"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-07-13T12:15:58.000Z",
-      "title": "Great to be on @CNBCMorningCall with @MorganLBrennan discussing the rise of the Korean memory market and the growing …",
-      "body": "Great to be on @CNBCMorningCall with @MorganLBrennan discussing the rise of the Korean memory market and the growing tension between Apple and OpenAI 🏆🍿🔥🐂🇰🇷📺🥊👇 @CNBC https://t.co/BAp50yOE3f https://t.co/CrsBG4KW…",
-      "sourceName": "Dan Ives (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/DivesTech/status/2076641783920881675"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-13T12:01:00.000Z",
       "title": "Tesla Stock Nudges Lower as Elon Musk Preps for Robots",
       "body": "Tesla Stock Nudges Lower as Elon Musk Preps for Robots Barron's",
@@ -210,9 +223,22 @@
       "href": "https://www.barrons.com/articles/tesla-stock-elon-musk-robots-ea58cefa"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "8h ago",
+      "pubDate": "2026-07-13T11:29:15.000Z",
+      "title": "Tesla gets price target upgrade on heels of crazy successful auto quarter",
+      "body": "Tesla received a price target upgrade just on the heels of what was a crazy successful quarter for its automotive business, as the company reported a delivery beat of over 15 percent for Q2. Jefferies analysts are upping…",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-tsla-price-target-upgrade-heels-crazy-successful-auto-quarter/"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-13T11:23:00.000Z",
       "title": "SpaceX Stock Is Too Much For Just One Analyst",
       "body": "SpaceX Stock Is Too Much For Just One Analyst Barron's",
@@ -223,35 +249,9 @@
       "href": "https://www.barrons.com/articles/spacex-stock-price-analyst-39cfe243?mod"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
-      "pubDate": "2026-07-13T09:57:23.000Z",
-      "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
-      "body": "See How Tesla Tore Down The Model S Factory To Build Robots Instead InsideEVs",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
-      "pubDate": "2026-07-13T04:53:44.000Z",
-      "title": "Pea Soup Andersen’s is set to be demolished I visited this restaurant far too many times because of the Supercharger …",
-      "body": "Pea Soup Andersen’s is set to be demolished I visited this restaurant far too many times because of the Supercharger there. It always seemed strange and smelled weird. I had no idea it was 100 years old I won’t miss it, …",
-      "sourceName": "Whole Mars (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/wholemars/status/2076530494590898389"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-13T04:25:23.000Z",
       "title": "Sometimes watching these retro documentaries of US cities feels futuristic, and the present moment feels like a disin…",
       "body": "Sometimes watching these retro documentaries of US cities feels futuristic, and the present moment feels like a disintegrating past. https://t.co/3FkhLJqN1G",
