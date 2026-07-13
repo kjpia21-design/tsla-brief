@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-13T14:20:44.000Z",
+      "title": "제프리스, 테슬라 목표주가 <em>$375→$400 상향</em> — 2분기 인도량 서프라이즈 반영",
+      "hotShort": "제프리스, 테슬라 목표주가 <em>$400로 상향</em>",
+      "body": "제프리스가 테슬라 목표주가를 $375에서 <em>$400로 상향</em> — 48만126대(전년比 +25%)로 컨센서스를 크게 웃돈 2분기 인도량을 반영해 FY26 영업이익(EBIT) 추정치도 4% 올린 $62억으로 상향했다. 다만 투자의견은 '보유(Hold)' 유지 — 신사업 밸류에이션엔 여전히 신중.",
+      "sourceName": "Investing.com",
+      "sourceLabel": "press",
+      "slug": "stock-jefferies-pt-400-q2-beat-2026-07-13",
+      "summary": "제프리스가 테슬라(TSLA)에 대한 목표주가를 종전 $375에서 $400로 올렸다. 투자의견은 '보유(Hold)'를 유지했지만, 상향 폭 자체는 최근 논쟁적이었던 2분기 인도량 실적을 다른 각도로 재평가했다는 신호로 읽힌다.\n\n배경은 지난 7월2일 발표된 2분기 인도량이다. 테슬라는 48만126대를 인도해 JP모건 추정치(약 42만 대)와 블룸버그 컨센서스(약 40만6000대)를 모두 크게 웃돌았고, 전년 동기 대비로도 약 25% 늘었다. 당시 인도량 서프라이즈에도 주가는 오히려 7.5% 급락했었는데(수익성 우려 때문), 이번 제프리스 상향은 그 우려를 일부 되돌리는 신호로 해석된다.\n\n제프리스는 2026 회계연도 영업이익(EBIT) 추정치도 기존보다 4% 올려 $62억으로 상향했다. 인도량 서프라이즈가 매출뿐 아니라 수익성 추정치에도 긍정적으로 반영되기 시작했다는 뜻이다.\n\n다만 등급은 '보유'에 머물렀다 — 델리버리 개선은 긍정적으로 보면서도, 로보택시·옵티머스 등 신사업 밸류에이션에 대해서는 여전히 신중한 입장을 유지한 것으로 풀이된다. 오는 7월22일 2분기 실적발표에서 실제 마진 숫자가 확인되면, 목표주가 조정 흐름이 이어질지 판가름날 전망이다.",
+      "title_en": "Jefferies raises Tesla price target to <em>$400</em> on Q2 delivery beat",
+      "hotShort_en": "Jefferies lifts Tesla target to <em>$400</em>",
+      "body_en": "Jefferies raised its Tesla price target from $375 to <em>$400</em>, citing the Q2 delivery beat (480,126 units, +25% YoY) and lifting its FY2026 EBIT estimate 4% to $6.2B — though it kept its Hold rating, signaling lingering caution on new-business valuation.",
+      "summary_en": "Jefferies raised its price target on Tesla (TSLA) from $375 to $400. The firm kept its Hold rating, but the size of the increase reads as a reassessment of Tesla's recently contentious Q2 delivery numbers from a different angle.\n\nThe catalyst was Tesla's Q2 delivery report on July 2. The company delivered 480,126 vehicles, well above JPMorgan's roughly 420,000-unit estimate and Bloomberg's roughly 406,000-unit consensus, and up about 25% year-over-year. Despite that beat, the stock actually fell 7.5% that day on margin concerns — making this Jefferies upgrade a partial reversal of that worry.\n\nJefferies also raised its FY2026 EBIT estimate 4% to $6.2 billion, suggesting the delivery beat is starting to flow through to profitability estimates, not just revenue.\n\nStill, the rating stayed at Hold — Jefferies appears constructive on the delivery improvement but remains cautious on the valuation of newer businesses like Robotaxi and Optimus. Whether the actual margin numbers at the July 22 Q2 earnings call support further target increases will be the next test.",
+      "href": "https://www.investing.com/news/analyst-ratings/jefferies-raises-tesla-stock-price-target-to-400-on-q2-volume-beat-93CH-4787761",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Investing.com",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-13T13:51:29.000Z",
+      "title": "그록(Grok), 테슬라 <em>한국·일본</em> 차량에도 도입",
+      "hotShort": "그록, 한국·일본 테슬라에도 <em>탑재 시작</em>",
+      "body": "일론 머스크의 AI 챗봇 그록이 한국·일본 테슬라 차량으로도 확대됐다 — 일본은 7월10일 테슬라재팬 공식 계정이 소프트웨어 2026.20 이상 탑재를 공식화했고, 한국은 7월12일부터 <em>신차에 영어 버전이 기본 탑재</em>된다(한국어 지원은 아직). 미국·유럽에 이어 아시아 핵심 시장까지 그록 탑재가 확대되는 신호.",
+      "sourceName": "Fortune Korea",
+      "sourceLabel": "press",
+      "slug": "musk-grok-korea-japan-2026-07-13",
+      "summary": "일론 머스크의 AI 챗봇 '그록(Grok)'이 아시아 핵심 시장인 한국과 일본의 테슬라 차량으로도 영역을 넓혔다. 두 나라는 도입 시점과 방식이 조금씩 다르다.\n\n일본은 7월10일 테슬라재팬 공식 X 계정이 \"그록에게 무엇이든 물어보세요\"라는 문구와 함께 자국 차량 탑재를 공식 발표했다. 소프트웨어 버전 2026.20 이상이 필요하며, 프리미엄 커넥티비티 구독이나 Wi-Fi 연결만 있으면 추가 요금 없이 베타로 이용할 수 있다. 미국에는 2025년 7월부터 순차 도입됐던 기능으로, 일본은 그 다음 주요 시장이다.\n\n한국은 7월12일 이후 출고되는 모든 신형 테슬라 차량에 그록이 기본 탑재되는 방식으로 도입됐다. 다만 현재는 영어 버전만 지원되며, 앞서 \"2026년 초 시작 예정\"이라고 안내됐던 한국어 지원은 아직 이뤄지지 않은 상태다.\n\n테슬라 주주 입장에서는 그록이 차량 소프트웨어의 핵심 기능으로 자리잡으며 아시아 판매 시장까지 확대되고 있다는 신호다 — 머스크가 강조해온 'AI 플랫폼으로서의 테슬라' 전략이 하드웨어 판매를 넘어 소프트웨어·구독 매출로 이어질 수 있을지가 관전 포인트다.",
+      "title_en": "Grok AI rolls out to Tesla vehicles in <em>Korea and Japan</em>",
+      "hotShort_en": "Grok AI reaches <em>Korea and Japan</em> Teslas",
+      "body_en": "Elon Musk's Grok AI has expanded to Tesla vehicles in Korea and Japan — Tesla Japan's official account confirmed on July 10 that cars running software 2026.20+ now support Grok, while new Tesla vehicles delivered in Korea from July 12 come with the <em>English-language version pre-installed</em> (Korean support still pending).",
+      "summary_en": "Elon Musk's Grok AI chatbot has expanded into two key Asian markets for Tesla: Korea and Japan. The two countries got the feature on slightly different timelines and terms.\n\nIn Japan, Tesla Japan's official X account announced on July 10 that Grok was now supported in vehicles there, under the tagline \"Ask Grok anything.\" It requires software version 2026.20 or later, and works in beta at no extra charge with either a Premium Connectivity subscription or a Wi-Fi connection. The U.S. got the feature starting in July 2025, making Japan the next major rollout market.\n\nIn Korea, every new Tesla vehicle delivered from July 12 onward comes with Grok pre-installed. For now, only the English-language version is available — Korean-language support, previously said to be coming in \"early 2026,\" has yet to materialize.\n\nFor Tesla shareholders, the expansion signals Grok becoming a standard feature across Tesla's software stack as it reaches further into Asian markets — a test of whether Musk's \"Tesla as an AI platform\" pitch can translate into software and subscription revenue beyond hardware sales.",
+      "href": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=49083",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Fortune Korea",
+        "Digital Today"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
@@ -135,53 +185,7 @@
       "href": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23m ago",
-      "pubDate": "2026-07-11T20:33:48.000Z",
-      "title": "테슬라 \"기가텍사스서 사이버캡 <em>직원 시승 시작</em>\" — 무대는 아직 공장 주차장",
-      "hotShort": "테슬라, 사이버캡 <em>직원 시승 개시</em> — 주차장 한정",
-      "body": "테슬라가 핸들·페달 없는 양산형 사이버캡으로 기가텍사스 직원들을 태우는 시승을 시작했다고 밝혔다 — 실제 사람을 태운 첫 사례라는 상징성은 있지만, 공개 범위는 아직 공장 부지 내 주차장으로 한정돼 있다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-cybercab-employee-rides-giga-texas-2026-07-11",
-      "summary": "테슬라가 자사 X 계정 두 곳을 통해 텍사스 기가팩토리(기가텍사스)에서 사이버캡으로 직원들을 태우는 시승이 \"곧 시작된다\"고 알렸다. 사이버캡은 핸들과 페달이 아예 없는 2인승 양산형 로보택시로, 이번이 실제 사람을 태우고 움직이는 모습이 공개적으로 확인된 첫 사례로 꼽힌다.\n\n다만 전자전기 매체 일렉트렉(Electrek)은 이를 \"테슬라의 주장\"으로 조심스럽게 전하며, 공개된 주행 범위가 공도가 아닌 공장 부지 내 주차장에 그친다는 점을 짚었다. 테슬라레이티(Teslarati)도 같은 소식을 보도했다.\n\n앞서 6월 30일에는 핸들·페달 없는 프로덕션 사이버캡이 승객 없이 오스틴 공도를 시험 주행하는 모습이 확인된 바 있다 — 이번 주차장 시승은 여기서 한 단계 더 나아가 실제 승객(직원)을 태웠다는 점에서 의미가 있지만, 여전히 통제된 저위험 환경에 머물러 있다.\n\n사이버캡의 상용화는 규제 변수에도 달려 있다. NHTSA는 지난 9일 무인차의 핸들 의무 규정 재검토 가능성을 시사한 바 있어, 핸들 없는 사이버캡의 규제 통과 여부가 여전히 관전 포인트로 남아 있다.",
-      "title_en": "Tesla says <em>Cybercab now gives employee rides</em> at Giga Texas — but only in the parking lot",
-      "hotShort_en": "Tesla's Cybercab <em>starts employee rides</em>",
-      "body_en": "Tesla says its production Cybercab — the two-seat robotaxi with no steering wheel or pedals — has begun giving employee rides at Giga Texas, a first for putting real passengers inside the vehicle. The catch: it's confined to the factory's own parking lot, not public roads.",
-      "summary_en": "Tesla announced via two of its X accounts that Cybercab rides for employees are \"starting soon\" at Giga Factory Texas. The two-seat production Cybercab has no steering wheel or pedals, and this marks the first publicly confirmed instance of the robotaxi carrying actual passengers rather than running empty.\n\nElectrek reported the news cautiously, framing it as a claim from Tesla, and noted the driving is limited to the factory's own parking lot rather than public streets. Teslarati also covered the development.\n\nThe parking-lot rides follow a June 30 driverless test of a production Cybercab on public roads in Austin — without passengers. Putting employees in the vehicle is a step forward, but it's still happening in a controlled, low-stakes environment.\n\nCybercab's path to real-world deployment also hinges on regulation. NHTSA signaled on July 9 that it could revisit the steering-wheel requirement for driverless vehicles — a rule that directly affects whether a wheel-less car like Cybercab can legally operate.",
-      "href": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "Teslarati",
-        "Mashable"
-      ],
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-07-10T21:26:40.000Z",
-      "title": "테슬라, 프리몬트 모델S·X 라인 <em>46일 만에 철거 완료</em> — 옵티머스 생산 준비",
-      "hotShort": "테슬라, 모델S·X 라인 <em>46일 만에 철거</em> 완료",
-      "body": "테슬라가 프리몬트 공장의 모델S·X 조립 라인 철거 영상을 공개했다 — 지난 5월 마지막 차량 생산 이후 <em>46일 만에 철거 완료</em>, 옵티머스 생산 라인 전환 작업이 본궤도에 올랐다. 앞서 머스크가 이 라인을 옵티머스 생산에 쓰겠다고 밝힌 데 이은 구체적 진행 상황이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-fremont-optimus-teardown-2026-07-10",
-      "summary": "테슬라는 지난 5월 9일 프리몬트 공장에서 마지막 모델S와 모델X를 각각 생산하며 두 차종의 생산을 마쳤다. 14년을 이어온 모델S와 11년을 이어온 모델X 라인이 이번엔 로봇 생산 라인으로 바뀔 차례다.\n\n10일 테슬라리아티(Teslarati)가 공개한 영상에는 기존 조립 라인의 대형 장비와 컨베이어, 콘크리트 피트를 철거하는 과정이 담겼다. 회사 측은 이 작업이 46일 만에 끝났다고 밝혔다.\n\n머스크는 앞서 이 공간이 옵티머스 휴머노이드 로봇 생산에 쓰일 것이라고 확인한 바 있으며, 연산 100만 대 규모까지 끌어올리겠다는 목표를 제시했었다. 다만 지난주 머스크는 옵티머스 초기 생산 속도가 완성차 생산과는 달리 매우 더딜 것이라고 선을 그은 상태다.\n\n이번 철거 완료는 프리몬트 라인의 옵티머스 전환이 실제로 진척되고 있음을 보여주는 구체적 신호다. 테슬라 주주 입장에서 로보틱스 사업의 자본 지출·타임라인을 가늠할 수 있는 물리적 증거이자, 완전 전환까지 남은 공정을 지켜볼 다음 이정표가 될 전망이다.",
-      "title_en": "Tesla completes Fremont Model S/X line teardown in <em>46 days</em>, clearing the way for Optimus",
-      "hotShort_en": "Tesla clears Model S/X line in <em>46 days</em>",
-      "body_en": "Tesla released footage showing the teardown of its original Model S/X assembly line at Fremont — completed in <em>just 46 days</em> since the last car rolled off in May — clearing space for Optimus production. It's the first concrete progress marker since Musk confirmed the line's robot conversion.",
-      "summary_en": "Tesla built its last Model S and Model X at the Fremont factory on May 9, ending 14- and 11-year production runs respectively. The space is now being converted into a robot assembly line.\n\nFootage released by Teslarati on July 10 shows heavy machinery dismantling the old line's conveyors and concrete pits. Tesla said the teardown was completed in just 46 days.\n\nMusk previously confirmed the space would be used for Optimus humanoid robot production, with a long-stated goal of scaling to 1 million units a year. Last week, though, he cautioned that early Optimus output would ramp much more slowly than a car line.\n\nThe completed teardown is the first concrete sign that the Fremont-to-Optimus conversion is actually moving forward. For Tesla shareholders, it's physical evidence to gauge the robotics business's capex and timeline as the next milestones in the conversion come into view.",
-      "href": "https://www.teslarati.com/tesla-shows-rapid-teardown-model-s-and-x-lines-paving-way-optimus-fremont/",
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-13 20:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-13 23:55 KST 자동 갱신 · 최신순"
 }

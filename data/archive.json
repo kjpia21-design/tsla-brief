@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-13T14:20:44.000Z",
+      "title": "제프리스, 테슬라 목표주가 <em>$375→$400 상향</em> — 2분기 인도량 서프라이즈 반영",
+      "hotShort": "제프리스, 테슬라 목표주가 <em>$400로 상향</em>",
+      "body": "제프리스가 테슬라 목표주가를 $375에서 <em>$400로 상향</em> — 48만126대(전년比 +25%)로 컨센서스를 크게 웃돈 2분기 인도량을 반영해 FY26 영업이익(EBIT) 추정치도 4% 올린 $62억으로 상향했다. 다만 투자의견은 '보유(Hold)' 유지 — 신사업 밸류에이션엔 여전히 신중.",
+      "sourceName": "Investing.com",
+      "sourceLabel": "press",
+      "slug": "stock-jefferies-pt-400-q2-beat-2026-07-13",
+      "summary": "제프리스가 테슬라(TSLA)에 대한 목표주가를 종전 $375에서 $400로 올렸다. 투자의견은 '보유(Hold)'를 유지했지만, 상향 폭 자체는 최근 논쟁적이었던 2분기 인도량 실적을 다른 각도로 재평가했다는 신호로 읽힌다.\n\n배경은 지난 7월2일 발표된 2분기 인도량이다. 테슬라는 48만126대를 인도해 JP모건 추정치(약 42만 대)와 블룸버그 컨센서스(약 40만6000대)를 모두 크게 웃돌았고, 전년 동기 대비로도 약 25% 늘었다. 당시 인도량 서프라이즈에도 주가는 오히려 7.5% 급락했었는데(수익성 우려 때문), 이번 제프리스 상향은 그 우려를 일부 되돌리는 신호로 해석된다.\n\n제프리스는 2026 회계연도 영업이익(EBIT) 추정치도 기존보다 4% 올려 $62억으로 상향했다. 인도량 서프라이즈가 매출뿐 아니라 수익성 추정치에도 긍정적으로 반영되기 시작했다는 뜻이다.\n\n다만 등급은 '보유'에 머물렀다 — 델리버리 개선은 긍정적으로 보면서도, 로보택시·옵티머스 등 신사업 밸류에이션에 대해서는 여전히 신중한 입장을 유지한 것으로 풀이된다. 오는 7월22일 2분기 실적발표에서 실제 마진 숫자가 확인되면, 목표주가 조정 흐름이 이어질지 판가름날 전망이다.",
+      "title_en": "Jefferies raises Tesla price target to <em>$400</em> on Q2 delivery beat",
+      "hotShort_en": "Jefferies lifts Tesla target to <em>$400</em>",
+      "body_en": "Jefferies raised its Tesla price target from $375 to <em>$400</em>, citing the Q2 delivery beat (480,126 units, +25% YoY) and lifting its FY2026 EBIT estimate 4% to $6.2B — though it kept its Hold rating, signaling lingering caution on new-business valuation.",
+      "summary_en": "Jefferies raised its price target on Tesla (TSLA) from $375 to $400. The firm kept its Hold rating, but the size of the increase reads as a reassessment of Tesla's recently contentious Q2 delivery numbers from a different angle.\n\nThe catalyst was Tesla's Q2 delivery report on July 2. The company delivered 480,126 vehicles, well above JPMorgan's roughly 420,000-unit estimate and Bloomberg's roughly 406,000-unit consensus, and up about 25% year-over-year. Despite that beat, the stock actually fell 7.5% that day on margin concerns — making this Jefferies upgrade a partial reversal of that worry.\n\nJefferies also raised its FY2026 EBIT estimate 4% to $6.2 billion, suggesting the delivery beat is starting to flow through to profitability estimates, not just revenue.\n\nStill, the rating stayed at Hold — Jefferies appears constructive on the delivery improvement but remains cautious on the valuation of newer businesses like Robotaxi and Optimus. Whether the actual margin numbers at the July 22 Q2 earnings call support further target increases will be the next test.",
+      "href": "https://www.investing.com/news/analyst-ratings/jefferies-raises-tesla-stock-price-target-to-400-on-q2-volume-beat-93CH-4787761",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Investing.com",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-13T13:51:29.000Z",
+      "title": "그록(Grok), 테슬라 <em>한국·일본</em> 차량에도 도입",
+      "hotShort": "그록, 한국·일본 테슬라에도 <em>탑재 시작</em>",
+      "body": "일론 머스크의 AI 챗봇 그록이 한국·일본 테슬라 차량으로도 확대됐다 — 일본은 7월10일 테슬라재팬 공식 계정이 소프트웨어 2026.20 이상 탑재를 공식화했고, 한국은 7월12일부터 <em>신차에 영어 버전이 기본 탑재</em>된다(한국어 지원은 아직). 미국·유럽에 이어 아시아 핵심 시장까지 그록 탑재가 확대되는 신호.",
+      "sourceName": "Fortune Korea",
+      "sourceLabel": "press",
+      "slug": "musk-grok-korea-japan-2026-07-13",
+      "summary": "일론 머스크의 AI 챗봇 '그록(Grok)'이 아시아 핵심 시장인 한국과 일본의 테슬라 차량으로도 영역을 넓혔다. 두 나라는 도입 시점과 방식이 조금씩 다르다.\n\n일본은 7월10일 테슬라재팬 공식 X 계정이 \"그록에게 무엇이든 물어보세요\"라는 문구와 함께 자국 차량 탑재를 공식 발표했다. 소프트웨어 버전 2026.20 이상이 필요하며, 프리미엄 커넥티비티 구독이나 Wi-Fi 연결만 있으면 추가 요금 없이 베타로 이용할 수 있다. 미국에는 2025년 7월부터 순차 도입됐던 기능으로, 일본은 그 다음 주요 시장이다.\n\n한국은 7월12일 이후 출고되는 모든 신형 테슬라 차량에 그록이 기본 탑재되는 방식으로 도입됐다. 다만 현재는 영어 버전만 지원되며, 앞서 \"2026년 초 시작 예정\"이라고 안내됐던 한국어 지원은 아직 이뤄지지 않은 상태다.\n\n테슬라 주주 입장에서는 그록이 차량 소프트웨어의 핵심 기능으로 자리잡으며 아시아 판매 시장까지 확대되고 있다는 신호다 — 머스크가 강조해온 'AI 플랫폼으로서의 테슬라' 전략이 하드웨어 판매를 넘어 소프트웨어·구독 매출로 이어질 수 있을지가 관전 포인트다.",
+      "title_en": "Grok AI rolls out to Tesla vehicles in <em>Korea and Japan</em>",
+      "hotShort_en": "Grok AI reaches <em>Korea and Japan</em> Teslas",
+      "body_en": "Elon Musk's Grok AI has expanded to Tesla vehicles in Korea and Japan — Tesla Japan's official account confirmed on July 10 that cars running software 2026.20+ now support Grok, while new Tesla vehicles delivered in Korea from July 12 come with the <em>English-language version pre-installed</em> (Korean support still pending).",
+      "summary_en": "Elon Musk's Grok AI chatbot has expanded into two key Asian markets for Tesla: Korea and Japan. The two countries got the feature on slightly different timelines and terms.\n\nIn Japan, Tesla Japan's official X account announced on July 10 that Grok was now supported in vehicles there, under the tagline \"Ask Grok anything.\" It requires software version 2026.20 or later, and works in beta at no extra charge with either a Premium Connectivity subscription or a Wi-Fi connection. The U.S. got the feature starting in July 2025, making Japan the next major rollout market.\n\nIn Korea, every new Tesla vehicle delivered from July 12 onward comes with Grok pre-installed. For now, only the English-language version is available — Korean-language support, previously said to be coming in \"early 2026,\" has yet to materialize.\n\nFor Tesla shareholders, the expansion signals Grok becoming a standard feature across Tesla's software stack as it reaches further into Asian markets — a test of whether Musk's \"Tesla as an AI platform\" pitch can translate into software and subscription revenue beyond hardware sales.",
+      "href": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=49083",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Fortune Korea",
+        "Digital Today"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
@@ -2359,58 +2409,7 @@
       "hotShort_en": "Elon tops $1T — readers say <em>\"still won't deliver\"</em>",
       "body_en": "SpaceX's record June 12 IPO ($75B raised, $1.77T valuation) pushed Elon Musk's estimated net worth back above $1 trillion, prompting Electrek's Survey Sunday to ask whether he would now \"make things right\" — meaning follow through on unsupervised FSD, practical Optimus robots, clean-energy acceleration, and multiplanetary humanity. The overwhelming majority answered \"no\" or \"not even a little,\" concluding that money was never the limiting factor.",
       "summary_en": "SpaceX's landmark June 12 IPO — the largest in history by proceeds raised — returned Elon Musk to the trillion-dollar tier. By late June his net worth was estimated at roughly $1 trillion, distributed across SpaceX (~38% stake), Tesla (~13%), xAI, the Boring Company, and X. Electrek used the milestone as a prompt for its weekly Survey Sunday: given everything Musk promised, is he now positioned — and willing — to deliver?\n\nThe four reference promises were specific: unsupervised FSD at scale, a genuinely useful humanoid robot (Optimus), accelerated global decarbonization, and making humanity multiplanetary. Electrek's readership — historically among Tesla's most engaged supporters — answered with a resounding \"no\" across multiple response categories. Reader comments echoed the poll, pointing to Musk's political turn as a key driver of Tesla's brand erosion in Europe and parts of the U.S., his divided focus across multiple companies, and the years-long lag behind his own FSD timelines.\n\nThe survey's underlying conclusion is pointed: if the limiting factor had been capital, Musk has had more than enough for years. The real constraints, readers suggest, are attention, priorities, and will. That reading carries weight precisely because the Electrek audience has historically been sympathetic to Tesla's mission.\n\nFor TSLA investors, the signal is nuanced. Tesla's premium valuation has long rested partly on a \"Musk optionality\" narrative — the idea that his drive and vision justify a higher multiple. If even the core community of EV enthusiasts is pricing that optionality at zero, it raises a question about whether the stock's risk premium is fully reflected. The poll is not institutional sentiment, but it is a real-time read from the community that has been most consistently bullish on the Musk thesis."
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
-      "pubDate": "2026-06-28T14:00:15.000Z",
-      "title": "블룸버그 로보택시 2026 진단 — \"결함 속에도 전진\" 전 세계 <em>18,000대</em> 목표",
-      "hotShort": "로보택시 글로벌 <em>1.8만 대</em> 목표 — 웨이모 전국, 바이두 우한 먹통",
-      "body": "블룸버그가 로보택시 산업 2026년 현황을 심층 진단했다 — 전 세계 차량이 2025년 8,000대에서 올해 18,000대로 두 배 이상 늘어날 전망이나, 3월 바이두 아폴로고 100대 이상이 우한 고가도로에서 동시 멈추는 사고가 나는 등 기술적 도전은 여전하다. 웨이모는 미국 내 유일한 완전 무인 유료 서비스로 샌디에이고~워싱턴 D.C. 전국 확대에 나선다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "fsd-global-robotaxi-headway-bloomberg-2026-06-28",
-      "summary": "2026년은 로보택시 산업이 전 세계 상용 차량 수를 처음으로 1만 대 중반 이상으로 늘리는 해가 될 전망이다. 블룸버그는 6월 28일 심층 피처에서 웨이모·테슬라·바이두·Zoox 등 주요 사업자가 어디까지 왔는지, 그리고 왜 상용화 속도가 기대보다 여전히 느린지를 진단했다.\n\n현황부터 보면, 웨이모는 미국에서 안전 요원 없이 유료 운행이 가능한 유일한 사업자다 — 샌프란시스코·LA·피닉스에서 쌓은 운행 데이터를 기반으로 2026년을 미국 전역 확대의 원년으로 삼겠다고 밝혔다. 샌디에이고부터 워싱턴 D.C.에 이르는 전국 진출 계획이다. 테슬라 로보택시는 오스틴 메트로 전역(약 245㎢)에서 약 20대가 무인 운행 중이며, 댈러스·휴스턴으로도 서비스를 확장했다.\n\n도전도 만만치 않다. 가장 상징적인 사례는 3월 중국에서 발생한 바이두 아폴로고 100대 이상 동시 멈춤 사고다 — 우한 고가도로 위에서 차량들이 동시에 정지해 탑승객이 최대 2시간 갇혔다. 중국은 이 사고 직후 신규 로보택시 면허 발급을 일시 중단했다. 바이두·WeRide·Pony AI는 중국 내 상용화 범위에서 미국 사업자를 앞서지만 두바이·싱가포르·영국·독일 등 해외 진출도 동시에 추진 중이다.\n\n산업 전반적으로 2025년에는 서비스가 크로아티아·싱가포르·두바이·아부다비·리야드로 확산됐으며, 런던도 곧 합류할 전망이다. 그러나 '각 도시에서 인허가를 받고 운행을 검증하는' 확장 비용은 여전히 높으며, 기술 사고 한 건이 대중 신뢰와 규제 환경을 한꺼번에 흔들 수 있다는 점이 업계 공통 리스크다. 테슬라는 지도 없는 카메라 기반 E2E AI 방식이 장기적으로 이 비용을 낮출 수 있다고 주장하지만, 증명해야 할 과제가 여전히 앞에 있다.",
-      "href": "https://www.bloomberg.com/news/features/2026-06-28/robotaxis-why-waymo-tesla-baidu-and-others-face-continued-challenges",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Bloomberg",
-        "Fortune"
-      ],
-      "sentiment": "neutral",
-      "hot": 6,
-      "title_en": "Bloomberg: Robotaxes press ahead <em>despite glitches</em> — global fleet to double to 18,000",
-      "hotShort_en": "Global fleet hits <em>18K robotaxis</em> in 2026",
-      "body_en": "Bloomberg's June 28 feature on the global robotaxi sector finds the commercial fleet on track to more than double from 8,000 vehicles in 2025 to 18,000 in 2026, yet a March incident where more than 100 Baidu Apollo Go cars simultaneously stalled on elevated roads in Wuhan — trapping passengers for up to two hours — illustrated the sector's persistent vulnerabilities. Waymo remains the sole operator of fully driverless paid rides in the U.S. and is targeting a nationwide rollout from San Diego to Washington D.C. this year.",
-      "summary_en": "Bloomberg's feature arrives at a year when robotaxi operations have quietly spread beyond a handful of U.S. cities to include commercial or pilot services in Croatia, Singapore, Dubai, Abu Dhabi, and Riyadh, with London potentially next. The headline statistic — a fleet doubling year-on-year to 18,000 vehicles — masks how hard it remains to scale from proof-of-concept to a meaningful share of urban mobility.\n\nWaymo is the sector's clearest benchmark: the Alphabet unit is the only provider of a fully driverless paid service in the U.S., with no in-vehicle human backup. Its annualized revenues crossed $350 million in early 2026, and the company has announced plans to expand across America — San Diego, Washington D.C., and additional cities before year-end. Tesla's Robotaxi fleet covers Austin's full 245-square-mile metro area with about 20 vehicles, plus newer expansions in Dallas and Houston launched in April.\n\nChina's operators — Baidu Apollo Go, WeRide, and Pony AI — collectively outpace their American rivals in the number of cities with active deployments, and they are simultaneously building operations in Dubai, Abu Dhabi, Singapore, Germany, and the U.K. But the rollout hit a visible snag in March when more than 100 Baidu Apollo Go vehicles froze simultaneously on Wuhan overpasses; China subsequently halted new robotaxi license issuance while the incident was investigated.\n\nFor Tesla shareholders, the Bloomberg assessment underlines both opportunity and risk. Tesla's end-to-end AI approach avoids the city-by-city lidar mapping costs that weigh on competitors, which Tesla argues enables faster geographic scaling. But the subtitle — \"Why Waymo, Tesla, Baidu and Others Face Continued Challenges\" — is a useful reminder that no single player has broken decisively ahead in the race to make robotaxis a mainstream option."
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-06-28T12:00:00.000Z",
-      "title": "테슬라, Q2 인도 공식 컨센서스 <em>406K</em> 공개 — JP모건 소폭 하향, 에너지 +57%",
-      "hotShort": "Q2 인도 <em>406K</em> D-2 — 에너지 스토리지 +57%",
-      "body": "테슬라가 Q2 2026 공식 인도 컨센서스를 공개했다 — 총 406,024대(모델 3/Y 392,646 + 기타 12,978), 발표 D-2(7월 2일). JP모건(라잣 굽타)이 430,500→420,000대로 하향하는 등 기관 예상치가 405~420K로 수렴하는 가운데, 에너지 스토리지 13.8GWh(Q1 8.8GWh 대비 +57%)가 차량 대수보다 마진에 더 큰 영향을 줄 핵심 어닝 변수로 부각됐다.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "stock-q2-delivery-consensus-406k-2026-06-29",
-      "summary": "테슬라가 공식 발표한 Q2 2026 인도 컨센서스는 2분기 실적을 앞두고 월가의 기대치를 하나의 표로 정리한 것이다. 총 406,024대(모델 3/Y 392,646대 + 사이버트럭·모델 S/X·세미 등 기타 12,978대)가 컨센서스 중앙값이다. 비교 기준: Q1 2026 인도는 336,681대였으므로 컨센서스 실현 시 QoQ +20.6% 성장이다.\n\n개별 기관 예상치는 대체로 컨센서스 상단에 몰려 있다. 골드만삭스(420K)·바클레이스(418K)·모건스탠리(413K)는 유럽·중국 판매 강세를 이유로 상단에 위치한다. JP모건 라잣 굽타 애널리스트는 430,500대에서 420,000대로 하향 조정하며 혼조된 EV 수요 신호를 이유로 들었다. UBS는 405,000대 추정에 중립 의견·목표주가 $364를 유지했다. 상단과 하단 예상치 격차가 15K 수준으로 좁아 차량 대수 서프라이즈 폭은 제한적일 전망이다.\n\n에너지 스토리지가 이번 Q2의 숨겨진 변수다. 컨센서스 13.8GWh는 Q1 8.8GWh 대비 57% 급증한 수치다. 테슬라의 에너지 스토리지 사업(메가팩·파워월)은 차량 판매보다 마진율이 높아, 실제 수치가 컨센서스를 웃돌면 2분기 전체 영업 마진을 끌어올릴 여지가 있다. 배터리 원자재 가격 하락이 계속되는 환경에서 메가팩 마진 확대 여지는 일반에 잘 알려지지 않은 어닝 드라이버다.\n\nTSLA가 6월 -14% 하락한 상황에서 7월 2일 인도 발표는 단순한 대수 집계 이상이다. 컨센서스 달성 + 에너지 스토리지 서프라이즈 조합이 나온다면 기관 매수세 복귀를 촉발할 잠재적 반등 기폭제가 된다. 반대로 미달 시 추가 하락 리스크가 있다. 7월 22일 확정 실적 발표 전까지, 인도 수치는 시장이 테슬라 방향성을 재조정하는 첫 번째 구체적 데이터다.",
-      "href": "https://www.notateslaapp.com/news/4363/tesla-releases-q2-2026-analyst-delivery-consensus",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "Teslarati",
-        "Electrek"
-      ],
-      "sentiment": "neutral",
-      "hot": 6,
-      "title_en": "Tesla Releases Q2 Official <em>406K</em> Delivery Consensus — JPMorgan Cuts, Energy Storage +57%",
-      "hotShort_en": "TSLA Q2 delivery: <em>406K</em> consensus, D-2",
-      "body_en": "Tesla published its official Q2 2026 delivery analyst consensus — 406,024 vehicles total (392,646 Model 3/Y + 12,978 other), with the delivery report due July 2. JPMorgan's Rajat Gupta lowered his estimate from 430,500 to 420,000 units while Goldman Sachs (420K), Barclays (418K), and Morgan Stanley (413K) cluster at the upper end; but the real earnings wildcard is energy storage, where the 13.8 GWh consensus — up 57% from Q1's 8.8 GWh — signals Megapack momentum that delivery counts alone do not capture.",
-      "summary_en": "Tesla's official Q2 2026 delivery consensus sets the Wall Street midpoint at 406,024 vehicles: 392,646 Model 3/Y and 12,978 of other models including Cybertruck, Model S/X, and the Tesla Semi. For comparison, Tesla delivered 336,681 vehicles in Q1 2026; the consensus implies approximately 20.6% sequential growth if achieved. The delivery report is expected on or around July 2, ahead of the full earnings call on July 22.\n\nIndividual analyst estimates cluster toward the upper end of the distribution. Goldman Sachs (420K), Barclays (418K), and Morgan Stanley (413K) each sit above the consensus midpoint, citing strong European registration trends and sequential China improvement. JPMorgan's Rajat Gupta is the notable exception: his team revised the Q2 estimate down from 430,500 to 420,000 units, citing mixed EV demand signals. UBS holds at 405,000 vehicles with a Neutral rating and a $364 price target. With the spread between top and bottom estimates at roughly 15,000 units, a modest delivery beat is already partially priced in — making energy storage the real swing factor for investor sentiment.\n\nEnergy storage is Q2's most underappreciated variable. The consensus estimate of 13.8 GWh compares to 8.8 GWh deployed in Q1 — a 57% sequential jump. Tesla's energy storage business, anchored by the Megapack utility battery system, carries structurally higher margins than vehicles. In an environment of falling lithium and other battery raw material costs, Megapack margin expansion is an earnings driver that never shows up in delivery headlines. If Q2 energy storage lands at or above 13.8 GWh, it could be the decisive factor lifting Tesla's overall operating margin for the quarter even if vehicle deliveries are at or only slightly above consensus.\n\nFor shareholders, July 2 delivery day is the first hard data point in a month that has seen TSLA lose more than 14%. A consensus vehicle beat combined with an energy storage upside surprise would set up a meaningful re-rating toward the July 22 earnings call. A delivery miss, conversely, risks another leg lower before fundamentals have a chance to speak. Either way, Thursday's number is the most important single data release for TSLA sentiment before end of July."
     }
   ],
-  "asOf": "2026-07-13 20:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-13 23:55 KST 자동 갱신 · 최신순"
 }
