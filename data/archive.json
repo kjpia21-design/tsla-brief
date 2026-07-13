@@ -4,6 +4,32 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
+      "pubDate": "2026-07-13T22:23:26.000Z",
+      "title": "테슬라 FSD v14.3.5 배포 시작 — 주행 중에도 <em>카메라 미리보기 상시 확인</em> 가능",
+      "hotShort": "FSD v14.3.5, 주행 중 <em>카메라 미리보기</em> 지원",
+      "body": "테슬라가 FSD(Supervised) v14.3.5(소프트웨어 2026.20.6.6) 배포를 시작했다 — 기존엔 주차(Park) 상태에서만 열리던 카메라 미리보기를 <em>주행 중에도 언제든 열람</em>할 수 있게 됐다. 대형 자율주행 기능 변화는 아니지만, v14.3 브랜치가 꾸준히 오너 편의 기능을 다듬고 있다는 신호.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-3-5-camera-preview-anytime-2026-07-13",
+      "summary": "테슬라가 FSD(Supervised) v14.3.5 — 소프트웨어 버전 2026.20.6.6 — 배포를 시작했다. 테슬라 공식 릴리스노트를 추적하는 Not a Tesla App 이 이를 확인했고, 테슬라 소식통 소여 메릿과 머스코노미도 X 를 통해 업데이트 수신을 알렸다.\n\n이번 버전의 핵심 변경점은 '카메라 미리보기(Camera Preview)' 기능이다. 지금까지는 차량이 주차(Park) 상태일 때만 열 수 있었지만, v14.3.5부터는 <em>주행 중에도 언제든</em> 열람할 수 있도록 제한이 풀렸다. 조작 경로는 '컨트롤 > 서비스 > Camera Preview'에서 개별 카메라 화면을 탭하면 되고, 그리드 버튼을 누르면 전체 화면으로 돌아간다.\n\n큰 자율주행 알고리즘 개선이라기보다는 오너 편의성을 높이는 소소한 UX 업데이트에 가깝다. 다만 v14.3 브랜치는 이번 업데이트 전에도 카메라 시야 경고 UI 확대 등 크고 작은 개선을 이어온 바 있어, 이번 변경도 그 연장선으로 볼 수 있다.\n\n배포는 AI4 탑재 차량을 중심으로 시작됐으며, 모델S 등 일부 다른 모델에도 순차 확대되는 2차 롤아웃이 이어지고 있는 것으로 확인된다. 테슬라 주주 입장에서 직접적인 실적 변수는 아니지만, FSD 소프트웨어가 꾸준한 배포 주기로 개선되고 있다는 점은 로보택시·구독 매출 확대 스토리의 배경으로 참고할 만하다.",
+      "title_en": "Tesla begins rolling out FSD v14.3.5 — <em>Camera Preview now viewable while driving</em>",
+      "hotShort_en": "FSD v14.3.5 adds <em>drive-time Camera Preview</em>",
+      "body_en": "Tesla has begun rolling out FSD (Supervised) v14.3.5 (software 2026.20.6.6) — the headline change lets owners open <em>Camera Preview at any time, even while driving</em>, not just when parked. It's a minor UX tweak rather than a core autonomy upgrade, but shows the v14.3 branch is still being polished.",
+      "summary_en": "Tesla has begun rolling out FSD (Supervised) v14.3.5, tracked as software version 2026.20.6.6. Not a Tesla App, which tracks Tesla's official release notes, confirmed the update, while Tesla watchers Sawyer Merritt and Muskonomy also flagged it on X as they received the download.\n\nThe headline change is to Camera Preview. Previously restricted to Park, the feature can now be opened <em>at any time, including while driving</em>. Owners access it via Controls > Service > Camera Preview, tapping an individual camera view to isolate it or the grid button to return to the full view.\n\nThis is more of a quality-of-life UX tweak than a core autonomy improvement. Still, it continues a pattern in the v14.3 branch, which has already shipped smaller refinements like a larger camera-visibility-alert UI.\n\nThe rollout started with AI4-equipped vehicles, with a second wave reportedly extending to additional models including the Model S. It's not a direct earnings catalyst for shareholders, but steady FSD software cadence is part of the backdrop for Tesla's robotaxi and subscription revenue story.",
+      "href": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Sawyer Merritt (X)",
+        "Muskonomy (X)"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
       "pubDate": "2026-07-13T17:57:55.000Z",
       "title": "테슬라 정책자문관 \"<em>휠체어 전용 자율주행차</em> 개발 중\" — 시기·차종은 비공개",
       "hotShort": "테슬라, <em>휠체어 전용 자율차</em> 개발 확인",
@@ -2377,33 +2403,7 @@
       "hotShort_en": "TSLA <em>closes +8.46%</em> at $411.84",
       "body_en": "Tesla shares surged +8.46% to close at $411.84 on June 29, up from Friday's $379.71, after Barron's reported deepening Tesla-SpaceX collaboration spanning AI infrastructure, satellite connectivity, and advanced manufacturing. The rally recovered much of June's 14% decline; the Terafab semiconductor joint venture (Tesla, SpaceX, Intel; Grimes County, Texas) was cited as the key ecosystem catalyst.",
       "summary_en": "At the center of the Tesla-SpaceX collaboration story is Terafab — the semiconductor fabrication joint venture Elon Musk announced on March 21, 2026, joining Tesla, SpaceX, and Intel in a planned facility in Grimes County, Texas. The ambition is staggering: more than one terawatt of AI compute capacity annually, housed in a facility spanning 100 million square feet — ten times the footprint of Gigafactory Texas. On June 3, the venture secured a critical tax abatement from Grimes County, with total capital outlays potentially reaching $119 billion. That milestone is a tangible sign of local political and financial commitment that has given the Terafab thesis new credibility.\n\nBeyond the chip factory, the Barron's report cites AI infrastructure, satellite communications, in-car connectivity, and advanced manufacturing as four fronts where Tesla and SpaceX collaboration is intensifying. SpaceX's Starlink provides a natural on-ramp for in-vehicle satellite connectivity improvements across Tesla's fleet, while xAI — financially tied to SpaceX — has been described as a potential compute supplier for FSD neural network training. The June 28 confirmation that Grok 4.5 has entered private beta at Tesla and SpaceX also fits this broader integration narrative.\n\nFor context: TSLA closed at $379.71 on Friday June 26, down roughly 14% for the month and more than 20% from its May peak. The gap between the stock's depressed level and the multi-year bull thesis has made it vulnerable to sharp reversals on positive catalysts. June's decline has been attributed more to geopolitical risk (US-Iran re-escalation) and institutional rotation out of Musk-affiliated names after the SpaceX IPO than to Tesla-specific operational deterioration.\n\nFor the day's price action: Tesla surged from the open, hitting an intraday high of $413.27 and closing at $411.84 — up +8.46% from Friday's $379.71. The rally recovered a large part of June's 14% decline as the Tesla-SpaceX collaboration catalyst overwhelmed renewed US-Iran strike risk. The durability of institutional buying gets its real test July 2, when Tesla reports Q2 deliveries against a consensus of 406,024 vehicles.\n\nFor Tesla shareholders, today's move is a sentiment indicator more than a fundamental data point. Terafab's eventual scale-up would internalize AI chip supply, reducing Tesla's dependence on external semiconductor providers. Starlink integration and xAI compute contributions remain long-dated optionality rather than near-term deliverables. But as Terafab collects verifiable milestones — a tax deal closed, a JV structure formalized — each one chips away at the 'Musk ecosystem discount' that has weighed on TSLA's multiple in a period of divided management attention."
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
-      "pubDate": "2026-06-29T09:05:00.000Z",
-      "title": "테슬라, FSD v14 Lite 2026.20.5.1 HW3 공식 배포 시작 — <em>400만 대</em> 14개월 만의 업데이트",
-      "hotShort": "FSD v14 Lite, HW3 <em>공식 배포 시작</em> — 14개월 만",
-      "body": "테슬라가 6월 29일 HW3 얼리 액세스 차량에 FSD v14 Lite(펌웨어 2026.20.5.1)를 공식 배포했다 — HW3 차량 기준 14개월 만의 FSD 업데이트로, 전 세계 약 400만 대가 대상이다. Arrival Options(목적지 주차 위치 사전 선택)·저속 보수 모드 SLOTH 등 신규 기능이 처음 탑재됐으며, 수주 내 전체 HW3 오너로 배포가 확대된다.",
-      "sourceName": "Tesla Oracle",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-lite-hw3-release-2026-06-29",
-      "summary": "테슬라가 2026년 6월 29일, HW3(하드웨어 3) 차량용 FSD v14 Lite 첫 번째 펌웨어(2026.20.5.1)를 얼리 액세스 고객에게 배포하기 시작했다. 아쇽 엘루스와미(Tesla AI 책임자)가 전날 배포를 공식 확인한 지 하루 만의 실제 출시다. HW3 차량이 마지막으로 FSD 업데이트를 받은 건 2025년 4월 — 14개월이 넘는 공백 끝에 이번 업데이트가 이뤄졌다.\n\nv14 Lite의 핵심 신규 기능은 세 가지다. ① Arrival Options — 목적지 도착 전에 FSD가 주차할 위치(주차장·도로변·진입로·커브 중)를 미리 선택할 수 있다. ② Speed Profile SLOTH — 기존 Chill보다 낮은 속도와 더 보수적인 차로 선택을 제공하는 신규 주행 모드로, 교통 상황이 복잡한 환경에서 유용하다. ③ 합류·보행자 상호작용·신호등·끼어들기 반응성 전반 개선. 주차·출차·후진 지원도 강화됐다.\n\n약 400만 대의 HW3 차량이 최종 배포 대상이다. 현재는 얼리 액세스 고객을 시작으로 수주 내 전체 HW3 오너로 확대될 예정이다. v14 Lite는 FSD 슈퍼바이즈드(레벨 2) 체계를 유지해 운전자 주의가 여전히 필수이며, HW3의 연산·카메라 한계로 무인 로보택시 운행은 지원하지 않는다.\n\n주주 관점에서 이번 배포는 두 가지 의미다. 첫째, HW3 오너의 FSD 구독 이탈 리스크를 낮추고 구독 기반을 유지한다. 둘째, 400만 대 규모의 신규 주행 데이터를 v14 신경망 훈련에 활용해 소프트웨어 개선 속도를 높일 수 있다. 테슬라가 HW3에 레벨 2 FSD를 계속 지원함으로써, HW4 업그레이드 전까지 이 고객군을 생태계 안에 붙들어 두는 전략적 포석이기도 하다.",
-      "href": "https://www.teslaoracle.com/2026/06/29/tesla-starts-the-rollout-of-fsd-v14-lite-2026-20-5-1-for-hw3-owners-official-release-notes-rollout-status/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Ashok Elluswamy (X)",
-        "Tesla Oracle",
-        "Teslarati"
-      ],
-      "sentiment": "bull",
-      "hot": 9,
-      "title_en": "Tesla Ships FSD v14 Lite (2026.20.5.1) to HW3 — <em>4 Million Cars</em>, First Update in 14 Months",
-      "hotShort_en": "Tesla ships FSD v14 Lite to <em>4M HW3 cars</em>",
-      "body_en": "Tesla began rolling out FSD v14 Lite (firmware 2026.20.5.1) to early-access Hardware 3 vehicles on June 29 — the first FSD update for HW3 in over 14 months, with roughly 4 million vehicles eventually in scope. New features include Arrival Options (pre-selecting a parking destination before arrival) and the SLOTH Speed Profile, a more conservative driving mode than existing Chill; the rollout expands to all HW3 owners over the coming weeks.",
-      "summary_en": "Tesla's Head of AI Ashok Elluswami confirmed the HW3 FSD v14 Lite rollout on June 28; the first firmware package — version 2026.20.5.1 — began reaching early-access customers the following day. The previous FSD update for HW3 vehicles shipped in April 2025, making this a 14-month gap for the platform that still accounts for the majority of Teslas on the road.\n\nThree capabilities headline v14 Lite for HW3. Arrival Options allows drivers to specify before arriving where FSD should park — choices include Parking Lot, Street, Driveway, or Curbside — giving the software a clearer objective for the last leg of a trip. The new SLOTH Speed Profile sits below existing Chill, delivering lower speeds and more conservative lane selection for drivers who prefer maximum caution. Additionally, the update brings improved proactive and reactive responsiveness across highway merges, pedestrian interactions, traffic lights, and vehicle cut-in scenarios.\n\nHW3's compute and camera resolution cannot support unsupervised Robotaxi operation — v14 Lite remains a Level 2 supervised system requiring an attentive driver. Tesla's engineering team optimized the core V14 neural architecture to run efficiently on older silicon rather than developing a separate codebase, which is why the lite variant took longer than expected to reach this platform.\n\nFor shareholders, the HW3 release carries two strategic benefits: it reduces churn among the roughly 4 million FSD subscribers on older hardware, and it adds a large new pool of real-world miles to feed v14 model training. Keeping HW3 owners inside the FSD subscription ecosystem ahead of a potential hardware upgrade upsell also supports Tesla's long-term software revenue runway."
     }
   ],
-  "asOf": "2026-07-14 05:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-14 07:59 KST 자동 갱신 · 최신순"
 }

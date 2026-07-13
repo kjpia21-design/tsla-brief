@@ -4,6 +4,32 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
+      "pubDate": "2026-07-13T22:23:26.000Z",
+      "title": "테슬라 FSD v14.3.5 배포 시작 — 주행 중에도 <em>카메라 미리보기 상시 확인</em> 가능",
+      "hotShort": "FSD v14.3.5, 주행 중 <em>카메라 미리보기</em> 지원",
+      "body": "테슬라가 FSD(Supervised) v14.3.5(소프트웨어 2026.20.6.6) 배포를 시작했다 — 기존엔 주차(Park) 상태에서만 열리던 카메라 미리보기를 <em>주행 중에도 언제든 열람</em>할 수 있게 됐다. 대형 자율주행 기능 변화는 아니지만, v14.3 브랜치가 꾸준히 오너 편의 기능을 다듬고 있다는 신호.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-3-5-camera-preview-anytime-2026-07-13",
+      "summary": "테슬라가 FSD(Supervised) v14.3.5 — 소프트웨어 버전 2026.20.6.6 — 배포를 시작했다. 테슬라 공식 릴리스노트를 추적하는 Not a Tesla App 이 이를 확인했고, 테슬라 소식통 소여 메릿과 머스코노미도 X 를 통해 업데이트 수신을 알렸다.\n\n이번 버전의 핵심 변경점은 '카메라 미리보기(Camera Preview)' 기능이다. 지금까지는 차량이 주차(Park) 상태일 때만 열 수 있었지만, v14.3.5부터는 <em>주행 중에도 언제든</em> 열람할 수 있도록 제한이 풀렸다. 조작 경로는 '컨트롤 > 서비스 > Camera Preview'에서 개별 카메라 화면을 탭하면 되고, 그리드 버튼을 누르면 전체 화면으로 돌아간다.\n\n큰 자율주행 알고리즘 개선이라기보다는 오너 편의성을 높이는 소소한 UX 업데이트에 가깝다. 다만 v14.3 브랜치는 이번 업데이트 전에도 카메라 시야 경고 UI 확대 등 크고 작은 개선을 이어온 바 있어, 이번 변경도 그 연장선으로 볼 수 있다.\n\n배포는 AI4 탑재 차량을 중심으로 시작됐으며, 모델S 등 일부 다른 모델에도 순차 확대되는 2차 롤아웃이 이어지고 있는 것으로 확인된다. 테슬라 주주 입장에서 직접적인 실적 변수는 아니지만, FSD 소프트웨어가 꾸준한 배포 주기로 개선되고 있다는 점은 로보택시·구독 매출 확대 스토리의 배경으로 참고할 만하다.",
+      "title_en": "Tesla begins rolling out FSD v14.3.5 — <em>Camera Preview now viewable while driving</em>",
+      "hotShort_en": "FSD v14.3.5 adds <em>drive-time Camera Preview</em>",
+      "body_en": "Tesla has begun rolling out FSD (Supervised) v14.3.5 (software 2026.20.6.6) — the headline change lets owners open <em>Camera Preview at any time, even while driving</em>, not just when parked. It's a minor UX tweak rather than a core autonomy upgrade, but shows the v14.3 branch is still being polished.",
+      "summary_en": "Tesla has begun rolling out FSD (Supervised) v14.3.5, tracked as software version 2026.20.6.6. Not a Tesla App, which tracks Tesla's official release notes, confirmed the update, while Tesla watchers Sawyer Merritt and Muskonomy also flagged it on X as they received the download.\n\nThe headline change is to Camera Preview. Previously restricted to Park, the feature can now be opened <em>at any time, including while driving</em>. Owners access it via Controls > Service > Camera Preview, tapping an individual camera view to isolate it or the grid button to return to the full view.\n\nThis is more of a quality-of-life UX tweak than a core autonomy improvement. Still, it continues a pattern in the v14.3 branch, which has already shipped smaller refinements like a larger camera-visibility-alert UI.\n\nThe rollout started with AI4-equipped vehicles, with a second wave reportedly extending to additional models including the Model S. It's not a direct earnings catalyst for shareholders, but steady FSD software cadence is part of the backdrop for Tesla's robotaxi and subscription revenue story.",
+      "href": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Sawyer Merritt (X)",
+        "Muskonomy (X)"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
       "pubDate": "2026-07-13T17:57:55.000Z",
       "title": "테슬라 정책자문관 \"<em>휠체어 전용 자율주행차</em> 개발 중\" — 시기·차종은 비공개",
       "hotShort": "테슬라, <em>휠체어 전용 자율차</em> 개발 확인",
@@ -44,26 +70,6 @@
       ],
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-13T14:40:39.000Z",
-      "title": "휴스턴 로보택시 허브에 사이버캡 <em>100대 목격</em> — 상업화 임박 신호",
-      "hotShort": "휴스턴 허브에 사이버캡 <em>100대 결집</em> 포착",
-      "body": "테슬라 소식통 소여 메릿이 휴스턴 로보택시 허브에서 사이버캡 <em>약 100대가 목격됐다</em>고 전했다 — 지난 7월10일 90대 수준이었던 것과 비교해 재고가 더 쌓인 모습으로, 본격 상업 운행 확대를 앞둔 사전 배치로 해석된다.",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "fsd-cybercab-houston-100-units-2026-07-13",
-      "summary": "테슬라 로보택시 사업의 다음 무대로 꼽히는 휴스턴에서 사이버캡 재고가 눈에 띄게 불어나고 있다. 테슬라 소식통으로 잘 알려진 소여 메릿은 7월13일 자신의 X 계정에 휴스턴 로보택시 허브에서 사이버캡이 약 100대 목격됐다고 전했다.\n\n앞서 지난 7월10일에는 같은 허브에서 약 90대가 포착됐다는 보도가 있었다 — 이번 100대 목격이 사실이라면 며칠 새 재고가 더 쌓였다는 뜻이다. 다만 공식 집계가 아닌 현장 목격에 근거한 수치인 만큼 정확한 대수는 확인이 필요하다.\n\n휴스턴은 지난 4월18일 모델Y 기반 무인 로보택시가 첫 상용 서비스를 시작한 도시 중 하나다. 핸들·페달이 없는 전용 차량 사이버캡이 이 정도 규모로 한곳에 모였다는 건, 생산 물량이 상업 운행에 투입할 만큼 쌓였고 허브 인프라도 가동 준비를 마쳤다는 신호로 해석된다.\n\n다만 테슬라는 아직 사이버캡의 공도 유상 운행 개시 시점을 공식화하지 않았다. 재고 축적이 곧바로 서비스 확대로 이어질지는 규제 승인·안전성 검증 등 남은 변수에 달려 있다.",
-      "title_en": "About <em>100 Cybercabs</em> spotted staged at Tesla's Houston robotaxi hub",
-      "hotShort_en": "<em>100 Cybercabs</em> spotted at Houston hub",
-      "body_en": "Tesla curator Sawyer Merritt reported spotting roughly <em>100 Cybercabs</em> staged at Tesla's Houston robotaxi hub — up from about 90 seen there around July 10, suggesting inventory is building ahead of a wider commercial rollout.",
-      "summary_en": "Houston, seen as the next stage for Tesla's robotaxi buildout, appears to be stockpiling Cybercabs fast. Tesla-watcher Sawyer Merritt posted on X on July 13 that he spotted roughly 100 Cybercabs staged at Tesla's Houston robotaxi hub.\n\nThat's up from an earlier report of about 90 units spotted at the same hub around July 10 — if accurate, inventory grew further in just a few days. The figures come from field sightings rather than an official count, so the exact number isn't confirmed.\n\nHouston was one of the cities where Tesla's Model Y-based unsupervised robotaxi service first launched commercially on April 18. Seeing this many steering-wheel-less, purpose-built Cybercabs staged at one hub suggests production has ramped enough to supply a commercial fleet, and the hub infrastructure is ready to operate.\n\nTesla still hasn't confirmed a public launch date for paid Cybercab rides, though. Whether this inventory buildup translates into an expanded service will depend on remaining variables like regulatory approval and safety validation.",
-      "href": "https://x.com/SawyerMerritt/status/2076678197731643755",
-      "sentiment": "bull",
-      "hot": 3
     },
     {
       "category": "stock",
@@ -188,5 +194,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-14 05:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-14 07:59 KST 자동 갱신 · 최신순"
 }
