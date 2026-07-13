@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-13 11:19 UTC · 누적 591건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-13 14:47 UTC · 누적 592건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-13T10:48:46.000Z",
+      "title": "게리 블랙 \"스페이스X 주가, <em>IPO가 $135 밑으로</em> 떨어질 수도\" — 내부자 락업 해제 겨냥",
+      "hotShort": "게리 블랙, 스페이스X 주가 <em>IPO가 하회</em> 경고",
+      "body": "베테랑 애널리스트 게리 블랙이 스페이스X 주가가 조만간 IPO 공모가 $135를 밑돌 수 있다고 경고했다 — 2분기 실적 발표 후 내부자(머스크 제외) 지분 최대 20% 매도가 풀리는 락업 해제 일정이 매물 압력의 핵심 근거다.",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "musk-gary-black-spacex-below-ipo-price-2026-07-13",
+      "summary": "스페이스X 주가에 대한 회의론을 이어온 게리 블랙(전 퍼시픽 자산운용 CIO)이 이번엔 구체적인 매물 폭탄 시나리오를 제시했다. 그는 IPO 공모가인 $135 밑으로 주가가 조만간 떨어질 수 있다고 경고했다.\n\n근거는 내부자 지분 락업 해제 일정이다. 2분기 실적 발표 직후 머스크를 제외한 내부자들이 보유 지분의 최대 20%까지 매도가 가능해지고, 이후 상장 70일·90일·105일·120일·135일째마다 추가로 7%씩 매도 가능 물량이 풀린다. 3분기 실적 발표 후에는 다시 28%가 추가로 해제된다 — 상장 초기 몇 달간 계속해서 대규모 매물이 시장에 나올 수 있는 구조다.\n\n블랙은 앞서에도 스페이스X 밸류에이션에 지속적으로 의문을 제기해왔다 — 2026년 EV/EBITDA 기준 150배는 투자자가 지불하기엔 과도하다는 입장이다. 본인도 스페이스X 주식을 전혀 보유하고 있지 않다고 밝히며, 커뮤니티의 강세 분위기와 대비되는 자신의 회의적 시각을 강조했다.\n\n월가 시각은 극단적으로 엇갈린다. JP모건은 목표주가 $225를, 모건스탠리는 강세 시나리오로 $300을 각각 제시한 상태다 — 블랙의 경고와 정반대편에 있는 셈이다. 테슬라 주주 입장에서는 직접적인 TSLA 실적 변수는 아니지만, 테슬라·스페이스X 합병설이 여전히 거론되는 가운데 스페이스X 밸류에이션을 둘러싼 불확실성이 커지고 있다는 신호로 볼 만하다.",
+      "title_en": "Gary Black warns SpaceX stock could <em>fall below its $135 IPO price</em> as insider lockups unwind",
+      "hotShort_en": "Gary Black: SpaceX stock <em>could dip below IPO price</em>",
+      "body_en": "Veteran analyst Gary Black warned SpaceX shares could soon trade below their $135 IPO price — pointing to a lockup schedule that lets insiders (excluding Musk) sell up to 20% of their stakes right after the Q2 earnings call, with more unlocking in stages after that.",
+      "summary_en": "Gary Black, a longtime SpaceX valuation skeptic, has laid out a concrete scenario for why the stock could soon slip below its $135 IPO price.\n\nThe trigger is the insider lockup schedule. Right after SpaceX's Q2 earnings call, insiders excluding Musk can sell up to 20% of their holdings. More unlocks follow at the 70th, 90th, 105th, 120th and 135th days after the IPO, each freeing up another 7% — and another 28% unlocks after the Q3 earnings call. That structure means waves of potential selling pressure could keep hitting the stock for months after listing.\n\nBlack has repeatedly questioned SpaceX's valuation, arguing investors shouldn't be paying roughly 150x 2026 EV/EBITDA for the company. He said he holds no SPCX position himself, underscoring how far his skepticism runs against the bullish sentiment elsewhere.\n\nWall Street's targets span a wide range — JPMorgan has set a $225 price target while Morgan Stanley's bull case reaches $300, both well above Black's bearish call. For Tesla shareholders, this isn't a direct TSLA earnings signal, but it adds to the uncertainty around SpaceX's valuation just as Tesla-SpaceX merger speculation continues to circulate.",
+      "href": "https://www.benzinga.com/news/space/26/07/60408883/gary-black-thinks-spacex-stock-could-soon-trade-below-its-ipo-price-heres-why",
+      "sentiment": "bear",
+      "hot": 3
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -134,10 +154,11 @@
       "body_en": "Tesla says its production Cybercab — the two-seat robotaxi with no steering wheel or pedals — has begun giving employee rides at Giga Texas, a first for putting real passengers inside the vehicle. The catch: it's confined to the factory's own parking lot, not public roads.",
       "summary_en": "Tesla announced via two of its X accounts that Cybercab rides for employees are \"starting soon\" at Giga Factory Texas. The two-seat production Cybercab has no steering wheel or pedals, and this marks the first publicly confirmed instance of the robotaxi carrying actual passengers rather than running empty.\n\nElectrek reported the news cautiously, framing it as a claim from Tesla, and noted the driving is limited to the factory's own parking lot rather than public streets. Teslarati also covered the development.\n\nThe parking-lot rides follow a June 30 driverless test of a production Cybercab on public roads in Austin — without passengers. Putting employees in the vehicle is a step forward, but it's still happening in a controlled, low-stakes environment.\n\nCybercab's path to real-world deployment also hinges on regulation. NHTSA signaled on July 9 that it could revisit the steering-wheel requirement for driverless vehicles — a rule that directly affects whether a wheel-less car like Cybercab can legally operate.",
       "href": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
-      "confirmedBy": 2,
+      "confirmedBy": 3,
       "confirmingSources": [
         "Electrek",
-        "Teslarati"
+        "Teslarati",
+        "Mashable"
       ],
       "sentiment": "bull",
       "hot": 5
