@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-07-14 15:37 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-14 17:19 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "13m ago",
+      "pubDate": "2026-07-14T17:07:00.000Z",
+      "title": "TSLA Stock Remains Volatile Ahead Of Q2 Earnings: Analysts Raise Price Targets With Cautious Optimism",
+      "body": "TSLA Stock Remains Volatile Ahead Of Q2 Earnings: Analysts Raise Price Targets With Cautious Optimism Stocktwits",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-remains-volatile-ahead-of-q2-earnings-analysts-raise-price-targets-with-cautious-optimism/cZZR2nAR7qW"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "54m ago",
+      "pubDate": "2026-07-14T16:25:54.000Z",
+      "title": "Tesla owner attempts resale of Model S Signature Edition for over $260k",
+      "body": "Tesla owner attempts resale of Model S Signature Edition for over $260k Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-owner-attempts-resale-model-s-signature-edition-over-260k/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
       "pubDate": "2026-07-14T15:24:18.000Z",
       "title": "What If the Car Is No Longer the Point For Tesla Stock?",
       "body": "What If the Car Is No Longer the Point For Tesla Stock? Trefis",
@@ -15,22 +41,22 @@
       "href": "https://www.trefis.com/stock/tsla/articles/607049/what-if-the-car-is-no-longer-the-point-for-tesla-stock/2026-07-14"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "25m ago",
-      "pubDate": "2026-07-14T15:12:28.000Z",
-      "title": "Tesla owner attempts resale of Model S Signature Edition for over $260k",
-      "body": "A Tesla owner who purchased a Model S Signature Edition, one of the final 250 units of the all-electric flagship vehicle that the company discontinued earlier this year, is attempting to sell the car despite a no-resale …",
-      "sourceName": "www.teslarati.com",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-07-14T14:17:00.000Z",
+      "title": "Three Price Target Boosts Can’t Help Tesla Stock",
+      "body": "Three Price Target Boosts Can’t Help Tesla Stock Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/tesla-owner-attempts-resale-model-s-signature-edition-over-260k/"
+      "href": "https://www.barrons.com/articles/tesla-stock-price-target-0e4899ed"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-14T14:12:01.000Z",
       "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
       "body": "See How Tesla Tore Down The Model S Factory To Build Robots Instead InsideEVs",
@@ -41,22 +67,9 @@
       "href": "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-14T13:20:53.000Z",
-      "title": "Tesla and Meta Are Worth Almost the Same. Which Stock Is the Better Buy?",
-      "body": "Tesla and Meta Are Worth Almost the Same. Which Stock Is the Better Buy? The Motley Fool",
-      "sourceName": "The Motley Fool",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.fool.com/investing/2026/07/14/tesla-and-meta-are-worth-almost-the-same-which-sto/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-14T13:00:01.000Z",
       "title": "SpaceX alumni building remote-controlled construction equipment land $115 million fund round",
       "body": "SpaceX alumni building remote-controlled construction equipment land $115 million fund round CNBC",
@@ -69,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-14T13:00:00.000Z",
       "title": "SpaceX Wins Another Airline Customer as Frontier Picks Starlink",
       "body": "SpaceX Wins Another Airline Customer as Frontier Picks Starlink Bloomberg.com",
@@ -77,51 +90,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-14/spacex-wins-another-airline-customer-as-frontier-picks-starlink?srnd"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-14T12:59:25.000Z",
-      "title": "SpaceX News",
-      "body": "SpaceX News Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/topics/SpaceX?page"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-14T12:34:41.000Z",
-      "title": "Elon Musk",
-      "body": "Elon Musk CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/elon-musk/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-14T12:26:02.000Z",
-      "title": "Here are Tuesday's biggest analyst calls: Nvidia, SK Hynix, Apple, SpaceX, Broadcom, AMD, Netflix & more",
-      "body": "Here are Tuesday's biggest analyst calls: Nvidia, SK Hynix, Apple, SpaceX, Broadcom, AMD, Netflix & more CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/07/14/tuesday-stocks-in-analyst-calls-include-nvidia-sk-hynix-apple-amd.html"
+      "href": "https://www.bloomberg.com/news/articles/2026-07-14/spacex-wins-another-airline-customer-as-frontier-picks-starlink"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-14T12:25:30.000Z",
       "title": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance",
       "body": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance Teslarati",
@@ -132,22 +106,9 @@
       "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-07-14T12:00:00.000Z",
-      "title": "Three Price Target Boosts Can’t Help Tesla Stock",
-      "body": "Three Price Target Boosts Can’t Help Tesla Stock Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-target-0e4899ed"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-14T06:57:11.000Z",
       "title": "Tesla weirdly confirms Cybercab employee rides, a huge milestone",
       "body": "Tesla weirdly confirms Cybercab employee rides, a huge milestone Teslarati",
@@ -158,9 +119,22 @@
       "href": "https://www.teslarati.com/tesla-weirdly-confirms-cybercab-employees-rides-a-huge-milestone/"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "11h ago",
+      "pubDate": "2026-07-14T06:49:27.000Z",
+      "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe",
+      "body": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe InsideEVs",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://insideevs.com/news/790892/tesla-sales-europe-february-2026/"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-14T06:39:23.000Z",
       "title": "Tesla makes the cut on California’s newest EV Rebate program",
       "body": "Tesla makes the cut on California’s newest EV Rebate program Teslarati",
@@ -173,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-14T06:33:06.000Z",
       "title": "Tesla makes the cut on California’s newest EV Rebate program",
       "body": "California just signed a $270 million EV rebate into law and it starts this summer. The post Tesla makes the cut on California’s newest EV Rebate program appeared first on TESLARATI.",
@@ -186,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-14T01:35:07.000Z",
       "title": "What Silicon Valley grasps in people’s minds is intense technology, competition, and drama all in one, with new legen…",
       "body": "What Silicon Valley grasps in people’s minds is intense technology, competition, and drama all in one, with new legends born every once in a while—where other industries are mostly held by old guards.",
@@ -199,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-14T00:39:28.000Z",
       "title": "EV sales are normalizing in the US – and TAKING OFF everywhere else",
       "body": "On today’s totally normal episode of Quick Charge, it seems like EV sales are starting to normalize in the US after the loss of the Federal Tax Credit last September – but they’re taking off everywhere else, and Europe i…",
@@ -212,7 +186,59 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "19h ago",
+      "time": "17h ago",
+      "pubDate": "2026-07-13T23:59:00.000Z",
+      "title": "Tesla Inc. Advanced Charts | TSLA",
+      "body": "Tesla Inc. Advanced Charts | TSLA Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/market-data/stocks/tsla/interactive-chart?amp%253Biso"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "18h ago",
+      "pubDate": "2026-07-13T23:10:45.000Z",
+      "title": "SpaceX News",
+      "body": "SpaceX News Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/topics/SpaceX?page"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "21h ago",
+      "pubDate": "2026-07-13T20:21:38.000Z",
+      "title": "Tesla Semi enters new Pilot Program with interesting challenge",
+      "body": "Tesla Semi enters new Pilot Program with interesting challenge Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-semi-enters-new-pilot-program-interesting-challenge/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "21h ago",
+      "pubDate": "2026-07-13T20:16:00.000Z",
+      "title": "SpaceX Stock Falls. It Is Too Much For Just One Analyst.",
+      "body": "SpaceX Stock Falls. It Is Too Much For Just One Analyst. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/spacex-stock-price-analyst-buy-rating-39cfe243"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "21h ago",
       "pubDate": "2026-07-13T20:13:00.000Z",
       "title": "Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It?",
       "body": "Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It? Barron's",
@@ -225,8 +251,8 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20h ago",
-      "pubDate": "2026-07-13T19:52:29.000Z",
+      "time": "22h ago",
+      "pubDate": "2026-07-13T18:53:43.000Z",
       "title": "Tesla is building a wheelchair-accessible Robotaxi",
       "body": "Tesla is building a wheelchair-accessible Robotaxi Teslarati",
       "sourceName": "Teslarati",
@@ -234,32 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-reveals-development-wheelchair-accessible-autonomous-vehicle/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
-      "pubDate": "2026-07-13T19:20:59.000Z",
-      "title": "Tesla Semi enters new Pilot Program with interesting challenge",
-      "body": "Tesla Semi enters new Pilot Program with interesting challenge Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-semi-enters-new-pilot-program-interesting-challenge/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "12d ago",
-      "pubDate": "2026-07-02T07:00:00.000Z",
-      "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
-      "body": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html"
     }
   ]
 }
