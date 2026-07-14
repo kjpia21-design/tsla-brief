@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-14T06:33:06.000Z",
+      "title": "캘리포니아 첫차 EV 보조금 신설 — 테슬라엔 <em>5만달러 상한</em> 적용",
+      "hotShort": "캘리포니아 EV 보조금, 테슬라만 <em>5만달러 상한</em>",
+      "body": "캘리포니아가 첫차 구매자용 EV 보조금 'MyFirstEV'(SB168, 주정부·완성차 공동재원 총 2억7000만달러)를 7월13일 뉴섬 주지사 서명으로 신설 — 5만달러 이하 신차에 $3,500 즉시 할인되는데, <em>본사를 텍사스로 옮긴 테슬라만 이 5만달러 상한을 적용받고</em> 캘리포니아 본사인 리비안·루시드는 가격 무관 예외를 받아 형평성 논란이 인다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-california-myfirstev-rebate-2026-07-14",
+      "summary": "캘리포니아 개빈 뉴섬 주지사가 7월13일 SB168 법안에 서명해 'MyFirstEV' 프로그램을 신설했다. 첫차 구매자 대상으로 5만달러 이하 신형 EV엔 $3,500, 2만5000달러 이하 중고 EV엔 $1,750을 즉시 할인해주는 제도다. 재원은 주정부와 참여 완성차업체가 각각 1억3550만달러씩 부담해 총 2억7000만달러 규모로 조성된다. 기존 신청·환급 방식이던 Clean Vehicle Rebate Project(CVRP)와 달리, 이번엔 딜러 매장에서 즉시 차감되는 방식이라 서류·대기 없이 바로 혜택을 받는다.\n\n테슬라 모델3 후륜구동($42,490)과 롱레인지($47,490), 그리고 최근 가격 조정 후 4만4990달러부터 시작하는 모델Y 모두 5만달러 상한 이하라 첫차 구매자 보조금 대상에 포함된다. 다만 이 상한선은 캘리포니아에 본사를 둔 완성차업체에는 적용되지 않는다 — 리비안·루시드는 가격과 무관하게 예외를 받는 반면, 2021년 본사를 텍사스 오스틴으로 옮긴 테슬라는 캘리포니아에서 수십만 대를 생산함에도 5만달러 상한을 그대로 적용받는다.\n\n일렉트렉은 이를 두고 \"리비안·루시드에 유리하고 테슬라엔 불리한 구조\"라고 짚었고, 반대로 야후 파이낸스는 \"테슬라가 승자\"라는 해석을 냈다 — 현재 판매 중인 테슬라 주력 모델 대부분이 상한선 아래 있어 당장은 보조금을 받지만, 향후 고가 트림·신모델이 나올수록 상한선의 제약이 부각될 소지가 있다는 뜻으로, 매체마다 평가가 엇갈린다.\n\n이 프로그램은 이르면 이번 여름 시행될 예정이다. 캘리포니아는 테슬라의 최대 단일 판매 시장 중 하나인 만큼, 즉시 할인 방식으로 바뀐 이번 보조금이 신규 구매 수요를 얼마나 끌어올릴지, 그리고 본사 소재지에 따른 상한 규정이 장기적으로 테슬라의 캘리포니아 경쟁력에 어떤 영향을 줄지 주주들이 지켜볼 대목이다.",
+      "title_en": "California launches new EV rebate — Tesla alone hits a <em>$50K price cap</em>",
+      "hotShort_en": "Tesla hit by <em>$50K cap</em> in CA EV rebate",
+      "body_en": "California signed SB 168 on July 13, creating 'MyFirstEV' (state + automakers jointly funding $270M) — a $3,500 instant rebate on new EVs under $50K. Tesla qualifies for now, but <em>only Tesla — having moved its HQ to Texas — is bound by the $50K cap</em>, while California-headquartered Rivian and Lucid are exempt from it regardless of price.",
+      "summary_en": "California Governor Gavin Newsom signed SB 168 on July 13, creating the 'MyFirstEV' program. It gives first-time buyers a $3,500 instant discount on new EVs priced under $50,000, and $1,750 on used EVs under $25,000. The pool is funded roughly 50/50 by the state and participating automakers — about $135.5 million each, for a combined $270 million. Unlike the older application-based Clean Vehicle Rebate Project (CVRP), this is a point-of-sale discount applied right at the dealership, with no paperwork or waiting.\n\nTesla's Model 3 RWD ($42,490) and Long Range ($47,490), along with the Model Y (starting at $44,990 after a recent price adjustment), all fall under the $50,000 cap and qualify. But that price ceiling doesn't apply to California-headquartered automakers — Rivian and Lucid qualify regardless of price, while Tesla, despite building hundreds of thousands of vehicles in the state, is bound by the cap because it moved its corporate headquarters to Austin, Texas in 2021.\n\nCoverage of the program has split along framing lines — Electrek called the structure one that \"favors Rivian and Lucid over Tesla,\" while Yahoo Finance framed Tesla as \"the winner,\" since most of its current lineup already sits under the cap. The disagreement reflects a real tension: Tesla benefits today because its volume models qualify, but the cap could bite harder as pricier trims or new models arrive.\n\nThe program is expected to launch as early as this summer. California is one of Tesla's largest single markets, so shareholders will be watching both how much the switch to an instant, point-of-sale rebate lifts demand, and whether the HQ-based price cap becomes a longer-term competitive drag against California-headquartered rivals.",
+      "href": "https://www.teslarati.com/tesla-makes-the-cut-on-californias-newest-ev-rebate-program/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Teslarati",
+        "Electrek",
+        "Yahoo Finance"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -2379,32 +2405,7 @@
       "hotShort_en": "Uber-Waymo <em>Phoenix split</em> — new partner undisclosed",
       "body_en": "Uber and Alphabet's Waymo have ended their three-year Phoenix robotaxi tie-up, Bloomberg reported exclusively on June 29 — Waymo confirmed it wound down its Phoenix presence on the Uber app in May, and Uber said it is preparing to launch a separate autonomous vehicle partnership in the city with an as-yet-unannounced partner. The Uber-Waymo collaboration continues unaffected in Austin and Atlanta.",
       "summary_en": "Uber and Waymo's Phoenix partnership — a limited pilot that ran since 2023 with fewer than a dozen dedicated vehicles — quietly ended in May, with both companies confirming the split to Bloomberg on June 29. The vehicles deployed in the pilot have been reabsorbed into Waymo's own Phoenix app fleet, where they remain available to the public through Waymo One.\n\nThe most consequential detail in the Bloomberg report is Uber's statement that it is preparing to launch a separate autonomous vehicle partnership in Phoenix with a new, as-yet-unnamed partner. Uber did not disclose who that partner is, and no announcement has followed. Candidates in industry speculation include Tesla's Cybercab, Amazon's Zoox, and May Mobility. For Tesla investors, the unannounced slot is the most interesting variable: if Tesla's Cybercab becomes Uber's Phoenix AV partner, it would represent the first major platform deal connecting Tesla's robotaxi hardware to Uber's ride-demand network — a shortcut to scale that Tesla currently cannot achieve through its own app alone.\n\nUber's Waymo relationships in Austin and Atlanta are unaffected. Waymo One currently operates autonomous paid rides in five U.S. metros and has been generating more than $350 million in annualized revenues, with national expansion — San Diego, Washington D.C., and additional cities — the declared roadmap. That trajectory makes Phoenix less strategically central to Waymo now than it was in 2023, which may explain why ending the Uber arrangement was relatively painless.\n\nFor the broader robotaxi sector, the Phoenix split signals that the early partnership model — where AV developers needed ride-hailing networks as distribution rails — is maturing. Waymo now has brand recognition and app scale to compete directly with Uber in specific geographies. Tesla has always insisted on owning its robotaxi app experience. Companies best positioned for Uber's new Phoenix slot are those that still need platform distribution reach to scale — narrowing the credible candidates to the next tier of AV deployers.\n\nThe new Phoenix partner announcement — expected in coming weeks — will be a meaningful data point on where the competitive robotaxi landscape stands as the industry enters its volume deployment phase."
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-06-29T17:16:00.000Z",
-      "title": "스페이스X, 차터와 <em>이동통신 사업 진출</em> 모색 — 버라이즌·AT&T·T모바일 일제히 급락",
-      "hotShort": "스페이스X, 차터 통해 <em>모바일 사업</em> 추진 — 통신 3사 급락",
-      "body": "Bloomberg 보도를 Barron's가 확인한 바에 따르면, 스페이스X가 케이블·인터넷 사업자 차터(Charter Communications)와의 파트너십을 통해 이동통신(MVNO) 시장 진출을 모색 중이다 — 차터 주가는 당일 S&P 500 최고 상승주로 치솟은 반면 버라이즌·AT&T·T모바일 등 통신 3사는 일제히 급락했다. 스타링크 위성 커버리지와 차터 지상망을 결합하는 이 전략은 머스크 생태계의 통신 수직계열화 확장이자, 테슬라 커넥티드카 인프라와의 장기 시너지 가능성을 내포한다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-charter-mvno-telecom-2026-06-29",
-      "summary": "Barron's 보도에 따르면 스페이스X는 미국 제2위 케이블·인터넷 사업자 차터 커뮤니케이션즈(Charter Communications, CHTR)와 파트너십을 통해 미국 이동통신 서비스(MVNO 방식) 시장 진입을 검토 중이다. 핵심 구조는 스타링크 위성 직접연결(Direct-to-Cell) 기술과 차터의 유선 인프라·기존 가입자 기반을 결합하는 '위성+지상' 하이브리드 이동통신 서비스다.\n\n시장 반응은 즉각적이었다. 차터 주가는 당일 S&P 500 전체 종목 중 최고 상승률을 기록했다. 반면 버라이즌·AT&T·T모바일은 강력한 신규 경쟁자 진입 우려로 동반 급락했다. 스페이스X는 이미 T모바일과 위성 직접연결 서비스를 공동 개발해왔지만, 차터와의 이번 논의는 독자적 이동통신 사업자 진출에 가까운 더 적극적인 모델로 해석된다.\n\n테슬라 주주에게 이 소식은 복합적 함의를 갖는다. 긍정 측면: 스타링크·스페이스X 통신 확장은 테슬라 차량의 위성 기반 OTA 업데이트·차내 연결성 인프라를 강화하는 기반이 된다. 또 머스크 생태계 전반의 외연 확장과 수익 다각화는 TSLA 밸류에이션의 '생태계 프리미엄'을 높이는 방향이다. 부정 측면: 스페이스X가 이동통신이라는 새로운 대형 사업 영역에 깊게 개입할수록, 머스크의 경영 자원과 관심이 테슬라에서 더 분산될 수 있다는 우려도 커진다.\n\n스페이스X의 이동통신 진출은 위성과 지상망의 수직계열화 전략으로, 스타링크가 글로벌 저지연 커버리지를 제공하는 반면 지상 셀 네트워크는 밀집 도심에서 고밀도 커버리지를 제공한다. 두 네트워크를 하나의 서비스로 통합할 경우 기존 통신사가 따라오기 어려운 차별화된 가격·커버리지 경쟁력을 확보할 수 있어 통신 업계 판도를 뒤흔들 잠재력이 있다.",
-      "href": "https://www.barrons.com/articles/spacex-mobile-phone-stock-telecom-e603272b",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Barron's",
-        "Bloomberg"
-      ],
-      "sentiment": "neutral",
-      "hot": 7,
-      "title_en": "SpaceX explores <em>mobile phone business</em> with Charter — Verizon, AT&T, T-Mobile fall",
-      "hotShort_en": "SpaceX eyes <em>mobile business</em> via Charter — telecoms drop",
-      "body_en": "SpaceX is exploring entry into the US mobile phone market through a partnership with cable operator Charter Communications, Bloomberg and Barron's report — Charter surged to the top of the S&P 500 for the day while Verizon, AT&T, and T-Mobile all fell sharply on the competitive threat. The proposed arrangement would combine SpaceX's Starlink satellite Direct-to-Cell technology with Charter's cable infrastructure and subscriber base, adding a ground-mobile dimension to the Musk ecosystem's growing telecom footprint.",
-      "summary_en": "SpaceX is in discussions with Charter Communications — the second-largest US cable and internet provider — to explore entering the mobile phone market, Bloomberg and Barron's report. The proposed model would combine SpaceX's Starlink satellite Direct-to-Cell technology with Charter's existing cable plant and customer base to offer a hybrid satellite-ground mobile service, potentially providing coverage in areas that traditional carriers have historically been unable to reach cost-effectively.\n\nThe market reaction was swift and decisive. Charter shares became the best-performing stock in the S&P 500 for the day on the deal news. Conversely, the three incumbent wireless carriers — Verizon, AT&T, and T-Mobile — all fell sharply as investors repriced the competitive landscape to account for a potential well-capitalized new entrant backed by SpaceX's satellite network. SpaceX has already been developing satellite Direct-to-Cell services in partnership with T-Mobile, but the Charter discussions suggest a more independent and aggressive mobile market entry strategy than that existing arrangement implies.\n\nFor Tesla shareholders, the implications run in two directions. Positive: SpaceX's deeper telecom buildout strengthens the connectivity infrastructure underlying Tesla vehicles' over-the-air update delivery, in-car experiences, and eventual Cybercab fleet coordination. The broader Musk ecosystem expanding its revenue footprint into wireless services also reinforces the 'ecosystem premium' narrative that has historically supported TSLA's valuation multiple. Negative: SpaceX pursuing a major new business vertical in wireless telecommunications adds another demand on Musk's management attention at a time when Tesla's own execution priorities — Cybercab expansion, FSD commercialization, Q2 delivery momentum — are already pressing.\n\nStrategically, a Starlink-Charter hybrid mobile service would represent a meaningful structural challenge to incumbent carriers. Starlink provides global low-latency coverage; pairing it with Charter's dense ground infrastructure creates a service proposition that traditional network operators would struggle to replicate, particularly in rural and underserved markets where existing carrier coverage is thin."
     }
   ],
-  "asOf": "2026-07-14 11:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-14 19:15 KST 자동 갱신 · 최신순"
 }
