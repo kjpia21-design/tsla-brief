@@ -1,6 +1,83 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-14T13:00:00.000Z",
+      "title": "스페이스X 스타링크, 프론티어항공 확보 — <em>인디고 5개 항공사 1000대</em> 도입",
+      "hotShort": "스타링크, <em>프론티어항공</em> 등 1000대 도입",
+      "body": "스페이스X 스타링크가 프론티어항공을 신규 기내 와이파이 고객으로 확보했다 — 프론티어 모기업 인디고 파트너스 산하 <em>5개 항공사 항공기 1000대</em>에 순차 도입될 예정으로, 아마존 카이퍼와의 기내 와이파이 경쟁에서 스페이스X 우위가 재확인됐다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-frontier-starlink-2026-07-14",
+      "summary": "스페이스X의 항공기 와이파이 사업이 또 하나의 대형 고객사를 확보했다. 덴버 기반 저비용항공사 프론티어항공이 7월14일, 이르면 2027년 초부터 자사 기종에 스페이스X 스타링크를 도입하겠다고 밝혔다. 프론티어는 현재 기내 와이파이 서비스를 아예 제공하지 않고 있어, 이번 도입은 무(無)에서 유로 넘어가는 변화다.\n\n이번 계약의 배경에는 사모펀드 인디고 파트너스(대표 빌 프랭키)가 있다. 프론티어와 함께 인디고 파트너스가 투자한 멕시코 볼라리스, 유럽 저비용항공사 위즈, 칠레 젯스마트, 필리핀 세부퍼시픽까지 총 5개 항공사가 모두 스타링크를 도입하기로 했으며, 이들 항공사가 보유한 <em>항공기 1000대</em>가 대상이다.\n\n스타링크는 승객용 기내 와이파이뿐 아니라, 조종사·승무원·정비팀·지상운영팀을 위한 게이트투게이트(gate-to-gate) 연결도 제공할 예정이다. 다만 프론티어 측은 승객 요금이나 계약의 구체적 재무 조건은 공개하지 않았다.\n\n프론티어는 사우스웨스트·유나이티드에 이어 스타링크를 택한 최신 대형 항공사로, 스페이스X는 라이벌 아마존 카이퍼를 상대로 항공 와이파이 시장 고객 확보 경쟁에서 계속 앞서나가는 모습이다. 테슬라 주주 입장에서 직접적인 실적 변수는 아니지만, 일론 머스크가 이끄는 스페이스X 사업의 확장세는 최근 불거진 테슬라·스페이스X 합병 밸류에이션 논의의 배경으로 계속 참고될 만하다.",
+      "title_en": "SpaceX's Starlink lands Frontier Airlines — <em>1,000 planes</em> across 5 Indigo Partners carriers",
+      "hotShort_en": "Starlink adds Frontier, <em>1,000 planes</em> total",
+      "body_en": "SpaceX's Starlink has signed Frontier Airlines as a new in-flight Wi-Fi customer — the deal will roll out across <em>1,000 aircraft</em> at five airlines under investor Indigo Partners, reaffirming SpaceX's lead over Amazon's Kuiper in the race for airline connectivity contracts.",
+      "summary_en": "SpaceX's aviation Wi-Fi business has landed another major customer. Denver-based budget carrier Frontier Airlines announced on July 14 that it will install SpaceX's Starlink on its fleet starting as early as 2027. Frontier currently offers no in-flight Wi-Fi at all, making this a jump from nothing to full connectivity.\n\nThe deal traces back to private equity firm Indigo Partners, led by veteran airline investor Bill Franke. Alongside Frontier, four other Indigo-backed carriers — Mexico's Volaris, Europe's Wizz Air, Chile's JetSmart, and the Philippines' Cebu Pacific — are all adopting Starlink, covering roughly <em>1,000 aircraft</em> across the portfolio.\n\nBeyond passenger Wi-Fi, Starlink will also provide gate-to-gate connectivity for pilots, flight attendants, maintenance crews, and ground operations. Frontier did not disclose passenger pricing or the financial terms of the agreement.\n\nFrontier joins Southwest and United as the latest major U.S. carrier to pick Starlink, extending SpaceX's lead over rival Amazon Kuiper in signing up airline customers. It's not a direct earnings catalyst for Tesla, but Musk-led SpaceX's continued commercial momentum remains relevant background to the ongoing debate over a potential Tesla-SpaceX valuation tie-up.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-14/spacex-wins-another-airline-customer-as-frontier-picks-starlink?srnd=live-events-v2",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "CNBC",
+        "The Points Guy"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-14T12:06:49.000Z",
+      "title": "FSD v14.3.5 확산 배포 — 컴파일러 재작성으로 <em>반응속도 20% 개선</em>, 초기 체감은 엇갈려",
+      "hotShort": "FSD v14.3.5, <em>반응속도 20% 개선</em>·체감 엇갈려",
+      "body": "테슬라 FSD(Supervised) v14.3.5(소프트웨어 2026.20.6.6)가 확산 배포되며, AI 컴파일러·런타임을 MLIR로 전면 재작성해 <em>반응속도를 20% 개선</em>했다고 확인됐다 — 주행 중 카메라 미리보기 상시 열람 기능도 포함됐지만, 초기 체감은 무결점 완주 사례와 주차 중 휠스토퍼를 밟는 오작동 사례가 동시에 나와 엇갈렸다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-3-5-camera-preview-anytime-2026-07-13",
+      "summary": "7월13일 배포가 시작된 테슬라 FSD(Supervised) v14.3.5(소프트웨어 2026.20.6.6)가 확산되면서, 앞서 확인된 '주행 중 카메라 미리보기 상시 열람' 기능 외에 소프트웨어 핵심 엔진 차원의 개선점도 함께 드러났다.\n\n테슬라라티에 따르면 이번 버전은 강화학습(RL) 단계를 업그레이드하고 비전 인코더(신경망 시각 처리 모듈)를 개선했으며, AI 컴파일러·런타임을 MLIR 기반으로 전면 재작성해 <em>반응속도를 20% 앞당겼다</em>. 이 밖에도 불필요한 차선 쏠림·근접 추종(테일게이팅) 완화, 주차 공간 선택·진입 동작의 결정력 향상, 응급차량·스쿨버스·우선통행 위반 차량에 대한 대응 강화 등이 포함됐다.\n\n다만 초기 실사용 체감은 엇갈렸다. 테슬라 주행 데이터를 추적하는 테슬라스코프는 2026.20.6.6으로 기록된 첫 주행이 100% FSD로 무결점 완주됐다고 확인했다. 반대로 커뮤니티 인플루언서 월마스 캐털로그는 후진 주차 중 휠스토퍼(주차 방지턱)를 밟고 넘어가는 오작동 장면을 영상으로 공개해, 여전히 상시 감독이 필요한 엣지케이스가 남아 있음을 보여줬다.\n\n앞서 확인된 카메라 미리보기 상시 열람 기능(컨트롤 > 서비스 > Camera Preview 경로, 이전엔 주차 상태에서만 가능)도 이번 v14.3.5에 포함돼 있다. 배포는 AI4 탑재 차량 중심으로 시작됐고, 모델S 등 다른 모델로도 2차 순차 확대가 진행 중이다.\n\n테슬라 주주 입장에서 직접적 실적 변수는 아니지만, 컴파일러 재작성 같은 엔진 차원의 개선이 실제 안전성·신뢰성으로 얼마나 이어지는지는 로보택시 상업 확장 속도를 가늠하는 참고 지표다. 7월22일 2분기 실적발표에서 관련 진행 상황이 추가로 공유될 가능성이 있다.",
+      "title_en": "FSD v14.3.5 rolls out wider — compiler rewrite delivers <em>20% faster reaction time</em>, early feedback mixed",
+      "hotShort_en": "FSD v14.3.5: <em>20% faster reactions</em>, mixed reviews",
+      "body_en": "As Tesla's FSD (Supervised) v14.3.5 (software 2026.20.6.6) rolls out more broadly, Teslarati confirmed the update rewrote Tesla's AI compiler and runtime in MLIR, delivering a <em>20% faster reaction time</em> — but early real-world feedback is mixed, with reports of both flawless completed drives and a parking maneuver that ran over a wheel stopper.",
+      "summary_en": "Tesla's FSD (Supervised) v14.3.5 (software 2026.20.6.6), which began rolling out July 13, is now spreading wider — and beyond the previously confirmed \"Camera Preview available while driving\" feature, deeper engine-level changes have come to light.\n\nAccording to Teslarati, the update upgrades the reinforcement-learning stage and improves the neural-network vision encoder, and rewrites Tesla's AI compiler and runtime from the ground up in MLIR, cutting reaction time by <em>20%</em>. Other changes include mitigations for unnecessary lane biasing and tailgating, more decisive parking-spot selection and maneuvering, and stronger responses to emergency vehicles, school buses, and right-of-way violators.\n\nEarly real-world feedback has been mixed, though. Teslascope, which tracks Tesla driving data, confirmed its first recorded drive on 2026.20.6.6 was completed 100% on FSD with no interventions. On the other hand, community influencer Whole Mars Catalog posted footage of the system misjudging a reverse-parking maneuver and driving over a wheel stopper — a reminder that edge cases still demand active supervision.\n\nThe previously confirmed Camera Preview feature — accessible anytime via Controls > Service > Camera Preview, versus only in Park before — is also part of this v14.3.5 release. The rollout began with AI4-equipped vehicles, with a second wave extending to other models including the Model S.\n\nIt's not a direct earnings catalyst for shareholders, but how much engine-level work like the compiler rewrite translates into real safety and reliability gains is a useful proxy for how fast Tesla's robotaxi commercialization can scale. More detail may surface at the July 22 Q2 earnings call.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Teslarati",
+        "Not a Tesla App",
+        "Sawyer Merritt (X)"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-14T12:00:00.000Z",
+      "title": "바클레이스, 테슬라 목표주가 $370로 상향 — 상향 랠리에도 <em>주가는 되레 하락</em>",
+      "hotShort": "목표주가 3연속 상향에도 <em>주가는 하락</em>",
+      "body": "바클레이스가 테슬라 목표주가를 $360에서 $370로 상향(등급 '동일비중' 유지)했다 — RBC($500)·UBS($442)에 이은 최근 일주일새 세 번째 상향이지만, 테슬라 주가는 7월13일 종가 $394.76(<em>전일比 -3.19%</em>)으로 마감해 목표주가 랠리와 실제 주가 흐름이 엇갈렸다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-barclays-pt-370-2026-07-14",
+      "summary": "바클레이스가 7월14일 발표한 리서치 노트에서 테슬라(TSLA) 목표주가를 종전 $360에서 $370로 올렸다. 투자의견은 '동일비중(Equal Weight)'을 그대로 유지했다.\n\n이번 상향은 최근 일주일 새 나온 세 번째 목표주가 상향이다. 앞서 7월7일 RBC캐피털은 스페이스X와의 잠재적 합병 프리미엄을 반영해 목표주가를 $475에서 $500로, 7월9일 UBS는 로보틱스·피지컬AI 사업 재평가를 근거로 $364에서 $442로 각각 상향한 바 있다. 세 기관 모두 방향은 상향이지만, 로보택시·옵티머스·잠재적 스페이스X 결합 등 신사업 스토리에 무게를 싣는 배경은 조금씩 다르다.\n\n문제는 목표주가 상향 행진이 실제 주가에는 아직 반영되지 않고 있다는 점이다. 테슬라 주가는 7월13일 정규장에서 전일 대비 <em>-3.19% 하락한 $394.76</em>으로 마감했다 — 이는 이번 주 나온 세 개 목표주가($370·$442·$500) 중 가장 낮은 바클레이스의 $370에도 못 미치는 수준이다.\n\n애널리스트들의 낙관과 실제 주가 흐름 사이의 괴리는, 로보택시·옵티머스 등 신사업 가치가 아직 시장에서 충분히 반영되지 않았다는 뜻으로도, 혹은 밸류에이션에 대한 시장의 신중함이 여전하다는 뜻으로도 읽힐 수 있다. 오는 7월22일 2분기 실적발표에서 마진·신사업 진행 상황이 확인되면, 이 괴리가 좁혀질지 판가름날 전망이다.",
+      "title_en": "Barclays lifts Tesla price target to <em>$370</em> — but the stock fell anyway",
+      "hotShort_en": "3rd target hike this week, <em>stock still fell</em>",
+      "body_en": "Barclays raised its Tesla price target from $360 to $370 (keeping an Equal Weight rating) — the third target hike in a week after RBC's $500 and UBS's $442 — yet Tesla shares closed July 13 at $394.76, <em>down 3.19%</em>, showing the target-price rally hasn't yet shown up in the stock itself.",
+      "summary_en": "Barclays raised its Tesla (TSLA) price target from $360 to $370 in a research note issued July 14, while keeping its Equal Weight rating unchanged.\n\nIt's the third price-target increase on Tesla in about a week. RBC Capital raised its target from $475 to $500 on July 7, citing a premium tied to a potential SpaceX merger scenario, while UBS raised its target from $364 to $442 on July 9, citing a re-rating of Tesla's robotics and physical-AI business. All three moved higher, though each firm leans on a somewhat different piece of the new-business story — Robotaxi, Optimus, or a SpaceX tie-up.\n\nThe catch is that the price-target rally hasn't shown up in the stock yet. Tesla shares closed the regular session on July 13 at <em>$394.76, down 3.19%</em> from the prior close — below even Barclays' $370 target, the most conservative of this week's three.\n\nThe gap between analyst optimism and the stock's actual path can be read either as new-business value not yet being priced in, or as the market staying cautious on valuation. Whether that gap narrows will likely hinge on the margin and new-business updates due at Tesla's Q2 earnings call on July 22.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-target-0e4899ed",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barron's",
+        "MarketScreener"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "just now",
@@ -18,7 +95,11 @@
       "summary_en": "California Governor Gavin Newsom signed SB 168 on July 13, creating the 'MyFirstEV' program. It gives first-time buyers a $3,500 instant discount on new EVs priced under $50,000, and $1,750 on used EVs under $25,000. The pool is funded roughly 50/50 by the state and participating automakers — about $135.5 million each, for a combined $270 million. Unlike the older application-based Clean Vehicle Rebate Project (CVRP), this is a point-of-sale discount applied right at the dealership, with no paperwork or waiting.\n\nTesla's Model 3 RWD ($42,490) and Long Range ($47,490), along with the Model Y (starting at $44,990 after a recent price adjustment), all fall under the $50,000 cap and qualify. But that price ceiling doesn't apply to California-headquartered automakers — Rivian and Lucid qualify regardless of price, while Tesla, despite building hundreds of thousands of vehicles in the state, is bound by the cap because it moved its corporate headquarters to Austin, Texas in 2021.\n\nCoverage of the program has split along framing lines — Electrek called the structure one that \"favors Rivian and Lucid over Tesla,\" while Yahoo Finance framed Tesla as \"the winner,\" since most of its current lineup already sits under the cap. The disagreement reflects a real tension: Tesla benefits today because its volume models qualify, but the cap could bite harder as pricier trims or new models arrive.\n\nThe program is expected to launch as early as this summer. California is one of Tesla's largest single markets, so shareholders will be watching both how much the switch to an instant, point-of-sale rebate lifts demand, and whether the HQ-based price cap becomes a longer-term competitive drag against California-headquartered rivals.",
       "href": "https://www.teslarati.com/tesla-makes-the-cut-on-californias-newest-ev-rebate-program/",
       "confirmedBy": 3,
-      "confirmingSources": ["Teslarati", "Electrek", "Yahoo Finance"],
+      "confirmingSources": [
+        "Teslarati",
+        "Electrek",
+        "Yahoo Finance"
+      ],
       "sentiment": "neutral",
       "hot": 4
     },
@@ -49,51 +130,6 @@
       "hot": 4
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-13T17:57:55.000Z",
-      "title": "테슬라 정책자문관 \"<em>휠체어 전용 자율주행차</em> 개발 중\" — 시기·차종은 비공개",
-      "hotShort": "테슬라, <em>휠체어 전용 자율차</em> 개발 확인",
-      "body": "테슬라 정책자문관이 7월13일 워싱턴DC 의회에서 <em>휠체어 이용자 전용으로 설계된 자율주행차</em>를 개발 중이라고 밝혔다 — 다만 구체적 차종·출시 시기는 밝히지 않아, 기존 사이버캡과 별개 프로젝트인지는 불분명하다. 로보택시 접근성 확대 의지를 시사하는 발언.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-wheelchair-accessible-robotaxi-2026-07-13",
-      "summary": "테슬라의 접근성 로드맵에 새로운 단서가 나왔다. 7월13일(현지시간) 워싱턴DC 의회 브리핑 자리에서 테슬라 정책자문관이 회사가 휠체어 이용자를 위한 맞춤 설계 자율주행차를 개발 중이라고 밝혔다.\n\n다만 발언은 원론적 수준에 머물렀다 — 구체적인 차량 형태, 출시 시점, 심지어 기존 사이버캡·모델Y 기반 로보택시와의 관계조차 공개되지 않았다. 전자전기 매체 일렉트렉은 이를 두고 '차량도, 시기도, 세부사항도 없다'고 지적하며 실체가 아직 뚜렷하지 않다고 짚었다.\n\n테슬라는 앞서 7월 초 오스틴 전미시각장애인연맹(NFB) 총회에서 사이버캡의 접근성 기능(점자 표기, 보조기구 공간, 휠체어 높이 좌석 등)을 시연한 바 있다. 이번 발언이 그 기존 사이버캡의 연장선인지, 아니면 별도의 전용 차종을 뜻하는지는 확인되지 않는다.\n\n로보택시 사업이 텍사스·플로리다 등에서 확장되는 가운데, 장애인 접근성은 지방정부·규제당국 승인 심사에서 자주 거론되는 요소다. 구체안이 나오기 전까지는 원론적 발언에 그치지만, 테슬라가 이 이슈를 의회 앞에서 공개적으로 언급했다는 점 자체가 접근성 이슈에 대한 대응 신호로 읽힐 수 있다.",
-      "title_en": "Tesla confirms it's developing a <em>purpose-built, wheelchair-accessible</em> robotaxi",
-      "hotShort_en": "Tesla confirms <em>wheelchair-accessible</em> AV plan",
-      "body_en": "A Tesla policy advisor told lawmakers in Washington, DC on July 13 that the company is building a <em>purpose-built, wheelchair-accessible autonomous vehicle</em> — though no timeline, vehicle name, or other details were given, leaving it unclear whether this is separate from Cybercab.",
-      "summary_en": "Tesla's accessibility roadmap picked up a new data point this week. At a congressional briefing in Washington, DC on July 13, a Tesla policy advisor told lawmakers the company is developing a purpose-built, wheelchair-accessible autonomous vehicle.\n\nThe comment stayed at a high level, though — no vehicle design, launch timeline, or even clarity on whether this is separate from the existing Cybercab was offered. Electrek noted the claim came with \"no vehicle, no timeline, and no details.\"\n\nTesla had earlier shown off Cybercab's accessibility features — Braille markings, space for service animals, wheelchair-height seating — at the National Federation of the Blind's Austin convention in early July. Whether this new comment refers to that same vehicle or a distinct model remains unclear.\n\nAs Tesla's robotaxi business expands in Texas, Florida and beyond, disability accessibility is a recurring theme in regulatory and local approval reviews. Until concrete specs emerge, this is mostly a statement of intent — but raising it publicly before Congress signals Tesla is aware the issue is on regulators' radar.",
-      "href": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi/",
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-13T15:49:07.000Z",
-      "title": "테슬라 세미, 시카고서 새 플릿 확보 — Paper Transport <em>정례 운행 평가</em> 착수",
-      "hotShort": "테슬라 세미, 시카고서 <em>새 플릿 파일럿</em> 시작",
-      "body": "위스콘신 물류사 Paper Transport(PTI)가 테슬라 세미 롱레인지(1회 충전 500마일)를 시카고 정례 노선에 투입해 <em>평가 파일럿</em>을 시작했다 — 대당 $20만 주정부 보조금에 힘입어 몰려 있던 캘리포니아 중심 확산이, 인센티브 없는 중서부 시장으로도 번지고 있다는 신호.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-tesla-semi-paper-transport-chicago-2026-07-13",
-      "summary": "테슬라 세미의 상용 확산이 캘리포니아를 넘어 중서부로 번지고 있다. 위스콘신 소재 물류업체 Paper Transport(PTI)가 시카고 지역 정례 노선에 테슬라 세미 롱레인지를 투입해 평가에 들어갔다고 7월13일 밝혔다.\n\nPTI가 시험하는 모델은 1회 충전 500마일(약 805km)을 주행하는 롱레인지 트림이다 — 800kW급 트라이모터 구동계로 최고출력 1,072마력을 내며, 1.2MW급 메가차저로 30분 만에 배터리 60%를 충전할 수 있다. PTI는 정해진 노선·일정한 주행거리라는 '정례 운행' 모델이 전기트럭 성능을 검증하기에 이상적인 환경이라고 설명했다.\n\nPTI는 압축·재생천연가스(CNG/RNG) 차량으로 8,700만 마일 이상을 운행해온 15년 지속가능성 사업 이력을 가진 업체다 — 이번 테슬라 세미 평가는 그 친환경 전환 전략의 다음 단계다.\n\n지금까지 테슬라 세미 초기 물량은 대부분 캘리포니아에 몰려 있었다 — 주정부의 대당 $20만 보조금이 1,000건 넘는 주문을 견인했기 때문이다. 인센티브가 없는 중서부 시장에서의 이번 평가는 세미의 경제성이 보조금 없이도 통하는지 가늠하는 시험대가 될 전망이다.",
-      "title_en": "Tesla Semi lands a new Chicago fleet as Paper Transport <em>begins dedicated-route pilot</em>",
-      "hotShort_en": "Tesla Semi <em>starts Chicago pilot</em> with new fleet",
-      "body_en": "Wisconsin carrier Paper Transport (PTI) has begun evaluating the Tesla Semi Long Range (500-mile range) on dedicated Chicago routes — a sign Semi adoption is spreading beyond California, where a $200K state voucher has driven most orders so far.",
-      "summary_en": "Tesla Semi's commercial footprint is spreading beyond California into the Midwest. Wisconsin-based carrier Paper Transport (PTI) announced on July 13 that it has begun evaluating the Tesla Semi Long Range on dedicated routes in the Chicago market.\n\nThe trim PTI is testing is the Long Range version, rated for 500 miles per charge. It uses an 800-kW tri-motor drivetrain producing 1,072 hp, and supports 1.2-MW Megacharger speeds that restore 60% of range in about 30 minutes. PTI said its dedicated-route model — predictable routes and consistent mileage — is an ideal environment for assessing battery-electric performance.\n\nPTI has logged more than 87 million miles running on compressed and renewable natural gas as part of a sustainability push spanning more than 15 years, and this Tesla Semi evaluation extends that strategy.\n\nMost early Tesla Semi activity has clustered in California, where a $200,000 state voucher has driven over 1,000 orders. This incentive-free Midwest evaluation will be a test of whether the Semi's economics hold up without that kind of subsidy.",
-      "href": "https://electrek.co/2026/07/13/paper-transport-tesla-semi-chicago-pilot/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Sawyer Merritt (X)"
-      ],
-      "sentiment": "bull",
-      "hot": 4
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "just now",
@@ -117,32 +153,6 @@
       ],
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-13T13:59:16.000Z",
-      "title": "스페이스X, 스타십 13차 시험비행 <em>7월16일</em>로 확정 — 12차 엔진 이상 원인도 공개",
-      "hotShort": "스페이스X, 스타십 13차 발사 <em>7월16일</em> 확정",
-      "body": "스페이스X가 스타십 13차 시험비행을 7월16일(현지시간 오후 6시45분, 텍사스 스타베이스)로 확정하고, 직전 12차 비행에서 나타난 상단부 엔진 정지(엔진-아웃) 문제의 원인과 개선 조치를 함께 공개했다 — 재사용 로켓 신뢰성이 쌓일수록 일론 머스크가 그리는 화성 이주·스타링크 확장 청사진에 힘이 실린다.",
-      "sourceName": "Space.com",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-starship-flight13-july16-2026-07-13",
-      "summary": "스페이스X가 13번째 스타십 통합시험비행을 7월16일(현지시간 오후 6시45분, 90분 발사창)로 확정했다. 발사 장소는 텍사스 스타베이스다.\n\n이번 비행에서는 스타링크 V3 위성 20기를 실제로 궤도에 올려 태양전지판·안테나를 전개하고, 남아공 지상국 및 다른 위성들과 통신을 시도한다. 20기 중 6기에는 카메라를 탑재해 스타십 열차폐 상태를 비행 중 촬영·전송한다.\n\n부스터(부스터20)는 점화 순서를 타이밍 편차에 견디도록 개선했고, 재점화 신뢰성을 높이는 하드웨어 변경과 엔진 경보·중단(어보트) 로직도 업데이트했다. 상단부 추진 시스템은 직전 12차 비행에서 나타난 엔진 정지(엔진-아웃) 문제를 해결하기 위한 수정을 반영했다.\n\n열차폐 시험도 강화됐다 — 누락된 타일 자리를 대신할 흰색 타일을 촬영 기준점으로 부착했고, 재진입 시 실시간 응력을 기록하는 하중센서 타일도 탑재된다. 후미 플랩·스커트 부위에는 새로운 타일 설계·부착 방식을 시험한다.\n\n스페이스X는 스타십을 통해 스타링크 대량 발사와 궤도급 로켓의 완전 재사용을 증명하려 하며, 이는 일론 머스크가 강조해온 화성 이주 로드맵의 핵심 전제다.",
-      "title_en": "SpaceX confirms Starship Flight 13 for <em>July 16</em>, discloses cause of Flight 12 engine issue",
-      "hotShort_en": "SpaceX targets <em>July 16</em> for Starship 13",
-      "body_en": "SpaceX has set July 16 (6:45pm ET, Starbase, Texas) for its 13th Starship test flight and disclosed what caused the upper-stage engine-out issue on Flight 12 — as reusable-rocket reliability builds, it strengthens the case for Elon Musk's Mars and Starlink expansion roadmap.",
-      "summary_en": "SpaceX has confirmed July 16 (6:45pm ET, a 90-minute window) for its 13th integrated Starship test flight, launching from Starbase, Texas.\n\nThe flight will deploy 20 working Starlink V3 satellites, which are expected to extend their solar arrays and antennas and attempt to link with a ground station in South Africa and with other satellites in the constellation. Six of the 20 satellites carry camera suites to image Starship's heat shield in flight.\n\nBooster 20 carries a revised startup sequence to tolerate timing variability and flip more reliably, plus hardware changes to improve relight reliability and updated engine alarms and abort logic. Upper-stage propulsion modifications address the engine-out issue experienced on Flight 12.\n\nHeat-shield testing has also been expanded — several tiles have been painted white to stand in for missing ones and serve as imaging targets, while load-sensing tiles will record real-time stress during reentry. New tile designs and attachment methods are being tested on the aft flaps and skirts.\n\nSpaceX is using Starship to prove out mass Starlink deployment and full reuse of an orbital-class rocket — a core premise of the Mars colonization roadmap Musk has long emphasized.",
-      "href": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-16-for-starship-flight-13-reveals-what-went-wrong-on-previous-launch",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Space.com",
-        "SpaceNews",
-        "The Register"
-      ],
-      "sentiment": "neutral",
-      "hot": 3
     },
     {
       "category": "musk",
@@ -196,5 +206,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-14 19:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-15 00:08 KST 자동 갱신 · 최신순"
 }
