@@ -4,6 +4,32 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
+      "pubDate": "2026-07-14T02:42:27.000Z",
+      "title": "테슬라 FSD v14, 커뮤니티 핵심 인플루언서 3명 <em>\"사실상 무개입\"</em> 체험담 잇따라",
+      "hotShort": "FSD v14, 인플루언서 3명 <em>\"무개입 주행\"</em> 체험담",
+      "body": "월마스·잭(BLKMDL3)·닉 크루즈 파테인 등 테슬라 커뮤니티 핵심 인플루언서 3명이 하루 사이 각자 독립적으로 FSD v14 계열(v14.3.5·v14 Lite·HW4)의 <em>사실상 무개입 주행</em>을 보고했다 — 주차장~주차장 원탭 주행, LA~샌디에이고 무개입 완주 등. 로보택시 상업화를 앞두고 소프트웨어 성숙도를 보여주는 신호로 주목된다.",
+      "sourceName": "Whole Mars (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-zero-intervention-influencer-consensus-2026-07-14",
+      "summary": "테슬라 FSD 소프트웨어의 실제 체감 성능을 둘러싼 커뮤니티 반응이 7월13일 하루 사이 눈에 띄게 몰렸다. 사이트가 추적하는 핵심 인플루언서 6명 중 절반인 3명이 각각 독립적으로 FSD v14 계열의 '사실상 무개입' 주행 경험을 X에 올렸다.\n\n가장 상세한 사례는 월마스 캐털로그(Whole Mars)다. 그는 FSD v14.3.5로 <em>주차장에서 주차장까지 화면 탭 한 번</em>으로 이동했다고 전했다 — 출발지·목적지 모두 실내 주차 구조물이라는 점에서 저속·근접 장애물이 많은 까다로운 구간까지 소화했다는 의미다. 잭(BLKMDL3)은 FSD v14 Lite로 <em>LA~샌디에이고 구간을 무개입으로 완주</em>했고, 슈퍼차저 주차까지 매끄러웠다고 밝혔다. 닉 크루즈 파테인은 HW4 탑재 차량의 FSD v14가 \"일부 구간에서 문자 그대로 무감독처럼 느껴진다\"며, 개입 경고(내그)가 눈에 띄게 완화됐다고 전했다.\n\n세 사례 모두 회사 공식 통계나 안전성 지표가 아닌 개인 체험담이라는 한계는 있다. 다만 서로 다른 세 명이 같은 날 독립적으로 비슷한 결론에 도달했다는 점은, v14 브랜치의 반복 개선이 실사용 체감으로 이어지고 있다는 정황 신호로 볼 만하다.\n\n테슬라는 오는 7월22일 2분기 실적발표에서 로보택시·FSD 진행 상황을 업데이트할 예정이다. 소프트웨어 완성도가 오르고 있다는 이번 커뮤니티 신호는, 무인 로보택시 확장 속도를 가늠하는 참고 지표로 주주들이 주목할 만하다.",
+      "title_en": "Tesla FSD v14: <em>three</em> top community voices report near-zero-intervention drives in one day",
+      "hotShort_en": "FSD v14 owners report <em>near-zero interventions</em>",
+      "body_en": "Whole Mars, Zack (BLKMDL3) and Nic Cruz Patane — three of the six influencers this site tracks — independently posted <em>near-unsupervised</em> FSD v14 experiences the same day: a one-tap parking-garage-to-parking-garage drive, a zero-intervention LA-to-San-Diego run, and an HW4 car that \"feels unsupervised\" with a much lighter nag. It's an anecdotal signal of software maturity ahead of Tesla's robotaxi push.",
+      "summary_en": "Community chatter about Tesla FSD's real-world feel bunched up noticeably on July 13. Three of the six influencers this site tracks independently posted \"near-unsupervised\" experiences with the FSD v14 family the same day.\n\nThe most detailed account came from Whole Mars Catalog, who said FSD v14.3.5 took him <em>from parking garage to parking garage with a single tap</em> — notable since both ends involve tight, low-speed indoor structures full of close obstacles. Zack (BLKMDL3) said FSD v14 Lite drove him <em>from LA to San Diego with zero interventions</em>, parking cleanly at the Supercharger. Nic Cruz Patane said FSD v14 on an HW4 car \"literally feels unsupervised in some ways,\" with the intervention nag noticeably relaxed.\n\nAll three are personal anecdotes, not official company statistics or safety metrics. Still, three different people independently reaching similar conclusions on the same day is a circumstantial signal that the v14 branch's iterative improvements are showing up in real-world use.\n\nTesla is set to update investors on Robotaxi and FSD progress at its Q2 earnings call on July 22. This community signal of rising software maturity is one data point shareholders may watch as a proxy for how fast the driverless Robotaxi rollout can scale.",
+      "href": "https://x.com/wholemars/status/2076859844649463892",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Whole Mars Catalog (X)",
+        "Zack / BLKMDL3 (X)",
+        "Nic Cruz Patane (X)"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
       "pubDate": "2026-07-13T22:23:26.000Z",
       "title": "테슬라 FSD v14.3.5 배포 시작 — 주행 중에도 <em>카메라 미리보기 상시 확인</em> 가능",
       "hotShort": "FSD v14.3.5, 주행 중 <em>카메라 미리보기</em> 지원",
@@ -148,26 +174,6 @@
       "hot": 5
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-13T10:48:46.000Z",
-      "title": "게리 블랙 \"스페이스X 주가, <em>IPO가 $135 밑으로</em> 떨어질 수도\" — 내부자 락업 해제 겨냥",
-      "hotShort": "게리 블랙, 스페이스X 주가 <em>IPO가 하회</em> 경고",
-      "body": "베테랑 애널리스트 게리 블랙이 스페이스X 주가가 조만간 IPO 공모가 $135를 밑돌 수 있다고 경고했다 — 2분기 실적 발표 후 내부자(머스크 제외) 지분 최대 20% 매도가 풀리는 락업 해제 일정이 매물 압력의 핵심 근거다.",
-      "sourceName": "Benzinga",
-      "sourceLabel": "press",
-      "slug": "musk-gary-black-spacex-below-ipo-price-2026-07-13",
-      "summary": "스페이스X 주가에 대한 회의론을 이어온 게리 블랙(전 퍼시픽 자산운용 CIO)이 이번엔 구체적인 매물 폭탄 시나리오를 제시했다. 그는 IPO 공모가인 $135 밑으로 주가가 조만간 떨어질 수 있다고 경고했다.\n\n근거는 내부자 지분 락업 해제 일정이다. 2분기 실적 발표 직후 머스크를 제외한 내부자들이 보유 지분의 최대 20%까지 매도가 가능해지고, 이후 상장 70일·90일·105일·120일·135일째마다 추가로 7%씩 매도 가능 물량이 풀린다. 3분기 실적 발표 후에는 다시 28%가 추가로 해제된다 — 상장 초기 몇 달간 계속해서 대규모 매물이 시장에 나올 수 있는 구조다.\n\n블랙은 앞서에도 스페이스X 밸류에이션에 지속적으로 의문을 제기해왔다 — 2026년 EV/EBITDA 기준 150배는 투자자가 지불하기엔 과도하다는 입장이다. 본인도 스페이스X 주식을 전혀 보유하고 있지 않다고 밝히며, 커뮤니티의 강세 분위기와 대비되는 자신의 회의적 시각을 강조했다.\n\n월가 시각은 극단적으로 엇갈린다. JP모건은 목표주가 $225를, 모건스탠리는 강세 시나리오로 $300을 각각 제시한 상태다 — 블랙의 경고와 정반대편에 있는 셈이다. 테슬라 주주 입장에서는 직접적인 TSLA 실적 변수는 아니지만, 테슬라·스페이스X 합병설이 여전히 거론되는 가운데 스페이스X 밸류에이션을 둘러싼 불확실성이 커지고 있다는 신호로 볼 만하다.",
-      "title_en": "Gary Black warns SpaceX stock could <em>fall below its $135 IPO price</em> as insider lockups unwind",
-      "hotShort_en": "Gary Black: SpaceX stock <em>could dip below IPO price</em>",
-      "body_en": "Veteran analyst Gary Black warned SpaceX shares could soon trade below their $135 IPO price — pointing to a lockup schedule that lets insiders (excluding Musk) sell up to 20% of their stakes right after the Q2 earnings call, with more unlocking in stages after that.",
-      "summary_en": "Gary Black, a longtime SpaceX valuation skeptic, has laid out a concrete scenario for why the stock could soon slip below its $135 IPO price.\n\nThe trigger is the insider lockup schedule. Right after SpaceX's Q2 earnings call, insiders excluding Musk can sell up to 20% of their holdings. More unlocks follow at the 70th, 90th, 105th, 120th and 135th days after the IPO, each freeing up another 7% — and another 28% unlocks after the Q3 earnings call. That structure means waves of potential selling pressure could keep hitting the stock for months after listing.\n\nBlack has repeatedly questioned SpaceX's valuation, arguing investors shouldn't be paying roughly 150x 2026 EV/EBITDA for the company. He said he holds no SPCX position himself, underscoring how far his skepticism runs against the bullish sentiment elsewhere.\n\nWall Street's targets span a wide range — JPMorgan has set a $225 price target while Morgan Stanley's bull case reaches $300, both well above Black's bearish call. For Tesla shareholders, this isn't a direct TSLA earnings signal, but it adds to the uncertainty around SpaceX's valuation just as Tesla-SpaceX merger speculation continues to circulate.",
-      "href": "https://www.benzinga.com/news/space/26/07/60408883/gary-black-thinks-spacex-stock-could-soon-trade-below-its-ipo-price-heres-why",
-      "sentiment": "bear",
-      "hot": 3
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -194,5 +200,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-14 07:59 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-14 11:50 KST 자동 갱신 · 최신순"
 }

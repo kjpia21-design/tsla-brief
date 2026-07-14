@@ -4,6 +4,32 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
+      "pubDate": "2026-07-14T02:42:27.000Z",
+      "title": "테슬라 FSD v14, 커뮤니티 핵심 인플루언서 3명 <em>\"사실상 무개입\"</em> 체험담 잇따라",
+      "hotShort": "FSD v14, 인플루언서 3명 <em>\"무개입 주행\"</em> 체험담",
+      "body": "월마스·잭(BLKMDL3)·닉 크루즈 파테인 등 테슬라 커뮤니티 핵심 인플루언서 3명이 하루 사이 각자 독립적으로 FSD v14 계열(v14.3.5·v14 Lite·HW4)의 <em>사실상 무개입 주행</em>을 보고했다 — 주차장~주차장 원탭 주행, LA~샌디에이고 무개입 완주 등. 로보택시 상업화를 앞두고 소프트웨어 성숙도를 보여주는 신호로 주목된다.",
+      "sourceName": "Whole Mars (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-zero-intervention-influencer-consensus-2026-07-14",
+      "summary": "테슬라 FSD 소프트웨어의 실제 체감 성능을 둘러싼 커뮤니티 반응이 7월13일 하루 사이 눈에 띄게 몰렸다. 사이트가 추적하는 핵심 인플루언서 6명 중 절반인 3명이 각각 독립적으로 FSD v14 계열의 '사실상 무개입' 주행 경험을 X에 올렸다.\n\n가장 상세한 사례는 월마스 캐털로그(Whole Mars)다. 그는 FSD v14.3.5로 <em>주차장에서 주차장까지 화면 탭 한 번</em>으로 이동했다고 전했다 — 출발지·목적지 모두 실내 주차 구조물이라는 점에서 저속·근접 장애물이 많은 까다로운 구간까지 소화했다는 의미다. 잭(BLKMDL3)은 FSD v14 Lite로 <em>LA~샌디에이고 구간을 무개입으로 완주</em>했고, 슈퍼차저 주차까지 매끄러웠다고 밝혔다. 닉 크루즈 파테인은 HW4 탑재 차량의 FSD v14가 \"일부 구간에서 문자 그대로 무감독처럼 느껴진다\"며, 개입 경고(내그)가 눈에 띄게 완화됐다고 전했다.\n\n세 사례 모두 회사 공식 통계나 안전성 지표가 아닌 개인 체험담이라는 한계는 있다. 다만 서로 다른 세 명이 같은 날 독립적으로 비슷한 결론에 도달했다는 점은, v14 브랜치의 반복 개선이 실사용 체감으로 이어지고 있다는 정황 신호로 볼 만하다.\n\n테슬라는 오는 7월22일 2분기 실적발표에서 로보택시·FSD 진행 상황을 업데이트할 예정이다. 소프트웨어 완성도가 오르고 있다는 이번 커뮤니티 신호는, 무인 로보택시 확장 속도를 가늠하는 참고 지표로 주주들이 주목할 만하다.",
+      "title_en": "Tesla FSD v14: <em>three</em> top community voices report near-zero-intervention drives in one day",
+      "hotShort_en": "FSD v14 owners report <em>near-zero interventions</em>",
+      "body_en": "Whole Mars, Zack (BLKMDL3) and Nic Cruz Patane — three of the six influencers this site tracks — independently posted <em>near-unsupervised</em> FSD v14 experiences the same day: a one-tap parking-garage-to-parking-garage drive, a zero-intervention LA-to-San-Diego run, and an HW4 car that \"feels unsupervised\" with a much lighter nag. It's an anecdotal signal of software maturity ahead of Tesla's robotaxi push.",
+      "summary_en": "Community chatter about Tesla FSD's real-world feel bunched up noticeably on July 13. Three of the six influencers this site tracks independently posted \"near-unsupervised\" experiences with the FSD v14 family the same day.\n\nThe most detailed account came from Whole Mars Catalog, who said FSD v14.3.5 took him <em>from parking garage to parking garage with a single tap</em> — notable since both ends involve tight, low-speed indoor structures full of close obstacles. Zack (BLKMDL3) said FSD v14 Lite drove him <em>from LA to San Diego with zero interventions</em>, parking cleanly at the Supercharger. Nic Cruz Patane said FSD v14 on an HW4 car \"literally feels unsupervised in some ways,\" with the intervention nag noticeably relaxed.\n\nAll three are personal anecdotes, not official company statistics or safety metrics. Still, three different people independently reaching similar conclusions on the same day is a circumstantial signal that the v14 branch's iterative improvements are showing up in real-world use.\n\nTesla is set to update investors on Robotaxi and FSD progress at its Q2 earnings call on July 22. This community signal of rising software maturity is one data point shareholders may watch as a proxy for how fast the driverless Robotaxi rollout can scale.",
+      "href": "https://x.com/wholemars/status/2076859844649463892",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Whole Mars Catalog (X)",
+        "Zack / BLKMDL3 (X)",
+        "Nic Cruz Patane (X)"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
       "pubDate": "2026-07-13T22:23:26.000Z",
       "title": "테슬라 FSD v14.3.5 배포 시작 — 주행 중에도 <em>카메라 미리보기 상시 확인</em> 가능",
       "hotShort": "FSD v14.3.5, 주행 중 <em>카메라 미리보기</em> 지원",
@@ -2378,32 +2404,7 @@
       "hotShort_en": "SpaceX eyes <em>mobile business</em> via Charter — telecoms drop",
       "body_en": "SpaceX is exploring entry into the US mobile phone market through a partnership with cable operator Charter Communications, Bloomberg and Barron's report — Charter surged to the top of the S&P 500 for the day while Verizon, AT&T, and T-Mobile all fell sharply on the competitive threat. The proposed arrangement would combine SpaceX's Starlink satellite Direct-to-Cell technology with Charter's cable infrastructure and subscriber base, adding a ground-mobile dimension to the Musk ecosystem's growing telecom footprint.",
       "summary_en": "SpaceX is in discussions with Charter Communications — the second-largest US cable and internet provider — to explore entering the mobile phone market, Bloomberg and Barron's report. The proposed model would combine SpaceX's Starlink satellite Direct-to-Cell technology with Charter's existing cable plant and customer base to offer a hybrid satellite-ground mobile service, potentially providing coverage in areas that traditional carriers have historically been unable to reach cost-effectively.\n\nThe market reaction was swift and decisive. Charter shares became the best-performing stock in the S&P 500 for the day on the deal news. Conversely, the three incumbent wireless carriers — Verizon, AT&T, and T-Mobile — all fell sharply as investors repriced the competitive landscape to account for a potential well-capitalized new entrant backed by SpaceX's satellite network. SpaceX has already been developing satellite Direct-to-Cell services in partnership with T-Mobile, but the Charter discussions suggest a more independent and aggressive mobile market entry strategy than that existing arrangement implies.\n\nFor Tesla shareholders, the implications run in two directions. Positive: SpaceX's deeper telecom buildout strengthens the connectivity infrastructure underlying Tesla vehicles' over-the-air update delivery, in-car experiences, and eventual Cybercab fleet coordination. The broader Musk ecosystem expanding its revenue footprint into wireless services also reinforces the 'ecosystem premium' narrative that has historically supported TSLA's valuation multiple. Negative: SpaceX pursuing a major new business vertical in wireless telecommunications adds another demand on Musk's management attention at a time when Tesla's own execution priorities — Cybercab expansion, FSD commercialization, Q2 delivery momentum — are already pressing.\n\nStrategically, a Starlink-Charter hybrid mobile service would represent a meaningful structural challenge to incumbent carriers. Starlink provides global low-latency coverage; pairing it with Charter's dense ground infrastructure creates a service proposition that traditional network operators would struggle to replicate, particularly in rural and underserved markets where existing carrier coverage is thin."
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-06-29T13:57:00.000Z",
-      "title": "Barron's, 테슬라·SpaceX 협력 심화 조명 — TSLA <em>종가 $411.84 (+8.46%)</em> 급등 마감",
-      "hotShort": "TSLA <em>종가 +8.46%</em> $411.84 급등 마감",
-      "body": "Barron's가 보도한 테슬라·SpaceX 협력 심화를 계기로 6월 29일 TSLA는 전일 종가 $379.71 대비 +8.46% 급등한 $411.84로 마감했다. 6월 누적 -14% 낙폭을 상당 부분 만회했다. Terafab(테슬라·SpaceX·인텔 반도체 합작) 진전이 'Musk 생태계' 밸류에이션 재점화의 기폭제로 해석됐다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "musk-tesla-spacex-ties-tsla-rebound-2026-06-29",
-      "summary": "테슬라·SpaceX 협력의 중심에는 Terafab이 있다. 일론 머스크가 2026년 3월 21일 공식 발표한 이 프로젝트는 테슬라·SpaceX·인텔이 공동으로 텍사스 그라임스 카운티에 건설하는 초대형 반도체 생산 시설이다. 연간 1 테라와트(TW) 이상의 AI 컴퓨팅 역량을 목표로 하며, 부지 면적이 100M 평방피트(기가 텍사스의 10배 규모)에 달한다. 6월 3일 그라임스 카운티로부터 세금 감면 혜택을 확보했으며 — 총 투자 규모는 최대 $1,190억으로 분석된다 — 이는 Terafab 실현 가능성이 높아지고 있음을 보여주는 이정표다.\n\n협력은 Terafab 하나가 아니다. SpaceX의 Starlink는 Tesla 차량의 위성 기반 차내 연결성 개선 경로를 열고, xAI가 개발하는 AI 인프라는 FSD 신경망 훈련에 간접 기여할 수 있다. Barron's는 AI 인프라·위성통신·차내 연결성·첨단 제조 네 개 축에서 테슬라·SpaceX 협력이 심화되고 있다고 보도했으며, 시장은 이 생태계 시너지를 주가 재평가의 근거로 삼고 있다.\n\n6월 29일 반등의 맥락을 보면: TSLA는 6월 26일(금) $379.71 마감, 이달 누적 -14%를 넘긴 상태였다. 월가에서 6월의 하락이 펀더멘탈이 아닌 지정학 리스크(미-이란 교전)·SpaceX IPO 이후 머스크 분산 우려에 따른 기관 이탈로 과도했다는 진단이 나오는 가운데, Tesla-SpaceX 협력 심화 소식이 낙폭 과대 인식을 촉발하는 기폭제가 됐다.\n\n6월 29일 장중 $413.27까지 치솟으며 $411.84(전일 $379.71 대비 +8.46%)로 급등 마감했다. 6월 누적 -14% 낙폭을 단숨에 상당 부분 만회한 강한 반등으로, 미-이란 재교전 리스크를 협력 호재가 압도했다. 기관 매수세의 지속 여부는 7월 2일 Q2 인도 실적이 가른다.\n\n주주 관점에서 Terafab이 실현된다면 테슬라는 외부 반도체 의존도를 낮추고 AI 칩 내재화라는 전략적 이점을 갖출 수 있다. Starlink 연결성과 xAI AI 인프라 통합이 FSD 경쟁력과 로보택시 확장에 실질적으로 기여하려면 수년이 걸리지만, Terafab 세금 감면 확보처럼 검증 가능한 마일스톤이 하나씩 쌓이면서 'Musk 생태계 할인'이 점진적으로 좁혀질 수 있다는 기대가 오늘 반등에 반영됐다.",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-musk-spacex-cbf394a8",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Barron's",
-        "Gurufocus"
-      ],
-      "sentiment": "bull",
-      "hot": 5,
-      "title_en": "Barron's Spotlights Deepening Tesla-SpaceX Collaboration — TSLA <em>Closes $411.84 (+8.46%)</em>",
-      "hotShort_en": "TSLA <em>closes +8.46%</em> at $411.84",
-      "body_en": "Tesla shares surged +8.46% to close at $411.84 on June 29, up from Friday's $379.71, after Barron's reported deepening Tesla-SpaceX collaboration spanning AI infrastructure, satellite connectivity, and advanced manufacturing. The rally recovered much of June's 14% decline; the Terafab semiconductor joint venture (Tesla, SpaceX, Intel; Grimes County, Texas) was cited as the key ecosystem catalyst.",
-      "summary_en": "At the center of the Tesla-SpaceX collaboration story is Terafab — the semiconductor fabrication joint venture Elon Musk announced on March 21, 2026, joining Tesla, SpaceX, and Intel in a planned facility in Grimes County, Texas. The ambition is staggering: more than one terawatt of AI compute capacity annually, housed in a facility spanning 100 million square feet — ten times the footprint of Gigafactory Texas. On June 3, the venture secured a critical tax abatement from Grimes County, with total capital outlays potentially reaching $119 billion. That milestone is a tangible sign of local political and financial commitment that has given the Terafab thesis new credibility.\n\nBeyond the chip factory, the Barron's report cites AI infrastructure, satellite communications, in-car connectivity, and advanced manufacturing as four fronts where Tesla and SpaceX collaboration is intensifying. SpaceX's Starlink provides a natural on-ramp for in-vehicle satellite connectivity improvements across Tesla's fleet, while xAI — financially tied to SpaceX — has been described as a potential compute supplier for FSD neural network training. The June 28 confirmation that Grok 4.5 has entered private beta at Tesla and SpaceX also fits this broader integration narrative.\n\nFor context: TSLA closed at $379.71 on Friday June 26, down roughly 14% for the month and more than 20% from its May peak. The gap between the stock's depressed level and the multi-year bull thesis has made it vulnerable to sharp reversals on positive catalysts. June's decline has been attributed more to geopolitical risk (US-Iran re-escalation) and institutional rotation out of Musk-affiliated names after the SpaceX IPO than to Tesla-specific operational deterioration.\n\nFor the day's price action: Tesla surged from the open, hitting an intraday high of $413.27 and closing at $411.84 — up +8.46% from Friday's $379.71. The rally recovered a large part of June's 14% decline as the Tesla-SpaceX collaboration catalyst overwhelmed renewed US-Iran strike risk. The durability of institutional buying gets its real test July 2, when Tesla reports Q2 deliveries against a consensus of 406,024 vehicles.\n\nFor Tesla shareholders, today's move is a sentiment indicator more than a fundamental data point. Terafab's eventual scale-up would internalize AI chip supply, reducing Tesla's dependence on external semiconductor providers. Starlink integration and xAI compute contributions remain long-dated optionality rather than near-term deliverables. But as Terafab collects verifiable milestones — a tax deal closed, a JV structure formalized — each one chips away at the 'Musk ecosystem discount' that has weighed on TSLA's multiple in a period of divided management attention."
     }
   ],
-  "asOf": "2026-07-14 07:59 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-14 11:50 KST 자동 갱신 · 최신순"
 }
