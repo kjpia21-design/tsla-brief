@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-14 02:54 UTC · 누적 599건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-14 06:16 UTC · 누적 600건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-14T02:42:27.000Z",
+      "title": "테슬라 FSD v14, 커뮤니티 핵심 인플루언서 3명 <em>\"사실상 무개입\"</em> 체험담 잇따라",
+      "hotShort": "FSD v14, 인플루언서 3명 <em>\"무개입 주행\"</em> 체험담",
+      "body": "월마스·잭(BLKMDL3)·닉 크루즈 파테인 등 테슬라 커뮤니티 핵심 인플루언서 3명이 하루 사이 각자 독립적으로 FSD v14 계열(v14.3.5·v14 Lite·HW4)의 <em>사실상 무개입 주행</em>을 보고했다 — 주차장~주차장 원탭 주행, LA~샌디에이고 무개입 완주 등. 로보택시 상업화를 앞두고 소프트웨어 성숙도를 보여주는 신호로 주목된다.",
+      "sourceName": "Whole Mars (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-zero-intervention-influencer-consensus-2026-07-14",
+      "summary": "테슬라 FSD 소프트웨어의 실제 체감 성능을 둘러싼 커뮤니티 반응이 7월13일 하루 사이 눈에 띄게 몰렸다. 사이트가 추적하는 핵심 인플루언서 6명 중 절반인 3명이 각각 독립적으로 FSD v14 계열의 '사실상 무개입' 주행 경험을 X에 올렸다.\n\n가장 상세한 사례는 월마스 캐털로그(Whole Mars)다. 그는 FSD v14.3.5로 <em>주차장에서 주차장까지 화면 탭 한 번</em>으로 이동했다고 전했다 — 출발지·목적지 모두 실내 주차 구조물이라는 점에서 저속·근접 장애물이 많은 까다로운 구간까지 소화했다는 의미다. 잭(BLKMDL3)은 FSD v14 Lite로 <em>LA~샌디에이고 구간을 무개입으로 완주</em>했고, 슈퍼차저 주차까지 매끄러웠다고 밝혔다. 닉 크루즈 파테인은 HW4 탑재 차량의 FSD v14가 \"일부 구간에서 문자 그대로 무감독처럼 느껴진다\"며, 개입 경고(내그)가 눈에 띄게 완화됐다고 전했다.\n\n세 사례 모두 회사 공식 통계나 안전성 지표가 아닌 개인 체험담이라는 한계는 있다. 다만 서로 다른 세 명이 같은 날 독립적으로 비슷한 결론에 도달했다는 점은, v14 브랜치의 반복 개선이 실사용 체감으로 이어지고 있다는 정황 신호로 볼 만하다.\n\n테슬라는 오는 7월22일 2분기 실적발표에서 로보택시·FSD 진행 상황을 업데이트할 예정이다. 소프트웨어 완성도가 오르고 있다는 이번 커뮤니티 신호는, 무인 로보택시 확장 속도를 가늠하는 참고 지표로 주주들이 주목할 만하다.",
+      "title_en": "Tesla FSD v14: <em>three</em> top community voices report near-zero-intervention drives in one day",
+      "hotShort_en": "FSD v14 owners report <em>near-zero interventions</em>",
+      "body_en": "Whole Mars, Zack (BLKMDL3) and Nic Cruz Patane — three of the six influencers this site tracks — independently posted <em>near-unsupervised</em> FSD v14 experiences the same day: a one-tap parking-garage-to-parking-garage drive, a zero-intervention LA-to-San-Diego run, and an HW4 car that \"feels unsupervised\" with a much lighter nag. It's an anecdotal signal of software maturity ahead of Tesla's robotaxi push.",
+      "summary_en": "Community chatter about Tesla FSD's real-world feel bunched up noticeably on July 13. Three of the six influencers this site tracks independently posted \"near-unsupervised\" experiences with the FSD v14 family the same day.\n\nThe most detailed account came from Whole Mars Catalog, who said FSD v14.3.5 took him <em>from parking garage to parking garage with a single tap</em> — notable since both ends involve tight, low-speed indoor structures full of close obstacles. Zack (BLKMDL3) said FSD v14 Lite drove him <em>from LA to San Diego with zero interventions</em>, parking cleanly at the Supercharger. Nic Cruz Patane said FSD v14 on an HW4 car \"literally feels unsupervised in some ways,\" with the intervention nag noticeably relaxed.\n\nAll three are personal anecdotes, not official company statistics or safety metrics. Still, three different people independently reaching similar conclusions on the same day is a circumstantial signal that the v14 branch's iterative improvements are showing up in real-world use.\n\nTesla is set to update investors on Robotaxi and FSD progress at its Q2 earnings call on July 22. This community signal of rising software maturity is one data point shareholders may watch as a proxy for how fast the driverless Robotaxi rollout can scale.",
+      "href": "https://x.com/wholemars/status/2076859844649463892",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Whole Mars Catalog (X)",
+        "Zack / BLKMDL3 (X)",
+        "Nic Cruz Patane (X)"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
