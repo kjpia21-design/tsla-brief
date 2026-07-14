@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-07-14 21:04 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-14 21:34 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "29m ago",
+      "pubDate": "2026-07-14T21:05:05.000Z",
+      "title": "EV prices just fell again – here’s what US buyers paid in June",
+      "body": "If you’ve been waiting to buy an EV, the latest Kelley Blue Book June price data may give you another reason to wait a bit longer.",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/07/14/ev-prices-just-fell-again-heres-what-us-buyers-paid-in-june/"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15m ago",
+      "time": "44m ago",
       "pubDate": "2026-07-14T20:50:00.000Z",
       "title": "Tesla FSD Hits 50 Million Kilometers in Europe, 28 Times the Dataset That Won Its Approval",
       "body": "Tesla FSD Hits 50 Million Kilometers in Europe, 28 Times the Dataset That Won Its Approval evxl.co",
@@ -17,7 +30,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "24m ago",
+      "time": "53m ago",
       "pubDate": "2026-07-14T20:40:48.000Z",
       "title": "Tesla wants to be the first company to offer wheelchair-accessible autonomous vehicles",
       "body": "Tesla wants to be the first company to offer wheelchair-accessible autonomous vehicles Mashable SEA",
@@ -30,7 +43,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "42m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-14T20:23:00.000Z",
       "title": "Three Price Target Boosts Can’t Help Tesla Stock",
       "body": "Three Price Target Boosts Can’t Help Tesla Stock Barron's",
@@ -41,22 +54,9 @@
       "href": "https://www.barrons.com/articles/tesla-stock-price-target-0e4899ed"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-14T19:43:51.000Z",
-      "title": "Colorado Man Says Switching From Ford F-150 to Tesla Cybertruck Felt Like Instantly Leaping Into Future",
-      "body": "Colorado Man Says Switching From Ford F-150 to Tesla Cybertruck Felt Like Instantly Leaping Into Future International Business Times Australia",
-      "sourceName": "International Business Times Australia",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ibtimes.com.au/colorado-man-ford-f150-tesla-cybertruck-1872278"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-07-14T19:41:00.000Z",
       "title": "Elon Musk likely broke the law by giving voters $1 million, Wisconsin board says",
       "body": "Elon Musk likely broke the law by giving voters $1 million, Wisconsin board says AP News",
@@ -67,22 +67,9 @@
       "href": "https://apnews.com/article/elon-musk-wisconsin-election-million-dollar-checks-2900f27acc373c9f1661a934f00c0c3d"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-14T19:24:00.000Z",
-      "title": "Exclusive: Tesla HW4 Vehicles Also Run Distilled FSD Models",
-      "body": "Exclusive: Tesla HW4 Vehicles Also Run Distilled FSD Models Not a Tesla App",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.notateslaapp.com/news/4435/exclusive-tesla-hw4-vehicles-also-run-distilled-fsd-models"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-14T18:46:45.000Z",
       "title": "Lucid denies rumors of bankruptcy after over 40% stock drop",
       "body": "Electric vehicle maker Lucid Group has denied rumors of an imminent bankruptcy after a report from this morning sent the stock on a dramatic drop on Wall Street, seeing losses of more than 40 percent during trading hours…",
@@ -95,7 +82,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-14T18:39:52.000Z",
       "title": "Tesla owner attempts resale of Model S Signature Edition for over $260k",
       "body": "Tesla owner attempts resale of Model S Signature Edition for over $260k Teslarati",
@@ -145,9 +132,35 @@
       "href": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "7h ago",
+      "pubDate": "2026-07-14T14:26:59.000Z",
+      "title": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance",
+      "body": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "7h ago",
+      "pubDate": "2026-07-14T14:15:28.000Z",
+      "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
+      "body": "See How Tesla Tore Down The Model S Factory To Build Robots Instead InsideEVs",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-14T13:00:01.000Z",
       "title": "SpaceX alumni building remote-controlled construction equipment land $115 million fund round",
       "body": "SpaceX alumni building remote-controlled construction equipment land $115 million fund round CNBC",
@@ -160,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-14T13:00:00.000Z",
       "title": "SpaceX Wins Another Airline Customer as Frontier Picks Starlink",
       "body": "SpaceX Wins Another Airline Customer as Frontier Picks Starlink Bloomberg.com",
@@ -173,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-14T12:59:25.000Z",
       "title": "SpaceX News",
       "body": "SpaceX News Barron's",
@@ -186,15 +199,15 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-07-14T12:06:49.000Z",
-      "title": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance",
-      "body": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance Teslarati",
+      "time": "15h ago",
+      "pubDate": "2026-07-14T06:39:23.000Z",
+      "title": "Tesla makes the cut on California’s newest EV Rebate program",
+      "body": "Tesla makes the cut on California’s newest EV Rebate program Teslarati",
       "sourceName": "Teslarati",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/"
+      "href": "https://www.teslarati.com/tesla-makes-the-cut-on-californias-newest-ev-rebate-program/"
     },
     {
       "category": "product",
@@ -210,22 +223,9 @@
       "href": "https://www.teslarati.com/tesla-makes-the-cut-on-californias-newest-ev-rebate-program/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
-      "pubDate": "2026-07-14T00:39:28.000Z",
-      "title": "EV sales are normalizing in the US – and TAKING OFF everywhere else",
-      "body": "On today’s totally normal episode of Quick Charge, it seems like EV sales are starting to normalize in the US after the loss of the Federal Tax Credit last September – but they’re taking off everywhere else, and Europe i…",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/07/13/ev-sales-are-normalizing-in-the-us-and-taking-off-everywhere-else/"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "21h ago",
+      "time": "22h ago",
       "pubDate": "2026-07-13T23:59:00.000Z",
       "title": "Tesla Inc. Advanced Charts | TSLA",
       "body": "Tesla Inc. Advanced Charts | TSLA Barron's",
