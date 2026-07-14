@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-13 22:59 UTC · 누적 598건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-14 02:54 UTC · 누적 599건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-13T22:23:26.000Z",
+      "title": "테슬라 FSD v14.3.5 배포 시작 — 주행 중에도 <em>카메라 미리보기 상시 확인</em> 가능",
+      "hotShort": "FSD v14.3.5, 주행 중 <em>카메라 미리보기</em> 지원",
+      "body": "테슬라가 FSD(Supervised) v14.3.5(소프트웨어 2026.20.6.6) 배포를 시작했다 — 기존엔 주차(Park) 상태에서만 열리던 카메라 미리보기를 <em>주행 중에도 언제든 열람</em>할 수 있게 됐다. 대형 자율주행 기능 변화는 아니지만, v14.3 브랜치가 꾸준히 오너 편의 기능을 다듬고 있다는 신호.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-3-5-camera-preview-anytime-2026-07-13",
+      "summary": "테슬라가 FSD(Supervised) v14.3.5 — 소프트웨어 버전 2026.20.6.6 — 배포를 시작했다. 테슬라 공식 릴리스노트를 추적하는 Not a Tesla App 이 이를 확인했고, 테슬라 소식통 소여 메릿과 머스코노미도 X 를 통해 업데이트 수신을 알렸다.\n\n이번 버전의 핵심 변경점은 '카메라 미리보기(Camera Preview)' 기능이다. 지금까지는 차량이 주차(Park) 상태일 때만 열 수 있었지만, v14.3.5부터는 <em>주행 중에도 언제든</em> 열람할 수 있도록 제한이 풀렸다. 조작 경로는 '컨트롤 > 서비스 > Camera Preview'에서 개별 카메라 화면을 탭하면 되고, 그리드 버튼을 누르면 전체 화면으로 돌아간다.\n\n큰 자율주행 알고리즘 개선이라기보다는 오너 편의성을 높이는 소소한 UX 업데이트에 가깝다. 다만 v14.3 브랜치는 이번 업데이트 전에도 카메라 시야 경고 UI 확대 등 크고 작은 개선을 이어온 바 있어, 이번 변경도 그 연장선으로 볼 수 있다.\n\n배포는 AI4 탑재 차량을 중심으로 시작됐으며, 모델S 등 일부 다른 모델에도 순차 확대되는 2차 롤아웃이 이어지고 있는 것으로 확인된다. 테슬라 주주 입장에서 직접적인 실적 변수는 아니지만, FSD 소프트웨어가 꾸준한 배포 주기로 개선되고 있다는 점은 로보택시·구독 매출 확대 스토리의 배경으로 참고할 만하다.",
+      "title_en": "Tesla begins rolling out FSD v14.3.5 — <em>Camera Preview now viewable while driving</em>",
+      "hotShort_en": "FSD v14.3.5 adds <em>drive-time Camera Preview</em>",
+      "body_en": "Tesla has begun rolling out FSD (Supervised) v14.3.5 (software 2026.20.6.6) — the headline change lets owners open <em>Camera Preview at any time, even while driving</em>, not just when parked. It's a minor UX tweak rather than a core autonomy upgrade, but shows the v14.3 branch is still being polished.",
+      "summary_en": "Tesla has begun rolling out FSD (Supervised) v14.3.5, tracked as software version 2026.20.6.6. Not a Tesla App, which tracks Tesla's official release notes, confirmed the update, while Tesla watchers Sawyer Merritt and Muskonomy also flagged it on X as they received the download.\n\nThe headline change is to Camera Preview. Previously restricted to Park, the feature can now be opened <em>at any time, including while driving</em>. Owners access it via Controls > Service > Camera Preview, tapping an individual camera view to isolate it or the grid button to return to the full view.\n\nThis is more of a quality-of-life UX tweak than a core autonomy improvement. Still, it continues a pattern in the v14.3 branch, which has already shipped smaller refinements like a larger camera-visibility-alert UI.\n\nThe rollout started with AI4-equipped vehicles, with a second wave reportedly extending to additional models including the Model S. It's not a direct earnings catalyst for shareholders, but steady FSD software cadence is part of the backdrop for Tesla's robotaxi and subscription revenue story.",
+      "href": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Sawyer Merritt (X)",
+        "Muskonomy (X)"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
