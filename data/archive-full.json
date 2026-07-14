@@ -1,6 +1,83 @@
 {
-  "asOf": "2026-07-14 13:57 UTC · 누적 601건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-14 15:37 UTC · 누적 603건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-14T13:00:00.000Z",
+      "title": "스페이스X 스타링크, 프론티어항공 확보 — <em>인디고 5개 항공사 1000대</em> 도입",
+      "hotShort": "스타링크, <em>프론티어항공</em> 등 1000대 도입",
+      "body": "스페이스X 스타링크가 프론티어항공을 신규 기내 와이파이 고객으로 확보했다 — 프론티어 모기업 인디고 파트너스 산하 <em>5개 항공사 항공기 1000대</em>에 순차 도입될 예정으로, 아마존 카이퍼와의 기내 와이파이 경쟁에서 스페이스X 우위가 재확인됐다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-frontier-starlink-2026-07-14",
+      "summary": "스페이스X의 항공기 와이파이 사업이 또 하나의 대형 고객사를 확보했다. 덴버 기반 저비용항공사 프론티어항공이 7월14일, 이르면 2027년 초부터 자사 기종에 스페이스X 스타링크를 도입하겠다고 밝혔다. 프론티어는 현재 기내 와이파이 서비스를 아예 제공하지 않고 있어, 이번 도입은 무(無)에서 유로 넘어가는 변화다.\n\n이번 계약의 배경에는 사모펀드 인디고 파트너스(대표 빌 프랭키)가 있다. 프론티어와 함께 인디고 파트너스가 투자한 멕시코 볼라리스, 유럽 저비용항공사 위즈, 칠레 젯스마트, 필리핀 세부퍼시픽까지 총 5개 항공사가 모두 스타링크를 도입하기로 했으며, 이들 항공사가 보유한 <em>항공기 1000대</em>가 대상이다.\n\n스타링크는 승객용 기내 와이파이뿐 아니라, 조종사·승무원·정비팀·지상운영팀을 위한 게이트투게이트(gate-to-gate) 연결도 제공할 예정이다. 다만 프론티어 측은 승객 요금이나 계약의 구체적 재무 조건은 공개하지 않았다.\n\n프론티어는 사우스웨스트·유나이티드에 이어 스타링크를 택한 최신 대형 항공사로, 스페이스X는 라이벌 아마존 카이퍼를 상대로 항공 와이파이 시장 고객 확보 경쟁에서 계속 앞서나가는 모습이다. 테슬라 주주 입장에서 직접적인 실적 변수는 아니지만, 일론 머스크가 이끄는 스페이스X 사업의 확장세는 최근 불거진 테슬라·스페이스X 합병 밸류에이션 논의의 배경으로 계속 참고될 만하다.",
+      "title_en": "SpaceX's Starlink lands Frontier Airlines — <em>1,000 planes</em> across 5 Indigo Partners carriers",
+      "hotShort_en": "Starlink adds Frontier, <em>1,000 planes</em> total",
+      "body_en": "SpaceX's Starlink has signed Frontier Airlines as a new in-flight Wi-Fi customer — the deal will roll out across <em>1,000 aircraft</em> at five airlines under investor Indigo Partners, reaffirming SpaceX's lead over Amazon's Kuiper in the race for airline connectivity contracts.",
+      "summary_en": "SpaceX's aviation Wi-Fi business has landed another major customer. Denver-based budget carrier Frontier Airlines announced on July 14 that it will install SpaceX's Starlink on its fleet starting as early as 2027. Frontier currently offers no in-flight Wi-Fi at all, making this a jump from nothing to full connectivity.\n\nThe deal traces back to private equity firm Indigo Partners, led by veteran airline investor Bill Franke. Alongside Frontier, four other Indigo-backed carriers — Mexico's Volaris, Europe's Wizz Air, Chile's JetSmart, and the Philippines' Cebu Pacific — are all adopting Starlink, covering roughly <em>1,000 aircraft</em> across the portfolio.\n\nBeyond passenger Wi-Fi, Starlink will also provide gate-to-gate connectivity for pilots, flight attendants, maintenance crews, and ground operations. Frontier did not disclose passenger pricing or the financial terms of the agreement.\n\nFrontier joins Southwest and United as the latest major U.S. carrier to pick Starlink, extending SpaceX's lead over rival Amazon Kuiper in signing up airline customers. It's not a direct earnings catalyst for Tesla, but Musk-led SpaceX's continued commercial momentum remains relevant background to the ongoing debate over a potential Tesla-SpaceX valuation tie-up.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-14/spacex-wins-another-airline-customer-as-frontier-picks-starlink?srnd=live-events-v2",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "CNBC",
+        "The Points Guy"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-14T12:06:49.000Z",
+      "title": "FSD v14.3.5 확산 배포 — 컴파일러 재작성으로 <em>반응속도 20% 개선</em>, 초기 체감은 엇갈려",
+      "hotShort": "FSD v14.3.5, <em>반응속도 20% 개선</em>·체감 엇갈려",
+      "body": "테슬라 FSD(Supervised) v14.3.5(소프트웨어 2026.20.6.6)가 확산 배포되며, AI 컴파일러·런타임을 MLIR로 전면 재작성해 <em>반응속도를 20% 개선</em>했다고 확인됐다 — 주행 중 카메라 미리보기 상시 열람 기능도 포함됐지만, 초기 체감은 무결점 완주 사례와 주차 중 휠스토퍼를 밟는 오작동 사례가 동시에 나와 엇갈렸다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-3-5-camera-preview-anytime-2026-07-13",
+      "summary": "7월13일 배포가 시작된 테슬라 FSD(Supervised) v14.3.5(소프트웨어 2026.20.6.6)가 확산되면서, 앞서 확인된 '주행 중 카메라 미리보기 상시 열람' 기능 외에 소프트웨어 핵심 엔진 차원의 개선점도 함께 드러났다.\n\n테슬라라티에 따르면 이번 버전은 강화학습(RL) 단계를 업그레이드하고 비전 인코더(신경망 시각 처리 모듈)를 개선했으며, AI 컴파일러·런타임을 MLIR 기반으로 전면 재작성해 <em>반응속도를 20% 앞당겼다</em>. 이 밖에도 불필요한 차선 쏠림·근접 추종(테일게이팅) 완화, 주차 공간 선택·진입 동작의 결정력 향상, 응급차량·스쿨버스·우선통행 위반 차량에 대한 대응 강화 등이 포함됐다.\n\n다만 초기 실사용 체감은 엇갈렸다. 테슬라 주행 데이터를 추적하는 테슬라스코프는 2026.20.6.6으로 기록된 첫 주행이 100% FSD로 무결점 완주됐다고 확인했다. 반대로 커뮤니티 인플루언서 월마스 캐털로그는 후진 주차 중 휠스토퍼(주차 방지턱)를 밟고 넘어가는 오작동 장면을 영상으로 공개해, 여전히 상시 감독이 필요한 엣지케이스가 남아 있음을 보여줬다.\n\n앞서 확인된 카메라 미리보기 상시 열람 기능(컨트롤 > 서비스 > Camera Preview 경로, 이전엔 주차 상태에서만 가능)도 이번 v14.3.5에 포함돼 있다. 배포는 AI4 탑재 차량 중심으로 시작됐고, 모델S 등 다른 모델로도 2차 순차 확대가 진행 중이다.\n\n테슬라 주주 입장에서 직접적 실적 변수는 아니지만, 컴파일러 재작성 같은 엔진 차원의 개선이 실제 안전성·신뢰성으로 얼마나 이어지는지는 로보택시 상업 확장 속도를 가늠하는 참고 지표다. 7월22일 2분기 실적발표에서 관련 진행 상황이 추가로 공유될 가능성이 있다.",
+      "title_en": "FSD v14.3.5 rolls out wider — compiler rewrite delivers <em>20% faster reaction time</em>, early feedback mixed",
+      "hotShort_en": "FSD v14.3.5: <em>20% faster reactions</em>, mixed reviews",
+      "body_en": "As Tesla's FSD (Supervised) v14.3.5 (software 2026.20.6.6) rolls out more broadly, Teslarati confirmed the update rewrote Tesla's AI compiler and runtime in MLIR, delivering a <em>20% faster reaction time</em> — but early real-world feedback is mixed, with reports of both flawless completed drives and a parking maneuver that ran over a wheel stopper.",
+      "summary_en": "Tesla's FSD (Supervised) v14.3.5 (software 2026.20.6.6), which began rolling out July 13, is now spreading wider — and beyond the previously confirmed \"Camera Preview available while driving\" feature, deeper engine-level changes have come to light.\n\nAccording to Teslarati, the update upgrades the reinforcement-learning stage and improves the neural-network vision encoder, and rewrites Tesla's AI compiler and runtime from the ground up in MLIR, cutting reaction time by <em>20%</em>. Other changes include mitigations for unnecessary lane biasing and tailgating, more decisive parking-spot selection and maneuvering, and stronger responses to emergency vehicles, school buses, and right-of-way violators.\n\nEarly real-world feedback has been mixed, though. Teslascope, which tracks Tesla driving data, confirmed its first recorded drive on 2026.20.6.6 was completed 100% on FSD with no interventions. On the other hand, community influencer Whole Mars Catalog posted footage of the system misjudging a reverse-parking maneuver and driving over a wheel stopper — a reminder that edge cases still demand active supervision.\n\nThe previously confirmed Camera Preview feature — accessible anytime via Controls > Service > Camera Preview, versus only in Park before — is also part of this v14.3.5 release. The rollout began with AI4-equipped vehicles, with a second wave extending to other models including the Model S.\n\nIt's not a direct earnings catalyst for shareholders, but how much engine-level work like the compiler rewrite translates into real safety and reliability gains is a useful proxy for how fast Tesla's robotaxi commercialization can scale. More detail may surface at the July 22 Q2 earnings call.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Teslarati",
+        "Not a Tesla App",
+        "Sawyer Merritt (X)"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-14T12:00:00.000Z",
+      "title": "바클레이스, 테슬라 목표주가 $370로 상향 — 상향 랠리에도 <em>주가는 되레 하락</em>",
+      "hotShort": "목표주가 3연속 상향에도 <em>주가는 하락</em>",
+      "body": "바클레이스가 테슬라 목표주가를 $360에서 $370로 상향(등급 '동일비중' 유지)했다 — RBC($500)·UBS($442)에 이은 최근 일주일새 세 번째 상향이지만, 테슬라 주가는 7월13일 종가 $394.76(<em>전일比 -3.19%</em>)으로 마감해 목표주가 랠리와 실제 주가 흐름이 엇갈렸다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-barclays-pt-370-2026-07-14",
+      "summary": "바클레이스가 7월14일 발표한 리서치 노트에서 테슬라(TSLA) 목표주가를 종전 $360에서 $370로 올렸다. 투자의견은 '동일비중(Equal Weight)'을 그대로 유지했다.\n\n이번 상향은 최근 일주일 새 나온 세 번째 목표주가 상향이다. 앞서 7월7일 RBC캐피털은 스페이스X와의 잠재적 합병 프리미엄을 반영해 목표주가를 $475에서 $500로, 7월9일 UBS는 로보틱스·피지컬AI 사업 재평가를 근거로 $364에서 $442로 각각 상향한 바 있다. 세 기관 모두 방향은 상향이지만, 로보택시·옵티머스·잠재적 스페이스X 결합 등 신사업 스토리에 무게를 싣는 배경은 조금씩 다르다.\n\n문제는 목표주가 상향 행진이 실제 주가에는 아직 반영되지 않고 있다는 점이다. 테슬라 주가는 7월13일 정규장에서 전일 대비 <em>-3.19% 하락한 $394.76</em>으로 마감했다 — 이는 이번 주 나온 세 개 목표주가($370·$442·$500) 중 가장 낮은 바클레이스의 $370에도 못 미치는 수준이다.\n\n애널리스트들의 낙관과 실제 주가 흐름 사이의 괴리는, 로보택시·옵티머스 등 신사업 가치가 아직 시장에서 충분히 반영되지 않았다는 뜻으로도, 혹은 밸류에이션에 대한 시장의 신중함이 여전하다는 뜻으로도 읽힐 수 있다. 오는 7월22일 2분기 실적발표에서 마진·신사업 진행 상황이 확인되면, 이 괴리가 좁혀질지 판가름날 전망이다.",
+      "title_en": "Barclays lifts Tesla price target to <em>$370</em> — but the stock fell anyway",
+      "hotShort_en": "3rd target hike this week, <em>stock still fell</em>",
+      "body_en": "Barclays raised its Tesla price target from $360 to $370 (keeping an Equal Weight rating) — the third target hike in a week after RBC's $500 and UBS's $442 — yet Tesla shares closed July 13 at $394.76, <em>down 3.19%</em>, showing the target-price rally hasn't yet shown up in the stock itself.",
+      "summary_en": "Barclays raised its Tesla (TSLA) price target from $360 to $370 in a research note issued July 14, while keeping its Equal Weight rating unchanged.\n\nIt's the third price-target increase on Tesla in about a week. RBC Capital raised its target from $475 to $500 on July 7, citing a premium tied to a potential SpaceX merger scenario, while UBS raised its target from $364 to $442 on July 9, citing a re-rating of Tesla's robotics and physical-AI business. All three moved higher, though each firm leans on a somewhat different piece of the new-business story — Robotaxi, Optimus, or a SpaceX tie-up.\n\nThe catch is that the price-target rally hasn't shown up in the stock yet. Tesla shares closed the regular session on July 13 at <em>$394.76, down 3.19%</em> from the prior close — below even Barclays' $370 target, the most conservative of this week's three.\n\nThe gap between analyst optimism and the stock's actual path can be read either as new-business value not yet being priced in, or as the market staying cautious on valuation. Whether that gap narrows will likely hinge on the margin and new-business updates due at Tesla's Q2 earnings call on July 22.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-target-0e4899ed",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barron's",
+        "MarketScreener"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -52,32 +129,6 @@
       ],
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-13T22:23:26.000Z",
-      "title": "테슬라 FSD v14.3.5 배포 시작 — 주행 중에도 <em>카메라 미리보기 상시 확인</em> 가능",
-      "hotShort": "FSD v14.3.5, 주행 중 <em>카메라 미리보기</em> 지원",
-      "body": "테슬라가 FSD(Supervised) v14.3.5(소프트웨어 2026.20.6.6) 배포를 시작했다 — 기존엔 주차(Park) 상태에서만 열리던 카메라 미리보기를 <em>주행 중에도 언제든 열람</em>할 수 있게 됐다. 대형 자율주행 기능 변화는 아니지만, v14.3 브랜치가 꾸준히 오너 편의 기능을 다듬고 있다는 신호.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-3-5-camera-preview-anytime-2026-07-13",
-      "summary": "테슬라가 FSD(Supervised) v14.3.5 — 소프트웨어 버전 2026.20.6.6 — 배포를 시작했다. 테슬라 공식 릴리스노트를 추적하는 Not a Tesla App 이 이를 확인했고, 테슬라 소식통 소여 메릿과 머스코노미도 X 를 통해 업데이트 수신을 알렸다.\n\n이번 버전의 핵심 변경점은 '카메라 미리보기(Camera Preview)' 기능이다. 지금까지는 차량이 주차(Park) 상태일 때만 열 수 있었지만, v14.3.5부터는 <em>주행 중에도 언제든</em> 열람할 수 있도록 제한이 풀렸다. 조작 경로는 '컨트롤 > 서비스 > Camera Preview'에서 개별 카메라 화면을 탭하면 되고, 그리드 버튼을 누르면 전체 화면으로 돌아간다.\n\n큰 자율주행 알고리즘 개선이라기보다는 오너 편의성을 높이는 소소한 UX 업데이트에 가깝다. 다만 v14.3 브랜치는 이번 업데이트 전에도 카메라 시야 경고 UI 확대 등 크고 작은 개선을 이어온 바 있어, 이번 변경도 그 연장선으로 볼 수 있다.\n\n배포는 AI4 탑재 차량을 중심으로 시작됐으며, 모델S 등 일부 다른 모델에도 순차 확대되는 2차 롤아웃이 이어지고 있는 것으로 확인된다. 테슬라 주주 입장에서 직접적인 실적 변수는 아니지만, FSD 소프트웨어가 꾸준한 배포 주기로 개선되고 있다는 점은 로보택시·구독 매출 확대 스토리의 배경으로 참고할 만하다.",
-      "title_en": "Tesla begins rolling out FSD v14.3.5 — <em>Camera Preview now viewable while driving</em>",
-      "hotShort_en": "FSD v14.3.5 adds <em>drive-time Camera Preview</em>",
-      "body_en": "Tesla has begun rolling out FSD (Supervised) v14.3.5 (software 2026.20.6.6) — the headline change lets owners open <em>Camera Preview at any time, even while driving</em>, not just when parked. It's a minor UX tweak rather than a core autonomy upgrade, but shows the v14.3 branch is still being polished.",
-      "summary_en": "Tesla has begun rolling out FSD (Supervised) v14.3.5, tracked as software version 2026.20.6.6. Not a Tesla App, which tracks Tesla's official release notes, confirmed the update, while Tesla watchers Sawyer Merritt and Muskonomy also flagged it on X as they received the download.\n\nThe headline change is to Camera Preview. Previously restricted to Park, the feature can now be opened <em>at any time, including while driving</em>. Owners access it via Controls > Service > Camera Preview, tapping an individual camera view to isolate it or the grid button to return to the full view.\n\nThis is more of a quality-of-life UX tweak than a core autonomy improvement. Still, it continues a pattern in the v14.3 branch, which has already shipped smaller refinements like a larger camera-visibility-alert UI.\n\nThe rollout started with AI4-equipped vehicles, with a second wave reportedly extending to additional models including the Model S. It's not a direct earnings catalyst for shareholders, but steady FSD software cadence is part of the backdrop for Tesla's robotaxi and subscription revenue story.",
-      "href": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "Sawyer Merritt (X)",
-        "Muskonomy (X)"
-      ],
-      "sentiment": "neutral",
-      "hot": 3
     },
     {
       "category": "fsd",
