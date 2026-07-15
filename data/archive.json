@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-15T22:21:37.000Z",
+      "title": "NTSB \"텍사스 주택 충돌사망, 운전자가 가속페달 <em>100% 밟아 FSD 오버라이드</em>\"",
+      "hotShort": "NTSB \"운전자가 <em>가속페달 100%</em> 밟아 FSD 무시\"",
+      "body": "美 연방교통안전위원회(NTSB)가 6월 텍사스 케이티(Katy) 주택 충돌 사망사고를 조사한 결과, 운전자가 FSD(Supervised) 작동 중 가속페달을 <em>100%</em>까지 밟아 시스템을 오버라이드했고 충돌 당시 속도는 시속 <em>70마일(약 113km/h)</em>을 넘겼다고 확인했다 — 제한속도 30마일 주택가 도로였다. FSD 결함이 아닌 운전자 과실을 뒷받침하는 연방기관의 공식 조사 결과라, 관련 소송·규제 리스크 평가에 중요한 참고자료가 될 전망이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-ntsb-katy-crash-driver-override-100pct-2026-07-15",
+      "summary": "지난 6월 텍사스 케이티(Katy)의 한 주택가에서 발생해 76세 주민 마사 아빌라(Martha Avila)가 숨진 테슬라 충돌사고에 대해, 美 연방교통안전위원회(NTSB)가 15일(현지시간) 조사 결과를 발표했다.\n\nNTSB에 따르면 사고 당시 운전자는 제한속도 시속 30마일(약 48km/h)인 2차선 주택가 도로 로즈 할로우 레인(Rose Hollow Lane)에서 FSD(Supervised)를 작동 중이었다. 그러나 <em>가속페달을 100%</em>까지 밟아 시스템을 수동으로 오버라이드했고, 충돌 당시 차량 속도는 <em>시속 70마일</em>을 넘겼다. 보안 카메라 영상에는 차량이 교차로를 그대로 통과해 도로를 이탈, 주택을 들이받는 장면이 담겼다. 당시 날씨는 맑았고 노면은 건조했으며 주간(daylight)이었다.\n\n앞서 경찰 조사에서는 44세 운전자 마이클 버틀러(Michael Butler)가 \"의식을 잃었다\"고 진술했지만, 그의 구글 검색 기록에는 \"Tesla FSD not aggressive enough\"(테슬라 FSD가 충분히 공격적이지 않다) 등의 검색어가 남아 있던 것으로 드러나 진술 신빙성에 의문이 제기됐었다. 버틀러는 과실치사 혐의로 기소된 상태이고, 유가족은 버틀러와 테슬라를 상대로 손해배상 소송을 제기해 놓았다.\n\n이번 NTSB 발표는 사고 원인이 FSD 시스템 결함이 아니라 운전자가 시스템을 무시하고 가속페달을 끝까지 밟은 데 있음을 연방기관이 공식 확인했다는 의미가 있다. 테슬라를 상대로 한 소송과 관련 규제 논의에서 테슬라 측에 유리하게 작용할 수 있는 사실관계로, FSD 안전성 논쟁이 이어지는 가운데 주목할 대목이다.",
+      "title_en": "NTSB: Driver <em>floored the accelerator to 100%</em>, overriding FSD, in fatal Texas house crash",
+      "hotShort_en": "NTSB: driver <em>overrode FSD</em>, hit 70+ mph",
+      "body_en": "The NTSB's investigation into June's fatal Katy, Texas crash found the driver manually overrode Full Self-Driving (Supervised) by pressing the accelerator to <em>100%</em>, with the car exceeding <em>70 mph</em> at impact on a residential street with a 30 mph limit. The federal finding points to driver error rather than an FSD malfunction — a fact that could weigh in Tesla's favor in the related lawsuit and ongoing safety scrutiny.",
+      "summary_en": "The National Transportation Safety Board released findings on July 15 into the fatal Tesla crash that killed 76-year-old Katy, Texas resident Martha Avila in June.\n\nAccording to the NTSB, the driver was using Full Self-Driving (Supervised) on Rose Hollow Lane, a two-lane residential road with a 30 mph speed limit, when he manually overrode the system by pressing the accelerator pedal to <em>100%</em>. The vehicle's speed exceeded <em>70 mph</em> at the moment of impact. Security camera footage showed the car accelerating through an intersection, leaving the road, and striking the house. Weather was clear, the road was dry, and it was daylight.\n\nThe 44-year-old driver, Michael Butler, had reportedly told police he \"passed out,\" but his Google search history — which included terms like \"Tesla FSD not aggressive enough\" — cast doubt on that account. Butler has been charged with manslaughter, and the victim's family has sued both Butler and Tesla for negligence.\n\nThe NTSB's finding is notable for federally confirming that the crash stemmed from the driver overriding the system and flooring the accelerator, not an FSD malfunction — a fact that could favor Tesla in the pending lawsuit and in the broader FSD safety debate.",
+      "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "TechCrunch"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-15T21:16:29.000Z",
+      "title": "일론 머스크의 xAI, 그록(Grok) 성적 딥페이크 악용 이용자 <em>직접 제소</em>",
+      "hotShort": "xAI, 그록 성적 딥페이크 <em>이용자 직접 제소</em>",
+      "body": "일론 머스크의 AI 스타트업 xAI가 텍사스 연방법원에 자사 챗봇 그록(Grok)을 악용해 미성년자를 포함한 성적 딥페이크를 만든 이용자를 <em>직접 제소</em>했다 — AI 기업이 자사 서비스 오남용 이용자를 상대로 소송을 낸 초기 사례 중 하나로, 테슬라 본업과는 무관하지만 머스크 계열사의 AI 콘텐츠 관리 책임 이슈로 주목된다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-xai-sues-grok-user-deepfakes-2026-07-15",
+      "summary": "일론 머스크가 이끄는 AI 스타트업 xAI가 자사 챗봇 그록(Grok)을 이용해 성적 딥페이크를 제작한 이용자를 상대로 텍사스 연방법원에 소송을 제기했다.\n\n소장에 따르면 피고는 사우스캐롤라이나 거주자 테리 하우드(Terry Harwood)로, 성인·미성년자 이미지를 무단으로 그록에 업로드해 성적 딥페이크를 제작하려 시도했고 성인을 대상으로 한 무단 음란 영상도 만든 혐의를 받는다. 하우드는 이미 미성년자 성적 착취 혐의로 체포된 바 있다. xAI는 손해배상과 영구 이용금지를 요구하고 있다.\n\n이번 소송은 AI 기업이 자사 서비스를 악용한 이용자를 직접 제소한 초기 사례 중 하나로 꼽힌다. 그록을 둘러싼 성적 딥페이크 콘텐츠 논란이 이어지는 가운데, xAI가 책임 있는 대응에 나섰다는 신호로 해석될 수 있다.\n\n테슬라 본업과 직접적 연관은 없지만, 머스크가 이끄는 관계사의 AI 거버넌스·법적 리스크 관리 행보로서 투자자들이 참고할 만한 소식이다.",
+      "title_en": "Musk's xAI <em>sues a Grok user</em> over sexualized deepfakes",
+      "hotShort_en": "xAI <em>sues user</em> over Grok deepfakes",
+      "body_en": "Elon Musk's AI startup xAI filed suit in federal court in Texas against a user who allegedly used its Grok chatbot to generate sexualized deepfakes, including of minors — one of the first cases of an AI company directly suing a user for misusing its own product. Not directly Tesla-related, but notable for how a Musk-led affiliate is handling AI content-liability exposure.",
+      "summary_en": "xAI, Elon Musk's AI startup, has sued a user in federal court in Texas over the alleged misuse of its Grok chatbot to produce sexualized deepfake content.\n\nAccording to the complaint, the defendant, Terry Harwood of South Carolina, uploaded unauthorized images of adults and minors to Grok and attempted to generate sexual deepfakes from them, and allegedly also created an unauthorized sexual recording of an adult. Harwood had previously been arrested on charges of sexual exploitation of minors. xAI is seeking damages and a permanent ban.\n\nThe suit is considered one of the first instances of an AI company directly suing a user for abusing its own product, amid ongoing controversy over sexualized deepfake content generated via Grok. It can be read as a signal that xAI is moving to take more responsibility for misuse of its platform.\n\nWhile not directly tied to Tesla's core business, it's a notable data point for investors tracking AI governance and legal-liability risk across Musk-led affiliates.",
+      "href": "https://www.reuters.com/legal/litigation/musks-xai-sues-grok-user-over-sexualized-deepfakes-2026-07-15/",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "just now",
@@ -2329,53 +2374,7 @@
       "hotShort_en": "Tesla Q2 deliveries near — Bloomberg pegs <em>396K</em>",
       "body_en": "Bloomberg's own analyst consensus puts Tesla's Q2 deliveries at 396,466 vehicles, below Tesla IR's official consensus of 406,024 — the gap leaves investors guessing which figure the July 2 report will land closer to.",
       "summary_en": "With Tesla's Q2 delivery report just a day away, the market is split between two competing consensus figures. Tesla IR's own analyst consensus, published last week, calls for 406,024 vehicles (median 408,609, from 22 sell-side firms).\n\nBloomberg's separately compiled consensus, based on roughly 20 analysts, comes in lower at 396,466 — about 2% below Tesla IR's number. That would still mark a roughly 3% year-over-year increase, but growth remains modest compared with the near-500,000-unit quarters Tesla posted in past years.\n\nMeanwhile, TSLA shares have rallied nearly 10% over the past week heading into the report, according to Barron's — a sign that investors may be looking past the delivery number toward other growth drivers like robotaxi and energy storage.\n\nWhether the official number lands closer to Tesla IR's or Bloomberg's consensus could set the market's initial reaction on July 2. Full quarterly financial results, including revenue and margins, are due after the close on July 22."
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-01T13:51:26.000Z",
-      "title": "사이버트럭 전력변환장치(PCS) 고장 확산 — 테슬라, <em>리콜 없이</em> 부품교체로 대응",
-      "hotShort": "사이버트럭 PCS 고장 확산, 테슬라 <em>리콜은 회피</em>",
-      "body": "사이버트럭 다수 차주에게서 전력변환장치(PCS) 고장으로 '완속충전 불가' 경고가 뜨며 집에서 충전을 못 하는 사례가 확산 중이나, 테슬라는 아직 NHTSA에 리콜 신고 없이 부품 교체로만 대응 중이다 — 주행 1만~1.8만마일의 비교적 신차에서 반복 발생해 품질 신뢰에 부담.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-cybertruck-pcs-charging-failure-2026-07-01",
-      "summary": "사이버트럭의 전력변환장치(Power Conversion System, PCS)는 고전압 배터리팩 전력을 낮춰 완속(AC) 충전을 담당하는 핵심 부품이다. 최근 이 부품이 고장 나며 차량 화면에 '완속충전 불가(AC Charging Unavailable)' 경고가 뜨는 사례가 늘고 있다고 Electrek이 7월 1일 보도했다.\n\n보도에 따르면 고장은 주행거리 1만~1만8,000마일(약 1.6만~2.9만km)의 비교적 신차에서도 발생하며, 일부 차주는 교체 후에도 재고장을 겪었다. 교체 부품이 전국적으로 품귀 상태라 수리까지 8~10주가 걸리는 경우도 있어, 테슬라는 임시방편으로 무료 슈퍼차징 제공과 긴급 OTA 업데이트로 대응하고 있다.\n\n핵심은 테슬라가 이 문제를 아직 NHTSA(미국 도로교통안전국)에 정식 리콜로 신고하지 않았다는 점이다. 대신 개별 서비스센터 방문 시 부품을 교체해주는 방식으로 처리하고 있으며, 보증기간이 지난 차량의 자비 수리비는 기존 7,000달러 이상에서 '고객 배려 차원'으로 1,000달러 수준까지 낮춰준 사례가 확인됐다.\n\n주주 입장에서는 광범위한 부품 결함이 공식 리콜 없이 개별 대응으로 처리되고 있다는 점이 리스크다 — 향후 NHTSA가 자체적으로 조사에 나서거나 결함 패턴이 더 확산되면, 대규모 정식 리콜과 그에 따른 비용·평판 부담으로 이어질 가능성을 배제할 수 없다.",
-      "href": "https://electrek.co/2026/07/01/tesla-cybertruck-pcs-failures-no-recall/",
-      "sentiment": "bear",
-      "hot": 5,
-      "title_en": "Cybertruck power-conversion failures spread — Tesla skips a recall, swaps parts instead",
-      "hotShort_en": "Cybertruck PCS fails, Tesla <em>avoids a recall</em>",
-      "body_en": "A growing number of Cybertruck owners are losing home AC charging to Power Conversion System (PCS) failures, but Tesla has yet to file an NHTSA recall — it's handling cases with part swaps instead, even as failures recur on trucks with just 10,000-18,000 miles.",
-      "summary_en": "The Cybertruck's Power Conversion System (PCS) steps down high-voltage pack power for AC home charging. A growing number of owners are seeing an 'AC Charging Unavailable' warning as the part fails, Electrek reported July 1.\n\nThe failures are showing up on relatively low-mileage trucks, often between 10,000 and 18,000 miles, and some owners report repeat failures even after a replacement. Replacement parts are on national backorder, with repairs sometimes taking 8 to 10 weeks — in the meantime, Tesla has offered free Supercharging and pushed emergency OTA updates as stopgaps.\n\nThe key detail is that Tesla has not filed a formal recall with the National Highway Traffic Safety Administration despite the pattern. Instead, it's replacing units case-by-case at service visits, and out-of-warranty repair costs that once ran over $7,000 have reportedly been cut to around $1,000 as a goodwill gesture.\n\nFor shareholders, the risk is that a widespread hardware defect is being handled informally rather than through a formal recall. If NHTSA opens its own probe or the failure pattern widens, it could force a larger formal recall with added cost and reputational exposure."
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3d ago",
-      "pubDate": "2026-07-01T10:30:00.000Z",
-      "title": "테슬라, 한국 전기차 보조금 대상 확정 — 확정 당일 모델3·Y <em>최대 700만원 기습 인상</em>",
-      "hotShort": "테슬라, 보조금 확정 하루만에 <em>700만원 인상</em>",
-      "body": "한국 정부가 테슬라코리아를 하반기 전기차 보조금 지급 대상자로 확정했다(중국 BYD는 유일하게 탈락) — 테슬라는 시행 첫날 모델3·모델Y 가격을 최대 700만원 올렸고, 인상폭이 보조금 지급액을 웃돌아 소비자 반발이 일었다. 테슬라는 \"환율·원자재 비용 때문이며 보조금과는 무관하다\"고 해명했다.",
-      "sourceName": "Korea JoongAng Daily",
-      "sourceLabel": "press",
-      "slug": "stock-korea-ev-subsidy-price-hike-2026-07-01",
-      "summary": "한국 기후에너지환경부가 '전기차 보급사업 수행자' 평가 결과를 확정해 7월 1일부터 적용했다. 총 35개 제작·수입사가 참여해 27개사가 통과했으며, 승용 부문엔 현대차·기아·르노코리아·KG모빌리티 등 국내 업체와 메르세데스-벤츠코리아·BMW코리아·볼보자동차코리아·폭스바겐그룹코리아·폴스타코리아·테슬라코리아 등 수입 10개사가 포함됐다.\n\n중국 BYD는 이번 평가에서 유일하게 탈락한 주요 전기차 업체가 됐다. 배점이 가장 큰 공급망 기여도(40점) 항목에서 국내 생산·고용·부품 기여가 낮게 평가된 것으로 알려졌다. BYD 차량은 7월 1일부터 보조금 대상에서 빠지며, 6월 30일까지 접수된 건에는 경과조치가 적용된다.\n\n테슬라는 보조금 시행 첫날 모델3 프리미엄 롱레인지 RWD 가격을 5,299만원에서 5,999만원으로 700만원 올렸고, 모델3 RWD·퍼포먼스는 각 500만원씩 인상돼 각각 4,699만원·6,999만원이 됐다. 모델Y 프리미엄 롱레인지 AWD와 모델Y L도 각 300만원씩 올라 6,699만원·7,299만원이 됐다.\n\n인상폭이 정부 보조금 지급액을 웃돌면서 소비자 반발이 일었고, 테슬라는 \"환율 상승과 원자재 비용 압박이 계속돼 가격 조정이 불가피했으며 보조금과는 무관하다\"고 해명했다. 투자자 관점에서는 한국 시장에서 보조금 자격을 유지하면서 동시에 가격 인상 여력까지 확인한 셈이라 마진에는 긍정적 신호로 해석될 수 있다.",
-      "title_en": "Tesla secures Korea EV subsidy eligibility, then <em>hikes Model 3/Y prices up to $4,500</em> the same day",
-      "hotShort_en": "Tesla clears Korea subsidy, then <em>hikes prices $4,500</em>",
-      "body_en": "South Korea confirmed Tesla as eligible for its H2 2026 EV subsidy program — China's BYD was the only major maker excluded — but Tesla raised Model 3/Y prices by up to ₩7M (about $4,500) on day one of the program, an increase that outpaces the subsidy itself and triggered consumer backlash. Tesla said the hike reflects \"exchange rates and raw-material costs\" and is \"unrelated to the subsidies.\"",
-      "summary_en": "South Korea's Ministry of Climate, Energy and Environment finalized its EV subsidy-provider eligibility assessment, effective July 1. Of 35 manufacturers and importers evaluated, 27 passed — the approved passenger-car list includes domestic makers Hyundai, Kia, Renault Korea and KG Mobility, plus imports Mercedes-Benz Korea, BMW Korea, Volvo Cars Korea, Volkswagen Group Korea, Polestar Korea and Tesla Korea.\n\nChina's BYD was the only major EV maker to fail. The 100-point scoring system weighted 'supply-chain contribution' — domestic production, employment and parts sourcing — at 40 points, the largest category, and BYD reportedly scored poorly there. BYD loses subsidy eligibility from July 1, though applications filed through June 30 still qualify under a transition rule.\n\nTesla raised Korean prices the same day the program took effect. The Model 3 Premium Long Range RWD rose from ₩52.99M to ₩59.99M (+₩7M), while the Model 3 RWD and Performance each climbed ₩5M to ₩46.99M and ₩69.99M. The Model Y Premium Long Range AWD and Model Y L each rose ₩3M, to ₩66.99M and ₩72.99M.\n\nThe increases outpaced the subsidy amounts, sparking consumer backlash. Tesla said 'pressure to raise prices has continued amid rising exchange rates and raw-material costs' and called the adjustment 'unavoidable and unrelated to the subsidies.' For shareholders, though, the episode confirms Tesla retained subsidy access in a market where a key rival was shut out — and still found room to raise prices the same day.",
-      "href": "https://www.koreajoongangdaily.com/business/tesla-korea-raises-model-3-and-model-y-prices-by-up-to-7-million-won/12750587",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Korea JoongAng Daily",
-        "Electrive",
-        "Drive Tesla Canada"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-16 02:25 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-16 07:25 KST 자동 갱신 · 최신순"
 }
