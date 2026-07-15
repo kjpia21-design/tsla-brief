@@ -1,23 +1,62 @@
 {
-  "asOf": "2026-07-15 19:20 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-15 21:05 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "42m ago",
-      "pubDate": "2026-07-15T18:38:31.000Z",
-      "title": "Elon Musk’s Texas ranch to showcase the lifelong work that changed the world",
-      "body": "Elon Musk’s Texas ranch to showcase the lifelong work that changed the world Teslarati",
-      "sourceName": "Teslarati",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "7m ago",
+      "pubDate": "2026-07-15T20:58:38.000Z",
+      "title": "NTSB says Tesla driver floored accelerator and exceeded Full Self Driving limits in Katy crash",
+      "body": "NTSB says Tesla driver floored accelerator and exceeded Full Self Driving limits in Katy crash Межа. Новини України.",
+      "sourceName": "Межа. Новини України.",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/elon-musk-texas-ranch-tesla-spacex-product-gallery/"
+      "href": "https://mezha.net/eng/bukvy/4ea5edc6_ntsb_says_tesla/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "10m ago",
+      "pubDate": "2026-07-15T20:55:17.000Z",
+      "title": "NTSB: Tesla Driver Overrode FSD System Before Fatal Texas Crash",
+      "body": "NTSB: Tesla Driver Overrode FSD System Before Fatal Texas Crash Whalesbook",
+      "sourceName": "Whalesbook",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.whalesbook.com/news/English/technology/NTSB-Tesla-Driver-Overrode-FSD-System-Before-Fatal-Texas-Crash/6a57f1985cb7edf90c320f70"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "43m ago",
+      "pubDate": "2026-07-15T20:22:52.000Z",
+      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "body": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms TechCrunch",
+      "sourceName": "TechCrunch",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
+      "pubDate": "2026-07-15T19:48:23.000Z",
+      "title": "Short-Sellers Swarm SpaceX With Paper Profit Nearing $4 Billion",
+      "body": "Short-Sellers Swarm SpaceX With Paper Profit Nearing $4 Billion Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-15/short-sellers-swarm-spacex-with-paper-profit-nearing-4-billion"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
       "pubDate": "2026-07-15T17:51:00.000Z",
       "title": "Amazon To Launch S.Africa Satellite Internet As Starlink Awaits Licence",
       "body": "Amazon To Launch S.Africa Satellite Internet As Starlink Awaits Licence Barron's",
@@ -25,12 +64,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/news/amazon-to-launch-s-africa-satellite-internet-as-starlink-awaits-licence-827872f1"
+      "href": "https://www.barrons.com/articles/amazon-to-launch-s-africa-satellite-internet-as-starlink-awaits-licence-827872f1"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-15T17:44:02.000Z",
       "title": "Lucid CEO dispels any rumors of bankruptcy: ‘So far from the facts’",
       "body": "Lucid CEO Silvio Napoli responded to rumors of an imminent bankruptcy that was reportedly being mulled after a report stated the automaker was working with the firm AlixPartners to iron out its next steps. The company fe…",
@@ -41,48 +80,22 @@
       "href": "https://www.teslarati.com/lucid-ceo-dispels-any-rumors-bankruptcy-so-far-from-the-facts/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-15T17:14:44.000Z",
-      "title": "The Tesla Price Hikes Have Begun | We Saw This Coming Orla Mining (mcdwauZ5w2)",
-      "body": "The Tesla Price Hikes Have Begun | We Saw This Coming Orla Mining (mcdwauZ5w2) Mshale",
-      "sourceName": "Mshale",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-07-15T17:06:52.000Z",
+      "title": "SpaceX IPO: Trending News, Latest Updates, Analysis",
+      "body": "SpaceX IPO: Trending News, Latest Updates, Analysis Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://mshale.com/20135729/6e08272eQDoGJxohcQkWCVU"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-15T17:13:27.000Z",
-      "title": "Deutsche Bank keeps Buy on Tesla with $465 targ...",
-      "body": "Deutsche Bank keeps Buy on Tesla with $465 targ... Pluang",
-      "sourceName": "Pluang",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://pluang.com/en/news-feed/analis-tetapkan-target-harga-saham-tesla-12-bulan"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-15T17:10:22.000Z",
-      "title": "Why NHTSA Is Investigating 2.88 Million Teslas Over Red Lights",
-      "body": "Why NHTSA Is Investigating 2.88 Million Teslas Over Red Lights The Weekly Driver",
-      "sourceName": "The Weekly Driver",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://theweeklydriver.com/2026/07/tesla-fsd-nhtsa-investigation-red-light/"
+      "href": "https://bloomberg.com/latest/spacex-ipo"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-15T17:01:32.000Z",
       "title": "Tesla’s LFP battery holds its charge better, study says",
       "body": "A new analysis of nearly 10,000 real-world EV battery tests found that the same Tesla Model 3 holds up very differently depending on which battery it was built with — and the cheaper LFP version comes out on top. The Mod…",
@@ -95,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-15T16:41:24.000Z",
       "title": "Tesla responds to strange Supercharging pricing error with classy move",
       "body": "Tesla has once again demonstrated strong customer focus by swiftly addressing and fully refunding a bizarre Supercharger pricing glitch that affected drivers in Atlantic Canada. The issue surfaced earlier this month when…",
@@ -108,10 +121,10 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-15T16:14:31.000Z",
-      "title": "SpaceX Falls Below I.P.O. Price of $135",
-      "body": "SpaceX Falls Below I.P.O. Price of $135 The New York Times",
+      "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
+      "body": "SpaceX Briefly Falls Below I.P.O. Price of $135 The New York Times",
       "sourceName": "The New York Times",
       "sourceLabel": "press",
       "slug": "",
@@ -121,20 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-15T16:08:36.000Z",
-      "title": "SpaceX Shares Fall Below IPO Price for First Time as Hype Fades",
-      "body": "SpaceX Shares Fall Below IPO Price for First Time as Hype Fades Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-15/spacex-shares-fall-below-ipo-price-for-first-time-as-hype-fades"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-15T16:08:36.000Z",
       "title": "SpaceX Falls Below IPO Price for First Time as Hype Fades",
       "body": "SpaceX Falls Below IPO Price for First Time as Hype Fades Bloomberg.com",
@@ -147,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-15T14:21:00.000Z",
       "title": "Tesla Stock Is in the Calm Before the Storm",
       "body": "Tesla Stock Is in the Calm Before the Storm Barron's",
@@ -160,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-15T13:53:21.000Z",
       "title": "Someone is flipping Tesla Model S Signature for $260,000 — $100K+ markup",
       "body": "A New Jersey dealer is trying to flip a barely-driven Tesla Model S Signature for $259,995 — roughly $100,000 more than what Tesla charged buyers for the collector’s edition. The car carries VIN #71 and just 297 miles on…",
@@ -173,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-15T00:07:37.000Z",
       "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
       "body": "See How Tesla Tore Down The Model S Factory To Build Robots Instead InsideEVs",
@@ -184,22 +184,9 @@
       "href": "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "22h ago",
-      "pubDate": "2026-07-14T21:00:38.000Z",
-      "title": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance",
-      "body": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-14T20:23:00.000Z",
       "title": "Three Price Target Boosts Can’t Help Tesla Stock",
       "body": "Three Price Target Boosts Can’t Help Tesla Stock Barron's",
@@ -249,17 +236,30 @@
       "href": "https://www.barrons.com/market-data/stocks/tsla/interactive-chart?amp%253Biso"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-13T20:13:00.000Z",
-      "title": "Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It?",
-      "body": "Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It? Barron's",
-      "sourceName": "Barron's",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "13d ago",
+      "pubDate": "2026-07-03T07:00:00.000Z",
+      "title": "Tesla rolls out robotaxi service in Miami",
+      "body": "Tesla rolls out robotaxi service in Miami Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-robots-ea58cefa"
+      "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-robotaxi-service-miami-2026-07-03/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "14d ago",
+      "pubDate": "2026-07-02T07:00:00.000Z",
+      "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
+      "body": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html"
     }
   ]
 }
