@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-15 06:20 UTC · 누적 609건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-15 10:07 UTC · 누적 610건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-14T23:44:44.000Z",
+      "title": "텍사스 무인 로보택시 <em>117대</em> 확인 — 세 자릿수 확장세 지속",
+      "hotShort": "텍사스 무인 로보택시 <em>117대</em>로 늘어",
+      "body": "테슬라 트래커 홀 마스가 텍사스 전역에서 안전요원 없는 무인 로보택시가 117대 운행 중이라고 전했다 — 오스틴·댈러스·휴스턴에 마이애미까지 넓어진 로보택시망이 계속 몸집을 불리는 흐름으로, 상업화 속도를 가늠하는 신호로 주목된다.",
+      "sourceName": "Whole Mars (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-texas-117-2026-07-14",
+      "summary": "테슬라 로보택시의 무인(안전요원 없는) 운행 대수가 텍사스 전역에서 117대로 늘어난 것으로 확인됐다. 테슬라 소식을 꾸준히 추적해온 X 계정 홀 마스가 이 수치를 공개했다.\n\n이는 바로 이틀 전인 7월13일 소여 메릿이 휴스턴 로보택시 허브에서만 사이버캡 약 100대를 목격했다고 전한 것과 함께 볼 때, 세 자릿수를 넘어선 차량 규모가 여러 거점에서 동시에 불어나고 있다는 흐름을 뒷받침한다.\n\n테슬라 로보택시망은 현재 오스틴을 중심으로 댈러스·휴스턴, 그리고 지난 7월 초 새로 문을 연 마이애미까지 4개 도시로 확장돼 있다. 배런스가 최근 \"테슬라 주가 가치의 92~93%가 로봇·로보택시에서 나온다\"고 짚었을 만큼, 무인 차량 대수 증가는 로보택시 상업화 속도를 판단하는 실질적 지표로 투자자들이 주시하는 항목이다.",
+      "title_en": "<em>117</em> driverless Tesla Robotaxis now confirmed operating across Texas",
+      "hotShort_en": "Texas driverless Robotaxi fleet hits <em>117</em>",
+      "body_en": "Tesla tracker Whole Mars reports 117 driverless Robotaxis — no safety driver aboard — now operating across Texas, as the network spanning Austin, Dallas, Houston and Miami keeps expanding, a metric investors watch closely as a gauge of commercialization pace.",
+      "summary_en": "The number of Tesla Robotaxis operating without a safety driver across Texas has climbed to 117, according to X tracker Whole Mars, who has closely followed Tesla's autonomy rollout.\n\nThe figure follows a report just two days earlier, on July 13, from Sawyer Merritt that roughly 100 Cybercabs had been spotted at the Houston Robotaxi hub alone — together pointing to triple-digit fleet counts building up across multiple hubs at once.\n\nTesla's Robotaxi network now spans four cities — Austin, Dallas, Houston, and the newly launched Miami market from early July. With Barron's recently estimating that 92-93% of Tesla's stock valuation rests on robots and Robotaxi, the pace of driverless fleet growth remains a closely watched signal for how fast the commercial rollout is actually scaling.",
+      "href": "https://x.com/wholemars/status/2077177509301592570",
+      "sentiment": "bull",
+      "hot": 3
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
