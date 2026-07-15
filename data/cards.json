@@ -27,6 +27,26 @@
       "hot": 5
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-14T21:05:05.000Z",
+      "title": "6월 EV 평균가 6개월 연속 하락 — 테슬라는 <em>가장 완만한 낙폭</em>",
+      "hotShort": "EV 가격 6개월째 하락 — 테슬라 <em>가장 선방</em>",
+      "body": "6월 미국 EV 평균 거래가가 전년 대비 <em>4.5%</em> 떨어지며 6개월 연속 내림세를 이어간 반면, 테슬라 평균가는 $53,107로 전년 대비 <em>-2.1%</em>에 그쳐 올해 나온 월별 낙폭 중 가장 작았다 — 업계 가격 경쟁 속에서도 상대적 방어력을 보여준 수치.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-june-ev-atp-tesla-resilience-2026-07-14",
+      "summary": "콕스오토모티브·켈리블루북(Kelley Blue Book)의 6월 신차 평균거래가(ATP) 보고서에 따르면, 미국 EV 평균가는 $56,238로 인센티브 비중이 ATP의 <em>13%</em>에 달했다 — 전체 신차 평균 인센티브 비중(약 7%)의 거의 2배로, 업계가 여전히 할인·인센티브로 수요를 떠받치고 있음을 보여준다.\n\n이런 흐름 속에서도 테슬라는 6월 평균가 $53,107로 전월 대비 소폭 올랐고, 전년 대비 낙폭은 <em>-2.1%</em>로 올해 들어 가장 작은 하락률을 기록했다. 주력 모델인 모델Y는 $51,775로 전년 대비 <em>-2.7%</em> 하락했지만, 여전히 미국 EV 판매의 <em>35%</em> 이상을 차지하는 최다판매 모델 지위를 유지했다.\n\n업계 평균이 6개월 연속 하락하는 와중에도 테슬라가 상대적으로 가격을 방어했다는 것은, 대규모 인센티브에 기대지 않고도 수요와 브랜드력으로 판매가를 지탱하고 있다는 신호로 해석될 수 있다.\n\n다만 이 방어력이 실제 마진으로 이어지는지는 <em>7월22일</em> 2분기 실적발표에서 확인될 전망 — 평균판매가격(ASP) 안정이 매출총이익률에 어떻게 반영됐는지가 관전 포인트다.",
+      "title_en": "US EV prices fall for a <em>6th straight month</em> — Tesla's decline is the smallest",
+      "hotShort_en": "EV prices fall 6th month — <em>Tesla holds up best</em>",
+      "body_en": "US average EV transaction prices fell <em>4.5%</em> year-over-year in June, marking a sixth straight month of declines, while Tesla's average price of $53,107 was down just <em>2.1%</em> — the smallest annual drop of any month so far this year, a sign of relative pricing resilience amid the industry-wide price war.",
+      "summary_en": "According to Cox Automotive/Kelley Blue Book's June average transaction price (ATP) report, the US EV average was $56,238, with incentives running at <em>13%</em> of ATP — nearly double the roughly 7% incentive rate for new vehicles overall, underscoring how much the industry still leans on discounts to support demand.\n\nTesla bucked that trend somewhat: its June ATP rose slightly month-over-month to $53,107, down just <em>2.1%</em> year-over-year — the smallest annual decline of any month in 2026. The Model Y, Tesla's volume leader, averaged $51,775 (down <em>2.7%</em> YoY) but still accounted for more than <em>35%</em> of all US EV sales.\n\nThe fact that Tesla's pricing held up better than the broader EV market during a sixth consecutive month of industry-wide declines suggests the company is leaning on demand and brand strength rather than heavy incentives to defend its price points.\n\nWhether that pricing resilience is translating into margin will become clearer at the <em>July 22</em> Q2 earnings call, where investors will watch how average selling price stability flows through to gross margin.",
+      "href": "https://electrek.co/2026/07/14/ev-prices-just-fell-again-heres-what-us-buyers-paid-in-june/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -125,7 +145,27 @@
       ],
       "sentiment": "neutral",
       "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-13T20:13:00.000Z",
+      "title": "테슬라 주가 52주 고점 대비 20%↓ — 배런스 \"주가의 <em>92~93%</em>는 로봇·로보택시 가치\"",
+      "hotShort": "테슬라 주가, <em>93%가 비車사업</em> 가치 — 배런스",
+      "body": "테슬라 주가가 52주 고점 대비 약 <em>20%</em> 조정을 받은 가운데, 배런스는 현재 주가의 <em>92~93%</em>가 로보택시·옵티머스·FSD 라이선스 등 아직 유의미한 매출이 없는 비차량 사업의 가치에서 나온다고 분석 — 본업 성장 둔화를 미래 사업 기대감으로 메우는 구조라는 지적이다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-robots-93pct-valuation-2026-07-13",
+      "summary": "테슬라의 지난 분기 차량 판매는 전년 대비 <em>3%</em> 감소해, 10년 가까이 이어온 고속 성장세가 꺾였다. 배런스는 미 연방 EV 세액공제($7,500)가 2025년 9월 종료되고 고금리로 할부 부담이 커진 점이 핵심 차량 판매 기반을 좁혔다고 짚었다.\n\n이런 상황에서 일론 머스크는 회사의 다음 성장동력을 AI·휴머노이드 로봇·로보택시에 걸고 있다. 배런스 분석에 따르면 현재 테슬라 주가의 <em>92~93%</em>에 해당하는 부분이 로보택시·옵티머스·FSD 라이선스·에너지 저장 사업의 가치로 설명되는데, 이들 사업은 아직 사실상 유의미한 매출이 없는 단계다.\n\n회사 스스로도 로보택시의 유의미한 매출 발생 시점을 최소 <em>2027년</em>으로 잡고 있어, 대규모 상용화까지는 기술·규제·비용 장벽이 여전히 남아 있다는 게 배런스의 진단이다.\n\n테슬라는 <em>7월22일</em> 2분기 실적발표를 앞두고 있다 — 마진 방어와 로보택시·옵티머스 진행 상황이 확인돼야, 본업과 미래 사업 기대치 사이의 밸류에이션 갭이 좁혀질지 가늠할 수 있을 전망이다.",
+      "title_en": "Tesla stock down <em>20%</em> from its 52-week high — Barron's says <em>92-93%</em> of the price is robots and robotaxis",
+      "hotShort_en": "Tesla stock: <em>93% is non-car</em> value — Barron's",
+      "body_en": "With Tesla shares down roughly <em>20%</em> from their 52-week high, Barron's estimates that <em>92-93%</em> of the current stock price is attributable to Robotaxi, Optimus, and FSD licensing — businesses that still generate little to no meaningful revenue — arguing the stock is leaning on future bets to offset slowing core-business growth.",
+      "summary_en": "Tesla's vehicle sales fell <em>3%</em> year-over-year last quarter, halting nearly a decade of rapid growth. Barron's points to the expiration of the $7,500 federal EV tax credit after September 2025 and high interest rates raising financing costs as key factors narrowing Tesla's addressable market for its core lineup.\n\nAgainst that backdrop, Elon Musk is betting the company's next act on AI, humanoid robots, and robotaxis. Barron's analysis finds that <em>92-93%</em> of Tesla's current share price is explained by the value of Robotaxi, Optimus, FSD licensing, and energy storage — businesses that are still essentially pre-revenue.\n\nEven in the company's own optimistic scenarios, meaningful robotaxi revenue isn't expected before <em>2027</em>, and Barron's notes that large-scale deployment still faces significant technical, regulatory, and cost hurdles.\n\nTesla's Q2 earnings call is set for <em>July 22</em> — margin trends and progress on Robotaxi and Optimus will be the key signals for whether that gap between core-business reality and future-bet optimism starts to close.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-robots-ea58cefa",
+      "sentiment": "bear",
+      "hot": 5
     }
   ],
-  "asOf": "2026-07-15 08:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-15 11:53 KST 자동 갱신 · 최신순"
 }

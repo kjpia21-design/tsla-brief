@@ -27,6 +27,26 @@
       "hot": 5
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-14T21:05:05.000Z",
+      "title": "6월 EV 평균가 6개월 연속 하락 — 테슬라는 <em>가장 완만한 낙폭</em>",
+      "hotShort": "EV 가격 6개월째 하락 — 테슬라 <em>가장 선방</em>",
+      "body": "6월 미국 EV 평균 거래가가 전년 대비 <em>4.5%</em> 떨어지며 6개월 연속 내림세를 이어간 반면, 테슬라 평균가는 $53,107로 전년 대비 <em>-2.1%</em>에 그쳐 올해 나온 월별 낙폭 중 가장 작았다 — 업계 가격 경쟁 속에서도 상대적 방어력을 보여준 수치.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-june-ev-atp-tesla-resilience-2026-07-14",
+      "summary": "콕스오토모티브·켈리블루북(Kelley Blue Book)의 6월 신차 평균거래가(ATP) 보고서에 따르면, 미국 EV 평균가는 $56,238로 인센티브 비중이 ATP의 <em>13%</em>에 달했다 — 전체 신차 평균 인센티브 비중(약 7%)의 거의 2배로, 업계가 여전히 할인·인센티브로 수요를 떠받치고 있음을 보여준다.\n\n이런 흐름 속에서도 테슬라는 6월 평균가 $53,107로 전월 대비 소폭 올랐고, 전년 대비 낙폭은 <em>-2.1%</em>로 올해 들어 가장 작은 하락률을 기록했다. 주력 모델인 모델Y는 $51,775로 전년 대비 <em>-2.7%</em> 하락했지만, 여전히 미국 EV 판매의 <em>35%</em> 이상을 차지하는 최다판매 모델 지위를 유지했다.\n\n업계 평균이 6개월 연속 하락하는 와중에도 테슬라가 상대적으로 가격을 방어했다는 것은, 대규모 인센티브에 기대지 않고도 수요와 브랜드력으로 판매가를 지탱하고 있다는 신호로 해석될 수 있다.\n\n다만 이 방어력이 실제 마진으로 이어지는지는 <em>7월22일</em> 2분기 실적발표에서 확인될 전망 — 평균판매가격(ASP) 안정이 매출총이익률에 어떻게 반영됐는지가 관전 포인트다.",
+      "title_en": "US EV prices fall for a <em>6th straight month</em> — Tesla's decline is the smallest",
+      "hotShort_en": "EV prices fall 6th month — <em>Tesla holds up best</em>",
+      "body_en": "US average EV transaction prices fell <em>4.5%</em> year-over-year in June, marking a sixth straight month of declines, while Tesla's average price of $53,107 was down just <em>2.1%</em> — the smallest annual drop of any month so far this year, a sign of relative pricing resilience amid the industry-wide price war.",
+      "summary_en": "According to Cox Automotive/Kelley Blue Book's June average transaction price (ATP) report, the US EV average was $56,238, with incentives running at <em>13%</em> of ATP — nearly double the roughly 7% incentive rate for new vehicles overall, underscoring how much the industry still leans on discounts to support demand.\n\nTesla bucked that trend somewhat: its June ATP rose slightly month-over-month to $53,107, down just <em>2.1%</em> year-over-year — the smallest annual decline of any month in 2026. The Model Y, Tesla's volume leader, averaged $51,775 (down <em>2.7%</em> YoY) but still accounted for more than <em>35%</em> of all US EV sales.\n\nThe fact that Tesla's pricing held up better than the broader EV market during a sixth consecutive month of industry-wide declines suggests the company is leaning on demand and brand strength rather than heavy incentives to defend its price points.\n\nWhether that pricing resilience is translating into margin will become clearer at the <em>July 22</em> Q2 earnings call, where investors will watch how average selling price stability flows through to gross margin.",
+      "href": "https://electrek.co/2026/07/14/ev-prices-just-fell-again-heres-what-us-buyers-paid-in-june/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -229,6 +249,26 @@
       ],
       "sentiment": "bull",
       "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-13T20:13:00.000Z",
+      "title": "테슬라 주가 52주 고점 대비 20%↓ — 배런스 \"주가의 <em>92~93%</em>는 로봇·로보택시 가치\"",
+      "hotShort": "테슬라 주가, <em>93%가 비車사업</em> 가치 — 배런스",
+      "body": "테슬라 주가가 52주 고점 대비 약 <em>20%</em> 조정을 받은 가운데, 배런스는 현재 주가의 <em>92~93%</em>가 로보택시·옵티머스·FSD 라이선스 등 아직 유의미한 매출이 없는 비차량 사업의 가치에서 나온다고 분석 — 본업 성장 둔화를 미래 사업 기대감으로 메우는 구조라는 지적이다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-robots-93pct-valuation-2026-07-13",
+      "summary": "테슬라의 지난 분기 차량 판매는 전년 대비 <em>3%</em> 감소해, 10년 가까이 이어온 고속 성장세가 꺾였다. 배런스는 미 연방 EV 세액공제($7,500)가 2025년 9월 종료되고 고금리로 할부 부담이 커진 점이 핵심 차량 판매 기반을 좁혔다고 짚었다.\n\n이런 상황에서 일론 머스크는 회사의 다음 성장동력을 AI·휴머노이드 로봇·로보택시에 걸고 있다. 배런스 분석에 따르면 현재 테슬라 주가의 <em>92~93%</em>에 해당하는 부분이 로보택시·옵티머스·FSD 라이선스·에너지 저장 사업의 가치로 설명되는데, 이들 사업은 아직 사실상 유의미한 매출이 없는 단계다.\n\n회사 스스로도 로보택시의 유의미한 매출 발생 시점을 최소 <em>2027년</em>으로 잡고 있어, 대규모 상용화까지는 기술·규제·비용 장벽이 여전히 남아 있다는 게 배런스의 진단이다.\n\n테슬라는 <em>7월22일</em> 2분기 실적발표를 앞두고 있다 — 마진 방어와 로보택시·옵티머스 진행 상황이 확인돼야, 본업과 미래 사업 기대치 사이의 밸류에이션 갭이 좁혀질지 가늠할 수 있을 전망이다.",
+      "title_en": "Tesla stock down <em>20%</em> from its 52-week high — Barron's says <em>92-93%</em> of the price is robots and robotaxis",
+      "hotShort_en": "Tesla stock: <em>93% is non-car</em> value — Barron's",
+      "body_en": "With Tesla shares down roughly <em>20%</em> from their 52-week high, Barron's estimates that <em>92-93%</em> of the current stock price is attributable to Robotaxi, Optimus, and FSD licensing — businesses that still generate little to no meaningful revenue — arguing the stock is leaning on future bets to offset slowing core-business growth.",
+      "summary_en": "Tesla's vehicle sales fell <em>3%</em> year-over-year last quarter, halting nearly a decade of rapid growth. Barron's points to the expiration of the $7,500 federal EV tax credit after September 2025 and high interest rates raising financing costs as key factors narrowing Tesla's addressable market for its core lineup.\n\nAgainst that backdrop, Elon Musk is betting the company's next act on AI, humanoid robots, and robotaxis. Barron's analysis finds that <em>92-93%</em> of Tesla's current share price is explained by the value of Robotaxi, Optimus, FSD licensing, and energy storage — businesses that are still essentially pre-revenue.\n\nEven in the company's own optimistic scenarios, meaningful robotaxi revenue isn't expected before <em>2027</em>, and Barron's notes that large-scale deployment still faces significant technical, regulatory, and cost hurdles.\n\nTesla's Q2 earnings call is set for <em>July 22</em> — margin trends and progress on Robotaxi and Optimus will be the key signals for whether that gap between core-business reality and future-bet optimism starts to close.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-robots-ea58cefa",
+      "sentiment": "bear",
+      "hot": 5
     },
     {
       "category": "fsd",
@@ -2347,59 +2387,7 @@
       "hotShort_en": "TSLA SpaceX stake nets <em>~$930M</em> in Q2",
       "body_en": "Tesla disclosed in its Q1 2026 8-K that it holds approximately 19 million SpaceX shares — the position originated from a $2B xAI Holdings investment that converted to SpaceX stock when SpaceX acquired xAI. At SpaceX's current price of ~$154.54 (June 30), the stake is worth approximately $2.9B, implying a roughly $930M Q2 investment gain that flows directly to Tesla's income statement under its fair value accounting election. Barron's identified this structure as the reason Tesla and SpaceX shares trade in near-lockstep — when SpaceX drifts, so does Tesla's quarterly EPS.",
       "summary_en": "Tesla's Q1 2026 8-K, filed April 22, disclosed for the first time that the company holds approximately 19 million SpaceX shares. The position traces back to January 16, 2026, when Tesla agreed to invest $2 billion in xAI Holdings' Series E funding round. SpaceX subsequently acquired xAI Holdings, and Tesla's xAI preferred shares were converted to SpaceX Class A common stock — an exchange Tesla completed on March 12, 2026.\n\nThe critical accounting decision: Tesla elected the fair value option on the SpaceX investment. Under this method, Tesla marks the position to the market price at the end of each quarter and flows the gain or loss directly through its income statement. Before SpaceX went public on June 12, 2026 (raising $75B at a $1.77 trillion valuation), the position was carried on Tesla's balance sheet at cost. The IPO introduced a daily observable price, making the fair value approach both mandatory and visible.\n\nAs of June 30, SpaceX trades at approximately $154.54 per share, down roughly 19% from its early post-IPO peak of around $192. Tesla's 19 million shares are therefore worth approximately $2.93 billion. Against the $2 billion cost basis, this represents a pre-tax unrealized gain of approximately $930 million that will be recognized in Tesla's Q2 2026 earnings.\n\nBarron's identified this fair value structure as the mechanical reason TSLA and SpaceX have traded in near-lockstep since the IPO. When SpaceX fell roughly 19% from its post-IPO peak, Tesla's quarterly income statement faced a corresponding reduction in its investment gain.\n\nFor Tesla investors, the SpaceX stake introduces two new analytical variables. First, Tesla's Q2 EPS will include a meaningful non-cash, non-operating investment gain — roughly $930M pre-tax — that must be separated from operating performance when comparing to the prior quarter or Wall Street's operating estimates. Second, SpaceX stock volatility is now a permanent feature of Tesla's quarterly earnings cadence, meaning TSLA valuation work requires modeling both Tesla's operations and the SpaceX position. The July 22 Q2 earnings call is the first occasion where Tesla's CFO will need to address this item at scale."
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-06-30T18:04:54.000Z",
-      "title": "테슬라, '주차 중 사각지대 경고' — SW 2026.20.6으로 <em>전 세계 확대</em>",
-      "hotShort": "주차 중 사각지대 도어 경고 — <em>전 세계 확대</em>",
-      "body": "테슬라가 소프트웨어 2026.20.6 업데이트로 '주차 중 사각지대 경고(Blind Spot Warning While Parked)'를 전 세계 더 많은 차종으로 확대했다 — 주차 후 문을 열 때 자전거·차량이 사각지대에서 접근 중이면 경보음이 울리고 최초 조작으로는 문이 열리지 않아 '도어링' 사고를 예방한다. 사이버트럭에서 먼저 탑재됐던 이 기능이 이번 업데이트로 더 많은 모델·지역으로 확대됐다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-blind-spot-warning-global-2026-06-30",
-      "summary": "테슬라가 2026년 6월 30일 소프트웨어 2026.20.6 업데이트를 통해 '주차 중 사각지대 경고(Blind Spot Warning While Parked)' 기능을 전 세계 더 많은 차종·지역으로 확대했다. Teslarati가 이 기능의 글로벌 확대를 보도했으며, Not a Tesla App도 같은 업데이트에서의 기능 확장을 확인했다.\n\n기능 동작 방식: 주차 후 차 문을 열려는 순간, 후방·측면 사각지대에 자전거·오토바이·차량이 접근 중인 것이 감지되면 경보음이 울리고 문이 최초 한 번 누름으로는 열리지 않는다. 경고를 인지하고 두 번째로 버튼을 누르면 문이 열리는 '이중 확인' 구조다 — 자전거가 갑자기 열린 차문에 충돌하는 '도어링(dooring)' 사고를 예방하도록 설계됐다.\n\n이 기능은 2024년 사이버트럭에 먼저 탑재됐고, 이번 2026.20.6 업데이트로 더 많은 테슬라 모델 라인업과 지역으로 확대됐다. 2026.20.6는 주요 신규 UI 기능보다 유지보수·개선에 초점을 맞춘 빌드이나, 사각지대 경고의 글로벌 확대는 기존 오너에게 실질적인 안전 기능 보강을 제공한다.\n\n투자자 관점에서 이 기능 확대의 즉각적인 수익 효과는 제한적이다. 그러나 사이버캡 공도 테스트·연방 이중 조사가 동시에 진행되는 시점에, 기존 차량의 능동 안전 기능도 지속적으로 업그레이드하고 있다는 점은 테슬라의 안전 기술 역량과 브랜드 신뢰도를 뒷받침한다.",
-      "href": "https://www.teslarati.com/tesla-expands-massive-safety-feature-worldwide-latest-update/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Not a Tesla App"
-      ],
-      "sentiment": "bull",
-      "hot": 5,
-      "title_en": "Tesla expands <em>Blind Spot Warning While Parked</em> globally in SW 2026.20.6",
-      "hotShort_en": "Door blind spot warning goes <em>worldwide</em>",
-      "body_en": "Tesla's software 2026.20.6 update expands Blind Spot Warning While Parked to more vehicles globally — when an approaching cyclist or vehicle is detected in a parked car's blind spot as a driver attempts to open the door, an audible alert sounds and the door does not open on the first press, requiring a second press to override and preventing dooring accidents. The feature debuted on Cybertruck and is now rolling out to a wider range of Tesla models worldwide.",
-      "summary_en": "Tesla released software version 2026.20.6 on June 30, 2026, with the standout safety content being a significant global expansion of Blind Spot Warning While Parked to more Tesla models and markets. Teslarati reported the rollout, and Not a Tesla App confirmed the feature expansion in the same update.\n\nThe feature's mechanism is designed around a two-step confirmation to prevent dooring accidents: when a driver attempts to open a door after parking, the vehicle's rear and side cameras monitor for approaching cyclists, motorcycles, or vehicles. If an object is detected in the blind spot zone, a chime sounds and the door does not open on the first press — the driver must press again to override the warning. This deliberate friction is designed to interrupt the moment of inattention that causes most dooring incidents, where a cyclist traveling along parked cars is struck by a door that opens without warning.\n\nBlind Spot Warning While Parked first appeared on Cybertruck ahead of the rest of Tesla's lineup. Software 2026.20.6 extends it to a meaningfully wider set of vehicles. The version is primarily a maintenance release and does not introduce new infotainment or FSD-level features, but the Blind Spot expansion is a concrete active-safety improvement for existing owners who park in urban environments.\n\nFor investors, the feature rollout is incremental rather than a material revenue event. Its significance is contextual: at a moment when Tesla's autonomous safety is under dual federal investigation — NHTSA and NTSB are both probing the June 20 Katy, Texas FSD crash — continuing to expand proven passive-safety features across the base vehicle fleet reinforces Tesla's broader engineering safety narrative, an asset for the regulatory relationships that the Cybercab expansion program depends on."
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-06-30T16:09:09.000Z",
-      "title": "테슬라, 프로덕션 사이버캡 — 핸들·페달 없이 <em>오스틴 공도 테스트</em> 개시",
-      "hotShort": "프로덕션 사이버캡 — 핸들·페달 없이 <em>공도 테스트</em> 개시",
-      "body": "테슬라가 6월 30일 핸들과 페달이 없는 프로덕션 사이버캡을 오스틴 공도 엔지니어링 테스트에 투입했다 — X에 공개된 영상에는 운전석 공석·앞좌석 안전 모니터 1명만 탑승한 채 시내를 자율주행하는 모습이 담겼다. 2024년 10월 개념 공개, 2026년 2월 17일 기가텍사스 첫 생산 롤오프에 이어 프로덕션 사양 차량이 처음으로 실제 공도를 달렸다 — 상업 배포 전 마지막 검증 단계의 시작이다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-cybercab-production-road-test-2026-06-30",
-      "summary": "테슬라가 6월 30일 오스틴 공공 도로에서 프로덕션 사이버캡의 엔지니어링 테스트를 개시했다. 테슬라가 X에 직접 공유한 영상에는 운전석이 비어 있는 사이버캡이 오스틴 시내를 자율주행으로 통과하는 모습이 담겼다. 앞좌석에는 안전 모니터 한 명이 탑승해 있으며, 차량은 스티어링 칼럼·페달 박스·계기판 클러스터를 처음부터 설계에서 배제한 프로덕션 사양 그대로다 — 리트로핏(사후 제거)이 아닌 태생적 자율주행 전용 차량이다.\n\n사이버캡의 타임라인: 머스크가 2024년 10월 10일 컨셉 공개, 2026년 2월 17일 기가팩토리 텍사스에서 첫 프로덕션 롤오프, 그리고 오늘(6월 30일) 첫 공도 엔지니어링 테스트 — 컨셉 공개부터 공도 주행까지 약 20개월이 걸렸다.\n\nEPA 신청서로 확인된 차량 사양: 48kWh 배터리, 219HP 단일 전방 모터, 공차 중량 3,113파운드(약 1,413kg), 에너지 효율 165Wh/마일. 테슬라 역사상 가장 높은 에너지 효율을 기록했다. 목표 가격은 약 $25,000(머스크 어닝콜 발언 기준). 스티어링 칼럼과 페달 박스를 생략해 확보된 공간이 2인승 객실을 최대화한다.\n\n현재는 '엔지니어링 테스트' 단계로 상업 고객 탑승 서비스가 아니며 안전 모니터가 탑승한다. 테슬라는 이미 오스틴에서 모델 Y 기반 무인 FSD 로보택시를 상업 운영 중이며(2026년 6월 3일 대도시권 전체 확장), 사이버캡은 궁극적으로 이 플릿을 대체·확장하게 된다.\n\n투자자 관점에서 타이밍이 주목할 만하다. H1 2026 로보택시 5개 도시 목표가 오늘 기한 만료로 미달성이 확정된 같은 날, 프로덕션 사이버캡이 핸들·페달 없이 공도 주행을 시작했다. '일정 약속 미달성 vs. 하드웨어 마일스톤 달성'이라는 이중 데이터가 동시에 나왔다. 7월 2일 Q2 인도 발표, 7월 22일 어닝콜에서 머스크가 사이버캡 상업 배포 일정을 구체화할지가 다음 핵심 촉매다.",
-      "href": "https://electrek.co/2026/06/30/tesla-cybercab-engineering-tests-austin/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Electrek",
-        "Teslarati",
-        "TechCrunch",
-        "Drive Tesla Canada"
-      ],
-      "sentiment": "bull",
-      "hot": 9,
-      "title_en": "Tesla's Production Cybercab — <em>no wheel, no pedals</em> — begins Austin public road tests",
-      "hotShort_en": "Production Cybercab: <em>no wheel, no pedals</em> — Austin road tests start",
-      "body_en": "Tesla launched engineering tests of its purpose-built production Cybercab on Austin public roads on June 30, sharing video on X of the vehicle — steering-wheel-free and pedalless by original design, not retrofit — navigating city streets with a safety monitor in the front seat. Production units first rolled off Gigafactory Texas on February 17; today's run marks the first real-world on-road engineering validation of the hardware. These are engineering tests, not yet commercial rides, but the milestone begins the final technical verification phase before Cybercab commercial deployment.",
-      "summary_en": "Tesla began engineering tests of its production Cybercab on public roads in Austin, Texas on June 30. The company posted video on X showing a production unit — front seat occupied by a safety monitor, driver's seat empty — navigating Austin city streets autonomously. The vehicle is not a prototype or a retrofit: the Cybercab was designed from scratch without a steering column, pedal box, or driver's instrument cluster, and these absences expand the usable interior space for two passengers.\n\nThe Cybercab's timeline: Elon Musk publicly unveiled the concept on October 10, 2024; the first production unit rolled off Gigafactory Texas on February 17, 2026; and on June 30, 2026 — roughly 20 months after the reveal — the production vehicle completed its first public road engineering runs in Austin.\n\nTechnical specifications confirmed through EPA filings: 48 kWh battery, 219 HP single front-mounted motor, curb weight 3,113 pounds, and an energy efficiency of 165 Wh/mi — the highest efficiency of any Tesla vehicle ever built. Elon Musk has cited a target price around $25,000 on recent earnings calls.\n\nToday's milestone is labeled 'engineering tests,' not commercial passenger service. A safety monitor occupies the front seat throughout the runs. Tesla currently operates a separate fleet of Model Y-based unsupervised Robotaxi rides commercially across greater Austin (expanded to the full metro on June 3, 2026). The Cybercab is the dedicated autonomous vehicle eventually intended to replace and scale that fleet.\n\nThe timing is notable. On the same day Tesla's H1 2026 commitment to launch Cybercab rides in five cities — Las Vegas, Tampa, Orlando, Miami, and Phoenix — formally expired with none operational, production Cybercabs began engineering validation runs on public roads. The dual data point — missed deadline on one hand, a concrete hardware milestone on the other — sets up an important context for Musk to address at the July 22 Q2 earnings call. The next milestone to watch: when engineering tests convert to commercial deployment, and whether any new cities appear in the updated timeline."
     }
   ],
-  "asOf": "2026-07-15 08:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-15 11:53 KST 자동 갱신 · 최신순"
 }
