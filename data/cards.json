@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-15T14:21:00.000Z",
+      "title": "테슬라 2분기 실적 D-7 — 컨센서스 EPS <em>0.55달러</em>, 관건은 숫자보다 AI 코멘트",
+      "hotShort": "실적 D-7, 관건은 <em>AI 사업 코멘트</em>",
+      "body": "테슬라 2분기 실적발표(7월22일)를 일주일 앞두고 주가가 좁은 박스권에 머문 가운데, 월가는 컨센서스 EPS 0.55달러(전년 0.40달러)라는 숫자보다 로보택시·옵티머스에 대한 경영진 코멘트에 더 주목하고 있다 — 지난 분기엔 인도량 서프라이즈에도 주가가 급락했던 전례가 있어서다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "배런스는 최근 며칠간 좁은 박스권에 머물던 테슬라 주가를 두고 \"폭풍 전의 고요\"라고 표현했다. 7월22일 2분기 실적발표를 기점으로 다시 변동성이 커질 수 있다는 관측이다.\n\n월가가 제시한 이번 분기 주당순이익(EPS) 컨센서스는 0.55달러로, 전년 동기 0.40달러보다 늘어난 수치다. 다만 배런스는 이 숫자 자체보다 로보택시·옵티머스 사업 진행 상황에 대한 경영진의 코멘트가 주가에 더 큰 영향을 줄 가능성이 크다고 짚었다.\n\n근거는 최근의 전례다. 지난 7월2일 발표된 2분기 인도량(48만126대)이 컨센서스(약 40만6천대)를 큰 폭으로 웃돌았음에도, 그날 주가는 오히려 7.5% 급락했다 — 시장이 물량 서프라이즈보다 수익성·AI 사업의 실체를 더 민감하게 반영한다는 신호였다.\n\n테슬라는 로보택시·옵티머스 등 AI 사업에 올해 약 250억달러를 투입한다는 계획을 밝힌 바 있어, 이번 실적발표에서 나올 진행 상황 코멘트가 밸류에이션의 핵심 변수로 꼽힌다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
+      "title_en": "Tesla enters the <em>\"calm before the storm\"</em> ahead of Q2 earnings — EPS consensus at $0.55",
+      "hotShort_en": "Tesla Q2 earnings T-7: <em>AI commentary</em> is the real catalyst",
+      "body_en": "With Tesla's Q2 earnings call just a week away (July 22), the stock has been trading in a tight range — but Wall Street is watching management's robotaxi and Optimus commentary more closely than the $0.55 EPS consensus (up from $0.40 a year ago), after a delivery beat still triggered a stock selloff last quarter.",
+      "summary_en": "Barron's described Tesla's recent trading range as \"the calm before the storm,\" with volatility likely to return once the company reports Q2 earnings on July 22.\n\nWall Street's EPS consensus for the quarter stands at $0.55, up from $0.40 a year earlier. But Barron's noted that the number itself may matter less than what management says about Robotaxi and Optimus progress.\n\nThe precedent is fresh: Tesla's Q2 deliveries, reported July 2, came in at 480,126 units — well above the roughly 406,000-unit consensus — yet the stock still fell 7.5% that day, a sign investors are weighing profitability and AI execution more heavily than volume beats.\n\nTesla has said it plans to spend roughly $25 billion this year on AI initiatives including Robotaxi and Optimus, making management's progress commentary the key variable for the stock's valuation heading into the July 22 call, set for 5:30 p.m. ET right after market close.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-volatility-earnings-bcb428a3",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "13h ago",
+      "pubDate": "2026-07-15T02:50:55.000Z",
+      "title": "테슬라 로보택시 도어에 <em>'Robotaxi' 로고 프로젝션 라이트</em> 추가 — 무인 탑승 안전 보완",
+      "hotShort": "로보택시 도어에 <em>로고 프로젝션 라이트</em> 추가",
+      "body": "테슬라가 모델Y 로보택시 차량 도어에 'Robotaxi' 로고를 바닥에 비추는 프로젝션 라이트를 추가했다 — 운전자 없이 홀로 타고 내리는 승객이 어두운 곳에서도 탑승 위치를 쉽게 찾도록 돕는 실질적 안전 보완책이다.",
+      "sourceName": "Sawyer Merritt (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-door-projection-lights-2026-07-15",
+      "summary": "테슬라가 오스틴 로보택시 서비스에 투입되는 모델Y 차량 도어에 새 조명 장치를 추가했다. 테슬라 소식통 소여 메릿(Sawyer Merritt)이 공개한 영상에 따르면, 도어를 열면 바닥에 'Robotaxi' 로고가 프로젝션 형태로 비춰진다.\n\n단순한 디자인 요소를 넘어 실질적 기능도 겸한다. 로보택시는 운전자가 없는 무인 차량이라, 야간이나 어두운 주차 구역에서 승객이 탑승 위치를 정확히 찾지 못해 헛디딜 위험이 있다 — 프로젝션 라이트가 탑승 구역을 밝혀 이런 위험을 줄여준다.\n\n오스틴에서 시작된 테슬라 로보택시 서비스는 2025년 6월 안전요원 동승으로 출발해 2026년 1월 제한적 무인 구역으로 전환됐고, 올해 6월엔 오스틴 광역권 전체로 확대됐다. 최근에는 텍사스 전역의 무인 차량이 117대까지 늘어난 것으로 확인된 바 있다.\n\n사소해 보이는 변화지만, 무인 탑승 경험을 세부적으로 다듬는 작업이 계속되고 있다는 점에서 로보택시 상용화 준비가 꾸준히 진행 중임을 보여주는 신호다.",
+      "title_en": "Tesla adds <em>\"Robotaxi\" logo projection lights</em> to driverless Model Y doors",
+      "hotShort_en": "Robotaxi doors get <em>logo projection lights</em>",
+      "body_en": "Tesla has added door-projection lights that beam a \"Robotaxi\" wordmark onto the ground on its driverless Model Y robotaxis — a small but functional safety touch that helps riders find the entry point in low light with no human driver present.",
+      "summary_en": "Tesla has quietly added a new lighting feature to the Model Y vehicles running its Austin robotaxi service, per a video shared by Tesla-focused account Sawyer Merritt. Opening the door now projects a \"Robotaxi\" wordmark onto the pavement below.\n\nThe feature is more than cosmetic. Because robotaxi rides have no human driver aboard, passengers stepping out in the dark or in a dim parking area could otherwise misjudge the curb or door threshold — the projection light illuminates the entry zone to reduce that risk.\n\nTesla's Austin robotaxi service launched with safety monitors in June 2025, moved to a limited driverless zone by January 2026, and expanded across the greater Austin area this June. The driverless fleet across Texas was recently confirmed to have grown to 117 vehicles.\n\nIt's a minor change, but it points to Tesla continuing to refine the rider experience in small ways as it works toward wider robotaxi commercialization.",
+      "href": "https://x.com/SawyerMerritt/status/2077224361241555203",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -138,54 +178,7 @@
       "href": "https://www.teslarati.com/tesla-owner-attempts-resale-model-s-signature-edition-over-260k/",
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-14T17:07:00.000Z",
-      "title": "월가 목표주가 상향 러시 <em>5개 기관째</em> — 약세 웰스파고도 $130로 소폭 인상",
-      "hotShort": "목표주가 상향 <em>5개 기관째</em> — 웰스파고도 가세",
-      "body": "모건스탠리가 목표주가를 $415에서 $417로, 약세 등급을 유지해온 웰스파고도 $125에서 $130로 각각 소폭 올리며 — 7월22일 실적발표를 앞두고 <em>이번 주에만 5개 기관째</em> 목표주가 상향 대열에 합류했다. 다만 테슬라 주가는 여전히 이들 목표주가를 모두 밑도는 수준에 머물러, 랠리와 실제 주가의 괴리는 좁혀지지 않고 있다.",
-      "sourceName": "MarketScreener",
-      "sourceLabel": "press",
-      "slug": "stock-barclays-pt-370-2026-07-14",
-      "summary": "테슬라(TSLA) 2분기 실적발표(7월22일)를 앞두고, 이번 주 들어 강세부터 약세 등급 기관까지 목표주가를 잇따라 상향 조정하고 있다. 7월7일 RBC캐피털($475→$500, Outperform)을 시작으로 7월9일 UBS($364→$442), 7월14일 바클레이스($360→$370, Equal Weight)에 이어, 같은 날 모건스탠리($415→$417, Equal Weight)와 웰스파고($125→$130, Underweight)까지 목표주가를 올리며 닷새 새 5개 기관이 상향 대열에 합류했다.\n\n특히 눈에 띄는 대목은 웰스파고다. 월가에서 테슬라에 가장 낮은 목표주가($130)를 제시해온 대표적 약세 기관임에도, 방향 자체는 하향이 아닌 소폭 상향을 택했다. 웰스파고는 2분기 인도량이 시장 예상을 웃돈 점은 인정하면서도, 일회성 항목 소멸과 가격 인하 압박이 물량 증가분을 상쇄해 주당순이익(EPS)은 시장 예상과 비슷한 수준에 그칠 것으로 내다봤다.\n\n모건스탠리 역시 견조한 차량·에너지 인도 실적이 이번 분기를 뒷받침할 것으로 보면서도, 로보택시·옵티머스 진행 상황이 주가의 핵심 변수라는 기존 입장을 유지했다.\n\n다만 목표주가 상향 행진에도 테슬라 주가는 7월13일 종가 $394.76으로, 이번 주 나온 다섯 목표주가 중 가장 낮은 웰스파고·바클레이스·모건스탠리 수준에도 못 미친다. 애널리스트들의 낙관과 실제 주가 사이의 괴리가 7월22일 실적발표에서 좁혀질지가 관전 포인트다.",
-      "title_en": "Wall Street's price-target rally hits <em>five firms</em> — even bearish Wells Fargo nudges up to $130",
-      "hotShort_en": "Price-target rally now up to <em>five firms</em>",
-      "body_en": "Morgan Stanley lifted its target from $415 to $417, and Underweight-rated Wells Fargo raised its target from $125 to $130 — bringing the tally to <em>five firms</em> that have hiked Tesla's price target this week alone, ahead of the July 22 earnings call. The stock still trades below every one of those targets, keeping the gap between analyst optimism and the share price wide.",
-      "summary_en": "Ahead of Tesla's (TSLA) Q2 earnings call on July 22, price targets have been climbing across the ratings spectrum this week — from bulls to bears alike. RBC Capital kicked things off on July 7 ($475 to $500, Outperform), followed by UBS on July 9 ($364 to $442), then Barclays on July 14 ($360 to $370, Equal Weight). That same day, Morgan Stanley ($415 to $417, Equal Weight) and Wells Fargo ($125 to $130, Underweight) also raised their targets — five firms in five days.\n\nWells Fargo's move stands out. It carries the lowest price target on the Street ($130) and remains the most bearish name covering the stock, yet it still chose to nudge the number up rather than down. The firm acknowledged Tesla's Q2 delivery beat, but expects EPS to land roughly in line with estimates, as the fading of one-time items and pricing pressure offset the volume upside.\n\nMorgan Stanley, for its part, said strong vehicle and energy deliveries should support a solid quarter, while reiterating that Robotaxi and Optimus progress remain the real swing factors for the stock.\n\nDespite the wave of upgrades, Tesla shares closed July 13 at $394.76 — below even the most conservative of this week's five targets. Whether the July 22 earnings call narrows that gap between analyst optimism and the actual share price is the next thing to watch.",
-      "href": "https://www.marketscreener.com/news/morgan-stanley-raises-price-target-on-tesla-to-417-from-415-maintains-equalweight-rating-ce7f5eddd881f623",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "MarketScreener",
-        "TipRanks",
-        "Investing.com",
-        "Barron's"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-13T20:13:00.000Z",
-      "title": "테슬라 주가 52주 고점 대비 20%↓ — 배런스 \"주가의 <em>92~93%</em>는 로봇·로보택시 가치\"",
-      "hotShort": "테슬라 주가, <em>93%가 비車사업</em> 가치 — 배런스",
-      "body": "테슬라 주가가 52주 고점 대비 약 <em>20%</em> 조정을 받은 가운데, 배런스는 현재 주가의 <em>92~93%</em>가 로보택시·옵티머스·FSD 라이선스 등 아직 유의미한 매출이 없는 비차량 사업의 가치에서 나온다고 분석 — 본업 성장 둔화를 미래 사업 기대감으로 메우는 구조라는 지적이다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "stock-robots-93pct-valuation-2026-07-13",
-      "summary": "테슬라의 지난 분기 차량 판매는 전년 대비 <em>3%</em> 감소해, 10년 가까이 이어온 고속 성장세가 꺾였다. 배런스는 미 연방 EV 세액공제($7,500)가 2025년 9월 종료되고 고금리로 할부 부담이 커진 점이 핵심 차량 판매 기반을 좁혔다고 짚었다.\n\n이런 상황에서 일론 머스크는 회사의 다음 성장동력을 AI·휴머노이드 로봇·로보택시에 걸고 있다. 배런스 분석에 따르면 현재 테슬라 주가의 <em>92~93%</em>에 해당하는 부분이 로보택시·옵티머스·FSD 라이선스·에너지 저장 사업의 가치로 설명되는데, 이들 사업은 아직 사실상 유의미한 매출이 없는 단계다.\n\n회사 스스로도 로보택시의 유의미한 매출 발생 시점을 최소 <em>2027년</em>으로 잡고 있어, 대규모 상용화까지는 기술·규제·비용 장벽이 여전히 남아 있다는 게 배런스의 진단이다.\n\n테슬라는 <em>7월22일</em> 2분기 실적발표를 앞두고 있다 — 마진 방어와 로보택시·옵티머스 진행 상황이 확인돼야, 본업과 미래 사업 기대치 사이의 밸류에이션 갭이 좁혀질지 가늠할 수 있을 전망이다.",
-      "title_en": "Tesla stock down <em>20%</em> from its 52-week high — Barron's says <em>92-93%</em> of the price is robots and robotaxis",
-      "hotShort_en": "Tesla stock: <em>93% is non-car</em> value — Barron's",
-      "body_en": "With Tesla shares down roughly <em>20%</em> from their 52-week high, Barron's estimates that <em>92-93%</em> of the current stock price is attributable to Robotaxi, Optimus, and FSD licensing — businesses that still generate little to no meaningful revenue — arguing the stock is leaning on future bets to offset slowing core-business growth.",
-      "summary_en": "Tesla's vehicle sales fell <em>3%</em> year-over-year last quarter, halting nearly a decade of rapid growth. Barron's points to the expiration of the $7,500 federal EV tax credit after September 2025 and high interest rates raising financing costs as key factors narrowing Tesla's addressable market for its core lineup.\n\nAgainst that backdrop, Elon Musk is betting the company's next act on AI, humanoid robots, and robotaxis. Barron's analysis finds that <em>92-93%</em> of Tesla's current share price is explained by the value of Robotaxi, Optimus, FSD licensing, and energy storage — businesses that are still essentially pre-revenue.\n\nEven in the company's own optimistic scenarios, meaningful robotaxi revenue isn't expected before <em>2027</em>, and Barron's notes that large-scale deployment still faces significant technical, regulatory, and cost hurdles.\n\nTesla's Q2 earnings call is set for <em>July 22</em> — margin trends and progress on Robotaxi and Optimus will be the key signals for whether that gap between core-business reality and future-bet optimism starts to close.",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-robots-ea58cefa",
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-15 18:08 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-15 23:25 KST 자동 갱신 · 최신순"
 }

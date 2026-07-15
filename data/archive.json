@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-15T14:21:00.000Z",
+      "title": "테슬라 2분기 실적 D-7 — 컨센서스 EPS <em>0.55달러</em>, 관건은 숫자보다 AI 코멘트",
+      "hotShort": "실적 D-7, 관건은 <em>AI 사업 코멘트</em>",
+      "body": "테슬라 2분기 실적발표(7월22일)를 일주일 앞두고 주가가 좁은 박스권에 머문 가운데, 월가는 컨센서스 EPS 0.55달러(전년 0.40달러)라는 숫자보다 로보택시·옵티머스에 대한 경영진 코멘트에 더 주목하고 있다 — 지난 분기엔 인도량 서프라이즈에도 주가가 급락했던 전례가 있어서다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "배런스는 최근 며칠간 좁은 박스권에 머물던 테슬라 주가를 두고 \"폭풍 전의 고요\"라고 표현했다. 7월22일 2분기 실적발표를 기점으로 다시 변동성이 커질 수 있다는 관측이다.\n\n월가가 제시한 이번 분기 주당순이익(EPS) 컨센서스는 0.55달러로, 전년 동기 0.40달러보다 늘어난 수치다. 다만 배런스는 이 숫자 자체보다 로보택시·옵티머스 사업 진행 상황에 대한 경영진의 코멘트가 주가에 더 큰 영향을 줄 가능성이 크다고 짚었다.\n\n근거는 최근의 전례다. 지난 7월2일 발표된 2분기 인도량(48만126대)이 컨센서스(약 40만6천대)를 큰 폭으로 웃돌았음에도, 그날 주가는 오히려 7.5% 급락했다 — 시장이 물량 서프라이즈보다 수익성·AI 사업의 실체를 더 민감하게 반영한다는 신호였다.\n\n테슬라는 로보택시·옵티머스 등 AI 사업에 올해 약 250억달러를 투입한다는 계획을 밝힌 바 있어, 이번 실적발표에서 나올 진행 상황 코멘트가 밸류에이션의 핵심 변수로 꼽힌다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
+      "title_en": "Tesla enters the <em>\"calm before the storm\"</em> ahead of Q2 earnings — EPS consensus at $0.55",
+      "hotShort_en": "Tesla Q2 earnings T-7: <em>AI commentary</em> is the real catalyst",
+      "body_en": "With Tesla's Q2 earnings call just a week away (July 22), the stock has been trading in a tight range — but Wall Street is watching management's robotaxi and Optimus commentary more closely than the $0.55 EPS consensus (up from $0.40 a year ago), after a delivery beat still triggered a stock selloff last quarter.",
+      "summary_en": "Barron's described Tesla's recent trading range as \"the calm before the storm,\" with volatility likely to return once the company reports Q2 earnings on July 22.\n\nWall Street's EPS consensus for the quarter stands at $0.55, up from $0.40 a year earlier. But Barron's noted that the number itself may matter less than what management says about Robotaxi and Optimus progress.\n\nThe precedent is fresh: Tesla's Q2 deliveries, reported July 2, came in at 480,126 units — well above the roughly 406,000-unit consensus — yet the stock still fell 7.5% that day, a sign investors are weighing profitability and AI execution more heavily than volume beats.\n\nTesla has said it plans to spend roughly $25 billion this year on AI initiatives including Robotaxi and Optimus, making management's progress commentary the key variable for the stock's valuation heading into the July 22 call, set for 5:30 p.m. ET right after market close.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-volatility-earnings-bcb428a3",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "13h ago",
+      "pubDate": "2026-07-15T02:50:55.000Z",
+      "title": "테슬라 로보택시 도어에 <em>'Robotaxi' 로고 프로젝션 라이트</em> 추가 — 무인 탑승 안전 보완",
+      "hotShort": "로보택시 도어에 <em>로고 프로젝션 라이트</em> 추가",
+      "body": "테슬라가 모델Y 로보택시 차량 도어에 'Robotaxi' 로고를 바닥에 비추는 프로젝션 라이트를 추가했다 — 운전자 없이 홀로 타고 내리는 승객이 어두운 곳에서도 탑승 위치를 쉽게 찾도록 돕는 실질적 안전 보완책이다.",
+      "sourceName": "Sawyer Merritt (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-door-projection-lights-2026-07-15",
+      "summary": "테슬라가 오스틴 로보택시 서비스에 투입되는 모델Y 차량 도어에 새 조명 장치를 추가했다. 테슬라 소식통 소여 메릿(Sawyer Merritt)이 공개한 영상에 따르면, 도어를 열면 바닥에 'Robotaxi' 로고가 프로젝션 형태로 비춰진다.\n\n단순한 디자인 요소를 넘어 실질적 기능도 겸한다. 로보택시는 운전자가 없는 무인 차량이라, 야간이나 어두운 주차 구역에서 승객이 탑승 위치를 정확히 찾지 못해 헛디딜 위험이 있다 — 프로젝션 라이트가 탑승 구역을 밝혀 이런 위험을 줄여준다.\n\n오스틴에서 시작된 테슬라 로보택시 서비스는 2025년 6월 안전요원 동승으로 출발해 2026년 1월 제한적 무인 구역으로 전환됐고, 올해 6월엔 오스틴 광역권 전체로 확대됐다. 최근에는 텍사스 전역의 무인 차량이 117대까지 늘어난 것으로 확인된 바 있다.\n\n사소해 보이는 변화지만, 무인 탑승 경험을 세부적으로 다듬는 작업이 계속되고 있다는 점에서 로보택시 상용화 준비가 꾸준히 진행 중임을 보여주는 신호다.",
+      "title_en": "Tesla adds <em>\"Robotaxi\" logo projection lights</em> to driverless Model Y doors",
+      "hotShort_en": "Robotaxi doors get <em>logo projection lights</em>",
+      "body_en": "Tesla has added door-projection lights that beam a \"Robotaxi\" wordmark onto the ground on its driverless Model Y robotaxis — a small but functional safety touch that helps riders find the entry point in low light with no human driver present.",
+      "summary_en": "Tesla has quietly added a new lighting feature to the Model Y vehicles running its Austin robotaxi service, per a video shared by Tesla-focused account Sawyer Merritt. Opening the door now projects a \"Robotaxi\" wordmark onto the pavement below.\n\nThe feature is more than cosmetic. Because robotaxi rides have no human driver aboard, passengers stepping out in the dark or in a dim parking area could otherwise misjudge the curb or door threshold — the projection light illuminates the entry zone to reduce that risk.\n\nTesla's Austin robotaxi service launched with safety monitors in June 2025, moved to a limited driverless zone by January 2026, and expanded across the greater Austin area this June. The driverless fleet across Texas was recently confirmed to have grown to 117 vehicles.\n\nIt's a minor change, but it points to Tesla continuing to refine the rider experience in small ways as it works toward wider robotaxi commercialization.",
+      "href": "https://x.com/SawyerMerritt/status/2077224361241555203",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -546,26 +586,6 @@
       "href": "https://www.thestreet.com/investing/tesla-spacex-merger-wont-save-investors-bnp-paribas",
       "sentiment": "bear",
       "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-12T07:35:54.000Z",
-      "title": "테슬라, 2분기 실적발표 <em>7월 22일</em> 확정 — 마진 방어 여부가 관건",
-      "hotShort": "테슬라 2분기 실적, <em>7월 22일</em> 발표 확정",
-      "body": "테슬라가 2분기(4~6월) 실적발표를 미국 동부시간 7월 22일(수) 오후 5시30분, 장 마감 직후 실시한다고 공식 확정했다 — 이미 발표된 기록적 인도량(48만126대)에도 주가가 7.5% 빠졌던 만큼, 이번엔 마진·수익성 숫자가 실제로 드러나며 관전 포인트가 된다.",
-      "sourceName": "Tesla Investor Relations",
-      "sourceLabel": "official",
-      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
-      "summary": "테슬라 투자자관계(IR)팀이 2분기 실적발표 일정을 공식 확정했다. 발표는 미국 동부시간 7월 22일(수) 오후 5시30분(서부시간 오후 2시30분, 한국시간 7월23일 오전 6시30분) 장 마감 직후 진행되며, 경영진이 실적과 사업 전망을 논의하는 라이브 Q&A 웹캐스트로 중계된다.\n\n이번 실적발표의 최대 관전 포인트는 마진이다. 지난 7월 2일 발표된 2분기 인도량은 48만126대로 월가 컨센서스(약 40만6천 대)를 큰 폭으로 상회했지만, 정작 그날 주가는 7.5% 급락하며 최근 1년 최악의 하루를 기록했다 — 시장이 인도량 서프라이즈보다 수익성 악화 우려를 더 크게 반영했다는 신호였다.\n\n따라서 이번 실적발표에서는 실제 영업이익률·순이익이 시장 우려를 뒷받침할지, 아니면 반박할지가 핵심이다. 여기에 로보택시·사이버캡·옵티머스 등 신사업 진행 상황에 대한 경영진의 코멘트도 함께 주목받을 전망이다.\n\n웹캐스트 종료 약 2시간 뒤 다시보기 영상이 테슬라 IR 웹사이트에 게시된다.",
-      "title_en": "Tesla confirms Q2 earnings call for <em>July 22</em> — margin defense in focus",
-      "hotShort_en": "Tesla sets Q2 earnings call for <em>July 22</em>",
-      "body_en": "Tesla has officially confirmed its Q2 (April–June) earnings call for Wednesday, July 22 at 5:30 p.m. ET, right after market close — with record deliveries (480,126 units) already reported but the stock still dropping 7.5% that day, investors are watching whether margins hold up this time.",
-      "summary_en": "Tesla's Investor Relations team has officially confirmed the date for its Q2 earnings call: Wednesday, July 22, at 5:30 p.m. ET (2:30 p.m. PT), right after market close. Management will hold a live Q&A webcast to discuss financial results and business outlook.\n\nThe biggest question heading into the call is margins. Tesla's Q2 deliveries, reported on July 2, came in at 480,126 units — well above Wall Street's roughly 406,000-unit consensus — yet the stock still fell 7.5% that day, its worst single-day drop in nearly a year, a sign the market was pricing in profitability concerns more than celebrating the delivery beat.\n\nThat makes the actual operating margin and net income numbers the key thing to watch on July 22 — whether they confirm or push back on those concerns. Management commentary on Robotaxi, Cybercab, and Optimus progress is also expected to draw attention.\n\nAn archived version of the webcast will be posted to Tesla's IR website roughly two hours after the Q&A session ends.",
-      "href": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
-      "sentiment": "neutral",
-      "hot": 5
     },
     {
       "category": "fsd",
@@ -2354,34 +2374,7 @@
       "hotShort_en": "Q2 deliveries tomorrow — Europe <em>doubled YoY</em>",
       "body_en": "Reuters' D-1 Q2 delivery preview (report due July 2) identifies Europe as the recovery driver: Morgan Stanley raised its Q2 estimate from 373K to 413K vehicles after May European registrations more than doubled year-over-year, while Deutsche Bank expects European regional growth of roughly 40% — the largest of any region. North America is projected -21% YoY amid demand headwinds; China recovers modestly at +3%. Tesla's own analyst consensus stands at ~406K total vehicles, implying roughly 20.6% sequential growth from Q1's 336,681 deliveries.",
       "summary_en": "Tesla's Q2 2026 delivery report is due tomorrow, July 2. Reuters published a pre-report analysis on June 30 identifying Europe as the standout story for the quarter.\n\nEurope suffered a meaningful sales slump throughout 2025, driven by consumer backlash against Elon Musk's political activities in the region — specifically his visible support for far-right parties in France, Germany, and elsewhere. 2026 has seen a reversal. Morgan Stanley, citing May European Tesla registration data showing volumes more than doubling year-over-year, raised its full-quarter Q2 delivery estimate from 373,000 to 413,000 vehicles. Deutsche Bank projects European regional growth of approximately 40% for Q2 — the highest regional growth rate of any geography Tesla operates in.\n\nNorth America is the drag on Q2, projected at -21% year-over-year. The US faces combined headwinds: IRA EV tax credit uncertainty, a segment of consumers who have become skeptical of the Tesla brand in connection with Musk's public activities, and broader EV demand normalization. China is recovering modestly at approximately +3% year-over-year.\n\nThe consensus from Tesla's own analyst compilation is 406,024 vehicles (392,646 Model 3/Y and 12,978 other models), implying roughly 20.6% sequential growth from Q1 2026's 336,681 deliveries. A separate market-wide average puts the estimate at 402,780 (representing 4.9% year-over-year and 12.5% sequential growth). Both figures depend heavily on European registrations sustaining the May pace through June.\n\nFor investors, energy storage is the Q2 wildcard that delivery headlines will not capture. The consensus calls for 13.8 GWh of energy deployed — up 57% from Q1's 8.8 GWh — and Tesla's Megapack business carries structurally higher margins than vehicles. A Q2 outcome that delivers vehicles above consensus, European registrations sustaining the doubling trend, and energy storage above 13.8 GWh would be a strong three-factor re-rating setup heading into the July 22 earnings call."
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
-      "pubDate": "2026-06-30T20:24:37.000Z",
-      "title": "빅쇼트 마이클 버리, $416에 <em>테슬라 숏</em> 공개 — AI 버블 바스켓",
-      "hotShort": "버리, $416에 <em>테슬라 숏</em> — AI 버블 베팅",
-      "body": "마이클 버리(Scion Asset Management)가 6월 30일 Substack 뉴스레터 'Cassandra Unchained'를 통해 TSLA를 $416.22에 숏한 포지션을 공개했다 — Nvidia·Caterpillar와 함께 AI 버블에 베팅하는 바스켓 숏의 일부다. 구체적 규모(주식 수·달러·옵션 구조)는 미공개. 6월 30일 TSLA 종가는 $420.60(+2.13%)으로 진입가($416.22) 대비 약 $4.38 평가손실 상태 — Q2 인도 발표(7월 2일)가 단기 방향의 시험대다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "stock-burry-tesla-short-ai-bubble-2026-06-30",
-      "summary": "Scion Asset Management의 마이클 버리(Michael Burry)가 6월 30일 유료 Substack 뉴스레터 'Cassandra Unchained'를 통해 테슬라(TSLA) 숏 포지션을 공개했다. 버리는 TSLA를 $416.22에 숏했다고 밝혔으며, 이 포지션은 Nvidia·Caterpillar 등 AI·반도체 관련 대형주를 함께 공매도하는 더 넓은 'AI 버블' 바스켓의 일부라고 설명했다.\n\n포지션의 구체적 규모(주식 수, 달러 금액, 옵션 구조)는 공개되지 않았다. Electrek, GuruFocus, Yahoo Finance 등 복수의 매체가 같은 내용을 보도했으나 규모 데이터는 어디에도 없다. 6월 30일 TSLA 종가는 $420.60(+2.13%)으로, 버리의 숏 진입가($416.22) 대비 약 $4.38 평가손실 상태다 — 포지션 공개 당일 주가가 진입가를 상회해 마감했다.\n\n버리의 TSLA 투자 이력은 복잡하다. 2021년에는 TSLA 고평가를 이유로 대규모 풋옵션을 보유했으나 조기 청산했고, 이후 'TSLA를 숏하지 않는다'고 공개 발언한 적도 있다. 이번 AI 버블 바스켓 편입은 과거의 '밸류에이션 과도함' 논리와는 다르게, '테슬라를 AI 회사로 평가하는 시장 자체가 버블'이라는 새로운 틀을 사용한 것으로 해석된다.\n\nThe Future Fund의 Gary Black은 'Q2 인도 결과는 컨센서스를 웃돌 것으로 보지만, 그래도 주식을 보유하지 않겠다'는 입장을 별도로 밝혔다 — 강세론자조차 단기 매수에 신중한 시점에서 버리의 숏 공개가 더해지며 TSLA 주변 심리가 복잡해졌다. 7월 2일 Q2 인도 결과가 단기 방향의 열쇠다.",
-      "href": "https://electrek.co/2026/06/30/michael-burry-tesla-short-416/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Electrek",
-        "GuruFocus",
-        "Yahoo Finance",
-        "Investing.com"
-      ],
-      "sentiment": "bear",
-      "hot": 6,
-      "title_en": "Big Short's Michael Burry discloses <em>Tesla short at $416</em> — AI bubble basket",
-      "hotShort_en": "Burry discloses <em>Tesla short at $416</em> — AI bubble",
-      "body_en": "Michael Burry (Scion Asset Management) disclosed a short position in TSLA at $416.22 via his Substack newsletter 'Cassandra Unchained' on June 30 — part of a broader basket of AI and semiconductor bubble shorts that also includes Nvidia and Caterpillar. Burry did not disclose the position size (no share count, dollar figure, or options structure). With TSLA closing at $420.60 (+2.13%) on June 30, Burry's $416.22 short entry is roughly $4.38 per share out-of-the-money — the stock closed above his short price on the day of the disclosure. Q2 deliveries on July 2 are the immediate catalyst that will determine the trade's next move.",
-      "summary_en": "Michael Burry, the investor whose housing-market short became the basis for 'The Big Short,' disclosed a short position in Tesla (TSLA) through his Substack newsletter 'Cassandra Unchained' on June 30, 2026. Burry stated he shorted TSLA shares at $416.22 and characterized the position as part of a broader basket of AI and semiconductor bubble bets. Alongside TSLA, Burry is also short Nvidia and Caterpillar, using similar AI bubble framing across the positions.\n\nThe position size — share count, dollar exposure, or whether structured through puts or direct short sale — was not disclosed in the newsletter. Electrek, GuruFocus, Investing.com, and Yahoo Finance all reported the disclosure but none obtained or cited a size figure. Without knowing the notional size, the market impact is primarily informational: Burry's name carries enough contrarian credibility that his directional signal moves sentiment, even absent a hard dollar figure.\n\nWith TSLA closing at $420.60 on June 30 — above Burry's $416.22 short entry by roughly $4.38 per share — the position closed out-of-the-money on disclosure day. TSLA had previously traded above $416 earlier in June, making the short an intraday or earlier-session entry that he is now making public. Burry's track record on Tesla is mixed: he held a large TSLA put position in 2021 but closed it early before any significant drawdown, and separately told followers 'I am not short Tesla' at various points. The current framing — AI bubble, not valuation — represents a different thesis.\n\nThe Future Fund's Gary Black, a long-time Tesla analyst, separately stated he expects Q2 deliveries to beat consensus but that he 'still won't own the stock' — suggesting that even the bull case is complicated by the scale of TSLA's premium valuation. With Burry's short on record and a prominent bull standing aside, the July 2 Q2 delivery report becomes the clearest near-term test: a delivery beat and energy storage upside would pressure Burry's thesis, while a miss would validate it."
     }
   ],
-  "asOf": "2026-07-15 18:08 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-15 23:25 KST 자동 갱신 · 최신순"
 }
