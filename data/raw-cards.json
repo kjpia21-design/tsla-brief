@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-07-16 21:41 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-16 23:02 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "57m ago",
+      "time": "2h ago",
       "pubDate": "2026-07-16T20:45:06.000Z",
       "title": "Tesla (TSLA) shareholders are begging Musk to explain missed goals",
       "body": "Tesla shareholders have flooded the company’s Q2 2026 earnings Q&A portal with questions, and the most-upvoted ones tell a bleak story: retail investors are now demanding that Elon Musk explain why the company keeps miss…",
@@ -15,22 +15,22 @@
       "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "57m ago",
-      "pubDate": "2026-07-16T20:45:00.000Z",
-      "title": "Tesla (TSLA) shareholders are begging Musk to explain missed goals",
-      "body": "Tesla (TSLA) shareholders are begging Musk to explain missed goals Electrek",
-      "sourceName": "Electrek",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-16T20:34:00.000Z",
+      "title": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway.",
+      "body": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway. Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/"
+      "href": "https://www.barrons.com/articles/tesla-stock-price-crash-texas-747e8b02"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-16T20:30:04.000Z",
       "title": "Short sellers notch $8.7 bln profit as SpaceX shares dip to IPO price",
       "body": "Short sellers notch $8.7 bln profit as SpaceX shares dip to IPO price Reuters",
@@ -43,10 +43,10 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-16T20:23:00.000Z",
-      "title": "SpaceX Stock Tests $135 IPO Price, Cathie Wood Keeps Buying the Dip",
-      "body": "SpaceX Stock Tests $135 IPO Price, Cathie Wood Keeps Buying the Dip Barron's",
+      "title": "SpaceX Stock Breaks The IPO Price—and Cathie Wood Keeps Buying the Dip",
+      "body": "SpaceX Stock Breaks The IPO Price—and Cathie Wood Keeps Buying the Dip Barron's",
       "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
@@ -54,22 +54,9 @@
       "href": "https://www.barrons.com/articles/spacex-stock-price-ipo-ark-cathie-wood-04f3c7a0"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-16T20:08:28.000Z",
-      "title": "US agency denies Tesla petition to avoid recall fix over headlight issue",
-      "body": "US agency denies Tesla petition to avoid recall fix over headlight issue Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/us-agency-denies-tesla-petition-avoid-recall-fix-over-headlight-issue-2026-07-16/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-16T20:08:28.000Z",
       "title": "US agency denies Tesla petition to avoid recall fix over headlight issue",
       "body": "US agency denies Tesla petition to avoid recall fix over headlight issue Reuters",
@@ -82,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-16T20:08:28.000Z",
       "title": "US agency denies Tesla petition to avoid recall fix over headlight issue",
       "body": "US agency denies Tesla petition to avoid recall fix over headlight issue Reuters",
@@ -95,7 +82,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
+      "pubDate": "2026-07-16T19:37:19.000Z",
+      "title": "Elon Musk",
+      "body": "Elon Musk CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/elon-musk/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
       "pubDate": "2026-07-16T19:22:04.000Z",
       "title": "SpaceX Post-Listing Collapse Threatens IPO Market’s AI Euphoria",
       "body": "SpaceX Post-Listing Collapse Threatens IPO Market’s AI Euphoria Bloomberg.com",
@@ -108,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-16T19:01:32.000Z",
       "title": "NTSB Investigators Confirm Tesla Driver Overrode Full Self-Driving System In Fatal Crash",
       "body": "NTSB Investigators Confirm Tesla Driver Overrode Full Self-Driving System In Fatal Crash Engadget",
@@ -121,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-16T18:13:41.000Z",
       "title": "Xpeng’s new L03 undercuts Tesla Model Y by up to $10,000 in Europe",
       "body": "Xpeng launched its new L03 electric SUV-coupe in Europe this week with a starting price of €34,990 — undercutting the Tesla Model Y by roughly €3,400 in Germany and by around $10,000 in Norway. The pricing puts a well-eq…",
@@ -134,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-16T17:48:00.000Z",
       "title": "Fed probe suggests Tesla's self-driving feature wasn't to blame in crash that killed a grandmother",
       "body": "Fed probe suggests Tesla's self-driving feature wasn't to blame in crash that killed a grandmother AP News",
@@ -147,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-16T16:37:06.000Z",
       "title": "Tesla has to fix a big problem with its old headlights, NHTSA says",
       "body": "Tesla had a petition protesting a recall to fix a potential issue with 2017-2023 Model Y and Model 3 vehicles’ headlights was denied, as the National Highway Traffic Safety Administration (NHTSA) disagreed with the compa…",
@@ -160,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-16T16:13:29.000Z",
       "title": "Legal heavyweights square off in $243 million Tesla crash appeal",
       "body": "Legal heavyweights square off in $243 million Tesla crash appeal Reuters",
@@ -173,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-16T16:13:29.000Z",
       "title": "Legal heavyweights square off in $243 million Tesla crash appeal",
       "body": "Legal heavyweights square off in $243 million Tesla crash appeal Reuters",
@@ -186,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-16T15:41:09.000Z",
       "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator ‘100 percent,’ investigators confirm",
       "body": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator ‘100 percent,’ investigators confirm The Verge",
@@ -199,20 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
-      "pubDate": "2026-07-16T14:04:00.000Z",
-      "title": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway.",
-      "body": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-crash-texas-747e8b02"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-16T12:11:00.000Z",
       "title": "Tesla Stock Is Down, Despite Good News From NTSB",
       "body": "Tesla Stock Is Down, Despite Good News From NTSB Barron's",
@@ -225,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-16T08:06:31.000Z",
       "title": "New Tesla Supercharger: Sligo, Ireland (8 stalls)",
       "body": "New Tesla Supercharger: Sligo, Ireland (8 stalls) https://t.co/I3nutYfBmi https://t.co/173bFWKGxy",
@@ -236,9 +223,22 @@
       "href": "https://x.com/TeslaCharging/status/2077666172099834163"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1d ago",
+      "pubDate": "2026-07-15T22:21:37.000Z",
+      "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
+      "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-15T22:21:37.000Z",
       "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
       "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
@@ -251,7 +251,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-15T22:21:37.000Z",
       "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
       "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
