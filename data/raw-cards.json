@@ -1,10 +1,75 @@
 {
-  "asOf": "2026-07-16 14:06 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-16 17:24 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7m ago",
+      "time": "47m ago",
+      "pubDate": "2026-07-16T16:37:06.000Z",
+      "title": "Tesla has to fix a big problem with its old headlights, NHTSA says",
+      "body": "Tesla had a petition protesting a recall to fix a potential issue with 2017-2023 Model Y and Model 3 vehicles’ headlights was denied, as the National Highway Traffic Safety Administration (NHTSA) disagreed with the compa…",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-fix-big-problem-old-headlights-nhtsa-says/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-16T15:41:09.000Z",
+      "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator ‘100 percent,’ investigators confirm",
+      "body": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator ‘100 percent,’ investigators confirm The Verge",
+      "sourceName": "The Verge",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-16T15:15:28.000Z",
+      "title": "Short sellers notch $8.7 bln profit as SpaceX shares dip to IPO price",
+      "body": "Short sellers notch $8.7 bln profit as SpaceX shares dip to IPO price Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-16T15:10:00.000Z",
+      "title": "SpaceX Stock Falls Below $135 IPO Price—and Cathie Wood Keeps Buying the Dip",
+      "body": "SpaceX Stock Falls Below $135 IPO Price—and Cathie Wood Keeps Buying the Dip Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/spacex-stock-price-ipo-ark-cathie-wood-04f3c7a0"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-07-16T14:04:00.000Z",
+      "title": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway.",
+      "body": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-crash-texas-747e8b02"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
       "pubDate": "2026-07-16T13:59:15.000Z",
       "title": "Cybertruck’s shape isn’t purely aesthetic. It’s also one of the most aerodynamically efficient pickup trucks ever mad…",
       "body": "Cybertruck’s shape isn’t purely aesthetic. It’s also one of the most aerodynamically efficient pickup trucks ever made. When comparing overall efficiency, it costs less than half as much to run as a typical gas truck. ht…",
@@ -17,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "50m ago",
+      "time": "4h ago",
       "pubDate": "2026-07-16T13:16:39.000Z",
       "title": "FSD 14.3.5 shows just far Tesla's Full Self-Driving has evolved!! Amazing how well it is able to make sense of a situ…",
       "body": "FSD 14.3.5 shows just far Tesla's Full Self-Driving has evolved!! Amazing how well it is able to make sense of a situation, then deal with it. Shot w/ @insta360 Ace Pro 2, order yours: https://t.co/xWO8q73Dej https://t.c…",
@@ -28,22 +93,9 @@
       "href": "https://x.com/teslaownersSV/status/2077744219993636872"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-07-16T13:03:38.000Z",
-      "title": "NTSB findings on fatal Tesla crash tell a very different story",
-      "body": "NTSB findings on fatal Tesla crash tell a very different story Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/ntsb-findings-on-fatal-tesla-crash-tell-a-very-different-story/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-16T13:01:00.000Z",
       "title": "SpaceX Stock Tests $135 IPO Price—and Cathie Wood Keeps Buying the Dip",
       "body": "SpaceX Stock Tests $135 IPO Price—and Cathie Wood Keeps Buying the Dip Barron's",
@@ -51,25 +103,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-stock-price-ipo-ark-cathie-wood-04f3c7a0"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-07-16T12:54:00.000Z",
-      "title": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway.",
-      "body": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-crash-texas-747e8b02"
+      "href": "https://www.barrons.com/articles/spacex-stock-price-ipo-ark-cathie-wood-04f3c7a0?siteid"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-16T12:32:33.000Z",
       "title": "Here are Thursday's biggest analyst calls: Nvidia, Apple, SpaceX, Blackrock, Cintas, Amazon, JPMorgan & more",
       "body": "Here are Thursday's biggest analyst calls: Nvidia, Apple, SpaceX, Blackrock, Cintas, Amazon, JPMorgan & more CNBC",
@@ -82,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-16T12:11:00.000Z",
       "title": "Tesla Stock Is Down, Despite Good News From NTSB",
       "body": "Tesla Stock Is Down, Despite Good News From NTSB Barron's",
@@ -95,46 +134,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-16T11:03:43.000Z",
-      "title": "SpaceX selloff an ominous sign as lockup expiry looms",
-      "body": "SpaceX selloff an ominous sign as lockup expiry looms Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/legal/transactional/spacex-selloff-an-ominous-sign-lockup-expiry-looms-2026-07-16/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-07-16T09:58:55.000Z",
-      "title": "SpaceX Sinks Back to Where It Started: Evening Briefing Americas",
-      "body": "SpaceX Sinks Back to Where It Started: Evening Briefing Americas Bloomberg.com",
+      "time": "7h ago",
+      "pubDate": "2026-07-16T10:30:22.000Z",
+      "title": "The Identity Crisis at Elon Musk’s Chaotic AI Outfit",
+      "body": "The Identity Crisis at Elon Musk’s Chaotic AI Outfit Bloomberg.com",
       "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/news/newsletters/2026-07-15/spacex-sinks-back-to-where-it-started-evening-briefing-americas"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-07-16T09:30:00.000Z",
-      "title": "SpaceX to Launch Giant Starship Rocket in First Flight Since IPO",
-      "body": "SpaceX to Launch Giant Starship Rocket in First Flight Since IPO Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-16/spacex-to-launch-giant-starship-rocket-in-first-flight-since-ipo"
+      "href": "https://www.bloomberg.com/news/articles/2026-07-16/spacexai-identity-crisis-at-elon-musk-s-chatbot-company"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-16T08:06:31.000Z",
       "title": "New Tesla Supercharger: Sligo, Ireland (8 stalls)",
       "body": "New Tesla Supercharger: Sligo, Ireland (8 stalls) https://t.co/I3nutYfBmi https://t.co/173bFWKGxy",
@@ -147,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-16T05:55:08.000Z",
       "title": "One great use of agentic tools is that they help deconstruct similar mathematical concepts known by different names, …",
       "body": "One great use of agentic tools is that they help deconstruct similar mathematical concepts known by different names, so I can map them to the same hash table. It helps you compress concepts.",
@@ -160,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-16T04:46:36.000Z",
       "title": "It is interesting that the AI tools on other social media websites generally suck. Intentional or not, this side effe…",
       "body": "It is interesting that the AI tools on other social media websites generally suck. Intentional or not, this side effect encourages the growth of the anti-AI crowd. If people cannot feel that the compute is useful to them…",
@@ -171,22 +184,9 @@
       "href": "https://x.com/yunta_tsai/status/2077615862950015183"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-07-16T04:38:13.000Z",
-      "title": "Swimming lessons may teach you how to swim, but you need courage to dip into the water. A coding agent may help you b…",
-      "body": "Swimming lessons may teach you how to swim, but you need courage to dip into the water. A coding agent may help you build faster, but you need courage to ship it.",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2077613753659773185"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-16T03:20:39.000Z",
       "title": "Another Cybertruck completes notoriously difficult Black Bear Pass in Colorado",
       "body": "Another Cybertruck completes notoriously difficult Black Bear Pass in Colorado https://t.co/m61sXQtOl5",
@@ -199,7 +199,20 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "19h ago",
+      "pubDate": "2026-07-15T22:21:37.000Z",
+      "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
+      "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "19h ago",
       "pubDate": "2026-07-15T22:21:37.000Z",
       "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
       "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
@@ -212,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-15T17:44:02.000Z",
       "title": "Lucid CEO dispels any rumors of bankruptcy: ‘So far from the facts’",
       "body": "Lucid CEO Silvio Napoli responded to rumors of an imminent bankruptcy that was reportedly being mulled after a report stated the automaker was working with the firm AlixPartners to iron out its next steps. The company fe…",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-target-0e4899ed"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
-      "pubDate": "2026-07-14T18:22:34.000Z",
-      "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
-      "body": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S. CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html"
     }
   ]
 }
