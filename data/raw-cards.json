@@ -1,11 +1,24 @@
 {
-  "asOf": "2026-07-16 06:23 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-16 10:15 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "8m ago",
+      "pubDate": "2026-07-16T10:07:30.000Z",
+      "title": "Going Into Earnings, Is Tesla Stock a Buy, a Sell, or Fairly Valued?",
+      "body": "Going Into Earnings, Is Tesla Stock a Buy, a Sell, or Fairly Valued? Morningstar",
+      "sourceName": "Morningstar",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.morningstar.com/stocks/going-into-earnings-is-tesla-stock-buy-sell-or-fairly-valued-9"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14m ago",
-      "pubDate": "2026-07-16T06:09:26.000Z",
+      "time": "13m ago",
+      "pubDate": "2026-07-16T10:03:02.000Z",
       "title": "NTSB findings on fatal Tesla crash tell a very different story",
       "body": "NTSB findings on fatal Tesla crash tell a very different story Teslarati",
       "sourceName": "Teslarati",
@@ -17,8 +30,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "14m ago",
-      "pubDate": "2026-07-16T06:09:26.000Z",
+      "time": "13m ago",
+      "pubDate": "2026-07-16T10:03:02.000Z",
       "title": "NTSB findings on fatal Tesla crash tell a very different story",
       "body": "NTSB findings on fatal Tesla crash tell a very different story Teslarati",
       "sourceName": "Teslarati",
@@ -30,8 +43,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "55m ago",
-      "pubDate": "2026-07-16T05:28:55.000Z",
+      "time": "17m ago",
+      "pubDate": "2026-07-16T09:58:55.000Z",
       "title": "SpaceX Sinks Back to Where It Started: Evening Briefing Americas",
       "body": "SpaceX Sinks Back to Where It Started: Evening Briefing Americas Bloomberg.com",
       "sourceName": "Bloomberg.com",
@@ -41,9 +54,48 @@
       "href": "https://www.bloomberg.com/news/newsletters/2026-07-15/spacex-sinks-back-to-where-it-started-evening-briefing-americas"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "29m ago",
+      "pubDate": "2026-07-16T09:46:57.000Z",
+      "title": "Tesla driver applied full throttle before deadly Texas crash",
+      "body": "Tesla driver applied full throttle before deadly Texas crash NewsBytes",
+      "sourceName": "NewsBytes",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.newsbytesapp.com/news/auto/tesla-driver-maxed-out-accelerator-before-deadly-texas-crash/story"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "46m ago",
+      "pubDate": "2026-07-16T09:30:00.000Z",
+      "title": "SpaceX to Launch Giant Starship Rocket in First Flight Since IPO",
+      "body": "SpaceX to Launch Giant Starship Rocket in First Flight Since IPO Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-16/spacex-to-launch-giant-starship-rocket-in-first-flight-since-ipo"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
+      "pubDate": "2026-07-16T09:15:25.000Z",
+      "title": "Tesla Expands Model Y Robotaxi Fleet in Texas by 50% in a Single Day",
+      "body": "Tesla Expands Model Y Robotaxi Fleet in Texas by 50% in a Single Day eletric-vehicles.com",
+      "sourceName": "eletric-vehicles.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://eletric-vehicles.com/tesla/tesla-expands-model-y-robotaxi-fleet-in-texas-by-50-in-a-single-day/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
       "pubDate": "2026-07-16T05:01:00.000Z",
       "title": "SpaceX selloff an ominous sign as lockup expiry looms",
       "body": "SpaceX selloff an ominous sign as lockup expiry looms Reuters",
@@ -54,35 +106,9 @@
       "href": "https://www.reuters.com/legal/transactional/spacex-selloff-an-ominous-sign-lockup-expiry-looms-2026-07-16/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-16T04:51:04.000Z",
-      "title": "Tragic accident involving Tesla: NTSB investigation clears Autopilot of blame",
-      "body": "Tragic accident involving Tesla: NTSB investigation clears Autopilot of blame Zamin.uz",
-      "sourceName": "Zamin.uz",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://zamin.uz/en/technology/212657-tragic-accident-involving-tesla-ntsb-investigation-clears-autopilot-of-blame.html"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-16T04:37:35.000Z",
-      "title": "Tesla driver charged with manslaughter after fatal Katy crash",
-      "body": "Tesla driver charged with manslaughter after fatal Katy crash NewsBytes",
-      "sourceName": "NewsBytes",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.newsbytesapp.com/news/auto/tesla-driver-charged-with-manslaughter-after-fatal-katy-crash/tldr"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-16T00:17:47.000Z",
       "title": "Energy business, used car business, and plain ol’ business business",
       "body": "Today’s episode of Quick Charge means business – the business of buying up power stations to power up the pet AI that says it would have picked you over Michael Jordan in the 1984 NBA draft and the business of fleecing w…",
@@ -95,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-15T22:21:37.000Z",
       "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
       "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
@@ -108,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-15T22:21:37.000Z",
       "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
       "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
@@ -121,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-15T22:21:37.000Z",
       "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
       "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
@@ -134,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-15T20:21:35.000Z",
       "title": "SpaceX Shares Fall Below IPO Price for First Time as Hype Fades",
       "body": "SpaceX Shares Fall Below IPO Price for First Time as Hype Fades Bloomberg.com",
@@ -145,22 +171,9 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-15/spacex-shares-fall-below-ipo-price-for-first-time-as-hype-fades"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-07-15T19:48:23.000Z",
-      "title": "Short-Sellers Swarm SpaceX With Paper Profit Nearing $4 Billion",
-      "body": "Short-Sellers Swarm SpaceX With Paper Profit Nearing $4 Billion Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-15/short-sellers-swarm-spacex-with-paper-profit-nearing-4-billion"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "13h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-15T17:44:02.000Z",
       "title": "Lucid CEO dispels any rumors of bankruptcy: ‘So far from the facts’",
       "body": "Lucid CEO Silvio Napoli responded to rumors of an imminent bankruptcy that was reportedly being mulled after a report stated the automaker was working with the firm AlixPartners to iron out its next steps. The company fe…",
@@ -173,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-15T17:41:32.000Z",
       "title": "Tesla Model 3 Highland approved to receive adaptive headlights in Europe",
       "body": "Tesla Model 3 Highland approved to receive adaptive headlights in Europe Teslarati",
@@ -186,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-15T17:01:32.000Z",
       "title": "Tesla’s LFP battery holds its charge better, study says",
       "body": "A new analysis of nearly 10,000 real-world EV battery tests found that the same Tesla Model 3 holds up very differently depending on which battery it was built with — and the cheaper LFP version comes out on top. The Mod…",
@@ -199,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "16h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-15T14:21:00.000Z",
       "title": "Tesla Stock Is in the Calm Before the Storm",
       "body": "Tesla Stock Is in the Calm Before the Storm Barron's",
@@ -212,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-07-14T20:23:00.000Z",
       "title": "Three Price Target Boosts Can’t Help Tesla Stock",
       "body": "Three Price Target Boosts Can’t Help Tesla Stock Barron's",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "14d ago",
-      "pubDate": "2026-07-02T07:00:00.000Z",
-      "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
-      "body": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html"
     }
   ]
 }
