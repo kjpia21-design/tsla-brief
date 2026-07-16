@@ -1,6 +1,56 @@
 {
-  "asOf": "2026-07-16 17:24 UTC · 누적 617건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-16 19:20 UTC · 누적 619건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-16T16:37:06.000Z",
+      "title": "NHTSA, 테슬라 모델3·Y <em>헤드라이트 리콜 이의신청 기각</em> — 2017~2023년식 약 2만대",
+      "hotShort": "NHTSA, 테슬라 <em>헤드라이트 리콜 이의 기각</em>",
+      "body": "美 도로교통안전국(NHTSA)이 2017~2023년식 모델3·모델Y 약 <em>1만9900대</em>의 헤드라이트 리콜을 피하려던 테슬라의 이의신청을 기각했다 — 공급사 마렐리의 자체 시험에서도 광도 기준 초과가 확인됐는데, 테슬라는 \"사고·부상과 무관해 안전에 지장 없다\"고 주장했지만 NHTSA는 \"주변 교통·운전자 눈부심 위험이 늘어난다\"며 무상 시정을 명령했다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-nhtsa-headlight-recall-model3-y-2026-07-16",
+      "summary": "美 도로교통안전국(NHTSA)이 15일(현지시간) 테슬라가 제기한 헤드라이트 리콜 면제 이의신청을 기각했다고 밝혔다. 대상은 2017~2023년식 모델3·모델Y 약 <em>1만9900대</em>다.\n\n문제가 된 것은 헤드라이트의 광도(밝기)다. 테슬라의 헤드램프 공급사인 마렐리 오토모티브 라이팅이 자체 시험한 결과, 우측 램프 최대 광도는 <em>136.2~230.1cd</em>, 좌측 램프는 <em>117.5~160.3cd</em> 범위로 측정돼 연방 기준을 초과한 것으로 나타났다.\n\n테슬라는 2024년 이 사안에 대해 \"안전에 지장이 없는 경미한 부적합\"이라며 리콜·소비자 통보 없이 넘어가게 해달라는 이의신청을 냈다. 해당 결함으로 인한 사고·부상·소비자 불만 신고가 없었다는 점을 근거로 들었다.\n\n그러나 NHTSA는 테슬라의 결론에 동의하지 않았다. 주변 차량 운전자와 해당 차량 운전자 모두에게 눈부심(글레어) 위험이 커진다고 판단해, 테슬라에 결함 사실을 소비자에게 통보하고 무상으로 시정할 의무를 부과했다.\n\n이번 결정은 규제기관이 테슬라의 '무해 판정' 논리를 받아들이지 않은 사례로, 향후 유사한 컴플라이언스 이슈에서 테슬라가 이의신청 전략을 계속 쓸 수 있을지에 대한 참고 사례가 될 전망이다.",
+      "title_en": "NHTSA rejects Tesla's bid to avoid headlight recall for <em>~19,900</em> Model 3s and Model Ys",
+      "hotShort_en": "NHTSA rejects Tesla's <em>headlight recall appeal</em>",
+      "body_en": "The NHTSA denied Tesla's petition to avoid a recall covering roughly <em>19,900</em> 2017-2023 Model 3 and Model Y vehicles over headlights that exceed brightness limits — Tesla argued the issue was inconsequential, but the agency said it increases glare risk for drivers and other traffic and ordered a free remedy.",
+      "summary_en": "The National Highway Traffic Safety Administration said on July 15 that it has denied a petition from Tesla seeking to avoid a recall over headlight noncompliance affecting roughly <em>19,900</em> Model 3 and Model Y vehicles from model years 2017-2023.\n\nAt issue is the brightness of the headlights. Testing by Tesla's headlamp supplier, Marelli Automotive Lighting, found maximum photometric intensity readings between <em>136.2 and 230.1 candela</em> for the right-hand lamps and <em>117.5 to 160.3 candela</em> for the left-hand lamps — exceeding federal limits.\n\nTesla filed the petition in 2024, arguing the noncompliance was inconsequential to motor vehicle safety and that no crashes, injuries, or complaints had been tied to the issue, seeking to avoid both a formal recall and customer notification.\n\nNHTSA disagreed with Tesla's conclusion, finding the excess brightness increases glare risk for both surrounding traffic and the vehicle's own driver. The agency is requiring Tesla to notify affected owners and provide a free remedy.\n\nThe decision marks another instance of the agency rejecting Tesla's inconsequential-noncompliance argument, and could be a reference point for how far Tesla can lean on that strategy in future compliance disputes.",
+      "href": "https://www.teslarati.com/tesla-fix-big-problem-old-headlights-nhtsa-says/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-16T15:15:28.000Z",
+      "title": "스페이스X, IPO가 $135 <em>아래로 첫 하락</em> — 공매도 평가익 $87억 육박",
+      "hotShort": "스페이스X 주가 IPO가 <em>첫 하회</em>, 공매도 $87억",
+      "body": "스페이스X(SPCX) 주가가 7월15일 상장 후 처음으로 IPO 공모가 $135 <em>아래로</em> 떨어졌다 — 4거래일 연속 하락에 공매도 물량이 유통 가능 주식의 <em>28%</em>(1억8100만주)까지 늘었고, 데이터업체 오텍스(Ortex) 집계로 공매도 세력의 평가이익도 <em>$87억</em>까지 불어났다. 2분기 실적발표 전후 예정된 첫 대규모 락업 해제(유통물량 약 <em>11%</em> 추가)를 앞두고 매도 압력 우려가 커지는 신호다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-below-ipo-price-shorts-8-7bn-2026-07-16",
+      "summary": "로이터에 따르면 스페이스X(SPCX) 주가는 4거래일 연속 하락한 끝에 7월15일 IPO 공모가인 $135 <em>아래로</em> 처음 떨어졌다. 상장 이후 처음으로 공모가를 밑돈 셈이다.\n\n이번 하락으로 공매도 물량은 <em>1억8100만주</em>까지 불어나, 유통 가능한 <em>6억4600만주</em> 중 <em>28%</em>에 해당하는 수준이 됐다. 데이터·분석업체 오텍스(Ortex)에 따르면, 이 공매도 포지션의 평가이익은 <em>$87억</em>에 달하는 것으로 집계됐다 — 오텍스는 주가가 1달러 움직일 때마다 공매도 측 손익이 <em>$3억</em> 이상 바뀐다고 추산했다.\n\n투자자들이 특히 주목하는 부분은 예정된 락업 해제 일정이다. 2분기 실적발표 시점을 전후해 첫 대규모 락업이 풀리며, 전체 발행주식의 약 <em>11%</em>가 새로 매도 가능해질 전망이다 — 유통물량이 늘어나면 추가 매도 압력이 커질 수 있어 시장이 예의주시하고 있다.\n\n스페이스X는 테슬라 보유 종목이 아니지만 일론 머스크가 이끄는 관계사로, 그의 자산가치·시장 신뢰와 밀접해 테슬라 주주들도 함께 참고하는 지표다.",
+      "title_en": "SpaceX stock <em>slips below its $135 IPO price</em> for the first time as short-seller profits near $8.7B",
+      "hotShort_en": "SpaceX stock <em>falls below IPO price</em>, shorts up $8.7B",
+      "body_en": "SpaceX (SPCX) shares fell <em>below their $135 IPO price</em> for the first time on July 15, after four straight days of declines — short interest has climbed to <em>28%</em> of the tradeable float (181 million shares), with short sellers' paper profits reaching an estimated <em>$8.7 billion</em>, according to Ortex data cited by Reuters. The move comes ahead of the first major lockup expiry around Q2 earnings, when roughly <em>11%</em> of shares are set to become tradeable.",
+      "summary_en": "SpaceX (SPCX) shares fell below their $135 IPO price for the first time on July 15, according to Reuters, after four consecutive days of declines.\n\nShort interest has swelled to <em>181 million shares</em>, or <em>28%</em> of the 646 million shares available for trading. According to data and analytics firm Ortex, short sellers' paper profits on those positions have reached an estimated <em>$8.7 billion</em> — with Ortex noting that every $1 move in the stock is worth more than <em>$300 million</em> to short sellers.\n\nInvestors are also watching the upcoming lockup schedule closely. The first major unlock is expected around SpaceX's Q2 earnings report, when roughly <em>11%</em> of outstanding shares are set to become eligible for sale — a supply increase that could add further pressure just as short interest is already elevated.\n\nSpaceX isn't a Tesla holding, but as an Elon Musk-led affiliate, its stock swings remain a data point Tesla shareholders often track alongside the broader Musk wealth and market-confidence narrative.",
+      "href": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "CNBC"
+      ],
+      "sentiment": "bear",
+      "hot": 5
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -88,10 +138,11 @@
       "body_en": "The NTSB's investigation into June's fatal Katy, Texas crash found the driver manually overrode Full Self-Driving (Supervised) by pressing the accelerator to <em>100%</em>, with the car exceeding <em>70 mph</em> at impact on a residential street with a 30 mph limit. The federal finding points to driver error rather than an FSD malfunction — a fact that could weigh in Tesla's favor in the related lawsuit and ongoing safety scrutiny. Yet Barron's and other outlets noted Tesla shares still slipped that morning, suggesting investors are more focused on the July 22 earnings call than on the individual crash story.",
       "summary_en": "The National Transportation Safety Board released findings on July 15 into the fatal Tesla crash that killed 76-year-old Katy, Texas resident Martha Avila in June.\n\nAccording to the NTSB, the driver was using Full Self-Driving (Supervised) on Rose Hollow Lane, a two-lane residential road with a 30 mph speed limit, when he manually overrode the system by pressing the accelerator pedal to <em>100%</em>. The vehicle's speed exceeded <em>70 mph</em> at the moment of impact. Security camera footage showed the car accelerating through an intersection, leaving the road, and striking the house. Weather was clear, the road was dry, and it was daylight.\n\nThe 44-year-old driver, Michael Butler, had reportedly told police he \"passed out,\" but his Google search history — which included terms like \"Tesla FSD not aggressive enough\" — cast doubt on that account. Butler has been charged with manslaughter, and the victim's family has sued both Butler and Tesla for negligence.\n\nThe NTSB's finding is notable for federally confirming that the crash stemmed from the driver overriding the system and flooring the accelerator, not an FSD malfunction — a fact that could favor Tesla in the pending lawsuit and in the broader FSD safety debate.\n\nStill, Barron's and other outlets reported Tesla shares opened lower on the morning of July 16 despite the exonerating news — a sign that broader pre-earnings caution, with the July 22 report looming, is outweighing the impact of any single crash headline.",
       "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/",
-      "confirmedBy": 2,
+      "confirmedBy": 3,
       "confirmingSources": [
         "Reuters",
-        "TechCrunch"
+        "TechCrunch",
+        "The Verge"
       ],
       "sentiment": "neutral",
       "hot": 6
