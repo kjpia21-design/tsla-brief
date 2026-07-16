@@ -1,6 +1,52 @@
 {
-  "asOf": "2026-07-16 21:08 UTC · 누적 619건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-16 21:41 UTC · 누적 622건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "18m ago",
+      "pubDate": "2026-07-16T19:02:39.000Z",
+      "title": "일론 머스크, <em>가스터빈 발전사 APR에너지 10억달러 조용히 인수</em> — xAI 그록 전력 확보",
+      "hotShort": "머스크, <em>10억달러 발전사 인수</em> 그록 전력 확보",
+      "body": "일론 머스크가 이동식 가스터빈·디젤발전 업체 APR에너지를 약 <em>10억달러</em>에 조용히 인수한 사실이 5월 FTC 조기종료 신고 자료를 통해 뒤늦게 드러났다 — xAI의 그록(Grok) 슈퍼컴퓨터에 필요한 전력을 신속히 확보하려는 행보로, 로보택시·옵티머스 등 실물 AI 인프라 경쟁에서 머스크 계열사들의 '전력 자급' 전략을 보여주는 사례다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "musk-apr-energy-acquisition-1b-2026-07-16",
+      "summary": "연방거래위원회(FTC) 조기종료 신고 기록에 따르면, 일론 머스크는 지난 5월14일 이동식 가스·디젤 터빈 발전 업체 APR에너지 인수를 마쳤다 — 반독점 추가 심사 없이 통과된 이 거래는 최근에야 언론 보도로 알려졌다.\n\nAPR에너지는 트레일러에 실린 가스터빈과 디젤·천연가스 발전기를 운용하는 업체로, 총 <em>1GW</em> 이상의 발전 용량을 갖췄다. 고정식 발전소를 짓는 데 수년이 걸리는 것과 달리, 이 이동식 설비는 수일 내 설치해 10분 이내 완전 가동이 가능하다는 게 특징이다.\n\n이번 인수의 목적은 xAI가 멤피스에서 운영하는 그록(Grok) 슈퍼컴퓨터 '콜로서스'·'콜로서스2'에 안정적인 전력을 공급하는 것이다. xAI는 앞서 무허가 가스터빈 최대 <em>35기</em>를 가동해 논란을 빚었는데, NAACP·남부환경법센터·어스저스티스 등 환경단체들이 대기오염방지법 위반으로 소송을 제기한 상태다 — 인근 흑인 밀집 지역 '박스타운'의 암 발병 위험이 전국 평균의 <em>4배</em>에 달한다는 이유에서다. 미 법무부는 오히려 국가·경제·에너지 안보를 이유로 해당 터빈 가동 유지 편에 개입한 바 있다.\n\n테슬라 주주 입장에서 직접적인 재무 영향은 없지만, 머스크가 이끄는 계열사들이 로보택시·옵티머스 등 실물 AI에 필요한 막대한 전력을 어떻게 조달하는지 보여주는 사례이자, 환경 규제 리스크가 머스크 제국 전반에 어떻게 얽혀 있는지 참고할 대목이다.",
+      "title_en": "Elon Musk <em>quietly bought $1B gas-turbine firm APR Energy</em> to power xAI's Grok",
+      "hotShort_en": "Musk <em>buys $1B power firm</em> for xAI's Grok",
+      "body_en": "Elon Musk quietly completed a roughly <em>$1 billion</em> acquisition of APR Energy, a mobile gas-turbine and diesel generator company, in May — only surfacing now via an FTC early-termination filing — to secure fast power for xAI's Grok supercomputers, underscoring how Musk's AI-era companies are racing to self-supply electricity alongside Tesla's own Robotaxi and Optimus AI buildout.",
+      "summary_en": "According to an FTC early-termination filing, Elon Musk completed his acquisition of APR Energy, a mobile gas and diesel turbine generator company, on May 14 — a deal that cleared without further antitrust review and only came to light through recent reporting.\n\nAPR Energy operates trailer-mounted gas turbines and diesel/natural-gas generators capable of producing more than <em>1 gigawatt</em> of power combined. Unlike fixed power plants that can take years to permit and build, these mobile units can be installed in days and reach full power in under 10 minutes.\n\nThe acquisition is meant to secure reliable power for the Colossus and Colossus 2 supercomputers that xAI operates in Memphis to train and run its Grok AI model. xAI has already drawn controversy for running up to <em>35</em> unpermitted gas turbines at the site — environmental groups including the NAACP, the Southern Environmental Law Center, and Earthjustice have sued under the Clean Air Act, citing cancer risk in the nearby Boxtown neighborhood measured at <em>4 times</em> the national average. The U.S. Department of Justice has separately intervened to keep the turbines running, citing national, economic, and energy security concerns.\n\nThere's no direct financial impact on Tesla here, but it's a useful data point for shareholders tracking how Musk's AI-era companies are securing the enormous power supplies needed for real-world AI — a challenge Tesla itself faces as it scales Robotaxi and Optimus — and how environmental and regulatory risk is intertwined across the Musk corporate universe.",
+      "href": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Tom's Hardware",
+        "Teslarati"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-16T18:13:41.000Z",
+      "title": "Xpeng 신형 L03, 유럽서 <em>모델Y보다 최대 1만달러 저렴</em>하게 출시",
+      "hotShort": "Xpeng L03, 유럽서 <em>모델Y보다 최대 1만달러↓</em>",
+      "body": "중국 Xpeng이 이번 주 유럽에 신형 전기 SUV쿠페 L03을 시작가 <em>€34,990</em>로 출시했다 — 독일에서는 테슬라 모델Y보다 약 <em>€3,400</em>, 노르웨이에서는 최대 <em>1만달러</em> 저렴한 가격으로, 중국 EV 업체들의 유럽 가격 공세가 모델Y의 핵심 시장에서 더 거세지고 있음을 보여준다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-xpeng-l03-undercuts-model-y-europe-2026-07-16",
+      "summary": "Xpeng이 이번 주 유럽 시장에 신형 전기 SUV쿠페 L03을 공식 출시했다. 시작가는 <em>€34,990</em>로 책정됐다.\n\n이 가격은 독일에서 테슬라 모델Y보다 약 <em>€3,400</em> 낮은 수준이며, 노르웨이에서는 그 격차가 최대 <em>1만달러</em>에 달한다. Electrek에 따르면 이 정도 가격이면 사양을 충분히 갖춘 차량임에도 모델Y 대비 뚜렷한 가격 우위를 갖는다.\n\n중국 EV 업체들은 최근 유럽에서 공격적인 가격 정책으로 점유율을 늘려가고 있으며, 이번 L03 출시는 테슬라의 핵심 볼륨 모델인 모델Y가 유럽에서 받는 가격 압박이 한 단계 더 커졌다는 신호로 읽힌다.\n\n테슬라 주주 입장에서는, 미국 내 세액공제 종료로 수요가 둔화된 가운데 유럽에서마저 중국 업체와의 가격 경쟁이 심화되는 흐름이 모델Y 마진·점유율에 어떤 영향을 줄지 지켜볼 대목이다.",
+      "title_en": "Xpeng's new L03 <em>undercuts Tesla Model Y by up to $10,000</em> in Europe",
+      "hotShort_en": "Xpeng L03 <em>undercuts Model Y by $10K</em> in Europe",
+      "body_en": "Xpeng launched its new L03 electric SUV-coupe in Europe this week at a starting price of <em>€34,990</em> — undercutting the Tesla Model Y by about <em>€3,400</em> in Germany and by up to <em>$10,000</em> in Norway, another sign of how aggressively Chinese EV makers are pricing into Model Y's core European market.",
+      "summary_en": "Xpeng officially launched its new L03 electric SUV-coupe in Europe this week, with a starting price of <em>€34,990</em>.\n\nThat undercuts the Tesla Model Y by roughly <em>€3,400</em> in Germany, and by as much as <em>$10,000</em> in Norway, according to Electrek — a notably well-equipped vehicle at a clear price advantage over the Model Y.\n\nChinese EV makers have been gaining European market share through increasingly aggressive pricing, and the L03 launch is another sign of how much pricing pressure Tesla's core-volume Model Y is facing in the region.\n\nFor Tesla shareholders, the question is how this compounding price competition in Europe — layered on top of softer U.S. demand since the EV tax credit expired — affects Model Y margins and market share going forward.",
+      "href": "https://electrek.co/2026/07/16/xpeng-l03-pricing-tesla-model-y-europe/",
+      "sentiment": "bear",
+      "hot": 4
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -25,6 +71,31 @@
       ],
       "sentiment": "neutral",
       "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-07-16T16:13:29.000Z",
+      "title": "테슬라 <em>$2억4300만 오토파일럿 배상평결</em> 항소전 — 前연방 송무차관보 등 거물 변호인단 투입",
+      "hotShort": "테슬라 <em>2.43억달러 배상평결</em> 항소 공방 개시",
+      "body": "2019년 플로리다 키라고(Key Largo)에서 오토파일럿 작동 중 발생한 사망사고에 대해 배심원단이 매긴 <em>$2억4300만</em> 배상 평결에, 테슬라가 前 연방 송무차관보 폴 클레멘트와 깁슨던(Gibson Dunn) 로펌 항소전문 변호사들을 앞세워 제11순회 연방항소법원에 항소했다 — 오토파일럿 소송 리스크가 실제 재무 부담으로 이어질지 가늠할 주요 분수령이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-243m-autopilot-crash-appeal-2026-07-16",
+      "summary": "2019년 4월25일 플로리다 키라고에서 조지 맥기(George McGee)가 오토파일럿을 작동한 모델S를 몰던 중 떨어뜨린 휴대폰을 찾으려 고개를 숙인 사이, 차량이 정지 표지판과 점멸 적신호를 무시하고 시속 약 <em>62마일</em>로 주행해 갓길에 정차해 있던 SUV를 들이받았다. 이 사고로 당시 20세이던 나이벨 베나비데스 레온이 숨지고, 남자친구 딜런 앙굴로가 중상을 입었다.\n\n2025년 8월 배심원단은 테슬라에 총 <em>$2억4300만</em>(비교 손해배상 $1억2900만 포함)을 배상하라고 평결했다. 2026년 2월 베스 블룸 연방판사는 테슬라 측의 평결 파기·감액 요청을 기각하며 \"증거가 평결을 충분히 뒷받침한다\"고 밝혔다.\n\n이에 테슬라는 지난 3월16일 제11순회 연방항소법원에 항소장을 제출했고, 前 미 연방 송무차관보 폴 클레멘트와 깁슨던 로펌의 항소심 전문 변호사 시어도어 부트루스 주니어·미겔 에스트라다를 항소심 대리인단으로 앞세웠다. 이들은 플로리다주 법이 이번 사안에서 징벌적 손해배상을 허용하지 않는다고 주장하며, 비교 손해배상액도 $1억2900만에서 $6900만으로 낮춰야 한다고 맞서고 있다. 미 상공회의소를 비롯한 재계 단체들도 평결 파기를 촉구하는 의견서를 법원에 제출했다.\n\n테슬라 주주 입장에서, 이번 항소심의 결과는 오토파일럿·FSD 관련 소송이 실제로 얼마나 큰 재무적 부담이 될 수 있는지를 가늠하는 중요한 선례가 될 전망이다.",
+      "title_en": "Tesla's <em>$243M Autopilot crash verdict</em> heads to appeal — Paul Clement, Gibson Dunn lead defense",
+      "hotShort_en": "Tesla's <em>$243M verdict</em> heads to appeal court",
+      "body_en": "Tesla has appealed a <em>$243 million</em> jury verdict over a fatal 2019 Autopilot crash in Key Largo, Florida to the Eleventh Circuit, enlisting former U.S. Solicitor General Paul Clement and Gibson Dunn appellate specialists Theodore Boutrous Jr. and Miguel Estrada — a case that will help show how much real financial exposure Tesla's Autopilot litigation actually carries.",
+      "summary_en": "On April 25, 2019, George McGee was driving a Model S with Autopilot engaged in Key Largo, Florida when he bent down to retrieve a dropped phone; the car ran a stop sign and a flashing red light at about <em>62 mph</em> and struck a parked SUV, killing 20-year-old Naibel Benavides Leon and severely injuring her boyfriend, Dillon Angulo.\n\nIn August 2025, a jury awarded a total of <em>$243 million</em> in damages, including <em>$129 million</em> in compensatory damages. In February 2026, U.S. District Judge Beth Bloom rejected Tesla's bid to set aside or reduce the verdict, saying the evidence \"more than supported\" the jury's findings.\n\nTesla filed a notice of appeal to the Eleventh Circuit on March 16, assembling a high-profile team led by former U.S. Solicitor General Paul Clement alongside Gibson Dunn appellate specialists Theodore Boutrous Jr. and Miguel Estrada. The team argues Florida law doesn't permit punitive damages under these circumstances and that compensatory damages should be cut from $129 million to $69 million. Business groups, including the U.S. Chamber of Commerce, have also filed briefs urging the court to vacate the verdict.\n\nFor Tesla shareholders, the outcome of this appeal is an important test case for how much real financial exposure the company's Autopilot and FSD-related litigation could ultimately carry.",
+      "href": "https://www.reuters.com/legal/litigation/legal-heavyweights-square-off-in-243-million-tesla-crash-appeal-2026-07-16/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "CNBC"
+      ],
+      "sentiment": "bear",
+      "hot": 6
     },
     {
       "category": "musk",
