@@ -1,6 +1,51 @@
 {
-  "asOf": "2026-07-15 23:01 UTC · 누적 615건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-16 03:14 UTC · 누적 617건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-15T22:21:37.000Z",
+      "title": "NTSB \"텍사스 주택 충돌사망, 운전자가 가속페달 <em>100% 밟아 FSD 오버라이드</em>\"",
+      "hotShort": "NTSB \"운전자가 <em>가속페달 100%</em> 밟아 FSD 무시\"",
+      "body": "美 연방교통안전위원회(NTSB)가 6월 텍사스 케이티(Katy) 주택 충돌 사망사고를 조사한 결과, 운전자가 FSD(Supervised) 작동 중 가속페달을 <em>100%</em>까지 밟아 시스템을 오버라이드했고 충돌 당시 속도는 시속 <em>70마일(약 113km/h)</em>을 넘겼다고 확인했다 — 제한속도 30마일 주택가 도로였다. FSD 결함이 아닌 운전자 과실을 뒷받침하는 연방기관의 공식 조사 결과라, 관련 소송·규제 리스크 평가에 중요한 참고자료가 될 전망이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-ntsb-katy-crash-driver-override-100pct-2026-07-15",
+      "summary": "지난 6월 텍사스 케이티(Katy)의 한 주택가에서 발생해 76세 주민 마사 아빌라(Martha Avila)가 숨진 테슬라 충돌사고에 대해, 美 연방교통안전위원회(NTSB)가 15일(현지시간) 조사 결과를 발표했다.\n\nNTSB에 따르면 사고 당시 운전자는 제한속도 시속 30마일(약 48km/h)인 2차선 주택가 도로 로즈 할로우 레인(Rose Hollow Lane)에서 FSD(Supervised)를 작동 중이었다. 그러나 <em>가속페달을 100%</em>까지 밟아 시스템을 수동으로 오버라이드했고, 충돌 당시 차량 속도는 <em>시속 70마일</em>을 넘겼다. 보안 카메라 영상에는 차량이 교차로를 그대로 통과해 도로를 이탈, 주택을 들이받는 장면이 담겼다. 당시 날씨는 맑았고 노면은 건조했으며 주간(daylight)이었다.\n\n앞서 경찰 조사에서는 44세 운전자 마이클 버틀러(Michael Butler)가 \"의식을 잃었다\"고 진술했지만, 그의 구글 검색 기록에는 \"Tesla FSD not aggressive enough\"(테슬라 FSD가 충분히 공격적이지 않다) 등의 검색어가 남아 있던 것으로 드러나 진술 신빙성에 의문이 제기됐었다. 버틀러는 과실치사 혐의로 기소된 상태이고, 유가족은 버틀러와 테슬라를 상대로 손해배상 소송을 제기해 놓았다.\n\n이번 NTSB 발표는 사고 원인이 FSD 시스템 결함이 아니라 운전자가 시스템을 무시하고 가속페달을 끝까지 밟은 데 있음을 연방기관이 공식 확인했다는 의미가 있다. 테슬라를 상대로 한 소송과 관련 규제 논의에서 테슬라 측에 유리하게 작용할 수 있는 사실관계로, FSD 안전성 논쟁이 이어지는 가운데 주목할 대목이다.",
+      "title_en": "NTSB: Driver <em>floored the accelerator to 100%</em>, overriding FSD, in fatal Texas house crash",
+      "hotShort_en": "NTSB: driver <em>overrode FSD</em>, hit 70+ mph",
+      "body_en": "The NTSB's investigation into June's fatal Katy, Texas crash found the driver manually overrode Full Self-Driving (Supervised) by pressing the accelerator to <em>100%</em>, with the car exceeding <em>70 mph</em> at impact on a residential street with a 30 mph limit. The federal finding points to driver error rather than an FSD malfunction — a fact that could weigh in Tesla's favor in the related lawsuit and ongoing safety scrutiny.",
+      "summary_en": "The National Transportation Safety Board released findings on July 15 into the fatal Tesla crash that killed 76-year-old Katy, Texas resident Martha Avila in June.\n\nAccording to the NTSB, the driver was using Full Self-Driving (Supervised) on Rose Hollow Lane, a two-lane residential road with a 30 mph speed limit, when he manually overrode the system by pressing the accelerator pedal to <em>100%</em>. The vehicle's speed exceeded <em>70 mph</em> at the moment of impact. Security camera footage showed the car accelerating through an intersection, leaving the road, and striking the house. Weather was clear, the road was dry, and it was daylight.\n\nThe 44-year-old driver, Michael Butler, had reportedly told police he \"passed out,\" but his Google search history — which included terms like \"Tesla FSD not aggressive enough\" — cast doubt on that account. Butler has been charged with manslaughter, and the victim's family has sued both Butler and Tesla for negligence.\n\nThe NTSB's finding is notable for federally confirming that the crash stemmed from the driver overriding the system and flooring the accelerator, not an FSD malfunction — a fact that could favor Tesla in the pending lawsuit and in the broader FSD safety debate.",
+      "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "TechCrunch"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-15T21:16:29.000Z",
+      "title": "일론 머스크의 xAI, 그록(Grok) 성적 딥페이크 악용 이용자 <em>직접 제소</em>",
+      "hotShort": "xAI, 그록 성적 딥페이크 <em>이용자 직접 제소</em>",
+      "body": "일론 머스크의 AI 스타트업 xAI가 텍사스 연방법원에 자사 챗봇 그록(Grok)을 악용해 미성년자를 포함한 성적 딥페이크를 만든 이용자를 <em>직접 제소</em>했다 — AI 기업이 자사 서비스 오남용 이용자를 상대로 소송을 낸 초기 사례 중 하나로, 테슬라 본업과는 무관하지만 머스크 계열사의 AI 콘텐츠 관리 책임 이슈로 주목된다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-xai-sues-grok-user-deepfakes-2026-07-15",
+      "summary": "일론 머스크가 이끄는 AI 스타트업 xAI가 자사 챗봇 그록(Grok)을 이용해 성적 딥페이크를 제작한 이용자를 상대로 텍사스 연방법원에 소송을 제기했다.\n\n소장에 따르면 피고는 사우스캐롤라이나 거주자 테리 하우드(Terry Harwood)로, 성인·미성년자 이미지를 무단으로 그록에 업로드해 성적 딥페이크를 제작하려 시도했고 성인을 대상으로 한 무단 음란 영상도 만든 혐의를 받는다. 하우드는 이미 미성년자 성적 착취 혐의로 체포된 바 있다. xAI는 손해배상과 영구 이용금지를 요구하고 있다.\n\n이번 소송은 AI 기업이 자사 서비스를 악용한 이용자를 직접 제소한 초기 사례 중 하나로 꼽힌다. 그록을 둘러싼 성적 딥페이크 콘텐츠 논란이 이어지는 가운데, xAI가 책임 있는 대응에 나섰다는 신호로 해석될 수 있다.\n\n테슬라 본업과 직접적 연관은 없지만, 머스크가 이끄는 관계사의 AI 거버넌스·법적 리스크 관리 행보로서 투자자들이 참고할 만한 소식이다.",
+      "title_en": "Musk's xAI <em>sues a Grok user</em> over sexualized deepfakes",
+      "hotShort_en": "xAI <em>sues user</em> over Grok deepfakes",
+      "body_en": "Elon Musk's AI startup xAI filed suit in federal court in Texas against a user who allegedly used its Grok chatbot to generate sexualized deepfakes, including of minors — one of the first cases of an AI company directly suing a user for misusing its own product. Not directly Tesla-related, but notable for how a Musk-led affiliate is handling AI content-liability exposure.",
+      "summary_en": "xAI, Elon Musk's AI startup, has sued a user in federal court in Texas over the alleged misuse of its Grok chatbot to produce sexualized deepfake content.\n\nAccording to the complaint, the defendant, Terry Harwood of South Carolina, uploaded unauthorized images of adults and minors to Grok and attempted to generate sexual deepfakes from them, and allegedly also created an unauthorized sexual recording of an adult. Harwood had previously been arrested on charges of sexual exploitation of minors. xAI is seeking damages and a permanent ban.\n\nThe suit is considered one of the first instances of an AI company directly suing a user for abusing its own product, amid ongoing controversy over sexualized deepfake content generated via Grok. It can be read as a signal that xAI is moving to take more responsibility for misuse of its platform.\n\nWhile not directly tied to Tesla's core business, it's a notable data point for investors tracking AI governance and legal-liability risk across Musk-led affiliates.",
+      "href": "https://www.reuters.com/legal/litigation/musks-xai-sues-grok-user-over-sexualized-deepfakes-2026-07-15/",
+      "sentiment": "neutral",
+      "hot": 3
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",

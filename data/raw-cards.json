@@ -1,10 +1,75 @@
 {
-  "asOf": "2026-07-15 23:01 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-16 03:14 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "46m ago",
+      "pubDate": "2026-07-16T02:28:42.000Z",
+      "title": "SpaceX Sinks Back to Where It Started: Evening Briefing Americas",
+      "body": "SpaceX Sinks Back to Where It Started: Evening Briefing Americas Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/newsletters/2026-07-15/spacex-sinks-back-to-where-it-started-evening-briefing-americas"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "40m ago",
+      "time": "1h ago",
+      "pubDate": "2026-07-16T01:52:51.000Z",
+      "title": "Tesla driver accelerated into house in fatal Texas crash",
+      "body": "Tesla driver accelerated into house in fatal Texas crash Bilyonaryo Business News",
+      "sourceName": "Bilyonaryo Business News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://bilyonaryo.com/2026/07/16/tesla-driver-accelerated-into-house-in-fatal-texas-crash/mobility/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-16T00:48:44.000Z",
+      "title": "NTSB: Tesla driver overrode car's self-driving mode before deadly Katy crash",
+      "body": "NTSB: Tesla driver overrode car's self-driving mode before deadly Katy crash Houston Chronicle",
+      "sourceName": "Houston Chronicle",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.houstonchronicle.com/news/houston-texas/article/tesla-crash-investigation-report-22347173.php"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-07-16T00:17:47.000Z",
+      "title": "Energy business, used car business, and plain ol’ business business",
+      "body": "Today’s episode of Quick Charge means business – the business of buying up power stations to power up the pet AI that says it would have picked you over Michael Jordan in the 1984 NBA draft and the business of fleecing w…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/07/15/energy-business-used-car-business-and-plain-ol-business-business/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-07-15T22:21:37.000Z",
+      "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
+      "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5h ago",
       "pubDate": "2026-07-15T22:21:37.000Z",
       "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
       "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
@@ -17,33 +82,20 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "41m ago",
-      "pubDate": "2026-07-15T22:20:55.000Z",
-      "title": "Tesla Robotaxi Fleet Surges 50% with Expansion in Texas",
-      "body": "Tesla Robotaxi Fleet Surges 50% with Expansion in Texas TeslaNorth.com",
-      "sourceName": "TeslaNorth.com",
+      "time": "5h ago",
+      "pubDate": "2026-07-15T22:21:37.000Z",
+      "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
+      "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://teslanorth.com/2026/07/15/tesla-robotaxi-fleet-surges-50-with-expansion-in-texas/"
+      "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-07-15T21:57:50.000Z",
-      "title": "SpaceX Sinks Back to Where It Started: Evening Briefing Americas",
-      "body": "SpaceX Sinks Back to Where It Started: Evening Briefing Americas Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/newsletters/2026-07-15/spacex-sinks-back-to-where-it-started-evening-briefing-americas"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-15T21:16:29.000Z",
       "title": "Musk's xAI sues Grok user over sexualized 'deepfakes'",
       "body": "Musk's xAI sues Grok user over sexualized 'deepfakes' Reuters",
@@ -54,35 +106,9 @@
       "href": "https://www.reuters.com/legal/litigation/musks-xai-sues-grok-user-over-sexualized-deepfakes-2026-07-15/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-15T20:58:38.000Z",
-      "title": "NTSB says Tesla driver floored accelerator and exceeded Full Self Driving limits in Katy crash",
-      "body": "NTSB says Tesla driver floored accelerator and exceeded Full Self Driving limits in Katy crash Межа. Новини України.",
-      "sourceName": "Межа. Новини України.",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://mezha.net/eng/bukvy/4ea5edc6_ntsb_says_tesla/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-15T20:55:17.000Z",
-      "title": "NTSB: Tesla Driver Overrode FSD System Before Fatal Texas Crash",
-      "body": "NTSB: Tesla Driver Overrode FSD System Before Fatal Texas Crash Whalesbook",
-      "sourceName": "Whalesbook",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.whalesbook.com/news/English/technology/NTSB-Tesla-Driver-Overrode-FSD-System-Before-Fatal-Texas-Crash/6a57f1985cb7edf90c320f70"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-15T20:21:35.000Z",
       "title": "SpaceX Shares Fall Below IPO Price for First Time as Hype Fades",
       "body": "SpaceX Shares Fall Below IPO Price for First Time as Hype Fades Bloomberg.com",
@@ -95,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-15T20:12:53.000Z",
       "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
       "body": "SpaceX Briefly Falls Below I.P.O. Price of $135 The New York Times",
@@ -108,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-15T19:48:23.000Z",
       "title": "Short-Sellers Swarm SpaceX With Paper Profit Nearing $4 Billion",
       "body": "Short-Sellers Swarm SpaceX With Paper Profit Nearing $4 Billion Bloomberg.com",
@@ -121,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-15T17:44:02.000Z",
       "title": "Lucid CEO dispels any rumors of bankruptcy: ‘So far from the facts’",
       "body": "Lucid CEO Silvio Napoli responded to rumors of an imminent bankruptcy that was reportedly being mulled after a report stated the automaker was working with the firm AlixPartners to iron out its next steps. The company fe…",
@@ -134,7 +160,20 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "10h ago",
+      "pubDate": "2026-07-15T17:41:32.000Z",
+      "title": "Tesla Model 3 Highland approved to receive adaptive headlights in Europe",
+      "body": "Tesla Model 3 Highland approved to receive adaptive headlights in Europe Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-model-3-highland-adaptive-headlights-approved-europe/?category"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "10h ago",
       "pubDate": "2026-07-15T17:01:32.000Z",
       "title": "Tesla’s LFP battery holds its charge better, study says",
       "body": "A new analysis of nearly 10,000 real-world EV battery tests found that the same Tesla Model 3 holds up very differently depending on which battery it was built with — and the cheaper LFP version comes out on top. The Mod…",
@@ -147,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-15T16:41:24.000Z",
       "title": "Tesla responds to strange Supercharging pricing error with classy move",
       "body": "Tesla has once again demonstrated strong customer focus by swiftly addressing and fully refunding a bizarre Supercharger pricing glitch that affected drivers in Atlantic Canada. The issue surfaced earlier this month when…",
@@ -160,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-15T14:21:00.000Z",
       "title": "Tesla Stock Is in the Calm Before the Storm",
       "body": "Tesla Stock Is in the Calm Before the Storm Barron's",
@@ -169,32 +208,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-volatility-earnings-bcb428a3"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
-      "pubDate": "2026-07-15T13:53:21.000Z",
-      "title": "Someone is flipping Tesla Model S Signature for $260,000 — $100K+ markup",
-      "body": "A New Jersey dealer is trying to flip a barely-driven Tesla Model S Signature for $259,995 — roughly $100,000 more than what Tesla charged buyers for the collector’s edition. The car carries VIN #71 and just 297 miles on…",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/07/15/tesla-model-s-signature-flip-260k/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "23h ago",
-      "pubDate": "2026-07-15T00:07:37.000Z",
-      "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
-      "body": "See How Tesla Tore Down The Model S Factory To Build Robots Instead InsideEVs",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/"
     },
     {
       "category": "stock",
@@ -210,19 +223,6 @@
       "href": "https://www.barrons.com/articles/tesla-stock-price-target-0e4899ed"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
-      "pubDate": "2026-07-14T18:22:34.000Z",
-      "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
-      "body": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S. CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1d ago",
@@ -236,17 +236,17 @@
       "href": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-13T23:59:00.000Z",
-      "title": "Tesla Inc. Advanced Charts | TSLA",
-      "body": "Tesla Inc. Advanced Charts | TSLA Barron's",
-      "sourceName": "Barron's",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "13d ago",
+      "pubDate": "2026-07-03T07:00:00.000Z",
+      "title": "Tesla rolls out robotaxi service in Miami",
+      "body": "Tesla rolls out robotaxi service in Miami Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/market-data/stocks/tsla/interactive-chart?amp%253Biso"
+      "href": "https://www.reuters.com/business/autos-transportation/tesla-rolls-out-robotaxi-service-miami-2026-07-03/"
     },
     {
       "category": "stock",
