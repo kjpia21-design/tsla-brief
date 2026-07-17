@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-17T13:34:31.000Z",
+      "title": "테슬라, 하루 만에 <em>라트비아·우루과이 동시 진출</em> — 발트 3국 진출 완성",
+      "hotShort": "테슬라, <em>라트비아·우루과이</em> 하루 새 동시 진출",
+      "body": "테슬라가 이번 주 24시간도 안 되는 사이 라트비아와 우루과이 진출을 잇따라 발표했다 — 라트비아 진출로 리투아니아(2024년)·에스토니아(2026년 4월)에 이은 <em>발트 3국 진출을 완성</em>했고, 우루과이는 칠레·콜롬비아에 이은 남미 세 번째 시장으로 미국 세액공제 종료 이후 해외 신시장 개척 속도를 보여준다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-tesla-latvia-uruguay-launch-2026-07-17",
+      "summary": "테슬라가 이번 주 라트비아와 우루과이 두 신규 시장에 24시간도 안 되는 간격을 두고 잇따라 공식 진출을 발표했다.\n\n라트비아 진출로 테슬라는 리투아니아(2024년 말 진출)·에스토니아(2026년 4월24일 탈린 공식 출시)에 이어 <em>발트 3국 진출을 모두 완성</em>했다. 에스토니아는 공식 매장이 없던 시절에도 이미 전체 EV의 약 20%를 테슬라가 차지할 만큼 대기 수요가 확인된 지역이었다.\n\n우루과이에서는 칠레·콜롬비아에 이어 남미 세 번째 공식 시장으로 자리잡으며, 모델3·모델Y를 각각 3개 트림으로 판매한다. 현지에 공급되는 물량은 미국이 아닌 중국 상하이 기가팩토리산이다.\n\n테슬라 주주 입장에서는, 미국 EV 세액공제 종료(2025년 9월)로 내수 수요가 둔화된 시점에 유럽·남미 등 신규 소규모 시장 개척으로 판매 기반을 넓히려는 전략으로 읽힌다 — 개별 시장 규모는 작지만, 볼륨 축적의 방향성을 보여주는 신호다.",
+      "title_en": "Tesla launches in <em>Latvia and Uruguay</em> within 24 hours, completing its Baltic footprint",
+      "hotShort_en": "Tesla enters <em>Latvia and Uruguay</em> in one day",
+      "body_en": "Tesla announced official launches in Latvia and Uruguay within less than 24 hours of each other this week — the Latvia entry <em>completes Tesla's presence across all three Baltic states</em> (Lithuania in 2024, Estonia in April 2026), while Uruguay becomes its third South American market after Chile and Colombia, another sign of Tesla chasing smaller overseas markets since the U.S. EV tax credit expired.",
+      "summary_en": "Tesla rolled out official launches in two new markets this week, Latvia and Uruguay, announced less than 24 hours apart.\n\nThe Latvia launch completes Tesla's presence across all three Baltic states, following Lithuania (which launched in late 2024) and Estonia (officially launched in Tallinn on April 24, 2026). Estonia had already accounted for roughly 20% of the country's EVs even before Tesla had an official store there, pointing to pent-up regional demand.\n\nIn Uruguay, Tesla becomes the third officially represented South American market after Chile and Colombia, offering the Model 3 and Model Y in three trims each. Vehicles for the Uruguayan market are being sourced from Tesla's Shanghai Gigafactory rather than the U.S.\n\nFor shareholders, the back-to-back launches read as Tesla broadening its sales base into smaller international markets at a time when U.S. demand has cooled following the September 2025 expiration of the federal EV tax credit — individually small markets, but a signal of where Tesla is looking to add incremental volume.",
+      "href": "https://electrek.co/2026/07/17/tesla-latvia-uruguay-launch/",
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
@@ -24,26 +44,6 @@
       ],
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-17T00:31:20.000Z",
-      "title": "테슬라, 팬들이 기다린 전동 자전거 아닌 <em>$225 유아용 밸런스바이크</em> 출시",
-      "hotShort": "테슬라 자전거 출시 — <em>$225 유아용 밸런스바이크</em>",
-      "body": "테슬라 팬들이 수년간 요청해온 전동 자전거가 아니라, 모터도 페달도 없는 유아용 <em>'밸런스바이크'</em>를 온라인 샵에서 $225에 출시했다 — 핵심 사업과 무관한 소소한 신상품으로 재무적 의미는 미미하다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-tesla-balance-bike-kids-2026-07-17",
-      "summary": "일렉트렉(Electrek)에 따르면, 테슬라 팬들은 수년째 회사에 전동 자전거(e-bike) 출시를 요청해왔지만, 정작 테슬라가 처음 내놓은 자전거는 그 기대와는 거리가 멀었다.\n\n새로 출시된 'Balance Bike for Kids'는 모터와 페달이 모두 없는 순수 유아용 밸런스바이크로, 테슬라 온라인 샵에서 <em>$225</em>에 판매된다.\n\n차량·에너지·FSD 등 핵심 사업과는 무관한 소소한 상품으로, 투자자 관점에서 재무적 의미는 크지 않다.",
-      "title_en": "Tesla finally launches a bike — but it's a <em>$225 toddler balance bike</em>, not an e-bike",
-      "hotShort_en": "Tesla launches <em>$225 kids' balance bike</em>",
-      "body_en": "Tesla fans have begged for years for an e-bike — instead, the company just launched the <em>'Balance Bike for Kids'</em>, a motor-free, pedal-free toddler bike selling for $225 on its online shop.",
-      "summary_en": "According to Electrek, Tesla fans have spent years asking the company to build an e-bike. What Tesla actually launched, however, was something else entirely.\n\nThe new 'Balance Bike for Kids' has no motor and no pedals — it's a toddler balance bike, priced at <em>$225</em> on Tesla's online shop.\n\nThe product has no connection to Tesla's core vehicle, energy, or FSD business, and carries little financial significance for investors.",
-      "href": "https://electrek.co/2026/07/16/tesla-balance-bike-kids-225/",
-      "sentiment": "neutral",
-      "hot": 2
     },
     {
       "category": "musk",
@@ -193,5 +193,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-07-17 18:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-17 22:40 KST 자동 갱신 · 최신순"
 }
