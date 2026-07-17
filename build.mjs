@@ -92,6 +92,14 @@ function escapeHtml(s) {
 // 제목·바디에는 <em> 강조 마크업이 들어 있으므로 그대로 살림(이미 콘텐츠 작성자가 의도한 것).
 // 나머지 텍스트 필드는 escapeHtml 적용.
 
+// em 태그를 살려야 하는 필드용 안전 렌더 — 전체 escape 후 <em>…</em> 경계만 복원.
+// 그 외 태그·속성(<em onclick> 등)은 정확히 일치하지 않아 escape 유지 → XSS 안전.
+function emSafeHtml(s) {
+  return escapeHtml(s || "")
+    .replace(/&lt;em&gt;/g, "<em>")
+    .replace(/&lt;\/em&gt;/g, "</em>");
+}
+
 /**
  * 가격 박스 한 줄 렌더링.
  * data/kpi.json 스키마(fetch-price.mjs 산출):
@@ -488,13 +496,10 @@ function shortHotTitle(htmlTitle, MAX = 26) {
   return out;
 }
 
-// hotShort 안전 렌더 — 전체 escape 후 <em>…</em> 만 복원(카테고리색 italic 강조).
-// 그 외 태그·속성(<em onclick> 등)은 정확히 일치하지 않아 escape 유지 → XSS 안전.
+// hotShort 안전 렌더(카테고리색 italic 강조) — emSafeHtml 참고.
 function hotShortHtml(c, lang = "ko") {
   const raw = (lang === "en" ? c.hotShort_en : c.hotShort) || shortHotTitle(fld(c, "title", lang));
-  return escapeHtml(raw)
-    .replace(/&lt;em&gt;/g, "<em>")
-    .replace(/&lt;\/em&gt;/g, "</em>");
+  return emSafeHtml(raw);
 }
 
 // 카드 본문 — 완결된 사실 한 문장만 노출(왜-중요 상술은 기사 상세에 유지, 카드는 중간 절단 방지).
@@ -855,10 +860,10 @@ function renderArticle(template, card, lang = "ko", pool = []) {
     const union = new Set([...A, ...B]).size || 1;
     if (inter / union > 0.5) console.warn(`[build] ⚠ 리드-본문 중복 의심(자카드 ${(inter / union).toFixed(2)}): ${card.slug || card.title}`);
   }
-  const summaryHtml = paras.map((p) => `<p>${escapeHtml(p)}</p>`).join("\n    ");
+  const summaryHtml = paras.map((p) => `<p>${emSafeHtml(p)}</p>`).join("\n    ");
 
   const titleTxt = titleHtml.replace(/<\/?em>/g, "");
-  const desc = (summaryRaw || bodyRaw || "").slice(0, 120).replace(/\n+/g, " ").trim() + "…";
+  const desc = (summaryRaw || bodyRaw || "").replace(/<\/?em>/g, "").slice(0, 120).replace(/\n+/g, " ").trim() + "…";
 
   // article 은 카드 데이터에서 매번 새로 생성되므로 idempotent 필요 없음 →
   // 모든 마커를 keepMarkers: false 로 제거 (attribute 값 안에 들어가도 안전).
@@ -875,7 +880,7 @@ function renderArticle(template, card, lang = "ko", pool = []) {
   out = replaceBlock(out, "A_SRC_NAME",     escapeHtml(sourceName), opts);
   out = replaceBlock(out, "A_SRC_NAME2",    escapeHtml(sourceName), opts);
   out = replaceBlock(out, "A_SRC_LABEL_KR", escapeHtml(srcText), opts);
-  out = replaceBlock(out, "A_LEAD",         escapeHtml(leadText), opts);
+  out = replaceBlock(out, "A_LEAD",         emSafeHtml(leadText), opts);
   out = replaceBlock(out, "A_SUMMARY",      summaryHtml, opts);
   out = replaceBlock(out, "A_HREF",         escapeHtml(card.href || "#"), opts);
   out = replaceBlock(out, "A_CANON",        escapeHtml(card.slug || ""), opts);   // canonical·og:url 슬러그
