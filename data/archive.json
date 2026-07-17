@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-16T23:00:00.000Z",
+      "title": "스페이스X 스타십 13차 시험비행, 발사 직전 <em>엔진 4기 미점화로 자동 중단</em> — SPCX 상장 후 첫 시도",
+      "hotShort": "스타십 13차 발사, <em>엔진 4기 미점화</em>로 중단",
+      "body": "7월16일 텍사스 스타베이스에서 시도한 스페이스X 스타십 13차 시험비행이 슈퍼헤비 부스터 33개 엔진 중 <em>4개가 점화되지 않아</em> 발사 직전 자동 중단됐다 — SPCX 상장 후 첫 발사 시도였던 만큼, 머스크는 라파터 엔진 2기 교체 후 이르면 다음 주 초 재도전하겠다고 밝혔다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-starship-flight13-abort-2026-07-16",
+      "summary": "7월16일(현지시간) 텍사스 스타베이스 2번 발사대에서 진행된 스페이스X 스타십 13차 시험비행이 발사 직전 자동 중단됐다. 화면 텔레메트리에서 슈퍼헤비 부스터의 랩터 엔진 33개 중 <em>4개가 점화되지 않은</em> 것이 확인됐고, 나머지 29개 엔진도 즉시 정지되며 로켓은 발사대에 그대로 남았다.\n\n머스크는 이번 결함이 라파터 엔진 <em>2기</em> 교체가 필요한 문제라며, \"가장 유력한 재발사 시점은 다음 주 초\"라고 밝혔다.\n\n이번 시도는 스페이스X 상장(IPO) 이후 첫 스타십 시험비행이었다는 점에서 시장의 관심이 컸다. 로켓에는 신형 스타링크 V3 위성 <em>20기</em>가 실려 있었으며, 이는 신형 위성의 첫 궤도 투입 시도이기도 했다.\n\n스페이스X는 테슬라 보유 종목은 아니지만 머스크가 이끄는 계열사로 최근 상장(SPCX)했다. 이미 IPO가를 밑돌며 공매도가 늘어난 상황에서 이번 발사 지연이 투자 심리에 추가 영향을 줄지 주목된다 — 다만 로켓이 손상 없이 안전하게 중단됐다는 점은 긍정적이다.",
+      "title_en": "SpaceX Starship Flight 13 <em>aborts on the pad</em> as 4 engines fail to ignite — first launch try since IPO",
+      "hotShort_en": "Starship Flight 13 <em>aborts</em>, 4 engines misfire",
+      "body_en": "SpaceX's 13th Starship test flight from Starbase, Texas was automatically aborted just before liftoff on July 16 after <em>4 of the Super Heavy booster's 33 engines</em> failed to ignite — the first Starship launch attempt since SpaceX went public, with Musk saying a retry is most likely early next week after replacing two Raptor engines.",
+      "summary_en": "SpaceX's 13th Starship test flight, launching from Pad 2 at Starbase, Texas, was automatically aborted just before liftoff on July 16. On-screen telemetry showed <em>4 of the Super Heavy booster's 33 Raptor engines</em> failed to ignite, triggering an immediate shutdown of the remaining 29 engines and keeping the rocket anchored to the pad.\n\nMusk said the issue requires replacing <em>two</em> Raptor engines, adding that the \"most probable launch timing is early next week.\"\n\nThe attempt drew extra attention as the first Starship test flight since SpaceX's recent IPO. The rocket was carrying <em>20</em> of the newest-generation Starlink V3 satellites, marking what would have been their first orbital delivery.\n\nSpaceX isn't a Tesla holding, but as a Musk-led affiliate that recently went public as SPCX — already trading below its IPO price with elevated short interest — this launch delay is another data point shareholders may weigh alongside the broader Musk market-confidence narrative. The safe, undamaged abort is a positive sign for the hardware, even as repeated schedule slips draw scrutiny.",
+      "href": "https://www.reuters.com/business/media-telecom/spacex-starship-rocket-aborts-before-liftoff-13th-flight-test-attempt-2026-07-16/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "AP News",
+        "Bloomberg"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "just now",
@@ -2364,32 +2390,7 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-02T01:24:00.000Z",
-      "title": "미래에셋, 스페이스X IPO 배정 논란 반박 — <em>\"주관사가 주문 접수 확인\"</em>",
-      "hotShort": "미래에셋, 스페이스X 배정 논란 <em>주관사에 반박</em>",
-      "body": "미래에셋증권이 스페이스X IPO 주식 배정 논란에서 주관사가 자사 주문 접수를 확인했다고 반박했다 — 국내 투자자 11억 4천만 달러 규모 주문이 통째로 배정에서 빠진 사고의 책임 소재를 둘러싼 공방이 한국 금융당국 조사로 번지고 있다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-mirae-spacex-ipo-dispute-2026-07-02",
-      "summary": "스페이스X는 지난달 기업공개(IPO)를 단행했는데, 골드만삭스·모건스탠리·뱅크오브아메리카·JP모건·씨티그룹 등이 이끈 23개 주관사단 가운데 한국의 미래에셋증권만 유일하게 배정 물량을 전혀 받지 못하는 이례적 사고가 발생했다.\n\n블룸버그는 지난 6월 30일 첫 보도에서, 미래에셋이 주관사 측의 초기 '투자 관심 조사' 요청을 실제 확정 주문 제출로 착각해 절차를 오해했고, 그 결과 11억 4천만 달러 규모의 국내 투자자 주문이 최종 주문장(order book)에 아예 반영되지 못했다고 전했다.\n\n미래에셋은 이 보도를 정면으로 반박했다. 7월 2일 블룸버그 보도에 따르면 미래에셋은 스페이스X IPO 관련 모든 절차를 주관사 측과 협의해 정상적으로 진행했으며, 주관사 한 곳이 자사 주문 접수 사실을 직접 확인해줬다고 주장했다 — 절차상 오해가 아니라 주관사 측 배정 과정의 문제라는 취지다.\n\n이번 사고로 미래에셋은 고객들에게 공개 사과했고, 한국 금융당국은 관련 검사 범위를 넓히고 있다.\n\n스페이스X는 IPO 이후에도 주가 급등락·공매도 베팅 급증 등 변동성이 이어지고 있는 가운데, 이번 배정 논란은 해외 우량 IPO에 접근하려는 한국 투자자들의 신뢰 문제로 번질 수 있어 주목된다.",
-      "title_en": "Mirae Disputes SpaceX IPO Snub — Says <em>Underwriter Confirmed Its Orders</em>",
-      "hotShort_en": "Mirae disputes SpaceX IPO snub, <em>blames underwriter</em>",
-      "body_en": "Mirae Asset Securities pushed back on reports it mishandled SpaceX IPO orders, saying a lead underwriter confirmed receiving its bids — a dispute over who's responsible for $1.14B in Korean investor demand missing from the final allocation, now drawing a regulatory review in South Korea.",
-      "summary_en": "SpaceX went public last month through a syndicate of 23 underwriters led by Goldman Sachs, Morgan Stanley, Bank of America, JPMorgan and Citigroup. South Korea's Mirae Asset Securities was the only one of them to receive zero share allocation, an unusual outcome that triggered scrutiny back home.\n\nBloomberg first reported on June 30 that Mirae had mistaken an early request from lead underwriters to gauge investor interest for the actual submission of binding orders, meaning $1.14 billion in Korean client demand never made it into the final order book.\n\nMirae pushed back hard on that account. In a Bloomberg report published July 2, the brokerage said it handled the entire SpaceX IPO process in coordination with the underwriters, and that a lead underwriter directly confirmed it had received Mirae's orders — implying the failure sits with the allocation process, not a Mirae miscommunication.\n\nThe episode prompted a public apology to Mirae's clients and a widened inspection by South Korean financial regulators.\n\nWith SpaceX shares still swinging sharply and short bets rising since the IPO, the allocation dispute adds a new wrinkle to how Korean investors access marquee U.S. listings — and how much they can trust their local brokers to execute on them.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-02/mirae-says-a-lead-underwriter-confirmed-its-spacex-ipo-orders",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Bloomberg",
-        "Korea Herald"
-      ],
-      "sentiment": "neutral",
-      "hot": 3
     }
   ],
-  "asOf": "2026-07-17 06:09 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-17 09:15 KST 자동 갱신 · 최신순"
 }
