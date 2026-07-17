@@ -1,11 +1,50 @@
 {
-  "asOf": "2026-07-17 15:18 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-17 17:17 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "12m ago",
+      "pubDate": "2026-07-17T17:05:15.000Z",
+      "title": "SpaceX announces new Starship 13 test flight target date",
+      "body": "SpaceX announces new Starship 13 test flight target date Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/spacex-announces-new-starship-13-test-flight-target-date/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "54m ago",
+      "pubDate": "2026-07-17T16:23:24.000Z",
+      "title": "Tesla and Intel among stocks with earnings momentum reporting this week. Here are the others",
+      "body": "Tesla and Intel among stocks with earnings momentum reporting this week. Here are the others CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/17/tesla-and-intel-are-among-the-companies-reporting-next-week-with-positive-earnings-momentum-here-are-the-others.html"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "29m ago",
-      "pubDate": "2026-07-17T14:49:25.000Z",
+      "time": "1h ago",
+      "pubDate": "2026-07-17T16:08:10.000Z",
+      "title": "Tesla driver in B.C. gets ticketed for reading while driving on FSD",
+      "body": "Tesla driver in B.C. gets ticketed for reading while driving on FSD driveteslacanada.ca",
+      "sourceName": "driveteslacanada.ca",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://driveteslacanada.ca/news/tesla-driver-reading-documents-west-kelowna-bc/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-17T16:02:12.000Z",
       "title": "Newly released photo shows wreckage of Tesla crash that killed grandmother",
       "body": "Newly released photo shows wreckage of Tesla crash that killed grandmother The Washington Post",
       "sourceName": "The Washington Post",
@@ -15,22 +54,22 @@
       "href": "https://www.washingtonpost.com/business/2026/07/17/newly-released-photo-shows-wreckage-tesla-crash-that-killed-grandmother/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "29m ago",
-      "pubDate": "2026-07-17T14:48:45.000Z",
-      "title": "Q2 Earnings Report Could Shift These Tesla ETFs Into High Gear",
-      "body": "Q2 Earnings Report Could Shift These Tesla ETFs Into High Gear ETF Database",
-      "sourceName": "ETF Database",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-17T14:59:00.000Z",
+      "title": "Tesla Stock: Why a Merger With SpaceX Might Not Happen",
+      "body": "Tesla Stock: Why a Merger With SpaceX Might Not Happen Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://etfdb.com/leveraged-inverse-content-hub/q2-earnings-report-shift-tesla-etfs/"
+      "href": "https://www.barrons.com/articles/tesla-stock-price-spacex-merger-658c1872"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "56m ago",
+      "time": "3h ago",
       "pubDate": "2026-07-17T14:22:00.000Z",
       "title": "Two Risks for Tesla Stock Not Everyone Is Talking About",
       "body": "Two Risks for Tesla Stock Not Everyone Is Talking About Barron's",
@@ -43,7 +82,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-17T13:34:31.000Z",
       "title": "Tesla launches in Latvia and Uruguay, expanding on two continents",
       "body": "Tesla opened two new markets in less than 24 hours, launching in Latvia and Uruguay in back-to-back announcements this week. The dual entry completes Tesla’s expansion across all three Baltic states and gives the automak…",
@@ -56,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-17T13:34:00.000Z",
       "title": "Tesla launches in Latvia and Uruguay, expanding on two continents",
       "body": "Tesla launches in Latvia and Uruguay, expanding on two continents Electrek",
@@ -69,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-17T12:32:52.000Z",
       "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Netflix, Apple, Tesla, Alphabet, 3M, Moody's & more",
       "body": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Netflix, Apple, Tesla, Alphabet, 3M, Moody's & more CNBC",
@@ -82,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "14h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-17T01:27:00.000Z",
       "title": "SpaceX Starship launch aborted on the pad at the last moment",
       "body": "SpaceX Starship launch aborted on the pad at the last moment AP News",
@@ -95,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-17T00:31:20.000Z",
       "title": "Tesla finally launches a bike — but it’s not what fans wanted",
       "body": "Tesla fans have spent years begging the company to build an e-bike. Tesla just launched a bike — and it has no motor, no pedals, and it’s for toddlers. The new “Balance Bike for Kids” sells for $225 on Tesla’s online sho…",
@@ -106,35 +145,9 @@
       "href": "https://electrek.co/2026/07/16/tesla-balance-bike-kids-225/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "15h ago",
-      "pubDate": "2026-07-17T00:30:00.000Z",
-      "title": "SpaceX Scrubs Major Test Launch of Giant Starship Rocket",
-      "body": "SpaceX Scrubs Major Test Launch of Giant Starship Rocket Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-16/spacex-to-launch-giant-starship-rocket-in-first-flight-since-ipo"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "16h ago",
-      "pubDate": "2026-07-16T23:00:00.000Z",
-      "title": "SpaceX's Starship rocket aborts before liftoff, Musk says launch probable next week",
-      "body": "SpaceX's Starship rocket aborts before liftoff, Musk says launch probable next week Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/media-telecom/spacex-starship-rocket-aborts-before-liftoff-13th-flight-test-attempt-2026-07-16/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-16T20:45:06.000Z",
       "title": "Tesla (TSLA) shareholders are begging Musk to explain missed goals",
       "body": "Tesla shareholders have flooded the company’s Q2 2026 earnings Q&A portal with questions, and the most-upvoted ones tell a bleak story: retail investors are now demanding that Elon Musk explain why the company keeps miss…",
@@ -147,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-16T20:34:00.000Z",
       "title": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway.",
       "body": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway. Barron's",
@@ -160,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-16T20:08:28.000Z",
       "title": "US agency denies Tesla petition to avoid recall fix over headlight issue",
       "body": "US agency denies Tesla petition to avoid recall fix over headlight issue Reuters",
@@ -173,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-16T20:08:28.000Z",
       "title": "US agency denies Tesla petition to avoid recall fix over headlight issue",
       "body": "US agency denies Tesla petition to avoid recall fix over headlight issue Reuters",
@@ -186,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "21h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-16T18:13:41.000Z",
       "title": "Xpeng’s new L03 undercuts Tesla Model Y by up to $10,000 in Europe",
       "body": "Xpeng launched its new L03 electric SUV-coupe in Europe this week with a starting price of €34,990 — undercutting the Tesla Model Y by roughly €3,400 in Germany and by around $10,000 in Norway. The pricing puts a well-eq…",
@@ -199,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-16T16:13:29.000Z",
       "title": "Legal heavyweights square off in $243 million Tesla crash appeal",
       "body": "Legal heavyweights square off in $243 million Tesla crash appeal Reuters",
@@ -208,19 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/legal/litigation/legal-heavyweights-square-off-in-243-million-tesla-crash-appeal-2026-07-16/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-07-16T15:41:09.000Z",
-      "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator ‘100 percent,’ investigators confirm",
-      "body": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator ‘100 percent,’ investigators confirm The Verge",
-      "sourceName": "The Verge",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation"
     },
     {
       "category": "stock",
