@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-17 03:17 UTC · 누적 622건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-17 06:21 UTC · 누적 623건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-16T23:00:00.000Z",
+      "title": "스페이스X 스타십 13차 시험비행, 발사 직전 <em>엔진 4기 미점화로 자동 중단</em> — SPCX 상장 후 첫 시도",
+      "hotShort": "스타십 13차 발사, <em>엔진 4기 미점화</em>로 중단",
+      "body": "7월16일 텍사스 스타베이스에서 시도한 스페이스X 스타십 13차 시험비행이 슈퍼헤비 부스터 33개 엔진 중 <em>4개가 점화되지 않아</em> 발사 직전 자동 중단됐다 — SPCX 상장 후 첫 발사 시도였던 만큼, 머스크는 라파터 엔진 2기 교체 후 이르면 다음 주 초 재도전하겠다고 밝혔다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-starship-flight13-abort-2026-07-16",
+      "summary": "7월16일(현지시간) 텍사스 스타베이스 2번 발사대에서 진행된 스페이스X 스타십 13차 시험비행이 발사 직전 자동 중단됐다. 화면 텔레메트리에서 슈퍼헤비 부스터의 랩터 엔진 33개 중 <em>4개가 점화되지 않은</em> 것이 확인됐고, 나머지 29개 엔진도 즉시 정지되며 로켓은 발사대에 그대로 남았다.\n\n머스크는 이번 결함이 라파터 엔진 <em>2기</em> 교체가 필요한 문제라며, \"가장 유력한 재발사 시점은 다음 주 초\"라고 밝혔다.\n\n이번 시도는 스페이스X 상장(IPO) 이후 첫 스타십 시험비행이었다는 점에서 시장의 관심이 컸다. 로켓에는 신형 스타링크 V3 위성 <em>20기</em>가 실려 있었으며, 이는 신형 위성의 첫 궤도 투입 시도이기도 했다.\n\n스페이스X는 테슬라 보유 종목은 아니지만 머스크가 이끄는 계열사로 최근 상장(SPCX)했다. 이미 IPO가를 밑돌며 공매도가 늘어난 상황에서 이번 발사 지연이 투자 심리에 추가 영향을 줄지 주목된다 — 다만 로켓이 손상 없이 안전하게 중단됐다는 점은 긍정적이다.",
+      "title_en": "SpaceX Starship Flight 13 <em>aborts on the pad</em> as 4 engines fail to ignite — first launch try since IPO",
+      "hotShort_en": "Starship Flight 13 <em>aborts</em>, 4 engines misfire",
+      "body_en": "SpaceX's 13th Starship test flight from Starbase, Texas was automatically aborted just before liftoff on July 16 after <em>4 of the Super Heavy booster's 33 engines</em> failed to ignite — the first Starship launch attempt since SpaceX went public, with Musk saying a retry is most likely early next week after replacing two Raptor engines.",
+      "summary_en": "SpaceX's 13th Starship test flight, launching from Pad 2 at Starbase, Texas, was automatically aborted just before liftoff on July 16. On-screen telemetry showed <em>4 of the Super Heavy booster's 33 Raptor engines</em> failed to ignite, triggering an immediate shutdown of the remaining 29 engines and keeping the rocket anchored to the pad.\n\nMusk said the issue requires replacing <em>two</em> Raptor engines, adding that the \"most probable launch timing is early next week.\"\n\nThe attempt drew extra attention as the first Starship test flight since SpaceX's recent IPO. The rocket was carrying <em>20</em> of the newest-generation Starlink V3 satellites, marking what would have been their first orbital delivery.\n\nSpaceX isn't a Tesla holding, but as a Musk-led affiliate that recently went public as SPCX — already trading below its IPO price with elevated short interest — this launch delay is another data point shareholders may weigh alongside the broader Musk market-confidence narrative. The safe, undamaged abort is a positive sign for the hardware, even as repeated schedule slips draw scrutiny.",
+      "href": "https://www.reuters.com/business/media-telecom/spacex-starship-rocket-aborts-before-liftoff-13th-flight-test-attempt-2026-07-16/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "AP News",
+        "Bloomberg"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
