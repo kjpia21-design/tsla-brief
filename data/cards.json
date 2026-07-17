@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-17T09:15:00.000Z",
+      "title": "게리 블랙 \"SpaceX 주가 $132로 추락 — 테슬라 인수 <em>희석률 25%</em>로 수지 안 맞아\"",
+      "hotShort": "게리 블랙, 테슬라·SpaceX 합병에 <em>희석 25%</em> 경고",
+      "body": "애널리스트 게리 블랙이 SpaceX(SPCX) 주가가 IPO 공모가 아래인 <em>$132</em>까지 밀린 상황을 짚으며, 이 가격대로는 SpaceX가 전액 주식 거래로 테슬라를 인수할 경우 기존 SpaceX 주주가 <em>25%</em>가량 희석돼 \"수지가 안 맞는다\"고 밝혔다 — 두 회사 합병 기대가 테슬라 주가를 지지해온 서사인 만큼, 주주들이 주목할 밸류에이션 반박이다.",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "musk-gary-black-spacex-tesla-dilution-2026-07-17",
+      "summary": "퓨처펀드(The Future Fund) 매니징 파트너 게리 블랙이 최근 다시 불붙은 테슬라-스페이스X 합병설에 밸류에이션 관점의 반론을 냈다.\n\n스페이스X(SPCX) 주가는 7월17일 기준 IPO 공모가 <em>$135</em>를 밑도는 <em>$132</em> 안팎까지 떨어지며 하락세를 이어가고 있다. 블랙은 자신의 X 계정 등을 통해 \"$132로 추락한 지금 가격으로는 SpaceX가 <em>25%</em>나 희석되는 전액 주식 거래로 테슬라를 인수할 수 없다 — 산술이 맞지 않는다\"고 밝혔다.\n\n테슬라-스페이스X 합병설은 스페이스X 상장(IPO) 이후 시장에서 꾸준히 제기돼 온 시나리오로, 두 회사가 결합하면 초대형 기업이 탄생할 것이란 기대감이 최근 테슬라 주가 서사의 한 축이 돼 왔다. 블랙의 이번 발언은 그 기대감에 실제 밸류에이션 수학으로 제동을 건 것이다.\n\n테슬라 주주 입장에서는, 합병 프리미엄에 대한 기대가 스페이스X의 주가 흐름에 따라 얼마나 현실적인지 재점검해볼 대목이다 — 스페이스X 주가가 계속 밀릴수록, 전액 주식 인수 시나리오의 희석 부담은 더 커진다.",
+      "title_en": "Gary Black: SpaceX's slide to $132 makes an all-stock Tesla deal <em>too dilutive</em>",
+      "hotShort_en": "Gary Black: SpaceX buyout of TSLA now <em>25% dilutive</em>",
+      "body_en": "Analyst Gary Black said SpaceX's slide to <em>$132</em> — below its IPO price — makes an all-stock Tesla acquisition too dilutive for SpaceX shareholders (roughly <em>25%</em>), undercutting a merger narrative that has helped support Tesla's stock.",
+      "summary_en": "Gary Black, managing partner at The Future Fund, has pushed back on the latest round of Tesla-SpaceX merger speculation with a valuation argument.\n\nSpaceX (SPCX) shares have slipped to around <em>$132</em>, below their <em>$135</em> IPO price, as of July 17. Black said on X that \"at $132 and sinking, SpaceX can't just buy Tesla in a <em>25%</em> dilutive equity deal\" — arguing the math simply doesn't work at current prices.\n\nSpeculation about a Tesla-SpaceX combination has persisted since SpaceX's IPO, with some investors framing a merger as a potential catalyst that could create one of the world's largest companies. Black's comments push back on that narrative with a valuation-based objection.\n\nFor Tesla shareholders, the takeaway is that any merger-premium hopes are directly tied to SpaceX's own share price — the further SPCX falls, the heavier the dilution burden becomes in an all-stock acquisition scenario.",
+      "href": "https://stocktwits.com/news-articles/markets/equity/tsla-gary-black-spacex-tesla-math-wont-pass-muster/cZZ77RTR7tQ",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Stocktwits",
+        "Invezz"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "just now",
@@ -166,27 +191,7 @@
       ],
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-16T09:15:25.000Z",
-      "title": "텍사스 무인 로보택시 <em>175대</em>로 급증 — 하루 만에 50% 확장",
-      "hotShort": "무인 로보택시 <em>175대</em>로 하루새 50%↑",
-      "body": "테슬라가 7월15일 하루 만에 모델Y <em>58대</em>를 추가 등록해 텍사스 무인 로보택시(안전요원 없음) 대수가 117대에서 <em>175대</em>로 늘었다 — 웨이모(642대)·Avride(317대)에는 여전히 못 미치지만, 격차를 좁히는 속도가 한 달 전보다 빨라지고 있다는 신호다.",
-      "sourceName": "Electric-Vehicles.com",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-texas-117-2026-07-14",
-      "summary": "텍사스 주정부 차량 등록 자료에 따르면, 테슬라는 7월15일 하루에만 모델Y <em>58대</em>를 무인 로보택시(안전요원 미탑승) 용도로 신규 등록했다. 이로써 텍사스 전역의 테슬라 무인 로보택시 등록 대수는 기존 117대에서 <em>175대</em>로, 하루 만에 약 <em>50%</em> 늘었다.\n\n이는 테슬라가 차량을 한두 대씩 찔끔 투입하는 게 아니라, 수요 흡수를 준비하며 의미 있는 단위로 한꺼번에 배치하고 있다는 신호로 읽힌다.\n\n비교 대상인 웨이모는 텍사스에 <em>642대</em>, Avride는 <em>317대</em>를 등록해 테슬라는 여전히 3위다. 다만 한 달 전과 비교하면 격차가 좁혀지는 속도 자체는 빨라지고 있다.\n\n테슬라 로보택시망은 오스틴을 중심으로 댈러스·휴스턴·마이애미까지 4개 도시로 확장돼 있다. 배런스가 최근 \"테슬라 주가 가치의 92~93%가 로봇·로보택시에서 나온다\"고 짚었을 만큼, 무인 차량 등록 대수 증가는 로보택시 상업화 속도를 가늠하는 실질적 지표로 투자자들이 주시하는 항목이다.",
-      "title_en": "Texas driverless Tesla Robotaxi fleet jumps to <em>175</em> — up 50% in a single day",
-      "hotShort_en": "Texas Robotaxi fleet hits <em>175</em>, up 50% in a day",
-      "body_en": "Tesla registered <em>58</em> more Model Ys for driverless Robotaxi service in Texas on July 15, pushing the state's registered fleet from 117 to <em>175</em> — still trailing Waymo (642) and Avride (317), but closing the gap faster than a month ago.",
-      "summary_en": "Texas vehicle registration records show Tesla added <em>58</em> new Model Ys to its driverless (no safety driver) Robotaxi fleet in a single day on July 15 — pushing the state's total registered fleet from 117 to <em>175</em>, a roughly <em>50%</em> jump.\n\nThe single-day batch suggests Tesla is no longer trickling cars into the fleet one or two at a time, but adding them in meaningful chunks as it prepares to absorb more ride demand.\n\nFor comparison, Waymo has <em>642</em> registered vehicles in Texas and Avride has <em>317</em>, keeping Tesla in third place. Still, the pace at which Tesla is closing that gap has picked up compared with a month ago.\n\nTesla's Robotaxi network now spans four Texas-area cities — Austin, Dallas, Houston, and Miami. With Barron's recently estimating that 92-93% of Tesla's stock valuation rests on robots and Robotaxi, the driverless fleet count remains a closely watched gauge of how fast the commercial rollout is actually scaling.",
-      "href": "https://eletric-vehicles.com/tesla/tesla-expands-model-y-robotaxi-fleet-in-texas-by-50-in-a-single-day/",
-      "sentiment": "bull",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-17 09:35 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-17 18:15 KST 자동 갱신 · 최신순"
 }
