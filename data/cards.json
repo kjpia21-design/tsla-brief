@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-17T19:03:00.000Z",
+      "title": "스페이스X, 펜타곤에 AI 컴퓨팅 파워 판매 협상 — <em>수십억달러 규모</em>, 아직 초기 단계",
+      "hotShort": "스페이스X, 펜타곤에 <em>AI 컴퓨팅 공급 협상</em>",
+      "body": "스페이스X가 펜타곤에 AI 데이터센터 컴퓨팅 파워를 최대 수십억달러 규모로 공급하는 협상을 진행 중이라고 WSJ가 단독 보도했다 — 아직 초기 단계지만, 구글·앤트로픽에 이은 클라우드 사업 확장으로 일론 머스크의 사업 영역이 AI 인프라로 계속 넓어지고 있음을 보여준다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-pentagon-computing-deal-2026-07-17",
+      "summary": "월스트리트저널(WSJ) 단독 보도에 따르면, 일론 머스크의 스페이스X가 미 국방부(펜타곤)에 AI 모델 구동용 데이터센터 컴퓨팅 용량을 공급하는 방안을 논의 중이다. 계약 규모는 최대 수십억달러에 이를 것으로 전해졌다.\n\n이번 협상은 아직 초기 단계로, 성사되지 않고 무산될 가능성도 남아있다. 국방부에는 이미 아마존·마이크로소프트·구글·오라클이 컴퓨팅 용량을 공급하고 있어, 스페이스X가 이 시장에 새로 진입하는 모양새다.\n\n스페이스X는 앞서 구글(알파벳)·앤트로픽·리플렉션AI와도 클라우드 컴퓨팅 계약을 맺은 바 있으며, 이번 펜타곤 협상도 같은 파트너십 모델을 따르는 것으로 알려졌다. 회사는 코어위브(CoreWeave) 등 기존 사업자보다 낮은 가격에 컴퓨팅 용량을 제공하는 방식으로 클라우드 사업을 대대적으로 확장할 계획이다.\n\n테슬라 주주 입장에서는 직접적인 재무 영향은 없지만, 머스크가 이끄는 계열사들이 로켓·위성을 넘어 AI 인프라 사업으로 발을 넓히는 흐름의 연장선이라는 점에서 참고할 만하다 — 최근 스페이스X 주가 약세·xAI 전력 확보 등과 함께, 머스크 제국의 자원 배분이 어디로 향하는지 보여주는 신호다.",
+      "title_en": "SpaceX in talks to sell <em>AI computing power</em> to the Pentagon — multi-billion-dollar deal still early-stage",
+      "hotShort_en": "SpaceX in <em>Pentagon AI computing</em> talks",
+      "body_en": "SpaceX is in talks to supply the Pentagon with data-center computing capacity for AI models worth up to several billion dollars, the Wall Street Journal exclusively reports — still early-stage, but another sign of Elon Musk's businesses expanding further into AI infrastructure alongside its Google and Anthropic deals.",
+      "summary_en": "According to an exclusive Wall Street Journal report, Elon Musk's SpaceX is discussing a deal to supply the U.S. Department of Defense with data-center computing capacity to run AI models, in an arrangement that could be worth several billion dollars.\n\nThe talks remain at an early stage and could still fall apart. Amazon, Microsoft, Google, and Oracle already supply computing capacity to the Pentagon, meaning SpaceX would be a new entrant to that market.\n\nSpaceX has previously signed cloud-computing deals with Google (Alphabet), Anthropic, and Reflection AI, and the Pentagon talks reportedly follow a similar partnership model. The company is said to be planning a major expansion of its cloud-computing business, aiming to undercut existing providers like CoreWeave on price.\n\nFor Tesla shareholders, there's no direct financial impact, but the talks are another data point in how Musk's constellation of companies — beyond rockets and satellites — is expanding into AI infrastructure, alongside recent SpaceX share weakness and xAI's own power-sourcing moves.",
+      "href": "https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "WSJ",
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "just now",
@@ -166,32 +192,7 @@
       ],
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-07-16T15:15:28.000Z",
-      "title": "스페이스X, IPO가 $135 <em>아래로 첫 하락</em> — 공매도 평가익 $87억 육박",
-      "hotShort": "스페이스X 주가 IPO가 <em>첫 하회</em>, 공매도 $87억",
-      "body": "스페이스X(SPCX) 주가가 7월15일 상장 후 처음으로 IPO 공모가 $135 <em>아래로</em> 떨어졌다 — 4거래일 연속 하락에 공매도 물량이 유통 가능 주식의 <em>28%</em>(1억8100만주)까지 늘었고, 데이터업체 오텍스(Ortex) 집계로 공매도 세력의 평가이익도 <em>$87억</em>까지 불어났다. 2분기 실적발표 전후 예정된 첫 대규모 락업 해제(유통물량 약 <em>11%</em> 추가)를 앞두고 매도 압력 우려가 커지는 신호다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-below-ipo-price-shorts-8-7bn-2026-07-16",
-      "summary": "로이터에 따르면 스페이스X(SPCX) 주가는 4거래일 연속 하락한 끝에 7월15일 IPO 공모가인 $135 <em>아래로</em> 처음 떨어졌다. 상장 이후 처음으로 공모가를 밑돈 셈이다.\n\n이번 하락으로 공매도 물량은 <em>1억8100만주</em>까지 불어나, 유통 가능한 <em>6억4600만주</em> 중 <em>28%</em>에 해당하는 수준이 됐다. 데이터·분석업체 오텍스(Ortex)에 따르면, 이 공매도 포지션의 평가이익은 <em>$87억</em>에 달하는 것으로 집계됐다 — 오텍스는 주가가 1달러 움직일 때마다 공매도 측 손익이 <em>$3억</em> 이상 바뀐다고 추산했다.\n\n투자자들이 특히 주목하는 부분은 예정된 락업 해제 일정이다. 2분기 실적발표 시점을 전후해 첫 대규모 락업이 풀리며, 전체 발행주식의 약 <em>11%</em>가 새로 매도 가능해질 전망이다 — 유통물량이 늘어나면 추가 매도 압력이 커질 수 있어 시장이 예의주시하고 있다.\n\n스페이스X는 테슬라 보유 종목이 아니지만 일론 머스크가 이끄는 관계사로, 그의 자산가치·시장 신뢰와 밀접해 테슬라 주주들도 함께 참고하는 지표다.",
-      "title_en": "SpaceX stock <em>slips below its $135 IPO price</em> for the first time as short-seller profits near $8.7B",
-      "hotShort_en": "SpaceX stock <em>falls below IPO price</em>, shorts up $8.7B",
-      "body_en": "SpaceX (SPCX) shares fell <em>below their $135 IPO price</em> for the first time on July 15, after four straight days of declines — short interest has climbed to <em>28%</em> of the tradeable float (181 million shares), with short sellers' paper profits reaching an estimated <em>$8.7 billion</em>, according to Ortex data cited by Reuters. The move comes ahead of the first major lockup expiry around Q2 earnings, when roughly <em>11%</em> of shares are set to become tradeable.",
-      "summary_en": "SpaceX (SPCX) shares fell below their $135 IPO price for the first time on July 15, according to Reuters, after four consecutive days of declines.\n\nShort interest has swelled to <em>181 million shares</em>, or <em>28%</em> of the 646 million shares available for trading. According to data and analytics firm Ortex, short sellers' paper profits on those positions have reached an estimated <em>$8.7 billion</em> — with Ortex noting that every $1 move in the stock is worth more than <em>$300 million</em> to short sellers.\n\nInvestors are also watching the upcoming lockup schedule closely. The first major unlock is expected around SpaceX's Q2 earnings report, when roughly <em>11%</em> of outstanding shares are set to become eligible for sale — a supply increase that could add further pressure just as short interest is already elevated.\n\nSpaceX isn't a Tesla holding, but as an Elon Musk-led affiliate, its stock swings remain a data point Tesla shareholders often track alongside the broader Musk wealth and market-confidence narrative.",
-      "href": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "CNBC"
-      ],
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-17 22:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-18 06:06 KST 자동 갱신 · 최신순"
 }
