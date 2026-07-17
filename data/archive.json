@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-17T00:31:20.000Z",
+      "title": "테슬라, 팬들이 기다린 전동 자전거 아닌 <em>$225 유아용 밸런스바이크</em> 출시",
+      "hotShort": "테슬라 자전거 출시 — <em>$225 유아용 밸런스바이크</em>",
+      "body": "테슬라 팬들이 수년간 요청해온 전동 자전거가 아니라, 모터도 페달도 없는 유아용 <em>'밸런스바이크'</em>를 온라인 샵에서 $225에 출시했다 — 핵심 사업과 무관한 소소한 신상품으로 재무적 의미는 미미하다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-tesla-balance-bike-kids-2026-07-17",
+      "summary": "일렉트렉(Electrek)에 따르면, 테슬라 팬들은 수년째 회사에 전동 자전거(e-bike) 출시를 요청해왔지만, 정작 테슬라가 처음 내놓은 자전거는 그 기대와는 거리가 멀었다.\n\n새로 출시된 'Balance Bike for Kids'는 모터와 페달이 모두 없는 순수 유아용 밸런스바이크로, 테슬라 온라인 샵에서 <em>$225</em>에 판매된다.\n\n차량·에너지·FSD 등 핵심 사업과는 무관한 소소한 상품으로, 투자자 관점에서 재무적 의미는 크지 않다.",
+      "title_en": "Tesla finally launches a bike — but it's a <em>$225 toddler balance bike</em>, not an e-bike",
+      "hotShort_en": "Tesla launches <em>$225 kids' balance bike</em>",
+      "body_en": "Tesla fans have begged for years for an e-bike — instead, the company just launched the <em>'Balance Bike for Kids'</em>, a motor-free, pedal-free toddler bike selling for $225 on its online shop.",
+      "summary_en": "According to Electrek, Tesla fans have spent years asking the company to build an e-bike. What Tesla actually launched, however, was something else entirely.\n\nThe new 'Balance Bike for Kids' has no motor and no pedals — it's a toddler balance bike, priced at <em>$225</em> on Tesla's online shop.\n\nThe product has no connection to Tesla's core vehicle, energy, or FSD business, and carries little financial significance for investors.",
+      "href": "https://electrek.co/2026/07/16/tesla-balance-bike-kids-225/",
+      "sentiment": "neutral",
+      "hot": 2
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
@@ -31,14 +51,14 @@
       "categoryLabel": "STOCK · 주가·실적",
       "time": "just now",
       "pubDate": "2026-07-16T20:45:06.000Z",
-      "title": "테슬라 2분기 실적 D-6 — <em>로보택시·옵티머스 목표 미달</em> 해명 요구 봇물, 모닝스타는 $450 적정가치",
-      "hotShort": "테슬라 실적 D-6, <em>목표 미달</em> 해명 요구 봇물",
+      "title": "테슬라 2분기 실적 D-5 — <em>로보택시·옵티머스 목표 미달</em> 해명 요구 봇물, 모닝스타는 $450 적정가치",
+      "hotShort": "테슬라 실적 D-5, <em>목표 미달</em> 해명 요구 봇물",
       "body": "22일 2분기 실적발표를 앞두고 테슬라 주주들이 로보택시·옵티머스 등 그동안 미달된 목표에 대한 해명을 머스크에게 요구하고 나섰다 — 텍사스 FSD 사고 조사에서 혐의를 벗었음에도 16일 주가는 전일 대비 <em>-0.9%</em> 하락한 $391.06으로 마감해, 투자자 관심이 사고보다 실적에 쏠려 있음을 보여준다.",
       "sourceName": "Electrek",
       "sourceLabel": "press",
       "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
       "summary": "16일(현지시간) 테슬라 주가는 전 거래일 대비 <em>-0.9%</em> 하락한 $391.06으로 마감했다. 같은 날 미국 국가교통안전위원회(NTSB)가 지난달 텍사스 케이티 자택 충돌사망 사고에서 FSD의 책임을 사실상 벗겨주는 조사 결과를 내놨음에도 낙폭을 되돌리지 못했다 — 사고 리스크 해소보다, 22일로 다가온 2분기 실적발표에 시장의 관심이 쏠려 있다는 신호로 풀이된다.\n\n일렉트렉(Electrek) 보도에 따르면, 실적발표를 앞두고 테슬라 주주들 사이에서 로보택시·옵티머스 관련 미달 목표에 대한 해명 요구가 두드러지고 있다. 일론 머스크가 2019년 예고했던 '2020년 말까지 로보택시 100만대' 공약은 실현되지 못했고, 이후 2024년 사이버캡 공개 행사에서 제시한 '2025년 텍사스·캘리포니아 무인 로보택시 상용화, 2026년 사이버캡 양산' 목표도 주주들의 검증 대상에 올랐다. 옵티머스 역시 3세대 생산·공장 배치·상업화 일정에 대한 질문이 두 번째로 많이 제기된 주제였다.\n\n한편 모닝스타는 테슬라의 장기 목표주가(적정가치)를 기존 $425에서 <em>$450</em>로 상향하며 '3성 등급·적정가치' 진단을 유지했다. 2026년 인도량이 전년(164만대) 대비 <em>10%</em> 늘어난 180만대에 근접할 것이란 전망이 근거다. 다만 2025년 9월 미국 EV 세액공제 종료 여파로, 상반기 세 개 분기 동안은 미국 내 인도량이 상대적으로 부진할 것으로 봤다.\n\n모닝스타는 이번 실적발표에서 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다 — 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
-      "title_en": "Tesla Q2 earnings T-6 — shareholders demand answers on missed <em>Robotaxi, Optimus goals</em>, Morningstar sees $450 fair value",
+      "title_en": "Tesla Q2 earnings T-5 — shareholders demand answers on missed <em>Robotaxi, Optimus goals</em>, Morningstar sees $450 fair value",
       "hotShort_en": "Investors press Musk on <em>missed goals</em>",
       "body_en": "Tesla shares closed down <em>0.9%</em> at $391.06 on July 16 even after NTSB findings largely cleared FSD in the fatal Texas crash, as investor attention shifts to the July 22 earnings call — where shareholders are pressing Musk for answers on unmet Robotaxi and Optimus targets.",
       "summary_en": "Tesla stock closed at $391.06 on July 16, down <em>0.9%</em> from the previous session, even as the National Transportation Safety Board released findings that largely cleared Tesla's FSD system in last month's fatal crash in Katy, Texas. The muted reaction suggests investors are more focused on the upcoming July 22 earnings report than on the resolved crash investigation.\n\nAccording to Electrek, Tesla shareholders are increasingly demanding answers on unmet Robotaxi and Optimus targets ahead of the earnings call. Elon Musk's 2019 promise of a million robotaxis on the road by the end of 2020 never materialized, and the goals set at the October 2024 Cybercab unveiling — unsupervised Robotaxi operations in Texas and California in 2025, volume Cybercab production in 2026 — are now under shareholder scrutiny. Optimus was the second most-discussed topic, with questions on Gen 3 production, factory deployment and commercial rollout.\n\nSeparately, Morningstar raised its long-term fair value estimate for Tesla to <em>$450</em> from $425, maintaining a 3-star \"fairly valued\" rating, citing an expectation that 2026 deliveries will grow roughly <em>10%</em> to near 1.8 million units from 1.64 million in 2025 — though it expects softer U.S. deliveries through the first three quarters following the September 2025 expiration of the U.S. EV tax credit.\n\nMorningstar said free cash flow and management commentary on Robotaxi and Optimus will matter more to the stock than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
@@ -2365,31 +2385,6 @@
       ],
       "sentiment": "neutral",
       "hot": 9
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-02T07:42:13.000Z",
-      "title": "NHTSA, 695K대 테슬라 <em>팬텀 브레이킹 조사</em> 4년 만에 종결",
-      "hotShort": "NHTSA, 테슬라 <em>팬텀 브레이킹 조사</em> 종결",
-      "body": "미 도로교통안전국(NHTSA)이 2022년 개시한 모델3·모델Y 약 695,000대 대상 '팬텀 브레이킹'(불필요한 자동제동) 예비조사를 4년 만에 추가 조치 없이 종결했다 — 신고 건수가 최근 뚜렷이 줄고 충돌·차선이탈로 이어진 사례가 확인되지 않은 점이 근거로, 로보택시 확장을 앞둔 FSD·오토파일럿 신뢰도에 긍정적인 규제 신호다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "sec",
-      "slug": "product-nhtsa-phantom-braking-probe-closed-2026-07-02",
-      "summary": "NHTSA 결함조사국(ODI)은 2022년 모델3·모델Y 차주들의 '팬텀 브레이킹' 신고를 접수한 뒤 예비평가(PE22002)를 개시했다. 오토파일럿·FSD·교통인지 크루즈컨트롤이 전방 상황을 오인식해 불필요하게 감속·정지하는 현상으로, 고속 주행 중 시속 10~20마일가량 갑작스러운 속도 저하가 1~3초간 발생하는 형태로 보고됐다.\n\n4년간 이어진 조사에서 NHTSA는 신고 건수가 뚜렷한 감소 추세를 보였다고 밝혔다 — 테슬라가 2021년 중반 레이더-비전 융합 방식에서 순수 비전(카메라) 기반으로 인식 체계를 전환한 시점과 신고 감소 추세가 맞물린다는 점도 확인했다. 조사 과정에서 차선이탈이나 충돌로 이어진 패턴은 발견되지 않았다.\n\n이번 종결로 NHTSA는 별도의 리콜이나 강제 조치를 요구하지 않았다. 다만 예비평가 종결이 곧 '결함 없음'을 의미하는 것은 아니며, 새로운 신고가 누적되면 조사를 재개할 수 있다고 덧붙였다.\n\n주주 입장에서는 4년간 미결로 남아 있던 안전 규제 리스크 하나가 해소됐다는 의미가 크다. 로보택시·FSD 확장을 성장 축으로 내세운 테슬라에게 오토파일럿 관련 연방 조사의 종결은 규제·평판 부담을 덜어주는 소식이다.",
-      "title_en": "NHTSA closes four-year <em>phantom braking probe</em> into 695K Teslas",
-      "hotShort_en": "NHTSA closes Tesla <em>phantom braking</em> probe",
-      "body_en": "The U.S. National Highway Traffic Safety Administration has closed a four-year preliminary evaluation into roughly 695,000 Tesla Model 3 and Model Y vehicles over 'phantom braking' — unnecessary automatic braking — without ordering further action, citing a sharp decline in complaints and no pattern of collisions or lane departures. It's a positive regulatory signal for Autopilot/FSD credibility as Tesla pushes to scale Robotaxi.",
-      "summary_en": "NHTSA's Office of Defects Investigation opened Preliminary Evaluation PE22002 in 2022 after Model 3 and Model Y owners reported 'phantom braking' — Autopilot, FSD, and Traffic-Aware Cruise Control misreading the road ahead and commanding an unnecessary stop, typically a 10-20 mph speed reduction over 1-3 seconds at highway speed.\n\nOver the four-year investigation, NHTSA found a marked decline in complaint volume, which it noted coincided with Tesla's mid-2021 shift from radar-vision fusion to a pure vision (camera-only) perception stack. Investigators found no pattern linking the incidents to lane departures or collisions.\n\nNHTSA closed the case without requiring a recall or further enforcement action. The agency noted, however, that closing a preliminary evaluation doesn't mean no defect exists — it can reopen the matter if new complaints warrant it.\n\nFor shareholders, resolving a four-year-old federal safety probe removes a lingering regulatory overhang tied directly to Autopilot and FSD — the same systems underpinning Tesla's Robotaxi growth story. It's a modest but clean positive as the company pushes toward wider autonomous deployment.",
-      "href": "https://www.reuters.com/legal/litigation/us-closes-2022-probe-into-695000-tesla-vehicles-over-unexpected-braking-2026-07-02/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "NHTSA"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
   "asOf": "2026-07-17 09:15 KST 자동 갱신 · 최신순"
