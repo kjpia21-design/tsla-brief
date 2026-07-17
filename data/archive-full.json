@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-17 21:01 UTC · 누적 626건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-17 21:28 UTC · 누적 627건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-17T19:03:00.000Z",
+      "title": "스페이스X, 펜타곤에 AI 컴퓨팅 파워 판매 협상 — <em>수십억달러 규모</em>, 아직 초기 단계",
+      "hotShort": "스페이스X, 펜타곤에 <em>AI 컴퓨팅 공급 협상</em>",
+      "body": "스페이스X가 펜타곤에 AI 데이터센터 컴퓨팅 파워를 최대 수십억달러 규모로 공급하는 협상을 진행 중이라고 WSJ가 단독 보도했다 — 아직 초기 단계지만, 구글·앤트로픽에 이은 클라우드 사업 확장으로 일론 머스크의 사업 영역이 AI 인프라로 계속 넓어지고 있음을 보여준다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-pentagon-computing-deal-2026-07-17",
+      "summary": "월스트리트저널(WSJ) 단독 보도에 따르면, 일론 머스크의 스페이스X가 미 국방부(펜타곤)에 AI 모델 구동용 데이터센터 컴퓨팅 용량을 공급하는 방안을 논의 중이다. 계약 규모는 최대 수십억달러에 이를 것으로 전해졌다.\n\n이번 협상은 아직 초기 단계로, 성사되지 않고 무산될 가능성도 남아있다. 국방부에는 이미 아마존·마이크로소프트·구글·오라클이 컴퓨팅 용량을 공급하고 있어, 스페이스X가 이 시장에 새로 진입하는 모양새다.\n\n스페이스X는 앞서 구글(알파벳)·앤트로픽·리플렉션AI와도 클라우드 컴퓨팅 계약을 맺은 바 있으며, 이번 펜타곤 협상도 같은 파트너십 모델을 따르는 것으로 알려졌다. 회사는 코어위브(CoreWeave) 등 기존 사업자보다 낮은 가격에 컴퓨팅 용량을 제공하는 방식으로 클라우드 사업을 대대적으로 확장할 계획이다.\n\n테슬라 주주 입장에서는 직접적인 재무 영향은 없지만, 머스크가 이끄는 계열사들이 로켓·위성을 넘어 AI 인프라 사업으로 발을 넓히는 흐름의 연장선이라는 점에서 참고할 만하다 — 최근 스페이스X 주가 약세·xAI 전력 확보 등과 함께, 머스크 제국의 자원 배분이 어디로 향하는지 보여주는 신호다.",
+      "title_en": "SpaceX in talks to sell <em>AI computing power</em> to the Pentagon — multi-billion-dollar deal still early-stage",
+      "hotShort_en": "SpaceX in <em>Pentagon AI computing</em> talks",
+      "body_en": "SpaceX is in talks to supply the Pentagon with data-center computing capacity for AI models worth up to several billion dollars, the Wall Street Journal exclusively reports — still early-stage, but another sign of Elon Musk's businesses expanding further into AI infrastructure alongside its Google and Anthropic deals.",
+      "summary_en": "According to an exclusive Wall Street Journal report, Elon Musk's SpaceX is discussing a deal to supply the U.S. Department of Defense with data-center computing capacity to run AI models, in an arrangement that could be worth several billion dollars.\n\nThe talks remain at an early stage and could still fall apart. Amazon, Microsoft, Google, and Oracle already supply computing capacity to the Pentagon, meaning SpaceX would be a new entrant to that market.\n\nSpaceX has previously signed cloud-computing deals with Google (Alphabet), Anthropic, and Reflection AI, and the Pentagon talks reportedly follow a similar partnership model. The company is said to be planning a major expansion of its cloud-computing business, aiming to undercut existing providers like CoreWeave on price.\n\nFor Tesla shareholders, there's no direct financial impact, but the talks are another data point in how Musk's constellation of companies — beyond rockets and satellites — is expanding into AI infrastructure, alongside recent SpaceX share weakness and xAI's own power-sourcing moves.",
+      "href": "https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "WSJ",
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",

@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-07-17 21:01 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-17 21:28 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "27m ago",
+      "pubDate": "2026-07-17T21:01:00.000Z",
+      "title": "Tesla Releases Q2 2026 Earnings Estimates from Analysts",
+      "body": "Tesla Releases Q2 2026 Earnings Estimates from Analysts Not a Tesla App",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.notateslaapp.com/news/4458/tesla-releases-q2-2026-earnings-estimates-from-analysts"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "47m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-17T20:15:00.000Z",
       "title": "Tesla Stock: Why a Merger With SpaceX Might Not Happen",
       "body": "Tesla Stock: Why a Merger With SpaceX Might Not Happen Barron's",
@@ -13,19 +26,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-spacex-merger-658c1872"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-07-17T19:50:38.000Z",
-      "title": "Tesla Shares Q2 Earnings Expectations From Major Wall Street Analysts",
-      "body": "Tesla Shares Q2 Earnings Expectations From Major Wall Street Analysts TeslaNorth.com",
-      "sourceName": "TeslaNorth.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://teslanorth.com/2026/07/17/tesla-shares-q2-earnings-expectations-from-major-wall-street-analysts/"
     },
     {
       "category": "musk",
@@ -54,19 +54,6 @@
       "href": "https://cleantechnica.com/2026/07/17/getting-to-know-your-2026-tesla/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-17T19:06:11.000Z",
-      "title": "Tesla Model 3 Completes Coast-to-Coast Drive on FSD v14 Lite",
-      "body": "Tesla Model 3 Completes Coast-to-Coast Drive on FSD v14 Lite TeslaNorth.com",
-      "sourceName": "TeslaNorth.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://teslanorth.com/2026/07/17/tesla-model-3-completes-coast-to-coast-drive-on-fsd-v14-lite/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -82,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-17T18:48:11.000Z",
       "title": "Tesla's Robotaxi Deployments in Focus Ahead of 2Q Results -- Market Talk",
       "body": "Tesla's Robotaxi Deployments in Focus Ahead of 2Q Results -- Market Talk Moomoo",
@@ -93,30 +80,17 @@
       "href": "https://www.moomoo.com/news/post/73157668/tesla-s-robotaxi-deployments-in-focus-ahead-of-2q-results?futusource"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
-      "pubDate": "2026-07-17T18:18:21.000Z",
-      "title": "Lucid Rallies 10% for a Third Straight Up Day, Leaving Tesla, Rivian Behind",
-      "body": "Lucid Rallies 10% for a Third Straight Up Day, Leaving Tesla, Rivian Behind 24/7 Wall St.",
-      "sourceName": "24/7 Wall St.",
+      "pubDate": "2026-07-17T18:47:53.000Z",
+      "title": "Tesla's Robotaxi Deployments in Focus Ahead of 2Q Results -- Market Talk",
+      "body": "Tesla's Robotaxi Deployments in Focus Ahead of 2Q Results -- Market Talk 富途牛牛",
+      "sourceName": "富途牛牛",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://247wallst.com/investing/2026/07/17/lucid-rallies-10-for-a-third-straight-up-day-leaving-tesla-rivian-behind/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-17T18:09:32.000Z",
-      "title": "Tesla enters two new markets on two different continents in one week",
-      "body": "Tesla enters two new markets on two different continents in one week Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-enters-two-new-markets-on-different-continents-one-week/"
+      "href": "https://news.futunn.com/en/post/76216859/tesla-s-robotaxi-deployments-in-focus-ahead-of-2q-results"
     },
     {
       "category": "product",
@@ -134,15 +108,15 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-07-17T16:22:58.000Z",
-      "title": "SpaceX Set to Wipe Out $1 Trillion in Value as Shares Slide",
-      "body": "SpaceX Set to Wipe Out $1 Trillion in Value as Shares Slide Bloomberg.com",
-      "sourceName": "Bloomberg.com",
+      "time": "7h ago",
+      "pubDate": "2026-07-17T14:40:27.000Z",
+      "title": "SpaceX's Will Launch Its Starship Rocket for the 13th Time",
+      "body": "SpaceX's Will Launch Its Starship Rocket for the 13th Time Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-set-to-wipe-out-1-trillion-in-value-as-shares-slide"
+      "href": "https://www.barrons.com/video/spacex-will-launch-its-starship-rocket-for-the-13th-time/52429371-2991-45D8-93F2-2A9EC46F9C17"
     },
     {
       "category": "stock",
@@ -160,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-17T13:34:31.000Z",
       "title": "Tesla launches in Latvia and Uruguay, expanding on two continents",
       "body": "Tesla opened two new markets in less than 24 hours, launching in Latvia and Uruguay in back-to-back announcements this week. The dual entry completes Tesla’s expansion across all three Baltic states and gives the automak…",
@@ -169,6 +143,19 @@
       "slug": "",
       "summary": "",
       "href": "https://electrek.co/2026/07/17/tesla-latvia-uruguay-launch/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "9h ago",
+      "pubDate": "2026-07-17T12:32:52.000Z",
+      "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Netflix, Apple, Tesla, Alphabet, 3M, Moody's & more",
+      "body": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Netflix, Apple, Tesla, Alphabet, 3M, Moody's & more CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/17/fridays-biggest-analyst-calls-include-nvidia-and-spacex.html"
     },
     {
       "category": "stock",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "16d ago",
+      "pubDate": "2026-07-02T07:00:00.000Z",
+      "title": "Tesla Sales Jumped in Second Quarter",
+      "body": "Tesla Sales Jumped in Second Quarter WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/business/autos/tesla-sales-jumped-in-second-quarter-c9e2f067"
     }
   ]
 }
