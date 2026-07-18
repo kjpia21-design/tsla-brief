@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-18T02:26:46.000Z",
+      "title": "테슬라 FSD 누적주행 <em>120억 마일</em> 돌파 — 110억 마일 이후 약 한 달만",
+      "hotShort": "테슬라 FSD 누적주행 <em>120억 마일</em> 돌파",
+      "body": "테슬라 전세계 FSD(Supervised) 누적 주행거리가 120억 마일을 돌파했다 — 6월9일 110억 마일을 넘긴 지 약 한 달 만으로, 자율주행 신경망 학습에 쓰이는 실주행 데이터가 갈수록 빠르게 쌓이고 있음을 보여준다.",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-12-billion-miles-2026-07-18",
+      "summary": "테슬라의 FSD(Supervised) 마일 트래커가 다시 한 번 갱신됐다. 앞서 5월초 누적 100억 마일을 돌파했을 때는 일론 머스크가 예고했던 '무감독(unsupervised) 자율주행 준비'의 데이터 기준점을 넘어섰다는 점에서 주목받았는데, 이후 두 달여 만에 다시 20억 마일이 추가됐다.\n\n연간 누적 추이를 보면 증가 속도가 뚜렷하다 — 2021년 600만마일, 2022년 8000만마일, 2023년 6억7000만마일, 2024년 22억5000만마일, 2025년 42억5000만마일을 기록했고, 2026년에는 첫 50일 만에 이미 10억마일을 넘겼다. 110억마일(6월9일)에서 120억마일까지는 약 한 달 만에 도달해, 하루 평균 2700만마일 안팎의 페이스를 보이고 있다.\n\n이런 실주행 데이터 축적은 테슬라 FSD 신경망 학습의 핵심 자산이다. 다양한 도로·기상·교통 상황에서의 주행 데이터가 쌓일수록 모델의 예외 상황 대응력이 개선되는 구조로, 경쟁사 대비 테슬라가 자율주행 데이터에서 갖는 규모의 우위를 재확인시켜준다.\n\n주주 입장에서는 이 마일 트래커가 로보택시·완전자율주행 상용화 시점을 가늠하는 선행 지표 중 하나로 꼽힌다 — 데이터 축적 속도가 빨라질수록, 머스크가 강조해온 '무감독 자율주행' 목표 달성 시점도 앞당겨질 수 있다는 기대가 반영된다.",
+      "title_en": "Tesla's FSD fleet <em>tops 12 billion miles</em> driven — a month after hitting 11 billion",
+      "hotShort_en": "Tesla FSD fleet <em>tops 12 billion miles</em>",
+      "body_en": "Tesla's global FSD (Supervised) fleet has surpassed 12 billion cumulative miles driven — about a month after crossing 11 billion on June 9 — underscoring how fast real-world driving data for its self-driving neural networks keeps piling up.",
+      "summary_en": "Tesla's FSD (Supervised) mile tracker has ticked over another milestone. When the fleet first crossed 10 billion cumulative miles in early May, it drew attention because that was the data threshold Elon Musk had previously flagged as a prerequisite for \"safe unsupervised\" driving. Roughly two months later, the fleet has already added another 2 billion miles.\n\nThe year-over-year growth curve shows just how fast the pace has picked up: 6 million miles in 2021, 80 million in 2022, 670 million in 2023, 2.25 billion in 2024, and 4.25 billion in 2025 — with the fleet already topping 1 billion miles in just the first 50 days of 2026. Getting from 11 billion (June 9) to 12 billion took about a month, a run rate of roughly 27 million miles a day.\n\nThat accumulating real-world driving data is a core asset for training Tesla's FSD neural networks — more miles across varied roads, weather, and traffic scenarios means the model has more edge cases to learn from, reinforcing Tesla's scale advantage in autonomous-driving data versus rivals.\n\nFor shareholders, the mile tracker functions as a leading indicator for how close Tesla is to commercializing Robotaxi and full autonomy — the faster the data accumulates, the more it feeds the narrative that Musk's \"unsupervised FSD\" target could arrive sooner.",
+      "href": "https://x.com/teslaownersSV/status/2078305446256169129",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Tesla Owners SV",
+        "Sawyer Merritt"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-17T23:43:21.000Z",
+      "title": "테슬라, <em>공장 밖 첫 공개 세미 메가차저</em> 캘리포니아에 개장 — 6스톨·1.2MW",
+      "hotShort": "테슬라 세미, <em>첫 공장 밖 메가차저</em> 개장",
+      "body": "테슬라가 LA에서 동쪽으로 약 50마일 떨어진 캘리포니아 블루밍턴에 <em>테슬라 공장이 아닌 부지로는 처음</em>인 공개 세미 메가차저를 개장했다 — 스톨 6개가 각각 최대 1.2MW를 공급해 세미 롱레인지(500마일)를 30분 만에 60%까지 충전할 수 있어, 롱비치·LA항에서 내륙으로 향하는 물류 거점에 상용 충전 인프라가 갖춰졌다.",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "product-tesla-semi-megacharger-bloomington-2026-07-17",
+      "summary": "테슬라가 이번 주 캘리포니아 블루밍턴(18434 Valley Blvd)에 새 세미 메가차저 부지를 열었다. 남부 캘리포니아에서 가장 분주한 화물 회랑 중 하나로 꼽히는 이 지역은 롱비치·LA항에서 내륙 물류센터로 화물이 이동하는 길목이다.\n\n이 부지는 충전 스톨 6개를 갖췄고, 각 스톨은 최대 1.2메가와트(MW) 출력을 낸다 — 세미 롱레인지(주행거리 500마일) 기준 30분 안에 배터리의 60%까지 채울 수 있는 속도다. 상용 슈퍼차저 V4 대비 월등히 높은 출력으로, 장거리 화물 운송에 필요한 빠른 재충전을 겨냥한 설계다.\n\n테슬라의 메가차저 부지가 실제 가동 중인 곳은 이번 블루밍턴과 메가팩 공장 인근 캘리포니아 래스롭(Lathrop) 두 곳뿐이다. 다만 래스롭은 메가팩 출하 물류 목적이 커, 제3자 세미 고객에게 완전히 개방된 부지로는 이번 블루밍턴이 <em>테슬라 공장이 아닌 곳 첫 사례</em>다. 테슬라의 지도에는 15개 주에 걸쳐 64곳의 추가 부지가 계획돼 있으며, 텍사스(19곳)·캘리포니아(17곳) 순으로 많다.\n\n테슬라 세미의 상업화는 충전 인프라 구축 속도에 달려 있다는 평가가 많다 — 공장 밖 첫 공개 메가차저 개장은 화물 운송업체들의 '충전 불안(range anxiety)'을 낮추는 신호로, 향후 세미 양산·판매 확대에 필요한 선행 조건이 하나씩 채워지고 있음을 보여준다.",
+      "title_en": "Tesla opens its <em>first public Megacharger not located at a factory</em> in California — 6 stalls, 1.2MW",
+      "hotShort_en": "Tesla opens <em>first off-factory Megacharger</em>",
+      "body_en": "Tesla opened a public Semi Megacharger site in Bloomington, California, about 50 miles east of Los Angeles — its <em>first not located at a Tesla factory</em> — with six stalls each delivering up to 1.2MW, enough to add 60% of a Semi Long Range's 500-mile range in 30 minutes, bringing dedicated charging infrastructure to a key freight corridor from the ports of Long Beach and LA.",
+      "summary_en": "Tesla opened a new Semi Megacharger site this week in Bloomington, California (18434 Valley Blvd), sitting along one of Southern California's busiest freight corridors, where cargo moves from the Ports of Long Beach and LA to inland distribution centers.\n\nThe site has six charging stalls, each capable of up to 1.2 megawatts (MW) of peak output — enough to add 60% of a Tesla Semi Long Range's 500-mile range in just 30 minutes. That's a significantly higher output than a Supercharger V4, built for the fast turnaround long-haul trucking needs.\n\nOnly two Megacharger sites are actually live today: this new Bloomington location and one near Tesla's Megapack factory in Lathrop, California. But Lathrop is largely used for shipping Megapacks, making Bloomington Tesla's <em>first Megacharger site not tied to one of its own factories</em> and fully open to third-party Semi customers. Tesla's map shows 64 more planned locations across 15 states, led by Texas (19) and California (17).\n\nSemi's path to commercialization is widely seen as gated by charging infrastructure buildout — opening its first off-factory public Megacharger is a signal to trucking fleets on range anxiety, checking off one more prerequisite for scaling Semi production and sales.",
+      "href": "https://insideevs.com/news/789433/tesla-first-megacharger-first-location/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "InsideEVs",
+        "Not a Tesla App",
+        "Clean Trucking"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-17T21:48:26.000Z",
+      "title": "테슬라 2분기 실적 D-4 — <em>BofA \"매수\" 재확인($460)</em>, 로보택시·옵티머스 해명 요구는 여전",
+      "hotShort": "테슬라 실적 D-4, BofA는 <em>목표주가 $460</em> 재확인",
+      "body": "22일 2분기 실적발표를 나흘 앞두고 뱅크오브아메리카가 테슬라 목표주가 <em>$460</em>(로보택시·옵티머스·에너지 재평가)을 재확인하며 강세 코멘트를 냈다 — 다만 로보택시·옵티머스 미달 목표에 대한 주주 해명 요구, 엇갈리는 옵션시장 심리는 여전해 낙관과 경계가 팽팽하다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "2분기 실적발표(7월22일)를 나흘 앞두고 월가에서 엇갈린 신호가 나오고 있다. CNBC에 따르면 뱅크오브아메리카는 17일 발표한 애널리스트 콜에서 테슬라 '매수' 의견을 재확인하며 실적 발표를 앞두고 강세를 유지했다. 이는 지난 11일 뱅크오브아메리카가 목표주가 <em>$460</em>으로 커버리지를 재개하며 밝힌 논리의 연장선으로, 로보택시 사업이 테슬라 전체 가치의 약 <em>52%</em>를 차지한다고 평가했고 옵티머스에는 <em>300억달러</em> 이상의 추가 upside, 에너지 사업에는 약 <em>900억달러</em>의 가치를 매겼다.\n\n같은 날 CNBC는 테슬라를 인텔 등과 함께 다음 주 실적 발표를 앞두고 '긍정적 실적 모멘텀'을 보이는 종목으로 꼽았고, 별도 코너 'Options Actions'에서는 테슬라 옵션 트레이더들 사이에서 실적 발표를 앞둔 방향성 베팅이 엇갈리고 있다고 짚었다 — 낙관과 경계가 공존하는 분위기를 보여준다.\n\n이런 강세 신호에도 로보택시·옵티머스 관련 미달 목표에 대한 주주들의 해명 요구는 가라앉지 않고 있다. 일론 머스크가 2019년 예고한 '2020년 말까지 로보택시 100만대' 공약, 2024년 사이버캡 공개 행사에서 제시한 '2025년 텍사스·캘리포니아 무인 로보택시 상용화, 2026년 사이버캡 양산' 목표 모두 아직 검증대에 올라 있다. 모닝스타는 장기 목표주가(적정가치)를 $425→<em>$450</em>로 상향하며 '3성 등급·적정가치' 진단은 유지했다 — 2026년 인도량이 전년(164만대) 대비 <em>10%</em> 늘어난 180만대에 근접할 것이란 전망이 근거다.\n\n모닝스타는 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다 — 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
+      "title_en": "Tesla Q2 earnings T-4 — <em>BofA reaffirms Buy ($460 PT)</em> as Robotaxi, Optimus scrutiny persists",
+      "hotShort_en": "BofA reaffirms <em>$460 Tesla target</em> before earnings",
+      "body_en": "Four days before Tesla's July 22 earnings call, Bank of America reaffirmed its Buy rating and <em>$460</em> price target citing Robotaxi, Optimus and energy — but shareholder demands over missed Robotaxi/Optimus targets and split options-market sentiment show optimism and caution still coexist.",
+      "summary_en": "With Tesla's Q2 earnings call four days away (July 22), Wall Street signals are mixed. According to CNBC, Bank of America reaffirmed its Buy rating on Tesla in a Friday, July 17 analyst-call roundup, staying bullish heading into the report. That echoes the view BofA laid out on July 11, when it reinstated coverage with a <em>$460</em> price target — valuing Robotaxi at roughly <em>52%</em> of Tesla's total worth, seeing more than <em>$30 billion</em> of upside from Optimus, and pricing the energy business at about <em>$90 billion</em>.\n\nThe same day, CNBC also listed Tesla alongside Intel among stocks showing positive 'earnings momentum' heading into next week's reports, while its Options Actions segment noted Tesla options traders are split on directional bets ahead of the print — a sign optimism and caution are coexisting.\n\nDespite the bullish signals, shareholder demands over unmet Robotaxi and Optimus targets haven't let up. Elon Musk's 2019 promise of a million robotaxis by the end of 2020 never materialized, and the goals set at the October 2024 Cybercab unveiling — unsupervised Robotaxi operations in Texas and California in 2025, volume Cybercab production in 2026 — remain under scrutiny. Morningstar raised its long-term fair value estimate to <em>$450</em> from $425, keeping a 3-star \"fairly valued\" rating, expecting 2026 deliveries to grow roughly <em>10%</em> to near 1.8 million from 1.64 million in 2025.\n\nMorningstar said free cash flow and management commentary on Robotaxi and Optimus will matter more than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
+      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Electrek",
+        "Barron's",
+        "Morningstar",
+        "CNBC"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
@@ -116,33 +194,6 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-17T21:48:26.000Z",
-      "title": "테슬라 2분기 실적 D-4 — <em>BofA \"매수\" 재확인($460)</em>, 로보택시·옵티머스 해명 요구는 여전",
-      "hotShort": "테슬라 실적 D-4, BofA는 <em>목표주가 $460</em> 재확인",
-      "body": "22일 2분기 실적발표를 나흘 앞두고 뱅크오브아메리카가 테슬라 목표주가 <em>$460</em>(로보택시·옵티머스·에너지 재평가)을 재확인하며 강세 코멘트를 냈다 — 다만 로보택시·옵티머스 미달 목표에 대한 주주 해명 요구, 엇갈리는 옵션시장 심리는 여전해 낙관과 경계가 팽팽하다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
-      "summary": "2분기 실적발표(7월22일)를 나흘 앞두고 월가에서 엇갈린 신호가 나오고 있다. CNBC에 따르면 뱅크오브아메리카는 17일 발표한 애널리스트 콜에서 테슬라 '매수' 의견을 재확인하며 실적 발표를 앞두고 강세를 유지했다. 이는 지난 11일 뱅크오브아메리카가 목표주가 <em>$460</em>으로 커버리지를 재개하며 밝힌 논리의 연장선으로, 로보택시 사업이 테슬라 전체 가치의 약 <em>52%</em>를 차지한다고 평가했고 옵티머스에는 <em>300억달러</em> 이상의 추가 upside, 에너지 사업에는 약 <em>900억달러</em>의 가치를 매겼다.\n\n같은 날 CNBC는 테슬라를 인텔 등과 함께 다음 주 실적 발표를 앞두고 '긍정적 실적 모멘텀'을 보이는 종목으로 꼽았고, 별도 코너 'Options Actions'에서는 테슬라 옵션 트레이더들 사이에서 실적 발표를 앞둔 방향성 베팅이 엇갈리고 있다고 짚었다 — 낙관과 경계가 공존하는 분위기를 보여준다.\n\n이런 강세 신호에도 로보택시·옵티머스 관련 미달 목표에 대한 주주들의 해명 요구는 가라앉지 않고 있다. 일론 머스크가 2019년 예고한 '2020년 말까지 로보택시 100만대' 공약, 2024년 사이버캡 공개 행사에서 제시한 '2025년 텍사스·캘리포니아 무인 로보택시 상용화, 2026년 사이버캡 양산' 목표 모두 아직 검증대에 올라 있다. 모닝스타는 장기 목표주가(적정가치)를 $425→<em>$450</em>로 상향하며 '3성 등급·적정가치' 진단은 유지했다 — 2026년 인도량이 전년(164만대) 대비 <em>10%</em> 늘어난 180만대에 근접할 것이란 전망이 근거다.\n\n모닝스타는 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다 — 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
-      "title_en": "Tesla Q2 earnings T-4 — <em>BofA reaffirms Buy ($460 PT)</em> as Robotaxi, Optimus scrutiny persists",
-      "hotShort_en": "BofA reaffirms <em>$460 Tesla target</em> before earnings",
-      "body_en": "Four days before Tesla's July 22 earnings call, Bank of America reaffirmed its Buy rating and <em>$460</em> price target citing Robotaxi, Optimus and energy — but shareholder demands over missed Robotaxi/Optimus targets and split options-market sentiment show optimism and caution still coexist.",
-      "summary_en": "With Tesla's Q2 earnings call four days away (July 22), Wall Street signals are mixed. According to CNBC, Bank of America reaffirmed its Buy rating on Tesla in a Friday, July 17 analyst-call roundup, staying bullish heading into the report. That echoes the view BofA laid out on July 11, when it reinstated coverage with a <em>$460</em> price target — valuing Robotaxi at roughly <em>52%</em> of Tesla's total worth, seeing more than <em>$30 billion</em> of upside from Optimus, and pricing the energy business at about <em>$90 billion</em>.\n\nThe same day, CNBC also listed Tesla alongside Intel among stocks showing positive 'earnings momentum' heading into next week's reports, while its Options Actions segment noted Tesla options traders are split on directional bets ahead of the print — a sign optimism and caution are coexisting.\n\nDespite the bullish signals, shareholder demands over unmet Robotaxi and Optimus targets haven't let up. Elon Musk's 2019 promise of a million robotaxis by the end of 2020 never materialized, and the goals set at the October 2024 Cybercab unveiling — unsupervised Robotaxi operations in Texas and California in 2025, volume Cybercab production in 2026 — remain under scrutiny. Morningstar raised its long-term fair value estimate to <em>$450</em> from $425, keeping a 3-star \"fairly valued\" rating, expecting 2026 deliveries to grow roughly <em>10%</em> to near 1.8 million from 1.64 million in 2025.\n\nMorningstar said free cash flow and management commentary on Robotaxi and Optimus will matter more than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
-      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Electrek",
-        "Barron's",
-        "Morningstar",
-        "CNBC"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     },
     {
       "category": "musk",
@@ -2339,59 +2390,7 @@
       "hot": 4,
       "summary_en": "Elon Musk recently offered a reality check on X about how fast Optimus production will actually ramp. After a user floated a \"4D chess\" theory — suggesting Tesla delayed its Optimus V3 reveal because production was secretly running ahead of schedule and Tesla wanted to keep rivals from copying the design — Musk shot the idea down directly.\n\n\"No, Optimus production will be extremely slow at first, as everything is new. This is not like making a car,\" Musk wrote. Optimus is built from roughly 10,000 unique parts, and getting the assembly process right across that many components creates numerous potential bottlenecks.\n\nThe comment came just days after Tesla confirmed (July 1) that its Fremont Model S/X lines had been converted into a dedicated Optimus Gen 3 production line. High-volume manufacturing is still expected to come later, once Tesla's dedicated Optimus factory under construction at Giga Texas ramps up starting around summer 2027.\n\nFor shareholders, this reads as expectation management. Musk had publicly targeted roughly 10,000 Optimus units built in 2025 — a target Tesla ultimately missed. By flagging a slow start now, he's effectively acknowledging that the early production ramp will take longer than some bulls hoped, a reminder to recalibrate timelines for one of the two pillars — alongside Robotaxi — underpinning Tesla's long-term valuation story.",
       "href": "https://www.teslarati.com/elon-musk-outlines-tesla-optimus-production-expectations/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "19h ago",
-      "pubDate": "2026-07-03T00:34:03.000Z",
-      "title": "테슬라, 직원 AI 지출 <em>주 $200 상한</em> — 머스크의 Grok만 예외",
-      "hotShort": "테슬라, 직원 AI 지출 <em>주 $200 상한</em>",
-      "body": "테슬라가 7월 6일부터 직원 1인당 AI 사용 지출을 주 $200로 제한한다고 내부 메모(The Information 보도)로 알려졌다 — 단, 머스크가 이끄는 xAI의 제품(Grok 챗봇·Composer 코딩툴 베타)은 집계에서 빠진다. 일부 엔지니어가 주당 '수천 달러'어치 토큰을 쓰던 상황을 감안한 비용 통제이지만, 머스크 본인 회사 제품만 예외로 둔 점이 이해상충 논란을 부른다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "musk-tesla-ai-spend-cap-grok-2026-07-03",
-      "summary": "최근 몇 달간 테슬라는 사내 AI 활용을 오히려 적극 장려하며, 흩어져 있던 직원들의 AI 사용을 승인된 모델·보안정책 중심의 전사 체계로 모으는 작업을 해왔다. 그 과정에서 일부 소프트웨어 엔지니어가 주당 '수천 달러'어치의 토큰을 소비했다는 사실이 The Information 취재로 드러났고, 이번 지출 상한은 그에 대한 반작용으로 읽힌다.\n\n내부 메모에 따르면 테슬라는 7월 6일부터 직원 1인당 AI 사용 지출을 주 $200로 제한한다. 이 한도를 넘기려면 별도 승인을 받아야 한다.\n\n눈에 띄는 대목은 예외 조항이다. 상한 집계에서 xAI 제품의 베타 버전 — Grok 챗봇과 Composer 코딩툴 — 은 빠진다. xAI는 머스크가 이끄는 별도 AI 기업으로, 테슬라 CEO 본인의 회사 제품만 사실상 상한 없이 쓸 수 있게 된 셈이어서 이해상충 논란이 뒤따른다. 더욱이 Electrek은 정작 사내에서 Grok의 인기가 높지 않고 다수 직원이 Anthropic의 Claude를 선호한다고 전했다.\n\n주주 관점에서 이번 조치 자체는 규모가 크지 않은 내부 비용 통제다. 다만 AI·자율주행에 막대한 투자를 이어가는 테슬라가 운영 비용 규율에 나섰다는 신호이자, 머스크가 이끄는 여러 회사(테슬라·xAI)의 이해관계가 사내 정책에까지 얽히는 방식을 보여주는 사례라는 점에서 눈여겨볼 만하다.",
-      "title_en": "Tesla caps employee AI spending at <em>$200/week</em> — except Musk's Grok",
-      "hotShort_en": "Tesla caps AI spend at <em>$200/week</em>, Grok exempt",
-      "body_en": "Tesla will limit employee AI spending to $200 per week starting July 6, according to an internal memo reported by The Information — but the cap excludes beta versions of xAI's products (the Grok chatbot and Composer coding tool), the AI firm also run by Elon Musk. It's a cost-control move after some engineers were reportedly burning through 'thousands of dollars' of tokens a week, yet exempting only Musk's own company's tools raises conflict-of-interest questions.",
-      "summary_en": "In recent months Tesla had actually been pushing employees to use AI more, working to consolidate scattered usage onto a companywide framework of approved models and formal security policies. Along the way, The Information reported, some software engineers were consuming 'thousands of dollars' worth of tokens each week — and this spending cap reads as the counter-reaction.\n\nPer the internal memo, Tesla will limit each employee's AI spending to $200 per week starting July 6. Going above that threshold requires separate sign-off.\n\nThe notable part is the carve-out: the tally excludes beta versions of xAI's products — the Grok chatbot and the Composer coding tool. xAI is the separate AI company led by Musk, so in effect only the Tesla CEO's own company's tools get uncapped use, inviting conflict-of-interest scrutiny. Adding to the irony, Electrek reported that Grok isn't especially popular internally and that many staff prefer Anthropic's Claude.\n\nFor shareholders, the move itself is a modest internal cost measure. But it's worth noting on two counts: as a signal that a company pouring capital into AI and autonomy is tightening operational spending discipline, and as an example of how the interlocking interests of Musk's various companies (Tesla, xAI) reach into internal policy.",
-      "href": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "The Information",
-        "Electrek"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "33m ago",
-      "pubDate": "2026-07-02T18:59:12.000Z",
-      "title": "테슬라, 3열·6인승 SUV 모델 Y L <em>미국 정식 출시</em> — $61,990부터",
-      "hotShort": "테슬라 3열 SUV 모델 Y L <em>미국 정식 출시</em>",
-      "body": "테슬라가 3열·6인승 장축형 SUV '모델 Y L'을 미국·푸에르토리코에 정식 출시했다 — 출시 트림 '런치 시리즈' 기준 $61,990, EPA 인증 주행거리 325마일, FSD 12개월 무상 제공을 포함한다. 지난달까지 '검토 중'으로만 알려졌던 미국 출시가 실제 판매로 확정되며, 리비안 R1S 등 3열 전기 SUV 경쟁 라인업에 정면으로 맞선다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "product-model-y-l-us-launch-2026-07-02",
-      "summary": "테슬라가 2일(현지시간) 3열 좌석을 갖춘 장축형 모델 Y '모델 Y L'을 미국과 푸에르토리코 시장에 공식 출시하며 온라인 주문을 시작했다. 지난 6월 26일 중국 전용으로 판매되던 롱 휠베이스 모델 Y L의 미국 출시를 '검토 중'이라고 전해졌던 소식이 6일 만에 실제 출시로 이어진 것이다.\n\n모델 Y L은 기존 모델 Y 대비 휠베이스가 150mm(5.9인치), 전장이 180mm(7인치) 늘어나며 3열 공간을 확보했다. 좌석 구성은 비좁은 7인승 벤치 대신 2+2+2 방식의 6인승을 택해, 2열에는 열선·통풍·전동 암레스트·원터치 폴딩 기능을 갖춘 캡틴시트를, 3열에는 열선 시트와 전동 리클라이닝·카시트 고정장치를 배치했다.\n\n출시 트림은 '런치 시리즈'로, 가격은 $61,990부터 시작하며 FSD 12개월 무상 이용이 포함된다. 성능은 정지 상태에서 시속 60마일 도달까지 4.4초, EPA 인증 주행거리는 325마일이다.\n\n주주 입장에서는 2분기 인도 서프라이즈(48만126대) 직후 나온 신규 라인업 확장으로, 대형 3열 SUV 수요층을 겨냥한 매출 다각화 신호로 읽힌다. 다만 출시 초기 물량·가격대가 리비안 R1S 등 경쟁 3열 전기 SUV 대비 높게 책정된 만큼, 실제 판매 반응은 다음 분기 지역별 실적에서 확인이 필요하다.",
-      "title_en": "Tesla officially launches <em>three-row, six-seat Model Y L</em> in the US, starting at $61,990",
-      "hotShort_en": "Tesla <em>launches three-row Model Y L</em> in the US",
-      "body_en": "Tesla has officially launched the long-wheelbase, three-row, six-seat Model Y L in the US and Puerto Rico — the Launch Series trim starts at $61,990, comes with an EPA-estimated 325-mile range, and includes 12 months of FSD. The US rollout, previously reported as only 'under consideration' as recently as late June, confirms Tesla now has a direct answer to three-row EV SUV rivals like the Rivian R1S.",
-      "summary_en": "Tesla began taking orders for the three-row Model Y L in the US and Puerto Rico on July 2, official channels confirmed. As recently as June 26, reports described a US launch of the long-wheelbase Model Y L — previously sold only in China — as merely 'under consideration'; that turned into an actual launch just six days later.\n\nThe Model Y L adds 150mm (5.9 inches) to the wheelbase and 180mm (7 inches) to overall length versus the standard Model Y, opening up room for a third row. Rather than a cramped seven-seat bench, Tesla went with a 2+2+2, six-seat layout: second-row captain's chairs get heating, ventilation, powered armrests and one-touch folding, while the third row gets heated seats with power recline and child-seat anchors.\n\nThe launch trim, called 'Launch Series,' starts at $61,990 and includes 12 months of FSD. Tesla claims a 0-60 mph time of 4.4 seconds and an EPA-estimated range of 325 miles.\n\nFor shareholders, the timing is notable — the launch lands right after Tesla's Q2 delivery beat of 480,126 vehicles, reading as a revenue-diversification move targeting large-SUV demand. Initial pricing sits above rivals like the Rivian R1S, so how the market actually responds will become clearer in next quarter's regional breakdowns.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-02/tesla-says-three-row-model-y-suv-now-available-to-us-customers?srnd",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Bloomberg",
-        "Electrek",
-        "Teslarati",
-        "Forbes"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-18 07:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-18 11:20 KST 자동 갱신 · 최신순"
 }

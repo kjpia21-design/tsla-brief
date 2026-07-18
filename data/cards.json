@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-18T02:26:46.000Z",
+      "title": "테슬라 FSD 누적주행 <em>120억 마일</em> 돌파 — 110억 마일 이후 약 한 달만",
+      "hotShort": "테슬라 FSD 누적주행 <em>120억 마일</em> 돌파",
+      "body": "테슬라 전세계 FSD(Supervised) 누적 주행거리가 120억 마일을 돌파했다 — 6월9일 110억 마일을 넘긴 지 약 한 달 만으로, 자율주행 신경망 학습에 쓰이는 실주행 데이터가 갈수록 빠르게 쌓이고 있음을 보여준다.",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-12-billion-miles-2026-07-18",
+      "summary": "테슬라의 FSD(Supervised) 마일 트래커가 다시 한 번 갱신됐다. 앞서 5월초 누적 100억 마일을 돌파했을 때는 일론 머스크가 예고했던 '무감독(unsupervised) 자율주행 준비'의 데이터 기준점을 넘어섰다는 점에서 주목받았는데, 이후 두 달여 만에 다시 20억 마일이 추가됐다.\n\n연간 누적 추이를 보면 증가 속도가 뚜렷하다 — 2021년 600만마일, 2022년 8000만마일, 2023년 6억7000만마일, 2024년 22억5000만마일, 2025년 42억5000만마일을 기록했고, 2026년에는 첫 50일 만에 이미 10억마일을 넘겼다. 110억마일(6월9일)에서 120억마일까지는 약 한 달 만에 도달해, 하루 평균 2700만마일 안팎의 페이스를 보이고 있다.\n\n이런 실주행 데이터 축적은 테슬라 FSD 신경망 학습의 핵심 자산이다. 다양한 도로·기상·교통 상황에서의 주행 데이터가 쌓일수록 모델의 예외 상황 대응력이 개선되는 구조로, 경쟁사 대비 테슬라가 자율주행 데이터에서 갖는 규모의 우위를 재확인시켜준다.\n\n주주 입장에서는 이 마일 트래커가 로보택시·완전자율주행 상용화 시점을 가늠하는 선행 지표 중 하나로 꼽힌다 — 데이터 축적 속도가 빨라질수록, 머스크가 강조해온 '무감독 자율주행' 목표 달성 시점도 앞당겨질 수 있다는 기대가 반영된다.",
+      "title_en": "Tesla's FSD fleet <em>tops 12 billion miles</em> driven — a month after hitting 11 billion",
+      "hotShort_en": "Tesla FSD fleet <em>tops 12 billion miles</em>",
+      "body_en": "Tesla's global FSD (Supervised) fleet has surpassed 12 billion cumulative miles driven — about a month after crossing 11 billion on June 9 — underscoring how fast real-world driving data for its self-driving neural networks keeps piling up.",
+      "summary_en": "Tesla's FSD (Supervised) mile tracker has ticked over another milestone. When the fleet first crossed 10 billion cumulative miles in early May, it drew attention because that was the data threshold Elon Musk had previously flagged as a prerequisite for \"safe unsupervised\" driving. Roughly two months later, the fleet has already added another 2 billion miles.\n\nThe year-over-year growth curve shows just how fast the pace has picked up: 6 million miles in 2021, 80 million in 2022, 670 million in 2023, 2.25 billion in 2024, and 4.25 billion in 2025 — with the fleet already topping 1 billion miles in just the first 50 days of 2026. Getting from 11 billion (June 9) to 12 billion took about a month, a run rate of roughly 27 million miles a day.\n\nThat accumulating real-world driving data is a core asset for training Tesla's FSD neural networks — more miles across varied roads, weather, and traffic scenarios means the model has more edge cases to learn from, reinforcing Tesla's scale advantage in autonomous-driving data versus rivals.\n\nFor shareholders, the mile tracker functions as a leading indicator for how close Tesla is to commercializing Robotaxi and full autonomy — the faster the data accumulates, the more it feeds the narrative that Musk's \"unsupervised FSD\" target could arrive sooner.",
+      "href": "https://x.com/teslaownersSV/status/2078305446256169129",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Tesla Owners SV",
+        "Sawyer Merritt"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-17T23:43:21.000Z",
+      "title": "테슬라, <em>공장 밖 첫 공개 세미 메가차저</em> 캘리포니아에 개장 — 6스톨·1.2MW",
+      "hotShort": "테슬라 세미, <em>첫 공장 밖 메가차저</em> 개장",
+      "body": "테슬라가 LA에서 동쪽으로 약 50마일 떨어진 캘리포니아 블루밍턴에 <em>테슬라 공장이 아닌 부지로는 처음</em>인 공개 세미 메가차저를 개장했다 — 스톨 6개가 각각 최대 1.2MW를 공급해 세미 롱레인지(500마일)를 30분 만에 60%까지 충전할 수 있어, 롱비치·LA항에서 내륙으로 향하는 물류 거점에 상용 충전 인프라가 갖춰졌다.",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "product-tesla-semi-megacharger-bloomington-2026-07-17",
+      "summary": "테슬라가 이번 주 캘리포니아 블루밍턴(18434 Valley Blvd)에 새 세미 메가차저 부지를 열었다. 남부 캘리포니아에서 가장 분주한 화물 회랑 중 하나로 꼽히는 이 지역은 롱비치·LA항에서 내륙 물류센터로 화물이 이동하는 길목이다.\n\n이 부지는 충전 스톨 6개를 갖췄고, 각 스톨은 최대 1.2메가와트(MW) 출력을 낸다 — 세미 롱레인지(주행거리 500마일) 기준 30분 안에 배터리의 60%까지 채울 수 있는 속도다. 상용 슈퍼차저 V4 대비 월등히 높은 출력으로, 장거리 화물 운송에 필요한 빠른 재충전을 겨냥한 설계다.\n\n테슬라의 메가차저 부지가 실제 가동 중인 곳은 이번 블루밍턴과 메가팩 공장 인근 캘리포니아 래스롭(Lathrop) 두 곳뿐이다. 다만 래스롭은 메가팩 출하 물류 목적이 커, 제3자 세미 고객에게 완전히 개방된 부지로는 이번 블루밍턴이 <em>테슬라 공장이 아닌 곳 첫 사례</em>다. 테슬라의 지도에는 15개 주에 걸쳐 64곳의 추가 부지가 계획돼 있으며, 텍사스(19곳)·캘리포니아(17곳) 순으로 많다.\n\n테슬라 세미의 상업화는 충전 인프라 구축 속도에 달려 있다는 평가가 많다 — 공장 밖 첫 공개 메가차저 개장은 화물 운송업체들의 '충전 불안(range anxiety)'을 낮추는 신호로, 향후 세미 양산·판매 확대에 필요한 선행 조건이 하나씩 채워지고 있음을 보여준다.",
+      "title_en": "Tesla opens its <em>first public Megacharger not located at a factory</em> in California — 6 stalls, 1.2MW",
+      "hotShort_en": "Tesla opens <em>first off-factory Megacharger</em>",
+      "body_en": "Tesla opened a public Semi Megacharger site in Bloomington, California, about 50 miles east of Los Angeles — its <em>first not located at a Tesla factory</em> — with six stalls each delivering up to 1.2MW, enough to add 60% of a Semi Long Range's 500-mile range in 30 minutes, bringing dedicated charging infrastructure to a key freight corridor from the ports of Long Beach and LA.",
+      "summary_en": "Tesla opened a new Semi Megacharger site this week in Bloomington, California (18434 Valley Blvd), sitting along one of Southern California's busiest freight corridors, where cargo moves from the Ports of Long Beach and LA to inland distribution centers.\n\nThe site has six charging stalls, each capable of up to 1.2 megawatts (MW) of peak output — enough to add 60% of a Tesla Semi Long Range's 500-mile range in just 30 minutes. That's a significantly higher output than a Supercharger V4, built for the fast turnaround long-haul trucking needs.\n\nOnly two Megacharger sites are actually live today: this new Bloomington location and one near Tesla's Megapack factory in Lathrop, California. But Lathrop is largely used for shipping Megapacks, making Bloomington Tesla's <em>first Megacharger site not tied to one of its own factories</em> and fully open to third-party Semi customers. Tesla's map shows 64 more planned locations across 15 states, led by Texas (19) and California (17).\n\nSemi's path to commercialization is widely seen as gated by charging infrastructure buildout — opening its first off-factory public Megacharger is a signal to trucking fleets on range anxiety, checking off one more prerequisite for scaling Semi production and sales.",
+      "href": "https://insideevs.com/news/789433/tesla-first-megacharger-first-location/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "InsideEVs",
+        "Not a Tesla App",
+        "Clean Trucking"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-17T21:48:26.000Z",
+      "title": "테슬라 2분기 실적 D-4 — <em>BofA \"매수\" 재확인($460)</em>, 로보택시·옵티머스 해명 요구는 여전",
+      "hotShort": "테슬라 실적 D-4, BofA는 <em>목표주가 $460</em> 재확인",
+      "body": "22일 2분기 실적발표를 나흘 앞두고 뱅크오브아메리카가 테슬라 목표주가 <em>$460</em>(로보택시·옵티머스·에너지 재평가)을 재확인하며 강세 코멘트를 냈다 — 다만 로보택시·옵티머스 미달 목표에 대한 주주 해명 요구, 엇갈리는 옵션시장 심리는 여전해 낙관과 경계가 팽팽하다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "2분기 실적발표(7월22일)를 나흘 앞두고 월가에서 엇갈린 신호가 나오고 있다. CNBC에 따르면 뱅크오브아메리카는 17일 발표한 애널리스트 콜에서 테슬라 '매수' 의견을 재확인하며 실적 발표를 앞두고 강세를 유지했다. 이는 지난 11일 뱅크오브아메리카가 목표주가 <em>$460</em>으로 커버리지를 재개하며 밝힌 논리의 연장선으로, 로보택시 사업이 테슬라 전체 가치의 약 <em>52%</em>를 차지한다고 평가했고 옵티머스에는 <em>300억달러</em> 이상의 추가 upside, 에너지 사업에는 약 <em>900억달러</em>의 가치를 매겼다.\n\n같은 날 CNBC는 테슬라를 인텔 등과 함께 다음 주 실적 발표를 앞두고 '긍정적 실적 모멘텀'을 보이는 종목으로 꼽았고, 별도 코너 'Options Actions'에서는 테슬라 옵션 트레이더들 사이에서 실적 발표를 앞둔 방향성 베팅이 엇갈리고 있다고 짚었다 — 낙관과 경계가 공존하는 분위기를 보여준다.\n\n이런 강세 신호에도 로보택시·옵티머스 관련 미달 목표에 대한 주주들의 해명 요구는 가라앉지 않고 있다. 일론 머스크가 2019년 예고한 '2020년 말까지 로보택시 100만대' 공약, 2024년 사이버캡 공개 행사에서 제시한 '2025년 텍사스·캘리포니아 무인 로보택시 상용화, 2026년 사이버캡 양산' 목표 모두 아직 검증대에 올라 있다. 모닝스타는 장기 목표주가(적정가치)를 $425→<em>$450</em>로 상향하며 '3성 등급·적정가치' 진단은 유지했다 — 2026년 인도량이 전년(164만대) 대비 <em>10%</em> 늘어난 180만대에 근접할 것이란 전망이 근거다.\n\n모닝스타는 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다 — 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
+      "title_en": "Tesla Q2 earnings T-4 — <em>BofA reaffirms Buy ($460 PT)</em> as Robotaxi, Optimus scrutiny persists",
+      "hotShort_en": "BofA reaffirms <em>$460 Tesla target</em> before earnings",
+      "body_en": "Four days before Tesla's July 22 earnings call, Bank of America reaffirmed its Buy rating and <em>$460</em> price target citing Robotaxi, Optimus and energy — but shareholder demands over missed Robotaxi/Optimus targets and split options-market sentiment show optimism and caution still coexist.",
+      "summary_en": "With Tesla's Q2 earnings call four days away (July 22), Wall Street signals are mixed. According to CNBC, Bank of America reaffirmed its Buy rating on Tesla in a Friday, July 17 analyst-call roundup, staying bullish heading into the report. That echoes the view BofA laid out on July 11, when it reinstated coverage with a <em>$460</em> price target — valuing Robotaxi at roughly <em>52%</em> of Tesla's total worth, seeing more than <em>$30 billion</em> of upside from Optimus, and pricing the energy business at about <em>$90 billion</em>.\n\nThe same day, CNBC also listed Tesla alongside Intel among stocks showing positive 'earnings momentum' heading into next week's reports, while its Options Actions segment noted Tesla options traders are split on directional bets ahead of the print — a sign optimism and caution are coexisting.\n\nDespite the bullish signals, shareholder demands over unmet Robotaxi and Optimus targets haven't let up. Elon Musk's 2019 promise of a million robotaxis by the end of 2020 never materialized, and the goals set at the October 2024 Cybercab unveiling — unsupervised Robotaxi operations in Texas and California in 2025, volume Cybercab production in 2026 — remain under scrutiny. Morningstar raised its long-term fair value estimate to <em>$450</em> from $425, keeping a 3-star \"fairly valued\" rating, expecting 2026 deliveries to grow roughly <em>10%</em> to near 1.8 million from 1.64 million in 2025.\n\nMorningstar said free cash flow and management commentary on Robotaxi and Optimus will matter more than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
+      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Electrek",
+        "Barron's",
+        "Morningstar",
+        "CNBC"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
@@ -50,31 +128,6 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
-      "pubDate": "2026-07-17T09:15:00.000Z",
-      "title": "게리 블랙 \"SpaceX 주가 $132로 추락 — 테슬라 인수 <em>희석률 25%</em>로 수지 안 맞아\"",
-      "hotShort": "게리 블랙, 테슬라·SpaceX 합병에 <em>희석 25%</em> 경고",
-      "body": "애널리스트 게리 블랙이 SpaceX(SPCX) 주가가 IPO 공모가 아래인 <em>$132</em>까지 밀린 상황을 짚으며, 이 가격대로는 SpaceX가 전액 주식 거래로 테슬라를 인수할 경우 기존 SpaceX 주주가 <em>25%</em>가량 희석돼 \"수지가 안 맞는다\"고 밝혔다 — 두 회사 합병 기대가 테슬라 주가를 지지해온 서사인 만큼, 주주들이 주목할 밸류에이션 반박이다.",
-      "sourceName": "Stocktwits",
-      "sourceLabel": "press",
-      "slug": "musk-gary-black-spacex-tesla-dilution-2026-07-17",
-      "summary": "퓨처펀드(The Future Fund) 매니징 파트너 게리 블랙이 최근 다시 불붙은 테슬라-스페이스X 합병설에 밸류에이션 관점의 반론을 냈다.\n\n스페이스X(SPCX) 주가는 7월17일 기준 IPO 공모가 <em>$135</em>를 밑도는 <em>$132</em> 안팎까지 떨어지며 하락세를 이어가고 있다. 블랙은 자신의 X 계정 등을 통해 \"$132로 추락한 지금 가격으로는 SpaceX가 <em>25%</em>나 희석되는 전액 주식 거래로 테슬라를 인수할 수 없다 — 산술이 맞지 않는다\"고 밝혔다.\n\n테슬라-스페이스X 합병설은 스페이스X 상장(IPO) 이후 시장에서 꾸준히 제기돼 온 시나리오로, 두 회사가 결합하면 초대형 기업이 탄생할 것이란 기대감이 최근 테슬라 주가 서사의 한 축이 돼 왔다. 블랙의 이번 발언은 그 기대감에 실제 밸류에이션 수학으로 제동을 건 것이다.\n\n테슬라 주주 입장에서는, 합병 프리미엄에 대한 기대가 스페이스X의 주가 흐름에 따라 얼마나 현실적인지 재점검해볼 대목이다 — 스페이스X 주가가 계속 밀릴수록, 전액 주식 인수 시나리오의 희석 부담은 더 커진다.",
-      "title_en": "Gary Black: SpaceX's slide to $132 makes an all-stock Tesla deal <em>too dilutive</em>",
-      "hotShort_en": "Gary Black: SpaceX buyout of TSLA now <em>25% dilutive</em>",
-      "body_en": "Analyst Gary Black said SpaceX's slide to <em>$132</em> — below its IPO price — makes an all-stock Tesla acquisition too dilutive for SpaceX shareholders (roughly <em>25%</em>), undercutting a merger narrative that has helped support Tesla's stock.",
-      "summary_en": "Gary Black, managing partner at The Future Fund, has pushed back on the latest round of Tesla-SpaceX merger speculation with a valuation argument.\n\nSpaceX (SPCX) shares have slipped to around <em>$132</em>, below their <em>$135</em> IPO price, as of July 17. Black said on X that \"at $132 and sinking, SpaceX can't just buy Tesla in a <em>25%</em> dilutive equity deal\" — arguing the math simply doesn't work at current prices.\n\nSpeculation about a Tesla-SpaceX combination has persisted since SpaceX's IPO, with some investors framing a merger as a potential catalyst that could create one of the world's largest companies. Black's comments push back on that narrative with a valuation-based objection.\n\nFor Tesla shareholders, the takeaway is that any merger-premium hopes are directly tied to SpaceX's own share price — the further SPCX falls, the heavier the dilution burden becomes in an all-stock acquisition scenario.",
-      "href": "https://stocktwits.com/news-articles/markets/equity/tsla-gary-black-spacex-tesla-math-wont-pass-muster/cZZ77RTR7tQ",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Stocktwits",
-        "Invezz"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
       "pubDate": "2026-07-16T23:00:00.000Z",
       "title": "스페이스X 스타십 13차 시험비행, 발사 직전 <em>엔진 4기 미점화로 자동 중단</em> — SPCX 상장 후 첫 시도",
       "hotShort": "스타십 13차 발사, <em>엔진 4기 미점화</em>로 중단",
@@ -98,33 +151,6 @@
       "hot": 5
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-17T21:48:26.000Z",
-      "title": "테슬라 2분기 실적 D-4 — <em>BofA \"매수\" 재확인($460)</em>, 로보택시·옵티머스 해명 요구는 여전",
-      "hotShort": "테슬라 실적 D-4, BofA는 <em>목표주가 $460</em> 재확인",
-      "body": "22일 2분기 실적발표를 나흘 앞두고 뱅크오브아메리카가 테슬라 목표주가 <em>$460</em>(로보택시·옵티머스·에너지 재평가)을 재확인하며 강세 코멘트를 냈다 — 다만 로보택시·옵티머스 미달 목표에 대한 주주 해명 요구, 엇갈리는 옵션시장 심리는 여전해 낙관과 경계가 팽팽하다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
-      "summary": "2분기 실적발표(7월22일)를 나흘 앞두고 월가에서 엇갈린 신호가 나오고 있다. CNBC에 따르면 뱅크오브아메리카는 17일 발표한 애널리스트 콜에서 테슬라 '매수' 의견을 재확인하며 실적 발표를 앞두고 강세를 유지했다. 이는 지난 11일 뱅크오브아메리카가 목표주가 <em>$460</em>으로 커버리지를 재개하며 밝힌 논리의 연장선으로, 로보택시 사업이 테슬라 전체 가치의 약 <em>52%</em>를 차지한다고 평가했고 옵티머스에는 <em>300억달러</em> 이상의 추가 upside, 에너지 사업에는 약 <em>900억달러</em>의 가치를 매겼다.\n\n같은 날 CNBC는 테슬라를 인텔 등과 함께 다음 주 실적 발표를 앞두고 '긍정적 실적 모멘텀'을 보이는 종목으로 꼽았고, 별도 코너 'Options Actions'에서는 테슬라 옵션 트레이더들 사이에서 실적 발표를 앞둔 방향성 베팅이 엇갈리고 있다고 짚었다 — 낙관과 경계가 공존하는 분위기를 보여준다.\n\n이런 강세 신호에도 로보택시·옵티머스 관련 미달 목표에 대한 주주들의 해명 요구는 가라앉지 않고 있다. 일론 머스크가 2019년 예고한 '2020년 말까지 로보택시 100만대' 공약, 2024년 사이버캡 공개 행사에서 제시한 '2025년 텍사스·캘리포니아 무인 로보택시 상용화, 2026년 사이버캡 양산' 목표 모두 아직 검증대에 올라 있다. 모닝스타는 장기 목표주가(적정가치)를 $425→<em>$450</em>로 상향하며 '3성 등급·적정가치' 진단은 유지했다 — 2026년 인도량이 전년(164만대) 대비 <em>10%</em> 늘어난 180만대에 근접할 것이란 전망이 근거다.\n\n모닝스타는 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다 — 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
-      "title_en": "Tesla Q2 earnings T-4 — <em>BofA reaffirms Buy ($460 PT)</em> as Robotaxi, Optimus scrutiny persists",
-      "hotShort_en": "BofA reaffirms <em>$460 Tesla target</em> before earnings",
-      "body_en": "Four days before Tesla's July 22 earnings call, Bank of America reaffirmed its Buy rating and <em>$460</em> price target citing Robotaxi, Optimus and energy — but shareholder demands over missed Robotaxi/Optimus targets and split options-market sentiment show optimism and caution still coexist.",
-      "summary_en": "With Tesla's Q2 earnings call four days away (July 22), Wall Street signals are mixed. According to CNBC, Bank of America reaffirmed its Buy rating on Tesla in a Friday, July 17 analyst-call roundup, staying bullish heading into the report. That echoes the view BofA laid out on July 11, when it reinstated coverage with a <em>$460</em> price target — valuing Robotaxi at roughly <em>52%</em> of Tesla's total worth, seeing more than <em>$30 billion</em> of upside from Optimus, and pricing the energy business at about <em>$90 billion</em>.\n\nThe same day, CNBC also listed Tesla alongside Intel among stocks showing positive 'earnings momentum' heading into next week's reports, while its Options Actions segment noted Tesla options traders are split on directional bets ahead of the print — a sign optimism and caution are coexisting.\n\nDespite the bullish signals, shareholder demands over unmet Robotaxi and Optimus targets haven't let up. Elon Musk's 2019 promise of a million robotaxis by the end of 2020 never materialized, and the goals set at the October 2024 Cybercab unveiling — unsupervised Robotaxi operations in Texas and California in 2025, volume Cybercab production in 2026 — remain under scrutiny. Morningstar raised its long-term fair value estimate to <em>$450</em> from $425, keeping a 3-star \"fairly valued\" rating, expecting 2026 deliveries to grow roughly <em>10%</em> to near 1.8 million from 1.64 million in 2025.\n\nMorningstar said free cash flow and management commentary on Robotaxi and Optimus will matter more than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
-      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Electrek",
-        "Barron's",
-        "Morningstar",
-        "CNBC"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1h ago",
@@ -142,31 +168,6 @@
       "summary_en": "Xpeng officially launched its new L03 electric SUV-coupe in Europe this week, with a starting price of <em>€34,990</em>.\n\nThat undercuts the Tesla Model Y by roughly <em>€3,400</em> in Germany, and by as much as <em>$10,000</em> in Norway, according to Electrek — a notably well-equipped vehicle at a clear price advantage over the Model Y.\n\nChinese EV makers have been gaining European market share through increasingly aggressive pricing, and the L03 launch is another sign of how much pricing pressure Tesla's core-volume Model Y is facing in the region.\n\nFor Tesla shareholders, the question is how this compounding price competition in Europe — layered on top of softer U.S. demand since the EV tax credit expired — affects Model Y margins and market share going forward.",
       "href": "https://electrek.co/2026/07/16/xpeng-l03-pricing-tesla-model-y-europe/",
       "sentiment": "bear",
-      "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-16T16:37:06.000Z",
-      "title": "NHTSA, 테슬라 모델3·Y <em>헤드라이트 리콜 이의신청 기각</em> — 2017~2023년식 약 2만대",
-      "hotShort": "NHTSA, 테슬라 <em>헤드라이트 리콜 이의 기각</em>",
-      "body": "美 도로교통안전국(NHTSA)이 2017~2023년식 모델3·모델Y 약 <em>1만9900대</em>의 헤드라이트 리콜을 피하려던 테슬라의 이의신청을 기각했다 — 공급사 마렐리의 자체 시험에서도 광도 기준 초과가 확인됐는데, 테슬라는 \"사고·부상과 무관해 안전에 지장 없다\"고 주장했지만 NHTSA는 \"주변 교통·운전자 눈부심 위험이 늘어난다\"며 무상 시정을 명령했다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-nhtsa-headlight-recall-model3-y-2026-07-16",
-      "summary": "美 도로교통안전국(NHTSA)이 15일(현지시간) 테슬라가 제기한 헤드라이트 리콜 면제 이의신청을 기각했다고 밝혔다. 대상은 2017~2023년식 모델3·모델Y 약 <em>1만9900대</em>다.\n\n문제가 된 것은 헤드라이트의 광도(밝기)다. 테슬라의 헤드램프 공급사인 마렐리 오토모티브 라이팅이 자체 시험한 결과, 우측 램프 최대 광도는 <em>136.2~230.1cd</em>, 좌측 램프는 <em>117.5~160.3cd</em> 범위로 측정돼 연방 기준을 초과한 것으로 나타났다.\n\n테슬라는 2024년 이 사안에 대해 \"안전에 지장이 없는 경미한 부적합\"이라며 리콜·소비자 통보 없이 넘어가게 해달라는 이의신청을 냈다. 해당 결함으로 인한 사고·부상·소비자 불만 신고가 없었다는 점을 근거로 들었다.\n\n그러나 NHTSA는 테슬라의 결론에 동의하지 않았다. 주변 차량 운전자와 해당 차량 운전자 모두에게 눈부심(글레어) 위험이 커진다고 판단해, 테슬라에 결함 사실을 소비자에게 통보하고 무상으로 시정할 의무를 부과했다.\n\n이번 결정은 규제기관이 테슬라의 '무해 판정' 논리를 받아들이지 않은 사례로, 향후 유사한 컴플라이언스 이슈에서 테슬라가 이의신청 전략을 계속 쓸 수 있을지에 대한 참고 사례가 될 전망이다.",
-      "title_en": "NHTSA rejects Tesla's bid to avoid headlight recall for <em>~19,900</em> Model 3s and Model Ys",
-      "hotShort_en": "NHTSA rejects Tesla's <em>headlight recall appeal</em>",
-      "body_en": "The NHTSA denied Tesla's petition to avoid a recall covering roughly <em>19,900</em> 2017-2023 Model 3 and Model Y vehicles over headlights that exceed brightness limits — Tesla argued the issue was inconsequential, but the agency said it increases glare risk for drivers and other traffic and ordered a free remedy.",
-      "summary_en": "The National Highway Traffic Safety Administration said on July 15 that it has denied a petition from Tesla seeking to avoid a recall over headlight noncompliance affecting roughly <em>19,900</em> Model 3 and Model Y vehicles from model years 2017-2023.\n\nAt issue is the brightness of the headlights. Testing by Tesla's headlamp supplier, Marelli Automotive Lighting, found maximum photometric intensity readings between <em>136.2 and 230.1 candela</em> for the right-hand lamps and <em>117.5 to 160.3 candela</em> for the left-hand lamps — exceeding federal limits.\n\nTesla filed the petition in 2024, arguing the noncompliance was inconsequential to motor vehicle safety and that no crashes, injuries, or complaints had been tied to the issue, seeking to avoid both a formal recall and customer notification.\n\nNHTSA disagreed with Tesla's conclusion, finding the excess brightness increases glare risk for both surrounding traffic and the vehicle's own driver. The agency is requiring Tesla to notify affected owners and provide a free remedy.\n\nThe decision marks another instance of the agency rejecting Tesla's inconsequential-noncompliance argument, and could be a reference point for how far Tesla can lean on that strategy in future compliance disputes.",
-      "href": "https://www.teslarati.com/tesla-fix-big-problem-old-headlights-nhtsa-says/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Reuters"
-      ],
-      "sentiment": "neutral",
       "hot": 4
     },
     {
@@ -195,5 +196,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-18 07:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-18 11:20 KST 자동 갱신 · 최신순"
 }
