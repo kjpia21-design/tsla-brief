@@ -1157,6 +1157,27 @@ function renderEaMarket(mr, lang) {
   </section>`;
 }
 
+// analysis: [{title,title_en,body,body_en}] — 에디토리얼 상세 분석(live 전용). body 는 "\n\n" 로 문단 분리.
+function renderEaAnalysis(analysis, lang) {
+  const items = (Array.isArray(analysis) ? analysis : []).filter((a) => a && (a.body || a.body_en));
+  if (!items.length) return "";
+  const heading = lang === "en" ? "Deep Dive" : "상세 분석";
+  const blocks = items.map((a) => {
+    const title = escapeHtml((lang === "en" ? (a.title_en || a.title) : a.title) || "");
+    const bodyRaw = (lang === "en" ? (a.body_en || a.body) : a.body) || "";
+    const paras = bodyRaw.split(/\n\n+/).map((p) => p.trim()).filter(Boolean)
+      .map((p) => `<p>${escapeHtml(p)}</p>`).join("\n        ");
+    return `<div class="ea-an">
+        ${title ? `<h3 class="ea-an__h">${title}</h3>` : ""}
+        <div class="ea-an__body">${paras}</div>
+      </div>`;
+  }).join("\n      ");
+  return `<section class="ea-sec ea-analysis">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    ${blocks}
+  </section>`;
+}
+
 // watchPoints: [{text,text_en}] — upcoming 이면 메인(관전 포인트), live 이면 회고("발표 전 관전 포인트였던 것").
 function renderEaWatch(watchPoints, lang, status) {
   const items = (Array.isArray(watchPoints) ? watchPoints : []).filter((w) => w && (w.text || w.text_en));
@@ -1322,6 +1343,7 @@ function renderEarningsPage(template, data, lang = "ko", now = new Date(), allEn
   const quotesHtml   = status === "live" ? renderEaQuotes(data.quotes, lang) : "";
   const guidanceHtml = status === "live" ? renderEaGuidance(data.guidance, lang) : "";
   const marketHtml   = status === "live" ? renderEaMarket(data.marketReaction, lang) : "";
+  const analysisHtml = status === "live" ? renderEaAnalysis(data.analysis, lang) : "";
 
   // 두 상태 공통(데이터 있으면 노출) — 관전포인트·사전질문·컨센서스·소스/webcast
   const watchHtml     = renderEaWatch(data.watchPoints, lang, status);
@@ -1358,6 +1380,7 @@ function renderEarningsPage(template, data, lang = "ko", now = new Date(), allEn
   out = replaceBlock(out, "EA_QUOTES",    quotesHtml, opts);
   out = replaceBlock(out, "EA_GUIDANCE",  guidanceHtml, opts);
   out = replaceBlock(out, "EA_MARKET",    marketHtml, opts);
+  out = replaceBlock(out, "EA_ANALYSIS",  analysisHtml, opts);
   out = replaceBlock(out, "EA_WATCH",     watchHtml, opts);
   out = replaceBlock(out, "EA_QUESTIONS", questionsHtml, opts);
   out = replaceBlock(out, "EA_CONSENSUS", consensusHtml, opts);

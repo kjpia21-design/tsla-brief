@@ -78,6 +78,38 @@
     "body": "EPS 서프라이즈에 시간외 주가는 약 4% 상승했지만, 콜에서 나온 250억 달러 이상의 설비투자 계획과 남은 분기 잉여현금흐름 적자 전망이 분위기를 뒤집었다. 다음 날인 4월 23일 주가는 3.56% 하락한 $373.60에 마감했다.",
     "body_en": "Shares initially rose about 4% after hours on the EPS beat, but sentiment flipped when the call revealed a $25B+ capex plan and negative free cash flow guidance for the rest of the year. The stock closed down 3.56% at $373.60 on April 23."
   },
+  "analysis": [
+    {
+      "title": "실적의 질 — 매출이 아니라 마진이 만든 비트",
+      "title_en": "Quality of the beat — margins, not revenue, did the work",
+      "body": "이번 분기의 비트는 '많이 팔아서'가 아니라 '남는 장사를 해서' 나왔다. 매출 224억 달러는 LSEG 컨센서스($22.64B)에 오히려 소폭 못 미쳤지만, 조정 EPS는 $0.41로 예상($0.37)을 10.8% 웃돌았다. 그 간극을 메운 것이 총마진 21.1% — 5분기 만의 최고치다. 영업이익은 전년 대비 91% 급증한 9.4억 달러로, 매출 증가율(+16%)의 여섯 배 가까운 레버리지를 보여줬다.\n\n다만 GAAP 순이익은 5억 달러에 그쳤는데, 이는 영업 부진이 아니라 보유 비트코인의 평가손이 반영된 회계 효과다. 영업 실적의 방향을 읽으려면 GAAP 순이익보다 영업이익과 조정 EPS 쪽이 이번 분기의 실체에 가깝다.",
+      "body_en": "This quarter's beat came not from selling more, but from earning more per sale. Revenue of $22.4B actually fell slightly short of the LSEG consensus ($22.64B), yet adjusted EPS of $0.41 topped the $0.37 estimate by 10.8%. The bridge was gross margin: 21.1%, a five-quarter high. Operating income surged 91% year over year to $0.94B — leverage nearly six times the pace of revenue growth (+16%).\n\nGAAP net income of just $0.5B reflects a mark-to-market loss on Tesla's bitcoin holdings, an accounting effect rather than operational weakness. To read the quarter's true direction, operating income and adjusted EPS are the better guides."
+    },
+    {
+      "title": "자동차 — 마진 회복과 2년 만의 수주잔고가 말하는 것",
+      "title_en": "Automotive — what the margin recovery and a two-year-high backlog signal",
+      "body": "인도 358,023대는 화려한 숫자가 아니다. 핵심은 규제 크레딧을 뺀 자동차 총마진이 19.2%로 전분기(17.9%)보다 1.3%p 개선됐다는 것 — 할인으로 물량을 산 게 아니라 가격을 지키며 팔았다는 뜻이다. 여기에 프랑스·독일 인도가 전분기 대비 150% 이상 급증하며 그간 최약체였던 유럽 수요가 살아났고, 분기 말 수주잔고는 2년여 만의 최고 수준에 도달했다.\n\n조용히 커지는 쪽은 서비스·기타 부문이다. 매출 37.5억 달러(+42%)로 자동차 본업 성장률을 크게 앞질렀는데, 동력은 FSD 유료 구독 확산(약 130만 명)이다. 차 한 대를 팔고 끝나는 사업에서, 판 차에서 반복 매출을 뽑는 사업으로의 전환이 손익계산서에 실제로 잡히기 시작했다.",
+      "body_en": "The 358,023 deliveries are not the headline. What matters is automotive gross margin ex-credits improving 1.3 points sequentially to 19.2% from 17.9% — volume was earned while holding price, not bought with discounts. Deliveries in France and Germany jumped more than 150% quarter over quarter, reviving Tesla's weakest region, and the order backlog ended the quarter at its highest level in over two years.\n\nThe quiet grower is services and other: revenue of $3.75B, up 42%, far outpacing the core car business, driven by paid FSD subscriptions reaching roughly 1.3 million. The shift from selling a car once to earning recurring revenue from cars already sold is now showing up in the P&L."
+    },
+    {
+      "title": "에너지 — 급감한 설치량, 그래도 마진이 방어선",
+      "title_en": "Energy — deployments slumped, but margin held the line",
+      "body": "에너지 저장 설치량 8.8GWh는 직전 분기 사상 최대치(14.2GWh)에서 38% 급감한 수치이고, 부문 매출도 24.1억 달러로 전년 대비 12% 줄었다. 대형 프로젝트 중심 사업 특성상 분기별 출렁임은 구조적이지만, '꾸준한 이익 기둥'이라는 서사에는 일단 흠집이 났다.\n\n그럼에도 저장 부문 총마진은 39.5%를 넘겼다. 여기엔 약 2.5억 달러의 일회성 관세 효과가 포함돼 있어 다음 분기 재현을 장담할 수 없지만, 자동차보다 두 배가량 높은 마진 체력 자체는 확인됐다. 회사가 유지한 '2026년 연간 설치량은 2025년 초과' 전망이 지켜지는지가 이 사업의 신뢰도를 가를 기준선이다.",
+      "body_en": "Energy storage deployments of 8.8 GWh fell 38% from Q4's record 14.2 GWh, and segment revenue declined 12% year over year to $2.41B. Lumpiness is structural in a project-driven business, but the 'steady profit pillar' narrative took a dent.\n\nEven so, storage gross margin exceeded 39.5%. That includes roughly $250M of one-time tariff benefits that may not repeat, but the underlying margin power — about double automotive — was confirmed. Whether Tesla delivers on its maintained guidance that 2026 full-year deployments exceed 2025 is the credibility test for this business."
+    },
+    {
+      "title": "현금흐름과 250억 달러 — 시장이 비트에도 판 이유",
+      "title_en": "Cash flow and the $25B — why the market sold a beat",
+      "body": "발표 직후 시간외 4% 상승이 다음 날 -3.56%($373.60)로 뒤집힌 건 실적이 아니라 콜에서 나온 두 문장 때문이다. 2026년 설비투자 250억 달러 이상(기존 200억 달러 안팎에서 상향), 그리고 남은 세 분기 잉여현금흐름 적자 전망. 1분기 FCF가 14.4억 달러 흑자(+117%)로 견조했기에 더 대비가 컸다.\n\n돈이 가는 곳은 명확하다 — 가동 준비 중인 6개 공장, AI 학습 컴퓨트, 사이버캡·세미 램프업, 프리몬트 옵티머스 라인, 오스틴 반도체 연구 팹. 요컨대 지금의 자동차 이익을 AI·로봇 사업의 선행 투자로 태우겠다는 선언이다. 이 투자가 매출로 돌아오는 시점이 멀수록 주가는 실적과 따로 움직일 수 있고, 그 첫 반응이 이번 하락이었다.",
+      "body_en": "The flip from +4% after hours to -3.56% ($373.60) the next day traces to two sentences on the call, not the results: 2026 capex of more than $25B (raised from around $20B), and negative free cash flow guidance for the remaining three quarters. The contrast stung precisely because Q1 FCF was a healthy positive $1.44B (+117%).\n\nWhere the money goes is clear — six factories moving toward operation, AI training compute, Cybercab and Semi ramps, the Fremont Optimus line, and a semiconductor research fab in Austin. In effect, Tesla declared it will burn today's automotive profits as advance investment in AI and robotics. The further out the payback, the more the stock can decouple from earnings — and this selloff was the first taste."
+    },
+    {
+      "title": "AI 스토리 — 기대와 불확실성이 같은 콜에서 나왔다",
+      "title_en": "The AI story — conviction and uncertainty on the same call",
+      "body": "AI 부문은 진전과 유보가 한 콜에 공존했다. 진전: 무감독 로보택시가 오스틴에서 댈러스·휴스턴까지 3개 도시로 늘었고(V14.3), 사이버캡·세미가 기가 텍사스에서 생산을 시작했으며, FSD(감독형) v4가 네덜란드 승인을 받아 유럽 확장의 문을 열었다. 유보: 경영진 스스로 \"로보택시 매출은 2026년엔 유의미하지 않다\"고 선을 그었고, 일론 머스크는 옵티머스를 \"역사상 가장 큰 제품\"이라 부르면서도 올해 생산 속도는 \"예측 불가능\"이라고 했다.\n\n정리하면 이번 분기는 AI 스토리가 '데모'에서 '양산 준비'로 넘어가는 전환점이되, 매출 기여는 여전히 2027년 이후의 약속이다. 그 약속을 담보하는 것이 250억 달러 투자이고, 투자를 감당하는 것이 회복된 자동차 마진이다 — 세 요소가 맞물린 구조를 확인한 것이 이번 콜의 실질 수확이다.",
+      "body_en": "The AI segment carried progress and hedges in the same breath. Progress: unsupervised Robotaxi expanded to three cities — Austin, Dallas and Houston — on V14.3, Cybercab and Semi production began at Giga Texas, and FSD (Supervised) v4 won Dutch approval, opening the door to Europe. Hedges: management drew its own line — 'Robotaxi revenue will not be material in 2026' — and Elon Musk called Optimus 'probably the biggest product ever' while conceding this year's production rate is 'impossible to predict.'\n\nThe net read: this quarter marks the AI story's shift from demo to production-readiness, while revenue contribution remains a 2027-and-beyond promise. The $25B capex underwrites that promise, and the recovered automotive margin funds the capex — confirming how tightly the three are interlocked was the call's real takeaway."
+    }
+  ],
   "watchPoints": [
     { "text": "규제 크레딧 제외 자동차 총마진 — 약 5만 대 재고 부담 속 가격·마진 방어 여부가 최대 관심사였다.", "text_en": "Automotive gross margin ex-credits — whether pricing and margins could hold amid a roughly 50,000-unit inventory overhang." },
     { "text": "에너지 저장 둔화 — 4분기 사상 최대치(14.2GWh)에서 급감한 설치량에 대한 경영진의 설명이 주목받았다.", "text_en": "The energy storage slowdown — management's explanation for deployments falling sharply from Q4's record 14.2 GWh." },
