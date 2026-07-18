@@ -81,6 +81,26 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "23h ago",
+      "pubDate": "2026-07-17T20:07:27.000Z",
+      "title": "스페이스X 시가총액, 사상 최고치 대비 <em>$1조 넘게 증발</em> — 주가 5.4% 급락해 $123.99",
+      "hotShort": "스페이스X 시총, 최고가 대비 <em>$1조 증발</em>",
+      "body": "스페이스X 주가가 17일 <em>5.4% 급락</em>해 $123.99로 마감 — 6월16일(상장 사흘째) 기록한 사상 최고치 $2조6400억 대비 시가총액이 $1조6300억으로 줄어 <em>$1조 넘게 증발</em>했다. 전날 스타십 13차 시험비행 발사 중단까지 겹치며 투자 심리가 급격히 식고 있다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-1-trillion-value-wipeout-2026-07-17",
+      "summary": "블룸버그에 따르면 스페이스X 주가는 17일(현지시간) 전일 대비 5.4% 하락한 $123.99에 마감했다. 이로써 시가총액은 6월16일 상장 사흘째 기록한 사상 최고치 $2조6400억에서 $1조6300억으로 줄어, 최고치 대비 $1조 넘는 가치가 증발한 셈이다.\n\n스페이스X 주가는 상장 후 한 달여 만에 가파른 내림세를 보이고 있다. 지난 7월14일 IPO가($135) 단 $1 위까지 밀렸고, 15일에는 사상 최고가 대비 33% 급락하며 IPO가 아래로 처음 내려섰다. 16일에는 공매도 평가익이 $87억에 달할 만큼 약세 베팅이 쌓였고, 결국 17일 5.4% 추가 하락하며 $1조 손실 구간에 진입했다.\n\n직전 거래일인 16일에는 스타십 13차 시험비행이 슈퍼헤비 부스터 엔진 4기 미점화로 발사 직전 자동 중단되는 일이 겹쳤다. 상장 직후의 뜨거운 투자 열기가 빠르게 식으면서, 실적·기술 이정표에 대한 시장의 눈높이가 한층 냉정해진 모습이다.\n\n테슬라 주주 입장에서 스페이스X는 직접 보유 종목이 아니지만, 머스크가 이끄는 계열사들의 밸류에이션 변동은 그의 시간·자원 배분과 시장의 '머스크 프리미엄' 심리를 가늠하는 참고 지표로 종종 인용된다. 최근 일각에서 제기된 스페이스X-테슬라 합병 가능성 관측도 이번 급락으로 다시 냉각될 가능성이 있다.",
+      "title_en": "SpaceX market value <em>wipes out over $1 trillion</em> from its peak as shares slide 5.4% to $123.99",
+      "hotShort_en": "SpaceX <em>erases over $1T</em> in value from peak",
+      "body_en": "SpaceX shares fell <em>5.4%</em> Friday to close at $123.99 — down from the all-time high of $2.64 trillion in market value hit on June 16, its third day of trading, wiping out <em>more than $1 trillion</em> in value. The prior day's aborted 13th Starship test flight added to the cooling investor mood.",
+      "summary_en": "According to Bloomberg, SpaceX shares fell 5.4% on Friday, July 17, to close at $123.99. That leaves the company's market value at $1.63 trillion, down from the all-time high of $2.64 trillion set on June 16 — its third day of trading — erasing more than $1 trillion in value from the peak.\n\nSpaceX has been on a steep slide in the roughly month since its debut. On July 14, shares closed just $1 above the IPO price of $135; on July 15, they fell 33% from the all-time high and dropped below the IPO price for the first time; by July 16, paper gains on short positions had swelled to about $8.7 billion. Friday's additional 5.4% drop pushed the stock into $1-trillion-loss territory.\n\nThe decline came a day after SpaceX's 13th Starship test flight was automatically aborted just before liftoff when four of the Super Heavy booster's engines failed to ignite. The initial post-IPO enthusiasm has cooled quickly, with the market taking a more sober view of the company's execution and technical milestones.\n\nSpaceX isn't a Tesla holding, but valuation swings at Musk-led affiliates are often cited as a proxy for how the market is pricing the broader 'Musk premium' and where his time and resources are focused. The sharp drop may also cool recent chatter about a possible SpaceX-Tesla merger.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-set-to-wipe-out-1-trillion-in-value-as-shares-slide",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
       "pubDate": "2026-07-17T19:03:00.000Z",
       "title": "스페이스X, 펜타곤에 AI 컴퓨팅 파워 판매 협상 — <em>수십억달러 규모</em>, 아직 초기 단계",
@@ -105,6 +125,26 @@
       "hot": 4
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1d ago",
+      "pubDate": "2026-07-17T14:22:00.000Z",
+      "title": "배런스 \"테슬라 숨은 리스크 2가지\" — <em>스페이스X 합병 무산 시 최대 10%</em>·AI 실행 리스크",
+      "hotShort": "배런스, 테슬라 <em>숨은 리스크 2가지</em> 지적",
+      "body": "배런스가 2분기 실적 발표를 앞두고 테슬라의 잘 언급되지 않는 리스크 두 가지를 짚었다 — 스페이스X 합병설이 식으면 <em>주가 10%(약 $40~50) 하락</em> 가능성, 그리고 로보택시 AI 진전 속도에 달린 실행 리스크(선행 12개월 예상 실적 대비 173배 거래)다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-barrons-two-hidden-risks-2026-07-17",
+      "summary": "배런스는 최근 칼럼에서 테슬라 주가를 둘러싸고 시장에서 상대적으로 덜 논의되는 리스크 두 가지를 짚었다. 하나는 스페이스X와의 합병 가능성을 둘러싼 기대가 꺾일 경우의 하방 리스크, 다른 하나는 로보택시 AI 기술 진전 속도에 발목 잡힐 수 있는 실행 리스크다.\n\n첫 번째는 스페이스X 합병 시나리오다. 일론 머스크가 스페이스X 의결권의 80% 이상을 쥐고 있다는 점 때문에 시장 일각에서 테슬라와의 합병 가능성이 거론돼 왔지만, 배런스는 테슬라 이사회가 머스크 개인이 아닌 모든 주주의 이익을 위해 행동해야 하는 신인의무(fiduciary duty) 문제부터가 걸림돌이라고 짚었다. 설사 추진되더라도 중국을 포함한 각국 정부 승인이 필요해 수년이 걸릴 사안인데, 한 애널리스트는 합병 기대가 식을 경우 <em>주당 $40~50, 약 10%</em>의 하방 압력이 있을 수 있다고 봤다.\n\n두 번째는 AI·로보택시 실행 리스크다. 테슬라 주가는 현재 향후 12개월 예상 실적 대비 <em>약 173배</em>에 거래되고 있는데, 이는 로보택시 등 AI 기술이 계획대로 진전된다는 낙관적 전제를 상당 부분 반영한 밸류에이션이다. 배런스는 이 전제가 흔들릴 경우 밸류에이션 재조정 압력이 커질 수 있다고 지적했다.\n\n테슬라 주주 입장에서, 두 리스크 모두 22일 2분기 실적 발표를 나흘 앞두고 로보택시·옵티머스 진척 상황과 경영진의 사업 방향 코멘트에 시장이 유독 민감하게 반응할 이유를 보여준다 — BofA·모닝스타 등 목표주가 상향 소식과 함께 놓고 보면, 강세·약세 시각이 팽팽하게 맞서고 있는 현재 국면을 잘 보여주는 코멘트다.",
+      "title_en": "Barron's flags <em>two under-discussed Tesla risks</em> — up to 10% downside if SpaceX merger hopes fade, plus AI execution risk",
+      "hotShort_en": "Barron's flags <em>two hidden Tesla risks</em>",
+      "body_en": "Ahead of Q2 earnings, Barron's flagged two risks for Tesla stock that get less attention — <em>up to 10% (roughly $40-50) downside</em> if hopes for a SpaceX merger fade, and execution risk tied to how fast Robotaxi AI progresses (the stock trades at 173x forward earnings).",
+      "summary_en": "In a recent column, Barron's highlighted two risks for Tesla stock that the market discusses less than the usual bull/bear talking points: the downside if hopes for a SpaceX merger fade, and execution risk tied to the pace of Robotaxi AI progress.\n\nThe first is the SpaceX merger scenario. Because Elon Musk controls more than 80% of SpaceX's voting power, some investors have speculated about a possible merger with Tesla. But Barron's noted that Tesla's board has a fiduciary duty to act in the interest of all shareholders, not Musk alone — a hurdle before any deal even gets off the ground. Even if pursued, a merger would likely take years and require regulatory approval from governments worldwide, including China. One analyst sees <em>$40 to $50 a share, or roughly 10%</em>, of downside risk to Tesla stock if M&A hopes fade.\n\nThe second is AI and Robotaxi execution risk. Tesla stock currently trades at <em>about 173 times</em> expected earnings over the next 12 months — a valuation that bakes in considerable optimism about Robotaxi and other AI technology progressing on schedule. Barron's noted that if that assumption falters, the stock could face pressure to re-rate lower.\n\nFor shareholders, both risks help explain why the market is unusually sensitive to Robotaxi and Optimus progress updates and management commentary heading into the July 22 earnings call, four days away — set against recent price-target hikes from BofA and Morningstar, the split highlights just how evenly matched the bull and bear cases currently are.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-risks-658c1872",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "just now",
@@ -122,52 +162,6 @@
       "summary_en": "Tesla rolled out official launches in two new markets this week, Latvia and Uruguay, announced less than 24 hours apart.\n\nThe Latvia launch completes Tesla's presence across all three Baltic states, following Lithuania (which launched in late 2024) and Estonia (officially launched in Tallinn on April 24, 2026). Estonia had already accounted for roughly 20% of the country's EVs even before Tesla had an official store there, pointing to pent-up regional demand.\n\nIn Uruguay, Tesla becomes the third officially represented South American market after Chile and Colombia, offering the Model 3 and Model Y in three trims each. Vehicles for the Uruguayan market are being sourced from Tesla's Shanghai Gigafactory rather than the U.S.\n\nFor shareholders, the back-to-back launches read as Tesla broadening its sales base into smaller international markets at a time when U.S. demand has cooled following the September 2025 expiration of the federal EV tax credit — individually small markets, but a signal of where Tesla is looking to add incremental volume.",
       "href": "https://electrek.co/2026/07/17/tesla-latvia-uruguay-launch/",
       "sentiment": "bull",
-      "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-16T23:00:00.000Z",
-      "title": "스페이스X 스타십 13차 시험비행, 발사 직전 <em>엔진 4기 미점화로 자동 중단</em> — SPCX 상장 후 첫 시도",
-      "hotShort": "스타십 13차 발사, <em>엔진 4기 미점화</em>로 중단",
-      "body": "7월16일 텍사스 스타베이스에서 시도한 스페이스X 스타십 13차 시험비행이 슈퍼헤비 부스터 33개 엔진 중 <em>4개가 점화되지 않아</em> 발사 직전 자동 중단됐다 — SPCX 상장 후 첫 발사 시도였던 만큼, 머스크는 라파터 엔진 2기 교체 후 이르면 다음 주 초 재도전하겠다고 밝혔다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-starship-flight13-abort-2026-07-16",
-      "summary": "7월16일(현지시간) 텍사스 스타베이스 2번 발사대에서 진행된 스페이스X 스타십 13차 시험비행이 발사 직전 자동 중단됐다. 화면 텔레메트리에서 슈퍼헤비 부스터의 랩터 엔진 33개 중 <em>4개가 점화되지 않은</em> 것이 확인됐고, 나머지 29개 엔진도 즉시 정지되며 로켓은 발사대에 그대로 남았다.\n\n머스크는 이번 결함이 라파터 엔진 <em>2기</em> 교체가 필요한 문제라며, \"가장 유력한 재발사 시점은 다음 주 초\"라고 밝혔다.\n\n이번 시도는 스페이스X 상장(IPO) 이후 첫 스타십 시험비행이었다는 점에서 시장의 관심이 컸다. 로켓에는 신형 스타링크 V3 위성 <em>20기</em>가 실려 있었으며, 이는 신형 위성의 첫 궤도 투입 시도이기도 했다.\n\n스페이스X는 테슬라 보유 종목은 아니지만 머스크가 이끄는 계열사로 최근 상장(SPCX)했다. 이미 IPO가를 밑돌며 공매도가 늘어난 상황에서 이번 발사 지연이 투자 심리에 추가 영향을 줄지 주목된다 — 다만 로켓이 손상 없이 안전하게 중단됐다는 점은 긍정적이다.",
-      "title_en": "SpaceX Starship Flight 13 <em>aborts on the pad</em> as 4 engines fail to ignite — first launch try since IPO",
-      "hotShort_en": "Starship Flight 13 <em>aborts</em>, 4 engines misfire",
-      "body_en": "SpaceX's 13th Starship test flight from Starbase, Texas was automatically aborted just before liftoff on July 16 after <em>4 of the Super Heavy booster's 33 engines</em> failed to ignite — the first Starship launch attempt since SpaceX went public, with Musk saying a retry is most likely early next week after replacing two Raptor engines.",
-      "summary_en": "SpaceX's 13th Starship test flight, launching from Pad 2 at Starbase, Texas, was automatically aborted just before liftoff on July 16. On-screen telemetry showed <em>4 of the Super Heavy booster's 33 Raptor engines</em> failed to ignite, triggering an immediate shutdown of the remaining 29 engines and keeping the rocket anchored to the pad.\n\nMusk said the issue requires replacing <em>two</em> Raptor engines, adding that the \"most probable launch timing is early next week.\"\n\nThe attempt drew extra attention as the first Starship test flight since SpaceX's recent IPO. The rocket was carrying <em>20</em> of the newest-generation Starlink V3 satellites, marking what would have been their first orbital delivery.\n\nSpaceX isn't a Tesla holding, but as a Musk-led affiliate that recently went public as SPCX — already trading below its IPO price with elevated short interest — this launch delay is another data point shareholders may weigh alongside the broader Musk market-confidence narrative. The safe, undamaged abort is a positive sign for the hardware, even as repeated schedule slips draw scrutiny.",
-      "href": "https://www.reuters.com/business/media-telecom/spacex-starship-rocket-aborts-before-liftoff-13th-flight-test-attempt-2026-07-16/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "AP News",
-        "Bloomberg"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-16T18:13:41.000Z",
-      "title": "Xpeng 신형 L03, 유럽서 <em>모델Y보다 최대 1만달러 저렴</em>하게 출시",
-      "hotShort": "Xpeng L03, 유럽서 <em>모델Y보다 최대 1만달러↓</em>",
-      "body": "중국 Xpeng이 이번 주 유럽에 신형 전기 SUV쿠페 L03을 시작가 <em>€34,990</em>로 출시했다 — 독일에서는 테슬라 모델Y보다 약 <em>€3,400</em>, 노르웨이에서는 최대 <em>1만달러</em> 저렴한 가격으로, 중국 EV 업체들의 유럽 가격 공세가 모델Y의 핵심 시장에서 더 거세지고 있음을 보여준다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-xpeng-l03-undercuts-model-y-europe-2026-07-16",
-      "summary": "Xpeng이 이번 주 유럽 시장에 신형 전기 SUV쿠페 L03을 공식 출시했다. 시작가는 <em>€34,990</em>로 책정됐다.\n\n이 가격은 독일에서 테슬라 모델Y보다 약 <em>€3,400</em> 낮은 수준이며, 노르웨이에서는 그 격차가 최대 <em>1만달러</em>에 달한다. Electrek에 따르면 이 정도 가격이면 사양을 충분히 갖춘 차량임에도 모델Y 대비 뚜렷한 가격 우위를 갖는다.\n\n중국 EV 업체들은 최근 유럽에서 공격적인 가격 정책으로 점유율을 늘려가고 있으며, 이번 L03 출시는 테슬라의 핵심 볼륨 모델인 모델Y가 유럽에서 받는 가격 압박이 한 단계 더 커졌다는 신호로 읽힌다.\n\n테슬라 주주 입장에서는, 미국 내 세액공제 종료로 수요가 둔화된 가운데 유럽에서마저 중국 업체와의 가격 경쟁이 심화되는 흐름이 모델Y 마진·점유율에 어떤 영향을 줄지 지켜볼 대목이다.",
-      "title_en": "Xpeng's new L03 <em>undercuts Tesla Model Y by up to $10,000</em> in Europe",
-      "hotShort_en": "Xpeng L03 <em>undercuts Model Y by $10K</em> in Europe",
-      "body_en": "Xpeng launched its new L03 electric SUV-coupe in Europe this week at a starting price of <em>€34,990</em> — undercutting the Tesla Model Y by about <em>€3,400</em> in Germany and by up to <em>$10,000</em> in Norway, another sign of how aggressively Chinese EV makers are pricing into Model Y's core European market.",
-      "summary_en": "Xpeng officially launched its new L03 electric SUV-coupe in Europe this week, with a starting price of <em>€34,990</em>.\n\nThat undercuts the Tesla Model Y by roughly <em>€3,400</em> in Germany, and by as much as <em>$10,000</em> in Norway, according to Electrek — a notably well-equipped vehicle at a clear price advantage over the Model Y.\n\nChinese EV makers have been gaining European market share through increasingly aggressive pricing, and the L03 launch is another sign of how much pricing pressure Tesla's core-volume Model Y is facing in the region.\n\nFor Tesla shareholders, the question is how this compounding price competition in Europe — layered on top of softer U.S. demand since the EV tax credit expired — affects Model Y margins and market share going forward.",
-      "href": "https://electrek.co/2026/07/16/xpeng-l03-pricing-tesla-model-y-europe/",
-      "sentiment": "bear",
       "hot": 4
     },
     {
@@ -196,5 +190,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-18 11:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-19 04:06 KST 자동 갱신 · 최신순"
 }
