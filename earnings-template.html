@@ -116,6 +116,13 @@
   .ea-stat__v{display:block;font-size:16px;font-weight:700;color:var(--ink);font-variant-numeric:tabular-nums}
   .ea-market__body,.ea-consensus__note{margin-top:10px;font-size:14px;color:var(--ink-mid);line-height:1.68;word-break:keep-all}
 
+  /* ── 어닝콜 아카이브(지난·다른 분기 링크) ── */
+  .ea-past{display:flex;align-items:center;gap:10px;background:var(--soft);border-radius:12px;padding:12px 14px}
+  .ea-past + .ea-past{margin-top:8px}
+  .ea-past__q{font-size:13.5px;font-weight:800;color:var(--ink);white-space:nowrap}
+  .ea-past__meta{flex:1;font-size:12px;font-weight:600;color:var(--ink-mute);word-break:keep-all}
+  .ea-past__arrow{font-weight:700;color:var(--ink-mute)}
+
   /* ── 원문 소스 ── */
   .ea-src__list{display:flex;flex-direction:column;gap:8px;margin-bottom:12px}
   .ea-src__item{display:block;font-size:13.5px;font-weight:700;color:var(--ink-mid);background:var(--soft);border-radius:12px;padding:11px 14px}
@@ -194,6 +201,8 @@
   <!-- BLOCK:EA_CONSENSUS --><!-- /BLOCK:EA_CONSENSUS -->
 
   <!-- BLOCK:EA_SOURCES --><!-- /BLOCK:EA_SOURCES -->
+
+  <!-- BLOCK:EA_PAST --><!-- /BLOCK:EA_PAST -->
 
   <div class="art__share">
     <span class="art__share__label">공유하기</span>

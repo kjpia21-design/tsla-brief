@@ -1235,6 +1235,42 @@ function renderEaSources(data, lang) {
   </section>`;
 }
 
+// 어닝콜 아카이브 — 같은 디렉토리의 다른 발행(비draft) 어닝 페이지로 상호 링크.
+//  현재 페이지 제외, callDate 최신순. live 는 발표일+판정, upcoming 은 프리뷰 표기.
+const EA_VERDICT_SHORT = {
+  beat: { ko: "어닝 비트", en: "Beat" },
+  miss: { ko: "어닝 미스", en: "Miss" },
+  mixed: { ko: "혼조", en: "Mixed" },
+};
+function renderEaPastCalls(data, allEntries, lang) {
+  const others = (Array.isArray(allEntries) ? allEntries : [])
+    .filter((e) => e && e.slug && e.slug !== data.slug && e.status && e.status !== "draft")
+    .sort(byCallDateDesc);
+  if (!others.length) return "";
+  const heading = lang === "en" ? "Earnings Archive" : "지난 어닝콜";
+  const rows = others.map((e) => {
+    const QN = (e.quarter || "").trim();
+    const dateTxt = fmtCalDate(e.callDate, lang);
+    let meta;
+    if (e.status === "upcoming") {
+      meta = lang === "en" ? `${dateTxt} · Preview` : `${dateTxt} 예정 · 프리뷰`;
+    } else {
+      const v = EA_VERDICT_SHORT[e.verdict];
+      const vTxt = v ? ` · ${lang === "en" ? v.en : v.ko}` : "";
+      meta = lang === "en" ? `Reported ${dateTxt}${vTxt}` : `${dateTxt} 발표${vTxt}`;
+    }
+    return `<a class="ea-past" href="${escapeHtml(`${e.slug}.html`)}">
+        <span class="ea-past__q">${escapeHtml(QN)}</span>
+        <span class="ea-past__meta">${escapeHtml(meta)}</span>
+        <span class="ea-past__arrow" aria-hidden="true">→</span>
+      </a>`;
+  }).join("\n      ");
+  return `<section class="ea-sec ea-past-calls">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    ${rows}
+  </section>`;
+}
+
 function earningsJsonLd(data, lang, titlePlain) {
   const base = lang === "en" ? `${SITE}/en` : SITE;
   const url = `${base}/earnings/${data.slug}`;
@@ -1270,7 +1306,7 @@ function earningsJsonLd(data, lang, titlePlain) {
  * status "upcoming": 히어로+관전포인트+컨센서스+일정/webcast 만(데이터가 있어도 kpi·세그먼트 등은 하드 게이트로 숨김).
  * 그 외("live"): 전체 섹션 — 각 섹션은 데이터 없으면 렌더러가 통째로 생략(빈 껍데기 금지).
  */
-function renderEarningsPage(template, data, lang = "ko", now = new Date()) {
+function renderEarningsPage(template, data, lang = "ko", now = new Date(), allEntries = []) {
   const status = data.status === "live" ? "live" : "upcoming";
   const QN = (data.quarter || "").trim();
   const titleTxt = renderEaTitle(data, lang, now);   // 이미 escape 됨
@@ -1292,6 +1328,7 @@ function renderEarningsPage(template, data, lang = "ko", now = new Date()) {
   const questionsHtml = renderEaPreQuestions(data.preQuestions, lang);
   const consensusHtml = renderEaConsensus(data.consensus, lang);
   const sourcesHtml   = renderEaSources(data, lang);
+  const pastHtml      = renderEaPastCalls(data, allEntries, lang);
 
   const pageTitle = status === "live"
     ? (lang === "en" ? `Tesla ${QN} Earnings — full breakdown` : `${QN} 테슬라 어닝콜 총정리 — Tesla Briefing`)
@@ -1325,6 +1362,7 @@ function renderEarningsPage(template, data, lang = "ko", now = new Date()) {
   out = replaceBlock(out, "EA_QUESTIONS", questionsHtml, opts);
   out = replaceBlock(out, "EA_CONSENSUS", consensusHtml, opts);
   out = replaceBlock(out, "EA_SOURCES",   sourcesHtml, opts);
+  out = replaceBlock(out, "EA_PAST",      pastHtml, opts);
   return out;
 }
 
@@ -1343,7 +1381,7 @@ async function writeEarningsPages(entries, { outDir = OUT_DIR, lang = "ko" } = {
   let n = 0;
   for (const data of entries) {
     if (!data.slug) continue;
-    const html = renderEarningsPage(template, data, lang);
+    const html = renderEarningsPage(template, data, lang, new Date(), entries);
     await writeFile(path.join(dir, `${data.slug}.html`), langFinalize(html, lang), "utf8");
     n++;
   }
