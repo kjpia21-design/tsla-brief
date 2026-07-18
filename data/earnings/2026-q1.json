@@ -117,7 +117,80 @@
     { "text": "로보택시 운영 데이터와 확장 속도, FSD 유료 구독자 증가세.", "text_en": "Robotaxi operational data and expansion pace, plus the growth rate of paid FSD subscriptions." }
   ],
   "preQuestions": [],
-  "qna": [],
+  "qna": [
+    {
+      "asker": "Say 개인투자자 질문", "asker_en": "Retail investor question via Say (read by IR Travis Axelrod)",
+      "question": "옵티머스 3세대 공개와 생산 시작은 언제이며, 연말까지 생산 속도는 어느 정도가 되나.",
+      "question_en": "When will Optimus V3 be revealed, when does production start, and what production rate should we expect by year-end?",
+      "answer": "일론 머스크는 모델 S·X 생산을 5월 초 종료하고 프리몬트 공장을 옵티머스 생산 라인으로 빠르게 전환해 7월 말~8월 생산 시작을 목표로 한다고 답했다. 완전히 새로운 공급망과 기술이 필요한 만큼 초기 생산 S커브는 매우 느려 연말 생산 속도는 예측할 수 없다고 했다.",
+      "answer_en": "Elon Musk said Model S/X production ends in early May and Fremont will be converted quickly to Optimus production, targeting start of production in late July or August. Because the robot requires an entirely new supply chain and new technology, the early production S-curve is very slow and he declined to predict a year-end rate.",
+      "answeredBy": "일론 머스크", "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "Say 개인투자자 질문", "asker_en": "Retail investor question via Say",
+      "question": "무감독 FSD의 다음 마일스톤은 무엇이며, 언제부터 매출에 기여하나.",
+      "question_en": "What are the next milestones for unsupervised FSD, and when will it drive revenue?",
+      "answer": "머스크는 연말까지 미국 12개 안팎의 주에서 무감독 FSD·로보택시 운영을 목표로 하며, 지금까지 사고 없이 매우 신중하게 확대하고 있다고 답했다. 올해는 로보택시 매출이 크게 중요하지 않겠지만 내년에는 상당한 규모로 의미 있을 것이라고 전망했다.",
+      "answer_en": "Musk said Tesla hopes to have unsupervised FSD and Robotaxi operating in roughly a dozen US states by year-end, expanding cautiously with no accidents to date. He said Robotaxi revenue will not be super material this year but should be material in a significant way next year.",
+      "answeredBy": "일론 머스크", "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "Say 개인투자자 질문", "asker_en": "Retail investor question via Say",
+      "question": "기존 하드웨어3(HW3) 차량 소유자도 무감독 FSD를 쓸 수 있게 되나.",
+      "question_en": "Will existing Hardware 3 owners get access to unsupervised FSD?",
+      "answer": "머스크는 HW3는 성능 한계로 무감독 FSD를 지원할 수 없다며, AI4 탑재 차량으로의 할인 보상판매를 제공하고 있다고 답했다. HW3용으로는 V14 경량 버전을 별도로 배포하고, 고객 차량 대상 무감독 FSD는 4분기께 안전이 검증된 지역부터 점진 배포될 것으로 내다봤다.",
+      "answer_en": "Musk said Hardware 3 cannot support unsupervised FSD due to compute limits, and Tesla is offering discounted trade-ins toward AI4 vehicles. A distilled V14 build is being shipped for Hardware 3, while unsupervised FSD in customer cars is expected to roll out gradually from around Q4 in geographies deemed safe.",
+      "answeredBy": "일론 머스크", "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "트루이스트 윌 스타인", "asker_en": "Will Stein, Truist",
+      "question": "테라팹은 이해관계자가 많은데, 자금 조달·건설·운영은 어느 주체가 맡나.",
+      "question_en": "Given the multiple stakeholders, which party funds, builds and operates the Terafab?",
+      "answer": "머스크는 테슬라가 기가 텍사스에 약 30억 달러 규모의 연구용 반도체 팹(월 수천 장 웨이퍼)을 짓고, 대규모 양산 단계는 스페이스X가 맡는 구조라고 설명했다. 인텔 14A 공정 파트너십도 확인했으며, 타네자 CFO는 연구 팹에서 로직과 메모리를 함께 다룬다고 덧붙였다.",
+      "answer_en": "Musk explained Tesla is building a roughly $3 billion research fab at Giga Texas producing a few thousand wafers per month, while SpaceX will handle the scaled-up phase. He confirmed the Intel partnership using the 14A process, and CFO Taneja added the research fab will iterate on both logic and memory.",
+      "answeredBy": "일론 머스크", "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "뉴스트리트리서치 피에르 페라구", "asker_en": "Pierre Ferragu, New Street Research",
+      "question": "하드웨어4 차주 대부분이 FSD를 결제하고 계속 쓰는 단계로 가고 있나.",
+      "question_en": "Are most Hardware 4 drivers on track to pay for and keep using FSD?",
+      "answer": "타네자 CFO는 1분기에 유료 FSD 사용자가 18만 명 순증했고, 제품이 좋아지면서 구독 해지율은 계속 낮아지고 있다고 답했다. 사용자들이 FSD로 주행하는 거리도 늘어나는 등 정착 추세가 뚜렷하다고 했다.",
+      "answer_en": "CFO Vaibhav Taneja said Tesla added 180,000 net new paying FSD users in the quarter, and subscription churn keeps declining as the product improves. He added that customers are also driving longer distances on FSD, pointing to a clear adoption trend.",
+      "answeredBy": "바이바브 타네자", "answeredBy_en": "Vaibhav Taneja"
+    },
+    {
+      "asker": "뉴스트리트리서치 피에르 페라구", "asker_en": "Pierre Ferragu, New Street Research",
+      "question": "옵티머스의 지능은 xAI의 Grok과 어떻게 결합되나 — 추론은 로봇 내부인가 외부인가.",
+      "question_en": "How does Optimus intelligence work with xAI's Grok — is inference onboard or remote?",
+      "answer": "머스크는 로봇 본체에 상당한 로컬 컴퓨팅을 탑재해 기본 작업을 자체 처리하고, Grok이 저지연 음성 상호작용과 상위 지시를 맡는 구조라고 설명했다. 연결이 끊겨도 옵티머스는 매니저와 직원의 관계처럼 수 시간 동안 감독 없이 작업을 이어갈 수 있다고 했다.",
+      "answer_en": "Musk said the robot carries substantial local compute to handle tasks onboard, while Grok provides low-latency voice interaction and higher-level direction. Even if disconnected, Optimus can keep working for hours without oversight, similar to how a manager checks in on an employee.",
+      "answeredBy": "일론 머스크", "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "바클레이스 댄 레비", "asker_en": "Dan Levy, Barclays",
+      "question": "테라팹의 주된 동기는 공급업체 대비 칩 가격 협상력 확보인가.",
+      "question_en": "Is the Terafab primarily motivated by getting better chip pricing versus suppliers?",
+      "answer": "머스크는 공급업체 압박용이 아니라 반도체 업계의 생산능력 자체가 AI·로봇 수요 확장을 따라오지 못하는 것이 문제라고 답했다. 로직과 메모리가 모두 병목이며, 테라팹은 이 능력 격차를 해소하기 위한 연구개발이라고 강조했다.",
+      "answer_en": "Musk said it is not about leverage over suppliers — the issue is that industry capacity simply cannot meet the scaling demands of AI and robots. Both logic and memory are constraints, and the Terafab is R&D aimed at closing that capability gap.",
+      "answeredBy": "일론 머스크", "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "골드만삭스 마크 딜레이니", "asker_en": "Mark Delaney, Goldman Sachs",
+      "question": "향후 어떤 신차들에 FSD가 탑재되며 라인업은 어떻게 진화하나.",
+      "question_en": "Which new vehicles will feature FSD, and how will the lineup evolve?",
+      "answer": "머스크는 사이버캡이 사실상 테슬라의 컴팩트 모델이며, 주행의 90%가 1~2인 탑승인 만큼 향후 생산 대부분이 사이버캡이 될 것이라고 답했다. 장기적으로 로드스터를 제외한 전 라인업이 자율주행 중심이 되며, 이르면 다음 달 신형 로드스터를 시연할 가능성이 있다고 밝혔다.",
+      "answer_en": "Musk said the Cybercab is effectively Tesla's compact vehicle, and since 90% of miles involve one or two occupants, most future production will be Cybercab. Long term the lineup will be almost entirely autonomous except the Roadster, which he said may be demonstrated as soon as next month.",
+      "answeredBy": "일론 머스크", "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "웰스파고 콜린 랭건", "asker_en": "Colin Langan, Wells Fargo",
+      "question": "오스틴에서 안전요원을 뺀 뒤 로보택시 안전을 어떤 핵심 지표로 측정하나.",
+      "question_en": "After removing the safety driver in Austin, what key metrics measure Robotaxi safety?",
+      "answer": "머스크는 개입·사고당 주행거리 등의 지표를 추적하며 대규모 QA 차량단을 운영 중이라고 답했다. 현재 최대 제약은 안전 자체보다 차량이 '겁을 먹고' 멈춰버리는 편의성 문제라며, 사고 난 경쟁사 차량에 길이 막혀 교차로에서 무한 대기한 사례 등을 들었다.",
+      "answer_en": "Musk said Tesla tracks metrics like miles per intervention and per accident and runs a large QA fleet. The biggest limitation today is convenience rather than core safety — the car being 'scared to move' — citing cases like Robotaxis stuck in loops behind a crashed competitor vehicle at an intersection.",
+      "answeredBy": "일론 머스크", "answeredBy_en": "Elon Musk"
+    }
+  ],
   "consensus": {
     "eps": "$0.37",
     "revenue": "$22.64B",
@@ -129,7 +202,9 @@
     { "name": "Tesla Q1 2026 Update (주주서한 PDF)", "name_en": "Tesla Q1 2026 Update (shareholder deck PDF)", "href": "https://ir.tesla.com/_flysystem/s3/sec/000162828026026551/tsla-20260422-gen.pdf" },
     { "name": "CNBC — Tesla (TSLA) Q1 2026 earnings report", "name_en": "CNBC — Tesla (TSLA) Q1 2026 earnings report", "href": "https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html" },
     { "name": "Electrek — Tesla releases Q1 2026 financial results", "name_en": "Electrek — Tesla releases Q1 2026 financial results", "href": "https://electrek.co/2026/04/22/tesla-tsla-q1-2026-financial-results/" },
-    { "name": "TIKR — Q1 어닝 비트에도 주가가 하락한 이유", "name_en": "TIKR — why the stock fell despite the Q1 beat", "href": "https://www.tikr.com/blog/tesla-q1-2026-earnings-beat-so-why-did-the-stock-fall-3-56" }
+    { "name": "TIKR — Q1 어닝 비트에도 주가가 하락한 이유", "name_en": "TIKR — why the stock fell despite the Q1 beat", "href": "https://www.tikr.com/blog/tesla-q1-2026-earnings-beat-so-why-did-the-stock-fall-3-56" },
+    { "name": "Shacknews — Q1 2026 어닝콜 전문 트랜스크립트", "name_en": "Shacknews — Q1 2026 earnings call transcript", "href": "https://www.shacknews.com/article/148805/tesla-tsla-q1-2026-earnings-call-transcript" },
+    { "name": "Investing.com — Q1 2026 어닝콜 트랜스크립트", "name_en": "Investing.com — Q1 2026 earnings call transcript", "href": "https://www.investing.com/news/transcripts/earnings-call-transcript-tesla-beats-q1-2026-eps-forecasts-stock-rises-93CH-4631008" }
   ],
   "updatedAt": "2026-07-18T16:00:00+09:00"
 }
