@@ -323,9 +323,9 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
   const { upcoming, next, dday } = up;
   const L = lang === "en"
     ? { lead: "Next", head: "Investor Calendar · Upcoming", tent: "TBD", today: "Today",
-        foot: `Quarterly dates are estimates pending Tesla's official announcement — see <a href="https://ir.tesla.com" target="_blank" rel="noopener">ir.tesla.com</a>.` }
+        foot: `✓ = officially confirmed by Tesla. Others are estimates from historical patterns — see <a href="https://ir.tesla.com" target="_blank" rel="noopener">ir.tesla.com</a>.` }
     : { lead: "다음 일정", head: "투자자 캘린더 · 향후 일정", tent: "잠정", today: "오늘",
-        foot: `분기 실적·인도 일정은 공식 발표 전 과거 패턴 기반 <b>잠정</b>치 — 확정 일정은 <a href="https://ir.tesla.com" target="_blank" rel="noopener">ir.tesla.com</a> 참조.` };
+        foot: `✓ = 테슬라 공식 확정. 그 외는 공식 발표 전 과거 패턴 기반 <b>잠정</b>치 — <a href="https://ir.tesla.com" target="_blank" rel="noopener">ir.tesla.com</a> 참조.` };
   const ddayTxt = dday === 0 ? L.today : `D-${dday}`;
   // 메인 노출 제목에서 연도(20xx) 제거 — 데이터엔 연도 유지, 화면만 간결화. en 은 title_en 우선.
   const stripYear = (t) => (t || "").replace(/\s*\b20\d{2}\b\s*/, " ").replace(/\s+/g, " ").trim();
@@ -342,8 +342,10 @@ function renderInvestorCalendar(calendar, lang = "ko", now = new Date()) {
     const dd = Math.max(0, Math.round((Date.parse(e.date + "T00:00:00Z") - todayMs) / 86400000));
     const txt = dd === 0 ? L.today : `D-${dd}`;
     const hot = e === next ? " dd--hot" : "";
+    // 공식 확정(tentative:false) 일정엔 ✓ — 잠정치와 시각적으로 구분(footer 에 범례).
+    const cfm = e.tentative === false ? ` <i class="cfm" title="${lang === "en" ? "Officially confirmed" : "공식 확정"}">✓</i>` : "";
     return `<div class="r"><span class="cd">${escapeHtml(mdOf(e.date))} <small>${escapeHtml(wdOf(e.date))}</small></span>`
-      + `<span class="ttl">${escapeHtml(evTitle(e))}</span><span class="dd${hot}">${txt}</span></div>`;
+      + `<span class="ttl">${escapeHtml(evTitle(e))}${cfm}</span><span class="dd${hot}">${txt}</span></div>`;
   }).join("\n      ");
   // Event 구조화 데이터 — 검색엔진이 투자자 일정을 이벤트로 인식 (잠정 일정은 description에 명시)
   const eventsLd = JSON.stringify({
@@ -696,7 +698,7 @@ const UI_EN = [
   // 토스형 홈(B′) 신규 문자열 — 긴 것 먼저
   ["실적·제품·FSD·일론까지, 흩어진 뉴스를 정리해 보내드립니다 · 평일 발행 · 무료", "Earnings, products, FSD and Elon — the scattered news, distilled · weekdays · free"],
   ["매일 아침 7시, 한 통의 브리핑 📨", "One briefing, every morning at 7 📨"],
-  ["잠정 · ir.tesla.com 기준", "tentative · per ir.tesla.com"],
+  ["ir.tesla.com 기준", "per ir.tesla.com"],
   ["투자자 캘린더", "Investor Calendar"],
   ["전체뉴스", "News"],
   ["구독하기", "Subscribe"],
