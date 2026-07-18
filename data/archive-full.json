@@ -1,6 +1,57 @@
 {
-  "asOf": "2026-07-18 06:09 UTC · 누적 627건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-18 09:38 UTC · 누적 629건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-18T02:26:46.000Z",
+      "title": "테슬라 FSD 누적주행 <em>120억 마일</em> 돌파 — 110억 마일 이후 약 한 달만",
+      "hotShort": "테슬라 FSD 누적주행 <em>120억 마일</em> 돌파",
+      "body": "테슬라 전세계 FSD(Supervised) 누적 주행거리가 120억 마일을 돌파했다 — 6월9일 110억 마일을 넘긴 지 약 한 달 만으로, 자율주행 신경망 학습에 쓰이는 실주행 데이터가 갈수록 빠르게 쌓이고 있음을 보여준다.",
+      "sourceName": "Tesla Owners SV (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-12-billion-miles-2026-07-18",
+      "summary": "테슬라의 FSD(Supervised) 마일 트래커가 다시 한 번 갱신됐다. 앞서 5월초 누적 100억 마일을 돌파했을 때는 일론 머스크가 예고했던 '무감독(unsupervised) 자율주행 준비'의 데이터 기준점을 넘어섰다는 점에서 주목받았는데, 이후 두 달여 만에 다시 20억 마일이 추가됐다.\n\n연간 누적 추이를 보면 증가 속도가 뚜렷하다 — 2021년 600만마일, 2022년 8000만마일, 2023년 6억7000만마일, 2024년 22억5000만마일, 2025년 42억5000만마일을 기록했고, 2026년에는 첫 50일 만에 이미 10억마일을 넘겼다. 110억마일(6월9일)에서 120억마일까지는 약 한 달 만에 도달해, 하루 평균 2700만마일 안팎의 페이스를 보이고 있다.\n\n이런 실주행 데이터 축적은 테슬라 FSD 신경망 학습의 핵심 자산이다. 다양한 도로·기상·교통 상황에서의 주행 데이터가 쌓일수록 모델의 예외 상황 대응력이 개선되는 구조로, 경쟁사 대비 테슬라가 자율주행 데이터에서 갖는 규모의 우위를 재확인시켜준다.\n\n주주 입장에서는 이 마일 트래커가 로보택시·완전자율주행 상용화 시점을 가늠하는 선행 지표 중 하나로 꼽힌다 — 데이터 축적 속도가 빨라질수록, 머스크가 강조해온 '무감독 자율주행' 목표 달성 시점도 앞당겨질 수 있다는 기대가 반영된다.",
+      "title_en": "Tesla's FSD fleet <em>tops 12 billion miles</em> driven — a month after hitting 11 billion",
+      "hotShort_en": "Tesla FSD fleet <em>tops 12 billion miles</em>",
+      "body_en": "Tesla's global FSD (Supervised) fleet has surpassed 12 billion cumulative miles driven — about a month after crossing 11 billion on June 9 — underscoring how fast real-world driving data for its self-driving neural networks keeps piling up.",
+      "summary_en": "Tesla's FSD (Supervised) mile tracker has ticked over another milestone. When the fleet first crossed 10 billion cumulative miles in early May, it drew attention because that was the data threshold Elon Musk had previously flagged as a prerequisite for \"safe unsupervised\" driving. Roughly two months later, the fleet has already added another 2 billion miles.\n\nThe year-over-year growth curve shows just how fast the pace has picked up: 6 million miles in 2021, 80 million in 2022, 670 million in 2023, 2.25 billion in 2024, and 4.25 billion in 2025 — with the fleet already topping 1 billion miles in just the first 50 days of 2026. Getting from 11 billion (June 9) to 12 billion took about a month, a run rate of roughly 27 million miles a day.\n\nThat accumulating real-world driving data is a core asset for training Tesla's FSD neural networks — more miles across varied roads, weather, and traffic scenarios means the model has more edge cases to learn from, reinforcing Tesla's scale advantage in autonomous-driving data versus rivals.\n\nFor shareholders, the mile tracker functions as a leading indicator for how close Tesla is to commercializing Robotaxi and full autonomy — the faster the data accumulates, the more it feeds the narrative that Musk's \"unsupervised FSD\" target could arrive sooner.",
+      "href": "https://x.com/teslaownersSV/status/2078305446256169129",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Tesla Owners SV",
+        "Sawyer Merritt"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-17T23:43:21.000Z",
+      "title": "테슬라, <em>공장 밖 첫 공개 세미 메가차저</em> 캘리포니아에 개장 — 6스톨·1.2MW",
+      "hotShort": "테슬라 세미, <em>첫 공장 밖 메가차저</em> 개장",
+      "body": "테슬라가 LA에서 동쪽으로 약 50마일 떨어진 캘리포니아 블루밍턴에 <em>테슬라 공장이 아닌 부지로는 처음</em>인 공개 세미 메가차저를 개장했다 — 스톨 6개가 각각 최대 1.2MW를 공급해 세미 롱레인지(500마일)를 30분 만에 60%까지 충전할 수 있어, 롱비치·LA항에서 내륙으로 향하는 물류 거점에 상용 충전 인프라가 갖춰졌다.",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "product-tesla-semi-megacharger-bloomington-2026-07-17",
+      "summary": "테슬라가 이번 주 캘리포니아 블루밍턴(18434 Valley Blvd)에 새 세미 메가차저 부지를 열었다. 남부 캘리포니아에서 가장 분주한 화물 회랑 중 하나로 꼽히는 이 지역은 롱비치·LA항에서 내륙 물류센터로 화물이 이동하는 길목이다.\n\n이 부지는 충전 스톨 6개를 갖췄고, 각 스톨은 최대 1.2메가와트(MW) 출력을 낸다 — 세미 롱레인지(주행거리 500마일) 기준 30분 안에 배터리의 60%까지 채울 수 있는 속도다. 상용 슈퍼차저 V4 대비 월등히 높은 출력으로, 장거리 화물 운송에 필요한 빠른 재충전을 겨냥한 설계다.\n\n테슬라의 메가차저 부지가 실제 가동 중인 곳은 이번 블루밍턴과 메가팩 공장 인근 캘리포니아 래스롭(Lathrop) 두 곳뿐이다. 다만 래스롭은 메가팩 출하 물류 목적이 커, 제3자 세미 고객에게 완전히 개방된 부지로는 이번 블루밍턴이 <em>테슬라 공장이 아닌 곳 첫 사례</em>다. 테슬라의 지도에는 15개 주에 걸쳐 64곳의 추가 부지가 계획돼 있으며, 텍사스(19곳)·캘리포니아(17곳) 순으로 많다.\n\n테슬라 세미의 상업화는 충전 인프라 구축 속도에 달려 있다는 평가가 많다 — 공장 밖 첫 공개 메가차저 개장은 화물 운송업체들의 '충전 불안(range anxiety)'을 낮추는 신호로, 향후 세미 양산·판매 확대에 필요한 선행 조건이 하나씩 채워지고 있음을 보여준다.",
+      "title_en": "Tesla opens its <em>first public Megacharger not located at a factory</em> in California — 6 stalls, 1.2MW",
+      "hotShort_en": "Tesla opens <em>first off-factory Megacharger</em>",
+      "body_en": "Tesla opened a public Semi Megacharger site in Bloomington, California, about 50 miles east of Los Angeles — its <em>first not located at a Tesla factory</em> — with six stalls each delivering up to 1.2MW, enough to add 60% of a Semi Long Range's 500-mile range in 30 minutes, bringing dedicated charging infrastructure to a key freight corridor from the ports of Long Beach and LA.",
+      "summary_en": "Tesla opened a new Semi Megacharger site this week in Bloomington, California (18434 Valley Blvd), sitting along one of Southern California's busiest freight corridors, where cargo moves from the Ports of Long Beach and LA to inland distribution centers.\n\nThe site has six charging stalls, each capable of up to 1.2 megawatts (MW) of peak output — enough to add 60% of a Tesla Semi Long Range's 500-mile range in just 30 minutes. That's a significantly higher output than a Supercharger V4, built for the fast turnaround long-haul trucking needs.\n\nOnly two Megacharger sites are actually live today: this new Bloomington location and one near Tesla's Megapack factory in Lathrop, California. But Lathrop is largely used for shipping Megapacks, making Bloomington Tesla's <em>first Megacharger site not tied to one of its own factories</em> and fully open to third-party Semi customers. Tesla's map shows 64 more planned locations across 15 states, led by Texas (19) and California (17).\n\nSemi's path to commercialization is widely seen as gated by charging infrastructure buildout — opening its first off-factory public Megacharger is a signal to trucking fleets on range anxiety, checking off one more prerequisite for scaling Semi production and sales.",
+      "href": "https://insideevs.com/news/789433/tesla-first-megacharger-first-location/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "InsideEVs",
+        "Not a Tesla App",
+        "Clean Trucking"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
