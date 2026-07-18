@@ -1,0 +1,102 @@
+{
+  "slug": "2026-q1",
+  "quarter": "Q1 2026",
+  "status": "live",
+  "callDate": "2026-04-22",
+  "callTimeKst": "2026-04-23T06:30:00+09:00",
+  "webcast": "https://ir.tesla.com/webcast-2026-04-22",
+  "deckUrl": "https://ir.tesla.com/_flysystem/s3/sec/000162828026026551/tsla-20260422-gen.pdf",
+  "verdict": "beat",
+  "prTitle": "테슬라, 1분기 조정 EPS $0.41로 예상 크게 상회 — 마진 5분기 만의 최고치 속 연 250억 달러 투자 예고",
+  "prTitle_en": "Tesla tops Q1 EPS estimates as margins hit five-quarter high — but flags $25B+ capex year",
+  "lead": "테슬라가 4월 22일(현지시간) 장 마감 후 2026년 1분기 실적을 발표했다. 매출은 전년 대비 16% 늘어난 224억 달러, 조정 EPS는 52% 급증한 $0.41로 LSEG 컨센서스($0.37)를 크게 웃돌았고, 총마진은 21.1%로 5분기 만의 최고치를 기록했다. 다만 콜에서 2026년 설비투자를 250억 달러 이상으로 올려 잡고 남은 분기 잉여현금흐름 적자를 예고하면서, 시간외 약 4% 상승했던 주가는 다음 날 3.56% 하락 반전했다.",
+  "lead_en": "Tesla reported Q1 2026 results after the close on April 22. Revenue rose 16% year over year to $22.4B and adjusted EPS jumped 52% to $0.41, well above the LSEG consensus of $0.37, with gross margin hitting a five-quarter high of 21.1%. But after management guided 2026 capex above $25B and flagged negative free cash flow for the rest of the year, an initial ~4% after-hours pop reversed into a 3.56% decline the next day.",
+  "kpis": [
+    { "key": "revenue", "label": "총매출", "label_en": "Total revenue", "value": "$22.4B", "consensus": "$22.64B", "vsConsensus": "-1.1%", "yoy": "+16%", "beat": false },
+    { "key": "eps", "label": "조정 EPS (non-GAAP)", "label_en": "Adjusted EPS (non-GAAP)", "value": "$0.41", "consensus": "$0.37", "vsConsensus": "+10.8%", "yoy": "+52%", "beat": true },
+    { "key": "autoRev", "label": "자동차 부문 매출", "label_en": "Automotive revenue", "value": "$16.2B", "consensus": "", "vsConsensus": "", "yoy": "+16%", "beat": true },
+    { "key": "energyStorage", "label": "에너지 저장 설치량", "label_en": "Energy storage deployed", "value": "8.8 GWh", "consensus": "", "vsConsensus": "", "yoy": "-15%", "beat": false },
+    { "key": "grossMargin", "label": "총마진", "label_en": "Gross margin", "value": "21.1%", "consensus": "", "vsConsensus": "", "yoy": "+4.8%p", "beat": true },
+    { "key": "fcf", "label": "잉여현금흐름", "label_en": "Free cash flow", "value": "$1.44B", "consensus": "", "vsConsensus": "", "yoy": "+117%", "beat": true }
+  ],
+  "segments": [
+    {
+      "title": "자동차 — 인도 35.8만 대, 마진 회복·수주잔고 2년 최고",
+      "title_en": "Automotive — 358K deliveries, margin recovery and a two-year-high backlog",
+      "body": "1분기 생산 408,386대, 인도 358,023대를 기록했고 자동차 부문 매출은 162억 달러로 16% 늘었다. 규제 크레딧 제외 자동차 총마진은 19.2%로 전분기(17.9%)보다 개선됐고, 프랑스·독일 인도가 전분기 대비 150% 이상 급증하며 분기 말 수주잔고는 2년여 만의 최고 수준에 달했다. FSD 확산에 힘입어 서비스·기타 매출도 42% 급증한 37.5억 달러를 기록했다.",
+      "body_en": "Tesla produced 408,386 vehicles and delivered 358,023 in Q1, with automotive revenue up 16% to $16.2B. Automotive gross margin ex-credits improved to 19.2% from 17.9% in Q4, deliveries in France and Germany surged over 150% quarter over quarter, and the order backlog ended the quarter at its highest level in over two years. Services and other revenue jumped 42% to $3.75B on growing FSD adoption."
+    },
+    {
+      "title": "에너지 — 설치량 8.8GWh로 급감, 마진은 39.5% 상회",
+      "title_en": "Energy — deployments drop to 8.8 GWh, but margins top 39.5%",
+      "body": "에너지 저장 설치량은 8.8GWh로 직전 분기 사상 최대치(14.2GWh) 대비 38% 급감했고, 에너지 부문 매출은 24.1억 달러로 전년 대비 12% 줄었다. 다만 저장 부문 총마진은 약 2.5억 달러의 일회성 관세 효과를 포함해 39.5%를 넘겼고, 회사는 2026년 연간 설치량이 2025년을 웃돌 것이라는 전망을 유지했다.",
+      "body_en": "Energy storage deployments fell 38% sequentially to 8.8 GWh from Q4's record 14.2 GWh, and energy revenue declined 12% year over year to $2.41B. Storage gross margin still exceeded 39.5%, helped by roughly $250M in one-time tariff benefits, and Tesla maintained that 2026 deployments should exceed 2025."
+    },
+    {
+      "title": "FSD·로보택시·옵티머스 — 무감독 로보택시 3개 도시로, 사이버캡·세미 생산 개시",
+      "title_en": "FSD, Robotaxi and Optimus — unsupervised Robotaxi in three cities; Cybercab and Semi production begins",
+      "body": "무감독 로보택시 서비스가 오스틴에서 댈러스·휴스턴으로 확대돼 V14.3 소프트웨어로 운영 중이며, FSD 유료 구독자는 약 130만 명에 달했다. 분기 중 기가 텍사스에서 사이버캡과 세미 생산이 시작됐고, FSD(감독형) v4가 네덜란드 승인을 받았다. 옵티머스는 프리몬트 생산라인 설치가 진행 중이며 기가 텍사스 제2공장은 2027년 여름 가동을 목표로 한다.",
+      "body_en": "Unsupervised Robotaxi service expanded from Austin to Dallas and Houston running V14.3 software, and paid FSD subscriptions reached roughly 1.3 million. Cybercab and Semi production started at Giga Texas during the quarter, and FSD (Supervised) v4 won approval in the Netherlands. An Optimus production line is being installed in Fremont, with a second factory at Giga Texas targeting around summer 2027."
+    }
+  ],
+  "quotes": [
+    {
+      "who": "일론 머스크", "who_en": "Elon Musk",
+      "topic": "옵티머스", "topic_en": "Optimus",
+      "text": "옵티머스는 테슬라 역사상 최대 제품일 뿐 아니라, 아마 역사상 가장 큰 제품이 될 것이라고 생각한다.",
+      "text_en": "I think Optimus will be our biggest product, not just Tesla's biggest product ever, but probably the biggest product ever."
+    },
+    {
+      "who": "일론 머스크", "who_en": "Elon Musk",
+      "topic": "옵티머스 생산 속도", "topic_en": "Optimus production rate",
+      "text": "올해 옵티머스 생산 속도가 어떻게 될지는 모른다. 예측하는 것이 불가능하다.",
+      "text_en": "I don't know what the production rate of Optimus will be this year. It is impossible to predict."
+    },
+    {
+      "who": "CFO 바이바브 타네자", "who_en": "CFO Vaibhav Taneja",
+      "topic": "설비투자", "topic_en": "Capital expenditures",
+      "text": "2026년 설비투자는 250억 달러를 넘을 것으로 예상한다. 이러한 투자는 매우 자본 효율적인 방식으로 집행하겠다.",
+      "text_en": "Our current expectation for 2026 is over $25 billion of capex. We'll make such investments in a very capital-efficient manner."
+    },
+    {
+      "who": "테슬라 경영진", "who_en": "Tesla management",
+      "topic": "로보택시 매출", "topic_en": "Robotaxi revenue",
+      "text": "로보택시 매출은 2026년에는 유의미한 수준이 되지 않을 것이다.",
+      "text_en": "Robotaxi revenue will not be material in 2026."
+    }
+  ],
+  "guidance": [
+    { "text": "2026년 설비투자를 250억 달러 이상으로 상향했다(기존 200억 달러 안팎). 6개 공장 가동 준비, AI 학습 컴퓨트, 사이버캡·세미 램프업, 프리몬트 옵티머스 라인, 오스틴 반도체 연구 팹에 투입된다.", "text_en": "2026 capex guidance was raised to over $25B (from around $20B), funding six factories moving toward operation, AI training compute, Cybercab and Semi ramps, the Fremont Optimus line, and a semiconductor research fab in Austin." },
+    { "text": "1분기 잉여현금흐름은 14.4억 달러 흑자였지만, 남은 세 분기는 투자 확대로 적자가 예상된다고 밝혔다.", "text_en": "Q1 free cash flow was a positive $1.44B, but management guided negative free cash flow for the remaining three quarters of 2026 on elevated investment." },
+    { "text": "로보택시 매출은 2026년 중 유의미하지 않을 전망이며, 연말까지 미국 12개가량의 주로 서비스 확대를 목표로 한다.", "text_en": "Robotaxi revenue is not expected to be material in 2026, with service targeted to reach roughly a dozen U.S. states by year-end." },
+    { "text": "옵티머스는 프리몬트 라인에서 2026년 7월 말~8월경 초기 생산을 목표로 하고, 기가 텍사스 제2공장은 2027년 여름 가동을 겨냥한다.", "text_en": "Optimus targets initial production from the Fremont line around late July or August 2026, with a second factory at Giga Texas aiming for around summer 2027." },
+    { "text": "에너지 저장은 1분기 급감에도 2026년 연간 설치량이 2025년을 웃돌 것이라는 전망을 유지했다.", "text_en": "Despite the Q1 dip, Tesla maintained that full-year 2026 energy storage deployments should exceed 2025." }
+  ],
+  "marketReaction": {
+    "afterHours": "+4%",
+    "nextClose": "-3.56%",
+    "body": "EPS 서프라이즈에 시간외 주가는 약 4% 상승했지만, 콜에서 나온 250억 달러 이상의 설비투자 계획과 남은 분기 잉여현금흐름 적자 전망이 분위기를 뒤집었다. 다음 날인 4월 23일 주가는 3.56% 하락한 $373.60에 마감했다.",
+    "body_en": "Shares initially rose about 4% after hours on the EPS beat, but sentiment flipped when the call revealed a $25B+ capex plan and negative free cash flow guidance for the rest of the year. The stock closed down 3.56% at $373.60 on April 23."
+  },
+  "watchPoints": [
+    { "text": "규제 크레딧 제외 자동차 총마진 — 약 5만 대 재고 부담 속 가격·마진 방어 여부가 최대 관심사였다.", "text_en": "Automotive gross margin ex-credits — whether pricing and margins could hold amid a roughly 50,000-unit inventory overhang." },
+    { "text": "에너지 저장 둔화 — 4분기 사상 최대치(14.2GWh)에서 급감한 설치량에 대한 경영진의 설명이 주목받았다.", "text_en": "The energy storage slowdown — management's explanation for deployments falling sharply from Q4's record 14.2 GWh." },
+    { "text": "2026년 설비투자 가이던스 — 200억 달러 이상 기조 유지 여부와 잉여현금흐름 궤적.", "text_en": "2026 capex guidance — whether the $20B+ plan would hold, and the resulting free cash flow trajectory." },
+    { "text": "로보택시 운영 데이터와 확장 속도, FSD 유료 구독자 증가세.", "text_en": "Robotaxi operational data and expansion pace, plus the growth rate of paid FSD subscriptions." }
+  ],
+  "preQuestions": [],
+  "consensus": {
+    "eps": "$0.37",
+    "revenue": "$22.64B",
+    "note": "LSEG 기준. 집계사별 편차가 컸다 — 매출은 LSEG 컨센서스($22.64B)에는 소폭 못 미쳤지만 다수 집계치($22.2~22.4B)는 웃돌았고, EPS $0.41은 모든 집계 기준으로 두 자릿수 비트였다.",
+    "note_en": "LSEG consensus. Estimates varied by provider — revenue slightly missed the LSEG figure ($22.64B) but topped most other tallies ($22.2-22.4B), while EPS of $0.41 was a double-digit beat on every count."
+  },
+  "sources": [
+    { "name": "Tesla IR — Q1 2026 실적 발표 보도자료", "href": "https://ir.tesla.com/press-release/tesla-releases-first-quarter-2026-financial-results" },
+    { "name": "Tesla Q1 2026 Update (주주서한 PDF)", "href": "https://ir.tesla.com/_flysystem/s3/sec/000162828026026551/tsla-20260422-gen.pdf" },
+    { "name": "CNBC — Tesla (TSLA) Q1 2026 earnings report", "href": "https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html" },
+    { "name": "Electrek — Tesla releases Q1 2026 financial results", "href": "https://electrek.co/2026/04/22/tesla-tsla-q1-2026-financial-results/" },
+    { "name": "TIKR — Q1 어닝 비트에도 주가가 하락한 이유", "href": "https://www.tikr.com/blog/tesla-q1-2026-earnings-beat-so-why-did-the-stock-fall-3-56" }
+  ],
+  "updatedAt": "2026-07-18T16:00:00+09:00"
+}

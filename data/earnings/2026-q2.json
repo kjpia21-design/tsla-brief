@@ -1,7 +1,7 @@
 {
   "slug": "2026-q2",
   "quarter": "Q2 2026",
-  "status": "draft",
+  "status": "upcoming",
   "callDate": "2026-07-22",
   "callTimeKst": "2026-07-23T06:30:00+09:00",
   "webcast": "https://ir.tesla.com",
@@ -9,15 +9,96 @@
   "verdict": "",
   "prTitle": "",
   "prTitle_en": "",
-  "lead": "",
-  "lead_en": "",
+  "lead": "테슬라가 미국 시간 7월 22일 장 마감 후(한국시간 23일 오전 6시 30분) 2026년 2분기 실적을 발표한다. 인도량 480,126대와 에너지 저장 13.5GWh로 '역대 최고 2분기'를 이미 확인시킨 만큼, 이번 콜의 초점은 물량이 마진과 현금흐름으로 이어졌는지, 그리고 3개 분기 연속 가이던스를 놓친 로보택시와 옵티머스 로드맵의 신뢰 회복 여부다. Say 사전 질문 약 300건의 무게중심도 '비전'이 아니라 '왜 일정대로 안 되나'로 옮겨갔다.",
+  "lead_en": "Tesla reports Q2 2026 results after the U.S. close on July 22 (6:30 a.m. KST on July 23). With a record 480,126 deliveries and 13.5 GWh of energy storage already confirming its best-ever second quarter, the call comes down to whether volume translated into margins and cash flow — and whether Tesla can restore credibility on a robotaxi program that has missed guidance three quarters running, plus the Optimus roadmap. The center of gravity of roughly 300 pre-submitted Say questions has shifted from 'the vision' to 'why is none of it on schedule.'",
   "kpis": [],
   "segments": [],
   "quotes": [],
   "guidance": [],
   "marketReaction": { "afterHours": "", "nextClose": "", "body": "", "body_en": "" },
-  "watchPoints": [],
-  "consensus": { "eps": "", "revenue": "", "note": "", "note_en": "" },
-  "sources": [ { "name": "Tesla IR", "href": "https://ir.tesla.com" } ],
-  "updatedAt": ""
+  "watchPoints": [
+    {
+      "text": "인도량 서프라이즈의 손익 반영 — 7월 2일 발표된 2분기 인도량은 480,126대로 컨센서스(약 40만6천 대)를 7만4천 대 이상 웃돌며 역대 최고 2분기를 기록(+25% YoY). 다만 생산은 451,758대로 인도를 밑돌아 재고 소진 성격이 있어, 물량 급증이 매출총이익률로 얼마나 이어졌는지가 핵심이다.",
+      "text_en": "How the delivery beat flows to the P&L — Q2 deliveries of 480,126 (announced July 2) topped consensus of roughly 406,000 by more than 74,000 units, the best Q2 ever (+25% YoY). But production of 451,758 trailed deliveries, implying inventory drawdown — the key question is how much of the volume surge reached gross margin."
+    },
+    {
+      "text": "로보택시 확장 속도 — 오스틴에서 지오펜스를 메트로 전역으로 넓혔지만 가동 차량은 20대 안팎에 그치고, 댈러스·휴스턴 등 신도시는 한 자릿수 차량으로 정체됐다. '2026년 상반기 7개 도시' 목표가 미달된 가운데, 일론 머스크가 언급한 FSD v15 재작성 이후의 본격 램프 일정이 최대 관전 포인트다.",
+      "text_en": "Robotaxi expansion pace — Tesla widened the Austin geofence to the entire metro but runs only around 20 active vehicles, while new cities like Dallas and Houston remain stuck at single-digit fleets. With the 'seven cities in 1H26' target missed, the timeline for a real ramp after the FSD v15 rewrite Elon Musk has cited is the biggest watch item."
+    },
+    {
+      "text": "에너지 저장 신기록 — 2분기 13.5GWh를 배치해 전 분기 대비 53%, 전년 대비 40% 성장하며 예상치(12.66GWh)를 상회했다. 메가팩·파워월 수요가 이끄는 에너지 부문이 자동차 마진 압박을 상쇄하는 이익 기둥으로 자리 잡는지 확인 대상이다.",
+      "text_en": "Record energy storage — 13.5 GWh deployed in Q2, up 53% sequentially and 40% year over year, beating the 12.66 GWh estimate. Whether the Megapack- and Powerwall-driven energy business cements itself as a profit pillar offsetting automotive margin pressure is in focus."
+    },
+    {
+      "text": "자동차 마진과 현금흐름 — 관세 부담과 미국 EV 세액공제 종료 이후 가격·인센티브 정책 속 자동차 매출은 약 $17B(+2% YoY)로 정체가 예상된다. 여기에 2026년 설비투자(capex)가 $25B로 늘며 경영진이 잉여현금흐름의 마이너스 전환 가능성을 경고한 상태라, 마진 방어와 현금 소진 속도가 함께 검증된다.",
+      "text_en": "Automotive margins and cash flow — with tariff costs and post-EV-tax-credit pricing and incentives, automotive revenue is seen roughly flat at about $17B (+2% YoY). With 2026 capex raised to $25B and management warning free cash flow could turn negative, both margin defense and the pace of cash burn are on trial."
+    },
+    {
+      "text": "옵티머스 Gen 3 — 생산 램프 현황, 자사 공장 투입, 2027년 외부 판매 시점·물량이 사전 질문 최상위에 올라 있어 구체적 로드맵 제시 여부가 주가 반응을 좌우할 수 있다.",
+      "text_en": "Optimus Gen 3 — production ramp status, in-house factory deployment, and the timing and volume of external sales in 2027 top the pre-submitted questions, so how concrete a roadmap Tesla offers could drive the stock reaction."
+    },
+    {
+      "text": "일론 머스크 리스크와 지배구조 — 보상 패키지 마일스톤 이행, 인수·합병 검토설, 그리고 Say 질문 플랫폼에서 대형 주주가 주식 수 가중 투표로 우호적 질문을 상위에 올렸다는 논란까지, 거버넌스 이슈가 콜 분위기를 흔들 변수다.",
+      "text_en": "Elon Musk risk and governance — from pay-package milestones and acquisition/merger chatter to the controversy over a large holder using share-weighted votes to push friendly questions to the top of the Say queue, governance issues could color the tone of the call."
+    }
+  ],
+  "preQuestions": [
+    {
+      "who": "개인투자자 (Say · 추천 약 480만 주)",
+      "who_en": "Retail investor (Say · ~4.8M shares)",
+      "text": "옵티머스 Gen 3의 생산 램프 현황과 공장 초기 투입, 2027년 외부 판매 시점·물량은 어떻게 되나. 2027년 말까지 옵티머스가 수행할 수 있는 작업은 무엇인가.",
+      "text_en": "What's the current status of the Optimus Gen 3 production ramp, initial deployment in factories, and the external sales timeline and volume for 2027? What tasks can we expect Optimus to perform by end of 2027?"
+    },
+    {
+      "who": "개인투자자 (Say · 추천 약 480만 주)",
+      "who_en": "Retail investor (Say · ~4.8M shares)",
+      "text": "로보택시 운영을 더 빠르게 확장하는 데 주된 제약은 무엇이며, 사이버캡 생산 일정과는 어떻게 맞물리나.",
+      "text_en": "What are the main constraints to expanding robotaxi operations faster, and how do you see that lining up with Cybercab production?"
+    },
+    {
+      "who": "개인투자자 (Say · 추천 약 97.5만 주)",
+      "who_en": "Retail investor (Say · ~975K shares)",
+      "text": "테슬라는 '2025년 말 미국 50% 커버리지'부터 최근 '상반기 7개 신규 도시'까지 3개 분기 연속 로보택시 단기 가이던스를 지키지 못했다. 스스로 세운 단기 목표 달성을 가로막는 요인은 무엇인가.",
+      "text_en": "Tesla has missed short-term robotaxi guidance three earnings reports in a row — from 50% coverage of the USA by end of 2025 to, most recently, seven new cities in 1H26. What is keeping Tesla from accomplishing these short-term goals it set for itself?"
+    },
+    {
+      "who": "개인투자자 (Say 상위권)",
+      "who_en": "Retail investor (top-ranked on Say)",
+      "text": "HW3 차량이 비지도 FSD를 달성할 수 없다면, 환불 또는 하드웨어 업그레이드 계획과 구체적 일정은 무엇인가.",
+      "text_en": "Given Hardware 3's inability to achieve unsupervised FSD, what is the refund or hardware-upgrade plan and its timeline?"
+    },
+    {
+      "who": "개인투자자 (Say 상위권)",
+      "who_en": "Retail investor (top-ranked on Say)",
+      "text": "장기 보유 개인주주 보상 차원에서, 어떤 인수·합병 제안이든 검토하기 전에 일론 머스크 보상 패키지 마일스톤의 절반 이상을 먼저 달성하겠다고 약속할 수 있나.",
+      "text_en": "To reward long-term retail shareholders for their loyalty, will you commit to achieving at least half the milestones in Elon Musk's pay package before considering any offers to acquire or merge the company?"
+    },
+    {
+      "who": "개인투자자 (Say 상위권)",
+      "who_en": "Retail investor (top-ranked on Say)",
+      "text": "포인트-투-포인트 서몬 기능을 포함한 비지도 FSD의 일반 소비자 제공 시점은 언제로 보나.",
+      "text_en": "What is the expected timeline for unsupervised FSD with point-to-point summon capability for consumers?"
+    },
+    {
+      "who": "언론·애널리스트 주목",
+      "who_en": "Press and analyst focus",
+      "text": "사이버캡의 유료 고객 탑승 개시 시점과 비지도 운행 마일스톤, 로보택시·사이버캡 플릿 목표와 매출 기여 전망 — 아울러 Say 플랫폼에서 대형 주주의 주식 수 가중 투표로 우호적 질문이 상위에 배치됐다는 논란도 조명받고 있다.",
+      "text_en": "Timelines for Cybercab customer rides and unsupervised-operation milestones, fleet targets and revenue contribution from robotaxi/Cybercab — plus scrutiny of the controversy over a large shareholder's share-weighted votes pushing friendly questions to the top of the Say queue."
+    }
+  ],
+  "consensus": {
+    "eps": "$0.55",
+    "revenue": "$27.6B",
+    "note": "테슬라 IR이 취합해 공개한 23개 기관(바클레이스·BofA·JP모건·모건스탠리 등) 컨센서스 기준 조정 EPS $0.55, 총매출 $27.58B — 전년 동기 $0.52·$25.5B 대비 증가. Zacks 컨센서스는 EPS $0.47·매출 $24.7B로 집계 기관별 편차가 있다(7월 중순 기준).",
+    "note_en": "Per the company-compiled consensus of 23 firms (Barclays, BofA, JPMorgan, Morgan Stanley and others) published via Tesla IR, adjusted EPS of $0.55 on revenue of $27.58B — up from $0.52 and $25.5B a year ago. The Zacks consensus sits lower at $0.47 EPS and $24.7B revenue, reflecting spread across providers (as of mid-July)."
+  },
+  "sources": [
+    { "name": "Tesla IR (웹캐스트·실적 공지)", "href": "https://ir.tesla.com" },
+    { "name": "Say — Tesla 주주 질문 페이지", "href": "https://app.say.com/tesla" },
+    { "name": "Not a Tesla App — Q2 2026 애널리스트 컨센서스", "href": "https://www.notateslaapp.com/news/4458/tesla-releases-q2-2026-earnings-estimates-from-analysts" },
+    { "name": "Electrek — Q2 2026 주주 사전 질문 분석", "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/" },
+    { "name": "Benzinga — 상위 투자자 질문 정리", "href": "https://www.benzinga.com/markets/tech/26/07/60488913/tesla-q2-earnings-elon-musks-pay-package-cybercab-and-optimus-lead-top-investor-questions" },
+    { "name": "CNBC — Q2 2026 인도·생산 실적", "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html" }
+  ],
+  "updatedAt": "2026-07-18T16:00:00+09:00"
 }

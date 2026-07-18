@@ -104,7 +104,7 @@ JP에게 친근한 존댓말로 답해주세요.
 3. **HOT 박스** — hot 점수 top 5 랭킹 (회색 박스 `--hotbg:#e9ebef` — 블랙→회색 JP 요청으로 변경, CLAUDE.md 옛 기술 주의). 어닝 시즌엔 리스트 위에 **EARNINGS 핀**(레드 틴트 행) 노출
 4. **최신 뉴스** — 카테고리 필터 칩(전체/주가·실적/제품/FSD·로보택시/일론) + archive 상위 10건 단일 컬럼 피드 + "뉴스 전체보기" → `news.html`
 5. **투자자 캘린더** — 카드형 행(날짜+요일 | 이벤트 | D-day 배지, 최근접 빨강 강조)
-6. **뉴스레터 CTA** — 블루 그라데이션 카드 (PIPA 동의 체크 + /api/subscribe 유지)
+6. **어닝콜 CTA 카드** (2026-07-18, 옛 뉴스레터 자리) — 레드 그라데이션, 최신 발행(비draft) 어닝 페이지로 상시 링크 (`renderEarningsCta`, BLOCK:EARNINGS_CTA). 뉴스레터 폼·구독 JS 는 홈에서 제거됨(/api/subscribe 백엔드는 잔존)
 7. **유튜브 카드** + **푸터**(소개/개인정보/문의) + **하단 탭바**(홈/전체뉴스/캘린더/유튜브)
 
 - 토큰: 라이트 `--bg:#f2f4f6` + 화이트 카드. **등락색 로케일**: KO 한국식(상승 빨강 `#f04452`/하락 파랑 `#3182f6`) ↔ EN 미국식(초록/빨강) — `langFinalize`가 CSS 토큰 한 줄 치환
@@ -116,7 +116,7 @@ JP에게 친근한 존댓말로 답해주세요.
 - `news.html` — archive 전체 (최대 50장)
 - `articles/<slug>.html` — 카드 상세
 - `privacy.html` — 개인정보처리방침 (PIPA, 라이트 톤)
-- `earnings/<slug>.html` — **어닝콜 특별 페이지** (2026-07-18 신설). 데이터: `data/earnings/<slug>.json` 상태머신 `draft`(출력 0)→`upcoming`(프리뷰+D-N 핀)→`live`(전체+발표 후 7일 핀, 핀만 자동 만료·페이지 영구). 템플릿 `earnings-template.html`, 렌더 `renderEarningsPage()`. 분기마다 json 만 새로 만들면 재사용. Q2 2026: 7/23 09:00 KST 일회성 scheduled task 가 조사·발행
+- `earnings/<slug>.html` — **어닝콜 특별 페이지** (2026-07-18 신설). 데이터: `data/earnings/<slug>.json` 상태머신 `draft`(출력 0)→`upcoming`(프리뷰+D-N 핀)→`live`(전체+발표 후 7일 핀, 핀만 자동 만료·페이지 영구). 템플릿 `earnings-template.html`, 렌더 `renderEarningsPage()`. 분기마다 json 만 새로 만들면 재사용. `preQuestions[]` 필드 = Say 투자자·언론 사전 질문(upcoming/live 공통 노출). 현재: `2026-q1`(live·발행), `2026-q2`(upcoming·프리뷰 발행 — 7/23 09:00 KST 일회성 scheduled task 가 live 전환)
 
 ## 파일 구조
 

@@ -192,22 +192,13 @@
   .calnote{font-size:10.5px;color:var(--ink-mute);padding:7px 24px 0;line-height:1.6}
   .calnote a{color:var(--ink-mid)}
 
-  /* ── 뉴스레터 CTA ── */
-  .cta{margin:16px 16px 0;background:linear-gradient(135deg,#3182f6,#1b64da);border-radius:20px;padding:22px;color:#fff}
-  .cta h2{font-size:17px;font-weight:800}
-  .cta .lead{font-size:12.5px;opacity:.88;margin:4px 0 14px;line-height:1.55}
-  .nl__row{display:flex;gap:8px}
-  .nl__row input{flex:1;min-width:0;border:0;border-radius:12px;padding:13px 14px;font:600 14px "Pretendard Variable",Pretendard,sans-serif;background:rgba(255,255,255,.97);color:var(--ink)}
-  .nl__row button{border:0;border-radius:12px;background:#0A0A0B;color:#fff;font:800 14px "Pretendard Variable",Pretendard,sans-serif;padding:13px 17px;cursor:pointer;white-space:nowrap}
-  .nl__hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
-  .nl__consent{display:flex;align-items:flex-start;gap:7px;font-size:10.5px;opacity:.85;margin-top:10px;line-height:1.5;cursor:pointer}
-  .nl__consent input{margin-top:2px;accent-color:#fff}
-  .nl__consent a{color:#fff}
-  .nl__status{font-size:12px;font-weight:700;margin-top:8px;min-height:1em}
-  .nl__status.is-ok{color:#D9F99D}
-  .nl__status.is-err{color:#FECACA}
-  .nl__sample{font-size:10.5px;opacity:.75;margin-top:8px}
-  .nl__sample a{color:#fff}
+  /* ── 어닝콜 특별 페이지 CTA (옛 뉴스레터 자리) ── */
+  .ea-cta{margin:16px 16px 0;background:linear-gradient(135deg,#E31937,#A30E25);border-radius:20px;padding:19px 20px;display:flex;align-items:center;gap:12px;color:#fff;text-decoration:none}
+  .ea-cta__body{flex:1;min-width:0;display:flex;flex-direction:column;gap:3px}
+  .ea-cta__badge{align-self:flex-start;font-size:9.5px;font-weight:800;letter-spacing:.14em;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.28);padding:2.5px 8px;border-radius:6px;margin-bottom:3px}
+  .ea-cta__title{font-size:16px;font-weight:800;letter-spacing:-.01em}
+  .ea-cta__sub{font-size:11.5px;font-weight:600;opacity:.85;line-height:1.5}
+  .ea-cta__arrow{font-weight:800;font-size:16px;opacity:.9}
 
   /* ── 유튜브 카드 ── */
   .yt-cta{margin:12px 16px 0;background:var(--card);border-radius:20px;padding:15px 20px;display:flex;align-items:center;gap:12px;text-decoration:none;box-shadow:0 1px 3px rgba(0,0,0,.04)}
@@ -265,7 +256,7 @@
     .hot-news{grid-area:ghot;position:sticky;top:81px;margin:0}
     .cats{grid-area:gfeed;background:#fff;border:1px solid var(--line-mute);border-radius:20px;padding-top:4px}
     #calendar{grid-area:gcal;background:#fff;border:1px solid var(--line-mute);border-radius:20px;margin-bottom:22px}
-    #newsletter{grid-area:gnl;margin-bottom:22px}
+    #earnings-cta{grid-area:gnl;margin:0 0 22px}
     .yt-cta{grid-area:gyt}
     footer{grid-area:gfoot;padding-bottom:30px}
     .tabbar{display:none}
@@ -382,24 +373,8 @@
   <!-- BLOCK:INVESTOR_CAL --><!-- /BLOCK:INVESTOR_CAL -->
 </section>
 
-<!-- ============ 뉴스레터 CTA ============ -->
-<section id="newsletter">
-  <form class="cta" id="subscribe-form" onsubmit="return tslaSubscribe(event)">
-    <h2>매일 아침 7시, 한 통의 브리핑 📨</h2>
-    <p class="lead">실적·제품·FSD·일론까지, 흩어진 뉴스를 정리해 보내드립니다 · 평일 발행 · 무료</p>
-    <div class="nl__row">
-      <input type="email" id="subscribe-email" placeholder="이메일 주소" required aria-label="이메일 주소"/>
-      <button type="submit">구독하기</button>
-    </div>
-    <input type="text" class="nl__hp" id="subscribe-hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
-    <label class="nl__consent">
-      <input type="checkbox" id="subscribe-consent" required />
-      <span><strong>(필수)</strong> 이메일 수집·이용에 동의합니다 · <a href="privacy.html" target="_blank" rel="noopener">개인정보처리방침 보기</a></span>
-    </label>
-    <p class="nl__status" id="subscribe-status" role="status" aria-live="polite"></p>
-    <p class="nl__sample"><a href="assets/sample-newsletter.pdf" target="_blank" rel="noopener">샘플 뉴스레터 보기 (PDF)</a></p>
-  </form>
-</section>
+<!-- ============ 어닝콜 특별 페이지 CTA (옛 뉴스레터 자리 — 빌드타임 렌더) ============ -->
+<!-- BLOCK:EARNINGS_CTA --><!-- /BLOCK:EARNINGS_CTA -->
 
 <!-- ============ 유튜브 ============ -->
 <a class="yt-cta" href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener" aria-label="유튜브 채널 바로가기">
@@ -436,54 +411,6 @@
 </nav>
 
 </div><!-- /.page -->
-
-<script>
-// 뉴스레터 구독 폼 제출 (개인정보 보호법: 동의 체크 강제)
-function tslaSubscribe(e){
-  e.preventDefault();
-  var f = e.currentTarget;
-  var consent = f.querySelector('#subscribe-consent');
-  var emailEl = f.querySelector('#subscribe-email');
-  var btn = f.querySelector('button[type=submit]');
-  var status = f.querySelector('#subscribe-status');
-  var hp = f.querySelector('#subscribe-hp');
-
-  function show(msg, ok){ status.textContent = msg; status.className = 'nl__status ' + (ok ? 'is-ok' : 'is-err'); }
-
-  if (consent && !consent.checked){
-    show('개인정보 수집·이용에 동의해 주세요.', false);
-    consent.focus();
-    return false;
-  }
-
-  var orig = btn.textContent;
-  btn.disabled = true; btn.textContent = '신청 중…';
-  fetch('/api/subscribe', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      email: (emailEl.value || '').trim(),
-      lang: 'ko',
-      consent: true,
-      hp: hp ? hp.value : ''
-    })
-  }).then(function(res){
-    return res.json().catch(function(){ return {}; }).then(function(data){ return { ok: res.ok, data: data }; });
-  }).then(function(r){
-    if (r.ok && r.data.ok){
-      show(r.data.dup ? '이미 구독 중인 이메일이에요. 곧 브리핑을 받아보세요.' : '구독 신청 완료! 첫 브리핑을 기대해 주세요.', true);
-      f.reset();
-    } else {
-      show((r.data && r.data.error) || '잠시 후 다시 시도해 주세요.', false);
-    }
-  }).catch(function(){
-    show('네트워크 오류입니다. 잠시 후 다시 시도해 주세요.', false);
-  }).finally(function(){
-    btn.disabled = false; btn.textContent = orig;
-  });
-  return false;
-}
-</script>
 
 <script>
 // ============ 동적 시각 갱신 ============

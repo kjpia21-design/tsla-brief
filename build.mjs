@@ -1173,6 +1173,27 @@ function renderEaWatch(watchPoints, lang, status) {
   </section>`;
 }
 
+// preQuestions: [{who,who_en,text,text_en}] — Say 플랫폼 투자자 상위 추천 질문 + 언론·애널리스트 주목 질문.
+//  upcoming/live 공통 노출(발표 전 제출된 질문은 발표 후에도 회고 가치가 있음).
+function renderEaPreQuestions(preQuestions, lang) {
+  const items = (Array.isArray(preQuestions) ? preQuestions : []).filter((q) => q && (q.text || q.text_en));
+  if (!items.length) return "";
+  const heading = lang === "en" ? "Investor & Press Questions" : "투자자·언론 사전 질문";
+  const blocks = items.map((q, i) => {
+    const text = escapeHtml((lang === "en" ? (q.text_en || q.text) : q.text) || "");
+    const who = (lang === "en" ? (q.who_en || q.who) : q.who) || "";
+    return `<div class="ea-q">
+        <span class="ea-q__n">Q${i + 1}</span>
+        <p class="ea-q__text">${text}</p>
+        ${who ? `<span class="ea-q__who">${escapeHtml(who)}</span>` : ""}
+      </div>`;
+  }).join("\n      ");
+  return `<section class="ea-sec ea-questions">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    ${blocks}
+  </section>`;
+}
+
 // consensus: { eps, revenue, note, note_en } — upcoming 프리뷰용(라이브 전환 후에도 값이 남아있으면 계속 표시).
 function renderEaConsensus(consensus, lang) {
   if (!consensus) return "";
@@ -1265,8 +1286,9 @@ function renderEarningsPage(template, data, lang = "ko", now = new Date()) {
   const guidanceHtml = status === "live" ? renderEaGuidance(data.guidance, lang) : "";
   const marketHtml   = status === "live" ? renderEaMarket(data.marketReaction, lang) : "";
 
-  // 두 상태 공통(데이터 있으면 노출) — 관전포인트·컨센서스·소스/webcast
+  // 두 상태 공통(데이터 있으면 노출) — 관전포인트·사전질문·컨센서스·소스/webcast
   const watchHtml     = renderEaWatch(data.watchPoints, lang, status);
+  const questionsHtml = renderEaPreQuestions(data.preQuestions, lang);
   const consensusHtml = renderEaConsensus(data.consensus, lang);
   const sourcesHtml   = renderEaSources(data, lang);
 
@@ -1299,6 +1321,7 @@ function renderEarningsPage(template, data, lang = "ko", now = new Date()) {
   out = replaceBlock(out, "EA_GUIDANCE",  guidanceHtml, opts);
   out = replaceBlock(out, "EA_MARKET",    marketHtml, opts);
   out = replaceBlock(out, "EA_WATCH",     watchHtml, opts);
+  out = replaceBlock(out, "EA_QUESTIONS", questionsHtml, opts);
   out = replaceBlock(out, "EA_CONSENSUS", consensusHtml, opts);
   out = replaceBlock(out, "EA_SOURCES",   sourcesHtml, opts);
   return out;
@@ -1352,6 +1375,36 @@ function renderEarningsPin(data, lang = "ko", now = new Date()) {
     return `<a class="hot-pin" href="${escapeHtml(href)}"><span class="hot-pin__badge">EARNINGS</span><span class="hot-pin__txt">${escapeHtml(phrase)}</span></a>`;
   }
   return "";
+}
+
+/**
+ * 홈 뉴스레터 자리(gnl 그리드 영역) 어닝콜 링크 카드 — 최신 발행(비draft) 어닝 페이지로 상시 연결.
+ *  핀(renderEarningsPin)과 달리 만료 없음(페이지는 영구 유지되므로 카드도 상시).
+ *  발행된 어닝 페이지가 하나도 없으면 카드 자체 미출력(깨진 링크 방지).
+ */
+function renderEarningsCta(data, lang = "ko", now = new Date()) {
+  if (!data || !data.slug) return "";
+  const QN = (data.quarter || "").trim() || "";
+  const href = `earnings/${data.slug}.html`;
+  let title, sub;
+  if (data.status === "upcoming") {
+    const dday = Math.max(0, ddayForDate(data.callDate, now) ?? 0);
+    const ddayTxt = dday === 0 ? (lang === "en" ? "today" : "오늘") : `D-${dday}`;
+    title = lang === "en" ? `${QN} Earnings Call — ${ddayTxt}` : `${QN} 어닝콜 ${ddayTxt}`;
+    sub = lang === "en" ? "Preview — what to watch · consensus · investor questions" : "프리뷰 — 관전 포인트 · 컨센서스 · 투자자 사전 질문";
+  } else {
+    title = lang === "en" ? `${QN} Earnings — full breakdown` : `${QN} 실적 특별 페이지`;
+    sub = lang === "en" ? "Numbers · quotes · guidance, all in one page" : "지표 · 발언 · 가이던스 총정리";
+  }
+  const label = lang === "en" ? "Earnings special page" : "어닝콜 특별 페이지";
+  return `<a class="ea-cta" id="earnings-cta" href="${escapeHtml(href)}" aria-label="${escapeHtml(label)}">
+  <span class="ea-cta__body">
+    <span class="ea-cta__badge">EARNINGS</span>
+    <span class="ea-cta__title">${escapeHtml(title)}</span>
+    <span class="ea-cta__sub">${escapeHtml(sub)}</span>
+  </span>
+  <span class="ea-cta__arrow" aria-hidden="true">→</span>
+</a>`;
 }
 
 /**
@@ -1468,6 +1521,7 @@ async function buildOneLang(opts) {
   out = replaceBlock(out, "CARDS_GRID",  renderCards(feedCards, { lang }));
   out = replaceBlock(out, "BUILD_INFO",  `<!-- build: ${buildIso} -->`);
   out = replaceBlock(out, "EARNINGS_PIN", renderEarningsPin(earningsPinTarget, lang, now));
+  out = replaceBlock(out, "EARNINGS_CTA", renderEarningsCta(earningsPinTarget, lang, now));
 
   out = langFinalize(out, lang);
   await mkdir(outDir, { recursive: true });

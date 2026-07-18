@@ -102,6 +102,13 @@
   .ea-list li{position:relative;padding-left:16px;font-size:14.5px;color:var(--ink-mid);line-height:1.62;word-break:keep-all}
   .ea-list li::before{content:"";position:absolute;left:0;top:9px;width:5px;height:5px;border-radius:50%;background:var(--cat,var(--red))}
 
+  /* ── 투자자·언론 사전 질문 ── */
+  .ea-q{position:relative;padding-left:27px}
+  .ea-q + .ea-q{margin-top:14px}
+  .ea-q__n{position:absolute;left:0;top:1px;font-size:12.5px;font-weight:800;color:var(--cat,var(--red));font-variant-numeric:tabular-nums}
+  .ea-q__text{font-size:14.5px;color:var(--ink);line-height:1.62;font-weight:600;word-break:keep-all}
+  .ea-q__who{display:block;margin-top:4px;font-size:11.5px;color:var(--ink-mute);font-weight:600}
+
   /* ── 통계 행(시장반응·컨센서스) ── */
   .ea-stats{display:flex;gap:10px;flex-wrap:wrap}
   .ea-stat{flex:1;min-width:120px;background:var(--soft);border-radius:14px;padding:12px 14px}
@@ -181,6 +188,8 @@
   <!-- BLOCK:EA_MARKET --><!-- /BLOCK:EA_MARKET -->
 
   <!-- BLOCK:EA_WATCH --><!-- /BLOCK:EA_WATCH -->
+
+  <!-- BLOCK:EA_QUESTIONS --><!-- /BLOCK:EA_QUESTIONS -->
 
   <!-- BLOCK:EA_CONSENSUS --><!-- /BLOCK:EA_CONSENSUS -->
 
