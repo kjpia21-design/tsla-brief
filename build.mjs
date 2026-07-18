@@ -773,6 +773,7 @@ function langFinalize(html, lang) {
     .replace(/(href|src)="assets\//g, '$1="/assets/')    // 상대 자산 → 루트 절대(/en/ 하위경로 대응)
     .replace(/href="(about|privacy)\.html"/g, 'href="/$1.html"')    // 영문 about/privacy 미생성 → 한국어 루트로(404 방지)
     .replace(/teslabriefing\.com\/articles\//g, 'teslabriefing.com/en/articles/')   // 기사 canonical·og:url → /en/
+    .replace(/teslabriefing\.com\/earnings\//g, 'teslabriefing.com/en/earnings/')   // 어닝 특별페이지 canonical·og:url → /en/
     .replace('<link rel="canonical" href="https://teslabriefing.com/news">', '<link rel="canonical" href="https://teslabriefing.com/en/news">');
   // 등락색은 KO·EN 모두 미국식(템플릿 토큰) — JP 확정 2026-06-12, 로케일 치환 불필요.
   for (const [ko, en] of UI_EN) html = html.split(ko).join(en);
@@ -976,6 +977,383 @@ async function generateArticles(cards, { outDir = OUT_DIR, lang = "ko" } = {}) {
   return generated;
 }
 
+// ─────────────────────────────────────────────────────────────
+// 어닝콜 특별 페이지 (data/earnings/*.json → {outDir}/earnings/<slug>.html)
+//  상태 머신: draft(비공개, 페이지·핀·sitemap 전부 미생성) → upcoming(프리뷰) → live(전체 리캡).
+// ─────────────────────────────────────────────────────────────
+async function loadEarningsEntries() {
+  const dir = path.join(DATA_DIR, "earnings");
+  let files;
+  try { files = readdirSync(dir).filter((f) => f.endsWith(".json")); }
+  catch { return []; }   // 디렉토리 없음/읽기 실패 → 조용히 skip
+  const out = [];
+  for (const f of files) {
+    try {
+      const j = JSON.parse(await readFile(path.join(dir, f), "utf8"));
+      if (j && typeof j === "object" && j.slug) out.push(j);
+    } catch (e) {
+      console.warn(`[build] ⚠ data/earnings/${f} 파싱 실패: ${e.message}`);
+    }
+  }
+  return out;
+}
+
+const byCallDateDesc = (a, b) => (a.callDate < b.callDate ? 1 : a.callDate > b.callDate ? -1 : 0);
+
+// YYYY-MM-DD 기준 UTC 날짜 diff(오늘=0). renderInvestorCalendar 의 dday 계산과 동일한 방식.
+function ddayForDate(dateISO, now) {
+  const t = Date.parse(String(dateISO || "") + "T00:00:00Z");
+  if (Number.isNaN(t)) return null;
+  const todayMs = Date.parse(now.toISOString().slice(0, 10) + "T00:00:00Z");
+  return Math.round((t - todayMs) / 86400000);
+}
+
+const EA_VERDICT_MAP = {
+  beat:  { ko: "어닝 비트 · 컨센서스 상회", en: "Beat — above consensus", cls: "is-beat" },
+  miss:  { ko: "어닝 미스 · 컨센서스 하회", en: "Miss — below consensus", cls: "is-miss" },
+  mixed: { ko: "혼조 실적",                 en: "Mixed results",          cls: "is-mixed" },
+};
+function renderEaVerdict(verdict, lang) {
+  const m = EA_VERDICT_MAP[verdict];
+  if (!m) return "";
+  return `<span class="ea-verdict ${m.cls}">${escapeHtml(lang === "en" ? m.en : m.ko)}</span>`;
+}
+
+function renderEaEyebrow(data) {
+  return escapeHtml(`${(data.quarter || "").trim()} EARNINGS`.trim());
+}
+
+// live 면 prTitle(발표 후 헤드라인), upcoming 이면 "{quarter} 어닝콜 D-N" 류(calendar dday 표기와 동일 관례).
+function renderEaTitle(data, lang, now) {
+  const QN = (data.quarter || "").trim() || "Q?";
+  if (data.status === "live") {
+    const t = lang === "en" ? (data.prTitle_en || data.prTitle) : data.prTitle;
+    return escapeHtml(t || (lang === "en" ? `${QN} Earnings` : `${QN} 실적 발표`));
+  }
+  const dday = ddayForDate(data.callDate, now);
+  const ddayN = Math.max(0, dday === null ? 0 : dday);
+  const ddayTxt = ddayN === 0 ? (lang === "en" ? "Today" : "오늘") : `D-${ddayN}`;
+  const t = lang === "en" ? `${QN} Earnings Call ${ddayTxt}` : `${QN} 어닝콜 ${ddayTxt}`;
+  return escapeHtml(t);
+}
+
+// 발표일시 — 미국 발표일(fmtCalDate 재사용, calendar 표기와 동일 관례: ko="M/D WED", en="Mon D") + 한국시간 병기.
+//  Intl 로케일(ko-KR) 기본 구분자("7. 23.")가 아닌, home.html 클라이언트 fmtRel 과 동일한 수동 M/D HH:MM 포맷 사용.
+function renderEaSchedule(data, lang) {
+  const usTxt = fmtCalDate(data.callDate, lang);
+  if (!usTxt) return "";
+  let kstPart = "";
+  const kstMs = data.callTimeKst ? Date.parse(data.callTimeKst) : NaN;
+  if (!Number.isNaN(kstMs)) {
+    const parts = new Intl.DateTimeFormat("en-US", {
+      timeZone: "Asia/Seoul", month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false,
+    }).formatToParts(new Date(kstMs));
+    const g = (ty) => (parts.find((x) => x.type === ty) || {}).value || "";
+    const kstTxt = `${g("month")}/${g("day")} ${g("hour")}:${g("minute")}`;
+    kstPart = lang === "en" ? ` · KST ${kstTxt}` : ` · 한국시간 ${kstTxt}`;
+  }
+  const label = lang === "en" ? "Earnings call" : "발표일시";
+  const usQualifier = lang === "en" ? " (US)" : " (미국)";
+  return `<p class="ea__schedule">${escapeHtml(`${label} · ${usTxt}${usQualifier}${kstPart}`)}</p>`;
+}
+
+// kpis: [{key,label,label_en,value,consensus,vsConsensus,yoy,beat}] — value 없는 항목은 스킵(빈 카드 방지).
+function renderEaKpis(kpis, lang) {
+  const items = (Array.isArray(kpis) ? kpis : []).filter((k) => k && k.value);
+  if (!items.length) return "";
+  const heading = lang === "en" ? "Key Metrics" : "핵심 지표";
+  const L = lang === "en" ? { cons: "Consensus" } : { cons: "컨센서스" };
+  const cards = items.map((k) => {
+    const label = escapeHtml((lang === "en" ? (k.label_en || k.label) : k.label) || "");
+    const value = escapeHtml(k.value || "—");
+    const beatCls = k.beat === true ? "is-beat" : k.beat === false ? "is-miss" : "";
+    const cons = k.consensus ? `<span class="ea-kpi__cons">${escapeHtml(L.cons)} ${escapeHtml(k.consensus)}</span>` : "";
+    const delta = k.vsConsensus ? `<span class="ea-kpi__delta ${beatCls}">${escapeHtml(k.vsConsensus)}</span>` : "";
+    const yoy = k.yoy ? `<span class="ea-kpi__yoy">YoY ${escapeHtml(k.yoy)}</span>` : "";
+    return `<div class="ea-kpi">
+        <span class="ea-kpi__label">${label}</span>
+        <span class="ea-kpi__value">${value}</span>
+        ${(cons || delta) ? `<div class="ea-kpi__row">${cons}${delta}</div>` : ""}
+        ${yoy}
+      </div>`;
+  }).join("\n      ");
+  return `<section class="ea-sec ea-kpis">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    <div class="ea-kpi-grid">
+      ${cards}
+    </div>
+  </section>`;
+}
+
+// segments: [{title,title_en,body,body_en}]
+function renderEaSegments(segments, lang) {
+  const items = (Array.isArray(segments) ? segments : []).filter((s) => s && (s.body || s.body_en));
+  if (!items.length) return "";
+  const heading = lang === "en" ? "Segment Highlights" : "세그먼트 하이라이트";
+  const blocks = items.map((s) => {
+    const title = escapeHtml((lang === "en" ? (s.title_en || s.title) : s.title) || "");
+    const body = escapeHtml((lang === "en" ? (s.body_en || s.body) : s.body) || "");
+    return `<div class="ea-seg">
+        ${title ? `<h3 class="ea-seg__h">${title}</h3>` : ""}
+        <p class="ea-seg__body">${body}</p>
+      </div>`;
+  }).join("\n      ");
+  return `<section class="ea-sec ea-segments">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    ${blocks}
+  </section>`;
+}
+
+// quotes: [{who,who_en,topic,topic_en,text,text_en}]
+function renderEaQuotes(quotes, lang) {
+  const items = (Array.isArray(quotes) ? quotes : []).filter((q) => q && (q.text || q.text_en));
+  if (!items.length) return "";
+  const heading = lang === "en" ? "Key Quotes from the Call" : "콜 핵심 발언";
+  const blocks = items.map((q) => {
+    const who = lang === "en" ? (q.who_en || q.who) : q.who;
+    const topic = lang === "en" ? (q.topic_en || q.topic) : q.topic;
+    const text = escapeHtml((lang === "en" ? (q.text_en || q.text) : q.text) || "");
+    const meta = [who, topic].filter(Boolean).map(escapeHtml).join(" · ");
+    return `<blockquote class="ea-quote">
+        <p class="ea-quote__text">"${text}"</p>
+        ${meta ? `<cite class="ea-quote__meta">${meta}</cite>` : ""}
+      </blockquote>`;
+  }).join("\n      ");
+  return `<section class="ea-sec ea-quotes">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    ${blocks}
+  </section>`;
+}
+
+// guidance: [{text,text_en}]
+function renderEaGuidance(guidance, lang) {
+  const items = (Array.isArray(guidance) ? guidance : []).filter((g) => g && (g.text || g.text_en));
+  if (!items.length) return "";
+  const heading = lang === "en" ? "Guidance & Outlook" : "가이던스·전망";
+  const lis = items.map((g) => `<li>${escapeHtml((lang === "en" ? (g.text_en || g.text) : g.text) || "")}</li>`).join("\n        ");
+  return `<section class="ea-sec ea-guidance">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    <ul class="ea-list">
+      ${lis}
+    </ul>
+  </section>`;
+}
+
+// marketReaction: { afterHours, nextClose, body, body_en }
+function renderEaMarket(mr, lang) {
+  if (!mr) return "";
+  const body = (lang === "en" ? (mr.body_en || mr.body) : mr.body) || "";
+  if (!mr.afterHours && !mr.nextClose && !body) return "";
+  const heading = lang === "en" ? "Market Reaction" : "시장 반응";
+  const L = lang === "en" ? { ah: "After-hours", nc: "Next close" } : { ah: "애프터장", nc: "다음날 종가" };
+  const stats = [
+    mr.afterHours ? `<div class="ea-stat"><span class="ea-stat__l">${escapeHtml(L.ah)}</span><span class="ea-stat__v">${escapeHtml(mr.afterHours)}</span></div>` : "",
+    mr.nextClose  ? `<div class="ea-stat"><span class="ea-stat__l">${escapeHtml(L.nc)}</span><span class="ea-stat__v">${escapeHtml(mr.nextClose)}</span></div>` : "",
+  ].filter(Boolean).join("\n      ");
+  return `<section class="ea-sec ea-market">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    ${stats ? `<div class="ea-stats">${stats}</div>` : ""}
+    ${body ? `<p class="ea-market__body">${escapeHtml(body)}</p>` : ""}
+  </section>`;
+}
+
+// watchPoints: [{text,text_en}] — upcoming 이면 메인(관전 포인트), live 이면 회고("발표 전 관전 포인트였던 것").
+function renderEaWatch(watchPoints, lang, status) {
+  const items = (Array.isArray(watchPoints) ? watchPoints : []).filter((w) => w && (w.text || w.text_en));
+  if (!items.length) return "";
+  const heading = status === "live"
+    ? (lang === "en" ? "What We Were Watching For" : "발표 전 관전 포인트였던 것")
+    : (lang === "en" ? "What to Watch" : "관전 포인트");
+  const lis = items.map((w) => `<li>${escapeHtml((lang === "en" ? (w.text_en || w.text) : w.text) || "")}</li>`).join("\n        ");
+  return `<section class="ea-sec ea-watch">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    <ul class="ea-list">
+      ${lis}
+    </ul>
+  </section>`;
+}
+
+// consensus: { eps, revenue, note, note_en } — upcoming 프리뷰용(라이브 전환 후에도 값이 남아있으면 계속 표시).
+function renderEaConsensus(consensus, lang) {
+  if (!consensus) return "";
+  const note = (lang === "en" ? (consensus.note_en || consensus.note) : consensus.note) || "";
+  if (!consensus.eps && !consensus.revenue && !note) return "";
+  const heading = lang === "en" ? "Consensus Estimates" : "컨센서스";
+  const L = lang === "en" ? { eps: "EPS (adj.)", rev: "Revenue" } : { eps: "EPS (조정)", rev: "매출" };
+  const rows = [
+    consensus.eps     ? `<div class="ea-stat"><span class="ea-stat__l">${escapeHtml(L.eps)}</span><span class="ea-stat__v">${escapeHtml(consensus.eps)}</span></div>` : "",
+    consensus.revenue ? `<div class="ea-stat"><span class="ea-stat__l">${escapeHtml(L.rev)}</span><span class="ea-stat__v">${escapeHtml(consensus.revenue)}</span></div>` : "",
+  ].filter(Boolean).join("\n      ");
+  return `<section class="ea-sec ea-consensus">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    ${rows ? `<div class="ea-stats">${rows}</div>` : ""}
+    ${note ? `<p class="ea-consensus__note">${escapeHtml(note)}</p>` : ""}
+  </section>`;
+}
+
+// sources 링크 + webcast/deckUrl 버튼 — upcoming 상태에서도 노출 허용(일정/webcast 는 프리뷰 범위).
+function renderEaSources(data, lang) {
+  const sources = (Array.isArray(data.sources) ? data.sources : []).filter((s) => s && s.href);
+  const hasWebcast = !!data.webcast;
+  const hasDeck = !!data.deckUrl;
+  if (!sources.length && !hasWebcast && !hasDeck) return "";
+  const heading = lang === "en" ? "Sources" : "원문 소스";
+  const L = lang === "en" ? { webcast: "Watch webcast", deck: "Shareholder deck (PDF)" } : { webcast: "웹캐스트 보기", deck: "주주서한 PDF" };
+  const list = sources.map((s) =>
+    `<a class="ea-src__item" href="${escapeHtml(s.href)}" target="_blank" rel="noopener nofollow">${escapeHtml(s.name || s.href)}</a>`
+  ).join("\n      ");
+  const buttons = [
+    hasWebcast ? `<a class="art__source__cta" href="${escapeHtml(data.webcast)}" target="_blank" rel="noopener nofollow">${escapeHtml(L.webcast)}</a>` : "",
+    hasDeck    ? `<a class="art__source__cta" href="${escapeHtml(data.deckUrl)}" target="_blank" rel="noopener nofollow">${escapeHtml(L.deck)}</a>` : "",
+  ].filter(Boolean).join("\n      ");
+  return `<section class="ea-sec ea-sources">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    ${list ? `<div class="ea-src__list">${list}</div>` : ""}
+    ${buttons ? `<div class="ea-src__btns">${buttons}</div>` : ""}
+  </section>`;
+}
+
+function earningsJsonLd(data, lang, titlePlain) {
+  const base = lang === "en" ? `${SITE}/en` : SITE;
+  const url = `${base}/earnings/${data.slug}`;
+  const headline = ((lang === "en" ? (data.prTitle_en || data.prTitle) : data.prTitle) || titlePlain || "")
+    .replace(/\s+/g, " ").trim();
+  const desc = ((lang === "en" ? (data.lead_en || data.lead) : data.lead) || "").replace(/\s+/g, " ").trim().slice(0, 200);
+  const obj = {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    headline,
+    description: desc,
+    url,
+    mainEntityOfPage: { "@type": "WebPage", "@id": url },
+    image: [`${SITE}/assets/og-image.png`],
+    inLanguage: lang === "en" ? "en" : "ko",
+    author: { "@type": "Organization", name: "Tesla Brief!ng", url: `${SITE}/` },
+    publisher: {
+      "@type": "Organization",
+      name: "Tesla Brief!ng",
+      logo: { "@type": "ImageObject", url: `${SITE}/assets/og-image.png` },
+    },
+  };
+  const pubSrc = data.updatedAt || data.callDate;
+  if (pubSrc && !Number.isNaN(Date.parse(pubSrc))) {
+    obj.datePublished = new Date(Date.parse(pubSrc)).toISOString();
+    obj.dateModified = obj.datePublished;
+  }
+  return JSON.stringify(obj);
+}
+
+/**
+ * data/earnings/<slug>.json 카드 하나 → 어닝콜 특별 페이지 HTML.
+ * status "upcoming": 히어로+관전포인트+컨센서스+일정/webcast 만(데이터가 있어도 kpi·세그먼트 등은 하드 게이트로 숨김).
+ * 그 외("live"): 전체 섹션 — 각 섹션은 데이터 없으면 렌더러가 통째로 생략(빈 껍데기 금지).
+ */
+function renderEarningsPage(template, data, lang = "ko", now = new Date()) {
+  const status = data.status === "live" ? "live" : "upcoming";
+  const QN = (data.quarter || "").trim();
+  const titleTxt = renderEaTitle(data, lang, now);   // 이미 escape 됨
+  const eyebrowTxt = renderEaEyebrow(data);          // 이미 escape 됨
+  const verdictHtml = status === "live" ? renderEaVerdict(data.verdict, lang) : "";
+  const leadRaw = lang === "en" ? (data.lead_en || data.lead) : data.lead;
+  const leadHtml = leadRaw ? `<p class="ea__lead">${escapeHtml(leadRaw)}</p>` : "";
+  const scheduleHtml = renderEaSchedule(data, lang);
+
+  // live 전용 — upcoming 은 값이 채워져 있어도 하드 게이트로 숨김(사전 유출 방지)
+  const kpisHtml     = status === "live" ? renderEaKpis(data.kpis, lang) : "";
+  const segmentsHtml = status === "live" ? renderEaSegments(data.segments, lang) : "";
+  const quotesHtml   = status === "live" ? renderEaQuotes(data.quotes, lang) : "";
+  const guidanceHtml = status === "live" ? renderEaGuidance(data.guidance, lang) : "";
+  const marketHtml   = status === "live" ? renderEaMarket(data.marketReaction, lang) : "";
+
+  // 두 상태 공통(데이터 있으면 노출) — 관전포인트·컨센서스·소스/webcast
+  const watchHtml     = renderEaWatch(data.watchPoints, lang, status);
+  const consensusHtml = renderEaConsensus(data.consensus, lang);
+  const sourcesHtml   = renderEaSources(data, lang);
+
+  const pageTitle = status === "live"
+    ? (lang === "en" ? `Tesla ${QN} Earnings — full breakdown` : `${QN} 테슬라 어닝콜 총정리 — Tesla Briefing`)
+    : (lang === "en" ? `Tesla ${QN} Earnings Preview — Tesla Briefing` : `${QN} 어닝콜 프리뷰 — Tesla Briefing`);
+  const descFallback = lang === "en"
+    ? `Everything from Tesla's ${QN} earnings call — numbers, quotes, and guidance in one page.`
+    : `${QN} 테슬라 실적 발표 총정리 — 지표·발언·가이던스를 한 페이지에서.`;
+  const desc = (leadRaw || descFallback).replace(/\s+/g, " ").trim().slice(0, 150);
+
+  const opts = { keepMarkers: false };
+  let out = template;
+  out = replaceBlock(out, "EA_TITLE_TXT", escapeHtml(pageTitle), opts);
+  out = replaceBlock(out, "EA_DESC",      escapeHtml(desc), opts);
+  out = replaceBlock(out, "EA_CANON",     escapeHtml(data.slug || ""), opts);
+  out = replaceBlock(out, "EA_JSONLD",    earningsJsonLd(data, lang, titleTxt), opts);
+  const pubSrc = data.updatedAt || data.callDate;
+  const pubIso = new Date((pubSrc && Date.parse(pubSrc)) || Date.now()).toISOString();
+  out = replaceBlock(out, "EA_PUB_ISO",   pubIso, opts);
+
+  out = replaceBlock(out, "EA_EYEBROW",   eyebrowTxt, opts);
+  out = replaceBlock(out, "EA_TITLE",     titleTxt, opts);
+  out = replaceBlock(out, "EA_VERDICT",   verdictHtml, opts);
+  out = replaceBlock(out, "EA_LEAD",      leadHtml, opts);
+  out = replaceBlock(out, "EA_SCHEDULE",  scheduleHtml, opts);
+  out = replaceBlock(out, "EA_KPIS",      kpisHtml, opts);
+  out = replaceBlock(out, "EA_SEGMENTS",  segmentsHtml, opts);
+  out = replaceBlock(out, "EA_QUOTES",    quotesHtml, opts);
+  out = replaceBlock(out, "EA_GUIDANCE",  guidanceHtml, opts);
+  out = replaceBlock(out, "EA_MARKET",    marketHtml, opts);
+  out = replaceBlock(out, "EA_WATCH",     watchHtml, opts);
+  out = replaceBlock(out, "EA_CONSENSUS", consensusHtml, opts);
+  out = replaceBlock(out, "EA_SOURCES",   sourcesHtml, opts);
+  return out;
+}
+
+/** {outDir}/earnings/<slug>.html 생성 — entries 는 이미 status!=="draft" 로 필터된 목록. */
+async function writeEarningsPages(entries, { outDir = OUT_DIR, lang = "ko" } = {}) {
+  const dir = path.join(outDir, "earnings");
+  // 매 빌드마다 청소 — generateArticles 와 동일 원칙. draft 로 되돌아가거나 슬러그가 사라진 옛 어닝
+  // 페이지가 dist 에 잔재로 남지 않게(그렇지 않으면 "draft=흔적 0" 보증이 깨짐).
+  await rm(dir, { recursive: true, force: true });
+  if (!entries.length) return 0;
+  const tplPath = path.join(ROOT, "earnings-template.html");
+  let template;
+  try { template = await readFile(tplPath, "utf8"); }
+  catch { console.warn("[build] earnings-template.html 없음 — 어닝 페이지 생성 건너뜀"); return 0; }
+  await mkdir(dir, { recursive: true });
+  let n = 0;
+  for (const data of entries) {
+    if (!data.slug) continue;
+    const html = renderEarningsPage(template, data, lang);
+    await writeFile(path.join(dir, `${data.slug}.html`), langFinalize(html, lang), "utf8");
+    n++;
+  }
+  return n;
+}
+
+/**
+ * 홈 핫뉴스 박스 상단 핀 — 어닝 파일이 여럿이면 callDate 최신 1건만 대상.
+ *  upcoming: 오늘 ≤ callDate 이면 표시("D-N — 관전 포인트·컨센서스").
+ *  live: 발표 후 8일 이내만 표시(아래 상수 참고). 기간 지나면 핀만 자동 소멸, 페이지·sitemap 은 영구 유지.
+ */
+// 8일 = 미국날짜 기준 발표 후 만 7일 + KST 시차 여유 포함(미국 발표일 기준으로 하루 더 여유를 둠).
+const EARNINGS_PIN_EXPIRE_MS = 8 * 86400000;
+function renderEarningsPin(data, lang = "ko", now = new Date()) {
+  if (!data || !data.slug || !data.callDate) return "";
+  const todayISO = now.toISOString().slice(0, 10);
+  const QN = (data.quarter || "").trim().split(/\s+/)[0] || "Q2";   // "Q2 2026" → "Q2"
+  const href = `earnings/${data.slug}.html`;
+  if (data.status === "upcoming") {
+    if (todayISO > data.callDate) return "";   // 콜데이트 지났는데 아직 live 전환 전 → 핀 숨김(안전)
+    const dday = Math.max(0, ddayForDate(data.callDate, now) ?? 0);
+    const ddayTxt = dday === 0 ? (lang === "en" ? "Today" : "오늘") : `D-${dday}`;
+    const phrase = lang === "en" ? `${QN} earnings ${ddayTxt} — what to watch` : `${QN} 어닝콜 ${ddayTxt} — 관전 포인트·컨센서스`;
+    return `<a class="hot-pin" href="${escapeHtml(href)}"><span class="hot-pin__badge">EARNINGS</span><span class="hot-pin__txt">${escapeHtml(phrase)}</span></a>`;
+  }
+  if (data.status === "live") {
+    const callMs = Date.parse(data.callDate);
+    if (Number.isNaN(callMs) || now.getTime() >= callMs + EARNINGS_PIN_EXPIRE_MS) return "";
+    const phrase = lang === "en" ? `${QN} earnings special — numbers, quotes & guidance` : `${QN} 실적 특별 페이지 — 지표·발언·가이던스 총정리`;
+    return `<a class="hot-pin" href="${escapeHtml(href)}"><span class="hot-pin__badge">EARNINGS</span><span class="hot-pin__txt">${escapeHtml(phrase)}</span></a>`;
+  }
+  return "";
+}
+
 /**
  * 한 언어 빌드. 한국어/영어 각각 호출.
  * @param {Object} opts
@@ -1068,6 +1446,11 @@ async function buildOneLang(opts) {
   try { calendar = JSON.parse(await readFile(path.join(DATA_DIR, "calendar.json"), "utf8")); }
   catch { calendar = { events: [] }; }
 
+  // 어닝콜 특별 페이지 데이터 — draft 는 페이지·핀·sitemap 전부 제외(스키마 초기 상태 = 안전 배포).
+  const earningsAll = await loadEarningsEntries();
+  const earningsPublished = earningsAll.filter((e) => e.status && e.status !== "draft");
+  const earningsPinTarget = earningsPublished.length ? [...earningsPublished].sort(byCallDateDesc)[0] : null;
+
   let out = template;
   out = replaceBlock(out, "KPI_GRID",    renderKpi(kpi, lang));
   // 라이브 주가 방향(전일 종가 대비) — 핫뉴스에서 시세와 모순되는 헤드라인 제외에 사용.
@@ -1084,6 +1467,7 @@ async function buildOneLang(opts) {
   // 홈 피드 — archive 상위 10건(위 feedCards 재사용).
   out = replaceBlock(out, "CARDS_GRID",  renderCards(feedCards, { lang }));
   out = replaceBlock(out, "BUILD_INFO",  `<!-- build: ${buildIso} -->`);
+  out = replaceBlock(out, "EARNINGS_PIN", renderEarningsPin(earningsPinTarget, lang, now));
 
   out = langFinalize(out, lang);
   await mkdir(outDir, { recursive: true });
@@ -1107,8 +1491,9 @@ async function buildOneLang(opts) {
   }
   const numArticles = await generateArticles({ items: articleItems }, { outDir, lang });
   await generateNewsPage(archive, { newsTemplateName, outDir, lang, fullArchive });
+  const numEarnings = await writeEarningsPages(earningsPublished, { outDir, lang });
 
-  return { numCards: cards.items.length, numArchive: archive.items.length, numArticles, bytes: out.length, articles: articleItems };
+  return { numCards: cards.items.length, numArchive: archive.items.length, numArticles, numEarnings, bytes: out.length, articles: articleItems, earnings: earningsPublished };
 }
 
 // ─────────────────────────────────────────────────────────────
@@ -1220,7 +1605,7 @@ async function main() {
     outDir: path.join(OUT_DIR, "en"),
     lang: "en",
   });
-  console.log(`[build] EN: ${en.numCards} cards · ${en.numArchive} archive · ${en.numArticles} articles → /en/`);
+  console.log(`[build] EN: ${en.numCards} cards · ${en.numArchive} archive · ${en.numArticles} articles · ${en.numEarnings} earnings → /en/`);
 
   // 정적 자원/페이지/JSON 데이터 — 한 번만 복사 (한·영 공유)
   await cp(ASSETS_DIR, OUT_ASSETS, { recursive: true });
@@ -1249,11 +1634,19 @@ async function main() {
     changefreq: "weekly",
     priority: "0.6",
   }));
-  await writeFile(path.join(OUT_DIR, "sitemap.xml"), buildSitemap([...staticPages, ...artEntries]), "utf8");
+  // 어닝콜 특별 페이지(비draft만) — ko.earnings 는 buildOneLang 이 이미 draft 제외 필터링한 목록.
+  const earningsForSitemap = (ko.earnings || []).filter((e) => e.slug);
+  const earningsEntries = earningsForSitemap.map((e) => ({
+    loc: `${SITE}/earnings/${e.slug}`,
+    lastmod: (e.updatedAt && e.updatedAt.slice(0, 10)) || todayDate,
+    changefreq: "daily",
+    priority: "0.8",
+  }));
+  await writeFile(path.join(OUT_DIR, "sitemap.xml"), buildSitemap([...staticPages, ...artEntries, ...earningsEntries]), "utf8");
   await writeFile(path.join(OUT_DIR, "robots.txt"), buildRobots(), "utf8");
   const rssSorted = [...arts].sort((a, b) => (Date.parse(b.pubDate || 0) || 0) - (Date.parse(a.pubDate || 0) || 0));
   await writeFile(path.join(OUT_DIR, "rss.xml"), buildRss(rssSorted), "utf8");
-  console.log(`[build] SEO · sitemap ${staticPages.length + artEntries.length} urls · robots · rss ${Math.min(30, rssSorted.length)}`);
+  console.log(`[build] SEO · sitemap ${staticPages.length + artEntries.length + earningsEntries.length} urls · robots · rss ${Math.min(30, rssSorted.length)}`);
 
   // 출력 요약 (한국어 단일 언어)
   const kpiData = await readJson("kpi.json");
@@ -1261,7 +1654,7 @@ async function main() {
     ? `$${kpiData.price.toFixed(2)} (${kpiData.marketStateLabel || kpiData.marketState || "?"})`
     : "(no price)";
   console.log(`[build] OK · price ${priceStr}`);
-  console.log(`[build] KO: ${ko.numCards} cards · ${ko.numArchive} archive · ${ko.numArticles} articles · ${ko.bytes} bytes`);
+  console.log(`[build] KO: ${ko.numCards} cards · ${ko.numArchive} archive · ${ko.numArticles} articles · ${ko.numEarnings} earnings · ${ko.bytes} bytes`);
 }
 
 main().catch((err) => {

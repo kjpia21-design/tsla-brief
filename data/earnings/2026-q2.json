@@ -1,0 +1,23 @@
+{
+  "slug": "2026-q2",
+  "quarter": "Q2 2026",
+  "status": "draft",
+  "callDate": "2026-07-22",
+  "callTimeKst": "2026-07-23T06:30:00+09:00",
+  "webcast": "https://ir.tesla.com",
+  "deckUrl": "",
+  "verdict": "",
+  "prTitle": "",
+  "prTitle_en": "",
+  "lead": "",
+  "lead_en": "",
+  "kpis": [],
+  "segments": [],
+  "quotes": [],
+  "guidance": [],
+  "marketReaction": { "afterHours": "", "nextClose": "", "body": "", "body_en": "" },
+  "watchPoints": [],
+  "consensus": { "eps": "", "revenue": "", "note": "", "note_en": "" },
+  "sources": [ { "name": "Tesla IR", "href": "https://ir.tesla.com" } ],
+  "updatedAt": ""
+}

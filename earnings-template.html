@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title><!-- BLOCK:EA_TITLE_TXT -->Tesla Briefing — 어닝콜 특별 페이지<!-- /BLOCK:EA_TITLE_TXT --></title>
+<meta name="description" content="<!-- BLOCK:EA_DESC -->테슬라 어닝콜 특별 페이지.<!-- /BLOCK:EA_DESC -->">
+<link rel="canonical" href="https://teslabriefing.com/earnings/<!-- BLOCK:EA_CANON -->slug<!-- /BLOCK:EA_CANON -->">
+<link rel="alternate" type="application/rss+xml" title="Tesla Brief!ng RSS" href="https://teslabriefing.com/rss.xml">
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<link rel="apple-touch-icon" href="/assets/favicon.svg">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://teslabriefing.com/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://teslabriefing.com/earnings/<!-- BLOCK:EA_CANON -->slug<!-- /BLOCK:EA_CANON -->">
+<meta property="og:title" content="<!-- BLOCK:EA_TITLE_TXT -->Tesla Briefing — 어닝콜 특별 페이지<!-- /BLOCK:EA_TITLE_TXT -->">
+<meta property="og:description" content="<!-- BLOCK:EA_DESC -->테슬라 어닝콜 특별 페이지.<!-- /BLOCK:EA_DESC -->">
+<meta property="og:site_name" content="TESLA Brief!ng">
+<meta property="article:published_time" content="<!-- BLOCK:EA_PUB_ISO -->2026-01-01T00:00:00.000Z<!-- /BLOCK:EA_PUB_ISO -->">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://teslabriefing.com/assets/og-image.png">
+<script type="application/ld+json"><!-- BLOCK:EA_JSONLD -->{}<!-- /BLOCK:EA_JSONLD --></script>
+<link rel="stylesheet" href="/assets/fonts/pretendard/pretendard.css">
+<style>
+  /* Tesla Brief!ng — 어닝콜 특별 페이지 (article-template.html 토큰·chrome 그대로 재사용, 2026-07)
+   *  본문 섹션만 어닝 전용(.ea-*)으로 확장. 카테고리 = 항상 stock(레드 액센트). */
+  :root{
+    --bg:#ffffff; --canvas:#e9ebee; --soft:#f4f6f8;
+    --line:#e8ecf0; --line-mute:#eef1f4;
+    --ink:#191f28; --ink-mid:#4e5968; --ink-mute:#8b95a1;
+    --red:#E31937;
+    --up:#16A34A; --dn:#EF4444;
+    /* 출처 등급 점 */
+    --c-sec:#16A34A; --c-official:#8B5CF6; --c-press:#0EA5A4; --c-rumor:#9AA1AC;
+  }
+  /* 카테고리 색(칩·강조·CTA) — 카드와 동일 톤. 어닝 페이지는 항상 stock. */
+  .is-stock{--cat:#D31430;--cat-soft:rgba(227,25,55,.08)}
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--canvas);color:var(--ink);
+    font-family:"Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    line-height:1.7;font-size:16px;letter-spacing:-.02em;-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  img,svg,object{display:block;max-width:100%}
+  .page{max-width:440px;margin:0 auto;background:var(--bg);min-height:100vh;box-shadow:0 0 32px rgba(0,0,0,.06)}
+  .wrap{padding:0 20px}
+
+  /* nav */
+  .nav{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line-mute)}
+  .nav__inner{display:flex;align-items:center;justify-content:space-between;height:57px;padding:0 16px}
+  .brand{display:inline-flex;align-items:baseline;gap:5px;font-weight:800;font-size:18px;letter-spacing:-.02em}
+  .brand__block{color:var(--red);font-weight:800}
+  .brand__text{color:var(--ink);font-weight:800}
+  .brand__text em{color:var(--red);font-style:normal}
+  .nav__back{font-size:12px;font-weight:700;color:var(--ink-mid);padding:7px 13px;border:1px solid var(--line);border-radius:999px;background:var(--bg)}
+
+  /* article shell */
+  article{padding:22px 0 26px}
+
+  /* ── 히어로 ── */
+  .ea__hero{padding-top:0}
+  .ea__eyebrow{display:inline-flex;align-items:center;gap:6px;font-family:"IBM Plex Mono",ui-monospace,"SFMono-Regular",monospace;font-size:11px;font-weight:700;letter-spacing:.1em;color:var(--cat,var(--red));text-transform:uppercase}
+  .ea__title{font-size:24px;font-weight:800;line-height:1.32;letter-spacing:-.02em;margin:12px 0 0;color:var(--ink);word-break:keep-all}
+  .ea-verdict{display:inline-block;margin-top:10px;font-size:12px;font-weight:800;padding:4px 11px;border-radius:999px}
+  .ea-verdict.is-beat{color:var(--up);background:rgba(22,163,74,.12)}
+  .ea-verdict.is-miss{color:var(--dn);background:rgba(239,68,68,.12)}
+  .ea-verdict.is-mixed{color:var(--ink-mid);background:var(--soft)}
+  .ea__lead{font-size:16px;line-height:1.66;color:var(--ink);font-weight:600;margin:16px 0 0;
+    padding:0 0 0 14px;border-left:3px solid var(--cat,var(--red));word-break:keep-all}
+  .ea__schedule{font-size:12.5px;color:var(--ink-mute);font-weight:600;margin-top:14px;font-variant-numeric:tabular-nums}
+
+  /* ── 섹션 공통 ── */
+  .ea-sec{margin-top:28px}
+  .ea-sec__h{font-size:15px;font-weight:800;letter-spacing:-.01em;color:var(--ink);margin:0 0 12px}
+
+  /* ── KPI 그리드(2열) ── */
+  .ea-kpi-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  .ea-kpi{background:var(--soft);border-radius:14px;padding:14px 15px;display:flex;flex-direction:column;gap:4px}
+  .ea-kpi__label{font-size:11.5px;color:var(--ink-mute);font-weight:700;word-break:keep-all}
+  .ea-kpi__value{font-family:"IBM Plex Mono",ui-monospace,"SFMono-Regular",monospace;font-size:21px;font-weight:700;color:var(--ink);font-variant-numeric:tabular-nums;letter-spacing:-.01em}
+  .ea-kpi__row{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+  .ea-kpi__cons{font-size:10.5px;color:var(--ink-mute);font-weight:600}
+  .ea-kpi__delta{font-size:11px;font-weight:800;padding:1.5px 7px;border-radius:6px}
+  .ea-kpi__delta.is-beat{color:var(--up);background:rgba(22,163,74,.12)}
+  .ea-kpi__delta.is-miss{color:var(--dn);background:rgba(239,68,68,.12)}
+  .ea-kpi__yoy{font-size:10.5px;color:var(--ink-mute);font-weight:600}
+
+  /* ── 세그먼트 ── */
+  .ea-seg + .ea-seg{margin-top:16px}
+  .ea-seg__h{font-size:14px;font-weight:800;color:var(--ink);margin:0 0 5px}
+  .ea-seg__body{font-size:14.5px;color:var(--ink-mid);line-height:1.7;word-break:keep-all}
+
+  /* ── 콜 핵심 발언(인용) ── */
+  .ea-quote{border-left:3px solid var(--red);padding:2px 0 2px 14px;margin-top:16px}
+  .ea-quote:first-child{margin-top:0}
+  .ea-quote__text{font-size:15px;color:var(--ink);line-height:1.62;font-weight:600;word-break:keep-all;font-style:normal}
+  .ea-quote__meta{display:block;margin-top:6px;font-size:11.5px;color:var(--ink-mute);font-weight:600;font-style:normal}
+
+  /* ── 리스트(가이던스·관전포인트) ── */
+  .ea-list{list-style:none;display:flex;flex-direction:column;gap:10px}
+  .ea-list li{position:relative;padding-left:16px;font-size:14.5px;color:var(--ink-mid);line-height:1.62;word-break:keep-all}
+  .ea-list li::before{content:"";position:absolute;left:0;top:9px;width:5px;height:5px;border-radius:50%;background:var(--cat,var(--red))}
+
+  /* ── 통계 행(시장반응·컨센서스) ── */
+  .ea-stats{display:flex;gap:10px;flex-wrap:wrap}
+  .ea-stat{flex:1;min-width:120px;background:var(--soft);border-radius:14px;padding:12px 14px}
+  .ea-stat__l{display:block;font-size:11px;color:var(--ink-mute);font-weight:700;margin-bottom:3px}
+  .ea-stat__v{display:block;font-family:"IBM Plex Mono",ui-monospace,"SFMono-Regular",monospace;font-size:16px;font-weight:700;color:var(--ink);font-variant-numeric:tabular-nums}
+  .ea-market__body,.ea-consensus__note{margin-top:10px;font-size:14px;color:var(--ink-mid);line-height:1.68;word-break:keep-all}
+
+  /* ── 원문 소스 ── */
+  .ea-src__list{display:flex;flex-direction:column;gap:8px;margin-bottom:12px}
+  .ea-src__item{display:block;font-size:13.5px;font-weight:700;color:var(--ink-mid);background:var(--soft);border-radius:12px;padding:11px 14px}
+  .ea-src__btns{display:flex;gap:8px;flex-wrap:wrap}
+
+  /* 원본 박스 스타일(article 재사용) — 웹캐스트/덱 버튼에 사용 */
+  .art__source__cta{display:inline-flex;font-size:13px;font-weight:800;padding:11px 16px;border-radius:12px;background:var(--cat,var(--red));color:#fff;white-space:nowrap}
+  .art__source__cta::after{content:" ↗"}
+
+  /* 공유 버튼 */
+  .art__share{margin-top:24px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .art__share__label{font-size:10.5px;font-weight:800;letter-spacing:.1em;color:var(--ink-mute);text-transform:uppercase;margin-right:2px}
+  .art__share__btn{display:inline-flex;align-items:center;gap:6px;padding:9px 13px;border-radius:999px;background:var(--soft);border:1px solid var(--line);color:var(--ink-mid);font-size:12px;font-weight:700;cursor:pointer;font-family:inherit;line-height:1}
+  .art__share__btn:hover{color:var(--ink);border-color:var(--ink-mute)}
+  .art__share__btn.copied{color:var(--up);border-color:var(--up)}
+
+  .art__disclaimer{margin-top:22px;color:var(--ink-mute);font-size:11.5px;line-height:1.7}
+  .art__disclaimer b{color:var(--ink-mid);font-weight:700}
+
+  /* 데스크톱 — 가독 폭 + 모바일 탭바 숨김 */
+  @media (min-width:1080px){
+    .page{max-width:620px}
+    .tabbar{display:none}
+    footer{padding-bottom:30px}
+  }
+
+  /* footer + 탭바 — 메인과 동일 */
+  footer{padding:22px 0 96px;text-align:center;color:var(--ink-mute)}
+  .footer__inner{font-size:10.5px;display:flex;flex-direction:column;align-items:center;gap:6px;line-height:1.7}
+  .footer__inner a{color:var(--ink-mid);font-weight:600}
+  .tabbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:440px;display:flex;background:rgba(255,255,255,.97);backdrop-filter:blur(10px);border-top:1px solid var(--line);padding:8px 0 14px;z-index:40}
+  .tabbar a{flex:1;text-align:center;font-size:10.5px;color:var(--ink-mute);font-weight:700}
+  .tabbar .ic{display:block;font-size:19px;line-height:1.3;height:25px}
+  .tabbar .ic svg{vertical-align:middle;display:inline}
+  :focus-visible{outline:2px solid var(--red);outline-offset:2px;border-radius:4px}
+  @media (prefers-reduced-motion: reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<div class="page">
+
+<header class="nav">
+  <div class="nav__inner">
+    <a class="brand" href="../index.html" aria-label="Tesla Briefing — 홈">
+      <span class="brand__block">Tesla</span>
+      <span class="brand__text">Brief<em>!</em>ng</span>
+    </a>
+    <a class="nav__back" href="../index.html">← 홈으로</a>
+  </div>
+</header>
+
+<article class="wrap is-stock">
+
+  <div class="ea__hero">
+    <span class="ea__eyebrow"><!-- BLOCK:EA_EYEBROW -->Q2 2026 EARNINGS<!-- /BLOCK:EA_EYEBROW --></span>
+    <h1 class="ea__title"><!-- BLOCK:EA_TITLE -->제목<!-- /BLOCK:EA_TITLE --></h1>
+    <!-- BLOCK:EA_VERDICT --><!-- /BLOCK:EA_VERDICT -->
+    <!-- BLOCK:EA_LEAD --><!-- /BLOCK:EA_LEAD -->
+    <!-- BLOCK:EA_SCHEDULE --><!-- /BLOCK:EA_SCHEDULE -->
+  </div>
+
+  <!-- BLOCK:EA_KPIS --><!-- /BLOCK:EA_KPIS -->
+
+  <!-- BLOCK:EA_SEGMENTS --><!-- /BLOCK:EA_SEGMENTS -->
+
+  <!-- BLOCK:EA_QUOTES --><!-- /BLOCK:EA_QUOTES -->
+
+  <!-- BLOCK:EA_GUIDANCE --><!-- /BLOCK:EA_GUIDANCE -->
+
+  <!-- BLOCK:EA_MARKET --><!-- /BLOCK:EA_MARKET -->
+
+  <!-- BLOCK:EA_WATCH --><!-- /BLOCK:EA_WATCH -->
+
+  <!-- BLOCK:EA_CONSENSUS --><!-- /BLOCK:EA_CONSENSUS -->
+
+  <!-- BLOCK:EA_SOURCES --><!-- /BLOCK:EA_SOURCES -->
+
+  <div class="art__share">
+    <span class="art__share__label">공유하기</span>
+    <a class="art__share__btn" data-share-x href="#" target="_blank" rel="noopener" aria-label="X에 공유">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M18.9 2H22l-6.8 7.8L23.3 22h-6.3l-4.9-6.4L6.5 22H3.4l7.3-8.3L1.3 2h6.5l4.4 5.9L18.9 2zm-1.1 18h1.7L7.1 3.9H5.2L17.8 20z"/></svg>
+    </a>
+    <a class="art__share__btn" data-share-tg href="#" target="_blank" rel="noopener" aria-label="텔레그램에 공유">
+      <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="m21.7 3.3-19 7.3c-1 .4-1 1.2-.2 1.5l4.8 1.5 1.8 5.6c.2.7.4.9 1 .9.5 0 .7-.2 1.1-.5l2.6-2.5 5 3.7c.9.5 1.5.3 1.8-.8l3.3-15.4c.3-1.1-.4-1.7-1.2-1.3zM8.5 13.9l10.4-6.6c.5-.3 1-.1.6.2l-8.9 8-.3 3.4-1.8-5z"/></svg>
+    </a>
+    <button class="art__share__btn" type="button" data-share-copy aria-label="링크 복사">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M10 14a5 5 0 0 0 7.1 0l3-3a5 5 0 0 0-7.1-7.1l-1.7 1.7"/><path d="M14 10a5 5 0 0 0-7.1 0l-3 3a5 5 0 0 0 7.1 7.1l1.7-1.7"/></svg>
+      <span>링크 복사</span>
+    </button>
+  </div>
+
+  <p class="art__disclaimer">
+    번역·요약은 <b>Tesla Briefing</b> 편집부가 한국어로 정리한 것이며, 원문의 모든 뉘앙스를 담지 않을 수 있습니다.
+    투자 결정의 책임은 본인에게 있습니다.
+  </p>
+
+</article>
+
+<footer>
+  <div class="wrap footer__inner">
+    <span>© 2026 TESLA BRIEF!NG · NOT INVESTMENT ADVICE</span>
+    <span><a href="../index.html">← 홈으로 돌아가기</a></span>
+  </div>
+</footer>
+
+<nav class="tabbar" aria-label="하단 메뉴">
+  <a href="../index.html"><span class="ic"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3.5 10.7 12 3.6l8.5 7.1"/><path d="M5.4 9.4V20h13.2V9.4"/><path d="M9.9 20v-5.2h4.2V20"/></svg></span>홈</a>
+  <a href="../news.html"><span class="ic"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5.6h13.2v13a1.9 1.9 0 0 1-1.9 1.9H5.9A1.9 1.9 0 0 1 4 18.6Z"/><path d="M17.2 9.2h2.8v9.4a1.9 1.9 0 0 1-1.9 1.9"/><path d="M7.1 9.3h7M7.1 12.6h7M7.1 15.9h4.4"/></svg></span>전체뉴스</a>
+  <a href="../index.html#calendar"><span class="ic"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.6" y="5" width="16.8" height="15.2" rx="2.4"/><path d="M8.1 3.2V7M15.9 3.2V7M3.6 10.2h16.8"/></svg></span>캘린더</a>
+  <a href="https://www.youtube.com/@TeslaBriefing" target="_blank" rel="noopener"><span class="ic"><svg viewBox="0 0 24 24" width="21" height="21" aria-hidden="true"><path fill="#FF0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.546 15.568V8.432L15.818 12l-6.272 3.568z"/></svg></span>YouTube</a>
+</nav>
+
+</div><!-- /.page -->
+<script>
+(() => {
+  const url = location.origin + location.pathname.replace(/\.html$/, '');
+  const title = document.title;
+  const x = document.querySelector('[data-share-x]');
+  if (x) x.href = 'https://twitter.com/intent/tweet?text=' + encodeURIComponent(title) + '&url=' + encodeURIComponent(url);
+  const tg = document.querySelector('[data-share-tg]');
+  if (tg) tg.href = 'https://t.me/share/url?url=' + encodeURIComponent(url) + '&text=' + encodeURIComponent(title);
+  const cp = document.querySelector('[data-share-copy]');
+  if (cp) cp.addEventListener('click', async () => {
+    try { await navigator.clipboard.writeText(url); }
+    catch (e) { const i = document.createElement('input'); i.value = url; document.body.appendChild(i); i.select(); document.execCommand('copy'); i.remove(); }
+    const s = cp.querySelector('span'); const orig = s.textContent;
+    cp.classList.add('copied');
+    s.textContent = (document.documentElement.lang === 'en') ? 'Copied!' : '복사됨!';
+    setTimeout(() => { cp.classList.remove('copied'); s.textContent = orig; }, 1600);
+  });
+})();
+</script>
+</body>
+</html>

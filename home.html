@@ -118,6 +118,12 @@
   .hn-full{display:none}.hn-short{display:inline}
   @media (min-width:560px){ .hn-full{display:inline}.hn-short{display:none} }
 
+  /* 어닝콜 특별 페이지 핀 — HOT 박스 head·list 사이, 발표 전후 한시적(build.mjs renderEarningsPin).
+   *  주의: 박스 배경이 현재 라이트 회색(--hotbg)이라 스펙의 color:#fff 대신 --red-deep 사용(가독성). */
+  .hot-pin{display:flex;align-items:center;gap:8px;margin:6px 0 4px;padding:10px 12px;background:rgba(227,25,55,.16);border:1px solid rgba(227,25,55,.4);border-radius:12px;color:var(--red-deep);text-decoration:none;font-size:13px;font-weight:700}
+  .hot-pin__badge{flex:none;font-family:"IBM Plex Mono",ui-monospace,monospace;background:#E31937;color:#fff;font-size:9.5px;letter-spacing:.08em;padding:2.5px 7px;border-radius:6px;font-weight:800}
+  .hot-pin__txt{min-width:0}
+
   /* ── 최신 뉴스 헤더 + 필터 칩 ── */
   .cats__head{padding:18px 22px 0}
   .cats__titlerow{display:flex;align-items:baseline;gap:10px}
@@ -319,6 +325,7 @@
       <span class="hot-news__eyebrow">HOT · 핫 뉴스</span>
       <span class="hot-news__count"><!-- BLOCK:HOT_COUNT -->총 5건<!-- /BLOCK:HOT_COUNT --></span>
     </div>
+    <!-- BLOCK:EARNINGS_PIN --><!-- /BLOCK:EARNINGS_PIN -->
     <ul class="hot-news__list">
       <!-- BLOCK:HOT_NEWS -->
       <li><a class="hot-news__item is-stock" href="#"><span class="hot-news__title">로딩 중…</span></a></li>
