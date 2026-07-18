@@ -4,6 +4,58 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
+      "pubDate": "2026-07-18T20:31:41.000Z",
+      "title": "테슬라 FSD v14.3.5 확대 배포 — <em>카메라 프리뷰·통합모델</em>로 반응속도 20%↑",
+      "hotShort": "FSD v14.3.5 확대, <em>반응속도 20%</em> 개선",
+      "body": "테슬라가 지난 13일부터 HW4(AI4) 차량에 FSD v14.3.5(2026.20.6.6)를 배포 중이다 — AI 컴파일러를 새로 짜 반응속도를 <em>20%</em> 높이고 액추얼리 스마트 서몬·FSD·로보택시 모델을 하나로 통합했지만, 사흘 뒤인 15일 3차 확대에도 전체 차량의 <em>1% 미만</em>에 그쳐 아직은 제한적 배포 단계다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-v1435-rollout-camera-preview-2026-07-18",
+      "summary": "테슬라가 7월13일(월) 소프트웨어 버전 2026.20.6.6과 함께 FSD(Supervised) v14.3.5 배포를 시작했다. 이번 버전은 하드웨어4(HW4/AI4) 탑재 차량에만 제공된다.\n\n핵심 변경점은 세 가지다. 첫째, 카메라 프리뷰를 주행 중에도 언제든 열어볼 수 있게 됐고 차량 실내 캐빈 카메라까지 확인 가능해졌다. 둘째, 신경망 학습의 강화학습(RL) 단계를 업그레이드해 다양한 주행 상황에서의 대응력을 개선했고, AI 컴파일러·런타임을 MLIR 기반으로 새로 작성해 <em>반응속도를 20%</em> 끌어올렸다. 셋째, 액추얼리 스마트 서몬·FSD·로보택시에 쓰이던 모델을 하나로 통합해 더 일관된 주행 판단이 가능해졌고, 스마트 서몬 최고 속도도 시속 8마일(약 13km/h)로 상향됐다. 앱에서는 무개입 주행거리와 최장 무개입 기록도 확인할 수 있게 됐다.\n\n다만 배포 속도는 더디다. 7월15일 3번째 확대 물결로 약 1,210대가 추가됐지만, 출시 사흘째 기준 전체 테슬라 차량의 1%에도 못 미치는 제한적 배포 상태다. 실제 사용 후기로는 인플루언서 재크(BLKMDL3)가 멕시코 바하 칼리포르니아의 발레 데 과달루페~로사리토 비치 구간을 무개입으로 완주했다고 전했고, 닉 크루즈 파테인도 사이버트럭에서 v14.3.5를 며칠간 사용해 본 소감을 공유했다.\n\n테슬라 주주 입장에서, 반응속도 개선과 모델 통합은 22일 2분기 실적에서 다시 도마에 오를 로보택시·자율주행 진척 상황에 대한 답변 재료가 될 수 있다 — 다만 아직 HW4 한정·1% 미만의 초기 배포 단계라, 전체 차량군으로 언제 확대되는지가 다음 관전 포인트다.",
+      "title_en": "Tesla expands <em>FSD v14.3.5</em> rollout — new compiler cuts reaction time <em>20%</em>, unifies driving models",
+      "hotShort_en": "FSD v14.3.5 expands, <em>reaction time up 20%</em>",
+      "body_en": "Tesla has been rolling out FSD v14.3.5 (2026.20.6.6) to HW4 (AI4) vehicles since July 13 — a rewritten AI compiler cuts reaction time by <em>20%</em> and unifies the models behind Smart Summon, FSD, and Robotaxi, but a third expansion wave on July 15 still reached <em>less than 1%</em> of the fleet, keeping the rollout limited three days in.",
+      "summary_en": "Tesla began rolling out FSD (Supervised) v14.3.5 on Monday, July 13, alongside software version 2026.20.6.6. The update is available only to vehicles equipped with Hardware 4 (HW4/AI4).\n\nThree changes stand out. First, Camera Preview can now be opened at any time while driving, including a view of the interior cabin camera. Second, Tesla upgraded the reinforcement-learning stage of neural-network training and rewrote its AI compiler and runtime on MLIR, delivering a <em>20% faster reaction time</em>. Third, the models behind Actually Smart Summon, FSD, and Robotaxi were unified for more consistent driving decisions, and Smart Summon's top speed was raised to 8 mph (about 13 km/h). The app now also shows distance driven without intervention and the longest intervention-free streak.\n\nThe rollout pace, though, remains slow. A third deployment wave on July 15 added roughly 1,210 more eligible vehicles, but three days after launch the update still covers <em>less than 1%</em> of Tesla's fleet. Anecdotal real-world reports have been positive: influencer Zack (BLKMDL3) said he completed a drive from Valle de Guadalupe to Rosarito Beach in Baja California, Mexico with zero interventions, while Nic Cruz Patane shared impressions after using v14.3.5 on a Cybertruck for several days.\n\nFor shareholders, the faster reaction time and model unification could feed into Robotaxi and autonomy talking points at the July 22 Q2 earnings call — but with the rollout still HW4-only and under 1% of the fleet, how quickly it scales to the broader fleet is the next thing to watch.",
+      "href": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Tesla Oracle",
+        "TeslaNorth"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-18T20:16:49.000Z",
+      "title": "머스크 \"테슬라 FSD, 운전자 개인 습관까지 학습\" — <em>그록 음성명령 9월 통합</em> 예고",
+      "hotShort": "FSD에 <em>그록 음성명령</em> 9월 통합 예고",
+      "body": "한 차주가 X에서 \"이 집 진입로로 들어가라\"처럼 음성으로 알려주면 FSD가 기억하게 해달라고 요청하자, 테슬라 AI 총괄 아쇼크 엘루스와미가 \"개발 중\"이라 답했고 일론 머스크는 그록(Grok) 음성명령을 FSD 플래닝 레이어에 <em>9월까지 통합</em>하겠다고 재확인했다 — 차주의 음성 교정이 쌓일수록 동네·진입로 단위의 맞춤 주행 데이터가 축적되는 구조다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-grok-voice-personalization-2026-07-18",
+      "summary": "한 테슬라 차주가 X에서 특정 동네를 지날 때 \"흰색 집, SUV 지나서 왼쪽\"처럼 음성으로 알려주면 FSD가 그 내용을 기억해 다음번에 알아서 그 진입로로 들어가게 해달라고 요청했다. 이에 테슬라 AI 총괄 아쇼크 엘루스와미가 \"작업 중(working on it)\"이라고 직접 답하며, 음성 기반 맥락 지시 기능이 실제로 개발되고 있음을 확인했다.\n\n같은 맥락에서 일론 머스크는 그록(Grok) 음성명령을 FSD의 플래닝 레이어에 <em>9월까지</em> 통합하겠다고 재확인했다. 이는 지난 6월 머스크가 \"약 3개월 안에\" 그록 기반 FSD 음성 제어가 나올 것이라고 밝혔던 시점과 맞아떨어지는 일정이다.\n\n이 기능이 의미 있는 이유는 데이터 축적 방식에 있다 — 차주가 음성으로 FSD를 교정하고 차량이 이를 기억할 때마다, 시뮬레이션이나 사전 각본으로는 만들어낼 수 없는 실제 예외 상황(어느 진입로, 어느 대문, 도로 어느 쪽) 데이터가 쌓인다. 수백만 대 규모의 테슬라 차량군이 이런 동네 단위의 맥락 정보를 크라우드소싱하면, 비슷한 규모의 차량군이 없는 경쟁사가 단기간에 따라잡기 어려운 지리·행동 데이터 우위로 이어진다는 평가다.\n\n주주 입장에서는 이 기능이 아직 로드맵 단계(9월 목표)라는 점을 감안해야 하지만, 로보택시·완전자율주행 상용화를 위해서는 결국 '내 동네를 아는 차'가 핵심 경쟁력이 될 것이라는 테슬라의 오래된 주장을 임원진이 재확인했다는 점에서 의미가 있다.",
+      "title_en": "Musk: Tesla FSD will <em>learn drivers' individual habits</em> — Grok voice commands coming to FSD <em>by September</em>",
+      "hotShort_en": "FSD to get <em>Grok voice commands</em> by fall",
+      "body_en": "After a Tesla owner asked on X for FSD to remember spoken instructions like \"turn into this driveway,\" Tesla AI lead Ashok Elluswamy confirmed the feature is in development and Elon Musk reaffirmed that Grok voice commands will be integrated into FSD's planning layer <em>by September</em> — letting the fleet accumulate hyper-local, driveway-level driving data from owners' voice corrections.",
+      "summary_en": "A Tesla owner asked on X whether FSD could remember spoken, neighborhood-specific instructions — like \"it's the white house on the left, just past that SUV\" — and automatically use them on future drives. Tesla AI lead Ashok Elluswamy responded directly that the team is \"working on it,\" confirming the voice-based contextual instruction feature is actually in development.\n\nIn the same thread, Elon Musk reaffirmed that Grok voice commands will be integrated into FSD's planning layer <em>by September</em> — matching the timeline he floated back in June, when he said Grok-based FSD voice control was roughly three months out.\n\nWhat makes this notable is how the data compounds: every time an owner corrects FSD with a spoken instruction and the car remembers it, that becomes a real-world edge-case data point that no simulation or scripted test could generate — which driveway, which gate, which side of the street. Across a fleet of millions of vehicles, crowdsourcing that hyper-local contextual knowledge builds a geographic and behavioral data advantage that's hard for rivals without a comparable fleet to replicate quickly.\n\nFor shareholders, the feature is still roadmap-stage (targeting September), but it's a reaffirmation from Tesla's own executives that a car that \"knows your neighborhood\" is central to its long-running case for Robotaxi and full self-driving commercialization.",
+      "href": "https://www.teslarati.com/elon-musk-says-tesla-start-learn-your-individual-preferences/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Teslarati",
+        "Benzinga",
+        "Not a Tesla App"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
       "pubDate": "2026-07-18T02:26:46.000Z",
       "title": "테슬라 FSD 누적주행 <em>120억 마일</em> 돌파 — 110억 마일 이후 약 한 달만",
       "hotShort": "테슬라 FSD 누적주행 <em>120억 마일</em> 돌파",
@@ -2332,58 +2384,7 @@
       "href": "https://www.wsj.com/tech/a-trucking-startup-aims-to-challenge-tesla-now-paychecks-are-missingand-so-is-a-truck-26e082cd",
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-07-05T09:30:00.000Z",
-      "title": "상원 마키·블루먼솔, 테슬라 FSD 안전 데이터에 <em>NHTSA 조사 요구</em> — 답변 시한 D-1",
-      "hotShort": "상원, 테슬라 FSD 안전자료 <em>NHTSA 조사 요구</em>",
-      "body": "매사추세츠·코네티컷주 상원의원 에드 마키·리처드 블루먼솔이 로이터의 테슬라 FSD 안전통계 오류 지적을 근거로 NHTSA에 서한을 보내 독자 검증 여부를 따져 물었다 — 답변 시한은 7월 7일로, 로보택시 확장이 한창인 가운데 자율주행 안전 신뢰성 논쟁이 정치권까지 번진 신호다.",
-      "sourceName": "Sen. Ed Markey 사무실",
-      "sourceLabel": "sec",
-      "slug": "fsd-senators-nhtsa-fsd-data-deadline-2026-07-05",
-      "summary": "테슬라의 FSD(완전자율주행) 안전 통계를 둘러싼 논란이 미국 의회로까지 번지고 있다. 오스틴에 이어 마이애미까지 로보택시 서비스가 확장되는 와중에, 그 안전성 근거 자체를 문제 삼는 목소리가 규제당국을 겨냥해 나왔다.\n\n발단은 로이터의 탐사보도다. 로이터는 테슬라가 FSD 탑재 차량의 에어백 전개 사고율을 심각도와 무관하게 모든 사고를 포함한 미국 전체 사고율과 비교하고, 최신 차량을 평균 차령 12년에 이르는 구형 차량 전체와 비교하는 등 통계 방식에 문제가 있다고 지적했다. 상원의원들은 이런 비교 방식이 FSD를 실제보다 안전한 것처럼 보이게 만들 수 있다고 주장한다.\n\n매사추세츠주 에드 마키, 코네티컷주 리처드 블루먼솔 상원의원은 6월 16일 NHTSA(도로교통안전국)에 서한을 보내, 테슬라의 수치를 NHTSA가 독자적으로 검증한 적이 있는지 등 구체적 질의를 담아 7월 7일까지 답변을 요구했다.\n\n아직 NHTSA의 공식 답변은 나오지 않았다. 다만 이번 서한은 테슬라의 로보택시 확장이 본격화되는 시점과 겹쳐, 자율주행 안전성 신뢰도 논쟁이 규제·정치 리스크로 재점화될 가능성을 보여준다. 답변 시한인 7월 7일 이후 NHTSA의 대응 여부가 다음 관전 포인트다.",
-      "title_en": "Sens. Markey, Blumenthal demand NHTSA <em>probe Tesla's FSD safety data</em> — answer due July 7",
-      "hotShort_en": "Senators demand NHTSA <em>probe Tesla's FSD data</em>",
-      "body_en": "Sens. Ed Markey (D-MA) and Richard Blumenthal (D-CT) sent NHTSA a letter citing a Reuters investigation into flawed Tesla FSD safety statistics, demanding to know whether the agency has independently verified Tesla's numbers — with a response due by July 7, as Robotaxi expansion collides with a growing safety-credibility fight reaching Capitol Hill.",
-      "summary_en": "The fight over Tesla's Full Self-Driving safety statistics has spread to Congress. Just as Robotaxi service expands from Austin to Miami, lawmakers are now targeting the very safety claims underpinning that expansion.\n\nThe trigger was a Reuters investigation, which found that Tesla compares airbag-deployment crash rates for FSD-equipped vehicles against a US-wide crash rate covering all severity levels, and benchmarks its newer fleet against the average US vehicle — one that is roughly 12 years old and lacks modern safety features. Senators say that methodology could make FSD look safer than it actually is.\n\nSens. Ed Markey of Massachusetts and Richard Blumenthal of Connecticut sent a letter to NHTSA on June 16, asking pointed questions including whether the agency has independently assessed Tesla's figures, and set a July 7 deadline for a response.\n\nNHTSA has not yet issued a public response. The letter lands just as Tesla's Robotaxi rollout accelerates, signaling that the safety-credibility debate around autonomy could re-emerge as a regulatory and political risk. Whether NHTSA responds by the July 7 deadline is the next thing to watch.",
-      "href": "https://www.markey.senate.gov/news/press-releases/sens-markey-blumenthal-demand-nhtsa-require-greater-transparency-from-tesla-autonomous-vehicle-companies",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Automotive News",
-        "Kelley Blue Book",
-        "Automotive World"
-      ],
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-07-05T02:33:48.000Z",
-      "title": "텍사스 주택 충돌사망 유가족, 테슬라 상대 <em>손해배상 소송 제기</em> — 운전자는 별도 과실치사 기소",
-      "hotShort": "케이티 사망사고 유족, <em>테슬라 상대 소송</em> 제기",
-      "body": "6월 19일 텍사스 케이티 주택 충돌사망 사고와 관련해 유가족이 해리스 카운티 법원에 테슬라를 상대로 '설계 결함'·'경고 미흡'을 주장하며 100만 달러 이상의 손해배상 소송을 제기했다 — 운전자 마이클 버틀러의 과실치사 형사기소(7월 6일 기소인부절차)에 이어 나온 민사소송으로, 테슬라 측의 '가속페달 100%·시속 73마일 수동주행' 반박과 맞물려 FSD 책임 공방이 형사·민사 양쪽으로 확대됐다.",
-      "sourceName": "NBC News",
-      "sourceLabel": "press",
-      "slug": "fsd-katy-crash-driver-manslaughter-charge-2026-07-02",
-      "summary": "텍사스 케이티(휴스턴 인근) 주택가에서 발생한 테슬라 충돌 사망 사고를 둘러싼 법적 공방이 형사에 이어 민사로 확대됐다. 지난 6월 19일 밤 8시경 마이클 버틀러가 몰던 테슬라 모델3가 자택에 있던 76세 마르타 아빌라의 벽돌집을 덮쳤고, 아빌라는 인근 병원으로 이송됐으나 사망 판정을 받았다.\n\n숨진 아빌라의 딸 제니퍼 바버와 사위 저스틴 바버는 해리스 카운티 지방법원에 테슬라와 운전자 버틀러를 상대로 소송을 제기했다. 소장은 테슬라 차량의 '설계 결함(design defect)'과 '경고 미흡(failure to warn)'을 주장하며 테슬라와 버틀러 양측의 과실을 함께 지목했고, 100만 달러 이상의 손해배상을 청구했다.\n\n버틀러는 보안관실에 사고 당시 '자동화 주행보조 시스템'이 작동 중이었다고 진술했다고 알려졌다. 그러나 테슬라가 제공한 차량 데이터는 이와 다른 그림을 보여준다 — 버틀러가 충돌 직전 가속페달을 100%까지 밟아 시속 73마일까지 속도를 올렸으며, 이는 운전자가 자율주행 기능을 직접 해제(오버라이드)한 결과라는 게 테슬라의 반박이다. 버틀러는 이 사고와 관련해 과실치사 혐의로도 기소됐으며 기소인부절차는 7월 6일로 예정돼 있다.\n\n주주 입장에서 이번 민사소송은 형사 기소에 이어 FSD·오토파일럿 책임 공방이 법정에서 다각도로 다뤄지게 됐음을 의미한다. 테슬라는 이미 구체적 주행 데이터로 운전자 과실을 주장해온 만큼, 이번 소송에서도 동일한 데이터가 핵심 방어 논리로 쓰일 전망이다. 다만 '설계 결함' 주장이 법정에서 받아들여질지, NHTSA·NTSB 연방조사 결과와 어떻게 맞물릴지는 이후 소송 진행 과정에서 가려질 전망이다.",
-      "title_en": "Family of Katy crash victim <em>sues Tesla</em> over fatal home crash — separate from driver's manslaughter charge",
-      "hotShort_en": "Katy crash victim's family <em>sues Tesla</em>",
-      "body_en": "The family of Martha Ávila, killed when a Tesla crashed into her Katy, Texas home on June 19, has filed a civil lawsuit against Tesla and driver Michael Butler in Harris County District Court alleging a design defect and failure to warn, seeking over $1 million in damages — a case running alongside Butler's separate manslaughter charge (arraignment July 6), adding a new front to the FSD liability dispute alongside Tesla's rebuttal that Butler manually floored the accelerator to 100% at 73 mph.",
-      "summary_en": "The legal fallout from the fatal Tesla crash in Katy, Texas, near Houston, has expanded from criminal to civil court. Around 8 p.m. on June 19, a Tesla Model 3 driven by Michael Butler crashed into the brick home of 76-year-old Martha Ávila, who was airlifted to a hospital and later pronounced dead.\n\nÁvila's daughter, Jennifer Barbour, and her husband, Justin Barbour, have now filed suit against Tesla and Butler in Harris County District Court. The complaint alleges a design defect and failure to warn on Tesla's part, names both Tesla and Butler as negligent, and seeks more than $1 million in damages.\n\nButler reportedly told the sheriff's office that an automated driving assistance system was engaged at the time of the crash. Tesla's own vehicle data tells a different story, according to the company: it shows Butler pressed the accelerator to 100% and reached 73 mph just before impact, which Tesla says amounts to the driver manually overriding the self-driving feature. Butler is separately charged with manslaughter over the crash, with arraignment scheduled for July 6.\n\nFor shareholders, the civil suit means the FSD/Autopilot liability dispute is now being litigated on two fronts — criminal and civil. Tesla has already leaned on specific driving telemetry to argue driver fault, and that same data is likely to anchor its defense in the civil case as well. Whether the design-defect claim gains traction in court, and how it interacts with the ongoing NHTSA/NTSB federal investigations, will play out as the litigation proceeds.",
-      "href": "https://www.nbcnews.com/news/us-news/fatal-texas-tesla-automated-driving-assistance-crash-lawsuit-rcna351485",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "NBC News",
-        "carcomplaints.com"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-19 04:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-19 05:50 KST 자동 갱신 · 최신순"
 }
