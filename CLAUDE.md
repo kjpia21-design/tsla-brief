@@ -116,7 +116,7 @@ JP에게 친근한 존댓말로 답해주세요.
 - `news.html` — archive 전체 (최대 50장)
 - `articles/<slug>.html` — 카드 상세
 - `privacy.html` — 개인정보처리방침 (PIPA, 라이트 톤)
-- `earnings/<slug>.html` — **어닝콜 특별 페이지** (2026-07-18 신설). 데이터: `data/earnings/<slug>.json` 상태머신 `draft`(출력 0)→`upcoming`(프리뷰+D-N 핀)→`live`(전체+발표 후 7일 핀, 핀만 자동 만료·페이지 영구). 템플릿 `earnings-template.html`, 렌더 `renderEarningsPage()`. 분기마다 json 만 새로 만들면 재사용. `preQuestions[]` 필드 = Say 투자자·언론 사전 질문(upcoming/live 공통 노출). `analysis[]` 필드 = 에디토리얼 상세 분석(live 전용, "\n\n" 문단 분리 — 요약+딥다이브 구성, 샘플: 2026-q1). sources 는 `name_en` 병기 필수(영문 페이지 한글 누수 방지). 페이지 하단 "지난 어닝콜" 아카이브 섹션이 발행된 분기끼리 자동 상호 링크(`renderEaPastCalls`). 현재: `2026-q1`(live·발행), `2026-q2`(upcoming·프리뷰 발행 — 7/23 09:00 KST 일회성 scheduled task 가 live 전환)
+- `earnings/<slug>.html` — **어닝콜 특별 페이지** (2026-07-18 신설). 데이터: `data/earnings/<slug>.json` 상태머신 `draft`(출력 0)→`upcoming`(프리뷰+D-N 핀)→`live`(전체+발표 후 7일 핀, 핀만 자동 만료·페이지 영구). 템플릿 `earnings-template.html`, 렌더 `renderEarningsPage()`. 분기마다 json 만 새로 만들면 재사용. `preQuestions[]` 필드 = Say 투자자·언론 사전 질문(upcoming/live 공통 노출). `analysis[]` 필드 = 에디토리얼 상세 분석(live 전용, "\n\n" 문단 분리 — 요약+딥다이브 구성, 샘플: 2026-q1). `qna[]` 필드 = 콜 실제 문답(live 전용 "콜 Q&A" 섹션 — 트랜스크립트·2매체 교차 검증 문답만, X 단독 소스 금지). sources 는 `name_en` 병기 필수(영문 페이지 한글 누수 방지). 페이지 하단 "지난 어닝콜" 아카이브 섹션이 발행된 분기끼리 자동 상호 링크(`renderEaPastCalls`). 현재: `2026-q1`(live·발행), `2026-q2`(upcoming·프리뷰 발행 — 7/23 09:00 KST 일회성 scheduled task 가 live 전환)
 
 ## 파일 구조
 

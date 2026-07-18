@@ -1215,6 +1215,30 @@ function renderEaPreQuestions(preQuestions, lang) {
   </section>`;
 }
 
+// qna: [{asker,asker_en,question,question_en,answer,answer_en,answeredBy,answeredBy_en}] — 콜 실제 문답(live 전용).
+//  트랜스크립트·교차 검증된 문답만 기록하는 게 원칙(수집 태스크 가드). answer 는 요약·번역.
+function renderEaQna(qna, lang) {
+  const items = (Array.isArray(qna) ? qna : []).filter((q) => q && (q.question || q.question_en) && (q.answer || q.answer_en));
+  if (!items.length) return "";
+  const heading = lang === "en" ? "Call Q&A" : "콜 Q&A";
+  const blocks = items.map((q) => {
+    const question = escapeHtml((lang === "en" ? (q.question_en || q.question) : q.question) || "");
+    const answer = escapeHtml((lang === "en" ? (q.answer_en || q.answer) : q.answer) || "");
+    const asker = (lang === "en" ? (q.asker_en || q.asker) : q.asker) || "";
+    const by = (lang === "en" ? (q.answeredBy_en || q.answeredBy) : q.answeredBy) || "";
+    return `<div class="ea-qa">
+        <p class="ea-qa__q">${question}</p>
+        ${asker ? `<span class="ea-qa__meta">${escapeHtml(asker)}</span>` : ""}
+        <p class="ea-qa__a">${answer}</p>
+        ${by ? `<span class="ea-qa__meta">— ${escapeHtml(by)}</span>` : ""}
+      </div>`;
+  }).join("\n      ");
+  return `<section class="ea-sec ea-qna">
+    <h2 class="ea-sec__h">${escapeHtml(heading)}</h2>
+    ${blocks}
+  </section>`;
+}
+
 // consensus: { eps, revenue, note, note_en } — upcoming 프리뷰용(라이브 전환 후에도 값이 남아있으면 계속 표시).
 function renderEaConsensus(consensus, lang) {
   if (!consensus) return "";
@@ -1344,6 +1368,7 @@ function renderEarningsPage(template, data, lang = "ko", now = new Date(), allEn
   const guidanceHtml = status === "live" ? renderEaGuidance(data.guidance, lang) : "";
   const marketHtml   = status === "live" ? renderEaMarket(data.marketReaction, lang) : "";
   const analysisHtml = status === "live" ? renderEaAnalysis(data.analysis, lang) : "";
+  const qnaHtml      = status === "live" ? renderEaQna(data.qna, lang) : "";
 
   // 두 상태 공통(데이터 있으면 노출) — 관전포인트·사전질문·컨센서스·소스/webcast
   const watchHtml     = renderEaWatch(data.watchPoints, lang, status);
@@ -1383,6 +1408,7 @@ function renderEarningsPage(template, data, lang = "ko", now = new Date(), allEn
   out = replaceBlock(out, "EA_ANALYSIS",  analysisHtml, opts);
   out = replaceBlock(out, "EA_WATCH",     watchHtml, opts);
   out = replaceBlock(out, "EA_QUESTIONS", questionsHtml, opts);
+  out = replaceBlock(out, "EA_QNA",       qnaHtml, opts);
   out = replaceBlock(out, "EA_CONSENSUS", consensusHtml, opts);
   out = replaceBlock(out, "EA_SOURCES",   sourcesHtml, opts);
   out = replaceBlock(out, "EA_PAST",      pastHtml, opts);
