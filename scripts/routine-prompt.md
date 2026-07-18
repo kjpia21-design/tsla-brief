@@ -268,6 +268,14 @@ git reset --hard origin/master
 - 🌐 **각 카드는 한·영 필드를 한 객체에 함께** 담는다(title+title_en, body+body_en, summary+summary_en, hotShort+hotShort_en).
   별도 `cards-en.json`/`archive-en.json` 은 만들지 않는다 — **한 파일에 한·영 공존**(빌드가 언어별로 골라 쓴다).
 
+## Step 5.5 — 투자자 캘린더 확정 반영 (조건부 · 해당 시에만 — 2026-07-18 신설)
+이번에 정제·병합한 카드가 **테슬라 공식 IR 일정 확정**을 보도하면(분기 실적 발표·컨퍼런스콜 날짜, P&D 발표일, 주주총회 등), `data/calendar.json` 도 함께 갱신한다. **대부분의 실행에서는 해당 없음 — 확정 보도가 없으면 이 파일을 절대 건드리지 않는다.**
+- **공식 근거만 반영**: 테슬라 IR·8-K·공식 보도자료 발표를 다룬 카드(`sec`/`official`, 또는 `press` 2곳+ 교차확인). **애널리스트 예상·컨센서스·추측("~로 예상")은 반영 금지** — 검증 게이트와 동일 원칙.
+- **방법**: 해당 이벤트(key `YYYY-Qn-earnings` / `YYYY-Qn-pd`)의 `date` 를 공식일로 고치고 `"tentative": false` 로 바꾼다. 날짜는 **미국(ir.tesla.com) 발표일 기준** — 뉴스카드 표기와 동일 관례(KST 변환 금지. 예: 7/22 5:30PM ET 콜 = KST 7/23 새벽이지만 `2026-07-22` 로 기록).
+- 목록에 없는 공식 일정(주주총회 등)은 같은 스키마로 **추가**한다: `key`(예 `2026-annual-meeting`) · `date` · `title` · `title_en` · `"tentative": false`. 기존 이벤트·구조는 유지.
+- 이미 `tentative: false` 인 이벤트는 **공식 '일정 변경' 보도가 아닌 한 수정 금지**.
+- 월 1회 롤포워드(`scripts/refresh-calendar.mjs`)가 `tentative:false` 를 key 로 보존하므로 확정 반영이 덮어써질 걱정은 없다. 빌드는 확정 이벤트에 ✓ 마크를 자동 표시한다.
+
 ## 🎬 영상 파이프라인 연동 (cards.json 직접 소비 — 깨지지 않게)
 별도 테슬라 데일리 영상 파이프라인이 매일 이 `data/cards.json` 을 받아 **KO·EN 영상 대본**을 만든다.
 다음을 지키면 영상에 **무중단으로** 붙는다(번역 왕복 제거 → 영어 영상 품질·속도↑):
@@ -292,6 +300,7 @@ node build.mjs
 ## Step 7 — 커밋 & 푸시
 ```
 git add data/cards.json data/archive.json
+# Step 5.5 에서 캘린더 확정을 반영했다면 그때만: git add data/calendar.json
 git commit -m "content: 뉴스 자동 정제 — <오늘 날짜>"
 git push origin HEAD:master
 ```
@@ -303,5 +312,5 @@ git push origin HEAD:master
 - `node scripts/fetch-news.mjs` 실행 (Routine IP 가 RSS 403 차단 — RSS 페치는 GitHub Actions 전담)
 - 임의 HTTP 라이브러리·`curl`·`node fetch` 등으로 **직접** 외부 요청 (Routine IP 가 차단됨). ⚠️ **단, Claude 내장 `WebFetch`/`WebSearch` 도구는 허용·권장** — Anthropic 인프라가 대신 가져오므로 Routine IP 제약을 받지 않는다(맨 위 '에이전트 워크플로우' 참고).
 - 새 브랜치 생성 / PR 생성
-- `data/cards.json`, `data/archive.json` 외 다른 파일 수정
+- `data/cards.json`, `data/archive.json` 외 다른 파일 수정 (단 하나의 예외 — Step 5.5 조건 충족 시에만 `data/calendar.json`)
 - 별도 영어 파일(`*-en.json`) 생성 — 영어는 같은 카드 객체의 `_en` 필드로 넣는다(별도 파일 금지)

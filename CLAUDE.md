@@ -45,6 +45,7 @@ JP에게 친근한 존댓말로 답해주세요.
 │  • git pull → raw-cards.json 읽기
 │  • 한국어+영어 이중언어 정제 (_en 필드) — 지침: scripts/routine-prompt.md
 │  • cards.json + archive.json (100 cap)
+│  • +IR 일정 확정 보도 시 calendar.json 갱신
 │  • git push origin HEAD:master
 └─────────────────────────────────────────┘
                 ↓ master push
@@ -219,10 +220,11 @@ cd worker && wrangler deploy
 - Step 3: 4~6장 선별 (비영어권 매체 제외)
 - Step 4: 한국어만 정제 (영어 필드/파일 절대 생성 금지)
 - Step 5: cards.json + archive.json **2개만** 갱신 (slug dedup, pubDate desc, 50 cap)
+- Step 5.5 (2026-07-18 신설): 카드가 **테슬라 공식 IR 일정 확정**(실적콜·P&D·주총)을 보도할 때만 `data/calendar.json` 의 해당 이벤트 date 확정 + `tentative:false` (미국 발표일 기준, 애널 예상 반영 금지). 월 1회 롤포워드(`refresh-calendar.mjs`)가 확정 이벤트를 key 로 보존
 - Step 6: `node build.mjs` 검증
 - Step 7: commit + `git push origin HEAD:master` (HEAD:master 형식 필수)
 
-❌ 절대 금지: `node scripts/fetch-news.mjs` (Routine IP 가 RSS 403 차단), 외부 HTTP, 새 브랜치 생성, PR 생성, 다른 파일 수정, 영어 데이터(`*-en.json`) 생성 (영어 페이지 폐지).
+❌ 절대 금지: `node scripts/fetch-news.mjs` (Routine IP 가 RSS 403 차단), 외부 HTTP, 새 브랜치 생성, PR 생성, 다른 파일 수정(예외: Step 5.5 조건 충족 시 calendar.json), 영어 데이터(`*-en.json`) 생성 (영어 페이지 폐지).
 
 ✅ 인명 표기 가이드 (한국 표준): 젠슨 황 (휴앙 X), 일론 머스크, 사이버트럭, 사이버캡, 로보택시, 옵티머스, 파워월/메가팩, FSD (약어), 모델3/Y/S/X, 하이랜드/주니퍼
 

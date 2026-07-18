@@ -50,8 +50,12 @@ for (const e of existing.events || []) {
   if (e && e.key && e.tentative === false) confirmed.set(e.key, e);
 }
 
-const merged = candidates
-  .map((e) => (confirmed.has(e.key) ? confirmed.get(e.key) : { ...e, tentative: true }))
+// 분기 패턴 후보에 없는 확정 이벤트(주총 등 비분기 일정, 또는 후보 날짜가 지나 후보에서 빠진 확정일)도 미래면 보존.
+const candidateKeys = new Set(candidates.map((c) => c.key));
+const extraConfirmed = [...confirmed.values()]
+  .filter((e) => e.date >= todayISO && !candidateKeys.has(e.key));
+const merged = [...candidates.map((e) => (confirmed.has(e.key) ? confirmed.get(e.key) : { ...e, tentative: true })), ...extraConfirmed]
+  .sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0))
   .slice(0, HORIZON);
 
 const out = {
