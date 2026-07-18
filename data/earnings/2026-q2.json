@@ -93,12 +93,12 @@
     "note_en": "Per the company-compiled consensus of 23 firms (Barclays, BofA, JPMorgan, Morgan Stanley and others) published via Tesla IR, adjusted EPS of $0.55 on revenue of $27.58B — up from $0.52 and $25.5B a year ago. The Zacks consensus sits lower at $0.47 EPS and $24.7B revenue, reflecting spread across providers (as of mid-July)."
   },
   "sources": [
-    { "name": "Tesla IR (웹캐스트·실적 공지)", "href": "https://ir.tesla.com" },
-    { "name": "Say — Tesla 주주 질문 페이지", "href": "https://app.say.com/tesla" },
-    { "name": "Not a Tesla App — Q2 2026 애널리스트 컨센서스", "href": "https://www.notateslaapp.com/news/4458/tesla-releases-q2-2026-earnings-estimates-from-analysts" },
-    { "name": "Electrek — Q2 2026 주주 사전 질문 분석", "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/" },
-    { "name": "Benzinga — 상위 투자자 질문 정리", "href": "https://www.benzinga.com/markets/tech/26/07/60488913/tesla-q2-earnings-elon-musks-pay-package-cybercab-and-optimus-lead-top-investor-questions" },
-    { "name": "CNBC — Q2 2026 인도·생산 실적", "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html" }
+    { "name": "Tesla IR (웹캐스트·실적 공지)", "name_en": "Tesla IR (webcast & earnings notice)", "href": "https://ir.tesla.com" },
+    { "name": "Say — Tesla 주주 질문 페이지", "name_en": "Say — Tesla shareholder Q&A page", "href": "https://app.say.com/tesla" },
+    { "name": "Not a Tesla App — Q2 2026 애널리스트 컨센서스", "name_en": "Not a Tesla App — Q2 2026 analyst consensus", "href": "https://www.notateslaapp.com/news/4458/tesla-releases-q2-2026-earnings-estimates-from-analysts" },
+    { "name": "Electrek — Q2 2026 주주 사전 질문 분석", "name_en": "Electrek — Q2 2026 shareholder questions analysis", "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/" },
+    { "name": "Benzinga — 상위 투자자 질문 정리", "name_en": "Benzinga — top investor questions roundup", "href": "https://www.benzinga.com/markets/tech/26/07/60488913/tesla-q2-earnings-elon-musks-pay-package-cybercab-and-optimus-lead-top-investor-questions" },
+    { "name": "CNBC — Q2 2026 인도·생산 실적", "name_en": "CNBC — Q2 2026 delivery & production report", "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html" }
   ],
   "updatedAt": "2026-07-18T16:00:00+09:00"
 }

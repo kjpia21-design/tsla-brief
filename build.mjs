@@ -1220,9 +1220,10 @@ function renderEaSources(data, lang) {
   if (!sources.length && !hasWebcast && !hasDeck) return "";
   const heading = lang === "en" ? "Sources" : "원문 소스";
   const L = lang === "en" ? { webcast: "Watch webcast", deck: "Shareholder deck (PDF)" } : { webcast: "웹캐스트 보기", deck: "주주서한 PDF" };
-  const list = sources.map((s) =>
-    `<a class="ea-src__item" href="${escapeHtml(s.href)}" target="_blank" rel="noopener nofollow">${escapeHtml(s.name || s.href)}</a>`
-  ).join("\n      ");
+  const list = sources.map((s) => {
+    const nm = (lang === "en" ? (s.name_en || s.name) : s.name) || s.href;
+    return `<a class="ea-src__item" href="${escapeHtml(s.href)}" target="_blank" rel="noopener nofollow">${escapeHtml(nm)}</a>`;
+  }).join("\n      ");
   const buttons = [
     hasWebcast ? `<a class="art__source__cta" href="${escapeHtml(data.webcast)}" target="_blank" rel="noopener nofollow">${escapeHtml(L.webcast)}</a>` : "",
     hasDeck    ? `<a class="art__source__cta" href="${escapeHtml(data.deckUrl)}" target="_blank" rel="noopener nofollow">${escapeHtml(L.deck)}</a>` : "",

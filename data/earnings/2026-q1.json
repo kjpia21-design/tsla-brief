@@ -92,11 +92,11 @@
     "note_en": "LSEG consensus. Estimates varied by provider — revenue slightly missed the LSEG figure ($22.64B) but topped most other tallies ($22.2-22.4B), while EPS of $0.41 was a double-digit beat on every count."
   },
   "sources": [
-    { "name": "Tesla IR — Q1 2026 실적 발표 보도자료", "href": "https://ir.tesla.com/press-release/tesla-releases-first-quarter-2026-financial-results" },
-    { "name": "Tesla Q1 2026 Update (주주서한 PDF)", "href": "https://ir.tesla.com/_flysystem/s3/sec/000162828026026551/tsla-20260422-gen.pdf" },
-    { "name": "CNBC — Tesla (TSLA) Q1 2026 earnings report", "href": "https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html" },
-    { "name": "Electrek — Tesla releases Q1 2026 financial results", "href": "https://electrek.co/2026/04/22/tesla-tsla-q1-2026-financial-results/" },
-    { "name": "TIKR — Q1 어닝 비트에도 주가가 하락한 이유", "href": "https://www.tikr.com/blog/tesla-q1-2026-earnings-beat-so-why-did-the-stock-fall-3-56" }
+    { "name": "Tesla IR — Q1 2026 실적 발표 보도자료", "name_en": "Tesla IR — Q1 2026 results press release", "href": "https://ir.tesla.com/press-release/tesla-releases-first-quarter-2026-financial-results" },
+    { "name": "Tesla Q1 2026 Update (주주서한 PDF)", "name_en": "Tesla Q1 2026 Update (shareholder deck PDF)", "href": "https://ir.tesla.com/_flysystem/s3/sec/000162828026026551/tsla-20260422-gen.pdf" },
+    { "name": "CNBC — Tesla (TSLA) Q1 2026 earnings report", "name_en": "CNBC — Tesla (TSLA) Q1 2026 earnings report", "href": "https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html" },
+    { "name": "Electrek — Tesla releases Q1 2026 financial results", "name_en": "Electrek — Tesla releases Q1 2026 financial results", "href": "https://electrek.co/2026/04/22/tesla-tsla-q1-2026-financial-results/" },
+    { "name": "TIKR — Q1 어닝 비트에도 주가가 하락한 이유", "name_en": "TIKR — why the stock fell despite the Q1 beat", "href": "https://www.tikr.com/blog/tesla-q1-2026-earnings-beat-so-why-did-the-stock-fall-3-56" }
   ],
   "updatedAt": "2026-07-18T16:00:00+09:00"
 }
