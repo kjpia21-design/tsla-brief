@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-19 17:03 UTC · 누적 634건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-19 19:13 UTC · 누적 635건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "stock",
@@ -26,6 +26,31 @@
         "CNBC"
       ],
       "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-19T09:30:00.000Z",
+      "title": "테슬라 유럽 유일공장 그린하이데, 10월부터 생산 <em>20% 증대</em> — 주 7,500대 목표",
+      "hotShort": "그린하이데, 10월부터 생산 <em>20% 증대</em>",
+      "body": "테슬라의 유럽 유일 생산기지 그린하이데(기가베를린)가 10월부터 생산량을 20% 늘려 주 7,500대(연 약 37만5000대) 체제로 전환한다 — 2분기 실적 발표(D-3)를 앞두고 나온 공식 연례보고서 수치라 유럽 수요 회복 신호로 해석된다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "product-gruenheide-production-boost-2026-07-19",
+      "summary": "테슬라 매뉴팩처링 브란덴부르크(Tesla Manufacturing Brandenburg SE)의 연례보고서에 따르면, 그린하이데 공장은 2026 회계연도 생산량을 전년 대비 큰 폭으로 늘리고 가동률도 함께 끌어올릴 계획이다. 이 공장은 2022년 3월 가동을 시작한 테슬라의 유일한 유럽 생산기지로, 현재 모델Y를 생산하고 있다.\n\n구체적으로는 10월부터 주간 생산량을 20% 추가로 늘려 <em>주 7,500대</em>, 연간 약 37만5000대 체제로 전환한다는 목표다. 이는 앞서 테슬라가 밝힌 연산 37만5000대 목표치를 그대로 재확인한 수치로, 완전 가동 시에도 공장 설계 캐파의 약 65% 수준에 그친다.\n\n테슬라는 이번 증산과 함께 2026년 중 3,500명의 신규 채용도 계획하고 있다고 밝혔다. 그린하이데는 2025년 말 기준 임시직을 포함해 약 1만1000명을 고용 중이며, 배터리 셀부터 완성차까지 밸류체인 전체를 현지에서 통합하는 것이 목표다.\n\n공장은 현재 30개 이상의 시장에 차량을 공급 중이며, 향후 공급 시장을 추가로 확대할 계획이다. 이번 발표는 테슬라의 2분기 실적 발표(7월22일, D-3)를 코앞에 두고 나와, 유럽 수요 회복에 대한 회사 측의 자신감을 보여주는 신호로 주주들의 관심을 끌고 있다.",
+      "title_en": "Tesla's sole European plant Grünheide to boost output <em>20% from October</em>",
+      "hotShort_en": "Grünheide output <em>up 20%</em> starting October",
+      "body_en": "Tesla's only European factory, Grünheide, will boost production 20% to 7,500 vehicles a week (about 375,000 a year) starting in October — a bullish demand signal from an official annual filing just days before Tesla's Q2 earnings call.",
+      "summary_en": "According to the annual report from Tesla Manufacturing Brandenburg SE, the Grünheide plant plans to significantly raise 2026 production volume year-over-year while also lifting capacity utilization. Opened in March 2022, Grünheide is Tesla's only production site in Europe and currently builds the Model Y.\n\nSpecifically, weekly output is set to rise an additional 20% starting in October, reaching <em>7,500 vehicles a week</em> — roughly 375,000 a year. That reaffirms a target Tesla had previously stated, though even at full run-rate the plant would still operate at only about 65% of its stated capacity.\n\nAlongside the ramp-up, Tesla said it plans to hire 3,500 new workers in 2026. Grünheide employed roughly 11,000 people, including temporary staff, at the end of 2025, and the company aims to integrate the full value chain on-site, from battery cells to finished vehicles.\n\nThe plant currently supplies more than 30 markets and plans to expand into additional ones. The announcement lands just days ahead of Tesla's Q2 earnings call (July 22, T-minus-3), signaling management's confidence in a European demand recovery — a detail shareholders are watching closely.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-19/tesla-boosts-production-at-german-plant-as-demand-rises",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "bull",
       "hot": 6
     },
     {
