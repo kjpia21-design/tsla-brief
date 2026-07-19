@@ -28,6 +28,31 @@
       "hot": 6
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-19T09:30:00.000Z",
+      "title": "테슬라 유럽 유일공장 그린하이데, 10월부터 생산 <em>20% 증대</em> — 주 7,500대 목표",
+      "hotShort": "그린하이데, 10월부터 생산 <em>20% 증대</em>",
+      "body": "테슬라의 유럽 유일 생산기지 그린하이데(기가베를린)가 10월부터 생산량을 20% 늘려 주 7,500대(연 약 37만5000대) 체제로 전환한다 — 2분기 실적 발표(D-3)를 앞두고 나온 공식 연례보고서 수치라 유럽 수요 회복 신호로 해석된다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "product-gruenheide-production-boost-2026-07-19",
+      "summary": "테슬라 매뉴팩처링 브란덴부르크(Tesla Manufacturing Brandenburg SE)의 연례보고서에 따르면, 그린하이데 공장은 2026 회계연도 생산량을 전년 대비 큰 폭으로 늘리고 가동률도 함께 끌어올릴 계획이다. 이 공장은 2022년 3월 가동을 시작한 테슬라의 유일한 유럽 생산기지로, 현재 모델Y를 생산하고 있다.\n\n구체적으로는 10월부터 주간 생산량을 20% 추가로 늘려 <em>주 7,500대</em>, 연간 약 37만5000대 체제로 전환한다는 목표다. 이는 앞서 테슬라가 밝힌 연산 37만5000대 목표치를 그대로 재확인한 수치로, 완전 가동 시에도 공장 설계 캐파의 약 65% 수준에 그친다.\n\n테슬라는 이번 증산과 함께 2026년 중 3,500명의 신규 채용도 계획하고 있다고 밝혔다. 그린하이데는 2025년 말 기준 임시직을 포함해 약 1만1000명을 고용 중이며, 배터리 셀부터 완성차까지 밸류체인 전체를 현지에서 통합하는 것이 목표다.\n\n공장은 현재 30개 이상의 시장에 차량을 공급 중이며, 향후 공급 시장을 추가로 확대할 계획이다. 이번 발표는 테슬라의 2분기 실적 발표(7월22일, D-3)를 코앞에 두고 나와, 유럽 수요 회복에 대한 회사 측의 자신감을 보여주는 신호로 주주들의 관심을 끌고 있다.",
+      "title_en": "Tesla's sole European plant Grünheide to boost output <em>20% from October</em>",
+      "hotShort_en": "Grünheide output <em>up 20%</em> starting October",
+      "body_en": "Tesla's only European factory, Grünheide, will boost production 20% to 7,500 vehicles a week (about 375,000 a year) starting in October — a bullish demand signal from an official annual filing just days before Tesla's Q2 earnings call.",
+      "summary_en": "According to the annual report from Tesla Manufacturing Brandenburg SE, the Grünheide plant plans to significantly raise 2026 production volume year-over-year while also lifting capacity utilization. Opened in March 2022, Grünheide is Tesla's only production site in Europe and currently builds the Model Y.\n\nSpecifically, weekly output is set to rise an additional 20% starting in October, reaching <em>7,500 vehicles a week</em> — roughly 375,000 a year. That reaffirms a target Tesla had previously stated, though even at full run-rate the plant would still operate at only about 65% of its stated capacity.\n\nAlongside the ramp-up, Tesla said it plans to hire 3,500 new workers in 2026. Grünheide employed roughly 11,000 people, including temporary staff, at the end of 2025, and the company aims to integrate the full value chain on-site, from battery cells to finished vehicles.\n\nThe plant currently supplies more than 30 markets and plans to expand into additional ones. The announcement lands just days ahead of Tesla's Q2 earnings call (July 22, T-minus-3), signaling management's confidence in a European demand recovery — a detail shareholders are watching closely.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-19/tesla-boosts-production-at-german-plant-as-demand-rises",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -2365,32 +2390,7 @@
       "href": "https://www.notateslaapp.com/news/4398/rj-scaringe-doesnt-want-tesla-to-acquire-rivian",
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "few minutes ago",
-      "pubDate": "2026-07-05T16:36:17.000Z",
-      "title": "일론 머스크, \"미국 사랑 않으면 <em>즉각 추방</em>해야\" — 정치 발언 논란 재점화",
-      "hotShort": "머스크, \"미국 안 사랑하면 <em>즉각 추방</em>\" 발언",
-      "body": "일론 머스크가 X에서 논객 스펜서 프랫의 '미국을 사랑해도 된다'는 글에 \"미국을 사랑하지 않는 자는 배신자이며, 충성심이 다른 나라에 있는 이들은 즉각 추방해야 한다\"고 답했다 — 독립기념일 연휴 직후 애국 관련 게시물을 잇달아 올리던 중 나온 발언으로, 과거 정치 발언이 유럽 판매·브랜드 이미지 논란으로 번졌던 전례가 있어 재점화 여부가 주목된다.",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "musk-exile-comment-controversy-2026-07-05",
-      "summary": "스펜서 프랫은 최근 로스앤젤레스 시장 선거·노숙자 정책을 둘러싼 발언으로 화제를 모은 방송인 출신 논객으로, 일론 머스크가 그의 주장을 여러 차례 자신의 X 계정에서 증폭시켜 온 바 있다.\n\n지난 4일(현지시간) 프랫이 \"미국을 사랑해도 괜찮다\"는 취지의 글을 올리자, 머스크는 \"단순히 '괜찮다' 정도가 아니다 — 미국을 사랑하지 않는 자는 배신자이며 경멸받아 마땅하다. 충성심이 다른 나라에 있는 이들, 불충한 이들은 즉각 추방해야 한다\"고 답했다.\n\n이 발언은 독립기념일(7월 4일) 연휴를 전후해 머스크가 연달아 올린 친미 성향 게시물들 가운데 나왔다. 미디에이트 등 매체가 이를 즉시 보도하며 논쟁이 확산됐다.\n\n주주 입장에서는 머스크의 정치적 발언이 브랜드 이미지에 미치는 영향을 다시 주시할 대목이다. 앞서 유럽에서는 머스크의 정치 개입 논란 속에서도 6월 판매가 오히려 반등한 전례가 있어, 이번 발언이 실제 판매·주가에 미칠 영향은 아직 불확실하다. 다만 반복되는 정치 논란이 누적될 경우 브랜드 리스크로 작용할 수 있다는 점은 계속 지켜봐야 할 변수다.",
-      "title_en": "Musk says those who don't love America should be <em>\"exiled immediately\"</em> — reignites political backlash",
-      "hotShort_en": "Musk: America-haters should be <em>\"exiled immediately\"</em>",
-      "body_en": "Elon Musk responded on X to commentator Spencer Pratt's post that it's \"OK to love America,\" writing that anyone who doesn't love America \"is a traitor... and beneath contempt,\" and that the disloyal \"should be exiled immediately\" — a comment made amid a string of pro-America posts right after the July 4th holiday, reigniting scrutiny of how Musk's political statements have previously fed brand and European-sales controversy.",
-      "summary_en": "Spencer Pratt, a former reality-TV personality turned commentator, has recently drawn attention for remarks on the Los Angeles mayoral race and homelessness policy — commentary Musk has repeatedly amplified on X.\n\nAfter Pratt posted on July 4 that it's \"OK to love America,\" Musk replied: \"Not merely 'ok'. Anyone who doesn't love America is a traitor and beneath contempt. Those who don't love America, those who are disloyal, should be exiled immediately.\"\n\nThe remark came amid a series of pro-America posts Musk shared around the Independence Day holiday. Outlets including Mediaite quickly reported on the exchange, and the comment spread widely.\n\nFor shareholders, the episode is a reminder to keep watching how Musk's political statements affect brand perception. European sales have previously rebounded even amid controversy over his political involvement, so the near-term sales or stock impact of this remark is unclear. But recurring political flashpoints remain a variable worth monitoring as a potential cumulative brand risk.",
-      "href": "https://x.com/elonmusk/status/2071571936241475706",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Elon Musk (X)",
-        "Mediaite"
-      ],
-      "sentiment": "bear",
-      "hot": 3
     }
   ],
-  "asOf": "2026-07-19 20:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-19 21:40 KST 자동 갱신 · 최신순"
 }

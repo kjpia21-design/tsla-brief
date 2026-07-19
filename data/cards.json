@@ -28,6 +28,31 @@
       "hot": 6
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-19T09:30:00.000Z",
+      "title": "테슬라 유럽 유일공장 그린하이데, 10월부터 생산 <em>20% 증대</em> — 주 7,500대 목표",
+      "hotShort": "그린하이데, 10월부터 생산 <em>20% 증대</em>",
+      "body": "테슬라의 유럽 유일 생산기지 그린하이데(기가베를린)가 10월부터 생산량을 20% 늘려 주 7,500대(연 약 37만5000대) 체제로 전환한다 — 2분기 실적 발표(D-3)를 앞두고 나온 공식 연례보고서 수치라 유럽 수요 회복 신호로 해석된다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "product-gruenheide-production-boost-2026-07-19",
+      "summary": "테슬라 매뉴팩처링 브란덴부르크(Tesla Manufacturing Brandenburg SE)의 연례보고서에 따르면, 그린하이데 공장은 2026 회계연도 생산량을 전년 대비 큰 폭으로 늘리고 가동률도 함께 끌어올릴 계획이다. 이 공장은 2022년 3월 가동을 시작한 테슬라의 유일한 유럽 생산기지로, 현재 모델Y를 생산하고 있다.\n\n구체적으로는 10월부터 주간 생산량을 20% 추가로 늘려 <em>주 7,500대</em>, 연간 약 37만5000대 체제로 전환한다는 목표다. 이는 앞서 테슬라가 밝힌 연산 37만5000대 목표치를 그대로 재확인한 수치로, 완전 가동 시에도 공장 설계 캐파의 약 65% 수준에 그친다.\n\n테슬라는 이번 증산과 함께 2026년 중 3,500명의 신규 채용도 계획하고 있다고 밝혔다. 그린하이데는 2025년 말 기준 임시직을 포함해 약 1만1000명을 고용 중이며, 배터리 셀부터 완성차까지 밸류체인 전체를 현지에서 통합하는 것이 목표다.\n\n공장은 현재 30개 이상의 시장에 차량을 공급 중이며, 향후 공급 시장을 추가로 확대할 계획이다. 이번 발표는 테슬라의 2분기 실적 발표(7월22일, D-3)를 코앞에 두고 나와, 유럽 수요 회복에 대한 회사 측의 자신감을 보여주는 신호로 주주들의 관심을 끌고 있다.",
+      "title_en": "Tesla's sole European plant Grünheide to boost output <em>20% from October</em>",
+      "hotShort_en": "Grünheide output <em>up 20%</em> starting October",
+      "body_en": "Tesla's only European factory, Grünheide, will boost production 20% to 7,500 vehicles a week (about 375,000 a year) starting in October — a bullish demand signal from an official annual filing just days before Tesla's Q2 earnings call.",
+      "summary_en": "According to the annual report from Tesla Manufacturing Brandenburg SE, the Grünheide plant plans to significantly raise 2026 production volume year-over-year while also lifting capacity utilization. Opened in March 2022, Grünheide is Tesla's only production site in Europe and currently builds the Model Y.\n\nSpecifically, weekly output is set to rise an additional 20% starting in October, reaching <em>7,500 vehicles a week</em> — roughly 375,000 a year. That reaffirms a target Tesla had previously stated, though even at full run-rate the plant would still operate at only about 65% of its stated capacity.\n\nAlongside the ramp-up, Tesla said it plans to hire 3,500 new workers in 2026. Grünheide employed roughly 11,000 people, including temporary staff, at the end of 2025, and the company aims to integrate the full value chain on-site, from battery cells to finished vehicles.\n\nThe plant currently supplies more than 30 markets and plans to expand into additional ones. The announcement lands just days ahead of Tesla's Q2 earnings call (July 22, T-minus-3), signaling management's confidence in a European demand recovery — a detail shareholders are watching closely.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-19/tesla-boosts-production-at-german-plant-as-demand-rises",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -176,32 +201,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-07-16T16:13:29.000Z",
-      "title": "테슬라 <em>$2억4300만 오토파일럿 배상평결</em> 항소전 — 前연방 송무차관보 등 거물 변호인단 투입",
-      "hotShort": "테슬라 <em>2.43억달러 배상평결</em> 항소 공방 개시",
-      "body": "2019년 플로리다 키라고(Key Largo)에서 오토파일럿 작동 중 발생한 사망사고에 대해 배심원단이 매긴 <em>$2억4300만</em> 배상 평결에, 테슬라가 前 연방 송무차관보 폴 클레멘트와 깁슨던(Gibson Dunn) 로펌 항소전문 변호사들을 앞세워 제11순회 연방항소법원에 항소했다 — 오토파일럿 소송 리스크가 실제 재무 부담으로 이어질지 가늠할 주요 분수령이다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "stock-243m-autopilot-crash-appeal-2026-07-16",
-      "summary": "2019년 4월25일 플로리다 키라고에서 조지 맥기(George McGee)가 오토파일럿을 작동한 모델S를 몰던 중 떨어뜨린 휴대폰을 찾으려 고개를 숙인 사이, 차량이 정지 표지판과 점멸 적신호를 무시하고 시속 약 <em>62마일</em>로 주행해 갓길에 정차해 있던 SUV를 들이받았다. 이 사고로 당시 20세이던 나이벨 베나비데스 레온이 숨지고, 남자친구 딜런 앙굴로가 중상을 입었다.\n\n2025년 8월 배심원단은 테슬라에 총 <em>$2억4300만</em>(비교 손해배상 $1억2900만 포함)을 배상하라고 평결했다. 2026년 2월 베스 블룸 연방판사는 테슬라 측의 평결 파기·감액 요청을 기각하며 \"증거가 평결을 충분히 뒷받침한다\"고 밝혔다.\n\n이에 테슬라는 지난 3월16일 제11순회 연방항소법원에 항소장을 제출했고, 前 미 연방 송무차관보 폴 클레멘트와 깁슨던 로펌의 항소심 전문 변호사 시어도어 부트루스 주니어·미겔 에스트라다를 항소심 대리인단으로 앞세웠다. 이들은 플로리다주 법이 이번 사안에서 징벌적 손해배상을 허용하지 않는다고 주장하며, 비교 손해배상액도 $1억2900만에서 $6900만으로 낮춰야 한다고 맞서고 있다. 미 상공회의소를 비롯한 재계 단체들도 평결 파기를 촉구하는 의견서를 법원에 제출했다.\n\n테슬라 주주 입장에서, 이번 항소심의 결과는 오토파일럿·FSD 관련 소송이 실제로 얼마나 큰 재무적 부담이 될 수 있는지를 가늠하는 중요한 선례가 될 전망이다.",
-      "title_en": "Tesla's <em>$243M Autopilot crash verdict</em> heads to appeal — Paul Clement, Gibson Dunn lead defense",
-      "hotShort_en": "Tesla's <em>$243M verdict</em> heads to appeal court",
-      "body_en": "Tesla has appealed a <em>$243 million</em> jury verdict over a fatal 2019 Autopilot crash in Key Largo, Florida to the Eleventh Circuit, enlisting former U.S. Solicitor General Paul Clement and Gibson Dunn appellate specialists Theodore Boutrous Jr. and Miguel Estrada — a case that will help show how much real financial exposure Tesla's Autopilot litigation actually carries.",
-      "summary_en": "On April 25, 2019, George McGee was driving a Model S with Autopilot engaged in Key Largo, Florida when he bent down to retrieve a dropped phone; the car ran a stop sign and a flashing red light at about <em>62 mph</em> and struck a parked SUV, killing 20-year-old Naibel Benavides Leon and severely injuring her boyfriend, Dillon Angulo.\n\nIn August 2025, a jury awarded a total of <em>$243 million</em> in damages, including <em>$129 million</em> in compensatory damages. In February 2026, U.S. District Judge Beth Bloom rejected Tesla's bid to set aside or reduce the verdict, saying the evidence \"more than supported\" the jury's findings.\n\nTesla filed a notice of appeal to the Eleventh Circuit on March 16, assembling a high-profile team led by former U.S. Solicitor General Paul Clement alongside Gibson Dunn appellate specialists Theodore Boutrous Jr. and Miguel Estrada. The team argues Florida law doesn't permit punitive damages under these circumstances and that compensatory damages should be cut from $129 million to $69 million. Business groups, including the U.S. Chamber of Commerce, have also filed briefs urging the court to vacate the verdict.\n\nFor Tesla shareholders, the outcome of this appeal is an important test case for how much real financial exposure the company's Autopilot and FSD-related litigation could ultimately carry.",
-      "href": "https://www.reuters.com/legal/litigation/legal-heavyweights-square-off-in-243-million-tesla-crash-appeal-2026-07-16/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "CNBC"
-      ],
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-19 20:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-19 21:40 KST 자동 갱신 · 최신순"
 }
