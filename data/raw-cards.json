@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-07-19 13:36 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-19 15:01 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "19m ago",
+      "time": "2h ago",
+      "pubDate": "2026-07-19T13:25:00.000Z",
+      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "body": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead Investor's Business Daily",
+      "sourceName": "Investor's Business Daily",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
       "pubDate": "2026-07-19T13:17:17.000Z",
       "title": "Earnings playbook: Alphabet and Tesla are among the big companies set to report this week",
       "body": "Earnings playbook: Alphabet and Tesla are among the big companies set to report this week CNBC",
@@ -15,61 +28,22 @@
       "href": "https://www.cnbc.com/2026/07/19/earnings-playbook-alphabet-tesla-headline-this-weeks-big-reports.html"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-07-19T11:18:46.000Z",
-      "title": "Top 5 Tesla Cybertruck Alternatives to Buy in 2026: Electric Pickup Trucks Worth Considering This Year",
-      "body": "Top 5 Tesla Cybertruck Alternatives to Buy in 2026: Electric Pickup Trucks Worth Considering This Year International Business Times Australia",
-      "sourceName": "International Business Times Australia",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "11h ago",
+      "pubDate": "2026-07-19T04:12:40.000Z",
+      "title": "Elon Musk says your Tesla will start to learn your individual preferences",
+      "body": "Elon Musk says your Tesla will start to learn your individual preferences Teslarati",
+      "sourceName": "Teslarati",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.ibtimes.com.au/electric-pickup-truck-alternatives-2026-1872571"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-07-19T11:00:47.000Z",
-      "title": "Tesla earnings preview: Time for robotaxis and Optimus to shine? (TSLA:NASDAQ)",
-      "body": "Tesla earnings preview: Time for robotaxis and Optimus to shine? (TSLA:NASDAQ) Seeking Alpha",
-      "sourceName": "Seeking Alpha",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://seekingalpha.com/news/4614850-tesla-earnings-preview-time-for-robotaxis-and-optimus-to-shine"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-07-19T10:53:26.000Z",
-      "title": "Tesla Robotaxi Rear-Ended While Stopped at Stop Sign, NHTSA Filing Shows",
-      "body": "Tesla Robotaxi Rear-Ended While Stopped at Stop Sign, NHTSA Filing Shows Stocktwits",
-      "sourceName": "Stocktwits",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://stocktwits.com/news-articles/markets/equity/tesla-robotaxi-rear-ended-while-stopped-at-stop-sign-filing-shows/cZKW4rIR73y"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-07-19T08:02:05.000Z",
-      "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
-      "body": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla InsideEVs",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch/"
+      "href": "https://www.teslarati.com/elon-musk-says-tesla-start-learn-your-individual-preferences/"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-19T04:00:56.000Z",
       "title": "Xpeng says China close to building ‘killer’ rival to Tesla Model Y",
       "body": "Xpeng says China close to building ‘killer’ rival to Tesla Model Y Financial Times",
@@ -82,7 +56,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-19T00:21:34.000Z",
       "title": "Tesla Inc, TSLACL.SN:SGO forecasts",
       "body": "Tesla Inc, TSLACL.SN:SGO forecasts Financial Times",
@@ -95,7 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-19T00:10:50.000Z",
       "title": "Ron DeSantis calls out media bias in Tesla crash coverage",
       "body": "Ron DeSantis calls out media bias in Tesla crash coverage Teslarati",
@@ -108,28 +82,15 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "18h ago",
-      "pubDate": "2026-07-18T19:20:01.000Z",
-      "title": "Elon Musk says your Tesla will start to learn your individual preferences",
-      "body": "Elon Musk said today on X that Teslas will start to learn your individual preferences. This is something that he seemed to hint toward earlier this month when he said parking was by far the biggest reason drivers interve…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/elon-musk-says-tesla-start-learn-your-individual-preferences/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "21h ago",
-      "pubDate": "2026-07-18T16:19:03.000Z",
-      "title": "Ron DeSantis calls out media bias in Tesla crash coverage",
-      "body": "Florida Governor Ron DeSantis has sharply criticized legacy media outlets for what he describes as selective and biased reporting on vehicle accidents involving Tesla. In a recent X post, DeSantis questioned why headline…",
-      "sourceName": "www.teslarati.com",
+      "pubDate": "2026-07-18T18:02:05.000Z",
+      "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
+      "body": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla InsideEVs",
+      "sourceName": "InsideEVs",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/ron-desantis-calls-out-media-bias-tesla-crash-coverage/"
+      "href": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch/"
     },
     {
       "category": "musk",
@@ -197,19 +158,6 @@
       "href": "https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-17T17:27:41.000Z",
-      "title": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
-      "body": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2d ago",
@@ -221,19 +169,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/07/17/tesla-and-intel-are-among-the-companies-reporting-next-week-with-positive-earnings-momentum-here-are-the-others.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-17T14:22:00.000Z",
-      "title": "Two Risks for Tesla Stock Not Everyone Is Talking About",
-      "body": "Two Risks for Tesla Stock Not Everyone Is Talking About Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-risks-658c1872"
     },
     {
       "category": "product",
@@ -249,6 +184,32 @@
       "href": "https://www.reuters.com/world/us-agency-denies-tesla-petition-avoid-recall-fix-over-headlight-issue-2026-07-16/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3d ago",
+      "pubDate": "2026-07-16T20:08:28.000Z",
+      "title": "US agency denies Tesla petition to avoid recall fix over headlight issue",
+      "body": "US agency denies Tesla petition to avoid recall fix over headlight issue Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/us-agency-denies-tesla-petition-avoid-recall-fix-over-headlight-issue-2026-07-16/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3d ago",
+      "pubDate": "2026-07-16T17:48:00.000Z",
+      "title": "Fed probe suggests Tesla's self-driving feature wasn't to blame in crash that killed a grandmother",
+      "body": "Fed probe suggests Tesla's self-driving feature wasn't to blame in crash that killed a grandmother AP News",
+      "sourceName": "AP News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://apnews.com/article/tesla-texas-autopilot-automated-self-driving-musk-regulators-c6694759daa2770641fbd602b16061d2"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "3d ago",
@@ -260,6 +221,45 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/legal/litigation/legal-heavyweights-square-off-in-243-million-tesla-crash-appeal-2026-07-16/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4d ago",
+      "pubDate": "2026-07-15T22:21:37.000Z",
+      "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
+      "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4d ago",
+      "pubDate": "2026-07-15T22:21:37.000Z",
+      "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
+      "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5d ago",
+      "pubDate": "2026-07-14T18:22:34.000Z",
+      "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
+      "body": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S. CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html"
     }
   ]
 }
