@@ -340,6 +340,32 @@
       "hot": 5
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3d ago",
+      "pubDate": "2026-07-16T20:00:00.000Z",
+      "title": "테슬라 주주, <em>로보택시 목표 3분기 연속 미달</em> 추궁 — 7/22 실적콜 앞두고 Say 질문 300건",
+      "hotShort": "주주, <em>로보택시 목표 3분기째 미달</em> 추궁",
+      "body": "주주 Q&A 플랫폼 Say Technologies에 올라온 최다 추천 질문 중 하나가 \"로보택시가 2025년 말 미국 50% 커버리지에서 최근 상반기 신규 7개 도시 확장까지, 3개 분기 연속 스스로 제시한 단기 목표를 놓쳤다\"며 원인을 캐물었다 — 7월22일 실적콜을 앞두고 주주들의 인내심이 한계에 달했다는 신호다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-shareholder-robotaxi-questions-q2-2026-07-19",
+      "summary": "테슬라의 2분기 실적 컨퍼런스콜(7월22일)을 앞두고 주주 질문 플랫폼 Say Technologies에 약 300건의 질문이 접수됐다. 이 중 세 번째로 많은 추천을 받은 질문이 로보택시 확장 지연을 정면으로 겨냥했다.\n\n질문 원문은 \"테슬라는 2025년 말까지 미국 50% 커버리지에서 최근 상반기 신규 7개 도시 확장까지, 3개 분기 연속 스스로 제시한 단기 목표를 달성하지 못했다. 무엇이 발목을 잡고 있나\"라고 물었다.\n\n지난 4월 테슬라는 애초 '2026년 상반기'로 못박았던 발표 도시들의 로보택시 확장 시점을 '준비 진행 중'이라는 모호한 표현으로 조용히 완화한 바 있다. 대표 격인 오스틴 서비스는 출범 1년이 넘었지만 여전히 차량 약 20대 규모에 머물러 있다.\n\n실적 발표를 앞두고 주주들의 질문 톤이 장기 비전에 대한 기대에서 \"왜 약속을 못 지켰나\"는 책임 추궁으로 옮겨간 것으로 풀이된다. 옵티머스 생산 램프업과 2027년 외부 판매 일정에 대한 질문도 Say 플랫폼 상위권에 함께 올랐다.",
+      "title_en": "Tesla shareholders grill Musk on <em>robotaxi targets missed 3 quarters running</em> ahead of Q2 call",
+      "hotShort_en": "Shareholders press Tesla on <em>robotaxi misses, 3 quarters running</em>",
+      "body_en": "One of the most-upvoted shareholder questions on Tesla's Say Technologies Q&A platform accuses the company of missing its own short-term robotaxi targets three earnings reports in a row — from 50% U.S. coverage by end-2025 to just 7 new cities in 1H26 — ahead of the July 22 earnings call, a sign shareholder patience is wearing thin.",
+      "summary_en": "Roughly 300 questions have been submitted to Tesla's shareholder Q&A platform, Say Technologies, ahead of the July 22 Q2 earnings call. The third most-upvoted question takes direct aim at the company's stalled robotaxi rollout.\n\nThe question reads: \"Tesla has missed short term guidance on robotaxi 3 earnings reports in a row, from 50% coverage of USA by end of 2025 to most recently 7 new cities in 1H26. What is keeping Tesla back from accomplishing these short term goals that they've set for themselves?\"\n\nBack in April, Tesla quietly softened its robotaxi expansion timeline for its announced cities from a firm \"1H 2026\" to a vaguer \"preparations underway.\" Its flagship Austin service still runs only around 20 vehicles more than a year after launch.\n\nThe shift in tone suggests shareholders are moving from asking about Tesla's long-term vision to demanding accountability for broken short-term promises. Questions about Optimus's production ramp and its 2027 external sales timeline also ranked near the top of the Say platform.",
+      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Benzinga",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "18m ago",
@@ -2369,31 +2395,6 @@
         "E&E News",
         "Newsweek",
         "IBTimes UK"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "15h ago",
-      "pubDate": "2026-07-05T19:39:00.000Z",
-      "title": "테슬라·메타, 나란히 시총 <em>$1.48조로 수렴</em> — 도달 이유는 정반대",
-      "hotShort": "테슬라·메타 시총 <em>$1.48조로 동률</em> — 속내는 딴판",
-      "body": "테슬라와 메타가 지난 목요일(2일) 나란히 시가총액 약 $1.48조로 마감했다 — 메타는 AI 지출 부담 우려로 고점 대비 27% 하락(당일 -4.9%), 테슬라는 2분기 인도 서프라이즈(+25% YoY) 발표 당일에도 고점 대비 21% 하락(당일 -7.5%)해 같은 값에 도달했다. 다만 최근 12개월 영업이익률은 메타 41% 대 테슬라 4.2%로 격차가 커, 같은 시총이라도 수익성 밸류에이션 부담은 테슬라 쪽이 훨씬 크다.",
-      "sourceName": "The Motley Fool",
-      "sourceLabel": "press",
-      "slug": "stock-tesla-meta-market-cap-parity-2026-07-05",
-      "summary": "지난 목요일(7월 2일) 정규장이 끝났을 때, 서로 무관해 보이던 두 빅테크가 우연히 같은 숫자에 도달했다. 테슬라와 메타 플랫폼스가 나란히 시가총액 약 $1.48조로 장을 마친 것이다 — 둘 다 '고점 대비 하락'해서 도달한 값이라는 공통점은 있지만, 그 배경은 전혀 달랐다.\n\n메타는 52주 고점 대비 약 27% 낮은 수준까지 밀려났고, 이날 하루에만 4.9% 하락했다. AI 투자 확대 계획에 대한 투자자들의 우려, 그리고 챗봇·AI 에이전트가 핵심 광고 사업에 미칠 영향에 대한 불안감이 배경으로 지목된다.\n\n테슬라 역시 고점 대비 약 21% 낮은 수준에서 같은 시총에 도달했는데, 공교롭게도 이날은 테슬라가 2분기 인도량이 컨센서스를 18% 웃도는 48만126대(전년동기 대비 +25%)를 기록했다고 발표한 날이었다. 호실적 발표에도 주가는 오히려 7.49% 급락해 1년 내 최악의 하루를 기록했다.\n\n같은 시총이라도 내용은 판이하다. 메타는 최근 분기 매출이 전년 대비 33% 늘었고 영업이익률은 41%에 달한다. 반면 테슬라는 매출 성장률이 16%에 그쳤고 영업이익률은 4.2%, 최근 12개월 주당순이익(EPS)은 단 $1.10에 불과하다. 결국 테슬라의 $1.48조 밸류에이션은 현재 이익이 아니라 로보택시·옵티머스 같은 미래 성장 스토리에 대한 시장의 기대치가 훨씬 크게 반영된 결과라는 해석이 나온다.",
-      "title_en": "Tesla and Meta <em>converge at $1.48T market cap</em> — for opposite reasons",
-      "hotShort_en": "Tesla, Meta <em>tie at $1.48T</em> market cap",
-      "body_en": "Tesla and Meta both closed last Thursday (July 2) worth about $1.48 trillion — but got there in opposite ways. Meta fell 4.9% that day and sits about 27% below its 52-week high on worries over ballooning AI spending. Tesla, despite reporting a Q2 delivery beat (+25% YoY) that same day, still dropped 7.5% and sits about 21% below its high. The two companies' profitability tells an even starker story: Meta's trailing operating margin is 41% versus Tesla's 4.2%.",
-      "summary_en": "When the closing bell rang last Thursday, July 2, two otherwise unrelated tech giants landed on the exact same number. Tesla and Meta Platforms both finished the session worth roughly $1.48 trillion — both got there by falling from their highs, but for very different reasons.\n\nMeta shares sit about 27% below their 52-week high, including a 4.9% slide on Thursday alone, as investors fret over the company's swelling AI spending plans and what chatbots and AI agents could mean for its core advertising business.\n\nTesla arrived at the same market cap from about 21% below its own high — on the very day it reported second-quarter deliveries of 480,126 vehicles, up 25% year over year and 18% above its own consensus. Despite the beat, the stock fell 7.49% that day, its worst single session in nearly a year.\n\nThe same market cap masks very different fundamentals. Meta grew revenue 33% year over year last quarter with a 41% operating margin. Tesla's revenue grew just 16% with a 4.2% operating margin, and its trailing-12-month EPS sits at only $1.10. The takeaway: Tesla's $1.48 trillion valuation rests far less on current profits than on the market's expectations for future growth engines like Robotaxi and Optimus.",
-      "href": "https://www.fool.com/investing/2026/07/05/meta-and-tesla-are-suddenly-worth-the-same-148-tri/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "The Motley Fool",
-        "The Globe and Mail"
       ],
       "sentiment": "neutral",
       "hot": 4
