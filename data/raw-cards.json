@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-07-19 09:56 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-19 11:15 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "15m ago",
+      "pubDate": "2026-07-19T11:00:47.000Z",
+      "title": "Tesla earnings preview: Time for robotaxis and Optimus to shine? (TSLA:NASDAQ)",
+      "body": "Tesla earnings preview: Time for robotaxis and Optimus to shine? (TSLA:NASDAQ) Seeking Alpha",
+      "sourceName": "Seeking Alpha",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://seekingalpha.com/news/4614850-tesla-earnings-preview-time-for-robotaxis-and-optimus-to-shine"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-19T08:31:38.000Z",
       "title": "Tesla Stock Slips Premarket As EV Headwinds Mount — But One Wall Street Firm Sees Over 30% Upside On A ‘Physical AI’ Future",
       "body": "Tesla Stock Slips Premarket As EV Headwinds Mount — But One Wall Street Firm Sees Over 30% Upside On A ‘Physical AI’ Future Stocktwits",
@@ -15,36 +28,10 @@
       "href": "https://stocktwits.com/news-articles/markets/equity/tesla-stock-slips-premarket-ev-headwinds-mount-wall-street-sees-upside-physical-ai-future/cZR5NHfR4sm"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
-      "pubDate": "2026-07-19T04:00:20.000Z",
-      "title": "Xpeng says China close to building ‘killer’ rival to Tesla Model Y",
-      "body": "Xpeng says China close to building ‘killer’ rival to Tesla Model Y Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/5a8dc7cd-35c8-4aeb-8f09-1df8afb2cf2e?syn-25a6b1a6"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
-      "pubDate": "2026-07-19T02:59:23.000Z",
-      "title": "Tesla Inc, TSLACL.SN:SGO directors and dealings",
-      "body": "Tesla Inc, TSLACL.SN:SGO directors and dealings Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://markets.ft.com/data/equities/tearsheet/directors?s"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
-      "pubDate": "2026-07-19T01:58:41.000Z",
+      "time": "3h ago",
+      "pubDate": "2026-07-19T08:02:05.000Z",
       "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
       "body": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla InsideEVs",
       "sourceName": "InsideEVs",
@@ -54,10 +41,23 @@
       "href": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "7h ago",
+      "pubDate": "2026-07-19T04:00:56.000Z",
+      "title": "Xpeng says China close to building ‘killer’ rival to Tesla Model Y",
+      "body": "Xpeng says China close to building ‘killer’ rival to Tesla Model Y Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/5a8dc7cd-35c8-4aeb-8f09-1df8afb2cf2e?syn-25a6b1a6"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
-      "pubDate": "2026-07-18T22:08:54.000Z",
+      "time": "10h ago",
+      "pubDate": "2026-07-19T01:10:59.000Z",
       "title": "Elon Musk says your Tesla will start to learn your individual preferences",
       "body": "Elon Musk says your Tesla will start to learn your individual preferences Teslarati",
       "sourceName": "Teslarati",
@@ -67,9 +67,35 @@
       "href": "https://www.teslarati.com/elon-musk-says-tesla-start-learn-your-individual-preferences/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "11h ago",
+      "pubDate": "2026-07-19T00:21:34.000Z",
+      "title": "Tesla Inc, TSLACL.SN:SGO forecasts",
+      "body": "Tesla Inc, TSLACL.SN:SGO forecasts Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://markets.ft.com/data/equities/tearsheet/forecasts?s"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "14h ago",
+      "pubDate": "2026-07-18T21:07:42.000Z",
+      "title": "Ron DeSantis calls out media bias in Tesla crash coverage",
+      "body": "Ron DeSantis calls out media bias in Tesla crash coverage Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/ron-desantis-calls-out-media-bias-tesla-crash-coverage/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "16h ago",
       "pubDate": "2026-07-18T19:34:42.000Z",
       "title": "If you examine children's math homework, they are not token efficient. They have to break down a simple problem into …",
       "body": "If you examine children's math homework, they are not token efficient. They have to break down a simple problem into numerous basic steps to solve it. Yet, over time after practice, they learn some tricks and become toke…",
@@ -82,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-18T19:20:01.000Z",
       "title": "Elon Musk says your Tesla will start to learn your individual preferences",
       "body": "Elon Musk said today on X that Teslas will start to learn your individual preferences. This is something that he seemed to hint toward earlier this month when he said parking was by far the biggest reason drivers interve…",
@@ -93,87 +119,9 @@
       "href": "https://www.teslarati.com/elon-musk-says-tesla-start-learn-your-individual-preferences/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
-      "pubDate": "2026-07-18T18:06:14.000Z",
-      "title": "Ron DeSantis calls out media bias in Tesla crash coverage",
-      "body": "Ron DeSantis calls out media bias in Tesla crash coverage Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/ron-desantis-calls-out-media-bias-tesla-crash-coverage/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-07-18T17:10:21.000Z",
-      "title": "The new Model Y L is now at the Tesla showroom in Houston Galleria, Texas.",
-      "body": "The new Model Y L is now at the Tesla showroom in Houston Galleria, Texas. https://t.co/yu7yOKvOpE",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/SawyerMerritt/status/2078527810721730582"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-07-18T17:09:46.000Z",
-      "title": "New Tesla Supercharger: Wenatchee, WA (8 stalls)",
-      "body": "New Tesla Supercharger: Wenatchee, WA (8 stalls) https://t.co/kLkZnopM6D https://t.co/77Unj7qeYc",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2078527662293946511"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-07-18T16:54:02.000Z",
-      "title": "This dealer in Chicago has a Signature Model S Plaid listed for $500,000! That’s over 3x MSRP and very unfortunate th…",
-      "body": "This dealer in Chicago has a Signature Model S Plaid listed for $500,000! That’s over 3x MSRP and very unfortunate that someone would flip and resell a special car Tesla let only a few loyal owners buy. https://t.co/RvuM…",
-      "sourceName": "Zack (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/BLKMDL3/status/2078523700908093629"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-07-18T16:47:15.000Z",
-      "title": "Productivity tips that work for me so far: - Plan ahead but don't over-plan. Leave room for improvisation. Make a lis…",
-      "body": "Productivity tips that work for me so far: - Plan ahead but don't over-plan. Leave room for improvisation. Make a list of items sorted from long horizon to short horizon. Fan out long-horizon jobs at a slower cadence, mo…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2078521996401606817"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "17h ago",
-      "pubDate": "2026-07-18T16:45:18.000Z",
-      "title": "Robot fights are fun 😂",
-      "body": "Robot fights are fun 😂 https://t.co/br6jtV0u0p",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2078521506007560474"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-18T16:19:03.000Z",
       "title": "Ron DeSantis calls out media bias in Tesla crash coverage",
       "body": "Florida Governor Ron DeSantis has sharply criticized legacy media outlets for what he describes as selective and biased reporting on vehicle accidents involving Tesla. In a recent X post, DeSantis questioned why headline…",
@@ -186,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-18T11:00:02.000Z",
       "title": "Traders are increasingly betting against SpaceX just weeks after IPO",
       "body": "Traders are increasingly betting against SpaceX just weeks after IPO Financial Times",
@@ -236,6 +184,19 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-set-to-wipe-out-1-trillion-in-value-as-shares-slide"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2d ago",
+      "pubDate": "2026-07-17T19:39:32.000Z",
+      "title": "SpaceX in Talks to Sell Computing Power to Pentagon, WSJ Says",
+      "body": "SpaceX in Talks to Sell Computing Power to Pentagon, WSJ Says Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-in-talks-to-sell-computing-power-to-pentagon-wsj-says"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2d ago",
@@ -260,6 +221,45 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-risks-658c1872"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3d ago",
+      "pubDate": "2026-07-16T20:08:28.000Z",
+      "title": "US agency denies Tesla petition to avoid recall fix over headlight issue",
+      "body": "US agency denies Tesla petition to avoid recall fix over headlight issue Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/us-agency-denies-tesla-petition-avoid-recall-fix-over-headlight-issue-2026-07-16/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3d ago",
+      "pubDate": "2026-07-16T16:13:29.000Z",
+      "title": "Legal heavyweights square off in $243 million Tesla crash appeal",
+      "body": "Legal heavyweights square off in $243 million Tesla crash appeal Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/legal-heavyweights-square-off-in-243-million-tesla-crash-appeal-2026-07-16/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4d ago",
+      "pubDate": "2026-07-15T22:21:37.000Z",
+      "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
+      "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/"
     }
   ]
 }
