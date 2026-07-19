@@ -1,6 +1,33 @@
 {
-  "asOf": "2026-07-19 20:57 UTC · 누적 635건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-19 21:31 UTC · 누적 636건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-19T15:49:15.000Z",
+      "title": "테슬라, 영국 6월 신차판매 <em>모델Y·3 나란히 1·2위</em> — 2024년 12월來 처음",
+      "hotShort": "테슬라, 6월 영국서 모델Y·3 <em>나란히 1·2위</em>",
+      "body": "테슬라 모델Y·모델3가 영국 6월 신차 등록에서 나란히 1·2위(각 6,765대·5,408대)를 차지해 2024년 12월 이후 처음으로 톱2를 싹쓸이했다 — 전기차 비중이 사상 최고 <em>30%</em>까지 치솟은 가운데 거둔 성과로, 경쟁 심화 속에서도 핵심 유럽 시장 수요가 견조함을 보여준다.",
+      "sourceName": "Carwow",
+      "sourceLabel": "press",
+      "slug": "product-uk-top-two-june-2026-07-19",
+      "summary": "영국자동차공업협회(SMMT) 집계 기준, 6월 영국 신차 등록대수는 전년 동월 대비 11.4% 늘었고 그중 전기차 비중은 30%로 역대 최고치를 기록했다. 이 성장의 최대 수혜자는 테슬라였다.\n\n모델Y는 6,765대로 전체 브랜드·파워트레인을 통틀어 1위, 모델3는 5,408대로 2위에 올라 테슬라가 영국 신차 판매 톱2를 동시에 차지했다. 두 모델을 합친 6월 영국 인도량은 12,173대로, 개별 순위는 물론 종합 순위에서도 압도적이었다.\n\n테슬라가 영국에서 1·2위를 함께 차지한 것은 2024년 12월 이후 처음이다. 그동안 Xpeng·BYD 등 중국 업체의 유럽 저가 공세와 EV 보조금 관련 논란 속에서 테슬라 점유율 둔화 우려가 꾸준히 제기돼 왔다.\n\n이번 실적은 그린하이데(독일) 공장의 10월 생산 증대 발표와 겹치며, 22일 2분기 실적 발표를 앞두고 핵심 유럽 시장에서의 수요 건재함을 뒷받침하는 신호로 읽힌다.",
+      "title_en": "Tesla claims <em>UK's top two best-sellers</em> in June — first since Dec 2024",
+      "hotShort_en": "Tesla's Model Y, 3 <em>sweep UK's top two</em> spots",
+      "body_en": "Tesla's Model Y and Model 3 took the UK's No.1 and No.2 spots in June new-car registrations (6,765 and 5,408 units), the first 1-2 sweep since December 2024 — a sign of resilient European demand even as EV market share hit a record 30%.",
+      "summary_en": "According to SMMT (the UK auto industry trade body), UK new-car registrations rose 11.4% year-over-year in June, with EVs taking a record 30% share of the market. Tesla was the biggest beneficiary of that growth.\n\nThe Model Y topped the overall UK sales chart with 6,765 units — first place across all brands and powertrains — while the Model 3 came in second with 5,408 units. Combined, the two models delivered 12,173 vehicles in the UK in June, a commanding margin over every other model.\n\nIt's the first time since December 2024 that Tesla has held both the No.1 and No.2 spots in the UK simultaneously. In the intervening months, concerns had persisted over Tesla losing share to low-priced European pushes from Chinese rivals like Xpeng and BYD, plus friction over EV incentive policy.\n\nThe result lands alongside Tesla's announced October production boost at its Grünheide (Germany) plant, and just days before the July 22 Q2 earnings call, reinforcing the case that demand in Tesla's key European market remains resilient.",
+      "href": "https://www.carwow.co.uk/news/10962/smmt-new-car-registrations-june-2026",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Carwow",
+        "GB News",
+        "Honest John",
+        "Cars UK"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
