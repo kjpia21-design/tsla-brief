@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-19T15:49:15.000Z",
+      "title": "테슬라, 영국 6월 신차판매 <em>모델Y·3 나란히 1·2위</em> — 2024년 12월來 처음",
+      "hotShort": "테슬라, 6월 영국서 모델Y·3 <em>나란히 1·2위</em>",
+      "body": "테슬라 모델Y·모델3가 영국 6월 신차 등록에서 나란히 1·2위(각 6,765대·5,408대)를 차지해 2024년 12월 이후 처음으로 톱2를 싹쓸이했다 — 전기차 비중이 사상 최고 <em>30%</em>까지 치솟은 가운데 거둔 성과로, 경쟁 심화 속에서도 핵심 유럽 시장 수요가 견조함을 보여준다.",
+      "sourceName": "Carwow",
+      "sourceLabel": "press",
+      "slug": "product-uk-top-two-june-2026-07-19",
+      "summary": "영국자동차공업협회(SMMT) 집계 기준, 6월 영국 신차 등록대수는 전년 동월 대비 11.4% 늘었고 그중 전기차 비중은 30%로 역대 최고치를 기록했다. 이 성장의 최대 수혜자는 테슬라였다.\n\n모델Y는 6,765대로 전체 브랜드·파워트레인을 통틀어 1위, 모델3는 5,408대로 2위에 올라 테슬라가 영국 신차 판매 톱2를 동시에 차지했다. 두 모델을 합친 6월 영국 인도량은 12,173대로, 개별 순위는 물론 종합 순위에서도 압도적이었다.\n\n테슬라가 영국에서 1·2위를 함께 차지한 것은 2024년 12월 이후 처음이다. 그동안 Xpeng·BYD 등 중국 업체의 유럽 저가 공세와 EV 보조금 관련 논란 속에서 테슬라 점유율 둔화 우려가 꾸준히 제기돼 왔다.\n\n이번 실적은 그린하이데(독일) 공장의 10월 생산 증대 발표와 겹치며, 22일 2분기 실적 발표를 앞두고 핵심 유럽 시장에서의 수요 건재함을 뒷받침하는 신호로 읽힌다.",
+      "title_en": "Tesla claims <em>UK's top two best-sellers</em> in June — first since Dec 2024",
+      "hotShort_en": "Tesla's Model Y, 3 <em>sweep UK's top two</em> spots",
+      "body_en": "Tesla's Model Y and Model 3 took the UK's No.1 and No.2 spots in June new-car registrations (6,765 and 5,408 units), the first 1-2 sweep since December 2024 — a sign of resilient European demand even as EV market share hit a record 30%.",
+      "summary_en": "According to SMMT (the UK auto industry trade body), UK new-car registrations rose 11.4% year-over-year in June, with EVs taking a record 30% share of the market. Tesla was the biggest beneficiary of that growth.\n\nThe Model Y topped the overall UK sales chart with 6,765 units — first place across all brands and powertrains — while the Model 3 came in second with 5,408 units. Combined, the two models delivered 12,173 vehicles in the UK in June, a commanding margin over every other model.\n\nIt's the first time since December 2024 that Tesla has held both the No.1 and No.2 spots in the UK simultaneously. In the intervening months, concerns had persisted over Tesla losing share to low-priced European pushes from Chinese rivals like Xpeng and BYD, plus friction over EV incentive policy.\n\nThe result lands alongside Tesla's announced October production boost at its Grünheide (Germany) plant, and just days before the July 22 Q2 earnings call, reinforcing the case that demand in Tesla's key European market remains resilient.",
+      "href": "https://www.carwow.co.uk/news/10962/smmt-new-car-registrations-june-2026",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Carwow",
+        "GB News",
+        "Honest John",
+        "Cars UK"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "just now",
@@ -2370,27 +2397,7 @@
       ],
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "few minutes ago",
-      "pubDate": "2026-07-05T17:37:00.000Z",
-      "title": "리비안 CEO 스캐린지, <em>테슬라 인수설에 선</em> 그어 — \"차라리 안 팔겠다\"",
-      "hotShort": "리비안 CEO, <em>테슬라 인수설</em>에 \"안 팔겠다\"",
-      "body": "리비안 CEO RJ 스캐린지가 '크리스 에반스 쇼' 인터뷰에서 일론 머스크·테슬라의 리비안 인수설에 대해 \"차라리 안 팔겠다\"고 선을 그었다 — 스페이스X IPO 이후 머스크의 '트릴리어네어' 등극이 화제가 되며 재점화된 M&A 추측을 스캐린지가 3개월 새 두 번째로 직접 진화한 것으로, R2 양산이라는 리비안의 다음 승부처를 앞둔 시점에 나온 발언이다.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "musk-scaringe-rejects-tesla-rivian-buyout-2026-07-05",
-      "summary": "'크리스 에반스 쇼' 진행자는 스캐린지에게 다소 직설적인 질문을 던졌다 — 일론 머스크가 지난달 스페이스X IPO로 세계 최초의 '트릴리어네어(자산 1조 달러대 부호)'로 등극한 마당에, 왜 그냥 리비안을 사버리지 않느냐는 것이었다. 청취자들 사이에 도는 테슬라의 리비안 인수설을 정면으로 겨냥한 질문이었다.\n\n스캐린지는 매각 가능성에 명확히 선을 그었다. 그는 리비안이 \"한동안 막대한 돈을 쏟아붓고 손실을 감수하며 규모를 키우기로 하고 뛰어든\" 회사라며, \"이제 R2 출시라는 중대 기로에 서 있다\"고 답했다. 실제로 리비안의 보급형 SUV R2는 지난 6월 9일 첫 일반 고객 인도를 시작한 상태다.\n\n이번이 스캐린지가 인수설을 직접 반박한 첫 사례는 아니다. 그는 지난 3월에도 폭스바겐의 리비안 인수 가능성을 묻는 유사한 질문에 비슷한 취지로 선을 그은 바 있다 — 리비안이 3개월 새 두 번째로 대형 완성차 업체의 M&A 표적으로 거론된 셈이다.\n\n주주 입장에서는 테슬라의 실제 M&A 행보라기보다는, 머스크의 트릴리어네어 지위가 만들어낸 시장의 추측성 서사에 가깝다. 다만 테슬라의 경쟁사인 리비안이 반복적으로 인수설의 대상이 된다는 점 자체가, 전기차 업계 재편 기대감이 여전히 시장에 남아 있음을 보여준다.",
-      "title_en": "Rivian CEO Scaringe shuts down <em>Tesla buyout talk</em> — \"I'd prefer not to\"",
-      "hotShort_en": "Rivian CEO <em>rejects Tesla buyout</em> chatter",
-      "body_en": "Rivian CEO RJ Scaringe pushed back on speculation that Elon Musk's Tesla could acquire Rivian, telling The Chris Evans Show he'd \"prefer not\" to sell — the second time in three months he's had to shoot down takeover talk, this time reignited by Musk's new trillionaire status after SpaceX's IPO, and coming just as Rivian gears up for its next big test: scaling R2 production.",
-      "summary_en": "The host of The Chris Evans Show put a pointed question to Scaringe: now that Elon Musk has become the world's first trillionaire following SpaceX's IPO, why wouldn't he just buy Rivian outright? It was a direct nod to takeover chatter that's been circulating among listeners.\n\nScaringe was unambiguous. Rivian, he said, \"had to go in knowing we're going to invest a ton of money and lose money for a period of time while we get ready to build scale,\" adding that the company is \"now at the precipice of launching\" the R2 — Rivian's more affordable SUV, which began deliveries to its first public customers on June 9.\n\nThis isn't the first time Scaringe has had to address takeover speculation. He similarly dismissed a comparable question about Volkswagen acquiring Rivian back in March — meaning Rivian has now been floated as an M&A target by two different major automakers in just three months.\n\nFor shareholders, this reads less like any real Tesla M&A move and more like market chatter fueled by Musk's trillionaire narrative. Still, the fact that a Tesla rival keeps surfacing as an acquisition target underscores that expectations of EV-industry consolidation haven't gone away.",
-      "href": "https://www.notateslaapp.com/news/4398/rj-scaringe-doesnt-want-tesla-to-acquire-rivian",
-      "sentiment": "neutral",
-      "hot": 3
     }
   ],
-  "asOf": "2026-07-19 21:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-19 21:52 KST 자동 갱신 · 최신순"
 }

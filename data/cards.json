@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-19T15:49:15.000Z",
+      "title": "테슬라, 영국 6월 신차판매 <em>모델Y·3 나란히 1·2위</em> — 2024년 12월來 처음",
+      "hotShort": "테슬라, 6월 영국서 모델Y·3 <em>나란히 1·2위</em>",
+      "body": "테슬라 모델Y·모델3가 영국 6월 신차 등록에서 나란히 1·2위(각 6,765대·5,408대)를 차지해 2024년 12월 이후 처음으로 톱2를 싹쓸이했다 — 전기차 비중이 사상 최고 <em>30%</em>까지 치솟은 가운데 거둔 성과로, 경쟁 심화 속에서도 핵심 유럽 시장 수요가 견조함을 보여준다.",
+      "sourceName": "Carwow",
+      "sourceLabel": "press",
+      "slug": "product-uk-top-two-june-2026-07-19",
+      "summary": "영국자동차공업협회(SMMT) 집계 기준, 6월 영국 신차 등록대수는 전년 동월 대비 <em>11.4%</em> 늘었고 그중 전기차 비중은 <em>30%</em>로 역대 최고치를 기록했다. 이 성장의 최대 수혜자는 테슬라였다.\n\n모델Y는 6,765대로 전체 브랜드·파워트레인을 통틀어 1위, 모델3는 5,408대로 2위에 올라 테슬라가 영국 신차 판매 톱2를 동시에 차지했다. 두 모델을 합친 6월 영국 인도량은 12,173대로, 개별 순위는 물론 종합 순위에서도 압도적이었다.\n\n테슬라가 영국에서 1·2위를 함께 차지한 것은 2024년 12월 이후 처음이다. 그동안 Xpeng·BYD 등 중국 업체의 유럽 저가 공세와 EV 보조금 관련 논란 속에서 테슬라 점유율 둔화 우려가 꾸준히 제기돼 왔다.\n\n이번 실적은 그린하이데(독일) 공장의 10월 생산 증대 발표와 겹치며, 22일 2분기 실적 발표를 앞두고 핵심 유럽 시장에서의 수요 건재함을 뒷받침하는 신호로 읽힌다.",
+      "title_en": "Tesla claims <em>UK's top two best-sellers</em> in June — first since Dec 2024",
+      "hotShort_en": "Tesla's Model Y, 3 <em>sweep UK's top two</em> spots",
+      "body_en": "Tesla's Model Y and Model 3 took the UK's No.1 and No.2 spots in June new-car registrations (6,765 and 5,408 units), the first 1-2 sweep since December 2024 — a sign of resilient European demand even as EV market share hit a record <em>30%</em>.",
+      "summary_en": "According to SMMT (the UK auto industry trade body), UK new-car registrations rose <em>11.4%</em> year-over-year in June, with EVs taking a record <em>30%</em> share of the market. Tesla was the biggest beneficiary of that growth.\n\nThe Model Y topped the overall UK sales chart with 6,765 units — first place across all brands and powertrains — while the Model 3 came in second with 5,408 units. Combined, the two models delivered 12,173 vehicles in the UK in June, a commanding margin over every other model.\n\nIt's the first time since December 2024 that Tesla has held both the No.1 and No.2 spots in the UK simultaneously. In the intervening months, concerns had persisted over Tesla losing share to low-priced European pushes from Chinese rivals like Xpeng and BYD, plus friction over EV incentive policy.\n\nThe result lands alongside Tesla's announced October production boost at its Grünheide (Germany) plant, and just days before the July 22 Q2 earnings call, reinforcing the case that demand in Tesla's key European market remains resilient.",
+      "href": "https://www.carwow.co.uk/news/10962/smmt-new-car-registrations-june-2026",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Carwow",
+        "GB News",
+        "Honest John",
+        "Cars UK"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "just now",
@@ -175,33 +202,7 @@
       ],
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3d ago",
-      "pubDate": "2026-07-16T18:00:00.000Z",
-      "title": "캘리포니아 첫차 EV 리베이트 'MyFirstEV' 시행 — 테슬라도 대상, 단 <em>완성차 매칭 조건부</em>",
-      "hotShort": "CA 첫차 EV 리베이트, 테슬라 <em>조건부 포함</em>",
-      "body": "캘리포니아 뉴섬 주지사가 생애 첫 전기차 구매자에게 딜러 현장에서 최대 $3,500을 즉시 할인해주는 'MyFirstEV' 리베이트법(SB 168)에 7월13일 서명했다 — 포드·GM·리바이언·루시드 등 13개 완성차와 함께 테슬라의 5만달러 이하 모델3·Y도 대상에 포함됐지만, <em>완성차 매칭 출연 조건</em>을 테슬라가 받아들여야 실제 적용된다는 단서가 붙어 있다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-california-myfirstev-rebate-2026-07-16",
-      "summary": "캘리포니아 개빈 뉴섬 주지사가 7월13일(월) SB 168 법안에 서명하며, 생애 첫 전기차 구매자에게 딜러 현장에서 즉시 리베이트를 지급하는 'MyFirstEV' 프로그램을 출범시켰다. 세금공제처럼 몇 달 뒤 환급받는 방식이 아니라 구매 시점에 바로 할인되는 구조가 특징이다.\n\n리베이트는 MSRP 5만달러 이하 신형 순수전기차(BEV)에 $3,500, 2만5000달러 이하 중고 전기차에는 $1,750이 지급된다. 재원은 총 2억7000만달러 규모로, 주정부 예산과 참여 완성차 업체들의 매칭 출연이 각각 절반씩(약 1억3550만달러씩) 부담한다.\n\n포드·GM·혼다·현대·기아·루시드·미쓰비시·닛산·리바이언·스바루·테슬라·토요타·볼보 등 13개 완성차 업체가 참여를 확정했다. 테슬라는 5만달러 이하 트림의 모델3·모델Y가 대상에 포함되지만, 매칭 출연 요건을 실제로 받아들여야 리베이트가 적용된다는 조건이 붙어 있는 것으로 알려졌다 — Electrek은 이 구조가 이미 매칭에 합의한 리바이언·루시드에 비해 테슬라가 상대적으로 불리한 조건에 놓일 수 있다고 짚었다. 사이버트럭은 MSRP가 5만달러를 넘어 애초에 대상에서 제외된다.\n\n프로그램은 '올여름 중' 시행이 목표지만, 캘리포니아 대기자원위원회(CARB)가 참여 업체들과 보조금 협약을 완결해야 실제 개시일이 확정된다 — 아직 구체적 날짜는 발표되지 않았다.\n\n테슬라 주주 입장에서, 이 프로그램은 5만달러 이하 모델3·Y 수요를 지지할 수 있는 지역 인센티브지만 매칭 출연 조건이 테슬라에 어떻게 적용될지가 변수다 — 22일 2분기 실적 발표를 앞두고 미국 내 수요 여건을 가늠할 부차적 참고 지표로 볼 만하다.",
-      "title_en": "California signs <em>MyFirstEV</em> rebate law — Tesla included, but with a catch",
-      "hotShort_en": "CA's <em>MyFirstEV</em> rebate includes Tesla",
-      "body_en": "California Governor Newsom signed SB 168 on July 13, launching the 'MyFirstEV' program that gives first-time EV buyers up to <em>$3,500 off instantly</em> at the dealership — Tesla's sub-$50,000 Model 3 and Model Y qualify among 13 participating automakers, but only if Tesla accepts the automaker-matching funding requirement that Rivian and Lucid have already agreed to.",
-      "summary_en": "California Governor Gavin Newsom signed SB 168 into law on Monday, July 13, launching 'MyFirstEV,' a program that gives first-time electric vehicle buyers an instant rebate at the dealership rather than a tax credit claimed months later.\n\nThe rebate pays $3,500 for a new battery-electric vehicle with an MSRP up to $50,000, and $1,750 for a used EV up to $25,000. The program is funded with a total of $270 million, split evenly between the state budget and matching contributions from participating automakers — roughly $135.5 million each.\n\nThirteen automakers have signed on: Ford, GM, Honda, Hyundai, Kia, Lucid, Mitsubishi, Nissan, Rivian, Subaru, Tesla, Toyota, and Volvo. Tesla's sub-$50,000 Model 3 and Model Y trims qualify, but reportedly only if Tesla accepts the automaker-matching funding requirement — Electrek noted this leaves Tesla on less certain footing than Rivian and Lucid, which have already agreed to match funds. The Cybertruck is excluded outright, since its MSRP exceeds the $50,000 cap.\n\nThe program is targeted to launch 'later this summer,' but an exact start date depends on the California Air Resources Board (CARB) finalizing grant agreements with participating automakers.\n\nFor Tesla shareholders, the program is a regional demand tailwind for sub-$50,000 Model 3 and Model Y trims, though how the matching-funds condition plays out for Tesla specifically remains a variable — a secondary data point on U.S. demand conditions heading into the July 22 Q2 earnings call.",
-      "href": "https://electrek.co/2026/07/13/california-ev-rebate-rivian-lucid-tesla/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "Teslarati",
-        "Engadget"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-19 21:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-19 21:52 KST 자동 갱신 · 최신순"
 }
