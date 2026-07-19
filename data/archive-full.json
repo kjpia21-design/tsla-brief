@@ -1,6 +1,58 @@
 {
-  "asOf": "2026-07-18 22:55 UTC · 누적 631건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-19 03:26 UTC · 누적 633건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-18T20:31:41.000Z",
+      "title": "테슬라 FSD v14.3.5 확대 배포 — <em>카메라 프리뷰·통합모델</em>로 반응속도 20%↑",
+      "hotShort": "FSD v14.3.5 확대, <em>반응속도 20%</em> 개선",
+      "body": "테슬라가 지난 13일부터 HW4(AI4) 차량에 FSD v14.3.5(2026.20.6.6)를 배포 중이다 — AI 컴파일러를 새로 짜 반응속도를 <em>20%</em> 높이고 액추얼리 스마트 서몬·FSD·로보택시 모델을 하나로 통합했지만, 사흘 뒤인 15일 3차 확대에도 전체 차량의 <em>1% 미만</em>에 그쳐 아직은 제한적 배포 단계다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-v1435-rollout-camera-preview-2026-07-18",
+      "summary": "테슬라가 7월13일(월) 소프트웨어 버전 2026.20.6.6과 함께 FSD(Supervised) v14.3.5 배포를 시작했다. 이번 버전은 하드웨어4(HW4/AI4) 탑재 차량에만 제공된다.\n\n핵심 변경점은 세 가지다. 첫째, 카메라 프리뷰를 주행 중에도 언제든 열어볼 수 있게 됐고 차량 실내 캐빈 카메라까지 확인 가능해졌다. 둘째, 신경망 학습의 강화학습(RL) 단계를 업그레이드해 다양한 주행 상황에서의 대응력을 개선했고, AI 컴파일러·런타임을 MLIR 기반으로 새로 작성해 <em>반응속도를 20%</em> 끌어올렸다. 셋째, 액추얼리 스마트 서몬·FSD·로보택시에 쓰이던 모델을 하나로 통합해 더 일관된 주행 판단이 가능해졌고, 스마트 서몬 최고 속도도 시속 8마일(약 13km/h)로 상향됐다. 앱에서는 무개입 주행거리와 최장 무개입 기록도 확인할 수 있게 됐다.\n\n다만 배포 속도는 더디다. 7월15일 3번째 확대 물결로 약 1,210대가 추가됐지만, 출시 사흘째 기준 전체 테슬라 차량의 1%에도 못 미치는 제한적 배포 상태다. 실제 사용 후기로는 인플루언서 재크(BLKMDL3)가 멕시코 바하 칼리포르니아의 발레 데 과달루페~로사리토 비치 구간을 무개입으로 완주했다고 전했고, 닉 크루즈 파테인도 사이버트럭에서 v14.3.5를 며칠간 사용해 본 소감을 공유했다.\n\n테슬라 주주 입장에서, 반응속도 개선과 모델 통합은 22일 2분기 실적에서 다시 도마에 오를 로보택시·자율주행 진척 상황에 대한 답변 재료가 될 수 있다 — 다만 아직 HW4 한정·1% 미만의 초기 배포 단계라, 전체 차량군으로 언제 확대되는지가 다음 관전 포인트다.",
+      "title_en": "Tesla expands <em>FSD v14.3.5</em> rollout — new compiler cuts reaction time <em>20%</em>, unifies driving models",
+      "hotShort_en": "FSD v14.3.5 expands, <em>reaction time up 20%</em>",
+      "body_en": "Tesla has been rolling out FSD v14.3.5 (2026.20.6.6) to HW4 (AI4) vehicles since July 13 — a rewritten AI compiler cuts reaction time by <em>20%</em> and unifies the models behind Smart Summon, FSD, and Robotaxi, but a third expansion wave on July 15 still reached <em>less than 1%</em> of the fleet, keeping the rollout limited three days in.",
+      "summary_en": "Tesla began rolling out FSD (Supervised) v14.3.5 on Monday, July 13, alongside software version 2026.20.6.6. The update is available only to vehicles equipped with Hardware 4 (HW4/AI4).\n\nThree changes stand out. First, Camera Preview can now be opened at any time while driving, including a view of the interior cabin camera. Second, Tesla upgraded the reinforcement-learning stage of neural-network training and rewrote its AI compiler and runtime on MLIR, delivering a <em>20% faster reaction time</em>. Third, the models behind Actually Smart Summon, FSD, and Robotaxi were unified for more consistent driving decisions, and Smart Summon's top speed was raised to 8 mph (about 13 km/h). The app now also shows distance driven without intervention and the longest intervention-free streak.\n\nThe rollout pace, though, remains slow. A third deployment wave on July 15 added roughly 1,210 more eligible vehicles, but three days after launch the update still covers <em>less than 1%</em> of Tesla's fleet. Anecdotal real-world reports have been positive: influencer Zack (BLKMDL3) said he completed a drive from Valle de Guadalupe to Rosarito Beach in Baja California, Mexico with zero interventions, while Nic Cruz Patane shared impressions after using v14.3.5 on a Cybertruck for several days.\n\nFor shareholders, the faster reaction time and model unification could feed into Robotaxi and autonomy talking points at the July 22 Q2 earnings call — but with the rollout still HW4-only and under 1% of the fleet, how quickly it scales to the broader fleet is the next thing to watch.",
+      "href": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "Tesla Oracle",
+        "TeslaNorth"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-18T20:16:49.000Z",
+      "title": "머스크 \"테슬라 FSD, 운전자 개인 습관까지 학습\" — <em>그록 음성명령 9월 통합</em> 예고",
+      "hotShort": "FSD에 <em>그록 음성명령</em> 9월 통합 예고",
+      "body": "한 차주가 X에서 \"이 집 진입로로 들어가라\"처럼 음성으로 알려주면 FSD가 기억하게 해달라고 요청하자, 테슬라 AI 총괄 아쇼크 엘루스와미가 \"개발 중\"이라 답했고 일론 머스크는 그록(Grok) 음성명령을 FSD 플래닝 레이어에 <em>9월까지 통합</em>하겠다고 재확인했다 — 차주의 음성 교정이 쌓일수록 동네·진입로 단위의 맞춤 주행 데이터가 축적되는 구조다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-grok-voice-personalization-2026-07-18",
+      "summary": "한 테슬라 차주가 X에서 특정 동네를 지날 때 \"흰색 집, SUV 지나서 왼쪽\"처럼 음성으로 알려주면 FSD가 그 내용을 기억해 다음번에 알아서 그 진입로로 들어가게 해달라고 요청했다. 이에 테슬라 AI 총괄 아쇼크 엘루스와미가 \"작업 중(working on it)\"이라고 직접 답하며, 음성 기반 맥락 지시 기능이 실제로 개발되고 있음을 확인했다.\n\n같은 맥락에서 일론 머스크는 그록(Grok) 음성명령을 FSD의 플래닝 레이어에 <em>9월까지</em> 통합하겠다고 재확인했다. 이는 지난 6월 머스크가 \"약 3개월 안에\" 그록 기반 FSD 음성 제어가 나올 것이라고 밝혔던 시점과 맞아떨어지는 일정이다.\n\n이 기능이 의미 있는 이유는 데이터 축적 방식에 있다 — 차주가 음성으로 FSD를 교정하고 차량이 이를 기억할 때마다, 시뮬레이션이나 사전 각본으로는 만들어낼 수 없는 실제 예외 상황(어느 진입로, 어느 대문, 도로 어느 쪽) 데이터가 쌓인다. 수백만 대 규모의 테슬라 차량군이 이런 동네 단위의 맥락 정보를 크라우드소싱하면, 비슷한 규모의 차량군이 없는 경쟁사가 단기간에 따라잡기 어려운 지리·행동 데이터 우위로 이어진다는 평가다.\n\n주주 입장에서는 이 기능이 아직 로드맵 단계(9월 목표)라는 점을 감안해야 하지만, 로보택시·완전자율주행 상용화를 위해서는 결국 '내 동네를 아는 차'가 핵심 경쟁력이 될 것이라는 테슬라의 오래된 주장을 임원진이 재확인했다는 점에서 의미가 있다.",
+      "title_en": "Musk: Tesla FSD will <em>learn drivers' individual habits</em> — Grok voice commands coming to FSD <em>by September</em>",
+      "hotShort_en": "FSD to get <em>Grok voice commands</em> by fall",
+      "body_en": "After a Tesla owner asked on X for FSD to remember spoken instructions like \"turn into this driveway,\" Tesla AI lead Ashok Elluswamy confirmed the feature is in development and Elon Musk reaffirmed that Grok voice commands will be integrated into FSD's planning layer <em>by September</em> — letting the fleet accumulate hyper-local, driveway-level driving data from owners' voice corrections.",
+      "summary_en": "A Tesla owner asked on X whether FSD could remember spoken, neighborhood-specific instructions — like \"it's the white house on the left, just past that SUV\" — and automatically use them on future drives. Tesla AI lead Ashok Elluswamy responded directly that the team is \"working on it,\" confirming the voice-based contextual instruction feature is actually in development.\n\nIn the same thread, Elon Musk reaffirmed that Grok voice commands will be integrated into FSD's planning layer <em>by September</em> — matching the timeline he floated back in June, when he said Grok-based FSD voice control was roughly three months out.\n\nWhat makes this notable is how the data compounds: every time an owner corrects FSD with a spoken instruction and the car remembers it, that becomes a real-world edge-case data point that no simulation or scripted test could generate — which driveway, which gate, which side of the street. Across a fleet of millions of vehicles, crowdsourcing that hyper-local contextual knowledge builds a geographic and behavioral data advantage that's hard for rivals without a comparable fleet to replicate quickly.\n\nFor shareholders, the feature is still roadmap-stage (targeting September), but it's a reaffirmation from Tesla's own executives that a car that \"knows your neighborhood\" is central to its long-running case for Robotaxi and full self-driving commercialization.",
+      "href": "https://www.teslarati.com/elon-musk-says-tesla-start-learn-your-individual-preferences/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Teslarati",
+        "Benzinga",
+        "Not a Tesla App"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
