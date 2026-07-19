@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-19 15:01 UTC · 누적 633건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-19 17:03 UTC · 누적 634건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "stock",
@@ -333,6 +333,32 @@
       "href": "https://electrek.co/2026/07/16/xpeng-l03-pricing-tesla-model-y-europe/",
       "sentiment": "bear",
       "hot": 4
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3d ago",
+      "pubDate": "2026-07-16T18:00:00.000Z",
+      "title": "캘리포니아 첫차 EV 리베이트 'MyFirstEV' 시행 — 테슬라도 대상, 단 <em>완성차 매칭 조건부</em>",
+      "hotShort": "CA 첫차 EV 리베이트, 테슬라 <em>조건부 포함</em>",
+      "body": "캘리포니아 뉴섬 주지사가 생애 첫 전기차 구매자에게 딜러 현장에서 최대 $3,500을 즉시 할인해주는 'MyFirstEV' 리베이트법(SB 168)에 7월13일 서명했다 — 포드·GM·리바이언·루시드 등 13개 완성차와 함께 테슬라의 5만달러 이하 모델3·Y도 대상에 포함됐지만, <em>완성차 매칭 출연 조건</em>을 테슬라가 받아들여야 실제 적용된다는 단서가 붙어 있다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-california-myfirstev-rebate-2026-07-16",
+      "summary": "캘리포니아 개빈 뉴섬 주지사가 7월13일(월) SB 168 법안에 서명하며, 생애 첫 전기차 구매자에게 딜러 현장에서 즉시 리베이트를 지급하는 'MyFirstEV' 프로그램을 출범시켰다. 세금공제처럼 몇 달 뒤 환급받는 방식이 아니라 구매 시점에 바로 할인되는 구조가 특징이다.\n\n리베이트는 MSRP 5만달러 이하 신형 순수전기차(BEV)에 $3,500, 2만5000달러 이하 중고 전기차에는 $1,750이 지급된다. 재원은 총 2억7000만달러 규모로, 주정부 예산과 참여 완성차 업체들의 매칭 출연이 각각 절반씩(약 1억3550만달러씩) 부담한다.\n\n포드·GM·혼다·현대·기아·루시드·미쓰비시·닛산·리바이언·스바루·테슬라·토요타·볼보 등 13개 완성차 업체가 참여를 확정했다. 테슬라는 5만달러 이하 트림의 모델3·모델Y가 대상에 포함되지만, 매칭 출연 요건을 실제로 받아들여야 리베이트가 적용된다는 조건이 붙어 있는 것으로 알려졌다 — Electrek은 이 구조가 이미 매칭에 합의한 리바이언·루시드에 비해 테슬라가 상대적으로 불리한 조건에 놓일 수 있다고 짚었다. 사이버트럭은 MSRP가 5만달러를 넘어 애초에 대상에서 제외된다.\n\n프로그램은 '올여름 중' 시행이 목표지만, 캘리포니아 대기자원위원회(CARB)가 참여 업체들과 보조금 협약을 완결해야 실제 개시일이 확정된다 — 아직 구체적 날짜는 발표되지 않았다.\n\n테슬라 주주 입장에서, 이 프로그램은 5만달러 이하 모델3·Y 수요를 지지할 수 있는 지역 인센티브지만 매칭 출연 조건이 테슬라에 어떻게 적용될지가 변수다 — 22일 2분기 실적 발표를 앞두고 미국 내 수요 여건을 가늠할 부차적 참고 지표로 볼 만하다.",
+      "title_en": "California signs <em>MyFirstEV</em> rebate law — Tesla included, but with a catch",
+      "hotShort_en": "CA's <em>MyFirstEV</em> rebate includes Tesla",
+      "body_en": "California Governor Newsom signed SB 168 on July 13, launching the 'MyFirstEV' program that gives first-time EV buyers up to <em>$3,500 off instantly</em> at the dealership — Tesla's sub-$50,000 Model 3 and Model Y qualify among 13 participating automakers, but only if Tesla accepts the automaker-matching funding requirement that Rivian and Lucid have already agreed to.",
+      "summary_en": "California Governor Gavin Newsom signed SB 168 into law on Monday, July 13, launching 'MyFirstEV,' a program that gives first-time electric vehicle buyers an instant rebate at the dealership rather than a tax credit claimed months later.\n\nThe rebate pays $3,500 for a new battery-electric vehicle with an MSRP up to $50,000, and $1,750 for a used EV up to $25,000. The program is funded with a total of $270 million, split evenly between the state budget and matching contributions from participating automakers — roughly $135.5 million each.\n\nThirteen automakers have signed on: Ford, GM, Honda, Hyundai, Kia, Lucid, Mitsubishi, Nissan, Rivian, Subaru, Tesla, Toyota, and Volvo. Tesla's sub-$50,000 Model 3 and Model Y trims qualify, but reportedly only if Tesla accepts the automaker-matching funding requirement — Electrek noted this leaves Tesla on less certain footing than Rivian and Lucid, which have already agreed to match funds. The Cybertruck is excluded outright, since its MSRP exceeds the $50,000 cap.\n\nThe program is targeted to launch 'later this summer,' but an exact start date depends on the California Air Resources Board (CARB) finalizing grant agreements with participating automakers.\n\nFor Tesla shareholders, the program is a regional demand tailwind for sub-$50,000 Model 3 and Model Y trims, though how the matching-funds condition plays out for Tesla specifically remains a variable — a secondary data point on U.S. demand conditions heading into the July 22 Q2 earnings call.",
+      "href": "https://electrek.co/2026/07/13/california-ev-rebate-rivian-lucid-tesla/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Teslarati",
+        "Engadget"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
     },
     {
       "category": "product",
