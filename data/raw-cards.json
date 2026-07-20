@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-07-20 21:15 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-20 21:46 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "34m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-20T20:42:00.000Z",
       "title": "Musk Says Teslas Will Remember How You Drive. Why That Matters for the Stock.",
       "body": "Musk Says Teslas Will Remember How You Drive. Why That Matters for the Stock. Barron's",
@@ -17,7 +17,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-07-20T20:01:16.000Z",
       "title": "Tesla ‘Full Self-Driving’ got me a speeding ticket, and Tesla killed the fix",
       "body": "I got a speeding ticket this weekend while using Tesla’s Full Self-Driving. The car was driving itself in Standard mode on FSD when it took me up to 78 km/h in a 50 km/h zone. A police officer coming the other way clocke…",
@@ -56,7 +56,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-20T17:15:04.000Z",
       "title": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize",
       "body": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize CNBC",
@@ -82,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-20T16:05:09.000Z",
       "title": "Elon Musk sheds details on Tesla FSD’s upcoming improvements",
       "body": "Elon Musk sheds details on Tesla FSD’s upcoming improvements Teslarati",
@@ -95,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-20T15:46:57.000Z",
       "title": "Elon Musk debunks $52 billion SpaceX-NVIDIA GPU deal",
       "body": "Elon Musk debunks $52 billion SpaceX-NVIDIA GPU deal Teslarati",
@@ -121,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-20T14:16:24.000Z",
       "title": "Ford's smaller EV pickup truck spotted charging at Tesla Supercharger for the first time. It'll come with a native NA…",
       "body": "Ford's smaller EV pickup truck spotted charging at Tesla Supercharger for the first time. It'll come with a native NACS charging port and an LFP battery. Ford is aiming for it to have a starting price of ~$30k and launch…",
@@ -147,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-20T12:06:57.000Z",
       "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Yeti, Harley-Davidson, Broadcom & more",
       "body": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Yeti, Harley-Davidson, Broadcom & more CNBC",
@@ -195,19 +195,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/Tslachan/status/2079154315860770988"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
-      "pubDate": "2026-07-20T07:13:12.000Z",
-      "title": "Fitting a bike into the Tesla Model S",
-      "body": "Fitting a bike into the Tesla Model S Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/fitting-bike-tesla-model-s/"
     },
     {
       "category": "stock",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/5a8dc7cd-35c8-4aeb-8f09-1df8afb2cf2e?syn-25a6b1a6"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4d ago",
+      "pubDate": "2026-07-16T20:08:28.000Z",
+      "title": "US agency denies Tesla petition to avoid recall fix over headlight issue",
+      "body": "US agency denies Tesla petition to avoid recall fix over headlight issue Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/us-agency-denies-tesla-petition-avoid-recall-fix-over-headlight-issue-2026-07-16/"
     }
   ]
 }
