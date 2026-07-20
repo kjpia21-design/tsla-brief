@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-20T20:01:16.000Z",
+      "title": "Electrek 에디터, FSD 표준모드로 <em>78km/h 과속 딱지</em> — 되레 속도조절 기능은 삭제",
+      "hotShort": "FSD 표준모드서 <em>78km/h 과속</em> 딱지 발부",
+      "body": "Electrek 에디터가 FSD 표준(Standard) 모드로 주행하다 제한속도 50km/h 구간에서 <em>시속 78km/h까지 가속</em>해 경찰에게 과속 딱지를 받았다 — 테슬라가 작년 10월 FSD v14 출시 때 운전자가 직접 속도 여유치를 설정하던 기능을 없애고 5단계 프리셋으로 바꾼 게 화근이라, FSD 책임소재 논란에 다시 불을 지폈다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-speeding-ticket-removed-speed-offset-2026-07-20",
+      "summary": "Electrek 에디터가 최근 주말 FSD(완전자율주행) 표준모드로 주행하던 중 제한속도 <em>50km/h</em> 구간에서 차량이 <em>78km/h</em>까지 가속했고, 반대 방향에서 오던 경찰관에게 속도위반이 적발돼 딱지를 받았다고 밝혔다.\n\n문제의 발단은 작년 10월 FSD v14 출시 당시 테슬라가 단행한 변경이다. 그전까지는 운전자가 원하는 속도 여유치(예: 제한속도+15km/h)를 직접 설정할 수 있었지만, v14부터는 이 커스텀 설정이 사라지고 슬로스(Sloth)·칠(Chill)·스탠다드(Standard)·허리(Hurry)·매드맥스(Mad Max) 5단계 사전설정 프로필로 대체됐다.\n\n에디터는 평소 원하는 속도에 가장 가깝다고 느껴 스탠다드 모드를 주로 쓴다고 설명했다 — 과거처럼 여유치를 15km/h로 직접 낮춰 설정할 수 있었다면 해당 구간에서 차량이 약 65km/h 선에서 스스로 속도를 제한해 딱지를 피할 수 있었을 것이라는 게 그의 주장이다.\n\n이 사례는 사소한 해프닝처럼 보이지만, 테슬라 주주 입장에선 FSD의 과속·법규위반 시 책임 소재 논란과 직결된다. 22일 2분기 실적콜을 앞두고 로보택시·FSD 안전성에 대한 투자자 질의가 예상되는 가운데, 운전자 맞춤 안전장치를 없앤 결정이 오히려 위반 위험을 키웠다는 지적은 테슬라의 자율주행 로드맵에 또 다른 잡음거리가 될 수 있다.",
+      "title_en": "Electrek editor gets <em>speeding ticket in FSD Standard mode</em> — after Tesla killed the speed-offset setting",
+      "hotShort_en": "FSD Standard mode nets <em>78 km/h ticket</em>",
+      "body_en": "An Electrek editor got a speeding ticket while driving in FSD's Standard mode, which accelerated to <em>78 km/h in a 50 km/h zone</em> — the culprit, they say, is Tesla's October rollout of FSD v14, which replaced a customizable speed-offset setting with five preset profiles, reviving questions about who's responsible when FSD breaks the law.",
+      "summary_en": "An Electrek editor said they got a speeding ticket after their Tesla, driving itself in FSD's Standard mode, accelerated to <em>78 km/h</em> in a <em>50 km/h</em> zone — clocked by a police officer coming the other way.\n\nThe root cause traces back to Tesla's October rollout of FSD v14. Before that update, drivers could set their own speed offset above the posted limit (for example, +15 km/h); v14 removed that custom control and replaced it with five preset driving profiles: Sloth, Chill, Standard, Hurry, and Mad Max.\n\nThe editor said Standard mode is usually closest to their preferred speed, but noted that if they could still dial in a custom 15 km/h offset as before, the car would have capped itself around 65 km/h on that stretch of road and likely avoided the ticket.\n\nThe incident is a small one, but for Tesla shareholders it ties directly into the unresolved question of who bears liability when FSD violates traffic law. With Tesla's Q2 earnings call two days away and Robotaxi/FSD safety likely to come up, a decision that removed a driver-side safety control — arguably increasing violation risk — adds fresh noise to the autonomy roadmap.",
+      "href": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-20T19:24:57.000Z",
+      "title": "테슬라, <em>사이버캡에 스타링크 통합</em> 첫 공식화 — 산호세 매장 전시로 공개",
+      "hotShort": "사이버캡에 <em>스타링크 통합</em> 첫 공식 확인",
+      "body": "테슬라가 산호세 산타나로우 매장에 전시된 프로덕션 사양 사이버캡을 통해 <em>스타링크 위성 인터넷 통합</em>을 처음 공식 확인했다 — 주행 중에도 끊김 없는 인터넷 접속이 가능해져, 운전대·페달이 없는 무인 로보택시에서 탑승 중 엔터테인먼트·업무 활용도를 높이는 핵심 편의 사양으로 주목된다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-cybercab-starlink-integration-santana-row-2026-07-20",
+      "summary": "테슬라가 캘리포니아 산호세 산타나로우(333 Santana Row) 매장에 전시된 프로덕션 사양 사이버캡을 통해, 차량에 <em>스타링크 안테나가 내장돼 주행 중 안정적인 인터넷 접속을 제공</em>한다는 사실을 처음 공식적으로 확인했다.\n\n이 매장은 자율주행·로보택시 체험에 특화된 공간으로 새단장했다 — 운전대와 페달이 없는 프로덕션 사이버캡을 전시장 중앙에 배치하고, 테슬라 자율주행 기술 발전 타임라인, 실제 도로 주행 라이브 카메라 피드, FSD(감독형) 안전 데이터까지 함께 선보인다. 소프트 오픈은 <em>7월24일</em> 오전 10시~오후 9시로 예정돼 있다.\n\n운전대·페달이 없는 사이버캡의 구조상 탑승객은 주행 중 차량을 직접 조작할 필요가 없고, 중앙 스크린을 통해 업무·영상 시청 등 탑승 시간을 활용하게 된다 — 스타링크 통합은 이런 무인 이동 경험에서 인터넷 연결성을 완성하는 마지막 퍼즐 조각인 셈이다.\n\n22일 2분기 실적콜을 앞두고 나온 이번 공개는, 로보택시·사이버캡 플랫폼이 하드웨어뿐 아니라 탑승 경험 디테일까지 갖춰가고 있음을 보여주는 신호로 투자자들의 관심을 끌고 있다.",
+      "title_en": "Tesla confirms <em>Starlink integration in Cybercab</em> for the first time — revealed at San Jose showroom",
+      "hotShort_en": "Cybercab gets <em>Starlink integration</em>, Tesla confirms",
+      "body_en": "Tesla has officially confirmed for the first time that Cybercab will feature <em>integrated Starlink satellite internet</em>, revealed through a production-spec unit on display at its Santana Row showroom in San Jose — reliable in-trip connectivity that becomes a key comfort feature in a driverless robotaxi with no steering wheel or pedals.",
+      "summary_en": "Tesla has officially confirmed for the first time — via a production-spec Cybercab on display at its Santana Row showroom (333 Santana Row) in San Jose, California — that the vehicle will feature <em>a built-in Starlink antenna providing reliable internet access during trips</em>.\n\nThe showroom has been redesigned around a dedicated Self-Driving and Robotaxi experience: a production Cybercab, with no steering wheel or pedals, sits at the center of the floor alongside a timeline of Tesla's autonomy development, live camera feeds from real-world self-driving, and FSD (Supervised) safety data. The location's soft opening is set for <em>July 24</em>, running 10 a.m. to 9 p.m.\n\nBecause Cybercab has no steering wheel or pedals, riders won't interact with vehicle controls at all — the center screen becomes the main interface for work or entertainment during the ride. Starlink integration fills in the last piece of that experience: reliable connectivity throughout the trip.\n\nComing two days before Tesla's Q2 earnings call, the reveal signals that the Robotaxi/Cybercab platform is maturing beyond hardware into passenger-experience details — a detail investors are watching as the company's autonomy story develops.",
+      "href": "https://www.teslarati.com/tesla-reveals-first-model-starlink-integration/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "just now",
@@ -79,26 +119,6 @@
       "hot": 6
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-20T14:16:24.000Z",
-      "title": "포드 소형 전기 픽업, <em>테슬라 슈퍼차저서 첫 충전</em> 포착 — 2027년 3만달러대 출시",
-      "hotShort": "포드 전기 픽업, <em>슈퍼차저 첫 충전</em> 포착",
-      "body": "포드가 개발 중인 소형 전기 픽업트럭이 테슬라 슈퍼차저에서 충전하는 모습이 처음 포착됐다 — 네이티브 NACS 충전포트와 LFP 배터리를 탑재해 2027년 약 <em>$30,000</em>대 출시를 목표로 하는 모델로, 레거시 완성차 저가 EV 중 처음으로 어댑터 없이 테슬라 충전망을 그대로 쓰는 차가 되는 셈이다.",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "product-ford-ev-pickup-supercharger-nacs-2026-07-20",
-      "summary": "테슬라 커뮤니티 큐레이터 소이어 메릿에 따르면, 포드가 개발 중인 소형(midsize) 전기 픽업트럭 시험 차량이 테슬라 슈퍼차저에서 충전하는 모습이 처음으로 포착됐다.\n\n이 트럭은 네이티브 NACS(북미 충전 표준) 포트를 달고 나오는 포드 최초의 전기차로, 별도 어댑터 없이 테슬라 슈퍼차저 전체 네트워크를 바로 이용할 수 있다. 배터리는 LFP(리튬인산철)를 채택했고, 포드는 <em>약 $30,000</em>대 시작가와 2027년 출시를 목표로 하고 있다.\n\n테슬라 입장에서는 직접적인 매출원은 아니지만, 완성차 업체들이 잇따라 NACS를 네이티브로 채택하면서 슈퍼차저 네트워크가 업계 표준 충전 인프라로 굳어지는 흐름을 보여주는 사례다. 저가 세그먼트 EV까지 NACS를 기본 탑재하기 시작했다는 점에서, 테슬라 충전 네트워크의 장기적 사용료·트래픽 기반이 넓어지는 신호로 읽힌다.",
-      "title_en": "Ford's small EV pickup <em>spotted charging at a Tesla Supercharger</em> for the first time — targeting a ~$30K, 2027 launch",
-      "hotShort_en": "Ford EV pickup <em>spotted at Supercharger</em>",
-      "body_en": "Ford's midsize EV pickup prototype was spotted charging at a Tesla Supercharger for the first time — the truck comes with a native NACS port and an LFP battery, and Ford is targeting a starting price of about <em>$30,000</em> with a 2027 launch, making it one of the first affordable legacy-automaker EVs to use Tesla's charging network without an adapter.",
-      "summary_en": "According to Tesla community curator Sawyer Merritt, a test mule of Ford's upcoming midsize electric pickup was spotted charging at a Tesla Supercharger for the first time.\n\nThe truck will be Ford's first EV with a native NACS (North American Charging Standard) port, letting it use Tesla's entire Supercharger network without an adapter. It's built around an LFP battery, and Ford is targeting a starting price of roughly <em>$30,000</em> with a 2027 launch.\n\nIt isn't direct revenue for Tesla, but it's another data point in automakers standardizing on NACS as the industry's charging infrastructure — even at the affordable end of the EV market. That broadens the long-term traffic and usage base for Tesla's charging network.",
-      "href": "https://x.com/SawyerMerritt/status/2079208807201382695",
-      "sentiment": "neutral",
-      "hot": 3
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -152,31 +172,6 @@
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "just now",
-      "pubDate": "2026-07-20T05:40:00.000Z",
-      "title": "테슬라 6인승 모델Y L, 미국 매장 <em>전시 시작</em> — 인도는 9월부터",
-      "hotShort": "모델Y L, 美 매장 <em>전시 개시</em> — 인도 9월",
-      "body": "테슬라가 지난 2일 온라인 판매를 시작한 3열 6인승 '모델Y L'을 이달 중순부터 미국 매장에 실물 전시하기 시작했다 — 시승은 아직 불가하지만 3열 좌석을 직접 확인할 수 있어, 9월 인도 개시를 앞두고 구매 결정을 앞당기려는 행보로 보인다.",
-      "sourceName": "TeslaNorth",
-      "sourceLabel": "press",
-      "slug": "product-model-y-l-us-showroom-2026-07-20",
-      "summary": "테슬라의 롱휠베이스 3열 6인승 모델('모델Y L')이 미국 매장 전시를 시작했다. 시카고 네이퍼빌, 버지니아 타이슨스 매장 등에 전시 차량이 배치돼 고객들이 직접 3열 좌석 공간을 체험할 수 있게 됐다 — 다만 시승 서비스는 아직 제공되지 않는다.\n\n'런치 시리즈' 트림은 <em>$61,990</em>에 책정됐고, FSD(감독형) 1년·슈퍼차징 1년 무료·프리미엄 커넥티비티 1년이 포함된다. 듀얼모터 AWD 기준 EPA 인증 항속거리는 <em>325마일</em>, 정지 가속(0→60mph)은 <em>4.4초</em>다.\n\n모델Y L은 기존 모델Y 대비 휠베이스가 150mm, 전장이 약 180mm 늘어나 2+2+2 배열의 3열 6인승 구성이 가능해졌다. 지난 2일 온라인 주문을 시작한 데 이어 매장 전시까지 이어지며, 실제 고객 인도는 <em>9월</em>부터 시작될 예정이다.\n\n3분기 인도 실적에 반영되는 신차종인 만큼, 7월22일 실적콜을 앞두고 신차 수요 모멘텀을 가늠할 지표로도 주목된다.",
-      "title_en": "Tesla's 6-seat Model Y L <em>arrives in US showrooms</em> — deliveries start in September",
-      "hotShort_en": "Model Y L <em>hits US showrooms</em>, deliveries in Sept",
-      "body_en": "Tesla has begun placing its three-row, six-seat Model Y L — which went on sale online July 2 — in US showrooms as of mid-July, letting shoppers sit in all three rows even though test drives aren't offered yet, ahead of a September delivery start.",
-      "summary_en": "Tesla's long-wheelbase, three-row, six-seat Model Y L has started appearing on showroom floors across the US. Display units have been spotted at stores including Naperville, Illinois and Tysons, Virginia, letting prospective buyers climb into the third row in person — though test drives still aren't available.\n\nThe Launch Series trim is priced at <em>$61,990</em> and bundles one year of Full Self-Driving (Supervised), one year of free Supercharging, and one year of Premium Connectivity. The dual-motor AWD configuration is EPA-rated for <em>325 miles</em> of range, with a 0-60 mph time of <em>4.4 seconds</em>.\n\nThe Model Y L stretches the standard Model Y's wheelbase by 150mm and overall length by roughly 180mm, opening up a 2+2+2, six-seat layout. It went on sale online July 2 and has now reached showrooms, with customer deliveries slated to begin in <em>September</em>.\n\nAs a new model that will factor into Q3 delivery numbers, its showroom rollout is also being watched as an early demand signal heading into Tesla's July 22 earnings call.",
-      "href": "https://teslanorth.com/2026/07/19/tesla-model-y-long-wheelbase-hits-us-showrooms-where-to-see-it/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "TeslaNorth",
-        "Not a Tesla App"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
       "pubDate": "2026-07-19T09:30:00.000Z",
       "title": "테슬라 유럽 유일공장 그린하이데, 10월부터 생산 <em>20% 증대</em> — 주 7,500대 목표",
       "hotShort": "그린하이데, 10월부터 생산 <em>20% 증대</em>",
@@ -199,5 +194,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-21 02:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-21 05:35 KST 자동 갱신 · 최신순"
 }
