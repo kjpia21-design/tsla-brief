@@ -1,23 +1,36 @@
 {
-  "asOf": "2026-07-19 22:57 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-20 03:40 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-19T21:13:41.000Z",
-      "title": "Tesla expands German production ahead of Q2 earnings",
-      "body": "Tesla expands German production ahead of Q2 earnings scanx.trade",
-      "sourceName": "scanx.trade",
+      "time": "1h ago",
+      "pubDate": "2026-07-20T02:11:30.000Z",
+      "title": "Tesla's German Plant Aims for Significant Production Increase",
+      "body": "Tesla's German Plant Aims for Significant Production Increase Intellectia AI",
+      "sourceName": "Intellectia AI",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://scanx.trade/stock-market-news/companies/tesla-investors-question-optimus-timeline-robotaxi-goals/45733445"
+      "href": "https://intellectia.ai/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "5h ago",
+      "pubDate": "2026-07-19T22:25:00.000Z",
+      "title": "SpaceX moves Starship launch attempt to Thursday",
+      "body": "SpaceX moves Starship launch attempt to Thursday Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "7h ago",
       "pubDate": "2026-07-19T20:45:17.000Z",
       "title": "Tesla Diner is live streaming the 2026 World Cup Final game on their giant screens, huge attendance here.",
       "body": "Tesla Diner is live streaming the 2026 World Cup Final game on their giant screens, huge attendance here. https://t.co/anBC8fe22y",
@@ -30,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-19T20:43:19.000Z",
       "title": "wild to see government accounts getting into it like this",
       "body": "wild to see government accounts getting into it like this https://t.co/fJq96NkA8e",
@@ -43,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-19T20:27:25.000Z",
       "title": "$220 billion a year 🤯 no wonder they’re opposed to autonomy",
       "body": "$220 billion a year 🤯 no wonder they’re opposed to autonomy https://t.co/HQkkVqmVwI",
@@ -56,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-19T19:51:55.000Z",
       "title": "19 July 2026 Giga Texas “After the Rains” short video clip! How did the site &amp; infrastructure survive the record-…",
       "body": "19 July 2026 Giga Texas “After the Rains” short video clip! How did the site &amp; infrastructure survive the record-breaking rains, flooding and damages around the area last week, especially given the hydrological chall…",
@@ -69,7 +82,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-19T19:47:04.000Z",
       "title": "I wonder if FSD already remembers your preferences to some degree. In the beginning, Cybertruck FSD used to park forw…",
       "body": "I wonder if FSD already remembers your preferences to some degree. In the beginning, Cybertruck FSD used to park forward on the driveway. You would have to intervene to reverse it in. Now, it reverses on the driveway eve…",
@@ -80,22 +93,9 @@
       "href": "https://x.com/niccruzpatane/status/2078929635933335681"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-07-19T19:13:19.000Z",
-      "title": "GROK 4.5 LEADS VULCANBENCH’S NEW CODING BENCHMARK Grok 4.5 just took the top spot on VulcanBench, a new coding benchm…",
-      "body": "GROK 4.5 LEADS VULCANBENCH’S NEW CODING BENCHMARK Grok 4.5 just took the top spot on VulcanBench, a new coding benchmark focused on real-world software tasks. It scored 91.3%, successfully solving 21 out of 23 practical …",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2078921142723887334"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-19T18:37:17.000Z",
       "title": "Full length of the Americas driven in a Model X",
       "body": "Full length of the Americas driven in a Model X https://t.co/2lckzLT9oK",
@@ -108,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-19T18:08:15.000Z",
       "title": "It's very nice having both an HW3 and an HW4 car running FSD V14 now. Usage of the older car has now quadrupled since…",
       "body": "It's very nice having both an HW3 and an HW4 car running FSD V14 now. Usage of the older car has now quadrupled since V14 Lite. https://t.co/r2ZCmY5a2z",
@@ -121,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-19T18:00:00.000Z",
       "title": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
       "body": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week Barron's",
@@ -129,25 +129,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/jobs-gm-tesla-alphabet-intel-verizon-and-more-to-watch-this-week-3dd9de07"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-07-19T17:07:15.000Z",
-      "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
-      "body": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla InsideEVs",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch/"
+      "href": "https://www.barrons.com/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-19T17:00:42.000Z",
       "title": "Happy Tesla earnings week. Subscriber spaces in one hour. Come join, lots to talk about.",
       "body": "Happy Tesla earnings week. Subscriber spaces in one hour. Come join, lots to talk about. https://t.co/dY4ehF5dwv",
@@ -160,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-19T16:43:37.000Z",
       "title": "I’ve never seen the Tesla store busier than when I checked out the Model Y L yesterday. It was packed, Model Y L will…",
       "body": "I’ve never seen the Tesla store busier than when I checked out the Model Y L yesterday. It was packed, Model Y L will be a huge seller for families. https://t.co/F5ePgGhnnE",
@@ -173,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-19T16:28:58.000Z",
       "title": "Way more than a billion",
       "body": "Way more than a billion https://t.co/zbhUvD95it",
@@ -186,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-19T15:49:15.000Z",
       "title": "BREAKING: Tesla secured the top two best-selling vehicles in the UK last month. 🇬🇧 • Model Y finished as the countr…",
       "body": "BREAKING: Tesla secured the top two best-selling vehicles in the UK last month. 🇬🇧 • Model Y finished as the country's No. 1 best-selling car. • Model 3 followed in second place. • Tesla delivered 12,173 vehicles acros…",
@@ -199,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-19T14:40:42.000Z",
       "title": "This is one of my favorite features of the @Tesla Cybertruck",
       "body": "This is one of my favorite features of the @Tesla Cybertruck https://t.co/gEga9551ha",
@@ -212,7 +199,20 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "13h ago",
+      "pubDate": "2026-07-19T14:20:57.000Z",
+      "title": "Tesla Inc, TSLA.SN:SGO directors and dealings",
+      "body": "Tesla Inc, TSLA.SN:SGO directors and dealings Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://markets.ft.com/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "14h ago",
       "pubDate": "2026-07-19T13:17:17.000Z",
       "title": "Earnings playbook: Alphabet and Tesla are among the big companies set to report this week",
       "body": "Earnings playbook: Alphabet and Tesla are among the big companies set to report this week CNBC",
@@ -220,12 +220,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/2026/07/19/earnings-playbook-alphabet-tesla-headline-this-weeks-big-reports.html"
+      "href": "https://www.cnbc.com/"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-19T12:27:16.000Z",
       "title": "Tesla Boosts Production at German Plant as Demand Rises",
       "body": "Tesla Boosts Production at German Plant as Demand Rises Bloomberg.com",
@@ -233,12 +233,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-19/tesla-boosts-production-at-german-plant-as-demand-rises"
+      "href": "https://www.bloomberg.com/"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-19T04:00:56.000Z",
       "title": "Xpeng says China close to building ‘killer’ rival to Tesla Model Y",
       "body": "Xpeng says China close to building ‘killer’ rival to Tesla Model Y Financial Times",
@@ -246,20 +246,20 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.ft.com/content/5a8dc7cd-35c8-4aeb-8f09-1df8afb2cf2e?syn-25a6b1a6"
+      "href": "https://www.ft.com/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
-      "pubDate": "2026-07-19T00:21:34.000Z",
-      "title": "Tesla Inc, TSLACL.SN:SGO forecasts",
-      "body": "Tesla Inc, TSLACL.SN:SGO forecasts Financial Times",
-      "sourceName": "Financial Times",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3d ago",
+      "pubDate": "2026-07-16T20:08:28.000Z",
+      "title": "US agency denies Tesla petition to avoid recall fix over headlight issue",
+      "body": "US agency denies Tesla petition to avoid recall fix over headlight issue Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://markets.ft.com/data/equities/tearsheet/forecasts?s"
+      "href": "https://www.reuters.com/"
     }
   ]
 }
