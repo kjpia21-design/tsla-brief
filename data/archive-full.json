@@ -1,6 +1,84 @@
 {
-  "asOf": "2026-07-20 18:09 UTC · 누적 642건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-20 21:15 UTC · 누적 643건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-20T17:15:04.000Z",
+      "title": "테슬라 2분기 실적 D-2 — 매출 컨센서스 $276억, 옵션시장은 <em>$5.5억 순매도</em> 베팅",
+      "hotShort": "테슬라 실적 D-2, 옵션시장 <em>$5.5억 순매도</em> 베팅",
+      "body": "22일 2분기 실적발표(D-2)를 앞두고 월가 컨센서스는 매출 <em>$276억</em>(전년동기 $225억 대비 +22.6%)을 예상 — 옵션시장은 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영했는데, CNBC는 콜·풋 포지셔닝이 '평소보다 약간 약세 쪽으로 기운' 상태로 순매도 델타 노출이 약 <em>$5.5억</em> 규모라고 짚었다. 이미 서프라이즈 인도량(+25% YoY)을 소화한 시장이라 '컨센서스만 맞춰선 랠리가 어렵다'는 경계감이 커지는 분위기다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "2026년 2분기(4~6월) 실적발표가 이틀 앞으로 다가온 가운데(현지시간 7월22일 장 마감 후), 월가 컨센서스가 구체적으로 잡혔다. 매출은 <em>$276억</em>으로 전년동기($225억) 대비 <em>22.6%</em> 늘어날 것으로 예상되며, 이는 이미 발표된 2분기 인도량 48만126대(컨센서스 40만6024대 상회, 전년비 +25%)의 서프라이즈를 반영한 수치다.\n\n뱅크오브아메리카는 17일 발표한 애널리스트 콜에서 테슬라 '매수' 의견과 목표주가 <em>$460</em>을 재확인했다 — 지난 11일 커버리지를 재개하며 밝힌 로보택시(전체 가치의 약 52%)·옵티머스(300억달러 이상 추가 upside)·에너지 사업($900억) 평가를 유지한 것이다.\n\n옵션시장은 실적 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영하고 있다. CNBC 옵션 애널리스트 마이크 카우는 콜·풋 포지셔닝이 '평소보다 약간 약세 쪽으로 기운' 상태이며, 이를 테슬라 주식 기준으로 환산하면 약 <em>$5.5억</em> 규모의 순매도(net short) 델타 노출에 해당한다고 짚었다. 인도량 서프라이즈(+25% YoY)를 이미 소화한 시장에선 '이번엔 컨센서스 부합만으로는 부족하다'는 경계감이 번지고 있다 — 리비안 신형 저가 SUV 'R2'發 마진 압박, 로보택시·옵티머스 등 비자동차 촉매에 크게 의존하는 밸류에이션도 부담 요인으로 함께 거론된다.\n\n이런 강세 신호에도 로보택시·옵티머스 관련 미달 목표에 대한 주주들의 해명 요구는 가라앉지 않고 있다. 일론 머스크가 2019년 예고한 '2020년 말까지 로보택시 100만대' 공약, 2024년 사이버캡 공개 행사에서 제시한 '2025년 텍사스·캘리포니아 무인 로보택시 상용화, 2026년 사이버캡 양산' 목표 모두 아직 검증대에 올라 있다. 모닝스타는 장기 목표주가(적정가치)를 $425→<em>$450</em>로 상향하며 '3성 등급·적정가치' 진단은 유지했다.\n\n모닝스타는 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다 — 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
+      "title_en": "Tesla Q2 earnings T-2 — Wall Street sees <em>$27.6B revenue</em>, options market's <em>$550M net-short bet</em>",
+      "hotShort_en": "Earnings T-2: options market's <em>$550M net-short bet</em>",
+      "body_en": "Two days before Tesla's July 22 Q2 report, Wall Street consensus calls for <em>$27.6 billion</em> in revenue (up 22.6% from $22.5B a year ago) — options markets are pricing in a <em>7%</em> post-earnings swing, and CNBC notes call/put positioning has tilted slightly more bearish than usual, equating to roughly <em>$550 million</em> of net short delta exposure. With the delivery beat (+25% YoY) already priced in, simply meeting consensus may not be enough to spark a rally.",
+      "summary_en": "With Tesla's Q2 (April–June) earnings call two days away — after the close on July 22 ET — Wall Street's consensus has sharpened. Revenue is expected at <em>$27.6 billion</em>, up <em>22.6%</em> from $22.5 billion a year earlier, reflecting the surprise from Tesla's already-reported Q2 deliveries of 480,126 vehicles, well above the 406,024 consensus and up 25% year over year.\n\nBank of America reaffirmed its Buy rating and <em>$460</em> price target in a Friday, July 17 analyst-call roundup — maintaining the thesis it laid out on July 11 when it reinstated coverage, valuing Robotaxi at roughly 52% of Tesla's total worth, seeing over $30 billion of upside from Optimus, and pricing the energy business at about $90 billion.\n\nOptions markets are pricing in roughly a <em>7%</em> swing in Tesla shares immediately following the report. CNBC options analyst Mike Khouw said call and put positioning has tilted slightly more bearish than usual, translating into roughly <em>$550 million</em> of net short delta exposure in Tesla shares. With the delivery beat (+25% year over year) already digested by the market, there's growing wariness that simply meeting consensus won't be enough to spark a rally — margin pressure from Rivian's newly launched, more affordably priced R2, and Tesla's heavy reliance on non-auto catalysts like Robotaxi and Optimus for its valuation, are also cited as headwinds.\n\nDespite the bullish signals, shareholder demands over unmet Robotaxi and Optimus targets haven't let up. Elon Musk's 2019 promise of a million robotaxis by the end of 2020 never materialized, and the goals set at the October 2024 Cybercab unveiling — unsupervised Robotaxi in Texas and California in 2025, volume Cybercab production in 2026 — remain under scrutiny. Morningstar raised its long-term fair value estimate to <em>$450</em> from $425, keeping a 3-star \"fairly valued\" rating.\n\nMorningstar said free cash flow and management commentary on Robotaxi and Optimus will matter more than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
+      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Electrek",
+        "Barron's",
+        "Morningstar",
+        "CNBC"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-20T16:04:41.000Z",
+      "title": "머스크 \"가짜뉴스\" — <em>스페이스X·폭스콘 $520억 엔비디아 GPU 딜</em> 루머 직접 부인",
+      "hotShort": "머스크, <em>$520억 엔비디아 GPU 딜</em> 루머 \"가짜뉴스\"",
+      "body": "대만 경제일보 발로 확산된 '스페이스X가 폭스콘을 통해 엔비디아 GB300 GPU 약 100만개를 $520억 규모로 발주했다'는 소문에 대해 일론 머스크가 X에서 직접 <em>\"이건 가짜뉴스\"</em>라고 부인했다 — 스페이스X·엔비디아·폭스콘 중 어느 쪽도 공식 확인하지 않은 미확인 보도였던 만큼, 대규모 AI 컴퓨팅 투자설이 나올 때마다 사실 검증이 필요함을 보여준 사례다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-nvidia-52b-gpu-deal-debunk-2026-07-20",
+      "summary": "지난 주말 대만 경제일보(Economic Daily)가 \"폭스콘이 스페이스X向 첫 AI 서버 제조 프로젝트를 수주했다\"고 보도하면서 소문이 커졌다 — 랙 1개당 400만달러씩 총 1만3000개 랙, 엔비디아 GB300 GPU 약 100만개, 총 <em>$520억</em> 규모라는 구체적 수치까지 X에서 빠르게 확산됐다.\n\n일론 머스크는 7월20일 X에서 <em>\"This is Fake News\"</em>(이건 가짜뉴스) 단 네 단어로 이를 직접 부인했다. 스페이스X·엔비디아·폭스콘 중 어느 회사도 이 거래를 공식적으로 확인하거나 언급한 적이 없는 상태였다.\n\n이런 루머가 빠르게 신빙성을 얻은 배경에는 최근 일론 머스크·xAI·스페이스X가 실제로 대규모 컴퓨팅 인프라 투자를 이어온 흐름이 있다 — 앞서 머스크는 xAI의 그록(Grok) 연산용 전력 확보를 위해 가스터빈 발전사 APR에너지를 10억달러에 조용히 인수했다고 보도된 바 있다.\n\n테슬라 주주 입장에선 직접적 영향은 제한적이지만, 스페이스X·xAI 관련 대형 계약설이 향후에도 계속 나올 가능성이 큰 만큼 머스크 계열사발 루머는 공식 확인 전까지 걸러 볼 필요가 있음을 보여준 사례다.",
+      "title_en": "Musk calls <em>$52B SpaceX-Foxconn Nvidia GPU deal</em> report \"fake news\"",
+      "hotShort_en": "Musk denies <em>$52B Nvidia GPU deal</em> rumor as \"fake news\"",
+      "body_en": "A rumor that spread from Taiwan's Economic Daily claiming SpaceX had ordered roughly a million Nvidia GB300 GPUs through Foxconn for about <em>$52 billion</em> was directly denied by Elon Musk on X, who called it <em>\"fake news\"</em> — with SpaceX, Nvidia and Foxconn all staying silent on the unconfirmed report, it's a reminder to fact-check big AI-infrastructure claims tied to Musk's companies before they take hold.",
+      "summary_en": "The rumor gained traction after Taiwan's Economic Daily reported over the weekend that Foxconn had won its first AI-server manufacturing project for SpaceX — with specifics circulating fast on X: 13,000 racks at roughly $4 million each, about a million Nvidia GB300 GPUs, and a total price tag of <em>$52 billion</em>.\n\nElon Musk shut it down on X on July 20 in four words: <em>\"This is Fake News.\"</em> None of SpaceX, Nvidia or Foxconn had officially confirmed or even commented on the purported deal.\n\nThe rumor spread quickly in part because Musk's companies have genuinely been ramping up large compute investments — xAI recently made headlines for quietly acquiring gas-turbine power producer APR Energy for $1 billion to help power its Grok AI models.\n\nFor Tesla shareholders, the direct impact is limited, but with more big SpaceX/xAI contract rumors likely ahead, this episode is a reminder to treat unconfirmed reports about Musk's other companies with caution until officially verified.",
+      "href": "https://www.teslarati.com/elon-musk-dispels-52-billion-spacex-nvidia-gpu-deal-fake-news/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "IBTimes UK"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-20T14:20:41.000Z",
+      "title": "플로리다 등 3개주 검찰총장, 테슬라 <em>$2억4300만 오토파일럿 평결</em> 파기 요청 — 항소법원에 의견서 제출",
+      "hotShort": "플로리다 등 3개주, 테슬라 <em>$2.43억 평결</em> 파기 요청",
+      "body": "2019년 플로리다 키라고 오토파일럿 사망사고로 나온 $2억4300만 배상평결에 대해, 플로리다·앨라배마·조지아 3개 주 검찰총장이 지난 9일 제11순회 항소법원에 평결 전부 파기 또는 최소 $2억 징벌적 손해배상을 보상 손해배상의 3배(플로리다 법정 상한)로 감액해달라는 의견서를 제출했다 — 주 정부까지 나서 테슬라 편에 서면서 항소 승산에 힘이 실리는 모양새다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-243m-autopilot-crash-appeal-2026-07-16",
+      "summary": "2019년 4월25일 플로리다 키라고에서 조지 맥기(George McGee)가 오토파일럿을 작동한 모델S를 몰던 중 떨어뜨린 휴대폰을 찾으려 고개를 숙인 사이, 차량이 정지 표지판과 점멸 적신호를 무시하고 시속 약 <em>62마일</em>로 주행해 갓길에 정차해 있던 SUV를 들이받았다. 이 사고로 당시 20세이던 나이벨 베나비데스 레온이 숨지고, 남자친구 딜런 앙굴로가 중상을 입었다.\n\n2025년 8월 배심원단은 테슬라에 총 <em>$2억4300만</em>(비교 손해배상 $1억2900만 포함)을 배상하라고 평결했다. 2026년 2월 베스 블룸 연방판사는 테슬라 측의 평결 파기·감액 요청을 기각하며 \"증거가 평결을 충분히 뒷받침한다\"고 밝혔다.\n\n이에 테슬라는 지난 3월16일 제11순회 연방항소법원에 항소장을 제출했고, 前 미 연방 송무차관보 폴 클레멘트와 깁슨던 로펌의 항소심 전문 변호사 시어도어 부트루스 주니어·미겔 에스트라다를 항소심 대리인단으로 앞세웠다. 이들은 플로리다주 법이 이번 사안에서 징벌적 손해배상을 허용하지 않는다고 주장하며, 비교 손해배상액도 $1억2900만에서 $6900만으로 낮춰야 한다고 맞서고 있다. 미 상공회의소를 비롯한 재계 단체들도 평결 파기를 촉구하는 의견서를 법원에 제출했다.\n\n이런 가운데 지난 9일 플로리다주 검찰총장 제임스 우스마이어(James Uthmeier) 주도로 앨라배마·조지아주 검찰총장까지 가세한 의견서가 제11항소법원에 제출됐다. 이들은 징벌적 손해배상이 과도하면 사회에 유익한 혁신을 억제한다는 논리를 펴며, 1심 법원이 플로리다주법상 징벌적 손해배상 3배 상한을 적용하지 않았다고 지적했다 — 평결 전부 파기 또는 $2억 징벌적 손해배상을 보상 손해배상의 3배 수준으로 감액하는 두 가지 대안을 요청했다.\n\n테슬라 주주 입장에서, 이번 항소심의 결과는 오토파일럿·FSD 관련 소송이 실제로 얼마나 큰 재무적 부담이 될 수 있는지를 가늠하는 중요한 선례가 될 전망이다.",
+      "title_en": "Florida, two other states ask court to <em>toss Tesla's $243M Autopilot verdict</em>",
+      "hotShort_en": "3 states ask court to <em>toss Tesla's $243M verdict</em>",
+      "body_en": "Florida, Alabama and Georgia's attorneys general filed a brief with the Eleventh Circuit on July 9 asking the court to either throw out Tesla's $243 million Autopilot verdict from the fatal 2019 Key Largo crash entirely, or cut the $200 million punitive award down to three times compensatory damages — Florida's statutory cap — giving Tesla's appeal an unusual boost from state governments.",
+      "summary_en": "On April 25, 2019, George McGee was driving a Model S with Autopilot engaged in Key Largo, Florida when he bent down to retrieve a dropped phone; the car ran a stop sign and a flashing red light at about <em>62 mph</em> and struck a parked SUV, killing 20-year-old Naibel Benavides Leon and severely injuring her boyfriend, Dillon Angulo.\n\nIn August 2025, a jury awarded a total of <em>$243 million</em> in damages, including <em>$129 million</em> in compensatory damages. In February 2026, U.S. District Judge Beth Bloom rejected Tesla's bid to set aside or reduce the verdict, saying the evidence \"more than supported\" the jury's findings.\n\nTesla filed a notice of appeal to the Eleventh Circuit on March 16, assembling a high-profile team led by former U.S. Solicitor General Paul Clement alongside Gibson Dunn appellate specialists Theodore Boutrous Jr. and Miguel Estrada. The team argues Florida law doesn't permit punitive damages under these circumstances and that compensatory damages should be cut from $129 million to $69 million. Business groups, including the U.S. Chamber of Commerce, have also filed briefs urging the court to vacate the verdict.\n\nAmid that appeal, Florida Attorney General James Uthmeier led a July 9 amicus brief joined by the attorneys general of Alabama and Georgia, urging the Eleventh Circuit to vacate the verdict outright — or, failing that, reduce the $200 million punitive award to three times compensatory damages, the cap under Florida law. The states argue that excessive punitive damages deter innovation that benefits society and that the trial court failed to apply Florida's 3:1 statutory cap.\n\nFor Tesla shareholders, the outcome of this appeal is an important test case for how much real financial exposure the company's Autopilot and FSD-related litigation could ultimately carry.",
+      "href": "https://electrek.co/2026/07/20/florida-ag-tesla-243m-autopilot-verdict/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Reuters",
+        "CNBC"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -90,33 +168,6 @@
       "href": "https://x.com/Tslachan/status/2079154315860770988",
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-20T06:00:00.000Z",
-      "title": "테슬라 2분기 실적 D-2 — 컨센서스 매출 <em>$276억</em>, 옵션시장은 <em>7% 변동</em>에 베팅",
-      "hotShort": "테슬라 실적 D-2, 옵션시장은 <em>7% 변동</em>에 베팅",
-      "body": "22일 2분기 실적발표(D-2)를 앞두고 월가 컨센서스는 매출 <em>$276억</em>(전년동기 $225억 대비 +22.6%)을 예상 — 옵션시장은 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영했고, 모건스탠리는 '로보택시·옵티머스가 가속하는 AI 투자 사이클을 정당화할 만큼 빠르게 진전하는지'가 핵심 관전포인트라고 짚었다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
-      "summary": "2026년 2분기(4~6월) 실적발표가 이틀 앞으로 다가온 가운데(현지시간 7월22일 장 마감 후), 월가 컨센서스가 구체적으로 잡혔다. 매출은 <em>$276억</em>으로 전년동기($225억) 대비 <em>22.6%</em> 늘어날 것으로 예상되며, 이는 이미 발표된 2분기 인도량 48만126대(컨센서스 40만6024대 상회, 전년비 +25%)의 서프라이즈를 반영한 수치다.\n\n뱅크오브아메리카는 17일 발표한 애널리스트 콜에서 테슬라 '매수' 의견과 목표주가 <em>$460</em>을 재확인했다 — 지난 11일 커버리지를 재개하며 밝힌 로보택시(전체 가치의 약 52%)·옵티머스(300억달러 이상 추가 upside)·에너지 사업($900억) 평가를 유지한 것이다.\n\n옵션시장은 실적 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영하고 있다. 모건스탠리는 \"핵심 투자자 논쟁은 여전히 같다 — 로보택시와 옵티머스가 가속하는 AI 투자 사이클을 정당화할 만큼 빠르게 진전하고 있는가\"라는 코멘트로 이번 실적의 관전 포인트를 짚었다.\n\n이런 강세 신호에도 로보택시·옵티머스 관련 미달 목표에 대한 주주들의 해명 요구는 가라앉지 않고 있다. 일론 머스크가 2019년 예고한 '2020년 말까지 로보택시 100만대' 공약, 2024년 사이버캡 공개 행사에서 제시한 '2025년 텍사스·캘리포니아 무인 로보택시 상용화, 2026년 사이버캡 양산' 목표 모두 아직 검증대에 올라 있다. 모닝스타는 장기 목표주가(적정가치)를 $425→<em>$450</em>로 상향하며 '3성 등급·적정가치' 진단은 유지했다.\n\n모닝스타는 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다 — 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
-      "title_en": "Tesla Q2 earnings T-2 — Wall Street sees <em>$27.6B revenue</em>, options market bets on a <em>7% swing</em>",
-      "hotShort_en": "Earnings T-2: options market bets on <em>7% swing</em>",
-      "body_en": "Two days before Tesla's July 22 Q2 report, Wall Street consensus calls for <em>$27.6 billion</em> in revenue (up 22.6% from $22.5B a year ago) — options markets are pricing in a <em>7%</em> post-earnings swing, and Morgan Stanley says the key investor debate remains whether Robotaxi and Optimus are progressing fast enough to justify Tesla's accelerating AI investment cycle.",
-      "summary_en": "With Tesla's Q2 (April–June) earnings call two days away — after the close on July 22 ET — Wall Street's consensus has sharpened. Revenue is expected at <em>$27.6 billion</em>, up <em>22.6%</em> from $22.5 billion a year earlier, reflecting the surprise from Tesla's already-reported Q2 deliveries of 480,126 vehicles, well above the 406,024 consensus and up 25% year over year.\n\nBank of America reaffirmed its Buy rating and <em>$460</em> price target in a Friday, July 17 analyst-call roundup — maintaining the thesis it laid out on July 11 when it reinstated coverage, valuing Robotaxi at roughly 52% of Tesla's total worth, seeing over $30 billion of upside from Optimus, and pricing the energy business at about $90 billion.\n\nOptions markets are pricing in roughly a <em>7%</em> swing in Tesla shares immediately following the report. Morgan Stanley framed the stakes bluntly: \"the key investor debate remains unchanged — can Robotaxi and Optimus progress quickly enough to justify an accelerating AI investment cycle?\"\n\nDespite the bullish signals, shareholder demands over unmet Robotaxi and Optimus targets haven't let up. Elon Musk's 2019 promise of a million robotaxis by the end of 2020 never materialized, and the goals set at the October 2024 Cybercab unveiling — unsupervised Robotaxi in Texas and California in 2025, volume Cybercab production in 2026 — remain under scrutiny. Morningstar raised its long-term fair value estimate to <em>$450</em> from $425, keeping a 3-star \"fairly valued\" rating.\n\nMorningstar said free cash flow and management commentary on Robotaxi and Optimus will matter more than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
-      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Electrek",
-        "Barron's",
-        "Morningstar",
-        "CNBC"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     },
     {
       "category": "product",
@@ -577,31 +628,6 @@
       ],
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-07-16T16:13:29.000Z",
-      "title": "테슬라 <em>$2억4300만 오토파일럿 배상평결</em> 항소전 — 前연방 송무차관보 등 거물 변호인단 투입",
-      "hotShort": "테슬라 <em>2.43억달러 배상평결</em> 항소 공방 개시",
-      "body": "2019년 플로리다 키라고(Key Largo)에서 오토파일럿 작동 중 발생한 사망사고에 대해 배심원단이 매긴 <em>$2억4300만</em> 배상 평결에, 테슬라가 前 연방 송무차관보 폴 클레멘트와 깁슨던(Gibson Dunn) 로펌 항소전문 변호사들을 앞세워 제11순회 연방항소법원에 항소했다 — 오토파일럿 소송 리스크가 실제 재무 부담으로 이어질지 가늠할 주요 분수령이다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "stock-243m-autopilot-crash-appeal-2026-07-16",
-      "summary": "2019년 4월25일 플로리다 키라고에서 조지 맥기(George McGee)가 오토파일럿을 작동한 모델S를 몰던 중 떨어뜨린 휴대폰을 찾으려 고개를 숙인 사이, 차량이 정지 표지판과 점멸 적신호를 무시하고 시속 약 <em>62마일</em>로 주행해 갓길에 정차해 있던 SUV를 들이받았다. 이 사고로 당시 20세이던 나이벨 베나비데스 레온이 숨지고, 남자친구 딜런 앙굴로가 중상을 입었다.\n\n2025년 8월 배심원단은 테슬라에 총 <em>$2억4300만</em>(비교 손해배상 $1억2900만 포함)을 배상하라고 평결했다. 2026년 2월 베스 블룸 연방판사는 테슬라 측의 평결 파기·감액 요청을 기각하며 \"증거가 평결을 충분히 뒷받침한다\"고 밝혔다.\n\n이에 테슬라는 지난 3월16일 제11순회 연방항소법원에 항소장을 제출했고, 前 미 연방 송무차관보 폴 클레멘트와 깁슨던 로펌의 항소심 전문 변호사 시어도어 부트루스 주니어·미겔 에스트라다를 항소심 대리인단으로 앞세웠다. 이들은 플로리다주 법이 이번 사안에서 징벌적 손해배상을 허용하지 않는다고 주장하며, 비교 손해배상액도 $1억2900만에서 $6900만으로 낮춰야 한다고 맞서고 있다. 미 상공회의소를 비롯한 재계 단체들도 평결 파기를 촉구하는 의견서를 법원에 제출했다.\n\n테슬라 주주 입장에서, 이번 항소심의 결과는 오토파일럿·FSD 관련 소송이 실제로 얼마나 큰 재무적 부담이 될 수 있는지를 가늠하는 중요한 선례가 될 전망이다.",
-      "title_en": "Tesla's <em>$243M Autopilot crash verdict</em> heads to appeal — Paul Clement, Gibson Dunn lead defense",
-      "hotShort_en": "Tesla's <em>$243M verdict</em> heads to appeal court",
-      "body_en": "Tesla has appealed a <em>$243 million</em> jury verdict over a fatal 2019 Autopilot crash in Key Largo, Florida to the Eleventh Circuit, enlisting former U.S. Solicitor General Paul Clement and Gibson Dunn appellate specialists Theodore Boutrous Jr. and Miguel Estrada — a case that will help show how much real financial exposure Tesla's Autopilot litigation actually carries.",
-      "summary_en": "On April 25, 2019, George McGee was driving a Model S with Autopilot engaged in Key Largo, Florida when he bent down to retrieve a dropped phone; the car ran a stop sign and a flashing red light at about <em>62 mph</em> and struck a parked SUV, killing 20-year-old Naibel Benavides Leon and severely injuring her boyfriend, Dillon Angulo.\n\nIn August 2025, a jury awarded a total of <em>$243 million</em> in damages, including <em>$129 million</em> in compensatory damages. In February 2026, U.S. District Judge Beth Bloom rejected Tesla's bid to set aside or reduce the verdict, saying the evidence \"more than supported\" the jury's findings.\n\nTesla filed a notice of appeal to the Eleventh Circuit on March 16, assembling a high-profile team led by former U.S. Solicitor General Paul Clement alongside Gibson Dunn appellate specialists Theodore Boutrous Jr. and Miguel Estrada. The team argues Florida law doesn't permit punitive damages under these circumstances and that compensatory damages should be cut from $129 million to $69 million. Business groups, including the U.S. Chamber of Commerce, have also filed briefs urging the court to vacate the verdict.\n\nFor Tesla shareholders, the outcome of this appeal is an important test case for how much real financial exposure the company's Autopilot and FSD-related litigation could ultimately carry.",
-      "href": "https://www.reuters.com/legal/litigation/legal-heavyweights-square-off-in-243-million-tesla-crash-appeal-2026-07-16/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "CNBC"
-      ],
-      "sentiment": "bear",
-      "hot": 6
     },
     {
       "category": "musk",
