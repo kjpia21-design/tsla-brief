@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-20T14:16:24.000Z",
+      "title": "포드 소형 전기 픽업, <em>테슬라 슈퍼차저서 첫 충전</em> 포착 — 2027년 3만달러대 출시",
+      "hotShort": "포드 전기 픽업, <em>슈퍼차저 첫 충전</em> 포착",
+      "body": "포드가 개발 중인 소형 전기 픽업트럭이 테슬라 슈퍼차저에서 충전하는 모습이 처음 포착됐다 — 네이티브 NACS 충전포트와 LFP 배터리를 탑재해 2027년 약 <em>$30,000</em>대 출시를 목표로 하는 모델로, 레거시 완성차 저가 EV 중 처음으로 어댑터 없이 테슬라 충전망을 그대로 쓰는 차가 되는 셈이다.",
+      "sourceName": "Sawyer Merritt (X)",
+      "sourceLabel": "press",
+      "slug": "product-ford-ev-pickup-supercharger-nacs-2026-07-20",
+      "summary": "테슬라 커뮤니티 큐레이터 소이어 메릿에 따르면, 포드가 개발 중인 소형(midsize) 전기 픽업트럭 시험 차량이 테슬라 슈퍼차저에서 충전하는 모습이 처음으로 포착됐다.\n\n이 트럭은 네이티브 NACS(북미 충전 표준) 포트를 달고 나오는 포드 최초의 전기차로, 별도 어댑터 없이 테슬라 슈퍼차저 전체 네트워크를 바로 이용할 수 있다. 배터리는 LFP(리튬인산철)를 채택했고, 포드는 <em>약 $30,000</em>대 시작가와 2027년 출시를 목표로 하고 있다.\n\n테슬라 입장에서는 직접적인 매출원은 아니지만, 완성차 업체들이 잇따라 NACS를 네이티브로 채택하면서 슈퍼차저 네트워크가 업계 표준 충전 인프라로 굳어지는 흐름을 보여주는 사례다. 저가 세그먼트 EV까지 NACS를 기본 탑재하기 시작했다는 점에서, 테슬라 충전 네트워크의 장기적 사용료·트래픽 기반이 넓어지는 신호로 읽힌다.",
+      "title_en": "Ford's small EV pickup <em>spotted charging at a Tesla Supercharger</em> for the first time — targeting a ~$30K, 2027 launch",
+      "hotShort_en": "Ford EV pickup <em>spotted at Supercharger</em>",
+      "body_en": "Ford's midsize EV pickup prototype was spotted charging at a Tesla Supercharger for the first time — the truck comes with a native NACS port and an LFP battery, and Ford is targeting a starting price of about <em>$30,000</em> with a 2027 launch, making it one of the first affordable legacy-automaker EVs to use Tesla's charging network without an adapter.",
+      "summary_en": "According to Tesla community curator Sawyer Merritt, a test mule of Ford's upcoming midsize electric pickup was spotted charging at a Tesla Supercharger for the first time.\n\nThe truck will be Ford's first EV with a native NACS (North American Charging Standard) port, letting it use Tesla's entire Supercharger network without an adapter. It's built around an LFP battery, and Ford is targeting a starting price of roughly <em>$30,000</em> with a 2027 launch.\n\nIt isn't direct revenue for Tesla, but it's another data point in automakers standardizing on NACS as the industry's charging infrastructure — even at the affordable end of the EV market. That broadens the long-term traffic and usage base for Tesla's charging network.",
+      "href": "https://x.com/SawyerMerritt/status/2079208807201382695",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-20T14:12:51.000Z",
+      "title": "테슬라 FSD V14 Lite(HW3), <em>HW4 기능 이식</em> 업데이트 — 브레이크 확인 없이 주차 출발",
+      "hotShort": "HW3용 FSD V14 Lite에 <em>HW4 기능 이식</em>",
+      "body": "테슬라가 구형 HW3 하드웨어용 FSD V14 Lite에 HW4 버전의 기능을 옮겨오는 업데이트를 배포했다 — <em>브레이크 확인 없이 주차 상태에서 바로 출발</em>, Self-Driving 앱, 연속 무개입 주행 '스트릭' 기록 등이 새로 추가돼, 언수퍼바이즈드 FSD를 지원하지 못하는 구형 하드웨어 차주들의 체감 격차를 좁히는 행보다.",
+      "sourceName": "Nic Cruz Patane (X)",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-lite-hw3-feature-parity-2026-07-20",
+      "summary": "테슬라 커뮤니티 큐레이터 닉 크루즈 파테인에 따르면, HW3(하드웨어3) 탑재 차량에 배포되는 FSD V14 Lite가 이번 업데이트로 HW4 버전 V14의 일부 기능을 넘겨받았다.\n\n구체적으로는 주차된 상태에서 출발할 때 더 이상 브레이크 페달을 밟아 확인할 필요가 없어졌고, Self-Driving 전용 앱과 무개입 연속 주행일수를 기록하는 '스트릭' 기능이 새로 추가됐다. 같은 날 테슬라 코리아 관련 소식을 전하는 큐레이터 테슬라 챈도 별도 게시물에서 이번 V14 Lite 업데이트의 완성도에 대해 \"HW3로 이 정도 수준의 소프트웨어를 만든 게 놀랍다\"고 평했다.\n\nHW3는 일론 머스크가 올해 초 실적콜에서 언수퍼바이즈드(완전 무감독) FSD 지원이 어렵다고 밝힌 구형 하드웨어다. 이번 업데이트는 그 한계를 인정하면서도, HW4와의 사용자 경험 격차를 최대한 좁히려는 테슬라의 절충안으로 풀이된다.\n\n22일 2분기 실적콜(D-2)을 앞두고 나온 이번 소식은 FSD 소프트웨어 반복 개선의 속도를 보여주는 참고 지표로, 구형 차량 보유 주주·고객층의 만족도와 직결되는 부분이라 주목할 만하다.",
+      "title_en": "Tesla brings <em>HW4 features to FSD V14 Lite</em> on HW3 cars — no more brake confirm to start from parking",
+      "hotShort_en": "FSD V14 Lite on HW3 gets <em>HW4 features</em>",
+      "body_en": "Tesla pushed an update to FSD V14 Lite on older HW3 hardware that ports over features from the HW4 version — cars can now <em>start from parking without a brake-pedal confirmation</em>, plus a new Self-Driving app and streak tracking for consecutive intervention-free drives, narrowing the experience gap for owners whose hardware can't run unsupervised FSD.",
+      "summary_en": "According to Tesla community curator Nic Cruz Patane, FSD V14 Lite — the build running on older Hardware 3 (HW3) cars — has picked up several features first introduced on the HW4 version of V14.\n\nSpecifically, cars no longer need a brake-pedal press to confirm they're ready to pull out of a parking spot, and Tesla added a dedicated Self-Driving app along with a streak counter that tracks consecutive intervention-free drives. The same day, fellow curator Tesla Chan, posting separately, called the update impressive, saying it's \"amazing Tesla made this level of software\" run on HW3 hardware.\n\nHW3 is the older hardware generation that Elon Musk said earlier this year, on an earnings call, can't support unsupervised FSD. This update reads as Tesla's compromise — acknowledging that ceiling while still closing as much of the user-experience gap with HW4 as it can.\n\nComing two days before Tesla's July 22 Q2 earnings call, the update is a data point on the pace of FSD's iterative improvement — one that matters directly to the satisfaction of shareholders and customers still driving older hardware.",
+      "href": "https://x.com/niccruzpatane/status/2079207916272255062",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Nic Cruz Patane (X)",
+        "Tesla Chan (X)"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -24,26 +69,6 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-20T10:39:52.000Z",
-      "title": "테슬라 코리아, 모델Y L <em>프리미엄 AWD 트림</em> 신규 인증 — 전륜 출력 41마력↑",
-      "hotShort": "모델Y L에 <em>프리미엄 AWD</em> 신규 인증",
-      "body": "테슬라 코리아가 모델Y L '프리미엄 AWD' 트림을 새로 인증받았다 — 인증 데이터상 전륜 모터 출력이 215마력에서 256마력으로 41마력 늘고 상온·저온 주행거리도 함께 개선돼, 지난 4월 출시한 3열 6인승 모델의 라인업이 한 단계 넓어졌다.",
-      "sourceName": "Tesla Chan (X)",
-      "sourceLabel": "press",
-      "slug": "product-model-y-l-korea-premium-awd-cert-2026-07-20",
-      "summary": "테슬라 코리아가 모델Y L(3열 6인승)의 새로운 트림 '프리미엄 AWD'를 인증받은 사실이 국내 인증 데이터베이스에서 확인됐다. 지난 1월 인증됐던 스펙이 이번 7월 최신 데이터로 갱신되며 나타난 변화다.\n\n가장 눈에 띄는 변화는 전륜 모터 출력이다. 기존 215마력에서 256마력으로 41마력 늘었고, 상온·저온 주행거리도 함께 개선된 것으로 나타났다 — 구체적인 인증 항속거리 수치는 아직 공개되지 않았다.\n\n모델Y L은 테슬라가 지난 4월 국내에 공식 출시한 3열 6인승 롱휠베이스 모델로, 이번 프리미엄 AWD 트림 추가는 라인업을 한 단계 넓히는 행보로 풀이된다.\n\n출시가·판매 개시 시점 등 구체 사항은 아직 테슬라 코리아의 공식 발표를 기다려야 하지만, 22일 2분기 실적콜(D-2)을 앞두고 신차 라인업 확장 신호가 이어지는 점은 주목할 만하다.",
-      "title_en": "Tesla Korea certifies new <em>Model Y L Premium AWD</em> trim — front motor power up 41 hp",
-      "hotShort_en": "Model Y L gets new <em>Premium AWD</em> trim",
-      "body_en": "Tesla Korea has certified a new \"Premium AWD\" trim for the Model Y L — certification data shows front motor output rising 41 hp, from 215 hp to 256 hp, alongside improved range in both normal and cold conditions, expanding the lineup for the three-row, six-seat model launched in April.",
-      "summary_en": "South Korea's vehicle certification database shows Tesla Korea has certified a new \"Premium AWD\" trim for the Model Y L, its three-row, six-seat model. The change appeared when a spec certified back in January was updated with new data this July.\n\nThe most notable change is front motor output, which rose 41 hp, from 215 hp to 256 hp, alongside improvements to both normal- and cold-weather range — specific certified range figures haven't been published yet.\n\nThe Model Y L is the long-wheelbase, three-row, six-seat model Tesla officially launched in Korea this past April, and the addition of a Premium AWD trim reads as a further expansion of that lineup.\n\nDetails like pricing and sales timing await an official announcement from Tesla Korea, but the continued lineup expansion is notable heading into the July 22 Q2 earnings call, two days away.",
-      "href": "https://x.com/Tslachan/status/2079154315860770988",
-      "sentiment": "neutral",
-      "hot": 3
     },
     {
       "category": "stock",
@@ -174,27 +199,7 @@
       ],
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
-      "pubDate": "2026-07-17T20:07:27.000Z",
-      "title": "스페이스X 시가총액, 사상 최고치 대비 <em>$1조 넘게 증발</em> — 주가 5.4% 급락해 $123.99",
-      "hotShort": "스페이스X 시총, 최고가 대비 <em>$1조 증발</em>",
-      "body": "스페이스X 주가가 17일 <em>5.4% 급락</em>해 $123.99로 마감 — 6월16일(상장 사흘째) 기록한 사상 최고치 $2조6400억 대비 시가총액이 $1조6300억으로 줄어 <em>$1조 넘게 증발</em>했다. 전날 스타십 13차 시험비행 발사 중단까지 겹치며 투자 심리가 급격히 식고 있다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-1-trillion-value-wipeout-2026-07-17",
-      "summary": "블룸버그에 따르면 스페이스X 주가는 17일(현지시간) 전일 대비 5.4% 하락한 $123.99에 마감했다. 이로써 시가총액은 6월16일 상장 사흘째 기록한 사상 최고치 $2조6400억에서 $1조6300억으로 줄어, 최고치 대비 $1조 넘는 가치가 증발한 셈이다.\n\n스페이스X 주가는 상장 후 한 달여 만에 가파른 내림세를 보이고 있다. 지난 7월14일 IPO가($135) 단 $1 위까지 밀렸고, 15일에는 사상 최고가 대비 33% 급락하며 IPO가 아래로 처음 내려섰다. 16일에는 공매도 평가익이 $87억에 달할 만큼 약세 베팅이 쌓였고, 결국 17일 5.4% 추가 하락하며 $1조 손실 구간에 진입했다.\n\n직전 거래일인 16일에는 스타십 13차 시험비행이 슈퍼헤비 부스터 엔진 4기 미점화로 발사 직전 자동 중단되는 일이 겹쳤다. 상장 직후의 뜨거운 투자 열기가 빠르게 식으면서, 실적·기술 이정표에 대한 시장의 눈높이가 한층 냉정해진 모습이다.\n\n테슬라 주주 입장에서 스페이스X는 직접 보유 종목이 아니지만, 머스크가 이끄는 계열사들의 밸류에이션 변동은 그의 시간·자원 배분과 시장의 '머스크 프리미엄' 심리를 가늠하는 참고 지표로 종종 인용된다. 최근 일각에서 제기된 스페이스X-테슬라 합병 가능성 관측도 이번 급락으로 다시 냉각될 가능성이 있다.",
-      "title_en": "SpaceX market value <em>wipes out over $1 trillion</em> from its peak as shares slide 5.4% to $123.99",
-      "hotShort_en": "SpaceX <em>erases over $1T</em> in value from peak",
-      "body_en": "SpaceX shares fell <em>5.4%</em> Friday to close at $123.99 — down from the all-time high of $2.64 trillion in market value hit on June 16, its third day of trading, wiping out <em>more than $1 trillion</em> in value. The prior day's aborted 13th Starship test flight added to the cooling investor mood.",
-      "summary_en": "According to Bloomberg, SpaceX shares fell 5.4% on Friday, July 17, to close at $123.99. That leaves the company's market value at $1.63 trillion, down from the all-time high of $2.64 trillion set on June 16 — its third day of trading — erasing more than $1 trillion in value from the peak.\n\nSpaceX has been on a steep slide in the roughly month since its debut. On July 14, shares closed just $1 above the IPO price of $135; on July 15, they fell 33% from the all-time high and dropped below the IPO price for the first time; by July 16, paper gains on short positions had swelled to about $8.7 billion. Friday's additional 5.4% drop pushed the stock into $1-trillion-loss territory.\n\nThe decline came a day after SpaceX's 13th Starship test flight was automatically aborted just before liftoff when four of the Super Heavy booster's engines failed to ignite. The initial post-IPO enthusiasm has cooled quickly, with the market taking a more sober view of the company's execution and technical milestones.\n\nSpaceX isn't a Tesla holding, but valuation swings at Musk-led affiliates are often cited as a proxy for how the market is pricing the broader 'Musk premium' and where his time and resources are focused. The sharp drop may also cool recent chatter about a possible SpaceX-Tesla merger.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-set-to-wipe-out-1-trillion-in-value-as-shares-slide",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-21 00:11 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-21 01:20 KST 자동 갱신 · 최신순"
 }
