@@ -1,19 +1,64 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-20T13:15:01.000Z",
+      "title": "테슬라 로보택시 원격조작자, 휴스턴서 <em>그루터기 충돌</em> — NHTSA 신규 4건 신고",
+      "hotShort": "로보택시 원격조작 중 <em>그루터기 충돌</em> 신고",
+      "body": "테슬라가 NHTSA에 로보택시 사고 4건을 새로 신고했는데, 가장 주목되는 건은 휴스턴에서 원격조작자가 차량을 그루터기에 충돌시킨 사고다 — 시속 2마일 저속의 물적 피해(부상 없음)였지만, 테슬라가 '원격조작 유발'로 공식 분류한 첫 사례이자 관련 세 번째 충돌로, 무인 로보택시 운행의 안전판인 원격지원 시스템 자체의 신뢰성이 도마에 올랐다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-remote-operator-crash-houston-2026-07-20",
+      "summary": "테슬라가 NHTSA(미국 도로교통안전국)에 '로보택시' 관련 신규 충돌 신고 4건을 제출했다. 이 중 가장 눈에 띄는 사례는 휴스턴에서 발생한 사고로, 테슬라 측 설명에 따르면 모델Y가 막다른 주거지 도로에서 오도가도 못하는 상황에 놓여 원격지원(원격조작)을 받고 있었다.\n\n원격조작자가 차량을 잔디 경사면으로 이동시켜 빠져나오게 하려던 과정에서, 눈에 잘 띄지 않던 그루터기와 접촉했다. 사고 당시 속도는 시속 2마일에 불과했고, 에어백도 전개되지 않았으며 견인도 필요 없는 경미한 물적 피해였다 — 부상자는 없었다.\n\n이번 사고가 주목받는 이유는 분류 방식에 있다. 테슬라가 자사 신고서에서 '원격조작이 사고를 유발했다'고 공식적으로 코드화한 것은 이번이 처음이며, 원격조작자가 관여된 충돌로는 세 번째 사례다. 앞서 오스틴에서도 원격조작자가 차량을 충돌시킨 사례들이 있었다.\n\n테슬라 주주 입장에서는 로보택시 무인 운행의 최후 안전판으로 여겨지는 원격지원 시스템 자체의 신뢰성이 다시 도마에 오른 셈이다. 22일 2분기 실적콜(D-2)에서도 로보택시·자율주행 진척 상황에 대한 질의가 예상되는 가운데, 이번 신고는 무인화 확대 속도에 대한 신중론에 힘을 실을 수 있는 재료다.",
+      "title_en": "Tesla Robotaxi remote operator <em>crashes into hidden tree stump</em> in Houston — 4 new NHTSA filings",
+      "hotShort_en": "Robotaxi remote op <em>hits stump</em> in Houston",
+      "body_en": "Tesla filed four new Robotaxi crash reports with NHTSA, and the most notable involves a remote operator driving the vehicle into a hidden tree stump in Houston — a low-speed (2 mph), no-injury property-damage incident, but the first crash Tesla has formally coded as caused by remote operation, and the third such case overall, putting fresh scrutiny on the remote-assistance safety net behind its driverless Robotaxi rollout.",
+      "summary_en": "Tesla submitted four new \"Robotaxi\" crash reports to NHTSA (the National Highway Traffic Safety Administration). The most notable involves a Houston incident in which, according to Tesla's own account, a Model Y got stuck on a dead-end residential road and was being assisted remotely.\n\nAs the remote operator maneuvered the vehicle onto a grassy slope to free it, the car made contact with a hidden tree stump. The vehicle was traveling at just 2 mph at the time — no airbags deployed, no tow was needed, and it was minor property damage only, with no injuries.\n\nWhat makes this case notable is the classification: it's the first crash Tesla has formally coded in its filing as caused by remote operation, and the third crash overall involving a remote operator. Tesla has previously reported other remote-operator-caused crashes in Austin.\n\nFor shareholders, it renews scrutiny on the reliability of the remote-assistance system that serves as the final safety net for Robotaxi's driverless operations. With Tesla's Q2 earnings call two days away (July 22), where Robotaxi and autonomy progress are expected to come up, this filing gives ammunition to skeptics of how fast the driverless rollout can scale.",
+      "href": "https://electrek.co/2026/07/20/tesla-robotaxi-remote-operator-crash-houston/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Engadget"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-20T10:39:52.000Z",
+      "title": "테슬라 코리아, 모델Y L <em>프리미엄 AWD 트림</em> 신규 인증 — 전륜 출력 41마력↑",
+      "hotShort": "모델Y L에 <em>프리미엄 AWD</em> 신규 인증",
+      "body": "테슬라 코리아가 모델Y L '프리미엄 AWD' 트림을 새로 인증받았다 — 인증 데이터상 전륜 모터 출력이 215마력에서 256마력으로 41마력 늘고 상온·저온 주행거리도 함께 개선돼, 지난 4월 출시한 3열 6인승 모델의 라인업이 한 단계 넓어졌다.",
+      "sourceName": "Tesla Chan (X)",
+      "sourceLabel": "press",
+      "slug": "product-model-y-l-korea-premium-awd-cert-2026-07-20",
+      "summary": "테슬라 코리아가 모델Y L(3열 6인승)의 새로운 트림 '프리미엄 AWD'를 인증받은 사실이 국내 인증 데이터베이스에서 확인됐다. 지난 1월 인증됐던 스펙이 이번 7월 최신 데이터로 갱신되며 나타난 변화다.\n\n가장 눈에 띄는 변화는 전륜 모터 출력이다. 기존 215마력에서 256마력으로 41마력 늘었고, 상온·저온 주행거리도 함께 개선된 것으로 나타났다 — 구체적인 인증 항속거리 수치는 아직 공개되지 않았다.\n\n모델Y L은 테슬라가 지난 4월 국내에 공식 출시한 3열 6인승 롱휠베이스 모델로, 이번 프리미엄 AWD 트림 추가는 라인업을 한 단계 넓히는 행보로 풀이된다.\n\n출시가·판매 개시 시점 등 구체 사항은 아직 테슬라 코리아의 공식 발표를 기다려야 하지만, 22일 2분기 실적콜(D-2)을 앞두고 신차 라인업 확장 신호가 이어지는 점은 주목할 만하다.",
+      "title_en": "Tesla Korea certifies new <em>Model Y L Premium AWD</em> trim — front motor power up 41 hp",
+      "hotShort_en": "Model Y L gets new <em>Premium AWD</em> trim",
+      "body_en": "Tesla Korea has certified a new \"Premium AWD\" trim for the Model Y L — certification data shows front motor output rising 41 hp, from 215 hp to 256 hp, alongside improved range in both normal and cold conditions, expanding the lineup for the three-row, six-seat model launched in April.",
+      "summary_en": "South Korea's vehicle certification database shows Tesla Korea has certified a new \"Premium AWD\" trim for the Model Y L, its three-row, six-seat model. The change appeared when a spec certified back in January was updated with new data this July.\n\nThe most notable change is front motor output, which rose 41 hp, from 215 hp to 256 hp, alongside improvements to both normal- and cold-weather range — specific certified range figures haven't been published yet.\n\nThe Model Y L is the long-wheelbase, three-row, six-seat model Tesla officially launched in Korea this past April, and the addition of a Premium AWD trim reads as a further expansion of that lineup.\n\nDetails like pricing and sales timing await an official announcement from Tesla Korea, but the continued lineup expansion is notable heading into the July 22 Q2 earnings call, two days away.",
+      "href": "https://x.com/Tslachan/status/2079154315860770988",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "just now",
       "pubDate": "2026-07-20T06:00:00.000Z",
       "title": "테슬라 2분기 실적 D-2 — 컨센서스 매출 <em>$276억</em>, 옵션시장은 <em>7% 변동</em>에 베팅",
-      "hotShort": "테슬라 실적 D-3, 옵션시장은 <em>7% 변동</em>에 베팅",
+      "hotShort": "테슬라 실적 D-2, 옵션시장은 <em>7% 변동</em>에 베팅",
       "body": "22일 2분기 실적발표(D-2)를 앞두고 월가 컨센서스는 매출 <em>$276억</em>(전년동기 $225억 대비 +22.6%)을 예상 — 옵션시장은 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영했고, 모건스탠리는 '로보택시·옵티머스가 가속하는 AI 투자 사이클을 정당화할 만큼 빠르게 진전하는지'가 핵심 관전포인트라고 짚었다.",
       "sourceName": "Electrek",
       "sourceLabel": "press",
       "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
       "summary": "2026년 2분기(4~6월) 실적발표가 이틀 앞으로 다가온 가운데(현지시간 7월22일 장 마감 후), 월가 컨센서스가 구체적으로 잡혔다. 매출은 <em>$276억</em>으로 전년동기($225억) 대비 <em>22.6%</em> 늘어날 것으로 예상되며, 이는 이미 발표된 2분기 인도량 48만126대(컨센서스 40만6024대 상회, 전년비 +25%)의 서프라이즈를 반영한 수치다.\n\n뱅크오브아메리카는 17일 발표한 애널리스트 콜에서 테슬라 '매수' 의견과 목표주가 <em>$460</em>을 재확인했다 — 지난 11일 커버리지를 재개하며 밝힌 로보택시(전체 가치의 약 52%)·옵티머스(300억달러 이상 추가 upside)·에너지 사업($900억) 평가를 유지한 것이다.\n\n옵션시장은 실적 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영하고 있다. 모건스탠리는 \"핵심 투자자 논쟁은 여전히 같다 — 로보택시와 옵티머스가 가속하는 AI 투자 사이클을 정당화할 만큼 빠르게 진전하고 있는가\"라는 코멘트로 이번 실적의 관전 포인트를 짚었다.\n\n이런 강세 신호에도 로보택시·옵티머스 관련 미달 목표에 대한 주주들의 해명 요구는 가라앉지 않고 있다. 일론 머스크가 2019년 예고한 '2020년 말까지 로보택시 100만대' 공약, 2024년 사이버캡 공개 행사에서 제시한 '2025년 텍사스·캘리포니아 무인 로보택시 상용화, 2026년 사이버캡 양산' 목표 모두 아직 검증대에 올라 있다. 모닝스타는 장기 목표주가(적정가치)를 $425→<em>$450</em>로 상향하며 '3성 등급·적정가치' 진단은 유지했다.\n\n모닝스타는 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다 — 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
       "title_en": "Tesla Q2 earnings T-2 — Wall Street sees <em>$27.6B revenue</em>, options market bets on a <em>7% swing</em>",
-      "hotShort_en": "Earnings T-3: options market bets on <em>7% swing</em>",
+      "hotShort_en": "Earnings T-2: options market bets on <em>7% swing</em>",
       "body_en": "Two days before Tesla's July 22 Q2 report, Wall Street consensus calls for <em>$27.6 billion</em> in revenue (up 22.6% from $22.5B a year ago) — options markets are pricing in a <em>7%</em> post-earnings swing, and Morgan Stanley says the key investor debate remains whether Robotaxi and Optimus are progressing fast enough to justify Tesla's accelerating AI investment cycle.",
       "summary_en": "With Tesla's Q2 (April–June) earnings call two days away — after the close on July 22 ET — Wall Street's consensus has sharpened. Revenue is expected at <em>$27.6 billion</em>, up <em>22.6%</em> from $22.5 billion a year earlier, reflecting the surprise from Tesla's already-reported Q2 deliveries of 480,126 vehicles, well above the 406,024 consensus and up 25% year over year.\n\nBank of America reaffirmed its Buy rating and <em>$460</em> price target in a Friday, July 17 analyst-call roundup — maintaining the thesis it laid out on July 11 when it reinstated coverage, valuing Robotaxi at roughly 52% of Tesla's total worth, seeing over $30 billion of upside from Optimus, and pricing the energy business at about $90 billion.\n\nOptions markets are pricing in roughly a <em>7%</em> swing in Tesla shares immediately following the report. Morgan Stanley framed the stakes bluntly: \"the key investor debate remains unchanged — can Robotaxi and Optimus progress quickly enough to justify an accelerating AI investment cycle?\"\n\nDespite the bullish signals, shareholder demands over unmet Robotaxi and Optimus targets haven't let up. Elon Musk's 2019 promise of a million robotaxis by the end of 2020 never materialized, and the goals set at the October 2024 Cybercab unveiling — unsupervised Robotaxi in Texas and California in 2025, volume Cybercab production in 2026 — remain under scrutiny. Morningstar raised its long-term fair value estimate to <em>$450</em> from $425, keeping a 3-star \"fairly valued\" rating.\n\nMorningstar said free cash flow and management commentary on Robotaxi and Optimus will matter more than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
       "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
@@ -108,32 +153,6 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
-      "pubDate": "2026-07-18T20:31:41.000Z",
-      "title": "테슬라 FSD v14.3.5 확대 배포 — <em>카메라 프리뷰·통합모델</em>로 반응속도 20%↑",
-      "hotShort": "FSD v14.3.5 확대, <em>반응속도 20%</em> 개선",
-      "body": "테슬라가 지난 13일부터 HW4(AI4) 차량에 FSD v14.3.5(2026.20.6.6)를 배포 중이다 — AI 컴파일러를 새로 짜 반응속도를 <em>20%</em> 높이고 액추얼리 스마트 서몬·FSD·로보택시 모델을 하나로 통합했지만, 사흘 뒤인 15일 3차 확대에도 전체 차량의 <em>1% 미만</em>에 그쳐 아직은 제한적 배포 단계다.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "fsd-v1435-rollout-camera-preview-2026-07-18",
-      "summary": "테슬라가 7월13일(월) 소프트웨어 버전 2026.20.6.6과 함께 FSD(Supervised) v14.3.5 배포를 시작했다. 이번 버전은 하드웨어4(HW4/AI4) 탑재 차량에만 제공된다.\n\n핵심 변경점은 세 가지다. 첫째, 카메라 프리뷰를 주행 중에도 언제든 열어볼 수 있게 됐고 차량 실내 캐빈 카메라까지 확인 가능해졌다. 둘째, 신경망 학습의 강화학습(RL) 단계를 업그레이드해 다양한 주행 상황에서의 대응력을 개선했고, AI 컴파일러·런타임을 MLIR 기반으로 새로 작성해 <em>반응속도를 20%</em> 끌어올렸다. 셋째, 액추얼리 스마트 서몬·FSD·로보택시에 쓰이던 모델을 하나로 통합해 더 일관된 주행 판단이 가능해졌고, 스마트 서몬 최고 속도도 시속 8마일(약 13km/h)로 상향됐다. 앱에서는 무개입 주행거리와 최장 무개입 기록도 확인할 수 있게 됐다.\n\n다만 배포 속도는 더디다. 7월15일 3번째 확대 물결로 약 1,210대가 추가됐지만, 출시 사흘째 기준 전체 테슬라 차량의 1%에도 못 미치는 제한적 배포 상태다. 실제 사용 후기로는 인플루언서 재크(BLKMDL3)가 멕시코 바하 칼리포르니아의 발레 데 과달루페~로사리토 비치 구간을 무개입으로 완주했다고 전했고, 닉 크루즈 파테인도 사이버트럭에서 v14.3.5를 며칠간 사용해 본 소감을 공유했다.\n\n테슬라 주주 입장에서, 반응속도 개선과 모델 통합은 22일 2분기 실적에서 다시 도마에 오를 로보택시·자율주행 진척 상황에 대한 답변 재료가 될 수 있다 — 다만 아직 HW4 한정·1% 미만의 초기 배포 단계라, 전체 차량군으로 언제 확대되는지가 다음 관전 포인트다.",
-      "title_en": "Tesla expands <em>FSD v14.3.5</em> rollout — new compiler cuts reaction time <em>20%</em>, unifies driving models",
-      "hotShort_en": "FSD v14.3.5 expands, <em>reaction time up 20%</em>",
-      "body_en": "Tesla has been rolling out FSD v14.3.5 (2026.20.6.6) to HW4 (AI4) vehicles since July 13 — a rewritten AI compiler cuts reaction time by <em>20%</em> and unifies the models behind Smart Summon, FSD, and Robotaxi, but a third expansion wave on July 15 still reached <em>less than 1%</em> of the fleet, keeping the rollout limited three days in.",
-      "summary_en": "Tesla began rolling out FSD (Supervised) v14.3.5 on Monday, July 13, alongside software version 2026.20.6.6. The update is available only to vehicles equipped with Hardware 4 (HW4/AI4).\n\nThree changes stand out. First, Camera Preview can now be opened at any time while driving, including a view of the interior cabin camera. Second, Tesla upgraded the reinforcement-learning stage of neural-network training and rewrote its AI compiler and runtime on MLIR, delivering a <em>20% faster reaction time</em>. Third, the models behind Actually Smart Summon, FSD, and Robotaxi were unified for more consistent driving decisions, and Smart Summon's top speed was raised to 8 mph (about 13 km/h). The app now also shows distance driven without intervention and the longest intervention-free streak.\n\nThe rollout pace, though, remains slow. A third deployment wave on July 15 added roughly 1,210 more eligible vehicles, but three days after launch the update still covers <em>less than 1%</em> of Tesla's fleet. Anecdotal real-world reports have been positive: influencer Zack (BLKMDL3) said he completed a drive from Valle de Guadalupe to Rosarito Beach in Baja California, Mexico with zero interventions, while Nic Cruz Patane shared impressions after using v14.3.5 on a Cybertruck for several days.\n\nFor shareholders, the faster reaction time and model unification could feed into Robotaxi and autonomy talking points at the July 22 Q2 earnings call — but with the rollout still HW4-only and under 1% of the fleet, how quickly it scales to the broader fleet is the next thing to watch.",
-      "href": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "Tesla Oracle",
-        "TeslaNorth"
-      ],
-      "sentiment": "bull",
-      "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
       "pubDate": "2026-07-18T20:16:49.000Z",
       "title": "머스크 \"테슬라 FSD, 운전자 개인 습관까지 학습\" — <em>그록 음성명령 9월 통합</em> 예고",
       "hotShort": "FSD에 <em>그록 음성명령</em> 9월 통합 예고",
@@ -157,32 +176,6 @@
       "hot": 5
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-17T23:43:21.000Z",
-      "title": "테슬라, <em>공장 밖 첫 공개 세미 메가차저</em> 캘리포니아에 개장 — 6스톨·1.2MW",
-      "hotShort": "테슬라 세미, <em>첫 공장 밖 메가차저</em> 개장",
-      "body": "테슬라가 LA에서 동쪽으로 약 50마일 떨어진 캘리포니아 블루밍턴에 <em>테슬라 공장이 아닌 부지로는 처음</em>인 공개 세미 메가차저를 개장했다 — 스톨 6개가 각각 최대 1.2MW를 공급해 세미 롱레인지(500마일)를 30분 만에 60%까지 충전할 수 있어, 롱비치·LA항에서 내륙으로 향하는 물류 거점에 상용 충전 인프라가 갖춰졌다.",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "product-tesla-semi-megacharger-bloomington-2026-07-17",
-      "summary": "테슬라가 이번 주 캘리포니아 블루밍턴(18434 Valley Blvd)에 새 세미 메가차저 부지를 열었다. 남부 캘리포니아에서 가장 분주한 화물 회랑 중 하나로 꼽히는 이 지역은 롱비치·LA항에서 내륙 물류센터로 화물이 이동하는 길목이다.\n\n이 부지는 충전 스톨 6개를 갖췄고, 각 스톨은 최대 1.2메가와트(MW) 출력을 낸다 — 세미 롱레인지(주행거리 500마일) 기준 30분 안에 배터리의 60%까지 채울 수 있는 속도다. 상용 슈퍼차저 V4 대비 월등히 높은 출력으로, 장거리 화물 운송에 필요한 빠른 재충전을 겨냥한 설계다.\n\n테슬라의 메가차저 부지가 실제 가동 중인 곳은 이번 블루밍턴과 메가팩 공장 인근 캘리포니아 래스롭(Lathrop) 두 곳뿐이다. 다만 래스롭은 메가팩 출하 물류 목적이 커, 제3자 세미 고객에게 완전히 개방된 부지로는 이번 블루밍턴이 <em>테슬라 공장이 아닌 곳 첫 사례</em>다. 테슬라의 지도에는 15개 주에 걸쳐 64곳의 추가 부지가 계획돼 있으며, 텍사스(19곳)·캘리포니아(17곳) 순으로 많다.\n\n테슬라 세미의 상업화는 충전 인프라 구축 속도에 달려 있다는 평가가 많다 — 공장 밖 첫 공개 메가차저 개장은 화물 운송업체들의 '충전 불안(range anxiety)'을 낮추는 신호로, 향후 세미 양산·판매 확대에 필요한 선행 조건이 하나씩 채워지고 있음을 보여준다.",
-      "title_en": "Tesla opens its <em>first public Megacharger not located at a factory</em> in California — 6 stalls, 1.2MW",
-      "hotShort_en": "Tesla opens <em>first off-factory Megacharger</em>",
-      "body_en": "Tesla opened a public Semi Megacharger site in Bloomington, California, about 50 miles east of Los Angeles — its <em>first not located at a Tesla factory</em> — with six stalls each delivering up to 1.2MW, enough to add 60% of a Semi Long Range's 500-mile range in 30 minutes, bringing dedicated charging infrastructure to a key freight corridor from the ports of Long Beach and LA.",
-      "summary_en": "Tesla opened a new Semi Megacharger site this week in Bloomington, California (18434 Valley Blvd), sitting along one of Southern California's busiest freight corridors, where cargo moves from the Ports of Long Beach and LA to inland distribution centers.\n\nThe site has six charging stalls, each capable of up to 1.2 megawatts (MW) of peak output — enough to add 60% of a Tesla Semi Long Range's 500-mile range in just 30 minutes. That's a significantly higher output than a Supercharger V4, built for the fast turnaround long-haul trucking needs.\n\nOnly two Megacharger sites are actually live today: this new Bloomington location and one near Tesla's Megapack factory in Lathrop, California. But Lathrop is largely used for shipping Megapacks, making Bloomington Tesla's <em>first Megacharger site not tied to one of its own factories</em> and fully open to third-party Semi customers. Tesla's map shows 64 more planned locations across 15 states, led by Texas (19) and California (17).\n\nSemi's path to commercialization is widely seen as gated by charging infrastructure buildout — opening its first off-factory public Megacharger is a signal to trucking fleets on range anxiety, checking off one more prerequisite for scaling Semi production and sales.",
-      "href": "https://insideevs.com/news/789433/tesla-first-megacharger-first-location/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "InsideEVs",
-        "Not a Tesla App",
-        "Clean Trucking"
-      ],
-      "sentiment": "bull",
-      "hot": 4
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "23h ago",
@@ -203,5 +196,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-07-20 15:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-21 00:11 KST 자동 갱신 · 최신순"
 }
