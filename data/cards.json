@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-21T13:39:48.000Z",
+      "title": "테슬라 로보택시, <em>올랜도·탬파 신규 진출</em> — 운영 도시 7곳으로 확대",
+      "hotShort": "로보택시 <em>올랜도·탬파 추가</em> — 7개 도시",
+      "body": "테슬라가 22일 2분기 실적발표를 하루 앞두고 플로리다 올랜도·탬파에 로보택시 서비스를 새로 개시해 운영 도시가 <em>7곳</em>(오스틴·베이에어리어·댈러스·휴스턴·마이애미·올랜도·탬파)으로 늘었다 — 밸류에이션의 핵심 축인 로보택시 확장 속도를 실적콜 직전 보여준 신호라 투자자들의 관심이 쏠린다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-orlando-tampa-expansion-2026-07-21",
+      "summary": "로이터·테슬라라티와 커뮤니티 큐레이터 닉 크루즈 파테인이 21일(현지시간) 일제히 테슬라 로보택시 서비스가 플로리다 올랜도·탬파로 확장됐다고 전했다. 이로써 로보택시(라이드헤일링 방식 포함) 운영 도시는 텍사스 오스틴·댈러스·휴스턴, 캘리포니아 베이에어리어, 플로리다 마이애미·올랜도·탬파까지 총 <em>7곳</em>으로 늘었다.\n\n파테인에 따르면 베이에어리어는 안전요원이 동승하는 라이드헤일링 방식으로 운영 중이라 완전 무인 로보택시와는 결이 다르다 — 반면 텍사스·플로리다 권역은 무인(driverless) 운행이 확대되는 축이다. 테슬라는 지난해 6월 오스틴에서 로보택시를 첫 출시한 뒤 올해 댈러스·휴스턴으로, 이달 초엔 마이애미로 서비스를 넓혀왔다.\n\n이번 확장은 22일 2분기 실적발표를 하루 앞두고 나왔다는 점에서 의미가 크다. 로보택시·옵티머스 등 '피지컬 AI' 사업은 뱅크오브아메리카 등 애널리스트들이 테슬라 전체 밸류에이션의 절반 이상을 부여할 만큼 핵심 성장동력으로 꼽히는데, 실제 서비스 지역이 꾸준히 넓어지고 있다는 사실은 투자자들이 실적콜에서 확인하고 싶어하는 진척 지표 중 하나다.\n\n다만 웨이모 등 라이다 기반 경쟁사와 달리 테슬라는 카메라·AI 소프트웨어만으로 자율주행을 구현하는 방식을 고수하고 있어, 신규 도시로 확장할 때마다 안전성 검증이 함께 주목받는다.",
+      "title_en": "Tesla Robotaxi <em>expands to Orlando, Tampa</em> — now live in 7 cities",
+      "hotShort_en": "Robotaxi <em>adds Orlando, Tampa</em> — 7 cities live",
+      "body_en": "One day before its July 22 Q2 earnings call, Tesla launched Robotaxi service in Orlando and Tampa, Florida, bringing the total to <em>seven cities</em> — Austin, the Bay Area, Dallas, Houston, Miami, Orlando and Tampa — a timely signal on the pace of the robotaxi rollout that underpins much of Tesla's valuation.",
+      "summary_en": "Reuters, Teslarati and community curator Nic Cruz Patane all reported on July 21 that Tesla's Robotaxi service had expanded to Orlando and Tampa, Florida. That brings the number of cities with Robotaxi (including ride-hailing-style) service to <em>seven</em>: Austin, Dallas and Houston in Texas, the Bay Area in California, and Miami, Orlando and Tampa in Florida.\n\nAccording to Patane, the Bay Area service still runs as ride-hailing with a human safety driver on board, distinct from the fully driverless Robotaxi operation elsewhere. Tesla launched Robotaxi in Austin last June, expanded to Dallas and Houston earlier this year, and added Miami just this month.\n\nThe timing matters: coming one day before the July 22 Q2 earnings call, the expansion is a data point investors will likely reference, since analysts including Bank of America have pegged Robotaxi as worth roughly half of Tesla's total valuation.\n\nUnlike lidar-based rivals such as Waymo, Tesla relies solely on cameras and AI software for autonomy, so safety scrutiny tends to follow each new city launch.",
+      "href": "https://www.reuters.com/business/autos-transportation/tesla-expands-robotaxi-service-orlando-tampa-ahead-earnings-2026-07-21/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "Teslarati",
+        "Nic Cruz Patane (X)"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "just now",
@@ -54,6 +80,26 @@
       "hot": 5
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-21T06:41:15.000Z",
+      "title": "테슬라, 모델3 <em>리스료 최대 15% 인상</em> — 석달 전 인하분 되돌려",
+      "hotShort": "모델3 리스료 <em>최대 15% 인상</em>",
+      "body": "테슬라가 미국에서 판매 중인 모델3 전 트림의 리스 월 납입금을 <em>5~15.2%</em> 인상했다 — 기본형 RWD는 $299에서 <em>$379</em>로, 지난 4월 큰 폭 인하했던 리스료를 석달 만에 되돌린 조치라 2분기 실적발표를 하루 앞둔 시점에서 수요·마진 전략 변화 신호로 읽힌다.",
+      "sourceName": "Sawyer Merritt (X)",
+      "sourceLabel": "press",
+      "slug": "product-model3-lease-price-hike-2026-07-21",
+      "summary": "테슬라 소식통 소여 메릿(Sawyer Merritt)이 X에 공개한 신규 가격표에 따르면, 21일부터 미국 모델3 리스 월 납입금이 트림별로 <em>5~15.2%</em> 인상됐다. 기본형 RWD는 $379(+15.2%), 프리미엄 RWD는 <em>$399</em>(+14.3%), 프리미엄 AWD는 <em>$479</em>(+6.7%)로 오르고, 퍼포먼스 트림도 <em>$629</em> 수준으로 함께 조정됐다.\n\n이번 인상은 테슬라가 지난 4월 모델3 리스료를 역대 최저 수준까지 낮췄던 조치를 석달 만에 되돌린 것이다 — 기본형 RWD 기준으로 보면 $299→$379로 약 <em>$80(27%)</em> 올라, 한 분기 안에 인하와 인상을 모두 겪은 셈이다.\n\n테슬라는 통상 수요·재고 상황에 맞춰 리스·구매 인센티브를 수시로 조정해왔다. 이번 인상 시점이 2분기 실적발표(22일) 하루 전이라는 점에서, 2분기 인도량 서프라이즈(48만126대, 컨센서스 40만6024대 상회)를 확인한 뒤 판매 인센티브를 다소 축소해 마진 방어에 나선 것 아니냐는 해석이 나온다.\n\n주주 입장에서 리스료 인상은 단기적으로 신규 계약 수요를 다소 둔화시킬 수 있지만, 인도량이 이미 목표를 웃돈 시점의 조정인 만큼 차량당 마진 개선 신호로도 해석될 여지가 있다.",
+      "title_en": "Tesla hikes <em>Model 3 lease prices up to 15%</em> — reversing April's cuts",
+      "hotShort_en": "Model 3 lease <em>up to 15% pricier</em>",
+      "body_en": "Tesla raised U.S. Model 3 lease payments across every trim by <em>5–15.2%</em>, with the base RWD trim climbing from $299 to <em>$379</em> a month — reversing April's steep lease cuts just three months later, one day before Tesla's Q2 earnings call, in what reads as a pricing/margin signal.",
+      "summary_en": "According to a new price list shared on X by Tesla tracker Sawyer Merritt, U.S. Model 3 lease payments rose <em>5–15.2%</em> across trims starting July 21: base RWD to <em>$379</em> (+15.2%), Premium RWD to <em>$399</em> (+14.3%), Premium AWD to <em>$479</em> (+6.7%), and Performance to roughly <em>$629</em>.\n\nThe hike reverses an April move that had cut Model 3 lease pricing to some of its lowest levels ever — on the base RWD trim alone, payments have swung from $299 to $379, a roughly <em>$80 (27%)</em> increase in just three months.\n\nTesla routinely adjusts lease and purchase incentives to match demand and inventory. Coming one day before the July 22 earnings call — and after Tesla already reported a Q2 delivery beat of 480,126 vehicles versus a 406,024 consensus — the timing suggests the company may be dialing back incentives to protect margin now that deliveries have cleared the bar.\n\nFor shareholders, pricier leases could cool near-term demand somewhat, but coming right after a delivery beat, the move can also be read as an early signal of per-vehicle margin improvement.",
+      "href": "https://x.com/SawyerMerritt/status/2079456653527712173",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
@@ -79,26 +125,6 @@
       "hot": 5
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-20T20:01:16.000Z",
-      "title": "Electrek 에디터, FSD 표준모드로 <em>78km/h 과속 딱지</em> — 되레 속도조절 기능은 삭제",
-      "hotShort": "FSD 표준모드서 <em>78km/h 과속</em> 딱지 발부",
-      "body": "Electrek 에디터가 FSD 표준(Standard) 모드로 주행하다 제한속도 50km/h 구간에서 <em>시속 78km/h까지 가속</em>해 경찰에게 과속 딱지를 받았다 — 테슬라가 작년 10월 FSD v14 출시 때 운전자가 직접 속도 여유치를 설정하던 기능을 없애고 5단계 프리셋으로 바꾼 게 화근이라, FSD 책임소재 논란에 다시 불을 지폈다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-speeding-ticket-removed-speed-offset-2026-07-20",
-      "summary": "Electrek 에디터가 최근 주말 FSD(완전자율주행) 표준모드로 주행하던 중 제한속도 <em>50km/h</em> 구간에서 차량이 <em>78km/h</em>까지 가속했고, 반대 방향에서 오던 경찰관에게 속도위반이 적발돼 딱지를 받았다고 밝혔다.\n\n문제의 발단은 작년 10월 FSD v14 출시 당시 테슬라가 단행한 변경이다. 그전까지는 운전자가 원하는 속도 여유치(예: 제한속도+15km/h)를 직접 설정할 수 있었지만, v14부터는 이 커스텀 설정이 사라지고 슬로스(Sloth)·칠(Chill)·스탠다드(Standard)·허리(Hurry)·매드맥스(Mad Max) 5단계 사전설정 프로필로 대체됐다.\n\n에디터는 평소 원하는 속도에 가장 가깝다고 느껴 스탠다드 모드를 주로 쓴다고 설명했다 — 과거처럼 여유치를 15km/h로 직접 낮춰 설정할 수 있었다면 해당 구간에서 차량이 약 65km/h 선에서 스스로 속도를 제한해 딱지를 피할 수 있었을 것이라는 게 그의 주장이다.\n\n이 사례는 사소한 해프닝처럼 보이지만, 테슬라 주주 입장에선 FSD의 과속·법규위반 시 책임 소재 논란과 직결된다. 22일 2분기 실적콜을 앞두고 로보택시·FSD 안전성에 대한 투자자 질의가 예상되는 가운데, 운전자 맞춤 안전장치를 없앤 결정이 오히려 위반 위험을 키웠다는 지적은 테슬라의 자율주행 로드맵에 또 다른 잡음거리가 될 수 있다.",
-      "title_en": "Electrek editor gets <em>speeding ticket in FSD Standard mode</em> — after Tesla killed the speed-offset setting",
-      "hotShort_en": "FSD Standard mode nets <em>78 km/h ticket</em>",
-      "body_en": "An Electrek editor got a speeding ticket while driving in FSD's Standard mode, which accelerated to <em>78 km/h in a 50 km/h zone</em> — the culprit, they say, is Tesla's October rollout of FSD v14, which replaced a customizable speed-offset setting with five preset profiles, reviving questions about who's responsible when FSD breaks the law.",
-      "summary_en": "An Electrek editor said they got a speeding ticket after their Tesla, driving itself in FSD's Standard mode, accelerated to <em>78 km/h</em> in a <em>50 km/h</em> zone — clocked by a police officer coming the other way.\n\nThe root cause traces back to Tesla's October rollout of FSD v14. Before that update, drivers could set their own speed offset above the posted limit (for example, +15 km/h); v14 removed that custom control and replaced it with five preset driving profiles: Sloth, Chill, Standard, Hurry, and Mad Max.\n\nThe editor said Standard mode is usually closest to their preferred speed, but noted that if they could still dial in a custom 15 km/h offset as before, the car would have capped itself around 65 km/h on that stretch of road and likely avoided the ticket.\n\nThe incident is a small one, but for Tesla shareholders it ties directly into the unresolved question of who bears liability when FSD violates traffic law. With Tesla's Q2 earnings call two days away and Robotaxi/FSD safety likely to come up, a decision that removed a driver-side safety control — arguably increasing violation risk — adds fresh noise to the autonomy roadmap.",
-      "href": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
-      "sentiment": "bear",
-      "hot": 5
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "just now",
@@ -117,31 +143,6 @@
       "href": "https://www.teslarati.com/tesla-reveals-first-model-starlink-integration/",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-20T16:04:41.000Z",
-      "title": "머스크 \"가짜뉴스\" — <em>스페이스X·폭스콘 $520억 엔비디아 GPU 딜</em> 루머 직접 부인",
-      "hotShort": "머스크, <em>$520억 엔비디아 GPU 딜</em> 루머 \"가짜뉴스\"",
-      "body": "대만 경제일보 발로 확산된 '스페이스X가 폭스콘을 통해 엔비디아 GB300 GPU 약 100만개를 $520억 규모로 발주했다'는 소문에 대해 일론 머스크가 X에서 직접 <em>\"이건 가짜뉴스\"</em>라고 부인했다 — 스페이스X·엔비디아·폭스콘 중 어느 쪽도 공식 확인하지 않은 미확인 보도였던 만큼, 대규모 AI 컴퓨팅 투자설이 나올 때마다 사실 검증이 필요함을 보여준 사례다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-nvidia-52b-gpu-deal-debunk-2026-07-20",
-      "summary": "지난 주말 대만 경제일보(Economic Daily)가 \"폭스콘이 스페이스X向 첫 AI 서버 제조 프로젝트를 수주했다\"고 보도하면서 소문이 커졌다 — 랙 1개당 400만달러씩 총 1만3000개 랙, 엔비디아 GB300 GPU 약 100만개, 총 <em>$520억</em> 규모라는 구체적 수치까지 X에서 빠르게 확산됐다.\n\n일론 머스크는 7월20일 X에서 <em>\"This is Fake News\"</em>(이건 가짜뉴스) 단 네 단어로 이를 직접 부인했다. 스페이스X·엔비디아·폭스콘 중 어느 회사도 이 거래를 공식적으로 확인하거나 언급한 적이 없는 상태였다.\n\n이런 루머가 빠르게 신빙성을 얻은 배경에는 최근 일론 머스크·xAI·스페이스X가 실제로 대규모 컴퓨팅 인프라 투자를 이어온 흐름이 있다 — 앞서 머스크는 xAI의 그록(Grok) 연산용 전력 확보를 위해 가스터빈 발전사 APR에너지를 10억달러에 조용히 인수했다고 보도된 바 있다.\n\n테슬라 주주 입장에선 직접적 영향은 제한적이지만, 스페이스X·xAI 관련 대형 계약설이 향후에도 계속 나올 가능성이 큰 만큼 머스크 계열사발 루머는 공식 확인 전까지 걸러 볼 필요가 있음을 보여준 사례다.",
-      "title_en": "Musk calls <em>$52B SpaceX-Foxconn Nvidia GPU deal</em> report \"fake news\"",
-      "hotShort_en": "Musk denies <em>$52B Nvidia GPU deal</em> rumor as \"fake news\"",
-      "body_en": "A rumor that spread from Taiwan's Economic Daily claiming SpaceX had ordered roughly a million Nvidia GB300 GPUs through Foxconn for about <em>$52 billion</em> was directly denied by Elon Musk on X, who called it <em>\"fake news\"</em> — with SpaceX, Nvidia and Foxconn all staying silent on the unconfirmed report, it's a reminder to fact-check big AI-infrastructure claims tied to Musk's companies before they take hold.",
-      "summary_en": "The rumor gained traction after Taiwan's Economic Daily reported over the weekend that Foxconn had won its first AI-server manufacturing project for SpaceX — with specifics circulating fast on X: 13,000 racks at roughly $4 million each, about a million Nvidia GB300 GPUs, and a total price tag of <em>$52 billion</em>.\n\nElon Musk shut it down on X on July 20 in four words: <em>\"This is Fake News.\"</em> None of SpaceX, Nvidia or Foxconn had officially confirmed or even commented on the purported deal.\n\nThe rumor spread quickly in part because Musk's companies have genuinely been ramping up large compute investments — xAI recently made headlines for quietly acquiring gas-turbine power producer APR Energy for $1 billion to help power its Grok AI models.\n\nFor Tesla shareholders, the direct impact is limited, but with more big SpaceX/xAI contract rumors likely ahead, this episode is a reminder to treat unconfirmed reports about Musk's other companies with caution until officially verified.",
-      "href": "https://www.teslarati.com/elon-musk-dispels-52-billion-spacex-nvidia-gpu-deal-fake-news/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "IBTimes UK"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     },
     {
       "category": "stock",
@@ -195,5 +196,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-07-21 19:35 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-21 19:50 KST 자동 갱신 · 최신순"
 }
