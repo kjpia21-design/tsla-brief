@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-21T02:00:00.000Z",
+      "title": "테슬라 2분기 실적 D-1 — 매출 컨센서스 $276억, 옵션시장은 <em>$5.5억 순매도</em> 베팅",
+      "hotShort": "테슬라 실적 D-1, 옵션시장 <em>$5.5억 순매도</em> 베팅",
+      "body": "내일(현지시간 22일) 2분기 실적발표(D-1)를 앞두고 월가 컨센서스는 매출 <em>$276억</em>(전년동기 $225억 대비 +22.6%)을 예상 — 옵션시장은 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영했는데, CNBC는 콜·풋 포지셔닝이 '평소보다 약간 약세 쪽으로 기운' 상태로 순매도 델타 노출이 약 <em>$5.5억</em> 규모라고 짚었다. 이미 서프라이즈 인도량(+25% YoY)을 소화한 시장이라 '컨센서스만 맞춰선 랠리가 어렵다'는 경계감이 커지는 분위기다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "2026년 2분기(4~6월) 실적발표가 하루 앞으로 다가온 가운데(현지시간 7월22일 장 마감 후), 월가 컨센서스가 구체적으로 잡혔다. 매출은 <em>$276억</em>으로 전년동기($225억) 대비 <em>22.6%</em> 늘어날 것으로 예상되며, 이는 이미 발표된 2분기 인도량 48만126대(컨센서스 40만6024대 상회, 전년비 +25%)의 서프라이즈를 반영한 수치다.\n\n뱅크오브아메리카는 17일 발표한 애널리스트 콜에서 테슬라 '매수' 의견과 목표주가 <em>$460</em>을 재확인했다 — 지난 11일 커버리지를 재개하며 밝힌 로보택시(전체 가치의 약 52%)·옵티머스(300억달러 이상 추가 upside)·에너지 사업($900억) 평가를 유지한 것이다.\n\n옵션시장은 실적 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영하고 있다. CNBC 옵션 애널리스트 마이크 카우는 콜·풋 포지셔닝이 '평소보다 약간 약세 쪽으로 기운' 상태이며, 이를 테슬라 주식 기준으로 환산하면 약 <em>$5.5억</em> 규모의 순매도(net short) 델타 노출에 해당한다고 짚었다. 인도량 서프라이즈(+25% YoY)를 이미 소화한 시장에선 '이번엔 컨센서스 부합만으로는 부족하다'는 경계감이 번지고 있다 — 리비안 신형 저가 SUV 'R2'發 마진 압박, 로보택시·옵티머스 등 비자동차 촉매에 크게 의존하는 밸류에이션도 부담 요인으로 함께 거론된다.\n\n이런 강세 신호에도 로보택시·옵티머스 관련 미달 목표에 대한 주주들의 해명 요구는 가라앉지 않고 있다. 일론 머스크가 2019년 예고한 '2020년 말까지 로보택시 100만대' 공약, 2024년 사이버캡 공개 행사에서 제시한 '2025년 텍사스·캘리포니아 무인 로보택시 상용화, 2026년 사이버캡 양산' 목표 모두 아직 검증대에 올라 있다. 모닝스타는 장기 목표주가(적정가치)를 $425→<em>$450</em>로 상향하며 '3성 등급·적정가치' 진단은 유지했다.\n\n모닝스타는 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다 — 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
+      "title_en": "Tesla Q2 earnings T-1 — Wall Street sees <em>$27.6B revenue</em>, options market's <em>$550M net-short bet</em>",
+      "hotShort_en": "Earnings T-1: options market's <em>$550M net-short bet</em>",
+      "body_en": "One day before Tesla's July 22 Q2 report, Wall Street consensus calls for <em>$27.6 billion</em> in revenue (up 22.6% from $22.5B a year ago) — options markets are pricing in a <em>7%</em> post-earnings swing, and CNBC notes call/put positioning has tilted slightly more bearish than usual, equating to roughly <em>$550 million</em> of net short delta exposure. With the delivery beat (+25% YoY) already priced in, simply meeting consensus may not be enough to spark a rally.",
+      "summary_en": "With Tesla's Q2 (April–June) earnings call one day away — after the close on July 22 ET — Wall Street's consensus has sharpened. Revenue is expected at <em>$27.6 billion</em>, up <em>22.6%</em> from $22.5 billion a year earlier, reflecting the surprise from Tesla's already-reported Q2 deliveries of 480,126 vehicles, well above the 406,024 consensus and up 25% year over year.\n\nBank of America reaffirmed its Buy rating and <em>$460</em> price target in a Friday, July 17 analyst-call roundup — maintaining the thesis it laid out on July 11 when it reinstated coverage, valuing Robotaxi at roughly 52% of Tesla's total worth, seeing over $30 billion of upside from Optimus, and pricing the energy business at about $90 billion.\n\nOptions markets are pricing in roughly a <em>7%</em> swing in Tesla shares immediately following the report. CNBC options analyst Mike Khouw said call and put positioning has tilted slightly more bearish than usual, translating into roughly <em>$550 million</em> of net short delta exposure in Tesla shares. With the delivery beat (+25% year over year) already digested by the market, there's growing wariness that simply meeting consensus won't be enough to spark a rally — margin pressure from Rivian's newly launched, more affordably priced R2, and Tesla's heavy reliance on non-auto catalysts like Robotaxi and Optimus for its valuation, are also cited as headwinds.\n\nDespite the bullish signals, shareholder demands over unmet Robotaxi and Optimus targets haven't let up. Elon Musk's 2019 promise of a million robotaxis by the end of 2020 never materialized, and the goals set at the October 2024 Cybercab unveiling — unsupervised Robotaxi in Texas and California in 2025, volume Cybercab production in 2026 — remain under scrutiny. Morningstar raised its long-term fair value estimate to <em>$450</em> from $425, keeping a 3-star \"fairly valued\" rating.\n\nMorningstar said free cash flow and management commentary on Robotaxi and Optimus will matter more than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
+      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Electrek",
+        "Barron's",
+        "Morningstar",
+        "CNBC"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-21T01:40:12.000Z",
+      "title": "일론 머스크, 스페이스X 공매도 세력에 <em>\"생존 확률 매우 낮다\"</em> 첫 경고",
+      "hotShort": "머스크, 스페이스X 숏 세력에 <em>\"생존 확률 낮다\"</em> 경고",
+      "body": "일론 머스크가 X에서 스페이스X에 대규모 숏 포지션을 유지하는 세력에 대해 <em>\"생존 확률은 매우 낮다\"</em>고 직접 경고했다 — 지난달 사상 최대 규모로 상장한 스페이스X 주가가 공모가 아래로 떨어지며 공매도 세력이 장부상 큰 이익을 낸 가운데, 테슬라 때처럼 머스크가 베어(약세론자)를 정면으로 겨냥한 발언이어서 주목된다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-short-seller-warning-2026-07-21",
+      "summary": "스페이스X는 지난 6월 역대 최대 규모 IPO로 상장했지만, 상장 한 달여 만에 주가가 공모가 아래로 떨어지면서 공매도 세력 사이 화제가 되고 있다.\n\n일론 머스크는 X에서 한 이용자의 댓글에 답하며 <em>\"The survival probability of firms who maintain a significant short position in SpaceX over time is very low\"</em>(스페이스X에 대규모 숏 포지션을 시간이 지나도 유지하는 기업들의 생존 확률은 매우 낮다)라고 적었다.\n\n현재 유통 가능한 약 6억4000만 주 가운데 약 30%가 공매도용으로 대여된 상태로, 상장 한 달여 만에 월가에서 가장 많이 숏 베팅이 몰린 종목 중 하나가 됐다. 이 기간 공매도 세력의 장부상 이익은 약 <em>$40억</em> 규모로 추정된다.\n\n테슬라 주주 입장에서 스페이스X 자체 주가보다 더 눈여겨볼 지점은, 테슬라-스페이스X 합병 가능성이 이미 시장에서 거론되는 변수라는 점이다 — 스페이스X 밸류에이션의 향방은 향후 합병 논의가 실제로 진행될 경우 테슬라 밸류에이션 논리에도 영향을 줄 수 있다.",
+      "title_en": "Elon Musk warns SpaceX short sellers: <em>\"survival probability is very low\"</em>",
+      "hotShort_en": "Musk warns SpaceX shorts: <em>\"survival is very low\"</em>",
+      "body_en": "Elon Musk warned on X that firms holding significant short positions in SpaceX have a <em>\"very low\"</em> survival probability — a month after SpaceX's record-breaking IPO, with the stock now trading below its offer price and short sellers sitting on sizable paper profits, the remark echoes Musk's long pattern of directly confronting bears, as he has often done with Tesla.",
+      "summary_en": "SpaceX went public in June in the largest IPO in history, but a little over a month later its stock has fallen below the offer price, drawing attention from short sellers.\n\nReplying to a user on X, Musk wrote: <em>\"The survival probability of firms who maintain a significant short position in SpaceX over time is very low.\"</em>\n\nAbout 30% of the roughly 640 million publicly tradable shares have been borrowed for short bets, making SpaceX one of Wall Street's most heavily shorted stocks barely a month after its debut. Short sellers are estimated to be sitting on roughly <em>$4 billion</em> in paper profits over that stretch.\n\nFor Tesla shareholders, the more relevant angle than SpaceX's share price itself is that a potential Tesla-SpaceX merger is already a variable the market is discussing — how SpaceX's valuation evolves could feed into Tesla's own valuation logic if merger talks ever advance.",
+      "href": "https://www.teslarati.com/elon-musk-sends-first-warning-spacex-spcx-short-sellers/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "IBTimes UK"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -39,33 +91,6 @@
       "href": "https://www.teslarati.com/tesla-reveals-first-model-starlink-integration/",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-20T17:15:04.000Z",
-      "title": "테슬라 2분기 실적 D-2 — 매출 컨센서스 $276억, 옵션시장은 <em>$5.5억 순매도</em> 베팅",
-      "hotShort": "테슬라 실적 D-2, 옵션시장 <em>$5.5억 순매도</em> 베팅",
-      "body": "22일 2분기 실적발표(D-2)를 앞두고 월가 컨센서스는 매출 <em>$276억</em>(전년동기 $225억 대비 +22.6%)을 예상 — 옵션시장은 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영했는데, CNBC는 콜·풋 포지셔닝이 '평소보다 약간 약세 쪽으로 기운' 상태로 순매도 델타 노출이 약 <em>$5.5억</em> 규모라고 짚었다. 이미 서프라이즈 인도량(+25% YoY)을 소화한 시장이라 '컨센서스만 맞춰선 랠리가 어렵다'는 경계감이 커지는 분위기다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
-      "summary": "2026년 2분기(4~6월) 실적발표가 이틀 앞으로 다가온 가운데(현지시간 7월22일 장 마감 후), 월가 컨센서스가 구체적으로 잡혔다. 매출은 <em>$276억</em>으로 전년동기($225억) 대비 <em>22.6%</em> 늘어날 것으로 예상되며, 이는 이미 발표된 2분기 인도량 48만126대(컨센서스 40만6024대 상회, 전년비 +25%)의 서프라이즈를 반영한 수치다.\n\n뱅크오브아메리카는 17일 발표한 애널리스트 콜에서 테슬라 '매수' 의견과 목표주가 <em>$460</em>을 재확인했다 — 지난 11일 커버리지를 재개하며 밝힌 로보택시(전체 가치의 약 52%)·옵티머스(300억달러 이상 추가 upside)·에너지 사업($900억) 평가를 유지한 것이다.\n\n옵션시장은 실적 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영하고 있다. CNBC 옵션 애널리스트 마이크 카우는 콜·풋 포지셔닝이 '평소보다 약간 약세 쪽으로 기운' 상태이며, 이를 테슬라 주식 기준으로 환산하면 약 <em>$5.5억</em> 규모의 순매도(net short) 델타 노출에 해당한다고 짚었다. 인도량 서프라이즈(+25% YoY)를 이미 소화한 시장에선 '이번엔 컨센서스 부합만으로는 부족하다'는 경계감이 번지고 있다 — 리비안 신형 저가 SUV 'R2'發 마진 압박, 로보택시·옵티머스 등 비자동차 촉매에 크게 의존하는 밸류에이션도 부담 요인으로 함께 거론된다.\n\n이런 강세 신호에도 로보택시·옵티머스 관련 미달 목표에 대한 주주들의 해명 요구는 가라앉지 않고 있다. 일론 머스크가 2019년 예고한 '2020년 말까지 로보택시 100만대' 공약, 2024년 사이버캡 공개 행사에서 제시한 '2025년 텍사스·캘리포니아 무인 로보택시 상용화, 2026년 사이버캡 양산' 목표 모두 아직 검증대에 올라 있다. 모닝스타는 장기 목표주가(적정가치)를 $425→<em>$450</em>로 상향하며 '3성 등급·적정가치' 진단은 유지했다.\n\n모닝스타는 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다 — 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
-      "title_en": "Tesla Q2 earnings T-2 — Wall Street sees <em>$27.6B revenue</em>, options market's <em>$550M net-short bet</em>",
-      "hotShort_en": "Earnings T-2: options market's <em>$550M net-short bet</em>",
-      "body_en": "Two days before Tesla's July 22 Q2 report, Wall Street consensus calls for <em>$27.6 billion</em> in revenue (up 22.6% from $22.5B a year ago) — options markets are pricing in a <em>7%</em> post-earnings swing, and CNBC notes call/put positioning has tilted slightly more bearish than usual, equating to roughly <em>$550 million</em> of net short delta exposure. With the delivery beat (+25% YoY) already priced in, simply meeting consensus may not be enough to spark a rally.",
-      "summary_en": "With Tesla's Q2 (April–June) earnings call two days away — after the close on July 22 ET — Wall Street's consensus has sharpened. Revenue is expected at <em>$27.6 billion</em>, up <em>22.6%</em> from $22.5 billion a year earlier, reflecting the surprise from Tesla's already-reported Q2 deliveries of 480,126 vehicles, well above the 406,024 consensus and up 25% year over year.\n\nBank of America reaffirmed its Buy rating and <em>$460</em> price target in a Friday, July 17 analyst-call roundup — maintaining the thesis it laid out on July 11 when it reinstated coverage, valuing Robotaxi at roughly 52% of Tesla's total worth, seeing over $30 billion of upside from Optimus, and pricing the energy business at about $90 billion.\n\nOptions markets are pricing in roughly a <em>7%</em> swing in Tesla shares immediately following the report. CNBC options analyst Mike Khouw said call and put positioning has tilted slightly more bearish than usual, translating into roughly <em>$550 million</em> of net short delta exposure in Tesla shares. With the delivery beat (+25% year over year) already digested by the market, there's growing wariness that simply meeting consensus won't be enough to spark a rally — margin pressure from Rivian's newly launched, more affordably priced R2, and Tesla's heavy reliance on non-auto catalysts like Robotaxi and Optimus for its valuation, are also cited as headwinds.\n\nDespite the bullish signals, shareholder demands over unmet Robotaxi and Optimus targets haven't let up. Elon Musk's 2019 promise of a million robotaxis by the end of 2020 never materialized, and the goals set at the October 2024 Cybercab unveiling — unsupervised Robotaxi in Texas and California in 2025, volume Cybercab production in 2026 — remain under scrutiny. Morningstar raised its long-term fair value estimate to <em>$450</em> from $425, keeping a 3-star \"fairly valued\" rating.\n\nMorningstar said free cash flow and management commentary on Robotaxi and Optimus will matter more than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
-      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Electrek",
-        "Barron's",
-        "Morningstar",
-        "CNBC"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     },
     {
       "category": "musk",
@@ -2366,32 +2391,7 @@
       "href": "https://electrek.co/2026/07/06/tesla-cybercab-production-before-autonomy/",
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-06T17:24:04.000Z",
-      "title": "테슬라, 기가베를린 배터리셀 라인에 <em>유럽 스타트업 기술</em> 공모",
-      "hotShort": "기가베를린 배터리셀 라인에 <em>스타트업 기술 공모</em> 개방",
-      "body": "테슬라가 독일 기가베를린(그륀하이데) 4680 배터리셀 라인의 소재·장비·운영·자동화·AI 기술을 유럽 스타트업 대상 공모 '셀 기가 챌린지'로 모집(7월 24일 마감) — 5월 발표한 연산 8→18GWh 증설 목표를 사내 기술만으로 채우기 어렵다는 신호로 읽힌다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-giga-berlin-cell-giga-challenge-2026-07-06",
-      "summary": "지난 5월 12일 그륀하이데 공장장 안드레 티리히는 $2.5억 규모 추가 투자로 이 공장의 연간 4680 배터리셀 생산능력을 기존 8GWh에서 18GWh로 두 배 이상 늘리겠다고 밝힌 바 있다. 이번 '셀 기가 챌린지' 공모는 그 목표를 달성하기 위한 후속 조치로 나왔다.\n\n공모는 스타트업 매칭 플랫폼 JUNI와 함께 진행되며, 접수 기한은 7월 24일이다. 대상 분야는 소재·장비·운영·자동화·인공지능(AI) 5개로, 셀 제조 공정을 더 빠르고 저렴하고 안전하며 대규모로 확장 가능하게 만들 기술을 찾는다.\n\n선정 절차는 그륀하이데 셀 제조팀이 지원서를 직접 심사하고, 유망한 제안은 기술 미팅과 테슬라 관계자 앞 피치데이를 거쳐 유료 파일럿 프로젝트로 이어질 수 있다.\n\n외부 스타트업에 문을 연다는 것은 공격적인 증설 목표를 사내 기술만으로는 채우기 어렵다는 뜻으로 해석될 수 있다. 배터리셀 증산은 차량뿐 아니라 파워월·메가팩 등 에너지 저장 사업의 공급 능력과도 직결돼 주주가 지켜볼 만한 대목이다.",
-      "title_en": "Tesla opens Giga Berlin battery-cell line to <em>outside European startups</em>",
-      "hotShort_en": "Giga Berlin battery line opens to <em>outside startups</em>",
-      "body_en": "Tesla is soliciting European startups for materials, equipment, operations, automation and AI tech at its Giga Berlin (Grünheide) 4680 cell line through the 'Cell Giga Challenge' (applications due July 24) — a sign that hitting the 8-to-18-GWh capacity target it set in May may require technology Tesla doesn't have in-house.",
-      "summary_en": "On May 12, Grünheide plant manager André Thierig announced a $250 million additional investment to more than double the plant's annual 4680 cell production capacity, from 8 GWh to 18 GWh. The Cell Giga Challenge follows up on that goal.\n\nRun with startup-matching platform JUNI, the challenge has an application deadline of July 24 and is open across five categories — materials, equipment, operations, automation and AI — targeting technology that can make cell manufacturing faster, cheaper, safer and more scalable.\n\nApplications are screened directly by Tesla's Grünheide cell manufacturing team, with the strongest submissions moving through technical discussions and a pitch day in front of Tesla stakeholders, potentially leading to a paid pilot project.\n\nOpening the door to outside startups suggests Tesla's in-house technology alone may not be enough to hit its aggressive capacity target. Cell output scale-up matters beyond vehicles too, feeding directly into supply for the energy storage business — Powerwall and Megapack.",
-      "href": "https://www.teslarati.com/tesla-battery-challenge/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "TeslaNorth"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-21 05:35 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-21 10:45 KST 자동 갱신 · 최신순"
 }
