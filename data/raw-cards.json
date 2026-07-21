@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-07-21 21:15 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-21 21:43 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "38m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-21T20:37:53.000Z",
       "title": "NHTSA targets Tesla’s ‘Radar Saves Us’ document in FSD crash probe",
       "body": "NHTSA is now demanding a Tesla internal document titled “Radar Saves Us” as part of its investigation into “Full Self-Driving” crashes in low-visibility conditions. The request is buried in a new 24-part information dema…",
@@ -17,7 +17,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "52m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-21T20:24:00.000Z",
       "title": "SpaceX, Micron, Western Digital, Sandisk, Danaher, and More Stocks That Explain Today’s Market",
       "body": "SpaceX, Micron, Western Digital, Sandisk, Danaher, and More Stocks That Explain Today’s Market Barron's",
@@ -30,7 +30,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "57m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-21T20:18:32.000Z",
       "title": "Tesla expands ridesharing service in California to new hotspot",
       "body": "Tesla expands ridesharing service in California to new hotspot Teslarati",
@@ -43,7 +43,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-07-21T20:05:29.000Z",
       "title": "Tesla options traders bet on nearly 6% implied move post-earnings",
       "body": "Tesla options traders bet on nearly 6% implied move post-earnings CNBC",
@@ -78,19 +78,6 @@
       "slug": "",
       "summary": "",
       "href": "https://electrek.co/2026/07/21/tesla-tsla-q2-2026-earnings-preview/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-07-21T18:37:34.000Z",
-      "title": "Tesla’s reason for Starlink integration on Cybercab might surprise you",
-      "body": "Tesla’s reason for Starlink integration on Cybercab might surprise you Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/teslas-reason-for-starlink-integration-on-cybercab-might-surprise-you/"
     },
     {
       "category": "stock",
@@ -158,6 +145,19 @@
       "href": "https://www.reuters.com/business/autos-transportation/tesla-cash-burn-test-investor-faith-ai-bets-2026-07-21/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-07-21T17:39:29.000Z",
+      "title": "Tesla’s reason for Starlink integration on Cybercab might surprise you",
+      "body": "Tesla’s reason for Starlink integration on Cybercab might surprise you Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/teslas-reason-for-starlink-integration-on-cybercab-might-surprise-you/"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "6h ago",
@@ -173,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-21T14:55:05.000Z",
       "title": "SpaceX Set to Unlock $116 Billion in Shares After IPO Restrictions Lift",
       "body": "SpaceX Set to Unlock $116 Billion in Shares After IPO Restrictions Lift Bloomberg.com",
@@ -186,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-21T14:46:29.000Z",
       "title": "Elon Musk",
       "body": "Elon Musk CNBC",
@@ -199,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-21T14:10:49.000Z",
       "title": "SpaceX snaps 7-day losing streak, sets earnings date that triggers first big share unlock",
       "body": "SpaceX snaps 7-day losing streak, sets earnings date that triggers first big share unlock CNBC",
@@ -225,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-21T11:53:20.000Z",
       "title": "$TSLA 테슬라 코리아, Model Y L 전용 아울렛 어댑터 판매 중",
       "body": "$TSLA 테슬라 코리아, Model Y L 전용 아울렛 어댑터 판매 중 https://t.co/4mI8i3jdvq",
