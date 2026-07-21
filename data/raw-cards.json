@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-07-21 03:20 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-21 06:34 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-21T01:40:12.000Z",
+      "time": "5h ago",
+      "pubDate": "2026-07-21T01:53:10.000Z",
       "title": "Elon Musk sends first warning to SpaceX short sellers",
       "body": "Elon Musk sends first warning to SpaceX short sellers Teslarati",
       "sourceName": "Teslarati",
@@ -17,7 +17,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-21T00:25:21.000Z",
       "title": "Tesla puts Starlink antenna in Cybercab",
       "body": "Tesla and Starlink say SpaceX’s satellite internet is now “directly integrated” into the Cybercab, Tesla’s dedicated robotaxi. The reveal came through a pair of posts on X on Monday, with a cutaway diagram showing a Star…",
@@ -30,8 +30,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-20T21:44:57.000Z",
+      "time": "8h ago",
+      "pubDate": "2026-07-20T22:59:30.000Z",
       "title": "Tesla reveals first vehicle model to receive Starlink integration",
       "body": "Tesla reveals first vehicle model to receive Starlink integration Teslarati",
       "sourceName": "Teslarati",
@@ -41,9 +41,48 @@
       "href": "https://www.teslarati.com/tesla-reveals-first-model-starlink-integration/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "8h ago",
+      "pubDate": "2026-07-20T22:55:03.000Z",
+      "title": "Tesla Diner is throwing a birthday party with a Franz-signed special treat",
+      "body": "Tesla Diner is throwing a birthday party with a Franz-signed special treat Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-diner-birthday-july-21/"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "8h ago",
+      "pubDate": "2026-07-20T22:55:03.000Z",
+      "title": "Tesla Diner is throwing a birthday party with a Franz-signed special treat",
+      "body": "Tesla Diner is throwing a birthday party with a Franz-signed special treat Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-diner-birthday-july-21/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "9h ago",
+      "pubDate": "2026-07-20T21:59:16.000Z",
+      "title": "Elon Musk debunks $52 billion SpaceX-NVIDIA GPU deal",
+      "body": "Elon Musk debunks $52 billion SpaceX-NVIDIA GPU deal Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/elon-musk-dispels-52-billion-spacex-nvidia-gpu-deal-fake-news/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10h ago",
       "pubDate": "2026-07-20T20:42:00.000Z",
       "title": "Musk Says Teslas Will Remember How You Drive. Why That Matters for the Stock.",
       "body": "Musk Says Teslas Will Remember How You Drive. Why That Matters for the Stock. Barron's",
@@ -56,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-20T20:01:16.000Z",
       "title": "Tesla ‘Full Self-Driving’ got me a speeding ticket, and Tesla killed the fix",
       "body": "I got a speeding ticket this weekend while using Tesla’s Full Self-Driving. The car was driving itself in Standard mode on FSD when it took me up to 78 km/h in a 50 km/h zone. A police officer coming the other way clocke…",
@@ -69,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-20T19:24:57.000Z",
       "title": "Tesla reveals first vehicle model to receive Starlink integration",
       "body": "Tesla has evidently revealed which of its vehicle models will be the first to receive Starlink integration: the Cybercab. Tesla’s Santana Row showroom now has a full-fledged display of the Cybercab, with an extensive bit…",
@@ -82,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-20T17:15:04.000Z",
       "title": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize",
       "body": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize CNBC",
@@ -93,48 +132,9 @@
       "href": "https://www.cnbc.com/2026/07/20/the-bar-for-tesla-earnings-is-sky-high-heres-why-and-how-options-traders-can-capitalize.html"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
-      "pubDate": "2026-07-20T17:06:28.000Z",
-      "title": "Elon Musk sheds details on Tesla FSD’s upcoming improvements",
-      "body": "Elon Musk sheds details on Tesla FSD’s upcoming improvements Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/elon-musk-sheds-details-tesla-fsd-upcoming-improvements/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-07-20T16:04:34.000Z",
-      "title": "Tesla Diner is throwing a birthday party with a Franz-signed special treat",
-      "body": "Tesla Diner is throwing a birthday party with a Franz-signed special treat Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-diner-birthday-july-21/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-07-20T16:03:59.000Z",
-      "title": "SpaceX adjusts Starship Flight 13 test launch target date once again",
-      "body": "SpaceX has updated its target for the thirteenth integrated flight test of Starship, aiming for as early as Thursday, July 23. The 90-minute launch window opens at 5:45 p.m. CT from the company’s Starbase facility in Sou…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/spacex-adjusts-starship-flight-13-test-launch-target-date-once-again/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-20T14:16:24.000Z",
       "title": "Ford's smaller EV pickup truck spotted charging at Tesla Supercharger for the first time. It'll come with a native NA…",
       "body": "Ford's smaller EV pickup truck spotted charging at Tesla Supercharger for the first time. It'll come with a native NACS charging port and an LFP battery. Ford is aiming for it to have a starting price of ~$30k and launch…",
@@ -147,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "15h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-20T12:06:57.000Z",
       "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Yeti, Harley-Davidson, Broadcom & more",
       "body": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Yeti, Harley-Davidson, Broadcom & more CNBC",
@@ -160,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-20T11:45:00.000Z",
       "title": "Your Tesla Will Remember How You Drive",
       "body": "Your Tesla Will Remember How You Drive Barron's",
@@ -169,45 +169,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-self-driving-88158499?mod"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
-      "pubDate": "2026-07-20T11:28:52.000Z",
-      "title": "The Optimus factory at Giga Texas is growing faster, now 10 column grids wide (~400 to 450 feet in length, N-S or ~13…",
-      "body": "The Optimus factory at Giga Texas is growing faster, now 10 column grids wide (~400 to 450 feet in length, N-S or ~130 to 140 m) and growing to the N and S every day. On the S end, land reclamation work continues too, wi…",
-      "sourceName": "Joe Tegtmeyer (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/JoeTegtmeyer/status/2079166648096018849"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-07-20T10:39:52.000Z",
-      "title": "$TSLA 🇰🇷 테슬라 코리아, 'Model Y L 프리미엄 AWD' 신규 인증 *전륜 모터 출력 +41 ps 증가, 상온/저온 주행거리 모두 개선 [인증 데이터상 변화 내역] • Premium AWD가 추…",
-      "body": "$TSLA 🇰🇷 테슬라 코리아, 'Model Y L 프리미엄 AWD' 신규 인증 *전륜 모터 출력 +41 ps 증가, 상온/저온 주행거리 모두 개선 [인증 데이터상 변화 내역] • Premium AWD가 추가됨 • 전륜 모터 출력: 215ps → 256ps • 주행거리 개선 • 인증 날짜: 2026년 1월 -&gt; 7월 (최신) https://t.co/LUVUOQpTeB",
-      "sourceName": "Tesla Chan (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/Tslachan/status/2079154315860770988"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
-      "pubDate": "2026-07-20T07:13:12.000Z",
-      "title": "Fitting a bike into the Tesla Model S",
-      "body": "Fitting a bike into the Tesla Model S Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/fitting-bike-tesla-model-s/"
     },
     {
       "category": "stock",
@@ -260,6 +221,45 @@
       "slug": "",
       "summary": "",
       "href": "https://www.ft.com/content/5a8dc7cd-35c8-4aeb-8f09-1df8afb2cf2e?syn-25a6b1a6"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4d ago",
+      "pubDate": "2026-07-16T20:08:28.000Z",
+      "title": "US agency denies Tesla petition to avoid recall fix over headlight issue",
+      "body": "US agency denies Tesla petition to avoid recall fix over headlight issue Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/us-agency-denies-tesla-petition-avoid-recall-fix-over-headlight-issue-2026-07-16/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5d ago",
+      "pubDate": "2026-07-16T16:13:29.000Z",
+      "title": "Legal heavyweights square off in $243 million Tesla crash appeal",
+      "body": "Legal heavyweights square off in $243 million Tesla crash appeal Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/legal-heavyweights-square-off-in-243-million-tesla-crash-appeal-2026-07-16/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5d ago",
+      "pubDate": "2026-07-15T22:21:37.000Z",
+      "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says",
+      "body": "Tesla driver accelerated into house in fatal Texas crash, NTSB says Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/tesla-driver-accelerated-into-house-fatal-texas-crash-ntsb-says-2026-07-15/"
     }
   ]
 }
