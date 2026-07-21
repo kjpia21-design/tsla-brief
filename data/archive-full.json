@@ -1,6 +1,56 @@
 {
-  "asOf": "2026-07-21 17:26 UTC · 누적 648건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-21 19:39 UTC · 누적 650건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-21T15:34:43.000Z",
+      "title": "테슬라 2026 서머 업데이트 공개 — <em>그록 전화·음악·공조 음성제어</em> 확대",
+      "hotShort": "서머 업데이트 — 그록 <em>전화·음악·공조</em> 지원",
+      "body": "테슬라가 X에 2026 서머 업데이트 릴리즈노트를 공개했다 — 그록이 전화 걸기·음악 검색·공조 조절까지 맡고 카레오케엔 <em>채점 기능</em>이 추가되는 등, 22일 실적콜을 앞두고 반복되는 무료 OTA 업데이트로 소프트웨어 경험 차별화를 이어가는 모습이다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-summer-update-grok-caraoke-nav-2026-07-21",
+      "summary": "테슬라는 21일 X 공식 계정을 통해 2026 서머 업데이트의 전체 릴리즈노트를 공개했다. 지난 봄 업데이트에서 도입된 음성 비서 '헤이 그록(Hey Grok)'이 이번 업데이트로 기능 범위를 크게 넓힌 것이 핵심이다.\n\n그록은 기존 내비게이션 안내에 더해 이제 전화 걸기, 음악 검색·재생, 공조(에어컨·히터) 조절, 글러브박스 개폐, 차량 관련 질문 응답까지 음성 명령으로 처리한다. 운전 중 터치스크린 조작을 줄여 안전성과 편의성을 동시에 높이려는 시도로 풀이된다.\n\n엔터테인먼트 기능인 카레오케(Caraoke)에는 <em>채점 기능</em>이 새로 추가돼 노래 실력을 점수로 매기고 운전자 프로필에 최고 점수를 저장한다. 내비게이션도 '자동 내비게이션'이 집·직장·캘린더 일정뿐 아니라 등하교·헬스장처럼 반복되는 목적지까지 스스로 학습해 경로를 제안하고, 과거에 주행했던 경로를 우선 추천하도록 개선됐다.\n\n이 밖에 모바일 앱 기능 강화, 차량 랩(스킨) 커스터마이징, 자녀 보호 기능 개선 등도 함께 포함됐다. 22일 2분기 실적발표를 하루 앞두고 나온 이번 업데이트는, 신차 판매 둔화 우려 속에서도 기존 차량에 지속적으로 새 가치를 얹는 소프트웨어 반복 개선 능력을 보여주는 사례로 투자자들이 참고할 만하다.",
+      "title_en": "Tesla unveils 2026 Summer Update — <em>Grok now handles calls, music and climate</em>",
+      "hotShort_en": "Summer Update: Grok now <em>makes calls</em>",
+      "body_en": "Tesla published the full release notes for its 2026 Summer Update on X — Grok can now make phone calls, search and play music, and adjust the climate, while Caraoke gains a new <em>scoring feature</em>, the latest in a string of free OTA updates arriving one day before Tuesday's Q2 earnings call.",
+      "summary_en": "Tesla posted the complete release notes for its 2026 Summer Update on its official X account on July 21. The headline change is a major expansion of Hey Grok, the voice assistant introduced in the Spring Update.\n\nBeyond navigation guidance, Grok can now place phone calls, search for and play music, adjust the climate control, open the glovebox, and answer questions about the car — all by voice, cutting down on touchscreen interaction while driving.\n\nCaraoke, Tesla's in-car karaoke feature, now includes a <em>scoring system</em> that grades a driver's performance and saves high scores to their profile. Automatic Navigation was also upgraded to learn recurring destinations — like a school drop-off or the gym — beyond just home, work and calendar events, and now favors routes drivers have taken before.\n\nThe update also bundles mobile app improvements, custom vehicle wrap options, and enhanced parental controls. Landing one day before Tesla's July 22 Q2 earnings call, it's a reminder — amid concerns about slowing new-vehicle demand — of Tesla's ability to keep adding value to existing cars through software.",
+      "href": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-21T14:10:49.000Z",
+      "title": "스페이스X, 8월4일 첫 실적발표 확정 — <em>최대 $1160억 락업 해제</em> 촉발",
+      "hotShort": "스페이스X 8/4 실적 확정, <em>대규모 락업 해제</em>",
+      "body": "스페이스X가 상장 후 첫 분기 실적발표일을 <em>8월4일</em>로 확정하면서, 발표 이틀 뒤부터 내부자 보유주식 최대 20%(최대 9억1150만주)의 락업이 풀린다 — 공모가를 밑도는 주가 흐름 속에 대규모 매물 우려가 커지는 가운데, 테슬라와의 합병 논의 변수로도 거론되는 스페이스X 밸류에이션에 이목이 쏠린다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-earnings-date-lockup-expiration-2026-07-21",
+      "summary": "CNBC에 따르면 스페이스X는 상장 이후 첫 분기 실적을 <em>8월4일</em> 장마감 후 발표한다고 확정했다. 상장 당시 계약된 락업 조항에 따라, 이 실적발표가 첫 번째 '트리거 이벤트'가 돼 이틀 뒤인 8월6일부터 내부자들이 제한주식 매도를 시작할 수 있게 된다.\n\n블룸버그는 이번 물량을 '대해빙(the Great Unlocking)'이라 표현하며 최대 <em>$1160억</em> 규모라고 추산했다(최대 20%, 최대 9억1150만주 기준 — 매체별 산정 시점 주가 차이로 다른 매체는 $1090억대로도 추산). 이후에도 상장 후 70·90·105·120·135일 시점에 각각 지분 <em>7%</em>씩 추가로 풀리고, 3분기 실적 발표 시 <em>28%</em>가, 상장 180일째인 12월8일에 잔여 물량 전량이 해제되는 단계적 스케줄이다.\n\n다만 일론 머스크 본인이 보유한 64억 주는 이번 해제 대상이 아니다 — 머스크 지분은 2027년 6월12일까지 별도로 묶여 있다.\n\n스페이스X는 지난 6월 사상 최대 규모로 상장했지만 한 달여 만에 주가가 공모가 아래로 떨어졌고, 대규모 숏 포지션까지 몰린 상태다. 테슬라 주주 입장에서는 이번 락업 해제로 인한 매물 압력이 스페이스X 주가 변동성을 키울 경우, 시장에서 거론돼 온 테슬라-스페이스X 합병 논의의 밸류에이션 셈법에도 영향을 줄 수 있어 주시할 필요가 있다.",
+      "title_en": "SpaceX sets <em>Aug. 4 earnings date</em>, triggering up to $116B lock-up release",
+      "hotShort_en": "SpaceX earnings Aug 4 triggers <em>lock-up release</em>",
+      "body_en": "SpaceX confirmed its first post-IPO quarterly earnings date for <em>August 4</em>, which triggers the lock-up expiration allowing insiders to sell up to 20% of restricted shares — as many as 911.5 million shares — starting two days later, drawing fresh attention to SpaceX's valuation just as it keeps coming up as a variable in Tesla merger speculation.",
+      "summary_en": "According to CNBC, SpaceX confirmed it will report its first quarterly earnings as a public company after the close on <em>August 4</em>. Under the terms of its IPO lock-up agreement, the earnings report is the first \"trigger event,\" opening a window two days later, on August 6, for insiders to begin selling restricted shares.\n\nBloomberg dubbed the coming share release \"the Great Unlocking,\" estimating it at up to <em>$116 billion</em> (based on up to 20%, or 911.5 million shares — other outlets put the figure closer to $109 billion depending on the share price used at calculation time). Additional tranches of <em>7%</em> each unlock at 70, 90, 105, 120 and 135 days after the IPO, another <em>28%</em> unlocks at the Q3 earnings report, and the remainder becomes freely tradable when the 180-day lock-up expires on December 8.\n\nElon Musk's own 6.4 billion shares are not part of this release — his stake remains locked separately until June 12, 2027.\n\nSpaceX went public in June in the largest IPO ever, but its stock has since fallen below the offer price and drawn heavy short interest. For Tesla shareholders, if the lock-up release adds selling pressure and volatility to SpaceX shares, it could feed into the valuation math behind the Tesla-SpaceX merger speculation that's already circulating in the market.",
+      "href": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "Bloomberg"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
