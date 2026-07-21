@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-21T20:37:53.000Z",
+      "title": "NHTSA, 테슬라 저시계 FSD 조사서 <em>'레이더가 우리를 구한다'</em> 내부문서 요구 — 레이더 제거 결정 정조준",
+      "hotShort": "NHTSA, FSD 조사 중 <em>레이더 제거 문서</em> 요구",
+      "body": "NHTSA가 저시계(안개·역광·먼지) 상황 FSD 사고를 조사하는 '엔지니어링 분석'(리콜 여부를 가르는 최종 단계)의 일환으로, 테슬라가 레이더를 없앤 결정과 관련된 내부문서 '레이더가 우리를 구한다(Radar Saves Us)'를 24개 항목 정보요구서로 제출받았다 — <em>320만대·9건 사고(사망 1건 포함)</em>를 다루는 이 조사가 레이더 제거 결정 자체를 정조준하기 시작했다는 신호다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-nhtsa-radar-saves-us-document-2026-07-21",
+      "summary": "Electrek 보도에 따르면 NHTSA는 지난 <em>7월2일</em> 테슬라에 24개 항목으로 구성된 정보요구서를 보냈고, 그중 하나가 '레이더가 우리를 구한다(Radar Saves Us)'는 제목의 내부문서다. 이 문서명은 이전 조사 단계에서 테슬라가 비공개로 NHTSA에 제출했던 것으로, 이번 서한을 통해 처음 외부에 알려졌다.\n\nNHTSA는 이 문서가 \"열화 감지 시스템 설계 변경과, 비전 전용 OEDR(주행환경감지) 시스템의 한계에 대한 테슬라의 이해와 특히 관련이 있어 보인다\"고 설명했다. 카메라만으로 도로 상황을 인식하는 테슬라 방식이 안개·역광·먼지 등으로 시야가 저하될 때 실제로 어디까지 대응 가능한지, 그리고 레이더를 왜 뺐는지를 정면으로 겨냥한 요구다.\n\n이번 조사는 미국에서 FSD를 실행한 적 있는 약 <em>320만대</em>를 대상으로, 저시계 상황에서 FSD가 작동 중이던 <em>9건</em>의 사고(사망 1건·부상 1건 포함)를 다룬다. 사고 상황은 한결같이 햇빛 눈부심·안개·비산 먼지 등으로 카메라 인식이 저하된 조건이었다.\n\n조사 단계 자체는 이미 '엔지니어링 분석(Engineering Analysis)'로, NHTSA가 사건을 종결하거나 리콜을 추진하기 직전의 마지막 절차다. 정보요구서는 테슬라와 일론 머스크의 마케팅 발언들이 \"실제 시스템의 능력보다 과장된 수준의 자율성을 암시하는지\" 확인해달라는 요구도 포함하고 있어, 광고 문구까지 조사 대상에 올랐다.\n\n22일 2분기 실적발표를 하루 앞두고 나온 이 소식은, 로보택시·FSD를 핵심 성장동력으로 내세우는 테슬라에 규제 리스크가 여전히 살아있음을 보여준다 — 리콜로 이어지면 소프트웨어 무상 업데이트로 그칠 수도 있지만, 비전온리 전략 자체의 정당성을 둘러싼 논쟁이 격화될 소지가 있다.",
+      "title_en": "NHTSA demands Tesla's <em>'Radar Saves Us'</em> document in FSD low-visibility crash probe",
+      "hotShort_en": "NHTSA seeks Tesla's <em>radar removal</em> document",
+      "body_en": "As part of its Engineering Analysis into FSD crashes in low-visibility conditions — the final step before NHTSA closes a case or pushes for a recall — the agency has demanded an internal Tesla document titled <em>'Radar Saves Us'</em> via a 24-part information request, directly targeting Tesla's decision to strip radar from its cars in a probe covering <em>3.2 million vehicles and nine crashes</em>, including one fatality.",
+      "summary_en": "According to Electrek, NHTSA sent Tesla a 24-part information demand on <em>July 2</em>, one item of which names an internal document called \"Radar Saves Us.\" The document's existence was previously unknown publicly — Tesla had handed it to the agency privately during an earlier phase of the investigation — and only surfaced now through this new demand letter.\n\nNHTSA said the document \"appears particularly relevant to related design changes to the degradation detection system and Tesla's understanding of the limitations imposed by a vision-only OEDR system.\" In other words, the agency is directly probing how far Tesla's camera-only approach can actually cope with degraded visibility — and why radar was removed in the first place.\n\nThe investigation covers roughly <em>3.2 million</em> Tesla vehicles that have ever run FSD in the U.S., tied to <em>nine crashes</em> where FSD was engaged in reduced-visibility conditions — including one fatality and one injury. The common thread across the crashes is degraded camera performance from sun glare, fog, or airborne dust.\n\nThe probe is already at the Engineering Analysis stage, the last step before NHTSA either closes the case or pushes for a recall. The information demand also asks Tesla to confirm whether marketing statements from the company and Elon Musk \"imply a higher level of capability or automation than the system currently has\" — putting Tesla's advertising claims under the same scrutiny.\n\nLanding one day before Tesla's July 22 Q2 earnings call, the news is a reminder that regulatory risk around FSD and Robotaxi — the growth engines central to Tesla's valuation — remains very much alive. A recall, if it comes, could be resolved with a free software update, but the episode is likely to intensify debate over the validity of Tesla's vision-only strategy itself.",
+      "href": "https://electrek.co/2026/07/21/nhtsa-tesla-radar-saves-us-document-fsd-probe/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Basenor"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "just now",
@@ -132,31 +157,6 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
-      "pubDate": "2026-07-21T09:43:27.000Z",
-      "title": "테슬라 라이드헤일링, <em>SFO 공항</em> 승하차 시작 — 안전요원 탑승 '리무진 허가'로",
-      "hotShort": "로보택시, <em>SFO 공항</em> 승하차 개시",
-      "body": "테슬라 베이에어리어 라이드헤일링이 21일부터 샌프란시스코국제공항(SFO) 승하차를 지원한다고 @Tesla_AI 가 확인했다 — 다만 캘리포니아 리무진 사업(TCP) 허가로 분류돼 안전요원이 동승하는 서비스로, 완전 무인 웨이모식 로보택시와는 다르다는 점이 핵심이다.",
-      "sourceName": "Basenor",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-sfo-airport-launch-2026-07-21",
-      "summary": "테슬라의 베이에어리어 라이드헤일링 서비스 이용객이 21일부터 샌프란시스코국제공항(SFO)에서 승하차를 요청할 수 있게 됐다. 테슬라 공식 계정 @Tesla_AI 가 이를 직접 확인했고, 일론 머스크도 몇 분 만에 이를 되짚어 언급했다.\n\nSFO 에서 운행하는 테슬라 차량은 샌프란시스코 시·카운티가 발급한 '공인 리무진 허가'(LP-263002, 2027년1월31일까지 유효)를 부착하고 있다. 캘리포니아 교통전세운송(TCP) 규정 아래 발급된 허가로, 전통적 리무진·블랙카 서비스와 같은 법적 분류다.\n\n즉 SFO 에서 테슬라를 태우는 차량에는 예외 없이 안전요원이 운전석에 동승한다. 캘리포니아 규제당국이 테슬라의 FSD 를 여전히 SAE 레벨2 로 분류해 운전자가 언제든 개입할 준비가 돼 있어야 하기 때문 — 이미 SFO 에서 완전 무인 운행 중인 웨이모식 로보택시와는 명확히 다른 형태다.\n\n그럼에도 공항 승하차는 라이드헤일링 사업에서 가장 수요가 큰 use case 중 하나로 꼽힌다. 22일 2분기 실적콜을 앞두고 로보택시 서비스 범위가 지속 확장되고 있음을 보여주는 사례로, 플로리다 올랜도·탬파 진출에 이은 또 다른 지역 확대 신호다.",
-      "title_en": "Tesla ride-hailing begins <em>SFO airport</em> pickups — under a limo permit, safety driver required",
-      "hotShort_en": "Robotaxi starts <em>SFO airport</em> pickups",
-      "body_en": "Tesla's Bay Area ride-hailing service began supporting pickups and drop-offs at San Francisco International Airport (SFO) on July 21, confirmed by @Tesla_AI — though the vehicles operate under a California limousine (TCP) permit with a safety driver aboard, unlike Waymo's fully driverless robotaxis already serving the same airport.",
-      "summary_en": "Riders using Tesla's Bay Area ride-hailing service can now request pickups and drop-offs at San Francisco International Airport (SFO) starting July 21. Tesla's official @Tesla_AI account confirmed the expansion, and Elon Musk echoed it within minutes.\n\nVehicles operating at SFO carry an official Authorized Limousine Permit — LP-263002, valid through January 31, 2027 — issued by the City and County of San Francisco under California's Transportation Charter Party (TCP) framework, the same legal category covering traditional limo and black-car services.\n\nThat means every Tesla picking up passengers at SFO has a human safety driver behind the wheel. California regulators still classify Tesla's FSD as SAE Level 2, requiring a human ready to take over at any time — a clear contrast with Waymo, which already runs fully driverless robotaxis at the same airport.\n\nStill, airport pickup is considered one of the highest-demand use cases in ride-hailing. Coming two days before Tuesday's Q2 earnings call, it's another sign of the Robotaxi service's geographic expansion, following last week's move into Orlando and Tampa.",
-      "href": "https://www.basenor.com/blogs/news/tesla-robotaxi-at-sfo-5-details-that-matter",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Basenor",
-        "Drive Tesla Canada"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
       "pubDate": "2026-07-21T07:44:20.000Z",
       "title": "테슬라 FSD V14 Lite(HW3), <em>와이드 릴리즈 임박</em> 신호 — HW4 기능도 대거 이식",
       "hotShort": "FSD V14 Lite(HW3), <em>와이드 릴리즈 임박</em>",
@@ -200,5 +200,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-07-22 06:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-22 06:20 KST 자동 갱신 · 최신순"
 }
