@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-22T06:31:15.000Z",
+      "title": "일론 머스크, 스페이스X 엔지니어링 데이터로 <em>그록 2조 파라미터 모델</em> 훈련 예고",
+      "hotShort": "머스크, 스페이스X 데이터로 <em>그록 훈련</em> 예고",
+      "body": "일론 머스크가 X에 스페이스X의 방대한 엔지니어링 데이터(ITAR 수출통제 대상 제외)를 그록 차세대 <em>2조 파라미터</em> 모델의 보강 학습에 투입한다고 밝혔다 — 테슬라 차량에도 탑재되는 그록의 성능이 향상되면 '헤이 그록' 음성비서 등 제품 경험 개선으로 이어질 수 있어 주목된다.",
+      "sourceName": "Elon Musk (X)",
+      "sourceLabel": "official",
+      "slug": "musk-grok-spacex-engineering-data-2t-training-2026-07-21",
+      "summary": "21일(현지시간) 일론 머스크가 자신의 X 계정에 스페이스X의 세계적 수준 엔지니어링 데이터(ITAR 수출통제 대상 자료는 제외)를 그록의 차세대 대형언어모델 보강 학습에 투입하겠다고 밝혔다. 머스크는 이 데이터가 <em>2조(2T) 파라미터</em> 훈련 런의 보강 학습 단계에 추가될 것이라며, 이를 통해 그록의 엔지니어링 역량이 크게 향상될 것이라고 설명했다.\n\n이번에 언급된 2조 파라미터 모델은, 현재 공개된 그록4.5를 구동하는 V9 아키텍처의 1.5조 파라미터 대비 약 33% 큰 규모다. 로켓·위성 설계 전반을 다루는 스페이스X의 실전 엔지니어링 데이터가 투입되면, 코드·설계 문제 해결 등 엔지니어링 특화 과제에서 그록의 실력이 한 단계 올라갈 것으로 예상된다.\n\n이 소식이 테슬라 주주에게도 의미가 있는 이유는 그록이 이미 테슬라 차량의 음성비서 '헤이 그록'으로 탑재돼 있다는 점이다 — 앞서 21일 공개된 2026 서머 업데이트에서도 그록이 전화·음악·공조 제어까지 담당하도록 기능이 확대됐다. 기반 모델 자체의 엔지니어링 역량이 커진다고 해서 차량용 음성비서 기능이 즉시 좋아지는 것은 아니지만, 머스크가 스페이스X·테슬라·xAI 세 회사의 데이터·인력을 넘나들며 AI 경쟁력을 끌어올리려는 전략을 보여주는 사례로 읽힌다.\n\n다만 이는 스페이스X·xAI 중심의 발표로, 테슬라 실적에 직접적인 재무 영향을 주는 소식은 아니다. 22일 2분기 실적콜을 하루 앞둔 시점에 나왔다는 점에서, 로보택시·옵티머스 등 '피지컬 AI' 스토리와 함께 일론 머스크 산하 AI 생태계 전반의 진척을 보여주는 배경 정보로 참고할 만하다.",
+      "title_en": "Elon Musk: SpaceX engineering data to train Grok's <em>2-trillion-parameter model</em>",
+      "hotShort_en": "Musk: SpaceX data to <em>train next Grok</em>",
+      "body_en": "Elon Musk posted on X that SpaceX's engineering data (excluding ITAR-restricted material) will feed into supplemental training for Grok's next <em>2-trillion-parameter</em> run — a capability boost that could eventually filter into Tesla vehicles' \"Hey Grok\" voice assistant.",
+      "summary_en": "Elon Musk said on X on July 21 that SpaceX's world-class engineering data — excluding anything restricted under ITAR export-control rules — will be folded into supplemental training for Grok's next large language model. Musk said the data would be added during training of a <em>2-trillion-parameter</em> run, calling it a move that will dramatically improve Grok's engineering capabilities.\n\nThe 2-trillion-parameter model would be roughly a third larger than the 1.5-trillion-parameter V9 architecture currently powering the public Grok 4.5. Feeding in SpaceX's hands-on rocket and satellite engineering data is expected to sharpen Grok's performance on engineering-heavy tasks like code and design problem-solving.\n\nThe announcement matters to Tesla shareholders because Grok is already built into Tesla vehicles as the \"Hey Grok\" voice assistant — just hours earlier, Tesla's 2026 Summer Update expanded Grok's in-car duties to phone calls, music and climate control. A stronger base model doesn't automatically translate into a better in-car assistant, but it's another data point on how Musk is pooling data and talent across SpaceX, Tesla and xAI to push his AI ecosystem forward.\n\nThat said, this is primarily a SpaceX/xAI story with no direct financial impact on Tesla's results. Coming one day before Tesla's July 22 Q2 earnings call, it's useful background on the broader AI ecosystem Musk is building around Tesla's Robotaxi and Optimus \"physical AI\" narrative, rather than a market-moving Tesla headline itself.",
+      "href": "https://x.com/elonmusk/status/2079446276299465185",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -51,31 +71,6 @@
       ],
       "sentiment": "neutral",
       "hot": 8
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-21T18:37:34.000Z",
-      "title": "테슬라, <em>사이버캡 스타링크</em>는 탑승객 아닌 '무인차 관제용' — AI 총괄 첫 설명",
-      "hotShort": "스타링크는 탑승객 아닌 <em>무인차 관제용</em>",
-      "body": "테슬라 AI 총괄 아쇽 엘루스와미가 사이버캡 스타링크 통합의 진짜 목적을 처음 밝혔다 — 탑승객 인터넷 편의가 아니라, 운전대·페달 없는 무인차가 통신 사각지대에 빠지거나 판단이 어려운 상황에서 원격조작자가 카메라 피드를 보고 개입할 수 있게 하는 <em>차량 관제·안전망</em> 용도라는 설명이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-cybercab-starlink-integration-santana-row-2026-07-20",
-      "summary": "테슬라가 캘리포니아 산호세 산타나로우(333 Santana Row) 매장에 전시된 프로덕션 사양 사이버캡을 통해, 차량에 <em>스타링크 안테나가 내장돼 주행 중 안정적인 인터넷 접속을 제공</em>한다는 사실을 처음 공식적으로 확인했다.\n\n이 매장은 자율주행·로보택시 체험에 특화된 공간으로 새단장했다 — 운전대와 페달이 없는 프로덕션 사이버캡을 전시장 중앙에 배치하고, 테슬라 자율주행 기술 발전 타임라인, 실제 도로 주행 라이브 카메라 피드, FSD(감독형) 안전 데이터까지 함께 선보인다. 소프트 오픈은 <em>7월24일</em> 오전 10시~오후 9시로 예정돼 있다.\n\n운전대·페달이 없는 사이버캡의 구조상 탑승객은 주행 중 차량을 직접 조작할 필요가 없고, 중앙 스크린을 통해 업무·영상 시청 등 탑승 시간을 활용하게 된다 — 스타링크 통합은 이런 무인 이동 경험에서 인터넷 연결성을 완성하는 마지막 퍼즐 조각인 셈이다.\n\n22일 2분기 실적콜을 앞두고 나온 이번 공개는, 로보택시·사이버캡 플랫폼이 하드웨어뿐 아니라 탑승 경험 디테일까지 갖춰가고 있음을 보여주는 신호로 투자자들의 관심을 끌고 있다.\n\n이후 테슬라 AI 총괄 아쇽 엘루스와미는 스타링크 통합이 자율주행 자체의 안전 요건 때문은 아니라고 선을 그으면서도, 연결성의 핵심 목적은 내비게이션·고객서비스·차량군 관리에 있다고 밝혔다. 운전대·페달이 없는 사이버캡이 복잡한 상황에서 스스로 판단하기 어려울 때 원격 모니터 요원이 실시간 카메라 피드를 보고 개입할 수 있어야 하는데, 셀룰러 음영지역에서도 이 연결을 유지하려면 위성 안테나가 필요하다는 것이다. 즉 탑승객 엔터테인먼트보다 무인 차량군을 안전하게 관제하기 위한 인프라라는 설명이다.",
-      "title_en": "Tesla AI chief: Cybercab's Starlink is for <em>fleet monitoring</em>, not rider convenience",
-      "hotShort_en": "Cybercab Starlink is really for <em>fleet monitoring</em>",
-      "body_en": "Tesla AI chief Ashok Elluswamy has revealed the real reason behind Starlink integration in Cybercab — not passenger internet convenience, but a <em>fleet-monitoring safety net</em> that lets remote operators view camera feeds and intervene when the driverless vehicle hits a tricky situation or loses cellular connection.",
-      "summary_en": "Tesla has officially confirmed for the first time — via a production-spec Cybercab on display at its Santana Row showroom (333 Santana Row) in San Jose, California — that the vehicle will feature <em>a built-in Starlink antenna providing reliable internet access during trips</em>.\n\nThe showroom has been redesigned around a dedicated Self-Driving and Robotaxi experience: a production Cybercab, with no steering wheel or pedals, sits at the center of the floor alongside a timeline of Tesla's autonomy development, live camera feeds from real-world self-driving, and FSD (Supervised) safety data. The location's soft opening is set for <em>July 24</em>, running 10 a.m. to 9 p.m.\n\nBecause Cybercab has no steering wheel or pedals, riders won't interact with vehicle controls at all — the center screen becomes the main interface for work or entertainment during the ride. Starlink integration fills in the last piece of that experience: reliable connectivity throughout the trip.\n\nComing two days before Tesla's Q2 earnings call, the reveal signals that the Robotaxi/Cybercab platform is maturing beyond hardware into passenger-experience details — a detail investors are watching as the company's autonomy story develops.\n\nTesla AI chief Ashok Elluswamy later clarified that Starlink integration isn't required for the safe operation of the self-driving system itself, but that connectivity is primarily meant for navigation, customer service, and fleet management. Because Cybercab has no steering wheel or pedals, a low-latency link lets remote human monitors check camera feeds and step in when the vehicle encounters a complex scenario it can't navigate — and a satellite dish keeps that link alive even in cellular dead zones. In other words, the feature is less about passenger entertainment and more about safely managing a driverless fleet.",
-      "href": "https://www.teslarati.com/teslas-reason-for-starlink-integration-on-cybercab-might-surprise-you/",
-      "sentiment": "neutral",
-      "hot": 5,
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Electrek"
-      ]
     },
     {
       "category": "product",
@@ -200,5 +195,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-07-22 07:45 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-22 16:08 KST 자동 갱신 · 최신순"
 }
