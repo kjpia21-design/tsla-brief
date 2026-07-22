@@ -220,6 +220,7 @@ cd worker && wrangler deploy
 - Step 1~2: raw-cards 읽기 + 신선도 가드 (30분 이내 skip)
 - Step 3: 4~6장 선별 (비영어권 매체 제외)
 - Step 4: 한국어만 정제 (영어 필드/파일 절대 생성 금지)
+- Step 4.5 (2026-07-23 신설): 카드 확정 후·파일쓰기 전 **독립 검증 패스(verifier)** — 원문 재대조로 sourceLabel·조언톤·단정전환·수치·링크불일치·밈오인식 6항목 재채점, 결과를 `data/verify-log.json`에 append. 현재 **VERIFY_MODE=shadow**(기록만, cards.json 불변경) — enforce 전환은 별도 플래그 변경 필요.
 - Step 5: cards.json + archive.json **2개만** 갱신 (slug dedup, pubDate desc, 50 cap)
 - Step 5.5 (2026-07-18 신설): 카드가 **테슬라 공식 IR 일정 확정**(실적콜·P&D·주총)을 보도할 때만 `data/calendar.json` 의 해당 이벤트 date 확정 + `tentative:false` (미국 발표일 기준, 애널 예상 반영 금지). 월 1회 롤포워드(`refresh-calendar.mjs`)가 확정 이벤트를 key 로 보존
 - Step 6: `node build.mjs` 검증
