@@ -4,6 +4,31 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
+      "pubDate": "2026-07-22T18:08:09.000Z",
+      "title": "프랑스, 테슬라 FSD 승인 보류 — <em>과속·주의력 저하</em> 우려, EU 공동 심사 우선",
+      "hotShort": "프랑스, FSD 승인 보류 — <em>과속 우려</em> 지적",
+      "body": "프랑스 교통장관 필리프 타바로가 테슬라 FSD(감독형)를 현재 상태로는 승인하지 않겠다고 밝혔다 — 주변 교통 흐름에 맞춰 <em>제한속도를 최대 50% 초과</em>하는 과속 문제와 회전교차로·차선변경 같은 복잡한 상황에서 운전자 주의력 모니터링이 불충분하다는 이유다. EU 집행위 공동 심사(제39조)가 진행 중인 가운데, 회원국이 구체적 반대 근거를 공식 밝힌 첫 사례다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-france-rejects-approval-2026-07-22",
+      "summary": "22일(현지시간) 프랑스 교통장관 필리프 타바로는 테슬라의 '완전자율주행(감독형, FSD Supervised)'을 \"현재 상태로는\" 승인하지 않겠다고 밝혔다. 그가 지목한 안전 문제는 두 가지다.\n\n첫째, FSD가 주변 교통 흐름 속도에 맞춰 주행하는 과정에서 명시적인 운전자 지시 없이도 제한속도를 최대 50%까지 초과하는 경우가 있다는 것이다 — 예를 들어 시속 50km 구간에서 시속 70km까지 속도를 낼 수 있다는 지적이다. 둘째, 회전교차로·차선변경처럼 복잡한 도심 주행 상황에서 현재의 운전자 모니터링 체계가 충분한 주의력을 담보하지 못한다는 점이다.\n\n이번 발표로 프랑스는 유럽 주요국 가운데 처음으로 FSD에 대한 구체적 반대 근거를 각료급에서 공식화한 나라가 됐다. 그간 유럽 각국은 유럽집행위원회의 '제39조(Article 39)' 공동 심사 절차에 판단을 미뤄왔는데, 프랑스가 독자적으로 우려를 명문화한 셈이다. 다만 완전한 거부는 아니다 — 프랑스는 테슬라, 네덜란드를 비롯한 다른 유럽국들과 기술 협의를 계속 이어가겠다고 밝혔다.\n\n테슬라는 그간 유럽에서 FSD 라이드얼롱(동승 시연)을 확대하며 규제 승인에 다가서고 있다는 신호를 보내왔지만, 이번 프랑스의 공식 이의 제기는 EU 전역 승인까지 시일이 더 걸릴 수 있음을 시사한다. 로보택시·FSD 확장을 핵심 성장동력으로 내세우는 테슬라 입장에서, 유럽 시장 진입 지연은 주시할 변수다.",
+      "title_en": "France won't approve Tesla's FSD yet, citing <em>speeding and attention-monitoring gaps</em>",
+      "hotShort_en": "France <em>withholds FSD approval</em> over speeding",
+      "body_en": "French Transport Minister Philippe Tabarot said Tesla's FSD (Supervised) won't be approved \"as it currently stands\" — citing speed-matching behavior that can exceed posted limits by <em>up to 50%</em> without driver command, plus insufficient driver-attention monitoring in complex situations like roundabouts and lane changes. It's the first EU member state to formalize specific objections at the cabinet level while the bloc's Article 39 joint review continues.",
+      "summary_en": "French Transport Minister Philippe Tabarot said on July 22 that Tesla's Full Self-Driving (Supervised) system won't be approved \"as it currently stands,\" citing two safety concerns.\n\nFirst, FSD matches surrounding traffic speed in a way that can exceed the posted limit by up to 50% without an explicit driver command — for example, hitting 70 km/h in a 50 km/h zone. Second, the current driver-monitoring setup doesn't guarantee sufficient attention during complex urban situations such as roundabouts and lane changes.\n\nThe announcement makes France the first major European country to formalize specific objections to FSD at the cabinet level, after other EU countries had largely deferred to the European Commission's Article 39 joint review process. It stops short of an outright rejection, though — France said it will continue technical discussions with Tesla, the Netherlands, and other European countries.\n\nTesla has been expanding FSD ride-alongs across Europe as a signal it's getting closer to regulatory approval, but France's formal objection suggests EU-wide sign-off could still take longer. For a company leaning on Robotaxi and FSD expansion as core growth drivers, a delayed European rollout is a variable worth watching.",
+      "href": "https://electrek.co/2026/07/22/france-tesla-fsd-approval-tabarot-speeding/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
       "pubDate": "2026-07-22T17:02:39.000Z",
       "title": "테슬라 ADAS 사고, 월간 <em>역대 최다 207건</em> NHTSA 보고 — 서사 대부분 비공개",
       "hotShort": "테슬라 ADAS 사고, <em>월간 역대 최다 207건</em>",
@@ -19,6 +44,26 @@
       "href": "https://electrek.co/2026/07/22/tesla-adas-crashes-record-207-one-month/",
       "sentiment": "bear",
       "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-22T15:26:21.000Z",
+      "title": "테슬라 앱 코드에 <em>옵티머스용 블루투스 인증</em> 첫 등장 — 로봇 전용 화이트리스트 페어링",
+      "hotShort": "테슬라 앱에 <em>옵티머스 페어링</em> 코드 발견",
+      "body": "Tesla App Updates가 테슬라 스마트폰 앱 코드에서 옵티머스 관련 첫 언급을 다수 발견했다 — 스마트폰을 로봇 전용 신뢰기기 화이트리스트에 등록하는 <em>블루투스 저전력(BLE) 인증</em> 방식으로, 로보택시 차량도 함께 '로봇'으로 식별될 여지가 있어 상용화를 위한 소프트웨어 하부구조 정비 신호로 읽힌다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-optimus-app-pairing-code-2026-07-22",
+      "summary": "테슬라 앱 코드 변화를 추적하는 'Tesla App Updates'가 처음으로 옵티머스 관련 언급을 다수 발견했다고 Teslarati가 22일 보도했다.\n\n핵심은 로봇 전용 <em>블루투스 저전력(BLE) 인증</em> 체계다. 스마트폰을 '키'로 등록해 옵티머스를 비롯해 테슬라가 '로봇'으로 분류하는 기기의 신뢰 기기 화이트리스트에 페어링하는 방식이며, 로보택시 차량 역시 자율주행 플랫폼 특성상 같은 '로봇' 분류에 포함될 가능성이 있다.\n\n아울러 옵티머스가 가정 내에서 진공청소·설거지·먼지 제거 등 작업을 수행할 때 영상·공간 데이터를 수집하는 데 대한 <em>동의를 구하는 별도 화면</em>도 코드에서 발견됐다. 배터리 부족부터 기계적 결함까지 포괄적으로 알려주는 알림 체계도 함께 구축 중이다.\n\n아직 정식 출시나 일정 발표는 아니지만, 앱 하부구조 정비는 옵티머스 상용화·가정 내 배치를 향한 실질적 준비 단계로 해석된다. 일론 머스크가 옵티머스를 '역대 최고 판매 제품'이 될 것이라 공언해온 만큼, 투자자들은 이 같은 소프트웨어 진척 신호를 로드맵 이행의 근거로 참고할 만하다.",
+      "title_en": "Tesla app code reveals first <em>Bluetooth pairing built for Optimus</em>",
+      "hotShort_en": "Tesla app gets <em>Optimus pairing</em> code",
+      "body_en": "Tesla App Updates spotted the first Optimus references in Tesla's smartphone app code, Teslarati reported — a robot-specific <em>Bluetooth Low Energy authentication</em> scheme that whitelists a phone as a trusted device, a system that could also apply to Robotaxi vehicles classified as robots.",
+      "summary_en": "Tesla App Updates, which tracks changes in Tesla's app code, found the first multiple references to Optimus, Teslarati reported on July 22.\n\nThe core addition is a robot-specific <em>Bluetooth Low Energy (BLE) authentication</em> system that pairs a phone as a trusted \"key\" on a whitelist for devices Tesla classifies as robots — a category that could extend beyond Optimus to Robotaxi vehicles given their autonomous nature.\n\nThe code also includes a dedicated consent screen for collecting video and spatial data while Optimus performs in-home tasks like vacuuming, dishwashing, and dusting, along with a comprehensive alert system covering everything from low battery to mechanical issues.\n\nThere's no launch date or official announcement yet, but the app-side groundwork points to real preparation for commercializing and deploying Optimus in homes. With Elon Musk having called Optimus the best-selling product of all time, investors may see this kind of software progress as evidence the roadmap is moving forward.",
+      "href": "https://www.teslarati.com/tesla-starts-preparing-optimus-smartphone-app/",
+      "sentiment": "bull",
+      "hot": 4
     },
     {
       "category": "product",
@@ -93,31 +138,6 @@
       "hot": 9
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-21T15:34:43.000Z",
-      "title": "테슬라 2026 서머 업데이트 공개 — <em>그록 전화·음악·공조 음성제어</em> 확대",
-      "hotShort": "서머 업데이트 — 그록 <em>전화·음악·공조</em> 지원",
-      "body": "테슬라가 X에 2026 서머 업데이트 릴리즈노트를 공개했다 — 그록이 전화 걸기·음악 검색·공조 조절까지 맡고 카레오케엔 <em>채점 기능</em>이 추가되는 등, 22일 실적콜을 앞두고 반복되는 무료 OTA 업데이트로 소프트웨어 경험 차별화를 이어가는 모습이다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-summer-update-grok-caraoke-nav-2026-07-21",
-      "summary": "테슬라는 21일 X 공식 계정을 통해 2026 서머 업데이트의 전체 릴리즈노트를 공개했다. 지난 봄 업데이트에서 도입된 음성 비서 '헤이 그록(Hey Grok)'이 이번 업데이트로 기능 범위를 크게 넓힌 것이 핵심이다.\n\n그록은 기존 내비게이션 안내에 더해 이제 전화 걸기, 음악 검색·재생, 공조(에어컨·히터) 조절, 글러브박스 개폐, 차량 관련 질문 응답까지 음성 명령으로 처리한다. 운전 중 터치스크린 조작을 줄여 안전성과 편의성을 동시에 높이려는 시도로 풀이된다.\n\n엔터테인먼트 기능인 카레오케(Caraoke)에는 <em>채점 기능</em>이 새로 추가돼 노래 실력을 점수로 매기고 운전자 프로필에 최고 점수를 저장한다. 내비게이션도 '자동 내비게이션'이 집·직장·캘린더 일정뿐 아니라 등하교·헬스장처럼 반복되는 목적지까지 스스로 학습해 경로를 제안하고, 과거에 주행했던 경로를 우선 추천하도록 개선됐다.\n\n이 밖에 모바일 앱 기능 강화, 차량 랩(스킨) 커스터마이징, 자녀 보호 기능 개선 등도 함께 포함됐다. 22일 2분기 실적발표를 하루 앞두고 나온 이번 업데이트는, 신차 판매 둔화 우려 속에서도 기존 차량에 지속적으로 새 가치를 얹는 소프트웨어 반복 개선 능력을 보여주는 사례로 투자자들이 참고할 만하다.",
-      "title_en": "Tesla unveils 2026 Summer Update — <em>Grok now handles calls, music and climate</em>",
-      "hotShort_en": "Summer Update: Grok now <em>makes calls</em>",
-      "body_en": "Tesla published the full release notes for its 2026 Summer Update on X — Grok can now make phone calls, search and play music, and adjust the climate, while Caraoke gains a new <em>scoring feature</em>, the latest in a string of free OTA updates arriving one day before Tuesday's Q2 earnings call.",
-      "summary_en": "Tesla posted the complete release notes for its 2026 Summer Update on its official X account on July 21. The headline change is a major expansion of Hey Grok, the voice assistant introduced in the Spring Update.\n\nBeyond navigation guidance, Grok can now place phone calls, search for and play music, adjust the climate control, open the glovebox, and answer questions about the car — all by voice, cutting down on touchscreen interaction while driving.\n\nCaraoke, Tesla's in-car karaoke feature, now includes a <em>scoring system</em> that grades a driver's performance and saves high scores to their profile. Automatic Navigation was also upgraded to learn recurring destinations — like a school drop-off or the gym — beyond just home, work and calendar events, and now favors routes drivers have taken before.\n\nThe update also bundles mobile app improvements, custom vehicle wrap options, and enhanced parental controls. Landing one day before Tesla's July 22 Q2 earnings call, it's a reminder — amid concerns about slowing new-vehicle demand — of Tesla's ability to keep adding value to existing cars through software.",
-      "href": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Teslarati"
-      ],
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
@@ -169,5 +189,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-23 02:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-23 04:34 KST 자동 갱신 · 최신순"
 }

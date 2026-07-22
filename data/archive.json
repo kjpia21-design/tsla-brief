@@ -4,6 +4,31 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
+      "pubDate": "2026-07-22T18:08:09.000Z",
+      "title": "프랑스, 테슬라 FSD 승인 보류 — <em>과속·주의력 저하</em> 우려, EU 공동 심사 우선",
+      "hotShort": "프랑스, FSD 승인 보류 — <em>과속 우려</em> 지적",
+      "body": "프랑스 교통장관 필리프 타바로가 테슬라 FSD(감독형)를 현재 상태로는 승인하지 않겠다고 밝혔다 — 주변 교통 흐름에 맞춰 <em>제한속도를 최대 50% 초과</em>하는 과속 문제와 회전교차로·차선변경 같은 복잡한 상황에서 운전자 주의력 모니터링이 불충분하다는 이유다. EU 집행위 공동 심사(제39조)가 진행 중인 가운데, 회원국이 구체적 반대 근거를 공식 밝힌 첫 사례다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-france-rejects-approval-2026-07-22",
+      "summary": "22일(현지시간) 프랑스 교통장관 필리프 타바로는 테슬라의 '완전자율주행(감독형, FSD Supervised)'을 \"현재 상태로는\" 승인하지 않겠다고 밝혔다. 그가 지목한 안전 문제는 두 가지다.\n\n첫째, FSD가 주변 교통 흐름 속도에 맞춰 주행하는 과정에서 명시적인 운전자 지시 없이도 제한속도를 최대 50%까지 초과하는 경우가 있다는 것이다 — 예를 들어 시속 50km 구간에서 시속 70km까지 속도를 낼 수 있다는 지적이다. 둘째, 회전교차로·차선변경처럼 복잡한 도심 주행 상황에서 현재의 운전자 모니터링 체계가 충분한 주의력을 담보하지 못한다는 점이다.\n\n이번 발표로 프랑스는 유럽 주요국 가운데 처음으로 FSD에 대한 구체적 반대 근거를 각료급에서 공식화한 나라가 됐다. 그간 유럽 각국은 유럽집행위원회의 '제39조(Article 39)' 공동 심사 절차에 판단을 미뤄왔는데, 프랑스가 독자적으로 우려를 명문화한 셈이다. 다만 완전한 거부는 아니다 — 프랑스는 테슬라, 네덜란드를 비롯한 다른 유럽국들과 기술 협의를 계속 이어가겠다고 밝혔다.\n\n테슬라는 그간 유럽에서 FSD 라이드얼롱(동승 시연)을 확대하며 규제 승인에 다가서고 있다는 신호를 보내왔지만, 이번 프랑스의 공식 이의 제기는 EU 전역 승인까지 시일이 더 걸릴 수 있음을 시사한다. 로보택시·FSD 확장을 핵심 성장동력으로 내세우는 테슬라 입장에서, 유럽 시장 진입 지연은 주시할 변수다.",
+      "title_en": "France won't approve Tesla's FSD yet, citing <em>speeding and attention-monitoring gaps</em>",
+      "hotShort_en": "France <em>withholds FSD approval</em> over speeding",
+      "body_en": "French Transport Minister Philippe Tabarot said Tesla's FSD (Supervised) won't be approved \"as it currently stands\" — citing speed-matching behavior that can exceed posted limits by <em>up to 50%</em> without driver command, plus insufficient driver-attention monitoring in complex situations like roundabouts and lane changes. It's the first EU member state to formalize specific objections at the cabinet level while the bloc's Article 39 joint review continues.",
+      "summary_en": "French Transport Minister Philippe Tabarot said on July 22 that Tesla's Full Self-Driving (Supervised) system won't be approved \"as it currently stands,\" citing two safety concerns.\n\nFirst, FSD matches surrounding traffic speed in a way that can exceed the posted limit by up to 50% without an explicit driver command — for example, hitting 70 km/h in a 50 km/h zone. Second, the current driver-monitoring setup doesn't guarantee sufficient attention during complex urban situations such as roundabouts and lane changes.\n\nThe announcement makes France the first major European country to formalize specific objections to FSD at the cabinet level, after other EU countries had largely deferred to the European Commission's Article 39 joint review process. It stops short of an outright rejection, though — France said it will continue technical discussions with Tesla, the Netherlands, and other European countries.\n\nTesla has been expanding FSD ride-alongs across Europe as a signal it's getting closer to regulatory approval, but France's formal objection suggests EU-wide sign-off could still take longer. For a company leaning on Robotaxi and FSD expansion as core growth drivers, a delayed European rollout is a variable worth watching.",
+      "href": "https://electrek.co/2026/07/22/france-tesla-fsd-approval-tabarot-speeding/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
       "pubDate": "2026-07-22T17:02:39.000Z",
       "title": "테슬라 ADAS 사고, 월간 <em>역대 최다 207건</em> NHTSA 보고 — 서사 대부분 비공개",
       "hotShort": "테슬라 ADAS 사고, <em>월간 역대 최다 207건</em>",
@@ -19,6 +44,26 @@
       "href": "https://electrek.co/2026/07/22/tesla-adas-crashes-record-207-one-month/",
       "sentiment": "bear",
       "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-22T15:26:21.000Z",
+      "title": "테슬라 앱 코드에 <em>옵티머스용 블루투스 인증</em> 첫 등장 — 로봇 전용 화이트리스트 페어링",
+      "hotShort": "테슬라 앱에 <em>옵티머스 페어링</em> 코드 발견",
+      "body": "Tesla App Updates가 테슬라 스마트폰 앱 코드에서 옵티머스 관련 첫 언급을 다수 발견했다 — 스마트폰을 로봇 전용 신뢰기기 화이트리스트에 등록하는 <em>블루투스 저전력(BLE) 인증</em> 방식으로, 로보택시 차량도 함께 '로봇'으로 식별될 여지가 있어 상용화를 위한 소프트웨어 하부구조 정비 신호로 읽힌다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-optimus-app-pairing-code-2026-07-22",
+      "summary": "테슬라 앱 코드 변화를 추적하는 'Tesla App Updates'가 처음으로 옵티머스 관련 언급을 다수 발견했다고 Teslarati가 22일 보도했다.\n\n핵심은 로봇 전용 <em>블루투스 저전력(BLE) 인증</em> 체계다. 스마트폰을 '키'로 등록해 옵티머스를 비롯해 테슬라가 '로봇'으로 분류하는 기기의 신뢰 기기 화이트리스트에 페어링하는 방식이며, 로보택시 차량 역시 자율주행 플랫폼 특성상 같은 '로봇' 분류에 포함될 가능성이 있다.\n\n아울러 옵티머스가 가정 내에서 진공청소·설거지·먼지 제거 등 작업을 수행할 때 영상·공간 데이터를 수집하는 데 대한 <em>동의를 구하는 별도 화면</em>도 코드에서 발견됐다. 배터리 부족부터 기계적 결함까지 포괄적으로 알려주는 알림 체계도 함께 구축 중이다.\n\n아직 정식 출시나 일정 발표는 아니지만, 앱 하부구조 정비는 옵티머스 상용화·가정 내 배치를 향한 실질적 준비 단계로 해석된다. 일론 머스크가 옵티머스를 '역대 최고 판매 제품'이 될 것이라 공언해온 만큼, 투자자들은 이 같은 소프트웨어 진척 신호를 로드맵 이행의 근거로 참고할 만하다.",
+      "title_en": "Tesla app code reveals first <em>Bluetooth pairing built for Optimus</em>",
+      "hotShort_en": "Tesla app gets <em>Optimus pairing</em> code",
+      "body_en": "Tesla App Updates spotted the first Optimus references in Tesla's smartphone app code, Teslarati reported — a robot-specific <em>Bluetooth Low Energy authentication</em> scheme that whitelists a phone as a trusted device, a system that could also apply to Robotaxi vehicles classified as robots.",
+      "summary_en": "Tesla App Updates, which tracks changes in Tesla's app code, found the first multiple references to Optimus, Teslarati reported on July 22.\n\nThe core addition is a robot-specific <em>Bluetooth Low Energy (BLE) authentication</em> system that pairs a phone as a trusted \"key\" on a whitelist for devices Tesla classifies as robots — a category that could extend beyond Optimus to Robotaxi vehicles given their autonomous nature.\n\nThe code also includes a dedicated consent screen for collecting video and spatial data while Optimus performs in-home tasks like vacuuming, dishwashing, and dusting, along with a comprehensive alert system covering everything from low battery to mechanical issues.\n\nThere's no launch date or official announcement yet, but the app-side groundwork points to real preparation for commercializing and deploying Optimus in homes. With Elon Musk having called Optimus the best-selling product of all time, investors may see this kind of software progress as evidence the roadmap is moving forward.",
+      "href": "https://www.teslarati.com/tesla-starts-preparing-optimus-smartphone-app/",
+      "sentiment": "bull",
+      "hot": 4
     },
     {
       "category": "product",
@@ -2337,53 +2382,7 @@
       ],
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
-      "pubDate": "2026-07-08T10:30:01.000Z",
-      "title": "레이먼드제임스, 스페이스X에 월가 최고 <em>목표주가 $800</em> 제시 — $10.5조 밸류에이션 시사",
-      "hotShort": "스페이스X 목표주가 <em>$800</em> — 월가 최고치",
-      "body": "레이먼드제임스 애널리스트가 스페이스X에 월가 최고 목표주가 $800(밸류에이션 $10.5조)을 제시 — 엔비디아(약 $4.7조)의 2배가 넘는 규모로, 현재 주가($160대) 대비 400% 넘는 상승 여력을 시사. AI·우주 인프라 융합이 근거다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-raymond-james-800-target-2026-07-08",
-      "summary": "6월 IPO 이후 3주 만에 스페이스X를 둘러싼 월가 목표주가 경쟁이 본격화됐다. 이번엔 레이먼드제임스의 브라이언 게수알레 애널리스트가 가장 공격적인 숫자를 내놨다.\n\n제시된 목표주가는 $800 — 도달 시 밸류에이션은 약 $10.5조에 달해, 현재 세계 최고 시총 기업인 엔비디아(약 $4.7조)를 두 배 이상 웃돈다. 이는 지난주 모건스탠리 등이 제시한 $300선의 초기 커버리지보다 훨씬 높은 수준이다.\n\n게수알레는 우주 상업화와 AI 인프라 수요의 결합을 \"인터넷 등장 이후 가장 큰 인프라 융합\"으로 표현하며 강세론의 근거로 들었다. 스페이스X는 6월12일 주당 $135(밸류에이션 약 $1.75조)로 상장했고, 7월7일 기준 $160.42에 거래됐다.\n\n테슬라 주주 입장에서도 의미가 있다 — 최근 부상한 테슬라·스페이스X 합병설(아이브스 80% 확률 언급)이 현실화될 경우, 스페이스X의 밸류에이션 전망치가 합병 조건 협상의 기준점이 될 수 있기 때문이다.",
-      "title_en": "Raymond James sets Wall Street's <em>highest SpaceX target</em> at $800 — implying a $10.5T valuation",
-      "hotShort_en": "SpaceX target hits <em>$800</em> — Street's highest yet",
-      "body_en": "Raymond James analyst Brian Gesuale set Wall Street's highest SpaceX price target at $800, implying a roughly $10.5 trillion valuation — more than double Nvidia's (~$4.7T) and over 400% above SpaceX's current ~$160 share price. The call rests on AI and space-infrastructure convergence.",
-      "summary_en": "Three weeks after its June IPO, SpaceX has become the center of an escalating Wall Street price-target contest — and Raymond James just set the most aggressive number yet.\n\nThe $800 target implies a roughly $10.5 trillion valuation if reached — more than double Nvidia's (~$4.7 trillion), the world's most valuable public company today, and well above the ~$300 initial coverage from banks like Morgan Stanley last week.\n\nAnalyst Brian Gesuale called the combination of space commercialization and AI infrastructure demand \"the most significant infrastructure convergence since the advent of the Internet.\" SpaceX priced its IPO at $135 (~$1.75T valuation) on June 12 and traded at $160.42 as of July 7.\n\nFor Tesla shareholders, the number matters too: if the widely-discussed Tesla-SpaceX merger (Dan Ives put the odds at 80%) moves forward, SpaceX's valuation trajectory could become a key reference point in negotiating merger terms.",
-      "href": "https://www.bloomberg.com/news/newsletters/2026-07-08/spacex-stock-price-target-raised-to-800-as-ai-drives-10-5-trillion-valuation",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Bloomberg",
-        "Motley Fool",
-        "TheNextWeb"
-      ],
-      "sentiment": "bull",
-      "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5m ago",
-      "pubDate": "2026-07-08T06:31:08.000Z",
-      "title": "사이버캡 '골드' 색의 비밀 — 페인트 아닌 <em>반응사출성형으로 색상 자체 주입</em>",
-      "hotShort": "사이버캡 골드, <em>도장 공정 자체를 없앤 신기술</em>",
-      "body": "테슬라가 사이버캡 차체 패널에 안료를 폴리우레탄과 함께 금형에 직접 주입하는 반응사출성형(RIM) 공법을 도입했다 — 별도 도장 없이 패널이 이미 착색된 채로 나오고, 도장 사이클을 시간 단위에서 분 단위로 줄이며 제조·공급망 배출을 35% 절감, 페인트 VOC 배출은 100% 없앴다 — 로보택시 대량 양산의 원가와 환경 부담을 동시에 낮추는 제조 혁신이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-cybercab-gold-rim-paint-2026-07-08",
-      "summary": "테슬라가 사이버캡의 골드 색상 차체 패널에 새로운 반응사출성형(Reaction Injection Molding, RIM) 공법을 적용했다고 확인했다. 안료를 별도로 칠하는 대신, 패널을 성형하는 순간 폴리우레탄 소재와 안료를 함께 금형에 주입해 패널이 금형에서 나올 때 이미 색이 입혀진 상태가 되는 방식이다.\n\n기존 도장 공정은 차체를 별도 도장 부스로 옮겨 프라이머·베이스코트·클리어코트를 순차로 입히고 건조·경화하는 데 상당한 시간과 설비가 필요했다. RIM 공법은 이 과정을 사실상 성형 단계 안으로 흡수해, 패널당 도장 사이클을 시간 단위에서 분 단위로 단축한다.\n\n환경·원가 측면 효과도 구체적이다. 테슬라에 따르면 이 공법은 해당 부품의 제조·공급망 탄소배출을 35% 줄이고, 전통적 도장 과정에서 나오는 휘발성유기화합물(VOC) 배출을 100% 없앤다. 색이 얇은 표면 코팅이 아니라 패널 자체의 성질이 되면서, 도로 이물질에 의한 도장 벗겨짐·박리 위험도 구조적으로 줄어든다.\n\n사이버캡은 도장 공정이 필요 없는 플라스틱(폴리우레탄) 차체 패널을 쓰는 것으로 이미 알려져 있었는데, 이번에 확인된 RIM 공법은 그 설계 철학의 구체적 실행 방식이다. 도장 부스라는 전통적으로 비싸고 복잡한 공정 자체를 생산 라인에서 들어내는 접근으로, 로보택시를 대규모로 양산하려는 테슬라의 원가 절감 전략과 맞닿아 있다.",
-      "title_en": "Tesla's Cybercab Gold isn't painted — <em>color is injected during molding</em>",
-      "hotShort_en": "Cybercab's gold <em>comes from molding</em>, not paint",
-      "body_en": "Tesla confirmed its Cybercab body panels use a reaction injection molding (RIM) process that injects pigment directly into the polyurethane mix as the panel is molded, so it emerges from the mold already colored — cutting paint cycles from hours to minutes, reducing manufacturing and supply-chain emissions by 35%, and eliminating 100% of traditional paint VOC emissions, a manufacturing shift aimed at lowering both cost and environmental impact as Tesla scales Robotaxi production.",
-      "summary_en": "Tesla confirmed that Cybercab's gold-colored body panels are made using a reaction injection molding (RIM) process rather than conventional paint. Instead of applying color as a separate coating step, pigment is mixed into the polyurethane material and injected into the mold at the moment the panel is formed — so the panel comes out already colored.\n\nTraditional automotive paint requires routing body panels through a dedicated paint shop for primer, basecoat and clearcoat stages, each needing time to cure. By folding color into the molding step itself, Tesla cuts what would be a multi-hour paint cycle down to minutes per panel.\n\nThe environmental and cost benefits are concrete. Tesla says the process cuts manufacturing and supply-chain emissions for these parts by 35% and eliminates 100% of the volatile organic compound (VOC) emissions associated with traditional paint shops. Because the color is a property of the molded material itself rather than a thin surface layer, the panels are also structurally less prone to chipping or peeling from road debris.\n\nCybercab was already known to use paintless, plastic (polyurethane) body panels; this RIM process is the concrete manufacturing method behind that design choice. Eliminating the traditional paint shop — historically one of the most expensive and complex stages of vehicle production — fits Tesla's broader push to cut costs as it works to scale Robotaxi production.",
-      "href": "https://www.teslarati.com/tesla-reaction-injection-molding-cybercab-gold-paint/",
-      "sentiment": "bull",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-23 02:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-23 04:34 KST 자동 갱신 · 최신순"
 }

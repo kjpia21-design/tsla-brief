@@ -19,6 +19,32 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-22T21:08:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "fsd-france-rejects-approval-2026-07-22",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "장관명(Philippe Tabarot)·과속 최대 50% 초과(70km/h in 50km/h zone)·회전교차로·차선변경 모니터링 미비·EU 제39조 공동심사 맥락·네덜란드 등과 기술 협의 지속·부분보류(완전거부 아님) 뉘앙스 모두 다중 소스(TeslaNorth, EV.com, Yahoo Finance)로 교차 확인",
+            "직접 원문 WebFetch는 403, WebSearch 교차검증으로 대체"
+          ]
+        },
+        {
+          "slug": "product-optimus-app-pairing-code-2026-07-22",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "BLE 화이트리스트 페어링·로보택시 겸용 식별 여지·가사노동(진공청소·설거지·먼지 제거) 추적·영상·공간데이터 동의화면·배터리·기계결함 알림 전부 검색 결과와 일치",
+            "단일 출처(Teslarati) 표기 적절, confirmedBy 생략도 정확",
+            "직접 원문 WebFetch는 403, WebSearch 교차검증으로 대체"
+          ]
+        }
+      ]
     }
   ]
 }
