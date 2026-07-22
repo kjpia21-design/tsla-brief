@@ -1,0 +1,24 @@
+{
+  "runs": [
+    {
+      "at": "2026-07-22T17:30:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-adas-crashes-record-207-2026-07-22",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for Electrek",
+            "no advisory tone",
+            "no hedge-to-assertion conversion",
+            "all numbers (207, 157, 3763, 85%) corroborated via cross-source search (direct WebFetch to electrek.co blocked 403)",
+            "href matches verified article",
+            "minor omission noted: source flags 207 as a floor (subject to upward reporting-lag revision), not a correctness error"
+          ]
+        }
+      ]
+    }
+  ]
+}

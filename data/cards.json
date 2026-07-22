@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-22T17:02:39.000Z",
+      "title": "테슬라 ADAS 사고, 월간 <em>역대 최다 207건</em> NHTSA 보고 — 서사 대부분 비공개",
+      "hotShort": "테슬라 ADAS 사고, <em>월간 역대 최다 207건</em>",
+      "body": "Electrek이 NHTSA 표준일반명령(SGO) 데이터를 분석한 결과, 테슬라가 지난 5월 한 달간 오토파일럿·FSD 관련 사고 <em>207건</em>을 보고해 월간 기록을 새로 썼다 — 2021년 한 해 전체(157건)보다 많은 수치다. 사고 서사 대부분과 소프트웨어 버전 필드까지 비공개 처리해, 오토파일럿과 FSD 사고를 구분할 수조차 없다는 점이 투명성 논란을 키운다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-adas-crashes-record-207-2026-07-22",
+      "summary": "NHTSA는 2021년부터 '표준일반명령(Standing General Order)'을 통해 첨단운전지원시스템(ADAS)이 충돌 30초 이내 활성화 상태였고, 에어백 전개·견인·부상·사망·보행자·자전거 충돌 등 중대성 기준을 충족한 사고를 완성차업체가 의무 보고하도록 하고 있다. Electrek이 22일 이 데이터를 분석해 보도한 내용에 따르면, 테슬라는 지난 5월 <em>207건</em>의 오토파일럿·FSD 관련 사고를 보고해 월간 최다 기록을 새로 썼다.\n\n이 한 달치 건수만으로도 2021년 한 해 전체(157건)를 넘어선다는 점이 테슬라의 사고 보고 증가 속도를 보여준다. SGO 전체 파일 기준 테슬라는 누적 <em>3,763건</em>의 고유 운전보조 사고를 보고해, 업계 전체 ADAS 보고 건수의 약 <em>85%</em>를 차지한다.\n\n문제는 투명성이다. 테슬라는 사고 서사(narrative) 항목을 사실상 전부 비공개 처리하고, 어떤 소프트웨어 버전이 작동 중이었는지 표시하는 필드까지 가려 공개 데이터만으로는 오토파일럿과 FSD 중 어느 쪽이 관련됐는지조차 구분할 수 없다. 반면 GM·포드·혼다·도요타 등 대량 보고 업체는 서사를 거의 가리지 않는다는 게 Electrek의 지적이다.\n\n이 수치는 테슬라가 저시계 조건 FSD 사고를 이유로 NHTSA 조사를 받고 있는 시점과 맞물려, 규제 당국의 데이터 요구·조사 강도를 키울 요인으로 꼽힌다. 로보택시 확장과 FSD 광범위 배포를 동시에 밀어붙이는 테슬라 입장에서, 사고 건수 증가와 낮은 투명성이 함께 부각되는 시점은 부담이 될 수 있다.",
+      "title_en": "Tesla's ADAS crashes hit <em>record 207 in a single month</em>, NHTSA data shows",
+      "hotShort_en": "Tesla ADAS crashes hit <em>record 207 in a month</em>",
+      "body_en": "Electrek's analysis of NHTSA's Standing General Order data found Tesla reported <em>207</em> Autopilot and FSD crashes in May 2026 alone — a new monthly record that already exceeds all of 2021 combined (157). Tesla redacts nearly every crash narrative and even the software-version field, making it impossible to tell Autopilot and FSD crashes apart from the public data.",
+      "summary_en": "Since 2021, NHTSA's Standing General Order has required automakers to report crashes where an advanced driver-assistance system was engaged within roughly 30 seconds of impact and that meet a severity threshold — an airbag deployment, a tow-away, an injury, a fatality, or a struck pedestrian or cyclist. Electrek's July 22 analysis of that dataset found Tesla logged <em>207</em> Autopilot and FSD crashes in May 2026, the highest single-month total on record.\n\nThat one month alone tops all of 2021 combined (157 crashes), underscoring how fast Tesla's reported crash volume has climbed. Across the full SGO file, Tesla now accounts for <em>3,763</em> unique driver-assist crashes — roughly <em>85%</em> of the entire industry's ADAS reports.\n\nTransparency is the sticking point. Tesla redacts almost every crash narrative and even blacks out the software-version field, so the public data can't distinguish Autopilot crashes from FSD crashes at all. Electrek notes that high-volume peers like GM, Ford, Honda, and Toyota redact essentially none of their narratives.\n\nThe disclosure lands just as Tesla faces an NHTSA probe into FSD crashes in low-visibility conditions, adding pressure on regulators to demand more from the company's crash data even as Tesla pushes ahead with wider FSD rollout and Robotaxi expansion.",
+      "href": "https://electrek.co/2026/07/22/tesla-adas-crashes-record-207-one-month/",
+      "sentiment": "bear",
+      "hot": 7
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "just now",
@@ -19,26 +39,6 @@
       "href": "https://www.bloomberg.com/news/features/2026-07-22/tesla-cybertruck-risks-becoming-the-ford-edsel-of-the-ev-era",
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-22T06:31:15.000Z",
-      "title": "일론 머스크, 스페이스X 엔지니어링 데이터로 <em>그록 2조 파라미터 모델</em> 훈련 예고",
-      "hotShort": "머스크, 스페이스X 데이터로 <em>그록 훈련</em> 예고",
-      "body": "일론 머스크가 X에 스페이스X의 방대한 엔지니어링 데이터(ITAR 수출통제 대상 제외)를 그록 차세대 <em>2조 파라미터</em> 모델의 보강 학습에 투입한다고 밝혔다 — 테슬라 차량에도 탑재되는 그록의 성능이 향상되면 '헤이 그록' 음성비서 등 제품 경험 개선으로 이어질 수 있어 주목된다.",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "musk-grok-spacex-engineering-data-2t-training-2026-07-21",
-      "summary": "21일(현지시간) 일론 머스크가 자신의 X 계정에 스페이스X의 세계적 수준 엔지니어링 데이터(ITAR 수출통제 대상 자료는 제외)를 그록의 차세대 대형언어모델 보강 학습에 투입하겠다고 밝혔다. 머스크는 이 데이터가 <em>2조(2T) 파라미터</em> 훈련 런의 보강 학습 단계에 추가될 것이라며, 이를 통해 그록의 엔지니어링 역량이 크게 향상될 것이라고 설명했다.\n\n이번에 언급된 2조 파라미터 모델은, 현재 공개된 그록4.5를 구동하는 V9 아키텍처의 1.5조 파라미터 대비 약 33% 큰 규모다. 로켓·위성 설계 전반을 다루는 스페이스X의 실전 엔지니어링 데이터가 투입되면, 코드·설계 문제 해결 등 엔지니어링 특화 과제에서 그록의 실력이 한 단계 올라갈 것으로 예상된다.\n\n이 소식이 테슬라 주주에게도 의미가 있는 이유는 그록이 이미 테슬라 차량의 음성비서 '헤이 그록'으로 탑재돼 있다는 점이다 — 앞서 21일 공개된 2026 서머 업데이트에서도 그록이 전화·음악·공조 제어까지 담당하도록 기능이 확대됐다. 기반 모델 자체의 엔지니어링 역량이 커진다고 해서 차량용 음성비서 기능이 즉시 좋아지는 것은 아니지만, 머스크가 스페이스X·테슬라·xAI 세 회사의 데이터·인력을 넘나들며 AI 경쟁력을 끌어올리려는 전략을 보여주는 사례로 읽힌다.\n\n다만 이는 스페이스X·xAI 중심의 발표로, 테슬라 실적에 직접적인 재무 영향을 주는 소식은 아니다. 22일 2분기 실적콜을 하루 앞둔 시점에 나왔다는 점에서, 로보택시·옵티머스 등 '피지컬 AI' 스토리와 함께 일론 머스크 산하 AI 생태계 전반의 진척을 보여주는 배경 정보로 참고할 만하다.",
-      "title_en": "Elon Musk: SpaceX engineering data to train Grok's <em>2-trillion-parameter model</em>",
-      "hotShort_en": "Musk: SpaceX data to <em>train next Grok</em>",
-      "body_en": "Elon Musk posted on X that SpaceX's engineering data (excluding ITAR-restricted material) will feed into supplemental training for Grok's next <em>2-trillion-parameter</em> run — a capability boost that could eventually filter into Tesla vehicles' \"Hey Grok\" voice assistant.",
-      "summary_en": "Elon Musk said on X on July 21 that SpaceX's world-class engineering data — excluding anything restricted under ITAR export-control rules — will be folded into supplemental training for Grok's next large language model. Musk said the data would be added during training of a <em>2-trillion-parameter</em> run, calling it a move that will dramatically improve Grok's engineering capabilities.\n\nThe 2-trillion-parameter model would be roughly a third larger than the 1.5-trillion-parameter V9 architecture currently powering the public Grok 4.5. Feeding in SpaceX's hands-on rocket and satellite engineering data is expected to sharpen Grok's performance on engineering-heavy tasks like code and design problem-solving.\n\nThe announcement matters to Tesla shareholders because Grok is already built into Tesla vehicles as the \"Hey Grok\" voice assistant — just hours earlier, Tesla's 2026 Summer Update expanded Grok's in-car duties to phone calls, music and climate control. A stronger base model doesn't automatically translate into a better in-car assistant, but it's another data point on how Musk is pooling data and talent across SpaceX, Tesla and xAI to push his AI ecosystem forward.\n\nThat said, this is primarily a SpaceX/xAI story with no direct financial impact on Tesla's results. Coming one day before Tesla's July 22 Q2 earnings call, it's useful background on the broader AI ecosystem Musk is building around Tesla's Robotaxi and Optimus \"physical AI\" narrative, rather than a market-moving Tesla headline itself.",
-      "href": "https://x.com/elonmusk/status/2079446276299465185",
-      "sentiment": "neutral",
-      "hot": 3
     },
     {
       "category": "fsd",
@@ -90,7 +90,7 @@
         "Barron's"
       ],
       "sentiment": "neutral",
-      "hot": 8
+      "hot": 9
     },
     {
       "category": "product",
@@ -167,33 +167,7 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-21T07:44:20.000Z",
-      "title": "테슬라 FSD V14 Lite(HW3), <em>와이드 릴리즈 임박</em> 신호 — HW4 기능도 대거 이식",
-      "hotShort": "FSD V14 Lite(HW3), <em>와이드 릴리즈 임박</em>",
-      "body": "테슬라 AI 총괄 아쇽 엘루스와미가 HW3(구형 하드웨어) 대상 FSD V14 Lite의 최신 빌드가 조만간 <em>와이드 릴리즈(전체 배포)</em>로 전환될 수 있다고 시사했다 — 브레이크 확인 없는 주차 출발, Self-Driving 앱 등 HW4급 기능까지 이식된 상태라, 언수퍼바이즈드 FSD를 지원하지 못하는 구형 차주들의 체감 격차가 한층 좁혀질 전망이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-lite-hw3-feature-parity-2026-07-20",
-      "summary": "테슬라 AI 총괄 아쇽 엘루스와미가 HW3(하드웨어3) 탑재 차량용 FSD V14 Lite의 최신 빌드에 대해, 조기접근(early access) 단계를 마치고 <em>와이드 릴리즈(전체 배포)</em>로 전환될 가능성이 높다고 시사했다 — 구형 하드웨어 차주 대상 FSD 반복 개선 속도를 보여주는 가장 강한 신호로 꼽힌다.\n\nHW3용 FSD V14 Lite는 지난 6월29일 조기접근 그룹 대상으로 처음 배포됐다. 테슬라 커뮤니티 큐레이터 닉 크루즈 파테인에 따르면, 이번 최신 빌드는 HW4 버전 V14의 일부 기능을 넘겨받아 주차된 상태에서 출발할 때 더 이상 브레이크 페달을 밟아 확인할 필요가 없어졌고, 파란색 'P' 주차 아이콘, 목적지 접근 알림, Self-Driving 전용 앱과 무개입 연속 주행 '스트릭' 기능까지 새로 추가됐다.\n\n같은 날 테슬라 관련 소식을 전하는 큐레이터 테슬라 챈도 \"HW3로 이 정도 수준의 소프트웨어를 만든 게 놀랍다\"고 평가했다.\n\nHW3는 일론 머스크가 올해 초 실적콜에서 언수퍼바이즈드(완전 무감독) FSD 지원이 어렵다고 밝힌 구형 하드웨어다. 이번 와이드 릴리즈 시사는 그 한계를 인정하면서도, HW4와의 사용자 경험 격차를 최대한 좁히려는 테슬라의 절충안으로 풀이된다.\n\n22일 2분기 실적콜(D-1)을 앞두고 나온 이번 소식은 FSD 소프트웨어 반복 개선의 속도를 보여주는 참고 지표로, 구형 차량 보유 주주·고객층의 만족도와 직결되는 부분이라 주목할 만하다.",
-      "title_en": "Tesla's FSD V14 Lite on HW3 signals <em>wide release is near</em> — with HW4 features already ported over",
-      "hotShort_en": "FSD V14 Lite (HW3) <em>nears wide release</em>",
-      "body_en": "Tesla AI chief Ashok Elluswamy signaled that the latest FSD V14 Lite build for HW3 (older hardware) may soon exit early access and go to <em>wide release</em> — the build already carries over HW4-level features like brake-free parking starts and the Self-Driving app, further narrowing the gap for owners whose hardware can't run unsupervised FSD.",
-      "summary_en": "Tesla AI chief Ashok Elluswamy signaled that the latest FSD V14 Lite build running on Hardware 3 (HW3) vehicles is likely nearing the end of its early-access phase and headed for <em>wide release</em> — one of the strongest signals yet of the pace of FSD improvements for owners of Tesla's older hardware.\n\nFSD V14 Lite first began rolling out to HW3 early-access drivers on June 29. According to Tesla community curator Nic Cruz Patane, the latest build carries over several features from the HW4 version of V14: cars no longer need a brake-pedal press to confirm they're ready to pull out of a parking spot, plus a blue \"P\" park icon, approaching-destination alerts, a dedicated Self-Driving app, and a streak counter for consecutive intervention-free drives.\n\nThe same day, fellow curator Tesla Chan called the update impressive, saying it's \"amazing Tesla made this level of software\" run on HW3 hardware.\n\nHW3 is the older hardware generation that Elon Musk said earlier this year, on an earnings call, can't support unsupervised FSD. The wide-release signal reads as Tesla's compromise — acknowledging that ceiling while still closing as much of the user-experience gap with HW4 as possible.\n\nComing one day before Tesla's July 22 Q2 earnings call, the update is a data point on the pace of FSD's iterative improvement — one that matters directly to the satisfaction of shareholders and customers still driving older hardware.",
-      "href": "https://www.teslarati.com/teslas-ai-chief-just-hinted-at-something-big-for-fsd-v14-lite-owners/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Teslarati",
-        "Nic Cruz Patane (X)",
-        "Tesla Chan (X)"
-      ],
-      "sentiment": "bull",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-22 23:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-23 02:30 KST 자동 갱신 · 최신순"
 }

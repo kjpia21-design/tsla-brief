@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-22T17:02:39.000Z",
+      "title": "테슬라 ADAS 사고, 월간 <em>역대 최다 207건</em> NHTSA 보고 — 서사 대부분 비공개",
+      "hotShort": "테슬라 ADAS 사고, <em>월간 역대 최다 207건</em>",
+      "body": "Electrek이 NHTSA 표준일반명령(SGO) 데이터를 분석한 결과, 테슬라가 지난 5월 한 달간 오토파일럿·FSD 관련 사고 <em>207건</em>을 보고해 월간 기록을 새로 썼다 — 2021년 한 해 전체(157건)보다 많은 수치다. 사고 서사 대부분과 소프트웨어 버전 필드까지 비공개 처리해, 오토파일럿과 FSD 사고를 구분할 수조차 없다는 점이 투명성 논란을 키운다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-adas-crashes-record-207-2026-07-22",
+      "summary": "NHTSA는 2021년부터 '표준일반명령(Standing General Order)'을 통해 첨단운전지원시스템(ADAS)이 충돌 30초 이내 활성화 상태였고, 에어백 전개·견인·부상·사망·보행자·자전거 충돌 등 중대성 기준을 충족한 사고를 완성차업체가 의무 보고하도록 하고 있다. Electrek이 22일 이 데이터를 분석해 보도한 내용에 따르면, 테슬라는 지난 5월 <em>207건</em>의 오토파일럿·FSD 관련 사고를 보고해 월간 최다 기록을 새로 썼다.\n\n이 한 달치 건수만으로도 2021년 한 해 전체(157건)를 넘어선다는 점이 테슬라의 사고 보고 증가 속도를 보여준다. SGO 전체 파일 기준 테슬라는 누적 <em>3,763건</em>의 고유 운전보조 사고를 보고해, 업계 전체 ADAS 보고 건수의 약 <em>85%</em>를 차지한다.\n\n문제는 투명성이다. 테슬라는 사고 서사(narrative) 항목을 사실상 전부 비공개 처리하고, 어떤 소프트웨어 버전이 작동 중이었는지 표시하는 필드까지 가려 공개 데이터만으로는 오토파일럿과 FSD 중 어느 쪽이 관련됐는지조차 구분할 수 없다. 반면 GM·포드·혼다·도요타 등 대량 보고 업체는 서사를 거의 가리지 않는다는 게 Electrek의 지적이다.\n\n이 수치는 테슬라가 저시계 조건 FSD 사고를 이유로 NHTSA 조사를 받고 있는 시점과 맞물려, 규제 당국의 데이터 요구·조사 강도를 키울 요인으로 꼽힌다. 로보택시 확장과 FSD 광범위 배포를 동시에 밀어붙이는 테슬라 입장에서, 사고 건수 증가와 낮은 투명성이 함께 부각되는 시점은 부담이 될 수 있다.",
+      "title_en": "Tesla's ADAS crashes hit <em>record 207 in a single month</em>, NHTSA data shows",
+      "hotShort_en": "Tesla ADAS crashes hit <em>record 207 in a month</em>",
+      "body_en": "Electrek's analysis of NHTSA's Standing General Order data found Tesla reported <em>207</em> Autopilot and FSD crashes in May 2026 alone — a new monthly record that already exceeds all of 2021 combined (157). Tesla redacts nearly every crash narrative and even the software-version field, making it impossible to tell Autopilot and FSD crashes apart from the public data.",
+      "summary_en": "Since 2021, NHTSA's Standing General Order has required automakers to report crashes where an advanced driver-assistance system was engaged within roughly 30 seconds of impact and that meet a severity threshold — an airbag deployment, a tow-away, an injury, a fatality, or a struck pedestrian or cyclist. Electrek's July 22 analysis of that dataset found Tesla logged <em>207</em> Autopilot and FSD crashes in May 2026, the highest single-month total on record.\n\nThat one month alone tops all of 2021 combined (157 crashes), underscoring how fast Tesla's reported crash volume has climbed. Across the full SGO file, Tesla now accounts for <em>3,763</em> unique driver-assist crashes — roughly <em>85%</em> of the entire industry's ADAS reports.\n\nTransparency is the sticking point. Tesla redacts almost every crash narrative and even blacks out the software-version field, so the public data can't distinguish Autopilot crashes from FSD crashes at all. Electrek notes that high-volume peers like GM, Ford, Honda, and Toyota redact essentially none of their narratives.\n\nThe disclosure lands just as Tesla faces an NHTSA probe into FSD crashes in low-visibility conditions, adding pressure on regulators to demand more from the company's crash data even as Tesla pushes ahead with wider FSD rollout and Robotaxi expansion.",
+      "href": "https://electrek.co/2026/07/22/tesla-adas-crashes-record-207-one-month/",
+      "sentiment": "bear",
+      "hot": 7
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "just now",
@@ -90,7 +110,7 @@
         "Barron's"
       ],
       "sentiment": "neutral",
-      "hot": 8
+      "hot": 9
     },
     {
       "category": "product",
@@ -2363,34 +2383,7 @@
       "href": "https://www.teslarati.com/tesla-reaction-injection-molding-cybercab-gold-paint/",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-07T21:08:01.000Z",
-      "title": "스페이스X 첫 월가 성적표 — 모건스탠리 $300 등 <em>대형은행 줄줄이 매수</em>",
-      "hotShort": "스페이스X 상장 후 첫 등급 <em>월가 줄줄이 매수</em>",
-      "body": "스페이스X 조용한 기간이 끝나자 모건스탠리($300·街 최고가)·JP모건($225)·뱅크오브아메리카($235) 등 대형 은행 다수가 일제히 매수 등급을 냈다 — 반면 테슬라 자체는 매수 비중이 약 40%에 그쳐, 월가가 머스크의 두 회사 중 스페이스X를 더 선호한다는 신호로 읽힌다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-nasdaq100-inclusion-analyst-coverage-2026-07-07",
-      "summary": "이번 주 화요일(7일) 스페이스X의 IPO 조용한 기간이 끝나자마자, 상장을 주관했던 대형 은행들의 첫 공식 리포트가 쏟아졌다. 모건스탠리가 비중확대·목표주가 $300(街 최고가, 직전 월요일 종가 $160.42 대비 약 +87%)을 제시했고, JP모건(비중확대·$225)·뱅크오브아메리카(매수·$235)를 비롯해 골드만삭스·UBS·번스타인·웰스파고 등 최소 6곳 이상이 사실상 전원 매수 등급으로 커버리지를 개시했다(Bloomberg).\n\n화요일 이전부터 이어진 낙관론도 여전하다 — 레이먼드제임스가 이미 목표주가 $800(街 최고가)을 제시했는데, 이 가격에 도달하면 스페이스X 시가총액은 약 $10.5조로 엔비디아($4.7조)의 두 배를 웃돈다. 유일한 회의론자인 모펫네이선슨은 중립·목표주가 $131(직전 종가 대비 약 18% 하락 여지)을 유지하며 스페이스X가 제시한 $30조 규모의 시장기회(TAM) 추정을 '터무니없다'고 비판했다(CNBC).\n\n바론스(Barron's)는 이 대조를 테슬라와 나란히 짚었다 — 스페이스X에 붙은 새 등급은 사실상 전원 매수인 반면, 테슬라는 자체 애널리스트 매수 비중이 약 40%에 그친다. 밸류에이션 배수로도 스페이스X는 2027년 예상 매출 대비 약 45배에 거래되는데 테슬라는 약 15배에 그쳐, 매출 배수만 보면 테슬라가 오히려 저평가돼 있다. 다만 월가는 스페이스X의 더 빠른 성장(2031년 매출 전망 스페이스X $5,670억 vs 테슬라 $3,070억)을 반영한 결과로 본다.\n\n역설적인 대목도 있다 — 이런 낙관 일색의 리포트 물결에도 불구하고 스페이스X 주가는 정작 IPO 공모가($135)를 밑도는 수준까지 밀렸다(Yahoo Finance). 월가의 장밋빛 등급과 실제 주가 흐름 사이의 괴리는, 스페이스X 밸류에이션 논쟁이 여전히 정리되지 않았다는 뜻이다.\n\n테슬라와는 별개 회사지만, 스페이스X는 머스크의 개인 순자산과 시간의 상당 부분을 차지하는 만큼 테슬라 주주들도 계속 주시할 수밖에 없는 변수다. 목표주가가 $131(모펫네이선슨)부터 $800(레이먼드제임스)까지 벌어져 있다는 사실 자체가, 스페이스X 밸류에이션을 둘러싼 월가의 시각차가 얼마나 큰지 보여준다.",
-      "title_en": "SpaceX's first Wall Street ratings — banks <em>pile into Buy</em> after Morgan Stanley's $300 call",
-      "hotShort_en": "SpaceX debut ratings: banks <em>rush to Buy</em>",
-      "body_en": "SpaceX's quiet period ended this week and banks rushed in — Morgan Stanley (Overweight, $300, Street-high), JPMorgan ($225) and Bank of America ($235) among at least six major firms initiating almost uniformly bullish. Tesla itself carries only about a 40% Buy-rating share by comparison — a sign Wall Street currently favors Musk's rocket company over his carmaker.",
-      "summary_en": "SpaceX's IPO quiet period expired this Tuesday, unleashing the first wave of official coverage from banks that helped underwrite the offering. Morgan Stanley set the Street-high target at $300 (Overweight, roughly +87% above Monday's $160.42 close), while JPMorgan (Overweight, $225) and Bank of America (Buy, $235) joined Goldman Sachs, UBS, Bernstein and Wells Fargo — at least six major banks, almost all initiating with buy-equivalent ratings, per Bloomberg.\n\nThe bullish tilt echoes an earlier call: Raymond James had already set a Street-high $800 target, implying a roughly $10.5 trillion valuation — more than double Nvidia's $4.7 trillion. The lone skeptic, MoffettNathanson, held neutral at $131 (about 18% downside from the prior close) and called SpaceX's roughly $30 trillion market-opportunity estimate \"absurd,\" per CNBC.\n\nBarron's drew the comparison directly against Tesla: while SpaceX's new coverage is almost uniformly Buy, Tesla itself carries only about a 40% Buy-rating share among its own analysts. On valuation multiples, SpaceX trades at roughly 45 times projected 2027 sales versus Tesla's roughly 15 times — making Tesla the relative bargain by that yardstick — but Wall Street is pricing in faster growth for SpaceX, projecting $567 billion in 2031 sales versus Tesla's $307 billion.\n\nThere's an irony in the timing: despite the wave of bullish notes, SpaceX shares have actually slipped below their $135 IPO price, per Yahoo Finance — a gap between glowing ratings and actual trading that shows just how unsettled the valuation debate remains.\n\nSpaceX is a separate company, but it absorbs a large share of Musk's net worth and attention, so Tesla shareholders keep tabs on it too. A price-target range running from $131 (MoffettNathanson) to $800 (Raymond James) shows just how far apart Wall Street's views on SpaceX still are.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-shares-win-early-bullish-calls-from-wall-street-brokers",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Bloomberg",
-        "CNBC",
-        "Barron's",
-        "Reuters"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-22 23:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-23 02:30 KST 자동 갱신 · 최신순"
 }
