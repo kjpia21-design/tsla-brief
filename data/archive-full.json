@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-22 14:08 UTC · 누적 653건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-22 17:25 UTC · 누적 654건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-22T09:15:22.000Z",
+      "title": "블룸버그, 사이버트럭에 <em>'포드 에드셀' 낙인</em> — 2025년 판매 2만대, 전년比 48% 급감",
+      "hotShort": "사이버트럭 <em>'포드 에드셀' 낙인</em> — 판매 48%↓",
+      "body": "블룸버그가 사이버트럭을 1957년 시장에서 참패한 포드 에드셀에 빗대며 <em>'전기차 시대 최악의 실패작'</em>이 될 수 있다고 짚었다 — 2025년 미국 판매량이 2만237대로 전년(3만9000대) 대비 48% 급감해, 머스크가 공언한 연 25만대 목표의 8%에 그쳤다는 지적이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-sales-cratering-edsel-2026-07-22",
+      "summary": "블룸버그가 22일(현지시간) 게재한 심층 기사에서 테슬라 사이버트럭을 1957년 출시 후 시장에서 참패한 포드의 '에드셀'에 견주며, <em>'전기차 시대 최악의 자동차 실패작'</em>으로 남을 위험이 있다고 짚었다. 2019년 공개 당시 파격적인 디자인과 방탄유리 시연으로 화제를 모았던 사이버트럭이, 출시 2년 만에 판매 급감이라는 상반된 성적표를 받아든 셈이다.\n\n블룸버그에 따르면 사이버트럭의 2025년 미국 판매량은 <em>2만237대</em>로, 전년(3만9000대) 대비 <em>48.1%</em> 감소했다. 이는 미국에서 판매된 전기차 가운데 단일 최대 판매 급감 폭으로 꼽힌다. 일론 머스크는 2019년 공개 행사에서 사이버트럭이 연간 <em>25만대</em> 판매될 것이라 공언한 바 있는데, 2025년 실적은 그 목표치의 8% 수준에 그쳤다.\n\n포드 에드셀은 1957년 출시 당시 연 20만대 판매를 목표로 내걸었지만 실제로는 그 3분의 1에도 못 미치는 판매량을 기록하며 자동차 역사상 최악의 실패 사례로 남았다. 블룸버그는 두 차종 모두 '미래형' 파격 디자인으로 대대적 기대를 모았다가 시장의 외면을 받았다는 공통점을 짚으며, 목표 대비 미달 폭으로는 사이버트럭이 에드셀보다 더 크다고 평가했다.\n\n22일 2분기 실적발표를 앞두고 나온 이 보도는 투자자들에게 민감한 시점의 지적이다. 사이버트럭은 로보택시·옵티머스와 함께 테슬라의 차세대 성장동력으로 홍보돼 왔지만, 정작 양산 볼륨 모델로는 자리잡지 못하고 있다는 점을 재확인시킨다. 다만 테슬라 매출에서 사이버트럭이 차지하는 비중 자체는 모델3·Y에 비해 작아, 이번 판매 부진이 곧바로 전체 실적에 미치는 영향은 제한적이라는 시각도 있다.",
+      "title_en": "Bloomberg brands Cybertruck the <em>'Ford Edsel of the EV era'</em> — 2025 sales crash 48% to 20,237",
+      "hotShort_en": "Cybertruck evokes <em>Ford Edsel comparisons</em>",
+      "body_en": "Bloomberg likened the Cybertruck to Ford's <em>Edsel</em>, the industry's textbook flop, after 2025 U.S. sales fell 48.1% to just 20,237 units — a fraction of the 250,000-a-year Musk once promised, landing one day before Tesla's Q2 earnings call.",
+      "summary_en": "In a feature published July 22, Bloomberg compared the Cybertruck to Ford's Edsel — the car whose name became shorthand for automotive failure after its disastrous 1957 launch — warning Tesla's angular pickup risks going down as <em>the biggest automotive flop of the EV era</em>. It's a sharp reversal from 2019, when the truck's radical design and bulletproof-glass demo made it an instant sensation.\n\nAccording to Bloomberg, Cybertruck's 2025 U.S. sales came in at <em>20,237</em> units, down <em>48.1%</em> from 39,000 the year before — the single steepest sales decline of any EV sold in the U.S. Musk had told the truck's 2019 unveiling crowd to expect <em>250,000</em> deliveries a year; 2025's total came in at just 8% of that target.\n\nFord's Edsel aimed for 200,000 annual sales when it launched in 1957 but managed less than a third of that, cementing its place as one of the industry's most infamous failures. Bloomberg noted both vehicles drew huge hype for futuristic styling before the market rejected them — and argued Cybertruck's miss against its own target is proportionally worse than Edsel's.\n\nThe comparison lands one day before Tesla's Q2 earnings call, a pointed reminder that Cybertruck — pitched alongside Robotaxi and Optimus as a pillar of Tesla's next growth phase — has yet to become a volume seller. Some analysts note Cybertruck's share of Tesla's overall revenue remains small next to Model 3 and Model Y, limiting the near-term hit to results even as the narrative sting persists.",
+      "href": "https://www.bloomberg.com/news/features/2026-07-22/tesla-cybertruck-risks-becoming-the-ford-edsel-of-the-ev-era",
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
