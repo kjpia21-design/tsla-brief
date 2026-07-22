@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-07-22 21:14 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-22 21:41 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "9m ago",
+      "pubDate": "2026-07-22T21:32:03.000Z",
+      "title": "Tesla Profit Misses Estimates as Elon Musk Looks Beyond the Car Business",
+      "body": "Tesla Profit Misses Estimates as Elon Musk Looks Beyond the Car Business Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/newsletters/2026-07-22/tesla-profit-misses-estimates-as-elon-musk-looks-beyond-the-car-business"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7m ago",
+      "time": "22m ago",
+      "pubDate": "2026-07-22T21:19:19.000Z",
+      "title": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more",
+      "body": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "34m ago",
       "pubDate": "2026-07-22T21:07:56.000Z",
       "title": "Stock Movers: Alphabet, Tesla, IBM",
       "body": "Stock Movers: Alphabet, Tesla, IBM Bloomberg.com",
@@ -17,7 +43,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "19m ago",
+      "time": "45m ago",
       "pubDate": "2026-07-22T20:56:01.000Z",
       "title": "Tesla says ‘Robotaxi’ is expanding — its own chart shows it’s not",
       "body": "Tesla told shareholders this week that its Robotaxi service is expanding. The company’s own chart proves it isn’t. In its Q2 2026 update, Tesla leaned on a cumulative “paid Robotaxi miles” chart climbing past 2.4 million…",
@@ -30,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "35m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-22T20:39:16.000Z",
       "title": "Tesla posts cash burn as spending on AI and robotaxis surges",
       "body": "Tesla posts cash burn as spending on AI and robotaxis surges Reuters",
@@ -43,7 +69,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "55m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-22T20:20:00.000Z",
       "title": "Tesla’s Second-Quarter Revenue Surged Amid $5.8 Billion Spend in AI, Robotics",
       "body": "Tesla’s Second-Quarter Revenue Surged Amid $5.8 Billion Spend in AI, Robotics WSJ",
@@ -54,22 +80,9 @@
       "href": "https://www.wsj.com/business/autos/tesla-tsla-q2-earnings-report-2026-stock-2c5f5a41"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "56m ago",
-      "pubDate": "2026-07-22T20:19:05.000Z",
-      "title": "Tesla shares slide on mixed Q2 results",
-      "body": "Tesla shares slide on mixed Q2 results CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/video/2026/07/22/tesla-shares-slide-on-mixed-q2-results.html"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "57m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-22T20:17:46.000Z",
       "title": "Tesla’s revenues are bouncing back, but profits are still weak",
       "body": "Tesla’s revenues are bouncing back, but profits are still weak The Verge",
@@ -82,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "59m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-22T20:15:17.000Z",
       "title": "Tesla Profit Falls Even as Car Sales Rebound",
       "body": "Tesla Profit Falls Even as Car Sales Rebound The New York Times",
@@ -95,7 +108,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-07-22T20:06:58.000Z",
       "title": "Tesla Second-Quarter Earnings Miss Wall Street’s Expectations",
       "body": "Tesla Second-Quarter Earnings Miss Wall Street’s Expectations Bloomberg.com",
@@ -147,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-22T18:08:09.000Z",
       "title": "France won’t approve Tesla ‘FSD’ yet, wants EU-wide sign-off first",
       "body": "France’s Transport Minister, Philippe Tabarot, says the country won’t authorize Tesla’s “Full Self-Driving” (Supervised) “as it currently stands,” pointing to two safety problems: the system lets drivers speed, and it do…",
@@ -158,6 +171,19 @@
       "href": "https://electrek.co/2026/07/22/france-tesla-fsd-approval-tabarot-speeding/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "5h ago",
+      "pubDate": "2026-07-22T17:02:39.000Z",
+      "title": "Tesla Autopilot and FSD crashes hit record 207 in a single month",
+      "body": "Tesla reported 207 crashes involving its driver-assist systems in a single month — the most it has ever logged. The figure comes from Tesla’s own crash reports to the National Highway Traffic Safety Administration (NHTSA…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/07/22/tesla-adas-crashes-record-207-one-month/"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "6h ago",
@@ -165,19 +191,6 @@
       "title": "Tesla starts preparing for Optimus in its smartphone app",
       "body": "Tesla starts preparing for Optimus in its smartphone app Teslarati",
       "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-starts-preparing-optimus-smartphone-app/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-22T15:26:21.000Z",
-      "title": "Tesla starts preparing for Optimus in its smartphone app",
-      "body": "Tesla is starting to prepare for the launch of the Optimus robot in its smartphone app, new coding strings show. Elon Musk has referred to Optimus as what will be the greatest-selling product of any kind of all time, and…",
-      "sourceName": "www.teslarati.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -199,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-22T11:58:01.000Z",
       "title": "S&P 500 Fluctuates as Traders Brace for Alphabet, Tesla Results",
       "body": "S&P 500 Fluctuates as Traders Brace for Alphabet, Tesla Results Bloomberg.com",
@@ -212,19 +225,6 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-07-22T09:30:00.000Z",
-      "title": "See How Tesla’s Market Value Eclipses All the Other Automakers",
-      "body": "See How Tesla’s Market Value Eclipses All the Other Automakers WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/see-how-teslas-market-value-eclipses-all-the-other-automakers-59be3b37"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
       "time": "12h ago",
       "pubDate": "2026-07-22T09:30:00.000Z",
       "title": "See How Tesla’s Market Value Eclipses All the Other Automakers",
