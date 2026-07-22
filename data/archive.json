@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "just now",
+      "pubDate": "2026-07-22T09:15:22.000Z",
+      "title": "블룸버그, 사이버트럭에 <em>'포드 에드셀' 낙인</em> — 2025년 판매 2만대, 전년比 48% 급감",
+      "hotShort": "사이버트럭 <em>'포드 에드셀' 낙인</em> — 판매 48%↓",
+      "body": "블룸버그가 사이버트럭을 1957년 시장에서 참패한 포드 에드셀에 빗대며 <em>'전기차 시대 최악의 실패작'</em>이 될 수 있다고 짚었다 — 2025년 미국 판매량이 2만237대로 전년(3만9000대) 대비 48% 급감해, 머스크가 공언한 연 25만대 목표의 8%에 그쳤다는 지적이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-sales-cratering-edsel-2026-07-22",
+      "summary": "블룸버그가 22일(현지시간) 게재한 심층 기사에서 테슬라 사이버트럭을 1957년 출시 후 시장에서 참패한 포드의 '에드셀'에 견주며, <em>'전기차 시대 최악의 자동차 실패작'</em>으로 남을 위험이 있다고 짚었다. 2019년 공개 당시 파격적인 디자인과 방탄유리 시연으로 화제를 모았던 사이버트럭이, 출시 2년 만에 판매 급감이라는 상반된 성적표를 받아든 셈이다.\n\n블룸버그에 따르면 사이버트럭의 2025년 미국 판매량은 <em>2만237대</em>로, 전년(3만9000대) 대비 <em>48.1%</em> 감소했다. 이는 미국에서 판매된 전기차 가운데 단일 최대 판매 급감 폭으로 꼽힌다. 일론 머스크는 2019년 공개 행사에서 사이버트럭이 연간 <em>25만대</em> 판매될 것이라 공언한 바 있는데, 2025년 실적은 그 목표치의 8% 수준에 그쳤다.\n\n포드 에드셀은 1957년 출시 당시 연 20만대 판매를 목표로 내걸었지만 실제로는 그 3분의 1에도 못 미치는 판매량을 기록하며 자동차 역사상 최악의 실패 사례로 남았다. 블룸버그는 두 차종 모두 '미래형' 파격 디자인으로 대대적 기대를 모았다가 시장의 외면을 받았다는 공통점을 짚으며, 목표 대비 미달 폭으로는 사이버트럭이 에드셀보다 더 크다고 평가했다.\n\n22일 2분기 실적발표를 앞두고 나온 이 보도는 투자자들에게 민감한 시점의 지적이다. 사이버트럭은 로보택시·옵티머스와 함께 테슬라의 차세대 성장동력으로 홍보돼 왔지만, 정작 양산 볼륨 모델로는 자리잡지 못하고 있다는 점을 재확인시킨다. 다만 테슬라 매출에서 사이버트럭이 차지하는 비중 자체는 모델3·Y에 비해 작아, 이번 판매 부진이 곧바로 전체 실적에 미치는 영향은 제한적이라는 시각도 있다.",
+      "title_en": "Bloomberg brands Cybertruck the <em>'Ford Edsel of the EV era'</em> — 2025 sales crash 48% to 20,237",
+      "hotShort_en": "Cybertruck evokes <em>Ford Edsel comparisons</em>",
+      "body_en": "Bloomberg likened the Cybertruck to Ford's <em>Edsel</em>, the industry's textbook flop, after 2025 U.S. sales fell 48.1% to just 20,237 units — a fraction of the 250,000-a-year Musk once promised, landing one day before Tesla's Q2 earnings call.",
+      "summary_en": "In a feature published July 22, Bloomberg compared the Cybertruck to Ford's Edsel — the car whose name became shorthand for automotive failure after its disastrous 1957 launch — warning Tesla's angular pickup risks going down as <em>the biggest automotive flop of the EV era</em>. It's a sharp reversal from 2019, when the truck's radical design and bulletproof-glass demo made it an instant sensation.\n\nAccording to Bloomberg, Cybertruck's 2025 U.S. sales came in at <em>20,237</em> units, down <em>48.1%</em> from 39,000 the year before — the single steepest sales decline of any EV sold in the U.S. Musk had told the truck's 2019 unveiling crowd to expect <em>250,000</em> deliveries a year; 2025's total came in at just 8% of that target.\n\nFord's Edsel aimed for 200,000 annual sales when it launched in 1957 but managed less than a third of that, cementing its place as one of the industry's most infamous failures. Bloomberg noted both vehicles drew huge hype for futuristic styling before the market rejected them — and argued Cybertruck's miss against its own target is proportionally worse than Edsel's.\n\nThe comparison lands one day before Tesla's Q2 earnings call, a pointed reminder that Cybertruck — pitched alongside Robotaxi and Optimus as a pillar of Tesla's next growth phase — has yet to become a volume seller. Some analysts note Cybertruck's share of Tesla's overall revenue remains small next to Model 3 and Model Y, limiting the near-term hit to results even as the narrative sting persists.",
+      "href": "https://www.bloomberg.com/news/features/2026-07-22/tesla-cybertruck-risks-becoming-the-ford-edsel-of-the-ev-era",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
@@ -2370,32 +2390,7 @@
       ],
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-07T19:29:40.000Z",
-      "title": "테슬라 앱, <em>FSD 작동 실시간 표시</em> 추가 — 로보택시 오너십에 힘 실어",
-      "hotShort": "테슬라 앱에 <em>FSD 실시간 표시</em> 기능 추가",
-      "body": "테슬라가 앱 4.58.5 업데이트로 차량이 FSD로 주행 중임을 파란색 라벨과 빛나는 경로로 실시간 표시하는 기능을 추가했다 — 차량 소프트웨어 2026.20.6.1(전체 차량의 약 40% 보급)이 필요하며 구형 HW3 차량에서도 확인돼, 로보택시로 수익을 내는 오너가 자기 차의 자율주행 여부를 원격으로 확인할 수 있는 '차량판 대시보드'가 생긴 셈이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-app-status-indicator-2026-07-07",
-      "summary": "테슬라 앱이 차량이 FSD(완전자율주행)로 주행 중일 때 이를 실시간으로 알려주는 기능을 새로 얻었다. X 이용자 조던 카미나가 처음 포착해 공유한 영상에서, 하드웨어3(HW3) 모델S가 앱 화면에 파란색 '자율주행 중' 라벨과 함께 빛나는 주행 경로 애니메이션을 띄우는 모습이 확인됐다.\n\n이 기능이 신형 HW4 차량뿐 아니라 구형 HW3 차량에서도 작동한다는 점이 눈에 띈다. 차량 쪽에는 소프트웨어 버전 2026.20.6.1이 필요하며, Not a Tesla App 집계 기준 현재 전체 차량 대의 약 40%까지 보급된 상태다. 테슬라는 이후 앱·차량 소프트웨어가 모두 갱신되면 칩 세대와 무관하게 모든 차량으로 확대 지원할 계획이라고 밝혔다.\n\n이 표시가 특히 로보택시 맥락에서 의미가 크다. 자기 차를 로보택시 네트워크에 등록해 주행 수익을 얻는 오너 입장에서는, 차가 지금 자율주행 중인지 아닌지를 직접적인 금전·안전 이해관계로 알아야 한다. 물류회사가 배송기사의 경로 준수 여부를 모니터링하듯, 이 표시는 오너에게 '내 차가 지금 돈을 벌고 있는지, 스스로 운전해서 벌고 있는지, 정상 작동 중인지'를 어디서든 확인할 수 있는 사실상의 차량판 플릿 관리 대시보드를 제공한다.\n\n로보택시 사업이 아직 안전성 검증·규제 승인 단계에 머물러 있는 가운데(같은 날 보도된 사이버캡 생산 지연 기사 참고), 이런 소프트웨어 차원의 투명성 강화는 오너 신뢰를 다지고 향후 자가 차량의 로보택시 편입을 늘리는 데 실질적으로 기여할 수 있는 요소다.",
-      "title_en": "Tesla app adds <em>real-time FSD status indicator</em>, boosting the case for Robotaxi ownership",
-      "hotShort_en": "Tesla app gets <em>live FSD status</em> indicator",
-      "body_en": "Tesla's 4.58.5 app update adds a real-time indicator — a blue label and glowing route animation — that shows when a car is actively driving itself on FSD, requiring vehicle software 2026.20.6.1 (now on roughly 40% of the fleet) and working even on older HW3 cars, effectively giving owners earning Robotaxi revenue a remote dashboard for their car's autonomy status.",
-      "summary_en": "The Tesla app has a new feature: a real-time indicator that shows when a car is actively driving itself on FSD. X user Jordan Camina first spotted and shared video of a Hardware 3 Model S displaying a blue 'Self-Driving' label with a glowing route animation on the app's vehicle card.\n\nNotably, the feature works on older HW3 vehicles, not just newer HW4 cars. It requires vehicle software version 2026.20.6.1, which per Not a Tesla App's tracking has reached roughly 40% of the fleet so far. Tesla says it plans to eventually extend support to all vehicles regardless of chip generation once both app and vehicle software are updated fleet-wide.\n\nThe indicator matters most in a Robotaxi context. An owner whose car is enrolled in the Robotaxi network has a direct financial and safety stake in knowing whether their vehicle is under autonomous control at any given moment. Much like a logistics company tracking whether a delivery driver is following the planned route, the update turns the app into a de facto fleet-management dashboard — telling owners whether their car is earning money, driving itself to do it, and operating as expected, from wherever they happen to be.\n\nWith Robotaxi still working through safety validation and regulatory approval (see the same day's report on Cybercab production outpacing autonomy), this kind of software-side transparency could help build owner trust and support broader enrollment of personal vehicles into the Robotaxi fleet down the line.",
-      "href": "https://www.teslarati.com/tesla-app-update-sefl-driving-robotaxi/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Not a Tesla App"
-      ],
-      "sentiment": "bull",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-22 16:08 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-22 23:20 KST 자동 갱신 · 최신순"
 }
