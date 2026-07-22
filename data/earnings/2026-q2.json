@@ -1,21 +1,152 @@
 {
   "slug": "2026-q2",
   "quarter": "Q2 2026",
-  "status": "upcoming",
+  "status": "live",
   "callDate": "2026-07-22",
   "callTimeKst": "2026-07-23T06:30:00+09:00",
   "webcast": "https://ir.tesla.com",
-  "deckUrl": "",
-  "verdict": "",
-  "prTitle": "",
-  "prTitle_en": "",
-  "lead": "테슬라가 미국 시간 7월 22일 장 마감 후(한국시간 23일 오전 6시 30분) 2026년 2분기 실적을 발표한다. 인도량 480,126대와 에너지 저장 13.5GWh로 '역대 최고 2분기'를 이미 확인시킨 만큼, 이번 콜의 초점은 물량이 마진과 현금흐름으로 이어졌는지, 그리고 3개 분기 연속 가이던스를 놓친 로보택시와 옵티머스 로드맵의 신뢰 회복 여부다. Say 사전 질문 약 300건의 무게중심도 '비전'이 아니라 '왜 일정대로 안 되나'로 옮겨갔다.",
-  "lead_en": "Tesla reports Q2 2026 results after the U.S. close on July 22 (6:30 a.m. KST on July 23). With a record 480,126 deliveries and 13.5 GWh of energy storage already confirming its best-ever second quarter, the call comes down to whether volume translated into margins and cash flow — and whether Tesla can restore credibility on a robotaxi program that has missed guidance three quarters running, plus the Optimus roadmap. The center of gravity of roughly 300 pre-submitted Say questions has shifted from 'the vision' to 'why is none of it on schedule.'",
-  "kpis": [],
-  "segments": [],
-  "quotes": [],
-  "guidance": [],
-  "marketReaction": { "afterHours": "", "nextClose": "", "body": "", "body_en": "" },
+  "deckUrl": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf",
+  "verdict": "mixed",
+  "prTitle": "매출 신기록에도 이익 급감 — 테슬라 Q2, 'AI 투자 청구서'가 날아왔다",
+  "prTitle_en": "Record revenue, collapsing profit — Tesla's Q2 delivers the AI capex bill",
+  "lead": "테슬라가 2분기 매출 $28.24B(+26% YoY)로 사상 최대치를 기록하며 컨센서스($27.58B)를 상회했지만, 조정 EPS는 $0.33에 그쳐 예상치($0.55)를 크게 밑돌았다. AI·로보택시·옵티머스 투자로 설비투자가 $5.79B(+142%)로 급증하며 잉여현금흐름은 -$1.09B로 적자 전환했고 영업이익은 57% 급감했다. 어닝콜은 로보택시 확장과 옵티머스 양산 준비에 집중됐으며, 주가는 시간외 거래에서 약 3% 하락했다.",
+  "lead_en": "Tesla posted record Q2 revenue of $28.24B (+26% YoY), beating the $27.58B consensus, but adjusted EPS of $0.33 fell far short of the $0.55 expected. Capex surged 142% to $5.79B on AI, Robotaxi and Optimus investments, flipping free cash flow to negative $1.09B as operating income plunged 57%. The call centered on Robotaxi expansion and Optimus production prep, and shares slipped about 3% after hours.",
+  "kpis": [
+    {
+      "key": "revenue",
+      "label": "총매출",
+      "label_en": "Total revenue",
+      "value": "$28.24B",
+      "consensus": "$27.58B",
+      "vsConsensus": "+2.4%",
+      "yoy": "+26%",
+      "beat": true
+    },
+    {
+      "key": "eps",
+      "label": "조정 EPS (비GAAP)",
+      "label_en": "Adjusted EPS (non-GAAP)",
+      "value": "$0.33",
+      "consensus": "$0.55 (LSEG $0.51)",
+      "vsConsensus": "-40%",
+      "yoy": "-18%",
+      "beat": false
+    },
+    {
+      "key": "autoMargin",
+      "label": "자동차 매출총이익률 (규제 크레딧 제외)",
+      "label_en": "Auto gross margin (ex-credits)",
+      "value": "16.3%",
+      "consensus": "",
+      "vsConsensus": "",
+      "yoy": "+130bp (15.0%→16.3%)",
+      "beat": true
+    },
+    {
+      "key": "energyStorage",
+      "label": "에너지 저장 배치",
+      "label_en": "Energy storage deployed",
+      "value": "13.5 GWh",
+      "consensus": "",
+      "vsConsensus": "",
+      "yoy": "+41%",
+      "beat": true
+    },
+    {
+      "key": "opIncome",
+      "label": "영업이익 (영업이익률 1.4%)",
+      "label_en": "Operating income (1.4% margin)",
+      "value": "$398M",
+      "consensus": "",
+      "vsConsensus": "",
+      "yoy": "-57%",
+      "beat": false
+    },
+    {
+      "key": "fcf",
+      "label": "잉여현금흐름 (현금 $43.5B)",
+      "label_en": "Free cash flow (cash $43.5B)",
+      "value": "-$1.09B",
+      "consensus": "",
+      "vsConsensus": "",
+      "yoy": "전년 +$146M → 적자 전환",
+      "beat": false
+    }
+  ],
+  "segments": [
+    {
+      "title": "자동차 — 기록적 인도, 얇아진 마진",
+      "title_en": "Automotive — record deliveries, thinner margins",
+      "body": "2분기 차량 인도는 480,126대(+25% YoY)로 분기 기준 역대 2분기 최대를 기록했고, 자동차 매출은 $20.52B(+23%)로 늘었다. 한국·일본·호주·대만 등 11개 시장에서 분기 인도 신기록을 세웠고, 7월에는 모델 YL을 미국 시장에 출시했다.\n\n규제 크레딧 매출은 $146M로 전년 대비 67% 급감했고, 평균판매가격(ASP) 하락이 이어졌다. 크레딧 제외 자동차 매출총이익률은 16.3%로 전년(15.0%) 대비 개선됐지만 직전 분기(19.2%)보다는 크게 낮아졌다.",
+      "body_en": "Q2 deliveries hit 480,126 (+25% YoY), Tesla's best-ever second quarter, with automotive revenue up 23% to $20.52B. The company set quarterly delivery records in 11 markets including South Korea, Japan, Australia and Taiwan, and launched Model YL in the U.S. in July.\n\nRegulatory credit revenue collapsed 67% to $146M and average selling prices kept declining. Auto gross margin excluding credits came in at 16.3% — up from 15.0% a year ago but well below Q1's 19.2%."
+    },
+    {
+      "title": "에너지 — 성장 복귀, 보증 충당이 마진 훼손",
+      "title_en": "Energy — back to growth, warranty charge dents margin",
+      "body": "에너지 저장 배치는 13.5 GWh(+41% YoY)로 역대 2위 분기 기록을 세우며 성장세로 복귀했고, 매출은 $3.14B(+13%)를 기록했다. 메가팩토리 상하이가 램프를 이어가며 EMEA 배치 신기록을 견인했다.\n\n다만 벤더 셀 결함에 따른 보증 관련 충당이 늘며 에너지 부문 수익성이 눌렸다. 메가팩토리 텍사스는 완공이 임박했으며, 메가팩 3와 메가블록은 연내 생산 개시 일정을 유지했다.",
+      "body_en": "Energy storage deployments returned to growth at 13.5 GWh (+41% YoY), the second-best quarter ever, with revenue of $3.14B (+13%). Megafactory Shanghai's continuing ramp drove record deployments in EMEA.\n\nProfitability was pressured, however, by higher warranty-related charges tied to a vendor cell issue. Megafactory Texas is nearing completion, and Megapack 3 and Megablock remain on schedule for production this year."
+    },
+    {
+      "title": "AI·로보택시·옵티머스 — 확장은 진행형, 숫자는 아직",
+      "title_en": "AI, Robotaxi & Optimus — expansion underway, numbers pending",
+      "body": "로보택시는 7월 마이애미·올랜도·탬파 무감독 운행 개시로 미국 7개 대도시권에서 서비스 중이며, 피닉스·라스베이거스 진출을 준비하고 있다. 사이버캡은 기가팩토리 텍사스에서 생산이 시작돼 공공도로 테스트 주행과 직원 대상 탑승이 진행 중이다.\n\n옵티머스는 프리몬트 공장의 모델 S·X 라인을 철거한 자리에 1세대 생산 라인을 설치 중으로 연내 생산 개시가 목표이며, 초기 물량은 고객 인도가 아닌 훈련 데이터 수집용이다. FSD 유료 구독은 148만 건(+56%)으로 늘었고 북미 신차 FSD 부착률은 55%를 넘었다.",
+      "body_en": "Robotaxi is now live in seven major U.S. metros after unsupervised rides launched in Miami, Orlando and Tampa in July, with Phoenix and Las Vegas in preparation. Cybercab production has begun at Gigafactory Texas, with public-road engineering test drives and employee rides underway.\n\nOptimus first-generation lines are being installed at Fremont where the Model S/X lines were decommissioned, targeting production later this year — initial builds are for training data collection, not customer delivery. Paid FSD subscriptions grew 56% to 1.48 million, with North American attach rates topping 55%."
+    }
+  ],
+  "quotes": [
+    {
+      "who": "일론 머스크",
+      "who_en": "Elon Musk",
+      "topic": "옵티머스 양산",
+      "topic_en": "Optimus manufacturing",
+      "text": "옵티머스는 테슬라가 지금껏 만든 것 중 제조 스케일링이 가장 어려운 제품이 될 것이다. 로봇의 모든 것이 새롭기 때문이며, 기존 공급망이라는 것이 존재하지 않는다.",
+      "text_en": "This is going to be the hardest product to scale manufacturing that we've ever made at Tesla, because everything on the robot is new — and there is no existing supply chain."
+    },
+    {
+      "who": "일론 머스크",
+      "who_en": "Elon Musk",
+      "topic": "로보택시 안전",
+      "topic_en": "Robotaxi safety",
+      "text": "사고나 부상을 일으키지 않도록 신중해야 한다. 단 한 명이라도 다치게 하면 전 세계 헤드라인 뉴스가 될 것이고, 규제 당국은 즉시 우리 활동을 옥죌 것이다.",
+      "text_en": "We need to be cautious about causing any accidents or causing any harm to anyone. If we injure even one person, it will be worldwide headline news, and regulators will immediately clamp down on our activities."
+    },
+    {
+      "who": "바이바브 타네자 CFO",
+      "who_en": "CFO Vaibhav Taneja",
+      "topic": "비용 전망",
+      "topic_en": "Cost outlook",
+      "text": "영업비용은 2026년과 그 이후에도 계속 늘어날 것이며, 원자재 가격 상승과 금리 변동이 비용 부담을 더할 것이다.",
+      "text_en": "Operating expenditures will grow in 2026 and beyond, with commodity price increases and interest rate changes continuing to add to costs."
+    }
+  ],
+  "guidance": [
+    {
+      "text": "시간이 지나며 하드웨어 이익에 AI·소프트웨어·플릿 기반 이익의 가속이 동반될 것으로 기대한다고 밝혔다.",
+      "text_en": "Over time, Tesla expects hardware-related profits to be accompanied by an acceleration of AI, software and fleet-based profits."
+    },
+    {
+      "text": "테슬라 세미와 메가팩 3는 2026년 생산 개시 일정을 유지했고, 옵티머스 1세대 라인은 연내 생산을 목표로 설치 중이라고 확인했다.",
+      "text_en": "Tesla Semi and Megapack 3 remain on schedule for production start in 2026, and first-generation Optimus lines are being installed in anticipation of production this year."
+    },
+    {
+      "text": "배터리 팩 캐파가 글로벌 차량 증산의 최대 제약 요인이라며, 베를린 팩 캐파·텍사스 양극재·리튬 정제·네바다 LFP 등 증설을 지속한다고 밝혔다.",
+      "text_en": "Battery pack capacity remains the main limiting factor on ramping vehicle production globally; expansion continues across Berlin pack capacity, Texas cathode and lithium refining, and Nevada LFP cells."
+    },
+    {
+      "text": "공장 최대 가동률에 집중하되, 인도·배치 물량은 총수요·공급망 준비도, 그리고 고객 판매와 자사 로보택시 플릿 투입 간 배분 결정에 좌우될 것이라고 했다.",
+      "text_en": "Tesla is focused on maximum capacity utilization, with deliveries and deployments to be shaped by aggregate demand, supply chain readiness, and allocation decisions between customer sales and its owned-and-operated fleet."
+    },
+    {
+      "text": "AI 컴퓨트·태양광·배터리 소재·반도체 제조 등 다개년 인프라 투자의 캐파 구축과 램프가 진행 중이며, 영업비용 증가 기조도 이어질 것이라고 밝혔다.",
+      "text_en": "Capacity buildout and ramp of multi-year infrastructure initiatives — AI compute, solar, battery materials and semiconductor manufacturing — are underway, with operating expenses set to keep rising."
+    }
+  ],
+  "marketReaction": {
+    "afterHours": "-3%",
+    "nextClose": "",
+    "body": "실적 발표 직후 시간외 거래에서 주가는 약 3% 하락했다. 매출 신기록에도 EPS 대폭 미스, 잉여현금흐름 적자 전환, 사이버캡 플릿 투입 시점 미제시가 부담으로 작용했다.",
+    "body_en": "Shares slipped about 3% in after-hours trading. Despite record revenue, the steep EPS miss, negative free cash flow and the lack of a Cybercab fleet-deployment timeline weighed on the stock."
+  },
   "watchPoints": [
     {
       "text": "인도량 서프라이즈의 손익 반영 — 7월 2일 발표된 2분기 인도량은 480,126대로 컨센서스(약 40만6천 대)를 7만4천 대 이상 웃돌며 역대 최고 2분기를 기록(+25% YoY). 다만 생산은 451,758대로 인도를 밑돌아 재고 소진 성격이 있어, 물량 급증이 매출총이익률로 얼마나 이어졌는지가 핵심이다.",
@@ -94,12 +225,68 @@
     "note_en": "Per the company-compiled consensus of 23 firms (Barclays, BofA, JPMorgan, Morgan Stanley and others) published via Tesla IR, adjusted EPS of $0.55 on revenue of $27.58B — up from $0.52 and $25.5B a year ago. The Zacks consensus sits lower at $0.47 EPS and $24.7B revenue, reflecting spread across providers (as of mid-July)."
   },
   "sources": [
-    { "name": "Tesla IR (웹캐스트·실적 공지)", "name_en": "Tesla IR (webcast & earnings notice)", "href": "https://ir.tesla.com" },
-    { "name": "Say — Tesla 주주 질문 페이지", "name_en": "Say — Tesla shareholder Q&A page", "href": "https://app.say.com/tesla" },
-    { "name": "Not a Tesla App — Q2 2026 애널리스트 컨센서스", "name_en": "Not a Tesla App — Q2 2026 analyst consensus", "href": "https://www.notateslaapp.com/news/4458/tesla-releases-q2-2026-earnings-estimates-from-analysts" },
-    { "name": "Electrek — Q2 2026 주주 사전 질문 분석", "name_en": "Electrek — Q2 2026 shareholder questions analysis", "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/" },
-    { "name": "Benzinga — 상위 투자자 질문 정리", "name_en": "Benzinga — top investor questions roundup", "href": "https://www.benzinga.com/markets/tech/26/07/60488913/tesla-q2-earnings-elon-musks-pay-package-cybercab-and-optimus-lead-top-investor-questions" },
-    { "name": "CNBC — Q2 2026 인도·생산 실적", "name_en": "CNBC — Q2 2026 delivery & production report", "href": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html" }
+    {
+      "name": "테슬라 Q2 2026 주주서한 (공식)",
+      "name_en": "Tesla Q2 2026 Update (official)",
+      "href": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf"
+    },
+    {
+      "name": "SEC 8-K 공시 (2026-07-22)",
+      "name_en": "SEC Form 8-K filing (Jul 22, 2026)",
+      "href": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/exhibit991.htm"
+    },
+    {
+      "name": "CNBC — Q2 2026 실적 보도",
+      "name_en": "CNBC — Q2 2026 earnings report",
+      "href": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html"
+    },
+    {
+      "name": "일렉트렉 — Q2 2026 실적 발표",
+      "name_en": "Electrek — Tesla releases Q2 2026 financial results",
+      "href": "https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/"
+    },
+    {
+      "name": "스톡타이탄 — 실적 보도자료 정리",
+      "name_en": "StockTitan — earnings release coverage",
+      "href": "https://www.stocktitan.net/news/TSLA/tesla-releases-second-quarter-2026-financial-opf5vkit2vhk.html"
+    },
+    {
+      "name": "Say — Tesla 주주 질문 페이지",
+      "name_en": "Say — Tesla shareholder Q&A page",
+      "href": "https://app.say.com/tesla"
+    }
   ],
-  "updatedAt": "2026-07-18T16:00:00+09:00"
+  "updatedAt": "2026-07-23T07:55:00+09:00",
+  "analysis": [
+    {
+      "title": "실적의 질 — 순이익 $1.1B의 절반 이상이 '스페이스X 평가익'",
+      "title_en": "Earnings quality — over half of the $1.1B net income is a SpaceX paper gain",
+      "body": "이번 분기 GAAP 순이익 $1.11B에는 1분기에 취득한 스페이스X 지분의 미실현 평가익 $1.0B(세후 $763M)와 일회성 세금 효과 $274M이 포함돼 있다. 이를 걷어내면 본업의 이익 체력은 영업이익 $398M, 영업이익률 1.4%라는 숫자가 정직하게 보여준다 — 전년 4.1%에서 269bp 급락한 수치다.\n\n이익 훼손의 주범은 매출이 아니라 비용이다. AI·R&D와 주식보상(2025 CEO 성과보상 포함)이 밀어올린 영업비용이 $4.35B(+47%)로 불어났고, 규제 크레딧은 $146M로 쪼그라들었다. 매출 $28.24B 신기록과 EPS 40% 미스가 공존하는 이번 성적표는, 테슬라가 손익계산서를 'AI 전환 비용'에 담보로 잡힌 국면임을 보여준다.",
+      "body_en": "This quarter's $1.11B GAAP net income includes a $1.0B unrealized gain ($763M after tax) on the SpaceX stake acquired in Q1, plus $274M of one-off tax items. Strip those out and the honest picture of core earnings power is $398M in operating income at a 1.4% margin — down 269bp from 4.1% a year ago.\n\nThe culprit is cost, not revenue. Operating expenses ballooned 47% to $4.35B on AI/R&D spending and stock-based compensation (including the 2025 CEO award), while regulatory credits shriveled to $146M. A quarter that pairs record $28.24B revenue with a 40% EPS miss shows Tesla has mortgaged its income statement to the cost of its AI transition."
+    },
+    {
+      "title": "자동차 — 물량은 증명했지만 가격은 여전히 내리막",
+      "title_en": "Automotive — volume proven, pricing still sliding",
+      "body": "인도 480,126대는 역대 2분기 최고 기록이며, 관세 부담 완화로 대당 원가가 내려가면서 크레딧 제외 자동차 마진은 16.3%로 전년 대비 130bp 개선됐다. 물량 회복과 원가 통제라는 두 축은 분명히 작동했다.\n\n그러나 방향이 문제다. 직전 분기 19.2%였던 크레딧 제외 마진이 한 분기 만에 290bp 하락했고, 회사 스스로 ASP 하락을 마이너스 요인으로 명시했다. 크레딧이라는 완충재가 사실상 소멸한 상태에서, 모델 YL 등 신규 라인업이 가격 방어와 물량을 동시에 잡아낼 수 있는지가 하반기 자동차 부문의 핵심 시험대다.",
+      "body_en": "Deliveries of 480,126 set an all-time Q2 record, and with tariff-related per-unit costs easing, ex-credit auto margin improved 130bp YoY to 16.3%. The two levers of volume recovery and cost control clearly worked.\n\nThe direction of travel is the problem: ex-credit margin fell 290bp in a single quarter from Q1's 19.2%, and Tesla itself flagged declining ASPs as a headwind. With the regulatory-credit cushion effectively gone, whether new lineup additions like Model YL can defend pricing while holding volume is the key test for the second half."
+    },
+    {
+      "title": "에너지 — 성장 엔진은 재점화, 수익성엔 균열",
+      "title_en": "Energy — growth engine reignited, profitability cracked",
+      "body": "13.5 GWh 배치는 1분기(8.8 GWh) 부진에서 벗어난 역대 2위 기록으로, 메가팩토리 상하이의 램프와 EMEA 신기록이 견인했다. 12개월 누적 배치도 사상 최대를 기록하며 에너지 부문이 구조적 성장 트랙에 있음을 재확인했다.\n\n다만 벤더 셀 결함에 따른 보증 충당 증가로 이번 분기 수익성은 눌렸다. 회사가 '성장 복귀'를 자축한 것과 별개로, 메가팩 3·메가블록과 텍사스 신공장 램프가 시작되는 하반기에 마진이 기존 30%대 궤도로 복원되는지가 에너지 스토리의 신뢰도를 좌우한다.",
+      "body_en": "Deployments of 13.5 GWh — the second-best quarter ever — snapped Q1's 8.8 GWh slump, driven by Megafactory Shanghai's ramp and record EMEA deployments. Trailing-twelve-month deployments also hit an all-time high, reconfirming energy's structural growth track.\n\nBut warranty charges from a vendor cell issue compressed profitability this quarter. Celebration of the growth rebound aside, whether margins recover to their former ~30% trajectory as Megapack 3, Megablock and the new Texas factory ramp in the second half will determine the credibility of the energy story."
+    },
+    {
+      "title": "현금흐름 — 영업현금 $4.7B의 방어력, capex $5.8B의 공격력",
+      "title_en": "Cash flow — $4.7B operating defense vs $5.8B capex offense",
+      "body": "영업현금흐름은 $4.70B(+85%)로 견조했지만, 설비투자가 $5.79B(+142%)로 치솟으며 잉여현금흐름은 -$1.09B로 적자 전환했다. 분기 말 현금·투자자산은 $43.5B로 전분기 대비 $1.2B 감소했다 — 감소분이 크지 않다는 점은 본업 현금창출력이 투자 사이클을 상당 부분 흡수하고 있음을 뜻한다.\n\n타네자 CFO가 4월 제시한 연간 capex $25B 이상 계획을 감안하면 하반기에도 FCF 적자가 이어질 공산이 크다. AI 컴퓨트·반도체 팹·태양광·배터리 소재까지 수직계열화 전선을 넓힌 만큼, 관건은 $43.5B의 곳간이 아니라 이 투자가 언제 이익으로 돌아오는지의 시점이다.",
+      "body_en": "Operating cash flow was robust at $4.70B (+85%), but capex surging 142% to $5.79B flipped free cash flow to negative $1.09B. Quarter-end cash and investments fell just $1.2B to $43.5B — a modest drawdown that shows core cash generation is absorbing much of the investment cycle.\n\nWith CFO Taneja's April guidance of $25B+ in full-year capex, negative FCF likely persists through the second half. As Tesla widens its vertical-integration front across AI compute, a chip fab, solar and battery materials, the question isn't the $43.5B war chest — it's when these investments start returning profits."
+    },
+    {
+      "title": "AI 실행 점검 — 지도는 넓어졌지만 검증 가능한 숫자는 아직 적다",
+      "title_en": "AI execution check — the map is bigger, verifiable numbers still scarce",
+      "body": "로보택시는 7월 플로리다 3개 도시 무감독 운행 개시로 7개 메트로 체제가 됐고, 사이버캡은 생산 개시·공공도로 테스트·직원 탑승까지 진도를 뺐다. 옵티머스는 프리몬트 라인 설치와 '연내 생산' 목표를 재확인했고, AI 훈련 컴퓨트는 상반기에만 2배 이상으로 늘었다. 실행의 외형은 분명히 확장됐다.\n\n그러나 콜에서 사이버캡의 로보택시 플릿 투입 시점은 제시되지 않았고, 옵티머스 초기 물량은 고객 인도가 아닌 훈련 데이터 수집용이다. 머스크 스스로 '한 명이라도 다치면 규제가 옥죈다'며 속도 조절을 시사한 만큼, 로보택시 매출 기여와 옵티머스 생산 대수라는 검증 가능한 숫자가 나오기 전까지 시장은 1.4% 영업이익률과 AI 서사 사이의 간극을 계속 저울질할 것이다.",
+      "body_en": "Robotaxi reached seven metros after unsupervised launches in three Florida cities in July, and Cybercab progressed through production start, public-road testing and employee rides. Optimus lines are going in at Fremont with production targeted this year, and AI training compute more than doubled in the first half. The footprint of execution has clearly widened.\n\nYet the call offered no timeline for Cybercab joining the Robotaxi fleet, and initial Optimus builds are for training data, not customers. With Musk himself signaling caution — one injury would bring regulators down hard — the market will keep weighing the gap between a 1.4% operating margin and the AI narrative until verifiable numbers arrive: Robotaxi revenue contribution and Optimus units produced."
+    }
+  ]
 }
