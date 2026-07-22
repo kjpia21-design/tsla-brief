@@ -3,6 +3,53 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-07-22T20:56:01.000Z",
+      "title": "테슬라 \"로보택시 확장 중\" 내세운 차트, 뜯어보니 <em>4월 반짝 후 정체</em>",
+      "hotShort": "로보택시 누적차트 이면엔 <em>4월 반짝, 이후 정체</em>",
+      "body": "테슬라가 2분기 실적에서 누적 유료 로보택시 마일리지 240만 마일 돌파 차트로 '확장'을 내세웠지만, 분기 증분으로 쪼개보면 2분기도 1분기와 같은 약 90만 마일 — 그마저 4월에만 약 50만 마일이 몰리고 5·6월은 각 20만 마일대로 꺾였다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-cumulative-chart-flat-2026-07-22",
+      "summary": "22일 발표된 테슬라 2분기 실적 자료에는 로보택시 사업의 모멘텀을 보여주는 그래프가 실렸다 — 누적 유료 마일리지가 우상향하며 240만 마일을 넘어선 차트다. 그러나 Electrek이 같은 데이터를 분기·월 단위로 쪼개 다시 그려보니, 회사가 내세운 '확장'과는 다른 그림이 나왔다.\n\n분기별로 보면 2분기 로보택시가 새로 쌓은 유료 마일리지는 약 90만 마일로, 1분기와 사실상 같은 수준이었다. 월별로 더 쪼개면 격차가 뚜렷해진다 — 4월 한 달에만 약 50만 마일이 몰렸고, 5월과 6월은 각각 약 20만 마일에 그쳐 증가 속도가 눈에 띄게 꺾였다. 4월의 반짝 실적을 빼면, 최근 런레이트는 분기당 약 60만 마일 수준으로 봐야 한다는 게 Electrek의 계산이다.\n\n핵심은 '누적 차트의 함정'이다. 어떤 상황에서도 누적 그래프는 우상향할 수밖에 없어, 분기 내 감속을 가려버린다. 로보택시는 테슬라 밸류에이션의 핵심 근거 중 하나로 꼽히는 만큼, 실제 확장 속도가 둔화되고 있다면 서사에 균열이 생길 수 있는 지점이다.\n\n다만 같은 날 실적 발표에서 테슬라는 2분기 중 댈러스·휴스턴에서 무인 로보택시 서비스를 새로 열고 마이애미까지 지역을 넓혔다고 밝혔다 — 지리적 확장 자체는 계속되고 있지만, 마일리지 총량의 증가 속도는 정체됐다는 것이 이번 지적의 요점이다.",
+      "title_en": "Tesla touted Robotaxi 'expansion' — the same chart, broken down, shows <em>a stall since April</em>",
+      "hotShort_en": "Robotaxi's cumulative chart hides <em>a stall since April</em>",
+      "body_en": "Tesla's Q2 earnings deck touted 'expansion' with a cumulative paid-Robotaxi-miles chart topping 2.4 million — but broken into quarters, Q2's roughly 900,000 new miles matched Q1 exactly, and about 500,000 of those came in April alone, with May and June adding only ~200,000 each.",
+      "summary_en": "Tesla's Q2 2026 earnings materials, released July 22, included a chart meant to show Robotaxi momentum — cumulative paid miles climbing past 2.4 million. But when Electrek re-cut the same underlying data by quarter and by month, a different picture emerged from the one Tesla's 'expanding' framing suggested.\n\nBroken out by quarter, Robotaxi added roughly 900,000 paid miles in Q2 — essentially flat versus Q1. The month-by-month breakdown is more telling: about 500,000 of those miles landed in April alone, while May and June each added only around 200,000. Strip out April's spike, and Electrek's math puts the recent run-rate closer to 600,000 miles per quarter.\n\nThe catch is what cumulative charts hide: they slope upward no matter what's happening quarter to quarter, masking any deceleration within the period. Since Robotaxi is one of the central pillars of Tesla's valuation case, a slowdown in the pace of expansion — even as the cumulative total keeps rising — is the kind of gap that can undercut the narrative.\n\nThe same earnings release did show real geographic expansion: Tesla launched unsupervised (no safety driver) Robotaxi rides in Dallas and Houston during the quarter and extended the service into Miami. The point of the critique isn't that Robotaxi stopped growing — it's that total ride-mile growth has stalled even as new cities come online.",
+      "href": "https://electrek.co/2026/07/22/tesla-robotaxi-growth-flat-own-chart-q2-2026/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-07-22T20:06:58.000Z",
+      "title": "테슬라 2분기 실적 발표 — 매출 <em>$28.2B 사상 최대</em>, EPS는 컨센서스 하회",
+      "hotShort": "매출 사상 최대인데 <em>EPS는 컨센서스 하회</em>",
+      "body": "테슬라 2분기 매출이 $28.2B(전년比 +26%, 컨센서스 $26.3B 상회)로 사상 최대를 기록했지만, 조정 EPS는 $0.33로 컨센서스($0.50)를 크게 하회 — AI·로보택시 투자 확대가 마진을 눌렀다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "22일(현지시간) 장 마감 직후 발표된 테슬라 2분기 실적은 전날까지의 관전 포인트—AI·로보택시 지출 속도—를 실적표로 확인시켰다. 매출은 서프라이즈를 냈지만 수익성은 시장 눈높이에 못 미쳐, 프리뷰에서 지적된 '지출 방향' 우려가 마진 압박이라는 형태로 현실화됐다.\n\n수익성 지표는 대부분 예상을 밑돌았다. GAAP 영업이익은 전년比 <em>57% 급감</em>한 $398M(예상 $1.5B), 영업이익률은 <em>1.4%</em>로 쪼그라들었고, 조정 EBITDA도 $3.27B로 시장 예상($4.0B)에 못 미쳤다. 원인은 평균판매가 하락, 규제크레딧 매출 감소, AI·연구개발·주식보상비용 증가가 겹친 결과다. 다만 이번 분기로 최근 12개월(TTM) 매출은 처음으로 $100B를 돌파했다.\n\n현금흐름은 우려보다 양호했다. 자유현금흐름은 <em>-$1.09B</em> 적자를 냈지만, 시장이 걱정했던 -$3.64B보다는 선방했다. CFO 바이바브 타네자는 컨콜에서 올해 capex가 <em>$25B 이상</em>이 될 것이라 재확인했다 — 옵티머스·사이버캡·AI 인프라, 그리고 스페이스X·인텔과 함께 짓는 반도체 공장(TeraFab)까지 포함한 규모다.\n\n일론 머스크는 컨콜에서 '자동차 사업 너머'를 재차 강조했다. 로보택시는 2분기 중 댈러스·휴스턴에서 무인(운전석 안전요원 없는) 서비스를 새로 열고 마이애미까지 확장했으며, 사이버캡은 오스틴 공도에서 스티어링휠 없는 실차 테스트가 다음 검증 단계로 넘어갔다. FSD 구독자는 <em>56% 증가한 148만명</em>. 옵티머스는 \"1세대 생산라인을 설치 중이며 곧 생산을 시작한다\"면서도, 초기 물량은 고객 인도가 아닌 훈련데이터 수집·기능 개발용이라고 선을 그었다 — 머스크는 \"테슬라가 만든 제품 중 양산 스케일링이 가장 어려운 제품\"이라고 말했다.",
+      "title_en": "Tesla Q2 2026 earnings: revenue hits a <em>record $28.2B</em>, EPS misses estimates",
+      "hotShort_en": "Record revenue, but <em>EPS misses consensus</em>",
+      "body_en": "Tesla's Q2 revenue hit a record $28.2B (+26% YoY, beating the $26.3B consensus), but adjusted EPS of $0.33 badly missed the $0.50 estimate — heavier AI and robotaxi spending squeezed margins.",
+      "summary_en": "Tesla's Q2 results, released right after Wednesday's close, confirmed the exact tension flagged in the prior day's preview: how fast — and in which direction — the company is deploying capital. Revenue beat, but profitability fell well short of Wall Street's bar, turning the \"spending pace\" question into a margin problem.\n\nProfitability metrics broadly missed. GAAP operating income fell <em>57% year-over-year</em> to $398M (vs. $1.5B expected), with operating margin compressing to <em>1.4%</em>, while adjusted EBITDA of $3.27B also came in below the $4.0B analysts expected. Tesla pointed to lower average selling prices, reduced regulatory-credit revenue, and higher AI, R&D, and stock-compensation expenses. Trailing-twelve-month revenue topped $100B for the first time.\n\nCash flow was the bright spot. Free cash flow came in at <em>-$1.09B</em>, a burn — but far smaller than the -$3.64B Wall Street had feared. CFO Vaibhav Taneja reaffirmed on the call that full-year capex will exceed <em>$25B</em>, covering Optimus, Cybercab, AI infrastructure, and the TeraFab chip plant being built with SpaceX and Intel.\n\nElon Musk again framed Tesla as a company looking \"beyond the car business.\" Robotaxi launched unsupervised (no safety driver) rides in Dallas and Houston during the quarter and expanded into Miami, while Cybercab's steering-wheel-less public-road testing in Austin moved into its next validation phase. FSD subscribers grew <em>56% to 1.48 million</em>. Optimus is \"installing first-generation production lines\" and will \"start production soon,\" Musk said, though early units are for training-data collection and feature development — not customer deliveries. He called it \"the hardest product to scale manufacturing we've ever made.\"",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-22/tesla-second-quarter-earnings-miss-wall-street-s-expectations",
+      "confirmedBy": 6,
+      "confirmingSources": [
+        "Bloomberg",
+        "Reuters",
+        "WSJ",
+        "CNBC"
+      ],
+      "sentiment": "neutral",
+      "hot": 9
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
       "pubDate": "2026-07-22T18:08:09.000Z",
       "title": "프랑스, 테슬라 FSD 승인 보류 — <em>과속·주의력 저하</em> 우려, EU 공동 심사 우선",
@@ -129,33 +176,6 @@
       ],
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-21T20:05:29.000Z",
-      "title": "테슬라 2분기 실적 오늘 발표 — <em>AI 지출 속도는 예산의 10%뿐</em>, 옵션은 1년래 최대 변동 베팅",
-      "hotShort": "AI 지출 <em>예산의 10%뿐</em>인데 실적은 오늘",
-      "body": "블룸버그에 따르면 테슬라가 올해 예고한 AI·로봇 인프라 투자 $250억 중 실제 집행분은 <em>$25억(10%)</em>에 그쳐 — 투자자 우려는 '과잉 지출'이 아니라 '로보택시·옵티머스에 충분히 베팅하고 있는가'라는 정반대 질문이다. 실적 발표(현지시간 22일 장마감 후)를 앞두고 옵션시장은 최근 1년 새 최대인 <em>약 6%</em> 변동을 가격에 반영했다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
-      "summary": "22일(현지시간) 장 마감 직후 진행되는 테슬라 2분기 실적콜을 몇 시간 앞두고, 월가의 초점은 '서프라이즈 여부'에서 '자본 배분 속도'로 옮겨가고 있다. 블룸버그는 21일 보도에서 테슬라가 4월 제시한 올해 <em>$250억</em> 규모 AI·로봇 인프라 투자 계획 중 실제 집행 금액은 <em>$25억</em>—전체의 10분의 1 수준—에 그친다고 짚었다.\n\n이는 여타 빅테크와 정반대의 문제다. 마이크로소프트·메타 등은 AI 데이터센터 지출이 과도해 투자수익률(ROI)을 입증하라는 압박을 받는 반면, 테슬라는 로보택시·옵티머스라는 '피지컬 AI' 베팅을 현실화할 만큼 충분히 빠르게 쓰고 있는지가 의문시된다는 것. 앞서 로이터도 올해 남은 지출이 본격화되면 2년여 만에 첫 분기 현금소진을 기록할 수 있다고 전망한 바 있어, 두 매체의 지적을 종합하면 '지출 속도'와 '지출 방향' 모두가 이번 콜의 핵심 관전 포인트로 떠올랐다.\n\n실적 발표를 앞두고 옵션시장의 베팅도 커졌다. CNBC 에 따르면 21일 기준 등가(at-the-money) 콜·풋 가격은 실적 발표 후 주가가 <em>약 5.76%</em> 움직일 것으로 반영하고 있는데, 이는 2025년 10월 이후 최대 임플라이드무브다. 같은 날 옵션 플로우는 콜 24만4000건 대 풋 11만6000건으로 매수세가 콜에 쏠려, 방향성 자체는 낙관 쪽에 무게가 실렸다.\n\n바론스는 서프라이즈만으로는 부족하다고 짚었다 — 이미 반영된 2분기 인도량 서프라이즈(48만126대, 컨센서스 상회)에도 주가가 오르지 못했던 전례처럼, 이번엔 자동차 마진·설비투자 규모·경영진의 자율주행·2026년 연간 가이던스 코멘트가 헤드라인 숫자보다 더 큰 영향을 줄 것이란 관측이다. 뱅크오브아메리카는 17일 '매수' 의견과 목표주가 <em>$460</em>을 재확인했고, 모닝스타는 장기 목표주가를 $425→<em>$450</em>으로 상향했다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
-      "title_en": "Tesla reports Q2 earnings today — <em>AI spending pace is just 10% of budget</em>, options bet biggest swing in a year",
-      "hotShort_en": "AI spend is <em>just 10% of budget</em> as Tesla reports",
-      "body_en": "Bloomberg reports Tesla has actually deployed just <em>$2.5 billion</em> of the $25 billion in AI and robotics infrastructure spending it forecast for 2026 — the opposite problem from Big Tech, where the question is whether Tesla is spending fast enough on Robotaxi and Optimus, not too much. Ahead of tonight's report (after the close, July 22 ET), options markets are pricing in the biggest post-earnings swing in a year, roughly <em>6%</em>.",
-      "summary_en": "Hours before Tesla's Q2 earnings call, set for right after Wednesday's close, Wall Street's focus has shifted from whether Tesla will beat estimates to how fast it's actually deploying capital. Bloomberg reported on July 21 that of the <em>$25 billion</em> in AI and robotics infrastructure spending Tesla forecast back in April, only <em>$2.5 billion</em> — about a tenth of the total — has actually been spent so far.\n\nThat's the inverse of Big Tech's problem. Microsoft, Meta and peers face pressure to justify their AI data-center spending and prove it's generating returns, while for Tesla the question is whether it's spending fast enough to make good on its Robotaxi and Optimus \"physical AI\" bets. Reuters had separately projected that once the rest of this year's spending kicks in, Tesla could post its first quarterly cash burn in more than two years — together, the two reports put both the pace and direction of spending at the center of Wednesday's call.\n\nOptions traders have raised their bets ahead of the report. CNBC says at-the-money calls and puts were pricing in roughly a <em>5.76%</em> move in Tesla shares following earnings as of July 21 — the largest implied move since October 2025. Options flow that day leaned bullish, with 244,000 calls bought against 116,000 puts.\n\nBarron's argued a beat alone won't be enough — just as Tesla's Q2 delivery beat (480,126 vehicles, above consensus) failed to lift the stock, this time automotive margins, capex levels, and management's tone on autonomy and full-year 2026 guidance are expected to matter more than the headline numbers. Bank of America reaffirmed its Buy rating and <em>$460</em> price target on July 17, and Morningstar raised its long-term fair value estimate to <em>$450</em> from $425. Tesla reports after the close at 5:30 p.m. ET on July 22.",
-      "href": "https://www.reuters.com/business/autos-transportation/tesla-cash-burn-test-investor-faith-ai-bets-2026-07-21/",
-      "confirmedBy": 6,
-      "confirmingSources": [
-        "Reuters",
-        "Bloomberg",
-        "CNBC",
-        "Barron's"
-      ],
-      "sentiment": "neutral",
-      "hot": 9
     },
     {
       "category": "product",
@@ -2356,33 +2376,7 @@
       ],
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
-      "pubDate": "2026-07-08T11:00:16.000Z",
-      "title": "뉴저지 로보택시 법안, <em>라이다 의무화</em>로 테슬라 카메라온리 방식 배제 우려",
-      "hotShort": "뉴저지 법안, 테슬라 <em>카메라온리 로보택시</em> 배제 우려",
-      "body": "뉴저지주 상원 법안 S1677이 완전 무인 자율주행차에 카메라 외 라이다·레이더 등 2종 이상 추가 센서를 의무화하고 주내 5만 마일 유인감독 시험을 요구 — 통과 시 카메라만 쓰는 테슬라의 FSD·로보택시 방식이 뉴저지에서 사실상 막힐 수 있어, 주별 확장 전략에 새 규제 리스크로 부상.",
-      "sourceName": "The Verge",
-      "sourceLabel": "press",
-      "slug": "fsd-new-jersey-robotaxi-lidar-bill-2026-07-08",
-      "summary": "뉴저지주 의회에 계류 중인 로보택시 법안 S1677이 업계의 주목을 받고 있다. 이 법안은 올해 1월 13일 발의돼 5월 11일 상원 예산세출위원회에 회부됐으며, 더버지(The Verge) 보도에 따르면 올해 안에 표결에 부쳐질 전망이다.\n\n법안의 핵심은 완전 무인(운전자 없음) 자율주행 서비스를 운영하려는 업체에게 카메라뿐 아니라 라이다·레이더 등 서로 다른 방식의 센서를 최소 2종 이상 추가로 탑재하도록 요구하는 조항이다. 아울러 상업 서비스 개시 전 주 내에서 5만 마일(약 8만km) 규모의 유인감독 시험을 거치도록 명시했다.\n\n이는 카메라만으로 자율주행을 구현하는 테슬라의 'Vision-only' FSD·로보택시 전략과 정면으로 배치된다. 일론 머스크는 그동안 라이다·레이더가 불필요하고 비용만 높인다며 카메라·AI 조합을 고수해왔는데, 법안이 원안대로 통과되면 하드웨어를 바꾸지 않는 한 뉴저지에서 사실상 로보택시 서비스를 할 수 없게 된다.\n\n테슬라 측은 뉴저지 차주들에게 법안 반대 의견을 제출해달라고 요청하며 대응에 나섰다(테슬라라티 보도). 법안 찬성 측은 \"테슬라를 겨냥한 것이 아니다\"라는 입장이지만, 결과적으로 카메라온리 방식을 사실상 배제하는 효과를 낸다는 지적이 나온다.\n\n뉴저지가 이런 규정을 도입하는 첫 주(州)가 될 경우 다른 주로 확산될지도 관전 포인트다. 로보택시 사업을 여러 주로 확장 중인 테슬라에게는 주별 규제 리스크가 현실화되는 사례가 될 수 있다.",
-      "title_en": "New Jersey robotaxi bill would <em>mandate lidar</em>, threatening to shut out Tesla's camera-only approach",
-      "hotShort_en": "NJ robotaxi bill could <em>shut out Tesla</em>",
-      "body_en": "New Jersey Senate bill S1677 would require fully driverless vehicles to carry cameras plus at least two additional sensing technologies such as lidar or radar, along with 50,000 miles of in-state supervised testing before commercial service — a requirement that could effectively shut Tesla's camera-only FSD and Robotaxi out of the state unless it changes its hardware.",
-      "summary_en": "A robotaxi bill pending in the New Jersey legislature is drawing scrutiny across the industry. Introduced on January 13 and referred to the Senate Budget and Appropriations Committee on May 11, S1677 is expected to come up for a vote later this year, The Verge reported.\n\nAt its core, the bill would require any operator running fully driverless (no safety driver) service to equip vehicles with cameras plus at least two additional, distinct sensing technologies — think lidar or radar — and to complete 50,000 miles of in-state supervised testing before launching commercial driverless service.\n\nThat directly conflicts with Tesla's vision-only approach to FSD and Robotaxi. Elon Musk has long argued that lidar and radar are unnecessary and costly, betting instead on cameras plus AI. If the bill passes as written, Tesla would effectively be locked out of New Jersey robotaxi service unless it adds hardware.\n\nTesla has responded by urging New Jersey owners to submit opposition comments on the bill, according to Teslarati. Supporters say the bill isn't aimed at Tesla specifically, but critics note it would functionally exclude the camera-only approach regardless of intent.\n\nIf New Jersey becomes the first state to adopt such rules, whether other states follow will be worth watching — a real test of state-by-state regulatory risk for Tesla as it expands Robotaxi across the country.",
-      "href": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "The Verge",
-        "Benzinga",
-        "Teslarati"
-      ],
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-23 04:34 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-23 06:10 KST 자동 갱신 · 최신순"
 }

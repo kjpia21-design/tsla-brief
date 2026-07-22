@@ -45,6 +45,33 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-22T22:10:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+          "verdict": "regrade",
+          "newSourceLabel": "press",
+          "reasons": [
+            "매출 $28.24B(+26% YoY, 컨센서스 $26.32B)·EPS $0.33 vs $0.50·영업이익 $398M(-57% YoY, 예상 $1.5B)·영업이익률 1.4%·조정 EBITDA $3.273B vs $4.0B·FCF -$1.09B vs -$3.64B 예상·capex 가이던스 $25B+(CFO 타네자)·TTM 매출 $100B 최초 돌파·로보택시 댈러스/휴스턴 무인·마이애미 확장·FSD 구독 56%↑148만·옵티머스 1세대 라인 설치중 발언 모두 복수 매체(Yahoo/CNBC 종합, TeslaNorth, driveteslacanada, stocktitan) 교차 확인",
+            "regrade 사유: 초안에 '사이버캡 2분기 중 양산 시작' 단정 문구가 있었으나 TeslaNorth 단일 소스 헤드라인 재해석 위험 판단 — 확정 사실인 '오스틴 공도 실차 테스트 다음 단계 진입'만 남기고 양산개시 단정 표현 제거(완화)",
+            "직접 원문(Bloomberg/Reuters/WSJ/SEC 8-K) WebFetch는 403 차단 — WebSearch 다중 소스 교차검증으로 대체"
+          ]
+        },
+        {
+          "slug": "fsd-robotaxi-cumulative-chart-flat-2026-07-22",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "누적 240만+마일·2분기 증분 약 90만(1분기와 동일)·4월 약 50만·5·6월 각 약 20만·런레이트 약 60만/분기 환산 모두 Electrek 기사 내용과 WebSearch 교차 일치",
+            "분석 주체(Electrek)를 명시해 회사 발표 원문과 매체 해석을 구분 — 단정 아닌 인용 형태로 서술",
+            "직접 원문 WebFetch는 403 차단 — WebSearch 교차검증으로 대체"
+          ]
+        }
+      ]
     }
   ]
 }
