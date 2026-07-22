@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-22 03:18 UTC · 누적 652건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-22 06:34 UTC · 누적 652건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "fsd",
@@ -25,6 +25,33 @@
       ],
       "sentiment": "bear",
       "hot": 6
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-21T20:05:29.000Z",
+      "title": "테슬라 2분기 실적 오늘 발표 — <em>AI 지출 속도는 예산의 10%뿐</em>, 옵션은 1년래 최대 변동 베팅",
+      "hotShort": "AI 지출 <em>예산의 10%뿐</em>인데 실적은 오늘",
+      "body": "블룸버그에 따르면 테슬라가 올해 예고한 AI·로봇 인프라 투자 $250억 중 실제 집행분은 <em>$25억(10%)</em>에 그쳐 — 투자자 우려는 '과잉 지출'이 아니라 '로보택시·옵티머스에 충분히 베팅하고 있는가'라는 정반대 질문이다. 실적 발표(현지시간 22일 장마감 후)를 앞두고 옵션시장은 최근 1년 새 최대인 <em>약 6%</em> 변동을 가격에 반영했다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+      "summary": "22일(현지시간) 장 마감 직후 진행되는 테슬라 2분기 실적콜을 몇 시간 앞두고, 월가의 초점은 '서프라이즈 여부'에서 '자본 배분 속도'로 옮겨가고 있다. 블룸버그는 21일 보도에서 테슬라가 4월 제시한 올해 <em>$250억</em> 규모 AI·로봇 인프라 투자 계획 중 실제 집행 금액은 <em>$25억</em>—전체의 10분의 1 수준—에 그친다고 짚었다.\n\n이는 여타 빅테크와 정반대의 문제다. 마이크로소프트·메타 등은 AI 데이터센터 지출이 과도해 투자수익률(ROI)을 입증하라는 압박을 받는 반면, 테슬라는 로보택시·옵티머스라는 '피지컬 AI' 베팅을 현실화할 만큼 충분히 빠르게 쓰고 있는지가 의문시된다는 것. 앞서 로이터도 올해 남은 지출이 본격화되면 2년여 만에 첫 분기 현금소진을 기록할 수 있다고 전망한 바 있어, 두 매체의 지적을 종합하면 '지출 속도'와 '지출 방향' 모두가 이번 콜의 핵심 관전 포인트로 떠올랐다.\n\n실적 발표를 앞두고 옵션시장의 베팅도 커졌다. CNBC 에 따르면 21일 기준 등가(at-the-money) 콜·풋 가격은 실적 발표 후 주가가 <em>약 5.76%</em> 움직일 것으로 반영하고 있는데, 이는 2025년 10월 이후 최대 임플라이드무브다. 같은 날 옵션 플로우는 콜 24만4000건 대 풋 11만6000건으로 매수세가 콜에 쏠려, 방향성 자체는 낙관 쪽에 무게가 실렸다.\n\n바론스는 서프라이즈만으로는 부족하다고 짚었다 — 이미 반영된 2분기 인도량 서프라이즈(48만126대, 컨센서스 상회)에도 주가가 오르지 못했던 전례처럼, 이번엔 자동차 마진·설비투자 규모·경영진의 자율주행·2026년 연간 가이던스 코멘트가 헤드라인 숫자보다 더 큰 영향을 줄 것이란 관측이다. 뱅크오브아메리카는 17일 '매수' 의견과 목표주가 <em>$460</em>을 재확인했고, 모닝스타는 장기 목표주가를 $425→<em>$450</em>으로 상향했다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
+      "title_en": "Tesla reports Q2 earnings today — <em>AI spending pace is just 10% of budget</em>, options bet biggest swing in a year",
+      "hotShort_en": "AI spend is <em>just 10% of budget</em> as Tesla reports",
+      "body_en": "Bloomberg reports Tesla has actually deployed just <em>$2.5 billion</em> of the $25 billion in AI and robotics infrastructure spending it forecast for 2026 — the opposite problem from Big Tech, where the question is whether Tesla is spending fast enough on Robotaxi and Optimus, not too much. Ahead of tonight's report (after the close, July 22 ET), options markets are pricing in the biggest post-earnings swing in a year, roughly <em>6%</em>.",
+      "summary_en": "Hours before Tesla's Q2 earnings call, set for right after Wednesday's close, Wall Street's focus has shifted from whether Tesla will beat estimates to how fast it's actually deploying capital. Bloomberg reported on July 21 that of the <em>$25 billion</em> in AI and robotics infrastructure spending Tesla forecast back in April, only <em>$2.5 billion</em> — about a tenth of the total — has actually been spent so far.\n\nThat's the inverse of Big Tech's problem. Microsoft, Meta and peers face pressure to justify their AI data-center spending and prove it's generating returns, while for Tesla the question is whether it's spending fast enough to make good on its Robotaxi and Optimus \"physical AI\" bets. Reuters had separately projected that once the rest of this year's spending kicks in, Tesla could post its first quarterly cash burn in more than two years — together, the two reports put both the pace and direction of spending at the center of Wednesday's call.\n\nOptions traders have raised their bets ahead of the report. CNBC says at-the-money calls and puts were pricing in roughly a <em>5.76%</em> move in Tesla shares following earnings as of July 21 — the largest implied move since October 2025. Options flow that day leaned bullish, with 244,000 calls bought against 116,000 puts.\n\nBarron's argued a beat alone won't be enough — just as Tesla's Q2 delivery beat (480,126 vehicles, above consensus) failed to lift the stock, this time automotive margins, capex levels, and management's tone on autonomy and full-year 2026 guidance are expected to matter more than the headline numbers. Bank of America reaffirmed its Buy rating and <em>$460</em> price target on July 17, and Morningstar raised its long-term fair value estimate to <em>$450</em> from $425. Tesla reports after the close at 5:30 p.m. ET on July 22.",
+      "href": "https://www.reuters.com/business/autos-transportation/tesla-cash-burn-test-investor-faith-ai-bets-2026-07-21/",
+      "confirmedBy": 6,
+      "confirmingSources": [
+        "Reuters",
+        "Bloomberg",
+        "CNBC",
+        "Barron's"
+      ],
+      "sentiment": "neutral",
+      "hot": 8
     },
     {
       "category": "product",
@@ -126,33 +153,6 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-21T10:08:18.000Z",
-      "title": "테슬라 2분기 실적 D-1 — <em>2년만에 첫 현금소진</em> 전망, AI 베팅에 $250억 지출",
-      "hotShort": "실적 D-1 — <em>2년만에 첫 현금소진</em> 전망",
-      "body": "내일(현지시간 22일) 2분기 실적발표를 앞두고 로이터는 테슬라가 2년여 만에 처음으로 분기 현금소진을 기록할 것으로 전망된다고 보도했다 — 로보택시·옵티머스 등 AI·로봇 인프라 투자가 올해 <em>$250억</em>까지 불어나 자동차·에너지 사업의 현금창출력을 웃돌 것으로 보여, 물리적 AI 베팅에 대한 투자자 신뢰가 시험대에 올랐다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
-      "summary": "로이터에 따르면 테슬라는 22일 발표할 2분기 실적에서 2년여 만에 처음으로 분기 현금소진(cash burn)을 기록할 것으로 전망된다. 일론 머스크가 회사의 축을 완성차 제조에서 로보택시·옵티머스 휴머노이드 로봇 같은 '피지컬 AI' 사업으로 옮기면서, 데이터센터 등 AI 인프라·생산능력 투자가 올해 <em>$250억</em> 규모까지 불어나 자동차·에너지 사업이 분기마다 벌어들이는 현금을 웃돌 것으로 예상되기 때문이다.\n\n로이터는 이 지출 구조를 아마존과 비교했다 — 아마존의 대규모 투자는 AWS·광고처럼 이미 검증된 고마진 사업이 뒷받침하는 반면, 테슬라의 베팅은 아직 초기 단계인 사업에 쏠려 있어 투자 회수 시점을 가늠하기 어렵다는 지적이다. 로보택시 서비스는 텍사스 오스틴·댈러스·휴스턴과 플로리다 마이애미로 도시를 넓히고 있지만 애초 제시한 확장 목표에는 못 미치는 속도다. 테슬라 IR 사이트에 올라온 실적콜 사전 질문 중 최다 득표 10건 가운데 9건이 로보택시·옵티머스·FSD 등 AI 베팅에 관한 것일 만큼, 주주들의 관심도 이 지점에 쏠려 있다.\n\n이런 우려 속에서도 월가 컨센서스는 매출 <em>$276억</em>(전년동기 $225억 대비 +22.6%)을 예상한다 — 이미 발표된 2분기 인도량 48만126대(컨센서스 40만6024대 상회, 전년비 +25%)의 서프라이즈를 반영한 수치다. 뱅크오브아메리카는 17일 발표한 애널리스트 콜에서 테슬라 '매수' 의견과 목표주가 <em>$460</em>을 재확인했다 — 로보택시(전체 가치의 약 52%)·옵티머스(300억달러 이상 추가 upside)·에너지 사업($900억) 평가를 유지한 것이다.\n\n옵션시장은 실적 발표 직후 주가가 <em>7%</em> 안팎 출렁일 것으로 가격에 반영하고 있다. CNBC 옵션 애널리스트 마이크 카우는 콜·풋 포지셔닝이 '평소보다 약간 약세 쪽으로 기운' 상태이며, 이를 테슬라 주식 기준으로 환산하면 약 <em>$5.5억</em> 규모의 순매도(net short) 델타 노출에 해당한다고 짚었다. 인도량 서프라이즈(+25% YoY)를 이미 소화한 시장에선 '이번엔 컨센서스 부합만으로는 부족하다'는 경계감이 번지고 있다.\n\n모닝스타는 장기 목표주가(적정가치)를 $425→<em>$450</em>로 상향하며 '3성 등급·적정가치' 진단은 유지했다 — 컨센서스 EPS $0.55라는 숫자 자체보다 잉여현금흐름(FCF)과 로보택시·옵티머스 관련 경영진 코멘트가 주가에 더 큰 영향을 줄 것으로 내다봤다. 지난 분기엔 인도량 서프라이즈에도 주가가 7.5% 급락했던 전례가 있다. 실적 발표는 미국 동부시간 7월22일 오후 5시30분, 장 마감 직후 진행된다.",
-      "title_en": "Tesla Q2 earnings T-1 — Reuters says <em>first cash burn in 2+ years</em> looms as AI bets hit $25B",
-      "hotShort_en": "T-1: Tesla nears <em>first cash burn in 2 years</em>",
-      "body_en": "One day before Tesla's July 22 Q2 report, Reuters says the company is on track to post its first quarterly cash burn in more than two years — spending on AI and robotics infrastructure is set to hit roughly <em>$25 billion</em> this year, outpacing cash generated by the core auto and energy businesses, putting investor faith in the Robotaxi and Optimus bets to the test.",
-      "summary_en": "Reuters reports Tesla is on track to post its first quarterly cash burn in more than two years when it reports Q2 results on July 22. As Elon Musk has pivoted the company's focus from car manufacturing toward \"physical AI\" businesses like Robotaxi and the Optimus humanoid robot, spending on AI infrastructure — including data centers — and manufacturing capacity is projected to climb to roughly <em>$25 billion</em> this year, outstripping the cash generated each quarter by Tesla's core automotive and energy operations.\n\nReuters compared the spending pattern to Amazon's: Amazon's heavy investment is backed by proven, high-margin businesses like AWS and advertising with a track record of turning spending into returns, while Tesla's bets sit in businesses still in early development, making the payoff timeline harder to gauge. The Robotaxi service is expanding to Austin, Dallas and Houston in Texas plus Miami, Florida, but still trails the pace of its original expansion targets. Nine of the ten most-upvoted questions submitted on Tesla's investor-relations site ahead of the call center on AI bets — Robotaxi, Optimus and FSD — underscoring where shareholder attention is focused.\n\nDespite that overhang, Wall Street's consensus still calls for <em>$27.6 billion</em> in revenue, up 22.6% from $22.5 billion a year ago, reflecting the surprise from Tesla's already-reported Q2 deliveries of 480,126 vehicles, well above the 406,024 consensus. Bank of America reaffirmed its Buy rating and <em>$460</em> price target on July 17, maintaining a thesis that values Robotaxi at roughly 52% of Tesla's worth, Optimus at over $30 billion of additional upside, and the energy business at about $90 billion.\n\nOptions markets are pricing in roughly a <em>7%</em> swing in Tesla shares immediately following the report. CNBC options analyst Mike Khouw said call and put positioning has tilted slightly more bearish than usual, equating to about <em>$550 million</em> of net short delta exposure — with the delivery beat already digested by the market, there's growing wariness that simply meeting consensus won't be enough to spark a rally.\n\nMorningstar raised its long-term fair value estimate to <em>$450</em> from $425, keeping a 3-star \"fairly valued\" rating, and said free cash flow and management commentary on Robotaxi and Optimus will matter more than the $0.55 EPS consensus — a dynamic reinforced last quarter, when a delivery beat still triggered a 7.5% stock drop. Tesla reports after the close at 5:30 p.m. ET on July 22.",
-      "href": "https://www.reuters.com/business/autos-transportation/tesla-cash-burn-test-investor-faith-ai-bets-2026-07-21/",
-      "confirmedBy": 5,
-      "confirmingSources": [
-        "Reuters",
-        "Electrek",
-        "Barron's",
-        "CNBC"
-      ],
-      "sentiment": "neutral",
-      "hot": 7
     },
     {
       "category": "fsd",
