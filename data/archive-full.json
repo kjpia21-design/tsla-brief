@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-22 17:25 UTC · 누적 654건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-22 19:34 UTC · 누적 655건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-22T17:02:39.000Z",
+      "title": "테슬라 ADAS 사고, 월간 <em>역대 최다 207건</em> NHTSA 보고 — 서사 대부분 비공개",
+      "hotShort": "테슬라 ADAS 사고, <em>월간 역대 최다 207건</em>",
+      "body": "Electrek이 NHTSA 표준일반명령(SGO) 데이터를 분석한 결과, 테슬라가 지난 5월 한 달간 오토파일럿·FSD 관련 사고 <em>207건</em>을 보고해 월간 기록을 새로 썼다 — 2021년 한 해 전체(157건)보다 많은 수치다. 사고 서사 대부분과 소프트웨어 버전 필드까지 비공개 처리해, 오토파일럿과 FSD 사고를 구분할 수조차 없다는 점이 투명성 논란을 키운다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-adas-crashes-record-207-2026-07-22",
+      "summary": "NHTSA는 2021년부터 '표준일반명령(Standing General Order)'을 통해 첨단운전지원시스템(ADAS)이 충돌 30초 이내 활성화 상태였고, 에어백 전개·견인·부상·사망·보행자·자전거 충돌 등 중대성 기준을 충족한 사고를 완성차업체가 의무 보고하도록 하고 있다. Electrek이 22일 이 데이터를 분석해 보도한 내용에 따르면, 테슬라는 지난 5월 <em>207건</em>의 오토파일럿·FSD 관련 사고를 보고해 월간 최다 기록을 새로 썼다.\n\n이 한 달치 건수만으로도 2021년 한 해 전체(157건)를 넘어선다는 점이 테슬라의 사고 보고 증가 속도를 보여준다. SGO 전체 파일 기준 테슬라는 누적 <em>3,763건</em>의 고유 운전보조 사고를 보고해, 업계 전체 ADAS 보고 건수의 약 <em>85%</em>를 차지한다.\n\n문제는 투명성이다. 테슬라는 사고 서사(narrative) 항목을 사실상 전부 비공개 처리하고, 어떤 소프트웨어 버전이 작동 중이었는지 표시하는 필드까지 가려 공개 데이터만으로는 오토파일럿과 FSD 중 어느 쪽이 관련됐는지조차 구분할 수 없다. 반면 GM·포드·혼다·도요타 등 대량 보고 업체는 서사를 거의 가리지 않는다는 게 Electrek의 지적이다.\n\n이 수치는 테슬라가 저시계 조건 FSD 사고를 이유로 NHTSA 조사를 받고 있는 시점과 맞물려, 규제 당국의 데이터 요구·조사 강도를 키울 요인으로 꼽힌다. 로보택시 확장과 FSD 광범위 배포를 동시에 밀어붙이는 테슬라 입장에서, 사고 건수 증가와 낮은 투명성이 함께 부각되는 시점은 부담이 될 수 있다.",
+      "title_en": "Tesla's ADAS crashes hit <em>record 207 in a single month</em>, NHTSA data shows",
+      "hotShort_en": "Tesla ADAS crashes hit <em>record 207 in a month</em>",
+      "body_en": "Electrek's analysis of NHTSA's Standing General Order data found Tesla reported <em>207</em> Autopilot and FSD crashes in May 2026 alone — a new monthly record that already exceeds all of 2021 combined (157). Tesla redacts nearly every crash narrative and even the software-version field, making it impossible to tell Autopilot and FSD crashes apart from the public data.",
+      "summary_en": "Since 2021, NHTSA's Standing General Order has required automakers to report crashes where an advanced driver-assistance system was engaged within roughly 30 seconds of impact and that meet a severity threshold — an airbag deployment, a tow-away, an injury, a fatality, or a struck pedestrian or cyclist. Electrek's July 22 analysis of that dataset found Tesla logged <em>207</em> Autopilot and FSD crashes in May 2026, the highest single-month total on record.\n\nThat one month alone tops all of 2021 combined (157 crashes), underscoring how fast Tesla's reported crash volume has climbed. Across the full SGO file, Tesla now accounts for <em>3,763</em> unique driver-assist crashes — roughly <em>85%</em> of the entire industry's ADAS reports.\n\nTransparency is the sticking point. Tesla redacts almost every crash narrative and even blacks out the software-version field, so the public data can't distinguish Autopilot crashes from FSD crashes at all. Electrek notes that high-volume peers like GM, Ford, Honda, and Toyota redact essentially none of their narratives.\n\nThe disclosure lands just as Tesla faces an NHTSA probe into FSD crashes in low-visibility conditions, adding pressure on regulators to demand more from the company's crash data even as Tesla pushes ahead with wider FSD rollout and Robotaxi expansion.",
+      "href": "https://electrek.co/2026/07/22/tesla-adas-crashes-record-207-one-month/",
+      "sentiment": "bear",
+      "hot": 7
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -91,7 +111,7 @@
         "Barron's"
       ],
       "sentiment": "neutral",
-      "hot": 8
+      "hot": 9
     },
     {
       "category": "product",
