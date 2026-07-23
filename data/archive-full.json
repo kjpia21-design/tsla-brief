@@ -1,6 +1,51 @@
 {
-  "asOf": "2026-07-23 21:10 UTC · 누적 664건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-23 21:39 UTC · 누적 666건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-23T18:04:36.000Z",
+      "title": "테슬라 실적 후 급락 — 공매도 세력 <em>$4B 수익</em>",
+      "hotShort": "테슬라 급락에 공매도 세력 <em>$4B 수익</em>",
+      "body": "2분기 실적 부진으로 테슬라 주가가 장중 한때 15%까지 급락하며 1년래 최대 낙폭을 기록한 가운데, 블룸버그는 이 급락으로 공매도 세력이 약 $4B의 평가이익을 거뒀다고 분석했다 — 실적 발표 전 이미 테슬라 숏 포지션은 3월 대비 33% 늘어난 약 8000만주까지 불어나 있었다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "stock-short-sellers-4b-profit-2026-07-23",
+      "summary": "22일 장 마감 후 발표된 2분기 실적이 EPS 컨센서스를 크게 밑돌면서, 다음 거래일인 23일 테슬라 주가는 장중 한때 15%까지 밀리며 1년여 만에 최대 낙폭을 기록했다. 블룸버그는 이 하루 동안의 급락이 테슬라 공매도 세력에게 대규모 평가이익을 안겼다고 짚었다 — 그 규모는 약 $4B로 추산됐다.\n\n조정 EPS는 $0.33로 시장 예상($0.50)을 크게 하회했고, 평균판매가 하락·규제크레딧 매출 감소·AI 투자 확대에 따른 비용 증가가 겹친 결과였다. 이는 이미 이번 주 다른 카드에서 다룬 실적 부진의 연장선이다.\n\n이번 급락 전부터 테슬라를 둘러싼 공매도 심리는 이미 고조돼 있었다. 테슬라 숏 포지션(공매도 잔고)은 3월 이후 33% 늘어난 약 8000만주까지 불어났고, 커버(청산)에 필요한 일수(days to cover)를 나타내는 지표는 1.75일로 2021년 이후 최고치를 기록했다.\n\n주주 입장에서는 두 가지를 함께 봐야 한다 — 실적 미스 자체의 펀더멘털 영향과, 이미 커진 공매도 포지션이 향후 반등 시 숏커버링 랠리로 이어질 수 있는 변동성 요인이라는 점이다. 월가 주요 IB들이 목표주가는 낮추면서도 매수 등급 상당수를 유지한 것과는 대조적으로, 시장 일각의 단기 베팅은 오히려 하락 쪽에 크게 쏠려 있었던 셈이다.",
+      "title_en": "Tesla short sellers mint <em>$4B profit</em> as shares plunge on earnings miss",
+      "hotShort_en": "Short sellers <em>rake in $4B</em> as Tesla craters",
+      "body_en": "Tesla shares plunged as much as 15% intraday on Thursday — their worst one-day drop in more than a year — after a disappointing Q2 report, and Bloomberg estimates the slide handed short sellers roughly $4B in paper profits. Short interest had already climbed 33% since March to nearly 80 million shares heading into earnings.",
+      "summary_en": "Tesla's Q2 results, released after Wednesday's close, missed EPS consensus by a wide margin, and shares tumbled as much as 15% intraday the next trading day — the steepest single-day drop in more than a year. Bloomberg reported the rout handed Tesla short sellers an estimated $4B in paper gains.\n\nAdjusted EPS came in at $0.33, well below the $0.50 consensus, as lower average selling prices, shrinking regulatory-credit revenue, and heavier AI spending squeezed margins — an extension of the earnings miss covered elsewhere in this briefing.\n\nBearish positioning had already been building before the drop. Tesla's short interest rose 33% since March to nearly 80 million shares, and the days-to-cover ratio — a gauge of how long it would take shorts to unwind — climbed to 1.75 days, its highest level since 2021.\n\nFor shareholders, two things are worth watching together: the fundamental hit from the earnings miss itself, and the risk that such a crowded short position could fuel a sharp short-covering rally if sentiment turns. That contrasts with Wall Street's major banks, which cut price targets but mostly kept Buy ratings intact — short-term traders, it seems, were positioned far more bearishly than the analysts.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive",
+      "sentiment": "bear",
+      "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-07-23T17:16:15.000Z",
+      "title": "미 NHTSA, 테슬라 도어 갇힘 사망사고 계기 <em>차량 도어 안전규정 제정 착수</em>",
+      "hotShort": "NHTSA, 테슬라발 <em>도어 안전규정 제정</em> 착수",
+      "body": "미 도로교통안전국(NHTSA)이 사고 후 화재·정전으로 문이 열리지 않아 탑승자가 갇혀 숨진 사례들을 계기로, 비상시 누구나 쉽게 열 수 있는 도어 설계·표시 기준을 신설하는 규정 제정 절차에 착수했다 — 숨겨진 전동식 손잡이를 쓰는 테슬라 차량이 이번 논의의 중심에 있다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "sec",
+      "slug": "product-nhtsa-door-safety-rulemaking-2026-07-23",
+      "summary": "NHTSA 산하 규정제정국(Office of Rulemaking)은 지난해 11월 4일 접수된 청원 — 모든 차량에 '확실하고 명백한(robust and obvious)' 비상 탈출 시스템을 의무화하는 새 연방자동차안전기준(FMVSS)을 제정해달라는 요청 — 을 받아들여, 정식 규정 제정 절차에 착수한다고 밝혔다. 블룸버그는 이 절차가 사고 후 전력이 끊긴 차량에 갇혀 숨진 사례들에 대한 대응이라고 짚었다.\n\n문제의 핵심은 전동식·은닉형 도어 손잡이다. 일부 테슬라 차량은 충돌 후 화재나 배터리 전원 손실이 발생하면 전동 도어 잠금·개폐 장치가 함께 작동을 멈추는데, 이럴 때 써야 하는 기계식 비상 해제 레버가 눈에 잘 띄지 않거나 위치를 직관적으로 찾기 어렵다는 지적이 이어져왔다.\n\n이 문제는 규제당국 움직임 이전부터 정치권 이슈이기도 했다. 미 의회에는 'SAFE Exit Act'라는 별도 법안이 발의돼 있는데, 발의자들은 이 법안이 테슬라 도어 관련 사고로 최소 15명이 숨졌다는 주장을 근거로, 전동식 도어에 성능·표시 기준을 의무화하고 차량마다 찾기 쉬운 수동 해제장치를 두도록 요구하고 있다. 다만 이는 법안 발의자 측 주장이며, 아직 입법이 완료되지는 않았다.\n\nNHTSA의 이번 절차는 아직 정식 규칙안(NPRM) 발표 전 단계로, 확정 규정이 나오기까지는 시일이 걸릴 전망이다. 다만 최종적으로 도어 설계 변경이나 라벨링 의무화로 이어지면 테슬라를 포함한 완성차 업체들에 설계 변경 비용이 발생할 수 있어, 이번 실적 발표 주간 불거진 여러 규제 리스크 중 하나로 주주들이 지켜볼 만하다.",
+      "title_en": "NHTSA opens rulemaking on <em>car door emergency-exit safety</em> after fatal Tesla entrapments",
+      "hotShort_en": "NHTSA starts <em>door safety rulemaking</em> after Tesla deaths",
+      "body_en": "The National Highway Traffic Safety Administration has begun a rulemaking process for new emergency-exit design and labeling standards, after fatal crashes in which occupants were trapped inside vehicles that lost power to their electronic doors — putting Tesla's hidden power door handles at the center of the debate.",
+      "summary_en": "NHTSA's Office of Rulemaking said it granted a petition filed on November 4, 2025 calling for a new Federal Motor Vehicle Safety Standard requiring a 'robust and obvious' emergency-exit system in all vehicles, and will now begin the formal rulemaking process. Bloomberg tied the move to fatal incidents in which people were trapped inside cars that lost electrical power after a crash.\n\nThe core issue is electronic, hidden door handles. In some Tesla vehicles, a crash-related fire or battery power loss can disable the electronic door locks and releases at the same time, and critics say the mechanical backup release meant for exactly that scenario is often hard to spot or unintuitive to use in an emergency.\n\nThe issue was already a political flashpoint before this regulatory step. A separate bill in Congress, the SAFE Exit Act, would require performance and labeling standards for electric doors and mandate an easy-to-find manual release in every vehicle; its sponsors cite at least 15 deaths they attribute to Tesla door-related incidents — a claim from the bill's backers, not yet enacted into law.\n\nNHTSA's process is still a pre-proposal stage, so a final rule remains some way off. But if it eventually mandates design or labeling changes, automakers including Tesla could face compliance costs — one more regulatory risk for shareholders to track alongside the other threads from this week's earnings news.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/us-will-strengthen-regulations-for-car-doors-handles-after-tesla-deaths",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Seeking Alpha"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
