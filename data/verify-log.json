@@ -198,6 +198,37 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-23T19:14:47.184Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "fsd-france-rejects-approval-2026-07-22",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "Tabarot as-is rejection, 50% speed-limit-exceed example (50->70km/h), attention-monitoring gap all independently confirmed across Electrek/TeslaNorth/Yahoo/Asianet",
+            "\"this system is not a self-driving system\" quote matches minister position",
+            "Musk X post \"Delaying the approval of FSD in France will cost lives\" confirmed verbatim",
+            "Article 39 EU review + Netherlands delegation trip confirmed",
+            "no advice tone, no hedge-to-assertion conversion, href matches event"
+          ]
+        },
+        {
+          "slug": "fsd-subscription-revenue-growth-2026-07-23",
+          "verdict": "regrade",
+          "newSourceLabel": "press",
+          "reasons": [
+            "initial draft conflated NA new-delivery attach rate (~55%) with global lifetime take-rate (15.2%, up from ~14% in Q1) as if both were the same NA-specific stat -- corrected before publish to state both figures separately and accurately",
+            "9/mo subscription-only shift (Feb 2026, ended 5K->K one-time fee) confirmed",
+            "Services and Other revenue .58B +50% YoY record margin confirmed",
+            "1.48M FSD subscribers +56% YoY, ~55% outright/45% (~666K) subscription split confirmed",
+            "~$1.8B ARR figure correctly hedged as unofficial back-of-envelope estimate (attributed to Tesla-watcher math, e.g. New Street Research), not presented as Tesla-disclosed"
+          ]
+        }
+      ]
     }
   ]
 }

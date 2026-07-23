@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-23T16:50:09.000Z",
+      "title": "프랑스, 테슬라 FSD 승인 보류 — 머스크 <em>\"생명 앗아갈 것\"</em> 반박",
+      "hotShort": "프랑스 FSD 보류에 머스크 <em>\"생명 앗아갈 것\"</em>",
+      "body": "프랑스 교통장관 필리프 타바로가 테슬라 FSD(감독형)를 현재 상태로는 승인하지 않겠다고 밝혔다 — 제한속도를 최대 50% 초과하는 과속과 회전교차로·차선변경 등 복잡한 상황에서의 부족한 주의력 모니터링이 이유다. 일론 머스크는 X에 \"프랑스의 승인 지연은 생명을 앗아갈 것\"이라고 즉각 반박해 규제 갈등이 격화됐다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-france-rejects-approval-2026-07-22",
+      "summary": "22일(현지시간) 프랑스 교통장관 필리프 타바로는 테슬라의 '완전자율주행(감독형, FSD Supervised)'을 \"현재 상태로는\" 승인하지 않겠다고 공식 발표했다. 로이터에 따르면 그는 영상 성명에서 \"이 시스템이 여러 기술적 진전을 가져온 것은 인정하지만, 현재 상태로 허가하기엔 안전성 트레이드오프가 아직 충분치 않다\"고 밝혔다.\n\n그가 지목한 안전 문제는 두 가지다. 첫째, FSD가 주변 교통 흐름 속도에 맞춰 주행하는 과정에서 명시적인 운전자 지시 없이도 제한속도를 최대 50%까지 초과하는 경우가 있다는 것이다 — 예를 들어 시속 50km 구간에서 시속 70km까지 속도를 낼 수 있다는 지적이다. 둘째, 회전교차로·차선변경처럼 복잡한 도심 주행 상황에서 현재의 운전자 모니터링 체계가 충분한 주의력을 담보하지 못한다는 점이다. 타바로 장관은 한발 더 나아가 \"이 시스템은 자율주행 시스템이 아니다\"라며 FSD라는 명칭 자체에도 이의를 제기했다.\n\n이 발표에 일론 머스크는 곧바로 X(트위터)에 \"프랑스의 FSD 승인 지연은 생명을 앗아갈 것\"이라는 글을 올려 반박했다. 규제 당국과 테슬라 최고경영자 간 공개적 신경전으로 번진 셈이다.\n\n이번 발표로 프랑스는 유럽 주요국 가운데 처음으로 FSD에 대한 구체적 반대 근거를 각료급에서 공식화한 나라가 됐다. 그간 유럽 각국은 유럽집행위원회의 '제39조(Article 39)' 공동 심사 절차에 판단을 미뤄왔는데, 프랑스가 독자적으로 우려를 명문화한 셈이다. 다만 완전한 거부는 아니다 — 프랑스 교통부 대표단이 지난주 네덜란드를 방문해 관련 데이터를 검토했다고 타바로 장관이 밝혔으며, 네덜란드 등 다른 유럽국·테슬라와 기술 협의를 계속 이어가겠다고 덧붙였다.\n\n테슬라는 그간 유럽에서 FSD 라이드얼롱(동승 시연)을 확대하며 규제 승인에 다가서고 있다는 신호를 보내왔지만, 프랑스의 공식 이의 제기와 머스크의 정면 반박은 EU 전역 승인까지 시일이 더 걸릴 수 있음을 시사한다. 로보택시·FSD 확장을 핵심 성장동력으로 내세우는 테슬라 입장에서, 유럽 시장 진입 지연은 계속 주시할 변수다.",
+      "title_en": "France withholds Tesla FSD approval — Musk fires back: <em>\"will cost lives\"</em>",
+      "hotShort_en": "Musk claps back <em>\"will cost lives\"</em> as France balks",
+      "body_en": "French Transport Minister Philippe Tabarot said Tesla's FSD (Supervised) won't be approved \"as it currently stands\" — citing speed-matching that can exceed limits by up to 50% and insufficient driver-attention monitoring in complex situations. Elon Musk fired back on X, calling the delay a decision that \"will cost lives,\" escalating the standoff with regulators.",
+      "summary_en": "French Transport Minister Philippe Tabarot formally said on July 22 that Tesla's Full Self-Driving (Supervised) system won't be approved \"as it currently stands.\" Per Reuters, he said in a video statement: \"we consider that this system brings a number of technological advances, but that the safety trade-offs are not yet sufficient to authorize it as it currently stands.\"\n\nHe flagged two safety concerns. First, FSD matches surrounding traffic speed in a way that can exceed the posted limit by up to 50% without an explicit driver command — for example, hitting 70 km/h in a 50 km/h zone. Second, the current driver-monitoring setup doesn't guarantee sufficient attention during complex urban situations such as roundabouts and lane changes. Tabarot went further, saying \"this system is not a self-driving system,\" directly challenging the name it's sold under.\n\nMusk shot back almost immediately on X, saying \"delaying the approval of FSD in France will cost lives\" — turning the regulatory dispute into a public standoff with Tesla's CEO.\n\nThe announcement makes France the first major European country to formalize specific objections to FSD at the cabinet level, after other EU countries had largely deferred to the European Commission's Article 39 joint review process. It stops short of an outright rejection — Tabarot said a Ministry of Transport delegation traveled to the Netherlands last week to review the underlying data, and that technical discussions with the Netherlands, other European countries, and Tesla are continuing.\n\nTesla has been expanding FSD ride-alongs across Europe as a signal it's getting closer to regulatory approval, but France's formal objection — and Musk's direct pushback — suggest EU-wide sign-off could still take longer. For a company leaning on Robotaxi and FSD expansion as core growth drivers, a delayed European rollout remains a variable worth watching.",
+      "href": "https://www.reuters.com/business/france-opposes-eu-approval-teslas-fsd-driver-assistance-software-now-2026-07-23/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "Electrek",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-23T15:19:57.000Z",
+      "title": "FSD 구독 전환 적중 — 서비스 매출 <em>역대 최고 마진</em>으로 $4.58B",
+      "hotShort": "FSD 구독 전략 통했다 — 서비스 매출 <em>50%↑</em>",
+      "body": "2월 구독 전용으로 전환한 FSD가 2분기 실적의 몇 안 되는 청신호가 됐다 — 서비스·기타 부문 매출이 $4.58B로 전년比 50% 증가해 역대 최고 마진을 기록했고, 경영진은 FSD 구독 확대를 핵심 동력으로 꼽았다. FSD 구독자는 148만명(+56%)까지 늘었다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-subscription-revenue-growth-2026-07-23",
+      "summary": "테슬라는 지난 2월 FSD(완전자율주행) 일시불 구매 옵션(최고 $1만5000, 이후 $8000으로 인하)을 사실상 없애고, 월 $99 구독 전용 모델로 전환했다. 테슬라라티는 22일 실적 발표 이후 이 전략 전환이 \"성과를 내고 있다\"고 짚었다.\n\n2분기 서비스·기타 부문 매출은 $4.58B로 전년比 50% 증가하며 이 부문 총이익·마진 모두 역대 최고치를 기록했다. 이 부문은 차량 수리비 등도 포함하지만, 경영진은 FSD 구독 확대를 핵심 성장 동력 중 하나로 짚었다.\n\nFSD 구독자 수는 148만명으로 전년比 56% 늘었고, 이 중 55%는 과거 일시불 구매자, 45%(약 66만6000명)가 현재 구독 방식 이용자다. 북미에서는 신규 인도 차량의 약 55%가 인도 시점에 FSD 구독을 활성화했다. 누적 인도대수(970만대) 기준 전체 FSD 보급률(take rate)은 2분기 15.2%로, 1분기 약 14%에서 상승했다.\n\n테슬라는 FSD 구독 매출을 별도로 공시하지 않는다. 다만 구독자 수와 월 요금($99)을 단순 곱해 어림계산하면 연환산 최대 $18억 규모 반복매출(ARR) 잠재력이라는 관측이 테슬라 관찰자들 사이에서 나온다 — 공식 수치는 아니다.\n\n이번 실적이 EPS 컨센서스 하회·마진 압박으로 얼룩진 가운데, 구독형 소프트웨어 매출 확대는 하드웨어 판매 의존도를 낮추는 몇 안 되는 긍정적 신호로 꼽힌다.",
+      "title_en": "Tesla's FSD subscription bet pays off — services revenue hits <em>record margins</em> at $4.58B",
+      "hotShort_en": "FSD subscription switch <em>pays off big</em>",
+      "body_en": "Tesla's February shift to subscription-only FSD delivered one of the few bright spots in an otherwise rough Q2 — Services and Other revenue hit $4.58B, up 50% YoY with record margins, and executives cited growing FSD subscriptions as a key driver. FSD subscribers climbed to 1.48 million, up 56%.",
+      "summary_en": "In February, Tesla effectively killed the one-time FSD purchase option (once as high as $15,000, later cut to $8,000) and moved to a $99-a-month subscription-only model. Teslarati noted after Wednesday's earnings call that the switch is \"paying off big time.\"\n\nQ2's Services and Other segment brought in $4.58B, up 50% year-over-year, with record gross profit and margin for that category. The segment also includes things like out-of-warranty repairs, but executives pointed to growing FSD subscriptions as a key driver.\n\nFSD subscribers reached 1.48 million, up 56% year-over-year — 55% of whom bought the software outright in the past, with the remaining 45% (roughly 666,000) on the current subscription plan. In North America, roughly 55% of new deliveries had FSD activated at the time of delivery. Measured against Tesla's 9.7 million cumulative lifetime deliveries, the overall FSD take rate hit 15.2% in Q2, up from around 14% in Q1.\n\nTesla doesn't break out FSD subscription revenue separately. But a back-of-the-envelope calculation — subscriber count times the $99 monthly fee — puts potential annualized recurring revenue (ARR) at roughly $1.8B, a figure Tesla watchers are circulating rather than one the company has confirmed.\n\nWith EPS missing consensus and margins under pressure elsewhere in the report, the growing subscription software business stands out as one of the few positive signals reducing Tesla's reliance on hardware sales alone.",
+      "href": "https://www.teslarati.com/tesla-switch-up-selling-full-self-driving-has-paid-off-big-time/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "26m ago",
@@ -158,31 +204,6 @@
       ],
       "sentiment": "neutral",
       "hot": 9
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-22T18:08:09.000Z",
-      "title": "프랑스, 테슬라 FSD 승인 보류 — <em>과속·주의력 저하</em> 우려, EU 공동 심사 우선",
-      "hotShort": "프랑스, FSD 승인 보류 — <em>과속 우려</em> 지적",
-      "body": "프랑스 교통장관 필리프 타바로가 테슬라 FSD(감독형)를 현재 상태로는 승인하지 않겠다고 밝혔다 — 주변 교통 흐름에 맞춰 <em>제한속도를 최대 50% 초과</em>하는 과속 문제와 회전교차로·차선변경 같은 복잡한 상황에서 운전자 주의력 모니터링이 불충분하다는 이유다. EU 집행위 공동 심사(제39조)가 진행 중인 가운데, 회원국이 구체적 반대 근거를 공식 밝힌 첫 사례다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-france-rejects-approval-2026-07-22",
-      "summary": "22일(현지시간) 프랑스 교통장관 필리프 타바로는 테슬라의 '완전자율주행(감독형, FSD Supervised)'을 \"현재 상태로는\" 승인하지 않겠다고 밝혔다. 그가 지목한 안전 문제는 두 가지다.\n\n첫째, FSD가 주변 교통 흐름 속도에 맞춰 주행하는 과정에서 명시적인 운전자 지시 없이도 제한속도를 최대 50%까지 초과하는 경우가 있다는 것이다 — 예를 들어 시속 50km 구간에서 시속 70km까지 속도를 낼 수 있다는 지적이다. 둘째, 회전교차로·차선변경처럼 복잡한 도심 주행 상황에서 현재의 운전자 모니터링 체계가 충분한 주의력을 담보하지 못한다는 점이다.\n\n이번 발표로 프랑스는 유럽 주요국 가운데 처음으로 FSD에 대한 구체적 반대 근거를 각료급에서 공식화한 나라가 됐다. 그간 유럽 각국은 유럽집행위원회의 '제39조(Article 39)' 공동 심사 절차에 판단을 미뤄왔는데, 프랑스가 독자적으로 우려를 명문화한 셈이다. 다만 완전한 거부는 아니다 — 프랑스는 테슬라, 네덜란드를 비롯한 다른 유럽국들과 기술 협의를 계속 이어가겠다고 밝혔다.\n\n테슬라는 그간 유럽에서 FSD 라이드얼롱(동승 시연)을 확대하며 규제 승인에 다가서고 있다는 신호를 보내왔지만, 이번 프랑스의 공식 이의 제기는 EU 전역 승인까지 시일이 더 걸릴 수 있음을 시사한다. 로보택시·FSD 확장을 핵심 성장동력으로 내세우는 테슬라 입장에서, 유럽 시장 진입 지연은 주시할 변수다.",
-      "title_en": "France won't approve Tesla's FSD yet, citing <em>speeding and attention-monitoring gaps</em>",
-      "hotShort_en": "France <em>withholds FSD approval</em> over speeding",
-      "body_en": "French Transport Minister Philippe Tabarot said Tesla's FSD (Supervised) won't be approved \"as it currently stands\" — citing speed-matching behavior that can exceed posted limits by <em>up to 50%</em> without driver command, plus insufficient driver-attention monitoring in complex situations like roundabouts and lane changes. It's the first EU member state to formalize specific objections at the cabinet level while the bloc's Article 39 joint review continues.",
-      "summary_en": "French Transport Minister Philippe Tabarot said on July 22 that Tesla's Full Self-Driving (Supervised) system won't be approved \"as it currently stands,\" citing two safety concerns.\n\nFirst, FSD matches surrounding traffic speed in a way that can exceed the posted limit by up to 50% without an explicit driver command — for example, hitting 70 km/h in a 50 km/h zone. Second, the current driver-monitoring setup doesn't guarantee sufficient attention during complex urban situations such as roundabouts and lane changes.\n\nThe announcement makes France the first major European country to formalize specific objections to FSD at the cabinet level, after other EU countries had largely deferred to the European Commission's Article 39 joint review process. It stops short of an outright rejection, though — France said it will continue technical discussions with Tesla, the Netherlands, and other European countries.\n\nTesla has been expanding FSD ride-alongs across Europe as a signal it's getting closer to regulatory approval, but France's formal objection suggests EU-wide sign-off could still take longer. For a company leaning on Robotaxi and FSD expansion as core growth drivers, a delayed European rollout is a variable worth watching.",
-      "href": "https://electrek.co/2026/07/22/france-tesla-fsd-approval-tabarot-speeding/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Yahoo Finance"
-      ],
-      "sentiment": "bear",
-      "hot": 6
     },
     {
       "category": "fsd",
@@ -2335,32 +2356,7 @@
       ],
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
-      "pubDate": "2026-07-08T15:15:00.000Z",
-      "title": "월가, 테슬라·스페이스X 합병설에 <em>엇갈린 반응</em> — BNP \"회의적\" vs JP모건 \"이론상 타당\"",
-      "hotShort": "합병설에 월가 <em>반응 갈려</em> — BNP 회의 vs JPM 긍정",
-      "body": "BNP파리바는 현금소진·규제 리스크를 들어 테슬라·스페이스X 합병에 회의적 견해를 냈고, JP모건은 AI·로봇·에너지 시너지 면에서 \"이론적으로는 타당\"하다면서도 中 노출·다중 관할권 규제 승인을 걸림돌로 지목 — 아이브스의 '80% 확률' 전망 이후 월가 반응이 갈리기 시작했다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "musk-tesla-spacex-merger-wall-street-split-2026-07-08",
-      "summary": "지난주 웨드부시 아이브스 애널리스트의 '합병 확률 80%' 발언으로 재점화된 테슬라·스페이스X 합병설이, 이번엔 대형 투자은행들의 정식 분석 대상이 됐다.\n\nBNP파리바는 스페이스X의 막대한 현금 소진과 규제 리스크를 근거로 합병 실현 가능성에 회의적인 입장을 냈다.\n\n반면 JP모건은 AI·로봇·에너지·운송·우주를 아우르는 사업 중첩을 근거로 \"이론적으로는 타당(strategically coherent)\"하다고 평가하면서도, 실제 걸림돌로 中 노출에 따른 규제 리스크와 여러 관할권의 승인 절차를 꼽았다 — 스페이스X는 美 정부·군 주요 계약사이고 테슬라는 中 내 대규모 제조 기반을 갖고 있어, 국가안보·공급망 우려로 이어질 수 있다는 지적이다. 지배구조 측면에서도 머스크가 스페이스X 의결권의 약 85%를 보유한 반면 테슬라 지분은 약 20%에 그쳐, 두 회사 합병이 '대등한 결합'보다는 '스페이스X 주도의 인수'로 비칠 수 있다는 우려도 나온다.\n\n핵심 쟁점은 결국 하나로 귀결된다 — 합병이 AI·에너지·로보틱스를 아우르는 더 강력한 플랫폼을 만들지, 아니면 스페이스X의 손실·막대한 자금 수요·지배구조 리스크를 떠안아 테슬라 주주가치를 희석시킬지.",
-      "title_en": "Wall Street <em>splits</em> on Tesla-SpaceX merger — BNP skeptical, JPMorgan calls it 'coherent on paper'",
-      "hotShort_en": "Wall St <em>splits</em> on Tesla-SpaceX merger talk",
-      "body_en": "BNP Paribas turned skeptical on a Tesla-SpaceX merger, citing cash burn and regulatory risk, while JPMorgan called the combination \"strategically coherent on paper\" but flagged China exposure and multi-jurisdictional approvals as real hurdles — Wall Street's reaction is now splitting after Wedbush's Dan Ives put merger odds at 80% last week.",
-      "summary_en": "The Tesla-SpaceX merger speculation reignited last week by Wedbush's Dan Ives (80% odds) has now drawn formal analysis from major banks.\n\nBNP Paribas came out skeptical, pointing to SpaceX's heavy cash burn and regulatory risk as complicating factors for any combination.\n\nJPMorgan took a more measured view, calling the overlap across AI, robotics, energy, transportation and space \"strategically coherent on paper\" — but flagged the practical bottleneck of securing multi-jurisdictional regulatory approvals, especially given SpaceX's status as a major U.S. government/military contractor and Tesla's substantial manufacturing footprint in China, a combination that could draw national-security and supply-chain scrutiny. Governance is another sticking point: Musk controls roughly 85% of SpaceX's voting power versus about 20% of Tesla's, raising the perception this would be a SpaceX-led acquisition rather than a merger of equals.\n\nThe bigger question for Tesla investors: would a merger build a stronger AI-energy-robotics platform, or dilute shareholder value by adding SpaceX's losses, heavy spending needs, and governance risk?",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-new-car-401e238b",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Barron's",
-        "CNBC"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-24 00:08 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-24 04:12 KST 자동 갱신 · 최신순"
 }
