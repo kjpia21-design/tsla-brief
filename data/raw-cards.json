@@ -1,10 +1,75 @@
 {
-  "asOf": "2026-07-23 06:34 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-23 10:28 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "51m ago",
+      "pubDate": "2026-07-23T09:37:43.000Z",
+      "title": "Tesla's once-bullish tone on robotaxis shifts",
+      "body": "Tesla's once-bullish tone on robotaxis shifts Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/autos-transportation/teslas-once-bullish-tone-robotaxis-shifts-2026-07-23/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-23T09:06:05.000Z",
+      "title": "China Resumes Issuing Robotaxi Licenses After Long Freeze",
+      "body": "China Resumes Issuing Robotaxi Licenses After Long Freeze Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/china-resumes-issuing-robotaxi-licenses-after-months-long-freeze"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "27m ago",
+      "time": "2h ago",
+      "pubDate": "2026-07-23T08:25:50.000Z",
+      "title": "Tesla and Alphabet shares slump in premarket trading as AI spending concerns spook investors",
+      "body": "Tesla and Alphabet shares slump in premarket trading as AI spending concerns spook investors CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-23T07:37:00.000Z",
+      "title": "Shares of SpaceX Supplier STMicroelectronics Slump Despite Boost to AI Data-Center Sales Goal",
+      "body": "Shares of SpaceX Supplier STMicroelectronics Slump Despite Boost to AI Data-Center Sales Goal WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-hikes-ai-data-center-sales-goal-again-a49e9893"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "4h ago",
+      "pubDate": "2026-07-23T06:49:42.000Z",
+      "title": "Tesla Semi finally has an FSD timeline and it’s waiting on the Cybercab",
+      "body": "Tesla Semi finally has an FSD timeline and it’s waiting on the Cybercab Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-semi-fsd-self-driving/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
       "pubDate": "2026-07-23T06:07:21.000Z",
       "title": "Tesla now competes against the world's most advanced auto innovation ecosystem: expert",
       "body": "Tesla now competes against the world's most advanced auto innovation ecosystem: expert CNBC",
@@ -17,46 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-07-23T03:31:20.000Z",
-      "title": "See How Tesla’s Market Value Eclipses All the Other Automakers",
-      "body": "See How Tesla’s Market Value Eclipses All the Other Automakers WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/see-how-teslas-market-value-eclipses-all-the-other-automakers-59be3b37"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-07-23T03:31:20.000Z",
-      "title": "See How Tesla’s Market Value Eclipses All the Other Automakers",
-      "body": "See How Tesla’s Market Value Eclipses All the Other Automakers WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/see-how-teslas-market-value-eclipses-all-the-other-automakers-59be3b37"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-07-23T03:31:20.000Z",
-      "title": "See How Tesla’s Market Value Eclipses All the Other Automakers",
-      "body": "See How Tesla’s Market Value Eclipses All the Other Automakers WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/see-how-teslas-market-value-eclipses-all-the-other-automakers-59be3b37"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-23T01:48:00.000Z",
       "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
       "body": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth CNBC",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-23T01:48:00.000Z",
       "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
       "body": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth CNBC",
@@ -82,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-23T01:48:00.000Z",
       "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
       "body": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth CNBC",
@@ -90,12 +116,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/amp/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+      "href": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-23T01:13:00.000Z",
       "title": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap",
       "body": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap Reuters",
@@ -108,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-23T01:12:50.000Z",
       "title": "New Zealand’s ‘rocket man’ takes on Elon Musk and Jeff Bezos",
       "body": "New Zealand’s ‘rocket man’ takes on Elon Musk and Jeff Bezos Financial Times",
@@ -121,8 +147,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-07-23T01:05:45.000Z",
+      "time": "10h ago",
+      "pubDate": "2026-07-23T00:45:00.000Z",
       "title": "Tesla shareholders 'are holding the short end of the stick' if no SpaceX merger: Ross Gerber",
       "body": "Tesla shareholders 'are holding the short end of the stick' if no SpaceX merger: Ross Gerber CNBC",
       "sourceName": "CNBC",
@@ -134,20 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-07-23T00:56:15.000Z",
-      "title": "Tesla still has no real plan for Hardware 3 owners promised FSD",
-      "body": "Elon Musk was asked directly on Tesla’s Q2 2026 earnings call whether the company still plans to upgrade Hardware 3 (HW3) cars so they can run its latest “Full Self-Driving” software. His answer made one thing clear: Tes…",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/07/22/tesla-hardware-3-fsd-no-plan-musk-earnings-call/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-23T00:34:06.000Z",
       "title": "If Tesla can't solve full self-driving, 'they don't really have a business': Ross Gerber",
       "body": "If Tesla can't solve full self-driving, 'they don't really have a business': Ross Gerber CNBC",
@@ -158,22 +171,9 @@
       "href": "https://www.cnbc.com/video/2026/07/23/tesla-has-no-business-without-solving-full-self-driving-ross-gerber.html"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
-      "pubDate": "2026-07-22T23:17:00.000Z",
-      "title": "Earnings at Musk’s car company fall as research spending cuts into profit from selling cars",
-      "body": "Earnings at Musk’s car company fall as research spending cuts into profit from selling cars AP News",
-      "sourceName": "AP News",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://apnews.com/article/tesla-musk-electric-vehicles-robotaxis-robots-976cc9e895bbdcbd3728e7ba178ffe40"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-22T23:13:00.000Z",
       "title": "Tesla’s $5.8 Billion in Spending Turns Cash Flow Negative Despite Revenue Surge",
       "body": "Tesla’s $5.8 Billion in Spending Turns Cash Flow Negative Despite Revenue Surge WSJ",
@@ -186,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-22T23:13:00.000Z",
       "title": "Tesla’s $5.8 Billion in Spending Turns Cash Flow Negative Despite Revenue Surge",
       "body": "Tesla’s $5.8 Billion in Spending Turns Cash Flow Negative Despite Revenue Surge WSJ",
@@ -197,22 +197,9 @@
       "href": "https://www.wsj.com/business/autos/tesla-tsla-q2-earnings-report-2026-stock-2c5f5a41"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
-      "pubDate": "2026-07-22T22:04:44.000Z",
-      "title": "Tesla starts preparing for Optimus in its smartphone app",
-      "body": "Tesla starts preparing for Optimus in its smartphone app Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-starts-preparing-optimus-smartphone-app/"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-22T21:19:19.000Z",
       "title": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more",
       "body": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more CNBC",
@@ -223,23 +210,10 @@
       "href": "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
-      "pubDate": "2026-07-22T20:56:01.000Z",
-      "title": "Tesla says ‘Robotaxi’ is expanding — its own chart shows it’s not",
-      "body": "Tesla told shareholders this week that its Robotaxi service is expanding. The company’s own chart proves it isn’t. In its Q2 2026 update, Tesla leaned on a cumulative “paid Robotaxi miles” chart climbing past 2.4 million…",
-      "sourceName": "electrek.co",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/07/22/tesla-robotaxi-growth-flat-own-chart-q2-2026/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
-      "pubDate": "2026-07-22T11:58:01.000Z",
+      "time": "14h ago",
+      "pubDate": "2026-07-22T20:11:28.000Z",
       "title": "S&P 500 Fluctuates as Traders Brace for Alphabet, Tesla Results",
       "body": "S&P 500 Fluctuates as Traders Brace for Alphabet, Tesla Results Bloomberg.com",
       "sourceName": "Bloomberg.com",
@@ -251,7 +225,20 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "21h ago",
+      "time": "1d ago",
+      "pubDate": "2026-07-22T09:30:00.000Z",
+      "title": "See How Tesla’s Market Value Eclipses All the Other Automakers",
+      "body": "See How Tesla’s Market Value Eclipses All the Other Automakers WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/business/autos/see-how-teslas-market-value-eclipses-all-the-other-automakers-59be3b37"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1d ago",
       "pubDate": "2026-07-22T09:15:22.000Z",
       "title": "Tesla’s Cratering Cybertruck Sales Evoke Ford Edsel Comparisons",
       "body": "Tesla’s Cratering Cybertruck Sales Evoke Ford Edsel Comparisons Bloomberg.com",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/features/2026-07-22/tesla-cybertruck-risks-becoming-the-ford-edsel-of-the-ev-era"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2d ago",
+      "pubDate": "2026-07-21T20:05:33.000Z",
+      "title": "Tesla’s Problem Is Opposite of Big Tech: Not Enough AI Spending",
+      "body": "Tesla’s Problem Is Opposite of Big Tech: Not Enough AI Spending Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-21/tesla-s-problem-is-opposite-of-big-tech-not-enough-ai-spending"
     }
   ]
 }
