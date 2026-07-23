@@ -91,6 +91,39 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-23T07:55:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-merger-speculation-2026-07-22",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press(Reuters) 적절 — 실적콜 발언에 대한 통신사 보도, 1차 공시 아님",
+            "조언톤 없음(매수·매도·목표가 언급 X)",
+            "원문 hedge('there's more and more overlap', '적절한 절차 필요') 유지 — 카드도 '합병 가능성 시사'로 완화 표현, 단정('합병 확정') 전환 없음",
+            "핵심 인용·수치($75B IPO, 배터리·TeraFab 공동 프로젝트)는 WebSearch로 확인된 Reuters 기사 발췌와 일치",
+            "href가 실제 사건(테슬라·스페이스X 합병 발언) 기사와 일치, 밈/풍자 아님(정식 실적콜 발언)",
+            "WebFetch(reuters.com) 직접 접근 차단(도구 오류) — WebSearch로 Reuters 기사 인용문·KSL/WTVB/Forbes 교차 확인으로 대체(fail-open 원칙)"
+          ]
+        },
+        {
+          "slug": "fsd-hw3-upgrade-no-plan-2026-07-22",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press(Electrek) 적절",
+            "조언톤 없음",
+            "원문 hedge('would make sense', 'financially sensible at some point', 확답 없음) 그대로 유지 — 카드 제목도 '확정된 계획 없다'로 정확히 완화 표현, 단정 전환 없음",
+            "'최대 400만 대' 수치는 Electrek 자체 이전 보도치로 명확히 귀속('Electrek는 앞서... 짚은 바 있다') — 머스크 발언으로 오인되지 않게 서술",
+            "href가 실제 기사(HW3 FSD 업그레이드 계획 부재)와 일치, 밈/풍자 아님(정식 실적콜 Q&A)",
+            "WebFetch(electrek.co) 403 차단 — WebSearch로 원문 인용구 교차 확인 후 대체(fail-open 원칙)"
+          ]
+        }
+      ]
     }
   ]
 }

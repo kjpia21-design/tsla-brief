@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-23T01:13:00.000Z",
+      "title": "머스크, 실적콜서 테슬라·스페이스X <em>합병 가능성</em> 다시 띄워 — \"사업 중첩 갈수록 커져\"",
+      "hotShort": "머스크, 테슬라·스페이스X <em>합병 가능성</em> 다시 띄워",
+      "body": "일론 머스크가 22일 테슬라 2분기 실적콜에서 테슬라·스페이스X 합병 가능성을 부인하지 않고 \"두 회사의 사업 중첩이 점점 커지고 있다\"고 말했다 — 확정된 계획은 아니지만, 머스크 제국 통합 시나리오가 다시 투자자 화두로 떠올랐다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-merger-speculation-2026-07-22",
+      "summary": "22일 실적콜 질의응답에서 테슬라·스페이스X 합병 여부를 묻는 질문에, 머스크는 이를 일축하지 않았다. \"스페이스X와 여러 분야에서 협업이 늘고 있는 걸 보면 알 수 있듯, 사업 중첩이 점점 더 커지고 있다\"고 답하면서도 \"이런 논의는 실적콜에서 할 수 있는 게 아니다 — 적절한 절차를 거쳐야 한다\"고 선을 그었다.\n\n두 회사의 중첩은 이미 구체적이다. 테슬라는 스페이스X의 일부 프로젝트에 배터리와 제조 기술을 공급해왔고, 양사는 AI 반도체를 생산할 반도체 공장 '테라팹(TeraFab)'을 공동으로 짓고 있다.\n\n합병설 자체는 새로운 이야기가 아니다. 투자자·애널리스트 사이에서 오래 거론돼 온 시나리오지만, 스페이스X가 사상 최대 규모($750억)의 IPO를 추진하는 과정에서 논의가 다시 달아올랐다. 찬성 측은 합병이 성사되면 AI·로보틱스·제조·에너지·우주 인프라를 아우르는 머스크의 사업 구조를 단순화하고 통합할 수 있다고 본다.\n\n다만 머스크 본인도 \"정식 절차\"를 언급한 만큼, 현재로선 구체적 일정이나 조건이 나온 단계는 전혀 아니다 — 투자자들은 가능성에 주목하되 확정 소식으로 오인해선 안 된다.",
+      "title_en": "Musk keeps Tesla-SpaceX <em>merger door open</em>, cites growing overlap",
+      "hotShort_en": "Musk keeps Tesla-SpaceX <em>merger door open</em>",
+      "body_en": "Elon Musk didn't rule out a Tesla-SpaceX merger on Tesla's Q2 earnings call, saying \"there's more and more overlap\" between the two companies — nothing is decided, but the idea of consolidating Musk's empire is back on investors' minds.",
+      "summary_en": "Asked on the July 22 earnings call whether Tesla and SpaceX might merge, Musk didn't dismiss it. \"As you can tell from the many collaborations on so many fronts with SpaceX, there's more and more overlap,\" he said, while cautioning that \"it's got to be done with the appropriate process\" and can't be discussed on an earnings call.\n\nThe overlap is already concrete: Tesla supplies batteries and manufacturing technology for some SpaceX projects, and the two companies are jointly building TeraFab, a semiconductor plant meant to produce AI chips.\n\nMerger speculation isn't new — investors and analysts have floated it for years — but discussion intensified as SpaceX pursues a record $75 billion IPO. Proponents argue combining the firms could simplify and unify Musk's sprawling empire across AI, robotics, manufacturing, energy, and space infrastructure.\n\nStill, with Musk himself pointing to a formal process that hasn't started, there's no timeline or terms on the table yet — investors should treat this as speculation revived, not news confirmed.",
+      "href": "https://www.reuters.com/legal/legalindustry/musk-keeps-tesla-spacex-merger-speculation-alive-cites-growing-overlap-2026-07-23/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "Forbes"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-23T00:56:15.000Z",
+      "title": "머스크, HW3 차주 FSD 업그레이드 질문에 \"<em>확정된 계획 없다</em>\" — 수백만 대 숙제 여전",
+      "hotShort": "HW3 FSD 업그레이드, 머스크도 <em>확답 못해</em>",
+      "body": "일론 머스크가 22일 실적콜에서 하드웨어3(HW3) 차량의 FSD 업그레이드 계획을 묻는 질문에 \"언젠가는 재정적으로 타당해질 것\"이라면서도 시기·비용은 못박지 않았다 — '모든 필요 하드웨어가 있다'던 과거 약속을 지킬 구체적 로드맵은 여전히 없다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-hw3-upgrade-no-plan-2026-07-22",
+      "summary": "테슬라 2분기 실적콜에서 하드웨어3(HW3) 탑재 차량에 최신 FSD를 구동할 수 있게 업그레이드할 계획이 여전히 유효한지 직접 질문이 나왔다. 머스크는 \"HW4 미만 모든 차량을 업그레이드하는 게 합리적일 것\"이라며 \"언젠가는 재정적으로 타당해질 것\"이라고 답했지만, 시기·방식·비용에 대한 구체적 약속은 이번에도 내놓지 않았다.\n\n이 문제는 수년째 이어져온 논란이다. 테슬라는 HW3 차량을 판매하며 \"완전자율주행에 필요한 모든 하드웨어가 탑재됐다\"고 강조해왔지만, 정작 최신 FSD 성능은 HW4 이상에서만 온전히 구현된다. Electrek는 앞서 테슬라가 결국 최대 400만 대 규모 HW3 차량의 컴퓨터를 교체하거나 오너들에게 별도 보상을 해야 할 수 있다고 짚은 바 있다.\n\n임시방편은 이미 시작됐다. 테슬라는 경량화한 'FSD v14 Lite'를 HW3 차량에 순차 배포 중이지만, 이는 근본적 하드웨어 격차를 메우기보다 그 격차를 드러내는 조치라는 평가가 나온다.\n\n주주 입장에선 두 가지가 겹친다 — 수백만 오너와의 신뢰 문제, 그리고 컴퓨터 교체·보상이 현실화될 경우의 잠재적 비용 부담이다. 확정된 로드맵이 나오기 전까진 이 불확실성이 계속될 전망이다.",
+      "title_en": "Musk gives <em>no firm plan</em> for Hardware 3 owners promised FSD",
+      "hotShort_en": "HW3 owners still get <em>no firm FSD plan</em>",
+      "body_en": "Asked directly on the Q2 earnings call whether Hardware 3 cars will be upgraded for the latest FSD, Musk said it would be \"financially sensible at some point\" — without committing to a timeline, method, or cost for the millions of owners still waiting.",
+      "summary_en": "On Tesla's Q2 earnings call, Musk was asked point-blank whether Tesla still plans to upgrade Hardware 3 (HW3) vehicles so they can run its latest FSD software. He said it would \"make sense\" to upgrade \"all cars that have less than Hardware 4\" and that it would be \"financially sensible at some point\" — but again offered no commitment on timing, method, or cost.\n\nThe issue has dragged on for years. Tesla sold HW3 vehicles on the promise that they had \"all the hardware necessary\" for full self-driving, yet the latest FSD performance is only fully realized on Hardware 4 and above. Electrek has previously reported Tesla may ultimately need to replace the onboard computer in as many as 4 million HW3 vehicles, or compensate owners instead.\n\nA stopgap is already underway: Tesla has begun rolling out a stripped-down \"FSD v14 Lite\" to HW3 cars — a move critics say highlights the hardware gap rather than closing it.\n\nFor shareholders, two things are stacked here: trust with millions of owners, and the potential cost if a computer swap or compensation program becomes real. Both remain unresolved until Tesla commits to an actual roadmap.",
+      "href": "https://electrek.co/2026/07/22/tesla-hardware-3-fsd-no-plan-musk-earnings-call/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "4h ago",
@@ -131,57 +176,7 @@
       "href": "https://www.bloomberg.com/news/features/2026-07-22/tesla-cybertruck-risks-becoming-the-ford-edsel-of-the-ev-era",
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-21T20:37:53.000Z",
-      "title": "NHTSA, 테슬라 저시계 FSD 조사서 <em>'레이더가 우리를 구한다'</em> 내부문서 요구 — 레이더 제거 결정 정조준",
-      "hotShort": "NHTSA, FSD 조사 중 <em>레이더 제거 문서</em> 요구",
-      "body": "NHTSA가 저시계(안개·역광·먼지) 상황 FSD 사고를 조사하는 '엔지니어링 분석'(리콜 여부를 가르는 최종 단계)의 일환으로, 테슬라가 레이더를 없앤 결정과 관련된 내부문서 '레이더가 우리를 구한다(Radar Saves Us)'를 24개 항목 정보요구서로 제출받았다 — <em>320만대·9건 사고(사망 1건 포함)</em>를 다루는 이 조사가 레이더 제거 결정 자체를 정조준하기 시작했다는 신호다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-nhtsa-radar-saves-us-document-2026-07-21",
-      "summary": "Electrek 보도에 따르면 NHTSA는 지난 <em>7월2일</em> 테슬라에 24개 항목으로 구성된 정보요구서를 보냈고, 그중 하나가 '레이더가 우리를 구한다(Radar Saves Us)'는 제목의 내부문서다. 이 문서명은 이전 조사 단계에서 테슬라가 비공개로 NHTSA에 제출했던 것으로, 이번 서한을 통해 처음 외부에 알려졌다.\n\nNHTSA는 이 문서가 \"열화 감지 시스템 설계 변경과, 비전 전용 OEDR(주행환경감지) 시스템의 한계에 대한 테슬라의 이해와 특히 관련이 있어 보인다\"고 설명했다. 카메라만으로 도로 상황을 인식하는 테슬라 방식이 안개·역광·먼지 등으로 시야가 저하될 때 실제로 어디까지 대응 가능한지, 그리고 레이더를 왜 뺐는지를 정면으로 겨냥한 요구다.\n\n이번 조사는 미국에서 FSD를 실행한 적 있는 약 <em>320만대</em>를 대상으로, 저시계 상황에서 FSD가 작동 중이던 <em>9건</em>의 사고(사망 1건·부상 1건 포함)를 다룬다. 사고 상황은 한결같이 햇빛 눈부심·안개·비산 먼지 등으로 카메라 인식이 저하된 조건이었다.\n\n조사 단계 자체는 이미 '엔지니어링 분석(Engineering Analysis)'로, NHTSA가 사건을 종결하거나 리콜을 추진하기 직전의 마지막 절차다. 정보요구서는 테슬라와 일론 머스크의 마케팅 발언들이 \"실제 시스템의 능력보다 과장된 수준의 자율성을 암시하는지\" 확인해달라는 요구도 포함하고 있어, 광고 문구까지 조사 대상에 올랐다.\n\n22일 2분기 실적발표를 하루 앞두고 나온 이 소식은, 로보택시·FSD를 핵심 성장동력으로 내세우는 테슬라에 규제 리스크가 여전히 살아있음을 보여준다 — 리콜로 이어지면 소프트웨어 무상 업데이트로 그칠 수도 있지만, 비전온리 전략 자체의 정당성을 둘러싼 논쟁이 격화될 소지가 있다.",
-      "title_en": "NHTSA demands Tesla's <em>'Radar Saves Us'</em> document in FSD low-visibility crash probe",
-      "hotShort_en": "NHTSA seeks Tesla's <em>radar removal</em> document",
-      "body_en": "As part of its Engineering Analysis into FSD crashes in low-visibility conditions — the final step before NHTSA closes a case or pushes for a recall — the agency has demanded an internal Tesla document titled <em>'Radar Saves Us'</em> via a 24-part information request, directly targeting Tesla's decision to strip radar from its cars in a probe covering <em>3.2 million vehicles and nine crashes</em>, including one fatality.",
-      "summary_en": "According to Electrek, NHTSA sent Tesla a 24-part information demand on <em>July 2</em>, one item of which names an internal document called \"Radar Saves Us.\" The document's existence was previously unknown publicly — Tesla had handed it to the agency privately during an earlier phase of the investigation — and only surfaced now through this new demand letter.\n\nNHTSA said the document \"appears particularly relevant to related design changes to the degradation detection system and Tesla's understanding of the limitations imposed by a vision-only OEDR system.\" In other words, the agency is directly probing how far Tesla's camera-only approach can actually cope with degraded visibility — and why radar was removed in the first place.\n\nThe investigation covers roughly <em>3.2 million</em> Tesla vehicles that have ever run FSD in the U.S., tied to <em>nine crashes</em> where FSD was engaged in reduced-visibility conditions — including one fatality and one injury. The common thread across the crashes is degraded camera performance from sun glare, fog, or airborne dust.\n\nThe probe is already at the Engineering Analysis stage, the last step before NHTSA either closes the case or pushes for a recall. The information demand also asks Tesla to confirm whether marketing statements from the company and Elon Musk \"imply a higher level of capability or automation than the system currently has\" — putting Tesla's advertising claims under the same scrutiny.\n\nLanding one day before Tesla's July 22 Q2 earnings call, the news is a reminder that regulatory risk around FSD and Robotaxi — the growth engines central to Tesla's valuation — remains very much alive. A recall, if it comes, could be resolved with a free software update, but the episode is likely to intensify debate over the validity of Tesla's vision-only strategy itself.",
-      "href": "https://electrek.co/2026/07/21/nhtsa-tesla-radar-saves-us-document-fsd-probe/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Basenor"
-      ],
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-21T14:10:49.000Z",
-      "title": "스페이스X, 8월4일 첫 실적발표 확정 — <em>최대 $1160억 락업 해제</em> 촉발",
-      "hotShort": "스페이스X 8/4 실적 확정, <em>대규모 락업 해제</em>",
-      "body": "스페이스X가 상장 후 첫 분기 실적발표일을 <em>8월4일</em>로 확정하면서, 발표 이틀 뒤부터 내부자 보유주식 최대 20%(최대 9억1150만주)의 락업이 풀린다 — 공모가를 밑도는 주가 흐름 속에 대규모 매물 우려가 커지는 가운데, 테슬라와의 합병 논의 변수로도 거론되는 스페이스X 밸류에이션에 이목이 쏠린다.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-earnings-date-lockup-expiration-2026-07-21",
-      "summary": "CNBC에 따르면 스페이스X는 상장 이후 첫 분기 실적을 <em>8월4일</em> 장마감 후 발표한다고 확정했다. 상장 당시 계약된 락업 조항에 따라, 이 실적발표가 첫 번째 '트리거 이벤트'가 돼 이틀 뒤인 8월6일부터 내부자들이 제한주식 매도를 시작할 수 있게 된다.\n\n블룸버그는 이번 물량을 '대해빙(the Great Unlocking)'이라 표현하며 최대 <em>$1160억</em> 규모라고 추산했다(최대 20%, 최대 9억1150만주 기준 — 매체별 산정 시점 주가 차이로 다른 매체는 $1090억대로도 추산). 이후에도 상장 후 70·90·105·120·135일 시점에 각각 지분 <em>7%</em>씩 추가로 풀리고, 3분기 실적 발표 시 <em>28%</em>가, 상장 180일째인 12월8일에 잔여 물량 전량이 해제되는 단계적 스케줄이다.\n\n다만 일론 머스크 본인이 보유한 64억 주는 이번 해제 대상이 아니다 — 머스크 지분은 2027년 6월12일까지 별도로 묶여 있다.\n\n스페이스X는 지난 6월 사상 최대 규모로 상장했지만 한 달여 만에 주가가 공모가 아래로 떨어졌고, 대규모 숏 포지션까지 몰린 상태다. 테슬라 주주 입장에서는 이번 락업 해제로 인한 매물 압력이 스페이스X 주가 변동성을 키울 경우, 시장에서 거론돼 온 테슬라-스페이스X 합병 논의의 밸류에이션 셈법에도 영향을 줄 수 있어 주시할 필요가 있다.",
-      "title_en": "SpaceX sets <em>Aug. 4 earnings date</em>, triggering up to $116B lock-up release",
-      "hotShort_en": "SpaceX earnings Aug 4 triggers <em>lock-up release</em>",
-      "body_en": "SpaceX confirmed its first post-IPO quarterly earnings date for <em>August 4</em>, which triggers the lock-up expiration allowing insiders to sell up to 20% of restricted shares — as many as 911.5 million shares — starting two days later, drawing fresh attention to SpaceX's valuation just as it keeps coming up as a variable in Tesla merger speculation.",
-      "summary_en": "According to CNBC, SpaceX confirmed it will report its first quarterly earnings as a public company after the close on <em>August 4</em>. Under the terms of its IPO lock-up agreement, the earnings report is the first \"trigger event,\" opening a window two days later, on August 6, for insiders to begin selling restricted shares.\n\nBloomberg dubbed the coming share release \"the Great Unlocking,\" estimating it at up to <em>$116 billion</em> (based on up to 20%, or 911.5 million shares — other outlets put the figure closer to $109 billion depending on the share price used at calculation time). Additional tranches of <em>7%</em> each unlock at 70, 90, 105, 120 and 135 days after the IPO, another <em>28%</em> unlocks at the Q3 earnings report, and the remainder becomes freely tradable when the 180-day lock-up expires on December 8.\n\nElon Musk's own 6.4 billion shares are not part of this release — his stake remains locked separately until June 12, 2027.\n\nSpaceX went public in June in the largest IPO ever, but its stock has since fallen below the offer price and drawn heavy short interest. For Tesla shareholders, if the lock-up release adds selling pressure and volatility to SpaceX shares, it could feed into the valuation math behind the Tesla-SpaceX merger speculation that's already circulating in the market.",
-      "href": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "CNBC",
-        "Bloomberg"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-23 08:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-23 10:20 KST 자동 갱신 · 최신순"
 }

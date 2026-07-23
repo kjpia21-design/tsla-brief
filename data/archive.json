@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-23T01:13:00.000Z",
+      "title": "머스크, 실적콜서 테슬라·스페이스X <em>합병 가능성</em> 다시 띄워 — \"사업 중첩 갈수록 커져\"",
+      "hotShort": "머스크, 테슬라·스페이스X <em>합병 가능성</em> 다시 띄워",
+      "body": "일론 머스크가 22일 테슬라 2분기 실적콜에서 테슬라·스페이스X 합병 가능성을 부인하지 않고 \"두 회사의 사업 중첩이 점점 커지고 있다\"고 말했다 — 확정된 계획은 아니지만, 머스크 제국 통합 시나리오가 다시 투자자 화두로 떠올랐다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-merger-speculation-2026-07-22",
+      "summary": "22일 실적콜 질의응답에서 테슬라·스페이스X 합병 여부를 묻는 질문에, 머스크는 이를 일축하지 않았다. \"스페이스X와 여러 분야에서 협업이 늘고 있는 걸 보면 알 수 있듯, 사업 중첩이 점점 더 커지고 있다\"고 답하면서도 \"이런 논의는 실적콜에서 할 수 있는 게 아니다 — 적절한 절차를 거쳐야 한다\"고 선을 그었다.\n\n두 회사의 중첩은 이미 구체적이다. 테슬라는 스페이스X의 일부 프로젝트에 배터리와 제조 기술을 공급해왔고, 양사는 AI 반도체를 생산할 반도체 공장 '테라팹(TeraFab)'을 공동으로 짓고 있다.\n\n합병설 자체는 새로운 이야기가 아니다. 투자자·애널리스트 사이에서 오래 거론돼 온 시나리오지만, 스페이스X가 사상 최대 규모($750억)의 IPO를 추진하는 과정에서 논의가 다시 달아올랐다. 찬성 측은 합병이 성사되면 AI·로보틱스·제조·에너지·우주 인프라를 아우르는 머스크의 사업 구조를 단순화하고 통합할 수 있다고 본다.\n\n다만 머스크 본인도 \"정식 절차\"를 언급한 만큼, 현재로선 구체적 일정이나 조건이 나온 단계는 전혀 아니다 — 투자자들은 가능성에 주목하되 확정 소식으로 오인해선 안 된다.",
+      "title_en": "Musk keeps Tesla-SpaceX <em>merger door open</em>, cites growing overlap",
+      "hotShort_en": "Musk keeps Tesla-SpaceX <em>merger door open</em>",
+      "body_en": "Elon Musk didn't rule out a Tesla-SpaceX merger on Tesla's Q2 earnings call, saying \"there's more and more overlap\" between the two companies — nothing is decided, but the idea of consolidating Musk's empire is back on investors' minds.",
+      "summary_en": "Asked on the July 22 earnings call whether Tesla and SpaceX might merge, Musk didn't dismiss it. \"As you can tell from the many collaborations on so many fronts with SpaceX, there's more and more overlap,\" he said, while cautioning that \"it's got to be done with the appropriate process\" and can't be discussed on an earnings call.\n\nThe overlap is already concrete: Tesla supplies batteries and manufacturing technology for some SpaceX projects, and the two companies are jointly building TeraFab, a semiconductor plant meant to produce AI chips.\n\nMerger speculation isn't new — investors and analysts have floated it for years — but discussion intensified as SpaceX pursues a record $75 billion IPO. Proponents argue combining the firms could simplify and unify Musk's sprawling empire across AI, robotics, manufacturing, energy, and space infrastructure.\n\nStill, with Musk himself pointing to a formal process that hasn't started, there's no timeline or terms on the table yet — investors should treat this as speculation revived, not news confirmed.",
+      "href": "https://www.reuters.com/legal/legalindustry/musk-keeps-tesla-spacex-merger-speculation-alive-cites-growing-overlap-2026-07-23/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "Forbes"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-07-23T00:56:15.000Z",
+      "title": "머스크, HW3 차주 FSD 업그레이드 질문에 \"<em>확정된 계획 없다</em>\" — 수백만 대 숙제 여전",
+      "hotShort": "HW3 FSD 업그레이드, 머스크도 <em>확답 못해</em>",
+      "body": "일론 머스크가 22일 실적콜에서 하드웨어3(HW3) 차량의 FSD 업그레이드 계획을 묻는 질문에 \"언젠가는 재정적으로 타당해질 것\"이라면서도 시기·비용은 못박지 않았다 — '모든 필요 하드웨어가 있다'던 과거 약속을 지킬 구체적 로드맵은 여전히 없다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-hw3-upgrade-no-plan-2026-07-22",
+      "summary": "테슬라 2분기 실적콜에서 하드웨어3(HW3) 탑재 차량에 최신 FSD를 구동할 수 있게 업그레이드할 계획이 여전히 유효한지 직접 질문이 나왔다. 머스크는 \"HW4 미만 모든 차량을 업그레이드하는 게 합리적일 것\"이라며 \"언젠가는 재정적으로 타당해질 것\"이라고 답했지만, 시기·방식·비용에 대한 구체적 약속은 이번에도 내놓지 않았다.\n\n이 문제는 수년째 이어져온 논란이다. 테슬라는 HW3 차량을 판매하며 \"완전자율주행에 필요한 모든 하드웨어가 탑재됐다\"고 강조해왔지만, 정작 최신 FSD 성능은 HW4 이상에서만 온전히 구현된다. Electrek는 앞서 테슬라가 결국 최대 400만 대 규모 HW3 차량의 컴퓨터를 교체하거나 오너들에게 별도 보상을 해야 할 수 있다고 짚은 바 있다.\n\n임시방편은 이미 시작됐다. 테슬라는 경량화한 'FSD v14 Lite'를 HW3 차량에 순차 배포 중이지만, 이는 근본적 하드웨어 격차를 메우기보다 그 격차를 드러내는 조치라는 평가가 나온다.\n\n주주 입장에선 두 가지가 겹친다 — 수백만 오너와의 신뢰 문제, 그리고 컴퓨터 교체·보상이 현실화될 경우의 잠재적 비용 부담이다. 확정된 로드맵이 나오기 전까진 이 불확실성이 계속될 전망이다.",
+      "title_en": "Musk gives <em>no firm plan</em> for Hardware 3 owners promised FSD",
+      "hotShort_en": "HW3 owners still get <em>no firm FSD plan</em>",
+      "body_en": "Asked directly on the Q2 earnings call whether Hardware 3 cars will be upgraded for the latest FSD, Musk said it would be \"financially sensible at some point\" — without committing to a timeline, method, or cost for the millions of owners still waiting.",
+      "summary_en": "On Tesla's Q2 earnings call, Musk was asked point-blank whether Tesla still plans to upgrade Hardware 3 (HW3) vehicles so they can run its latest FSD software. He said it would \"make sense\" to upgrade \"all cars that have less than Hardware 4\" and that it would be \"financially sensible at some point\" — but again offered no commitment on timing, method, or cost.\n\nThe issue has dragged on for years. Tesla sold HW3 vehicles on the promise that they had \"all the hardware necessary\" for full self-driving, yet the latest FSD performance is only fully realized on Hardware 4 and above. Electrek has previously reported Tesla may ultimately need to replace the onboard computer in as many as 4 million HW3 vehicles, or compensate owners instead.\n\nA stopgap is already underway: Tesla has begun rolling out a stripped-down \"FSD v14 Lite\" to HW3 cars — a move critics say highlights the hardware gap rather than closing it.\n\nFor shareholders, two things are stacked here: trust with millions of owners, and the potential cost if a computer swap or compensation program becomes real. Both remain unresolved until Tesla commits to an actual roadmap.",
+      "href": "https://electrek.co/2026/07/22/tesla-hardware-3-fsd-no-plan-musk-earnings-call/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "4h ago",
@@ -2325,58 +2370,7 @@
       ],
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-08T13:19:13.000Z",
-      "title": "테슬라, 가정용 에너지 앱 '테슬라 홈' 출시 — AI '옵티캐스터'가 <em>파워월 하루 수백 번 충방전 결정</em>",
-      "hotShort": "테슬라 홈 출시 — AI가 <em>전기요금 자동 최적화</em>",
-      "body": "테슬라가 파워월 소유자를 위한 신규 앱 '테슬라 홈'을 출시했다 — 내장 AI 엔진 '옵티캐스터'가 하루 수백 번 충전·방전 시점을 스스로 판단해 전기요금을 낮추고, 스마트 브레이커로 개별 회로 제어까지 지원한다. 기존 파워월 오너는 별도 하드웨어 없이 바로 이용 가능해, 테슬라 에너지 사업의 소비자 접점을 넓히는 신호다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-tesla-home-opticaster-launch-2026-07-08",
-      "summary": "테슬라가 8일(현지시간) 가정용 에너지 관리 플랫폼 '테슬라 홈'을 공식 출시했다. 핵심은 모든 파워월에 이미 탑재된 AI 엔진 '옵티캐스터'로, 태양광 발전량과 날씨 예보, 가정의 전력 사용 패턴을 예측해 하루 수백 차례 충전·방전 전략을 자동 수립한다.\n\n이번 업데이트로 앱에 스마트 브레이커 연동 기능이 추가돼, 오너가 개별 회로 단위로 정전 시 우선 가동할 부하를 직접 정할 수 있게 됐다. 시스템이 지금 무엇을 왜 하고 있는지 요약해주는 'Home Status' 기능도 새로 붙었다.\n\n다만 옵티캐스터 자체는 완전히 새로운 기술은 아니다 — 테슬라는 수년간 파워월 현장에서 이 AI로 배터리를 최적화해왔고, '테슬라 홈'은 그 기술을 소비자 친화적 이름과 인터페이스로 재포장한 성격이 크다. 그럼에도 기존 파워월 오너는 추가 하드웨어 없이 바로 이용할 수 있어, 에너지 사업 부문의 소비자 인터페이스를 강화하려는 의도로 읽힌다.",
-      "title_en": "Tesla launches 'Tesla Home' app — AI 'Opticaster' <em>makes hundreds of battery calls a day</em>",
-      "hotShort_en": "Tesla Home launches — AI <em>automates your power bill</em>",
-      "body_en": "Tesla has launched 'Tesla Home,' a new app for Powerwall owners — its built-in AI engine, Opticaster, makes hundreds of charge/discharge decisions a day to lower electricity bills, and now adds smart-breaker control over individual circuits. Existing Powerwall owners can use it with no extra hardware, extending Tesla Energy's reach into the consumer app layer.",
-      "summary_en": "Tesla officially launched Tesla Home, a home energy management platform, on July 8. At its core is Opticaster, an AI engine already running on every Powerwall, which forecasts solar production, weather and household usage patterns to build an automatic charge/discharge strategy — making hundreds of decisions a day.\n\nThe update adds smart-breaker integration to the app, letting owners decide which individual circuits get priority power during an outage, plus a new 'Home Status' feature that summarizes what the system is doing and why.\n\nOpticaster itself isn't entirely new technology — Tesla has been optimizing Powerwall batteries with this AI in the field for years, and Tesla Home is largely a consumer-facing rebrand and interface wrapped around it. Still, existing Powerwall owners can use it immediately with no added hardware, signaling Tesla's push to strengthen the consumer-facing side of its energy business.",
-      "href": "https://electrek.co/2026/07/08/tesla-home-opticaster-ai-energy-platform/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "Drive Tesla Canada",
-        "Not a Tesla App"
-      ],
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-07-08T12:26:05.000Z",
-      "title": "테슬라 중국, 6월 <em>8만9091대 판매</em> — 올해 최고 실적, 모델Y 현지 1위",
-      "hotShort": "테슬라 中 6월 <em>8.9만대 판매</em> — 올 최고 실적",
-      "body": "테슬라 중국이 6월 소매 5만2920대·수출 3만6171대, 합계 8만9091대를 판매해 올해 최대 월간 실적(전년比 약 24% 증가)을 기록 — 모델Y는 中 로컬 등록 3만8654대로 승용차 판매 1위, 美 세액공제 종료 이후 우려되던 中 수요 둔화론을 일부 잠재웠다.",
-      "sourceName": "Tesla Chan (X)",
-      "sourceLabel": "press",
-      "slug": "stock-china-june-sales-record-2026-07-08",
-      "summary": "테슬라의 2분기 실적 발표(7월22일)를 앞두고, 중국 시장의 세부 월간 데이터가 먼저 공개됐다. 중국승용차협회(CPCA) 집계에 따르면 테슬라는 국내외 판매를 합쳐 올해 들어 가장 강한 한 달을 보냈다.\n\n구체적으로 소매(내수) 5만2920대, 수출 3만6171대로 총 8만9091대 — 전년 동월 대비 약 24% 늘었고, 직전 달(5월 8만5982대)도 소폭 웃돌았다.\n\n모델별로는 모델Y가 6월 중국 로컬 등록 3만8654대를 기록하며 승용차 판매 1위 자리를 지켰다 — 치열한 가격 경쟁 속에서도 볼륨 모델의 경쟁력을 재확인한 셈이다.\n\n중국은 테슬라 전체 인도량의 상당 비중을 차지하는 핵심 시장으로, 이번 실적은 美 세액공제 종료 이후 제기됐던 수요 둔화 우려를 반박하는 사례로 해석될 수 있다. 다만 BYD 등 로컬 업체와의 가격 경쟁은 여전히 진행형이다.",
-      "title_en": "Tesla China posts <em>89,091 units sold</em> in June — best month of 2026, Model Y reclaims top spot",
-      "hotShort_en": "Tesla China's <em>best month</em> yet — 89K sold in June",
-      "body_en": "Tesla China sold 89,091 vehicles in June — 52,920 retail plus 36,171 exports, its strongest month of 2026 and up roughly 24% year-over-year, per CPCA data. The Model Y reclaimed the top spot in China's passenger-car sales with 38,654 local registrations, easing demand-slowdown fears that followed the U.S. EV tax credit's expiration.",
-      "summary_en": "Ahead of Tesla's Q2 earnings on July 22, granular China data landed first. Figures compiled by the China Passenger Car Association (CPCA) show Tesla notched its strongest month in China so far this year.\n\nThe breakdown: 52,920 retail deliveries and 36,171 exports for a combined 89,091 units — up about 24% year-over-year and topping May's 85,982.\n\nBy model, the Model Y reclaimed the top spot in China's passenger-car rankings with 38,654 local registrations in June, reaffirming the volume model's competitiveness amid brutal local price wars.\n\nChina remains a critical share of Tesla's global deliveries, and the June print pushes back on demand-slowdown fears that followed the expiration of the U.S. EV tax credit — though competition from BYD and other domestic makers is far from over.",
-      "href": "https://x.com/Tslachan/status/2074832393689809072",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "EVwire",
-        "Not a Tesla App"
-      ],
-      "sentiment": "bull",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-23 08:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-23 10:20 KST 자동 갱신 · 최신순"
 }
