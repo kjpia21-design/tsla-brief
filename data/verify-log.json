@@ -266,6 +266,27 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-23T23:15:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-google-spacex-stake-94b-2026-07-23",
+          "verdict": "regrade",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press confirmed correct (WSJ/Bloomberg reporting on Alphabet's Q2 filing, not the filing itself)",
+            "no advisory tone, no buy/sell/price-target language",
+            "no hedge-to-assertion drift found",
+            "found 2 real numeric errors via independent WebSearch verification, corrected before publish: (1) SpaceX IPO day-1 close was $160.95 (+19% from $135 offering price), not '$135 마감' as originally drafted; (2) the ~$98B Alphabet investment gain this quarter was from SpaceX+Anthropic combined, not attributable to SpaceX alone as originally drafted",
+            "href matches WSJ article title exactly",
+            "N/A: not an X/meme-sourced card",
+            "implied-valuation discrepancy ($94.1B/6%≈$1.57T vs $2.1T IPO close) confirmed real; card correctly avoids conflating the two figures"
+          ]
+        }
+      ]
     }
   ]
 }
