@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-23T09:37:43.000Z",
+      "title": "로보택시 확장, 1년 전 \"초지수적 성장\" 호언과 달리 <em>목표 7곳 중 3곳</em> 그쳐",
+      "hotShort": "로보택시 확장, 결국 <em>목표치 미달</em> 인정",
+      "body": "일론 머스크가 1년 전 예고한 로보택시 '초지수적' 확장과 달리, 22일 실적콜에서는 신중한 어조로 돌아섰다 — 1월 투자자 발표 때 6월 말까지 7개 도시 진출을 약속했지만, 화요일까지 댈러스·휴스턴·마이애미 3곳(그마저 일부 지역 한정)에 그쳤다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-guarded-tone-earnings-2026-07-23",
+      "summary": "로이터에 따르면 머스크는 1년 전 로보택시 네트워크가 '초지수적(hyper-exponential) 속도'로 확장해 2025년 말까지 미국 인구 절반이 이용할 수 있을 것이라 공언했었다. 그러나 22일 2분기 실적콜에서 머스크와 경영진은 애널리스트들의 더딘 확장 속도 질문에 한층 신중한 어조로 답했다.\n\n실제 확장 속도는 약속에 크게 못 미쳤다. 올해 1월 투자자 발표에서 테슬라는 6월 말까지 댈러스·휴스턴·피닉스·마이애미·올랜도·탬파·라스베이거스 등 7개 대도시권으로 로보택시를 확장하겠다고 밝혔다. 하지만 화요일(21일)까지 실제 서비스가 시작된 곳은 댈러스·휴스턴·마이애미 3곳뿐이었고, 그마저 휴스턴·마이애미는 일부 지역에 한정됐다. 테슬라는 화요일에야 \"이제 탬파·올랜도에서도 서비스한다\"고 발표했는데, 이는 실적발표를 앞두고 나온 여러 애널리스트 보고서가 확장 지연을 지적한 직후였다.\n\n다만 누적 데이터는 이번에 처음 공개됐다. 테슬라는 유료 고객이 로보택시로 누적 250만 마일을 이동했고, 이 중 38만 마일은 차내 안전요원 없이 주행했다고 밝혔다.\n\n로보택시는 옵티머스·사이버캡과 함께 테슬라가 '자동차 회사 너머'를 내세우는 핵심 성장동력이다. 목표 대비 확장 속도가 확연히 느려졌다는 점이 실적콜에서 공식 확인된 만큼, 주주들은 향후 가이던스의 신뢰도를 더 까다롭게 따져볼 가능성이 크다.",
+      "title_en": "Tesla's robotaxi tone shifts — <em>only 3 of 7 promised metros</em> live, a year after 'hyper-exponential' vow",
+      "hotShort_en": "Robotaxi rollout <em>falls short of own targets</em>",
+      "body_en": "A year after Musk promised robotaxis would expand at a \"hyper-exponential rate,\" Tesla struck a more guarded tone on the July 22 earnings call — the January investor-day pledge of 7 metro areas by end of June landed at just 3, and only partially.",
+      "summary_en": "According to Reuters, Musk said a year ago that Tesla's robotaxi network would expand at a \"hyper-exponential rate\" and reach half the U.S. population by the end of 2025. On Wednesday's Q2 earnings call, though, Musk and his executive team answered analysts' questions about the slower-than-expected rollout with a noticeably more guarded tone.\n\nThe actual pace has badly lagged the promise. In a January investor presentation, Tesla said robotaxis would expand to seven metro areas by the end of June: Dallas, Houston, Phoenix, Miami, Orlando, Tampa, and Las Vegas. As of Tuesday, only three — Dallas, Houston, and Miami — were actually live, and service in Houston and Miami remained limited to outlying sections. Tesla announced Tuesday it was \"now in Tampa & Orlando,\" following several analyst notes ahead of earnings that flagged the slow expansion.\n\nNew cumulative figures were disclosed for the first time: paying customers have traveled 2.5 million miles in the robotaxi service, including 380,000 miles without an in-vehicle safety monitor.\n\nRobotaxi is one of the pillars Tesla leans on to argue it's more than a car company, alongside Optimus and Cybercab. With the shortfall now confirmed on an earnings call rather than in analyst speculation, shareholders are likely to scrutinize future rollout guidance more skeptically.",
+      "href": "https://www.reuters.com/business/autos-transportation/teslas-once-bullish-tone-robotaxis-shifts-2026-07-23/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-07-23T06:49:42.000Z",
+      "title": "테슬라 세미, 자율주행 로드맵 나왔지만 <em>사이버캡·모델3/Y가 우선순위</em>",
+      "hotShort": "테슬라 세미 자율주행, <em>당분간 뒷순위</em> 밀려",
+      "body": "일론 머스크가 투자자들에게 테슬라 세미(전기 트럭)의 자율주행이 2027년 초까지는 작동을 시작할 것이라 밝혔다 — 다만 향후 6개월가량은 자율주행 개발 우선순위가 물량이 훨씬 많은 모델3·Y·사이버캡에 밀린다고 설명했다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-semi-fsd-timeline-cybercab-priority-2026-07-23",
+      "summary": "테슬라라티에 따르면 머스크는 투자자들에게 테슬라 세미의 자율주행 소프트웨어가 2027년 초까지는 작동을 시작할 것이라고 밝혔다. 다만 이것이 내년 당장 무인 운행 세미가 도로에 나온다는 뜻은 아니라고 선을 그었다.\n\n머스크는 \"앞으로 6개월가량은 세미 자율주행 개발이 다소 뒷순위로 밀릴 것\"이라면서도 \"내년 안에는 분명히 작동할 것이고, 세미 양산 확대 시점에 맞출 것\"이라고 덧붙였다.\n\n우선순위 조정의 이유도 밝혔다. 테슬라의 자율주행팀은 현재 모델3·모델Y·사이버캡에 집중하고 있는데, 이 차종들이 테슬라 전체 차량 대수의 압도적 다수를 차지하기 때문이다. 도로 위 세미 대수는 이에 비해 극히 적어, 머스크는 물량이 많은 차종의 '안전성 9의 행진(march of nines)'에 소프트웨어팀 역량을 먼저 쏟는 게 합리적이라고 설명했다.\n\n세미는 물류업계 고객을 겨냥한 전기 트럭으로, 자율주행이 더해지면 운행비 절감 효과가 커진다는 게 테슬라의 오랜 판매 포인트였다. 이번 발언으로 시점은 처음 구체화됐지만, 그마저 승용 라인업 우선순위에 밀린 '2순위' 로드맵이라는 점이 확인된 셈이다.",
+      "title_en": "Tesla Semi finally gets an FSD timeline — but it's <em>waiting behind Cybercab</em>",
+      "hotShort_en": "Tesla Semi self-driving <em>takes a back seat</em>",
+      "body_en": "Musk told investors Tesla Semi's self-driving software should start working by early 2027 — but autonomous Semi development will take \"a bit of a backseat\" for the next six months while the team prioritizes the much higher-volume Model 3, Model Y, and Cybercab.",
+      "summary_en": "According to Teslarati, Musk told investors that Tesla Semi's self-driving software should start working by early 2027. He was careful to note this doesn't necessarily mean a driverless Semi hits the road next year.\n\n\"Autonomous Semi development is taking a bit of a backseat for the next six months or so,\" Musk said, adding it \"will definitely be working next year and in time for the scale-up to high production of the Tesla Semi.\"\n\nHe explained the reasoning behind the prioritization: Tesla's self-driving team is currently focused on Model 3, Model Y, and Cybercab, which make up the overwhelming majority of Tesla's fleet. Since Semi trucks on the road remain a small fraction of that total, Musk said it made more sense to keep the software team's attention on \"the march of nines of safety\" for the higher-volume vehicles first.\n\nSemi's pitch to logistics customers has long included the cost savings that autonomy would unlock. This is the first time Tesla has put a rough date on that, but it also confirms self-driving Semi sits behind the passenger lineup in priority.",
+      "href": "https://www.teslarati.com/tesla-semi-fsd-self-driving/",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -2319,59 +2359,7 @@
       ],
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20m ago",
-      "pubDate": "2026-07-08T14:08:22.000Z",
-      "title": "테슬라 AI 총괄 엘루스와미 \"FSD <em>자연어 명령 기능 개발 중</em>\" — 목적지 세부 지시 가능해질 듯",
-      "hotShort": "테슬라 AI 총괄 \"FSD <em>자연어 명령 개발 중</em>\"",
-      "body": "테슬라 AI 소프트웨어 부문 부사장 아쇽 엘루스와미가 \"흰 차 뒤에 주차해줘\"처럼 자연어로 FSD에 세부 지시를 내리는 기능을 개발 중이라고 X에서 확인했다 — 출시 시점은 미정이지만, 목적지 도착 후 정밀 주차·정차 위치를 음성으로 지정하는 차세대 UX 방향을 시사한다.",
-      "sourceName": "Benzinga",
-      "sourceLabel": "press",
-      "slug": "fsd-natural-language-prompt-elluswamy-2026-07-08",
-      "summary": "한 X 이용자가 FSD가 목적지 부근 특정 진입로·주차 위치까지 알아서 찾아갈 수 있다면 \"동네 주행에서 두 배는 유용해질 것\"이라고 언급하자, 테슬라 AI 소프트웨어 부문 부사장 아쇽 엘루스와미가 \"작업 중(Working on it)\"이라고 답하며 관련 기능 개발을 공식 확인했다.\n\n목표는 \"흰 차 뒤에 주차해줘\", \"저 우편함 앞에 세워줘\"처럼 자연어 지시를 FSD가 이해하고 그대로 실행하는 것 — 목적지 도착 후 마지막 몇 미터의 정밀 제어를 음성으로 다루는 기능이다. 로보택시 승하차 지점 지정, 개인 차량의 주차 편의성 모두에 적용될 수 있는 방향이다.\n\n일론 머스크는 앞서 6월23일, Grok 기반 음성 명령이 9월까지 FSD의 주행판단(planning) 레이어에 통합될 것이라고 직접 확인한 바 있다 — 확인 시점 기준 약 3개월의 배포 로드맵을 시사한 것으로, 이번 엘루스와미의 답변은 그 작업이 실제로 진행 중임을 재확인해준다.\n\n다만 정확한 정식 출시일은 아직 공개되지 않았다. 자연어 명령이 실시간 주행 판단에 관여하는 만큼, 정식 배포 전 안전 검증에 시간이 걸릴 것으로 보인다.",
-      "title_en": "Tesla AI VP Elluswamy: <em>\"working on\" natural-language FSD commands</em>",
-      "hotShort_en": "Tesla's Elluswamy: <em>FSD natural-language commands in the works</em>",
-      "body_en": "Tesla VP of AI Software Ashok Elluswamy confirmed on X that the team is actively developing natural-language prompts for FSD — letting drivers say things like \"park behind the white car\" — with Musk having pointed to a September 2026 target for folding voice commands into FSD's planning layer.",
-      "summary_en": "After an X user suggested FSD would be \"twice as useful in neighborhoods\" if it could navigate to a specific driveway or parking spot on its own, Tesla VP of AI Software Ashok Elluswamy replied \"Working on it,\" confirming the team is actively developing the feature.\n\nThe goal is for FSD to understand and execute natural-language instructions like \"park behind the white car\" or \"pull up to that mailbox\" — precision control over the last few meters after reaching a destination, applicable to both personal-vehicle parking and Robotaxi pickup/drop-off points.\n\nElon Musk had already confirmed on June 23 that Grok-based voice commands would be folded into FSD's planning layer by September 2026 — roughly a three-month rollout window from that confirmation. Elluswamy's reply now reaffirms that the work is actively underway.\n\nNo exact launch date has been confirmed yet. Because natural-language commands would factor into real-time driving decisions, safety validation is likely to take time before any wide rollout.",
-      "href": "https://www.benzinga.com/markets/tech/26/07/60330309/tesla-fsd-could-get-smarter-neighborhood-navigation-after-ashok-elluswamy-responds-working-on-it-to-voice-command-request",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Nic Cruz Patane (X)",
-        "Benzinga",
-        "Teslarati"
-      ],
-      "sentiment": "bull",
-      "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-07-08T14:03:28.000Z",
-      "title": "웨이모, <em>4개 신규 도시</em>서 완전 무인 운행 확대 — 라스베이거스 오늘부터 안전요원 없이",
-      "hotShort": "웨이모 <em>4개 도시</em> 무인 확대 — 테슬라와 격차",
-      "body": "웨이모가 라스베이거스·덴버·샌디에이고·탬파 4개 도시에서 안전요원 없는 완전 무인 운행을 시작(라스베이거스는 오늘부터, 나머지는 순차 도입) — 전체 서비스 도시가 10곳을 넘어서며, 마이애미 1곳뿐인 테슬라 로보택시와의 확장 속도 격차가 부각됐다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-waymo-four-cities-driverless-2026-07-08",
-      "summary": "테슬라가 로보택시 상반기(H1) 5개 도시 목표를 기한 내 하나도 채우지 못한 가운데(6/30 보도), 경쟁사 웨이모는 오히려 확장에 속도를 내고 있다.\n\n웨이모는 7월8일, 라스베이거스에서 안전요원 없는 완전 무인 운행을 시작했다고 발표했다. 덴버·샌디에이고·탬파도 뒤이어 순차 도입될 예정이다. 처음에는 직원 대상으로 운영되다 곧 일반 승객에게 개방될 전망이다.\n\n이번 확장으로 웨이모가 완전 무인 승차를 제공하는 도시는 10곳을 넘어섰다. 웨이모는 올해 초 밸류에이션 $1260억에 $160억 규모 투자를 유치했고, 이 자금을 도시별 확장에 투입해 연말까지 주간 유료 승차 100만 건을 목표로 하고 있다 — 런던·도쿄 등 해외 진출도 예고된 상태다.\n\n테슬라는 지난 7월3~4일 마이애미에서 안전요원 없는 로보택시 운행을 시작했지만 아직 단일 도시에 머물러 있다. 웨이모의 이번 확장은 로보택시 경쟁에서 테슬라가 따라잡아야 할 격차를 다시 한번 보여준다.",
-      "title_en": "Waymo goes <em>driverless in four more cities</em> — Las Vegas live today, no safety driver",
-      "hotShort_en": "Waymo expands <em>driverless</em> to 4 more cities",
-      "body_en": "Waymo began fully driverless robotaxi service in Las Vegas today, with Denver, San Diego and Tampa to follow — pushing its footprint past 10 cities and widening the gap with Tesla's Robotaxi, which is still confined to a single city, Miami.",
-      "summary_en": "While Tesla failed to launch Robotaxi in any of its five targeted H1 cities by its own deadline (reported June 30), rival Waymo is accelerating instead.\n\nWaymo announced on July 8 that it has started running fully driverless vehicles — no human behind the wheel — in Las Vegas, with Denver, San Diego and Tampa to follow. The rollout will initially serve employees before opening to the public.\n\nThe expansion pushes Waymo's fully driverless footprint past 10 cities. The company raised $16 billion at a $126 billion valuation earlier this year specifically to fund this city-by-city expansion, and is targeting 1 million paid rides per week by year-end, with London and Tokyo next on its international roadmap.\n\nTesla, by contrast, only began safety-driver-free Robotaxi operation in Miami on July 3-4 and remains limited to that single city — underscoring the gap Tesla still has to close in the robotaxi race.",
-      "href": "https://electrek.co/2026/07/08/waymo-driverless-las-vegas-four-new-cities/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "CNBC",
-        "Engadget"
-      ],
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-23 10:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-23 18:38 KST 자동 갱신 · 최신순"
 }

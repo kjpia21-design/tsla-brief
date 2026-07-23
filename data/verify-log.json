@@ -144,6 +144,39 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-23T09:50:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "fsd-robotaxi-guarded-tone-earnings-2026-07-23",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for Reuters",
+            "no advisory tone, no price target",
+            "no hedge-to-assertion conversion — guarded-tone framing matches source",
+            "numbers cross-checked (2.5M cumulative miles, 380K miles without safety monitor, 7 promised metros vs 3 live by Tuesday, Jan investor-day pledge) via WebSearch synthesis of the Reuters piece (direct WebFetch to reuters.com blocked)",
+            "href matches the exact Reuters article used",
+            "not X-sourced, no meme/satire risk"
+          ]
+        },
+        {
+          "slug": "product-semi-fsd-timeline-cybercab-priority-2026-07-23",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for Teslarati",
+            "no advisory tone",
+            "hedges preserved (\"should start working by early 2027\", \"taking a bit of a backseat\") — not overstated to certainty",
+            "quotes and timeline (early 2027, six-month deprioritization, Model 3/Y/Cybercab focus) cross-checked via WebSearch (direct WebFetch to teslarati.com blocked 403)",
+            "href matches the exact Teslarati article used",
+            "not X-sourced"
+          ]
+        }
+      ]
     }
   ]
 }

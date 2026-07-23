@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-23T09:37:43.000Z",
+      "title": "로보택시 확장, 1년 전 \"초지수적 성장\" 호언과 달리 <em>목표 7곳 중 3곳</em> 그쳐",
+      "hotShort": "로보택시 확장, 결국 <em>목표치 미달</em> 인정",
+      "body": "일론 머스크가 1년 전 예고한 로보택시 '초지수적' 확장과 달리, 22일 실적콜에서는 신중한 어조로 돌아섰다 — 1월 투자자 발표 때 6월 말까지 7개 도시 진출을 약속했지만, 화요일까지 댈러스·휴스턴·마이애미 3곳(그마저 일부 지역 한정)에 그쳤다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-guarded-tone-earnings-2026-07-23",
+      "summary": "로이터에 따르면 머스크는 1년 전 로보택시 네트워크가 '초지수적(hyper-exponential) 속도'로 확장해 2025년 말까지 미국 인구 절반이 이용할 수 있을 것이라 공언했었다. 그러나 22일 2분기 실적콜에서 머스크와 경영진은 애널리스트들의 더딘 확장 속도 질문에 한층 신중한 어조로 답했다.\n\n실제 확장 속도는 약속에 크게 못 미쳤다. 올해 1월 투자자 발표에서 테슬라는 6월 말까지 댈러스·휴스턴·피닉스·마이애미·올랜도·탬파·라스베이거스 등 7개 대도시권으로 로보택시를 확장하겠다고 밝혔다. 하지만 화요일(21일)까지 실제 서비스가 시작된 곳은 댈러스·휴스턴·마이애미 3곳뿐이었고, 그마저 휴스턴·마이애미는 일부 지역에 한정됐다. 테슬라는 화요일에야 \"이제 탬파·올랜도에서도 서비스한다\"고 발표했는데, 이는 실적발표를 앞두고 나온 여러 애널리스트 보고서가 확장 지연을 지적한 직후였다.\n\n다만 누적 데이터는 이번에 처음 공개됐다. 테슬라는 유료 고객이 로보택시로 누적 250만 마일을 이동했고, 이 중 38만 마일은 차내 안전요원 없이 주행했다고 밝혔다.\n\n로보택시는 옵티머스·사이버캡과 함께 테슬라가 '자동차 회사 너머'를 내세우는 핵심 성장동력이다. 목표 대비 확장 속도가 확연히 느려졌다는 점이 실적콜에서 공식 확인된 만큼, 주주들은 향후 가이던스의 신뢰도를 더 까다롭게 따져볼 가능성이 크다.",
+      "title_en": "Tesla's robotaxi tone shifts — <em>only 3 of 7 promised metros</em> live, a year after 'hyper-exponential' vow",
+      "hotShort_en": "Robotaxi rollout <em>falls short of own targets</em>",
+      "body_en": "A year after Musk promised robotaxis would expand at a \"hyper-exponential rate,\" Tesla struck a more guarded tone on the July 22 earnings call — the January investor-day pledge of 7 metro areas by end of June landed at just 3, and only partially.",
+      "summary_en": "According to Reuters, Musk said a year ago that Tesla's robotaxi network would expand at a \"hyper-exponential rate\" and reach half the U.S. population by the end of 2025. On Wednesday's Q2 earnings call, though, Musk and his executive team answered analysts' questions about the slower-than-expected rollout with a noticeably more guarded tone.\n\nThe actual pace has badly lagged the promise. In a January investor presentation, Tesla said robotaxis would expand to seven metro areas by the end of June: Dallas, Houston, Phoenix, Miami, Orlando, Tampa, and Las Vegas. As of Tuesday, only three — Dallas, Houston, and Miami — were actually live, and service in Houston and Miami remained limited to outlying sections. Tesla announced Tuesday it was \"now in Tampa & Orlando,\" following several analyst notes ahead of earnings that flagged the slow expansion.\n\nNew cumulative figures were disclosed for the first time: paying customers have traveled 2.5 million miles in the robotaxi service, including 380,000 miles without an in-vehicle safety monitor.\n\nRobotaxi is one of the pillars Tesla leans on to argue it's more than a car company, alongside Optimus and Cybercab. With the shortfall now confirmed on an earnings call rather than in analyst speculation, shareholders are likely to scrutinize future rollout guidance more skeptically.",
+      "href": "https://www.reuters.com/business/autos-transportation/teslas-once-bullish-tone-robotaxis-shifts-2026-07-23/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-07-23T06:49:42.000Z",
+      "title": "테슬라 세미, 자율주행 로드맵 나왔지만 <em>사이버캡·모델3/Y가 우선순위</em>",
+      "hotShort": "테슬라 세미 자율주행, <em>당분간 뒷순위</em> 밀려",
+      "body": "일론 머스크가 투자자들에게 테슬라 세미(전기 트럭)의 자율주행이 2027년 초까지는 작동을 시작할 것이라 밝혔다 — 다만 향후 6개월가량은 자율주행 개발 우선순위가 물량이 훨씬 많은 모델3·Y·사이버캡에 밀린다고 설명했다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-semi-fsd-timeline-cybercab-priority-2026-07-23",
+      "summary": "테슬라라티에 따르면 머스크는 투자자들에게 테슬라 세미의 자율주행 소프트웨어가 2027년 초까지는 작동을 시작할 것이라고 밝혔다. 다만 이것이 내년 당장 무인 운행 세미가 도로에 나온다는 뜻은 아니라고 선을 그었다.\n\n머스크는 \"앞으로 6개월가량은 세미 자율주행 개발이 다소 뒷순위로 밀릴 것\"이라면서도 \"내년 안에는 분명히 작동할 것이고, 세미 양산 확대 시점에 맞출 것\"이라고 덧붙였다.\n\n우선순위 조정의 이유도 밝혔다. 테슬라의 자율주행팀은 현재 모델3·모델Y·사이버캡에 집중하고 있는데, 이 차종들이 테슬라 전체 차량 대수의 압도적 다수를 차지하기 때문이다. 도로 위 세미 대수는 이에 비해 극히 적어, 머스크는 물량이 많은 차종의 '안전성 9의 행진(march of nines)'에 소프트웨어팀 역량을 먼저 쏟는 게 합리적이라고 설명했다.\n\n세미는 물류업계 고객을 겨냥한 전기 트럭으로, 자율주행이 더해지면 운행비 절감 효과가 커진다는 게 테슬라의 오랜 판매 포인트였다. 이번 발언으로 시점은 처음 구체화됐지만, 그마저 승용 라인업 우선순위에 밀린 '2순위' 로드맵이라는 점이 확인된 셈이다.",
+      "title_en": "Tesla Semi finally gets an FSD timeline — but it's <em>waiting behind Cybercab</em>",
+      "hotShort_en": "Tesla Semi self-driving <em>takes a back seat</em>",
+      "body_en": "Musk told investors Tesla Semi's self-driving software should start working by early 2027 — but autonomous Semi development will take \"a bit of a backseat\" for the next six months while the team prioritizes the much higher-volume Model 3, Model Y, and Cybercab.",
+      "summary_en": "According to Teslarati, Musk told investors that Tesla Semi's self-driving software should start working by early 2027. He was careful to note this doesn't necessarily mean a driverless Semi hits the road next year.\n\n\"Autonomous Semi development is taking a bit of a backseat for the next six months or so,\" Musk said, adding it \"will definitely be working next year and in time for the scale-up to high production of the Tesla Semi.\"\n\nHe explained the reasoning behind the prioritization: Tesla's self-driving team is currently focused on Model 3, Model Y, and Cybercab, which make up the overwhelming majority of Tesla's fleet. Since Semi trucks on the road remain a small fraction of that total, Musk said it made more sense to keep the software team's attention on \"the march of nines of safety\" for the higher-volume vehicles first.\n\nSemi's pitch to logistics customers has long included the cost savings that autonomy would unlock. This is the first time Tesla has put a rough date on that, but it also confirms self-driving Semi sits behind the passenger lineup in priority.",
+      "href": "https://www.teslarati.com/tesla-semi-fsd-self-driving/",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -43,26 +83,6 @@
       "body_en": "Asked directly on the Q2 earnings call whether Hardware 3 cars will be upgraded for the latest FSD, Musk said it would be \"financially sensible at some point\" — without committing to a timeline, method, or cost for the millions of owners still waiting.",
       "summary_en": "On Tesla's Q2 earnings call, Musk was asked point-blank whether Tesla still plans to upgrade Hardware 3 (HW3) vehicles so they can run its latest FSD software. He said it would \"make sense\" to upgrade \"all cars that have less than Hardware 4\" and that it would be \"financially sensible at some point\" — but again offered no commitment on timing, method, or cost.\n\nThe issue has dragged on for years. Tesla sold HW3 vehicles on the promise that they had \"all the hardware necessary\" for full self-driving, yet the latest FSD performance is only fully realized on Hardware 4 and above. Electrek has previously reported Tesla may ultimately need to replace the onboard computer in as many as 4 million HW3 vehicles, or compensate owners instead.\n\nA stopgap is already underway: Tesla has begun rolling out a stripped-down \"FSD v14 Lite\" to HW3 cars — a move critics say highlights the hardware gap rather than closing it.\n\nFor shareholders, two things are stacked here: trust with millions of owners, and the potential cost if a computer swap or compensation program becomes real. Both remain unresolved until Tesla commits to an actual roadmap.",
       "href": "https://electrek.co/2026/07/22/tesla-hardware-3-fsd-no-plan-musk-earnings-call/",
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-07-22T20:56:01.000Z",
-      "title": "테슬라 \"로보택시 확장 중\" 내세운 차트, 뜯어보니 <em>4월 반짝 후 정체</em>",
-      "hotShort": "로보택시 누적차트 이면엔 <em>4월 반짝, 이후 정체</em>",
-      "body": "테슬라가 2분기 실적에서 누적 유료 로보택시 마일리지 240만 마일 돌파 차트로 '확장'을 내세웠지만, 분기 증분으로 쪼개보면 2분기도 1분기와 같은 약 90만 마일 — 그마저 4월에만 약 50만 마일이 몰리고 5·6월은 각 20만 마일대로 꺾였다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-cumulative-chart-flat-2026-07-22",
-      "summary": "22일 발표된 테슬라 2분기 실적 자료에는 로보택시 사업의 모멘텀을 보여주는 그래프가 실렸다 — 누적 유료 마일리지가 우상향하며 240만 마일을 넘어선 차트다. 그러나 Electrek이 같은 데이터를 분기·월 단위로 쪼개 다시 그려보니, 회사가 내세운 '확장'과는 다른 그림이 나왔다.\n\n분기별로 보면 2분기 로보택시가 새로 쌓은 유료 마일리지는 약 90만 마일로, 1분기와 사실상 같은 수준이었다. 월별로 더 쪼개면 격차가 뚜렷해진다 — 4월 한 달에만 약 50만 마일이 몰렸고, 5월과 6월은 각각 약 20만 마일에 그쳐 증가 속도가 눈에 띄게 꺾였다. 4월의 반짝 실적을 빼면, 최근 런레이트는 분기당 약 60만 마일 수준으로 봐야 한다는 게 Electrek의 계산이다.\n\n핵심은 '누적 차트의 함정'이다. 어떤 상황에서도 누적 그래프는 우상향할 수밖에 없어, 분기 내 감속을 가려버린다. 로보택시는 테슬라 밸류에이션의 핵심 근거 중 하나로 꼽히는 만큼, 실제 확장 속도가 둔화되고 있다면 서사에 균열이 생길 수 있는 지점이다.\n\n다만 같은 날 실적 발표에서 테슬라는 2분기 중 댈러스·휴스턴에서 무인 로보택시 서비스를 새로 열고 마이애미까지 지역을 넓혔다고 밝혔다 — 지리적 확장 자체는 계속되고 있지만, 마일리지 총량의 증가 속도는 정체됐다는 것이 이번 지적의 요점이다.",
-      "title_en": "Tesla touted Robotaxi 'expansion' — the same chart, broken down, shows <em>a stall since April</em>",
-      "hotShort_en": "Robotaxi's cumulative chart hides <em>a stall since April</em>",
-      "body_en": "Tesla's Q2 earnings deck touted 'expansion' with a cumulative paid-Robotaxi-miles chart topping 2.4 million — but broken into quarters, Q2's roughly 900,000 new miles matched Q1 exactly, and about 500,000 of those came in April alone, with May and June adding only ~200,000 each.",
-      "summary_en": "Tesla's Q2 2026 earnings materials, released July 22, included a chart meant to show Robotaxi momentum — cumulative paid miles climbing past 2.4 million. But when Electrek re-cut the same underlying data by quarter and by month, a different picture emerged from the one Tesla's 'expanding' framing suggested.\n\nBroken out by quarter, Robotaxi added roughly 900,000 paid miles in Q2 — essentially flat versus Q1. The month-by-month breakdown is more telling: about 500,000 of those miles landed in April alone, while May and June each added only around 200,000. Strip out April's spike, and Electrek's math puts the recent run-rate closer to 600,000 miles per quarter.\n\nThe catch is what cumulative charts hide: they slope upward no matter what's happening quarter to quarter, masking any deceleration within the period. Since Robotaxi is one of the central pillars of Tesla's valuation case, a slowdown in the pace of expansion — even as the cumulative total keeps rising — is the kind of gap that can undercut the narrative.\n\nThe same earnings release did show real geographic expansion: Tesla launched unsupervised (no safety driver) Robotaxi rides in Dallas and Houston during the quarter and extended the service into Miami. The point of the critique isn't that Robotaxi stopped growing — it's that total ride-mile growth has stalled even as new cities come online.",
-      "href": "https://electrek.co/2026/07/22/tesla-robotaxi-growth-flat-own-chart-q2-2026/",
       "sentiment": "bear",
       "hot": 6
     },
@@ -119,46 +139,6 @@
       "hot": 6
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-22T17:02:39.000Z",
-      "title": "테슬라 ADAS 사고, 월간 <em>역대 최다 207건</em> NHTSA 보고 — 서사 대부분 비공개",
-      "hotShort": "테슬라 ADAS 사고, <em>월간 역대 최다 207건</em>",
-      "body": "Electrek이 NHTSA 표준일반명령(SGO) 데이터를 분석한 결과, 테슬라가 지난 5월 한 달간 오토파일럿·FSD 관련 사고 <em>207건</em>을 보고해 월간 기록을 새로 썼다 — 2021년 한 해 전체(157건)보다 많은 수치다. 사고 서사 대부분과 소프트웨어 버전 필드까지 비공개 처리해, 오토파일럿과 FSD 사고를 구분할 수조차 없다는 점이 투명성 논란을 키운다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-adas-crashes-record-207-2026-07-22",
-      "summary": "NHTSA는 2021년부터 '표준일반명령(Standing General Order)'을 통해 첨단운전지원시스템(ADAS)이 충돌 30초 이내 활성화 상태였고, 에어백 전개·견인·부상·사망·보행자·자전거 충돌 등 중대성 기준을 충족한 사고를 완성차업체가 의무 보고하도록 하고 있다. Electrek이 22일 이 데이터를 분석해 보도한 내용에 따르면, 테슬라는 지난 5월 <em>207건</em>의 오토파일럿·FSD 관련 사고를 보고해 월간 최다 기록을 새로 썼다.\n\n이 한 달치 건수만으로도 2021년 한 해 전체(157건)를 넘어선다는 점이 테슬라의 사고 보고 증가 속도를 보여준다. SGO 전체 파일 기준 테슬라는 누적 <em>3,763건</em>의 고유 운전보조 사고를 보고해, 업계 전체 ADAS 보고 건수의 약 <em>85%</em>를 차지한다.\n\n문제는 투명성이다. 테슬라는 사고 서사(narrative) 항목을 사실상 전부 비공개 처리하고, 어떤 소프트웨어 버전이 작동 중이었는지 표시하는 필드까지 가려 공개 데이터만으로는 오토파일럿과 FSD 중 어느 쪽이 관련됐는지조차 구분할 수 없다. 반면 GM·포드·혼다·도요타 등 대량 보고 업체는 서사를 거의 가리지 않는다는 게 Electrek의 지적이다.\n\n이 수치는 테슬라가 저시계 조건 FSD 사고를 이유로 NHTSA 조사를 받고 있는 시점과 맞물려, 규제 당국의 데이터 요구·조사 강도를 키울 요인으로 꼽힌다. 로보택시 확장과 FSD 광범위 배포를 동시에 밀어붙이는 테슬라 입장에서, 사고 건수 증가와 낮은 투명성이 함께 부각되는 시점은 부담이 될 수 있다.",
-      "title_en": "Tesla's ADAS crashes hit <em>record 207 in a single month</em>, NHTSA data shows",
-      "hotShort_en": "Tesla ADAS crashes hit <em>record 207 in a month</em>",
-      "body_en": "Electrek's analysis of NHTSA's Standing General Order data found Tesla reported <em>207</em> Autopilot and FSD crashes in May 2026 alone — a new monthly record that already exceeds all of 2021 combined (157). Tesla redacts nearly every crash narrative and even the software-version field, making it impossible to tell Autopilot and FSD crashes apart from the public data.",
-      "summary_en": "Since 2021, NHTSA's Standing General Order has required automakers to report crashes where an advanced driver-assistance system was engaged within roughly 30 seconds of impact and that meet a severity threshold — an airbag deployment, a tow-away, an injury, a fatality, or a struck pedestrian or cyclist. Electrek's July 22 analysis of that dataset found Tesla logged <em>207</em> Autopilot and FSD crashes in May 2026, the highest single-month total on record.\n\nThat one month alone tops all of 2021 combined (157 crashes), underscoring how fast Tesla's reported crash volume has climbed. Across the full SGO file, Tesla now accounts for <em>3,763</em> unique driver-assist crashes — roughly <em>85%</em> of the entire industry's ADAS reports.\n\nTransparency is the sticking point. Tesla redacts almost every crash narrative and even blacks out the software-version field, so the public data can't distinguish Autopilot crashes from FSD crashes at all. Electrek notes that high-volume peers like GM, Ford, Honda, and Toyota redact essentially none of their narratives.\n\nThe disclosure lands just as Tesla faces an NHTSA probe into FSD crashes in low-visibility conditions, adding pressure on regulators to demand more from the company's crash data even as Tesla pushes ahead with wider FSD rollout and Robotaxi expansion.",
-      "href": "https://electrek.co/2026/07/22/tesla-adas-crashes-record-207-one-month/",
-      "sentiment": "bear",
-      "hot": 7
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-22T15:26:21.000Z",
-      "title": "테슬라 앱 코드에 <em>옵티머스용 블루투스 인증</em> 첫 등장 — 로봇 전용 화이트리스트 페어링",
-      "hotShort": "테슬라 앱에 <em>옵티머스 페어링</em> 코드 발견",
-      "body": "Tesla App Updates가 테슬라 스마트폰 앱 코드에서 옵티머스 관련 첫 언급을 다수 발견했다 — 스마트폰을 로봇 전용 신뢰기기 화이트리스트에 등록하는 <em>블루투스 저전력(BLE) 인증</em> 방식으로, 로보택시 차량도 함께 '로봇'으로 식별될 여지가 있어 상용화를 위한 소프트웨어 하부구조 정비 신호로 읽힌다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-optimus-app-pairing-code-2026-07-22",
-      "summary": "테슬라 앱 코드 변화를 추적하는 'Tesla App Updates'가 처음으로 옵티머스 관련 언급을 다수 발견했다고 Teslarati가 22일 보도했다.\n\n핵심은 로봇 전용 <em>블루투스 저전력(BLE) 인증</em> 체계다. 스마트폰을 '키'로 등록해 옵티머스를 비롯해 테슬라가 '로봇'으로 분류하는 기기의 신뢰 기기 화이트리스트에 페어링하는 방식이며, 로보택시 차량 역시 자율주행 플랫폼 특성상 같은 '로봇' 분류에 포함될 가능성이 있다.\n\n아울러 옵티머스가 가정 내에서 진공청소·설거지·먼지 제거 등 작업을 수행할 때 영상·공간 데이터를 수집하는 데 대한 <em>동의를 구하는 별도 화면</em>도 코드에서 발견됐다. 배터리 부족부터 기계적 결함까지 포괄적으로 알려주는 알림 체계도 함께 구축 중이다.\n\n아직 정식 출시나 일정 발표는 아니지만, 앱 하부구조 정비는 옵티머스 상용화·가정 내 배치를 향한 실질적 준비 단계로 해석된다. 일론 머스크가 옵티머스를 '역대 최고 판매 제품'이 될 것이라 공언해온 만큼, 투자자들은 이 같은 소프트웨어 진척 신호를 로드맵 이행의 근거로 참고할 만하다.",
-      "title_en": "Tesla app code reveals first <em>Bluetooth pairing built for Optimus</em>",
-      "hotShort_en": "Tesla app gets <em>Optimus pairing</em> code",
-      "body_en": "Tesla App Updates spotted the first Optimus references in Tesla's smartphone app code, Teslarati reported — a robot-specific <em>Bluetooth Low Energy authentication</em> scheme that whitelists a phone as a trusted device, a system that could also apply to Robotaxi vehicles classified as robots.",
-      "summary_en": "Tesla App Updates, which tracks changes in Tesla's app code, found the first multiple references to Optimus, Teslarati reported on July 22.\n\nThe core addition is a robot-specific <em>Bluetooth Low Energy (BLE) authentication</em> system that pairs a phone as a trusted \"key\" on a whitelist for devices Tesla classifies as robots — a category that could extend beyond Optimus to Robotaxi vehicles given their autonomous nature.\n\nThe code also includes a dedicated consent screen for collecting video and spatial data while Optimus performs in-home tasks like vacuuming, dishwashing, and dusting, along with a comprehensive alert system covering everything from low battery to mechanical issues.\n\nThere's no launch date or official announcement yet, but the app-side groundwork points to real preparation for commercializing and deploying Optimus in homes. With Elon Musk having called Optimus the best-selling product of all time, investors may see this kind of software progress as evidence the roadmap is moving forward.",
-      "href": "https://www.teslarati.com/tesla-starts-preparing-optimus-smartphone-app/",
-      "sentiment": "bull",
-      "hot": 4
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "just now",
@@ -179,5 +159,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-23 16:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-23 18:38 KST 자동 갱신 · 최신순"
 }
