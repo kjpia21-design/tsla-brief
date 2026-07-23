@@ -217,7 +217,88 @@
       "text_en": "Timelines for Cybercab customer rides and unsupervised-operation milestones, fleet targets and revenue contribution from robotaxi/Cybercab — plus scrutiny of the controversy over a large shareholder's share-weighted votes pushing friendly questions to the top of the Say queue."
     }
   ],
-  "qna": [],
+  "qna": [
+    {
+      "asker": "뱅크오브아메리카 알렉스",
+      "asker_en": "Alex, Bank of America",
+      "question": "로보택시 플릿 확장을 가속할 마일스톤은 무엇이고, 투자자는 어떤 지표를 지켜봐야 하나.",
+      "question_en": "What milestones would trigger an acceleration of the robotaxi fleet, and what should investors watch?",
+      "answer": "확장의 제약은 수요가 아니라 신뢰성 검증이라고 답했다. '나인의 행진(march of nines)'으로 표현한 단계적 신뢰성 확보가 속도를 결정하며, 수요는 이미 충분하다는 것. 제3자 배차 플랫폼과의 제휴 없이 완전 수직통합 모델로 간다는 방침도 재확인했다.",
+      "answer_en": "The constraint is not demand but reliability validation — a 'march of nines' that dictates the pace of scaling, with demand already ample. Musk also reaffirmed a fully vertically integrated model with no third-party distribution partnerships planned.",
+      "answeredBy": "일론 머스크",
+      "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "웰스파고 콜린 랭건",
+      "asker_en": "Colin Langan, Wells Fargo",
+      "question": "오스틴 한 곳을 깊게 키우는 대신 왜 여러 도시로 분산 확장하나. 신규 도시 차량 수는 한 자릿수에 그치는데.",
+      "question_en": "Why expand into many cities with tiny fleets instead of scaling one city like Austin first?",
+      "answer": "FSD 스택이 도시별 추가 작업 없이 통하는 '범용 스택'임을 지역별로 증명하는 게 목적이며, 성장은 여전히 지수적이라고 답했다. 타네자 CFO는 소규모 통제된 플릿에서 운영상 문제를 먼저 잡는 단계라고 했고, 머스크는 사이버캡 투입 전 지역별 주행 데이터 축적이 필요하다고 덧붙였다. 도시·주마다 규제 요건이 달라 개별 대응이 필요하다는 설명도 나왔다.",
+      "answer_en": "The goal is proving the FSD stack is a general one that works across geographies without much per-city effort, with growth still exponential. CFO Taneja said small controlled fleets let Tesla iron out operational kinks first; Musk added Cybercab needs location-specific driving data accumulated before scaling, and regulatory requirements differ city by city and state by state.",
+      "answeredBy": "아쇼크 엘루스와미 AI 총괄 · 바이바브 타네자 CFO · 일론 머스크",
+      "answeredBy_en": "Ashok Elluswamy (VP of AI), CFO Vaibhav Taneja, Elon Musk"
+    },
+    {
+      "asker": "트루이스트 윌리엄 스타인",
+      "asker_en": "William Stein, Truist Securities",
+      "question": "HW3 등 구형 하드웨어 차량의 업그레이드 계획은 무엇인가.",
+      "question_en": "What is the plan for upgrading vehicles on Hardware 3 and other older hardware?",
+      "answer": "HW4 미만 하드웨어 차량은 카메라를 포함해 업그레이드하는 것이 합리적이라며, 차세대 AI 보드가 내년 중반경 생산에 들어가면 추진한다는 취지로 답했다. AI5 칩은 내년 볼륨 생산이 목표로 초기 물량은 옵티머스에 우선 배정된다. 사전 질문에 올랐던 환불 방안은 언급되지 않았다.",
+      "answer_en": "Musk said it makes sense to upgrade all cars below Hardware 4, cameras included, once the next-generation AI board enters production around the middle of next year. AI5 targets volume production next year, with early supply going to Optimus first. The refund option raised in pre-submitted questions was not addressed.",
+      "answeredBy": "일론 머스크",
+      "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "트루이스트 윌리엄 스타인",
+      "asker_en": "William Stein, Truist Securities",
+      "question": "옵티머스의 반도체·부품을 자체 생산할 것인가, 외부 파운드리에 맡길 것인가.",
+      "question_en": "Will Tesla make Optimus semiconductors and components in-house or rely on third-party fabs?",
+      "answer": "옵티머스 3는 테슬라가 설계하고 공급사가 제조하는 구조지만, 오스틴에서 생산될 옵티머스 4는 훨씬 높은 수직계열화 체제가 될 것이라고 답했다. 부품 대부분이 새것이라 초기 생산 S-커브는 완만하고 길 것이라며, '모든 것이 새롭고 기존 공급망이 없는, 테슬라 역사상 제조 스케일링이 가장 어려운 제품'이라는 발언을 반복했다.",
+      "answer_en": "Optimus 3 uses Tesla-designed, supplier-fabricated parts, but Optimus 4 — to be built in Austin — will be a much more vertically integrated supply system. Because nearly every part is new, the initial production S-curve will be flat and long; Musk repeated that it is the hardest product to scale manufacturing Tesla has ever made, with no existing supply chain.",
+      "answeredBy": "일론 머스크",
+      "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "웰스파고 콜린 랭건",
+      "asker_en": "Colin Langan, Wells Fargo",
+      "question": "테슬라와 스페이스X를 결합하면 시너지가 있나. 합병 가능성은.",
+      "question_en": "Are there synergies in combining Tesla and SpaceX? Could a merger make sense?",
+      "answer": "머스크는 '회사 결합 같은 문제는 어닝콜에서 논의할 수 없고 적법한 절차를 거쳐야 한다'며 즉답을 피했다. 다만 올해 체결한 지분 투자·프레임워크 협약으로 협력이 깊어졌고, 테라팹과 디지털 옵티머스에서 대형 파트너십이 진행 중이라고 했다. 스타링크는 사이버캡에 탑재돼 셀룰러 음영 지역에서도 로보택시 연결을 보장한다.",
+      "answer_en": "Musk declined to discuss combining the companies on an earnings call, saying it must go through an appropriate process. He noted the relationship has deepened via this year's investment and framework agreement, with major collaboration underway on Terafab and Digital Optimus, and Starlink integrated into Cybercab so robotaxis stay connected in cellular dead zones.",
+      "answeredBy": "일론 머스크 · 브랜던 법무총괄",
+      "answeredBy_en": "Elon Musk and General Counsel Brandon"
+    },
+    {
+      "asker": "라이트셰드 월트",
+      "asker_en": "Walt, LightShed",
+      "question": "페달·핸들 없는 사이버캡 양산에 NHTSA 등 연방 차원에서 필요한 조치가 있나.",
+      "question_en": "Does Tesla need anything from NHTSA at the federal level to ramp the pedal-less, steering-wheel-less Cybercab?",
+      "answer": "'짧게 답하면 없다(the short answer is no)'고 했다. NHTSA는 훌륭한 파트너로 긴밀히 공조하고 있으며, 문제가 생기기 전에 미리 해법을 강제하는 식의 선제 규제에는 반대한다는 입장을 밝혔다.",
+      "answer_en": "'The short answer is no.' Tesla described NHTSA as a great partner it works with in lockstep, while voicing opposition to preemptive regulation that mandates solutions before a problem exists.",
+      "answeredBy": "라스 모라비 (차량 엔지니어링)",
+      "answeredBy_en": "Lars Moravy (Vehicle Engineering)"
+    },
+    {
+      "asker": "라이트셰드 월트",
+      "asker_en": "Walt, LightShed",
+      "question": "테슬라 세미의 자율주행은 언제 추진하나.",
+      "question_en": "When will Tesla pursue autonomy for the Semi?",
+      "answer": "세미에서 자율주행이 작동하는 시점은 올해 말~내년 초로 예상한다고 답했다. 다만 세미는 아직 물량이 적어 모델 3·Y와 사이버캡의 안전 확보가 우선이며, 트럭 운전사 부족을 감안하면 자율화가 안전과 노동 제약을 함께 풀 수 있다고 했다.",
+      "answer_en": "Musk expects self-driving to be working on the Semi around the end of this year or early next year. With Semi volumes still low, Model 3/Y and Cybercab safety take priority first — though given the trucker shortage, autonomy would address both safety and labor constraints.",
+      "answeredBy": "일론 머스크",
+      "answeredBy_en": "Elon Musk"
+    },
+    {
+      "asker": "바클레이스 댄 레비",
+      "asker_en": "Dan Levy, Barclays",
+      "question": "설비투자 집행 속도를 제약하는 건 무엇인가. 자본 효율이 기준인가.",
+      "question_en": "What gates the pace of capex — is capital efficiency the limiting factor?",
+      "answer": "머스크는 '낭비가 되지 않는 한 최대한 빨리 쓴다'며 효율보다 시간을 우선한다고 답했다 — 다소 자본 효율이 떨어져도 더 빨리 해내는 쪽을 택한다는 것. 타네자 CFO는 올해 $25B 이상의 설비투자가 전부 옵티머스·사이버캡·LFP·세미·반도체 팹·태양광 등 생산적 자산에 투입되며, 테슬라가 대부분의 시설 건설에서 직접 종합건설사 역할을 한다고 부연했다.",
+      "answer_en": "Musk said Tesla is spending as fast as it can without being wasteful, prioritizing time over efficiency — accepting slightly lower capital efficiency to get things done sooner. CFO Taneja added that this year's $25B+ capex all goes to productive assets — Optimus, Cybercab, LFP, Semi, the chip fab and solar manufacturing — with Tesla acting as its own general contractor on most construction.",
+      "answeredBy": "일론 머스크 · 바이바브 타네자 CFO",
+      "answeredBy_en": "Elon Musk and CFO Vaibhav Taneja"
+    }
+  ],
   "consensus": {
     "eps": "$0.55",
     "revenue": "$27.6B",
@@ -256,7 +337,7 @@
       "href": "https://app.say.com/tesla"
     }
   ],
-  "updatedAt": "2026-07-23T07:55:00+09:00",
+  "updatedAt": "2026-07-23T13:04:00+09:00",
   "analysis": [
     {
       "title": "실적의 질 — 순이익 $1.1B의 절반 이상이 '스페이스X 평가익'",
