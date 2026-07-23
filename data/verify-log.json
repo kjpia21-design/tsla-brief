@@ -229,6 +229,43 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-23T21:11:48.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "stock-short-sellers-4b-profit-2026-07-23",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "href matches Bloomberg original (2026-07-23, tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive)",
+            "$4B profit / 15% intraday drop / worst-in-a-year framing corroborated via WebSearch excerpt of the Bloomberg piece",
+            "short interest +33% since March to ~80M shares cross-checked against TipRanks coverage",
+            "days-to-cover 1.75 days / highest since 2021 consistent with secondary summaries (full Bloomberg text blocked 403, no contradicting figure found)",
+            "EPS $0.33 vs $0.50 consensus reuses figure already verified in an earlier archived card, not newly invented",
+            "sourceLabel press correct for Bloomberg market-moves piece",
+            "no advisory tone, no hedge-to-assertion conversion"
+          ]
+        },
+        {
+          "slug": "product-nhtsa-door-safety-rulemaking-2026-07-23",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "href matches Bloomberg original (2026-07-23, us-will-strengthen-regulations-for-car-doors-handles-after-tesla-deaths)",
+            "WebSearch excerpt confirms NHTSA granted the petition for a 'robust and obvious door egress system' — matches card wording",
+            "Nov 4, 2025 petition date re-confirmed via separate search",
+            "distinct from the Dec 2025 Model-3-only defect probe — card correctly scopes this as an all-vehicle new-FMVSS petition, no href/body mismatch",
+            "SAFE Exit Act '15 deaths' claim correctly hedged as the bill sponsors' claim, matching how Electrek et al. report it",
+            "card correctly frames this as pre-NPRM process start, not a finalized rule",
+            "sourceLabel sec appropriate per routine's own NHTSA/regulator-agency tier definition",
+            "confirmedBy=2 (Bloomberg, Seeking Alpha) consistent with multiple outlets covering the same fact",
+            "no advisory tone"
+          ]
+        }
+      ]
     }
   ]
 }

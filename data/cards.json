@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-23T18:04:36.000Z",
+      "title": "테슬라 실적 후 급락 — 공매도 세력 <em>$4B 수익</em>",
+      "hotShort": "테슬라 급락에 공매도 세력 <em>$4B 수익</em>",
+      "body": "2분기 실적 부진으로 테슬라 주가가 장중 한때 15%까지 급락하며 1년래 최대 낙폭을 기록한 가운데, 블룸버그는 이 급락으로 공매도 세력이 약 $4B의 평가이익을 거뒀다고 분석했다 — 실적 발표 전 이미 테슬라 숏 포지션은 3월 대비 33% 늘어난 약 8000만주까지 불어나 있었다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "stock-short-sellers-4b-profit-2026-07-23",
+      "summary": "22일 장 마감 후 발표된 2분기 실적이 EPS 컨센서스를 크게 밑돌면서, 다음 거래일인 23일 테슬라 주가는 장중 한때 15%까지 밀리며 1년여 만에 최대 낙폭을 기록했다. 블룸버그는 이 하루 동안의 급락이 테슬라 공매도 세력에게 대규모 평가이익을 안겼다고 짚었다 — 그 규모는 약 $4B로 추산됐다.\n\n조정 EPS는 $0.33로 시장 예상($0.50)을 크게 하회했고, 평균판매가 하락·규제크레딧 매출 감소·AI 투자 확대에 따른 비용 증가가 겹친 결과였다. 이는 이미 이번 주 다른 카드에서 다룬 실적 부진의 연장선이다.\n\n이번 급락 전부터 테슬라를 둘러싼 공매도 심리는 이미 고조돼 있었다. 테슬라 숏 포지션(공매도 잔고)은 3월 이후 33% 늘어난 약 8000만주까지 불어났고, 커버(청산)에 필요한 일수(days to cover)를 나타내는 지표는 1.75일로 2021년 이후 최고치를 기록했다.\n\n주주 입장에서는 두 가지를 함께 봐야 한다 — 실적 미스 자체의 펀더멘털 영향과, 이미 커진 공매도 포지션이 향후 반등 시 숏커버링 랠리로 이어질 수 있는 변동성 요인이라는 점이다. 월가 주요 IB들이 목표주가는 낮추면서도 매수 등급 상당수를 유지한 것과는 대조적으로, 시장 일각의 단기 베팅은 오히려 하락 쪽에 크게 쏠려 있었던 셈이다.",
+      "title_en": "Tesla short sellers mint <em>$4B profit</em> as shares plunge on earnings miss",
+      "hotShort_en": "Short sellers <em>rake in $4B</em> as Tesla craters",
+      "body_en": "Tesla shares plunged as much as 15% intraday on Thursday — their worst one-day drop in more than a year — after a disappointing Q2 report, and Bloomberg estimates the slide handed short sellers roughly $4B in paper profits. Short interest had already climbed 33% since March to nearly 80 million shares heading into earnings.",
+      "summary_en": "Tesla's Q2 results, released after Wednesday's close, missed EPS consensus by a wide margin, and shares tumbled as much as 15% intraday the next trading day — the steepest single-day drop in more than a year. Bloomberg reported the rout handed Tesla short sellers an estimated $4B in paper gains.\n\nAdjusted EPS came in at $0.33, well below the $0.50 consensus, as lower average selling prices, shrinking regulatory-credit revenue, and heavier AI spending squeezed margins — an extension of the earnings miss covered elsewhere in this briefing.\n\nBearish positioning had already been building before the drop. Tesla's short interest rose 33% since March to nearly 80 million shares, and the days-to-cover ratio — a gauge of how long it would take shorts to unwind — climbed to 1.75 days, its highest level since 2021.\n\nFor shareholders, two things are worth watching together: the fundamental hit from the earnings miss itself, and the risk that such a crowded short position could fuel a sharp short-covering rally if sentiment turns. That contrasts with Wall Street's major banks, which cut price targets but mostly kept Buy ratings intact — short-term traders, it seems, were positioned far more bearishly than the analysts.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive",
+      "sentiment": "bear",
+      "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-07-23T17:16:15.000Z",
+      "title": "미 NHTSA, 테슬라 도어 갇힘 사망사고 계기 <em>차량 도어 안전규정 제정 착수</em>",
+      "hotShort": "NHTSA, 테슬라발 <em>도어 안전규정 제정</em> 착수",
+      "body": "미 도로교통안전국(NHTSA)이 사고 후 화재·정전으로 문이 열리지 않아 탑승자가 갇혀 숨진 사례들을 계기로, 비상시 누구나 쉽게 열 수 있는 도어 설계·표시 기준을 신설하는 규정 제정 절차에 착수했다 — 숨겨진 전동식 손잡이를 쓰는 테슬라 차량이 이번 논의의 중심에 있다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "sec",
+      "slug": "product-nhtsa-door-safety-rulemaking-2026-07-23",
+      "summary": "NHTSA 산하 규정제정국(Office of Rulemaking)은 지난해 11월 4일 접수된 청원 — 모든 차량에 '확실하고 명백한(robust and obvious)' 비상 탈출 시스템을 의무화하는 새 연방자동차안전기준(FMVSS)을 제정해달라는 요청 — 을 받아들여, 정식 규정 제정 절차에 착수한다고 밝혔다. 블룸버그는 이 절차가 사고 후 전력이 끊긴 차량에 갇혀 숨진 사례들에 대한 대응이라고 짚었다.\n\n문제의 핵심은 전동식·은닉형 도어 손잡이다. 일부 테슬라 차량은 충돌 후 화재나 배터리 전원 손실이 발생하면 전동 도어 잠금·개폐 장치가 함께 작동을 멈추는데, 이럴 때 써야 하는 기계식 비상 해제 레버가 눈에 잘 띄지 않거나 위치를 직관적으로 찾기 어렵다는 지적이 이어져왔다.\n\n이 문제는 규제당국 움직임 이전부터 정치권 이슈이기도 했다. 미 의회에는 'SAFE Exit Act'라는 별도 법안이 발의돼 있는데, 발의자들은 이 법안이 테슬라 도어 관련 사고로 최소 15명이 숨졌다는 주장을 근거로, 전동식 도어에 성능·표시 기준을 의무화하고 차량마다 찾기 쉬운 수동 해제장치를 두도록 요구하고 있다. 다만 이는 법안 발의자 측 주장이며, 아직 입법이 완료되지는 않았다.\n\nNHTSA의 이번 절차는 아직 정식 규칙안(NPRM) 발표 전 단계로, 확정 규정이 나오기까지는 시일이 걸릴 전망이다. 다만 최종적으로 도어 설계 변경이나 라벨링 의무화로 이어지면 테슬라를 포함한 완성차 업체들에 설계 변경 비용이 발생할 수 있어, 이번 실적 발표 주간 불거진 여러 규제 리스크 중 하나로 주주들이 지켜볼 만하다.",
+      "title_en": "NHTSA opens rulemaking on <em>car door emergency-exit safety</em> after fatal Tesla entrapments",
+      "hotShort_en": "NHTSA starts <em>door safety rulemaking</em> after Tesla deaths",
+      "body_en": "The National Highway Traffic Safety Administration has begun a rulemaking process for new emergency-exit design and labeling standards, after fatal crashes in which occupants were trapped inside vehicles that lost power to their electronic doors — putting Tesla's hidden power door handles at the center of the debate.",
+      "summary_en": "NHTSA's Office of Rulemaking said it granted a petition filed on November 4, 2025 calling for a new Federal Motor Vehicle Safety Standard requiring a 'robust and obvious' emergency-exit system in all vehicles, and will now begin the formal rulemaking process. Bloomberg tied the move to fatal incidents in which people were trapped inside cars that lost electrical power after a crash.\n\nThe core issue is electronic, hidden door handles. In some Tesla vehicles, a crash-related fire or battery power loss can disable the electronic door locks and releases at the same time, and critics say the mechanical backup release meant for exactly that scenario is often hard to spot or unintuitive to use in an emergency.\n\nThe issue was already a political flashpoint before this regulatory step. A separate bill in Congress, the SAFE Exit Act, would require performance and labeling standards for electric doors and mandate an easy-to-find manual release in every vehicle; its sponsors cite at least 15 deaths they attribute to Tesla door-related incidents — a claim from the bill's backers, not yet enacted into law.\n\nNHTSA's process is still a pre-proposal stage, so a final rule remains some way off. But if it eventually mandates design or labeling changes, automakers including Tesla could face compliance costs — one more regulatory risk for shareholders to track alongside the other threads from this week's earnings news.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/us-will-strengthen-regulations-for-car-doors-handles-after-tesla-deaths",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Seeking Alpha"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
@@ -119,26 +164,6 @@
       "hot": 6
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
-      "pubDate": "2026-07-23T00:56:15.000Z",
-      "title": "머스크, HW3 차주 FSD 업그레이드 질문에 \"<em>확정된 계획 없다</em>\" — 수백만 대 숙제 여전",
-      "hotShort": "HW3 FSD 업그레이드, 머스크도 <em>확답 못해</em>",
-      "body": "일론 머스크가 22일 실적콜에서 하드웨어3(HW3) 차량의 FSD 업그레이드 계획을 묻는 질문에 \"언젠가는 재정적으로 타당해질 것\"이라면서도 시기·비용은 못박지 않았다 — '모든 필요 하드웨어가 있다'던 과거 약속을 지킬 구체적 로드맵은 여전히 없다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-hw3-upgrade-no-plan-2026-07-22",
-      "summary": "테슬라 2분기 실적콜에서 하드웨어3(HW3) 탑재 차량에 최신 FSD를 구동할 수 있게 업그레이드할 계획이 여전히 유효한지 직접 질문이 나왔다. 머스크는 \"HW4 미만 모든 차량을 업그레이드하는 게 합리적일 것\"이라며 \"언젠가는 재정적으로 타당해질 것\"이라고 답했지만, 시기·방식·비용에 대한 구체적 약속은 이번에도 내놓지 않았다.\n\n이 문제는 수년째 이어져온 논란이다. 테슬라는 HW3 차량을 판매하며 \"완전자율주행에 필요한 모든 하드웨어가 탑재됐다\"고 강조해왔지만, 정작 최신 FSD 성능은 HW4 이상에서만 온전히 구현된다. Electrek는 앞서 테슬라가 결국 최대 400만 대 규모 HW3 차량의 컴퓨터를 교체하거나 오너들에게 별도 보상을 해야 할 수 있다고 짚은 바 있다.\n\n임시방편은 이미 시작됐다. 테슬라는 경량화한 'FSD v14 Lite'를 HW3 차량에 순차 배포 중이지만, 이는 근본적 하드웨어 격차를 메우기보다 그 격차를 드러내는 조치라는 평가가 나온다.\n\n주주 입장에선 두 가지가 겹친다 — 수백만 오너와의 신뢰 문제, 그리고 컴퓨터 교체·보상이 현실화될 경우의 잠재적 비용 부담이다. 확정된 로드맵이 나오기 전까진 이 불확실성이 계속될 전망이다.",
-      "title_en": "Musk gives <em>no firm plan</em> for Hardware 3 owners promised FSD",
-      "hotShort_en": "HW3 owners still get <em>no firm FSD plan</em>",
-      "body_en": "Asked directly on the Q2 earnings call whether Hardware 3 cars will be upgraded for the latest FSD, Musk said it would be \"financially sensible at some point\" — without committing to a timeline, method, or cost for the millions of owners still waiting.",
-      "summary_en": "On Tesla's Q2 earnings call, Musk was asked point-blank whether Tesla still plans to upgrade Hardware 3 (HW3) vehicles so they can run its latest FSD software. He said it would \"make sense\" to upgrade \"all cars that have less than Hardware 4\" and that it would be \"financially sensible at some point\" — but again offered no commitment on timing, method, or cost.\n\nThe issue has dragged on for years. Tesla sold HW3 vehicles on the promise that they had \"all the hardware necessary\" for full self-driving, yet the latest FSD performance is only fully realized on Hardware 4 and above. Electrek has previously reported Tesla may ultimately need to replace the onboard computer in as many as 4 million HW3 vehicles, or compensate owners instead.\n\nA stopgap is already underway: Tesla has begun rolling out a stripped-down \"FSD v14 Lite\" to HW3 cars — a move critics say highlights the hardware gap rather than closing it.\n\nFor shareholders, two things are stacked here: trust with millions of owners, and the potential cost if a computer swap or compensation program becomes real. Both remain unresolved until Tesla commits to an actual roadmap.",
-      "href": "https://electrek.co/2026/07/22/tesla-hardware-3-fsd-no-plan-musk-earnings-call/",
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "3h ago",
@@ -164,27 +189,7 @@
       ],
       "sentiment": "neutral",
       "hot": 9
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-22T09:15:22.000Z",
-      "title": "블룸버그, 사이버트럭에 <em>'포드 에드셀' 낙인</em> — 2025년 판매 2만대, 전년比 48% 급감",
-      "hotShort": "사이버트럭 <em>'포드 에드셀' 낙인</em> — 판매 48%↓",
-      "body": "블룸버그가 사이버트럭을 1957년 시장에서 참패한 포드 에드셀에 빗대며 <em>'전기차 시대 최악의 실패작'</em>이 될 수 있다고 짚었다 — 2025년 미국 판매량이 2만237대로 전년(3만9000대) 대비 48% 급감해, 머스크가 공언한 연 25만대 목표의 8%에 그쳤다는 지적이다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "product-cybertruck-sales-cratering-edsel-2026-07-22",
-      "summary": "블룸버그가 22일(현지시간) 게재한 심층 기사에서 테슬라 사이버트럭을 1957년 출시 후 시장에서 참패한 포드의 '에드셀'에 견주며, <em>'전기차 시대 최악의 자동차 실패작'</em>으로 남을 위험이 있다고 짚었다. 2019년 공개 당시 파격적인 디자인과 방탄유리 시연으로 화제를 모았던 사이버트럭이, 출시 2년 만에 판매 급감이라는 상반된 성적표를 받아든 셈이다.\n\n블룸버그에 따르면 사이버트럭의 2025년 미국 판매량은 <em>2만237대</em>로, 전년(3만9000대) 대비 <em>48.1%</em> 감소했다. 이는 미국에서 판매된 전기차 가운데 단일 최대 판매 급감 폭으로 꼽힌다. 일론 머스크는 2019년 공개 행사에서 사이버트럭이 연간 <em>25만대</em> 판매될 것이라 공언한 바 있는데, 2025년 실적은 그 목표치의 8% 수준에 그쳤다.\n\n포드 에드셀은 1957년 출시 당시 연 20만대 판매를 목표로 내걸었지만 실제로는 그 3분의 1에도 못 미치는 판매량을 기록하며 자동차 역사상 최악의 실패 사례로 남았다. 블룸버그는 두 차종 모두 '미래형' 파격 디자인으로 대대적 기대를 모았다가 시장의 외면을 받았다는 공통점을 짚으며, 목표 대비 미달 폭으로는 사이버트럭이 에드셀보다 더 크다고 평가했다.\n\n22일 2분기 실적발표를 앞두고 나온 이 보도는 투자자들에게 민감한 시점의 지적이다. 사이버트럭은 로보택시·옵티머스와 함께 테슬라의 차세대 성장동력으로 홍보돼 왔지만, 정작 양산 볼륨 모델로는 자리잡지 못하고 있다는 점을 재확인시킨다. 다만 테슬라 매출에서 사이버트럭이 차지하는 비중 자체는 모델3·Y에 비해 작아, 이번 판매 부진이 곧바로 전체 실적에 미치는 영향은 제한적이라는 시각도 있다.",
-      "title_en": "Bloomberg brands Cybertruck the <em>'Ford Edsel of the EV era'</em> — 2025 sales crash 48% to 20,237",
-      "hotShort_en": "Cybertruck evokes <em>Ford Edsel comparisons</em>",
-      "body_en": "Bloomberg likened the Cybertruck to Ford's <em>Edsel</em>, the industry's textbook flop, after 2025 U.S. sales fell 48.1% to just 20,237 units — a fraction of the 250,000-a-year Musk once promised, landing one day before Tesla's Q2 earnings call.",
-      "summary_en": "In a feature published July 22, Bloomberg compared the Cybertruck to Ford's Edsel — the car whose name became shorthand for automotive failure after its disastrous 1957 launch — warning Tesla's angular pickup risks going down as <em>the biggest automotive flop of the EV era</em>. It's a sharp reversal from 2019, when the truck's radical design and bulletproof-glass demo made it an instant sensation.\n\nAccording to Bloomberg, Cybertruck's 2025 U.S. sales came in at <em>20,237</em> units, down <em>48.1%</em> from 39,000 the year before — the single steepest sales decline of any EV sold in the U.S. Musk had told the truck's 2019 unveiling crowd to expect <em>250,000</em> deliveries a year; 2025's total came in at just 8% of that target.\n\nFord's Edsel aimed for 200,000 annual sales when it launched in 1957 but managed less than a third of that, cementing its place as one of the industry's most infamous failures. Bloomberg noted both vehicles drew huge hype for futuristic styling before the market rejected them — and argued Cybertruck's miss against its own target is proportionally worse than Edsel's.\n\nThe comparison lands one day before Tesla's Q2 earnings call, a pointed reminder that Cybertruck — pitched alongside Robotaxi and Optimus as a pillar of Tesla's next growth phase — has yet to become a volume seller. Some analysts note Cybertruck's share of Tesla's overall revenue remains small next to Model 3 and Model Y, limiting the near-term hit to results even as the narrative sting persists.",
-      "href": "https://www.bloomberg.com/news/features/2026-07-22/tesla-cybertruck-risks-becoming-the-ford-edsel-of-the-ev-era",
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-24 04:12 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-24 05:15 KST 자동 갱신 · 최신순"
 }
