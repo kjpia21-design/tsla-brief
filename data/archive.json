@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "26m ago",
+      "pubDate": "2026-07-23T13:52:16.000Z",
+      "title": "월가 4개사, 실적 부진에 테슬라 목표주가 <em>일제히 하향</em> — 등급은 유지",
+      "hotShort": "월가 4개사, 테슬라 목표주가 <em>동반 하향</em>",
+      "body": "JP모건($475→$445)·Cantor Fitzgerald($510→$485)·Canaccord($450→$410)·Truist($430→$370)가 2분기 실적 부진을 이유로 목표주가를 일제히 낮췄다 — 다만 매수·비중확대 등급은 대부분 유지해, 단기 실적 미스에도 로보택시·옵티머스 장기 성장 스토리에 대한 신뢰는 완전히 꺾이지 않았음을 시사한다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "stock-analyst-price-target-cuts-2026-07-23",
+      "summary": "22일 2분기 실적 발표 이후 월가 애널리스트들의 목표주가 조정이 잇따르고 있다. CNBC 집계에 따르면 JP모건이 $475에서 $445로, Cantor Fitzgerald가 $510에서 $485로, Canaccord가 $450에서 $410으로, Truist가 $430에서 $370으로 각각 목표주가를 낮춰, 주요 4개사 목표주가 밴드가 $370~$485 수준으로 좁혀졌다.\n\n하향 배경은 대체로 겹친다. 평균판매가 하락과 규제크레딧 매출 감소가 겹치며 조정 EPS가 컨센서스($0.50)를 크게 밑돈 $0.33에 그쳤고, 이것이 목표주가 조정의 공통 근거로 꼽혔다. Canaccord는 밸류에이션 부담과 함께 로보택시·자율주행 관련 약속들이 시점을 가늠하기 어렵다는 점을 하향 이유로 짚었다.\n\n다만 투자의견(등급)은 대부분 그대로다. Canaccord는 매수(Buy), Cantor Fitzgerald는 비중확대(Overweight) 등급을 유지했고 Truist는 기존 보유(Hold) 의견을 이어갔다. Cantor는 2026 회계연도를 자율주행·AI·로보틱스·반도체로의 전환이 본격화되는 분수령으로 보고 있다고 밝혔다 — 목표가는 낮췄지만 사업 방향 자체에 대한 판단은 바꾸지 않았다는 뜻이다.\n\n목표주가 하향과 등급 유지가 함께 나온 점은 월가의 태도를 요약한다. 단기 마진 압박은 냉정하게 반영하되, 로보택시·옵티머스·AI 인프라로 이어지는 장기 스토리 자체를 폐기하지는 않는 '지켜보자(show-me)' 스탠스에 가깝다.",
+      "title_en": "Four Wall Street firms cut Tesla price targets <em>after earnings miss</em> — but keep ratings intact",
+      "hotShort_en": "Four banks <em>cut Tesla price targets</em> in unison",
+      "body_en": "JPMorgan ($475→$445), Cantor Fitzgerald ($510→$485), Canaccord ($450→$410), and Truist ($430→$370) all lowered their Tesla price targets after the Q2 profit miss — but most kept their Buy/Overweight ratings intact, suggesting confidence in the long-term robotaxi and Optimus growth story hasn't fully cracked despite the near-term stumble.",
+      "summary_en": "A wave of Tesla price-target cuts followed Wednesday's Q2 earnings report. Per CNBC's roundup, JPMorgan trimmed its target from $475 to $445, Cantor Fitzgerald from $510 to $485, Canaccord from $450 to $410, and Truist from $430 to $370 — narrowing the range across the four firms to roughly $370–$485.\n\nThe reasoning was largely shared: lower average selling prices and shrinking regulatory-credit revenue squeezed margins, driving adjusted EPS to $0.33, well below the $0.50 consensus. Canaccord cited valuation pressure alongside the difficulty of pinning down timing on Tesla's robotaxi and autonomy promises.\n\nRatings, though, mostly held. Canaccord kept its Buy rating, Cantor Fitzgerald stayed at Overweight, and Truist maintained its existing Hold. Cantor framed fiscal 2026 as a transformational year for autonomy, AI, robotics, and chips — the target came down, but the underlying thesis didn't change.\n\nTaken together, the target cuts paired with unchanged ratings capture Wall Street's current posture: near-term margin pressure is being priced in soberly, without abandoning the long-term robotaxi, Optimus, and AI-infrastructure story — a 'show-me' stance rather than a reversal.",
+      "href": "https://www.cnbc.com/2026/07/23/tesla-gets-price-target-cuts-from-analysts-on-earnings-miss-what-theyre-saying.html",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "CNBC",
+        "Teslarati",
+        "MarketScreener"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
@@ -2334,32 +2360,7 @@
       ],
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "12m ago",
-      "pubDate": "2026-07-08T14:16:26.000Z",
-      "title": "테슬라, 오스틴 인근 68.3만 sqft 산업용 건물 신규 임대 — 머스크의 <em>텍사스 부동산 확장</em> 계속",
-      "hotShort": "테슬라, 오스틴에 <em>68만 sqft 건물 추가 임대</em>",
-      "body": "테슬라가 텍사스 오스틴 힐스 커머스 센터에 68만3천 sqft 규모의 신축 산업용 건물을 새로 임대했다 — 정확한 용도는 공개되지 않았지만, 기가텍사스 인근에서 물류·부품·서비스 등 지원 인프라를 계속 늘려가는 일론 머스크의 텍사스 부동산 확장 흐름의 일환이다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "musk-tesla-austin-building-lease-2026-07-08",
-      "summary": "부동산 전문매체 The Real Deal과 Electrek에 따르면, 테슬라가 오스틴 힐스 커머스 센터에 위치한 68만3천 sqft 규모의 신축 예정 산업용 건물을 임대 계약했다. 이 건물은 Sansone Group과 Principal Asset Management가 개발 중이며 2027년 1월 완공 예정이다.\n\n테슬라는 현재 기가텍사스에서 모델Y·사이버트럭을 생산하고, 오스틴을 거점으로 로보택시 서비스도 확장하고 있다 — 이번에 임대한 건물이 차량 물류, 부품 보관, 서비스 운영, 혹은 에너지 제품 관련 용도로 쓰일 가능성이 거론되지만, 테슬라 측은 구체적 용도를 밝히지 않았다.\n\n이번 계약으로 머스크가 오스틴 일대에서 임대 중인 부지는 총 220만 sqft에 달하고, 직접 소유·건설한 부지까지 합치면 1,000만 sqft를 넘는다 — 테슬라뿐 아니라 스페이스X·xAI 등 머스크 계열사 전반의 텍사스 확장이 계속되고 있음을 보여준다.",
-      "title_en": "Tesla leases <em>683,000 sq ft</em> Austin building in Musk's Texas real estate sweep",
-      "hotShort_en": "Tesla leases <em>683,000 sq ft</em> Austin building",
-      "body_en": "Tesla has leased a 683,000-square-foot speculative industrial building in the Austin Hills Commerce Center — the exact use hasn't been disclosed, but it's part of Elon Musk's continued expansion of Central Texas real estate supporting operations around Giga Texas.",
-      "summary_en": "According to The Real Deal and Electrek, Tesla has signed a lease for a 683,000-square-foot industrial building under construction in the Austin Hills Commerce Center, developed by Sansone Group and Principal Asset Management, with completion expected in January 2027.\n\nTesla currently builds the Model Y and Cybertruck at Giga Texas and is expanding its Robotaxi service out of Austin — the newly leased space could support vehicle logistics, parts storage, service operations, or energy products, though Tesla hasn't confirmed the intended use.\n\nWith this lease, Musk now controls roughly 2.2 million square feet of leased space around Austin, plus more than 10 million square feet he owns and has built — underscoring the continued Texas expansion across Musk's companies, including Tesla, SpaceX and xAI.",
-      "href": "https://electrek.co/2026/07/08/tesla-leases-683000-sqft-austin-industrial-building/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "The Real Deal"
-      ],
-      "sentiment": "neutral",
-      "hot": 3
     }
   ],
-  "asOf": "2026-07-23 18:38 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-24 00:08 KST 자동 갱신 · 최신순"
 }
