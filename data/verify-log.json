@@ -72,6 +72,25 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-23T07:20:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "이번 실행에서 카드 본문에 두 문장만 추가(카드 신규 생성 아님, 기존 검증된 본문은 불변) — 추가분만 재검증",
+            "'$5.8B AI·로보택시 인프라 집행' 문구는 raw-cards.json에 실제 수집된 WSJ 원 헤드라인('...Amid $5.8 Billion Spend in AI, Robotics')을 그대로 반영 — 지어낸 수치 아님. 단, 전년 대비 142%/$2.39B 비교치는 WebSearch 2차 요약에서만 확인되고 직접 원문 대조 불가(WSJ/Electrek/CNBC/TipRanks 전부 WebFetch 403) — 리스크 높다고 판단해 카드에서 제외, $5.8B 단일 수치와 기존 확인된 연간 $25B+ 가이던스 대비 맥락만 남김(완화)",
+            "마이크론 메모리 칩 관련 문장은 Bloomberg 원 헤드라인('Musk Says Micron Gave Tesla Significant Supply of Memory Chips')과 WebSearch로 확인된 컨콜 인용문(stocktwits 경유)이 서로 수렴 — 직접 인용 대신 의역으로 완화해 오인용 리스크 낮춤",
+            "조언 톤(매수·매도·목표가) 없음, 추측 단정 전환 없음, href 불변(원 기사와 사건 일치), 밈·풍자 아님 — 6항목 모두 문제없음",
+            "직접 원문 WebFetch는 Bloomberg/WSJ/CNBC/Electrek/TipRanks/Teslarati 전부 403 차단 — WebSearch 교차검증으로 대체(에이전트 워크플로우 fail-open 원칙 적용)"
+          ]
+        }
+      ]
     }
   ]
 }
