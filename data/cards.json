@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-07-23T23:17:58.000Z",
+      "title": "스페이스X, 2028년 이후 팰컨9 상업예약 <em>사실상 중단</em> — 스타십에 올인",
+      "hotShort": "스페이스X, 팰컨 상업예약 <em>2028년 이후 중단</em>",
+      "body": "블룸버그에 따르면 스페이스X가 2028년 이후 팰컨9 상업 라이드셰어(Transporter) 예약을 사실상 중단하고, 재사용 안 되는 팰컨 상단부 등 일부 부품 생산까지 멈췄다 — 미검증 스타십에 회사 역량을 몰아주는 초대형 베팅이다. 머스크가 최근 실적콜에서 테슬라·스페이스X 합병 가능성을 다시 띄운 만큼, 스페이스X의 자원 배분 방향은 테슬라 주주도 주시할 변수다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-falcon-transporter-halt-2026-07-23",
+      "summary": "블룸버그에 따르면 스페이스X가 최소 9곳의 파트너·고객사에 2028년 말 혹은 2029년 초 이후로는 팰컨9 상업 라이드셰어(Transporter) 예약을 받지 않는다고 통보했다. 향후 몇 년치 발사 일정이 이미 거의 다 찬 상태다.\n\n동시에 스페이스X는 팰컨 계열 로켓의 비재사용 부품 — 대표적으로 대형 2단 상단부 — 생산을 일부 중단한 것으로 전해졌다. 회사는 팰컨9·스타십의 내부 발사 역량을 스타링크 차세대 위성군 배치에 우선 배정하는 쪽으로 방향을 틀었다.\n\n그동안 저렴하고 예측 가능한 팰컨 발사 일정에 의존해 자금을 조달해 온 소형위성 스타트업들은 대체 발사 수단을 찾거나 훨씬 높은 비용·지연을 감수해야 하는 처지에 놓였다 — 시장에 공급 공백이 생긴 셈이다.\n\n이번 결정은 아직 상용 궤도 서비스에 오르지 못한 스타십에 회사의 미래를 거는 초대형 베팅으로 풀이된다. 머스크가 지난 실적콜에서 사업 중첩을 이유로 테슬라·스페이스X 합병 가능성을 다시 띄운 만큼, 스페이스X가 검증된 팰컨 상업 매출을 줄이면서까지 스타십에 자원을 몰아주는 움직임은 테슬라 주주 입장에서도 머스크의 자본·시간 배분을 가늠하는 참고 지표다.",
+      "title_en": "SpaceX <em>effectively halts</em> Falcon 9 commercial bookings past 2028 — all-in on Starship",
+      "hotShort_en": "SpaceX halts Falcon bookings <em>past 2028</em>",
+      "body_en": "Per Bloomberg, SpaceX has effectively stopped taking commercial Falcon 9 rideshare (Transporter) bookings beyond 2028, and halted production of some non-reusable Falcon components — a massive bet on unproven Starship. With Musk recently reviving Tesla-SpaceX merger speculation on the earnings call, how SpaceX allocates its resources is a variable Tesla shareholders are watching too.",
+      "summary_en": "Per Bloomberg, SpaceX has told at least nine partners and customers it won't accept Falcon 9 commercial rideshare (Transporter) bookings beyond late 2028 or early 2029 — its launch manifest for the next couple of years is already nearly full.\n\nSpaceX has also stopped building some non-reusable Falcon-family components, notably the rocket's large upper stage. The company is redirecting internal Falcon 9 and Starship launch capacity to accelerate deployment of its next-generation Starlink constellation.\n\nSmallsat startups that built their funding plans around cheap, predictable Falcon rideshare slots now face a supply vacuum — forced to find alternative launch providers or absorb much higher costs and delays.\n\nThe move underscores how heavily SpaceX is betting its future on Starship, which has yet to reach commercial orbital service. With Musk having revived Tesla-SpaceX merger speculation on the recent earnings call over growing business overlap, SpaceX pulling back proven Falcon revenue to double down on Starship is a data point Tesla shareholders can use to gauge how Musk is allocating his capital and attention.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-is-turning-away-falcon-customers-in-major-bet-on-starship",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "SatNews",
+        "SpaceNews"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -70,31 +96,6 @@
       ],
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-07-23T15:26:00.000Z",
-      "title": "구글, 스페이스X 지분가치 <em>$94.1B</em> 공시 — 6% 지분 확인",
-      "hotShort": "구글, 스페이스X 지분 <em>$94.1B</em> 첫 공시",
-      "body": "구글 모회사 알파벳이 2분기 보고서에서 스페이스X 지분가치를 $94.1B(지분율 6%)로 공시했다 — 22일 실적콜에서 머스크가 테슬라·스페이스X \"사업 중첩이 갈수록 커진다\"며 합병 가능성을 부인하지 않은 직후 나와, 합병설 논의에 다시 불을 지폈다.",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "musk-google-spacex-stake-94b-2026-07-23",
-      "summary": "23일(현지시간) 공개된 알파벳의 2분기 보고서에 따르면, 구글은 스페이스X 지분을 $94.1B 규모, 약 6%의 지분율로 보유하고 있다. 이 중 $80B는 단기 매도 제한이, $14.1B는 2027년 3분기까지 장기 매도 제한이 걸려 있다 — IPO 전후 주주에게 흔히 붙는 락업 조건이다.\n\n스페이스X는 지난 6월12일 나스닥에 상장하며 공모가 $135 대비 19% 뛴 $160.95에 첫날 거래를 마감, 시가총액 $2.1T를 기록해 나스닥 역사상 최대 규모 IPO로 남았다. 알파벳은 이번 2분기 스페이스X·앤스로픽 지분 평가익을 합쳐 약 $98B의 순이익 증가를 인식했다고 함께 공시했다.\n\n테슬라 주주 입장에서 이 공시가 주목받는 이유는 따로 있다. 22일 실적콜에서 머스크가 테슬라·스페이스X 합병 가능성을 묻는 질문에 이를 일축하지 않고 \"사업 중첩이 갈수록 커지고 있다\"고 답한 직후 나온 수치이기 때문이다. 스페이스X의 거대해진 몸값이 재확인되면서, 합병이 성사될 경우 테슬라 주주가 얻을 노출 규모에 대한 논의도 다시 불붙고 있다.\n\n다만 이는 구글의 지분 공시일 뿐, 테슬라·스페이스X 합병 논의 자체가 진전됐다는 뜻은 아니다. 머스크는 해당 논의를 \"실적콜에서 결정할 사안이 아니다\"라며 선을 그은 상태다.",
-      "title_en": "Google discloses <em>$94.1B stake</em> in SpaceX — a 6% holding",
-      "hotShort_en": "Google reveals <em>$94.1B SpaceX stake</em>, 6% holding",
-      "body_en": "Alphabet disclosed in its Q2 filing that Google holds a $94.1B stake in SpaceX — about 6% of the company — coming right after Musk, on Tesla's July 22 earnings call, didn't rule out a Tesla-SpaceX merger, saying the 'overlap between the businesses keeps growing.'",
-      "summary_en": "Alphabet's second-quarter filing, published Thursday, shows Google holds a $94.1 billion stake in SpaceX — roughly 6% of the company. Of that, $80 billion is subject to short-term selling restrictions, and $14.1 billion is locked up through the third quarter of 2027 — typical conditions for IPO-era shareholders.\n\nSpaceX went public on Nasdaq on June 12, with shares closing their first day at $160.95 — up 19% from the $135 IPO price — putting the company's market value at roughly $2.1 trillion, the largest Nasdaq listing on record. Alphabet also disclosed a combined $98 billion in investment gains for the quarter from its SpaceX and Anthropic stakes.\n\nFor Tesla shareholders, the disclosure lands right after Musk, on Tesla's July 22 earnings call, declined to rule out a Tesla-SpaceX merger, saying the overlap between the businesses keeps growing. SpaceX's confirmed scale is reviving investor debate over what exposure Tesla holders would gain if such a deal ever happened.\n\nThe filing itself says nothing about merger progress — Musk has said any such discussion isn't something to settle on an earnings call.",
-      "href": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "WSJ",
-        "Bloomberg"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     },
     {
       "category": "fsd",
@@ -216,5 +217,5 @@
       "hot": 9
     }
   ],
-  "asOf": "2026-07-24 06:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-24 14:07 KST 자동 갱신 · 최신순"
 }

@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-07-23T23:17:58.000Z",
+      "title": "스페이스X, 2028년 이후 팰컨9 상업예약 <em>사실상 중단</em> — 스타십에 올인",
+      "hotShort": "스페이스X, 팰컨 상업예약 <em>2028년 이후 중단</em>",
+      "body": "블룸버그에 따르면 스페이스X가 2028년 이후 팰컨9 상업 라이드셰어(Transporter) 예약을 사실상 중단하고, 재사용 안 되는 팰컨 상단부 등 일부 부품 생산까지 멈췄다 — 미검증 스타십에 회사 역량을 몰아주는 초대형 베팅이다. 머스크가 최근 실적콜에서 테슬라·스페이스X 합병 가능성을 다시 띄운 만큼, 스페이스X의 자원 배분 방향은 테슬라 주주도 주시할 변수다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-falcon-transporter-halt-2026-07-23",
+      "summary": "블룸버그에 따르면 스페이스X가 최소 9곳의 파트너·고객사에 2028년 말 혹은 2029년 초 이후로는 팰컨9 상업 라이드셰어(Transporter) 예약을 받지 않는다고 통보했다. 향후 몇 년치 발사 일정이 이미 거의 다 찬 상태다.\n\n동시에 스페이스X는 팰컨 계열 로켓의 비재사용 부품 — 대표적으로 대형 2단 상단부 — 생산을 일부 중단한 것으로 전해졌다. 회사는 팰컨9·스타십의 내부 발사 역량을 스타링크 차세대 위성군 배치에 우선 배정하는 쪽으로 방향을 틀었다.\n\n그동안 저렴하고 예측 가능한 팰컨 발사 일정에 의존해 자금을 조달해 온 소형위성 스타트업들은 대체 발사 수단을 찾거나 훨씬 높은 비용·지연을 감수해야 하는 처지에 놓였다 — 시장에 공급 공백이 생긴 셈이다.\n\n이번 결정은 아직 상용 궤도 서비스에 오르지 못한 스타십에 회사의 미래를 거는 초대형 베팅으로 풀이된다. 머스크가 지난 실적콜에서 사업 중첩을 이유로 테슬라·스페이스X 합병 가능성을 다시 띄운 만큼, 스페이스X가 검증된 팰컨 상업 매출을 줄이면서까지 스타십에 자원을 몰아주는 움직임은 테슬라 주주 입장에서도 머스크의 자본·시간 배분을 가늠하는 참고 지표다.",
+      "title_en": "SpaceX <em>effectively halts</em> Falcon 9 commercial bookings past 2028 — all-in on Starship",
+      "hotShort_en": "SpaceX halts Falcon bookings <em>past 2028</em>",
+      "body_en": "Per Bloomberg, SpaceX has effectively stopped taking commercial Falcon 9 rideshare (Transporter) bookings beyond 2028, and halted production of some non-reusable Falcon components — a massive bet on unproven Starship. With Musk recently reviving Tesla-SpaceX merger speculation on the earnings call, how SpaceX allocates its resources is a variable Tesla shareholders are watching too.",
+      "summary_en": "Per Bloomberg, SpaceX has told at least nine partners and customers it won't accept Falcon 9 commercial rideshare (Transporter) bookings beyond late 2028 or early 2029 — its launch manifest for the next couple of years is already nearly full.\n\nSpaceX has also stopped building some non-reusable Falcon-family components, notably the rocket's large upper stage. The company is redirecting internal Falcon 9 and Starship launch capacity to accelerate deployment of its next-generation Starlink constellation.\n\nSmallsat startups that built their funding plans around cheap, predictable Falcon rideshare slots now face a supply vacuum — forced to find alternative launch providers or absorb much higher costs and delays.\n\nThe move underscores how heavily SpaceX is betting its future on Starship, which has yet to reach commercial orbital service. With Musk having revived Tesla-SpaceX merger speculation on the recent earnings call over growing business overlap, SpaceX pulling back proven Falcon revenue to double down on Starship is a data point Tesla shareholders can use to gauge how Musk is allocating his capital and attention.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-is-turning-away-falcon-customers-in-major-bet-on-starship",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "SatNews",
+        "SpaceNews"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -2335,27 +2361,7 @@
       "href": "https://www.autonews.com/tesla/an-tesla-launches-model-y-l-crossover-dominates-sales-0709/",
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-07-09T07:25:00.000Z",
-      "title": "스페이스X 목표주가 스펙트럼 극단으로 — 씨티 <em>낙관 시나리오 $900</em>, 실제 목표주가는 $200",
-      "hotShort": "스페이스X 목표주가 <em>최고 $900 시나리오</em> 등장",
-      "body": "씨티 애널리스트 존 고딘이 스페이스X 실제 목표주가는 $200(매수)로 제시하면서도, 스타쉽 완전 가동·테라팹 반도체 양산·궤도 AI위성 성공을 모두 전제로 한 낙관 시나리오에서는 $900까지 갈 수 있다고 밝혔다 — 전날 레이먼드제임스가 내놓은 실제 목표주가 $800과 겹치며 월가의 스페이스X 밸류에이션 눈높이가 극단적으로 벌어지고 있어, 테슬라·스페이스X 합병설이 도는 가운데 협상 기준점 자체가 불투명해지는 모습이다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-valuation-spectrum-citi-900-2026-07-09",
-      "summary": "스페이스X를 둘러싼 월가 목표주가 논쟁이 이번엔 '실제 목표주가'와 '낙관 시나리오'를 뒤섞어 더 혼란스러운 양상으로 번지고 있다.\n\n씨티의 존 고딘 애널리스트는 스페이스X에 매수 의견과 함께 실제 목표주가 $200을 제시했다. 다만 그는 별도로 낙관(bull) 시나리오를 언급하며, 스타쉽이 대규모로 완전히 가동되고 테라팹 반도체 공장이 실제 칩을 양산하며 궤도 AI위성까지 문제없이 발사되는 조건이 모두 충족되면 주가가 $900대까지 갈 수 있다고 밝혔다. 반대로 비관(bear) 시나리오에서는 스타쉽이 2029년까지도 완전히 작동하지 못할 경우 $75까지 떨어질 수 있다고 봤다.\n\n이는 하루 전 레이먼드제임스의 브라이언 게수알레 애널리스트가 제시한 실제 목표주가 $800(밸류에이션 약 $10.5조)과는 성격이 다르다 — 레이먼드제임스의 $800은 '실제 목표주가'인 반면, 씨티의 $900은 여러 조건이 모두 맞아떨어져야 하는 '낙관 시나리오'다. 두 수치를 동일선상에서 비교하기는 어렵지만, 월가 애널리스트들의 스페이스X 밸류에이션 상단 눈높이 자체가 계속 높아지고 있다는 신호로는 읽힌다.\n\n다만 냉정하게 보면 애널리스트 평균 목표주가는 약 $240(밸류에이션 약 $3.2조) 수준으로, 씨티·레이먼드제임스의 공격적인 숫자는 여전히 소수 의견이자 컨센서스를 크게 웃도는 아웃라이어에 가깝다. 앞서 모건스탠리 등은 훨씬 보수적인 $300선에서 첫 커버리지를 시작한 바 있다.\n\n테슬라 주주 입장에서는 이 밸류에이션 스펙트럼이 단순한 흥밋거리가 아니다 — 아이브스가 '80% 확률'을 언급한 테슬라·스페이스X 합병설이 계속 도는 가운데, BNP파리바(회의적)와 JP모건(이론상 타당) 사이 견해차까지 겹쳐 있어, 스페이스X 밸류에이션 자체가 합병 조건 협상의 기준점이자 동시에 최대 불확실성 요인이 되고 있다.",
-      "title_en": "SpaceX target spectrum widens further — Citi's <em>bull case hits $900</em>, actual target just $200",
-      "hotShort_en": "SpaceX bull case hits <em>$900</em> — actual PT just $200",
-      "body_en": "Citi analyst John Godyn set SpaceX's actual price target at $200 (Buy) — but flagged a separate bull-case scenario of $900, contingent on Starship reaching full operational scale, the Terafab chip facility producing at volume, and orbital AI satellites launching without issue. That overlaps confusingly with Raymond James's actual $800 target from a day earlier, showing just how far Wall Street's SpaceX valuation expectations are stretching as Tesla-SpaceX merger speculation continues to swirl.",
-      "summary_en": "The Wall Street price-target battle over SpaceX just got more confusing, as analysts increasingly mix actual targets with aspirational bull-case scenarios.\n\nCiti's John Godyn rates SpaceX Buy with an actual price target of $200. Separately, he laid out a bull case in which shares could reach $900 — but only if Starship becomes fully operational at scale, the Terafab semiconductor facility starts producing chips, and orbital AI satellites launch successfully. His bear case, by contrast, puts shares at $75 if Starship still isn't fully working by 2029.\n\nThat's a different animal from Raymond James analyst Brian Gesuale's $800 target set a day earlier (implying roughly $10.5 trillion valuation) — Raymond James's number is an actual price target, while Citi's $900 is a conditional bull case. The two aren't directly comparable, but together they signal Wall Street's upper-bound SpaceX valuation expectations keep climbing.\n\nA reality check: the average analyst target sits around $240 (implying roughly $3.2 trillion), meaning Citi and Raymond James's aggressive numbers remain outliers well above consensus. Morgan Stanley and others started far more conservatively, with initial coverage near $300.\n\nFor Tesla shareholders, this spread isn't just academic. With Dan Ives still putting Tesla-SpaceX merger odds at 80% and banks split on feasibility (BNP skeptical, JPMorgan calling it 'coherent on paper'), SpaceX's valuation is shaping up to be both the reference point for any merger negotiation and its biggest source of uncertainty.",
-      "href": "https://www.barrons.com/articles/spacex-stock-price-target-7a020bc8",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-24 06:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-24 14:07 KST 자동 갱신 · 최신순"
 }

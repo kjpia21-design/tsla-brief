@@ -287,6 +287,27 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-24T05:07:22.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-falcon-transporter-halt-2026-07-23",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press confirmed correct (Bloomberg original reporting, cross-confirmed by SatNews and SpaceNews independent write-ups)",
+            "no advisory tone, no buy/sell/price-target language",
+            "no hedge-to-assertion drift: Bloomberg's 'people familiar with the matter' framing preserved via '~에 따르면'/'~로 전해졌다' in KO and 'Per Bloomberg' in EN rather than flattened to bare assertion",
+            "numbers verified via independent WebSearch cross-check: 'beyond late 2028 or early 2029' and 'at least nine partners/customers' both confirmed present in SatNews/SpaceNews coverage, matches card text",
+            "href matches the exact Bloomberg article URL from raw-cards.json; WebFetch on bloomberg.com returned 403 (paywall/bot-block), fell back to WebSearch cross-verification per fail-open policy",
+            "N/A: not an X/meme-sourced card",
+            "Tesla-relevance framing (merger-speculation tie-in) draws only on an already-verified fact from this same day's musk-spacex-merger-speculation-2026-07-22 card, not a new invented claim"
+          ]
+        }
+      ]
     }
   ]
 }
