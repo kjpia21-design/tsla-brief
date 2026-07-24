@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-24 17:42 UTC · 누적 670건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-24 19:37 UTC · 누적 671건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-24T15:39:12.000Z",
+      "title": "테슬라, 정체불명 <em>$2B AI 하드웨어 인수</em> 조용히 종료",
+      "hotShort": "테슬라, <em>$2B AI 하드웨어 인수</em> 조용히 마무리",
+      "body": "테슬라가 지난 4월 처음 언급했던 정체불명의 AI 하드웨어 기업 인수를 2분기 중 $1.95B(전액 자사주·주식보상)로 마무리했다 — 대상 기업명은 이번에도 공개하지 않았고, 보도자료 없이 10-Q 공시 한 문장으로만 알렸다. 로보택시·옵티머스용 AI 컴퓨팅 투자 규모를 가늠할 단서지만, 공시 투명성 논란도 함께 따라올 전망.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-2b-ai-hardware-deal-closes-2026-07-24",
+      "summary": "테슬라는 지난 4월 공개한 1분기 10-Q에서 \"약 $20억 규모 AI 하드웨어 기업 인수\"를 한 문장으로 언급하며 이 딜의 존재를 처음 알렸다. Electrek 보도에 따르면, 2분기 10-Q에서 이 인수가 2분기 중 최종 마무리됐다는 사실이 확인됐다 — 이번에도 대상 기업명이나 기술 내용은 공개되지 않았고, 별도 보도자료나 실적콜 언급도 없었다.\n\n공시에 따르면 최종 인수가는 $1.95B로, 전액 테슬라 보통주·주식보상(equity awards)으로 지급됐다. 다만 회계상 '확정 가치'로 인식한 금액은 특허·개발기술 무형자산 명목의 $222M뿐이고, 나머지 $1.73B는 인수된 팀의 잔류와 성과 마일스톤 달성을 조건으로 한 조건부 지급분이다 — 현금 인수보다는 인재영입형(acqui-hire) 구조에 가깝다.\n\n대상 기업명은 여전히 비공개지만, 시장에서는 테슬라 옛 도조(Dojo) 팀 인력 다수가 설립한 AI 반도체 스타트업 DensityAI를 유력 후보로 보고 있다 — 다만 테슬라는 이를 공식 확인하지 않았다.\n\n이번 공시는 테슬라가 로보택시·옵티머스에 필요한 AI 컴퓨팅 인프라에 얼마를 쓰고 있는지 보여주는 드문 단서다. 다만 2분기 실적이 EPS 미스·마진 압박으로 투자자 신뢰가 흔들린 시점에, $2B 규모 지출을 최소한의 공시만으로 처리하는 관행은 계속 도마에 오를 만하다.",
+      "title_en": "Tesla quietly closes its <em>$2B mystery AI hardware</em> deal",
+      "hotShort_en": "Tesla closes secret <em>$2B AI</em> deal",
+      "body_en": "Tesla finalized the mysterious AI-hardware acquisition it first flagged in April, closing it in Q2 for $1.95B — paid entirely in Tesla stock and equity awards — without ever naming the target or issuing a press release. It's a rare data point on how much Tesla is spending on AI compute for robotaxi and Optimus, even as the deal's opacity draws fresh scrutiny.",
+      "summary_en": "This isn't a new deal — it's Tesla confirming an old one. Back in April, Tesla's Q1 10-Q disclosed in a single sentence that it had agreed to acquire an AI hardware company for roughly $2 billion. Per Electrek, the same one-line pattern repeated in Q2: the Q2 10-Q confirms the deal closed during the quarter, again without naming the company or describing its technology, and again with no press release or earnings-call mention.\n\nPer the filing, Tesla paid $1.95B in total, entirely in Tesla common stock and equity awards. But the company assigned only $222M of 'hard' accounting value to the deal — booked as a patent and related developed-technology intangible asset — with the remaining $1.73B contingent on the acquired team staying on and hitting performance milestones. That structure looks more like an acqui-hire than a straight acquisition.\n\nTesla still hasn't named the target, but market speculation has centered on DensityAI, an AI chip startup reportedly built largely from former members of Tesla's Dojo supercomputer team — a claim Tesla has not confirmed.\n\nThe deal offers a rare glimpse into how much Tesla is spending on AI compute infrastructure for robotaxi and Optimus. But burying a $2B transaction in a single 10-Q sentence, with no earnings-call mention, comes as investors are already scrutinizing Tesla's spending discipline after a Q2 EPS miss and margin compression.",
+      "href": "https://electrek.co/2026/07/24/tesla-secret-2-billion-ai-hardware-acquisition-closes/",
+      "sentiment": "neutral",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
