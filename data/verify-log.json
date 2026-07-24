@@ -308,6 +308,24 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-24T07:08:26.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-v14-lite-hw3-feature-parity-2026-07-20",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "6/6 claims confirmed vs Tesla Oracle + notateslaapp release notes + TeslaNorth",
+            "no advisory-tone violation",
+            "no hedge-to-assertion conversion found",
+            "confirmedBy=3 accurate"
+          ]
+        }
+      ]
     }
   ]
 }

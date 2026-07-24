@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-23T23:17:58.000Z",
-      "title": "스페이스X, 2028년 이후 팰컨9 상업예약 <em>사실상 중단</em> — 스타십에 올인",
-      "hotShort": "스페이스X, 팰컨 상업예약 <em>2028년 이후 중단</em>",
-      "body": "블룸버그에 따르면 스페이스X가 2028년 이후 팰컨9 상업 라이드셰어(Transporter) 예약을 사실상 중단하고, 재사용 안 되는 팰컨 상단부 등 일부 부품 생산까지 멈췄다 — 미검증 스타십에 회사 역량을 몰아주는 초대형 베팅이다. 머스크가 최근 실적콜에서 테슬라·스페이스X 합병 가능성을 다시 띄운 만큼, 스페이스X의 자원 배분 방향은 테슬라 주주도 주시할 변수다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-falcon-transporter-halt-2026-07-23",
-      "summary": "블룸버그에 따르면 스페이스X가 최소 9곳의 파트너·고객사에 2028년 말 혹은 2029년 초 이후로는 팰컨9 상업 라이드셰어(Transporter) 예약을 받지 않는다고 통보했다. 향후 몇 년치 발사 일정이 이미 거의 다 찬 상태다.\n\n동시에 스페이스X는 팰컨 계열 로켓의 비재사용 부품 — 대표적으로 대형 2단 상단부 — 생산을 일부 중단한 것으로 전해졌다. 회사는 팰컨9·스타십의 내부 발사 역량을 스타링크 차세대 위성군 배치에 우선 배정하는 쪽으로 방향을 틀었다.\n\n그동안 저렴하고 예측 가능한 팰컨 발사 일정에 의존해 자금을 조달해 온 소형위성 스타트업들은 대체 발사 수단을 찾거나 훨씬 높은 비용·지연을 감수해야 하는 처지에 놓였다 — 시장에 공급 공백이 생긴 셈이다.\n\n이번 결정은 아직 상용 궤도 서비스에 오르지 못한 스타십에 회사의 미래를 거는 초대형 베팅으로 풀이된다. 머스크가 지난 실적콜에서 사업 중첩을 이유로 테슬라·스페이스X 합병 가능성을 다시 띄운 만큼, 스페이스X가 검증된 팰컨 상업 매출을 줄이면서까지 스타십에 자원을 몰아주는 움직임은 테슬라 주주 입장에서도 머스크의 자본·시간 배분을 가늠하는 참고 지표다.",
-      "title_en": "SpaceX <em>effectively halts</em> Falcon 9 commercial bookings past 2028 — all-in on Starship",
-      "hotShort_en": "SpaceX halts Falcon bookings <em>past 2028</em>",
-      "body_en": "Per Bloomberg, SpaceX has effectively stopped taking commercial Falcon 9 rideshare (Transporter) bookings beyond 2028, and halted production of some non-reusable Falcon components — a massive bet on unproven Starship. With Musk recently reviving Tesla-SpaceX merger speculation on the earnings call, how SpaceX allocates its resources is a variable Tesla shareholders are watching too.",
-      "summary_en": "Per Bloomberg, SpaceX has told at least nine partners and customers it won't accept Falcon 9 commercial rideshare (Transporter) bookings beyond late 2028 or early 2029 — its launch manifest for the next couple of years is already nearly full.\n\nSpaceX has also stopped building some non-reusable Falcon-family components, notably the rocket's large upper stage. The company is redirecting internal Falcon 9 and Starship launch capacity to accelerate deployment of its next-generation Starlink constellation.\n\nSmallsat startups that built their funding plans around cheap, predictable Falcon rideshare slots now face a supply vacuum — forced to find alternative launch providers or absorb much higher costs and delays.\n\nThe move underscores how heavily SpaceX is betting its future on Starship, which has yet to reach commercial orbital service. With Musk having revived Tesla-SpaceX merger speculation on the recent earnings call over growing business overlap, SpaceX pulling back proven Falcon revenue to double down on Starship is a data point Tesla shareholders can use to gauge how Musk is allocating his capital and attention.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-is-turning-away-falcon-customers-in-major-bet-on-starship",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Bloomberg",
-        "SatNews",
-        "SpaceNews"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -75,6 +49,32 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
+      "pubDate": "2026-07-23T17:00:00.000Z",
+      "title": "테슬라 FSD V14 Lite(HW3), <em>와이드 릴리즈 확정</em> — HW4 지능까지 이식",
+      "hotShort": "FSD V14 Lite(HW3) <em>와이드 릴리즈 확정</em>",
+      "body": "테슬라가 구형 하드웨어(HW3) 차량용 FSD V14 Lite의 대규모 배포를 21일부터 시작해 와이드 릴리즈를 사실상 확정했다 — 애초 예고했던 2026.20.6.10 대신 버그 수정판 2026.20.6.11로, HW4 버전의 지능을 이식한 강화학습 개선과 MLIR 컴파일러 재작성으로 반응속도를 20% 끌어올렸다. 완전 무감독 FSD를 지원 못 하는 구형 하드웨어 차주들의 체감 격차를 좁히는 조치로, 향후 FSD 개선 속도를 가늠할 지표다.",
+      "sourceName": "Tesla Oracle",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-lite-hw3-feature-parity-2026-07-20",
+      "summary": "지난 21일 테슬라 AI 총괄 아쇽 엘루스와미가 예고했던 HW3용 FSD V14 Lite의 와이드 릴리즈가 실제로 시작됐다. 당초 2026.20.6.10 버전이 전체 배포될 것으로 알려졌지만, 테슬라는 막판에 버그 수정을 거친 2026.20.6.11을 대신 대량 배포하기 시작했다 — 21일 소수 차량으로 시작해 22일 확대, 23일에는 훨씬 더 큰 물결로 번졌다는 게 테슬라 오라클 등 복수 매체의 보도다.\n\n이번 빌드의 핵심은 HW4용 FSD V14의 '지능'을 HW3에 그대로 증류(distill)해 넣었다는 점이다 — HW3가 HW4 버전을 교사 모델 삼아 학습해, 강화학습(RL) 단계 개선과 오프라인 모델 활용 등의 이득을 동일하게 누릴 수 있게 됐다. 여기에 AI 컴파일러·런타임을 MLIR 기반으로 전면 재작성해 반응속도를 20% 개선했다고 회사 측은 밝혔다.\n\nHW3는 일론 머스크가 앞서 실적콜에서 완전 무감독(unsupervised) FSD를 지원할 수 없다고 못박은 구형 하드웨어다. 이번 와이드 릴리즈는 그 한계를 인정하면서도 신형 HW4와의 체감 격차를 최대한 좁히려는 절충안으로, 구형 차량을 보유한 주주·고객층의 만족도에 직결되는 변화다.\n\n해당 버전은 노트어테슬라앱(Not a Tesla App)의 공식 릴리스노트로도 확인됐으며, 테슬라노스(TeslaNorth) 등도 동일한 배포 확산을 보도해 신뢰도를 뒷받침한다.",
+      "title_en": "Tesla's FSD V14 Lite for HW3 <em>goes wide</em> — with HW4's intelligence distilled in",
+      "hotShort_en": "FSD V14 Lite (HW3) <em>wide release confirmed</em>",
+      "body_en": "Tesla began mass-pushing FSD V14 Lite to HW3 (older hardware) vehicles on July 21, effectively confirming the wide release — not with the originally teased 2026.20.6.10 build, but a quick bug-fix point release, 2026.20.6.11, that distills HW4's intelligence into HW3 and rewrites the AI compiler in MLIR for a 20% faster reaction time. It's a concrete step toward closing the experience gap for owners of hardware that can't run unsupervised FSD — and a read on how fast Tesla can keep iterating.",
+      "summary_en": "The wide release of FSD V14 Lite for HW3 vehicles that Tesla AI chief Ashok Elluswamy signaled on July 21 has now actually begun. The originally teased build, 2026.20.6.10, was expected to go wide, but Tesla instead pushed a bug-fix point release, 2026.20.6.11, in its place — starting with a small batch of cars on July 21, expanding on July 22, and reaching a much larger wave by July 23, according to Tesla Oracle and other outlets.\n\nThe core of this build is that it distills the 'intelligence' of the HW4 version of FSD V14 directly into HW3 — letting HW3 learn using the HW4 model as a teacher, and inherit the same gains from an upgraded reinforcement-learning (RL) training stage and offline-model use. Tesla also says it rewrote the AI compiler and runtime from the ground up on MLIR, delivering a 20% faster reaction time.\n\nHW3 is the older hardware generation that Elon Musk previously said on an earnings call cannot support fully unsupervised FSD. This wide release acknowledges that ceiling while still narrowing the experience gap with newer HW4 as much as possible — a change that matters directly to the satisfaction of shareholders and customers still driving older hardware.\n\nThe version has also been confirmed via Not a Tesla App's official release notes, with TeslaNorth and other outlets reporting the same expanding rollout, backing up the reporting.",
+      "href": "https://www.teslaoracle.com/2026/07/23/tesla-fsd-v14-lite-finally-goes-wide-release-with-software-update-version-2026-20-6-11/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Tesla Oracle",
+        "Not a Tesla App",
+        "TeslaNorth"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
       "pubDate": "2026-07-23T16:50:09.000Z",
       "title": "프랑스, 테슬라 FSD 승인 보류 — 머스크 <em>\"생명 앗아갈 것\"</em> 반박",
       "hotShort": "프랑스 FSD 보류에 머스크 <em>\"생명 앗아갈 것\"</em>",
@@ -116,32 +116,6 @@
       "href": "https://www.teslarati.com/tesla-switch-up-selling-full-self-driving-has-paid-off-big-time/",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "26m ago",
-      "pubDate": "2026-07-23T13:52:16.000Z",
-      "title": "월가 4개사, 실적 부진에 테슬라 목표주가 <em>일제히 하향</em> — 등급은 유지",
-      "hotShort": "월가 4개사, 테슬라 목표주가 <em>동반 하향</em>",
-      "body": "JP모건($475→$445)·Cantor Fitzgerald($510→$485)·Canaccord($450→$410)·Truist($430→$370)가 2분기 실적 부진을 이유로 목표주가를 일제히 낮췄다 — 다만 매수·비중확대 등급은 대부분 유지해, 단기 실적 미스에도 로보택시·옵티머스 장기 성장 스토리에 대한 신뢰는 완전히 꺾이지 않았음을 시사한다.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "stock-analyst-price-target-cuts-2026-07-23",
-      "summary": "22일 2분기 실적 발표 이후 월가 애널리스트들의 목표주가 조정이 잇따르고 있다. CNBC 집계에 따르면 JP모건이 $475에서 $445로, Cantor Fitzgerald가 $510에서 $485로, Canaccord가 $450에서 $410으로, Truist가 $430에서 $370으로 각각 목표주가를 낮춰, 주요 4개사 목표주가 밴드가 $370~$485 수준으로 좁혀졌다.\n\n하향 배경은 대체로 겹친다. 평균판매가 하락과 규제크레딧 매출 감소가 겹치며 조정 EPS가 컨센서스($0.50)를 크게 밑돈 $0.33에 그쳤고, 이것이 목표주가 조정의 공통 근거로 꼽혔다. Canaccord는 밸류에이션 부담과 함께 로보택시·자율주행 관련 약속들이 시점을 가늠하기 어렵다는 점을 하향 이유로 짚었다.\n\n다만 투자의견(등급)은 대부분 그대로다. Canaccord는 매수(Buy), Cantor Fitzgerald는 비중확대(Overweight) 등급을 유지했고 Truist는 기존 보유(Hold) 의견을 이어갔다. Cantor는 2026 회계연도를 자율주행·AI·로보틱스·반도체로의 전환이 본격화되는 분수령으로 보고 있다고 밝혔다 — 목표가는 낮췄지만 사업 방향 자체에 대한 판단은 바꾸지 않았다는 뜻이다.\n\n목표주가 하향과 등급 유지가 함께 나온 점은 월가의 태도를 요약한다. 단기 마진 압박은 냉정하게 반영하되, 로보택시·옵티머스·AI 인프라로 이어지는 장기 스토리 자체를 폐기하지는 않는 '지켜보자(show-me)' 스탠스에 가깝다.",
-      "title_en": "Four Wall Street firms cut Tesla price targets <em>after earnings miss</em> — but keep ratings intact",
-      "hotShort_en": "Four banks <em>cut Tesla price targets</em> in unison",
-      "body_en": "JPMorgan ($475→$445), Cantor Fitzgerald ($510→$485), Canaccord ($450→$410), and Truist ($430→$370) all lowered their Tesla price targets after the Q2 profit miss — but most kept their Buy/Overweight ratings intact, suggesting confidence in the long-term robotaxi and Optimus growth story hasn't fully cracked despite the near-term stumble.",
-      "summary_en": "A wave of Tesla price-target cuts followed Wednesday's Q2 earnings report. Per CNBC's roundup, JPMorgan trimmed its target from $475 to $445, Cantor Fitzgerald from $510 to $485, Canaccord from $450 to $410, and Truist from $430 to $370 — narrowing the range across the four firms to roughly $370–$485.\n\nThe reasoning was largely shared: lower average selling prices and shrinking regulatory-credit revenue squeezed margins, driving adjusted EPS to $0.33, well below the $0.50 consensus. Canaccord cited valuation pressure alongside the difficulty of pinning down timing on Tesla's robotaxi and autonomy promises.\n\nRatings, though, mostly held. Canaccord kept its Buy rating, Cantor Fitzgerald stayed at Overweight, and Truist maintained its existing Hold. Cantor framed fiscal 2026 as a transformational year for autonomy, AI, robotics, and chips — the target came down, but the underlying thesis didn't change.\n\nTaken together, the target cuts paired with unchanged ratings capture Wall Street's current posture: near-term margin pressure is being priced in soberly, without abandoning the long-term robotaxi, Optimus, and AI-infrastructure story — a 'show-me' stance rather than a reversal.",
-      "href": "https://www.cnbc.com/2026/07/23/tesla-gets-price-target-cuts-from-analysts-on-earnings-miss-what-theyre-saying.html",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "CNBC",
-        "Teslarati",
-        "MarketScreener"
-      ],
-      "sentiment": "bear",
-      "hot": 6
     },
     {
       "category": "fsd",
@@ -217,5 +191,5 @@
       "hot": 9
     }
   ],
-  "asOf": "2026-07-24 14:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-24 16:08 KST 자동 갱신 · 최신순"
 }

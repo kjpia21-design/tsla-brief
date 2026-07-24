@@ -75,6 +75,32 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
+      "pubDate": "2026-07-23T17:00:00.000Z",
+      "title": "테슬라 FSD V14 Lite(HW3), <em>와이드 릴리즈 확정</em> — HW4 지능까지 이식",
+      "hotShort": "FSD V14 Lite(HW3) <em>와이드 릴리즈 확정</em>",
+      "body": "테슬라가 구형 하드웨어(HW3) 차량용 FSD V14 Lite의 대규모 배포를 21일부터 시작해 와이드 릴리즈를 사실상 확정했다 — 애초 예고했던 2026.20.6.10 대신 버그 수정판 2026.20.6.11로, HW4 버전의 지능을 이식한 강화학습 개선과 MLIR 컴파일러 재작성으로 반응속도를 20% 끌어올렸다. 완전 무감독 FSD를 지원 못 하는 구형 하드웨어 차주들의 체감 격차를 좁히는 조치로, 향후 FSD 개선 속도를 가늠할 지표다.",
+      "sourceName": "Tesla Oracle",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-lite-hw3-feature-parity-2026-07-20",
+      "summary": "지난 21일 테슬라 AI 총괄 아쇽 엘루스와미가 예고했던 HW3용 FSD V14 Lite의 와이드 릴리즈가 실제로 시작됐다. 당초 2026.20.6.10 버전이 전체 배포될 것으로 알려졌지만, 테슬라는 막판에 버그 수정을 거친 2026.20.6.11을 대신 대량 배포하기 시작했다 — 21일 소수 차량으로 시작해 22일 확대, 23일에는 훨씬 더 큰 물결로 번졌다는 게 테슬라 오라클 등 복수 매체의 보도다.\n\n이번 빌드의 핵심은 HW4용 FSD V14의 '지능'을 HW3에 그대로 증류(distill)해 넣었다는 점이다 — HW3가 HW4 버전을 교사 모델 삼아 학습해, 강화학습(RL) 단계 개선과 오프라인 모델 활용 등의 이득을 동일하게 누릴 수 있게 됐다. 여기에 AI 컴파일러·런타임을 MLIR 기반으로 전면 재작성해 반응속도를 20% 개선했다고 회사 측은 밝혔다.\n\nHW3는 일론 머스크가 앞서 실적콜에서 완전 무감독(unsupervised) FSD를 지원할 수 없다고 못박은 구형 하드웨어다. 이번 와이드 릴리즈는 그 한계를 인정하면서도 신형 HW4와의 체감 격차를 최대한 좁히려는 절충안으로, 구형 차량을 보유한 주주·고객층의 만족도에 직결되는 변화다.\n\n해당 버전은 노트어테슬라앱(Not a Tesla App)의 공식 릴리스노트로도 확인됐으며, 테슬라노스(TeslaNorth) 등도 동일한 배포 확산을 보도해 신뢰도를 뒷받침한다.",
+      "title_en": "Tesla's FSD V14 Lite for HW3 <em>goes wide</em> — with HW4's intelligence distilled in",
+      "hotShort_en": "FSD V14 Lite (HW3) <em>wide release confirmed</em>",
+      "body_en": "Tesla began mass-pushing FSD V14 Lite to HW3 (older hardware) vehicles on July 21, effectively confirming the wide release — not with the originally teased 2026.20.6.10 build, but a quick bug-fix point release, 2026.20.6.11, that distills HW4's intelligence into HW3 and rewrites the AI compiler in MLIR for a 20% faster reaction time. It's a concrete step toward closing the experience gap for owners of hardware that can't run unsupervised FSD — and a read on how fast Tesla can keep iterating.",
+      "summary_en": "The wide release of FSD V14 Lite for HW3 vehicles that Tesla AI chief Ashok Elluswamy signaled on July 21 has now actually begun. The originally teased build, 2026.20.6.10, was expected to go wide, but Tesla instead pushed a bug-fix point release, 2026.20.6.11, in its place — starting with a small batch of cars on July 21, expanding on July 22, and reaching a much larger wave by July 23, according to Tesla Oracle and other outlets.\n\nThe core of this build is that it distills the 'intelligence' of the HW4 version of FSD V14 directly into HW3 — letting HW3 learn using the HW4 model as a teacher, and inherit the same gains from an upgraded reinforcement-learning (RL) training stage and offline-model use. Tesla also says it rewrote the AI compiler and runtime from the ground up on MLIR, delivering a 20% faster reaction time.\n\nHW3 is the older hardware generation that Elon Musk previously said on an earnings call cannot support fully unsupervised FSD. This wide release acknowledges that ceiling while still narrowing the experience gap with newer HW4 as much as possible — a change that matters directly to the satisfaction of shareholders and customers still driving older hardware.\n\nThe version has also been confirmed via Not a Tesla App's official release notes, with TeslaNorth and other outlets reporting the same expanding rollout, backing up the reporting.",
+      "href": "https://www.teslaoracle.com/2026/07/23/tesla-fsd-v14-lite-finally-goes-wide-release-with-software-update-version-2026-20-6-11/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Tesla Oracle",
+        "Not a Tesla App",
+        "TeslaNorth"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
       "pubDate": "2026-07-23T16:50:09.000Z",
       "title": "프랑스, 테슬라 FSD 승인 보류 — 머스크 <em>\"생명 앗아갈 것\"</em> 반박",
       "hotShort": "프랑스 FSD 보류에 머스크 <em>\"생명 앗아갈 것\"</em>",
@@ -530,32 +556,6 @@
         "Drive Tesla Canada"
       ],
       "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-21T07:44:20.000Z",
-      "title": "테슬라 FSD V14 Lite(HW3), <em>와이드 릴리즈 임박</em> 신호 — HW4 기능도 대거 이식",
-      "hotShort": "FSD V14 Lite(HW3), <em>와이드 릴리즈 임박</em>",
-      "body": "테슬라 AI 총괄 아쇽 엘루스와미가 HW3(구형 하드웨어) 대상 FSD V14 Lite의 최신 빌드가 조만간 <em>와이드 릴리즈(전체 배포)</em>로 전환될 수 있다고 시사했다 — 브레이크 확인 없는 주차 출발, Self-Driving 앱 등 HW4급 기능까지 이식된 상태라, 언수퍼바이즈드 FSD를 지원하지 못하는 구형 차주들의 체감 격차가 한층 좁혀질 전망이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-lite-hw3-feature-parity-2026-07-20",
-      "summary": "테슬라 AI 총괄 아쇽 엘루스와미가 HW3(하드웨어3) 탑재 차량용 FSD V14 Lite의 최신 빌드에 대해, 조기접근(early access) 단계를 마치고 <em>와이드 릴리즈(전체 배포)</em>로 전환될 가능성이 높다고 시사했다 — 구형 하드웨어 차주 대상 FSD 반복 개선 속도를 보여주는 가장 강한 신호로 꼽힌다.\n\nHW3용 FSD V14 Lite는 지난 6월29일 조기접근 그룹 대상으로 처음 배포됐다. 테슬라 커뮤니티 큐레이터 닉 크루즈 파테인에 따르면, 이번 최신 빌드는 HW4 버전 V14의 일부 기능을 넘겨받아 주차된 상태에서 출발할 때 더 이상 브레이크 페달을 밟아 확인할 필요가 없어졌고, 파란색 'P' 주차 아이콘, 목적지 접근 알림, Self-Driving 전용 앱과 무개입 연속 주행 '스트릭' 기능까지 새로 추가됐다.\n\n같은 날 테슬라 관련 소식을 전하는 큐레이터 테슬라 챈도 \"HW3로 이 정도 수준의 소프트웨어를 만든 게 놀랍다\"고 평가했다.\n\nHW3는 일론 머스크가 올해 초 실적콜에서 언수퍼바이즈드(완전 무감독) FSD 지원이 어렵다고 밝힌 구형 하드웨어다. 이번 와이드 릴리즈 시사는 그 한계를 인정하면서도, HW4와의 사용자 경험 격차를 최대한 좁히려는 테슬라의 절충안으로 풀이된다.\n\n22일 2분기 실적콜(D-1)을 앞두고 나온 이번 소식은 FSD 소프트웨어 반복 개선의 속도를 보여주는 참고 지표로, 구형 차량 보유 주주·고객층의 만족도와 직결되는 부분이라 주목할 만하다.",
-      "title_en": "Tesla's FSD V14 Lite on HW3 signals <em>wide release is near</em> — with HW4 features already ported over",
-      "hotShort_en": "FSD V14 Lite (HW3) <em>nears wide release</em>",
-      "body_en": "Tesla AI chief Ashok Elluswamy signaled that the latest FSD V14 Lite build for HW3 (older hardware) may soon exit early access and go to <em>wide release</em> — the build already carries over HW4-level features like brake-free parking starts and the Self-Driving app, further narrowing the gap for owners whose hardware can't run unsupervised FSD.",
-      "summary_en": "Tesla AI chief Ashok Elluswamy signaled that the latest FSD V14 Lite build running on Hardware 3 (HW3) vehicles is likely nearing the end of its early-access phase and headed for <em>wide release</em> — one of the strongest signals yet of the pace of FSD improvements for owners of Tesla's older hardware.\n\nFSD V14 Lite first began rolling out to HW3 early-access drivers on June 29. According to Tesla community curator Nic Cruz Patane, the latest build carries over several features from the HW4 version of V14: cars no longer need a brake-pedal press to confirm they're ready to pull out of a parking spot, plus a blue \"P\" park icon, approaching-destination alerts, a dedicated Self-Driving app, and a streak counter for consecutive intervention-free drives.\n\nThe same day, fellow curator Tesla Chan called the update impressive, saying it's \"amazing Tesla made this level of software\" run on HW3 hardware.\n\nHW3 is the older hardware generation that Elon Musk said earlier this year, on an earnings call, can't support unsupervised FSD. The wide-release signal reads as Tesla's compromise — acknowledging that ceiling while still closing as much of the user-experience gap with HW4 as possible.\n\nComing one day before Tesla's July 22 Q2 earnings call, the update is a data point on the pace of FSD's iterative improvement — one that matters directly to the satisfaction of shareholders and customers still driving older hardware.",
-      "href": "https://www.teslarati.com/teslas-ai-chief-just-hinted-at-something-big-for-fsd-v14-lite-owners/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Teslarati",
-        "Nic Cruz Patane (X)",
-        "Tesla Chan (X)"
-      ],
-      "sentiment": "bull",
       "hot": 5
     },
     {
@@ -2363,5 +2363,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-24 14:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-24 16:08 KST 자동 갱신 · 최신순"
 }
