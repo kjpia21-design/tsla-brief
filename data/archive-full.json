@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-23 23:01 UTC · 누적 666건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-24 03:19 UTC · 누적 667건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "stock",
@@ -71,6 +71,31 @@
       ],
       "sentiment": "bear",
       "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10h ago",
+      "pubDate": "2026-07-23T15:26:00.000Z",
+      "title": "구글, 스페이스X 지분가치 <em>$94.1B</em> 공시 — 6% 지분 확인",
+      "hotShort": "구글, 스페이스X 지분 <em>$94.1B</em> 첫 공시",
+      "body": "구글 모회사 알파벳이 2분기 보고서에서 스페이스X 지분가치를 $94.1B(지분율 6%)로 공시했다 — 22일 실적콜에서 머스크가 테슬라·스페이스X \"사업 중첩이 갈수록 커진다\"며 합병 가능성을 부인하지 않은 직후 나와, 합병설 논의에 다시 불을 지폈다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "musk-google-spacex-stake-94b-2026-07-23",
+      "summary": "23일(현지시간) 공개된 알파벳의 2분기 보고서에 따르면, 구글은 스페이스X 지분을 $94.1B 규모, 약 6%의 지분율로 보유하고 있다. 이 중 $80B는 단기 매도 제한이, $14.1B는 2027년 3분기까지 장기 매도 제한이 걸려 있다 — IPO 전후 주주에게 흔히 붙는 락업 조건이다.\n\n스페이스X는 지난 6월12일 나스닥에 상장하며 공모가 $135 대비 19% 뛴 $160.95에 첫날 거래를 마감, 시가총액 $2.1T를 기록해 나스닥 역사상 최대 규모 IPO로 남았다. 알파벳은 이번 2분기 스페이스X·앤스로픽 지분 평가익을 합쳐 약 $98B의 순이익 증가를 인식했다고 함께 공시했다.\n\n테슬라 주주 입장에서 이 공시가 주목받는 이유는 따로 있다. 22일 실적콜에서 머스크가 테슬라·스페이스X 합병 가능성을 묻는 질문에 이를 일축하지 않고 \"사업 중첩이 갈수록 커지고 있다\"고 답한 직후 나온 수치이기 때문이다. 스페이스X의 거대해진 몸값이 재확인되면서, 합병이 성사될 경우 테슬라 주주가 얻을 노출 규모에 대한 논의도 다시 불붙고 있다.\n\n다만 이는 구글의 지분 공시일 뿐, 테슬라·스페이스X 합병 논의 자체가 진전됐다는 뜻은 아니다. 머스크는 해당 논의를 \"실적콜에서 결정할 사안이 아니다\"라며 선을 그은 상태다.",
+      "title_en": "Google discloses <em>$94.1B stake</em> in SpaceX — a 6% holding",
+      "hotShort_en": "Google reveals <em>$94.1B SpaceX stake</em>, 6% holding",
+      "body_en": "Alphabet disclosed in its Q2 filing that Google holds a $94.1B stake in SpaceX — about 6% of the company — coming right after Musk, on Tesla's July 22 earnings call, didn't rule out a Tesla-SpaceX merger, saying the 'overlap between the businesses keeps growing.'",
+      "summary_en": "Alphabet's second-quarter filing, published Thursday, shows Google holds a $94.1 billion stake in SpaceX — roughly 6% of the company. Of that, $80 billion is subject to short-term selling restrictions, and $14.1 billion is locked up through the third quarter of 2027 — typical conditions for IPO-era shareholders.\n\nSpaceX went public on Nasdaq on June 12, with shares closing their first day at $160.95 — up 19% from the $135 IPO price — putting the company's market value at roughly $2.1 trillion, the largest Nasdaq listing on record. Alphabet also disclosed a combined $98 billion in investment gains for the quarter from its SpaceX and Anthropic stakes.\n\nFor Tesla shareholders, the disclosure lands right after Musk, on Tesla's July 22 earnings call, declined to rule out a Tesla-SpaceX merger, saying the overlap between the businesses keeps growing. SpaceX's confirmed scale is reviving investor debate over what exposure Tesla holders would gain if such a deal ever happened.\n\nThe filing itself says nothing about merger progress — Musk has said any such discussion isn't something to settle on an earnings call.",
+      "href": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "WSJ",
+        "Bloomberg"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
     },
     {
       "category": "fsd",
