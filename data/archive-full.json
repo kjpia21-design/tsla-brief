@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-24 03:19 UTC · 누적 667건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-24 06:30 UTC · 누적 668건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-07-23T23:17:58.000Z",
+      "title": "스페이스X, 2028년 이후 팰컨9 상업예약 <em>사실상 중단</em> — 스타십에 올인",
+      "hotShort": "스페이스X, 팰컨 상업예약 <em>2028년 이후 중단</em>",
+      "body": "블룸버그에 따르면 스페이스X가 2028년 이후 팰컨9 상업 라이드셰어(Transporter) 예약을 사실상 중단하고, 재사용 안 되는 팰컨 상단부 등 일부 부품 생산까지 멈췄다 — 미검증 스타십에 회사 역량을 몰아주는 초대형 베팅이다. 머스크가 최근 실적콜에서 테슬라·스페이스X 합병 가능성을 다시 띄운 만큼, 스페이스X의 자원 배분 방향은 테슬라 주주도 주시할 변수다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-falcon-transporter-halt-2026-07-23",
+      "summary": "블룸버그에 따르면 스페이스X가 최소 9곳의 파트너·고객사에 2028년 말 혹은 2029년 초 이후로는 팰컨9 상업 라이드셰어(Transporter) 예약을 받지 않는다고 통보했다. 향후 몇 년치 발사 일정이 이미 거의 다 찬 상태다.\n\n동시에 스페이스X는 팰컨 계열 로켓의 비재사용 부품 — 대표적으로 대형 2단 상단부 — 생산을 일부 중단한 것으로 전해졌다. 회사는 팰컨9·스타십의 내부 발사 역량을 스타링크 차세대 위성군 배치에 우선 배정하는 쪽으로 방향을 틀었다.\n\n그동안 저렴하고 예측 가능한 팰컨 발사 일정에 의존해 자금을 조달해 온 소형위성 스타트업들은 대체 발사 수단을 찾거나 훨씬 높은 비용·지연을 감수해야 하는 처지에 놓였다 — 시장에 공급 공백이 생긴 셈이다.\n\n이번 결정은 아직 상용 궤도 서비스에 오르지 못한 스타십에 회사의 미래를 거는 초대형 베팅으로 풀이된다. 머스크가 지난 실적콜에서 사업 중첩을 이유로 테슬라·스페이스X 합병 가능성을 다시 띄운 만큼, 스페이스X가 검증된 팰컨 상업 매출을 줄이면서까지 스타십에 자원을 몰아주는 움직임은 테슬라 주주 입장에서도 머스크의 자본·시간 배분을 가늠하는 참고 지표다.",
+      "title_en": "SpaceX <em>effectively halts</em> Falcon 9 commercial bookings past 2028 — all-in on Starship",
+      "hotShort_en": "SpaceX halts Falcon bookings <em>past 2028</em>",
+      "body_en": "Per Bloomberg, SpaceX has effectively stopped taking commercial Falcon 9 rideshare (Transporter) bookings beyond 2028, and halted production of some non-reusable Falcon components — a massive bet on unproven Starship. With Musk recently reviving Tesla-SpaceX merger speculation on the earnings call, how SpaceX allocates its resources is a variable Tesla shareholders are watching too.",
+      "summary_en": "Per Bloomberg, SpaceX has told at least nine partners and customers it won't accept Falcon 9 commercial rideshare (Transporter) bookings beyond late 2028 or early 2029 — its launch manifest for the next couple of years is already nearly full.\n\nSpaceX has also stopped building some non-reusable Falcon-family components, notably the rocket's large upper stage. The company is redirecting internal Falcon 9 and Starship launch capacity to accelerate deployment of its next-generation Starlink constellation.\n\nSmallsat startups that built their funding plans around cheap, predictable Falcon rideshare slots now face a supply vacuum — forced to find alternative launch providers or absorb much higher costs and delays.\n\nThe move underscores how heavily SpaceX is betting its future on Starship, which has yet to reach commercial orbital service. With Musk having revived Tesla-SpaceX merger speculation on the recent earnings call over growing business overlap, SpaceX pulling back proven Falcon revenue to double down on Starship is a data point Tesla shareholders can use to gauge how Musk is allocating his capital and attention.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-is-turning-away-falcon-customers-in-major-bet-on-starship",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "SatNews",
+        "SpaceNews"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
