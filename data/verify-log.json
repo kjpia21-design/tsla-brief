@@ -383,6 +383,26 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-24T18:10:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "stock-2b-ai-hardware-deal-closes-2026-07-24",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Electrek reporting on Tesla's Q2 10-Q disclosure (direct WebFetch to electrek.co blocked 403; facts corroborated via cross-source WebSearch: Gizmodo, Yahoo Finance, TradingView coverage of the same 10-Q line item)",
+            "no advisory tone — no buy/sell recommendation or price target",
+            "hedge preserved for unconfirmed identity — DensityAI attribution kept as market speculation ('시장에서는 ~로 보고 있다' / 'market speculation has centered on'), not asserted as fact; Tesla's non-confirmation stated explicitly",
+            "numbers corroborated: $1.95B total consideration (stock + equity awards), $222M hard value (patent/developed-tech intangible), $1.73B contingent on retention/milestones, original April Q1 10-Q disclosure — all match cross-source search results",
+            "href matches the exact Electrek article the card summarizes",
+            "not X/meme-sourced — gate 6 not applicable"
+          ]
+        }
+      ]
     }
   ]
 }
