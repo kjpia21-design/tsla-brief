@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-24 10:24 UTC · 누적 668건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-24 13:56 UTC · 누적 669건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-24T09:52:00.000Z",
+      "title": "머스크 순자산, SpaceX 상장 정점 대비 5주 만에 <em>최대 $700B 증발</em>",
+      "hotShort": "머스크 순자산 5주새 <em>최대 $700B 증발</em>",
+      "body": "SpaceX 상장 직후인 6월16일 약 $1.45조로 정점을 찍었던 머스크의 순자산이 7월23일 종가 기준 블룸버그 억만장자지수로 $738B — 5주 만에 최대 $700B가 증발했다. 테슬라·스페이스X 지분가치 동반 조정이 직접 원인으로, 그의 재산 대부분이 두 회사 주가에 묶여 있다는 뜻이기도 하다.",
+      "sourceName": "Bloomberg Billionaires Index",
+      "sourceLabel": "press",
+      "slug": "musk-net-worth-650b-5week-drop-2026-07-24",
+      "summary": "6월12일 스페이스X가 사상 최대 규모로 상장한 뒤 사흘 만인 6월16일, 스페이스X 시가총액은 사상 최고치인 $2.64조까지 치솟았고 머스크의 지분 평가액도 약 $1.45조로 정점을 찍었다.\n\n이후 상황은 반전됐다. 테슬라는 7월22일 발표한 2분기 실적이 AI 투자 확대 여파로 컨센서스를 하회하며 이튿날 주가가 급락했고(다른 카드에서 다룬 공매도 $4B 수익·목표주가 하향 참고), 스페이스X 역시 상장 직후 형성됐던 고평가가 이후 눈높이 조정을 받았다.\n\n그 결과 블룸버그 억만장자지수 기준 머스크의 순자산은 7월23일 종가 기준 $738B로, 정점 대비 $650B~700B가 사라졌다. 다만 연초 대비로는 오히려 +$118B 늘어난 수치이기도 하다 — 이번 하락은 6월 한때 형성됐던 일시적 고점이 꺼진 것에 가깝다.\n\n주주 입장에서 이 수치 자체가 테슬라 펀더멘털을 바꾸진 않지만, 머스크의 부(富)가 테슬라·스페이스X 두 회사 지분에 거의 전부 묶여 있다는 구조를 보여준다 — 그는 테슬라 지분 약 11%를 보유 중이며, 이번 손실도 장부상 평가액일 뿐 지분을 매도한 것은 아니다. 여전히 세계 1위 부호 자리는 2위와 $650B 격차로 유지하고 있다.",
+      "title_en": "Musk's net worth <em>plunges up to $700B</em> in 5 weeks from SpaceX-IPO peak",
+      "hotShort_en": "Musk net worth <em>down as much as $700B</em> in 5 weeks",
+      "body_en": "Musk's paper fortune peaked near $1.45T on June 16, days after SpaceX's record-setting IPO, but had fallen to $738B by the July 23 close per the Bloomberg Billionaires Index — a swing of up to $700B in five weeks. The drop tracks a joint pullback in Tesla and SpaceX valuations, underscoring how concentrated his wealth is in the two companies' shares.",
+      "summary_en": "Three days after SpaceX's record IPO on June 12, the company's market cap hit an all-time high of $2.64T on June 16, and Musk's paper wealth peaked near $1.45T alongside it.\n\nThe reversal came fast. Tesla's Q2 earnings, released July 22, missed consensus as AI spending weighed on margins, and shares tumbled the next day (see the $4B short-seller windfall and analyst price-target cuts covered elsewhere in this briefing). SpaceX's post-IPO valuation has also cooled from its initial highs.\n\nAs a result, the Bloomberg Billionaires Index pegged Musk's net worth at $738B at the July 23 close — down $650B to $700B from the peak. Year-to-date, though, he's still up $118B; the swing looks more like a brief June spike deflating than a new decline.\n\nThe number itself doesn't change Tesla's fundamentals, but it does illustrate how much of Musk's wealth rides on just two stocks — he holds roughly an 11% Tesla stake, and this is a mark-to-market paper loss, not a sale of shares. He remains the world's richest person by a wide margin, about $650B ahead of second place.",
+      "href": "https://www.bloomberg.com/billionaires/profiles/elon-r-musk/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
