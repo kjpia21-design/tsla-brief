@@ -326,6 +326,28 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-24T10:24:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-net-worth-650b-5week-drop-2026-07-24",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Bloomberg Billionaires Index is Bloomberg's own data journalism, not a raw SEC/official filing",
+            "no advisory tone, no buy/sell/price-target language",
+            "no hedge-to-assertion drift — peak figure hedged as '약 $1.45조', drop framed as '최대 $700B' (range), not a single point-estimate stated as fact",
+            "numbers cross-checked via WebSearch: bloomberg.com/billionaires/profiles/elon-r-musk/ directly returned $738B net worth and +$118B YTD change as of July 23 close, ranked #1; June 16 ~$1.45T peak (3 days after June 12 SpaceX IPO, SpaceX market cap ATH $2.64T) and the $650-700B swing corroborated across three independent secondary write-ups (24/7 Wall St, Yahoo Finance, AOL) all citing the same Bloomberg index",
+            "href points to the exact Bloomberg Billionaires profile page queried, not a mismatched article",
+            "not X/meme-sourced, N/A for satire check",
+            "card correctly retains the balancing fact (+$118B YTD, still world's #1 by ~$650B) rather than a one-sided doom framing — matches source nuance",
+            "direct WebFetch to bloomberg.com and to the 24/7 Wall St / Yahoo Finance / AOL articles returned 403 in each case — relied on WebSearch snippet synthesis per fail-open policy; figures were consistent across all sources with no contradictions found"
+          ]
+        }
+      ]
     }
   ]
 }

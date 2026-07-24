@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-24T09:52:00.000Z",
+      "title": "머스크 순자산, SpaceX 상장 정점 대비 5주 만에 <em>최대 $700B 증발</em>",
+      "hotShort": "머스크 순자산 5주새 <em>최대 $700B 증발</em>",
+      "body": "SpaceX 상장 직후인 6월16일 약 $1.45조로 정점을 찍었던 머스크의 순자산이 7월23일 종가 기준 블룸버그 억만장자지수로 $738B — 5주 만에 최대 $700B가 증발했다. 테슬라·스페이스X 지분가치 동반 조정이 직접 원인으로, 그의 재산 대부분이 두 회사 주가에 묶여 있다는 뜻이기도 하다.",
+      "sourceName": "Bloomberg Billionaires Index",
+      "sourceLabel": "press",
+      "slug": "musk-net-worth-650b-5week-drop-2026-07-24",
+      "summary": "6월12일 스페이스X가 사상 최대 규모로 상장한 뒤 사흘 만인 6월16일, 스페이스X 시가총액은 사상 최고치인 $2.64조까지 치솟았고 머스크의 지분 평가액도 약 $1.45조로 정점을 찍었다.\n\n이후 상황은 반전됐다. 테슬라는 7월22일 발표한 2분기 실적이 AI 투자 확대 여파로 컨센서스를 하회하며 이튿날 주가가 급락했고(다른 카드에서 다룬 공매도 $4B 수익·목표주가 하향 참고), 스페이스X 역시 상장 직후 형성됐던 고평가가 이후 눈높이 조정을 받았다.\n\n그 결과 블룸버그 억만장자지수 기준 머스크의 순자산은 7월23일 종가 기준 $738B로, 정점 대비 $650B~700B가 사라졌다. 다만 연초 대비로는 오히려 +$118B 늘어난 수치이기도 하다 — 이번 하락은 6월 한때 형성됐던 일시적 고점이 꺼진 것에 가깝다.\n\n주주 입장에서 이 수치 자체가 테슬라 펀더멘털을 바꾸진 않지만, 머스크의 부(富)가 테슬라·스페이스X 두 회사 지분에 거의 전부 묶여 있다는 구조를 보여준다 — 그는 테슬라 지분 약 11%를 보유 중이며, 이번 손실도 장부상 평가액일 뿐 지분을 매도한 것은 아니다. 여전히 세계 1위 부호 자리는 2위와 $650B 격차로 유지하고 있다.",
+      "title_en": "Musk's net worth <em>plunges up to $700B</em> in 5 weeks from SpaceX-IPO peak",
+      "hotShort_en": "Musk net worth <em>down as much as $700B</em> in 5 weeks",
+      "body_en": "Musk's paper fortune peaked near $1.45T on June 16, days after SpaceX's record-setting IPO, but had fallen to $738B by the July 23 close per the Bloomberg Billionaires Index — a swing of up to $700B in five weeks. The drop tracks a joint pullback in Tesla and SpaceX valuations, underscoring how concentrated his wealth is in the two companies' shares.",
+      "summary_en": "Three days after SpaceX's record IPO on June 12, the company's market cap hit an all-time high of $2.64T on June 16, and Musk's paper wealth peaked near $1.45T alongside it.\n\nThe reversal came fast. Tesla's Q2 earnings, released July 22, missed consensus as AI spending weighed on margins, and shares tumbled the next day (see the $4B short-seller windfall and analyst price-target cuts covered elsewhere in this briefing). SpaceX's post-IPO valuation has also cooled from its initial highs.\n\nAs a result, the Bloomberg Billionaires Index pegged Musk's net worth at $738B at the July 23 close — down $650B to $700B from the peak. Year-to-date, though, he's still up $118B; the swing looks more like a brief June spike deflating than a new decline.\n\nThe number itself doesn't change Tesla's fundamentals, but it does illustrate how much of Musk's wealth rides on just two stocks — he holds roughly an 11% Tesla stake, and this is a mark-to-market paper loss, not a sale of shares. He remains the world's richest person by a wide margin, about $650B ahead of second place.",
+      "href": "https://www.bloomberg.com/billionaires/profiles/elon-r-musk/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -162,34 +182,7 @@
       ],
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-07-22T20:06:58.000Z",
-      "title": "테슬라 2분기 실적 발표 — 매출 <em>$28.2B 사상 최대</em>, EPS는 컨센서스 하회",
-      "hotShort": "매출 사상 최대인데 <em>EPS는 컨센서스 하회</em>",
-      "body": "테슬라 2분기 매출이 $28.2B(전년比 +26%, 컨센서스 $26.3B 상회)로 사상 최대를 기록했지만, 조정 EPS는 $0.33로 컨센서스($0.50)를 크게 하회 — AI·로보택시 투자 확대가 마진을 눌렀다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
-      "summary": "22일(현지시간) 장 마감 직후 발표된 테슬라 2분기 실적은 전날까지의 관전 포인트—AI·로보택시 지출 속도—를 실적표로 확인시켰다. 매출은 서프라이즈를 냈지만 수익성은 시장 눈높이에 못 미쳐, 프리뷰에서 지적된 '지출 방향' 우려가 마진 압박이라는 형태로 현실화됐다.\n\n수익성 지표는 대부분 예상을 밑돌았다. GAAP 영업이익은 전년比 <em>57% 급감</em>한 $398M(예상 $1.5B), 영업이익률은 <em>1.4%</em>로 쪼그라들었고, 조정 EBITDA도 $3.27B로 시장 예상($4.0B)에 못 미쳤다. 원인은 평균판매가 하락, 규제크레딧 매출 감소, AI·연구개발·주식보상비용 증가가 겹친 결과다. 다만 이번 분기로 최근 12개월(TTM) 매출은 처음으로 $100B를 돌파했다.\n\n현금흐름은 우려보다 양호했다. 자유현금흐름은 <em>-$1.09B</em> 적자를 냈지만, 시장이 걱정했던 -$3.64B보다는 선방했다. CFO 바이바브 타네자는 컨콜에서 올해 capex가 <em>$25B 이상</em>이 될 것이라 재확인했다 — 옵티머스·사이버캡·AI 인프라, 그리고 스페이스X·인텔과 함께 짓는 반도체 공장(TeraFab)까지 포함한 규모다. WSJ는 이번 분기에만 AI·로보택시 인프라에 <em>$5.8B</em>가 집행됐다고 짚었다 — 연간 가이던스의 상당 부분이 벌써 2분기에 소진된 셈이다.\n\n일론 머스크는 컨콜에서 '자동차 사업 너머'를 재차 강조했다. 로보택시는 2분기 중 댈러스·휴스턴에서 무인(운전석 안전요원 없는) 서비스를 새로 열고 마이애미까지 확장했으며, 사이버캡은 오스틴 공도에서 스티어링휠 없는 실차 테스트가 다음 검증 단계로 넘어갔다. FSD 구독자는 <em>56% 증가한 148만명</em>. 옵티머스는 \"1세대 생산라인을 설치 중이며 곧 생산을 시작한다\"면서도, 초기 물량은 고객 인도가 아닌 훈련데이터 수집·기능 개발용이라고 선을 그었다 — 머스크는 \"테슬라가 만든 제품 중 양산 스케일링이 가장 어려운 제품\"이라고 말했다. 머스크는 반도체 공급망도 짚었다 — 마이크론이 \"메모리 가격이 치솟는 상황에서도 합리적 조건으로 상당한 물량을 배정해줬다\"며 감사를 표해, AI 인프라 확장에 필요한 메모리 확보에 문제가 없음을 시사했다.",
-      "title_en": "Tesla Q2 2026 earnings: revenue hits a <em>record $28.2B</em>, EPS misses estimates",
-      "hotShort_en": "Record revenue, but <em>EPS misses consensus</em>",
-      "body_en": "Tesla's Q2 revenue hit a record $28.2B (+26% YoY, beating the $26.3B consensus), but adjusted EPS of $0.33 badly missed the $0.50 estimate — heavier AI and robotaxi spending squeezed margins.",
-      "summary_en": "Tesla's Q2 results, released right after Wednesday's close, confirmed the exact tension flagged in the prior day's preview: how fast — and in which direction — the company is deploying capital. Revenue beat, but profitability fell well short of Wall Street's bar, turning the \"spending pace\" question into a margin problem.\n\nProfitability metrics broadly missed. GAAP operating income fell <em>57% year-over-year</em> to $398M (vs. $1.5B expected), with operating margin compressing to <em>1.4%</em>, while adjusted EBITDA of $3.27B also came in below the $4.0B analysts expected. Tesla pointed to lower average selling prices, reduced regulatory-credit revenue, and higher AI, R&D, and stock-compensation expenses. Trailing-twelve-month revenue topped $100B for the first time.\n\nCash flow was the bright spot. Free cash flow came in at <em>-$1.09B</em>, a burn — but far smaller than the -$3.64B Wall Street had feared. CFO Vaibhav Taneja reaffirmed on the call that full-year capex will exceed <em>$25B</em>, covering Optimus, Cybercab, AI infrastructure, and the TeraFab chip plant being built with SpaceX and Intel. WSJ noted this quarter alone saw <em>$5.8B</em> deployed into AI and robotaxi infrastructure — a large chunk of the full-year guidance already spent by Q2.\n\nElon Musk again framed Tesla as a company looking \"beyond the car business.\" Robotaxi launched unsupervised (no safety driver) rides in Dallas and Houston during the quarter and expanded into Miami, while Cybercab's steering-wheel-less public-road testing in Austin moved into its next validation phase. FSD subscribers grew <em>56% to 1.48 million</em>. Optimus is \"installing first-generation production lines\" and will \"start production soon,\" Musk said, though early units are for training-data collection and feature development — not customer deliveries. He called it \"the hardest product to scale manufacturing we've ever made.\" Musk also addressed the AI hardware supply chain, thanking Micron for a \"very significant\" memory-chip allocation on reasonable terms despite what he called \"pretty insane\" current memory pricing — reassurance that AI-infrastructure buildout won't be memory-supply-constrained.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-22/tesla-second-quarter-earnings-miss-wall-street-s-expectations",
-      "confirmedBy": 6,
-      "confirmingSources": [
-        "Bloomberg",
-        "Reuters",
-        "WSJ",
-        "CNBC"
-      ],
-      "sentiment": "neutral",
-      "hot": 9
     }
   ],
-  "asOf": "2026-07-24 16:08 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-24 18:55 KST 자동 갱신 · 최신순"
 }
