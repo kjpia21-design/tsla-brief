@@ -3,6 +3,26 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-24T20:20:05.000Z",
+      "title": "테슬라 이번주 <em>18% 급락</em> — 2022년 이후 최악의 한 주로 마감",
+      "hotShort": "테슬라 이번주 <em>18% 급락</em> — 2022년 이후 최악",
+      "body": "테슬라 주가가 이번 주 18% 급락해 2022년 이후 최악의 한 주로 마감했다 — 22일 실적 발표 후 낙폭이 좀처럼 진정되지 않으며 24일 종가는 $313.03. 스페이스X도 스타십 시험비행 연기 속 상장 후 최저치로 밀리며, 두 회사 동반 조정이 머스크 재산에도 그대로 반영됐다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "stock-worst-weekly-slump-since-2022-2026-07-24",
+      "summary": "24일(현지시간) CNBC에 따르면 테슬라 주가는 이번 주 5거래일 동안 18% 하락해 2022년 이후 최악의 주간 낙폭을 기록했다. 22일 발표된 2분기 실적이 컨센서스를 하회한 데 이어 낙폭이 주 후반까지 이어진 결과다.\n\n24일 종가는 $313.03로 전일 대비 -2.08%($6.66) 추가 하락했다. 같은 기간 스페이스X 주가도 5거래일간 7.2% 내려 $115.07로 마감했는데, 이는 지난달 사상 최대 규모로 상장한 이후 최저치다. 스페이스X는 날씨·기술적 문제로 스타십 V3 시험비행이 연기된 점도 투자심리에 부담을 줬다.\n\n두 회사 주가 동반 조정으로 일론 머스크의 재산도 한 주 만에 약 $130B 줄어든 것으로 집계됐다 — 다른 카드에서 다룬 5주 누적 최대 $700B 증발과 같은 맥락이다. 머스크는 24일 자신의 X 계정에 \"(Former) trillionaire\"(전직 조만장자)라는 짧은 글을 올려 이 상황을 자조적으로 언급했다.",
+      "title_en": "Tesla stock posts <em>worst week since 2022</em>, down 18%",
+      "hotShort_en": "Tesla's <em>worst week since 2022</em>, down 18%",
+      "body_en": "Tesla shares fell 18% this week — their worst weekly slump since 2022 — as post-earnings selling pressure persisted, closing Friday at $313.03. SpaceX shares also slid to a post-IPO low amid a delayed Starship test flight, and the combined declines wiped roughly $130B off Elon Musk's net worth.",
+      "summary_en": "Tesla stock closed out the week down 18%, its steepest weekly decline since 2022, according to CNBC. The slide extended a selloff that began after Tesla's second-quarter earnings missed consensus on July 22.\n\nShares closed Friday at $313.03, down 2.08% ($6.66) on the day. SpaceX stock fell 7.2% over the same five sessions to $115.07 — its lowest since last month's record-setting IPO — as the company postponed its Starship V3 test flight over weather and technical issues.\n\nThe twin declines cut roughly $130B from Elon Musk's net worth in a single week, adding to the cumulative drop of up to $700B from his mid-June peak covered elsewhere in this briefing. Musk himself posted a wry acknowledgment on X: \"(Former) trillionaire.\"",
+      "href": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+      "sentiment": "bear",
+      "hot": 7
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
       "pubDate": "2026-07-24T15:39:12.000Z",
       "title": "테슬라, 정체불명 <em>$2B AI 하드웨어 인수</em> 조용히 종료",
@@ -51,11 +71,11 @@
       "sourceName": "Reuters",
       "sourceLabel": "sec",
       "slug": "product-nhtsa-door-safety-rulemaking-2026-07-23",
-      "summary": "이 사안은 지난 23일 블룸버그가 보도한 도어 안전규정 제정 착수 소식의 후속이다. 24일(현지시간) 로이터는 NHTSA가 실제로 어떤 결정을 내렸는지 구체적으로 확인했다 — 결함 조사를 요구한 청원은 기각하되, 별도 규정 제정 절차는 그대로 진행한다는 두 갈래 결론이다.\n\n청원인 케빈 클루스는 지난해 11월 2022년형 모델3의 비상 기계식 도어 해제 장치가 눈에 띄지 않고 찾기 어려워 연방자동차안전기준(FMVSS) 206을 위반한다며 결함 조사를 요청했다. 하지만 NHTSA는 올해 3월13일 기준 대상 차량 17만9031대 중 이 문제를 지적한 소비자 불만이 단 1건뿐이었다며, 개별 결함 조사를 열 근거는 부족하다고 판단했다.\n\n다만 NHTSA는 별도로 지난해 11월4일 접수된 규정 제정 청원 — 모든 차량에 '확실하고 명백한' 비상 탈출 시스템을 의무화할 새 연방기준을 만들어달라는 요청 — 은 그대로 받아들여, 지난주 보도된 대로 정식 규정 제정 절차에 착수하기로 했다. 현행 FMVSS 206은 기계식 도어 해제 장치의 라벨링·위치를 별도로 규정하지 않고 있다.\n\n결과적으로 테슬라는 개별 결함 조사라는 단기 리스크는 피했지만, 업계 전반에 적용될 새 도어 설계·표시 기준 제정이라는 더 큰 방향의 규제는 그대로 진행된다. 최종 규칙안(NPRM)이 나오기까지는 시일이 걸리겠지만, 은닉형 전동 손잡이를 쓰는 테슬라가 이번 논의의 중심에 있다는 구도는 달라지지 않았다.",
+      "summary": "이 사안은 지난 23일 블룸버그가 보도한 도어 안전규정 제정 착수 소식의 후속이다. 24일(현지시간) 로이터는 NHTSA가 실제로 어떤 결정을 내렸는지 구체적으로 확인했다 — 결함 조사를 요구한 청원은 기각하되, 별도 규정 제정 절차는 그대로 진행한다는 두 갈래 결론이다.\n\n청원인 케빈 클루스는 지난해 11월 2022년형 모델3의 비상 기계식 도어 해제 장치가 눈에 띄지 않고 찾기 어려워 연방자동차안전기준(FMVSS) 206을 위반한다며 결함 조사를 요청했다. 하지만 NHTSA는 올해 3월13일 기준 대상 차량 17만9031대 중 이 문제를 지적한 소비자 불만이 단 1건뿐이었다며, 개별 결함 조사를 열 근거는 부족하다고 판단했다.\n\n다만 NHTSA는 별도로 지난해 11월4일 접수된 규정 제정 청원 — 모든 차량에 '확실하고 명백한' 비상 탈출 시스템을 의무화할 새 연방기준을 만들어달라는 요청 — 은 그대로 받아들여, 지난주 보도된 대로 정식 규정 제정 절차에 착수하기로 했다. 현행 FMVSS 206은 기계식 도어 해제 장치의 라벨링·위치를 별도로 규정하지 않고 있다.\n\n결과적으로 테슬라는 개별 결함 조사라는 단기 리스크는 피했지만, 업계 전반에 적용될 새 도어 설계·표시 기준 제정이라는 더 큰 방향의 규제는 그대로 진행된다. 최종 규칙안(NPRM)이 나오기까지는 시일이 걸리겠지만, 은닉형 전동 손잡이를 쓰는 테슬라가 이번 논의의 중심에 있다는 구도는 달라지지 않았다.\n\n한편 테슬라라티는 24일, 테슬라가 이미 자체적으로 손잡이 설계를 손보고 있다고 전했다 — 새 설계는 손잡이를 가볍게 당기면 전동 잠금 해제가 작동하고, 같은 손잡이를 더 세게 당기면 기계식 수동 해제로 전환되는 단일 레버 방식이다. 모델3 외 다른 모델에도 순차 적용될 예정이라, 규정 제정과 별개로 실제 설계 개선이 이미 진행 중이라는 뜻이다.",
       "title_en": "NHTSA denies Tesla door-defect probe petition — but <em>door safety rulemaking proceeds</em>",
       "hotShort_en": "NHTSA denies probe, but <em>rulemaking still moves ahead</em>",
       "body_en": "NHTSA denied a petition to open a formal defect investigation into Tesla Model 3's hidden power door releases — citing just one complaint among 179,031 affected vehicles — but confirmed it will proceed as planned with a separate rulemaking to set new emergency-exit design and labeling standards.",
-      "summary_en": "This is a follow-up to Tuesday's news that NHTSA was starting a door-safety rulemaking process. On Friday, Reuters detailed exactly what the agency decided — denying the defect-investigation petition while letting the separate rulemaking proceed.\n\nPetitioner Kevin Clouse asked in November for a defect investigation into the 2022 Model 3, arguing its mechanical emergency door release is hard to see and find, violating Federal Motor Vehicle Safety Standard (FMVSS) 206. But NHTSA said that as of March 13, only one consumer complaint had raised the issue among the 179,031 subject vehicles — too thin a record to justify opening an investigation.\n\nSeparately, though, NHTSA granted a rulemaking petition filed November 4 calling for a new federal standard requiring a 'robust and obvious' emergency-exit system in all vehicles, confirming it will begin the formal rulemaking process reported last week. Current FMVSS 206 doesn't specifically regulate the labeling or placement of mechanical door releases.\n\nNet effect for Tesla: it dodged an individual defect probe in the near term, but the broader, industry-wide push for new door design and labeling standards continues. A final rule (NPRM) is still some way off, but Tesla's hidden power handles remain at the center of the debate.",
+      "summary_en": "This is a follow-up to Tuesday's news that NHTSA was starting a door-safety rulemaking process. On Friday, Reuters detailed exactly what the agency decided — denying the defect-investigation petition while letting the separate rulemaking proceed.\n\nPetitioner Kevin Clouse asked in November for a defect investigation into the 2022 Model 3, arguing its mechanical emergency door release is hard to see and find, violating Federal Motor Vehicle Safety Standard (FMVSS) 206. But NHTSA said that as of March 13, only one consumer complaint had raised the issue among the 179,031 subject vehicles — too thin a record to justify opening an investigation.\n\nSeparately, though, NHTSA granted a rulemaking petition filed November 4 calling for a new federal standard requiring a 'robust and obvious' emergency-exit system in all vehicles, confirming it will begin the formal rulemaking process reported last week. Current FMVSS 206 doesn't specifically regulate the labeling or placement of mechanical door releases.\n\nNet effect for Tesla: it dodged an individual defect probe in the near term, but the broader, industry-wide push for new door design and labeling standards continues. A final rule (NPRM) is still some way off, but Tesla's hidden power handles remain at the center of the debate.\n\nSeparately, Teslarati reported on Friday that Tesla is already redesigning the handles itself — a single latch that triggers the electronic release with a light pull, and doubles as the mechanical manual release when pulled harder. The fix is expected to roll out across other models too, meaning an actual design change is already underway independent of the rulemaking process.",
       "href": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/",
       "confirmedBy": 3,
       "confirmingSources": [
@@ -2336,33 +2356,7 @@
       ],
       "sentiment": "bull",
       "hot": 7
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4m ago",
-      "pubDate": "2026-07-09T17:57:22.000Z",
-      "title": "UBS, 테슬라 목표주가 $364→$442로 <em>21% 상향</em> — 로보틱스·피지컬AI 재평가",
-      "hotShort": "UBS, 테슬라 목표주가 <em>21% 상향</em> $442로",
-      "body": "UBS 애널리스트 조지프 스팩이 테슬라 목표주가를 $364에서 $442로 21% 상향했다 — 차량 판매·마진이 아닌 옵티머스·FSD·도조(Dojo) 등 <em>피지컬AI·로보틱스 장기 가치</em>를 새로 반영한 결과로, 같은 주 로보택시·옵티머스에 신중론을 편 씨티즌스와 정반대 시각이 나왔다.",
-      "sourceName": "FXLeaders",
-      "sourceLabel": "press",
-      "slug": "stock-ubs-price-target-442-robotics-2026-07-09",
-      "summary": "이번 주 테슬라를 둘러싼 월가 시각이 극단으로 갈리고 있다. 앞서 씨티즌스가 로보택시·옵티머스 밸류에이션이 시기상조라며 '마켓퍼폼(중립)'으로 첫 커버리지를 시작한 지 몇 시간 만에, UBS는 정반대로 목표주가를 대폭 끌어올렸다.\n\nUBS 애널리스트 조지프 스팩은 테슬라 목표주가를 기존 $364에서 $442로 21% 상향했다. 그는 차량 판매량·마진 같은 전통적 자동차 지표가 아니라, 옵티머스 휴머노이드 로봇 프로그램과 FSD, 자체 AI 슈퍼컴퓨터 도조(Dojo)의 장기 가치를 새로 반영했다고 밝혔다.\n\n이는 테슬라를 자동차 회사가 아닌 '피지컬AI' 기업으로 재평가하려는 흐름의 연장선이다 — 목표주가 상향은 분기 실적 개선이 아니라 로봇·자율주행 인프라에 대한 장기 밸류에이션 프레임워크 조정에서 비롯됐다는 점이 특징적이다.\n\n이날 테슬라 주가는 장중 1.5%가량 상승하며 UBS 발표에 반응했다(장중 수치로, 종가 기준 아님). 씨티즌스의 신중론과 UBS의 낙관론이 같은 주 나란히 나오면서, 7월22일 2분기 실적 발표를 앞두고 로보택시·옵티머스 로드맵에 대한 월가의 시각차가 더 뚜렷해지고 있다.",
-      "title_en": "UBS lifts Tesla price target <em>21%</em> to $442 from $364 — repricing robotics, physical AI",
-      "hotShort_en": "UBS lifts Tesla PT <em>21%</em> to $442",
-      "body_en": "UBS analyst Joseph Spak raised his Tesla price target from $364 to $442, a 21% increase — crediting long-term value in Optimus, FSD and Dojo rather than near-term vehicle sales or margins, a starkly bullish counterpoint to Citizens' same-week caution on Robotaxi and Optimus valuations.",
-      "summary_en": "Wall Street's view of Tesla split sharply this week. Hours after Citizens initiated coverage at Market Perform, warning Robotaxi and Optimus valuations were running ahead of reality, UBS moved in the opposite direction with a sizable price-target hike.\n\nUBS analyst Joseph Spak lifted his Tesla target from $364 to $442, a 21% increase. He said the move reflects long-term value in the Optimus humanoid robot program, FSD, and Tesla's in-house AI supercomputer Dojo — not traditional auto metrics like vehicle sales or margins.\n\nIt's part of a broader repricing of Tesla as a 'physical AI' company rather than a traditional automaker — notably, the target hike stems from a long-term valuation framework shift around robotics and autonomy infrastructure, not a quarterly earnings beat.\n\nTesla shares rose about 1.5% intraday on the news (an intraday figure, not a closing price). With Citizens' caution and UBS's optimism landing in the same week, the Wall Street divide over Tesla's Robotaxi and Optimus roadmap is sharpening ahead of the July 22 Q2 earnings report.",
-      "href": "https://www.fxleaders.com/news/2026/07/09/tesla-stock-tsla-reclaims-400-on-ubs-upgrade-as-wall-street-bets-on-robotics/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "FXLeaders",
-        "GuruFocus",
-        "MarketScreener"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-25 06:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-25 07:00 KST 자동 갱신 · 최신순"
 }
