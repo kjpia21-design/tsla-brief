@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-24 19:37 UTC · 누적 671건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-24 21:10 UTC · 누적 672건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "stock",
@@ -20,6 +20,26 @@
       "href": "https://electrek.co/2026/07/24/tesla-secret-2-billion-ai-hardware-acquisition-closes/",
       "sentiment": "neutral",
       "hot": 6
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "27m ago",
+      "pubDate": "2026-07-24T14:10:15.000Z",
+      "title": "마이클 버리, 테슬라 공매도 <em>\"청산 안 했다\"</em> — 7월 급락 최대 수혜",
+      "hotShort": "버리, 테슬라 숏 <em>\"청산 안 했다\"</em> 재확인",
+      "body": "'빅쇼트' 마이클 버리가 6월 말 $416선에서 연 테슬라 공매도 포지션을 아직 청산하지 않았다고 재확인 — 실적 발표 후 7월에만 24% 급락하며 그가 동시에 연 5개 공매도 종목 중 테슬라가 최대 수익원이 됐다. 정확한 손익 규모는 공개하지 않았지만, '빅쇼트'급 인지도의 베어가 저가매수 흐름 속에서도 물러서지 않는다는 신호.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "stock-burry-tesla-short-profits-2026-07-24",
+      "summary": "마이클 버리는 지난 6월30일 서브스택을 통해 테슬라·엔비디아·캐터필러·VanEck 반도체 ETF·어플라이드 머티리얼즈 등 5개 종목에 대한 신규 공매도 포지션을 한꺼번에 공개했다. 각 종목이 강한 랠리를 보인 직후였고, 그는 반도체 업황에 대해 \"붐의 종말이 시작됐다\"고 주장하며 베팅 근거를 밝힌 바 있다.\n\n이번 CNBC 보도의 핵심은 그중 테슬라 포지션의 성과다. 테슬라는 22일 장 마감 후 발표한 2분기 실적이 컨센서스를 밑돌면서 다음 거래일 장중 한때 15%까지 급락했고, 7월 한 달 낙폭이 24%로 커졌다 — 버리가 숏을 연 $416.22에서 23일 종가 $319.69까지 밀린 셈이다. CNBC는 이 낙폭이 버리가 동시에 연 5개 공매도 포지션 중 \"지금까지 가장 큰 승자\"라고 짚었다.\n\n버리 본인은 24일 새 서브스택 포스트에서 \"테슬라 공매도를 아직 청산하지 않았다 — 알아서 작아지고 있다\"고 밝혔다. 다만 포지션 규모나 실현·미실현 손익 여부는 이번에도 공개하지 않아, 정확한 수익 규모는 확인되지 않는다.\n\n앞서 블룸버그는 실적 후 급락으로 테슬라 공매도 세력 전체가 약 $4B의 평가이익을 거뒀다고 추산했다(별도 카드 참고) — 버리는 그중에서도 가장 이름값 있는 개별 베어 중 하나로, 같은 날 저가매수에 나선 캐시 우드·ARK 등 강세론자들과 뚜렷이 대비되는 포지션을 유지하고 있다.",
+      "title_en": "'Big Short' investor Michael Burry <em>hasn't covered</em> his Tesla short",
+      "hotShort_en": "Burry says his Tesla short <em>still isn't closed</em>",
+      "body_en": "'Big Short' investor Michael Burry says he still hasn't closed the Tesla short he opened near $416 in late June — with the stock down 24% in July after the earnings miss, it's become the biggest winner among the five short positions he disclosed at once. He hasn't revealed the size of the position or the profit, but the reiteration signals one of Wall Street's best-known bears isn't backing off even as others buy the dip.",
+      "summary_en": "Michael Burry disclosed new short positions in five names at once via Substack on June 30 — Tesla, Nvidia, Caterpillar, the VanEck Semiconductor ETF, and Applied Materials — arguing each had rallied hard and calling it \"the beginning of the end\" for the chip boom.\n\nCNBC's report centers on how the Tesla leg has performed since. Tesla's Q2 results, released after Wednesday's close, missed consensus, and shares plunged as much as 15% intraday the next trading day, extending the stock's July decline to 24% — from Burry's roughly $416.22 entry down to Thursday's $319.69 close. CNBC noted the drop makes Tesla the standout winner among the five shorts he opened together.\n\nIn a new Substack post Friday, Burry wrote that he still hasn't covered his Tesla short, adding \"it gets smaller all on its own.\" He again declined to disclose the position size or whether any gains are realized, so the exact profit remains unknown.\n\nBloomberg had separately estimated that Tesla short sellers broadly pocketed about $4B in paper gains from the post-earnings plunge (see related card). Burry stands out as one of the most recognizable individual bears in that group — holding firm even as bulls like Cathie Wood's ARK bought the dip the same week.",
+      "href": "https://www.cnbc.com/2026/07/24/michael-burrys-short-bets-on-tesla-caterpillar-pay-off-in-big-july-pullback.html",
+      "sentiment": "bear",
+      "hot": 5
     },
     {
       "category": "product",
