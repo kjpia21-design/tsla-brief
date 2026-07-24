@@ -1,10 +1,36 @@
 {
-  "asOf": "2026-07-24 13:56 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-24 15:36 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "40m ago",
+      "time": "39m ago",
+      "pubDate": "2026-07-24T14:57:31.000Z",
+      "title": "Tesla door handle saga gets its latest chapter and a big change is coming",
+      "body": "Tesla’s long-standing saga regarding its door handles and a manual release has entered its latest chapter, and as a result, a big change is coming. On Friday, the National Highway Traffic Safety Administration (NHTSA) de…",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-door-handle-saga-big-change/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-24T13:42:00.000Z",
+      "title": "Cathie Wood’s Ark Bought the Dip in Tesla Stock. No One Else Is.",
+      "body": "Cathie Wood’s Ark Bought the Dip in Tesla Stock. No One Else Is. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-cathie-wood-ark-d81fdb3e"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
       "pubDate": "2026-07-24T13:16:56.000Z",
       "title": "NHTSA denies Tesla door-release defect petition, opens new door rules",
       "body": "NHTSA has denied a petition asking it to open a defect investigation into the hidden manual door releases on the Tesla Model 3. But in the same decision, the agency agreed to start writing new door-safety rules for the e…",
@@ -17,10 +43,36 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "3h ago",
+      "pubDate": "2026-07-24T12:49:00.000Z",
+      "title": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today’s Market",
+      "body": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today’s Market Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/stock-movers-cb742eac"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-24T12:31:06.000Z",
+      "title": "SpaceX shares are fully valued even when taking into account an Elon 'premium,' says HSBC",
+      "body": "SpaceX shares are fully valued even when taking into account an Elon 'premium,' says HSBC CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/24/spacex-shares-are-fully-valued-even-when-taking-into-account-an-elon-premium-says-hsbc.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
       "pubDate": "2026-07-24T12:11:00.000Z",
-      "title": "Tesla Stock Is Paying the Price for Musk’s Lost Magic",
-      "body": "Tesla Stock Is Paying the Price for Musk’s Lost Magic Barron's",
+      "title": "Musk Is Losing His Magic—and Tesla Is Paying the Price",
+      "body": "Musk Is Losing His Magic—and Tesla Is Paying the Price Barron's",
       "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
@@ -30,20 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-24T11:30:00.000Z",
-      "title": "Cathie Wood’s Ark Bought the Dip in Tesla Stock",
-      "body": "Cathie Wood’s Ark Bought the Dip in Tesla Stock Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-cathie-wood-ark-d81fdb3e"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-24T10:57:43.000Z",
       "title": "US auto safety regulator denies petition seeking Tesla door-release defect probe",
       "body": "US auto safety regulator denies petition seeking Tesla door-release defect probe Reuters",
@@ -56,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-24T10:57:43.000Z",
       "title": "US auto safety regulator denies petition seeking Tesla door-release defect probe",
       "body": "US auto safety regulator denies petition seeking Tesla door-release defect probe Reuters",
@@ -69,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-24T10:57:43.000Z",
       "title": "US auto safety regulator denies petition seeking Tesla door-release defect probe",
       "body": "US auto safety regulator denies petition seeking Tesla door-release defect probe Reuters",
@@ -78,63 +117,11 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-24T07:30:00.000Z",
-      "title": "Musk Is Losing His Magic—and Tesla Is Paying the Price",
-      "body": "Musk Is Losing His Magic—and Tesla Is Paying the Price Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/elon-musk-tesla-pays-the-price-478e5dde"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
-      "pubDate": "2026-07-24T07:01:00.000Z",
-      "title": "Under The Hood of Tesla’s $5.8 Billion in Spending",
-      "body": "Under The Hood of Tesla’s $5.8 Billion in Spending WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/podcasts/tech-news-briefing/under-the-hood-of-teslas-58-billion-in-spending/22181845-e837-45b2-bac8-13f2a61c09d1"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
-      "pubDate": "2026-07-24T07:01:00.000Z",
-      "title": "Under The Hood of Tesla’s $5.8 Billion in Spending",
-      "body": "Under The Hood of Tesla’s $5.8 Billion in Spending WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/podcasts/tech-news-briefing/under-the-hood-of-teslas-58-billion-in-spending/22181845-e837-45b2-bac8-13f2a61c09d1"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
-      "pubDate": "2026-07-24T07:01:00.000Z",
-      "title": "Under The Hood of Tesla’s $5.8 Billion in Spending",
-      "body": "Under The Hood of Tesla’s $5.8 Billion in Spending WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/podcasts/tech-news-briefing/under-the-hood-of-teslas-58-billion-in-spending/22181845-e837-45b2-bac8-13f2a61c09d1"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-24T02:00:35.000Z",
       "title": "Tesla, Inc.",
       "body": "Tesla, Inc. AP News",
@@ -147,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-23T23:24:24.000Z",
       "title": "US to Begin Work on New Car Door Safety Rules After Deaths in Teslas",
       "body": "US to Begin Work on New Car Door Safety Rules After Deaths in Teslas Bloomberg.com",
@@ -160,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "15h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-23T23:17:58.000Z",
       "title": "SpaceX Is Turning Away Falcon Customers in Major Bet on Starship",
       "body": "SpaceX Is Turning Away Falcon Customers in Major Bet on Starship Bloomberg.com",
@@ -173,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-23T21:06:52.000Z",
       "title": "Stock Movers: Intel, Tesla, American Airlines",
       "body": "Stock Movers: Intel, Tesla, American Airlines Bloomberg.com",
@@ -186,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-23T21:04:00.000Z",
       "title": "Reality Bites Elon Musk and His Tesla, SpaceX Believers",
       "body": "Reality Bites Elon Musk and His Tesla, SpaceX Believers WSJ",
@@ -199,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-23T20:38:00.000Z",
       "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower",
       "body": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower AP News",
@@ -212,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-23T20:28:30.000Z",
       "title": "Tesla Short Sellers Rake In $4 Billion as Shares Nosedive",
       "body": "Tesla Short Sellers Rake In $4 Billion as Shares Nosedive Bloomberg.com",
@@ -225,7 +212,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-23T19:00:13.000Z",
       "title": "France opposes EU approval of Tesla's FSD driver assistance software for now",
       "body": "France opposes EU approval of Tesla's FSD driver assistance software for now Reuters",
@@ -238,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-07-23T17:43:25.000Z",
       "title": "Tesla's once-bullish tone on robotaxis shifts",
       "body": "Tesla's once-bullish tone on robotaxis shifts Reuters",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/opinion/articles/2026-07-23/tesla-disappoints-on-earnings-and-its-robotaxi-rollout-too"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1d ago",
+      "pubDate": "2026-07-23T09:06:05.000Z",
+      "title": "China Resumes Issuing Robotaxi Licenses After Long Freeze",
+      "body": "China Resumes Issuing Robotaxi Licenses After Long Freeze Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/china-resumes-issuing-robotaxi-licenses-after-months-long-freeze"
     }
   ]
 }
