@@ -403,6 +403,26 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-24T21:06:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "stock-burry-tesla-short-profits-2026-07-24",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for CNBC",
+            "no advisory tone (no buy/sell recommendation, no PT)",
+            "hedge preserved: exact profit/position size explicitly stated as undisclosed, not asserted",
+            "numbers ($416.22 entry, 24% July decline, $319.69 close, June 30 disclosure date, quote) corroborated via cross-source WebSearch (finbold, Yahoo/AOL, Benzinga, Electrek) — direct WebFetch to cnbc.com blocked 403",
+            "href matches verified CNBC article on this exact story",
+            "not X-sourced, meme/satire check N/A"
+          ]
+        }
+      ]
     }
   ]
 }
