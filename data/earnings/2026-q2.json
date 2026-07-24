@@ -143,9 +143,9 @@
   ],
   "marketReaction": {
     "afterHours": "-3%",
-    "nextClose": "",
-    "body": "실적 발표 직후 시간외 거래에서 주가는 약 3% 하락했다. 매출 신기록에도 EPS 대폭 미스, 잉여현금흐름 적자 전환, 사이버캡 플릿 투입 시점 미제시가 부담으로 작용했다.",
-    "body_en": "Shares slipped about 3% in after-hours trading. Despite record revenue, the steep EPS miss, negative free cash flow and the lack of a Cybercab fleet-deployment timeline weighed on the stock."
+    "nextClose": "-14.52%",
+    "body": "실적 발표 직후 시간외 거래에서 주가는 약 3% 하락했다. 매출 신기록에도 EPS 대폭 미스, 잉여현금흐름 적자 전환, 사이버캡 플릿 투입 시점 미제시가 부담으로 작용했다. 다음 날인 7월 23일 주가는 14.52% 급락한 $319.69에 마감했다.",
+    "body_en": "Shares slipped about 3% in after-hours trading. Despite record revenue, the steep EPS miss, negative free cash flow and the lack of a Cybercab fleet-deployment timeline weighed on the stock. The stock closed down 14.52% at $319.69 on July 23."
   },
   "watchPoints": [
     {
@@ -337,7 +337,7 @@
       "href": "https://app.say.com/tesla"
     }
   ],
-  "updatedAt": "2026-07-23T13:04:00+09:00",
+  "updatedAt": "2026-07-24T09:01:00+09:00",
   "analysis": [
     {
       "title": "실적의 질 — 순이익 $1.1B의 절반 이상이 '스페이스X 평가익'",
