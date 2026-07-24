@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-24T13:16:56.000Z",
+      "title": "미 NHTSA, 테슬라 도어 결함 조사는 기각 — <em>새 도어 안전규정 제정은 예정대로</em>",
+      "hotShort": "NHTSA, 결함조사 기각하되 <em>안전규정 제정은 확정</em>",
+      "body": "미 도로교통안전국(NHTSA)이 테슬라 모델3 전동 도어 손잡이의 결함 조사 요청은 대상 차량 17만9031대 중 접수된 컴플레인이 단 1건뿐이라는 이유로 기각했다 — 다만 도어 비상탈출 설계·표시 기준을 새로 만드는 정식 규정 제정 절차는 예정대로 착수한다고 재확인했다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "sec",
+      "slug": "product-nhtsa-door-safety-rulemaking-2026-07-23",
+      "summary": "이 사안은 지난 23일 블룸버그가 보도한 도어 안전규정 제정 착수 소식의 후속이다. 24일(현지시간) 로이터는 NHTSA가 실제로 어떤 결정을 내렸는지 구체적으로 확인했다 — 결함 조사를 요구한 청원은 기각하되, 별도 규정 제정 절차는 그대로 진행한다는 두 갈래 결론이다.\n\n청원인 케빈 클루스는 지난해 11월 2022년형 모델3의 비상 기계식 도어 해제 장치가 눈에 띄지 않고 찾기 어려워 연방자동차안전기준(FMVSS) 206을 위반한다며 결함 조사를 요청했다. 하지만 NHTSA는 올해 3월13일 기준 대상 차량 17만9031대 중 이 문제를 지적한 소비자 불만이 단 1건뿐이었다며, 개별 결함 조사를 열 근거는 부족하다고 판단했다.\n\n다만 NHTSA는 별도로 지난해 11월4일 접수된 규정 제정 청원 — 모든 차량에 '확실하고 명백한' 비상 탈출 시스템을 의무화할 새 연방기준을 만들어달라는 요청 — 은 그대로 받아들여, 지난주 보도된 대로 정식 규정 제정 절차에 착수하기로 했다. 현행 FMVSS 206은 기계식 도어 해제 장치의 라벨링·위치를 별도로 규정하지 않고 있다.\n\n결과적으로 테슬라는 개별 결함 조사라는 단기 리스크는 피했지만, 업계 전반에 적용될 새 도어 설계·표시 기준 제정이라는 더 큰 방향의 규제는 그대로 진행된다. 최종 규칙안(NPRM)이 나오기까지는 시일이 걸리겠지만, 은닉형 전동 손잡이를 쓰는 테슬라가 이번 논의의 중심에 있다는 구도는 달라지지 않았다.",
+      "title_en": "NHTSA denies Tesla door-defect probe petition — but <em>door safety rulemaking proceeds</em>",
+      "hotShort_en": "NHTSA denies probe, but <em>rulemaking still moves ahead</em>",
+      "body_en": "NHTSA denied a petition to open a formal defect investigation into Tesla Model 3's hidden power door releases — citing just one complaint among 179,031 affected vehicles — but confirmed it will proceed as planned with a separate rulemaking to set new emergency-exit design and labeling standards.",
+      "summary_en": "This is a follow-up to Tuesday's news that NHTSA was starting a door-safety rulemaking process. On Friday, Reuters detailed exactly what the agency decided — denying the defect-investigation petition while letting the separate rulemaking proceed.\n\nPetitioner Kevin Clouse asked in November for a defect investigation into the 2022 Model 3, arguing its mechanical emergency door release is hard to see and find, violating Federal Motor Vehicle Safety Standard (FMVSS) 206. But NHTSA said that as of March 13, only one consumer complaint had raised the issue among the 179,031 subject vehicles — too thin a record to justify opening an investigation.\n\nSeparately, though, NHTSA granted a rulemaking petition filed November 4 calling for a new federal standard requiring a 'robust and obvious' emergency-exit system in all vehicles, confirming it will begin the formal rulemaking process reported last week. Current FMVSS 206 doesn't specifically regulate the labeling or placement of mechanical door releases.\n\nNet effect for Tesla: it dodged an individual defect probe in the near term, but the broader, industry-wide push for new door design and labeling standards continues. A final rule (NPRM) is still some way off, but Tesla's hidden power handles remain at the center of the debate.",
+      "href": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "Electrek",
+        "TechCrunch"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "just now",
+      "pubDate": "2026-07-24T11:30:00.000Z",
+      "title": "캐시 우드의 ARK, 테슬라 급락 틈타 <em>$51.2M 저가매수</em>",
+      "hotShort": "ARK, 테슬라 급락에 <em>$51.2M 베팅</em>",
+      "body": "테슬라 주가가 2분기 실적 발표 후 14.5% 급락한 23일, 캐시 우드의 ARK 인베스트가 ARKK·ARKQ·ARKW·ARKX 4개 ETF를 통해 테슬라 주식 16만151주(약 $51.2M)를 사들였다 — 우드 특유의 '역발상 저가매수'가 이번에도 등장했다.",
+      "sourceName": "TipRanks",
+      "sourceLabel": "press",
+      "slug": "stock-ark-buys-tesla-dip-2026-07-24",
+      "summary": "23일 테슬라 주가는 전날 발표된 2분기 실적의 EPS 컨센서스 하회와 capex 부담이 겹치며 종가 기준 14.5% 급락했다 — 최근 1년 새 최대 하락폭이다. 이 급락 당일, 캐시 우드가 이끄는 ARK 인베스트는 정반대 베팅에 나섰다.\n\nARK의 일일 거래 공시에 따르면, ARK는 대표 펀드 ARK 이노베이션(ARKK)을 비롯해 ARK 오토노머스 테크놀로지&로보틱스(ARKQ), ARK 넥스트 제너레이션 인터넷(ARKW), ARK 스페이스&디펜스 이노베이션(ARKX) 등 4개 ETF를 동원해 테슬라 주식 총 16만151주, 약 $51.2M어치를 매수했다. TipRanks는 이를 \"실적 발표 후 급락에 나선 $52M 베팅\"으로 요약했다.\n\n우드는 그간 테슬라 주가가 급락할 때마다 저가매수에 나서는 패턴을 반복해왔다 — 지난 7월2일에도 하루 낙폭 7.49%를 틈타 약 $38.1M어치를 사들인 바 있어, 이번이 올해 들어 두 번째 대규모 매수다. 다만 이는 ARK 펀드들의 포트폴리오 조정일 뿐, 향후 주가 방향을 보장하지는 않는다.\n\n주주 입장에서 이 매수 자체가 펀더멘털을 바꾸진 않지만, 같은 급락으로 공매도 세력이 $4B 수익을 낸 것과 대비되는 반대 베팅이라는 점에서 시장 심리가 완전히 한쪽으로 쏠려 있지는 않다는 신호로 볼 수 있다.",
+      "title_en": "Cathie Wood's Ark buys the <em>$51.2M dip</em> in Tesla after earnings selloff",
+      "hotShort_en": "Ark bets <em>$51.2M</em> on the Tesla dip",
+      "body_en": "As Tesla shares sank 14.5% on Thursday following a Q2 earnings miss, Cathie Wood's Ark Invest bought 160,151 Tesla shares (~$51.2M) across four ETFs — ARKK, ARKQ, ARKW and ARKX — in her signature contrarian buy-the-dip move.",
+      "summary_en": "Tesla shares closed down 14.5% on Thursday — their worst one-day drop in more than a year — after Wednesday's Q2 report missed EPS estimates and flagged heavy capex. On the same day, Cathie Wood's Ark Invest made the opposite bet.\n\nPer Ark's daily trade disclosures, the firm bought a combined 160,151 Tesla shares — worth roughly $51.2M — across four ETFs: the flagship ARK Innovation ETF (ARKK), ARK Autonomous Technology & Robotics ETF (ARKQ), ARK Next Generation Internet ETF (ARKW), and ARK Space & Defense Innovation ETF (ARKX). TipRanks summed it up as a '$52M bet after the post-earnings selloff.'\n\nThis is a familiar pattern for Wood, who has repeatedly bought Tesla dips — including roughly $38.1M on July 2, when shares fell 7.49% in a single day. It's her second large Tesla purchase this year, though it reflects Ark's own portfolio moves rather than a guarantee of where the stock heads next.\n\nThe purchase alone doesn't change Tesla's fundamentals, but set against the same selloff handing short sellers an estimated $4B in paper gains, it's a sign market sentiment isn't entirely one-sided.",
+      "href": "https://www.tipranks.com/news/cathie-wood-makes-52m-tesla-bet-after-post-earnings-selloff",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "TipRanks",
+        "Benzinga"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -39,57 +90,6 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive",
       "sentiment": "bear",
       "hot": 7
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-07-23T17:16:15.000Z",
-      "title": "미 NHTSA, 테슬라 도어 갇힘 사망사고 계기 <em>차량 도어 안전규정 제정 착수</em>",
-      "hotShort": "NHTSA, 테슬라발 <em>도어 안전규정 제정</em> 착수",
-      "body": "미 도로교통안전국(NHTSA)이 사고 후 화재·정전으로 문이 열리지 않아 탑승자가 갇혀 숨진 사례들을 계기로, 비상시 누구나 쉽게 열 수 있는 도어 설계·표시 기준을 신설하는 규정 제정 절차에 착수했다 — 숨겨진 전동식 손잡이를 쓰는 테슬라 차량이 이번 논의의 중심에 있다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "sec",
-      "slug": "product-nhtsa-door-safety-rulemaking-2026-07-23",
-      "summary": "NHTSA 산하 규정제정국(Office of Rulemaking)은 지난해 11월 4일 접수된 청원 — 모든 차량에 '확실하고 명백한(robust and obvious)' 비상 탈출 시스템을 의무화하는 새 연방자동차안전기준(FMVSS)을 제정해달라는 요청 — 을 받아들여, 정식 규정 제정 절차에 착수한다고 밝혔다. 블룸버그는 이 절차가 사고 후 전력이 끊긴 차량에 갇혀 숨진 사례들에 대한 대응이라고 짚었다.\n\n문제의 핵심은 전동식·은닉형 도어 손잡이다. 일부 테슬라 차량은 충돌 후 화재나 배터리 전원 손실이 발생하면 전동 도어 잠금·개폐 장치가 함께 작동을 멈추는데, 이럴 때 써야 하는 기계식 비상 해제 레버가 눈에 잘 띄지 않거나 위치를 직관적으로 찾기 어렵다는 지적이 이어져왔다.\n\n이 문제는 규제당국 움직임 이전부터 정치권 이슈이기도 했다. 미 의회에는 'SAFE Exit Act'라는 별도 법안이 발의돼 있는데, 발의자들은 이 법안이 테슬라 도어 관련 사고로 최소 15명이 숨졌다는 주장을 근거로, 전동식 도어에 성능·표시 기준을 의무화하고 차량마다 찾기 쉬운 수동 해제장치를 두도록 요구하고 있다. 다만 이는 법안 발의자 측 주장이며, 아직 입법이 완료되지는 않았다.\n\nNHTSA의 이번 절차는 아직 정식 규칙안(NPRM) 발표 전 단계로, 확정 규정이 나오기까지는 시일이 걸릴 전망이다. 다만 최종적으로 도어 설계 변경이나 라벨링 의무화로 이어지면 테슬라를 포함한 완성차 업체들에 설계 변경 비용이 발생할 수 있어, 이번 실적 발표 주간 불거진 여러 규제 리스크 중 하나로 주주들이 지켜볼 만하다.",
-      "title_en": "NHTSA opens rulemaking on <em>car door emergency-exit safety</em> after fatal Tesla entrapments",
-      "hotShort_en": "NHTSA starts <em>door safety rulemaking</em> after Tesla deaths",
-      "body_en": "The National Highway Traffic Safety Administration has begun a rulemaking process for new emergency-exit design and labeling standards, after fatal crashes in which occupants were trapped inside vehicles that lost power to their electronic doors — putting Tesla's hidden power door handles at the center of the debate.",
-      "summary_en": "NHTSA's Office of Rulemaking said it granted a petition filed on November 4, 2025 calling for a new Federal Motor Vehicle Safety Standard requiring a 'robust and obvious' emergency-exit system in all vehicles, and will now begin the formal rulemaking process. Bloomberg tied the move to fatal incidents in which people were trapped inside cars that lost electrical power after a crash.\n\nThe core issue is electronic, hidden door handles. In some Tesla vehicles, a crash-related fire or battery power loss can disable the electronic door locks and releases at the same time, and critics say the mechanical backup release meant for exactly that scenario is often hard to spot or unintuitive to use in an emergency.\n\nThe issue was already a political flashpoint before this regulatory step. A separate bill in Congress, the SAFE Exit Act, would require performance and labeling standards for electric doors and mandate an easy-to-find manual release in every vehicle; its sponsors cite at least 15 deaths they attribute to Tesla door-related incidents — a claim from the bill's backers, not yet enacted into law.\n\nNHTSA's process is still a pre-proposal stage, so a final rule remains some way off. But if it eventually mandates design or labeling changes, automakers including Tesla could face compliance costs — one more regulatory risk for shareholders to track alongside the other threads from this week's earnings news.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-23/us-will-strengthen-regulations-for-car-doors-handles-after-tesla-deaths",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Bloomberg",
-        "Seeking Alpha"
-      ],
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-23T17:00:00.000Z",
-      "title": "테슬라 FSD V14 Lite(HW3), <em>와이드 릴리즈 확정</em> — HW4 지능까지 이식",
-      "hotShort": "FSD V14 Lite(HW3) <em>와이드 릴리즈 확정</em>",
-      "body": "테슬라가 구형 하드웨어(HW3) 차량용 FSD V14 Lite의 대규모 배포를 21일부터 시작해 와이드 릴리즈를 사실상 확정했다 — 애초 예고했던 2026.20.6.10 대신 버그 수정판 2026.20.6.11로, HW4 버전의 지능을 이식한 강화학습 개선과 MLIR 컴파일러 재작성으로 반응속도를 20% 끌어올렸다. 완전 무감독 FSD를 지원 못 하는 구형 하드웨어 차주들의 체감 격차를 좁히는 조치로, 향후 FSD 개선 속도를 가늠할 지표다.",
-      "sourceName": "Tesla Oracle",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-lite-hw3-feature-parity-2026-07-20",
-      "summary": "지난 21일 테슬라 AI 총괄 아쇽 엘루스와미가 예고했던 HW3용 FSD V14 Lite의 와이드 릴리즈가 실제로 시작됐다. 당초 2026.20.6.10 버전이 전체 배포될 것으로 알려졌지만, 테슬라는 막판에 버그 수정을 거친 2026.20.6.11을 대신 대량 배포하기 시작했다 — 21일 소수 차량으로 시작해 22일 확대, 23일에는 훨씬 더 큰 물결로 번졌다는 게 테슬라 오라클 등 복수 매체의 보도다.\n\n이번 빌드의 핵심은 HW4용 FSD V14의 '지능'을 HW3에 그대로 증류(distill)해 넣었다는 점이다 — HW3가 HW4 버전을 교사 모델 삼아 학습해, 강화학습(RL) 단계 개선과 오프라인 모델 활용 등의 이득을 동일하게 누릴 수 있게 됐다. 여기에 AI 컴파일러·런타임을 MLIR 기반으로 전면 재작성해 반응속도를 20% 개선했다고 회사 측은 밝혔다.\n\nHW3는 일론 머스크가 앞서 실적콜에서 완전 무감독(unsupervised) FSD를 지원할 수 없다고 못박은 구형 하드웨어다. 이번 와이드 릴리즈는 그 한계를 인정하면서도 신형 HW4와의 체감 격차를 최대한 좁히려는 절충안으로, 구형 차량을 보유한 주주·고객층의 만족도에 직결되는 변화다.\n\n해당 버전은 노트어테슬라앱(Not a Tesla App)의 공식 릴리스노트로도 확인됐으며, 테슬라노스(TeslaNorth) 등도 동일한 배포 확산을 보도해 신뢰도를 뒷받침한다.",
-      "title_en": "Tesla's FSD V14 Lite for HW3 <em>goes wide</em> — with HW4's intelligence distilled in",
-      "hotShort_en": "FSD V14 Lite (HW3) <em>wide release confirmed</em>",
-      "body_en": "Tesla began mass-pushing FSD V14 Lite to HW3 (older hardware) vehicles on July 21, effectively confirming the wide release — not with the originally teased 2026.20.6.10 build, but a quick bug-fix point release, 2026.20.6.11, that distills HW4's intelligence into HW3 and rewrites the AI compiler in MLIR for a 20% faster reaction time. It's a concrete step toward closing the experience gap for owners of hardware that can't run unsupervised FSD — and a read on how fast Tesla can keep iterating.",
-      "summary_en": "The wide release of FSD V14 Lite for HW3 vehicles that Tesla AI chief Ashok Elluswamy signaled on July 21 has now actually begun. The originally teased build, 2026.20.6.10, was expected to go wide, but Tesla instead pushed a bug-fix point release, 2026.20.6.11, in its place — starting with a small batch of cars on July 21, expanding on July 22, and reaching a much larger wave by July 23, according to Tesla Oracle and other outlets.\n\nThe core of this build is that it distills the 'intelligence' of the HW4 version of FSD V14 directly into HW3 — letting HW3 learn using the HW4 model as a teacher, and inherit the same gains from an upgraded reinforcement-learning (RL) training stage and offline-model use. Tesla also says it rewrote the AI compiler and runtime from the ground up on MLIR, delivering a 20% faster reaction time.\n\nHW3 is the older hardware generation that Elon Musk previously said on an earnings call cannot support fully unsupervised FSD. This wide release acknowledges that ceiling while still narrowing the experience gap with newer HW4 as much as possible — a change that matters directly to the satisfaction of shareholders and customers still driving older hardware.\n\nThe version has also been confirmed via Not a Tesla App's official release notes, with TeslaNorth and other outlets reporting the same expanding rollout, backing up the reporting.",
-      "href": "https://www.teslaoracle.com/2026/07/23/tesla-fsd-v14-lite-finally-goes-wide-release-with-software-update-version-2026-20-6-11/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Tesla Oracle",
-        "Not a Tesla App",
-        "TeslaNorth"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     },
     {
       "category": "fsd",
@@ -156,33 +156,7 @@
       "href": "https://www.reuters.com/business/autos-transportation/teslas-once-bullish-tone-robotaxis-shifts-2026-07-23/",
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-23T01:13:00.000Z",
-      "title": "머스크, 실적콜서 테슬라·스페이스X <em>합병 가능성</em> 다시 띄워 — \"사업 중첩 갈수록 커져\"",
-      "hotShort": "머스크 합병 시사에 게르버 <em>\"주주 손해\"</em> 반박",
-      "body": "일론 머스크가 22일 테슬라 2분기 실적콜에서 테슬라·스페이스X 합병 가능성을 부인하지 않고 \"사업 중첩이 갈수록 커지고 있다\"고 말한 뒤, 게르버 카와사키 CEO 로스 게르버는 CNBC에서 \"합병이 없으면 테슬라 주주들이 손해를 보는 쪽\"이라고 주장 — 스페이스X 노출을 원하는 투자자들의 매도 압력을 우려했다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-merger-speculation-2026-07-22",
-      "summary": "22일 실적콜 질의응답에서 테슬라·스페이스X 합병 여부를 묻는 질문에, 머스크는 이를 일축하지 않았다. \"스페이스X와 여러 분야에서 협업이 늘고 있는 걸 보면 알 수 있듯, 사업 중첩이 점점 더 커지고 있다\"고 답하면서도 \"이런 논의는 실적콜에서 할 수 있는 게 아니다 — 적절한 절차를 거쳐야 한다\"고 선을 그었다.\n\n두 회사의 중첩은 이미 구체적이다. 테슬라는 스페이스X의 일부 프로젝트에 배터리와 제조 기술을 공급해왔고, 양사는 AI 반도체를 생산할 반도체 공장 '테라팹(TeraFab)'을 공동으로 짓고 있다.\n\n합병설 자체는 새로운 이야기가 아니다. 투자자·애널리스트 사이에서 오래 거론돼 온 시나리오지만, 스페이스X가 사상 최대 규모($750억)의 IPO를 추진하는 과정에서 논의가 다시 달아올랐다. 찬성 측은 합병이 성사되면 AI·로보틱스·제조·에너지·우주 인프라를 아우르는 머스크의 사업 구조를 단순화하고 통합할 수 있다고 본다.\n\n이 발언은 곧바로 투자자 반응으로 이어졌다. 게르버 카와사키의 로스 게르버 CEO는 CNBC 인터뷰에서 \"합병이 성사되지 않으면 테슬라 주주들이 손해 보는 쪽에 서게 된다\"고 주장했다 — 스페이스X 노출을 원하는 다수의 테슬라 투자자가 기회가 생기면 테슬라 주식을 팔고 스페이스X로 갈아탈 수 있어, 테슬라 주가에 매도 압력으로 작용할 수 있다는 논리다. 다만 이는 스페이스X·테슬라 합병을 오랫동안 주장해 온 게르버 개인의 견해로, 확정된 사실이 아니다.\n\n다만 머스크 본인도 \"정식 절차\"를 언급한 만큼, 현재로선 구체적 일정이나 조건이 나온 단계는 전혀 아니다 — 투자자들은 가능성에 주목하되 확정 소식으로 오인해선 안 된다.",
-      "title_en": "Musk keeps Tesla-SpaceX <em>merger door open</em>, cites growing overlap",
-      "hotShort_en": "Musk revives merger talk; Gerber warns of <em>shareholder downside</em>",
-      "body_en": "Musk didn't rule out a Tesla-SpaceX merger on Tesla's Q2 earnings call, citing \"more and more overlap\" between the two companies — and Gerber Kawasaki CEO Ross Gerber told CNBC that Tesla shareholders are \"holding the short end of the stick\" without one, warning that investors craving SpaceX exposure could pressure Tesla shares.",
-      "summary_en": "Asked on the July 22 earnings call whether Tesla and SpaceX might merge, Musk didn't dismiss it. \"As you can tell from the many collaborations on so many fronts with SpaceX, there's more and more overlap,\" he said, while cautioning that \"it's got to be done with the appropriate process\" and can't be discussed on an earnings call.\n\nThe overlap is already concrete: Tesla supplies batteries and manufacturing technology for some SpaceX projects, and the two companies are jointly building TeraFab, a semiconductor plant meant to produce AI chips.\n\nMerger speculation isn't new — investors and analysts have floated it for years — but discussion intensified as SpaceX pursues a record $75 billion IPO. Proponents argue combining the firms could simplify and unify Musk's sprawling empire across AI, robotics, manufacturing, energy, and space infrastructure.\n\nThe remark drew a quick investor reaction. Ross Gerber, CEO of Gerber Kawasaki, told CNBC that Tesla shareholders are \"holding the short end of the stick\" if a merger doesn't happen — arguing that investors who want SpaceX exposure could sell Tesla shares to get it once the opportunity arises, creating selling pressure on the stock. That's Gerber's own long-standing view, though — a vocal merger proponent — not a confirmed fact.\n\nStill, with Musk himself pointing to a formal process that hasn't started, there's no timeline or terms on the table yet — investors should treat this as speculation revived, not news confirmed.",
-      "href": "https://www.reuters.com/legal/legalindustry/musk-keeps-tesla-spacex-merger-speculation-alive-cites-growing-overlap-2026-07-23/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "Forbes",
-        "CNBC"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-24 18:55 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-24 22:25 KST 자동 갱신 · 최신순"
 }
