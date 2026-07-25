@@ -1,36 +1,23 @@
 {
-  "asOf": "2026-07-25 06:22 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-25 09:54 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-25T04:08:58.000Z",
-      "title": "SpaceX Starship just nailed something it’s never done before",
-      "body": "SpaceX Starship just nailed something it’s never done before Teslarati",
-      "sourceName": "Teslarati",
+      "time": "35m ago",
+      "pubDate": "2026-07-25T09:19:39.000Z",
+      "title": "SpaceX Stock Drop Seen as Investor Verdict on AI",
+      "body": "SpaceX Stock Drop Seen as Investor Verdict on AI Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/spacex-starship-just-nailed-something-its-never-done-before/"
+      "href": "https://www.bloomberg.com/news/newsletters/2026-07-24/spacex-stock-drop-seen-as-a-verdict-on-ai-evening-briefing-americas"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-25T00:52:38.000Z",
-      "title": "On Second Test of Its Newest Starship Design, SpaceX Sticks the Landing",
-      "body": "On Second Test of Its Newest Starship Design, SpaceX Sticks the Landing The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/2026/07/24/science/spacex-starship-13th-test-flight.html"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-25T00:45:00.000Z",
       "title": "Exclusive | Elon Musk’s Boring Company Eyes $20 Billion Valuation in New Funding Round",
       "body": "Exclusive | Elon Musk’s Boring Company Eyes $20 Billion Valuation in New Funding Round WSJ",
@@ -43,21 +30,21 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-25T00:43:00.000Z",
-      "title": "SpaceX Carries Out Successful Starship Test Flight, First Since Going Public",
-      "body": "SpaceX Carries Out Successful Starship Test Flight, First Since Going Public Barron's",
-      "sourceName": "Barron's",
+      "time": "9h ago",
+      "pubDate": "2026-07-25T00:26:00.000Z",
+      "title": "SpaceX Launches Major Starship Test in Post-IPO Spotlight",
+      "body": "SpaceX Launches Major Starship Test in Post-IPO Spotlight Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-carries-out-successful-starship-test-flight-first-since-going-public-0ad98375"
+      "href": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-launches-major-starship-flight-test-in-post-ipo-spotlight"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-25T00:18:00.000Z",
+      "time": "10h ago",
+      "pubDate": "2026-07-25T00:19:25.000Z",
       "title": "SpaceX Launches Another Starship, and This Time the Market Is Watching",
       "body": "SpaceX Launches Another Starship, and This Time the Market Is Watching WSJ",
       "sourceName": "WSJ",
@@ -67,9 +54,22 @@
       "href": "https://www.wsj.com/tech/spacex-launches-another-starship-and-this-time-the-market-is-watching-e76b9d43"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10h ago",
+      "pubDate": "2026-07-24T23:38:39.000Z",
+      "title": "Elon Musk",
+      "body": "Elon Musk CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/elon-musk/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-24T21:21:12.000Z",
       "title": "Stock Movers: Super Micro, Tesla, Tenet Healthcare",
       "body": "Stock Movers: Super Micro, Tesla, Tenet Healthcare Bloomberg.com",
@@ -80,9 +80,9 @@
       "href": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-super-micro-tesla-tenet-healthcare-podcast"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "14h ago",
       "pubDate": "2026-07-24T20:16:00.000Z",
       "title": "Cathie Wood Is Doubling Down on Tesla Again. Why She’s Buying When Everyone Else Is Selling.",
       "body": "Cathie Wood Is Doubling Down on Tesla Again. Why She’s Buying When Everyone Else Is Selling. Barron's",
@@ -95,33 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
-      "pubDate": "2026-07-24T20:16:00.000Z",
-      "title": "Cathie Wood Is Doubling Down on Tesla Again. Why She’s Buying When Everyone Else Is Selling.",
-      "body": "Cathie Wood Is Doubling Down on Tesla Again. Why She’s Buying When Everyone Else Is Selling. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-cathie-wood-ark-d81fdb3e"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
-      "pubDate": "2026-07-24T19:23:00.000Z",
-      "title": "Podcast: TSLA earnings debacle, FSD ticket, Toyota finally waking up? FSGP, more",
-      "body": "Podcast: TSLA earnings debacle, FSD ticket, Toyota finally waking up? FSGP, more Electrek",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/07/24/podcast-tsla-earnings-debacle-fsd-ticket-toyota-finally-waking-up-fsgp-more/?extended-comments"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-24T19:15:14.000Z",
       "title": "Waymo explores split with Uber as robotaxi tensions deepen",
       "body": "Waymo explores split with Uber as robotaxi tensions deepen Financial Times",
@@ -134,7 +108,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "13h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-24T17:28:15.000Z",
       "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
       "body": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer CNBC",
@@ -147,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "13h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-24T17:15:24.000Z",
       "title": "Stocks making the biggest moves midday: American Airlines, Coherent, SLB, Tesla & more",
       "body": "Stocks making the biggest moves midday: American Airlines, Coherent, SLB, Tesla & more CNBC",
@@ -160,7 +134,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "14h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-24T16:32:04.000Z",
       "title": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
       "body": "Buy the dip case for Tesla diminishes due to stagnating fundamentals CNBC",
@@ -173,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-24T16:32:04.000Z",
       "title": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
       "body": "Buy the dip case for Tesla diminishes due to stagnating fundamentals CNBC",
@@ -186,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-24T16:32:04.000Z",
       "title": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
       "body": "Buy the dip case for Tesla diminishes due to stagnating fundamentals CNBC",
@@ -199,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-24T15:21:26.000Z",
       "title": "US agency rejects petition seeking Tesla door-release defect probe",
       "body": "US agency rejects petition seeking Tesla door-release defect probe Reuters",
@@ -212,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-24T15:21:26.000Z",
       "title": "US agency rejects petition seeking Tesla door-release defect probe",
       "body": "US agency rejects petition seeking Tesla door-release defect probe Reuters",
@@ -225,7 +199,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-24T14:10:15.000Z",
       "title": "Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback",
       "body": "Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback CNBC",
@@ -234,6 +208,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/07/24/michael-burrys-short-bets-on-tesla-caterpillar-pay-off-in-big-july-pullback.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "22h ago",
+      "pubDate": "2026-07-24T11:30:08.000Z",
+      "title": "Tesla, Inc.",
+      "body": "Tesla, Inc. AP News",
+      "sourceName": "AP News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://apnews.com/hub/tesla-inc"
     },
     {
       "category": "product",
@@ -251,7 +238,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-07-23T20:38:00.000Z",
       "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower",
       "body": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower AP News",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://apnews.com/article/stocks-markets-iran-trump-ai-inflation-45b9165d6c518f5bea668b6ba7a89838"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-07-23T19:00:13.000Z",
+      "title": "France opposes EU approval of Tesla's FSD driver assistance software for now",
+      "body": "France opposes EU approval of Tesla's FSD driver assistance software for now Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/france-opposes-eu-approval-teslas-fsd-driver-assistance-software-now-2026-07-23/"
     }
   ]
 }
