@@ -499,6 +499,26 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-25T07:05:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-waymo-uber-split-2026-07-24",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — FT scoop corroborated same-day by Bloomberg/CNBC/TechCrunch as reporting, not rumor",
+            "no advisory tone / no price target",
+            "hedge language (검토/exploring) preserved for the overall split; firmer sub-facts (Phoenix ended, Atlanta/Austin exclusivity ending, Jan 2028 own-app launch) independently confirmed as decided/announced, not oversold",
+            "numbers/dates internally consistent; note: existing Atlanta/Austin contract runs through May 2028 while exclusivity/own-app launch is Jan 2028 — card's 'early 2028' phrasing covers the exclusivity piece accurately",
+            "summary content matches FT headline framing and Bloomberg/TechCrunch competition/lobbying angle",
+            "meme/satire check N/A (not X-sourced)"
+          ]
+        }
+      ]
     }
   ]
 }

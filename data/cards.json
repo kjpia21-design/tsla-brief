@@ -28,26 +28,6 @@
       "hot": 6
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-07-25T00:45:00.000Z",
-      "title": "머스크의 <em>Boring Company, $20B 밸류에이션</em> 신규 펀딩 추진 — WSJ",
-      "hotShort": "Boring Company <em>$20B 밸류</em> 펀딩 추진",
-      "body": "WSJ 단독 보도에 따르면 일론 머스크의 터널 굴착 스타트업 Boring Company가 약 $4B 규모 신규 펀딩을 추진 중이며, 성사되면 기업가치가 $20B까지 오를 수 있다 — 지난해 9월 마지막 확인된 밸류에이션 $9.6B의 두 배가 넘는 수준이다. 아직 확정된 계약은 아니지만, 라스베이거스 루프에 테슬라 차량을 투입해 운영해 온 머스크 제국의 또 다른 축이 몸값을 키우고 있다는 신호.",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "musk-boring-company-20b-valuation-2026-07-25",
-      "summary": "Boring Company는 2018년 스페이스X에서 분사한 터널 굴착 스타트업으로, 라스베이거스 컨벤션센터 지하에 만든 '베이거스 루프'가 대표 사업이다 — 승객을 태워 터널을 오가는 차량으로 테슬라 모델을 활용해 왔다.\n\nWSJ에 따르면 Boring Company는 현재 약 $4B 규모의 신규 펀딩 라운드를 논의 중이며, 라운드가 마무리되면 회사 밸류에이션이 최대 $20B에 이를 수 있다. 이는 지난해 9월 마지막으로 확인됐던 $9.6B 밸류에이션의 두 배를 웃도는 수준이다. 다만 정식 계약서(term sheet) 서명 여부는 확인되지 않았고, 최종 밸류에이션·투자자 명단 등 세부 조건은 아직 유동적이다.\n\n이번 소식은 스페이스X가 지난달 사상 최대 규모로 상장한 직후 나왔다는 점에서 눈길을 끈다. 머스크가 이끄는 비상장 계열사들이 잇따라 몸값을 재평가받는 흐름 속에서, 스페이스X의 성공적 상장이 그룹 내 다른 회사들의 자금 조달에도 훈풍으로 작용하는 모양새다.\n\n테슬라 주주에게 이 소식은 직접적인 재무 영향은 없지만, 머스크가 이끄는 여러 회사들의 밸류에이션이 서로 연동되는 흐름 속에서 테슬라·스페이스X 동반 조정을 다룬 다른 카드들과 함께 볼 만한 맥락이다.",
-      "title_en": "Musk's <em>Boring Company eyes $20B valuation</em> in new funding round — WSJ",
-      "hotShort_en": "Boring Co. <em>eyes $20B</em> in new funding",
-      "body_en": "Elon Musk's tunneling startup, the Boring Company, is pursuing a roughly $4B funding round that could value it at up to $20B — more than double its last confirmed valuation of $9.6B from September, WSJ reports exclusively. Nothing is finalized yet, but it's another sign that a Musk-led venture is seeing its valuation rise, this one built around running Tesla vehicles through its Las Vegas tunnel loop.",
-      "summary_en": "The Boring Company, spun off from SpaceX in 2018, is best known for the Vegas Loop — a tunnel system beneath the Las Vegas Convention Center that ferries passengers using Tesla vehicles.\n\nAccording to WSJ, the company is currently in talks for a roughly $4B funding round that, if completed, could value it at up to $20B — more than double the $9.6B valuation last confirmed in September. Whether a term sheet has been signed remains unclear, and details like the final valuation and investor lineup are still fluid.\n\nThe report lands notably soon after SpaceX's record-setting IPO last month. As Musk's private ventures see fresh valuation attention, SpaceX's successful listing appears to be creating tailwinds for fundraising across the rest of his corporate group.\n\nFor Tesla shareholders, this doesn't move Tesla's own financials directly, but it's worth reading alongside other cards in this briefing covering the joint Tesla-SpaceX selloff, given how intertwined the valuations of Musk's companies have become.",
-      "href": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef",
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -66,6 +46,33 @@
       "href": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
       "sentiment": "bear",
       "hot": 7
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "15h ago",
+      "pubDate": "2026-07-24T19:15:14.000Z",
+      "title": "Waymo, Uber와 <em>파트너십 결별 검토</em> — 로보택시 경쟁 격화",
+      "hotShort": "Waymo, Uber와 <em>결별 검토</em> — 로보택시 경쟁 심화",
+      "body": "알파벳 자율주행 자회사 Waymo가 Uber와의 로보택시 제휴를 단계적으로 정리하는 방안을 검토 중이다 — 피닉스에서는 이미 3년 만에 파트너십을 끝냈고, 애틀랜타·오스틴에서도 2028년 초 독점 계약을 종료하기로 했다. 두 회사가 같은 시장에서 직접 경쟁하며 규제 로비에서도 부딪히는 가운데, 테슬라가 노리는 로보택시 시장의 경쟁 구도가 한층 복잡해지는 신호다.",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "fsd-waymo-uber-split-2026-07-24",
+      "summary": "Waymo와 Uber의 협력은 2023년 피닉스에서 시작해 이후 여러 도시로 확대돼 왔다. 그러나 최근 파이낸셜타임스 보도에 따르면 두 회사는 이 제휴를 단계적으로 청산하는 수순을 밟고 있다.\n\n피닉스에서는 3년간 이어온 파트너십이 이미 종료됐고, 애틀랜타·오스틴에서는 2028년 초 독점 계약이 끝난다 — Waymo는 이미 Uber 측에 2028년 1월부터 자체 앱으로 두 도시에서 로보택시 서비스를 시작하겠다고 통보했으며, 기존 Uber 앱을 통한 서비스도 당분간 병행할 계획이다.\n\n관계가 삐걱거리는 배경에는 두 회사가 같은 시장에서 점점 더 직접 경쟁하는 동시에, 각자에게 유리한 로보택시 규제를 만들려 서로 다른 방향으로 로비를 벌이고 있다는 사정이 있다. 서비스 품질·안전 문제를 두고도 서로 책임을 떠넘겨온 것으로 전해진다 — 올해 초 Uber의 프라빈 네팔리 CTO는 Waymo 로보택시의 '위험하고 무서운' 주행 장면이라며 영상을 올렸고, 5월에는 다라 코스로샤히 Uber CEO도 실적콜에서 스쿨존·응급상황 대응과 관련해 Waymo 로보택시 행태를 완곡하게 비판한 바 있다.\n\n테슬라 주주 입장에서 이 사안은 경쟁사 얘기지만, 로보택시 시장의 최대 두 플레이어 간 제휴가 흔들리는 모습은 그만큼 이 시장의 경쟁이 치열해지고 있다는 뜻이기도 하다. 테슬라의 로보택시 사업이 본격 확장을 노리는 시점에, 이런 균열이 시장 재편의 기회가 될지 리스크가 될지는 지켜볼 대목이다.",
+      "title_en": "Waymo <em>weighs split from Uber</em> as robotaxi rivalry deepens",
+      "hotShort_en": "Waymo <em>eyes Uber split</em> as robotaxi rivalry grows",
+      "body_en": "Alphabet's Waymo is reportedly moving to unwind its robotaxi partnership with Uber in stages — the two already ended their three-year Phoenix tie-up, and will end exclusivity in Atlanta and Austin in early 2028. As the two biggest robotaxi players increasingly compete head-on and clash over regulation, it's a sign of how contentious the market Tesla is chasing has become.",
+      "summary_en": "Waymo and Uber's partnership began in Phoenix in 2023 and later expanded to more cities. But according to the Financial Times, the companies are now unwinding that alliance in stages.\n\nThe three-year Phoenix partnership has already ended, and the companies' exclusivity arrangement in Atlanta and Austin will end in early 2028 — Waymo has already told Uber it plans to launch robotaxi service on its own app in both cities starting January 2028, running alongside the existing Uber-app offering for a period.\n\nThe strain stems partly from the companies increasingly competing head-to-head in the same markets while lobbying for robotaxi regulations that favor their own business models, and reportedly blaming each other over service-quality and safety issues. Earlier this year, Uber CTO Praveen Neppalli posted video he described as 'unsafe' and 'scary' Waymo robotaxi behavior, and in May, Uber CEO Dara Khosrowshahi mildly criticized Waymo's robotaxi behavior around school zones and emergency situations on an earnings call.\n\nFor Tesla shareholders, this is a competitor story, but a fraying alliance between the robotaxi market's two biggest players signals just how contested that market is becoming. As Tesla pushes to scale up its own robotaxi business, whether this rift becomes an opening or an added risk is worth watching.",
+      "href": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Financial Times",
+        "Bloomberg",
+        "CNBC",
+        "TechCrunch"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
     },
     {
       "category": "musk",
@@ -179,5 +186,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-07-25 14:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-25 16:05 KST 자동 갱신 · 최신순"
 }

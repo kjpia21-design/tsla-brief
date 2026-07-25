@@ -68,6 +68,33 @@
       "hot": 7
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "15h ago",
+      "pubDate": "2026-07-24T19:15:14.000Z",
+      "title": "Waymo, Uber와 <em>파트너십 결별 검토</em> — 로보택시 경쟁 격화",
+      "hotShort": "Waymo, Uber와 <em>결별 검토</em> — 로보택시 경쟁 심화",
+      "body": "알파벳 자율주행 자회사 Waymo가 Uber와의 로보택시 제휴를 단계적으로 정리하는 방안을 검토 중이다 — 피닉스에서는 이미 3년 만에 파트너십을 끝냈고, 애틀랜타·오스틴에서도 2028년 초 독점 계약을 종료하기로 했다. 두 회사가 같은 시장에서 직접 경쟁하며 규제 로비에서도 부딪히는 가운데, 테슬라가 노리는 로보택시 시장의 경쟁 구도가 한층 복잡해지는 신호다.",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "fsd-waymo-uber-split-2026-07-24",
+      "summary": "Waymo와 Uber의 협력은 2023년 피닉스에서 시작해 이후 여러 도시로 확대돼 왔다. 그러나 최근 파이낸셜타임스 보도에 따르면 두 회사는 이 제휴를 단계적으로 청산하는 수순을 밟고 있다.\n\n피닉스에서는 3년간 이어온 파트너십이 이미 종료됐고, 애틀랜타·오스틴에서는 2028년 초 독점 계약이 끝난다 — Waymo는 이미 Uber 측에 2028년 1월부터 자체 앱으로 두 도시에서 로보택시 서비스를 시작하겠다고 통보했으며, 기존 Uber 앱을 통한 서비스도 당분간 병행할 계획이다.\n\n관계가 삐걱거리는 배경에는 두 회사가 같은 시장에서 점점 더 직접 경쟁하는 동시에, 각자에게 유리한 로보택시 규제를 만들려 서로 다른 방향으로 로비를 벌이고 있다는 사정이 있다. 서비스 품질·안전 문제를 두고도 서로 책임을 떠넘겨온 것으로 전해진다 — 올해 초 Uber의 프라빈 네팔리 CTO는 Waymo 로보택시의 '위험하고 무서운' 주행 장면이라며 영상을 올렸고, 5월에는 다라 코스로샤히 Uber CEO도 실적콜에서 스쿨존·응급상황 대응과 관련해 Waymo 로보택시 행태를 완곡하게 비판한 바 있다.\n\n테슬라 주주 입장에서 이 사안은 경쟁사 얘기지만, 로보택시 시장의 최대 두 플레이어 간 제휴가 흔들리는 모습은 그만큼 이 시장의 경쟁이 치열해지고 있다는 뜻이기도 하다. 테슬라의 로보택시 사업이 본격 확장을 노리는 시점에, 이런 균열이 시장 재편의 기회가 될지 리스크가 될지는 지켜볼 대목이다.",
+      "title_en": "Waymo <em>weighs split from Uber</em> as robotaxi rivalry deepens",
+      "hotShort_en": "Waymo <em>eyes Uber split</em> as robotaxi rivalry grows",
+      "body_en": "Alphabet's Waymo is reportedly moving to unwind its robotaxi partnership with Uber in stages — the two already ended their three-year Phoenix tie-up, and will end exclusivity in Atlanta and Austin in early 2028. As the two biggest robotaxi players increasingly compete head-on and clash over regulation, it's a sign of how contentious the market Tesla is chasing has become.",
+      "summary_en": "Waymo and Uber's partnership began in Phoenix in 2023 and later expanded to more cities. But according to the Financial Times, the companies are now unwinding that alliance in stages.\n\nThe three-year Phoenix partnership has already ended, and the companies' exclusivity arrangement in Atlanta and Austin will end in early 2028 — Waymo has already told Uber it plans to launch robotaxi service on its own app in both cities starting January 2028, running alongside the existing Uber-app offering for a period.\n\nThe strain stems partly from the companies increasingly competing head-to-head in the same markets while lobbying for robotaxi regulations that favor their own business models, and reportedly blaming each other over service-quality and safety issues. Earlier this year, Uber CTO Praveen Neppalli posted video he described as 'unsafe' and 'scary' Waymo robotaxi behavior, and in May, Uber CEO Dara Khosrowshahi mildly criticized Waymo's robotaxi behavior around school zones and emergency situations on an earnings call.\n\nFor Tesla shareholders, this is a competitor story, but a fraying alliance between the robotaxi market's two biggest players signals just how contested that market is becoming. As Tesla pushes to scale up its own robotaxi business, whether this rift becomes an opening or an added risk is worth watching.",
+      "href": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Financial Times",
+        "Bloomberg",
+        "CNBC",
+        "TechCrunch"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "just now",
@@ -2319,32 +2346,7 @@
       ],
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-07-10T11:00:01.000Z",
-      "title": "스페이스X 상장 한 달, 테슬라 주가는 <em>제자리 지켜</em> — 우려했던 '식인' 없었다",
-      "hotShort": "스페이스X 상장 한 달, 테슬라 <em>주가 제자리</em>",
-      "body": "스페이스X가 6월12일 사상 최대 규모로 상장한 지 한 달이 지났지만, 테슬라 주가는 상장 당일 종가 $406.43과 거의 같은 수준을 유지하고 있다 — 스페이스X가 머스크의 투자 관심·자금을 빼앗아 테슬라에 타격을 줄 것이라던 상장 전 우려가 한 달 만에는 현실화하지 않은 모습이다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "stock-spacex-ipo-month-tesla-holding-2026-07-10",
-      "summary": "스페이스X 상장을 앞두고 월가 일각에서는 이 초대형 IPO가 테슬라에 '실존적 위협'이 될 수 있다는 경고가 나왔다 — 머스크의 관심과 자금이 테슬라에서 스페이스X로 옮겨갈 것이라는 우려였다.\n\n한 달이 지난 지금, 결과는 그렇게 명확하지 않다. 테슬라 주가는 스페이스X 상장 당일인 6월12일 $399.49로 출발해 $406.43으로 마감했고, 최근에도 $406.55 수준을 유지하며 큰 변동 없이 버티고 있다.\n\n스페이스X 주가 자체도 상장 초반 급등했다가 빠르게 되밀렸다 — $135 공모가에서 첫 거래 $150으로 출발한 뒤 한때 $150 아래로 밀렸고, 최근 종가는 $152.16 수준이다. 요란했던 관심에 비해 실제 주가 흐름은 비교적 잠잠했다는 평가다.\n\n테슬라 주주 입장에서는 상장 전 우려됐던 '스페이스X가 테슬라 투자자금을 빨아들인다'는 시나리오가 적어도 한 달 시점까지는 뚜렷하게 나타나지 않았다는 점이 안도 요인이지만, 두 종목 모두 아직 단기 데이터인 만큼 장기 추세는 더 지켜봐야 한다.",
-      "title_en": "A month after SpaceX's IPO, Tesla stock is <em>holding its ground</em>",
-      "hotShort_en": "Tesla stock <em>holds steady</em> a month after SpaceX IPO",
-      "body_en": "A month after SpaceX's record-breaking June 12 IPO, Tesla shares are trading close to that day's $406.43 close — the pre-IPO fear that SpaceX would drain Musk's attention and capital away from Tesla hasn't clearly played out one month in.",
-      "summary_en": "Ahead of SpaceX's IPO, some on Wall Street warned the mega-offering could pose an 'existential threat' to Tesla — the concern being that Musk's attention and capital would shift from Tesla toward SpaceX.\n\nA month later, the picture isn't so clear-cut. Tesla opened at $399.49 on June 12, the day of SpaceX's IPO, closed that day at $406.43, and has recently been trading around $406.55 — holding steady with little drama.\n\nSpaceX's own stock spiked early and quickly cooled. It priced at $135 and opened trading at $150, later dipping below that level before settling around $152.16 in recent trading — a relatively quiet outcome given all the attention around the deal.\n\nFor Tesla shareholders, the reassuring takeaway is that the feared scenario — SpaceX siphoning investor capital away from Tesla — hasn't clearly materialized one month in, though both stocks still have a short track record and the longer-term trend remains to be seen.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Bloomberg",
-        "The Edge Malaysia"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-25 14:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-25 16:05 KST 자동 갱신 · 최신순"
 }
