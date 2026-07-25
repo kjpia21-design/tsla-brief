@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-25T15:59:34.000Z",
+      "title": "머스크, 모델S·모델X <em>디자인·소프트웨어 오픈소스화</em> 예고 — 로드스터 전례엔 회의론",
+      "hotShort": "머스크, 모델S·X <em>오픈소스화</em> 예고 — 회의론도",
+      "body": "일론 머스크가 모델S·모델X의 디자인과 소프트웨어를 오픈소스로 공개하겠다고 예고했다 — 2023년 오리지널 로드스터 때와 같은 방식이다. 다만 공개 범위·시점·라이선스를 구체화하지 않아, 당시 로드스터 공개가 실제로는 파일 몇 개에 그쳤던 전례를 근거로 회의적 시각도 나온다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-open-source-model-s-x-design-2026-07-25",
+      "summary": "테슬라 CEO 일론 머스크가 모델S와 모델X의 디자인·소프트웨어를 오픈소스로 전환하겠다고 밝혔다. 2023년 11월 오리지널 로드스터의 설계·엔지니어링 자료를 \"완전히 오픈소스화\"했다고 선언했던 것과 같은 방식을 이번에도 예고한 것이다.\n\n그러나 Electrek은 이번 발표가 \"릴리스가 아니라 의도 표명\"에 불과하다고 지적했다. 공개 시점·범위·적용 라이선스 가운데 어느 것도 구체적으로 밝혀지지 않았다는 것이다.\n\n회의론의 근거는 2023년 로드스터 사례다. 당시 \"완전 오픈소스\" 선언과 달리 실제 공개된 자료는 깃허브에 올라온 파일 8개(로드스터 1.5·2.0 ESS·PEM 버스 관련 CAN 데이터베이스 파일 5개, 총 용량 약 339KB, 309MB 진단 소프트웨어 ISO, PDF 가이드 2개)와 로그인 뒤에 감춰진 문서 패키지 5종이 전부였다. 깃허브 README에는 \"로드스터 연구개발 공개 문서 조건에 따라 배포\"라고만 적혀 있을 뿐 복제·수정·재배포를 허용하는 문구는 없었다 — 오픈소스 정의(Open Source Definition) 기준을 충족하지 못한다는 지적이 나온 이유다.\n\n모델S·모델X 오너 입장에서는 진단 도구·기술 문서 접근이 넓어지면 독립 수리·개조가 쉬워질 수 있다는 기대가 있지만, 실제 공개 범위가 로드스터 때처럼 제한적일지, 이번엔 진짜 오픈소스 라이선스가 붙을지는 지켜봐야 한다.",
+      "title_en": "Musk says Tesla will <em>open-source Model S & X design and software</em> — but Roadster precedent breeds skepticism",
+      "hotShort_en": "Musk vows <em>Model S/X open-source</em> release",
+      "body_en": "Elon Musk said Tesla plans to open-source the Model S and Model X design and software, echoing its 2023 claim to have fully open-sourced the original Roadster — but the announcement is a statement of intent with no timeline, scope, or license specified yet.",
+      "summary_en": "Tesla CEO Elon Musk said the company will make the Model S and Model X's design and software open-source, following the same playbook it used in November 2023 when it declared the original Roadster's design and engineering \"fully open source.\"\n\nElectrek noted the new announcement is \"a statement of intent, not a release\" — Musk gave no timeline, no defined scope, and no clarity on what license, if any, would apply.\n\nSkepticism stems from how the Roadster release actually played out. Despite the \"fully open source\" framing, what Tesla published amounted to eight files on GitHub — five CAN database files (about 339 KB total) covering the Roadster's ESS and PEM buses, a 309 MB diagnostic-software ISO, and two PDF quick guides — plus five additional document packages locked behind a login. The GitHub README says the materials are released under Tesla's own \"Disclosed Research and Development Documents\" terms, without granting rights to copy, modify, or redistribute — falling short of the Open Source Definition.\n\nFor Model S and Model X owners, wider access to diagnostic tools and technical documentation could make independent repairs easier — but whether this release proves more substantive than the Roadster's, or carries an actual open-source license, remains to be seen.",
+      "href": "https://electrek.co/2026/07/24/tesla-open-source-model-s-x-roadster-release-audit/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Teslarati"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "5m ago",
@@ -2321,33 +2346,7 @@
       "href": "https://cnevpost.com/2026/07/10/tesla-files-new-model-y-variant-china/",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-10T14:01:00.000Z",
-      "title": "일론 머스크 \"스페이스X, <em>목표 달성 시 지구 전체보다 가치있을 것</em>\"",
-      "hotShort": "머스크 \"스페이스X, <em>지구보다 가치있을 것</em>\"",
-      "body": "일론 머스크가 X에서 \"우리 목표를 달성하면 스페이스X는 <em>지구의 나머지 전체보다 가치있게 될 것</em>\"이라고 밝혔다 — 궤도 제조·소행성 채굴·화성 식민지 등 지구 밖 경제권 구상을 전제로 한 발언으로, 스페이스X 상장 한 달 만에 밸류에이션 논쟁에 다시 불을 붙였다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-worth-more-than-earth-2026-07-10",
-      "summary": "일론 머스크가 스페이스X의 장기 가치에 대해 그동안 나온 어떤 발언보다 과감한 주장을 내놨다.\n\n머스크는 X에 \"우리가 목표를 달성한다면 스페이스X는 지구의 나머지 전체를 합친 것보다 가치있어질 것\"이라고 적었다. 이 발언은 앤트로픽과 스페이스X-xAI 간 컴퓨팅 자원 거래(보도에 따르면 75억~400억 달러 규모)를 둘러싼 온라인 논쟁 도중 나왔다.\n\n머스크의 주장은 스페이스X가 단순한 로켓·위성 기업을 넘어, 궤도 제조·소행성 채굴·화성 식민지 건설까지 아우르는 다행성 경제의 설계자가 되는 시나리오를 전제로 한다 — 다시 말해 아직 존재하지 않는 시장, 고객, 통화, 규제기관을 상정한 장기 비전이다.\n\n스페이스X는 6월12일 주당 $135로 상장해 860억 달러를 조달하며 사상 최대 IPO를 기록했고 상장 첫날 시가총액 약 2.1조 달러를 찍었다. 테슬라 주주 입장에서는 머스크가 스페이스X의 밸류에이션 상단을 이렇게까지 밀어붙이는 발언이, 테슬라·스페이스X 합병설이 계속 도는 상황에서 협상 기준점을 둘러싼 불확실성을 한층 키우는 요인으로 볼 수 있다.",
-      "title_en": "Elon Musk: SpaceX will be <em>worth more than the rest of Earth</em> if goals are met",
-      "hotShort_en": "Musk: SpaceX could be <em>worth more than Earth</em>",
-      "body_en": "Elon Musk wrote on X that \"SpaceX will be worth more than the rest of Earth\" if the company achieves its goals — a claim built on visions of orbital manufacturing, asteroid mining, and Mars colonies, reigniting valuation debate just a month after SpaceX's IPO.",
-      "summary_en": "Elon Musk made his boldest claim yet about SpaceX's long-term value.\n\nHe wrote on X that \"SpaceX will be worth more than the rest of Earth\" if the company accomplishes its goals. The comment came amid online debate over a reported $7.5 billion to $40 billion compute deal between Anthropic and SpaceX-xAI.\n\nMusk's claim rests on SpaceX evolving beyond rockets and satellites into the architect of a multiplanetary economy — orbital manufacturing, asteroid mining, and Mars colonies — markets, customers, currencies, and regulators that don't exist yet.\n\nSpaceX priced its IPO at $135 a share on June 12, raising $86 billion in the largest IPO ever and hitting roughly $2.1 trillion in market value on its debut trading day. For Tesla shareholders, Musk pushing SpaceX's valuation ceiling this aggressively adds another layer of uncertainty to the reference point for any Tesla-SpaceX merger talks, which continue to circulate.",
-      "href": "https://www.barrons.com/articles/elon-musk-spacex-stock-worth-more-earth-cebedeeb",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Barron's",
-        "Futurism",
-        "TheStreet"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-26 02:09 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-26 01:15 KST 자동 갱신 · 최신순"
 }

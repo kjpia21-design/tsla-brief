@@ -554,6 +554,28 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-25T16:20:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "product-open-source-model-s-x-design-2026-07-25",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for Electrek (analysis of Musk's statement, not a 1st-party Tesla/SEC filing)",
+            "no advisory tone, no price target",
+            "no hedge-to-assertion drift — Electrek's own framing ('statement of intent, not a release', no timeline/scope/license) preserved verbatim in card rather than oversold as a confirmed release",
+            "Roadster-precedent numbers (8 GitHub files, 5 CAN .dbc files ~339KB, 309MB diagnostic ISO, 2 PDF guides, 5 login-walled doc packages, no open-source license granted) sourced from WebSearch synthesis of the Electrek article — direct WebFetch to electrek.co and teslarati.com both returned 403, relied on fail-open WebSearch cross-check; figures were internally consistent and independently corroborated by basenor's coverage of the same Model S/X announcement",
+            "href matches the exact Electrek article covering this story",
+            "confirmedBy=2 (Electrek, Teslarati) appropriate — both independently published on the same Musk statement",
+            "not X-sourced directly (Musk's original post not linked as href), so satire/meme gate N/A; underlying claim is a real, multiply-reported statement, not a joke",
+            "deliberately omitted from card: unverified claim (surfaced only in WebSearch AI overlay, not attributed to any named outlet) that Model S/X production wound down in Q2 2026 — this pattern matches known blocklist entries for fabricated Model S/X discontinuation stories, so excluded per when-in-doubt-drop principle"
+          ]
+        }
+      ]
     }
   ]
 }
