@@ -54,6 +54,26 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "13h ago",
+      "pubDate": "2026-07-25T08:00:00.000Z",
+      "title": "포춘 \"스페이스X, 테슬라 인수 <em>최적기 이미 지났다</em>\"",
+      "hotShort": "포춘 \"스페이스X, 테슬라 인수 <em>적기 놓쳤다</em>\"",
+      "body": "포춘 분석에 따르면 스페이스X 시총이 정점이던 7월16일($2.8T, 테슬라 $1.6T)엔 신주 57% 발행으로 테슬라를 인수할 수 있었지만, 두 회사 주가가 함께 급락한 7월24일 기준으론 필요 지분율이 82%로 치솟았다 — 22일 실적콜에서 머스크가 합병 가능성을 부인하지 않은 지 사흘 만에, 정작 셈법은 스페이스X 주주에 크게 불리해진 셈이다.",
+      "sourceName": "Fortune",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-missed-merger-window-2026-07-25",
+      "summary": "테슬라와 스페이스X의 합병설은 22일 2분기 실적콜에서 다시 불붙었다. 한 애널리스트가 스페이스X의 테슬라 인수 계획을 묻자 머스크는 \"실적콜에서 회사 합병 같은 얘기를 할 수는 없다 — 적절한 절차를 거쳐야 한다\"며 즉답을 피했지만, 가능성 자체를 부인하지도 않았다.\n\n포춘은 이 발언 직후 두 회사의 주가 흐름을 근거로, 오히려 인수 '적기'는 이미 지나갔을 수 있다고 분석했다. 스페이스X 주가가 정점을 찍은 7월16일 기준 시가총액은 $2.8T로 테슬라($1.6T)의 1.75배 수준이었다 — 이 시점이라면 스페이스X가 신주 57%만 발행해도 전량 주식교환 방식으로 테슬라를 인수할 수 있었다는 계산이다.\n\n그러나 7월24일 오후 기준 스페이스X 시총은 $1.49T까지 밀린 반면 테슬라는 $1.22T로 상대적으로 덜 빠지면서, 같은 방식의 인수에 필요한 신주 발행 비율은 82%로 급등했다. 스페이스X 주주 입장에서는 지분 희석 부담이 그만큼 커진 셈이다.\n\n두 회사 주가가 이번 주 동반 조정을 받은 배경은 다른 카드에서 다룬 대로다 — 테슬라는 2분기 실적 발표 후 주간 18% 급락, 스페이스X도 스타십 시험 연기 속 상장 후 최저치로 밀렸다. 합병 논의가 실제로 진전될지는 불확실하지만, 적어도 현재의 주가 수준에서는 스페이스X 주주에게 셈법이 불리해졌다는 것이 포춘의 지적이다.",
+      "title_en": "Fortune: SpaceX may have <em>missed its window</em> to buy Tesla",
+      "hotShort_en": "Fortune: SpaceX <em>missed its window</em> for Tesla",
+      "body_en": "Fortune's analysis shows SpaceX could have acquired Tesla by issuing just 57% new shares when its market cap peaked at $2.8T on July 16 (vs. Tesla's $1.6T) — but after both stocks sold off through July 24 (SpaceX $1.49T, Tesla $1.22T), the same all-stock deal would now require issuing 82% of SpaceX's shares, a far more dilutive ratio for SpaceX shareholders.",
+      "summary_en": "Merger speculation between Tesla and SpaceX reignited on the July 22 Q2 earnings call, when an analyst asked whether SpaceX planned to buy Tesla. Musk deflected — \"We can't talk about combining companies and things like that on an earnings call. It's got to be done with the appropriate process\" — without ruling it out.\n\nFortune's analysis, published days later, argues the ideal window for such a deal may have already closed. When SpaceX shares peaked on July 16, its market cap hit $2.8T, roughly 1.75 times Tesla's $1.6T — a ratio that would have let SpaceX acquire Tesla in an all-stock deal by issuing just 57% new shares.\n\nBy the afternoon of July 24, though, SpaceX's market cap had fallen to $1.49T while Tesla held up relatively better at $1.22T, pushing the share issuance needed for the same deal up to 82% — a far more dilutive outcome for SpaceX shareholders.\n\nThe pullback in both stocks this week is covered elsewhere in this briefing: Tesla fell 18% for the week after its Q2 report, and SpaceX slid to a post-IPO low amid a delayed Starship test. Whether a merger actually advances remains unclear, but Fortune's math suggests the terms have swung against SpaceX shareholders at current prices.",
+      "href": "https://fortune.com/2026/07/25/spacex-tesla-stock-price-merger-window-elon-musk/",
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "4h ago",
       "pubDate": "2026-07-25T00:52:38.000Z",
       "title": "스페이스X 스타십 13차 시험비행 — 신형 V3 <em>2차 시험서 첫 완전 착수</em>",
@@ -727,6 +747,32 @@
         "Teslarati",
         "Electrek"
       ]
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4d ago",
+      "pubDate": "2026-07-21T15:39:35.000Z",
+      "title": "테슬라 2026 <em>서머 업데이트</em> 공개 — Grok 차량 명령·선호 경로·랩 앱 적용",
+      "hotShort": "테슬라 서머 업데이트 — <em>Grok 차량 명령</em> 확대",
+      "body": "테슬라가 2026 서머 업데이트(2026.26 추정)를 공개했다 — Grok이 전화 걸기·음악 검색·공조 조절·글로브박스 개방까지 차량을 직접 제어하고 유럽 전역에 확대되며, 내비게이션은 자주 가는 곳·선호 경로를 학습하고, 앱에서 휴대폰 갤러리 이미지를 그대로 차량 커스텀 랩으로 씌울 수 있게 됐다. 무료 OTA로 기존 차량에도 적용되는 소프트웨어 강화라, 신차 없이도 사용자 경험을 계속 끌어올리는 테슬라 특유의 전략을 재확인시킨다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-summer-update-grok-vehicle-commands-2026-07-21",
+      "summary": "7월21일 테슬라가 공식 X 계정을 통해 2026 서머 업데이트(버전 2026.26 추정)의 릴리스 노트를 공개했다고 Electrek·Teslarati 등이 보도했다.\n\n핵심은 차량 내 AI 비서 Grok의 기능 확장이다. 전화 걸기, 음악 검색·재생, 공조(에어컨·히터) 조절, 글로브박스 개방까지 음성 명령으로 처리할 수 있게 됐고, Grok 서비스 자체가 유럽 전역으로 넓어진다.\n\n내비게이션도 개인화된다 — 집·직장·캘린더 일정뿐 아니라 학교·헬스장처럼 자주 가는 곳을 학습해 제안하고, 운전자가 과거에 선택했던 경로를 우선 안내하는 '선호 경로' 기능이 추가됐다.\n\n이 밖에 테슬라 앱의 '크리에이션' 탭에서 휴대폰 갤러리 이미지를 골라 차량 커스텀 랩으로 입힐 수 있는 기능, 모바일 앱에서 자율주행 통계를 확인·공유하는 기능, 주차 상태에서 노래를 부르면 점수가 매겨지는 '카라오케' 기능도 추가됐다.\n\n이번 업데이트는 신차 출시 없이 무료 OTA만으로 기존 차량 전반의 사용자 경험을 끌어올리는 테슬라 특유의 전략을 다시 보여준다. 로보택시·실적 이슈로 시끄러운 한 주였지만, 소프트웨어 쪽에서는 꾸준한 기능 확장이 이어지고 있다는 신호다.",
+      "title_en": "Tesla unveils <em>2026 Summer Update</em> — Grok vehicle commands, preferred routes, app-based wraps",
+      "hotShort_en": "Tesla's Summer Update expands <em>Grok vehicle control</em>",
+      "body_en": "Tesla rolled out its 2026 Summer Update (version 2026.26), letting Grok make phone calls, search music, adjust climate, and open the glovebox by voice while expanding Grok across all of Europe. Navigation now learns preferred routes and frequent stops, and the Tesla app can apply custom wraps to a vehicle from a photo picked out of the phone's gallery — a free OTA update that keeps extending the experience on cars already on the road, without a new model launch.",
+      "summary_en": "Tesla published release notes for its 2026 Summer Update (version 2026.26) via its official X account on July 21, according to Electrek, Teslarati, and other outlets.\n\nThe centerpiece is an expanded Grok in-car assistant: voice commands can now place phone calls, search and play music, adjust climate control, and open the glovebox, and the Grok service itself is now available across all of Europe.\n\nNavigation gets more personalized too — beyond Home, Work, and calendar events, it now learns frequently visited spots like school or the gym, and a new 'preferred routes' feature prioritizes paths the driver has taken before.\n\nThe update also adds a new \"Creations\" tab in the Tesla app that lets owners apply a custom wrap to their vehicle using a photo picked from their phone's gallery, in-app viewing and sharing of self-driving stats, and a 'Caraoke' feature that scores singing while parked.\n\nWith no new vehicle involved, the release is another example of Tesla using free over-the-air updates to keep improving the ownership experience for cars already on the road — a steady drumbeat of software progress even in a week dominated by robotaxi and earnings headlines.",
+      "href": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Teslarati",
+        "TeslaNorth"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
     },
     {
       "category": "product",
@@ -2301,52 +2347,7 @@
       ],
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-10T15:50:44.000Z",
-      "title": "뉴스트리트리서치 애널리스트 \"테슬라 FSD, <em>아이폰 모먼트</em> 임박\" — \"2개 분기만 더 지켜봐달라\"",
-      "hotShort": "애널리스트 \"FSD, <em>아이폰 모먼트</em> 임박\"",
-      "body": "뉴스트리트리서치의 피에르 페라구 애널리스트가 테슬라 FSD가 <em>'아이폰 모먼트'</em>를 앞두고 있다고 평가했다 — \"테슬라는 아이폰이 단순한 전화기가 아니었듯 단순한 자동차가 아니다\"라며, 앞으로 2개 분기 안에 시장의 인식이 바뀔 변곡점이 올 것으로 봤다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "stock-fsd-iphone-moment-ferragu-2026-07-10",
-      "summary": "이번 주 월가에서는 테슬라 밸류에이션을 둘러싼 신중론(씨티즌스·배런스 등)과 낙관론(UBS 목표주가 상향)이 동시에 쏟아졌는데, 뉴스트리트리서치의 피에르 페라구 애널리스트는 FSD를 근거로 한 낙관론에 무게를 실었다.\n\n페라구는 \"테슬라는 아이폰이 단순한 전화기가 아니었던 것처럼 단순한 자동차가 아니다\"라며, 아이폰 초창기 높은 가격표가 '전화기치고 비싸다'는 인식에서 시작해 결국 '전화기 그 이상'이라는 재평가로 이어졌던 과정에 테슬라 FSD를 비유했다.\n\n그는 테슬라가 변곡점(inflection point)에 다가서고 있다고 보면서도, \"앞으로 2개 분기만 더 지켜봐 달라\"며 구체적으로 어떤 변화가 일어날지는 밝히지 않았다 — 그 기간이 지나면 방향성이 더 뚜렷해질 것이라는 취지다.\n\n페라구는 오랫동안 테슬라를 커버해온 애널리스트로, 7월22일 2분기 실적 발표를 앞두고 로보택시·옵티머스 확장에 신중한 시각을 보인 씨티즌스·배런스와 달리 FSD의 장기 잠재력에 무게를 싣는 대조적인 시각을 내놓은 셈이다.",
-      "title_en": "New Street Research analyst says Tesla FSD is nearing its <em>iPhone moment</em> — \"give us two more quarters\"",
-      "hotShort_en": "Analyst: Tesla FSD nearing its <em>iPhone moment</em>",
-      "body_en": "New Street Research analyst Pierre Ferragu says Tesla's FSD is approaching an <em>'iPhone moment'</em> — \"a Tesla is not a car, the same way an iPhone was not a phone,\" he said, expecting market perception to shift within the next two quarters.",
-      "summary_en": "Wall Street's Tesla debate split this week between caution (Citizens, Barron's) and optimism (UBS's price-target hike), and New Street Research's Pierre Ferragu weighed in on the bullish side, grounding his case in FSD.\n\nFerragu argued \"a Tesla is not a car, the same way an iPhone was not a phone,\" comparing FSD to the iPhone's early days, when its high price tag seemed steep for 'just a phone' before the market realized it was something more.\n\nHe said Tesla is nearing an inflection point but didn't specify what exactly would change, only asking investors to \"give us two more quarters\" to see where things are heading.\n\nA longtime Tesla-covering analyst, Ferragu's framing stands in contrast to Citizens and Barron's caution on Robotaxi and Optimus valuations this same week, putting his weight instead behind FSD's long-term potential ahead of the July 22 Q2 earnings report.",
-      "href": "https://www.teslarati.com/tesla-analyst-full-self-driving-iphone-moment/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Yahoo Finance"
-      ],
-      "sentiment": "bull",
-      "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "26m ago",
-      "pubDate": "2026-07-10T14:15:08.000Z",
-      "title": "테슬라, 중국서 <em>모델Y 퍼포먼스</em> 사양 재신고 — 최고속 250km/h",
-      "hotShort": "테슬라, 중국 모델Y <em>퍼포먼스 사양</em> 재신고",
-      "body": "테슬라가 중국 공업정보화부(MIIT) 최신 차량 신고 목록에 상하이산 <em>모델Y 퍼포먼스</em>로 추정되는 사양을 올렸다 — 최고속 250km/h로 현재 판매 중인 모델Y 4종(최고 201km/h)보다 월등히 빨라, 마진 높은 고성능 트림을 앞세워 중국 시장 대응에 나선 신호로 풀이된다.",
-      "sourceName": "CnEVPost",
-      "sourceLabel": "press",
-      "slug": "product-model-y-performance-china-filing-2026-07-10",
-      "summary": "중국 공업정보화부(MIIT)가 7월10일(현지시간) 공개한 최신 차량 신고 카탈로그에 테슬라의 신규 모델Y 사양이 이름을 올렸다. 사양상 특징을 볼 때 업계는 이를 '모델Y 퍼포먼스'로 보고 있다.\n\n신고된 사양은 상하이 기가팩토리에서 생산되는 듀얼모터 사륜구동으로, 전륜 176kW·후륜 291kW 모터를 조합했고 배터리는 LG에너지솔루션 중국법인의 삼원계(NCM) 리튬이온 팩을 쓴다. 21인치 휠에 프론트 255/35R21·리어 275/35R21 스태거드 타이어를 적용해 전형적인 퍼포먼스 사양 구성을 갖췄다.\n\n최고속도는 250km/h로, 현재 중국에서 판매 중인 모델Y 4개 트림의 최고속(201km/h)을 크게 웃돈다. 차체 크기는 전장 4,796mm·전폭 1,920mm·전고 1,611mm, 휠베이스 2,890mm, 공차중량 2,027kg으로 신고됐다.\n\nMIIT 신고는 7월11일부터 17일까지 공시 기간을 거치며, 통상 이 절차를 마친 차량은 수개월 내 실제 출시로 이어진다. 다만 이번 신고만으로 정식 출시 시점이나 가격은 확인되지 않았다.",
-      "title_en": "Tesla refiles for <em>Model Y Performance</em> in China — top speed 250km/h",
-      "hotShort_en": "Tesla refiles <em>Model Y Performance</em> in China",
-      "body_en": "Tesla listed what appears to be a Shanghai-built <em>Model Y Performance</em> in China's MIIT vehicle filing catalogue — rated at 250km/h top speed, well above the 201km/h cap on today's four Model Y trims, signaling a push for a higher-margin performance trim in China.",
-      "summary_en": "China's Ministry of Industry and Information Technology (MIIT) published its latest vehicle filing catalogue on July 10, and a new Tesla Model Y variant appeared on the list. Based on its specs, industry watchers believe it's the Model Y Performance.\n\nThe filed vehicle is a dual-motor, all-wheel-drive variant built at Tesla's Shanghai plant, combining a 176kW front motor with a 291kW rear motor and a ternary lithium-ion battery pack from LG Energy Solution's China subsidiary. It rides on 21-inch wheels with staggered 255/35R21 front and 275/35R21 rear tires — a setup typical of performance trims.\n\nIts top speed of 250km/h is well above the 201km/h ceiling of the four Model Y variants Tesla currently sells in China. The filing lists dimensions of 4,796mm long, 1,920mm wide and 1,611mm tall on a 2,890mm wheelbase, with a curb weight of 2,027kg.\n\nMIIT filings undergo a public disclosure period — in this case July 11 to 17 — and vehicles that complete the process typically go on sale within a few months. The filing alone doesn't confirm a launch date or price.",
-      "href": "https://cnevpost.com/2026/07/10/tesla-files-new-model-y-variant-china/",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-26 01:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-26 05:50 KST 자동 갱신 · 최신순"
 }
