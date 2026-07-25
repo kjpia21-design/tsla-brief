@@ -21,6 +21,26 @@
       "hot": 7
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-24T17:48:21.000Z",
+      "title": "모건스탠리 \"스페이스X $100 붕괴 시 AI 사업가치는 <em>사실상 제로</em>\" — 목표주가 $300은 유지",
+      "hotShort": "MS \"스페이스X $100 밀리면 <em>AI 가치 제로</em>\"",
+      "body": "모건스탠리는 스페이스X 주가가 $100까지 떨어질 경우 시장이 그록·커서 등 AI 사업 가치를 사실상 0(또는 마이너스)으로 매기는 셈이라고 분석했다 — 다만 애널리스트 애덤 조나스는 목표주가 $300(절반 이상이 AI 사업 가치)을 그대로 유지하며, 최근 약세 심리와 펀더멘털 간 괴리를 오히려 매수 기회로 짚어 테슬라·스페이스X 동반 조정 속 드문 강세 시각을 냈다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-100-ai-value-morgan-stanley-2026-07-24",
+      "summary": "스페이스X는 지난달 사상 최대 규모로 상장한 이후 주가가 조정을 받아, 다른 카드에서 다룬 대로 24일까지 5거래일간 7.2% 내려 $115.07로 마감했다. 다음달 예정된 락업 해제(최대 $1160억 규모)를 앞두고 매물 압박 우려도 커진 상태다.\n\n블룸버그 보도에 따르면 모건스탠리는 이런 흐름 속에서, 만약 스페이스X 주가가 $100까지 밀린다면 이는 시장이 그록(대형언어모델)·커서(개발자 도구) 등 AI 사업 부문의 가치를 사실상 0 또는 마이너스로 평가하는 셈이라고 계산했다.\n\n그럼에도 담당 애널리스트 애덤 조나스는 목표주가 $300을 그대로 유지했다 — 이 중 절반 이상이 AI 사업 가치에서 나온다. 모건스탠리는 최근 투자자들의 약세 심리가 갈수록 짙어지는 반면 회사 펀더멘털 자체는 크게 달라지지 않았다며, 이 괴리가 오히려 매력적인 진입 시점을 만들었다고 판단했다.\n\n주주 입장에서 이 분석은 스페이스X 얘기지만, 머스크의 재산 대부분이 테슬라·스페이스X 두 회사 지분에 묶여 있다는 점(다른 카드 참고)에서 함께 볼 만하다. 이번 주 두 회사 주가가 동반 조정을 받은 가운데, 월가 내에서도 '과매도' 시각과 '펀더멘털 우려' 시각이 엇갈리고 있다는 신호다.",
+      "title_en": "Morgan Stanley: SpaceX at $100 would price <em>AI business at zero</em>",
+      "hotShort_en": "MS: SpaceX at $100 means <em>AI valued at zero</em>",
+      "body_en": "Morgan Stanley says a drop to $100 in SpaceX shares would mean the market is pricing its AI business — Grok and Cursor — at zero or even negative value. Analyst Adam Jonas nonetheless kept his $300 price target, more than half of it tied to AI, calling the gap between bearish sentiment and steady fundamentals a rare bullish signal amid this week's joint Tesla-SpaceX selloff.",
+      "summary_en": "SpaceX shares have pulled back since last month's record-setting IPO, falling 7.2% over five sessions through July 24 to close at $115.07 (see related card). Investors are also bracing for a lockup expiration next month that could release up to $116B in shares onto the market.\n\nAgainst that backdrop, Bloomberg reports Morgan Stanley calculated that if SpaceX shares slide to $100, the market would effectively be assigning zero — or even negative — value to the company's AI business, which includes the Grok large language model and the Cursor developer tool.\n\nEven so, lead analyst Adam Jonas kept his $300 price target intact, with more than half of that value tied to the AI segment. Morgan Stanley argued that while investor sentiment has grown increasingly bearish, the company's underlying fundamentals haven't changed nearly as much — a gap it sees as creating an attractive entry point.\n\nFor Tesla shareholders, this is technically a SpaceX story, but it's worth watching alongside coverage elsewhere in this briefing showing how much of Musk's net worth rides on the two companies' combined share prices. With both stocks pulling back together this week, Wall Street itself is split between an 'oversold' read and one still worried about fundamentals.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
@@ -150,33 +170,7 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive",
       "sentiment": "bear",
       "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-23T16:50:09.000Z",
-      "title": "프랑스, 테슬라 FSD 승인 보류 — 머스크 <em>\"생명 앗아갈 것\"</em> 반박",
-      "hotShort": "프랑스 FSD 보류에 머스크 <em>\"생명 앗아갈 것\"</em>",
-      "body": "프랑스 교통장관 필리프 타바로가 테슬라 FSD(감독형)를 현재 상태로는 승인하지 않겠다고 밝혔다 — 제한속도를 최대 50% 초과하는 과속과 회전교차로·차선변경 등 복잡한 상황에서의 부족한 주의력 모니터링이 이유다. 일론 머스크는 X에 \"프랑스의 승인 지연은 생명을 앗아갈 것\"이라고 즉각 반박해 규제 갈등이 격화됐다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "fsd-france-rejects-approval-2026-07-22",
-      "summary": "22일(현지시간) 프랑스 교통장관 필리프 타바로는 테슬라의 '완전자율주행(감독형, FSD Supervised)'을 \"현재 상태로는\" 승인하지 않겠다고 공식 발표했다. 로이터에 따르면 그는 영상 성명에서 \"이 시스템이 여러 기술적 진전을 가져온 것은 인정하지만, 현재 상태로 허가하기엔 안전성 트레이드오프가 아직 충분치 않다\"고 밝혔다.\n\n그가 지목한 안전 문제는 두 가지다. 첫째, FSD가 주변 교통 흐름 속도에 맞춰 주행하는 과정에서 명시적인 운전자 지시 없이도 제한속도를 최대 50%까지 초과하는 경우가 있다는 것이다 — 예를 들어 시속 50km 구간에서 시속 70km까지 속도를 낼 수 있다는 지적이다. 둘째, 회전교차로·차선변경처럼 복잡한 도심 주행 상황에서 현재의 운전자 모니터링 체계가 충분한 주의력을 담보하지 못한다는 점이다. 타바로 장관은 한발 더 나아가 \"이 시스템은 자율주행 시스템이 아니다\"라며 FSD라는 명칭 자체에도 이의를 제기했다.\n\n이 발표에 일론 머스크는 곧바로 X(트위터)에 \"프랑스의 FSD 승인 지연은 생명을 앗아갈 것\"이라는 글을 올려 반박했다. 규제 당국과 테슬라 최고경영자 간 공개적 신경전으로 번진 셈이다.\n\n이번 발표로 프랑스는 유럽 주요국 가운데 처음으로 FSD에 대한 구체적 반대 근거를 각료급에서 공식화한 나라가 됐다. 그간 유럽 각국은 유럽집행위원회의 '제39조(Article 39)' 공동 심사 절차에 판단을 미뤄왔는데, 프랑스가 독자적으로 우려를 명문화한 셈이다. 다만 완전한 거부는 아니다 — 프랑스 교통부 대표단이 지난주 네덜란드를 방문해 관련 데이터를 검토했다고 타바로 장관이 밝혔으며, 네덜란드 등 다른 유럽국·테슬라와 기술 협의를 계속 이어가겠다고 덧붙였다.\n\n테슬라는 그간 유럽에서 FSD 라이드얼롱(동승 시연)을 확대하며 규제 승인에 다가서고 있다는 신호를 보내왔지만, 프랑스의 공식 이의 제기와 머스크의 정면 반박은 EU 전역 승인까지 시일이 더 걸릴 수 있음을 시사한다. 로보택시·FSD 확장을 핵심 성장동력으로 내세우는 테슬라 입장에서, 유럽 시장 진입 지연은 계속 주시할 변수다.",
-      "title_en": "France withholds Tesla FSD approval — Musk fires back: <em>\"will cost lives\"</em>",
-      "hotShort_en": "Musk claps back <em>\"will cost lives\"</em> as France balks",
-      "body_en": "French Transport Minister Philippe Tabarot said Tesla's FSD (Supervised) won't be approved \"as it currently stands\" — citing speed-matching that can exceed limits by up to 50% and insufficient driver-attention monitoring in complex situations. Elon Musk fired back on X, calling the delay a decision that \"will cost lives,\" escalating the standoff with regulators.",
-      "summary_en": "French Transport Minister Philippe Tabarot formally said on July 22 that Tesla's Full Self-Driving (Supervised) system won't be approved \"as it currently stands.\" Per Reuters, he said in a video statement: \"we consider that this system brings a number of technological advances, but that the safety trade-offs are not yet sufficient to authorize it as it currently stands.\"\n\nHe flagged two safety concerns. First, FSD matches surrounding traffic speed in a way that can exceed the posted limit by up to 50% without an explicit driver command — for example, hitting 70 km/h in a 50 km/h zone. Second, the current driver-monitoring setup doesn't guarantee sufficient attention during complex urban situations such as roundabouts and lane changes. Tabarot went further, saying \"this system is not a self-driving system,\" directly challenging the name it's sold under.\n\nMusk shot back almost immediately on X, saying \"delaying the approval of FSD in France will cost lives\" — turning the regulatory dispute into a public standoff with Tesla's CEO.\n\nThe announcement makes France the first major European country to formalize specific objections to FSD at the cabinet level, after other EU countries had largely deferred to the European Commission's Article 39 joint review process. It stops short of an outright rejection — Tabarot said a Ministry of Transport delegation traveled to the Netherlands last week to review the underlying data, and that technical discussions with the Netherlands, other European countries, and Tesla are continuing.\n\nTesla has been expanding FSD ride-alongs across Europe as a signal it's getting closer to regulatory approval, but France's formal objection — and Musk's direct pushback — suggest EU-wide sign-off could still take longer. For a company leaning on Robotaxi and FSD expansion as core growth drivers, a delayed European rollout remains a variable worth watching.",
-      "href": "https://www.reuters.com/business/france-opposes-eu-approval-teslas-fsd-driver-assistance-software-now-2026-07-23/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "Electrek",
-        "Yahoo Finance"
-      ],
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-25 07:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-25 08:30 KST 자동 갱신 · 최신순"
 }

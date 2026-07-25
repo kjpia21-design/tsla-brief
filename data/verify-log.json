@@ -456,6 +456,28 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-25T06:30:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-100-ai-value-morgan-stanley-2026-07-24",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for Bloomberg (analyst-note reporting, not a 1st-party filing)",
+            "no advisory tone — reports Morgan Stanley's own price target/view, does not tell the reader to buy/sell TSLA or SPCX",
+            "no hedge-to-assertion drift — MS's calculation ('would imply', 'effectively pricing at zero') and Jonas's stance kept as attributed analysis, not stated as fact",
+            "numbers cross-checked via WebSearch (Yahoo Finance, Cryptopolitan, CryptoBriefing, Seeking Alpha, TipRanks, BigGo Finance, AllWeatherFinance all mirroring the same Bloomberg piece): $100 downside scenario, $300 PT unchanged, >50% of PT attributed to AI segment (Grok/Cursor) — consistent across all sources",
+            "$115.07 close and 7.2% 5-day decline reused from same-day already-verified stock-worst-weekly-slump card, not newly invented; $116B lockup figure reused from prior verified musk-spacex-earnings-date-lockup-expiration card",
+            "href matches the exact Bloomberg article URL from raw-cards.json",
+            "not X/meme-sourced, satire check N/A",
+            "verify-error: direct WebFetch to bloomberg.com and cnbc.com both returned 403 — relied on WebSearch snippet synthesis per fail-open policy; no contradictions found across 7 independent secondary mirrors"
+          ]
+        }
+      ]
     }
   ]
 }

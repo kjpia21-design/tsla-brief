@@ -21,6 +21,26 @@
       "hot": 7
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "just now",
+      "pubDate": "2026-07-24T17:48:21.000Z",
+      "title": "모건스탠리 \"스페이스X $100 붕괴 시 AI 사업가치는 <em>사실상 제로</em>\" — 목표주가 $300은 유지",
+      "hotShort": "MS \"스페이스X $100 밀리면 <em>AI 가치 제로</em>\"",
+      "body": "모건스탠리는 스페이스X 주가가 $100까지 떨어질 경우 시장이 그록·커서 등 AI 사업 가치를 사실상 0(또는 마이너스)으로 매기는 셈이라고 분석했다 — 다만 애널리스트 애덤 조나스는 목표주가 $300(절반 이상이 AI 사업 가치)을 그대로 유지하며, 최근 약세 심리와 펀더멘털 간 괴리를 오히려 매수 기회로 짚어 테슬라·스페이스X 동반 조정 속 드문 강세 시각을 냈다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-100-ai-value-morgan-stanley-2026-07-24",
+      "summary": "스페이스X는 지난달 사상 최대 규모로 상장한 이후 주가가 조정을 받아, 다른 카드에서 다룬 대로 24일까지 5거래일간 7.2% 내려 $115.07로 마감했다. 다음달 예정된 락업 해제(최대 $1160억 규모)를 앞두고 매물 압박 우려도 커진 상태다.\n\n블룸버그 보도에 따르면 모건스탠리는 이런 흐름 속에서, 만약 스페이스X 주가가 $100까지 밀린다면 이는 시장이 그록(대형언어모델)·커서(개발자 도구) 등 AI 사업 부문의 가치를 사실상 0 또는 마이너스로 평가하는 셈이라고 계산했다.\n\n그럼에도 담당 애널리스트 애덤 조나스는 목표주가 $300을 그대로 유지했다 — 이 중 절반 이상이 AI 사업 가치에서 나온다. 모건스탠리는 최근 투자자들의 약세 심리가 갈수록 짙어지는 반면 회사 펀더멘털 자체는 크게 달라지지 않았다며, 이 괴리가 오히려 매력적인 진입 시점을 만들었다고 판단했다.\n\n주주 입장에서 이 분석은 스페이스X 얘기지만, 머스크의 재산 대부분이 테슬라·스페이스X 두 회사 지분에 묶여 있다는 점(다른 카드 참고)에서 함께 볼 만하다. 이번 주 두 회사 주가가 동반 조정을 받은 가운데, 월가 내에서도 '과매도' 시각과 '펀더멘털 우려' 시각이 엇갈리고 있다는 신호다.",
+      "title_en": "Morgan Stanley: SpaceX at $100 would price <em>AI business at zero</em>",
+      "hotShort_en": "MS: SpaceX at $100 means <em>AI valued at zero</em>",
+      "body_en": "Morgan Stanley says a drop to $100 in SpaceX shares would mean the market is pricing its AI business — Grok and Cursor — at zero or even negative value. Analyst Adam Jonas nonetheless kept his $300 price target, more than half of it tied to AI, calling the gap between bearish sentiment and steady fundamentals a rare bullish signal amid this week's joint Tesla-SpaceX selloff.",
+      "summary_en": "SpaceX shares have pulled back since last month's record-setting IPO, falling 7.2% over five sessions through July 24 to close at $115.07 (see related card). Investors are also bracing for a lockup expiration next month that could release up to $116B in shares onto the market.\n\nAgainst that backdrop, Bloomberg reports Morgan Stanley calculated that if SpaceX shares slide to $100, the market would effectively be assigning zero — or even negative — value to the company's AI business, which includes the Grok large language model and the Cursor developer tool.\n\nEven so, lead analyst Adam Jonas kept his $300 price target intact, with more than half of that value tied to the AI segment. Morgan Stanley argued that while investor sentiment has grown increasingly bearish, the company's underlying fundamentals haven't changed nearly as much — a gap it sees as creating an attractive entry point.\n\nFor Tesla shareholders, this is technically a SpaceX story, but it's worth watching alongside coverage elsewhere in this briefing showing how much of Musk's net worth rides on the two companies' combined share prices. With both stocks pulling back together this week, Wall Street itself is split between an 'oversold' read and one still worried about fundamentals.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
@@ -2330,33 +2350,7 @@
       ],
       "sentiment": "bull",
       "hot": 7
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-07-09T19:54:52.000Z",
-      "title": "테슬라 마이애미 로보택시, <em>출시 첫날부터 안전요원 없이 무인 운행</em> 확인",
-      "hotShort": "마이애미 로보택시 <em>출시 첫날부터 완전 무인</em>",
-      "body": "테슬라 AI 총괄 아쇽 엘루스와미가 마이애미 로보택시 차량에 세이프티 모니터도, 운전석의 사람도 전혀 없다고 직접 확인했다 — 오스틴·댈러스·휴스턴·베이에어리어는 안전요원 동승 단계를 수개월 거친 뒤 무인 전환했지만, 마이애미는 7월3일 서비스 개시와 동시에 그 단계를 건너뛴 첫 사례로 FSD에 대한 테슬라의 자신감이 한 단계 올라간 신호로 읽힌다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-miami-robotaxi-unsupervised-day-one-2026-07-09",
-      "summary": "마이애미 로보택시를 둘러싼 관심은 그동안 '텍사스·캘리포니아 밖 첫 확장'이라는 지리적 의미에 쏠려 있었지만, 이번엔 운영 방식 자체에서 더 중요한 사실이 확인됐다.\n\n테슬라 AI 소프트웨어 담당 부사장 아쇽 엘루스와미는 소셜미디어에서 마이애미 차량이 조수석 세이프티 모니터는 물론 운전석에도 사람이 전혀 없는 상태로 운행 중이라고 직접 확인했다. 마이애미는 7월3일 로보택시 서비스를 시작했다.\n\n이는 테슬라의 기존 확장 패턴과 다르다. 2025년 6월 오스틴에서 상업 서비스를 시작했을 때는 수개월간 모든 차량에 세이프티 모니터가 동승했고, 4월 출시한 댈러스·휴스턴, 샌프란시스코 베이에어리어도 비슷하게 단계적으로 무인 전환을 거쳤다. 마이애미는 그 과정을 통째로 생략하고 첫날부터 완전 무인으로 운행을 시작한 첫 신규 도시다.\n\n테슬라는 이를 1년 넘게 쌓은 실주행 데이터를 바탕으로 FSD 소프트웨어에 대한 자신감이 커졌다는 신호로 내세우고 있다. 다만 신규 도시에서 안전요원 단계를 아예 건너뛴 전례가 없었던 만큼, 향후 사고·규제 대응 시 테슬라가 그만큼 더 큰 책임 부담을 질 수 있다는 지적도 나온다.",
-      "title_en": "Tesla confirms Miami Robotaxi ran <em>driverless from day one</em>, skipping the safety-monitor phase",
-      "hotShort_en": "Miami Robotaxi <em>driverless since launch day</em>",
-      "body_en": "Tesla's VP of AI software Ashok Elluswamy confirmed Miami Robotaxi vehicles are running with no safety monitor and no human in the driver's seat at all — unlike Austin, Dallas, Houston and the Bay Area, which each spent months with safety monitors before going driverless, Miami skipped that phase entirely from its July 3 launch, a sign of Tesla's growing confidence in FSD.",
-      "summary_en": "Attention on Miami Robotaxi has mostly focused on its geography — the first expansion outside Texas and California — but this time, a more important operational fact has come to light.\n\nTesla VP of AI Software Ashok Elluswamy confirmed on social media that Miami vehicles are running with no safety monitor in the passenger seat and no human in the driver's seat at all. Miami's Robotaxi service launched on July 3.\n\nThat breaks from Tesla's earlier rollout pattern. When commercial service began in Austin in June 2025, every vehicle carried a safety monitor for months before going driverless; Dallas and Houston, launched in April, and the San Francisco Bay Area followed similarly phased transitions. Miami is the first new city where Tesla skipped that phase entirely and launched fully driverless from day one.\n\nTesla is framing this as a sign of growing confidence in FSD software built on more than a year of real-world driving data. But with no precedent for skipping the safety-monitor phase in a brand-new city, some note Tesla is also taking on greater liability exposure if incidents or regulatory scrutiny follow.",
-      "href": "https://www.teslarati.com/tesla-confirms-crucial-detail-miami-robotaxi-launch/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Teslarati",
-        "Drive Tesla Canada",
-        "The Next Web"
-      ],
-      "sentiment": "bull",
-      "hot": 7
     }
   ],
-  "asOf": "2026-07-25 07:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-25 08:30 KST 자동 갱신 · 최신순"
 }
