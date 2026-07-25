@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-25 15:08 UTC · 누적 677건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-25 17:05 UTC · 누적 678건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "musk",
@@ -114,6 +114,26 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
       "sentiment": "bull",
       "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "22h ago",
+      "pubDate": "2026-07-24T16:32:04.000Z",
+      "title": "월가 “테슬라 저가매수 논리 흔들려” — 오펜하이머 <em>“투자한 만큼 성과 안 나와”</em>",
+      "hotShort": "월가, 테슬라 <em>저가매수 매력</em> 갈수록 시들",
+      "body": "테슬라 주가가 2분기 실적 발표 후 하루 만에 14.5% 급락한 가운데, 오펜하이머·캐너코드 등 월가 애널리스트들이 마진 정체와 마이너스 현금흐름을 근거로 '저가매수' 논리에 회의를 표했다 — 실적 서프라이즈에도 장기 성장 스토리에 대한 신뢰가 흔들리고 있다는 신호.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "stock-buy-dip-case-fades-2026-07-24",
+      "summary": "22일 장 마감 후 발표된 2분기 실적이 시장 예상을 밑돌자, 23일 테슬라 주가는 하루 만에 14.5% 급락해 $319.69로 마감했다. CNBC에 따르면 이번 낙폭을 계기로 월가 일부 애널리스트들 사이에서 '저가매수(buy the dip)' 논리 자체에 대한 회의론이 번지고 있다.\n\n오펜하이머의 콜린 러시 애널리스트는 \"테슬라가 지난 5~6년간 칩 등 물리적 AI 전환에 상당한 기술 투자를 해왔지만, 그 성과가 아직 나타나지 않고 있다\"고 지적했다. 마진 정체와 장기 투자로 인한 마이너스 잉여현금흐름, 그리고 시점을 가늠하기 어려운 로보택시·옵티머스 등 '돌파구' 약속들이 근거로 꼽혔다.\n\n테슬라에 매수 등급을 유지하고 있는 캐너코드 제뉴이티의 조지 지아나리카스 애널리스트조차 \"강세론을 펴기가 점점 어려워지고 있다\"고 인정했다 — 등급은 유지하되 확신은 약해지는 모습이다.\n\n이는 22일 실적 이후 JP모건·캔터 피츠제럴드·트루이스트 등이 목표주가를 일제히 낮춘 흐름과 같은 맥락으로, 단기 숫자보다 로보택시·AI 투자의 장기 성과 가시성이 관건이라는 점을 재확인시킨다.",
+      "title_en": "Wall Street’s <em>“buy the dip” case for Tesla</em> starts to crack",
+      "hotShort_en": "Wall St’s <em>Tesla dip-buy case</em> loses steam",
+      "body_en": "Tesla shares sank 14.5% in a single day after Q2 earnings missed profit estimates, and Wall Street analysts are now questioning whether the stock is still a buy-the-dip opportunity — a sign that conviction in the long-term growth story is wavering even after the revenue beat.",
+      "summary_en": "Tesla stock tumbled 14.5% to close at $319.69 on July 23, the day after its second-quarter earnings missed profit estimates. According to CNBC, the drop has fueled growing skepticism among some Wall Street analysts about the long-standing \"buy the dip\" thesis on the stock.\n\nOppenheimer analyst Colin Rusch said Tesla \"made some pretty substantial technology investments over the last five or six years around chips and other elements that are going into this shift into physical AI, but the results just aren't there.\" He pointed to stagnant margins and negative free cash flow tied to those long-term bets.\n\nEven Canaccord Genuity's George Gianarikas, who still rates Tesla a Buy, acknowledged that \"the bullish case is getting harder to make\" — keeping the rating while conviction softens.\n\nThe commentary echoes this week's wave of price-target cuts from JPMorgan, Cantor Fitzgerald and Truist following the Q2 report, reinforcing that near-term numbers matter less than visibility into when robotaxi and AI investments will actually pay off.",
+      "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html",
+      "sentiment": "bear",
+      "hot": 4
     },
     {
       "category": "stock",
