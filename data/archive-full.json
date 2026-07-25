@@ -1,6 +1,57 @@
 {
-  "asOf": "2026-07-25 17:05 UTC · 누적 678건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-25 19:16 UTC · 누적 680건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-25T15:59:34.000Z",
+      "title": "머스크, 모델S·모델X <em>디자인·소프트웨어 오픈소스화</em> 예고 — 로드스터 전례엔 회의론",
+      "hotShort": "머스크, 모델S·X <em>오픈소스화</em> 예고 — 회의론도",
+      "body": "일론 머스크가 모델S·모델X의 디자인과 소프트웨어를 오픈소스로 공개하겠다고 예고했다 — 2023년 오리지널 로드스터 때와 같은 방식이다. 다만 공개 범위·시점·라이선스를 구체화하지 않아, 당시 로드스터 공개가 실제로는 파일 몇 개에 그쳤던 전례를 근거로 회의적 시각도 나온다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-open-source-model-s-x-design-2026-07-25",
+      "summary": "테슬라 CEO 일론 머스크가 모델S와 모델X의 디자인·소프트웨어를 오픈소스로 전환하겠다고 밝혔다. 2023년 11월 오리지널 로드스터의 설계·엔지니어링 자료를 \"완전히 오픈소스화\"했다고 선언했던 것과 같은 방식을 이번에도 예고한 것이다.\n\n그러나 Electrek은 이번 발표가 \"릴리스가 아니라 의도 표명\"에 불과하다고 지적했다. 공개 시점·범위·적용 라이선스 가운데 어느 것도 구체적으로 밝혀지지 않았다는 것이다.\n\n회의론의 근거는 2023년 로드스터 사례다. 당시 \"완전 오픈소스\" 선언과 달리 실제 공개된 자료는 깃허브에 올라온 파일 8개(로드스터 1.5·2.0 ESS·PEM 버스 관련 CAN 데이터베이스 파일 5개, 총 용량 약 339KB, 309MB 진단 소프트웨어 ISO, PDF 가이드 2개)와 로그인 뒤에 감춰진 문서 패키지 5종이 전부였다. 깃허브 README에는 \"로드스터 연구개발 공개 문서 조건에 따라 배포\"라고만 적혀 있을 뿐 복제·수정·재배포를 허용하는 문구는 없었다 — 오픈소스 정의(Open Source Definition) 기준을 충족하지 못한다는 지적이 나온 이유다.\n\n모델S·모델X 오너 입장에서는 진단 도구·기술 문서 접근이 넓어지면 독립 수리·개조가 쉬워질 수 있다는 기대가 있지만, 실제 공개 범위가 로드스터 때처럼 제한적일지, 이번엔 진짜 오픈소스 라이선스가 붙을지는 지켜봐야 한다.",
+      "title_en": "Musk says Tesla will <em>open-source Model S & X design and software</em> — but Roadster precedent breeds skepticism",
+      "hotShort_en": "Musk vows <em>Model S/X open-source</em> release",
+      "body_en": "Elon Musk said Tesla plans to open-source the Model S and Model X design and software, echoing its 2023 claim to have fully open-sourced the original Roadster — but the announcement is a statement of intent with no timeline, scope, or license specified yet.",
+      "summary_en": "Tesla CEO Elon Musk said the company will make the Model S and Model X's design and software open-source, following the same playbook it used in November 2023 when it declared the original Roadster's design and engineering \"fully open source.\"\n\nElectrek noted the new announcement is \"a statement of intent, not a release\" — Musk gave no timeline, no defined scope, and no clarity on what license, if any, would apply.\n\nSkepticism stems from how the Roadster release actually played out. Despite the \"fully open source\" framing, what Tesla published amounted to eight files on GitHub — five CAN database files (about 339 KB total) covering the Roadster's ESS and PEM buses, a 309 MB diagnostic-software ISO, and two PDF quick guides — plus five additional document packages locked behind a login. The GitHub README says the materials are released under Tesla's own \"Disclosed Research and Development Documents\" terms, without granting rights to copy, modify, or redistribute — falling short of the Open Source Definition.\n\nFor Model S and Model X owners, wider access to diagnostic tools and technical documentation could make independent repairs easier — but whether this release proves more substantive than the Roadster's, or carries an actual open-source license, remains to be seen.",
+      "href": "https://electrek.co/2026/07/24/tesla-open-source-model-s-x-roadster-release-audit/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Electrek",
+        "Teslarati"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "5m ago",
+      "pubDate": "2026-07-25T15:01:51.000Z",
+      "title": "테슬라 로보택시, 무감독 <em>38만 마일 무사고</em> 돌파 — 다음은 피닉스·라스베가스",
+      "hotShort": "로보택시 <em>38만마일 무사고</em> 기록 — 확장 가속",
+      "body": "테슬라가 2분기 실적콜에서 로보택시 무감독 주행이 텍사스·플로리다 2개 주 6개 도시에서 누적 38만 마일을 돌파했고 '주목할 사고 제로'라고 밝혔다 — 확장 속도 회의론에 정면 반박하는 수치다. 마일리지는 수개월째 주간 두 자릿수(%) 성장 중이며, 다음 진출지로 피닉스·라스베가스를 준비 중이다.",
+      "sourceName": "Fox Business",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-380k-unsupervised-miles-2026-07-25",
+      "summary": "테슬라 AI 소프트웨어 부사장 아쇽 엘루스와미가 2분기 실적콜에서 로보택시 안전 기록을 공개했다. 안전요원 없이 운행되는 무감독 로보택시가 텍사스·플로리다 2개 주, 6개 도시에서 누적 38만 마일 이상을 주행했으며 '주목할 만한 사고가 전혀 없었다'고 강조했다.\n\n확장 속도를 두고는 회의적 시선이 많았다 — 앞서 주주들은 '초지수적 성장' 공언과 달리 목표 도시 7곳 중 3곳에만 도달했다며 실적콜에서 경영진을 추궁하기도 했다(본지 다른 카드 참고). 이번 수치는 그 회의론에 대한 반박 성격이 강하다: 회사 측은 마일리지가 수개월째 주간 두 자릿수(%) 성장을 지속 중이며 연말까지 이 속도를 유지할 것으로 기대한다고 밝혔다.\n\n다음 진출지로는 애리조나 피닉스·네바다 라스베가스가 준비 중이며, 뉴올리언스에서도 테스트 차량이 포착돼 후보로 거론된다. 다만 캘리포니아 샌프란시스코베이 지역은 주 규제 탓에 여전히 안전요원이 동승하는 '리무진 허가' 방식으로 운영 중이다.\n\n로보택시 사업은 테슬라의 향후 밸류에이션을 좌우하는 핵심 축으로 꼽혀 왔다. 실적콜 안팎에서 확장 속도에 대한 불신이 커지던 가운데, 무사고 기록과 꾸준한 성장세는 회의론을 잠재우는 근거로 활용될 전망이다. 다만 마일리지 확대가 실제 매출·수익 기여로 이어지는지는 다음 분기 실적에서 확인해야 한다.",
+      "title_en": "Tesla Robotaxi tops <em>380,000 unsupervised miles with zero incidents</em>",
+      "hotShort_en": "Robotaxi hits <em>380K miles, zero incidents</em>",
+      "body_en": "Tesla said on its Q2 earnings call that unsupervised Robotaxi rides have topped 380,000 cumulative miles across 6 cities in 2 states with \"zero notable incidents\" — pushing back on skepticism about its expansion pace. Mileage has grown at a double-digit weekly rate for months, with Phoenix and Las Vegas next in line.",
+      "summary_en": "Tesla VP of AI Software Ashok Elluswamy disclosed the safety record on the Q2 earnings call: unsupervised Robotaxi rides, with no safety driver on board, have surpassed 380,000 cumulative miles across six cities in two states, with \"zero notable incidents.\"\n\nThe disclosure counters recent skepticism. Just days earlier, shareholders had pressed executives on the same earnings call after Robotaxi reached only 3 of 7 promised cities versus last year's \"hyperexponential growth\" pledge (see our earlier coverage). Tesla says mileage has nonetheless grown at a double-digit weekly rate for months and expects that pace to hold through year-end.\n\nPhoenix, Arizona and Las Vegas, Nevada are next in preparation, with New Orleans also floated as a candidate after test vehicles were spotted there. California's Bay Area remains limited to safety-driver rides under a \"limousine permit\" due to state regulation.\n\nRobotaxi is widely seen as the key driver of Tesla's long-term valuation. A clean safety record and steady mileage growth give bulls fresh ammunition against expansion skepticism — though whether it translates into revenue remains to be seen next quarter.",
+      "href": "https://www.foxbusiness.com/markets/tesla-touts-380000-unsupervised-robotaxi-miles-zero-notable-incidents",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Fox Business",
+        "Yahoo Finance",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
