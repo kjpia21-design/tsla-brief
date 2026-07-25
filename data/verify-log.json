@@ -538,6 +538,22 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-25T15:09:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-robotaxi-380k-unsupervised-miles-2026-07-25",
+          "verdict": "hold",
+          "newSourceLabel": null,
+          "reasons": [
+            "criterion④ numeric mismatch: card originally stated 7 cities for CURRENT unsupervised operation, but only 6 cities are live (Austin/Dallas/Houston TX + Miami/Orlando/Tampa FL) — 7 is Tesla's target-metro count including not-yet-launched Phoenix/Las Vegas. Corrected to '6개 도시'/'6 cities' in KO+EN fields before publish (shadow mode logs only, but the curator applied the fix directly per Step 4 accuracy gate).",
+            "all other checks passed: 380,000 miles exact match; 'zero notable incidents' verified direct Elluswamy quote from Q2 earnings call; double-digit weekly growth confirmed; Phoenix/Las Vegas next-market claim confirmed; New Orleans correctly hedged as unofficial candidate; SF Bay Area safety-driver requirement confirmed; href/sourceLabel/confirmedBy all correct"
+          ]
+        }
+      ]
     }
   ]
 }
