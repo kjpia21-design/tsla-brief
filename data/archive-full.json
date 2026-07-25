@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-25 20:58 UTC · 누적 680건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-25 21:31 UTC · 누적 682건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "product",
@@ -50,6 +50,26 @@
         "Teslarati"
       ],
       "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "13h ago",
+      "pubDate": "2026-07-25T08:00:00.000Z",
+      "title": "포춘 \"스페이스X, 테슬라 인수 <em>최적기 이미 지났다</em>\"",
+      "hotShort": "포춘 \"스페이스X, 테슬라 인수 <em>적기 놓쳤다</em>\"",
+      "body": "포춘 분석에 따르면 스페이스X 시총이 정점이던 7월16일($2.8T, 테슬라 $1.6T)엔 신주 57% 발행으로 테슬라를 인수할 수 있었지만, 두 회사 주가가 함께 급락한 7월24일 기준으론 필요 지분율이 82%로 치솟았다 — 22일 실적콜에서 머스크가 합병 가능성을 부인하지 않은 지 사흘 만에, 정작 셈법은 스페이스X 주주에 크게 불리해진 셈이다.",
+      "sourceName": "Fortune",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-missed-merger-window-2026-07-25",
+      "summary": "테슬라와 스페이스X의 합병설은 22일 2분기 실적콜에서 다시 불붙었다. 한 애널리스트가 스페이스X의 테슬라 인수 계획을 묻자 머스크는 \"실적콜에서 회사 합병 같은 얘기를 할 수는 없다 — 적절한 절차를 거쳐야 한다\"며 즉답을 피했지만, 가능성 자체를 부인하지도 않았다.\n\n포춘은 이 발언 직후 두 회사의 주가 흐름을 근거로, 오히려 인수 '적기'는 이미 지나갔을 수 있다고 분석했다. 스페이스X 주가가 정점을 찍은 7월16일 기준 시가총액은 $2.8T로 테슬라($1.6T)의 1.75배 수준이었다 — 이 시점이라면 스페이스X가 신주 57%만 발행해도 전량 주식교환 방식으로 테슬라를 인수할 수 있었다는 계산이다.\n\n그러나 7월24일 오후 기준 스페이스X 시총은 $1.49T까지 밀린 반면 테슬라는 $1.22T로 상대적으로 덜 빠지면서, 같은 방식의 인수에 필요한 신주 발행 비율은 82%로 급등했다. 스페이스X 주주 입장에서는 지분 희석 부담이 그만큼 커진 셈이다.\n\n두 회사 주가가 이번 주 동반 조정을 받은 배경은 다른 카드에서 다룬 대로다 — 테슬라는 2분기 실적 발표 후 주간 18% 급락, 스페이스X도 스타십 시험 연기 속 상장 후 최저치로 밀렸다. 합병 논의가 실제로 진전될지는 불확실하지만, 적어도 현재의 주가 수준에서는 스페이스X 주주에게 셈법이 불리해졌다는 것이 포춘의 지적이다.",
+      "title_en": "Fortune: SpaceX may have <em>missed its window</em> to buy Tesla",
+      "hotShort_en": "Fortune: SpaceX <em>missed its window</em> for Tesla",
+      "body_en": "Fortune's analysis shows SpaceX could have acquired Tesla by issuing just 57% new shares when its market cap peaked at $2.8T on July 16 (vs. Tesla's $1.6T) — but after both stocks sold off through July 24 (SpaceX $1.49T, Tesla $1.22T), the same all-stock deal would now require issuing 82% of SpaceX's shares, a far more dilutive ratio for SpaceX shareholders.",
+      "summary_en": "Merger speculation between Tesla and SpaceX reignited on the July 22 Q2 earnings call, when an analyst asked whether SpaceX planned to buy Tesla. Musk deflected — \"We can't talk about combining companies and things like that on an earnings call. It's got to be done with the appropriate process\" — without ruling it out.\n\nFortune's analysis, published days later, argues the ideal window for such a deal may have already closed. When SpaceX shares peaked on July 16, its market cap hit $2.8T, roughly 1.75 times Tesla's $1.6T — a ratio that would have let SpaceX acquire Tesla in an all-stock deal by issuing just 57% new shares.\n\nBy the afternoon of July 24, though, SpaceX's market cap had fallen to $1.49T while Tesla held up relatively better at $1.22T, pushing the share issuance needed for the same deal up to 82% — a far more dilutive outcome for SpaceX shareholders.\n\nThe pullback in both stocks this week is covered elsewhere in this briefing: Tesla fell 18% for the week after its Q2 report, and SpaceX slid to a post-IPO low amid a delayed Starship test. Whether a merger actually advances remains unclear, but Fortune's math suggests the terms have swung against SpaceX shareholders at current prices.",
+      "href": "https://fortune.com/2026/07/25/spacex-tesla-stock-price-merger-window-elon-musk/",
+      "sentiment": "neutral",
       "hot": 6
     },
     {
@@ -728,6 +748,32 @@
         "Teslarati",
         "Electrek"
       ]
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4d ago",
+      "pubDate": "2026-07-21T15:39:35.000Z",
+      "title": "테슬라 2026 <em>서머 업데이트</em> 공개 — Grok 차량 명령·선호 경로·랩 앱 적용",
+      "hotShort": "테슬라 서머 업데이트 — <em>Grok 차량 명령</em> 확대",
+      "body": "테슬라가 2026 서머 업데이트(2026.26 추정)를 공개했다 — Grok이 전화 걸기·음악 검색·공조 조절·글로브박스 개방까지 차량을 직접 제어하고 유럽 전역에 확대되며, 내비게이션은 자주 가는 곳·선호 경로를 학습하고, 앱에서 휴대폰 갤러리 이미지를 그대로 차량 커스텀 랩으로 씌울 수 있게 됐다. 무료 OTA로 기존 차량에도 적용되는 소프트웨어 강화라, 신차 없이도 사용자 경험을 계속 끌어올리는 테슬라 특유의 전략을 재확인시킨다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-summer-update-grok-vehicle-commands-2026-07-21",
+      "summary": "7월21일 테슬라가 공식 X 계정을 통해 2026 서머 업데이트(버전 2026.26 추정)의 릴리스 노트를 공개했다고 Electrek·Teslarati 등이 보도했다.\n\n핵심은 차량 내 AI 비서 Grok의 기능 확장이다. 전화 걸기, 음악 검색·재생, 공조(에어컨·히터) 조절, 글로브박스 개방까지 음성 명령으로 처리할 수 있게 됐고, Grok 서비스 자체가 유럽 전역으로 넓어진다.\n\n내비게이션도 개인화된다 — 집·직장·캘린더 일정뿐 아니라 학교·헬스장처럼 자주 가는 곳을 학습해 제안하고, 운전자가 과거에 선택했던 경로를 우선 안내하는 '선호 경로' 기능이 추가됐다.\n\n이 밖에 테슬라 앱의 '크리에이션' 탭에서 휴대폰 갤러리 이미지를 골라 차량 커스텀 랩으로 입힐 수 있는 기능, 모바일 앱에서 자율주행 통계를 확인·공유하는 기능, 주차 상태에서 노래를 부르면 점수가 매겨지는 '카라오케' 기능도 추가됐다.\n\n이번 업데이트는 신차 출시 없이 무료 OTA만으로 기존 차량 전반의 사용자 경험을 끌어올리는 테슬라 특유의 전략을 다시 보여준다. 로보택시·실적 이슈로 시끄러운 한 주였지만, 소프트웨어 쪽에서는 꾸준한 기능 확장이 이어지고 있다는 신호다.",
+      "title_en": "Tesla unveils <em>2026 Summer Update</em> — Grok vehicle commands, preferred routes, app-based wraps",
+      "hotShort_en": "Tesla's Summer Update expands <em>Grok vehicle control</em>",
+      "body_en": "Tesla rolled out its 2026 Summer Update (version 2026.26), letting Grok make phone calls, search music, adjust climate, and open the glovebox by voice while expanding Grok across all of Europe. Navigation now learns preferred routes and frequent stops, and the Tesla app can apply custom wraps to a vehicle from a photo picked out of the phone's gallery — a free OTA update that keeps extending the experience on cars already on the road, without a new model launch.",
+      "summary_en": "Tesla published release notes for its 2026 Summer Update (version 2026.26) via its official X account on July 21, according to Electrek, Teslarati, and other outlets.\n\nThe centerpiece is an expanded Grok in-car assistant: voice commands can now place phone calls, search and play music, adjust climate control, and open the glovebox, and the Grok service itself is now available across all of Europe.\n\nNavigation gets more personalized too — beyond Home, Work, and calendar events, it now learns frequently visited spots like school or the gym, and a new 'preferred routes' feature prioritizes paths the driver has taken before.\n\nThe update also adds a new \"Creations\" tab in the Tesla app that lets owners apply a custom wrap to their vehicle using a photo picked from their phone's gallery, in-app viewing and sharing of self-driving stats, and a 'Caraoke' feature that scores singing while parked.\n\nWith no new vehicle involved, the release is another example of Tesla using free over-the-air updates to keep improving the ownership experience for cars already on the road — a steady drumbeat of software progress even in a week dominated by robotaxi and earnings headlines.",
+      "href": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Teslarati",
+        "TeslaNorth"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
     },
     {
       "category": "product",
