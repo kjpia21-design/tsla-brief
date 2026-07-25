@@ -166,31 +166,31 @@
       "hot": 5
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4d ago",
-      "pubDate": "2026-07-21T15:39:35.000Z",
-      "title": "테슬라 2026 <em>서머 업데이트</em> 공개 — Grok 차량 명령·선호 경로·랩 앱 적용",
-      "hotShort": "테슬라 서머 업데이트 — <em>Grok 차량 명령</em> 확대",
-      "body": "테슬라가 2026 서머 업데이트(2026.26 추정)를 공개했다 — Grok이 전화 걸기·음악 검색·공조 조절·글로브박스 개방까지 차량을 직접 제어하고 유럽 전역에 확대되며, 내비게이션은 자주 가는 곳·선호 경로를 학습하고, 앱에서 휴대폰 갤러리 이미지를 그대로 차량 커스텀 랩으로 씌울 수 있게 됐다. 무료 OTA로 기존 차량에도 적용되는 소프트웨어 강화라, 신차 없이도 사용자 경험을 계속 끌어올리는 테슬라 특유의 전략을 재확인시킨다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-summer-update-grok-vehicle-commands-2026-07-21",
-      "summary": "7월21일 테슬라가 공식 X 계정을 통해 2026 서머 업데이트(버전 2026.26 추정)의 릴리스 노트를 공개했다고 Electrek·Teslarati 등이 보도했다.\n\n핵심은 차량 내 AI 비서 Grok의 기능 확장이다. 전화 걸기, 음악 검색·재생, 공조(에어컨·히터) 조절, 글로브박스 개방까지 음성 명령으로 처리할 수 있게 됐고, Grok 서비스 자체가 유럽 전역으로 넓어진다.\n\n내비게이션도 개인화된다 — 집·직장·캘린더 일정뿐 아니라 학교·헬스장처럼 자주 가는 곳을 학습해 제안하고, 운전자가 과거에 선택했던 경로를 우선 안내하는 '선호 경로' 기능이 추가됐다.\n\n이 밖에 테슬라 앱의 '크리에이션' 탭에서 휴대폰 갤러리 이미지를 골라 차량 커스텀 랩으로 입힐 수 있는 기능, 모바일 앱에서 자율주행 통계를 확인·공유하는 기능, 주차 상태에서 노래를 부르면 점수가 매겨지는 '카라오케' 기능도 추가됐다.\n\n이번 업데이트는 신차 출시 없이 무료 OTA만으로 기존 차량 전반의 사용자 경험을 끌어올리는 테슬라 특유의 전략을 다시 보여준다. 로보택시·실적 이슈로 시끄러운 한 주였지만, 소프트웨어 쪽에서는 꾸준한 기능 확장이 이어지고 있다는 신호다.",
-      "title_en": "Tesla unveils <em>2026 Summer Update</em> — Grok vehicle commands, preferred routes, app-based wraps",
-      "hotShort_en": "Tesla's Summer Update expands <em>Grok vehicle control</em>",
-      "body_en": "Tesla rolled out its 2026 Summer Update (version 2026.26), letting Grok make phone calls, search music, adjust climate, and open the glovebox by voice while expanding Grok across all of Europe. Navigation now learns preferred routes and frequent stops, and the Tesla app can apply custom wraps to a vehicle from a photo picked out of the phone's gallery — a free OTA update that keeps extending the experience on cars already on the road, without a new model launch.",
-      "summary_en": "Tesla published release notes for its 2026 Summer Update (version 2026.26) via its official X account on July 21, according to Electrek, Teslarati, and other outlets.\n\nThe centerpiece is an expanded Grok in-car assistant: voice commands can now place phone calls, search and play music, adjust climate control, and open the glovebox, and the Grok service itself is now available across all of Europe.\n\nNavigation gets more personalized too — beyond Home, Work, and calendar events, it now learns frequently visited spots like school or the gym, and a new 'preferred routes' feature prioritizes paths the driver has taken before.\n\nThe update also adds a new \"Creations\" tab in the Tesla app that lets owners apply a custom wrap to their vehicle using a photo picked from their phone's gallery, in-app viewing and sharing of self-driving stats, and a 'Caraoke' feature that scores singing while parked.\n\nWith no new vehicle involved, the release is another example of Tesla using free over-the-air updates to keep improving the ownership experience for cars already on the road — a steady drumbeat of software progress even in a week dominated by robotaxi and earnings headlines.",
-      "href": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "",
+      "pubDate": "2026-07-23T01:02:31.000Z",
+      "title": "테슬라 FSD, 유럽 5개국 승인 — 누적 <em>5000만km 주행</em> 돌파",
+      "hotShort": "FSD 유럽 5개국서 <em>5000만km</em> 돌파",
+      "body": "테슬라 FSD(감독형)가 네덜란드에 이어 리투아니아·에스토니아·덴마크·벨기에까지 승인받아, 이들 5개국 고객이 FSD로 주행한 누적 거리가 5000만km(3100만마일)를 돌파했다고 2분기 10-Q에서 밝혔다 — 프랑스가 같은 달 승인을 보류한 것과 대비되는 성과다.",
+      "sourceName": "SEC · Tesla 10-Q",
+      "sourceLabel": "sec",
+      "slug": "fsd-eu-50m-km-5-countries-2026-07-23",
+      "summary": "테슬라가 22~23일 공시한 2분기 10-Q에서 FSD(감독형)의 유럽 승인 현황을 공개했다. 네덜란드 승인을 기반으로 리투아니아·에스토니아·덴마크·벨기에까지 잇달아 승인이 이뤄지며, 이들 5개국 고객이 FSD로 주행한 누적 거리가 5000만km(3100만마일)를 넘어섰다고 밝혔다.\n\n유럽 각국의 승인은 올해 4월 네덜란드를 시작으로 리투아니아(5월)·에스토니아(5월)·덴마크(6월)·벨기에(6월) 순으로 이어졌다 — 유럽교통안전위원회(ETSC) 등에 따르면 리투아니아·에스토니아는 네덜란드 인증을 그대로 인정하는 방식으로, 덴마크·벨기에는 자체 기술 검토를 거쳐 각각 승인했다.\n\n이 발표는 프랑스가 이달 22일 FSD 승인을 보류하며 머스크와 정면 충돌한 지 사흘 만에 나왔다(본지 다른 카드 참고) — 유럽 내 규제 대응이 국가별로 극명하게 갈리는 가운데, 테슬라는 승인받은 국가들의 누적 주행거리를 앞세워 안전성과 확산세를 부각하는 모양새다.\n\n2분기 10-Q는 FSD 구독 전환이 서비스 매출 성장을 견인하고 있다고도 밝혔다 — 북미 신규 인도 차량의 55% 이상이 FSD 구독을 포함해 역대 최고 부착률을 기록했다(본지 다른 카드 참고). 유럽 승인 확대가 이 성장세를 해외로 이어갈 수 있을지가 다음 관전 포인트다.",
+      "title_en": "Tesla FSD tops <em>50M km driven</em> across 5 EU countries — even as France stalls",
+      "hotShort_en": "FSD hits <em>50M km</em> across 5 EU nations",
+      "body_en": "Tesla's Q2 10-Q disclosed that FSD (Supervised) — approved in the Netherlands, then Lithuania, Estonia, Denmark and Belgium — has now logged over 50 million km (31 million miles) of cumulative driving across those five countries, a contrast to France's approval holdout this month.",
+      "summary_en": "Tesla's Q2 2026 10-Q, filed July 22–23, disclosed the state of FSD (Supervised)'s European rollout: building on its Netherlands approval, the system has since been cleared in Lithuania, Estonia, Denmark and Belgium, with customers across those five countries now having driven a combined 50 million km (31 million miles) on FSD.\n\nThe approvals rolled out in sequence starting with the Netherlands in April, followed by Lithuania and Estonia in May and Denmark and Belgium in June — according to the European Transport Safety Council (ETSC), Lithuania and Estonia recognized the Dutch certification directly, while Denmark and Belgium each conducted their own technical review before signing off.\n\nThe disclosure comes just days after France stalled Tesla's FSD approval on July 22, clashing publicly with Musk (see our related coverage) — as European regulators diverge sharply by country, Tesla is leaning on the cumulative mileage from approved markets to make its safety and momentum case.\n\nThe same 10-Q noted that FSD subscription conversion is driving service-revenue growth, with more than 55% of new North American deliveries now including an FSD subscription — a record attach rate (see related coverage). Whether the European approval wave can extend that growth trajectory abroad is the next thing to watch.",
+      "href": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/0001628280-26-049270-index.htm",
       "confirmedBy": 3,
       "confirmingSources": [
-        "Electrek",
-        "Teslarati",
-        "TeslaNorth"
+        "Electrive",
+        "EVwire",
+        "Not a Tesla App"
       ],
-      "sentiment": "neutral",
-      "hot": 4
+      "sentiment": "bull",
+      "hot": 6
     }
   ],
-  "asOf": "2026-07-26 05:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-26 07:59 KST 자동 갱신 · 최신순"
 }
