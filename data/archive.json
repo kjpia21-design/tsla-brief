@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-07-25T00:52:38.000Z",
+      "title": "스페이스X 스타십 13차 시험비행 — 신형 V3 <em>2차 시험서 첫 완전 착수</em>",
+      "hotShort": "스타십 신형 V3, <em>첫 완전 착수</em> 성공",
+      "body": "스페이스X가 24일 신형 스타십 V3의 두 번째 시험비행에서 상단부 스타십을 사상 처음으로 착수 후에도 완전한 형태로 유지시켰다 — 다만 슈퍼헤비 부스터는 목표 지점에는 도달했지만 '거친' 착수였다는 평가도 나왔다. 지난주 연기로 스페이스X 주가를 상장 후 최저치로 끌어내렸던 바로 그 시험비행의 재도전으로, 팰컨9 상업예약을 사실상 중단하고 스타십에 '올인'한 회사 전략의 성패를 가늠할 시금석이다.",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-starship-flight13-splashdown-2026-07-25",
+      "summary": "이번 시험비행은 스타십/슈퍼헤비 통산 13차 발사이자, 이전보다 크고 강력하게 재설계된 신형 V3 기체로는 두 번째 시험이다. 앞서 날씨·기술적 문제로 발사가 한 차례 연기되면서, 다른 카드에서 다룬 대로 스페이스X 주가가 상장 후 최저치로 밀리는 데 일조한 바로 그 비행이 24일 마침내 이뤄졌다.\n\n결과는 절반의 성공에 가깝다. 상단부 스타십은 착수 후에도 선체가 완전한 형태를 유지한 채 수면 위에 떠 있었고, 탑재 카메라 다수도 계속 작동해 영상을 전송했다 — 스페이스X 시험비행 역사상 처음 있는 일이다. 반면 별도로 착수한 슈퍼헤비 부스터는 목표 지점에는 정확히 도달했지만, 일부 매체는 이를 '거친(hard)' 착수로 묘사했다.\n\n일론 머스크는 X를 통해 이번 비행에서 열차폐 시스템의 성능이 이전 시험 대비 크게 개선됐다고 자평했다. 스페이스X는 앞서 2028년 이후 팰컨9 상업 예약을 사실상 중단하겠다고 밝히며 스타십에 사업의 무게중심을 완전히 옮긴 상태라, 이번 시험 결과는 회사의 장기 전략이 궤도에 오르고 있는지를 보여주는 초기 신호로 받아들여진다.\n\n테슬라 주주 입장에서 스페이스X는 별도 회사지만, 이번 주 다른 카드에서 다룬 대로 머스크의 재산 대부분이 테슬라·스페이스X 두 회사 지분에 묶여 있고 스페이스X는 지난달 상장 이후 주가 변동성이 테슬라와 함께 시장의 관심사가 됐다. 시험 결과가 완전한 성공은 아니었던 만큼, 스페이스X 주가와 머스크의 시장 신뢰 회복 여부는 다음 시험비행까지 지켜볼 대목이다.",
+      "title_en": "SpaceX Starship's 13th test flight — <em>first fully intact splashdown</em> for new V3 design",
+      "hotShort_en": "Starship V3's <em>first intact splashdown</em>",
+      "body_en": "SpaceX's second test flight of its redesigned Starship V3 on July 24 saw the ship's upper stage remain fully intact after splashdown for the first time ever — though the Super Heavy booster hit its target zone with what some outlets called a 'hard' splashdown. The flight was a retry of the very test whose earlier delay had helped drag SpaceX shares to a post-IPO low, and it's an early test of whether the company's all-in bet on Starship — after effectively halting new Falcon 9 commercial bookings past 2028 — is paying off.",
+      "summary_en": "This was Starship/Super Heavy's 13th flight overall, and the second test of the larger, more powerful V3 redesign. The launch had been delayed once over weather and technical issues — the same delay that, as covered elsewhere in this briefing, helped push SpaceX shares to a post-IPO low — before finally flying on July 24.\n\nThe result was a mixed success. Starship's upper stage splashed down with its hull fully intact, still floating with many onboard cameras transmitting video — a first in SpaceX's test-flight history. Separately, the Super Heavy booster hit its target splashdown zone, though some outlets described the landing as 'hard.'\n\nElon Musk said on X that the flight showed a significant improvement in heat-shield performance over prior tests. SpaceX has already said it will effectively stop taking new Falcon 9 commercial bookings past 2028, shifting the company's center of gravity fully onto Starship — making this test an early signal of whether that long-term bet is on track.\n\nFor Tesla shareholders, SpaceX is a separate company, but as covered elsewhere this week, most of Musk's wealth is tied up in Tesla and SpaceX shares together, and SpaceX's stock swings have drawn market attention since last month's IPO. Since the test fell short of a clean full success, whether SpaceX shares — and market confidence in Musk — recover is something to watch heading into the next test flight.",
+      "href": "https://www.nytimes.com/2026/07/24/science/spacex-starship-13th-test-flight.html",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "The New York Times",
+        "Bloomberg",
+        "WSJ",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-07-25T00:45:00.000Z",
+      "title": "머스크의 <em>Boring Company, $20B 밸류에이션</em> 신규 펀딩 추진 — WSJ",
+      "hotShort": "Boring Company <em>$20B 밸류</em> 펀딩 추진",
+      "body": "WSJ 단독 보도에 따르면 일론 머스크의 터널 굴착 스타트업 Boring Company가 약 $4B 규모 신규 펀딩을 추진 중이며, 성사되면 기업가치가 $20B까지 오를 수 있다 — 지난해 9월 마지막 확인된 밸류에이션 $9.6B의 두 배가 넘는 수준이다. 아직 확정된 계약은 아니지만, 라스베이거스 루프에 테슬라 차량을 투입해 운영해 온 머스크 제국의 또 다른 축이 몸값을 키우고 있다는 신호.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "musk-boring-company-20b-valuation-2026-07-25",
+      "summary": "Boring Company는 2018년 스페이스X에서 분사한 터널 굴착 스타트업으로, 라스베이거스 컨벤션센터 지하에 만든 '베이거스 루프'가 대표 사업이다 — 승객을 태워 터널을 오가는 차량으로 테슬라 모델을 활용해 왔다.\n\nWSJ에 따르면 Boring Company는 현재 약 $4B 규모의 신규 펀딩 라운드를 논의 중이며, 라운드가 마무리되면 회사 밸류에이션이 최대 $20B에 이를 수 있다. 이는 지난해 9월 마지막으로 확인됐던 $9.6B 밸류에이션의 두 배를 웃도는 수준이다. 다만 정식 계약서(term sheet) 서명 여부는 확인되지 않았고, 최종 밸류에이션·투자자 명단 등 세부 조건은 아직 유동적이다.\n\n이번 소식은 스페이스X가 지난달 사상 최대 규모로 상장한 직후 나왔다는 점에서 눈길을 끈다. 머스크가 이끄는 비상장 계열사들이 잇따라 몸값을 재평가받는 흐름 속에서, 스페이스X의 성공적 상장이 그룹 내 다른 회사들의 자금 조달에도 훈풍으로 작용하는 모양새다.\n\n테슬라 주주에게 이 소식은 직접적인 재무 영향은 없지만, 머스크가 이끄는 여러 회사들의 밸류에이션이 서로 연동되는 흐름 속에서 테슬라·스페이스X 동반 조정을 다룬 다른 카드들과 함께 볼 만한 맥락이다.",
+      "title_en": "Musk's <em>Boring Company eyes $20B valuation</em> in new funding round — WSJ",
+      "hotShort_en": "Boring Co. <em>eyes $20B</em> in new funding",
+      "body_en": "Elon Musk's tunneling startup, the Boring Company, is pursuing a roughly $4B funding round that could value it at up to $20B — more than double its last confirmed valuation of $9.6B from September, WSJ reports exclusively. Nothing is finalized yet, but it's another sign that a Musk-led venture is seeing its valuation rise, this one built around running Tesla vehicles through its Las Vegas tunnel loop.",
+      "summary_en": "The Boring Company, spun off from SpaceX in 2018, is best known for the Vegas Loop — a tunnel system beneath the Las Vegas Convention Center that ferries passengers using Tesla vehicles.\n\nAccording to WSJ, the company is currently in talks for a roughly $4B funding round that, if completed, could value it at up to $20B — more than double the $9.6B valuation last confirmed in September. Whether a term sheet has been signed remains unclear, and details like the final valuation and investor lineup are still fluid.\n\nThe report lands notably soon after SpaceX's record-setting IPO last month. As Musk's private ventures see fresh valuation attention, SpaceX's successful listing appears to be creating tailwinds for fundraising across the rest of his corporate group.\n\nFor Tesla shareholders, this doesn't move Tesla's own financials directly, but it's worth reading alongside other cards in this briefing covering the joint Tesla-SpaceX selloff, given how intertwined the valuations of Musk's companies have become.",
+      "href": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -2297,60 +2344,7 @@
       ],
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "",
-      "pubDate": "2026-07-10T05:00:00.000Z",
-      "title": "테슬라, 한국에 FSD v14 Lite 출시 — <em>미국산 모델3·Y만</em> 적용, 중국산은 제외",
-      "hotShort": "테슬라 FSD v14 Lite 한국 출시 — <em>미국산 모델3·Y만</em> 적용",
-      "body": "테슬라코리아가 7월 10일 FSD(감독형) v14 Lite를 한국에 배포하기 시작했다 — 북미 다음으로 세계 두 번째 시장이다. 대상은 하드웨어3(HW3)에 FSD를 구매한 미국산 모델3·Y뿐이며, 한국 판매 물량 대다수를 차지하는 중국 상하이산 모델3·Y는 현지 규제로 소프트웨어 단에서 여전히 FSD가 잠겨 있다 — 생산지에 따른 접근권 격차가 한국 오너 다수의 체감 혜택을 제한하는 구조다.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-lite-korea-launch-2026-07-10",
-      "summary": "테슬라의 하드웨어3(HW3) 부활 프로젝트가 국제 시장으로 확대되고 있다. 6월 29일 미국 배포를 시작한 데 이어, 한국이 FSD(감독형) v14 Lite를 받는 두 번째 시장이 됐다 — 한국 HW3 오너들은 2025년 초 이후 FSD 12.6에 머물러 있었던 터라, 1년여 만의 의미 있는 기능 업데이트다.\n\n적용 대상은 좁다. 하드웨어3 컴퓨터를 탑재하고 FSD(감독형)를 구매·활성화한 미국(프리몬트)산 모델3·모델Y만 해당하며, 차량별로 OTA를 통해 순차 제공된다.\n\n중국 상하이 공장에서 생산된 모델3·모델Y — 한국 테슬라 판매 물량의 대다수를 차지한다 — 는 이번 배포에서 제외된다. 하드웨어와 무관하게 현지 인증 규제로 소프트웨어 단에서 FSD 자체가 잠겨 있는 상태로, 이번 롤아웃 이전부터 존재해온 생산지 기반 구분이다.\n\nv14 Lite는 HW4 기반 v14 신경망을 HW3 연산 용량에 맞게 압축한 버전으로, 차선 변경·합류·곡선 구간 주행이 더 매끄러워졌고, 그동안 없었던 주차·출차·후진, 도착 옵션(Arrival Options), 속도 프로필(Speed Profiles) 기능도 새로 추가됐다.\n\n주주 관점에서는 한국이 두 번째 해외 시장으로 선택됐다는 점이 테슬라가 예상보다 빠르게 HW3 해외 동등화를 우선시하고 있다는 신호다 — 다만 상하이산 차량 제외가 계속되는 한 한국 내 설치 기반의 다수는 여전히 혜택을 못 받는다. 테슬라가 이 인증 문제를 어떻게(혹은 언제) 풀지가 관전 포인트다.",
-      "title_en": "Tesla Launches FSD v14 Lite in <em>South Korea</em> — US-Built Model 3/Y Only",
-      "hotShort_en": "Tesla FSD v14 Lite hits <em>South Korea</em> — US-built Model 3/Y only",
-      "body_en": "Tesla Korea began rolling out FSD (Supervised) v14 Lite on July 10 — the second international market after North America. Eligibility is limited to US-built Model 3 and Model Y with Hardware 3 (HW3) and a purchased FSD subscription; Shanghai-built Model 3/Y, which make up the majority of Korea's Tesla fleet, remain software-locked out of FSD under local certification rules — an origin-based access gap that limits how many Korean owners actually benefit.",
-      "summary_en": "Tesla's Hardware 3 revival continues to expand internationally. After the U.S. rollout began June 29, South Korea became the second market to receive FSD (Supervised) v14 Lite on July 10 — Korean HW3 owners had been frozen on FSD 12.6 since early 2025, so this marks their first meaningful capability update in over a year.\n\nEligibility is narrow: only U.S.-built (Fremont) Model 3 and Model Y equipped with the FSD computer and an active FSD (Supervised) purchase qualify, with updates arriving sequentially via OTA.\n\nModel 3 and Model Y units built at Tesla's Shanghai plant — which account for the majority of Tesla's Korean sales — are excluded. Local certification requirements keep FSD software-locked on those cars regardless of hardware, an origin-based split that predates this specific rollout.\n\nv14 Lite compresses the HW4-based v14 neural net down to HW3's compute budget, adding smoother lane changes, merges, and curve handling, plus previously-missing features like parking, unparking, reversing, Arrival Options, and Speed Profiles.\n\nFor shareholders, Korea's inclusion as only the second international market signals Tesla is prioritizing HW3 parity abroad faster than some expected — but the persistent Shanghai-built exclusion means a majority of the installed Korean fleet still won't see any benefit, a gap worth watching for how (or whether) Tesla resolves the underlying certification issue.",
-      "href": "https://www.notateslaapp.com/news/4418/tesla-starts-rolling-out-fsd-v14-lite-internationally",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "Electrek",
-        "ZDNet Korea",
-        "전자신문"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-07-09T22:00:00.000Z",
-      "title": "NHTSA 국장 \"무인차 <em>핸들 규정도 재검토</em>\" — 사이버캡 규제 회색지대 풀리나",
-      "hotShort": "NHTSA \"무인차 <em>핸들 의무 재검토</em>\" 시사",
-      "body": "美 NHTSA 국장 조너선 모리슨이 CNBC 인터뷰에서, 사람이 운전하도록 설계되지 않은 차량에 핸들·페달 등 수동 조작장치를 의무화한 규정을 \"당연히(absolutely)\" 재검토할 수 있다고 밝혔다 — 핸들·페달이 없는 테슬라 <em>사이버캡의 연방 안전기준 회색지대</em>가 풀릴 신호로, 지난달 브레이크 페달 의무 폐지에 이은 두 번째 규제 완화 움직임이다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "fsd-nhtsa-steering-wheel-review-2026-07-09",
-      "summary": "테슬라 사이버캡은 핸들도 페달도 없는 2인승 전용 로보택시로 설계됐지만, 현행 연방자동차안전기준(FMVSS)은 수동 조작장치를 원칙적으로 요구해 그동안 규제 회색지대에 놓여 있었다.\n\nNHTSA 국장 조너선 모리슨은 CNBC 인터뷰에서 \"사람이 운전하도록 설계되지 않은 차량이라면 수동 조작장치를 요구하는 게 말이 안 된다\"며, 핸들·페달 의무화 규정을 재검토할 의사가 \"당연히(absolutely)\" 있다고 밝혔다. 구체적인 시행 시점이나 절차는 언급하지 않았다.\n\n이번 발언은 지난달 NHTSA가 무인 자율주행차의 수동 브레이크 페달 의무를 없애는 방향으로 연방 안전기준을 개정한 데 이은 후속 신호다. 트럼프 행정부 들어 무인차 규제를 완화하려는 흐름이 이어지고 있다는 평가다.\n\nNHTSA는 이달 말까지 무인차 개발사들과 회의를 열어 해결책을 논의하겠다고 예고한 바 있는데(앞선 응급대응 방해 경고와 같은 일정), 핸들 규정 재검토가 이 논의에 포함될지는 불확실하다. 다만 사이버캡처럼 처음부터 사람 운전을 전제하지 않은 차량이 양산·상용화 단계로 넘어가려면 이 규정 자체가 가장 큰 걸림돌 중 하나였던 만큼, 테슬라로서는 로보택시 확장의 법적 걸림돌 하나가 줄어드는 신호로 받아들여질 수 있다.",
-      "title_en": "NHTSA chief signals openness to <em>reviewing steering-wheel mandate</em> for driverless cars",
-      "hotShort_en": "NHTSA open to <em>ending steering-wheel rule</em>",
-      "body_en": "NHTSA Administrator Jonathan Morrison told CNBC the agency would \"absolutely\" consider ending the requirement that vehicles not designed for human drivers carry a steering wheel and pedals — a potential opening for Tesla's Cybercab, which has neither, following last month's move to drop the mandatory brake-pedal rule for driverless vehicles.",
-      "summary_en": "Tesla's Cybercab was designed as a two-seat, purpose-built robotaxi with no steering wheel and no pedals — but existing Federal Motor Vehicle Safety Standards generally require manual controls, leaving the vehicle in a regulatory gray zone.\n\nNHTSA Administrator Jonathan Morrison said in a CNBC interview that requiring manual controls \"doesn't make any sense\" for vehicles that are never meant to be driven by a human, and that the agency would \"absolutely\" consider revisiting the steering-wheel mandate. He didn't specify a timeline or process.\n\nThe comments follow NHTSA's move last month to update federal safety standards and drop the mandatory brake-pedal requirement for driverless vehicles — part of a broader effort under the Trump administration to loosen rules for autonomous cars.\n\nNHTSA has also said it will hold meetings with driverless-vehicle developers by the end of July (the same timeline tied to its recent warning about AVs interfering with emergency responders), though it's unclear whether the steering-wheel review will be part of those talks. Still, for a vehicle like Cybercab that was never designed around a human driver, this rule has been one of the biggest regulatory hurdles to mass production — and its potential loosening removes one legal obstacle from Tesla's robotaxi expansion path.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-09/us-to-explore-allowing-driverless-cars-without-steering-wheels",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Bloomberg",
-        "CNBC",
-        "Seeking Alpha"
-      ],
-      "sentiment": "bull",
-      "hot": 7
     }
   ],
-  "asOf": "2026-07-25 08:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-25 14:05 KST 자동 갱신 · 최신순"
 }

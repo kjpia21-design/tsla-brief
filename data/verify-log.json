@@ -478,6 +478,27 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-25T05:05:37.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-starship-flight13-splashdown-2026-07-25",
+          "verdict": "pass",
+          "reasons": [
+            "cross-checked vs CNN/Space.com/Spaceflight Now/Bloomberg — facts match; press label correct; nuance (booster hard splashdown vs upper-stage first intact splashdown) accurate"
+          ]
+        },
+        {
+          "slug": "musk-boring-company-20b-valuation-2026-07-25",
+          "verdict": "pass",
+          "reasons": [
+            "cross-checked vs WSJ/Reuters syndication/Gurufocus — $4B raise, up to $20B valuation, prior $9.6B (Sep 2025) confirmed; hedged '추진 중' framing matches WSJ's own unconfirmed/in-talks framing; press label correct"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-07-25T00:52:38.000Z",
+      "title": "스페이스X 스타십 13차 시험비행 — 신형 V3 <em>2차 시험서 첫 완전 착수</em>",
+      "hotShort": "스타십 신형 V3, <em>첫 완전 착수</em> 성공",
+      "body": "스페이스X가 24일 신형 스타십 V3의 두 번째 시험비행에서 상단부 스타십을 사상 처음으로 착수 후에도 완전한 형태로 유지시켰다 — 다만 슈퍼헤비 부스터는 목표 지점에는 도달했지만 '거친' 착수였다는 평가도 나왔다. 지난주 연기로 스페이스X 주가를 상장 후 최저치로 끌어내렸던 바로 그 시험비행의 재도전으로, 팰컨9 상업예약을 사실상 중단하고 스타십에 '올인'한 회사 전략의 성패를 가늠할 시금석이다.",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-starship-flight13-splashdown-2026-07-25",
+      "summary": "이번 시험비행은 스타십/슈퍼헤비 통산 13차 발사이자, 이전보다 크고 강력하게 재설계된 신형 V3 기체로는 두 번째 시험이다. 앞서 날씨·기술적 문제로 발사가 한 차례 연기되면서, 다른 카드에서 다룬 대로 스페이스X 주가가 상장 후 최저치로 밀리는 데 일조한 바로 그 비행이 24일 마침내 이뤄졌다.\n\n결과는 절반의 성공에 가깝다. 상단부 스타십은 착수 후에도 선체가 완전한 형태를 유지한 채 수면 위에 떠 있었고, 탑재 카메라 다수도 계속 작동해 영상을 전송했다 — 스페이스X 시험비행 역사상 처음 있는 일이다. 반면 별도로 착수한 슈퍼헤비 부스터는 목표 지점에는 정확히 도달했지만, 일부 매체는 이를 '거친(hard)' 착수로 묘사했다.\n\n일론 머스크는 X를 통해 이번 비행에서 열차폐 시스템의 성능이 이전 시험 대비 크게 개선됐다고 자평했다. 스페이스X는 앞서 2028년 이후 팰컨9 상업 예약을 사실상 중단하겠다고 밝히며 스타십에 사업의 무게중심을 완전히 옮긴 상태라, 이번 시험 결과는 회사의 장기 전략이 궤도에 오르고 있는지를 보여주는 초기 신호로 받아들여진다.\n\n테슬라 주주 입장에서 스페이스X는 별도 회사지만, 이번 주 다른 카드에서 다룬 대로 머스크의 재산 대부분이 테슬라·스페이스X 두 회사 지분에 묶여 있고 스페이스X는 지난달 상장 이후 주가 변동성이 테슬라와 함께 시장의 관심사가 됐다. 시험 결과가 완전한 성공은 아니었던 만큼, 스페이스X 주가와 머스크의 시장 신뢰 회복 여부는 다음 시험비행까지 지켜볼 대목이다.",
+      "title_en": "SpaceX Starship's 13th test flight — <em>first fully intact splashdown</em> for new V3 design",
+      "hotShort_en": "Starship V3's <em>first intact splashdown</em>",
+      "body_en": "SpaceX's second test flight of its redesigned Starship V3 on July 24 saw the ship's upper stage remain fully intact after splashdown for the first time ever — though the Super Heavy booster hit its target zone with what some outlets called a 'hard' splashdown. The flight was a retry of the very test whose earlier delay had helped drag SpaceX shares to a post-IPO low, and it's an early test of whether the company's all-in bet on Starship — after effectively halting new Falcon 9 commercial bookings past 2028 — is paying off.",
+      "summary_en": "This was Starship/Super Heavy's 13th flight overall, and the second test of the larger, more powerful V3 redesign. The launch had been delayed once over weather and technical issues — the same delay that, as covered elsewhere in this briefing, helped push SpaceX shares to a post-IPO low — before finally flying on July 24.\n\nThe result was a mixed success. Starship's upper stage splashed down with its hull fully intact, still floating with many onboard cameras transmitting video — a first in SpaceX's test-flight history. Separately, the Super Heavy booster hit its target splashdown zone, though some outlets described the landing as 'hard.'\n\nElon Musk said on X that the flight showed a significant improvement in heat-shield performance over prior tests. SpaceX has already said it will effectively stop taking new Falcon 9 commercial bookings past 2028, shifting the company's center of gravity fully onto Starship — making this test an early signal of whether that long-term bet is on track.\n\nFor Tesla shareholders, SpaceX is a separate company, but as covered elsewhere this week, most of Musk's wealth is tied up in Tesla and SpaceX shares together, and SpaceX's stock swings have drawn market attention since last month's IPO. Since the test fell short of a clean full success, whether SpaceX shares — and market confidence in Musk — recover is something to watch heading into the next test flight.",
+      "href": "https://www.nytimes.com/2026/07/24/science/spacex-starship-13th-test-flight.html",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "The New York Times",
+        "Bloomberg",
+        "WSJ",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-07-25T00:45:00.000Z",
+      "title": "머스크의 <em>Boring Company, $20B 밸류에이션</em> 신규 펀딩 추진 — WSJ",
+      "hotShort": "Boring Company <em>$20B 밸류</em> 펀딩 추진",
+      "body": "WSJ 단독 보도에 따르면 일론 머스크의 터널 굴착 스타트업 Boring Company가 약 $4B 규모 신규 펀딩을 추진 중이며, 성사되면 기업가치가 $20B까지 오를 수 있다 — 지난해 9월 마지막 확인된 밸류에이션 $9.6B의 두 배가 넘는 수준이다. 아직 확정된 계약은 아니지만, 라스베이거스 루프에 테슬라 차량을 투입해 운영해 온 머스크 제국의 또 다른 축이 몸값을 키우고 있다는 신호.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "musk-boring-company-20b-valuation-2026-07-25",
+      "summary": "Boring Company는 2018년 스페이스X에서 분사한 터널 굴착 스타트업으로, 라스베이거스 컨벤션센터 지하에 만든 '베이거스 루프'가 대표 사업이다 — 승객을 태워 터널을 오가는 차량으로 테슬라 모델을 활용해 왔다.\n\nWSJ에 따르면 Boring Company는 현재 약 $4B 규모의 신규 펀딩 라운드를 논의 중이며, 라운드가 마무리되면 회사 밸류에이션이 최대 $20B에 이를 수 있다. 이는 지난해 9월 마지막으로 확인됐던 $9.6B 밸류에이션의 두 배를 웃도는 수준이다. 다만 정식 계약서(term sheet) 서명 여부는 확인되지 않았고, 최종 밸류에이션·투자자 명단 등 세부 조건은 아직 유동적이다.\n\n이번 소식은 스페이스X가 지난달 사상 최대 규모로 상장한 직후 나왔다는 점에서 눈길을 끈다. 머스크가 이끄는 비상장 계열사들이 잇따라 몸값을 재평가받는 흐름 속에서, 스페이스X의 성공적 상장이 그룹 내 다른 회사들의 자금 조달에도 훈풍으로 작용하는 모양새다.\n\n테슬라 주주에게 이 소식은 직접적인 재무 영향은 없지만, 머스크가 이끄는 여러 회사들의 밸류에이션이 서로 연동되는 흐름 속에서 테슬라·스페이스X 동반 조정을 다룬 다른 카드들과 함께 볼 만한 맥락이다.",
+      "title_en": "Musk's <em>Boring Company eyes $20B valuation</em> in new funding round — WSJ",
+      "hotShort_en": "Boring Co. <em>eyes $20B</em> in new funding",
+      "body_en": "Elon Musk's tunneling startup, the Boring Company, is pursuing a roughly $4B funding round that could value it at up to $20B — more than double its last confirmed valuation of $9.6B from September, WSJ reports exclusively. Nothing is finalized yet, but it's another sign that a Musk-led venture is seeing its valuation rise, this one built around running Tesla vehicles through its Las Vegas tunnel loop.",
+      "summary_en": "The Boring Company, spun off from SpaceX in 2018, is best known for the Vegas Loop — a tunnel system beneath the Las Vegas Convention Center that ferries passengers using Tesla vehicles.\n\nAccording to WSJ, the company is currently in talks for a roughly $4B funding round that, if completed, could value it at up to $20B — more than double the $9.6B valuation last confirmed in September. Whether a term sheet has been signed remains unclear, and details like the final valuation and investor lineup are still fluid.\n\nThe report lands notably soon after SpaceX's record-setting IPO last month. As Musk's private ventures see fresh valuation attention, SpaceX's successful listing appears to be creating tailwinds for fundraising across the rest of his corporate group.\n\nFor Tesla shareholders, this doesn't move Tesla's own financials directly, but it's worth reading alongside other cards in this briefing covering the joint Tesla-SpaceX selloff, given how intertwined the valuations of Musk's companies have become.",
+      "href": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -130,47 +177,7 @@
       ],
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-24T09:52:00.000Z",
-      "title": "머스크 순자산, SpaceX 상장 정점 대비 5주 만에 <em>최대 $700B 증발</em>",
-      "hotShort": "머스크 순자산 5주새 <em>최대 $700B 증발</em>",
-      "body": "SpaceX 상장 직후인 6월16일 약 $1.45조로 정점을 찍었던 머스크의 순자산이 7월23일 종가 기준 블룸버그 억만장자지수로 $738B — 5주 만에 최대 $700B가 증발했다. 테슬라·스페이스X 지분가치 동반 조정이 직접 원인으로, 그의 재산 대부분이 두 회사 주가에 묶여 있다는 뜻이기도 하다.",
-      "sourceName": "Bloomberg Billionaires Index",
-      "sourceLabel": "press",
-      "slug": "musk-net-worth-650b-5week-drop-2026-07-24",
-      "summary": "6월12일 스페이스X가 사상 최대 규모로 상장한 뒤 사흘 만인 6월16일, 스페이스X 시가총액은 사상 최고치인 $2.64조까지 치솟았고 머스크의 지분 평가액도 약 $1.45조로 정점을 찍었다.\n\n이후 상황은 반전됐다. 테슬라는 7월22일 발표한 2분기 실적이 AI 투자 확대 여파로 컨센서스를 하회하며 이튿날 주가가 급락했고(다른 카드에서 다룬 공매도 $4B 수익·목표주가 하향 참고), 스페이스X 역시 상장 직후 형성됐던 고평가가 이후 눈높이 조정을 받았다.\n\n그 결과 블룸버그 억만장자지수 기준 머스크의 순자산은 7월23일 종가 기준 $738B로, 정점 대비 $650B~700B가 사라졌다. 다만 연초 대비로는 오히려 +$118B 늘어난 수치이기도 하다 — 이번 하락은 6월 한때 형성됐던 일시적 고점이 꺼진 것에 가깝다.\n\n주주 입장에서 이 수치 자체가 테슬라 펀더멘털을 바꾸진 않지만, 머스크의 부(富)가 테슬라·스페이스X 두 회사 지분에 거의 전부 묶여 있다는 구조를 보여준다 — 그는 테슬라 지분 약 11%를 보유 중이며, 이번 손실도 장부상 평가액일 뿐 지분을 매도한 것은 아니다. 여전히 세계 1위 부호 자리는 2위와 $650B 격차로 유지하고 있다.",
-      "title_en": "Musk's net worth <em>plunges up to $700B</em> in 5 weeks from SpaceX-IPO peak",
-      "hotShort_en": "Musk net worth <em>down as much as $700B</em> in 5 weeks",
-      "body_en": "Musk's paper fortune peaked near $1.45T on June 16, days after SpaceX's record-setting IPO, but had fallen to $738B by the July 23 close per the Bloomberg Billionaires Index — a swing of up to $700B in five weeks. The drop tracks a joint pullback in Tesla and SpaceX valuations, underscoring how concentrated his wealth is in the two companies' shares.",
-      "summary_en": "Three days after SpaceX's record IPO on June 12, the company's market cap hit an all-time high of $2.64T on June 16, and Musk's paper wealth peaked near $1.45T alongside it.\n\nThe reversal came fast. Tesla's Q2 earnings, released July 22, missed consensus as AI spending weighed on margins, and shares tumbled the next day (see the $4B short-seller windfall and analyst price-target cuts covered elsewhere in this briefing). SpaceX's post-IPO valuation has also cooled from its initial highs.\n\nAs a result, the Bloomberg Billionaires Index pegged Musk's net worth at $738B at the July 23 close — down $650B to $700B from the peak. Year-to-date, though, he's still up $118B; the swing looks more like a brief June spike deflating than a new decline.\n\nThe number itself doesn't change Tesla's fundamentals, but it does illustrate how much of Musk's wealth rides on just two stocks — he holds roughly an 11% Tesla stake, and this is a mark-to-market paper loss, not a sale of shares. He remains the world's richest person by a wide margin, about $650B ahead of second place.",
-      "href": "https://www.bloomberg.com/billionaires/profiles/elon-r-musk/",
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-07-23T18:04:36.000Z",
-      "title": "테슬라 실적 후 급락 — 공매도 세력 <em>$4B 수익</em>",
-      "hotShort": "테슬라 급락에 공매도 세력 <em>$4B 수익</em>",
-      "body": "2분기 실적 부진으로 테슬라 주가가 장중 한때 15%까지 급락하며 1년래 최대 낙폭을 기록한 가운데, 블룸버그는 이 급락으로 공매도 세력이 약 $4B의 평가이익을 거뒀다고 분석했다 — 실적 발표 전 이미 테슬라 숏 포지션은 3월 대비 33% 늘어난 약 8000만주까지 불어나 있었다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "stock-short-sellers-4b-profit-2026-07-23",
-      "summary": "22일 장 마감 후 발표된 2분기 실적이 EPS 컨센서스를 크게 밑돌면서, 다음 거래일인 23일 테슬라 주가는 장중 한때 15%까지 밀리며 1년여 만에 최대 낙폭을 기록했다. 블룸버그는 이 하루 동안의 급락이 테슬라 공매도 세력에게 대규모 평가이익을 안겼다고 짚었다 — 그 규모는 약 $4B로 추산됐다.\n\n조정 EPS는 $0.33로 시장 예상($0.50)을 크게 하회했고, 평균판매가 하락·규제크레딧 매출 감소·AI 투자 확대에 따른 비용 증가가 겹친 결과였다. 이는 이미 이번 주 다른 카드에서 다룬 실적 부진의 연장선이다.\n\n이번 급락 전부터 테슬라를 둘러싼 공매도 심리는 이미 고조돼 있었다. 테슬라 숏 포지션(공매도 잔고)은 3월 이후 33% 늘어난 약 8000만주까지 불어났고, 커버(청산)에 필요한 일수(days to cover)를 나타내는 지표는 1.75일로 2021년 이후 최고치를 기록했다.\n\n주주 입장에서는 두 가지를 함께 봐야 한다 — 실적 미스 자체의 펀더멘털 영향과, 이미 커진 공매도 포지션이 향후 반등 시 숏커버링 랠리로 이어질 수 있는 변동성 요인이라는 점이다. 월가 주요 IB들이 목표주가는 낮추면서도 매수 등급 상당수를 유지한 것과는 대조적으로, 시장 일각의 단기 베팅은 오히려 하락 쪽에 크게 쏠려 있었던 셈이다.",
-      "title_en": "Tesla short sellers mint <em>$4B profit</em> as shares plunge on earnings miss",
-      "hotShort_en": "Short sellers <em>rake in $4B</em> as Tesla craters",
-      "body_en": "Tesla shares plunged as much as 15% intraday on Thursday — their worst one-day drop in more than a year — after a disappointing Q2 report, and Bloomberg estimates the slide handed short sellers roughly $4B in paper profits. Short interest had already climbed 33% since March to nearly 80 million shares heading into earnings.",
-      "summary_en": "Tesla's Q2 results, released after Wednesday's close, missed EPS consensus by a wide margin, and shares tumbled as much as 15% intraday the next trading day — the steepest single-day drop in more than a year. Bloomberg reported the rout handed Tesla short sellers an estimated $4B in paper gains.\n\nAdjusted EPS came in at $0.33, well below the $0.50 consensus, as lower average selling prices, shrinking regulatory-credit revenue, and heavier AI spending squeezed margins — an extension of the earnings miss covered elsewhere in this briefing.\n\nBearish positioning had already been building before the drop. Tesla's short interest rose 33% since March to nearly 80 million shares, and the days-to-cover ratio — a gauge of how long it would take shorts to unwind — climbed to 1.75 days, its highest level since 2021.\n\nFor shareholders, two things are worth watching together: the fundamental hit from the earnings miss itself, and the risk that such a crowded short position could fuel a sharp short-covering rally if sentiment turns. That contrasts with Wall Street's major banks, which cut price targets but mostly kept Buy ratings intact — short-term traders, it seems, were positioned far more bearishly than the analysts.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive",
-      "sentiment": "bear",
-      "hot": 7
     }
   ],
-  "asOf": "2026-07-25 08:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-25 14:05 KST 자동 갱신 · 최신순"
 }
