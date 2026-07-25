@@ -97,6 +97,26 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
+      "time": "22h ago",
+      "pubDate": "2026-07-24T16:32:04.000Z",
+      "title": "월가 “테슬라 저가매수 논리 흔들려” — 오펜하이머 <em>“투자한 만큼 성과 안 나와”</em>",
+      "hotShort": "월가, 테슬라 <em>저가매수 매력</em> 갈수록 시들",
+      "body": "테슬라 주가가 2분기 실적 발표 후 하루 만에 14.5% 급락한 가운데, 오펜하이머·캐너코드 등 월가 애널리스트들이 마진 정체와 마이너스 현금흐름을 근거로 '저가매수' 논리에 회의를 표했다 — 실적 서프라이즈에도 장기 성장 스토리에 대한 신뢰가 흔들리고 있다는 신호.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "stock-buy-dip-case-fades-2026-07-24",
+      "summary": "22일 장 마감 후 발표된 2분기 실적이 시장 예상을 밑돌자, 23일 테슬라 주가는 하루 만에 14.5% 급락해 $319.69로 마감했다. CNBC에 따르면 이번 낙폭을 계기로 월가 일부 애널리스트들 사이에서 '저가매수(buy the dip)' 논리 자체에 대한 회의론이 번지고 있다.\n\n오펜하이머의 콜린 러시 애널리스트는 \"테슬라가 지난 5~6년간 칩 등 물리적 AI 전환에 상당한 기술 투자를 해왔지만, 그 성과가 아직 나타나지 않고 있다\"고 지적했다. 마진 정체와 장기 투자로 인한 마이너스 잉여현금흐름, 그리고 시점을 가늠하기 어려운 로보택시·옵티머스 등 '돌파구' 약속들이 근거로 꼽혔다.\n\n테슬라에 매수 등급을 유지하고 있는 캐너코드 제뉴이티의 조지 지아나리카스 애널리스트조차 \"강세론을 펴기가 점점 어려워지고 있다\"고 인정했다 — 등급은 유지하되 확신은 약해지는 모습이다.\n\n이는 22일 실적 이후 JP모건·캔터 피츠제럴드·트루이스트 등이 목표주가를 일제히 낮춘 흐름과 같은 맥락으로, 단기 숫자보다 로보택시·AI 투자의 장기 성과 가시성이 관건이라는 점을 재확인시킨다.",
+      "title_en": "Wall Street’s <em>“buy the dip” case for Tesla</em> starts to crack",
+      "hotShort_en": "Wall St’s <em>Tesla dip-buy case</em> loses steam",
+      "body_en": "Tesla shares sank 14.5% in a single day after Q2 earnings missed profit estimates, and Wall Street analysts are now questioning whether the stock is still a buy-the-dip opportunity — a sign that conviction in the long-term growth story is wavering even after the revenue beat.",
+      "summary_en": "Tesla stock tumbled 14.5% to close at $319.69 on July 23, the day after its second-quarter earnings missed profit estimates. According to CNBC, the drop has fueled growing skepticism among some Wall Street analysts about the long-standing \"buy the dip\" thesis on the stock.\n\nOppenheimer analyst Colin Rusch said Tesla \"made some pretty substantial technology investments over the last five or six years around chips and other elements that are going into this shift into physical AI, but the results just aren't there.\" He pointed to stagnant margins and negative free cash flow tied to those long-term bets.\n\nEven Canaccord Genuity's George Gianarikas, who still rates Tesla a Buy, acknowledged that \"the bullish case is getting harder to make\" — keeping the rating while conviction softens.\n\nThe commentary echoes this week's wave of price-target cuts from JPMorgan, Cantor Fitzgerald and Truist following the Q2 report, reinforcing that near-term numbers matter less than visibility into when robotaxi and AI investments will actually pay off.",
+      "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html",
+      "sentiment": "bear",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
       "pubDate": "2026-07-24T15:39:12.000Z",
       "title": "테슬라, 정체불명 <em>$2B AI 하드웨어 인수</em> 조용히 종료",
@@ -159,32 +179,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-24T11:30:00.000Z",
-      "title": "캐시 우드의 ARK, 테슬라 급락 틈타 <em>$51.2M 저가매수</em>",
-      "hotShort": "ARK, 테슬라 급락에 <em>$51.2M 베팅</em>",
-      "body": "테슬라 주가가 2분기 실적 발표 후 14.5% 급락한 23일, 캐시 우드의 ARK 인베스트가 ARKK·ARKQ·ARKW·ARKX 4개 ETF를 통해 테슬라 주식 16만151주(약 $51.2M)를 사들였다 — 우드 특유의 '역발상 저가매수'가 이번에도 등장했다.",
-      "sourceName": "TipRanks",
-      "sourceLabel": "press",
-      "slug": "stock-ark-buys-tesla-dip-2026-07-24",
-      "summary": "23일 테슬라 주가는 전날 발표된 2분기 실적의 EPS 컨센서스 하회와 capex 부담이 겹치며 종가 기준 14.5% 급락했다 — 최근 1년 새 최대 하락폭이다. 이 급락 당일, 캐시 우드가 이끄는 ARK 인베스트는 정반대 베팅에 나섰다.\n\nARK의 일일 거래 공시에 따르면, ARK는 대표 펀드 ARK 이노베이션(ARKK)을 비롯해 ARK 오토노머스 테크놀로지&로보틱스(ARKQ), ARK 넥스트 제너레이션 인터넷(ARKW), ARK 스페이스&디펜스 이노베이션(ARKX) 등 4개 ETF를 동원해 테슬라 주식 총 16만151주, 약 $51.2M어치를 매수했다. TipRanks는 이를 \"실적 발표 후 급락에 나선 $52M 베팅\"으로 요약했다.\n\n우드는 그간 테슬라 주가가 급락할 때마다 저가매수에 나서는 패턴을 반복해왔다 — 지난 7월2일에도 하루 낙폭 7.49%를 틈타 약 $38.1M어치를 사들인 바 있어, 이번이 올해 들어 두 번째 대규모 매수다. 다만 이는 ARK 펀드들의 포트폴리오 조정일 뿐, 향후 주가 방향을 보장하지는 않는다.\n\n주주 입장에서 이 매수 자체가 펀더멘털을 바꾸진 않지만, 같은 급락으로 공매도 세력이 $4B 수익을 낸 것과 대비되는 반대 베팅이라는 점에서 시장 심리가 완전히 한쪽으로 쏠려 있지는 않다는 신호로 볼 수 있다.",
-      "title_en": "Cathie Wood's Ark buys the <em>$51.2M dip</em> in Tesla after earnings selloff",
-      "hotShort_en": "Ark bets <em>$51.2M</em> on the Tesla dip",
-      "body_en": "As Tesla shares sank 14.5% on Thursday following a Q2 earnings miss, Cathie Wood's Ark Invest bought 160,151 Tesla shares (~$51.2M) across four ETFs — ARKK, ARKQ, ARKW and ARKX — in her signature contrarian buy-the-dip move.",
-      "summary_en": "Tesla shares closed down 14.5% on Thursday — their worst one-day drop in more than a year — after Wednesday's Q2 report missed EPS estimates and flagged heavy capex. On the same day, Cathie Wood's Ark Invest made the opposite bet.\n\nPer Ark's daily trade disclosures, the firm bought a combined 160,151 Tesla shares — worth roughly $51.2M — across four ETFs: the flagship ARK Innovation ETF (ARKK), ARK Autonomous Technology & Robotics ETF (ARKQ), ARK Next Generation Internet ETF (ARKW), and ARK Space & Defense Innovation ETF (ARKX). TipRanks summed it up as a '$52M bet after the post-earnings selloff.'\n\nThis is a familiar pattern for Wood, who has repeatedly bought Tesla dips — including roughly $38.1M on July 2, when shares fell 7.49% in a single day. It's her second large Tesla purchase this year, though it reflects Ark's own portfolio moves rather than a guarantee of where the stock heads next.\n\nThe purchase alone doesn't change Tesla's fundamentals, but set against the same selloff handing short sellers an estimated $4B in paper gains, it's a sign market sentiment isn't entirely one-sided.",
-      "href": "https://www.tipranks.com/news/cathie-wood-makes-52m-tesla-bet-after-post-earnings-selloff",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "TipRanks",
-        "Benzinga"
-      ],
-      "sentiment": "bull",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-25 16:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-26 00:06 KST 자동 갱신 · 최신순"
 }

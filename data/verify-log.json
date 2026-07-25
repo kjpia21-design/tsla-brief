@@ -519,6 +519,25 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-25T15:10:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "stock-buy-dip-case-fades-2026-07-24",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) confirmed correct for CNBC",
+            "no advisory tone, analyst skepticism properly attributed as opinion",
+            "14.5% drop / $319.69 close / July 23 date corroborated across multiple secondary sources",
+            "Rusch and Gianarikas quotes match verbatim across sources",
+            "href topically matches card content"
+          ]
+        }
+      ]
     }
   ]
 }
