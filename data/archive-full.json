@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-25 22:59 UTC · 누적 682건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-26 03:31 UTC · 누적 683건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "product",
@@ -550,6 +550,32 @@
         "CNBC"
       ],
       "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "",
+      "pubDate": "2026-07-23T01:02:31.000Z",
+      "title": "테슬라 FSD, 유럽 5개국 승인 — 누적 <em>5000만km 주행</em> 돌파",
+      "hotShort": "FSD 유럽 5개국서 <em>5000만km</em> 돌파",
+      "body": "테슬라 FSD(감독형)가 네덜란드에 이어 리투아니아·에스토니아·덴마크·벨기에까지 승인받아, 이들 5개국 고객이 FSD로 주행한 누적 거리가 5000만km(3100만마일)를 돌파했다고 2분기 10-Q에서 밝혔다 — 프랑스가 같은 달 승인을 보류한 것과 대비되는 성과다.",
+      "sourceName": "SEC · Tesla 10-Q",
+      "sourceLabel": "sec",
+      "slug": "fsd-eu-50m-km-5-countries-2026-07-23",
+      "summary": "테슬라가 22~23일 공시한 2분기 10-Q에서 FSD(감독형)의 유럽 승인 현황을 공개했다. 네덜란드 승인을 기반으로 리투아니아·에스토니아·덴마크·벨기에까지 잇달아 승인이 이뤄지며, 이들 5개국 고객이 FSD로 주행한 누적 거리가 5000만km(3100만마일)를 넘어섰다고 밝혔다.\n\n유럽 각국의 승인은 올해 4월 네덜란드를 시작으로 리투아니아(5월)·에스토니아(5월)·덴마크(6월)·벨기에(6월) 순으로 이어졌다 — 유럽교통안전위원회(ETSC) 등에 따르면 리투아니아·에스토니아는 네덜란드 인증을 그대로 인정하는 방식으로, 덴마크·벨기에는 자체 기술 검토를 거쳐 각각 승인했다.\n\n이 발표는 프랑스가 이달 22일 FSD 승인을 보류하며 머스크와 정면 충돌한 지 사흘 만에 나왔다(본지 다른 카드 참고) — 유럽 내 규제 대응이 국가별로 극명하게 갈리는 가운데, 테슬라는 승인받은 국가들의 누적 주행거리를 앞세워 안전성과 확산세를 부각하는 모양새다.\n\n2분기 10-Q는 FSD 구독 전환이 서비스 매출 성장을 견인하고 있다고도 밝혔다 — 북미 신규 인도 차량의 55% 이상이 FSD 구독을 포함해 역대 최고 부착률을 기록했다(본지 다른 카드 참고). 유럽 승인 확대가 이 성장세를 해외로 이어갈 수 있을지가 다음 관전 포인트다.",
+      "title_en": "Tesla FSD tops <em>50M km driven</em> across 5 EU countries — even as France stalls",
+      "hotShort_en": "FSD hits <em>50M km</em> across 5 EU nations",
+      "body_en": "Tesla's Q2 10-Q disclosed that FSD (Supervised) — approved in the Netherlands, then Lithuania, Estonia, Denmark and Belgium — has now logged over 50 million km (31 million miles) of cumulative driving across those five countries, a contrast to France's approval holdout this month.",
+      "summary_en": "Tesla's Q2 2026 10-Q, filed July 22–23, disclosed the state of FSD (Supervised)'s European rollout: building on its Netherlands approval, the system has since been cleared in Lithuania, Estonia, Denmark and Belgium, with customers across those five countries now having driven a combined 50 million km (31 million miles) on FSD.\n\nThe approvals rolled out in sequence starting with the Netherlands in April, followed by Lithuania and Estonia in May and Denmark and Belgium in June — according to the European Transport Safety Council (ETSC), Lithuania and Estonia recognized the Dutch certification directly, while Denmark and Belgium each conducted their own technical review before signing off.\n\nThe disclosure comes just days after France stalled Tesla's FSD approval on July 22, clashing publicly with Musk (see our related coverage) — as European regulators diverge sharply by country, Tesla is leaning on the cumulative mileage from approved markets to make its safety and momentum case.\n\nThe same 10-Q noted that FSD subscription conversion is driving service-revenue growth, with more than 55% of new North American deliveries now including an FSD subscription — a record attach rate (see related coverage). Whether the European approval wave can extend that growth trajectory abroad is the next thing to watch.",
+      "href": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/0001628280-26-049270-index.htm",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrive",
+        "EVwire",
+        "Not a Tesla App"
+      ],
+      "sentiment": "bull",
       "hot": 6
     },
     {
