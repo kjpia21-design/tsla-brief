@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-07-26 21:03 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-26 21:34 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "22m ago",
+      "time": "53m ago",
       "pubDate": "2026-07-26T20:41:32.000Z",
       "title": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions",
       "body": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions Teslarati",
@@ -30,7 +30,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-26T18:59:57.000Z",
       "title": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions",
       "body": "Tesla is adding a new “Traction Control Modes” feature to its cars for better handling in any conditions. These features will roll out to the Model 3 and Model Y, the two vehicles in Tesla’s lineup that typically do not …",
@@ -43,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-26T16:01:00.000Z",
       "title": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
       "body": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How. Barron's",
@@ -56,7 +56,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-26T01:38:12.000Z",
       "title": "Tesla Model S Weight Distribution",
       "body": "Tesla Model S Weight Distribution Teslarati",
@@ -69,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-07-25T10:00:00.000Z",
       "title": "What’s News in Markets: AI’s Price Tag, Elon Musk’s Reality Check, a Fast Track to Trump Posts",
       "body": "What’s News in Markets: AI’s Price Tag, Elon Musk’s Reality Check, a Fast Track to Trump Posts WSJ",
@@ -104,19 +104,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-07-24/waymo-explores-exit-from-uber-robotaxi-partnership-ft-says"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-24T21:21:12.000Z",
-      "title": "Stock Movers: Super Micro, Tesla, Tenet Healthcare",
-      "body": "Stock Movers: Super Micro, Tesla, Tenet Healthcare Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-super-micro-tesla-tenet-healthcare-podcast"
     },
     {
       "category": "fsd",
@@ -221,6 +208,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/technology/tesla-alphabet-spook-investors-earnings-season-kicks-off-2026-07-24/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3d ago",
+      "pubDate": "2026-07-23T20:28:30.000Z",
+      "title": "Tesla Short Sellers Rake In $4 Billion as Shares Nosedive",
+      "body": "Tesla Short Sellers Rake In $4 Billion as Shares Nosedive Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive"
     },
     {
       "category": "fsd",
