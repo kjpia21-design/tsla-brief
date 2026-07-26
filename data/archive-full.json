@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-26 15:10 UTC · 누적 683건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-26 17:08 UTC · 누적 684건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "product",
@@ -362,6 +362,32 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive",
       "sentiment": "bear",
       "hot": 7
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-07-23T18:00:00.000Z",
+      "title": "테슬라 로보택시, 벌써 <em>차세대 FSD v15</em> 초기 빌드로 실주행",
+      "hotShort": "로보택시, <em>FSD v15</em> 초기 빌드 이미 실주행",
+      "body": "테슬라 AI 소프트웨어 부사장 아쇽 엘루스와미가 2분기 실적콜에서 로보택시 차량 일부가 이미 차세대 FSD v15 초기 빌드로 운행 중이라고 밝혔다 — 계획된 개선 트랙 7개 중 40%가 이미 병합됐다. 완전자율의 다음 세대 두뇌가 예상보다 앞서 실전 검증대에 오른 신호다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-v15-robotaxi-early-deployment-2026-07-23",
+      "summary": "2분기 실적콜에서 나온 발언 중 FSD 로드맵 관련 대목이 뒤늦게 주목받고 있다. 아쇽 엘루스와미 테슬라 AI 소프트웨어 부사장은 애널리스트 질의에 답하며, 텍사스·플로리다에서 무감독으로 운행 중인 로보택시 차량 일부가 이미 차세대 FSD v15의 초기 빌드를 탑재하고 있다고 확인했다.\n\n엘루스와미는 v15에 계획된 7개 주요 개선 트랙 중 \"40%가 이미 병합됐다\"고 밝혔다. 내부 벤치마크 목표도 순조롭게 달성 중이라고 덧붙였다 — 아직 완성형은 아니지만, 실차 검증 단계에 이미 들어갔다는 의미다.\n\nFSD v15는 신경망 파라미터 규모를 기존 대비 약 10배로 늘리는 것으로 알려져 있다 — 판단력·주행 매끄러움의 질적 도약을 노린 세대교체다. 정식 고객 차량 출시는 올해 말에서 내년 초로 예상된다.\n\n로보택시는 무감독 누적 38만 마일 무사고 기록(본지 다른 카드 참고)에 이어, 확장 속도 둔화 논란까지 겹치며 이번 실적콜의 최대 관전 포인트였다. FSD v15 조기 실전 투입은 회의론에 맞서는 또 하나의 근거로 회사 측이 내세우는 모양새다.",
+      "title_en": "Tesla Robotaxi already road-testing <em>next-gen FSD v15</em> builds",
+      "hotShort_en": "Robotaxi already running early <em>FSD v15</em>",
+      "body_en": "Tesla AI software VP Ashok Elluswamy said on the Q2 earnings call that some Robotaxi vehicles are already running early builds of next-gen FSD v15 — with 40% of the seven planned improvement tracks already merged. It's an early sign the next-generation autonomy stack is being road-tested ahead of schedule.",
+      "summary_en": "A detail from Tesla's Q2 earnings call is drawing fresh attention: Ashok Elluswamy, Tesla's VP of AI software, confirmed in response to an analyst question that some Robotaxi vehicles currently running driverless in Texas and Florida are already using early builds of the next-generation FSD v15 stack.\n\nElluswamy said \"40%\" of the seven planned improvement tracks are \"already merged\" into the early V15 builds running on Robotaxi, adding that internal benchmarks are hitting their targets. It's not the finished version, but real-world testing has already begun.\n\nFSD v15 is reported to scale the neural network roughly 10x versus current builds — a generational leap aimed at sharper judgment and smoother driving. A public rollout to customer vehicles is expected late this year or early next.\n\nThe disclosure adds to a mixed picture from the call: Robotaxi also passed 380,000 unsupervised miles with zero notable incidents (see related story), even as executives struck a more guarded tone on expansion pace than a year ago. Tesla appears to be leaning on the early V15 deployment as a counter to skepticism about the program's trajectory.",
+      "href": "https://www.notateslaapp.com/news/4484/tesla-robotaxis-are-already-running-fsd-v15",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "autoevolution",
+        "Investing.com"
+      ],
+      "sentiment": "bull",
+      "hot": 6
     },
     {
       "category": "fsd",

@@ -1,11 +1,24 @@
 {
-  "asOf": "2026-07-26 15:10 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-26 17:08 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-26T16:01:00.000Z",
+      "title": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
+      "body": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-build-your-own-model-s-or-x-elon-musk-fbb23f65"
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
-      "pubDate": "2026-07-25T20:59:34.000Z",
+      "time": "12h ago",
+      "pubDate": "2026-07-26T04:54:53.000Z",
       "title": "Tesla to open source Model S and Model X designs and software",
       "body": "Tesla to open source Model S and Model X designs and software Teslarati",
       "sourceName": "Teslarati",
@@ -15,9 +28,35 @@
       "href": "https://www.teslarati.com/tesla-open-source-model-s-and-model-x-designs-software/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "16h ago",
+      "pubDate": "2026-07-26T01:38:12.000Z",
+      "title": "Tesla Model S Weight Distribution",
+      "body": "Tesla Model S Weight Distribution Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-model-s-weight/"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20h ago",
+      "time": "17h ago",
+      "pubDate": "2026-07-26T00:33:30.000Z",
+      "title": "Tesla flexes incredible Robotaxi metric that skeptics will hate",
+      "body": "Tesla flexes incredible Robotaxi metric that skeptics will hate Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-flexes-incredible-robotaxi-metric-that-skeptics-will-hate/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "22h ago",
       "pubDate": "2026-07-25T19:33:57.000Z",
       "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
       "body": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla InsideEVs",
@@ -80,19 +119,6 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-launches-major-starship-flight-test-in-post-ipo-spotlight"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-25T00:18:00.000Z",
-      "title": "SpaceX Launches Another Starship, and This Time the Market Is Watching",
-      "body": "SpaceX Launches Another Starship, and This Time the Market Is Watching WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/tech/spacex-launches-another-starship-and-this-time-the-market-is-watching-e76b9d43"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "2d ago",
@@ -117,6 +143,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-super-micro-tesla-tenet-healthcare-podcast"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-07-24T20:16:00.000Z",
+      "title": "Cathie Wood Is Doubling Down on Tesla Again. Why She’s Buying When Everyone Else Is Selling.",
+      "body": "Cathie Wood Is Doubling Down on Tesla Again. Why She’s Buying When Everyone Else Is Selling. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-cathie-wood-ark-d81fdb3e"
     },
     {
       "category": "fsd",
@@ -171,34 +210,8 @@
       "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-07-24T16:32:04.000Z",
-      "title": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
-      "body": "Buy the dip case for Tesla diminishes due to stagnating fundamentals CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2d ago",
-      "pubDate": "2026-07-24T15:21:26.000Z",
-      "title": "US agency rejects petition seeking Tesla door-release defect probe",
-      "body": "US agency rejects petition seeking Tesla door-release defect probe Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
       "time": "2d ago",
       "pubDate": "2026-07-24T15:21:26.000Z",
       "title": "US agency rejects petition seeking Tesla door-release defect probe",
@@ -221,19 +234,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/07/24/michael-burrys-short-bets-on-tesla-caterpillar-pay-off-in-big-july-pullback.html"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3d ago",
-      "pubDate": "2026-07-23T23:24:24.000Z",
-      "title": "US to Begin Work on New Car Door Safety Rules After Deaths in Teslas",
-      "body": "US to Begin Work on New Car Door Safety Rules After Deaths in Teslas Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-23/us-will-strengthen-regulations-for-car-doors-handles-after-tesla-deaths"
     },
     {
       "category": "stock",
