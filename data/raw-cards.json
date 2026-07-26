@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-07-26 10:05 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-26 13:40 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "17h ago",
+      "pubDate": "2026-07-25T20:59:34.000Z",
+      "title": "Tesla to open source Model S and Model X designs and software",
+      "body": "Tesla to open source Model S and Model X designs and software Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-open-source-model-s-and-model-x-designs-software/"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-25T20:48:35.000Z",
       "title": "Asian parents like to know if they can distill their kids to become a Fields Medalist. But in reality, a true genius …",
       "body": "Asian parents like to know if they can distill their kids to become a Fields Medalist. But in reality, a true genius is not born from distillation but from self-synthesizing many solutions to the same questions that peop…",
@@ -17,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "13h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-25T20:37:55.000Z",
       "title": "The most powerful moving object ever created by humans",
       "body": "The most powerful moving object ever created by humans https://t.co/p5D3yldNg6",
@@ -30,7 +43,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-25T20:00:32.000Z",
       "title": "A hero is like a star, born from entropy, molded by violent force, and eventually shining so bright that its radiated…",
       "body": "A hero is like a star, born from entropy, molded by violent force, and eventually shining so bright that its radiated wind blew through a hole in the nebulous cloud. That cascaded wind then inspired more stars to be born…",
@@ -39,84 +52,6 @@
       "slug": "",
       "summary": "",
       "href": "https://x.com/yunta_tsai/status/2081107351827017967"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "15h ago",
-      "pubDate": "2026-07-25T19:26:19.000Z",
-      "title": "beautiful engineering",
-      "body": "beautiful engineering https://t.co/Z5xp3ButAK",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2081098739104571671"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "15h ago",
-      "pubDate": "2026-07-25T19:22:11.000Z",
-      "title": "Real photo of Starship taken by Starlink satellites",
-      "body": "Real photo of Starship taken by Starlink satellites https://t.co/lPl0nKTLYt",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2081097702624952714"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
-      "pubDate": "2026-07-25T18:28:10.000Z",
-      "title": "Supervising a kid’s math homework is like repeatedly prompting a model that easily overclaims with “Is it true?” and …",
-      "body": "Supervising a kid’s math homework is like repeatedly prompting a model that easily overclaims with “Is it true?” and “Please explain.”",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2081084105991807250"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
-      "pubDate": "2026-07-25T17:57:43.000Z",
-      "title": "New Tesla Supercharger: Hagerstown, MD - French Lane (12 stalls)",
-      "body": "New Tesla Supercharger: Hagerstown, MD - French Lane (12 stalls) https://t.co/ddgZP0Eo78 https://t.co/46nD4BTKt3",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2081076442633572803"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-07-25T17:25:20.000Z",
-      "title": "Entropy is real and takes energy to change. Thus, while attempting to change entropy, one must acknowledge its existe…",
-      "body": "Entropy is real and takes energy to change. Thus, while attempting to change entropy, one must acknowledge its existence, embrace it, and be willing to inject one's own energy to shape it.",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2081068294849872354"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
-      "pubDate": "2026-07-25T15:59:34.000Z",
-      "title": "Tesla to open source Model S and Model X designs and software",
-      "body": "Tesla to open source Model S and Model X designs and software Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-open-source-model-s-and-model-x-designs-software/"
     },
     {
       "category": "musk",
@@ -145,17 +80,30 @@
       "href": "https://www.bloomberg.com/news/newsletters/2026-07-24/spacex-stock-drop-seen-as-a-verdict-on-ai-evening-briefing-americas"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "2d ago",
-      "pubDate": "2026-07-24T22:29:38.000Z",
-      "title": "Waymo Plans End of Uber Robotaxi Tie-Up, Stepping Up Rivalry",
-      "body": "Waymo Plans End of Uber Robotaxi Tie-Up, Stepping Up Rivalry Bloomberg.com",
+      "pubDate": "2026-07-25T00:45:00.000Z",
+      "title": "Exclusive | Elon Musk’s Boring Company Eyes $20 Billion Valuation in New Funding Round",
+      "body": "Exclusive | Elon Musk’s Boring Company Eyes $20 Billion Valuation in New Funding Round WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2d ago",
+      "pubDate": "2026-07-25T00:26:00.000Z",
+      "title": "SpaceX Launches Major Starship Test in Post-IPO Spotlight",
+      "body": "SpaceX Launches Major Starship Test in Post-IPO Spotlight Bloomberg.com",
       "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-24/waymo-explores-exit-from-uber-robotaxi-partnership-ft-says"
+      "href": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-launches-major-starship-flight-test-in-post-ipo-spotlight"
     },
     {
       "category": "stock",
@@ -169,6 +117,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-super-micro-tesla-tenet-healthcare-podcast"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-07-24T19:15:14.000Z",
+      "title": "Waymo explores split with Uber as robotaxi tensions deepen",
+      "body": "Waymo explores split with Uber as robotaxi tensions deepen Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6"
     },
     {
       "category": "stock",
@@ -210,8 +171,34 @@
       "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-07-24T16:32:04.000Z",
+      "title": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
+      "body": "Buy the dip case for Tesla diminishes due to stagnating fundamentals CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2d ago",
+      "pubDate": "2026-07-24T15:21:26.000Z",
+      "title": "US agency rejects petition seeking Tesla door-release defect probe",
+      "body": "US agency rejects petition seeking Tesla door-release defect probe Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "2d ago",
       "pubDate": "2026-07-24T15:21:26.000Z",
       "title": "US agency rejects petition seeking Tesla door-release defect probe",
@@ -236,9 +223,22 @@
       "href": "https://www.cnbc.com/2026/07/24/michael-burrys-short-bets-on-tesla-caterpillar-pay-off-in-big-july-pullback.html"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3d ago",
+      "pubDate": "2026-07-23T23:24:24.000Z",
+      "title": "US to Begin Work on New Car Door Safety Rules After Deaths in Teslas",
+      "body": "US to Begin Work on New Car Door Safety Rules After Deaths in Teslas Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-23/us-will-strengthen-regulations-for-car-doors-handles-after-tesla-deaths"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3d ago",
+      "time": "4d ago",
       "pubDate": "2026-07-23T01:02:31.000Z",
       "title": "Tesla 10-Q quarterly report filed 2026-07-23",
       "body": "SEC 10-Q: quarterly financial report filed 2026-07-23.",
