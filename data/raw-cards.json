@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-07-26 21:34 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-26 23:02 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "53m ago",
+      "time": "2h ago",
       "pubDate": "2026-07-26T20:41:32.000Z",
       "title": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions",
       "body": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions Teslarati",
@@ -15,9 +15,22 @@
       "href": "https://www.teslarati.com/tesla-traction-control-modes-summer-update/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-07-26T20:32:25.000Z",
+      "title": "Tesla Is Still Overvalued After Its 14% Post-Earnings Drop",
+      "body": "Tesla Is Still Overvalued After Its 14% Post-Earnings Drop The Globe and Mail",
+      "sourceName": "The Globe and Mail",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/3470955/tesla-is-still-overvalued-after-its-14-post-earnings-drop/"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-26T19:11:18.000Z",
       "title": "Elon Musk explains what happens when AI outsmarts all of us",
       "body": "Elon Musk explains what happens when AI outsmarts all of us Teslarati",
@@ -30,7 +43,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-26T18:59:57.000Z",
       "title": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions",
       "body": "Tesla is adding a new “Traction Control Modes” feature to its cars for better handling in any conditions. These features will roll out to the Model 3 and Model Y, the two vehicles in Tesla’s lineup that typically do not …",
@@ -43,7 +56,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-26T16:01:00.000Z",
       "title": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
       "body": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How. Barron's",
@@ -51,12 +64,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-build-your-own-model-s-or-x-elon-musk-fbb23f65?mod"
+      "href": "https://www.barrons.com/articles/tesla-build-your-own-model-s-or-x-elon-musk-fbb23f65"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-26T01:38:12.000Z",
       "title": "Tesla Model S Weight Distribution",
       "body": "Tesla Model S Weight Distribution Teslarati",
@@ -199,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
+      "time": "3d ago",
       "pubDate": "2026-07-24T10:30:00.000Z",
       "title": "Tesla and Alphabet spook investors as earnings season kicks off",
       "body": "Tesla and Alphabet spook investors as earnings season kicks off Reuters",
@@ -208,19 +221,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/technology/tesla-alphabet-spook-investors-earnings-season-kicks-off-2026-07-24/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3d ago",
-      "pubDate": "2026-07-23T20:28:30.000Z",
-      "title": "Tesla Short Sellers Rake In $4 Billion as Shares Nosedive",
-      "body": "Tesla Short Sellers Rake In $4 Billion as Shares Nosedive Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive"
     },
     {
       "category": "fsd",
