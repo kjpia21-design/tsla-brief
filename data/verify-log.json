@@ -617,6 +617,26 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-26T14:00:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-v15-robotaxi-early-deployment-2026-07-23",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Not a Tesla App reporting on Elluswamy Q2 earnings-call statement, same convention as prior Reuters earnings-call cards",
+            "no advisory tone (no buy/sell/price-target language)",
+            "10x parameter scale-up framed as reported plan, not asserted as already-shipped — hedge preserved",
+            "numbers (40% tracks merged, 7 tracks, 10x params) cross-corroborated via BigGo/notateslaapp/basenor/autoevolution — direct WebFetch to all tested domains (incl. sec.gov, wikipedia.org) returned 403/blocked this session, so verification relied on WebSearch snippet cross-referencing only",
+            "href (notateslaapp #4484) matches the claimed event",
+            "verify-error: WebFetch tool non-functional for all tested domains this run (infra-level, not site-specific) — fail-open per shadow-mode safety rule"
+          ]
+        }
+      ]
     }
   ]
 }

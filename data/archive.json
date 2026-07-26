@@ -365,6 +365,32 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-07-23T18:00:00.000Z",
+      "title": "테슬라 로보택시, 벌써 <em>차세대 FSD v15</em> 초기 빌드로 실주행",
+      "hotShort": "로보택시, <em>FSD v15</em> 초기 빌드 이미 실주행",
+      "body": "테슬라 AI 소프트웨어 부사장 아쇽 엘루스와미가 2분기 실적콜에서 로보택시 차량 일부가 이미 차세대 FSD v15 초기 빌드로 운행 중이라고 밝혔다 — 계획된 개선 트랙 7개 중 40%가 이미 병합됐다. 완전자율의 다음 세대 두뇌가 예상보다 앞서 실전 검증대에 오른 신호다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "fsd-v15-robotaxi-early-deployment-2026-07-23",
+      "summary": "2분기 실적콜에서 나온 발언 중 FSD 로드맵 관련 대목이 뒤늦게 주목받고 있다. 아쇽 엘루스와미 테슬라 AI 소프트웨어 부사장은 애널리스트 질의에 답하며, 텍사스·플로리다에서 무감독으로 운행 중인 로보택시 차량 일부가 이미 차세대 FSD v15의 초기 빌드를 탑재하고 있다고 확인했다.\n\n엘루스와미는 v15에 계획된 7개 주요 개선 트랙 중 \"40%가 이미 병합됐다\"고 밝혔다. 내부 벤치마크 목표도 순조롭게 달성 중이라고 덧붙였다 — 아직 완성형은 아니지만, 실차 검증 단계에 이미 들어갔다는 의미다.\n\nFSD v15는 신경망 파라미터 규모를 기존 대비 약 10배로 늘리는 것으로 알려져 있다 — 판단력·주행 매끄러움의 질적 도약을 노린 세대교체다. 정식 고객 차량 출시는 올해 말에서 내년 초로 예상된다.\n\n로보택시는 무감독 누적 38만 마일 무사고 기록(본지 다른 카드 참고)에 이어, 확장 속도 둔화 논란까지 겹치며 이번 실적콜의 최대 관전 포인트였다. FSD v15 조기 실전 투입은 회의론에 맞서는 또 하나의 근거로 회사 측이 내세우는 모양새다.",
+      "title_en": "Tesla Robotaxi already road-testing <em>next-gen FSD v15</em> builds",
+      "hotShort_en": "Robotaxi already running early <em>FSD v15</em>",
+      "body_en": "Tesla AI software VP Ashok Elluswamy said on the Q2 earnings call that some Robotaxi vehicles are already running early builds of next-gen FSD v15 — with 40% of the seven planned improvement tracks already merged. It's an early sign the next-generation autonomy stack is being road-tested ahead of schedule.",
+      "summary_en": "A detail from Tesla's Q2 earnings call is drawing fresh attention: Ashok Elluswamy, Tesla's VP of AI software, confirmed in response to an analyst question that some Robotaxi vehicles currently running driverless in Texas and Florida are already using early builds of the next-generation FSD v15 stack.\n\nElluswamy said \"40%\" of the seven planned improvement tracks are \"already merged\" into the early V15 builds running on Robotaxi, adding that internal benchmarks are hitting their targets. It's not the finished version, but real-world testing has already begun.\n\nFSD v15 is reported to scale the neural network roughly 10x versus current builds — a generational leap aimed at sharper judgment and smoother driving. A public rollout to customer vehicles is expected late this year or early next.\n\nThe disclosure adds to a mixed picture from the call: Robotaxi also passed 380,000 unsupervised miles with zero notable incidents (see related story), even as executives struck a more guarded tone on expansion pace than a year ago. Tesla appears to be leaning on the early V15 deployment as a counter to skepticism about the program's trajectory.",
+      "href": "https://www.notateslaapp.com/news/4484/tesla-robotaxis-are-already-running-fsd-v15",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "autoevolution",
+        "Investing.com"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "just now",
       "pubDate": "2026-07-23T17:00:00.000Z",
       "title": "테슬라 FSD V14 Lite(HW3), <em>와이드 릴리즈 확정</em> — HW4 지능까지 이식",
@@ -2321,32 +2347,7 @@
       "href": "https://www.teslarati.com/tesla-shows-rapid-teardown-model-s-and-x-lines-paving-way-optimus-fremont/",
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-07-10T21:14:06.000Z",
-      "title": "일론 머스크, 테슬라 직원들에 <em>\"그록으로 전환\"</em> 지시 — 본인도 성능 열세 인정",
-      "hotShort": "머스크, 직원에 <em>그록 전환</em> 지시 — 성능 열세 인정",
-      "body": "일론 머스크가 금요일 사내 메모를 통해 테슬라 직원들에게 가능하면 자신의 xAI 모델 <em>그록으로 전환</em>하라고 지시했다 — 며칠 전 테슬라가 직원 AI 도구 지출에 주 $200 상한을 두면서 그록만 예외로 둔 데 이은 조치다. 머스크 본인도 X에서 앤트로픽 모델 대비 성능이 못 미친다고 인정해, 비용 절감이 곧 성능 타협이라는 논란을 자초했다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "musk-grok-staff-switch-2026-07-10",
-      "summary": "테슬라가 지난 7월 6일부터 시행 중인 직원 AI 도구 지출 주 $200 상한 정책(그록 제외)에 이어, 머스크가 이번엔 한발 더 나아가 직접 그록 사용을 독려하고 나섰다. Electrek 이 입수한 사내 메모에 따르면 머스크는 금요일 직원들에게 \"가능하면\" 그록으로 전환할 것을 지시했다.\n\n메모의 명분은 비용이다. 머스크는 X에서 그록 4.5가 작업당 약 $0.13 수준으로 앤트로픽 Fable 5의 작업당 $1.57 대비 훨씬 저렴하다고 밝히며, \"공정하게 말해 Fable이 그록 4.5보다 확실히 낫지만, 대부분 작업은 Fable 수준 성능이 필요 없다\"고 인정했다.\n\n배경에는 급증한 AI 사용 비용이 있다. 테슬라는 지난 6개월간 사내 리더보드로 엔지니어들의 토큰 사용을 독려해왔는데, 일부 소프트웨어 엔지니어가 주당 수천 달러어치 토큰을 소비하면서 비용이 통제 불능 수준에 이르렀다는 것이다.\n\n다만 직원들 사이에서 그록의 인기는 높지 않다 — 다수는 앤트로픽 Fable을 선호하는 것으로 알려졌다. 테슬라 주주 입장에서 직접적 실적 신호는 아니지만, 머스크가 자사 AI 인프라(xAI, 현재 스페이스X 산하)를 비용 절감 명분으로 사내 표준으로 밀어붙이는 동시에 성능 열세를 공개 인정한 점은, 테슬라의 AI·자율주행 개발에 실제로 어떤 도구가 쓰이는지에 대한 신뢰성 논란으로 번질 수 있다.",
-      "title_en": "Musk tells Tesla staff to switch to <em>Grok</em> — even as he admits it's worse",
-      "hotShort_en": "Musk pushes staff toward <em>worse</em> Grok",
-      "body_en": "Elon Musk told Tesla staff in a Friday memo to switch to <em>Grok</em> \"when possible\" — days after Tesla capped employee AI spending at $200/week with Grok exempted. Musk himself admitted on X that Grok trails Anthropic's Fable 5 in quality, tying the cost-cutting push to a performance trade-off.",
-      "summary_en": "Tesla's new $200-per-week cap on employee AI tool spending, in effect since July 6, already carved out an exemption for Grok. Now Musk has gone a step further, directly urging staff to adopt it. According to a memo obtained by Electrek, Musk told employees on Friday to switch to Grok \"when possible.\"\n\nThe stated reason is cost. Musk wrote on X that Grok 4.5 runs at roughly $0.13 per task versus $1.57 for Anthropic's Fable 5, adding: \"In fairness, Fable is definitely better than Grok 4.5, but most tasks don't require Fable-level capability.\"\n\nThe push follows months of runaway AI spending inside Tesla. The company had gamified token usage with internal leaderboards to drive adoption, and some software engineers were burning through thousands of dollars in tokens per week before the cap was imposed.\n\nGrok isn't popular internally, though — several employees reportedly prefer Anthropic's Fable models. For Tesla shareholders, the episode isn't an earnings signal, but it does raise questions about how Musk balances cost control against tool quality in the AI and autonomy work (FSD, Dojo) that underpins Tesla's investment case.",
-      "href": "https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "TheStreet"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-26 07:59 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-26 22:40 KST 자동 갱신 · 최신순"
 }
