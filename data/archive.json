@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10m ago",
+      "pubDate": "2026-07-26T19:11:18.000Z",
+      "title": "머스크, 이코노미스트 인터뷰서 <em>\"AI, 5년 내 인류 지능 총합 추월\"</em> 전망",
+      "hotShort": "머스크 \"AI, 5년 내 인류 지능 <em>추월</em>\" 경고",
+      "body": "일론 머스크가 지난 23일 공개된 이코노미스트 인터뷰에서 AI가 앞으로 5년 내 전 인류의 지능 총합을 넘어서고, 10년 안에는 인간이 그 방향을 통제하기 어려워질 것이라고 밝혔다 — 테슬라가 FSD·옵티머스 등에 사활을 건 AI 베팅의 장기 함의를 가늠하게 하는 발언이다. 그는 인간과 침팬지의 지능 격차에 비유하며 \"침팬지가 주도권을 쥐고 있다고 상상하기 어렵다\"고 말했다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-economist-ai-superintelligence-2026-07-26",
+      "summary": "이코노미스트 편집장 재니 민튼 베도스와 진행한 인터뷰에서 머스크는 AI의 미래를 낙관과 경고를 오가며 설명했다. 그는 \"2036년쯤에는 돈 자체가 의미를 잃을 수도 있다\"고 말하는 한편, AI·로봇공학이 가져올 가장 유력한 결과로 \"모두를 위한 엄청난 풍요\"를 꼽았다.\n\n다만 위험도 함께 제시했다 — 인간이 10년 안에 AI 발전 방향에 대한 실질적 통제력을 잃을 가능성이 높다고 보면서, 그 결과가 인류 멸종으로 이어질 확률을 10~20% 정도로 언급했다. \"사람이 아닌 것 빼고는 AI가 인간보다 못 하는 게 없어질 것\"이라고도 말했다.\n\n이 발언이 테슬라 주주에게 갖는 의미는 직접적이다 — 회사의 장기 밸류에이션 서사는 FSD·로보택시·옵티머스로 대표되는 AI 사업에 크게 의존한다. 머스크 본인이 AI의 궤적을 인류 통제 밖으로 보는 시나리오를 공개적으로 인정한 셈이어서, 그의 낙관론(옵티머스·로보택시 전망)을 어떤 무게로 받아들일지에 대한 참고점이 된다.\n\n머스크의 AI 위험 경고는 이번이 처음은 아니다 — 그는 과거에도 수차례 비슷한 취지의 발언을 해왔다. 다만 이번 인터뷰는 구체적 연도(5년·10년·2036년)와 확률(10~20%)을 명시했다는 점에서 발언 수위가 한 단계 더 구체화됐다는 평가다.",
+      "title_en": "Musk to The Economist: AI could <em>surpass all of humanity's combined intelligence</em> in 5 years",
+      "hotShort_en": "Musk: AI <em>outsmarts humanity</em> in 5yrs",
+      "body_en": "In an interview published July 23, Elon Musk told The Economist that AI will likely surpass the combined intelligence of all humans within five years, and that humanity will probably lose meaningful control of its trajectory within a decade — a claim with direct implications for Tesla's own AI bets on FSD and Optimus. He compared the coming gap to that between humans and chimpanzees: \"It's hard to imagine that the chimpanzee would be in charge.\"",
+      "summary_en": "Speaking with Economist editor-in-chief Zanny Minton Beddoes, Musk oscillated between optimism and warning about AI's trajectory. He said money itself \"may stop mattering\" by around 2036, while calling \"incredible abundance for all\" the most likely outcome of AI and robotics.\n\nBut he also laid out the risks. Musk said humans will likely lose real control over AI's direction within a decade, and put the odds of that leading to human extinction at roughly 10-20%. \"There really won't be anything that AI can't do better than humans, apart from being human, perhaps,\" he added.\n\nThe comments carry direct weight for Tesla shareholders, whose long-term valuation case leans heavily on the company's AI businesses — FSD, Robotaxi, and Optimus. Musk publicly entertaining a scenario where AI's trajectory slips beyond human control offers a data point for weighing how much confidence to place in his own optimistic timelines for those same products.\n\nThis isn't the first time Musk has warned about AI risk — he has made similar remarks for years. What stands out this time is the specificity: concrete timeframes (five years, ten years, 2036) and an explicit probability (10-20%) for the worst-case outcome.",
+      "href": "https://www.teslarati.com/elon-musk-explains-what-happens-when-ai-outsmarts-all-of-us/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "The Economist",
+        "Teslarati"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "20m ago",
+      "pubDate": "2026-07-26T19:00:17.000Z",
+      "title": "테슬라, 모델3·Y에 <em>트랙션 컨트롤 3종 모드</em> 신설 — 2026 여름 업데이트",
+      "hotShort": "모델3·Y에 <em>트랙션 모드 3종</em> 첫 탑재",
+      "body": "테슬라가 2026 여름 소프트웨어 업데이트(버전 2026.26)로 모델3·모델Y에 '오토'·'미끄러운 노면'·'탈출 보조' 3종 트랙션 컨트롤 모드를 새로 추가했다 — 그간 모델S·X·사이버트럭에만 있던 노면별 주행 모드가 처음으로 볼륨 차종까지 확대된 것. 모드는 매 주행 시작 시 기본값인 '오토'로 초기화된다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-traction-control-modes-2026-07-26",
+      "summary": "이번 업데이트 전까지 모델3와 모델Y는 테슬라 라인업 중 유일하게 노면 상황별 전용 주행 모드가 없는 차종이었다. 2026 여름 업데이트(버전 2026.26)를 계기로 이 공백이 메워지면서, 최상위 모델S·X와 신차종 사이버트럭이 누리던 기능이 판매량 최대 차종에도 뒤늦게 이식됐다.\n\n새로 추가된 3종 모드는 '오토'(일반 주행), '미끄러운 노면'(빙판·젖은 노면), '탈출 보조'(눈·진흙·모래에 빠졌을 때)다. 모드 전환은 운전자가 상황에 맞춰 수동으로 고르는 방식이며, 다음 주행을 시작하면 자동으로 '오토'로 복귀한다.\n\n업데이트는 이미 일부 차주에게 순차 배포를 시작했으며, 앞선 봄 업데이트가 매우 보수적인 속도로 퍼진 전례를 감안하면 전체 보급까지 수 주가 걸릴 전망이다.\n\n기능 자체는 소규모지만, 테슬라가 최대 판매 차종의 소프트웨어 상품성을 지속적으로 다듬고 있다는 신호로 볼 수 있다 — 하드웨어 변경 없이 무선 업데이트만으로 경쟁 차종 대비 체감 완성도를 끌어올리는 전형적 사례다.",
+      "title_en": "Tesla adds three new <em>Traction Control Modes</em> to Model 3 and Y",
+      "hotShort_en": "Model 3/Y get <em>3 traction modes</em>",
+      "body_en": "Tesla's 2026 Summer Update (version 2026.26) adds three new Traction Control Modes — Auto, Slippery Surface, and Stuck Assist — to Model 3 and Model Y, extending terrain-specific driving modes that were previously exclusive to Model S, X, and Cybertruck. The mode resets to Auto at the start of every drive.",
+      "summary_en": "Until this update, Model 3 and Model Y were the only vehicles in Tesla's lineup without dedicated modes for different road surfaces. The 2026 Summer Update (version 2026.26) closes that gap, bringing a feature long available on the flagship Model S and X, and on Cybertruck, to Tesla's highest-volume models.\n\nThe three new modes are Auto for normal driving, Slippery Surface for icy or wet roads, and Stuck Assist for when the car is stuck in snow, mud, or sand. Drivers select the mode manually to match conditions, and it automatically resets to Auto at the start of the next drive.\n\nThe update has already begun rolling out to some owners. Given the notably conservative pace of the prior Spring Update, full fleet-wide availability is expected to take several more weeks.\n\nThe feature itself is minor, but it signals Tesla's continued refinement of software features on its best-selling models — a classic example of using over-the-air updates, rather than hardware changes, to close perceived gaps with rivals.",
+      "href": "https://www.teslarati.com/tesla-traction-control-modes-summer-update/",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1h ago",
@@ -2301,53 +2346,7 @@
       "href": "https://www.thestreet.com/investing/tesla-spacex-merger-wont-save-investors-bnp-paribas",
       "sentiment": "bear",
       "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23m ago",
-      "pubDate": "2026-07-11T20:33:48.000Z",
-      "title": "테슬라 \"기가텍사스서 사이버캡 <em>직원 시승 시작</em>\" — 무대는 아직 공장 주차장",
-      "hotShort": "테슬라, 사이버캡 <em>직원 시승 개시</em> — 주차장 한정",
-      "body": "테슬라가 핸들·페달 없는 양산형 사이버캡으로 기가텍사스 직원들을 태우는 시승을 시작했다고 밝혔다 — 실제 사람을 태운 첫 사례라는 상징성은 있지만, 공개 범위는 아직 공장 부지 내 주차장으로 한정돼 있다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-cybercab-employee-rides-giga-texas-2026-07-11",
-      "summary": "테슬라가 자사 X 계정 두 곳을 통해 텍사스 기가팩토리(기가텍사스)에서 사이버캡으로 직원들을 태우는 시승이 \"곧 시작된다\"고 알렸다. 사이버캡은 핸들과 페달이 아예 없는 2인승 양산형 로보택시로, 이번이 실제 사람을 태우고 움직이는 모습이 공개적으로 확인된 첫 사례로 꼽힌다.\n\n다만 전자전기 매체 일렉트렉(Electrek)은 이를 \"테슬라의 주장\"으로 조심스럽게 전하며, 공개된 주행 범위가 공도가 아닌 공장 부지 내 주차장에 그친다는 점을 짚었다. 테슬라레이티(Teslarati)도 같은 소식을 보도했다.\n\n앞서 6월 30일에는 핸들·페달 없는 프로덕션 사이버캡이 승객 없이 오스틴 공도를 시험 주행하는 모습이 확인된 바 있다 — 이번 주차장 시승은 여기서 한 단계 더 나아가 실제 승객(직원)을 태웠다는 점에서 의미가 있지만, 여전히 통제된 저위험 환경에 머물러 있다.\n\n사이버캡의 상용화는 규제 변수에도 달려 있다. NHTSA는 지난 9일 무인차의 핸들 의무 규정 재검토 가능성을 시사한 바 있어, 핸들 없는 사이버캡의 규제 통과 여부가 여전히 관전 포인트로 남아 있다.",
-      "title_en": "Tesla says <em>Cybercab now gives employee rides</em> at Giga Texas — but only in the parking lot",
-      "hotShort_en": "Tesla's Cybercab <em>starts employee rides</em>",
-      "body_en": "Tesla says its production Cybercab — the two-seat robotaxi with no steering wheel or pedals — has begun giving employee rides at Giga Texas, a first for putting real passengers inside the vehicle. The catch: it's confined to the factory's own parking lot, not public roads.",
-      "summary_en": "Tesla announced via two of its X accounts that Cybercab rides for employees are \"starting soon\" at Giga Factory Texas. The two-seat production Cybercab has no steering wheel or pedals, and this marks the first publicly confirmed instance of the robotaxi carrying actual passengers rather than running empty.\n\nElectrek reported the news cautiously, framing it as a claim from Tesla, and noted the driving is limited to the factory's own parking lot rather than public streets. Teslarati also covered the development.\n\nThe parking-lot rides follow a June 30 driverless test of a production Cybercab on public roads in Austin — without passengers. Putting employees in the vehicle is a step forward, but it's still happening in a controlled, low-stakes environment.\n\nCybercab's path to real-world deployment also hinges on regulation. NHTSA signaled on July 9 that it could revisit the steering-wheel requirement for driverless vehicles — a rule that directly affects whether a wheel-less car like Cybercab can legally operate.",
-      "href": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "Teslarati",
-        "Mashable"
-      ],
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-07-10T21:26:40.000Z",
-      "title": "테슬라, 프리몬트 모델S·X 라인 <em>46일 만에 철거 완료</em> — 옵티머스 생산 준비",
-      "hotShort": "테슬라, 모델S·X 라인 <em>46일 만에 철거</em> 완료",
-      "body": "테슬라가 프리몬트 공장의 모델S·X 조립 라인 철거 영상을 공개했다 — 지난 5월 마지막 차량 생산 이후 <em>46일 만에 철거 완료</em>, 옵티머스 생산 라인 전환 작업이 본궤도에 올랐다. 앞서 머스크가 이 라인을 옵티머스 생산에 쓰겠다고 밝힌 데 이은 구체적 진행 상황이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-fremont-optimus-teardown-2026-07-10",
-      "summary": "테슬라는 지난 5월 9일 프리몬트 공장에서 마지막 모델S와 모델X를 각각 생산하며 두 차종의 생산을 마쳤다. 14년을 이어온 모델S와 11년을 이어온 모델X 라인이 이번엔 로봇 생산 라인으로 바뀔 차례다.\n\n10일 테슬라리아티(Teslarati)가 공개한 영상에는 기존 조립 라인의 대형 장비와 컨베이어, 콘크리트 피트를 철거하는 과정이 담겼다. 회사 측은 이 작업이 46일 만에 끝났다고 밝혔다.\n\n머스크는 앞서 이 공간이 옵티머스 휴머노이드 로봇 생산에 쓰일 것이라고 확인한 바 있으며, 연산 100만 대 규모까지 끌어올리겠다는 목표를 제시했었다. 다만 지난주 머스크는 옵티머스 초기 생산 속도가 완성차 생산과는 달리 매우 더딜 것이라고 선을 그은 상태다.\n\n이번 철거 완료는 프리몬트 라인의 옵티머스 전환이 실제로 진척되고 있음을 보여주는 구체적 신호다. 테슬라 주주 입장에서 로보틱스 사업의 자본 지출·타임라인을 가늠할 수 있는 물리적 증거이자, 완전 전환까지 남은 공정을 지켜볼 다음 이정표가 될 전망이다.",
-      "title_en": "Tesla completes Fremont Model S/X line teardown in <em>46 days</em>, clearing the way for Optimus",
-      "hotShort_en": "Tesla clears Model S/X line in <em>46 days</em>",
-      "body_en": "Tesla released footage showing the teardown of its original Model S/X assembly line at Fremont — completed in <em>just 46 days</em> since the last car rolled off in May — clearing space for Optimus production. It's the first concrete progress marker since Musk confirmed the line's robot conversion.",
-      "summary_en": "Tesla built its last Model S and Model X at the Fremont factory on May 9, ending 14- and 11-year production runs respectively. The space is now being converted into a robot assembly line.\n\nFootage released by Teslarati on July 10 shows heavy machinery dismantling the old line's conveyors and concrete pits. Tesla said the teardown was completed in just 46 days.\n\nMusk previously confirmed the space would be used for Optimus humanoid robot production, with a long-stated goal of scaling to 1 million units a year. Last week, though, he cautioned that early Optimus output would ramp much more slowly than a car line.\n\nThe completed teardown is the first concrete sign that the Fremont-to-Optimus conversion is actually moving forward. For Tesla shareholders, it's physical evidence to gauge the robotics business's capex and timeline as the next milestones in the conversion come into view.",
-      "href": "https://www.teslarati.com/tesla-shows-rapid-teardown-model-s-and-x-lines-paving-way-optimus-fremont/",
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-26 22:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-27 04:25 KST 자동 갱신 · 최신순"
 }

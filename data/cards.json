@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10m ago",
+      "pubDate": "2026-07-26T19:11:18.000Z",
+      "title": "머스크, 이코노미스트 인터뷰서 <em>\"AI, 5년 내 인류 지능 총합 추월\"</em> 전망",
+      "hotShort": "머스크 \"AI, 5년 내 인류 지능 <em>추월</em>\" 경고",
+      "body": "일론 머스크가 지난 23일 공개된 이코노미스트 인터뷰에서 AI가 앞으로 5년 내 전 인류의 지능 총합을 넘어서고, 10년 안에는 인간이 그 방향을 통제하기 어려워질 것이라고 밝혔다 — 테슬라가 FSD·옵티머스 등에 사활을 건 AI 베팅의 장기 함의를 가늠하게 하는 발언이다. 그는 인간과 침팬지의 지능 격차에 비유하며 \"침팬지가 주도권을 쥐고 있다고 상상하기 어렵다\"고 말했다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-economist-ai-superintelligence-2026-07-26",
+      "summary": "이코노미스트 편집장 재니 민튼 베도스와 진행한 인터뷰에서 머스크는 AI의 미래를 낙관과 경고를 오가며 설명했다. 그는 \"2036년쯤에는 돈 자체가 의미를 잃을 수도 있다\"고 말하는 한편, AI·로봇공학이 가져올 가장 유력한 결과로 \"모두를 위한 엄청난 풍요\"를 꼽았다.\n\n다만 위험도 함께 제시했다 — 인간이 10년 안에 AI 발전 방향에 대한 실질적 통제력을 잃을 가능성이 높다고 보면서, 그 결과가 인류 멸종으로 이어질 확률을 10~20% 정도로 언급했다. \"사람이 아닌 것 빼고는 AI가 인간보다 못 하는 게 없어질 것\"이라고도 말했다.\n\n이 발언이 테슬라 주주에게 갖는 의미는 직접적이다 — 회사의 장기 밸류에이션 서사는 FSD·로보택시·옵티머스로 대표되는 AI 사업에 크게 의존한다. 머스크 본인이 AI의 궤적을 인류 통제 밖으로 보는 시나리오를 공개적으로 인정한 셈이어서, 그의 낙관론(옵티머스·로보택시 전망)을 어떤 무게로 받아들일지에 대한 참고점이 된다.\n\n머스크의 AI 위험 경고는 이번이 처음은 아니다 — 그는 과거에도 수차례 비슷한 취지의 발언을 해왔다. 다만 이번 인터뷰는 구체적 연도(5년·10년·2036년)와 확률(10~20%)을 명시했다는 점에서 발언 수위가 한 단계 더 구체화됐다는 평가다.",
+      "title_en": "Musk to The Economist: AI could <em>surpass all of humanity's combined intelligence</em> in 5 years",
+      "hotShort_en": "Musk: AI <em>outsmarts humanity</em> in 5yrs",
+      "body_en": "In an interview published July 23, Elon Musk told The Economist that AI will likely surpass the combined intelligence of all humans within five years, and that humanity will probably lose meaningful control of its trajectory within a decade — a claim with direct implications for Tesla's own AI bets on FSD and Optimus. He compared the coming gap to that between humans and chimpanzees: \"It's hard to imagine that the chimpanzee would be in charge.\"",
+      "summary_en": "Speaking with Economist editor-in-chief Zanny Minton Beddoes, Musk oscillated between optimism and warning about AI's trajectory. He said money itself \"may stop mattering\" by around 2036, while calling \"incredible abundance for all\" the most likely outcome of AI and robotics.\n\nBut he also laid out the risks. Musk said humans will likely lose real control over AI's direction within a decade, and put the odds of that leading to human extinction at roughly 10-20%. \"There really won't be anything that AI can't do better than humans, apart from being human, perhaps,\" he added.\n\nThe comments carry direct weight for Tesla shareholders, whose long-term valuation case leans heavily on the company's AI businesses — FSD, Robotaxi, and Optimus. Musk publicly entertaining a scenario where AI's trajectory slips beyond human control offers a data point for weighing how much confidence to place in his own optimistic timelines for those same products.\n\nThis isn't the first time Musk has warned about AI risk — he has made similar remarks for years. What stands out this time is the specificity: concrete timeframes (five years, ten years, 2036) and an explicit probability (10-20%) for the worst-case outcome.",
+      "href": "https://www.teslarati.com/elon-musk-explains-what-happens-when-ai-outsmarts-all-of-us/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "The Economist",
+        "Teslarati"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "20m ago",
+      "pubDate": "2026-07-26T19:00:17.000Z",
+      "title": "테슬라, 모델3·Y에 <em>트랙션 컨트롤 3종 모드</em> 신설 — 2026 여름 업데이트",
+      "hotShort": "모델3·Y에 <em>트랙션 모드 3종</em> 첫 탑재",
+      "body": "테슬라가 2026 여름 소프트웨어 업데이트(버전 2026.26)로 모델3·모델Y에 '오토'·'미끄러운 노면'·'탈출 보조' 3종 트랙션 컨트롤 모드를 새로 추가했다 — 그간 모델S·X·사이버트럭에만 있던 노면별 주행 모드가 처음으로 볼륨 차종까지 확대된 것. 모드는 매 주행 시작 시 기본값인 '오토'로 초기화된다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-traction-control-modes-2026-07-26",
+      "summary": "이번 업데이트 전까지 모델3와 모델Y는 테슬라 라인업 중 유일하게 노면 상황별 전용 주행 모드가 없는 차종이었다. 2026 여름 업데이트(버전 2026.26)를 계기로 이 공백이 메워지면서, 최상위 모델S·X와 신차종 사이버트럭이 누리던 기능이 판매량 최대 차종에도 뒤늦게 이식됐다.\n\n새로 추가된 3종 모드는 '오토'(일반 주행), '미끄러운 노면'(빙판·젖은 노면), '탈출 보조'(눈·진흙·모래에 빠졌을 때)다. 모드 전환은 운전자가 상황에 맞춰 수동으로 고르는 방식이며, 다음 주행을 시작하면 자동으로 '오토'로 복귀한다.\n\n업데이트는 이미 일부 차주에게 순차 배포를 시작했으며, 앞선 봄 업데이트가 매우 보수적인 속도로 퍼진 전례를 감안하면 전체 보급까지 수 주가 걸릴 전망이다.\n\n기능 자체는 소규모지만, 테슬라가 최대 판매 차종의 소프트웨어 상품성을 지속적으로 다듬고 있다는 신호로 볼 수 있다 — 하드웨어 변경 없이 무선 업데이트만으로 경쟁 차종 대비 체감 완성도를 끌어올리는 전형적 사례다.",
+      "title_en": "Tesla adds three new <em>Traction Control Modes</em> to Model 3 and Y",
+      "hotShort_en": "Model 3/Y get <em>3 traction modes</em>",
+      "body_en": "Tesla's 2026 Summer Update (version 2026.26) adds three new Traction Control Modes — Auto, Slippery Surface, and Stuck Assist — to Model 3 and Model Y, extending terrain-specific driving modes that were previously exclusive to Model S, X, and Cybertruck. The mode resets to Auto at the start of every drive.",
+      "summary_en": "Until this update, Model 3 and Model Y were the only vehicles in Tesla's lineup without dedicated modes for different road surfaces. The 2026 Summer Update (version 2026.26) closes that gap, bringing a feature long available on the flagship Model S and X, and on Cybertruck, to Tesla's highest-volume models.\n\nThe three new modes are Auto for normal driving, Slippery Surface for icy or wet roads, and Stuck Assist for when the car is stuck in snow, mud, or sand. Drivers select the mode manually to match conditions, and it automatically resets to Auto at the start of the next drive.\n\nThe update has already begun rolling out to some owners. Given the notably conservative pace of the prior Spring Update, full fleet-wide availability is expected to take several more weeks.\n\nThe feature itself is minor, but it signals Tesla's continued refinement of software features on its best-selling models — a classic example of using over-the-air updates, rather than hardware changes, to close perceived gaps with rivals.",
+      "href": "https://www.teslarati.com/tesla-traction-control-modes-summer-update/",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "1h ago",
@@ -49,26 +94,6 @@
         "Teslarati"
       ],
       "sentiment": "bull",
-      "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "13h ago",
-      "pubDate": "2026-07-25T08:00:00.000Z",
-      "title": "포춘 \"스페이스X, 테슬라 인수 <em>최적기 이미 지났다</em>\"",
-      "hotShort": "포춘 \"스페이스X, 테슬라 인수 <em>적기 놓쳤다</em>\"",
-      "body": "포춘 분석에 따르면 스페이스X 시총이 정점이던 7월16일($2.8T, 테슬라 $1.6T)엔 신주 57% 발행으로 테슬라를 인수할 수 있었지만, 두 회사 주가가 함께 급락한 7월24일 기준으론 필요 지분율이 82%로 치솟았다 — 22일 실적콜에서 머스크가 합병 가능성을 부인하지 않은 지 사흘 만에, 정작 셈법은 스페이스X 주주에 크게 불리해진 셈이다.",
-      "sourceName": "Fortune",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-missed-merger-window-2026-07-25",
-      "summary": "테슬라와 스페이스X의 합병설은 22일 2분기 실적콜에서 다시 불붙었다. 한 애널리스트가 스페이스X의 테슬라 인수 계획을 묻자 머스크는 \"실적콜에서 회사 합병 같은 얘기를 할 수는 없다 — 적절한 절차를 거쳐야 한다\"며 즉답을 피했지만, 가능성 자체를 부인하지도 않았다.\n\n포춘은 이 발언 직후 두 회사의 주가 흐름을 근거로, 오히려 인수 '적기'는 이미 지나갔을 수 있다고 분석했다. 스페이스X 주가가 정점을 찍은 7월16일 기준 시가총액은 $2.8T로 테슬라($1.6T)의 1.75배 수준이었다 — 이 시점이라면 스페이스X가 신주 57%만 발행해도 전량 주식교환 방식으로 테슬라를 인수할 수 있었다는 계산이다.\n\n그러나 7월24일 오후 기준 스페이스X 시총은 $1.49T까지 밀린 반면 테슬라는 $1.22T로 상대적으로 덜 빠지면서, 같은 방식의 인수에 필요한 신주 발행 비율은 82%로 급등했다. 스페이스X 주주 입장에서는 지분 희석 부담이 그만큼 커진 셈이다.\n\n두 회사 주가가 이번 주 동반 조정을 받은 배경은 다른 카드에서 다룬 대로다 — 테슬라는 2분기 실적 발표 후 주간 18% 급락, 스페이스X도 스타십 시험 연기 속 상장 후 최저치로 밀렸다. 합병 논의가 실제로 진전될지는 불확실하지만, 적어도 현재의 주가 수준에서는 스페이스X 주주에게 셈법이 불리해졌다는 것이 포춘의 지적이다.",
-      "title_en": "Fortune: SpaceX may have <em>missed its window</em> to buy Tesla",
-      "hotShort_en": "Fortune: SpaceX <em>missed its window</em> for Tesla",
-      "body_en": "Fortune's analysis shows SpaceX could have acquired Tesla by issuing just 57% new shares when its market cap peaked at $2.8T on July 16 (vs. Tesla's $1.6T) — but after both stocks sold off through July 24 (SpaceX $1.49T, Tesla $1.22T), the same all-stock deal would now require issuing 82% of SpaceX's shares, a far more dilutive ratio for SpaceX shareholders.",
-      "summary_en": "Merger speculation between Tesla and SpaceX reignited on the July 22 Q2 earnings call, when an analyst asked whether SpaceX planned to buy Tesla. Musk deflected — \"We can't talk about combining companies and things like that on an earnings call. It's got to be done with the appropriate process\" — without ruling it out.\n\nFortune's analysis, published days later, argues the ideal window for such a deal may have already closed. When SpaceX shares peaked on July 16, its market cap hit $2.8T, roughly 1.75 times Tesla's $1.6T — a ratio that would have let SpaceX acquire Tesla in an all-stock deal by issuing just 57% new shares.\n\nBy the afternoon of July 24, though, SpaceX's market cap had fallen to $1.49T while Tesla held up relatively better at $1.22T, pushing the share issuance needed for the same deal up to 82% — a far more dilutive outcome for SpaceX shareholders.\n\nThe pullback in both stocks this week is covered elsewhere in this briefing: Tesla fell 18% for the week after its Q2 report, and SpaceX slid to a post-IPO low amid a delayed Starship test. Whether a merger actually advances remains unclear, but Fortune's math suggests the terms have swung against SpaceX shareholders at current prices.",
-      "href": "https://fortune.com/2026/07/25/spacex-tesla-stock-price-merger-window-elon-musk/",
-      "sentiment": "neutral",
       "hot": 6
     },
     {
@@ -144,53 +169,7 @@
       ],
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-24T17:48:21.000Z",
-      "title": "모건스탠리 \"스페이스X $100 붕괴 시 AI 사업가치는 <em>사실상 제로</em>\" — 목표주가 $300은 유지",
-      "hotShort": "MS \"스페이스X $100 밀리면 <em>AI 가치 제로</em>\"",
-      "body": "모건스탠리는 스페이스X 주가가 $100까지 떨어질 경우 시장이 그록·커서 등 AI 사업 가치를 사실상 0(또는 마이너스)으로 매기는 셈이라고 분석했다 — 다만 애널리스트 애덤 조나스는 목표주가 $300(절반 이상이 AI 사업 가치)을 그대로 유지하며, 최근 약세 심리와 펀더멘털 간 괴리를 오히려 매수 기회로 짚어 테슬라·스페이스X 동반 조정 속 드문 강세 시각을 냈다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-100-ai-value-morgan-stanley-2026-07-24",
-      "summary": "스페이스X는 지난달 사상 최대 규모로 상장한 이후 주가가 조정을 받아, 다른 카드에서 다룬 대로 24일까지 5거래일간 7.2% 내려 $115.07로 마감했다. 다음달 예정된 락업 해제(최대 $1160억 규모)를 앞두고 매물 압박 우려도 커진 상태다.\n\n블룸버그 보도에 따르면 모건스탠리는 이런 흐름 속에서, 만약 스페이스X 주가가 $100까지 밀린다면 이는 시장이 그록(대형언어모델)·커서(개발자 도구) 등 AI 사업 부문의 가치를 사실상 0 또는 마이너스로 평가하는 셈이라고 계산했다.\n\n그럼에도 담당 애널리스트 애덤 조나스는 목표주가 $300을 그대로 유지했다 — 이 중 절반 이상이 AI 사업 가치에서 나온다. 모건스탠리는 최근 투자자들의 약세 심리가 갈수록 짙어지는 반면 회사 펀더멘털 자체는 크게 달라지지 않았다며, 이 괴리가 오히려 매력적인 진입 시점을 만들었다고 판단했다.\n\n주주 입장에서 이 분석은 스페이스X 얘기지만, 머스크의 재산 대부분이 테슬라·스페이스X 두 회사 지분에 묶여 있다는 점(다른 카드 참고)에서 함께 볼 만하다. 이번 주 두 회사 주가가 동반 조정을 받은 가운데, 월가 내에서도 '과매도' 시각과 '펀더멘털 우려' 시각이 엇갈리고 있다는 신호다.",
-      "title_en": "Morgan Stanley: SpaceX at $100 would price <em>AI business at zero</em>",
-      "hotShort_en": "MS: SpaceX at $100 means <em>AI valued at zero</em>",
-      "body_en": "Morgan Stanley says a drop to $100 in SpaceX shares would mean the market is pricing its AI business — Grok and Cursor — at zero or even negative value. Analyst Adam Jonas nonetheless kept his $300 price target, more than half of it tied to AI, calling the gap between bearish sentiment and steady fundamentals a rare bullish signal amid this week's joint Tesla-SpaceX selloff.",
-      "summary_en": "SpaceX shares have pulled back since last month's record-setting IPO, falling 7.2% over five sessions through July 24 to close at $115.07 (see related card). Investors are also bracing for a lockup expiration next month that could release up to $116B in shares onto the market.\n\nAgainst that backdrop, Bloomberg reports Morgan Stanley calculated that if SpaceX shares slide to $100, the market would effectively be assigning zero — or even negative — value to the company's AI business, which includes the Grok large language model and the Cursor developer tool.\n\nEven so, lead analyst Adam Jonas kept his $300 price target intact, with more than half of that value tied to the AI segment. Morgan Stanley argued that while investor sentiment has grown increasingly bearish, the company's underlying fundamentals haven't changed nearly as much — a gap it sees as creating an attractive entry point.\n\nFor Tesla shareholders, this is technically a SpaceX story, but it's worth watching alongside coverage elsewhere in this briefing showing how much of Musk's net worth rides on the two companies' combined share prices. With both stocks pulling back together this week, Wall Street itself is split between an 'oversold' read and one still worried about fundamentals.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-07-23T18:00:00.000Z",
-      "title": "테슬라 로보택시, 벌써 <em>차세대 FSD v15</em> 초기 빌드로 실주행",
-      "hotShort": "로보택시, <em>FSD v15</em> 초기 빌드 이미 실주행",
-      "body": "테슬라 AI 소프트웨어 부사장 아쇽 엘루스와미가 2분기 실적콜에서 로보택시 차량 일부가 이미 차세대 FSD v15 초기 빌드로 운행 중이라고 밝혔다 — 계획된 개선 트랙 7개 중 40%가 이미 병합됐다. 완전자율의 다음 세대 두뇌가 예상보다 앞서 실전 검증대에 오른 신호다.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "fsd-v15-robotaxi-early-deployment-2026-07-23",
-      "summary": "2분기 실적콜에서 나온 발언 중 FSD 로드맵 관련 대목이 뒤늦게 주목받고 있다. 아쇽 엘루스와미 테슬라 AI 소프트웨어 부사장은 애널리스트 질의에 답하며, 텍사스·플로리다에서 무감독으로 운행 중인 로보택시 차량 일부가 이미 차세대 FSD v15의 초기 빌드를 탑재하고 있다고 확인했다.\n\n엘루스와미는 v15에 계획된 7개 주요 개선 트랙 중 \"40%가 이미 병합됐다\"고 밝혔다. 내부 벤치마크 목표도 순조롭게 달성 중이라고 덧붙였다 — 아직 완성형은 아니지만, 실차 검증 단계에 이미 들어갔다는 의미다.\n\nFSD v15는 신경망 파라미터 규모를 기존 대비 약 10배로 늘리는 것으로 알려져 있다 — 판단력·주행 매끄러움의 질적 도약을 노린 세대교체다. 정식 고객 차량 출시는 올해 말에서 내년 초로 예상된다.\n\n로보택시는 무감독 누적 38만 마일 무사고 기록(본지 다른 카드 참고)에 이어, 확장 속도 둔화 논란까지 겹치며 이번 실적콜의 최대 관전 포인트였다. FSD v15 조기 실전 투입은 회의론에 맞서는 또 하나의 근거로 회사 측이 내세우는 모양새다.",
-      "title_en": "Tesla Robotaxi already road-testing <em>next-gen FSD v15</em> builds",
-      "hotShort_en": "Robotaxi already running early <em>FSD v15</em>",
-      "body_en": "Tesla AI software VP Ashok Elluswamy said on the Q2 earnings call that some Robotaxi vehicles are already running early builds of next-gen FSD v15 — with 40% of the seven planned improvement tracks already merged. It's an early sign the next-generation autonomy stack is being road-tested ahead of schedule.",
-      "summary_en": "A detail from Tesla's Q2 earnings call is drawing fresh attention: Ashok Elluswamy, Tesla's VP of AI software, confirmed in response to an analyst question that some Robotaxi vehicles currently running driverless in Texas and Florida are already using early builds of the next-generation FSD v15 stack.\n\nElluswamy said \"40%\" of the seven planned improvement tracks are \"already merged\" into the early V15 builds running on Robotaxi, adding that internal benchmarks are hitting their targets. It's not the finished version, but real-world testing has already begun.\n\nFSD v15 is reported to scale the neural network roughly 10x versus current builds — a generational leap aimed at sharper judgment and smoother driving. A public rollout to customer vehicles is expected late this year or early next.\n\nThe disclosure adds to a mixed picture from the call: Robotaxi also passed 380,000 unsupervised miles with zero notable incidents (see related story), even as executives struck a more guarded tone on expansion pace than a year ago. Tesla appears to be leaning on the early V15 deployment as a counter to skepticism about the program's trajectory.",
-      "href": "https://www.notateslaapp.com/news/4484/tesla-robotaxis-are-already-running-fsd-v15",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "autoevolution",
-        "Investing.com"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-26 22:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-27 04:25 KST 자동 갱신 · 최신순"
 }

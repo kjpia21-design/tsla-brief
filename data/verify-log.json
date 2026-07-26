@@ -637,6 +637,27 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-27T04:25:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "musk-economist-ai-superintelligence-2026-07-26",
+          "verdict": "pass",
+          "reasons": [
+            "Economist interview corroborated (dnyuz/BigGo/Gizmodo), chimp quote verbatim match, 5yr/10yr timeframes match, no over-claiming vs source, sourceLabel press correct"
+          ]
+        },
+        {
+          "slug": "product-traction-control-modes-2026-07-26",
+          "verdict": "pass",
+          "reasons": [
+            "Corroborated via notateslaapp.com 2026.26 release notes, 3 mode names + reset-to-Auto behavior match, no speculative rollout date stated as fact, sourceLabel press correct"
+          ]
+        }
+      ]
     }
   ]
 }
