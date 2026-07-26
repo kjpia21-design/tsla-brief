@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-07-26 13:40 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-26 15:10 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
+      "time": "18h ago",
       "pubDate": "2026-07-25T20:59:34.000Z",
       "title": "Tesla to open source Model S and Model X designs and software",
       "body": "Tesla to open source Model S and Model X designs and software Teslarati",
@@ -17,41 +17,15 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-07-25T20:48:35.000Z",
-      "title": "Asian parents like to know if they can distill their kids to become a Fields Medalist. But in reality, a true genius …",
-      "body": "Asian parents like to know if they can distill their kids to become a Fields Medalist. But in reality, a true genius is not born from distillation but from self-synthesizing many solutions to the same questions that peop…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
+      "time": "20h ago",
+      "pubDate": "2026-07-25T19:33:57.000Z",
+      "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
+      "body": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla InsideEVs",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2081119444420772328"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "17h ago",
-      "pubDate": "2026-07-25T20:37:55.000Z",
-      "title": "The most powerful moving object ever created by humans",
-      "body": "The most powerful moving object ever created by humans https://t.co/p5D3yldNg6",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2081116761085100213"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "18h ago",
-      "pubDate": "2026-07-25T20:00:32.000Z",
-      "title": "A hero is like a star, born from entropy, molded by violent force, and eventually shining so bright that its radiated…",
-      "body": "A hero is like a star, born from entropy, molded by violent force, and eventually shining so bright that its radiated wind blew through a hole in the nebulous cloud. That cascaded wind then inspired more stars to be born…",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2081107351827017967"
+      "href": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch/"
     },
     {
       "category": "musk",
@@ -104,6 +78,32 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-launches-major-starship-flight-test-in-post-ipo-spotlight"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2d ago",
+      "pubDate": "2026-07-25T00:18:00.000Z",
+      "title": "SpaceX Launches Another Starship, and This Time the Market Is Watching",
+      "body": "SpaceX Launches Another Starship, and This Time the Market Is Watching WSJ",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.wsj.com/tech/spacex-launches-another-starship-and-this-time-the-market-is-watching-e76b9d43"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-07-24T22:29:38.000Z",
+      "title": "Waymo Plans End of Uber Robotaxi Tie-Up, Stepping Up Rivalry",
+      "body": "Waymo Plans End of Uber Robotaxi Tie-Up, Stepping Up Rivalry Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-24/waymo-explores-exit-from-uber-robotaxi-partnership-ft-says"
     },
     {
       "category": "stock",
