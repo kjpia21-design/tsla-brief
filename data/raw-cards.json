@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-07-26 19:19 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-26 21:03 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8m ago",
+      "time": "22m ago",
+      "pubDate": "2026-07-26T20:41:32.000Z",
+      "title": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions",
+      "body": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-traction-control-modes-summer-update/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
       "pubDate": "2026-07-26T19:11:18.000Z",
       "title": "Elon Musk explains what happens when AI outsmarts all of us",
       "body": "Elon Musk explains what happens when AI outsmarts all of us Teslarati",
@@ -15,22 +28,9 @@
       "href": "https://www.teslarati.com/elon-musk-explains-what-happens-when-ai-outsmarts-all-of-us/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "19m ago",
-      "pubDate": "2026-07-26T19:00:17.000Z",
-      "title": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions",
-      "body": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-traction-control-modes-summer-update/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19m ago",
+      "time": "2h ago",
       "pubDate": "2026-07-26T18:59:57.000Z",
       "title": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions",
       "body": "Tesla is adding a new “Traction Control Modes” feature to its cars for better handling in any conditions. These features will roll out to the Model 3 and Model Y, the two vehicles in Tesla’s lineup that typically do not …",
@@ -43,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-26T16:01:00.000Z",
       "title": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
       "body": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How. Barron's",
@@ -56,54 +56,15 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "14h ago",
-      "pubDate": "2026-07-26T04:54:53.000Z",
-      "title": "Tesla to open source Model S and Model X designs and software",
-      "body": "Tesla to open source Model S and Model X designs and software Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-open-source-model-s-and-model-x-designs-software/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
       "time": "19h ago",
-      "pubDate": "2026-07-26T00:33:30.000Z",
-      "title": "Tesla flexes incredible Robotaxi metric that skeptics will hate",
-      "body": "Tesla flexes incredible Robotaxi metric that skeptics will hate Teslarati",
+      "pubDate": "2026-07-26T01:38:12.000Z",
+      "title": "Tesla Model S Weight Distribution",
+      "body": "Tesla Model S Weight Distribution Teslarati",
       "sourceName": "Teslarati",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/tesla-flexes-incredible-robotaxi-metric-that-skeptics-will-hate/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "22h ago",
-      "pubDate": "2026-07-25T21:23:50.000Z",
-      "title": "Tesla owner tricks out Model X to set incredible 10-sec 1/4 mile record",
-      "body": "Tesla owner tricks out Model X to set incredible 10-sec 1/4 mile record Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-model-x-10-sec-quarter-mile-record/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-07-25T19:33:57.000Z",
-      "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
-      "body": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla InsideEVs",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch/"
+      "href": "https://www.teslarati.com/tesla-model-s-weight/"
     },
     {
       "category": "musk",
@@ -121,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-07-25T09:19:39.000Z",
       "title": "SpaceX Stock Drop Seen as Investor Verdict on AI",
       "body": "SpaceX Stock Drop Seen as Investor Verdict on AI Bloomberg.com",
@@ -156,19 +117,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-super-micro-tesla-tenet-healthcare-podcast"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-07-24T20:16:00.000Z",
-      "title": "Cathie Wood Is Doubling Down on Tesla Again. Why She’s Buying When Everyone Else Is Selling.",
-      "body": "Cathie Wood Is Doubling Down on Tesla Again. Why She’s Buying When Everyone Else Is Selling. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-cathie-wood-ark-d81fdb3e"
     },
     {
       "category": "fsd",
@@ -210,6 +158,19 @@
       "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-07-24T16:32:04.000Z",
+      "title": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
+      "body": "Buy the dip case for Tesla diminishes due to stagnating fundamentals CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2d ago",
@@ -223,6 +184,32 @@
       "href": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-07-24T15:21:26.000Z",
+      "title": "US agency rejects petition seeking Tesla door-release defect probe",
+      "body": "US agency rejects petition seeking Tesla door-release defect probe Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2d ago",
+      "pubDate": "2026-07-24T14:10:15.000Z",
+      "title": "Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback",
+      "body": "Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/24/michael-burrys-short-bets-on-tesla-caterpillar-pay-off-in-big-july-pullback.html"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2d ago",
@@ -234,6 +221,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/technology/tesla-alphabet-spook-investors-earnings-season-kicks-off-2026-07-24/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3d ago",
+      "pubDate": "2026-07-23T19:00:13.000Z",
+      "title": "France opposes EU approval of Tesla's FSD driver assistance software for now",
+      "body": "France opposes EU approval of Tesla's FSD driver assistance software for now Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/france-opposes-eu-approval-teslas-fsd-driver-assistance-software-now-2026-07-23/"
     },
     {
       "category": "stock",
