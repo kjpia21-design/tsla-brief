@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-07-26 17:08 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-26 19:19 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "8m ago",
+      "pubDate": "2026-07-26T19:11:18.000Z",
+      "title": "Elon Musk explains what happens when AI outsmarts all of us",
+      "body": "Elon Musk explains what happens when AI outsmarts all of us Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/elon-musk-explains-what-happens-when-ai-outsmarts-all-of-us/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "19m ago",
+      "pubDate": "2026-07-26T19:00:17.000Z",
+      "title": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions",
+      "body": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-traction-control-modes-summer-update/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "19m ago",
+      "pubDate": "2026-07-26T18:59:57.000Z",
+      "title": "Tesla adds new ‘Traction Control Modes’ for better handling in any conditions",
+      "body": "Tesla is adding a new “Traction Control Modes” feature to its cars for better handling in any conditions. These features will roll out to the Model 3 and Model Y, the two vehicles in Tesla’s lineup that typically do not …",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-traction-control-modes-summer-update/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
       "pubDate": "2026-07-26T16:01:00.000Z",
       "title": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
       "body": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How. Barron's",
@@ -12,12 +51,12 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-build-your-own-model-s-or-x-elon-musk-fbb23f65"
+      "href": "https://www.barrons.com/articles/tesla-build-your-own-model-s-or-x-elon-musk-fbb23f65?mod"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-26T04:54:53.000Z",
       "title": "Tesla to open source Model S and Model X designs and software",
       "body": "Tesla to open source Model S and Model X designs and software Teslarati",
@@ -28,22 +67,9 @@
       "href": "https://www.teslarati.com/tesla-open-source-model-s-and-model-x-designs-software/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
-      "pubDate": "2026-07-26T01:38:12.000Z",
-      "title": "Tesla Model S Weight Distribution",
-      "body": "Tesla Model S Weight Distribution Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-model-s-weight/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-26T00:33:30.000Z",
       "title": "Tesla flexes incredible Robotaxi metric that skeptics will hate",
       "body": "Tesla flexes incredible Robotaxi metric that skeptics will hate Teslarati",
@@ -54,9 +80,22 @@
       "href": "https://www.teslarati.com/tesla-flexes-incredible-robotaxi-metric-that-skeptics-will-hate/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "22h ago",
+      "pubDate": "2026-07-25T21:23:50.000Z",
+      "title": "Tesla owner tricks out Model X to set incredible 10-sec 1/4 mile record",
+      "body": "Tesla owner tricks out Model X to set incredible 10-sec 1/4 mile record Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-model-x-10-sec-quarter-mile-record/"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "22h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-25T19:33:57.000Z",
       "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
       "body": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla InsideEVs",
@@ -91,32 +130,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.bloomberg.com/news/newsletters/2026-07-24/spacex-stock-drop-seen-as-a-verdict-on-ai-evening-briefing-americas"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-25T00:45:00.000Z",
-      "title": "Exclusive | Elon Musk’s Boring Company Eyes $20 Billion Valuation in New Funding Round",
-      "body": "Exclusive | Elon Musk’s Boring Company Eyes $20 Billion Valuation in New Funding Round WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-25T00:26:00.000Z",
-      "title": "SpaceX Launches Major Starship Test in Post-IPO Spotlight",
-      "body": "SpaceX Launches Major Starship Test in Post-IPO Spotlight Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-launches-major-starship-flight-test-in-post-ipo-spotlight"
     },
     {
       "category": "fsd",
@@ -184,19 +197,6 @@
       "href": "https://www.cnbc.com/2026/07/24/trader-who-successfully-shorted-tesla-into-earnings-now-sets-sights-on-this-high-flyer-.html"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-24T17:15:24.000Z",
-      "title": "Stocks making the biggest moves midday: American Airlines, Coherent, SLB, Tesla & more",
-      "body": "Stocks making the biggest moves midday: American Airlines, Coherent, SLB, Tesla & more CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-midday-aal-cohr-slb-tsla.html"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2d ago",
@@ -223,17 +223,17 @@
       "href": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "2d ago",
-      "pubDate": "2026-07-24T14:10:15.000Z",
-      "title": "Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback",
-      "body": "Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback CNBC",
-      "sourceName": "CNBC",
+      "pubDate": "2026-07-24T10:30:00.000Z",
+      "title": "Tesla and Alphabet spook investors as earnings season kicks off",
+      "body": "Tesla and Alphabet spook investors as earnings season kicks off Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/2026/07/24/michael-burrys-short-bets-on-tesla-caterpillar-pay-off-in-big-july-pullback.html"
+      "href": "https://www.reuters.com/technology/tesla-alphabet-spook-investors-earnings-season-kicks-off-2026-07-24/"
     },
     {
       "category": "stock",
