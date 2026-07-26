@@ -164,6 +164,32 @@
       "hot": 4
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-24T21:00:00.000Z",
+      "title": "테슬라 사이버캡, 뉴질랜드서 <em>미국 밖 첫 자력 주행</em> 포착 — 혹한 시험차 남반구行",
+      "hotShort": "사이버캡, 뉴질랜드서 <em>미국 밖 첫 주행</em> 포착",
+      "body": "테슬라 사이버캡 시험차량이 뉴질랜드 카드로나 인근 공용도로에서 스스로 주행하는 영상이 24일 처음 포착됐다 — 텍사스 기가팩토리에서 약 1만2000km 떨어진 남반구 혹한 시험장으로 옮겨진 차량으로, 사이버캡이 미국 밖에서 자력 주행한 첫 사례로 보인다. 로보택시 전용 차량의 극한 기후 검증이 국제 무대로 확대되는 신호다.",
+      "sourceName": "CarExpert",
+      "sourceLabel": "press",
+      "slug": "fsd-cybercab-new-zealand-winter-testing-2026-07-24",
+      "summary": "북반구가 한여름인 지금, 테슬라는 극한 저온 환경에서 사이버캡을 검증하기 위해 남반구로 눈을 돌렸다. 지난 6월 중순 뉴질랜드 타이하페에서 카고 트랜스포터에 실린 사이버캡 2대가 목격됐는데, 목적지는 퀸스타운 인근 카드로나의 '남반구 시험장'(Southern Hemisphere Proving Grounds)이었다 — 스칸디나비아·캐나다의 겨울 시험장을 쓸 수 없는 여름철에 눈·빙판 환경을 제공하는 곳으로, 매년 6~8월에 운영된다.\n\n그로부터 한 달여 만인 24일, 사이버캡 한 대가 시험장을 벗어나 공용도로를 주행하는 영상이 처음 공개됐다. 다만 이번에 목격된 시험차는 실제 양산형 사이버캡(스티어링휠·페달 없는 완전자율 설계)과 달리, 엔지니어링 목적으로 스티어링휠과 수동 조작 장치가 장착된 프로토타입이었다.\n\n사이버캡은 2인승·버터플라이 도어 구조로, 전륜 단일모터(163kW)·50kWh 배터리·공차중량 1412kg에 주행거리는 451km로 알려져 있다. 지난 2월 첫 양산차가 라인을 나온 뒤 4월부터 양산이 본격화됐고, 이후 드론 촬영에서 한 번에 100대 넘는 차량이 포착되기도 했다.\n\n테슬라 주주 입장에서 이번 목격은 로보택시 사업이 텍사스·플로리다·애리조나·네바다 등 미국 내 확장에 더해, 다양한 기후 조건에서의 하드웨어 검증도 병행하고 있음을 보여주는 사례다. 아직은 소규모 시험 단계이지만, 사이버캡의 국제 검증이 시작됐다는 신호로 볼 수 있다.",
+      "title_en": "Tesla Cybercab spotted driving on its own in <em>New Zealand, a first outside the US</em>",
+      "hotShort_en": "Cybercab: <em>first drive outside</em> the US",
+      "body_en": "Footage surfaced July 24 of a Tesla Cybercab test vehicle driving under its own power on a public road near Cardrona, New Zealand — apparently the first time a Cybercab has moved on its own outside the US. The car was shipped roughly 12,000km from Gigafactory Texas to a Southern Hemisphere cold-weather test facility, signaling that Robotaxi hardware validation is expanding onto the international stage.",
+      "summary_en": "With the Northern Hemisphere in the middle of summer, Tesla turned south to validate Cybercab in extreme cold. Two Cybercabs were first spotted on a transporter in Taihape, New Zealand in mid-June, bound for the Southern Hemisphere Proving Grounds near Cardrona, outside Queenstown — a facility that offers snow and ice conditions during the June-to-August window, when equivalent European and Canadian test tracks are unavailable.\n\nAbout a month later, on July 24, footage surfaced of one of the Cybercabs driving on a public road outside the test facility for the first time. The vehicle spotted was an engineering prototype fitted with a steering wheel and manual controls, unlike the production Cybercab's fully autonomous design, which has neither.\n\nCybercab is a two-seat, butterfly-doored vehicle with a single front-axle motor rated at 163kW, a 50kWh battery, a curb weight of about 1,412kg, and a rated range of 451km. The first unit rolled off the line in February, with volume production ramping up from April, and drone footage has since shown more than 100 units at once at Tesla's facility.\n\nFor Tesla shareholders, the sighting shows that Robotaxi's hardware validation is running in parallel with the business's US expansion across Texas, Florida, Arizona, and Nevada — testing across a wider range of climates. It's still a small-scale test, but it marks the start of Cybercab's validation on the international stage.",
+      "href": "https://www.carexpert.com.au/car-news/tesla-cybercab-spotted-in-new-zealand-for-cold-weather-testing",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "CarExpert",
+        "EVXL",
+        "EVs & Beyond"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -432,6 +458,26 @@
       ],
       "sentiment": "bull",
       "hot": 6
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-23T18:00:00.000Z",
+      "title": "테슬라 아쇽 엘루스와미 \"FSD, 누적 120억 마일서 사고 간 거리 <em>2배</em>\" 안전 주장",
+      "hotShort": "엘루스와미 \"FSD, 사고 간 거리 <em>2배</em>\" 주장",
+      "body": "테슬라 AI 소프트웨어 부사장 아쇽 엘루스와미가 X에 올린 글에서 FSD 누적 주행 120억 마일 데이터를 근거로 사람이 직접 운전할 때보다 충돌까지의 주행거리가 2배 길다고 주장했다 — 로보택시 확장 속도를 둘러싼 회의론이 이어지는 가운데 테슬라가 자체 안전 수치로 내놓은 반박이다. 다만 검증되지 않은 회사 측 자체 집계라는 점은 감안해야 한다.",
+      "sourceName": "Ashok Elluswamy (X)",
+      "sourceLabel": "official",
+      "slug": "fsd-2x-safer-than-manual-12b-miles-2026-07-23",
+      "summary": "테슬라 로보택시 사업이 실적콜 안팎에서 확장 속도 관련 회의론에 시달리는 가운데, 회사의 AI 소프트웨어를 총괄하는 아쇽 엘루스와미 부사장이 FSD 안전성을 둘러싼 논쟁에 직접 뛰어들었다.\n\n엘루스와미는 X 게시글에서 \"FSD를 쓰는 것이 직접 운전하는 것보다 훨씬 안전하다 — 누적 120억 마일 주행으로 측정한 결과, 충돌까지 걸리는 거리가 2배 길다\"고 밝혔다. 그는 이런 성능이 가능한 이유로 FSD가 '1000명 평생 주행분'이 넘는 코너 케이스 데이터로 학습돼, 다른 차량의 신호위반·갑작스러운 끼어들기·아이가 도로로 뛰어드는 등 극단적 상황에서도 충돌 확률을 정확히 예측하도록 훈련됐다는 점을 들었다.\n\n다만 이 수치를 곧이곧대로 받아들이기 어렵다는 지적도 있다. FSD는 상대적으로 안전한 고속도로·정비된 교외 도로에서 편중되어 사용되는 경향이 있고, FSD 탑재 차량은 대체로 최신 안전장비를 갖춘 신형이며, FSD를 구매하는 운전자 자체가 차량 기술에 관심이 많아 감독 주행 시 더 주의 깊게 운전하는 성향이 있다는 반론이다. 즉 사람 대 FSD의 단순 비교로 보기엔 조건 차이가 크다는 뜻이다.\n\n주주 입장에서 이 발언은 로보택시·완전자율주행 사업의 밸류에이션 서사와 직결된다. 회의론이 커질 때마다 테슬라 경영진이 자체 안전 데이터를 근거로 반박에 나서는 패턴이 반복되고 있어, 실제 독립적인 검증이 이뤄지기 전까지는 '주장'과 '사실' 사이 간극을 감안해 받아들일 필요가 있다.",
+      "title_en": "Tesla's Elluswamy claims FSD is <em>2x safer</em> than manual driving over 12B miles",
+      "hotShort_en": "Tesla exec: FSD <em>2x safer</em> than manual",
+      "body_en": "Tesla VP of AI Software Ashok Elluswamy posted on X that FSD is far safer than driving manually, citing 12 billion cumulative miles of data showing twice the distance between collisions compared to manual driving — a company-supplied rebuttal amid ongoing skepticism about Robotaxi's expansion pace. The figure comes from Tesla's own tally and hasn't been independently verified.",
+      "summary_en": "With Tesla's Robotaxi business facing persistent skepticism about its expansion pace both on and off the earnings call, VP of AI Software Ashok Elluswamy waded directly into the safety debate around FSD.\n\nIn a post on X, Elluswamy wrote that \"using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions.\" He attributed the performance to FSD being trained on corner cases drawn from more than 1,000 lifetimes of driving, allowing it to accurately predict collision probability even in extreme scenarios like other drivers running red lights, sudden swerves, or kids darting into the road.\n\nThe figure invites some skepticism, however. FSD tends to be used disproportionately on highways and well-maintained suburban roads that are statistically safer than average; vehicles running FSD skew newer with more modern safety hardware; and drivers who buy FSD tend to be more engaged with the technology and may supervise more attentively than the average driver. In other words, the underlying conditions differ enough that a straight human-vs-FSD comparison invites caution.\n\nFor shareholders, the claim feeds directly into the valuation case for Robotaxi and full autonomy. Tesla executives have repeatedly countered expansion skepticism with in-house safety data, and until an independent audit is available, the gap between the company's claim and an externally verified fact is worth keeping in mind.",
+      "href": "https://x.com/aelluswamy/status/2080149830467547297",
+      "sentiment": "bull",
+      "hot": 4
     },
     {
       "category": "fsd",
@@ -2301,52 +2347,7 @@
       ],
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-07-12T16:00:00.000Z",
-      "title": "테슬라 오스틴 로보택시 허브 건축허가서에 <em>청소 로봇</em> 첫 등장",
-      "hotShort": "오스틴 로보택시 허브에 <em>청소 로봇</em> 첫 등장",
-      "body": "테슬라 오스틴 로보택시 허브 건축허가서에 '청소 로봇'이 설비 목록으로 처음 등재됐다 — 현재 사람이 손으로 하는 로보택시 관리를, 허브망 확장에 맞춰 무인 자동화하려는 신호다.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-hub-cleaning-robot-austin-2026-07-12",
-      "summary": "테슬라가 텍사스 오스틴에 짓고 있는 로보택시 전용 허브의 건축허가 서류에서 '청소 로봇(cleaning robot)'이 설비 목록에 처음 등장한 사실이 확인됐다. 이 허브는 지난해 말 처음 제안돼 올해 1분기부터 공사가 시작된, 로보택시 차량의 충전·정비·보관을 담당할 중앙 거점이다.\n\n테슬라는 앞서 이 청소 로봇의 작동 방식을 시연한 바 있다 — 다기능 로봇팔에 여러 부착물을 달아, 사이버캡의 21인치 스크린은 회전식 극세사 천으로 지문·먼지를 닦아내고, 강력한 흡입 장치로 좌석·카펫·바닥 매트의 부스러기와 먼지를 제거한다. 로보택시가 충전을 위해 허브로 복귀하면 측면·필러·후방 카메라 렌즈까지 정밀하게 닦아내는 외부 센서 세척도 수행할 수 있다.\n\n테슬라는 여기에 더해 로보택시가 충전을 위해 허브로 복귀할 때 자율주행으로 통과하는 드라이브스루 형태의 '로보택시 세차장'도 별도로 짓고 있다 — 로봇팔의 실내·센서 세척과 결합해 차량 외관까지 사람 손 없이 관리하는 구상이다.\n\n현재 운행 중인 모델Y 기반 로보택시는 사람이 직접 청소하는 것으로 알려져 있다. 이번 허가서는 테슬라가 슈퍼차저 네트워크처럼 허브 수를 늘려가며 무인 인프라를 확장하는 과정에서, 세차·정비까지 무인화해 운영비를 낮추려는 방향을 보여준다.\n\n로보택시 사업의 수익성은 결국 차량 가동률과 유지비에 달려 있다 — 청소·정비 자동화는 인건비를 줄이고 24시간 가동을 가능케 하는 핵심 조각 중 하나다.",
-      "title_en": "Tesla's Austin robotaxi hub permit reveals its first <em>cleaning robot</em>",
-      "hotShort_en": "Austin robotaxi hub permit lists a <em>cleaning robot</em>",
-      "body_en": "A construction permit for Tesla's Austin robotaxi hub lists a 'cleaning robot' among its equipment — the first documented instance in Tesla's robotaxi infrastructure, signaling a push to automate fleet maintenance as the hub network scales.",
-      "summary_en": "A construction permit for Tesla's dedicated robotaxi hub in Austin, Texas has revealed a 'cleaning robot' listed among the facility's equipment. The hub, first proposed late last year with construction underway since Q1 2026, is designed as a central depot for fleet charging, maintenance and storage.\n\nTesla has previously demonstrated how the robot works: a multi-function robotic arm uses a rotating microfiber attachment to wipe fingerprints and dust off the Cybercab's 21-inch screen, and a powerful suction attachment to clear crumbs and dirt from seats, carpets and floor mats. When a robotaxi returns to the hub to charge, the same arm can also perform a full exterior sensor sweep, cleaning the side, pillar and rear camera lenses.\n\nTesla is also building separate drive-through 'robotaxi car washes' that vehicles can pull into autonomously when returning to the hub to charge — pairing with the arm's interior and sensor cleaning to keep the exterior maintained without any human involvement.\n\nToday's Model Y-based robotaxis are reportedly still cleaned by hand. The permit suggests that as Tesla scales its hub network the way it scaled Superchargers, it wants cleaning and maintenance automated too, to keep operating costs down.\n\nRobotaxi economics ultimately hinge on vehicle utilization and upkeep costs — automating cleaning and maintenance is one piece of cutting labor costs and enabling round-the-clock operation.",
-      "href": "https://www.notateslaapp.com/news/4424/tesla-robotaxi-hubs-start-adding-car-cleaning-robots",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "Teslarati"
-      ],
-      "sentiment": "neutral",
-      "hot": 3
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-07-12T13:33:00.000Z",
-      "title": "BNP파리바 \"테슬라·스페이스X 합병해도 투자자엔 <em>득 안 된다</em>\" — 목표주가 $280 유지",
-      "hotShort": "BNP파리바, 합병 회의론 — <em>목표주가 $280</em> 유지",
-      "body": "BNP파리바가 테슬라·스페이스X 합병 논의에 회의적 시각을 재확인하며 언더퍼폼(매도) 등급과 목표주가 $280을 그대로 <em>유지</em>했다 — 양사 합산 현금소진이 2026~2031년 $2,160억에 달할 것으로 추산돼, 합병이 오히려 재무 부담을 키울 수 있다는 경고다.",
-      "sourceName": "TheStreet",
-      "sourceLabel": "press",
-      "slug": "stock-bnp-paribas-spacex-merger-skeptical-2026-07-12",
-      "summary": "테슬라·스페이스X 합병설이 두 달 가까이 월가를 달구는 가운데, BNP파리바 애널리스트 제임스 피카리엘로 팀이 가장 회의적인 목소리를 냈다. 이들은 테슬라에 대해 언더퍼폼(매도) 등급과 목표주가 $280을 그대로 유지했다.\n\n핵심 근거는 현금이다. BNP는 스페이스X의 2026~2031년 누적 현금소진 컨센서스를 $2,160억으로 추산했다 — 올해에만 약 $300억, 2030년까지 약 $1,940억이 빠져나갈 것으로 봤다. 여기에 이번 분기부터 시작되는 테슬라 자체의 다년간 현금소진 사이클까지 겹치면, 합병 법인의 재무 부담이 상당할 것이라는 우려다.\n\n규제·지배구조 변수도 걸림돌로 지목됐다. 스페이스X는 미국 정부·국방 관련 계약을 다수 보유하고 있어 다중 관할권의 규제 승인이 필요하고, 테슬라 주주총회의 동의 절차까지 거쳐야 해 실제 거래 성사까지는 상당한 시간이 걸릴 것이라는 분석이다.\n\nBNP는 구체적인 밸류에이션 계산도 제시했다 — 30~40%의 인수 프리미엄을 적용해도 적정가치는 주당 $360~390에 그치며, 합병 실현 확률을 약 50%로 가중하면 그 프리미엄 효과는 사실상 절반으로 줄어든다는 것이다. 합병이 성사되더라도 결합 법인이 필요 자금을 추가 조달할 가능성이 높아, 기존 테슬라 주주 지분이 추가로 희석될 수 있다는 경고도 덧붙였다.",
-      "title_en": "BNP Paribas: Tesla-SpaceX merger <em>wouldn't help investors</em> — keeps $280 price target",
-      "hotShort_en": "BNP Paribas stays bearish, <em>keeps $280 target</em>",
-      "body_en": "BNP Paribas reaffirmed its skeptical view on a Tesla-SpaceX merger, <em>keeping</em> its underperform rating and $280 price target — the firm estimates combined cash burn of $216B through 2026-2031, warning a merger could add financial strain rather than ease it.",
-      "summary_en": "As Tesla-SpaceX merger speculation has gripped Wall Street for nearly two months, BNP Paribas analysts led by James Picariello struck the most skeptical tone yet, maintaining an underperform rating and $280 price target on Tesla.\n\nThe core concern is cash. BNP estimates SpaceX's cumulative cash burn at $216 billion through 2026-2031 — roughly $30 billion this year alone and about $194 billion by 2030. Combined with Tesla's own multi-year cash burn cycle starting this quarter, the analysts see a heavy financial load for any combined entity.\n\nRegulatory and governance hurdles were also flagged. SpaceX holds extensive U.S. government and defense contracts, meaning any deal would need multi-jurisdiction regulatory approval plus a Tesla shareholder vote — a process the analysts expect to take considerable time.\n\nBNP also laid out specific valuation math: even a 30-40% takeover premium would only justify a fair value of $360-390 a share, and weighting that by roughly a 50% probability of the merger actually happening cuts the premium's effective value in half. The analysts added that a combined entity would likely need to raise additional capital, further diluting existing Tesla shareholders.",
-      "href": "https://www.thestreet.com/investing/tesla-spacex-merger-wont-save-investors-bnp-paribas",
-      "sentiment": "bear",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-27 04:25 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-27 08:10 KST 자동 갱신 · 최신순"
 }

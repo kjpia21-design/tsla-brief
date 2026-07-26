@@ -124,6 +124,32 @@
       "hot": 6
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "just now",
+      "pubDate": "2026-07-24T21:00:00.000Z",
+      "title": "테슬라 사이버캡, 뉴질랜드서 <em>미국 밖 첫 자력 주행</em> 포착 — 혹한 시험차 남반구行",
+      "hotShort": "사이버캡, 뉴질랜드서 <em>미국 밖 첫 주행</em> 포착",
+      "body": "테슬라 사이버캡 시험차량이 뉴질랜드 카드로나 인근 공용도로에서 스스로 주행하는 영상이 24일 처음 포착됐다 — 텍사스 기가팩토리에서 약 1만2000km 떨어진 남반구 혹한 시험장으로 옮겨진 차량으로, 사이버캡이 미국 밖에서 자력 주행한 첫 사례로 보인다. 로보택시 전용 차량의 극한 기후 검증이 국제 무대로 확대되는 신호다.",
+      "sourceName": "CarExpert",
+      "sourceLabel": "press",
+      "slug": "fsd-cybercab-new-zealand-winter-testing-2026-07-24",
+      "summary": "북반구가 한여름인 지금, 테슬라는 극한 저온 환경에서 사이버캡을 검증하기 위해 남반구로 눈을 돌렸다. 지난 6월 중순 뉴질랜드 타이하페에서 카고 트랜스포터에 실린 사이버캡 2대가 목격됐는데, 목적지는 퀸스타운 인근 카드로나의 '남반구 시험장'(Southern Hemisphere Proving Grounds)이었다 — 스칸디나비아·캐나다의 겨울 시험장을 쓸 수 없는 여름철에 눈·빙판 환경을 제공하는 곳으로, 매년 6~8월에 운영된다.\n\n그로부터 한 달여 만인 24일, 사이버캡 한 대가 시험장을 벗어나 공용도로를 주행하는 영상이 처음 공개됐다. 다만 이번에 목격된 시험차는 실제 양산형 사이버캡(스티어링휠·페달 없는 완전자율 설계)과 달리, 엔지니어링 목적으로 스티어링휠과 수동 조작 장치가 장착된 프로토타입이었다.\n\n사이버캡은 2인승·버터플라이 도어 구조로, 전륜 단일모터(163kW)·50kWh 배터리·공차중량 1412kg에 주행거리는 451km로 알려져 있다. 지난 2월 첫 양산차가 라인을 나온 뒤 4월부터 양산이 본격화됐고, 이후 드론 촬영에서 한 번에 100대 넘는 차량이 포착되기도 했다.\n\n테슬라 주주 입장에서 이번 목격은 로보택시 사업이 텍사스·플로리다·애리조나·네바다 등 미국 내 확장에 더해, 다양한 기후 조건에서의 하드웨어 검증도 병행하고 있음을 보여주는 사례다. 아직은 소규모 시험 단계이지만, 사이버캡의 국제 검증이 시작됐다는 신호로 볼 수 있다.",
+      "title_en": "Tesla Cybercab spotted driving on its own in <em>New Zealand, a first outside the US</em>",
+      "hotShort_en": "Cybercab: <em>first drive outside</em> the US",
+      "body_en": "Footage surfaced July 24 of a Tesla Cybercab test vehicle driving under its own power on a public road near Cardrona, New Zealand — apparently the first time a Cybercab has moved on its own outside the US. The car was shipped roughly 12,000km from Gigafactory Texas to a Southern Hemisphere cold-weather test facility, signaling that Robotaxi hardware validation is expanding onto the international stage.",
+      "summary_en": "With the Northern Hemisphere in the middle of summer, Tesla turned south to validate Cybercab in extreme cold. Two Cybercabs were first spotted on a transporter in Taihape, New Zealand in mid-June, bound for the Southern Hemisphere Proving Grounds near Cardrona, outside Queenstown — a facility that offers snow and ice conditions during the June-to-August window, when equivalent European and Canadian test tracks are unavailable.\n\nAbout a month later, on July 24, footage surfaced of one of the Cybercabs driving on a public road outside the test facility for the first time. The vehicle spotted was an engineering prototype fitted with a steering wheel and manual controls, unlike the production Cybercab's fully autonomous design, which has neither.\n\nCybercab is a two-seat, butterfly-doored vehicle with a single front-axle motor rated at 163kW, a 50kWh battery, a curb weight of about 1,412kg, and a rated range of 451km. The first unit rolled off the line in February, with volume production ramping up from April, and drone footage has since shown more than 100 units at once at Tesla's facility.\n\nFor Tesla shareholders, the sighting shows that Robotaxi's hardware validation is running in parallel with the business's US expansion across Texas, Florida, Arizona, and Nevada — testing across a wider range of climates. It's still a small-scale test, but it marks the start of Cybercab's validation on the international stage.",
+      "href": "https://www.carexpert.com.au/car-news/tesla-cybercab-spotted-in-new-zealand-for-cold-weather-testing",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "CarExpert",
+        "EVXL",
+        "EVs & Beyond"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -146,30 +172,23 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
-      "pubDate": "2026-07-24T19:15:14.000Z",
-      "title": "Waymo, Uber와 <em>파트너십 결별 검토</em> — 로보택시 경쟁 격화",
-      "hotShort": "Waymo, Uber와 <em>결별 검토</em> — 로보택시 경쟁 심화",
-      "body": "알파벳 자율주행 자회사 Waymo가 Uber와의 로보택시 제휴를 단계적으로 정리하는 방안을 검토 중이다 — 피닉스에서는 이미 3년 만에 파트너십을 끝냈고, 애틀랜타·오스틴에서도 2028년 초 독점 계약을 종료하기로 했다. 두 회사가 같은 시장에서 직접 경쟁하며 규제 로비에서도 부딪히는 가운데, 테슬라가 노리는 로보택시 시장의 경쟁 구도가 한층 복잡해지는 신호다.",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "fsd-waymo-uber-split-2026-07-24",
-      "summary": "Waymo와 Uber의 협력은 2023년 피닉스에서 시작해 이후 여러 도시로 확대돼 왔다. 그러나 최근 파이낸셜타임스 보도에 따르면 두 회사는 이 제휴를 단계적으로 청산하는 수순을 밟고 있다.\n\n피닉스에서는 3년간 이어온 파트너십이 이미 종료됐고, 애틀랜타·오스틴에서는 2028년 초 독점 계약이 끝난다 — Waymo는 이미 Uber 측에 2028년 1월부터 자체 앱으로 두 도시에서 로보택시 서비스를 시작하겠다고 통보했으며, 기존 Uber 앱을 통한 서비스도 당분간 병행할 계획이다.\n\n관계가 삐걱거리는 배경에는 두 회사가 같은 시장에서 점점 더 직접 경쟁하는 동시에, 각자에게 유리한 로보택시 규제를 만들려 서로 다른 방향으로 로비를 벌이고 있다는 사정이 있다. 서비스 품질·안전 문제를 두고도 서로 책임을 떠넘겨온 것으로 전해진다 — 올해 초 Uber의 프라빈 네팔리 CTO는 Waymo 로보택시의 '위험하고 무서운' 주행 장면이라며 영상을 올렸고, 5월에는 다라 코스로샤히 Uber CEO도 실적콜에서 스쿨존·응급상황 대응과 관련해 Waymo 로보택시 행태를 완곡하게 비판한 바 있다.\n\n테슬라 주주 입장에서 이 사안은 경쟁사 얘기지만, 로보택시 시장의 최대 두 플레이어 간 제휴가 흔들리는 모습은 그만큼 이 시장의 경쟁이 치열해지고 있다는 뜻이기도 하다. 테슬라의 로보택시 사업이 본격 확장을 노리는 시점에, 이런 균열이 시장 재편의 기회가 될지 리스크가 될지는 지켜볼 대목이다.",
-      "title_en": "Waymo <em>weighs split from Uber</em> as robotaxi rivalry deepens",
-      "hotShort_en": "Waymo <em>eyes Uber split</em> as robotaxi rivalry grows",
-      "body_en": "Alphabet's Waymo is reportedly moving to unwind its robotaxi partnership with Uber in stages — the two already ended their three-year Phoenix tie-up, and will end exclusivity in Atlanta and Austin in early 2028. As the two biggest robotaxi players increasingly compete head-on and clash over regulation, it's a sign of how contentious the market Tesla is chasing has become.",
-      "summary_en": "Waymo and Uber's partnership began in Phoenix in 2023 and later expanded to more cities. But according to the Financial Times, the companies are now unwinding that alliance in stages.\n\nThe three-year Phoenix partnership has already ended, and the companies' exclusivity arrangement in Atlanta and Austin will end in early 2028 — Waymo has already told Uber it plans to launch robotaxi service on its own app in both cities starting January 2028, running alongside the existing Uber-app offering for a period.\n\nThe strain stems partly from the companies increasingly competing head-to-head in the same markets while lobbying for robotaxi regulations that favor their own business models, and reportedly blaming each other over service-quality and safety issues. Earlier this year, Uber CTO Praveen Neppalli posted video he described as 'unsafe' and 'scary' Waymo robotaxi behavior, and in May, Uber CEO Dara Khosrowshahi mildly criticized Waymo's robotaxi behavior around school zones and emergency situations on an earnings call.\n\nFor Tesla shareholders, this is a competitor story, but a fraying alliance between the robotaxi market's two biggest players signals just how contested that market is becoming. As Tesla pushes to scale up its own robotaxi business, whether this rift becomes an opening or an added risk is worth watching.",
-      "href": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Financial Times",
-        "Bloomberg",
-        "CNBC",
-        "TechCrunch"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
+      "time": "just now",
+      "pubDate": "2026-07-23T18:00:00.000Z",
+      "title": "테슬라 아쇽 엘루스와미 \"FSD, 누적 120억 마일서 사고 간 거리 <em>2배</em>\" 안전 주장",
+      "hotShort": "엘루스와미 \"FSD, 사고 간 거리 <em>2배</em>\" 주장",
+      "body": "테슬라 AI 소프트웨어 부사장 아쇽 엘루스와미가 X에 올린 글에서 FSD 누적 주행 120억 마일 데이터를 근거로 사람이 직접 운전할 때보다 충돌까지의 주행거리가 2배 길다고 주장했다 — 로보택시 확장 속도를 둘러싼 회의론이 이어지는 가운데 테슬라가 자체 안전 수치로 내놓은 반박이다. 다만 검증되지 않은 회사 측 자체 집계라는 점은 감안해야 한다.",
+      "sourceName": "Ashok Elluswamy (X)",
+      "sourceLabel": "official",
+      "slug": "fsd-2x-safer-than-manual-12b-miles-2026-07-23",
+      "summary": "테슬라 로보택시 사업이 실적콜 안팎에서 확장 속도 관련 회의론에 시달리는 가운데, 회사의 AI 소프트웨어를 총괄하는 아쇽 엘루스와미 부사장이 FSD 안전성을 둘러싼 논쟁에 직접 뛰어들었다.\n\n엘루스와미는 X 게시글에서 \"FSD를 쓰는 것이 직접 운전하는 것보다 훨씬 안전하다 — 누적 120억 마일 주행으로 측정한 결과, 충돌까지 걸리는 거리가 2배 길다\"고 밝혔다. 그는 이런 성능이 가능한 이유로 FSD가 '1000명 평생 주행분'이 넘는 코너 케이스 데이터로 학습돼, 다른 차량의 신호위반·갑작스러운 끼어들기·아이가 도로로 뛰어드는 등 극단적 상황에서도 충돌 확률을 정확히 예측하도록 훈련됐다는 점을 들었다.\n\n다만 이 수치를 곧이곧대로 받아들이기 어렵다는 지적도 있다. FSD는 상대적으로 안전한 고속도로·정비된 교외 도로에서 편중되어 사용되는 경향이 있고, FSD 탑재 차량은 대체로 최신 안전장비를 갖춘 신형이며, FSD를 구매하는 운전자 자체가 차량 기술에 관심이 많아 감독 주행 시 더 주의 깊게 운전하는 성향이 있다는 반론이다. 즉 사람 대 FSD의 단순 비교로 보기엔 조건 차이가 크다는 뜻이다.\n\n주주 입장에서 이 발언은 로보택시·완전자율주행 사업의 밸류에이션 서사와 직결된다. 회의론이 커질 때마다 테슬라 경영진이 자체 안전 데이터를 근거로 반박에 나서는 패턴이 반복되고 있어, 실제 독립적인 검증이 이뤄지기 전까지는 '주장'과 '사실' 사이 간극을 감안해 받아들일 필요가 있다.",
+      "title_en": "Tesla's Elluswamy claims FSD is <em>2x safer</em> than manual driving over 12B miles",
+      "hotShort_en": "Tesla exec: FSD <em>2x safer</em> than manual",
+      "body_en": "Tesla VP of AI Software Ashok Elluswamy posted on X that FSD is far safer than driving manually, citing 12 billion cumulative miles of data showing twice the distance between collisions compared to manual driving — a company-supplied rebuttal amid ongoing skepticism about Robotaxi's expansion pace. The figure comes from Tesla's own tally and hasn't been independently verified.",
+      "summary_en": "With Tesla's Robotaxi business facing persistent skepticism about its expansion pace both on and off the earnings call, VP of AI Software Ashok Elluswamy waded directly into the safety debate around FSD.\n\nIn a post on X, Elluswamy wrote that \"using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions.\" He attributed the performance to FSD being trained on corner cases drawn from more than 1,000 lifetimes of driving, allowing it to accurately predict collision probability even in extreme scenarios like other drivers running red lights, sudden swerves, or kids darting into the road.\n\nThe figure invites some skepticism, however. FSD tends to be used disproportionately on highways and well-maintained suburban roads that are statistically safer than average; vehicles running FSD skew newer with more modern safety hardware; and drivers who buy FSD tend to be more engaged with the technology and may supervise more attentively than the average driver. In other words, the underlying conditions differ enough that a straight human-vs-FSD comparison invites caution.\n\nFor shareholders, the claim feeds directly into the valuation case for Robotaxi and full autonomy. Tesla executives have repeatedly countered expansion skepticism with in-house safety data, and until an independent audit is available, the gap between the company's claim and an externally verified fact is worth keeping in mind.",
+      "href": "https://x.com/aelluswamy/status/2080149830467547297",
+      "sentiment": "bull",
+      "hot": 4
     }
   ],
-  "asOf": "2026-07-27 04:25 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-27 08:10 KST 자동 갱신 · 최신순"
 }

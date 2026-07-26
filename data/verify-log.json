@@ -658,6 +658,34 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-26T23:08:26.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "fsd-2x-safer-than-manual-12b-miles-2026-07-23",
+          "verdict": "pass",
+          "newSourceLabel": "official",
+          "reasons": [
+            "tweet text confirmed verbatim (12B miles, 2x collision-distance claim, 1000 lifetimes training)",
+            "genuine Elluswamy account, not parody/satire",
+            "card hedges the claim as company-supplied and includes independent caveat paragraph rather than asserting as fact",
+            "no advisory tone"
+          ]
+        },
+        {
+          "slug": "fsd-cybercab-new-zealand-winter-testing-2026-07-24",
+          "verdict": "regrade",
+          "newSourceLabel": "press",
+          "reasons": [
+            "core story (NZ footage, Cardrona proving grounds, mid-June transporter sighting, engineering-mule steering wheel, 'first outside US' framing) cross-confirmed via CarExpert/EVXL/EVs & Beyond",
+            "initial draft had two factual errors, corrected before publish: motor power 161kW -> 163kW, and 'first unit rolled off in April' -> first unit Feb 17 2026 with volume ramp from April",
+            "sourceLabel press unchanged (CarExpert is legitimate trade press, not an aggregator)"
+          ]
+        }
+      ]
     }
   ]
 }
