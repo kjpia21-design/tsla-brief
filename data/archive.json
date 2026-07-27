@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-07-27T08:42:27.000Z",
+      "title": "로스 게버 \"옵티머스, <em>당분간 매출 없다</em>\" — \"손·발·눈 다 어렵다\"",
+      "hotShort": "로스 게버 \"옵티머스 <em>매출 당분간 없다</em>\"",
+      "body": "테슬라 초기 투자자이자 대표적 약세론자인 로스 게버가 The Information 인터뷰에서 옵티머스 휴머노이드 로봇에 대해 \"손도, 발도, 눈도 다 만들기 어렵다\"며 <em>단기간 내 매출은 없을 것</em>이라 잘라 말했다 — 대규모 투자 대비 상업화 시점은 여전히 안갯속이라는 지적이다.",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "product-gerber-optimus-no-revenue-2026-07-27",
+      "summary": "게버카와사키(Gerber Kawasaki) 대표 로스 게버는 The Information과의 인터뷰에서 테슬라의 인간형 로봇 옵티머스에 대해 회의적인 입장을 밝혔다. 그는 \"손이 어렵고, 발이 어렵고, 눈도 어렵다\"며 바퀴나 무한궤도를 쓰는 로봇에 비해 사람처럼 걷는 휴머노이드 로봇을 만드는 일 자체가 훨씬 까다롭다고 지적했다.\n\n게버는 특히 소비자용 옵티머스의 상업적 기회에 의문을 제기했다. \"옷을 개는 로봇을 만드는 데 1조 달러를 쓰는 건 전혀 말이 안 된다\"며, 투자 규모에 비해 단기 매출 전망이 턱없이 부족하다고 지적했다. 대신 군사·우주·산업용 응용 분야가 더 현실적인 활용처라고 봤다.\n\n이번 발언은 테슬라 2분기 실적 발표 직후 나왔다. 당시 일론 머스크는 옵티머스 생산이 7월 말~8월경 시작될 것이라 밝히면서도 올해 실제 생산 가능 대수는 여전히 불확실하다고 인정한 바 있다. 로보택시 매출 역시 \"2027년은 돼야 의미 있는 수준\"이라고 못박았다.\n\n게버는 테슬라 초기 투자자이자 오랜 주주로, 최근에는 로보택시·FSD 진전 지연을 이유로 회사에 비판적인 목소리를 자주 내왔다. 이번 발언은 옵티머스를 향한 시장의 낙관론에 대한 대표적 반론으로 꼽힌다.",
+      "title_en": "Tesla investor Ross Gerber: Optimus <em>won't see revenue anytime soon</em>",
+      "hotShort_en": "Ross Gerber: Optimus <em>revenue is nowhere close</em>",
+      "body_en": "Longtime Tesla investor and vocal Optimus skeptic Ross Gerber told The Information that humanoid robots are hard to build — \"hands are tough, feet are tough, and eyes are tough\" — and said <em>there's no revenue coming anytime soon</em> despite the massive spend.",
+      "summary_en": "Ross Gerber, head of Gerber Kawasaki and a longtime Tesla investor, laid out his skepticism about Optimus in an interview with The Information. \"Hands are tough, feet are tough, and eyes are tough,\" he said, arguing that building a humanoid robot that walks like a person is far harder than building robots that rely on wheels or tracks.\n\nGerber specifically questioned the commercial case for a consumer-facing Optimus. \"Spending a trillion dollars to build a robot to fold clothes doesn't make any sense to me at all,\" he said, adding that the scale of investment doesn't match any near-term revenue. He argued that military, space, and industrial applications made far more sense as use cases.\n\nThe comments came just after Tesla's Q2 earnings, where Elon Musk said Optimus production should start around late July or August while acknowledging the actual unit count achievable this year remains unclear. Musk also said Robotaxi revenue won't become meaningful until 2027.\n\nGerber, an early Tesla investor and longtime shareholder, has increasingly criticized the company over delays in Robotaxi and FSD progress. His remarks stand as one of the most pointed pushbacks yet against the market's optimism on Optimus.",
+      "href": "https://www.benzinga.com/markets/tech/26/07/60661004/ross-gerber-questions-teslas-optimus-bet-theres-no-revenue-coming-anytime-soon",
+      "sentiment": "bear",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
@@ -69,6 +89,26 @@
       "href": "https://www.teslarati.com/tesla-traction-control-modes-summer-update/",
       "sentiment": "neutral",
       "hot": 3
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "19h ago",
+      "pubDate": "2026-07-26T18:00:00.000Z",
+      "title": "NHTSA, <em>자율주행 전용차 브레이크 페달 규정 폐지</em> 추진 — 사이버캡 겨냥",
+      "hotShort": "NHTSA, 자율주행차 <em>브레이크 페달 폐지</em> 추진",
+      "body": "미국 NHTSA가 사람이 아예 타지 않는 자율주행 전용차에 한해 수동 브레이크 페달 의무 규정(FMVSS 135)을 없애는 개정안의 공청 의견수렴을 오늘(현지시간 7/27) 마감한다 — 테슬라 부사장 라스 모라비가 이미 사이버캡은 NHTSA의 연간 2,500대 생산 상한 대상이 아니라고 확인한 가운데, 남은 규제 불확실성까지 해소하는 신호다.",
+      "sourceName": "Tech Times",
+      "sourceLabel": "sec",
+      "slug": "fsd-nhtsa-brake-pedal-rule-cybercab-2026-07-26",
+      "summary": "NHTSA는 지난 6월 26일 연방관보를 통해 연방자동차안전기준(FMVSS) 135호 개정안을 제안했다. 핵심은 사람이 전혀 탑승하지 않고 자율주행시스템(ADS)만으로 운행하는 차량에 한해, 손·발로 조작하는 물리적 브레이크 페달 요건을 없애고 전자식 제동 작동으로 대체할 수 있도록 하는 것이다. 다만 제동거리 등 안전 기준 자체는 기존과 동일하게 유지된다.\n\n이 개정안에 대한 공청 의견수렴(도킷 NHTSA-2026-0728)이 오늘(현지시간 7월 27일) 영업 종료 시점에 마감된다. 개정안이 확정되면 사람이 탑승하지 않는 완전 무인 차량 설계에 대한 규제 근거가 명확해진다.\n\n테슬라는 이미 사이버캡을 기존 연방자동차안전기준을 그대로 준수하도록 설계해 규정이 정비되기를 기다려 왔다. 테슬라 차량엔지니어링 부사장 라스 모라비는 X를 통해 사이버캡이 NHTSA의 연간 2,500대 생산 상한 규정 대상이 아니라고 이미 확인한 바 있다 — 이번 FMVSS 135 개정까지 통과되면 대량 생산 단계에서 남아 있던 마지막 규제 모호성까지 사라지는 셈이다.\n\n아마존 자회사 Zoox는 다른 방식으로 같은 규제 지점에 이미 도달해 있다. 승객끼리 마주 보고 앉는 대칭형 4인승 차량으로, 스티어링 휠도 페달도 운전석도 없는 설계다. 두 회사 모두 '핸들·페달 없는 완전자율주행차'라는 새 차종 범주가 규제상 정식으로 자리 잡는 흐름의 최전선에 있다.",
+      "title_en": "NHTSA moves to scrap <em>brake pedal rule</em> for driverless-only vehicles — clearing the way for Cybercab",
+      "hotShort_en": "NHTSA to drop <em>brake pedal rule</em> for driverless cars",
+      "body_en": "The U.S. NHTSA's public comment period closes today (July 27, ET) on a proposal to remove the manual brake pedal requirement (FMVSS No. 135) for vehicles built exclusively for driverless operation — Tesla VP Lars Moravy has already confirmed Cybercab won't be subject to NHTSA's 2,500-unit annual production cap, and this rule change would clear the last regulatory ambiguity standing in the way of mass production.",
+      "summary_en": "NHTSA proposed the amendment to Federal Motor Vehicle Safety Standard No. 135 in the Federal Register on June 26. The core change: vehicles operated exclusively by an Automated Driving System, with no human occupant ever behind the wheel, would no longer need a hand- or foot-operated brake pedal — electronic brake activation would suffice instead. The same stopping-distance safety benchmarks remain in place regardless of how the brake is triggered.\n\nPublic comments on the proposal (docket NHTSA-2026-0728) close today, July 27, at the end of business. If finalized, the rule would give driverless-only vehicle designs a clear regulatory basis they've lacked until now.\n\nTesla built Cybercab to comply with the existing safety standards as written, betting the rules themselves would eventually catch up. Tesla VP of Vehicle Engineering Lars Moravy has already confirmed on X that Cybercab isn't subject to NHTSA's 2,500-unit annual production cap — if this FMVSS 135 update also goes through, it would remove the last remaining regulatory ambiguity around mass-producing the vehicle.\n\nAmazon's Zoox has already arrived at the same regulatory destination by a different route: its bidirectional, four-seat robotaxi has no steering wheel, no pedals, and no seat reserved for a driver. Together, the two companies sit at the front of a broader shift toward regulators formally recognizing a new vehicle category — fully driverless cars with no manual controls at all.",
+      "href": "https://www.techtimes.com/articles/321624/20260726/nhtsa-brake-rule-would-end-robotaxi-production-cap-public-comment-closes-tomorrow.htm",
+      "sentiment": "bull",
+      "hot": 5
     },
     {
       "category": "product",
@@ -2301,53 +2341,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-13T10:48:46.000Z",
-      "title": "게리 블랙 \"스페이스X 주가, <em>IPO가 $135 밑으로</em> 떨어질 수도\" — 내부자 락업 해제 겨냥",
-      "hotShort": "게리 블랙, 스페이스X 주가 <em>IPO가 하회</em> 경고",
-      "body": "베테랑 애널리스트 게리 블랙이 스페이스X 주가가 조만간 IPO 공모가 $135를 밑돌 수 있다고 경고했다 — 2분기 실적 발표 후 내부자(머스크 제외) 지분 최대 20% 매도가 풀리는 락업 해제 일정이 매물 압력의 핵심 근거다.",
-      "sourceName": "Benzinga",
-      "sourceLabel": "press",
-      "slug": "musk-gary-black-spacex-below-ipo-price-2026-07-13",
-      "summary": "스페이스X 주가에 대한 회의론을 이어온 게리 블랙(전 퍼시픽 자산운용 CIO)이 이번엔 구체적인 매물 폭탄 시나리오를 제시했다. 그는 IPO 공모가인 $135 밑으로 주가가 조만간 떨어질 수 있다고 경고했다.\n\n근거는 내부자 지분 락업 해제 일정이다. 2분기 실적 발표 직후 머스크를 제외한 내부자들이 보유 지분의 최대 20%까지 매도가 가능해지고, 이후 상장 70일·90일·105일·120일·135일째마다 추가로 7%씩 매도 가능 물량이 풀린다. 3분기 실적 발표 후에는 다시 28%가 추가로 해제된다 — 상장 초기 몇 달간 계속해서 대규모 매물이 시장에 나올 수 있는 구조다.\n\n블랙은 앞서에도 스페이스X 밸류에이션에 지속적으로 의문을 제기해왔다 — 2026년 EV/EBITDA 기준 150배는 투자자가 지불하기엔 과도하다는 입장이다. 본인도 스페이스X 주식을 전혀 보유하고 있지 않다고 밝히며, 커뮤니티의 강세 분위기와 대비되는 자신의 회의적 시각을 강조했다.\n\n월가 시각은 극단적으로 엇갈린다. JP모건은 목표주가 $225를, 모건스탠리는 강세 시나리오로 $300을 각각 제시한 상태다 — 블랙의 경고와 정반대편에 있는 셈이다. 테슬라 주주 입장에서는 직접적인 TSLA 실적 변수는 아니지만, 테슬라·스페이스X 합병설이 여전히 거론되는 가운데 스페이스X 밸류에이션을 둘러싼 불확실성이 커지고 있다는 신호로 볼 만하다.",
-      "title_en": "Gary Black warns SpaceX stock could <em>fall below its $135 IPO price</em> as insider lockups unwind",
-      "hotShort_en": "Gary Black: SpaceX stock <em>could dip below IPO price</em>",
-      "body_en": "Veteran analyst Gary Black warned SpaceX shares could soon trade below their $135 IPO price — pointing to a lockup schedule that lets insiders (excluding Musk) sell up to 20% of their stakes right after the Q2 earnings call, with more unlocking in stages after that.",
-      "summary_en": "Gary Black, a longtime SpaceX valuation skeptic, has laid out a concrete scenario for why the stock could soon slip below its $135 IPO price.\n\nThe trigger is the insider lockup schedule. Right after SpaceX's Q2 earnings call, insiders excluding Musk can sell up to 20% of their holdings. More unlocks follow at the 70th, 90th, 105th, 120th and 135th days after the IPO, each freeing up another 7% — and another 28% unlocks after the Q3 earnings call. That structure means waves of potential selling pressure could keep hitting the stock for months after listing.\n\nBlack has repeatedly questioned SpaceX's valuation, arguing investors shouldn't be paying roughly 150x 2026 EV/EBITDA for the company. He said he holds no SPCX position himself, underscoring how far his skepticism runs against the bullish sentiment elsewhere.\n\nWall Street's targets span a wide range — JPMorgan has set a $225 price target while Morgan Stanley's bull case reaches $300, both well above Black's bearish call. For Tesla shareholders, this isn't a direct TSLA earnings signal, but it adds to the uncertainty around SpaceX's valuation just as Tesla-SpaceX merger speculation continues to circulate.",
-      "href": "https://www.benzinga.com/news/space/26/07/60408883/gary-black-thinks-spacex-stock-could-soon-trade-below-its-ipo-price-heres-why",
-      "sentiment": "bear",
-      "hot": 3
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-13T06:08:34.000Z",
-      "title": "삼성 테일러 공장, 테슬라 <em>AI5 칩 생산 단계</em> 돌입 — 2나노 공정",
-      "hotShort": "삼성 테일러 공장, <em>AI5 칩 생산</em> 단계 돌입",
-      "body": "삼성전자 텍사스 테일러 파운드리가 테슬라 차세대 자율주행·옵티머스용 AI5 칩의 <em>양산 준비 단계</em>에 들어갔다 — 2나노 공정 설계(테이프아웃)를 마쳤고, 팹은 올 하반기 가동을 시작해 2027년 테슬라향 본격 양산에 나설 예정이다. 기존 AI4(삼성 평택 7나노) 대비 공정 세대가 크게 도약해, FSD·로보틱스 컴퓨팅 파워 확장의 다음 단계를 보여준다.",
-      "sourceName": "Korea Times",
-      "sourceLabel": "press",
-      "slug": "fsd-samsung-ai5-chip-taylor-production-2026-07-13",
-      "summary": "삼성전자가 텍사스 테일러에 짓고 있는 파운드리가 테슬라의 차세대 자율주행 칩 'AI5' 생산을 위한 준비 단계에 진입했다. 삼성 파운드리 소속 엔지니어는 최근 AI5의 2나노 공정 설계(테이프아웃)를 완료했다고 밝혔으며, 해당 칩은 조만간 테슬라의 최신 제품에 탑재될 예정이라고 전했다.\n\nAI5는 삼성의 최첨단 2나노 공정과 신규 텍사스 생산기지로의 전환을 상징한다. 현재 테슬라 차량에 쓰이는 AI4 칩은 삼성 평택캠퍼스의 7나노 공정으로 생산되고 있어, 이번 전환은 공정 세대를 크게 뛰어넘는 도약이다.\n\n테일러 팹은 올해 하반기 초기 가동을 시작한 뒤, 테슬라를 포함한 주요 고객사向 본격 양산을 2027년부터 진행할 계획이다. AI5는 FSD(자율주행)뿐 아니라 옵티머스 휴머노이드 로봇에도 탑재될 예정으로, 테슬라의 AI 컴퓨팅 인프라 확장 로드맵의 핵심 부품이다.\n\n테슬라 주주 입장에서는 자율주행·로보틱스 사업의 연산 능력을 좌우할 차세대 칩의 공급망이 실제로 가동 단계에 들어섰다는 뜻이다. 앞서 일론 머스크는 텍사스 테일러 팹의 생산 역량이 TSMC 미국 공장보다 우수하다고 평가한 바 있으며, AI5는 삼성과 TSMC 애리조나 공장에 이원화 생산될 예정이다.",
-      "title_en": "Samsung's Taylor fab enters <em>production phase</em> for Tesla's AI5 chip — on 2nm process",
-      "hotShort_en": "Samsung Taylor fab hits <em>AI5 production phase</em>",
-      "body_en": "Samsung's Taylor, Texas foundry has entered the <em>production-readiness phase</em> for Tesla's next-gen AI5 chip — tape-out on the 2nm process is complete, with the fab starting initial operations later this year and full-scale production for Tesla beginning in 2027. It's a major process jump from the current AI4 chip, built on Samsung's 7nm line in Pyeongtaek.",
-      "summary_en": "Samsung's foundry under construction in Taylor, Texas has entered the readiness phase for producing Tesla's next-generation AI5 chip. A Samsung Foundry engineer recently confirmed that the 2nm design tape-out for AI5 is complete, and the chip is set to be equipped in Tesla's newest products soon.\n\nAI5 marks Samsung's shift to its most advanced 2nm process and its new Texas manufacturing base. Tesla's current AI4 chip, by comparison, is produced on Samsung's 7nm process at its Pyeongtaek campus in Korea — making this a significant generational leap.\n\nThe Taylor fab is expected to begin initial operations later this year, with full-scale production for key customers including Tesla starting in 2027. AI5 is slated to power both FSD (Full Self-Driving) computing and the Optimus humanoid robot, making it a core piece of Tesla's AI infrastructure roadmap.\n\nFor Tesla shareholders, the milestone means the chip supply chain underpinning the company's autonomy and robotics ambitions is now moving into an active production stage. Elon Musk has previously said Samsung's Taylor fab outperforms TSMC's U.S. facilities, and Tesla plans to dual-source AI5 production between Samsung and TSMC's Arizona plant.",
-      "href": "https://www.koreatimes.co.kr/business/tech-science/20260713/samsung-taylor-fab-enters-production-phase-for-teslas-ai5-chip",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Korea Times",
-        "SamMobile",
-        "GuruFocus"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-27 08:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-27 22:15 KST 자동 갱신 · 최신순"
 }
