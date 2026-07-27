@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "50m ago",
+      "pubDate": "2026-07-27T14:16:40.000Z",
+      "title": "테슬라, 英 대법원서 <em>InterDigital 상대 5G 특허소송 부활</em> 승소",
+      "hotShort": "테슬라, <em>英대법원서 5G 특허소송</em> 부활 승소",
+      "body": "영국 대법원이 테슬라가 InterDigital·Avanci를 상대로 낸 5G 표준특허 라이선스 소송을 되살릴 수 있다고 판결 — 특허 풀에 참여했다는 이유만으로 FRAND(공정·합리·비차별) 라이선스 의무를 피할 수 없다는 원칙을 재확인해, 테슬라의 커넥티드카 특허 로열티 비용 리스크를 낮추는 선례가 될 전망이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-interdigital-uk-supreme-court-win-2026-07-27",
+      "summary": "발단은 2026년이 아니라 2023년으로 거슬러 올라간다. 테슬라는 영국에서 5G 차량을 출시하기에 앞서, InterDigital이 보유하고 Avanci가 라이선싱하는 자동차용 5G 표준특허에 대해 공정한 라이선스 조건(FRAND)을 법원이 정해달라며 런던 고등법원에 소송을 냈다.\n\n2024년 고등법원은 InterDigital·Avanci의 손을 들어주며 테슬라의 FRAND 결정 청구를 기각했고, 2025년 3월 항소법원도 2대1 의견으로 테슬라 패소를 유지했다 — 다만 InterDigital 특허 3건의 무효 여부를 다투는 별도 청구는 계속 진행할 수 있다고 남겨뒀다.\n\n이번 대법원 판결은 이 구도를 뒤집었다. 특허 보유자가 특허 풀·라이선싱 플랫폼(Avanci)에 참여한다고 해서 표준특허를 FRAND 조건으로 라이선스할 의무에서 자동으로 벗어나는 건 아니라고 판시한 것 — 사건은 다시 고등법원으로 돌아가 구체적인 FRAND 요율을 다투게 됐다.\n\n주주 입장에서 이번 판결은 당장의 실적보다 구조적 의미가 크다. 커넥티드카에 필수적인 5G 표준특허 라이선싱 비용은 자동차 업계 전반이 특허 풀과 씨름해온 문제로, 이번 판결로 테슬라를 비롯한 완성차업체들이 향후 로열티 협상에서 더 유리한 지렛대를 쥐게 됐다는 평가다.",
+      "title_en": "Tesla wins UK Supreme Court bid to <em>revive 5G patent suit</em> against InterDigital",
+      "hotShort_en": "Tesla <em>revives UK 5G patent case</em> at top court",
+      "body_en": "The UK Supreme Court ruled Tesla can revive its lawsuit against InterDigital and Avanci over 5G standard-essential patent licensing terms — reaffirming that joining a patent pool doesn't let patent owners escape FRAND (fair, reasonable, non-discriminatory) licensing obligations, a precedent that could lower Tesla's connected-car patent royalty costs going forward.",
+      "summary_en": "The story starts in 2023, not 2026. Ahead of launching 5G-equipped vehicles in Britain, Tesla sued InterDigital and Avanci — which licenses automotive patents including InterDigital's — at London's High Court, asking the court to set fair (FRAND) licensing terms.\n\nIn 2024, the High Court sided with InterDigital and Avanci, throwing out Tesla's bid for a FRAND-rate ruling, and in March 2025 the Court of Appeal upheld that loss in a split 2-1 decision — though it let Tesla's separate claim to invalidate three InterDigital patents proceed.\n\nThe Supreme Court has now reversed that outcome, holding that patent owners don't escape their FRAND licensing obligations simply by participating in a patent pool or licensing platform like Avanci. The case now returns to the High Court to fight over the actual FRAND rate.\n\nFor shareholders, the ruling matters more structurally than immediately. 5G standard-essential patent licensing costs for connected cars have been a long-running fight across the auto industry, and this ruling gives Tesla — and automakers generally — more leverage in future royalty negotiations.",
+      "href": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N3WO0A3:0-tesla-wins-bid-to-revive-uk-lawsuit-for-5g-patents-licence/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-27T13:34:38.000Z",
+      "title": "테슬라, <em>인종차별 소송 일부 합의</em> — 프리몬트 공장 수백 명은 소송 지속",
+      "hotShort": "테슬라, <em>인종차별 소송 일부 합의</em>·나머지는 계속",
+      "body": "2017년 마커스 본이 제기해 사건에 이름을 준 프리몬트 공장 인종차별 소송에서, 테슬라가 원고 3명과 비공개 조건으로 합의했다 — 다만 최대 580명의 흑인 근로자와 캘리포니아 시민권 당국의 별도 소송은 배심 재판을 앞두고 그대로 남아, 법적 리스크가 완전히 해소된 건 아니다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "stock-racism-lawsuit-partial-settlement-2026-07-27",
+      "summary": "테슬라 프리몬트 공장을 둘러싼 인종차별 소송은 2017년 마커스 본이 처음 제기한 이후, 수백 명의 흑인 근로자가 가세하며 캘리포니아에서 가장 오래 끈 직장 내 차별 소송 중 하나로 커졌다.\n\n이번에 테슬라는 원고 중 마커스 본, 타이터스 매케일럽, 모니카 채트먼 3명과 비공개 조건으로 합의했다. 합의 금액 등 세부 조건은 공개되지 않았다.\n\n하지만 소송 전체가 끝난 건 아니다. 개럿 파커, 샤넬 헨드릭스 등 남은 원고들의 소송은 계속되고, 최대 580명에 달하는 흑인 근로자들의 별도 집단소송도 진행 중이다. 캘리포니아 시민권 당국(공정고용주택국)은 자체 소송을 배심 재판까지 끌고 갈 방침이어서, 테슬라의 법적 리스크는 당분간 남는다.\n\n앞서 테슬라는 지난 1월 미 평등고용기회위원회(EEOC)와도 비공개 조정 절차에 들어가기로 합의한 바 있다 — 행정분쟁해결법(ADRA)에 따라 기록·속기록이 남지 않는 방식이어서, 이번 부분 합의를 포함해 관련 소송들이 조용히 정리되는 흐름이 이어지고 있다.",
+      "title_en": "Tesla <em>partly settles racism lawsuit</em> as hundreds of workers press on",
+      "hotShort_en": "Tesla <em>settles with 3 workers</em>, case still continues",
+      "body_en": "Tesla has reached a confidential settlement with three plaintiffs — Marcus Vaughn, Titus McCaleb, and Monica Chatman — in the racial discrimination case tied to its Fremont factory, which Vaughn's 2017 complaint originally set in motion. But up to 580 Black workers and California's civil rights agency are still pursuing claims toward a jury trial, so the legal overhang isn't gone.",
+      "summary_en": "The racism lawsuit surrounding Tesla's Fremont factory has grown into one of California's longest-running workplace discrimination cases since Marcus Vaughn first filed in 2017, with hundreds of Black workers eventually joining.\n\nTesla has now confidentially settled with three of the named plaintiffs — Vaughn, Titus McCaleb, and Monica Chatman. Terms, including any payout, weren't disclosed.\n\nThe case is far from over, though. Remaining named plaintiffs Garret Parker and Chanel Hendrix are still suing, and a separate class action covering up to 580 Black workers continues. California's civil rights agency also plans to take its own case to a jury, keeping legal exposure on the table for Tesla.\n\nThe settlement follows Tesla's decision in January to move its parallel EEOC case into confidential mediation — a process under the Administrative Dispute Resolution Act that leaves no transcripts or notes, part of a pattern of these disputes being resolved quietly out of public view.",
+      "href": "https://electrek.co/2026/07/27/tesla-partly-settles-racism-lawsuit-hundreds-of-workers-press-on/",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "4h ago",
@@ -2290,58 +2330,7 @@
       ],
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-13T13:59:16.000Z",
-      "title": "스페이스X, 스타십 13차 시험비행 <em>7월16일</em>로 확정 — 12차 엔진 이상 원인도 공개",
-      "hotShort": "스페이스X, 스타십 13차 발사 <em>7월16일</em> 확정",
-      "body": "스페이스X가 스타십 13차 시험비행을 7월16일(현지시간 오후 6시45분, 텍사스 스타베이스)로 확정하고, 직전 12차 비행에서 나타난 상단부 엔진 정지(엔진-아웃) 문제의 원인과 개선 조치를 함께 공개했다 — 재사용 로켓 신뢰성이 쌓일수록 일론 머스크가 그리는 화성 이주·스타링크 확장 청사진에 힘이 실린다.",
-      "sourceName": "Space.com",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-starship-flight13-july16-2026-07-13",
-      "summary": "스페이스X가 13번째 스타십 통합시험비행을 7월16일(현지시간 오후 6시45분, 90분 발사창)로 확정했다. 발사 장소는 텍사스 스타베이스다.\n\n이번 비행에서는 스타링크 V3 위성 20기를 실제로 궤도에 올려 태양전지판·안테나를 전개하고, 남아공 지상국 및 다른 위성들과 통신을 시도한다. 20기 중 6기에는 카메라를 탑재해 스타십 열차폐 상태를 비행 중 촬영·전송한다.\n\n부스터(부스터20)는 점화 순서를 타이밍 편차에 견디도록 개선했고, 재점화 신뢰성을 높이는 하드웨어 변경과 엔진 경보·중단(어보트) 로직도 업데이트했다. 상단부 추진 시스템은 직전 12차 비행에서 나타난 엔진 정지(엔진-아웃) 문제를 해결하기 위한 수정을 반영했다.\n\n열차폐 시험도 강화됐다 — 누락된 타일 자리를 대신할 흰색 타일을 촬영 기준점으로 부착했고, 재진입 시 실시간 응력을 기록하는 하중센서 타일도 탑재된다. 후미 플랩·스커트 부위에는 새로운 타일 설계·부착 방식을 시험한다.\n\n스페이스X는 스타십을 통해 스타링크 대량 발사와 궤도급 로켓의 완전 재사용을 증명하려 하며, 이는 일론 머스크가 강조해온 화성 이주 로드맵의 핵심 전제다.",
-      "title_en": "SpaceX confirms Starship Flight 13 for <em>July 16</em>, discloses cause of Flight 12 engine issue",
-      "hotShort_en": "SpaceX targets <em>July 16</em> for Starship 13",
-      "body_en": "SpaceX has set July 16 (6:45pm ET, Starbase, Texas) for its 13th Starship test flight and disclosed what caused the upper-stage engine-out issue on Flight 12 — as reusable-rocket reliability builds, it strengthens the case for Elon Musk's Mars and Starlink expansion roadmap.",
-      "summary_en": "SpaceX has confirmed July 16 (6:45pm ET, a 90-minute window) for its 13th integrated Starship test flight, launching from Starbase, Texas.\n\nThe flight will deploy 20 working Starlink V3 satellites, which are expected to extend their solar arrays and antennas and attempt to link with a ground station in South Africa and with other satellites in the constellation. Six of the 20 satellites carry camera suites to image Starship's heat shield in flight.\n\nBooster 20 carries a revised startup sequence to tolerate timing variability and flip more reliably, plus hardware changes to improve relight reliability and updated engine alarms and abort logic. Upper-stage propulsion modifications address the engine-out issue experienced on Flight 12.\n\nHeat-shield testing has also been expanded — several tiles have been painted white to stand in for missing ones and serve as imaging targets, while load-sensing tiles will record real-time stress during reentry. New tile designs and attachment methods are being tested on the aft flaps and skirts.\n\nSpaceX is using Starship to prove out mass Starlink deployment and full reuse of an orbital-class rocket — a core premise of the Mars colonization roadmap Musk has long emphasized.",
-      "href": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-16-for-starship-flight-13-reveals-what-went-wrong-on-previous-launch",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Space.com",
-        "SpaceNews",
-        "The Register"
-      ],
-      "sentiment": "neutral",
-      "hot": 3
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-13T13:51:29.000Z",
-      "title": "그록(Grok), 테슬라 <em>한국·일본</em> 차량에도 도입",
-      "hotShort": "그록, 한국·일본 테슬라에도 <em>탑재 시작</em>",
-      "body": "일론 머스크의 AI 챗봇 그록이 한국·일본 테슬라 차량으로도 확대됐다 — 일본은 7월10일 테슬라재팬 공식 계정이 소프트웨어 2026.20 이상 탑재를 공식화했고, 한국은 7월12일부터 <em>신차에 영어 버전이 기본 탑재</em>된다(한국어 지원은 아직). 미국·유럽에 이어 아시아 핵심 시장까지 그록 탑재가 확대되는 신호.",
-      "sourceName": "Fortune Korea",
-      "sourceLabel": "press",
-      "slug": "musk-grok-korea-japan-2026-07-13",
-      "summary": "일론 머스크의 AI 챗봇 '그록(Grok)'이 아시아 핵심 시장인 한국과 일본의 테슬라 차량으로도 영역을 넓혔다. 두 나라는 도입 시점과 방식이 조금씩 다르다.\n\n일본은 7월10일 테슬라재팬 공식 X 계정이 \"그록에게 무엇이든 물어보세요\"라는 문구와 함께 자국 차량 탑재를 공식 발표했다. 소프트웨어 버전 2026.20 이상이 필요하며, 프리미엄 커넥티비티 구독이나 Wi-Fi 연결만 있으면 추가 요금 없이 베타로 이용할 수 있다. 미국에는 2025년 7월부터 순차 도입됐던 기능으로, 일본은 그 다음 주요 시장이다.\n\n한국은 7월12일 이후 출고되는 모든 신형 테슬라 차량에 그록이 기본 탑재되는 방식으로 도입됐다. 다만 현재는 영어 버전만 지원되며, 앞서 \"2026년 초 시작 예정\"이라고 안내됐던 한국어 지원은 아직 이뤄지지 않은 상태다.\n\n테슬라 주주 입장에서는 그록이 차량 소프트웨어의 핵심 기능으로 자리잡으며 아시아 판매 시장까지 확대되고 있다는 신호다 — 머스크가 강조해온 'AI 플랫폼으로서의 테슬라' 전략이 하드웨어 판매를 넘어 소프트웨어·구독 매출로 이어질 수 있을지가 관전 포인트다.",
-      "title_en": "Grok AI rolls out to Tesla vehicles in <em>Korea and Japan</em>",
-      "hotShort_en": "Grok AI reaches <em>Korea and Japan</em> Teslas",
-      "body_en": "Elon Musk's Grok AI has expanded to Tesla vehicles in Korea and Japan — Tesla Japan's official account confirmed on July 10 that cars running software 2026.20+ now support Grok, while new Tesla vehicles delivered in Korea from July 12 come with the <em>English-language version pre-installed</em> (Korean support still pending).",
-      "summary_en": "Elon Musk's Grok AI chatbot has expanded into two key Asian markets for Tesla: Korea and Japan. The two countries got the feature on slightly different timelines and terms.\n\nIn Japan, Tesla Japan's official X account announced on July 10 that Grok was now supported in vehicles there, under the tagline \"Ask Grok anything.\" It requires software version 2026.20 or later, and works in beta at no extra charge with either a Premium Connectivity subscription or a Wi-Fi connection. The U.S. got the feature starting in July 2025, making Japan the next major rollout market.\n\nIn Korea, every new Tesla vehicle delivered from July 12 onward comes with Grok pre-installed. For now, only the English-language version is available — Korean-language support, previously said to be coming in \"early 2026,\" has yet to materialize.\n\nFor Tesla shareholders, the expansion signals Grok becoming a standard feature across Tesla's software stack as it reaches further into Asian markets — a test of whether Musk's \"Tesla as an AI platform\" pitch can translate into software and subscription revenue beyond hardware sales.",
-      "href": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=49083",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Fortune Korea",
-        "Digital Today"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-27 22:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-27 23:20 KST 자동 갱신 · 최신순"
 }
