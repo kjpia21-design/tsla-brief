@@ -686,6 +686,27 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-07-27T08:15:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-david-moss-20000-mile-streak-2026-07-27",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for Teslarati (not sec/official/rumor)",
+            "no advisory tone (no buy/sell/price target)",
+            "no hedge-to-assertion conversion — source states milestone directly, card matches",
+            "numbers cross-checked via independent WebSearch corroboration (Teslarati/Ride AI/eletric-vehicles.com): 10,000mi Dec 2025 v14.2, 2,732mi LA-Myrtle Beach in 2d20h, 12,961mi/30 states ended Jan in WI, 3,760mi Vancouver-Halifax late May, 20,000+mi current streak — all match",
+            "href matches the exact Teslarati article covering this event",
+            "not X-sourced, meme/satire check N/A",
+            "note: direct WebFetch on teslarati.com returned 403; verification relied on independent cross-source WebSearch corroboration instead of direct origin refetch"
+          ]
+        }
+      ]
     }
   ]
 }
