@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-07-27 11:30 UTC · 누적 689건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-27 14:48 UTC · 누적 691건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-07-27T08:42:27.000Z",
+      "title": "로스 게버 \"옵티머스, <em>당분간 매출 없다</em>\" — \"손·발·눈 다 어렵다\"",
+      "hotShort": "로스 게버 \"옵티머스 <em>매출 당분간 없다</em>\"",
+      "body": "테슬라 초기 투자자이자 대표적 약세론자인 로스 게버가 The Information 인터뷰에서 옵티머스 휴머노이드 로봇에 대해 \"손도, 발도, 눈도 다 만들기 어렵다\"며 <em>단기간 내 매출은 없을 것</em>이라 잘라 말했다 — 대규모 투자 대비 상업화 시점은 여전히 안갯속이라는 지적이다.",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "product-gerber-optimus-no-revenue-2026-07-27",
+      "summary": "게버카와사키(Gerber Kawasaki) 대표 로스 게버는 The Information과의 인터뷰에서 테슬라의 인간형 로봇 옵티머스에 대해 회의적인 입장을 밝혔다. 그는 \"손이 어렵고, 발이 어렵고, 눈도 어렵다\"며 바퀴나 무한궤도를 쓰는 로봇에 비해 사람처럼 걷는 휴머노이드 로봇을 만드는 일 자체가 훨씬 까다롭다고 지적했다.\n\n게버는 특히 소비자용 옵티머스의 상업적 기회에 의문을 제기했다. \"옷을 개는 로봇을 만드는 데 1조 달러를 쓰는 건 전혀 말이 안 된다\"며, 투자 규모에 비해 단기 매출 전망이 턱없이 부족하다고 지적했다. 대신 군사·우주·산업용 응용 분야가 더 현실적인 활용처라고 봤다.\n\n이번 발언은 테슬라 2분기 실적 발표 직후 나왔다. 당시 일론 머스크는 옵티머스 생산이 7월 말~8월경 시작될 것이라 밝히면서도 올해 실제 생산 가능 대수는 여전히 불확실하다고 인정한 바 있다. 로보택시 매출 역시 \"2027년은 돼야 의미 있는 수준\"이라고 못박았다.\n\n게버는 테슬라 초기 투자자이자 오랜 주주로, 최근에는 로보택시·FSD 진전 지연을 이유로 회사에 비판적인 목소리를 자주 내왔다. 이번 발언은 옵티머스를 향한 시장의 낙관론에 대한 대표적 반론으로 꼽힌다.",
+      "title_en": "Tesla investor Ross Gerber: Optimus <em>won't see revenue anytime soon</em>",
+      "hotShort_en": "Ross Gerber: Optimus <em>revenue is nowhere close</em>",
+      "body_en": "Longtime Tesla investor and vocal Optimus skeptic Ross Gerber told The Information that humanoid robots are hard to build — \"hands are tough, feet are tough, and eyes are tough\" — and said <em>there's no revenue coming anytime soon</em> despite the massive spend.",
+      "summary_en": "Ross Gerber, head of Gerber Kawasaki and a longtime Tesla investor, laid out his skepticism about Optimus in an interview with The Information. \"Hands are tough, feet are tough, and eyes are tough,\" he said, arguing that building a humanoid robot that walks like a person is far harder than building robots that rely on wheels or tracks.\n\nGerber specifically questioned the commercial case for a consumer-facing Optimus. \"Spending a trillion dollars to build a robot to fold clothes doesn't make any sense to me at all,\" he said, adding that the scale of investment doesn't match any near-term revenue. He argued that military, space, and industrial applications made far more sense as use cases.\n\nThe comments came just after Tesla's Q2 earnings, where Elon Musk said Optimus production should start around late July or August while acknowledging the actual unit count achievable this year remains unclear. Musk also said Robotaxi revenue won't become meaningful until 2027.\n\nGerber, an early Tesla investor and longtime shareholder, has increasingly criticized the company over delays in Robotaxi and FSD progress. His remarks stand as one of the most pointed pushbacks yet against the market's optimism on Optimus.",
+      "href": "https://www.benzinga.com/markets/tech/26/07/60661004/ross-gerber-questions-teslas-optimus-bet-theres-no-revenue-coming-anytime-soon",
+      "sentiment": "bear",
+      "hot": 4
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -70,6 +90,26 @@
       "href": "https://www.teslarati.com/tesla-traction-control-modes-summer-update/",
       "sentiment": "neutral",
       "hot": 3
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "19h ago",
+      "pubDate": "2026-07-26T18:00:00.000Z",
+      "title": "NHTSA, <em>자율주행 전용차 브레이크 페달 규정 폐지</em> 추진 — 사이버캡 겨냥",
+      "hotShort": "NHTSA, 자율주행차 <em>브레이크 페달 폐지</em> 추진",
+      "body": "미국 NHTSA가 사람이 아예 타지 않는 자율주행 전용차에 한해 수동 브레이크 페달 의무 규정(FMVSS 135)을 없애는 개정안의 공청 의견수렴을 오늘(현지시간 7/27) 마감한다 — 테슬라 부사장 라스 모라비가 이미 사이버캡은 NHTSA의 연간 2,500대 생산 상한 대상이 아니라고 확인한 가운데, 남은 규제 불확실성까지 해소하는 신호다.",
+      "sourceName": "Tech Times",
+      "sourceLabel": "sec",
+      "slug": "fsd-nhtsa-brake-pedal-rule-cybercab-2026-07-26",
+      "summary": "NHTSA는 지난 6월 26일 연방관보를 통해 연방자동차안전기준(FMVSS) 135호 개정안을 제안했다. 핵심은 사람이 전혀 탑승하지 않고 자율주행시스템(ADS)만으로 운행하는 차량에 한해, 손·발로 조작하는 물리적 브레이크 페달 요건을 없애고 전자식 제동 작동으로 대체할 수 있도록 하는 것이다. 다만 제동거리 등 안전 기준 자체는 기존과 동일하게 유지된다.\n\n이 개정안에 대한 공청 의견수렴(도킷 NHTSA-2026-0728)이 오늘(현지시간 7월 27일) 영업 종료 시점에 마감된다. 개정안이 확정되면 사람이 탑승하지 않는 완전 무인 차량 설계에 대한 규제 근거가 명확해진다.\n\n테슬라는 이미 사이버캡을 기존 연방자동차안전기준을 그대로 준수하도록 설계해 규정이 정비되기를 기다려 왔다. 테슬라 차량엔지니어링 부사장 라스 모라비는 X를 통해 사이버캡이 NHTSA의 연간 2,500대 생산 상한 규정 대상이 아니라고 이미 확인한 바 있다 — 이번 FMVSS 135 개정까지 통과되면 대량 생산 단계에서 남아 있던 마지막 규제 모호성까지 사라지는 셈이다.\n\n아마존 자회사 Zoox는 다른 방식으로 같은 규제 지점에 이미 도달해 있다. 승객끼리 마주 보고 앉는 대칭형 4인승 차량으로, 스티어링 휠도 페달도 운전석도 없는 설계다. 두 회사 모두 '핸들·페달 없는 완전자율주행차'라는 새 차종 범주가 규제상 정식으로 자리 잡는 흐름의 최전선에 있다.",
+      "title_en": "NHTSA moves to scrap <em>brake pedal rule</em> for driverless-only vehicles — clearing the way for Cybercab",
+      "hotShort_en": "NHTSA to drop <em>brake pedal rule</em> for driverless cars",
+      "body_en": "The U.S. NHTSA's public comment period closes today (July 27, ET) on a proposal to remove the manual brake pedal requirement (FMVSS No. 135) for vehicles built exclusively for driverless operation — Tesla VP Lars Moravy has already confirmed Cybercab won't be subject to NHTSA's 2,500-unit annual production cap, and this rule change would clear the last regulatory ambiguity standing in the way of mass production.",
+      "summary_en": "NHTSA proposed the amendment to Federal Motor Vehicle Safety Standard No. 135 in the Federal Register on June 26. The core change: vehicles operated exclusively by an Automated Driving System, with no human occupant ever behind the wheel, would no longer need a hand- or foot-operated brake pedal — electronic brake activation would suffice instead. The same stopping-distance safety benchmarks remain in place regardless of how the brake is triggered.\n\nPublic comments on the proposal (docket NHTSA-2026-0728) close today, July 27, at the end of business. If finalized, the rule would give driverless-only vehicle designs a clear regulatory basis they've lacked until now.\n\nTesla built Cybercab to comply with the existing safety standards as written, betting the rules themselves would eventually catch up. Tesla VP of Vehicle Engineering Lars Moravy has already confirmed on X that Cybercab isn't subject to NHTSA's 2,500-unit annual production cap — if this FMVSS 135 update also goes through, it would remove the last remaining regulatory ambiguity around mass-producing the vehicle.\n\nAmazon's Zoox has already arrived at the same regulatory destination by a different route: its bidirectional, four-seat robotaxi has no steering wheel, no pedals, and no seat reserved for a driver. Together, the two companies sit at the front of a broader shift toward regulators formally recognizing a new vehicle category — fully driverless cars with no manual controls at all.",
+      "href": "https://www.techtimes.com/articles/321624/20260726/nhtsa-brake-rule-would-end-robotaxi-production-cap-public-comment-closes-tomorrow.htm",
+      "sentiment": "bull",
+      "hot": 5
     },
     {
       "category": "product",
