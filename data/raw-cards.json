@@ -1,10 +1,23 @@
 {
-  "asOf": "2026-07-27 21:16 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-27 21:45 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "19m ago",
+      "pubDate": "2026-07-27T21:26:03.000Z",
+      "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+      "body": "SpaceX has now lost the equivalent of a full Tesla in market capitalization CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html"
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9m ago",
+      "time": "37m ago",
       "pubDate": "2026-07-27T21:07:47.000Z",
       "title": "Self-driving Tesla Robotaxis may soon take over S.A.",
       "body": "Self-driving Tesla Robotaxis may soon take over S.A. MySA",
@@ -17,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "46m ago",
+      "time": "1h ago",
       "pubDate": "2026-07-27T20:30:00.000Z",
       "title": "CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, Workday, and More Stocks That Explain Today’s Market",
       "body": "CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, Workday, and More Stocks That Explain Today’s Market Barron's",
@@ -28,9 +41,22 @@
       "href": "https://www.barrons.com/articles/stock-movers-ed57540c"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-27T20:23:00.000Z",
+      "title": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations.",
+      "body": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-loses-year-gains-6acf48c3"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-07-27T18:50:36.000Z",
       "title": "Tesla Full Self-Driving v14.3.6 review: a rare regression, but some bright spots",
       "body": "Tesla Full Self-Driving v14.3.6 review: a rare regression, but some bright spots Teslarati",
@@ -39,19 +65,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-6-review-rare-regression-bright-spots/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-07-27T18:31:01.000Z",
-      "title": "Cybercabs Creep Into Queen City Lot As Tesla Eyes Robotaxi Turf",
-      "body": "Cybercabs Creep Into Queen City Lot As Tesla Eyes Robotaxi Turf Hoodline",
-      "sourceName": "Hoodline",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://hoodline.com/2026/07/cybercabs-creep-into-queen-city-lot-as-tesla-eyes-robotaxi-turf-7045980/"
     },
     {
       "category": "musk",
@@ -65,32 +78,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-07-27T15:31:00.000Z",
-      "title": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations.",
-      "body": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-loses-year-gains-6acf48c3"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
-      "pubDate": "2026-07-27T14:37:00.000Z",
-      "title": "Elon Musk’s Tunneling Firm Is Worth More Than About 100 S&P Companies",
-      "body": "Elon Musk’s Tunneling Firm Is Worth More Than About 100 S&P Companies Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/elon-musk-the-boring-company-valuation-17dcd043"
     },
     {
       "category": "musk",
@@ -121,7 +108,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-27T14:14:33.000Z",
       "title": "Markets remain in this tug of war between tech and the macro/Fed @CNBCMorningCall 🏆🐂🍿👇📺",
       "body": "Markets remain in this tug of war between tech and the macro/Fed @CNBCMorningCall 🏆🐂🍿👇📺 https://t.co/Hlp0jbrYeu",
@@ -134,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-27T14:13:50.000Z",
       "title": "SpaceXAI is in the group to help form a new alliance to build and share open tools that promote responsible use of an…",
       "body": "SpaceXAI is in the group to help form a new alliance to build and share open tools that promote responsible use of and trust in AI. https://t.co/8gTkHpNlXV https://t.co/e75kpNjuBi",
@@ -160,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-27T12:14:54.000Z",
       "title": "Here are Monday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, AMD, GM, Ford, Rivian & more",
       "body": "Here are Monday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, AMD, GM, Ford, Rivian & more CNBC",
@@ -173,7 +160,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-27T12:01:00.000Z",
       "title": "Tesla Stock Just Passed a Troubling Milestone",
       "body": "Tesla Stock Just Passed a Troubling Milestone Barron's",
@@ -199,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-27T06:47:35.000Z",
       "title": "Tesla FSD takes owner on a 20,000+ mile joy ride",
       "body": "Tesla FSD takes owner on a 20,000+ mile joy ride Teslarati",
@@ -208,6 +195,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-fsd-takes-owner-on-a-20000-mile-joy-ride/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3d ago",
+      "pubDate": "2026-07-24T19:15:14.000Z",
+      "title": "Waymo explores split with Uber as robotaxi tensions deepen",
+      "body": "Waymo explores split with Uber as robotaxi tensions deepen Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6"
     },
     {
       "category": "product",
@@ -254,8 +254,8 @@
       "time": "4d ago",
       "pubDate": "2026-07-23T23:24:24.000Z",
       "title": "US to Begin Work on New Car Door Safety Rules After Deaths in Teslas",
-      "body": "US to Begin Work on New Car Door Safety Rules After Deaths in Teslas Bloomberg",
-      "sourceName": "Bloomberg",
+      "body": "US to Begin Work on New Car Door Safety Rules After Deaths in Teslas Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
