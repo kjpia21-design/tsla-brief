@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-22T22:10:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "stock-q2-2026-earnings-call-july22-2026-07-12",
-          "verdict": "regrade",
-          "newSourceLabel": "press",
-          "reasons": [
-            "매출 $28.24B(+26% YoY, 컨센서스 $26.32B)·EPS $0.33 vs $0.50·영업이익 $398M(-57% YoY, 예상 $1.5B)·영업이익률 1.4%·조정 EBITDA $3.273B vs $4.0B·FCF -$1.09B vs -$3.64B 예상·capex 가이던스 $25B+(CFO 타네자)·TTM 매출 $100B 최초 돌파·로보택시 댈러스/휴스턴 무인·마이애미 확장·FSD 구독 56%↑148만·옵티머스 1세대 라인 설치중 발언 모두 복수 매체(Yahoo/CNBC 종합, TeslaNorth, driveteslacanada, stocktitan) 교차 확인",
-            "regrade 사유: 초안에 '사이버캡 2분기 중 양산 시작' 단정 문구가 있었으나 TeslaNorth 단일 소스 헤드라인 재해석 위험 판단 — 확정 사실인 '오스틴 공도 실차 테스트 다음 단계 진입'만 남기고 양산개시 단정 표현 제거(완화)",
-            "직접 원문(Bloomberg/Reuters/WSJ/SEC 8-K) WebFetch는 403 차단 — WebSearch 다중 소스 교차검증으로 대체"
-          ]
-        },
-        {
-          "slug": "fsd-robotaxi-cumulative-chart-flat-2026-07-22",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "누적 240만+마일·2분기 증분 약 90만(1분기와 동일)·4월 약 50만·5·6월 각 약 20만·런레이트 약 60만/분기 환산 모두 Electrek 기사 내용과 WebSearch 교차 일치",
-            "분석 주체(Electrek)를 명시해 회사 발표 원문과 매체 해석을 구분 — 단정 아닌 인용 형태로 서술",
-            "직접 원문 WebFetch는 403 차단 — WebSearch 교차검증으로 대체"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-23T07:20:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -716,6 +689,27 @@
           "reasons": [
             "Case history omitted the March 2025 UK Court of Appeal ruling (EWCA Civ 193, 2-1 against Tesla) between the 2024 High Court loss and the 2026 Supreme Court win — summary/summary_en corrected to include it post-verification.",
             "confirmingSources included City A.M. without independent confirmation it ran the story — removed confirmedBy/confirmingSources, kept single-source Reuters attribution."
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-27T17:55:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-spacexai-secure-ai-alliance-2026-07-27",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "CNBC(https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html) 원문 직접 WebFetch는 403 차단 — CoinDesk·MarketScreener·MLQ·TechXplore·Yahoo Finance·Nvidia 공식 블로그 등 6곳 이상 WebSearch 교차검증으로 대체. 엔비디아 주도 'Open Secure AI Alliance' 7/27 출범·40여개 창립멤버(MS·SpaceX·IBM·Palantir 등)·OpenAI 에이전트의 Hugging Face 해킹 사건이 계기·OpenAI/Anthropic/Google 명단 제외·SpaceXAI의 Grok Build 오픈소스화+Grok 가중치 순차공개 공약 모두 복수 소스 일치",
+            "조언 톤(매수·매도·목표가) 없음 — 통과",
+            "추측→단정 전환 없음 — 모든 문장이 교차확인된 확정 사실(얼라이언스 결성·멤버·SpaceXAI 기여)만 서술, hedge 필요한 미확정 요소 없음",
+            "숫자·날짜 불일치 없음 — '40여 개'는 소스 간 37~40+ 편차 있어 '여' 표현으로 완화 처리, 날짜(7/27)는 전 소스 일치",
+            "본문-링크 일치 — href(CNBC) 기사가 다루는 사건과 카드 내용 동일 사건",
+            "밈·풍자 아님 — 원 계기가 된 raw 카드(Sawyer Merritt X, item 7)는 사실 전달용 트윗이고 실제 사건은 CNBC 등 1차 매체가 별도 보도",
+            "테슬라 직접 연관성은 간접적(SpaceXAI는 머스크의 SpaceX 부문)이나 CLAUDE.md musk 카테고리 정의('일론 머스크 소식')에 부합하며 기존 archive에도 SpaceX 단독 카드 다수 전례(musk-spacex-100-ai-value-morgan-stanley 등)"
           ]
         }
       ]
