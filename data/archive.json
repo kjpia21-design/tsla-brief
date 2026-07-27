@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-27T18:50:12.000Z",
+      "title": "테슬라 FSD v14.3.6 리뷰 — 로컬 도로 주행에 <em>드문 회귀 현상</em>",
+      "hotShort": "FSD v14.3.6, 로컬 도로서 <em>드문 회귀 현상</em>",
+      "body": "테슬라라티가 FSD v14.3.6을 리뷰한 결과, 호평받았던 v14.3.5 대비 로컬 도로 주행에서 머뭇거림·부자연스러운 판단 등 드문 회귀 현상이 나타났다 — 다만 하이웨이 주행은 여전히 우수해, FSD 업데이트가 매번 일관되게 개선되지만은 않는다는 점을 보여준다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-3-6-review-regression-2026-07-27",
+      "summary": "v14.3 계열은 그동안 완만한 개선세를 보여왔다. 직전 버전인 v14.3.5는 커뮤니티에서 특히 호평받았는데, 뒤이은 v14.3.6은 이 흐름을 그대로 잇지 못했다는 게 테슬라라티 리뷰의 핵심이다.\n\n리뷰에 따르면 문제는 주로 주택가 등 로컬 도로에서 나타난다 — 차량이 머뭇거리거나 매끄럽지 못한 판단을 내리는 장면이 포착됐다. 반면 하이웨이 주행 성능은 대체로 우수하게 유지됐고, 속도 설정이나 좌측 차선 점유 관련 정도의 소소한 불만만 제기됐다.\n\nFSD는 매 업데이트가 항상 이전 버전보다 낫지만은 않다는 사실을 이번 리뷰가 다시 보여준다 — 로보택시 확대가 진행 중인 상황에서, 이런 국지적 회귀가 다음 버전에서 반복되지 않는지는 주주 입장에서도 지켜볼 지점이다.",
+      "title_en": "Tesla FSD v14.3.6 review: <em>rare regression</em> on local roads, highway still strong",
+      "hotShort_en": "FSD v14.3.6 hits <em>rare regression</em>",
+      "body_en": "Teslarati's review of FSD v14.3.6 found rare regressions on local roads — hesitant, less smooth driving — compared to the well-received v14.3.5, though highway performance stayed strong, a reminder that FSD updates aren't always a straight line of improvement.",
+      "summary_en": "The v14.3 branch had been on a steady improvement streak. The prior release, v14.3.5, was especially well received by the community — but the follow-up, v14.3.6, didn't keep that momentum going, according to Teslarati's review.\n\nThe review found the issues mostly showed up on local, residential-style roads — hesitant behavior and less smooth decision-making. Highway performance, by contrast, stayed largely strong, with only minor complaints about speed settings or left-lane camping.\n\nThe review is a reminder that FSD updates don't always move in a straight line of improvement. With Robotaxi expansion ongoing, whether this kind of localized regression persists into the next release is worth watching from a shareholder's perspective.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-6-review-rare-regression-bright-spots/",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "50m ago",
@@ -64,6 +84,26 @@
       "summary_en": "The racism lawsuit surrounding Tesla's Fremont factory has grown into one of California's longest-running workplace discrimination cases since Marcus Vaughn first filed in 2017, with hundreds of Black workers eventually joining.\n\nTesla has now confidentially settled with three of the named plaintiffs — Vaughn, Titus McCaleb, and Monica Chatman. Terms, including any payout, weren't disclosed.\n\nThe case is far from over, though. Remaining named plaintiffs Garret Parker and Chanel Hendrix are still suing, and a separate class action covering up to 580 Black workers continues. California's civil rights agency also plans to take its own case to a jury, keeping legal exposure on the table for Tesla.\n\nThe settlement follows Tesla's decision in January to move its parallel EEOC case into confidential mediation — a process under the Administrative Dispute Resolution Act that leaves no transcripts or notes, part of a pattern of these disputes being resolved quietly out of public view.",
       "href": "https://electrek.co/2026/07/27/tesla-partly-settles-racism-lawsuit-hundreds-of-workers-press-on/",
       "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "8h ago",
+      "pubDate": "2026-07-27T11:22:13.000Z",
+      "title": "파이퍼샌들러, 테슬라 목표주가 <em>500→450달러 하향</em> — 리비안은 상향",
+      "hotShort": "파이퍼샌들러, 테슬라 PT <em>500→450달러</em> 하향",
+      "body": "파이퍼샌들러가 테슬라 목표주가를 500달러에서 450달러로 낮추면서도 '비중확대' 의견은 유지했다 — 같은 리포트에서 로보택시 시장 성장의 수혜주로 리비안을 지목해, 로보택시 성장의 과실이 테슬라에만 집중되지는 않을 수 있다는 월가 시각을 보여준다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "stock-piper-sandler-pt-cut-450-2026-07-27",
+      "summary": "애널리스트 알렉산더 포터는 리비안 등급을 '중립'에서 '비중확대'로 상향하고 목표주가를 20달러로 제시했다 — 직전 금요일 종가 대비 약 26% 상승 여력이다. 근거로는 리비안의 인도 가이던스 상향, R2 SUV 출시 관련 이슈 부재, 최근 자금조달로 희석 우려가 줄었다는 점을 들었다.\n\n다만 같은 리포트에서 테슬라 목표주가는 500달러에서 450달러로 낮췄다 — '비중확대' 의견 자체는 유지해, 로보택시 시장에서 테슬라가 여전히 지배적 사업자가 될 것이란 전망 자체를 거둔 건 아니다.\n\n하향 폭 자체가 크진 않지만, 로보택시 성장의 수혜가 테슬라에만 집중되지 않을 수 있다는 신호로 읽힌다 — 리비안 같은 경쟁사들도 자율주행 시대의 몫을 나눠 가질 수 있다는 월가 시각이 번지는 흐름이다.",
+      "title_en": "Piper Sandler cuts Tesla target to <em>$450 from $500</em>, lifts Rivian",
+      "hotShort_en": "Piper Sandler cuts TSLA PT to <em>$450</em>",
+      "body_en": "Piper Sandler trimmed its Tesla price target to $450 from $500 while keeping an Overweight rating — the same note upgraded Rivian, naming it a likely winner as the robotaxi market grows, a sign Wall Street's robotaxi optimism is starting to spread beyond Tesla alone.",
+      "summary_en": "Analyst Alexander Potter upgraded Rivian to Overweight from Neutral and set a $20 price target — about 26% upside from Friday's close. He cited Rivian's raised delivery guidance, an apparently smooth R2 SUV launch, and a recent capital raise that eases dilution concerns.\n\nIn the same note, though, Potter cut his Tesla price target to $450 from $500 — while keeping the Overweight rating, meaning he still expects Tesla to be a dominant force as the robotaxi market grows.\n\nThe target cut itself is modest, but it signals that robotaxi upside may not accrue to Tesla alone — a sign Wall Street sentiment is starting to spread some of the autonomous-driving opportunity to competitors like Rivian.",
+      "href": "https://www.cnbc.com/2026/07/27/rivian-will-emerge-as-big-winner-as-robotaxi-market-grows-says-piper-sandler.html",
+      "sentiment": "bear",
       "hot": 4
     },
     {
@@ -2286,52 +2326,7 @@
       "href": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi/",
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-13T15:49:07.000Z",
-      "title": "테슬라 세미, 시카고서 새 플릿 확보 — Paper Transport <em>정례 운행 평가</em> 착수",
-      "hotShort": "테슬라 세미, 시카고서 <em>새 플릿 파일럿</em> 시작",
-      "body": "위스콘신 물류사 Paper Transport(PTI)가 테슬라 세미 롱레인지(1회 충전 500마일)를 시카고 정례 노선에 투입해 <em>평가 파일럿</em>을 시작했다 — 대당 $20만 주정부 보조금에 힘입어 몰려 있던 캘리포니아 중심 확산이, 인센티브 없는 중서부 시장으로도 번지고 있다는 신호.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-tesla-semi-paper-transport-chicago-2026-07-13",
-      "summary": "테슬라 세미의 상용 확산이 캘리포니아를 넘어 중서부로 번지고 있다. 위스콘신 소재 물류업체 Paper Transport(PTI)가 시카고 지역 정례 노선에 테슬라 세미 롱레인지를 투입해 평가에 들어갔다고 7월13일 밝혔다.\n\nPTI가 시험하는 모델은 1회 충전 500마일(약 805km)을 주행하는 롱레인지 트림이다 — 800kW급 트라이모터 구동계로 최고출력 1,072마력을 내며, 1.2MW급 메가차저로 30분 만에 배터리 60%를 충전할 수 있다. PTI는 정해진 노선·일정한 주행거리라는 '정례 운행' 모델이 전기트럭 성능을 검증하기에 이상적인 환경이라고 설명했다.\n\nPTI는 압축·재생천연가스(CNG/RNG) 차량으로 8,700만 마일 이상을 운행해온 15년 지속가능성 사업 이력을 가진 업체다 — 이번 테슬라 세미 평가는 그 친환경 전환 전략의 다음 단계다.\n\n지금까지 테슬라 세미 초기 물량은 대부분 캘리포니아에 몰려 있었다 — 주정부의 대당 $20만 보조금이 1,000건 넘는 주문을 견인했기 때문이다. 인센티브가 없는 중서부 시장에서의 이번 평가는 세미의 경제성이 보조금 없이도 통하는지 가늠하는 시험대가 될 전망이다.",
-      "title_en": "Tesla Semi lands a new Chicago fleet as Paper Transport <em>begins dedicated-route pilot</em>",
-      "hotShort_en": "Tesla Semi <em>starts Chicago pilot</em> with new fleet",
-      "body_en": "Wisconsin carrier Paper Transport (PTI) has begun evaluating the Tesla Semi Long Range (500-mile range) on dedicated Chicago routes — a sign Semi adoption is spreading beyond California, where a $200K state voucher has driven most orders so far.",
-      "summary_en": "Tesla Semi's commercial footprint is spreading beyond California into the Midwest. Wisconsin-based carrier Paper Transport (PTI) announced on July 13 that it has begun evaluating the Tesla Semi Long Range on dedicated routes in the Chicago market.\n\nThe trim PTI is testing is the Long Range version, rated for 500 miles per charge. It uses an 800-kW tri-motor drivetrain producing 1,072 hp, and supports 1.2-MW Megacharger speeds that restore 60% of range in about 30 minutes. PTI said its dedicated-route model — predictable routes and consistent mileage — is an ideal environment for assessing battery-electric performance.\n\nPTI has logged more than 87 million miles running on compressed and renewable natural gas as part of a sustainability push spanning more than 15 years, and this Tesla Semi evaluation extends that strategy.\n\nMost early Tesla Semi activity has clustered in California, where a $200,000 state voucher has driven over 1,000 orders. This incentive-free Midwest evaluation will be a test of whether the Semi's economics hold up without that kind of subsidy.",
-      "href": "https://electrek.co/2026/07/13/paper-transport-tesla-semi-chicago-pilot/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Sawyer Merritt (X)"
-      ],
-      "sentiment": "bull",
-      "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-13T14:40:39.000Z",
-      "title": "휴스턴 로보택시 허브에 사이버캡 <em>100대 목격</em> — 상업화 임박 신호",
-      "hotShort": "휴스턴 허브에 사이버캡 <em>100대 결집</em> 포착",
-      "body": "테슬라 소식통 소여 메릿이 휴스턴 로보택시 허브에서 사이버캡 <em>약 100대가 목격됐다</em>고 전했다 — 지난 7월10일 90대 수준이었던 것과 비교해 재고가 더 쌓인 모습으로, 본격 상업 운행 확대를 앞둔 사전 배치로 해석된다.",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "fsd-cybercab-houston-100-units-2026-07-13",
-      "summary": "테슬라 로보택시 사업의 다음 무대로 꼽히는 휴스턴에서 사이버캡 재고가 눈에 띄게 불어나고 있다. 테슬라 소식통으로 잘 알려진 소여 메릿은 7월13일 자신의 X 계정에 휴스턴 로보택시 허브에서 사이버캡이 약 100대 목격됐다고 전했다.\n\n앞서 지난 7월10일에는 같은 허브에서 약 90대가 포착됐다는 보도가 있었다 — 이번 100대 목격이 사실이라면 며칠 새 재고가 더 쌓였다는 뜻이다. 다만 공식 집계가 아닌 현장 목격에 근거한 수치인 만큼 정확한 대수는 확인이 필요하다.\n\n휴스턴은 지난 4월18일 모델Y 기반 무인 로보택시가 첫 상용 서비스를 시작한 도시 중 하나다. 핸들·페달이 없는 전용 차량 사이버캡이 이 정도 규모로 한곳에 모였다는 건, 생산 물량이 상업 운행에 투입할 만큼 쌓였고 허브 인프라도 가동 준비를 마쳤다는 신호로 해석된다.\n\n다만 테슬라는 아직 사이버캡의 공도 유상 운행 개시 시점을 공식화하지 않았다. 재고 축적이 곧바로 서비스 확대로 이어질지는 규제 승인·안전성 검증 등 남은 변수에 달려 있다.",
-      "title_en": "About <em>100 Cybercabs</em> spotted staged at Tesla's Houston robotaxi hub",
-      "hotShort_en": "<em>100 Cybercabs</em> spotted at Houston hub",
-      "body_en": "Tesla curator Sawyer Merritt reported spotting roughly <em>100 Cybercabs</em> staged at Tesla's Houston robotaxi hub — up from about 90 seen there around July 10, suggesting inventory is building ahead of a wider commercial rollout.",
-      "summary_en": "Houston, seen as the next stage for Tesla's robotaxi buildout, appears to be stockpiling Cybercabs fast. Tesla-watcher Sawyer Merritt posted on X on July 13 that he spotted roughly 100 Cybercabs staged at Tesla's Houston robotaxi hub.\n\nThat's up from an earlier report of about 90 units spotted at the same hub around July 10 — if accurate, inventory grew further in just a few days. The figures come from field sightings rather than an official count, so the exact number isn't confirmed.\n\nHouston was one of the cities where Tesla's Model Y-based unsupervised robotaxi service first launched commercially on April 18. Seeing this many steering-wheel-less, purpose-built Cybercabs staged at one hub suggests production has ramped enough to supply a commercial fleet, and the hub infrastructure is ready to operate.\n\nTesla still hasn't confirmed a public launch date for paid Cybercab rides, though. Whether this inventory buildup translates into an expanded service will depend on remaining variables like regulatory approval and safety validation.",
-      "href": "https://x.com/SawyerMerritt/status/2076678197731643755",
-      "sentiment": "bull",
-      "hot": 3
     }
   ],
-  "asOf": "2026-07-27 23:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-28 06:10 KST 자동 갱신 · 최신순"
 }

@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-27T18:50:12.000Z",
+      "title": "테슬라 FSD v14.3.6 리뷰 — 로컬 도로 주행에 <em>드문 회귀 현상</em>",
+      "hotShort": "FSD v14.3.6, 로컬 도로서 <em>드문 회귀 현상</em>",
+      "body": "테슬라라티가 FSD v14.3.6을 리뷰한 결과, 호평받았던 v14.3.5 대비 로컬 도로 주행에서 머뭇거림·부자연스러운 판단 등 드문 회귀 현상이 나타났다 — 다만 하이웨이 주행은 여전히 우수해, FSD 업데이트가 매번 일관되게 개선되지만은 않는다는 점을 보여준다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-3-6-review-regression-2026-07-27",
+      "summary": "v14.3 계열은 그동안 완만한 개선세를 보여왔다. 직전 버전인 v14.3.5는 커뮤니티에서 특히 호평받았는데, 뒤이은 v14.3.6은 이 흐름을 그대로 잇지 못했다는 게 테슬라라티 리뷰의 핵심이다.\n\n리뷰에 따르면 문제는 주로 주택가 등 로컬 도로에서 나타난다 — 차량이 머뭇거리거나 매끄럽지 못한 판단을 내리는 장면이 포착됐다. 반면 하이웨이 주행 성능은 대체로 우수하게 유지됐고, 속도 설정이나 좌측 차선 점유 관련 정도의 소소한 불만만 제기됐다.\n\nFSD는 매 업데이트가 항상 이전 버전보다 낫지만은 않다는 사실을 이번 리뷰가 다시 보여준다 — 로보택시 확대가 진행 중인 상황에서, 이런 국지적 회귀가 다음 버전에서 반복되지 않는지는 주주 입장에서도 지켜볼 지점이다.",
+      "title_en": "Tesla FSD v14.3.6 review: <em>rare regression</em> on local roads, highway still strong",
+      "hotShort_en": "FSD v14.3.6 hits <em>rare regression</em>",
+      "body_en": "Teslarati's review of FSD v14.3.6 found rare regressions on local roads — hesitant, less smooth driving — compared to the well-received v14.3.5, though highway performance stayed strong, a reminder that FSD updates aren't always a straight line of improvement.",
+      "summary_en": "The v14.3 branch had been on a steady improvement streak. The prior release, v14.3.5, was especially well received by the community — but the follow-up, v14.3.6, didn't keep that momentum going, according to Teslarati's review.\n\nThe review found the issues mostly showed up on local, residential-style roads — hesitant behavior and less smooth decision-making. Highway performance, by contrast, stayed largely strong, with only minor complaints about speed settings or left-lane camping.\n\nThe review is a reminder that FSD updates don't always move in a straight line of improvement. With Robotaxi expansion ongoing, whether this kind of localized regression persists into the next release is worth watching from a shareholder's perspective.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-6-review-rare-regression-bright-spots/",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "50m ago",
@@ -67,6 +87,26 @@
       "hot": 4
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "8h ago",
+      "pubDate": "2026-07-27T11:22:13.000Z",
+      "title": "파이퍼샌들러, 테슬라 목표주가 <em>500→450달러 하향</em> — 리비안은 상향",
+      "hotShort": "파이퍼샌들러, 테슬라 PT <em>500→450달러</em> 하향",
+      "body": "파이퍼샌들러가 테슬라 목표주가를 500달러에서 450달러로 낮추면서도 '비중확대' 의견은 유지했다 — 같은 리포트에서 로보택시 시장 성장의 수혜주로 리비안을 지목해, 로보택시 성장의 과실이 테슬라에만 집중되지는 않을 수 있다는 월가 시각을 보여준다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "stock-piper-sandler-pt-cut-450-2026-07-27",
+      "summary": "애널리스트 알렉산더 포터는 리비안 등급을 '중립'에서 '비중확대'로 상향하고 목표주가를 20달러로 제시했다 — 직전 금요일 종가 대비 약 26% 상승 여력이다. 근거로는 리비안의 인도 가이던스 상향, R2 SUV 출시 관련 이슈 부재, 최근 자금조달로 희석 우려가 줄었다는 점을 들었다.\n\n다만 같은 리포트에서 테슬라 목표주가는 500달러에서 450달러로 낮췄다 — '비중확대' 의견 자체는 유지해, 로보택시 시장에서 테슬라가 여전히 지배적 사업자가 될 것이란 전망 자체를 거둔 건 아니다.\n\n하향 폭 자체가 크진 않지만, 로보택시 성장의 수혜가 테슬라에만 집중되지 않을 수 있다는 신호로 읽힌다 — 리비안 같은 경쟁사들도 자율주행 시대의 몫을 나눠 가질 수 있다는 월가 시각이 번지는 흐름이다.",
+      "title_en": "Piper Sandler cuts Tesla target to <em>$450 from $500</em>, lifts Rivian",
+      "hotShort_en": "Piper Sandler cuts TSLA PT to <em>$450</em>",
+      "body_en": "Piper Sandler trimmed its Tesla price target to $450 from $500 while keeping an Overweight rating — the same note upgraded Rivian, naming it a likely winner as the robotaxi market grows, a sign Wall Street's robotaxi optimism is starting to spread beyond Tesla alone.",
+      "summary_en": "Analyst Alexander Potter upgraded Rivian to Overweight from Neutral and set a $20 price target — about 26% upside from Friday's close. He cited Rivian's raised delivery guidance, an apparently smooth R2 SUV launch, and a recent capital raise that eases dilution concerns.\n\nIn the same note, though, Potter cut his Tesla price target to $450 from $500 — while keeping the Overweight rating, meaning he still expects Tesla to be a dominant force as the robotaxi market grows.\n\nThe target cut itself is modest, but it signals that robotaxi upside may not accrue to Tesla alone — a sign Wall Street sentiment is starting to spread some of the autonomous-driving opportunity to competitors like Rivian.",
+      "href": "https://www.cnbc.com/2026/07/27/rivian-will-emerge-as-big-winner-as-robotaxi-market-grows-says-piper-sandler.html",
+      "sentiment": "bear",
+      "hot": 4
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "4h ago",
@@ -110,72 +150,7 @@
       ],
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10m ago",
-      "pubDate": "2026-07-26T19:11:18.000Z",
-      "title": "머스크, 이코노미스트 인터뷰서 <em>\"AI, 5년 내 인류 지능 총합 추월\"</em> 전망",
-      "hotShort": "머스크 \"AI, 5년 내 인류 지능 <em>추월</em>\" 경고",
-      "body": "일론 머스크가 지난 23일 공개된 이코노미스트 인터뷰에서 AI가 앞으로 5년 내 전 인류의 지능 총합을 넘어서고, 10년 안에는 인간이 그 방향을 통제하기 어려워질 것이라고 밝혔다 — 테슬라가 FSD·옵티머스 등에 사활을 건 AI 베팅의 장기 함의를 가늠하게 하는 발언이다. 그는 인간과 침팬지의 지능 격차에 비유하며 \"침팬지가 주도권을 쥐고 있다고 상상하기 어렵다\"고 말했다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "musk-economist-ai-superintelligence-2026-07-26",
-      "summary": "이코노미스트 편집장 재니 민튼 베도스와 진행한 인터뷰에서 머스크는 AI의 미래를 낙관과 경고를 오가며 설명했다. 그는 \"2036년쯤에는 돈 자체가 의미를 잃을 수도 있다\"고 말하는 한편, AI·로봇공학이 가져올 가장 유력한 결과로 \"모두를 위한 엄청난 풍요\"를 꼽았다.\n\n다만 위험도 함께 제시했다 — 인간이 10년 안에 AI 발전 방향에 대한 실질적 통제력을 잃을 가능성이 높다고 보면서, 그 결과가 인류 멸종으로 이어질 확률을 10~20% 정도로 언급했다. \"사람이 아닌 것 빼고는 AI가 인간보다 못 하는 게 없어질 것\"이라고도 말했다.\n\n이 발언이 테슬라 주주에게 갖는 의미는 직접적이다 — 회사의 장기 밸류에이션 서사는 FSD·로보택시·옵티머스로 대표되는 AI 사업에 크게 의존한다. 머스크 본인이 AI의 궤적을 인류 통제 밖으로 보는 시나리오를 공개적으로 인정한 셈이어서, 그의 낙관론(옵티머스·로보택시 전망)을 어떤 무게로 받아들일지에 대한 참고점이 된다.\n\n머스크의 AI 위험 경고는 이번이 처음은 아니다 — 그는 과거에도 수차례 비슷한 취지의 발언을 해왔다. 다만 이번 인터뷰는 구체적 연도(5년·10년·2036년)와 확률(10~20%)을 명시했다는 점에서 발언 수위가 한 단계 더 구체화됐다는 평가다.",
-      "title_en": "Musk to The Economist: AI could <em>surpass all of humanity's combined intelligence</em> in 5 years",
-      "hotShort_en": "Musk: AI <em>outsmarts humanity</em> in 5yrs",
-      "body_en": "In an interview published July 23, Elon Musk told The Economist that AI will likely surpass the combined intelligence of all humans within five years, and that humanity will probably lose meaningful control of its trajectory within a decade — a claim with direct implications for Tesla's own AI bets on FSD and Optimus. He compared the coming gap to that between humans and chimpanzees: \"It's hard to imagine that the chimpanzee would be in charge.\"",
-      "summary_en": "Speaking with Economist editor-in-chief Zanny Minton Beddoes, Musk oscillated between optimism and warning about AI's trajectory. He said money itself \"may stop mattering\" by around 2036, while calling \"incredible abundance for all\" the most likely outcome of AI and robotics.\n\nBut he also laid out the risks. Musk said humans will likely lose real control over AI's direction within a decade, and put the odds of that leading to human extinction at roughly 10-20%. \"There really won't be anything that AI can't do better than humans, apart from being human, perhaps,\" he added.\n\nThe comments carry direct weight for Tesla shareholders, whose long-term valuation case leans heavily on the company's AI businesses — FSD, Robotaxi, and Optimus. Musk publicly entertaining a scenario where AI's trajectory slips beyond human control offers a data point for weighing how much confidence to place in his own optimistic timelines for those same products.\n\nThis isn't the first time Musk has warned about AI risk — he has made similar remarks for years. What stands out this time is the specificity: concrete timeframes (five years, ten years, 2036) and an explicit probability (10-20%) for the worst-case outcome.",
-      "href": "https://www.teslarati.com/elon-musk-explains-what-happens-when-ai-outsmarts-all-of-us/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "The Economist",
-        "Teslarati"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20m ago",
-      "pubDate": "2026-07-26T19:00:17.000Z",
-      "title": "테슬라, 모델3·Y에 <em>트랙션 컨트롤 3종 모드</em> 신설 — 2026 여름 업데이트",
-      "hotShort": "모델3·Y에 <em>트랙션 모드 3종</em> 첫 탑재",
-      "body": "테슬라가 2026 여름 소프트웨어 업데이트(버전 2026.26)로 모델3·모델Y에 '오토'·'미끄러운 노면'·'탈출 보조' 3종 트랙션 컨트롤 모드를 새로 추가했다 — 그간 모델S·X·사이버트럭에만 있던 노면별 주행 모드가 처음으로 볼륨 차종까지 확대된 것. 모드는 매 주행 시작 시 기본값인 '오토'로 초기화된다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-traction-control-modes-2026-07-26",
-      "summary": "이번 업데이트 전까지 모델3와 모델Y는 테슬라 라인업 중 유일하게 노면 상황별 전용 주행 모드가 없는 차종이었다. 2026 여름 업데이트(버전 2026.26)를 계기로 이 공백이 메워지면서, 최상위 모델S·X와 신차종 사이버트럭이 누리던 기능이 판매량 최대 차종에도 뒤늦게 이식됐다.\n\n새로 추가된 3종 모드는 '오토'(일반 주행), '미끄러운 노면'(빙판·젖은 노면), '탈출 보조'(눈·진흙·모래에 빠졌을 때)다. 모드 전환은 운전자가 상황에 맞춰 수동으로 고르는 방식이며, 다음 주행을 시작하면 자동으로 '오토'로 복귀한다.\n\n업데이트는 이미 일부 차주에게 순차 배포를 시작했으며, 앞선 봄 업데이트가 매우 보수적인 속도로 퍼진 전례를 감안하면 전체 보급까지 수 주가 걸릴 전망이다.\n\n기능 자체는 소규모지만, 테슬라가 최대 판매 차종의 소프트웨어 상품성을 지속적으로 다듬고 있다는 신호로 볼 수 있다 — 하드웨어 변경 없이 무선 업데이트만으로 경쟁 차종 대비 체감 완성도를 끌어올리는 전형적 사례다.",
-      "title_en": "Tesla adds three new <em>Traction Control Modes</em> to Model 3 and Y",
-      "hotShort_en": "Model 3/Y get <em>3 traction modes</em>",
-      "body_en": "Tesla's 2026 Summer Update (version 2026.26) adds three new Traction Control Modes — Auto, Slippery Surface, and Stuck Assist — to Model 3 and Model Y, extending terrain-specific driving modes that were previously exclusive to Model S, X, and Cybertruck. The mode resets to Auto at the start of every drive.",
-      "summary_en": "Until this update, Model 3 and Model Y were the only vehicles in Tesla's lineup without dedicated modes for different road surfaces. The 2026 Summer Update (version 2026.26) closes that gap, bringing a feature long available on the flagship Model S and X, and on Cybertruck, to Tesla's highest-volume models.\n\nThe three new modes are Auto for normal driving, Slippery Surface for icy or wet roads, and Stuck Assist for when the car is stuck in snow, mud, or sand. Drivers select the mode manually to match conditions, and it automatically resets to Auto at the start of the next drive.\n\nThe update has already begun rolling out to some owners. Given the notably conservative pace of the prior Spring Update, full fleet-wide availability is expected to take several more weeks.\n\nThe feature itself is minor, but it signals Tesla's continued refinement of software features on its best-selling models — a classic example of using over-the-air updates, rather than hardware changes, to close perceived gaps with rivals.",
-      "href": "https://www.teslarati.com/tesla-traction-control-modes-summer-update/",
-      "sentiment": "neutral",
-      "hot": 3
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "19h ago",
-      "pubDate": "2026-07-26T18:00:00.000Z",
-      "title": "NHTSA, <em>자율주행 전용차 브레이크 페달 규정 폐지</em> 추진 — 사이버캡 겨냥",
-      "hotShort": "NHTSA, 자율주행차 <em>브레이크 페달 폐지</em> 추진",
-      "body": "미국 NHTSA가 사람이 아예 타지 않는 자율주행 전용차에 한해 수동 브레이크 페달 의무 규정(FMVSS 135)을 없애는 개정안의 공청 의견수렴을 오늘(현지시간 7/27) 마감한다 — 테슬라 부사장 라스 모라비가 이미 사이버캡은 NHTSA의 연간 2,500대 생산 상한 대상이 아니라고 확인한 가운데, 남은 규제 불확실성까지 해소하는 신호다.",
-      "sourceName": "Tech Times",
-      "sourceLabel": "sec",
-      "slug": "fsd-nhtsa-brake-pedal-rule-cybercab-2026-07-26",
-      "summary": "NHTSA는 지난 6월 26일 연방관보를 통해 연방자동차안전기준(FMVSS) 135호 개정안을 제안했다. 핵심은 사람이 전혀 탑승하지 않고 자율주행시스템(ADS)만으로 운행하는 차량에 한해, 손·발로 조작하는 물리적 브레이크 페달 요건을 없애고 전자식 제동 작동으로 대체할 수 있도록 하는 것이다. 다만 제동거리 등 안전 기준 자체는 기존과 동일하게 유지된다.\n\n이 개정안에 대한 공청 의견수렴(도킷 NHTSA-2026-0728)이 오늘(현지시간 7월 27일) 영업 종료 시점에 마감된다. 개정안이 확정되면 사람이 탑승하지 않는 완전 무인 차량 설계에 대한 규제 근거가 명확해진다.\n\n테슬라는 이미 사이버캡을 기존 연방자동차안전기준을 그대로 준수하도록 설계해 규정이 정비되기를 기다려 왔다. 테슬라 차량엔지니어링 부사장 라스 모라비는 X를 통해 사이버캡이 NHTSA의 연간 2,500대 생산 상한 규정 대상이 아니라고 이미 확인한 바 있다 — 이번 FMVSS 135 개정까지 통과되면 대량 생산 단계에서 남아 있던 마지막 규제 모호성까지 사라지는 셈이다.\n\n아마존 자회사 Zoox는 다른 방식으로 같은 규제 지점에 이미 도달해 있다. 승객끼리 마주 보고 앉는 대칭형 4인승 차량으로, 스티어링 휠도 페달도 운전석도 없는 설계다. 두 회사 모두 '핸들·페달 없는 완전자율주행차'라는 새 차종 범주가 규제상 정식으로 자리 잡는 흐름의 최전선에 있다.",
-      "title_en": "NHTSA moves to scrap <em>brake pedal rule</em> for driverless-only vehicles — clearing the way for Cybercab",
-      "hotShort_en": "NHTSA to drop <em>brake pedal rule</em> for driverless cars",
-      "body_en": "The U.S. NHTSA's public comment period closes today (July 27, ET) on a proposal to remove the manual brake pedal requirement (FMVSS No. 135) for vehicles built exclusively for driverless operation — Tesla VP Lars Moravy has already confirmed Cybercab won't be subject to NHTSA's 2,500-unit annual production cap, and this rule change would clear the last regulatory ambiguity standing in the way of mass production.",
-      "summary_en": "NHTSA proposed the amendment to Federal Motor Vehicle Safety Standard No. 135 in the Federal Register on June 26. The core change: vehicles operated exclusively by an Automated Driving System, with no human occupant ever behind the wheel, would no longer need a hand- or foot-operated brake pedal — electronic brake activation would suffice instead. The same stopping-distance safety benchmarks remain in place regardless of how the brake is triggered.\n\nPublic comments on the proposal (docket NHTSA-2026-0728) close today, July 27, at the end of business. If finalized, the rule would give driverless-only vehicle designs a clear regulatory basis they've lacked until now.\n\nTesla built Cybercab to comply with the existing safety standards as written, betting the rules themselves would eventually catch up. Tesla VP of Vehicle Engineering Lars Moravy has already confirmed on X that Cybercab isn't subject to NHTSA's 2,500-unit annual production cap — if this FMVSS 135 update also goes through, it would remove the last remaining regulatory ambiguity around mass-producing the vehicle.\n\nAmazon's Zoox has already arrived at the same regulatory destination by a different route: its bidirectional, four-seat robotaxi has no steering wheel, no pedals, and no seat reserved for a driver. Together, the two companies sit at the front of a broader shift toward regulators formally recognizing a new vehicle category — fully driverless cars with no manual controls at all.",
-      "href": "https://www.techtimes.com/articles/321624/20260726/nhtsa-brake-rule-would-end-robotaxi-production-cap-public-comment-closes-tomorrow.htm",
-      "sentiment": "bull",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-28 02:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-28 06:10 KST 자동 갱신 · 최신순"
 }
