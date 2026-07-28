@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10m ago",
+      "pubDate": "2026-07-28T10:30:01.000Z",
+      "title": "美 하원의원들, <em>스페이스X 주식 매입</em>으로 이해충돌 논란",
+      "hotShort": "美 의원들, 스페이스X 주식 매입 <em>이해충돌 논란</em>",
+      "body": "미 하원의원 4명(또는 가족)이 스페이스X 상장 이후 최대 $13만 규모 주식을 매입한 사실이 드러나 이해충돌 논란이 일고 있다 — 특히 하원 군사위 소속 지스네로스 의원의 매입은 스페이스X의 펜타곤·우주군 계약 감독권과 겹쳐 논란의 핵심이다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-congress-spacex-stock-conflict-2026-07-28",
+      "summary": "스페이스X는 지난 6월12일 주당 $135에 뉴욕증시에 상장하며 약 $750억을 조달해 역대 최대 규모 IPO 기록을 세웠다.\n\nCNBC 보도에 따르면 상장 이후 하원 군사위 소속 길 지스네로스 의원이 6월18일 스페이스X 주식 $1,001~$15,000 규모를 매입했고, 이 사실은 7월2일 공시로 드러났다. 존 매과이어·댄 모이저·존 제임스 의원의 가족들도 각각 주식을 매입해, 4명 합산 매입 규모는 최대 $13만에 달한다.\n\n논란의 핵심은 지스네로스 의원이 몸담은 군사위원회가 스페이스X의 핵심 고객인 펜타곤·우주군 계약을 직접 감독한다는 점이다. 스페이스X는 국방부·NASA·우주군과 다수의 계약을 맺고 있다.\n\n다만 CNBC는 의원들이 비공개 정보를 이용하거나 의회 거래 규정을 위반했다는 증거는 없다고 전했다. 한편 FAA는 이해충돌 우려를 이유로 6월30일부로 자사 직원의 스페이스X 주식 보유를 금지했으나, 의회는 스스로에게 같은 제한을 두지 않고 있다.",
+      "title_en": "Four US Congress members face <em>conflict-of-interest</em> scrutiny over SpaceX stock buys",
+      "hotShort_en": "Congress members' <em>SpaceX stock buys</em> spark concern",
+      "body_en": "Four US House members or their families have bought up to $130,000 in SpaceX stock since its IPO, CNBC reports — raising conflict-of-interest concerns since one buyer, Rep. Gil Cisneros, sits on the Armed Services Committee that oversees the Pentagon and Space Force contracts SpaceX depends on.",
+      "summary_en": "SpaceX went public on June 12 at $135 a share, raising roughly $75 billion in what became the largest IPO in history.\n\nPer CNBC, Rep. Gil Cisneros — a member of the House Armed Services Committee — bought between $1,001 and $15,000 in SpaceX stock on June 18, a purchase disclosed on July 2. Family members of Reps. John McGuire, Dan Meuser, and John James also bought shares, bringing the combined total across all four to as much as $130,000.\n\nThe concern centers on Cisneros's committee assignment: Armed Services oversees the Pentagon and Space Force contracts that are core to SpaceX's business, and the company holds numerous contracts with the Department of Defense, NASA, and the Space Force.\n\nCNBC found no evidence any lawmaker traded on nonpublic information or violated congressional trading rules. Still, the FAA barred its own employees from holding SpaceX stock effective June 30 over conflict-of-interest concerns — a restriction Congress hasn't applied to itself.",
+      "href": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "Benzinga"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-28T08:32:15.000Z",
+      "title": "모닝스타 \"실적 후 급락은 매수 기회\" — 테슬라 공정가치 <em>$450 그대로 유지</em>",
+      "hotShort": "모닝스타, 급락에도 <em>공정가치 $450</em> 유지",
+      "body": "모닝스타가 2분기 실적 발표 후 급락에도 테슬라 공정가치 $450(현재가 대비 약 46% 상승여력)을 그대로 유지하며 \"지금이 매수 적기\"라고 평가했다 — 영업이익 57% 급감·잉여현금흐름 적자 전환에도 AI·로보택시 투자 확대를 장기 성장 신호로 본 것.",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "stock-morningstar-450-fair-value-2026-07-28",
+      "summary": "테슬라 2분기 실적은 수익성 지표에서 시장 기대를 밑돌았다. 조정 주당순이익(EPS)이 예상치를 하회했고, 영업이익은 전년 대비 57% 급감해 영업마진이 1.4%까지 축소됐다.\n\n자본지출은 $57.9억으로 늘었고, 그 여파로 잉여현금흐름은 $10.9억 적자로 돌아섰다 — AI·로보택시·옵티머스·생산 확충에 투자를 쏟아부은 결과다.\n\n그럼에도 모닝스타는 실적 발표 후 주가 급락 국면에서 기존 공정가치 $450달러 추정치를 그대로 유지했다. 현재가 대비 약 46% 상승여력에 해당하는 수치로, 모닝스타는 이번 하락을 매수 기회로 평가했다.\n\n테슬라는 2026년 자본지출이 $250억을 넘어설 것으로 자체 전망했고, 딥워터의 진 먼스터는 2027년에도 추가로 $250억 규모 지출을 예상해 월가 평균 전망치($210억 안팎)를 웃돌 것으로 봤다.",
+      "title_en": "Morningstar keeps <em>$450 fair value</em> on Tesla, calls post-earnings slide a buying opportunity",
+      "hotShort_en": "Morningstar: Tesla drop is a <em>buying chance</em>",
+      "body_en": "Morningstar held its $450 fair value estimate on Tesla — about 46% above current levels — even after the post-Q2-earnings selloff, calling it a buying opportunity despite operating income falling 57% and free cash flow turning negative.",
+      "summary_en": "Tesla's Q2 results missed on profitability. Adjusted EPS came in below estimates, operating income fell 57% year over year, and operating margin narrowed to 1.4%.\n\nCapital expenditure rose to $5.79 billion, pushing free cash flow to a $1.09 billion deficit — the result of ramped-up spending on AI, Robotaxi, Optimus, and manufacturing capacity.\n\nEven so, Morningstar held its existing $450 fair value estimate through the post-earnings drop — implying roughly 46% upside from current levels — and framed the selloff as a buying opportunity.\n\nTesla itself guided for 2026 capex above $25 billion, and Deepwater's Gene Munster expects another $25 billion in 2027, above Wall Street's roughly $21 billion consensus.",
+      "href": "https://stocktwits.com/news-articles/markets/equity/tsla-morningstar-very-attractive-earnings-rout/cZZC0raRJGg",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "9h ago",
@@ -102,6 +147,31 @@
         "9to5Mac",
         "CBS News",
         "American Banker"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "19h ago",
+      "pubDate": "2026-07-27T15:32:24.000Z",
+      "title": "CME그룹, 테슬라·스페이스X 등 55종목 <em>거의 24시간 개별주식 선물</em> 출시",
+      "hotShort": "CME, 테슬라 등 55종목 <em>23시간 선물거래</em> 개시",
+      "body": "CME그룹이 7월27일 테슬라·스페이스X·엔비디아·애플·마이크론 등 55개 대형주(+마이크로 계약 22종) 개별주식 선물을 재출시해 주5일 거의 23시간 거래를 가능케 했다 — 정규장 마감 후에도 실적·뉴스에 실시간 대응할 새 트레이딩 창구가 열린 것.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "stock-cme-single-stock-futures-2026-07-27",
+      "summary": "새 상품은 현금결제 방식으로, 주식을 실제 빌리거나 보유하지 않고도 차입 비용 없이 롱·숏 레버리지 포지션을 취할 수 있다. 표준 계약(주당 100주)과 소액 투자자용 마이크로 계약(주당 10주) 두 종류로 나뉜다.\n\n거래는 CME 글로벡스 플랫폼에서 일요일 저녁부터 금요일 오후까지, 하루 약 1시간의 정비시간을 제외하면 거의 23시간 이어진다 — 정규장(오전 9시30분~오후4시)보다 훨씬 긴 시간이다.\n\n대상 55개 종목에는 테슬라도 포함돼, 테슬라 주주 입장에서는 정규장 마감 후 실적 발표나 속보에 즉시 대응할 새로운 거래 경로가 생긴 셈이다. 6월 상장한 스페이스X도 포함돼 레버리지 익스포저 확보 수단이 하나 늘었다.\n\nCME그룹은 과거 개별주식 선물시장에서 철수했다가, 이번에 55개 대형주 라인업으로 시장에 재진입했다.",
+      "title_en": "CME launches near-24-hour single-stock futures on Tesla, SpaceX and 53 others",
+      "hotShort_en": "CME opens <em>23-hour futures</em> on Tesla, more",
+      "body_en": "CME Group relaunched single-stock futures on 55 large-cap names — including Tesla, SpaceX, Nvidia, Apple and Micron — enabling nearly 23-hour, five-day trading starting July 27, giving investors a new way to react to earnings and news after the regular session closes.",
+      "summary_en": "The new contracts are cash-settled, letting investors take leveraged long or short positions without borrowing shares or paying financing costs. They come in two sizes: standard contracts (100 shares) and micro contracts (10 shares) for smaller accounts.\n\nTrading runs on CME's Globex platform from Sunday evening through Friday afternoon, nearly 23 hours a day aside from a roughly one-hour daily maintenance window — far longer than the standard 9:30 a.m. to 4 p.m. equity session.\n\nTesla is among the 55 names covered, giving Tesla shareholders a new venue to react to earnings or breaking news after the regular market closes. SpaceX, which went public in June, is also included, adding another route to leveraged exposure.\n\nCME Group had previously exited the single-stock futures market before this relaunch with a 55-name large-cap lineup.",
+      "href": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "Fortune"
       ],
       "sentiment": "neutral",
       "hot": 4
@@ -2241,86 +2311,7 @@
       "href": "https://www.teslarati.com/tesla-owner-attempts-resale-model-s-signature-edition-over-260k/",
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-14T17:07:00.000Z",
-      "title": "월가 목표주가 상향 러시 <em>5개 기관째</em> — 약세 웰스파고도 $130로 소폭 인상",
-      "hotShort": "목표주가 상향 <em>5개 기관째</em> — 웰스파고도 가세",
-      "body": "모건스탠리가 목표주가를 $415에서 $417로, 약세 등급을 유지해온 웰스파고도 $125에서 $130로 각각 소폭 올리며 — 7월22일 실적발표를 앞두고 <em>이번 주에만 5개 기관째</em> 목표주가 상향 대열에 합류했다. 다만 테슬라 주가는 여전히 이들 목표주가를 모두 밑도는 수준에 머물러, 랠리와 실제 주가의 괴리는 좁혀지지 않고 있다.",
-      "sourceName": "MarketScreener",
-      "sourceLabel": "press",
-      "slug": "stock-barclays-pt-370-2026-07-14",
-      "summary": "테슬라(TSLA) 2분기 실적발표(7월22일)를 앞두고, 이번 주 들어 강세부터 약세 등급 기관까지 목표주가를 잇따라 상향 조정하고 있다. 7월7일 RBC캐피털($475→$500, Outperform)을 시작으로 7월9일 UBS($364→$442), 7월14일 바클레이스($360→$370, Equal Weight)에 이어, 같은 날 모건스탠리($415→$417, Equal Weight)와 웰스파고($125→$130, Underweight)까지 목표주가를 올리며 닷새 새 5개 기관이 상향 대열에 합류했다.\n\n특히 눈에 띄는 대목은 웰스파고다. 월가에서 테슬라에 가장 낮은 목표주가($130)를 제시해온 대표적 약세 기관임에도, 방향 자체는 하향이 아닌 소폭 상향을 택했다. 웰스파고는 2분기 인도량이 시장 예상을 웃돈 점은 인정하면서도, 일회성 항목 소멸과 가격 인하 압박이 물량 증가분을 상쇄해 주당순이익(EPS)은 시장 예상과 비슷한 수준에 그칠 것으로 내다봤다.\n\n모건스탠리 역시 견조한 차량·에너지 인도 실적이 이번 분기를 뒷받침할 것으로 보면서도, 로보택시·옵티머스 진행 상황이 주가의 핵심 변수라는 기존 입장을 유지했다.\n\n다만 목표주가 상향 행진에도 테슬라 주가는 7월13일 종가 $394.76으로, 이번 주 나온 다섯 목표주가 중 가장 낮은 웰스파고·바클레이스·모건스탠리 수준에도 못 미친다. 애널리스트들의 낙관과 실제 주가 사이의 괴리가 7월22일 실적발표에서 좁혀질지가 관전 포인트다.",
-      "title_en": "Wall Street's price-target rally hits <em>five firms</em> — even bearish Wells Fargo nudges up to $130",
-      "hotShort_en": "Price-target rally now up to <em>five firms</em>",
-      "body_en": "Morgan Stanley lifted its target from $415 to $417, and Underweight-rated Wells Fargo raised its target from $125 to $130 — bringing the tally to <em>five firms</em> that have hiked Tesla's price target this week alone, ahead of the July 22 earnings call. The stock still trades below every one of those targets, keeping the gap between analyst optimism and the share price wide.",
-      "summary_en": "Ahead of Tesla's (TSLA) Q2 earnings call on July 22, price targets have been climbing across the ratings spectrum this week — from bulls to bears alike. RBC Capital kicked things off on July 7 ($475 to $500, Outperform), followed by UBS on July 9 ($364 to $442), then Barclays on July 14 ($360 to $370, Equal Weight). That same day, Morgan Stanley ($415 to $417, Equal Weight) and Wells Fargo ($125 to $130, Underweight) also raised their targets — five firms in five days.\n\nWells Fargo's move stands out. It carries the lowest price target on the Street ($130) and remains the most bearish name covering the stock, yet it still chose to nudge the number up rather than down. The firm acknowledged Tesla's Q2 delivery beat, but expects EPS to land roughly in line with estimates, as the fading of one-time items and pricing pressure offset the volume upside.\n\nMorgan Stanley, for its part, said strong vehicle and energy deliveries should support a solid quarter, while reiterating that Robotaxi and Optimus progress remain the real swing factors for the stock.\n\nDespite the wave of upgrades, Tesla shares closed July 13 at $394.76 — below even the most conservative of this week's five targets. Whether the July 22 earnings call narrows that gap between analyst optimism and the actual share price is the next thing to watch.",
-      "href": "https://www.marketscreener.com/news/morgan-stanley-raises-price-target-on-tesla-to-417-from-415-maintains-equalweight-rating-ce7f5eddd881f623",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "MarketScreener",
-        "TipRanks",
-        "Investing.com",
-        "Barron's"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-14T13:00:00.000Z",
-      "title": "스페이스X 스타링크, 프론티어항공 확보 — <em>인디고 5개 항공사 1000대</em> 도입",
-      "hotShort": "스타링크, <em>프론티어항공</em> 등 1000대 도입",
-      "body": "스페이스X 스타링크가 프론티어항공을 신규 기내 와이파이 고객으로 확보했다 — 프론티어 모기업 인디고 파트너스 산하 <em>5개 항공사 항공기 1000대</em>에 순차 도입될 예정으로, 아마존 카이퍼와의 기내 와이파이 경쟁에서 스페이스X 우위가 재확인됐다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-frontier-starlink-2026-07-14",
-      "summary": "스페이스X의 항공기 와이파이 사업이 또 하나의 대형 고객사를 확보했다. 덴버 기반 저비용항공사 프론티어항공이 7월14일, 이르면 2027년 초부터 자사 기종에 스페이스X 스타링크를 도입하겠다고 밝혔다. 프론티어는 현재 기내 와이파이 서비스를 아예 제공하지 않고 있어, 이번 도입은 무(無)에서 유로 넘어가는 변화다.\n\n이번 계약의 배경에는 사모펀드 인디고 파트너스(대표 빌 프랭키)가 있다. 프론티어와 함께 인디고 파트너스가 투자한 멕시코 볼라리스, 유럽 저비용항공사 위즈, 칠레 젯스마트, 필리핀 세부퍼시픽까지 총 5개 항공사가 모두 스타링크를 도입하기로 했으며, 이들 항공사가 보유한 <em>항공기 1000대</em>가 대상이다.\n\n스타링크는 승객용 기내 와이파이뿐 아니라, 조종사·승무원·정비팀·지상운영팀을 위한 게이트투게이트(gate-to-gate) 연결도 제공할 예정이다. 다만 프론티어 측은 승객 요금이나 계약의 구체적 재무 조건은 공개하지 않았다.\n\n프론티어는 사우스웨스트·유나이티드에 이어 스타링크를 택한 최신 대형 항공사로, 스페이스X는 라이벌 아마존 카이퍼를 상대로 항공 와이파이 시장 고객 확보 경쟁에서 계속 앞서나가는 모습이다. 테슬라 주주 입장에서 직접적인 실적 변수는 아니지만, 일론 머스크가 이끄는 스페이스X 사업의 확장세는 최근 불거진 테슬라·스페이스X 합병 밸류에이션 논의의 배경으로 계속 참고될 만하다.",
-      "title_en": "SpaceX's Starlink lands Frontier Airlines — <em>1,000 planes</em> across 5 Indigo Partners carriers",
-      "hotShort_en": "Starlink adds Frontier, <em>1,000 planes</em> total",
-      "body_en": "SpaceX's Starlink has signed Frontier Airlines as a new in-flight Wi-Fi customer — the deal will roll out across <em>1,000 aircraft</em> at five airlines under investor Indigo Partners, reaffirming SpaceX's lead over Amazon's Kuiper in the race for airline connectivity contracts.",
-      "summary_en": "SpaceX's aviation Wi-Fi business has landed another major customer. Denver-based budget carrier Frontier Airlines announced on July 14 that it will install SpaceX's Starlink on its fleet starting as early as 2027. Frontier currently offers no in-flight Wi-Fi at all, making this a jump from nothing to full connectivity.\n\nThe deal traces back to private equity firm Indigo Partners, led by veteran airline investor Bill Franke. Alongside Frontier, four other Indigo-backed carriers — Mexico's Volaris, Europe's Wizz Air, Chile's JetSmart, and the Philippines' Cebu Pacific — are all adopting Starlink, covering roughly <em>1,000 aircraft</em> across the portfolio.\n\nBeyond passenger Wi-Fi, Starlink will also provide gate-to-gate connectivity for pilots, flight attendants, maintenance crews, and ground operations. Frontier did not disclose passenger pricing or the financial terms of the agreement.\n\nFrontier joins Southwest and United as the latest major U.S. carrier to pick Starlink, extending SpaceX's lead over rival Amazon Kuiper in signing up airline customers. It's not a direct earnings catalyst for Tesla, but Musk-led SpaceX's continued commercial momentum remains relevant background to the ongoing debate over a potential Tesla-SpaceX valuation tie-up.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-14/spacex-wins-another-airline-customer-as-frontier-picks-starlink?srnd=live-events-v2",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Bloomberg",
-        "CNBC",
-        "The Points Guy"
-      ],
-      "sentiment": "bull",
-      "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-14T12:06:49.000Z",
-      "title": "FSD v14.3.5 확산 배포 — 컴파일러 재작성으로 <em>반응속도 20% 개선</em>, 초기 체감은 엇갈려",
-      "hotShort": "FSD v14.3.5, <em>반응속도 20% 개선</em>·체감 엇갈려",
-      "body": "테슬라 FSD(Supervised) v14.3.5(소프트웨어 2026.20.6.6)가 확산 배포되며, AI 컴파일러·런타임을 MLIR로 전면 재작성해 <em>반응속도를 20% 개선</em>했다고 확인됐다 — 주행 중 카메라 미리보기 상시 열람 기능도 포함됐지만, 초기 체감은 무결점 완주 사례와 주차 중 휠스토퍼를 밟는 오작동 사례가 동시에 나와 엇갈렸다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-3-5-camera-preview-anytime-2026-07-13",
-      "summary": "7월13일 배포가 시작된 테슬라 FSD(Supervised) v14.3.5(소프트웨어 2026.20.6.6)가 확산되면서, 앞서 확인된 '주행 중 카메라 미리보기 상시 열람' 기능 외에 소프트웨어 핵심 엔진 차원의 개선점도 함께 드러났다.\n\n테슬라라티에 따르면 이번 버전은 강화학습(RL) 단계를 업그레이드하고 비전 인코더(신경망 시각 처리 모듈)를 개선했으며, AI 컴파일러·런타임을 MLIR 기반으로 전면 재작성해 <em>반응속도를 20% 앞당겼다</em>. 이 밖에도 불필요한 차선 쏠림·근접 추종(테일게이팅) 완화, 주차 공간 선택·진입 동작의 결정력 향상, 응급차량·스쿨버스·우선통행 위반 차량에 대한 대응 강화 등이 포함됐다.\n\n다만 초기 실사용 체감은 엇갈렸다. 테슬라 주행 데이터를 추적하는 테슬라스코프는 2026.20.6.6으로 기록된 첫 주행이 100% FSD로 무결점 완주됐다고 확인했다. 반대로 커뮤니티 인플루언서 월마스 캐털로그는 후진 주차 중 휠스토퍼(주차 방지턱)를 밟고 넘어가는 오작동 장면을 영상으로 공개해, 여전히 상시 감독이 필요한 엣지케이스가 남아 있음을 보여줬다.\n\n앞서 확인된 카메라 미리보기 상시 열람 기능(컨트롤 > 서비스 > Camera Preview 경로, 이전엔 주차 상태에서만 가능)도 이번 v14.3.5에 포함돼 있다. 배포는 AI4 탑재 차량 중심으로 시작됐고, 모델S 등 다른 모델로도 2차 순차 확대가 진행 중이다.\n\n테슬라 주주 입장에서 직접적 실적 변수는 아니지만, 컴파일러 재작성 같은 엔진 차원의 개선이 실제 안전성·신뢰성으로 얼마나 이어지는지는 로보택시 상업 확장 속도를 가늠하는 참고 지표다. 7월22일 2분기 실적발표에서 관련 진행 상황이 추가로 공유될 가능성이 있다.",
-      "title_en": "FSD v14.3.5 rolls out wider — compiler rewrite delivers <em>20% faster reaction time</em>, early feedback mixed",
-      "hotShort_en": "FSD v14.3.5: <em>20% faster reactions</em>, mixed reviews",
-      "body_en": "As Tesla's FSD (Supervised) v14.3.5 (software 2026.20.6.6) rolls out more broadly, Teslarati confirmed the update rewrote Tesla's AI compiler and runtime in MLIR, delivering a <em>20% faster reaction time</em> — but early real-world feedback is mixed, with reports of both flawless completed drives and a parking maneuver that ran over a wheel stopper.",
-      "summary_en": "Tesla's FSD (Supervised) v14.3.5 (software 2026.20.6.6), which began rolling out July 13, is now spreading wider — and beyond the previously confirmed \"Camera Preview available while driving\" feature, deeper engine-level changes have come to light.\n\nAccording to Teslarati, the update upgrades the reinforcement-learning stage and improves the neural-network vision encoder, and rewrites Tesla's AI compiler and runtime from the ground up in MLIR, cutting reaction time by <em>20%</em>. Other changes include mitigations for unnecessary lane biasing and tailgating, more decisive parking-spot selection and maneuvering, and stronger responses to emergency vehicles, school buses, and right-of-way violators.\n\nEarly real-world feedback has been mixed, though. Teslascope, which tracks Tesla driving data, confirmed its first recorded drive on 2026.20.6.6 was completed 100% on FSD with no interventions. On the other hand, community influencer Whole Mars Catalog posted footage of the system misjudging a reverse-parking maneuver and driving over a wheel stopper — a reminder that edge cases still demand active supervision.\n\nThe previously confirmed Camera Preview feature — accessible anytime via Controls > Service > Camera Preview, versus only in Park before — is also part of this v14.3.5 release. The rollout began with AI4-equipped vehicles, with a second wave extending to other models including the Model S.\n\nIt's not a direct earnings catalyst for shareholders, but how much engine-level work like the compiler rewrite translates into real safety and reliability gains is a useful proxy for how fast Tesla's robotaxi commercialization can scale. More detail may surface at the July 22 Q2 earnings call.",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Teslarati",
-        "Not a Tesla App",
-        "Sawyer Merritt (X)"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-28 15:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-28 19:45 KST 자동 갱신 · 최신순"
 }

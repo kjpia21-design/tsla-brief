@@ -1,37 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-23T19:14:47.184Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "fsd-france-rejects-approval-2026-07-22",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "Tabarot as-is rejection, 50% speed-limit-exceed example (50->70km/h), attention-monitoring gap all independently confirmed across Electrek/TeslaNorth/Yahoo/Asianet",
-            "\"this system is not a self-driving system\" quote matches minister position",
-            "Musk X post \"Delaying the approval of FSD in France will cost lives\" confirmed verbatim",
-            "Article 39 EU review + Netherlands delegation trip confirmed",
-            "no advice tone, no hedge-to-assertion conversion, href matches event"
-          ]
-        },
-        {
-          "slug": "fsd-subscription-revenue-growth-2026-07-23",
-          "verdict": "regrade",
-          "newSourceLabel": "press",
-          "reasons": [
-            "initial draft conflated NA new-delivery attach rate (~55%) with global lifetime take-rate (15.2%, up from ~14% in Q1) as if both were the same NA-specific stat -- corrected before publish to state both figures separately and accurately",
-            "9/mo subscription-only shift (Feb 2026, ended 5K->K one-time fee) confirmed",
-            "Services and Other revenue .58B +50% YoY record margin confirmed",
-            "1.48M FSD subscribers +56% YoY, ~55% outright/45% (~666K) subscription split confirmed",
-            "~$1.8B ARR figure correctly hedged as unofficial back-of-envelope estimate (attributed to Tesla-watcher math, e.g. New Street Research), not presented as Tesla-disclosed"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-23T21:11:48.000Z",
       "mode": "shadow",
       "checked": 2,
@@ -692,6 +661,49 @@
             "단정 전환 없음",
             "숫자 대조: 175x/24x·EPS $0.33·인도 480,126대·주간 -18% 모두 교차검증(WebSearch, Barron's 원문은 paywall 403으로 직접 열람 불가·간접검증)",
             "href-본문 일치: 매체 헤드라인/주제 일치 확인, 정확 URL slug만 paywall로 미확인"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-28T10:45:00.000Z",
+      "mode": "shadow",
+      "checked": 3,
+      "verdicts": [
+        {
+          "slug": "musk-congress-spacex-stock-conflict-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — CNBC 스트레이트 보도, sec/official 아님",
+            "조언톤 위반 없음 — 매수·매도 권유 없이 사실 보도",
+            "단정 전환 없음 — 원문의 no evidence 톤 유지, 이해충돌 우려로만 서술",
+            "숫자 대조: 매입 총액 최대 $13만·지스네로스 $1,001~$15,000·6/18 매입·7/2 공시·FAA 6/30 금지 모두 WebSearch 교차검증(CNBC, Benzinga, Spotlight PA)",
+            "href-본문 일치 확인 (WebFetch 403이라 WebSearch로 간접검증)"
+          ]
+        },
+        {
+          "slug": "stock-morningstar-450-fair-value-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Stocktwits/모닝스타 애널리스트 코멘트 인용 보도",
+            "조언톤 위반 없음 — \"매수 적기\"는 모닝스타 발언으로 명확히 인용·귀속",
+            "단정 전환 없음",
+            "숫자 대조: 공정가치 $450·46% 상승여력·영업이익 -57%·마진 1.4%·capex $5.79B·FCF -$1.09B·2026 capex $25B+·먼스터 2027 $25B 모두 WebSearch 교차검증(Morningstar 원문은 paywall 403으로 직접 열람 불가·간접검증)",
+            "href-본문 일치 확인"
+          ]
+        },
+        {
+          "slug": "stock-cme-single-stock-futures-2026-07-27",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — CNBC",
+            "조언톤 위반 없음",
+            "단정 전환 없음 — 팩트성 상품 출시 보도",
+            "숫자 대조: 55종목+마이크로22종·7/27 출시·23시간 거래·1시간 정비 모두 WebSearch 교차검증(CNBC, Fortune, Hedgeye, Gurufocus)",
+            "href-본문 일치 확인"
           ]
         }
       ]
