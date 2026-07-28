@@ -41,6 +41,26 @@
       "hot": 5
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "10h ago",
+      "pubDate": "2026-07-27T20:23:00.000Z",
+      "title": "테슬라 주가, 실적 후 급락에 <em>1년치 상승분 모두 반납</em>",
+      "hotShort": "테슬라, 실적 급락에 <em>1년치 상승분</em> 반납",
+      "body": "테슬라 주가가 2분기 실적 발표 후 이어진 하락으로 1년치 상승분을 모두 반납했다 — 그런데도 밸류에이션은 2026년 예상실적 대비 <em>약 175배</em>로 나머지 매그니피센트7 평균(약 24배)을 크게 웃돌아, 주주들 사이 고평가 논쟁이 다시 불붙었다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-erases-year-of-gains-175x-valuation-2026-07-27",
+      "summary": "바론스에 따르면 테슬라 주가는 22일 발표된 2분기 실적 이후 낙폭을 키우며 최근 1년간 쌓아온 상승분을 사실상 모두 되돌렸다. 이번 주 5거래일 연속 하락(18%, 2022년 이후 최악의 주간 낙폭)에 이어 반등의 기미 없이 하락세가 이어진 결과다.\n\n특히 눈길을 끄는 대목은 밸류에이션이다. 바론스는 테슬라가 2026년 예상 실적 대비 약 175배에 거래되고 있다고 전했다 — 애플·엔비디아·마이크로소프트 등 나머지 매그니피센트7 기업들의 평균 배수(약 24배)와 비교하면 7배 이상 높은 수준이다. 주가가 1년치 상승분을 반납할 만큼 조정을 받았는데도 프리미엄이 여전히 크다는 뜻이다.\n\n배경에는 22일 발표된 2분기 조정 EPS $0.33(시장 예상 $0.50 하회)이 있다. 인도량은 48만 대로 역대 최다를 기록했지만 평균판매가 하락과 AI 투자 확대에 따른 비용 증가가 겹쳐 수익성이 예상을 밑돌았다.\n\n월가 일부는 여전히 로보택시·FSD·옵티머스 등 장기 성장 스토리에 무게를 두고 매수 의견을 유지하고 있지만(같은 날 웨드부시 댄 아이브스는 $600 목표주가를 재확인), 이번 밸류에이션 격차는 그 스토리가 실제 실적으로 증명되기 전까지 주가 변동성이 계속될 수 있음을 시사한다.",
+      "title_en": "Tesla stock <em>erases a full year of gains</em> after post-earnings slide",
+      "hotShort_en": "Tesla stock <em>erases a year of gains</em>",
+      "body_en": "Tesla shares have erased a full year of gains after an extended slide following its Q2 earnings report — yet the stock still trades at <em>roughly 175 times</em> projected 2026 earnings, versus an average of about 24 times for the rest of the Magnificent Seven, reigniting the valuation debate among shareholders.",
+      "summary_en": "According to Barron's, Tesla shares have effectively erased a year's worth of gains after deepening losses that followed the July 22 second-quarter earnings report. The decline capped a five-session losing streak this week — an 18% weekly drop, the worst since 2022 — with no sign of a rebound.\n\nThe valuation gap is the standout detail. Barron's reported Tesla trades at roughly 175 times projected 2026 earnings, more than seven times the roughly 24-times average multiple of the rest of the Magnificent Seven — Apple, Nvidia and Microsoft among them. Even after giving back a year of gains, the premium remains steep.\n\nThe backdrop is the Q2 report itself: adjusted EPS of $0.33, below the $0.50 consensus, even as deliveries hit a record 480,000 vehicles. Lower average selling prices and rising AI-related capital spending squeezed profitability below expectations.\n\nSome on Wall Street still back the long-term robotaxi, FSD and Optimus story — Wedbush's Dan Ives reaffirmed his $600 price target the same day — but the valuation gap suggests volatility will likely continue until that story is proven out in actual results.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-loses-year-gains-6acf48c3",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "8h ago",
@@ -151,27 +171,7 @@
       "href": "https://www.cnbc.com/2026/07/27/rivian-will-emerge-as-big-winner-as-robotaxi-market-grows-says-piper-sandler.html",
       "sentiment": "bear",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
-      "pubDate": "2026-07-27T08:42:27.000Z",
-      "title": "로스 게버 \"옵티머스, <em>당분간 매출 없다</em>\" — \"손·발·눈 다 어렵다\"",
-      "hotShort": "로스 게버 \"옵티머스 <em>매출 당분간 없다</em>\"",
-      "body": "테슬라 초기 투자자이자 대표적 약세론자인 로스 게버가 The Information 인터뷰에서 옵티머스 휴머노이드 로봇에 대해 \"손도, 발도, 눈도 다 만들기 어렵다\"며 <em>단기간 내 매출은 없을 것</em>이라 잘라 말했다 — 대규모 투자 대비 상업화 시점은 여전히 안갯속이라는 지적이다.",
-      "sourceName": "Benzinga",
-      "sourceLabel": "press",
-      "slug": "product-gerber-optimus-no-revenue-2026-07-27",
-      "summary": "게버카와사키(Gerber Kawasaki) 대표 로스 게버는 The Information과의 인터뷰에서 테슬라의 인간형 로봇 옵티머스에 대해 회의적인 입장을 밝혔다. 그는 \"손이 어렵고, 발이 어렵고, 눈도 어렵다\"며 바퀴나 무한궤도를 쓰는 로봇에 비해 사람처럼 걷는 휴머노이드 로봇을 만드는 일 자체가 훨씬 까다롭다고 지적했다.\n\n게버는 특히 소비자용 옵티머스의 상업적 기회에 의문을 제기했다. \"옷을 개는 로봇을 만드는 데 1조 달러를 쓰는 건 전혀 말이 안 된다\"며, 투자 규모에 비해 단기 매출 전망이 턱없이 부족하다고 지적했다. 대신 군사·우주·산업용 응용 분야가 더 현실적인 활용처라고 봤다.\n\n이번 발언은 테슬라 2분기 실적 발표 직후 나왔다. 당시 일론 머스크는 옵티머스 생산이 7월 말~8월경 시작될 것이라 밝히면서도 올해 실제 생산 가능 대수는 여전히 불확실하다고 인정한 바 있다. 로보택시 매출 역시 \"2027년은 돼야 의미 있는 수준\"이라고 못박았다.\n\n게버는 테슬라 초기 투자자이자 오랜 주주로, 최근에는 로보택시·FSD 진전 지연을 이유로 회사에 비판적인 목소리를 자주 내왔다. 이번 발언은 옵티머스를 향한 시장의 낙관론에 대한 대표적 반론으로 꼽힌다.",
-      "title_en": "Tesla investor Ross Gerber: Optimus <em>won't see revenue anytime soon</em>",
-      "hotShort_en": "Ross Gerber: Optimus <em>revenue is nowhere close</em>",
-      "body_en": "Longtime Tesla investor and vocal Optimus skeptic Ross Gerber told The Information that humanoid robots are hard to build — \"hands are tough, feet are tough, and eyes are tough\" — and said <em>there's no revenue coming anytime soon</em> despite the massive spend.",
-      "summary_en": "Ross Gerber, head of Gerber Kawasaki and a longtime Tesla investor, laid out his skepticism about Optimus in an interview with The Information. \"Hands are tough, feet are tough, and eyes are tough,\" he said, arguing that building a humanoid robot that walks like a person is far harder than building robots that rely on wheels or tracks.\n\nGerber specifically questioned the commercial case for a consumer-facing Optimus. \"Spending a trillion dollars to build a robot to fold clothes doesn't make any sense to me at all,\" he said, adding that the scale of investment doesn't match any near-term revenue. He argued that military, space, and industrial applications made far more sense as use cases.\n\nThe comments came just after Tesla's Q2 earnings, where Elon Musk said Optimus production should start around late July or August while acknowledging the actual unit count achievable this year remains unclear. Musk also said Robotaxi revenue won't become meaningful until 2027.\n\nGerber, an early Tesla investor and longtime shareholder, has increasingly criticized the company over delays in Robotaxi and FSD progress. His remarks stand as one of the most pointed pushbacks yet against the market's optimism on Optimus.",
-      "href": "https://www.benzinga.com/markets/tech/26/07/60661004/ross-gerber-questions-teslas-optimus-bet-theres-no-revenue-coming-anytime-soon",
-      "sentiment": "bear",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-28 14:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-28 15:10 KST 자동 갱신 · 최신순"
 }

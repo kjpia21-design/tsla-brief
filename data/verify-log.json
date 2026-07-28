@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-23T14:10:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "stock-analyst-price-target-cuts-2026-07-23",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for CNBC",
-            "no advisory tone — reports analyst target changes as fact, no buy/sell recommendation issued by the site itself",
-            "no hedge-to-assertion conversion — figures are analyst-stated price targets, not hedged claims",
-            "numbers cross-checked via WebSearch across CNBC/MarketScreener/Investing.com/Teslarati: JPMorgan $475→$445, Cantor Fitzgerald $510→$485 (Overweight kept), Canaccord $450→$410 (Buy kept), Truist $430→$370 (Hold kept) — all consistent across sources (direct WebFetch to cnbc.com blocked 403)",
-            "href matches the exact CNBC article used",
-            "not X-sourced, no meme/satire risk",
-            "stock-price-move number (intraday ~10-12% figures seen in search) deliberately excluded from the card — market not yet closed today, close-to-close rule not satisfiable; only static analyst price-target facts used"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-23T19:14:47.184Z",
       "mode": "shadow",
       "checked": 2,
@@ -694,6 +673,25 @@
             "href matches the exact 24/7 Wall St. article used",
             "not X-sourced, no meme/satire risk",
             "note: two same-day Barron's headlines sharing one article ID ('erased a year of gains' / 'troubling milestone') and a Bloomington Megacharger tweet were considered and dropped — Barron's figures unverifiable (WebFetch down, conflicting price data across sources), Megacharger event traced to ~July 17-22 (stale repost, not new)"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-28T15:10:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "stock-erases-year-of-gains-175x-valuation-2026-07-27",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Barron's",
+            "조언톤 위반 없음 — 아이브스 목표주가는 3자 인용",
+            "단정 전환 없음",
+            "숫자 대조: 175x/24x·EPS $0.33·인도 480,126대·주간 -18% 모두 교차검증(WebSearch, Barron's 원문은 paywall 403으로 직접 열람 불가·간접검증)",
+            "href-본문 일치: 매체 헤드라인/주제 일치 확인, 정확 URL slug만 paywall로 미확인"
           ]
         }
       ]
