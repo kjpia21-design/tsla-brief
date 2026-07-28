@@ -1,39 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-23T09:50:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "fsd-robotaxi-guarded-tone-earnings-2026-07-23",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for Reuters",
-            "no advisory tone, no price target",
-            "no hedge-to-assertion conversion — guarded-tone framing matches source",
-            "numbers cross-checked (2.5M cumulative miles, 380K miles without safety monitor, 7 promised metros vs 3 live by Tuesday, Jan investor-day pledge) via WebSearch synthesis of the Reuters piece (direct WebFetch to reuters.com blocked)",
-            "href matches the exact Reuters article used",
-            "not X-sourced, no meme/satire risk"
-          ]
-        },
-        {
-          "slug": "product-semi-fsd-timeline-cybercab-priority-2026-07-23",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for Teslarati",
-            "no advisory tone",
-            "hedges preserved (\"should start working by early 2027\", \"taking a bit of a backseat\") — not overstated to certainty",
-            "quotes and timeline (early 2027, six-month deprioritization, Model 3/Y/Cybercab focus) cross-checked via WebSearch (direct WebFetch to teslarati.com blocked 403)",
-            "href matches the exact Teslarati article used",
-            "not X-sourced"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-23T14:10:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -706,6 +673,27 @@
             "href (9to5mac X Money/Apple Wallet article) matches same launch event described in body/summary — no link-content mismatch",
             "not X-tweet-sourced — meme/satire conversion check not applicable",
             "note: WebFetch tool returned 403 for every host tested this run (including wikipedia.org, api.teslabriefing.com) — appears to be an environment/proxy-level block rather than per-site; verification relied on WebSearch corroboration instead of direct primary-source fetch"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-28T04:30:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "stock-ives-600-target-85-upside-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for 24/7 Wall St.",
+            "no advisory tone — reports analyst's own target as fact, no buy/sell recommendation issued by the site",
+            "no hedge-to-assertion conversion — raw title itself states '85% in 12 months' as the analyst's belief, card frames it as reiterated target, not a promise of the stock rising",
+            "numbers cross-checked via WebSearch synthesis of the 24/7 Wall St. article ($600 target, ~85% upside, robotaxi/FSD/Optimus rationale) — direct WebFetch to 247wallst.com blocked 403 (site-wide WebFetch outage this run, all domains tested returned 403)",
+            "href matches the exact 24/7 Wall St. article used",
+            "not X-sourced, no meme/satire risk",
+            "note: two same-day Barron's headlines sharing one article ID ('erased a year of gains' / 'troubling milestone') and a Bloomington Megacharger tweet were considered and dropped — Barron's figures unverifiable (WebFetch down, conflicting price data across sources), Megacharger event traced to ~July 17-22 (stale repost, not new)"
           ]
         }
       ]
