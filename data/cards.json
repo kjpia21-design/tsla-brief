@@ -1,29 +1,79 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "9m ago",
+      "pubDate": "2026-07-28T17:29:59.000Z",
+      "title": "테슬라, <em>로보택시 전용 카메라 워셔</em> 부품 카탈로그에 잠깐 노출 — 곧 삭제",
+      "hotShort": "로보택시 카메라 워셔, <em>카탈로그서 잠깐 노출</em>",
+      "body": "테슬라가 일반 소비자용 파츠 카탈로그에 로보택시 전용 카메라 워셔 부품을 잠시 올렸다가 발견 직후 곧바로 내렸다 — \"프로젝트 헤일로\"(소비자 차량의 로보택시 전환) 준비 신호로 읽히며, 향후 개인 차주도 이 하드웨어를 쓰게 될지 주목된다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-camera-washer-parts-catalog-2026-07-28",
+      "summary": "이번에 노출된 항목은 테슬라의 전자부품 카탈로그(EPC) 중 신형(주니퍼 페이스리프트) 모델Y용 'HALO' 카테고리에 등록됐다 — 외부 카메라용 전용 와이퍼·워셔 펌프로 구성된 세정 시스템과 함께, 리프트게이트 부품·래치·조명 항목도 같은 카테고리에 함께 올라왔다.\n\n'HALO'라는 이름은 테슬라가 소비자 소유 모델Y를 로보택시 네트워크에서 운행할 수 있도록 개조하는 내부 프로젝트 '프로젝트 헤일로'와 직접 연결된다. 카메라 워셔 자체는 약 6개월 전 오스틴의 로보택시 차량에서 처음 포착된 하드웨어로, 지금까지는 로보택시 전용이었다.\n\n이 항목이 파츠 카탈로그에 등록됐다는 것은 소비자용 정비소·공인 충돌수리센터에서도 이 부품을 주문할 수 있는 경로가 열렸다는 의미다. 하지만 등록 직후 곧바로 삭제되면서, 테슬라가 아직 공식 출시를 준비 중인지 실수로 노출한 것인지는 확인되지 않았다.\n\n업계에서는 두 가지 해석이 나온다 — 카메라 워셔가 소비자용 모델Y의 표준 사양으로 확대될 신호이거나, 반대로 소비자 소유 차량이 로보택시로 운행되려면 이 하드웨어 장착이 전제조건이 될 수 있다는 관측이다. 가격은 공개되지 않았다.",
+      "title_en": "Tesla <em>briefly lists a Robotaxi-only camera washer</em> part for personal cars, then pulls it",
+      "hotShort_en": "Robotaxi camera washer <em>briefly hits parts catalog</em>",
+      "body_en": "Tesla briefly added a Robotaxi-exclusive camera washer part to its consumer parts catalog before pulling it shortly after it was spotted — a move tied to \"Project Halo,\" Tesla's effort to convert consumer-owned Model Ys into Robotaxis, raising the question of whether owners could eventually get the hardware too.",
+      "summary_en": "The listing appeared in Tesla's Electronic Parts Catalog (EPC) for the redesigned \"Juniper\" Model Y, under a category called \"HALO\" — alongside an entry for a cleaning system with dedicated wipers and a washer pump for the exterior cameras, plus a separate entry for liftgate components, latches, and lights.\n\nThe \"HALO\" name ties directly to Project Halo, Tesla's internal effort to retrofit consumer-owned Model Ys so they can operate on the Robotaxi network. The camera washer hardware itself was first spotted on Robotaxi vehicles in Austin roughly six months ago, and until now had been exclusive to that fleet.\n\nIts appearance in the parts catalog would have opened an ordering path through Tesla-operated service centers and approved collision shops — but it disappeared again shortly after being noticed, leaving it unclear whether Tesla was preparing an official rollout or exposed it by mistake.\n\nObservers see two possible readings: that camera washers are headed toward becoming a standard feature on consumer Model Ys, or conversely that the hardware could become a prerequisite for any consumer-owned vehicle to run on the Robotaxi network. Pricing was not disclosed.",
+      "href": "https://www.teslarati.com/tesla-briefly-offered-this-robotaxi-part-personal-car/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Not a Tesla App"
+      ],
+      "sentiment": "neutral",
+      "hot": 2
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-28T15:57:36.000Z",
+      "title": "테슬라 로보택시, <em>방향지시등 소리 제거</em> — 찬반 갈리는 UX 변경",
+      "hotShort": "로보택시, <em>깜빡이 소리 삭제</em>·호불호 갈려",
+      "body": "테슬라가 무감독 로보택시 차량에서 방향지시등·비상등 작동음을 없앴다 — 운전자에게 깜빡이가 켜졌음을 알리던 신호음이 무인 차량엔 기능적 의미가 없다는 판단에서지만, 탑승객 반응은 찬반이 엇갈린다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-robotaxi-turn-signal-sound-removed-2026-07-28",
+      "summary": "이 변경은 지난 27일 오스틴 로보택시 탑승객들 사이에서 처음 감지됐고, 이후 테슬라라티 등 여러 매체가 확인했다. 제거된 것은 방향지시등 클릭음과 비상등 작동음 두 가지다.\n\n이 소리는 원래 사람이 운전하는 차에서 운전자에게 깜빡이가 켜져 있음을 알려주는 확인 신호 역할을 해왔다. 그런데 운전자가 없는 무감독 자율주행 차량에서는 이 신호를 들을 사람이 없다 보니, 테슬라는 사람 중심으로 설계된 이 기능이 로보택시엔 더 이상 필요 없다고 판단한 것으로 풀이된다.\n\n이번 변경은 무감독 로보택시로 운행되는 모델Y에만 적용되며, 일반 소비자가 구매하는 모델Y나 FSD를 쓰는 개인 차량에서는 방향지시등 소리가 그대로 들린다.\n\n탑승객 반응은 엇갈린다 — 일부는 불필요한 소음이 줄어 더 조용한 승차감을 반겼지만, 다른 일부는 차량이 무엇을 하려는지 알려주는 청각적 단서가 사라져 오히려 불안하다는 반응을 보였다.",
+      "title_en": "Tesla <em>removes turn signal sound</em> from Robotaxi fleet in polarizing change",
+      "hotShort_en": "Robotaxi <em>drops turn signal clicks</em>, riders split",
+      "body_en": "Tesla has removed the turn signal and hazard light sounds from its unsupervised Robotaxi vehicles — the audible cue that normally confirms a blinker is active for the driver serves no purpose without one, but rider reactions to the change are split.",
+      "summary_en": "The change was first noticed by riders in Tesla's Austin Robotaxi fleet on July 27 and has since been confirmed by outlets including Teslarati. Tesla removed both the turn signal click and the hazard light sound.\n\nIn human-driven cars, that ticking sound serves as a confirmation cue letting the driver know the blinker is engaged. In an unsupervised autonomous vehicle with no driver to inform, Tesla appears to have concluded the human-centric cue no longer serves a purpose.\n\nThe change applies specifically to the unsupervised Robotaxi configuration of the Model Y — turn signal sounds remain audible in standard consumer vehicles and in personal cars running FSD.\n\nRider reaction has been mixed: some welcomed a quieter cabin with less unnecessary noise, while others said losing the audible cue signaling what the car is about to do left them feeling less at ease.",
+      "href": "https://www.teslarati.com/tesla-silences-robotaxi-turn-signals-sweeping-polarizing-change/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Basenor"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-07-28T13:41:29.000Z",
-      "title": "스페이스X, 상장 후 처음 <em>IPO가 밑으로 추락</em> — 6월 고점 대비 $1.2조 증발",
-      "hotShort": "스페이스X, 사상 첫 <em>IPO가 밑으로</em> 추락",
-      "body": "스페이스X 주가가 상장 이후 처음으로 공모가($150) 밑으로 떨어졌다 — 6월16일 고점($225.64) 대비 시가총액 약 $1.2조가 증발한 셈으로, 테슬라 회사 하나를 통째로 지운 규모다.",
+      "time": "2h ago",
+      "pubDate": "2026-07-28T15:37:32.000Z",
+      "title": "스페이스X, 장중 <em>20% 급락 후 반등</em> — 6월 고점 대비 $1.2조 증발",
+      "hotShort": "스페이스X, 장중 <em>20% 급락 후 반등</em> — $1.2조 증발",
+      "body": "스페이스X 주가가 28일 장중 한때 공모가($135) 대비 20%까지 밀리며 6월 고점 대비 시가총액 약 $1.2조가 증발했다가, 이후 낙폭을 전부 되돌리고 장중 상승 전환했다 — 등락은 컸지만, 공모가를 밑도는 약세 흐름 자체는 수 주째 이어지고 있다.",
       "sourceName": "Bloomberg",
       "sourceLabel": "press",
       "slug": "musk-spacex-1-2t-cap-loss-since-june-peak-2026-07-27",
-      "summary": "스페이스X는 지난 6월12일 주당 $150에 뉴욕증시에 상장해 역대 최대 IPO를 기록했고, 나흘 뒤인 6월16일 $225.64까지 치솟으며 화려하게 데뷔했다.\n\n블룸버그에 따르면 이후 주가는 꾸준히 미끄러져 28일 처음으로 공모가 밑으로 내려앉았다 — 고점 대비 시총 손실은 약 $1.2조로, 테슬라 한 곳의 시가총액과 맞먹는 규모다.\n\n하락 배경으로는 스타십 시험비행 지연에 따른 수요 둔화 우려가 꼽히며, HSBC는 이날 커버리지를 개시하며 '홀드' 등급·목표주가 $115를 제시해 \"장기 잠재력이 이미 주가에 반영됐다\"고 평가했다.\n\n같은 기간 테슬라 주가도 별도로 약세를 이어가며 1년 내 최저치에 근접한 상태다. 두 회사 모두 머스크가 최대주주 겸 CEO를 맡고 있어, 이번 조정은 머스크 사업 전반에 대한 밸류에이션 재평가로 읽힌다. 페이스북·우버 등 과거 대형 IPO도 상장 후 한동안 공모가를 밑돌았다가 반등한 전례가 있다.",
-      "title_en": "SpaceX <em>drops below its IPO price</em> for the first time — $1.2T erased since June peak",
-      "hotShort_en": "SpaceX falls <em>below its IPO price</em> for first time",
-      "body_en": "SpaceX shares have fallen below their $150 IPO price for the first time since going public — a decline that has erased roughly $1.2 trillion in market value from the June 16 peak of $225.64, equivalent to wiping out a company the size of Tesla.",
-      "summary_en": "SpaceX went public on the NYSE on June 12 at $150 a share in the largest IPO in history, then rallied to an all-time high of $225.64 just four days later on June 16.\n\nPer Bloomberg, the stock has since slid steadily and closed below its IPO price for the first time on July 28 — a peak-to-trough loss of roughly $1.2 trillion in market value, on par with erasing a company the size of Tesla outright.\n\nAnalysts point to demand concerns tied to delayed Starship test flights as a factor behind the slide. HSBC initiated coverage the same day with a Hold rating and a $115 price target, arguing the company's long-term potential is already reflected in the stock.\n\nTesla shares have separately continued to weaken over the same period, drifting toward one-year lows. With Musk serving as CEO and largest shareholder of both companies, the pullback reads as a broader valuation reassessment across his businesses. Other major IPOs, including Facebook and Uber, also traded below their offer price for a stretch before recovering.",
+      "summary": "스페이스X는 지난 6월11일 주당 $135에 공모가를 확정하고 이튿날 뉴욕증시에 상장했다. 상장 첫날 종가는 $161로 공모가 대비 19% 올랐고, 나흘 뒤인 6월16일에는 $225.64까지 치솟으며 화려하게 데뷔했다.\n\n블룸버그에 따르면 이후 주가는 꾸준히 미끄러져 7월 중순부터 공모가($135) 부근까지 반복해서 내려앉았고, 28일에는 장중 한때 공모가 대비 20%까지 밀리며 고점(6월16일 $225.64) 대비 시총 손실이 약 $1.2조에 달했다 — 테슬라 한 곳의 시가총액과 맞먹는 규모다.\n\n하락 배경으로는 스타십 시험비행 지연에 따른 수요 둔화 우려가 꼽히며, HSBC는 이날 커버리지를 개시하며 '홀드' 등급·목표주가 $115를 제시해 \"장기 잠재력이 이미 주가에 반영됐다\"고 평가했다.\n\n28일(현지시간) 장중에는 낙폭이 최대 5.7%까지 벌어졌으나, 기술주 전반의 변동성 속에서도 이후 낙폭을 전부 되돌리고 한때 3.6% 상승 전환하기도 했다 — 다만 장 마감 전 상황이라 이날 최종 등락은 아직 확정되지 않았다.\n\n같은 기간 테슬라 주가도 별도로 약세를 이어가며 1년 내 최저치에 근접한 상태다. 두 회사 모두 머스크가 최대주주 겸 CEO를 맡고 있어, 이번 조정은 머스크 사업 전반에 대한 밸류에이션 재평가로 읽힌다.",
+      "title_en": "SpaceX <em>swings from a 20% intraday drop to a rebound</em> below its IPO price — $1.2T erased since June peak",
+      "hotShort_en": "SpaceX <em>plunges 20%, then rebounds</em> intraday",
+      "body_en": "SpaceX shares briefly fell as much as 20% below their $135 IPO price intraday on July 28, erasing roughly $1.2 trillion in market value from the June 16 peak, before fully reversing the decline and turning positive intraday — the swings were sharp, but the stock has now traded below its IPO price for weeks.",
+      "summary_en": "SpaceX priced its IPO at $135 a share on June 11 and began trading on the Nasdaq the next day. The stock closed its debut session at $161, up 19% from the offering price, then rallied further to an all-time high of $225.64 just four days later on June 16.\n\nPer Bloomberg, the stock has since slid steadily, repeatedly testing its $135 IPO price from mid-July onward. On July 28, shares briefly traded as much as 20% below that IPO price intraday, putting the peak-to-trough loss from the June 16 high at roughly $1.2 trillion — on par with erasing a company the size of Tesla outright.\n\nAnalysts point to demand concerns tied to delayed Starship test flights as a factor behind the slide. HSBC initiated coverage the same day with a Hold rating and a $115 price target, arguing the company's long-term potential is already reflected in the stock.\n\nIntraday on July 28, the decline deepened to as much as a 5.7% drop before the stock fully reversed course amid broader volatility in tech shares, turning positive by as much as 3.6% intraday — with the trading day not yet closed, the final move for the session remained unsettled.\n\nTesla shares have separately continued to weaken over the same period, drifting toward one-year lows. With Musk serving as CEO and largest shareholder of both companies, the pullback reads as a broader valuation reassessment across his businesses.",
       "href": "https://www.bloomberg.com/news/articles/2026-07-28/spacex-falls-20-below-ipo-price-erasing-1-2-trillion-value",
       "confirmedBy": 2,
       "confirmingSources": [
         "Bloomberg",
-        "NBC News"
+        "Yahoo Finance"
       ],
-      "sentiment": "bear",
-      "hot": 6
+      "sentiment": "neutral",
+      "hot": 5
     },
     {
       "category": "product",
@@ -71,32 +121,6 @@
       "href": "https://www.cnbc.com/2026/07/28/tuesday-big-analyst-calls-on-wall-street-include-spacex.html",
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-07-28T11:58:00.000Z",
-      "title": "테슬라, 인도 <em>첫 공인 바디샵</em> 푸네에 개설 — 모델Y 시승도 시작",
-      "hotShort": "테슬라 인도, <em>첫 공인 바디샵</em> 개설",
-      "body": "테슬라가 인도 마하라슈트라주 푸네에 첫 공인 바디샵을 열고 정품 부품·전문 기술진을 갖춘 충돌수리 서비스를 시작했다 — 같은 날 2026년형 모델Y 시승도 함께 개시하며 인도 시장 판매·서비스망 확충에 속도를 내는 모습이다.",
-      "sourceName": "IANS",
-      "sourceLabel": "press",
-      "slug": "product-india-first-body-shop-pune-2026-07-28",
-      "summary": "테슬라는 지난해 인도 시장에 정식 진출한 이후 주요 도시 중심으로 매장·서비스망을 넓혀왔다.\n\n28일 푸네에 문을 연 공인 바디샵은 정품 부품, 소프트웨어 연동 진단, 테슬라 표준 충돌수리·정비 서비스를 제공해 차주들의 수리 대기시간을 줄이는 데 초점을 맞췄다.\n\n같은 날 푸네·인근 지역 고객을 대상으로 2026년형 모델Y 시승도 시작됐다 — 모델Y 프리미엄 후륜구동은 5,089만 루피에 WLTP 기준 500km 주행거리·0→100km/h 5.9초·적재공간 2,138L을 제공하며, 모델Y L은 6,199만 루피부터 시작해 681km 주행거리·0→100km/h 5.0초·2,539L 적재공간을 갖췄다.\n\n관세 문턱이 높아 완성차 가격이 비싼 인도는 그간 판매 확대가 더뎠던 시장이다 — 서비스 인프라 확충은 현지 신뢰 구축을 위한 다음 단계로 풀이된다.",
-      "title_en": "Tesla opens <em>India's first authorized body shop</em> in Pune, adds Model Y test drives",
-      "hotShort_en": "Tesla opens <em>India's first body shop</em> in Pune",
-      "body_en": "Tesla opened its first Tesla-approved body shop in Pune, India, offering genuine-parts collision repair by trained technicians — the same day it launched test drives for the 2026 Model Y, as the company expands its sales and service footprint in the market.",
-      "summary_en": "Tesla has been expanding its store and service network across major Indian cities since formally entering the market last year.\n\nThe approved body shop that opened in Pune on July 28 offers genuine parts, software-aware diagnostics, and Tesla-standard collision repair and maintenance, aimed at cutting repair wait times for owners.\n\nThe same day, Tesla launched test drives for the 2026 Model Y in Pune and surrounding areas — the Model Y Premium Rear-Wheel Drive starts at Rs 50.89 lakh with a WLTP-rated range of 500 km, 0-100 km/h in 5.9 seconds, and 2,138 liters of cargo space, while the Model Y L starts at Rs 61.99 lakh with a 681 km range, 0-100 km/h in 5.0 seconds, and 2,539 liters of cargo space.\n\nHigh import duties have kept finished-vehicle prices steep and sales growth slow in India — building out service infrastructure is seen as the next step in establishing local trust.",
-      "href": "https://ianslive.in/tesla-opens-first-approved-body-shop-in-india-launches-model-y-test-drives--20260728144526",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "IANS",
-        "Free Press Journal",
-        "Team-BHP"
-      ],
-      "sentiment": "bull",
-      "hot": 3
     },
     {
       "category": "product",
@@ -169,5 +193,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-29 00:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-29 04:05 KST 자동 갱신 · 최신순"
 }

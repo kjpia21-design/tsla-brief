@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-23T23:15:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "musk-google-spacex-stake-94b-2026-07-23",
-          "verdict": "regrade",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press confirmed correct (WSJ/Bloomberg reporting on Alphabet's Q2 filing, not the filing itself)",
-            "no advisory tone, no buy/sell/price-target language",
-            "no hedge-to-assertion drift found",
-            "found 2 real numeric errors via independent WebSearch verification, corrected before publish: (1) SpaceX IPO day-1 close was $160.95 (+19% from $135 offering price), not '$135 마감' as originally drafted; (2) the ~$98B Alphabet investment gain this quarter was from SpaceX+Anthropic combined, not attributable to SpaceX alone as originally drafted",
-            "href matches WSJ article title exactly",
-            "N/A: not an X/meme-sourced card",
-            "implied-valuation discrepancy ($94.1B/6%≈$1.57T vs $2.1T IPO close) confirmed real; card correctly avoids conflating the two figures"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-24T05:07:22.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -747,6 +726,49 @@
             "밈·풍자 아님(⑥) — 구체적 기능·범위 정보가 담긴 사실성 트윗, 유머/가정 아님",
             "숫자·기능 대조: 배포범위 미국·캐나다 전역·주차/전진출차/후진·맞춤 도착옵션·셀프드라이빙 앱 모두 WebSearch 교차검증(Drive Tesla Canada, TeslaNorth, Not a Tesla App)",
             "href-본문 일치 확인 — 실제 원 트윗 링크"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-28T19:20:00.000Z",
+      "mode": "shadow",
+      "checked": 3,
+      "verdicts": [
+        {
+          "slug": "fsd-robotaxi-camera-washer-parts-catalog-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Teslarati",
+            "조언톤 위반 없음",
+            "단정 전환 없음 — 목적(소비자 확대용/전제조건) 모두 추측으로 완화 서술",
+            "핵심 사실(Halo 카테고리, Project Halo 연결, 발견 직후 삭제, 가격 미공개) WebSearch 교차검증(Teslarati, Not a Tesla App) — WebFetch는 403으로 직접 열람 불가, 간접검증으로 대체",
+            "href-본문 일치 확인 — 미검증 세부사항(약 6개월 전 오스틴 최초 포착) 1건은 독립 소스로 재확인 못함, 다음 실행에서 재점검 권장(발행 차단 사유는 아님)"
+          ]
+        },
+        {
+          "slug": "fsd-robotaxi-turn-signal-sound-removed-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Teslarati",
+            "조언톤 위반 없음, 단정 전환 없음",
+            "핵심 사실(무감독 로보택시 전용, 소비자·FSD 개인차량은 미적용, 반응 엇갈림) WebSearch 교차검증(Teslarati, Basenor) — WebFetch 403으로 간접검증",
+            "href-본문 일치 확인 — '7/27 오스틴 탑승객이 첫 감지' 세부사항은 직접 재확인 못함(발행 차단 사유 아님)"
+          ]
+        },
+        {
+          "slug": "musk-spacex-1-2t-cap-loss-since-june-peak-2026-07-27",
+          "verdict": "regrade",
+          "newSourceLabel": null,
+          "reasons": [
+            "④ 숫자 오류 발견·수정: 기존 카드의 '공모가($150)'는 오류 — 실제 SpaceX IPO 공모가는 $135(6/11 확정, 6/12 상장). $150은 상장 첫날 거래 구간의 일부였을 뿐 공모가가 아님. 전 필드(title/body/summary, EN 포함)에서 $135로 정정",
+            "④ '사상 첫 IPO가 하회' 프레이밍 삭제 — WebSearch 교차검증 결과 SpaceX가 공모가를 처음 하회한 시점은 7월 중순(7/15 장중, 이후 7월 하순 종가 기준으로도 여러 차례)이라 7/28을 '사상 처음'으로 서술하는 것은 사실 오류. '첫' 주장 제거하고 '수 주째 이어진 약세' 로 재서술",
+            "③ 장중 반등 폭 과소서술 수정 — 원문(Bloomberg)은 장중 낙폭 최대 5.7%에서 상승 최대 3.6%까지 완전히 반전됐다고 서술하는데, 초안은 '낙폭 일부만 되돌림'으로 축소 서술 — '낙폭을 전부 되돌리고 상승 전환'으로 정정",
+            "위 수정 반영 후 재검증: HSBC 홀드/$115, 6월16일 고점 $225.64, $1.2조 손실 수치는 원 검증대로 정확 — 유지",
+            "sentiment을 bear에서 neutral로 완화(장중 완전 반전이라는 새 사실 반영), hot 6→5",
+            "href(Bloomberg)-본문 일치 확인, 밈/풍자 아님"
           ]
         }
       ]
