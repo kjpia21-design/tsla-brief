@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-27T21:26:03.000Z",
+      "title": "스페이스X 시총, 6월 고점 대비 <em>$1.2조 증발</em> — 테슬라 한 곳 몸값과 맞먹어",
+      "hotShort": "스페이스X, 6월 고점 이후 <em>$1.2조 증발</em>",
+      "body": "CNBC에 따르면 스페이스X 시가총액이 6월 고점(주당 $225.64) 이후 약 $1.2조 증발해, 테슬라 회사 하나의 전체 시가총액과 맞먹는 규모로 줄었다 — 같은 기간 테슬라 주가도 1년 내 최저치에 근접하며, 머스크 제국 전반의 밸류에이션 되돌림이 동시에 진행 중임을 보여준다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-1-2t-cap-loss-since-june-peak-2026-07-27",
+      "summary": "스페이스X는 지난 6월 뉴욕증시 상장 이후 한동안 급등세를 타며 주당 $225.64까지 치솟았다. 스타십 재사용·위성 인터넷(스타링크) 사업에 대한 기대감이 반영된 고점이었다.\n\nCNBC 집계에 따르면 이후 스페이스X 시총은 약 $1.2조가 증발했다 — 이는 테슬라라는 회사 하나를 통째로 지운 것과 맞먹는 규모다. 스타십 시험비행 지연 등이 하락의 배경으로 꼽힌다.\n\n같은 기간 테슬라 주가 역시 별도로 약세를 이어가며 1년 내 최저치에 근접한 상태다. 두 회사 모두 일론 머스크가 최대주주 겸 CEO를 맡고 있어, 이번 조정은 개별 기업 이슈를 넘어 머스크 사업 전반에 대한 투자자들의 밸류에이션 재평가로 읽힌다.\n\n주주 입장에서는 테슬라 본업 펀더멘털과는 별개의 이슈이지만, 머스크의 순자산·시간 배분이 여러 회사에 걸쳐 있다는 점에서 스페이스X발 조정이 테슬라 서사(로보택시·AI)에 대한 시장 심리에 간접적으로 영향을 줄 수 있다는 점은 주시할 대목이다.",
+      "title_en": "SpaceX market cap <em>erases $1.2T</em> since June peak — roughly a full Tesla's worth",
+      "hotShort_en": "SpaceX <em>erases $1.2T</em> since June peak",
+      "body_en": "CNBC reports SpaceX's market cap has shed roughly $1.2 trillion since its June peak of $225.64 a share — a decline equivalent to wiping out a company the size of Tesla — while Tesla shares have separately drifted toward one-year lows over the same stretch, underscoring a broader valuation pullback across Elon Musk's businesses.",
+      "summary_en": "SpaceX rallied hard after its New York Stock Exchange debut in June, peaking at $225.64 a share on optimism around Starship reusability and the Starlink satellite internet business.\n\nSince then, per CNBC's tally, SpaceX has shed about $1.2 trillion in market value — a decline equivalent to erasing a company the size of Tesla outright. Delays in Starship test flights have been cited as a factor behind the slide.\n\nTesla shares have separately continued to weaken over the same period, drifting toward one-year lows. With Musk serving as CEO and largest shareholder of both companies, the pullback reads less like a company-specific issue and more like a broader market reassessment of valuations across Musk's businesses.\n\nFor Tesla shareholders, this is a distinct issue from the company's own operating fundamentals — but since Musk's net worth and attention span both straddle multiple companies, a SpaceX-driven correction is worth watching for any indirect effect on sentiment around Tesla's own Robotaxi and AI narrative.",
+      "href": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
@@ -2306,27 +2326,7 @@
       "href": "https://www.barrons.com/articles/tesla-stock-price-robots-ea58cefa",
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-13T17:57:55.000Z",
-      "title": "테슬라 정책자문관 \"<em>휠체어 전용 자율주행차</em> 개발 중\" — 시기·차종은 비공개",
-      "hotShort": "테슬라, <em>휠체어 전용 자율차</em> 개발 확인",
-      "body": "테슬라 정책자문관이 7월13일 워싱턴DC 의회에서 <em>휠체어 이용자 전용으로 설계된 자율주행차</em>를 개발 중이라고 밝혔다 — 다만 구체적 차종·출시 시기는 밝히지 않아, 기존 사이버캡과 별개 프로젝트인지는 불분명하다. 로보택시 접근성 확대 의지를 시사하는 발언.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-wheelchair-accessible-robotaxi-2026-07-13",
-      "summary": "테슬라의 접근성 로드맵에 새로운 단서가 나왔다. 7월13일(현지시간) 워싱턴DC 의회 브리핑 자리에서 테슬라 정책자문관이 회사가 휠체어 이용자를 위한 맞춤 설계 자율주행차를 개발 중이라고 밝혔다.\n\n다만 발언은 원론적 수준에 머물렀다 — 구체적인 차량 형태, 출시 시점, 심지어 기존 사이버캡·모델Y 기반 로보택시와의 관계조차 공개되지 않았다. 전자전기 매체 일렉트렉은 이를 두고 '차량도, 시기도, 세부사항도 없다'고 지적하며 실체가 아직 뚜렷하지 않다고 짚었다.\n\n테슬라는 앞서 7월 초 오스틴 전미시각장애인연맹(NFB) 총회에서 사이버캡의 접근성 기능(점자 표기, 보조기구 공간, 휠체어 높이 좌석 등)을 시연한 바 있다. 이번 발언이 그 기존 사이버캡의 연장선인지, 아니면 별도의 전용 차종을 뜻하는지는 확인되지 않는다.\n\n로보택시 사업이 텍사스·플로리다 등에서 확장되는 가운데, 장애인 접근성은 지방정부·규제당국 승인 심사에서 자주 거론되는 요소다. 구체안이 나오기 전까지는 원론적 발언에 그치지만, 테슬라가 이 이슈를 의회 앞에서 공개적으로 언급했다는 점 자체가 접근성 이슈에 대한 대응 신호로 읽힐 수 있다.",
-      "title_en": "Tesla confirms it's developing a <em>purpose-built, wheelchair-accessible</em> robotaxi",
-      "hotShort_en": "Tesla confirms <em>wheelchair-accessible</em> AV plan",
-      "body_en": "A Tesla policy advisor told lawmakers in Washington, DC on July 13 that the company is building a <em>purpose-built, wheelchair-accessible autonomous vehicle</em> — though no timeline, vehicle name, or other details were given, leaving it unclear whether this is separate from Cybercab.",
-      "summary_en": "Tesla's accessibility roadmap picked up a new data point this week. At a congressional briefing in Washington, DC on July 13, a Tesla policy advisor told lawmakers the company is developing a purpose-built, wheelchair-accessible autonomous vehicle.\n\nThe comment stayed at a high level, though — no vehicle design, launch timeline, or even clarity on whether this is separate from the existing Cybercab was offered. Electrek noted the claim came with \"no vehicle, no timeline, and no details.\"\n\nTesla had earlier shown off Cybercab's accessibility features — Braille markings, space for service animals, wheelchair-height seating — at the National Federation of the Blind's Austin convention in early July. Whether this new comment refers to that same vehicle or a distinct model remains unclear.\n\nAs Tesla's robotaxi business expands in Texas, Florida and beyond, disability accessibility is a recurring theme in regulatory and local approval reviews. Until concrete specs emerge, this is mostly a statement of intent — but raising it publicly before Congress signals Tesla is aware the issue is on regulators' radar.",
-      "href": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi/",
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-28 06:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-28 09:20 KST 자동 갱신 · 최신순"
 }
