@@ -1,10 +1,62 @@
 {
-  "asOf": "2026-07-28 19:40 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-28 21:44 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "55m ago",
+      "pubDate": "2026-07-28T20:49:43.000Z",
+      "title": "Tesla self-driving manager describes scary conditions in robotaxi testing",
+      "body": "A former Tesla manager who ran the company’s “Full Self-Driving” test fleet in Houston says the operation was so understaffed that its cars became “rolling hazards on public streets,” according to a lawsuit. The manager,…",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/07/28/tesla-self-driving-manager-rolling-hazards-lawsuit/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-28T20:38:00.000Z",
+      "title": "Musk’s Wealth Has Taken a Huge SpaceX Hit. He’s Still Worth 45 Times China’s CXMT Billionaire.",
+      "body": "Musk’s Wealth Has Taken a Huge SpaceX Hit. He’s Still Worth 45 Times China’s CXMT Billionaire. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/elon-musk-wealth-spacex-cxmt-13fed667"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-28T20:18:00.000Z",
+      "title": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying",
+      "body": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-cathie-wood-ark-buy-4eb33bbe"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-07-28T20:13:01.000Z",
+      "title": "SpaceX Rebounds After Briefly Plunging 20% Below IPO Price",
+      "body": "SpaceX Rebounds After Briefly Plunging 20% Below IPO Price Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-28/spacex-falls-20-below-ipo-price-erasing-1-2-trillion-value"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10m ago",
+      "time": "2h ago",
       "pubDate": "2026-07-28T19:29:51.000Z",
       "title": "Tesla's Abysmal Q2 Results Point To A Bleak Future (NASDAQ:TSLA)",
       "body": "Tesla's Abysmal Q2 Results Point To A Bleak Future (NASDAQ:TSLA) Seeking Alpha",
@@ -17,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "37m ago",
+      "time": "3h ago",
       "pubDate": "2026-07-28T19:03:17.000Z",
       "title": "Tesla Summer Update begins rolling out: a look at the new features",
       "body": "Tesla has started to deploy the 2026 Summer Update to owners across its fleet, and among the biggest changes are improvements to Navigation, a new startup animation for the Model 3 and Model Y, Caraoke scoring, and new c…",
@@ -30,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "44m ago",
+      "time": "3h ago",
       "pubDate": "2026-07-28T18:56:34.000Z",
       "title": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
       "body": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead CNBC",
@@ -43,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-28T17:38:20.000Z",
       "title": "Tesla briefly offered this Robotaxi part for your personal car",
       "body": "Tesla briefly offered this Robotaxi part for your personal car Teslarati",
@@ -56,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-28T17:20:00.000Z",
       "title": "Baidu’s Apollo Go begins London robotaxi testing with Uber and Lyft",
       "body": "Baidu’s Apollo Go begins London robotaxi testing with Uber and Lyft Electrek",
@@ -69,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-28T15:57:36.000Z",
       "title": "Tesla silences Robotaxi turn signals in sweeping but polarizing change",
       "body": "Tesla silences Robotaxi turn signals in sweeping but polarizing change Teslarati",
@@ -80,22 +132,9 @@
       "href": "https://www.teslarati.com/tesla-silences-robotaxi-turn-signals-sweeping-polarizing-change/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-07-28T15:33:24.000Z",
-      "title": "Tesla Robotaxi gets sweeping but polarizing change",
-      "body": "Tesla has started rolling out a broader change to the ride experience for its Robotaxi fleet by silencing turn signals, but the change is certainly polarizing. Tesla has generally made it clear that its purpose-built rid…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-silences-robotaxi-turn-signals-sweeping-polarizing-change/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-28T15:32:55.000Z",
       "title": "Tesla buys 90% of a 509 MW Arizona solar and storage project",
       "body": "Tesla has signed a long-term deal to buy 90% of the output of Project Sterling, a big solar and battery plant going up in Arizona. The project pairs 509 MW of solar with a 360 MW battery, and it’s being built by ContourG…",
@@ -108,20 +147,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-07-28T14:43:00.000Z",
-      "title": "Musk’s Wealth Has Taken a Huge SpaceX Hit. He’s Still Worth 45 Times China’s CXMT Billionaire.",
-      "body": "Musk’s Wealth Has Taken a Huge SpaceX Hit. He’s Still Worth 45 Times China’s CXMT Billionaire. Barron's",
-      "sourceName": "Barron's",
+      "time": "6h ago",
+      "pubDate": "2026-07-28T15:23:40.000Z",
+      "title": "Wachtell Lipton co-chair who grilled Elon Musk departs for rival Gibson Dunn",
+      "body": "Wachtell Lipton co-chair who grilled Elon Musk departs for rival Gibson Dunn Financial Times",
+      "sourceName": "Financial Times",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/elon-musk-wealth-spacex-cxmt-13fed667"
+      "href": "https://www.ft.com/content/65731780-37da-4e4f-b5f4-eeaed28bcea2?syn-25a6b1a6"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-28T14:08:00.000Z",
       "title": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying",
       "body": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying Barron's",
@@ -130,50 +169,11 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-spacex-cathie-wood-ark-invest-4eb33bbe"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
-      "pubDate": "2026-07-28T14:08:00.000Z",
-      "title": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying",
-      "body": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-spacex-cathie-wood-ark-invest-4eb33bbe"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-07-28T14:08:00.000Z",
-      "title": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying",
-      "body": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-spacex-cathie-wood-ark-invest-4eb33bbe"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-28T13:41:29.000Z",
-      "title": "SpaceX Rebounds After Briefly Plunging 20% Below IPO Price",
-      "body": "SpaceX Rebounds After Briefly Plunging 20% Below IPO Price Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-28/spacex-falls-20-below-ipo-price-erasing-1-2-trillion-value"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-28T13:29:58.000Z",
       "title": "T- 2 Months &amp; 2 Weeks until @theXtakeover 🚀 @ninjamattic shares his raw and unbiased input on this global event ⬇️",
       "body": "T- 2 Months &amp; 2 Weeks until @theXtakeover 🚀 @ninjamattic shares his raw and unbiased input on this global event ⬇️ https://t.co/Nw7WWRP6XS",
@@ -186,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-28T13:00:05.000Z",
       "title": "Tesla sues Cybertruck supplier amid standoff keeping production hostage",
       "body": "Tesla is asking a federal judge for emergency access to a supplier’s plant in Troy, Texas, so it can haul out the tooling it needs to keep building the Cybertruck. The supplier, Angstrom Automotive Group, is closing the …",
@@ -197,22 +197,9 @@
       "href": "https://electrek.co/2026/07/28/tesla-sues-cybertruck-supplier-angstrom-tooling/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
-      "pubDate": "2026-07-28T12:32:46.000Z",
-      "title": "Here are Tuesday's biggest analyst calls: SpaceX, Apple, Tesla, Berkshire Hathaway, Amazon, CrowdStrike & more",
-      "body": "Here are Tuesday's biggest analyst calls: SpaceX, Apple, Tesla, Berkshire Hathaway, Amazon, CrowdStrike & more CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2026/07/28/tuesday-big-analyst-calls-on-wall-street-include-spacex.html"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-28T12:19:34.000Z",
       "title": "Giga Texas &amp; @Cybertruck news @Tesla vs. Angstrom: The Cybertruck Tooling Standoff Threatening Production Tesla h…",
       "body": "Giga Texas &amp; @Cybertruck news @Tesla vs. Angstrom: The Cybertruck Tooling Standoff Threatening Production Tesla has filed an emergency federal lawsuit against Michigan-based supplier Angstrom Automotive Group LLC, ac…",
@@ -225,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-28T11:18:46.000Z",
       "title": "Tesla to Buy Power From KKR-Backed Arizona Solar, Battery Plant",
       "body": "Tesla to Buy Power From KKR-Backed Arizona Solar, Battery Plant Bloomberg.com",
@@ -238,7 +225,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-27T20:23:00.000Z",
       "title": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations.",
       "body": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations. Barron's",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-milestone-6acf48c3"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4d ago",
+      "pubDate": "2026-07-24T16:32:04.000Z",
+      "title": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
+      "body": "Buy the dip case for Tesla diminishes due to stagnating fundamentals CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html"
     }
   ]
 }

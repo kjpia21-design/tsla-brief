@@ -1,6 +1,57 @@
 {
-  "asOf": "2026-07-28 19:40 UTC · 누적 710건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-28 21:44 UTC · 누적 713건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-28T19:03:17.000Z",
+      "title": "테슬라 2026 <em>Summer Update, 전 차량 배포 시작</em> — 내비·Grok·카라오케 대거 개편",
+      "hotShort": "2026 <em>Summer Update</em>, 전 차량 배포 개시",
+      "body": "테슬라가 예고했던 '2026 Summer Update'를 이번 주부터 전 차량에 순차 배포하기 시작했다 — 목적지 학습형 내비게이션, 모델3·Y 신규 시동 애니메이션, 채점 기능이 추가된 카라오케 등 주행·인포테인먼트 전반을 손본 대규모 업데이트로, 앞서 공개된 트랙션 컨트롤 개선과 별개로 오너 체감도가 큰 소프트웨어 갱신이다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-summer-update-2026-fleet-rollout-2026-07-28",
+      "summary": "지난 7월21일 예고됐던 테슬라의 '2026 Summer Update'가 이번 주부터 실제 차량에 배포되며 실물로 확인되기 시작했다 — 앞서 공개된 모델3·Y용 트랙션 컨트롤 3종 모드에 이어, 이번엔 내비게이션·인포테인먼트 전반이 개편 대상이다.\n\n핵심은 내비게이션 고도화다 — 목적지·경로를 최단 시간 위주로만 안내하던 방식에서 벗어나, 운전자가 자주 가는 곳과 선호 경로를 학습해 '홈/직장/캘린더' 일정에만 의존하지 않고 개인화된 추천을 제공한다.\n\n인포테인먼트에서는 주차 중 즐기는 '카라오케' 기능에 점수 채점과 프로필 저장이 추가됐고, 모델3·Y는 새로운 시동 애니메이션을 갖췄다. 모바일 앱에서는 FSD 주행 통계 확인·공유, 커스텀 랩(외장 디자인) 전송, 도착 시 목표 충전량 설정 등이 새로 가능해졌다.\n\n차량 비서 Grok 도 기능이 확장돼 전화 걸기·음악 검색 재생·공조 조절·글러브박스 개방 등 차량 제어 명령을 처리할 수 있게 됐다. 배포는 이번 주 안에 전체 차량으로 확대될 전망이다.",
+      "title_en": "Tesla's 2026 <em>Summer Update begins rolling out</em> fleet-wide — new nav, Grok, Caraoke scoring",
+      "hotShort_en": "2026 <em>Summer Update</em> hits the fleet",
+      "body_en": "Tesla has begun deploying its previewed '2026 Summer Update' to vehicles this week — a broad software refresh covering destination-learning navigation, new startup animations for Model 3/Y, and scored Caraoke, on top of the traction-control changes revealed earlier.",
+      "summary_en": "Tesla's '2026 Summer Update,' previewed on July 21, has started reaching real vehicles this week — following the traction-control modes already revealed for Model 3 and Y, this wave targets navigation and infotainment.\n\nThe headline change is smarter navigation: instead of defaulting only to the fastest route or leaning on Home, Work, and calendar entries, the system now learns the destinations and roads a driver actually favors and personalizes suggestions accordingly.\n\nOn the infotainment side, parked Caraoke now scores performances and saves them to a profile, while Model 3 and Y get new startup animations. The mobile app adds the ability to view and share FSD driving stats, upload custom wraps to the car's screen, and set arrival energy levels remotely.\n\nThe in-car Grok assistant also gained new capabilities — placing phone calls, searching and playing music, adjusting climate controls, and opening the glovebox. The rollout is expected to expand to the full fleet over the course of the week.",
+      "href": "https://www.teslarati.com/tesla-summer-update-begins-rolling-out-new-features/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Electrek"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-28T18:56:34.000Z",
+      "title": "머스크 주식 합산 <em>$1.5조 증발</em> — 스페이스X, 8/6 락업 해제 앞두고 새 시험대",
+      "hotShort": "스페이스X, 8/6 <em>사상 첫 락업 해제</em> 앞둬",
+      "body": "6월 중순 고점 이후 테슬라·스페이스X 두 회사 시가총액이 합산 $1.5조 증발한 가운데, 스페이스X는 8월4일 첫 분기 실적 발표 이틀 뒤(8월6일) 사상 첫 락업 해제라는 새 시험대에 오른다 — 이번 물량만 발행주식의 20%(약 9억1150만주, 시가 약 $1230억)에 달해 주가 변동성이 한층 커질 전망이다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-lockup-1-5t-combined-loss-2026-07-28",
+      "summary": "CNBC에 따르면, 6월 중순 고점 대비 테슬라·스페이스X 두 회사에서 증발한 시가총액이 합산 $1.5조에 달한다 — 스페이스X는 고점 대비 거의 50%, 테슬라는 지난주 실적 발표 이후 18% 하락한 결과다.\n\n스페이스X는 8월4일(화) 상장 후 첫 분기 실적을 발표할 예정이며, 옵션 시장은 실적 발표 후 주가가 약 ±15% 출렁일 것으로 내다본다 — 내재변동성 122로, S&P500 편입 종목 중 샌디스크를 제외하면 가장 높은 수준이다.\n\n스페이스X의 락업 조항은 이례적으로 첫 실적 발표를 기점으로 내부자 매도가 조기 허용되도록 설계돼, 실적 발표 이틀 뒤인 8월6일부터 전체 락업 물량의 20%(약 9억1150만주)가 매도 가능해진다 — 현재 주가 기준 약 $1230억 규모로, 시장에 일시에 풀릴 수 있는 대기 매물이다.\n\n두 회사 모두 머스크가 최대주주 겸 CEO를 맡고 있어, 이번 락업 해제는 그의 순자산과 시장 심리 전반에 추가 변동성 요인으로 꼽힌다. 두 번째 락업 해제는 8월20일경 4억5580만주 규모로 예정돼 있어, 매도 압력은 한 차례로 끝나지 않을 전망이다.",
+      "title_en": "Musk stocks lose <em>$1.5T combined</em> — SpaceX faces first lockup test Aug. 6",
+      "hotShort_en": "SpaceX <em>lockup expiry</em> looms Aug. 6",
+      "body_en": "Tesla and SpaceX have together shed $1.5 trillion in market value since their mid-June highs, and SpaceX now faces a fresh test: its first post-IPO lockup expiration on Aug. 6, two days after its debut earnings report — unlocking 20% of eligible shares, about 911.5 million, worth roughly $123 billion.",
+      "summary_en": "Per CNBC, Tesla and SpaceX have together erased $1.5 trillion in market value from their mid-June peaks — SpaceX down nearly 50% from its high, and Tesla off 18% since last week's earnings report.\n\nSpaceX is set to report its first quarterly earnings as a public company on Tuesday, Aug. 4. Options markets are pricing in a roughly 15% post-earnings swing, with implied volatility of 122 — higher than every S&P 500 stock except SanDisk.\n\nSpaceX's lockup structure is unusual: it allows insiders to begin selling earlier than the standard 180-day window, triggered by the first earnings release. Two full trading days later, on Aug. 6, 20% of eligible locked-up shares — about 911.5 million, worth an estimated $123 billion at current prices — become tradable.\n\nWith Musk as CEO and largest shareholder of both companies, the unlock adds a fresh source of volatility to his overall net worth and market sentiment. A second tranche of 455.8 million shares is set to unlock around Aug. 20, meaning the selling pressure may not end with a single event.",
+      "href": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "CNBC",
+        "Morningstar",
+        "Investing.com"
+      ],
+      "sentiment": "bear",
+      "hot": 7
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
@@ -75,6 +126,31 @@
       ],
       "sentiment": "neutral",
       "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-07-28T14:08:00.000Z",
+      "title": "테슬라 하락에도 <em>ARK 캐시 우드는 매수</em> — '매그니피센트7' 중 나 홀로 저가매수",
+      "hotShort": "테슬라 급락에도 <em>ARK는 저가매수</em>",
+      "body": "테슬라 주가가 2분기 실적 발표 후 약세를 이어가는 가운데, 캐시 우드의 ARK인베스트는 오히려 물량을 늘렸다 — 4개 ETF에 걸쳐 약 16만 주를 사들이며 '매그니피센트7' 동료 종목들과 달리 저가매수에 나선 셈이다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-ark-cathie-wood-buys-dip-2026-07-28",
+      "summary": "테슬라 주가가 2분기 실적 발표 후 약세를 이어가며 대형 기술주 중 유독 부진한 흐름을 보이는 가운데, ARK인베스트의 캐시 우드는 이 하락을 매수 기회로 삼았다.\n\n배런스에 따르면 ARK는 ARK 이노베이션·ARK 스페이스&디펜스·ARK 넥스트제너레이션인터넷·ARK 오토노머스테크&로보틱스 등 4개 ETF에 걸쳐 테슬라 주식 약 16만 주를 사들였다. 2분기 실적이 시장 예상을 밑돈 직후 주가가 하루 새 15% 가까이 급락했던 시점에 나온 매수다.\n\n인도량 자체는 2분기 약 48만 대로 전년 대비 25% 늘었지만, 마진·수익성 우려가 겹치며 주가는 계속 눌려 있다. 그럼에도 테슬라는 현재 향후 12개월 예상 실적 대비 150배가 넘는 주가수익비율에 거래되고 있어, 평균 24배 수준인 다른 '매그니피센트7' 종목들과는 밸류에이션 격차가 크다.\n\n캐시 우드는 과거에도 테슬라 급락 국면마다 저가매수에 나선 이력이 있어, 이번 매수 역시 테슬라의 장기 성장 스토리(AI·로보택시·옵티머스)에 대한 기존 베팅을 재확인한 행보로 읽힌다.",
+      "title_en": "<em>ARK's Cathie Wood keeps buying</em> as Tesla stock keeps falling",
+      "hotShort_en": "<em>ARK buys the dip</em> as Tesla stock slides",
+      "body_en": "As Tesla shares continue to slide after Q2 earnings, ARK Invest's Cathie Wood has been adding to her position — buying roughly 160,000 shares across four ETFs, bucking the trend among Tesla's Magnificent Seven peers.",
+      "summary_en": "While Tesla stock has kept sliding since its Q2 earnings report, lagging its megacap tech peers, ARK Invest's Cathie Wood has treated the drop as a buying opportunity.\n\nPer Barron's, ARK purchased roughly 160,000 Tesla shares across four funds — ARK Innovation, ARK Space & Defense Innovation, ARK Next Generation Internet, and ARK Autonomous Technology & Robotics — around the time shares fell nearly 15% in a single day following weaker-than-expected Q2 results.\n\nDeliveries themselves held up, at roughly 480,000 vehicles in Q2, up 25% year over year, but margin and profitability concerns have kept the stock under pressure. Even so, Tesla still trades at more than 150 times expected earnings over the next 12 months, versus an average of about 24 times for the rest of the Magnificent Seven.\n\nWood has a history of buying into past Tesla selloffs, and this latest purchase reads as a reaffirmation of ARK's long-standing bet on Tesla's AI, Robotaxi, and Optimus growth story.",
+      "href": "https://www.barrons.com/articles/tesla-stock-spacex-cathie-wood-ark-invest-4eb33bbe",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barron's",
+        "The Motley Fool"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
     },
     {
       "category": "product",
