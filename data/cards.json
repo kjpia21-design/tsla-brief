@@ -1,29 +1,55 @@
 {
   "items": [
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9m ago",
-      "pubDate": "2026-07-28T17:29:59.000Z",
-      "title": "테슬라, <em>로보택시 전용 카메라 워셔</em> 부품 카탈로그에 잠깐 노출 — 곧 삭제",
-      "hotShort": "로보택시 카메라 워셔, <em>카탈로그서 잠깐 노출</em>",
-      "body": "테슬라가 일반 소비자용 파츠 카탈로그에 로보택시 전용 카메라 워셔 부품을 잠시 올렸다가 발견 직후 곧바로 내렸다 — \"프로젝트 헤일로\"(소비자 차량의 로보택시 전환) 준비 신호로 읽히며, 향후 개인 차주도 이 하드웨어를 쓰게 될지 주목된다.",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-28T19:03:17.000Z",
+      "title": "테슬라 2026 <em>Summer Update, 전 차량 배포 시작</em> — 내비·Grok·카라오케 대거 개편",
+      "hotShort": "2026 <em>Summer Update</em>, 전 차량 배포 개시",
+      "body": "테슬라가 예고했던 '2026 Summer Update'를 이번 주부터 전 차량에 순차 배포하기 시작했다 — 목적지 학습형 내비게이션, 모델3·Y 신규 시동 애니메이션, 채점 기능이 추가된 카라오케 등 주행·인포테인먼트 전반을 손본 대규모 업데이트로, 앞서 공개된 트랙션 컨트롤 개선과 별개로 오너 체감도가 큰 소프트웨어 갱신이다.",
       "sourceName": "Teslarati",
       "sourceLabel": "press",
-      "slug": "fsd-robotaxi-camera-washer-parts-catalog-2026-07-28",
-      "summary": "이번에 노출된 항목은 테슬라의 전자부품 카탈로그(EPC) 중 신형(주니퍼 페이스리프트) 모델Y용 'HALO' 카테고리에 등록됐다 — 외부 카메라용 전용 와이퍼·워셔 펌프로 구성된 세정 시스템과 함께, 리프트게이트 부품·래치·조명 항목도 같은 카테고리에 함께 올라왔다.\n\n'HALO'라는 이름은 테슬라가 소비자 소유 모델Y를 로보택시 네트워크에서 운행할 수 있도록 개조하는 내부 프로젝트 '프로젝트 헤일로'와 직접 연결된다. 카메라 워셔 자체는 약 6개월 전 오스틴의 로보택시 차량에서 처음 포착된 하드웨어로, 지금까지는 로보택시 전용이었다.\n\n이 항목이 파츠 카탈로그에 등록됐다는 것은 소비자용 정비소·공인 충돌수리센터에서도 이 부품을 주문할 수 있는 경로가 열렸다는 의미다. 하지만 등록 직후 곧바로 삭제되면서, 테슬라가 아직 공식 출시를 준비 중인지 실수로 노출한 것인지는 확인되지 않았다.\n\n업계에서는 두 가지 해석이 나온다 — 카메라 워셔가 소비자용 모델Y의 표준 사양으로 확대될 신호이거나, 반대로 소비자 소유 차량이 로보택시로 운행되려면 이 하드웨어 장착이 전제조건이 될 수 있다는 관측이다. 가격은 공개되지 않았다.",
-      "title_en": "Tesla <em>briefly lists a Robotaxi-only camera washer</em> part for personal cars, then pulls it",
-      "hotShort_en": "Robotaxi camera washer <em>briefly hits parts catalog</em>",
-      "body_en": "Tesla briefly added a Robotaxi-exclusive camera washer part to its consumer parts catalog before pulling it shortly after it was spotted — a move tied to \"Project Halo,\" Tesla's effort to convert consumer-owned Model Ys into Robotaxis, raising the question of whether owners could eventually get the hardware too.",
-      "summary_en": "The listing appeared in Tesla's Electronic Parts Catalog (EPC) for the redesigned \"Juniper\" Model Y, under a category called \"HALO\" — alongside an entry for a cleaning system with dedicated wipers and a washer pump for the exterior cameras, plus a separate entry for liftgate components, latches, and lights.\n\nThe \"HALO\" name ties directly to Project Halo, Tesla's internal effort to retrofit consumer-owned Model Ys so they can operate on the Robotaxi network. The camera washer hardware itself was first spotted on Robotaxi vehicles in Austin roughly six months ago, and until now had been exclusive to that fleet.\n\nIts appearance in the parts catalog would have opened an ordering path through Tesla-operated service centers and approved collision shops — but it disappeared again shortly after being noticed, leaving it unclear whether Tesla was preparing an official rollout or exposed it by mistake.\n\nObservers see two possible readings: that camera washers are headed toward becoming a standard feature on consumer Model Ys, or conversely that the hardware could become a prerequisite for any consumer-owned vehicle to run on the Robotaxi network. Pricing was not disclosed.",
-      "href": "https://www.teslarati.com/tesla-briefly-offered-this-robotaxi-part-personal-car/",
+      "slug": "product-summer-update-2026-fleet-rollout-2026-07-28",
+      "summary": "지난 7월21일 예고됐던 테슬라의 '2026 Summer Update'가 이번 주부터 실제 차량에 배포되며 실물로 확인되기 시작했다 — 앞서 공개된 모델3·Y용 트랙션 컨트롤 3종 모드에 이어, 이번엔 내비게이션·인포테인먼트 전반이 개편 대상이다.\n\n핵심은 내비게이션 고도화다 — 목적지·경로를 최단 시간 위주로만 안내하던 방식에서 벗어나, 운전자가 자주 가는 곳과 선호 경로를 학습해 '홈/직장/캘린더' 일정에만 의존하지 않고 개인화된 추천을 제공한다.\n\n인포테인먼트에서는 주차 중 즐기는 '카라오케' 기능에 점수 채점과 프로필 저장이 추가됐고, 모델3·Y는 새로운 시동 애니메이션을 갖췄다. 모바일 앱에서는 FSD 주행 통계 확인·공유, 커스텀 랩(외장 디자인) 전송, 도착 시 목표 충전량 설정 등이 새로 가능해졌다.\n\n차량 비서 Grok 도 기능이 확장돼 전화 걸기·음악 검색 재생·공조 조절·글러브박스 개방 등 차량 제어 명령을 처리할 수 있게 됐다. 배포는 이번 주 안에 전체 차량으로 확대될 전망이다.",
+      "title_en": "Tesla's 2026 <em>Summer Update begins rolling out</em> fleet-wide — new nav, Grok, Caraoke scoring",
+      "hotShort_en": "2026 <em>Summer Update</em> hits the fleet",
+      "body_en": "Tesla has begun deploying its previewed '2026 Summer Update' to vehicles this week — a broad software refresh covering destination-learning navigation, new startup animations for Model 3/Y, and scored Caraoke, on top of the traction-control changes revealed earlier.",
+      "summary_en": "Tesla's '2026 Summer Update,' previewed on July 21, has started reaching real vehicles this week — following the traction-control modes already revealed for Model 3 and Y, this wave targets navigation and infotainment.\n\nThe headline change is smarter navigation: instead of defaulting only to the fastest route or leaning on Home, Work, and calendar entries, the system now learns the destinations and roads a driver actually favors and personalizes suggestions accordingly.\n\nOn the infotainment side, parked Caraoke now scores performances and saves them to a profile, while Model 3 and Y get new startup animations. The mobile app adds the ability to view and share FSD driving stats, upload custom wraps to the car's screen, and set arrival energy levels remotely.\n\nThe in-car Grok assistant also gained new capabilities — placing phone calls, searching and playing music, adjusting climate controls, and opening the glovebox. The rollout is expected to expand to the full fleet over the course of the week.",
+      "href": "https://www.teslarati.com/tesla-summer-update-begins-rolling-out-new-features/",
       "confirmedBy": 2,
       "confirmingSources": [
         "Teslarati",
-        "Not a Tesla App"
+        "Electrek"
       ],
-      "sentiment": "neutral",
-      "hot": 2
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-28T18:56:34.000Z",
+      "title": "머스크 주식 합산 <em>$1.5조 증발</em> — 스페이스X, 8/6 락업 해제 앞두고 새 시험대",
+      "hotShort": "스페이스X, 8/6 <em>사상 첫 락업 해제</em> 앞둬",
+      "body": "6월 중순 고점 이후 테슬라·스페이스X 두 회사 시가총액이 합산 $1.5조 증발한 가운데, 스페이스X는 8월4일 첫 분기 실적 발표 이틀 뒤(8월6일) 사상 첫 락업 해제라는 새 시험대에 오른다 — 이번 물량만 발행주식의 20%(약 9억1150만주, 시가 약 $1230억)에 달해 주가 변동성이 한층 커질 전망이다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-lockup-1-5t-combined-loss-2026-07-28",
+      "summary": "CNBC에 따르면, 6월 중순 고점 대비 테슬라·스페이스X 두 회사에서 증발한 시가총액이 합산 $1.5조에 달한다 — 스페이스X는 고점 대비 거의 50%, 테슬라는 지난주 실적 발표 이후 18% 하락한 결과다.\n\n스페이스X는 8월4일(화) 상장 후 첫 분기 실적을 발표할 예정이며, 옵션 시장은 실적 발표 후 주가가 약 ±15% 출렁일 것으로 내다본다 — 내재변동성 122로, S&P500 편입 종목 중 샌디스크를 제외하면 가장 높은 수준이다.\n\n스페이스X의 락업 조항은 이례적으로 첫 실적 발표를 기점으로 내부자 매도가 조기 허용되도록 설계돼, 실적 발표 이틀 뒤인 8월6일부터 전체 락업 물량의 20%(약 9억1150만주)가 매도 가능해진다 — 현재 주가 기준 약 $1230억 규모로, 시장에 일시에 풀릴 수 있는 대기 매물이다.\n\n두 회사 모두 머스크가 최대주주 겸 CEO를 맡고 있어, 이번 락업 해제는 그의 순자산과 시장 심리 전반에 추가 변동성 요인으로 꼽힌다. 두 번째 락업 해제는 8월20일경 4억5580만주 규모로 예정돼 있어, 매도 압력은 한 차례로 끝나지 않을 전망이다.",
+      "title_en": "Musk stocks lose <em>$1.5T combined</em> — SpaceX faces first lockup test Aug. 6",
+      "hotShort_en": "SpaceX <em>lockup expiry</em> looms Aug. 6",
+      "body_en": "Tesla and SpaceX have together shed $1.5 trillion in market value since their mid-June highs, and SpaceX now faces a fresh test: its first post-IPO lockup expiration on Aug. 6, two days after its debut earnings report — unlocking 20% of eligible shares, about 911.5 million, worth roughly $123 billion.",
+      "summary_en": "Per CNBC, Tesla and SpaceX have together erased $1.5 trillion in market value from their mid-June peaks — SpaceX down nearly 50% from its high, and Tesla off 18% since last week's earnings report.\n\nSpaceX is set to report its first quarterly earnings as a public company on Tuesday, Aug. 4. Options markets are pricing in a roughly 15% post-earnings swing, with implied volatility of 122 — higher than every S&P 500 stock except SanDisk.\n\nSpaceX's lockup structure is unusual: it allows insiders to begin selling earlier than the standard 180-day window, triggered by the first earnings release. Two full trading days later, on Aug. 6, 20% of eligible locked-up shares — about 911.5 million, worth an estimated $123 billion at current prices — become tradable.\n\nWith Musk as CEO and largest shareholder of both companies, the unlock adds a fresh source of volatility to his overall net worth and market sentiment. A second tranche of 455.8 million shares is set to unlock around Aug. 20, meaning the selling pressure may not end with a single event.",
+      "href": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "CNBC",
+        "Morningstar",
+        "Investing.com"
+      ],
+      "sentiment": "bear",
+      "hot": 7
     },
     {
       "category": "fsd",
@@ -51,29 +77,29 @@
       "hot": 4
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-28T15:37:32.000Z",
-      "title": "스페이스X, 장중 <em>20% 급락 후 반등</em> — 6월 고점 대비 $1.2조 증발",
-      "hotShort": "스페이스X, 장중 <em>20% 급락 후 반등</em> — $1.2조 증발",
-      "body": "스페이스X 주가가 28일 장중 한때 공모가($135) 대비 20%까지 밀리며 6월 고점 대비 시가총액 약 $1.2조가 증발했다가, 이후 낙폭을 전부 되돌리고 장중 상승 전환했다 — 등락은 컸지만, 공모가를 밑도는 약세 흐름 자체는 수 주째 이어지고 있다.",
-      "sourceName": "Bloomberg",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "5h ago",
+      "pubDate": "2026-07-28T14:08:00.000Z",
+      "title": "테슬라 하락에도 <em>ARK 캐시 우드는 매수</em> — '매그니피센트7' 중 나 홀로 저가매수",
+      "hotShort": "테슬라 급락에도 <em>ARK는 저가매수</em>",
+      "body": "테슬라 주가가 2분기 실적 발표 후 약세를 이어가는 가운데, 캐시 우드의 ARK인베스트는 오히려 물량을 늘렸다 — 4개 ETF에 걸쳐 약 16만 주를 사들이며 '매그니피센트7' 동료 종목들과 달리 저가매수에 나선 셈이다.",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
-      "slug": "musk-spacex-1-2t-cap-loss-since-june-peak-2026-07-27",
-      "summary": "스페이스X는 지난 6월11일 주당 $135에 공모가를 확정하고 이튿날 뉴욕증시에 상장했다. 상장 첫날 종가는 $161로 공모가 대비 19% 올랐고, 나흘 뒤인 6월16일에는 $225.64까지 치솟으며 화려하게 데뷔했다.\n\n블룸버그에 따르면 이후 주가는 꾸준히 미끄러져 7월 중순부터 공모가($135) 부근까지 반복해서 내려앉았고, 28일에는 장중 한때 공모가 대비 20%까지 밀리며 고점(6월16일 $225.64) 대비 시총 손실이 약 $1.2조에 달했다 — 테슬라 한 곳의 시가총액과 맞먹는 규모다.\n\n하락 배경으로는 스타십 시험비행 지연에 따른 수요 둔화 우려가 꼽히며, HSBC는 이날 커버리지를 개시하며 '홀드' 등급·목표주가 $115를 제시해 \"장기 잠재력이 이미 주가에 반영됐다\"고 평가했다.\n\n28일(현지시간) 장중에는 낙폭이 최대 5.7%까지 벌어졌으나, 기술주 전반의 변동성 속에서도 이후 낙폭을 전부 되돌리고 한때 3.6% 상승 전환하기도 했다 — 다만 장 마감 전 상황이라 이날 최종 등락은 아직 확정되지 않았다.\n\n같은 기간 테슬라 주가도 별도로 약세를 이어가며 1년 내 최저치에 근접한 상태다. 두 회사 모두 머스크가 최대주주 겸 CEO를 맡고 있어, 이번 조정은 머스크 사업 전반에 대한 밸류에이션 재평가로 읽힌다.",
-      "title_en": "SpaceX <em>swings from a 20% intraday drop to a rebound</em> below its IPO price — $1.2T erased since June peak",
-      "hotShort_en": "SpaceX <em>plunges 20%, then rebounds</em> intraday",
-      "body_en": "SpaceX shares briefly fell as much as 20% below their $135 IPO price intraday on July 28, erasing roughly $1.2 trillion in market value from the June 16 peak, before fully reversing the decline and turning positive intraday — the swings were sharp, but the stock has now traded below its IPO price for weeks.",
-      "summary_en": "SpaceX priced its IPO at $135 a share on June 11 and began trading on the Nasdaq the next day. The stock closed its debut session at $161, up 19% from the offering price, then rallied further to an all-time high of $225.64 just four days later on June 16.\n\nPer Bloomberg, the stock has since slid steadily, repeatedly testing its $135 IPO price from mid-July onward. On July 28, shares briefly traded as much as 20% below that IPO price intraday, putting the peak-to-trough loss from the June 16 high at roughly $1.2 trillion — on par with erasing a company the size of Tesla outright.\n\nAnalysts point to demand concerns tied to delayed Starship test flights as a factor behind the slide. HSBC initiated coverage the same day with a Hold rating and a $115 price target, arguing the company's long-term potential is already reflected in the stock.\n\nIntraday on July 28, the decline deepened to as much as a 5.7% drop before the stock fully reversed course amid broader volatility in tech shares, turning positive by as much as 3.6% intraday — with the trading day not yet closed, the final move for the session remained unsettled.\n\nTesla shares have separately continued to weaken over the same period, drifting toward one-year lows. With Musk serving as CEO and largest shareholder of both companies, the pullback reads as a broader valuation reassessment across his businesses.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-28/spacex-falls-20-below-ipo-price-erasing-1-2-trillion-value",
+      "slug": "stock-ark-cathie-wood-buys-dip-2026-07-28",
+      "summary": "테슬라 주가가 2분기 실적 발표 후 약세를 이어가며 대형 기술주 중 유독 부진한 흐름을 보이는 가운데, ARK인베스트의 캐시 우드는 이 하락을 매수 기회로 삼았다.\n\n배런스에 따르면 ARK는 ARK 이노베이션·ARK 스페이스&디펜스·ARK 넥스트제너레이션인터넷·ARK 오토노머스테크&로보틱스 등 4개 ETF에 걸쳐 테슬라 주식 약 16만 주를 사들였다. 2분기 실적이 시장 예상을 밑돈 직후 주가가 하루 새 15% 가까이 급락했던 시점에 나온 매수다.\n\n인도량 자체는 2분기 약 48만 대로 전년 대비 25% 늘었지만, 마진·수익성 우려가 겹치며 주가는 계속 눌려 있다. 그럼에도 테슬라는 현재 향후 12개월 예상 실적 대비 150배가 넘는 주가수익비율에 거래되고 있어, 평균 24배 수준인 다른 '매그니피센트7' 종목들과는 밸류에이션 격차가 크다.\n\n캐시 우드는 과거에도 테슬라 급락 국면마다 저가매수에 나선 이력이 있어, 이번 매수 역시 테슬라의 장기 성장 스토리(AI·로보택시·옵티머스)에 대한 기존 베팅을 재확인한 행보로 읽힌다.",
+      "title_en": "<em>ARK's Cathie Wood keeps buying</em> as Tesla stock keeps falling",
+      "hotShort_en": "<em>ARK buys the dip</em> as Tesla stock slides",
+      "body_en": "As Tesla shares continue to slide after Q2 earnings, ARK Invest's Cathie Wood has been adding to her position — buying roughly 160,000 shares across four ETFs, bucking the trend among Tesla's Magnificent Seven peers.",
+      "summary_en": "While Tesla stock has kept sliding since its Q2 earnings report, lagging its megacap tech peers, ARK Invest's Cathie Wood has treated the drop as a buying opportunity.\n\nPer Barron's, ARK purchased roughly 160,000 Tesla shares across four funds — ARK Innovation, ARK Space & Defense Innovation, ARK Next Generation Internet, and ARK Autonomous Technology & Robotics — around the time shares fell nearly 15% in a single day following weaker-than-expected Q2 results.\n\nDeliveries themselves held up, at roughly 480,000 vehicles in Q2, up 25% year over year, but margin and profitability concerns have kept the stock under pressure. Even so, Tesla still trades at more than 150 times expected earnings over the next 12 months, versus an average of about 24 times for the rest of the Magnificent Seven.\n\nWood has a history of buying into past Tesla selloffs, and this latest purchase reads as a reaffirmation of ARK's long-standing bet on Tesla's AI, Robotaxi, and Optimus growth story.",
+      "href": "https://www.barrons.com/articles/tesla-stock-spacex-cathie-wood-ark-invest-4eb33bbe",
       "confirmedBy": 2,
       "confirmingSources": [
-        "Bloomberg",
-        "Yahoo Finance"
+        "Barron's",
+        "The Motley Fool"
       ],
       "sentiment": "neutral",
-      "hot": 5
+      "hot": 4
     },
     {
       "category": "product",
@@ -123,51 +149,6 @@
       "hot": 4
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
-      "pubDate": "2026-07-28T11:18:46.000Z",
-      "title": "테슬라, KKR 지원 애리조나 태양광·배터리 발전소와 <em>장기 전력구매계약</em>",
-      "hotShort": "테슬라, 이례적 <em>장기 전력구매계약</em> 체결",
-      "body": "테슬라가 콘투어글로벌이 개발하는 애리조나 '프로젝트 스털링' 태양광·배터리 발전소 산출 전력의 90%를 장기 구매하기로 계약했다 — 대형 장기 전력구매계약을 꺼려온 테슬라로선 이례적인 행보로, AI 데이터센터發 전력 수요 급증 트렌드 속에 나온 결정이다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "product-arizona-kkr-solar-power-deal-2026-07-28",
-      "summary": "콘투어글로벌이 27일(현지시간) 발표한 내용에 따르면, 이 회사가 개발 중인 애리조나 '프로젝트 스털링' 발전소 산출량의 90%를 테슬라가 구매하기로 계약했다.\n\n발전소는 KKR이 지원하며 태양광 509MW·4시간짜리 배터리 저장 360MW 규모로, 2028년 가동을 목표로 한다. 웨스턴 에어리어 파워 어드미니스트레이션 송전망에 연결돼 캘리포니아까지 접근할 수 있으며, 완공되면 콘투어글로벌 포트폴리오에서 가장 큰 재생에너지 자산이 된다.\n\n계약 조건(가격·기간)은 공개되지 않았으나, 이런 유형의 전력구매계약은 통상 10~15년 장기로 체결된다. 테슬라가 대형 장기 PPA를 꺼려온 전례를 감안하면 이례적인 결정으로 평가된다.\n\n미국에서 AI 데이터센터 확장에 따른 전력 수요가 급증하며 대형 전력구매계약이 늘어나는 흐름 속에, 테슬라도 이 대열에 합류한 모습이다.",
-      "title_en": "Tesla signs <em>long-term power purchase deal</em> with KKR-backed Arizona solar plant",
-      "hotShort_en": "Tesla signs rare <em>long-term power deal</em>",
-      "body_en": "Tesla has agreed to buy 90% of the output from ContourGlobal's KKR-backed \"Project Sterling\" solar-and-battery plant in Arizona under a long-term contract — an unusual move for a company that has historically avoided large, long-term power purchase agreements, coming amid a broader surge in demand for such deals driven by AI data centers.",
-      "summary_en": "ContourGlobal announced on July 27 that Tesla has agreed to purchase 90% of the output from its Project Sterling plant, currently in development in Arizona.\n\nThe KKR-backed facility will feature 509 megawatts of peak solar generation paired with 360 megawatts of four-hour battery storage, and is set to begin operations in 2028. It will connect to the Western Area Power Administration grid with access to California, and will become the largest renewable asset in ContourGlobal's portfolio once complete.\n\nFinancial terms, including price and contract length, were not disclosed, though power purchase agreements of this type typically run 10 to 15 years. The deal marks a departure from Tesla's usual reluctance to sign large, long-term PPAs.\n\nThe agreement comes amid a broader wave of long-term power purchase deals in the U.S. as demand surges alongside the expansion of AI data centers — a trend Tesla is now joining.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-28/tesla-to-buy-power-from-kkr-backed-arizona-solar-battery-plant",
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10m ago",
-      "pubDate": "2026-07-28T10:30:01.000Z",
-      "title": "美 하원의원들, <em>스페이스X 주식 매입</em>으로 이해충돌 논란",
-      "hotShort": "美 의원들, 스페이스X 주식 매입 <em>이해충돌 논란</em>",
-      "body": "미 하원의원 4명(또는 가족)이 스페이스X 상장 이후 최대 $13만 규모 주식을 매입한 사실이 드러나 이해충돌 논란이 일고 있다 — 특히 하원 군사위 소속 지스네로스 의원의 매입은 스페이스X의 펜타곤·우주군 계약 감독권과 겹쳐 논란의 핵심이다.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "musk-congress-spacex-stock-conflict-2026-07-28",
-      "summary": "스페이스X는 지난 6월12일 주당 $135에 뉴욕증시에 상장하며 약 $750억을 조달해 역대 최대 규모 IPO 기록을 세웠다.\n\nCNBC 보도에 따르면 상장 이후 하원 군사위 소속 길 지스네로스 의원이 6월18일 스페이스X 주식 $1,001~$15,000 규모를 매입했고, 이 사실은 7월2일 공시로 드러났다. 존 매과이어·댄 모이저·존 제임스 의원의 가족들도 각각 주식을 매입해, 4명 합산 매입 규모는 최대 $13만에 달한다.\n\n논란의 핵심은 지스네로스 의원이 몸담은 군사위원회가 스페이스X의 핵심 고객인 펜타곤·우주군 계약을 직접 감독한다는 점이다. 스페이스X는 국방부·NASA·우주군과 다수의 계약을 맺고 있다.\n\n다만 CNBC는 의원들이 비공개 정보를 이용하거나 의회 거래 규정을 위반했다는 증거는 없다고 전했다. 한편 FAA는 이해충돌 우려를 이유로 6월30일부로 자사 직원의 스페이스X 주식 보유를 금지했으나, 의회는 스스로에게 같은 제한을 두지 않고 있다.",
-      "title_en": "Four US Congress members face <em>conflict-of-interest</em> scrutiny over SpaceX stock buys",
-      "hotShort_en": "Congress members' <em>SpaceX stock buys</em> spark concern",
-      "body_en": "Four US House members or their families have bought up to $130,000 in SpaceX stock since its IPO, CNBC reports — raising conflict-of-interest concerns since one buyer, Rep. Gil Cisneros, sits on the Armed Services Committee that oversees the Pentagon and Space Force contracts SpaceX depends on.",
-      "summary_en": "SpaceX went public on June 12 at $135 a share, raising roughly $75 billion in what became the largest IPO in history.\n\nPer CNBC, Rep. Gil Cisneros — a member of the House Armed Services Committee — bought between $1,001 and $15,000 in SpaceX stock on June 18, a purchase disclosed on July 2. Family members of Reps. John McGuire, Dan Meuser, and John James also bought shares, bringing the combined total across all four to as much as $130,000.\n\nThe concern centers on Cisneros's committee assignment: Armed Services oversees the Pentagon and Space Force contracts that are core to SpaceX's business, and the company holds numerous contracts with the Department of Defense, NASA, and the Space Force.\n\nCNBC found no evidence any lawmaker traded on nonpublic information or violated congressional trading rules. Still, the FAA barred its own employees from holding SpaceX stock effective June 30 over conflict-of-interest concerns — a restriction Congress hasn't applied to itself.",
-      "href": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "CNBC",
-        "Benzinga"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "5h ago",
@@ -193,5 +174,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-07-29 04:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-29 05:10 KST 자동 갱신 · 최신순"
 }
