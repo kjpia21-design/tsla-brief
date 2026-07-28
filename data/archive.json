@@ -41,6 +41,32 @@
       "hot": 3
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "8h ago",
+      "pubDate": "2026-07-27T18:00:00.000Z",
+      "title": "X, 美 전역에 <em>X Money 은행 서비스 전면 출시</em> — 연 6% 이자·메탈 Visa 카드",
+      "hotShort": "X, <em>X Money 美 전면 출시</em> — 연 6% 이자",
+      "body": "X(옛 트위터)가 <em>X Money</em>를 미국 프리미엄·프리미엄+ 구독자 대상으로 전면 출시했다 — 예금계좌·P2P 송금·메탈 Visa 데빗카드를 앱 하나에 묶고 예금에 연 6% 이자를 얹어, 일론 머스크의 '에브리싱 앱' 구상이 실제 금융 서비스로 한 걸음 더 나아갔다.",
+      "sourceName": "9to5Mac",
+      "sourceLabel": "press",
+      "slug": "musk-xmoney-us-launch-2026-07-27",
+      "summary": "X Money는 그동안 일부 이용자 대상 초대제 베타로 운영돼오다, 2026년 7월 27일(현지시간) 미국 전역의 프리미엄·프리미엄+ 구독자를 대상으로 정식 출시됐다.\n\n핵심 기능은 예금계좌·이용자 간 P2P 송금·가상 또는 실물 메탈 Visa 데빗카드('X 카드')를 한 앱 안에 통합한 것이다. 예금에는 연 6% 이자가 붙고, 카드 결제에는 3% 캐시백이 제공되며 해외 결제 수수료·ATM 인출 수수료도 없다.\n\n예금은 뉴저지 소재 FDIC 가입 은행 크로스리버뱅크가 보관해 1인당 최대 25만 달러까지 예금자보호가 적용된다. 프리미엄+ 구독자는 'X 캐시 스윕 프로그램'을 통해 여러 제휴 은행에 예금을 분산 예치해 보호 한도를 최대 1000만 달러까지 늘릴 수 있다.\n\n테슬라 주가에 직접적인 영향은 없지만, 일론 머스크가 이끄는 또 다른 사업(X)이 실제 은행 서비스를 전국 단위로 상용화했다는 점에서, 향후 테슬라 앱·차량 내 결제와의 연동 가능성 등 머스크 생태계 전반의 실행력을 가늠하는 참고 사례로 주목할 만하다.",
+      "title_en": "X launches <em>X Money banking service</em> nationwide in the US — 6% yield, metal Visa card",
+      "hotShort_en": "X <em>launches X Money</em> nationwide, 6% yield",
+      "body_en": "X (formerly Twitter) has rolled out <em>X Money</em> nationwide to US Premium and Premium+ subscribers — bundling a deposit account, P2P payments, and a metal Visa debit card into one app with 6% annual yield on deposits, a concrete step forward for Elon Musk's long-promised \"everything app.\"",
+      "summary_en": "X Money had been running as an invite-only beta for select users before its full US rollout to Premium and Premium+ subscribers on July 27, 2026.\n\nThe core offering bundles a deposit account, peer-to-peer payments between X users, and a virtual or physical metal Visa debit card (the \"X Card\") into a single app. Deposits earn 6% annual yield, card purchases earn 3% cashback, and there are no foreign transaction fees or ATM withdrawal fees.\n\nDeposits are held by Cross River Bank, a New Jersey-based FDIC member, insured up to $250,000 per depositor under standard coverage. Premium+ subscribers can use the X Cash Sweep Program, which spreads deposits across multiple partner banks to extend protection up to $10 million.\n\nThere's no direct read-through to Tesla's stock, but Musk's other venture rolling out a real, nationwide banking product is a data point on execution across his broader ecosystem — worth watching for any future tie-in with Tesla's own app or in-car payments.",
+      "href": "https://9to5mac.com/2026/07/27/x-money-apple-wallet/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "9to5Mac",
+        "CBS News",
+        "American Banker"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "50m ago",
@@ -2306,26 +2332,6 @@
       ],
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-13T20:13:00.000Z",
-      "title": "테슬라 주가 52주 고점 대비 20%↓ — 배런스 \"주가의 <em>92~93%</em>는 로봇·로보택시 가치\"",
-      "hotShort": "테슬라 주가, <em>93%가 비車사업</em> 가치 — 배런스",
-      "body": "테슬라 주가가 52주 고점 대비 약 <em>20%</em> 조정을 받은 가운데, 배런스는 현재 주가의 <em>92~93%</em>가 로보택시·옵티머스·FSD 라이선스 등 아직 유의미한 매출이 없는 비차량 사업의 가치에서 나온다고 분석 — 본업 성장 둔화를 미래 사업 기대감으로 메우는 구조라는 지적이다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "stock-robots-93pct-valuation-2026-07-13",
-      "summary": "테슬라의 지난 분기 차량 판매는 전년 대비 <em>3%</em> 감소해, 10년 가까이 이어온 고속 성장세가 꺾였다. 배런스는 미 연방 EV 세액공제($7,500)가 2025년 9월 종료되고 고금리로 할부 부담이 커진 점이 핵심 차량 판매 기반을 좁혔다고 짚었다.\n\n이런 상황에서 일론 머스크는 회사의 다음 성장동력을 AI·휴머노이드 로봇·로보택시에 걸고 있다. 배런스 분석에 따르면 현재 테슬라 주가의 <em>92~93%</em>에 해당하는 부분이 로보택시·옵티머스·FSD 라이선스·에너지 저장 사업의 가치로 설명되는데, 이들 사업은 아직 사실상 유의미한 매출이 없는 단계다.\n\n회사 스스로도 로보택시의 유의미한 매출 발생 시점을 최소 <em>2027년</em>으로 잡고 있어, 대규모 상용화까지는 기술·규제·비용 장벽이 여전히 남아 있다는 게 배런스의 진단이다.\n\n테슬라는 <em>7월22일</em> 2분기 실적발표를 앞두고 있다 — 마진 방어와 로보택시·옵티머스 진행 상황이 확인돼야, 본업과 미래 사업 기대치 사이의 밸류에이션 갭이 좁혀질지 가늠할 수 있을 전망이다.",
-      "title_en": "Tesla stock down <em>20%</em> from its 52-week high — Barron's says <em>92-93%</em> of the price is robots and robotaxis",
-      "hotShort_en": "Tesla stock: <em>93% is non-car</em> value — Barron's",
-      "body_en": "With Tesla shares down roughly <em>20%</em> from their 52-week high, Barron's estimates that <em>92-93%</em> of the current stock price is attributable to Robotaxi, Optimus, and FSD licensing — businesses that still generate little to no meaningful revenue — arguing the stock is leaning on future bets to offset slowing core-business growth.",
-      "summary_en": "Tesla's vehicle sales fell <em>3%</em> year-over-year last quarter, halting nearly a decade of rapid growth. Barron's points to the expiration of the $7,500 federal EV tax credit after September 2025 and high interest rates raising financing costs as key factors narrowing Tesla's addressable market for its core lineup.\n\nAgainst that backdrop, Elon Musk is betting the company's next act on AI, humanoid robots, and robotaxis. Barron's analysis finds that <em>92-93%</em> of Tesla's current share price is explained by the value of Robotaxi, Optimus, FSD licensing, and energy storage — businesses that are still essentially pre-revenue.\n\nEven in the company's own optimistic scenarios, meaningful robotaxi revenue isn't expected before <em>2027</em>, and Barron's notes that large-scale deployment still faces significant technical, regulatory, and cost hurdles.\n\nTesla's Q2 earnings call is set for <em>July 22</em> — margin trends and progress on Robotaxi and Optimus will be the key signals for whether that gap between core-business reality and future-bet optimism starts to close.",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-robots-ea58cefa",
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
   "asOf": "2026-07-28 09:20 KST 자동 갱신 · 최신순"

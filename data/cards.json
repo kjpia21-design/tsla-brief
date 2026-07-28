@@ -21,24 +21,30 @@
       "hot": 5
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-07-27T18:50:12.000Z",
-      "title": "테슬라 FSD v14.3.6 리뷰 — 로컬 도로 주행에 <em>드문 회귀 현상</em>",
-      "hotShort": "FSD v14.3.6, 로컬 도로서 <em>드문 회귀 현상</em>",
-      "body": "테슬라라티가 FSD v14.3.6을 리뷰한 결과, 호평받았던 v14.3.5 대비 로컬 도로 주행에서 머뭇거림·부자연스러운 판단 등 드문 회귀 현상이 나타났다 — 다만 하이웨이 주행은 여전히 우수해, FSD 업데이트가 매번 일관되게 개선되지만은 않는다는 점을 보여준다.",
-      "sourceName": "Teslarati",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "8h ago",
+      "pubDate": "2026-07-27T18:00:00.000Z",
+      "title": "X, 美 전역에 <em>X Money 은행 서비스 전면 출시</em> — 연 6% 이자·메탈 Visa 카드",
+      "hotShort": "X, <em>X Money 美 전면 출시</em> — 연 6% 이자",
+      "body": "X(옛 트위터)가 <em>X Money</em>를 미국 프리미엄·프리미엄+ 구독자 대상으로 전면 출시했다 — 예금계좌·P2P 송금·메탈 Visa 데빗카드를 앱 하나에 묶고 예금에 연 6% 이자를 얹어, 일론 머스크의 '에브리싱 앱' 구상이 실제 금융 서비스로 한 걸음 더 나아갔다.",
+      "sourceName": "9to5Mac",
       "sourceLabel": "press",
-      "slug": "fsd-v14-3-6-review-regression-2026-07-27",
-      "summary": "v14.3 계열은 그동안 완만한 개선세를 보여왔다. 직전 버전인 v14.3.5는 커뮤니티에서 특히 호평받았는데, 뒤이은 v14.3.6은 이 흐름을 그대로 잇지 못했다는 게 테슬라라티 리뷰의 핵심이다.\n\n리뷰에 따르면 문제는 주로 주택가 등 로컬 도로에서 나타난다 — 차량이 머뭇거리거나 매끄럽지 못한 판단을 내리는 장면이 포착됐다. 반면 하이웨이 주행 성능은 대체로 우수하게 유지됐고, 속도 설정이나 좌측 차선 점유 관련 정도의 소소한 불만만 제기됐다.\n\nFSD는 매 업데이트가 항상 이전 버전보다 낫지만은 않다는 사실을 이번 리뷰가 다시 보여준다 — 로보택시 확대가 진행 중인 상황에서, 이런 국지적 회귀가 다음 버전에서 반복되지 않는지는 주주 입장에서도 지켜볼 지점이다.",
-      "title_en": "Tesla FSD v14.3.6 review: <em>rare regression</em> on local roads, highway still strong",
-      "hotShort_en": "FSD v14.3.6 hits <em>rare regression</em>",
-      "body_en": "Teslarati's review of FSD v14.3.6 found rare regressions on local roads — hesitant, less smooth driving — compared to the well-received v14.3.5, though highway performance stayed strong, a reminder that FSD updates aren't always a straight line of improvement.",
-      "summary_en": "The v14.3 branch had been on a steady improvement streak. The prior release, v14.3.5, was especially well received by the community — but the follow-up, v14.3.6, didn't keep that momentum going, according to Teslarati's review.\n\nThe review found the issues mostly showed up on local, residential-style roads — hesitant behavior and less smooth decision-making. Highway performance, by contrast, stayed largely strong, with only minor complaints about speed settings or left-lane camping.\n\nThe review is a reminder that FSD updates don't always move in a straight line of improvement. With Robotaxi expansion ongoing, whether this kind of localized regression persists into the next release is worth watching from a shareholder's perspective.",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-6-review-rare-regression-bright-spots/",
+      "slug": "musk-xmoney-us-launch-2026-07-27",
+      "summary": "X Money는 그동안 일부 이용자 대상 초대제 베타로 운영돼오다, 2026년 7월 27일(현지시간) 미국 전역의 프리미엄·프리미엄+ 구독자를 대상으로 정식 출시됐다.\n\n핵심 기능은 예금계좌·이용자 간 P2P 송금·가상 또는 실물 메탈 Visa 데빗카드('X 카드')를 한 앱 안에 통합한 것이다. 예금에는 연 6% 이자가 붙고, 카드 결제에는 3% 캐시백이 제공되며 해외 결제 수수료·ATM 인출 수수료도 없다.\n\n예금은 뉴저지 소재 FDIC 가입 은행 크로스리버뱅크가 보관해 1인당 최대 25만 달러까지 예금자보호가 적용된다. 프리미엄+ 구독자는 'X 캐시 스윕 프로그램'을 통해 여러 제휴 은행에 예금을 분산 예치해 보호 한도를 최대 1000만 달러까지 늘릴 수 있다.\n\n테슬라 주가에 직접적인 영향은 없지만, 일론 머스크가 이끄는 또 다른 사업(X)이 실제 은행 서비스를 전국 단위로 상용화했다는 점에서, 향후 테슬라 앱·차량 내 결제와의 연동 가능성 등 머스크 생태계 전반의 실행력을 가늠하는 참고 사례로 주목할 만하다.",
+      "title_en": "X launches <em>X Money banking service</em> nationwide in the US — 6% yield, metal Visa card",
+      "hotShort_en": "X <em>launches X Money</em> nationwide, 6% yield",
+      "body_en": "X (formerly Twitter) has rolled out <em>X Money</em> nationwide to US Premium and Premium+ subscribers — bundling a deposit account, P2P payments, and a metal Visa debit card into one app with 6% annual yield on deposits, a concrete step forward for Elon Musk's long-promised \"everything app.\"",
+      "summary_en": "X Money had been running as an invite-only beta for select users before its full US rollout to Premium and Premium+ subscribers on July 27, 2026.\n\nThe core offering bundles a deposit account, peer-to-peer payments between X users, and a virtual or physical metal Visa debit card (the \"X Card\") into a single app. Deposits earn 6% annual yield, card purchases earn 3% cashback, and there are no foreign transaction fees or ATM withdrawal fees.\n\nDeposits are held by Cross River Bank, a New Jersey-based FDIC member, insured up to $250,000 per depositor under standard coverage. Premium+ subscribers can use the X Cash Sweep Program, which spreads deposits across multiple partner banks to extend protection up to $10 million.\n\nThere's no direct read-through to Tesla's stock, but Musk's other venture rolling out a real, nationwide banking product is a data point on execution across his broader ecosystem — worth watching for any future tie-in with Tesla's own app or in-car payments.",
+      "href": "https://9to5mac.com/2026/07/27/x-money-apple-wallet/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "9to5Mac",
+        "CBS News",
+        "American Banker"
+      ],
       "sentiment": "neutral",
-      "hot": 3
+      "hot": 4
     },
     {
       "category": "stock",
@@ -172,5 +178,5 @@
       "hot": 4
     }
   ],
-  "asOf": "2026-07-28 09:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-28 12:10 KST 자동 갱신 · 최신순"
 }
