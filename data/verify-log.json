@@ -1,24 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-24T07:08:26.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-v14-lite-hw3-feature-parity-2026-07-20",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "6/6 claims confirmed vs Tesla Oracle + notateslaapp release notes + TeslaNorth",
-            "no advisory-tone violation",
-            "no hedge-to-assertion conversion found",
-            "confirmedBy=3 accurate"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-24T10:24:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -791,6 +773,26 @@
             "핵심 수치(약 16만 주·4개 ETF명·15% 급락·2분기 인도 48만대 YoY 25%·PER 150배 vs 매그7 평균 24배) WebSearch 교차검증(Barron's, Motley Fool, Yahoo Finance, TheStreet) — WebFetch 403으로 간접검증",
             "시점 서술 주의 — 정확한 매수 요일(수/목)은 자료마다 표현이 달라 본문에서 특정 요일 대신 \"2분기 실적 발표 직후\"로 완화 표현, 최근 1개월 dedup 대상인 기존 실적발표 급락 카드와는 다른 각도(ARK의 대응)라 신규 카드로 유지",
             "href-본문 일치 확인, 밈/풍자 아님"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-28T23:06:34.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-houston-manager-understaffing-lawsuit-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Electrek original report, AOL syndication confirms same lawsuit facts",
+            "no advisory-tone violation (no buy/sell/target price language)",
+            "hedge preserved — framed as lawsuit allegation ('주장하는 소송을 냈다'), not stated as proven fact",
+            "numbers/dates cross-checked: Oct 2023 hire, 8-month promotion, May 2024 1:15 baseline, scaled to 38 vehicles, July 27 Houston federal filing — all match source research",
+            "href (electrek.co) matches the card subject — same lawsuit",
+            "not X-sourced, no meme/satire risk"
           ]
         }
       ]
