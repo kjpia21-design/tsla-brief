@@ -1,6 +1,51 @@
 {
-  "asOf": "2026-07-28 10:40 UTC · 누적 700건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-28 14:23 UTC · 누적 703건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10m ago",
+      "pubDate": "2026-07-28T10:30:01.000Z",
+      "title": "美 하원의원들, <em>스페이스X 주식 매입</em>으로 이해충돌 논란",
+      "hotShort": "美 의원들, 스페이스X 주식 매입 <em>이해충돌 논란</em>",
+      "body": "미 하원의원 4명(또는 가족)이 스페이스X 상장 이후 최대 $13만 규모 주식을 매입한 사실이 드러나 이해충돌 논란이 일고 있다 — 특히 하원 군사위 소속 지스네로스 의원의 매입은 스페이스X의 펜타곤·우주군 계약 감독권과 겹쳐 논란의 핵심이다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-congress-spacex-stock-conflict-2026-07-28",
+      "summary": "스페이스X는 지난 6월12일 주당 $135에 뉴욕증시에 상장하며 약 $750억을 조달해 역대 최대 규모 IPO 기록을 세웠다.\n\nCNBC 보도에 따르면 상장 이후 하원 군사위 소속 길 지스네로스 의원이 6월18일 스페이스X 주식 $1,001~$15,000 규모를 매입했고, 이 사실은 7월2일 공시로 드러났다. 존 매과이어·댄 모이저·존 제임스 의원의 가족들도 각각 주식을 매입해, 4명 합산 매입 규모는 최대 $13만에 달한다.\n\n논란의 핵심은 지스네로스 의원이 몸담은 군사위원회가 스페이스X의 핵심 고객인 펜타곤·우주군 계약을 직접 감독한다는 점이다. 스페이스X는 국방부·NASA·우주군과 다수의 계약을 맺고 있다.\n\n다만 CNBC는 의원들이 비공개 정보를 이용하거나 의회 거래 규정을 위반했다는 증거는 없다고 전했다. 한편 FAA는 이해충돌 우려를 이유로 6월30일부로 자사 직원의 스페이스X 주식 보유를 금지했으나, 의회는 스스로에게 같은 제한을 두지 않고 있다.",
+      "title_en": "Four US Congress members face <em>conflict-of-interest</em> scrutiny over SpaceX stock buys",
+      "hotShort_en": "Congress members' <em>SpaceX stock buys</em> spark concern",
+      "body_en": "Four US House members or their families have bought up to $130,000 in SpaceX stock since its IPO, CNBC reports — raising conflict-of-interest concerns since one buyer, Rep. Gil Cisneros, sits on the Armed Services Committee that oversees the Pentagon and Space Force contracts SpaceX depends on.",
+      "summary_en": "SpaceX went public on June 12 at $135 a share, raising roughly $75 billion in what became the largest IPO in history.\n\nPer CNBC, Rep. Gil Cisneros — a member of the House Armed Services Committee — bought between $1,001 and $15,000 in SpaceX stock on June 18, a purchase disclosed on July 2. Family members of Reps. John McGuire, Dan Meuser, and John James also bought shares, bringing the combined total across all four to as much as $130,000.\n\nThe concern centers on Cisneros's committee assignment: Armed Services oversees the Pentagon and Space Force contracts that are core to SpaceX's business, and the company holds numerous contracts with the Department of Defense, NASA, and the Space Force.\n\nCNBC found no evidence any lawmaker traded on nonpublic information or violated congressional trading rules. Still, the FAA barred its own employees from holding SpaceX stock effective June 30 over conflict-of-interest concerns — a restriction Congress hasn't applied to itself.",
+      "href": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "Benzinga"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-28T08:32:15.000Z",
+      "title": "모닝스타 \"실적 후 급락은 매수 기회\" — 테슬라 공정가치 <em>$450 그대로 유지</em>",
+      "hotShort": "모닝스타, 급락에도 <em>공정가치 $450</em> 유지",
+      "body": "모닝스타가 2분기 실적 발표 후 급락에도 테슬라 공정가치 $450(현재가 대비 약 46% 상승여력)을 그대로 유지하며 \"지금이 매수 적기\"라고 평가했다 — 영업이익 57% 급감·잉여현금흐름 적자 전환에도 AI·로보택시 투자 확대를 장기 성장 신호로 본 것.",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "stock-morningstar-450-fair-value-2026-07-28",
+      "summary": "테슬라 2분기 실적은 수익성 지표에서 시장 기대를 밑돌았다. 조정 주당순이익(EPS)이 예상치를 하회했고, 영업이익은 전년 대비 57% 급감해 영업마진이 1.4%까지 축소됐다.\n\n자본지출은 $57.9억으로 늘었고, 그 여파로 잉여현금흐름은 $10.9억 적자로 돌아섰다 — AI·로보택시·옵티머스·생산 확충에 투자를 쏟아부은 결과다.\n\n그럼에도 모닝스타는 실적 발표 후 주가 급락 국면에서 기존 공정가치 $450달러 추정치를 그대로 유지했다. 현재가 대비 약 46% 상승여력에 해당하는 수치로, 모닝스타는 이번 하락을 매수 기회로 평가했다.\n\n테슬라는 2026년 자본지출이 $250억을 넘어설 것으로 자체 전망했고, 딥워터의 진 먼스터는 2027년에도 추가로 $250억 규모 지출을 예상해 월가 평균 전망치($210억 안팎)를 웃돌 것으로 봤다.",
+      "title_en": "Morningstar keeps <em>$450 fair value</em> on Tesla, calls post-earnings slide a buying opportunity",
+      "hotShort_en": "Morningstar: Tesla drop is a <em>buying chance</em>",
+      "body_en": "Morningstar held its $450 fair value estimate on Tesla — about 46% above current levels — even after the post-Q2-earnings selloff, calling it a buying opportunity despite operating income falling 57% and free cash flow turning negative.",
+      "summary_en": "Tesla's Q2 results missed on profitability. Adjusted EPS came in below estimates, operating income fell 57% year over year, and operating margin narrowed to 1.4%.\n\nCapital expenditure rose to $5.79 billion, pushing free cash flow to a $1.09 billion deficit — the result of ramped-up spending on AI, Robotaxi, Optimus, and manufacturing capacity.\n\nEven so, Morningstar held its existing $450 fair value estimate through the post-earnings drop — implying roughly 46% upside from current levels — and framed the selloff as a buying opportunity.\n\nTesla itself guided for 2026 capex above $25 billion, and Deepwater's Gene Munster expects another $25 billion in 2027, above Wall Street's roughly $21 billion consensus.",
+      "href": "https://stocktwits.com/news-articles/markets/equity/tsla-morningstar-very-attractive-earnings-rout/cZZC0raRJGg",
+      "sentiment": "bull",
+      "hot": 6
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
@@ -103,6 +148,31 @@
         "9to5Mac",
         "CBS News",
         "American Banker"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "19h ago",
+      "pubDate": "2026-07-27T15:32:24.000Z",
+      "title": "CME그룹, 테슬라·스페이스X 등 55종목 <em>거의 24시간 개별주식 선물</em> 출시",
+      "hotShort": "CME, 테슬라 등 55종목 <em>23시간 선물거래</em> 개시",
+      "body": "CME그룹이 7월27일 테슬라·스페이스X·엔비디아·애플·마이크론 등 55개 대형주(+마이크로 계약 22종) 개별주식 선물을 재출시해 주5일 거의 23시간 거래를 가능케 했다 — 정규장 마감 후에도 실적·뉴스에 실시간 대응할 새 트레이딩 창구가 열린 것.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "stock-cme-single-stock-futures-2026-07-27",
+      "summary": "새 상품은 현금결제 방식으로, 주식을 실제 빌리거나 보유하지 않고도 차입 비용 없이 롱·숏 레버리지 포지션을 취할 수 있다. 표준 계약(주당 100주)과 소액 투자자용 마이크로 계약(주당 10주) 두 종류로 나뉜다.\n\n거래는 CME 글로벡스 플랫폼에서 일요일 저녁부터 금요일 오후까지, 하루 약 1시간의 정비시간을 제외하면 거의 23시간 이어진다 — 정규장(오전 9시30분~오후4시)보다 훨씬 긴 시간이다.\n\n대상 55개 종목에는 테슬라도 포함돼, 테슬라 주주 입장에서는 정규장 마감 후 실적 발표나 속보에 즉시 대응할 새로운 거래 경로가 생긴 셈이다. 6월 상장한 스페이스X도 포함돼 레버리지 익스포저 확보 수단이 하나 늘었다.\n\nCME그룹은 과거 개별주식 선물시장에서 철수했다가, 이번에 55개 대형주 라인업으로 시장에 재진입했다.",
+      "title_en": "CME launches near-24-hour single-stock futures on Tesla, SpaceX and 53 others",
+      "hotShort_en": "CME opens <em>23-hour futures</em> on Tesla, more",
+      "body_en": "CME Group relaunched single-stock futures on 55 large-cap names — including Tesla, SpaceX, Nvidia, Apple and Micron — enabling nearly 23-hour, five-day trading starting July 27, giving investors a new way to react to earnings and news after the regular session closes.",
+      "summary_en": "The new contracts are cash-settled, letting investors take leveraged long or short positions without borrowing shares or paying financing costs. They come in two sizes: standard contracts (100 shares) and micro contracts (10 shares) for smaller accounts.\n\nTrading runs on CME's Globex platform from Sunday evening through Friday afternoon, nearly 23 hours a day aside from a roughly one-hour daily maintenance window — far longer than the standard 9:30 a.m. to 4 p.m. equity session.\n\nTesla is among the 55 names covered, giving Tesla shareholders a new venue to react to earnings or breaking news after the regular market closes. SpaceX, which went public in June, is also included, adding another route to leveraged exposure.\n\nCME Group had previously exited the single-stock futures market before this relaunch with a 55-name large-cap lineup.",
+      "href": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "Fortune"
       ],
       "sentiment": "neutral",
       "hot": 4
