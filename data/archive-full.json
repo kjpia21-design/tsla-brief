@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-28 06:31 UTC · 누적 699건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-28 10:40 UTC · 누적 700건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "stock",
@@ -38,6 +38,26 @@
       "body_en": "CNBC reports SpaceX's market cap has shed roughly $1.2 trillion since its June peak of $225.64 a share — a decline equivalent to wiping out a company the size of Tesla — while Tesla shares have separately drifted toward one-year lows over the same stretch, underscoring a broader valuation pullback across Elon Musk's businesses.",
       "summary_en": "SpaceX rallied hard after its New York Stock Exchange debut in June, peaking at $225.64 a share on optimism around Starship reusability and the Starlink satellite internet business.\n\nSince then, per CNBC's tally, SpaceX has shed about $1.2 trillion in market value — a decline equivalent to erasing a company the size of Tesla outright. Delays in Starship test flights have been cited as a factor behind the slide.\n\nTesla shares have separately continued to weaken over the same period, drifting toward one-year lows. With Musk serving as CEO and largest shareholder of both companies, the pullback reads less like a company-specific issue and more like a broader market reassessment of valuations across Musk's businesses.\n\nFor Tesla shareholders, this is a distinct issue from the company's own operating fundamentals — but since Musk's net worth and attention span both straddle multiple companies, a SpaceX-driven correction is worth watching for any indirect effect on sentiment around Tesla's own Robotaxi and AI narrative.",
       "href": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "10h ago",
+      "pubDate": "2026-07-27T20:23:00.000Z",
+      "title": "테슬라 주가, 실적 후 급락에 <em>1년치 상승분 모두 반납</em>",
+      "hotShort": "테슬라, 실적 급락에 <em>1년치 상승분</em> 반납",
+      "body": "테슬라 주가가 2분기 실적 발표 후 이어진 하락으로 1년치 상승분을 모두 반납했다 — 그런데도 밸류에이션은 2026년 예상실적 대비 <em>약 175배</em>로 나머지 매그니피센트7 평균(약 24배)을 크게 웃돌아, 주주들 사이 고평가 논쟁이 다시 불붙었다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-erases-year-of-gains-175x-valuation-2026-07-27",
+      "summary": "바론스에 따르면 테슬라 주가는 22일 발표된 2분기 실적 이후 낙폭을 키우며 최근 1년간 쌓아온 상승분을 사실상 모두 되돌렸다. 이번 주 5거래일 연속 하락(18%, 2022년 이후 최악의 주간 낙폭)에 이어 반등의 기미 없이 하락세가 이어진 결과다.\n\n특히 눈길을 끄는 대목은 밸류에이션이다. 바론스는 테슬라가 2026년 예상 실적 대비 약 175배에 거래되고 있다고 전했다 — 애플·엔비디아·마이크로소프트 등 나머지 매그니피센트7 기업들의 평균 배수(약 24배)와 비교하면 7배 이상 높은 수준이다. 주가가 1년치 상승분을 반납할 만큼 조정을 받았는데도 프리미엄이 여전히 크다는 뜻이다.\n\n배경에는 22일 발표된 2분기 조정 EPS $0.33(시장 예상 $0.50 하회)이 있다. 인도량은 48만 대로 역대 최다를 기록했지만 평균판매가 하락과 AI 투자 확대에 따른 비용 증가가 겹쳐 수익성이 예상을 밑돌았다.\n\n월가 일부는 여전히 로보택시·FSD·옵티머스 등 장기 성장 스토리에 무게를 두고 매수 의견을 유지하고 있지만(같은 날 웨드부시 댄 아이브스는 $600 목표주가를 재확인), 이번 밸류에이션 격차는 그 스토리가 실제 실적으로 증명되기 전까지 주가 변동성이 계속될 수 있음을 시사한다.",
+      "title_en": "Tesla stock <em>erases a full year of gains</em> after post-earnings slide",
+      "hotShort_en": "Tesla stock <em>erases a year of gains</em>",
+      "body_en": "Tesla shares have erased a full year of gains after an extended slide following its Q2 earnings report — yet the stock still trades at <em>roughly 175 times</em> projected 2026 earnings, versus an average of about 24 times for the rest of the Magnificent Seven, reigniting the valuation debate among shareholders.",
+      "summary_en": "According to Barron's, Tesla shares have effectively erased a year's worth of gains after deepening losses that followed the July 22 second-quarter earnings report. The decline capped a five-session losing streak this week — an 18% weekly drop, the worst since 2022 — with no sign of a rebound.\n\nThe valuation gap is the standout detail. Barron's reported Tesla trades at roughly 175 times projected 2026 earnings, more than seven times the roughly 24-times average multiple of the rest of the Magnificent Seven — Apple, Nvidia and Microsoft among them. Even after giving back a year of gains, the premium remains steep.\n\nThe backdrop is the Q2 report itself: adjusted EPS of $0.33, below the $0.50 consensus, even as deliveries hit a record 480,000 vehicles. Lower average selling prices and rising AI-related capital spending squeezed profitability below expectations.\n\nSome on Wall Street still back the long-term robotaxi, FSD and Optimus story — Wedbush's Dan Ives reaffirmed his $600 price target the same day — but the valuation gap suggests volatility will likely continue until that story is proven out in actual results.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-loses-year-gains-6acf48c3",
       "sentiment": "bear",
       "hot": 5
     },

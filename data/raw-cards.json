@@ -1,23 +1,49 @@
 {
-  "asOf": "2026-07-28 06:31 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-28 10:40 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10m ago",
+      "pubDate": "2026-07-28T10:30:01.000Z",
+      "title": "SpaceX stock-purchasing by Congress members fuels conflict concerns",
+      "body": "SpaceX stock-purchasing by Congress members fuels conflict concerns CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
-      "pubDate": "2026-07-28T04:17:15.000Z",
-      "title": "Is Tesla a Buy After Its Latest Earnings Report?",
-      "body": "Is Tesla a Buy After Its Latest Earnings Report? The Motley Fool",
-      "sourceName": "The Motley Fool",
+      "pubDate": "2026-07-28T08:49:07.000Z",
+      "title": "Tesla, Inc. Share Price Today - Live NASDAQ: TSLA Stock Price Charts, History",
+      "body": "Tesla, Inc. Share Price Today - Live NASDAQ: TSLA Stock Price Charts, History Upstox",
+      "sourceName": "Upstox",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.fool.com/investing/2026/07/27/is-tesla-a-buy-after-its-latest-earnings-report/"
+      "href": "https://upstox.com/us-stocks/tsla-share-price/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-28T08:32:15.000Z",
+      "title": "TSLA Stock Slips Premarket: Morningstar Calls Tesla ‘Very Attractive’ After Earnings Rout — ‘Now’s A Good Time’ To Buy",
+      "body": "TSLA Stock Slips Premarket: Morningstar Calls Tesla ‘Very Attractive’ After Earnings Rout — ‘Now’s A Good Time’ To Buy Stocktwits",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://stocktwits.com/news-articles/markets/equity/tsla-morningstar-very-attractive-earnings-rout/cZZC0raRJGg"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-28T02:50:34.000Z",
       "title": "A real frontier where there is no training data.",
       "body": "A real frontier where there is no training data. https://t.co/7Q602UwNYW",
@@ -30,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-28T02:13:13.000Z",
       "title": "You don’t know how good you have it with Tesla ownership until you look at other cars. • Full Self-Driving • World’s …",
       "body": "You don’t know how good you have it with Tesla ownership until you look at other cars. • Full Self-Driving • World’s best UI experience • No key, no start button • Best phone app • Grok integration • Trip Planner for roa…",
@@ -43,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-28T01:54:15.000Z",
       "title": "Unfiltered reality",
       "body": "Unfiltered reality https://t.co/B1iFcOvcfh",
@@ -56,7 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-28T01:13:08.000Z",
       "title": "Great to be on the pod with 🏆 @APompliano talking all things tech 🏆🐂👇🔥🍿",
       "body": "Great to be on the pod with 🏆 @APompliano talking all things tech 🏆🐂👇🔥🍿 https://t.co/EXJsqHJCcW",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-27T23:12:26.000Z",
       "title": "Tesla owner Stan Smith just installed a beautiful 25 kW Tesla Solar Roof on his new 9,300 sq ft custom home in Maryla…",
       "body": "Tesla owner Stan Smith just installed a beautiful 25 kW Tesla Solar Roof on his new 9,300 sq ft custom home in Maryland. During sunny periods, his electricity bill is only $9 per month. https://t.co/vqyHYNm1dD",
@@ -82,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-27T22:25:12.000Z",
       "title": "Some technologies become so normal that we forget life before them FSD Supervised is like that",
       "body": "Some technologies become so normal that we forget life before them FSD Supervised is like that",
@@ -95,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-27T22:07:39.000Z",
       "title": "4 Months of Optimus Factory Progress Timelapse! It is time to do another month of weekly progress on the Optimus Fact…",
       "body": "4 Months of Optimus Factory Progress Timelapse! It is time to do another month of weekly progress on the Optimus Factory at Giga Texas. This begins on 23 March 2026 &amp; goes to 27 July 2026 for approximately 4 months o…",
@@ -108,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-27T21:26:03.000Z",
       "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
       "body": "SpaceX has now lost the equivalent of a full Tesla in market capitalization CNBC",
@@ -119,22 +145,9 @@
       "href": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-07-27T20:30:00.000Z",
-      "title": "CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, Workday, and More Stocks That Explain Today’s Market",
-      "body": "CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, Workday, and More Stocks That Explain Today’s Market Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/stock-movers-ed57540c"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-27T20:23:00.000Z",
       "title": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations.",
       "body": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations. Barron's",
@@ -147,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-27T19:54:52.000Z",
       "title": "Model 3 identifying as submarine 👍🏼",
       "body": "Model 3 identifying as submarine 👍🏼 https://t.co/OBdPqlDSuu",
@@ -160,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-27T19:00:01.000Z",
       "title": "Tesla Bloomington Megacharger (world’s first full-scale public one for the Semi)Location: 18434 Valley Blvd, Blooming…",
       "body": "Tesla Bloomington Megacharger (world’s first full-scale public one for the Semi)Location: 18434 Valley Blvd, Bloomington, CA 92316 (San Bernardino County, ~1 hour east of LA, near key freight routes from the Ports of Los…",
@@ -173,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-27T18:38:58.000Z",
       "title": "FSD Supervised has reached the point where Cannonball records are measured in time, not possibility",
       "body": "FSD Supervised has reached the point where Cannonball records are measured in time, not possibility https://t.co/kxLk9uQFd8",
@@ -186,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "15h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-27T15:32:24.000Z",
       "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
       "body": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day CNBC",
@@ -199,7 +212,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "16h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-27T14:15:44.000Z",
       "title": "Tesla wins bid to revive UK lawsuit for 5G patents licence",
       "body": "Tesla wins bid to revive UK lawsuit for 5G patents licence Reuters",
@@ -210,22 +223,9 @@
       "href": "https://www.reuters.com/business/autos-transportation/tesla-wins-bid-revive-uk-lawsuit-5g-patents-licence-2026-07-27/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "16h ago",
-      "pubDate": "2026-07-27T14:15:42.000Z",
-      "title": "The AI tech arms race continues with Capex front and center @CNBCMorningCall 🏆👇🐂",
-      "body": "The AI tech arms race continues with Capex front and center @CNBCMorningCall 🏆👇🐂 https://t.co/07jTImnPod https://t.co/m7F619DTgh",
-      "sourceName": "Dan Ives (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/DivesTech/status/2081745348028998013"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-27T13:34:38.000Z",
       "title": "Tesla partly settles racism lawsuit as hundreds of workers press on",
       "body": "Tesla has confidentially settled with three of the five named plaintiffs in the racism lawsuit that has been hanging over its Fremont factory since 2017. That doesn’t end much. Up to 580 Black workers are still suing ove…",
@@ -238,7 +238,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "19h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-27T12:01:00.000Z",
       "title": "Tesla Stock Just Passed a Troubling Milestone",
       "body": "Tesla Stock Just Passed a Troubling Milestone Barron's",
@@ -251,7 +251,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "19h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-27T11:22:13.000Z",
       "title": "Rivian will emerge as big winner as robotaxi market grows, says Piper Sandler",
       "body": "Rivian will emerge as big winner as robotaxi market grows, says Piper Sandler CNBC",
