@@ -1,43 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-23T21:11:48.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "stock-short-sellers-4b-profit-2026-07-23",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "href matches Bloomberg original (2026-07-23, tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive)",
-            "$4B profit / 15% intraday drop / worst-in-a-year framing corroborated via WebSearch excerpt of the Bloomberg piece",
-            "short interest +33% since March to ~80M shares cross-checked against TipRanks coverage",
-            "days-to-cover 1.75 days / highest since 2021 consistent with secondary summaries (full Bloomberg text blocked 403, no contradicting figure found)",
-            "EPS $0.33 vs $0.50 consensus reuses figure already verified in an earlier archived card, not newly invented",
-            "sourceLabel press correct for Bloomberg market-moves piece",
-            "no advisory tone, no hedge-to-assertion conversion"
-          ]
-        },
-        {
-          "slug": "product-nhtsa-door-safety-rulemaking-2026-07-23",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "href matches Bloomberg original (2026-07-23, us-will-strengthen-regulations-for-car-doors-handles-after-tesla-deaths)",
-            "WebSearch excerpt confirms NHTSA granted the petition for a 'robust and obvious door egress system' — matches card wording",
-            "Nov 4, 2025 petition date re-confirmed via separate search",
-            "distinct from the Dec 2025 Model-3-only defect probe — card correctly scopes this as an all-vehicle new-FMVSS petition, no href/body mismatch",
-            "SAFE Exit Act '15 deaths' claim correctly hedged as the bill sponsors' claim, matching how Electrek et al. report it",
-            "card correctly frames this as pre-NPRM process start, not a finalized rule",
-            "sourceLabel sec appropriate per routine's own NHTSA/regulator-agency tier definition",
-            "confirmedBy=2 (Bloomberg, Seeking Alpha) consistent with multiple outlets covering the same fact",
-            "no advisory tone"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-23T23:15:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -704,6 +667,86 @@
             "단정 전환 없음 — 팩트성 상품 출시 보도",
             "숫자 대조: 55종목+마이크로22종·7/27 출시·23시간 거래·1시간 정비 모두 WebSearch 교차검증(CNBC, Fortune, Hedgeye, Gurufocus)",
             "href-본문 일치 확인"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-28T15:15:00.000Z",
+      "mode": "shadow",
+      "checked": 6,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-1-2t-cap-loss-since-june-peak-2026-07-27",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Bloomberg 스트레이트 보도",
+            "조언톤 위반 없음",
+            "단정 전환 없음 — '주가가 IPO가 밑으로 떨어졌다'는 확정 사실, HSBC 코멘트는 인용으로 귀속",
+            "숫자 대조: IPO가 $150·고점 $225.64(6/16)·손실 $1.2조·HSBC 홀드/$115 모두 WebSearch 교차검증(Bloomberg, NBC News, Yahoo Finance, Benzinga)",
+            "href-본문 일치 확인 (WebFetch 403이라 WebSearch로 간접검증) — 기존 카드(같은 사건의 후속 전개)를 새 사실로 갱신, 신규 카드 생성 안 함"
+          ]
+        },
+        {
+          "slug": "product-cybertruck-angstrom-lawsuit-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Electrek 1차 보도",
+            "조언톤 위반 없음",
+            "단정 전환 없음 — 소장 내용은 '소장은 밝혔다/주장했다'로 귀속, 법원 판단 전이라 확정 서술 안 함",
+            "숫자·일정 대조: 7/13 폐쇄통보·주당 $250,000 요구·7/17 부품 700개 미출고·7/21 출입거부·7/23 긴급소송·재건 5~6개월 모두 WebSearch 교차검증(Teslarati, EVXL, Drive Tesla Canada, Bloomberg Law)",
+            "href-본문 일치 확인 — Electrek 원기사와 동일 사건"
+          ]
+        },
+        {
+          "slug": "stock-rbc-pt-480-spacex-synergies-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — CNBC 애널리스트 콜 요약기사",
+            "조언톤 위반 없음 — RBC 등급·목표주가를 사실 전달로만 기술, 자체 매수·매도 권유 없음",
+            "단정 전환 없음",
+            "숫자 대조: $500→$480 하향·아웃퍼폼 유지 WebSearch 교차검증(Investing.com, Yahoo Finance)",
+            "href-본문 일치 주의: href가 여러 종목을 다루는 CNBC 'Tuesday's biggest analyst calls' 롤업 기사 — 그 안에 테슬라/RBC 항목이 실제 포함되어 있음을 WebSearch로 확인, 다른 사건 아님(⑤ 통과)"
+          ]
+        },
+        {
+          "slug": "product-india-first-body-shop-pune-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — IANS 통신사발, 다수 인도 매체 재배급으로 교차확인",
+            "조언톤 위반 없음",
+            "단정 전환 없음",
+            "숫자 대조: 모델Y 프리미엄 RWD 5,089만루피/500km/5.9초/2,138L·모델Y L 6,199만루피부터/681km/5.0초/2,539L 모두 WebSearch 교차검증(Free Press Journal, Team-BHP, AutoGuideIndia)",
+            "href-본문 일치 확인 — raw sourceName(madhyamamonline.com)은 낮은 신뢰도 재게시라 IANS 원 통신사 기사로 대표출처 교체(교정)"
+          ]
+        },
+        {
+          "slug": "product-arizona-kkr-solar-power-deal-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Bloomberg",
+            "조언톤 위반 없음",
+            "단정 전환 없음 — 계약기간 '10~15년'은 '통상' 업계 관행으로 완화 표현, 이 계약 자체의 확정 기간으로 단정하지 않음(원문에 조건 비공개 명시)",
+            "숫자 대조: 산출량 90%·태양광 509MW·배터리 360MW/4시간·2028년 가동 모두 WebSearch 교차검증(Yahoo Finance, Investing.com, Gurufocus)",
+            "href-본문 일치 확인 (WebFetch 403이라 WebSearch로 간접검증)"
+          ]
+        },
+        {
+          "slug": "fsd-v14-lite-hw3-wider-rollout-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Tesla Chan(X)은 큐레이터 계정, 공식 계정 아님",
+            "조언톤 위반 없음",
+            "단정 전환 없음 — HW3 확대 배포는 원문 트윗+교차매체 모두 사실로 보도",
+            "밈·풍자 아님(⑥) — 구체적 기능·범위 정보가 담긴 사실성 트윗, 유머/가정 아님",
+            "숫자·기능 대조: 배포범위 미국·캐나다 전역·주차/전진출차/후진·맞춤 도착옵션·셀프드라이빙 앱 모두 WebSearch 교차검증(Drive Tesla Canada, TeslaNorth, Not a Tesla App)",
+            "href-본문 일치 확인 — 실제 원 트윗 링크"
           ]
         }
       ]
