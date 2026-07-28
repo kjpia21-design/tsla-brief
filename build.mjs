@@ -1441,11 +1441,12 @@ async function writeEarningsPages(entries, { outDir = OUT_DIR, lang = "ko" } = {
  * 홈 핫뉴스 박스 상단 핀 — 어닝 파일이 여럿이면 callDate 최신 1건만 대상.
  *  upcoming: 오늘 ≤ callDate 이면 표시("D-N — 관전 포인트·컨센서스").
  *  live: 발표 후 8일 이내만 표시(아래 상수 참고). 기간 지나면 핀만 자동 소멸, 페이지·sitemap 은 영구 유지.
+ *  data.pinHidden===true 면 만료 전이라도 핀만 즉시 숨김(하단 CTA 카드·페이지는 그대로 유지). JP 수동 조기 내림용.
  */
 // 8일 = 미국날짜 기준 발표 후 만 7일 + KST 시차 여유 포함(미국 발표일 기준으로 하루 더 여유를 둠).
 const EARNINGS_PIN_EXPIRE_MS = 8 * 86400000;
 function renderEarningsPin(data, lang = "ko", now = new Date()) {
-  if (!data || !data.slug || !data.callDate) return "";
+  if (!data || !data.slug || !data.callDate || data.pinHidden === true) return "";
   const todayISO = now.toISOString().slice(0, 10);
   const QN = (data.quarter || "").trim().split(/\s+/)[0] || "Q2";   // "Q2 2026" → "Q2"
   const href = `earnings/${data.slug}.html`;
