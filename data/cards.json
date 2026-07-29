@@ -75,6 +75,26 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "9h ago",
+      "pubDate": "2026-07-29T16:12:56.000Z",
+      "title": "전직 NASA 전문가들 \"스타십 <em>내열 타일, 완전·신속 재사용에 구조적 한계</em>\"",
+      "hotShort": "전직 NASA 전문가 \"스타십 <em>내열타일, 재사용 한계</em>\"",
+      "body": "전직 NASA 열보호시스템 전문가 3인이, 스타십 13차 시험비행(7/24) 착수 후 회수된 선체에서 발견된 내열 타일 균열을 근거로 \"현재 설계로는 완전·신속 재사용이 불가능하다\"고 경고했다 — 머스크가 약속해온 '초저비용 재사용' 로드맵의 핵심 전제를 정면으로 흔드는 지적이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-starship-heatshield-reuse-concern-2026-07-29",
+      "summary": "스타십 13차 시험비행은 지난 24일 슈퍼헤비 부스터와 우주선이 각각 멕시코만·인도양에 착수하며 주요 임무 목표를 달성했다. 그러나 착수 후 회수된 우주선 선체에서 내열 타일 곳곳의 균열·손상이 확인되면서, 재사용성을 둘러싼 새로운 논쟁이 불붙었다.\n\n블룸버그에 따르면, NASA 에임스 연구센터에서 거의 40년간 열보호재를 연구한 전직 엔지니어 댄 라스키를 포함한 전직 NASA 전문가 3인은 \"현재의 열보호 시스템은 완전하고 신속한 재사용이 필요한 모든 임무에 막다른 길\"이라고 말했다. 이들이 짚은 핵심 문제는 타일 개별 성능이 아니라 설계 구조 자체 — 전체 시스템의 열성능이 모든 타일과 이음매 하나하나의 상태에 좌우돼, 매 비행마다 전수 점검이 불가피하다는 것이다. 30년간 우주왕복선을 괴롭혔던 것과 같은 \"점검 의존형\" 구조라는 지적이다.\n\n공교롭게도 일론 머스크는 13차 비행 상승 구간에서 내열 타일 부착 한계를 시험하려 의도적으로 더 공격적인 가속 프로파일을 적용했다고 비행 후 직접 공개한 바 있다 — 회사 내부적으로도 타일 내구성을 예의주시해온 정황으로 읽힌다.\n\n스타십의 '완전·신속 재사용'은 스페이스X가 발사 단가를 로켓 산업 평균 대비 대폭 낮추겠다는 비전의 핵심 전제다. 전문가들의 지적대로 타일 방식이 구조적 한계에 부딪힌다면, 스타링크 대량 발사·달·화성 임무 등 장기 로드맵 전반의 속도 조절이 불가피할 수 있다는 우려가 나온다.",
+      "title_en": "Former NASA experts: Starship's <em>heat-shield tiles hit a structural wall</em> on rapid reuse",
+      "hotShort_en": "NASA experts: Starship <em>tiles block rapid reuse</em>",
+      "body_en": "Three former NASA thermal-protection experts say cracked heat-shield tiles recovered after Starship's 13th test flight (July 24) show the current design can't support full, rapid reusability — a direct challenge to the ultra-low-cost reuse promise at the core of Musk's roadmap.",
+      "summary_en": "Starship's 13th test flight on July 24 saw the Super Heavy booster and the ship complete splashdowns in the Gulf of Mexico and the Indian Ocean, respectively, meeting the mission's main objectives. But once the ship was recovered, inspectors found cracks and damage scattered across its heat-shield tiles, reigniting debate over how reusable the vehicle really is.\n\nAccording to Bloomberg, three former NASA researchers — including Dan Rasky, who spent nearly four decades studying thermal-protection materials at NASA's Ames Research Center — said the current heat shield is \"a dead-end for all missions that require full and rapid reusability.\" Their core objection isn't about any single tile's performance, but the design itself: because the system's thermal performance depends on the condition of every tile and every gap between them, a full inspection is effectively required after each flight — the same \"inspection-bound\" bottleneck that constrained the Space Shuttle for three decades.\n\nNotably, Musk disclosed after the flight that SpaceX deliberately flew a more aggressive ascent profile on Flight 13 to stress-test the tiles' attachment limits — a sign the company has been closely tracking tile durability internally.\n\nStarship's promise of full, rapid reusability is the linchpin of SpaceX's plan to slash launch costs well below the rocket industry's norm. If the tile-based approach really does hit a structural ceiling, as the experts argue, it could force a slower cadence across SpaceX's broader roadmap — from mass Starlink launches to lunar and Mars missions.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-29/spacex-starship-heat-shield-can-t-support-rapid-flights-experts",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "7h ago",
       "pubDate": "2026-07-29T12:06:42.000Z",
       "title": "월가, <em>스페이스X 연계 구조화 노트</em> 잇달아 출시 — IPO 후 40%↓ 방어",
@@ -171,32 +191,7 @@
       ],
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-28T19:03:17.000Z",
-      "title": "테슬라 2026 <em>Summer Update, 전 차량 배포 시작</em> — 내비·Grok·카라오케 대거 개편",
-      "hotShort": "2026 <em>Summer Update</em>, 전 차량 배포 개시",
-      "body": "테슬라가 예고했던 '2026 Summer Update'를 이번 주부터 전 차량에 순차 배포하기 시작했다 — 목적지 학습형 내비게이션, 모델3·Y 신규 시동 애니메이션, 채점 기능이 추가된 카라오케 등 주행·인포테인먼트 전반을 손본 대규모 업데이트로, 앞서 공개된 트랙션 컨트롤 개선과 별개로 오너 체감도가 큰 소프트웨어 갱신이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-summer-update-2026-fleet-rollout-2026-07-28",
-      "summary": "지난 7월21일 예고됐던 테슬라의 '2026 Summer Update'가 이번 주부터 실제 차량에 배포되며 실물로 확인되기 시작했다 — 앞서 공개된 모델3·Y용 트랙션 컨트롤 3종 모드에 이어, 이번엔 내비게이션·인포테인먼트 전반이 개편 대상이다.\n\n핵심은 내비게이션 고도화다 — 목적지·경로를 최단 시간 위주로만 안내하던 방식에서 벗어나, 운전자가 자주 가는 곳과 선호 경로를 학습해 '홈/직장/캘린더' 일정에만 의존하지 않고 개인화된 추천을 제공한다.\n\n인포테인먼트에서는 주차 중 즐기는 '카라오케' 기능에 점수 채점과 프로필 저장이 추가됐고, 모델3·Y는 새로운 시동 애니메이션을 갖췄다. 모바일 앱에서는 FSD 주행 통계 확인·공유, 커스텀 랩(외장 디자인) 전송, 도착 시 목표 충전량 설정 등이 새로 가능해졌다.\n\n차량 비서 Grok 도 기능이 확장돼 전화 걸기·음악 검색 재생·공조 조절·글러브박스 개방 등 차량 제어 명령을 처리할 수 있게 됐다. 배포는 이번 주 안에 전체 차량으로 확대될 전망이다.",
-      "title_en": "Tesla's 2026 <em>Summer Update begins rolling out</em> fleet-wide — new nav, Grok, Caraoke scoring",
-      "hotShort_en": "2026 <em>Summer Update</em> hits the fleet",
-      "body_en": "Tesla has begun deploying its previewed '2026 Summer Update' to vehicles this week — a broad software refresh covering destination-learning navigation, new startup animations for Model 3/Y, and scored Caraoke, on top of the traction-control changes revealed earlier.",
-      "summary_en": "Tesla's '2026 Summer Update,' previewed on July 21, has started reaching real vehicles this week — following the traction-control modes already revealed for Model 3 and Y, this wave targets navigation and infotainment.\n\nThe headline change is smarter navigation: instead of defaulting only to the fastest route or leaning on Home, Work, and calendar entries, the system now learns the destinations and roads a driver actually favors and personalizes suggestions accordingly.\n\nOn the infotainment side, parked Caraoke now scores performances and saves them to a profile, while Model 3 and Y get new startup animations. The mobile app adds the ability to view and share FSD driving stats, upload custom wraps to the car's screen, and set arrival energy levels remotely.\n\nThe in-car Grok assistant also gained new capabilities — placing phone calls, searching and playing music, adjusting climate controls, and opening the glovebox. The rollout is expected to expand to the full fleet over the course of the week.",
-      "href": "https://www.teslarati.com/tesla-summer-update-begins-rolling-out-new-features/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Electrek"
-      ],
-      "sentiment": "bull",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-30 04:55 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-30 08:08 KST 자동 갱신 · 최신순"
 }

@@ -75,6 +75,26 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "9h ago",
+      "pubDate": "2026-07-29T16:12:56.000Z",
+      "title": "전직 NASA 전문가들 \"스타십 <em>내열 타일, 완전·신속 재사용에 구조적 한계</em>\"",
+      "hotShort": "전직 NASA 전문가 \"스타십 <em>내열타일, 재사용 한계</em>\"",
+      "body": "전직 NASA 열보호시스템 전문가 3인이, 스타십 13차 시험비행(7/24) 착수 후 회수된 선체에서 발견된 내열 타일 균열을 근거로 \"현재 설계로는 완전·신속 재사용이 불가능하다\"고 경고했다 — 머스크가 약속해온 '초저비용 재사용' 로드맵의 핵심 전제를 정면으로 흔드는 지적이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-starship-heatshield-reuse-concern-2026-07-29",
+      "summary": "스타십 13차 시험비행은 지난 24일 슈퍼헤비 부스터와 우주선이 각각 멕시코만·인도양에 착수하며 주요 임무 목표를 달성했다. 그러나 착수 후 회수된 우주선 선체에서 내열 타일 곳곳의 균열·손상이 확인되면서, 재사용성을 둘러싼 새로운 논쟁이 불붙었다.\n\n블룸버그에 따르면, NASA 에임스 연구센터에서 거의 40년간 열보호재를 연구한 전직 엔지니어 댄 라스키를 포함한 전직 NASA 전문가 3인은 \"현재의 열보호 시스템은 완전하고 신속한 재사용이 필요한 모든 임무에 막다른 길\"이라고 말했다. 이들이 짚은 핵심 문제는 타일 개별 성능이 아니라 설계 구조 자체 — 전체 시스템의 열성능이 모든 타일과 이음매 하나하나의 상태에 좌우돼, 매 비행마다 전수 점검이 불가피하다는 것이다. 30년간 우주왕복선을 괴롭혔던 것과 같은 \"점검 의존형\" 구조라는 지적이다.\n\n공교롭게도 일론 머스크는 13차 비행 상승 구간에서 내열 타일 부착 한계를 시험하려 의도적으로 더 공격적인 가속 프로파일을 적용했다고 비행 후 직접 공개한 바 있다 — 회사 내부적으로도 타일 내구성을 예의주시해온 정황으로 읽힌다.\n\n스타십의 '완전·신속 재사용'은 스페이스X가 발사 단가를 로켓 산업 평균 대비 대폭 낮추겠다는 비전의 핵심 전제다. 전문가들의 지적대로 타일 방식이 구조적 한계에 부딪힌다면, 스타링크 대량 발사·달·화성 임무 등 장기 로드맵 전반의 속도 조절이 불가피할 수 있다는 우려가 나온다.",
+      "title_en": "Former NASA experts: Starship's <em>heat-shield tiles hit a structural wall</em> on rapid reuse",
+      "hotShort_en": "NASA experts: Starship <em>tiles block rapid reuse</em>",
+      "body_en": "Three former NASA thermal-protection experts say cracked heat-shield tiles recovered after Starship's 13th test flight (July 24) show the current design can't support full, rapid reusability — a direct challenge to the ultra-low-cost reuse promise at the core of Musk's roadmap.",
+      "summary_en": "Starship's 13th test flight on July 24 saw the Super Heavy booster and the ship complete splashdowns in the Gulf of Mexico and the Indian Ocean, respectively, meeting the mission's main objectives. But once the ship was recovered, inspectors found cracks and damage scattered across its heat-shield tiles, reigniting debate over how reusable the vehicle really is.\n\nAccording to Bloomberg, three former NASA researchers — including Dan Rasky, who spent nearly four decades studying thermal-protection materials at NASA's Ames Research Center — said the current heat shield is \"a dead-end for all missions that require full and rapid reusability.\" Their core objection isn't about any single tile's performance, but the design itself: because the system's thermal performance depends on the condition of every tile and every gap between them, a full inspection is effectively required after each flight — the same \"inspection-bound\" bottleneck that constrained the Space Shuttle for three decades.\n\nNotably, Musk disclosed after the flight that SpaceX deliberately flew a more aggressive ascent profile on Flight 13 to stress-test the tiles' attachment limits — a sign the company has been closely tracking tile durability internally.\n\nStarship's promise of full, rapid reusability is the linchpin of SpaceX's plan to slash launch costs well below the rocket industry's norm. If the tile-based approach really does hit a structural ceiling, as the experts argue, it could force a slower cadence across SpaceX's broader roadmap — from mass Starlink launches to lunar and Mars missions.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-29/spacex-starship-heat-shield-can-t-support-rapid-flights-experts",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "7h ago",
       "pubDate": "2026-07-29T12:06:42.000Z",
       "title": "월가, <em>스페이스X 연계 구조화 노트</em> 잇달아 출시 — IPO 후 40%↓ 방어",
@@ -2308,33 +2328,7 @@
       "href": "https://electrek.co/2026/07/16/tesla-balance-bike-kids-225/",
       "sentiment": "neutral",
       "hot": 2
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-16T23:00:00.000Z",
-      "title": "스페이스X 스타십 13차 시험비행, 발사 직전 <em>엔진 4기 미점화로 자동 중단</em> — SPCX 상장 후 첫 시도",
-      "hotShort": "스타십 13차 발사, <em>엔진 4기 미점화</em>로 중단",
-      "body": "7월16일 텍사스 스타베이스에서 시도한 스페이스X 스타십 13차 시험비행이 슈퍼헤비 부스터 33개 엔진 중 <em>4개가 점화되지 않아</em> 발사 직전 자동 중단됐다 — SPCX 상장 후 첫 발사 시도였던 만큼, 머스크는 라파터 엔진 2기 교체 후 이르면 다음 주 초 재도전하겠다고 밝혔다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-starship-flight13-abort-2026-07-16",
-      "summary": "7월16일(현지시간) 텍사스 스타베이스 2번 발사대에서 진행된 스페이스X 스타십 13차 시험비행이 발사 직전 자동 중단됐다. 화면 텔레메트리에서 슈퍼헤비 부스터의 랩터 엔진 33개 중 <em>4개가 점화되지 않은</em> 것이 확인됐고, 나머지 29개 엔진도 즉시 정지되며 로켓은 발사대에 그대로 남았다.\n\n머스크는 이번 결함이 라파터 엔진 <em>2기</em> 교체가 필요한 문제라며, \"가장 유력한 재발사 시점은 다음 주 초\"라고 밝혔다.\n\n이번 시도는 스페이스X 상장(IPO) 이후 첫 스타십 시험비행이었다는 점에서 시장의 관심이 컸다. 로켓에는 신형 스타링크 V3 위성 <em>20기</em>가 실려 있었으며, 이는 신형 위성의 첫 궤도 투입 시도이기도 했다.\n\n스페이스X는 테슬라 보유 종목은 아니지만 머스크가 이끄는 계열사로 최근 상장(SPCX)했다. 이미 IPO가를 밑돌며 공매도가 늘어난 상황에서 이번 발사 지연이 투자 심리에 추가 영향을 줄지 주목된다 — 다만 로켓이 손상 없이 안전하게 중단됐다는 점은 긍정적이다.",
-      "title_en": "SpaceX Starship Flight 13 <em>aborts on the pad</em> as 4 engines fail to ignite — first launch try since IPO",
-      "hotShort_en": "Starship Flight 13 <em>aborts</em>, 4 engines misfire",
-      "body_en": "SpaceX's 13th Starship test flight from Starbase, Texas was automatically aborted just before liftoff on July 16 after <em>4 of the Super Heavy booster's 33 engines</em> failed to ignite — the first Starship launch attempt since SpaceX went public, with Musk saying a retry is most likely early next week after replacing two Raptor engines.",
-      "summary_en": "SpaceX's 13th Starship test flight, launching from Pad 2 at Starbase, Texas, was automatically aborted just before liftoff on July 16. On-screen telemetry showed <em>4 of the Super Heavy booster's 33 Raptor engines</em> failed to ignite, triggering an immediate shutdown of the remaining 29 engines and keeping the rocket anchored to the pad.\n\nMusk said the issue requires replacing <em>two</em> Raptor engines, adding that the \"most probable launch timing is early next week.\"\n\nThe attempt drew extra attention as the first Starship test flight since SpaceX's recent IPO. The rocket was carrying <em>20</em> of the newest-generation Starlink V3 satellites, marking what would have been their first orbital delivery.\n\nSpaceX isn't a Tesla holding, but as a Musk-led affiliate that recently went public as SPCX — already trading below its IPO price with elevated short interest — this launch delay is another data point shareholders may weigh alongside the broader Musk market-confidence narrative. The safe, undamaged abort is a positive sign for the hardware, even as repeated schedule slips draw scrutiny.",
-      "href": "https://www.reuters.com/business/media-telecom/spacex-starship-rocket-aborts-before-liftoff-13th-flight-test-attempt-2026-07-16/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "AP News",
-        "Bloomberg"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-30 04:55 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-30 08:08 KST 자동 갱신 · 최신순"
 }

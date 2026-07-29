@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-25T06:30:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "musk-spacex-100-ai-value-morgan-stanley-2026-07-24",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for Bloomberg (analyst-note reporting, not a 1st-party filing)",
-            "no advisory tone — reports Morgan Stanley's own price target/view, does not tell the reader to buy/sell TSLA or SPCX",
-            "no hedge-to-assertion drift — MS's calculation ('would imply', 'effectively pricing at zero') and Jonas's stance kept as attributed analysis, not stated as fact",
-            "numbers cross-checked via WebSearch (Yahoo Finance, Cryptopolitan, CryptoBriefing, Seeking Alpha, TipRanks, BigGo Finance, AllWeatherFinance all mirroring the same Bloomberg piece): $100 downside scenario, $300 PT unchanged, >50% of PT attributed to AI segment (Grok/Cursor) — consistent across all sources",
-            "$115.07 close and 7.2% 5-day decline reused from same-day already-verified stock-worst-weekly-slump card, not newly invented; $116B lockup figure reused from prior verified musk-spacex-earnings-date-lockup-expiration card",
-            "href matches the exact Bloomberg article URL from raw-cards.json",
-            "not X/meme-sourced, satire check N/A",
-            "verify-error: direct WebFetch to bloomberg.com and cnbc.com both returned 403 — relied on WebSearch snippet synthesis per fail-open policy; no contradictions found across 7 independent secondary mirrors"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-25T05:05:37.000Z",
       "mode": "shadow",
       "checked": 2,
@@ -800,6 +778,24 @@
             "direct WebFetch to reuters.com blocked 403; facts (Pallone identity, Colossus 1/2 in Tennessee/Mississippi, 59 turbines, no federal clean-air permits, Black communities, quote on 'disregard for the health and well-being of local communities') corroborated via cross-source search (thestar.com, yahoo.com/finance, qz.com reprints of same Reuters wire)",
             "href matches verified article topic",
             "not X-sourced, no meme/satire risk"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-29T23:08:07.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-starship-heatshield-reuse-concern-2026-07-29",
+          "verdict": "hold",
+          "newSourceLabel": "n/a",
+          "reasons": [
+            "sourceLabel press 정확 (Bloomberg 자체 취재)",
+            "조언톤 위반 없음, 추측→단정 전환 없음(전문가 인용으로 정확히 귀속)",
+            "④ 실패: 초안이 '머스크가 13차 비행 전 지상에서 타일 한계 테스트'라 기술했으나, 실제는 '비행 중 상승구간에서 의도적으로 공격적 가속 프로파일 적용, 비행 후 공개' — 시점·장소 오류. 원고 작성 단계에서 즉시 정정 후 발행(shadow 모드지만 사실오류는 발행 전 수정)",
+            "본문-링크 일치, 밈/풍자 해당없음"
           ]
         }
       ]
