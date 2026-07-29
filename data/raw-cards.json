@@ -1,10 +1,62 @@
 {
-  "asOf": "2026-07-29 06:36 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-29 10:44 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "45m ago",
+      "pubDate": "2026-07-29T10:00:00.000Z",
+      "title": "AMCI Testing demonstrates significant improvement in latest Tesla FSD (Supervised) 14.3.4 update, but it is still a work in progress",
+      "body": "AMCI Testing demonstrates significant improvement in latest Tesla FSD (Supervised) 14.3.4 update, but it is still a work in progress PR Newswire",
+      "sourceName": "PR Newswire",
+      "sourceLabel": "official",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.prnewswire.com/news-releases/amci-testing-demonstrates-significant-improvement-in-latest-tesla-fsd-supervised-14-3-4-update-but-it-is-still-a-work-in-progress-302837108.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-29T08:59:36.000Z",
+      "title": "Tesla Stock Analysis: July 2026 Bearish Outlook & Key Support Levels",
+      "body": "Tesla Stock Analysis: July 2026 Bearish Outlook & Key Support Levels The Cryptonomist",
+      "sourceName": "The Cryptonomist",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://en.cryptonomist.ch/2026/07/29/gary-black-warns-tesla-stock-could-break-below-300-as-rsi-hits-27/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10h ago",
+      "pubDate": "2026-07-29T01:00:28.000Z",
+      "title": "Elon Musk",
+      "body": "Elon Musk CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/elon-musk/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "12h ago",
+      "pubDate": "2026-07-28T22:45:00.000Z",
+      "title": "Elon Musk launches invite-only X Money with a Visa debit card, 6% yield and real-time transfers",
+      "body": "Elon Musk launches invite-only X Money with a Visa debit card, 6% yield and real-time transfers AP News",
+      "sourceName": "AP News",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://apnews.com/article/elon-musk-x-money-cross-river-payments-0bb86f98e0747757992bc8f435f7014e"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "12h ago",
       "pubDate": "2026-07-28T22:40:03.000Z",
       "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
       "body": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla InsideEVs",
@@ -17,33 +69,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
-      "pubDate": "2026-07-28T22:14:23.000Z",
-      "title": "Fired Tesla Manager Says Full Self-Driving Cars Were 'Rolling Hazards'",
-      "body": "Fired Tesla Manager Says Full Self-Driving Cars Were 'Rolling Hazards' Engadget",
-      "sourceName": "Engadget",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.engadget.com/2225645/tesla-full-self-driving-cars-were-rolling-hazards-fired-manager/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
-      "pubDate": "2026-07-28T21:43:05.000Z",
-      "title": "Elon Musk launches invite-only X Money with a Visa debit card, 6% yield and real-time transfers",
-      "body": "Elon Musk launches invite-only X Money with a Visa debit card, 6% yield and real-time transfers AP News",
-      "sourceName": "AP News",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://apnews.com/article/elon-musk-x-money-cross-river-payments-0bb86f98e0747757992bc8f435f7014e"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-28T20:49:43.000Z",
       "title": "Tesla self-driving manager describes scary conditions in robotaxi testing",
       "body": "A former Tesla manager who ran the company’s “Full Self-Driving” test fleet in Houston says the operation was so understaffed that its cars became “rolling hazards on public streets,” according to a lawsuit. The manager,…",
@@ -54,22 +80,9 @@
       "href": "https://electrek.co/2026/07/28/tesla-self-driving-manager-rolling-hazards-lawsuit/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-07-28T20:38:00.000Z",
-      "title": "Musk’s Wealth Has Taken a Huge SpaceX Hit. He’s Still Worth 45 Times China’s CXMT Billionaire.",
-      "body": "Musk’s Wealth Has Taken a Huge SpaceX Hit. He’s Still Worth 45 Times China’s CXMT Billionaire. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/elon-musk-wealth-spacex-cxmt-13fed667"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-28T20:18:00.000Z",
       "title": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying",
       "body": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying Barron's",
@@ -82,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-28T20:13:01.000Z",
       "title": "SpaceX Rebounds After Briefly Plunging 20% Below IPO Price",
       "body": "SpaceX Rebounds After Briefly Plunging 20% Below IPO Price Bloomberg.com",
@@ -93,22 +106,9 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-28/spacex-falls-20-below-ipo-price-erasing-1-2-trillion-value"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-07-28T19:02:42.000Z",
-      "title": "Tesla Summer Update begins rolling out: a look at the new features",
-      "body": "Tesla Summer Update begins rolling out: a look at the new features Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-summer-update-begins-rolling-out-new-features/"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
+      "time": "16h ago",
       "pubDate": "2026-07-28T18:56:34.000Z",
       "title": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
       "body": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead CNBC",
@@ -121,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-28T15:32:55.000Z",
       "title": "Tesla buys 90% of a 509 MW Arizona solar and storage project",
       "body": "Tesla has signed a long-term deal to buy 90% of the output of Project Sterling, a big solar and battery plant going up in Arizona. The project pairs 509 MW of solar with a 360 MW battery, and it’s being built by ContourG…",
@@ -134,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "15h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-28T15:23:40.000Z",
       "title": "Wachtell Lipton co-chair who grilled Elon Musk departs for rival Gibson Dunn",
       "body": "Wachtell Lipton co-chair who grilled Elon Musk departs for rival Gibson Dunn Financial Times",
@@ -147,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "16h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-28T14:08:00.000Z",
       "title": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying",
       "body": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying Barron's",
@@ -158,22 +158,9 @@
       "href": "https://www.barrons.com/articles/tesla-stock-spacex-cathie-wood-ark-invest-4eb33bbe"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "17h ago",
-      "pubDate": "2026-07-28T13:29:58.000Z",
-      "title": "T- 2 Months &amp; 2 Weeks until @theXtakeover 🚀 @ninjamattic shares his raw and unbiased input on this global event ⬇️",
-      "body": "T- 2 Months &amp; 2 Weeks until @theXtakeover 🚀 @ninjamattic shares his raw and unbiased input on this global event ⬇️ https://t.co/Nw7WWRP6XS",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/teslaownersSV/status/2082096224488808747"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "22h ago",
       "pubDate": "2026-07-28T13:00:05.000Z",
       "title": "Tesla sues Cybertruck supplier amid standoff keeping production hostage",
       "body": "Tesla is asking a federal judge for emergency access to a supplier’s plant in Troy, Texas, so it can haul out the tooling it needs to keep building the Cybertruck. The supplier, Angstrom Automotive Group, is closing the …",
@@ -186,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-28T11:18:46.000Z",
       "title": "Tesla to Buy Power From KKR-Backed Arizona Solar, Battery Plant",
       "body": "Tesla to Buy Power From KKR-Backed Arizona Solar, Battery Plant Bloomberg.com",
@@ -199,7 +186,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-07-27T20:23:00.000Z",
       "title": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations.",
       "body": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations. Barron's",
@@ -221,6 +208,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-milestone-6acf48c3"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-07-27T11:22:13.000Z",
+      "title": "Rivian will emerge as big winner as robotaxi market grows, says Piper Sandler",
+      "body": "Rivian will emerge as big winner as robotaxi market grows, says Piper Sandler CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2026/07/27/rivian-will-emerge-as-big-winner-as-robotaxi-market-grows-says-piper-sandler.html"
     },
     {
       "category": "stock",

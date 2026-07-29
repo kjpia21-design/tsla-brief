@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-29 06:36 UTC · 누적 714건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-29 10:44 UTC · 누적 716건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "fsd",
@@ -102,6 +102,57 @@
       ],
       "sentiment": "neutral",
       "hot": 2
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "11h ago",
+      "pubDate": "2026-07-28T17:15:00.000Z",
+      "title": "테슬라, 텍사스 <em>태양광 140MW 전력 전량 구매</em> 계약 — Zelestra와 두 번째 PPA",
+      "hotShort": "테슬라, 텍사스 <em>태양광 140MW</em> 전량 구매",
+      "body": "테슬라가 Zelestra와 텍사스 북동부 태양광 발전소 'Lumen Farm'(140MW) 전력 전량을 장기 구매하는 계약을 맺었다 — 기가팩토리 텍사스와 AI 컴퓨팅 확장에 필요한 전력을 청정에너지로 충당하려는 행보로, 지난해 스페인 57MW 계약에 이은 두 회사의 두 번째 협력이다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-zelestra-texas-solar-ppa-140mw-2026-07-28",
+      "summary": "Lumen Farm은 2027년 착공해 2029년 전면 가동을 목표로 한다. 양사는 가격 등 세부 조건은 공개하지 않았다.\n\n이는 앞서 이번 주 보도된 KKR 지원 애리조나 태양광·배터리 발전소(509MW) 장기 전력구매계약과는 별개의 계약으로, 테슬라가 최근 잇따라 대형 재생에너지 전력구매계약(PPA)을 체결하며 기가팩토리·데이터센터·AI 컴퓨팅 확장에 필요한 전력 수요를 미리 확보하는 모습이다.\n\n테슬라와 Zelestra의 협력은 지난해 스페인 카스티야라만차 지역의 57MW 태양광 PPA에서 시작됐으며, 이번 텍사스 계약으로 두 회사의 파트너십이 확대됐다.",
+      "title_en": "Tesla to buy <em>entire output of 140MW Texas solar farm</em> — second Zelestra PPA",
+      "hotShort_en": "Tesla buys <em>140MW Texas solar</em> output",
+      "body_en": "Tesla signed a long-term power purchase agreement to buy the entire output of Zelestra's 140MW \"Lumen Farm\" solar plant in northeast Texas — part of a push to lock in clean power for Gigafactory Texas and its expanding AI compute needs, and the companies' second PPA after a 57MW deal in Spain last year.",
+      "summary_en": "Lumen Farm is expected to begin construction in 2027 and reach full operation by 2029. Neither company disclosed pricing terms.\n\nThe deal is separate from this week's KKR-backed Arizona solar-and-storage PPA (509MW) reported earlier — together, the agreements reflect Tesla locking in renewable power ahead of growing demand from its factories, data centers, and AI compute buildout.\n\nTesla and Zelestra's partnership began with a 57MW solar PPA in Spain's Castilla-La Mancha region last year, and this Texas deal expands that relationship.",
+      "href": "https://electrek.co/2026/07/28/tesla-buys-texas-solar-farm-output-zelestra/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Yahoo Finance",
+        "Interesting Engineering"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "12h ago",
+      "pubDate": "2026-07-28T16:45:00.000Z",
+      "title": "테슬라, 유럽 FSD Supervised 자체 데이터 공개 — <em>수동운전보다 충돌 5.2배 적어</em>",
+      "hotShort": "테슬라 유럽 FSD, <em>충돌 5.2배 적어</em> 자체 발표",
+      "body": "테슬라가 4월부터 네덜란드·리투아니아·에스토니아·덴마크·벨기에 5개국에서 모은 6,500만km 주행 데이터를 공개해, FSD Supervised 사용 시 충돌이 수동운전 대비 5.2배 적었다고 밝혔다 — 유럽 규제당국의 FSD 승인 확대를 뒷받침할 근거가 될 수 있지만, 테슬라 자체 집계로 아직 독립적 검증은 없다.",
+      "sourceName": "TeslaNorth",
+      "sourceLabel": "press",
+      "slug": "fsd-eu-supervised-safety-data-5x-2026-07-28",
+      "summary": "고속도로 구간에서는 격차가 더 컸다. 테슬라에 따르면 FSD Supervised는 고속도로 4,190만km 주행 동안 충돌이 한 건도 없었던 반면, 수동운전(능동 안전기능 포함)은 4억2,930만km에 88건의 충돌이 발생해 8.5배 격차를 보였다. 일반도로에서는 FSD Supervised가 2,380만km에 6건, 수동운전이 5억1,450만km에 368건으로 격차가 2.8배로 좁혀졌다.\n\n테슬라는 이 기간 자동긴급제동 개입이 13.4배, 급가속이 9.2배, 급제동이 7.1배, 급회전(하드 스워브)이 7.6배 각각 줄었다고도 덧붙였다.\n\n다만 이번 수치는 테슬라가 직접 집계·공개한 것으로, 국가별 규제기관이나 제3자 기관의 독립 검증을 거치지 않았다. 지난 6월 로이터·Electrek 보도로, 테슬라가 스웨덴·네덜란드 규제당국에 FSD로 연간 3만2,000명의 생명을 구할 수 있다는 취지의 통계를 제시했다가, 검토한 독립 교통안전 연구자 11명 중 10명으로부터 '오해 소지가 있는 마케팅'이라는 지적을 받은 전례가 있어, 이번 데이터도 신중한 해석이 필요하다는 지적이 나온다.\n\n그럼에도 이번 발표는 테슬라가 유럽에서 FSD 승인 확대를 추진하는 시점에 나온 것으로, 향후 각국 규제당국의 심사에 어떤 영향을 줄지 주목된다.",
+      "title_en": "Tesla publishes EU FSD Supervised data — <em>5.2x fewer collisions</em> than manual driving",
+      "hotShort_en": "Tesla EU FSD: <em>5.2x fewer collisions</em>",
+      "body_en": "Tesla says FSD Supervised was involved in 5.2x fewer collisions than manual driving over 65 million km driven since April across the Netherlands, Lithuania, Estonia, Denmark and Belgium — a data point that could bolster Tesla's push for wider FSD approval in Europe, though the figures are self-published and haven't been independently audited.",
+      "summary_en": "The gap was widest on highways: Tesla says FSD Supervised logged zero collisions over 41.9 million km, versus 88 collisions over 429.3 million km for manual driving with active safety features — an 8.5x margin. On non-highway roads, the gap narrowed to 2.8x, with FSD Supervised at 6 collisions over 23.8 million km versus 368 collisions over 514.5 million km for manual driving.\n\nTesla also reported 13.4x fewer automatic emergency braking interventions, 9.2x less harsh acceleration, 7.1x less harsh braking, and 7.6x fewer hard swerves under FSD Supervised.\n\nThe figures are Tesla's own, without independent verification from regulators or third parties. In June, Reuters and Electrek reported that Tesla had presented Swedish and Dutch regulators with claims that FSD could save 32,000 lives a year — statistics that 10 of 11 independent traffic-safety researchers who reviewed the methodology called misleading marketing rather than a rigorous safety study, adding context for how this new dataset should be read.\n\nThe release lands as Tesla continues pressing European regulators for broader FSD approval, making the reception from national safety authorities worth watching.",
+      "href": "https://teslanorth.com/2026/07/28/tesla-reveals-fsd-supervised-is-5-2x-safer-than-manual-driving-in-europe/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "TeslaNorth",
+        "Zecar"
+      ],
+      "sentiment": "bull",
+      "hot": 5
     },
     {
       "category": "fsd",
