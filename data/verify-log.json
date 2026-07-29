@@ -1,39 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-24T21:50:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "stock-worst-weekly-slump-since-2022-2026-07-24",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for CNBC",
-            "no advisory tone / no price target",
-            "no hedge-to-assertion conversion — CNBC directly reported as fact",
-            "numbers (18% weekly, close $313.03, -2.08%/-$6.66, SpaceX -7.2% to $115.07, ~$130B Musk wealth loss, '(Former) trillionaire' quote) corroborated via cross-source search (direct WebFetch to cnbc.com blocked 403; corroborated via techbuzz.ai and BigGo Finance mirroring same figures)",
-            "href matches verified article topic",
-            "not X-sourced, no meme/satire risk"
-          ]
-        },
-        {
-          "slug": "product-nhtsa-door-safety-rulemaking-2026-07-23",
-          "verdict": "pass",
-          "newSourceLabel": "sec",
-          "reasons": [
-            "core sourceLabel sec (Reuters/NHTSA) unchanged and correct",
-            "added paragraph attributed inline to Teslarati ('테슬라라티는 24일 ... 전했다'), not blended into primary sourceLabel",
-            "no advisory tone",
-            "no hedge-to-assertion conversion",
-            "latch-fix design detail (light pull = electronic release, harder pull = mechanical release, rollout to other models) corroborated via cross-source search of teslarati.com article (direct WebFetch blocked 403)",
-            "href remains the original Reuters article; supplementary fact carries its own inline attribution, consistent with site convention (e.g. ARK card citing TipRanks)"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-25T06:30:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -813,6 +780,26 @@
             "조언톤 위반 없음(은행 상품 사실 전달, 매수·매도 권유 아님), 단정 전환 없음",
             "5개 금융사명(모건스탠리·Marex·씨티·웰스파고·RBC)·최대 50% 방어·IPO 후 고점 대비 40%↓ 모두 서브에이전트가 Bloomberg 원문 그대로 확인",
             "href-본문 일치 확인, 밈/풍자 아님"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-29T21:20:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-pallone-xai-colossus-pollution-2026-07-29",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for Reuters",
+            "no advisory tone / no price target",
+            "no hedge-to-assertion conversion — letter-sending and quoted accusation are reported as Reuters-confirmed fact, background 59-turbine claim explicitly attributed to Reuters' own prior reporting",
+            "direct WebFetch to reuters.com blocked 403; facts (Pallone identity, Colossus 1/2 in Tennessee/Mississippi, 59 turbines, no federal clean-air permits, Black communities, quote on 'disregard for the health and well-being of local communities') corroborated via cross-source search (thestar.com, yahoo.com/finance, qz.com reprints of same Reuters wire)",
+            "href matches verified article topic",
+            "not X-sourced, no meme/satire risk"
           ]
         }
       ]

@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-29T19:41:15.000Z",
+      "title": "美 하원 민주당 간사 Frank Pallone, 머스크에 <em>xAI 데이터센터 오염 의혹</em> 해명 요구",
+      "hotShort": "美 하원, 머스크에 <em>xAI 오염 의혹</em> 해명 요구",
+      "body": "하원 에너지·상업위원회 민주당 간사 Frank Pallone 의원이 머스크에게 서한을 보내 xAI 콜로서스 데이터센터의 가스터빈 배출·수질 관련 자료 제출을 요구했다 — 로이터는 앞서 콜로서스2 가스터빈 59기가 연방 대기오염 허가 없이 흑인 밀집지역 인근에 설치됐다고 보도한 바 있어, 머스크의 AI 데이터센터 확장 전략에 규제 리스크가 커지는 신호다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-pallone-xai-colossus-pollution-2026-07-29",
+      "summary": "테네시·미시시피에 있는 xAI의 '콜로서스 1·2' 데이터센터를 둘러싼 환경 논란이 정치권까지 번졌다. 하원 에너지·상업위원회 민주당 간사인 Frank Pallone 의원은 7월 29일(현지시간) 머스크에게 서한을 보내, 두 시설에 설치된 가스터빈의 배출량·허가 기록·전력·용수 사용 관련 문서 제출과 위원회 직원의 현장 방문 허용을 요구했다.\n\n발단은 로이터의 앞선 취재였다. 로이터는 xAI가 콜로서스2 프로젝트에 가스터빈 59기를 연방 대기오염 허가 없이 설치했으며, 잠재 배출량이 연방 허가가 필요한 기준치를 넘어섰고, 시설 인근이 흑인 밀집 거주지역이라고 보도했다.\n\nPallone 의원은 지난달 위원회 직원과의 면담에서 xAI(머스크 소유 SpaceX 산하)가 충분한 정보를 제공하지 않았다며, 회사가 \"지역사회의 건강과 안녕을 무시했다\"고 비판했다.\n\nxAI 자체는 테슬라 지분과 무관하지만, 머스크가 데이터센터·AI 컴퓨트 확장을 동시에 밀어붙이는 인물이라는 점에서 이번 규제 마찰은 SpaceX·xAI를 넘어 테슬라의 자체 AI 인프라 확장(기가텍사스 AI 컴퓨트 증설 등)에도 유사한 환경 심사 리스크가 번질 수 있다는 신호로 읽힌다.",
+      "title_en": "Rep. Frank Pallone presses Musk to answer for <em>xAI data-center pollution</em>",
+      "hotShort_en": "Pallone presses Musk on <em>xAI pollution</em>",
+      "body_en": "Rep. Frank Pallone, the top Democrat on the House Energy and Commerce Committee, sent Musk a letter demanding emissions and permitting records for xAI's Colossus data centers — Reuters had reported 59 gas turbines went up without federal clean-air permits near Black communities, adding regulatory-risk noise to Musk's AI buildout.",
+      "summary_en": "The environmental controversy around xAI's Colossus 1 and 2 data centers in Tennessee and Mississippi has now reached Capitol Hill. On July 29, Rep. Frank Pallone, the top Democrat on the House Energy and Commerce Committee, sent Elon Musk a letter demanding documents on the gas turbines installed at both sites, along with emissions data, permitting records, and access for committee staff to visit the facilities.\n\nThe letter follows earlier Reuters reporting that xAI installed 59 natural gas turbines for its Colossus 2 project without securing federal clean-air permits, with potential emissions exceeding thresholds that would typically require them — and that the turbines sit near predominantly Black communities.\n\nPallone said Musk's SpaceX, which owns xAI, had been unwilling to provide sufficient information during a meeting with committee staff last month, accusing the company of showing \"disregard for the health and well-being of local communities.\"\n\nxAI itself sits outside Tesla's cap table, but the scrutiny is a reminder that Musk is simultaneously racing to scale AI data-center capacity across his companies — including Tesla's own Giga Texas AI-compute buildout — and regulatory friction at one entity could foreshadow similar environmental-review risk elsewhere.",
+      "href": "https://www.reuters.com/business/media-telecom/us-house-democrat-asks-musk-answer-polluting-xai-data-centers-2026-07-29/",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2h ago",
@@ -2314,33 +2334,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3d ago",
-      "pubDate": "2026-07-16T20:00:00.000Z",
-      "title": "테슬라 주주, <em>로보택시 목표 3분기 연속 미달</em> 추궁 — 7/22 실적콜 앞두고 Say 질문 300건",
-      "hotShort": "주주, <em>로보택시 목표 3분기째 미달</em> 추궁",
-      "body": "주주 Q&A 플랫폼 Say Technologies에 올라온 최다 추천 질문 중 하나가 \"로보택시가 2025년 말 미국 50% 커버리지에서 최근 상반기 신규 7개 도시 확장까지, 3개 분기 연속 스스로 제시한 단기 목표를 놓쳤다\"며 원인을 캐물었다 — 7월22일 실적콜을 앞두고 주주들의 인내심이 한계에 달했다는 신호다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "stock-shareholder-robotaxi-questions-q2-2026-07-19",
-      "summary": "테슬라의 2분기 실적 컨퍼런스콜(7월22일)을 앞두고 주주 질문 플랫폼 Say Technologies에 약 300건의 질문이 접수됐다. 이 중 세 번째로 많은 추천을 받은 질문이 로보택시 확장 지연을 정면으로 겨냥했다.\n\n질문 원문은 \"테슬라는 2025년 말까지 미국 50% 커버리지에서 최근 상반기 신규 7개 도시 확장까지, 3개 분기 연속 스스로 제시한 단기 목표를 달성하지 못했다. 무엇이 발목을 잡고 있나\"라고 물었다.\n\n지난 4월 테슬라는 애초 '2026년 상반기'로 못박았던 발표 도시들의 로보택시 확장 시점을 '준비 진행 중'이라는 모호한 표현으로 조용히 완화한 바 있다. 대표 격인 오스틴 서비스는 출범 1년이 넘었지만 여전히 차량 약 20대 규모에 머물러 있다.\n\n실적 발표를 앞두고 주주들의 질문 톤이 장기 비전에 대한 기대에서 \"왜 약속을 못 지켰나\"는 책임 추궁으로 옮겨간 것으로 풀이된다. 옵티머스 생산 램프업과 2027년 외부 판매 일정에 대한 질문도 Say 플랫폼 상위권에 함께 올랐다.",
-      "title_en": "Tesla shareholders grill Musk on <em>robotaxi targets missed 3 quarters running</em> ahead of Q2 call",
-      "hotShort_en": "Shareholders press Tesla on <em>robotaxi misses, 3 quarters running</em>",
-      "body_en": "One of the most-upvoted shareholder questions on Tesla's Say Technologies Q&A platform accuses the company of missing its own short-term robotaxi targets three earnings reports in a row — from 50% U.S. coverage by end-2025 to just 7 new cities in 1H26 — ahead of the July 22 earnings call, a sign shareholder patience is wearing thin.",
-      "summary_en": "Roughly 300 questions have been submitted to Tesla's shareholder Q&A platform, Say Technologies, ahead of the July 22 Q2 earnings call. The third most-upvoted question takes direct aim at the company's stalled robotaxi rollout.\n\nThe question reads: \"Tesla has missed short term guidance on robotaxi 3 earnings reports in a row, from 50% coverage of USA by end of 2025 to most recently 7 new cities in 1H26. What is keeping Tesla back from accomplishing these short term goals that they've set for themselves?\"\n\nBack in April, Tesla quietly softened its robotaxi expansion timeline for its announced cities from a firm \"1H 2026\" to a vaguer \"preparations underway.\" Its flagship Austin service still runs only around 20 vehicles more than a year after launch.\n\nThe shift in tone suggests shareholders are moving from asking about Tesla's long-term vision to demanding accountability for broken short-term promises. Questions about Optimus's production ramp and its 2027 external sales timeline also ranked near the top of the Say platform.",
-      "href": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "Benzinga",
-        "Yahoo Finance"
-      ],
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-30 04:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-30 04:55 KST 자동 갱신 · 최신순"
 }
