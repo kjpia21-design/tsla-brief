@@ -103,6 +103,57 @@
       "hot": 2
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "11h ago",
+      "pubDate": "2026-07-28T17:15:00.000Z",
+      "title": "테슬라, 텍사스 <em>태양광 140MW 전력 전량 구매</em> 계약 — Zelestra와 두 번째 PPA",
+      "hotShort": "테슬라, 텍사스 <em>태양광 140MW</em> 전량 구매",
+      "body": "테슬라가 Zelestra와 텍사스 북동부 태양광 발전소 'Lumen Farm'(140MW) 전력 전량을 장기 구매하는 계약을 맺었다 — 기가팩토리 텍사스와 AI 컴퓨팅 확장에 필요한 전력을 청정에너지로 충당하려는 행보로, 지난해 스페인 57MW 계약에 이은 두 회사의 두 번째 협력이다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-zelestra-texas-solar-ppa-140mw-2026-07-28",
+      "summary": "Lumen Farm은 2027년 착공해 2029년 전면 가동을 목표로 한다. 양사는 가격 등 세부 조건은 공개하지 않았다.\n\n이는 앞서 이번 주 보도된 KKR 지원 애리조나 태양광·배터리 발전소(509MW) 장기 전력구매계약과는 별개의 계약으로, 테슬라가 최근 잇따라 대형 재생에너지 전력구매계약(PPA)을 체결하며 기가팩토리·데이터센터·AI 컴퓨팅 확장에 필요한 전력 수요를 미리 확보하는 모습이다.\n\n테슬라와 Zelestra의 협력은 지난해 스페인 카스티야라만차 지역의 57MW 태양광 PPA에서 시작됐으며, 이번 텍사스 계약으로 두 회사의 파트너십이 확대됐다.",
+      "title_en": "Tesla to buy <em>entire output of 140MW Texas solar farm</em> — second Zelestra PPA",
+      "hotShort_en": "Tesla buys <em>140MW Texas solar</em> output",
+      "body_en": "Tesla signed a long-term power purchase agreement to buy the entire output of Zelestra's 140MW \"Lumen Farm\" solar plant in northeast Texas — part of a push to lock in clean power for Gigafactory Texas and its expanding AI compute needs, and the companies' second PPA after a 57MW deal in Spain last year.",
+      "summary_en": "Lumen Farm is expected to begin construction in 2027 and reach full operation by 2029. Neither company disclosed pricing terms.\n\nThe deal is separate from this week's KKR-backed Arizona solar-and-storage PPA (509MW) reported earlier — together, the agreements reflect Tesla locking in renewable power ahead of growing demand from its factories, data centers, and AI compute buildout.\n\nTesla and Zelestra's partnership began with a 57MW solar PPA in Spain's Castilla-La Mancha region last year, and this Texas deal expands that relationship.",
+      "href": "https://electrek.co/2026/07/28/tesla-buys-texas-solar-farm-output-zelestra/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Yahoo Finance",
+        "Interesting Engineering"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "12h ago",
+      "pubDate": "2026-07-28T16:45:00.000Z",
+      "title": "테슬라, 유럽 FSD Supervised 자체 데이터 공개 — <em>수동운전보다 충돌 5.2배 적어</em>",
+      "hotShort": "테슬라 유럽 FSD, <em>충돌 5.2배 적어</em> 자체 발표",
+      "body": "테슬라가 4월부터 네덜란드·리투아니아·에스토니아·덴마크·벨기에 5개국에서 모은 6,500만km 주행 데이터를 공개해, FSD Supervised 사용 시 충돌이 수동운전 대비 5.2배 적었다고 밝혔다 — 유럽 규제당국의 FSD 승인 확대를 뒷받침할 근거가 될 수 있지만, 테슬라 자체 집계로 아직 독립적 검증은 없다.",
+      "sourceName": "TeslaNorth",
+      "sourceLabel": "press",
+      "slug": "fsd-eu-supervised-safety-data-5x-2026-07-28",
+      "summary": "고속도로 구간에서는 격차가 더 컸다. 테슬라에 따르면 FSD Supervised는 고속도로 4,190만km 주행 동안 충돌이 한 건도 없었던 반면, 수동운전(능동 안전기능 포함)은 4억2,930만km에 88건의 충돌이 발생해 8.5배 격차를 보였다. 일반도로에서는 FSD Supervised가 2,380만km에 6건, 수동운전이 5억1,450만km에 368건으로 격차가 2.8배로 좁혀졌다.\n\n테슬라는 이 기간 자동긴급제동 개입이 13.4배, 급가속이 9.2배, 급제동이 7.1배, 급회전(하드 스워브)이 7.6배 각각 줄었다고도 덧붙였다.\n\n다만 이번 수치는 테슬라가 직접 집계·공개한 것으로, 국가별 규제기관이나 제3자 기관의 독립 검증을 거치지 않았다. 지난 6월 로이터·Electrek 보도로, 테슬라가 스웨덴·네덜란드 규제당국에 FSD로 연간 3만2,000명의 생명을 구할 수 있다는 취지의 통계를 제시했다가, 검토한 독립 교통안전 연구자 11명 중 10명으로부터 '오해 소지가 있는 마케팅'이라는 지적을 받은 전례가 있어, 이번 데이터도 신중한 해석이 필요하다는 지적이 나온다.\n\n그럼에도 이번 발표는 테슬라가 유럽에서 FSD 승인 확대를 추진하는 시점에 나온 것으로, 향후 각국 규제당국의 심사에 어떤 영향을 줄지 주목된다.",
+      "title_en": "Tesla publishes EU FSD Supervised data — <em>5.2x fewer collisions</em> than manual driving",
+      "hotShort_en": "Tesla EU FSD: <em>5.2x fewer collisions</em>",
+      "body_en": "Tesla says FSD Supervised was involved in 5.2x fewer collisions than manual driving over 65 million km driven since April across the Netherlands, Lithuania, Estonia, Denmark and Belgium — a data point that could bolster Tesla's push for wider FSD approval in Europe, though the figures are self-published and haven't been independently audited.",
+      "summary_en": "The gap was widest on highways: Tesla says FSD Supervised logged zero collisions over 41.9 million km, versus 88 collisions over 429.3 million km for manual driving with active safety features — an 8.5x margin. On non-highway roads, the gap narrowed to 2.8x, with FSD Supervised at 6 collisions over 23.8 million km versus 368 collisions over 514.5 million km for manual driving.\n\nTesla also reported 13.4x fewer automatic emergency braking interventions, 9.2x less harsh acceleration, 7.1x less harsh braking, and 7.6x fewer hard swerves under FSD Supervised.\n\nThe figures are Tesla's own, without independent verification from regulators or third parties. In June, Reuters and Electrek reported that Tesla had presented Swedish and Dutch regulators with claims that FSD could save 32,000 lives a year — statistics that 10 of 11 independent traffic-safety researchers who reviewed the methodology called misleading marketing rather than a rigorous safety study, adding context for how this new dataset should be read.\n\nThe release lands as Tesla continues pressing European regulators for broader FSD approval, making the reception from national safety authorities worth watching.",
+      "href": "https://teslanorth.com/2026/07/28/tesla-reveals-fsd-supervised-is-5-2x-safer-than-manual-driving-in-europe/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "TeslaNorth",
+        "Zecar"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
@@ -2285,52 +2336,7 @@
       ],
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-16T09:15:25.000Z",
-      "title": "텍사스 무인 로보택시 <em>175대</em>로 급증 — 하루 만에 50% 확장",
-      "hotShort": "무인 로보택시 <em>175대</em>로 하루새 50%↑",
-      "body": "테슬라가 7월15일 하루 만에 모델Y <em>58대</em>를 추가 등록해 텍사스 무인 로보택시(안전요원 없음) 대수가 117대에서 <em>175대</em>로 늘었다 — 웨이모(642대)·Avride(317대)에는 여전히 못 미치지만, 격차를 좁히는 속도가 한 달 전보다 빨라지고 있다는 신호다.",
-      "sourceName": "Electric-Vehicles.com",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-texas-117-2026-07-14",
-      "summary": "텍사스 주정부 차량 등록 자료에 따르면, 테슬라는 7월15일 하루에만 모델Y <em>58대</em>를 무인 로보택시(안전요원 미탑승) 용도로 신규 등록했다. 이로써 텍사스 전역의 테슬라 무인 로보택시 등록 대수는 기존 117대에서 <em>175대</em>로, 하루 만에 약 <em>50%</em> 늘었다.\n\n이는 테슬라가 차량을 한두 대씩 찔끔 투입하는 게 아니라, 수요 흡수를 준비하며 의미 있는 단위로 한꺼번에 배치하고 있다는 신호로 읽힌다.\n\n비교 대상인 웨이모는 텍사스에 <em>642대</em>, Avride는 <em>317대</em>를 등록해 테슬라는 여전히 3위다. 다만 한 달 전과 비교하면 격차가 좁혀지는 속도 자체는 빨라지고 있다.\n\n테슬라 로보택시망은 오스틴을 중심으로 댈러스·휴스턴·마이애미까지 4개 도시로 확장돼 있다. 배런스가 최근 \"테슬라 주가 가치의 92~93%가 로봇·로보택시에서 나온다\"고 짚었을 만큼, 무인 차량 등록 대수 증가는 로보택시 상업화 속도를 가늠하는 실질적 지표로 투자자들이 주시하는 항목이다.",
-      "title_en": "Texas driverless Tesla Robotaxi fleet jumps to <em>175</em> — up 50% in a single day",
-      "hotShort_en": "Texas Robotaxi fleet hits <em>175</em>, up 50% in a day",
-      "body_en": "Tesla registered <em>58</em> more Model Ys for driverless Robotaxi service in Texas on July 15, pushing the state's registered fleet from 117 to <em>175</em> — still trailing Waymo (642) and Avride (317), but closing the gap faster than a month ago.",
-      "summary_en": "Texas vehicle registration records show Tesla added <em>58</em> new Model Ys to its driverless (no safety driver) Robotaxi fleet in a single day on July 15 — pushing the state's total registered fleet from 117 to <em>175</em>, a roughly <em>50%</em> jump.\n\nThe single-day batch suggests Tesla is no longer trickling cars into the fleet one or two at a time, but adding them in meaningful chunks as it prepares to absorb more ride demand.\n\nFor comparison, Waymo has <em>642</em> registered vehicles in Texas and Avride has <em>317</em>, keeping Tesla in third place. Still, the pace at which Tesla is closing that gap has picked up compared with a month ago.\n\nTesla's Robotaxi network now spans four Texas-area cities — Austin, Dallas, Houston, and Miami. With Barron's recently estimating that 92-93% of Tesla's stock valuation rests on robots and Robotaxi, the driverless fleet count remains a closely watched gauge of how fast the commercial rollout is actually scaling.",
-      "href": "https://eletric-vehicles.com/tesla/tesla-expands-model-y-robotaxi-fleet-in-texas-by-50-in-a-single-day/",
-      "sentiment": "bull",
-      "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-16T05:01:00.000Z",
-      "title": "스페이스X 주가, 사상 최고가 대비 <em>33% 급락</em> — 8월 유통물량 확대 앞두고 공매도 $39억 육박",
-      "hotShort": "스페이스X, 고점 대비 <em>33% 급락</em> — 유통물량 확대 목전",
-      "body": "스페이스X 주가가 7월15일 장중 $132.15까지 밀렸다가 $135.27로 마감해 사상 최고 종가($201.80) 대비 <em>33%</em> 하락한 상태를 유지했다 — 8월 실적발표를 기점으로 락업 해제가 본격화돼 12월8일까지 유통 가능 지분이 <em>40%</em>까지 늘어날 예정인 가운데, 공매도 평가익도 <em>$38억8000만</em>에 육박해 추가 매도 압력 우려가 커지는 신호다. 다만 캐시 우드의 ARK는 이번에도 <em>저가 매수</em>에 나서며 IPO 이후 세 번째 '하락장 베팅'을 이어갔다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-below-ipo-price-first-time-2026-07-15",
-      "summary": "로이터에 따르면 스페이스X(SPCX) 주가는 7월15일(현지시간) 장중 한때 $132.15까지 밀렸다가 $135.27로 거래를 마쳤다. 이는 지난 6월16일 기록한 사상 최고 종가 $201.80 대비 <em>33%</em> 하락한 수준이다.\n\n스페이스X는 오는 8월 분기 실적발표를 기점으로 유통 가능 지분이 단계적으로 늘어난다. 주가가 $175.50 이상을 10거래일 중 5거래일 이상 유지하면 <em>4억5580만 주</em>가 추가로 매도 가능해지는 조건부 락업 해제 조항이 있고, 이와 별개로 12월8일까지 시간 경과에 따른 락업 해제가 이어지며 전체 유통 가능 지분은 <em>40%</em>까지 확대된다. 다만 일론 머스크 지분을 포함한 나머지 <em>60%</em>는 2027년 중반까지 계속 잠겨 있다.\n\n블룸버그에 따르면 스페이스X에 베팅한 공매도 세력의 평가이익은 <em>$38억8000만</em>에 육박한 것으로 집계됐다 — 주가가 IPO가 $135 부근까지 밀리며 공매도 포지션의 수익성이 커진 결과다.\n\n이번 급락으로 스페이스X 밸류에이션은 예상 매출 대비 <em>49배</em> 수준까지 낮아졌다. 다만 월가 애널리스트 32명 중 27명은 여전히 '매수' 의견을 유지하고 있어(매도 1명·중립 4명), 장기 전망 자체는 크게 흔들리지 않은 모습이다.\n\n한편 배런스에 따르면 캐시 우드의 ARK 인베스트는 이번에도 하락을 매수 기회로 삼았다 — IPO 이후 세 번째 '저가 매수'로, 상장 당일에도 약 330만 주를 사들인 데 이어 지난달 대규모 조정 때 추가로 $3200만어치를 매수한 바 있다. 우드는 스페이스X가 AI·데이터센터·항공우주 사업을 발판으로 2030년까지 최대 기업가치 $3조1000억에 이를 수 있다는 확신을 걸고 있다고 밝혔다. 스페이스X는 테슬라 보유 종목은 아니지만 일론 머스크가 이끄는 관계사로, 그의 자산 가치와 밀접해 테슬라 주주들도 참고할 만한 신호다.",
-      "title_en": "SpaceX shares still <em>down 33%</em> from record high as August lockup expiry looms",
-      "hotShort_en": "SpaceX stock <em>33% below peak</em> as lockups near",
-      "body_en": "SpaceX shares dipped to $132.15 intraday on July 15 before closing at $135.27, still <em>33%</em> below their record closing high of $201.80 — with lockup restrictions set to lift progressively after August earnings, expanding the tradeable float to <em>40%</em> by December 8, while short sellers' paper profits near <em>$3.88 billion</em>. Cathie Wood's ARK, however, <em>bought the dip</em> again — its third such move since the IPO.",
-      "summary_en": "SpaceX (SPCX) shares briefly fell to $132.15 on July 15 before closing at $135.27, according to Reuters — down <em>33%</em> from the stock's all-time closing high of $201.80 set on June 16.\n\nThe tradeable float is set to expand in stages starting with SpaceX's August earnings report. A conditional clause would release an additional <em>455.8 million shares</em> if the stock trades above $175.50 for at least five of ten consecutive sessions through the earnings date; separately, time-based lockup restrictions lifting through December 8 will raise the tradeable float to <em>40%</em> of total shares. The remaining <em>60%</em>, including Elon Musk's stake, stays locked until mid-2027.\n\nShort sellers betting against SpaceX have seen paper profits climb to nearly <em>$3.88 billion</em>, Bloomberg reported, as the stock hovers near its $135 IPO price.\n\nThe selloff has pulled SpaceX's valuation down to <em>49 times</em> expected revenue. Still, 27 of 32 Wall Street analysts covering the stock rate it a buy (versus one sell and four neutral), suggesting the long-term thesis remains largely intact.\n\nMeanwhile, Barron's reported that Cathie Wood's ARK Invest treated the drop as another buying opportunity — its third dip-buy since the IPO, after scooping up roughly 3.3 million shares on debut day and adding another <em>$32 million</em> during last month's selloff. Wood has said her conviction rests on SpaceX potentially reaching an enterprise value of up to <em>$3.1 trillion</em> by 2030, driven by its AI, data center, and aerospace businesses. SpaceX isn't a Tesla holding, but as an Elon Musk-led affiliate, its valuation swings feed into the broader Musk wealth narrative that Tesla shareholders often track.",
-      "href": "https://www.reuters.com/legal/transactional/spacex-selloff-an-ominous-sign-lockup-expiry-looms-2026-07-16/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "Bloomberg"
-      ],
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-29 08:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-29 06:50 KST 자동 갱신 · 최신순"
 }
