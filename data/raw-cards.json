@@ -1,37 +1,24 @@
 {
-  "asOf": "2026-07-29 19:25 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-29 21:02 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "31m ago",
-      "pubDate": "2026-07-29T18:54:42.000Z",
-      "title": "Tesla Stock May Have 80% Downside, But Here’s Why It’s Too Risky to Short It",
-      "body": "Tesla Stock May Have 80% Downside, But Here’s Why It’s Too Risky to Short It MarketWise",
-      "sourceName": "MarketWise",
+      "time": "33m ago",
+      "pubDate": "2026-07-29T20:29:00.000Z",
+      "title": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk",
+      "body": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://marketwise.com/investing/tesla-stock-may-have-80-percent-downside-here-is-why-too-risky-to-short-sell/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-07-29T17:46:06.000Z",
-      "title": "Tesla (TSLA Stock) Expands Renewable Energy Strategy with Landmark Solar and Battery PPAs",
-      "body": "Tesla (TSLA Stock) Expands Renewable Energy Strategy with Landmark Solar and Battery PPAs CarbonCredits.com",
-      "sourceName": "CarbonCredits.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://carboncredits.com/tesla-tsla-stock-expands-renewable-energy-strategy-with-landmark-solar-and-battery-ppas/"
+      "href": "https://www.barrons.com/articles/tesla-stock-price-trillion-dollars-a53cdd8b"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-29T16:27:23.000Z",
+      "time": "1h ago",
+      "pubDate": "2026-07-29T19:41:15.000Z",
       "title": "US House Democrat asks Musk to answer for polluting xAI data centers",
       "body": "US House Democrat asks Musk to answer for polluting xAI data centers Reuters",
       "sourceName": "Reuters",
@@ -43,7 +30,46 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-29T19:40:13.000Z",
+      "title": "Elon Musk sheds two new bits of detail on Starship after 13th test launch",
+      "body": "Elon Musk shed two new bits of detail on Starship following its 13th test launch, which was an overwhelming success. SpaceX launched Starship for the 13th time last Friday after two delays: one on Monday when several Rap…",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/elon-musk-sheds-two-new-bits-detail-starship-after-13th-test-launch/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-29T18:54:42.000Z",
+      "title": "Tesla Stock May Have 80% Downside, But Here’s Why It’s Too Risky to Short It",
+      "body": "Tesla Stock May Have 80% Downside, But Here’s Why It’s Too Risky to Short It MarketWise",
+      "sourceName": "MarketWise",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://marketwise.com/investing/tesla-stock-may-have-80-percent-downside-here-is-why-too-risky-to-short-sell/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "3h ago",
+      "pubDate": "2026-07-29T17:58:36.000Z",
+      "title": "Elon Musk",
+      "body": "Elon Musk CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/elon-musk/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
       "pubDate": "2026-07-29T16:12:56.000Z",
       "title": "SpaceX Starship Heat Shield Can’t Support Rapid Flights, Experts Say",
       "body": "SpaceX Starship Heat Shield Can’t Support Rapid Flights, Experts Say Bloomberg.com",
@@ -54,22 +80,9 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-29/spacex-starship-heat-shield-can-t-support-rapid-flights-experts"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-07-29T15:07:00.000Z",
-      "title": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk",
-      "body": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-trillion-dollars-a53cdd8b"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-29T13:59:48.000Z",
       "title": "This superyacht hits different.",
       "body": "This superyacht hits different. https://t.co/H7lBROfFW5",
@@ -80,22 +93,9 @@
       "href": "https://x.com/yunta_tsai/status/2082466123019370653"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-07-29T13:58:07.000Z",
-      "title": "Because he would incriminate himself.",
-      "body": "Because he would incriminate himself. https://t.co/Iu3jibgVQI https://t.co/1uWKNH9gUA",
-      "sourceName": "Elon Musk (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/elonmusk/status/2082465700401361192"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-29T13:49:44.000Z",
       "title": "New Tesla Supercharger: Stryków, Poland (8 stalls)",
       "body": "New Tesla Supercharger: Stryków, Poland (8 stalls) https://t.co/XPUltCx0Vm https://t.co/dteenf9Poy",
@@ -108,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-29T13:46:21.000Z",
       "title": "This superyacht looks different.",
       "body": "This superyacht looks different. https://t.co/H7lBROfFW5",
@@ -121,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-29T13:39:34.000Z",
       "title": "There are NIMBYs that would stop you from building anything in the real world. There are NIMBYs that would slow you d…",
       "body": "There are NIMBYs that would stop you from building anything in the real world. There are NIMBYs that would slow you down from building anything in the digital world. Whatever it is, don't stop building, because to build …",
@@ -134,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-29T12:18:50.000Z",
       "title": "It seems like the sport of moving the goalposts is the current thing right now when it comes to space, AI, energy, au…",
       "body": "It seems like the sport of moving the goalposts is the current thing right now when it comes to space, AI, energy, autonomy and just seeing a more positive and exciting future. I see so many real and fake accounts subscr…",
@@ -147,7 +147,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-29T12:17:11.000Z",
       "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, AMD, Snowflake, Disney, Reddit, Broadcom & more",
       "body": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, AMD, Snowflake, Disney, Reddit, Broadcom & more CNBC",
@@ -158,22 +158,9 @@
       "href": "https://www.cnbc.com/2026/07/29/biggest-analyst-calls-on-wall-street-include-nvidia-amd.html"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
-      "pubDate": "2026-07-29T12:06:42.000Z",
-      "title": "Wall Street Races to Sell SpaceX-Linked Products as Stock Sinks",
-      "body": "Wall Street Races to Sell SpaceX-Linked Products as Stock Sinks Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-29/wall-street-races-to-sell-spacex-linked-products-as-stock-sinks"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-28T23:44:24.000Z",
       "title": "Tesla Model S Breaks Crash Test Machine",
       "body": "Tesla Model S Breaks Crash Test Machine Teslarati",
@@ -186,15 +173,15 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23h ago",
-      "pubDate": "2026-07-28T20:18:00.000Z",
-      "title": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying",
-      "body": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying Barron's",
-      "sourceName": "Barron's",
+      "time": "22h ago",
+      "pubDate": "2026-07-28T22:40:03.000Z",
+      "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
+      "body": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla InsideEVs",
+      "sourceName": "InsideEVs",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-cathie-wood-ark-buy-4eb33bbe"
+      "href": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch/"
     },
     {
       "category": "stock",
@@ -225,15 +212,15 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-07-27T20:23:00.000Z",
-      "title": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations.",
-      "body": "Tesla Stock Just Erased a Year of Gains. Why It’s Suffering Under Expectations. Barron's",
-      "sourceName": "Barron's",
+      "time": "5d ago",
+      "pubDate": "2026-07-24T17:28:15.000Z",
+      "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
+      "body": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-loses-year-gains-6acf48c3"
+      "href": "https://www.cnbc.com/2026/07/24/trader-who-successfully-shorted-tesla-into-earnings-now-sets-sights-on-this-high-flyer-.html"
     },
     {
       "category": "product",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "6d ago",
+      "pubDate": "2026-07-23T13:52:26.000Z",
+      "title": "Tesla shares tumble 11% after discounts hit profits",
+      "body": "Tesla shares tumble 11% after discounts hit profits Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/dc5e629b-562c-41e3-8b89-350af6960adc?syn-25a6b1a6"
     }
   ]
 }
