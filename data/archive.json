@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-29T10:00:00.000Z",
+      "title": "그동안 비판적이던 AMCI Testing, 테슬라 FSD 14.3.4엔 <em>\"뚜렷한 개선\"</em> 인정",
+      "hotShort": "AMCI, FSD 14.3.4에 <em>보기 드문 호평</em>",
+      "body": "테슬라 FSD를 여러 차례 비판적으로 평가해온 독립 평가기관 AMCI Testing이 최신 FSD(감독형) 14.3.4 업데이트에는 '뚜렷한 개선'이 있다고 밝혔다 — 다만 '아직 완성된 단계는 아니다'라는 유보는 그대로 남겼다.",
+      "sourceName": "AMCI Testing",
+      "sourceLabel": "press",
+      "slug": "fsd-amci-testing-1434-tone-shift-2026-07-29",
+      "summary": "AMCI Testing은 자동차 성능·자율주행 시스템을 독립적으로 평가하는 전문기관으로, 그동안 테슬라 FSD에 대해 줄곧 비판적인 평가를 내놨다. 2024년 발표한 1,000마일 평가에서는 평균 11~13마일마다 운전자 개입이 필요하다고 지적했고, '자율주행 택시 업무를 감당할 수 없다', '신뢰할 수 없는 성능과 위험할 수 있는 불일치를 재확인했다'는 표현까지 썼다.\n\n이런 전례에 비춰볼 때, AMCI가 29일 발표한 최신 FSD(감독형) 14.3.4 평가는 눈에 띄는 톤 변화다 — 보도자료 제목부터 '뚜렷한 개선을 보여준다'고 명시했다.\n\n다만 AMCI는 이번에도 무조건적인 인정은 피했다 — 같은 제목에 '여전히 진행 중인 작업(work in progress)'이라는 표현을 그대로 남겨, 개선은 인정하지만 완성 단계로는 보지 않는다는 입장을 분명히 했다. 테슬라가 감독 없는 FSD로 넘어가려면 이런 독립 평가기관의 반복적인 통과가 필요한 만큼, 다음 버전에서 이 유보가 얼마나 해소될지가 관전 포인트다.",
+      "title_en": "AMCI Testing, long critical of Tesla FSD, credits 14.3.4 with <em>\"significant improvement\"</em>",
+      "hotShort_en": "AMCI gives FSD 14.3.4 a <em>rare positive nod</em>",
+      "body_en": "AMCI Testing, an independent evaluator that has repeatedly criticized Tesla's FSD in the past, says the latest FSD (Supervised) 14.3.4 update shows \"significant improvement\" — while still stopping short of calling it finished, keeping its \"work in progress\" caveat.",
+      "summary_en": "AMCI Testing is an independent firm that evaluates vehicle performance and autonomous-driving systems, and its track record on Tesla FSD has been consistently critical. Its 2024 1,000-mile evaluation found the system needed driver intervention roughly every 11 to 13 miles, and its releases have used language like \"not capable of self-driven taxi duty\" and \"unreliable performance and potentially dangerous inconsistencies.\"\n\nAgainst that backdrop, the assessment AMCI published on July 29 for the latest FSD (Supervised) 14.3.4 update marks a notable shift in tone — the release's headline itself states the update \"demonstrates significant improvement.\"\n\nAMCI still avoided an unqualified endorsement, though — the same headline keeps the phrase \"still a work in progress,\" making clear the firm sees real progress without calling the system finished. With Tesla working toward unsupervised FSD, whether independent evaluators like AMCI keep giving passing grades on future releases remains the thing to watch.",
+      "href": "https://www.prnewswire.com/news-releases/amci-testing-demonstrates-significant-improvement-in-latest-tesla-fsd-supervised-14-3-4-update-but-it-is-still-a-work-in-progress-302837108.html",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
@@ -2313,31 +2333,6 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-16T16:37:06.000Z",
-      "title": "NHTSA, 테슬라 모델3·Y <em>헤드라이트 리콜 이의신청 기각</em> — 2017~2023년식 약 2만대",
-      "hotShort": "NHTSA, 테슬라 <em>헤드라이트 리콜 이의 기각</em>",
-      "body": "美 도로교통안전국(NHTSA)이 2017~2023년식 모델3·모델Y 약 <em>1만9900대</em>의 헤드라이트 리콜을 피하려던 테슬라의 이의신청을 기각했다 — 공급사 마렐리의 자체 시험에서도 광도 기준 초과가 확인됐는데, 테슬라는 \"사고·부상과 무관해 안전에 지장 없다\"고 주장했지만 NHTSA는 \"주변 교통·운전자 눈부심 위험이 늘어난다\"며 무상 시정을 명령했다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-nhtsa-headlight-recall-model3-y-2026-07-16",
-      "summary": "美 도로교통안전국(NHTSA)이 15일(현지시간) 테슬라가 제기한 헤드라이트 리콜 면제 이의신청을 기각했다고 밝혔다. 대상은 2017~2023년식 모델3·모델Y 약 <em>1만9900대</em>다.\n\n문제가 된 것은 헤드라이트의 광도(밝기)다. 테슬라의 헤드램프 공급사인 마렐리 오토모티브 라이팅이 자체 시험한 결과, 우측 램프 최대 광도는 <em>136.2~230.1cd</em>, 좌측 램프는 <em>117.5~160.3cd</em> 범위로 측정돼 연방 기준을 초과한 것으로 나타났다.\n\n테슬라는 2024년 이 사안에 대해 \"안전에 지장이 없는 경미한 부적합\"이라며 리콜·소비자 통보 없이 넘어가게 해달라는 이의신청을 냈다. 해당 결함으로 인한 사고·부상·소비자 불만 신고가 없었다는 점을 근거로 들었다.\n\n그러나 NHTSA는 테슬라의 결론에 동의하지 않았다. 주변 차량 운전자와 해당 차량 운전자 모두에게 눈부심(글레어) 위험이 커진다고 판단해, 테슬라에 결함 사실을 소비자에게 통보하고 무상으로 시정할 의무를 부과했다.\n\n이번 결정은 규제기관이 테슬라의 '무해 판정' 논리를 받아들이지 않은 사례로, 향후 유사한 컴플라이언스 이슈에서 테슬라가 이의신청 전략을 계속 쓸 수 있을지에 대한 참고 사례가 될 전망이다.",
-      "title_en": "NHTSA rejects Tesla's bid to avoid headlight recall for <em>~19,900</em> Model 3s and Model Ys",
-      "hotShort_en": "NHTSA rejects Tesla's <em>headlight recall appeal</em>",
-      "body_en": "The NHTSA denied Tesla's petition to avoid a recall covering roughly <em>19,900</em> 2017-2023 Model 3 and Model Y vehicles over headlights that exceed brightness limits — Tesla argued the issue was inconsequential, but the agency said it increases glare risk for drivers and other traffic and ordered a free remedy.",
-      "summary_en": "The National Highway Traffic Safety Administration said on July 15 that it has denied a petition from Tesla seeking to avoid a recall over headlight noncompliance affecting roughly <em>19,900</em> Model 3 and Model Y vehicles from model years 2017-2023.\n\nAt issue is the brightness of the headlights. Testing by Tesla's headlamp supplier, Marelli Automotive Lighting, found maximum photometric intensity readings between <em>136.2 and 230.1 candela</em> for the right-hand lamps and <em>117.5 to 160.3 candela</em> for the left-hand lamps — exceeding federal limits.\n\nTesla filed the petition in 2024, arguing the noncompliance was inconsequential to motor vehicle safety and that no crashes, injuries, or complaints had been tied to the issue, seeking to avoid both a formal recall and customer notification.\n\nNHTSA disagreed with Tesla's conclusion, finding the excess brightness increases glare risk for both surrounding traffic and the vehicle's own driver. The agency is requiring Tesla to notify affected owners and provide a free remedy.\n\nThe decision marks another instance of the agency rejecting Tesla's inconsequential-noncompliance argument, and could be a reference point for how far Tesla can lean on that strategy in future compliance disputes.",
-      "href": "https://www.teslarati.com/tesla-fix-big-problem-old-headlights-nhtsa-says/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Reuters"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
   "asOf": "2026-07-29 19:50 KST 자동 갱신 · 최신순"

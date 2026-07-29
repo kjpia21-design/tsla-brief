@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-07-29T10:00:00.000Z",
+      "title": "그동안 비판적이던 AMCI Testing, 테슬라 FSD 14.3.4엔 <em>\"뚜렷한 개선\"</em> 인정",
+      "hotShort": "AMCI, FSD 14.3.4에 <em>보기 드문 호평</em>",
+      "body": "테슬라 FSD를 여러 차례 비판적으로 평가해온 독립 평가기관 AMCI Testing이 최신 FSD(감독형) 14.3.4 업데이트에는 '뚜렷한 개선'이 있다고 밝혔다 — 다만 '아직 완성된 단계는 아니다'라는 유보는 그대로 남겼다.",
+      "sourceName": "AMCI Testing",
+      "sourceLabel": "press",
+      "slug": "fsd-amci-testing-1434-tone-shift-2026-07-29",
+      "summary": "AMCI Testing은 자동차 성능·자율주행 시스템을 독립적으로 평가하는 전문기관으로, 그동안 테슬라 FSD에 대해 줄곧 비판적인 평가를 내놨다. 2024년 발표한 1,000마일 평가에서는 평균 11~13마일마다 운전자 개입이 필요하다고 지적했고, '자율주행 택시 업무를 감당할 수 없다', '신뢰할 수 없는 성능과 위험할 수 있는 불일치를 재확인했다'는 표현까지 썼다.\n\n이런 전례에 비춰볼 때, AMCI가 29일 발표한 최신 FSD(감독형) 14.3.4 평가는 눈에 띄는 톤 변화다 — 보도자료 제목부터 '뚜렷한 개선을 보여준다'고 명시했다.\n\n다만 AMCI는 이번에도 무조건적인 인정은 피했다 — 같은 제목에 '여전히 진행 중인 작업(work in progress)'이라는 표현을 그대로 남겨, 개선은 인정하지만 완성 단계로는 보지 않는다는 입장을 분명히 했다. 테슬라가 감독 없는 FSD로 넘어가려면 이런 독립 평가기관의 반복적인 통과가 필요한 만큼, 다음 버전에서 이 유보가 얼마나 해소될지가 관전 포인트다.",
+      "title_en": "AMCI Testing, long critical of Tesla FSD, credits 14.3.4 with <em>\"significant improvement\"</em>",
+      "hotShort_en": "AMCI gives FSD 14.3.4 a <em>rare positive nod</em>",
+      "body_en": "AMCI Testing, an independent evaluator that has repeatedly criticized Tesla's FSD in the past, says the latest FSD (Supervised) 14.3.4 update shows \"significant improvement\" — while still stopping short of calling it finished, keeping its \"work in progress\" caveat.",
+      "summary_en": "AMCI Testing is an independent firm that evaluates vehicle performance and autonomous-driving systems, and its track record on Tesla FSD has been consistently critical. Its 2024 1,000-mile evaluation found the system needed driver intervention roughly every 11 to 13 miles, and its releases have used language like \"not capable of self-driven taxi duty\" and \"unreliable performance and potentially dangerous inconsistencies.\"\n\nAgainst that backdrop, the assessment AMCI published on July 29 for the latest FSD (Supervised) 14.3.4 update marks a notable shift in tone — the release's headline itself states the update \"demonstrates significant improvement.\"\n\nAMCI still avoided an unqualified endorsement, though — the same headline keeps the phrase \"still a work in progress,\" making clear the firm sees real progress without calling the system finished. With Tesla working toward unsupervised FSD, whether independent evaluators like AMCI keep giving passing grades on future releases remains the thing to watch.",
+      "href": "https://www.prnewswire.com/news-releases/amci-testing-demonstrates-significant-improvement-in-latest-tesla-fsd-supervised-14-3-4-update-but-it-is-still-a-work-in-progress-302837108.html",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
@@ -181,27 +201,7 @@
       ],
       "sentiment": "bear",
       "hot": 8
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-07-28T12:32:46.000Z",
-      "title": "RBC, 테슬라 목표주가 <em>$500→$480 하향</em> — '아웃퍼폼' 등급은 유지",
-      "hotShort": "RBC, 목표주가 <em>$480으로 하향</em>·매수의견 유지",
-      "body": "RBC캐피탈마켓츠가 테슬라 목표주가를 $500에서 $480으로 낮췄다 — 밸류에이션에 반영해온 스페이스X 관련 시너지 기대치를 조정한 결과로, 다만 '아웃퍼폼'(매수 상당) 등급은 그대로 유지해 근본적 투자의견에는 변화가 없다.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "stock-rbc-pt-480-spacex-synergies-2026-07-28",
-      "summary": "테슬라 2분기 실적 발표(7월23일) 이후 월가 애널리스트들의 목표주가 조정이 이어지는 가운데, RBC캐피탈마켓츠가 목표주가를 $500에서 $480으로 낮췄다.\n\n하향 배경은 테슬라 밸류에이션에 반영해온 스페이스X 관련 시너지 기대치 조정으로 전해진다 — 공교롭게도 같은 날 스페이스X 주가가 상장 후 처음 공모가 밑으로 떨어지며 6월 고점 대비 $1.2조가 증발한 사실도 함께 보도됐다.\n\n다만 RBC는 '아웃퍼폼' 등급은 그대로 유지했다. 목표주가는 낮췄지만 테슬라에 대한 근본적 투자의견 자체를 바꾼 것은 아니라는 의미다.\n\n이는 실적 발표 이후 목표주가를 하향한 다수 애널리스트 대열에 RBC도 합류한 것으로, 웨드부시 댄 아이브스처럼 $600 목표주가를 그대로 유지 중인 강세론 진영과는 대비된다.",
-      "title_en": "RBC <em>cuts Tesla target to $480</em> from $500 — keeps Outperform rating",
-      "hotShort_en": "RBC trims target to <em>$480</em>, keeps Outperform",
-      "body_en": "RBC Capital Markets lowered its Tesla price target to $480 from $500, citing revised SpaceX-related synergy assumptions baked into its valuation — but kept its Outperform rating intact, signaling no change to its underlying bullish stance.",
-      "summary_en": "As Wall Street analysts continue adjusting Tesla targets following the company's July 23 second-quarter earnings report, RBC Capital Markets trimmed its price target to $480 from $500.\n\nThe cut is tied to revised SpaceX-related synergy expectations built into RBC's valuation model — notably on the same day SpaceX shares fell below their IPO price for the first time, erasing $1.2 trillion in value from their June peak.\n\nRBC nonetheless kept its Outperform rating unchanged, meaning the lower target doesn't reflect a shift in the firm's underlying bullish view on the stock.\n\nRBC joins a broader group of analysts trimming targets since earnings, in contrast to bulls like Wedbush's Dan Ives, who has held his $600 target.",
-      "href": "https://www.cnbc.com/2026/07/28/tuesday-big-analyst-calls-on-wall-street-include-spacex.html",
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-29 19:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-29 22:15 KST 자동 갱신 · 최신순"
 }
