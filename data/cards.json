@@ -1,6 +1,85 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-07-29T16:57:00.000Z",
+      "title": "테슬라, 기가텍사스 AI 컴퓨트 상반기 만에 <em>2배 증설</em> — 연말 400MW 목표",
+      "hotShort": "테슬라, 텍사스 AI 컴퓨트 <em>상반기 2배 증설</em>",
+      "body": "테슬라가 기가텍사스 AI 학습 컴퓨트를 2026년 상반기 동안 2배로 늘렸다 — 코텍스1 90MW에 신규 코텍스2 115MW를 더해 총 205MW 규모, 연말 목표는 400MW(연간 기준 3배)다. FSD·로보택시·옵티머스 신경망을 학습시키는 핵심 인프라라 대규모 AI 투자가 실제 능력으로 이어지는지 보여주는 지표다.",
+      "sourceName": "Not a Tesla App",
+      "sourceLabel": "press",
+      "slug": "product-cortex2-texas-ai-compute-double-2026-07-29",
+      "summary": "새로 가동한 코텍스2는 약 10만 개 규모의 GPU를 24시간 가동 중인 것으로 알려졌다(정확한 총 GPU 수는 테슬라가 별도로 공개하지 않음). 기가텍사스 부지 안에 지어진 이 시설은 테슬라가 전 세계 차량 플릿에서 수집한 수십억 프레임의 주행 영상을 학습에 투입하는 핵심 거점이다.\n\n용량 기준으로 보면 기존 코텍스1(90MW)에 코텍스2(115MW)가 더해져 총 약 205MW — 2026년 상반기에만 2배로 늘어난 셈이다. 테슬라는 연말까지 전체 용량을 약 400MW까지 끌어올린다는 목표를 제시했는데, 이는 올해 한 해로 보면 3배 규모의 확장이다.\n\n이 컴퓨트는 FSD와 로보택시, 옵티머스가 공유하는 엔드투엔드 신경망 학습에 쓰인다. 세 제품군 모두 같은 데이터·같은 인프라를 두고 경쟁하는 구조라, 컴퓨트 증설 속도는 곧 세 프로젝트 전반의 개발 속도와 직결된다.\n\n2분기 실적에서 테슬라의 설비투자(capex)는 58억 달러로 전년 동기·전분기 대비 두 배 넘게 늘며 잉여현금흐름 적자의 배경으로 지목됐다. 이번 컴퓨트 증설 발표는 그 지출이 실제 인프라로 전환되고 있음을 보여주는 근거인 동시에, 투자자들이 계속 주시할 'AI 투자 대비 성과' 논쟁의 연장선이기도 하다.",
+      "title_en": "Tesla <em>doubles</em> Giga Texas AI compute in H1 2026, eyes 400MW by year-end",
+      "hotShort_en": "Tesla <em>doubles</em> Texas AI compute",
+      "body_en": "Tesla doubled its Giga Texas AI training compute in H1 2026 — Cortex 1 (90MW) plus the new Cortex 2 (115MW) now totals roughly 205MW, with a ~400MW year-end target (triple where it started the year). It's the shared backbone for FSD, Robotaxi, and Optimus neural-net training, making it a concrete gauge of whether Tesla's AI capex is turning into real capacity.",
+      "summary_en": "The newly online Cortex 2 is reportedly running roughly 100,000 GPUs around the clock (Tesla hasn't disclosed an exact total). Built on the Giga Texas campus, it's the site where Tesla feeds billions of frames of fleet driving video into its neural-net training pipeline.\n\nBy capacity, Cortex 1's 90MW plus Cortex 2's 115MW adds up to roughly 205MW — more than double what Tesla had running at the start of 2026. The company says it's targeting close to 400MW by year-end, effectively tripling its Texas AI footprint over the course of the year.\n\nThat compute trains the end-to-end neural nets shared by FSD, Robotaxi, and Optimus. Because all three programs draw on the same data and infrastructure, how fast the cluster grows is a rough proxy for how fast all three can move.\n\nQ2 capex came in at $5.8 billion, more than double year-ago and Q1 levels, and was a big reason free cash flow turned negative. This build-out is evidence that spending is converting into real infrastructure — but it also keeps alive the debate investors are watching closely: whether the AI investment is paying off fast enough.",
+      "href": "https://www.notateslaapp.com/news/4509/tesla-doubles-texas-ai-compute-capacity-in-q2-2026",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Not a Tesla App",
+        "All Things Elon",
+        "Data Center Dynamics"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-07-29T16:17:01.000Z",
+      "title": "머스크, 화성 유인 착륙 목표 <em>2030년대 초중반으로 후퇴</em> 인정",
+      "hotShort": "머스크, 화성 유인착륙 <em>2030년대 초중반 후퇴</em>",
+      "body": "일론 머스크가 최근 인터뷰에서 화성 유인 착륙 시점을 '5~7년 후'로 새로 제시했다 — 2020년 '2026년 확신'에서 대폭 후퇴한 것. 스페이스X의 무인 스타십 화성 임무 목표도 사실상 2026년을 넘겨 2030년대 초중반으로 밀렸다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-mars-timeline-delay-2026-07-29",
+      "summary": "스페이스X는 애초 2026년 하반기 무인 스타십 V3 5대를 화성에 보내 착륙 신뢰성을 검증한다는 계획을 세웠지만, 이 창구는 사실상 지나간 것으로 보인다.\n\n머스크는 이번 인터뷰에서 유인 착륙까지는 '5~7년', 무인 랜더 도달은 '몇 년 더 이르게' 이뤄질 것이라고 밝혔다. 첫 무인 스타십 화성 비행 시점도 2030년대 초중반으로 새로 제시됐다.\n\n머스크의 화성 일정은 반복적으로 후퇴해 왔다 — 2020년엔 2026년 유인 착륙에 '매우 확신한다'고 했고, 한때 2024년을 최선 시나리오로 언급하기도 했다. 최근 다른 인터뷰에서는 2026년 시도 자체를 '주의를 분산시키는 일(distraction)'이라 표현하기도 했다.\n\n테슬라 주가와 직접 관련은 없지만, 머스크가 제시한 야심찬 일정이 뒤로 밀리는 패턴은 로보택시 전국 확장이나 옵티머스 양산 같은 테슬라 자체 로드맵의 신뢰도를 가늠할 때도 투자자들이 참고하는 사례다.",
+      "title_en": "Musk <em>pushes Mars crewed-landing goal back to the early-to-mid 2030s</em>",
+      "hotShort_en": "Musk <em>delays</em> Mars landing to 2030s",
+      "body_en": "Elon Musk now says a crewed Mars landing is '5 to 7 years' out — a sharp retreat from his 2020 claim of being 'highly confident' about 2026. SpaceX's own uncrewed Starship Mars mission has effectively slipped past 2026 to the early-to-mid 2030s too.",
+      "summary_en": "SpaceX had planned to send five uncrewed Starship V3 vehicles to Mars in late 2026 to test landing reliability. That window has effectively passed as a realistic target.\n\nIn the new interview, Musk said crewed landing is now '5 to 7 years' away, with an uncrewed lander arriving 'a few years sooner.' The first uncrewed Starship Mars flight is now expected in the early-to-mid 2030s.\n\nMusk's Mars timelines have slipped repeatedly — in 2020 he was 'highly confident' about a 2026 landing and once floated 2024 as a best case. In a separate recent interview, he called a 2026 attempt a potential 'distraction.'\n\nIt doesn't touch Tesla's financials directly, but the pattern of Musk's ambitious deadlines sliding is something investors keep in mind when sizing up Tesla's own roadmap claims — nationwide robotaxi expansion, Optimus mass production — on their own timelines.",
+      "href": "https://www.teslarati.com/elon-musk-updates-spacex-timeline-for-mars/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Teslarati",
+        "Space.com",
+        "New Space Economy"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "7h ago",
+      "pubDate": "2026-07-29T12:06:42.000Z",
+      "title": "월가, <em>스페이스X 연계 구조화 노트</em> 잇달아 출시 — IPO 후 40%↓ 방어",
+      "hotShort": "월가, 스페이스X 급락에 <em>구조화 상품</em> 잇달아 출시",
+      "body": "모건스탠리·씨티그룹·웰스파고·RBC캐피털·Marex 등 최소 5개 금융사가 스페이스X 주가 하락(6월 상장 후 고점 대비 40%↓)에 대응해 최대 50%까지 손실을 방어하는 구조화 노트를 준비 중이라고 블룸버그가 보도했다 — 상승은 제한되지만, 변동성 큰 신규 상장주에 대한 기관 수요를 보여주는 신호다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-wallstreet-spacex-structured-notes-2026-07-29",
+      "summary": "스페이스X는 지난 6월 기업공개(IPO) 이후 옵션·레버리지 ETF까지 아우르는 투자 생태계가 빠르게 형성돼 왔다. 이번엔 상장 후 주가가 고점 대비 40% 넘게 빠지자, 월가가 하방을 방어하는 구조화 상품으로 대응에 나선 모양새다.\n\n블룸버그에 따르면 모건스탠리·Marex Group과 함께 씨티그룹·웰스파고·RBC캐피털마켓츠 등도 규제 서류를 통해 유사한 상품을 준비 중이다. 일부 상품은 하락분의 최대 50%까지 방어해주는 대신, 향후 몇 달에서 몇 년에 걸친 상승분에는 상한을 둔다.\n\n이런 구조화 노트는 통상 변동성이 크고 투자자 관심이 집중된 신규 상장주에서 등장한다. 스페이스X는 상장 이후 급등락을 반복해 왔고, 관련 상품 출시가 이어질수록 기관 자금의 헤지 수요가 크다는 뜻으로 읽힌다.\n\n테슬라 주가와 직접적 연관은 없지만, 머스크가 최대주주인 스페이스X의 변동성이 월가 상품 설계로까지 번졌다는 점은 머스크 관련 자산 전반에 대한 투자자 관심·리스크 관리 수요가 커지고 있음을 보여준다.",
+      "title_en": "Wall Street rolls out <em>SpaceX-linked structured notes</em> after 40% post-IPO drop",
+      "hotShort_en": "Wall Street <em>hedges</em> SpaceX's slide",
+      "body_en": "At least five firms — Morgan Stanley, Marex Group, Citigroup, Wells Fargo, and RBC Capital Markets — are preparing structured notes that shield buyers from up to 50% of SpaceX's downside, Bloomberg reports, after the stock fell more than 40% from its post-IPO peak. Gains are capped in exchange, but the rush signals strong institutional demand to hedge a volatile new listing.",
+      "summary_en": "An entire investment ecosystem — options, leveraged ETFs, and now structured notes — has sprung up around SpaceX since its June IPO. The latest wave comes as the stock has fallen more than 40% from its post-listing peak.\n\nPer Bloomberg, Morgan Stanley and Marex Group are joined by Citigroup, Wells Fargo, and RBC Capital Markets in preparing similar products via regulatory filings. Some protect against declines of up to 50% while capping gains over the coming months or years.\n\nStructured notes like these typically show up around volatile, high-interest new listings. SpaceX has swung sharply since its debut, and the growing lineup of linked products signals real institutional hedging demand.\n\nIt has no direct bearing on Tesla's own stock, but the fact that SpaceX volatility — where Musk is the largest shareholder — is spilling into Wall Street product design underscores how much investor attention and risk-management demand now surrounds Musk-linked assets broadly.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-29/wall-street-races-to-sell-spacex-linked-products-as-stock-sinks",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Bloomberg",
+        "Yahoo Finance",
+        "Moneyweb",
+        "Advisor Perspectives"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "3h ago",
@@ -99,58 +178,6 @@
       "hot": 4
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-07-28T18:56:34.000Z",
-      "title": "머스크 주식 합산 <em>$1.5조 증발</em> — 스페이스X, 8/6 락업 해제 앞두고 새 시험대",
-      "hotShort": "스페이스X, 8/6 <em>사상 첫 락업 해제</em> 앞둬",
-      "body": "6월 중순 고점 이후 테슬라·스페이스X 두 회사 시가총액이 합산 $1.5조 증발한 가운데, 스페이스X는 8월4일 첫 분기 실적 발표 이틀 뒤(8월6일) 사상 첫 락업 해제라는 새 시험대에 오른다 — 이번 물량만 발행주식의 20%(약 9억1150만주, 시가 약 $1230억)에 달해 주가 변동성이 한층 커질 전망이다.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-lockup-1-5t-combined-loss-2026-07-28",
-      "summary": "CNBC에 따르면, 6월 중순 고점 대비 테슬라·스페이스X 두 회사에서 증발한 시가총액이 합산 $1.5조에 달한다 — 스페이스X는 고점 대비 거의 50%, 테슬라는 지난주 실적 발표 이후 18% 하락한 결과다.\n\n스페이스X는 8월4일(화) 상장 후 첫 분기 실적을 발표할 예정이며, 옵션 시장은 실적 발표 후 주가가 약 ±15% 출렁일 것으로 내다본다 — 내재변동성 122로, S&P500 편입 종목 중 샌디스크를 제외하면 가장 높은 수준이다.\n\n스페이스X의 락업 조항은 이례적으로 첫 실적 발표를 기점으로 내부자 매도가 조기 허용되도록 설계돼, 실적 발표 이틀 뒤인 8월6일부터 전체 락업 물량의 20%(약 9억1150만주)가 매도 가능해진다 — 현재 주가 기준 약 $1230억 규모로, 시장에 일시에 풀릴 수 있는 대기 매물이다.\n\n두 회사 모두 머스크가 최대주주 겸 CEO를 맡고 있어, 이번 락업 해제는 그의 순자산과 시장 심리 전반에 추가 변동성 요인으로 꼽힌다. 두 번째 락업 해제는 8월20일경 4억5580만주 규모로 예정돼 있어, 매도 압력은 한 차례로 끝나지 않을 전망이다.",
-      "title_en": "Musk stocks lose <em>$1.5T combined</em> — SpaceX faces first lockup test Aug. 6",
-      "hotShort_en": "SpaceX <em>lockup expiry</em> looms Aug. 6",
-      "body_en": "Tesla and SpaceX have together shed $1.5 trillion in market value since their mid-June highs, and SpaceX now faces a fresh test: its first post-IPO lockup expiration on Aug. 6, two days after its debut earnings report — unlocking 20% of eligible shares, about 911.5 million, worth roughly $123 billion.",
-      "summary_en": "Per CNBC, Tesla and SpaceX have together erased $1.5 trillion in market value from their mid-June peaks — SpaceX down nearly 50% from its high, and Tesla off 18% since last week's earnings report.\n\nSpaceX is set to report its first quarterly earnings as a public company on Tuesday, Aug. 4. Options markets are pricing in a roughly 15% post-earnings swing, with implied volatility of 122 — higher than every S&P 500 stock except SanDisk.\n\nSpaceX's lockup structure is unusual: it allows insiders to begin selling earlier than the standard 180-day window, triggered by the first earnings release. Two full trading days later, on Aug. 6, 20% of eligible locked-up shares — about 911.5 million, worth an estimated $123 billion at current prices — become tradable.\n\nWith Musk as CEO and largest shareholder of both companies, the unlock adds a fresh source of volatility to his overall net worth and market sentiment. A second tranche of 455.8 million shares is set to unlock around Aug. 20, meaning the selling pressure may not end with a single event.",
-      "href": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "CNBC",
-        "Morningstar",
-        "Investing.com"
-      ],
-      "sentiment": "bear",
-      "hot": 7
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
-      "pubDate": "2026-07-28T17:15:00.000Z",
-      "title": "테슬라, 텍사스 <em>태양광 140MW 전력 전량 구매</em> 계약 — Zelestra와 두 번째 PPA",
-      "hotShort": "테슬라, 텍사스 <em>태양광 140MW</em> 전량 구매",
-      "body": "테슬라가 Zelestra와 텍사스 북동부 태양광 발전소 'Lumen Farm'(140MW) 전력 전량을 장기 구매하는 계약을 맺었다 — 기가팩토리 텍사스와 AI 컴퓨팅 확장에 필요한 전력을 청정에너지로 충당하려는 행보로, 지난해 스페인 57MW 계약에 이은 두 회사의 두 번째 협력이다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-zelestra-texas-solar-ppa-140mw-2026-07-28",
-      "summary": "Lumen Farm은 2027년 착공해 2029년 전면 가동을 목표로 한다. 양사는 가격 등 세부 조건은 공개하지 않았다.\n\n이는 앞서 이번 주 보도된 KKR 지원 애리조나 태양광·배터리 발전소(509MW) 장기 전력구매계약과는 별개의 계약으로, 테슬라가 최근 잇따라 대형 재생에너지 전력구매계약(PPA)을 체결하며 기가팩토리·데이터센터·AI 컴퓨팅 확장에 필요한 전력 수요를 미리 확보하는 모습이다.\n\n테슬라와 Zelestra의 협력은 지난해 스페인 카스티야라만차 지역의 57MW 태양광 PPA에서 시작됐으며, 이번 텍사스 계약으로 두 회사의 파트너십이 확대됐다.",
-      "title_en": "Tesla to buy <em>entire output of 140MW Texas solar farm</em> — second Zelestra PPA",
-      "hotShort_en": "Tesla buys <em>140MW Texas solar</em> output",
-      "body_en": "Tesla signed a long-term power purchase agreement to buy the entire output of Zelestra's 140MW \"Lumen Farm\" solar plant in northeast Texas — part of a push to lock in clean power for Gigafactory Texas and its expanding AI compute needs, and the companies' second PPA after a 57MW deal in Spain last year.",
-      "summary_en": "Lumen Farm is expected to begin construction in 2027 and reach full operation by 2029. Neither company disclosed pricing terms.\n\nThe deal is separate from this week's KKR-backed Arizona solar-and-storage PPA (509MW) reported earlier — together, the agreements reflect Tesla locking in renewable power ahead of growing demand from its factories, data centers, and AI compute buildout.\n\nTesla and Zelestra's partnership began with a 57MW solar PPA in Spain's Castilla-La Mancha region last year, and this Texas deal expands that relationship.",
-      "href": "https://electrek.co/2026/07/28/tesla-buys-texas-solar-farm-output-zelestra/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "Yahoo Finance",
-        "Interesting Engineering"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "12h ago",
@@ -174,34 +201,7 @@
       ],
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-07-28T13:00:05.000Z",
-      "title": "테슬라, 사이버트럭 부품 볼모 잡은 협력사 <em>앙스트롬 상대 긴급소송</em>",
-      "hotShort": "테슬라, 부품 <em>\"몸값\" 요구 협력사</em> 긴급 고소",
-      "body": "테슬라가 사이버트럭 전용 금형·부품을 쥐고 있는 협력사 앙스트롬 오토모티브를 상대로 연방법원에 긴급 가처분을 신청했다 — 앙스트롬이 공장 폐쇄를 예고하며 주당 $250,000 추가 지급을 요구했고, 대체 불가능한 금형이 묶여 있어 법원 개입이 없으면 며칠 내 사이버트럭 생산 부품이 바닥날 위기다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-cybertruck-angstrom-lawsuit-2026-07-28",
-      "summary": "이 분쟁은 7월13일 앙스트롬이 텍사스 트로이 공장을 닫겠다고 테슬라에 통보하며 시작됐다. 소장에 따르면 앙스트롬은 이후 시설 유지 명목으로 주당 $250,000 추가 지급을 요구했고, 테슬라는 이를 자사 재산을 볼모로 잡은 상업적 압박이라고 규정했다.\n\n7월17일 출고 예정이던 완성 부품 700개가 끝내 공장을 나오지 못했고, 7월21일 테슬라 직원들이 법 집행기관과 함께 공장을 찾았지만 출입을 거부당했다. 결국 테슬라는 7월23일 연방법원에 앙스트롬의 공장 문을 열어 대형 금형을 반출하게 해달라는 긴급 명령을 신청했다.\n\n문제의 설비는 대형 다이캐스팅 기계, 트림 다이, 지그, 절삭공구, 게이지, X선 검사장비 등 사이버트럭 전용 부품만을 위해 제작된 다중 톤급 장비다. 소장은 현재 이 부품을 만들 수 있는 다른 공급업체가 없고, 금형을 처음부터 다시 만들려면 5~6개월이 걸린다고 밝혔다.\n\n이미 고객에게 배정된 수천 대의 사이버트럭이 이 부품에 묶여 있어, 법원 개입이 없으면 \"며칠 안에\" 재고가 바닥날 것이라고 소장은 경고했다. 테슬라라티·EVXL·블룸버그로 등 여러 매체가 이 소송 내용을 교차 확인했다.",
-      "title_en": "Tesla files <em>emergency lawsuit</em> against Cybertruck supplier holding tooling for ransom",
-      "hotShort_en": "Tesla sues supplier <em>holding tooling \"for ransom\"</em>",
-      "body_en": "Tesla has filed an emergency federal lawsuit against supplier Angstrom Automotive, which holds tooling and parts unique to the Cybertruck — Angstrom demanded an extra $250,000 a week after announcing it would close its plant, and with no other supplier able to make the parts, Tesla says Cybertruck production could run out of supply within days without court intervention.",
-      "summary_en": "The dispute traces back to July 13, when Angstrom told Tesla it planned to close its Troy, Texas facility. Tesla's complaint alleges Angstrom then demanded an extra $250,000 a week to keep the plant running — a demand Tesla calls an attempt to hold its own property \"for ransom.\"\n\nA shipment of 700 finished parts due to leave the plant on July 17 never shipped, and when Tesla sent representatives accompanied by law enforcement to the facility on July 21, they were turned away. Tesla filed for an emergency federal court order on July 23 to force Angstrom to open the plant so it can retrieve its tooling.\n\nThe equipment at stake — described in the filing as large die-cast machinery, trim dies, fixtures, cutting tools, gauges, and X-ray inspection gear — is purpose-built for specific Cybertruck castings. According to the complaint, no other supplier can currently produce these parts, and rebuilding the tooling from scratch would take five to six months.\n\nThousands of Cybertrucks already assigned to customers are tied to the parts in question, and the complaint warns supply will run out \"in mere days\" without court intervention. Teslarati, EVXL, and Bloomberg Law have separately corroborated the filing's details.",
-      "href": "https://electrek.co/2026/07/28/tesla-sues-cybertruck-supplier-angstrom-tooling/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Electrek",
-        "Teslarati",
-        "Bloomberg Law",
-        "Drive Tesla Canada"
-      ],
-      "sentiment": "bear",
-      "hot": 8
     }
   ],
-  "asOf": "2026-07-30 02:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-30 04:10 KST 자동 갱신 · 최신순"
 }

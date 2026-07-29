@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-24T21:06:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "stock-burry-tesla-short-profits-2026-07-24",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for CNBC",
-            "no advisory tone (no buy/sell recommendation, no PT)",
-            "hedge preserved: exact profit/position size explicitly stated as undisclosed, not asserted",
-            "numbers ($416.22 entry, 24% July decline, $319.69 close, June 30 disclosure date, quote) corroborated via cross-source WebSearch (finbold, Yahoo/AOL, Benzinga, Electrek) — direct WebFetch to cnbc.com blocked 403",
-            "href matches verified CNBC article on this exact story",
-            "not X-sourced, meme/satire check N/A"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-24T21:50:00.000Z",
       "mode": "shadow",
       "checked": 2,
@@ -790,6 +770,49 @@
             "조치: 세부 항목 전부 삭제, AMCI 자체의 과거 비판적 이력(2024년 1000마일 평가 11~13마일당 개입 필요, 'not capable of self-driven taxi duty', 'unreliable performance and potentially dangerous inconsistencies' — 모두 실제 PR Newswire 타이틀로 재검색 확인됨)과 이번 발표 제목의 톤 변화('뚜렷한 개선'·'work in progress' 유보 병기)라는, 확실히 검증 가능한 사실만으로 본문·요약 재작성 후 발행",
             "href는 실제 PR Newswire 릴리스 URL과 일치(검색 색인으로 확인, 직접 열람은 403으로 불가)",
             "밈·풍자 아님(⑥ N/A) — 기업 보도자료"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-29T19:15:00.000Z",
+      "mode": "shadow",
+      "checked": 3,
+      "verdicts": [
+        {
+          "slug": "product-cortex2-texas-ai-compute-double-2026-07-29",
+          "verdict": "hold",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Not a Tesla App",
+            "조언톤 위반 없음, 단정 전환 없음",
+            "MW 수치(코텍스1 90MW+코텍스2 115MW=205MW, 연말 400MW 목표, 상반기 2배) 서브에이전트 교차검증(All Things Elon, Data Center Dynamics, Tesorb) 일치",
+            "④ 수치 오류 발견·수정: 초안 'H100급 GPU 23만개 이상'은 원 출처(Not a Tesla App)와 불일치 — 원문은 '10만 개 GPU 24시간 가동'이라 명시하고 '정확한 GPU 수 비공개'라 밝힘. 230,000은 별개 지표(테슬라 전사 2025년 4분기 학습 컴퓨트 로드맵)와 혼동된 것으로 판단, 발행 전 KO/EN summary 모두 '약 10만개 GPU, 정확한 총량은 비공개'로 정정",
+            "$5.8B Q2 capex 연결 문단은 이 출처 자체엔 없으나 같은 7/22 실적발표를 다루는 별도 검증된 사실(익일 검증 로그의 morningstar/erases-year 카드에서 이미 확인)이라 배경 서술로 허용",
+            "href-본문 일치 확인, 밈/풍자 아님"
+          ]
+        },
+        {
+          "slug": "musk-spacex-mars-timeline-delay-2026-07-29",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Teslarati",
+            "조언톤 위반 없음, 단정 전환 없음",
+            "핵심 인용('5~7년', '몇 년 더 이르게', 'distraction' 발언, 2026년 무인 스타십 V3 5대 계획) 서브에이전트 교차검증(Space.com, New Space Economy 등) 일치",
+            "'2030년대 초중반' 첫 무인 비행 시점은 직접 인용이 아닌 매체 종합 추정치(일부는 2029년 언급)이나 원문과 모순되지 않는 합리적 범위 — 통과",
+            "href-본문 일치 확인, 밈/풍자 아님"
+          ]
+        },
+        {
+          "slug": "musk-wallstreet-spacex-structured-notes-2026-07-29",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Bloomberg",
+            "조언톤 위반 없음(은행 상품 사실 전달, 매수·매도 권유 아님), 단정 전환 없음",
+            "5개 금융사명(모건스탠리·Marex·씨티·웰스파고·RBC)·최대 50% 방어·IPO 후 고점 대비 40%↓ 모두 서브에이전트가 Bloomberg 원문 그대로 확인",
+            "href-본문 일치 확인, 밈/풍자 아님"
           ]
         }
       ]
