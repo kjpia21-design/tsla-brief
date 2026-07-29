@@ -1,41 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-24T13:16:56.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "product-nhtsa-door-safety-rulemaking-2026-07-23",
-          "verdict": "pass",
-          "newSourceLabel": "sec",
-          "reasons": [
-            "sourceLabel sec retained — underlying event is NHTSA's own petition-denial decision (Federal Register doc titled 'Denial of Motor Vehicle Defect Petition', 2026-07-24), not opinion/press speculation; consistent with the prior run's classification of this same story thread",
-            "no advisory tone, no buy/sell/price-target language",
-            "no hedge-to-assertion drift — NHTSA's denial and its separate acceptance of the rulemaking petition are both formal agency actions, correctly stated as fact rather than hedged; SAFE Exit Act '15 deaths' claim (carried over from prior version, untouched) remains correctly attributed as the bill sponsors' claim, not asserted as fact",
-            "numbers cross-checked via WebSearch across independent write-ups (futunn, basenor, Seeking Alpha, Jalopnik, TechCrunch, ZeroHedge) all citing the same underlying denial: 179,031 subject Model 3s, exactly 1 consumer complaint as of March 13 2026, petitioner Kevin Clouse, petition filed November 2025, separate rulemaking petition filed November 4 2025 — all consistent, no contradictions found",
-            "href (Reuters) matches the exact event reported — 'US auto safety regulator denies petition seeking Tesla door-release defect probe', same date/topic as title/body",
-            "not X/meme-sourced, satire check N/A",
-            "verify-error: direct WebFetch to electrek.co, federalregister.gov, and barrons.com/benzinga.com/wsj.com (for the separate Ark/capex checks below) all returned 403 — relied on WebSearch snippet synthesis per fail-open policy; facts were consistent across 5+ independent secondary sources with no contradictions"
-          ]
-        },
-        {
-          "slug": "stock-ark-buys-tesla-dip-2026-07-24",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for TipRanks — financial news aggregator reporting a publicly disclosed ETF trade, not a 1st-party filing",
-            "no advisory tone — reports Ark's own trade, does not recommend buying/selling TSLA to the reader",
-            "no hedge-to-assertion drift — Ark's daily trade disclosures are public record; '샀다' stated as fact is appropriate, not an unverified rumor",
-            "numbers cross-checked via WebSearch across independent sources (Benzinga, TipRanks, AOL, blog.arkinvesttrades.com daily tracker, cryptonews.net): 160,151 TSLA shares, ~$51.2M (TipRanks headline rounds to $52M — consistent, not a contradiction), across ARKK/ARKQ/ARKW/ARKX, purchased Thursday July 23 2026 amid a 14.5% post-earnings share drop; July 2 $38.1M comparison purchase also cross-confirmed",
-            "href (TipRanks) matches the exact event — 'Cathie Wood Makes $52M Tesla Bet after Post-Earnings Selloff'",
-            "not X/meme-sourced, satire check N/A",
-            "verify-error: could not WebFetch tipranks.com, benzinga.com, or finance.yahoo.com directly (403/blocked) — relied on WebSearch snippet synthesis per fail-open policy; figures were consistent across 4+ independent sources"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-24T18:10:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -803,6 +768,28 @@
             "no hedge-to-assertion drift — straightforward business deal, no speculative claims",
             "figures (140MW Lumen Farm, northeast Texas, construction 2027/full ops 2029, no pricing disclosed, prior 57MW Spain PPA last year) cross-checked via Interesting Engineering/BIC Magazine/Zelestra press release — exact match",
             "href matches described story"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-29T10:55:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "stock-gary-black-tsla-sub-300-warning-2026-07-29",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Benzinga가 실제 X 게시물(@garyblack00, status/2082036518592418230)을 그대로 보도, 원문과 카드 인용 거의 일치 확인(서브에이전트 독립검증)",
+            "게리 블랙 신원(더퓨처펀드 매니징파트너) 복수 매체(AOL, Yahoo Finance)로 확인",
+            "조언톤 위반 없음 — 블랙 개인 전망을 보도할 뿐 사이트 자체 매수·매도 권유 없음",
+            "단정 전환 없음 — '경고했다', '그의 개인적 전망' 으로 정확히 헤지",
+            "숫자 대조: RSI 27.03·지지구간 $300~306·볼린저밴드 하단 $306.47·S1 피봇 $301.70·화요일 종가 $307.44·시간외 -0.20%·P/E 175배 모두 WebSearch 교차검증(Benzinga/Yahoo/AOL 미러) 일치",
+            "1건 미확인 수치 발견·수정: 초안의 '$295까지 하락' 구체 수치는 어떤 소스에서도 원문 그대로 확인되지 않아 발행 전 삭제 — '매도가 가속화될 수 있다'로 완화 서술",
+            "밈·풍자 아님(⑥) — 블랙의 기존 공개 발언 패턴과 일치하는 진지한 밸류에이션 분석",
+            "verify-error: Benzinga/Cryptonomist 원문 직접 WebFetch 403 차단 — WebSearch 교차검증으로 대체(서브에이전트 병행 실행)"
           ]
         }
       ]

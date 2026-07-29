@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-29T08:59:36.000Z",
+      "title": "게리 블랙 \"테슬라 $300선 붕괴 가능\" 경고 — RSI <em>27로 과매도</em> 진입",
+      "hotShort": "게리 블랙 \"테슬라 <em>$300 붕괴</em> 가능\" 경고",
+      "body": "AI 투자매니저 게리 블랙(더퓨처펀드)이 테슬라 주가가 향후 수 주 내 $300 밑으로, 스페이스X는 $100 밑으로 떨어질 수 있다고 경고했다 — 두 회사 모두 2026년 예상 실적 기준 주가수익비율(P/E)이 175배를 넘어, AI 밸류에이션 조정 국면에서 취약하다는 지적이다.",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "stock-gary-black-tsla-sub-300-warning-2026-07-29",
+      "summary": "더퓨처펀드 매니징파트너 게리 블랙은 X(트위터)에 \"밸류에이션 우려로 테슬라는 주당 $300 밑으로, 스페이스X는 $100 밑으로 떨어질 것으로 예상한다\"고 적었다 — 양사 모두 2026 회계연도 예상 실적 기준 P/E가 175배를 넘어 AI 관련 밸류에이션이 풀리는 국면에서 과도하다는 게 그의 논지다.\n\n기술적 지표도 약세 신호를 가리킨다. 테슬라의 일간 RSI(상대강도지수)는 27.03으로 과매도 구간에 진입했고, 핵심 지지구간은 $300~306 — 일간 볼린저밴드 하단이 $306.47, S1 피봇 지지선이 $301.70에 위치한다.\n\n테슬라 주가는 화요일(7월28일) $307.44로 마감했고, 시간외거래에서 추가로 0.20% 더 밀렸다. 아직 지지구간 안에 머물러 있지만 여유는 크지 않은 셈이다.\n\n블랙은 $300선이 뚫리면 손절 물량과 롱포지션 청산이 겹치며 매도가 가속화될 수 있다고 내다봤다 — 다만 이는 그의 개인적 전망이며 독립적으로 검증된 수치는 아니다.",
+      "title_en": "Gary Black warns TSLA could <em>break below $300</em> as RSI hits oversold 27",
+      "hotShort_en": "Gary Black warns TSLA <em>could break $300</em>",
+      "body_en": "Fund manager Gary Black of The Future Fund warned Tesla shares could fall below $300 and SpaceX below $100 in the coming weeks — arguing both companies trade above 175x their FY2026 expected earnings, leaving them exposed as AI-related valuations unwind.",
+      "summary_en": "Gary Black, managing partner of The Future Fund, posted on X that he expects TSLA to fall below $300 a share and SpaceX to break $100 a share \"on valuation concerns\" — arguing both companies trade above 175x their FY2026 expected earnings, a level he considers excessive as AI-related valuations continue to unravel.\n\nTechnical indicators are flashing bearish too: Tesla's daily RSI sits at 27.03, deep in oversold territory. The key support zone is $300–306, with the daily lower Bollinger Band at $306.47 and the S1 pivot support at $301.70.\n\nTesla closed at $307.44 on Tuesday (July 28) and slipped a further 0.20% in after-hours trading — still inside the support band, but with little room left.\n\nBlack said a break below $300 could trigger stop-loss orders and unwind long positions, accelerating the selloff — though this remains his personal forecast rather than an independently verified figure.",
+      "sentiment": "bear",
+      "hot": 4,
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Benzinga",
+        "Yahoo Finance",
+        "AOL",
+        "Cryptonomist"
+      ],
+      "href": "https://www.benzinga.com/markets/tech/26/07/60749040/gary-black-tesla-spacex-stock-price-ai-valuation-pressure"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "18m ago",
@@ -2311,32 +2338,7 @@
       ],
       "sentiment": "neutral",
       "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-07-16T15:15:28.000Z",
-      "title": "스페이스X, IPO가 $135 <em>아래로 첫 하락</em> — 공매도 평가익 $87억 육박",
-      "hotShort": "스페이스X 주가 IPO가 <em>첫 하회</em>, 공매도 $87억",
-      "body": "스페이스X(SPCX) 주가가 7월15일 상장 후 처음으로 IPO 공모가 $135 <em>아래로</em> 떨어졌다 — 4거래일 연속 하락에 공매도 물량이 유통 가능 주식의 <em>28%</em>(1억8100만주)까지 늘었고, 데이터업체 오텍스(Ortex) 집계로 공매도 세력의 평가이익도 <em>$87억</em>까지 불어났다. 2분기 실적발표 전후 예정된 첫 대규모 락업 해제(유통물량 약 <em>11%</em> 추가)를 앞두고 매도 압력 우려가 커지는 신호다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-below-ipo-price-shorts-8-7bn-2026-07-16",
-      "summary": "로이터에 따르면 스페이스X(SPCX) 주가는 4거래일 연속 하락한 끝에 7월15일 IPO 공모가인 $135 <em>아래로</em> 처음 떨어졌다. 상장 이후 처음으로 공모가를 밑돈 셈이다.\n\n이번 하락으로 공매도 물량은 <em>1억8100만주</em>까지 불어나, 유통 가능한 <em>6억4600만주</em> 중 <em>28%</em>에 해당하는 수준이 됐다. 데이터·분석업체 오텍스(Ortex)에 따르면, 이 공매도 포지션의 평가이익은 <em>$87억</em>에 달하는 것으로 집계됐다 — 오텍스는 주가가 1달러 움직일 때마다 공매도 측 손익이 <em>$3억</em> 이상 바뀐다고 추산했다.\n\n투자자들이 특히 주목하는 부분은 예정된 락업 해제 일정이다. 2분기 실적발표 시점을 전후해 첫 대규모 락업이 풀리며, 전체 발행주식의 약 <em>11%</em>가 새로 매도 가능해질 전망이다 — 유통물량이 늘어나면 추가 매도 압력이 커질 수 있어 시장이 예의주시하고 있다.\n\n스페이스X는 테슬라 보유 종목이 아니지만 일론 머스크가 이끄는 관계사로, 그의 자산가치·시장 신뢰와 밀접해 테슬라 주주들도 함께 참고하는 지표다.",
-      "title_en": "SpaceX stock <em>slips below its $135 IPO price</em> for the first time as short-seller profits near $8.7B",
-      "hotShort_en": "SpaceX stock <em>falls below IPO price</em>, shorts up $8.7B",
-      "body_en": "SpaceX (SPCX) shares fell <em>below their $135 IPO price</em> for the first time on July 15, after four straight days of declines — short interest has climbed to <em>28%</em> of the tradeable float (181 million shares), with short sellers' paper profits reaching an estimated <em>$8.7 billion</em>, according to Ortex data cited by Reuters. The move comes ahead of the first major lockup expiry around Q2 earnings, when roughly <em>11%</em> of shares are set to become tradeable.",
-      "summary_en": "SpaceX (SPCX) shares fell below their $135 IPO price for the first time on July 15, according to Reuters, after four consecutive days of declines.\n\nShort interest has swelled to <em>181 million shares</em>, or <em>28%</em> of the 646 million shares available for trading. According to data and analytics firm Ortex, short sellers' paper profits on those positions have reached an estimated <em>$8.7 billion</em> — with Ortex noting that every $1 move in the stock is worth more than <em>$300 million</em> to short sellers.\n\nInvestors are also watching the upcoming lockup schedule closely. The first major unlock is expected around SpaceX's Q2 earnings report, when roughly <em>11%</em> of outstanding shares are set to become eligible for sale — a supply increase that could add further pressure just as short interest is already elevated.\n\nSpaceX isn't a Tesla holding, but as an Elon Musk-led affiliate, its stock swings remain a data point Tesla shareholders often track alongside the broader Musk wealth and market-confidence narrative.",
-      "href": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Reuters",
-        "CNBC"
-      ],
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-29 06:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-29 19:50 KST 자동 갱신 · 최신순"
 }
