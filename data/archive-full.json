@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-28 23:04 UTC · 누적 713건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-29 03:15 UTC · 누적 714건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "18m ago",
+      "pubDate": "2026-07-28T20:49:43.000Z",
+      "title": "前 테슬라 매니저 \"휴스턴 FSD 테스트팀, <em>인력부족으로 도로 위 위험 요소</em>\" — 소송 제기",
+      "hotShort": "前 매니저 \"휴스턴 FSD팀 <em>인력부족 위험</em>\" 소송",
+      "body": "테슬라의 휴스턴 FSD 테스트 플릿을 홀로 관리했던 전직 매니저 하비에르 메드라노가, 회사가 자체 안전기준(감독 1명당 차량 15대)을 어기고 인력을 38대까지 늘려 차량이 '도로 위 위험 요소'가 됐다고 주장하는 소송을 27일 휴스턴 연방법원에 냈다 — 무인 로보택시 확장을 이어가는 가운데 FSD 테스트 운영의 안전관리 공백 의혹이 제기됐다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-houston-manager-understaffing-lawsuit-2026-07-28",
+      "summary": "하비에르 메드라노는 2023년 10월 테슬라에 입사해 8개월 만에 휴스턴 FSD 테스트 시장의 유일한 운영 매니저가 됐다. 그의 소장에 따르면, 오토파일럿 부문 책임자는 2024년 5월 말 감독 1명당 테스트 차량 15대를 기준선으로 제시했지만, 곧이어 인력을 늘리라는 지시와 함께 휴스턴 시장을 24시간 테스트 체제의 차량 38대까지 확대시켰다.\n\n메드라노 혼자 이 규모를 감당해야 했고, 이는 회사가 정한 안전기준을 크게 벗어난 수준이었다. FSD 테스트 매니저는 원래 주행 영상을 감사하고 매주 동승 점검을 하며 안전 사고를 후속 처리해야 하는데, 소장은 이 업무가 정상적으로 이뤄지지 못했다고 주장한다.\n\n메드라노는 인사팀에 \"휴스턴 공공도로에서 지속적인 극심한 안전 관리 공백\"과 심각한 인력 부족을 보고했지만, 인사 담당자는 테스트 근무시간엔 휴대폰을 '방해금지' 모드로 두라는 식으로 대응했다고 소장은 전한다. 이후 댈러스에서 팀 리드 2명이 지원 파견됐지만, 베스팅을 일주일 앞두고 있던 그의 스톡 보상은 취소됐다.\n\n메드라노는 현재 경쟁 전기차 업체로 이직한 상태이며, 복직·소급 임금·손실 급여·취소된 스톡 보상 배상, 정신적 피해에 대한 손해배상과 징벌적 배상을 요구하고 있다. 소장은 27일 휴스턴 연방법원에 제출됐다.",
+      "title_en": "Ex-Tesla manager: Houston FSD test team became <em>\"rolling hazards\"</em> from understaffing — lawsuit",
+      "hotShort_en": "Ex-manager sues: Houston FSD team <em>\"rolling hazards\"</em>",
+      "body_en": "A former Tesla manager who ran the company's Houston FSD test fleet alone has sued in federal court, alleging Tesla blew past its own 1-to-15 supervisor ratio to scale to 38 vehicles, turning them into \"rolling hazards on public streets\" — raising safety-oversight questions just as Tesla keeps expanding its unsupervised Robotaxi service.",
+      "summary_en": "Javier Medrano joined Tesla in October 2023 and, within eight months, became the sole operations manager for Tesla's Houston FSD testing market. According to his complaint, Tesla's Autopilot director set a baseline of one supervisor per 15 test vehicles in late May 2024, but then pushed a ramp-up that scaled the Houston fleet to 38 vehicles running a 24-hour testing cycle.\n\nMedrano was left managing that scale alone, far exceeding the company's own safety ratio. FSD test managers are supposed to audit driving footage, conduct weekly ride-alongs, and follow up on safety incidents — duties the complaint says became impossible to keep up with.\n\nHe reported to HR what he called an \"ongoing extreme... safety oversight hazard\" on Houston's public roads and the severe understaffing, but the complaint says an HR representative responded by suggesting he put his phone on \"Do Not Disturb\" during testing shifts. Two team leads were later flown in from Dallas to help, but a stock award Medrano had been waiting to vest was pulled a week before it was due.\n\nMedrano has since moved to a rival EV company and is seeking reinstatement, back pay, front pay, lost benefits, restitution for the canceled stock award, and compensatory and punitive damages. The complaint was filed July 27 in federal court in Houston.",
+      "href": "https://electrek.co/2026/07/28/tesla-self-driving-manager-rolling-hazards-lawsuit/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Engadget",
+        "AOL"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
