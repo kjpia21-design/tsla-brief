@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-25T07:05:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-waymo-uber-split-2026-07-24",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct — FT scoop corroborated same-day by Bloomberg/CNBC/TechCrunch as reporting, not rumor",
-            "no advisory tone / no price target",
-            "hedge language (검토/exploring) preserved for the overall split; firmer sub-facts (Phoenix ended, Atlanta/Austin exclusivity ending, Jan 2028 own-app launch) independently confirmed as decided/announced, not oversold",
-            "numbers/dates internally consistent; note: existing Atlanta/Austin contract runs through May 2028 while exclusivity/own-app launch is Jan 2028 — card's 'early 2028' phrasing covers the exclusivity piece accurately",
-            "summary content matches FT headline framing and Bloomberg/TechCrunch competition/lobbying angle",
-            "meme/satire check N/A (not X-sourced)"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-25T15:10:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -796,6 +776,25 @@
             "조언톤 위반 없음, 추측→단정 전환 없음(미래 일정은 '순차 진행'·'예정' 유지, 원문 scheduled와 정합)",
             "본문 원안의 '발주서(task order)' 단수 표현을 검증 후 '2건'으로 정정해 정확도 보강(발행 반영)",
             "href-본문 일치 확인, 밈·풍자 아님(X 소스 아님)"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-30T11:12:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "stock-6-red-days-21pct-decline-2026-07-30",
+          "verdict": "pass",
+          "reasons": [
+            "sourceLabel press 적정 (Trefis 전문 투자 분석 매체, 1차 아님)",
+            "조언 톤 없음 — 매수매도 권유·목표가 제시 없음",
+            "단정 표현은 confirmedBy=3(Trefis/Barron's/Motley Fool) 교차검증된 사실(6거래일 -21%, 61B 증발, Q2 EPS /bin/bash.33 vs 컨센서스 /bin/bash.51, capex +142% .79B)에만 사용 — hedge 필요한 과잉 단정 없음",
+            "숫자·날짜 WebSearch 교차 재대조 일치 (직접 WebFetch는 trefis.com/barrons.com 403 차단으로 불가 — fail-open, 대신 복수 독립 기사로 교차검증)",
+            "본문-링크 일치 — href(trefis.com 원문)와 카드 사건 동일",
+            "X/밈 소스 아님 — 해당없음"
           ]
         }
       ]
