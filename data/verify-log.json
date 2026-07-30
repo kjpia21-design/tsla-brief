@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-25T05:05:37.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "musk-spacex-starship-flight13-splashdown-2026-07-25",
-          "verdict": "pass",
-          "reasons": [
-            "cross-checked vs CNN/Space.com/Spaceflight Now/Bloomberg — facts match; press label correct; nuance (booster hard splashdown vs upper-stage first intact splashdown) accurate"
-          ]
-        },
-        {
-          "slug": "musk-boring-company-20b-valuation-2026-07-25",
-          "verdict": "pass",
-          "reasons": [
-            "cross-checked vs WSJ/Reuters syndication/Gurufocus — $4B raise, up to $20B valuation, prior $9.6B (Sep 2025) confirmed; hedged '추진 중' framing matches WSJ's own unconfirmed/in-talks framing; press label correct"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-25T07:05:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -796,6 +775,27 @@
             "조언톤 위반 없음, 추측→단정 전환 없음(전문가 인용으로 정확히 귀속)",
             "④ 실패: 초안이 '머스크가 13차 비행 전 지상에서 타일 한계 테스트'라 기술했으나, 실제는 '비행 중 상승구간에서 의도적으로 공격적 가속 프로파일 적용, 비행 후 공개' — 시점·장소 오류. 원고 작성 단계에서 즉시 정정 후 발행(shadow 모드지만 사실오류는 발행 전 수정)",
             "본문-링크 일치, 밈/풍자 해당없음"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-30T07:09:45.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-pentagon-1-6b-falcon9-deal-2026-07-30",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Teslarati는 SEC 공시·우주군 공식 발표문 아닌 언론보도, rumor 아님",
+            "숫자 대조: $16억(2건 task order 합산)·팰컨9 18회·반덴버그 기지·2027년말까지·NSSL 3단계 레인1 프로그램 모두 서브에이전트 WebSearch 교차검증(Reuters/Investing.com, SpaceNews, Breaking Defense, InterestingEngineering, driveteslacanada.ca, BigGo Finance) 일치",
+            "'단일 발주로는 최대 규모' 표현 — Teslarati 원문 그대로, 과장 아님",
+            "누적 국방부 수주액 '80억 달러' — href(Teslarati) 원문 'tops $8 billion' 그대로 일치. 참고: Reuters/Investing.com 일부 판본은 '최소 70억 달러'로 소폭 낮게 표기하나 대표 출처(Teslarati) 기준 정확 — 오류 아님",
+            "조언톤 위반 없음, 추측→단정 전환 없음(미래 일정은 '순차 진행'·'예정' 유지, 원문 scheduled와 정합)",
+            "본문 원안의 '발주서(task order)' 단수 표현을 검증 후 '2건'으로 정정해 정확도 보강(발행 반영)",
+            "href-본문 일치 확인, 밈·풍자 아님(X 소스 아님)"
           ]
         }
       ]
