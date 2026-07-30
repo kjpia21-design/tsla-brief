@@ -1,22 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-25T15:09:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-robotaxi-380k-unsupervised-miles-2026-07-25",
-          "verdict": "hold",
-          "newSourceLabel": null,
-          "reasons": [
-            "criterion④ numeric mismatch: card originally stated 7 cities for CURRENT unsupervised operation, but only 6 cities are live (Austin/Dallas/Houston TX + Miami/Orlando/Tampa FL) — 7 is Tesla's target-metro count including not-yet-launched Phoenix/Las Vegas. Corrected to '6개 도시'/'6 cities' in KO+EN fields before publish (shadow mode logs only, but the curator applied the fix directly per Step 4 accuracy gate).",
-            "all other checks passed: 380,000 miles exact match; 'zero notable incidents' verified direct Elluswamy quote from Q2 earnings call; double-digit weekly growth confirmed; Phoenix/Las Vegas next-market claim confirmed; New Orleans correctly hedged as unofficial candidate; SF Bay Area safety-driver requirement confirmed; href/sourceLabel/confirmedBy all correct"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-25T16:20:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -831,6 +815,35 @@
             "추측→단정 전환 없음 — 목요일 정규장 마감 전 시점이라 '~수 있다고 짚었다'로 완화, 실제 종가 미확정 명시",
             "장중·잠정 수치 아님 — 확정된 MS 실적 발표치만 사용, 테슬라 자체 종가는 기존 문단 그대로(변경 없음)",
             "본문-링크 일치 유지"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-30T19:15:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-baron-ark-buy-dip-2026-07-30",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "Ron Baron figures (25B of ~70B AUM, 2B/27 transactions since 2017 + 1B at IPO, 20-30x quote, 20-30T/40T valuation claim) independently confirmed via CNBC/Benzinga cross-check",
+            "SpaceX price move (225.64 peak -> 113.50, ~1.2T erased, below 135 IPO price) confirmed via TradingView/Stocktwits coverage",
+            "ARK continued buying through decline, SpaceX top-10 ARK holding, directionally confirmed via Motley Fool",
+            "valuation/return claims properly attributed as Baron's own quoted opinion, not stated as the site's own forecast — no advice-tone violation"
+          ]
+        },
+        {
+          "slug": "stock-6-red-days-21pct-decline-2026-07-30",
+          "verdict": "regrade",
+          "newSourceLabel": "press (unchanged label, text softened)",
+          "reasons": [
+            "6-day/-21%/~261B decline framing solidly corroborated (Trefis + multiple outlets)",
+            "Microsoft 8% after-hours pop and subsequent cloud/AI beat solidly confirmed",
+            "the specific claim that TSLA closed UP on 7/30 ending the streak was NOT cleanly confirmable — some signals support a rebound (tradingkey +3.09%, fxleaders rebound off 00), one contradictory unsourced signal implied a broad-market selloff that day; Barron's/Trefis source articles were paywalled/403 and could not be independently read",
+            "action taken: softened title/hotShort/body/summary (KO+EN) from asserting the close as confirmed fact to attributing it as reported-but-not-independently-verified, added explicit cross-check caveat; kept sentiment neutral; did not invent a specific TSLA closing percentage"
           ]
         }
       ]
