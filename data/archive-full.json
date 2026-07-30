@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-07-29 23:02 UTC · 누적 722건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-30 02:48 UTC · 누적 723건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "musk",
@@ -72,6 +72,26 @@
       ],
       "sentiment": "neutral",
       "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "9h ago",
+      "pubDate": "2026-07-29T16:12:56.000Z",
+      "title": "전직 NASA 전문가들 \"스타십 <em>내열 타일, 완전·신속 재사용에 구조적 한계</em>\"",
+      "hotShort": "전직 NASA 전문가 \"스타십 <em>내열타일, 재사용 한계</em>\"",
+      "body": "전직 NASA 열보호시스템 전문가 3인이, 스타십 13차 시험비행(7/24) 착수 후 회수된 선체에서 발견된 내열 타일 균열을 근거로 \"현재 설계로는 완전·신속 재사용이 불가능하다\"고 경고했다 — 머스크가 약속해온 '초저비용 재사용' 로드맵의 핵심 전제를 정면으로 흔드는 지적이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-starship-heatshield-reuse-concern-2026-07-29",
+      "summary": "스타십 13차 시험비행은 지난 24일 슈퍼헤비 부스터와 우주선이 각각 멕시코만·인도양에 착수하며 주요 임무 목표를 달성했다. 그러나 착수 후 회수된 우주선 선체에서 내열 타일 곳곳의 균열·손상이 확인되면서, 재사용성을 둘러싼 새로운 논쟁이 불붙었다.\n\n블룸버그에 따르면, NASA 에임스 연구센터에서 거의 40년간 열보호재를 연구한 전직 엔지니어 댄 라스키를 포함한 전직 NASA 전문가 3인은 \"현재의 열보호 시스템은 완전하고 신속한 재사용이 필요한 모든 임무에 막다른 길\"이라고 말했다. 이들이 짚은 핵심 문제는 타일 개별 성능이 아니라 설계 구조 자체 — 전체 시스템의 열성능이 모든 타일과 이음매 하나하나의 상태에 좌우돼, 매 비행마다 전수 점검이 불가피하다는 것이다. 30년간 우주왕복선을 괴롭혔던 것과 같은 \"점검 의존형\" 구조라는 지적이다.\n\n공교롭게도 일론 머스크는 13차 비행 상승 구간에서 내열 타일 부착 한계를 시험하려 의도적으로 더 공격적인 가속 프로파일을 적용했다고 비행 후 직접 공개한 바 있다 — 회사 내부적으로도 타일 내구성을 예의주시해온 정황으로 읽힌다.\n\n스타십의 '완전·신속 재사용'은 스페이스X가 발사 단가를 로켓 산업 평균 대비 대폭 낮추겠다는 비전의 핵심 전제다. 전문가들의 지적대로 타일 방식이 구조적 한계에 부딪힌다면, 스타링크 대량 발사·달·화성 임무 등 장기 로드맵 전반의 속도 조절이 불가피할 수 있다는 우려가 나온다.",
+      "title_en": "Former NASA experts: Starship's <em>heat-shield tiles hit a structural wall</em> on rapid reuse",
+      "hotShort_en": "NASA experts: Starship <em>tiles block rapid reuse</em>",
+      "body_en": "Three former NASA thermal-protection experts say cracked heat-shield tiles recovered after Starship's 13th test flight (July 24) show the current design can't support full, rapid reusability — a direct challenge to the ultra-low-cost reuse promise at the core of Musk's roadmap.",
+      "summary_en": "Starship's 13th test flight on July 24 saw the Super Heavy booster and the ship complete splashdowns in the Gulf of Mexico and the Indian Ocean, respectively, meeting the mission's main objectives. But once the ship was recovered, inspectors found cracks and damage scattered across its heat-shield tiles, reigniting debate over how reusable the vehicle really is.\n\nAccording to Bloomberg, three former NASA researchers — including Dan Rasky, who spent nearly four decades studying thermal-protection materials at NASA's Ames Research Center — said the current heat shield is \"a dead-end for all missions that require full and rapid reusability.\" Their core objection isn't about any single tile's performance, but the design itself: because the system's thermal performance depends on the condition of every tile and every gap between them, a full inspection is effectively required after each flight — the same \"inspection-bound\" bottleneck that constrained the Space Shuttle for three decades.\n\nNotably, Musk disclosed after the flight that SpaceX deliberately flew a more aggressive ascent profile on Flight 13 to stress-test the tiles' attachment limits — a sign the company has been closely tracking tile durability internally.\n\nStarship's promise of full, rapid reusability is the linchpin of SpaceX's plan to slash launch costs well below the rocket industry's norm. If the tile-based approach really does hit a structural ceiling, as the experts argue, it could force a slower cadence across SpaceX's broader roadmap — from mass Starlink launches to lunar and Mars missions.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-29/spacex-starship-heat-shield-can-t-support-rapid-flights-experts",
+      "sentiment": "bear",
+      "hot": 5
     },
     {
       "category": "musk",
