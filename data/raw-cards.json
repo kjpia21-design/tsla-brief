@@ -1,10 +1,62 @@
 {
-  "asOf": "2026-07-30 19:41 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-30 21:16 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "17m ago",
+      "pubDate": "2026-07-30T20:59:46.000Z",
+      "title": "Musk's America PAC plans $100 million-plus effort to boost Republican turnout, NYT reports",
+      "body": "Musk's America PAC plans $100 million-plus effort to boost Republican turnout, NYT reports reuters.com",
+      "sourceName": "reuters.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/media-telecom/musks-america-pac-plans-100-million-plus-effort-boost-republican-turnout-nyt-2026-07-30/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "56m ago",
+      "pubDate": "2026-07-30T20:20:00.000Z",
+      "title": "SpaceX Stock Is Tumbling. Baron and ARK Are Feeling the Pain.",
+      "body": "SpaceX Stock Is Tumbling. Baron and ARK Are Feeling the Pain. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/spacex-tesla-stock-baron-ark-elon-musk-4d970069"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
+      "pubDate": "2026-07-30T20:13:00.000Z",
+      "title": "Tesla Stock Rises. How Microsoft Helped End Its 6-Day Losing Streak.",
+      "body": "Tesla Stock Rises. How Microsoft Helped End Its 6-Day Losing Streak. Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-losing-streak-microsoft-earnings-2be55fff"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-30T19:59:46.000Z",
+      "title": "Autonomous vehicle red tape gets slashed by Trump Administration",
+      "body": "The Trump Administration today made several key moves to help with the deployment of autonomous vehicles by cutting overreaching red tape that has stifled growth and innovation for years. The moves, which were put forth …",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/autonomous-vehicle-red-tape-slashed-trump/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
       "pubDate": "2026-07-30T18:39:56.000Z",
       "title": "Tesla’s Elon Musk is having a generational meltdown",
       "body": "Tesla CEO Elon Musk has spent 2026 turning his X feed into a problem no investor relations team can fix. His posts have escalated from trolling into open white nationalism, and this week his AI company sued the state of …",
@@ -17,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-30T17:16:53.000Z",
       "title": "Elon Musk has a crazy prediction about AI in two years",
       "body": "Elon Musk has a crazy prediction about AI in two years Teslarati",
@@ -28,22 +80,9 @@
       "href": "https://www.teslarati.com/elon-musk-crazy-prediction-ai-two-years/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-07-30T17:01:00.000Z",
-      "title": "SpaceX Stock Is Tumbling. Baron and ARK Are Feeling the Pain.",
-      "body": "SpaceX Stock Is Tumbling. Baron and ARK Are Feeling the Pain. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-tesla-stock-baron-ark-elon-musk-4d970069"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-07-30T16:48:00.000Z",
       "title": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next",
       "body": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next AP News",
@@ -56,33 +95,20 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-30T16:25:20.000Z",
       "title": "EXCLUSIVE: Amazon's Zoox wins first US approval for paid robotaxis without human controls",
-      "body": "EXCLUSIVE: Amazon's Zoox wins first US approval for paid robotaxis without human controls Reuters",
-      "sourceName": "Reuters",
+      "body": "EXCLUSIVE: Amazon's Zoox wins first US approval for paid robotaxis without human controls reuters.com",
+      "sourceName": "reuters.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/world/amazons-zoox-wins-first-us-approval-paid-robotaxis-with-no-human-controls-2026-07-30/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-07-30T15:51:18.000Z",
-      "title": "Elon Musk joins the Nelk Boys on Full Send podcast",
-      "body": "Elon Musk joins the Nelk Boys on Full Send podcast Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/elon-musk-nelk-boys-full-send-podcast-video/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-07-30T15:48:30.000Z",
       "title": "Tesla just built it 10 millionth car",
       "body": "Tesla just officially confirmed it has built its 10 millionth car, a major milestone for the company that started producing sustainable electric powertrains less than two decades ago. In that time, Tesla has truly revolu…",
@@ -93,22 +119,9 @@
       "href": "https://www.teslarati.com/tesla-10-millionth-car/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
-      "pubDate": "2026-07-30T14:51:00.000Z",
-      "title": "Tesla Stock Is Gaining. How Microsoft Is Helping End Its Six-Day Losing Streak.",
-      "body": "Tesla Stock Is Gaining. How Microsoft Is Helping End Its Six-Day Losing Streak. Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-losing-streak-microsoft-earnings-2be55fff"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-07-30T14:51:00.000Z",
       "title": "Amazon’s Zoox Gets Clearance to Start Paid Robotaxi Rides",
       "body": "Amazon’s Zoox Gets Clearance to Start Paid Robotaxi Rides WSJ",
@@ -121,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-30T13:52:47.000Z",
       "title": "New Tesla Supercharger: Foiano della Chiana, Italy (12 stalls)",
       "body": "New Tesla Supercharger: Foiano della Chiana, Italy (12 stalls) https://t.co/WiUqqIpdTs https://t.co/h5CHUClQFl",
@@ -132,22 +145,9 @@
       "href": "https://x.com/TeslaCharging/status/2082826743694651703"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-07-30T13:48:49.000Z",
-      "title": "Amazon's Zoox has just won ​U.S. approval for limited commercial deployment of its steering-wheel-free robotaxis, a f…",
-      "body": "Amazon's Zoox has just won ​U.S. approval for limited commercial deployment of its steering-wheel-free robotaxis, a first for the autonomous ride industry, ‌the NHTSA has announced. \"This temporary exemption will allow t…",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/SawyerMerritt/status/2082825745110323529"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-30T13:46:01.000Z",
       "title": "Look forward to talking tech stocks and a big night of tech earnings ahead on @CNBCClosingBell at 3 pm with @TheJudge…",
       "body": "Look forward to talking tech stocks and a big night of tech earnings ahead on @CNBCClosingBell at 3 pm with @TheJudgeCNBC @CNBC 🏆🔥🍿📺🔥🐂 https://t.co/wG4b4VKCfe",
@@ -160,11 +160,11 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-30T13:39:34.000Z",
       "title": "Elon Musk",
-      "body": "Elon Musk cnbc.com",
-      "sourceName": "cnbc.com",
+      "body": "Elon Musk CNBC",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -173,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-30T13:36:51.000Z",
       "title": "Tesla hits 10 million vehicles — but its EV growth has stalled",
       "body": "Tesla has built its 10 millionth vehicle, the company announced this week. Ten million all-electric cars is a real milestone, and no other automaker has done it. But it’s arriving later than Tesla once promised, and the …",
@@ -186,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-30T13:17:19.000Z",
       "title": "Of 331 Tesla owners surveyed, 20% had open orders for a new Tesla. Of those open orders, 85% were for the $60k Cybert…",
       "body": "Of 331 Tesla owners surveyed, 20% had open orders for a new Tesla. Of those open orders, 85% were for the $60k Cybertruck. https://t.co/cW1MkdDWoE",
@@ -199,7 +199,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-30T11:46:00.000Z",
       "title": "Tesla Stock Drops Below $300 After 6-Day Losing Streak",
       "body": "Tesla Stock Drops Below $300 After 6-Day Losing Streak Barron's",
@@ -212,7 +212,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-07-30T10:33:16.000Z",
       "title": "There will be many earnings in the tech world in 2Q but the Microsoft quarter will be the most important of this earn…",
       "body": "There will be many earnings in the tech world in 2Q but the Microsoft quarter will be the most important of this earnings season in our view. The enterprise AI demand best barometer is the demand coming out from Redmond …",
@@ -225,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-30T06:28:41.000Z",
       "title": "Real-world AI needs a chip to hold the brain, but also many parts to make it move. There is no commonality of parts u…",
       "body": "Real-world AI needs a chip to hold the brain, but also many parts to make it move. There is no commonality of parts unless you make them at scale.",
@@ -236,22 +236,9 @@
       "href": "https://x.com/yunta_tsai/status/2082714983474102327"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-07-30T02:46:03.000Z",
-      "title": "New Tesla Supercharger: Taichung, Wuri - Jianxing North 1st Rd (6 stalls)",
-      "body": "New Tesla Supercharger: Taichung, Wuri - Jianxing North 1st Rd (6 stalls) https://t.co/X2rRueiGP7 https://t.co/mQjWJCfPwL",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2082658955202035900"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-29T20:29:00.000Z",
       "title": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk",
       "body": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk Barron's",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-trillion-dollars-a53cdd8b"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2d ago",
+      "pubDate": "2026-07-28T11:18:46.000Z",
+      "title": "Tesla to Buy Power From KKR-Backed Arizona Solar, Battery Plant",
+      "body": "Tesla to Buy Power From KKR-Backed Arizona Solar, Battery Plant Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-28/tesla-to-buy-power-from-kkr-backed-arizona-solar-battery-plant"
     }
   ]
 }
