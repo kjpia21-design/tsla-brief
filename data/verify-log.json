@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-25T16:20:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "product-open-source-model-s-x-design-2026-07-25",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for Electrek (analysis of Musk's statement, not a 1st-party Tesla/SEC filing)",
-            "no advisory tone, no price target",
-            "no hedge-to-assertion drift — Electrek's own framing ('statement of intent, not a release', no timeline/scope/license) preserved verbatim in card rather than oversold as a confirmed release",
-            "Roadster-precedent numbers (8 GitHub files, 5 CAN .dbc files ~339KB, 309MB diagnostic ISO, 2 PDF guides, 5 login-walled doc packages, no open-source license granted) sourced from WebSearch synthesis of the Electrek article — direct WebFetch to electrek.co and teslarati.com both returned 403, relied on fail-open WebSearch cross-check; figures were internally consistent and independently corroborated by basenor's coverage of the same Model S/X announcement",
-            "href matches the exact Electrek article covering this story",
-            "confirmedBy=2 (Electrek, Teslarati) appropriate — both independently published on the same Musk statement",
-            "not X-sourced directly (Musk's original post not linked as href), so satire/meme gate N/A; underlying claim is a real, multiply-reported statement, not a joke",
-            "deliberately omitted from card: unverified claim (surfaced only in WebSearch AI overlay, not attributed to any named outlet) that Model S/X production wound down in Q2 2026 — this pattern matches known blocklist entries for fabricated Model S/X discontinuation stories, so excluded per when-in-doubt-drop principle"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-25T20:58:00.000Z",
       "mode": "shadow",
       "checked": 2,
@@ -844,6 +822,25 @@
             "Microsoft 8% after-hours pop and subsequent cloud/AI beat solidly confirmed",
             "the specific claim that TSLA closed UP on 7/30 ending the streak was NOT cleanly confirmable — some signals support a rebound (tradingkey +3.09%, fxleaders rebound off 00), one contradictory unsourced signal implied a broad-market selloff that day; Barron's/Trefis source articles were paywalled/403 and could not be independently read",
             "action taken: softened title/hotShort/body/summary (KO+EN) from asserting the close as confirmed fact to attributing it as reported-but-not-independently-verified, added explicit cross-check caveat; kept sentiment neutral; did not invent a specific TSLA closing percentage"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-30T23:06:48.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-zoox-nhtsa-robotaxi-approval-2026-07-30",
+          "verdict": "pass",
+          "newSourceLabel": "sec",
+          "reasons": [
+            "Card merged with same-day NHTSA regulatory framework news (national AV performance standards, A2SCEND $5M/3yr SAE consortium, 8 FMVSS updates) rather than creating a duplicate card — same NHTSA July 30 announcement as the existing Zoox exemption card",
+            "Numbers cross-checked via WebSearch across NHTSA official press release framing, Crowell & Moring client alert, and DOT/FHWA newsroom summaries — $5M/3-year consortium, FMVSS 102/103/104/110/135 proposed + 108/111/126/201/208 planned, Zoox 2,500 vehicles/year for 2 years all consistent across sources",
+            "href swapped from Reuters (Zoox-only) to NHTSA official press release since body now covers the broader framework beyond just Zoox — sourceLabel upgraded press->sec accordingly (NHTSA is the regulator per schema)",
+            "No advice tone, hedges (proposed/plans to/directed) preserved for not-yet-finalized items, sentiment bull is warranted (regulatory tailwind for Tesla's pedal-less Cybercab) and not overstated",
+            "WebFetch was unavailable in this run (403 on all URLs including a neutral control fetch) — verification relied on WebSearch snippets from NHTSA/DOT/law-firm/trade-press sources instead of direct WebFetch of the href; flagging per fail-open policy"
           ]
         }
       ]
