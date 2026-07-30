@@ -1,6 +1,32 @@
 {
-  "asOf": "2026-07-30 10:29 UTC · 누적 724건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-30 14:16 UTC · 누적 725건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-07-30T10:08:56.000Z",
+      "title": "테슬라 6거래일 연속 하락 — 시총 <em>21% 증발</em>, 1조달러 사수 위태",
+      "hotShort": "테슬라 6일 연속 하락, <em>시총 21% 증발</em>",
+      "body": "테슬라 주가가 2분기 실적 부진 후유증으로 6거래일 연속 밀리며 누적 21% 하락, 시가총액 약 $261B(약 36조원)가 증발했다 — 시총이 다시 1조달러 아래로 내려갈 수 있다는 우려가 나온다. 로보택시·옵티머스·AI 인프라에 쏟아붓는 대규모 투자가 마진을 짓누르는 흐름이 계속되는 신호로 풀이된다.",
+      "sourceName": "Trefis",
+      "sourceLabel": "press",
+      "slug": "stock-6-red-days-21pct-decline-2026-07-30",
+      "summary": "이달 22일 발표된 2분기 실적이 여전히 테슬라 주가를 짓누르고 있다. 매출은 $28.24B로 전년 동기 대비 26% 늘며 시장 예상을 웃돌았지만, 조정 주당순이익(EPS)은 $0.33으로 컨센서스 $0.51를 크게 하회했고 영업이익률은 1.4%까지 주저앉았다.\n\n실적 부진의 핵심 배경은 급증한 자본지출이다. CFO 바이바브 타네자는 로보택시·옵티머스·AI 컴퓨트 인프라에 투자하며 설비투자(capex)가 전년 대비 142% 늘어난 $5.79B에 달했다고 밝혔다 — 매출 성장보다 비용 증가 속도가 더 빨랐던 셈이다.\n\n이 여파로 테슬라 주가는 6거래일 연속 하락, 누적 21% 밀리며 시가총액 약 $261B이 증발했다. 종가 기준 주가는 $298 선까지 내려왔고(게리 블랙이 경고했던 '$300선 붕괴'가 현실화), 시가총액도 연초 1.4조달러 안팎에서 크게 후퇴해 1조달러 사수가 다시 도마에 올랐다.\n\n다만 매출 자체는 사상 최대를 기록했고 로보택시·FSD 확장은 계속되고 있어, 이번 하락은 '성장 스토리의 붕괴'라기보다 'AI 투자에 따른 단기 마진 희생'을 시장이 어떻게 평가하느냐의 문제로 보인다.",
+      "title_en": "Tesla skids for 6th straight day — <em>market cap down 21%</em>, trillion-dollar status at risk",
+      "hotShort_en": "Tesla stock falls <em>6th day, down 21%</em>",
+      "body_en": "Tesla shares have fallen for a sixth straight session, down a cumulative 21% and erasing roughly $261B in market value — putting the company's trillion-dollar valuation status at risk. The rout follows Q2 results where a sharp jump in AI, robotaxi, and Optimus spending crushed margins even as revenue hit a record.",
+      "summary_en": "Tesla's Q2 earnings, released July 22, are still weighing on the stock. Revenue came in at $28.24B, up 26% year over year and above estimates, but adjusted EPS of $0.33 badly missed the $0.51 consensus, and operating margin sank to just 1.4%.\n\nThe culprit is a surge in capital spending. CFO Vaibhav Taneja said capex jumped 142% year over year to $5.79B as Tesla poured cash into robotaxi, Optimus, and AI compute infrastructure — spending that outpaced revenue growth.\n\nThe fallout has pushed Tesla stock down for six consecutive sessions, a cumulative 21% decline that has erased roughly $261B in market value. Shares have slid to around $298 — confirming the sub-$300 breakdown analyst Gary Black had flagged — and market cap has retreated well off its 2026 highs near $1.4 trillion, putting the trillion-dollar milestone back in question.\n\nStill, revenue itself hit a record and robotaxi/FSD expansion continues, so the selloff reads less as a collapse of the growth story and more as the market re-pricing near-term margin sacrifice for long-term AI investment.",
+      "href": "https://www.trefis.com/stock/tsla/articles/609472/6-red-days-in-a-row-tesla-stock-is-down-21/2026-07-30",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Trefis",
+        "Barron's",
+        "The Motley Fool"
+      ],
+      "sentiment": "bear",
+      "hot": 7
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
