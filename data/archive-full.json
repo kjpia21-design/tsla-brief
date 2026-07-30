@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-30 06:32 UTC · 누적 723건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-30 10:29 UTC · 누적 724건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "38m ago",
+      "pubDate": "2026-07-30T06:31:15.000Z",
+      "title": "스페이스X, 美 우주군과 <em>18회 팰컨9 발사 16억달러</em> 신규 계약",
+      "hotShort": "스페이스X, 美 우주군과 <em>16억달러 발사계약</em> 체결",
+      "body": "미 우주군이 스페이스X에 팰컨9 로켓 18회 발사 임무를 발주서 2건에 나눠 16억 달러에 맡겼다 — 반덴버그 기지에서 2027년까지 순차 진행되며, 올해 스페이스X의 국방부 수주 누적액이 80억 달러를 넘어섰다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-pentagon-1-6b-falcon9-deal-2026-07-30",
+      "summary": "미국 우주군이 29일(현지시간) 스페이스X에 팰컨9 로켓 18회 발사를 맡기는 16억 달러 규모의 신규 임무 발주서(task order) 2건을 승인했다. 이번 발주는 국가안보우주발사(NSSL) 3단계 레인1 프로그램 아래 지금까지 공개된 단일 발주로는 최대 규모다.\n\n발사는 모두 캘리포니아 반덴버그 우주군기지에서 이뤄지며, 2027년 말까지 순차 완료될 예정이다. 탑재체는 국방부의 공중 위협 감지·추적용 위성으로, 트럼프 행정부가 추진 중인 미사일 방어체계 '골든돔' 구상과도 맞닿아 있다.\n\n이번 발주로 스페이스X가 올해 국방부로부터 따낸 계약 누적액은 80억 달러를 넘어섰다. 우주군의 주력 발사체 조달에서 스페이스X 의존도가 갈수록 커지는 흐름을 보여준다.",
+      "title_en": "SpaceX wins <em>$1.6B Pentagon deal</em> for 18 Falcon 9 launches",
+      "hotShort_en": "SpaceX wins <em>$1.6B Pentagon launch deal</em>",
+      "body_en": "The U.S. Space Force awarded SpaceX two task orders worth $1.6 billion combined for 18 Falcon 9 missions from Vandenberg — pushing the company's 2026 Pentagon contract total past $8 billion and deepening its role in national security launch.",
+      "summary_en": "The U.S. Space Force approved two new task orders worth $1.6 billion combined for SpaceX on Wednesday, covering 18 Falcon 9 missions — the largest single publicly disclosed award so far under the National Security Space Launch (NSSL) Phase 3 Lane 1 program.\n\nAll 18 launches will fly from Vandenberg Space Force Base in California, with the missions scheduled for completion by the end of 2027. The payloads are missile-tracking satellites designed to detect and monitor airborne threats, tying into the Trump administration's proposed \"Golden Dome\" missile-defense shield.\n\nThe award brings SpaceX's 2026 Pentagon contract total past $8 billion, underscoring the company's growing centrality to U.S. national security launch — even as SpaceX's own equity story has been more turbulent this year.",
+      "href": "https://www.teslarati.com/spacex-scores-another-massive-pentagon-deal-to-support-military-satellites/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Investing.com"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",

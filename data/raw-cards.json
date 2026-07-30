@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-07-30 06:32 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-30 10:29 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "21m ago",
+      "pubDate": "2026-07-30T10:08:56.000Z",
+      "title": "6 Red Days In A Row: Tesla Stock Is Down 21%",
+      "body": "6 Red Days In A Row: Tesla Stock Is Down 21% Trefis",
+      "sourceName": "Trefis",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.trefis.com/stock/tsla/articles/609472/6-red-days-in-a-row-tesla-stock-is-down-21/2026-07-30"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "58m ago",
+      "pubDate": "2026-07-30T09:31:16.000Z",
+      "title": "France raises fresh obstacle to Tesla's self-driving ambitions in Europe",
+      "body": "France raises fresh obstacle to Tesla's self-driving ambitions in Europe Fleet Europe",
+      "sourceName": "Fleet Europe",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.fleeteurope.com/en/connected/europe/article/france-raises-fresh-obstacle-teslas-self-driving-ambitions-europe"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-07-30T07:55:50.000Z",
+      "title": "Tesla (TSLA) Stock Forecast for 2026, 2027, 2028–2030 and Beyond",
+      "body": "Tesla (TSLA) Stock Forecast for 2026, 2027, 2028–2030 and Beyond LiteFinance",
+      "sourceName": "LiteFinance",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.litefinance.org/blog/analysts-opinions/tesla-stock-price-prediction/"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1m ago",
+      "time": "4h ago",
       "pubDate": "2026-07-30T06:31:15.000Z",
       "title": "SpaceX scores another massive Pentagon deal to support military satellites",
       "body": "SpaceX just picked up another $1.6 billion from the Pentagon, with the U.S. Space Force awarding two task orders worth $1.6 billion to fly 18 Falcon 9 missions from Vandenberg Space Force Base in California through the e…",
@@ -17,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-30T02:46:26.000Z",
       "title": "the stock is down, but the number of robotaxis is up",
       "body": "the stock is down, but the number of robotaxis is up https://t.co/P8xEaa73kN",
@@ -30,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-30T02:46:03.000Z",
       "title": "New Tesla Supercharger: Taichung, Wuri - Jianxing North 1st Rd (6 stalls)",
       "body": "New Tesla Supercharger: Taichung, Wuri - Jianxing North 1st Rd (6 stalls) https://t.co/X2rRueiGP7 https://t.co/mQjWJCfPwL",
@@ -43,7 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "8h ago",
       "pubDate": "2026-07-30T02:22:47.000Z",
       "title": "the stock market often shits its pants. such is the the nature of the stock market. It’s happened many times througho…",
       "body": "the stock market often shits its pants. such is the the nature of the stock market. It’s happened many times throughout history. there was the great depression, the 2008 financial crisis… these are just small ripples com…",
@@ -56,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-30T01:58:10.000Z",
       "title": "Starlink Internet works even in the middle of nowhere",
       "body": "Starlink Internet works even in the middle of nowhere https://t.co/yjwfmXsgkm",
@@ -67,22 +106,9 @@
       "href": "https://x.com/elonmusk/status/2082646903402229872"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-07-30T01:40:52.000Z",
-      "title": "Elon Musk sheds two new bits of detail on Starship after 13th test launch",
-      "body": "Elon Musk sheds two new bits of detail on Starship after 13th test launch Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/elon-musk-sheds-two-new-bits-detail-starship-after-13th-test-launch/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-30T00:56:41.000Z",
       "title": "$TSLA [테슬라 FSD V14 Lite, 후진 2탄!ㅣ더 깔끔한 환경에서 테스트 해봤습니다] 주변 환경이 바뀌었다고해서 체감상 큰 차이는 없는거 같네요.",
       "body": "$TSLA [테슬라 FSD V14 Lite, 후진 2탄!ㅣ더 깔끔한 환경에서 테스트 해봤습니다] 주변 환경이 바뀌었다고해서 체감상 큰 차이는 없는거 같네요. https://t.co/Cl8Ripj3JP",
@@ -95,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-30T00:29:13.000Z",
       "title": "Cybercab door open and close",
       "body": "Cybercab door open and close https://t.co/MiX9fdQgTw",
@@ -108,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "12h ago",
       "pubDate": "2026-07-29T22:13:57.000Z",
       "title": "US House Democrat asks Musk to answer for polluting xAI data centers",
       "body": "US House Democrat asks Musk to answer for polluting xAI data centers Reuters",
@@ -121,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-29T21:15:39.000Z",
       "title": "29 July 2026 Giga Texas VIDEO … Another busy day at the site with construction pretty much in every direction you loo…",
       "body": "29 July 2026 Giga Texas VIDEO … Another busy day at the site with construction pretty much in every direction you look. From the North Campus where the new Optimus Factory is under construction, to the Central Support Ca…",
@@ -132,22 +158,9 @@
       "href": "https://x.com/JoeTegtmeyer/status/2082575808225276229"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
-      "pubDate": "2026-07-29T21:15:32.000Z",
-      "title": "Was supercharging my car earlier and a Cybercab appeared! Can’t wait till they are everywhere.",
-      "body": "Was supercharging my car earlier and a Cybercab appeared! Can’t wait till they are everywhere. https://t.co/2TSDGdwPDp",
-      "sourceName": "Zack (X)",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/BLKMDL3/status/2082575777233846519"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "10h ago",
+      "time": "14h ago",
       "pubDate": "2026-07-29T20:29:00.000Z",
       "title": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk",
       "body": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk Barron's",
@@ -160,11 +173,11 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-29T19:40:04.000Z",
       "title": "Tesla Model 3 Highland approved to receive adaptive headlights in Europe",
-      "body": "Tesla Model 3 Highland approved to receive adaptive headlights in Europe Teslarati",
-      "sourceName": "Teslarati",
+      "body": "Tesla Model 3 Highland approved to receive adaptive headlights in Europe teslarati.com",
+      "sourceName": "teslarati.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -173,7 +186,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "14h ago",
+      "time": "18h ago",
+      "pubDate": "2026-07-29T16:39:59.000Z",
+      "title": "Wall Street Races to Sell SpaceX-Linked Notes as Stock Sinks",
+      "body": "Wall Street Races to Sell SpaceX-Linked Notes as Stock Sinks Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-29/wall-street-races-to-sell-spacex-linked-products-as-stock-sinks"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "18h ago",
       "pubDate": "2026-07-29T16:12:56.000Z",
       "title": "SpaceX Starship Heat Shield Can’t Support Rapid Flights, Experts Say",
       "body": "SpaceX Starship Heat Shield Can’t Support Rapid Flights, Experts Say Bloomberg.com",
@@ -186,28 +212,15 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-07-29T13:59:48.000Z",
-      "title": "This superyacht hits different.",
-      "body": "This superyacht hits different. https://t.co/H7lBROfFW5",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
+      "time": "2d ago",
+      "pubDate": "2026-07-28T20:18:00.000Z",
+      "title": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying",
+      "body": "Tesla Keeps Falling and ARK’s Cathie Wood Keeps Buying Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2082466123019370653"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-07-29T13:49:44.000Z",
-      "title": "New Tesla Supercharger: Stryków, Poland (8 stalls)",
-      "body": "New Tesla Supercharger: Stryków, Poland (8 stalls) https://t.co/XPUltCx0Vm https://t.co/dteenf9Poy",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2082463587508064619"
+      "href": "https://www.barrons.com/articles/tesla-stock-price-cathie-wood-ark-buy-4eb33bbe"
     },
     {
       "category": "stock",
@@ -236,30 +249,17 @@
       "href": "https://www.bloomberg.com/news/articles/2026-07-28/tesla-to-buy-power-from-kkr-backed-arizona-solar-battery-plant"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "6d ago",
-      "pubDate": "2026-07-24T17:28:15.000Z",
-      "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
-      "body": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer CNBC",
+      "pubDate": "2026-07-24T16:32:04.000Z",
+      "title": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
+      "body": "Buy the dip case for Tesla diminishes due to stagnating fundamentals CNBC",
       "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/2026/07/24/trader-who-successfully-shorted-tesla-into-earnings-now-sets-sights-on-this-high-flyer-.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "7d ago",
-      "pubDate": "2026-07-23T13:52:26.000Z",
-      "title": "Tesla shares tumble 11% after discounts hit profits",
-      "body": "Tesla shares tumble 11% after discounts hit profits Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/dc5e629b-562c-41e3-8b89-350af6960adc?syn-25a6b1a6"
+      "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html"
     }
   ]
 }
