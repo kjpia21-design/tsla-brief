@@ -3,6 +3,32 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-07-31T11:00:00.000Z",
+      "title": "美 NHTSA, 테슬라 <em>서스펜션 결함 예비조사</em> 착수 — 모델3·Y 120만 대",
+      "hotShort": "NHTSA, 테슬라 <em>서스펜션 결함</em> 예비조사 착수",
+      "body": "美 도로교통안전국(NHTSA)이 모델3(2018~2020년식)·모델Y(2021~2023년식) 약 1.2M대를 대상으로 전방 하부 서스펜션 링크 이탈 관련 예비조사(PE)에 착수했다 — 소비자 불만 156건이 접수됐고 사고·부상 보고는 아직 없다. 결함으로 결론 나면 과거(2021년 2,800대·2023년 422대) 소규모 리콜보다 훨씬 큰 규모의 리콜로 번질 수 있다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "sec",
+      "slug": "product-nhtsa-suspension-probe-2026-07-31",
+      "summary": "NHTSA 산하 결함조사국(ODI)은 7월 31일(현지시간) 테슬라 모델3·모델Y 차량의 전방 하부 래터럴 링크(로어암) 이탈 의혹에 대한 예비평가(Preliminary Evaluation)를 개시했다고 밝혔다. 대상은 2018~2020년식 모델3 세단과 2021~2023년식 모델Y SUV로, 추정 영향 대수는 약 1.2M대에 달한다.\n\nODI에 접수된 소비자 불만은 156건 — 오너들은 전방 하부 링크가 갑자기 이탈하며 조향·주행 안정성을 잃었다고 신고했다. 대부분 사전 경고 없이 발생했다고 밝혔지만 일부는 사전에 소음이 있었다고 전했다. NHTSA는 이 결함이 발생하면 차량이 주행 불가 상태가 돼 견인이 필요할 수 있다고 설명했다.\n\n다만 NHTSA는 이번 결함과 관련해 현재까지 사고나 부상·사망 보고는 확인되지 않았다고 밝혔다. 예비평가는 결함의 범위·심각성·원인을 규명하는 절차로, 안전 관련 결함으로 판단되면 리콜을 압박할 수 있다.\n\n테슬라는 과거에도 같은 부위(하부 래터럴 링크) 이탈로 리콜을 단행한 적이 있다 — 2021년 모델3 약 2,800대, 2023년 모델3 422대 규모였다. 이번 조사는 그보다 훨씬 큰 1.2M대를 대상으로 하고 있어, NHTSA도 기존 리콜의 생산 결함과 이번 신고들이 같은 원인인지부터 다시 확인해야 하는 상황이다 — 원인이 다르다면 구제 범위가 더 커질 수 있다는 뜻이다.\n\n테슬라의 주력 차종인 모델3·Y가 조사 대상이라는 점에서, 예비평가가 본조사(EA)나 리콜로 격상될 경우 브랜드 신뢰도와 비용 부담 모두에 영향을 줄 수 있다. 다만 현재 단계는 '조사 개시'일 뿐 결함 확정이나 리콜은 아니라는 점은 분명히 해둘 필요가 있다.",
+      "title_en": "NHTSA opens <em>preliminary probe</em> into Tesla suspension failures — 1.2M vehicles",
+      "hotShort_en": "NHTSA opens <em>Tesla suspension</em> probe",
+      "body_en": "The US National Highway Traffic Safety Administration has opened a preliminary evaluation into roughly 1.2M Tesla vehicles — Model 3 sedans from 2018-2020 and Model Y SUVs from 2021-2023 — over reports that the front lower lateral link can detach, potentially causing loss of steering control. NHTSA has logged 156 complaints and says it hasn't seen any crashes or injuries so far, but a formal defect finding could trigger a recall far larger than Tesla's prior fixes for the same part (2,800 Model 3s in 2021, 422 in 2023).",
+      "summary_en": "NHTSA's Office of Defects Investigation opened a preliminary evaluation on July 31 into reports that the front lower lateral link — part of the suspension — can detach in certain Tesla Model 3 and Model Y vehicles. The probe covers Model 3 sedans from model years 2018-2020 and Model Y SUVs from 2021-2023, an estimated 1.2M vehicles in total.\n\nThe agency has received 156 complaints, with owners reporting the front lower lateral link separating suddenly, causing loss of steering control. Most said there was no warning beforehand, though some noted unusual noises first. NHTSA said the failure can leave a car undrivable and require towing.\n\nNHTSA said it is not aware of any crashes, injuries, or fatalities tied to the reported defect so far. A preliminary evaluation is the first stage of NHTSA's investigative process — assessing how widespread and severe an issue is and what's causing it — and can escalate into a recall push if the agency finds a safety-related defect.\n\nTesla has previously recalled vehicles over detachment of the same component, though at far smaller scale — about 2,800 Model 3s in 2021 and 422 in 2023. This investigation covers a much larger population, and NHTSA has noted the newly reported cases may not match the earlier recalls' root cause, which raises the stakes for how broad any eventual remedy could be.\n\nBecause Model 3 and Model Y are Tesla's highest-volume models, an escalation to a full engineering analysis or recall could carry real reputational and cost implications. For now, though, this is only the opening of an investigation — not a confirmed defect finding or recall.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-31/tesla-faces-us-auto-safety-probe-over-risk-of-suspension-failure",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "TipRanks",
+        "Finimize"
+      ],
+      "sentiment": "bear",
+      "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "3h ago",
       "pubDate": "2026-07-31T07:26:20.000Z",
       "title": "테슬라 AI 총괄 엘루스와미, 옵티머스 <em>연 1,000만 대 생산</em> 목표 재확인",
@@ -44,26 +70,6 @@
       "href": "https://www.reuters.com/business/media-telecom/tesla-weighs-sale-china-business-pave-way-potential-spacex-merger-wsj-reports-2026-07-31/",
       "sentiment": "neutral",
       "hot": 7
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-07-30T20:59:46.000Z",
-      "title": "머스크 아메리카PAC, 11월 중간선거 앞두고 <em>최대 $1.2억 공화당 결집전</em> 추진 — NYT",
-      "hotShort": "머스크 PAC, 중간선거 앞두고 <em>$1.2억 결집전</em>",
-      "body": "뉴욕타임스에 따르면 일론 머스크가 이끄는 정치자금단체 '아메리카PAC'이 11월 중간선거를 앞두고 최소 8개 주에서 공화당 표심 결집을 위해 $1억~$1.2억 규모의 지출을 계획 중이다 — 방문 유세·디지털 광고·다이렉트 메일을 총동원하는 이번 캠페인이 실현되면 이번 선거 주기 최대 규모의 외부 지출 캠페인 중 하나가 되며, 머스크의 공화당 내 정치적 영향력을 다시 부각시킬 전망이다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "musk-america-pac-100m-turnout-2026-07-30",
-      "summary": "일론 머스크가 이끄는 정치자금단체 아메리카PAC이 오는 11월 중간선거를 겨냥해 대규모 유권자 결집 캠페인을 준비하고 있다고 뉴욕타임스(NYT)가 30일(현지시간) 보도했다.\n\n보도에 따르면 머스크는 이 프로그램에 $1억~$1.2억 규모의 자금 투입을 승인했으며, 캠페인은 최소 8개 주에서 도어노킹(방문 유세)·디지털 광고·다이렉트 메일을 총동원하는 '대규모 투자'로 기획됐다.\n\n실현되면 2026년 중간선거에서 가장 큰 규모의 외부 지출 캠페인 중 하나가 될 전망이며, 머스크가 공화당의 핵심 자금줄로서 입지를 다시 굳히는 계기가 될 것으로 보인다.\n\n아메리카PAC은 2025년 1월 이후 이미 $52.3M을 지출했고, 이번 선거 주기 동안 $50.3M을 모금했는데 이 중 약 $50M이 머스크 개인 자금에서 나온 것으로 집계됐다.\n\n테슬라 사업과 직접 관련은 없지만, 머스크의 정치 지출 확대는 그의 시간·평판 리스크를 둘러싼 주주들의 우려와 종종 함께 거론돼 온 변수다. 아직 NYT 단독 보도 단계로 머스크·PAC 측의 공식 확인은 나오지 않았다.",
-      "title_en": "Musk's America PAC plans <em>up to $120M</em> GOP turnout push — NYT",
-      "hotShort_en": "Musk PAC plans <em>$100M+</em> GOP turnout push",
-      "body_en": "Elon Musk's America PAC is planning to spend $100M-$120M on a Republican voter turnout campaign across at least eight states ahead of November's midterms, the New York Times reports — door-knocking, digital ads, and direct mail combined would make it one of this cycle's biggest outside-spending efforts, reinforcing Musk's role as one of the GOP's top financiers.",
-      "summary_en": "Elon Musk's America PAC is preparing a large-scale voter turnout campaign ahead of November's midterm elections, the New York Times reported on July 30.\n\nAccording to the report, Musk has authorized $100M-$120M for the program, which is planned across at least eight states and will combine door-knocking, digital advertising, and direct mail in what's described as a 'huge investment.'\n\nIf it goes forward as planned, it would be one of the biggest outside-spending campaigns of the 2026 midterms, further cementing Musk's position as one of the Republican Party's most influential financiers.\n\nAmerica PAC has already spent $52.3M since January 2025 and has raised $50.3M this election cycle, with roughly $50M of that coming directly from Musk himself.\n\nWhile not directly tied to Tesla's business, Musk's expanding political spending is a variable shareholders have periodically raised alongside concerns about his time and reputational risk. This remains an NYT-sourced report, with no official confirmation yet from Musk or the PAC.",
-      "href": "https://www.reuters.com/business/media-telecom/musks-america-pac-plans-100-million-plus-effort-boost-republican-turnout-nyt-2026-07-30/",
-      "sentiment": "neutral",
-      "hot": 4
     },
     {
       "category": "musk",
@@ -194,5 +200,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-07-31 16:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-31 20:10 KST 자동 갱신 · 최신순"
 }

@@ -3,6 +3,32 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-07-31T11:00:00.000Z",
+      "title": "美 NHTSA, 테슬라 <em>서스펜션 결함 예비조사</em> 착수 — 모델3·Y 120만 대",
+      "hotShort": "NHTSA, 테슬라 <em>서스펜션 결함</em> 예비조사 착수",
+      "body": "美 도로교통안전국(NHTSA)이 모델3(2018~2020년식)·모델Y(2021~2023년식) 약 1.2M대를 대상으로 전방 하부 서스펜션 링크 이탈 관련 예비조사(PE)에 착수했다 — 소비자 불만 156건이 접수됐고 사고·부상 보고는 아직 없다. 결함으로 결론 나면 과거(2021년 2,800대·2023년 422대) 소규모 리콜보다 훨씬 큰 규모의 리콜로 번질 수 있다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "sec",
+      "slug": "product-nhtsa-suspension-probe-2026-07-31",
+      "summary": "NHTSA 산하 결함조사국(ODI)은 7월 31일(현지시간) 테슬라 모델3·모델Y 차량의 전방 하부 래터럴 링크(로어암) 이탈 의혹에 대한 예비평가(Preliminary Evaluation)를 개시했다고 밝혔다. 대상은 2018~2020년식 모델3 세단과 2021~2023년식 모델Y SUV로, 추정 영향 대수는 약 1.2M대에 달한다.\n\nODI에 접수된 소비자 불만은 156건 — 오너들은 전방 하부 링크가 갑자기 이탈하며 조향·주행 안정성을 잃었다고 신고했다. 대부분 사전 경고 없이 발생했다고 밝혔지만 일부는 사전에 소음이 있었다고 전했다. NHTSA는 이 결함이 발생하면 차량이 주행 불가 상태가 돼 견인이 필요할 수 있다고 설명했다.\n\n다만 NHTSA는 이번 결함과 관련해 현재까지 사고나 부상·사망 보고는 확인되지 않았다고 밝혔다. 예비평가는 결함의 범위·심각성·원인을 규명하는 절차로, 안전 관련 결함으로 판단되면 리콜을 압박할 수 있다.\n\n테슬라는 과거에도 같은 부위(하부 래터럴 링크) 이탈로 리콜을 단행한 적이 있다 — 2021년 모델3 약 2,800대, 2023년 모델3 422대 규모였다. 이번 조사는 그보다 훨씬 큰 1.2M대를 대상으로 하고 있어, NHTSA도 기존 리콜의 생산 결함과 이번 신고들이 같은 원인인지부터 다시 확인해야 하는 상황이다 — 원인이 다르다면 구제 범위가 더 커질 수 있다는 뜻이다.\n\n테슬라의 주력 차종인 모델3·Y가 조사 대상이라는 점에서, 예비평가가 본조사(EA)나 리콜로 격상될 경우 브랜드 신뢰도와 비용 부담 모두에 영향을 줄 수 있다. 다만 현재 단계는 '조사 개시'일 뿐 결함 확정이나 리콜은 아니라는 점은 분명히 해둘 필요가 있다.",
+      "title_en": "NHTSA opens <em>preliminary probe</em> into Tesla suspension failures — 1.2M vehicles",
+      "hotShort_en": "NHTSA opens <em>Tesla suspension</em> probe",
+      "body_en": "The US National Highway Traffic Safety Administration has opened a preliminary evaluation into roughly 1.2M Tesla vehicles — Model 3 sedans from 2018-2020 and Model Y SUVs from 2021-2023 — over reports that the front lower lateral link can detach, potentially causing loss of steering control. NHTSA has logged 156 complaints and says it hasn't seen any crashes or injuries so far, but a formal defect finding could trigger a recall far larger than Tesla's prior fixes for the same part (2,800 Model 3s in 2021, 422 in 2023).",
+      "summary_en": "NHTSA's Office of Defects Investigation opened a preliminary evaluation on July 31 into reports that the front lower lateral link — part of the suspension — can detach in certain Tesla Model 3 and Model Y vehicles. The probe covers Model 3 sedans from model years 2018-2020 and Model Y SUVs from 2021-2023, an estimated 1.2M vehicles in total.\n\nThe agency has received 156 complaints, with owners reporting the front lower lateral link separating suddenly, causing loss of steering control. Most said there was no warning beforehand, though some noted unusual noises first. NHTSA said the failure can leave a car undrivable and require towing.\n\nNHTSA said it is not aware of any crashes, injuries, or fatalities tied to the reported defect so far. A preliminary evaluation is the first stage of NHTSA's investigative process — assessing how widespread and severe an issue is and what's causing it — and can escalate into a recall push if the agency finds a safety-related defect.\n\nTesla has previously recalled vehicles over detachment of the same component, though at far smaller scale — about 2,800 Model 3s in 2021 and 422 in 2023. This investigation covers a much larger population, and NHTSA has noted the newly reported cases may not match the earlier recalls' root cause, which raises the stakes for how broad any eventual remedy could be.\n\nBecause Model 3 and Model Y are Tesla's highest-volume models, an escalation to a full engineering analysis or recall could carry real reputational and cost implications. For now, though, this is only the opening of an investigation — not a confirmed defect finding or recall.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-31/tesla-faces-us-auto-safety-probe-over-risk-of-suspension-failure",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "TipRanks",
+        "Finimize"
+      ],
+      "sentiment": "bear",
+      "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "3h ago",
       "pubDate": "2026-07-31T07:26:20.000Z",
       "title": "테슬라 AI 총괄 엘루스와미, 옵티머스 <em>연 1,000만 대 생산</em> 목표 재확인",
@@ -2312,32 +2338,6 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-18T20:31:41.000Z",
-      "title": "테슬라 FSD v14.3.5 확대 배포 — <em>카메라 프리뷰·통합모델</em>로 반응속도 20%↑",
-      "hotShort": "FSD v14.3.5 확대, <em>반응속도 20%</em> 개선",
-      "body": "테슬라가 지난 13일부터 HW4(AI4) 차량에 FSD v14.3.5(2026.20.6.6)를 배포 중이다 — AI 컴파일러를 새로 짜 반응속도를 <em>20%</em> 높이고 액추얼리 스마트 서몬·FSD·로보택시 모델을 하나로 통합했지만, 사흘 뒤인 15일 3차 확대에도 전체 차량의 <em>1% 미만</em>에 그쳐 아직은 제한적 배포 단계다.",
-      "sourceName": "Not a Tesla App",
-      "sourceLabel": "press",
-      "slug": "fsd-v1435-rollout-camera-preview-2026-07-18",
-      "summary": "테슬라가 7월13일(월) 소프트웨어 버전 2026.20.6.6과 함께 FSD(Supervised) v14.3.5 배포를 시작했다. 이번 버전은 하드웨어4(HW4/AI4) 탑재 차량에만 제공된다.\n\n핵심 변경점은 세 가지다. 첫째, 카메라 프리뷰를 주행 중에도 언제든 열어볼 수 있게 됐고 차량 실내 캐빈 카메라까지 확인 가능해졌다. 둘째, 신경망 학습의 강화학습(RL) 단계를 업그레이드해 다양한 주행 상황에서의 대응력을 개선했고, AI 컴파일러·런타임을 MLIR 기반으로 새로 작성해 <em>반응속도를 20%</em> 끌어올렸다. 셋째, 액추얼리 스마트 서몬·FSD·로보택시에 쓰이던 모델을 하나로 통합해 더 일관된 주행 판단이 가능해졌고, 스마트 서몬 최고 속도도 시속 8마일(약 13km/h)로 상향됐다. 앱에서는 무개입 주행거리와 최장 무개입 기록도 확인할 수 있게 됐다.\n\n다만 배포 속도는 더디다. 7월15일 3번째 확대 물결로 약 1,210대가 추가됐지만, 출시 사흘째 기준 전체 테슬라 차량의 1%에도 못 미치는 제한적 배포 상태다. 실제 사용 후기로는 인플루언서 재크(BLKMDL3)가 멕시코 바하 칼리포르니아의 발레 데 과달루페~로사리토 비치 구간을 무개입으로 완주했다고 전했고, 닉 크루즈 파테인도 사이버트럭에서 v14.3.5를 며칠간 사용해 본 소감을 공유했다.\n\n테슬라 주주 입장에서, 반응속도 개선과 모델 통합은 22일 2분기 실적에서 다시 도마에 오를 로보택시·자율주행 진척 상황에 대한 답변 재료가 될 수 있다 — 다만 아직 HW4 한정·1% 미만의 초기 배포 단계라, 전체 차량군으로 언제 확대되는지가 다음 관전 포인트다.",
-      "title_en": "Tesla expands <em>FSD v14.3.5</em> rollout — new compiler cuts reaction time <em>20%</em>, unifies driving models",
-      "hotShort_en": "FSD v14.3.5 expands, <em>reaction time up 20%</em>",
-      "body_en": "Tesla has been rolling out FSD v14.3.5 (2026.20.6.6) to HW4 (AI4) vehicles since July 13 — a rewritten AI compiler cuts reaction time by <em>20%</em> and unifies the models behind Smart Summon, FSD, and Robotaxi, but a third expansion wave on July 15 still reached <em>less than 1%</em> of the fleet, keeping the rollout limited three days in.",
-      "summary_en": "Tesla began rolling out FSD (Supervised) v14.3.5 on Monday, July 13, alongside software version 2026.20.6.6. The update is available only to vehicles equipped with Hardware 4 (HW4/AI4).\n\nThree changes stand out. First, Camera Preview can now be opened at any time while driving, including a view of the interior cabin camera. Second, Tesla upgraded the reinforcement-learning stage of neural-network training and rewrote its AI compiler and runtime on MLIR, delivering a <em>20% faster reaction time</em>. Third, the models behind Actually Smart Summon, FSD, and Robotaxi were unified for more consistent driving decisions, and Smart Summon's top speed was raised to 8 mph (about 13 km/h). The app now also shows distance driven without intervention and the longest intervention-free streak.\n\nThe rollout pace, though, remains slow. A third deployment wave on July 15 added roughly 1,210 more eligible vehicles, but three days after launch the update still covers <em>less than 1%</em> of Tesla's fleet. Anecdotal real-world reports have been positive: influencer Zack (BLKMDL3) said he completed a drive from Valle de Guadalupe to Rosarito Beach in Baja California, Mexico with zero interventions, while Nic Cruz Patane shared impressions after using v14.3.5 on a Cybertruck for several days.\n\nFor shareholders, the faster reaction time and model unification could feed into Robotaxi and autonomy talking points at the July 22 Q2 earnings call — but with the rollout still HW4-only and under 1% of the fleet, how quickly it scales to the broader fleet is the next thing to watch.",
-      "href": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Not a Tesla App",
-        "Tesla Oracle",
-        "TeslaNorth"
-      ],
-      "sentiment": "bull",
-      "hot": 4
     }
   ],
   "asOf": "2026-07-31 16:50 KST 자동 갱신 · 최신순"
