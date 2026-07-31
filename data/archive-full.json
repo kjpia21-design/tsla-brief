@@ -1,6 +1,57 @@
 {
-  "asOf": "2026-07-31 10:44 UTC · 누적 731건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-31 14:21 UTC · 누적 733건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-07-31T11:00:00.000Z",
+      "title": "美 NHTSA, 테슬라 <em>서스펜션 결함 예비조사</em> 착수 — 모델3·Y 120만 대",
+      "hotShort": "NHTSA, 테슬라 <em>서스펜션 결함</em> 예비조사 착수",
+      "body": "美 도로교통안전국(NHTSA)이 모델3(2018~2020년식)·모델Y(2021~2023년식) 약 1.2M대를 대상으로 전방 하부 서스펜션 링크 이탈 관련 예비조사(PE)에 착수했다 — 소비자 불만 156건이 접수됐고 사고·부상 보고는 아직 없다. 결함으로 결론 나면 과거(2021년 2,800대·2023년 422대) 소규모 리콜보다 훨씬 큰 규모의 리콜로 번질 수 있다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "sec",
+      "slug": "product-nhtsa-suspension-probe-2026-07-31",
+      "summary": "NHTSA 산하 결함조사국(ODI)은 7월 31일(현지시간) 테슬라 모델3·모델Y 차량의 전방 하부 래터럴 링크(로어암) 이탈 의혹에 대한 예비평가(Preliminary Evaluation)를 개시했다고 밝혔다. 대상은 2018~2020년식 모델3 세단과 2021~2023년식 모델Y SUV로, 추정 영향 대수는 약 1.2M대에 달한다.\n\nODI에 접수된 소비자 불만은 156건 — 오너들은 전방 하부 링크가 갑자기 이탈하며 조향·주행 안정성을 잃었다고 신고했다. 대부분 사전 경고 없이 발생했다고 밝혔지만 일부는 사전에 소음이 있었다고 전했다. NHTSA는 이 결함이 발생하면 차량이 주행 불가 상태가 돼 견인이 필요할 수 있다고 설명했다.\n\n다만 NHTSA는 이번 결함과 관련해 현재까지 사고나 부상·사망 보고는 확인되지 않았다고 밝혔다. 예비평가는 결함의 범위·심각성·원인을 규명하는 절차로, 안전 관련 결함으로 판단되면 리콜을 압박할 수 있다.\n\n테슬라는 과거에도 같은 부위(하부 래터럴 링크) 이탈로 리콜을 단행한 적이 있다 — 2021년 모델3 약 2,800대, 2023년 모델3 422대 규모였다. 이번 조사는 그보다 훨씬 큰 1.2M대를 대상으로 하고 있어, NHTSA도 기존 리콜의 생산 결함과 이번 신고들이 같은 원인인지부터 다시 확인해야 하는 상황이다 — 원인이 다르다면 구제 범위가 더 커질 수 있다는 뜻이다.\n\n테슬라의 주력 차종인 모델3·Y가 조사 대상이라는 점에서, 예비평가가 본조사(EA)나 리콜로 격상될 경우 브랜드 신뢰도와 비용 부담 모두에 영향을 줄 수 있다. 다만 현재 단계는 '조사 개시'일 뿐 결함 확정이나 리콜은 아니라는 점은 분명히 해둘 필요가 있다.",
+      "title_en": "NHTSA opens <em>preliminary probe</em> into Tesla suspension failures — 1.2M vehicles",
+      "hotShort_en": "NHTSA opens <em>Tesla suspension</em> probe",
+      "body_en": "The US National Highway Traffic Safety Administration has opened a preliminary evaluation into roughly 1.2M Tesla vehicles — Model 3 sedans from 2018-2020 and Model Y SUVs from 2021-2023 — over reports that the front lower lateral link can detach, potentially causing loss of steering control. NHTSA has logged 156 complaints and says it hasn't seen any crashes or injuries so far, but a formal defect finding could trigger a recall far larger than Tesla's prior fixes for the same part (2,800 Model 3s in 2021, 422 in 2023).",
+      "summary_en": "NHTSA's Office of Defects Investigation opened a preliminary evaluation on July 31 into reports that the front lower lateral link — part of the suspension — can detach in certain Tesla Model 3 and Model Y vehicles. The probe covers Model 3 sedans from model years 2018-2020 and Model Y SUVs from 2021-2023, an estimated 1.2M vehicles in total.\n\nThe agency has received 156 complaints, with owners reporting the front lower lateral link separating suddenly, causing loss of steering control. Most said there was no warning beforehand, though some noted unusual noises first. NHTSA said the failure can leave a car undrivable and require towing.\n\nNHTSA said it is not aware of any crashes, injuries, or fatalities tied to the reported defect so far. A preliminary evaluation is the first stage of NHTSA's investigative process — assessing how widespread and severe an issue is and what's causing it — and can escalate into a recall push if the agency finds a safety-related defect.\n\nTesla has previously recalled vehicles over detachment of the same component, though at far smaller scale — about 2,800 Model 3s in 2021 and 422 in 2023. This investigation covers a much larger population, and NHTSA has noted the newly reported cases may not match the earlier recalls' root cause, which raises the stakes for how broad any eventual remedy could be.\n\nBecause Model 3 and Model Y are Tesla's highest-volume models, an escalation to a full engineering analysis or recall could carry real reputational and cost implications. For now, though, this is only the opening of an investigation — not a confirmed defect finding or recall.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-31/tesla-faces-us-auto-safety-probe-over-risk-of-suspension-failure",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Bloomberg",
+        "TipRanks",
+        "Finimize"
+      ],
+      "sentiment": "bear",
+      "hot": 7
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-07-31T07:26:20.000Z",
+      "title": "테슬라 AI 총괄 엘루스와미, 옵티머스 <em>연 1,000만 대 생산</em> 목표 재확인",
+      "hotShort": "옵티머스, 기가텍사스서 <em>연 1,000만 대</em> 겨냥",
+      "body": "테슬라의 AI·로보틱스 총괄 아쇽 엘루스와미가 자신의 X에 \"정정한다, 1,000만 대\"라는 세 단어짜리 글을 올려 옵티머스 로봇의 장기 연간 생산 목표를 재확인했다 — 프리몬트(구 모델S·X 라인 부지, 연 100만 대급)와 5월 착공한 기가텍사스 전용 신공장(연 1,000만 대급)의 2단계 증설이 골자다. 무대 위 머스크의 홍보성 발언이 아니라 프로그램을 실제로 이끄는 실무 총괄의 확인이라, 옵티머스가 테슬라의 차기 성장축이라는 베팅에 무게를 더한다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-optimus-10m-target-giga-texas-2026-07-31",
+      "summary": "일론 머스크는 그동안 여러 자리에서 옵티머스의 장기 수요를 \"수십억 대\" 단위로 언급해왔지만, 실제 생산 캐파를 구체적인 숫자로 확인해준 것은 이번이 처음에 가깝다 — 그것도 마케팅 무대가 아니라 프로그램을 총괄하는 임원의 입에서 나왔다는 점이 다르다.\n\n2025년 6월부터 옵티머스 프로그램을 이끌고 있는 테슬라 AI·소프트웨어 부문 부사장 아쇽 엘루스와미는 지난 목요일(현지시간) 자신의 X 계정에 \"정정한다, 1,000만 대(Correction, 10 million robots)\"라는 짧은 글을 올려, 테슬라가 짜고 있는 장기 연간 생산 목표치를 확인했다.\n\n증설은 2단계로 나뉜다. 1단계는 프리몬트 공장 — 올해 초 생산이 종료된 모델S·모델X 라인 부지를 활용해 연 약 100만 대 규모의 생산라인을 구축한다. 2단계는 지난 5월 첫 철골 구조물 착공에 들어간 기가텍사스의 전용 신공장으로, 궁극적으로 연 1,000만 대 캐파를 담당할 계획이다.\n\n주목할 대목은 이 확인이 나온 방식이다 — 화려한 무대 위 발언이 아니라, 실제로 그 숫자를 달성할 책임을 진 실무 총괄이 스스로 규모를 못박았다는 점에서 신뢰도가 다르게 읽힌다.\n\n다만 옵티머스는 아직 상용 매출이 없는 초기 단계 제품이고, 최근 2분기 실적에서도 로보택시·옵티머스향 투자 확대(자본지출 전년比 142% 증가)가 영업이익률을 짓누른 점이 부각된 상황이다. 이런 초대형 캐파 목표가 실제 양산·수요로 이어질지는 향후 분기 실적으로 계속 검증해야 할 부분이다.",
+      "title_en": "Tesla AI chief Elluswamy reaffirms <em>10 million Optimus units/year</em> target",
+      "hotShort_en": "Tesla targets <em>10M Optimus/year</em>",
+      "body_en": "Tesla's AI and robotics chief Ashok Elluswamy confirmed the company's long-term Optimus production target with a three-word X post — \"Correction, 10 million robots\" — pointing to a two-phase buildout: a roughly 1-million-unit-per-year line at Fremont (on floor space freed by discontinued Model S/X production) and a dedicated new Giga Texas facility, which broke ground in May, aimed at the 10-million-unit tier. Coming from the executive who actually runs the program rather than a keynote soundbite, it adds weight to Tesla's bet that Optimus becomes its next growth engine.",
+      "summary_en": "Elon Musk has floated Optimus's long-run demand in the \"billions of units\" range on multiple occasions, but a concrete production-capacity number confirmed by the executive who actually runs the program is a different kind of signal than stage remarks.\n\nAshok Elluswamy, Tesla's VP of AI Software who has led the Optimus program since June 2025, posted a short correction on X last Thursday — \"Correction, 10 million robots\" — confirming the long-term annual capacity Tesla is building toward.\n\nThe buildout is happening in two phases. Phase one is at Fremont, where Tesla is installing a roughly 1-million-unit-per-year line on the floor space freed up by the discontinued Model S and Model X lines earlier this year. Phase two is a dedicated new facility at Giga Texas, which broke ground on its first steel structure in May and is ultimately meant to handle the 10-million-unit tier.\n\nWhat stands out is how the number surfaced — not as a marketing line from a stage, but as a correction posted by the person actually accountable for hitting it, which reads as a stronger signal than the same figure delivered as hype.\n\nOptimus still has no commercial revenue, though, and Tesla's own Q2 earnings just highlighted how robotaxi and Optimus capex (up 142% year over year) squeezed operating margin. Whether a target this large translates into real production and demand is something upcoming quarters will need to keep testing.",
+      "href": "https://www.teslarati.com/tesla-ai-boss-reveals-how-big-optimus-is-going-to-get/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Benzinga"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
