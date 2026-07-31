@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-25T20:58:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "musk-spacex-missed-merger-window-2026-07-25",
-          "verdict": "pass",
-          "reasons": [
-            "WebFetch unavailable this run (403 on all URLs, incl. Wikipedia) — verified via independent subagent WebSearch cross-check instead. Musk quote, $2.8T/$1.6T/57% (Jul16) and $1.49T/$1.22T/82% (Jul24) figures confirmed consistent across 4+ searches."
-          ]
-        },
-        {
-          "slug": "product-summer-update-grok-vehicle-commands-2026-07-21",
-          "verdict": "regrade",
-          "reasons": [
-            "Independent verify pass found wrap-image-source overstatement: draft implied images sourced from web/social media; actual mechanism is uploading a photo from the phone's photo gallery via the app's Creations tab. Corrected KO/EN body+summary text accordingly before publish. All other feature claims (Grok calls/music/climate/glovebox, EU expansion, preferred routes, self-driving stats sharing, Caraoke) confirmed across Electrek/Teslarati/NotATeslaApp/TeslaNorth."
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-25T23:06:27.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -841,6 +820,20 @@
             "href swapped from Reuters (Zoox-only) to NHTSA official press release since body now covers the broader framework beyond just Zoox — sourceLabel upgraded press->sec accordingly (NHTSA is the regulator per schema)",
             "No advice tone, hedges (proposed/plans to/directed) preserved for not-yet-finalized items, sentiment bull is warranted (regulatory tailwind for Tesla's pedal-less Cybercab) and not overstated",
             "WebFetch was unavailable in this run (403 on all URLs including a neutral control fetch) — verification relied on WebSearch snippets from NHTSA/DOT/law-firm/trade-press sources instead of direct WebFetch of the href; flagging per fail-open policy"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-31T00:12:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "stock-6-red-days-21pct-decline-2026-07-30",
+          "verdict": "pass",
+          "reasons": [
+            "Updated existing card (not new) to replace hedged/unconfirmed bounce report with confirmed facts via WebSearch cross-check: TSLA closed $308.85 on 2026-07-30 (+3.91%), consistent across Motley Fool/Yahoo Finance and macrotrends historical data. ARK cumulative $53.5M Tesla purchase confirmed via Motley Fool/Yahoo Finance/TheStreet/Benzinga (multiple independent outlets). sourceLabel press correct (Trefis original + Motley Fool/Yahoo Finance/Benzinga corroboration). No advice-tone, no unresolved hedge-to-assertion issues, numbers match sources exactly, href still matches the underlying event."
           ]
         }
       ]
