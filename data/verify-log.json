@@ -1,41 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-27T13:20:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "product-gerber-optimus-no-revenue-2026-07-27",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for Benzinga business journalism, not a regulatory filing",
-            "no advisory tone / no price target",
-            "no hedge-to-assertion conversion — all claims attributed directly to Gerber as his stated opinion",
-            "quotes verified verbatim via independent WebSearch cross-check (hands/feet/eyes tough; trillion dollars to fold clothes; no revenue coming anytime soon); Q2 2026 earnings context (Optimus production late July/August, robotaxi revenue meaningful only in 2027) confirmed",
-            "href matches the described story exactly",
-            "not X/meme-sourced, satire check N/A",
-            "direct WebFetch to benzinga.com returned 403 — verified via Yahoo Finance syndication + WebSearch cross-check per fail-open policy"
-          ]
-        },
-        {
-          "slug": "fsd-nhtsa-brake-pedal-rule-cybercab-2026-07-26",
-          "verdict": "pass",
-          "newSourceLabel": "sec",
-          "reasons": [
-            "sourceLabel sec appropriate per routine convention (NHTSA/government regulatory actions get sec label regardless of reporting outlet)",
-            "no advisory tone / no price target",
-            "correctly hedged as proposed/would-remove, not overstated as finalized/enacted",
-            "all specifics confirmed via Federal Register, Justia, NHTSA.gov, and regulations.gov docket page: June 26 2026 publication, docket NHTSA-2026-0728, comment period closes July 27 2026 EOB, stopping-distance standards preserved, Lars Moravy X confirmation on the 2,500-unit cap, Zoox comparable no-manual-controls position via different design",
-            "href matches the described story",
-            "not X/meme-sourced, satire check N/A",
-            "direct WebFetch to techtimes.com and federalregister.gov returned 403 — verified via WebSearch cross-check per fail-open policy"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-27T15:10:00.000Z",
       "mode": "shadow",
       "checked": 2,
@@ -867,6 +832,27 @@
             "not X-sourced card itself, but the quoted material originates from Musk's X post — satire/meme check applied: quote is a direct factual denial, not a joke, so no drop needed",
             "verify-error: direct WebFetch on barrons.com (403/paywall block) and teslarati.com (403) prevented reading the two new raw-feed articles directly; verification relied on WebSearch corroboration across 6+ independent outlets converging on the identical quote text",
             "confirmedBy updated 2 (Reuters, WSJ) to reflect the two outlets actually in the citation chain"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-31T21:50:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-issaquah-crash-rear-severed-2026-07-31",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for KATU local TV news (Sinclair affiliate), not a regulatory/official filing",
+            "no advisory tone / no price target",
+            "no hedge-to-assertion conversion beyond what police stated — 'FSD engaged' and 'crossed into oncoming lane' attributed to police investigation, matching source",
+            "core facts (rear third severed, Cadillac Escalade, Newport Way NW 500 block Issaquah WA, Wednesday, no injuries) verified via WebSearch cross-check against KOMO sister-station syndication of the same wire story (direct WebFetch to katu.com/komonews.com returned 403, verified via WebSearch summary per fail-open policy)",
+            "href matches the described story exactly",
+            "not X/meme-sourced, satire check N/A",
+            "single-source local story (KATU/KOMO share identical wire content, not independent confirmation) — confirmedBy intentionally omitted, hot kept moderate (6) rather than high"
           ]
         }
       ]

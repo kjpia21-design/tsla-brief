@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-31T20:15:00.000Z",
+      "title": "美 이사콰(Issaquah)서 테슬라 FSD 반대차선 침범 사고 — <em>차체 후미 3분의 1 절단</em>, 부상자 없어",
+      "hotShort": "테슬라 FSD 반대차선 침범 — <em>후미 3분의 1 절단</em>",
+      "body": "美 워싱턴주 이사콰(Issaquah)에서 FSD(완전자율주행) 모드로 주행 중이던 테슬라 차량이 반대차선으로 갑자기 침범해 캐딜락 에스컬레이드와 충돌, 차체 후미 3분의 1이 통째로 절단됐다 — 다행히 부상자는 없었지만, 현지 경찰은 조사 결과 사고 당시 FSD가 작동 중이었다고 확인하며 자율주행 기능이 있어도 사고 책임은 운전자에게 있다고 강조했다.",
+      "sourceName": "KATU",
+      "sourceLabel": "press",
+      "slug": "fsd-issaquah-crash-rear-severed-2026-07-31",
+      "summary": "이번 주 수요일 미국 워싱턴주 이사콰(Issaquah)의 뉴포트 웨이 NW(Newport Way NW) 500블록 사고 현장에 출동한 경찰은, 테슬라 차량의 후미 3분의 1이 완전히 분리된 심각한 파손 상태를 확인했다.\n\n경찰 조사에 따르면 해당 테슬라는 사고 당시 FSD(Full Self-Driving) 모드로 주행 중이었으며, 주행 도중 갑자기 반대차선으로 침범해 마주 오던 캐딜락 에스컬레이드와 충돌한 것으로 파악됐다.\n\n차량 파손 정도에 비해 인명 피해는 없었던 것으로 확인됐다 — 양측 탑승자 모두 부상을 입지 않았다고 경찰은 밝혔다.\n\n이사콰 경찰은 이번 사고를 계기로, 완전자율주행이든 부분자율주행이든 자율주행 시스템이 탑재된 차량이라도 안전 운행의 최종 책임은 운전자에게 있다는 점을 다시 한번 강조했다.",
+      "title_en": "Tesla in FSD mode crosses into oncoming lane near Seattle — <em>rear third of car severed</em>",
+      "hotShort_en": "Tesla FSD crash <em>shears off rear third</em>",
+      "body_en": "A Tesla driving in Full Self-Driving mode suddenly crossed into oncoming traffic in Issaquah, Washington and collided with a Cadillac Escalade, shearing off the rear third of the car — no one was injured, but police confirmed FSD was engaged at the time and reiterated that drivers remain responsible for safe operation even with self-driving features active.",
+      "summary_en": "Police responding to a crash on the 500 block of Newport Way NW in Issaquah, Washington this week found that the rear third of a Tesla had been completely severed from the rest of the vehicle.\n\nAccording to the investigation, the Tesla was operating in Full Self-Driving mode when it suddenly swerved into oncoming traffic and struck a Cadillac Escalade head-on.\n\nDespite the severity of the damage, no injuries were reported on either side of the crash.\n\nIssaquah police used the incident to remind drivers that even with a full or partial self-driving system engaged, the driver remains legally responsible for the safe operation of the vehicle.",
+      "href": "https://katu.com/news/local/tesla-electric-car-safety-in-full-self-driving-mode-rear-ends-suv-ends-up-severed-issaquah-police-cadillac-escalade-suv-safety-driver-responsibility",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -122,31 +142,6 @@
       ]
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-30T17:01:00.000Z",
-      "title": "SpaceX 주가 폭락에도 론 배런·캐시 우드는 <em>저가 매수 지속</em>",
-      "hotShort": "SpaceX 폭락에도 배런·우드는 <em>매수 지속</em>",
-      "body": "SpaceX 주가가 6월 고점 대비 반토막 나며 IPO 공모가 아래로 밀렸지만, 오랜 투자자 론 배런과 캐시 우드의 ARK는 매도 대신 매수를 늘리고 있다 — 배런은 10~15년 내 20~30배 수익을 자신하며 총 $70B 자산 중 $25B를 SpaceX에 베팅했다고 밝혔다. SpaceX 지분가치는 머스크의 개인 유동성과 맞물려 테슬라 투자심리에도 간접 영향을 준다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-baron-ark-buy-dip-2026-07-30",
-      "summary": "SpaceX 주가가 6월 고점 $225.64에서 이달 $113.50까지 미끄러지며 시가총액 약 $1.2조가 증발했다 — IPO 공모가 $135도 하회한 상태다. 이런 급락 속에서도 오랜 투자자들은 매도 대신 매수로 대응하고 있다.\n\n베런 캐피털 그룹의 론 배런은 최근 공개 자료를 통해, 6월 기준 총 운용자산 약 $70B 중 $25B를 SpaceX에 배정했다고 밝혔다. 2017년부터 27건의 개별 거래로 $20억을 투입했고, 이번 IPO 때 추가로 $10억을 더 태웠다.\n\n배런은 \"SpaceX에서 IPO 공모가 대비 20~30배 수익을 낼 것\"이라고 밝히며, 향후 10~15년 안에 SpaceX가 세계 최대 기업이 돼 기업가치 $20조~$30조, 잠재적으로 $40조에 이를 수 있다고 전망했다.\n\n캐시 우드의 ARK 인베스트먼트도 주가 하락 국면에서 오히려 매수를 늘리며 4개 ETF에 걸쳐 SpaceX 지분을 계속 확대해왔다 — SpaceX는 현재 ARK 상위 10대 보유 종목 중 하나다.\n\nSpaceX는 테슬라 지분과는 무관하지만, 머스크의 개인 자산 상당 부분이 SpaceX 지분가치에 연동돼 있어 이런 급락은 머스크의 자금 유동성·집중도 우려로 번질 수 있다. 장기 투자자들의 매수 지속 여부는 SpaceX발 노이즈가 테슬라 투자심리에 실제로 얼마나 전이될지를 가늠하는 신호다.",
-      "title_en": "Ron Baron, Cathie Wood <em>keep buying</em> SpaceX stock despite its rout",
-      "hotShort_en": "Baron, Wood <em>buy the dip</em> in SpaceX stock",
-      "body_en": "SpaceX shares have roughly halved from their June peak and now trade below the IPO price, yet longtime backers Ron Baron and Cathie Wood's ARK are buying more, not less — Baron expects a 20-to-30x return over 10-15 years and has $25B of his $70B fund committed to SpaceX. Since Musk's personal wealth is heavily tied to SpaceX equity, its swings carry indirect weight for Tesla investor sentiment too.",
-      "summary_en": "SpaceX shares have slid from a June peak of $225.64 to around $113.50, erasing roughly $1.2 trillion in value and pushing the stock below its $135 IPO price. Despite the rout, some of its longest-tenured investors are buying rather than selling.\n\nBaron Capital's Ron Baron disclosed that SpaceX now accounts for $25 billion of his firm's roughly $70 billion in assets under management as of June. He has deployed $2 billion across 27 separate transactions since 2017, plus another $1 billion during the IPO.\n\nBaron said he expects to make \"somewhere 20 times, 30 times from the IPO price\" over the next 10 to 15 years, and that SpaceX could eventually become the world's largest company, with a valuation reaching $20 trillion to $30 trillion — potentially as high as $40 trillion.\n\nCathie Wood's ARK Invest has also kept buying through the decline, adding to its SpaceX position across four ETFs; the stock is now one of ARK's top ten holdings.\n\nSpaceX sits outside Tesla's cap table, but a large share of Musk's personal net worth is tied up in SpaceX equity, so a sustained rout could feed into broader concerns about his liquidity and focus. Whether long-term holders like Baron and Wood keep buying is one gauge of how much SpaceX-driven noise actually bleeds into Tesla investor sentiment.",
-      "href": "https://www.barrons.com/articles/spacex-tesla-stock-baron-ark-elon-musk-4d970069",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Barron's",
-        "Benzinga"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "4h ago",
@@ -200,5 +195,5 @@
       ]
     }
   ],
-  "asOf": "2026-08-01 02:44 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-01 08:06 KST 자동 갱신 · 최신순"
 }
