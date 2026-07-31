@@ -614,6 +614,32 @@
       "hot": 5
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3d ago",
+      "pubDate": "2026-07-28T15:00:00.000Z",
+      "title": "머스크 xAI, 미네소타 <em>AI 딥페이크 금지법</em>에 위헌 소송",
+      "hotShort": "머스크 xAI, 美 미네소타 <em>딥페이크법</em>에 소송",
+      "body": "머스크의 AI기업 xAI가 미네소타주의 AI '누드화(nudify)' 앱 금지법을 상대로 위헌 소송을 냈다 — 해당 법은 하원 132대1·상원 65대0으로 사실상 만장일치 통과됐는데도, 팀 월즈 주지사는 \"법정에서 보자\"며 정면 반박했다. 테슬라 본업과는 무관하지만, 머스크가 이끄는 AI 사업이 잇달아 규제·정치 마찰에 휘말리는 흐름을 보여주는 사례다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-xai-minnesota-deepfake-lawsuit-2026-07-28",
+      "summary": "AI로 특정인의 얼굴을 나체·성적 이미지에 합성하는 이른바 '누드화(nudification)' 앱을 둘러싼 규제는 최근 미국 여러 주에서 빠르게 확산돼 왔다. 미네소타는 이런 흐름의 선두주자로, 팀 월즈(민주) 주지사가 올봄 서명한 관련 법(HF 1606)이 8월 시행을 앞두고 있었다.\n\n그런데 시행을 앞두고 머스크 소유의 AI기업 xAI가 지난주 월요일(현지시간) 연방법원에 이 법을 무력화해달라는 소송을 냈다. xAI는 이 법이 콘텐츠 기반의 지나치게 광범위한 표현 규제로 수정헌법 1조(표현의 자유)를 침해하며, 사업자가 오남용 방지 조치를 아무리 갖춰도 엄격책임(strict liability)을 지운다는 점을 문제 삼았다.\n\nxAI는 자사가 동의 없는 나체·성적 이미지 생성을 '엄격히 금지'하고 있다고 주장하며 소송을 정당화했다. 이에 월즈 주지사는 소셜미디어에 \"법정에서 보자\"는 짧은 글로 즉각 반박했다 — 해당 법안이 하원 132대1, 상원 65대0으로 초당적 만장일치에 가깝게 통과됐던 점을 부각하려는 취지로 읽힌다.\n\nxAI가 이런 소송을 낸 것은 이번이 처음이 아니다. 앞서 캘리포니아의 선거철 AI 딥페이크 금지법에도 유사한 소송을 냈고, 연방판사가 해당 법의 일부(선거 관련 AI 딥페이크 제한 조항)를 위헌으로 판단해 부분 승소한 전례가 있다.\n\n테슬라 지분과는 무관한 xAI발 이슈지만, 최근 xAI 콜로서스 데이터센터의 환경 규제 마찰에 이어 이번 소송까지 겹치며, 머스크가 이끄는 AI 사업군 전반이 규제·정치 리스크에 반복적으로 노출되는 패턴이 이어지고 있다 — 투자자들이 머스크의 시간·평판 리스크를 가늠할 때 참고할 변수다.",
+      "title_en": "Musk's xAI sues Minnesota over its <em>AI 'nudify' app ban</em>",
+      "hotShort_en": "xAI sues Minnesota over <em>nudify app ban</em>",
+      "body_en": "Elon Musk's AI company xAI has sued Minnesota over its ban on AI 'nudify' apps that generate fake nude or sexualized images of real people — a law that passed the state legislature nearly unanimously (132-1 in the House, 65-0 in the Senate) before Governor Tim Walz fired back with 'See you in court.' It has nothing to do with Tesla's core business, but it's another instance of legal and political friction around Musk's AI ventures.",
+      "summary_en": "Nudification apps — AI tools that paste a real person's face onto a fake nude or sexualized image — have become a fast-growing target for state regulators across the U.S. Minnesota has been at the front of that push: Governor Tim Walz, a Democrat, signed a law (HF 1606) this spring that was set to take effect in August.\n\nJust ahead of that deadline, Musk's xAI filed a federal lawsuit last Monday seeking to block the law. xAI argues the statute is an overly broad, content-based restriction on speech that violates the First Amendment, and that it imposes strict liability on AI providers regardless of what safeguards they've built in to prevent misuse.\n\nxAI says it 'strictly prohibits' users from generating nude or sexualized images of real people without consent, and is using that argument to justify the suit. Walz responded on social media with a blunt 'See you in court' — a jab that also underscored how lopsided the vote for the law had been, 132-1 in the House and 65-0 in the Senate.\n\nThis isn't xAI's first fight over AI-content laws. The company previously sued California over its election-season AI deepfake law and won a partial victory when a federal judge struck down the portion restricting AI-generated deepfakes around elections.\n\nNone of this touches Tesla's cap table directly, but coming on the heels of the Colossus data-center pollution scrutiny, it adds to a pattern of Musk's AI ventures repeatedly running into regulatory and political friction — a variable investors watching Musk's time and reputational risk keep tracking.",
+      "href": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "CNBC",
+        "ABC News",
+        "CBS News"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "5h ago",
@@ -2313,32 +2339,7 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-19T09:30:00.000Z",
-      "title": "테슬라 유럽 유일공장 그린하이데, 10월부터 생산 <em>20% 증대</em> — 주 7,500대 목표",
-      "hotShort": "그린하이데, 10월부터 생산 <em>20% 증대</em>",
-      "body": "테슬라의 유럽 유일 생산기지 그린하이데(기가베를린)가 10월부터 생산량을 20% 늘려 주 7,500대(연 약 37만5000대) 체제로 전환한다 — 2분기 실적 발표(D-3)를 앞두고 나온 공식 연례보고서 수치라 유럽 수요 회복 신호로 해석된다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "product-gruenheide-production-boost-2026-07-19",
-      "summary": "테슬라 매뉴팩처링 브란덴부르크(Tesla Manufacturing Brandenburg SE)의 연례보고서에 따르면, 그린하이데 공장은 2026 회계연도 생산량을 전년 대비 큰 폭으로 늘리고 가동률도 함께 끌어올릴 계획이다. 이 공장은 2022년 3월 가동을 시작한 테슬라의 유일한 유럽 생산기지로, 현재 모델Y를 생산하고 있다.\n\n구체적으로는 10월부터 주간 생산량을 20% 추가로 늘려 <em>주 7,500대</em>, 연간 약 37만5000대 체제로 전환한다는 목표다. 이는 앞서 테슬라가 밝힌 연산 37만5000대 목표치를 그대로 재확인한 수치로, 완전 가동 시에도 공장 설계 캐파의 약 65% 수준에 그친다.\n\n테슬라는 이번 증산과 함께 2026년 중 3,500명의 신규 채용도 계획하고 있다고 밝혔다. 그린하이데는 2025년 말 기준 임시직을 포함해 약 1만1000명을 고용 중이며, 배터리 셀부터 완성차까지 밸류체인 전체를 현지에서 통합하는 것이 목표다.\n\n공장은 현재 30개 이상의 시장에 차량을 공급 중이며, 향후 공급 시장을 추가로 확대할 계획이다. 이번 발표는 테슬라의 2분기 실적 발표(7월22일, D-3)를 코앞에 두고 나와, 유럽 수요 회복에 대한 회사 측의 자신감을 보여주는 신호로 주주들의 관심을 끌고 있다.",
-      "title_en": "Tesla's sole European plant Grünheide to boost output <em>20% from October</em>",
-      "hotShort_en": "Grünheide output <em>up 20%</em> starting October",
-      "body_en": "Tesla's only European factory, Grünheide, will boost production 20% to 7,500 vehicles a week (about 375,000 a year) starting in October — a bullish demand signal from an official annual filing just days before Tesla's Q2 earnings call.",
-      "summary_en": "According to the annual report from Tesla Manufacturing Brandenburg SE, the Grünheide plant plans to significantly raise 2026 production volume year-over-year while also lifting capacity utilization. Opened in March 2022, Grünheide is Tesla's only production site in Europe and currently builds the Model Y.\n\nSpecifically, weekly output is set to rise an additional 20% starting in October, reaching <em>7,500 vehicles a week</em> — roughly 375,000 a year. That reaffirms a target Tesla had previously stated, though even at full run-rate the plant would still operate at only about 65% of its stated capacity.\n\nAlongside the ramp-up, Tesla said it plans to hire 3,500 new workers in 2026. Grünheide employed roughly 11,000 people, including temporary staff, at the end of 2025, and the company aims to integrate the full value chain on-site, from battery cells to finished vehicles.\n\nThe plant currently supplies more than 30 markets and plans to expand into additional ones. The announcement lands just days ahead of Tesla's Q2 earnings call (July 22, T-minus-3), signaling management's confidence in a European demand recovery — a detail shareholders are watching closely.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-19/tesla-boosts-production-at-german-plant-as-demand-rises",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Bloomberg",
-        "Reuters"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-07-31 16:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-31 23:30 KST 자동 갱신 · 최신순"
 }

@@ -1,34 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-26T23:08:26.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "fsd-2x-safer-than-manual-12b-miles-2026-07-23",
-          "verdict": "pass",
-          "newSourceLabel": "official",
-          "reasons": [
-            "tweet text confirmed verbatim (12B miles, 2x collision-distance claim, 1000 lifetimes training)",
-            "genuine Elluswamy account, not parody/satire",
-            "card hedges the claim as company-supplied and includes independent caveat paragraph rather than asserting as fact",
-            "no advisory tone"
-          ]
-        },
-        {
-          "slug": "fsd-cybercab-new-zealand-winter-testing-2026-07-24",
-          "verdict": "regrade",
-          "newSourceLabel": "press",
-          "reasons": [
-            "core story (NZ footage, Cardrona proving grounds, mid-June transporter sighting, engineering-mule steering wheel, 'first outside US' framing) cross-confirmed via CarExpert/EVXL/EVs & Beyond",
-            "initial draft had two factual errors, corrected before publish: motor power 161kW -> 163kW, and 'first unit rolled off in April' -> first unit Feb 17 2026 with volume ramp from April",
-            "sourceLabel press unchanged (CarExpert is legitimate trade press, not an aggregator)"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-27T08:15:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -849,6 +821,27 @@
             "본문-링크 일치 — href(Bloomberg)가 다루는 사건과 카드 내용 동일 사건",
             "밈·풍자 아님(X 소스 아님, 해당없음)",
             "verify-error: Bloomberg/TipRanks/Finimize/Teslarati/NHTSA PDF 원문 전부 WebFetch 403 차단 — WebSearch 교차검증(4개 독립 매체 일치)으로 대체(fail-open)"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-31T15:00:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-xai-minnesota-deepfake-lawsuit-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for CNBC (not sec/official/rumor)",
+            "no advisory tone (no buy/sell/price target)",
+            "no hedge-to-assertion conversion — story is a filed lawsuit (concrete fact), not speculation",
+            "card is not X-sourced; meme/satire check N/A",
+            "core facts (HF 1606, Minnesota nudify-app ban, Aug effective date, xAI First Amendment/strict-liability argument, House 132-1 and Senate 65-0 vote tallies, Walz 'See you in court' response, prior partial win vs California deepfake law) cross-confirmed across independent WebSearch results referencing CNBC/ABC News/CBS Minnesota/Fox9/Breitbart/AOL/Yahoo — all converged on the same specific figures",
+            "verify-error: direct WebFetch on cnbc.com, cbsnews.com, fox9.com, abcnews.com, yahoo.com, and breitbart.com all returned HTTP 403 (bot-blocked); verification relied on cross-source WebSearch corroboration instead of direct origin refetch",
+            "pubDate/time approximate (filing reported as \"last Monday\", exact hour not recoverable from blocked sources) — flagged, not treated as precision fact in card body"
           ]
         }
       ]
