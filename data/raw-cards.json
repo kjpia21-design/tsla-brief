@@ -1,36 +1,75 @@
 {
-  "asOf": "2026-07-31 06:49 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-07-31 10:44 UTC 기준 · 카테고리당 top 5건",
   "items": [
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "5m ago",
-      "pubDate": "2026-07-31T06:44:18.000Z",
-      "title": "META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff — Analyst Says Shares Are ‘Attractively Priced’ Now",
-      "body": "META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff — Analyst Says Shares Are ‘Attractively Priced’ Now Stocktwits",
-      "sourceName": "Stocktwits",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://stocktwits.com/news-articles/markets/equity/meta-goog-tsla-earnings-selloff-analyst-attractively-priced/cZNECf1RJ2r"
-    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "2h ago",
-      "pubDate": "2026-07-31T04:53:25.000Z",
-      "title": "Tesla TSLA Stock Rebounds From Key $300 Support as SpaceX Merger and Robotaxi Optimism Returns",
-      "body": "Tesla TSLA Stock Rebounds From Key $300 Support as SpaceX Merger and Robotaxi Optimism Returns FXLeaders",
-      "sourceName": "FXLeaders",
+      "pubDate": "2026-07-31T08:39:20.000Z",
+      "title": "Amazon's Zoox wins first US approval for driverless robotaxis",
+      "body": "Amazon's Zoox wins first US approval for driverless robotaxis Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.fxleaders.com/news/2026/07/30/tesla-tsla-stock-rebounds-from-key-300-support-as-spacex-merger-and-robotaxi-optimism-returns/"
+      "href": "https://mobile.reuters.com/video/watch/idRW225631072026RP1/?chan"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-07-31T07:26:20.000Z",
+      "title": "Tesla AI boss reveals how big Optimus is going to get",
+      "body": "Tesla AI boss reveals how big Optimus is going to get Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-ai-boss-reveals-how-big-optimus-is-going-to-get/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "4h ago",
+      "pubDate": "2026-07-31T06:58:00.000Z",
+      "title": "Breakingviews - Tesla China sale looks best on paper",
+      "body": "Breakingviews - Tesla China sale looks best on paper Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/commentary/breakingviews/tesla-china-sale-looks-best-paper-2026-07-31/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "4h ago",
+      "pubDate": "2026-07-31T06:58:00.000Z",
+      "title": "Breakingviews - Tesla China sale looks best on paper",
+      "body": "Breakingviews - Tesla China sale looks best on paper Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/commentary/breakingviews/tesla-china-sale-looks-best-paper-2026-07-31/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "7h ago",
+      "pubDate": "2026-07-31T04:01:00.000Z",
+      "title": "Tesla Weighs China Unit Sale Ahead of SpaceX Deal, WSJ Says",
+      "body": "Tesla Weighs China Unit Sale Ahead of SpaceX Deal, WSJ Says Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-31/tesla-weighs-china-unit-sale-ahead-of-spacex-deal-wsj-says"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "7h ago",
       "pubDate": "2026-07-31T04:00:00.000Z",
       "title": "Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders",
       "body": "Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders Bloomberg.com",
@@ -43,7 +82,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-31T03:53:00.000Z",
       "title": "Tesla's China operations, the EV maker's global production powerhouse",
       "body": "Tesla's China operations, the EV maker's global production powerhouse Reuters",
@@ -56,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "7h ago",
       "pubDate": "2026-07-31T03:53:00.000Z",
       "title": "Tesla's China operations, the EV maker's global production powerhouse",
       "body": "Tesla's China operations, the EV maker's global production powerhouse Reuters",
@@ -69,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "9h ago",
       "pubDate": "2026-07-31T01:17:00.000Z",
       "title": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next",
       "body": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next AP News",
@@ -82,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-31T01:12:00.000Z",
       "title": "Musk dismisses report of Tesla's potential China business sale",
       "body": "Musk dismisses report of Tesla's potential China business sale Reuters",
@@ -95,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "10h ago",
       "pubDate": "2026-07-31T01:00:00.000Z",
       "title": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
       "body": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger WSJ",
@@ -108,7 +147,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "9h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-30T21:33:00.000Z",
       "title": "How Microsoft Helped End Tesla’s 6-Day Losing Streak",
       "body": "How Microsoft Helped End Tesla’s 6-Day Losing Streak Barron's",
@@ -121,7 +160,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "13h ago",
       "pubDate": "2026-07-30T21:33:00.000Z",
       "title": "How Microsoft Helped End Tesla’s 6-Day Losing Streak",
       "body": "How Microsoft Helped End Tesla’s 6-Day Losing Streak Barron's",
@@ -132,35 +171,9 @@
       "href": "https://www.barrons.com/articles/tesla-stock-price-losing-streak-microsoft-earnings-2be55fff"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-07-30T21:05:00.000Z",
-      "title": "Tesla (TSLA)and SpaceX Stock Drops Hit Cathie Wood and Ron Baron Funds",
-      "body": "Tesla (TSLA)and SpaceX Stock Drops Hit Cathie Wood and Ron Baron Funds Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/spacex-tesla-stock-baron-ark-elon-musk-4d970069"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-07-30T20:59:46.000Z",
-      "title": "Musk's America PAC plans $100 million-plus effort to boost Republican turnout, NYT reports",
-      "body": "Musk's America PAC plans $100 million-plus effort to boost Republican turnout, NYT reports Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/media-telecom/musks-america-pac-plans-100-million-plus-effort-boost-republican-turnout-nyt-2026-07-30/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "15h ago",
       "pubDate": "2026-07-30T19:59:46.000Z",
       "title": "Autonomous vehicle red tape gets slashed by Trump Administration",
       "body": "The Trump Administration today made several key moves to help with the deployment of autonomous vehicles by cutting overreaching red tape that has stifled growth and innovation for years. The moves, which were put forth …",
@@ -171,22 +184,9 @@
       "href": "https://www.teslarati.com/autonomous-vehicle-red-tape-slashed-trump/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "14h ago",
-      "pubDate": "2026-07-30T16:25:20.000Z",
-      "title": "EXCLUSIVE: Amazon's Zoox wins first US approval for paid robotaxis without human controls",
-      "body": "EXCLUSIVE: Amazon's Zoox wins first US approval for paid robotaxis without human controls Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/amazons-zoox-wins-first-us-approval-paid-robotaxis-with-no-human-controls-2026-07-30/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "19h ago",
       "pubDate": "2026-07-30T15:48:30.000Z",
       "title": "Tesla just built it 10 millionth car",
       "body": "Tesla just officially confirmed it has built its 10 millionth car, a major milestone for the company that started producing sustainable electric powertrains less than two decades ago. In that time, Tesla has truly revolu…",
@@ -199,7 +199,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-30T14:51:00.000Z",
       "title": "Amazon’s Zoox Gets Clearance to Start Paid Robotaxi Rides",
       "body": "Amazon’s Zoox Gets Clearance to Start Paid Robotaxi Rides WSJ",
@@ -212,20 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-07-30T13:52:47.000Z",
-      "title": "New Tesla Supercharger: Foiano della Chiana, Italy (12 stalls)",
-      "body": "New Tesla Supercharger: Foiano della Chiana, Italy (12 stalls) https://t.co/WiUqqIpdTs https://t.co/h5CHUClQFl",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2082826743694651703"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
+      "time": "21h ago",
       "pubDate": "2026-07-30T13:36:51.000Z",
       "title": "Tesla hits 10 million vehicles — but its EV growth has stalled",
       "body": "Tesla has built its 10 millionth vehicle, the company announced this week. Ten million all-electric cars is a real milestone, and no other automaker has done it. But it’s arriving later than Tesla once promised, and the …",
@@ -236,9 +223,22 @@
       "href": "https://electrek.co/2026/07/30/tesla-10-millionth-vehicle-ev-growth-stalled/"
     },
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "22h ago",
+      "pubDate": "2026-07-30T12:32:00.000Z",
+      "title": "EXCLUSIVE: Amazon's Zoox wins first US approval for paid robotaxis without human controls",
+      "body": "EXCLUSIVE: Amazon's Zoox wins first US approval for paid robotaxis without human controls Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/world/amazons-zoox-wins-first-us-approval-paid-robotaxis-with-no-human-controls-2026-07-30/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "19h ago",
+      "time": "23h ago",
       "pubDate": "2026-07-30T11:46:00.000Z",
       "title": "Tesla Stock Drops Below $300 After 6-Day Losing Streak",
       "body": "Tesla Stock Drops Below $300 After 6-Day Losing Streak Barron's",
@@ -251,7 +251,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-07-29T20:29:00.000Z",
       "title": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk",
       "body": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk Barron's",
