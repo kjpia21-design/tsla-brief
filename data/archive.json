@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-07-31T01:12:00.000Z",
+      "title": "WSJ \"테슬라, SpaceX 합병 대비 <em>中사업 매각 검토</em>\" — 머스크는 부인",
+      "hotShort": "WSJ \"테슬라 <em>中사업 매각 검토</em>\" — 머스크 부인",
+      "body": "WSJ 단독보도에 따르면 테슬라 임원진이 스페이스X와의 잠재적 합병에 대비해 중국 사업(스핀오프·매각·폐쇄 등)을 분리하는 방안을 검토해온 것으로 전해졌다 — 스페이스X는 안보 민감도가 높은 美 국방 계약사인 반면 테슬라는 중국에 자체 생산시설을 두고 있어, 실현되면 테슬라 지배구조 자체를 바꾸는 초대형 이벤트가 된다. 다만 일론 머스크는 자신의 X 계정에 \"가짜뉴스\"라며 즉각 부인해, 확정된 사안은 아니다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "stock-china-sale-spacex-merger-2026-07-31",
+      "summary": "30일(현지시간) 월스트리트저널(WSJ)은 복수의 소식통을 인용해, 테슬라 경영진이 스페이스X와의 잠재적 합병을 앞두고 중국 사업을 별도로 떼어내는 방안을 논의해왔다고 보도했다.\n\nWSJ에 따르면 테슬라 자문단은 스핀오프·매각·완전 폐쇄 등 여러 선택지를 검토했으며, 실제로 언제 어떤 방식으로 분리가 이뤄질지, 혹은 계획 자체가 바뀔지는 불투명한 상태다.\n\n합병이 걸림돌에 부딪히는 핵심 이유는 지정학이다. 스페이스X는 위성·국가안보 프로그램을 수행하는 美 정부의 핵심 국방 계약사인 반면, 테슬라는 중국에 완전 소유 생산시설(기가상하이)을 운영하고 있어 두 회사를 합치면 안보 심사 문턱이 크게 높아질 수 있다.\n\n머스크는 최근 수년간 테슬라 임원들에게 美 사업과 중국 사업 사이에 '레이저(laser)'로 선을 긋듯 조직을 분리하라고 지시해온 것으로 알려졌다 — 양국 간 지정학적 긴장이 커질 경우 최소한 테슬라의 미국 쪽 사업만은 존속시키려는 포석이었다는 설명이다.\n\n다만 머스크 본인은 이 보도가 나온 직후 자신의 X 계정에 \"가짜뉴스(fake news)\"라는 한마디로 즉각 부인했다. 테슬라·스페이스X의 공식 확인은 아직 없어, 이번 보도는 소식통발 정황일 뿐 확정된 계획은 아니라는 점에 유의할 필요가 있다.",
+      "title_en": "WSJ: Tesla weighs <em>selling China unit</em> ahead of possible SpaceX merger — Musk denies",
+      "hotShort_en": "WSJ: Tesla weighs <em>China sale</em> — Musk denies",
+      "body_en": "Tesla executives have been weighing options — including a spinoff, sale, or closure — to separate the company's China business ahead of a potential merger with SpaceX, the Wall Street Journal reported, citing people familiar with the matter. SpaceX is a sensitive U.S. defense contractor while Tesla runs wholly-owned manufacturing in China, so a merger would be a structure-altering event for Tesla if it happens. Elon Musk denied the report as \"fake news\" on X shortly after it broke, so nothing is confirmed.",
+      "summary_en": "The Wall Street Journal reported on July 30, citing multiple people familiar with the matter, that Tesla executives have discussed separating the company's China business ahead of a possible merger with SpaceX.\n\nAccording to the report, Tesla's advisers have weighed several options — a spinoff, a sale, or an outright closure — though it remains unclear how quickly any separation could happen, or whether the plans could change entirely.\n\nThe geopolitical rationale is central to why a merger would face hurdles: SpaceX is a major U.S. defense contractor involved in satellite and national-security programs, while Tesla operates wholly-owned manufacturing facilities in China (Gigafactory Shanghai) — combining the two would likely draw much heavier national-security scrutiny.\n\nMusk has reportedly instructed Tesla executives in recent years to keep a 'laser' separation between the company's U.S. and China operations, aiming to ensure that at least the U.S. side of Tesla would survive if U.S.-China tensions escalated.\n\nMusk himself denied the report almost immediately, posting \"fake news\" on X. Neither Tesla nor SpaceX has offered an official confirmation, so this remains a sourced report rather than a confirmed plan.",
+      "href": "https://www.reuters.com/business/media-telecom/tesla-weighs-sale-china-business-pave-way-potential-spacex-merger-wsj-reports-2026-07-31/",
+      "sentiment": "neutral",
+      "hot": 7
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-07-30T20:59:46.000Z",
+      "title": "머스크 아메리카PAC, 11월 중간선거 앞두고 <em>최대 $1.2억 공화당 결집전</em> 추진 — NYT",
+      "hotShort": "머스크 PAC, 중간선거 앞두고 <em>$1.2억 결집전</em>",
+      "body": "뉴욕타임스에 따르면 일론 머스크가 이끄는 정치자금단체 '아메리카PAC'이 11월 중간선거를 앞두고 최소 8개 주에서 공화당 표심 결집을 위해 $1억~$1.2억 규모의 지출을 계획 중이다 — 방문 유세·디지털 광고·다이렉트 메일을 총동원하는 이번 캠페인이 실현되면 이번 선거 주기 최대 규모의 외부 지출 캠페인 중 하나가 되며, 머스크의 공화당 내 정치적 영향력을 다시 부각시킬 전망이다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-america-pac-100m-turnout-2026-07-30",
+      "summary": "일론 머스크가 이끄는 정치자금단체 아메리카PAC이 오는 11월 중간선거를 겨냥해 대규모 유권자 결집 캠페인을 준비하고 있다고 뉴욕타임스(NYT)가 30일(현지시간) 보도했다.\n\n보도에 따르면 머스크는 이 프로그램에 $1억~$1.2억 규모의 자금 투입을 승인했으며, 캠페인은 최소 8개 주에서 도어노킹(방문 유세)·디지털 광고·다이렉트 메일을 총동원하는 '대규모 투자'로 기획됐다.\n\n실현되면 2026년 중간선거에서 가장 큰 규모의 외부 지출 캠페인 중 하나가 될 전망이며, 머스크가 공화당의 핵심 자금줄로서 입지를 다시 굳히는 계기가 될 것으로 보인다.\n\n아메리카PAC은 2025년 1월 이후 이미 $52.3M을 지출했고, 이번 선거 주기 동안 $50.3M을 모금했는데 이 중 약 $50M이 머스크 개인 자금에서 나온 것으로 집계됐다.\n\n테슬라 사업과 직접 관련은 없지만, 머스크의 정치 지출 확대는 그의 시간·평판 리스크를 둘러싼 주주들의 우려와 종종 함께 거론돼 온 변수다. 아직 NYT 단독 보도 단계로 머스크·PAC 측의 공식 확인은 나오지 않았다.",
+      "title_en": "Musk's America PAC plans <em>up to $120M</em> GOP turnout push — NYT",
+      "hotShort_en": "Musk PAC plans <em>$100M+</em> GOP turnout push",
+      "body_en": "Elon Musk's America PAC is planning to spend $100M-$120M on a Republican voter turnout campaign across at least eight states ahead of November's midterms, the New York Times reports — door-knocking, digital ads, and direct mail combined would make it one of this cycle's biggest outside-spending efforts, reinforcing Musk's role as one of the GOP's top financiers.",
+      "summary_en": "Elon Musk's America PAC is preparing a large-scale voter turnout campaign ahead of November's midterm elections, the New York Times reported on July 30.\n\nAccording to the report, Musk has authorized $100M-$120M for the program, which is planned across at least eight states and will combine door-knocking, digital advertising, and direct mail in what's described as a 'huge investment.'\n\nIf it goes forward as planned, it would be one of the biggest outside-spending campaigns of the 2026 midterms, further cementing Musk's position as one of the Republican Party's most influential financiers.\n\nAmerica PAC has already spent $52.3M since January 2025 and has raised $50.3M this election cycle, with roughly $50M of that coming directly from Musk himself.\n\nWhile not directly tied to Tesla's business, Musk's expanding political spending is a variable shareholders have periodically raised alongside concerns about his time and reputational risk. This remains an NYT-sourced report, with no official confirmation yet from Musk or the PAC.",
+      "href": "https://www.reuters.com/business/media-telecom/musks-america-pac-plans-100-million-plus-effort-boost-republican-turnout-nyt-2026-07-30/",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -2299,58 +2339,7 @@
       ],
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-18T02:26:46.000Z",
-      "title": "테슬라 FSD 누적주행 <em>120억 마일</em> 돌파 — 110억 마일 이후 약 한 달만",
-      "hotShort": "테슬라 FSD 누적주행 <em>120억 마일</em> 돌파",
-      "body": "테슬라 전세계 FSD(Supervised) 누적 주행거리가 120억 마일을 돌파했다 — 6월9일 110억 마일을 넘긴 지 약 한 달 만으로, 자율주행 신경망 학습에 쓰이는 실주행 데이터가 갈수록 빠르게 쌓이고 있음을 보여준다.",
-      "sourceName": "Tesla Owners SV (X)",
-      "sourceLabel": "press",
-      "slug": "fsd-12-billion-miles-2026-07-18",
-      "summary": "테슬라의 FSD(Supervised) 마일 트래커가 다시 한 번 갱신됐다. 앞서 5월초 누적 100억 마일을 돌파했을 때는 일론 머스크가 예고했던 '무감독(unsupervised) 자율주행 준비'의 데이터 기준점을 넘어섰다는 점에서 주목받았는데, 이후 두 달여 만에 다시 20억 마일이 추가됐다.\n\n연간 누적 추이를 보면 증가 속도가 뚜렷하다 — 2021년 600만마일, 2022년 8000만마일, 2023년 6억7000만마일, 2024년 22억5000만마일, 2025년 42억5000만마일을 기록했고, 2026년에는 첫 50일 만에 이미 10억마일을 넘겼다. 110억마일(6월9일)에서 120억마일까지는 약 한 달 만에 도달해, 하루 평균 2700만마일 안팎의 페이스를 보이고 있다.\n\n이런 실주행 데이터 축적은 테슬라 FSD 신경망 학습의 핵심 자산이다. 다양한 도로·기상·교통 상황에서의 주행 데이터가 쌓일수록 모델의 예외 상황 대응력이 개선되는 구조로, 경쟁사 대비 테슬라가 자율주행 데이터에서 갖는 규모의 우위를 재확인시켜준다.\n\n주주 입장에서는 이 마일 트래커가 로보택시·완전자율주행 상용화 시점을 가늠하는 선행 지표 중 하나로 꼽힌다 — 데이터 축적 속도가 빨라질수록, 머스크가 강조해온 '무감독 자율주행' 목표 달성 시점도 앞당겨질 수 있다는 기대가 반영된다.",
-      "title_en": "Tesla's FSD fleet <em>tops 12 billion miles</em> driven — a month after hitting 11 billion",
-      "hotShort_en": "Tesla FSD fleet <em>tops 12 billion miles</em>",
-      "body_en": "Tesla's global FSD (Supervised) fleet has surpassed 12 billion cumulative miles driven — about a month after crossing 11 billion on June 9 — underscoring how fast real-world driving data for its self-driving neural networks keeps piling up.",
-      "summary_en": "Tesla's FSD (Supervised) mile tracker has ticked over another milestone. When the fleet first crossed 10 billion cumulative miles in early May, it drew attention because that was the data threshold Elon Musk had previously flagged as a prerequisite for \"safe unsupervised\" driving. Roughly two months later, the fleet has already added another 2 billion miles.\n\nThe year-over-year growth curve shows just how fast the pace has picked up: 6 million miles in 2021, 80 million in 2022, 670 million in 2023, 2.25 billion in 2024, and 4.25 billion in 2025 — with the fleet already topping 1 billion miles in just the first 50 days of 2026. Getting from 11 billion (June 9) to 12 billion took about a month, a run rate of roughly 27 million miles a day.\n\nThat accumulating real-world driving data is a core asset for training Tesla's FSD neural networks — more miles across varied roads, weather, and traffic scenarios means the model has more edge cases to learn from, reinforcing Tesla's scale advantage in autonomous-driving data versus rivals.\n\nFor shareholders, the mile tracker functions as a leading indicator for how close Tesla is to commercializing Robotaxi and full autonomy — the faster the data accumulates, the more it feeds the narrative that Musk's \"unsupervised FSD\" target could arrive sooner.",
-      "href": "https://x.com/teslaownersSV/status/2078305446256169129",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Tesla Owners SV",
-        "Sawyer Merritt"
-      ],
-      "sentiment": "bull",
-      "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-17T23:43:21.000Z",
-      "title": "테슬라, <em>공장 밖 첫 공개 세미 메가차저</em> 캘리포니아에 개장 — 6스톨·1.2MW",
-      "hotShort": "테슬라 세미, <em>첫 공장 밖 메가차저</em> 개장",
-      "body": "테슬라가 LA에서 동쪽으로 약 50마일 떨어진 캘리포니아 블루밍턴에 <em>테슬라 공장이 아닌 부지로는 처음</em>인 공개 세미 메가차저를 개장했다 — 스톨 6개가 각각 최대 1.2MW를 공급해 세미 롱레인지(500마일)를 30분 만에 60%까지 충전할 수 있어, 롱비치·LA항에서 내륙으로 향하는 물류 거점에 상용 충전 인프라가 갖춰졌다.",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "product-tesla-semi-megacharger-bloomington-2026-07-17",
-      "summary": "테슬라가 이번 주 캘리포니아 블루밍턴(18434 Valley Blvd)에 새 세미 메가차저 부지를 열었다. 남부 캘리포니아에서 가장 분주한 화물 회랑 중 하나로 꼽히는 이 지역은 롱비치·LA항에서 내륙 물류센터로 화물이 이동하는 길목이다.\n\n이 부지는 충전 스톨 6개를 갖췄고, 각 스톨은 최대 1.2메가와트(MW) 출력을 낸다 — 세미 롱레인지(주행거리 500마일) 기준 30분 안에 배터리의 60%까지 채울 수 있는 속도다. 상용 슈퍼차저 V4 대비 월등히 높은 출력으로, 장거리 화물 운송에 필요한 빠른 재충전을 겨냥한 설계다.\n\n테슬라의 메가차저 부지가 실제 가동 중인 곳은 이번 블루밍턴과 메가팩 공장 인근 캘리포니아 래스롭(Lathrop) 두 곳뿐이다. 다만 래스롭은 메가팩 출하 물류 목적이 커, 제3자 세미 고객에게 완전히 개방된 부지로는 이번 블루밍턴이 <em>테슬라 공장이 아닌 곳 첫 사례</em>다. 테슬라의 지도에는 15개 주에 걸쳐 64곳의 추가 부지가 계획돼 있으며, 텍사스(19곳)·캘리포니아(17곳) 순으로 많다.\n\n테슬라 세미의 상업화는 충전 인프라 구축 속도에 달려 있다는 평가가 많다 — 공장 밖 첫 공개 메가차저 개장은 화물 운송업체들의 '충전 불안(range anxiety)'을 낮추는 신호로, 향후 세미 양산·판매 확대에 필요한 선행 조건이 하나씩 채워지고 있음을 보여준다.",
-      "title_en": "Tesla opens its <em>first public Megacharger not located at a factory</em> in California — 6 stalls, 1.2MW",
-      "hotShort_en": "Tesla opens <em>first off-factory Megacharger</em>",
-      "body_en": "Tesla opened a public Semi Megacharger site in Bloomington, California, about 50 miles east of Los Angeles — its <em>first not located at a Tesla factory</em> — with six stalls each delivering up to 1.2MW, enough to add 60% of a Semi Long Range's 500-mile range in 30 minutes, bringing dedicated charging infrastructure to a key freight corridor from the ports of Long Beach and LA.",
-      "summary_en": "Tesla opened a new Semi Megacharger site this week in Bloomington, California (18434 Valley Blvd), sitting along one of Southern California's busiest freight corridors, where cargo moves from the Ports of Long Beach and LA to inland distribution centers.\n\nThe site has six charging stalls, each capable of up to 1.2 megawatts (MW) of peak output — enough to add 60% of a Tesla Semi Long Range's 500-mile range in just 30 minutes. That's a significantly higher output than a Supercharger V4, built for the fast turnaround long-haul trucking needs.\n\nOnly two Megacharger sites are actually live today: this new Bloomington location and one near Tesla's Megapack factory in Lathrop, California. But Lathrop is largely used for shipping Megapacks, making Bloomington Tesla's <em>first Megacharger site not tied to one of its own factories</em> and fully open to third-party Semi customers. Tesla's map shows 64 more planned locations across 15 states, led by Texas (19) and California (17).\n\nSemi's path to commercialization is widely seen as gated by charging infrastructure buildout — opening its first off-factory public Megacharger is a signal to trucking fleets on range anxiety, checking off one more prerequisite for scaling Semi production and sales.",
-      "href": "https://insideevs.com/news/789433/tesla-first-megacharger-first-location/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "InsideEVs",
-        "Not a Tesla App",
-        "Clean Trucking"
-      ],
-      "sentiment": "bull",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-31 09:12 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-31 12:15 KST 자동 갱신 · 최신순"
 }

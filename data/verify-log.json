@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-25T23:06:27.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-eu-50m-km-5-countries-2026-07-23",
-          "verdict": "pass",
-          "newSourceLabel": "sec",
-          "reasons": [
-            "sourceLabel sec correct — figures disclosed directly in Tesla Q2 2026 10-Q filing",
-            "no advisory tone (no buy/sell/price target language)",
-            "no hedge-to-assertion conversion — no rumor language used, facts officially disclosed",
-            "50M km/31M miles and 5-country list cross-checked against Electrive/EVwire/Not a Tesla App coverage — matches",
-            "href (SEC 10-Q index) corresponds to the same filing event described in the card",
-            "not X-sourced — meme/satire check N/A"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-26T14:00:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -834,6 +814,37 @@
           "verdict": "pass",
           "reasons": [
             "Updated existing card (not new) to replace hedged/unconfirmed bounce report with confirmed facts via WebSearch cross-check: TSLA closed $308.85 on 2026-07-30 (+3.91%), consistent across Motley Fool/Yahoo Finance and macrotrends historical data. ARK cumulative $53.5M Tesla purchase confirmed via Motley Fool/Yahoo Finance/TheStreet/Benzinga (multiple independent outlets). sourceLabel press correct (Trefis original + Motley Fool/Yahoo Finance/Benzinga corroboration). No advice-tone, no unresolved hedge-to-assertion issues, numbers match sources exactly, href still matches the underlying event."
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-31T05:11:59.000Z",
+      "mode": "shadow",
+      "checked": 3,
+      "verdicts": [
+        {
+          "slug": "stock-china-sale-spacex-merger-2026-07-31",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "WSJ/Reuters 원문과 일치, Musk 부인 정확 반영, 단정 표현 없음"
+          ]
+        },
+        {
+          "slug": "musk-america-pac-100m-turnout-2026-07-30",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "NYT/Reuters 수치($100-120M, 8개주, $52.3M, $50.3M) 모두 원문 일치"
+          ]
+        },
+        {
+          "slug": "fsd-zoox-nhtsa-robotaxi-approval-2026-07-30",
+          "verdict": "regrade",
+          "newSourceLabel": null,
+          "reasons": [
+            "보강 문단이 카드 내 기존 FMVSS 135 설명과 중복·별개 사실처럼 오인 소지 — 해당 문단 제거로 수정 완료"
           ]
         }
       ]
