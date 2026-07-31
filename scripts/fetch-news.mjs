@@ -90,18 +90,20 @@ const X_ACCOUNTS = [
   { username: "aelluswamy",    id: "87657877",            name: "Ashok Elluswamy",  label: "official", category: "fsd" },
   { username: "larsmoravy",    id: "716024533363208192",  name: "Lars Moravy",      label: "official", category: "product" },
   { username: "yunta_tsai",    id: "1577705091737432070", name: "Yun-Ta Tsai",      label: "official", category: "fsd" },
-  // 인플루언서·애널리스트(보도·의견 → press)
+  // 인플루언서·애널리스트 개인 계정 → rumor(🟠추측).
+  //  2026-08-01 정정: 종전 press(🟡신뢰 외신)는 개인 X 글을 로이터·블룸버그와 동급으로 표시하는 오표시였다.
+  //  (감사자 전수검증에서 확인 — Chuck Cook DM 정리 글이 "신뢰 외신" 배지로 발행). 매체 소속이 아니면 rumor.
   // (SawyerMerritt 제외 — 비-테슬라 트윗(스포츠·SpaceX 등)이 오해 카드로 유입돼 2026-06 제거)
-  { username: "DivesTech",     id: "1082353582228176896", name: "Dan Ives",         label: "press",    category: "stock" },
-  { username: "JoeTegtmeyer",  id: "1288973134339739648", name: "Joe Tegtmeyer",    label: "press",    category: null },
-  { username: "teslaownersSV", id: "1016059981907386368", name: "Tesla Owners SV",  label: "press",    category: null },
+  { username: "DivesTech",     id: "1082353582228176896", name: "Dan Ives",         label: "rumor",    category: "stock" },
+  { username: "JoeTegtmeyer",  id: "1288973134339739648", name: "Joe Tegtmeyer",    label: "rumor",    category: null },
+  { username: "teslaownersSV", id: "1016059981907386368", name: "Tesla Owners SV",  label: "rumor",    category: null },
   // 핵심 인플루언서 (JP 요청 2026-06-28) — 6명 중 3명+ 가 게시/주목한 뉴스는 반드시 채택(routine 합의 판단). id 미상이라 username 으로 매칭.
-  { username: "niccruzpatane", id: "", name: "Nic Cruz Patane", label: "press", category: null },
-  { username: "SawyerMerritt", id: "", name: "Sawyer Merritt",  label: "press", category: null },
-  { username: "Tslachan",      id: "", name: "Tesla Chan",      label: "press", category: null },
-  { username: "BLKMDL3",       id: "", name: "Zack",            label: "press", category: null },
-  { username: "ChuckCook",     id: "", name: "Chuck Cook",      label: "press", category: null },
-  { username: "wholemars",     id: "", name: "Whole Mars",      label: "press", category: null },
+  { username: "niccruzpatane", id: "", name: "Nic Cruz Patane", label: "rumor", category: null },
+  { username: "SawyerMerritt", id: "", name: "Sawyer Merritt",  label: "rumor", category: null },
+  { username: "Tslachan",      id: "", name: "Tesla Chan",      label: "rumor", category: null },
+  { username: "BLKMDL3",       id: "", name: "Zack",            label: "rumor", category: null },
+  { username: "ChuckCook",     id: "", name: "Chuck Cook",      label: "rumor", category: null },
+  { username: "wholemars",     id: "", name: "Whole Mars",      label: "rumor", category: null },
 ];
 
 const SOURCES = [
