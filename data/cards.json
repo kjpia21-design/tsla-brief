@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-31T17:08:12.000Z",
+      "title": "스페이스X 공매도 <em>테슬라 앞질러</em> $246억 — 8/4 실적·8/6 락업 겹악재",
+      "hotShort": "스페이스X 공매도 <em>테슬라 추월</em> — 실적·락업 대기",
+      "body": "스페이스X 공매도 잔고가 7월29일 기준 2억1930만주(유통물량의 34%)로, 첫 집계일인 6월16일(2330만주) 대비 9배 넘게 불어나며 베팅 규모($246억)가 테슬라 공매도 금액을 앞질렀다 — 8월4일 첫 분기 실적 발표와 8월6일 첫 락업 해제를 사흘 간격으로 앞두고 약세론이 급격히 쏠린 신호.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-short-interest-record-2026-07-31",
+      "summary": "블룸버그에 따르면 스페이스X의 공매도 잔고가 최근 6주 새 급격히 불어났다. S3파트너스 집계로 7월29일 기준 공매도 물량은 2억1930만주로, 유통 가능 주식의 약 34%에 해당한다 — 이 지표가 처음 집계된 6월16일(2330만주)과 비교하면 9배 넘게 증가한 규모다.\n\n금액 기준으로도 스페이스X 공매도 베팅 규모($246억)가 테슬라를 상대로 한 공매도 금액을 넘어섰다 — 두 회사 모두 일론 머스크가 최대주주 겸 CEO를 맡고 있지만, 최근 들어 약세론의 화력이 스페이스X 쪽으로 옮겨갔다는 의미로 해석된다.\n\n공매도 세력이 겨냥하는 다음 이벤트는 두 가지다 — 8월4일(화) 상장 후 첫 분기 실적 발표, 그리고 이틀 뒤인 8월6일 첫 락업 해제(발행주식의 20%, 약 9억1150만주가 매도 가능해짐)다. 두 이벤트가 사흘 간격으로 겹치면서 주가 변동성이 커질 것이란 경계감이 반영된 결과로 풀이된다.\n\n스페이스X 주가는 7월31일 108.89달러 선에서 거래되며 이날 하루 2.95% 하락했다 — 최근 한 달간 약 30.9%, 1년간 19.4% 떨어진 상태다.",
+      "title_en": "SpaceX short interest <em>overtakes Tesla's</em> — $24.6B bet ahead of Aug. 4 earnings, Aug. 6 lockup",
+      "hotShort_en": "SpaceX short bets <em>top Tesla's</em> before earnings",
+      "body_en": "SpaceX's short interest has ballooned to 219.3 million shares — about 34% of shares available for public trading — as of July 29, up more than ninefold from 23.3 million when first tracked on June 16, according to S3 Partners data cited by Bloomberg. The $24.6 billion bearish bet now exceeds short positions against Tesla itself, with traders bracing for SpaceX's first quarterly earnings as a public company on Aug. 4 and its first post-IPO lockup expiration two days later.",
+      "summary_en": "Bloomberg reports that SpaceX's short interest has surged sharply over the past six weeks. According to S3 Partners data, short positions stood at 219.3 million shares as of July 29 — about 34% of the stock available for public trading — more than nine times the 23.3 million shares recorded when the metric was first tracked on June 16.\n\nIn dollar terms, the bearish bet against SpaceX, now worth $24.6 billion, has surpassed the value of short positions against Tesla — even though Elon Musk is CEO and largest shareholder of both companies, suggesting bears have shifted more of their firepower toward SpaceX.\n\nShort sellers are positioning ahead of two closely spaced catalysts: SpaceX's first quarterly earnings report as a public company on Tuesday, Aug. 4, and its first post-IPO lockup expiration just two days later on Aug. 6, when 20% of restricted shares — roughly 911.5 million shares — become eligible for sale.\n\nSpaceX shares traded around $108.89 on July 31, down 2.95% for the day — the stock has fallen about 30.9% over the past month and 19.4% over the past year.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-31/spacex-short-interest-soars-ahead-of-big-share-unlock-earnings",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Investing.com"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-31T16:49:13.000Z",
+      "title": "테슬라, 모델Y L 미디어 시승 행사서 <em>신규 옵션 첫 공개</em> — Zen Grey·20인치 휠",
+      "hotShort": "모델Y L 시승행사서 <em>신규 옵션 공개</em>",
+      "body": "테슬라가 테슬라 다이너에서 연 모델Y L 미디어 핸즈온 행사에서 신규 옵션을 처음 공개했다 — 모노톤 Zen Grey 인테리어, 20인치 Uberhelix 휠, 캐빈 냉방 15% 단축 등 실사용성 개선이 핵심으로, 프리미엄 롱휠베이스 트림으로 ASP(평균판매단가) 방어에 나선 모습이다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-model-y-l-diner-preview-features-2026-07-31",
+      "summary": "테슬라라티에 따르면, 테슬라가 캘리포니아 테슬라 다이너에서 미디어·업계 관계자를 초청해 3열 6인승 롱휠베이스 모델Y L의 핸즈온 프리뷰 행사를 열고 신규 옵션 사양을 처음 공개했다.\n\n인테리어에서는 기존 화이트 색상을 대체하는 모노톤 톤의 신규 'Zen Grey' 옵션이 북미 일부 트림에 추가됐다. 휠은 선택 사양으로 20인치 'Uberhelix' 디자인이 공개됐는데, 항속거리는 표준 사양(325마일) 대비 소폭 줄어든 320마일이지만 참석자들은 사진보다 실물의 디자인 완성도가 높다고 평가했다.\n\n열관리 성능도 개선됐다 — 테슬라는 표준 모델Y 대비 캐빈 냉방 속도가 최대 15% 빨라지고, 뙤약볕 환경에서 냉방 완료까지 걸리는 시간이 최대 15분 단축됐으며, 폭염 시 열효율은 23% 개선됐다고 밝혔다. 소프트웨어 측면에서는 클라이밋 화면 우측에 빠른 접근 아이콘 열이 추가돼, 앞좌석 탑승자가 추가 터치 없이 각 열의 공조를 바로 제어할 수 있게 됐다.\n\n후방 스포일러는 장식용이 아니라 약 15마일의 주행거리 개선 효과가 있는 기능성 부품으로 확인됐으며, 더 길어진 6인승 캐빈에도 불구하고 기존 모델Y 대비 후방 시야가 눈에 띄게 개선됐다는 평가도 나왔다.",
+      "title_en": "Tesla previews Model Y L <em>new options</em> at Diner media event",
+      "hotShort_en": "Model Y L event <em>reveals new options</em>",
+      "body_en": "Tesla hosted a hands-on media preview of the six-seat, long-wheelbase Model Y L at its Tesla Diner, unveiling new options including a monochrome 'Zen Grey' interior and 20-inch 'Uberhelix' wheels, plus faster cabin cooling — part of a push to defend average selling price with a premium long-wheelbase trim.",
+      "summary_en": "According to Teslarati, Tesla invited media and industry attendees to a hands-on preview event at its Tesla Diner in California, showcasing new option packages for the three-row, six-seat, long-wheelbase Model Y L.\n\nOn the interior side, a new monochrome 'Zen Grey' option replaces white on select North American trims. Tesla also showed off optional 20-inch 'Uberhelix' wheels — which trim range slightly from the standard 325 miles down to 320 miles — with attendees noting the wheel design looked sharper in person than in earlier press photos.\n\nThermal performance also improved: Tesla says cabin cooling is up to 15% faster than the standard Model Y, with cooldown time in sunny conditions cut by up to 15 minutes, and hot-weather thermal efficiency up 23%. On software, the climate screen gained a new row of quick-access icons on the right edge, letting front-seat occupants jump straight to any row's climate controls without extra taps.\n\nThe rear spoiler was confirmed to be functional rather than purely cosmetic, adding roughly 15 miles of range, while rear visibility was noted as a meaningful improvement over the standard Model Y despite the longer six-seat cabin.",
+      "href": "https://www.teslarati.com/tesla-model-y-l-unveiling-event-diner-features/",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2h ago",
@@ -58,18 +103,23 @@
       "pubDate": "2026-07-31T01:12:00.000Z",
       "title": "WSJ \"테슬라, SpaceX 합병 대비 <em>中사업 매각 검토</em>\" — 머스크는 부인",
       "hotShort": "WSJ \"테슬라 <em>中사업 매각 검토</em>\" — 머스크 부인",
-      "body": "WSJ 단독보도에 따르면 테슬라 임원진이 스페이스X와의 잠재적 합병에 대비해 중국 사업(스핀오프·매각·폐쇄 등)을 분리하는 방안을 검토해온 것으로 전해졌다 — 스페이스X는 안보 민감도가 높은 美 국방 계약사인 반면 테슬라는 중국에 자체 생산시설을 두고 있어, 실현되면 테슬라 지배구조 자체를 바꾸는 초대형 이벤트가 된다. 다만 일론 머스크는 자신의 X 계정에 \"가짜뉴스\"라며 즉각 부인해, 확정된 사안은 아니다.",
+      "body": "WSJ 단독보도에 따르면 테슬라 임원진이 스페이스X와의 잠재적 합병에 대비해 중국 사업(스핀오프·매각·폐쇄 등)을 분리하는 방안을 검토해온 것으로 전해졌다 — 스페이스X는 안보 민감도가 높은 美 국방 계약사인 반면 테슬라는 중국에 자체 생산시설을 두고 있어, 실현되면 테슬라 지배구조 자체를 바꾸는 초대형 이벤트가 된다. 다만 일론 머스크는 자신의 X 계정에 \"이런 논의는 있었던 적조차 없다\"·\"터무니없는 가짜뉴스\"라며 즉각 반박해, 확정된 사안은 아니다.",
       "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "stock-china-sale-spacex-merger-2026-07-31",
-      "summary": "30일(현지시간) 월스트리트저널(WSJ)은 복수의 소식통을 인용해, 테슬라 경영진이 스페이스X와의 잠재적 합병을 앞두고 중국 사업을 별도로 떼어내는 방안을 논의해왔다고 보도했다.\n\nWSJ에 따르면 테슬라 자문단은 스핀오프·매각·완전 폐쇄 등 여러 선택지를 검토했으며, 실제로 언제 어떤 방식으로 분리가 이뤄질지, 혹은 계획 자체가 바뀔지는 불투명한 상태다.\n\n합병이 걸림돌에 부딪히는 핵심 이유는 지정학이다. 스페이스X는 위성·국가안보 프로그램을 수행하는 美 정부의 핵심 국방 계약사인 반면, 테슬라는 중국에 완전 소유 생산시설(기가상하이)을 운영하고 있어 두 회사를 합치면 안보 심사 문턱이 크게 높아질 수 있다.\n\n머스크는 최근 수년간 테슬라 임원들에게 美 사업과 중국 사업 사이에 '레이저(laser)'로 선을 긋듯 조직을 분리하라고 지시해온 것으로 알려졌다 — 양국 간 지정학적 긴장이 커질 경우 최소한 테슬라의 미국 쪽 사업만은 존속시키려는 포석이었다는 설명이다.\n\n다만 머스크 본인은 이 보도가 나온 직후 자신의 X 계정에 \"가짜뉴스(fake news)\"라는 한마디로 즉각 부인했다. 테슬라·스페이스X의 공식 확인은 아직 없어, 이번 보도는 소식통발 정황일 뿐 확정된 계획은 아니라는 점에 유의할 필요가 있다.",
+      "summary": "30일(현지시간) 월스트리트저널(WSJ)은 복수의 소식통을 인용해, 테슬라 경영진이 스페이스X와의 잠재적 합병을 앞두고 중국 사업을 별도로 떼어내는 방안을 논의해왔다고 보도했다.\n\nWSJ에 따르면 테슬라 자문단은 스핀오프·매각·완전 폐쇄 등 여러 선택지를 검토했으며, 실제로 언제 어떤 방식으로 분리가 이뤄질지, 혹은 계획 자체가 바뀔지는 불투명한 상태다.\n\n합병이 걸림돌에 부딪히는 핵심 이유는 지정학이다. 스페이스X는 위성·국가안보 프로그램을 수행하는 美 정부의 핵심 국방 계약사인 반면, 테슬라는 중국에 완전 소유 생산시설(기가상하이)을 운영하고 있어 두 회사를 합치면 안보 심사 문턱이 크게 높아질 수 있다.\n\n머스크는 최근 수년간 테슬라 임원들에게 美 사업과 중국 사업 사이에 '레이저(laser)'로 선을 긋듯 조직을 분리하라고 지시해온 것으로 알려졌다 — 양국 간 지정학적 긴장이 커질 경우 최소한 테슬라의 미국 쪽 사업만은 존속시키려는 포석이었다는 설명이다.\n\n다만 머스크 본인은 이 보도가 나온 직후 자신의 X 계정에 \"이런 논의는 있었던 적조차 없다(This has never even come up in a discussion ever)\"·\"터무니없는 가짜뉴스(Absurdly fake news)\"라고 즉각 반박했다. 테슬라·스페이스X의 공식 확인은 아직 없어, 이번 보도는 소식통발 정황일 뿐 확정된 계획은 아니라는 점에 유의할 필요가 있다.",
       "title_en": "WSJ: Tesla weighs <em>selling China unit</em> ahead of possible SpaceX merger — Musk denies",
       "hotShort_en": "WSJ: Tesla weighs <em>China sale</em> — Musk denies",
-      "body_en": "Tesla executives have been weighing options — including a spinoff, sale, or closure — to separate the company's China business ahead of a potential merger with SpaceX, the Wall Street Journal reported, citing people familiar with the matter. SpaceX is a sensitive U.S. defense contractor while Tesla runs wholly-owned manufacturing in China, so a merger would be a structure-altering event for Tesla if it happens. Elon Musk denied the report as \"fake news\" on X shortly after it broke, so nothing is confirmed.",
-      "summary_en": "The Wall Street Journal reported on July 30, citing multiple people familiar with the matter, that Tesla executives have discussed separating the company's China business ahead of a possible merger with SpaceX.\n\nAccording to the report, Tesla's advisers have weighed several options — a spinoff, a sale, or an outright closure — though it remains unclear how quickly any separation could happen, or whether the plans could change entirely.\n\nThe geopolitical rationale is central to why a merger would face hurdles: SpaceX is a major U.S. defense contractor involved in satellite and national-security programs, while Tesla operates wholly-owned manufacturing facilities in China (Gigafactory Shanghai) — combining the two would likely draw much heavier national-security scrutiny.\n\nMusk has reportedly instructed Tesla executives in recent years to keep a 'laser' separation between the company's U.S. and China operations, aiming to ensure that at least the U.S. side of Tesla would survive if U.S.-China tensions escalated.\n\nMusk himself denied the report almost immediately, posting \"fake news\" on X. Neither Tesla nor SpaceX has offered an official confirmation, so this remains a sourced report rather than a confirmed plan.",
+      "body_en": "Tesla executives have been weighing options — including a spinoff, sale, or closure — to separate the company's China business ahead of a potential merger with SpaceX, the Wall Street Journal reported, citing people familiar with the matter. SpaceX is a sensitive U.S. defense contractor while Tesla runs wholly-owned manufacturing in China, so a merger would be a structure-altering event for Tesla if it happens. Elon Musk denied the report on X shortly after it broke, calling it \"absurdly fake news\" and saying the idea had \"never even come up in a discussion,\" so nothing is confirmed.",
+      "summary_en": "The Wall Street Journal reported on July 30, citing multiple people familiar with the matter, that Tesla executives have discussed separating the company's China business ahead of a possible merger with SpaceX.\n\nAccording to the report, Tesla's advisers have weighed several options — a spinoff, a sale, or an outright closure — though it remains unclear how quickly any separation could happen, or whether the plans could change entirely.\n\nThe geopolitical rationale is central to why a merger would face hurdles: SpaceX is a major U.S. defense contractor involved in satellite and national-security programs, while Tesla operates wholly-owned manufacturing facilities in China (Gigafactory Shanghai) — combining the two would likely draw much heavier national-security scrutiny.\n\nMusk has reportedly instructed Tesla executives in recent years to keep a 'laser' separation between the company's U.S. and China operations, aiming to ensure that at least the U.S. side of Tesla would survive if U.S.-China tensions escalated.\n\nMusk himself denied the report almost immediately, writing on X that the idea had \"never even come up in a discussion ever\" and calling it \"absurdly fake news.\" Neither Tesla nor SpaceX has offered an official confirmation, so this remains a sourced report rather than a confirmed plan.",
       "href": "https://www.reuters.com/business/media-telecom/tesla-weighs-sale-china-business-pave-way-potential-spacex-merger-wsj-reports-2026-07-31/",
       "sentiment": "neutral",
-      "hot": 7
+      "hot": 7,
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "WSJ"
+      ]
     },
     {
       "category": "musk",
@@ -124,31 +174,6 @@
       "hot": 6
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-07-30T13:36:51.000Z",
-      "title": "테슬라, 순수 전기차 최초 <em>누적 생산 1,000만 대</em> 돌파",
-      "hotShort": "테슬라, 세계 최초 <em>누적 1,000만 대</em> 생산",
-      "body": "테슬라가 프리몬트 공장에서 누적 생산 1,000만 번째 차량을 만들어냈다 — 2006년 첫 로드스터 시제품 이후 20년 만에, 순수 전기차 업체로는 세계 최초 기록이다. 다만 원문(일렉트렉)은 이 마일스톤을 2024년 이후 정체된 인도 증가세와 함께 짚으며, 성장 서사가 예전 같지 않다는 데 무게를 뒀다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-10-million-vehicles-2026-07-30",
-      "summary": "테슬라가 30일(현지시간) 프리몬트 공장에서 누적 생산 1,000만 번째 차량이 완성됐다고 밝혔다. 2006년 첫 로드스터 시제품 생산 이후 20년 만이며, 순수 전기차(EV) 제조사로는 세계 최초로 이 기록에 도달했다.\n\n테슬라의 '100만 대 단위' 마일스톤은 2020년 3월 100만 대, 2021년 9월 200만 대를 거쳐 이후로도 꾸준히 이어져 왔다 — 그만큼 오랜 기간 쌓아온 생산 이력이라는 의미다.\n\n다만 이 기사를 쓴 일렉트렉의 논조는 축하보다 경고에 가깝다. 2024년 이후 인도 증가세가 정체됐고, 회사는 더 이상 구체적인 연간 인도 가이던스를 제시하지 않은 채 로보택시·옵티머스 등 신사업이 장기적으로 성장을 다시 이끌 것이라는 원론적 입장만 유지하고 있다는 지적이다.\n\n참고로 별도 보도(일렉트렉, 7월 2일)에 따르면 2분기 인도량은 48만 126대로 전년 동기 대비 25% 늘며 분기 기준 최대였다. 다만 이는 이번 기사에 담긴 내용이 아니며, 분기 반등이 장기 정체 추세를 되돌린 것인지는 하반기 실적으로 확인해야 한다.",
-      "title_en": "Tesla becomes first pure EV maker to hit <em>10 million vehicles produced</em>",
-      "hotShort_en": "Tesla hits <em>10M vehicles</em> made — a world first",
-      "body_en": "Tesla built its 10 millionth vehicle at Fremont — 20 years after its first Roadster prototype in 2006, making it the first pure electric-vehicle maker to reach the mark. Delivery growth has been flat since 2024, though, so how much the milestone matters depends on whether the recent rebound holds.",
-      "summary_en": "Tesla said its 10 millionth vehicle rolled off the line at its Fremont factory on July 30 — 20 years after the company built its first Roadster prototype in 2006, and a first for any pure electric-vehicle maker.\n\nTesla's prior million-vehicle milestones stretch back years — 1 million in March 2020, 2 million in September 2021, and steadily onward — reflecting a long production run.\n\nElectrek, while marking the milestone, also noted that delivery growth has stalled since 2024. Tesla no longer gives specific annual delivery guidance, instead framing future growth as a longer-term payoff from its robotaxi and Optimus investments.\n\nRecent numbers do point to a rebound, though: Q2 deliveries jumped 25% year over year to 480,126, beating estimates by roughly 70,000 and marking a record quarter. First-half 2026 deliveries totaled 838,149. Whether the 10-million milestone reads as a marker amid stalled growth or the start of a rebound will likely hinge on how the second half plays out.",
-      "href": "https://electrek.co/2026/07/30/tesla-10-millionth-vehicle-ev-growth-stalled/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Nic Cruz Patane (X)"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "6h ago",
@@ -173,58 +198,7 @@
         "Reuters",
         "Teslarati"
       ]
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
-      "pubDate": "2026-07-30T10:16:26.000Z",
-      "title": "사이버트럭 <em>PCS(전력변환장치) 고장</em> 논란 확산 — 테슬라, 리콜은 여전히 거부",
-      "hotShort": "사이버트럭 <em>PCS 고장</em> 논란, 리콜은 없어",
-      "body": "사이버트럭의 완속충전(AC)을 담당하는 전력변환장치(PCS) 고장 사례가 늘면서, 테슬라 커뮤니티 인플루언서 척 쿡이 오너들의 엇갈린 경험을 정리하며 진화에 나섰다. 테슬라는 개별 교체로 대응 중이지만 리콜은 계속 거부하고 있어, 보증기간이 지난 오너는 최대 $7,000에 달하는 수리비를 떠안을 수 있다.",
-      "sourceName": "Chuck Cook (X)",
-      "sourceLabel": "rumor",
-      "slug": "product-cybertruck-pcs-failure-2026-07-30",
-      "summary": "지난 7월 초 처음 불거진 사이버트럭 PCS(파워 컨버전 시스템) 고장 논란이 한 달 가까이 이어지는 가운데, 테슬라 커뮤니티에서 활동해온 인플루언서 척 쿡이 30일 오너들 사이의 엇갈린 경험담을 정리해 '분위기를 진정시키겠다'며 나섰다.\n\nPCS는 사이버트럭의 고전압 배터리를 48V 저전압 시스템으로 변환하고 완속(AC) 충전을 담당하는 핵심 부품이다. 고장이 나면 충전 속도가 먼저 떨어지다 며칠 내 완전히 멈추는 사례가 다수 보고됐다.\n\n테슬라는 결함을 인지하고 사례별로 부품을 교체해주고 있지만, 전체 차량을 대상으로 한 공식 리콜은 여전히 내리지 않고 있다. 보증기간 안이면 '선의' 차원에서 교체 비용을 최대 $1,000까지 낮춰주지만, 보증이 끝난 오너는 $5,000~7,000에 달하는 수리비를 그대로 부담해야 하는 것으로 알려졌다.\n\n테슬라는 최근 PCS 고장으로 AC 충전이 막힌 차량에 한해 슈퍼차저 이용을 지원하는 펌웨어 업데이트를 배포하며 임시 대응에 나섰다. 다만 공식 리콜 없이 사례별 대응이 이어지는 구조가 길어질수록, 신뢰·비용 측면의 리스크로 번질 수 있다는 지적이 나온다.",
-      "title_en": "Cybertruck <em>PCS charging-failure</em> controversy grows — still no recall from Tesla",
-      "hotShort_en": "Cybertruck <em>PCS failures</em> spread, no recall",
-      "body_en": "A growing wave of Cybertruck owners have reported Power Conversion System (PCS) failures that kill home AC charging, prompting Tesla community influencer Chuck Cook to step in and lay out owners' mixed experiences. Tesla keeps replacing units case by case but still hasn't issued a recall — leaving owners outside warranty facing repair bills up to $7,000.",
-      "summary_en": "A Cybertruck Power Conversion System (PCS) failure controversy that first surfaced in early July has now run for nearly a month, and on July 30 Tesla community influencer Chuck Cook weighed in, compiling owners' varied experiences in an effort to \"calm the storm.\"\n\nThe PCS steps Cybertruck's high-voltage battery down to the 48V system and handles Level 2 AC home charging. When it fails, charging speed typically drops first, then stops entirely within days, according to numerous owner reports.\n\nTesla acknowledges the defect and has been replacing units case by case, but has not issued a fleet-wide recall. As a goodwill gesture, it's discounted the replacement cost to as little as $1,000 for some owners inside warranty — but those outside warranty reportedly face bills of $5,000 to $7,000.\n\nTesla has also pushed a firmware update letting affected trucks use Supercharging while AC charging is down, a stopgap fix. Still, critics say the longer Tesla relies on case-by-case replacements instead of a formal recall, the more it risks compounding trust and cost issues down the line.",
-      "href": "https://x.com/ChuckCook/status/2082772298365366357",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Drive Tesla"
-      ],
-      "sentiment": "bear",
-      "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3d ago",
-      "pubDate": "2026-07-28T15:00:00.000Z",
-      "title": "머스크 xAI, 미네소타 <em>AI 딥페이크 금지법</em>에 위헌 소송",
-      "hotShort": "머스크 xAI, 美 미네소타 <em>딥페이크법</em>에 소송",
-      "body": "머스크의 AI기업 xAI가 미네소타주의 AI '누드화(nudify)' 앱 금지법을 상대로 위헌 소송을 냈다 — 해당 법은 하원 132대1·상원 65대0으로 사실상 만장일치 통과됐는데도, 팀 월즈 주지사는 \"법정에서 보자\"며 정면 반박했다. 테슬라 본업과는 무관하지만, 머스크가 이끄는 AI 사업이 잇달아 규제·정치 마찰에 휘말리는 흐름을 보여주는 사례다.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "musk-xai-minnesota-deepfake-lawsuit-2026-07-28",
-      "summary": "AI로 특정인의 얼굴을 나체·성적 이미지에 합성하는 이른바 '누드화(nudification)' 앱을 둘러싼 규제는 최근 미국 여러 주에서 빠르게 확산돼 왔다. 미네소타는 이런 흐름의 선두주자로, 팀 월즈(민주) 주지사가 올봄 서명한 관련 법(HF 1606)이 8월 시행을 앞두고 있었다.\n\n그런데 시행을 앞두고 머스크 소유의 AI기업 xAI가 지난주 월요일(현지시간) 연방법원에 이 법을 무력화해달라는 소송을 냈다. xAI는 이 법이 콘텐츠 기반의 지나치게 광범위한 표현 규제로 수정헌법 1조(표현의 자유)를 침해하며, 사업자가 오남용 방지 조치를 아무리 갖춰도 엄격책임(strict liability)을 지운다는 점을 문제 삼았다.\n\nxAI는 자사가 동의 없는 나체·성적 이미지 생성을 '엄격히 금지'하고 있다고 주장하며 소송을 정당화했다. 이에 월즈 주지사는 소셜미디어에 \"법정에서 보자\"는 짧은 글로 즉각 반박했다 — 해당 법안이 하원 132대1, 상원 65대0으로 초당적 만장일치에 가깝게 통과됐던 점을 부각하려는 취지로 읽힌다.\n\nxAI가 이런 소송을 낸 것은 이번이 처음이 아니다. 앞서 캘리포니아의 선거철 AI 딥페이크 금지법에도 유사한 소송을 냈고, 연방판사가 해당 법의 일부(선거 관련 AI 딥페이크 제한 조항)를 위헌으로 판단해 부분 승소한 전례가 있다.\n\n테슬라 지분과는 무관한 xAI발 이슈지만, 최근 xAI 콜로서스 데이터센터의 환경 규제 마찰에 이어 이번 소송까지 겹치며, 머스크가 이끄는 AI 사업군 전반이 규제·정치 리스크에 반복적으로 노출되는 패턴이 이어지고 있다 — 투자자들이 머스크의 시간·평판 리스크를 가늠할 때 참고할 변수다.",
-      "title_en": "Musk's xAI sues Minnesota over its <em>AI 'nudify' app ban</em>",
-      "hotShort_en": "xAI sues Minnesota over <em>nudify app ban</em>",
-      "body_en": "Elon Musk's AI company xAI has sued Minnesota over its ban on AI 'nudify' apps that generate fake nude or sexualized images of real people — a law that passed the state legislature nearly unanimously (132-1 in the House, 65-0 in the Senate) before Governor Tim Walz fired back with 'See you in court.' It has nothing to do with Tesla's core business, but it's another instance of legal and political friction around Musk's AI ventures.",
-      "summary_en": "Nudification apps — AI tools that paste a real person's face onto a fake nude or sexualized image — have become a fast-growing target for state regulators across the U.S. Minnesota has been at the front of that push: Governor Tim Walz, a Democrat, signed a law (HF 1606) this spring that was set to take effect in August.\n\nJust ahead of that deadline, Musk's xAI filed a federal lawsuit last Monday seeking to block the law. xAI argues the statute is an overly broad, content-based restriction on speech that violates the First Amendment, and that it imposes strict liability on AI providers regardless of what safeguards they've built in to prevent misuse.\n\nxAI says it 'strictly prohibits' users from generating nude or sexualized images of real people without consent, and is using that argument to justify the suit. Walz responded on social media with a blunt 'See you in court' — a jab that also underscored how lopsided the vote for the law had been, 132-1 in the House and 65-0 in the Senate.\n\nThis isn't xAI's first fight over AI-content laws. The company previously sued California over its election-season AI deepfake law and won a partial victory when a federal judge struck down the portion restricting AI-generated deepfakes around elections.\n\nNone of this touches Tesla's cap table directly, but coming on the heels of the Colossus data-center pollution scrutiny, it adds to a pattern of Musk's AI ventures repeatedly running into regulatory and political friction — a variable investors watching Musk's time and reputational risk keep tracking.",
-      "href": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "CNBC",
-        "ABC News",
-        "CBS News"
-      ],
-      "sentiment": "neutral",
-      "hot": 3
     }
   ],
-  "asOf": "2026-07-31 23:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-01 02:44 KST 자동 갱신 · 최신순"
 }
