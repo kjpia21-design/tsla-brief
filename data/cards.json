@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-07-31T07:26:20.000Z",
+      "title": "테슬라 AI 총괄 엘루스와미, 옵티머스 <em>연 1,000만 대 생산</em> 목표 재확인",
+      "hotShort": "옵티머스, 기가텍사스서 <em>연 1,000만 대</em> 겨냥",
+      "body": "테슬라의 AI·로보틱스 총괄 아쇽 엘루스와미가 자신의 X에 \"정정한다, 1,000만 대\"라는 세 단어짜리 글을 올려 옵티머스 로봇의 장기 연간 생산 목표를 재확인했다 — 프리몬트(구 모델S·X 라인 부지, 연 100만 대급)와 5월 착공한 기가텍사스 전용 신공장(연 1,000만 대급)의 2단계 증설이 골자다. 무대 위 머스크의 홍보성 발언이 아니라 프로그램을 실제로 이끄는 실무 총괄의 확인이라, 옵티머스가 테슬라의 차기 성장축이라는 베팅에 무게를 더한다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-optimus-10m-target-giga-texas-2026-07-31",
+      "summary": "일론 머스크는 그동안 여러 자리에서 옵티머스의 장기 수요를 \"수십억 대\" 단위로 언급해왔지만, 실제 생산 캐파를 구체적인 숫자로 확인해준 것은 이번이 처음에 가깝다 — 그것도 마케팅 무대가 아니라 프로그램을 총괄하는 임원의 입에서 나왔다는 점이 다르다.\n\n2025년 6월부터 옵티머스 프로그램을 이끌고 있는 테슬라 AI·소프트웨어 부문 부사장 아쇽 엘루스와미는 지난 목요일(현지시간) 자신의 X 계정에 \"정정한다, 1,000만 대(Correction, 10 million robots)\"라는 짧은 글을 올려, 테슬라가 짜고 있는 장기 연간 생산 목표치를 확인했다.\n\n증설은 2단계로 나뉜다. 1단계는 프리몬트 공장 — 올해 초 생산이 종료된 모델S·모델X 라인 부지를 활용해 연 약 100만 대 규모의 생산라인을 구축한다. 2단계는 지난 5월 첫 철골 구조물 착공에 들어간 기가텍사스의 전용 신공장으로, 궁극적으로 연 1,000만 대 캐파를 담당할 계획이다.\n\n주목할 대목은 이 확인이 나온 방식이다 — 화려한 무대 위 발언이 아니라, 실제로 그 숫자를 달성할 책임을 진 실무 총괄이 스스로 규모를 못박았다는 점에서 신뢰도가 다르게 읽힌다.\n\n다만 옵티머스는 아직 상용 매출이 없는 초기 단계 제품이고, 최근 2분기 실적에서도 로보택시·옵티머스향 투자 확대(자본지출 전년比 142% 증가)가 영업이익률을 짓누른 점이 부각된 상황이다. 이런 초대형 캐파 목표가 실제 양산·수요로 이어질지는 향후 분기 실적으로 계속 검증해야 할 부분이다.",
+      "title_en": "Tesla AI chief Elluswamy reaffirms <em>10 million Optimus units/year</em> target",
+      "hotShort_en": "Tesla targets <em>10M Optimus/year</em>",
+      "body_en": "Tesla's AI and robotics chief Ashok Elluswamy confirmed the company's long-term Optimus production target with a three-word X post — \"Correction, 10 million robots\" — pointing to a two-phase buildout: a roughly 1-million-unit-per-year line at Fremont (on floor space freed by discontinued Model S/X production) and a dedicated new Giga Texas facility, which broke ground in May, aimed at the 10-million-unit tier. Coming from the executive who actually runs the program rather than a keynote soundbite, it adds weight to Tesla's bet that Optimus becomes its next growth engine.",
+      "summary_en": "Elon Musk has floated Optimus's long-run demand in the \"billions of units\" range on multiple occasions, but a concrete production-capacity number confirmed by the executive who actually runs the program is a different kind of signal than stage remarks.\n\nAshok Elluswamy, Tesla's VP of AI Software who has led the Optimus program since June 2025, posted a short correction on X last Thursday — \"Correction, 10 million robots\" — confirming the long-term annual capacity Tesla is building toward.\n\nThe buildout is happening in two phases. Phase one is at Fremont, where Tesla is installing a roughly 1-million-unit-per-year line on the floor space freed up by the discontinued Model S and Model X lines earlier this year. Phase two is a dedicated new facility at Giga Texas, which broke ground on its first steel structure in May and is ultimately meant to handle the 10-million-unit tier.\n\nWhat stands out is how the number surfaced — not as a marketing line from a stage, but as a correction posted by the person actually accountable for hitting it, which reads as a stronger signal than the same figure delivered as hype.\n\nOptimus still has no commercial revenue, though, and Tesla's own Q2 earnings just highlighted how robotaxi and Optimus capex (up 142% year over year) squeezed operating margin. Whether a target this large translates into real production and demand is something upcoming quarters will need to keep testing.",
+      "href": "https://www.teslarati.com/tesla-ai-boss-reveals-how-big-optimus-is-going-to-get/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Benzinga"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
@@ -167,32 +192,7 @@
       ],
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "13h ago",
-      "pubDate": "2026-07-30T06:31:15.000Z",
-      "title": "스페이스X, 美 우주군과 <em>18회 팰컨9 발사 16억달러</em> 신규 계약",
-      "hotShort": "스페이스X, 美 우주군과 <em>16억달러 발사계약</em> 체결",
-      "body": "미 우주군이 스페이스X에 팰컨9 로켓 18회 발사 임무를 발주서 2건에 나눠 16억 달러에 맡겼다 — 반덴버그 기지에서 2027년까지 순차 진행되며, 올해 스페이스X의 국방부 수주 누적액이 80억 달러를 넘어섰다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-pentagon-1-6b-falcon9-deal-2026-07-30",
-      "summary": "미국 우주군이 29일(현지시간) 스페이스X에 팰컨9 로켓 18회 발사를 맡기는 16억 달러 규모의 신규 임무 발주서(task order) 2건을 승인했다. 이번 발주는 국가안보우주발사(NSSL) 3단계 레인1 프로그램 아래 지금까지 공개된 단일 발주로는 최대 규모다.\n\n발사는 모두 캘리포니아 반덴버그 우주군기지에서 이뤄지며, 2027년 말까지 순차 완료될 예정이다. 탑재체는 국방부의 공중 위협 감지·추적용 위성으로, 트럼프 행정부가 추진 중인 미사일 방어체계 '골든돔' 구상과도 맞닿아 있다.\n\n이번 발주로 스페이스X가 올해 국방부로부터 따낸 계약 누적액은 80억 달러를 넘어섰다. 우주군의 주력 발사체 조달에서 스페이스X 의존도가 갈수록 커지는 흐름을 보여준다.",
-      "title_en": "SpaceX wins <em>$1.6B Pentagon deal</em> for 18 Falcon 9 launches",
-      "hotShort_en": "SpaceX wins <em>$1.6B Pentagon launch deal</em>",
-      "body_en": "The U.S. Space Force awarded SpaceX two task orders worth $1.6 billion combined for 18 Falcon 9 missions from Vandenberg — pushing the company's 2026 Pentagon contract total past $8 billion and deepening its role in national security launch.",
-      "summary_en": "The U.S. Space Force approved two new task orders worth $1.6 billion combined for SpaceX on Wednesday, covering 18 Falcon 9 missions — the largest single publicly disclosed award so far under the National Security Space Launch (NSSL) Phase 3 Lane 1 program.\n\nAll 18 launches will fly from Vandenberg Space Force Base in California, with the missions scheduled for completion by the end of 2027. The payloads are missile-tracking satellites designed to detect and monitor airborne threats, tying into the Trump administration's proposed \"Golden Dome\" missile-defense shield.\n\nThe award brings SpaceX's 2026 Pentagon contract total past $8 billion, underscoring the company's growing centrality to U.S. national security launch — even as SpaceX's own equity story has been more turbulent this year.",
-      "href": "https://www.teslarati.com/spacex-scores-another-massive-pentagon-deal-to-support-military-satellites/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Investing.com"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-07-31 12:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-31 16:50 KST 자동 갱신 · 최신순"
 }

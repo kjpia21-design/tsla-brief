@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-26T14:00:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-v15-robotaxi-early-deployment-2026-07-23",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct — Not a Tesla App reporting on Elluswamy Q2 earnings-call statement, same convention as prior Reuters earnings-call cards",
-            "no advisory tone (no buy/sell/price-target language)",
-            "10x parameter scale-up framed as reported plan, not asserted as already-shipped — hedge preserved",
-            "numbers (40% tracks merged, 7 tracks, 10x params) cross-corroborated via BigGo/notateslaapp/basenor/autoevolution — direct WebFetch to all tested domains (incl. sec.gov, wikipedia.org) returned 403/blocked this session, so verification relied on WebSearch snippet cross-referencing only",
-            "href (notateslaapp #4484) matches the claimed event",
-            "verify-error: WebFetch tool non-functional for all tested domains this run (infra-level, not site-specific) — fail-open per shadow-mode safety rule"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-27T04:25:00.000Z",
       "mode": "shadow",
       "checked": 2,
@@ -845,6 +825,29 @@
           "newSourceLabel": null,
           "reasons": [
             "보강 문단이 카드 내 기존 FMVSS 135 설명과 중복·별개 사실처럼 오인 소지 — 해당 문단 제거로 수정 완료"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-07-31T10:55:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "product-optimus-10m-target-giga-texas-2026-07-31",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel press 적절 — Teslarati/Benzinga 보도, Ashok Elluswamy 개인 X 게시물이 원 소스이나 카드의 href는 실제 기사(raw 제공 링크)라 press 유지, 직접 X 상태 링크 미확보로 official 라벨·x.com href 임의 생성은 하지 않음",
+            "직접 WebFetch: teslarati.com·benzinga.com 모두 403 차단 — WebSearch 교차검증으로 대체(fail-open)",
+            "숫자·인용 대조: 엘루스와미 X 게시 '정정한다, 1,000만 대(Correction, 10 million robots)' 인용, 프리몬트 라인(구 모델S/X 부지, 연 100만 대급)·기가텍사스 신공장(5월 첫 철골 착공, 연 1,000만 대급) 2단계 구조 — 모두 복수 독립 소스(Teslarati, Benzinga, The Robot Report, basenor) 교차 일치",
+            "조언 톤 위반 없음(매수·매도·목표가 없음)",
+            "추측→단정 전환 없음 — '재확인했다'는 실제 X 게시 사실 자체를 서술, 미래 양산·수요 성공 여부는 마지막 문단에서 명확히 미검증으로 완화",
+            "본문-링크 일치 — href(Teslarati)가 다루는 사건과 카드 내용 동일 사건",
+            "밈·풍자 아님 — 엘루스와미의 정정 게시물은 구체적 수치를 담은 사실 정정이며 농담·가정 요소 없음",
+            "최근 30일 archive 대조 — 옵티머스 관련 기존 카드(로스 게버 매출없음 발언, 앱 코드 블루투스 페어링 등)는 전부 다른 사실이라 중복 아님",
+            "2027년 말 대중판매·$2만~3만 가격, $5~10B 투자 등 일부 검색 결과에 등장한 부가 수치는 이번 정정 게시물과 직접 연결이 불확실해 카드에서 제외(검증 게이트 6번 — 불확실하면 뺀다)"
           ]
         }
       ]

@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-07-31T07:26:20.000Z",
+      "title": "테슬라 AI 총괄 엘루스와미, 옵티머스 <em>연 1,000만 대 생산</em> 목표 재확인",
+      "hotShort": "옵티머스, 기가텍사스서 <em>연 1,000만 대</em> 겨냥",
+      "body": "테슬라의 AI·로보틱스 총괄 아쇽 엘루스와미가 자신의 X에 \"정정한다, 1,000만 대\"라는 세 단어짜리 글을 올려 옵티머스 로봇의 장기 연간 생산 목표를 재확인했다 — 프리몬트(구 모델S·X 라인 부지, 연 100만 대급)와 5월 착공한 기가텍사스 전용 신공장(연 1,000만 대급)의 2단계 증설이 골자다. 무대 위 머스크의 홍보성 발언이 아니라 프로그램을 실제로 이끄는 실무 총괄의 확인이라, 옵티머스가 테슬라의 차기 성장축이라는 베팅에 무게를 더한다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-optimus-10m-target-giga-texas-2026-07-31",
+      "summary": "일론 머스크는 그동안 여러 자리에서 옵티머스의 장기 수요를 \"수십억 대\" 단위로 언급해왔지만, 실제 생산 캐파를 구체적인 숫자로 확인해준 것은 이번이 처음에 가깝다 — 그것도 마케팅 무대가 아니라 프로그램을 총괄하는 임원의 입에서 나왔다는 점이 다르다.\n\n2025년 6월부터 옵티머스 프로그램을 이끌고 있는 테슬라 AI·소프트웨어 부문 부사장 아쇽 엘루스와미는 지난 목요일(현지시간) 자신의 X 계정에 \"정정한다, 1,000만 대(Correction, 10 million robots)\"라는 짧은 글을 올려, 테슬라가 짜고 있는 장기 연간 생산 목표치를 확인했다.\n\n증설은 2단계로 나뉜다. 1단계는 프리몬트 공장 — 올해 초 생산이 종료된 모델S·모델X 라인 부지를 활용해 연 약 100만 대 규모의 생산라인을 구축한다. 2단계는 지난 5월 첫 철골 구조물 착공에 들어간 기가텍사스의 전용 신공장으로, 궁극적으로 연 1,000만 대 캐파를 담당할 계획이다.\n\n주목할 대목은 이 확인이 나온 방식이다 — 화려한 무대 위 발언이 아니라, 실제로 그 숫자를 달성할 책임을 진 실무 총괄이 스스로 규모를 못박았다는 점에서 신뢰도가 다르게 읽힌다.\n\n다만 옵티머스는 아직 상용 매출이 없는 초기 단계 제품이고, 최근 2분기 실적에서도 로보택시·옵티머스향 투자 확대(자본지출 전년比 142% 증가)가 영업이익률을 짓누른 점이 부각된 상황이다. 이런 초대형 캐파 목표가 실제 양산·수요로 이어질지는 향후 분기 실적으로 계속 검증해야 할 부분이다.",
+      "title_en": "Tesla AI chief Elluswamy reaffirms <em>10 million Optimus units/year</em> target",
+      "hotShort_en": "Tesla targets <em>10M Optimus/year</em>",
+      "body_en": "Tesla's AI and robotics chief Ashok Elluswamy confirmed the company's long-term Optimus production target with a three-word X post — \"Correction, 10 million robots\" — pointing to a two-phase buildout: a roughly 1-million-unit-per-year line at Fremont (on floor space freed by discontinued Model S/X production) and a dedicated new Giga Texas facility, which broke ground in May, aimed at the 10-million-unit tier. Coming from the executive who actually runs the program rather than a keynote soundbite, it adds weight to Tesla's bet that Optimus becomes its next growth engine.",
+      "summary_en": "Elon Musk has floated Optimus's long-run demand in the \"billions of units\" range on multiple occasions, but a concrete production-capacity number confirmed by the executive who actually runs the program is a different kind of signal than stage remarks.\n\nAshok Elluswamy, Tesla's VP of AI Software who has led the Optimus program since June 2025, posted a short correction on X last Thursday — \"Correction, 10 million robots\" — confirming the long-term annual capacity Tesla is building toward.\n\nThe buildout is happening in two phases. Phase one is at Fremont, where Tesla is installing a roughly 1-million-unit-per-year line on the floor space freed up by the discontinued Model S and Model X lines earlier this year. Phase two is a dedicated new facility at Giga Texas, which broke ground on its first steel structure in May and is ultimately meant to handle the 10-million-unit tier.\n\nWhat stands out is how the number surfaced — not as a marketing line from a stage, but as a correction posted by the person actually accountable for hitting it, which reads as a stronger signal than the same figure delivered as hype.\n\nOptimus still has no commercial revenue, though, and Tesla's own Q2 earnings just highlighted how robotaxi and Optimus capex (up 142% year over year) squeezed operating margin. Whether a target this large translates into real production and demand is something upcoming quarters will need to keep testing.",
+      "href": "https://www.teslarati.com/tesla-ai-boss-reveals-how-big-optimus-is-going-to-get/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Benzinga"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
@@ -2313,33 +2338,7 @@
       ],
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-18T20:16:49.000Z",
-      "title": "머스크 \"테슬라 FSD, 운전자 개인 습관까지 학습\" — <em>그록 음성명령 9월 통합</em> 예고",
-      "hotShort": "FSD에 <em>그록 음성명령</em> 9월 통합 예고",
-      "body": "한 차주가 X에서 \"이 집 진입로로 들어가라\"처럼 음성으로 알려주면 FSD가 기억하게 해달라고 요청하자, 테슬라 AI 총괄 아쇼크 엘루스와미가 \"개발 중\"이라 답했고 일론 머스크는 그록(Grok) 음성명령을 FSD 플래닝 레이어에 <em>9월까지 통합</em>하겠다고 재확인했다 — 차주의 음성 교정이 쌓일수록 동네·진입로 단위의 맞춤 주행 데이터가 축적되는 구조다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-grok-voice-personalization-2026-07-18",
-      "summary": "한 테슬라 차주가 X에서 특정 동네를 지날 때 \"흰색 집, SUV 지나서 왼쪽\"처럼 음성으로 알려주면 FSD가 그 내용을 기억해 다음번에 알아서 그 진입로로 들어가게 해달라고 요청했다. 이에 테슬라 AI 총괄 아쇼크 엘루스와미가 \"작업 중(working on it)\"이라고 직접 답하며, 음성 기반 맥락 지시 기능이 실제로 개발되고 있음을 확인했다.\n\n같은 맥락에서 일론 머스크는 그록(Grok) 음성명령을 FSD의 플래닝 레이어에 <em>9월까지</em> 통합하겠다고 재확인했다. 이는 지난 6월 머스크가 \"약 3개월 안에\" 그록 기반 FSD 음성 제어가 나올 것이라고 밝혔던 시점과 맞아떨어지는 일정이다.\n\n이 기능이 의미 있는 이유는 데이터 축적 방식에 있다 — 차주가 음성으로 FSD를 교정하고 차량이 이를 기억할 때마다, 시뮬레이션이나 사전 각본으로는 만들어낼 수 없는 실제 예외 상황(어느 진입로, 어느 대문, 도로 어느 쪽) 데이터가 쌓인다. 수백만 대 규모의 테슬라 차량군이 이런 동네 단위의 맥락 정보를 크라우드소싱하면, 비슷한 규모의 차량군이 없는 경쟁사가 단기간에 따라잡기 어려운 지리·행동 데이터 우위로 이어진다는 평가다.\n\n주주 입장에서는 이 기능이 아직 로드맵 단계(9월 목표)라는 점을 감안해야 하지만, 로보택시·완전자율주행 상용화를 위해서는 결국 '내 동네를 아는 차'가 핵심 경쟁력이 될 것이라는 테슬라의 오래된 주장을 임원진이 재확인했다는 점에서 의미가 있다.",
-      "title_en": "Musk: Tesla FSD will <em>learn drivers' individual habits</em> — Grok voice commands coming to FSD <em>by September</em>",
-      "hotShort_en": "FSD to get <em>Grok voice commands</em> by fall",
-      "body_en": "After a Tesla owner asked on X for FSD to remember spoken instructions like \"turn into this driveway,\" Tesla AI lead Ashok Elluswamy confirmed the feature is in development and Elon Musk reaffirmed that Grok voice commands will be integrated into FSD's planning layer <em>by September</em> — letting the fleet accumulate hyper-local, driveway-level driving data from owners' voice corrections.",
-      "summary_en": "A Tesla owner asked on X whether FSD could remember spoken, neighborhood-specific instructions — like \"it's the white house on the left, just past that SUV\" — and automatically use them on future drives. Tesla AI lead Ashok Elluswamy responded directly that the team is \"working on it,\" confirming the voice-based contextual instruction feature is actually in development.\n\nIn the same thread, Elon Musk reaffirmed that Grok voice commands will be integrated into FSD's planning layer <em>by September</em> — matching the timeline he floated back in June, when he said Grok-based FSD voice control was roughly three months out.\n\nWhat makes this notable is how the data compounds: every time an owner corrects FSD with a spoken instruction and the car remembers it, that becomes a real-world edge-case data point that no simulation or scripted test could generate — which driveway, which gate, which side of the street. Across a fleet of millions of vehicles, crowdsourcing that hyper-local contextual knowledge builds a geographic and behavioral data advantage that's hard for rivals without a comparable fleet to replicate quickly.\n\nFor shareholders, the feature is still roadmap-stage (targeting September), but it's a reaffirmation from Tesla's own executives that a car that \"knows your neighborhood\" is central to its long-running case for Robotaxi and full self-driving commercialization.",
-      "href": "https://www.teslarati.com/elon-musk-says-tesla-start-learn-your-individual-preferences/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Teslarati",
-        "Benzinga",
-        "Not a Tesla App"
-      ],
-      "sentiment": "bull",
-      "hot": 5
     }
   ],
-  "asOf": "2026-07-31 12:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-07-31 16:50 KST 자동 갱신 · 최신순"
 }
