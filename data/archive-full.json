@@ -1,6 +1,51 @@
 {
-  "asOf": "2026-07-31 17:44 UTC · 누적 734건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-07-31 19:42 UTC · 누적 736건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-07-31T17:08:12.000Z",
+      "title": "스페이스X 공매도 <em>테슬라 앞질러</em> $246억 — 8/4 실적·8/6 락업 겹악재",
+      "hotShort": "스페이스X 공매도 <em>테슬라 추월</em> — 실적·락업 대기",
+      "body": "스페이스X 공매도 잔고가 7월29일 기준 2억1930만주(유통물량의 34%)로, 첫 집계일인 6월16일(2330만주) 대비 9배 넘게 불어나며 베팅 규모($246억)가 테슬라 공매도 금액을 앞질렀다 — 8월4일 첫 분기 실적 발표와 8월6일 첫 락업 해제를 사흘 간격으로 앞두고 약세론이 급격히 쏠린 신호.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-short-interest-record-2026-07-31",
+      "summary": "블룸버그에 따르면 스페이스X의 공매도 잔고가 최근 6주 새 급격히 불어났다. S3파트너스 집계로 7월29일 기준 공매도 물량은 2억1930만주로, 유통 가능 주식의 약 34%에 해당한다 — 이 지표가 처음 집계된 6월16일(2330만주)과 비교하면 9배 넘게 증가한 규모다.\n\n금액 기준으로도 스페이스X 공매도 베팅 규모($246억)가 테슬라를 상대로 한 공매도 금액을 넘어섰다 — 두 회사 모두 일론 머스크가 최대주주 겸 CEO를 맡고 있지만, 최근 들어 약세론의 화력이 스페이스X 쪽으로 옮겨갔다는 의미로 해석된다.\n\n공매도 세력이 겨냥하는 다음 이벤트는 두 가지다 — 8월4일(화) 상장 후 첫 분기 실적 발표, 그리고 이틀 뒤인 8월6일 첫 락업 해제(발행주식의 20%, 약 9억1150만주가 매도 가능해짐)다. 두 이벤트가 사흘 간격으로 겹치면서 주가 변동성이 커질 것이란 경계감이 반영된 결과로 풀이된다.\n\n스페이스X 주가는 7월31일 108.89달러 선에서 거래되며 이날 하루 2.95% 하락했다 — 최근 한 달간 약 30.9%, 1년간 19.4% 떨어진 상태다.",
+      "title_en": "SpaceX short interest <em>overtakes Tesla's</em> — $24.6B bet ahead of Aug. 4 earnings, Aug. 6 lockup",
+      "hotShort_en": "SpaceX short bets <em>top Tesla's</em> before earnings",
+      "body_en": "SpaceX's short interest has ballooned to 219.3 million shares — about 34% of shares available for public trading — as of July 29, up more than ninefold from 23.3 million when first tracked on June 16, according to S3 Partners data cited by Bloomberg. The $24.6 billion bearish bet now exceeds short positions against Tesla itself, with traders bracing for SpaceX's first quarterly earnings as a public company on Aug. 4 and its first post-IPO lockup expiration two days later.",
+      "summary_en": "Bloomberg reports that SpaceX's short interest has surged sharply over the past six weeks. According to S3 Partners data, short positions stood at 219.3 million shares as of July 29 — about 34% of the stock available for public trading — more than nine times the 23.3 million shares recorded when the metric was first tracked on June 16.\n\nIn dollar terms, the bearish bet against SpaceX, now worth $24.6 billion, has surpassed the value of short positions against Tesla — even though Elon Musk is CEO and largest shareholder of both companies, suggesting bears have shifted more of their firepower toward SpaceX.\n\nShort sellers are positioning ahead of two closely spaced catalysts: SpaceX's first quarterly earnings report as a public company on Tuesday, Aug. 4, and its first post-IPO lockup expiration just two days later on Aug. 6, when 20% of restricted shares — roughly 911.5 million shares — become eligible for sale.\n\nSpaceX shares traded around $108.89 on July 31, down 2.95% for the day — the stock has fallen about 30.9% over the past month and 19.4% over the past year.",
+      "href": "https://www.bloomberg.com/news/articles/2026-07-31/spacex-short-interest-soars-ahead-of-big-share-unlock-earnings",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Investing.com"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1h ago",
+      "pubDate": "2026-07-31T16:49:13.000Z",
+      "title": "테슬라, 모델Y L 미디어 시승 행사서 <em>신규 옵션 첫 공개</em> — Zen Grey·20인치 휠",
+      "hotShort": "모델Y L 시승행사서 <em>신규 옵션 공개</em>",
+      "body": "테슬라가 테슬라 다이너에서 연 모델Y L 미디어 핸즈온 행사에서 신규 옵션을 처음 공개했다 — 모노톤 Zen Grey 인테리어, 20인치 Uberhelix 휠, 캐빈 냉방 15% 단축 등 실사용성 개선이 핵심으로, 프리미엄 롱휠베이스 트림으로 ASP(평균판매단가) 방어에 나선 모습이다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-model-y-l-diner-preview-features-2026-07-31",
+      "summary": "테슬라라티에 따르면, 테슬라가 캘리포니아 테슬라 다이너에서 미디어·업계 관계자를 초청해 3열 6인승 롱휠베이스 모델Y L의 핸즈온 프리뷰 행사를 열고 신규 옵션 사양을 처음 공개했다.\n\n인테리어에서는 기존 화이트 색상을 대체하는 모노톤 톤의 신규 'Zen Grey' 옵션이 북미 일부 트림에 추가됐다. 휠은 선택 사양으로 20인치 'Uberhelix' 디자인이 공개됐는데, 항속거리는 표준 사양(325마일) 대비 소폭 줄어든 320마일이지만 참석자들은 사진보다 실물의 디자인 완성도가 높다고 평가했다.\n\n열관리 성능도 개선됐다 — 테슬라는 표준 모델Y 대비 캐빈 냉방 속도가 최대 15% 빨라지고, 뙤약볕 환경에서 냉방 완료까지 걸리는 시간이 최대 15분 단축됐으며, 폭염 시 열효율은 23% 개선됐다고 밝혔다. 소프트웨어 측면에서는 클라이밋 화면 우측에 빠른 접근 아이콘 열이 추가돼, 앞좌석 탑승자가 추가 터치 없이 각 열의 공조를 바로 제어할 수 있게 됐다.\n\n후방 스포일러는 장식용이 아니라 약 15마일의 주행거리 개선 효과가 있는 기능성 부품으로 확인됐으며, 더 길어진 6인승 캐빈에도 불구하고 기존 모델Y 대비 후방 시야가 눈에 띄게 개선됐다는 평가도 나왔다.",
+      "title_en": "Tesla previews Model Y L <em>new options</em> at Diner media event",
+      "hotShort_en": "Model Y L event <em>reveals new options</em>",
+      "body_en": "Tesla hosted a hands-on media preview of the six-seat, long-wheelbase Model Y L at its Tesla Diner, unveiling new options including a monochrome 'Zen Grey' interior and 20-inch 'Uberhelix' wheels, plus faster cabin cooling — part of a push to defend average selling price with a premium long-wheelbase trim.",
+      "summary_en": "According to Teslarati, Tesla invited media and industry attendees to a hands-on preview event at its Tesla Diner in California, showcasing new option packages for the three-row, six-seat, long-wheelbase Model Y L.\n\nOn the interior side, a new monochrome 'Zen Grey' option replaces white on select North American trims. Tesla also showed off optional 20-inch 'Uberhelix' wheels — which trim range slightly from the standard 325 miles down to 320 miles — with attendees noting the wheel design looked sharper in person than in earlier press photos.\n\nThermal performance also improved: Tesla says cabin cooling is up to 15% faster than the standard Model Y, with cooldown time in sunny conditions cut by up to 15 minutes, and hot-weather thermal efficiency up 23%. On software, the climate screen gained a new row of quick-access icons on the right edge, letting front-seat occupants jump straight to any row's climate controls without extra taps.\n\nThe rear spoiler was confirmed to be functional rather than purely cosmetic, adding roughly 15 miles of range, while rear visibility was noted as a meaningful improvement over the standard Model Y despite the longer six-seat cabin.",
+      "href": "https://www.teslarati.com/tesla-model-y-l-unveiling-event-diner-features/",
+      "sentiment": "neutral",
+      "hot": 4
+    },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
@@ -59,18 +104,23 @@
       "pubDate": "2026-07-31T01:12:00.000Z",
       "title": "WSJ \"테슬라, SpaceX 합병 대비 <em>中사업 매각 검토</em>\" — 머스크는 부인",
       "hotShort": "WSJ \"테슬라 <em>中사업 매각 검토</em>\" — 머스크 부인",
-      "body": "WSJ 단독보도에 따르면 테슬라 임원진이 스페이스X와의 잠재적 합병에 대비해 중국 사업(스핀오프·매각·폐쇄 등)을 분리하는 방안을 검토해온 것으로 전해졌다 — 스페이스X는 안보 민감도가 높은 美 국방 계약사인 반면 테슬라는 중국에 자체 생산시설을 두고 있어, 실현되면 테슬라 지배구조 자체를 바꾸는 초대형 이벤트가 된다. 다만 일론 머스크는 자신의 X 계정에 \"가짜뉴스\"라며 즉각 부인해, 확정된 사안은 아니다.",
+      "body": "WSJ 단독보도에 따르면 테슬라 임원진이 스페이스X와의 잠재적 합병에 대비해 중국 사업(스핀오프·매각·폐쇄 등)을 분리하는 방안을 검토해온 것으로 전해졌다 — 스페이스X는 안보 민감도가 높은 美 국방 계약사인 반면 테슬라는 중국에 자체 생산시설을 두고 있어, 실현되면 테슬라 지배구조 자체를 바꾸는 초대형 이벤트가 된다. 다만 일론 머스크는 자신의 X 계정에 \"이런 논의는 있었던 적조차 없다\"·\"터무니없는 가짜뉴스\"라며 즉각 반박해, 확정된 사안은 아니다.",
       "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "stock-china-sale-spacex-merger-2026-07-31",
-      "summary": "30일(현지시간) 월스트리트저널(WSJ)은 복수의 소식통을 인용해, 테슬라 경영진이 스페이스X와의 잠재적 합병을 앞두고 중국 사업을 별도로 떼어내는 방안을 논의해왔다고 보도했다.\n\nWSJ에 따르면 테슬라 자문단은 스핀오프·매각·완전 폐쇄 등 여러 선택지를 검토했으며, 실제로 언제 어떤 방식으로 분리가 이뤄질지, 혹은 계획 자체가 바뀔지는 불투명한 상태다.\n\n합병이 걸림돌에 부딪히는 핵심 이유는 지정학이다. 스페이스X는 위성·국가안보 프로그램을 수행하는 美 정부의 핵심 국방 계약사인 반면, 테슬라는 중국에 완전 소유 생산시설(기가상하이)을 운영하고 있어 두 회사를 합치면 안보 심사 문턱이 크게 높아질 수 있다.\n\n머스크는 최근 수년간 테슬라 임원들에게 美 사업과 중국 사업 사이에 '레이저(laser)'로 선을 긋듯 조직을 분리하라고 지시해온 것으로 알려졌다 — 양국 간 지정학적 긴장이 커질 경우 최소한 테슬라의 미국 쪽 사업만은 존속시키려는 포석이었다는 설명이다.\n\n다만 머스크 본인은 이 보도가 나온 직후 자신의 X 계정에 \"가짜뉴스(fake news)\"라는 한마디로 즉각 부인했다. 테슬라·스페이스X의 공식 확인은 아직 없어, 이번 보도는 소식통발 정황일 뿐 확정된 계획은 아니라는 점에 유의할 필요가 있다.",
+      "summary": "30일(현지시간) 월스트리트저널(WSJ)은 복수의 소식통을 인용해, 테슬라 경영진이 스페이스X와의 잠재적 합병을 앞두고 중국 사업을 별도로 떼어내는 방안을 논의해왔다고 보도했다.\n\nWSJ에 따르면 테슬라 자문단은 스핀오프·매각·완전 폐쇄 등 여러 선택지를 검토했으며, 실제로 언제 어떤 방식으로 분리가 이뤄질지, 혹은 계획 자체가 바뀔지는 불투명한 상태다.\n\n합병이 걸림돌에 부딪히는 핵심 이유는 지정학이다. 스페이스X는 위성·국가안보 프로그램을 수행하는 美 정부의 핵심 국방 계약사인 반면, 테슬라는 중국에 완전 소유 생산시설(기가상하이)을 운영하고 있어 두 회사를 합치면 안보 심사 문턱이 크게 높아질 수 있다.\n\n머스크는 최근 수년간 테슬라 임원들에게 美 사업과 중국 사업 사이에 '레이저(laser)'로 선을 긋듯 조직을 분리하라고 지시해온 것으로 알려졌다 — 양국 간 지정학적 긴장이 커질 경우 최소한 테슬라의 미국 쪽 사업만은 존속시키려는 포석이었다는 설명이다.\n\n다만 머스크 본인은 이 보도가 나온 직후 자신의 X 계정에 \"이런 논의는 있었던 적조차 없다(This has never even come up in a discussion ever)\"·\"터무니없는 가짜뉴스(Absurdly fake news)\"라고 즉각 반박했다. 테슬라·스페이스X의 공식 확인은 아직 없어, 이번 보도는 소식통발 정황일 뿐 확정된 계획은 아니라는 점에 유의할 필요가 있다.",
       "title_en": "WSJ: Tesla weighs <em>selling China unit</em> ahead of possible SpaceX merger — Musk denies",
       "hotShort_en": "WSJ: Tesla weighs <em>China sale</em> — Musk denies",
-      "body_en": "Tesla executives have been weighing options — including a spinoff, sale, or closure — to separate the company's China business ahead of a potential merger with SpaceX, the Wall Street Journal reported, citing people familiar with the matter. SpaceX is a sensitive U.S. defense contractor while Tesla runs wholly-owned manufacturing in China, so a merger would be a structure-altering event for Tesla if it happens. Elon Musk denied the report as \"fake news\" on X shortly after it broke, so nothing is confirmed.",
-      "summary_en": "The Wall Street Journal reported on July 30, citing multiple people familiar with the matter, that Tesla executives have discussed separating the company's China business ahead of a possible merger with SpaceX.\n\nAccording to the report, Tesla's advisers have weighed several options — a spinoff, a sale, or an outright closure — though it remains unclear how quickly any separation could happen, or whether the plans could change entirely.\n\nThe geopolitical rationale is central to why a merger would face hurdles: SpaceX is a major U.S. defense contractor involved in satellite and national-security programs, while Tesla operates wholly-owned manufacturing facilities in China (Gigafactory Shanghai) — combining the two would likely draw much heavier national-security scrutiny.\n\nMusk has reportedly instructed Tesla executives in recent years to keep a 'laser' separation between the company's U.S. and China operations, aiming to ensure that at least the U.S. side of Tesla would survive if U.S.-China tensions escalated.\n\nMusk himself denied the report almost immediately, posting \"fake news\" on X. Neither Tesla nor SpaceX has offered an official confirmation, so this remains a sourced report rather than a confirmed plan.",
+      "body_en": "Tesla executives have been weighing options — including a spinoff, sale, or closure — to separate the company's China business ahead of a potential merger with SpaceX, the Wall Street Journal reported, citing people familiar with the matter. SpaceX is a sensitive U.S. defense contractor while Tesla runs wholly-owned manufacturing in China, so a merger would be a structure-altering event for Tesla if it happens. Elon Musk denied the report on X shortly after it broke, calling it \"absurdly fake news\" and saying the idea had \"never even come up in a discussion,\" so nothing is confirmed.",
+      "summary_en": "The Wall Street Journal reported on July 30, citing multiple people familiar with the matter, that Tesla executives have discussed separating the company's China business ahead of a possible merger with SpaceX.\n\nAccording to the report, Tesla's advisers have weighed several options — a spinoff, a sale, or an outright closure — though it remains unclear how quickly any separation could happen, or whether the plans could change entirely.\n\nThe geopolitical rationale is central to why a merger would face hurdles: SpaceX is a major U.S. defense contractor involved in satellite and national-security programs, while Tesla operates wholly-owned manufacturing facilities in China (Gigafactory Shanghai) — combining the two would likely draw much heavier national-security scrutiny.\n\nMusk has reportedly instructed Tesla executives in recent years to keep a 'laser' separation between the company's U.S. and China operations, aiming to ensure that at least the U.S. side of Tesla would survive if U.S.-China tensions escalated.\n\nMusk himself denied the report almost immediately, writing on X that the idea had \"never even come up in a discussion ever\" and calling it \"absurdly fake news.\" Neither Tesla nor SpaceX has offered an official confirmation, so this remains a sourced report rather than a confirmed plan.",
       "href": "https://www.reuters.com/business/media-telecom/tesla-weighs-sale-china-business-pave-way-potential-spacex-merger-wsj-reports-2026-07-31/",
       "sentiment": "neutral",
-      "hot": 7
+      "hot": 7,
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Reuters",
+        "WSJ"
+      ]
     },
     {
       "category": "musk",
