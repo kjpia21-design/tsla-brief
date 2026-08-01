@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-07-31 23:07 UTC · 누적 736건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-08-01 03:30 UTC · 누적 737건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-07-31T20:15:00.000Z",
+      "title": "美 이사콰(Issaquah)서 테슬라 FSD 반대차선 침범 사고 — <em>차체 후미 3분의 1 절단</em>, 부상자 없어",
+      "hotShort": "테슬라 FSD 반대차선 침범 — <em>후미 3분의 1 절단</em>",
+      "body": "美 워싱턴주 이사콰(Issaquah)에서 FSD(완전자율주행) 모드로 주행 중이던 테슬라 차량이 반대차선으로 갑자기 침범해 캐딜락 에스컬레이드와 충돌, 차체 후미 3분의 1이 통째로 절단됐다 — 다행히 부상자는 없었지만, 현지 경찰은 조사 결과 사고 당시 FSD가 작동 중이었다고 확인하며 자율주행 기능이 있어도 사고 책임은 운전자에게 있다고 강조했다.",
+      "sourceName": "KATU",
+      "sourceLabel": "press",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "KATU",
+        "KOMO"
+      ],
+      "slug": "fsd-issaquah-crash-rear-severed-2026-07-31",
+      "summary": "이번 주 수요일 미국 워싱턴주 이사콰(Issaquah)의 뉴포트 웨이 NW(Newport Way NW) 500블록 사고 현장에 출동한 경찰은, 테슬라 차량의 후미 3분의 1이 완전히 분리된 심각한 파손 상태를 확인했다.\n\n경찰 조사에 따르면 해당 테슬라는 사고 당시 FSD(Full Self-Driving) 모드로 주행 중이었으며, 주행 도중 갑자기 반대차선으로 침범해 마주 오던 캐딜락 에스컬레이드와 충돌한 것으로 파악됐다.\n\n차량 파손 정도에 비해 인명 피해는 없었던 것으로 확인됐다 — 양측 탑승자 모두 부상을 입지 않았다고 경찰은 밝혔다.\n\n이사콰 경찰은 이번 사고를 계기로, 완전자율주행이든 부분자율주행이든 자율주행 시스템이 탑재된 차량이라도 안전 운행의 최종 책임은 운전자에게 있다는 점을 다시 한번 강조했다.",
+      "title_en": "Tesla in FSD mode crosses into oncoming lane near Seattle — <em>rear third of car severed</em>",
+      "hotShort_en": "Tesla FSD crash <em>shears off rear third</em>",
+      "body_en": "A Tesla driving in Full Self-Driving mode suddenly crossed into oncoming traffic in Issaquah, Washington and collided with a Cadillac Escalade, shearing off the rear third of the car — no one was injured, but police confirmed FSD was engaged at the time and reiterated that drivers remain responsible for safe operation even with self-driving features active.",
+      "summary_en": "Police responding to a crash on the 500 block of Newport Way NW in Issaquah, Washington this week found that the rear third of a Tesla had been completely severed from the rest of the vehicle.\n\nAccording to the investigation, the Tesla was operating in Full Self-Driving mode when it suddenly swerved into oncoming traffic and struck a Cadillac Escalade head-on.\n\nDespite the severity of the damage, no injuries were reported on either side of the crash.\n\nIssaquah police used the incident to remind drivers that even with a full or partial self-driving system engaged, the driver remains legally responsible for the safe operation of the vehicle.",
+      "href": "https://katu.com/news/local/tesla-electric-car-safety-in-full-self-driving-mode-rear-ends-suv-ends-up-severed-issaquah-police-cadillac-escalade-suv-safety-driver-responsibility",
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
