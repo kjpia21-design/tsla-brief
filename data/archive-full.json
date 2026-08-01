@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-01 06:34 UTC · 누적 737건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-08-01 10:03 UTC · 누적 738건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "fsd",
@@ -24,6 +24,31 @@
       "summary_en": "Police responding to a crash on the 500 block of Newport Way NW in Issaquah, Washington this week found that the rear third of a Tesla had been completely severed from the rest of the vehicle.\n\nAccording to the investigation, the Tesla was operating in Full Self-Driving mode when it suddenly swerved into oncoming traffic and struck a Cadillac Escalade head-on.\n\nDespite the severity of the damage, no injuries were reported on either side of the crash.\n\nIssaquah police used the incident to remind drivers that even with a full or partial self-driving system engaged, the driver remains legally responsible for the safe operation of the vehicle.",
       "href": "https://katu.com/news/local/tesla-electric-car-safety-in-full-self-driving-mode-rear-ends-suv-ends-up-severed-issaquah-police-cadillac-escalade-suv-safety-driver-responsibility",
       "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "12h ago",
+      "pubDate": "2026-07-31T18:30:00.000Z",
+      "title": "테슬라, 사이버트럭 PCS 보증 <em>8년으로 연장</em> — 자비 수리 오너는 전액 환불",
+      "hotShort": "사이버트럭 PCS 보증 <em>8년 연장</em>, 환불도 약속",
+      "body": "테슬라가 2024~2025년식 사이버트럭의 PCS(전력변환장치) 보증기간을 8년·150,000마일로 늘리고, 그간 자비로 부품을 교체한 오너에게는 곧 전액 환불하겠다고 밝혔다 — 리콜 없이 사례별 대응만 이어오던 테슬라가 처음으로 비용 부담을 전면 흡수하는 조치를 내놓은 것으로, 여전히 공식 리콜은 아니다.",
+      "sourceName": "TeslaNorth",
+      "sourceLabel": "press",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "TeslaNorth",
+        "Drive Tesla Canada"
+      ],
+      "slug": "product-cybertruck-pcs-warranty-extension-2026-07-31",
+      "summary": "7월 초부터 이어져 온 사이버트럭 PCS(전력변환장치) 고장 논란에 대해, 테슬라가 31일 한층 구체적인 공식 조치를 내놓았다.\n\n2024~2025년식 사이버트럭의 PCS 보증기간을 8년·150,000마일로 연장한다 — 2026년식에 적용되는 표준 보증(7년·70,000마일)보다 긴 기간이다. 아울러 보증이 끝난 뒤 자비로 PCS를 교체했던 오너들에게는 앞으로 몇 주 안에 수리비 전액을 환불하겠다고 안내했다.\n\nPCS는 사이버트럭의 완속(AC) 충전을 담당하는 핵심 부품으로, 고장 시 가정용 충전이 완전히 끊기는 사례가 다수 보고돼왔다. 교체 부품은 최대 10주까지 백오더가 밀려 있어, 테슬라는 그사이 충전이 막힌 차량에 슈퍼차저 무료 이용을 임시 지원하는 조치도 유지하고 있다.\n\n다만 이번 조치도 전체 차량 대상의 공식 리콜은 아니다. 지난달 30일 척 쿡 등 커뮤니티가 정리했던 '리콜 없는 사례별 대응' 구도는 유지되는 셈이지만, 보증 연장과 소급 환불로 비용 부담을 회사가 직접 떠안았다는 점에서 이전보다 한 걸음 나아간 대응으로 풀이된다.",
+      "title_en": "Tesla extends Cybertruck PCS warranty to <em>8 years</em> — full refunds for owners who paid out of pocket",
+      "hotShort_en": "Cybertruck PCS warranty <em>extended to 8 years</em>",
+      "body_en": "Tesla is extending the Power Conversion System (PCS) warranty on 2024-2025 Cybertrucks to 8 years or 150,000 miles, and says it will fully reimburse owners who already paid out of pocket to replace the part — the company's first move to absorb the cost fleet-wide after months of case-by-case fixes, though it's still stopping short of a formal recall.",
+      "summary_en": "Tesla issued a more concrete response on July 31 to the Cybertruck Power Conversion System (PCS) failure controversy that has run since early July.\n\nThe PCS warranty on 2024-2025 Cybertrucks is being extended to 8 years or 150,000 miles — longer than the standard 7-year, 70,000-mile warranty that applies to 2026 models. Tesla also said owners who paid out of pocket for a PCS replacement after their warranty expired will be fully reimbursed in the coming weeks.\n\nThe PCS handles Level 2 AC home charging on the Cybertruck, and failures have left a growing number of owners unable to charge at home. Replacement parts have been on backorder for up to 10 weeks, and Tesla is still offering free Supercharging as a stopgap for affected trucks in the meantime.\n\nStill, this isn't a fleet-wide recall. The case-by-case approach that Tesla community figures like Chuck Cook described on July 30 remains in place, but by extending the warranty and reimbursing past repairs, Tesla is now absorbing more of the cost directly than it had before.",
+      "href": "https://teslanorth.com/2026/07/31/tesla-extends-cybertruck-warranty-after-pcs-part-failures/",
+      "sentiment": "neutral",
       "hot": 6
     },
     {
