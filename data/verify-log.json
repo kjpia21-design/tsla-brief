@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-28T02:56:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "musk-xmoney-us-launch-2026-07-27",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct — 9to5Mac is tech press reporting X Money launch, not Tesla/Musk official statement or SEC filing",
-            "no advisory tone (no buy/sell recommendation or price target)",
-            "no hedge-to-assertion conversion — source outlets state launch as fact (\"officially launches\", \"rolls out\"), card matches",
-            "numbers (6% APY, 3% cashback, $250k FDIC via Cross River Bank, $10M sweep cap, July 27 2026 US-wide rollout to Premium/Premium+) cross-verified across 9+ independent outlets via WebSearch (9to5Mac, CBS News, American Banker, TechTimes, BigGo, cryptobriefing, genfinity, card-savvy, basenor) — direct WebFetch blocked (403) on all tested hosts this run, environment-wide, so WebSearch aggregation used as fallback per shadow-mode fail-open guidance",
-            "href (9to5mac X Money/Apple Wallet article) matches same launch event described in body/summary — no link-content mismatch",
-            "not X-tweet-sourced — meme/satire conversion check not applicable",
-            "note: WebFetch tool returned 403 for every host tested this run (including wikipedia.org, api.teslabriefing.com) — appears to be an environment/proxy-level block rather than per-site; verification relied on WebSearch corroboration instead of direct primary-source fetch"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-28T04:30:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -848,6 +827,26 @@
             "추가 문구는 단정형('접수해 처리한다')이나 원 사실 자체가 press 복수 매체 보도로 확인된 사실(발표 방식)이라 hedge 불필요, 수치·인용 창작 없음",
             "raw의 나머지 항목(Optimus 재확인·NHTSA 서스펜션·中사업 매각·Zoox 로보택시 승인 등)은 모두 기존 archive 카드와 동일 사건 재보도로 확인되어 제외 — 신규 카드 없음",
             "verify-error 아님 — WebFetch 차단은 있었으나 WebSearch 교차검증(3개 이상 독립 도메인)으로 대체 확인 완료, fail-open 미적용"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-01T17:10:41.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-short-interest-record-2026-07-31",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "이번 실행도 신규 카드 없음 — 직전 실행(15:10)이 이미 그록 Q&A 접수 방식을 보강한 같은 카드에, 실제 투자자 질문 내용·애널리스트 컨센서스 1개 문단만 추가 보강",
+            "추가 사실 4항목(questiontime.ir.spacex.com 창구, Say Technologies 대신 그록 자체툴, 개인투자자 질문이 재무보다 스타십 HLS 영상 등 비재무 주제에 쏠림, 월가 컨센서스 매출 약 $6.9B·EPS -$0.28)을 서브에이전트 독립검증(WebSearch)으로 재확인 — WebFetch는 이번 실행에서도 reuters/yahoo/tribune/thenews/933thedrive/deccanherald/basenor/tipranks/barchart/intellectia 등 10개 도메인 전부 403 차단(환경 전역 봇차단으로 판단), WebSearch 교차 스니펫(Reuters 원문 요지+다수 syndication+Visible Alpha/Zacks 컨센서스)으로 대체",
+            "4항목 모두 CONFIRMED — 단, EPS/매출 추정치는 소스마다 소폭 편차(매출 $6.72B~$6.9B, EPS -$0.26~-$0.28)가 있어 '약(roughly)' 완화 표현 유지, 특정 단일 수치를 단정하지 않음",
+            "조언 톤 위반 없음(매수·매도·목표가 없음), 추측→단정 전환 없음",
+            "confirmedBy 2→3, confirmingSources에 Reuters 추가(기존 Bloomberg·Investing.com 유지)",
+            "raw의 나머지 항목 재확인 — 'Elon Musk' CNBC 허브 페이지(구체 기사 아님, 제외), Optimus/NHTSA서스펜션/中매각설/Zoox 는 전부 기존 카드와 동일사건 재보도(추가 조치 없음). WebSearch 완전성 점검(Tesla FSD/Optimus/Robotaxi 8/1 뉴스)에서 'Tesla Robotaxi unveil Aug 8' 건은 2024년 옛 발표 재검색 결과로 확인돼 옛 기사 재발행 트랩으로 판단, 채택하지 않음. Motley Fool의 'FSD $99/월 구독 연 $1.8B' 기사는 이미 보도된 2분기 실적(1.48M 구독, +56% YoY) 재해석 오피니언 칼럼(\"매수 신호인가\")이라 조언톤 위반 우려로 카드화하지 않음"
           ]
         }
       ]
