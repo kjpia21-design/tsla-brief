@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-28T04:30:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "stock-ives-600-target-85-upside-2026-07-28",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for 24/7 Wall St.",
-            "no advisory tone — reports analyst's own target as fact, no buy/sell recommendation issued by the site",
-            "no hedge-to-assertion conversion — raw title itself states '85% in 12 months' as the analyst's belief, card frames it as reiterated target, not a promise of the stock rising",
-            "numbers cross-checked via WebSearch synthesis of the 24/7 Wall St. article ($600 target, ~85% upside, robotaxi/FSD/Optimus rationale) — direct WebFetch to 247wallst.com blocked 403 (site-wide WebFetch outage this run, all domains tested returned 403)",
-            "href matches the exact 24/7 Wall St. article used",
-            "not X-sourced, no meme/satire risk",
-            "note: two same-day Barron's headlines sharing one article ID ('erased a year of gains' / 'troubling milestone') and a Bloomington Megacharger tweet were considered and dropped — Barron's figures unverifiable (WebFetch down, conflicting price data across sources), Megacharger event traced to ~July 17-22 (stale repost, not new)"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-28T15:10:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -847,6 +826,25 @@
             "조언 톤 위반 없음(매수·매도·목표가 없음), 추측→단정 전환 없음",
             "confirmedBy 2→3, confirmingSources에 Reuters 추가(기존 Bloomberg·Investing.com 유지)",
             "raw의 나머지 항목 재확인 — 'Elon Musk' CNBC 허브 페이지(구체 기사 아님, 제외), Optimus/NHTSA서스펜션/中매각설/Zoox 는 전부 기존 카드와 동일사건 재보도(추가 조치 없음). WebSearch 완전성 점검(Tesla FSD/Optimus/Robotaxi 8/1 뉴스)에서 'Tesla Robotaxi unveil Aug 8' 건은 2024년 옛 발표 재검색 결과로 확인돼 옛 기사 재발행 트랩으로 판단, 채택하지 않음. Motley Fool의 'FSD $99/월 구독 연 $1.8B' 기사는 이미 보도된 2분기 실적(1.48M 구독, +56% YoY) 재해석 오피니언 칼럼(\"매수 신호인가\")이라 조언톤 위반 우려로 카드화하지 않음"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-01T21:15:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-earnings-investor-qa-2026-08-01",
+          "verdict": "pass",
+          "reasons": []
+        },
+        {
+          "slug": "product-hungary-offpeak-supercharging-2026-08-01",
+          "verdict": "pass",
+          "reasons": [
+            "no external corroboration available (single-tweet source, expected)"
           ]
         }
       ]
