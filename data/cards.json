@@ -10,6 +10,11 @@
       "body": "美 워싱턴주 이사콰(Issaquah)에서 FSD(완전자율주행) 모드로 주행 중이던 테슬라 차량이 반대차선으로 갑자기 침범해 캐딜락 에스컬레이드와 충돌, 차체 후미 3분의 1이 통째로 절단됐다 — 다행히 부상자는 없었지만, 현지 경찰은 조사 결과 사고 당시 FSD가 작동 중이었다고 확인하며 자율주행 기능이 있어도 사고 책임은 운전자에게 있다고 강조했다.",
       "sourceName": "KATU",
       "sourceLabel": "press",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "KATU",
+        "KOMO"
+      ],
       "slug": "fsd-issaquah-crash-rear-severed-2026-07-31",
       "summary": "이번 주 수요일 미국 워싱턴주 이사콰(Issaquah)의 뉴포트 웨이 NW(Newport Way NW) 500블록 사고 현장에 출동한 경찰은, 테슬라 차량의 후미 3분의 1이 완전히 분리된 심각한 파손 상태를 확인했다.\n\n경찰 조사에 따르면 해당 테슬라는 사고 당시 FSD(Full Self-Driving) 모드로 주행 중이었으며, 주행 도중 갑자기 반대차선으로 침범해 마주 오던 캐딜락 에스컬레이드와 충돌한 것으로 파악됐다.\n\n차량 파손 정도에 비해 인명 피해는 없었던 것으로 확인됐다 — 양측 탑승자 모두 부상을 입지 않았다고 경찰은 밝혔다.\n\n이사콰 경찰은 이번 사고를 계기로, 완전자율주행이든 부분자율주행이든 자율주행 시스템이 탑재된 차량이라도 안전 운행의 최종 책임은 운전자에게 있다는 점을 다시 한번 강조했다.",
       "title_en": "Tesla in FSD mode crosses into oncoming lane near Seattle — <em>rear third of car severed</em>",
@@ -195,5 +200,5 @@
       ]
     }
   ],
-  "asOf": "2026-08-01 08:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-01 10:04 KST 자동 갱신 · 최신순"
 }

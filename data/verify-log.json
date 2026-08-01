@@ -1,29 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-27T15:10:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "stock-racism-lawsuit-partial-settlement-2026-07-27",
-          "verdict": "pass",
-          "reasons": [
-            "Cross-checked against Electrek, HR Dive, Bloomberg Law, Insurance Journal, JDJournal — plaintiff names, 2017 filing, 580-worker figure, CRD jury trial, Jan 2026 EEOC mediation all independently confirmed."
-          ]
-        },
-        {
-          "slug": "stock-interdigital-uk-supreme-court-win-2026-07-27",
-          "verdict": "regrade",
-          "newSourceLabel": "press",
-          "reasons": [
-            "Case history omitted the March 2025 UK Court of Appeal ruling (EWCA Civ 193, 2-1 against Tesla) between the 2024 High Court loss and the 2026 Supreme Court win — summary/summary_en corrected to include it post-verification.",
-            "confirmingSources included City A.M. without independent confirmation it ran the story — removed confirmedBy/confirmingSources, kept single-source Reuters attribution."
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-27T17:55:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -853,6 +830,21 @@
             "href matches the described story exactly",
             "not X/meme-sourced, satire check N/A",
             "single-source local story (KATU/KOMO share identical wire content, not independent confirmation) — confirmedBy intentionally omitted, hot kept moderate (6) rather than high"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-01T01:04:47.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-issaquah-crash-rear-severed-2026-07-31",
+          "verdict": "pass",
+          "reasons": [
+            "No new card created this run; existing card corroborated by second same-day local report (KOMO) with matching facts (Issaquah, FSD engaged, rear third severed, no injuries) — confirmedBy=2 / confirmingSources=[KATU,KOMO] added, no title/body/summary text changed",
+            "No other raw items this run represented a distinct new event: China-sale/SpaceX-merger follow-ups (Barron's, InsideEVs) and NHTSA suspension probe follow-up (Bloomberg) restate facts already captured in existing cards stock-china-sale-spacex-merger-2026-07-31 and product-nhtsa-suspension-probe-2026-07-31 — WebSearch completeness check found no missed major Tesla/FSD/Elon news"
           ]
         }
       ]
