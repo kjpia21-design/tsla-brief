@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-08-01 13:39 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-01 15:05 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-08-01T10:03:45.000Z",
       "title": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
       "body": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results Reuters",
@@ -17,7 +17,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "16h ago",
+      "time": "17h ago",
       "pubDate": "2026-07-31T21:41:23.000Z",
       "title": "Elon Musk",
       "body": "Elon Musk CNBC",
@@ -28,9 +28,22 @@
       "href": "https://www.cnbc.com/elon-musk/"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "19h ago",
+      "pubDate": "2026-07-31T20:29:00.000Z",
+      "title": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off",
+      "body": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off barrons.com",
+      "sourceName": "barrons.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-spacex-elon-musk-4afac470"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-07-31T19:11:01.000Z",
       "title": "Tesla AI boss reveals how big Optimus is going to get",
       "body": "Tesla AI boss reveals how big Optimus is going to get Teslarati",
@@ -43,11 +56,11 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "21h ago",
+      "time": "22h ago",
       "pubDate": "2026-07-31T17:08:12.000Z",
       "title": "SpaceX Short Interest Soars Ahead of Big Share Unlock, Earnings",
-      "body": "SpaceX Short Interest Soars Ahead of Big Share Unlock, Earnings Bloomberg",
-      "sourceName": "Bloomberg",
+      "body": "SpaceX Short Interest Soars Ahead of Big Share Unlock, Earnings Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -56,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "22h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-31T15:13:36.000Z",
       "title": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks",
       "body": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks Reuters",
@@ -69,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
+      "time": "1d ago",
       "pubDate": "2026-07-31T14:20:00.000Z",
       "title": "TNB Tech Minute: Tesla Weighs Sale of China Business Ahead of Potential SpaceX Merger",
       "body": "TNB Tech Minute: Tesla Weighs Sale of China Business Ahead of Potential SpaceX Merger WSJ",
@@ -77,20 +90,7 @@
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.wsj.com/podcasts/tech-news-briefing/tnb-tech-minute-tesla-weighs-sale-of-china-business-ahead-of-potential-spacex-merger/AAA05B90-134C-40BC-A6ED-512D6F63260E?mod"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "23h ago",
-      "pubDate": "2026-07-31T14:11:42.000Z",
-      "title": "Tesla Without China Would Help Musk, Not Its Investors",
-      "body": "Tesla Without China Would Help Musk, Not Its Investors Bloomberg",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/opinion/articles/2026-07-31/tesla-without-china-would-help-musk-not-its-investors"
+      "href": "https://www.wsj.com/podcasts/tech-news-briefing/tnb-tech-minute-tesla-weighs-sale-of-china-business-ahead-of-potential-spacex-merger/aaa05b90-134c-40bc-a6ed-512d6f63260e?mod"
     },
     {
       "category": "stock",
@@ -111,8 +111,8 @@
       "time": "1d ago",
       "pubDate": "2026-07-31T11:46:48.000Z",
       "title": "Tesla Faces US Auto Safety Probe Over Risk of Suspension Failure",
-      "body": "Tesla Faces US Auto Safety Probe Over Risk of Suspension Failure Bloomberg",
-      "sourceName": "Bloomberg",
+      "body": "Tesla Faces US Auto Safety Probe Over Risk of Suspension Failure Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -163,8 +163,8 @@
       "time": "1d ago",
       "pubDate": "2026-07-31T04:00:00.000Z",
       "title": "Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders",
-      "body": "Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders Bloomberg",
-      "sourceName": "Bloomberg",
+      "body": "Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -197,17 +197,17 @@
       "href": "https://www.reuters.com/business/autos-transportation/teslas-china-operations-ev-makers-global-production-powerhouse-2026-07-31/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "2d ago",
-      "pubDate": "2026-07-30T21:33:00.000Z",
-      "title": "How Microsoft Helped End Tesla’s 6-Day Losing Streak",
-      "body": "How Microsoft Helped End Tesla’s 6-Day Losing Streak Barron's",
-      "sourceName": "Barron's",
+      "pubDate": "2026-07-31T01:17:00.000Z",
+      "title": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next",
+      "body": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next AP News",
+      "sourceName": "AP News",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-losing-streak-microsoft-earnings-2be55fff"
+      "href": "https://apnews.com/article/zoox-nhtsa-robotaxi-steering-wheel-1bdb3bb8ecc80a23721504315cfa50ce"
     },
     {
       "category": "fsd",
@@ -249,17 +249,17 @@
       "href": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8d ago",
-      "pubDate": "2026-07-24T16:32:04.000Z",
-      "title": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
-      "body": "Buy the dip case for Tesla diminishes due to stagnating fundamentals CNBC",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "9d ago",
+      "pubDate": "2026-07-23T08:25:50.000Z",
+      "title": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge",
+      "body": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge CNBC",
       "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html"
+      "href": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html"
     }
   ]
 }
