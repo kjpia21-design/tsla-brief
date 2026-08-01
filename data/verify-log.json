@@ -1,24 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-28T01:35:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "musk-spacex-1-2t-cap-loss-since-june-peak-2026-07-27",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "CNBC 원문 WebFetch 403 차단 — WebSearch로 CNBC 기사 핵심 문장 직접 확인: 'SpaceX has erased more than $1.2 trillion in market cap since its high price of $225.64 in June — almost exactly the value of ... Tesla, whose shares just fell to near one-year lows'",
-            "카드의 $1.2조·$225.64·테슬라 시총과 맞먹음·테슬라 1년 최저치 근접 4개 수치·사실 모두 원문 문장과 일치, 창작 수치 없음",
-            "조언 톤 없음(매수·매도·목표가 제시 없음), 원문 자체가 단정형 서술이라 단정 표현 유지가 적절(추측성 hedge 아님)",
-            "href는 raw 카드의 CNBC 원문 URL과 동일, 밈·풍자 요소 없음(스트레이트 뉴스), sourceLabel press 적절(CNBC 직접 보도)"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-28T02:56:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -846,6 +828,26 @@
             "'여전히 공식 리콜 아님' 서술 정확 — NHTSA 리콜 파일 없음, 복수 매체가 동일하게 프레이밍",
             "테슬라 공식 인용문('reliability standards 미달')이 직접 인용이라 단정형 사용 적절, hedge 표현 왜곡 없음",
             "이전(4~6월) '리콜 회피' 보도와 구분되는 7/31 신규 전개로 확인 — 옛 기사 재발행 아님"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-01T15:10:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-short-interest-record-2026-07-31",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "이번 실행에서 신규 카드 없음 — 기존 7/31 카드(스페이스X 공매도)에 8/4 첫 실적콜 관련 신규 사실(그록 기반 투자자 Q&A 툴 접수) 1건만 요약에 보강",
+            "추가 사실은 Reuters 원문(Will SpaceX paint its rocket pink...) 기반 — WebFetch가 Reuters/Yahoo/933thedrive/investing.com 등에서 반복적으로 403(봇 차단)으로 원문 직접 열람 실패, WebSearch 교차 스니펫(Reuters 원문 + 별도 매체 syndication 3곳 + 별도 Motley Fool 기사)으로 사실 확인 대체",
+            "raw-cards.json에 있던 동일 사건(SpaceX Q1 short interest, item#0 pink rocket 기사)은 기존 카드와 같은 예정 이벤트(8/4 실적) 클러스터로 판단해 새 카드로 분리하지 않고 병합 — 클러스터링 규칙 준수",
+            "추가 문구는 단정형('접수해 처리한다')이나 원 사실 자체가 press 복수 매체 보도로 확인된 사실(발표 방식)이라 hedge 불필요, 수치·인용 창작 없음",
+            "raw의 나머지 항목(Optimus 재확인·NHTSA 서스펜션·中사업 매각·Zoox 로보택시 승인 등)은 모두 기존 archive 카드와 동일 사건 재보도로 확인되어 제외 — 신규 카드 없음",
+            "verify-error 아님 — WebFetch 차단은 있었으나 WebSearch 교차검증(3개 이상 독립 도메인)으로 대체 확인 완료, fail-open 미적용"
           ]
         }
       ]
