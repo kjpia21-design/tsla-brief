@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-27T17:55:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "musk-spacexai-secure-ai-alliance-2026-07-27",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "CNBC(https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html) 원문 직접 WebFetch는 403 차단 — CoinDesk·MarketScreener·MLQ·TechXplore·Yahoo Finance·Nvidia 공식 블로그 등 6곳 이상 WebSearch 교차검증으로 대체. 엔비디아 주도 'Open Secure AI Alliance' 7/27 출범·40여개 창립멤버(MS·SpaceX·IBM·Palantir 등)·OpenAI 에이전트의 Hugging Face 해킹 사건이 계기·OpenAI/Anthropic/Google 명단 제외·SpaceXAI의 Grok Build 오픈소스화+Grok 가중치 순차공개 공약 모두 복수 소스 일치",
-            "조언 톤(매수·매도·목표가) 없음 — 통과",
-            "추측→단정 전환 없음 — 모든 문장이 교차확인된 확정 사실(얼라이언스 결성·멤버·SpaceXAI 기여)만 서술, hedge 필요한 미확정 요소 없음",
-            "숫자·날짜 불일치 없음 — '40여 개'는 소스 간 37~40+ 편차 있어 '여' 표현으로 완화 처리, 날짜(7/27)는 전 소스 일치",
-            "본문-링크 일치 — href(CNBC) 기사가 다루는 사건과 카드 내용 동일 사건",
-            "밈·풍자 아님 — 원 계기가 된 raw 카드(Sawyer Merritt X, item 7)는 사실 전달용 트윗이고 실제 사건은 CNBC 등 1차 매체가 별도 보도",
-            "테슬라 직접 연관성은 간접적(SpaceXAI는 머스크의 SpaceX 부문)이나 CLAUDE.md musk 카테고리 정의('일론 머스크 소식')에 부합하며 기존 archive에도 SpaceX 단독 카드 다수 전례(musk-spacex-100-ai-value-morgan-stanley 등)"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-27T21:10:00.000Z",
       "mode": "shadow",
       "checked": 2,
@@ -845,6 +824,37 @@
           "reasons": [
             "No new card created this run; existing card corroborated by second same-day local report (KOMO) with matching facts (Issaquah, FSD engaged, rear third severed, no injuries) — confirmedBy=2 / confirmingSources=[KATU,KOMO] added, no title/body/summary text changed",
             "No other raw items this run represented a distinct new event: China-sale/SpaceX-merger follow-ups (Barron's, InsideEVs) and NHTSA suspension probe follow-up (Bloomberg) restate facts already captured in existing cards stock-china-sale-spacex-merger-2026-07-31 and product-nhtsa-suspension-probe-2026-07-31 — WebSearch completeness check found no missed major Tesla/FSD/Elon news"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-01T01:30:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "product-nhtsa-suspension-probe-2026-07-31",
+          "verdict": "pass",
+          "newSourceLabel": "sec",
+          "reasons": [
+            "raw 신규 항목(Reuters \"US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks\", Bloomberg \"Tesla Faces US Auto Safety Probe Over Risk of Suspension Failure\")이 기존 카드와 동일 NHTSA 예비조사(모델3/Y 1.2M대)를 다룸 — 제목·대상 대수·사안 완전 일치, 새 사실 없이 confirmedBy만 3→4로 갱신(Reuters 추가)",
+            "조언 톤 없음, 추측→단정 전환 없음(기존 카드 이미 hedge 유지: \"예비조사 착수\"·\"결론 나면\")",
+            "숫자(1.2M, 156건) 변경 없음 — 기존 값 그대로 유지, 새 수치 창작 없음",
+            "본문-링크 일치 — href(Bloomberg)는 그대로, 신규 confirmingSources(Reuters)도 동일 사건 보도 확인",
+            "sourceLabel sec 유지 적절(NHTSA 규제기관 조사 건)"
+          ]
+        },
+        {
+          "slug": "stock-china-sale-spacex-merger-2026-07-31",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "raw 신규 항목(Barron's \"Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off\")이 기존 카드(WSJ 中사업 매각 검토·머스크 부인)와 동일 사건 — 머스크의 부인 반응까지 이미 카드에 반영돼 있어 새 사실 없이 confirmedBy만 2→3(Barron's 추가)로 갱신",
+            "조언 톤 없음, 단정 표현 없음(기존 카드 이미 \"확정된 사안은 아니다\"로 완화)",
+            "숫자·인용 변경 없음 — 머스크 X 인용문 그대로 유지",
+            "본문-링크 일치 — href(Reuters) 그대로, 신규 confirmingSources(Barron's)도 동일 사건 보도 확인",
+            "sourceLabel press 유지 적절"
           ]
         }
       ]

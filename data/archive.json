@@ -87,8 +87,9 @@
       "body_en": "The US National Highway Traffic Safety Administration has opened a preliminary evaluation into roughly 1.2M Tesla vehicles — Model 3 sedans from 2018-2020 and Model Y SUVs from 2021-2023 — over reports that the front lower lateral link can detach, potentially causing loss of steering control. NHTSA has logged 156 complaints and says it hasn't seen any crashes or injuries so far, but a formal defect finding could trigger a recall far larger than Tesla's prior fixes for the same part (2,800 Model 3s in 2021, 422 in 2023).",
       "summary_en": "NHTSA's Office of Defects Investigation opened a preliminary evaluation on July 31 into reports that the front lower lateral link — part of the suspension — can detach in certain Tesla Model 3 and Model Y vehicles. The probe covers Model 3 sedans from model years 2018-2020 and Model Y SUVs from 2021-2023, an estimated 1.2M vehicles in total.\n\nThe agency has received 156 complaints, with owners reporting the front lower lateral link separating suddenly, causing loss of steering control. Most said there was no warning beforehand, though some noted unusual noises first. NHTSA said the failure can leave a car undrivable and require towing.\n\nNHTSA said it is not aware of any crashes, injuries, or fatalities tied to the reported defect so far. A preliminary evaluation is the first stage of NHTSA's investigative process — assessing how widespread and severe an issue is and what's causing it — and can escalate into a recall push if the agency finds a safety-related defect.\n\nTesla has previously recalled vehicles over detachment of the same component, though at far smaller scale — about 2,800 Model 3s in 2021 and 422 in 2023. This investigation covers a much larger population, and NHTSA has noted the newly reported cases may not match the earlier recalls' root cause, which raises the stakes for how broad any eventual remedy could be.\n\nBecause Model 3 and Model Y are Tesla's highest-volume models, an escalation to a full engineering analysis or recall could carry real reputational and cost implications. For now, though, this is only the opening of an investigation — not a confirmed defect finding or recall.",
       "href": "https://www.bloomberg.com/news/articles/2026-07-31/tesla-faces-us-auto-safety-probe-over-risk-of-suspension-failure",
-      "confirmedBy": 3,
+      "confirmedBy": 4,
       "confirmingSources": [
+        "Reuters",
         "Bloomberg",
         "TipRanks",
         "Finimize"
@@ -140,10 +141,11 @@
       "href": "https://www.reuters.com/business/media-telecom/tesla-weighs-sale-china-business-pave-way-potential-spacex-merger-wsj-reports-2026-07-31/",
       "sentiment": "neutral",
       "hot": 7,
-      "confirmedBy": 2,
+      "confirmedBy": 3,
       "confirmingSources": [
         "Reuters",
-        "WSJ"
+        "WSJ",
+        "Barron's"
       ]
     },
     {
