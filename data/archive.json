@@ -26,6 +26,31 @@
       "hot": 6
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "12h ago",
+      "pubDate": "2026-07-31T18:30:00.000Z",
+      "title": "테슬라, 사이버트럭 PCS 보증 <em>8년으로 연장</em> — 자비 수리 오너는 전액 환불",
+      "hotShort": "사이버트럭 PCS 보증 <em>8년 연장</em>, 환불도 약속",
+      "body": "테슬라가 2024~2025년식 사이버트럭의 PCS(전력변환장치) 보증기간을 8년·150,000마일로 늘리고, 그간 자비로 부품을 교체한 오너에게는 곧 전액 환불하겠다고 밝혔다 — 리콜 없이 사례별 대응만 이어오던 테슬라가 처음으로 비용 부담을 전면 흡수하는 조치를 내놓은 것으로, 여전히 공식 리콜은 아니다.",
+      "sourceName": "TeslaNorth",
+      "sourceLabel": "press",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "TeslaNorth",
+        "Drive Tesla Canada"
+      ],
+      "slug": "product-cybertruck-pcs-warranty-extension-2026-07-31",
+      "summary": "7월 초부터 이어져 온 사이버트럭 PCS(전력변환장치) 고장 논란에 대해, 테슬라가 31일 한층 구체적인 공식 조치를 내놓았다.\n\n2024~2025년식 사이버트럭의 PCS 보증기간을 8년·150,000마일로 연장한다 — 2026년식에 적용되는 표준 보증(7년·70,000마일)보다 긴 기간이다. 아울러 보증이 끝난 뒤 자비로 PCS를 교체했던 오너들에게는 앞으로 몇 주 안에 수리비 전액을 환불하겠다고 안내했다.\n\nPCS는 사이버트럭의 완속(AC) 충전을 담당하는 핵심 부품으로, 고장 시 가정용 충전이 완전히 끊기는 사례가 다수 보고돼왔다. 교체 부품은 최대 10주까지 백오더가 밀려 있어, 테슬라는 그사이 충전이 막힌 차량에 슈퍼차저 무료 이용을 임시 지원하는 조치도 유지하고 있다.\n\n다만 이번 조치도 전체 차량 대상의 공식 리콜은 아니다. 지난달 30일 척 쿡 등 커뮤니티가 정리했던 '리콜 없는 사례별 대응' 구도는 유지되는 셈이지만, 보증 연장과 소급 환불로 비용 부담을 회사가 직접 떠안았다는 점에서 이전보다 한 걸음 나아간 대응으로 풀이된다.",
+      "title_en": "Tesla extends Cybertruck PCS warranty to <em>8 years</em> — full refunds for owners who paid out of pocket",
+      "hotShort_en": "Cybertruck PCS warranty <em>extended to 8 years</em>",
+      "body_en": "Tesla is extending the Power Conversion System (PCS) warranty on 2024-2025 Cybertrucks to 8 years or 150,000 miles, and says it will fully reimburse owners who already paid out of pocket to replace the part — the company's first move to absorb the cost fleet-wide after months of case-by-case fixes, though it's still stopping short of a formal recall.",
+      "summary_en": "Tesla issued a more concrete response on July 31 to the Cybertruck Power Conversion System (PCS) failure controversy that has run since early July.\n\nThe PCS warranty on 2024-2025 Cybertrucks is being extended to 8 years or 150,000 miles — longer than the standard 7-year, 70,000-mile warranty that applies to 2026 models. Tesla also said owners who paid out of pocket for a PCS replacement after their warranty expired will be fully reimbursed in the coming weeks.\n\nThe PCS handles Level 2 AC home charging on the Cybertruck, and failures have left a growing number of owners unable to charge at home. Replacement parts have been on backorder for up to 10 weeks, and Tesla is still offering free Supercharging as a stopgap for affected trucks in the meantime.\n\nStill, this isn't a fleet-wide recall. The case-by-case approach that Tesla community figures like Chuck Cook described on July 30 remains in place, but by extending the warranty and reimbursing past repairs, Tesla is now absorbing more of the cost directly than it had before.",
+      "href": "https://teslanorth.com/2026/07/31/tesla-extends-cybertruck-warranty-after-pcs-part-failures/",
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -2319,32 +2344,7 @@
       "href": "https://x.com/SawyerMerritt/status/2079208807201382695",
       "sentiment": "neutral",
       "hot": 3
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-20T13:15:01.000Z",
-      "title": "테슬라 로보택시 원격조작자, 휴스턴서 <em>그루터기 충돌</em> — NHTSA 신규 4건 신고",
-      "hotShort": "로보택시 원격조작 중 <em>그루터기 충돌</em> 신고",
-      "body": "테슬라가 NHTSA에 로보택시 사고 4건을 새로 신고했는데, 가장 주목되는 건은 휴스턴에서 원격조작자가 차량을 그루터기에 충돌시킨 사고다 — 시속 2마일 저속의 물적 피해(부상 없음)였지만, 테슬라가 '원격조작 유발'로 공식 분류한 첫 사례이자 관련 세 번째 충돌로, 무인 로보택시 운행의 안전판인 원격지원 시스템 자체의 신뢰성이 도마에 올랐다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-remote-operator-crash-houston-2026-07-20",
-      "summary": "테슬라가 NHTSA(미국 도로교통안전국)에 '로보택시' 관련 신규 충돌 신고 4건을 제출했다. 이 중 가장 눈에 띄는 사례는 휴스턴에서 발생한 사고로, 테슬라 측 설명에 따르면 모델Y가 막다른 주거지 도로에서 오도가도 못하는 상황에 놓여 원격지원(원격조작)을 받고 있었다.\n\n원격조작자가 차량을 잔디 경사면으로 이동시켜 빠져나오게 하려던 과정에서, 눈에 잘 띄지 않던 그루터기와 접촉했다. 사고 당시 속도는 시속 2마일에 불과했고, 에어백도 전개되지 않았으며 견인도 필요 없는 경미한 물적 피해였다 — 부상자는 없었다.\n\n이번 사고가 주목받는 이유는 분류 방식에 있다. 테슬라가 자사 신고서에서 '원격조작이 사고를 유발했다'고 공식적으로 코드화한 것은 이번이 처음이며, 원격조작자가 관여된 충돌로는 세 번째 사례다. 앞서 오스틴에서도 원격조작자가 차량을 충돌시킨 사례들이 있었다.\n\n테슬라 주주 입장에서는 로보택시 무인 운행의 최후 안전판으로 여겨지는 원격지원 시스템 자체의 신뢰성이 다시 도마에 오른 셈이다. 22일 2분기 실적콜(D-2)에서도 로보택시·자율주행 진척 상황에 대한 질의가 예상되는 가운데, 이번 신고는 무인화 확대 속도에 대한 신중론에 힘을 실을 수 있는 재료다.",
-      "title_en": "Tesla Robotaxi remote operator <em>crashes into hidden tree stump</em> in Houston — 4 new NHTSA filings",
-      "hotShort_en": "Robotaxi remote op <em>hits stump</em> in Houston",
-      "body_en": "Tesla filed four new Robotaxi crash reports with NHTSA, and the most notable involves a remote operator driving the vehicle into a hidden tree stump in Houston — a low-speed (2 mph), no-injury property-damage incident, but the first crash Tesla has formally coded as caused by remote operation, and the third such case overall, putting fresh scrutiny on the remote-assistance safety net behind its driverless Robotaxi rollout.",
-      "summary_en": "Tesla submitted four new \"Robotaxi\" crash reports to NHTSA (the National Highway Traffic Safety Administration). The most notable involves a Houston incident in which, according to Tesla's own account, a Model Y got stuck on a dead-end residential road and was being assisted remotely.\n\nAs the remote operator maneuvered the vehicle onto a grassy slope to free it, the car made contact with a hidden tree stump. The vehicle was traveling at just 2 mph at the time — no airbags deployed, no tow was needed, and it was minor property damage only, with no injuries.\n\nWhat makes this case notable is the classification: it's the first crash Tesla has formally coded in its filing as caused by remote operation, and the third crash overall involving a remote operator. Tesla has previously reported other remote-operator-caused crashes in Austin.\n\nFor shareholders, it renews scrutiny on the reliability of the remote-assistance system that serves as the final safety net for Robotaxi's driverless operations. With Tesla's Q2 earnings call two days away (July 22), where Robotaxi and autonomy progress are expected to come up, this filing gives ammunition to skeptics of how fast the driverless rollout can scale.",
-      "href": "https://electrek.co/2026/07/20/tesla-robotaxi-remote-operator-crash-houston/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Electrek",
-        "Engadget"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-08-01 10:04 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-01 15:45 KST 자동 갱신 · 최신순"
 }

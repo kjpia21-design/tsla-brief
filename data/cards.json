@@ -26,6 +26,31 @@
       "hot": 6
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "12h ago",
+      "pubDate": "2026-07-31T18:30:00.000Z",
+      "title": "테슬라, 사이버트럭 PCS 보증 <em>8년으로 연장</em> — 자비 수리 오너는 전액 환불",
+      "hotShort": "사이버트럭 PCS 보증 <em>8년 연장</em>, 환불도 약속",
+      "body": "테슬라가 2024~2025년식 사이버트럭의 PCS(전력변환장치) 보증기간을 8년·150,000마일로 늘리고, 그간 자비로 부품을 교체한 오너에게는 곧 전액 환불하겠다고 밝혔다 — 리콜 없이 사례별 대응만 이어오던 테슬라가 처음으로 비용 부담을 전면 흡수하는 조치를 내놓은 것으로, 여전히 공식 리콜은 아니다.",
+      "sourceName": "TeslaNorth",
+      "sourceLabel": "press",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "TeslaNorth",
+        "Drive Tesla Canada"
+      ],
+      "slug": "product-cybertruck-pcs-warranty-extension-2026-07-31",
+      "summary": "7월 초부터 이어져 온 사이버트럭 PCS(전력변환장치) 고장 논란에 대해, 테슬라가 31일 한층 구체적인 공식 조치를 내놓았다.\n\n2024~2025년식 사이버트럭의 PCS 보증기간을 8년·150,000마일로 연장한다 — 2026년식에 적용되는 표준 보증(7년·70,000마일)보다 긴 기간이다. 아울러 보증이 끝난 뒤 자비로 PCS를 교체했던 오너들에게는 앞으로 몇 주 안에 수리비 전액을 환불하겠다고 안내했다.\n\nPCS는 사이버트럭의 완속(AC) 충전을 담당하는 핵심 부품으로, 고장 시 가정용 충전이 완전히 끊기는 사례가 다수 보고돼왔다. 교체 부품은 최대 10주까지 백오더가 밀려 있어, 테슬라는 그사이 충전이 막힌 차량에 슈퍼차저 무료 이용을 임시 지원하는 조치도 유지하고 있다.\n\n다만 이번 조치도 전체 차량 대상의 공식 리콜은 아니다. 지난달 30일 척 쿡 등 커뮤니티가 정리했던 '리콜 없는 사례별 대응' 구도는 유지되는 셈이지만, 보증 연장과 소급 환불로 비용 부담을 회사가 직접 떠안았다는 점에서 이전보다 한 걸음 나아간 대응으로 풀이된다.",
+      "title_en": "Tesla extends Cybertruck PCS warranty to <em>8 years</em> — full refunds for owners who paid out of pocket",
+      "hotShort_en": "Cybertruck PCS warranty <em>extended to 8 years</em>",
+      "body_en": "Tesla is extending the Power Conversion System (PCS) warranty on 2024-2025 Cybertrucks to 8 years or 150,000 miles, and says it will fully reimburse owners who already paid out of pocket to replace the part — the company's first move to absorb the cost fleet-wide after months of case-by-case fixes, though it's still stopping short of a formal recall.",
+      "summary_en": "Tesla issued a more concrete response on July 31 to the Cybertruck Power Conversion System (PCS) failure controversy that has run since early July.\n\nThe PCS warranty on 2024-2025 Cybertrucks is being extended to 8 years or 150,000 miles — longer than the standard 7-year, 70,000-mile warranty that applies to 2026 models. Tesla also said owners who paid out of pocket for a PCS replacement after their warranty expired will be fully reimbursed in the coming weeks.\n\nThe PCS handles Level 2 AC home charging on the Cybertruck, and failures have left a growing number of owners unable to charge at home. Replacement parts have been on backorder for up to 10 weeks, and Tesla is still offering free Supercharging as a stopgap for affected trucks in the meantime.\n\nStill, this isn't a fleet-wide recall. The case-by-case approach that Tesla community figures like Chuck Cook described on July 30 remains in place, but by extending the warranty and reimbursing past repairs, Tesla is now absorbing more of the cost directly than it had before.",
+      "href": "https://teslanorth.com/2026/07/31/tesla-extends-cybertruck-warranty-after-pcs-part-failures/",
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -174,33 +199,7 @@
       ],
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
-      "pubDate": "2026-07-30T12:33:55.000Z",
-      "title": "美 교통부, 자율주행차 <em>연방 통일 성능기준</em> 신설 추진 — Zoox 무핸들 승인이 첫 사례",
-      "hotShort": "美 교통부, 로보택시 <em>전국 통일기준</em> 신설 추진",
-      "body": "美 교통부가 주(州)마다 제각각인 규정 대신 자율주행차 첫 전국 단일 성능기준 마련에 나섰다 — SAE 산업 컨소시엄과 3년간 $5M 규모로 공동 개발하며, 변속·와이퍼·타이어 표시·제동장치 등 4개 안전기준(FMVSS) 개정을 제안하고 조명·거울·주행안정장치 등 4개도 추가 검토한다. 이 흐름의 첫 실물 사례가 앞서 보도된 아마존 Zoox의 무핸들 로보택시 승인 — 스티어링휠·페달 없는 사이버캡을 준비 중인 테슬라에도 주별 규제 대신 전국 단일 기준이라는 우호적 선례가 될 수 있다.",
-      "sourceName": "NHTSA",
-      "sourceLabel": "sec",
-      "slug": "fsd-zoox-nhtsa-robotaxi-approval-2026-07-30",
-      "summary": "美 교통부(DOT) 션 더피 장관이 7월30일 NHTSA에 자율주행차 규제 전면 개편을 지시했다 — 핵심은 주(州)마다 제각각이던 규정을 대체할 '전국 단일 자율주행 성능기준' 마련이다.\n\nNHTSA는 이 기준을 개발하기 위해 SAE 인더스트리 테크놀로지스 컨소시엄과 손잡고 3년·$5M 규모의 'A2SCEND' 컨소시엄에 자금을 지원한다. 동시에 변속장치(FMVSS 102)·앞유리 해빙·와이퍼(103/104)·타이어 표시(110)·제동장치(135) 등 4개 규정 개정을 제안했고, 조명(108)·거울 및 후방 디스플레이(111)·전자식 주행안정장치(126)·선바이저 및 경고라벨(201/208) 등 4개 규정도 추가로 손볼 계획이다.\n\n이번 개편의 첫 실물 사례가 바로 앞서 보도된 아마존 Zoox의 무핸들·무페달 로보택시 상업운행 연방 승인이다 — NHTSA 조너선 모리슨 청장이 확인한 대로, Zoox는 향후 2년간 매년 최대 2,500대까지 요금을 받고 운행할 수 있다.\n\n전국 단일 기준이 자리잡으면, 스티어링휠·페달이 없는 사이버캡으로 로보택시 사업을 준비해온 테슬라도 주별 개별 승인 대신 하나의 연방 절차로 규제 문턱을 넘을 길이 열릴 수 있다 — 다만 구체 기준 확정까지는 시간이 걸릴 전망이다.",
-      "title_en": "DOT pushes <em>national AV performance standards</em> — Zoox's no-wheel approval is the first case",
-      "hotShort_en": "DOT pushes <em>national AV standard</em> for robotaxis",
-      "body_en": "The US Department of Transportation is moving to replace a state-by-state patchwork with the country's first national performance standard for autonomous vehicles — funding a 3-year, $5M SAE industry consortium to develop it, while proposing updates to 4 federal safety standards (transmission shifting, windshield defrosting/wiping, tire placards, braking) and reviewing 4 more (lighting, mirrors, stability control). The first real-world case under this push is Amazon Zoox's previously reported approval for wheel-and-pedal-free robotaxis — a potentially favorable precedent for Tesla's own Cybercab, which is designed the same way.",
-      "summary_en": "Transportation Secretary Sean Duffy directed NHTSA on July 30 to overhaul how the federal government regulates self-driving cars — the centerpiece being a first-ever national AV performance standard to replace the current state-by-state patchwork.\n\nTo develop it, NHTSA is partnering with SAE Industry Technologies Consortia, funding a 3-year, $5M 'A2SCEND' consortium. In parallel, NHTSA proposed updates to four federal safety standards — transmission shifting (FMVSS 102), windshield defrosting/wiping (103/104), tire placards (110), and braking systems (135) — and plans to update four more: lighting (108), mirrors and rearview display (111), electronic stability control (126), and sun visors/warning labels (201/208).\n\nThe first concrete case under this push is the previously reported federal approval for Amazon Zoox's wheel-and-pedal-free robotaxis — NHTSA Administrator Jonathan Morrison confirmed Zoox can deploy up to 2,500 paid vehicles per year over the next two years.\n\nIf a national standard takes hold, it could open a single federal path — instead of state-by-state approvals — for Tesla's own steering-wheel-and-pedal-free Cybercab as it seeks its own regulatory clearance, though finalized rules are still some way off.",
-      "href": "https://www.nhtsa.gov/press-releases/cutting-red-tape-safely-fast-track-automated-vehicle",
-      "sentiment": "bull",
-      "hot": 7,
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "NHTSA",
-        "Reuters",
-        "Teslarati"
-      ]
     }
   ],
-  "asOf": "2026-08-01 10:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-01 15:45 KST 자동 갱신 · 최신순"
 }

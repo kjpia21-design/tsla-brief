@@ -1,35 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-27T21:10:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "fsd-v14-3-6-review-regression-2026-07-27",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "Teslarati 원문 WebFetch는 403 차단 — WebSearch 교차 요약(제목·핵심 내용 일치)으로 대체 확인, 회귀/하이라이트 사실관계 raw 헤드라인과 부합",
-            "구체 수치·인용 창작 없음 — '드문 회귀', '로컬 도로', '하이웨이는 우수' 등 요약 표현만 사용, 원문에 없는 통계 미기재",
-            "조언 톤(매수·매도) 없음, 단정 전환 없음(리뷰어 판단으로 명확히 귀속), href는 raw의 원문 URL과 동일 — 밈/풍자 요소 없음(일반 리뷰 기사)",
-            "sourceLabel press 적절(Teslarati는 자동차 전문 매체, 1차/공식 아님)"
-          ]
-        },
-        {
-          "slug": "stock-piper-sandler-pt-cut-450-2026-07-27",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "CNBC 원문 WebFetch 403 — WebSearch로 CNBC 보도 내용 재확인: PT $500→$450 하향, Overweight 유지, 리비안 PT $20(+26%) 상향 근거(가이던스·R2·자본조달) 모두 2차 요약과 일치",
-            "숫자(500/450/20/26%) raw 헤드라인 및 WebSearch 요약과 대조 완료 — 창작 수치 없음",
-            "sentiment을 'bear'로 정직하게 부여(목표주가 하향은 부정적 신호) — hot 4로 과장 없이 보수적 부여, 조언 톤 없음(애널리스트 의견 전달일 뿐 자체 매수/매도 권유 아님)",
-            "href는 CNBC 해당 기사 URL과 정확히 일치, 밈/풍자 아님(정통 애널리스트 리포트 보도)"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-28T01:35:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -855,6 +826,26 @@
             "숫자·인용 변경 없음 — 머스크 X 인용문 그대로 유지",
             "본문-링크 일치 — href(Reuters) 그대로, 신규 confirmingSources(Barron's)도 동일 사건 보도 확인",
             "sourceLabel press 유지 적절"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-01T07:14:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "product-cybertruck-pcs-warranty-extension-2026-07-31",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "신규 카드(사이버트럭 PCS 보증 8년 연장·자비수리 전액환불) — 서브에이전트 독립검증(WebSearch)으로 TeslaNorth(href, 2026-07-31 날짜 일치) + Drive Tesla Canada/Electrek/autoevolution/Not a Tesla App 교차 확인",
+            "8년/150,000마일 보증(2024-2025년식) vs 표준 7년/70,000마일(2026년식) 수치 여러 매체 일치 확인 — 창작 없음",
+            "'전액 환불·향후 몇 주 내' 문구도 소스 간 동일 — 과장·왜곡 없음",
+            "'여전히 공식 리콜 아님' 서술 정확 — NHTSA 리콜 파일 없음, 복수 매체가 동일하게 프레이밍",
+            "테슬라 공식 인용문('reliability standards 미달')이 직접 인용이라 단정형 사용 적절, hedge 표현 왜곡 없음",
+            "이전(4~6월) '리콜 회피' 보도와 구분되는 7/31 신규 전개로 확인 — 옛 기사 재발행 아님"
           ]
         }
       ]
