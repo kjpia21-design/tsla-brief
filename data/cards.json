@@ -1,24 +1,24 @@
 {
   "items": [
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8m ago",
-      "pubDate": "2026-08-01T20:51:43.000Z",
-      "title": "테슬라, 헝가리 슈퍼차저에 <em>오프피크 요금제</em> 도입 — 전력망 부하 분산 지원",
-      "hotShort": "테슬라, 헝가리 슈퍼차저 <em>오프피크 할인 요금</em> 8/2 시행",
-      "body": "테슬라 공식 충전 계정이 8/2부터 헝가리 전역 슈퍼차저에서 오프피크 시간대(23:00~17:00) 충전 시 kWh당 80포린트 요금을 적용한다고 밝혔다 — 피크 시간대 전력 수요를 분산해 현지 전력망 부담을 줄이려는 취지로, 테슬라의 충전 인프라가 단순 판매 수단을 넘어 유럽 에너지망 운영과 맞물려가는 사례다.",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "product-hungary-offpeak-supercharging-2026-08-01",
-      "summary": "테슬라 공식 충전 계정(Tesla Charging)이 8월 2일부터 헝가리 전역의 슈퍼차저 스테이션에 오프피크 요금제를 도입한다고 X를 통해 발표했다.\n\n오프피크 시간대인 오후 11시부터 다음날 오후 5시까지 충전하면 kWh당 80포린트의 요금이 적용된다. 테슬라 측은 이런 요금 구조가 운전자들이 유연하게 충전 시간을 조정하도록 유도해, 피크 시간대 전력망 부하를 줄이는 데 일조한다고 설명했다.\n\n이는 테슬라가 슈퍼차저 네트워크를 단순 충전 인프라를 넘어 현지 전력망 운영과 연계된 수요반응(demand response) 자산으로 확장해온 흐름의 연장선이다 — 유럽 각지에서 전력 가격 변동에 연동한 충전 요금제를 시범 운영하며 그리드 서비스 사업 모델을 넓혀가고 있다.\n\n이번 조치는 헝가리 한 국가에 국한된 소규모 정책이지만, 슈퍼차저 네트워크가 테슬라 에너지 사업의 그리드 서비스 포트폴리오와 어떻게 맞물리는지 보여주는 사례로 볼 수 있다.",
-      "title_en": "Tesla rolls out <em>off-peak pricing</em> at Hungarian Superchargers to ease grid load",
-      "hotShort_en": "Tesla adds <em>off-peak discount</em> at Hungary Superchargers",
-      "body_en": "Tesla's official charging account announced that starting August 2, all Hungarian Superchargers will offer off-peak pricing of 80 HUF/kWh during 11 PM–5 PM hours — aimed at spreading out charging demand to ease strain on the local grid, another example of Tesla's charging network doubling as grid-services infrastructure in Europe.",
-      "summary_en": "Tesla's official charging account (Tesla Charging) announced on X that starting August 2, all Supercharger stations across Hungary will introduce off-peak pricing.\n\nCharging during off-peak hours — 11 PM to 5 PM daily — will cost 80 HUF per kWh. Tesla said the pricing structure is designed to encourage drivers to shift their charging times flexibly, helping reduce grid load during peak demand periods.\n\nThis continues a broader pattern of Tesla expanding its Supercharger network beyond simple charging infrastructure into a demand-response asset tied to local grid operations — the company has piloted price structures linked to electricity market conditions in various parts of Europe as it builds out its grid-services business model.\n\nWhile this particular move is a small, single-country policy, it illustrates how Tesla's charging network increasingly intersects with its broader energy business's grid-services portfolio.",
-      "href": "https://x.com/TeslaCharging/status/2083656948571144532",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-08-02T12:00:00.000Z",
+      "title": "제프리스 ESG 총괄 \"SpaceX 거버넌스 비판, <em>지나치게 단순한 시각</em>\"",
+      "hotShort": "제프리스, SpaceX 비판론에 <em>\"단순한 시각\"</em> 반박",
+      "body": "제프리스의 지속가능성·전환전략 글로벌 총괄 Aniket Shah가 일론 머스크의 SpaceX 장악력을 이유로 투자를 꺼리는 시각에 대해 \"거버넌스를 틀에 가두려는 태도는 지나치게 단순하고 데이터를 보지 않는 것\"이라고 반박했다 — 8/4 SpaceX 첫 실적발표·8/6 락업 해제를 사흘 앞두고 대형 IB 애널리스트가 거버넌스 논쟁에 공개적으로 가세한 드문 사례다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-jefferies-spacex-governance-2026-08-02",
+      "summary": "SpaceX의 지배구조를 둘러싼 투자자들의 우려가 최근 급증한 공매도(테슬라 공매도 금액을 앞지른 $246억 규모)와 맞물려 커지는 가운데, 대형 투자은행 애널리스트가 이례적으로 공개 반박에 나섰다.\n\n제프리스에서 지속가능성·전환전략을 총괄하는 Aniket Shah는 블룸버그와의 인터뷰에서, 머스크의 압도적 지배력을 이유로 SpaceX 투자를 꺼리는 시각을 겨냥해 \"거버넌스를 어떤 틀에 가두려는 태도는 지나치게 단순한 접근이고, 솔직히 말해 데이터를 보지 않는 것\"이라고 말했다. 그는 경직된 거버넌스 잣대를 그대로 적용하면 SpaceX의 장기 수익 잠재력을 놓칠 수 있다고 지적했다.\n\nSpaceX는 일론 머스크가 최대주주 겸 CEO로서 이사회와 경영 전반에 강한 영향력을 행사하는 구조로, 6월 상장 이후 일부 기관투자자 사이에서 이런 지배구조 자체가 리스크라는 지적이 꾸준히 제기돼왔다.\n\n이 발언은 8/4 SpaceX의 상장 후 첫 분기 실적발표와 8/6 첫 락업 해제를 앞둔 시점에 나왔다는 점에서 주목된다 — 같은 기간 SpaceX 공매도 잔고가 테슬라를 앞질렀다는 최근 보도와 맞물려, 거버넌스 논쟁이 두 이벤트를 앞둔 투자심리에 영향을 줄 수 있는 변수로 떠올랐다. 다만 이는 제프리스 소속 애널리스트 개인의 의견 표명으로, 특정 매수·매도 의견이나 목표주가 제시는 아니다.",
+      "title_en": "Jefferies sustainability chief calls SpaceX governance critics <em>\"too simple-minded\"</em>",
+      "hotShort_en": "Jefferies exec: SpaceX critics <em>\"too simple-minded\"</em>",
+      "body_en": "Aniket Shah, Jefferies' global head of sustainability and transition strategy, pushed back on investors who avoid SpaceX over Elon Musk's outsized control, saying attempts to \"put governance into some kind of straitjacket\" are \"too simple-minded and, frankly speaking, not looking at data\" — a rare case of a major investment bank analyst weighing publicly into the SpaceX governance debate just three days before its Aug. 4 first earnings report and Aug. 6 lockup expiration.",
+      "summary_en": "Investor concern over SpaceX's governance structure has been building alongside a surge in short interest — a $24.6 billion bearish bet that recently overtook short positions against Tesla itself — and a major investment bank analyst has now pushed back publicly.\n\nAniket Shah, who leads sustainability and transition strategy at Jefferies, told Bloomberg that critics who avoid SpaceX because of Musk's outsized control are taking too rigid a view: \"people who try to put governance into some kind of straitjacket are too simple-minded and, frankly speaking, not looking at data.\" He argued that applying strict governance standards mechanically risks missing SpaceX's long-term return potential.\n\nSpaceX is structured so that Musk, as largest shareholder and CEO, exerts outsized influence over the board and broader management — a setup that some institutional investors have flagged as a governance risk since the company's June IPO.\n\nThe comments land just ahead of two closely watched catalysts: SpaceX's first quarterly earnings report as a public company on Aug. 4, and its first post-IPO lockup expiration on Aug. 6 — the same window in which SpaceX's short interest was recently reported to have overtaken Tesla's. Shah's remarks reflect his own view as an analyst, not a specific buy/sell call or price target.",
+      "href": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance",
       "sentiment": "neutral",
-      "hot": 2
+      "hot": 3
     },
     {
       "category": "musk",
@@ -189,5 +189,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-08-02 06:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-03 00:05 KST 자동 갱신 · 최신순"
 }

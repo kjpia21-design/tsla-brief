@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-08-02T12:00:00.000Z",
+      "title": "제프리스 ESG 총괄 \"SpaceX 거버넌스 비판, <em>지나치게 단순한 시각</em>\"",
+      "hotShort": "제프리스, SpaceX 비판론에 <em>\"단순한 시각\"</em> 반박",
+      "body": "제프리스의 지속가능성·전환전략 글로벌 총괄 Aniket Shah가 일론 머스크의 SpaceX 장악력을 이유로 투자를 꺼리는 시각에 대해 \"거버넌스를 틀에 가두려는 태도는 지나치게 단순하고 데이터를 보지 않는 것\"이라고 반박했다 — 8/4 SpaceX 첫 실적발표·8/6 락업 해제를 사흘 앞두고 대형 IB 애널리스트가 거버넌스 논쟁에 공개적으로 가세한 드문 사례다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-jefferies-spacex-governance-2026-08-02",
+      "summary": "SpaceX의 지배구조를 둘러싼 투자자들의 우려가 최근 급증한 공매도(테슬라 공매도 금액을 앞지른 $246억 규모)와 맞물려 커지는 가운데, 대형 투자은행 애널리스트가 이례적으로 공개 반박에 나섰다.\n\n제프리스에서 지속가능성·전환전략을 총괄하는 Aniket Shah는 블룸버그와의 인터뷰에서, 머스크의 압도적 지배력을 이유로 SpaceX 투자를 꺼리는 시각을 겨냥해 \"거버넌스를 어떤 틀에 가두려는 태도는 지나치게 단순한 접근이고, 솔직히 말해 데이터를 보지 않는 것\"이라고 말했다. 그는 경직된 거버넌스 잣대를 그대로 적용하면 SpaceX의 장기 수익 잠재력을 놓칠 수 있다고 지적했다.\n\nSpaceX는 일론 머스크가 최대주주 겸 CEO로서 이사회와 경영 전반에 강한 영향력을 행사하는 구조로, 6월 상장 이후 일부 기관투자자 사이에서 이런 지배구조 자체가 리스크라는 지적이 꾸준히 제기돼왔다.\n\n이 발언은 8/4 SpaceX의 상장 후 첫 분기 실적발표와 8/6 첫 락업 해제를 앞둔 시점에 나왔다는 점에서 주목된다 — 같은 기간 SpaceX 공매도 잔고가 테슬라를 앞질렀다는 최근 보도와 맞물려, 거버넌스 논쟁이 두 이벤트를 앞둔 투자심리에 영향을 줄 수 있는 변수로 떠올랐다. 다만 이는 제프리스 소속 애널리스트 개인의 의견 표명으로, 특정 매수·매도 의견이나 목표주가 제시는 아니다.",
+      "title_en": "Jefferies sustainability chief calls SpaceX governance critics <em>\"too simple-minded\"</em>",
+      "hotShort_en": "Jefferies exec: SpaceX critics <em>\"too simple-minded\"</em>",
+      "body_en": "Aniket Shah, Jefferies' global head of sustainability and transition strategy, pushed back on investors who avoid SpaceX over Elon Musk's outsized control, saying attempts to \"put governance into some kind of straitjacket\" are \"too simple-minded and, frankly speaking, not looking at data\" — a rare case of a major investment bank analyst weighing publicly into the SpaceX governance debate just three days before its Aug. 4 first earnings report and Aug. 6 lockup expiration.",
+      "summary_en": "Investor concern over SpaceX's governance structure has been building alongside a surge in short interest — a $24.6 billion bearish bet that recently overtook short positions against Tesla itself — and a major investment bank analyst has now pushed back publicly.\n\nAniket Shah, who leads sustainability and transition strategy at Jefferies, told Bloomberg that critics who avoid SpaceX because of Musk's outsized control are taking too rigid a view: \"people who try to put governance into some kind of straitjacket are too simple-minded and, frankly speaking, not looking at data.\" He argued that applying strict governance standards mechanically risks missing SpaceX's long-term return potential.\n\nSpaceX is structured so that Musk, as largest shareholder and CEO, exerts outsized influence over the board and broader management — a setup that some institutional investors have flagged as a governance risk since the company's June IPO.\n\nThe comments land just ahead of two closely watched catalysts: SpaceX's first quarterly earnings report as a public company on Aug. 4, and its first post-IPO lockup expiration on Aug. 6 — the same window in which SpaceX's short interest was recently reported to have overtaken Tesla's. Shah's remarks reflect his own view as an analyst, not a specific buy/sell call or price target.",
+      "href": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "8m ago",
@@ -2314,32 +2334,7 @@
       "href": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-20T16:04:41.000Z",
-      "title": "머스크 \"가짜뉴스\" — <em>스페이스X·폭스콘 $520억 엔비디아 GPU 딜</em> 루머 직접 부인",
-      "hotShort": "머스크, <em>$520억 엔비디아 GPU 딜</em> 루머 \"가짜뉴스\"",
-      "body": "대만 경제일보 발로 확산된 '스페이스X가 폭스콘을 통해 엔비디아 GB300 GPU 약 100만개를 $520억 규모로 발주했다'는 소문에 대해 일론 머스크가 X에서 직접 <em>\"이건 가짜뉴스\"</em>라고 부인했다 — 스페이스X·엔비디아·폭스콘 중 어느 쪽도 공식 확인하지 않은 미확인 보도였던 만큼, 대규모 AI 컴퓨팅 투자설이 나올 때마다 사실 검증이 필요함을 보여준 사례다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-nvidia-52b-gpu-deal-debunk-2026-07-20",
-      "summary": "지난 주말 대만 경제일보(Economic Daily)가 \"폭스콘이 스페이스X向 첫 AI 서버 제조 프로젝트를 수주했다\"고 보도하면서 소문이 커졌다 — 랙 1개당 400만달러씩 총 1만3000개 랙, 엔비디아 GB300 GPU 약 100만개, 총 <em>$520억</em> 규모라는 구체적 수치까지 X에서 빠르게 확산됐다.\n\n일론 머스크는 7월20일 X에서 <em>\"This is Fake News\"</em>(이건 가짜뉴스) 단 네 단어로 이를 직접 부인했다. 스페이스X·엔비디아·폭스콘 중 어느 회사도 이 거래를 공식적으로 확인하거나 언급한 적이 없는 상태였다.\n\n이런 루머가 빠르게 신빙성을 얻은 배경에는 최근 일론 머스크·xAI·스페이스X가 실제로 대규모 컴퓨팅 인프라 투자를 이어온 흐름이 있다 — 앞서 머스크는 xAI의 그록(Grok) 연산용 전력 확보를 위해 가스터빈 발전사 APR에너지를 10억달러에 조용히 인수했다고 보도된 바 있다.\n\n테슬라 주주 입장에선 직접적 영향은 제한적이지만, 스페이스X·xAI 관련 대형 계약설이 향후에도 계속 나올 가능성이 큰 만큼 머스크 계열사발 루머는 공식 확인 전까지 걸러 볼 필요가 있음을 보여준 사례다.",
-      "title_en": "Musk calls <em>$52B SpaceX-Foxconn Nvidia GPU deal</em> report \"fake news\"",
-      "hotShort_en": "Musk denies <em>$52B Nvidia GPU deal</em> rumor as \"fake news\"",
-      "body_en": "A rumor that spread from Taiwan's Economic Daily claiming SpaceX had ordered roughly a million Nvidia GB300 GPUs through Foxconn for about <em>$52 billion</em> was directly denied by Elon Musk on X, who called it <em>\"fake news\"</em> — with SpaceX, Nvidia and Foxconn all staying silent on the unconfirmed report, it's a reminder to fact-check big AI-infrastructure claims tied to Musk's companies before they take hold.",
-      "summary_en": "The rumor gained traction after Taiwan's Economic Daily reported over the weekend that Foxconn had won its first AI-server manufacturing project for SpaceX — with specifics circulating fast on X: 13,000 racks at roughly $4 million each, about a million Nvidia GB300 GPUs, and a total price tag of <em>$52 billion</em>.\n\nElon Musk shut it down on X on July 20 in four words: <em>\"This is Fake News.\"</em> None of SpaceX, Nvidia or Foxconn had officially confirmed or even commented on the purported deal.\n\nThe rumor spread quickly in part because Musk's companies have genuinely been ramping up large compute investments — xAI recently made headlines for quietly acquiring gas-turbine power producer APR Energy for $1 billion to help power its Grok AI models.\n\nFor Tesla shareholders, the direct impact is limited, but with more big SpaceX/xAI contract rumors likely ahead, this episode is a reminder to treat unconfirmed reports about Musk's other companies with caution until officially verified.",
-      "href": "https://www.teslarati.com/elon-musk-dispels-52-billion-spacex-nvidia-gpu-deal-fake-news/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "IBTimes UK"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-08-02 06:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-03 00:05 KST 자동 갱신 · 최신순"
 }

@@ -1,6 +1,26 @@
 {
   "runs": [
     {
+      "at": "2026-08-02T15:10:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-jefferies-spacex-governance-2026-08-02",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Bloomberg 1차 보도, 애널리스트 실명 인용",
+            "조언톤 위반 없음 — 매수·매도·목표가 제시 없음, summary 말미에 개인 의견·비추천 명시 고지",
+            "추측→단정 전환 없음 — 인용문은 원문 그대로(WebSearch 스니펫 대조: straitjacket/too simple-minded/not looking at data 일치)",
+            "숫자·고유명사 대조: 애널리스트명 Aniket Shah(Jefferies 지속가능성·전환전략 총괄) 확인, 8/4 실적·8/6 락업 날짜는 기존 검증된 카드(musk-spacex-short-interest-record-2026-07-31)와 일치",
+            "href-본문 일치 — WebFetch는 Bloomberg 403 차단, WebSearch로 기사 제목·핵심 인용 교차확인",
+            "verify-error: Bloomberg 원문 WebFetch 접근 불가(403) — WebSearch 스니펫으로 대체 검증, fail-open 원칙에 따라 pass 처리"
+          ]
+        }
+      ]
+    },
+    {
       "at": "2026-07-28T15:10:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -826,25 +846,6 @@
             "조언 톤 위반 없음(매수·매도·목표가 없음), 추측→단정 전환 없음",
             "confirmedBy 2→3, confirmingSources에 Reuters 추가(기존 Bloomberg·Investing.com 유지)",
             "raw의 나머지 항목 재확인 — 'Elon Musk' CNBC 허브 페이지(구체 기사 아님, 제외), Optimus/NHTSA서스펜션/中매각설/Zoox 는 전부 기존 카드와 동일사건 재보도(추가 조치 없음). WebSearch 완전성 점검(Tesla FSD/Optimus/Robotaxi 8/1 뉴스)에서 'Tesla Robotaxi unveil Aug 8' 건은 2024년 옛 발표 재검색 결과로 확인돼 옛 기사 재발행 트랩으로 판단, 채택하지 않음. Motley Fool의 'FSD $99/월 구독 연 $1.8B' 기사는 이미 보도된 2분기 실적(1.48M 구독, +56% YoY) 재해석 오피니언 칼럼(\"매수 신호인가\")이라 조언톤 위반 우려로 카드화하지 않음"
-          ]
-        }
-      ]
-    },
-    {
-      "at": "2026-08-01T21:15:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "musk-spacex-earnings-investor-qa-2026-08-01",
-          "verdict": "pass",
-          "reasons": []
-        },
-        {
-          "slug": "product-hungary-offpeak-supercharging-2026-08-01",
-          "verdict": "pass",
-          "reasons": [
-            "no external corroboration available (single-tweet source, expected)"
           ]
         }
       ]
