@@ -1,10 +1,10 @@
 {
-  "asOf": "2026-08-02 21:32 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-02 22:59 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-02T17:05:31.000Z",
       "title": "Tesla drags consumer discretionary sector in July; Ross Stores leads (GM:NYSE)",
       "body": "Tesla drags consumer discretionary sector in July; Ross Stores leads (GM:NYSE) Seeking Alpha",
@@ -17,10 +17,10 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-08-02T14:06:55.000Z",
-      "title": "2023 Video Resurfaces of Musk Touring Netanyahu at Tesla Factory",
-      "body": "2023 Video Resurfaces of Musk Touring Netanyahu at Tesla Factory x.com",
+      "title": "2023 Video Resurfaces of Musk Touring Netanyahu Through T...",
+      "body": "2023 Video Resurfaces of Musk Touring Netanyahu Through T... x.com",
       "sourceName": "x.com",
       "sourceLabel": "official",
       "slug": "",
@@ -30,7 +30,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-08-02T12:00:00.000Z",
       "title": "Jefferies Analyst Calls Out ‘Simple-Minded’ Criticism of SpaceX’s Governance",
       "body": "Jefferies Analyst Calls Out ‘Simple-Minded’ Criticism of SpaceX’s Governance Bloomberg.com",
@@ -43,7 +43,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
+      "time": "13h ago",
       "pubDate": "2026-08-02T09:57:39.000Z",
       "title": "SpaceX’s Starship just got filmed by its own cargo",
       "body": "SpaceX’s Starship just got filmed by its own cargo Teslarati",
@@ -52,19 +52,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/spacexs-starship-just-got-filmed-by-its-own-cargo/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "22h ago",
-      "pubDate": "2026-08-01T23:26:46.000Z",
-      "title": "Tesla’s U.S. Sales Tanked In Q1. It Still Gained Market Share",
-      "body": "Tesla’s U.S. Sales Tanked In Q1. It Still Gained Market Share InsideEVs",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://insideevs.com/news/792679/tesla-us-sales-q1-model-y/"
     },
     {
       "category": "musk",
@@ -171,9 +158,22 @@
       "href": "https://www.wsj.com/business/autos/amazons-zoox-gets-clearance-to-start-paid-robotaxi-rides-eac7075f"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4d ago",
+      "pubDate": "2026-07-29T20:29:00.000Z",
+      "title": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk",
+      "body": "Tesla Stock Falls Again, Putting Trillion Dollar Status at Risk Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-trillion-dollars-a53cdd8b"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5d ago",
+      "time": "6d ago",
       "pubDate": "2026-07-28T11:18:46.000Z",
       "title": "Tesla to Buy Power From KKR-Backed Arizona Solar, Battery Plant",
       "body": "Tesla to Buy Power From KKR-Backed Arizona Solar, Battery Plant Bloomberg.com",
