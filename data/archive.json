@@ -4,6 +4,31 @@
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
+      "pubDate": "2026-08-03T19:04:51.000Z",
+      "title": "테슬라 FSD 14.3.7 전면배포 — <em>반응속도 20% 개선</em>",
+      "hotShort": "FSD 14.3.7 전면배포 — <em>반응속도 20% 개선</em>",
+      "body": "테슬라가 8월1일부터 소프트웨어 2026.21.5로 FSD(Supervised) 14.3.7 전면배포를 시작했다 — AI 컴파일러를 MLIR 기반으로 전면 재작성해 반응속도를 20% 높이고 강화학습·비전 인식 성능도 함께 끌어올렸다. 로보택시 상용화 시점을 가늠하는 핵심 지표인 자율주행 기술 성숙도에 진전 신호로 주목된다.",
+      "sourceName": "TeslaNorth",
+      "sourceLabel": "press",
+      "slug": "fsd-v1437-review-saved-accident-2026-08-02",
+      "summary": "테슬라가 8월1일부터 소프트웨어 버전 2026.21.5를 통해 FSD(Supervised) 14.3.7 전면배포를 시작했다. HW3 차량용 경량판 'v14 Lite'가 최근 컴퓨터 과열 논란에 휩싸인 것과 별개로, 이번 14.3.7은 HW4급 차량이 받는 정식 v14 라인업의 최신 버전이다.\n\n공식 릴리즈 노트에 따르면 강화학습(RL) 훈련 단계가 업그레이드돼 다양한 주행 시나리오에서 개선이 이뤄졌고, 신경망 비전 인코더도 개선돼 저시인성·희귀 상황 인식, 3D 형상 이해, 교통표지 인식 능력이 강화됐다.\n\n가장 눈에 띄는 변화는 AI 컴파일러·런타임을 MLIR 기반으로 처음부터 다시 작성한 것이다 — 그 결과 반응속도가 20% 빨라졌고 모델 개발 반복 속도도 향상됐다. 인터페이스 측면에서는 개입 없이 주행한 거리와 최장 무개입 기록을 앱에서 확인할 수 있게 됐고, 목적지 도착 시 주차 옵션이 지도에 표시되는 기능도 추가됐다.\n\n앞서 테슬라라티 리뷰어는 이 버전을 시험 주행한 지 40분 만에 부주의하게 끼어든 차량과의 충돌을 차량이 스스로 피하는 장면을 목격했다고 전했고, 90마일 주행 동안 이전 버전(v14.3.6)에서 지적됐던 급제동·핸들 떨림 같은 불안정한 움직임도 크게 줄었다고 평가한 바 있다.\n\n다만 이는 개별 리뷰어 체험담과 테슬라 자체 릴리즈 노트에 근거한 것으로, 대규모 사용자 데이터에 기반한 공식 검증 통계는 아니다. 로보택시·FSD 기술 성숙도가 테슬라 밸류에이션의 핵심 변수로 꼽히는 가운데(스티펠 등 애널리스트도 이 점을 지목), 이번 업데이트는 그 진행 상황을 보여주는 하나의 데이터 포인트로 주목된다.",
+      "title_en": "Tesla rolls out FSD 14.3.7 — <em>20% faster reaction time</em>",
+      "hotShort_en": "FSD 14.3.7 wide release: <em>20% faster</em>",
+      "body_en": "Tesla began wide-releasing FSD (Supervised) 14.3.7 on Aug. 1 via software 2026.21.5 — a ground-up MLIR rewrite of its AI compiler cut reaction time by 20%, alongside upgrades to reinforcement-learning training and vision recognition — a data point on the autonomy maturity underpinning Tesla's Robotaxi valuation case.",
+      "summary_en": "Tesla began wide-releasing FSD (Supervised) 14.3.7 on August 1 via software version 2026.21.5. Separate from the HW3-targeted lightweight \"v14 Lite\" build, which has recently drawn complaints over computer overheating, 14.3.7 is the latest release in the full v14 lineup running on HW4-class vehicles.\n\nPer the official release notes, the reinforcement-learning (RL) training stage was upgraded, improving performance across a wide range of driving scenarios, and the neural-network vision encoder was also improved — strengthening understanding of rare and low-visibility scenarios, 3D geometry, and traffic-sign recognition.\n\nThe most notable change is a ground-up rewrite of the AI compiler and runtime using MLIR, which Tesla says delivers 20% faster reaction time and faster model-iteration speed. On the interface side, the app can now show distance driven without intervention and a driver's longest intervention-free streak, and parking options now appear on the map upon arrival at a destination.\n\nEarlier, a Teslarati reviewer testing the same version said the car avoided a collision with a carelessly merging vehicle within the first 40 minutes of driving, and that over roughly 90 miles the brake-stabbing and wheel-jerking instability flagged in the prior v14.3.6 was markedly reduced.\n\nStill, that's a single reviewer's account paired with Tesla's own release notes — not an official, large-sample validation. With FSD and Robotaxi maturity repeatedly cited by analysts, including Stifel, as the central variable in Tesla's valuation, this update is a notable data point on that progress.",
+      "href": "https://teslanorth.com/2026/08/03/tesla-2026-21-5-release-notes-fsd-supervised-14-3-7-is-here/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "TeslaNorth",
+        "Not a Tesla App"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
       "pubDate": "2026-08-03T16:02:35.000Z",
       "title": "electrek: FSD v14 Lite 배포 후 <em>HW3 컴퓨터 과열·먹통 신고 급증</em>",
       "hotShort": "FSD v14 Lite <em>HW3 컴퓨터 과열 신고 급증</em>",
@@ -134,26 +159,6 @@
       "href": "https://x.com/tesla_korea/status/2084172489295528004",
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "16h ago",
-      "pubDate": "2026-08-02T23:35:00.000Z",
-      "title": "테슬라라티 FSD v14.3.7 실주행 리뷰 — <em>사고 막아준 순간</em> 포착",
-      "hotShort": "FSD v14.3.7 리뷰 — <em>사고 막아준 순간</em> 포착",
-      "body": "테슬라라티 리뷰어가 FSD v14.3.7을 시험 주행한 지 40분 만에, 부주의하게 끼어든 차량과의 사고를 막아내는 장면을 목격했다고 밝혔다 — 앞선 v14.3.6에서 지적됐던 급제동·핸들 떨림 등 불안정한 움직임도 90마일 주행 동안 크게 개선됐다는 평가다. 다만 개별 리뷰어 1인의 체험 후기로, 공식 통계나 대규모 검증 데이터는 아니다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-v1437-review-saved-accident-2026-08-02",
-      "summary": "테슬라의 FSD는 버전마다 체감 성능이 요동치는 것으로 유명한데, 바로 직전 버전인 v14.3.6은 테슬라라티 자체 리뷰에서 \"뚜렷한 퇴보(regression)\"라는 혹평을 받은 바 있다.\n\n이런 배경에서 나온 v14.3.7 리뷰는 대조적이다. 리뷰어는 주행을 시작한 지 채 40분이 지나지 않아, 다른 차선에서 부주의하게 끼어들던 도지 차저 운전자와의 충돌을 차량이 스스로 피해내는 상황을 겪었다고 전했다.\n\n이후 약 90마일을 더 주행하는 동안, v14.3.6에서 반복됐던 급제동·핸들 떨림 같은 불안정하고 자신감 없는 움직임이 눈에 띄게 사라졌다고 리뷰어는 평가했다.\n\n다만 이는 테슬라 공식 통계나 다수 표본이 아닌 리뷰어 1인의 체험담이라는 한계가 있다. 그럼에도 HW3 차량으로 v14 라인업 확장이 진행 중인 시점에, 버전 간 성능 널뛰기 우려를 다소 누그러뜨리는 사례로 주목된다.",
-      "title_en": "Teslarati's FSD v14.3.7 test drive review — <em>car avoids a collision</em> within 40 minutes",
-      "hotShort_en": "FSD v14.3.7 review: <em>avoids a collision</em> early on",
-      "body_en": "A Teslarati reviewer said the car avoided a collision with a carelessly merging Dodge Charger driver within the first 40 minutes of testing FSD v14.3.7 — over roughly 90 miles, the brake-stabbing and wheel-jerking instability flagged in the prior v14.3.6 review was also markedly improved, the reviewer said. It's a single reviewer's account, not official statistics or large-scale validation data.",
-      "summary_en": "Tesla's FSD is known for swinging in perceived quality from version to version, and the immediately preceding release, v14.3.6, drew a harsh verdict in Teslarati's own review — a \"rare regression.\"\n\nAgainst that backdrop, the v14.3.7 review reads very differently. The reviewer said that within the first 40 minutes of driving, the car avoided a collision on its own when a Dodge Charger driver merged carelessly into its lane.\n\nOver the roughly 90 miles that followed, the reviewer said the hesitant, uncertain behavior that plagued v14.3.6 — brake-stabbing, wheel-jerking — was noticeably gone.\n\nThe caveat is that this is one reviewer's account, not Tesla's official statistics or a large sample. Still, with HW3 vehicles in the middle of the v14 rollout, it's a data point that tempers concern about version-to-version whiplash in FSD performance.",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident/",
-      "sentiment": "bull",
-      "hot": 5
     },
     {
       "category": "musk",
@@ -2298,5 +2303,5 @@
       "hot": 4
     }
   ],
-  "asOf": "2026-08-04 03:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-04 05:00 KST 자동 갱신 · 최신순"
 }

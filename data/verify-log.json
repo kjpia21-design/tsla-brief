@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-28T23:06:34.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-houston-manager-understaffing-lawsuit-2026-07-28",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct — Electrek original report, AOL syndication confirms same lawsuit facts",
-            "no advisory-tone violation (no buy/sell/target price language)",
-            "hedge preserved — framed as lawsuit allegation ('주장하는 소송을 냈다'), not stated as proven fact",
-            "numbers/dates cross-checked: Oct 2023 hire, 8-month promotion, May 2024 1:15 baseline, scaled to 38 vehicles, July 27 Houston federal filing — all match source research",
-            "href (electrek.co) matches the card subject — same lawsuit",
-            "not X-sourced, no meme/satire risk"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-29T06:50:00.000Z",
       "mode": "shadow",
       "checked": 2,
@@ -745,6 +725,26 @@
           "verdict": "pass",
           "reasons": [
             "원문(Reuters, 유럽 등록 기사) 재대조 완료 — 프랑스 +86%·덴마크 +52%·노르웨이 -97%·스웨덴 -60%·스페인 -81%(131대) 수치 일치. 이탈리아 -77%(105대) 수치는 같은 날 로이터의 별도 기사 근거이며 본문에 '별도 보도'로 명시해 href-본문 불일치 소지를 해소함."
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-03T19:55:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-v1437-review-saved-accident-2026-08-02",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — TeslaNorth reporting on Tesla official release notes, not Tesla's own channel directly",
+            "no advisory-tone violation (no buy/sell/target price language)",
+            "no hedge-to-assertion drift — figures (20% faster reaction time, RL/vision-encoder upgrades, intervention-free streak, parking-on-map) stated as official release notes, which is factual by nature; single-reviewer accident-avoidance anecdote kept attributed/hedged (\"~라고 전했다\")",
+            "numbers/details cross-checked via WebSearch against TeslaNorth + Not a Tesla App coverage of software 2026.21.5 / FSD 14.3.7 — Aug 1 rollout date, MLIR compiler rewrite, RL training upgrade, vision encoder upgrade, 20% faster reaction time, intervention-free distance/streak UI, parking-on-map feature — all match",
+            "href (teslanorth.com) matches card subject — same release notes article",
+            "not X-sourced, no meme/satire risk; card merges/updates prior early-review card (same underlying FSD 14.3.7 event) rather than duplicating it, per dedup rule for event follow-ups"
           ]
         }
       ]
