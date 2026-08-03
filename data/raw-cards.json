@@ -1,23 +1,49 @@
 {
-  "asOf": "2026-08-03 19:47 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-03 21:09 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "43m ago",
-      "pubDate": "2026-08-03T19:04:51.000Z",
-      "title": "Tesla 2026.21.5 Release Notes: FSD (Supervised) 14.3.7 is Here",
-      "body": "Tesla 2026.21.5 Release Notes: FSD (Supervised) 14.3.7 is Here teslanorth.com",
-      "sourceName": "teslanorth.com",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "14m ago",
+      "pubDate": "2026-08-03T20:55:57.000Z",
+      "title": "Tesla (NASDAQ:TSLA) Stock Gains Roughly $40 Billion During Europe Sales Division",
+      "body": "Tesla (NASDAQ:TSLA) Stock Gains Roughly $40 Billion During Europe Sales Division TechStock²",
+      "sourceName": "TechStock²",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://teslanorth.com/2026/08/03/tesla-2026-21-5-release-notes-fsd-supervised-14-3-7-is-here/"
+      "href": "https://ts2.tech/en/tesla-nasdaqtsla-stock-gains-roughly-40-billion-during-europe-sales-division/"
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "53m ago",
+      "time": "2h ago",
+      "pubDate": "2026-08-03T19:25:16.000Z",
+      "title": "Tesla's Big Robotaxi Progress Is Hidden in Plain Sight",
+      "body": "Tesla's Big Robotaxi Progress Is Hidden in Plain Sight The Globe and Mail",
+      "sourceName": "The Globe and Mail",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/3619250/tesla-s-big-robotaxi-progress-is-hidden-in-plain-sight/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-08-03T19:08:21.000Z",
+      "title": "We Drove Tesla’s Longboi Model Y L. Here’s What Stands Out.",
+      "body": "We Drove Tesla’s Longboi Model Y L. Here’s What Stands Out. MotorTrend",
+      "sourceName": "MotorTrend",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.motortrend.com/reviews/2027-tesla-model-y-l-first-drive"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
       "pubDate": "2026-08-03T18:54:19.000Z",
       "title": "Tesla Full Self-Driving insurance program with heavy discount expands",
       "body": "Tesla Full Self-Driving insurance program with heavy discount expands Teslarati",
@@ -28,48 +54,9 @@
       "href": "https://www.teslarati.com/tesla-full-self-driving-insurance-program-heavy-discount-expands/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-08-03T18:25:54.000Z",
-      "title": "Something Is Killing Tesla HW3 Computers, and Owners Suspect It's the New FSD V14 Lite",
-      "body": "Something Is Killing Tesla HW3 Computers, and Owners Suspect It's the New FSD V14 Lite autoevolution",
-      "sourceName": "autoevolution",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.autoevolution.com/news/something-is-killing-tesla-hw3-computers-and-owners-suspect-it-s-the-new-fsd-v14-lite-273752.html"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-08-03T17:43:14.000Z",
-      "title": "Why Tesla stock is surging over 3% on Monday",
-      "body": "Why Tesla stock is surging over 3% on Monday invezz.com",
-      "sourceName": "invezz.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://invezz.com/ng/news/2026/08/03/why-tesla-stock-is-surging-over-3percent-on-monday/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-08-03T17:31:38.000Z",
-      "title": "Veteran Analyst Flags Tesla Stock's Next Critical Test",
-      "body": "Veteran Analyst Flags Tesla Stock's Next Critical Test GuruFocus",
-      "sourceName": "GuruFocus",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.gurufocus.com/news/8998675/veteran-analyst-flags-tesla-stocks-next-critical-test"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-08-03T17:20:39.000Z",
       "title": "Tesla's European registrations mixed in July despite broader EV momentum",
       "body": "Tesla's European registrations mixed in July despite broader EV momentum Reuters",
@@ -82,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-08-03T17:20:39.000Z",
       "title": "Tesla's European registrations mixed in July despite broader EV momentum",
       "body": "Tesla's European registrations mixed in July despite broader EV momentum Reuters",
@@ -93,9 +80,22 @@
       "href": "https://www.reuters.com/business/teslas-european-registrations-uneven-july-despite-broader-ev-momentum-2026-08-03/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-08-03T16:51:15.000Z",
+      "title": "Tesla quietly made the Cybertruck even stronger",
+      "body": "Tesla quietly made the Cybertruck even stronger Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-quietly-made-cybertruck-even-stronger/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-08-03T16:23:44.000Z",
       "title": "Tesla new car sales in Italy down 77% year-on-year in July",
       "body": "Tesla new car sales in Italy down 77% year-on-year in July Reuters",
@@ -108,7 +108,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
+      "time": "5h ago",
       "pubDate": "2026-08-03T16:02:35.000Z",
       "title": "Tesla FSD v14 Lite tied to rising HW3 computer failures, owners report",
       "body": "A growing number of Tesla owners running the new Full Self-Driving v14 “Lite” build on Hardware 3 (HW3) vehicles are reporting Autopilot computer overheating alerts — and, in some cases, outright computer failures. The r…",
@@ -121,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-03T15:17:37.000Z",
       "title": "SpaceX short interest overtakes Tesla ahead of earnings, lockup expiration",
       "body": "SpaceX short interest overtakes Tesla ahead of earnings, lockup expiration CNBC",
@@ -132,9 +132,22 @@
       "href": "https://www.cnbc.com/2026/08/03/spacex-short-interest-overtakes-tesla-ahead-of-earnings-lockup-expiration.html"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-08-03T15:10:56.000Z",
+      "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
+      "body": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride. The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-03T14:59:43.000Z",
       "title": "Tesla Model Y RWD 2026 Review: an entry-level trim with top-of-the-line technology",
       "body": "I drove the 2026 Model Y RWD (Standard) for about 550 km (342 miles) across a mix of highway, back roads, and city driving, and I enjoyed the efficiency and technology far more than the driving experience itself. For any…",
@@ -145,48 +158,9 @@
       "href": "https://electrek.co/2026/08/03/2026-tesla-model-y-rwd-review/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-08-03T14:50:32.000Z",
-      "title": "Tesla quietly made the Cybertruck even stronger",
-      "body": "Tesla has continued to flex the strength, rigidity, and robustness of its all-electric pickup, the Cybertruck. In fact, since 2019, Cybertruck’s ability to avoid dents, dings, and even gunfire has been one of the main se…",
-      "sourceName": "www.teslarati.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-quietly-made-cybertruck-even-stronger/"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-08-03T14:30:00.000Z",
-      "title": "Tesla Supercharger shooting sparks EV charging safety debate",
-      "body": "Tesla Supercharger shooting sparks EV charging safety debate Electrek",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/08/03/evject-tesla-supercharger-shooting-emergency-disconnect/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-08-03T14:22:59.000Z",
-      "title": "SpaceX’s Bumpy Ride on the Stock Market May Get Bumpier",
-      "body": "SpaceX’s Bumpy Ride on the Stock Market May Get Bumpier The New York Times",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-08-03T14:08:00.000Z",
       "title": "Tesla Stock Goes for 3 Gains in a Row as It Shrugs Off Safety Inquiry",
       "body": "Tesla Stock Goes for 3 Gains in a Row as It Shrugs Off Safety Inquiry Barron's",
@@ -199,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-08-03T12:29:31.000Z",
       "title": "Here are Monday's biggest analyst calls: SpaceX, Nvidia, Tesla, Applied Materials, Circle, Corning, GE Vernova & more",
       "body": "Here are Monday's biggest analyst calls: SpaceX, Nvidia, Tesla, Applied Materials, Circle, Corning, GE Vernova & more CNBC",
@@ -212,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-08-03T12:10:19.000Z",
       "title": "SpaceX's first results put Musk's AI spending under Wall Street microscope",
       "body": "SpaceX's first results put Musk's AI spending under Wall Street microscope Reuters",
@@ -225,7 +199,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
+      "time": "9h ago",
       "pubDate": "2026-08-03T12:00:01.000Z",
       "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
       "body": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report CNBC",
@@ -238,7 +212,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "14h ago",
       "pubDate": "2026-08-03T07:00:18.000Z",
       "title": "Tesla 지원 프로그램 전기차 보조금 변동으로 인한 불확실성을 줄이고 고객께 차량을 더 안정적으로 인도할 수 있도록, Tesla에서 국고 보조금에 준하는 자체 지원금을 제공할 예정입니다. 📌지원 대상: 보조…",
       "body": "Tesla 지원 프로그램 전기차 보조금 변동으로 인한 불확실성을 줄이고 고객께 차량을 더 안정적으로 인도할 수 있도록, Tesla에서 국고 보조금에 준하는 자체 지원금을 제공할 예정입니다. 📌지원 대상: 보조금 마감 후 추경 예정이 없는 지역 거주자 🗓️기간: 2026년 9월 30일 이내 인도 시 적용 https://t.co/VxX35WirUR",
@@ -251,7 +225,20 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20h ago",
+      "time": "19h ago",
+      "pubDate": "2026-08-03T01:41:07.000Z",
+      "title": "How does Tesla ‘Ludicrous Speed’ work?",
+      "body": "How does Tesla ‘Ludicrous Speed’ work? Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-ludicrous-inconel-superalloy/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "22h ago",
       "pubDate": "2026-08-02T23:35:00.000Z",
       "title": "Tesla Full Self-Driving v14.3.7 early review: FSD saved me from an accident",
       "body": "Tesla Full Self-Driving v14.3.7 early review: FSD saved me from an accident Teslarati",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "413d ago",
+      "pubDate": "2025-06-17T07:00:00.000Z",
+      "title": "Tesla stock slips after report EV maker is pausing Cybertruck and Model Y production",
+      "body": "Tesla stock slips after report EV maker is pausing Cybertruck and Model Y production CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/2025/06/17/tesla-stock-cybertruck-model-y.html"
     }
   ]
 }
