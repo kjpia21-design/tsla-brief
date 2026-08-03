@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-08-03T12:56:10.000Z",
+      "title": "스티펠(Stifel), 테슬라 목표주가 <em>508→491달러로 하향</em> — '매수' 의견은 유지",
+      "hotShort": "스티펠, 테슬라 목표주가 <em>491달러로 하향</em> — 매수 유지",
+      "body": "스티펠(Stifel Nicolaus)의 스티븐 겐가로 애널리스트가 테슬라 목표주가를 508달러에서 491달러로 낮췄다 — 마진·EBITDA 약세를 반영한 하향이지만, FSD·로보택시·수요 진전을 근거로 '매수' 의견은 그대로 유지했다.",
+      "sourceName": "Finbold",
+      "sourceLabel": "press",
+      "slug": "stock-stifel-price-target-cut-2026-08-03",
+      "summary": "스티펠(Stifel Nicolaus)의 애널리스트 스티븐 겐가로가 8월3일 테슬라에 대한 노트를 내고, 12개월 목표주가를 기존 508달러에서 491달러로 3.3% 낮췄다. 다만 투자의견은 '매수(Buy)'를 그대로 유지했다.\n\n겐가로는 스스로의 입장을 \"신중한 낙관(cautiously positive)\"으로 표현했다 — FSD·로보택시 진전과 수요 흐름은 여전히 긍정적으로 평가하면서도, 최근 마진·EBITDA 약세를 반영해 목표주가를 소폭 하향했다는 설명이다.\n\n하향 이후에도 목표주가(491달러)는 보고 시점 테슬라 주가(311.21달러) 대비 약 57.8%의 상승 여력을 시사한다 — 목표주가는 낮아졌지만 여전히 현재가 대비 큰 폭의 프리미엄을 두고 있다는 뜻이다.\n\n티프랭크스(TipRanks) 집계 기준 28명 애널리스트의 평균 12개월 목표주가는 382.65달러(현재가 대비 약 23% 상승 여력)로, 스티펠의 491달러는 시장 컨센서스보다 훨씬 낙관적인 축에 속한다. 목표주가 스펙트럼은 최고 600달러에서 최저 25.28달러까지 넓게 퍼져 있어, 테슬라를 둘러싼 애널리스트 간 시각차가 여전히 크다는 점을 보여준다.",
+      "title_en": "Stifel cuts Tesla price target <em>from $508 to $491</em>, keeps Buy rating",
+      "hotShort_en": "Stifel trims Tesla target to <em>$491</em>, stays Buy",
+      "body_en": "Stifel Nicolaus analyst Stephen Gengaro cut his Tesla price target from $508 to $491, citing softer margins and EBITDA — but kept his Buy rating, still pointing to progress on FSD, Robotaxi, and demand.",
+      "summary_en": "Stifel Nicolaus analyst Stephen Gengaro issued a note on Aug. 3 trimming his 12-month Tesla price target 3.3%, from $508 to $491, while maintaining his Buy rating.\n\nGengaro described his stance as \"cautiously positive\" — he still points to progress on FSD, Robotaxi, and demand as positives, but the target cut reflects recent margin and EBITDA weakness.\n\nEven after the cut, the $491 target implies roughly 57.8% upside from Tesla's $311.21 share price at the time of the report — still a steep premium to the current price.\n\nBy comparison, the average 12-month target among 28 analysts tracked by TipRanks is $382.65 (about 23% upside), meaning Stifel's $491 sits well above consensus. Targets range from a high of $600 to a low of $25.28, underscoring how divided Wall Street remains on Tesla.",
+      "href": "https://finbold.com/wall-street-sets-tesla-stock-price-for-the-next-12-months-12/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Finbold",
+        "MarketScreener"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
@@ -28,27 +53,22 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-08-03T10:02:26.000Z",
-      "title": "아이다호 슈퍼차저 총격 생존 — 오너들 \"<em>충전 중 긴급 탈출 기능</em> 필요\"",
-      "hotShort": "슈퍼차저 총격 생존 — <em>긴급 탈출 기능</em> 요구",
-      "body": "아이다호 트윈폴스의 테슬라 슈퍼차저 겸용 인앤아웃 매장에서 총격 사건이 발생해 충전 중이던 모델Y 운전자가 총상을 입고도 생존했다 — 슈퍼차저 케이블이 충전 중 잠겨 차량이 움직일 수 없다는 점이 알려지며, 위급 상황에 즉시 이탈할 수 있는 긴급 잠금해제 기능이 필요하다는 오너들의 목소리가 커지고 있다.",
-      "sourceName": "Tesla Oracle",
-      "sourceLabel": "press",
-      "slug": "product-twinfalls-supercharger-shooting-2026-08-03",
-      "summary": "지난 1일(현지시간) 아이다호주 트윈폴스의 한 인앤아웃 버거 매장 주차장에서 총격 사건이 발생했다. 이 매장에는 테슬라 슈퍼차저가 설치돼 있었고, 마침 충전 중이던 모델Y 차량의 운전석에 총알이 관통해 운전자가 부상을 입었다 — 생명에는 지장이 없는 것으로 전해졌다.\n\n사건 직후 오너 커뮤니티가 주목한 지점은 차량의 충전 설계였다. 테슬라를 비롯한 대부분 전기차는 슈퍼차저 케이블이 충전 포트에 물려 있는 동안 주행이 잠기도록 돼 있어, 위급 상황에서도 케이블을 뽑지 않는 한 그 자리를 벗어날 수 없다.\n\n이 때문에 오너들 사이에서는 이번 사건을 계기로 위급 상황 시 충전 케이블을 즉시 강제 해제해 차량이 곧바로 출발할 수 있게 하는 \"긴급 탈출\" 기능이 필요하다는 요구가 나오고 있다. 다만 이는 아직 오너 커뮤니티의 제안 단계이며, 테슬라의 공식 대응이나 개발 계획은 확인되지 않았다.\n\nIBTimes UK 등 외신도 이번 사건을 계기로 슈퍼차저 충전 중 발생할 수 있는 \"숨겨진 안전 취약점\"을 지적하고 나섰다.",
-      "title_en": "Idaho Supercharger shooting survivor spurs calls for <em>emergency release feature</em>",
-      "hotShort_en": "Supercharger shooting survivor — owners want <em>quick-release</em>",
-      "body_en": "A shooting at an In-N-Out Burger parking lot in Twin Falls, Idaho — which shares a Tesla Supercharger station — left a Model Y driver wounded but alive while the car was charging; the incident spotlighted the fact that a locked charging cable prevents a Tesla from driving away in an emergency, fueling owner calls for a quick-release feature.",
-      "summary_en": "A shooting broke out on Aug. 1 in the parking lot of an In-N-Out Burger in Twin Falls, Idaho, that shares a site with a Tesla Supercharger station. A bullet struck the driver's seat of a Model Y that was charging at the time, wounding the driver, who is reported to have survived.\n\nThe incident drew attention to a design quirk shared by most EVs, including Tesla's: while a Supercharger cable is locked into the charge port, the car cannot be driven away until the cable is unplugged.\n\nThat has fueled calls within the owner community for an \"emergency escape\" feature that would let a driver force-release the cable and pull away immediately in a life-threatening situation. The idea remains at the community-proposal stage, however, with no confirmed response or development plan from Tesla.\n\nOutlets including IBTimes UK also flagged the incident as exposing a \"hidden safety vulnerability\" in Supercharger charging.",
-      "href": "https://www.teslaoracle.com/2026/08/03/tesla-driver-survives-in-twin-falls-shooting-owners-ask-for-emergency-charge-port-unlock-at-superchargers-to-flee-safely/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Tesla Oracle",
-        "IBTimes UK"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
+      "time": "9h ago",
+      "pubDate": "2026-08-03T07:00:18.000Z",
+      "title": "테슬라코리아, <em>보조금 공백 지역에 자체 지원금</em> 지급 — 9월30일 인도분까지",
+      "hotShort": "테슬라코리아, <em>자체 지원금</em>으로 보조금 공백 메운다",
+      "body": "테슬라코리아가 지자체 전기차 보조금이 소진돼 추가 편성 계획이 없는 지역 거주 고객에게, 국고 보조금에 준하는 자체 지원금을 9월30일까지 인도 차량에 한해 지급하기로 했다 — 보조금 변동에 따른 구매 불확실성을 회사가 직접 흡수하는 조치.",
+      "sourceName": "Tesla Korea (X)",
+      "sourceLabel": "official",
+      "slug": "product-tesla-korea-self-subsidy-2026-08-03",
+      "summary": "테슬라코리아가 8월3일 공식 X 계정을 통해 신규 지원 프로그램을 공지했다. 일부 지자체의 전기차 보조금이 소진된 뒤 연내 추가 편성(추경) 계획이 없는 지역에 거주하는 고객을 대상으로, 국고 보조금에 준하는 수준의 자체 지원금을 회사가 직접 지급한다는 내용이다.\n\n이는 최근 지자체별로 전기차 보조금 소진 시점이 들쭉날쭉해지면서 구매 시점에 따라 보조금 수혜 여부가 갈리는 문제를, 테슬라가 자체 재원으로 보완하려는 조치로 풀이된다 — 보조금 변동성 때문에 인도가 지연되거나 구매를 망설이는 고객을 줄이려는 목적이다.\n\n지원 대상은 \"보조금 마감 후 추경 예정이 없는 지역\" 거주자로 한정되며, 적용 기간은 2026년 9월30일 이내 차량을 인도받는 경우까지다. 구체적인 지원 금액이나 산정 기준은 이번 공지에 명시되지 않았다.\n\n전기차 보조금이 지자체 예산에 따라 소진 시점이 제각각인 국내 시장 특성상, 완성차 업체가 국고 보조금 공백을 자체 재원으로 메우는 사례는 이례적이다 — 테슬라가 국내 판매 모멘텀을 유지하기 위해 어느 정도의 비용 부담을 감수하고 있음을 보여준다.",
+      "title_en": "Tesla Korea offers <em>self-funded subsidy</em> to fill gaps left by exhausted local EV incentives",
+      "hotShort_en": "Tesla Korea rolls out <em>self-funded EV subsidy</em>",
+      "body_en": "Tesla Korea announced it will pay customers in regions where local government EV subsidies have run out — with no supplemental budget planned this year — a self-funded incentive matching the national subsidy, for vehicles delivered by Sept. 30, 2026, absorbing the uncertainty from fluctuating subsidy budgets itself.",
+      "summary_en": "Tesla Korea announced the new program via its official X account on Aug. 3. Customers living in regions where local EV subsidies have been exhausted, with no supplemental budget planned for the rest of the year, will receive a self-funded incentive from Tesla matching the level of the national subsidy.\n\nThe move appears aimed at smoothing over a growing headache in Korea's EV market: local subsidy budgets run dry at different times across regions, so whether a buyer qualifies for support can hinge on timing alone. By covering the gap itself, Tesla is looking to reduce delivery delays or hesitation among buyers caught in subsidy-less regions.\n\nEligibility is limited to buyers in areas with no planned supplemental subsidy budget, and the offer applies only to vehicles delivered by Sept. 30, 2026. Tesla's announcement did not specify the exact subsidy amount or how it will be calculated.\n\nBecause South Korea's regional EV subsidies run out at different times depending on local budgets, an automaker covering the resulting gap out of its own pocket is unusual — a sign Tesla is willing to absorb some cost to keep sales momentum going domestically.",
+      "href": "https://x.com/tesla_korea/status/2084172489295528004",
+      "sentiment": "bull",
+      "hot": 4
     },
     {
       "category": "fsd",
@@ -94,26 +114,6 @@
       "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident/",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-08-02T12:00:00.000Z",
-      "title": "제프리스 ESG 총괄 \"SpaceX 거버넌스 비판, <em>지나치게 단순한 시각</em>\"",
-      "hotShort": "제프리스, SpaceX 비판론에 <em>\"단순한 시각\"</em> 반박",
-      "body": "제프리스의 지속가능성·전환전략 글로벌 총괄 Aniket Shah가 일론 머스크의 SpaceX 장악력을 이유로 투자를 꺼리는 시각에 대해 \"거버넌스를 틀에 가두려는 태도는 지나치게 단순하고 데이터를 보지 않는 것\"이라고 반박했다 — 8/4 SpaceX 첫 실적발표·8/6 락업 해제를 사흘 앞두고 대형 IB 애널리스트가 거버넌스 논쟁에 공개적으로 가세한 드문 사례다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-jefferies-spacex-governance-2026-08-02",
-      "summary": "SpaceX의 지배구조를 둘러싼 투자자들의 우려가 최근 급증한 공매도(테슬라 공매도 금액을 앞지른 $246억 규모)와 맞물려 커지는 가운데, 대형 투자은행 애널리스트가 이례적으로 공개 반박에 나섰다.\n\n제프리스에서 지속가능성·전환전략을 총괄하는 Aniket Shah는 블룸버그와의 인터뷰에서, 머스크의 압도적 지배력을 이유로 SpaceX 투자를 꺼리는 시각을 겨냥해 \"거버넌스를 어떤 틀에 가두려는 태도는 지나치게 단순한 접근이고, 솔직히 말해 데이터를 보지 않는 것\"이라고 말했다. 그는 경직된 거버넌스 잣대를 그대로 적용하면 SpaceX의 장기 수익 잠재력을 놓칠 수 있다고 지적했다.\n\nSpaceX는 일론 머스크가 최대주주 겸 CEO로서 이사회와 경영 전반에 강한 영향력을 행사하는 구조로, 6월 상장 이후 일부 기관투자자 사이에서 이런 지배구조 자체가 리스크라는 지적이 꾸준히 제기돼왔다.\n\n이 발언은 8/4 SpaceX의 상장 후 첫 분기 실적발표와 8/6 첫 락업 해제를 앞둔 시점에 나왔다는 점에서 주목된다 — 같은 기간 SpaceX 공매도 잔고가 테슬라를 앞질렀다는 최근 보도와 맞물려, 거버넌스 논쟁이 두 이벤트를 앞둔 투자심리에 영향을 줄 수 있는 변수로 떠올랐다. 다만 이는 제프리스 소속 애널리스트 개인의 의견 표명으로, 특정 매수·매도 의견이나 목표주가 제시는 아니다.",
-      "title_en": "Jefferies sustainability chief calls SpaceX governance critics <em>\"too simple-minded\"</em>",
-      "hotShort_en": "Jefferies exec: SpaceX critics <em>\"too simple-minded\"</em>",
-      "body_en": "Aniket Shah, Jefferies' global head of sustainability and transition strategy, pushed back on investors who avoid SpaceX over Elon Musk's outsized control, saying attempts to \"put governance into some kind of straitjacket\" are \"too simple-minded and, frankly speaking, not looking at data\" — a rare case of a major investment bank analyst weighing publicly into the SpaceX governance debate just three days before its Aug. 4 first earnings report and Aug. 6 lockup expiration.",
-      "summary_en": "Investor concern over SpaceX's governance structure has been building alongside a surge in short interest — a $24.6 billion bearish bet that recently overtook short positions against Tesla itself — and a major investment bank analyst has now pushed back publicly.\n\nAniket Shah, who leads sustainability and transition strategy at Jefferies, told Bloomberg that critics who avoid SpaceX because of Musk's outsized control are taking too rigid a view: \"people who try to put governance into some kind of straitjacket are too simple-minded and, frankly speaking, not looking at data.\" He argued that applying strict governance standards mechanically risks missing SpaceX's long-term return potential.\n\nSpaceX is structured so that Musk, as largest shareholder and CEO, exerts outsized influence over the board and broader management — a setup that some institutional investors have flagged as a governance risk since the company's June IPO.\n\nThe comments land just ahead of two closely watched catalysts: SpaceX's first quarterly earnings report as a public company on Aug. 4, and its first post-IPO lockup expiration on Aug. 6 — the same window in which SpaceX's short interest was recently reported to have overtaken Tesla's. Shah's remarks reflect his own view as an analyst, not a specific buy/sell call or price target.",
-      "href": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance",
-      "sentiment": "neutral",
-      "hot": 3
     },
     {
       "category": "fsd",
@@ -194,5 +194,5 @@
       "hot": 7
     }
   ],
-  "asOf": "2026-08-03 20:09 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-04 00:30 KST 자동 갱신 · 최신순"
 }
