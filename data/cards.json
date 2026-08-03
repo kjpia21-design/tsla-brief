@@ -28,7 +28,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-08-03T11:02:01.000Z",
       "title": "블룸버그 \"SpaceX 투자자들, 실적콜서 <em>테슬라 합병 가능성</em> 캐물을 준비\"",
       "hotShort": "SpaceX 투자자들 <em>테슬라 합병설</em> 캐물을 채비",
@@ -53,7 +53,32 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "5h ago",
+      "pubDate": "2026-08-03T10:02:26.000Z",
+      "title": "아이다호 슈퍼차저 총격 생존 — 오너들 \"<em>충전 중 긴급 탈출 기능</em> 필요\"",
+      "hotShort": "슈퍼차저 총격 생존 — <em>긴급 탈출 기능</em> 요구",
+      "body": "아이다호 트윈폴스의 테슬라 슈퍼차저 겸용 인앤아웃 매장에서 총격 사건이 발생해 충전 중이던 모델Y 운전자가 총상을 입고도 생존했다 — 슈퍼차저 케이블이 충전 중 잠겨 차량이 움직일 수 없다는 점이 알려지며, 위급 상황에 즉시 이탈할 수 있는 긴급 잠금해제 기능이 필요하다는 오너들의 목소리가 커지고 있다.",
+      "sourceName": "Tesla Oracle",
+      "sourceLabel": "press",
+      "slug": "product-twinfalls-supercharger-shooting-2026-08-03",
+      "summary": "지난 1일(현지시간) 아이다호주 트윈폴스의 한 인앤아웃 버거 매장 주차장에서 총격 사건이 발생했다. 이 매장에는 테슬라 슈퍼차저가 설치돼 있었고, 마침 충전 중이던 모델Y 차량의 운전석에 총알이 관통해 운전자가 부상을 입었다 — 생명에는 지장이 없는 것으로 전해졌다.\n\n사건 직후 오너 커뮤니티가 주목한 지점은 차량의 충전 설계였다. 테슬라를 비롯한 대부분 전기차는 슈퍼차저 케이블이 충전 포트에 물려 있는 동안 주행이 잠기도록 돼 있어, 위급 상황에서도 케이블을 뽑지 않는 한 그 자리를 벗어날 수 없다.\n\n이 때문에 오너들 사이에서는 이번 사건을 계기로 위급 상황 시 충전 케이블을 즉시 강제 해제해 차량이 곧바로 출발할 수 있게 하는 \"긴급 탈출\" 기능이 필요하다는 요구가 나오고 있다. 다만 이는 아직 오너 커뮤니티의 제안 단계이며, 테슬라의 공식 대응이나 개발 계획은 확인되지 않았다.\n\nIBTimes UK 등 외신도 이번 사건을 계기로 슈퍼차저 충전 중 발생할 수 있는 \"숨겨진 안전 취약점\"을 지적하고 나섰다.",
+      "title_en": "Idaho Supercharger shooting survivor spurs calls for <em>emergency release feature</em>",
+      "hotShort_en": "Supercharger shooting survivor — owners want <em>quick-release</em>",
+      "body_en": "A shooting at an In-N-Out Burger parking lot in Twin Falls, Idaho — which shares a Tesla Supercharger station — left a Model Y driver wounded but alive while the car was charging; the incident spotlighted the fact that a locked charging cable prevents a Tesla from driving away in an emergency, fueling owner calls for a quick-release feature.",
+      "summary_en": "A shooting broke out on Aug. 1 in the parking lot of an In-N-Out Burger in Twin Falls, Idaho, that shares a site with a Tesla Supercharger station. A bullet struck the driver's seat of a Model Y that was charging at the time, wounding the driver, who is reported to have survived.\n\nThe incident drew attention to a design quirk shared by most EVs, including Tesla's: while a Supercharger cable is locked into the charge port, the car cannot be driven away until the cable is unplugged.\n\nThat has fueled calls within the owner community for an \"emergency escape\" feature that would let a driver force-release the cable and pull away immediately in a life-threatening situation. The idea remains at the community-proposal stage, however, with no confirmed response or development plan from Tesla.\n\nOutlets including IBTimes UK also flagged the incident as exposing a \"hidden safety vulnerability\" in Supercharger charging.",
+      "href": "https://www.teslaoracle.com/2026/08/03/tesla-driver-survives-in-twin-falls-shooting-owners-ask-for-emergency-charge-port-unlock-at-superchargers-to-flee-safely/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Tesla Oracle",
+        "IBTimes UK"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "8h ago",
       "pubDate": "2026-08-03T07:00:18.000Z",
       "title": "테슬라코리아, <em>보조금 공백 지역에 자체 지원금</em> 지급 — 9월30일 인도분까지",
       "hotShort": "테슬라코리아, <em>자체 지원금</em>으로 보조금 공백 메운다",
@@ -73,32 +98,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-08-03T06:45:03.000Z",
-      "title": "로스 거버 \"테슬라 FSD, 응급차량 지나칠 때 <em>사고 날 뻔했다</em>\"",
-      "hotShort": "로스 거버 \"FSD, 응급차량 지나치다 <em>사고 날 뻔</em>\"",
-      "body": "테슬라 주주이자 대표적 FSD 비판론자인 로스 거버(Gerber Kawasaki CEO)가 자신의 차량 FSD가 응급차량을 지나칠 때 급제동해 사고가 날 뻔했다고 주장 — \"여전히 심각한 문제가 있다\"고 지적하며, 같은 주 나온 테슬라라티의 호평 리뷰와 상반된 목소리를 냈다.",
-      "sourceName": "Benzinga",
-      "sourceLabel": "press",
-      "slug": "fsd-ross-gerber-emergency-vehicle-near-miss-2026-08-03",
-      "summary": "로스 거버는 Gerber Kawasaki 최고경영자로, 테슬라 주주이자 대표적인 FSD 비판론자로 알려져 있다. 그가 이번에 제기한 주장은 최신 FSD가 응급차량을 지나치는 상황에서 급제동해 사고 위험을 초래했다는 것이다.\n\n그는 이 상황을 \"여전히 심각한 문제가 있다(Still Has Major Issues)\"고 표현하며 FSD의 응급 상황 대응 능력에 의문을 제기했다. 해당 주장은 Benzinga·inkl 등 매체를 통해 보도됐다.\n\n공교롭게도 같은 주 테슬라라티는 FSD v14.3.7 실주행 리뷰에서 \"FSD가 사고를 막아줬다\"는 정반대 경험을 전한 바 있다 — 같은 버전을 둘러싸고 엇갈린 실사용 평가가 나오면서, FSD 안정성에 대한 투자자들의 판단은 당분간 갈릴 전망이다.",
-      "title_en": "Ross Gerber: Tesla FSD <em>nearly caused a crash</em> passing emergency vehicles",
-      "hotShort_en": "Gerber: FSD <em>nearly crashed</em> passing emergency vehicles",
-      "body_en": "Prominent Tesla shareholder and FSD critic Ross Gerber (CEO, Gerber Kawasaki) says his car's FSD slammed the brakes while passing emergency vehicles, nearly causing an accident — he says the software \"still has major issues,\" a sharp contrast to Teslarati's largely positive v14.3.7 review the same week.",
-      "summary_en": "Ross Gerber, CEO of Gerber Kawasaki and a well-known Tesla shareholder and FSD critic, said his vehicle's Full Self-Driving nearly caused a crash while passing emergency vehicles on the road.\n\nGerber described the software as \"still has major issues,\" raising fresh questions about how FSD handles emergency-vehicle encounters. The claim was reported by Benzinga and inkl.\n\nThe account arrives just as Teslarati published a largely positive early review of FSD v14.3.7, saying the software \"saved\" the reviewer from an accident — leaving investors with conflicting real-world signals on the same release.",
-      "href": "https://www.benzinga.com/markets/tech/26/08/60863775/ross-gerber-says-teslas-fsd-almost-caused-an-accident-while-passing-emergency-vehicles-still-has-major-issues",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Benzinga",
-        "inkl"
-      ],
-      "sentiment": "bear",
-      "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "16h ago",
       "pubDate": "2026-08-02T23:35:00.000Z",
       "title": "테슬라라티 FSD v14.3.7 실주행 리뷰 — <em>사고 막아준 순간</em> 포착",
       "hotShort": "FSD v14.3.7 리뷰 — <em>사고 막아준 순간</em> 포착",
@@ -118,7 +118,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "2d ago",
       "pubDate": "2026-07-31T20:15:00.000Z",
       "title": "美 이사콰(Issaquah)서 테슬라 FSD 반대차선 침범 사고 — <em>차체 후미 3분의 1 절단</em>, 부상자 없어",
       "hotShort": "테슬라 FSD 반대차선 침범 — <em>후미 3분의 1 절단</em>",
@@ -143,7 +143,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "2d ago",
       "pubDate": "2026-07-31T17:08:12.000Z",
       "title": "스페이스X 공매도 <em>테슬라 앞질러</em> $246억 — 8/4 실적·8/6 락업 겹악재",
       "hotShort": "스페이스X 공매도 <em>테슬라 추월</em> — 실적·락업 대기",
@@ -169,7 +169,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "3d ago",
       "pubDate": "2026-07-31T11:00:00.000Z",
       "title": "美 NHTSA, 테슬라 <em>서스펜션 결함 예비조사</em> 착수 — 모델3·Y 120만 대",
       "hotShort": "NHTSA, 테슬라 <em>서스펜션 결함</em> 예비조사 착수",
@@ -194,5 +194,5 @@
       "hot": 7
     }
   ],
-  "asOf": "2026-08-04 00:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-04 01:00 KST 자동 갱신 · 최신순"
 }
