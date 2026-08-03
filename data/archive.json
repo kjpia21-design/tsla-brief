@@ -21,6 +21,26 @@
       "hot": 3
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "17h ago",
+      "pubDate": "2026-08-02T09:57:39.000Z",
+      "title": "스페이스X 스타링크 위성이 <em>스타십 분리 장면 직접 촬영</em> — 13차 시험비행 영상 공개",
+      "hotShort": "스타링크 위성이 <em>스타십 분리</em> 직접 촬영",
+      "body": "스페이스X가 7/24 13차 스타십 시험비행에서 처음 배치한 기능형 스타링크 V3 위성이 촬영한 65초 영상을 공개했다 — 위성에 달린 카메라 4대가 스타십 상단부(171피트)와 분리되는 순간을 담았다. 이번 비행에서 배치한 V3 위성 20기 중 6기는 스타십 재진입 시 내열 타일 상태를 촬영하는 임무도 겸해, 화물(카고)이 로켓 안전성 검증까지 돕는 이례적 사례다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-starship-satellite-films-separation-2026-08-02",
+      "summary": "스페이스X가 자사 X 계정에 65초 분량의 영상을 게시했다 — 스타십에서 막 분리된 스타링크 V3 위성이, 되레 카메라로 스타십을 촬영해 멀어지는 로켓의 모습을 담은 독특한 앵글이다.\n\n영상은 지난 7월24일 스타베이스에서 발사된 스타십 13차 시험비행(Flight 13) 도중 촬영됐다. 이 비행은 앞서 엔진 이상으로 발사가 한 차례 취소된 지 일주일 만에 재도전한 것이었다.\n\n13차 비행에서 스타십은 기능하는 스타링크 V3 위성 20기를 처음으로 배치했다 — 이 중 6기는 별도 카메라를 달아 스타십의 내열 타일이 대기권 재진입 시 어떻게 견디는지 촬영하는 임무를 함께 수행했다.\n\n이번 영상은 그 6기 중 하나가 촬영한 것으로 보이며, 위성 4대의 카메라 화면을 이어붙여 스타십 상단부가 햇빛을 받으며 멀어지는 장면부터 두 우주선이 분리되는 순간까지 담았다.",
+      "title_en": "SpaceX's own <em>deployed satellite films Starship</em> separating in orbit",
+      "hotShort_en": "Starlink satellite <em>films Starship separation</em>",
+      "body_en": "SpaceX released a 65-second video shot by one of the functional Starlink V3 satellites it deployed during Starship's 13th flight test on July 24 — four cameras on the satellite captured the moment it separated from Starship's 171-foot upper stage. Six of the 20 V3 satellites deployed on that flight double as heat-shield cameras for reentry, an unusual case of the payload itself helping verify the rocket's safety.",
+      "summary_en": "SpaceX posted a 65-second clip on its X account showing an unusual angle — a Starlink V3 satellite that had just separated from Starship turning its own cameras back on the rocket as it drifted away.\n\nThe footage was captured during Starship's 13th flight test, which launched from Starbase on July 24 — a week after a prior attempt was scrubbed and then aborted due to an engine issue.\n\nFlight 13 marked the first time Starship deployed functional Starlink V3 satellites, releasing 20 of them. Six were fitted with extra cameras tasked with recording how the ship's heat shield holds up during atmospheric reentry.\n\nThe newly released clip appears to be from one of those six satellites, stitching together views from its four cameras — starting with a close shot of Starship's sunlit 171-foot upper stage before pulling back to show the moment the two spacecraft separated.",
+      "href": "https://www.teslarati.com/spacexs-starship-just-got-filmed-by-its-own-cargo/",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "8m ago",
@@ -2314,27 +2334,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-20T20:01:16.000Z",
-      "title": "Electrek 에디터, FSD 표준모드로 <em>78km/h 과속 딱지</em> — 되레 속도조절 기능은 삭제",
-      "hotShort": "FSD 표준모드서 <em>78km/h 과속</em> 딱지 발부",
-      "body": "Electrek 에디터가 FSD 표준(Standard) 모드로 주행하다 제한속도 50km/h 구간에서 <em>시속 78km/h까지 가속</em>해 경찰에게 과속 딱지를 받았다 — 테슬라가 작년 10월 FSD v14 출시 때 운전자가 직접 속도 여유치를 설정하던 기능을 없애고 5단계 프리셋으로 바꾼 게 화근이라, FSD 책임소재 논란에 다시 불을 지폈다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-speeding-ticket-removed-speed-offset-2026-07-20",
-      "summary": "Electrek 에디터가 최근 주말 FSD(완전자율주행) 표준모드로 주행하던 중 제한속도 <em>50km/h</em> 구간에서 차량이 <em>78km/h</em>까지 가속했고, 반대 방향에서 오던 경찰관에게 속도위반이 적발돼 딱지를 받았다고 밝혔다.\n\n문제의 발단은 작년 10월 FSD v14 출시 당시 테슬라가 단행한 변경이다. 그전까지는 운전자가 원하는 속도 여유치(예: 제한속도+15km/h)를 직접 설정할 수 있었지만, v14부터는 이 커스텀 설정이 사라지고 슬로스(Sloth)·칠(Chill)·스탠다드(Standard)·허리(Hurry)·매드맥스(Mad Max) 5단계 사전설정 프로필로 대체됐다.\n\n에디터는 평소 원하는 속도에 가장 가깝다고 느껴 스탠다드 모드를 주로 쓴다고 설명했다 — 과거처럼 여유치를 15km/h로 직접 낮춰 설정할 수 있었다면 해당 구간에서 차량이 약 65km/h 선에서 스스로 속도를 제한해 딱지를 피할 수 있었을 것이라는 게 그의 주장이다.\n\n이 사례는 사소한 해프닝처럼 보이지만, 테슬라 주주 입장에선 FSD의 과속·법규위반 시 책임 소재 논란과 직결된다. 22일 2분기 실적콜을 앞두고 로보택시·FSD 안전성에 대한 투자자 질의가 예상되는 가운데, 운전자 맞춤 안전장치를 없앤 결정이 오히려 위반 위험을 키웠다는 지적은 테슬라의 자율주행 로드맵에 또 다른 잡음거리가 될 수 있다.",
-      "title_en": "Electrek editor gets <em>speeding ticket in FSD Standard mode</em> — after Tesla killed the speed-offset setting",
-      "hotShort_en": "FSD Standard mode nets <em>78 km/h ticket</em>",
-      "body_en": "An Electrek editor got a speeding ticket while driving in FSD's Standard mode, which accelerated to <em>78 km/h in a 50 km/h zone</em> — the culprit, they say, is Tesla's October rollout of FSD v14, which replaced a customizable speed-offset setting with five preset profiles, reviving questions about who's responsible when FSD breaks the law.",
-      "summary_en": "An Electrek editor said they got a speeding ticket after their Tesla, driving itself in FSD's Standard mode, accelerated to <em>78 km/h</em> in a <em>50 km/h</em> zone — clocked by a police officer coming the other way.\n\nThe root cause traces back to Tesla's October rollout of FSD v14. Before that update, drivers could set their own speed offset above the posted limit (for example, +15 km/h); v14 removed that custom control and replaced it with five preset driving profiles: Sloth, Chill, Standard, Hurry, and Mad Max.\n\nThe editor said Standard mode is usually closest to their preferred speed, but noted that if they could still dial in a custom 15 km/h offset as before, the car would have capped itself around 65 km/h on that stretch of road and likely avoided the ticket.\n\nThe incident is a small one, but for Tesla shareholders it ties directly into the unresolved question of who bears liability when FSD violates traffic law. With Tesla's Q2 earnings call two days away and Robotaxi/FSD safety likely to come up, a decision that removed a driver-side safety control — arguably increasing violation risk — adds fresh noise to the autonomy roadmap.",
-      "href": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-08-03 00:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-03 12:05 KST 자동 갱신 · 최신순"
 }
