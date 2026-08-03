@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-28T15:10:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "stock-erases-year-of-gains-175x-valuation-2026-07-27",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — Barron's",
-            "조언톤 위반 없음 — 아이브스 목표주가는 3자 인용",
-            "단정 전환 없음",
-            "숫자 대조: 175x/24x·EPS $0.33·인도 480,126대·주간 -18% 모두 교차검증(WebSearch, Barron's 원문은 paywall 403으로 직접 열람 불가·간접검증)",
-            "href-본문 일치: 매체 헤드라인/주제 일치 확인, 정확 URL slug만 paywall로 미확인"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-28T10:45:00.000Z",
       "mode": "shadow",
       "checked": 3,
@@ -845,6 +826,26 @@
             "추측→단정 전환 없음 — 원문에 hedge 표현 자체가 없고(사실 보도), 카드도 단정형 유지",
             "숫자·고유명사 대조: 65초 영상·카메라 4대·스타링크 V3 위성 1기·상단부 171피트·13차 시험비행(7/24 스타베이스 발사, 직전 주 엔진 이상으로 발사 중단 후 재도전)·V3 위성 20기 중 6기가 내열 타일 촬영용 카메라 탑재 — 모두 WebSearch로 확인한 원문 사실과 일치",
             "href-본문 일치 — Teslarati 기사(spacexs-starship-just-got-filmed-by-its-own-cargo)와 카드 내용 동일 사건",
+            "verify-error: Teslarati 원문 WebFetch 403 차단 — WebSearch 스니펫으로 대체 검증, fail-open 원칙에 따라 pass 처리"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-03T05:07:29.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-v1437-review-saved-accident-2026-08-02",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Teslarati, FSD 버전별 실주행 리뷰를 전문으로 다루는 매체의 자체 시승 리뷰",
+            "조언톤 위반 없음 — 매수·매도·목표가 언급 없음",
+            "추측→단정 전환 없음 — '리뷰어 1인의 체험담' 한계를 body·summary에 명시해 과잉 일반화 방지, 원문에 없는 통계적 안전성 주장을 추가하지 않음",
+            "숫자 대조: 40분 만에 사고 회피(도지 차저 운전자 부주의 끼어들기)·약 90마일 주행·v14.3.6 대비 급제동/핸들떨림 개선 — WebSearch로 확인한 원문 요지와 일치",
+            "href-본문 일치 — Teslarati 기사(tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident)와 카드 내용 동일 사건",
             "verify-error: Teslarati 원문 WebFetch 403 차단 — WebSearch 스니펫으로 대체 검증, fail-open 원칙에 따라 pass 처리"
           ]
         }

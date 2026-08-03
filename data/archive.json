@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "6h ago",
+      "pubDate": "2026-08-02T23:35:00.000Z",
+      "title": "테슬라라티 FSD v14.3.7 실주행 리뷰 — <em>사고 막아준 순간</em> 포착",
+      "hotShort": "FSD v14.3.7 리뷰 — <em>사고 막아준 순간</em> 포착",
+      "body": "테슬라라티 리뷰어가 FSD v14.3.7을 시험 주행한 지 40분 만에, 부주의하게 끼어든 차량과의 사고를 막아내는 장면을 목격했다고 밝혔다 — 앞선 v14.3.6에서 지적됐던 급제동·핸들 떨림 등 불안정한 움직임도 90마일 주행 동안 크게 개선됐다는 평가다. 다만 개별 리뷰어 1인의 체험 후기로, 공식 통계나 대규모 검증 데이터는 아니다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-v1437-review-saved-accident-2026-08-02",
+      "summary": "테슬라의 FSD는 버전마다 체감 성능이 요동치는 것으로 유명한데, 바로 직전 버전인 v14.3.6은 테슬라라티 자체 리뷰에서 \"뚜렷한 퇴보(regression)\"라는 혹평을 받은 바 있다.\n\n이런 배경에서 나온 v14.3.7 리뷰는 대조적이다. 리뷰어는 주행을 시작한 지 채 40분이 지나지 않아, 다른 차선에서 부주의하게 끼어들던 도지 차저 운전자와의 충돌을 차량이 스스로 피해내는 상황을 겪었다고 전했다.\n\n이후 약 90마일을 더 주행하는 동안, v14.3.6에서 반복됐던 급제동·핸들 떨림 같은 불안정하고 자신감 없는 움직임이 눈에 띄게 사라졌다고 리뷰어는 평가했다.\n\n다만 이는 테슬라 공식 통계나 다수 표본이 아닌 리뷰어 1인의 체험담이라는 한계가 있다. 그럼에도 HW3 차량으로 v14 라인업 확장이 진행 중인 시점에, 버전 간 성능 널뛰기 우려를 다소 누그러뜨리는 사례로 주목된다.",
+      "title_en": "Teslarati's FSD v14.3.7 test drive review — <em>car avoids a collision</em> within 40 minutes",
+      "hotShort_en": "FSD v14.3.7 review: <em>avoids a collision</em> early on",
+      "body_en": "A Teslarati reviewer said the car avoided a collision with a carelessly merging Dodge Charger driver within the first 40 minutes of testing FSD v14.3.7 — over roughly 90 miles, the brake-stabbing and wheel-jerking instability flagged in the prior v14.3.6 review was also markedly improved, the reviewer said. It's a single reviewer's account, not official statistics or large-scale validation data.",
+      "summary_en": "Tesla's FSD is known for swinging in perceived quality from version to version, and the immediately preceding release, v14.3.6, drew a harsh verdict in Teslarati's own review — a \"rare regression.\"\n\nAgainst that backdrop, the v14.3.7 review reads very differently. The reviewer said that within the first 40 minutes of driving, the car avoided a collision on its own when a Dodge Charger driver merged carelessly into its lane.\n\nOver the roughly 90 miles that followed, the reviewer said the hesitant, uncertain behavior that plagued v14.3.6 — brake-stabbing, wheel-jerking — was noticeably gone.\n\nThe caveat is that this is one reviewer's account, not Tesla's official statistics or a large sample. Still, with HW3 vehicles in the middle of the v14 rollout, it's a data point that tempers concern about version-to-version whiplash in FSD performance.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "3h ago",
@@ -2309,32 +2329,7 @@
       "href": "https://x.com/SawyerMerritt/status/2079456653527712173",
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "just now",
-      "pubDate": "2026-07-21T01:40:12.000Z",
-      "title": "일론 머스크, 스페이스X 공매도 세력에 <em>\"생존 확률 매우 낮다\"</em> 첫 경고",
-      "hotShort": "머스크, 스페이스X 숏 세력에 <em>\"생존 확률 낮다\"</em> 경고",
-      "body": "일론 머스크가 X에서 스페이스X에 대규모 숏 포지션을 유지하는 세력에 대해 <em>\"생존 확률은 매우 낮다\"</em>고 직접 경고했다 — 지난달 사상 최대 규모로 상장한 스페이스X 주가가 공모가 아래로 떨어지며 공매도 세력이 장부상 큰 이익을 낸 가운데, 테슬라 때처럼 머스크가 베어(약세론자)를 정면으로 겨냥한 발언이어서 주목된다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-short-seller-warning-2026-07-21",
-      "summary": "스페이스X는 지난 6월 역대 최대 규모 IPO로 상장했지만, 상장 한 달여 만에 주가가 공모가 아래로 떨어지면서 공매도 세력 사이 화제가 되고 있다.\n\n일론 머스크는 X에서 한 이용자의 댓글에 답하며 <em>\"The survival probability of firms who maintain a significant short position in SpaceX over time is very low\"</em>(스페이스X에 대규모 숏 포지션을 시간이 지나도 유지하는 기업들의 생존 확률은 매우 낮다)라고 적었다.\n\n현재 유통 가능한 약 6억4000만 주 가운데 약 30%가 공매도용으로 대여된 상태로, 상장 한 달여 만에 월가에서 가장 많이 숏 베팅이 몰린 종목 중 하나가 됐다. 이 기간 공매도 세력의 장부상 이익은 약 <em>$40억</em> 규모로 추정된다.\n\n테슬라 주주 입장에서 스페이스X 자체 주가보다 더 눈여겨볼 지점은, 테슬라-스페이스X 합병 가능성이 이미 시장에서 거론되는 변수라는 점이다 — 스페이스X 밸류에이션의 향방은 향후 합병 논의가 실제로 진행될 경우 테슬라 밸류에이션 논리에도 영향을 줄 수 있다.",
-      "title_en": "Elon Musk warns SpaceX short sellers: <em>\"survival probability is very low\"</em>",
-      "hotShort_en": "Musk warns SpaceX shorts: <em>\"survival is very low\"</em>",
-      "body_en": "Elon Musk warned on X that firms holding significant short positions in SpaceX have a <em>\"very low\"</em> survival probability — a month after SpaceX's record-breaking IPO, with the stock now trading below its offer price and short sellers sitting on sizable paper profits, the remark echoes Musk's long pattern of directly confronting bears, as he has often done with Tesla.",
-      "summary_en": "SpaceX went public in June in the largest IPO in history, but a little over a month later its stock has fallen below the offer price, drawing attention from short sellers.\n\nReplying to a user on X, Musk wrote: <em>\"The survival probability of firms who maintain a significant short position in SpaceX over time is very low.\"</em>\n\nAbout 30% of the roughly 640 million publicly tradable shares have been borrowed for short bets, making SpaceX one of Wall Street's most heavily shorted stocks barely a month after its debut. Short sellers are estimated to be sitting on roughly <em>$4 billion</em> in paper profits over that stretch.\n\nFor Tesla shareholders, the more relevant angle than SpaceX's share price itself is that a potential Tesla-SpaceX merger is already a variable the market is discussing — how SpaceX's valuation evolves could feed into Tesla's own valuation logic if merger talks ever advance.",
-      "href": "https://www.teslarati.com/elon-musk-sends-first-warning-spacex-spcx-short-sellers/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "IBTimes UK"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-08-03 12:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-03 14:07 KST 자동 갱신 · 최신순"
 }

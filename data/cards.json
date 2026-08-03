@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "6h ago",
+      "pubDate": "2026-08-02T23:35:00.000Z",
+      "title": "테슬라라티 FSD v14.3.7 실주행 리뷰 — <em>사고 막아준 순간</em> 포착",
+      "hotShort": "FSD v14.3.7 리뷰 — <em>사고 막아준 순간</em> 포착",
+      "body": "테슬라라티 리뷰어가 FSD v14.3.7을 시험 주행한 지 40분 만에, 부주의하게 끼어든 차량과의 사고를 막아내는 장면을 목격했다고 밝혔다 — 앞선 v14.3.6에서 지적됐던 급제동·핸들 떨림 등 불안정한 움직임도 90마일 주행 동안 크게 개선됐다는 평가다. 다만 개별 리뷰어 1인의 체험 후기로, 공식 통계나 대규모 검증 데이터는 아니다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-v1437-review-saved-accident-2026-08-02",
+      "summary": "테슬라의 FSD는 버전마다 체감 성능이 요동치는 것으로 유명한데, 바로 직전 버전인 v14.3.6은 테슬라라티 자체 리뷰에서 \"뚜렷한 퇴보(regression)\"라는 혹평을 받은 바 있다.\n\n이런 배경에서 나온 v14.3.7 리뷰는 대조적이다. 리뷰어는 주행을 시작한 지 채 40분이 지나지 않아, 다른 차선에서 부주의하게 끼어들던 도지 차저 운전자와의 충돌을 차량이 스스로 피해내는 상황을 겪었다고 전했다.\n\n이후 약 90마일을 더 주행하는 동안, v14.3.6에서 반복됐던 급제동·핸들 떨림 같은 불안정하고 자신감 없는 움직임이 눈에 띄게 사라졌다고 리뷰어는 평가했다.\n\n다만 이는 테슬라 공식 통계나 다수 표본이 아닌 리뷰어 1인의 체험담이라는 한계가 있다. 그럼에도 HW3 차량으로 v14 라인업 확장이 진행 중인 시점에, 버전 간 성능 널뛰기 우려를 다소 누그러뜨리는 사례로 주목된다.",
+      "title_en": "Teslarati's FSD v14.3.7 test drive review — <em>car avoids a collision</em> within 40 minutes",
+      "hotShort_en": "FSD v14.3.7 review: <em>avoids a collision</em> early on",
+      "body_en": "A Teslarati reviewer said the car avoided a collision with a carelessly merging Dodge Charger driver within the first 40 minutes of testing FSD v14.3.7 — over roughly 90 miles, the brake-stabbing and wheel-jerking instability flagged in the prior v14.3.6 review was also markedly improved, the reviewer said. It's a single reviewer's account, not official statistics or large-scale validation data.",
+      "summary_en": "Tesla's FSD is known for swinging in perceived quality from version to version, and the immediately preceding release, v14.3.6, drew a harsh verdict in Teslarati's own review — a \"rare regression.\"\n\nAgainst that backdrop, the v14.3.7 review reads very differently. The reviewer said that within the first 40 minutes of driving, the car avoided a collision on its own when a Dodge Charger driver merged carelessly into its lane.\n\nOver the roughly 90 miles that followed, the reviewer said the hesitant, uncertain behavior that plagued v14.3.6 — brake-stabbing, wheel-jerking — was noticeably gone.\n\nThe caveat is that this is one reviewer's account, not Tesla's official statistics or a large sample. Still, with HW3 vehicles in the middle of the v14 rollout, it's a data point that tempers concern about version-to-version whiplash in FSD performance.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident/",
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "3h ago",
@@ -162,32 +182,7 @@
       ],
       "sentiment": "bear",
       "hot": 7
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-07-31T07:26:20.000Z",
-      "title": "테슬라 AI 총괄 엘루스와미, 옵티머스 <em>연 1,000만 대 생산</em> 목표 재확인",
-      "hotShort": "옵티머스, 기가텍사스서 <em>연 1,000만 대</em> 겨냥",
-      "body": "테슬라의 AI·로보틱스 총괄 아쇽 엘루스와미가 자신의 X에 \"정정한다, 1,000만 대\"라는 세 단어짜리 글을 올려 옵티머스 로봇의 장기 연간 생산 목표를 재확인했다 — 프리몬트(구 모델S·X 라인 부지, 연 100만 대급)와 5월 착공한 기가텍사스 전용 신공장(연 1,000만 대급)의 2단계 증설이 골자다. 무대 위 머스크의 홍보성 발언이 아니라 프로그램을 실제로 이끄는 실무 총괄의 확인이라, 옵티머스가 테슬라의 차기 성장축이라는 베팅에 무게를 더한다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-optimus-10m-target-giga-texas-2026-07-31",
-      "summary": "일론 머스크는 그동안 여러 자리에서 옵티머스의 장기 수요를 \"수십억 대\" 단위로 언급해왔지만, 실제 생산 캐파를 구체적인 숫자로 확인해준 것은 이번이 처음에 가깝다 — 그것도 마케팅 무대가 아니라 프로그램을 총괄하는 임원의 입에서 나왔다는 점이 다르다.\n\n2025년 6월부터 옵티머스 프로그램을 이끌고 있는 테슬라 AI·소프트웨어 부문 부사장 아쇽 엘루스와미는 지난 목요일(현지시간) 자신의 X 계정에 \"정정한다, 1,000만 대(Correction, 10 million robots)\"라는 짧은 글을 올려, 테슬라가 짜고 있는 장기 연간 생산 목표치를 확인했다.\n\n증설은 2단계로 나뉜다. 1단계는 프리몬트 공장 — 올해 초 생산이 종료된 모델S·모델X 라인 부지를 활용해 연 약 100만 대 규모의 생산라인을 구축한다. 2단계는 지난 5월 첫 철골 구조물 착공에 들어간 기가텍사스의 전용 신공장으로, 궁극적으로 연 1,000만 대 캐파를 담당할 계획이다.\n\n주목할 대목은 이 확인이 나온 방식이다 — 화려한 무대 위 발언이 아니라, 실제로 그 숫자를 달성할 책임을 진 실무 총괄이 스스로 규모를 못박았다는 점에서 신뢰도가 다르게 읽힌다.\n\n다만 옵티머스는 아직 상용 매출이 없는 초기 단계 제품이고, 최근 2분기 실적에서도 로보택시·옵티머스향 투자 확대(자본지출 전년比 142% 증가)가 영업이익률을 짓누른 점이 부각된 상황이다. 이런 초대형 캐파 목표가 실제 양산·수요로 이어질지는 향후 분기 실적으로 계속 검증해야 할 부분이다.",
-      "title_en": "Tesla AI chief Elluswamy reaffirms <em>10 million Optimus units/year</em> target",
-      "hotShort_en": "Tesla targets <em>10M Optimus/year</em>",
-      "body_en": "Tesla's AI and robotics chief Ashok Elluswamy confirmed the company's long-term Optimus production target with a three-word X post — \"Correction, 10 million robots\" — pointing to a two-phase buildout: a roughly 1-million-unit-per-year line at Fremont (on floor space freed by discontinued Model S/X production) and a dedicated new Giga Texas facility, which broke ground in May, aimed at the 10-million-unit tier. Coming from the executive who actually runs the program rather than a keynote soundbite, it adds weight to Tesla's bet that Optimus becomes its next growth engine.",
-      "summary_en": "Elon Musk has floated Optimus's long-run demand in the \"billions of units\" range on multiple occasions, but a concrete production-capacity number confirmed by the executive who actually runs the program is a different kind of signal than stage remarks.\n\nAshok Elluswamy, Tesla's VP of AI Software who has led the Optimus program since June 2025, posted a short correction on X last Thursday — \"Correction, 10 million robots\" — confirming the long-term annual capacity Tesla is building toward.\n\nThe buildout is happening in two phases. Phase one is at Fremont, where Tesla is installing a roughly 1-million-unit-per-year line on the floor space freed up by the discontinued Model S and Model X lines earlier this year. Phase two is a dedicated new facility at Giga Texas, which broke ground on its first steel structure in May and is ultimately meant to handle the 10-million-unit tier.\n\nWhat stands out is how the number surfaced — not as a marketing line from a stage, but as a correction posted by the person actually accountable for hitting it, which reads as a stronger signal than the same figure delivered as hype.\n\nOptimus still has no commercial revenue, though, and Tesla's own Q2 earnings just highlighted how robotaxi and Optimus capex (up 142% year over year) squeezed operating margin. Whether a target this large translates into real production and demand is something upcoming quarters will need to keep testing.",
-      "href": "https://www.teslarati.com/tesla-ai-boss-reveals-how-big-optimus-is-going-to-get/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Benzinga"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
-  "asOf": "2026-08-03 12:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-03 14:07 KST 자동 갱신 · 최신순"
 }
