@@ -3,6 +3,31 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-08-03T06:45:03.000Z",
+      "title": "로스 거버 \"테슬라 FSD, 응급차량 지나칠 때 <em>사고 날 뻔했다</em>\"",
+      "hotShort": "로스 거버 \"FSD, 응급차량 지나치다 <em>사고 날 뻔</em>\"",
+      "body": "테슬라 주주이자 대표적 FSD 비판론자인 로스 거버(Gerber Kawasaki CEO)가 자신의 차량 FSD가 응급차량을 지나칠 때 급제동해 사고가 날 뻔했다고 주장 — \"여전히 심각한 문제가 있다\"고 지적하며, 같은 주 나온 테슬라라티의 호평 리뷰와 상반된 목소리를 냈다.",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "fsd-ross-gerber-emergency-vehicle-near-miss-2026-08-03",
+      "summary": "로스 거버는 Gerber Kawasaki 최고경영자로, 테슬라 주주이자 대표적인 FSD 비판론자로 알려져 있다. 그가 이번에 제기한 주장은 최신 FSD가 응급차량을 지나치는 상황에서 급제동해 사고 위험을 초래했다는 것이다.\n\n그는 이 상황을 \"여전히 심각한 문제가 있다(Still Has Major Issues)\"고 표현하며 FSD의 응급 상황 대응 능력에 의문을 제기했다. 해당 주장은 Benzinga·inkl 등 매체를 통해 보도됐다.\n\n공교롭게도 같은 주 테슬라라티는 FSD v14.3.7 실주행 리뷰에서 \"FSD가 사고를 막아줬다\"는 정반대 경험을 전한 바 있다 — 같은 버전을 둘러싸고 엇갈린 실사용 평가가 나오면서, FSD 안정성에 대한 투자자들의 판단은 당분간 갈릴 전망이다.",
+      "title_en": "Ross Gerber: Tesla FSD <em>nearly caused a crash</em> passing emergency vehicles",
+      "hotShort_en": "Gerber: FSD <em>nearly crashed</em> passing emergency vehicles",
+      "body_en": "Prominent Tesla shareholder and FSD critic Ross Gerber (CEO, Gerber Kawasaki) says his car's FSD slammed the brakes while passing emergency vehicles, nearly causing an accident — he says the software \"still has major issues,\" a sharp contrast to Teslarati's largely positive v14.3.7 review the same week.",
+      "summary_en": "Ross Gerber, CEO of Gerber Kawasaki and a well-known Tesla shareholder and FSD critic, said his vehicle's Full Self-Driving nearly caused a crash while passing emergency vehicles on the road.\n\nGerber described the software as \"still has major issues,\" raising fresh questions about how FSD handles emergency-vehicle encounters. The claim was reported by Benzinga and inkl.\n\nThe account arrives just as Teslarati published a largely positive early review of FSD v14.3.7, saying the software \"saved\" the reviewer from an accident — leaving investors with conflicting real-world signals on the same release.",
+      "href": "https://www.benzinga.com/markets/tech/26/08/60863775/ross-gerber-says-teslas-fsd-almost-caused-an-accident-while-passing-emergency-vehicles-still-has-major-issues",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Benzinga",
+        "inkl"
+      ],
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
       "time": "6h ago",
       "pubDate": "2026-08-02T23:35:00.000Z",
       "title": "테슬라라티 FSD v14.3.7 실주행 리뷰 — <em>사고 막아준 순간</em> 포착",
@@ -2307,26 +2332,6 @@
         "Basenor",
         "Drive Tesla Canada"
       ],
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-21T06:41:15.000Z",
-      "title": "테슬라, 모델3 <em>리스료 최대 15% 인상</em> — 석달 전 인하분 되돌려",
-      "hotShort": "모델3 리스료 <em>최대 15% 인상</em>",
-      "body": "테슬라가 미국에서 판매 중인 모델3 전 트림의 리스 월 납입금을 <em>5~15.2%</em> 인상했다 — 기본형 RWD는 $299에서 <em>$379</em>로, 지난 4월 큰 폭 인하했던 리스료를 석달 만에 되돌린 조치라 2분기 실적발표를 하루 앞둔 시점에서 수요·마진 전략 변화 신호로 읽힌다.",
-      "sourceName": "Sawyer Merritt (X)",
-      "sourceLabel": "press",
-      "slug": "product-model3-lease-price-hike-2026-07-21",
-      "summary": "테슬라 소식통 소여 메릿(Sawyer Merritt)이 X에 공개한 신규 가격표에 따르면, 21일부터 미국 모델3 리스 월 납입금이 트림별로 <em>5~15.2%</em> 인상됐다. 기본형 RWD는 $379(+15.2%), 프리미엄 RWD는 <em>$399</em>(+14.3%), 프리미엄 AWD는 <em>$479</em>(+6.7%)로 오르고, 퍼포먼스 트림도 <em>$629</em> 수준으로 함께 조정됐다.\n\n이번 인상은 테슬라가 지난 4월 모델3 리스료를 역대 최저 수준까지 낮췄던 조치를 석달 만에 되돌린 것이다 — 기본형 RWD 기준으로 보면 $299→$379로 약 <em>$80(27%)</em> 올라, 한 분기 안에 인하와 인상을 모두 겪은 셈이다.\n\n테슬라는 통상 수요·재고 상황에 맞춰 리스·구매 인센티브를 수시로 조정해왔다. 이번 인상 시점이 2분기 실적발표(22일) 하루 전이라는 점에서, 2분기 인도량 서프라이즈(48만126대, 컨센서스 40만6024대 상회)를 확인한 뒤 판매 인센티브를 다소 축소해 마진 방어에 나선 것 아니냐는 해석이 나온다.\n\n주주 입장에서 리스료 인상은 단기적으로 신규 계약 수요를 다소 둔화시킬 수 있지만, 인도량이 이미 목표를 웃돈 시점의 조정인 만큼 차량당 마진 개선 신호로도 해석될 여지가 있다.",
-      "title_en": "Tesla hikes <em>Model 3 lease prices up to 15%</em> — reversing April's cuts",
-      "hotShort_en": "Model 3 lease <em>up to 15% pricier</em>",
-      "body_en": "Tesla raised U.S. Model 3 lease payments across every trim by <em>5–15.2%</em>, with the base RWD trim climbing from $299 to <em>$379</em> a month — reversing April's steep lease cuts just three months later, one day before Tesla's Q2 earnings call, in what reads as a pricing/margin signal.",
-      "summary_en": "According to a new price list shared on X by Tesla tracker Sawyer Merritt, U.S. Model 3 lease payments rose <em>5–15.2%</em> across trims starting July 21: base RWD to <em>$379</em> (+15.2%), Premium RWD to <em>$399</em> (+14.3%), Premium AWD to <em>$479</em> (+6.7%), and Performance to roughly <em>$629</em>.\n\nThe hike reverses an April move that had cut Model 3 lease pricing to some of its lowest levels ever — on the base RWD trim alone, payments have swung from $299 to $379, a roughly <em>$80 (27%)</em> increase in just three months.\n\nTesla routinely adjusts lease and purchase incentives to match demand and inventory. Coming one day before the July 22 earnings call — and after Tesla already reported a Q2 delivery beat of 480,126 vehicles versus a 406,024 consensus — the timing suggests the company may be dialing back incentives to protect margin now that deliveries have cleared the bar.\n\nFor shareholders, pricier leases could cool near-term demand somewhat, but coming right after a delivery beat, the move can also be read as an early signal of per-vehicle margin improvement.",
-      "href": "https://x.com/SawyerMerritt/status/2079456653527712173",
       "sentiment": "neutral",
       "hot": 5
     }

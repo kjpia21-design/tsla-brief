@@ -1,49 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-28T10:45:00.000Z",
-      "mode": "shadow",
-      "checked": 3,
-      "verdicts": [
-        {
-          "slug": "musk-congress-spacex-stock-conflict-2026-07-28",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — CNBC 스트레이트 보도, sec/official 아님",
-            "조언톤 위반 없음 — 매수·매도 권유 없이 사실 보도",
-            "단정 전환 없음 — 원문의 no evidence 톤 유지, 이해충돌 우려로만 서술",
-            "숫자 대조: 매입 총액 최대 $13만·지스네로스 $1,001~$15,000·6/18 매입·7/2 공시·FAA 6/30 금지 모두 WebSearch 교차검증(CNBC, Benzinga, Spotlight PA)",
-            "href-본문 일치 확인 (WebFetch 403이라 WebSearch로 간접검증)"
-          ]
-        },
-        {
-          "slug": "stock-morningstar-450-fair-value-2026-07-28",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — Stocktwits/모닝스타 애널리스트 코멘트 인용 보도",
-            "조언톤 위반 없음 — \"매수 적기\"는 모닝스타 발언으로 명확히 인용·귀속",
-            "단정 전환 없음",
-            "숫자 대조: 공정가치 $450·46% 상승여력·영업이익 -57%·마진 1.4%·capex $5.79B·FCF -$1.09B·2026 capex $25B+·먼스터 2027 $25B 모두 WebSearch 교차검증(Morningstar 원문은 paywall 403으로 직접 열람 불가·간접검증)",
-            "href-본문 일치 확인"
-          ]
-        },
-        {
-          "slug": "stock-cme-single-stock-futures-2026-07-27",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — CNBC",
-            "조언톤 위반 없음",
-            "단정 전환 없음 — 팩트성 상품 출시 보도",
-            "숫자 대조: 55종목+마이크로22종·7/27 출시·23시간 거래·1시간 정비 모두 WebSearch 교차검증(CNBC, Fortune, Hedgeye, Gurufocus)",
-            "href-본문 일치 확인"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-28T15:15:00.000Z",
       "mode": "shadow",
       "checked": 6,
@@ -847,6 +804,26 @@
             "숫자 대조: 40분 만에 사고 회피(도지 차저 운전자 부주의 끼어들기)·약 90마일 주행·v14.3.6 대비 급제동/핸들떨림 개선 — WebSearch로 확인한 원문 요지와 일치",
             "href-본문 일치 — Teslarati 기사(tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident)와 카드 내용 동일 사건",
             "verify-error: Teslarati 원문 WebFetch 403 차단 — WebSearch 스니펫으로 대체 검증, fail-open 원칙에 따라 pass 처리"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-03T07:45:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-ross-gerber-emergency-vehicle-near-miss-2026-08-03",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel(press) 적절 — Benzinga/inkl 보도, 원소스는 로스 거버 개인 주장이나 2개 매체 교차보도로 press 등급 유지",
+            "조언톤 위반 없음 — 매수·매도 권유·목표가 없음",
+            "단정 전환 없음 — body에 '주장'으로 명시, 원문의 hedge(almost/claims) 유지",
+            "숫자·인용 대조: 'Still Has Major Issues' 인용은 raw 타이틀 원문 그대로, 추가 수치 창작 없음",
+            "href-본문 일치: Benzinga href가 다루는 사건과 카드 요약 일치",
+            "verify-error: 대상 URL(benzinga.com, inkl.com) WebFetch 403 — 프록시 egress 정책으로 원문 재확인 불가, fail-open으로 pass 처리(WebSearch 스니펫으로 제목·인용구만 간접 대조)"
           ]
         }
       ]
