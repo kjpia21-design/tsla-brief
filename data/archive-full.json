@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-02 22:59 UTC · 누적 741건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-08-03 03:31 UTC · 누적 742건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "musk",
@@ -18,6 +18,26 @@
       "body_en": "Aniket Shah, Jefferies' global head of sustainability and transition strategy, pushed back on investors who avoid SpaceX over Elon Musk's outsized control, saying attempts to \"put governance into some kind of straitjacket\" are \"too simple-minded and, frankly speaking, not looking at data\" — a rare case of a major investment bank analyst weighing publicly into the SpaceX governance debate just three days before its Aug. 4 first earnings report and Aug. 6 lockup expiration.",
       "summary_en": "Investor concern over SpaceX's governance structure has been building alongside a surge in short interest — a $24.6 billion bearish bet that recently overtook short positions against Tesla itself — and a major investment bank analyst has now pushed back publicly.\n\nAniket Shah, who leads sustainability and transition strategy at Jefferies, told Bloomberg that critics who avoid SpaceX because of Musk's outsized control are taking too rigid a view: \"people who try to put governance into some kind of straitjacket are too simple-minded and, frankly speaking, not looking at data.\" He argued that applying strict governance standards mechanically risks missing SpaceX's long-term return potential.\n\nSpaceX is structured so that Musk, as largest shareholder and CEO, exerts outsized influence over the board and broader management — a setup that some institutional investors have flagged as a governance risk since the company's June IPO.\n\nThe comments land just ahead of two closely watched catalysts: SpaceX's first quarterly earnings report as a public company on Aug. 4, and its first post-IPO lockup expiration on Aug. 6 — the same window in which SpaceX's short interest was recently reported to have overtaken Tesla's. Shah's remarks reflect his own view as an analyst, not a specific buy/sell call or price target.",
       "href": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "17h ago",
+      "pubDate": "2026-08-02T09:57:39.000Z",
+      "title": "스페이스X 스타링크 위성이 <em>스타십 분리 장면 직접 촬영</em> — 13차 시험비행 영상 공개",
+      "hotShort": "스타링크 위성이 <em>스타십 분리</em> 직접 촬영",
+      "body": "스페이스X가 7/24 13차 스타십 시험비행에서 처음 배치한 기능형 스타링크 V3 위성이 촬영한 65초 영상을 공개했다 — 위성에 달린 카메라 4대가 스타십 상단부(171피트)와 분리되는 순간을 담았다. 이번 비행에서 배치한 V3 위성 20기 중 6기는 스타십 재진입 시 내열 타일 상태를 촬영하는 임무도 겸해, 화물(카고)이 로켓 안전성 검증까지 돕는 이례적 사례다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-starship-satellite-films-separation-2026-08-02",
+      "summary": "스페이스X가 자사 X 계정에 65초 분량의 영상을 게시했다 — 스타십에서 막 분리된 스타링크 V3 위성이, 되레 카메라로 스타십을 촬영해 멀어지는 로켓의 모습을 담은 독특한 앵글이다.\n\n영상은 지난 7월24일 스타베이스에서 발사된 스타십 13차 시험비행(Flight 13) 도중 촬영됐다. 이 비행은 앞서 엔진 이상으로 발사가 한 차례 취소된 지 일주일 만에 재도전한 것이었다.\n\n13차 비행에서 스타십은 기능하는 스타링크 V3 위성 20기를 처음으로 배치했다 — 이 중 6기는 별도 카메라를 달아 스타십의 내열 타일이 대기권 재진입 시 어떻게 견디는지 촬영하는 임무를 함께 수행했다.\n\n이번 영상은 그 6기 중 하나가 촬영한 것으로 보이며, 위성 4대의 카메라 화면을 이어붙여 스타십 상단부가 햇빛을 받으며 멀어지는 장면부터 두 우주선이 분리되는 순간까지 담았다.",
+      "title_en": "SpaceX's own <em>deployed satellite films Starship</em> separating in orbit",
+      "hotShort_en": "Starlink satellite <em>films Starship separation</em>",
+      "body_en": "SpaceX released a 65-second video shot by one of the functional Starlink V3 satellites it deployed during Starship's 13th flight test on July 24 — four cameras on the satellite captured the moment it separated from Starship's 171-foot upper stage. Six of the 20 V3 satellites deployed on that flight double as heat-shield cameras for reentry, an unusual case of the payload itself helping verify the rocket's safety.",
+      "summary_en": "SpaceX posted a 65-second clip on its X account showing an unusual angle — a Starlink V3 satellite that had just separated from Starship turning its own cameras back on the rocket as it drifted away.\n\nThe footage was captured during Starship's 13th flight test, which launched from Starbase on July 24 — a week after a prior attempt was scrubbed and then aborted due to an engine issue.\n\nFlight 13 marked the first time Starship deployed functional Starlink V3 satellites, releasing 20 of them. Six were fitted with extra cameras tasked with recording how the ship's heat shield holds up during atmospheric reentry.\n\nThe newly released clip appears to be from one of those six satellites, stitching together views from its four cameras — starting with a close shot of Starship's sunlit 171-foot upper stage before pulling back to show the moment the two spacecraft separated.",
+      "href": "https://www.teslarati.com/spacexs-starship-just-got-filmed-by-its-own-cargo/",
       "sentiment": "neutral",
       "hot": 3
     },
