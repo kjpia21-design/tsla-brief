@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-08-03 03:31 UTC · 누적 742건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-08-03 07:34 UTC · 누적 743건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "6h ago",
+      "pubDate": "2026-08-02T23:35:00.000Z",
+      "title": "테슬라라티 FSD v14.3.7 실주행 리뷰 — <em>사고 막아준 순간</em> 포착",
+      "hotShort": "FSD v14.3.7 리뷰 — <em>사고 막아준 순간</em> 포착",
+      "body": "테슬라라티 리뷰어가 FSD v14.3.7을 시험 주행한 지 40분 만에, 부주의하게 끼어든 차량과의 사고를 막아내는 장면을 목격했다고 밝혔다 — 앞선 v14.3.6에서 지적됐던 급제동·핸들 떨림 등 불안정한 움직임도 90마일 주행 동안 크게 개선됐다는 평가다. 다만 개별 리뷰어 1인의 체험 후기로, 공식 통계나 대규모 검증 데이터는 아니다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-v1437-review-saved-accident-2026-08-02",
+      "summary": "테슬라의 FSD는 버전마다 체감 성능이 요동치는 것으로 유명한데, 바로 직전 버전인 v14.3.6은 테슬라라티 자체 리뷰에서 \"뚜렷한 퇴보(regression)\"라는 혹평을 받은 바 있다.\n\n이런 배경에서 나온 v14.3.7 리뷰는 대조적이다. 리뷰어는 주행을 시작한 지 채 40분이 지나지 않아, 다른 차선에서 부주의하게 끼어들던 도지 차저 운전자와의 충돌을 차량이 스스로 피해내는 상황을 겪었다고 전했다.\n\n이후 약 90마일을 더 주행하는 동안, v14.3.6에서 반복됐던 급제동·핸들 떨림 같은 불안정하고 자신감 없는 움직임이 눈에 띄게 사라졌다고 리뷰어는 평가했다.\n\n다만 이는 테슬라 공식 통계나 다수 표본이 아닌 리뷰어 1인의 체험담이라는 한계가 있다. 그럼에도 HW3 차량으로 v14 라인업 확장이 진행 중인 시점에, 버전 간 성능 널뛰기 우려를 다소 누그러뜨리는 사례로 주목된다.",
+      "title_en": "Teslarati's FSD v14.3.7 test drive review — <em>car avoids a collision</em> within 40 minutes",
+      "hotShort_en": "FSD v14.3.7 review: <em>avoids a collision</em> early on",
+      "body_en": "A Teslarati reviewer said the car avoided a collision with a carelessly merging Dodge Charger driver within the first 40 minutes of testing FSD v14.3.7 — over roughly 90 miles, the brake-stabbing and wheel-jerking instability flagged in the prior v14.3.6 review was also markedly improved, the reviewer said. It's a single reviewer's account, not official statistics or large-scale validation data.",
+      "summary_en": "Tesla's FSD is known for swinging in perceived quality from version to version, and the immediately preceding release, v14.3.6, drew a harsh verdict in Teslarati's own review — a \"rare regression.\"\n\nAgainst that backdrop, the v14.3.7 review reads very differently. The reviewer said that within the first 40 minutes of driving, the car avoided a collision on its own when a Dodge Charger driver merged carelessly into its lane.\n\nOver the roughly 90 miles that followed, the reviewer said the hesitant, uncertain behavior that plagued v14.3.6 — brake-stabbing, wheel-jerking — was noticeably gone.\n\nThe caveat is that this is one reviewer's account, not Tesla's official statistics or a large sample. Still, with HW3 vehicles in the middle of the v14 rollout, it's a data point that tempers concern about version-to-version whiplash in FSD performance.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident/",
+      "sentiment": "bull",
+      "hot": 5
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
