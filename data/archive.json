@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-08-03T11:02:01.000Z",
+      "title": "블룸버그 \"SpaceX 투자자들, 실적콜서 <em>테슬라 합병 가능성</em> 캐물을 준비\"",
+      "hotShort": "SpaceX 투자자들 <em>테슬라 합병설</em> 캐물을 채비",
+      "body": "블룸버그에 따르면 SpaceX 투자자들이 8월4일 첫 분기 실적 발표에서 일론 머스크에게 테슬라와의 합병 가능성을 캐물을 준비를 하고 있다 — 머스크가 테슬라 의결권은 약 20%만 쥔 반면 SpaceX 의결권은 80%대를 쥐고 있어, 합병 조건에 따라 테슬라 주주가 불리한 교환비율을 떠안을 수 있다는 우려가 핵심이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-tesla-merger-scrutiny-2026-08-03",
+      "summary": "일론 머스크는 지난 7월22일 테슬라 2분기 실적 콜에서 테슬라와 SpaceX 사이에 \"점점 더 겹치는 부분이 많아지고 있다\"고 언급하며 두 회사의 합병 가능성을 처음으로 공개 시사했다 — 다만 확답은 피하고 \"적절한 절차\"를 따르겠다며 테슬라 법무팀에 판단을 넘겼다.\n\n블룸버그에 따르면 이후 투자자들 사이에서 합병 조건에 대한 우려가 커지고 있다. 머스크는 테슬라 의결권의 약 20%만 보유한 반면 SpaceX 의결권은 80%대를 통제하고 있어, 만약 SpaceX의 최근 기업가치(약 1조7,500억 달러)와 테슬라 시가총액(약 1조6,000억 달러)을 기준으로 합병 비율이 정해질 경우 테슬라 주주가 상대적으로 불리한 교환비율을 떠안을 수 있다는 것이 골자다. 8월4일 실적콜에서 이 대목에 대한 직접적인 질의가 나올 것으로 예상된다.\n\n같은 날 로이터는 SpaceX의 첫 분기 실적이 AI 투자 확대에 대한 월가의 감시대에도 오를 것이라고 전했다 — 머스크는 스타링크의 이익을 AI·우주 사업 확장의 자금원으로 쓰겠다는 구상을 밝혀왔는데, 이 전략의 지속 가능성에 대한 비판도 함께 나온다. 월가는 이번 분기 커넥티비티(스타링크) 매출을 약 38억2,000만 달러, 영업이익을 약 14억2,000만 달러로 추정하고 있다.\n\n한편 예측시장 Kalshi에서는 2027년 5월까지 두 회사가 합병할 확률을 74%로 책정하고 있다 — 다만 이는 어디까지나 베팅 시장의 심리를 보여주는 참고 지표일 뿐, 확정된 계획은 아니다.\n\n실적 발표는 8월4일(화) 미국 장 마감 후 진행된다. 합병 시사·AI 지출 전략에 대한 머스크의 발언 수위가 이번 콜의 핵심 관전 포인트로 꼽힌다.",
+      "title_en": "Bloomberg: SpaceX investors ready to <em>grill Musk on a Tesla merger</em>",
+      "hotShort_en": "SpaceX investors set to <em>press Musk on merger</em>",
+      "body_en": "Bloomberg reports SpaceX investors are preparing to question Elon Musk about a potential Tesla merger at the company's first quarterly earnings call on Aug. 4 — the stakes matter because Musk controls only about 20% of Tesla's voting power versus roughly 80%+ of SpaceX's, meaning unfavorable merger terms could leave Tesla shareholders bearing the risk.",
+      "summary_en": "Musk first floated the idea publicly on Tesla's Q2 2026 earnings call on July 22, saying there was \"more and more overlap\" between Tesla and SpaceX, while stopping short of a commitment and deferring to Tesla's legal team on \"the appropriate process.\"\n\nSince then, according to Bloomberg, investor unease has grown over what merger terms might look like. Musk holds only about 20% of Tesla's voting power but controls roughly 80%+ of SpaceX's — so if a deal were struck near SpaceX's reported $1.75 trillion valuation against Tesla's roughly $1.6 trillion market cap, Tesla shareholders could end up with a less favorable exchange ratio. Investors are expected to press Musk directly on this at the Aug. 4 call.\n\nThe same day, Reuters reported that SpaceX's first results will also put Musk's expanding AI spending under Wall Street's microscope. Musk has said he intends to use Starlink's profits to bankroll AI and space ventures, a strategy critics call unsustainable. Wall Street estimates Starlink connectivity revenue at roughly $3.82 billion and operating profit at about $1.42 billion for the quarter.\n\nPrediction market Kalshi currently prices a 74% chance the two companies merge by May 2027 — a gauge of betting-market sentiment, not a confirmed plan.\n\nThe earnings call is scheduled for after the US market close on Tuesday, Aug. 4, with Musk's comments on both the merger and AI spending strategy seen as the main things to watch.",
+      "href": "https://www.bloomberg.com/news/newsletters/2026-08-03/spacex-investors-want-to-quiz-elon-musk-about-a-potential-tesla-merger?srnd",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-08-03T10:02:26.000Z",
+      "title": "아이다호 슈퍼차저 총격 생존 — 오너들 \"<em>충전 중 긴급 탈출 기능</em> 필요\"",
+      "hotShort": "슈퍼차저 총격 생존 — <em>긴급 탈출 기능</em> 요구",
+      "body": "아이다호 트윈폴스의 테슬라 슈퍼차저 겸용 인앤아웃 매장에서 총격 사건이 발생해 충전 중이던 모델Y 운전자가 총상을 입고도 생존했다 — 슈퍼차저 케이블이 충전 중 잠겨 차량이 움직일 수 없다는 점이 알려지며, 위급 상황에 즉시 이탈할 수 있는 긴급 잠금해제 기능이 필요하다는 오너들의 목소리가 커지고 있다.",
+      "sourceName": "Tesla Oracle",
+      "sourceLabel": "press",
+      "slug": "product-twinfalls-supercharger-shooting-2026-08-03",
+      "summary": "지난 1일(현지시간) 아이다호주 트윈폴스의 한 인앤아웃 버거 매장 주차장에서 총격 사건이 발생했다. 이 매장에는 테슬라 슈퍼차저가 설치돼 있었고, 마침 충전 중이던 모델Y 차량의 운전석에 총알이 관통해 운전자가 부상을 입었다 — 생명에는 지장이 없는 것으로 전해졌다.\n\n사건 직후 오너 커뮤니티가 주목한 지점은 차량의 충전 설계였다. 테슬라를 비롯한 대부분 전기차는 슈퍼차저 케이블이 충전 포트에 물려 있는 동안 주행이 잠기도록 돼 있어, 위급 상황에서도 케이블을 뽑지 않는 한 그 자리를 벗어날 수 없다.\n\n이 때문에 오너들 사이에서는 이번 사건을 계기로 위급 상황 시 충전 케이블을 즉시 강제 해제해 차량이 곧바로 출발할 수 있게 하는 \"긴급 탈출\" 기능이 필요하다는 요구가 나오고 있다. 다만 이는 아직 오너 커뮤니티의 제안 단계이며, 테슬라의 공식 대응이나 개발 계획은 확인되지 않았다.\n\nIBTimes UK 등 외신도 이번 사건을 계기로 슈퍼차저 충전 중 발생할 수 있는 \"숨겨진 안전 취약점\"을 지적하고 나섰다.",
+      "title_en": "Idaho Supercharger shooting survivor spurs calls for <em>emergency release feature</em>",
+      "hotShort_en": "Supercharger shooting survivor — owners want <em>quick-release</em>",
+      "body_en": "A shooting at an In-N-Out Burger parking lot in Twin Falls, Idaho — which shares a Tesla Supercharger station — left a Model Y driver wounded but alive while the car was charging; the incident spotlighted the fact that a locked charging cable prevents a Tesla from driving away in an emergency, fueling owner calls for a quick-release feature.",
+      "summary_en": "A shooting broke out on Aug. 1 in the parking lot of an In-N-Out Burger in Twin Falls, Idaho, that shares a site with a Tesla Supercharger station. A bullet struck the driver's seat of a Model Y that was charging at the time, wounding the driver, who is reported to have survived.\n\nThe incident drew attention to a design quirk shared by most EVs, including Tesla's: while a Supercharger cable is locked into the charge port, the car cannot be driven away until the cable is unplugged.\n\nThat has fueled calls within the owner community for an \"emergency escape\" feature that would let a driver force-release the cable and pull away immediately in a life-threatening situation. The idea remains at the community-proposal stage, however, with no confirmed response or development plan from Tesla.\n\nOutlets including IBTimes UK also flagged the incident as exposing a \"hidden safety vulnerability\" in Supercharger charging.",
+      "href": "https://www.teslaoracle.com/2026/08/03/tesla-driver-survives-in-twin-falls-shooting-owners-ask-for-emergency-charge-port-unlock-at-superchargers-to-flee-safely/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Tesla Oracle",
+        "IBTimes UK"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
@@ -2283,58 +2333,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-21T13:39:48.000Z",
-      "title": "테슬라 로보택시, <em>올랜도·탬파 신규 진출</em> — 운영 도시 7곳으로 확대",
-      "hotShort": "로보택시 <em>올랜도·탬파 추가</em> — 7개 도시",
-      "body": "테슬라가 22일 2분기 실적발표를 하루 앞두고 플로리다 올랜도·탬파에 로보택시 서비스를 새로 개시해 운영 도시가 <em>7곳</em>(오스틴·베이에어리어·댈러스·휴스턴·마이애미·올랜도·탬파)으로 늘었다 — 밸류에이션의 핵심 축인 로보택시 확장 속도를 실적콜 직전 보여준 신호라 투자자들의 관심이 쏠린다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-orlando-tampa-expansion-2026-07-21",
-      "summary": "로이터·테슬라라티와 커뮤니티 큐레이터 닉 크루즈 파테인이 21일(현지시간) 일제히 테슬라 로보택시 서비스가 플로리다 올랜도·탬파로 확장됐다고 전했다. 이로써 로보택시(라이드헤일링 방식 포함) 운영 도시는 텍사스 오스틴·댈러스·휴스턴, 캘리포니아 베이에어리어, 플로리다 마이애미·올랜도·탬파까지 총 <em>7곳</em>으로 늘었다.\n\n파테인에 따르면 베이에어리어는 안전요원이 동승하는 라이드헤일링 방식으로 운영 중이라 완전 무인 로보택시와는 결이 다르다 — 반면 텍사스·플로리다 권역은 무인(driverless) 운행이 확대되는 축이다. 테슬라는 지난해 6월 오스틴에서 로보택시를 첫 출시한 뒤 올해 댈러스·휴스턴으로, 이달 초엔 마이애미로 서비스를 넓혀왔다.\n\n이번 확장은 22일 2분기 실적발표를 하루 앞두고 나왔다는 점에서 의미가 크다. 로보택시·옵티머스 등 '피지컬 AI' 사업은 뱅크오브아메리카 등 애널리스트들이 테슬라 전체 밸류에이션의 절반 이상을 부여할 만큼 핵심 성장동력으로 꼽히는데, 실제 서비스 지역이 꾸준히 넓어지고 있다는 사실은 투자자들이 실적콜에서 확인하고 싶어하는 진척 지표 중 하나다.\n\n다만 웨이모 등 라이다 기반 경쟁사와 달리 테슬라는 카메라·AI 소프트웨어만으로 자율주행을 구현하는 방식을 고수하고 있어, 신규 도시로 확장할 때마다 안전성 검증이 함께 주목받는다.",
-      "title_en": "Tesla Robotaxi <em>expands to Orlando, Tampa</em> — now live in 7 cities",
-      "hotShort_en": "Robotaxi <em>adds Orlando, Tampa</em> — 7 cities live",
-      "body_en": "One day before its July 22 Q2 earnings call, Tesla launched Robotaxi service in Orlando and Tampa, Florida, bringing the total to <em>seven cities</em> — Austin, the Bay Area, Dallas, Houston, Miami, Orlando and Tampa — a timely signal on the pace of the robotaxi rollout that underpins much of Tesla's valuation.",
-      "summary_en": "Reuters, Teslarati and community curator Nic Cruz Patane all reported on July 21 that Tesla's Robotaxi service had expanded to Orlando and Tampa, Florida. That brings the number of cities with Robotaxi (including ride-hailing-style) service to <em>seven</em>: Austin, Dallas and Houston in Texas, the Bay Area in California, and Miami, Orlando and Tampa in Florida.\n\nAccording to Patane, the Bay Area service still runs as ride-hailing with a human safety driver on board, distinct from the fully driverless Robotaxi operation elsewhere. Tesla launched Robotaxi in Austin last June, expanded to Dallas and Houston earlier this year, and added Miami just this month.\n\nThe timing matters: coming one day before the July 22 Q2 earnings call, the expansion is a data point investors will likely reference, since analysts including Bank of America have pegged Robotaxi as worth roughly half of Tesla's total valuation.\n\nUnlike lidar-based rivals such as Waymo, Tesla relies solely on cameras and AI software for autonomy, so safety scrutiny tends to follow each new city launch.",
-      "href": "https://www.reuters.com/business/autos-transportation/tesla-expands-robotaxi-service-orlando-tampa-ahead-earnings-2026-07-21/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "Teslarati",
-        "Nic Cruz Patane (X)"
-      ],
-      "sentiment": "bull",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-21T09:43:27.000Z",
-      "title": "테슬라 라이드헤일링, <em>SFO 공항</em> 승하차 시작 — 안전요원 탑승 '리무진 허가'로",
-      "hotShort": "로보택시, <em>SFO 공항</em> 승하차 개시",
-      "body": "테슬라 베이에어리어 라이드헤일링이 21일부터 샌프란시스코국제공항(SFO) 승하차를 지원한다고 @Tesla_AI 가 확인했다 — 다만 캘리포니아 리무진 사업(TCP) 허가로 분류돼 안전요원이 동승하는 서비스로, 완전 무인 웨이모식 로보택시와는 다르다는 점이 핵심이다.",
-      "sourceName": "Basenor",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-sfo-airport-launch-2026-07-21",
-      "summary": "테슬라의 베이에어리어 라이드헤일링 서비스 이용객이 21일부터 샌프란시스코국제공항(SFO)에서 승하차를 요청할 수 있게 됐다. 테슬라 공식 계정 @Tesla_AI 가 이를 직접 확인했고, 일론 머스크도 몇 분 만에 이를 되짚어 언급했다.\n\nSFO 에서 운행하는 테슬라 차량은 샌프란시스코 시·카운티가 발급한 '공인 리무진 허가'(LP-263002, 2027년1월31일까지 유효)를 부착하고 있다. 캘리포니아 교통전세운송(TCP) 규정 아래 발급된 허가로, 전통적 리무진·블랙카 서비스와 같은 법적 분류다.\n\n즉 SFO 에서 테슬라를 태우는 차량에는 예외 없이 안전요원이 운전석에 동승한다. 캘리포니아 규제당국이 테슬라의 FSD 를 여전히 SAE 레벨2 로 분류해 운전자가 언제든 개입할 준비가 돼 있어야 하기 때문 — 이미 SFO 에서 완전 무인 운행 중인 웨이모식 로보택시와는 명확히 다른 형태다.\n\n그럼에도 공항 승하차는 라이드헤일링 사업에서 가장 수요가 큰 use case 중 하나로 꼽힌다. 22일 2분기 실적콜을 앞두고 로보택시 서비스 범위가 지속 확장되고 있음을 보여주는 사례로, 플로리다 올랜도·탬파 진출에 이은 또 다른 지역 확대 신호다.",
-      "title_en": "Tesla ride-hailing begins <em>SFO airport</em> pickups — under a limo permit, safety driver required",
-      "hotShort_en": "Robotaxi starts <em>SFO airport</em> pickups",
-      "body_en": "Tesla's Bay Area ride-hailing service began supporting pickups and drop-offs at San Francisco International Airport (SFO) on July 21, confirmed by @Tesla_AI — though the vehicles operate under a California limousine (TCP) permit with a safety driver aboard, unlike Waymo's fully driverless robotaxis already serving the same airport.",
-      "summary_en": "Riders using Tesla's Bay Area ride-hailing service can now request pickups and drop-offs at San Francisco International Airport (SFO) starting July 21. Tesla's official @Tesla_AI account confirmed the expansion, and Elon Musk echoed it within minutes.\n\nVehicles operating at SFO carry an official Authorized Limousine Permit — LP-263002, valid through January 31, 2027 — issued by the City and County of San Francisco under California's Transportation Charter Party (TCP) framework, the same legal category covering traditional limo and black-car services.\n\nThat means every Tesla picking up passengers at SFO has a human safety driver behind the wheel. California regulators still classify Tesla's FSD as SAE Level 2, requiring a human ready to take over at any time — a clear contrast with Waymo, which already runs fully driverless robotaxis at the same airport.\n\nStill, airport pickup is considered one of the highest-demand use cases in ride-hailing. Coming two days before Tuesday's Q2 earnings call, it's another sign of the Robotaxi service's geographic expansion, following last week's move into Orlando and Tampa.",
-      "href": "https://www.basenor.com/blogs/news/tesla-robotaxi-at-sfo-5-details-that-matter",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Basenor",
-        "Drive Tesla Canada"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-08-03 14:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-03 20:09 KST 자동 갱신 · 최신순"
 }

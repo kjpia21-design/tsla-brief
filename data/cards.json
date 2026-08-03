@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-08-03T11:02:01.000Z",
+      "title": "블룸버그 \"SpaceX 투자자들, 실적콜서 <em>테슬라 합병 가능성</em> 캐물을 준비\"",
+      "hotShort": "SpaceX 투자자들 <em>테슬라 합병설</em> 캐물을 채비",
+      "body": "블룸버그에 따르면 SpaceX 투자자들이 8월4일 첫 분기 실적 발표에서 일론 머스크에게 테슬라와의 합병 가능성을 캐물을 준비를 하고 있다 — 머스크가 테슬라 의결권은 약 20%만 쥔 반면 SpaceX 의결권은 80%대를 쥐고 있어, 합병 조건에 따라 테슬라 주주가 불리한 교환비율을 떠안을 수 있다는 우려가 핵심이다.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-tesla-merger-scrutiny-2026-08-03",
+      "summary": "일론 머스크는 지난 7월22일 테슬라 2분기 실적 콜에서 테슬라와 SpaceX 사이에 \"점점 더 겹치는 부분이 많아지고 있다\"고 언급하며 두 회사의 합병 가능성을 처음으로 공개 시사했다 — 다만 확답은 피하고 \"적절한 절차\"를 따르겠다며 테슬라 법무팀에 판단을 넘겼다.\n\n블룸버그에 따르면 이후 투자자들 사이에서 합병 조건에 대한 우려가 커지고 있다. 머스크는 테슬라 의결권의 약 20%만 보유한 반면 SpaceX 의결권은 80%대를 통제하고 있어, 만약 SpaceX의 최근 기업가치(약 1조7,500억 달러)와 테슬라 시가총액(약 1조6,000억 달러)을 기준으로 합병 비율이 정해질 경우 테슬라 주주가 상대적으로 불리한 교환비율을 떠안을 수 있다는 것이 골자다. 8월4일 실적콜에서 이 대목에 대한 직접적인 질의가 나올 것으로 예상된다.\n\n같은 날 로이터는 SpaceX의 첫 분기 실적이 AI 투자 확대에 대한 월가의 감시대에도 오를 것이라고 전했다 — 머스크는 스타링크의 이익을 AI·우주 사업 확장의 자금원으로 쓰겠다는 구상을 밝혀왔는데, 이 전략의 지속 가능성에 대한 비판도 함께 나온다. 월가는 이번 분기 커넥티비티(스타링크) 매출을 약 38억2,000만 달러, 영업이익을 약 14억2,000만 달러로 추정하고 있다.\n\n한편 예측시장 Kalshi에서는 2027년 5월까지 두 회사가 합병할 확률을 74%로 책정하고 있다 — 다만 이는 어디까지나 베팅 시장의 심리를 보여주는 참고 지표일 뿐, 확정된 계획은 아니다.\n\n실적 발표는 8월4일(화) 미국 장 마감 후 진행된다. 합병 시사·AI 지출 전략에 대한 머스크의 발언 수위가 이번 콜의 핵심 관전 포인트로 꼽힌다.",
+      "title_en": "Bloomberg: SpaceX investors ready to <em>grill Musk on a Tesla merger</em>",
+      "hotShort_en": "SpaceX investors set to <em>press Musk on merger</em>",
+      "body_en": "Bloomberg reports SpaceX investors are preparing to question Elon Musk about a potential Tesla merger at the company's first quarterly earnings call on Aug. 4 — the stakes matter because Musk controls only about 20% of Tesla's voting power versus roughly 80%+ of SpaceX's, meaning unfavorable merger terms could leave Tesla shareholders bearing the risk.",
+      "summary_en": "Musk first floated the idea publicly on Tesla's Q2 2026 earnings call on July 22, saying there was \"more and more overlap\" between Tesla and SpaceX, while stopping short of a commitment and deferring to Tesla's legal team on \"the appropriate process.\"\n\nSince then, according to Bloomberg, investor unease has grown over what merger terms might look like. Musk holds only about 20% of Tesla's voting power but controls roughly 80%+ of SpaceX's — so if a deal were struck near SpaceX's reported $1.75 trillion valuation against Tesla's roughly $1.6 trillion market cap, Tesla shareholders could end up with a less favorable exchange ratio. Investors are expected to press Musk directly on this at the Aug. 4 call.\n\nThe same day, Reuters reported that SpaceX's first results will also put Musk's expanding AI spending under Wall Street's microscope. Musk has said he intends to use Starlink's profits to bankroll AI and space ventures, a strategy critics call unsustainable. Wall Street estimates Starlink connectivity revenue at roughly $3.82 billion and operating profit at about $1.42 billion for the quarter.\n\nPrediction market Kalshi currently prices a 74% chance the two companies merge by May 2027 — a gauge of betting-market sentiment, not a confirmed plan.\n\nThe earnings call is scheduled for after the US market close on Tuesday, Aug. 4, with Musk's comments on both the merger and AI spending strategy seen as the main things to watch.",
+      "href": "https://www.bloomberg.com/news/newsletters/2026-08-03/spacex-investors-want-to-quiz-elon-musk-about-a-potential-tesla-merger?srnd",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-08-03T10:02:26.000Z",
+      "title": "아이다호 슈퍼차저 총격 생존 — 오너들 \"<em>충전 중 긴급 탈출 기능</em> 필요\"",
+      "hotShort": "슈퍼차저 총격 생존 — <em>긴급 탈출 기능</em> 요구",
+      "body": "아이다호 트윈폴스의 테슬라 슈퍼차저 겸용 인앤아웃 매장에서 총격 사건이 발생해 충전 중이던 모델Y 운전자가 총상을 입고도 생존했다 — 슈퍼차저 케이블이 충전 중 잠겨 차량이 움직일 수 없다는 점이 알려지며, 위급 상황에 즉시 이탈할 수 있는 긴급 잠금해제 기능이 필요하다는 오너들의 목소리가 커지고 있다.",
+      "sourceName": "Tesla Oracle",
+      "sourceLabel": "press",
+      "slug": "product-twinfalls-supercharger-shooting-2026-08-03",
+      "summary": "지난 1일(현지시간) 아이다호주 트윈폴스의 한 인앤아웃 버거 매장 주차장에서 총격 사건이 발생했다. 이 매장에는 테슬라 슈퍼차저가 설치돼 있었고, 마침 충전 중이던 모델Y 차량의 운전석에 총알이 관통해 운전자가 부상을 입었다 — 생명에는 지장이 없는 것으로 전해졌다.\n\n사건 직후 오너 커뮤니티가 주목한 지점은 차량의 충전 설계였다. 테슬라를 비롯한 대부분 전기차는 슈퍼차저 케이블이 충전 포트에 물려 있는 동안 주행이 잠기도록 돼 있어, 위급 상황에서도 케이블을 뽑지 않는 한 그 자리를 벗어날 수 없다.\n\n이 때문에 오너들 사이에서는 이번 사건을 계기로 위급 상황 시 충전 케이블을 즉시 강제 해제해 차량이 곧바로 출발할 수 있게 하는 \"긴급 탈출\" 기능이 필요하다는 요구가 나오고 있다. 다만 이는 아직 오너 커뮤니티의 제안 단계이며, 테슬라의 공식 대응이나 개발 계획은 확인되지 않았다.\n\nIBTimes UK 등 외신도 이번 사건을 계기로 슈퍼차저 충전 중 발생할 수 있는 \"숨겨진 안전 취약점\"을 지적하고 나섰다.",
+      "title_en": "Idaho Supercharger shooting survivor spurs calls for <em>emergency release feature</em>",
+      "hotShort_en": "Supercharger shooting survivor — owners want <em>quick-release</em>",
+      "body_en": "A shooting at an In-N-Out Burger parking lot in Twin Falls, Idaho — which shares a Tesla Supercharger station — left a Model Y driver wounded but alive while the car was charging; the incident spotlighted the fact that a locked charging cable prevents a Tesla from driving away in an emergency, fueling owner calls for a quick-release feature.",
+      "summary_en": "A shooting broke out on Aug. 1 in the parking lot of an In-N-Out Burger in Twin Falls, Idaho, that shares a site with a Tesla Supercharger station. A bullet struck the driver's seat of a Model Y that was charging at the time, wounding the driver, who is reported to have survived.\n\nThe incident drew attention to a design quirk shared by most EVs, including Tesla's: while a Supercharger cable is locked into the charge port, the car cannot be driven away until the cable is unplugged.\n\nThat has fueled calls within the owner community for an \"emergency escape\" feature that would let a driver force-release the cable and pull away immediately in a life-threatening situation. The idea remains at the community-proposal stage, however, with no confirmed response or development plan from Tesla.\n\nOutlets including IBTimes UK also flagged the incident as exposing a \"hidden safety vulnerability\" in Supercharger charging.",
+      "href": "https://www.teslaoracle.com/2026/08/03/tesla-driver-survives-in-twin-falls-shooting-owners-ask-for-emergency-charge-port-unlock-at-superchargers-to-flee-safely/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Tesla Oracle",
+        "IBTimes UK"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
@@ -66,26 +116,6 @@
       "hot": 3
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "17h ago",
-      "pubDate": "2026-08-02T09:57:39.000Z",
-      "title": "스페이스X 스타링크 위성이 <em>스타십 분리 장면 직접 촬영</em> — 13차 시험비행 영상 공개",
-      "hotShort": "스타링크 위성이 <em>스타십 분리</em> 직접 촬영",
-      "body": "스페이스X가 7/24 13차 스타십 시험비행에서 처음 배치한 기능형 스타링크 V3 위성이 촬영한 65초 영상을 공개했다 — 위성에 달린 카메라 4대가 스타십 상단부(171피트)와 분리되는 순간을 담았다. 이번 비행에서 배치한 V3 위성 20기 중 6기는 스타십 재진입 시 내열 타일 상태를 촬영하는 임무도 겸해, 화물(카고)이 로켓 안전성 검증까지 돕는 이례적 사례다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "musk-starship-satellite-films-separation-2026-08-02",
-      "summary": "스페이스X가 자사 X 계정에 65초 분량의 영상을 게시했다 — 스타십에서 막 분리된 스타링크 V3 위성이, 되레 카메라로 스타십을 촬영해 멀어지는 로켓의 모습을 담은 독특한 앵글이다.\n\n영상은 지난 7월24일 스타베이스에서 발사된 스타십 13차 시험비행(Flight 13) 도중 촬영됐다. 이 비행은 앞서 엔진 이상으로 발사가 한 차례 취소된 지 일주일 만에 재도전한 것이었다.\n\n13차 비행에서 스타십은 기능하는 스타링크 V3 위성 20기를 처음으로 배치했다 — 이 중 6기는 별도 카메라를 달아 스타십의 내열 타일이 대기권 재진입 시 어떻게 견디는지 촬영하는 임무를 함께 수행했다.\n\n이번 영상은 그 6기 중 하나가 촬영한 것으로 보이며, 위성 4대의 카메라 화면을 이어붙여 스타십 상단부가 햇빛을 받으며 멀어지는 장면부터 두 우주선이 분리되는 순간까지 담았다.",
-      "title_en": "SpaceX's own <em>deployed satellite films Starship</em> separating in orbit",
-      "hotShort_en": "Starlink satellite <em>films Starship separation</em>",
-      "body_en": "SpaceX released a 65-second video shot by one of the functional Starlink V3 satellites it deployed during Starship's 13th flight test on July 24 — four cameras on the satellite captured the moment it separated from Starship's 171-foot upper stage. Six of the 20 V3 satellites deployed on that flight double as heat-shield cameras for reentry, an unusual case of the payload itself helping verify the rocket's safety.",
-      "summary_en": "SpaceX posted a 65-second clip on its X account showing an unusual angle — a Starlink V3 satellite that had just separated from Starship turning its own cameras back on the rocket as it drifted away.\n\nThe footage was captured during Starship's 13th flight test, which launched from Starbase on July 24 — a week after a prior attempt was scrubbed and then aborted due to an engine issue.\n\nFlight 13 marked the first time Starship deployed functional Starlink V3 satellites, releasing 20 of them. Six were fitted with extra cameras tasked with recording how the ship's heat shield holds up during atmospheric reentry.\n\nThe newly released clip appears to be from one of those six satellites, stitching together views from its four cameras — starting with a close shot of Starship's sunlit 171-foot upper stage before pulling back to show the moment the two spacecraft separated.",
-      "href": "https://www.teslarati.com/spacexs-starship-just-got-filmed-by-its-own-cargo/",
-      "sentiment": "neutral",
-      "hot": 3
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
@@ -108,31 +138,6 @@
       "summary_en": "Police responding to a crash on the 500 block of Newport Way NW in Issaquah, Washington this week found that the rear third of a Tesla had been completely severed from the rest of the vehicle.\n\nAccording to the investigation, the Tesla was operating in Full Self-Driving mode when it suddenly swerved into oncoming traffic and struck a Cadillac Escalade head-on.\n\nDespite the severity of the damage, no injuries were reported on either side of the crash.\n\nIssaquah police used the incident to remind drivers that even with a full or partial self-driving system engaged, the driver remains legally responsible for the safe operation of the vehicle.",
       "href": "https://katu.com/news/local/tesla-electric-car-safety-in-full-self-driving-mode-rear-ends-suv-ends-up-severed-issaquah-police-cadillac-escalade-suv-safety-driver-responsibility",
       "sentiment": "bear",
-      "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
-      "pubDate": "2026-07-31T18:30:00.000Z",
-      "title": "테슬라, 사이버트럭 PCS 보증 <em>8년으로 연장</em> — 자비 수리 오너는 전액 환불",
-      "hotShort": "사이버트럭 PCS 보증 <em>8년 연장</em>, 환불도 약속",
-      "body": "테슬라가 2024~2025년식 사이버트럭의 PCS(전력변환장치) 보증기간을 8년·150,000마일로 늘리고, 그간 자비로 부품을 교체한 오너에게는 곧 전액 환불하겠다고 밝혔다 — 리콜 없이 사례별 대응만 이어오던 테슬라가 처음으로 비용 부담을 전면 흡수하는 조치를 내놓은 것으로, 여전히 공식 리콜은 아니다.",
-      "sourceName": "TeslaNorth",
-      "sourceLabel": "press",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "TeslaNorth",
-        "Drive Tesla Canada"
-      ],
-      "slug": "product-cybertruck-pcs-warranty-extension-2026-07-31",
-      "summary": "7월 초부터 이어져 온 사이버트럭 PCS(전력변환장치) 고장 논란에 대해, 테슬라가 31일 한층 구체적인 공식 조치를 내놓았다.\n\n2024~2025년식 사이버트럭의 PCS 보증기간을 8년·150,000마일로 연장한다 — 2026년식에 적용되는 표준 보증(7년·70,000마일)보다 긴 기간이다. 아울러 보증이 끝난 뒤 자비로 PCS를 교체했던 오너들에게는 앞으로 몇 주 안에 수리비 전액을 환불하겠다고 안내했다.\n\nPCS는 사이버트럭의 완속(AC) 충전을 담당하는 핵심 부품으로, 고장 시 가정용 충전이 완전히 끊기는 사례가 다수 보고돼왔다. 교체 부품은 최대 10주까지 백오더가 밀려 있어, 테슬라는 그사이 충전이 막힌 차량에 슈퍼차저 무료 이용을 임시 지원하는 조치도 유지하고 있다.\n\n다만 이번 조치도 전체 차량 대상의 공식 리콜은 아니다. 지난달 30일 척 쿡 등 커뮤니티가 정리했던 '리콜 없는 사례별 대응' 구도는 유지되는 셈이지만, 보증 연장과 소급 환불로 비용 부담을 회사가 직접 떠안았다는 점에서 이전보다 한 걸음 나아간 대응으로 풀이된다.",
-      "title_en": "Tesla extends Cybertruck PCS warranty to <em>8 years</em> — full refunds for owners who paid out of pocket",
-      "hotShort_en": "Cybertruck PCS warranty <em>extended to 8 years</em>",
-      "body_en": "Tesla is extending the Power Conversion System (PCS) warranty on 2024-2025 Cybertrucks to 8 years or 150,000 miles, and says it will fully reimburse owners who already paid out of pocket to replace the part — the company's first move to absorb the cost fleet-wide after months of case-by-case fixes, though it's still stopping short of a formal recall.",
-      "summary_en": "Tesla issued a more concrete response on July 31 to the Cybertruck Power Conversion System (PCS) failure controversy that has run since early July.\n\nThe PCS warranty on 2024-2025 Cybertrucks is being extended to 8 years or 150,000 miles — longer than the standard 7-year, 70,000-mile warranty that applies to 2026 models. Tesla also said owners who paid out of pocket for a PCS replacement after their warranty expired will be fully reimbursed in the coming weeks.\n\nThe PCS handles Level 2 AC home charging on the Cybertruck, and failures have left a growing number of owners unable to charge at home. Replacement parts have been on backorder for up to 10 weeks, and Tesla is still offering free Supercharging as a stopgap for affected trucks in the meantime.\n\nStill, this isn't a fleet-wide recall. The case-by-case approach that Tesla community figures like Chuck Cook described on July 30 remains in place, but by extending the warranty and reimbursing past repairs, Tesla is now absorbing more of the cost directly than it had before.",
-      "href": "https://teslanorth.com/2026/07/31/tesla-extends-cybertruck-warranty-after-pcs-part-failures/",
-      "sentiment": "neutral",
       "hot": 6
     },
     {
@@ -189,5 +194,5 @@
       "hot": 7
     }
   ],
-  "asOf": "2026-08-03 16:45 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-03 20:09 KST 자동 갱신 · 최신순"
 }
