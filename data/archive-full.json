@@ -1,6 +1,31 @@
 {
-  "asOf": "2026-08-03 07:34 UTC · 누적 743건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-08-03 11:32 UTC · 누적 744건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-08-03T06:45:03.000Z",
+      "title": "로스 거버 \"테슬라 FSD, 응급차량 지나칠 때 <em>사고 날 뻔했다</em>\"",
+      "hotShort": "로스 거버 \"FSD, 응급차량 지나치다 <em>사고 날 뻔</em>\"",
+      "body": "테슬라 주주이자 대표적 FSD 비판론자인 로스 거버(Gerber Kawasaki CEO)가 자신의 차량 FSD가 응급차량을 지나칠 때 급제동해 사고가 날 뻔했다고 주장 — \"여전히 심각한 문제가 있다\"고 지적하며, 같은 주 나온 테슬라라티의 호평 리뷰와 상반된 목소리를 냈다.",
+      "sourceName": "Benzinga",
+      "sourceLabel": "press",
+      "slug": "fsd-ross-gerber-emergency-vehicle-near-miss-2026-08-03",
+      "summary": "로스 거버는 Gerber Kawasaki 최고경영자로, 테슬라 주주이자 대표적인 FSD 비판론자로 알려져 있다. 그가 이번에 제기한 주장은 최신 FSD가 응급차량을 지나치는 상황에서 급제동해 사고 위험을 초래했다는 것이다.\n\n그는 이 상황을 \"여전히 심각한 문제가 있다(Still Has Major Issues)\"고 표현하며 FSD의 응급 상황 대응 능력에 의문을 제기했다. 해당 주장은 Benzinga·inkl 등 매체를 통해 보도됐다.\n\n공교롭게도 같은 주 테슬라라티는 FSD v14.3.7 실주행 리뷰에서 \"FSD가 사고를 막아줬다\"는 정반대 경험을 전한 바 있다 — 같은 버전을 둘러싸고 엇갈린 실사용 평가가 나오면서, FSD 안정성에 대한 투자자들의 판단은 당분간 갈릴 전망이다.",
+      "title_en": "Ross Gerber: Tesla FSD <em>nearly caused a crash</em> passing emergency vehicles",
+      "hotShort_en": "Gerber: FSD <em>nearly crashed</em> passing emergency vehicles",
+      "body_en": "Prominent Tesla shareholder and FSD critic Ross Gerber (CEO, Gerber Kawasaki) says his car's FSD slammed the brakes while passing emergency vehicles, nearly causing an accident — he says the software \"still has major issues,\" a sharp contrast to Teslarati's largely positive v14.3.7 review the same week.",
+      "summary_en": "Ross Gerber, CEO of Gerber Kawasaki and a well-known Tesla shareholder and FSD critic, said his vehicle's Full Self-Driving nearly caused a crash while passing emergency vehicles on the road.\n\nGerber described the software as \"still has major issues,\" raising fresh questions about how FSD handles emergency-vehicle encounters. The claim was reported by Benzinga and inkl.\n\nThe account arrives just as Teslarati published a largely positive early review of FSD v14.3.7, saying the software \"saved\" the reviewer from an accident — leaving investors with conflicting real-world signals on the same release.",
+      "href": "https://www.benzinga.com/markets/tech/26/08/60863775/ross-gerber-says-teslas-fsd-almost-caused-an-accident-while-passing-emergency-vehicles-still-has-major-issues",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Benzinga",
+        "inkl"
+      ],
+      "sentiment": "bear",
+      "hot": 5
+    },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
