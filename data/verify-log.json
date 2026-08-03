@@ -1,49 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-28T19:45:00.000Z",
-      "mode": "shadow",
-      "checked": 3,
-      "verdicts": [
-        {
-          "slug": "musk-spacex-lockup-1-5t-combined-loss-2026-07-28",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — CNBC",
-            "조언톤 위반 없음",
-            "핵심 수치(합산 $1.5조, SpaceX 8/4 실적·8/6 락업 해제, 9억1150만주=20%, 약 $1230억, 2차 해제 8/20경 4억5580만주, 내재변동성 122) WebSearch 교차검증 — CNBC 원문 WebFetch는 403으로 직접 열람 불가, Investing.com·Morningstar·Motley Fool·Yahoo 4개 독립 매체로 간접 교차검증 완료(수치 일치)",
-            "단정 전환 없음 — 확정된 일정(실적일·락업일)과 시장 컨센서스(옵션 내재변동성)를 구분해 서술",
-            "href-본문 일치 확인, 밈/풍자 아님"
-          ]
-        },
-        {
-          "slug": "product-summer-update-2026-fleet-rollout-2026-07-28",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — Teslarati",
-            "조언톤 위반 없음, 단정 전환 없음",
-            "핵심 사실(내비 개인화·카라오케 채점·모델3/Y 시동 애니메이션·Grok 통화/음악/공조/글러브박스·앱 FSD 통계·커스텀랩·도착충전량, 7/21 예고→이번주 배포 시작) WebSearch 교차검증(Teslarati, Electrek, Digital Trends, autoevolution) — WebFetch 403으로 간접검증",
-            "기존 아카이브의 트랙션컨트롤 카드(2026-07-26)와 다른 세부 기능 — 동일 Summer Update의 후속 배포 단계로 명시해 중복 아님을 표기",
-            "href-본문 일치 확인, 밈/풍자 아님"
-          ]
-        },
-        {
-          "slug": "stock-ark-cathie-wood-buys-dip-2026-07-28",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — Barron's",
-            "조언톤 위반 없음 — ARK의 행동을 사실 보도로만 서술, 매수 권유 표현 없음",
-            "핵심 수치(약 16만 주·4개 ETF명·15% 급락·2분기 인도 48만대 YoY 25%·PER 150배 vs 매그7 평균 24배) WebSearch 교차검증(Barron's, Motley Fool, Yahoo Finance, TheStreet) — WebFetch 403으로 간접검증",
-            "시점 서술 주의 — 정확한 매수 요일(수/목)은 자료마다 표현이 달라 본문에서 특정 요일 대신 \"2분기 실적 발표 직후\"로 완화 표현, 최근 1개월 dedup 대상인 기존 실적발표 급락 카드와는 다른 각도(ARK의 대응)라 신규 카드로 유지",
-            "href-본문 일치 확인, 밈/풍자 아님"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-28T23:06:34.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -767,6 +724,27 @@
             "숫자·날짜 대조: 9월30일 인도 기한 — raw 원문(트윗) 그대로, 지원금액 등 raw에 없는 수치는 카드에도 없음(창작 방지 확인)",
             "본문-링크 일치 — href(x.com/tesla_korea) 원문과 카드 요지 일치",
             "밈·풍자 아님 — 공식 계정의 구체적 정책 공지(수치·일정 포함), 알맹이 없는 단문 아님"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-04T03:30:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "fsd-v14-lite-hw3-computer-failures-2026-08-03",
+          "verdict": "pass",
+          "reasons": [
+            "원문(Electrek) 재대조 완료 — 7/21 전면배포·오너 4명 제보·AI3 8GB/HW4 대비 대역폭 1/8 수치 일치. hedge 표현(제보/지목) 유지, 테슬라 공식 미확인 명시함."
+          ]
+        },
+        {
+          "slug": "product-europe-july-registrations-mixed-2026-08-03",
+          "verdict": "pass",
+          "reasons": [
+            "원문(Reuters, 유럽 등록 기사) 재대조 완료 — 프랑스 +86%·덴마크 +52%·노르웨이 -97%·스웨덴 -60%·스페인 -81%(131대) 수치 일치. 이탈리아 -77%(105대) 수치는 같은 날 로이터의 별도 기사 근거이며 본문에 '별도 보도'로 명시해 href-본문 불일치 소지를 해소함."
           ]
         }
       ]

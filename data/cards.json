@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-08-03T16:02:35.000Z",
+      "title": "electrek: FSD v14 Lite 배포 후 <em>HW3 컴퓨터 과열·먹통 신고 급증</em>",
+      "hotShort": "FSD v14 Lite <em>HW3 컴퓨터 과열 신고 급증</em>",
+      "body": "HW3 차량용 FSD v14 Lite가 7월21일 전면배포(소프트웨어 2026.20.6.11·FSD v14.3.6)된 뒤 2주 새 오토파일럿 컴퓨터 과열 경고·완전 먹통 사례가 늘고 있다고 electrek에 오너 4명이 직접 제보했다 — 메모리 한계가 뚜렷한 구형 AI3 컴퓨터(HW4 대비 대역폭 약 1/8)에 무리하게 얹은 경량 모델의 하드웨어 부담이 원인으로 지목된다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-v14-lite-hw3-computer-failures-2026-08-03",
+      "summary": "HW3(구형 자율주행 컴퓨터) 탑재 차량 오너들은 18개월 넘게 대형 FSD 업데이트를 기다려왔고, 지난 6월 말부터 시작된 FSD v14 Lite 배포로 마침내 HW4급 기능 일부를 맛볼 수 있었다. 그런데 전면배포 2주 만에 이번엔 다른 문제가 불거지고 있다 — 정작 하드웨어가 감당할 수 있느냐는 의문이다.\n\nelectrek에 따르면 지난 7월21일 소프트웨어 2026.20.6.11(FSD v14.3.6)로 v14 Lite가 전면배포된 이후, HW3 차주들 사이에서 오토파일럿 컴퓨터 과열 경고와 심지어 컴퓨터가 완전히 먹통이 되는 사례가 보고되고 있다. 오너 4명이 electrek에 직접 자신의 경험을 제보했다.\n\n기술적 원인은 하드웨어 한계로 지목된다. FSD v14 Lite는 HW4용 v14 신경망 스택의 지능을 압축해 HW3의 AI3 컴퓨터에 맞춘 경량판인데, 이 AI3 컴퓨터는 램 8GB에 메모리 대역폭이 HW4의 약 8분의 1 수준에 불과하다. HW4급 성능을 무리하게 욱여넣은 결과가 하드웨어 부담으로 이어졌다는 분석이다.\n\n테슬라는 아직 이 문제에 대해 공식 입장을 내놓지 않았고, 도로 위 수백만 대에 달하는 HW3 차량 중 얼마나 많은 대수가 영향을 받고 있는지도 불분명하다. 이번 사례는 \"모든 차량에 완전자율주행에 필요한 하드웨어가 갖춰져 있다\"던 테슬라의 오랜 약속과, 일론 머스크 스스로 \"HW3는 그 역량을 갖추지 못했다\"고 인정했던 발언 사이의 간극을 다시 부각시키고 있다.",
+      "title_en": "Electrek: <em>HW3 computer failures rise</em> after FSD v14 Lite rollout",
+      "hotShort_en": "<em>HW3 computer failures rise</em> after v14 Lite update",
+      "body_en": "A growing number of HW3 owners report Autopilot-computer overheating alerts — and in some cases outright failures — in the two weeks since FSD v14 Lite went to wide release on July 21, per Electrek, which heard directly from four affected owners; the lightweight build squeezes HW4-class intelligence onto HW3's memory-constrained AI3 computer.",
+      "summary_en": "For Tesla's HW3 fleet — cars built with the company's third-generation self-driving computer — the wide rollout of FSD v14 Lite in July was meant to finally deliver features HW4 owners had had for months. Weeks later, a cluster of owner reports is raising a different question: can the older hardware handle it at all.\n\nElectrek reports that HW3 owners are describing Autopilot-computer overheating warnings, and in some cases the computer failing outright, since Tesla pushed v14 Lite to wide release with software 2026.20.6.11 (FSD v14.3.6) on July 21. Four owners contacted the outlet directly with their experiences.\n\nThe technical root cause traces to hardware limits: FSD v14 Lite is a distilled version of the HW4 v14 neural-net stack, compressed to run on HW3's AI3 computer, which ships with just 8GB of RAM and roughly one-eighth of HW4's memory bandwidth. Squeezing HW4-level capability into that smaller footprint appears to be straining the older chip.\n\nTesla has not issued an official response to the reports, and the scope of the issue — how many of the millions of HW3 vehicles on the road are affected — remains unclear. The episode adds to a long-running debate over whether HW3, sold for years under Tesla's promise that every car had \"all the hardware needed for full self-driving,\" can ever fully deliver on that claim; Elon Musk has previously acknowledged HW3 \"simply do not have the capability\" to run unsupervised FSD.",
+      "href": "https://electrek.co/2026/08/03/tesla-fsd-v14-lite-hw3-computer-failures/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "3h ago",
@@ -78,22 +98,22 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
-      "pubDate": "2026-08-03T07:00:18.000Z",
-      "title": "테슬라코리아, <em>보조금 공백 지역에 자체 지원금</em> 지급 — 9월30일 인도분까지",
-      "hotShort": "테슬라코리아, <em>자체 지원금</em>으로 보조금 공백 메운다",
-      "body": "테슬라코리아가 지자체 전기차 보조금이 소진돼 추가 편성 계획이 없는 지역 거주 고객에게, 국고 보조금에 준하는 자체 지원금을 9월30일까지 인도 차량에 한해 지급하기로 했다 — 보조금 변동에 따른 구매 불확실성을 회사가 직접 흡수하는 조치.",
-      "sourceName": "Tesla Korea (X)",
-      "sourceLabel": "official",
-      "slug": "product-tesla-korea-self-subsidy-2026-08-03",
-      "summary": "테슬라코리아가 8월3일 공식 X 계정을 통해 신규 지원 프로그램을 공지했다. 일부 지자체의 전기차 보조금이 소진된 뒤 연내 추가 편성(추경) 계획이 없는 지역에 거주하는 고객을 대상으로, 국고 보조금에 준하는 수준의 자체 지원금을 회사가 직접 지급한다는 내용이다.\n\n이는 최근 지자체별로 전기차 보조금 소진 시점이 들쭉날쭉해지면서 구매 시점에 따라 보조금 수혜 여부가 갈리는 문제를, 테슬라가 자체 재원으로 보완하려는 조치로 풀이된다 — 보조금 변동성 때문에 인도가 지연되거나 구매를 망설이는 고객을 줄이려는 목적이다.\n\n지원 대상은 \"보조금 마감 후 추경 예정이 없는 지역\" 거주자로 한정되며, 적용 기간은 2026년 9월30일 이내 차량을 인도받는 경우까지다. 구체적인 지원 금액이나 산정 기준은 이번 공지에 명시되지 않았다.\n\n전기차 보조금이 지자체 예산에 따라 소진 시점이 제각각인 국내 시장 특성상, 완성차 업체가 국고 보조금 공백을 자체 재원으로 메우는 사례는 이례적이다 — 테슬라가 국내 판매 모멘텀을 유지하기 위해 어느 정도의 비용 부담을 감수하고 있음을 보여준다.",
-      "title_en": "Tesla Korea offers <em>self-funded subsidy</em> to fill gaps left by exhausted local EV incentives",
-      "hotShort_en": "Tesla Korea rolls out <em>self-funded EV subsidy</em>",
-      "body_en": "Tesla Korea announced it will pay customers in regions where local government EV subsidies have run out — with no supplemental budget planned this year — a self-funded incentive matching the national subsidy, for vehicles delivered by Sept. 30, 2026, absorbing the uncertainty from fluctuating subsidy budgets itself.",
-      "summary_en": "Tesla Korea announced the new program via its official X account on Aug. 3. Customers living in regions where local EV subsidies have been exhausted, with no supplemental budget planned for the rest of the year, will receive a self-funded incentive from Tesla matching the level of the national subsidy.\n\nThe move appears aimed at smoothing over a growing headache in Korea's EV market: local subsidy budgets run dry at different times across regions, so whether a buyer qualifies for support can hinge on timing alone. By covering the gap itself, Tesla is looking to reduce delivery delays or hesitation among buyers caught in subsidy-less regions.\n\nEligibility is limited to buyers in areas with no planned supplemental subsidy budget, and the offer applies only to vehicles delivered by Sept. 30, 2026. Tesla's announcement did not specify the exact subsidy amount or how it will be calculated.\n\nBecause South Korea's regional EV subsidies run out at different times depending on local budgets, an automaker covering the resulting gap out of its own pocket is unusual — a sign Tesla is willing to absorb some cost to keep sales momentum going domestically.",
-      "href": "https://x.com/tesla_korea/status/2084172489295528004",
-      "sentiment": "bull",
-      "hot": 4
+      "time": "9h ago",
+      "pubDate": "2026-08-03T07:45:43.000Z",
+      "title": "테슬라 7월 유럽 등록대수 <em>극과 극</em> — 이탈리아 -77%, 프랑스 +86%",
+      "hotShort": "테슬라 7월 유럽등록 <em>이탈리아 -77%</em> 프랑스는 급증",
+      "body": "로이터 집계로 테슬라의 7월 유럽 각국 등록대수가 극명하게 갈렸다 — 프랑스(+86%)·덴마크(+52%)는 급증한 반면 노르웨이(-97%)·스웨덴(-60%)·스페인(-81%·131대)은 급감했고, 같은 날 로이터의 별도 보도에 따르면 이탈리아도 105대(-77%)로 크게 줄었다 — 유럽 EV 시장 전반의 호조와 별개로 테슬라만의 국가별 변동성이 두드러진다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "product-europe-july-registrations-mixed-2026-08-03",
+      "summary": "7월 유럽 각국 자동차 등록 통계에서 테슬라의 성적표가 국가마다 크게 엇갈렸다. 로이터가 각국 교통당국·업계 데이터를 집계한 결과, 유럽 전역에서 배터리 전기차(BEV) 수요 자체는 견조하게 이어지고 있지만 테슬라의 판매는 시장 전반의 흐름과 따로 움직이는 모습이다.\n\n로이터에 따르면 프랑스는 전년 동월 대비 86% 급증했고 덴마크도 52% 늘었다. 반면 노르웨이는 97% 급감했고 스웨덴은 60% 줄었으며, 스페인은 131대(-81.3%)에 그쳤다. 같은 날 로이터가 별도로 보도한 이탈리아 교통부 집계에서도 테슬라는 7월 한 달간 105대 판매(-77%, 시장점유율 0.09%)에 그쳤다.\n\n다만 이탈리아의 경우 단월 수치만으로 부진을 단정하기는 이르다 — 올해 1~7월 누적으로는 8,023대(점유율 0.76%)로 전년 동기 대비 15.86% 늘었기 때문이다. 같은 달, 같은 지역에서 이렇게 극단적으로 갈리는 것은 신모델 출시·인센티브 정책 등 국가별 변수가 판매에 크게 작용하고 있음을 시사한다.\n\n유럽 전체 배터리 전기차(BEV) 수요는 6월 기준 약 51% 증가한 것으로 집계되는 등 여전히 견조하다 — 즉 테슬라의 부진이 유럽 EV 시장 전반의 침체 때문은 아니라는 뜻이다. 테슬라의 유럽 판매는 두 자릿수 역성장을 겪었던 지난 2년과 달리, 낮아진 전년 기저와 인센티브·EV 관심 확대에 힘입어 올해 회복세를 보여왔는데, 7월 국가별 데이터는 그 회복이 고르지 않다는 점을 드러낸다.",
+      "title_en": "Tesla's July Europe registrations <em>split wide</em> — Italy -77%, France +86%",
+      "hotShort_en": "<em>Italy -77%</em> vs France +86% for Tesla in EU",
+      "body_en": "Reuters data show Tesla's July European registrations diverging sharply — France (+86%) and Denmark (+52%) surged while Norway (-97%), Sweden (-60%), and Spain (-81%, 131 units) plunged, and a same-day companion Reuters report put Italy down 77% too (105 units), underscoring country-specific swings even as Europe's broader EV demand stays healthy.",
+      "summary_en": "Tesla's July vehicle-registration figures across Europe told very different stories depending on the country. Reuters' compilation of national transport data shows battery-EV demand holding up broadly across the continent — even as Tesla's own sales moved out of step with that trend.\n\nReuters reported France up 86% year-over-year and Denmark up 52%. Norway, by contrast, was down 97%, Sweden down 60%, and Spain fell to just 131 units (-81.3%). A separate same-day Reuters report on Italy's transport-ministry data found Tesla sold just 105 cars there in July, down 77% year-over-year, for a 0.09% market share.\n\nItaly's single-month number is too early to call a broader retreat, though — over the first seven months of 2026, Tesla's Italian registrations are actually up 15.86% year-over-year to 8,023 units (0.76% share). Such extremes within the same month and region point to country-specific factors — new-model timing, incentive changes — driving the divergence more than any continent-wide trend.\n\nBroader European battery-EV demand stayed robust, with BEV registrations up roughly 51% in June by some estimates — evidence that Tesla's weak spots aren't a sign of a wider EV slowdown. Unlike the double-digit annual declines Tesla saw in Europe the past two years, sales have been recovering in 2026 on easier year-ago comparisons and incentives, but July's country-by-country data shows that recovery remains uneven.",
+      "href": "https://www.reuters.com/business/teslas-european-registrations-uneven-july-despite-broader-ev-momentum-2026-08-03/",
+      "sentiment": "neutral",
+      "hot": 5
     },
     {
       "category": "fsd",
@@ -141,32 +161,6 @@
       "hot": 6
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2d ago",
-      "pubDate": "2026-07-31T17:08:12.000Z",
-      "title": "스페이스X 공매도 <em>테슬라 앞질러</em> $246억 — 8/4 실적·8/6 락업 겹악재",
-      "hotShort": "스페이스X 공매도 <em>테슬라 추월</em> — 실적·락업 대기",
-      "body": "스페이스X 공매도 잔고가 7월29일 기준 2억1930만주(유통물량의 34%)로, 첫 집계일인 6월16일(2330만주) 대비 9배 넘게 불어나며 베팅 규모($246억)가 테슬라 공매도 금액을 앞질렀다 — 8월4일 첫 분기 실적 발표와 8월6일 첫 락업 해제를 사흘 간격으로 앞두고 약세론이 급격히 쏠린 신호.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-short-interest-record-2026-07-31",
-      "summary": "블룸버그에 따르면 스페이스X의 공매도 잔고가 최근 6주 새 급격히 불어났다. S3파트너스 집계로 7월29일 기준 공매도 물량은 2억1930만주로, 유통 가능 주식의 약 34%에 해당한다 — 이 지표가 처음 집계된 6월16일(2330만주)과 비교하면 9배 넘게 증가한 규모다.\n\n금액 기준으로도 스페이스X 공매도 베팅 규모($246억)가 테슬라를 상대로 한 공매도 금액을 넘어섰다 — 두 회사 모두 일론 머스크가 최대주주 겸 CEO를 맡고 있지만, 최근 들어 약세론의 화력이 스페이스X 쪽으로 옮겨갔다는 의미로 해석된다.\n\n공매도 세력이 겨냥하는 다음 이벤트는 두 가지다 — 8월4일(화) 상장 후 첫 분기 실적 발표, 그리고 이틀 뒤인 8월6일 첫 락업 해제(발행주식의 20%, 약 9억1150만주가 매도 가능해짐)다. 두 이벤트가 사흘 간격으로 겹치면서 주가 변동성이 커질 것이란 경계감이 반영된 결과로 풀이된다.\n\n스페이스X 주가는 7월31일 108.89달러 선에서 거래되며 이날 하루 2.95% 하락했다 — 최근 한 달간 약 30.9%, 1년간 19.4% 떨어진 상태다.\n\n스페이스X는 8월4일 장 마감 후 진행하는 이 첫 실적콜의 투자자 질의응답을 일론 머스크의 xAI가 만든 그록(Grok) 기반 시스템으로 접수해 처리한다 — 상장 후 첫 공개 콜이라는 상징성에 맞춰 사전 질문을 그록으로 수집·정리하는 방식.\n\n한편 로이터에 따르면 스페이스X는 8월 4일 콜을 앞두고 자체 투자자 질의 창구(questiontime.ir.spacex.com)를 운영 중이다 — 업계 표준인 세이 테크놀로지즈(Say Technologies) 대신 xAI의 그록 기반 자체 도구를 택해 발행사(스페이스X)·AI(xAI)·유통(X) 전 과정을 머스크 생태계 안에 묶었다. 정작 개인 투자자들이 가장 많이 추천한 질문은 재무 지표가 아니라 NASA 아르테미스 계획용 유인착륙선(HLS) 영상 추가 공개 요청 같은 비재무성 주제에 쏠렸고, 월가는 이번 분기 매출 약 69억달러·주당순손실 0.28달러를 컨센서스로 보고 있다.",
-      "title_en": "SpaceX short interest <em>overtakes Tesla's</em> — $24.6B bet ahead of Aug. 4 earnings, Aug. 6 lockup",
-      "hotShort_en": "SpaceX short bets <em>top Tesla's</em> before earnings",
-      "body_en": "SpaceX's short interest has ballooned to 219.3 million shares — about 34% of shares available for public trading — as of July 29, up more than ninefold from 23.3 million when first tracked on June 16, according to S3 Partners data cited by Bloomberg. The $24.6 billion bearish bet now exceeds short positions against Tesla itself, with traders bracing for SpaceX's first quarterly earnings as a public company on Aug. 4 and its first post-IPO lockup expiration two days later.",
-      "summary_en": "Bloomberg reports that SpaceX's short interest has surged sharply over the past six weeks. According to S3 Partners data, short positions stood at 219.3 million shares as of July 29 — about 34% of the stock available for public trading — more than nine times the 23.3 million shares recorded when the metric was first tracked on June 16.\n\nIn dollar terms, the bearish bet against SpaceX, now worth $24.6 billion, has surpassed the value of short positions against Tesla — even though Elon Musk is CEO and largest shareholder of both companies, suggesting bears have shifted more of their firepower toward SpaceX.\n\nShort sellers are positioning ahead of two closely spaced catalysts: SpaceX's first quarterly earnings report as a public company on Tuesday, Aug. 4, and its first post-IPO lockup expiration just two days later on Aug. 6, when 20% of restricted shares — roughly 911.5 million shares — become eligible for sale.\n\nSpaceX shares traded around $108.89 on July 31, down 2.95% for the day — the stock has fallen about 30.9% over the past month and 19.4% over the past year.\n\nFor its first call as a public company on Aug. 4, SpaceX is collecting shareholder questions through a Grok-powered Q&A tool built by Elon Musk's xAI — underscoring how central the AI venture has become across his companies.\n\nAccording to Reuters, SpaceX is running its own investor question portal at questiontime.ir.spacex.com ahead of the Aug. 4 call, opting for an in-house Grok-powered tool built by xAI instead of the industry-standard Say Technologies platform — keeping issuer (SpaceX), AI layer (xAI) and distribution (X) all inside Musk's ecosystem. The most-upvoted retail investor questions skewed away from financial metrics, focusing instead on requests for more footage of Starship's Human Landing System for NASA's Artemis moon program, while Wall Street is modeling roughly $6.9 billion in quarterly revenue and a $0.28 per-share loss.",
-      "href": "https://www.bloomberg.com/news/articles/2026-07-31/spacex-short-interest-soars-ahead-of-big-share-unlock-earnings",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Bloomberg",
-        "Investing.com",
-        "Reuters"
-      ],
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "3d ago",
@@ -194,5 +188,5 @@
       "hot": 7
     }
   ],
-  "asOf": "2026-08-04 01:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-04 03:30 KST 자동 갱신 · 최신순"
 }
