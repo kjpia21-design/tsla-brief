@@ -1,38 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-29T06:50:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "fsd-eu-supervised-safety-data-5x-2026-07-28",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct — TeslaNorth relays Tesla self-published EU data, not a raw official statement/filing",
-            "no advisory tone",
-            "hedge preserved: card explicitly states self-published/unaudited, matching source caveat",
-            "all figures (5.2x, 65M km, 5 countries since April, highway 41.9M km/0 vs 429.3M km/88 = 8.5x, non-highway 23.8M km/6 vs 514.5M km/368 = 2.8x, AEB/accel/braking/swerve multipliers) cross-checked via WebSearch against TeslaNorth/Zecar coverage — exact match",
-            "June 2026 Reuters/Electrek misleading-data context (32,000 lives/year claim, 10 of 11 researchers calling it misleading) cross-checked and accurate",
-            "href matches described story"
-          ]
-        },
-        {
-          "slug": "product-zelestra-texas-solar-ppa-140mw-2026-07-28",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct — Electrek reporting a corporate PPA announcement",
-            "no advisory tone",
-            "no hedge-to-assertion drift — straightforward business deal, no speculative claims",
-            "figures (140MW Lumen Farm, northeast Texas, construction 2027/full ops 2029, no pricing disclosed, prior 57MW Spain PPA last year) cross-checked via Interesting Engineering/BIC Magazine/Zelestra press release — exact match",
-            "href matches described story"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-29T10:55:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -745,6 +713,39 @@
             "numbers/details cross-checked via WebSearch against TeslaNorth + Not a Tesla App coverage of software 2026.21.5 / FSD 14.3.7 — Aug 1 rollout date, MLIR compiler rewrite, RL training upgrade, vision encoder upgrade, 20% faster reaction time, intervention-free distance/streak UI, parking-on-map feature — all match",
             "href (teslanorth.com) matches card subject — same release notes article",
             "not X-sourced, no meme/satire risk; card merges/updates prior early-review card (same underlying FSD 14.3.7 event) rather than duplicating it, per dedup rule for event follow-ups"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-03T23:08:53.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "stock-3day-gain-nhtsa-shrug-2026-08-03",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Barron's is financial press, not sec/official/rumor",
+            "no advisory tone (no buy/sell recommendation or price target)",
+            "hedge preserved — source confirms probe is still preliminary/no recall yet, matching card's '아직 리콜 단계가 아니다'",
+            "figures cross-checked via WebSearch (multiple secondary sources): 1.2M vehicles, July 31 probe start, Model 3/Y model years all match; card deliberately omits specific price/% since not independently verifiable",
+            "href subject (stock move + safety inquiry) matches card content",
+            "primary URL (barrons.com) blocked by WebFetch (403/paywall) — verified via cross-source corroboration instead; fail-open per shadow mode"
+          ]
+        },
+        {
+          "slug": "fsd-insurance-tennessee-expansion-2026-08-03",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Teslarati is EV trade press, not sec/official/rumor",
+            "no advisory tone",
+            "no hedge-to-assertion violation — expansion/discount%/state order stated as fact in corroborating sources too",
+            "figures cross-checked via WebSearch: 50% FSD-mile discount, Tennessee as 5th state after Arizona/Oregon/Indiana/Colorado, all match",
+            "href (teslarati.com) is the primary story for this exact expansion — no body/link mismatch",
+            "primary URL (teslarati.com) blocked by WebFetch (403) — verified via cross-source corroboration instead; fail-open per shadow mode"
           ]
         }
       ]

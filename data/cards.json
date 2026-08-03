@@ -1,29 +1,44 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-08-03T20:18:00.000Z",
+      "title": "테슬라 주가 3거래일 연속 상승 마감 — NHTSA 서스펜션 조사 <em>여파는 제한적</em>",
+      "hotShort": "테슬라 주가 3일 연속 상승 — 조사 <em>여파는 제한적</em>",
+      "body": "테슬라 주가가 3거래일 연속 상승 마감했다 — 지난달 31일 NHTSA가 모델3·Y 120만 대를 대상으로 서스펜션 결함 예비조사에 착수했지만, 아직 리콜 단계가 아니라는 판단에 시장은 별다른 매도 압력을 보이지 않고 있다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-3day-gain-nhtsa-shrug-2026-08-03",
+      "summary": "지난달 31일 NHTSA가 테슬라 모델3·모델Y 약 120만 대를 대상으로 서스펜션 결함 예비조사에 착수한다고 밝혔지만, 정작 테슬라 주가는 이후 3거래일 연속 상승 마감하며 뚜렷한 매도세 없이 지나가는 모습이다.\n\n해당 조사는 전방 하부 서스펜션 링크 이탈과 관련해 소비자 불만 156건이 접수되며 시작됐다 — NHTSA는 현재까지 사고·부상 보고는 없다고 밝혔고, 결함으로 결론 나면 과거(2021년 2,800대·2023년 422대) 소규모 리콜보다 훨씬 큰 규모로 번질 수 있다.\n\n시장이 이를 크게 반영하지 않은 배경으로는, 이번 단계가 아직 '예비평가(Preliminary Evaluation)'에 그쳐 결함 확정이나 리콜과는 거리가 있다는 점이 꼽힌다 — 투자자들은 조사 착수 자체보다 실제 결함 확정·리콜 여부에 더 민감하게 반응하는 경향을 보여왔다.\n\n다만 조사 대상이 테슬라 주력 차종인 모델3·Y 120만 대에 달하는 만큼, 예비평가가 본조사(EA)나 리콜로 격상될 경우 이번처럼 담담한 반응이 이어질지는 미지수다.",
+      "title_en": "Tesla stock notches <em>third straight gain</em>, shrugging off NHTSA suspension probe",
+      "hotShort_en": "Tesla stock's <em>3rd straight gain</em> despite NHTSA probe",
+      "body_en": "Tesla shares closed higher for a third consecutive session — even after NHTSA opened a preliminary probe on July 31 into roughly 1.2M Model 3 and Model Y vehicles over a suspension-link defect, the market has shown little selling pressure, with the investigation still short of a recall.",
+      "summary_en": "NHTSA said on July 31 it was opening a preliminary evaluation into about 1.2M Tesla Model 3 and Model Y vehicles over a suspension defect — yet Tesla stock has closed higher for three straight sessions since, with no clear sign of sustained selling.\n\nThe probe stems from 156 consumer complaints about the front lower suspension link detaching; NHTSA says it isn't aware of any crashes or injuries so far, but a confirmed defect could trigger a recall far larger than Tesla's prior fixes for the same part (2,800 Model 3s in 2021, 422 in 2023).\n\nOne reason the market hasn't reacted more sharply: this is still just a \"preliminary evaluation\" — a first-stage inquiry, not a confirmed defect finding or a recall. Investors have historically tended to react more to an actual recall decision than to the opening of an investigation itself.\n\nStill, with roughly 1.2M of Tesla's highest-volume models under review, it's an open question whether the market stays this calm if the probe escalates into a full engineering analysis or a recall.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-today-safety-inquiry-b88bcba7",
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-08-03T19:04:51.000Z",
-      "title": "테슬라 FSD 14.3.7 전면배포 — <em>반응속도 20% 개선</em>",
-      "hotShort": "FSD 14.3.7 전면배포 — <em>반응속도 20% 개선</em>",
-      "body": "테슬라가 8월1일부터 소프트웨어 2026.21.5로 FSD(Supervised) 14.3.7 전면배포를 시작했다 — AI 컴파일러를 MLIR 기반으로 전면 재작성해 반응속도를 20% 높이고 강화학습·비전 인식 성능도 함께 끌어올렸다. 로보택시 상용화 시점을 가늠하는 핵심 지표인 자율주행 기술 성숙도에 진전 신호로 주목된다.",
-      "sourceName": "TeslaNorth",
+      "time": "3h ago",
+      "pubDate": "2026-08-03T18:54:19.000Z",
+      "title": "레모네이드 자율주행 보험 <em>테네시로 확대</em> — FSD 마일 보험료 50%↓, 5번째 주",
+      "hotShort": "레모네이드 FSD 보험할인 <em>테네시로 확대</em>",
+      "body": "보험사 레모네이드(Lemonade)가 FSD 작동 중 주행 마일에 보험료를 50% 할인해주는 자율주행 보험 프로그램을 테네시주로 확대했다 — 애리조나·오리건·인디애나·콜로라도에 이은 5번째 주로, 제3자 보험사가 테슬라의 FSD 안전성 데이터를 실제 요율에 반영하는 사례가 늘고 있다는 신호.",
+      "sourceName": "Teslarati",
       "sourceLabel": "press",
-      "slug": "fsd-v1437-review-saved-accident-2026-08-02",
-      "summary": "테슬라가 8월1일부터 소프트웨어 버전 2026.21.5를 통해 FSD(Supervised) 14.3.7 전면배포를 시작했다. HW3 차량용 경량판 'v14 Lite'가 최근 컴퓨터 과열 논란에 휩싸인 것과 별개로, 이번 14.3.7은 HW4급 차량이 받는 정식 v14 라인업의 최신 버전이다.\n\n공식 릴리즈 노트에 따르면 강화학습(RL) 훈련 단계가 업그레이드돼 다양한 주행 시나리오에서 개선이 이뤄졌고, 신경망 비전 인코더도 개선돼 저시인성·희귀 상황 인식, 3D 형상 이해, 교통표지 인식 능력이 강화됐다.\n\n가장 눈에 띄는 변화는 AI 컴파일러·런타임을 MLIR 기반으로 처음부터 다시 작성한 것이다 — 그 결과 반응속도가 20% 빨라졌고 모델 개발 반복 속도도 향상됐다. 인터페이스 측면에서는 개입 없이 주행한 거리와 최장 무개입 기록을 앱에서 확인할 수 있게 됐고, 목적지 도착 시 주차 옵션이 지도에 표시되는 기능도 추가됐다.\n\n앞서 테슬라라티 리뷰어는 이 버전을 시험 주행한 지 40분 만에 부주의하게 끼어든 차량과의 충돌을 차량이 스스로 피하는 장면을 목격했다고 전했고, 90마일 주행 동안 이전 버전(v14.3.6)에서 지적됐던 급제동·핸들 떨림 같은 불안정한 움직임도 크게 줄었다고 평가한 바 있다.\n\n다만 이는 개별 리뷰어 체험담과 테슬라 자체 릴리즈 노트에 근거한 것으로, 대규모 사용자 데이터에 기반한 공식 검증 통계는 아니다. 로보택시·FSD 기술 성숙도가 테슬라 밸류에이션의 핵심 변수로 꼽히는 가운데(스티펠 등 애널리스트도 이 점을 지목), 이번 업데이트는 그 진행 상황을 보여주는 하나의 데이터 포인트로 주목된다.",
-      "title_en": "Tesla rolls out FSD 14.3.7 — <em>20% faster reaction time</em>",
-      "hotShort_en": "FSD 14.3.7 wide release: <em>20% faster</em>",
-      "body_en": "Tesla began wide-releasing FSD (Supervised) 14.3.7 on Aug. 1 via software 2026.21.5 — a ground-up MLIR rewrite of its AI compiler cut reaction time by 20%, alongside upgrades to reinforcement-learning training and vision recognition — a data point on the autonomy maturity underpinning Tesla's Robotaxi valuation case.",
-      "summary_en": "Tesla began wide-releasing FSD (Supervised) 14.3.7 on August 1 via software version 2026.21.5. Separate from the HW3-targeted lightweight \"v14 Lite\" build, which has recently drawn complaints over computer overheating, 14.3.7 is the latest release in the full v14 lineup running on HW4-class vehicles.\n\nPer the official release notes, the reinforcement-learning (RL) training stage was upgraded, improving performance across a wide range of driving scenarios, and the neural-network vision encoder was also improved — strengthening understanding of rare and low-visibility scenarios, 3D geometry, and traffic-sign recognition.\n\nThe most notable change is a ground-up rewrite of the AI compiler and runtime using MLIR, which Tesla says delivers 20% faster reaction time and faster model-iteration speed. On the interface side, the app can now show distance driven without intervention and a driver's longest intervention-free streak, and parking options now appear on the map upon arrival at a destination.\n\nEarlier, a Teslarati reviewer testing the same version said the car avoided a collision with a carelessly merging vehicle within the first 40 minutes of driving, and that over roughly 90 miles the brake-stabbing and wheel-jerking instability flagged in the prior v14.3.6 was markedly reduced.\n\nStill, that's a single reviewer's account paired with Tesla's own release notes — not an official, large-sample validation. With FSD and Robotaxi maturity repeatedly cited by analysts, including Stifel, as the central variable in Tesla's valuation, this update is a notable data point on that progress.",
-      "href": "https://teslanorth.com/2026/08/03/tesla-2026-21-5-release-notes-fsd-supervised-14-3-7-is-here/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "TeslaNorth",
-        "Not a Tesla App"
-      ],
+      "slug": "fsd-insurance-tennessee-expansion-2026-08-03",
+      "summary": "레모네이드는 올해 1월21일 자율주행차 전용 보험 상품을 세계 최초로 공개하며 테슬라 FSD를 첫 적용 대상으로 삼았다. 이후 1월26일 애리조나를 시작으로 오리건(약 한 달 뒤)·인디애나(6월 초)·콜로라도(6월 말)까지 순차적으로 지역을 넓혀왔고, 이번 테네시가 다섯 번째 확대 주가 됐다.\n\n8월3일 발표된 테네시 확대에 따라, 해당 주 테슬라 오너는 FSD가 켜진 상태로 주행한 마일에 대해 보험료를 50% 할인받을 수 있다.\n\n레모네이드는 이 같은 요율 설계의 근거로 테슬라 자체 데이터를 인용한다 — FSD로 주행한 마일이 사람이 직접 운전한 마일보다 사고 위험이 절반 수준(약 2배 안전)이라는 주장이다.\n\n제3자 보험사가 자체 손해율 판단에 근거해 FSD 마일에 실질적인 보험료 혜택을 주는 사례가 하나둘 늘고 있다는 것은, FSD 안전성 주장이 규제기관 밖 시장에서도 조금씩 검증되고 있다는 신호로 읽힌다 — 다만 아직 5개 주에 그쳐 전국 단위 검증과는 거리가 있다.",
+      "title_en": "Lemonade expands FSD auto insurance discount to <em>Tennessee</em> — 5th state",
+      "hotShort_en": "Lemonade's FSD insurance discount <em>expands to Tennessee</em>",
+      "body_en": "Insurer Lemonade has expanded its autonomous-driving insurance program — which gives a 50% discount on premiums for miles driven with FSD engaged — to Tennessee, the fifth state after Arizona, Oregon, Indiana, and Colorado, another sign that third-party insurers are starting to price in Tesla's own FSD safety data.",
+      "summary_en": "Lemonade unveiled what it called the first-of-its-kind autonomous-driving insurance product on January 21, starting with Tesla's FSD. It then rolled the program out state by state — Arizona on January 26, Oregon about a month later, Indiana in early June, and Colorado later that month — before adding Tennessee as its fifth state.\n\nUnder the Tennessee expansion, announced August 3, Tesla owners in the state can get a 50% discount on premiums for miles driven with FSD active.\n\nLemonade points to Tesla's own data to justify the pricing — the company's claim that FSD-driven miles carry roughly half the crash risk (about 2x safer) of miles driven manually.\n\nThe steady drip of third-party insurers building real premium discounts around FSD miles, based on their own loss-ratio judgment, is a sign that Tesla's safety claims for FSD are being tested — and partly validated — in the market, not just by regulators. Still, with the program live in only five states so far, it's far from a nationwide verdict.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-insurance-program-heavy-discount-expands/",
       "sentiment": "bull",
-      "hot": 5
+      "hot": 3
     },
     {
       "category": "fsd",
@@ -141,31 +156,6 @@
       "hot": 5
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2d ago",
-      "pubDate": "2026-07-31T20:15:00.000Z",
-      "title": "美 이사콰(Issaquah)서 테슬라 FSD 반대차선 침범 사고 — <em>차체 후미 3분의 1 절단</em>, 부상자 없어",
-      "hotShort": "테슬라 FSD 반대차선 침범 — <em>후미 3분의 1 절단</em>",
-      "body": "美 워싱턴주 이사콰(Issaquah)에서 FSD(완전자율주행) 모드로 주행 중이던 테슬라 차량이 반대차선으로 갑자기 침범해 캐딜락 에스컬레이드와 충돌, 차체 후미 3분의 1이 통째로 절단됐다 — 다행히 부상자는 없었지만, 현지 경찰은 조사 결과 사고 당시 FSD가 작동 중이었다고 확인하며 자율주행 기능이 있어도 사고 책임은 운전자에게 있다고 강조했다.",
-      "sourceName": "KATU",
-      "sourceLabel": "press",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "KATU",
-        "KOMO"
-      ],
-      "slug": "fsd-issaquah-crash-rear-severed-2026-07-31",
-      "summary": "이번 주 수요일 미국 워싱턴주 이사콰(Issaquah)의 뉴포트 웨이 NW(Newport Way NW) 500블록 사고 현장에 출동한 경찰은, 테슬라 차량의 후미 3분의 1이 완전히 분리된 심각한 파손 상태를 확인했다.\n\n경찰 조사에 따르면 해당 테슬라는 사고 당시 FSD(Full Self-Driving) 모드로 주행 중이었으며, 주행 도중 갑자기 반대차선으로 침범해 마주 오던 캐딜락 에스컬레이드와 충돌한 것으로 파악됐다.\n\n차량 파손 정도에 비해 인명 피해는 없었던 것으로 확인됐다 — 양측 탑승자 모두 부상을 입지 않았다고 경찰은 밝혔다.\n\n이사콰 경찰은 이번 사고를 계기로, 완전자율주행이든 부분자율주행이든 자율주행 시스템이 탑재된 차량이라도 안전 운행의 최종 책임은 운전자에게 있다는 점을 다시 한번 강조했다.",
-      "title_en": "Tesla in FSD mode crosses into oncoming lane near Seattle — <em>rear third of car severed</em>",
-      "hotShort_en": "Tesla FSD crash <em>shears off rear third</em>",
-      "body_en": "A Tesla driving in Full Self-Driving mode suddenly crossed into oncoming traffic in Issaquah, Washington and collided with a Cadillac Escalade, shearing off the rear third of the car — no one was injured, but police confirmed FSD was engaged at the time and reiterated that drivers remain responsible for safe operation even with self-driving features active.",
-      "summary_en": "Police responding to a crash on the 500 block of Newport Way NW in Issaquah, Washington this week found that the rear third of a Tesla had been completely severed from the rest of the vehicle.\n\nAccording to the investigation, the Tesla was operating in Full Self-Driving mode when it suddenly swerved into oncoming traffic and struck a Cadillac Escalade head-on.\n\nDespite the severity of the damage, no injuries were reported on either side of the crash.\n\nIssaquah police used the incident to remind drivers that even with a full or partial self-driving system engaged, the driver remains legally responsible for the safe operation of the vehicle.",
-      "href": "https://katu.com/news/local/tesla-electric-car-safety-in-full-self-driving-mode-rear-ends-suv-ends-up-severed-issaquah-police-cadillac-escalade-suv-safety-driver-responsibility",
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "3d ago",
@@ -193,5 +183,5 @@
       "hot": 7
     }
   ],
-  "asOf": "2026-08-04 05:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-04 08:08 KST 자동 갱신 · 최신순"
 }

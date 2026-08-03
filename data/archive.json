@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-08-03T20:18:00.000Z",
+      "title": "테슬라 주가 3거래일 연속 상승 마감 — NHTSA 서스펜션 조사 <em>여파는 제한적</em>",
+      "hotShort": "테슬라 주가 3일 연속 상승 — 조사 <em>여파는 제한적</em>",
+      "body": "테슬라 주가가 3거래일 연속 상승 마감했다 — 지난달 31일 NHTSA가 모델3·Y 120만 대를 대상으로 서스펜션 결함 예비조사에 착수했지만, 아직 리콜 단계가 아니라는 판단에 시장은 별다른 매도 압력을 보이지 않고 있다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-3day-gain-nhtsa-shrug-2026-08-03",
+      "summary": "지난달 31일 NHTSA가 테슬라 모델3·모델Y 약 120만 대를 대상으로 서스펜션 결함 예비조사에 착수한다고 밝혔지만, 정작 테슬라 주가는 이후 3거래일 연속 상승 마감하며 뚜렷한 매도세 없이 지나가는 모습이다.\n\n해당 조사는 전방 하부 서스펜션 링크 이탈과 관련해 소비자 불만 156건이 접수되며 시작됐다 — NHTSA는 현재까지 사고·부상 보고는 없다고 밝혔고, 결함으로 결론 나면 과거(2021년 2,800대·2023년 422대) 소규모 리콜보다 훨씬 큰 규모로 번질 수 있다.\n\n시장이 이를 크게 반영하지 않은 배경으로는, 이번 단계가 아직 '예비평가(Preliminary Evaluation)'에 그쳐 결함 확정이나 리콜과는 거리가 있다는 점이 꼽힌다 — 투자자들은 조사 착수 자체보다 실제 결함 확정·리콜 여부에 더 민감하게 반응하는 경향을 보여왔다.\n\n다만 조사 대상이 테슬라 주력 차종인 모델3·Y 120만 대에 달하는 만큼, 예비평가가 본조사(EA)나 리콜로 격상될 경우 이번처럼 담담한 반응이 이어질지는 미지수다.",
+      "title_en": "Tesla stock notches <em>third straight gain</em>, shrugging off NHTSA suspension probe",
+      "hotShort_en": "Tesla stock's <em>3rd straight gain</em> despite NHTSA probe",
+      "body_en": "Tesla shares closed higher for a third consecutive session — even after NHTSA opened a preliminary probe on July 31 into roughly 1.2M Model 3 and Model Y vehicles over a suspension-link defect, the market has shown little selling pressure, with the investigation still short of a recall.",
+      "summary_en": "NHTSA said on July 31 it was opening a preliminary evaluation into about 1.2M Tesla Model 3 and Model Y vehicles over a suspension defect — yet Tesla stock has closed higher for three straight sessions since, with no clear sign of sustained selling.\n\nThe probe stems from 156 consumer complaints about the front lower suspension link detaching; NHTSA says it isn't aware of any crashes or injuries so far, but a confirmed defect could trigger a recall far larger than Tesla's prior fixes for the same part (2,800 Model 3s in 2021, 422 in 2023).\n\nOne reason the market hasn't reacted more sharply: this is still just a \"preliminary evaluation\" — a first-stage inquiry, not a confirmed defect finding or a recall. Investors have historically tended to react more to an actual recall decision than to the opening of an investigation itself.\n\nStill, with roughly 1.2M of Tesla's highest-volume models under review, it's an open question whether the market stays this calm if the probe escalates into a full engineering analysis or a recall.",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-today-safety-inquiry-b88bcba7",
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
@@ -24,6 +44,26 @@
       ],
       "sentiment": "bull",
       "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-08-03T18:54:19.000Z",
+      "title": "레모네이드 자율주행 보험 <em>테네시로 확대</em> — FSD 마일 보험료 50%↓, 5번째 주",
+      "hotShort": "레모네이드 FSD 보험할인 <em>테네시로 확대</em>",
+      "body": "보험사 레모네이드(Lemonade)가 FSD 작동 중 주행 마일에 보험료를 50% 할인해주는 자율주행 보험 프로그램을 테네시주로 확대했다 — 애리조나·오리건·인디애나·콜로라도에 이은 5번째 주로, 제3자 보험사가 테슬라의 FSD 안전성 데이터를 실제 요율에 반영하는 사례가 늘고 있다는 신호.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "fsd-insurance-tennessee-expansion-2026-08-03",
+      "summary": "레모네이드는 올해 1월21일 자율주행차 전용 보험 상품을 세계 최초로 공개하며 테슬라 FSD를 첫 적용 대상으로 삼았다. 이후 1월26일 애리조나를 시작으로 오리건(약 한 달 뒤)·인디애나(6월 초)·콜로라도(6월 말)까지 순차적으로 지역을 넓혀왔고, 이번 테네시가 다섯 번째 확대 주가 됐다.\n\n8월3일 발표된 테네시 확대에 따라, 해당 주 테슬라 오너는 FSD가 켜진 상태로 주행한 마일에 대해 보험료를 50% 할인받을 수 있다.\n\n레모네이드는 이 같은 요율 설계의 근거로 테슬라 자체 데이터를 인용한다 — FSD로 주행한 마일이 사람이 직접 운전한 마일보다 사고 위험이 절반 수준(약 2배 안전)이라는 주장이다.\n\n제3자 보험사가 자체 손해율 판단에 근거해 FSD 마일에 실질적인 보험료 혜택을 주는 사례가 하나둘 늘고 있다는 것은, FSD 안전성 주장이 규제기관 밖 시장에서도 조금씩 검증되고 있다는 신호로 읽힌다 — 다만 아직 5개 주에 그쳐 전국 단위 검증과는 거리가 있다.",
+      "title_en": "Lemonade expands FSD auto insurance discount to <em>Tennessee</em> — 5th state",
+      "hotShort_en": "Lemonade's FSD insurance discount <em>expands to Tennessee</em>",
+      "body_en": "Insurer Lemonade has expanded its autonomous-driving insurance program — which gives a 50% discount on premiums for miles driven with FSD engaged — to Tennessee, the fifth state after Arizona, Oregon, Indiana, and Colorado, another sign that third-party insurers are starting to price in Tesla's own FSD safety data.",
+      "summary_en": "Lemonade unveiled what it called the first-of-its-kind autonomous-driving insurance product on January 21, starting with Tesla's FSD. It then rolled the program out state by state — Arizona on January 26, Oregon about a month later, Indiana in early June, and Colorado later that month — before adding Tennessee as its fifth state.\n\nUnder the Tennessee expansion, announced August 3, Tesla owners in the state can get a 50% discount on premiums for miles driven with FSD active.\n\nLemonade points to Tesla's own data to justify the pricing — the company's claim that FSD-driven miles carry roughly half the crash risk (about 2x safer) of miles driven manually.\n\nThe steady drip of third-party insurers building real premium discounts around FSD miles, based on their own loss-ratio judgment, is a sign that Tesla's safety claims for FSD are being tested — and partly validated — in the market, not just by regulators. Still, with the program live in only five states so far, it's far from a nationwide verdict.",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-insurance-program-heavy-discount-expands/",
+      "sentiment": "bull",
+      "hot": 3
     },
     {
       "category": "fsd",
@@ -2275,33 +2315,7 @@
         "Teslarati",
         "Electrek"
       ]
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4d ago",
-      "pubDate": "2026-07-21T15:39:35.000Z",
-      "title": "테슬라 2026 <em>서머 업데이트</em> 공개 — Grok 차량 명령·선호 경로·랩 앱 적용",
-      "hotShort": "테슬라 서머 업데이트 — <em>Grok 차량 명령</em> 확대",
-      "body": "테슬라가 2026 서머 업데이트(2026.26 추정)를 공개했다 — Grok이 전화 걸기·음악 검색·공조 조절·글로브박스 개방까지 차량을 직접 제어하고 유럽 전역에 확대되며, 내비게이션은 자주 가는 곳·선호 경로를 학습하고, 앱에서 휴대폰 갤러리 이미지를 그대로 차량 커스텀 랩으로 씌울 수 있게 됐다. 무료 OTA로 기존 차량에도 적용되는 소프트웨어 강화라, 신차 없이도 사용자 경험을 계속 끌어올리는 테슬라 특유의 전략을 재확인시킨다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-summer-update-grok-vehicle-commands-2026-07-21",
-      "summary": "7월21일 테슬라가 공식 X 계정을 통해 2026 서머 업데이트(버전 2026.26 추정)의 릴리스 노트를 공개했다고 Electrek·Teslarati 등이 보도했다.\n\n핵심은 차량 내 AI 비서 Grok의 기능 확장이다. 전화 걸기, 음악 검색·재생, 공조(에어컨·히터) 조절, 글로브박스 개방까지 음성 명령으로 처리할 수 있게 됐고, Grok 서비스 자체가 유럽 전역으로 넓어진다.\n\n내비게이션도 개인화된다 — 집·직장·캘린더 일정뿐 아니라 학교·헬스장처럼 자주 가는 곳을 학습해 제안하고, 운전자가 과거에 선택했던 경로를 우선 안내하는 '선호 경로' 기능이 추가됐다.\n\n이 밖에 테슬라 앱의 '크리에이션' 탭에서 휴대폰 갤러리 이미지를 골라 차량 커스텀 랩으로 입힐 수 있는 기능, 모바일 앱에서 자율주행 통계를 확인·공유하는 기능, 주차 상태에서 노래를 부르면 점수가 매겨지는 '카라오케' 기능도 추가됐다.\n\n이번 업데이트는 신차 출시 없이 무료 OTA만으로 기존 차량 전반의 사용자 경험을 끌어올리는 테슬라 특유의 전략을 다시 보여준다. 로보택시·실적 이슈로 시끄러운 한 주였지만, 소프트웨어 쪽에서는 꾸준한 기능 확장이 이어지고 있다는 신호다.",
-      "title_en": "Tesla unveils <em>2026 Summer Update</em> — Grok vehicle commands, preferred routes, app-based wraps",
-      "hotShort_en": "Tesla's Summer Update expands <em>Grok vehicle control</em>",
-      "body_en": "Tesla rolled out its 2026 Summer Update (version 2026.26), letting Grok make phone calls, search music, adjust climate, and open the glovebox by voice while expanding Grok across all of Europe. Navigation now learns preferred routes and frequent stops, and the Tesla app can apply custom wraps to a vehicle from a photo picked out of the phone's gallery — a free OTA update that keeps extending the experience on cars already on the road, without a new model launch.",
-      "summary_en": "Tesla published release notes for its 2026 Summer Update (version 2026.26) via its official X account on July 21, according to Electrek, Teslarati, and other outlets.\n\nThe centerpiece is an expanded Grok in-car assistant: voice commands can now place phone calls, search and play music, adjust climate control, and open the glovebox, and the Grok service itself is now available across all of Europe.\n\nNavigation gets more personalized too — beyond Home, Work, and calendar events, it now learns frequently visited spots like school or the gym, and a new 'preferred routes' feature prioritizes paths the driver has taken before.\n\nThe update also adds a new \"Creations\" tab in the Tesla app that lets owners apply a custom wrap to their vehicle using a photo picked from their phone's gallery, in-app viewing and sharing of self-driving stats, and a 'Caraoke' feature that scores singing while parked.\n\nWith no new vehicle involved, the release is another example of Tesla using free over-the-air updates to keep improving the ownership experience for cars already on the road — a steady drumbeat of software progress even in a week dominated by robotaxi and earnings headlines.",
-      "href": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Electrek",
-        "Teslarati",
-        "TeslaNorth"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-08-04 05:00 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-04 08:08 KST 자동 갱신 · 최신순"
 }
