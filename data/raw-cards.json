@@ -1,23 +1,36 @@
 {
-  "asOf": "2026-08-03 21:45 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-03 23:08 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "30m ago",
-      "pubDate": "2026-08-03T21:15:23.000Z",
-      "title": "Some Tesla HW3 Owners Report Overheating Issues After FSD v14 Lite Update",
-      "body": "Some Tesla HW3 Owners Report Overheating Issues After FSD v14 Lite Update TeslaNorth.com",
-      "sourceName": "TeslaNorth.com",
+      "time": "13m ago",
+      "pubDate": "2026-08-03T22:55:00.000Z",
+      "title": "Tesla Rebounds for Third Straight Gain as Investors Shrug Off Safety Probe",
+      "body": "Tesla Rebounds for Third Straight Gain as Investors Shrug Off Safety Probe finance.biggo.com",
+      "sourceName": "finance.biggo.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://teslanorth.com/2026/08/03/some-tesla-hw3-owners-report-overheating-issues-after-fsd-v14-lite-update/"
+      "href": "https://finance.biggo.com/news/838d2005-d26d-4e2d-b791-2e493647a8c1"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "32m ago",
+      "pubDate": "2026-08-03T22:35:48.000Z",
+      "title": "Tesla Full Self-Driving insurance program with heavy discount expands",
+      "body": "Tesla Full Self-Driving insurance program with heavy discount expands Teslarati",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/tesla-full-self-driving-insurance-program-heavy-discount-expands/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "50m ago",
+      "time": "2h ago",
       "pubDate": "2026-08-03T20:55:57.000Z",
       "title": "Tesla (NASDAQ:TSLA) Stock Gains Roughly $40 Billion During Europe Sales Division",
       "body": "Tesla (NASDAQ:TSLA) Stock Gains Roughly $40 Billion During Europe Sales Division TechStock²",
@@ -30,33 +43,20 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-08-03T20:18:00.000Z",
       "title": "Tesla Stock Goes for 3 Gains in a Row as It Shrugs Off Safety Inquiry",
-      "body": "Tesla Stock Goes for 3 Gains in a Row as It Shrugs Off Safety Inquiry barrons.com",
-      "sourceName": "barrons.com",
+      "body": "Tesla Stock Goes for 3 Gains in a Row as It Shrugs Off Safety Inquiry Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
       "href": "https://www.barrons.com/articles/tesla-stock-price-today-safety-inquiry-b88bcba7"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
-      "pubDate": "2026-08-03T18:54:19.000Z",
-      "title": "Tesla Full Self-Driving insurance program with heavy discount expands",
-      "body": "Tesla Full Self-Driving insurance program with heavy discount expands Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-full-self-driving-insurance-program-heavy-discount-expands/"
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-03T17:20:39.000Z",
       "title": "Tesla's European registrations mixed in July despite broader EV momentum",
       "body": "Tesla's European registrations mixed in July despite broader EV momentum Reuters",
@@ -69,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-03T17:20:39.000Z",
       "title": "Tesla's European registrations mixed in July despite broader EV momentum",
       "body": "Tesla's European registrations mixed in July despite broader EV momentum Reuters",
@@ -82,7 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-08-03T16:23:44.000Z",
       "title": "Tesla new car sales in Italy down 77% year-on-year in July",
       "body": "Tesla new car sales in Italy down 77% year-on-year in July Reuters",
@@ -95,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-08-03T16:02:35.000Z",
       "title": "Tesla FSD v14 Lite tied to rising HW3 computer failures, owners report",
       "body": "A growing number of Tesla owners running the new Full Self-Driving v14 “Lite” build on Hardware 3 (HW3) vehicles are reporting Autopilot computer overheating alerts — and, in some cases, outright computer failures. The r…",
@@ -108,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "8h ago",
       "pubDate": "2026-08-03T15:17:37.000Z",
       "title": "SpaceX short interest overtakes Tesla ahead of earnings, lockup expiration",
       "body": "SpaceX short interest overtakes Tesla ahead of earnings, lockup expiration CNBC",
@@ -121,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-08-03T14:59:43.000Z",
       "title": "Tesla Model Y RWD 2026 Review: an entry-level trim with top-of-the-line technology",
       "body": "I drove the 2026 Model Y RWD (Standard) for about 550 km (342 miles) across a mix of highway, back roads, and city driving, and I enjoyed the efficiency and technology far more than the driving experience itself. For any…",
@@ -134,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-08-03T14:50:32.000Z",
       "title": "Tesla quietly made the Cybertruck even stronger",
       "body": "Tesla has continued to flex the strength, rigidity, and robustness of its all-electric pickup, the Cybertruck. In fact, since 2019, Cybertruck’s ability to avoid dents, dings, and even gunfire has been one of the main se…",
@@ -148,6 +148,19 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "9h ago",
+      "pubDate": "2026-08-03T14:22:59.000Z",
+      "title": "SpaceX’s Bumpy Ride on the Stock Market May Get Bumpier",
+      "body": "SpaceX’s Bumpy Ride on the Stock Market May Get Bumpier The New York Times",
+      "sourceName": "The New York Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "11h ago",
       "pubDate": "2026-08-03T12:29:31.000Z",
       "title": "Here are Monday's biggest analyst calls: SpaceX, Nvidia, Tesla, Applied Materials, Circle, Corning, GE Vernova & more",
       "body": "Here are Monday's biggest analyst calls: SpaceX, Nvidia, Tesla, Applied Materials, Circle, Corning, GE Vernova & more CNBC",
@@ -160,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-08-03T12:10:19.000Z",
       "title": "SpaceX's first results put Musk's AI spending under Wall Street microscope",
       "body": "SpaceX's first results put Musk's AI spending under Wall Street microscope Reuters",
@@ -173,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-08-03T12:00:01.000Z",
       "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
       "body": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report CNBC",
@@ -184,22 +197,9 @@
       "href": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
-      "pubDate": "2026-08-03T11:02:01.000Z",
-      "title": "SpaceX Investors Are Ready to Quiz Musk Over Ever-Closer Ties With Tesla",
-      "body": "SpaceX Investors Are Ready to Quiz Musk Over Ever-Closer Ties With Tesla Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/newsletters/2026-08-03/spacex-investors-want-to-quiz-elon-musk-about-a-potential-tesla-merger?srnd"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "15h ago",
+      "time": "16h ago",
       "pubDate": "2026-08-03T07:00:18.000Z",
       "title": "Tesla 지원 프로그램 전기차 보조금 변동으로 인한 불확실성을 줄이고 고객께 차량을 더 안정적으로 인도할 수 있도록, Tesla에서 국고 보조금에 준하는 자체 지원금을 제공할 예정입니다. 📌지원 대상: 보조…",
       "body": "Tesla 지원 프로그램 전기차 보조금 변동으로 인한 불확실성을 줄이고 고객께 차량을 더 안정적으로 인도할 수 있도록, Tesla에서 국고 보조금에 준하는 자체 지원금을 제공할 예정입니다. 📌지원 대상: 보조금 마감 후 추경 예정이 없는 지역 거주자 🗓️기간: 2026년 9월 30일 이내 인도 시 적용 https://t.co/VxX35WirUR",
@@ -210,22 +210,9 @@
       "href": "https://x.com/tesla_korea/status/2084172489295528004"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "20h ago",
-      "pubDate": "2026-08-03T01:42:48.000Z",
-      "title": "Revealing the Most Popular Tesla Model S Configurations",
-      "body": "Revealing the Most Popular Tesla Model S Configurations Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/most-popular-tesla-model-s-configurations/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20h ago",
+      "time": "21h ago",
       "pubDate": "2026-08-03T01:41:07.000Z",
       "title": "How does Tesla ‘Ludicrous Speed’ work?",
       "body": "How does Tesla ‘Ludicrous Speed’ work? Teslarati",
@@ -238,7 +225,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "22h ago",
+      "time": "1d ago",
       "pubDate": "2026-08-02T23:35:00.000Z",
       "title": "Tesla Full Self-Driving v14.3.7 early review: FSD saved me from an accident",
       "body": "Tesla Full Self-Driving v14.3.7 early review: FSD saved me from an accident Teslarati",
@@ -247,6 +234,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3d ago",
+      "pubDate": "2026-07-31T15:13:36.000Z",
+      "title": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks",
+      "body": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/sustainability/us-auto-safety-regulator-probes-12-million-tesla-vehicles-over-suspension-2026-07-31/"
     },
     {
       "category": "stock",
