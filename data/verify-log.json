@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-29T21:20:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "musk-pallone-xai-colossus-pollution-2026-07-29",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for Reuters",
-            "no advisory tone / no price target",
-            "no hedge-to-assertion conversion — letter-sending and quoted accusation are reported as Reuters-confirmed fact, background 59-turbine claim explicitly attributed to Reuters' own prior reporting",
-            "direct WebFetch to reuters.com blocked 403; facts (Pallone identity, Colossus 1/2 in Tennessee/Mississippi, 59 turbines, no federal clean-air permits, Black communities, quote on 'disregard for the health and well-being of local communities') corroborated via cross-source search (thestar.com, yahoo.com/finance, qz.com reprints of same Reuters wire)",
-            "href matches verified article topic",
-            "not X-sourced, no meme/satire risk"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-29T23:08:07.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -747,6 +727,64 @@
             "~20% SpaceX 2025 federal-agency revenue figure confirmed accurate against Reuters analysis",
             "CAUGHT AND FIXED before publish: initial draft stated SpaceX June IPO valuation as \"~75 billion\" — actual reported valuation is ~.75 trillion (raised ~5B in the IPO). Corrected in both KO (\"1,750억\" to \"1조7,500억\") and EN (\"75 billion\" to \".75 trillion\") in cards.json and archive.json prior to commit.",
             "href matches linked Reuters analysis story, same event"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-04T20:50:00.000Z",
+      "mode": "shadow",
+      "checked": 4,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-q2-earnings-results-2026-08-04",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — earnings coverage synthesized from CNBC live blog + corroborating outlets, not a single wire",
+            "no advisory tone (no buy/sell/target language)",
+            "no hedge-to-assertion issue — all figures reported as settled Q2 results across sources, consistent with card framing",
+            "numbers cross-checked via WebSearch against CNBC/CNN/tradingkey/Fast Company: revenue $7.814B (+92% y/y, vs $6.93B est.), net loss $541M (from $1B), EPS -$0.09 (vs -$0.26 est.), Connectivity $4.291B (+66% y/y, vs $3.83B est.), AI segment $2.561B (+247% y/y, vs $2.18B est.), Starlink subs 12M (+1.7M net adds, ARPU ~$66), total capex $18.369B, AI capex $15.828B, after-hours share move -8% intraday narrowing to ~-5% — all match across ≥3 independent outlets",
+            "href (CNBC live blog) matches the actual event and is a real, working URL",
+            "Tesla-relevance framing (SpaceX equity stake mark-to-market) is accurate background, not invented — same link used by the morning's separate anticipation card"
+          ]
+        },
+        {
+          "slug": "fsd-max-speed-anti-pattern-elluswamy-2026-08-04",
+          "verdict": "pass",
+          "newSourceLabel": "official",
+          "reasons": [
+            "sourceLabel official correct — direct quote from Tesla AI lead Ashok Elluswamy's own X reply, an executive's official account per routine's X-tier rule; href points to the actual X post",
+            "no advisory tone",
+            "quote verbatim: \"Max speed control is an anti pattern. We are working on better learning of user's implied preferences.\" — matches WebSearch-verified quote exactly, no paraphrase-as-fact drift",
+            "no invented numbers/dates; card correctly avoids overclaiming a specific ship date for 'speed selection improvements'",
+            "EU regulatory context (Sweden/France flagging the speed-offset toggle) corroborated via WebSearch, stated with appropriate hedged framing, not asserted as certain cause of the decision",
+            "not a meme/joke — this is a substantive, on-topic technical reply, correctly distinguished from Elluswamy's more casual musk-style asides"
+          ]
+        },
+        {
+          "slug": "product-california-myfirstev-3500-rebate-2026-08-04",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Benzinga report on a state program, corroborated by gov.ca.gov announcement and Cars.com/TeslaRefCodes coverage",
+            "no advisory tone",
+            "no hedge-to-assertion issue — program terms stated as confirmed facts, matching official program details",
+            "numbers verified via WebSearch: $3,500 instant rebate, Model 3/Y new-inventory only, order on/after Aug 3 2026, 13 automakers, $135M state funds + automaker match ≈ $270M total, CA registration/delivery required, funds first-come-first-served — all included accurately, including the funds-limited caveat",
+            "href matches the actual Benzinga story on this event"
+          ]
+        },
+        {
+          "slug": "fsd-waymo-dolgov-camera-only-critique-2026-08-04",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Electrek report on a named executive's on-record talk",
+            "no advisory tone",
+            "quotes (\"weak sensing\"/safety ceiling, \"not backups to each other\", \"vastly superior to what you get with any one sensor\") match WebSearch-verified article content, attributed correctly to Dmitri Dolgov at Y Combinator Startup School",
+            "sensor-technology claims (passive vs active sensing, Doppler velocity, fusion) reflect the source's own technical argument, not invented editorializing",
+            "single-source story (Electrek) — correctly left confirmedBy unset rather than fabricating a multi-outlet count",
+            "not framed as Tesla being definitively wrong — presented as a competitor's technical critique, consistent with tone-balance guidance"
           ]
         }
       ]
