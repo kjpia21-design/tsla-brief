@@ -1,6 +1,52 @@
 {
-  "asOf": "2026-08-04 14:28 UTC · 누적 752건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-08-04 17:53 UTC · 누적 754건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-08-04T11:51:46.000Z",
+      "title": "테슬라 中 7월 도매판매 9만3,579대 — <em>전년比 37.8%↑</em>, 역대 7월 최다",
+      "hotShort": "테슬라 中 7월 판매 <em>37.8%↑</em>, 역대 최다",
+      "body": "테슬라 상하이 기가팩토리의 7월 도매판매(모델3·Y, 유럽 등 수출분 포함)가 9만3,579대(전년동월 대비 +37.8%, 전월 대비 +5.0%)로 역대 7월 최고를 기록 — BYD 등 경쟁이 격화하는 가운데도 중국 내수·수출 수요가 견조함을 보여준 신호.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "product-china-july-sales-record-2026-08-04",
+      "summary": "중국승용차협회(CPCA)가 4일 발표한 데이터에 따르면 테슬라 상하이 공장의 7월 도매판매(중국 내수 판매+유럽 등으로의 수출분 합산, 모델3·모델Y 기준)는 9만3,579대로 집계됐다.\n\n이는 전년동월 대비 37.8% 늘어난 수치로, 9개월 연속 전년 대비 성장세를 이어간 것이다. 전월(6월) 대비로도 5.0% 증가했으며, 지난해 12월 9만7,171대를 기록한 이후 가장 많은 월간 판매량이자 역대 7월 실적 중 최고치다.\n\n다만 경쟁 환경은 갈수록 치열해지고 있다. 테슬라의 최대 경쟁자 BYD는 유럽向 수출 호조에 힘입어 3개월 연속 글로벌 판매 증가를 기록 중이다.\n\n테슬라는 최근 발표한 7월 유럽 등록 실적에서는 프랑스·덴마크 강세와 노르웨이·스웨덴 부진이 엇갈리는 혼조세를 보인 바 있다 — 이번 중국 실적 호조는 그 혼조세를 상쇄하는 긍정적 신호로, 3분기 인도량 전망에도 힘을 보탤 수 있다.",
+      "title_en": "Tesla's Shanghai wholesale sales hit <em>93,579 in July</em> — up 37.8% y/y, a record for the month",
+      "hotShort_en": "Tesla China July sales <em>up 37.8%</em>, a record",
+      "body_en": "Tesla's Shanghai Gigafactory posted wholesale sales (Model 3/Y, including exports to Europe and beyond) of 93,579 units in July — up 37.8% year-over-year and 5.0% month-over-month, the best July on record — a sign Chinese demand and exports are holding up even as competition intensifies.",
+      "summary_en": "Data released August 4 by the China Passenger Car Association (CPCA) show Tesla's Shanghai plant shipped 93,579 wholesale units in July — combined domestic China sales plus exports, largely to Europe — split between the Model 3 and Model Y.\n\nThat's up 37.8% from a year earlier, marking a ninth straight month of year-over-year growth. It also rose 5.0% from June, making it the strongest month since December's 97,171 units and the best July in Tesla's history in China.\n\nCompetition keeps intensifying, though: Tesla's biggest rival BYD posted higher global sales for a third straight month in July, helped by strong exports, particularly to Europe.\n\nThe China strength offers a counterweight to Tesla's mixed July European registrations — where gains in France and Denmark were offset by declines in Norway and Sweden — and could support Tesla's third-quarter delivery outlook.",
+      "href": "https://www.reuters.com/business/media-telecom/teslas-july-china-made-ev-sales-rise-378-yy-2026-08-04/",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-08-04T11:00:57.000Z",
+      "title": "로이터 \"테슬라 中사업, <em>SpaceX 합병 최대 걸림돌</em>\" — 분사·매각 다 복잡",
+      "hotShort": "로이터 \"테슬라 中사업, <em>SpaceX 합병 걸림돌</em>\"",
+      "body": "로이터 분석 — 테슬라가 매출·생산의 상당 부분을 중국에 의존하는 반면 SpaceX는 미 연방정부·국방 계약 의존도가 커지고 있어(2025년 매출의 약 5분의 1이 美 연방기관발) 두 회사 합병 시 중국 관련 리스크가 걸림돌이 될 수 있다는 지적 — 분사·라이선스·매각 등 대응책도 모두 지식재산권·중국정부 개입 문제와 얽혀 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-merger-china-footprint-2026-08-04",
+      "summary": "일론 머스크는 지난 7월22일 테슬라 2분기 실적콜에서 테슬라와 SpaceX 사이에 \"점점 더 겹치는 부분이 많아지고 있다\"며 두 회사의 합병 가능성을 처음 공개 시사했다. 이후 SpaceX가 6월 상장(기업가치 약 1조7,500억 달러)을 거치며 두 조 단위 기업의 합병설은 투자자들 사이에서 계속 회자돼왔다.\n\nWSJ는 지난 7월31일 테슬라가 SpaceX와의 잠재적 합병을 앞두고 중국 사업 매각을 검토하고 있다고 보도했고, 머스크는 이를 부인한 바 있다.\n\n로이터는 4일 분석 기사에서 이 구상이 실제로는 훨씬 복잡하다고 짚었다 — 테슬라는 매출·생산의 상당 부분을 중국에 의존하는 반면, SpaceX는 갈수록 민감한 美 연방정부·국방 계약 비중이 커지고 있다(2025년 매출의 약 5분의 1이 美 연방기관에서 발생). 두 회사를 합치면 이 대비되는 특성이 정면으로 충돌한다는 것이다.\n\n테슬라가 중국 사업을 분리하는 방법으로는 ① 중국 법인 분사 ② 제3자에게 브랜드·기술 라이선스 제공 ③ 아예 매각 세 가지가 거론되지만, 셋 다 테슬라 지식재산권 처리와 중국 정부의 개입 여부라는 까다로운 문제를 안고 있다고 로이터는 짚었다.\n\n기가상하이는 여전히 테슬라의 가장 크고 생산성 높은 공장이자 유럽·캐나다·아시아태평양向 핵심 수출 거점으로, 그간 테슬라 전체 인도량의 절반 이상을 책임져 왔다 — 그만큼 분리 비용도 클 수밖에 없다. 한편 블룸버그는 3일 SpaceX 투자자들이 4일 실적콜에서 머스크에게 합병 조건을 직접 캐물을 준비를 하고 있다고 전한 바 있다.",
+      "title_en": "Reuters: Tesla's <em>China footprint</em> a hurdle to any SpaceX merger",
+      "hotShort_en": "Reuters: China ties <em>complicate SpaceX merger</em>",
+      "body_en": "Reuters analysis — Tesla's heavy reliance on China for manufacturing and sales sits awkwardly against SpaceX's growing dependence on sensitive U.S. federal and defense contracts (about a fifth of SpaceX's 2025 revenue came from U.S. federal agencies), making China risk a real obstacle to any merger; every option for separating Tesla's China business — spin-off, licensing, or sale — brings its own IP and Chinese-government complications.",
+      "summary_en": "Elon Musk first floated the idea of a Tesla-SpaceX merger publicly on Tesla's Q2 2026 earnings call on July 22, citing \"more and more overlap\" between the two companies. Speculation about a tie-up between the two trillion-dollar-plus companies has only grown since SpaceX's June IPO, which valued it at roughly $1.75 trillion.\n\nThe Wall Street Journal reported on July 31 that Tesla was weighing a sale of its China business ahead of a potential SpaceX merger; Musk denied the report.\n\nIn an August 4 analysis, Reuters argued the idea is more complicated than it sounds: Tesla depends heavily on China for both manufacturing and sales, while SpaceX is increasingly reliant on sensitive U.S. government and defense work — about a fifth of SpaceX's 2025 revenue came from U.S. federal agencies. Combining the two would put those opposing exposures under one roof.\n\nReuters laid out three paths for Tesla to separate its China business — spinning off the China unit, licensing the Tesla brand and technology to a third party, or an outright sale — noting each raises thorny questions over Tesla's intellectual property and the Chinese government's potential involvement.\n\nGigafactory Shanghai remains Tesla's largest and most productive plant, and its key export hub to Europe, Canada and the Asia-Pacific — historically accounting for more than half of Tesla's global deliveries, which raises the cost of any separation. Separately, Bloomberg reported August 3 that SpaceX investors are preparing to press Musk directly on merger terms at today's earnings call.",
+      "href": "https://www.reuters.com/legal/transactional/teslas-china-footprint-complicates-path-possible-spacex-merger-2026-08-04/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "Bloomberg",
+        "WSJ"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
