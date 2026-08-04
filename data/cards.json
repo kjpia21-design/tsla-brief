@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-08-04T11:51:46.000Z",
+      "title": "테슬라 中 7월 도매판매 9만3,579대 — <em>전년比 37.8%↑</em>, 역대 7월 최다",
+      "hotShort": "테슬라 中 7월 판매 <em>37.8%↑</em>, 역대 최다",
+      "body": "테슬라 상하이 기가팩토리의 7월 도매판매(모델3·Y, 유럽 등 수출분 포함)가 9만3,579대(전년동월 대비 +37.8%, 전월 대비 +5.0%)로 역대 7월 최고를 기록 — BYD 등 경쟁이 격화하는 가운데도 중국 내수·수출 수요가 견조함을 보여준 신호.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "product-china-july-sales-record-2026-08-04",
+      "summary": "중국승용차협회(CPCA)가 4일 발표한 데이터에 따르면 테슬라 상하이 공장의 7월 도매판매(중국 내수 판매+유럽 등으로의 수출분 합산, 모델3·모델Y 기준)는 9만3,579대로 집계됐다.\n\n이는 전년동월 대비 37.8% 늘어난 수치로, 9개월 연속 전년 대비 성장세를 이어간 것이다. 전월(6월) 대비로도 5.0% 증가했으며, 지난해 12월 9만7,171대를 기록한 이후 가장 많은 월간 판매량이자 역대 7월 실적 중 최고치다.\n\n다만 경쟁 환경은 갈수록 치열해지고 있다. 테슬라의 최대 경쟁자 BYD는 유럽向 수출 호조에 힘입어 3개월 연속 글로벌 판매 증가를 기록 중이다.\n\n테슬라는 최근 발표한 7월 유럽 등록 실적에서는 프랑스·덴마크 강세와 노르웨이·스웨덴 부진이 엇갈리는 혼조세를 보인 바 있다 — 이번 중국 실적 호조는 그 혼조세를 상쇄하는 긍정적 신호로, 3분기 인도량 전망에도 힘을 보탤 수 있다.",
+      "title_en": "Tesla's Shanghai wholesale sales hit <em>93,579 in July</em> — up 37.8% y/y, a record for the month",
+      "hotShort_en": "Tesla China July sales <em>up 37.8%</em>, a record",
+      "body_en": "Tesla's Shanghai Gigafactory posted wholesale sales (Model 3/Y, including exports to Europe and beyond) of 93,579 units in July — up 37.8% year-over-year and 5.0% month-over-month, the best July on record — a sign Chinese demand and exports are holding up even as competition intensifies.",
+      "summary_en": "Data released August 4 by the China Passenger Car Association (CPCA) show Tesla's Shanghai plant shipped 93,579 wholesale units in July — combined domestic China sales plus exports, largely to Europe — split between the Model 3 and Model Y.\n\nThat's up 37.8% from a year earlier, marking a ninth straight month of year-over-year growth. It also rose 5.0% from June, making it the strongest month since December's 97,171 units and the best July in Tesla's history in China.\n\nCompetition keeps intensifying, though: Tesla's biggest rival BYD posted higher global sales for a third straight month in July, helped by strong exports, particularly to Europe.\n\nThe China strength offers a counterweight to Tesla's mixed July European registrations — where gains in France and Denmark were offset by declines in Norway and Sweden — and could support Tesla's third-quarter delivery outlook.",
+      "href": "https://www.reuters.com/business/media-telecom/teslas-july-china-made-ev-sales-rise-378-yy-2026-08-04/",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-08-04T11:00:57.000Z",
+      "title": "로이터 \"테슬라 中사업, <em>SpaceX 합병 최대 걸림돌</em>\" — 분사·매각 다 복잡",
+      "hotShort": "로이터 \"테슬라 中사업, <em>SpaceX 합병 걸림돌</em>\"",
+      "body": "로이터 분석 — 테슬라가 매출·생산의 상당 부분을 중국에 의존하는 반면 SpaceX는 미 연방정부·국방 계약 의존도가 커지고 있어(2025년 매출의 약 5분의 1이 美 연방기관발) 두 회사 합병 시 중국 관련 리스크가 걸림돌이 될 수 있다는 지적 — 분사·라이선스·매각 등 대응책도 모두 지식재산권·중국정부 개입 문제와 얽혀 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-merger-china-footprint-2026-08-04",
+      "summary": "일론 머스크는 지난 7월22일 테슬라 2분기 실적콜에서 테슬라와 SpaceX 사이에 \"점점 더 겹치는 부분이 많아지고 있다\"며 두 회사의 합병 가능성을 처음 공개 시사했다. 이후 SpaceX가 6월 상장(기업가치 약 1조7,500억 달러)을 거치며 두 조 단위 기업의 합병설은 투자자들 사이에서 계속 회자돼왔다.\n\nWSJ는 지난 7월31일 테슬라가 SpaceX와의 잠재적 합병을 앞두고 중국 사업 매각을 검토하고 있다고 보도했고, 머스크는 이를 부인한 바 있다.\n\n로이터는 4일 분석 기사에서 이 구상이 실제로는 훨씬 복잡하다고 짚었다 — 테슬라는 매출·생산의 상당 부분을 중국에 의존하는 반면, SpaceX는 갈수록 민감한 美 연방정부·국방 계약 비중이 커지고 있다(2025년 매출의 약 5분의 1이 美 연방기관에서 발생). 두 회사를 합치면 이 대비되는 특성이 정면으로 충돌한다는 것이다.\n\n테슬라가 중국 사업을 분리하는 방법으로는 ① 중국 법인 분사 ② 제3자에게 브랜드·기술 라이선스 제공 ③ 아예 매각 세 가지가 거론되지만, 셋 다 테슬라 지식재산권 처리와 중국 정부의 개입 여부라는 까다로운 문제를 안고 있다고 로이터는 짚었다.\n\n기가상하이는 여전히 테슬라의 가장 크고 생산성 높은 공장이자 유럽·캐나다·아시아태평양向 핵심 수출 거점으로, 그간 테슬라 전체 인도량의 절반 이상을 책임져 왔다 — 그만큼 분리 비용도 클 수밖에 없다. 한편 블룸버그는 3일 SpaceX 투자자들이 4일 실적콜에서 머스크에게 합병 조건을 직접 캐물을 준비를 하고 있다고 전한 바 있다.",
+      "title_en": "Reuters: Tesla's <em>China footprint</em> a hurdle to any SpaceX merger",
+      "hotShort_en": "Reuters: China ties <em>complicate SpaceX merger</em>",
+      "body_en": "Reuters analysis — Tesla's heavy reliance on China for manufacturing and sales sits awkwardly against SpaceX's growing dependence on sensitive U.S. federal and defense contracts (about a fifth of SpaceX's 2025 revenue came from U.S. federal agencies), making China risk a real obstacle to any merger; every option for separating Tesla's China business — spin-off, licensing, or sale — brings its own IP and Chinese-government complications.",
+      "summary_en": "Elon Musk first floated the idea of a Tesla-SpaceX merger publicly on Tesla's Q2 2026 earnings call on July 22, citing \"more and more overlap\" between the two companies. Speculation about a tie-up between the two trillion-dollar-plus companies has only grown since SpaceX's June IPO, which valued it at roughly $1.75 trillion.\n\nThe Wall Street Journal reported on July 31 that Tesla was weighing a sale of its China business ahead of a potential SpaceX merger; Musk denied the report.\n\nIn an August 4 analysis, Reuters argued the idea is more complicated than it sounds: Tesla depends heavily on China for both manufacturing and sales, while SpaceX is increasingly reliant on sensitive U.S. government and defense work — about a fifth of SpaceX's 2025 revenue came from U.S. federal agencies. Combining the two would put those opposing exposures under one roof.\n\nReuters laid out three paths for Tesla to separate its China business — spinning off the China unit, licensing the Tesla brand and technology to a third party, or an outright sale — noting each raises thorny questions over Tesla's intellectual property and the Chinese government's potential involvement.\n\nGigafactory Shanghai remains Tesla's largest and most productive plant, and its key export hub to Europe, Canada and the Asia-Pacific — historically accounting for more than half of Tesla's global deliveries, which raises the cost of any separation. Separately, Bloomberg reported August 3 that SpaceX investors are preparing to press Musk directly on merger terms at today's earnings call.",
+      "href": "https://www.reuters.com/legal/transactional/teslas-china-footprint-complicates-path-possible-spacex-merger-2026-08-04/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "Bloomberg",
+        "WSJ"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -39,26 +85,6 @@
       "href": "https://www.kedglobal.com/future-mobility/newsView/ked202608040012",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-08-03T20:18:00.000Z",
-      "title": "테슬라 주가 3거래일 연속 상승 마감 — NHTSA 서스펜션 조사 <em>여파는 제한적</em>",
-      "hotShort": "테슬라 주가 3일 연속 상승 — 조사 <em>여파는 제한적</em>",
-      "body": "테슬라 주가가 3거래일 연속 상승 마감했다 — 지난달 31일 NHTSA가 모델3·Y 120만 대를 대상으로 서스펜션 결함 예비조사에 착수했지만, 아직 리콜 단계가 아니라는 판단에 시장은 별다른 매도 압력을 보이지 않고 있다.",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "stock-3day-gain-nhtsa-shrug-2026-08-03",
-      "summary": "지난달 31일 NHTSA가 테슬라 모델3·모델Y 약 120만 대를 대상으로 서스펜션 결함 예비조사에 착수한다고 밝혔지만, 정작 테슬라 주가는 이후 3거래일 연속 상승 마감하며 뚜렷한 매도세 없이 지나가는 모습이다.\n\n해당 조사는 전방 하부 서스펜션 링크 이탈과 관련해 소비자 불만 156건이 접수되며 시작됐다 — NHTSA는 현재까지 사고·부상 보고는 없다고 밝혔고, 결함으로 결론 나면 과거(2021년 2,800대·2023년 422대) 소규모 리콜보다 훨씬 큰 규모로 번질 수 있다.\n\n시장이 이를 크게 반영하지 않은 배경으로는, 이번 단계가 아직 '예비평가(Preliminary Evaluation)'에 그쳐 결함 확정이나 리콜과는 거리가 있다는 점이 꼽힌다 — 투자자들은 조사 착수 자체보다 실제 결함 확정·리콜 여부에 더 민감하게 반응하는 경향을 보여왔다.\n\n다만 조사 대상이 테슬라 주력 차종인 모델3·Y 120만 대에 달하는 만큼, 예비평가가 본조사(EA)나 리콜로 격상될 경우 이번처럼 담담한 반응이 이어질지는 미지수다.",
-      "title_en": "Tesla stock notches <em>third straight gain</em>, shrugging off NHTSA suspension probe",
-      "hotShort_en": "Tesla stock's <em>3rd straight gain</em> despite NHTSA probe",
-      "body_en": "Tesla shares closed higher for a third consecutive session — even after NHTSA opened a preliminary probe on July 31 into roughly 1.2M Model 3 and Model Y vehicles over a suspension-link defect, the market has shown little selling pressure, with the investigation still short of a recall.",
-      "summary_en": "NHTSA said on July 31 it was opening a preliminary evaluation into about 1.2M Tesla Model 3 and Model Y vehicles over a suspension defect — yet Tesla stock has closed higher for three straight sessions since, with no clear sign of sustained selling.\n\nThe probe stems from 156 consumer complaints about the front lower suspension link detaching; NHTSA says it isn't aware of any crashes or injuries so far, but a confirmed defect could trigger a recall far larger than Tesla's prior fixes for the same part (2,800 Model 3s in 2021, 422 in 2023).\n\nOne reason the market hasn't reacted more sharply: this is still just a \"preliminary evaluation\" — a first-stage inquiry, not a confirmed defect finding or a recall. Investors have historically tended to react more to an actual recall decision than to the opening of an investigation itself.\n\nStill, with roughly 1.2M of Tesla's highest-volume models under review, it's an open question whether the market stays this calm if the probe escalates into a full engineering analysis or a recall.",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-today-safety-inquiry-b88bcba7",
-      "sentiment": "bull",
-      "hot": 4
     },
     {
       "category": "fsd",
@@ -106,56 +132,6 @@
       "hot": 4
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-08-03T12:56:10.000Z",
-      "title": "스티펠(Stifel), 테슬라 목표주가 <em>508→491달러로 하향</em> — '매수' 의견은 유지",
-      "hotShort": "스티펠, 테슬라 목표주가 <em>491달러로 하향</em> — 매수 유지",
-      "body": "스티펠(Stifel Nicolaus)의 스티븐 겐가로 애널리스트가 테슬라 목표주가를 508달러에서 491달러로 낮췄다 — 마진·EBITDA 약세를 반영한 하향이지만, FSD·로보택시·수요 진전을 근거로 '매수' 의견은 그대로 유지했다.",
-      "sourceName": "Finbold",
-      "sourceLabel": "press",
-      "slug": "stock-stifel-price-target-cut-2026-08-03",
-      "summary": "스티펠(Stifel Nicolaus)의 애널리스트 스티븐 겐가로가 8월3일 테슬라에 대한 노트를 내고, 12개월 목표주가를 기존 508달러에서 491달러로 3.3% 낮췄다. 다만 투자의견은 '매수(Buy)'를 그대로 유지했다.\n\n겐가로는 스스로의 입장을 \"신중한 낙관(cautiously positive)\"으로 표현했다 — FSD·로보택시 진전과 수요 흐름은 여전히 긍정적으로 평가하면서도, 최근 마진·EBITDA 약세를 반영해 목표주가를 소폭 하향했다는 설명이다.\n\n하향 이후에도 목표주가(491달러)는 보고 시점 테슬라 주가(311.21달러) 대비 약 57.8%의 상승 여력을 시사한다 — 목표주가는 낮아졌지만 여전히 현재가 대비 큰 폭의 프리미엄을 두고 있다는 뜻이다.\n\n티프랭크스(TipRanks) 집계 기준 28명 애널리스트의 평균 12개월 목표주가는 382.65달러(현재가 대비 약 23% 상승 여력)로, 스티펠의 491달러는 시장 컨센서스보다 훨씬 낙관적인 축에 속한다. 목표주가 스펙트럼은 최고 600달러에서 최저 25.28달러까지 넓게 퍼져 있어, 테슬라를 둘러싼 애널리스트 간 시각차가 여전히 크다는 점을 보여준다.",
-      "title_en": "Stifel cuts Tesla price target <em>from $508 to $491</em>, keeps Buy rating",
-      "hotShort_en": "Stifel trims Tesla target to <em>$491</em>, stays Buy",
-      "body_en": "Stifel Nicolaus analyst Stephen Gengaro cut his Tesla price target from $508 to $491, citing softer margins and EBITDA — but kept his Buy rating, still pointing to progress on FSD, Robotaxi, and demand.",
-      "summary_en": "Stifel Nicolaus analyst Stephen Gengaro issued a note on Aug. 3 trimming his 12-month Tesla price target 3.3%, from $508 to $491, while maintaining his Buy rating.\n\nGengaro described his stance as \"cautiously positive\" — he still points to progress on FSD, Robotaxi, and demand as positives, but the target cut reflects recent margin and EBITDA weakness.\n\nEven after the cut, the $491 target implies roughly 57.8% upside from Tesla's $311.21 share price at the time of the report — still a steep premium to the current price.\n\nBy comparison, the average 12-month target among 28 analysts tracked by TipRanks is $382.65 (about 23% upside), meaning Stifel's $491 sits well above consensus. Targets range from a high of $600 to a low of $25.28, underscoring how divided Wall Street remains on Tesla.",
-      "href": "https://finbold.com/wall-street-sets-tesla-stock-price-for-the-next-12-months-12/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Finbold",
-        "MarketScreener"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "8h ago",
-      "pubDate": "2026-08-03T11:02:01.000Z",
-      "title": "블룸버그 \"SpaceX 투자자들, 실적콜서 <em>테슬라 합병 가능성</em> 캐물을 준비\"",
-      "hotShort": "SpaceX 투자자들 <em>테슬라 합병설</em> 캐물을 채비",
-      "body": "블룸버그에 따르면 SpaceX 투자자들이 8월4일 첫 분기 실적 발표에서 일론 머스크에게 테슬라와의 합병 가능성을 캐물을 준비를 하고 있다 — 머스크가 테슬라 의결권은 약 20%만 쥔 반면 SpaceX 의결권은 80%대를 쥐고 있어, 합병 조건에 따라 테슬라 주주가 불리한 교환비율을 떠안을 수 있다는 우려가 핵심이다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-tesla-merger-scrutiny-2026-08-03",
-      "summary": "일론 머스크는 지난 7월22일 테슬라 2분기 실적 콜에서 테슬라와 SpaceX 사이에 \"점점 더 겹치는 부분이 많아지고 있다\"고 언급하며 두 회사의 합병 가능성을 처음으로 공개 시사했다 — 다만 확답은 피하고 \"적절한 절차\"를 따르겠다며 테슬라 법무팀에 판단을 넘겼다.\n\n블룸버그에 따르면 이후 투자자들 사이에서 합병 조건에 대한 우려가 커지고 있다. 머스크는 테슬라 의결권의 약 20%만 보유한 반면 SpaceX 의결권은 80%대를 통제하고 있어, 만약 SpaceX의 최근 기업가치(약 1조7,500억 달러)와 테슬라 시가총액(약 1조6,000억 달러)을 기준으로 합병 비율이 정해질 경우 테슬라 주주가 상대적으로 불리한 교환비율을 떠안을 수 있다는 것이 골자다. 8월4일 실적콜에서 이 대목에 대한 직접적인 질의가 나올 것으로 예상된다.\n\n같은 날 로이터는 SpaceX의 첫 분기 실적이 AI 투자 확대에 대한 월가의 감시대에도 오를 것이라고 전했다 — 머스크는 스타링크의 이익을 AI·우주 사업 확장의 자금원으로 쓰겠다는 구상을 밝혀왔는데, 이 전략의 지속 가능성에 대한 비판도 함께 나온다. 월가는 이번 분기 커넥티비티(스타링크) 매출을 약 38억2,000만 달러, 영업이익을 약 14억2,000만 달러로 추정하고 있다.\n\n한편 예측시장 Kalshi에서는 2027년 5월까지 두 회사가 합병할 확률을 74%로 책정하고 있다 — 다만 이는 어디까지나 베팅 시장의 심리를 보여주는 참고 지표일 뿐, 확정된 계획은 아니다.\n\n실적 발표는 8월4일(화) 미국 장 마감 후 진행된다. 합병 시사·AI 지출 전략에 대한 머스크의 발언 수위가 이번 콜의 핵심 관전 포인트로 꼽힌다.",
-      "title_en": "Bloomberg: SpaceX investors ready to <em>grill Musk on a Tesla merger</em>",
-      "hotShort_en": "SpaceX investors set to <em>press Musk on merger</em>",
-      "body_en": "Bloomberg reports SpaceX investors are preparing to question Elon Musk about a potential Tesla merger at the company's first quarterly earnings call on Aug. 4 — the stakes matter because Musk controls only about 20% of Tesla's voting power versus roughly 80%+ of SpaceX's, meaning unfavorable merger terms could leave Tesla shareholders bearing the risk.",
-      "summary_en": "Musk first floated the idea publicly on Tesla's Q2 2026 earnings call on July 22, saying there was \"more and more overlap\" between Tesla and SpaceX, while stopping short of a commitment and deferring to Tesla's legal team on \"the appropriate process.\"\n\nSince then, according to Bloomberg, investor unease has grown over what merger terms might look like. Musk holds only about 20% of Tesla's voting power but controls roughly 80%+ of SpaceX's — so if a deal were struck near SpaceX's reported $1.75 trillion valuation against Tesla's roughly $1.6 trillion market cap, Tesla shareholders could end up with a less favorable exchange ratio. Investors are expected to press Musk directly on this at the Aug. 4 call.\n\nThe same day, Reuters reported that SpaceX's first results will also put Musk's expanding AI spending under Wall Street's microscope. Musk has said he intends to use Starlink's profits to bankroll AI and space ventures, a strategy critics call unsustainable. Wall Street estimates Starlink connectivity revenue at roughly $3.82 billion and operating profit at about $1.42 billion for the quarter.\n\nPrediction market Kalshi currently prices a 74% chance the two companies merge by May 2027 — a gauge of betting-market sentiment, not a confirmed plan.\n\nThe earnings call is scheduled for after the US market close on Tuesday, Aug. 4, with Musk's comments on both the merger and AI spending strategy seen as the main things to watch.",
-      "href": "https://www.bloomberg.com/news/newsletters/2026-08-03/spacex-investors-want-to-quiz-elon-musk-about-a-potential-tesla-merger?srnd",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Bloomberg",
-        "Reuters"
-      ],
-      "sentiment": "neutral",
-      "hot": 6
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "9h ago",
@@ -181,5 +157,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-08-04 20:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-05 00:10 KST 자동 갱신 · 최신순"
 }

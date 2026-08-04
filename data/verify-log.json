@@ -1,49 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-29T19:15:00.000Z",
-      "mode": "shadow",
-      "checked": 3,
-      "verdicts": [
-        {
-          "slug": "product-cortex2-texas-ai-compute-double-2026-07-29",
-          "verdict": "hold",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — Not a Tesla App",
-            "조언톤 위반 없음, 단정 전환 없음",
-            "MW 수치(코텍스1 90MW+코텍스2 115MW=205MW, 연말 400MW 목표, 상반기 2배) 서브에이전트 교차검증(All Things Elon, Data Center Dynamics, Tesorb) 일치",
-            "④ 수치 오류 발견·수정: 초안 'H100급 GPU 23만개 이상'은 원 출처(Not a Tesla App)와 불일치 — 원문은 '10만 개 GPU 24시간 가동'이라 명시하고 '정확한 GPU 수 비공개'라 밝힘. 230,000은 별개 지표(테슬라 전사 2025년 4분기 학습 컴퓨트 로드맵)와 혼동된 것으로 판단, 발행 전 KO/EN summary 모두 '약 10만개 GPU, 정확한 총량은 비공개'로 정정",
-            "$5.8B Q2 capex 연결 문단은 이 출처 자체엔 없으나 같은 7/22 실적발표를 다루는 별도 검증된 사실(익일 검증 로그의 morningstar/erases-year 카드에서 이미 확인)이라 배경 서술로 허용",
-            "href-본문 일치 확인, 밈/풍자 아님"
-          ]
-        },
-        {
-          "slug": "musk-spacex-mars-timeline-delay-2026-07-29",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — Teslarati",
-            "조언톤 위반 없음, 단정 전환 없음",
-            "핵심 인용('5~7년', '몇 년 더 이르게', 'distraction' 발언, 2026년 무인 스타십 V3 5대 계획) 서브에이전트 교차검증(Space.com, New Space Economy 등) 일치",
-            "'2030년대 초중반' 첫 무인 비행 시점은 직접 인용이 아닌 매체 종합 추정치(일부는 2029년 언급)이나 원문과 모순되지 않는 합리적 범위 — 통과",
-            "href-본문 일치 확인, 밈/풍자 아님"
-          ]
-        },
-        {
-          "slug": "musk-wallstreet-spacex-structured-notes-2026-07-29",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — Bloomberg",
-            "조언톤 위반 없음(은행 상품 사실 전달, 매수·매도 권유 아님), 단정 전환 없음",
-            "5개 금융사명(모건스탠리·Marex·씨티·웰스파고·RBC)·최대 50% 방어·IPO 후 고점 대비 40%↓ 모두 서브에이전트가 Bloomberg 원문 그대로 확인",
-            "href-본문 일치 확인, 밈/풍자 아님"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-29T21:20:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -757,6 +714,39 @@
             "numbers ($2B Jan xAI investment, ~18.99M SpaceX Class A shares, <1% stake, ~$1B unrealized Q2 gain, IPO $135 / high $225 / recent ~$114, Aug 6 lock-up) cross-verified across independent sources (Yahoo Finance, CNBC, Washington Post, tradingkey, Investing.com) — consistent",
             "verify-error: direct WebFetch of the Barron's href returned HTTP 403 (paywall/bot-block), so exact original wording could not be directly re-read — facts were instead cross-verified via multiple independent secondary sources covering the same event; left as pass per fail-open rule, flagged here for visibility",
             "not X-sourced — meme/satire check n/a"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-04T15:15:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "product-china-july-sales-record-2026-08-04",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Reuters wire citing CPCA data",
+            "no advisory tone",
+            "no hedge-to-assertion issue — figures reported as settled CPCA data in original too",
+            "numbers exact match: 93,579 units, +37.8% y/y, +5.0% MoM, best July on record, 9th straight month of y/y growth, strongest since Dec 2025 97,171 units — verified via WebSearch cross-check (CnEVPost, Yahoo Finance, syndicated Reuters copies)",
+            "href matches linked story, same event",
+            "BYD competitive context (3rd straight month higher global sales, export-driven) also confirmed accurate"
+          ]
+        },
+        {
+          "slug": "musk-spacex-merger-china-footprint-2026-08-04",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Reuters analysis, corroborated by Bloomberg + WSJ as genuinely independent bylined stories (not one wire syndicated 3x) — confirmedBy=3 justified",
+            "no advisory tone",
+            "hedges preserved (possible merger, three paths floated, Musk denial noted)",
+            "~20% SpaceX 2025 federal-agency revenue figure confirmed accurate against Reuters analysis",
+            "CAUGHT AND FIXED before publish: initial draft stated SpaceX June IPO valuation as \"~75 billion\" — actual reported valuation is ~.75 trillion (raised ~5B in the IPO). Corrected in both KO (\"1,750억\" to \"1조7,500억\") and EN (\"75 billion\" to \".75 trillion\") in cards.json and archive.json prior to commit.",
+            "href matches linked Reuters analysis story, same event"
           ]
         }
       ]

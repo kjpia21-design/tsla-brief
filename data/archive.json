@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-08-04T11:51:46.000Z",
+      "title": "테슬라 中 7월 도매판매 9만3,579대 — <em>전년比 37.8%↑</em>, 역대 7월 최다",
+      "hotShort": "테슬라 中 7월 판매 <em>37.8%↑</em>, 역대 최다",
+      "body": "테슬라 상하이 기가팩토리의 7월 도매판매(모델3·Y, 유럽 등 수출분 포함)가 9만3,579대(전년동월 대비 +37.8%, 전월 대비 +5.0%)로 역대 7월 최고를 기록 — BYD 등 경쟁이 격화하는 가운데도 중국 내수·수출 수요가 견조함을 보여준 신호.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "product-china-july-sales-record-2026-08-04",
+      "summary": "중국승용차협회(CPCA)가 4일 발표한 데이터에 따르면 테슬라 상하이 공장의 7월 도매판매(중국 내수 판매+유럽 등으로의 수출분 합산, 모델3·모델Y 기준)는 9만3,579대로 집계됐다.\n\n이는 전년동월 대비 37.8% 늘어난 수치로, 9개월 연속 전년 대비 성장세를 이어간 것이다. 전월(6월) 대비로도 5.0% 증가했으며, 지난해 12월 9만7,171대를 기록한 이후 가장 많은 월간 판매량이자 역대 7월 실적 중 최고치다.\n\n다만 경쟁 환경은 갈수록 치열해지고 있다. 테슬라의 최대 경쟁자 BYD는 유럽向 수출 호조에 힘입어 3개월 연속 글로벌 판매 증가를 기록 중이다.\n\n테슬라는 최근 발표한 7월 유럽 등록 실적에서는 프랑스·덴마크 강세와 노르웨이·스웨덴 부진이 엇갈리는 혼조세를 보인 바 있다 — 이번 중국 실적 호조는 그 혼조세를 상쇄하는 긍정적 신호로, 3분기 인도량 전망에도 힘을 보탤 수 있다.",
+      "title_en": "Tesla's Shanghai wholesale sales hit <em>93,579 in July</em> — up 37.8% y/y, a record for the month",
+      "hotShort_en": "Tesla China July sales <em>up 37.8%</em>, a record",
+      "body_en": "Tesla's Shanghai Gigafactory posted wholesale sales (Model 3/Y, including exports to Europe and beyond) of 93,579 units in July — up 37.8% year-over-year and 5.0% month-over-month, the best July on record — a sign Chinese demand and exports are holding up even as competition intensifies.",
+      "summary_en": "Data released August 4 by the China Passenger Car Association (CPCA) show Tesla's Shanghai plant shipped 93,579 wholesale units in July — combined domestic China sales plus exports, largely to Europe — split between the Model 3 and Model Y.\n\nThat's up 37.8% from a year earlier, marking a ninth straight month of year-over-year growth. It also rose 5.0% from June, making it the strongest month since December's 97,171 units and the best July in Tesla's history in China.\n\nCompetition keeps intensifying, though: Tesla's biggest rival BYD posted higher global sales for a third straight month in July, helped by strong exports, particularly to Europe.\n\nThe China strength offers a counterweight to Tesla's mixed July European registrations — where gains in France and Denmark were offset by declines in Norway and Sweden — and could support Tesla's third-quarter delivery outlook.",
+      "href": "https://www.reuters.com/business/media-telecom/teslas-july-china-made-ev-sales-rise-378-yy-2026-08-04/",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-08-04T11:00:57.000Z",
+      "title": "로이터 \"테슬라 中사업, <em>SpaceX 합병 최대 걸림돌</em>\" — 분사·매각 다 복잡",
+      "hotShort": "로이터 \"테슬라 中사업, <em>SpaceX 합병 걸림돌</em>\"",
+      "body": "로이터 분석 — 테슬라가 매출·생산의 상당 부분을 중국에 의존하는 반면 SpaceX는 미 연방정부·국방 계약 의존도가 커지고 있어(2025년 매출의 약 5분의 1이 美 연방기관발) 두 회사 합병 시 중국 관련 리스크가 걸림돌이 될 수 있다는 지적 — 분사·라이선스·매각 등 대응책도 모두 지식재산권·중국정부 개입 문제와 얽혀 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-merger-china-footprint-2026-08-04",
+      "summary": "일론 머스크는 지난 7월22일 테슬라 2분기 실적콜에서 테슬라와 SpaceX 사이에 \"점점 더 겹치는 부분이 많아지고 있다\"며 두 회사의 합병 가능성을 처음 공개 시사했다. 이후 SpaceX가 6월 상장(기업가치 약 1조7,500억 달러)을 거치며 두 조 단위 기업의 합병설은 투자자들 사이에서 계속 회자돼왔다.\n\nWSJ는 지난 7월31일 테슬라가 SpaceX와의 잠재적 합병을 앞두고 중국 사업 매각을 검토하고 있다고 보도했고, 머스크는 이를 부인한 바 있다.\n\n로이터는 4일 분석 기사에서 이 구상이 실제로는 훨씬 복잡하다고 짚었다 — 테슬라는 매출·생산의 상당 부분을 중국에 의존하는 반면, SpaceX는 갈수록 민감한 美 연방정부·국방 계약 비중이 커지고 있다(2025년 매출의 약 5분의 1이 美 연방기관에서 발생). 두 회사를 합치면 이 대비되는 특성이 정면으로 충돌한다는 것이다.\n\n테슬라가 중국 사업을 분리하는 방법으로는 ① 중국 법인 분사 ② 제3자에게 브랜드·기술 라이선스 제공 ③ 아예 매각 세 가지가 거론되지만, 셋 다 테슬라 지식재산권 처리와 중국 정부의 개입 여부라는 까다로운 문제를 안고 있다고 로이터는 짚었다.\n\n기가상하이는 여전히 테슬라의 가장 크고 생산성 높은 공장이자 유럽·캐나다·아시아태평양向 핵심 수출 거점으로, 그간 테슬라 전체 인도량의 절반 이상을 책임져 왔다 — 그만큼 분리 비용도 클 수밖에 없다. 한편 블룸버그는 3일 SpaceX 투자자들이 4일 실적콜에서 머스크에게 합병 조건을 직접 캐물을 준비를 하고 있다고 전한 바 있다.",
+      "title_en": "Reuters: Tesla's <em>China footprint</em> a hurdle to any SpaceX merger",
+      "hotShort_en": "Reuters: China ties <em>complicate SpaceX merger</em>",
+      "body_en": "Reuters analysis — Tesla's heavy reliance on China for manufacturing and sales sits awkwardly against SpaceX's growing dependence on sensitive U.S. federal and defense contracts (about a fifth of SpaceX's 2025 revenue came from U.S. federal agencies), making China risk a real obstacle to any merger; every option for separating Tesla's China business — spin-off, licensing, or sale — brings its own IP and Chinese-government complications.",
+      "summary_en": "Elon Musk first floated the idea of a Tesla-SpaceX merger publicly on Tesla's Q2 2026 earnings call on July 22, citing \"more and more overlap\" between the two companies. Speculation about a tie-up between the two trillion-dollar-plus companies has only grown since SpaceX's June IPO, which valued it at roughly $1.75 trillion.\n\nThe Wall Street Journal reported on July 31 that Tesla was weighing a sale of its China business ahead of a potential SpaceX merger; Musk denied the report.\n\nIn an August 4 analysis, Reuters argued the idea is more complicated than it sounds: Tesla depends heavily on China for both manufacturing and sales, while SpaceX is increasingly reliant on sensitive U.S. government and defense work — about a fifth of SpaceX's 2025 revenue came from U.S. federal agencies. Combining the two would put those opposing exposures under one roof.\n\nReuters laid out three paths for Tesla to separate its China business — spinning off the China unit, licensing the Tesla brand and technology to a third party, or an outright sale — noting each raises thorny questions over Tesla's intellectual property and the Chinese government's potential involvement.\n\nGigafactory Shanghai remains Tesla's largest and most productive plant, and its key export hub to Europe, Canada and the Asia-Pacific — historically accounting for more than half of Tesla's global deliveries, which raises the cost of any separation. Separately, Bloomberg reported August 3 that SpaceX investors are preparing to press Musk directly on merger terms at today's earnings call.",
+      "href": "https://www.reuters.com/legal/transactional/teslas-china-footprint-complicates-path-possible-spacex-merger-2026-08-04/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Reuters",
+        "Bloomberg",
+        "WSJ"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "1h ago",
@@ -2270,47 +2316,7 @@
       "href": "https://electrek.co/2026/07/22/tesla-adas-crashes-record-207-one-month/",
       "sentiment": "bear",
       "hot": 7
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-22T15:26:21.000Z",
-      "title": "테슬라 앱 코드에 <em>옵티머스용 블루투스 인증</em> 첫 등장 — 로봇 전용 화이트리스트 페어링",
-      "hotShort": "테슬라 앱에 <em>옵티머스 페어링</em> 코드 발견",
-      "body": "Tesla App Updates가 테슬라 스마트폰 앱 코드에서 옵티머스 관련 첫 언급을 다수 발견했다 — 스마트폰을 로봇 전용 신뢰기기 화이트리스트에 등록하는 <em>블루투스 저전력(BLE) 인증</em> 방식으로, 로보택시 차량도 함께 '로봇'으로 식별될 여지가 있어 상용화를 위한 소프트웨어 하부구조 정비 신호로 읽힌다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-optimus-app-pairing-code-2026-07-22",
-      "summary": "테슬라 앱 코드 변화를 추적하는 'Tesla App Updates'가 처음으로 옵티머스 관련 언급을 다수 발견했다고 Teslarati가 22일 보도했다.\n\n핵심은 로봇 전용 <em>블루투스 저전력(BLE) 인증</em> 체계다. 스마트폰을 '키'로 등록해 옵티머스를 비롯해 테슬라가 '로봇'으로 분류하는 기기의 신뢰 기기 화이트리스트에 페어링하는 방식이며, 로보택시 차량 역시 자율주행 플랫폼 특성상 같은 '로봇' 분류에 포함될 가능성이 있다.\n\n아울러 옵티머스가 가정 내에서 진공청소·설거지·먼지 제거 등 작업을 수행할 때 영상·공간 데이터를 수집하는 데 대한 <em>동의를 구하는 별도 화면</em>도 코드에서 발견됐다. 배터리 부족부터 기계적 결함까지 포괄적으로 알려주는 알림 체계도 함께 구축 중이다.\n\n아직 정식 출시나 일정 발표는 아니지만, 앱 하부구조 정비는 옵티머스 상용화·가정 내 배치를 향한 실질적 준비 단계로 해석된다. 일론 머스크가 옵티머스를 '역대 최고 판매 제품'이 될 것이라 공언해온 만큼, 투자자들은 이 같은 소프트웨어 진척 신호를 로드맵 이행의 근거로 참고할 만하다.",
-      "title_en": "Tesla app code reveals first <em>Bluetooth pairing built for Optimus</em>",
-      "hotShort_en": "Tesla app gets <em>Optimus pairing</em> code",
-      "body_en": "Tesla App Updates spotted the first Optimus references in Tesla's smartphone app code, Teslarati reported — a robot-specific <em>Bluetooth Low Energy authentication</em> scheme that whitelists a phone as a trusted device, a system that could also apply to Robotaxi vehicles classified as robots.",
-      "summary_en": "Tesla App Updates, which tracks changes in Tesla's app code, found the first multiple references to Optimus, Teslarati reported on July 22.\n\nThe core addition is a robot-specific <em>Bluetooth Low Energy (BLE) authentication</em> system that pairs a phone as a trusted \"key\" on a whitelist for devices Tesla classifies as robots — a category that could extend beyond Optimus to Robotaxi vehicles given their autonomous nature.\n\nThe code also includes a dedicated consent screen for collecting video and spatial data while Optimus performs in-home tasks like vacuuming, dishwashing, and dusting, along with a comprehensive alert system covering everything from low battery to mechanical issues.\n\nThere's no launch date or official announcement yet, but the app-side groundwork points to real preparation for commercializing and deploying Optimus in homes. With Elon Musk having called Optimus the best-selling product of all time, investors may see this kind of software progress as evidence the roadmap is moving forward.",
-      "href": "https://www.teslarati.com/tesla-starts-preparing-optimus-smartphone-app/",
-      "sentiment": "bull",
-      "hot": 4
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-22T09:15:22.000Z",
-      "title": "블룸버그, 사이버트럭에 <em>'포드 에드셀' 낙인</em> — 2025년 판매 2만대, 전년比 48% 급감",
-      "hotShort": "사이버트럭 <em>'포드 에드셀' 낙인</em> — 판매 48%↓",
-      "body": "블룸버그가 사이버트럭을 1957년 시장에서 참패한 포드 에드셀에 빗대며 <em>'전기차 시대 최악의 실패작'</em>이 될 수 있다고 짚었다 — 2025년 미국 판매량이 2만237대로 전년(3만9000대) 대비 48% 급감해, 머스크가 공언한 연 25만대 목표의 8%에 그쳤다는 지적이다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "product-cybertruck-sales-cratering-edsel-2026-07-22",
-      "summary": "블룸버그가 22일(현지시간) 게재한 심층 기사에서 테슬라 사이버트럭을 1957년 출시 후 시장에서 참패한 포드의 '에드셀'에 견주며, <em>'전기차 시대 최악의 자동차 실패작'</em>으로 남을 위험이 있다고 짚었다. 2019년 공개 당시 파격적인 디자인과 방탄유리 시연으로 화제를 모았던 사이버트럭이, 출시 2년 만에 판매 급감이라는 상반된 성적표를 받아든 셈이다.\n\n블룸버그에 따르면 사이버트럭의 2025년 미국 판매량은 <em>2만237대</em>로, 전년(3만9000대) 대비 <em>48.1%</em> 감소했다. 이는 미국에서 판매된 전기차 가운데 단일 최대 판매 급감 폭으로 꼽힌다. 일론 머스크는 2019년 공개 행사에서 사이버트럭이 연간 <em>25만대</em> 판매될 것이라 공언한 바 있는데, 2025년 실적은 그 목표치의 8% 수준에 그쳤다.\n\n포드 에드셀은 1957년 출시 당시 연 20만대 판매를 목표로 내걸었지만 실제로는 그 3분의 1에도 못 미치는 판매량을 기록하며 자동차 역사상 최악의 실패 사례로 남았다. 블룸버그는 두 차종 모두 '미래형' 파격 디자인으로 대대적 기대를 모았다가 시장의 외면을 받았다는 공통점을 짚으며, 목표 대비 미달 폭으로는 사이버트럭이 에드셀보다 더 크다고 평가했다.\n\n22일 2분기 실적발표를 앞두고 나온 이 보도는 투자자들에게 민감한 시점의 지적이다. 사이버트럭은 로보택시·옵티머스와 함께 테슬라의 차세대 성장동력으로 홍보돼 왔지만, 정작 양산 볼륨 모델로는 자리잡지 못하고 있다는 점을 재확인시킨다. 다만 테슬라 매출에서 사이버트럭이 차지하는 비중 자체는 모델3·Y에 비해 작아, 이번 판매 부진이 곧바로 전체 실적에 미치는 영향은 제한적이라는 시각도 있다.",
-      "title_en": "Bloomberg brands Cybertruck the <em>'Ford Edsel of the EV era'</em> — 2025 sales crash 48% to 20,237",
-      "hotShort_en": "Cybertruck evokes <em>Ford Edsel comparisons</em>",
-      "body_en": "Bloomberg likened the Cybertruck to Ford's <em>Edsel</em>, the industry's textbook flop, after 2025 U.S. sales fell 48.1% to just 20,237 units — a fraction of the 250,000-a-year Musk once promised, landing one day before Tesla's Q2 earnings call.",
-      "summary_en": "In a feature published July 22, Bloomberg compared the Cybertruck to Ford's Edsel — the car whose name became shorthand for automotive failure after its disastrous 1957 launch — warning Tesla's angular pickup risks going down as <em>the biggest automotive flop of the EV era</em>. It's a sharp reversal from 2019, when the truck's radical design and bulletproof-glass demo made it an instant sensation.\n\nAccording to Bloomberg, Cybertruck's 2025 U.S. sales came in at <em>20,237</em> units, down <em>48.1%</em> from 39,000 the year before — the single steepest sales decline of any EV sold in the U.S. Musk had told the truck's 2019 unveiling crowd to expect <em>250,000</em> deliveries a year; 2025's total came in at just 8% of that target.\n\nFord's Edsel aimed for 200,000 annual sales when it launched in 1957 but managed less than a third of that, cementing its place as one of the industry's most infamous failures. Bloomberg noted both vehicles drew huge hype for futuristic styling before the market rejected them — and argued Cybertruck's miss against its own target is proportionally worse than Edsel's.\n\nThe comparison lands one day before Tesla's Q2 earnings call, a pointed reminder that Cybertruck — pitched alongside Robotaxi and Optimus as a pillar of Tesla's next growth phase — has yet to become a volume seller. Some analysts note Cybertruck's share of Tesla's overall revenue remains small next to Model 3 and Model Y, limiting the near-term hit to results even as the narrative sting persists.",
-      "href": "https://www.bloomberg.com/news/features/2026-07-22/tesla-cybertruck-risks-becoming-the-ford-edsel-of-the-ev-era",
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-08-04 20:15 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-05 00:10 KST 자동 갱신 · 최신순"
 }
