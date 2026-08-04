@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-29T13:15:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-amci-testing-1434-tone-shift-2026-07-29",
-          "verdict": "regrade",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — AMCI Testing은 독립 자동차·자율주행 평가기관, Tesla/규제기관 아님",
-            "조언톤 위반 없음, 원문 헤드라인('significant improvement... still a work in progress')은 복수 소스(PR Newswire 색인, advfn.com 미러)로 확인",
-            "④ 심각한 불일치 발견 — 서브에이전트 독립검증(반증 시도) 결과, 초안에 있던 구체 항목(저속 스티어링 떨림·머뭇거림 개선, 공사표지판/점멸등 대응, 신규 'Pull Over' 목적지 인식 기능)이 AMCI 자체 발표 원문이 아니라 Not a Tesla App의 일반 오너·테스터 첫인상 모음 기사(@JoeTegtmeyer 등 개별 테스터 발언 포함)에서 유래한 것으로 의심됨 — AMCI 과거 패턴(1000마일당 개입횟수 등 정량적 서술)과도 결이 다름. PR Newswire/advfn/notateslaapp/amcitesting.com/YouTube 전부 WebFetch 403으로 원문 직접 대조 불가",
-            "조치: 세부 항목 전부 삭제, AMCI 자체의 과거 비판적 이력(2024년 1000마일 평가 11~13마일당 개입 필요, 'not capable of self-driven taxi duty', 'unreliable performance and potentially dangerous inconsistencies' — 모두 실제 PR Newswire 타이틀로 재검색 확인됨)과 이번 발표 제목의 톤 변화('뚜렷한 개선'·'work in progress' 유보 병기)라는, 확실히 검증 가능한 사실만으로 본문·요약 재작성 후 발행",
-            "href는 실제 PR Newswire 릴리스 URL과 일치(검색 색인으로 확인, 직접 열람은 403으로 불가)",
-            "밈·풍자 아님(⑥ N/A) — 기업 보도자료"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-29T19:15:00.000Z",
       "mode": "shadow",
       "checked": 3,
@@ -744,6 +724,39 @@
             "no invented numbers — source (Teslarati, Not a Tesla App, Cybertruck Owners Club forum, Morrill's X post) gives no specific percentages/figures, and card does not fabricate any",
             "href (teslarati.com/tesla-quietly-made-cybertruck-even-stronger) matches card subject exactly — same article used in raw-cards.json",
             "not a blocklist match (distinct from 2023 steel-body/gigacasting stories — this is a 2026 underbody-panel material change, explicitly noted as unrelated in summary)"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-04T12:20:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "product-cybercab-camera-samsung-lginnotek-2026-08-04",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — KED Global is a legitimate Korean business press outlet reporting an industry deal, not a rumor/community source",
+            "no advisory tone (no buy/sell recommendation, no price target)",
+            "hedge preserved — card uses '전해졌다/알려졌다' (reportedly) for the deal size and split rather than asserting exact figures as confirmed fact",
+            "numbers (4-5조원/$3.2-4B, 80/20 Samsung/LG Innotek split, largest-ever contract for Samsung Electro-Mechanics' components unit) cross-checked via independent secondary coverage (SamMobile, InsideEVs aggregation) — consistent",
+            "href (kedglobal.com Cybercab camera module article) matches card subject",
+            "not X-sourced — meme/satire check n/a"
+          ]
+        },
+        {
+          "slug": "stock-spacex-earnings-stake-mark-2026-08-04",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Barron's",
+            "no advisory tone",
+            "hedge preserved — forward-looking framing ('~수 있어', '관측도 나온다'), no assertion of today's actual earnings outcome since report had not happened yet at drafting time",
+            "numbers ($2B Jan xAI investment, ~18.99M SpaceX Class A shares, <1% stake, ~$1B unrealized Q2 gain, IPO $135 / high $225 / recent ~$114, Aug 6 lock-up) cross-verified across independent sources (Yahoo Finance, CNBC, Washington Post, tradingkey, Investing.com) — consistent",
+            "verify-error: direct WebFetch of the Barron's href returned HTTP 403 (paywall/bot-block), so exact original wording could not be directly re-read — facts were instead cross-verified via multiple independent secondary sources covering the same event; left as pass per fail-open rule, flagged here for visibility",
+            "not X-sourced — meme/satire check n/a"
           ]
         }
       ]
