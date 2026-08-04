@@ -86,6 +86,31 @@
       "hot": 6
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "12h ago",
+      "pubDate": "2026-08-03T14:50:32.000Z",
+      "title": "사이버트럭 언더바디 패널, <em>알루미늄→탄소섬유</em>로 조용히 교체",
+      "hotShort": "사이버트럭 언더바디 <em>탄소섬유로 교체</em>",
+      "body": "테슬라가 사이버트럭 하부(언더바디) 보호 패널 소재를 알루미늄에서 탄소섬유로 별도 발표 없이 교체했다 — 사이버트럭 리드 엔지니어 웨스 모릴이 X에서 직접 확인, 내구성은 높이고 무게·비용은 낮춘 전 트림 공통 적용이라 마진 개선에도 도움이 될 조합.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-carbon-fiber-underbody-2026-08-03",
+      "summary": "이번 변경은 사이버트럭 오너 커뮤니티(Out of Spec의 콜튼 게린)가 언더바디 패널 소재가 달라진 것을 먼저 알아채면서 포착됐다. 테슬라는 별도 보도자료 없이 조용히 적용을 시작했다.\n\n사이버트럭 리드 엔지니어 웨스 모릴은 X 답글에서 \"새로운 소재\"라고 밝히며, 테스트 결과 탄소섬유가 알루미늄보다 내구성은 높으면서 무게와 비용은 더 낮았다고 설명했다. 볼트 주변부를 더 매끈하게 성형할 수 있어 언더바디 공기 흐름도 개선되는 부수 효과가 있다고 덧붙였다.\n\n이 변경은 특정 트림이 아니라 전 트림 공통 적용이다 — 부품 공급망을 단순화하고 트림 간 사양 편차를 줄이려는 목적으로 풀이된다. 2023년 첫 인도 이후 써온 알루미늄 언더바디 패널을 대체하는 것으로, 같은 해 발표된 스테인리스 스틸 차체·기가캐스팅 구조와는 별개의 사안이다.\n\n사이버트럭은 그간 전력변환장치(PCS) 고장 등 내구성 논란이 이어져 왔다 — 이번 소재 교체가 내구성 개선과 원가 절감을 동시에 노린 조치로 읽히는 이유다. 다만 공식 발표 없이 조용히 적용된 만큼, 실제 내구성 개선 효과는 앞으로 오너 피드백으로 검증될 전망이다.",
+      "title_en": "Tesla quietly swaps Cybertruck underbody panels from aluminum to <em>carbon fiber</em>",
+      "hotShort_en": "Cybertruck underbody switches to <em>carbon fiber</em>",
+      "body_en": "Tesla has quietly changed the material of the Cybertruck's underbody protection panels from aluminum to carbon fiber, with no separate announcement — Cybertruck Lead Engineer Wes Morrill confirmed the switch on X, saying testing showed the new material is more durable while also being lighter and cheaper, applied across all trims.",
+      "summary_en": "The switch was first spotted by the Cybertruck owner community — specifically Coleton Guerin of Out of Spec — who noticed the underbody panel material had changed. Tesla made no separate announcement before the change went into effect.\n\nReplying on X, Morrill called it \"a new material,\" saying testing showed it held up better than aluminum while coming in lighter and cheaper. He added that the composite lets Tesla mold cleaner contours around mounting bolts, which also slightly improves underbody airflow.\n\nThe change applies across all trims rather than a single variant, likely to simplify the supply chain and reduce spec variance between trims. It replaces the aluminum underbody panel used since first deliveries in 2023, and is unrelated to the stainless-steel body and gigacasting structure introduced that same year.\n\nCybertruck has faced durability scrutiny before, including complaints over power conversion system (PCS) failures — which is why this material swap reads as an attempt to improve durability while also cutting cost. Since Tesla rolled it out quietly with no press release, how much it actually improves durability will be borne out by owner feedback over time.",
+      "href": "https://www.teslarati.com/tesla-quietly-made-cybertruck-even-stronger/",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Teslarati",
+        "Not a Tesla App"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "3h ago",
@@ -2290,32 +2315,7 @@
       ],
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "just now",
-      "pubDate": "2026-07-21T18:37:34.000Z",
-      "title": "테슬라, <em>사이버캡 스타링크</em>는 탑승객 아닌 '무인차 관제용' — AI 총괄 첫 설명",
-      "hotShort": "스타링크는 탑승객 아닌 <em>무인차 관제용</em>",
-      "body": "테슬라 AI 총괄 아쇽 엘루스와미가 사이버캡 스타링크 통합의 진짜 목적을 처음 밝혔다 — 탑승객 인터넷 편의가 아니라, 운전대·페달 없는 무인차가 통신 사각지대에 빠지거나 판단이 어려운 상황에서 원격조작자가 카메라 피드를 보고 개입할 수 있게 하는 <em>차량 관제·안전망</em> 용도라는 설명이다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-cybercab-starlink-integration-santana-row-2026-07-20",
-      "summary": "테슬라가 캘리포니아 산호세 산타나로우(333 Santana Row) 매장에 전시된 프로덕션 사양 사이버캡을 통해, 차량에 <em>스타링크 안테나가 내장돼 주행 중 안정적인 인터넷 접속을 제공</em>한다는 사실을 처음 공식적으로 확인했다.\n\n이 매장은 자율주행·로보택시 체험에 특화된 공간으로 새단장했다 — 운전대와 페달이 없는 프로덕션 사이버캡을 전시장 중앙에 배치하고, 테슬라 자율주행 기술 발전 타임라인, 실제 도로 주행 라이브 카메라 피드, FSD(감독형) 안전 데이터까지 함께 선보인다. 소프트 오픈은 <em>7월24일</em> 오전 10시~오후 9시로 예정돼 있다.\n\n운전대·페달이 없는 사이버캡의 구조상 탑승객은 주행 중 차량을 직접 조작할 필요가 없고, 중앙 스크린을 통해 업무·영상 시청 등 탑승 시간을 활용하게 된다 — 스타링크 통합은 이런 무인 이동 경험에서 인터넷 연결성을 완성하는 마지막 퍼즐 조각인 셈이다.\n\n22일 2분기 실적콜을 앞두고 나온 이번 공개는, 로보택시·사이버캡 플랫폼이 하드웨어뿐 아니라 탑승 경험 디테일까지 갖춰가고 있음을 보여주는 신호로 투자자들의 관심을 끌고 있다.\n\n이후 테슬라 AI 총괄 아쇽 엘루스와미는 스타링크 통합이 자율주행 자체의 안전 요건 때문은 아니라고 선을 그으면서도, 연결성의 핵심 목적은 내비게이션·고객서비스·차량군 관리에 있다고 밝혔다. 운전대·페달이 없는 사이버캡이 복잡한 상황에서 스스로 판단하기 어려울 때 원격 모니터 요원이 실시간 카메라 피드를 보고 개입할 수 있어야 하는데, 셀룰러 음영지역에서도 이 연결을 유지하려면 위성 안테나가 필요하다는 것이다. 즉 탑승객 엔터테인먼트보다 무인 차량군을 안전하게 관제하기 위한 인프라라는 설명이다.",
-      "title_en": "Tesla AI chief: Cybercab's Starlink is for <em>fleet monitoring</em>, not rider convenience",
-      "hotShort_en": "Cybercab Starlink is really for <em>fleet monitoring</em>",
-      "body_en": "Tesla AI chief Ashok Elluswamy has revealed the real reason behind Starlink integration in Cybercab — not passenger internet convenience, but a <em>fleet-monitoring safety net</em> that lets remote operators view camera feeds and intervene when the driverless vehicle hits a tricky situation or loses cellular connection.",
-      "summary_en": "Tesla has officially confirmed for the first time — via a production-spec Cybercab on display at its Santana Row showroom (333 Santana Row) in San Jose, California — that the vehicle will feature <em>a built-in Starlink antenna providing reliable internet access during trips</em>.\n\nThe showroom has been redesigned around a dedicated Self-Driving and Robotaxi experience: a production Cybercab, with no steering wheel or pedals, sits at the center of the floor alongside a timeline of Tesla's autonomy development, live camera feeds from real-world self-driving, and FSD (Supervised) safety data. The location's soft opening is set for <em>July 24</em>, running 10 a.m. to 9 p.m.\n\nBecause Cybercab has no steering wheel or pedals, riders won't interact with vehicle controls at all — the center screen becomes the main interface for work or entertainment during the ride. Starlink integration fills in the last piece of that experience: reliable connectivity throughout the trip.\n\nComing two days before Tesla's Q2 earnings call, the reveal signals that the Robotaxi/Cybercab platform is maturing beyond hardware into passenger-experience details — a detail investors are watching as the company's autonomy story develops.\n\nTesla AI chief Ashok Elluswamy later clarified that Starlink integration isn't required for the safe operation of the self-driving system itself, but that connectivity is primarily meant for navigation, customer service, and fleet management. Because Cybercab has no steering wheel or pedals, a low-latency link lets remote human monitors check camera feeds and step in when the vehicle encounters a complex scenario it can't navigate — and a satellite dish keeps that link alive even in cellular dead zones. In other words, the feature is less about passenger entertainment and more about safely managing a driverless fleet.",
-      "href": "https://www.teslarati.com/teslas-reason-for-starlink-integration-on-cybercab-might-surprise-you/",
-      "sentiment": "neutral",
-      "hot": 5,
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "Teslarati",
-        "Electrek"
-      ]
     }
   ],
-  "asOf": "2026-08-04 08:08 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-04 12:05 KST 자동 갱신 · 최신순"
 }

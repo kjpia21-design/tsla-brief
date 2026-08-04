@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-29T10:55:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "stock-gary-black-tsla-sub-300-warning-2026-07-29",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — Benzinga가 실제 X 게시물(@garyblack00, status/2082036518592418230)을 그대로 보도, 원문과 카드 인용 거의 일치 확인(서브에이전트 독립검증)",
-            "게리 블랙 신원(더퓨처펀드 매니징파트너) 복수 매체(AOL, Yahoo Finance)로 확인",
-            "조언톤 위반 없음 — 블랙 개인 전망을 보도할 뿐 사이트 자체 매수·매도 권유 없음",
-            "단정 전환 없음 — '경고했다', '그의 개인적 전망' 으로 정확히 헤지",
-            "숫자 대조: RSI 27.03·지지구간 $300~306·볼린저밴드 하단 $306.47·S1 피봇 $301.70·화요일 종가 $307.44·시간외 -0.20%·P/E 175배 모두 WebSearch 교차검증(Benzinga/Yahoo/AOL 미러) 일치",
-            "1건 미확인 수치 발견·수정: 초안의 '$295까지 하락' 구체 수치는 어떤 소스에서도 원문 그대로 확인되지 않아 발행 전 삭제 — '매도가 가속화될 수 있다'로 완화 서술",
-            "밈·풍자 아님(⑥) — 블랙의 기존 공개 발언 패턴과 일치하는 진지한 밸류에이션 분석",
-            "verify-error: Benzinga/Cryptonomist 원문 직접 WebFetch 403 차단 — WebSearch 교차검증으로 대체(서브에이전트 병행 실행)"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-29T13:15:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -746,6 +724,26 @@
             "figures cross-checked via WebSearch: 50% FSD-mile discount, Tennessee as 5th state after Arizona/Oregon/Indiana/Colorado, all match",
             "href (teslarati.com) is the primary story for this exact expansion — no body/link mismatch",
             "primary URL (teslarati.com) blocked by WebFetch (403) — verified via cross-source corroboration instead; fail-open per shadow mode"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-04T03:05:44.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "product-cybertruck-carbon-fiber-underbody-2026-08-03",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — Teslarati report; underlying quote is from Cybertruck Lead Engineer Wes Morrill's own X reply, but card cites Teslarati (press) as the reporting outlet per raw sourceLabel convention",
+            "no advisory tone (no buy/sell recommendation or price target)",
+            "hedge preserved — card attributes durability/weight/cost claims to Morrill's testing statement ('테스트 결과 ... 설명했다') rather than asserting them as independently confirmed fact",
+            "no invented numbers — source (Teslarati, Not a Tesla App, Cybertruck Owners Club forum, Morrill's X post) gives no specific percentages/figures, and card does not fabricate any",
+            "href (teslarati.com/tesla-quietly-made-cybertruck-even-stronger) matches card subject exactly — same article used in raw-cards.json",
+            "not a blocklist match (distinct from 2023 steel-body/gigacasting stories — this is a 2026 underbody-panel material change, explicitly noted as unrelated in summary)"
           ]
         }
       ]
