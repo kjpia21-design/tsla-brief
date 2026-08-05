@@ -1,9 +1,63 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
+      "pubDate": "2026-08-05T13:17:49.000Z",
+      "title": "스페이스X, <em>1,016억달러 규모 락업 해제</em> 임박 — IPO가 밑돈 주가에 추가 압박",
+      "hotShort": "스페이스X 락업 해제 임박 — <em>추가 매도 압박</em> 우려",
+      "body": "8월6일(목) 스페이스X의 사전 락업 주식 약 9억1,150만주(시가 약 <em>1,016억달러</em>)가 처음으로 거래 가능해진다 — 9단계로 나눠 충격을 완화하려는 구조지만 유통 가능 주식의 35%가 이미 공매도된 상태라, IPO가($135)조차 밑도는 주가에 추가 매도 압박이 우려된다. 테슬라가 스페이스X 지분을 보유한 만큼 지분평가에도 영향을 줄 수 있는 변수.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-101b-share-unlock-2026-08-05",
+      "summary": "블룸버그에 따르면 8월6일(목) 스페이스X의 IPO 이전 발행된 락업 주식 중 약 9억1,150만주가 처음으로 거래 가능해진다. 이날 종가 기준 시가로 환산하면 약 1,016억달러 규모다. 스페이스X는 락업 해제 충격을 줄이기 위해 물량을 9단계로 나눠 순차 해제하는 구조를 택했는데, 그 첫 단계부터 규모가 워낙 커 베테랑 투자자들도 예단을 자제하고 있다고 전해진다.\n\n스페이스X 주가는 이미 부진한 흐름을 보여왔다. 6월12일 135달러에 상장해 첫날 19% 급등 마감했고 6월16일에는 211달러대까지 오르며 정점을 찍었지만, 8월4일 발표한 첫 분기 실적에서 매출은 서프라이즈를 냈음에도 AI·스타링크 설비투자가 매출의 두 배를 넘어서며 주가가 급락, 현재는 IPO가마저 밑도는 수준까지 밀린 상태다.\n\n락업 해제를 앞두고 공매도 잔량도 쌓였다 — 현재 유통 가능한 주식의 35%가 이미 공매도된 상태로, 락업 해제와 맞물려 추가 하락 베팅이 몰린 모습이다. 다만 전문가들은 락업 해제가 곧 대량 매도로 이어진다는 보장은 없다고 지적한다. 해제되는 물량 대부분이 임직원·초기 투자자 보유분이라, 매도할 '권리'가 생기는 것이지 매도 '의무'가 생기는 것은 아니기 때문이다.\n\n테슬라는 스페이스X 지분을 상당량 보유하고 있어, 이번 락업 해제로 인한 주가 변동은 테슬라 대차대조표상 지분평가에도 영향을 줄 수 있는 변수다. 지난달 말에는 스페이스X 공매도 잔액이 테슬라를 앞지른 246억달러로 집계되며 8월4일 실적·8월6일 락업을 '겹악재'로 지목하는 분석이 나온 바 있는데, 이번 보도는 그 우려가 현실화하는 국면임을 보여준다.",
+      "title_en": "SpaceX faces <em>$101B share unlock</em> as stock trades below its IPO price",
+      "hotShort_en": "SpaceX braces for <em>$101B unlock</em>",
+      "body_en": "About 911.5 million previously locked SpaceX shares — worth roughly <em>$101 billion</em> — become eligible for trading on Thursday, August 6, the first of nine staggered unlock stages, with 35% of currently tradable shares already sold short and the stock already below its $135 IPO price. Tesla, which holds a SpaceX stake, has some exposure to how the stock reacts.",
+      "summary_en": "Bloomberg reports that roughly 911.5 million pre-IPO SpaceX shares become eligible to trade for the first time on Thursday, August 6 — a notional value of about $101 billion at recent prices. SpaceX structured the unlock in nine staggered stages to soften the impact, but even the first tranche is large enough that veteran backers are reportedly reluctant to predict how it plays out.\n\nThe stock has already had a rough run. SpaceX debuted at $135 on June 12 and jumped 19% on its first day, then peaked around $211 on June 16. But after its first quarterly report as a public company on August 4 — where revenue beat estimates but AI and Starlink capex ran more than double revenue — shares slid sharply and are now trading below the IPO price.\n\nShort interest has built ahead of the unlock: 35% of currently tradable shares are already sold short, suggesting bearish bets have piled up around the event. Analysts note, though, that an unlock doesn't guarantee a wave of selling — most of the newly eligible shares are held by employees, executives, and early investors, who gain the ability to sell, not an obligation to.\n\nTesla holds a sizable stake in SpaceX, so how the stock trades through the unlock has some bearing on how that stake is carried on Tesla's balance sheet. Late last month, SpaceX's short interest already topped Tesla's at roughly $24.6 billion, with analysts flagging the August 4 earnings and August 6 unlock as a one-two risk event — this unlock is that second shoe dropping.",
+      "href": "https://www.bloomberg.com/news/articles/2026-08-05/spacex-s-101-billion-unlock-heaps-pressure-on-battered-shares",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Bloomberg",
+        "Investing.com",
+        "Yahoo Finance",
+        "Benzinga"
+      ],
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "3h ago",
+      "pubDate": "2026-08-05T10:55:04.000Z",
+      "title": "우버, 2분기 실적서 로보택시 <em>100억달러 이상 투자 재확인</em> — 2028년까지 28개 도시",
+      "hotShort": "우버, 로보택시에 <em>100억달러 이상</em> 베팅 재확인",
+      "body": "우버가 2분기 실적 발표에서 로보택시 사업에 <em>100억달러 이상</em>(차량 매입 75억달러+AV 파트너 지분투자 25억달러)을 투입해 2026년 말 15개 도시·2028년 28개 도시로 확장하겠다고 재확인 — 사이버캡을 준비 중인 테슬라에 자본력을 앞세운 직접 경쟁압박이 커지는 신호.",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "fsd-uber-10b-robotaxi-commitment-2026-08-05",
+      "summary": "우버가 8월5일 공개한 2분기 실적에서 로보택시 사업에 100억달러 이상을 투입하겠다는 기존 계획을 재확인했다. 총 투자액 중 약 75억달러는 자율주행 차량 매입에, 약 25억달러는 AV(자율주행) 파트너사 지분투자에 배정되며, 지분투자는 배치 목표(deployment milestone) 달성과 연동된다.\n\n확장 목표는 2026년 말까지 최소 15개 도시, 2028년까지 28개 도시로 로보택시 서비스를 넓히는 것이다. 우버는 웨이모(알파벳)·Baidu·Rivian·Lucid 등 10여 곳의 자율주행 파트너와 협력 중이며, 2029년까지 세계 최대 자율주행 승차 서비스 사업자가 되겠다는 목표도 제시했다.\n\n다만 초기 핵심 파트너였던 웨이모와의 관계는 변화를 앞두고 있다. 양사는 애틀랜타·오스틴(텍사스)에서의 독점 파트너십을 2028년 초 종료하기로 합의했다고 밝혔다 — 웨이모가 우버 플랫폼에 대한 의존도를 낮추려는 신호로 읽힌다.\n\n이번 재확인은 2분기 실적 자체는 예상을 웃돌았지만(총예약액 전년比 24%↑ 580억2,000만달러, 월드컵 특수 반영) 3분기 가이던스가 컨센서스를 소폭 하회하며 주가가 4.8% 하락한 가운데 나왔다. 테슬라 입장에서는 사이버캡으로 준비 중인 로보택시 시장에 우버가 대규모 자본을 앞세워 속도를 내는 모습이라, 규제 승인·양산 속도 경쟁이 한층 치열해질 전망이다.",
+      "title_en": "Uber reaffirms <em>$10B+ robotaxi investment</em> in Q2 earnings — targets 28 cities by 2028",
+      "hotShort_en": "Uber reaffirms <em>$10B+ robotaxi</em> bet",
+      "body_en": "Uber's Q2 earnings reaffirmed its plan to invest <em>more than $10 billion</em> in robotaxis — about $7.5B for vehicle purchases and $2.5B in equity stakes in AV partners — aiming for 15 cities by the end of 2026 and 28 by 2028, ramping up capital-backed competition against Tesla's still-unlaunched Cybercab.",
+      "summary_en": "Uber's August 5 second-quarter earnings reaffirmed its existing plan to spend more than $10 billion on robotaxis. Roughly $7.5 billion is earmarked for purchasing autonomous vehicles outright, while about $2.5 billion goes toward equity stakes in AV partners, with those investments tied to deployment milestones.\n\nThe expansion goal is to launch robotaxi service in at least 15 cities by the end of 2026 and scale to 28 cities by 2028. Uber is working with more than a dozen AV partners, including Alphabet's Waymo, Baidu, Rivian, and Lucid, and has set a longer-term goal of becoming the world's largest autonomous-ride provider by 2029.\n\nIts relationship with early partner Waymo is shifting, though. The two companies said their exclusivity arrangement in Atlanta and Austin, Texas will end by early 2028 — a sign Waymo is looking to reduce its reliance on Uber's platform in those markets.\n\nThe reaffirmed robotaxi commitment came alongside otherwise solid Q2 results — gross bookings rose 24% year-over-year to $58.02 billion, boosted by World Cup travel demand — but shares fell 4.8% after Uber's third-quarter guidance came in slightly below consensus. For Tesla, the news signals that Uber is throwing significant capital behind robotaxis just as Tesla works to scale its own Cybercab, intensifying the race on both regulatory approval and production ramp.",
+      "href": "https://www.ft.com/content/04d6fcb4-03e4-4ee5-9017-ccaa7808c934?syn-25a6b1a6",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Financial Times",
+        "CNBC",
+        "Yahoo Finance",
+        "MarketScreener"
+      ],
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "5h ago",
       "pubDate": "2026-08-05T09:36:11.000Z",
       "title": "아마존 Zoox, <em>라스베이거스서 무핸들 로보택시 유료화</em> — 마이애미·오스틴 다음 확장",
       "hotShort": "Zoox, <em>무핸들 로보택시 유료화</em> 라스베이거스서 개시 예고",
@@ -56,7 +110,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "16h ago",
       "pubDate": "2026-08-04T22:00:00.000Z",
       "title": "머스크 \"스페이스X AI 인프라, <em>엔비디아로 전량 구축</em>\" — 궤도 AI위성 'Starmind AI1' 공개",
       "hotShort": "머스크 \"스페이스X, <em>엔비디아 독점</em>\" 선언",
@@ -83,7 +137,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "18h ago",
       "pubDate": "2026-08-04T20:35:00.000Z",
       "title": "스페이스X 상장 후 첫 실적 — 매출 92%↑ '어닝비트'에도 <em>설비투자 급증</em>에 주가 시간외 5%↓",
       "hotShort": "스페이스X 첫 실적, 매출↑에도 <em>capex 급증</em>에 주가↓",
@@ -136,7 +190,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "23h ago",
       "pubDate": "2026-08-04T15:44:27.000Z",
       "title": "테슬라, 캘리포니아 첫구매 EV 지원금 'MyFirstEV' 참여 확정 — 모델3·Y <em>3,500달러</em> 즉시할인",
       "hotShort": "테슬라, 캘리 첫구매 EV 지원금 참여 — 모델3·Y <em>$3,500 할인</em>",
@@ -182,7 +236,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "1d ago",
       "pubDate": "2026-08-04T11:51:46.000Z",
       "title": "테슬라 中 7월 도매판매 9만3,579대 — <em>전년比 37.8%↑</em>, 역대 7월 최다",
       "hotShort": "테슬라 中 7월 판매 <em>37.8%↑</em>, 역대 최다",
@@ -2296,53 +2350,7 @@
       "href": "https://www.teslarati.com/tesla-switch-up-selling-full-self-driving-has-paid-off-big-time/",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "26m ago",
-      "pubDate": "2026-07-23T13:52:16.000Z",
-      "title": "월가 4개사, 실적 부진에 테슬라 목표주가 <em>일제히 하향</em> — 등급은 유지",
-      "hotShort": "월가 4개사, 테슬라 목표주가 <em>동반 하향</em>",
-      "body": "JP모건($475→$445)·Cantor Fitzgerald($510→$485)·Canaccord($450→$410)·Truist($430→$370)가 2분기 실적 부진을 이유로 목표주가를 일제히 낮췄다 — 다만 매수·비중확대 등급은 대부분 유지해, 단기 실적 미스에도 로보택시·옵티머스 장기 성장 스토리에 대한 신뢰는 완전히 꺾이지 않았음을 시사한다.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "stock-analyst-price-target-cuts-2026-07-23",
-      "summary": "22일 2분기 실적 발표 이후 월가 애널리스트들의 목표주가 조정이 잇따르고 있다. CNBC 집계에 따르면 JP모건이 $475에서 $445로, Cantor Fitzgerald가 $510에서 $485로, Canaccord가 $450에서 $410으로, Truist가 $430에서 $370으로 각각 목표주가를 낮춰, 주요 4개사 목표주가 밴드가 $370~$485 수준으로 좁혀졌다.\n\n하향 배경은 대체로 겹친다. 평균판매가 하락과 규제크레딧 매출 감소가 겹치며 조정 EPS가 컨센서스($0.50)를 크게 밑돈 $0.33에 그쳤고, 이것이 목표주가 조정의 공통 근거로 꼽혔다. Canaccord는 밸류에이션 부담과 함께 로보택시·자율주행 관련 약속들이 시점을 가늠하기 어렵다는 점을 하향 이유로 짚었다.\n\n다만 투자의견(등급)은 대부분 그대로다. Canaccord는 매수(Buy), Cantor Fitzgerald는 비중확대(Overweight) 등급을 유지했고 Truist는 기존 보유(Hold) 의견을 이어갔다. Cantor는 2026 회계연도를 자율주행·AI·로보틱스·반도체로의 전환이 본격화되는 분수령으로 보고 있다고 밝혔다 — 목표가는 낮췄지만 사업 방향 자체에 대한 판단은 바꾸지 않았다는 뜻이다.\n\n목표주가 하향과 등급 유지가 함께 나온 점은 월가의 태도를 요약한다. 단기 마진 압박은 냉정하게 반영하되, 로보택시·옵티머스·AI 인프라로 이어지는 장기 스토리 자체를 폐기하지는 않는 '지켜보자(show-me)' 스탠스에 가깝다.",
-      "title_en": "Four Wall Street firms cut Tesla price targets <em>after earnings miss</em> — but keep ratings intact",
-      "hotShort_en": "Four banks <em>cut Tesla price targets</em> in unison",
-      "body_en": "JPMorgan ($475→$445), Cantor Fitzgerald ($510→$485), Canaccord ($450→$410), and Truist ($430→$370) all lowered their Tesla price targets after the Q2 profit miss — but most kept their Buy/Overweight ratings intact, suggesting confidence in the long-term robotaxi and Optimus growth story hasn't fully cracked despite the near-term stumble.",
-      "summary_en": "A wave of Tesla price-target cuts followed Wednesday's Q2 earnings report. Per CNBC's roundup, JPMorgan trimmed its target from $475 to $445, Cantor Fitzgerald from $510 to $485, Canaccord from $450 to $410, and Truist from $430 to $370 — narrowing the range across the four firms to roughly $370–$485.\n\nThe reasoning was largely shared: lower average selling prices and shrinking regulatory-credit revenue squeezed margins, driving adjusted EPS to $0.33, well below the $0.50 consensus. Canaccord cited valuation pressure alongside the difficulty of pinning down timing on Tesla's robotaxi and autonomy promises.\n\nRatings, though, mostly held. Canaccord kept its Buy rating, Cantor Fitzgerald stayed at Overweight, and Truist maintained its existing Hold. Cantor framed fiscal 2026 as a transformational year for autonomy, AI, robotics, and chips — the target came down, but the underlying thesis didn't change.\n\nTaken together, the target cuts paired with unchanged ratings capture Wall Street's current posture: near-term margin pressure is being priced in soberly, without abandoning the long-term robotaxi, Optimus, and AI-infrastructure story — a 'show-me' stance rather than a reversal.",
-      "href": "https://www.cnbc.com/2026/07/23/tesla-gets-price-target-cuts-from-analysts-on-earnings-miss-what-theyre-saying.html",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "CNBC",
-        "Teslarati",
-        "MarketScreener"
-      ],
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-07-23T09:37:43.000Z",
-      "title": "로보택시 확장, 1년 전 \"초지수적 성장\" 호언과 달리 <em>목표 7곳 중 3곳</em> 그쳐",
-      "hotShort": "로보택시 확장, 결국 <em>목표치 미달</em> 인정",
-      "body": "일론 머스크가 1년 전 예고한 로보택시 '초지수적' 확장과 달리, 22일 실적콜에서는 신중한 어조로 돌아섰다 — 1월 투자자 발표 때 6월 말까지 7개 도시 진출을 약속했지만, 화요일까지 댈러스·휴스턴·마이애미 3곳(그마저 일부 지역 한정)에 그쳤다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "fsd-robotaxi-guarded-tone-earnings-2026-07-23",
-      "summary": "로이터에 따르면 머스크는 1년 전 로보택시 네트워크가 '초지수적(hyper-exponential) 속도'로 확장해 2025년 말까지 미국 인구 절반이 이용할 수 있을 것이라 공언했었다. 그러나 22일 2분기 실적콜에서 머스크와 경영진은 애널리스트들의 더딘 확장 속도 질문에 한층 신중한 어조로 답했다.\n\n실제 확장 속도는 약속에 크게 못 미쳤다. 올해 1월 투자자 발표에서 테슬라는 6월 말까지 댈러스·휴스턴·피닉스·마이애미·올랜도·탬파·라스베이거스 등 7개 대도시권으로 로보택시를 확장하겠다고 밝혔다. 하지만 화요일(21일)까지 실제 서비스가 시작된 곳은 댈러스·휴스턴·마이애미 3곳뿐이었고, 그마저 휴스턴·마이애미는 일부 지역에 한정됐다. 테슬라는 화요일에야 \"이제 탬파·올랜도에서도 서비스한다\"고 발표했는데, 이는 실적발표를 앞두고 나온 여러 애널리스트 보고서가 확장 지연을 지적한 직후였다.\n\n다만 누적 데이터는 이번에 처음 공개됐다. 테슬라는 유료 고객이 로보택시로 누적 250만 마일을 이동했고, 이 중 38만 마일은 차내 안전요원 없이 주행했다고 밝혔다.\n\n로보택시는 옵티머스·사이버캡과 함께 테슬라가 '자동차 회사 너머'를 내세우는 핵심 성장동력이다. 목표 대비 확장 속도가 확연히 느려졌다는 점이 실적콜에서 공식 확인된 만큼, 주주들은 향후 가이던스의 신뢰도를 더 까다롭게 따져볼 가능성이 크다.",
-      "title_en": "Tesla's robotaxi tone shifts — <em>only 3 of 7 promised metros</em> live, a year after 'hyper-exponential' vow",
-      "hotShort_en": "Robotaxi rollout <em>falls short of own targets</em>",
-      "body_en": "A year after Musk promised robotaxis would expand at a \"hyper-exponential rate,\" Tesla struck a more guarded tone on the July 22 earnings call — the January investor-day pledge of 7 metro areas by end of June landed at just 3, and only partially.",
-      "summary_en": "According to Reuters, Musk said a year ago that Tesla's robotaxi network would expand at a \"hyper-exponential rate\" and reach half the U.S. population by the end of 2025. On Wednesday's Q2 earnings call, though, Musk and his executive team answered analysts' questions about the slower-than-expected rollout with a noticeably more guarded tone.\n\nThe actual pace has badly lagged the promise. In a January investor presentation, Tesla said robotaxis would expand to seven metro areas by the end of June: Dallas, Houston, Phoenix, Miami, Orlando, Tampa, and Las Vegas. As of Tuesday, only three — Dallas, Houston, and Miami — were actually live, and service in Houston and Miami remained limited to outlying sections. Tesla announced Tuesday it was \"now in Tampa & Orlando,\" following several analyst notes ahead of earnings that flagged the slow expansion.\n\nNew cumulative figures were disclosed for the first time: paying customers have traveled 2.5 million miles in the robotaxi service, including 380,000 miles without an in-vehicle safety monitor.\n\nRobotaxi is one of the pillars Tesla leans on to argue it's more than a car company, alongside Optimus and Cybercab. With the shortfall now confirmed on an earnings call rather than in analyst speculation, shareholders are likely to scrutinize future rollout guidance more skeptically.",
-      "href": "https://www.reuters.com/business/autos-transportation/teslas-once-bullish-tone-robotaxis-shifts-2026-07-23/",
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-08-05 20:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-05 23:25 KST 자동 갱신 · 최신순"
 }

@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-30T23:06:48.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-zoox-nhtsa-robotaxi-approval-2026-07-30",
-          "verdict": "pass",
-          "newSourceLabel": "sec",
-          "reasons": [
-            "Card merged with same-day NHTSA regulatory framework news (national AV performance standards, A2SCEND $5M/3yr SAE consortium, 8 FMVSS updates) rather than creating a duplicate card — same NHTSA July 30 announcement as the existing Zoox exemption card",
-            "Numbers cross-checked via WebSearch across NHTSA official press release framing, Crowell & Moring client alert, and DOT/FHWA newsroom summaries — $5M/3-year consortium, FMVSS 102/103/104/110/135 proposed + 108/111/126/201/208 planned, Zoox 2,500 vehicles/year for 2 years all consistent across sources",
-            "href swapped from Reuters (Zoox-only) to NHTSA official press release since body now covers the broader framework beyond just Zoox — sourceLabel upgraded press->sec accordingly (NHTSA is the regulator per schema)",
-            "No advice tone, hedges (proposed/plans to/directed) preserved for not-yet-finalized items, sentiment bull is warranted (regulatory tailwind for Tesla's pedal-less Cybercab) and not overstated",
-            "WebFetch was unavailable in this run (403 on all URLs including a neutral control fetch) — verification relied on WebSearch snippets from NHTSA/DOT/law-firm/trade-press sources instead of direct WebFetch of the href; flagging per fail-open policy"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-31T00:12:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -740,6 +721,37 @@
             "hedged appropriately: 'launch is imminent/soon' language kept, not asserted as already-live paid service, matching source language ('will soon begin charging')",
             "no invented numbers/dates — no specific launch date claimed beyond city sequence (Las Vegas -> Miami/Austin), consistent across all cross-checked sources",
             "Tesla/Cybercab comparison attributed as competitive-landscape commentary consistent across sources, not the site's own speculative claim"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-05T14:35:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-101b-share-unlock-2026-08-05",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel press(Bloomberg) 정확 — sec/official 아님, 재게시 아님",
+            "수치(911.5M주·약$101.6B/1,016억달러·8/6 락업·IPO가 $135·정점 $211·공매도 35%) WebSearch로 Investing.com/Yahoo Finance/Benzinga/Advisor Perspectives 교차확인 — Bloomberg 원문 WebFetch는 403으로 직접 접근 불가해 교차출처로 대체(fail-open 정책)",
+            "조언 톤 없음(매수/매도 권유·목표가 제시 없음)",
+            "원문의 불확실성(락업=매도 의무 아님, 전문가 예단 자제)을 카드에서도 완화표현으로 그대로 유지 — 단정 전환 없음",
+            "href가 실제 다루는 사건(락업 해제)과 카드 본문 일치"
+          ]
+        },
+        {
+          "slug": "fsd-uber-10b-robotaxi-commitment-2026-08-05",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel press(FT) 정확",
+            "수치($10B+·$7.5B 차량매입+$2.5B 지분투자·15개→28개 도시·총예약액 +24% $58.02B·순이익 $2.39B·3분기 가이던스 미달·주가 -4.8%·웨이모 애틀랜타·오스틴 독점 2028년초 종료) WebSearch로 Yahoo Finance/CNBC/MarketScreener/BigGo/Seeking Alpha 교차확인",
+            "FT 원문 href는 paywall+WebFetch 403으로 직접 열람 불가 — 복수 교차출처로 사실관계 확인 후 채택(fail-open 정책, reasons에 명시)",
+            "조언 톤 없음, 단정 전환 없음(실적콜 공식 발표라 hedge 불필요)",
+            "테슬라 관련성(Cybercab 경쟁) 서술이 원문 사실(로보택시 경쟁 구도)에서 합리적으로 도출된 맥락 보강이며 새 사실 창작 아님"
           ]
         }
       ]
