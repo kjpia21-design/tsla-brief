@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-08-05 21:51 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-05 23:05 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "23m ago",
+      "pubDate": "2026-08-05T22:42:31.000Z",
+      "title": "Should You Forget Tesla Stock Near a 52-Week Low?",
+      "body": "Should You Forget Tesla Stock Near a 52-Week Low? The Motley Fool",
+      "sourceName": "The Motley Fool",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.fool.com/investing/2026/08/05/should-you-forget-tesla-stock-near-a-52-week-low/"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "59m ago",
+      "time": "1h ago",
+      "pubDate": "2026-08-05T22:05:29.000Z",
+      "title": "SpaceX slides as AI spending worries overshadow early returns",
+      "body": "SpaceX slides as AI spending worries overshadow early returns Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/media-telecom/spacex-slides-ai-spending-worries-overshadow-early-returns-2026-08-05/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-08-05T21:30:55.000Z",
+      "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
+      "body": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/amp/2026/08/05/spacex-tesla-megapack-ai-data-centers.html"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
       "pubDate": "2026-08-05T20:52:49.000Z",
       "title": "Musk, Money and Mars",
       "body": "Musk, Money and Mars The New York Times",
@@ -15,9 +54,22 @@
       "href": "https://www.nytimes.com/2026/08/05/world/elon-musk-wealth-gaza-strikes.html"
     },
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-08-05T20:51:35.000Z",
+      "title": "SpaceX Investors Brace for Another Potential Drop",
+      "body": "SpaceX Investors Brace for Another Potential Drop Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/newsletters/2026-08-05/spacex-investors-brace-for-the-next-possible-drop-evening-briefing-americas"
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
+      "time": "2h ago",
       "pubDate": "2026-08-05T20:45:27.000Z",
       "title": "Tesla Megapacks power Ørsted’s big new Texas grid battery",
       "body": "Tesla Megapacks are now helping support the Texas grid at Ørsted’s new 250 MW/500 MWh Old 300 battery storage project.",
@@ -30,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
+      "time": "3h ago",
       "pubDate": "2026-08-05T20:26:00.000Z",
       "title": "SpaceX’s $1T Goal and 3 More Shockers From Musk on the Earnings Call",
       "body": "SpaceX’s $1T Goal and 3 More Shockers From Musk on the Earnings Call Barron's",
@@ -43,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "2h ago",
+      "time": "3h ago",
       "pubDate": "2026-08-05T19:56:00.000Z",
       "title": "Some Owners Say Tesla's New FSD Update Is Causing Their Cars' Computers To Overheat",
       "body": "Some Owners Say Tesla's New FSD Update Is Causing Their Cars' Computers To Overheat InsideEVs",
@@ -54,48 +106,9 @@
       "href": "https://insideevs.com/news/803866/tesla-autopilot-computer-fsd-overheating/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-08-05T19:01:09.000Z",
-      "title": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq",
-      "body": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/business/media-telecom/sp-500-dow-futures-inch-up-mideast-hopes-offset-spacex-amd-drag-2026-08-05/"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-08-05T19:00:04.000Z",
-      "title": "SpaceX Shouldn’t Risk Its Credibility on Mobile Phone Service",
-      "body": "SpaceX Shouldn’t Risk Its Credibility on Mobile Phone Service Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/opinion/articles/2026-08-05/spacex-shouldn-t-risk-its-credibility-on-mobile-phone-service"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-08-05T16:39:39.000Z",
-      "title": "Elon Musk’s SpaceX unnerves investors with lavish AI spending plans",
-      "body": "Elon Musk’s SpaceX unnerves investors with lavish AI spending plans Financial Times",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-08-05T15:09:21.000Z",
       "title": "Amazon's Zoox to start paid robotaxi rides in Vegas next week",
       "body": "Amazon's Zoox to start paid robotaxi rides in Vegas next week Reuters",
@@ -108,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-08-05T15:04:39.000Z",
       "title": "Tesla is suing this Canadian province for cutting it out of its EV incentives",
       "body": "Tesla is suing the Canadian province of Manitoba for cutting the automaker out of its electric vehicle rebate program, and the fight has now reached a courtroom. The province is asking Manitoba’s Court of King’s Bench to…",
@@ -121,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "12h ago",
       "pubDate": "2026-08-05T10:55:04.000Z",
       "title": "Uber pledges $10bn to win robotaxi race",
       "body": "Uber pledges $10bn to win robotaxi race Financial Times",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2025/06/17/tesla-stock-cybertruck-model-y.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1517d ago",
-      "pubDate": "2022-06-11T09:26:21.000Z",
-      "title": "MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA - Stock Price, Quote",
-      "body": "MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA - Stock Price, Quote CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/quotes/MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA"
     }
   ]
 }
