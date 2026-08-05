@@ -1,24 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-29T23:08:07.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "musk-starship-heatshield-reuse-concern-2026-07-29",
-          "verdict": "hold",
-          "newSourceLabel": "n/a",
-          "reasons": [
-            "sourceLabel press 정확 (Bloomberg 자체 취재)",
-            "조언톤 위반 없음, 추측→단정 전환 없음(전문가 인용으로 정확히 귀속)",
-            "④ 실패: 초안이 '머스크가 13차 비행 전 지상에서 타일 한계 테스트'라 기술했으나, 실제는 '비행 중 상승구간에서 의도적으로 공격적 가속 프로파일 적용, 비행 후 공개' — 시점·장소 오류. 원고 작성 단계에서 즉시 정정 후 발행(shadow 모드지만 사실오류는 발행 전 수정)",
-            "본문-링크 일치, 밈/풍자 해당없음"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-30T07:09:45.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -785,6 +767,26 @@
             "sensor-technology claims (passive vs active sensing, Doppler velocity, fusion) reflect the source's own technical argument, not invented editorializing",
             "single-source story (Electrek) — correctly left confirmedBy unset rather than fabricating a multi-outlet count",
             "not framed as Tesla being definitively wrong — presented as a competitor's technical critique, consistent with tone-balance guidance"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-04T22:10:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-nvidia-starmind-exclusive-2026-08-04",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct — confirmed via SpaceX official X account + Musk X post + independent tech/financial press (Interesting Engineering, TeslaNorth, Notebookcheck, NextBigFuture, Coingape, BeInCrypto, Stocktwits); not a single unconfirmed source",
+            "no advisory tone — purely descriptive of the announcement, no buy/sell/target language",
+            "no hedge-to-assertion violation — 120kW/150kW, 20m height, 70m wingspan, up to 1M satellites all stated as specs in original Aug 4 announcement/press, not hedged there",
+            "numbers/quote verified — Musk quote (\"exclusively because they are the best\") near-exact match to his X post; Rubin GPU+Vera CPU/NVL72 detail corroborated across outlets; Nvidia after-hours +2~3% move confirmed",
+            "href (interestingengineering.com) title matches card story exactly — no body-link mismatch",
+            "not satire/hoax — Starmind AI1 confirmed directly by SpaceX official account, cross-referenced by multiple independent outlets same date"
           ]
         }
       ]

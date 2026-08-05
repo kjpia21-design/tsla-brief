@@ -4,6 +4,32 @@
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
+      "pubDate": "2026-08-04T22:00:00.000Z",
+      "title": "머스크 \"스페이스X AI 인프라, <em>엔비디아로 전량 구축</em>\" — 궤도 AI위성 'Starmind AI1' 공개",
+      "hotShort": "머스크 \"스페이스X, <em>엔비디아 독점</em>\" 선언",
+      "body": "스페이스X 2분기 실적발표 직후 일론 머스크가 엔비디아와 함께 궤도 AI 데이터센터 위성 'Starmind AI1'을 공개하며 스페이스X의 AI 컴퓨팅 인프라를 <em>엔비디아 칩으로 전량 구축</em>하겠다고 선언 — 테슬라가 지분을 보유한 스페이스X의 AI·컴퓨팅 베팅이 로켓·스타링크를 넘어 우주로 확장되는 신호다.",
+      "sourceName": "Interesting Engineering",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-nvidia-starmind-exclusive-2026-08-04",
+      "summary": "일론 머스크가 8월4일(현지시간) 스페이스X의 2분기 실적발표 직후, 엔비디아와 공동으로 궤도 AI 데이터센터 위성 프로젝트 'Starmind AI1'을 공개했다. 스페이스X 공식 X 계정은 \"엔비디아와 함께 Starmind AI1 위성의 컴퓨트 페이로드를 설계하는 파트너십\"이라고 밝혔다.\n\nStarmind AI1 위성은 평균 약 120kW, 최대 150kW의 연산 전력을 감당하도록 설계됐고, 높이 20m에 태양광 날개 폭은 70m(보잉747 길이의 약 3분의 2)에 달한다 — 궤도 위에서 태양광만으로 방대한 AI 연산 전력을 조달하기 위한 설계다. 스페이스X는 궁극적으로 이런 위성을 최대 100만 기까지 늘려 궤도상에 분산형 AI 슈퍼컴퓨터를 구축하겠다는 구상도 함께 밝혔다.\n\n핵심 연산 장치는 엔비디아의 최신 'Vera Rubin NVL72' 시스템(루빈 GPU + 베라 CPU 조합)이다. 머스크는 이번 파트너십을 공개하며 스페이스X의 AI 인프라를 엔비디아 GPU로 전량 구축하겠다고 밝히고, 그 이유로 \"그들이 최고이기 때문\"이라고 언급한 것으로 전해졌다.\n\n테슬라는 스페이스X 지분을 상당량 보유하고 있어, 스페이스X의 AI·컴퓨팅 확장 베팅은 테슬라 주주에게도 지분가치와 연결되는 소식이다. 이번 발표는 스페이스X가 상장 후 첫 분기 실적(매출 전년比 92%↑)을 공개한 바로 같은 날 나와, 회사의 다음 성장동력이 로켓·스타링크를 넘어 우주 AI 컴퓨팅으로 확장되고 있음을 보여준다.\n\n발표 이후 엔비디아 주가는 시간외 거래에서 상승 반응을 보였다.",
+      "title_en": "Musk: SpaceX's AI compute will run <em>exclusively on Nvidia</em> — unveils orbital 'Starmind AI1' with Vera Rubin GPUs",
+      "hotShort_en": "Musk: SpaceX AI compute goes <em>all-Nvidia</em>",
+      "body_en": "Hours after SpaceX's first earnings report as a public company, Elon Musk unveiled 'Starmind AI1' — an orbital AI data-center satellite built with Nvidia — and said SpaceX's AI infrastructure will run <em>exclusively on Nvidia chips</em>, a fresh sign that SpaceX's compute ambitions are expanding well beyond rockets and Starlink for a company in which Tesla holds a stake.",
+      "summary_en": "On August 4, shortly after SpaceX's second-quarter earnings report, Elon Musk and Nvidia jointly unveiled Starmind AI1, an orbital AI data-center satellite project. SpaceX's official X account said it was \"partnering with Nvidia to design the compute payload\" for the Starmind AI1 satellite.\n\nEach Starmind AI1 satellite is designed to sustain roughly 120 kW of average compute power with peaks of 150 kW, standing 20 meters tall with a 70-meter solar wingspan — about two-thirds the length of a Boeing 747 — engineered to harvest enough sunlight in orbit to feed that power appetite. SpaceX also outlined a longer-term vision of scaling the constellation to as many as one million satellites, forming a distributed AI supercomputer in orbit.\n\nThe compute core is Nvidia's latest Vera Rubin NVL72 system, pairing Rubin GPUs with Vera CPUs. Musk said SpaceX has committed to building its AI infrastructure exclusively on Nvidia GPUs, reportedly explaining the choice simply: \"they are the best.\"\n\nTesla holds a sizable stake in SpaceX, so SpaceX's expanding AI and compute ambitions carry through to Tesla shareholders' equity exposure as well. The announcement landed the same day SpaceX posted its first quarterly results as a public company — revenue up 92% year over year — underscoring how the company's next growth vector is stretching from rockets and Starlink into orbital AI computing.\n\nNvidia shares moved higher in after-hours trading following the announcement.",
+      "href": "https://interestingengineering.com/ai-robotics/spacex-nvidia-starmind-ai1-compute-payload",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "TeslaNorth",
+        "Notebookcheck",
+        "SpaceX (X)"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "1h ago",
       "pubDate": "2026-08-04T20:35:00.000Z",
       "title": "스페이스X 상장 후 첫 실적 — 매출 92%↑ '어닝비트'에도 <em>설비투자 급증</em>에 주가 시간외 5%↓",
       "hotShort": "스페이스X 첫 실적, 매출↑에도 <em>capex 급증</em>에 주가↓",
@@ -164,27 +190,7 @@
       "href": "https://www.kedglobal.com/future-mobility/newsView/ked202608040012",
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "4h ago",
-      "pubDate": "2026-08-03T16:02:35.000Z",
-      "title": "electrek: FSD v14 Lite 배포 후 <em>HW3 컴퓨터 과열·먹통 신고 급증</em>",
-      "hotShort": "FSD v14 Lite <em>HW3 컴퓨터 과열 신고 급증</em>",
-      "body": "HW3 차량용 FSD v14 Lite가 7월21일 전면배포(소프트웨어 2026.20.6.11·FSD v14.3.6)된 뒤 2주 새 오토파일럿 컴퓨터 과열 경고·완전 먹통 사례가 늘고 있다고 electrek에 오너 4명이 직접 제보했다 — 메모리 한계가 뚜렷한 구형 AI3 컴퓨터(HW4 대비 대역폭 약 1/8)에 무리하게 얹은 경량 모델의 하드웨어 부담이 원인으로 지목된다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-lite-hw3-computer-failures-2026-08-03",
-      "summary": "HW3(구형 자율주행 컴퓨터) 탑재 차량 오너들은 18개월 넘게 대형 FSD 업데이트를 기다려왔고, 지난 6월 말부터 시작된 FSD v14 Lite 배포로 마침내 HW4급 기능 일부를 맛볼 수 있었다. 그런데 전면배포 2주 만에 이번엔 다른 문제가 불거지고 있다 — 정작 하드웨어가 감당할 수 있느냐는 의문이다.\n\nelectrek에 따르면 지난 7월21일 소프트웨어 2026.20.6.11(FSD v14.3.6)로 v14 Lite가 전면배포된 이후, HW3 차주들 사이에서 오토파일럿 컴퓨터 과열 경고와 심지어 컴퓨터가 완전히 먹통이 되는 사례가 보고되고 있다. 오너 4명이 electrek에 직접 자신의 경험을 제보했다.\n\n기술적 원인은 하드웨어 한계로 지목된다. FSD v14 Lite는 HW4용 v14 신경망 스택의 지능을 압축해 HW3의 AI3 컴퓨터에 맞춘 경량판인데, 이 AI3 컴퓨터는 램 8GB에 메모리 대역폭이 HW4의 약 8분의 1 수준에 불과하다. HW4급 성능을 무리하게 욱여넣은 결과가 하드웨어 부담으로 이어졌다는 분석이다.\n\n테슬라는 아직 이 문제에 대해 공식 입장을 내놓지 않았고, 도로 위 수백만 대에 달하는 HW3 차량 중 얼마나 많은 대수가 영향을 받고 있는지도 불분명하다. 이번 사례는 \"모든 차량에 완전자율주행에 필요한 하드웨어가 갖춰져 있다\"던 테슬라의 오랜 약속과, 일론 머스크 스스로 \"HW3는 그 역량을 갖추지 못했다\"고 인정했던 발언 사이의 간극을 다시 부각시키고 있다.",
-      "title_en": "Electrek: <em>HW3 computer failures rise</em> after FSD v14 Lite rollout",
-      "hotShort_en": "<em>HW3 computer failures rise</em> after v14 Lite update",
-      "body_en": "A growing number of HW3 owners report Autopilot-computer overheating alerts — and in some cases outright failures — in the two weeks since FSD v14 Lite went to wide release on July 21, per Electrek, which heard directly from four affected owners; the lightweight build squeezes HW4-class intelligence onto HW3's memory-constrained AI3 computer.",
-      "summary_en": "For Tesla's HW3 fleet — cars built with the company's third-generation self-driving computer — the wide rollout of FSD v14 Lite in July was meant to finally deliver features HW4 owners had had for months. Weeks later, a cluster of owner reports is raising a different question: can the older hardware handle it at all.\n\nElectrek reports that HW3 owners are describing Autopilot-computer overheating warnings, and in some cases the computer failing outright, since Tesla pushed v14 Lite to wide release with software 2026.20.6.11 (FSD v14.3.6) on July 21. Four owners contacted the outlet directly with their experiences.\n\nThe technical root cause traces to hardware limits: FSD v14 Lite is a distilled version of the HW4 v14 neural-net stack, compressed to run on HW3's AI3 computer, which ships with just 8GB of RAM and roughly one-eighth of HW4's memory bandwidth. Squeezing HW4-level capability into that smaller footprint appears to be straining the older chip.\n\nTesla has not issued an official response to the reports, and the scope of the issue — how many of the millions of HW3 vehicles on the road are affected — remains unclear. The episode adds to a long-running debate over whether HW3, sold for years under Tesla's promise that every car had \"all the hardware needed for full self-driving,\" can ever fully deliver on that claim; Elon Musk has previously acknowledged HW3 \"simply do not have the capability\" to run unsupervised FSD.",
-      "href": "https://electrek.co/2026/08/03/tesla-fsd-v14-lite-hw3-computer-failures/",
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-08-05 05:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-05 06:10 KST 자동 갱신 · 최신순"
 }
