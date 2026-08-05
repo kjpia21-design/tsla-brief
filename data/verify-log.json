@@ -1,35 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-30T19:15:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "musk-spacex-baron-ark-buy-dip-2026-07-30",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "Ron Baron figures (25B of ~70B AUM, 2B/27 transactions since 2017 + 1B at IPO, 20-30x quote, 20-30T/40T valuation claim) independently confirmed via CNBC/Benzinga cross-check",
-            "SpaceX price move (225.64 peak -> 113.50, ~1.2T erased, below 135 IPO price) confirmed via TradingView/Stocktwits coverage",
-            "ARK continued buying through decline, SpaceX top-10 ARK holding, directionally confirmed via Motley Fool",
-            "valuation/return claims properly attributed as Baron's own quoted opinion, not stated as the site's own forecast — no advice-tone violation"
-          ]
-        },
-        {
-          "slug": "stock-6-red-days-21pct-decline-2026-07-30",
-          "verdict": "regrade",
-          "newSourceLabel": "press (unchanged label, text softened)",
-          "reasons": [
-            "6-day/-21%/~261B decline framing solidly corroborated (Trefis + multiple outlets)",
-            "Microsoft 8% after-hours pop and subsequent cloud/AI beat solidly confirmed",
-            "the specific claim that TSLA closed UP on 7/30 ending the streak was NOT cleanly confirmable — some signals support a rebound (tradingkey +3.09%, fxleaders rebound off 00), one contradictory unsourced signal implied a broad-market selloff that day; Barron's/Trefis source articles were paywalled/403 and could not be independently read",
-            "action taken: softened title/hotShort/body/summary (KO+EN) from asserting the close as confirmed fact to attributing it as reported-but-not-independently-verified, added explicit cross-check caveat; kept sentiment neutral; did not invent a specific TSLA closing percentage"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-30T23:06:48.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -749,6 +720,26 @@
             "new figures (20,000-30,000 initial units, 8 cameras/unit, 5MP vs 1.2MP sensors, 2M/yr Musk target) cross-checked via WebSearch against InsideEVs/SammyGuru/BigGo Finance reporting on same event — consistent across independent outlets; direct WebFetch of InsideEVs/SammyGuru primary pages returned HTTP 403 (bot-blocked) so verification relied on search-engine synthesis rather than raw article text — flagged as lower-confidence corroboration",
             "href still points to original KED Global article for the same underlying event (Samsung/LG Innotek Cybercab camera deal); no body-link mismatch",
             "not X-sourced, meme/satire check n/a"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-05T10:45:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-zoox-vegas-paid-launch-2026-08-05",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "WebFetch blocked (403) on Reuters/Yahoo/Fool/NBC/Globe and Mail in this run — facts sourced via WebSearch synthesis cross-referencing NBC News, The Motley Fool, Planetizen, Cryptopolitan, ElectricCarsReport, all independently corroborating: NHTSA paid-service approval for controls-free robotaxi, Las Vegas as first paid market, Miami/Austin named as next cities",
+            "no sourceLabel misclassification — NBC News is a clear press outlet, not an aggregator (MSN/Yahoo explicitly avoided as href)",
+            "no advice-tone violation — factual competitive-landscape framing, no buy/sell recommendation",
+            "hedged appropriately: 'launch is imminent/soon' language kept, not asserted as already-live paid service, matching source language ('will soon begin charging')",
+            "no invented numbers/dates — no specific launch date claimed beyond city sequence (Las Vegas -> Miami/Austin), consistent across all cross-checked sources",
+            "Tesla/Cybercab comparison attributed as competitive-landscape commentary consistent across sources, not the site's own speculative claim"
           ]
         }
       ]

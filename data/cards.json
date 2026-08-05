@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-08-05T09:36:11.000Z",
+      "title": "아마존 Zoox, <em>라스베이거스서 무핸들 로보택시 유료화</em> — 마이애미·오스틴 다음 확장",
+      "hotShort": "Zoox, <em>무핸들 로보택시 유료화</em> 라스베이거스서 개시 예고",
+      "body": "아마존 자회사 Zoox가 스티어링휠·브레이크 페달이 없는 로보택시의 유료 서비스를 라스베이거스에서 곧 시작한다고 밝히고, 다음 확장 도시로 마이애미·오스틴(텍사스)을 지목 — 완전 무인 전용설계 차량으로는 미국 최초 유료 상용화 사례라 사이버캡을 준비 중인 테슬라보다 한발 앞선 모습.",
+      "sourceName": "NBC News",
+      "sourceLabel": "press",
+      "slug": "fsd-zoox-vegas-paid-launch-2026-08-05",
+      "summary": "아마존 산하 자율주행 스타트업 Zoox가 최근 미국 도로교통안전국(NHTSA)으로부터 스티어링휠·브레이크 페달이 없는 차량으로는 처음으로 유료 승차 서비스 운행을 승인받은 데 이어, 실제 서비스 개시 계획을 구체화했다. 회사는 각 주(州)별 요건을 충족하는 대로 라스베이거스를 시작으로 유료 서비스를 개시하고, 마이애미와 오스틴(텍사스)을 다음 확장 도시로 지목했다고 밝혔다.\n\n웨이모(알파벳 자회사)를 비롯한 대부분의 경쟁사가 기존 양산차를 개조해 자율주행 장비를 얹는 방식인 반면, Zoox는 애초부터 운전대·페달이 없는 전용 차량으로 설계됐다는 점에서 차별화된다. 이번 NHTSA 승인은 이런 '완전 목적설계형' 무인차량이 연방 차원에서 유료 상용 운행 허가를 받은 첫 사례다.\n\n테슬라 역시 스티어링휠·페달이 없는 2인승 로보택시 '사이버캡'으로 완전 무인 상용화를 추진 중이지만, 아직 Zoox가 확보한 것과 비견될 만한 연방 규제 승인 경로를 공식화하지 못한 상태다. Zoox의 이번 발표로 무핸들 로보택시 상용화 경쟁에서 아마존이 테슬라·웨이모보다 한발 앞서게 됐다는 평가가 나온다.\n\n테슬라 투자자 입장에선 사이버캡 양산·규제 승인 일정이 로보택시 사업의 핵심 변수인 만큼, 경쟁사의 실제 상용화 속도를 계속 주시할 필요가 있다.",
+      "title_en": "Amazon's Zoox to launch <em>paid driverless robotaxi rides</em> in Las Vegas",
+      "hotShort_en": "Zoox to launch <em>paid robotaxi rides</em> in Las Vegas first",
+      "body_en": "Amazon-owned Zoox says it will soon begin charging for rides in its steering-wheel- and pedal-free robotaxis, starting in Las Vegas with Miami and Austin, Texas named as the next markets — the first paid commercial launch for a purpose-built driverless vehicle in the US, putting Amazon a step ahead of Tesla's still-unlaunched Cybercab.",
+      "summary_en": "Amazon's self-driving unit Zoox, which recently became the first company to win NHTSA approval to charge for rides in a vehicle built without a steering wheel or brake pedal, has now detailed its rollout plan. The company said it will begin paid service in Las Vegas as it clears state-by-state requirements, naming Miami and Austin, Texas as the next markets.\n\nUnlike most rivals — including Alphabet's Waymo, which retrofits conventional production cars — Zoox designed its vehicle from the ground up without manual controls. The NHTSA approval marks the first time a purpose-built, controls-free robotaxi has been cleared for paid commercial service at the federal level.\n\nTesla is also pursuing a fully driverless robotaxi with its two-seat Cybercab, but has yet to lay out a federal regulatory pathway comparable to what Zoox has secured. That's fueling the view that Amazon has jumped ahead of both Tesla and Waymo in the race to commercialize wheel-free robotaxis.\n\nFor Tesla shareholders, the pace of Cybercab's production ramp and regulatory approval remains a key variable for the robotaxi business — one worth watching against how fast rivals like Zoox actually scale paid service.",
+      "href": "https://www.nbcnews.com/tech/tech-news/amazons-zoox-wins-first-us-approval-paid-robotaxis-human-controls-rcna590106",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "NBC News",
+        "The Motley Fool",
+        "Planetizen"
+      ],
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "14h ago",
@@ -172,33 +198,7 @@
       "href": "https://www.reuters.com/business/media-telecom/teslas-july-china-made-ev-sales-rise-378-yy-2026-08-04/",
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
-      "pubDate": "2026-08-04T08:46:00.000Z",
-      "title": "삼성전기·LG이노텍, 테슬라 사이버캡 카메라 모듈 <em>4~5조원 독점 공급</em> 수주",
-      "hotShort": "삼성전기·LG이노텍, 사이버캡 카메라 <em>4~5조원 수주</em>",
-      "body": "삼성전기와 LG이노텍이 테슬라 차세대 로보택시 '사이버캡'용 카메라 모듈을 각각 독점 공급하는 계약을 따냈다 — 규모는 4조~5조원(32억~40억달러)으로, 로보택시 양산이 본격화되면 국내 부품업계에도 대형 수혜가 예상된다.",
-      "sourceName": "KED Global",
-      "sourceLabel": "press",
-      "slug": "product-cybercab-camera-samsung-lginnotek-2026-08-04",
-      "summary": "4일(현지시간) KED Global 보도에 따르면, 삼성전기와 LG이노텍이 테슬라의 차세대 로보택시 '사이버캡'에 들어갈 카메라 모듈을 독점 공급하는 계약을 각각 체결했다.\n\n계약 규모는 총 4조~5조원(32억~40억달러) 수준으로 전해졌으며, 공급 비중은 삼성전기가 약 80%, LG이노텍이 나머지 20%를 맡는 구조다. 두 회사가 사실상 사이버캡 카메라 모듈 물량을 양분하는 셈이다.\n\n이번 계약은 삼성전기 부품 사업부 기준 역대 최대 규모로 전해졌다 — 그만큼 테슬라의 로보택시 양산 계획에 대한 국내 부품업계의 기대가 반영된 결과로 풀이된다.\n\n사이버캡은 테슬라가 FSD(완전자율주행) 기반으로 개발 중인 무인 로보택시 전용 차량으로, 카메라 모듈은 차량 시각 인식 시스템의 핵심 부품이다. 양산이 본격화되면 국내 전장부품 공급망에도 파급 효과가 클 것으로 보인다.\n\n5일(현지시간) SammyGuru 등 후속 보도에 따르면, 초기 발주 물량은 2만~3만 대 규모이며 대당 카메라 모듈 8개가 탑재된다. 테슬라는 기존 양산차에 쓰던 120만 화소 센서보다 4배 이상 선명한 500만 화소 고성능 센서를 요구한 것으로 전해졌다 — 일론 머스크가 내건 연 200만 대 생산 목표가 현실화되면 공급 규모는 수조원대로 더 커질 전망이다.",
-      "title_en": "Samsung Electro-Mechanics, LG Innotek win <em>exclusive $3.2–4B deal</em> for Tesla Cybercab cameras",
-      "hotShort_en": "Samsung, LG Innotek land <em>$3.2–4B Cybercab</em> camera deal",
-      "body_en": "Samsung Electro-Mechanics and LG Innotek have each secured exclusive contracts to supply camera modules for Tesla's next-generation Cybercab robotaxi, worth a combined $3.2 billion to $4 billion — a sign Korean suppliers stand to benefit significantly once robotaxi production scales up.",
-      "summary_en": "Samsung Electro-Mechanics and LG Innotek have each won exclusive contracts to supply camera modules for Tesla's next-generation Cybercab robotaxi, KED Global reported on August 4, citing industry sources.\n\nThe deal is reportedly worth a combined 4 trillion to 5 trillion won ($3.2 billion to $4 billion), with Samsung Electro-Mechanics supplying roughly 80% of the camera modules and LG Innotek the remaining 20% — effectively splitting the Cybercab camera business between the two Korean suppliers.\n\nThe contract is said to be the largest ever for Samsung Electro-Mechanics' components division, underscoring how much weight Korean parts makers are placing on Tesla's robotaxi ramp.\n\nCybercab is Tesla's purpose-built, driverless robotaxi under development around its Full Self-Driving (FSD) stack, and camera modules are core to the vehicle's vision-based perception system. Once mass production ramps up, the deal could have a meaningful ripple effect across Korea's auto-parts supply chain.\n\nAccording to follow-up reporting on August 5 (including SammyGuru), the initial order covers roughly 20,000 to 30,000 vehicles, with eight camera modules per unit. Tesla reportedly specified 5-megapixel sensors — more than four times sharper than the 1.2-megapixel units used in its current production vehicles. Should Musk's target of 2 million Cybercabs a year materialize, the supply deal's scale would grow well beyond the initial figures.",
-      "href": "https://www.kedglobal.com/future-mobility/newsView/ked202608040012",
-      "sentiment": "bull",
-      "hot": 5,
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "KED Global",
-        "InsideEVs",
-        "SammyGuru"
-      ]
     }
   ],
-  "asOf": "2026-08-05 15:40 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-05 20:10 KST 자동 갱신 · 최신순"
 }
