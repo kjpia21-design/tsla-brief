@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-08-05 19:43 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-05 21:17 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "42m ago",
+      "time": "25m ago",
+      "pubDate": "2026-08-05T20:52:49.000Z",
+      "title": "Musk, Money and Mars",
+      "body": "Musk, Money and Mars nytimes.com",
+      "sourceName": "nytimes.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.nytimes.com/2026/08/05/world/elon-musk-wealth-gaza-strikes.html"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "32m ago",
+      "pubDate": "2026-08-05T20:45:27.000Z",
+      "title": "Tesla Megapacks power Ørsted’s big new Texas grid battery",
+      "body": "Tesla Megapacks are now helping support the Texas grid at Ørsted’s new 250 MW/500 MWh Old 300 battery storage project.",
+      "sourceName": "electrek.co",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://electrek.co/2026/08/05/tesla-megapack-power-orsted-big-new-texas-grid-battery/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-08-05T19:56:00.000Z",
+      "title": "Some Owners Say Tesla's New FSD Update Is Causing Their Cars' Computers To Overheat",
+      "body": "Some Owners Say Tesla's New FSD Update Is Causing Their Cars' Computers To Overheat InsideEVs",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://insideevs.com/news/803866/tesla-autopilot-computer-fsd-overheating/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
       "pubDate": "2026-08-05T19:01:09.000Z",
       "title": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq",
       "body": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq Reuters",
@@ -17,11 +56,11 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "43m ago",
+      "time": "2h ago",
       "pubDate": "2026-08-05T19:00:04.000Z",
       "title": "SpaceX Shouldn’t Risk Its Credibility on Mobile Phone Service",
-      "body": "SpaceX Shouldn’t Risk Its Credibility on Mobile Phone Service Bloomberg",
-      "sourceName": "Bloomberg",
+      "body": "SpaceX Shouldn’t Risk Its Credibility on Mobile Phone Service Bloomberg.com",
+      "sourceName": "Bloomberg.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -30,7 +69,20 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "5h ago",
+      "pubDate": "2026-08-05T16:39:39.000Z",
+      "title": "Elon Musk’s SpaceX unnerves investors with lavish AI spending plans",
+      "body": "Elon Musk’s SpaceX unnerves investors with lavish AI spending plans Financial Times",
+      "sourceName": "Financial Times",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "5h ago",
       "pubDate": "2026-08-05T16:15:28.000Z",
       "title": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more",
       "body": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more CNBC",
@@ -43,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-05T15:09:21.000Z",
       "title": "Amazon's Zoox to start paid robotaxi rides in Vegas next week",
       "body": "Amazon's Zoox to start paid robotaxi rides in Vegas next week Reuters",
@@ -56,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-05T15:04:39.000Z",
       "title": "Tesla is suing this Canadian province for cutting it out of its EV incentives",
       "body": "Tesla is suing the Canadian province of Manitoba for cutting the automaker out of its electric vehicle rebate program, and the fight has now reached a courtroom. The province is asking Manitoba’s Court of King’s Bench to…",
@@ -67,35 +119,9 @@
       "href": "https://electrek.co/2026/08/05/tesla-sues-manitoba-ev-rebate-ban/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-08-05T14:26:09.000Z",
-      "title": "Elon Musk Thinks Key Starship Rocket Problem Is Fixed",
-      "body": "Elon Musk Thinks Key Starship Rocket Problem Is Fixed Bloomberg",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/newsletters/2026-08-05/musk-in-first-spacex-earnings-call-says-major-starship-problem-is-solved"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-08-05T14:06:00.000Z",
-      "title": "SpaceX Needs to Make Its Bigger Rockets Work",
-      "body": "SpaceX Needs to Make Its Bigger Rockets Work WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/finance/spacex-needs-to-make-its-bigger-rockets-work-c800f9c2"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "9h ago",
+      "time": "10h ago",
       "pubDate": "2026-08-05T10:55:04.000Z",
       "title": "Uber pledges $10bn to win robotaxi race",
       "body": "Uber pledges $10bn to win robotaxi race Financial Times",
@@ -158,19 +184,6 @@
       "href": "https://www.reuters.com/business/media-telecom/teslas-july-china-made-ev-sales-rise-378-yy-2026-08-04/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2d ago",
-      "pubDate": "2026-08-03T20:18:00.000Z",
-      "title": "Tesla Stock Goes for 3 Gains in a Row as It Shrugs Off Safety Inquiry",
-      "body": "Tesla Stock Goes for 3 Gains in a Row as It Shrugs Off Safety Inquiry Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-today-safety-inquiry-b88bcba7"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2d ago",
@@ -210,43 +223,17 @@
       "href": "https://www.reuters.com/world/amazons-zoox-wins-first-us-approval-paid-robotaxis-with-no-human-controls-2026-07-30/"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5d ago",
-      "pubDate": "2026-07-31T15:13:36.000Z",
-      "title": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks",
-      "body": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/sustainability/us-auto-safety-regulator-probes-12-million-tesla-vehicles-over-suspension-2026-07-31/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "6d ago",
       "pubDate": "2026-07-31T01:17:00.000Z",
       "title": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next",
-      "body": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next AP News",
-      "sourceName": "AP News",
+      "body": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next apnews.com",
+      "sourceName": "apnews.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
       "href": "https://apnews.com/article/zoox-nhtsa-robotaxi-steering-wheel-1bdb3bb8ecc80a23721504315cfa50ce"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "6d ago",
-      "pubDate": "2026-07-30T14:51:00.000Z",
-      "title": "Amazon’s Zoox Gets Clearance to Start Paid Robotaxi Rides",
-      "body": "Amazon’s Zoox Gets Clearance to Start Paid Robotaxi Rides WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/business/autos/amazons-zoox-gets-clearance-to-start-paid-robotaxi-rides-eac7075f"
     },
     {
       "category": "stock",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2025/06/17/tesla-stock-cybertruck-model-y.html"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1517d ago",
+      "pubDate": "2022-06-11T09:26:21.000Z",
+      "title": "MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA - Stock Price, Quote",
+      "body": "MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA - Stock Price, Quote CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/quotes/MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA"
     }
   ]
 }
