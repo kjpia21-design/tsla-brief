@@ -1,20 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-31T00:12:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "stock-6-red-days-21pct-decline-2026-07-30",
-          "verdict": "pass",
-          "reasons": [
-            "Updated existing card (not new) to replace hedged/unconfirmed bounce report with confirmed facts via WebSearch cross-check: TSLA closed $308.85 on 2026-07-30 (+3.91%), consistent across Motley Fool/Yahoo Finance and macrotrends historical data. ARK cumulative $53.5M Tesla purchase confirmed via Motley Fool/Yahoo Finance/TheStreet/Benzinga (multiple independent outlets). sourceLabel press correct (Trefis original + Motley Fool/Yahoo Finance/Benzinga corroboration). No advice-tone, no unresolved hedge-to-assertion issues, numbers match sources exactly, href still matches the underlying event."
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-31T05:11:59.000Z",
       "mode": "shadow",
       "checked": 3,
@@ -752,6 +738,27 @@
             "FT 원문 href는 paywall+WebFetch 403으로 직접 열람 불가 — 복수 교차출처로 사실관계 확인 후 채택(fail-open 정책, reasons에 명시)",
             "조언 톤 없음, 단정 전환 없음(실적콜 공식 발표라 hedge 불필요)",
             "테슬라 관련성(Cybercab 경쟁) 서술이 원문 사실(로보택시 경쟁 구도)에서 합리적으로 도출된 맥락 보강이며 새 사실 창작 아님"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-05T17:50:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "product-manitoba-dismissal-motion-2026-08-05",
+          "verdict": "pass",
+          "reasons": [
+            "Cross-verified vs CBC/BNN Bloomberg/Drive Tesla Canada: dismissal-motion grounds, quotes, $560K CAD figure, relief sought all match exactly. sourceLabel press correct."
+          ]
+        },
+        {
+          "slug": "musk-spacex-starship-heatshield-solved-2026-08-05",
+          "verdict": "pass",
+          "reasons": [
+            "Cross-verified vs TechCrunch/Space.com/Yahoo Finance transcript: Flight 13 details, Flight 14 tower-catch plan, cadence quote all match. Quote is a compressed paraphrase of the full sentence but meaning preserved, not a misquote. sourceLabel press correct."
           ]
         }
       ]

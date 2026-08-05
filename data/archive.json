@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "3h ago",
+      "pubDate": "2026-08-05T15:04:39.000Z",
+      "title": "테슬라, 매니토바 EV 리베이트 배제 소송 — 주정부, 본안 전 <em>소송 기각 신청</em>",
+      "hotShort": "매니토바주, 테슬라 소송 <em>기각 신청</em>으로 맞대응",
+      "body": "테슬라가 EV 구매 리베이트 프로그램에서 배제된 데 반발해 제기한 사법심사 소송에서, 매니토바주 정부와 주정부 보험공사(MPI)가 본안 심리도 열리기 전에 <em>소송 자체를 기각해달라</em>고 법원에 신청 — 법정 공방이 절차 다툼 단계로 넘어갔다. 소송이 기각되면 '정치적 이유로 특정 브랜드를 지원책에서 배제'하는 선례가 다른 주로 번질 위험이 있어 테슬라로선 놓칠 수 없는 다툼이다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-manitoba-dismissal-motion-2026-08-05",
+      "summary": "매니토바주는 2024년 도입한 전기차 리베이트 프로그램(최대 4,000달러, 2023년 8월까지 소급 적용)에서 2025년 3월 테슬라 차량을 제외했고, 2026년 3월에는 그 배제를 한 해 더 연장하는 결정을 내렸다. 테슬라는 그 근거를 공식 설명받지 못했고 사전에 의견 제출 기회도 없었다고 주장하며 5월29일 매니토바 킹스벤치 법원에 사법심사를 신청했다.\n\n테슬라 측은 신청서에서 배제 결정이 '절차적으로 불공정하고 부적절한 목적으로 이뤄졌다'고 주장하며, 캐나다 기업의 특정 사업 활동을 '의도적으로 개별 표적 삼았다'고 지적했다. 언론 보도를 통해 이 결정이 미국 관세에 대한 매니토바의 '엘보업(elbows up)' 대응, 그리고 일론 머스크와 도널드 트럼프 미 대통령을 둘러싼 정치적 긴장과 맞물려 있었다는 사실을 알게 됐다고도 밝혔다.\n\n이에 매니토바주 정부와 주정부 보험공사(MPI)는 본안 심리가 열리기도 전에 소송 자체를 기각해달라고 법원에 신청했다. 배제 결정이 법률이 아닌 정책적 판단이라 사법심사 대상이 아니라는 관할권 논리와, 테슬라가 제소 기한을 넘겼다는 절차적 논리를 함께 내세웠다.\n\n테슬라는 배제로 인해 2025년 3월 이후 자격을 잃은 매니토바 구매자들이 누적 최소 56만달러의 리베이트 손실을 입었다고 주장하며, 법원에 배제 결정 취소·관련 웹사이트 게시물 14일 내 삭제·해당 기간 구매 차량의 소급 자격 인정을 요구하고 있다. 이번 사안은 캐나다에서 주(州) 단위 EV 지원책이 특정 브랜드를 배제한 첫 사례로 꼽혀, 소송 결과에 따라 다른 주의 정책에도 영향을 줄 수 있어 주목된다.",
+      "title_en": "Tesla's Manitoba EV rebate lawsuit — province moves to <em>dismiss the case</em> before trial",
+      "hotShort_en": "Manitoba seeks to <em>dismiss</em> Tesla's rebate suit",
+      "body_en": "In Tesla's judicial-review lawsuit over being excluded from Manitoba's EV rebate program, the provincial government and Manitoba Public Insurance have asked the court to <em>dismiss the case outright</em> before any hearing on the merits — arguing the exclusion was a policy matter outside judicial review and that Tesla missed its filing deadline. It's the first known case of a Canadian province excluding a specific automaker from an EV incentive program, so the outcome could set a precedent other provinces watch.",
+      "summary_en": "Manitoba introduced its EV rebate program in 2024 — up to $4,000 CAD per vehicle, retroactive to August 2023 — but excluded Tesla vehicles starting with a March 2025 decision, then extended that exclusion for another year in March 2026. Tesla says it received no formal explanation and wasn't given a chance to make submissions before either decision, and filed for judicial review at Manitoba's Court of King's Bench on May 29.\n\nIn its filing, Tesla argues the exclusion was \"procedurally unfair and undertaken for an improper purpose,\" alleging the province \"deliberately and individually targeted\" a Canadian corporation's business activities. Tesla says it learned through media reports that the decision was tied to Manitoba's \"elbows up\" response to U.S. tariffs and the broader political tension surrounding Elon Musk and President Trump.\n\nIn response, the Manitoba government and Manitoba Public Insurance have asked the court to dismiss the case before it reaches a hearing on the merits — arguing the exclusion was a policy decision outside the court's jurisdiction to review, and separately that Tesla missed the deadline to file its challenge.\n\nTesla says the exclusion has cost Manitobans who bought qualifying vehicles since March 2025 at least $560,000 in cumulative lost rebates, and is asking the court to set aside the exclusion, order the removal of related website references within 14 days, and confirm retroactive eligibility for affected purchases. The case is notable as an apparent first: a Canadian province excluding a specific automaker from a provincial EV incentive program — a precedent other provinces may watch closely.",
+      "href": "https://electrek.co/2026/08/05/tesla-sues-manitoba-ev-rebate-ban/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Electrek",
+        "Automotive News",
+        "Drive Tesla Canada",
+        "CBC News"
+      ],
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-08-05T14:26:09.000Z",
+      "title": "머스크 \"스타십 <em>열차폐 문제 해결</em>\" 선언 — 8월 14차 발사서 첫 캐치 시도",
+      "hotShort": "머스크 \"스타십 <em>열차폐 문제 해결</em>\" 선언",
+      "body": "일론 머스크가 스페이스X 첫 실적콜(8월4일)에서 \"스타십 열차폐 문제를 해결한 것으로 본다\"고 선언 — 7월24일 13차 시험비행에서 타일 대부분이 손상 없이 버텨낸 데이터·육안 점검에 근거했다. 3년 넘게 완전 재사용의 최대 걸림돌로 꼽히던 난제가 풀렸다는 신호로, 이달 14차 발사에서는 처음으로 상단(Ship) 타워캐치까지 시도한다 — 테슬라가 지분을 보유한 스페이스X의 로켓 재사용 경제성에 직결되는 이정표.",
+      "sourceName": "Bloomberg",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-starship-heatshield-solved-2026-08-05",
+      "summary": "스타십의 열차폐(heat shield)는 궤도에서 지구 대기권으로 재진입할 때 발생하는 극한의 고열을 견뎌야 하는 핵심 부품으로, 스페이스X가 스타십 개발 초기부터 타일 탈락·손상에 반복적으로 발목이 잡혀온 난제였다.\n\n머스크는 8월4일 스페이스X의 상장 후 첫 실적콜에서 \"부정 타는 말은 하고 싶지 않지만, 이제는 열차폐 문제를 해결했다고 볼 수 있을 것 같다 — 데이터와 육안 점검 모두 그렇게 나타난다\"고 밝혔다. 근거는 7월24일 진행된 13차 시험비행으로, 인도양 서호주 앞바다 연착수까지 상단이 온전히 임무를 마쳤고, 사후 분석 결과 대다수 타일이 부착 상태를 유지한 채 이음매 부위의 경미한 플라즈마 흔적 정도만 남은 것으로 확인됐다.\n\n이번 성과에 힘입어 스페이스X는 이달 예정된 14차 시험비행에서 처음으로 상단(Ship)의 타워캐치를 시도한다는 계획이다. 슈퍼헤비 부스터는 이미 세 차례 타워의 '젓가락 팔'로 포획하는 데 성공했지만, 궤도까지 다녀오는 상단 캐치는 아직 한 번도 성공한 적이 없다 — 완전 재사용 실현의 마지막 관문이다. 머스크는 \"1년 뒤에는 하루 최소 한 번 이상 발사하는 빈도로 늘어날 것\"이라는 목표도 함께 제시했다.\n\n이번 발언은 스페이스X가 상장 후 처음 공개한 분기 실적(매출 92%↑, 다만 AI·스타링크 설비투자 급증) 발표 직후 나왔다. 재사용 경제성은 스타십의 발사 단가를 좌우해 스타링크·향후 화성 계획의 수익성과 직결되는 변수인 만큼, 테슬라가 지분을 보유한 스페이스X 가치평가에도 장기적으로 긍정적 신호로 읽힌다.",
+      "title_en": "Musk declares Starship <em>heat shield problem solved</em> — tower catch attempt next",
+      "hotShort_en": "Musk: Starship <em>heat shield solved</em>",
+      "body_en": "Elon Musk declared on SpaceX's first earnings call (Aug. 4) that he considers the <em>Starship heat shield problem solved</em>, based on data and visual inspection from the July 24 Flight 13 test, where most tiles held up with only minor damage. It's a milestone the program chased for over three years, and this month's Flight 14 will attempt the first-ever tower catch of the upper stage — a step directly tied to the reusability economics of SpaceX, in which Tesla holds a stake.",
+      "summary_en": "Starship's heat shield has to withstand the extreme heat generated as the vehicle reenters Earth's atmosphere from orbit, and tile loss and damage had repeatedly plagued the program since Starship's early development.\n\nOn SpaceX's first earnings call as a public company on August 4, Musk said: \"I don't want to jinx it or anything, but I think I'd consider the heat shield problem solved at this point. All indications from data and visual inspection [say] we have solved it.\" His confidence stems from Flight 13, which launched July 24 and ended with a soft splashdown in the Indian Ocean off Western Australia — post-flight analysis showed most tiles remained attached, with only minor plasma streaking at the seams.\n\nBuilding on that result, SpaceX plans to attempt the first tower catch of Starship's upper stage during Flight 14, targeted for later this month. SpaceX has already caught the Super Heavy booster three times with the launch tower's chopstick arms, but the upper stage — which travels to orbit and back — has never been caught. It's considered the last major hurdle to full reusability. Musk added that he expects flight cadence to ramp to at least once a day within a year.\n\nThe comments came right after SpaceX's first quarterly report as a public company, which showed revenue up 92% year-over-year alongside a sharp jump in AI and Starlink capital spending. Reusability economics directly determine Starship's per-launch cost, which underpins the profitability of Starlink and future Mars ambitions — a long-term positive signal for the SpaceX stake Tesla carries on its balance sheet.",
+      "href": "https://www.bloomberg.com/news/newsletters/2026-08-05/musk-in-first-spacex-earnings-call-says-major-starship-problem-is-solved",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Bloomberg",
+        "Space.com",
+        "TechCrunch",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "1h ago",
@@ -2305,52 +2359,7 @@
       ],
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-07-23T15:26:00.000Z",
-      "title": "구글, 스페이스X 지분가치 <em>$94.1B</em> 공시 — 6% 지분 확인",
-      "hotShort": "구글, 스페이스X 지분 <em>$94.1B</em> 첫 공시",
-      "body": "구글 모회사 알파벳이 2분기 보고서에서 스페이스X 지분가치를 $94.1B(지분율 6%)로 공시했다 — 22일 실적콜에서 머스크가 테슬라·스페이스X \"사업 중첩이 갈수록 커진다\"며 합병 가능성을 부인하지 않은 직후 나와, 합병설 논의에 다시 불을 지폈다.",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "musk-google-spacex-stake-94b-2026-07-23",
-      "summary": "23일(현지시간) 공개된 알파벳의 2분기 보고서에 따르면, 구글은 스페이스X 지분을 $94.1B 규모, 약 6%의 지분율로 보유하고 있다. 이 중 $80B는 단기 매도 제한이, $14.1B는 2027년 3분기까지 장기 매도 제한이 걸려 있다 — IPO 전후 주주에게 흔히 붙는 락업 조건이다.\n\n스페이스X는 지난 6월12일 나스닥에 상장하며 공모가 $135 대비 19% 뛴 $160.95에 첫날 거래를 마감, 시가총액 $2.1T를 기록해 나스닥 역사상 최대 규모 IPO로 남았다. 알파벳은 이번 2분기 스페이스X·앤스로픽 지분 평가익을 합쳐 약 $98B의 순이익 증가를 인식했다고 함께 공시했다.\n\n테슬라 주주 입장에서 이 공시가 주목받는 이유는 따로 있다. 22일 실적콜에서 머스크가 테슬라·스페이스X 합병 가능성을 묻는 질문에 이를 일축하지 않고 \"사업 중첩이 갈수록 커지고 있다\"고 답한 직후 나온 수치이기 때문이다. 스페이스X의 거대해진 몸값이 재확인되면서, 합병이 성사될 경우 테슬라 주주가 얻을 노출 규모에 대한 논의도 다시 불붙고 있다.\n\n다만 이는 구글의 지분 공시일 뿐, 테슬라·스페이스X 합병 논의 자체가 진전됐다는 뜻은 아니다. 머스크는 해당 논의를 \"실적콜에서 결정할 사안이 아니다\"라며 선을 그은 상태다.",
-      "title_en": "Google discloses <em>$94.1B stake</em> in SpaceX — a 6% holding",
-      "hotShort_en": "Google reveals <em>$94.1B SpaceX stake</em>, 6% holding",
-      "body_en": "Alphabet disclosed in its Q2 filing that Google holds a $94.1B stake in SpaceX — about 6% of the company — coming right after Musk, on Tesla's July 22 earnings call, didn't rule out a Tesla-SpaceX merger, saying the 'overlap between the businesses keeps growing.'",
-      "summary_en": "Alphabet's second-quarter filing, published Thursday, shows Google holds a $94.1 billion stake in SpaceX — roughly 6% of the company. Of that, $80 billion is subject to short-term selling restrictions, and $14.1 billion is locked up through the third quarter of 2027 — typical conditions for IPO-era shareholders.\n\nSpaceX went public on Nasdaq on June 12, with shares closing their first day at $160.95 — up 19% from the $135 IPO price — putting the company's market value at roughly $2.1 trillion, the largest Nasdaq listing on record. Alphabet also disclosed a combined $98 billion in investment gains for the quarter from its SpaceX and Anthropic stakes.\n\nFor Tesla shareholders, the disclosure lands right after Musk, on Tesla's July 22 earnings call, declined to rule out a Tesla-SpaceX merger, saying the overlap between the businesses keeps growing. SpaceX's confirmed scale is reviving investor debate over what exposure Tesla holders would gain if such a deal ever happened.\n\nThe filing itself says nothing about merger progress — Musk has said any such discussion isn't something to settle on an earnings call.",
-      "href": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "WSJ",
-        "Bloomberg"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-23T15:19:57.000Z",
-      "title": "FSD 구독 전환 적중 — 서비스 매출 <em>역대 최고 마진</em>으로 $4.58B",
-      "hotShort": "FSD 구독 전략 통했다 — 서비스 매출 <em>50%↑</em>",
-      "body": "2월 구독 전용으로 전환한 FSD가 2분기 실적의 몇 안 되는 청신호가 됐다 — 서비스·기타 부문 매출이 $4.58B로 전년比 50% 증가해 역대 최고 마진을 기록했고, 경영진은 FSD 구독 확대를 핵심 동력으로 꼽았다. FSD 구독자는 148만명(+56%)까지 늘었다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "fsd-subscription-revenue-growth-2026-07-23",
-      "summary": "테슬라는 지난 2월 FSD(완전자율주행) 일시불 구매 옵션(최고 $1만5000, 이후 $8000으로 인하)을 사실상 없애고, 월 $99 구독 전용 모델로 전환했다. 테슬라라티는 22일 실적 발표 이후 이 전략 전환이 \"성과를 내고 있다\"고 짚었다.\n\n2분기 서비스·기타 부문 매출은 $4.58B로 전년比 50% 증가하며 이 부문 총이익·마진 모두 역대 최고치를 기록했다. 이 부문은 차량 수리비 등도 포함하지만, 경영진은 FSD 구독 확대를 핵심 성장 동력 중 하나로 짚었다.\n\nFSD 구독자 수는 148만명으로 전년比 56% 늘었고, 이 중 55%는 과거 일시불 구매자, 45%(약 66만6000명)가 현재 구독 방식 이용자다. 북미에서는 신규 인도 차량의 약 55%가 인도 시점에 FSD 구독을 활성화했다. 누적 인도대수(970만대) 기준 전체 FSD 보급률(take rate)은 2분기 15.2%로, 1분기 약 14%에서 상승했다.\n\n테슬라는 FSD 구독 매출을 별도로 공시하지 않는다. 다만 구독자 수와 월 요금($99)을 단순 곱해 어림계산하면 연환산 최대 $18억 규모 반복매출(ARR) 잠재력이라는 관측이 테슬라 관찰자들 사이에서 나온다 — 공식 수치는 아니다.\n\n이번 실적이 EPS 컨센서스 하회·마진 압박으로 얼룩진 가운데, 구독형 소프트웨어 매출 확대는 하드웨어 판매 의존도를 낮추는 몇 안 되는 긍정적 신호로 꼽힌다.",
-      "title_en": "Tesla's FSD subscription bet pays off — services revenue hits <em>record margins</em> at $4.58B",
-      "hotShort_en": "FSD subscription switch <em>pays off big</em>",
-      "body_en": "Tesla's February shift to subscription-only FSD delivered one of the few bright spots in an otherwise rough Q2 — Services and Other revenue hit $4.58B, up 50% YoY with record margins, and executives cited growing FSD subscriptions as a key driver. FSD subscribers climbed to 1.48 million, up 56%.",
-      "summary_en": "In February, Tesla effectively killed the one-time FSD purchase option (once as high as $15,000, later cut to $8,000) and moved to a $99-a-month subscription-only model. Teslarati noted after Wednesday's earnings call that the switch is \"paying off big time.\"\n\nQ2's Services and Other segment brought in $4.58B, up 50% year-over-year, with record gross profit and margin for that category. The segment also includes things like out-of-warranty repairs, but executives pointed to growing FSD subscriptions as a key driver.\n\nFSD subscribers reached 1.48 million, up 56% year-over-year — 55% of whom bought the software outright in the past, with the remaining 45% (roughly 666,000) on the current subscription plan. In North America, roughly 55% of new deliveries had FSD activated at the time of delivery. Measured against Tesla's 9.7 million cumulative lifetime deliveries, the overall FSD take rate hit 15.2% in Q2, up from around 14% in Q1.\n\nTesla doesn't break out FSD subscription revenue separately. But a back-of-the-envelope calculation — subscriber count times the $99 monthly fee — puts potential annualized recurring revenue (ARR) at roughly $1.8B, a figure Tesla watchers are circulating rather than one the company has confirmed.\n\nWith EPS missing consensus and margins under pressure elsewhere in the report, the growing subscription software business stands out as one of the few positive signals reducing Tesla's reliance on hardware sales alone.",
-      "href": "https://www.teslarati.com/tesla-switch-up-selling-full-self-driving-has-paid-off-big-time/",
-      "sentiment": "bull",
-      "hot": 5
     }
   ],
-  "asOf": "2026-08-05 23:25 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-06 02:50 KST 자동 갱신 · 최신순"
 }
