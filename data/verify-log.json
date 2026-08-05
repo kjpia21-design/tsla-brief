@@ -1,37 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-31T05:11:59.000Z",
-      "mode": "shadow",
-      "checked": 3,
-      "verdicts": [
-        {
-          "slug": "stock-china-sale-spacex-merger-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "WSJ/Reuters 원문과 일치, Musk 부인 정확 반영, 단정 표현 없음"
-          ]
-        },
-        {
-          "slug": "musk-america-pac-100m-turnout-2026-07-30",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "NYT/Reuters 수치($100-120M, 8개주, $52.3M, $50.3M) 모두 원문 일치"
-          ]
-        },
-        {
-          "slug": "fsd-zoox-nhtsa-robotaxi-approval-2026-07-30",
-          "verdict": "regrade",
-          "newSourceLabel": null,
-          "reasons": [
-            "보강 문단이 카드 내 기존 FMVSS 135 설명과 중복·별개 사실처럼 오인 소지 — 해당 문단 제거로 수정 완료"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-31T10:55:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -759,6 +728,29 @@
           "verdict": "pass",
           "reasons": [
             "Cross-verified vs TechCrunch/Space.com/Yahoo Finance transcript: Flight 13 details, Flight 14 tower-catch plan, cadence quote all match. Quote is a compressed paraphrase of the full sentence but meaning preserved, not a misquote. sourceLabel press correct."
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-05T23:10:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "product-orsted-megapack-texas-2026-08-05",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "250MW/500MWh Needville TX, 430MW co-located solar, Lathrop CA manufacture, $110M combined tax figure all triangulated via PRNewswire + SolarPowerWorld corroboration; electrek.co href itself 403d to WebFetch but facts confirmed independently"
+          ]
+        },
+        {
+          "slug": "fsd-hw3-overheat-90c-cutoff-2026-08-05",
+          "verdict": "hold",
+          "newSourceLabel": null,
+          "reasons": [
+            "102C/215F reading and 90C forced-disengage cutoff confirmed; 1/8 memory bandwidth vs HW4 confirmed; but the 3-4M HW3 car count and HW4 Plus double-memory claims trace to a separate earlier Electrek story, not the InsideEVs href given (gate 5 provenance gap) — hedged wording added to summary/summary_en as a precaution; shadow mode so cards.json not altered structurally"
           ]
         }
       ]

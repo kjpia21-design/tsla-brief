@@ -3,6 +3,59 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-08-05T20:45:27.000Z",
+      "title": "Ørsted, 텍사스서 <em>250MW·500MWh 테슬라 메가팩</em> 배터리 상업가동 개시",
+      "hotShort": "Ørsted, 텍사스서 <em>테슬라 메가팩</em> 배터리 상업가동",
+      "body": "덴마크 에너지기업 Ørsted가 텍사스 니드빌(포트벤드 카운티)에 <em>250MW·500MWh 규모 테슬라 메가팩</em> 배터리저장시설 'Old 300 Storage'의 상업 가동을 개시해 ERCOT 전력망에 편입 — 430MW 규모 병설 태양광과 함께 텍사스 그리드 안정성에 기여하는 테슬라 에너지 사업의 또 다른 대형 레퍼런스다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-orsted-megapack-texas-2026-08-05",
+      "summary": "덴마크 에너지기업 Ørsted가 8월5일, 텍사스 니드빌(포트벤드 카운티)에 짓던 배터리저장시설 'Old 300 Storage'가 상업 가동을 시작해 ERCOT(텍사스 전력망) 그리드에 완전히 편입됐다고 밝혔다. 규모는 250MW·500MWh로, 인근의 430MW급 태양광 발전소 'Old 300 Solar'와 병설돼 있지만 저장시설은 별도로 독립 운영된다.\n\n이 배터리저장시스템은 테슬라로부터 조달한 메가팩으로 구성됐다 — 메가팩은 캘리포니아 래스롭(Lathrop) 공장에서 제조됐다. 태양광·저장을 합친 이 프로젝트는 가동 기간 전체에 걸쳐 지역 인프라·학교·응급서비스 재원으로 쓰일 재산세 약 1억1,000만달러를 지역사회에 기여할 것으로 추산된다.\n\nERCOT는 여름철 에어컨 수요 급증 등으로 그리드 스트레스가 큰 시장으로 꼽히는데, 이런 대형 배터리저장시설은 전력 수요가 몰리는 피크 시간대에 저장된 전력을 방전해 그리드 안정에 기여하는 역할을 한다. 테슬라 에너지 사업(메가팩·파워월) 입장에서는 이런 유틸리티 규모 프로젝트가 늘어날수록 매출·수주 파이프라인 확대의 근거가 된다.\n\n테슬라는 텍사스 라스롭 외에도 텍사스 주 내에 자체 메가팩 생산 공장을 두고 있어, 이번 Ørsted 프로젝트는 테슬라의 텍사스 에너지 사업 확장과도 맥이 닿아 있다. 차량 부문 대비 상대적으로 조용히 성장해온 에너지 저장 사업이 매 분기 실적에서 비중을 넓혀가는 흐름을 보여주는 사례다.",
+      "title_en": "Ørsted brings <em>250MW/500MWh Tesla Megapack</em> battery online in Texas",
+      "hotShort_en": "Ørsted's <em>Tesla Megapack</em> battery goes live in TX",
+      "body_en": "Danish energy company Ørsted has brought its <em>250MW/500MWh Tesla Megapack</em> battery storage system, 'Old 300 Storage,' online in Needville, Texas, fully integrated into the ERCOT grid — another large utility reference for Tesla's energy business, paired with a co-located 430MW solar array.",
+      "summary_en": "Danish energy company Ørsted said on August 5 that its 'Old 300 Storage' battery project in Needville, in Texas's Fort Bend County, has reached commercial operations and is fully integrated into the ERCOT grid. The system is rated at 250MW/500MWh and sits alongside — but operates independently from — the co-located 430MW Old 300 Solar facility.\n\nThe storage system is built from Tesla Megapacks manufactured at Tesla's Lathrop, California factory. Combined, the solar and storage project is expected to generate roughly $110 million in property tax revenue over its operating life, supporting local infrastructure, schools, and emergency services.\n\nERCOT is known for heavy grid stress during peak summer demand, and large battery installations like this one help by discharging stored power during those peak hours to keep the grid stable. For Tesla's energy division, each utility-scale project like this adds to the revenue and order pipeline for Megapack and Powerwall.\n\nTesla also operates its own Megapack manufacturing plant in Texas, so this Ørsted project ties into the broader growth of Tesla's energy footprint in the state — a segment that has quietly expanded its share of Tesla's overall results relative to the vehicle business.",
+      "href": "https://electrek.co/2026/08/05/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Ørsted",
+        "Solar Power World"
+      ],
+      "sentiment": "bull",
+      "hot": 4
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3h ago",
+      "pubDate": "2026-08-05T19:56:00.000Z",
+      "title": "HW3 FSD 컴퓨터 과열 파문 확산 — 최고 <em>섭씨 102도</em> 신고, 90도 넘으면 자동 잠금",
+      "hotShort": "HW3 FSD 컴퓨터, <em>섭씨 102도</em>까지 과열 신고",
+      "body": "FSD V14 Lite 배포 후 HW3 탑재 차량 오너들이 오토파일럿 컴퓨터 온도가 <em>섭씨 102도(화씨 215도)</em>까지 치솟았다고 보고 — 테슬라 소프트웨어는 90도를 넘으면 FSD를 강제 해제하고 식을 때까지 잠그도록 설계돼 있다. HW3는 HW4 대비 메모리 대역폭이 약 8분의 1에 불과해, 2019~2023년 판매된 최대 300만~400만 대 규모 구형 차량군에 부담이 집중된다는 우려다.",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "fsd-hw3-overheat-90c-cutoff-2026-08-05",
+      "summary": "지난 8월3일 electrek 보도로 처음 알려진 FSD V14 Lite(7월21일 HW3 전면배포, 소프트웨어 2026.20.6.11) 배포 이후 오토파일럿 컴퓨터 과열·먹통 문제가 InsideEVs 등 후속 보도로 더 구체화됐다. 오너들이 X에 올린 스크린샷에 따르면 일부 차량의 컴퓨터 온도가 섭씨 102도(화씨 215도)까지 올라갔다는 신고가 나왔다.\n\n테슬라 소프트웨어에는 안전장치가 내장돼 있다 — 컴퓨터 온도가 섭씨 90도를 넘으면 FSD를 강제로 해제(disengage)하고, 충분히 식을 때까지 다시 활성화되지 않도록 잠그는 방식이다. 즉 과열이 곧바로 영구적인 하드웨어 손상으로 이어지는 것은 아니지만, 해당 구간에서는 FSD 기능 자체를 쓸 수 없게 된다.\n\n근본 원인으로는 HW3의 하드웨어 한계가 지목된다. HW3는 현재 주력인 HW4 대비 메모리 대역폭이 약 8분의 1 수준에 불과한데, HW4용으로 설계된 무거운 신경망 모델을 경량화해 얹으면서 연산 부담이 커졌다는 분석이다. 테슬라는 차기 'HW4 플러스'에서는 메모리 용량을 두 배로 늘릴 계획인 것으로 알려졌다.\n\n테슬라는 2019~2023년 사이 HW3 탑재 차량을 약 300만~400만 대 판매한 것으로 알려졌으며, FSD V14 Lite는 약 2주 전부터 해당 차량군 전체에 순차 배포되기 시작했다. 아직 테슬라의 공식 원인 규명이나 리콜·서비스 조치 발표는 없는 상태로, 오너 보고에 의존한 초기 단계 이슈다. 다만 대상 차량군 규모가 크고 안전 관련 기능(FSD)이 직접 영향을 받는 문제라, 테슬라의 공식 대응 여부를 주주도 계속 주시할 필요가 있다.",
+      "title_en": "Tesla HW3 FSD computer overheating reports mount — owners cite <em>102°C readings</em>, auto-lockout above 90°C",
+      "hotShort_en": "HW3 FSD computers hit <em>102°C</em>, owners report",
+      "body_en": "Owners of HW3-equipped Tesla vehicles report Autopilot computer temperatures spiking as high as <em>102°C (215°F)</em> after the FSD V14 Lite update — Tesla's software force-disengages FSD and locks it out above 90°C until the computer cools. HW3's memory bandwidth is roughly an eighth of HW4's, raising concern for the 3–4 million HW3 cars sold between 2019 and 2023.",
+      "summary_en": "Autopilot computer overheating and lockup complaints, first reported by Electrek on August 3 following the wide rollout of FSD V14 Lite to HW3 vehicles (started July 21, software 2026.20.6.11), have grown more specific with a follow-up InsideEVs report. Screenshots owners posted on X show some vehicles' computer temperatures climbing as high as 102°C (215°F).\n\nTesla's software has a built-in safeguard: once the computer exceeds 90°C, it force-disengages FSD and keeps it locked out until the hardware cools sufficiently. That means the overheating doesn't necessarily cause permanent hardware damage, but it does make FSD completely unusable while the lockout is active.\n\nThe underlying cause appears to be HW3's hardware limitations. HW3 has roughly an eighth of the memory bandwidth of the current HW4, and running a lightweight version of a neural network designed for HW4 appears to be straining the older chip. Tesla is reportedly planning to double memory capacity in its upcoming 'HW4 Plus' hardware.\n\nTesla is reported to have sold roughly 3 to 4 million HW3-equipped vehicles between 2019 and 2023, and FSD V14 Lite has been rolling out to that entire fleet over the past two weeks. Tesla has not issued an official diagnosis or announced any recall or service action — this remains an early-stage issue based on owner reports. Still, given the size of the affected fleet and that a safety-relevant feature (FSD) is directly impacted, shareholders should watch for Tesla's official response.",
+      "href": "https://insideevs.com/news/803866/tesla-autopilot-computer-fsd-overheating/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "InsideEVs",
+        "Electrek",
+        "Not a Tesla App",
+        "TeslaNorth"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "3h ago",
       "pubDate": "2026-08-05T15:04:39.000Z",
       "title": "테슬라, 매니토바 EV 리베이트 배제 소송 — 주정부, 본안 전 <em>소송 기각 신청</em>",
@@ -2307,59 +2360,7 @@
       "href": "https://x.com/aelluswamy/status/2080149830467547297",
       "sentiment": "bull",
       "hot": 4
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-23T17:00:00.000Z",
-      "title": "테슬라 FSD V14 Lite(HW3), <em>와이드 릴리즈 확정</em> — HW4 지능까지 이식",
-      "hotShort": "FSD V14 Lite(HW3) <em>와이드 릴리즈 확정</em>",
-      "body": "테슬라가 구형 하드웨어(HW3) 차량용 FSD V14 Lite의 대규모 배포를 21일부터 시작해 와이드 릴리즈를 사실상 확정했다 — 애초 예고했던 2026.20.6.10 대신 버그 수정판 2026.20.6.11로, HW4 버전의 지능을 이식한 강화학습 개선과 MLIR 컴파일러 재작성으로 반응속도를 20% 끌어올렸다. 완전 무감독 FSD를 지원 못 하는 구형 하드웨어 차주들의 체감 격차를 좁히는 조치로, 향후 FSD 개선 속도를 가늠할 지표다.",
-      "sourceName": "Tesla Oracle",
-      "sourceLabel": "press",
-      "slug": "fsd-v14-lite-hw3-feature-parity-2026-07-20",
-      "summary": "지난 21일 테슬라 AI 총괄 아쇽 엘루스와미가 예고했던 HW3용 FSD V14 Lite의 와이드 릴리즈가 실제로 시작됐다. 당초 2026.20.6.10 버전이 전체 배포될 것으로 알려졌지만, 테슬라는 막판에 버그 수정을 거친 2026.20.6.11을 대신 대량 배포하기 시작했다 — 21일 소수 차량으로 시작해 22일 확대, 23일에는 훨씬 더 큰 물결로 번졌다는 게 테슬라 오라클 등 복수 매체의 보도다.\n\n이번 빌드의 핵심은 HW4용 FSD V14의 '지능'을 HW3에 그대로 증류(distill)해 넣었다는 점이다 — HW3가 HW4 버전을 교사 모델 삼아 학습해, 강화학습(RL) 단계 개선과 오프라인 모델 활용 등의 이득을 동일하게 누릴 수 있게 됐다. 여기에 AI 컴파일러·런타임을 MLIR 기반으로 전면 재작성해 반응속도를 20% 개선했다고 회사 측은 밝혔다.\n\nHW3는 일론 머스크가 앞서 실적콜에서 완전 무감독(unsupervised) FSD를 지원할 수 없다고 못박은 구형 하드웨어다. 이번 와이드 릴리즈는 그 한계를 인정하면서도 신형 HW4와의 체감 격차를 최대한 좁히려는 절충안으로, 구형 차량을 보유한 주주·고객층의 만족도에 직결되는 변화다.\n\n해당 버전은 노트어테슬라앱(Not a Tesla App)의 공식 릴리스노트로도 확인됐으며, 테슬라노스(TeslaNorth) 등도 동일한 배포 확산을 보도해 신뢰도를 뒷받침한다.",
-      "title_en": "Tesla's FSD V14 Lite for HW3 <em>goes wide</em> — with HW4's intelligence distilled in",
-      "hotShort_en": "FSD V14 Lite (HW3) <em>wide release confirmed</em>",
-      "body_en": "Tesla began mass-pushing FSD V14 Lite to HW3 (older hardware) vehicles on July 21, effectively confirming the wide release — not with the originally teased 2026.20.6.10 build, but a quick bug-fix point release, 2026.20.6.11, that distills HW4's intelligence into HW3 and rewrites the AI compiler in MLIR for a 20% faster reaction time. It's a concrete step toward closing the experience gap for owners of hardware that can't run unsupervised FSD — and a read on how fast Tesla can keep iterating.",
-      "summary_en": "The wide release of FSD V14 Lite for HW3 vehicles that Tesla AI chief Ashok Elluswamy signaled on July 21 has now actually begun. The originally teased build, 2026.20.6.10, was expected to go wide, but Tesla instead pushed a bug-fix point release, 2026.20.6.11, in its place — starting with a small batch of cars on July 21, expanding on July 22, and reaching a much larger wave by July 23, according to Tesla Oracle and other outlets.\n\nThe core of this build is that it distills the 'intelligence' of the HW4 version of FSD V14 directly into HW3 — letting HW3 learn using the HW4 model as a teacher, and inherit the same gains from an upgraded reinforcement-learning (RL) training stage and offline-model use. Tesla also says it rewrote the AI compiler and runtime from the ground up on MLIR, delivering a 20% faster reaction time.\n\nHW3 is the older hardware generation that Elon Musk previously said on an earnings call cannot support fully unsupervised FSD. This wide release acknowledges that ceiling while still narrowing the experience gap with newer HW4 as much as possible — a change that matters directly to the satisfaction of shareholders and customers still driving older hardware.\n\nThe version has also been confirmed via Not a Tesla App's official release notes, with TeslaNorth and other outlets reporting the same expanding rollout, backing up the reporting.",
-      "href": "https://www.teslaoracle.com/2026/07/23/tesla-fsd-v14-lite-finally-goes-wide-release-with-software-update-version-2026-20-6-11/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Tesla Oracle",
-        "Not a Tesla App",
-        "TeslaNorth"
-      ],
-      "sentiment": "bull",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-23T16:50:09.000Z",
-      "title": "프랑스, 테슬라 FSD 승인 보류 — 머스크 <em>\"생명 앗아갈 것\"</em> 반박",
-      "hotShort": "프랑스 FSD 보류에 머스크 <em>\"생명 앗아갈 것\"</em>",
-      "body": "프랑스 교통장관 필리프 타바로가 테슬라 FSD(감독형)를 현재 상태로는 승인하지 않겠다고 밝혔다 — 제한속도를 최대 50% 초과하는 과속과 회전교차로·차선변경 등 복잡한 상황에서의 부족한 주의력 모니터링이 이유다. 일론 머스크는 X에 \"프랑스의 승인 지연은 생명을 앗아갈 것\"이라고 즉각 반박해 규제 갈등이 격화됐다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "fsd-france-rejects-approval-2026-07-22",
-      "summary": "22일(현지시간) 프랑스 교통장관 필리프 타바로는 테슬라의 '완전자율주행(감독형, FSD Supervised)'을 \"현재 상태로는\" 승인하지 않겠다고 공식 발표했다. 로이터에 따르면 그는 영상 성명에서 \"이 시스템이 여러 기술적 진전을 가져온 것은 인정하지만, 현재 상태로 허가하기엔 안전성 트레이드오프가 아직 충분치 않다\"고 밝혔다.\n\n그가 지목한 안전 문제는 두 가지다. 첫째, FSD가 주변 교통 흐름 속도에 맞춰 주행하는 과정에서 명시적인 운전자 지시 없이도 제한속도를 최대 50%까지 초과하는 경우가 있다는 것이다 — 예를 들어 시속 50km 구간에서 시속 70km까지 속도를 낼 수 있다는 지적이다. 둘째, 회전교차로·차선변경처럼 복잡한 도심 주행 상황에서 현재의 운전자 모니터링 체계가 충분한 주의력을 담보하지 못한다는 점이다. 타바로 장관은 한발 더 나아가 \"이 시스템은 자율주행 시스템이 아니다\"라며 FSD라는 명칭 자체에도 이의를 제기했다.\n\n이 발표에 일론 머스크는 곧바로 X(트위터)에 \"프랑스의 FSD 승인 지연은 생명을 앗아갈 것\"이라는 글을 올려 반박했다. 규제 당국과 테슬라 최고경영자 간 공개적 신경전으로 번진 셈이다.\n\n이번 발표로 프랑스는 유럽 주요국 가운데 처음으로 FSD에 대한 구체적 반대 근거를 각료급에서 공식화한 나라가 됐다. 그간 유럽 각국은 유럽집행위원회의 '제39조(Article 39)' 공동 심사 절차에 판단을 미뤄왔는데, 프랑스가 독자적으로 우려를 명문화한 셈이다. 다만 완전한 거부는 아니다 — 프랑스 교통부 대표단이 지난주 네덜란드를 방문해 관련 데이터를 검토했다고 타바로 장관이 밝혔으며, 네덜란드 등 다른 유럽국·테슬라와 기술 협의를 계속 이어가겠다고 덧붙였다.\n\n테슬라는 그간 유럽에서 FSD 라이드얼롱(동승 시연)을 확대하며 규제 승인에 다가서고 있다는 신호를 보내왔지만, 프랑스의 공식 이의 제기와 머스크의 정면 반박은 EU 전역 승인까지 시일이 더 걸릴 수 있음을 시사한다. 로보택시·FSD 확장을 핵심 성장동력으로 내세우는 테슬라 입장에서, 유럽 시장 진입 지연은 계속 주시할 변수다.",
-      "title_en": "France withholds Tesla FSD approval — Musk fires back: <em>\"will cost lives\"</em>",
-      "hotShort_en": "Musk claps back <em>\"will cost lives\"</em> as France balks",
-      "body_en": "French Transport Minister Philippe Tabarot said Tesla's FSD (Supervised) won't be approved \"as it currently stands\" — citing speed-matching that can exceed limits by up to 50% and insufficient driver-attention monitoring in complex situations. Elon Musk fired back on X, calling the delay a decision that \"will cost lives,\" escalating the standoff with regulators.",
-      "summary_en": "French Transport Minister Philippe Tabarot formally said on July 22 that Tesla's Full Self-Driving (Supervised) system won't be approved \"as it currently stands.\" Per Reuters, he said in a video statement: \"we consider that this system brings a number of technological advances, but that the safety trade-offs are not yet sufficient to authorize it as it currently stands.\"\n\nHe flagged two safety concerns. First, FSD matches surrounding traffic speed in a way that can exceed the posted limit by up to 50% without an explicit driver command — for example, hitting 70 km/h in a 50 km/h zone. Second, the current driver-monitoring setup doesn't guarantee sufficient attention during complex urban situations such as roundabouts and lane changes. Tabarot went further, saying \"this system is not a self-driving system,\" directly challenging the name it's sold under.\n\nMusk shot back almost immediately on X, saying \"delaying the approval of FSD in France will cost lives\" — turning the regulatory dispute into a public standoff with Tesla's CEO.\n\nThe announcement makes France the first major European country to formalize specific objections to FSD at the cabinet level, after other EU countries had largely deferred to the European Commission's Article 39 joint review process. It stops short of an outright rejection — Tabarot said a Ministry of Transport delegation traveled to the Netherlands last week to review the underlying data, and that technical discussions with the Netherlands, other European countries, and Tesla are continuing.\n\nTesla has been expanding FSD ride-alongs across Europe as a signal it's getting closer to regulatory approval, but France's formal objection — and Musk's direct pushback — suggest EU-wide sign-off could still take longer. For a company leaning on Robotaxi and FSD expansion as core growth drivers, a delayed European rollout remains a variable worth watching.",
-      "href": "https://www.reuters.com/business/france-opposes-eu-approval-teslas-fsd-driver-assistance-software-now-2026-07-23/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "Electrek",
-        "Yahoo Finance"
-      ],
-      "sentiment": "bear",
-      "hot": 6
     }
   ],
-  "asOf": "2026-08-06 02:50 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-06 08:07 KST 자동 갱신 · 최신순"
 }
