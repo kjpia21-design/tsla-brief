@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-30T11:12:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "stock-6-red-days-21pct-decline-2026-07-30",
-          "verdict": "pass",
-          "reasons": [
-            "sourceLabel press 적정 (Trefis 전문 투자 분석 매체, 1차 아님)",
-            "조언 톤 없음 — 매수매도 권유·목표가 제시 없음",
-            "단정 표현은 confirmedBy=3(Trefis/Barron's/Motley Fool) 교차검증된 사실(6거래일 -21%, 61B 증발, Q2 EPS /bin/bash.33 vs 컨센서스 /bin/bash.51, capex +142% .79B)에만 사용 — hedge 필요한 과잉 단정 없음",
-            "숫자·날짜 WebSearch 교차 재대조 일치 (직접 WebFetch는 trefis.com/barrons.com 403 차단으로 불가 — fail-open, 대신 복수 독립 기사로 교차검증)",
-            "본문-링크 일치 — href(trefis.com 원문)와 카드 사건 동일",
-            "X/밈 소스 아님 — 해당없음"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-30T14:20:00.000Z",
       "mode": "shadow",
       "checked": 4,
@@ -785,6 +766,24 @@
             "No advisory tone introduced.",
             "href/body still describe the same Starmind/Nvidia event; AMD reaction is a direct market consequence of that same announcement, no body-link mismatch.",
             "Not an X-sourced meme/satire case for this edit."
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-05T05:10:34.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-1trillion-revenue-target-2030-2026-08-04",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press confirmed correct (WSJ, tier-1 press covering earnings call)",
+            "hedge preserved: card attributes claim to Musk, not stated as confirmed fact",
+            "numbers cross-checked and confirmed: 2025 revenue $18.67B, net loss $4.94B, Morgan Stanley ~$330B, Goldman ~$470B, 2029/2030 target math (~53x/~120% CAGR)",
+            "event independently corroborated by Axios/Fortune/CNN/TechCrunch/Benzinga; corrected confirmingSources from Reuters/TheStreet (unverified for this exact quote) to Axios/Fortune/CNN/TechCrunch"
           ]
         }
       ]
