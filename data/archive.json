@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-08-05T21:30:55.000Z",
+      "title": "SpaceX, 2분기 테슬라 메가팩 <em>2억9,500만달러</em> 매입 — AI 데이터센터 전력용",
+      "hotShort": "SpaceX, 테슬라 메가팩 <em>2억9,500만달러</em> 매입",
+      "body": "SpaceX가 2026년 2분기에만 테슬라 메가팩을 <em>2억9,500만달러</em>어치 매입해 올 상반기 누적 구매액이 3억2,900만달러로 늘었다 — 테네시주 멤피스 인근 xAI 'Colossus' AI 데이터센터 전력공급용으로, 앞서 xAI가 스페이스X와 합병 전 독자적으로 4억3,000만달러어치를 사들인 데 이어 머스크 계열사 간 내부거래(related-party) 규모가 계속 커지는 모습이다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-megapack-purchases-2026-08-05",
+      "summary": "일론 머스크가 이끄는 테슬라·스페이스X·xAI 세 회사는 그동안 자원·인력을 공유하며 서로 거래해온 이력이 있는데, 이번에 공개된 수치는 그 내부거래 규모가 계속 불어나고 있음을 보여준다.\n\nSpaceX는 2026년 2분기에만 테슬라 메가팩을 2억9,500만달러어치 매입했다. 이로써 올 상반기(1~2분기) 누적 매입액은 3억2,900만달러로 늘었다.\n\n이 배터리들은 테네시주 멤피스 인근에 있는 xAI의 AI 데이터센터 'Colossus'에 전력을 공급하는 용도로 설치되고 있다. 대형 배터리 저장시스템은 화석연료·태양광·풍력 등 다양한 전원에서 저장한 전력을 데이터센터·전력망에 방전해, 정전을 막고 전력 공급을 안정시키는 역할을 한다.\n\nxAI는 스페이스X와 합병하기 전 독자적으로 이미 4억3,000만달러어치의 테슬라 메가팩을 사들인 바 있어, 머스크 계열사 간 관련자 거래 규모는 이번 스페이스X 매입분을 더하면 한층 더 커진다.\n\n테슬라 입장에서는 메가팩 수요처가 스페이스X·xAI 같은 계열사로도 확대되며 에너지 사업 매출에 보탬이 되지만, 동시에 머스크가 이끄는 여러 회사 간 자금·자원이 얽히는 관련자 거래는 지배구조 측면에서 투자자들이 계속 주시해야 할 변수이기도 하다.",
+      "title_en": "SpaceX bought <em>$295M</em> of Tesla Megapacks in Q2 for AI data centers",
+      "hotShort_en": "SpaceX buys <em>$295M</em> in Tesla Megapacks",
+      "body_en": "SpaceX purchased <em>$295 million</em> worth of Tesla Megapacks in Q2 2026 alone, bringing its first-half total to $329 million — batteries powering xAI's Colossus AI data center near Memphis, Tennessee, adding to the $430 million xAI spent on its own before merging with SpaceX, as related-party dealing among Musk's companies keeps growing.",
+      "summary_en": "Tesla, SpaceX, and xAI — all led by Elon Musk — have a history of sharing resources and personnel across the companies, and the latest disclosed figures show that internal dealing keeps expanding.\n\nSpaceX spent $295 million on Tesla Megapacks in the second quarter of 2026 alone, bringing its cumulative spending for the first half of the year to $329 million.\n\nThe batteries are being installed to help power xAI's Colossus AI data center near Memphis, Tennessee. Large battery storage systems like these discharge power stored from a mix of sources — fossil fuels, solar, and wind — to data centers and the grid, helping prevent blackouts and keep supply stable.\n\nxAI had already spent $430 million of its own on Tesla Megapacks before merging with SpaceX, so this quarter's SpaceX purchases add to an already sizable pile of related-party spending among Musk's companies.\n\nFor Tesla, expanding Megapack demand from sister companies like SpaceX and xAI adds to energy-segment revenue, but the growing web of related-party transactions among Musk's various companies is also a governance factor shareholders will want to keep watching.",
+      "href": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "TechCrunch"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2h ago",
@@ -2340,27 +2365,7 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "just now",
-      "pubDate": "2026-07-23T18:00:00.000Z",
-      "title": "테슬라 아쇽 엘루스와미 \"FSD, 누적 120억 마일서 사고 간 거리 <em>2배</em>\" 안전 주장",
-      "hotShort": "엘루스와미 \"FSD, 사고 간 거리 <em>2배</em>\" 주장",
-      "body": "테슬라 AI 소프트웨어 부사장 아쇽 엘루스와미가 X에 올린 글에서 FSD 누적 주행 120억 마일 데이터를 근거로 사람이 직접 운전할 때보다 충돌까지의 주행거리가 2배 길다고 주장했다 — 로보택시 확장 속도를 둘러싼 회의론이 이어지는 가운데 테슬라가 자체 안전 수치로 내놓은 반박이다. 다만 검증되지 않은 회사 측 자체 집계라는 점은 감안해야 한다.",
-      "sourceName": "Ashok Elluswamy (X)",
-      "sourceLabel": "official",
-      "slug": "fsd-2x-safer-than-manual-12b-miles-2026-07-23",
-      "summary": "테슬라 로보택시 사업이 실적콜 안팎에서 확장 속도 관련 회의론에 시달리는 가운데, 회사의 AI 소프트웨어를 총괄하는 아쇽 엘루스와미 부사장이 FSD 안전성을 둘러싼 논쟁에 직접 뛰어들었다.\n\n엘루스와미는 X 게시글에서 \"FSD를 쓰는 것이 직접 운전하는 것보다 훨씬 안전하다 — 누적 120억 마일 주행으로 측정한 결과, 충돌까지 걸리는 거리가 2배 길다\"고 밝혔다. 그는 이런 성능이 가능한 이유로 FSD가 '1000명 평생 주행분'이 넘는 코너 케이스 데이터로 학습돼, 다른 차량의 신호위반·갑작스러운 끼어들기·아이가 도로로 뛰어드는 등 극단적 상황에서도 충돌 확률을 정확히 예측하도록 훈련됐다는 점을 들었다.\n\n다만 이 수치를 곧이곧대로 받아들이기 어렵다는 지적도 있다. FSD는 상대적으로 안전한 고속도로·정비된 교외 도로에서 편중되어 사용되는 경향이 있고, FSD 탑재 차량은 대체로 최신 안전장비를 갖춘 신형이며, FSD를 구매하는 운전자 자체가 차량 기술에 관심이 많아 감독 주행 시 더 주의 깊게 운전하는 성향이 있다는 반론이다. 즉 사람 대 FSD의 단순 비교로 보기엔 조건 차이가 크다는 뜻이다.\n\n주주 입장에서 이 발언은 로보택시·완전자율주행 사업의 밸류에이션 서사와 직결된다. 회의론이 커질 때마다 테슬라 경영진이 자체 안전 데이터를 근거로 반박에 나서는 패턴이 반복되고 있어, 실제 독립적인 검증이 이뤄지기 전까지는 '주장'과 '사실' 사이 간극을 감안해 받아들일 필요가 있다.",
-      "title_en": "Tesla's Elluswamy claims FSD is <em>2x safer</em> than manual driving over 12B miles",
-      "hotShort_en": "Tesla exec: FSD <em>2x safer</em> than manual",
-      "body_en": "Tesla VP of AI Software Ashok Elluswamy posted on X that FSD is far safer than driving manually, citing 12 billion cumulative miles of data showing twice the distance between collisions compared to manual driving — a company-supplied rebuttal amid ongoing skepticism about Robotaxi's expansion pace. The figure comes from Tesla's own tally and hasn't been independently verified.",
-      "summary_en": "With Tesla's Robotaxi business facing persistent skepticism about its expansion pace both on and off the earnings call, VP of AI Software Ashok Elluswamy waded directly into the safety debate around FSD.\n\nIn a post on X, Elluswamy wrote that \"using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions.\" He attributed the performance to FSD being trained on corner cases drawn from more than 1,000 lifetimes of driving, allowing it to accurately predict collision probability even in extreme scenarios like other drivers running red lights, sudden swerves, or kids darting into the road.\n\nThe figure invites some skepticism, however. FSD tends to be used disproportionately on highways and well-maintained suburban roads that are statistically safer than average; vehicles running FSD skew newer with more modern safety hardware; and drivers who buy FSD tend to be more engaged with the technology and may supervise more attentively than the average driver. In other words, the underlying conditions differ enough that a straight human-vs-FSD comparison invites caution.\n\nFor shareholders, the claim feeds directly into the valuation case for Robotaxi and full autonomy. Tesla executives have repeatedly countered expansion skepticism with in-house safety data, and until an independent audit is available, the gap between the company's claim and an externally verified fact is worth keeping in mind.",
-      "href": "https://x.com/aelluswamy/status/2080149830467547297",
-      "sentiment": "bull",
-      "hot": 4
     }
   ],
-  "asOf": "2026-08-06 08:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-06 10:06 KST 자동 갱신 · 최신순"
 }

@@ -1,35 +1,34 @@
 {
   "items": [
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-08-05T20:45:27.000Z",
-      "title": "Ørsted, 텍사스서 <em>250MW·500MWh 테슬라 메가팩</em> 배터리 상업가동 개시",
-      "hotShort": "Ørsted, 텍사스서 <em>테슬라 메가팩</em> 배터리 상업가동",
-      "body": "덴마크 에너지기업 Ørsted가 텍사스 니드빌(포트벤드 카운티)에 <em>250MW·500MWh 규모 테슬라 메가팩</em> 배터리저장시설 'Old 300 Storage'의 상업 가동을 개시해 ERCOT 전력망에 편입 — 430MW 규모 병설 태양광과 함께 텍사스 그리드 안정성에 기여하는 테슬라 에너지 사업의 또 다른 대형 레퍼런스다.",
-      "sourceName": "Electrek",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-08-05T21:30:55.000Z",
+      "title": "SpaceX, 2분기 테슬라 메가팩 <em>2억9,500만달러</em> 매입 — AI 데이터센터 전력용",
+      "hotShort": "SpaceX, 테슬라 메가팩 <em>2억9,500만달러</em> 매입",
+      "body": "SpaceX가 2026년 2분기에만 테슬라 메가팩을 <em>2억9,500만달러</em>어치 매입해 올 상반기 누적 구매액이 3억2,900만달러로 늘었다 — 테네시주 멤피스 인근 xAI 'Colossus' AI 데이터센터 전력공급용으로, 앞서 xAI가 스페이스X와 합병 전 독자적으로 4억3,000만달러어치를 사들인 데 이어 머스크 계열사 간 내부거래(related-party) 규모가 계속 커지는 모습이다.",
+      "sourceName": "CNBC",
       "sourceLabel": "press",
-      "slug": "product-orsted-megapack-texas-2026-08-05",
-      "summary": "덴마크 에너지기업 Ørsted가 8월5일, 텍사스 니드빌(포트벤드 카운티)에 짓던 배터리저장시설 'Old 300 Storage'가 상업 가동을 시작해 ERCOT(텍사스 전력망) 그리드에 완전히 편입됐다고 밝혔다. 규모는 250MW·500MWh로, 인근의 430MW급 태양광 발전소 'Old 300 Solar'와 병설돼 있지만 저장시설은 별도로 독립 운영된다.\n\n이 배터리저장시스템은 테슬라로부터 조달한 메가팩으로 구성됐다 — 메가팩은 캘리포니아 래스롭(Lathrop) 공장에서 제조됐다. 태양광·저장을 합친 이 프로젝트는 가동 기간 전체에 걸쳐 지역 인프라·학교·응급서비스 재원으로 쓰일 재산세 약 1억1,000만달러를 지역사회에 기여할 것으로 추산된다.\n\nERCOT는 여름철 에어컨 수요 급증 등으로 그리드 스트레스가 큰 시장으로 꼽히는데, 이런 대형 배터리저장시설은 전력 수요가 몰리는 피크 시간대에 저장된 전력을 방전해 그리드 안정에 기여하는 역할을 한다. 테슬라 에너지 사업(메가팩·파워월) 입장에서는 이런 유틸리티 규모 프로젝트가 늘어날수록 매출·수주 파이프라인 확대의 근거가 된다.\n\n테슬라는 텍사스 라스롭 외에도 텍사스 주 내에 자체 메가팩 생산 공장을 두고 있어, 이번 Ørsted 프로젝트는 테슬라의 텍사스 에너지 사업 확장과도 맥이 닿아 있다. 차량 부문 대비 상대적으로 조용히 성장해온 에너지 저장 사업이 매 분기 실적에서 비중을 넓혀가는 흐름을 보여주는 사례다.",
-      "title_en": "Ørsted brings <em>250MW/500MWh Tesla Megapack</em> battery online in Texas",
-      "hotShort_en": "Ørsted's <em>Tesla Megapack</em> battery goes live in TX",
-      "body_en": "Danish energy company Ørsted has brought its <em>250MW/500MWh Tesla Megapack</em> battery storage system, 'Old 300 Storage,' online in Needville, Texas, fully integrated into the ERCOT grid — another large utility reference for Tesla's energy business, paired with a co-located 430MW solar array.",
-      "summary_en": "Danish energy company Ørsted said on August 5 that its 'Old 300 Storage' battery project in Needville, in Texas's Fort Bend County, has reached commercial operations and is fully integrated into the ERCOT grid. The system is rated at 250MW/500MWh and sits alongside — but operates independently from — the co-located 430MW Old 300 Solar facility.\n\nThe storage system is built from Tesla Megapacks manufactured at Tesla's Lathrop, California factory. Combined, the solar and storage project is expected to generate roughly $110 million in property tax revenue over its operating life, supporting local infrastructure, schools, and emergency services.\n\nERCOT is known for heavy grid stress during peak summer demand, and large battery installations like this one help by discharging stored power during those peak hours to keep the grid stable. For Tesla's energy division, each utility-scale project like this adds to the revenue and order pipeline for Megapack and Powerwall.\n\nTesla also operates its own Megapack manufacturing plant in Texas, so this Ørsted project ties into the broader growth of Tesla's energy footprint in the state — a segment that has quietly expanded its share of Tesla's overall results relative to the vehicle business.",
-      "href": "https://electrek.co/2026/08/05/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
-      "confirmedBy": 3,
+      "slug": "musk-spacex-megapack-purchases-2026-08-05",
+      "summary": "일론 머스크가 이끄는 테슬라·스페이스X·xAI 세 회사는 그동안 자원·인력을 공유하며 서로 거래해온 이력이 있는데, 이번에 공개된 수치는 그 내부거래 규모가 계속 불어나고 있음을 보여준다.\n\nSpaceX는 2026년 2분기에만 테슬라 메가팩을 2억9,500만달러어치 매입했다. 이로써 올 상반기(1~2분기) 누적 매입액은 3억2,900만달러로 늘었다.\n\n이 배터리들은 테네시주 멤피스 인근에 있는 xAI의 AI 데이터센터 'Colossus'에 전력을 공급하는 용도로 설치되고 있다. 대형 배터리 저장시스템은 화석연료·태양광·풍력 등 다양한 전원에서 저장한 전력을 데이터센터·전력망에 방전해, 정전을 막고 전력 공급을 안정시키는 역할을 한다.\n\nxAI는 스페이스X와 합병하기 전 독자적으로 이미 4억3,000만달러어치의 테슬라 메가팩을 사들인 바 있어, 머스크 계열사 간 관련자 거래 규모는 이번 스페이스X 매입분을 더하면 한층 더 커진다.\n\n테슬라 입장에서는 메가팩 수요처가 스페이스X·xAI 같은 계열사로도 확대되며 에너지 사업 매출에 보탬이 되지만, 동시에 머스크가 이끄는 여러 회사 간 자금·자원이 얽히는 관련자 거래는 지배구조 측면에서 투자자들이 계속 주시해야 할 변수이기도 하다.",
+      "title_en": "SpaceX bought <em>$295M</em> of Tesla Megapacks in Q2 for AI data centers",
+      "hotShort_en": "SpaceX buys <em>$295M</em> in Tesla Megapacks",
+      "body_en": "SpaceX purchased <em>$295 million</em> worth of Tesla Megapacks in Q2 2026 alone, bringing its first-half total to $329 million — batteries powering xAI's Colossus AI data center near Memphis, Tennessee, adding to the $430 million xAI spent on its own before merging with SpaceX, as related-party dealing among Musk's companies keeps growing.",
+      "summary_en": "Tesla, SpaceX, and xAI — all led by Elon Musk — have a history of sharing resources and personnel across the companies, and the latest disclosed figures show that internal dealing keeps expanding.\n\nSpaceX spent $295 million on Tesla Megapacks in the second quarter of 2026 alone, bringing its cumulative spending for the first half of the year to $329 million.\n\nThe batteries are being installed to help power xAI's Colossus AI data center near Memphis, Tennessee. Large battery storage systems like these discharge power stored from a mix of sources — fossil fuels, solar, and wind — to data centers and the grid, helping prevent blackouts and keep supply stable.\n\nxAI had already spent $430 million of its own on Tesla Megapacks before merging with SpaceX, so this quarter's SpaceX purchases add to an already sizable pile of related-party spending among Musk's companies.\n\nFor Tesla, expanding Megapack demand from sister companies like SpaceX and xAI adds to energy-segment revenue, but the growing web of related-party transactions among Musk's various companies is also a governance factor shareholders will want to keep watching.",
+      "href": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
+      "confirmedBy": 2,
       "confirmingSources": [
-        "Electrek",
-        "Ørsted",
-        "Solar Power World"
+        "CNBC",
+        "TechCrunch"
       ],
-      "sentiment": "bull",
-      "hot": 4
+      "sentiment": "neutral",
+      "hot": 5
     },
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-08-05T19:56:00.000Z",
       "title": "HW3 FSD 컴퓨터 과열 파문 확산 — 최고 <em>섭씨 102도</em> 신고, 90도 넘으면 자동 잠금",
       "hotShort": "HW3 FSD 컴퓨터, <em>섭씨 102도</em>까지 과열 신고",
@@ -208,5 +207,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-08-06 08:07 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-06 10:06 KST 자동 갱신 · 최신순"
 }
