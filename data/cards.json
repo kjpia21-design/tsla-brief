@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "2h ago",
+      "pubDate": "2026-08-06T12:52:24.000Z",
+      "title": "테슬라 <em>메가팩3</em> 텍사스 신공장서 양산 개시 — 에너지 28% 증가",
+      "hotShort": "테슬라 메가팩3 양산 개시 — <em>에너지 28%↑</em>",
+      "body": "테슬라가 텍사스 브룩셔의 신규 메가팩토리에서 차세대 배터리 <em>메가팩3</em> 양산을 시작했다 — 착공 16개월 만이며, 동일 부피에 <em>28% 많은 에너지</em>(유닛당 약 5MWh)를 담아 설치비·공사기간을 크게 줄인 것이 핵심. 차량 사업 대비 조용히 성장해온 에너지저장 사업의 생산능력 확대 근거라 주주가 주목할 대목이다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-megapack3-production-brookshire-2026-08-06",
+      "summary": "테슬라의 신규 메가팩토리는 텍사스 브룩셔에 위치해 있으며, 착공에서 첫 유닛 생산까지 걸린 기간은 16개월이다 — 테슬라 기가팩토리 중에서도 손꼽히게 빠른 속도로 완공된 사례다.\n\n메가팩3는 유닛당 약 5MWh 용량으로, 전작 메가팩2 XL 대비 동일한 설치 면적에 28% 더 많은 에너지를 담는다. 열관리 시스템도 대폭 단순화돼 연결부(커넥션) 수가 78% 줄었다 — 조립 신뢰성과 생산 속도를 함께 끌어올리는 설계 변경이다.\n\n설치 방식에도 변화가 있다. 테슬라의 Megablock 플랫폼을 적용하면 설치 시간을 23% 단축하고, 시공 비용은 최대 40%까지 낮출 수 있다고 회사 측은 밝혔다.\n\n브룩셔 공장의 설계 생산능력은 메가팩3 전용으로 연 50GWh 규모다 — 완전 가동에 들어가면 캘리포니아 래스롭 공장을 넘어서는 테슬라 최대의 에너지저장 생산기지가 될 수 있다는 평가가 나온다.\n\n차량 부문 대비 상대적으로 조용히 성장해온 테슬라 에너지 사업(메가팩·파워월)이 매 분기 실적에서 비중을 넓혀가는 흐름의 연장선으로, 생산능력 확대는 곧 매출·수주 파이프라인을 뒷받침하는 근거가 된다.",
+      "title_en": "Tesla begins <em>Megapack 3</em> production in Texas — 28% more energy per unit",
+      "hotShort_en": "Tesla starts <em>Megapack 3</em> output, +28% energy",
+      "body_en": "Tesla has started building its next-generation Megapack 3 battery at its new Megafactory in Brookshire, Texas — just 16 months after breaking ground — packing <em>28% more energy</em> (about 5MWh per unit) into the same footprint, cutting installation cost and build time. It's the latest sign of capacity growth for a Tesla energy business that has quietly expanded alongside the vehicle segment, something shareholders will want to watch.",
+      "summary_en": "Tesla's newest Megafactory sits in Brookshire, Texas, and went from groundbreaking to its first production unit in 16 months — one of the fastest ramps among Tesla's gigafactories to date.\n\nEach Megapack 3 unit holds about 5MWh, packing 28% more energy into the same footprint as the prior Megapack 2 XL. The thermal management system was also substantially simplified, cutting the number of connections by 78% — a design change meant to boost both assembly reliability and production speed.\n\nInstallation has changed too. Tesla says its Megablock platform can cut installation time by 23% and reduce construction costs by up to 40%.\n\nThe Brookshire plant's designed capacity is 50GWh a year dedicated to Megapack 3 — once fully ramped, that could make it Tesla's largest energy storage manufacturing site, surpassing its Lathrop, California factory.\n\nIt's the latest step in the quiet expansion of Tesla's energy business (Megapack and Powerwall) relative to its vehicle segment, a trend that has steadily grown its share of quarterly results — and added manufacturing capacity underpins further revenue and order-pipeline growth.",
+      "href": "https://electrek.co/2026/08/06/tesla-megapack-3-production-starts-texas/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Electrek",
+        "Tesla Megapack (X)",
+        "Benzinga",
+        "Teslarati"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "1h ago",
@@ -177,33 +204,7 @@
       ],
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "13h ago",
-      "pubDate": "2026-08-05T09:36:11.000Z",
-      "title": "아마존 Zoox, <em>라스베이거스서 무핸들 로보택시 유료화</em> — 마이애미·오스틴 다음 확장",
-      "hotShort": "Zoox, <em>무핸들 로보택시 유료화</em> 라스베이거스서 개시 예고",
-      "body": "아마존 자회사 Zoox가 스티어링휠·브레이크 페달이 없는 로보택시의 유료 서비스를 라스베이거스에서 곧 시작한다고 밝히고, 다음 확장 도시로 마이애미·오스틴(텍사스)을 지목 — 완전 무인 전용설계 차량으로는 미국 최초 유료 상용화 사례라 사이버캡을 준비 중인 테슬라보다 한발 앞선 모습.",
-      "sourceName": "NBC News",
-      "sourceLabel": "press",
-      "slug": "fsd-zoox-vegas-paid-launch-2026-08-05",
-      "summary": "아마존 산하 자율주행 스타트업 Zoox가 최근 미국 도로교통안전국(NHTSA)으로부터 스티어링휠·브레이크 페달이 없는 차량으로는 처음으로 유료 승차 서비스 운행을 승인받은 데 이어, 실제 서비스 개시 계획을 구체화했다. 회사는 각 주(州)별 요건을 충족하는 대로 라스베이거스를 시작으로 유료 서비스를 개시하고, 마이애미와 오스틴(텍사스)을 다음 확장 도시로 지목했다고 밝혔다.\n\n웨이모(알파벳 자회사)를 비롯한 대부분의 경쟁사가 기존 양산차를 개조해 자율주행 장비를 얹는 방식인 반면, Zoox는 애초부터 운전대·페달이 없는 전용 차량으로 설계됐다는 점에서 차별화된다. 이번 NHTSA 승인은 이런 '완전 목적설계형' 무인차량이 연방 차원에서 유료 상용 운행 허가를 받은 첫 사례다.\n\n테슬라 역시 스티어링휠·페달이 없는 2인승 로보택시 '사이버캡'으로 완전 무인 상용화를 추진 중이지만, 아직 Zoox가 확보한 것과 비견될 만한 연방 규제 승인 경로를 공식화하지 못한 상태다. Zoox의 이번 발표로 무핸들 로보택시 상용화 경쟁에서 아마존이 테슬라·웨이모보다 한발 앞서게 됐다는 평가가 나온다.\n\n테슬라 투자자 입장에선 사이버캡 양산·규제 승인 일정이 로보택시 사업의 핵심 변수인 만큼, 경쟁사의 실제 상용화 속도를 계속 주시할 필요가 있다.",
-      "title_en": "Amazon's Zoox to launch <em>paid driverless robotaxi rides</em> in Las Vegas",
-      "hotShort_en": "Zoox to launch <em>paid robotaxi rides</em> in Las Vegas first",
-      "body_en": "Amazon-owned Zoox says it will soon begin charging for rides in its steering-wheel- and pedal-free robotaxis, starting in Las Vegas with Miami and Austin, Texas named as the next markets — the first paid commercial launch for a purpose-built driverless vehicle in the US, putting Amazon a step ahead of Tesla's still-unlaunched Cybercab.",
-      "summary_en": "Amazon's self-driving unit Zoox, which recently became the first company to win NHTSA approval to charge for rides in a vehicle built without a steering wheel or brake pedal, has now detailed its rollout plan. The company said it will begin paid service in Las Vegas as it clears state-by-state requirements, naming Miami and Austin, Texas as the next markets.\n\nUnlike most rivals — including Alphabet's Waymo, which retrofits conventional production cars — Zoox designed its vehicle from the ground up without manual controls. The NHTSA approval marks the first time a purpose-built, controls-free robotaxi has been cleared for paid commercial service at the federal level.\n\nTesla is also pursuing a fully driverless robotaxi with its two-seat Cybercab, but has yet to lay out a federal regulatory pathway comparable to what Zoox has secured. That's fueling the view that Amazon has jumped ahead of both Tesla and Waymo in the race to commercialize wheel-free robotaxis.\n\nFor Tesla shareholders, the pace of Cybercab's production ramp and regulatory approval remains a key variable for the robotaxi business — one worth watching against how fast rivals like Zoox actually scale paid service.",
-      "href": "https://www.nbcnews.com/tech/tech-news/amazons-zoox-wins-first-us-approval-paid-robotaxis-human-controls-rcna590106",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "NBC News",
-        "The Motley Fool",
-        "Planetizen"
-      ],
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-08-06 19:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-06 21:10 KST 자동 갱신 · 최신순"
 }

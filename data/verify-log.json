@@ -1,52 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-31T17:44:00.000Z",
-      "mode": "shadow",
-      "checked": 3,
-      "verdicts": [
-        {
-          "slug": "musk-spacex-short-interest-record-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for Bloomberg",
-            "no advisory tone (no buy/sell/price target)",
-            "no hedge-to-assertion conversion — figures (219.3M shares, 34% of float, $24.6B, 23.3M baseline June 16, Aug 4 earnings, Aug 6 lockup, 911.5M shares, $108.89, -2.95%/-30.9%/-19.4%) stated as reported facts, matching source",
-            "not X-sourced; meme/satire check N/A",
-            "verify-error: direct WebFetch on bloomberg.com returned HTTP 403 (bot-blocked); verification relied on WebSearch cross-corroboration (Investing.com/Seeking Alpha/CNBC citing same S3 Partners data) instead of direct origin refetch",
-            "href-body match: href points to the exact Bloomberg article the figures were drawn from"
-          ]
-        },
-        {
-          "slug": "product-model-y-l-diner-preview-features-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for Teslarati",
-            "no advisory tone",
-            "no hedge-to-assertion conversion — feature claims (Zen Grey interior, 20-inch Uberhelix wheels incl. 325→320mi range trade-off, 15% faster cooling/15min faster cooldown/23% hot-weather efficiency, climate-screen quick-access icons, functional spoiler +15mi, improved rear visibility) all attributed as Tesla/event-confirmed specs, not invented comparisons",
-            "not X-sourced; meme/satire check N/A",
-            "verify-error: direct WebFetch on teslarati.com returned HTTP 403 (bot-blocked); verification relied on WebSearch summary of the same article content instead of direct origin refetch — flagged as lower-confidence than a direct refetch",
-            "checked for stale-republish risk: confirmed this is a distinct hands-on media preview event (new feature reveals), not a re-hash of the Model Y L's earlier July 2 US order-opening/pricing news — pricing was deliberately excluded from the card to avoid conflating the two events"
-          ]
-        },
-        {
-          "slug": "stock-china-sale-spacex-merger-2026-07-31",
-          "verdict": "regrade",
-          "newSourceLabel": "press",
-          "reasons": [
-            "edit-only pass (existing card enriched with sharper Musk quote, not a new card): sourceLabel unchanged at press (Reuters relaying WSJ) — correct, no promotion to official/sec since Tesla/SpaceX have not confirmed",
-            "hedge preserved correctly — Musk's denial already framed as denial, not treated as confirmation either way; core WSJ claim remains hedged (\"검토해온 것으로 전해졌다\")",
-            "quote upgrade verified via WebSearch cross-corroboration (BeInCrypto/Nikkei Asia/CarNewsChina/Electrive/TradingKey/Business Recorder all quote Musk's exact wording \"This has never even come up in a discussion ever\" and \"Absurdly fake news\") — replacing the earlier vaguer paraphrase (\"가짜뉴스\") with the verbatim quote",
-            "not X-sourced card itself, but the quoted material originates from Musk's X post — satire/meme check applied: quote is a direct factual denial, not a joke, so no drop needed",
-            "verify-error: direct WebFetch on barrons.com (403/paywall block) and teslarati.com (403) prevented reading the two new raw-feed articles directly; verification relied on WebSearch corroboration across 6+ independent outlets converging on the identical quote text",
-            "confirmedBy updated 2 (Reuters, WSJ) to reflect the two outlets actually in the citation chain"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-31T21:50:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -751,6 +705,26 @@
             "dedup check — searched full archive.json (100 items, back to 2026-07-23) for RDW/misleading-data terms, found no matching prior card; the related June 15 2026 misleading-safety-data story predates the archive window and is explicitly referenced in the card as prior context, not treated as a duplicate event (this is a new follow-up story: regulator document secrecy, not the original statistics story)",
             "verify-error: direct WebFetch on reuters.com and datacenterdynamics.com both failed (reuters.com fetch unsupported by tool, DCD returned 403) — verified via WebSearch cross-corroboration across 5 independent domains instead of direct origin refetch, per fail-open policy",
             "card selection note: dropped product-manitoba-dismissal-motion-2026-08-05 from cards.json this run (lowest hot=4 among the prior 8) to keep this new, more substantive regulatory-credibility story within the 5-8 card cap; Manitoba card remains in archive.json unchanged"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-06T14:30:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "product-megapack3-production-brookshire-2026-08-06",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for Electrek; corroborated by Tesla Megapack's own X account (official) confirming groundbreaking-to-production timeline and 50GWh/year designed capacity",
+            "no advisory tone (no buy/sell/price target)",
+            "no hedge-to-assertion conversion — all figures (16 months groundbreaking-to-production, ~5MWh/unit, 28% more energy vs Megapack 2 XL, 78% fewer thermal connections, 23% faster installation, up to 40% lower construction cost via Megablock, 50GWh/year designed capacity) stated as reported/confirmed facts matching source, not invented comparisons",
+            "not X-sourced card itself (Electrek is primary); meme/satire check N/A",
+            "verify-error: direct WebFetch on electrek.co returned HTTP 403 (bot-blocked); verification relied on WebSearch cross-corroboration (Tesla_Megapack official X post, Benzinga, Teslarati all citing matching figures) instead of direct origin refetch",
+            "href-body match: href points to the exact Electrek article that is the raw card's original source"
           ]
         }
       ]
