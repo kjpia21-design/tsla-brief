@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-31T21:50:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-issaquah-crash-rear-severed-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "sourceLabel press correct for KATU local TV news (Sinclair affiliate), not a regulatory/official filing",
-            "no advisory tone / no price target",
-            "no hedge-to-assertion conversion beyond what police stated — 'FSD engaged' and 'crossed into oncoming lane' attributed to police investigation, matching source",
-            "core facts (rear third severed, Cadillac Escalade, Newport Way NW 500 block Issaquah WA, Wednesday, no injuries) verified via WebSearch cross-check against KOMO sister-station syndication of the same wire story (direct WebFetch to katu.com/komonews.com returned 403, verified via WebSearch summary per fail-open policy)",
-            "href matches the described story exactly",
-            "not X/meme-sourced, satire check N/A",
-            "single-source local story (KATU/KOMO share identical wire content, not independent confirmation) — confirmedBy intentionally omitted, hot kept moderate (6) rather than high"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-08-01T01:04:47.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -725,6 +704,28 @@
             "not X-sourced card itself (Electrek is primary); meme/satire check N/A",
             "verify-error: direct WebFetch on electrek.co returned HTTP 403 (bot-blocked); verification relied on WebSearch cross-corroboration (Tesla_Megapack official X post, Benzinga, Teslarati all citing matching figures) instead of direct origin refetch",
             "href-body match: href points to the exact Electrek article that is the raw card's original source"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-06T14:20:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "fsd-speeding-police-stop-2026-08-06",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press correct for Electrek reporting on an official Parker (Colorado) Police Department social-media video, not a regulatory/official Tesla filing",
+            "no advisory tone / no buy-sell recommendation / no price target",
+            "no hedge-to-assertion conversion — direct quotes ('I wasn't driving. I had auto assist on.' / 'Driver assistance technology does not replace the driver.') verified via WebSearch cross-check against the Electrek headline and excerpt (direct WebFetch to electrek.co returned 403, verified via WebSearch summary per fail-open policy)",
+            "numbers verified: 64 mph in a 45 mph zone, consistent across search snippet and article title",
+            "href matches the described story exactly (electrek.co/2026/08/06/tesla-driver-blames-fsd-speeding-police-stop/)",
+            "not X/meme-sourced — real police-shared video reported by press, satire check N/A",
+            "single-source (Electrek); confirmedBy intentionally omitted, hot kept moderate (5) rather than high",
+            "background reference to Elluswamy's Aug 4 'anti-pattern' statement is prior verified archive fact, not a new unverified claim"
           ]
         }
       ]

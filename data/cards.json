@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "29m ago",
+      "pubDate": "2026-08-06T13:56:00.000Z",
+      "title": "콜로라도 경찰 \"FSD가 대신 몰았다\" 변명 논란 — 제한 45마일 구간 <em>64마일 과속</em> 단속영상 공개",
+      "hotShort": "콜로라도서 FSD 과속 단속 — \"<em>내가 안 몰았다</em>\" 변명 논란",
+      "body": "콜로라도주 파커 경찰이 이번 주 공개한 단속 영상에서, 테슬라 운전자가 제한속도 45마일 구간에서 64마일로 달리다 적발되자 \"FSD를 쓰고 있어 내가 운전한 게 아니다\"라고 항의했다 — 경찰은 \"운전자보조 기술이 운전자를 대신하지 않는다\"며 법적 책임은 운전자에게 있다고 답했다. <em>속도 오프셋 수동설정을 없앤 FSD v14</em>의 정책이 실제 단속으로 이어진 사례라 주주도 규제·평판 리스크로 지켜볼 만하다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-speeding-police-stop-2026-08-06",
+      "summary": "콜로라도주 파커 경찰서(Parker Police Department)가 이번 주 소셜미디어에 공개한 단속 영상에는, 테슬라 운전자가 제한속도 45마일(약 72km/h) 구간에서 64마일(약 103km/h)로 주행하다 적발되는 장면이 담겼다. 운전자는 경찰에게 \"제가 운전한 게 아니다, 오토어시스트(FSD)를 켜놓고 있었다\"고 항의하며 상급자를 불러달라고 요구했다.\n\n경찰서 측은 단호했다. \"운전자보조 기술은 운전자를 대신하지 않는다\"며 \"적응형 순항제어든 차선유지든 완전자율주행(FSD)이든, 차량을 안전하게 운행할 법적 책임은 여전히 운전자에게 있다\"고 게시물에 그대로 밝혔다.\n\n이번 사건은 지난 8월4일 테슬라 AI 총괄 아쇽 엘루스와미가 \"최고속도 수동 설정은 안티패턴\"이라며 재도입 계획이 없다고 밝힌 직후 불거졌다는 점에서 시점이 공교롭다. FSD v14는 기존에 운전자가 제한속도 대비 허용 오차(오프셋)를 직접 설정하던 방식을 없애고, 슬로스·칠·스탠다드·허리·매드맥스 5단계 사전설정 모드로 바꿨는데, 스탠다드 모드에서도 제한속도를 넘겨 주행하는 사례가 오너들 사이에서 계속 보고되고 있다.\n\n테슬라의 공식 대응은 아직 없다. 다만 과속 단속 영상이 경찰 공식 계정을 통해 반복적으로 공개되면 'FSD가 운전자 책임을 대신한다'는 오해가 계속 확산될 수 있고, 이는 규제당국의 안전성 심사에도 부담으로 작용할 수 있다는 우려가 나온다.",
+      "title_en": "Colorado police release video after Tesla driver blames <em>FSD for the speeding</em> — \"still your responsibility\"",
+      "hotShort_en": "Colorado video: driver blames <em>FSD for speeding</em>",
+      "body_en": "A Parker, Colorado police video released this week shows a Tesla driver pulled over for going 64 mph in a 45 mph zone insisting \"I wasn't driving — I had auto-assist on.\" The department replied bluntly that driver-assist tech <em>\"does not replace the driver,\"</em> and that legal responsibility stays with the person behind the wheel — a real-world consequence of FSD v14 dropping its adjustable speed offset for fixed presets, worth watching as a regulatory and reputational risk.",
+      "summary_en": "This week, the Parker Police Department in Colorado posted video of a traffic stop in which a Tesla driver was clocked going 64 mph (about 103 km/h) in a 45 mph (about 72 km/h) zone. The driver protested that they weren't the one driving — \"I had auto-assist on\" — and demanded a supervisor be called to the scene.\n\nThe department's response was blunt. \"Driver assistance technology does not replace the driver,\" it said in the post accompanying the video, adding that \"whether your vehicle has adaptive cruise control, lane centering, or full self-driving, you are still legally responsible for operating your vehicle safely.\"\n\nThe timing is notable: the stop surfaced just two days after Tesla AI lead Ashok Elluswamy said on August 4 that letting drivers manually set a speed offset above the limit was an \"anti-pattern\" the company won't bring back. FSD v14 replaced that adjustable offset with five fixed presets — Sloth, Chill, Standard, Hurry, and Mad Max — and owners have continued to report the car driving over the posted limit even in Standard mode.\n\nTesla hasn't issued an official response to the incident. But as more police-recorded stops like this circulate publicly, the perception that FSD can take legal responsibility off the driver's hands may keep spreading — a narrative that could add pressure on regulators already scrutinizing the system's safety record.",
+      "href": "https://electrek.co/2026/08/06/tesla-driver-blames-fsd-speeding-police-stop/",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2h ago",
@@ -177,34 +197,7 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
-      "pubDate": "2026-08-05T10:55:04.000Z",
-      "title": "우버, 2분기 실적서 로보택시 <em>100억달러 이상 투자 재확인</em> — 2028년까지 28개 도시",
-      "hotShort": "우버, 로보택시에 <em>100억달러 이상</em> 베팅 재확인",
-      "body": "우버가 2분기 실적 발표에서 로보택시 사업에 <em>100억달러 이상</em>(차량 매입 75억달러+AV 파트너 지분투자 25억달러)을 투입해 2026년 말 15개 도시·2028년 28개 도시로 확장하겠다고 재확인 — 사이버캡을 준비 중인 테슬라에 자본력을 앞세운 직접 경쟁압박이 커지는 신호.",
-      "sourceName": "Financial Times",
-      "sourceLabel": "press",
-      "slug": "fsd-uber-10b-robotaxi-commitment-2026-08-05",
-      "summary": "우버가 8월5일 공개한 2분기 실적에서 로보택시 사업에 100억달러 이상을 투입하겠다는 기존 계획을 재확인했다. 총 투자액 중 약 75억달러는 자율주행 차량 매입에, 약 25억달러는 AV(자율주행) 파트너사 지분투자에 배정되며, 지분투자는 배치 목표(deployment milestone) 달성과 연동된다.\n\n확장 목표는 2026년 말까지 최소 15개 도시, 2028년까지 28개 도시로 로보택시 서비스를 넓히는 것이다. 우버는 웨이모(알파벳)·Baidu·Rivian·Lucid 등 10여 곳의 자율주행 파트너와 협력 중이며, 2029년까지 세계 최대 자율주행 승차 서비스 사업자가 되겠다는 목표도 제시했다.\n\n다만 초기 핵심 파트너였던 웨이모와의 관계는 변화를 앞두고 있다. 양사는 애틀랜타·오스틴(텍사스)에서의 독점 파트너십을 2028년 초 종료하기로 합의했다고 밝혔다 — 웨이모가 우버 플랫폼에 대한 의존도를 낮추려는 신호로 읽힌다.\n\n이번 재확인은 2분기 실적 자체는 예상을 웃돌았지만(총예약액 전년比 24%↑ 580억2,000만달러, 월드컵 특수 반영) 3분기 가이던스가 컨센서스를 소폭 하회하며 주가가 4.8% 하락한 가운데 나왔다. 테슬라 입장에서는 사이버캡으로 준비 중인 로보택시 시장에 우버가 대규모 자본을 앞세워 속도를 내는 모습이라, 규제 승인·양산 속도 경쟁이 한층 치열해질 전망이다.",
-      "title_en": "Uber reaffirms <em>$10B+ robotaxi investment</em> in Q2 earnings — targets 28 cities by 2028",
-      "hotShort_en": "Uber reaffirms <em>$10B+ robotaxi</em> bet",
-      "body_en": "Uber's Q2 earnings reaffirmed its plan to invest <em>more than $10 billion</em> in robotaxis — about $7.5B for vehicle purchases and $2.5B in equity stakes in AV partners — aiming for 15 cities by the end of 2026 and 28 by 2028, ramping up capital-backed competition against Tesla's still-unlaunched Cybercab.",
-      "summary_en": "Uber's August 5 second-quarter earnings reaffirmed its existing plan to spend more than $10 billion on robotaxis. Roughly $7.5 billion is earmarked for purchasing autonomous vehicles outright, while about $2.5 billion goes toward equity stakes in AV partners, with those investments tied to deployment milestones.\n\nThe expansion goal is to launch robotaxi service in at least 15 cities by the end of 2026 and scale to 28 cities by 2028. Uber is working with more than a dozen AV partners, including Alphabet's Waymo, Baidu, Rivian, and Lucid, and has set a longer-term goal of becoming the world's largest autonomous-ride provider by 2029.\n\nIts relationship with early partner Waymo is shifting, though. The two companies said their exclusivity arrangement in Atlanta and Austin, Texas will end by early 2028 — a sign Waymo is looking to reduce its reliance on Uber's platform in those markets.\n\nThe reaffirmed robotaxi commitment came alongside otherwise solid Q2 results — gross bookings rose 24% year-over-year to $58.02 billion, boosted by World Cup travel demand — but shares fell 4.8% after Uber's third-quarter guidance came in slightly below consensus. For Tesla, the news signals that Uber is throwing significant capital behind robotaxis just as Tesla works to scale its own Cybercab, intensifying the race on both regulatory approval and production ramp.",
-      "href": "https://www.ft.com/content/04d6fcb4-03e4-4ee5-9017-ccaa7808c934?syn-25a6b1a6",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Financial Times",
-        "CNBC",
-        "Yahoo Finance",
-        "MarketScreener"
-      ],
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
-  "asOf": "2026-08-06 21:10 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-06 23:20 KST 자동 갱신 · 최신순"
 }

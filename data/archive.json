@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "29m ago",
+      "pubDate": "2026-08-06T13:56:00.000Z",
+      "title": "콜로라도 경찰 \"FSD가 대신 몰았다\" 변명 논란 — 제한 45마일 구간 <em>64마일 과속</em> 단속영상 공개",
+      "hotShort": "콜로라도서 FSD 과속 단속 — \"<em>내가 안 몰았다</em>\" 변명 논란",
+      "body": "콜로라도주 파커 경찰이 이번 주 공개한 단속 영상에서, 테슬라 운전자가 제한속도 45마일 구간에서 64마일로 달리다 적발되자 \"FSD를 쓰고 있어 내가 운전한 게 아니다\"라고 항의했다 — 경찰은 \"운전자보조 기술이 운전자를 대신하지 않는다\"며 법적 책임은 운전자에게 있다고 답했다. <em>속도 오프셋 수동설정을 없앤 FSD v14</em>의 정책이 실제 단속으로 이어진 사례라 주주도 규제·평판 리스크로 지켜볼 만하다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "fsd-speeding-police-stop-2026-08-06",
+      "summary": "콜로라도주 파커 경찰서(Parker Police Department)가 이번 주 소셜미디어에 공개한 단속 영상에는, 테슬라 운전자가 제한속도 45마일(약 72km/h) 구간에서 64마일(약 103km/h)로 주행하다 적발되는 장면이 담겼다. 운전자는 경찰에게 \"제가 운전한 게 아니다, 오토어시스트(FSD)를 켜놓고 있었다\"고 항의하며 상급자를 불러달라고 요구했다.\n\n경찰서 측은 단호했다. \"운전자보조 기술은 운전자를 대신하지 않는다\"며 \"적응형 순항제어든 차선유지든 완전자율주행(FSD)이든, 차량을 안전하게 운행할 법적 책임은 여전히 운전자에게 있다\"고 게시물에 그대로 밝혔다.\n\n이번 사건은 지난 8월4일 테슬라 AI 총괄 아쇽 엘루스와미가 \"최고속도 수동 설정은 안티패턴\"이라며 재도입 계획이 없다고 밝힌 직후 불거졌다는 점에서 시점이 공교롭다. FSD v14는 기존에 운전자가 제한속도 대비 허용 오차(오프셋)를 직접 설정하던 방식을 없애고, 슬로스·칠·스탠다드·허리·매드맥스 5단계 사전설정 모드로 바꿨는데, 스탠다드 모드에서도 제한속도를 넘겨 주행하는 사례가 오너들 사이에서 계속 보고되고 있다.\n\n테슬라의 공식 대응은 아직 없다. 다만 과속 단속 영상이 경찰 공식 계정을 통해 반복적으로 공개되면 'FSD가 운전자 책임을 대신한다'는 오해가 계속 확산될 수 있고, 이는 규제당국의 안전성 심사에도 부담으로 작용할 수 있다는 우려가 나온다.",
+      "title_en": "Colorado police release video after Tesla driver blames <em>FSD for the speeding</em> — \"still your responsibility\"",
+      "hotShort_en": "Colorado video: driver blames <em>FSD for speeding</em>",
+      "body_en": "A Parker, Colorado police video released this week shows a Tesla driver pulled over for going 64 mph in a 45 mph zone insisting \"I wasn't driving — I had auto-assist on.\" The department replied bluntly that driver-assist tech <em>\"does not replace the driver,\"</em> and that legal responsibility stays with the person behind the wheel — a real-world consequence of FSD v14 dropping its adjustable speed offset for fixed presets, worth watching as a regulatory and reputational risk.",
+      "summary_en": "This week, the Parker Police Department in Colorado posted video of a traffic stop in which a Tesla driver was clocked going 64 mph (about 103 km/h) in a 45 mph (about 72 km/h) zone. The driver protested that they weren't the one driving — \"I had auto-assist on\" — and demanded a supervisor be called to the scene.\n\nThe department's response was blunt. \"Driver assistance technology does not replace the driver,\" it said in the post accompanying the video, adding that \"whether your vehicle has adaptive cruise control, lane centering, or full self-driving, you are still legally responsible for operating your vehicle safely.\"\n\nThe timing is notable: the stop surfaced just two days after Tesla AI lead Ashok Elluswamy said on August 4 that letting drivers manually set a speed offset above the limit was an \"anti-pattern\" the company won't bring back. FSD v14 replaced that adjustable offset with five fixed presets — Sloth, Chill, Standard, Hurry, and Mad Max — and owners have continued to report the car driving over the posted limit even in Standard mode.\n\nTesla hasn't issued an official response to the incident. But as more police-recorded stops like this circulate publicly, the perception that FSD can take legal responsibility off the driver's hands may keep spreading — a narrative that could add pressure on regulators already scrutinizing the system's safety record.",
+      "href": "https://electrek.co/2026/08/06/tesla-driver-blames-fsd-speeding-police-stop/",
+      "sentiment": "bear",
+      "hot": 5
+    },
+    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "2h ago",
@@ -2345,27 +2365,7 @@
       ],
       "sentiment": "bull",
       "hot": 5
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-07-24T09:52:00.000Z",
-      "title": "머스크 순자산, SpaceX 상장 정점 대비 5주 만에 <em>최대 $700B 증발</em>",
-      "hotShort": "머스크 순자산 5주새 <em>최대 $700B 증발</em>",
-      "body": "SpaceX 상장 직후인 6월16일 약 $1.45조로 정점을 찍었던 머스크의 순자산이 7월23일 종가 기준 블룸버그 억만장자지수로 $738B — 5주 만에 최대 $700B가 증발했다. 테슬라·스페이스X 지분가치 동반 조정이 직접 원인으로, 그의 재산 대부분이 두 회사 주가에 묶여 있다는 뜻이기도 하다.",
-      "sourceName": "Bloomberg Billionaires Index",
-      "sourceLabel": "press",
-      "slug": "musk-net-worth-650b-5week-drop-2026-07-24",
-      "summary": "6월12일 스페이스X가 사상 최대 규모로 상장한 뒤 사흘 만인 6월16일, 스페이스X 시가총액은 사상 최고치인 $2.64조까지 치솟았고 머스크의 지분 평가액도 약 $1.45조로 정점을 찍었다.\n\n이후 상황은 반전됐다. 테슬라는 7월22일 발표한 2분기 실적이 AI 투자 확대 여파로 컨센서스를 하회하며 이튿날 주가가 급락했고(다른 카드에서 다룬 공매도 $4B 수익·목표주가 하향 참고), 스페이스X 역시 상장 직후 형성됐던 고평가가 이후 눈높이 조정을 받았다.\n\n그 결과 블룸버그 억만장자지수 기준 머스크의 순자산은 7월23일 종가 기준 $738B로, 정점 대비 $650B~700B가 사라졌다. 다만 연초 대비로는 오히려 +$118B 늘어난 수치이기도 하다 — 이번 하락은 6월 한때 형성됐던 일시적 고점이 꺼진 것에 가깝다.\n\n주주 입장에서 이 수치 자체가 테슬라 펀더멘털을 바꾸진 않지만, 머스크의 부(富)가 테슬라·스페이스X 두 회사 지분에 거의 전부 묶여 있다는 구조를 보여준다 — 그는 테슬라 지분 약 11%를 보유 중이며, 이번 손실도 장부상 평가액일 뿐 지분을 매도한 것은 아니다. 여전히 세계 1위 부호 자리는 2위와 $650B 격차로 유지하고 있다.",
-      "title_en": "Musk's net worth <em>plunges up to $700B</em> in 5 weeks from SpaceX-IPO peak",
-      "hotShort_en": "Musk net worth <em>down as much as $700B</em> in 5 weeks",
-      "body_en": "Musk's paper fortune peaked near $1.45T on June 16, days after SpaceX's record-setting IPO, but had fallen to $738B by the July 23 close per the Bloomberg Billionaires Index — a swing of up to $700B in five weeks. The drop tracks a joint pullback in Tesla and SpaceX valuations, underscoring how concentrated his wealth is in the two companies' shares.",
-      "summary_en": "Three days after SpaceX's record IPO on June 12, the company's market cap hit an all-time high of $2.64T on June 16, and Musk's paper wealth peaked near $1.45T alongside it.\n\nThe reversal came fast. Tesla's Q2 earnings, released July 22, missed consensus as AI spending weighed on margins, and shares tumbled the next day (see the $4B short-seller windfall and analyst price-target cuts covered elsewhere in this briefing). SpaceX's post-IPO valuation has also cooled from its initial highs.\n\nAs a result, the Bloomberg Billionaires Index pegged Musk's net worth at $738B at the July 23 close — down $650B to $700B from the peak. Year-to-date, though, he's still up $118B; the swing looks more like a brief June spike deflating than a new decline.\n\nThe number itself doesn't change Tesla's fundamentals, but it does illustrate how much of Musk's wealth rides on just two stocks — he holds roughly an 11% Tesla stake, and this is a mark-to-market paper loss, not a sale of shares. He remains the world's richest person by a wide margin, about $650B ahead of second place.",
-      "href": "https://www.bloomberg.com/billionaires/profiles/elon-r-musk/",
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-08-06 15:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-06 23:20 KST 자동 갱신 · 최신순"
 }
