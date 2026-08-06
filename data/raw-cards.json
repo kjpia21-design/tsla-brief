@@ -1,23 +1,62 @@
 {
-  "asOf": "2026-08-06 06:35 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-06 10:44 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "29m ago",
-      "pubDate": "2026-08-06T06:06:26.000Z",
-      "title": "Space finally faced the people living next to its next Terafab mega-project",
-      "body": "SpaceX confirmed Terafab's Grimes County site is locked in, with construction starting within months. The post Space finally faced the people living next to its next Terafab mega-project appeared first on TESLARATI.",
-      "sourceName": "www.teslarati.com",
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "15m ago",
+      "pubDate": "2026-08-06T10:29:33.000Z",
+      "title": "Tesla promises more data center battery sales in latest earnings call",
+      "body": "Tesla promises more data center battery sales in latest earnings call Data Center Dynamics",
+      "sourceName": "Data Center Dynamics",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.teslarati.com/space-finally-faced-the-people-living-next-to-its-next-terafab-mega-project/"
+      "href": "https://www.datacenterdynamics.com/en/news/tesla-promises-more-data-center-battery-sales-in-latest-earnings-call/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "40m ago",
+      "pubDate": "2026-08-06T10:04:31.000Z",
+      "title": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret",
+      "body": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/legal/litigation/pressured-by-tesla-european-regulators-keep-full-self-driving-safety-data-secret-2026-08-06/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "47m ago",
+      "pubDate": "2026-08-06T09:57:51.000Z",
+      "title": "Elon Musk Thinks Key Starship Rocket Problem Is Fixed",
+      "body": "Elon Musk Thinks Key Starship Rocket Problem Is Fixed Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/newsletters/2026-08-05/musk-in-first-spacex-earnings-call-says-major-starship-problem-is-solved"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
       "time": "2h ago",
+      "pubDate": "2026-08-06T09:06:00.000Z",
+      "title": "Will Tesla Stock Price Today Go Up or Down? | TSLA Stock Price News, Pre-Market & Live Updates for August 6, 2026",
+      "body": "Will Tesla Stock Price Today Go Up or Down? | TSLA Stock Price News, Pre-Market & Live Updates for August 6, 2026 Action Network",
+      "sourceName": "Action Network",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.actionnetwork.com/news/will-tesla-stock-price-today-go-up-or-down-tsla-stock-price-news-pre-market-live-updates-for-august-6-2026"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
       "pubDate": "2026-08-06T05:00:00.000Z",
       "title": "SpaceX Won’t Destroy Telecom—It Will Just Reinvent It",
       "body": "SpaceX Won’t Destroy Telecom—It Will Just Reinvent It Barron's",
@@ -30,11 +69,11 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-06T04:39:00.000Z",
       "title": "Musk, Money and Mars",
-      "body": "Musk, Money and Mars The New York Times",
-      "sourceName": "The New York Times",
+      "body": "Musk, Money and Mars nytimes.com",
+      "sourceName": "nytimes.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -43,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "9h ago",
       "pubDate": "2026-08-06T01:21:00.000Z",
       "title": "CNBC Daily Open: Iran, Oman in talks on Hormuz; SpaceX is loyal to Nvidia on AI",
       "body": "CNBC Daily Open: Iran, Oman in talks on Hormuz; SpaceX is loyal to Nvidia on AI CNBC",
@@ -56,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "12h ago",
       "pubDate": "2026-08-05T23:07:43.000Z",
       "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
       "body": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq Reuters",
@@ -69,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "14h ago",
       "pubDate": "2026-08-05T20:45:27.000Z",
       "title": "Tesla Megapacks power Ørsted’s big new Texas grid battery",
       "body": "Tesla Megapacks are now helping support the Texas grid at Ørsted’s new 250 MW/500 MWh Old 300 battery storage project.",
@@ -82,7 +121,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "15h ago",
       "pubDate": "2026-08-05T19:56:00.000Z",
       "title": "Some Owners Say Tesla's New FSD Update Is Causing Their Cars' Computers To Overheat",
       "body": "Some Owners Say Tesla's New FSD Update Is Causing Their Cars' Computers To Overheat InsideEVs",
@@ -95,7 +134,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "20h ago",
       "pubDate": "2026-08-05T15:09:21.000Z",
       "title": "Amazon's Zoox to start paid robotaxi rides in Vegas next week",
       "body": "Amazon's Zoox to start paid robotaxi rides in Vegas next week Reuters",
@@ -108,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "20h ago",
       "pubDate": "2026-08-05T15:04:39.000Z",
       "title": "Tesla is suing this Canadian province for cutting it out of its EV incentives",
       "body": "Tesla is suing the Canadian province of Manitoba for cutting the automaker out of its electric vehicle rebate program, and the fight has now reached a courtroom. The province is asking Manitoba’s Court of King’s Bench to…",
@@ -121,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "20h ago",
+      "time": "1d ago",
       "pubDate": "2026-08-05T10:55:04.000Z",
       "title": "Uber pledges $10bn to win robotaxi race",
       "body": "Uber pledges $10bn to win robotaxi race Financial Times",
@@ -221,45 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/tesla-new-car-sales-italy-down-77-year-on-year-july-2026-08-03/"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "5d ago",
-      "pubDate": "2026-08-01T00:21:57.000Z",
-      "title": "EXCLUSIVE: Amazon's Zoox wins first US approval for paid robotaxis without human controls",
-      "body": "EXCLUSIVE: Amazon's Zoox wins first US approval for paid robotaxis without human controls Reuters",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.reuters.com/world/amazons-zoox-wins-first-us-approval-paid-robotaxis-with-no-human-controls-2026-07-30/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "415d ago",
-      "pubDate": "2025-06-17T07:00:00.000Z",
-      "title": "Tesla stock slips after report EV maker is pausing Cybertruck and Model Y production",
-      "body": "Tesla stock slips after report EV maker is pausing Cybertruck and Model Y production CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/2025/06/17/tesla-stock-cybertruck-model-y.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1010d ago",
-      "pubDate": "2023-10-31T12:23:01.000Z",
-      "title": "Check out AAPL.O, MSFT.O, AMZN.O, GOOGL.O, TSLA.O's stock price (AAPL,MSFT,AMZN,GOOGL,TSLA) in real time",
-      "body": "Check out AAPL.O, MSFT.O, AMZN.O, GOOGL.O, TSLA.O's stock price (AAPL,MSFT,AMZN,GOOGL,TSLA) in real time CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/quotes/AAPL,MSFT,AMZN,GOOGL,TSLA"
     }
   ]
 }
