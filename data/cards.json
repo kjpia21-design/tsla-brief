@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-08-06T10:04:31.000Z",
+      "title": "로이터 \"테슬라 압박에 네덜란드 규제당국, FSD 안전 근거자료 <em>비공개 유지</em>\"",
+      "hotShort": "테슬라 압박, 네덜란드 FSD자료 <em>비공개</em> 유지",
+      "body": "로이터가 입수한 비공개 이메일에 따르면 테슬라가 2024년 말부터 네덜란드 차량규제기관 RDW에 FSD 안전성 검토 문서를 <em>비공개로 유지해달라</em>고 요청해온 사실이 드러났다 — RDW는 지난 4월10일 FSD(Supervised)를 EU 최초로 승인하고도, 안전 판단 근거를 대중에 공개하지 않고 있다. RDW가 이 승인을 발판으로 EU 전역 인증을 대신 추진 중이라, 근거자료 비공개가 계속되면 FSD의 유럽 확장 신뢰도에 부담이 될 수 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-rdw-secrecy-pressure-2026-08-06",
+      "summary": "네덜란드 차량규제기관 RDW는 지난 4월10일 테슬라의 FSD(Supervised)를 EU 최초로 승인했다 — UN 규정 171(운전자보조시스템 EU 기준)에 따라, 18개월간의 테스트와 유럽 도로 160만km 주행 데이터, 400여 개 개별 요건 심사를 거친 결과라고 밝혔다. RDW는 이후 이 승인을 근거로 EU 전역 인증까지 테슬라를 대신해 추진하고 있다.\n\n그런데 로이터가 정보공개청구로 입수한, 그동안 공개되지 않았던 이메일에 따르면 테슬라는 2024년 말부터 RDW에 FSD 안전성 검토 관련 문서를 비공개로 유지해달라고 요청해왔다. RDW는 왜 FSD가 안전하다고 결론 내렸는지, 어떤 방식으로 시스템을 평가했는지 근거 자료를 대중에 공개하지 않고 있으며, 그 이유로 '테슬라의 영업비밀 침해'를 들었다.\n\nRDW는 로이터에 테슬라의 요청에 따라 정보를 감춘 것은 아니며, 영업비밀 보호 여부는 자체적으로 판단한다고 해명했다. 다만 RDW가 테슬라 측에 보낸 이메일에는 \"제조사는 언제든 특정 정보 공개 면제를 요청할 수 있다\"는 취지의 안내가 담겨 있었던 사실도 함께 드러났다.\n\n이번 보도는 지난 6월 로이터가 테슬라가 스웨덴·네덜란드 규제당국에 \"인간 운전자보다 최대 10배 안전하다\"는 식의 통계를 제시했으나, 독립 교통안전 연구자들이 그 비교 방식을 통계적으로 무효하다고 지적했다고 보도한 데 이은 후속 취재다. RDW가 이 승인을 근거로 EU 전역 확산을 이끌고 있는 만큼, 근거 자료 비공개가 계속되면 FSD의 유럽 시장 신뢰도와 규제 승인 속도에 부담이 될 수 있다는 우려가 나온다.",
+      "title_en": "Reuters: Tesla pressed Dutch regulator to keep FSD <em>safety data secret</em>",
+      "hotShort_en": "Tesla pressed EU regulator to <em>hide FSD data</em>",
+      "body_en": "Previously unreported emails obtained by Reuters show Tesla has pressed Dutch regulator RDW since late 2024 to keep documentation of its FSD safety review <em>secret</em> — even though RDW approved FSD (Supervised) on April 10, becoming the first EU country to do so, it still won't disclose the basis for that safety finding. RDW is now leading Tesla's push for EU-wide approval, so continued secrecy could weigh on FSD's credibility as it expands across Europe.",
+      "summary_en": "The Dutch vehicle authority RDW approved Tesla's Full Self-Driving (Supervised) on April 10, becoming the first EU country to authorize the system under UN Regulation 171 — following 18 months of testing, 1.6 million kilometers of European road data, and more than 400 individual compliance checks. RDW has since been pushing for EU-wide approval on Tesla's behalf.\n\nBut previously unreported email correspondence obtained by Reuters through a public-records request shows Tesla has pressed RDW since late 2024 to keep documentation of the FSD safety review secret. RDW won't disclose why it concluded the system is safe or how it evaluated the technology, citing violations of Tesla's commercial secrets.\n\nRDW told Reuters it hasn't withheld information at Tesla's request, saying it makes its own decisions about protecting trade secrets. Even so, emails RDW sent Tesla show the regulator advised that manufacturers always have the option to request an exemption from disclosing certain information.\n\nThe report follows a June Reuters investigation that found Tesla presented Swedish and Dutch regulators with FSD safety statistics — including a claim the system is up to 10 times safer than human drivers — that independent traffic-safety researchers called methodologically invalid. With RDW now leading Tesla's push for EU-wide approval, continued secrecy around its evidence could weigh on FSD's credibility and approval timeline across Europe.",
+      "href": "https://www.reuters.com/legal/litigation/pressured-by-tesla-european-regulators-keep-full-self-driving-safety-data-secret-2026-08-06/",
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "29m ago",
@@ -105,33 +125,6 @@
       "hot": 6
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
-      "pubDate": "2026-08-05T15:04:39.000Z",
-      "title": "테슬라, 매니토바 EV 리베이트 배제 소송 — 주정부, 본안 전 <em>소송 기각 신청</em>",
-      "hotShort": "매니토바주, 테슬라 소송 <em>기각 신청</em>으로 맞대응",
-      "body": "테슬라가 EV 구매 리베이트 프로그램에서 배제된 데 반발해 제기한 사법심사 소송에서, 매니토바주 정부와 주정부 보험공사(MPI)가 본안 심리도 열리기 전에 <em>소송 자체를 기각해달라</em>고 법원에 신청 — 법정 공방이 절차 다툼 단계로 넘어갔다. 소송이 기각되면 '정치적 이유로 특정 브랜드를 지원책에서 배제'하는 선례가 다른 주로 번질 위험이 있어 테슬라로선 놓칠 수 없는 다툼이다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-manitoba-dismissal-motion-2026-08-05",
-      "summary": "매니토바주는 2024년 도입한 전기차 리베이트 프로그램(최대 4,000달러, 2023년 8월까지 소급 적용)에서 2025년 3월 테슬라 차량을 제외했고, 2026년 3월에는 그 배제를 한 해 더 연장하는 결정을 내렸다. 테슬라는 그 근거를 공식 설명받지 못했고 사전에 의견 제출 기회도 없었다고 주장하며 5월29일 매니토바 킹스벤치 법원에 사법심사를 신청했다.\n\n테슬라 측은 신청서에서 배제 결정이 '절차적으로 불공정하고 부적절한 목적으로 이뤄졌다'고 주장하며, 캐나다 기업의 특정 사업 활동을 '의도적으로 개별 표적 삼았다'고 지적했다. 언론 보도를 통해 이 결정이 미국 관세에 대한 매니토바의 '엘보업(elbows up)' 대응, 그리고 일론 머스크와 도널드 트럼프 미 대통령을 둘러싼 정치적 긴장과 맞물려 있었다는 사실을 알게 됐다고도 밝혔다.\n\n이에 매니토바주 정부와 주정부 보험공사(MPI)는 본안 심리가 열리기도 전에 소송 자체를 기각해달라고 법원에 신청했다. 배제 결정이 법률이 아닌 정책적 판단이라 사법심사 대상이 아니라는 관할권 논리와, 테슬라가 제소 기한을 넘겼다는 절차적 논리를 함께 내세웠다.\n\n테슬라는 배제로 인해 2025년 3월 이후 자격을 잃은 매니토바 구매자들이 누적 최소 56만달러의 리베이트 손실을 입었다고 주장하며, 법원에 배제 결정 취소·관련 웹사이트 게시물 14일 내 삭제·해당 기간 구매 차량의 소급 자격 인정을 요구하고 있다. 이번 사안은 캐나다에서 주(州) 단위 EV 지원책이 특정 브랜드를 배제한 첫 사례로 꼽혀, 소송 결과에 따라 다른 주의 정책에도 영향을 줄 수 있어 주목된다.",
-      "title_en": "Tesla's Manitoba EV rebate lawsuit — province moves to <em>dismiss the case</em> before trial",
-      "hotShort_en": "Manitoba seeks to <em>dismiss</em> Tesla's rebate suit",
-      "body_en": "In Tesla's judicial-review lawsuit over being excluded from Manitoba's EV rebate program, the provincial government and Manitoba Public Insurance have asked the court to <em>dismiss the case outright</em> before any hearing on the merits — arguing the exclusion was a policy matter outside judicial review and that Tesla missed its filing deadline. It's the first known case of a Canadian province excluding a specific automaker from an EV incentive program, so the outcome could set a precedent other provinces watch.",
-      "summary_en": "Manitoba introduced its EV rebate program in 2024 — up to $4,000 CAD per vehicle, retroactive to August 2023 — but excluded Tesla vehicles starting with a March 2025 decision, then extended that exclusion for another year in March 2026. Tesla says it received no formal explanation and wasn't given a chance to make submissions before either decision, and filed for judicial review at Manitoba's Court of King's Bench on May 29.\n\nIn its filing, Tesla argues the exclusion was \"procedurally unfair and undertaken for an improper purpose,\" alleging the province \"deliberately and individually targeted\" a Canadian corporation's business activities. Tesla says it learned through media reports that the decision was tied to Manitoba's \"elbows up\" response to U.S. tariffs and the broader political tension surrounding Elon Musk and President Trump.\n\nIn response, the Manitoba government and Manitoba Public Insurance have asked the court to dismiss the case before it reaches a hearing on the merits — arguing the exclusion was a policy decision outside the court's jurisdiction to review, and separately that Tesla missed the deadline to file its challenge.\n\nTesla says the exclusion has cost Manitobans who bought qualifying vehicles since March 2025 at least $560,000 in cumulative lost rebates, and is asking the court to set aside the exclusion, order the removal of related website references within 14 days, and confirm retroactive eligibility for affected purchases. The case is notable as an apparent first: a Canadian province excluding a specific automaker from a provincial EV incentive program — a precedent other provinces may watch closely.",
-      "href": "https://electrek.co/2026/08/05/tesla-sues-manitoba-ev-rebate-ban/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Electrek",
-        "Automotive News",
-        "Drive Tesla Canada",
-        "CBC News"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "9h ago",
@@ -212,5 +205,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-08-06 15:30 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-06 19:30 KST 자동 갱신 · 최신순"
 }
