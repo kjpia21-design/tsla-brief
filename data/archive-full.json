@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-08-06 10:44 UTC · 누적 769건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-08-06 14:25 UTC · 누적 770건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-08-06T10:04:31.000Z",
+      "title": "로이터 \"테슬라 압박에 네덜란드 규제당국, FSD 안전 근거자료 <em>비공개 유지</em>\"",
+      "hotShort": "테슬라 압박, 네덜란드 FSD자료 <em>비공개</em> 유지",
+      "body": "로이터가 입수한 비공개 이메일에 따르면 테슬라가 2024년 말부터 네덜란드 차량규제기관 RDW에 FSD 안전성 검토 문서를 <em>비공개로 유지해달라</em>고 요청해온 사실이 드러났다 — RDW는 지난 4월10일 FSD(Supervised)를 EU 최초로 승인하고도, 안전 판단 근거를 대중에 공개하지 않고 있다. RDW가 이 승인을 발판으로 EU 전역 인증을 대신 추진 중이라, 근거자료 비공개가 계속되면 FSD의 유럽 확장 신뢰도에 부담이 될 수 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "fsd-rdw-secrecy-pressure-2026-08-06",
+      "summary": "네덜란드 차량규제기관 RDW는 지난 4월10일 테슬라의 FSD(Supervised)를 EU 최초로 승인했다 — UN 규정 171(운전자보조시스템 EU 기준)에 따라, 18개월간의 테스트와 유럽 도로 160만km 주행 데이터, 400여 개 개별 요건 심사를 거친 결과라고 밝혔다. RDW는 이후 이 승인을 근거로 EU 전역 인증까지 테슬라를 대신해 추진하고 있다.\n\n그런데 로이터가 정보공개청구로 입수한, 그동안 공개되지 않았던 이메일에 따르면 테슬라는 2024년 말부터 RDW에 FSD 안전성 검토 관련 문서를 비공개로 유지해달라고 요청해왔다. RDW는 왜 FSD가 안전하다고 결론 내렸는지, 어떤 방식으로 시스템을 평가했는지 근거 자료를 대중에 공개하지 않고 있으며, 그 이유로 '테슬라의 영업비밀 침해'를 들었다.\n\nRDW는 로이터에 테슬라의 요청에 따라 정보를 감춘 것은 아니며, 영업비밀 보호 여부는 자체적으로 판단한다고 해명했다. 다만 RDW가 테슬라 측에 보낸 이메일에는 \"제조사는 언제든 특정 정보 공개 면제를 요청할 수 있다\"는 취지의 안내가 담겨 있었던 사실도 함께 드러났다.\n\n이번 보도는 지난 6월 로이터가 테슬라가 스웨덴·네덜란드 규제당국에 \"인간 운전자보다 최대 10배 안전하다\"는 식의 통계를 제시했으나, 독립 교통안전 연구자들이 그 비교 방식을 통계적으로 무효하다고 지적했다고 보도한 데 이은 후속 취재다. RDW가 이 승인을 근거로 EU 전역 확산을 이끌고 있는 만큼, 근거 자료 비공개가 계속되면 FSD의 유럽 시장 신뢰도와 규제 승인 속도에 부담이 될 수 있다는 우려가 나온다.",
+      "title_en": "Reuters: Tesla pressed Dutch regulator to keep FSD <em>safety data secret</em>",
+      "hotShort_en": "Tesla pressed EU regulator to <em>hide FSD data</em>",
+      "body_en": "Previously unreported emails obtained by Reuters show Tesla has pressed Dutch regulator RDW since late 2024 to keep documentation of its FSD safety review <em>secret</em> — even though RDW approved FSD (Supervised) on April 10, becoming the first EU country to do so, it still won't disclose the basis for that safety finding. RDW is now leading Tesla's push for EU-wide approval, so continued secrecy could weigh on FSD's credibility as it expands across Europe.",
+      "summary_en": "The Dutch vehicle authority RDW approved Tesla's Full Self-Driving (Supervised) on April 10, becoming the first EU country to authorize the system under UN Regulation 171 — following 18 months of testing, 1.6 million kilometers of European road data, and more than 400 individual compliance checks. RDW has since been pushing for EU-wide approval on Tesla's behalf.\n\nBut previously unreported email correspondence obtained by Reuters through a public-records request shows Tesla has pressed RDW since late 2024 to keep documentation of the FSD safety review secret. RDW won't disclose why it concluded the system is safe or how it evaluated the technology, citing violations of Tesla's commercial secrets.\n\nRDW told Reuters it hasn't withheld information at Tesla's request, saying it makes its own decisions about protecting trade secrets. Even so, emails RDW sent Tesla show the regulator advised that manufacturers always have the option to request an exemption from disclosing certain information.\n\nThe report follows a June Reuters investigation that found Tesla presented Swedish and Dutch regulators with FSD safety statistics — including a claim the system is up to 10 times safer than human drivers — that independent traffic-safety researchers called methodologically invalid. With RDW now leading Tesla's push for EU-wide approval, continued secrecy around its evidence could weigh on FSD's credibility and approval timeline across Europe.",
+      "href": "https://www.reuters.com/legal/litigation/pressured-by-tesla-european-regulators-keep-full-self-driving-safety-data-secret-2026-08-06/",
+      "sentiment": "bear",
+      "hot": 6
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
