@@ -3,6 +3,33 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "16h ago",
+      "pubDate": "2026-08-05T22:05:29.000Z",
+      "title": "스페이스X 주가 <em>12%대 급락</em> — AI 데이터센터 투자 부담 우려 확산",
+      "hotShort": "스페이스X, AI투자 부담에 <em>12%대 급락</em>",
+      "body": "스페이스X 주가가 8월5일(현지시간) 전일 대비 약 12% 급락, 상장가($135)를 다시 밑도는 수준까지 밀렸다 — 2분기 매출은 전년比 92% 급증했지만 AI 관련 설비투자만 $15.8B(전체 설비투자 $18.4B)에 달해, 스타링크 흑자로 이 지출 속도를 계속 감당할 수 있을지가 투자자 우려의 핵심. 8월6일 예정된 1,016억달러 규모 락업 해제까지 겹치며 추가 변동성 우려가 커졌다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-101b-share-unlock-2026-08-05",
+      "summary": "블룸버그가 8월6일 락업 해제 임박을 짚은 지 하루 만에, 로이터는 실제 주가 흐름을 확인했다 — 스페이스X는 8월5일(현지시간) 정규장에서 전일 대비 약 12% 급락해 마감했고, 이로써 6월12일 상장가($135)를 다시 밑도는 수준까지 밀렸다.\n\n이번 하락의 배경은 2분기 실적에서 드러난 지출 속도다. 스페이스X는 상장 후 첫 실적발표에서 매출이 전년比 92% 늘었다고 밝히며 AI 관련 매출도 전년 대비 3배 이상 뛰었다고 공개했지만, 같은 분기 AI 부문에만 158억달러, 전체 설비투자는 184억달러를 지출했다고 밝혔다 — IPO로 조달한 857억달러의 약 5분의 1에 해당하는 규모다. 회사는 여전히 잉여현금흐름 적자 상태다.\n\nActivTrades의 애널리스트 캐롤레인 드팔마스는 \"설비투자가 높은 수준으로 유지되고 투자자 열기가 식으면서 락업 해제를 앞두고 주가가 계속 압박받을 수 있다\"며 \"시장이 스페이스X의 밸류에이션과 현금소진 속도를 재평가하면서 상당한 변동성으로 이어질 수 있다\"고 진단했다.\n\n8월6일에는 사전 락업 주식 약 9억1,150만주(약 1,016억달러 규모)가 처음 거래 가능해진다 — 유통 가능 주식의 35%가 이미 공매도된 상태에서, 이번 실적발 매도세와 겹치며 단기 변동성이 커질 수 있다. 테슬라가 스페이스X 지분을 보유한 만큼, 이 지분평가에도 영향을 줄 수 있는 변수다.",
+      "title_en": "SpaceX shares <em>slide roughly 12%</em> on AI spending worries",
+      "hotShort_en": "SpaceX <em>slides ~12%</em> on AI capex worries",
+      "body_en": "SpaceX shares fell roughly 12% on August 5 (local time), slipping back below their $135 IPO price — even as Q2 revenue jumped 92% year-over-year, AI-related capex alone hit $15.8B (total capex $18.4B), raising investor doubts about how long Starlink's profits can keep funding the spending. The slide lands just a day before SpaceX's $101B share unlock on August 6, adding to volatility concerns.",
+      "summary_en": "A day after Bloomberg flagged the looming August 6 unlock, Reuters confirmed how the stock actually traded — SpaceX closed down roughly 12% on August 5, slipping back below its $135 IPO price from June 12.\n\nThe drop traces to the spending pace revealed in Q2 earnings. In its first quarterly report as a public company, SpaceX said revenue rose 92% year-over-year and AI-related revenue more than tripled, but disclosed $15.8B in AI capex alone and $18.4B in total capex for the quarter — roughly a fifth of the $85.7B it raised in its June IPO. The company remains deeply free-cash-flow negative.\n\n\"With capex expected to remain elevated and investor enthusiasm cooling, the stock could remain under pressure ahead of the lock-up expiration,\" said ActivTrades analyst Carolane de Palmas, adding that could \"translate into significant volatility as markets reassess SpaceX's valuation and cash-burn trajectory.\"\n\nOn August 6, about 911.5 million pre-IPO shares (worth roughly $101 billion) become tradable for the first time — with 35% of currently tradable shares already sold short, the earnings-driven selloff could compound near-term volatility. Tesla holds a sizable SpaceX stake, so how the stock trades has some bearing on that stake's carrying value.",
+      "href": "https://www.reuters.com/business/media-telecom/spacex-slides-ai-spending-worries-overshadow-early-returns-2026-08-05/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Reuters",
+        "Bloomberg",
+        "CNN",
+        "Investing.com"
+      ],
+      "sentiment": "bear",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "3h ago",
       "pubDate": "2026-08-05T21:30:55.000Z",
       "title": "SpaceX, 2분기 테슬라 메가팩 <em>2억9,500만달러</em> 매입 — AI 데이터센터 전력용",
@@ -131,33 +158,6 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-08-05T13:17:49.000Z",
-      "title": "스페이스X, <em>1,016억달러 규모 락업 해제</em> 임박 — IPO가 밑돈 주가에 추가 압박",
-      "hotShort": "스페이스X 락업 해제 임박 — <em>추가 매도 압박</em> 우려",
-      "body": "8월6일(목) 스페이스X의 사전 락업 주식 약 9억1,150만주(시가 약 <em>1,016억달러</em>)가 처음으로 거래 가능해진다 — 9단계로 나눠 충격을 완화하려는 구조지만 유통 가능 주식의 35%가 이미 공매도된 상태라, IPO가($135)조차 밑도는 주가에 추가 매도 압박이 우려된다. 테슬라가 스페이스X 지분을 보유한 만큼 지분평가에도 영향을 줄 수 있는 변수.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-101b-share-unlock-2026-08-05",
-      "summary": "블룸버그에 따르면 8월6일(목) 스페이스X의 IPO 이전 발행된 락업 주식 중 약 9억1,150만주가 처음으로 거래 가능해진다. 이날 종가 기준 시가로 환산하면 약 1,016억달러 규모다. 스페이스X는 락업 해제 충격을 줄이기 위해 물량을 9단계로 나눠 순차 해제하는 구조를 택했는데, 그 첫 단계부터 규모가 워낙 커 베테랑 투자자들도 예단을 자제하고 있다고 전해진다.\n\n스페이스X 주가는 이미 부진한 흐름을 보여왔다. 6월12일 135달러에 상장해 첫날 19% 급등 마감했고 6월16일에는 211달러대까지 오르며 정점을 찍었지만, 8월4일 발표한 첫 분기 실적에서 매출은 서프라이즈를 냈음에도 AI·스타링크 설비투자가 매출의 두 배를 넘어서며 주가가 급락, 현재는 IPO가마저 밑도는 수준까지 밀린 상태다.\n\n락업 해제를 앞두고 공매도 잔량도 쌓였다 — 현재 유통 가능한 주식의 35%가 이미 공매도된 상태로, 락업 해제와 맞물려 추가 하락 베팅이 몰린 모습이다. 다만 전문가들은 락업 해제가 곧 대량 매도로 이어진다는 보장은 없다고 지적한다. 해제되는 물량 대부분이 임직원·초기 투자자 보유분이라, 매도할 '권리'가 생기는 것이지 매도 '의무'가 생기는 것은 아니기 때문이다.\n\n테슬라는 스페이스X 지분을 상당량 보유하고 있어, 이번 락업 해제로 인한 주가 변동은 테슬라 대차대조표상 지분평가에도 영향을 줄 수 있는 변수다. 지난달 말에는 스페이스X 공매도 잔액이 테슬라를 앞지른 246억달러로 집계되며 8월4일 실적·8월6일 락업을 '겹악재'로 지목하는 분석이 나온 바 있는데, 이번 보도는 그 우려가 현실화하는 국면임을 보여준다.",
-      "title_en": "SpaceX faces <em>$101B share unlock</em> as stock trades below its IPO price",
-      "hotShort_en": "SpaceX braces for <em>$101B unlock</em>",
-      "body_en": "About 911.5 million previously locked SpaceX shares — worth roughly <em>$101 billion</em> — become eligible for trading on Thursday, August 6, the first of nine staggered unlock stages, with 35% of currently tradable shares already sold short and the stock already below its $135 IPO price. Tesla, which holds a SpaceX stake, has some exposure to how the stock reacts.",
-      "summary_en": "Bloomberg reports that roughly 911.5 million pre-IPO SpaceX shares become eligible to trade for the first time on Thursday, August 6 — a notional value of about $101 billion at recent prices. SpaceX structured the unlock in nine staggered stages to soften the impact, but even the first tranche is large enough that veteran backers are reportedly reluctant to predict how it plays out.\n\nThe stock has already had a rough run. SpaceX debuted at $135 on June 12 and jumped 19% on its first day, then peaked around $211 on June 16. But after its first quarterly report as a public company on August 4 — where revenue beat estimates but AI and Starlink capex ran more than double revenue — shares slid sharply and are now trading below the IPO price.\n\nShort interest has built ahead of the unlock: 35% of currently tradable shares are already sold short, suggesting bearish bets have piled up around the event. Analysts note, though, that an unlock doesn't guarantee a wave of selling — most of the newly eligible shares are held by employees, executives, and early investors, who gain the ability to sell, not an obligation to.\n\nTesla holds a sizable stake in SpaceX, so how the stock trades through the unlock has some bearing on how that stake is carried on Tesla's balance sheet. Late last month, SpaceX's short interest already topped Tesla's at roughly $24.6 billion, with analysts flagging the August 4 earnings and August 6 unlock as a one-two risk event — this unlock is that second shoe dropping.",
-      "href": "https://www.bloomberg.com/news/articles/2026-08-05/spacex-s-101-billion-unlock-heaps-pressure-on-battered-shares",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Bloomberg",
-        "Investing.com",
-        "Yahoo Finance",
-        "Benzinga"
-      ],
-      "sentiment": "bear",
-      "hot": 5
     },
     {
       "category": "fsd",
@@ -2367,5 +2367,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-08-06 10:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-06 14:07 KST 자동 갱신 · 최신순"
 }

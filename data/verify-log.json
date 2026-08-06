@@ -1,29 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-31T10:55:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "product-optimus-10m-target-giga-texas-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel press 적절 — Teslarati/Benzinga 보도, Ashok Elluswamy 개인 X 게시물이 원 소스이나 카드의 href는 실제 기사(raw 제공 링크)라 press 유지, 직접 X 상태 링크 미확보로 official 라벨·x.com href 임의 생성은 하지 않음",
-            "직접 WebFetch: teslarati.com·benzinga.com 모두 403 차단 — WebSearch 교차검증으로 대체(fail-open)",
-            "숫자·인용 대조: 엘루스와미 X 게시 '정정한다, 1,000만 대(Correction, 10 million robots)' 인용, 프리몬트 라인(구 모델S/X 부지, 연 100만 대급)·기가텍사스 신공장(5월 첫 철골 착공, 연 1,000만 대급) 2단계 구조 — 모두 복수 독립 소스(Teslarati, Benzinga, The Robot Report, basenor) 교차 일치",
-            "조언 톤 위반 없음(매수·매도·목표가 없음)",
-            "추측→단정 전환 없음 — '재확인했다'는 실제 X 게시 사실 자체를 서술, 미래 양산·수요 성공 여부는 마지막 문단에서 명확히 미검증으로 완화",
-            "본문-링크 일치 — href(Teslarati)가 다루는 사건과 카드 내용 동일 사건",
-            "밈·풍자 아님 — 엘루스와미의 정정 게시물은 구체적 수치를 담은 사실 정정이며 농담·가정 요소 없음",
-            "최근 30일 archive 대조 — 옵티머스 관련 기존 카드(로스 게버 매출없음 발언, 앱 코드 블루투스 페어링 등)는 전부 다른 사실이라 중복 아님",
-            "2027년 말 대중판매·$2만~3만 가격, $5~10B 투자 등 일부 검색 결과에 등장한 부가 수치는 이번 정정 게시물과 직접 연결이 불확실해 카드에서 제외(검증 게이트 6번 — 불확실하면 뺀다)"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-07-31T13:30:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -751,6 +728,28 @@
           "newSourceLabel": null,
           "reasons": [
             "102C/215F reading and 90C forced-disengage cutoff confirmed; 1/8 memory bandwidth vs HW4 confirmed; but the 3-4M HW3 car count and HW4 Plus double-memory claims trace to a separate earlier Electrek story, not the InsideEVs href given (gate 5 provenance gap) — hedged wording added to summary/summary_en as a precaution; shadow mode so cards.json not altered structurally"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-06T05:06:58.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-101b-share-unlock-2026-08-05",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel press 적절 — Reuters 원 보도(WebFetch 403 차단, investing.com 신디케이션·CNN·Globe and Mail 교차 WebSearch로 대체 확인, fail-open)",
+            "숫자·인용 대조: 8/5 약 -12% 하락, IPO가($135) 재하회, 2분기 매출 YoY 92%↑, AI 매출 3배+, AI capex $15.8B·총 capex $18.4B(IPO 조달 $85.7B의 약 1/5), ActivTrades Carolane de Palmas 인용문 — 모두 Reuters 신디케이션 발췌와 일치",
+            "기존 락업($101B, 9억1,150만주, 8/6, 공매도 35%) 수치는 전일 Bloomberg 소스 카드 그대로 유지(변경 없음) — 이번 갱신은 실제 하락폭·capex 수치만 신규 추가",
+            "조언 톤 위반 없음(매수·매도·목표가 제시 없음, 애널리스트는 리스크 진단만 인용)",
+            "추측→단정 전환 없음 — '약 12%'로 완화 표기, capex·매출 수치는 회사 공식 실적 공개치라 단정 표현 적절",
+            "본문-링크 일치 — href(Reuters 원문 URL, raw-cards.json 제공)가 다루는 사건과 카드 내용 동일",
+            "밈·풍자 아님 — X 소스 아님, 해당無",
+            "최근 30일/archive 대조 — 동일 슬러그(락업 카드)의 후속 전개로 판단, 신규 카드 대신 기존 카드 갱신·병합 처리(중복 게이트 준수)"
           ]
         }
       ]
