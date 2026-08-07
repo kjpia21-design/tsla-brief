@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-08-01T17:10:41.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "musk-spacex-short-interest-record-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "이번 실행도 신규 카드 없음 — 직전 실행(15:10)이 이미 그록 Q&A 접수 방식을 보강한 같은 카드에, 실제 투자자 질문 내용·애널리스트 컨센서스 1개 문단만 추가 보강",
-            "추가 사실 4항목(questiontime.ir.spacex.com 창구, Say Technologies 대신 그록 자체툴, 개인투자자 질문이 재무보다 스타십 HLS 영상 등 비재무 주제에 쏠림, 월가 컨센서스 매출 약 $6.9B·EPS -$0.28)을 서브에이전트 독립검증(WebSearch)으로 재확인 — WebFetch는 이번 실행에서도 reuters/yahoo/tribune/thenews/933thedrive/deccanherald/basenor/tipranks/barchart/intellectia 등 10개 도메인 전부 403 차단(환경 전역 봇차단으로 판단), WebSearch 교차 스니펫(Reuters 원문 요지+다수 syndication+Visible Alpha/Zacks 컨센서스)으로 대체",
-            "4항목 모두 CONFIRMED — 단, EPS/매출 추정치는 소스마다 소폭 편차(매출 $6.72B~$6.9B, EPS -$0.26~-$0.28)가 있어 '약(roughly)' 완화 표현 유지, 특정 단일 수치를 단정하지 않음",
-            "조언 톤 위반 없음(매수·매도·목표가 없음), 추측→단정 전환 없음",
-            "confirmedBy 2→3, confirmingSources에 Reuters 추가(기존 Bloomberg·Investing.com 유지)",
-            "raw의 나머지 항목 재확인 — 'Elon Musk' CNBC 허브 페이지(구체 기사 아님, 제외), Optimus/NHTSA서스펜션/中매각설/Zoox 는 전부 기존 카드와 동일사건 재보도(추가 조치 없음). WebSearch 완전성 점검(Tesla FSD/Optimus/Robotaxi 8/1 뉴스)에서 'Tesla Robotaxi unveil Aug 8' 건은 2024년 옛 발표 재검색 결과로 확인돼 옛 기사 재발행 트랩으로 판단, 채택하지 않음. Motley Fool의 'FSD $99/월 구독 연 $1.8B' 기사는 이미 보도된 2분기 실적(1.48M 구독, +56% YoY) 재해석 오피니언 칼럼(\"매수 신호인가\")이라 조언톤 위반 우려로 카드화하지 않음"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-08-03T03:05:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -787,6 +767,35 @@
             "Confirmed via Korean press (Newsis, Insight, DigitalToday, Greened): delay Aug10->Aug21, pricing figures match exactly.",
             "sourceLabel official correct - verified Tesla Korea corporate account, real notice not satire.",
             "No advice-tone violation."
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-07T20:55:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-nears-ipo-price-2026-08-07",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "16% Friday surge, ~23% two-day rally, >$327B market-value gain, and 'nears $135 IPO price for first time since falling below it last month' all directly confirmed in Bloomberg headline/lede via WebSearch.",
+            "Lockup context (900M+ shares unlocked Thursday, analyst fears of selling pressure) cross-confirmed via CNN/Fortune coverage of the same event.",
+            "Note: CNN/Fortune corroborate the lockup-rebound narrative and Thursday's ~6% move, not Bloomberg's specific Friday 23%/$327B figures independently — confirmedBy:2 reflects general cross-verification of the event, not duplicate sourcing of the exact numbers. Kept as press/bull, no advice tone, no target price given.",
+            "sourceLabel press correct; href matches Bloomberg article exactly."
+          ]
+        },
+        {
+          "slug": "fsd-hw-reaction-time-test-2026-08-07",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "57.8% (HW4+newest FSD vs HW3+v12.6.4) and 36.6% (HW3+v14 Lite vs HW3+v12.6.4) figures and pulley-rig/dummy/telemetry methodology confirmed verbatim via WebSearch excerpt of the InsideEVs article.",
+            "Card correctly labels this an independent YouTuber test (TechGeek Tesla), not an official Tesla benchmark, and flags limited sample/uncontrolled conditions — no advice tone, no unhedged overclaim.",
+            "sourceLabel press correct (InsideEVs is the press outlet reporting the test); href matches exactly.",
+            "No confirmedBy assigned since multiple outlets (teslahubs, notateslaapp, autoevolution) all cite the same single underlying test rather than independently verifying it — correctly left unconfirmed/single-sourced."
           ]
         }
       ]
