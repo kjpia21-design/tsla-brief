@@ -752,6 +752,44 @@
           ]
         }
       ]
+    },
+    {
+      "at": "2026-08-07T13:09:00.000Z",
+      "mode": "shadow",
+      "checked": 2,
+      "verdicts": [
+        {
+          "slug": "musk-boring-sahara-vegas-loop-station-2026-08-06",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "신규 카드 — archive 최근 30일 내 'Boring Company/베가스루프/사하라' 중복 없음 확인",
+            "sourceLabel press 적절 — Teslarati 보도, sec/official/rumor 아님",
+            "verify-error: WebFetch가 teslarati.com에서 EGRESS_BLOCKED(네트워크 프록시 차단)로 전면 실패 — WebSearch 교차검증으로 대체(fail-open). Nevada Globe·Las Vegas Review-Journal·News3LV 등 독립 매체 스니펫이 '8/6 사하라 파라다이스로드 입구 정거장 개통', '웨스트게이트에 이어 루프+모노레일 동시 보유 두 번째 스트립 리조트', '사하라 애비뉴 북쪽 구간 굴착 허가 기확보, 다운타운 구간은 미허가' 를 모두 일치되게 확인",
+            "조언 톤 위반 없음(매수·매도·목표가 없음)",
+            "추측→단정 전환 없음 — 모두 이미 발생한 사실(개통·허가 확보)로 hedge 불필요, 원문에 없는 수치 창작 없음",
+            "본문-링크 일치 — href(Teslarati)가 다루는 사건과 카드 내용 동일",
+            "밈·풍자 아님(X 소스 아님)",
+            "confirmedBy=2(Teslarati+Las Vegas Review-Journal) — 독립 매체 교차 확인 근거 있음"
+          ]
+        },
+        {
+          "slug": "fsd-uber-wayve-london-robotaxi-licenses-2026-08-05",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "신규 카드 — archive 최근 30일 내 'Wayve/런던 로보택시' 중복 없음 확인. Zoox 라스베이거스·우버 로보택시 투자 카드와는 별개 사건(다른 도시·다른 파트너·다른 사실)으로 판단해 병합하지 않음",
+            "sourceLabel press 적절 — Bloomberg 원 보도",
+            "verify-error: WebFetch가 bloomberg.com에서 EGRESS_BLOCKED로 전면 실패 — WebSearch 교차검증으로 대체(fail-open). The Star·The Edge Malaysia·Automotive News·bmmagazine·CleanTechnica 등 5개 이상 독립 매체가 '최대 15대·1년 시범·포드 머스탱 마하-E·Wayve AI Driver·안전요원 동승·연말까지 10개+ 도시 확대'를 모두 일치되게 보도",
+            "조언 톤 위반 없음",
+            "추측→단정 전환 없음 — 면허 발급은 확정 사실(TfL 공식 발급)로 단정 표현 적절, 이용자 시범 서비스 개시 시점은 '이번 여름부터'로 원문 그대로 유지",
+            "숫자 재대조: 15대·1년·10개+ 도시 모두 WebSearch 교차 결과와 일치",
+            "본문-링크 일치 — href(Bloomberg)가 다루는 사건과 카드 내용 동일",
+            "밈·풍자 아님(X 소스 아님)",
+            "raw의 나머지 항목 처리 — MarketBeat 기관보유 신고 2건(노이즈, 제외)·'Elon Musk' CNBC/AP 허브 페이지 2건(구체 기사 아님, 제외)·Gary Black 발언(저신뢰 인플루언서 제외 규칙)·SpaceX 락업 후 '주가 안정' Bloomberg 후속(기존 락업 카드와 동일 사건, 병합 처리)·Zoox/우버/中판매 3건(archive 기존 카드와 동일 사건, 제외)·2021년 재발행 기사 1건(옛 기사, 제외)·'Tesla is racking up speeding tickets' Electrek(기존 콜로라도 단속 카드+Elluswamy anti-pattern 카드와 같은 주제 재탕, 신규 사실 부족으로 제외)·Barron's 'Tesla Stock Drops' (전일 장중·종가 수치 검증 불가 — api.teslabriefing.com도 EGRESS_BLOCKED로 marketState 확인 불가하여 불확실하면 뺀다 원칙에 따라 제외)"
+          ]
+        }
+      ]
     }
   ]
 }
