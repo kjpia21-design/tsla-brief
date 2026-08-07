@@ -1,46 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-08-01T07:14:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "product-cybertruck-pcs-warranty-extension-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "신규 카드(사이버트럭 PCS 보증 8년 연장·자비수리 전액환불) — 서브에이전트 독립검증(WebSearch)으로 TeslaNorth(href, 2026-07-31 날짜 일치) + Drive Tesla Canada/Electrek/autoevolution/Not a Tesla App 교차 확인",
-            "8년/150,000마일 보증(2024-2025년식) vs 표준 7년/70,000마일(2026년식) 수치 여러 매체 일치 확인 — 창작 없음",
-            "'전액 환불·향후 몇 주 내' 문구도 소스 간 동일 — 과장·왜곡 없음",
-            "'여전히 공식 리콜 아님' 서술 정확 — NHTSA 리콜 파일 없음, 복수 매체가 동일하게 프레이밍",
-            "테슬라 공식 인용문('reliability standards 미달')이 직접 인용이라 단정형 사용 적절, hedge 표현 왜곡 없음",
-            "이전(4~6월) '리콜 회피' 보도와 구분되는 7/31 신규 전개로 확인 — 옛 기사 재발행 아님"
-          ]
-        }
-      ]
-    },
-    {
-      "at": "2026-08-01T15:10:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "musk-spacex-short-interest-record-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "이번 실행에서 신규 카드 없음 — 기존 7/31 카드(스페이스X 공매도)에 8/4 첫 실적콜 관련 신규 사실(그록 기반 투자자 Q&A 툴 접수) 1건만 요약에 보강",
-            "추가 사실은 Reuters 원문(Will SpaceX paint its rocket pink...) 기반 — WebFetch가 Reuters/Yahoo/933thedrive/investing.com 등에서 반복적으로 403(봇 차단)으로 원문 직접 열람 실패, WebSearch 교차 스니펫(Reuters 원문 + 별도 매체 syndication 3곳 + 별도 Motley Fool 기사)으로 사실 확인 대체",
-            "raw-cards.json에 있던 동일 사건(SpaceX Q1 short interest, item#0 pink rocket 기사)은 기존 카드와 같은 예정 이벤트(8/4 실적) 클러스터로 판단해 새 카드로 분리하지 않고 병합 — 클러스터링 규칙 준수",
-            "추가 문구는 단정형('접수해 처리한다')이나 원 사실 자체가 press 복수 매체 보도로 확인된 사실(발표 방식)이라 hedge 불필요, 수치·인용 창작 없음",
-            "raw의 나머지 항목(Optimus 재확인·NHTSA 서스펜션·中사업 매각·Zoox 로보택시 승인 등)은 모두 기존 archive 카드와 동일 사건 재보도로 확인되어 제외 — 신규 카드 없음",
-            "verify-error 아님 — WebFetch 차단은 있었으나 WebSearch 교차검증(3개 이상 독립 도메인)으로 대체 확인 완료, fail-open 미적용"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-08-01T17:10:41.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -787,6 +747,46 @@
             "본문-링크 일치 — href(Bloomberg)가 다루는 사건과 카드 내용 동일",
             "밈·풍자 아님(X 소스 아님)",
             "raw의 나머지 항목 처리 — MarketBeat 기관보유 신고 2건(노이즈, 제외)·'Elon Musk' CNBC/AP 허브 페이지 2건(구체 기사 아님, 제외)·Gary Black 발언(저신뢰 인플루언서 제외 규칙)·SpaceX 락업 후 '주가 안정' Bloomberg 후속(기존 락업 카드와 동일 사건, 병합 처리)·Zoox/우버/中판매 3건(archive 기존 카드와 동일 사건, 제외)·2021년 재발행 기사 1건(옛 기사, 제외)·'Tesla is racking up speeding tickets' Electrek(기존 콜로라도 단속 카드+Elluswamy anti-pattern 카드와 같은 주제 재탕, 신규 사실 부족으로 제외)·Barron's 'Tesla Stock Drops' (전일 장중·종가 수치 검증 불가 — api.teslabriefing.com도 EGRESS_BLOCKED로 marketState 확인 불가하여 불확실하면 뺀다 원칙에 따라 제외)"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-07T15:15:00.000Z",
+      "mode": "shadow",
+      "checked": 3,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-argus-upgrade-2026-08-07",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "Rating action confirmed via cross-source search (Investing.com quoting Argus analyst Steve Silver): Hold to Buy, $160 12-month PT.",
+            "Revenue figure ($7.8B, +92% YoY) and first-quarter-as-public-company framing confirmed via Fortune/CNN/Yahoo coverage.",
+            "Year-end 2026 run-rate approaching $100B confirmed.",
+            "SpaceX ~13% weekly drop before the upgrade confirmed (CNBC).",
+            "sourceLabel press correct; no advice-tone violation."
+          ]
+        },
+        {
+          "slug": "stock-weekly-gain-terafab-2026-08-07",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "Confirmed via Yahoo Finance: TSLA up ~3% this week, first weekly gain in 4 weeks, Terafab-driven.",
+            "Barron's href paywalled but topic-consistent; no body-link mismatch suspected.",
+            "Causal claims appropriately hedged, not asserted as hard fact.",
+            "sourceLabel press correct; no advice-tone violation."
+          ]
+        },
+        {
+          "slug": "product-korea-fsd-eap-date-delay-2026-08-07",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "Confirmed via Korean press (Newsis, Insight, DigitalToday, Greened): delay Aug10->Aug21, pricing figures match exactly.",
+            "sourceLabel official correct - verified Tesla Korea corporate account, real notice not satire.",
+            "No advice-tone violation."
           ]
         }
       ]

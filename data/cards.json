@@ -3,6 +3,56 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "11m ago",
+      "pubDate": "2026-08-07T14:46:29.000Z",
+      "title": "아거스, 스페이스X 투자의견 <em>'매수'로 상향</em> — 목표주가 160달러",
+      "hotShort": "아거스, 스페이스X <em>'매수' 상향</em> — 목표가 160달러",
+      "body": "리서치사 아거스가 스페이스X 투자의견을 '보유'에서 '매수'로 상향하고 목표주가 160달러를 제시 — 상장 후 첫 분기 매출이 78억달러(전년比 92%↑)로 나오자 AI 인프라 투자 회수 속도에 자신감을 보였다. 이번 주 AI 데이터센터 투자 부담 우려로 주가가 13%대 급락했던 것과는 대조적인 월가 반응으로, 테슬라와 텍사스 테라팹을 공동 투자 중인 스페이스X의 자금 체력을 가늠할 신호다.",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-argus-upgrade-2026-08-07",
+      "summary": "이번 주 초 AI 데이터센터 투자 부담 우려로 주가가 13%대 급락했던 스페이스X에 대해, 리서치사 아거스가 8월 7일 투자의견을 '보유'에서 '매수'로 올렸다. 목표주가는 160달러로 제시했다.\n\n아거스는 스페이스X의 상장 후 첫 분기 실적을 근거로 들었다. 매출은 78억달러로 전년 동기 대비 92% 증가했고, 회사는 연말 매출 연환산 규모가 1,000억달러에 근접할 것으로 시사했다 — 아거스의 기존 전망치를 크게 웃도는 수준이다.\n\n투자 부담으로 지목됐던 AI 인프라 설비투자에 대해서도 아거스는 긍정적으로 평가했다. 컴퓨팅 용량이 빠르게 늘고 있어, 예상보다 큰 규모의 투자에도 회수 기간이 1년이 채 안 될 만큼 빠르다는 판단이다.\n\n스페이스X는 테슬라와 함께 텍사스 테라팹에 초기 168억달러를 투자하기로 확정한 상태 — AI 반도체·옵티머스용 컴퓨팅 자원을 공유하는 파트너다. 스페이스X의 재무 체력이 이 프로젝트의 지속가능성과도 직결되는 만큼, 이번 상향은 테슬라 주주에게도 참고할 신호다.",
+      "title_en": "Argus upgrades SpaceX to <em>'Buy'</em> — $160 price target",
+      "hotShort_en": "Argus upgrades SpaceX to <em>Buy</em>, $160 PT",
+      "body_en": "Research firm Argus upgraded SpaceX from Hold to Buy with a $160 price target, citing $7.8B in first-quarter-as-a-public-company revenue (up 92% YoY) and confidence that AI infrastructure spending will pay back faster than expected. The call comes days after SpaceX shares fell over 13% on AI capex concerns — a signal worth watching for Tesla shareholders given the two companies' joint Terafab investment.",
+      "summary_en": "SpaceX shares tumbled more than 13% earlier this week as investors balked at surging AI-infrastructure capital expenditure. On August 7, research firm Argus took the opposite view, upgrading the stock from Hold to Buy with a $160 price target.\n\nArgus pointed to SpaceX's first quarterly report as a public company: revenue of $7.8 billion, up 92% year-over-year, with the company signaling a year-end revenue run rate approaching $100 billion — well above Argus's initial estimate.\n\nOn the capex concern itself, Argus struck a confident tone. With computing capacity scaling rapidly, the firm said payback on the elevated AI infrastructure spending is coming in under a year, faster than the market appears to be pricing in.\n\nSpaceX and Tesla have jointly committed an initial $16.8 billion to the Terafab facility in Texas, sharing AI-chip and Optimus-compute capacity. SpaceX's financial footing feeds directly into that project's durability, making Argus's shift in view relevant for Tesla shareholders too.",
+      "href": "https://www.cnbc.com/2026/08/07/spacex-shares-upgraded-argus-says-dont-bet-against-musk.html",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "CNBC",
+        "Investing.com"
+      ],
+      "sentiment": "bull",
+      "hot": 5
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-08-07T12:07:00.000Z",
+      "title": "테슬라 주가 이번 주 <em>4주 만에 첫 반등</em> — 테라팹 훈풍",
+      "hotShort": "테슬라, 이번 주 <em>4주 만에 첫 상승</em> 마감",
+      "body": "테슬라 주가가 이번 주 3%가량 오르며 4주 만에 처음으로 주간 상승 마감 — 7월 초 2분기 인도량 발표 이후 이어졌던 조정 흐름에 제동을 걸었다. 스페이스X와 함께 확정한 텍사스 테라팹 168억달러 투자가 반등의 주된 동력으로 꼽힌다.",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "stock-weekly-gain-terafab-2026-08-07",
+      "summary": "테슬라 주가가 8월 7일(현지시간) 목요일 종가 기준 이번 주 약 3% 상승하며, 4주 만에 첫 주간 상승 마감을 기록했다. 7월 초 2분기 인도량 발표 이후 이어진 조정 국면에 제동이 걸린 모습이다.\n\n이번 반등의 주된 동력은 테라팹 관련 소식이다. 테슬라와 스페이스X가 텍사스에 짓는 AI 반도체 생산시설 테라팹에 초기 168억달러를 공동 투자하기로 확정했다고 밝히면서, AI 컴퓨팅 인프라 확장에 대한 투자자 기대가 되살아났다. 이 시설은 옵티머스용 추론칩과 스페이스X의 우주 데이터센터용 고성능 프로세서를 함께 생산할 예정이다.\n\n같은 기간 스페이스X 관련 소식도 잇따랐다 — 첫 락업 해제 이후에도 주가가 매도 폭탄 우려를 딛고 반등했고, 아거스 등 리서치사도 AI 투자 회수 속도에 긍정적 평가를 내놓았다. 머스크의 두 회사가 얽힌 호재가 겹치며 테슬라 투심에도 온기가 번진 흐름이다.\n\n이번 반등이 추세 전환의 신호인지는 다음 주 흐름을 더 지켜봐야 하지만, 실적 발표 이후 위축됐던 투자심리가 일단 한숨 돌린 모습이다.",
+      "title_en": "Tesla stock posts <em>first weekly gain in a month</em> on Terafab tailwind",
+      "hotShort_en": "Tesla logs <em>first weekly gain in 4 weeks</em>",
+      "body_en": "Tesla shares rose roughly 3% this week, marking the stock's first weekly gain in a month and breaking the pullback that followed the early-July Q2 delivery report. The confirmed $16.8 billion Terafab chip-plant investment with SpaceX is cited as the main driver of the rebound.",
+      "summary_en": "Tesla shares closed roughly 3% higher for the week through Thursday, August 7 — the stock's first weekly gain in four weeks, breaking a pullback that had persisted since the early-July Q2 delivery report.\n\nThe main driver behind the rebound was news around Terafab. Tesla and SpaceX confirmed an initial $16.8 billion joint investment in the Texas AI-chip plant, reviving investor enthusiasm for the company's AI-compute buildout. The facility is slated to produce inference chips for Optimus alongside high-powered processors for SpaceX's space-based data centers.\n\nSpaceX-related headlines piled up over the same stretch — shares there rebounded even after the company's first lockup expiry stoked fears of a selling wave, and research firms including Argus turned more upbeat on the payback speed of AI infrastructure spending. With good news stacking up across Musk's two companies, some of that warmth spilled into Tesla sentiment as well.\n\nWhether this week's bounce marks a trend change or just a short-term relief rally remains to be seen next week, but investor sentiment that had cooled since earnings appears to have caught a breather.",
+      "href": "https://www.barrons.com/articles/tesla-stock-rises-week-d1d90970?mod",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Barron's",
+        "Yahoo Finance"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "6h ago",
       "pubDate": "2026-08-07T07:27:39.000Z",
       "title": "보링컴퍼니 베가스루프, <em>사하라 리조트</em>에 새 정거장 개통",
@@ -21,6 +71,31 @@
       "confirmingSources": [
         "Teslarati",
         "Las Vegas Review-Journal"
+      ],
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "10h ago",
+      "pubDate": "2026-08-07T04:59:39.000Z",
+      "title": "테슬라코리아, FSD·EAP <em>구매방식 변경 11일 연기</em> — 8/10→8/21",
+      "hotShort": "테슬라코리아, FSD 구독 전환 <em>11일 연기</em>",
+      "body": "테슬라코리아가 FSD(감독형)·향상된 오토파일럿(EAP) 구매 방식 변경 도입 예정일을 8월 10일에서 8월 21일로 11일 연기했다 — FSD는 기존 일시불 904만3천원(VAT포함)에서 월 15만원 구독제로 전환되며, 도입일 이후엔 일시불 구매가 막힌다. FSD 매출을 반복 구독으로 전환하려는 글로벌 전략의 일환으로, 시행일 조정은 초기 매출 인식 시점에 소폭 영향을 준다.",
+      "sourceName": "Tesla Korea (X)",
+      "sourceLabel": "official",
+      "slug": "product-korea-fsd-eap-date-delay-2026-08-07",
+      "summary": "테슬라코리아가 8월 7일, FSD(감독형)와 향상된 오토파일럿(EAP)의 구매 방식 변경 도입 예정일을 당초 8월 10일에서 8월 21일로 11일 늦춘다고 공식 X 계정을 통해 안내했다.\n\n핵심 변경 내용은 FSD의 결제 방식 전환이다. 현재 부가세 포함 904만3천원인 일시불 옵션이 도입일부터는 월 15만원 구독제로 바뀌며, 도입일 이전에 일시불로 구매한 고객은 기존 옵션 상태를 유지할 수 있지만 이후에는 구독으로만 이용할 수 있다.\n\nEAP는 조금 다르게 적용된다 — 도입일 이후에는 중국산 차량에 한해서만 기존과 같은 가격의 일시불 구매가 가능하고, 그 외에는 구독 중심 체계로 넘어간다.\n\n이번 일정 변경은 큰 정책 방향(구독 전환) 자체를 바꾼 것은 아니고 시행 시점만 11일 늦춘 것이다. FSD를 반복 수익 모델로 전환하려는 테슬라의 전략은 한국 시장에도 예정대로 적용되지만, 세부 매출 인식 시점은 소폭 뒤로 밀렸다.",
+      "title_en": "Tesla Korea delays FSD/EAP <em>subscription switch by 11 days</em>",
+      "hotShort_en": "Tesla Korea delays FSD switch <em>11 days</em>",
+      "body_en": "Tesla Korea pushed back the rollout date for its FSD (Supervised)/Enhanced Autopilot purchase-method change from August 10 to August 21 — FSD's one-time price of ₩9.043M will convert to a ₩150K/month subscription, with one-time purchases unavailable after the new date. The shift underscores Tesla's broader push toward recurring FSD revenue, now landing in Korea 11 days later than planned.",
+      "summary_en": "On August 7, Tesla Korea's official account announced it is delaying the rollout of its FSD (Supervised) and Enhanced Autopilot (EAP) purchase-method change by 11 days, from August 10 to August 21.\n\nThe core change is FSD's shift to a subscription model: the current one-time price of ₩9.043 million (VAT included) becomes a ₩150,000 monthly subscription starting on the new date. Customers who buy the one-time option before the rollout date keep their existing option status, but after that date, one-time purchases are no longer available.\n\nEAP is handled slightly differently — after the rollout date, one-time purchase remains available only for China-built vehicles at the same price, while other configurations move to the subscription-first structure.\n\nThe policy direction itself is unchanged; only the timing shifted by 11 days. Tesla's push to turn FSD into recurring revenue is proceeding in Korea as planned, just with revenue recognition landing slightly later than originally scheduled.",
+      "href": "https://x.com/tesla_korea/status/2085591681483837637",
+      "confirmedBy": 2,
+      "confirmingSources": [
+        "Tesla Korea",
+        "ZDNet Korea"
       ],
       "sentiment": "neutral",
       "hot": 3
@@ -117,80 +192,7 @@
       "href": "https://electrek.co/2026/08/06/tesla-driver-blames-fsd-speeding-police-stop/",
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-08-06T12:52:24.000Z",
-      "title": "테슬라 <em>메가팩3</em> 텍사스 신공장서 양산 개시 — 에너지 28% 증가",
-      "hotShort": "테슬라 메가팩3 양산 개시 — <em>에너지 28%↑</em>",
-      "body": "테슬라가 텍사스 브룩셔의 신규 메가팩토리에서 차세대 배터리 <em>메가팩3</em> 양산을 시작했다 — 착공 16개월 만이며, 동일 부피에 <em>28% 많은 에너지</em>(유닛당 약 5MWh)를 담아 설치비·공사기간을 크게 줄인 것이 핵심. 차량 사업 대비 조용히 성장해온 에너지저장 사업의 생산능력 확대 근거라 주주가 주목할 대목이다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-megapack3-production-brookshire-2026-08-06",
-      "summary": "테슬라의 신규 메가팩토리는 텍사스 브룩셔에 위치해 있으며, 착공에서 첫 유닛 생산까지 걸린 기간은 16개월이다 — 테슬라 기가팩토리 중에서도 손꼽히게 빠른 속도로 완공된 사례다.\n\n메가팩3는 유닛당 약 5MWh 용량으로, 전작 메가팩2 XL 대비 동일한 설치 면적에 28% 더 많은 에너지를 담는다. 열관리 시스템도 대폭 단순화돼 연결부(커넥션) 수가 78% 줄었다 — 조립 신뢰성과 생산 속도를 함께 끌어올리는 설계 변경이다.\n\n설치 방식에도 변화가 있다. 테슬라의 Megablock 플랫폼을 적용하면 설치 시간을 23% 단축하고, 시공 비용은 최대 40%까지 낮출 수 있다고 회사 측은 밝혔다.\n\n브룩셔 공장의 설계 생산능력은 메가팩3 전용으로 연 50GWh 규모다 — 완전 가동에 들어가면 캘리포니아 래스롭 공장을 넘어서는 테슬라 최대의 에너지저장 생산기지가 될 수 있다는 평가가 나온다.\n\n차량 부문 대비 상대적으로 조용히 성장해온 테슬라 에너지 사업(메가팩·파워월)이 매 분기 실적에서 비중을 넓혀가는 흐름의 연장선으로, 생산능력 확대는 곧 매출·수주 파이프라인을 뒷받침하는 근거가 된다.",
-      "title_en": "Tesla begins <em>Megapack 3</em> production in Texas — 28% more energy per unit",
-      "hotShort_en": "Tesla starts <em>Megapack 3</em> output, +28% energy",
-      "body_en": "Tesla has started building its next-generation Megapack 3 battery at its new Megafactory in Brookshire, Texas — just 16 months after breaking ground — packing <em>28% more energy</em> (about 5MWh per unit) into the same footprint, cutting installation cost and build time. It's the latest sign of capacity growth for a Tesla energy business that has quietly expanded alongside the vehicle segment, something shareholders will want to watch.",
-      "summary_en": "Tesla's newest Megafactory sits in Brookshire, Texas, and went from groundbreaking to its first production unit in 16 months — one of the fastest ramps among Tesla's gigafactories to date.\n\nEach Megapack 3 unit holds about 5MWh, packing 28% more energy into the same footprint as the prior Megapack 2 XL. The thermal management system was also substantially simplified, cutting the number of connections by 78% — a design change meant to boost both assembly reliability and production speed.\n\nInstallation has changed too. Tesla says its Megablock platform can cut installation time by 23% and reduce construction costs by up to 40%.\n\nThe Brookshire plant's designed capacity is 50GWh a year dedicated to Megapack 3 — once fully ramped, that could make it Tesla's largest energy storage manufacturing site, surpassing its Lathrop, California factory.\n\nIt's the latest step in the quiet expansion of Tesla's energy business (Megapack and Powerwall) relative to its vehicle segment, a trend that has steadily grown its share of quarterly results — and added manufacturing capacity underpins further revenue and order-pipeline growth.",
-      "href": "https://electrek.co/2026/08/06/tesla-megapack-3-production-starts-texas/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Electrek",
-        "Tesla Megapack (X)",
-        "Benzinga",
-        "Teslarati"
-      ],
-      "sentiment": "bull",
-      "hot": 5
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
-      "pubDate": "2026-08-06T10:04:31.000Z",
-      "title": "로이터 \"테슬라 압박에 네덜란드 규제당국, FSD 안전 근거자료 <em>비공개 유지</em>\"",
-      "hotShort": "테슬라 압박, 네덜란드 FSD자료 <em>비공개</em> 유지",
-      "body": "로이터가 입수한 비공개 이메일에 따르면 테슬라가 2024년 말부터 네덜란드 차량규제기관 RDW에 FSD 안전성 검토 문서를 <em>비공개로 유지해달라</em>고 요청해온 사실이 드러났다 — RDW는 지난 4월10일 FSD(Supervised)를 EU 최초로 승인하고도, 안전 판단 근거를 대중에 공개하지 않고 있다. RDW가 이 승인을 발판으로 EU 전역 인증을 대신 추진 중이라, 근거자료 비공개가 계속되면 FSD의 유럽 확장 신뢰도에 부담이 될 수 있다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "press",
-      "slug": "fsd-rdw-secrecy-pressure-2026-08-06",
-      "summary": "네덜란드 차량규제기관 RDW는 지난 4월10일 테슬라의 FSD(Supervised)를 EU 최초로 승인했다 — UN 규정 171(운전자보조시스템 EU 기준)에 따라, 18개월간의 테스트와 유럽 도로 160만km 주행 데이터, 400여 개 개별 요건 심사를 거친 결과라고 밝혔다. RDW는 이후 이 승인을 근거로 EU 전역 인증까지 테슬라를 대신해 추진하고 있다.\n\n그런데 로이터가 정보공개청구로 입수한, 그동안 공개되지 않았던 이메일에 따르면 테슬라는 2024년 말부터 RDW에 FSD 안전성 검토 관련 문서를 비공개로 유지해달라고 요청해왔다. RDW는 왜 FSD가 안전하다고 결론 내렸는지, 어떤 방식으로 시스템을 평가했는지 근거 자료를 대중에 공개하지 않고 있으며, 그 이유로 '테슬라의 영업비밀 침해'를 들었다.\n\nRDW는 로이터에 테슬라의 요청에 따라 정보를 감춘 것은 아니며, 영업비밀 보호 여부는 자체적으로 판단한다고 해명했다. 다만 RDW가 테슬라 측에 보낸 이메일에는 \"제조사는 언제든 특정 정보 공개 면제를 요청할 수 있다\"는 취지의 안내가 담겨 있었던 사실도 함께 드러났다.\n\n이번 보도는 지난 6월 로이터가 테슬라가 스웨덴·네덜란드 규제당국에 \"인간 운전자보다 최대 10배 안전하다\"는 식의 통계를 제시했으나, 독립 교통안전 연구자들이 그 비교 방식을 통계적으로 무효하다고 지적했다고 보도한 데 이은 후속 취재다. RDW가 이 승인을 근거로 EU 전역 확산을 이끌고 있는 만큼, 근거 자료 비공개가 계속되면 FSD의 유럽 시장 신뢰도와 규제 승인 속도에 부담이 될 수 있다는 우려가 나온다.",
-      "title_en": "Reuters: Tesla pressed Dutch regulator to keep FSD <em>safety data secret</em>",
-      "hotShort_en": "Tesla pressed EU regulator to <em>hide FSD data</em>",
-      "body_en": "Previously unreported emails obtained by Reuters show Tesla has pressed Dutch regulator RDW since late 2024 to keep documentation of its FSD safety review <em>secret</em> — even though RDW approved FSD (Supervised) on April 10, becoming the first EU country to do so, it still won't disclose the basis for that safety finding. RDW is now leading Tesla's push for EU-wide approval, so continued secrecy could weigh on FSD's credibility as it expands across Europe.",
-      "summary_en": "The Dutch vehicle authority RDW approved Tesla's Full Self-Driving (Supervised) on April 10, becoming the first EU country to authorize the system under UN Regulation 171 — following 18 months of testing, 1.6 million kilometers of European road data, and more than 400 individual compliance checks. RDW has since been pushing for EU-wide approval on Tesla's behalf.\n\nBut previously unreported email correspondence obtained by Reuters through a public-records request shows Tesla has pressed RDW since late 2024 to keep documentation of the FSD safety review secret. RDW won't disclose why it concluded the system is safe or how it evaluated the technology, citing violations of Tesla's commercial secrets.\n\nRDW told Reuters it hasn't withheld information at Tesla's request, saying it makes its own decisions about protecting trade secrets. Even so, emails RDW sent Tesla show the regulator advised that manufacturers always have the option to request an exemption from disclosing certain information.\n\nThe report follows a June Reuters investigation that found Tesla presented Swedish and Dutch regulators with FSD safety statistics — including a claim the system is up to 10 times safer than human drivers — that independent traffic-safety researchers called methodologically invalid. With RDW now leading Tesla's push for EU-wide approval, continued secrecy around its evidence could weigh on FSD's credibility and approval timeline across Europe.",
-      "href": "https://www.reuters.com/legal/litigation/pressured-by-tesla-european-regulators-keep-full-self-driving-safety-data-secret-2026-08-06/",
-      "sentiment": "bear",
-      "hot": 6
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
-      "pubDate": "2026-08-05T11:23:56.000Z",
-      "title": "우버·Wayve, 런던 <em>로보택시 면허</em> 획득 — Waymo·바이두보다 먼저",
-      "hotShort": "우버·Wayve, 런던서 <em>로보택시 면허</em> 선점",
-      "body": "우버와 영국 자율주행 스타트업 Wayve가 런던 교통당국(TfL)으로부터 세이프티 드라이버 동승 로보택시 운행 면허를 획득했다 — 최대 15대로 1년간 시범 운행하며 Waymo·바이두의 런던 진출 계획보다 앞서 서비스를 시작해, 테슬라가 아직 진출하지 않은 유럽 로보택시 시장의 경쟁 구도를 가늠할 참고점이 된다.",
-      "sourceName": "Bloomberg",
-      "sourceLabel": "press",
-      "slug": "fsd-uber-wayve-london-robotaxi-licenses-2026-08-05",
-      "summary": "블룸버그에 따르면 런던 교통당국(TfL)이 우버와 자율주행 스타트업 Wayve에 세이프티 드라이버가 동승하는 로보택시 영업 면허를 발급했다. Wayve의 자율주행 시스템을 탑재한 포드 머스탱 마하-E 전기차가 최대 15대까지 1년간 시범 운행에 투입된다.\n\n탑승자는 운전대에서 손을 뗀 자율주행 상태로 이동하지만, 안전요원이 동승해 필요 시 개입할 수 있는 '감독형' 방식이다. 사전 신청한 이용자를 대상으로 이번 여름부터 시범 서비스가 시작된다.\n\n우버는 Wayve·Nuro 등 파트너와 함께 연말까지 전 세계 10개 이상 도시로 로보택시 서비스를 확대할 계획이라고 밝혔다. 이번 런던 면허 획득은 같은 시장 진출을 계획해온 Waymo·바이두보다 앞선 것으로, 테슬라가 아직 진출하지 않은 유럽 로보택시 시장에서 경쟁 구도가 빠르게 재편되고 있음을 보여준다.",
-      "title_en": "Uber, Wayve win London <em>robotaxi licenses</em> — ahead of Waymo, Baidu",
-      "hotShort_en": "Uber, Wayve grab London <em>robotaxi licenses</em> first",
-      "body_en": "Uber and UK self-driving startup Wayve won licenses from London's transport authority (TfL) to run supervised robotaxis with a safety driver aboard — up to 15 vehicles for a one-year trial, beating planned rollouts from Waymo and Baidu, a reference point for where Tesla stands in Europe's heating-up robotaxi race.",
-      "summary_en": "London's transport authority TfL issued private-hire vehicle licenses letting Uber and self-driving startup Wayve carry passengers, Bloomberg reported. Up to 15 Ford Mustang Mach-E EVs equipped with Wayve's AI Driver system will run a one-year trial.\n\nRides are hands-off for passengers, but a safety supervisor rides along and can intervene if needed — a supervised rollout. The trial opens this summer to riders who signed up in advance.\n\nUber said it plans to expand autonomous rides to more than 10 cities globally by year-end with partners including Wayve and Nuro. The London win puts Uber and Wayve ahead of Waymo and Baidu's planned entries into the same market, underscoring how fast Europe's robotaxi competition is reshaping — a market Tesla has yet to enter.",
-      "href": "https://www.bloomberg.com/news/articles/2026-08-05/uber-and-wayve-win-licenses-for-supervised-robotaxis-in-london",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Bloomberg",
-        "Automotive News",
-        "CleanTechnica"
-      ],
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-08-07 22:09 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-07 23:55 KST 자동 갱신 · 최신순"
 }
