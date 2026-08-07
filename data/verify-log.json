@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-08-01T07:14:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "product-cybertruck-pcs-warranty-extension-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "신규 카드(사이버트럭 PCS 보증 8년 연장·자비수리 전액환불) — 서브에이전트 독립검증(WebSearch)으로 TeslaNorth(href, 2026-07-31 날짜 일치) + Drive Tesla Canada/Electrek/autoevolution/Not a Tesla App 교차 확인",
-            "8년/150,000마일 보증(2024-2025년식) vs 표준 7년/70,000마일(2026년식) 수치 여러 매체 일치 확인 — 창작 없음",
-            "'전액 환불·향후 몇 주 내' 문구도 소스 간 동일 — 과장·왜곡 없음",
-            "'여전히 공식 리콜 아님' 서술 정확 — NHTSA 리콜 파일 없음, 복수 매체가 동일하게 프레이밍",
-            "테슬라 공식 인용문('reliability standards 미달')이 직접 인용이라 단정형 사용 적절, hedge 표현 왜곡 없음",
-            "이전(4~6월) '리콜 회피' 보도와 구분되는 7/31 신규 전개로 확인 — 옛 기사 재발행 아님"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-08-01T15:10:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -749,6 +729,29 @@
             "본문-링크 일치 — WSJ 기사 주제(락업 종료 후 주가 반등)와 카드 내용 부합",
             "밈/풍자 해당 없음(X발 카드 아님)",
             "$111.17을 종가로 오기하지 않고 장중 반등치로 정확히 서술 확인(WSJ 원문은 페이월로 WebSearch 교차검증 대체)"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-07T09:10:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "product-bess-competition-gm-ford-2026-08-07",
+          "verdict": "pass",
+          "newSourceLabel": null,
+          "reasons": [
+            "sourceLabel press 적절 — Investor's Business Daily, sec/official/rumor 아님",
+            "verify-error: 이번 세션에서 WebFetch가 investors.com/insideevs.com/electrek.co/cnbc.com/barrons.com/api.teslabriefing.com 등 시도한 모든 도메인에서 EGRESS_BLOCKED로 전면 차단(환경 프록시 이슈로 추정) — 원문 직접 열람 불가, WebSearch 교차검증으로 전면 대체(fail-open 정책 적용)",
+            "숫자 교차검증: 테슬라 지난해 미 BESS 설치량 46.7GWh(총 57GWh 중 약 82%), 매출 $12.7B·매출총이익률 약 30% — WebSearch 2회 독립 검색에서 일관되게 확인(에너지 산업 분석 기사 다수, 57*0.82≈46.7GWh로 내적 정합성도 확인). 포드 Ford Energy 연 20GWh 목표·2027년말 첫 납품, GM 켄터키·미시간 유휴 EV배터리 공장 LFP BESS 전환·연 20GWh 목표·2027년말 첫 납품 — 두 차례 독립 WebSearch에서 동일하게 확인",
+            "조언 톤 위반 없음 (매수/매도/목표가 언급 없음)",
+            "추측→단정 전환 없음 — GM/Ford 신규 진입은 '목표'·'계획' 등 미래 계획으로 정확히 표기, 테슬라 현재 수치만 확정형 사용(설치 완료·발표된 실적이므로 적절)",
+            "본문-링크 일치 — href(investors.com) 제목이 라이브 raw-cards.json 항목과 정확히 일치, 다루는 사건도 동일(테슬라·GM·포드 BESS 경쟁구도)",
+            "밈·풍자 해당 없음(X 소스 아님)",
+            "최근 30일 archive 대조 — Megapack/Orsted/SpaceX Megapack 구매 등 기존 카드는 모두 테슬라 단독 사업 소식이고, 이번 카드는 'GM·포드 신규 진입' 경쟁구도라는 새 각도라 중복 아님",
+            "낮은 신뢰도 유의사항: WebFetch 완전 차단으로 원문 직접 대조 불가, 수치는 WebSearch 스니펫 교차 수렴에만 의존 — 향후 원문 접근 가능해지면 재확인 권장"
           ]
         }
       ]

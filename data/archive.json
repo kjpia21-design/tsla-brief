@@ -3,6 +3,26 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5h ago",
+      "pubDate": "2026-08-07T03:28:01.000Z",
+      "title": "IBD \"테슬라·GM·포드, 배터리저장 시장서 <em>격돌</em>\" — 테슬라 여전히 82% 점유",
+      "hotShort": "테슬라·GM·포드 배터리저장 <em>격돌</em> — 82% 우위",
+      "body": "GM과 포드가 테슬라의 최고 수익 사업인 배터리 에너지저장장치(BESS)에 잇달아 뛰어들며 경쟁이 본격화됐다 — 다만 테슬라는 지난해 미국 시장 설치량(약 57GWh) 중 46.7GWh(약 <em>82%</em>)를 차지하고 매출 127억달러·매출총이익률 약 30%로 자동차 사업보다 수익성이 훨씬 높은 핵심 사업의 아성을 지키고 있어, 경쟁 심화가 실제 점유율 잠식으로 이어질지가 주주의 관전 포인트.",
+      "sourceName": "Investor's Business Daily",
+      "sourceLabel": "press",
+      "slug": "product-bess-competition-gm-ford-2026-08-07",
+      "summary": "전기차(EV) 수요 둔화 속에 완성차 업체들이 그리드·산업용·AI 데이터센터용 대형 정치식 배터리(BESS) 시장으로 눈을 돌리고 있다. IBD는 이 흐름의 최전선에 테슬라·GM·포드가 나란히 서 있다고 짚었다.\n\n포드는 신설 자회사 Ford Energy를 통해 유틸리티·대형 산업·상업 고객, 그리고 AI 데이터센터向 BESS 사업을 시작한다고 밝혔다 — 연간 약 <em>20GWh</em> 생산능력을 목표로 하며 첫 납품은 2027년 말부터다.\n\nGM도 뒤이어 뛰어들었다. 가동률이 떨어진 켄터키·미시간의 EV 배터리 공장을 LFP(리튬인산철) 기반 BESS 생산으로 전환하는 전략으로, 역시 연간 약 <em>20GWh</em> 규모를 목표로 2027년 말 첫 납품을 계획하고 있다.\n\n반면 테슬라는 이미 이 시장의 지배적 사업자다. 지난해 미국에서 설치된 BESS 약 57GWh 중 46.7GWh, 약 82%를 테슬라가 차지했고, 이 사업부 매출은 127억달러·매출총이익률은 약 30%에 달한다 — 자동차 판매 마진의 약 2배, 일반 완성차업체 평균 마진의 3배 이상인 수치다.\n\nGM·포드의 신규 진입은 2027년 말에야 첫 물량이 나오는 만큼 당장의 위협은 아니지만, 테슬라의 가장 수익성 높은 사업에 대형 경쟁자가 본격 가세했다는 신호다. 에너지 사업이 테슬라 밸류에이션의 핵심 축으로 부상한 만큼, 이 점유율 경쟁의 향방을 주주들이 지켜볼 만하다.",
+      "title_en": "IBD: Tesla, GM and Ford <em>converge</em> on the BESS market — Tesla still holds 82% share",
+      "hotShort_en": "Tesla, GM, Ford <em>collide</em> in battery storage — Tesla holds 82%",
+      "body_en": "GM and Ford are both jumping into battery energy storage systems (BESS) — Tesla's most profitable business — intensifying competition. Still, Tesla captured 46.7 GWh of the roughly 57 GWh installed in the US last year (about <em>82% share</em>), with $12.7B in revenue and ~30% gross margin, far more profitable than its car business — whether the new rivals actually chip away at that share is what shareholders should watch.",
+      "summary_en": "As EV demand cools, automakers are pivoting toward large stationary batteries for the grid, industrial customers, and AI data centers. IBD points to Tesla, GM, and Ford as the three companies now converging on this front.\n\nFord is entering through a new subsidiary, Ford Energy, targeting utility, large industrial/commercial, and AI-data-center customers — aiming for roughly <em>20 GWh</em> of annual capacity, with first deliveries starting in late 2027.\n\nGM followed suit, repurposing underutilized EV battery plants in Kentucky and Michigan to produce LFP-based BESS, also targeting around <em>20 GWh</em> a year with first deliveries in late 2027.\n\nTesla, meanwhile, remains the dominant player. It captured roughly 46.7 GWh of the ~57 GWh installed in the US last year — about 82% share — with the segment generating $12.7B in revenue at roughly 30% gross margin, about double what Tesla makes on vehicles and several times a typical automaker's margin.\n\nGM and Ford's entries won't ship meaningful volume until late 2027, so it's not an immediate threat, but it does mark serious competition arriving in Tesla's most profitable business. With energy storage increasingly central to Tesla's valuation story, shareholders will want to watch how this share battle plays out.",
+      "href": "https://www.investors.com/news/tesla-gm-ford-energy-storage-bess-electric-vehicles-evs-auto-industry/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "4h ago",
       "pubDate": "2026-08-06T21:58:28.000Z",
       "title": "머스크, 테라팹 영상에 <em>로보밴</em> 깜짝 등장 — 공개 2년 만의 근황",
@@ -2335,26 +2355,6 @@
       "href": "https://electrek.co/2026/07/24/tesla-secret-2-billion-ai-hardware-acquisition-closes/",
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "27m ago",
-      "pubDate": "2026-07-24T14:10:15.000Z",
-      "title": "마이클 버리, 테슬라 공매도 <em>\"청산 안 했다\"</em> — 7월 급락 최대 수혜",
-      "hotShort": "버리, 테슬라 숏 <em>\"청산 안 했다\"</em> 재확인",
-      "body": "'빅쇼트' 마이클 버리가 6월 말 $416선에서 연 테슬라 공매도 포지션을 아직 청산하지 않았다고 재확인 — 실적 발표 후 7월에만 24% 급락하며 그가 동시에 연 5개 공매도 종목 중 테슬라가 최대 수익원이 됐다. 정확한 손익 규모는 공개하지 않았지만, '빅쇼트'급 인지도의 베어가 저가매수 흐름 속에서도 물러서지 않는다는 신호.",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "stock-burry-tesla-short-profits-2026-07-24",
-      "summary": "마이클 버리는 지난 6월30일 서브스택을 통해 테슬라·엔비디아·캐터필러·VanEck 반도체 ETF·어플라이드 머티리얼즈 등 5개 종목에 대한 신규 공매도 포지션을 한꺼번에 공개했다. 각 종목이 강한 랠리를 보인 직후였고, 그는 반도체 업황에 대해 \"붐의 종말이 시작됐다\"고 주장하며 베팅 근거를 밝힌 바 있다.\n\n이번 CNBC 보도의 핵심은 그중 테슬라 포지션의 성과다. 테슬라는 22일 장 마감 후 발표한 2분기 실적이 컨센서스를 밑돌면서 다음 거래일 장중 한때 15%까지 급락했고, 7월 한 달 낙폭이 24%로 커졌다 — 버리가 숏을 연 $416.22에서 23일 종가 $319.69까지 밀린 셈이다. CNBC는 이 낙폭이 버리가 동시에 연 5개 공매도 포지션 중 \"지금까지 가장 큰 승자\"라고 짚었다.\n\n버리 본인은 24일 새 서브스택 포스트에서 \"테슬라 공매도를 아직 청산하지 않았다 — 알아서 작아지고 있다\"고 밝혔다. 다만 포지션 규모나 실현·미실현 손익 여부는 이번에도 공개하지 않아, 정확한 수익 규모는 확인되지 않는다.\n\n앞서 블룸버그는 실적 후 급락으로 테슬라 공매도 세력 전체가 약 $4B의 평가이익을 거뒀다고 추산했다(별도 카드 참고) — 버리는 그중에서도 가장 이름값 있는 개별 베어 중 하나로, 같은 날 저가매수에 나선 캐시 우드·ARK 등 강세론자들과 뚜렷이 대비되는 포지션을 유지하고 있다.",
-      "title_en": "'Big Short' investor Michael Burry <em>hasn't covered</em> his Tesla short",
-      "hotShort_en": "Burry says his Tesla short <em>still isn't closed</em>",
-      "body_en": "'Big Short' investor Michael Burry says he still hasn't closed the Tesla short he opened near $416 in late June — with the stock down 24% in July after the earnings miss, it's become the biggest winner among the five short positions he disclosed at once. He hasn't revealed the size of the position or the profit, but the reiteration signals one of Wall Street's best-known bears isn't backing off even as others buy the dip.",
-      "summary_en": "Michael Burry disclosed new short positions in five names at once via Substack on June 30 — Tesla, Nvidia, Caterpillar, the VanEck Semiconductor ETF, and Applied Materials — arguing each had rallied hard and calling it \"the beginning of the end\" for the chip boom.\n\nCNBC's report centers on how the Tesla leg has performed since. Tesla's Q2 results, released after Wednesday's close, missed consensus, and shares plunged as much as 15% intraday the next trading day, extending the stock's July decline to 24% — from Burry's roughly $416.22 entry down to Thursday's $319.69 close. CNBC noted the drop makes Tesla the standout winner among the five shorts he opened together.\n\nIn a new Substack post Friday, Burry wrote that he still hasn't covered his Tesla short, adding \"it gets smaller all on its own.\" He again declined to disclose the position size or whether any gains are realized, so the exact profit remains unknown.\n\nBloomberg had separately estimated that Tesla short sellers broadly pocketed about $4B in paper gains from the post-earnings plunge (see related card). Burry stands out as one of the most recognizable individual bears in that group — holding firm even as bulls like Cathie Wood's ARK bought the dip the same week.",
-      "href": "https://www.cnbc.com/2026/07/24/michael-burrys-short-bets-on-tesla-caterpillar-pay-off-in-big-july-pullback.html",
-      "sentiment": "bear",
-      "hot": 5
     }
   ],
   "asOf": "2026-08-07 12:06 KST 자동 갱신 · 최신순"

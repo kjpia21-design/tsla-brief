@@ -3,6 +3,26 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5h ago",
+      "pubDate": "2026-08-07T03:28:01.000Z",
+      "title": "IBD \"테슬라·GM·포드, 배터리저장 시장서 <em>격돌</em>\" — 테슬라 여전히 82% 점유",
+      "hotShort": "테슬라·GM·포드 배터리저장 <em>격돌</em> — 82% 우위",
+      "body": "GM과 포드가 테슬라의 최고 수익 사업인 배터리 에너지저장장치(BESS)에 잇달아 뛰어들며 경쟁이 본격화됐다 — 다만 테슬라는 지난해 미국 시장 설치량(약 57GWh) 중 46.7GWh(약 <em>82%</em>)를 차지하고 매출 127억달러·매출총이익률 약 30%로 자동차 사업보다 수익성이 훨씬 높은 핵심 사업의 아성을 지키고 있어, 경쟁 심화가 실제 점유율 잠식으로 이어질지가 주주의 관전 포인트.",
+      "sourceName": "Investor's Business Daily",
+      "sourceLabel": "press",
+      "slug": "product-bess-competition-gm-ford-2026-08-07",
+      "summary": "전기차(EV) 수요 둔화 속에 완성차 업체들이 그리드·산업용·AI 데이터센터용 대형 정치식 배터리(BESS) 시장으로 눈을 돌리고 있다. IBD는 이 흐름의 최전선에 테슬라·GM·포드가 나란히 서 있다고 짚었다.\n\n포드는 신설 자회사 Ford Energy를 통해 유틸리티·대형 산업·상업 고객, 그리고 AI 데이터센터向 BESS 사업을 시작한다고 밝혔다 — 연간 약 <em>20GWh</em> 생산능력을 목표로 하며 첫 납품은 2027년 말부터다.\n\nGM도 뒤이어 뛰어들었다. 가동률이 떨어진 켄터키·미시간의 EV 배터리 공장을 LFP(리튬인산철) 기반 BESS 생산으로 전환하는 전략으로, 역시 연간 약 <em>20GWh</em> 규모를 목표로 2027년 말 첫 납품을 계획하고 있다.\n\n반면 테슬라는 이미 이 시장의 지배적 사업자다. 지난해 미국에서 설치된 BESS 약 57GWh 중 46.7GWh, 약 82%를 테슬라가 차지했고, 이 사업부 매출은 127억달러·매출총이익률은 약 30%에 달한다 — 자동차 판매 마진의 약 2배, 일반 완성차업체 평균 마진의 3배 이상인 수치다.\n\nGM·포드의 신규 진입은 2027년 말에야 첫 물량이 나오는 만큼 당장의 위협은 아니지만, 테슬라의 가장 수익성 높은 사업에 대형 경쟁자가 본격 가세했다는 신호다. 에너지 사업이 테슬라 밸류에이션의 핵심 축으로 부상한 만큼, 이 점유율 경쟁의 향방을 주주들이 지켜볼 만하다.",
+      "title_en": "IBD: Tesla, GM and Ford <em>converge</em> on the BESS market — Tesla still holds 82% share",
+      "hotShort_en": "Tesla, GM, Ford <em>collide</em> in battery storage — Tesla holds 82%",
+      "body_en": "GM and Ford are both jumping into battery energy storage systems (BESS) — Tesla's most profitable business — intensifying competition. Still, Tesla captured 46.7 GWh of the roughly 57 GWh installed in the US last year (about <em>82% share</em>), with $12.7B in revenue and ~30% gross margin, far more profitable than its car business — whether the new rivals actually chip away at that share is what shareholders should watch.",
+      "summary_en": "As EV demand cools, automakers are pivoting toward large stationary batteries for the grid, industrial customers, and AI data centers. IBD points to Tesla, GM, and Ford as the three companies now converging on this front.\n\nFord is entering through a new subsidiary, Ford Energy, targeting utility, large industrial/commercial, and AI-data-center customers — aiming for roughly <em>20 GWh</em> of annual capacity, with first deliveries starting in late 2027.\n\nGM followed suit, repurposing underutilized EV battery plants in Kentucky and Michigan to produce LFP-based BESS, also targeting around <em>20 GWh</em> a year with first deliveries in late 2027.\n\nTesla, meanwhile, remains the dominant player. It captured roughly 46.7 GWh of the ~57 GWh installed in the US last year — about 82% share — with the segment generating $12.7B in revenue at roughly 30% gross margin, about double what Tesla makes on vehicles and several times a typical automaker's margin.\n\nGM and Ford's entries won't ship meaningful volume until late 2027, so it's not an immediate threat, but it does mark serious competition arriving in Tesla's most profitable business. With energy storage increasingly central to Tesla's valuation story, shareholders will want to watch how this share battle plays out.",
+      "href": "https://www.investors.com/news/tesla-gm-ford-energy-storage-bess-electric-vehicles-evs-auto-industry/",
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "4h ago",
       "pubDate": "2026-08-06T21:58:28.000Z",
       "title": "머스크, 테라팹 영상에 <em>로보밴</em> 깜짝 등장 — 공개 2년 만의 근황",
@@ -161,5 +181,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-08-07 12:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-07 09:10 KST 자동 갱신 · 최신순"
 }
