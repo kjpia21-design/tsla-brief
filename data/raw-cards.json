@@ -1,10 +1,49 @@
 {
-  "asOf": "2026-08-07 07:24 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-07 09:05 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
+      "time": "51m ago",
+      "pubDate": "2026-08-07T08:14:25.000Z",
+      "title": "Tesla, Inc. $TSLA Shares Acquired by Czech National Bank",
+      "body": "Tesla, Inc. $TSLA Shares Acquired by Czech National Bank MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-tesla-inc-tsla-shares-acquired-by-czech-national-bank-2026-08-07/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1h ago",
+      "pubDate": "2026-08-07T07:56:21.000Z",
+      "title": "Clark Asset Management LLC Sells 1,740 Shares of Tesla, Inc. $TSLA",
+      "body": "Clark Asset Management LLC Sells 1,740 Shares of Tesla, Inc. $TSLA MarketBeat",
+      "sourceName": "MarketBeat",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.marketbeat.com/instant-alerts/filing-clark-asset-management-llc-sells-1740-shares-of-tesla-inc-tsla-2026-08-07/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
+      "pubDate": "2026-08-07T07:27:39.000Z",
+      "title": "The Boring Company’s newest Vegas Station has a permit quietly waiting behind it",
+      "body": "Sahara Las Vegas opened a new Vegas Loop station, joining an exclusive two resort transit club. The post The Boring Company’s newest Vegas Station has a permit quietly waiting behind it appeared first on TESLARATI.",
+      "sourceName": "www.teslarati.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.teslarati.com/the-boring-companys-newest-vegas-station-has-a-permit-quietly-waiting-behind-it/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
       "pubDate": "2026-08-07T05:21:14.000Z",
       "title": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus",
       "body": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus Stocktwits",
@@ -15,35 +54,9 @@
       "href": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-ai-trade-hpe-marvell-tesla-spce-asts-stocks-to-watch/cZ0isUxRewE"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-08-07T03:28:01.000Z",
-      "title": "Tesla, GM And Ford Converge On The BESS Market. Here's What That Means.",
-      "body": "Tesla, GM And Ford Converge On The BESS Market. Here's What That Means. Investor's Business Daily",
-      "sourceName": "Investor's Business Daily",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.investors.com/news/tesla-gm-ford-energy-storage-bess-electric-vehicles-evs-auto-industry/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-08-07T03:00:13.000Z",
-      "title": "Nasdaq Futures Tick Higher As Amazon Earnings Lift AI Stocks Despite Apple Selloff: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus",
-      "body": "Nasdaq Futures Tick Higher As Amazon Earnings Lift AI Stocks Despite Apple Selloff: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus Stocktwits",
-      "sourceName": "Stocktwits",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-rise-amazon-ai-trade-apple-slides-why-tsla-spcx-rddt-smci-be-rklb-are-in-focus/cZN4TUZRJ2x"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-07T02:56:30.000Z",
       "title": "Tesla-SpaceX merger would make situation 'even more confusing', says investor",
       "body": "Tesla-SpaceX merger would make situation 'even more confusing', says investor CNBC",
@@ -56,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-07T02:44:00.000Z",
       "title": "SpaceX Shares Steady After $100 Billion Insider Lockup Expires",
       "body": "SpaceX Shares Steady After $100 Billion Insider Lockup Expires Bloomberg.com",
@@ -67,22 +80,9 @@
       "href": "https://www.bloomberg.com/news/articles/2026-08-06/spacex-shares-steady-after-100-billion-insider-lockup-expires"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
-      "pubDate": "2026-08-07T02:02:01.000Z",
-      "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe",
-      "body": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe InsideEVs",
-      "sourceName": "InsideEVs",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://insideevs.com/news/790892/tesla-sales-europe-february-2026/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-08-06T23:35:00.000Z",
       "title": "Tesla is racking up speeding tickets, and YOU are on the hook",
       "body": "Tesla is racking up speeding tickets, and YOU are on the hook Electrek",
@@ -95,7 +95,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-08-06T22:19:42.000Z",
       "title": "Elon Musk",
       "body": "Elon Musk CNBC",
@@ -108,7 +108,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-08-06T21:58:28.000Z",
       "title": "Tesla’s mysterious Robovan makes a sneak peek with Optimus in Terafab video",
       "body": "Tesla’s mysterious Robovan makes a sneak peek with Optimus in Terafab video Teslarati",
@@ -121,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-08-06T21:30:11.000Z",
       "title": "A 500 MWh Tesla Megapack battery just went live in Texas",
       "body": "Tesla Megapacks are now helping support the Texas grid at Ørsted’s new 250 MW/500 MWh Old 300 battery storage project.",
@@ -134,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-08-06T21:11:00.000Z",
       "title": "SpaceX True Believers Propel Shares Past End of Epic Lockup",
       "body": "SpaceX True Believers Propel Shares Past End of Epic Lockup WSJ",
@@ -147,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
+      "time": "18h ago",
       "pubDate": "2026-08-06T15:00:12.000Z",
       "title": "Tesla Cybertruck production snaps back after ugly supplier fight",
       "body": "Cybertrucks are piling up again at Giga Texas after Tesla's court win against a parts supplier. The post Tesla Cybertruck production snaps back after ugly supplier fight appeared first on TESLARATI.",
@@ -158,22 +158,9 @@
       "href": "https://www.teslarati.com/tesla-cybertruck-production-snaps-back-after-ugly-supplier-fight/"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-08-06T14:12:53.000Z",
-      "title": "TLDR: If an agent is allowed to code, it could score almost perfectly on many benchmarks, even the one with AGI in th…",
-      "body": "TLDR: If an agent is allowed to code, it could score almost perfectly on many benchmarks, even the one with AGI in the name.",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2085368515889181180"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "20h ago",
       "pubDate": "2026-08-06T12:52:24.000Z",
       "title": "Tesla starts Megapack 3 production with 28% more energy per unit",
       "body": "Tesla has started building its next-generation Megapack 3 grid battery, with the first units rolling off the line at the company’s new Megafactory in Brookshire, Texas. The plant went from groundbreaking to production in…",
@@ -186,7 +173,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "19h ago",
+      "time": "20h ago",
       "pubDate": "2026-08-06T12:38:49.000Z",
       "title": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret",
       "body": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret Reuters",
@@ -199,11 +186,11 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-08-06T11:29:00.000Z",
       "title": "Tesla Stock Drops as It Seeks to Tap Massive Self-Driving Market",
-      "body": "Tesla Stock Drops as It Seeks to Tap Massive Self-Driving Market Barron's",
-      "sourceName": "Barron's",
+      "body": "Tesla Stock Drops as It Seeks to Tap Massive Self-Driving Market barrons.com",
+      "sourceName": "barrons.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -234,6 +221,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/autos-transportation/uber-forecasts-weak-quarterly-profit-doubles-down-robotaxi-investment-plans-2026-08-05/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-08-05T11:23:56.000Z",
+      "title": "Uber and Wayve Win Licenses for Supervised Robotaxis in London",
+      "body": "Uber and Wayve Win Licenses for Supervised Robotaxis in London Bloomberg.com",
+      "sourceName": "Bloomberg.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.bloomberg.com/news/articles/2026-08-05/uber-and-wayve-win-licenses-for-supervised-robotaxis-in-london"
     },
     {
       "category": "product",
