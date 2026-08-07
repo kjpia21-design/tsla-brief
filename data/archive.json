@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4h ago",
+      "pubDate": "2026-08-06T21:58:28.000Z",
+      "title": "머스크, 테라팹 영상에 <em>로보밴</em> 깜짝 등장 — 공개 2년 만의 근황",
+      "hotShort": "머스크 영상에 <em>로보밴</em> 2년 만에 등장",
+      "body": "일론 머스크가 8월6일 공개한 테라팹 개념 렌더링 영상에 2024년 10월 공개 이후 근황이 없던 <em>로보밴</em>이 옵티머스·사이버캡·테슬라 세미와 함께 등장했다 — 실제 공장 촬영본이 아닌 콘셉트 렌더링이지만, 양산 일정이 여전히 미확정인 로보밴을 최근 들어 확인할 수 있는 거의 유일한 모습이라 제품 로드맵을 주시하는 주주는 눈여겨볼 만하다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-robovan-terafab-video-2026-08-06",
+      "summary": "로보밴은 2024년 10월 '위, 로봇(We, Robot)' 행사에서 사이버캡과 함께 처음 공개된 박스형 무인 승객·화물 운송차량이다. 당시 머스크는 스티어링휠·페달 없이 한 번에 최대 <em>20인</em>을 태우거나 화물 전용으로 쓸 수 있고, 목표 운영비는 마일당 <em>1달러 미만</em>이라고 소개했다.\n\n8월6일 머스크가 X에 올린 테라팹 영상은 텍사스 그라임스카운티 깁본스크리크 부지에 들어설 약 2.5마일(약 4km) 길이 공장을 배경으로 한 SpaceX 제작 콘셉트 렌더링이다. 영상에는 옵티머스 로봇들이 부지 곳곳에서 작업하는 모습과, 건물을 관통하는 고가도로 위로 로보밴이 사이버캡·테슬라 세미와 나란히 지나가는 장면이 담겼다 — 실제 공장 촬영본은 아니다.\n\n로보밴은 공개 후 약 2년이 지나도록 확정된 양산 일정이 없고, 실제 공장에서 촬영된 모습도 그동안 없었다 — 이번 렌더링이 최근 들어 로보밴을 시각적으로 확인할 수 있는 거의 유일한 자료라는 점에서 주목받는다.\n\n옵티머스와 마찬가지로 로보밴 역시 테슬라의 미래 성장 스토리에서 핵심 축으로 거론돼 왔지만, 구체적 생산 계획 공개 없이 콘셉트 영상에만 계속 등장하는 상황이 이어지면서 로드맵 실행 속도에 대한 의구심도 함께 제기된다.",
+      "title_en": "Musk's Terafab video gives <em>Robovan</em> a rare cameo — first look in 2 years",
+      "hotShort_en": "<em>Robovan</em> resurfaces in Musk's Terafab video",
+      "body_en": "A Terafab concept video Elon Musk posted on August 6 gave a rare glimpse of <em>Robovan</em>, which hasn't had a public update since its October 2024 reveal, appearing alongside Optimus, Cybercab, and Tesla Semi — it's a render, not real factory footage, but it's one of the only recent looks at a vehicle whose production timeline remains unconfirmed, worth watching for shareholders tracking Tesla's product roadmap.",
+      "summary_en": "Robovan is the boxy, driverless people-and-cargo mover Musk first unveiled alongside Cybercab at Tesla's 'We, Robot' event in October 2024. He pitched it as carrying up to <em>20 passengers</em> at once — or handling freight instead — with no steering wheel or pedals, at a target operating cost under <em>$1 a mile</em>.\n\nThe Terafab video Musk posted on X on August 6 is a SpaceX-produced concept render set against the roughly 2.5-mile-long facility planned for the Gibbons Creek site in Grimes County, Texas. It shows Optimus robots working the grounds while a Robovan glides along an elevated roadway through the building alongside a Cybercab and Tesla Semi — not actual factory footage.\n\nNearly two years after its reveal, Robovan still has no confirmed production timeline and hasn't appeared in any real factory footage — making this render one of the only recent looks at the vehicle in any form.\n\nLike Optimus, Robovan has been framed as central to Tesla's future growth story, but its continued appearances only in concept videos, without a concrete production plan, keep raising questions about execution pace on the roadmap.",
+      "href": "https://www.teslarati.com/teslas-mysterious-robovan-makes-a-sneak-peek-with-optimus-in-terafab-video/",
+      "sentiment": "neutral",
+      "hot": 4
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10h ago",
+      "pubDate": "2026-08-06T15:14:07.000Z",
+      "title": "SpaceX·테슬라 텍사스 테라팹에 <em>초기 168억달러</em> 투자 확정",
+      "hotShort": "SpaceX·테슬라 테라팹 <em>168억달러</em> 투자 확정",
+      "body": "SpaceX가 텍사스 그라임스카운티 테라팹 반도체 공장에 <em>초기 168억달러</em>를 투자한다고 8월6일 공식 발표했다 — 지난 5월 신청서류에 명시됐던 초기 550억달러(총 최대 1,190억달러)와는 다른, 이번 착수 단계의 확정 투자액이다. 옵티머스·사이버캡용 칩과 스페이스X 우주 데이터센터용 고성능 칩을 자체 생산해 TSMC·삼성 의존도를 낮추려는 구상인 만큼, 주주 입장에선 장기 공급망 자립을 향한 첫 확정 예산이라는 의미가 있다.",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "musk-terafab-deal-confirmed-2026-08-06",
+      "summary": "일론 머스크가 3월 처음 구상을 공개한 테라팹은 SpaceX가 텍사스 그라임스카운티 깁본스크리크 저수지 인근에 짓는 반도체 공장이다. 4월에는 인텔이 설계·제조·패키징을 지원하는 파트너로 합류해, SpaceX·테슬라·인텔 3사 합작 형태의 수직통합 칩 생산 구상으로 확장됐다.\n\nSpaceX는 8월6일 홈페이지 공식 성명을 통해 테라팹에 <em>초기 168억달러</em>를 투자한다고 밝혔다. 부지 면적은 <em>1억제곱피트</em> 규모이며, 로직·메모리 반도체의 설계·패키징·테스트를 한 지붕 아래서 처리하는 수직통합 공장으로, 최소 <em>3,000명</em>을 고용할 계획이다. SpaceX는 이 시설이 SpaceX·테슬라가 향후 필요로 할 것으로 예상하는 1테라와트 이상의 컴퓨팅 전력과 현재 세계 반도체 공급 사이의 간극을 좁히기 위한 것이라고 설명했다.\n\n이번 168억달러는 지난 5월 규제 신청서류에 담겼던 초기 550억달러(추가 단계 포함 시 최대 1,190억달러)라는 수치와는 다르다 — 회사 측은 추가 확장 단계가 진행되면 총 투자 규모가 더 커질 수 있다고 밝혀, 이번 발표를 착수 단계의 확정치로 볼 수 있다.\n\n부지 인근 그라임스카운티 주민 약 900명은 지난 발표 직후 독립 법률자문·수자원·환경 안전장치를 요구하는 청원서를 제출한 바 있어, 지역사회와의 관계는 여전히 지켜볼 변수다. 테슬라 주주 입장에서 테라팹은 FSD·옵티머스·AI 인프라용 칩 공급망을 자체 확보한다는 점에서 장기적으로 긍정적이지만, SpaceX·테슬라·xAI 간 교차 투자가 계속 커지는 만큼 머스크 계열사 간 자본 배분의 균형은 계속 지켜볼 변수다.",
+      "title_en": "SpaceX, Tesla confirm <em>$16.8B initial investment</em> in Texas Terafab plant",
+      "hotShort_en": "SpaceX/Tesla confirm <em>$16.8B</em> Terafab investment",
+      "body_en": "SpaceX said on August 6 it will invest <em>$16.8 billion</em> initially in its Terafab chip plant in Grimes County, Texas — a different figure from the $55 billion initial phase (up to $119B total) disclosed in a May regulatory filing, marking the first confirmed construction-stage budget. The plant aims to make chips in-house for Optimus, Cybercab, and SpaceX's space-based data centers, cutting reliance on TSMC and Samsung — a first concrete step toward long-term supply-chain independence that shareholders will want to track.",
+      "summary_en": "Terafab, the chip plant concept Elon Musk first unveiled in March, is a SpaceX-led semiconductor facility near the Gibbons Creek Reservoir in Grimes County, Texas. Intel joined as a partner in April to help with chip design, manufacturing, and packaging, expanding it into a three-way venture between SpaceX, Tesla, and Intel aimed at vertically integrating chip production.\n\nIn an official statement on its website on August 6, SpaceX said it will invest <em>$16.8 billion</em> initially in Terafab. The site spans <em>100 million square feet</em>, and the vertically integrated plant will handle the design, packaging, and testing of logic and memory chips under one roof, employing at least <em>3,000</em> people. SpaceX said the facility is meant to narrow the gap between global chip supply and the more than 1 terawatt of computing power it and Tesla expect to need.\n\nThe $16.8 billion figure differs from the $55 billion initial-phase investment (up to $119 billion including additional phases) disclosed in a May regulatory filing. SpaceX said total investment could grow further as additional expansion phases proceed, making this week's announcement the first confirmed budget for the construction stage.\n\nAbout 900 Grimes County residents submitted a petition shortly after the earlier announcement demanding independent legal counsel and water and environmental safeguards, so community relations remain a variable to watch. For Tesla shareholders, Terafab is a long-term positive in that it secures in-house chip supply for FSD, Optimus, and AI infrastructure — but the growing web of cross-investment among Musk's companies (SpaceX, Tesla, xAI) remains a governance factor worth monitoring.",
+      "href": "https://www.reuters.com/business/media-telecom/spacex-says-terafab-be-built-texas-with-initial-investment-168-billion-2026-08-06/",
+      "confirmedBy": 4,
+      "confirmingSources": [
+        "Reuters",
+        "WSJ",
+        "TechCrunch",
+        "Electrek"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "10h ago",
+      "pubDate": "2026-08-06T15:00:12.000Z",
+      "title": "테슬라, 협력사 앙스트롬 상대 <em>법원서 승소</em> — 사이버트럭 생산 빠르게 정상화",
+      "hotShort": "사이버트럭 생산 <em>빠르게 정상화</em> — 법원 승소",
+      "body": "테슬라가 사이버트럭 전용 금형을 볼모로 잡았던 협력사 앙스트롬 오토모티브 상대 소송에서 8월4일 법원의 <em>긴급 반환명령</em>을 받아냈다 — 다음날 텍사스 기가팩토리 출고장에 사이버트럭 <em>약 100대</em>가 다시 쌓이며 최근 며칠 찔끔거리던 생산이 빠르게 정상화됐다. 실제 공급망 리스크 한 건이 해소된 사례라 주주도 긍정적으로 볼 대목.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-angstrom-lawsuit-2026-07-28",
+      "summary": "지난 7월28일 테슬라는 텍사스 트로이(Troy) 소재 협력사 앙스트롬 오토모티브를 상대로 연방법원에 긴급 가처분을 신청했다. 앙스트롬이 자사 공장 폐쇄를 예고하며 사이버트럭 전용 금형·트림 다이 등 대체 불가능한 부품을 쥐고 주당 <em>25만달러</em> 추가 지급을 요구했고, 대체 공급처가 없어 법원 개입이 없으면 며칠 내 생산 부품이 바닥날 상황이었다.\n\n8월4일 법원은 테슬라의 긴급 신청을 인용해 임시제한명령(TRO)과 재산 반환명령(writ of replevin)을 내렸다 — 테슬라가 직접 부지에 들어가 자사 금형·설비를 회수할 권리를 확보한 것이다.\n\n다음날인 8월5일, 항공 관측 결과 기가텍사스 출고장에 사이버트럭 약 100대가 다시 쌓인 모습이 포착됐다 — 최근 며칠 찔끔거리던 물량에서 빠르게 반등한 규모로, 이번 앙스트롬 사태가 실제 생산 병목의 핵심 원인이었음을 보여준다는 평가다.\n\n테슬라의 이번 청구는 손해배상이 아니라 장비 회수에 초점을 맞춘 좁은 범위였다 — 이미 고객에게 배정된 수천 대의 사이버트럭 생산이 이 금형 접근권에 달려 있었기 때문이라는 설명이다. 공급망의 단일 실패점(협력사 리스크)이 생산에 미치는 영향을 보여준 사례로, 테슬라의 향후 부품 조달 다변화 여부를 주주가 지켜볼 만하다.",
+      "title_en": "Tesla wins court order against supplier Angstrom — Cybertruck output <em>rebounds fast</em>",
+      "hotShort_en": "Cybertruck output <em>rebounds fast</em> after court win",
+      "body_en": "Tesla won an <em>emergency court order</em> on August 4 against supplier Angstrom Automotive, which had been holding Cybertruck-specific tooling hostage — by the next day, roughly <em>100 Cybertrucks</em> were piling up again in the outbound lot at Giga Texas, a fast rebound from the trickle of recent days. It's a real supply-chain risk that actually got resolved, a positive shareholders will want to note.",
+      "summary_en": "On July 28, Tesla filed an emergency lawsuit in federal court against supplier Angstrom Automotive, based in Troy, Texas. Angstrom had announced it was closing its plant and demanded an extra <em>$250,000 a week</em>, holding Cybertruck-specific dies and tooling that no other supplier could replace — without court intervention, Tesla said production parts could run out within days.\n\nOn August 4, the court granted Tesla's emergency request, issuing a temporary restraining order and a writ of replevin — giving Tesla the right to enter the site and reclaim its own tooling and equipment.\n\nThe next day, August 5, aerial observers spotted roughly 100 Cybertrucks piled up again in the outbound lot at Giga Texas — a sharp rebound from the trickle of recent days, suggesting the Angstrom standoff had indeed been the main bottleneck limiting output.\n\nTesla's legal request was narrowly focused on recovering its property rather than seeking broader damages — the company said thousands of Cybertrucks already assigned to customers depended on access to that tooling. The episode is a reminder of how a single supplier dispute can bottleneck production, and shareholders will want to watch whether Tesla diversifies its tooling suppliers going forward.",
+      "href": "https://www.teslarati.com/tesla-cybertruck-production-snaps-back-after-ugly-supplier-fight/",
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "29m ago",
@@ -66,31 +133,6 @@
       "href": "https://www.reuters.com/legal/litigation/pressured-by-tesla-european-regulators-keep-full-self-driving-safety-data-secret-2026-08-06/",
       "sentiment": "bear",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "29m ago",
-      "pubDate": "2026-08-06T06:06:26.000Z",
-      "title": "SpaceX “텍사스 <em>테라팹 프로젝트 확정</em>” — 주민 대면 설명회, 수개월 내 착공",
-      "hotShort": "SpaceX, 텍사스 <em>테라팹 착공</em> 수개월 내 예고",
-      "body": "SpaceX가 텍사스 그라임스카운티 테라팹(Terafab) 반도체 공장 부지가 <em>확정됐다</em>고 밝히고, 주민들과 처음 대면 설명회를 열었다 — 착공은 수개월 내 예정. 최대 1,190억달러 규모(1단계 550억달러)의 이 프로젝트는 SpaceX·테슬라·인텔 합작으로, FSD·옵티머스·AI 데이터센터에 쓰일 반도체를 자체 생산해 TSMC·삼성 의존도를 낮추려는 머스크의 구상이다. 같은 날 주민 약 900명은 환경·법률 보호장치를 요구하는 청원서를 제출했다.",
-      "sourceName": "KBTX",
-      "sourceLabel": "press",
-      "slug": "musk-terafab-deal-confirmed-2026-08-06",
-      "summary": "일론 머스크가 3월 처음 구상을 공개한 'Terafab'은 SpaceX가 텍사스에 짓는 반도체 공장으로, 초기 투자액 550억달러로 출발해 추가 단계까지 포함하면 최대 1,190억달러까지 늘어날 수 있다. 4월에는 인텔이 고성능 칩 설계·제조·패키징을 돕는 파트너로 합류해, SpaceX·테슬라·인텔 3사 합작이 됐다 — AI·로보틱스·우주 데이터센터용 칩을 수직 통합 생산하겠다는 구상이다.\n\n부지는 텍사스 그라임스카운티 깁본스크리크 저수지(Gibbons Creek Reservoir) 인근으로, 브라이언-칼리지스테이션에서 동쪽으로 약 32km 떨어져 있다. 그라임스카운티 위원회는 이 프로젝트에 100% 재산세 감면을 주는 재투자구역 지정을 6월 4대1로 통과시켰고, JETI(텍사스주 일자리·에너지·기술·혁신법) 협약도 그 뒤 확정됐다. SpaceX는 2030년까지 그라임스카운티에 최소 50억달러를 투자하고 2035년까지 상용직 최소 1,800개를 창출하기로 법적으로 약속했으며, 카운티에 연간 2,000만달러씩 35년간(총 7억1,000만달러) 지급하는 조건이다.\n\n8월6일 SpaceX는 프로젝트가 사실상 확정된 'done deal'이라고 밝히고 그라임스카운티 주민들과 처음으로 대면 설명회를 열었다. 테라팹 측 관계자는 앞서 설계 렌더링이 며칠 안에 공개될 수 있고 착공은 수개월 내 시작될 수 있다고 밝힌 바 있다.\n\n다만 주민 반응은 여전히 갈린다. 같은 날 약 900명의 그라임스카운티 주민이 독립 법률자문·수자원·환경 안전장치·클로백(약속 불이행 시 혜택 회수) 조항을 포함한 12가지 보호장치를 요구하는 청원서를 제출했다. 앞서 열린 지역 설명회에서는 발언자 15명 중 14명이 절차 투명성 부족을 지적했고, 건설 기간 2년간 계약직 인력 약 2만명이 유입되면 그라임스카운티 인구가 두 배로 늘어날 수 있다는 우려도 나왔다.\n\n테슬라 주주 입장에서 테라팹은 FSD·옵티머스·AI 인프라용 칩 공급망을 자체 확보한다는 점에서 장기적으로 긍정적이지만, SpaceX·테슬라·xAI 간 교차 투자가 계속 커지는 만큼 머스크 계열사 간 자본 배분의 균형은 주주가 계속 지켜볼 변수다.",
-      "title_en": "SpaceX declares Texas <em>Terafab deal locked in</em> — first face-to-face meeting with residents",
-      "hotShort_en": "SpaceX: Texas <em>Terafab is locked in</em>, build soon",
-      "body_en": "SpaceX said its Terafab chip plant site in Grimes County, Texas is <em>locked in</em>, holding its first face-to-face meeting with residents — construction could start within months. The joint venture with Tesla and Intel, worth up to $119B ($55B in its first phase), aims to build chips for FSD, Optimus, and AI data centers in-house, cutting reliance on TSMC and Samsung. The same day, roughly 900 residents submitted a petition demanding environmental and legal protections.",
-      "summary_en": "Terafab, the chip plant concept Elon Musk first unveiled in March, is a SpaceX-led semiconductor facility in Texas with an initial $55 billion investment that could grow to as much as $119 billion across additional phases. Intel joined as a partner in April to help design, fabricate, and package the chips, making it a three-way venture between SpaceX, Tesla, and Intel aimed at vertically integrating chip production for AI, robotics, and space-based data centers.\n\nThe site sits near the Gibbons Creek Reservoir, about 20 miles east of Bryan-College Station. Grimes County commissioners approved a reinvestment zone and a 100% property tax abatement in a 4-1 vote in June, and JETI (Texas Jobs, Energy, Technology, and Innovation Act) agreements have since been finalized. SpaceX is legally committed to investing at least $5 billion in Grimes County by 2030 and creating at least 1,800 full-time jobs by 2035, and will pay the county $20 million a year for 35 years — $710 million in total.\n\nOn August 6, SpaceX said the project is now effectively a \"done deal\" and held its first face-to-face meeting with Grimes County residents. A Terafab representative said earlier that renderings could be released within days and that construction could begin within months.\n\nResident reaction remains split, though. The same day, roughly 900 Grimes County residents submitted a petition demanding 12 specific protections — including independent legal counsel, water and environmental safeguards, and clawback provisions if commitments aren't met. Earlier community meetings saw 14 of 15 speakers voice frustration over a perceived lack of transparency, and residents have also raised concern that an estimated 20,000 construction contractors over two years could roughly double the county's population.\n\nFor Tesla shareholders, Terafab is a long-term positive in that it secures in-house chip supply for FSD, Optimus, and AI infrastructure — but the growing web of cross-investment among Musk's companies (SpaceX, Tesla, xAI) on projects like this remains a governance variable worth watching.",
-      "href": "https://www.kbtx.com/2026/08/06/spacex-confirms-terefab-project-is-done-deal-reps-meet-face-to-face-with-grimes-county-residents/",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "KBTX",
-        "Teslarati"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     },
     {
       "category": "musk",
@@ -1595,33 +1637,6 @@
       "hot": 4
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
-      "pubDate": "2026-07-28T13:00:05.000Z",
-      "title": "테슬라, 사이버트럭 부품 볼모 잡은 협력사 <em>앙스트롬 상대 긴급소송</em>",
-      "hotShort": "테슬라, 부품 <em>\"몸값\" 요구 협력사</em> 긴급 고소",
-      "body": "테슬라가 사이버트럭 전용 금형·부품을 쥐고 있는 협력사 앙스트롬 오토모티브를 상대로 연방법원에 긴급 가처분을 신청했다 — 앙스트롬이 공장 폐쇄를 예고하며 주당 $250,000 추가 지급을 요구했고, 대체 불가능한 금형이 묶여 있어 법원 개입이 없으면 며칠 내 사이버트럭 생산 부품이 바닥날 위기다.",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "product-cybertruck-angstrom-lawsuit-2026-07-28",
-      "summary": "이 분쟁은 7월13일 앙스트롬이 텍사스 트로이 공장을 닫겠다고 테슬라에 통보하며 시작됐다. 소장에 따르면 앙스트롬은 이후 시설 유지 명목으로 주당 $250,000 추가 지급을 요구했고, 테슬라는 이를 자사 재산을 볼모로 잡은 상업적 압박이라고 규정했다.\n\n7월17일 출고 예정이던 완성 부품 700개가 끝내 공장을 나오지 못했고, 7월21일 테슬라 직원들이 법 집행기관과 함께 공장을 찾았지만 출입을 거부당했다. 결국 테슬라는 7월23일 연방법원에 앙스트롬의 공장 문을 열어 대형 금형을 반출하게 해달라는 긴급 명령을 신청했다.\n\n문제의 설비는 대형 다이캐스팅 기계, 트림 다이, 지그, 절삭공구, 게이지, X선 검사장비 등 사이버트럭 전용 부품만을 위해 제작된 다중 톤급 장비다. 소장은 현재 이 부품을 만들 수 있는 다른 공급업체가 없고, 금형을 처음부터 다시 만들려면 5~6개월이 걸린다고 밝혔다.\n\n이미 고객에게 배정된 수천 대의 사이버트럭이 이 부품에 묶여 있어, 법원 개입이 없으면 \"며칠 안에\" 재고가 바닥날 것이라고 소장은 경고했다. 테슬라라티·EVXL·블룸버그로 등 여러 매체가 이 소송 내용을 교차 확인했다.",
-      "title_en": "Tesla files <em>emergency lawsuit</em> against Cybertruck supplier holding tooling for ransom",
-      "hotShort_en": "Tesla sues supplier <em>holding tooling \"for ransom\"</em>",
-      "body_en": "Tesla has filed an emergency federal lawsuit against supplier Angstrom Automotive, which holds tooling and parts unique to the Cybertruck — Angstrom demanded an extra $250,000 a week after announcing it would close its plant, and with no other supplier able to make the parts, Tesla says Cybertruck production could run out of supply within days without court intervention.",
-      "summary_en": "The dispute traces back to July 13, when Angstrom told Tesla it planned to close its Troy, Texas facility. Tesla's complaint alleges Angstrom then demanded an extra $250,000 a week to keep the plant running — a demand Tesla calls an attempt to hold its own property \"for ransom.\"\n\nA shipment of 700 finished parts due to leave the plant on July 17 never shipped, and when Tesla sent representatives accompanied by law enforcement to the facility on July 21, they were turned away. Tesla filed for an emergency federal court order on July 23 to force Angstrom to open the plant so it can retrieve its tooling.\n\nThe equipment at stake — described in the filing as large die-cast machinery, trim dies, fixtures, cutting tools, gauges, and X-ray inspection gear — is purpose-built for specific Cybertruck castings. According to the complaint, no other supplier can currently produce these parts, and rebuilding the tooling from scratch would take five to six months.\n\nThousands of Cybertrucks already assigned to customers are tied to the parts in question, and the complaint warns supply will run out \"in mere days\" without court intervention. Teslarati, EVXL, and Bloomberg Law have separately corroborated the filing's details.",
-      "href": "https://electrek.co/2026/07/28/tesla-sues-cybertruck-supplier-angstrom-tooling/",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "Electrek",
-        "Teslarati",
-        "Bloomberg Law",
-        "Drive Tesla Canada"
-      ],
-      "sentiment": "bear",
-      "hot": 8
-    },
-    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "3h ago",
@@ -2340,32 +2355,7 @@
       ],
       "sentiment": "neutral",
       "hot": 5
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "just now",
-      "pubDate": "2026-07-24T11:30:00.000Z",
-      "title": "캐시 우드의 ARK, 테슬라 급락 틈타 <em>$51.2M 저가매수</em>",
-      "hotShort": "ARK, 테슬라 급락에 <em>$51.2M 베팅</em>",
-      "body": "테슬라 주가가 2분기 실적 발표 후 14.5% 급락한 23일, 캐시 우드의 ARK 인베스트가 ARKK·ARKQ·ARKW·ARKX 4개 ETF를 통해 테슬라 주식 16만151주(약 $51.2M)를 사들였다 — 우드 특유의 '역발상 저가매수'가 이번에도 등장했다.",
-      "sourceName": "TipRanks",
-      "sourceLabel": "press",
-      "slug": "stock-ark-buys-tesla-dip-2026-07-24",
-      "summary": "23일 테슬라 주가는 전날 발표된 2분기 실적의 EPS 컨센서스 하회와 capex 부담이 겹치며 종가 기준 14.5% 급락했다 — 최근 1년 새 최대 하락폭이다. 이 급락 당일, 캐시 우드가 이끄는 ARK 인베스트는 정반대 베팅에 나섰다.\n\nARK의 일일 거래 공시에 따르면, ARK는 대표 펀드 ARK 이노베이션(ARKK)을 비롯해 ARK 오토노머스 테크놀로지&로보틱스(ARKQ), ARK 넥스트 제너레이션 인터넷(ARKW), ARK 스페이스&디펜스 이노베이션(ARKX) 등 4개 ETF를 동원해 테슬라 주식 총 16만151주, 약 $51.2M어치를 매수했다. TipRanks는 이를 \"실적 발표 후 급락에 나선 $52M 베팅\"으로 요약했다.\n\n우드는 그간 테슬라 주가가 급락할 때마다 저가매수에 나서는 패턴을 반복해왔다 — 지난 7월2일에도 하루 낙폭 7.49%를 틈타 약 $38.1M어치를 사들인 바 있어, 이번이 올해 들어 두 번째 대규모 매수다. 다만 이는 ARK 펀드들의 포트폴리오 조정일 뿐, 향후 주가 방향을 보장하지는 않는다.\n\n주주 입장에서 이 매수 자체가 펀더멘털을 바꾸진 않지만, 같은 급락으로 공매도 세력이 $4B 수익을 낸 것과 대비되는 반대 베팅이라는 점에서 시장 심리가 완전히 한쪽으로 쏠려 있지는 않다는 신호로 볼 수 있다.",
-      "title_en": "Cathie Wood's Ark buys the <em>$51.2M dip</em> in Tesla after earnings selloff",
-      "hotShort_en": "Ark bets <em>$51.2M</em> on the Tesla dip",
-      "body_en": "As Tesla shares sank 14.5% on Thursday following a Q2 earnings miss, Cathie Wood's Ark Invest bought 160,151 Tesla shares (~$51.2M) across four ETFs — ARKK, ARKQ, ARKW and ARKX — in her signature contrarian buy-the-dip move.",
-      "summary_en": "Tesla shares closed down 14.5% on Thursday — their worst one-day drop in more than a year — after Wednesday's Q2 report missed EPS estimates and flagged heavy capex. On the same day, Cathie Wood's Ark Invest made the opposite bet.\n\nPer Ark's daily trade disclosures, the firm bought a combined 160,151 Tesla shares — worth roughly $51.2M — across four ETFs: the flagship ARK Innovation ETF (ARKK), ARK Autonomous Technology & Robotics ETF (ARKQ), ARK Next Generation Internet ETF (ARKW), and ARK Space & Defense Innovation ETF (ARKX). TipRanks summed it up as a '$52M bet after the post-earnings selloff.'\n\nThis is a familiar pattern for Wood, who has repeatedly bought Tesla dips — including roughly $38.1M on July 2, when shares fell 7.49% in a single day. It's her second large Tesla purchase this year, though it reflects Ark's own portfolio moves rather than a guarantee of where the stock heads next.\n\nThe purchase alone doesn't change Tesla's fundamentals, but set against the same selloff handing short sellers an estimated $4B in paper gains, it's a sign market sentiment isn't entirely one-sided.",
-      "href": "https://www.tipranks.com/news/cathie-wood-makes-52m-tesla-bet-after-post-earnings-selloff",
-      "confirmedBy": 2,
-      "confirmingSources": [
-        "TipRanks",
-        "Benzinga"
-      ],
-      "sentiment": "bull",
-      "hot": 5
     }
   ],
-  "asOf": "2026-08-06 23:20 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-07 10:13 KST 자동 갱신 · 최신순"
 }

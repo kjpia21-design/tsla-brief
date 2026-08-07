@@ -1,21 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-08-01T01:04:47.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-issaquah-crash-rear-severed-2026-07-31",
-          "verdict": "pass",
-          "reasons": [
-            "No new card created this run; existing card corroborated by second same-day local report (KOMO) with matching facts (Issaquah, FSD engaged, rear third severed, no injuries) — confirmedBy=2 / confirmingSources=[KATU,KOMO] added, no title/body/summary text changed",
-            "No other raw items this run represented a distinct new event: China-sale/SpaceX-merger follow-ups (Barron's, InsideEVs) and NHTSA suspension probe follow-up (Bloomberg) restate facts already captured in existing cards stock-china-sale-spacex-merger-2026-07-31 and product-nhtsa-suspension-probe-2026-07-31 — WebSearch completeness check found no missed major Tesla/FSD/Elon news"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-08-01T01:30:00.000Z",
       "mode": "shadow",
       "checked": 2,
@@ -726,6 +711,54 @@
             "not X/meme-sourced — real police-shared video reported by press, satire check N/A",
             "single-source (Electrek); confirmedBy intentionally omitted, hot kept moderate (5) rather than high",
             "background reference to Elluswamy's Aug 4 'anti-pattern' statement is prior verified archive fact, not a new unverified claim"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-07T01:17:57.054Z",
+      "mode": "shadow",
+      "checked": 3,
+      "verdicts": [
+        {
+          "slug": "musk-terafab-deal-confirmed-2026-08-06",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "사건의 전개(같은 사건) 판정: 기존 카드(KBTX, 부지 확정·주민설명회, $55B/$119B 잠정치)에 이번 raw(Reuters/WSJ, $16.8B 초기투자 공식 발표)를 병합 — 새 카드 생성 대신 같은 slug 갱신, archive dedup 정상 작동",
+            "verify-error: WebFetch 도구가 이번 세션에서 전면 403(Reuters/WSJ/TechCrunch/Electrek/Wikipedia 등 도메인 무관 전체 실패, 프록시 이슈로 추정)이라 원문 직접 열람 불가 — WebSearch로 대체 검증. Reuters·WSJ·TechCrunch·GVWire·Investing.com·KFGO·Electrek 등 독립 매체 검색 스니펫이 모두 동일하게 '$16.8B initial investment', '100-million-square-foot', 'at least 3,000 employees', '5월 신청서류 $55B/$119B' 수치를 일치되게 보도 — 교차 일치로 신뢰도 확보하고 pass 처리(원문 실패가 발행을 막지 않는다는 안전 원칙 적용)",
+            "조언 톤 없음 (매수/매도/목표가 언급 없음)",
+            "추측→단정 전환 없음 — '더 커질 수 있다' 등 회사측 hedge 유지, $16.8B는 공식 성명 기반 단정 적절(수치 자체는 SpaceX 공식 발표)",
+            "숫자 재대조: $16.8B/100M sqft/3,000명/$55B/$119B 모두 WebSearch 교차 결과와 일치, 새 수치 창작 없음",
+            "href(Reuters) 유지 — raw 카드 href와 일치, 본문-링크 불일치 없음",
+            "sourceLabel press 유지 적절 (Reuters 보도, 1차 성명 자체는 회사 공식이나 카드 구성상 press 라벨 기존 관행 유지)"
+          ]
+        },
+        {
+          "slug": "product-cybertruck-angstrom-lawsuit-2026-07-28",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "사건의 전개(같은 사건) 판정: 7/28 소송 제기 카드(Electrek)를 8/6 해결·생산재개 카드(Teslarati)로 갱신 — 새 slug 생성 대신 기존 slug 갱신, pubDate를 최신 전개 시점(8/6 15:00)으로 이동",
+            "verify-error: WebFetch 403으로 Teslarati 원문 직접 열람 불가 — WebSearch로 대체 검증, 결과 스니펫이 '$250,000 a week', 'Troy, Texas facility', 'temporary restraining order and a writ of replevin', 'roughly 100 Cybertrucks in the outbound lot at Giga Texas' 등 카드 본문 수치·사실과 정확히 일치 확인 후 pass",
+            "조언 톤 없음",
+            "추측→단정 전환 없음 — '약 100대'는 항공 관측 기반 사실(observed)로 원문 표현과 일치, 과장 없음",
+            "숫자·날짜 재대조: $250,000/week(기존 카드 유지), 8/4 법원 명령, 8/5 생산 재개 — 모두 WebSearch 결과와 일치",
+            "href(Teslarati) 신규 기사 URL로 교체, raw 카드 href와 일치 — 본문-링크 불일치 없음",
+            "sourceLabel press 적절"
+          ]
+        },
+        {
+          "slug": "product-robovan-terafab-video-2026-08-06",
+          "verdict": "pass",
+          "reasons": [
+            "신규 카드 — archive 최근 30일 내 'Robovan/로보밴' 단독 언급 없음 확인(grep), 중복 아님",
+            "verify-error: WebFetch 403으로 Teslarati 원문 직접 열람 불가 — WebSearch로 대체 검증, 'Optimus robots working the grounds', 'Robovan glides along an elevated roadway', 'Tesla Semi and a Cybercab', '20 passengers', 'under a dollar a mile', 'no confirmed production timeline' 등 스니펫이 카드 본문과 일치 확인 후 pass",
+            "조언 톤 없음",
+            "추측→단정 전환 없음 — '실제 공장 촬영본이 아닌 콘셉트 렌더링' 명시로 렌더/실물 구분 유지, 양산 일정 미확정 사실 그대로 반영",
+            "밈·풍자 검토: 머스크 X 게시 영상 기반이나 제품 렌더링(구체적 시각 정보) 콘텐츠로 풍자성 없음 — 게이트 해당 없음",
+            "본문-링크 일치 — href(Teslarati) raw 카드와 일치",
+            "sourceLabel press 적절 (Musk 공식 X 영상을 press가 보도)"
           ]
         }
       ]
