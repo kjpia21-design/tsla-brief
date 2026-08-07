@@ -1,36 +1,62 @@
 {
-  "asOf": "2026-08-07 16:57 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-07 19:04 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
-      "pubDate": "2026-08-07T15:42:00.000Z",
-      "title": "Tesla Shares Rise, $16.8 Billion Terafab Project Puts Spotlight on Capital Plans",
-      "body": "Tesla Shares Rise, $16.8 Billion Terafab Project Puts Spotlight on Capital Plans TechStock²",
-      "sourceName": "TechStock²",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "10m ago",
+      "pubDate": "2026-08-07T18:54:35.000Z",
+      "title": "Elon Musk and SpaceX shrugs off the trading day Wall Street feared most",
+      "body": "Elon Musk and SpaceX shrugs off the trading day Wall Street feared most Teslarati",
+      "sourceName": "Teslarati",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://ts2.tech/en/tesla-shares-rise-16-8-billion-terafab-project-puts-spotlight-on-capital-plans/"
+      "href": "https://www.teslarati.com/elon-musk-and-spacex-shrugs-off-the-trading-day-wall-street-feared-most/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-08-07T15:15:34.000Z",
-      "title": "Tesla Inc Stock (TSLA) Moved Up by 3.31% on Aug 7: What Signal Does It Send?",
-      "body": "Tesla Inc Stock (TSLA) Moved Up by 3.31% on Aug 7: What Signal Does It Send? TradingKey",
-      "sourceName": "TradingKey",
+      "time": "33m ago",
+      "pubDate": "2026-08-07T18:31:46.000Z",
+      "title": "SA analyst upgrades/downgrades: TSLA, NVDA, BBBY, WDC",
+      "body": "SA analyst upgrades/downgrades: TSLA, NVDA, BBBY, WDC Seeking Alpha",
+      "sourceName": "Seeking Alpha",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.tradingkey.com/news/market-movers/262089226-market-movers-tsla-20260807"
+      "href": "https://seekingalpha.com/news/4629481-sa-analyst-upgrades-downgrades-tsla-nvda-bbby-wdc"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "1h ago",
+      "pubDate": "2026-08-07T17:36:00.000Z",
+      "title": "How Much Quicker Is The Newest Version Of Tesla FSD? This Test Put It Against Old Software To Find Out",
+      "body": "How Much Quicker Is The Newest Version Of Tesla FSD? This Test Put It Against Old Software To Find Out InsideEVs",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://insideevs.com/news/804210/tesla-hw-reaction-time-test/"
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "3h ago",
+      "pubDate": "2026-08-07T16:23:00.000Z",
+      "title": "SK Hynix, SpaceX, Doximity, Trade Desk, Rigetti, Coherent, and More Stocks That Explain Today’s Market",
+      "body": "SK Hynix, SpaceX, Doximity, Trade Desk, Rigetti, Coherent, and More Stocks That Explain Today’s Market Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/stock-movers-85c510af"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-08-07T15:08:29.000Z",
       "title": "Tesla admits Cybertruck PCS defect, extends warranty to 8 years",
       "body": "Tesla has officially acknowledged that the power conversion system (PCS) in pre-2026 Cybertrucks is defective, and it’s extending the warranty on those trucks to 8 years or 150,000 miles. The reversal comes after months …",
@@ -43,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-08-07T14:46:29.000Z",
       "title": "SpaceX shares upgraded. Argus says AI investments will pay off, and don't bet against Musk",
       "body": "SpaceX shares upgraded. Argus says AI investments will pay off, and don't bet against Musk CNBC",
@@ -56,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
+      "time": "4h ago",
       "pubDate": "2026-08-07T14:38:52.000Z",
       "title": "It really is this amazing",
       "body": "It really is this amazing https://t.co/av8mWumnhW",
@@ -69,11 +95,11 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
+      "time": "5h ago",
       "pubDate": "2026-08-07T14:29:00.000Z",
       "title": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
-      "body": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects. barrons.com",
-      "sourceName": "barrons.com",
+      "body": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects. Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -82,20 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
-      "pubDate": "2026-08-07T14:27:00.000Z",
-      "title": "Doximity, Trade Desk, SK Hynix, SpaceX, Rigetti, Atlassian, and More Stocks That Explain Today’s Market",
-      "body": "Doximity, Trade Desk, SK Hynix, SpaceX, Rigetti, Atlassian, and More Stocks That Explain Today’s Market barrons.com",
-      "sourceName": "barrons.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/stock-movers-85c510af"
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
+      "time": "6h ago",
       "pubDate": "2026-08-07T12:43:08.000Z",
       "title": "Elon Musk",
       "body": "Elon Musk AP News",
@@ -106,22 +119,9 @@
       "href": "https://apnews.com/hub/elon-musk"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
-      "pubDate": "2026-08-07T11:15:00.000Z",
-      "title": "An Early Bet on SpaceX Led to a 30% Gain for This College Endowment",
-      "body": "An Early Bet on SpaceX Led to a 30% Gain for This College Endowment Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.bloomberg.com/news/articles/2026-08-07/spacex-openai-bets-boost-unc-university-of-michigan-returns"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-08-07T09:23:48.000Z",
       "title": "풀 셀프 드라이빙(감독형) 이용 가이드 FSD(감독형)은 목적지까지의 경로를 따라 차선을 유지하고, 차선을 변경하며, 신호와 교차로를 통과하고, 좌·우회전 및 주차를 수행할 수 있는 운전자 보조 시스템입니다. …",
       "body": "풀 셀프 드라이빙(감독형) 이용 가이드 FSD(감독형)은 목적지까지의 경로를 따라 차선을 유지하고, 차선을 변경하며, 신호와 교차로를 통과하고, 좌·우회전 및 주차를 수행할 수 있는 운전자 보조 시스템입니다. 운전자는 항상 전방을 주시하고 즉시 개입할 준비가 되어 있어야 하며, 차량의 모든 https://t.co/BefpyyhyAZ",
@@ -134,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-08-07T08:51:10.000Z",
       "title": "New Tesla Supercharger: Andora, Italy (8 stalls)",
       "body": "New Tesla Supercharger: Andora, Italy (8 stalls) https://t.co/cD7sjgCyjq https://t.co/8BE7nFADtj",
@@ -147,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-08-07T05:42:34.000Z",
       "title": "Ghost in the Shell x Cybercab - Dreamed by @imagine",
       "body": "Ghost in the Shell x Cybercab - Dreamed by @imagine https://t.co/2JZzFaOgdH",
@@ -160,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-08-07T04:59:39.000Z",
       "title": "[도입 예정일 변경 안내] FSD(감독형)·향상된 오토파일럿 구매 방식 변경 예정 FSD(감독형)과 향상된 오토파일럿(EAP) 구매 방식 변경 도입 예정일이 아래와 같이 변경되어 안내드립니다. 기존: 2026년…",
       "body": "[도입 예정일 변경 안내] FSD(감독형)·향상된 오토파일럿 구매 방식 변경 예정 FSD(감독형)과 향상된 오토파일럿(EAP) 구매 방식 변경 도입 예정일이 아래와 같이 변경되어 안내드립니다. 기존: 2026년 8월 10일부터 적용 예정 변경: 2026년 8월 21일부터 적용 예정 아래 내용을 참고하시어, https://t.co/QPQuAIxtgT",
@@ -171,22 +171,9 @@
       "href": "https://x.com/tesla_korea/status/2085591681483837637"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-08-06T23:35:00.000Z",
-      "title": "Tesla is racking up speeding tickets, and YOU are on the hook",
-      "body": "Tesla is racking up speeding tickets, and YOU are on the hook Electrek",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/08/06/tesla-is-racking-up-speeding-tickets-and-you-are-on-the-hook/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "21h ago",
       "pubDate": "2026-08-06T21:58:28.000Z",
       "title": "Tesla’s mysterious Robovan makes a sneak peek with Optimus in Terafab video",
       "body": "Tesla’s mysterious Robovan makes a sneak peek with Optimus in Terafab video Teslarati",
@@ -199,7 +186,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "19h ago",
+      "time": "22h ago",
       "pubDate": "2026-08-06T21:30:11.000Z",
       "title": "A 500 MWh Tesla Megapack battery just went live in Texas",
       "body": "Tesla Megapacks are now helping support the Texas grid at Ørsted’s new 250 MW/500 MWh Old 300 battery storage project.",
@@ -228,8 +215,8 @@
       "time": "1d ago",
       "pubDate": "2026-08-06T11:29:00.000Z",
       "title": "Tesla Stock Drops as It Seeks to Tap Massive Self-Driving Market",
-      "body": "Tesla Stock Drops as It Seeks to Tap Massive Self-Driving Market barrons.com",
-      "sourceName": "barrons.com",
+      "body": "Tesla Stock Drops as It Seeks to Tap Massive Self-Driving Market Barron's",
+      "sourceName": "Barron's",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/quotes/MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1998d ago",
+      "pubDate": "2021-02-16T23:09:11.000Z",
+      "title": "Check out TSLA.O, TM's stock price (TSLA,TM) in real time",
+      "body": "Check out TSLA.O, TM's stock price (TSLA,TM) in real time CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/quotes/TSLA,TM"
     }
   ]
 }
