@@ -23,6 +23,32 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-08-06T21:12:10.000Z",
+      "title": "스페이스X 첫 락업 해제 — 매도 폭탄 우려 딛고 주가 <em>반등</em>",
+      "hotShort": "스페이스X 락업해제, 우려 딛고 <em>반등</em>",
+      "body": "스페이스X가 8월6일 상장 후 첫 락업 해제로 내부자 보유주 9억1,150만주(약 1,010억달러 규모)가 매도 가능해졌다 — 물량 폭탄 우려로 장중 $105.11까지 밀렸지만 이내 $111.17로 <em>+2.6% 반등</em>하며 우려했던 급락은 현실화되지 않았다. 일론 머스크 개인자산의 핵심이 스페이스X 지분인 만큼, 테슬라 주주도 머스크 계열사 전반의 투자심리 지표로 지켜볼 만하다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-lockup-expiry-2026-08-06",
+      "summary": "스페이스X는 지난 6월 상장가 $135로 뉴욕증시에 데뷔했다. 상장 당시 유통 가능 주식은 6억3,890만주였는데, 8월6일 처음으로 락업(보호예수)이 해제되며 내부자·초기 투자자 보유주 9억1,150만주(기존 유통 물량 대비 약 43% 많은 규모, 시가 약 1,010억달러)가 추가로 매도 가능해졌다 — 유통주식 비중이 전체 발행주식의 4.9%에서 11.8%로 두 배 넘게 늘어난 셈이다.\n\n직전 거래일인 8월5일 스페이스X 주가는 AI 데이터센터 투자 부담 우려로 약 12~14% 급락한 바 있어, 락업 해제 당일 추가 매도 폭탄이 나올 것이란 우려가 컸다. 실제로는 장중 $105.11까지 밀렸다가 곧바로 $111.17로 반등(+2.6%)하며, 예상됐던 물량 부담이 즉각적인 급락으로 이어지지는 않았다.\n\n이번 물량은 한 번에 다 풀리는 구조가 아니라 9개 트랜치로 나뉘어 순차 해제된다 — 다음 물량 3억1,900만주는 8월12일 추가로 풀리며, 9~10월에도 추가 트랜치가 예정돼 있어 물량 부담은 당분간 반복될 전망이다.\n\n그럼에도 스페이스X 주가는 6월16일 고점 $225.64 대비 반토막 수준, 상장가 $135 대비로도 약 20% 낮은 상태다. 테슬라와는 별개 상장사이지만, 최근 텍사스 테라팹 공동투자 등 머스크 계열사 간 교차 투자·자본 배분이 계속 커지는 가운데 스페이스X 주가 흐름은 머스크의 개인 자산·리더십 여력을 가늠하는 참고 지표로 테슬라 주주도 함께 지켜볼 변수다.",
+      "title_en": "SpaceX's first lockup expiry — stock <em>bounces</em> despite fears of a selling flood",
+      "hotShort_en": "SpaceX lockup expires, stock <em>bounces</em> back",
+      "body_en": "SpaceX's first post-IPO lockup expired on August 6, making 911.5 million insider shares (worth roughly $101 billion) eligible for sale — the stock dipped to $105.11 intraday on fears of a supply flood but quickly <em>bounced 2.6%</em> to $111.17, defying expectations of a steep selloff. Since Elon Musk's personal wealth is heavily tied to his SpaceX stake, Tesla shareholders may want to watch it as a read on sentiment across Musk's companies.",
+      "summary_en": "SpaceX debuted on the public market in June at an IPO price of $135, with 638.9 million shares initially in public float. On August 6, its first lockup expiration made an additional 911.5 million insider and early-investor shares — about 43% more than the existing float, worth roughly $101 billion — eligible for sale, more than doubling the freely tradable share of the company from 4.9% to 11.8% of shares outstanding.\n\nThe prior trading day, August 5, SpaceX shares had already fallen roughly 12-14% on worries about heavy AI data-center spending, raising fears that the lockup expiry would trigger another wave of selling. Instead, the stock dipped to $105.11 intraday before quickly recovering to $111.17, a 2.6% gain — the anticipated flood of selling didn't immediately materialize.\n\nThe unlock isn't a single event: it's staggered across nine tranches. The next batch of 319 million shares becomes eligible on August 12, with additional tranches following in September and October, meaning supply pressure could resurface repeatedly in the months ahead.\n\nEven so, SpaceX shares remain down roughly half from their June 16 peak of $225.64 and about 20% below the $135 IPO price. SpaceX is a separate public company from Tesla, but with cross-investment between Musk's companies growing — including the newly confirmed Terafab chip plant — its stock trajectory is a useful gauge of Musk's personal balance sheet and bandwidth, one Tesla shareholders may want to track alongside Tesla's own numbers.",
+      "href": "https://www.wsj.com/business/spacex-true-believers-propel-shares-past-end-of-epic-lockup-271ffc59",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "WSJ",
+        "Yahoo Finance",
+        "Forbes"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "10h ago",
       "pubDate": "2026-08-06T15:14:07.000Z",
       "title": "SpaceX·테슬라 텍사스 테라팹에 <em>초기 168억달러</em> 투자 확정",
@@ -2329,33 +2355,7 @@
       "href": "https://www.cnbc.com/2026/07/24/michael-burrys-short-bets-on-tesla-caterpillar-pay-off-in-big-july-pullback.html",
       "sentiment": "bear",
       "hot": 5
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "1h ago",
-      "pubDate": "2026-07-24T13:16:56.000Z",
-      "title": "미 NHTSA, 테슬라 도어 결함 조사는 기각 — <em>새 도어 안전규정 제정은 예정대로</em>",
-      "hotShort": "NHTSA, 결함조사 기각하되 <em>안전규정 제정은 확정</em>",
-      "body": "미 도로교통안전국(NHTSA)이 테슬라 모델3 전동 도어 손잡이의 결함 조사 요청은 대상 차량 17만9031대 중 접수된 컴플레인이 단 1건뿐이라는 이유로 기각했다 — 다만 도어 비상탈출 설계·표시 기준을 새로 만드는 정식 규정 제정 절차는 예정대로 착수한다고 재확인했다.",
-      "sourceName": "Reuters",
-      "sourceLabel": "sec",
-      "slug": "product-nhtsa-door-safety-rulemaking-2026-07-23",
-      "summary": "이 사안은 지난 23일 블룸버그가 보도한 도어 안전규정 제정 착수 소식의 후속이다. 24일(현지시간) 로이터는 NHTSA가 실제로 어떤 결정을 내렸는지 구체적으로 확인했다 — 결함 조사를 요구한 청원은 기각하되, 별도 규정 제정 절차는 그대로 진행한다는 두 갈래 결론이다.\n\n청원인 케빈 클루스는 지난해 11월 2022년형 모델3의 비상 기계식 도어 해제 장치가 눈에 띄지 않고 찾기 어려워 연방자동차안전기준(FMVSS) 206을 위반한다며 결함 조사를 요청했다. 하지만 NHTSA는 올해 3월13일 기준 대상 차량 17만9031대 중 이 문제를 지적한 소비자 불만이 단 1건뿐이었다며, 개별 결함 조사를 열 근거는 부족하다고 판단했다.\n\n다만 NHTSA는 별도로 지난해 11월4일 접수된 규정 제정 청원 — 모든 차량에 '확실하고 명백한' 비상 탈출 시스템을 의무화할 새 연방기준을 만들어달라는 요청 — 은 그대로 받아들여, 지난주 보도된 대로 정식 규정 제정 절차에 착수하기로 했다. 현행 FMVSS 206은 기계식 도어 해제 장치의 라벨링·위치를 별도로 규정하지 않고 있다.\n\n결과적으로 테슬라는 개별 결함 조사라는 단기 리스크는 피했지만, 업계 전반에 적용될 새 도어 설계·표시 기준 제정이라는 더 큰 방향의 규제는 그대로 진행된다. 최종 규칙안(NPRM)이 나오기까지는 시일이 걸리겠지만, 은닉형 전동 손잡이를 쓰는 테슬라가 이번 논의의 중심에 있다는 구도는 달라지지 않았다.\n\n한편 테슬라라티는 24일, 테슬라가 이미 자체적으로 손잡이 설계를 손보고 있다고 전했다 — 새 설계는 손잡이를 가볍게 당기면 전동 잠금 해제가 작동하고, 같은 손잡이를 더 세게 당기면 기계식 수동 해제로 전환되는 단일 레버 방식이다. 모델3 외 다른 모델에도 순차 적용될 예정이라, 규정 제정과 별개로 실제 설계 개선이 이미 진행 중이라는 뜻이다.",
-      "title_en": "NHTSA denies Tesla door-defect probe petition — but <em>door safety rulemaking proceeds</em>",
-      "hotShort_en": "NHTSA denies probe, but <em>rulemaking still moves ahead</em>",
-      "body_en": "NHTSA denied a petition to open a formal defect investigation into Tesla Model 3's hidden power door releases — citing just one complaint among 179,031 affected vehicles — but confirmed it will proceed as planned with a separate rulemaking to set new emergency-exit design and labeling standards.",
-      "summary_en": "This is a follow-up to Tuesday's news that NHTSA was starting a door-safety rulemaking process. On Friday, Reuters detailed exactly what the agency decided — denying the defect-investigation petition while letting the separate rulemaking proceed.\n\nPetitioner Kevin Clouse asked in November for a defect investigation into the 2022 Model 3, arguing its mechanical emergency door release is hard to see and find, violating Federal Motor Vehicle Safety Standard (FMVSS) 206. But NHTSA said that as of March 13, only one consumer complaint had raised the issue among the 179,031 subject vehicles — too thin a record to justify opening an investigation.\n\nSeparately, though, NHTSA granted a rulemaking petition filed November 4 calling for a new federal standard requiring a 'robust and obvious' emergency-exit system in all vehicles, confirming it will begin the formal rulemaking process reported last week. Current FMVSS 206 doesn't specifically regulate the labeling or placement of mechanical door releases.\n\nNet effect for Tesla: it dodged an individual defect probe in the near term, but the broader, industry-wide push for new door design and labeling standards continues. A final rule (NPRM) is still some way off, but Tesla's hidden power handles remain at the center of the debate.\n\nSeparately, Teslarati reported on Friday that Tesla is already redesigning the handles itself — a single latch that triggers the electronic release with a light pull, and doubles as the mechanical manual release when pulled harder. The fix is expected to roll out across other models too, meaning an actual design change is already underway independent of the rulemaking process.",
-      "href": "https://www.reuters.com/legal/litigation/us-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24/",
-      "confirmedBy": 3,
-      "confirmingSources": [
-        "Reuters",
-        "Electrek",
-        "TechCrunch"
-      ],
-      "sentiment": "neutral",
-      "hot": 5
     }
   ],
-  "asOf": "2026-08-07 10:13 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-07 12:06 KST 자동 갱신 · 최신순"
 }

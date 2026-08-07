@@ -1,37 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-08-01T01:30:00.000Z",
-      "mode": "shadow",
-      "checked": 2,
-      "verdicts": [
-        {
-          "slug": "product-nhtsa-suspension-probe-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": "sec",
-          "reasons": [
-            "raw 신규 항목(Reuters \"US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks\", Bloomberg \"Tesla Faces US Auto Safety Probe Over Risk of Suspension Failure\")이 기존 카드와 동일 NHTSA 예비조사(모델3/Y 1.2M대)를 다룸 — 제목·대상 대수·사안 완전 일치, 새 사실 없이 confirmedBy만 3→4로 갱신(Reuters 추가)",
-            "조언 톤 없음, 추측→단정 전환 없음(기존 카드 이미 hedge 유지: \"예비조사 착수\"·\"결론 나면\")",
-            "숫자(1.2M, 156건) 변경 없음 — 기존 값 그대로 유지, 새 수치 창작 없음",
-            "본문-링크 일치 — href(Bloomberg)는 그대로, 신규 confirmingSources(Reuters)도 동일 사건 보도 확인",
-            "sourceLabel sec 유지 적절(NHTSA 규제기관 조사 건)"
-          ]
-        },
-        {
-          "slug": "stock-china-sale-spacex-merger-2026-07-31",
-          "verdict": "pass",
-          "newSourceLabel": "press",
-          "reasons": [
-            "raw 신규 항목(Barron's \"Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off\")이 기존 카드(WSJ 中사업 매각 검토·머스크 부인)와 동일 사건 — 머스크의 부인 반응까지 이미 카드에 반영돼 있어 새 사실 없이 confirmedBy만 2→3(Barron's 추가)로 갱신",
-            "조언 톤 없음, 단정 표현 없음(기존 카드 이미 \"확정된 사안은 아니다\"로 완화)",
-            "숫자·인용 변경 없음 — 머스크 X 인용문 그대로 유지",
-            "본문-링크 일치 — href(Reuters) 그대로, 신규 confirmingSources(Barron's)도 동일 사건 보도 확인",
-            "sourceLabel press 유지 적절"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-08-01T07:14:00.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -759,6 +728,27 @@
             "밈·풍자 검토: 머스크 X 게시 영상 기반이나 제품 렌더링(구체적 시각 정보) 콘텐츠로 풍자성 없음 — 게이트 해당 없음",
             "본문-링크 일치 — href(Teslarati) raw 카드와 일치",
             "sourceLabel press 적절 (Musk 공식 X 영상을 press가 보도)"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-07T03:06:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "musk-spacex-lockup-expiry-2026-08-06",
+          "verdict": "pass",
+          "newSourceLabel": "press",
+          "reasons": [
+            "sourceLabel press 적절 — WSJ 저널리즘 보도, SEC 공시·테슬라 공식 발표 아님",
+            "조언 톤 위반 없음 — 매수/매도/목표가 언급 無",
+            "추측→단정 전환 없음 — 모두 확정 보도사실(락업 해제·주가 반등)",
+            "숫자 재대조 전부 일치: 911.5M주, $135 IPO가, $105.11→$111.17(+2.6%), 6/16 고점 $225.64, 유통비중 4.9%→11.8%, 8/5 낙폭 13.6%, 9개 트랜치·다음물량 3.19억주 8/12 — Yahoo/Forbes/Motley Fool/Bloomberg 교차확인",
+            "본문-링크 일치 — WSJ 기사 주제(락업 종료 후 주가 반등)와 카드 내용 부합",
+            "밈/풍자 해당 없음(X발 카드 아님)",
+            "$111.17을 종가로 오기하지 않고 장중 반등치로 정확히 서술 확인(WSJ 원문은 페이월로 WebSearch 교차검증 대체)"
           ]
         }
       ]

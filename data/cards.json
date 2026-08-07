@@ -23,6 +23,32 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "6h ago",
+      "pubDate": "2026-08-06T21:12:10.000Z",
+      "title": "스페이스X 첫 락업 해제 — 매도 폭탄 우려 딛고 주가 <em>반등</em>",
+      "hotShort": "스페이스X 락업해제, 우려 딛고 <em>반등</em>",
+      "body": "스페이스X가 8월6일 상장 후 첫 락업 해제로 내부자 보유주 9억1,150만주(약 1,010억달러 규모)가 매도 가능해졌다 — 물량 폭탄 우려로 장중 $105.11까지 밀렸지만 이내 $111.17로 <em>+2.6% 반등</em>하며 우려했던 급락은 현실화되지 않았다. 일론 머스크 개인자산의 핵심이 스페이스X 지분인 만큼, 테슬라 주주도 머스크 계열사 전반의 투자심리 지표로 지켜볼 만하다.",
+      "sourceName": "WSJ",
+      "sourceLabel": "press",
+      "slug": "musk-spacex-lockup-expiry-2026-08-06",
+      "summary": "스페이스X는 지난 6월 상장가 $135로 뉴욕증시에 데뷔했다. 상장 당시 유통 가능 주식은 6억3,890만주였는데, 8월6일 처음으로 락업(보호예수)이 해제되며 내부자·초기 투자자 보유주 9억1,150만주(기존 유통 물량 대비 약 43% 많은 규모, 시가 약 1,010억달러)가 추가로 매도 가능해졌다 — 유통주식 비중이 전체 발행주식의 4.9%에서 11.8%로 두 배 넘게 늘어난 셈이다.\n\n직전 거래일인 8월5일 스페이스X 주가는 AI 데이터센터 투자 부담 우려로 약 12~14% 급락한 바 있어, 락업 해제 당일 추가 매도 폭탄이 나올 것이란 우려가 컸다. 실제로는 장중 $105.11까지 밀렸다가 곧바로 $111.17로 반등(+2.6%)하며, 예상됐던 물량 부담이 즉각적인 급락으로 이어지지는 않았다.\n\n이번 물량은 한 번에 다 풀리는 구조가 아니라 9개 트랜치로 나뉘어 순차 해제된다 — 다음 물량 3억1,900만주는 8월12일 추가로 풀리며, 9~10월에도 추가 트랜치가 예정돼 있어 물량 부담은 당분간 반복될 전망이다.\n\n그럼에도 스페이스X 주가는 6월16일 고점 $225.64 대비 반토막 수준, 상장가 $135 대비로도 약 20% 낮은 상태다. 테슬라와는 별개 상장사이지만, 최근 텍사스 테라팹 공동투자 등 머스크 계열사 간 교차 투자·자본 배분이 계속 커지는 가운데 스페이스X 주가 흐름은 머스크의 개인 자산·리더십 여력을 가늠하는 참고 지표로 테슬라 주주도 함께 지켜볼 변수다.",
+      "title_en": "SpaceX's first lockup expiry — stock <em>bounces</em> despite fears of a selling flood",
+      "hotShort_en": "SpaceX lockup expires, stock <em>bounces</em> back",
+      "body_en": "SpaceX's first post-IPO lockup expired on August 6, making 911.5 million insider shares (worth roughly $101 billion) eligible for sale — the stock dipped to $105.11 intraday on fears of a supply flood but quickly <em>bounced 2.6%</em> to $111.17, defying expectations of a steep selloff. Since Elon Musk's personal wealth is heavily tied to his SpaceX stake, Tesla shareholders may want to watch it as a read on sentiment across Musk's companies.",
+      "summary_en": "SpaceX debuted on the public market in June at an IPO price of $135, with 638.9 million shares initially in public float. On August 6, its first lockup expiration made an additional 911.5 million insider and early-investor shares — about 43% more than the existing float, worth roughly $101 billion — eligible for sale, more than doubling the freely tradable share of the company from 4.9% to 11.8% of shares outstanding.\n\nThe prior trading day, August 5, SpaceX shares had already fallen roughly 12-14% on worries about heavy AI data-center spending, raising fears that the lockup expiry would trigger another wave of selling. Instead, the stock dipped to $105.11 intraday before quickly recovering to $111.17, a 2.6% gain — the anticipated flood of selling didn't immediately materialize.\n\nThe unlock isn't a single event: it's staggered across nine tranches. The next batch of 319 million shares becomes eligible on August 12, with additional tranches following in September and October, meaning supply pressure could resurface repeatedly in the months ahead.\n\nEven so, SpaceX shares remain down roughly half from their June 16 peak of $225.64 and about 20% below the $135 IPO price. SpaceX is a separate public company from Tesla, but with cross-investment between Musk's companies growing — including the newly confirmed Terafab chip plant — its stock trajectory is a useful gauge of Musk's personal balance sheet and bandwidth, one Tesla shareholders may want to track alongside Tesla's own numbers.",
+      "href": "https://www.wsj.com/business/spacex-true-believers-propel-shares-past-end-of-epic-lockup-271ffc59",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "WSJ",
+        "Yahoo Finance",
+        "Forbes"
+      ],
+      "sentiment": "neutral",
+      "hot": 5
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "10h ago",
       "pubDate": "2026-08-06T15:14:07.000Z",
       "title": "SpaceX·테슬라 텍사스 테라팹에 <em>초기 168억달러</em> 투자 확정",
@@ -135,5 +161,5 @@
       "hot": 6
     }
   ],
-  "asOf": "2026-08-07 10:13 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-07 12:06 KST 자동 갱신 · 최신순"
 }
