@@ -1,14 +1,40 @@
 {
-  "asOf": "2026-08-07 00:57 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-07 04:29 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "2h ago",
+      "pubDate": "2026-08-07T02:56:30.000Z",
+      "title": "Tesla-SpaceX merger would make situation 'even more confusing', says investor",
+      "body": "Tesla-SpaceX merger would make situation 'even more confusing', says investor CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/video/2026/08/07/tesla-spacex-merger-an-even-more-confusing-situation-short-seller.html"
+    },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "39m ago",
+      "time": "2h ago",
+      "pubDate": "2026-08-07T02:23:22.000Z",
+      "title": "Tesla stock is down 30% this year: Bargain Buy or Value Trap?",
+      "body": "Tesla stock is down 30% this year: Bargain Buy or Value Trap? Investing.com",
+      "sourceName": "Investing.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.investing.com/news/stock-market-news/tesla-stock-is-down-30-this-year-bargain-buy-or-value-trap-93CH-4845024"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "4h ago",
       "pubDate": "2026-08-07T00:18:45.000Z",
       "title": "Tesla (NSDQ:TSLA) US$16.8B Terafab turns chip scarcity into a vertical integration bet",
-      "body": "Tesla (NSDQ:TSLA) US$16.8B Terafab turns chip scarcity into a vertical integration bet stocksdownunder.com",
-      "sourceName": "stocksdownunder.com",
+      "body": "Tesla (NSDQ:TSLA) US$16.8B Terafab turns chip scarcity into a vertical integration bet Stocks Down Under",
+      "sourceName": "Stocks Down Under",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -17,10 +43,10 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1h ago",
+      "time": "5h ago",
       "pubDate": "2026-08-06T23:57:40.000Z",
-      "title": "Tesla: Premium Valuation, Compelling Long-Term Upside (NASDAQ:TSLA)",
-      "body": "Tesla: Premium Valuation, Compelling Long-Term Upside (NASDAQ:TSLA) Seeking Alpha",
+      "title": "Tesla Stock: Premium Valuation, Compelling Long-Term Upside (NASDAQ:TSLA)",
+      "body": "Tesla Stock: Premium Valuation, Compelling Long-Term Upside (NASDAQ:TSLA) Seeking Alpha",
       "sourceName": "Seeking Alpha",
       "sourceLabel": "press",
       "slug": "",
@@ -30,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1h ago",
+      "time": "5h ago",
       "pubDate": "2026-08-06T23:35:00.000Z",
       "title": "Tesla is racking up speeding tickets, and YOU are on the hook",
       "body": "Tesla is racking up speeding tickets, and YOU are on the hook Electrek",
@@ -41,48 +67,9 @@
       "href": "https://electrek.co/2026/08/06/tesla-is-racking-up-speeding-tickets-and-you-are-on-the-hook/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "1h ago",
-      "pubDate": "2026-08-06T23:31:12.000Z",
-      "title": "SpaceX Shares Sink on AI Spending Plans",
-      "body": "SpaceX Shares Sink on AI Spending Plans WSJ",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.wsj.com/tech/ai/spacex-says-spending-spree-is-supercharging-ai-revenues-ea750ff3"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "2h ago",
-      "pubDate": "2026-08-06T22:28:59.000Z",
-      "title": "Prediction: Tesla's Share Price Dip Will Prove an Excellent Buying Opportunity",
-      "body": "Prediction: Tesla's Share Price Dip Will Prove an Excellent Buying Opportunity The Motley Fool",
-      "sourceName": "The Motley Fool",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.fool.com/investing/2026/08/06/prediction-teslas-share-price-dip-will-prove-an-ex/"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-08-06T22:20:05.000Z",
-      "title": "Prediction: Tesla's Share Price Dip Will Prove an Excellent Buying Opportunity",
-      "body": "Prediction: Tesla's Share Price Dip Will Prove an Excellent Buying Opportunity The Globe and Mail",
-      "sourceName": "The Globe and Mail",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/3706845/prediction-tesla-s-share-price-dip-will-prove-an-excellent-buying-opportunity/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "7h ago",
       "pubDate": "2026-08-06T21:58:28.000Z",
       "title": "Tesla’s mysterious Robovan makes a sneak peek with Optimus in Terafab video",
       "body": "Tesla’s mysterious Robovan makes a sneak peek with Optimus in Terafab video Teslarati",
@@ -95,7 +82,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "3h ago",
+      "time": "7h ago",
       "pubDate": "2026-08-06T21:30:11.000Z",
       "title": "A 500 MWh Tesla Megapack battery just went live in Texas",
       "body": "Tesla Megapacks are now helping support the Texas grid at Ørsted’s new 250 MW/500 MWh Old 300 battery storage project.",
@@ -108,8 +95,8 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-08-06T21:12:10.000Z",
+      "time": "7h ago",
+      "pubDate": "2026-08-06T21:11:00.000Z",
       "title": "SpaceX True Believers Propel Shares Past End of Epic Lockup",
       "body": "SpaceX True Believers Propel Shares Past End of Epic Lockup WSJ",
       "sourceName": "WSJ",
@@ -119,22 +106,9 @@
       "href": "https://www.wsj.com/business/spacex-true-believers-propel-shares-past-end-of-epic-lockup-271ffc59"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "4h ago",
-      "pubDate": "2026-08-06T21:09:18.000Z",
-      "title": "Tesla Stock Drops as It Seeks to Tap Massive Self-Driving Market",
-      "body": "Tesla Stock Drops as It Seeks to Tap Massive Self-Driving Market Barron's",
-      "sourceName": "Barron's",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.barrons.com/articles/tesla-stock-price-today-self-driving-0eba060b"
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "10h ago",
       "pubDate": "2026-08-06T18:08:59.000Z",
       "title": "Elon Musk - Latest News on the Tesla, SpaceX CEO and Trump Senior Adviser",
       "body": "Elon Musk - Latest News on the Tesla, SpaceX CEO and Trump Senior Adviser WSJ",
@@ -147,7 +121,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "13h ago",
       "pubDate": "2026-08-06T15:14:07.000Z",
       "title": "SpaceX, Tesla to initially spend $16.8 billion on Terafab chip plant in Texas",
       "body": "SpaceX, Tesla to initially spend $16.8 billion on Terafab chip plant in Texas Reuters",
@@ -160,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
+      "time": "13h ago",
       "pubDate": "2026-08-06T15:02:00.000Z",
       "title": "SpaceX, Tesla to Build Chip Plant in Texas to Meet Compute Demand",
       "body": "SpaceX, Tesla to Build Chip Plant in Texas to Meet Compute Demand WSJ",
@@ -173,7 +147,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "10h ago",
+      "time": "13h ago",
       "pubDate": "2026-08-06T15:00:12.000Z",
       "title": "Tesla Cybertruck production snaps back after ugly supplier fight",
       "body": "Cybertrucks are piling up again at Giga Texas after Tesla's court win against a parts supplier. The post Tesla Cybertruck production snaps back after ugly supplier fight appeared first on TESLARATI.",
@@ -186,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "14h ago",
       "pubDate": "2026-08-06T14:12:53.000Z",
       "title": "TLDR: If an agent is allowed to code, it could score almost perfectly on many benchmarks, even the one with AGI in th…",
       "body": "TLDR: If an agent is allowed to code, it could score almost perfectly on many benchmarks, even the one with AGI in the name.",
@@ -197,22 +171,9 @@
       "href": "https://x.com/yunta_tsai/status/2085368515889181180"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
-      "pubDate": "2026-08-06T13:56:00.000Z",
-      "title": "Watch Tesla driver plea with police after FSD drove 64 mph in a 45",
-      "body": "Watch Tesla driver plea with police after FSD drove 64 mph in a 45 Electrek",
-      "sourceName": "Electrek",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://electrek.co/2026/08/06/tesla-driver-blames-fsd-speeding-police-stop/"
-    },
-    {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "16h ago",
       "pubDate": "2026-08-06T12:52:24.000Z",
       "title": "Tesla starts Megapack 3 production with 28% more energy per unit",
       "body": "Tesla has started building its next-generation Megapack 3 grid battery, with the first units rolling off the line at the company’s new Megafactory in Brookshire, Texas. The plant went from groundbreaking to production in…",
@@ -225,7 +186,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "12h ago",
+      "time": "16h ago",
       "pubDate": "2026-08-06T12:38:49.000Z",
       "title": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret",
       "body": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret Reuters",
@@ -236,9 +197,22 @@
       "href": "https://www.reuters.com/legal/litigation/pressured-by-tesla-european-regulators-keep-full-self-driving-safety-data-secret-2026-08-06/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "17h ago",
+      "pubDate": "2026-08-06T11:29:00.000Z",
+      "title": "Tesla Stock Drops as It Seeks to Tap Massive Self-Driving Market",
+      "body": "Tesla Stock Drops as It Seeks to Tap Massive Self-Driving Market Barron's",
+      "sourceName": "Barron's",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.barrons.com/articles/tesla-stock-price-today-self-driving-0eba060b"
+    },
+    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "1d ago",
+      "time": "2d ago",
       "pubDate": "2026-08-05T15:09:21.000Z",
       "title": "Amazon's Zoox to start paid robotaxi rides in Vegas next week",
       "body": "Amazon's Zoox to start paid robotaxi rides in Vegas next week Reuters",
@@ -247,6 +221,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/autos-transportation/amazons-zoox-start-paid-robotaxi-rides-vegas-next-week-2026-08-05/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2d ago",
+      "pubDate": "2026-08-05T13:57:04.000Z",
+      "title": "Uber doubles down on robotaxi plans, shares fall on weak profit forecast",
+      "body": "Uber doubles down on robotaxi plans, shares fall on weak profit forecast Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/autos-transportation/uber-forecasts-weak-quarterly-profit-doubles-down-robotaxi-investment-plans-2026-08-05/"
     },
     {
       "category": "product",
@@ -260,6 +247,19 @@
       "slug": "",
       "summary": "",
       "href": "https://www.reuters.com/business/media-telecom/teslas-july-china-made-ev-sales-rise-378-yy-2026-08-04/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "1997d ago",
+      "pubDate": "2021-02-16T23:09:11.000Z",
+      "title": "Check out TSLA.O, TM's stock price (TSLA,TM) in real time",
+      "body": "Check out TSLA.O, TM's stock price (TSLA,TM) in real time CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/quotes/TSLA,TM"
     }
   ]
 }
