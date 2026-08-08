@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-08-03T07:45:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "fsd-ross-gerber-emergency-vehicle-near-miss-2026-08-03",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — Benzinga/inkl 보도, 원소스는 로스 거버 개인 주장이나 2개 매체 교차보도로 press 등급 유지",
-            "조언톤 위반 없음 — 매수·매도 권유·목표가 없음",
-            "단정 전환 없음 — body에 '주장'으로 명시, 원문의 hedge(almost/claims) 유지",
-            "숫자·인용 대조: 'Still Has Major Issues' 인용은 raw 타이틀 원문 그대로, 추가 수치 창작 없음",
-            "href-본문 일치: Benzinga href가 다루는 사건과 카드 요약 일치",
-            "verify-error: 대상 URL(benzinga.com, inkl.com) WebFetch 403 — 프록시 egress 정책으로 원문 재확인 불가, fail-open으로 pass 처리(WebSearch 스니펫으로 제목·인용구만 간접 대조)"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-08-03T13:15:00.000Z",
       "mode": "shadow",
       "checked": 2,
@@ -795,6 +775,24 @@
             "href matches the Teslarati article referenced in raw card",
             "not X-sourced, meme/satire check N/A",
             "verify-error: WebFetch to teslarati.com blocked by egress proxy this run; verification relied on raw body text (which already contained the core fact) plus WebSearch cross-checks — deliberately omitted unconfirmed secondary-source specifics (e.g. remote-piloted-from-Texas claim) that could not be corroborated against primary source"
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-08T19:40:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "product-fortbend-solar-cell-factory-2026-08-06",
+          "verdict": "pass",
+          "reasons": [
+            "All core figures ($10.1B total, $1.5B real property/$8.6B equipment, 9,712 jobs, Fort Bend County FM1994/FM762, Lamar Consolidated ISD, filed Aug 6 2026 under JETI Act, 2026 start/2028 completion/2029 Q1 ops) corroborated across KHOU/Houston Business Journal, KVUE, Construction Review Online, EVSHIFT.",
+            "sourceLabel 'press' confirmed correct (news outlet reporting on public filing, multi-outlet corroborated, not sec/official/rumor).",
+            "No advice-tone violation.",
+            "No speculation-to-assertion violation — hedged language ('검토 중'/'신청') matches sources; card doesn't overstate as finalized.",
+            "href verified via independent WebSearch cross-check (direct WebFetch to khou.com blocked by network egress in this environment)."
           ]
         }
       ]

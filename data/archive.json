@@ -194,6 +194,32 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1d ago",
+      "pubDate": "2026-08-06T22:00:00.000Z",
+      "title": "테슬라, 텍사스 포트벤드 카운티에 <em>101억달러 태양광셀 공장</em> 검토 — 세금감면 신청",
+      "hotShort": "테슬라, 텍사스에 <em>101억달러 태양광 공장</em> 검토",
+      "body": "테슬라가 휴스턴 인근 텍사스 포트벤드 카운티에 태양광 셀·모듈을 직접 생산하는 <em>101억달러 규모 수직계열화 공장</em> 건립을 검토 중 — 학교구 세금감면(JETI법) 신청서가 8/6 공개되며 드러났다. 에너지 사업을 완성차 넘어 부품 자체 생산까지 확장하려는 신호.",
+      "sourceName": "KHOU 11 (Houston Business Journal)",
+      "sourceLabel": "press",
+      "slug": "product-fortbend-solar-cell-factory-2026-08-06",
+      "summary": "테슬라 에너지 사업(메가팩·파워월)이 최근 빠르게 성장하는 가운데, 태양광 셀·모듈까지 자체 생산하는 신규 공장 계획이 세금감면 신청서를 통해 드러났다.\n\n공개된 신청서에 따르면 공장 부지는 텍사스 포트벤드 카운티의 FM 1994·FM 762 인근(슈가랜드·리치먼드·로젠버그 인근), 학군은 Lamar Consolidated ISD다. 투자 규모는 부동산 약 15억달러·설비 약 86억달러 등 총 101억달러이며, 영구 일자리 9,712개 창출이 예상된다.\n\n일정은 올해 착공, 2028년 완공, 2029년 1분기 상업가동을 목표로 한다. 테슬라는 학교구 재산세 감면을 위해 텍사스주 JETI(Jobs, Energy, Technology and Innovation Act) 프로그램을 통해 8월 6일 신청서를 제출했다.\n\n테슬라는 앞서 태양광 생산능력을 대폭 확대하겠다는 뜻을 내비쳐온 바 있어, 이번 신청은 그 연장선으로 해석된다. 다만 세금감면 신청 단계로 주·교육구 승인이 남아 있어 최종 확정된 사안은 아니다.",
+      "title_en": "Tesla eyes <em>$10.1B solar cell factory</em> in Texas' Fort Bend County",
+      "hotShort_en": "Tesla plans <em>$10.1B Texas solar plant</em>",
+      "body_en": "Tesla is weighing a <em>$10.1 billion vertically integrated solar cell factory</em> near Houston in Fort Bend County, Texas — revealed via a school-district tax abatement filing made public Aug. 6. It's a sign Tesla wants to bring solar cell and module manufacturing in-house, extending its energy business beyond vehicles.",
+      "summary_en": "As Tesla's energy business (Megapack, Powerwall) keeps growing fast, a newly disclosed tax filing shows the company is now eyeing in-house solar cell and module manufacturing too.\n\nAccording to the filing, the site sits near FM 1994 and FM 762 in Fort Bend County — near Sugar Land, Richmond and Rosenberg — within the Lamar Consolidated Independent School District. The project totals roughly $10.1 billion in capital investment (about $1.5B in real property, $8.6B in equipment), with an expected 9,712 permanent jobs.\n\nTesla is targeting construction start this year, completion in 2028, and commercial operations by Q1 2029. The company filed the application on August 6 under Texas' JETI (Jobs, Energy, Technology and Innovation Act) program, which offers school-district property tax abatements.\n\nTesla has previously signaled plans to significantly scale up solar manufacturing capacity, and this filing appears to be part of that push. It's still an early-stage application, though — state and school-district approval are still pending, so nothing is finalized yet.",
+      "href": "https://www.khou.com/article/money/business/houston-business-journal/houston-tesla-fort-bend-county/285-a4c1442f-258b-4371-90c4-57d9469ff7ae",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Houston Business Journal",
+        "Yahoo Finance",
+        "KVUE"
+      ],
+      "sentiment": "bull",
+      "hot": 6
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
       "time": "4h ago",
       "pubDate": "2026-08-06T21:58:28.000Z",
       "title": "머스크, 테라팹 영상에 <em>로보밴</em> 깜짝 등장 — 공개 2년 만의 근황",
@@ -2352,27 +2378,7 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "13h ago",
-      "pubDate": "2026-07-25T08:00:00.000Z",
-      "title": "포춘 \"스페이스X, 테슬라 인수 <em>최적기 이미 지났다</em>\"",
-      "hotShort": "포춘 \"스페이스X, 테슬라 인수 <em>적기 놓쳤다</em>\"",
-      "body": "포춘 분석에 따르면 스페이스X 시총이 정점이던 7월16일($2.8T, 테슬라 $1.6T)엔 신주 57% 발행으로 테슬라를 인수할 수 있었지만, 두 회사 주가가 함께 급락한 7월24일 기준으론 필요 지분율이 82%로 치솟았다 — 22일 실적콜에서 머스크가 합병 가능성을 부인하지 않은 지 사흘 만에, 정작 셈법은 스페이스X 주주에 크게 불리해진 셈이다.",
-      "sourceName": "Fortune",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-missed-merger-window-2026-07-25",
-      "summary": "테슬라와 스페이스X의 합병설은 22일 2분기 실적콜에서 다시 불붙었다. 한 애널리스트가 스페이스X의 테슬라 인수 계획을 묻자 머스크는 \"실적콜에서 회사 합병 같은 얘기를 할 수는 없다 — 적절한 절차를 거쳐야 한다\"며 즉답을 피했지만, 가능성 자체를 부인하지도 않았다.\n\n포춘은 이 발언 직후 두 회사의 주가 흐름을 근거로, 오히려 인수 '적기'는 이미 지나갔을 수 있다고 분석했다. 스페이스X 주가가 정점을 찍은 7월16일 기준 시가총액은 $2.8T로 테슬라($1.6T)의 1.75배 수준이었다 — 이 시점이라면 스페이스X가 신주 57%만 발행해도 전량 주식교환 방식으로 테슬라를 인수할 수 있었다는 계산이다.\n\n그러나 7월24일 오후 기준 스페이스X 시총은 $1.49T까지 밀린 반면 테슬라는 $1.22T로 상대적으로 덜 빠지면서, 같은 방식의 인수에 필요한 신주 발행 비율은 82%로 급등했다. 스페이스X 주주 입장에서는 지분 희석 부담이 그만큼 커진 셈이다.\n\n두 회사 주가가 이번 주 동반 조정을 받은 배경은 다른 카드에서 다룬 대로다 — 테슬라는 2분기 실적 발표 후 주간 18% 급락, 스페이스X도 스타십 시험 연기 속 상장 후 최저치로 밀렸다. 합병 논의가 실제로 진전될지는 불확실하지만, 적어도 현재의 주가 수준에서는 스페이스X 주주에게 셈법이 불리해졌다는 것이 포춘의 지적이다.",
-      "title_en": "Fortune: SpaceX may have <em>missed its window</em> to buy Tesla",
-      "hotShort_en": "Fortune: SpaceX <em>missed its window</em> for Tesla",
-      "body_en": "Fortune's analysis shows SpaceX could have acquired Tesla by issuing just 57% new shares when its market cap peaked at $2.8T on July 16 (vs. Tesla's $1.6T) — but after both stocks sold off through July 24 (SpaceX $1.49T, Tesla $1.22T), the same all-stock deal would now require issuing 82% of SpaceX's shares, a far more dilutive ratio for SpaceX shareholders.",
-      "summary_en": "Merger speculation between Tesla and SpaceX reignited on the July 22 Q2 earnings call, when an analyst asked whether SpaceX planned to buy Tesla. Musk deflected — \"We can't talk about combining companies and things like that on an earnings call. It's got to be done with the appropriate process\" — without ruling it out.\n\nFortune's analysis, published days later, argues the ideal window for such a deal may have already closed. When SpaceX shares peaked on July 16, its market cap hit $2.8T, roughly 1.75 times Tesla's $1.6T — a ratio that would have let SpaceX acquire Tesla in an all-stock deal by issuing just 57% new shares.\n\nBy the afternoon of July 24, though, SpaceX's market cap had fallen to $1.49T while Tesla held up relatively better at $1.22T, pushing the share issuance needed for the same deal up to 82% — a far more dilutive outcome for SpaceX shareholders.\n\nThe pullback in both stocks this week is covered elsewhere in this briefing: Tesla fell 18% for the week after its Q2 report, and SpaceX slid to a post-IPO low amid a delayed Starship test. Whether a merger actually advances remains unclear, but Fortune's math suggests the terms have swung against SpaceX shareholders at current prices.",
-      "href": "https://fortune.com/2026/07/25/spacex-tesla-stock-price-merger-window-elon-musk/",
-      "sentiment": "neutral",
-      "hot": 6
     }
   ],
-  "asOf": "2026-08-08 16:06 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-08 19:40 KST 자동 갱신 · 최신순"
 }
