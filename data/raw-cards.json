@@ -1,14 +1,53 @@
 {
-  "asOf": "2026-08-08 08:49 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-08 10:38 UTC 기준 · 카테고리당 top 5건",
   "items": [
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "9m ago",
+      "pubDate": "2026-08-08T10:29:58.000Z",
+      "title": "Tesla’s Two Trump Cards in the Robotaxi Race",
+      "body": "Tesla’s Two Trump Cards in the Robotaxi Race NAI500",
+      "sourceName": "NAI500",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://nai500.com/blog/2026/08/teslas-two-trump-cards-in-the-robotaxi-race/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "47m ago",
+      "pubDate": "2026-08-08T09:51:36.000Z",
+      "title": "Prediction for Tesla Stock in 3 Years: The Bear Case",
+      "body": "Prediction for Tesla Stock in 3 Years: The Bear Case The Motley Fool",
+      "sourceName": "The Motley Fool",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.fool.com/investing/2026/08/08/prediction-for-tesla-stock-in-3-years-the-bear-cas/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-08-08T07:41:45.000Z",
+      "title": "Tesla Stock Slips Premarket As EV Headwinds Mount — But One Wall Street Firm Sees Over 30% Upside On A ‘Physical AI’ Future",
+      "body": "Tesla Stock Slips Premarket As EV Headwinds Mount — But One Wall Street Firm Sees Over 30% Upside On A ‘Physical AI’ Future Stocktwits",
+      "sourceName": "Stocktwits",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://stocktwits.com/news-articles/markets/equity/tesla-stock-slips-premarket-ev-headwinds-mount-wall-street-sees-upside-physical-ai-future/cZR5NHfR4sm"
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "3h ago",
+      "time": "4h ago",
       "pubDate": "2026-08-08T06:10:58.000Z",
       "title": "The Boring Company’s newest tunnel vehicle runs on Tesla parts and no one is driving it",
-      "body": "The Boring Company’s newest tunnel vehicle runs on Tesla parts and no one is driving it Teslarati",
-      "sourceName": "Teslarati",
+      "body": "The Boring Company’s newest tunnel vehicle runs on Tesla parts and no one is driving it teslarati.com",
+      "sourceName": "teslarati.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -17,7 +56,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "3h ago",
+      "time": "5h ago",
       "pubDate": "2026-08-08T05:32:12.000Z",
       "title": "Terafab x Blade Runner vibe by @imagine 2.0",
       "body": "Terafab x Blade Runner vibe by @imagine 2.0 https://t.co/2GvLj412Tg",
@@ -28,22 +67,9 @@
       "href": "https://x.com/yunta_tsai/status/2085962259457872245"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "6h ago",
-      "pubDate": "2026-08-08T03:14:00.000Z",
-      "title": "SCS Capital Management boosts Tesla stake with 1,889 shares",
-      "body": "SCS Capital Management boosts Tesla stake with 1,889 shares The Globe and Mail",
-      "sourceName": "The Globe and Mail",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/3731466/scs-capital-management-boosts-tesla-stake-with-1889-shares/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-08-08T01:24:14.000Z",
       "title": "RL reward is a very lossy way to codify real-world feedback. Thus, it’s very important for ML engineers to actually u…",
       "body": "RL reward is a very lossy way to codify real-world feedback. Thus, it’s very important for ML engineers to actually use the products daily.",
@@ -56,7 +82,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-08-07T20:38:00.000Z",
       "title": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
       "body": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects. Barron's",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-08-07T20:33:27.000Z",
       "title": "New Tesla Supercharger: Meridian, ID (8 stalls)",
       "body": "New Tesla Supercharger: Meridian, ID (8 stalls) https://t.co/cwNWSzkKzF https://t.co/TBBd54iFKW",
@@ -82,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "12h ago",
+      "time": "14h ago",
       "pubDate": "2026-08-07T20:29:47.000Z",
       "title": "SpaceX Nears IPO Price Again After Staging $327 Billion Rally",
       "body": "SpaceX Nears IPO Price Again After Staging $327 Billion Rally Bloomberg.com",
@@ -95,7 +121,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "13h ago",
+      "time": "15h ago",
       "pubDate": "2026-08-07T19:22:56.000Z",
       "title": "New Tesla Supercharger: Saint Clair, MO (8 stalls)",
       "body": "New Tesla Supercharger: Saint Clair, MO (8 stalls) https://t.co/2Prdjngx0Y https://t.co/TBDPoExKvI",
@@ -106,48 +132,22 @@
       "href": "https://x.com/TeslaCharging/status/2085808930165342525"
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "16h ago",
-      "pubDate": "2026-08-07T16:35:50.000Z",
-      "title": "New Tesla Supercharger: Limerick, Ireland (8 stalls)",
-      "body": "New Tesla Supercharger: Limerick, Ireland (8 stalls) https://t.co/jAQtRO8BCn https://t.co/sMjZsqWART",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2085766878887375188"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
       "time": "17h ago",
-      "pubDate": "2026-08-07T16:18:08.000Z",
-      "title": "Real-world miles speaks greater truth than spec sheet.",
-      "body": "Real-world miles speaks greater truth than spec sheet. https://t.co/MpfTY8m7qX",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
+      "pubDate": "2026-08-07T17:36:00.000Z",
+      "title": "How Much Quicker Is The Newest Version Of Tesla FSD? This Test Put It Against Old Software To Find Out",
+      "body": "How Much Quicker Is The Newest Version Of Tesla FSD? This Test Put It Against Old Software To Find Out InsideEVs",
+      "sourceName": "InsideEVs",
+      "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2085762423597003125"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-08-07T16:04:07.000Z",
-      "title": "Many robotic companies put Herman Miller into the office, but Tesla is one of the few places that put the office into…",
-      "body": "Many robotic companies put Herman Miller into the office, but Tesla is one of the few places that put the office into the futuristic factories. https://t.co/vEQ0oCWjtY",
-      "sourceName": "Yun-Ta Tsai (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/yunta_tsai/status/2085758898422911233"
+      "href": "https://insideevs.com/news/804210/tesla-hw-reaction-time-test/"
     },
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-08-07T15:08:29.000Z",
       "title": "Tesla admits Cybertruck PCS defect, extends warranty to 8 years",
       "body": "Tesla has officially acknowledged that the power conversion system (PCS) in pre-2026 Cybertrucks is defective, and it’s extending the warranty on those trucks to 8 years or 150,000 miles. The reversal comes after months …",
@@ -160,7 +160,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "18h ago",
+      "time": "20h ago",
       "pubDate": "2026-08-07T14:46:29.000Z",
       "title": "SpaceX shares upgraded. Argus says AI investments will pay off, and don't bet against Musk",
       "body": "SpaceX shares upgraded. Argus says AI investments will pay off, and don't bet against Musk CNBC",
@@ -173,7 +173,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
+      "time": "23h ago",
       "pubDate": "2026-08-07T11:15:00.000Z",
       "title": "An Early Bet on SpaceX Led to a 30% Gain for This College Endowment",
       "body": "An Early Bet on SpaceX Led to a 30% Gain for This College Endowment Bloomberg.com",
@@ -186,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "22h ago",
+      "time": "23h ago",
       "pubDate": "2026-08-07T11:10:00.000Z",
       "title": "Mach33 Financial Group: SpaceX could be worth tens of trillions in the 2030s",
       "body": "Mach33 Financial Group: SpaceX could be worth tens of trillions in the 2030s CNBC",
@@ -236,6 +236,19 @@
       "href": "https://www.reuters.com/business/media-telecom/teslas-july-china-made-ev-sales-rise-378-yy-2026-08-04/"
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "5d ago",
+      "pubDate": "2026-08-03T17:20:39.000Z",
+      "title": "Tesla's European registrations mixed in July despite broader EV momentum",
+      "body": "Tesla's European registrations mixed in July despite broader EV momentum Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/teslas-european-registrations-uneven-july-despite-broader-ev-momentum-2026-08-03/"
+    },
+    {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
       "time": "417d ago",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2025/06/17/tesla-stock-cybertruck-model-y.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1519d ago",
-      "pubDate": "2022-06-11T09:26:21.000Z",
-      "title": "MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA - Stock Price, Quote",
-      "body": "MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA - Stock Price, Quote CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/quotes/MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA"
     }
   ]
 }
