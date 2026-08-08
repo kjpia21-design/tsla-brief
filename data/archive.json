@@ -46,6 +46,32 @@
       "hot": 4
     },
     {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "12h ago",
+      "pubDate": "2026-08-07T15:08:29.000Z",
+      "title": "테슬라, 사이버트럭 PCS 결함 공식 인정 — 워런티 <em>8년으로 연장</em>",
+      "hotShort": "사이버트럭 PCS 결함 인정, 워런티 <em>8년 연장</em>",
+      "body": "테슬라가 2024~2025년형 초기 사이버트럭의 전력변환장치(PCS) 결함을 공식 인정하고 워런티를 8년·15만 마일로 연장 — 최대 7,200달러를 자비로 수리해온 소유주들에게는 환급도 진행한다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-pcs-warranty-2026-08-07",
+      "summary": "PCS(전력변환장치)는 월커넥터·완속충전기의 교류 전력을 사이버트럭 고전압 배터리용 직류로 바꾸고, 48볼트 전기 아키텍처도 함께 지원하는 핵심 부품이다. 그동안 다수 소유주가 이 부품 고장을 신고했지만, 테슬라는 수개월간 이를 공식 결함으로 인정하지 않았다.\n\n테슬라는 이번에 2024~2025년형 사이버트럭의 PCS 워런티를 8년·15만 마일로 확대했다. 2026년형은 기존 7년·7만 마일 파워트레인 워런티 안에서 그대로 PCS를 보장하며, 신형 차량에는 재설계된 PCS가 적용된다.\n\n테슬라는 그동안 자비로 최대 7,200달러를 들여 PCS를 교체한 소유주에게 향후 몇 주 내 비용을 환급하기로 했다. 아울러 소프트웨어 업데이트를 통해 PCS가 고장 나도 슈퍼차저 이용은 계속 가능하도록 조치했다.",
+      "title_en": "Tesla admits Cybertruck PCS defect, extends <em>warranty to 8 years</em>",
+      "hotShort_en": "Tesla admits Cybertruck defect, <em>warranty to 8 years</em>",
+      "body_en": "Tesla has officially acknowledged a defect in the power conversion system (PCS) on early Cybertrucks and is extending the warranty to 8 years / 150,000 miles — with reimbursement for owners who already paid up to $7,200 out of pocket to fix it.",
+      "summary_en": "The PCS converts AC power from a Wall Connector or Level 2 charger into DC for the high-voltage battery and also supports the truck's 48-volt electrical system. Owners had been reporting failures for months, but Tesla had not formally acknowledged a defect until now.\n\nThe extended 8-year/150,000-mile PCS warranty applies to 2024 and 2025 Cybertrucks. The 2026 model year keeps PCS coverage under the existing 7-year/70,000-mile powertrain warranty, and newer trucks now ship with a redesigned PCS.\n\nTesla says owners who previously paid out of pocket — as much as $7,200 for a replacement — will be reimbursed in the coming weeks. The company also pushed a software update that keeps Supercharging available even if the PCS fails.",
+      "href": "https://electrek.co/2026/08/07/tesla-cybertruck-pcs-defect-warranty-extension/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Not a Tesla App",
+        "DriveTeslaCanada"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "11m ago",
@@ -2353,27 +2379,7 @@
       ],
       "sentiment": "bull",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-07-25T00:45:00.000Z",
-      "title": "머스크의 <em>Boring Company, $20B 밸류에이션</em> 신규 펀딩 추진 — WSJ",
-      "hotShort": "Boring Company <em>$20B 밸류</em> 펀딩 추진",
-      "body": "WSJ 단독 보도에 따르면 일론 머스크의 터널 굴착 스타트업 Boring Company가 약 $4B 규모 신규 펀딩을 추진 중이며, 성사되면 기업가치가 $20B까지 오를 수 있다 — 지난해 9월 마지막 확인된 밸류에이션 $9.6B의 두 배가 넘는 수준이다. 아직 확정된 계약은 아니지만, 라스베이거스 루프에 테슬라 차량을 투입해 운영해 온 머스크 제국의 또 다른 축이 몸값을 키우고 있다는 신호.",
-      "sourceName": "WSJ",
-      "sourceLabel": "press",
-      "slug": "musk-boring-company-20b-valuation-2026-07-25",
-      "summary": "Boring Company는 2018년 스페이스X에서 분사한 터널 굴착 스타트업으로, 라스베이거스 컨벤션센터 지하에 만든 '베이거스 루프'가 대표 사업이다 — 승객을 태워 터널을 오가는 차량으로 테슬라 모델을 활용해 왔다.\n\nWSJ에 따르면 Boring Company는 현재 약 $4B 규모의 신규 펀딩 라운드를 논의 중이며, 라운드가 마무리되면 회사 밸류에이션이 최대 $20B에 이를 수 있다. 이는 지난해 9월 마지막으로 확인됐던 $9.6B 밸류에이션의 두 배를 웃도는 수준이다. 다만 정식 계약서(term sheet) 서명 여부는 확인되지 않았고, 최종 밸류에이션·투자자 명단 등 세부 조건은 아직 유동적이다.\n\n이번 소식은 스페이스X가 지난달 사상 최대 규모로 상장한 직후 나왔다는 점에서 눈길을 끈다. 머스크가 이끄는 비상장 계열사들이 잇따라 몸값을 재평가받는 흐름 속에서, 스페이스X의 성공적 상장이 그룹 내 다른 회사들의 자금 조달에도 훈풍으로 작용하는 모양새다.\n\n테슬라 주주에게 이 소식은 직접적인 재무 영향은 없지만, 머스크가 이끄는 여러 회사들의 밸류에이션이 서로 연동되는 흐름 속에서 테슬라·스페이스X 동반 조정을 다룬 다른 카드들과 함께 볼 만한 맥락이다.",
-      "title_en": "Musk's <em>Boring Company eyes $20B valuation</em> in new funding round — WSJ",
-      "hotShort_en": "Boring Co. <em>eyes $20B</em> in new funding",
-      "body_en": "Elon Musk's tunneling startup, the Boring Company, is pursuing a roughly $4B funding round that could value it at up to $20B — more than double its last confirmed valuation of $9.6B from September, WSJ reports exclusively. Nothing is finalized yet, but it's another sign that a Musk-led venture is seeing its valuation rise, this one built around running Tesla vehicles through its Las Vegas tunnel loop.",
-      "summary_en": "The Boring Company, spun off from SpaceX in 2018, is best known for the Vegas Loop — a tunnel system beneath the Las Vegas Convention Center that ferries passengers using Tesla vehicles.\n\nAccording to WSJ, the company is currently in talks for a roughly $4B funding round that, if completed, could value it at up to $20B — more than double the $9.6B valuation last confirmed in September. Whether a term sheet has been signed remains unclear, and details like the final valuation and investor lineup are still fluid.\n\nThe report lands notably soon after SpaceX's record-setting IPO last month. As Musk's private ventures see fresh valuation attention, SpaceX's successful listing appears to be creating tailwinds for fundraising across the rest of his corporate group.\n\nFor Tesla shareholders, this doesn't move Tesla's own financials directly, but it's worth reading alongside other cards in this briefing covering the joint Tesla-SpaceX selloff, given how intertwined the valuations of Musk's companies have become.",
-      "href": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef",
-      "sentiment": "neutral",
-      "hot": 4
     }
   ],
-  "asOf": "2026-08-08 05:45 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-08 12:05 KST 자동 갱신 · 최신순"
 }

@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-08-03T03:05:00.000Z",
-      "mode": "shadow",
-      "checked": 1,
-      "verdicts": [
-        {
-          "slug": "musk-starship-satellite-films-separation-2026-08-02",
-          "verdict": "pass",
-          "newSourceLabel": null,
-          "reasons": [
-            "sourceLabel(press) 적절 — Teslarati, SpaceX 공식 X 영상을 보도한 전문매체 기사",
-            "조언톤 위반 없음 — 매수·매도·목표가 언급 전혀 없음",
-            "추측→단정 전환 없음 — 원문에 hedge 표현 자체가 없고(사실 보도), 카드도 단정형 유지",
-            "숫자·고유명사 대조: 65초 영상·카메라 4대·스타링크 V3 위성 1기·상단부 171피트·13차 시험비행(7/24 스타베이스 발사, 직전 주 엔진 이상으로 발사 중단 후 재도전)·V3 위성 20기 중 6기가 내열 타일 촬영용 카메라 탑재 — 모두 WebSearch로 확인한 원문 사실과 일치",
-            "href-본문 일치 — Teslarati 기사(spacexs-starship-just-got-filmed-by-its-own-cargo)와 카드 내용 동일 사건",
-            "verify-error: Teslarati 원문 WebFetch 403 차단 — WebSearch 스니펫으로 대체 검증, fail-open 원칙에 따라 pass 처리"
-          ]
-        }
-      ]
-    },
-    {
       "at": "2026-08-03T05:07:29.000Z",
       "mode": "shadow",
       "checked": 1,
@@ -796,6 +776,25 @@
             "Card correctly labels this an independent YouTuber test (TechGeek Tesla), not an official Tesla benchmark, and flags limited sample/uncontrolled conditions — no advice tone, no unhedged overclaim.",
             "sourceLabel press correct (InsideEVs is the press outlet reporting the test); href matches exactly.",
             "No confirmedBy assigned since multiple outlets (teslahubs, notateslaapp, autoevolution) all cite the same single underlying test rather than independently verifying it — correctly left unconfirmed/single-sourced."
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-08-08T03:15:00.000Z",
+      "mode": "shadow",
+      "checked": 1,
+      "verdicts": [
+        {
+          "slug": "product-cybertruck-pcs-warranty-2026-08-07",
+          "verdict": "pass",
+          "reasons": [
+            "sourceLabel press correct (Electrek third-party journalism, not Tesla official release)",
+            "no advice-tone violations",
+            "no hedge-to-assertion drift — Tesla's own acknowledgment reported as settled fact appropriately",
+            "numbers (8yr/150k mi, $7,200 reimbursement, 2026 model 7yr/70k mi) cross-verified across 5+ independent outlets",
+            "href matches article",
+            "verify-error: direct WebFetch to electrek.co/notateslaapp.com blocked by egress proxy; verification relied on WebSearch cross-source corroboration instead"
           ]
         }
       ]
