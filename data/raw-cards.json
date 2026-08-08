@@ -1,49 +1,62 @@
 {
-  "asOf": "2026-08-08 16:39 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-08 18:45 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "52m ago",
-      "pubDate": "2026-08-08T15:47:10.000Z",
+      "time": "26m ago",
+      "pubDate": "2026-08-08T18:19:19.000Z",
+      "title": "Jefferies Remains a Hold on Tesla (TSLA)",
+      "body": "Jefferies Remains a Hold on Tesla (TSLA) theglobeandmail.com",
+      "sourceName": "theglobeandmail.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/3738871/jefferies-remains-a-hold-on-tesla-tsla/"
+    },
+    {
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "2h ago",
+      "pubDate": "2026-08-08T16:55:00.000Z",
+      "title": "First Look at Waymo's New Robotaxi UI and Gemini Integration",
+      "body": "First Look at Waymo's New Robotaxi UI and Gemini Integration notateslaapp.com",
+      "sourceName": "notateslaapp.com",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.notateslaapp.com/news/4559/first-look-at-waymos-new-robotaxi-ui-and-gemini-integration"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "2h ago",
+      "pubDate": "2026-08-08T16:23:27.000Z",
       "title": "Analysts Offer Insights on Consumer Cyclical Companies: Tesla (TSLA), Airbnb (ABNB) and Installed Building Products (IBP)",
-      "body": "Analysts Offer Insights on Consumer Cyclical Companies: Tesla (TSLA), Airbnb (ABNB) and Installed Building Products (IBP) The Globe and Mail",
-      "sourceName": "The Globe and Mail",
+      "body": "Analysts Offer Insights on Consumer Cyclical Companies: Tesla (TSLA), Airbnb (ABNB) and Installed Building Products (IBP) theglobeandmail.com",
+      "sourceName": "theglobeandmail.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
       "href": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/3737576/analysts-offer-insights-on-consumer-cyclical-companies-tesla-tsla-airbnb-abnb-and-installed-building-products-ibp/"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "3h ago",
-      "pubDate": "2026-08-08T14:06:00.000Z",
-      "title": "Tesla Stock (TSLA) Opinions on Year-to-Date Performance and Analyst Upgrades",
-      "body": "Tesla Stock (TSLA) Opinions on Year-to-Date Performance and Analyst Upgrades Quiver Quantitative",
-      "sourceName": "Quiver Quantitative",
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "7h ago",
+      "pubDate": "2026-08-08T11:23:25.000Z",
+      "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe",
+      "body": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe InsideEVs",
+      "sourceName": "InsideEVs",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.quiverquant.com/news/Tesla+Stock+%28TSLA%29+Opinions+on+Year-to-Date+Performance+and+Analyst+Upgrades"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
-      "pubDate": "2026-08-08T11:17:40.000Z",
-      "title": "Tesla Surges 2.8% on Massive AI Chip Factory and Cybertruck Warranty Boost",
-      "body": "Tesla Surges 2.8% on Massive AI Chip Factory and Cybertruck Warranty Boost InteractiveCrypto",
-      "sourceName": "InteractiveCrypto",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.interactivecrypto.com/tesla-surges-2-8-on-massive-ai-chip-factory-and-cybertruck-warranty-boost-aug-2026"
+      "href": "https://insideevs.com/news/790892/tesla-sales-europe-february-2026/"
     },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-08-08T10:00:00.000Z",
       "title": "What’s News in Markets: Dow Hits 54,000, Chip Stocks Waver, SpaceX Rebounds",
       "body": "What’s News in Markets: Dow Hits 54,000, Chip Stocks Waver, SpaceX Rebounds WSJ",
@@ -56,7 +69,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-08-08T09:25:13.000Z",
       "title": "Elon Musk joins the Nelk Boys on Full Send podcast",
       "body": "Elon Musk joins the Nelk Boys on Full Send podcast Teslarati",
@@ -67,22 +80,9 @@
       "href": "https://www.teslarati.com/elon-musk-nelk-boys-full-send-podcast-video/"
     },
     {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "10h ago",
-      "pubDate": "2026-08-08T06:28:50.000Z",
-      "title": "Tesla Being Eyed by Big General Motors (GM)",
-      "body": "Tesla Being Eyed by Big General Motors (GM) Teslarati",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.teslarati.com/tesla-being-eyed-by-big-general-motors-gm/"
-    },
-    {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-08-08T05:32:12.000Z",
       "title": "Terafab x Blade Runner vibe by @imagine 2.0",
       "body": "Terafab x Blade Runner vibe by @imagine 2.0 https://t.co/2GvLj412Tg",
@@ -95,7 +95,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "15h ago",
+      "time": "17h ago",
       "pubDate": "2026-08-08T01:24:14.000Z",
       "title": "RL reward is a very lossy way to codify real-world feedback. Thus, it’s very important for ML engineers to actually u…",
       "body": "RL reward is a very lossy way to codify real-world feedback. Thus, it’s very important for ML engineers to actually use the products daily.",
@@ -108,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-08-07T20:39:00.000Z",
       "title": "SK Hynix, SpaceX, Doximity, Trade Desk, Rigetti, Coherent, and More Stocks That Explain Today’s Market",
       "body": "SK Hynix, SpaceX, Doximity, Trade Desk, Rigetti, Coherent, and More Stocks That Explain Today’s Market Barron's",
@@ -121,7 +121,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-08-07T20:38:00.000Z",
       "title": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
       "body": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects. Barron's",
@@ -134,7 +134,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "20h ago",
+      "time": "22h ago",
       "pubDate": "2026-08-07T20:29:47.000Z",
       "title": "SpaceX Nears IPO Price Again After Staging $327 Billion Rally",
       "body": "SpaceX Nears IPO Price Again After Staging $327 Billion Rally Bloomberg.com",
@@ -145,17 +145,17 @@
       "href": "https://www.bloomberg.com/news/articles/2026-08-07/spacex-nears-ipo-price-again-after-staging-327-billion-rally"
     },
     {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "23h ago",
-      "pubDate": "2026-08-07T17:36:00.000Z",
-      "title": "How Much Quicker Is The Newest Version Of Tesla FSD? This Test Put It Against Old Software To Find Out",
-      "body": "How Much Quicker Is The Newest Version Of Tesla FSD? This Test Put It Against Old Software To Find Out InsideEVs",
-      "sourceName": "InsideEVs",
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "1d ago",
+      "pubDate": "2026-08-07T15:08:29.000Z",
+      "title": "Tesla admits Cybertruck PCS defect, extends warranty to 8 years",
+      "body": "Tesla has officially acknowledged that the power conversion system (PCS) in pre-2026 Cybertrucks is defective, and it’s extending the warranty on those trucks to 8 years or 150,000 miles. The reversal comes after months …",
+      "sourceName": "electrek.co",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://insideevs.com/news/804210/tesla-hw-reaction-time-test/"
+      "href": "https://electrek.co/2026/08/07/tesla-cybertruck-pcs-defect-warranty-extension/"
     },
     {
       "category": "fsd",
@@ -225,7 +225,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17d ago",
+      "time": "18d ago",
       "pubDate": "2026-07-22T07:00:00.000Z",
       "title": "Tesla’s Cratering Cybertruck Sales Evoke Ford Edsel Comparisons",
       "body": "Tesla’s Cratering Cybertruck Sales Evoke Ford Edsel Comparisons Bloomberg.com",
@@ -238,7 +238,20 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "417d ago",
+      "time": "246d ago",
+      "pubDate": "2025-12-06T06:21:03.000Z",
+      "title": "MSFT, NVDA, NIO, PLTR, QS, SOFI, TLRY, TSLA, VZ - Stock Price, Quote",
+      "body": "MSFT, NVDA, NIO, PLTR, QS, SOFI, TLRY, TSLA, VZ - Stock Price, Quote CNBC",
+      "sourceName": "CNBC",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.cnbc.com/quotes/MSFT,%20NVDA,%20NIO,%20PLTR,%20QS,%20SOFI,%20TLRY,%20TSLA,%20VZ"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "418d ago",
       "pubDate": "2025-06-17T07:00:00.000Z",
       "title": "Tesla stock slips after report EV maker is pausing Cybertruck and Model Y production",
       "body": "Tesla stock slips after report EV maker is pausing Cybertruck and Model Y production CNBC",
@@ -247,19 +260,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2025/06/17/tesla-stock-cybertruck-model-y.html"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1012d ago",
-      "pubDate": "2023-10-31T12:23:01.000Z",
-      "title": "Check out AAPL.O, MSFT.O, AMZN.O, GOOGL.O, TSLA.O's stock price (AAPL,MSFT,AMZN,GOOGL,TSLA) in real time",
-      "body": "Check out AAPL.O, MSFT.O, AMZN.O, GOOGL.O, TSLA.O's stock price (AAPL,MSFT,AMZN,GOOGL,TSLA) in real time CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/quotes/AAPL,MSFT,AMZN,GOOGL,TSLA"
     }
   ]
 }
