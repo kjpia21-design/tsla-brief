@@ -3,6 +3,26 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "58m ago",
+      "pubDate": "2026-08-08T06:08:55.000Z",
+      "title": "보링컴퍼니 새 터널 작업차량, <em>테슬라 부품으로 무인 운행</em>",
+      "hotShort": "보링컴퍼니, <em>테슬라 부품으로 무인 터널차량</em> 가동",
+      "body": "일론 머스크의 보링컴퍼니가 새 터널 작업 차량을 테슬라 모델3 배터리팩·구동장치로 제작해 운전자 없이 가동 중이라고 밝혔다 — 테슬라의 배터리·구동계 기술이 자동차를 넘어 계열사 산업용 장비로도 확장되는 흐름을 보여준다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-boring-tunnel-vehicle-tesla-parts-2026-08-08",
+      "summary": "보링컴퍼니가 공개한 신형 터널 작업 차량이 사람 운전자 없이 움직이는 모습으로 눈길을 끌었다. 테슬라라티에 따르면 이 차량은 테슬라 모델3용 배터리팩과 구동장치(드라이브 유닛)를 그대로 가져다 썼다.\n\n보링컴퍼니는 라스베이거스 루프 등 터널 교통 프로젝트를 운영해온 일론 머스크의 계열사로, 승객용 차량 역시 테슬라 차종을 활용해온 만큼 부품 공유 자체는 새로운 일이 아니다. 다만 이번엔 승객 이동용이 아니라 터널 내부의 작업 차량에 무인 운행이 적용됐다는 점이 다르다.\n\n구체적인 운행 방식(자율주행 여부·원격조종 여부)이나 실제 투입 시점 등 세부 사항은 아직 공개되지 않았다. 다만 테슬라의 배터리·구동계 기술이 자동차를 넘어 계열사의 산업용 장비로까지 재활용되는 사례로, 머스크 그룹 내 부품·기술 시너지가 어디까지 뻗어 있는지 보여주는 단면이다.",
+      "title_en": "Boring Company's new tunnel vehicle runs <em>driverless on Tesla parts</em>",
+      "hotShort_en": "Boring Co.'s new tunnel vehicle <em>runs driverless</em>",
+      "body_en": "Elon Musk's Boring Company says its newest tunnel work vehicle runs with no driver on board, built using Tesla Model 3 battery packs and drive units — another sign of Tesla hardware getting reused across Musk's companies.",
+      "summary_en": "The Boring Company has unveiled a new tunnel work vehicle that moves without anyone behind the wheel. According to Teslarati, the vehicle repurposes Tesla Model 3 battery packs and drive units.\n\nThe Boring Company, Musk's tunnel-infrastructure venture, has long used Tesla vehicles to ferry passengers through projects like the Las Vegas Loop, so parts-sharing with Tesla isn't new by itself. What's different here is that the driverless setup is applied to a work vehicle inside the tunnel, not a passenger ride.\n\nSpecifics on how the vehicle operates without a driver — autonomously or remotely — or when it enters regular use, haven't been disclosed. Still, it's another example of Tesla's battery and drivetrain technology extending beyond cars into industrial equipment for Musk's other ventures.",
+      "href": "https://www.teslarati.com/the-boring-companys-newest-tunnel-vehicle-runs-on-tesla-parts-and-no-one-is-driving-it/",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
       "pubDate": "2026-08-07T20:29:47.000Z",
       "title": "스페이스X 이틀새 <em>23% 폭등</em> — IPO가 재접근, 시총 3,270억달러 회복",
@@ -2352,34 +2372,7 @@
       "href": "https://fortune.com/2026/07/25/spacex-tesla-stock-price-merger-window-elon-musk/",
       "sentiment": "neutral",
       "hot": 6
-    },
-    {
-      "category": "musk",
-      "categoryLabel": "ELON · 일론 소식",
-      "time": "4h ago",
-      "pubDate": "2026-07-25T00:52:38.000Z",
-      "title": "스페이스X 스타십 13차 시험비행 — 신형 V3 <em>2차 시험서 첫 완전 착수</em>",
-      "hotShort": "스타십 신형 V3, <em>첫 완전 착수</em> 성공",
-      "body": "스페이스X가 24일 신형 스타십 V3의 두 번째 시험비행에서 상단부 스타십을 사상 처음으로 착수 후에도 완전한 형태로 유지시켰다 — 다만 슈퍼헤비 부스터는 목표 지점에는 도달했지만 '거친' 착수였다는 평가도 나왔다. 지난주 연기로 스페이스X 주가를 상장 후 최저치로 끌어내렸던 바로 그 시험비행의 재도전으로, 팰컨9 상업예약을 사실상 중단하고 스타십에 '올인'한 회사 전략의 성패를 가늠할 시금석이다.",
-      "sourceName": "The New York Times",
-      "sourceLabel": "press",
-      "slug": "musk-spacex-starship-flight13-splashdown-2026-07-25",
-      "summary": "이번 시험비행은 스타십/슈퍼헤비 통산 13차 발사이자, 이전보다 크고 강력하게 재설계된 신형 V3 기체로는 두 번째 시험이다. 앞서 날씨·기술적 문제로 발사가 한 차례 연기되면서, 다른 카드에서 다룬 대로 스페이스X 주가가 상장 후 최저치로 밀리는 데 일조한 바로 그 비행이 24일 마침내 이뤄졌다.\n\n결과는 절반의 성공에 가깝다. 상단부 스타십은 착수 후에도 선체가 완전한 형태를 유지한 채 수면 위에 떠 있었고, 탑재 카메라 다수도 계속 작동해 영상을 전송했다 — 스페이스X 시험비행 역사상 처음 있는 일이다. 반면 별도로 착수한 슈퍼헤비 부스터는 목표 지점에는 정확히 도달했지만, 일부 매체는 이를 '거친(hard)' 착수로 묘사했다.\n\n일론 머스크는 X를 통해 이번 비행에서 열차폐 시스템의 성능이 이전 시험 대비 크게 개선됐다고 자평했다. 스페이스X는 앞서 2028년 이후 팰컨9 상업 예약을 사실상 중단하겠다고 밝히며 스타십에 사업의 무게중심을 완전히 옮긴 상태라, 이번 시험 결과는 회사의 장기 전략이 궤도에 오르고 있는지를 보여주는 초기 신호로 받아들여진다.\n\n테슬라 주주 입장에서 스페이스X는 별도 회사지만, 이번 주 다른 카드에서 다룬 대로 머스크의 재산 대부분이 테슬라·스페이스X 두 회사 지분에 묶여 있고 스페이스X는 지난달 상장 이후 주가 변동성이 테슬라와 함께 시장의 관심사가 됐다. 시험 결과가 완전한 성공은 아니었던 만큼, 스페이스X 주가와 머스크의 시장 신뢰 회복 여부는 다음 시험비행까지 지켜볼 대목이다.",
-      "title_en": "SpaceX Starship's 13th test flight — <em>first fully intact splashdown</em> for new V3 design",
-      "hotShort_en": "Starship V3's <em>first intact splashdown</em>",
-      "body_en": "SpaceX's second test flight of its redesigned Starship V3 on July 24 saw the ship's upper stage remain fully intact after splashdown for the first time ever — though the Super Heavy booster hit its target zone with what some outlets called a 'hard' splashdown. The flight was a retry of the very test whose earlier delay had helped drag SpaceX shares to a post-IPO low, and it's an early test of whether the company's all-in bet on Starship — after effectively halting new Falcon 9 commercial bookings past 2028 — is paying off.",
-      "summary_en": "This was Starship/Super Heavy's 13th flight overall, and the second test of the larger, more powerful V3 redesign. The launch had been delayed once over weather and technical issues — the same delay that, as covered elsewhere in this briefing, helped push SpaceX shares to a post-IPO low — before finally flying on July 24.\n\nThe result was a mixed success. Starship's upper stage splashed down with its hull fully intact, still floating with many onboard cameras transmitting video — a first in SpaceX's test-flight history. Separately, the Super Heavy booster hit its target splashdown zone, though some outlets described the landing as 'hard.'\n\nElon Musk said on X that the flight showed a significant improvement in heat-shield performance over prior tests. SpaceX has already said it will effectively stop taking new Falcon 9 commercial bookings past 2028, shifting the company's center of gravity fully onto Starship — making this test an early signal of whether that long-term bet is on track.\n\nFor Tesla shareholders, SpaceX is a separate company, but as covered elsewhere this week, most of Musk's wealth is tied up in Tesla and SpaceX shares together, and SpaceX's stock swings have drawn market attention since last month's IPO. Since the test fell short of a clean full success, whether SpaceX shares — and market confidence in Musk — recover is something to watch heading into the next test flight.",
-      "href": "https://www.nytimes.com/2026/07/24/science/spacex-starship-13th-test-flight.html",
-      "confirmedBy": 4,
-      "confirmingSources": [
-        "The New York Times",
-        "Bloomberg",
-        "WSJ",
-        "Teslarati"
-      ],
-      "sentiment": "bull",
-      "hot": 6
     }
   ],
-  "asOf": "2026-08-08 12:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-08 16:06 KST 자동 갱신 · 최신순"
 }

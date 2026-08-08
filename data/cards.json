@@ -3,6 +3,26 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
+      "time": "58m ago",
+      "pubDate": "2026-08-08T06:08:55.000Z",
+      "title": "보링컴퍼니 새 터널 작업차량, <em>테슬라 부품으로 무인 운행</em>",
+      "hotShort": "보링컴퍼니, <em>테슬라 부품으로 무인 터널차량</em> 가동",
+      "body": "일론 머스크의 보링컴퍼니가 새 터널 작업 차량을 테슬라 모델3 배터리팩·구동장치로 제작해 운전자 없이 가동 중이라고 밝혔다 — 테슬라의 배터리·구동계 기술이 자동차를 넘어 계열사 산업용 장비로도 확장되는 흐름을 보여준다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-boring-tunnel-vehicle-tesla-parts-2026-08-08",
+      "summary": "보링컴퍼니가 공개한 신형 터널 작업 차량이 사람 운전자 없이 움직이는 모습으로 눈길을 끌었다. 테슬라라티에 따르면 이 차량은 테슬라 모델3용 배터리팩과 구동장치(드라이브 유닛)를 그대로 가져다 썼다.\n\n보링컴퍼니는 라스베이거스 루프 등 터널 교통 프로젝트를 운영해온 일론 머스크의 계열사로, 승객용 차량 역시 테슬라 차종을 활용해온 만큼 부품 공유 자체는 새로운 일이 아니다. 다만 이번엔 승객 이동용이 아니라 터널 내부의 작업 차량에 무인 운행이 적용됐다는 점이 다르다.\n\n구체적인 운행 방식(자율주행 여부·원격조종 여부)이나 실제 투입 시점 등 세부 사항은 아직 공개되지 않았다. 다만 테슬라의 배터리·구동계 기술이 자동차를 넘어 계열사의 산업용 장비로까지 재활용되는 사례로, 머스크 그룹 내 부품·기술 시너지가 어디까지 뻗어 있는지 보여주는 단면이다.",
+      "title_en": "Boring Company's new tunnel vehicle runs <em>driverless on Tesla parts</em>",
+      "hotShort_en": "Boring Co.'s new tunnel vehicle <em>runs driverless</em>",
+      "body_en": "Elon Musk's Boring Company says its newest tunnel work vehicle runs with no driver on board, built using Tesla Model 3 battery packs and drive units — another sign of Tesla hardware getting reused across Musk's companies.",
+      "summary_en": "The Boring Company has unveiled a new tunnel work vehicle that moves without anyone behind the wheel. According to Teslarati, the vehicle repurposes Tesla Model 3 battery packs and drive units.\n\nThe Boring Company, Musk's tunnel-infrastructure venture, has long used Tesla vehicles to ferry passengers through projects like the Las Vegas Loop, so parts-sharing with Tesla isn't new by itself. What's different here is that the driverless setup is applied to a work vehicle inside the tunnel, not a passenger ride.\n\nSpecifics on how the vehicle operates without a driver — autonomously or remotely — or when it enters regular use, haven't been disclosed. Still, it's another example of Tesla's battery and drivetrain technology extending beyond cars into industrial equipment for Musk's other ventures.",
+      "href": "https://www.teslarati.com/the-boring-companys-newest-tunnel-vehicle-runs-on-tesla-parts-and-no-one-is-driving-it/",
+      "sentiment": "neutral",
+      "hot": 3
+    },
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
       "time": "2h ago",
       "pubDate": "2026-08-07T20:29:47.000Z",
       "title": "스페이스X 이틀새 <em>23% 폭등</em> — IPO가 재접근, 시총 3,270억달러 회복",
@@ -147,26 +167,6 @@
       "hot": 3
     },
     {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "4h ago",
-      "pubDate": "2026-08-06T21:58:28.000Z",
-      "title": "머스크, 테라팹 영상에 <em>로보밴</em> 깜짝 등장 — 공개 2년 만의 근황",
-      "hotShort": "머스크 영상에 <em>로보밴</em> 2년 만에 등장",
-      "body": "일론 머스크가 8월6일 공개한 테라팹 개념 렌더링 영상에 2024년 10월 공개 이후 근황이 없던 <em>로보밴</em>이 옵티머스·사이버캡·테슬라 세미와 함께 등장했다 — 실제 공장 촬영본이 아닌 콘셉트 렌더링이지만, 양산 일정이 여전히 미확정인 로보밴을 최근 들어 확인할 수 있는 거의 유일한 모습이라 제품 로드맵을 주시하는 주주는 눈여겨볼 만하다.",
-      "sourceName": "Teslarati",
-      "sourceLabel": "press",
-      "slug": "product-robovan-terafab-video-2026-08-06",
-      "summary": "로보밴은 2024년 10월 '위, 로봇(We, Robot)' 행사에서 사이버캡과 함께 처음 공개된 박스형 무인 승객·화물 운송차량이다. 당시 머스크는 스티어링휠·페달 없이 한 번에 최대 <em>20인</em>을 태우거나 화물 전용으로 쓸 수 있고, 목표 운영비는 마일당 <em>1달러 미만</em>이라고 소개했다.\n\n8월6일 머스크가 X에 올린 테라팹 영상은 텍사스 그라임스카운티 깁본스크리크 부지에 들어설 약 2.5마일(약 4km) 길이 공장을 배경으로 한 SpaceX 제작 콘셉트 렌더링이다. 영상에는 옵티머스 로봇들이 부지 곳곳에서 작업하는 모습과, 건물을 관통하는 고가도로 위로 로보밴이 사이버캡·테슬라 세미와 나란히 지나가는 장면이 담겼다 — 실제 공장 촬영본은 아니다.\n\n로보밴은 공개 후 약 2년이 지나도록 확정된 양산 일정이 없고, 실제 공장에서 촬영된 모습도 그동안 없었다 — 이번 렌더링이 최근 들어 로보밴을 시각적으로 확인할 수 있는 거의 유일한 자료라는 점에서 주목받는다.\n\n옵티머스와 마찬가지로 로보밴 역시 테슬라의 미래 성장 스토리에서 핵심 축으로 거론돼 왔지만, 구체적 생산 계획 공개 없이 콘셉트 영상에만 계속 등장하는 상황이 이어지면서 로드맵 실행 속도에 대한 의구심도 함께 제기된다.",
-      "title_en": "Musk's Terafab video gives <em>Robovan</em> a rare cameo — first look in 2 years",
-      "hotShort_en": "<em>Robovan</em> resurfaces in Musk's Terafab video",
-      "body_en": "A Terafab concept video Elon Musk posted on August 6 gave a rare glimpse of <em>Robovan</em>, which hasn't had a public update since its October 2024 reveal, appearing alongside Optimus, Cybercab, and Tesla Semi — it's a render, not real factory footage, but it's one of the only recent looks at a vehicle whose production timeline remains unconfirmed, worth watching for shareholders tracking Tesla's product roadmap.",
-      "summary_en": "Robovan is the boxy, driverless people-and-cargo mover Musk first unveiled alongside Cybercab at Tesla's 'We, Robot' event in October 2024. He pitched it as carrying up to <em>20 passengers</em> at once — or handling freight instead — with no steering wheel or pedals, at a target operating cost under <em>$1 a mile</em>.\n\nThe Terafab video Musk posted on X on August 6 is a SpaceX-produced concept render set against the roughly 2.5-mile-long facility planned for the Gibbons Creek site in Grimes County, Texas. It shows Optimus robots working the grounds while a Robovan glides along an elevated roadway through the building alongside a Cybercab and Tesla Semi — not actual factory footage.\n\nNearly two years after its reveal, Robovan still has no confirmed production timeline and hasn't appeared in any real factory footage — making this render one of the only recent looks at the vehicle in any form.\n\nLike Optimus, Robovan has been framed as central to Tesla's future growth story, but its continued appearances only in concept videos, without a concrete production plan, keep raising questions about execution pace on the roadmap.",
-      "href": "https://www.teslarati.com/teslas-mysterious-robovan-makes-a-sneak-peek-with-optimus-in-terafab-video/",
-      "sentiment": "neutral",
-      "hot": 4
-    },
-    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
       "time": "6h ago",
@@ -193,5 +193,5 @@
       "hot": 5
     }
   ],
-  "asOf": "2026-08-08 12:05 KST 자동 갱신 · 최신순"
+  "asOf": "2026-08-08 16:06 KST 자동 갱신 · 최신순"
 }
