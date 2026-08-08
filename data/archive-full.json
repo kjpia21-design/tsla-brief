@@ -1,6 +1,26 @@
 {
-  "asOf": "2026-08-08 07:01 UTC · 누적 782건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-08-08 08:49 UTC · 누적 783건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
+    {
+      "category": "musk",
+      "categoryLabel": "ELON · 일론 소식",
+      "time": "58m ago",
+      "pubDate": "2026-08-08T06:08:55.000Z",
+      "title": "보링컴퍼니 새 터널 작업차량, <em>테슬라 부품으로 무인 운행</em>",
+      "hotShort": "보링컴퍼니, <em>테슬라 부품으로 무인 터널차량</em> 가동",
+      "body": "일론 머스크의 보링컴퍼니가 새 터널 작업 차량을 테슬라 모델3 배터리팩·구동장치로 제작해 운전자 없이 가동 중이라고 밝혔다 — 테슬라의 배터리·구동계 기술이 자동차를 넘어 계열사 산업용 장비로도 확장되는 흐름을 보여준다.",
+      "sourceName": "Teslarati",
+      "sourceLabel": "press",
+      "slug": "musk-boring-tunnel-vehicle-tesla-parts-2026-08-08",
+      "summary": "보링컴퍼니가 공개한 신형 터널 작업 차량이 사람 운전자 없이 움직이는 모습으로 눈길을 끌었다. 테슬라라티에 따르면 이 차량은 테슬라 모델3용 배터리팩과 구동장치(드라이브 유닛)를 그대로 가져다 썼다.\n\n보링컴퍼니는 라스베이거스 루프 등 터널 교통 프로젝트를 운영해온 일론 머스크의 계열사로, 승객용 차량 역시 테슬라 차종을 활용해온 만큼 부품 공유 자체는 새로운 일이 아니다. 다만 이번엔 승객 이동용이 아니라 터널 내부의 작업 차량에 무인 운행이 적용됐다는 점이 다르다.\n\n구체적인 운행 방식(자율주행 여부·원격조종 여부)이나 실제 투입 시점 등 세부 사항은 아직 공개되지 않았다. 다만 테슬라의 배터리·구동계 기술이 자동차를 넘어 계열사의 산업용 장비로까지 재활용되는 사례로, 머스크 그룹 내 부품·기술 시너지가 어디까지 뻗어 있는지 보여주는 단면이다.",
+      "title_en": "Boring Company's new tunnel vehicle runs <em>driverless on Tesla parts</em>",
+      "hotShort_en": "Boring Co.'s new tunnel vehicle <em>runs driverless</em>",
+      "body_en": "Elon Musk's Boring Company says its newest tunnel work vehicle runs with no driver on board, built using Tesla Model 3 battery packs and drive units — another sign of Tesla hardware getting reused across Musk's companies.",
+      "summary_en": "The Boring Company has unveiled a new tunnel work vehicle that moves without anyone behind the wheel. According to Teslarati, the vehicle repurposes Tesla Model 3 battery packs and drive units.\n\nThe Boring Company, Musk's tunnel-infrastructure venture, has long used Tesla vehicles to ferry passengers through projects like the Las Vegas Loop, so parts-sharing with Tesla isn't new by itself. What's different here is that the driverless setup is applied to a work vehicle inside the tunnel, not a passenger ride.\n\nSpecifics on how the vehicle operates without a driver — autonomously or remotely — or when it enters regular use, haven't been disclosed. Still, it's another example of Tesla's battery and drivetrain technology extending beyond cars into industrial equipment for Musk's other ventures.",
+      "href": "https://www.teslarati.com/the-boring-companys-newest-tunnel-vehicle-runs-on-tesla-parts-and-no-one-is-driving-it/",
+      "sentiment": "neutral",
+      "hot": 3
+    },
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
