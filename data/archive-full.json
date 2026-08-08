@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-08 01:59 UTC · 누적 781건 (slug dedup, pubDate desc, cap 2000)",
+  "asOf": "2026-08-08 03:40 UTC · 누적 782건 (slug dedup, pubDate desc, cap 2000)",
   "items": [
     {
       "category": "musk",
@@ -45,6 +45,32 @@
       "href": "https://insideevs.com/news/804210/tesla-hw-reaction-time-test/",
       "sentiment": "neutral",
       "hot": 4
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "12h ago",
+      "pubDate": "2026-08-07T15:08:29.000Z",
+      "title": "테슬라, 사이버트럭 PCS 결함 공식 인정 — 워런티 <em>8년으로 연장</em>",
+      "hotShort": "사이버트럭 PCS 결함 인정, 워런티 <em>8년 연장</em>",
+      "body": "테슬라가 2024~2025년형 초기 사이버트럭의 전력변환장치(PCS) 결함을 공식 인정하고 워런티를 8년·15만 마일로 연장 — 최대 7,200달러를 자비로 수리해온 소유주들에게는 환급도 진행한다.",
+      "sourceName": "Electrek",
+      "sourceLabel": "press",
+      "slug": "product-cybertruck-pcs-warranty-2026-08-07",
+      "summary": "PCS(전력변환장치)는 월커넥터·완속충전기의 교류 전력을 사이버트럭 고전압 배터리용 직류로 바꾸고, 48볼트 전기 아키텍처도 함께 지원하는 핵심 부품이다. 그동안 다수 소유주가 이 부품 고장을 신고했지만, 테슬라는 수개월간 이를 공식 결함으로 인정하지 않았다.\n\n테슬라는 이번에 2024~2025년형 사이버트럭의 PCS 워런티를 8년·15만 마일로 확대했다. 2026년형은 기존 7년·7만 마일 파워트레인 워런티 안에서 그대로 PCS를 보장하며, 신형 차량에는 재설계된 PCS가 적용된다.\n\n테슬라는 그동안 자비로 최대 7,200달러를 들여 PCS를 교체한 소유주에게 향후 몇 주 내 비용을 환급하기로 했다. 아울러 소프트웨어 업데이트를 통해 PCS가 고장 나도 슈퍼차저 이용은 계속 가능하도록 조치했다.",
+      "title_en": "Tesla admits Cybertruck PCS defect, extends <em>warranty to 8 years</em>",
+      "hotShort_en": "Tesla admits Cybertruck defect, <em>warranty to 8 years</em>",
+      "body_en": "Tesla has officially acknowledged a defect in the power conversion system (PCS) on early Cybertrucks and is extending the warranty to 8 years / 150,000 miles — with reimbursement for owners who already paid up to $7,200 out of pocket to fix it.",
+      "summary_en": "The PCS converts AC power from a Wall Connector or Level 2 charger into DC for the high-voltage battery and also supports the truck's 48-volt electrical system. Owners had been reporting failures for months, but Tesla had not formally acknowledged a defect until now.\n\nThe extended 8-year/150,000-mile PCS warranty applies to 2024 and 2025 Cybertrucks. The 2026 model year keeps PCS coverage under the existing 7-year/70,000-mile powertrain warranty, and newer trucks now ship with a redesigned PCS.\n\nTesla says owners who previously paid out of pocket — as much as $7,200 for a replacement — will be reimbursed in the coming weeks. The company also pushed a software update that keeps Supercharging available even if the PCS fails.",
+      "href": "https://electrek.co/2026/08/07/tesla-cybertruck-pcs-defect-warranty-extension/",
+      "confirmedBy": 3,
+      "confirmingSources": [
+        "Electrek",
+        "Not a Tesla App",
+        "DriveTeslaCanada"
+      ],
+      "sentiment": "neutral",
+      "hot": 6
     },
     {
       "category": "musk",

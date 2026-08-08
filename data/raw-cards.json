@@ -1,23 +1,49 @@
 {
-  "asOf": "2026-08-08 01:59 UTC 기준 · 카테고리당 top 5건",
+  "asOf": "2026-08-08 03:40 UTC 기준 · 카테고리당 top 5건",
   "items": [
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "2h ago",
-      "pubDate": "2026-08-08T00:19:59.000Z",
+      "time": "20m ago",
+      "pubDate": "2026-08-08T03:20:15.000Z",
       "title": "Elon Musk and SpaceX shrugs off the trading day Wall Street feared most",
-      "body": "Elon Musk and SpaceX shrugs off the trading day Wall Street feared most Teslarati",
-      "sourceName": "Teslarati",
+      "body": "Elon Musk and SpaceX shrugs off the trading day Wall Street feared most teslarati.com",
+      "sourceName": "teslarati.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
       "href": "https://www.teslarati.com/elon-musk-and-spacex-shrugs-off-the-trading-day-wall-street-feared-most/"
     },
     {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "26m ago",
+      "pubDate": "2026-08-08T03:14:37.000Z",
+      "title": "SCS Capital Management boosts Tesla stake with 1,889 shares",
+      "body": "SCS Capital Management boosts Tesla stake with 1,889 shares The Globe and Mail",
+      "sourceName": "The Globe and Mail",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/3731466/scs-capital-management-boosts-tesla-stake-with-1889-shares/"
+    },
+    {
+      "category": "stock",
+      "categoryLabel": "STOCK · 주가·실적",
+      "time": "3h ago",
+      "pubDate": "2026-08-08T00:48:22.000Z",
+      "title": "Tesla Inc (TSLA) Stock Price, Trades & News",
+      "body": "Tesla Inc (TSLA) Stock Price, Trades & News GuruFocus",
+      "sourceName": "GuruFocus",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.gurufocus.com/stock/TSLA/summary?search"
+    },
+    {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-08-07T20:39:00.000Z",
       "title": "SK Hynix, SpaceX, Doximity, Trade Desk, Rigetti, Coherent, and More Stocks That Explain Today’s Market",
       "body": "SK Hynix, SpaceX, Doximity, Trade Desk, Rigetti, Coherent, and More Stocks That Explain Today’s Market Barron's",
@@ -30,7 +56,7 @@
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-08-07T20:38:00.000Z",
       "title": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
       "body": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects. Barron's",
@@ -43,7 +69,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "5h ago",
+      "time": "7h ago",
       "pubDate": "2026-08-07T20:33:27.000Z",
       "title": "New Tesla Supercharger: Meridian, ID (8 stalls)",
       "body": "New Tesla Supercharger: Meridian, ID (8 stalls) https://t.co/cwNWSzkKzF https://t.co/TBBd54iFKW",
@@ -56,7 +82,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "6h ago",
+      "time": "7h ago",
       "pubDate": "2026-08-07T20:29:47.000Z",
       "title": "SpaceX Nears IPO Price Again After Staging $327 Billion Rally",
       "body": "SpaceX Nears IPO Price Again After Staging $327 Billion Rally Bloomberg.com",
@@ -69,7 +95,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "7h ago",
+      "time": "8h ago",
       "pubDate": "2026-08-07T19:22:56.000Z",
       "title": "New Tesla Supercharger: Saint Clair, MO (8 stalls)",
       "body": "New Tesla Supercharger: Saint Clair, MO (8 stalls) https://t.co/2Prdjngx0Y https://t.co/TBDPoExKvI",
@@ -82,7 +108,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "7h ago",
+      "time": "9h ago",
       "pubDate": "2026-08-07T18:58:59.000Z",
       "title": "Same thing seems to be happening with TV shows and video games",
       "body": "Same thing seems to be happening with TV shows and video games https://t.co/TZKhtLTWf3",
@@ -95,11 +121,11 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "8h ago",
+      "time": "10h ago",
       "pubDate": "2026-08-07T17:36:00.000Z",
       "title": "How Much Quicker Is The Newest Version Of Tesla FSD? This Test Put It Against Old Software To Find Out",
-      "body": "How Much Quicker Is The Newest Version Of Tesla FSD? This Test Put It Against Old Software To Find Out InsideEVs",
-      "sourceName": "InsideEVs",
+      "body": "How Much Quicker Is The Newest Version Of Tesla FSD? This Test Put It Against Old Software To Find Out insideevs.com",
+      "sourceName": "insideevs.com",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
@@ -108,7 +134,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "9h ago",
+      "time": "11h ago",
       "pubDate": "2026-08-07T16:35:50.000Z",
       "title": "New Tesla Supercharger: Limerick, Ireland (8 stalls)",
       "body": "New Tesla Supercharger: Limerick, Ireland (8 stalls) https://t.co/jAQtRO8BCn https://t.co/sMjZsqWART",
@@ -121,7 +147,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "11h ago",
       "pubDate": "2026-08-07T16:18:08.000Z",
       "title": "Real-world miles speaks greater truth than spec sheet.",
       "body": "Real-world miles speaks greater truth than spec sheet. https://t.co/MpfTY8m7qX",
@@ -134,7 +160,7 @@
     {
       "category": "fsd",
       "categoryLabel": "FSD · 자율·로보택시",
-      "time": "10h ago",
+      "time": "12h ago",
       "pubDate": "2026-08-07T16:04:07.000Z",
       "title": "Many robotic companies put Herman Miller into the office, but Tesla is one of the few places that put the office into…",
       "body": "Many robotic companies put Herman Miller into the office, but Tesla is one of the few places that put the office into the futuristic factories. https://t.co/vEQ0oCWjtY",
@@ -147,7 +173,7 @@
     {
       "category": "product",
       "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-08-07T15:08:29.000Z",
       "title": "Tesla admits Cybertruck PCS defect, extends warranty to 8 years",
       "body": "Tesla has officially acknowledged that the power conversion system (PCS) in pre-2026 Cybertrucks is defective, and it’s extending the warranty on those trucks to 8 years or 150,000 miles. The reversal comes after months …",
@@ -160,7 +186,7 @@
     {
       "category": "musk",
       "categoryLabel": "ELON · 일론 소식",
-      "time": "11h ago",
+      "time": "13h ago",
       "pubDate": "2026-08-07T14:46:29.000Z",
       "title": "SpaceX shares upgraded. Argus says AI investments will pay off, and don't bet against Musk",
       "body": "SpaceX shares upgraded. Argus says AI investments will pay off, and don't bet against Musk CNBC",
@@ -169,32 +195,6 @@
       "slug": "",
       "summary": "",
       "href": "https://www.cnbc.com/2026/08/07/spacex-shares-upgraded-argus-says-dont-bet-against-musk.html"
-    },
-    {
-      "category": "fsd",
-      "categoryLabel": "FSD · 자율·로보택시",
-      "time": "17h ago",
-      "pubDate": "2026-08-07T09:23:48.000Z",
-      "title": "풀 셀프 드라이빙(감독형) 이용 가이드 FSD(감독형)은 목적지까지의 경로를 따라 차선을 유지하고, 차선을 변경하며, 신호와 교차로를 통과하고, 좌·우회전 및 주차를 수행할 수 있는 운전자 보조 시스템입니다. …",
-      "body": "풀 셀프 드라이빙(감독형) 이용 가이드 FSD(감독형)은 목적지까지의 경로를 따라 차선을 유지하고, 차선을 변경하며, 신호와 교차로를 통과하고, 좌·우회전 및 주차를 수행할 수 있는 운전자 보조 시스템입니다. 운전자는 항상 전방을 주시하고 즉시 개입할 준비가 되어 있어야 하며, 차량의 모든 https://t.co/BefpyyhyAZ",
-      "sourceName": "Tesla Korea (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/tesla_korea/status/2085658156311674981"
-    },
-    {
-      "category": "product",
-      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
-      "time": "17h ago",
-      "pubDate": "2026-08-07T08:51:10.000Z",
-      "title": "New Tesla Supercharger: Andora, Italy (8 stalls)",
-      "body": "New Tesla Supercharger: Andora, Italy (8 stalls) https://t.co/cD7sjgCyjq https://t.co/8BE7nFADtj",
-      "sourceName": "Tesla Charging (X)",
-      "sourceLabel": "official",
-      "slug": "",
-      "summary": "",
-      "href": "https://x.com/TeslaCharging/status/2085649943822561447"
     },
     {
       "category": "fsd",
@@ -223,43 +223,43 @@
       "href": "https://www.barrons.com/articles/tesla-stock-price-today-self-driving-0eba060b"
     },
     {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "988d ago",
-      "pubDate": "2023-11-24T13:11:47.000Z",
-      "title": "MSFT, NVDA, NIO, PLTR, QS, SQ, SOFI, TLRY, TSLA, VZ - Stock Price, Quote",
-      "body": "MSFT, NVDA, NIO, PLTR, QS, SQ, SOFI, TLRY, TSLA, VZ - Stock Price, Quote CNBC",
-      "sourceName": "CNBC",
+      "category": "fsd",
+      "categoryLabel": "FSD · 자율·로보택시",
+      "time": "3d ago",
+      "pubDate": "2026-08-05T15:09:21.000Z",
+      "title": "Amazon's Zoox to start paid robotaxi rides in Vegas next week",
+      "body": "Amazon's Zoox to start paid robotaxi rides in Vegas next week Reuters",
+      "sourceName": "Reuters",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/quotes/MSFT,%20NVDA,%20NIO,%20PLTR,%20QS,%20SQ,%20SOFI,%20TLRY,%20TSLA,%20VZ"
+      "href": "https://www.reuters.com/business/autos-transportation/amazons-zoox-start-paid-robotaxi-rides-vegas-next-week-2026-08-05/"
+    },
+    {
+      "category": "product",
+      "categoryLabel": "PRODUCT · 차량·에너지·옵티머스",
+      "time": "4d ago",
+      "pubDate": "2026-08-04T11:51:46.000Z",
+      "title": "Tesla's July China-made EV sales rise 37.8% y/y",
+      "body": "Tesla's July China-made EV sales rise 37.8% y/y Reuters",
+      "sourceName": "Reuters",
+      "sourceLabel": "press",
+      "slug": "",
+      "summary": "",
+      "href": "https://www.reuters.com/business/media-telecom/teslas-july-china-made-ev-sales-rise-378-yy-2026-08-04/"
     },
     {
       "category": "stock",
       "categoryLabel": "STOCK · 주가·실적",
-      "time": "1519d ago",
-      "pubDate": "2022-06-11T09:26:21.000Z",
-      "title": "MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA - Stock Price, Quote",
-      "body": "MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA - Stock Price, Quote CNBC",
+      "time": "417d ago",
+      "pubDate": "2025-06-17T07:00:00.000Z",
+      "title": "Tesla stock slips after report EV maker is pausing Cybertruck and Model Y production",
+      "body": "Tesla stock slips after report EV maker is pausing Cybertruck and Model Y production CNBC",
       "sourceName": "CNBC",
       "sourceLabel": "press",
       "slug": "",
       "summary": "",
-      "href": "https://www.cnbc.com/quotes/MU,AAPL,AMZN,MSFT,NVDA,NFLX,TXN,LRCX,INTC,GILD,TSLA"
-    },
-    {
-      "category": "stock",
-      "categoryLabel": "STOCK · 주가·실적",
-      "time": "1998d ago",
-      "pubDate": "2021-02-16T23:09:11.000Z",
-      "title": "Check out TSLA.O, TM's stock price (TSLA,TM) in real time",
-      "body": "Check out TSLA.O, TM's stock price (TSLA,TM) in real time CNBC",
-      "sourceName": "CNBC",
-      "sourceLabel": "press",
-      "slug": "",
-      "summary": "",
-      "href": "https://www.cnbc.com/quotes/TSLA,TM"
+      "href": "https://www.cnbc.com/2025/06/17/tesla-stock-cybertruck-model-y.html"
     }
   ]
 }
